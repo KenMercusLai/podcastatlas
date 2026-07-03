@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = 'hugo-xmin'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
