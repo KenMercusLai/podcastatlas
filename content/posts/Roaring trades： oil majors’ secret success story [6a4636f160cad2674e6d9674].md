@@ -2,7 +2,7 @@
 title = 'Roaring trades: oil majors’ secret success story'
 date = 2026-07-02T10:01:20Z
 show = 'Economist Podcasts'
-url = 'https://shows.acast.com/theintelligencepodcast/episodes/roaring-trades-oil-majors-secret-success-story'
+source_url = 'https://shows.acast.com/theintelligencepodcast/episodes/roaring-trades-oil-majors-secret-success-story'
 duration = '1416'
 draft = false
 +++
