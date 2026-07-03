@@ -2,7 +2,11 @@ baseURL = 'https://example.org/'
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = 'hugo-xmin'
+preview_urls = false
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[outputs]
+page = ['html','markdown']
