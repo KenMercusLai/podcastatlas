@@ -1,15 +1,18 @@
-{{ $pages := .ByDate.Reverse }}
+{{ $pages := (index . "pages").ByDate.Reverse }}
+{{ $showMeta := index . "showMeta" }}
 {{ if $pages }}
   <ul class="episode-list">
     {{ range $pages }}
       <li>
         <div>
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-          {{ with .GetTerms "show" }}
-            <div class="episode-meta">
-              Show:
-              {{ range $index, $term := . }}{{ if $index }}, {{ end }}<a href="{{ $term.RelPermalink }}">{{ $term.LinkTitle }}</a>{{ end }}
-            </div>
+          {{ if $showMeta }}
+            {{ with .GetTerms "show" }}
+              <div class="episode-meta">
+                Show:
+                {{ range $index, $term := . }}{{ if $index }}, {{ end }}<a href="{{ $term.RelPermalink }}">{{ $term.LinkTitle }}</a>{{ end }}
+              </div>
+            {{ end }}
           {{ end }}
         </div>
         {{ with .Date }}<time class="episode-date" datetime="{{ .Format "2006-01-02" }}">{{ .Format "2006-01-02" }}</time>{{ end }}
