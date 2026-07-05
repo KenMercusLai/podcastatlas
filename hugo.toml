@@ -10,3 +10,14 @@ preview_urls = false
 
 [outputs]
 page = ['html','markdown']
+
+[taxonomies]
+category = 'categories'
+tag = 'tags'
+show = 'show'
+
+[permalinks]
+  [permalinks.taxonomy]
+    show = '/shows/'
+  [permalinks.term]
+    show = '/shows/:slug/'
