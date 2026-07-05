@@ -6,13 +6,5 @@
     <h1>{{ .Title }}</h1>
   {{ end }}
 
-  <ul class="show-list">
-    {{ range .Data.Terms.Alphabetical }}
-      <li>
-        <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a>
-        {{ $count := int .Count }}
-        <span class="show-count">{{ $count }} episode{{ if ne $count 1 }}s{{ end }}</span>
-      </li>
-    {{ end }}
-  </ul>
+  {{ partial "show-list.html" .Data.Terms.Alphabetical }}
 {{ end }}
