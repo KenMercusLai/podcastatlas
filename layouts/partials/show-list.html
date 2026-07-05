@@ -1,0 +1,17 @@
+{{ $sortKeys := hugo.Data.show_sort_keys | default dict }}
+{{ $shows := slice }}
+{{ range . }}
+  {{ $title := .Page.LinkTitle }}
+  {{ $sortKey := index $sortKeys $title | default (lower $title) }}
+  {{ $shows = $shows | append (dict "count" .Count "page" .Page "sortKey" $sortKey) }}
+{{ end }}
+
+<ul class="show-list">
+  {{ range sort $shows "sortKey" }}
+    <li>
+      <a href="{{ .page.RelPermalink }}">{{ .page.LinkTitle }}</a>
+      {{ $count := int .count }}
+      <span class="show-count">{{ $count }} episode{{ if ne $count 1 }}s{{ end }}</span>
+    </li>
+  {{ end }}
+</ul>
