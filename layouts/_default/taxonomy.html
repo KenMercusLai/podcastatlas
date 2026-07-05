@@ -12,6 +12,6 @@
     <h1>{{ .Title }}</h1>
     {{ $count := int (len .Pages) }}
     <p class="count">{{ $count }} episode{{ if ne $count 1 }}s{{ end }}</p>
-    {{ partial "episode-list.html" .Pages }}
+    {{ partial "episode-list.html" (dict "pages" .Pages "showMeta" (ne .Data.Singular "show")) }}
   {{ end }}
 {{ end }}
