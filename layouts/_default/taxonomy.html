@@ -17,9 +17,6 @@
       {{ end }}
     </ul>
   {{ else }}
-    {{ if eq .Data.Singular "show" }}
-      <p class="meta"><a href="{{ "/shows/" | relURL }}">Shows</a></p>
-    {{ end }}
     <h1>{{ .Title }}</h1>
     {{ $count := int (len .Pages) }}
     <p class="count">{{ $count }} episode{{ if ne $count 1 }}s{{ end }}</p>
