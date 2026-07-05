@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://podcastatlas.ai/'
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = 'hugo-xmin'
