@@ -11,10 +11,8 @@
         {{ with .Params.show }}<span> · Show: {{ . }}</span>{{ end }}
       {{ end }}
       {{ with .Params.duration }}<span> · {{ . }}s</span>{{ end }}
+      {{ with .Params.source_url }}<span> · <a href="{{ . }}" target="_blank" rel="noopener noreferrer">Source</a></span>{{ end }}
     </div>
-    {{ with .Params.source_url }}
-      <p class="meta"><a href="{{ . }}">Source</a></p>
-    {{ end }}
     <div class="content">
       {{ .Content }}
     </div>
