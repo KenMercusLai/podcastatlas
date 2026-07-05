@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <article>
+    <h1>{{ .Title }}</h1>
+    <div class="meta">
+      {{ with .Date }}<span>{{ .Format "2006-01-02" }}</span>{{ end }}
+      {{ with .GetTerms "show" }}
+        <span> · Show:
+          {{ range $index, $term := . }}{{ if $index }}, {{ end }}<a href="{{ $term.RelPermalink }}">{{ $term.LinkTitle }}</a>{{ end }}
+        </span>
+      {{ else }}
+        {{ with .Params.show }}<span> · Show: {{ . }}</span>{{ end }}
+      {{ end }}
+      {{ with .Params.duration }}<span> · {{ . }}s</span>{{ end }}
+    </div>
+    {{ with .Params.source_url }}
+      <p class="meta"><a href="{{ . }}">Source</a></p>
+    {{ end }}
+    <div class="content">
+      {{ .Content }}
+    </div>
+  </article>
+{{ end }}

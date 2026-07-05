@@ -1,0 +1,28 @@
+{{ define "main" }}
+  {{ if .Data.Terms }}
+    {{ if eq .Data.Singular "show" }}
+      <h1>Shows</h1>
+      <p class="lede">Browse episodes by show.</p>
+    {{ else }}
+      <h1>{{ .Title }}</h1>
+    {{ end }}
+
+    <ul class="show-list">
+      {{ range .Data.Terms.Alphabetical }}
+        <li>
+          <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a>
+          {{ $count := int .Count }}
+          <span class="show-count">{{ $count }} episode{{ if ne $count 1 }}s{{ end }}</span>
+        </li>
+      {{ end }}
+    </ul>
+  {{ else }}
+    {{ if eq .Data.Singular "show" }}
+      <p class="meta"><a href="{{ "/shows/" | relURL }}">Shows</a></p>
+    {{ end }}
+    <h1>{{ .Title }}</h1>
+    {{ $count := int (len .Pages) }}
+    <p class="count">{{ $count }} episode{{ if ne $count 1 }}s{{ end }}</p>
+    {{ partial "episode-list.html" .Pages }}
+  {{ end }}
+{{ end }}

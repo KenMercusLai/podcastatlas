@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="{{ .Site.Language.Locale | default "en" }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .Title }}{{ .Title }} | {{ .Site.Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: #fbfbf8;
+      --fg: #1f2328;
+      --muted: #666f7a;
+      --line: #d8dee4;
+      --link: #0b5cad;
+      --panel: #ffffff;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #121417;
+        --fg: #e6edf3;
+        --muted: #9aa4af;
+        --line: #30363d;
+        --link: #79b8ff;
+        --panel: #161b22;
+      }
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--fg);
+      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 16px;
+      line-height: 1.65;
+    }
+
+    a {
+      color: var(--link);
+      text-decoration-thickness: 1px;
+      text-underline-offset: 0.18em;
+    }
+
+    a:hover {
+      text-decoration-thickness: 2px;
+    }
+
+    .site-header,
+    .site-footer,
+    main {
+      width: min(920px, calc(100% - 32px));
+      margin: 0 auto;
+    }
+
+    .site-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+      padding: 24px 0 18px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .site-title {
+      color: var(--fg);
+      font-weight: 700;
+      text-decoration: none;
+    }
+
+    .site-nav {
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    .site-nav a {
+      color: var(--muted);
+      text-decoration: none;
+    }
+
+    .site-nav a:hover {
+      color: var(--link);
+      text-decoration: underline;
+    }
+
+    main {
+      padding: 34px 0 48px;
+    }
+
+    h1 {
+      margin: 0 0 16px;
+      font-size: clamp(2rem, 5vw, 3.25rem);
+      line-height: 1.15;
+      letter-spacing: 0;
+    }
+
+    h2 {
+      margin-top: 2rem;
+      line-height: 1.25;
+      letter-spacing: 0;
+    }
+
+    .meta,
+    .lede,
+    .count {
+      color: var(--muted);
+    }
+
+    .lede {
+      margin-top: 0;
+    }
+
+    .show-list,
+    .episode-list {
+      list-style: none;
+      padding: 0;
+      margin: 24px 0 0;
+      border-top: 1px solid var(--line);
+    }
+
+    .show-list li,
+    .episode-list li {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 16px;
+      align-items: baseline;
+      padding: 14px 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .episode-list a,
+    .show-list a {
+      font-weight: 650;
+    }
+
+    .episode-date,
+    .show-count {
+      color: var(--muted);
+      white-space: nowrap;
+      font-size: 0.95rem;
+    }
+
+    .episode-meta {
+      margin-top: 4px;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .content {
+      margin-top: 30px;
+    }
+
+    .content img,
+    .content iframe {
+      max-width: 100%;
+    }
+
+    .site-footer {
+      padding: 24px 0 36px;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    @media (max-width: 640px) {
+      .site-header {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 10px;
+      }
+
+      .show-list li,
+      .episode-list li {
+        grid-template-columns: 1fr;
+        gap: 4px;
+      }
+
+      .episode-date,
+      .show-count {
+        white-space: normal;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <a class="site-title" href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="{{ "/episodes/" | relURL }}">Episodes</a>
+      <a href="{{ "/shows/" | relURL }}">Shows</a>
+    </nav>
+  </header>
+
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  <footer class="site-footer">
+    Podcast Atlas
+  </footer>
+</body>
+</html>

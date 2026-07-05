@@ -1,0 +1,13 @@
+{{ define "main" }}
+  {{ if .IsHome }}
+    <h1>{{ .Site.Title }}</h1>
+    <p class="lede">Latest episodes from the archive.</p>
+    {{ partial "episode-list.html" (where .Site.RegularPages "Section" "episodes") }}
+  {{ else }}
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}
+      <div class="content">{{ . }}</div>
+    {{ end }}
+    {{ partial "episode-list.html" .Pages }}
+  {{ end }}
+{{ end }}
