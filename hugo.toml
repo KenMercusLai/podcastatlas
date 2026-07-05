@@ -1,6 +1,6 @@
 baseURL = 'https://podcastatlas.ai/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Podcast Atlas'
 theme = 'hugo-xmin'
 preview_urls = false
 
