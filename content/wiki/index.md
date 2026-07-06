@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol. 166 闲聊: 从 Gemini 到 AI 的加速与混沌](sources/vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1.md) — Podcast episode on Gemini, AI acceleration, agent orchestration, coding agents, model-company product strategy, workplace monitoring, token costs, and human-AI collaboration limits.
 - [Vol. 161 从开发自己的 OpenClaw 聊起](sources/vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1.md) — Podcast episode on OpenClaw, self-built personal agents, agent-native software, skill self-generation, permission boundaries, on-demand apps, and token-cost constraints.
 - [把7位黑客松选手请进播客｜冠军、怪才和48小时不眠的野心家](sources/ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex.md) — Podcast episode on Xiaohongshu's hackathon, AI-era builders, vibe coding, building public, creator communities, and 48-hour prototypes such as Party Guitar, Atoom, Vibe Song, and Kenan Voice Changer.
 - [“你有一把能够挖出金子的铲子，肯定不会先给别人用”｜对谈开物纪陆子恒：用AI发明新材料](sources/ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh.md) — Podcast episode on Kaiwuji, Lu Ziheng, AI materials discovery, MatterSim/MatterGen, materials pipeline commercialization, and expert-led experimental validation.
@@ -40,6 +41,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alex Berman](entities/AlexBerman.md) — LinkedIn influencer partner associated with Tapio's distribution strategy.
 - [Alibaba](entities/Alibaba.md) — Large technology company discussed through Qwen, open source, organizational order, and talent management.
 - [Anthropic](entities/Anthropic.md) — AI company discussed alongside OpenAI in the episode's treatment of frontier models, agent tools, and enterprise deployment.
+- [Apple](entities/Apple.md) — Platform company discussed through WWDC expectations, Siri, possible Gemini integration, and OS-level AI pressure on utility apps.
 - [Antler](entities/Antler.md) — Startup program where Peak AI's founding team formed and secured early funding.
 - [Atoom](entities/Atoom.md) — Attention-aware interface prototype from the Xiaohongshu hackathon that dynamically reorganizes web pages around what the user should focus on.
 - [BCG](entities/BCG.md) — Consulting company referenced through Rolling AI partners' background and as contrast for AI-era agent delivery.
@@ -53,6 +55,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [ChatGPT](entities/ChatGPT.md) — AI assistant/search surface monitored by Peak AI for brand visibility.
 - [Chen Jingchu](entities/ChenJingchu.md) — Serial builder and hackathon contestant arguing that building public is an AI-era product and distribution lever.
 - [Claude Code](entities/ClaudeCode.md) — Agentic coding tool used as an example of workflow-oriented AI use.
+- [Cloudflare](entities/Cloudflare.md) — Infrastructure platform discussed as an operations target for coding agents and agent-facing deployment work.
 - [Code Pilot](entities/CodePilot.md) — Localized coding agent project discussed through skills, memory, CLI, and tool harnesses.
 - [Codex](entities/Codex.md) — Agentic coding tool presented as part of the shift from chat interfaces to task-executing agents.
 - [Cognition](entities/Cognition.md) — AI coding company behind Devin and acquirer of remaining Windsurf assets in the EP108 account.
@@ -70,6 +73,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gemini](entities/Gemini.md) — AI assistant/search surface discussed in Peak AI's market framing and Gemini CLI's coding context.
 - [Gemini CLI](entities/GeminiCLI.md) — Command-line AI coding tool discussed through long-context planning and model-provider tool competition.
 - [Gino Wickman](entities/GinoWickman.md) — EOS founder whose methodology and community created the ecosystem around Ninety's early product.
+- [Google](entities/Google.md) — Company behind Gemini, discussed through strong AI capability, official tools, and fragmented product surfaces.
 - [Girish Redikar](entities/GirishRedikar.md) — Founder of Sprinto and former RecruiterBox founder discussing failed ideas, validation, service productization, and AI governance.
 - [Google DeepMind](entities/GoogleDeepMind.md) — Google AI organization discussed as the destination for Windsurf's core team.
 - [He Tao](entities/HeTao.md) — Deerflow core person discussing open-source AI workflows, codebase governance, engineering responsibility, and personal AI assistants.
@@ -144,10 +148,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Shibo](entities/Shibo.md) — Founder of Yueban Dongli discussing Xiaoban, companion robotics, robot liveliness, and emotional interaction architecture.
 - [Shizilukou Crossing](entities/ShizilukouCrossing.md) — Podcast/media project where the first ingested episode was published.
 - [Slack](entities/Slack.md) — Enterprise collaboration product discussed as too hard for Paperboy to directly replace, motivating an agent layer over existing workflows.
+- [Siri](entities/Siri.md) — Apple assistant discussed as a possible platform-native carrier for stronger AI and Gemini integration.
 - [Sprinto](entities/Sprinto.md) — Compliance and trust SaaS company built through deliberate validation, real audit learning, and AI-aware automation.
 - [SpaceX](entities/SpaceX.md) — Private technology company referenced in the AI/private-company IPO valuation discussion.
 - [StayPit](entities/StayPit.md) — Developer associated with OpenClaw in the Fengyan Fengyu source.
 - [StepFun](entities/StepFun.md) — Foundation-model company chaired by Yin Qi and discussed through model R&D, terminal commercialization, and AI organization design.
+- [Superpowers](entities/Superpowers.md) — Agent-orchestration tool discussed through planning, subagents, Codex, and Claude Code workflows.
 - [Tapio](entities/Tapio.md) — LinkedIn-focused SaaS product built as a sister product to Tweet Hunter.
 - [Tea Maker](entities/TeaMaker.md) — Bootstrapped SaaS holding company founded by Thibaut-Louis Lucas.
 - [Tencent](entities/Tencent.md) — Chinese internet company discussed through QQ membership history and Yuanbao AI assistant competition.
@@ -215,9 +221,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI NPC Social Infrastructure](concepts/AINPCSocialInfrastructure.md) — Use of AI NPCs as hosts, social participants, and atmosphere regulators inside multiplayer scenes.
 - [AI Organization Design](concepts/AIOrganizationDesign.md) — Organizational problem of combining high talent density, coordination, research vitality, and result accountability in AI companies.
 - [AI Plus Terminals](concepts/AIPlusTerminals.md) — Foundation-model commercialization thesis linking models, software, hardware carriers, users, and physical-world data.
+- [AI Product Fragmentation](concepts/AIProductFragmentation.md) — Gap between strong model capability and a coherent product entry point across assistant, browser, workspace, and platform surfaces.
 - [AI Search Analytics](concepts/AISearchAnalytics.md) — Category for measuring brand visibility, citations, and sentiment across AI answer/search tools.
 - [AI Skills](concepts/AISkills.md) — Codified workflows, standards, context, and tool use that make AI behavior reusable.
 - [AI Subscription Economics](concepts/AISubscriptionEconomics.md) — Tradeoffs of free tiers, paid tiers, usage limits, and heavy-user costs in AI products.
+- [AI Workforce Monitoring](concepts/AIWorkforceMonitoring.md) — Workplace risk where AI-enabled productivity measurement turns into invasive employee behavior surveillance.
 - [Agent-Facing Interfaces](concepts/AgentFacingInterfaces.md) — CLI, API, MCP-like, skill, and tool layers that make software callable by agents.
 - [Agent Harness](concepts/AgentHarness.md) — Model-external system of tools, context, memory, permissions, runtime state, and orchestration that lets an agent act.
 - [Agent Identity And Authentication](concepts/AgentIdentityAndAuthentication.md) — Infrastructure problem of attributing agent actions, granting permissions, and balancing real-name controls with openness.

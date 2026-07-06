@@ -2,8 +2,8 @@
 title: "Subagent Workflow"
 type: concept
 tags: [agents, workflow, skills]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]
-last_updated: 2026-07-06
+sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]
+last_updated: 2026-07-07
 ---
 
 # Subagent Workflow
@@ -14,6 +14,8 @@ Subagent workflow is an agentic pattern where a foreground assistant delegates c
 
 [[dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]] adds the cross-checking side through [[MiniMax]]. The source says multiple agents can exchange much larger context than human feedback usually provides and can correct a single agent when long-context work starts drifting.
 
+[[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] adds a personal coding workflow side: subagents let [[Superpowers]], [[ClaudeCode]], and [[Codex]] continue long tasks without filling the main conversation, while review loops let agents check and repair each other's output at the cost of more tokens and more human supervision.
+
 ## Key Patterns
 - Background execution for tasks too large or disruptive for the foreground thread.
 - Reference IDs for later retrieval, pausing, or management.
@@ -21,6 +23,7 @@ Subagent workflow is an agentic pattern where a foreground assistant delegates c
 - Role-specific tool permissions and information access.
 - Context compression and handoff documents when a new agent continues work from a prior agent.
 - Peer review or cross-checking between agents when a long task needs another context window or viewpoint.
+- Main-context preservation in practical coding workflows where the user wants several tasks moving while still keeping one controlling thread clear.
 
 ## Connections
 - [[AISkills]] — subagent behavior can be packaged as reusable skills.
@@ -28,3 +31,4 @@ Subagent workflow is an agentic pattern where a foreground assistant delegates c
 - [[ContextEngineering]] — subagents still need task context and integration standards.
 - [[AgentHarness]] — governance and orchestration layer for safe multi-agent work.
 - [[MultiAgentCollaboration]] — broader collaboration frame added by the Hermes Agent source.
+- [[Superpowers]], [[ClaudeCode]], and [[Codex]] — personal workflow case added by Vol. 166.

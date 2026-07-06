@@ -2,7 +2,7 @@
 title: "Human-Agent Collaboration"
 type: concept
 tags: [agents, collaboration, product-design]
-sources: [renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]
+sources: [renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]
 last_updated: 2026-07-07
 ---
 
@@ -12,6 +12,8 @@ Human-agent collaboration is the product-design problem at the center of [[renle
 
 [[vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]] adds the hobbyist personal-agent version. [[JustinYan]]'s [[OpenClaw]]-inspired agent collaborates through Telegram, reminders, daily prompts, health reports, and service checks, making collaboration feel less like a single chat session and more like a maintained relationship with configured tools and permissions.
 
+[[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] adds a negative boundary: the hosts say voice/chat with [[Gemini]] and [[ChatGPT]] often becomes too convergent, all-knowing, and wiki-like. The missing value is not only task completion, but the divergent misunderstanding, surprise, social trust, and long-horizon relationship effects that human conversation can produce.
+
 ## Key Claims
 - The collaboration target is a moving one because every new product reveals new expectations and pain points.
 - Users should not have to repeatedly dump files, emails, and personal context into a chat box.
@@ -19,6 +21,7 @@ Human-agent collaboration is the product-design problem at the center of [[renle
 - The user remains responsible for the agent, so onboarding, permission design, sharing boundaries, and review still matter.
 - Human-agent collaboration changes across time horizons: autocomplete may help second-scale tasks, while longer tasks need different forms of delegation, monitoring, and synthesis.
 - Personal-agent collaboration depends on [[AgentPermissionBoundaries]] because the same familiarity that makes an agent useful can expose private data or accounts.
+- Better collaboration must account for social and creative value, not only whether the assistant gives a correct answer quickly.
 
 ## Connections
 - [[AgenticWorkflow]] — practical workflow pattern that human-agent collaboration extends.
@@ -26,3 +29,4 @@ Human-agent collaboration is the product-design problem at the center of [[renle
 - [[AgentFacingInterfaces]] — software surfaces agents need to act on the user's behalf.
 - [[DigitalEmployees]] — enterprise form of agent collaboration with role, management, and responsibility boundaries.
 - [[OpenClaw]], [[ProactiveAgents]], and [[AgentNativeSoftware]] — personal-agent product form added by the Fengyan Fengyu source.
+- [[Gemini]], [[ChatGPT]], and [[Superpowers]] — conversation and orchestration cases added by Vol. 166.

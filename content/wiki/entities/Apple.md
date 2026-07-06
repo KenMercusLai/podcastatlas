@@ -1,0 +1,22 @@
+---
+title: "Apple"
+type: entity
+tags: [company, platform, ai]
+sources: [vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]
+last_updated: 2026-07-07
+---
+
+# Apple
+
+Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] through the hosts' expectations for WWDC, iOS, [[Siri]], and possible [[Gemini]] integration. The episode frames Apple less as a model company and more as a platform company whose operating-system entry point could make agentic AI immediately consequential for small tools and productivity apps.
+
+## Source Position
+- The hosts expect Apple AI news to matter because iPhone-level distribution can change user behavior even if the underlying model comes from another provider.
+- If Siri becomes a capable device-level agent, utility apps and reminder-like tools may face platform-level pressure.
+- The source still leaves room for third-party innovation because platform changes can create new workflows and expectations.
+
+## Connections
+- [[Siri]] — Apple assistant and platform entry point discussed in the source.
+- [[Gemini]] — possible model partner in the hosts' WWDC expectations.
+- [[AIProductFragmentation]] — contrast with Google's fragmented product experience.
+- [[ModelProviderToolCompetition]] and [[AgentFacingInterfaces]] — platform-level agents can reshape which tools users open directly.

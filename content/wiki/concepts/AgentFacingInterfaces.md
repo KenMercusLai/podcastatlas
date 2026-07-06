@@ -2,8 +2,8 @@
 title: "Agent-Facing Interfaces"
 type: concept
 tags: [agents, interfaces, cli, product-design]
-sources: [agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan]
-last_updated: 2026-07-06
+sources: [agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]
+last_updated: 2026-07-07
 ---
 
 # Agent-Facing Interfaces
@@ -22,6 +22,8 @@ Agent-facing interfaces are the CLI, API, MCP-like, skill, and tool layers that 
 
 [[ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan]] adds the AI coding interface split. [[ClaudeCode]] and [[GeminiCLI]] show why CLI is a strong agent-facing surface, while the hosts still expect GUI affordances for human review, diff selection, rollback, and workflow trust.
 
+[[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] adds browser, operating-system, and infrastructure surfaces. [[Google]] is criticized for not yet turning [[Gemini]] in Chrome into a strong browser agent, [[Apple]] and [[Siri]] are treated as possible OS-level agent entry points, and [[Cloudflare]] shows how deployable infrastructure becomes more useful when agents can operate it directly.
+
 ## Key Claims
 - CLI was historically difficult for people but is comparatively natural for agents.
 - Agent-facing access can turn consumer services, enterprise tools, and local utilities into callable task components.
@@ -33,6 +35,7 @@ Agent-facing interfaces are the CLI, API, MCP-like, skill, and tool layers that 
 - Agent-facing interfaces need [[AgentIdentityAndAuthentication]] once agents invoke accounts, payments, or external services directly.
 - Enterprise deployment requires legacy systems to expose reliable APIs, not only new agent-native tools.
 - In coding tools, CLI may be natural for agents while GUI remains important for human inspection, selective acceptance, and history recovery.
+- Browser, OS, and cloud-infrastructure entry points can matter as much as standalone agent apps because they determine what context the agent can see and what actions it can take.
 
 ## Connections
 - [[HeadlessSoftware]] — product-design thesis that motivates agent-facing access.
@@ -45,3 +48,4 @@ Agent-facing interfaces are the CLI, API, MCP-like, skill, and tool layers that 
 - [[OpenCloud]], [[OpenClaw]], and [[HermesAgent]] — domestic agent-product context where reachability, skills, and memory shape the interface expectation.
 - [[BairongIntelligence]], [[DigitalEmployees]], and [[BusinessLedAITransformation]] — enterprise case where API exposure is a rollout prerequisite.
 - [[ClaudeCode]], [[GeminiCLI]], [[Cursor]], and [[VibeCoding]] — coding interface cases added by EP108.
+- [[Google]], [[Gemini]], [[Apple]], [[Siri]], and [[Cloudflare]] — platform and operations surfaces added by Vol. 166.

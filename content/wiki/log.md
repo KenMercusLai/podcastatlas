@@ -143,3 +143,7 @@ Added source page for a Fengyan Fengyu episode on OpenClaw, self-built personal 
 ## [2026-07-07] lint | Wiki lint check
 
 Ran health and lint checks after refreshing the deterministic graph with `.venv/bin/python tools/build_graph.py --no-infer`. Health, structural lint, link-density checks, and refreshed graph-aware checks passed. Semantic lint was completed manually in-session because `LLM_MODEL` / provider API configuration is unavailable for the local `litellm` call.
+
+## [2026-07-07] ingest | Vol. 166 闲聊: 从 Gemini 到 AI 的加速与混沌
+
+Added source page for a Fengyan Fengyu episode on Gemini, AI acceleration, agent orchestration, coding agents, model-company product strategy, operations automation, workplace monitoring, token costs, and human-AI collaboration limits. Created supporting pages for Google, Apple, Siri, Cloudflare, Superpowers, AI Product Fragmentation, and AI Workforce Monitoring; updated overview, index, Fengyan Fengyu, Justin Yan, 自立, Gemini, Codex, Claude Code, Anthropic, OpenAI, ChatGPT, agent workflow, agent harness, subagent workflow, vibe coding, AI coding verification, AI inference costs, model-provider competition, organization design, and human-agent collaboration pages.

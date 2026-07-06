@@ -2,13 +2,15 @@
 title: "AI Engineering Thinking"
 type: concept
 tags: [ai, workflow, software-engineering]
-sources: [ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]
+sources: [ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]
 last_updated: 2026-07-07
 ---
 
 # AI Engineering Thinking
 
 AI engineering thinking is the habit of turning a vague goal into explicit requirements, architecture, tests, logs, documentation, review, audit rules, and business handoffs before asking AI to execute. In [[ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]], the [[KejiLuandun]] hosts argue that AI can write code, scripts, summaries, and operational analyses, but it still needs the user to define the problem, boundaries, checks, and responsibility chain.
+
+[[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] adds planning artifacts as a practical example. The hosts describe using [[Superpowers]] to move from brainstorming into design markdown and plan markdown before delegating execution to [[Codex]] or [[ClaudeCode]].
 
 ## Key Claims
 - AI is most useful when the work can be decomposed into bounded tasks with clear inputs, outputs, and acceptance criteria.
@@ -17,6 +19,7 @@ AI engineering thinking is the habit of turning a vague goal into explicit requi
 - In old systems, a safer AI path is to read code, create tests and documentation, and then refactor, instead of asking for immediate broad rewrites.
 - Debugging with AI depends on observability; detailed logs and reproducible failures give the agent enough context to locate logic problems rather than only syntax errors.
 - The same posture applies outside code: AI can audit data, content, pricing, or promotion decisions, but humans must design the workflow and own final decisions.
+- Design and plan documents can be treated as engineering artifacts, not just prompts, because they define what later agents should build and review.
 
 ## Connections
 - [[VibeCoding]] — AI coding practice that needs this engineering posture to become product work.
@@ -25,3 +28,4 @@ AI engineering thinking is the habit of turning a vague goal into explicit requi
 - [[ContextEngineering]] — broader practice of giving AI the information and state needed to work.
 - [[AgenticWorkflow]] and [[AISkills]] — ways to package the process into reusable AI-enabled work.
 - [[DomainExpertAlignment]] and [[HumanJudgmentUnderAI]] — human expertise and judgment still shape the problem and final decision.
+- [[Superpowers]], [[Codex]], and [[ClaudeCode]] — planning-to-execution workflow added by Vol. 166.
