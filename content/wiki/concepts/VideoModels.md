@@ -2,7 +2,7 @@
 title: "Video Models"
 type: concept
 tags: [video, generative-ai, content]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr]
+sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne]
 last_updated: 2026-07-06
 ---
 
@@ -16,13 +16,16 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 
 [[na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr]] adds video models as one technical route toward [[WorldModels]]. [[HuangBiwei]] treats video generation and video-rich [[WorldActionModels]] as useful inputs, but argues that rendered plausibility is not the same as causal understanding of physical variables, structures, and state transitions.
 
+[[2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne]] adds an interactive-entertainment view. [[Xiaoning]] argues that AI short video and AI video-first formats may move faster than interactive games because generated video only has to be watchable, while games must remain stable interactive systems. The source links [[YORO]] and Seedance-like capabilities to possible interactive film/game experiments, but still treats [[AIGameIndustrialization]] as the harder layer.
+
 ## Source Notes
-- The episode mentions commercial signals from products such as Kling and Saidance, plus a case called Zombie Cleaner.
+- The episode mentions commercial signals from products such as Kling and Seedance, plus a case called Zombie Cleaner.
 - The host resists dismissing short-drama-style content, arguing that popular content can still have value.
 - The theme connects to the episode's broader [[SecondRenaissance]] idea.
 - Doubao's video model is presented as a more plausible paid value area than undifferentiated chatbot functions.
 - Revid shows AI video as a revenue-generating SaaS category when paired with [[DistributionLedProductBuilding]].
 - In the Aether AI source, video models help with world-model learning but remain incomplete without [[CausalWorldModels]].
+- In the AI interactive entertainment source, video-first content is expected to mature before fully interactive AI games because video has fewer system-design and retention constraints.
 
 ## Connections
 - [[WorldModels]] — adjacent model direction for richer scene and environment representation.
@@ -31,3 +34,4 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 - [[Revid]] and [[TeaMaker]] — SaaS product and company case for AI video tooling.
 - [[ProductLedWillingnessToPay]] — pricing depends on whether video capability feels differentiated.
 - [[WorldActionModels]] and [[CausalWorldModels]] — world-model routes that absorb video data but differ in causal grounding.
+- [[YORO]], [[AIInteractiveEntertainment]], and [[AIInteractiveContentPlatforms]] — interactive video and platform directions from the Youju crossover.

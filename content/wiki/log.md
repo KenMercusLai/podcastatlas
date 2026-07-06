@@ -79,3 +79,7 @@ Added source page for a 张小珺Jùn｜商业访谈录 episode on Yin Qi becomi
 ## [2026-07-06] ingest | OpenAI 和 Anthropic 共同看好的 FDE：AI 时代的新岗位出现，旧分工松动｜对谈 Rolling AI
 
 Added source page for a Shizilukou Crossing episode on Rolling AI, forward-deployed engineering, digital employees, business-led enterprise AI transformation, frontline enablement, and service as software. Created supporting entity and concept pages for Rolling AI, Agan, Liu Kai, Palantir, BCG, digital employees, frontline AI enablement, business-led AI transformation, and service as software; corrected the existing FDE concept from Frontend Deployment Engineer to Forward Deployed Engineer; updated overview, index, OpenAI, Anthropic, Shizilukou Crossing, context engineering, agentic workflow, human judgment, AI organization design, domain expert alignment, and service productization pages.
+
+## [2026-07-06] ingest | 2026 AI 游戏全景扫描：四层图景、三大误区、一个共识缺口｜对谈 405 游局筱宁
+
+Added source page for a Shizilukou Crossing and Youju crossover episode on AI interactive entertainment, AI game production limits, AI NPCs, creator platforms, designed agency, AI 3D prototyping, and the missing consensus product for AI games. Created supporting pages for Xiaoning, Youju, MiHoYo, Xingbugudi, NetEase, Character AI, Type Type Maker, YORO, Roblox, and the core interactive-entertainment concepts; updated overview, index, Shizilukou Crossing, Koji, ByteDance, Tencent, video models, world models, willingness to pay, and AI-assisted software development risk pages.
