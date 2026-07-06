@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.208 中国手机江湖·上：摩托罗拉、诺基亚和爱立信的诸神黄昏 | 中国互联网故事23](sources/no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376.md) — Podcast episode on Chinese mobile-phone prehistory, Motorola, Nokia, Ericsson, GSM, Symbian, iPhone/Android, MediaTek, Huaqiangbei, shanzhai phones, and domestic handset supply chains.
 - [EP39 风满楼下集：全球衰退慢慢逼近，严防死守步步为营！漫聊下半年美股、美债、汇率](sources/ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj.md) — Podcast episode on U.S. recession risk, AI equity valuation, QDII allocation, U.S. Treasury duration risk, currency risk, and RMB/USD policy.
 - [EP38 风满楼！全球资本市场巨幅动荡，腥风血雨时刻近在咫尺](sources/ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9.md) — Podcast episode on global market turmoil, yen carry trade unwinds, Japan's selloff, Fed rate-cut expectations, yield-curve inversion, Buffett's cash, and market mean reversion.
 - [Justin's Nut Butter: Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter.](sources/justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b.md) — Podcast episode on Justin Gold, Justin's Nut Butter, CPG distribution, retail shelf placement, squeeze-pack trial products, Starbucks, Hormel, and founder return after acquisition.
@@ -46,6 +47,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alex Berman](entities/AlexBerman.md) — LinkedIn influencer partner associated with Tapio's distribution strategy.
 - [Alibaba](entities/Alibaba.md) — Large technology company discussed through Qwen, open source, organizational order, and talent management.
 - [Amazon](entities/Amazon.md) — Cloud and AI infrastructure buyer discussed through Nvidia demand and hyperscaler capex assumptions.
+- [Android](entities/Android.md) — Google-backed open smartphone operating system that became the non-Apple ecosystem after iPhone reset handset competition.
 - [Anthropic](entities/Anthropic.md) — AI company discussed alongside OpenAI in the episode's treatment of frontier models, agent tools, and enterprise deployment.
 - [Apple](entities/Apple.md) — Platform company discussed through WWDC expectations, Siri, possible Gemini integration, OS-level AI pressure, and later as a Buffett/Berkshire market-sentiment holding.
 - [Antler](entities/Antler.md) — Startup program where Peak AI's founding team formed and secured early funding.
@@ -55,8 +57,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Baidu](entities/Baidu.md) — Chinese search and AI company discussed through search-ad decline, open-web traffic loss, Wenxin, and strategic inertia.
 - [Bairong Intelligence](entities/BairongIntelligence.md) — Enterprise AI company using and selling digital employees across service, approval, risk-control, and professional-service workflows.
 - [Bank of Japan](entities/BankOfJapan.md) — Central bank whose tightening and yen effects are discussed as triggers for yen carry trade stress and Japanese equity volatility.
+- [半拿铁](entities/Banlatte.md) — Business-history podcast/show context for the China handset prehistory episode.
 - [Berkshire Hathaway](entities/BerkshireHathaway.md) — Warren Buffett's investment company discussed through Apple reduction, high cash, valuation caution, and market sentiment.
 - [Bitcoin](entities/Bitcoin.md) — Cryptocurrency asset discussed as a trading vehicle rather than a cash-flowing investment in the Simons episode.
+- [Bird Mobile](entities/BirdMobile.md) — First-generation Chinese domestic handset brand remembered for licenses, local channels, celebrity marketing, and the "手机中的战斗机" slogan.
 - [Bobo's Oat Bars](entities/BobosOatBars.md) — Food company that shared early Boulder kitchen capacity and employees with Justin's Nut Butter.
 - [Boston Dynamics](entities/BostonDynamics.md) — Robotics company referenced through Shibo's admiration for Marc Raibert and autonomous robotics.
 - [ByteDance](entities/ByteDance.md) — Company behind Doubao, discussed through AI cost pressure, video capability, and paid membership strategy.
@@ -79,6 +83,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EOS Worldwide](entities/EOSWorldwide.md) — Methodology and coaching organization behind the EOS ecosystem that shaped Ninety's early product and channel.
 - [EarthKit](entities/EarthKit.md) — Jie Dechen's multimodal project for inferring photo locations, mentioned as background before Paperboy.
 - [Edward](entities/Edward.md) — Designer and hackathon contestant behind Atoom, emphasizing taste and idea quality after vibe coding accelerates implementation.
+- [Ericsson](entities/Ericsson.md) — Telecom equipment and handset company discussed through early China networks, GSM infrastructure, supply-chain response, and Sony Ericsson.
 - [Eric Ries](entities/EricRies.md) — Lean Startup author and Incorruptible author discussing validated learning, AI-era product economics, financial gravity, and founder governance.
 - [Federal Reserve](entities/FederalReserve.md) — U.S. central bank discussed through rate-cut expectations, policy lag, yield-curve inversion, and market interpretation of easing.
 - [Forward Consumer Partners](entities/ForwardConsumerPartners.md) — Investment group that acquired a controlling stake in Justin's Nut Butter and brought Justin Gold back as owner, founder, and board member.
@@ -86,8 +91,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gemini](entities/Gemini.md) — AI assistant/search surface discussed in Peak AI's market framing and Gemini CLI's coding context.
 - [Gemini CLI](entities/GeminiCLI.md) — Command-line AI coding tool discussed through long-context planning and model-provider tool competition.
 - [Gino Wickman](entities/GinoWickman.md) — EOS founder whose methodology and community created the ecosystem around Ninety's early product.
-- [Google](entities/Google.md) — Company behind Gemini, discussed through strong AI capability, official tools, and fragmented product surfaces.
+- [Google](entities/Google.md) — Company behind Gemini and Android, discussed through AI product surfaces, search-platform comparison, and mobile-platform strategy.
 - [Great Harvest Bread](entities/GreatHarvestBread.md) — Early Boulder retail customer for Justin's Nut Butter.
+- [HTC](entities/HTC.md) — PDA and smartphone maker that helped launch Android with the first Android phone before Samsung captured larger Android scale.
+- [Huaqiangbei](entities/Huaqiangbei.md) — Shenzhen electronics-market cluster central to MediaTek-enabled shanzhai handset production and distribution.
 - [Girish Redikar](entities/GirishRedikar.md) — Founder of Sprinto and former RecruiterBox founder discussing failed ideas, validation, service productization, and AI governance.
 - [Guy Raz](entities/GuyRaz.md) — How I Built This host who interviewed Justin Gold about Justin's Nut Butter.
 - [Google DeepMind](entities/GoogleDeepMind.md) — Google AI organization discussed as the destination for Windsurf's core team.
@@ -96,6 +103,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hormel](entities/Hormel.md) — Food company that acquired Justin's Nut Butter in 2016 and later retained a significant stake under Forward Consumer Partners control.
 - [How I Built This](entities/HowIBuiltThis.md) — Startup interview podcast/show context for the Justin Gold and Justin's Nut Butter episode.
 - [Huang Biwei](entities/HuangBiwei.md) — Aether AI founder and causal AI researcher arguing for causal world models as the robot-brain route.
+- [iPhone](entities/IPhone.md) — Apple smartphone product that reset handset competition around touch UI, app ecosystems, and platform coherence.
 - [Janet Yellen](entities/JanetYellen.md) — U.S. fiscal-policy figure discussed through short-term Treasury issuance and long-bond funding-cost timing.
 - [Jensen Huang](entities/JensenHuang.md) — Nvidia founder/CEO referenced through insider selling as one input in AI equity valuation risk.
 - [Jiang Yang](entities/JiangYang.md) — Paperboy founder arguing that human-agent collaboration needs OS-level context, persistent memory, and new interface forms.
@@ -113,6 +121,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kaseya](entities/Kaseya.md) — Cybersecurity/MSP company referenced through the July 2021 ransomware incident that accelerated ThreatLocker demand.
 - [K Computer](entities/KComputer.md) — Share AI's lightweight Unix-style virtual computer for agent work environments.
 - [Kaiwuji](entities/Kaiwuji.md) — AI-for-materials startup founded by Lu Ziheng to discover, validate, and commercialize new materials.
+- [Kejian](entities/Kejian.md) — Early Chinese domestic handset brand backed by the Chinese Academy of Sciences system and associated with the KCH2000 GSM phone.
 - [Koji](entities/Koji.md) — Shizilukou Crossing host of the road-podcast episode on Xiaoban and Yueban Dongli.
 - [Kun Ni](entities/KunNi.md) — Singapore-based early investor and hackathon contestant whose Vibe Song project makes vibe-coding contests streamable and participatory.
 - [Lai Xinlu](entities/LaiXinlu.md) — Share AI founder explaining agent harness layers, Claude Code lessons, and CLI-first agent infrastructure.
@@ -136,6 +145,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [MatterGen](entities/MatterGen.md) — Materials-generation model example used to discuss scalable diffusion-based candidate generation.
 - [MatterSim](entities/MatterSim.md) — Materials simulation/model example used to discuss cross-property generalization in AI materials discovery.
 - [Matt Leeds](entities/MattLeeds.md) — Forward Consumer Partners figure who approached Justin Gold about returning to Justin's Nut Butter.
+- [MediaTek](entities/MediaTek.md) — Chipset and handset-solution company whose turnkey designs lowered the barrier for Chinese feature-phone manufacturing.
 - [Medallion Fund](entities/MedallionFund.md) — Renaissance Technologies fund used as the main example of repeated small statistical edges.
 - [METR](entities/METR.md) — AI evaluation/research organization cited through an AI coding productivity study.
 - [Megvii](entities/Megvii.md) — AI 1.0 company used in Yin Qi's retrospective on technical strength, commercialization, strategic focus, and organization design.
@@ -146,12 +156,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [MiniMax](entities/MiniMax.md) — AI model company discussed through M1/M2/M3 iteration, developer workflows, scaling, domain experts, and interpretability.
 - [MiniMax M3](entities/MiniMaxM3.md) — MiniMax model discussed as a coding component inside cost-aware, multi-model AI workflows.
 - [MultiCard](entities/MultiCard.md) — AI workflow company represented by Zhang Jiayuan and used as a case for model orchestration and maintainer-led AI coding.
+- [Motorola](entities/Motorola.md) — Early mobile-phone, pager, and design-led handset leader whose StarTAC/RAZR success did not survive the smartphone ecosystem shift.
 - [Mas](entities/Mas.md) — Ninety's AI companion bot built around organizational operating context.
 - [Manus](entities/Manus.md) — Agent product referenced as a milestone in the first 500 days of the agent wave.
 - [你的书房](entities/NiDeShufang.md) — Personal book-management product used as an example of paid AI features, bounded usage, and data portability.
 - [NetEase](entities/NetEase.md) — Chinese game company mentioned as becoming more active in AI adoption.
 - [NewSpot](entities/NewSpot.md) — Justin Yan's software product contrasted with OpenClaw as a traditional app where agent lessons may improve research workflows.
 - [Ninety](entities/Ninety.md) — SaaS platform for leadership-team operating rhythms, built through the EOS ecosystem and now embedding AI.
+- [Nokia](entities/Nokia.md) — GSM and feature-phone giant whose Symbian dominance, durable mass-market phones, and later Windows Phone turn anchor the handset-history episode.
 - [Nvidia](entities/Nvidia.md) — AI semiconductor company used as EP39's main case for separating company quality from stock valuation risk.
 - [OpenAI](entities/OpenAI.md) — Frontier AI company referenced in relation to agents, FDE, and AI market structure.
 - [Open Claw](entities/OpenClaw.md) — Domestic agent-wave project/context paired with Open Cloud in the Hermes Agent discussion.
@@ -175,6 +187,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rolling AI](entities/RollingAI.md) — Enterprise AI consulting and implementation company discussed through FDE, digital employees, and service as software.
 - [Rudi's Organic Bakery](entities/RudisOrganicBakery.md) — Food company Justin Gold worked with after leaving Justin's Nut Butter under Hormel ownership.
 - [Same.Dev](entities/SameDev.md) — Jiang Yang's prior AI-assisted web UI generation project mentioned as Paperboy founder background.
+- [Samsung](entities/Samsung.md) — Android-era smartphone maker that captured much of the post-iPhone non-Apple handset opportunity.
 - [Share AI](entities/ShareAI.md) — Agent-infrastructure company behind Learn Claude Code and the K-series tooling discussed by Lai Xinlu.
 - [Shanbin](entities/Shanbin.md) — Xiaohongshu community technology lead and organizer framing the hackathon around creator energy and AI-era age.
 - [Shengpai Notice](entities/ShengpaiNotice.md) — Host-built podcast workflow tool used as a practical AI coding/productization case.
@@ -189,6 +202,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [StayPit](entities/StayPit.md) — Developer associated with OpenClaw in the Fengyan Fengyu source.
 - [StepFun](entities/StepFun.md) — Foundation-model company chaired by Yin Qi and discussed through model R&D, terminal commercialization, and AI organization design.
 - [Superpowers](entities/Superpowers.md) — Agent-orchestration tool discussed through planning, subagents, Codex, and Claude Code workflows.
+- [Symbian](entities/Symbian.md) — Pre-iPhone smartphone operating system platform dominated by Nokia before iPhone and Android changed ecosystem competition.
 - [Tapio](entities/Tapio.md) — LinkedIn-focused SaaS product built as a sister product to Tweet Hunter.
 - [Tea Maker](entities/TeaMaker.md) — Bootstrapped SaaS holding company founded by Thibaut-Louis Lucas.
 - [Tencent](entities/Tencent.md) — Chinese internet company discussed through QQ membership history and Yuanbao AI assistant competition.
@@ -282,6 +296,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Category Creation](concepts/CategoryCreation.md) — Startup go-to-market challenge of teaching buyers to understand, name, and budget for a new category.
 - [Carry Trade Unwind](concepts/CarryTradeUnwind.md) — Forced closing of funded cross-asset positions when currency, rates, margin, or risk conditions reverse.
 - [Cash Cow Strategic Inertia](concepts/CashCowStrategicInertia.md) — Pattern where a profitable old business weakens strategic patience for necessary new bets.
+- [China Handset Supply Chain](concepts/ChinaHandsetSupplyChain.md) — Industrial base built from foreign factories, domestic brands, MediaTek solutions, Huaqiangbei, and shanzhai recombination.
+- [Chinese Domestic Handset Waves](concepts/ChineseDomesticHandsetWaves.md) — Staged history of Chinese handset makers from licensed brands to shanzhai/turnkey phones and operator-subsidized smartphones.
 - [Causal AI](concepts/CausalAI.md) — Research direction focused on intervention-grounded causal structure, causal discovery, and machine-learning systems that generalize beyond surface correlation.
 - [Causal World Models](concepts/CausalWorldModels.md) — World-model route that learns causal variables, causal structure, and action-conditioned transition dynamics for physical AI.
 - [Community-Led SaaS Growth](concepts/CommunityLedSaaSGrowth.md) — SaaS growth through practitioner communities, trusted channels, service, and word of mouth.
@@ -311,6 +327,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Everything Agent](concepts/EverythingAgent.md) — Investment thesis that agents will enter many white-collar workflows and need supporting infrastructure.
 - [Family World Simulator](concepts/FamilyWorldSimulator.md) — Simulated household interaction environment for training and testing companion robot behavior.
 - [Fast Product Validation](concepts/FastProductValidation.md) — Startup process for testing product demand through rapid experiments, revenue, retention, and recurring use.
+- [Feature Phone Cultural Memory](concepts/FeaturePhoneCulturalMemory.md) — User-memory layer around pagers, SMS, Nokia tones, ringtone entry, removable batteries, universal chargers, and shanzhai features.
 - [Financial AI Agents](concepts/FinancialAIAgents.md) — Compliance-bounded financial AI systems that filter information, explain context, and provide companionship without direct investment advice.
 - [Financial Gravity](concepts/FinancialGravity.md) — Pressure created by economic or status disparities that can redirect company behavior and mission.
 - [Founder Ego](concepts/FounderEgo.md) — Status-seeking founder pattern where fundraising, hiring, or public image outruns validated customer demand.
@@ -322,6 +339,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Framework-Led SaaS](concepts/FrameworkLedSaaS.md) — Software built around a named methodology, expert community, or professional framework.
 - [Generative Engine Optimization](concepts/GenerativeEngineOptimization.md) — Practice of improving whether and how brands appear in AI-generated answers.
 - [Graduation Anxiety](concepts/GraduationAnxiety.md) — Pressure around school-to-work transition, resume gaps, peer comparison, and uncertain direction.
+- [GSM Standardization](concepts/GSMStandardization.md) — Standards tailwind that helped move mobile phones from analog voice devices toward digital GSM, SMS, and mass handset adoption.
 - [Headless Software](concepts/HeadlessSoftware.md) — Product-design thesis that software value should be separable from GUI-first human operation.
 - [Human-Agent Collaboration](concepts/HumanAgentCollaboration.md) — Product-design problem of finding better ways for people and AI agents to work together beyond chat, prompt, and session interfaces.
 - [Human Judgment Under AI](concepts/HumanJudgmentUnderAI.md) — Claim that AI improves preparation but cannot replace fast, situated judgment in live professional settings.
@@ -338,6 +356,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Materials Pipeline Company](concepts/MaterialsPipelineCompany.md) — Business model that owns AI-discovered material IP pipelines rather than only selling discovery tools.
 - [Model Harness Co-Evolution](concepts/ModelHarnessCoEvolution.md) — View that models and agent/harness systems improve each other through real workflow feedback.
 - [Model Provider Tool Competition](concepts/ModelProviderToolCompetition.md) — Pressure on workflow startups when frontier model providers ship official tools in the same category.
+- [Mobile Internet Prehistory](concepts/MobileInternetPrehistory.md) — Handset, network, standards, and consumer-adoption layer that made later mobile internet possible.
 - [Monetary Policy Lag](concepts/MonetaryPolicyLag.md) — Delay between interest-rate decisions and their effects on employment, housing, corporate investment, and markets.
 - [MSP Channel Distribution](concepts/MSPChannelDistribution.md) — Go-to-market pattern for reaching SMBs through managed service providers that operate customer IT environments.
 - [Multi-Agent Collaboration](concepts/MultiAgentCollaboration.md) — Use of multiple agents for context exchange, cross-checking, parallel exploration, and drift correction.
@@ -346,9 +365,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [On Device Fast Slow Brain](concepts/OnDeviceFastSlowBrain.md) — Edge AI architecture separating immediate behavior decisions from slower reasoning for low-latency embodied response.
 - [On-Demand Apps](concepts/OnDemandApps.md) — Agent-assembled or generated app capabilities created when the user needs them instead of fully prebuilt feature menus.
 - [OS-Level Context](concepts/OSLevelContext.md) — Agent context gathered from the user's computer environment, including screens, input, apps, meetings, messages, and current activity.
+- [Operator-Subsidized Handsets](concepts/OperatorSubsidizedHandsets.md) — Carrier contract-phone channel that shaped 3G smartphone adoption and the "中华酷联" domestic handset stage.
 - [Outcome-Based AI Pricing](concepts/OutcomeBasedAIPricing.md) — Enterprise AI pricing based on delivered output, work volume, time, or transaction value rather than seats or custom projects.
 - [Passive Investing](concepts/PassiveInvesting.md) — Broad ETF and index-fund investing recommended for most ordinary investors as a low-friction alternative to active trading.
 - [Persistent Agent Memory](concepts/PersistentAgentMemory.md) — Durable user and work memory that lets agents retain context, taste, relationship boundaries, and recent activity across sessions.
+- [PHS Xiaolingtong](concepts/PHSXiaolingtong.md) — Low-cost PHS wireless local-phone service that gave many Chinese users transitional mobile-like access before mainstream mobile affordability.
 - [Post-Acquisition Founder Identity](concepts/PostAcquisitionFounderIdentity.md) — Personal and governance problem of what a founder becomes after selling a company, especially when the brand carries founder values.
 - [Pre-Product Selling](concepts/PreProductSelling.md) — Selling-first validation pattern using conversations, LOIs, trials, and prototypes before full production code exists.
 - [Proactive Agents](concepts/ProactiveAgents.md) — Agents that use context and memory to help before the user fully specifies a task, while still requiring permission and review design.
@@ -368,7 +389,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Service As Software](concepts/ServiceAsSoftware.md) — AI-era delivery model where software or agents carry service-like business outcomes.
 - [Service Productization](concepts/ServiceProductization.md) — Turning manual, consultant-heavy, or expert-delivered workflows into repeatable software products.
 - [Shareholder Primacy](concepts/ShareholderPrimacy.md) — Governance belief that shareholder financial returns dominate, especially in sale or control contexts.
+- [Shanzhai Phones](concepts/ShanzhaiPhones.md) — Low-cost gray-market, copycat, and extreme-feature Chinese handsets enabled by turnkey designs and Shenzhen supply chains.
 - [Software Payment Culture](concepts/SoftwarePaymentCulture.md) — User expectations around free versus paid software, shaped by Chinese internet history and monetization models.
+- [Smartphone Operating System Ecosystems](concepts/SmartphoneOperatingSystemEcosystems.md) — Competitive shift from single handset models and form factors toward OS platforms, touch UI, apps, and developer ecosystems.
 - [Stage-Appropriate Hiring](concepts/StageAppropriateHiring.md) — Principle that leaders and executives must fit the company's current stage, ambiguity, pace, and culture.
 - [Star Talent In Big Companies](concepts/StarTalentInBigCompanies.md) — Pattern where high-profile technical talent and large organizations need each other but often misalign.
 - [Stablecoins](concepts/Stablecoins.md) — Crypto-dollar infrastructure discussed through payment demand, Treasury demand, issuer risk, and regulation.
@@ -376,6 +399,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Subagent Workflow](concepts/SubagentWorkflow.md) — Agentic pattern that delegates heavy or adversarial work to background agents and integrates their outputs.
 - [Treasury Duration Risk](concepts/TreasuryDurationRisk.md) — Bond risk from rate sensitivity, long-bond supply, fiscal pressure, and currency effects despite a rate-cut-cycle setup.
 - [Trial Size Product](concepts/TrialSizeProduct.md) — Smaller, lower-commitment format that lets customers test a product before buying the full version.
+- [Turnkey Handset Solutions](concepts/TurnkeyHandsetSolutions.md) — Integrated chipset and phone-design packages that lowered the barrier to building feature phones.
 - [U.S. Recession Risk](concepts/USRecessionRisk.md) — Macro-risk frame using labor, manufacturing, consumption, leverage, policy, and market valuation signals.
 - [Validated Learning](concepts/ValidatedLearning.md) — Lean Startup principle that startups progress by testing assumptions against real customer behavior.
 - [Video Models](concepts/VideoModels.md) — AI video generation models discussed as a content-production and investment theme.

@@ -183,3 +183,7 @@ Added source page for a YiLaoYongYi episode on global market turmoil, Japanese e
 ## [2026-07-07] ingest | EP39 风满楼下集：全球衰退慢慢逼近，严防死守步步为营！漫聊下半年美股、美债、汇率
 
 Added source page for a YiLaoYongYi follow-up on U.S. recession risk, the Sahm Rule, AI equity valuation risk, Nvidia, QDII allocation, U.S. Treasury duration risk, currency risk, and RMB exchange-rate policy. Created supporting entity and concept pages for Nvidia, Jensen Huang, Microsoft, Amazon, U.S. Treasury, Janet Yellen, People's Bank of China, U.S. Recession Risk, Sahm Rule, AI Equity Valuation Risk, QDII Allocation, Treasury Duration Risk, Currency Risk, and RMB Exchange Rate Policy; updated overview, index, YiLaoYongYi, LaoMai, Daxiong, Federal Reserve, Bank of Japan, Investment Risk Management, Market Regime Shift, and AI IPO Valuation pages.
+
+## [2026-07-07] ingest | No.208 中国手机江湖·上：摩托罗拉、诺基亚和爱立信的诸神黄昏 | 中国互联网故事23
+
+Added source page for a Banlatte episode on Chinese mobile-phone prehistory, Motorola, Nokia, Ericsson, GSM, Symbian, iPhone, Android, first-generation domestic handset brands, MediaTek turnkey designs, Huaqiangbei, shanzhai phones, Xiaolingtong, operator contract phones, and handset supply-chain maturity. Created supporting entity and concept pages for the major companies, platforms, supply-chain actors, and handset-history concepts; updated overview, index, Google, Apple, and Microsoft pages.

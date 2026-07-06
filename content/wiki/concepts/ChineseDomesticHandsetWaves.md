@@ -1,0 +1,22 @@
+---
+title: "Chinese Domestic Handset Waves"
+type: concept
+tags: [mobile, china, consumer-electronics, market-history]
+sources: [no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376]
+last_updated: 2026-07-07
+---
+
+# Chinese Domestic Handset Waves
+
+Chinese Domestic Handset Waves is the staged market-history frame implied by [[no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376]]. The episode moves from first-generation licensed brands such as [[BirdMobile]] and [[Kejian]], to [[MediaTek]]-enabled and [[Huaqiangbei]]-centered [[ShanzhaiPhones]], then to 3G operator contract phones and the later smartphone players foreshadowed for the next episode.
+
+## Source Position
+- First-wave domestic brands used licenses, local channels, celebrity endorsements, and Chinese-language adaptation to enter a market still dominated by global firms.
+- The second wave came from lower manufacturing thresholds, especially [[TurnkeyHandsetSolutions]], local design houses, and regulatory loosening.
+- The third stage, described as "中华酷联" in the source, used 3G licensing and [[OperatorSubsidizedHandsets]] to put smartphones into many users' hands.
+- The episode ends by setting up Meizu, Huawei, OPPO, vivo, Xiaomi, and other later players rather than fully analyzing them.
+
+## Connections
+- [[ChinaHandsetSupplyChain]] — cumulative supply-chain base across all waves.
+- [[MobileInternetPrehistory]] — domestic phone waves expanded the installed base before mobile apps and services exploded.
+- [[SmartphoneOperatingSystemEcosystems]] — later domestic smartphone competition depended on Android-era platform availability.
