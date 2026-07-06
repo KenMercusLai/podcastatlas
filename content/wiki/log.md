@@ -223,3 +223,7 @@ Added source page for a YiLaoYongYi and QianliangHutongFM crossover on Chinese-f
 ## [2026-07-07] ingest | EP11 空少揭秘：飞机上的神秘规定和奇闻趣事
 
 Added source page for a YiLaoYongYi episode on cabin crew work, passenger complaints, airline service differentiation, and aviation safety rules. Created supporting pages for Emirates, Air New Zealand, Singapore Airlines, Cabin Crew Work, Airline Service Differentiation, Passenger Complaint Handling, and Aviation Safety Rules; updated overview, index, and the YiLaoYongYi show page.
+
+## [2026-07-07] ingest | EP44 摸摸口袋，里面的钱居然是脏的？
+
+Added source page for a YiLaoYongYi episode on anti-money laundering, placement/layering/integration, account misuse, consumer AML exposure, cross-border fund-transfer risk, underground money-transfer platforms, virtual-asset AML risk, and ordinary account-safety warnings. Created supporting pages for 前途无量, Anti-Money Laundering, Money Laundering Stages, Consumer AML Exposure, Account Misuse Risk, Cross-Border Fund Transfer Risk, Underground Money Transfer Risk, and Virtual Asset AML Risk; updated overview, index, YiLaoYongYi, banking KYC/compliance pages, Bitcoin, Stablecoins, and Cryptocurrency Market Structure.

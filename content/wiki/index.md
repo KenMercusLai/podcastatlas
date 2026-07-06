@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP44 摸摸口袋，里面的钱居然是脏的？](sources/ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr.md) — Podcast episode on anti-money laundering, laundering stages, account misuse, cross-border transfer risk, consumer AML exposure, virtual assets, and underground money-transfer traps.
 - [EP11 空少揭秘：飞机上的神秘规定和奇闻趣事](sources/ep11-kongshao-jiemi-feiji-shang-de-shenmi-guiding-he-qiwen-qushi-lua5j8erhk1smzf5gwmj2jni9-sh.md) — Podcast episode on cabin crew work, passenger complaints, airline service differentiation, and the safety reasons behind liquid, smoking, tray-table, seatback, and seat-belt rules.
 - [EP25 中资外资哪家强：“一劳永逸”找“钱粮”（下）](sources/ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg.md) — Podcast crossover on Chinese-funded versus foreign-funded banks, bank hierarchy, matrix reporting, retail client segmentation, KYC, cross-border data, and compliance boundaries.
 - [EP57 美股动荡，东升西降？这回是走是留](sources/ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5.md) — Podcast episode on U.S. equity volatility, Trump/Fed policy pressure, mega-cap concentration, retail crowding, defensive dividend assets, index reentry discipline, and Hong Kong tech repricing.
@@ -213,6 +214,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [QQ](entities/QQ.md) — Tencent messaging product used as the historical comparison for free-core, paid-membership internet services.
 - [Qianli Technology](entities/QianliTechnology.md) — AI-and-car terminal company chaired by Yin Qi and paired with StepFun's foundation-model strategy.
 - [钱粮胡同FM](entities/QianliangHutongFM.md) — Banking and finance podcast/show context for the EP25 YiLaoYongYi crossover on Chinese-funded and foreign-funded banks.
+- [前途无量](entities/QianTuWuLiang.md) — Financial drama used by EP44 as a hook for discussing bank fraud, fund flows, AML, and laundering stages.
 - [Qwen](entities/Qwen.md) — Alibaba's open-source model family discussed as strategically important to Chinese AI and developer adoption.
 - [RecruiterBox](entities/RecruiterBox.md) — Recruiting SaaS company whose traction and compliance pain shaped Girish Redikar's later Sprinto thesis.
 - [Red Truck Orchards](entities/RedTruckOrchards.md) — Michigan cherry vinegar company using regional story, sampling, and simple use cases to create trial.
@@ -298,6 +300,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Account Misuse Risk](concepts/AccountMisuseRisk.md) — Risk that personal bank cards, IDs, payment accounts, or dormant accounts are used to receive, split, withdraw, or disguise suspicious funds.
 - [AI 3D Prototyping](concepts/AI3DPrototyping.md) — Possibility that AI lowers 3D game-production barriers enough for small teams to test richer prototypes.
 - [AI BPO Roll Up](concepts/AIBPORollUp.md) — Restructuring business-process outsourcing and professional services with agents, experts, and shared systems.
 - [AI Assisted Software Development Risk](concepts/AIAssistedSoftwareDevelopmentRisk.md) — Risk that AI-speed development still fails on migration, compatibility, and production engineering details.
@@ -337,6 +340,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent Self-Evolution](concepts/AgentSelfEvolution.md) — Agent improvement loop where memory, saved workflows, skills, and harness feedback make future work more consistent.
 - [Agentic Economy](concepts/AgenticEconomy.md) — Infrastructure and economics for agent-to-service and agent-to-agent task execution.
 - [Agentic Workflow](concepts/AgenticWorkflow.md) — Work pattern where AI agents use tools, context, and process state to complete real tasks.
+- [Anti-Money Laundering](concepts/AntiMoneyLaundering.md) — Compliance frame for detecting, preventing, and investigating attempts to make illegal funds appear legitimate.
 - [Assistive AI](concepts/AssistiveAI.md) — AI systems that reduce communication, accessibility, or ability barriers, grounded here by an unclear-speech repair prototype.
 - [Aviation Safety Rules](concepts/AviationSafetyRules.md) — Passenger-facing flight rules whose rationale lies in security, fire, evacuation, impact, turbulence, and decompression risk.
 - [Averaging Down](concepts/AveragingDown.md) — Adding to a losing active trade, framed as a risk-amplifying behavior distinct from diversified dollar-cost averaging.
@@ -358,10 +362,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Community-Led SaaS Growth](concepts/CommunityLedSaaSGrowth.md) — SaaS growth through practitioner communities, trusted channels, service, and word of mouth.
 - [Companion Robots](concepts/CompanionRobots.md) — Robots designed primarily for emotional coexistence, social presence, and household relationship-building.
 - [Compliance Automation](concepts/ComplianceAutomation.md) — Software that helps companies prove and maintain security, privacy, compliance, and trust obligations with less manual work.
+- [Consumer AML Exposure](concepts/ConsumerAMLExposure.md) — Ordinary-user exposure to suspicious fund flows through accounts, withdrawals, recharges, live-streaming rewards, or overseas platforms.
 - [Contact Center AI](concepts/ContactCenterAI.md) — Agent deployment in customer service, complaints, consultation, marketing, membership operations, calls, and messages.
 - [Context Engineering](concepts/ContextEngineering.md) — Practice of accumulating and shaping context as a durable advantage in AI work.
 - [Contrarian Sentiment Indicators](concepts/ContrarianSentimentIndicators.md) — Informal behavioral signals, such as EP57's "骂骂咧咧指数", used to judge whether market mood may be exhausted.
 - [CPG Distribution](concepts/CPGDistribution.md) — Physical-product go-to-market problem of getting packaged goods produced, stocked, sampled, replenished, and reordered.
+- [Cross-Border Fund Transfer Risk](concepts/CrossBorderFundTransferRisk.md) — Compliance, foreign-exchange, data, and account-safety risk created when funds move across jurisdictions and counterparties.
 - [Creation As Consumption](concepts/CreationAsConsumption.md) — Product-design idea that making with AI can itself be an entertainment experience.
 - [Customer Concentration Risk](concepts/CustomerConcentrationRisk.md) — SaaS risk where one large customer can distort roadmap, mission, or validation signals.
 - [Customer Pull](concepts/CustomerPull.md) — Demand signal where users return, follow up, refer others, or keep paying without constant founder pushing.
@@ -427,6 +433,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Model Harness Co-Evolution](concepts/ModelHarnessCoEvolution.md) — View that models and agent/harness systems improve each other through real workflow feedback.
 - [Model Provider Tool Competition](concepts/ModelProviderToolCompetition.md) — Pressure on workflow startups when frontier model providers ship official tools in the same category.
 - [Mobile Internet Prehistory](concepts/MobileInternetPrehistory.md) — Handset, network, standards, and consumer-adoption layer that made later mobile internet possible.
+- [Money Laundering Stages](concepts/MoneyLaunderingStages.md) — Placement, layering, and integration model for how illicit funds are introduced, obscured, and re-entered as apparently legitimate money.
 - [Monetary Policy Lag](concepts/MonetaryPolicyLag.md) — Delay between interest-rate decisions and their effects on employment, housing, corporate investment, and markets.
 - [MSP Channel Distribution](concepts/MSPChannelDistribution.md) — Go-to-market pattern for reaching SMBs through managed service providers that operate customer IT environments.
 - [Multi-Agent Collaboration](concepts/MultiAgentCollaboration.md) — Use of multiple agents for context exchange, cross-checking, parallel exploration, and drift correction.
@@ -482,8 +489,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Trial Size Product](concepts/TrialSizeProduct.md) — Smaller, lower-commitment format that lets customers test a product before buying the full version.
 - [Turnkey Handset Solutions](concepts/TurnkeyHandsetSolutions.md) — Integrated chipset and phone-design packages that lowered the barrier to building feature phones.
 - [U.S. Recession Risk](concepts/USRecessionRisk.md) — Macro-risk frame using labor, manufacturing, consumption, leverage, policy, and market valuation signals.
+- [Underground Money Transfer Risk](concepts/UndergroundMoneyTransferRisk.md) — Risk from overseas trading or investment platforms that route RMB and withdrawals through unrelated domestic accounts or informal exchange chains.
 - [Upward Management](concepts/UpwardManagement.md) — Influencing bosses and higher-power stakeholders through demand clarification, decision support, and expectation setting.
 - [Validated Learning](concepts/ValidatedLearning.md) — Lean Startup principle that startups progress by testing assumptions against real customer behavior.
+- [Virtual Asset AML Risk](concepts/VirtualAssetAMLRisk.md) — AML risk from crypto assets, stablecoins, exchanges, wallets, miners, and conversion routes used as layers in broader fund-transfer chains.
 - [Video Models](concepts/VideoModels.md) — AI video generation models discussed as a content-production and investment theme.
 - [Vibe Coding](concepts/VibeCoding.md) — AI-assisted coding practice whose value is capability expansion as much as speed.
 - [Vision Language Action Models](concepts/VisionLanguageActionModels.md) — Robot models that connect perception, language, and action but may struggle to cover continuous physical action spaces.
