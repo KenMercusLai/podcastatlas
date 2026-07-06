@@ -2,8 +2,8 @@
 title: "ChatGPT"
 type: entity
 tags: [ai-tool, search, assistant]
-sources: [ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]
-last_updated: 2026-07-06
+sources: [ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]
+last_updated: 2026-07-07
 ---
 
 # ChatGPT
@@ -14,6 +14,8 @@ ChatGPT appears in [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]] as
 
 [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] adds a social-collaboration limitation. The hosts say voice/chat with ChatGPT and [[Gemini]] can be useful, but often becomes too convergent, all-knowing, and wiki-like to replace the surprise and sideways inspiration of human conversation.
 
+[[biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]] adds ChatGPT through two reflection points. First, ChatGPT 4.5 is used as a prompt for questioning [[FrontierModelScaling]] and whether bigger models still feel categorically new. Second, [[WuTao]] asks ChatGPT to place itself within stages from [[ABriefHistoryOfIntelligence]], and the source treats the answer as interesting but not proof of genuine mentalizing.
+
 ## Connections
 - [[OpenAI]] - company associated with ChatGPT in the broader AI ecosystem.
 - [[PeakAI]] - product that monitors brand visibility in ChatGPT and similar tools.
@@ -21,3 +23,4 @@ ChatGPT appears in [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]] as
 - [[GenerativeEngineOptimization]] and [[AIDiscoverySEO]] - marketing concepts related to appearing in AI-mediated answers.
 - [[AIInvestmentResearch]] and [[FinancialAIAgents]] - finance-oriented use cases where explanation must be separated from investment decision-making.
 - [[Gemini]], [[HumanAgentCollaboration]], and [[ProactiveAgents]] - conversation and agent-product limitations discussed in Vol. 166.
+- [[ABriefHistoryOfIntelligence]], [[WorldModels]], and [[FrontierModelScaling]] - model self-description and scaling questions added by Neihe Konghuang.

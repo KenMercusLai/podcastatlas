@@ -2,7 +2,7 @@
 title: "AI Coding Verification"
 type: concept
 tags: [ai-coding, software-engineering, verification]
-sources: [duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]
+sources: [duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]
 last_updated: 2026-07-07
 ---
 
@@ -16,6 +16,8 @@ AI coding verification is the shift in bottleneck from generating code to provin
 
 [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] adds review-loop saturation. Automatic review, repair, and review-again cycles around [[Codex]] and [[ClaudeCode]] can raise quality, but also increase token usage and make human attention the bottleneck.
 
+[[biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]] adds everyday verification cases. [[Ryo]] validates an AI-generated NAS deduplication strategy against actual file data, while [[WuTao]] says AI helps with cloud-service consulting but can confidently invent nonexistent Azure or DevOps settings.
+
 ## Key Claims
 - AI coding makes implementation cheaper, but architecture, roadmap choice, complexity control, tests, review, and long-term maintenance still matter.
 - Generated code should not reduce the developer's responsibility for commits made under their own identity.
@@ -28,6 +30,7 @@ AI coding verification is the shift in bottleneck from generating code to provin
 - AI can help implement verification itself, but only when the user explicitly asks for tests, screenshots, logs, and review rather than accepting generated code as finished.
 - Legacy-code modernization should begin with reading, documentation, tests, and observability before asking AI to rewrite core logic.
 - Review agents are useful only if the human can still inspect the resulting diffs, decide when enough review is enough, and avoid treating repeated agent approval as proof of correctness.
+- AI-generated infrastructure advice requires documentation checks and live-system validation, because plausible cloud configuration answers can be wrong.
 
 ## Connections
 - [[AgenticWorkflow]] — the workflow pattern that accelerates production and creates verification pressure.
@@ -38,3 +41,4 @@ AI coding verification is the shift in bottleneck from generating code to provin
 - [[METR]], [[Cursor]], and [[VibeCoding]] — productivity and review-overhead case added by EP108.
 - [[AIEngineeringThinking]], [[ShengpaiNotice]], and [[ZhangLe]] — workflow and legacy-system cases added by the Keji Luandun episode.
 - [[Codex]], [[ClaudeCode]], and [[Superpowers]] — review-loop and orchestration cases added by Vol. 166.
+- [[WuTao]], [[Ryo]], and [[AIProgrammingEngineShift]] — cloud-consulting, small-script, and AI editor cases added by the internal-combustion-era episode.

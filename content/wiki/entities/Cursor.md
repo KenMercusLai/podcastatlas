@@ -2,8 +2,8 @@
 title: "Cursor"
 type: entity
 tags: [ai-tool, coding]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan]
-last_updated: 2026-07-06
+sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]
+last_updated: 2026-07-07
 ---
 
 # Cursor
@@ -12,6 +12,8 @@ Cursor is mentioned in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-r
 
 [[ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan]] makes Cursor the central case for [[VibeCoding]] pricing and differentiation. The episode says Cursor's move toward token/API-cost-linked pricing made heavy-user economics more explicit, but also created a transparency problem because users could see usage details without easily knowing how much paid allowance remained. It also distinguishes Tab-completion users from heavy conversational vibe coders: the former may still value Cursor as an IDE experience, while the latter feel more direct pressure from [[ClaudeCode]], [[GeminiCLI]], and [[ModelProviderToolCompetition]].
 
+[[biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]] adds Cursor as part of a broader AI editor set alongside VS Code Copilot-style tools and Vim habits. The source treats AI editors as workflow-changing but not yet a pure yes/no approval loop; developers still read, choose, modify, and reject model output.
+
 ## Connections
 - [[AgenticWorkflow]] — the key concept Cursor helps illustrate.
 - [[ContextEngineering]] — the reason project-aware tools can beat isolated chats.
@@ -19,3 +21,4 @@ Cursor is mentioned in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-r
 - [[VibeCoding]], [[AIInferenceCostStructure]], and [[AISubscriptionEconomics]] — pricing and usage-pressure themes from EP108.
 - [[ClaudeCode]], [[GeminiCLI]], and [[ModelProviderToolCompetition]] — official-tool pressure discussed in EP108.
 - [[METR]] and [[AICodingVerification]] — productivity and review-overhead concerns raised in EP108.
+- [[AIProgrammingEngineShift]] — broader labor and craft shift around AI code editors in the Neihe Konghuang episode.

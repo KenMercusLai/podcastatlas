@@ -2,7 +2,7 @@
 title: "AI Engineering Thinking"
 type: concept
 tags: [ai, workflow, software-engineering]
-sources: [ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]
+sources: [ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]
 last_updated: 2026-07-07
 ---
 
@@ -12,6 +12,8 @@ AI engineering thinking is the habit of turning a vague goal into explicit requi
 
 [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] adds planning artifacts as a practical example. The hosts describe using [[Superpowers]] to move from brainstorming into design markdown and plan markdown before delegating execution to [[Codex]] or [[ClaudeCode]].
 
+[[biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]] adds the consulting version. [[WuTao]] describes feeling like AI's human peripheral: he translates ambiguous client needs into AI-usable work, then checks whether the result matches real cloud-service behavior.
+
 ## Key Claims
 - AI is most useful when the work can be decomposed into bounded tasks with clear inputs, outputs, and acceptance criteria.
 - Test-driven development, end-to-end tests, screenshots, code review, documentation, and logging become easier to enforce because AI will perform tedious process steps if asked.
@@ -20,6 +22,7 @@ AI engineering thinking is the habit of turning a vague goal into explicit requi
 - Debugging with AI depends on observability; detailed logs and reproducible failures give the agent enough context to locate logic problems rather than only syntax errors.
 - The same posture applies outside code: AI can audit data, content, pricing, or promotion decisions, but humans must design the workflow and own final decisions.
 - Design and plan documents can be treated as engineering artifacts, not just prompts, because they define what later agents should build and review.
+- When AI answers about infrastructure or APIs, engineering thinking includes reading official docs, testing in the real environment, and rejecting fluent but nonexistent configuration details.
 
 ## Connections
 - [[VibeCoding]] — AI coding practice that needs this engineering posture to become product work.
@@ -29,3 +32,4 @@ AI engineering thinking is the habit of turning a vague goal into explicit requi
 - [[AgenticWorkflow]] and [[AISkills]] — ways to package the process into reusable AI-enabled work.
 - [[DomainExpertAlignment]] and [[HumanJudgmentUnderAI]] — human expertise and judgment still shape the problem and final decision.
 - [[Superpowers]], [[Codex]], and [[ClaudeCode]] — planning-to-execution workflow added by Vol. 166.
+- [[AIProgrammingEngineShift]] and [[AICodingVerification]] — internal-combustion-era source where AI speed increases the need for framing and verification.

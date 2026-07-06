@@ -191,3 +191,7 @@ Added source page for a Banlatte episode on Chinese mobile-phone prehistory, Mot
 ## [2026-07-07] ingest | EP41 成就职场大圣：远离天命，掌握向上管理
 
 Added source page for a YiLaoYongYi episode on upward management, boss-facing demand clarification, decision support, disagreement handling, promotion expectation setting, internal transfers, and workplace power navigation. Created supporting concept pages for Upward Management, Promotion Expectation Management, and Internal Transfer Strategy; updated overview, index, YiLaoYongYi, and Workplace Hidden Rules pages.
+
+## [2026-07-07] ingest | 71. 编程的内燃机时代
+
+Added source page for a Neihe Konghuang episode on AI translation, language learning, task-as-a-service, programming's internal-combustion-era shift, AI coding verification, cloud-service hallucination risk, European AI industrial constraints, and post-automation craft. Created supporting entity and concept pages for the show, hosts, Immersive Translate, Europe/Germany references, A Brief History of Intelligence, AI translation, task-as-a-service, AI programming engine shift, and European AI industrial constraints; updated related AI coding, verification, headless software, agent-interface, model-scaling, open-source-model, and human-judgment pages.

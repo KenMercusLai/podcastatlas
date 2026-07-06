@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [71. 编程的内燃机时代](sources/biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1.md) — Podcast episode on AI translation, task-as-a-service, programming's internal-combustion-era shift, AI coding verification, and European AI industrial constraints.
 - [EP41 成就职场大圣：远离天命，掌握向上管理](sources/ep41-chengjiu-zhichang-dasheng-yuanli-tianming-zhangwo-xiangshang-guanli-lrkefagxfcan-faiyoalofhevidp.md) — Podcast episode on upward management, boss-facing communication, promotion expectation setting, internal transfers, and workplace power navigation.
 - [No.208 中国手机江湖·上：摩托罗拉、诺基亚和爱立信的诸神黄昏 | 中国互联网故事23](sources/no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376.md) — Podcast episode on Chinese mobile-phone prehistory, Motorola, Nokia, Ericsson, GSM, Symbian, iPhone/Android, MediaTek, Huaqiangbei, shanzhai phones, and domestic handset supply chains.
 - [EP39 风满楼下集：全球衰退慢慢逼近，严防死守步步为营！漫聊下半年美股、美债、汇率](sources/ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj.md) — Podcast episode on U.S. recession risk, AI equity valuation, QDII allocation, U.S. Treasury duration risk, currency risk, and RMB/USD policy.
@@ -42,10 +43,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [A Brief History of Intelligence](entities/ABriefHistoryOfIntelligence.md) — Book used in the Neihe Konghuang episode to connect biological intelligence, simulation, world models, and mentalizing.
 - [Aether AI](entities/AetherAI.md) — AI robotics company founded by Huang Biwei to build causal world models for embodied intelligence.
 - [Adao](entities/Adao.md) — MiniMax Agent chief architect discussing agent harnesses, multi-agent cross-checking, and model-harness feedback loops.
 - [Agan](entities/Agan.md) — Rolling AI partner discussing enterprise AI deployment, FDE work, and AI-era role changes.
 - [Alex Berman](entities/AlexBerman.md) — LinkedIn influencer partner associated with Tapio's distribution strategy.
+- [Aleph Alpha](entities/AlephAlpha.md) — German AI company referenced as part of the episode's discussion of European AI visibility and constraints.
 - [Alibaba](entities/Alibaba.md) — Large technology company discussed through Qwen, open source, organizational order, and talent management.
 - [Amazon](entities/Amazon.md) — Cloud and AI infrastructure buyer discussed through Nvidia demand and hyperscaler capex assumptions.
 - [Android](entities/Android.md) — Google-backed open smartphone operating system that became the non-Apple ecosystem after iPhone reset handset competition.
@@ -86,6 +89,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Edward](entities/Edward.md) — Designer and hackathon contestant behind Atoom, emphasizing taste and idea quality after vibe coding accelerates implementation.
 - [Ericsson](entities/Ericsson.md) — Telecom equipment and handset company discussed through early China networks, GSM infrastructure, supply-chain response, and Sony Ericsson.
 - [Eric Ries](entities/EricRies.md) — Lean Startup author and Incorruptible author discussing validated learning, AI-era product economics, financial gravity, and founder governance.
+- [European Union](entities/EuropeanUnion.md) — European political and market context for language fragmentation, AI translation, regulation, and startup constraints.
 - [Federal Reserve](entities/FederalReserve.md) — U.S. central bank discussed through rate-cut expectations, policy lag, yield-curve inversion, and market interpretation of easing.
 - [Forward Consumer Partners](entities/ForwardConsumerPartners.md) — Investment group that acquired a controlling stake in Justin's Nut Butter and brought Justin Gold back as owner, founder, and board member.
 - [枫言枫语](entities/FengyanFengyu.md) — Podcast/show context for the OpenClaw and self-built personal-agent episode.
@@ -104,6 +108,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hormel](entities/Hormel.md) — Food company that acquired Justin's Nut Butter in 2016 and later retained a significant stake under Forward Consumer Partners control.
 - [How I Built This](entities/HowIBuiltThis.md) — Startup interview podcast/show context for the Justin Gold and Justin's Nut Butter episode.
 - [Huang Biwei](entities/HuangBiwei.md) — Aether AI founder and causal AI researcher arguing for causal world models as the robot-brain route.
+- [Immersive Translate](entities/ImmersiveTranslate.md) — AI translation tool used as the episode's main example for webpages, PDFs, subtitles, OCR, and manga.
 - [iPhone](entities/IPhone.md) — Apple smartphone product that reset handset competition around touch UI, app ecosystems, and platform coherence.
 - [Janet Yellen](entities/JanetYellen.md) — U.S. fiscal-policy figure discussed through short-term Treasury issuance and long-bond funding-cost timing.
 - [Jensen Huang](entities/JensenHuang.md) — Nvidia founder/CEO referenced through insider selling as one input in AI equity valuation risk.
@@ -163,6 +168,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [你的书房](entities/NiDeShufang.md) — Personal book-management product used as an example of paid AI features, bounded usage, and data portability.
 - [NetEase](entities/NetEase.md) — Chinese game company mentioned as becoming more active in AI adoption.
 - [NewSpot](entities/NewSpot.md) — Justin Yan's software product contrasted with OpenClaw as a traditional app where agent lessons may improve research workflows.
+- [内核恐慌](entities/NeiheKonghuang.md) — Technology podcast/show context for the "programming internal-combustion era" episode.
 - [Ninety](entities/Ninety.md) — SaaS platform for leadership-team operating rhythms, built through the EOS ecosystem and now embedding AI.
 - [Nokia](entities/Nokia.md) — GSM and feature-phone giant whose Symbian dominance, durable mass-market phones, and later Windows Phone turn anchor the handset-history episode.
 - [Nvidia](entities/Nvidia.md) — AI semiconductor company used as EP39's main case for separating company quality from stock valuation risk.
@@ -187,7 +193,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Roblox](entities/Roblox.md) — Creator-platform comparison point for AI interactive content platforms and editor-backed game creation.
 - [Rolling AI](entities/RollingAI.md) — Enterprise AI consulting and implementation company discussed through FDE, digital employees, and service as software.
 - [Rudi's Organic Bakery](entities/RudisOrganicBakery.md) — Food company Justin Gold worked with after leaving Justin's Nut Butter under Hormel ownership.
+- [Ryo](entities/Ryo.md) — Neihe Konghuang host discussing Immersive Translate, NAS deduplication, tool discovery, and app/UI displacement.
 - [Same.Dev](entities/SameDev.md) — Jiang Yang's prior AI-assisted web UI generation project mentioned as Paperboy founder background.
+- [SAP](entities/SAP.md) — German enterprise software company used as a reference point for Germany's manufacturing-heavy software culture.
 - [Samsung](entities/Samsung.md) — Android-era smartphone maker that captured much of the post-iPhone non-Apple handset opportunity.
 - [Share AI](entities/ShareAI.md) — Agent-infrastructure company behind Learn Claude Code and the K-series tooling discussed by Lai Xinlu.
 - [Shanbin](entities/Shanbin.md) — Xiaohongshu community technology lead and organizer framing the hackathon around creator energy and AI-era age.
@@ -223,6 +231,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VMG](entities/VMG.md) — Investment group that backed Justin's Nut Butter with growth capital around 2012.
 - [Wang Dafu](entities/WangDafu.md) — Keji Luandun participant contributing operations, data-work, scripting, and business-logic optimization examples.
 - [Warren Buffett](entities/WarrenBuffett.md) — Long-term value investor discussed through contrast with Jim Simons and through Berkshire's cash, Apple reduction, and market caution.
+- [吴涛](entities/WuTao.md) — Neihe Konghuang host connecting Japanese learning, cloud consulting, AI coding, and low-level programming craft.
 - [WeChat](entities/WeChat.md) — Platform discussed as a possible high-context environment for agent products in China.
 - [Wenxin](entities/Wenxin.md) — Baidu AI model and product family discussed as weak in user mindshare despite early AI investment.
 - [Windsurf](entities/Windsurf.md) — AI coding tool discussed through disrupted acquisition, talent movement, and model-provider competition.
@@ -278,9 +287,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Organization Design](concepts/AIOrganizationDesign.md) — Organizational problem of combining high talent density, coordination, research vitality, and result accountability in AI companies.
 - [AI Plus Terminals](concepts/AIPlusTerminals.md) — Foundation-model commercialization thesis linking models, software, hardware carriers, users, and physical-world data.
 - [AI Product Fragmentation](concepts/AIProductFragmentation.md) — Gap between strong model capability and a coherent product entry point across assistant, browser, workspace, and platform surfaces.
+- [AI Programming Engine Shift](concepts/AIProgrammingEngineShift.md) — View that AI changes programming like an engine changes manual work, shifting value toward framing, testing, and judgment.
 - [AI Search Analytics](concepts/AISearchAnalytics.md) — Category for measuring brand visibility, citations, and sentiment across AI answer/search tools.
 - [AI Skills](concepts/AISkills.md) — Codified workflows, standards, context, and tool use that make AI behavior reusable.
 - [AI Subscription Economics](concepts/AISubscriptionEconomics.md) — Tradeoffs of free tiers, paid tiers, usage limits, and heavy-user costs in AI products.
+- [AI Translation](concepts/AITranslation.md) — Context-aware, multimodal translation across webpages, PDFs, subtitles, images, manga, and speech.
 - [AI Workforce Monitoring](concepts/AIWorkforceMonitoring.md) — Workplace risk where AI-enabled productivity measurement turns into invasive employee behavior surveillance.
 - [Agent-Facing Interfaces](concepts/AgentFacingInterfaces.md) — CLI, API, MCP-like, skill, and tool layers that make software callable by agents.
 - [Agent Harness](concepts/AgentHarness.md) — Model-external system of tools, context, memory, permissions, runtime state, and orchestration that lets an agent act.
@@ -325,6 +336,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Domain Expert Alignment](concepts/DomainExpertAlignment.md) — AI development pattern where researchers and engineers work with real field experts in domains such as coding, finance, safety, and law.
 - [Embodied AI](concepts/EmbodiedAI.md) — Robotics and physical AI direction discussed as both bubbly and strategically important.
 - [Emotional Interaction Models](concepts/EmotionalInteractionModels.md) — AI systems that decide social and emotional responses across speech, movement, memory, and relationship state.
+- [European AI Industrial Constraints](concepts/EuropeanAIIndustrialConstraints.md) — Source frame for Europe's AI limits around language fragmentation, regulation, capital, software culture, and manufacturing inertia.
 - [Everything Agent](concepts/EverythingAgent.md) — Investment thesis that agents will enter many white-collar workflows and need supporting infrastructure.
 - [Family World Simulator](concepts/FamilyWorldSimulator.md) — Simulated household interaction environment for training and testing companion robot behavior.
 - [Fast Product Validation](concepts/FastProductValidation.md) — Startup process for testing product demand through rapid experiments, revenue, retention, and recurring use.
@@ -400,6 +412,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Stablecoins](concepts/Stablecoins.md) — Crypto-dollar infrastructure discussed through payment demand, Treasury demand, issuer risk, and regulation.
 - [Startup Governance](concepts/StartupGovernance.md) — Founder protection system spanning mission, charter language, board design, real power, and cultural commitments.
 - [Subagent Workflow](concepts/SubagentWorkflow.md) — Agentic pattern that delegates heavy or adversarial work to background agents and integrates their outputs.
+- [Task As A Service](concepts/TaskAsAService.md) — Shift from operating visible apps toward delegated task completion through AI and agent-callable surfaces.
 - [Treasury Duration Risk](concepts/TreasuryDurationRisk.md) — Bond risk from rate sensitivity, long-bond supply, fiscal pressure, and currency effects despite a rate-cut-cycle setup.
 - [Trial Size Product](concepts/TrialSizeProduct.md) — Smaller, lower-commitment format that lets customers test a product before buying the full version.
 - [Turnkey Handset Solutions](concepts/TurnkeyHandsetSolutions.md) — Integrated chipset and phone-design packages that lowered the barrier to building feature phones.
