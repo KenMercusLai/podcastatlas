@@ -127,3 +127,7 @@ Added source page for a Shizilukou Crossing episode on Kaiwuji, Lu Ziheng, AI ma
 ## [2026-07-07] lint | Wiki lint check
 
 Ran health and lint checks after refreshing the deterministic graph with `python tools/build_graph.py --no-infer`. Health, structural lint, link-density checks, and refreshed graph hub-stub checks passed. Semantic lint was completed manually in-session because the local `litellm` dependency and provider API configuration were unavailable; community-aware graph checks were limited because `networkx` is not installed.
+
+## [2026-07-07] ingest | 把7位黑客松选手请进播客｜冠军、怪才和48小时不眠的野心家
+
+Added source page for a Shizilukou Crossing episode on Xiaohongshu's hackathon, AI-era creator communities, vibe coding, building public, 48-hour prototypes, assistive AI voice repair, and products including Party Guitar, Atoom, Vibe Song, and Kenan Voice Changer. Created supporting entity and concept pages for Xiaohongshu, the hackathon, contestants, products, AI hackathons, building public, and assistive AI; updated overview, index, Shizilukou Crossing, Koji, vibe coding, validation, distribution, customer pull, willingness-to-pay, creation-as-consumption, interactive content platforms, and voice interaction pages.

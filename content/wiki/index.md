@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [把7位黑客松选手请进播客｜冠军、怪才和48小时不眠的野心家](sources/ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex.md) — Podcast episode on Xiaohongshu's hackathon, AI-era builders, vibe coding, building public, creator communities, and 48-hour prototypes such as Party Guitar, Atoom, Vibe Song, and Kenan Voice Changer.
 - [“你有一把能够挖出金子的铲子，肯定不会先给别人用”｜对谈开物纪陆子恒：用AI发明新材料](sources/ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh.md) — Podcast episode on Kaiwuji, Lu Ziheng, AI materials discovery, MatterSim/MatterGen, materials pipeline commercialization, and expert-led experimental validation.
 - [AI 会写代码了，为什么你还是做不出产品？](sources/ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1.md) — Podcast episode on AI coding, productization limits, test-driven AI workflows, logs, audit, operations automation, and domain know-how.
 - [EP108 Vibe Coding大地震：Cursor定价争议、Windsurf收购风波，模型厂商亲儿子们又将如何进场？](sources/ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan.md) — Podcast episode on Cursor pricing, Windsurf, Claude Code, Gemini CLI, vibe coding productivity, AI coding token costs, and model-provider tool competition.
@@ -39,6 +40,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alibaba](entities/Alibaba.md) — Large technology company discussed through Qwen, open source, organizational order, and talent management.
 - [Anthropic](entities/Anthropic.md) — AI company discussed alongside OpenAI in the episode's treatment of frontier models, agent tools, and enterprise deployment.
 - [Antler](entities/Antler.md) — Startup program where Peak AI's founding team formed and secured early funding.
+- [Atoom](entities/Atoom.md) — Attention-aware interface prototype from the Xiaohongshu hackathon that dynamically reorganizes web pages around what the user should focus on.
 - [BCG](entities/BCG.md) — Consulting company referenced through Rolling AI partners' background and as contrast for AI-era agent delivery.
 - [Baijian](entities/Baijian.md) — Bairong Intelligence professional-service platform that gives experts digital employees and office systems.
 - [Bairong Intelligence](entities/BairongIntelligence.md) — Enterprise AI company using and selling digital employees across service, approval, risk-control, and professional-service workflows.
@@ -48,6 +50,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cang Shifu](entities/CangShifu.md) — AI practitioner and creator discussing CLI workflows, skills, Code Pilot, and hands-on agent use.
 - [Character AI](entities/CharacterAI.md) — Character-chat product referenced as an AI-as-interaction-object example in AI interactive entertainment.
 - [ChatGPT](entities/ChatGPT.md) — AI assistant/search surface monitored by Peak AI for brand visibility.
+- [Chen Jingchu](entities/ChenJingchu.md) — Serial builder and hackathon contestant arguing that building public is an AI-era product and distribution lever.
 - [Claude Code](entities/ClaudeCode.md) — Agentic coding tool used as an example of workflow-oriented AI use.
 - [Code Pilot](entities/CodePilot.md) — Localized coding agent project discussed through skills, memory, CLI, and tool harnesses.
 - [Codex](entities/Codex.md) — Agentic coding tool presented as part of the shift from chat interfaces to task-executing agents.
@@ -60,6 +63,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Doubao](entities/Doubao.md) — ByteDance AI assistant used as the central case for Chinese consumer AI subscription pricing.
 - [EOS Worldwide](entities/EOSWorldwide.md) — Methodology and coaching organization behind the EOS ecosystem that shaped Ninety's early product and channel.
 - [EarthKit](entities/EarthKit.md) — Jie Dechen's multimodal project for inferring photo locations, mentioned as background before Paperboy.
+- [Edward](entities/Edward.md) — Designer and hackathon contestant behind Atoom, emphasizing taste and idea quality after vibe coding accelerates implementation.
 - [Eric Ries](entities/EricRies.md) — Lean Startup author and Incorruptible author discussing validated learning, AI-era product economics, financial gravity, and founder governance.
 - [Gemini](entities/Gemini.md) — AI assistant/search surface discussed in Peak AI's market framing and Gemini CLI's coding context.
 - [Gemini CLI](entities/GeminiCLI.md) — Command-line AI coding tool discussed through long-context planning and model-provider tool competition.
@@ -76,14 +80,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [JK Molina](entities/JKMolina.md) — Influencer distribution partner who helped scale Tweet Hunter.
 - [Keji Luandun](entities/KejiLuandun.md) — Podcast covering Chinese AI companies, software-payment norms, and practical AI coding/productization workflows.
 - [Kedaibiao Lizheng](entities/KedaibiaoLizheng.md) — Episode guest focused on AI learning, skills, context, and agent-based workflows.
+- [Kenan Voice Changer](entities/KenanVoiceChanger.md) — Assistive AI prototype that repairs unclear speech so users can communicate during rehabilitation.
 - [Kaseya](entities/Kaseya.md) — Cybersecurity/MSP company referenced through the July 2021 ransomware incident that accelerated ThreatLocker demand.
 - [K Computer](entities/KComputer.md) — Share AI's lightweight Unix-style virtual computer for agent work environments.
 - [Kaiwuji](entities/Kaiwuji.md) — AI-for-materials startup founded by Lu Ziheng to discover, validate, and commercialize new materials.
 - [Koji](entities/Koji.md) — Shizilukou Crossing host of the road-podcast episode on Xiaoban and Yueban Dongli.
+- [Kun Ni](entities/KunNi.md) — Singapore-based early investor and hackathon contestant whose Vibe Song project makes vibe-coding contests streamable and participatory.
 - [Lai Xinlu](entities/LaiXinlu.md) — Share AI founder explaining agent harness layers, Claude Code lessons, and CLI-first agent infrastructure.
 - [Lao Gao](entities/LaoGao.md) — Keji Luandun participant discussing practical AI coding, productization, and workflow judgment.
 - [Learn Claude Code](entities/LearnClaudeCode.md) — Share AI learning project that studies Claude Code as an agent harness sample.
 - [Lempire](entities/Lempire.md) — SaaS company that acquired Tweet Hunter and Tapio.
+- [Li Pengcheng](entities/LiPengcheng.md) — Builder focused on deaf speech rehabilitation and creator of the Kenan Voice Changer assistive AI prototype.
 - [Lin Junyang](entities/LinJunyang.md) — Qwen model training leader whose departure anchors the second ingested source.
 - [Liu Kai](entities/LiuKai.md) — Rolling AI partner discussing FDE practice, agent delivery, and frontline apprenticeship loops.
 - [Long-Term Stock Exchange](entities/LongTermStockExchange.md) — Exchange project used by Eric Ries as a case study in resisting conventional market pressure.
@@ -99,6 +106,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Megvii](entities/Megvii.md) — AI 1.0 company used in Yin Qi's retrospective on technical strength, commercialization, strategic focus, and organization design.
 - [Millian](entities/Millian.md) — Jiang Yang's earlier React ecosystem DevTools startup mentioned as founder background.
 - [MiHoYo](entities/MiHoYo.md) — Chinese game company discussed through technical AI experimentation and the Xingbugudi AI NPC example.
+- [Mingwei](entities/Mingwei.md) — Hackathon contestant exploring anime-style heads as emotional interfaces for future embodied AI and agents.
 - [MiniMax](entities/MiniMax.md) — AI model company discussed through M1/M2/M3 iteration, developer workflows, scaling, domain experts, and interpretability.
 - [MiniMax M3](entities/MiniMaxM3.md) — MiniMax model discussed as a coding component inside cost-aware, multi-model AI workflows.
 - [MultiCard](entities/MultiCard.md) — AI workflow company represented by Zhang Jiayuan and used as a case for model orchestration and maintainer-led AI coding.
@@ -113,6 +121,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Outrank](entities/Outrank.md) — SEO product discussed as part of Tea Maker's AI-era distribution playbook.
 - [Paperboy](entities/Paperboy.md) — AI-agent startup exploring OS-level context, persistent memory, proactive agents, and IM/inbox-style collaboration interfaces.
 - [Palantir](entities/Palantir.md) — Enterprise software company referenced as the origin context for forward-deployed engineering.
+- [Party Guitar](entities/PartyGuitar.md) — Winning portable chord-based music prototype from the Xiaohongshu hackathon.
 - [Peak AI](entities/PeakAI.md) — AI search analytics SaaS company discussed through rapid validation, GEO, and mid-market pricing.
 - [Perplexity](entities/Perplexity.md) — AI search tool discussed as one of the surfaces monitored by Peak AI.
 - [Peter Lynch](entities/PeterLynch.md) — Fundamental investor used as a comparison point against Jim Simons's quantitative approach.
@@ -126,6 +135,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rolling AI](entities/RollingAI.md) — Enterprise AI consulting and implementation company discussed through FDE, digital employees, and service as software.
 - [Same.Dev](entities/SameDev.md) — Jiang Yang's prior AI-assisted web UI generation project mentioned as Paperboy founder background.
 - [Share AI](entities/ShareAI.md) — Agent-infrastructure company behind Learn Claude Code and the K-series tooling discussed by Lai Xinlu.
+- [Shanbin](entities/Shanbin.md) — Xiaohongshu community technology lead and organizer framing the hackathon around creator energy and AI-era age.
 - [Shengpai Notice](entities/ShengpaiNotice.md) — Host-built podcast workflow tool used as a practical AI coding/productization case.
 - [Shibo](entities/Shibo.md) — Founder of Yueban Dongli discussing Xiaoban, companion robotics, robot liveliness, and emotional interaction architecture.
 - [Shizilukou Crossing](entities/ShizilukouCrossing.md) — Podcast/media project where the first ingested episode was published.
@@ -146,14 +156,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Traction Tools](entities/TractionTools.md) — EOS-related software competitor discussed in relation to Ninety's licensing and positioning.
 - [Tweet Hunter](entities/TweetHunter.md) — Twitter-focused SaaS product that grew through Lucas's own use and a JK Molina distribution partnership.
 - [Type Type Maker](entities/TypeTypeMaker.md) — AI game-creation tool discussed as a fast prototyping and creator-platform example.
+- [Vibe Song](entities/VibeSong.md) — Online vibe-coding competition platform prototype that turns hackathon building into a public participatory format.
 - [Wang Dafu](entities/WangDafu.md) — Keji Luandun participant contributing operations, data-work, scripting, and business-logic optimization examples.
 - [Warren Buffett](entities/WarrenBuffett.md) — Long-term value investor used as a comparison point against Jim Simons's quantitative approach.
 - [WeChat](entities/WeChat.md) — Platform discussed as a possible high-context environment for agent products in China.
 - [Windsurf](entities/Windsurf.md) — AI coding tool discussed through disrupted acquisition, talent movement, and model-provider competition.
+- [Xiaohongshu](entities/Xiaohongshu.md) — Social and community platform positioned as a building-public and AI-builder distribution channel in the hackathon episode.
+- [Xiaohongshu Hackathon Peak Competition](entities/XiaohongshuHackathonPeakCompetition.md) — Xiaohongshu's 48-hour AI-era hackathon for young builders, hardware makers, designers, and independent developers.
 - [Xiaoban](entities/Xiaoban.md) — Yueban Dongli's consumer bipedal companion robot designed around household emotional presence.
+- [Xiao'e](entities/XiaoE.md) — Design graduate student and hackathon contestant building playful AI hardware for focus and real-world attention.
 - [Xiaoning](entities/Xiaoning.md) — Former game producer and Youju guest mapping AI interactive entertainment and AI game misconceptions.
 - [Xingbugudi](entities/Xingbugudi.md) — MiHoYo product example where an AI NPC acts as character IP and multiplayer social infrastructure.
 - [Yan Junjie](entities/YanJunjie.md) — MiniMax founder and CEO discussing model iteration, productivity, scaling, domain experts, agents, and AI interpretability.
+- [Ye Bowen](entities/YeBowen.md) — Student and independent developer who won the Xiaohongshu hackathon with Party Guitar.
 - [YORO](entities/YORO.md) — AI interactive film/game example connected to video models and interactive content platforms.
 - [Yin Qi](entities/YinQi.md) — AI entrepreneur and chair of StepFun and Qianli Technology, discussing AI 1.0 lessons and foundation-model strategy.
 - [Yu Yang](entities/YuYang.md) — Financial-company technology leader discussing compliance-constrained financial AI agents and investing companionship.
@@ -182,6 +197,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI For Science](concepts/AIForScience.md) — Investment direction focused on using AI for high-complexity scientific and industrial knowledge work.
 - [AI Game Industrialization](concepts/AIGameIndustrialization.md) — Warning that generated games still require stable systems, design iteration, testing, tuning, and player feedback.
 - [AI Governance And Compliance](concepts/AIGovernanceAndCompliance.md) — Extension of governance, risk, compliance, security, and privacy programs to AI systems, agents, and AI-enabled threats.
+- [AI Hackathons](concepts/AIHackathons.md) — AI-era hackathons as high-density creator networks where vibe coding, design, hardware, public demos, and peer help compress into short events.
 - [AI Inference Cost Structure](concepts/AIInferenceCostStructure.md) — Usage-linked token, GPU, electricity, and infrastructure costs behind large-model services.
 - [AI Interactive Content Platforms](concepts/AIInteractiveContentPlatforms.md) — Platform problem of creation, distribution, consumption, remixing, and retention for AI-generated interactive experiences.
 - [AI Interactive Entertainment](concepts/AIInteractiveEntertainment.md) — Broader frame for AI games, creator tools, AI NPCs, interactive video, and social entertainment experiences.
@@ -202,6 +218,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent Self-Evolution](concepts/AgentSelfEvolution.md) — Agent improvement loop where memory, saved workflows, skills, and harness feedback make future work more consistent.
 - [Agentic Economy](concepts/AgenticEconomy.md) — Infrastructure and economics for agent-to-service and agent-to-agent task execution.
 - [Agentic Workflow](concepts/AgenticWorkflow.md) — Work pattern where AI agents use tools, context, and process state to complete real tasks.
+- [Assistive AI](concepts/AssistiveAI.md) — AI systems that reduce communication, accessibility, or ability barriers, grounded here by an unclear-speech repair prototype.
+- [Building Public](concepts/BuildingPublic.md) — Sharing product progress publicly to find users, feedback, collaborators, and distribution before a product is complete.
 - [Business-Led AI Transformation](concepts/BusinessLedAITransformation.md) — Enterprise AI adoption pattern led by business pain, workflow redesign, and incentive change rather than IT ownership alone.
 - [Category Creation](concepts/CategoryCreation.md) — Startup go-to-market challenge of teaching buyers to understand, name, and budget for a new category.
 - [Causal AI](concepts/CausalAI.md) — Research direction focused on intervention-grounded causal structure, causal discovery, and machine-learning systems that generalize beyond surface correlation.
