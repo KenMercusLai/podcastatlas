@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP21 谁在狱中？谁在巅峰？周期中的一粒灰，金融人的喜与悲](sources/ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq.md) — Podcast episode on finance career risk, third-party wealth platforms, employee misconduct controls, investor education, independent consulting, and career portability.
 - [EP18 都是黄泉预约客，保险买对心安乐](sources/ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw.md) — Podcast episode on insurance as household risk transfer, term life and family responsibility, health and high-end medical coverage, savings-style insurance, overseas policy risk, and sales-channel trust.
 - [EP44 摸摸口袋，里面的钱居然是脏的？](sources/ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr.md) — Podcast episode on anti-money laundering, laundering stages, account misuse, cross-border transfer risk, consumer AML exposure, virtual assets, and underground money-transfer traps.
 - [EP11 空少揭秘：飞机上的神秘规定和奇闻趣事](sources/ep11-kongshao-jiemi-feiji-shang-de-shenmi-guiding-he-qiwen-qushi-lua5j8erhk1smzf5gwmj2jni9-sh.md) — Podcast episode on cabin crew work, passenger complaints, airline service differentiation, and the safety reasons behind liquid, smoking, tray-table, seatback, and seat-belt rules.
@@ -158,7 +159,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lai Xinlu](entities/LaiXinlu.md) — Share AI founder explaining agent harness layers, Claude Code lessons, and CLI-first agent infrastructure.
 - [Lance Gentry](entities/LanceGentry.md) — Former Izze executive and Justin's Nut Butter operating partner who helped professionalize scaling before his death from brain cancer.
 - [Lao Gao](entities/LaoGao.md) — Keji Luandun participant discussing practical AI coding, productization, and workflow judgment.
-- [老麦](entities/LaoMai.md) — YiLaoYongYi guest explaining the market selloff through Japanese equities, fund flows, derivatives, yen funding, and policy timing.
+- [老麦](entities/LaoMai.md) — YiLaoYongYi guest explaining market selloffs, allocation discipline, creator economics, and finance-career risk through investing and banking cases.
 - [Learn Claude Code](entities/LearnClaudeCode.md) — Share AI learning project that studies Claude Code as an agent harness sample.
 - [Lempire](entities/Lempire.md) — SaaS company that acquired Tweet Hunter and Tapio.
 - [Li Yanhong](entities/LiYanhong.md) — Baidu founder discussed as a management and risk-preference lens for Baidu's search and AI predicament.
@@ -272,7 +273,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wenxin](entities/Wenxin.md) — Baidu AI model and product family discussed as weak in user mindshare despite early AI investment.
 - [Windsurf](entities/Windsurf.md) — AI coding tool discussed through disrupted acquisition, talent movement, and model-provider competition.
 - [Whole Foods Market](entities/WholeFoodsMarket.md) — Natural-food retailer that became the major early unlock for Justin's Nut Butter.
-- [小黛](entities/Xiaodai.md) — YiLaoYongYi guest explaining insurance, banking, funds, and household asset-allocation products.
+- [小黛](entities/Xiaodai.md) — YiLaoYongYi guest explaining insurance, banking, funds, household asset allocation, finance career risk, and investor education.
 - [Xiaohongshu](entities/Xiaohongshu.md) — Social and community platform positioned as a building-public channel, local lifestyle search entry point, and creator monetization venue.
 - [Xiaohongshu Hackathon Peak Competition](entities/XiaohongshuHackathonPeakCompetition.md) — Xiaohongshu's 48-hour AI-era hackathon for young builders, hardware makers, designers, and independent developers.
 - [Xiaoban](entities/Xiaoban.md) — Yueban Dongli's consumer bipedal companion robot designed around household emotional presence.
@@ -288,7 +289,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yueban Dongli](entities/YuebanDongli.md) — Robotics company founded by Shibo to build the Xiaoban companion robot.
 - [Yuanbao](entities/Yuanbao.md) — Tencent AI assistant discussed as a domestic alternative to Doubao.
 - [硬地骇客](entities/YingdiHaike.md) — Podcast/show context for EP108's AI coding market discussion.
-- [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for episodes on investing, career-entry anxiety, upward management, creator work, aviation work, banking, and global market turmoil.
+- [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for episodes on investing, finance career risk, career-entry anxiety, upward management, creator work, aviation work, banking, and global market turmoil.
 - [助助](entities/Zhuzhu.md) — Xiaohongshu local-lifestyle creator explaining ordinary creator monetization, local store reviews, and lifestyle freedom.
 - [Youyou Agent](entities/YouyouAgent.md) — Digital-life agent experiment discussed as an early agent-native project.
 - [Youju](entities/Youju.md) — Podcast/project focused on AI games and AI interactive entertainment.
@@ -298,6 +299,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zed](entities/Zed.md) — IDE referenced as technically strong but slow to seize the AI coding window.
 - [Zeying](entities/Zeying.md) — MiniMax R&D engineer discussing interleaved thinking, multi-agent collaboration, and agent self-evolution.
 - [ZhenFund](entities/ZhengkeFund.md) — Investment firm associated with the host's AI investing role and Token Grant.
+- [中植集团](entities/ZhongzhiGroup.md) — Finance-company case used by EP21 as a news hook for platform risk and financial workers' divergent outcomes.
 - [自立](entities/Zili.md) — Fengyan Fengyu host discussing OpenClaw, personal-agent security, and permission boundaries.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
@@ -396,7 +398,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Family World Simulator](concepts/FamilyWorldSimulator.md) — Simulated household interaction environment for training and testing companion robot behavior.
 - [Fast Product Validation](concepts/FastProductValidation.md) — Startup process for testing product demand through rapid experiments, revenue, retention, and recurring use.
 - [Feature Phone Cultural Memory](concepts/FeaturePhoneCulturalMemory.md) — User-memory layer around pagers, SMS, Nokia tones, ringtone entry, removable batteries, universal chargers, and shanzhai features.
+- [Finance Career Portability](concepts/FinanceCareerPortability.md) — Transfer of finance-industry communication, sales, customer, risk, and service skills into other roles, institutions, or sectors.
 - [Financial AI Agents](concepts/FinancialAIAgents.md) — Compliance-bounded financial AI systems that filter information, explain context, and provide companionship without direct investment advice.
+- [Financial Career Risk](concepts/FinancialCareerRisk.md) — Risk that finance workers' platform choices, client resources, incentives, and status narratives change legal exposure, reputation, and income stability.
+- [Financial Employee Misconduct Controls](concepts/FinancialEmployeeMisconductControls.md) — Internal rules, workflow checks, relationship disclosures, and monitoring responses that reduce employee harm to customers or institutions.
 - [Financial Freedom Vs Lifestyle Freedom](concepts/FinancialFreedomVsLifestyleFreedom.md) — Distinction between economic independence and lower-pressure daily autonomy through modest creator income and low fixed costs.
 - [Financial Gravity](concepts/FinancialGravity.md) — Pressure created by economic or status disparities that can redirect company behavior and mission.
 - [Foreign Banking In China](concepts/ForeignBankingInChina.md) — Operating model where international banks run Chinese-regulated local entities under both local rules and group standards.
@@ -416,6 +421,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hong Kong Tech Repricing](concepts/HongKongTechRepricing.md) — EP57 frame for DeepSeek-driven reassessment of Hong Kong and China technology assets and their changing relationship with U.S. tech.
 - [Human-Agent Collaboration](concepts/HumanAgentCollaboration.md) — Product-design problem of finding better ways for people and AI agents to work together beyond chat, prompt, and session interfaces.
 - [Human Judgment Under AI](concepts/HumanJudgmentUnderAI.md) — Claim that AI improves preparation but cannot replace fast, situated judgment in live professional settings.
+- [Independent Investment Consulting](concepts/IndependentInvestmentConsulting.md) — Advice-fee model focused on portfolio design, risk explanation, and long-term decision support rather than product distribution commissions.
 - [In-Store Demos](concepts/InStoreDemos.md) — Retail sampling and storytelling sessions that help CPG products sell and generate customer-learning loops.
 - [Index Reentry Discipline](concepts/IndexReentryDiscipline.md) — Staged, valuation-aware approach to buying broad equity indexes after drawdowns instead of treating every pullback as an all-in signal.
 - [Insurance Risk Transfer](concepts/InsuranceRiskTransfer.md) — Insurance frame that matches product categories to specific events, payout conditions, and household money needs.
@@ -424,6 +430,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Internal Transfer Strategy](concepts/InternalTransferStrategy.md) — Handling department moves as managed career transitions across current and receiving managers.
 - [Internship As Career Exploration](concepts/InternshipAsCareerExploration.md) — Using internships to test directions and stage goals instead of only soothing anxiety or decorating a resume.
 - [Investment Risk Management](concepts/InvestmentRiskManagement.md) — Position sizing, diversification, leverage control, automated rules, and emotional discipline for surviving uncertainty.
+- [Investor Education](concepts/InvestorEducation.md) — Work of making financial customers understand product structure, downside risk, liquidity, incentives, and the difference between disclosure and comprehension.
 - [Large Company Open Source Strategy](concepts/LargeCompanyOpenSourceStrategy.md) — Strategic use of open source by large companies and the tension between influence and internal value capture.
 - [Large Company Organizational Inertia](concepts/LargeCompanyOrganizationalInertia.md) — Big-company dynamic where resources and momentum amplify work but rules and scale reduce individual leverage.
 - [Lifestyle Subsidy Creator Work](concepts/LifestyleSubsidyCreatorWork.md) — Creator work that lowers living costs or expands experiences without necessarily replacing a main income.
@@ -492,6 +499,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Subagent Workflow](concepts/SubagentWorkflow.md) — Agentic pattern that delegates heavy or adversarial work to background agents and integrates their outputs.
 - [Sustainable Growth Pace](concepts/SustainableGrowthPace.md) — Choosing a company growth speed that employees, operations, mission, and management capacity can absorb.
 - [Task As A Service](concepts/TaskAsAService.md) — Shift from operating visible apps toward delegated task completion through AI and agent-callable surfaces.
+- [Third-Party Wealth Platform Risk](concepts/ThirdPartyWealthPlatformRisk.md) — Product, incentive, platform-solvency, and legal-exposure risk when finance workers move clients into outside high-yield wealth platforms.
 - [Treasury Duration Risk](concepts/TreasuryDurationRisk.md) — Bond risk from rate sensitivity, long-bond supply, fiscal pressure, and currency effects despite a rate-cut-cycle setup.
 - [Trend Following](concepts/TrendFollowing.md) — Trading discipline that waits for market confirmation through trend, volume, leadership, and higher-timeframe evidence.
 - [Trial Size Product](concepts/TrialSizeProduct.md) — Smaller, lower-commitment format that lets customers test a product before buying the full version.

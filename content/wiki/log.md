@@ -231,3 +231,7 @@ Added source page for a YiLaoYongYi episode on anti-money laundering, placement/
 ## [2026-07-07] ingest | EP18 都是黄泉预约客，保险买对心安乐
 
 Added source page for a YiLaoYongYi episode on insurance as household risk transfer, family protection and term life, health and high-end medical coverage, savings-style insurance, overseas insurance risk, and insurance sales-channel trust. Created supporting pages for 小黛, Insurance Risk Transfer, Family Protection Insurance Planning, Health Insurance Planning, Savings-Style Insurance, Overseas Insurance Risk, and Insurance Sales Trust; updated overview, index, YiLaoYongYi, Currency Risk, and Investment Risk Management pages.
+
+## [2026-07-07] ingest | EP21 谁在狱中？谁在巅峰？周期中的一粒灰，金融人的喜与悲
+
+Added source page for a YiLaoYongYi episode on finance career risk, Zhongzhi Group as a platform-risk hook, third-party wealth platforms, high commissions and high-yield narratives, employee misconduct controls, investor education, independent investment consulting, and finance career portability. Created supporting pages for 中植集团, Financial Career Risk, Third-Party Wealth Platform Risk, Financial Employee Misconduct Controls, Independent Investment Consulting, Investor Education, and Finance Career Portability; updated overview, index, YiLaoYongYi, Xiaodai, LaoMai, banking compliance boundaries, workplace hidden rules, and bank organizational hierarchy pages.

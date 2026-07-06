@@ -2,13 +2,13 @@
 title: "Banking Compliance Boundaries"
 type: concept
 tags: [finance, banking, compliance, regulation, aml]
-sources: [ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr]
+sources: [ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq]
 last_updated: 2026-07-07
 ---
 
 # Banking Compliance Boundaries
 
-Banking compliance boundaries are the practical limits on what bank employees, branches, and group entities can say, recommend, disclose, sell, or facilitate. In [[ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg]], these boundaries appear in public-speech control, data localization, non-independent-sales sensitivity, product recommendations, and witness account opening. In [[ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr]], they also explain why layered funds can be difficult to trace without lawful regulatory or investigative cooperation.
+Banking compliance boundaries are the practical limits on what bank employees, branches, and group entities can say, recommend, disclose, sell, or facilitate. In [[ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg]], these boundaries appear in public-speech control, data localization, non-independent-sales sensitivity, product recommendations, and witness account opening. In [[ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr]], they also explain why layered funds can be difficult to trace without lawful regulatory or investigative cooperation. In [[ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq]], they extend inward to employee borrowing, gambling pressure, staff relationships, customer-information changes, and outside-platform opportunity.
 
 ## Key Claims
 - A bank employee can be treated as representing the bank even in informal customer interactions, which makes outside referrals or financial suggestions compliance-sensitive.
@@ -17,6 +17,7 @@ Banking compliance boundaries are the practical limits on what bank employees, b
 - Banks can perform KYC, CDD, transaction monitoring, and formal investigation-assistance work, but one bank does not simply hand customer source-of-funds details to another bank informally.
 - Domestic witness account opening for Hong Kong, Singapore, or other overseas accounts can exist, but it is usually thresholded and not pushed aggressively because regulators watch capital movement.
 - Banks often translate broad regulatory rules into more detailed internal rules because the cost of a violation can be large even when the regulation does not spell out every scenario.
+- Employee-side boundaries include conflict declarations, relationship separation, customer-information review, and management intervention when personal financial distress creates misconduct risk.
 
 ## Connections
 - [[BankingKYCCompliance]] — onboarding and monitoring are part of the same compliance perimeter.
@@ -26,3 +27,5 @@ Banking compliance boundaries are the practical limits on what bank employees, b
 - [[ForeignBankingInChina]] — local regulation and group policy both shape foreign-bank boundaries.
 - [[FinancialAIAgents]] — financial advice boundaries are similarly central for AI-assisted financial products.
 - [[AIGovernanceAndCompliance]] — adjacent governance frame for regulated AI systems and data-handling risk.
+- [[FinancialEmployeeMisconductControls]] — employee-side control concept added by EP21.
+- [[ThirdPartyWealthPlatformRisk]] — outside-platform risk that can tempt employees to cross institutional boundaries.

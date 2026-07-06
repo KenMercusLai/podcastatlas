@@ -2,7 +2,7 @@
 title: "老麦"
 type: entity
 tags: [person, investing, media]
-sources: [ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7lsklr3vmtbc4l-p, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]
+sources: [ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7lsklr3vmtbc4l-p, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq]
 last_updated: 2026-07-07
 ---
 
@@ -16,6 +16,8 @@ In [[ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7l
 
 In [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]], 老麦 returns to the investing-guest role. He argues that March 2025 U.S. equity volatility should be watched rather than chased, connects [[DonaldTrump]] policy pressure with [[FederalReserve]] uncertainty, treats [[DeepSeek]] as a catalyst for reassessing AI capex returns, and recommends cash, patience, and staged entry over aggressive all-in buying.
 
+In [[ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq]], 老麦 shifts from markets to finance-career risk. He uses cases involving a bank vice president's platform jump, gambling-driven customer-fund misuse, long-serving customer managers, management promotion, and post-bank entrepreneurship to frame [[FinancialCareerRisk]], [[FinancialEmployeeMisconductControls]], and [[FinanceCareerPortability]].
+
 ## Source Position
 - He treats the Japanese equity crash as unusual even by long market-practitioner standards.
 - He argues that [[DerivativeAmplifiedVolatility]] helped turn a policy and currency shock into a sharper index move.
@@ -26,6 +28,8 @@ In [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqe
 - In EP43, he frames ordinary creator work as a way to improve life on the margin rather than a reliable path to financial freedom.
 - In EP57, he treats [[RetailInvestorCrowding]], tail-end index support, and weak bank stocks as warning signs that a correction may not have fully cleared.
 - He argues that [[HongKongTechRepricing]] can be real while still being vulnerable to U.S.-led liquidity shocks.
+- In EP21, he warns against fast money in finance because a pursuit of "financial freedom" can become legal and personal-freedom risk.
+- He presents finance work as useful professional training even when a person later leaves the industry.
 
 ## Connections
 - [[YiLaoYongYi]] — show context for the episode.
@@ -35,3 +39,4 @@ In [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqe
 - [[QDIIAllocation]], [[TreasuryDurationRisk]], [[CurrencyRisk]], and [[RMBExchangeRatePolicy]] — allocation themes he develops in EP39.
 - [[Zhuzhu]], [[XiaohongshuCreatorMonetization]], and [[FinancialFreedomVsLifestyleFreedom]] — creator-economy themes he draws out as EP43 host.
 - [[DonaldTrump]], [[FederalReserve]], [[DeepSeek]], [[Tesla]], [[RetailInvestorCrowding]], [[IndexReentryDiscipline]], and [[HongKongTechRepricing]] — market and allocation themes he develops in EP57.
+- [[FinancialCareerRisk]], [[FinancialEmployeeMisconductControls]], and [[FinanceCareerPortability]] — finance-career, control, and exit themes he develops in EP21.
