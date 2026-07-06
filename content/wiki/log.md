@@ -8,6 +8,14 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-06] ingest | EP88 穿越量化之父西蒙斯：AI会让普通人更容易赚钱，还是更难？
+
+Added source page for a 一劳永逸 episode on Jim Simons, Renaissance Technologies, the Medallion Fund, quantitative investing, AI-assisted investment research, risk management, overfitting, market regime shifts, passive investing, crypto market structure, stablecoins, and AI IPO valuation. Created supporting entity and concept pages for the main people, institutions, assets, and investing frameworks; updated overview, index, OpenAI, Anthropic, ChatGPT, financial AI agents, and AI commercialization pressure pages.
+
+## [2026-07-06] ingest | How Danny Jenkins Bootstrapped ThreatLocker From $150K Debt to $200M
+
+Added source page for a The SaaS Podcast episode on Danny Jenkins, ThreatLocker, zero trust security, default-deny controls, ransomware prevention, MSP distribution, category creation, and startup survival under severe financial pressure. Created supporting entity and concept pages for the major people, company, incident context, and cybersecurity/go-to-market themes; updated overview, index, The SaaS Podcast, validation, distribution, willingness-to-pay, customer-pull, and SaaS trust pages.
+
 ## [2026-07-06] ingest | 我遇到了第一个真正想买的陪伴机器人！｜对话世博：越伴动力创始人【公路播客】
 
 Added source page for a Shizilukou Crossing road-podcast episode on Xiaoban, Yueban Dongli, Shibo, consumer companion robots, robot liveliness, emotional interaction models, Qwen-based on-device fast/slow brains, and household world simulation. Created supporting entity and concept pages for the major people, products, company, robotics references, and technical/product themes; updated overview, Shizilukou Crossing, Qwen, embodied AI, world models, voice interaction, open-source model, and willingness-to-pay pages.
@@ -51,3 +59,23 @@ Added source page for a The SaaS Podcast episode on Girish Redikar, RecruiterBox
 ## [2026-07-06] ingest | Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？
 
 Added source page for a Shizilukou Crossing episode on headless software, GUI thinking, agent-facing interfaces, skills, token costs, and agentic economy infrastructure. Created supporting pages for Tianjie Jack, Cang Shifu, Manus, Open Cloud, Token Grant, Code Pilot, Youyou Agent, Headless Software, Agent-Facing Interfaces, and Agentic Economy; updated overview and related agent workflow, skills, context, Codex, Claude Code, WeChat, ZhenFund, and AI token economics pages.
+
+## [2026-07-06] ingest | 对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局
+
+Added source page for a Shizilukou Crossing MiniMax Developer Meetup episode on MiniMax M3, AI coding verification, model-harness co-evolution, 3T/10T model scaling, MultiCard, Deerflow, financial AI agents, domain experts, and AI interpretability. Created supporting entity and concept pages for the major people, projects, model, and technical themes; updated overview, index, Shizilukou Crossing, Koji, Anthropic, agent workflow, AI skills, AI software risk, AI token economics, AI governance, and human judgment pages.
+
+## [2026-07-06] ingest | 哪条路线，才能通往「世界模型」的终局？｜对话黄碧薇：Aether AI 创始人
+
+Added source page for a Shizilukou Crossing episode on Huang Biwei, Aether AI, causal world models, embodied AI, VLA/WAM limits, causal AI history, robotics data strategy, and scaling. Created supporting pages for Huang Biwei, Aether AI, causal AI, causal world models, vision language action models, and world action models; updated overview, index, Shizilukou Crossing, OpenAI, Anthropic, world models, embodied AI, video models, frontier model scaling, and AI for Science pages.
+
+## [2026-07-06] lint | Wiki lint check
+
+Ran health and lint checks. Deterministic lint passed; semantic lint was completed manually in-session because the local `litellm` dependency was unavailable.
+
+## [2026-07-06] ingest | 131. 印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程
+
+Added source page for a 张小珺Jùn｜商业访谈录 episode on Yin Qi becoming chair of StepFun while also chairing Qianli Technology, with retrospection on Megvii and AI 1.0. Created supporting entity and concept pages for Yin Qi, StepFun, Qianli Technology, Megvii, the show, AI plus terminals, long-chain AI competition, and AI organization design; updated overview, index, AI commercialization pressure, embodied AI, world models, frontier model scaling, VLA, and stage-appropriate hiring pages.
+
+## [2026-07-06] ingest | OpenAI 和 Anthropic 共同看好的 FDE：AI 时代的新岗位出现，旧分工松动｜对谈 Rolling AI
+
+Added source page for a Shizilukou Crossing episode on Rolling AI, forward-deployed engineering, digital employees, business-led enterprise AI transformation, frontline enablement, and service as software. Created supporting entity and concept pages for Rolling AI, Agan, Liu Kai, Palantir, BCG, digital employees, frontline AI enablement, business-led AI transformation, and service as software; corrected the existing FDE concept from Frontend Deployment Engineer to Forward Deployed Engineer; updated overview, index, OpenAI, Anthropic, Shizilukou Crossing, context engineering, agentic workflow, human judgment, AI organization design, domain expert alignment, and service productization pages.

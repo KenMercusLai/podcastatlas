@@ -18,6 +18,6 @@ Everything Agent is the host's label for an investment direction where agents en
 
 ## Connections
 - [[AgenticWorkflow]] — user-level version of the same shift.
-- [[FrontendDeploymentEngineer]] — enterprise role that may operationalize agent adoption.
+- [[ForwardDeployedEngineer]] — enterprise role that may operationalize agent adoption.
 - [[OpenAI]] and [[Anthropic]] — frontier companies shaping the agent ecosystem.
 - [[AgenticEconomy]] — infrastructure and economics version of the thesis.
