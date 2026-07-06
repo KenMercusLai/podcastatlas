@@ -29,6 +29,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [2026 AI 游戏全景扫描：四层图景、三大误区、一个共识缺口｜对谈 405 游局筱宁](sources/2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne.md) — Podcast episode on AI interactive entertainment, AI game production limits, AI NPCs, creator platforms, designed agency, AI 3D prototyping, and the missing consensus product for AI games.
 - [131. 印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程](sources/131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan.md) — Podcast episode on Yin Qi, StepFun, Qianli Technology, Megvii, foundation-model commercialization, AI plus terminals, world models, and AI organization design.
 - [EP88 穿越量化之父西蒙斯：AI会让普通人更容易赚钱，还是更难？](sources/ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1.md) — Podcast episode on Jim Simons, Renaissance Technologies, quantitative investing, AI-assisted investing, risk management, crypto, passive investing, and AI IPO valuation.
+- [EP76 穿越1940：我与股票大作手利弗莫尔的最后对话](sources/ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg.md) — Podcast episode on Jesse Livermore, trend following, stop-loss discipline, pyramiding, averaging down, AI-market bubble psychology, and trading life boundaries.
 - [哪条路线，才能通往「世界模型」的终局？｜对话黄碧薇：Aether AI 创始人](sources/na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr.md) — Podcast episode on Huang Biwei, Aether AI, causal world models, embodied AI, VLA/WAM limits, causal AI history, robotics data, and scaling.
 - [How Danny Jenkins Bootstrapped ThreatLocker From $150K Debt to $200M](sources/how-danny-jenkins-bootstrapped-threatlocker-from-150k-debt-to-200m.md) — Podcast episode on Danny Jenkins, ThreatLocker, zero trust security, default-deny controls, MSP distribution, category creation, and early SaaS survival.
 - [对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局](sources/duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe.md) — Podcast episode on MiniMax M3, AI coding verification, model-harness co-evolution, model scaling, Deerflow, MultiCard, financial AI agents, and AI interpretability.
@@ -117,10 +118,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Huang Biwei](entities/HuangBiwei.md) — Aether AI founder and causal AI researcher arguing for causal world models as the robot-brain route.
 - [Immersive Translate](entities/ImmersiveTranslate.md) — AI translation tool used as the episode's main example for webpages, PDFs, subtitles, OCR, and manga.
 - [iPhone](entities/IPhone.md) — Apple smartphone product that reset handset competition around touch UI, app ecosystems, and platform coherence.
+- [J.P. Morgan](entities/JPMorgan.md) — Financier referenced in the 1907 panic segment as a stabilizing actor who asked Livermore to stop shorting.
 - [Janet Yellen](entities/JanetYellen.md) — U.S. fiscal-policy figure discussed through short-term Treasury issuance and long-bond funding-cost timing.
 - [Jensen Huang](entities/JensenHuang.md) — Nvidia founder/CEO referenced through insider selling as one input in AI equity valuation risk.
 - [Jiang Yang](entities/JiangYang.md) — Paperboy founder arguing that human-agent collaboration needs OS-level context, persistent memory, and new interface forms.
 - [Jie Dechen](entities/JieDechen.md) — Paperboy founding engineer explaining OS-level memory, autocomplete, PR descriptions, and agent-tool competition.
+- [Jesse Livermore](entities/JesseLivermore.md) — Speculator and trend-following figure used to explain trading discipline, repeated bankruptcy, and market psychology.
 - [Jim Simons](entities/JimSimons.md) — Mathematician and Renaissance Technologies founder used to explain quantitative investing, risk control, and ordinary-investor limits.
 - [JetBrains](entities/JetBrains.md) — Incumbent IDE company referenced as slow to respond to the AI coding workflow shift.
 - [Jeffrey Hollender](entities/JeffreyHollender.md) — Seventh Generation co-founder advising mission-driven consumer founders on purpose, messaging, trial, and growth pace.
@@ -315,6 +318,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agentic Economy](concepts/AgenticEconomy.md) — Infrastructure and economics for agent-to-service and agent-to-agent task execution.
 - [Agentic Workflow](concepts/AgenticWorkflow.md) — Work pattern where AI agents use tools, context, and process state to complete real tasks.
 - [Assistive AI](concepts/AssistiveAI.md) — AI systems that reduce communication, accessibility, or ability barriers, grounded here by an unclear-speech repair prototype.
+- [Averaging Down](concepts/AveragingDown.md) — Adding to a losing active trade, framed as a risk-amplifying behavior distinct from diversified dollar-cost averaging.
 - [Big Company Halo](concepts/BigCompanyHalo.md) — Resume signal created by recognizable large-company internships, useful but incomplete without substantive work and direction.
 - [Building Public](concepts/BuildingPublic.md) — Sharing product progress publicly to find users, feedback, collaborators, and distribution before a product is complete.
 - [Business-Led AI Transformation](concepts/BusinessLedAITransformation.md) — Enterprise AI adoption pattern led by business pain, workflow redesign, and incentive change rather than IT ownership alone.
@@ -407,6 +411,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Product Led Willingness To Pay](concepts/ProductLedWillingnessToPay.md) — Claim that users pay when product value is clear, differentiated, stable, and trustworthy.
 - [Promotion Expectation Management](concepts/PromotionExpectationManagement.md) — Making advancement goals, evidence, timing, and manager sponsorship explicit before formal review windows.
 - [Purpose Driven Business](concepts/PurposeDrivenBusiness.md) — Mission-led company-building where social or environmental purpose must still improve customer value and business performance.
+- [Pyramiding](concepts/Pyramiding.md) — Position-sizing rule that adds smaller increments only after an existing trade is profitable and trend-confirmed.
 - [QDII Allocation](concepts/QDIIAllocation.md) — Overseas-allocation problem where quota scarcity must be separated from asset price, duration, and currency risk.
 - [Quantitative Investing](concepts/QuantitativeInvesting.md) — Data- and model-driven investing based on repeated small statistical edges, execution, and risk control.
 - [Quantitative Overfitting](concepts/QuantitativeOverfitting.md) — Failure mode where a trading rule fits historical data but lacks robust out-of-sample value.
@@ -425,14 +430,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Shanzhai Phones](concepts/ShanzhaiPhones.md) — Low-cost gray-market, copycat, and extreme-feature Chinese handsets enabled by turnkey designs and Shenzhen supply chains.
 - [Software Payment Culture](concepts/SoftwarePaymentCulture.md) — User expectations around free versus paid software, shaped by Chinese internet history and monetization models.
 - [Smartphone Operating System Ecosystems](concepts/SmartphoneOperatingSystemEcosystems.md) — Competitive shift from single handset models and form factors toward OS platforms, touch UI, apps, and developer ecosystems.
+- [Speculative Bubble Psychology](concepts/SpeculativeBubblePsychology.md) — Pattern where real technology stories mix with leverage, crowd confidence, and "this time is different" market narratives.
 - [Stage-Appropriate Hiring](concepts/StageAppropriateHiring.md) — Principle that leaders and executives must fit the company's current stage, ambiguity, pace, and culture.
 - [Star Talent In Big Companies](concepts/StarTalentInBigCompanies.md) — Pattern where high-profile technical talent and large organizations need each other but often misalign.
 - [Stablecoins](concepts/Stablecoins.md) — Crypto-dollar infrastructure discussed through payment demand, Treasury demand, issuer risk, and regulation.
+- [Stop-Loss Discipline](concepts/StopLossDiscipline.md) — Rule-based loss control that exits invalidated trades instead of extending losses through hope or delay.
 - [Startup Governance](concepts/StartupGovernance.md) — Founder protection system spanning mission, charter language, board design, real power, and cultural commitments.
 - [Subagent Workflow](concepts/SubagentWorkflow.md) — Agentic pattern that delegates heavy or adversarial work to background agents and integrates their outputs.
 - [Sustainable Growth Pace](concepts/SustainableGrowthPace.md) — Choosing a company growth speed that employees, operations, mission, and management capacity can absorb.
 - [Task As A Service](concepts/TaskAsAService.md) — Shift from operating visible apps toward delegated task completion through AI and agent-callable surfaces.
 - [Treasury Duration Risk](concepts/TreasuryDurationRisk.md) — Bond risk from rate sensitivity, long-bond supply, fiscal pressure, and currency effects despite a rate-cut-cycle setup.
+- [Trend Following](concepts/TrendFollowing.md) — Trading discipline that waits for market confirmation through trend, volume, leadership, and higher-timeframe evidence.
 - [Trial Size Product](concepts/TrialSizeProduct.md) — Smaller, lower-commitment format that lets customers test a product before buying the full version.
 - [Turnkey Handset Solutions](concepts/TurnkeyHandsetSolutions.md) — Integrated chipset and phone-design packages that lowered the barrier to building feature phones.
 - [U.S. Recession Risk](concepts/USRecessionRisk.md) — Macro-risk frame using labor, manufacturing, consumption, leverage, policy, and market valuation signals.

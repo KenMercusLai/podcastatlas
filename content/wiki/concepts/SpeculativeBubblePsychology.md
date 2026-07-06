@@ -1,0 +1,24 @@
+---
+title: "Speculative Bubble Psychology"
+type: concept
+tags: [investing, markets, psychology]
+sources: [ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg]
+last_updated: 2026-07-07
+---
+
+# Speculative Bubble Psychology
+
+Speculative bubble psychology is the pattern in [[ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg]] where a real technology or industry story becomes mixed with leverage, crowd participation, price extrapolation, and claims that "this time is different." The episode links railroad and automobile-era enthusiasm to modern AI-market excitement.
+
+## Key Claims
+- A technology can genuinely change the world while its current market price still embeds excessive assumptions.
+- Crowd participation, easy leverage, and social proof can make a market look safer precisely when risk is increasing.
+- The source treats taxi-driver and household-stock anecdotes from 1929 as signs of broad public participation and late-cycle confidence.
+- AI-market examples such as [[Nvidia]] are used to separate company quality and technology importance from entry price and trend risk.
+- Bubble psychology is hard to fight with argument alone, which is why the episode emphasizes [[TrendFollowing]], [[StopLossDiscipline]], and lower leverage.
+
+## Connections
+- [[JesseLivermore]] — historical persona used to connect 1907, 1929, and modern AI markets.
+- [[AIEquityValuationRisk]] and [[AIIPOValuation]] — technology-versus-price frames already present in the wiki.
+- [[MarketMeanReversion]] and [[MarketRegimeShift]] — ways speculative pricing can break or reprice.
+- [[InvestmentRiskManagement]] — practical response through sizing, liquidity, and rules.

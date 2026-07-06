@@ -203,3 +203,7 @@ Added source page for a Neihe Konghuang episode on Apple Podcasts' anniversary, 
 ## [2026-07-07] ingest | Advice Line with Jeffrey Hollender of Seventh Generation
 
 Added source page for a How I Built This Advice Line episode on Jeffrey Hollender, Seventh Generation, purpose-driven consumer products, green hushing, customer education, sampling, repeat purchase, and sustainable growth pace. Created supporting entity and concept pages for Jeffrey Hollender, Seventh Generation, Alan Newman, Unilever, Built for a Better World, 25 & Pine, Christina Molinaro, Red Truck Orchards, Phil Holstead, Petaluma, Caroline Buck, Purpose Driven Business, Green Hushing, Mission Driven Customer Education, and Sustainable Growth Pace; updated overview, index, How I Built This, Guy Raz, CPG distribution, in-store demos, trial-size products, distribution-led product building, customer pull, willingness to pay, and sales velocity pages.
+
+## [2026-07-07] ingest | EP76 穿越1940：我与股票大作手利弗莫尔的最后对话
+
+Added source page for a YiLaoYongYi episode on Jesse Livermore, trend following, stop-loss discipline, pyramiding into winners, avoiding averaging down, AI-market bubble psychology, Nvidia as a modern trend example, and the life boundaries around trading. Created supporting pages for Jesse Livermore, J.P. Morgan, Trend Following, Stop-Loss Discipline, Pyramiding, Averaging Down, and Speculative Bubble Psychology; updated overview, index, YiLaoYongYi, Nvidia, Investment Risk Management, Market Regime Shift, and AI Equity Valuation Risk pages.

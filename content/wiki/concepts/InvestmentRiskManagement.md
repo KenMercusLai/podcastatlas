@@ -2,13 +2,13 @@
 title: "Investment Risk Management"
 type: concept
 tags: [investing, risk]
-sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj]
+sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg]
 last_updated: 2026-07-07
 ---
 
 # Investment Risk Management
 
-Investment risk management is the practical bridge from market uncertainty to ordinary investor behavior. [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1]] argues that investors should focus less on finding brilliant predictions and more on staying solvent through small position sizes, diversification, low leverage, written rules, and emotional discipline. [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9]] adds the macro-stress version: when policy, currencies, leverage, derivatives, and crowded trades interact, humility and liquidity can matter more than calling the next direction. [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj]] adds the allocation version: do not let QDII scarcity, AI enthusiasm, coupon yield, or exchange-rate anecdotes override price, duration, currency, and personal use-case discipline.
+Investment risk management is the practical bridge from market uncertainty to ordinary investor behavior. [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1]] argues that investors should focus less on finding brilliant predictions and more on staying solvent through small position sizes, diversification, low leverage, written rules, and emotional discipline. [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9]] adds the macro-stress version: when policy, currencies, leverage, derivatives, and crowded trades interact, humility and liquidity can matter more than calling the next direction. [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj]] adds the allocation version: do not let QDII scarcity, AI enthusiasm, coupon yield, or exchange-rate anecdotes override price, duration, currency, and personal use-case discipline. [[ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg]] adds the active-trading rule version through [[JesseLivermore]]: cut losses, avoid [[AveragingDown]], add only through [[Pyramiding]], and stop trading when the setup or life context is wrong.
 
 ## Key Claims
 - Every trade has an informed or differently informed counterparty, so humility should be the starting point.
@@ -22,6 +22,8 @@ Investment risk management is the practical bridge from market uncertainty to or
 - Scarce overseas quota is not a reason to chase high-priced assets if the investor's macro view is cautious.
 - A defensive bond allocation must still account for [[TreasuryDurationRisk]], fund holdings, credit exposure, and [[CurrencyRisk]].
 - AI equity exposure requires separating technology adoption from current valuation through [[AIEquityValuationRisk]].
+- Active trading needs explicit exits through [[StopLossDiscipline]] because a correct story can still be wrong on timing.
+- Adding to a position should follow favorable evidence through [[Pyramiding]], not the emotional desire to rescue a losing trade through [[AveragingDown]].
 
 ## Connections
 - [[JimSimons]] — source's voice for the principle.
@@ -31,3 +33,4 @@ Investment risk management is the practical bridge from market uncertainty to or
 - [[YenCarryTrade]], [[CarryTradeUnwind]], and [[DerivativeAmplifiedVolatility]] — EP38's stress mechanisms.
 - [[MonetaryPolicyLag]], [[YieldCurveInversion]], and [[MarketMeanReversion]] — macro and valuation risks that complicate simple market timing.
 - [[QDIIAllocation]], [[AIEquityValuationRisk]], [[TreasuryDurationRisk]], [[CurrencyRisk]], and [[RMBExchangeRatePolicy]] — EP39's asset-allocation extensions.
+- [[JesseLivermore]], [[TrendFollowing]], [[StopLossDiscipline]], [[Pyramiding]], and [[AveragingDown]] — EP76's active-trading rule cluster.
