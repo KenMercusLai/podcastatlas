@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP108 Vibe Coding大地震：Cursor定价争议、Windsurf收购风波，模型厂商亲儿子们又将如何进场？](sources/ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan.md) — Podcast episode on Cursor pricing, Windsurf, Claude Code, Gemini CLI, vibe coding productivity, AI coding token costs, and model-provider tool competition.
 - [为什么公司用不好AI？从焦虑到行动的 3 个关键动作｜对谈百融智能张韶峰](sources/weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces.md) — Podcast episode on Bairong Intelligence, Zhang Shaofeng, digital employees, dark-office automation, outcome-based AI pricing, contact-center agents, and AI-enabled BPO/professional services.
 - [当我们在讨论 Harness 的时候，我们在讨论什么 | 深度对谈: MiniMax × Hermes Agent](sources/dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd.md) — Podcast episode on Agent Harness, Hermes Agent, MiniMax Agent practice, persistent memory, multi-agent collaboration, interleaved thinking, skills, identity, and agent self-evolution.
 - [探秘 Claude Code，搞懂 Agent Harness｜对谈来新璐](sources/tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3.md) — Podcast episode on Claude Code, agent harness layers, CLI/Unix-style agent interfaces, memory, context compression, K Computer, and agent-native infrastructure.
@@ -48,23 +49,28 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Claude Code](entities/ClaudeCode.md) — Agentic coding tool used as an example of workflow-oriented AI use.
 - [Code Pilot](entities/CodePilot.md) — Localized coding agent project discussed through skills, memory, CLI, and tool harnesses.
 - [Codex](entities/Codex.md) — Agentic coding tool presented as part of the shift from chat interfaces to task-executing agents.
+- [Cognition](entities/Cognition.md) — AI coding company behind Devin and acquirer of remaining Windsurf assets in the EP108 account.
 - [Cursor](entities/Cursor.md) — AI coding environment grouped with Codex and Claude Code as a practical agent tool.
 - [Danny Jenkins](entities/DannyJenkins.md) — ThreatLocker founder discussing zero trust cybersecurity, default-deny controls, MSP distribution, and startup survival.
 - [DeepSeek](entities/DeepSeek.md) — Chinese open-source model effort cited as a peer signal for Qwen.
 - [Deerflow](entities/Deerflow.md) — Open-source deep-research and desktop-workflow project discussed through AI coding, Chinese models, community governance, and multimodal work.
+- [Devin](entities/Devin.md) — Cognition coding-agent product discussed through the Windsurf acquisition context.
 - [Doubao](entities/Doubao.md) — ByteDance AI assistant used as the central case for Chinese consumer AI subscription pricing.
 - [EOS Worldwide](entities/EOSWorldwide.md) — Methodology and coaching organization behind the EOS ecosystem that shaped Ninety's early product and channel.
 - [EarthKit](entities/EarthKit.md) — Jie Dechen's multimodal project for inferring photo locations, mentioned as background before Paperboy.
 - [Eric Ries](entities/EricRies.md) — Lean Startup author and Incorruptible author discussing validated learning, AI-era product economics, financial gravity, and founder governance.
-- [Gemini](entities/Gemini.md) — AI assistant/search surface discussed in Peak AI's market framing.
+- [Gemini](entities/Gemini.md) — AI assistant/search surface discussed in Peak AI's market framing and Gemini CLI's coding context.
+- [Gemini CLI](entities/GeminiCLI.md) — Command-line AI coding tool discussed through long-context planning and model-provider tool competition.
 - [Gino Wickman](entities/GinoWickman.md) — EOS founder whose methodology and community created the ecosystem around Ninety's early product.
 - [Girish Redikar](entities/GirishRedikar.md) — Founder of Sprinto and former RecruiterBox founder discussing failed ideas, validation, service productization, and AI governance.
+- [Google DeepMind](entities/GoogleDeepMind.md) — Google AI organization discussed as the destination for Windsurf's core team.
 - [He Tao](entities/HeTao.md) — Deerflow core person discussing open-source AI workflows, codebase governance, engineering responsibility, and personal AI assistants.
 - [Hermes Agent](entities/HermesAgent.md) — Open-source agent framework discussed through persistent memory, tools, workflow skills, and self-improving harness loops.
 - [Huang Biwei](entities/HuangBiwei.md) — Aether AI founder and causal AI researcher arguing for causal world models as the robot-brain route.
 - [Jiang Yang](entities/JiangYang.md) — Paperboy founder arguing that human-agent collaboration needs OS-level context, persistent memory, and new interface forms.
 - [Jie Dechen](entities/JieDechen.md) — Paperboy founding engineer explaining OS-level memory, autocomplete, PR descriptions, and agent-tool competition.
 - [Jim Simons](entities/JimSimons.md) — Mathematician and Renaissance Technologies founder used to explain quantitative investing, risk control, and ordinary-investor limits.
+- [JetBrains](entities/JetBrains.md) — Incumbent IDE company referenced as slow to respond to the AI coding workflow shift.
 - [JK Molina](entities/JKMolina.md) — Influencer distribution partner who helped scale Tweet Hunter.
 - [Keji Luandun](entities/KejiLuandun.md) — Podcast where the Qwen departure and large-organization discussion appeared.
 - [Kedaibiao Lizheng](entities/KedaibiaoLizheng.md) — Episode guest focused on AI learning, skills, context, and agent-based workflows.
@@ -82,6 +88,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mark Abbott](entities/MarkAbbott.md) — Founder of Ninety, discussing EOS, community-led growth, funding, hiring, and AI strategy.
 - [Marius Miners](entities/MariusMiners.md) — Founder of Peak AI, discussing AI search analytics, fast validation, pre-product selling, and category timing.
 - [Medallion Fund](entities/MedallionFund.md) — Renaissance Technologies fund used as the main example of repeated small statistical edges.
+- [METR](entities/METR.md) — AI evaluation/research organization cited through an AI coding productivity study.
 - [Megvii](entities/Megvii.md) — AI 1.0 company used in Yin Qi's retrospective on technical strength, commercialization, strategic focus, and organization design.
 - [Millian](entities/Millian.md) — Jiang Yang's earlier React ecosystem DevTools startup mentioned as founder background.
 - [MiHoYo](entities/MiHoYo.md) — Chinese game company discussed through technical AI experimentation and the Xingbugudi AI NPC example.
@@ -133,6 +140,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Type Type Maker](entities/TypeTypeMaker.md) — AI game-creation tool discussed as a fast prototyping and creator-platform example.
 - [Warren Buffett](entities/WarrenBuffett.md) — Long-term value investor used as a comparison point against Jim Simons's quantitative approach.
 - [WeChat](entities/WeChat.md) — Platform discussed as a possible high-context environment for agent products in China.
+- [Windsurf](entities/Windsurf.md) — AI coding tool discussed through disrupted acquisition, talent movement, and model-provider competition.
 - [Xiaoban](entities/Xiaoban.md) — Yueban Dongli's consumer bipedal companion robot designed around household emotional presence.
 - [Xiaoning](entities/Xiaoning.md) — Former game producer and Youju guest mapping AI interactive entertainment and AI game misconceptions.
 - [Xingbugudi](entities/Xingbugudi.md) — MiHoYo product example where an AI NPC acts as character IP and multiplayer social infrastructure.
@@ -142,11 +150,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yu Yang](entities/YuYang.md) — Financial-company technology leader discussing compliance-constrained financial AI agents and investing companionship.
 - [Yueban Dongli](entities/YuebanDongli.md) — Robotics company founded by Shibo to build the Xiaoban companion robot.
 - [Yuanbao](entities/Yuanbao.md) — Tencent AI assistant discussed as a domestic alternative to Doubao.
+- [硬地骇客](entities/YingdiHaike.md) — Podcast/show context for EP108's AI coding market discussion.
 - [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for the Jim Simons quantitative investing episode.
 - [Youyou Agent](entities/YouyouAgent.md) — Digital-life agent experiment discussed as an early agent-native project.
 - [Youju](entities/Youju.md) — Podcast/project focused on AI games and AI interactive entertainment.
 - [Zhang Jiayuan](entities/ZhangJiayuan.md) — MultiCard founder discussing model orchestration, AI coding commoditization, roadmap taste, and retained human judgment.
 - [Zhang Shaofeng](entities/ZhangShaofeng.md) — Bairong Intelligence chair and CEO arguing for digital employees, outcome pricing, and practical enterprise AI rollout.
+- [Zed](entities/Zed.md) — IDE referenced as technically strong but slow to seize the AI coding window.
 - [Zeying](entities/Zeying.md) — MiniMax R&D engineer discussing interleaved thinking, multi-agent collaboration, and agent self-evolution.
 - [ZhenFund](entities/ZhengkeFund.md) — Investment firm associated with the host's AI investing role and Token Grant.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
@@ -227,6 +237,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Market Efficiency](concepts/MarketEfficiency.md) — Frame for mostly efficient markets with small, temporary inefficiencies that quant systems try to exploit.
 - [Market Regime Shift](concepts/MarketRegimeShift.md) — Market state changes where historical statistical patterns may stop working.
 - [Model Harness Co-Evolution](concepts/ModelHarnessCoEvolution.md) — View that models and agent/harness systems improve each other through real workflow feedback.
+- [Model Provider Tool Competition](concepts/ModelProviderToolCompetition.md) — Pressure on workflow startups when frontier model providers ship official tools in the same category.
 - [MSP Channel Distribution](concepts/MSPChannelDistribution.md) — Go-to-market pattern for reaching SMBs through managed service providers that operate customer IT environments.
 - [Multi-Agent Collaboration](concepts/MultiAgentCollaboration.md) — Use of multiple agents for context exchange, cross-checking, parallel exploration, and drift correction.
 - [Open Source AI Models](concepts/OpenSourceAIModels.md) — AI models released openly enough to support downstream adoption, fine-tuning, and ecosystem influence.
@@ -255,6 +266,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Subagent Workflow](concepts/SubagentWorkflow.md) — Agentic pattern that delegates heavy or adversarial work to background agents and integrates their outputs.
 - [Validated Learning](concepts/ValidatedLearning.md) — Lean Startup principle that startups progress by testing assumptions against real customer behavior.
 - [Video Models](concepts/VideoModels.md) — AI video generation models discussed as a content-production and investment theme.
+- [Vibe Coding](concepts/VibeCoding.md) — AI-assisted coding practice whose value is capability expansion as much as speed.
 - [Vision Language Action Models](concepts/VisionLanguageActionModels.md) — Robot models that connect perception, language, and action but may struggle to cover continuous physical action spaces.
 - [Voice Interaction](concepts/VoiceInteraction.md) — AI interaction mode based on speech and interactive audio experiences.
 - [World Action Models](concepts/WorldActionModels.md) — Intermediate robot/world-model route using video-rich action-conditioned modeling, treated as useful but incomplete without causality.

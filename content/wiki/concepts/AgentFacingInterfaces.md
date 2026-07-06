@@ -2,7 +2,7 @@
 title: "Agent-Facing Interfaces"
 type: concept
 tags: [agents, interfaces, cli, product-design]
-sources: [agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces]
+sources: [agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan]
 last_updated: 2026-07-06
 ---
 
@@ -20,6 +20,8 @@ Agent-facing interfaces are the CLI, API, MCP-like, skill, and tool layers that 
 
 [[weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces]] adds a plain enterprise requirement: old CRM, order-management, and office systems must expose APIs before [[DigitalEmployees]] can complete real tasks inside customer workflows.
 
+[[ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan]] adds the AI coding interface split. [[ClaudeCode]] and [[GeminiCLI]] show why CLI is a strong agent-facing surface, while the hosts still expect GUI affordances for human review, diff selection, rollback, and workflow trust.
+
 ## Key Claims
 - CLI was historically difficult for people but is comparatively natural for agents.
 - Agent-facing access can turn consumer services, enterprise tools, and local utilities into callable task components.
@@ -30,6 +32,7 @@ Agent-facing interfaces are the CLI, API, MCP-like, skill, and tool layers that 
 - CLI/Unix-style interfaces may be especially agent-native when the model can compose commands from well-represented training patterns.
 - Agent-facing interfaces need [[AgentIdentityAndAuthentication]] once agents invoke accounts, payments, or external services directly.
 - Enterprise deployment requires legacy systems to expose reliable APIs, not only new agent-native tools.
+- In coding tools, CLI may be natural for agents while GUI remains important for human inspection, selective acceptance, and history recovery.
 
 ## Connections
 - [[HeadlessSoftware]] — product-design thesis that motivates agent-facing access.
@@ -41,3 +44,4 @@ Agent-facing interfaces are the CLI, API, MCP-like, skill, and tool layers that 
 - [[AgentHarness]] and [[KComputer]] — harness and virtual-computer layer where CLI-style surfaces become executable agent infrastructure.
 - [[OpenCloud]], [[OpenClaw]], and [[HermesAgent]] — domestic agent-product context where reachability, skills, and memory shape the interface expectation.
 - [[BairongIntelligence]], [[DigitalEmployees]], and [[BusinessLedAITransformation]] — enterprise case where API exposure is a rollout prerequisite.
+- [[ClaudeCode]], [[GeminiCLI]], [[Cursor]], and [[VibeCoding]] — coding interface cases added by EP108.
