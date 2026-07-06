@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [人类和 AI Agent 的最佳配合方式，还没被发明｜对谈 Paperboy](sources/renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o.md) — Podcast episode on Paperboy, OS-level agent context, persistent memory, proactive agents, IM/inbox-style interfaces, and the unfinished product form for human-agent collaboration.
 - [2026 AI 游戏全景扫描：四层图景、三大误区、一个共识缺口｜对谈 405 游局筱宁](sources/2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne.md) — Podcast episode on AI interactive entertainment, AI game production limits, AI NPCs, creator platforms, designed agency, AI 3D prototyping, and the missing consensus product for AI games.
 - [131. 印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程](sources/131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan.md) — Podcast episode on Yin Qi, StepFun, Qianli Technology, Megvii, foundation-model commercialization, AI plus terminals, world models, and AI organization design.
 - [EP88 穿越量化之父西蒙斯：AI会让普通人更容易赚钱，还是更难？](sources/ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1.md) — Podcast episode on Jim Simons, Renaissance Technologies, quantitative investing, AI-assisted investing, risk management, crypto, passive investing, and AI IPO valuation.
@@ -47,12 +48,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Deerflow](entities/Deerflow.md) — Open-source deep-research and desktop-workflow project discussed through AI coding, Chinese models, community governance, and multimodal work.
 - [Doubao](entities/Doubao.md) — ByteDance AI assistant used as the central case for Chinese consumer AI subscription pricing.
 - [EOS Worldwide](entities/EOSWorldwide.md) — Methodology and coaching organization behind the EOS ecosystem that shaped Ninety's early product and channel.
+- [EarthKit](entities/EarthKit.md) — Jie Dechen's multimodal project for inferring photo locations, mentioned as background before Paperboy.
 - [Eric Ries](entities/EricRies.md) — Lean Startup author and Incorruptible author discussing validated learning, AI-era product economics, financial gravity, and founder governance.
 - [Gemini](entities/Gemini.md) — AI assistant/search surface discussed in Peak AI's market framing.
 - [Gino Wickman](entities/GinoWickman.md) — EOS founder whose methodology and community created the ecosystem around Ninety's early product.
 - [Girish Redikar](entities/GirishRedikar.md) — Founder of Sprinto and former RecruiterBox founder discussing failed ideas, validation, service productization, and AI governance.
 - [He Tao](entities/HeTao.md) — Deerflow core person discussing open-source AI workflows, codebase governance, engineering responsibility, and personal AI assistants.
 - [Huang Biwei](entities/HuangBiwei.md) — Aether AI founder and causal AI researcher arguing for causal world models as the robot-brain route.
+- [Jiang Yang](entities/JiangYang.md) — Paperboy founder arguing that human-agent collaboration needs OS-level context, persistent memory, and new interface forms.
+- [Jie Dechen](entities/JieDechen.md) — Paperboy founding engineer explaining OS-level memory, autocomplete, PR descriptions, and agent-tool competition.
 - [Jim Simons](entities/JimSimons.md) — Mathematician and Renaissance Technologies founder used to explain quantitative investing, risk control, and ordinary-investor limits.
 - [JK Molina](entities/JKMolina.md) — Influencer distribution partner who helped scale Tweet Hunter.
 - [Keji Luandun](entities/KejiLuandun.md) — Podcast where the Qwen departure and large-organization discussion appeared.
@@ -69,6 +73,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Marius Miners](entities/MariusMiners.md) — Founder of Peak AI, discussing AI search analytics, fast validation, pre-product selling, and category timing.
 - [Medallion Fund](entities/MedallionFund.md) — Renaissance Technologies fund used as the main example of repeated small statistical edges.
 - [Megvii](entities/Megvii.md) — AI 1.0 company used in Yin Qi's retrospective on technical strength, commercialization, strategic focus, and organization design.
+- [Millian](entities/Millian.md) — Jiang Yang's earlier React ecosystem DevTools startup mentioned as founder background.
 - [MiHoYo](entities/MiHoYo.md) — Chinese game company discussed through technical AI experimentation and the Xingbugudi AI NPC example.
 - [MiniMax](entities/MiniMax.md) — AI model company discussed through M1/M2/M3 iteration, developer workflows, scaling, domain experts, and interpretability.
 - [MiniMax M3](entities/MiniMaxM3.md) — MiniMax model discussed as a coding component inside cost-aware, multi-model AI workflows.
@@ -81,6 +86,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [OpenAI](entities/OpenAI.md) — Frontier AI company referenced in relation to agents, FDE, and AI market structure.
 - [Open Cloud](entities/OpenCloud.md) — Domestic agent-era project/event discussed through skills, CLI friction, and ecosystem consensus.
 - [Outrank](entities/Outrank.md) — SEO product discussed as part of Tea Maker's AI-era distribution playbook.
+- [Paperboy](entities/Paperboy.md) — AI-agent startup exploring OS-level context, persistent memory, proactive agents, and IM/inbox-style collaboration interfaces.
 - [Palantir](entities/Palantir.md) — Enterprise software company referenced as the origin context for forward-deployed engineering.
 - [Peak AI](entities/PeakAI.md) — AI search analytics SaaS company discussed through rapid validation, GEO, and mid-market pricing.
 - [Perplexity](entities/Perplexity.md) — AI search tool discussed as one of the surfaces monitored by Peak AI.
@@ -93,8 +99,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Revid](entities/Revid.md) — AI video creation and editing product associated with Tea Maker.
 - [Roblox](entities/Roblox.md) — Creator-platform comparison point for AI interactive content platforms and editor-backed game creation.
 - [Rolling AI](entities/RollingAI.md) — Enterprise AI consulting and implementation company discussed through FDE, digital employees, and service as software.
+- [Same.Dev](entities/SameDev.md) — Jiang Yang's prior AI-assisted web UI generation project mentioned as Paperboy founder background.
 - [Shibo](entities/Shibo.md) — Founder of Yueban Dongli discussing Xiaoban, companion robotics, robot liveliness, and emotional interaction architecture.
 - [Shizilukou Crossing](entities/ShizilukouCrossing.md) — Podcast/media project where the first ingested episode was published.
+- [Slack](entities/Slack.md) — Enterprise collaboration product discussed as too hard for Paperboy to directly replace, motivating an agent layer over existing workflows.
 - [Sprinto](entities/Sprinto.md) — Compliance and trust SaaS company built through deliberate validation, real audit learning, and AI-aware automation.
 - [SpaceX](entities/SpaceX.md) — Private technology company referenced in the AI/private-company IPO valuation discussion.
 - [StepFun](entities/StepFun.md) — Foundation-model company chaired by Yin Qi and discussed through model R&D, terminal commercialization, and AI organization design.
@@ -188,6 +196,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Framework-Led SaaS](concepts/FrameworkLedSaaS.md) — Software built around a named methodology, expert community, or professional framework.
 - [Generative Engine Optimization](concepts/GenerativeEngineOptimization.md) — Practice of improving whether and how brands appear in AI-generated answers.
 - [Headless Software](concepts/HeadlessSoftware.md) — Product-design thesis that software value should be separable from GUI-first human operation.
+- [Human-Agent Collaboration](concepts/HumanAgentCollaboration.md) — Product-design problem of finding better ways for people and AI agents to work together beyond chat, prompt, and session interfaces.
 - [Human Judgment Under AI](concepts/HumanJudgmentUnderAI.md) — Claim that AI improves preparation but cannot replace fast, situated judgment in live professional settings.
 - [Investment Risk Management](concepts/InvestmentRiskManagement.md) — Position sizing, diversification, leverage control, automated rules, and emotional discipline for surviving uncertainty.
 - [Large Company Open Source Strategy](concepts/LargeCompanyOpenSourceStrategy.md) — Strategic use of open source by large companies and the tension between influence and internal value capture.
@@ -199,8 +208,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [MSP Channel Distribution](concepts/MSPChannelDistribution.md) — Go-to-market pattern for reaching SMBs through managed service providers that operate customer IT environments.
 - [Open Source AI Models](concepts/OpenSourceAIModels.md) — AI models released openly enough to support downstream adoption, fine-tuning, and ecosystem influence.
 - [On Device Fast Slow Brain](concepts/OnDeviceFastSlowBrain.md) — Edge AI architecture separating immediate behavior decisions from slower reasoning for low-latency embodied response.
+- [OS-Level Context](concepts/OSLevelContext.md) — Agent context gathered from the user's computer environment, including screens, input, apps, meetings, messages, and current activity.
 - [Passive Investing](concepts/PassiveInvesting.md) — Broad ETF and index-fund investing recommended for most ordinary investors as a low-friction alternative to active trading.
+- [Persistent Agent Memory](concepts/PersistentAgentMemory.md) — Durable user and work memory that lets agents retain context, taste, relationship boundaries, and recent activity across sessions.
 - [Pre-Product Selling](concepts/PreProductSelling.md) — Selling-first validation pattern using conversations, LOIs, trials, and prototypes before full production code exists.
+- [Proactive Agents](concepts/ProactiveAgents.md) — Agents that use context and memory to help before the user fully specifies a task, while still requiring permission and review design.
 - [Product Led Willingness To Pay](concepts/ProductLedWillingnessToPay.md) — Claim that users pay when product value is clear, differentiated, stable, and trustworthy.
 - [Quantitative Investing](concepts/QuantitativeInvesting.md) — Data- and model-driven investing based on repeated small statistical edges, execution, and risk control.
 - [Quantitative Overfitting](concepts/QuantitativeOverfitting.md) — Failure mode where a trading rule fits historical data but lacks robust out-of-sample value.

@@ -2,13 +2,13 @@
 title: "AI Organization Design"
 type: concept
 tags: [ai, organizations, management]
-sources: [131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6]
+sources: [131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o]
 last_updated: 2026-07-06
 ---
 
 # AI Organization Design
 
-AI organization design is the problem of building organizations that can handle AI capability, workflow change, talent, coordination, and commercial accountability at the same time. In [[131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan]], [[YinQi]] presents this as one of the hard lessons from [[Megvii]] and one of the requirements for [[StepFun]]. [[openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6]] adds the enterprise adoption version: AI succeeds only when business teams, incentives, frontline roles, and management structures change around [[DigitalEmployees]].
+AI organization design is the problem of building organizations that can handle AI capability, workflow change, talent, coordination, and commercial accountability at the same time. In [[131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan]], [[YinQi]] presents this as one of the hard lessons from [[Megvii]] and one of the requirements for [[StepFun]]. [[openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6]] adds the enterprise adoption version: AI succeeds only when business teams, incentives, frontline roles, and management structures change around [[DigitalEmployees]]. [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o]] adds an early-startup version through [[Paperboy]], where [[JiangYang]] discusses founder leverage, market selection, management learning, and the need to combine high-agency young builders with deep systems experts.
 
 ## Key Claims
 - High-IQ technical talent is not enough; people also need mission, collaboration, persistence, and willingness to do disciplined work.
@@ -20,6 +20,7 @@ AI organization design is the problem of building organizations that can handle 
 - Enterprise AI projects fail when model deployment is separated from business ownership, workflow redesign, and incentive changes.
 - AI may shift headquarters from standardization and control toward [[FrontlineAIEnablement]], where each operating unit gets better decision support.
 - [[ForwardDeployedEngineer]] work becomes an organization-design function because it defines how AI workers, human workers, systems, and managers cooperate.
+- Early AI startups still need human expertise in infrastructure, OS, systems, recruiting, and management; stronger models do not remove the need for [[StageAppropriateHiring]].
 
 ## Connections
 - [[YinQi]], [[StepFun]], and [[Megvii]] — source speaker, new organization, and retrospective organization case.
@@ -28,3 +29,4 @@ AI organization design is the problem of building organizations that can handle 
 - [[FounderEgo]] — related risk when status, intelligence, or self-image outruns mission and customer value.
 - [[LargeCompanyOrganizationalInertia]] — larger-scale version of how organization form can limit individual leverage.
 - [[LongChainAICompetition]] — competitive environment that makes organization design part of model-company strategy.
+- [[Paperboy]], [[JiangYang]], and [[JieDechen]] — early startup case around agent interfaces, recruiting, and team composition.

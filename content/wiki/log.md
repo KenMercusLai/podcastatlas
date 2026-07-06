@@ -83,3 +83,7 @@ Added source page for a Shizilukou Crossing episode on Rolling AI, forward-deplo
 ## [2026-07-06] ingest | 2026 AI 游戏全景扫描：四层图景、三大误区、一个共识缺口｜对谈 405 游局筱宁
 
 Added source page for a Shizilukou Crossing and Youju crossover episode on AI interactive entertainment, AI game production limits, AI NPCs, creator platforms, designed agency, AI 3D prototyping, and the missing consensus product for AI games. Created supporting pages for Xiaoning, Youju, MiHoYo, Xingbugudi, NetEase, Character AI, Type Type Maker, YORO, Roblox, and the core interactive-entertainment concepts; updated overview, index, Shizilukou Crossing, Koji, ByteDance, Tencent, video models, world models, willingness to pay, and AI-assisted software development risk pages.
+
+## [2026-07-06] ingest | 人类和 AI Agent 的最佳配合方式，还没被发明｜对谈 Paperboy
+
+Added source page for a Shizilukou Crossing episode on Paperboy, Jiang Yang, Jie Dechen, OS-level agent context, persistent memory, proactive agents, IM/inbox-style interfaces, Slack complementarity, and the unfinished product form for human-agent collaboration. Created supporting pages for Paperboy, Jiang Yang, Jie Dechen, Millian, Same.Dev, EarthKit, Slack, human-agent collaboration, OS-level context, persistent agent memory, and proactive agents; updated overview, index, log, Shizilukou Crossing, agentic workflow, context engineering, agent-facing interfaces, headless software, digital employees, AI organization design, and relevant OpenAI/Anthropic/Codex/Cursor/Claude Code/Manus/WeChat pages.
