@@ -227,3 +227,7 @@ Added source page for a YiLaoYongYi episode on cabin crew work, passenger compla
 ## [2026-07-07] ingest | EP44 摸摸口袋，里面的钱居然是脏的？
 
 Added source page for a YiLaoYongYi episode on anti-money laundering, placement/layering/integration, account misuse, consumer AML exposure, cross-border fund-transfer risk, underground money-transfer platforms, virtual-asset AML risk, and ordinary account-safety warnings. Created supporting pages for 前途无量, Anti-Money Laundering, Money Laundering Stages, Consumer AML Exposure, Account Misuse Risk, Cross-Border Fund Transfer Risk, Underground Money Transfer Risk, and Virtual Asset AML Risk; updated overview, index, YiLaoYongYi, banking KYC/compliance pages, Bitcoin, Stablecoins, and Cryptocurrency Market Structure.
+
+## [2026-07-07] ingest | EP18 都是黄泉预约客，保险买对心安乐
+
+Added source page for a YiLaoYongYi episode on insurance as household risk transfer, family protection and term life, health and high-end medical coverage, savings-style insurance, overseas insurance risk, and insurance sales-channel trust. Created supporting pages for 小黛, Insurance Risk Transfer, Family Protection Insurance Planning, Health Insurance Planning, Savings-Style Insurance, Overseas Insurance Risk, and Insurance Sales Trust; updated overview, index, YiLaoYongYi, Currency Risk, and Investment Risk Management pages.

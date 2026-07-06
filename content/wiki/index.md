@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP18 都是黄泉预约客，保险买对心安乐](sources/ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw.md) — Podcast episode on insurance as household risk transfer, term life and family responsibility, health and high-end medical coverage, savings-style insurance, overseas policy risk, and sales-channel trust.
 - [EP44 摸摸口袋，里面的钱居然是脏的？](sources/ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr.md) — Podcast episode on anti-money laundering, laundering stages, account misuse, cross-border transfer risk, consumer AML exposure, virtual assets, and underground money-transfer traps.
 - [EP11 空少揭秘：飞机上的神秘规定和奇闻趣事](sources/ep11-kongshao-jiemi-feiji-shang-de-shenmi-guiding-he-qiwen-qushi-lua5j8erhk1smzf5gwmj2jni9-sh.md) — Podcast episode on cabin crew work, passenger complaints, airline service differentiation, and the safety reasons behind liquid, smoking, tray-table, seatback, and seat-belt rules.
 - [EP25 中资外资哪家强：“一劳永逸”找“钱粮”（下）](sources/ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg.md) — Podcast crossover on Chinese-funded versus foreign-funded banks, bank hierarchy, matrix reporting, retail client segmentation, KYC, cross-border data, and compliance boundaries.
@@ -271,6 +272,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wenxin](entities/Wenxin.md) — Baidu AI model and product family discussed as weak in user mindshare despite early AI investment.
 - [Windsurf](entities/Windsurf.md) — AI coding tool discussed through disrupted acquisition, talent movement, and model-provider competition.
 - [Whole Foods Market](entities/WholeFoodsMarket.md) — Natural-food retailer that became the major early unlock for Justin's Nut Butter.
+- [小黛](entities/Xiaodai.md) — YiLaoYongYi guest explaining insurance, banking, funds, and household asset-allocation products.
 - [Xiaohongshu](entities/Xiaohongshu.md) — Social and community platform positioned as a building-public channel, local lifestyle search entry point, and creator monetization venue.
 - [Xiaohongshu Hackathon Peak Competition](entities/XiaohongshuHackathonPeakCompetition.md) — Xiaohongshu's 48-hour AI-era hackathon for young builders, hardware makers, designers, and independent developers.
 - [Xiaoban](entities/Xiaoban.md) — Yueban Dongli's consumer bipedal companion robot designed around household emotional presence.
@@ -390,6 +392,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Emotional Interaction Models](concepts/EmotionalInteractionModels.md) — AI systems that decide social and emotional responses across speech, movement, memory, and relationship state.
 - [European AI Industrial Constraints](concepts/EuropeanAIIndustrialConstraints.md) — Source frame for Europe's AI limits around language fragmentation, regulation, capital, software culture, and manufacturing inertia.
 - [Everything Agent](concepts/EverythingAgent.md) — Investment thesis that agents will enter many white-collar workflows and need supporting infrastructure.
+- [Family Protection Insurance Planning](concepts/FamilyProtectionInsurancePlanning.md) — Household insurance planning based on income earners, dependents, debts, and finite responsibility windows.
 - [Family World Simulator](concepts/FamilyWorldSimulator.md) — Simulated household interaction environment for training and testing companion robot behavior.
 - [Fast Product Validation](concepts/FastProductValidation.md) — Startup process for testing product demand through rapid experiments, revenue, retention, and recurring use.
 - [Feature Phone Cultural Memory](concepts/FeaturePhoneCulturalMemory.md) — User-memory layer around pagers, SMS, Nokia tones, ringtone entry, removable batteries, universal chargers, and shanzhai features.
@@ -408,12 +411,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Green Hushing](concepts/GreenHushing.md) — Companies doing sustainability or social-impact work while avoiding public language that creates backlash risk.
 - [Graduation Anxiety](concepts/GraduationAnxiety.md) — Pressure around school-to-work transition, resume gaps, peer comparison, and uncertain direction.
 - [GSM Standardization](concepts/GSMStandardization.md) — Standards tailwind that helped move mobile phones from analog voice devices toward digital GSM, SMS, and mass handset adoption.
+- [Health Insurance Planning](concepts/HealthInsurancePlanning.md) — Planning critical illness, medical reimbursement, and high-end medical coverage around claims, treatment costs, and access.
 - [Headless Software](concepts/HeadlessSoftware.md) — Product-design thesis that software value should be separable from GUI-first human operation.
 - [Hong Kong Tech Repricing](concepts/HongKongTechRepricing.md) — EP57 frame for DeepSeek-driven reassessment of Hong Kong and China technology assets and their changing relationship with U.S. tech.
 - [Human-Agent Collaboration](concepts/HumanAgentCollaboration.md) — Product-design problem of finding better ways for people and AI agents to work together beyond chat, prompt, and session interfaces.
 - [Human Judgment Under AI](concepts/HumanJudgmentUnderAI.md) — Claim that AI improves preparation but cannot replace fast, situated judgment in live professional settings.
 - [In-Store Demos](concepts/InStoreDemos.md) — Retail sampling and storytelling sessions that help CPG products sell and generate customer-learning loops.
 - [Index Reentry Discipline](concepts/IndexReentryDiscipline.md) — Staged, valuation-aware approach to buying broad equity indexes after drawdowns instead of treating every pullback as an all-in signal.
+- [Insurance Risk Transfer](concepts/InsuranceRiskTransfer.md) — Insurance frame that matches product categories to specific events, payout conditions, and household money needs.
+- [Insurance Sales Trust](concepts/InsuranceSalesTrust.md) — Buyer-side problem of evaluating insurance channels, incentives, specialization, and long-term service continuity.
 - [Interleaved Thinking](concepts/InterleavedThinking.md) — Agentic reasoning pattern where models act, observe environment/tool feedback, and re-plan.
 - [Internal Transfer Strategy](concepts/InternalTransferStrategy.md) — Handling department moves as managed career transitions across current and receiving managers.
 - [Internship As Career Exploration](concepts/InternshipAsCareerExploration.md) — Using internships to test directions and stage goals instead of only soothing anxiety or decorating a resume.
@@ -444,6 +450,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [OS-Level Context](concepts/OSLevelContext.md) — Agent context gathered from the user's computer environment, including screens, input, apps, meetings, messages, and current activity.
 - [Operator-Subsidized Handsets](concepts/OperatorSubsidizedHandsets.md) — Carrier contract-phone channel that shaped 3G smartphone adoption and the "中华酷联" domestic handset stage.
 - [Outcome-Based AI Pricing](concepts/OutcomeBasedAIPricing.md) — Enterprise AI pricing based on delivered output, work volume, time, or transaction value rather than seats or custom projects.
+- [Overseas Insurance Risk](concepts/OverseasInsuranceRisk.md) — Risk that foreign insurance policies add dividend, currency, liquidity, jurisdiction, and life-location uncertainty.
 - [Passive Investing](concepts/PassiveInvesting.md) — Broad ETF and index-fund investing recommended for most ordinary investors as a low-friction alternative to active trading.
 - [Passenger Complaint Handling](concepts/PassengerComplaintHandling.md) — Real-time service work that separates facts, emotion, safety, privacy, and incentives in passenger disputes.
 - [Persistent Agent Memory](concepts/PersistentAgentMemory.md) — Durable user and work memory that lets agents retain context, taste, relationship boundaries, and recent activity across sessions.
@@ -465,6 +472,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Robot Liveliness](concepts/RobotLiveliness.md) — Product quality that makes a robot feel like an independent living-like presence rather than a configurable appliance.
 - [SaaS Holding Company](concepts/SaaSHoldingCompany.md) — Portfolio model for owning or building multiple SaaS products with shared customers, channels, and growth systems.
 - [SaaS Trust Moat](concepts/SaaSTrustMoat.md) — SaaS defensibility from trust, data, distribution, compliance, support, and operational reliability rather than code alone.
+- [Savings-Style Insurance](concepts/SavingsStyleInsurance.md) — Long-term annuity, participating, and insurance-saving products judged by cash flow, goals, liquidity, and guarantees.
 - [Sahm Rule](concepts/SahmRule.md) — Unemployment-based recession indicator discussed as a warning signal with possible labor-supply distortion.
 - [Sales Velocity](concepts/SalesVelocity.md) — Rate at which a product sells through a channel, especially important when retail shelf space has opportunity cost.
 - [Search Advertising Decline](concepts/SearchAdvertisingDecline.md) — Weakening of keyword search ads as user intent, advertiser attention, and AI answers shift the old click path.
