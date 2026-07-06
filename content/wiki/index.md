@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP11 空少揭秘：飞机上的神秘规定和奇闻趣事](sources/ep11-kongshao-jiemi-feiji-shang-de-shenmi-guiding-he-qiwen-qushi-lua5j8erhk1smzf5gwmj2jni9-sh.md) — Podcast episode on cabin crew work, passenger complaints, airline service differentiation, and the safety reasons behind liquid, smoking, tray-table, seatback, and seat-belt rules.
 - [EP25 中资外资哪家强：“一劳永逸”找“钱粮”（下）](sources/ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg.md) — Podcast crossover on Chinese-funded versus foreign-funded banks, bank hierarchy, matrix reporting, retail client segmentation, KYC, cross-border data, and compliance boundaries.
 - [EP57 美股动荡，东升西降？这回是走是留](sources/ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5.md) — Podcast episode on U.S. equity volatility, Trump/Fed policy pressure, mega-cap concentration, retail crowding, defensive dividend assets, index reentry discipline, and Hong Kong tech repricing.
 - [EP43 对话素人博主，原来财务和自由是分开的](sources/ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7lsklr3vmtbc4l-p.md) — Podcast episode on Xiaohongshu creator monetization, local lifestyle store reviews, ordinary creator income, and the difference between financial freedom and lifestyle freedom.
@@ -52,6 +53,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [25 & Pine](entities/25AndPine.md) — Family furniture company using social storytelling to sell parent-child shared furniture.
 - [A Brief History of Intelligence](entities/ABriefHistoryOfIntelligence.md) — Book used in the Neihe Konghuang episode to connect biological intelligence, simulation, world models, and mentalizing.
 - [Aether AI](entities/AetherAI.md) — AI robotics company founded by Huang Biwei to build causal world models for embodied intelligence.
+- [Air New Zealand](entities/AirNewZealand.md) — Airline used in EP11 as a meal-design and responsive cabin-care example.
 - [Adao](entities/Adao.md) — MiniMax Agent chief architect discussing agent harnesses, multi-agent cross-checking, and model-harness feedback loops.
 - [Agan](entities/Agan.md) — Rolling AI partner discussing enterprise AI deployment, FDE work, and AI-era role changes.
 - [Alex Berman](entities/AlexBerman.md) — LinkedIn influencer partner associated with Tapio's distribution strategy.
@@ -99,6 +101,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EOS Worldwide](entities/EOSWorldwide.md) — Methodology and coaching organization behind the EOS ecosystem that shaped Ninety's early product and channel.
 - [EarthKit](entities/EarthKit.md) — Jie Dechen's multimodal project for inferring photo locations, mentioned as background before Paperboy.
 - [Edward](entities/Edward.md) — Designer and hackathon contestant behind Atoom, emphasizing taste and idea quality after vibe coding accelerates implementation.
+- [Emirates](entities/Emirates.md) — Airline used in EP11 as a premium-cabin service example through A380 hardware, onboard bar, amenities, and ground services.
 - [Ericsson](entities/Ericsson.md) — Telecom equipment and handset company discussed through early China networks, GSM infrastructure, supply-chain response, and Sony Ericsson.
 - [Eric Ries](entities/EricRies.md) — Lean Startup author and Incorruptible author discussing validated learning, AI-era product economics, financial gravity, and founder governance.
 - [European Union](entities/EuropeanUnion.md) — European political and market context for language fragmentation, AI translation, regulation, and startup constraints.
@@ -229,6 +232,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Shibo](entities/Shibo.md) — Founder of Yueban Dongli discussing Xiaoban, companion robotics, robot liveliness, and emotional interaction architecture.
 - [Shizilukou Crossing](entities/ShizilukouCrossing.md) — Podcast/media project where the first ingested episode was published.
 - [水仙](entities/Shuixian.md) — Former YiLaoYongYi producer and student voice describing repeated internships, graduation anxiety, and resume pressure.
+- [Singapore Airlines](entities/SingaporeAirlines.md) — Airline used in EP11 as a professional standardized-service example.
 - [Slack](entities/Slack.md) — Enterprise collaboration product discussed as too hard for Paperboy to directly replace, motivating an agent layer over existing workflows.
 - [Siri](entities/Siri.md) — Apple assistant discussed as a possible platform-native carrier for stronger AI and Gemini integration.
 - [Sprinto](entities/Sprinto.md) — Compliance and trust SaaS company built through deliberate validation, real audit learning, and AI-aware automation.
@@ -280,7 +284,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yueban Dongli](entities/YuebanDongli.md) — Robotics company founded by Shibo to build the Xiaoban companion robot.
 - [Yuanbao](entities/Yuanbao.md) — Tencent AI assistant discussed as a domestic alternative to Doubao.
 - [硬地骇客](entities/YingdiHaike.md) — Podcast/show context for EP108's AI coding market discussion.
-- [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for episodes on investing, career-entry anxiety, upward management, creator work, and global market turmoil.
+- [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for episodes on investing, career-entry anxiety, upward management, creator work, aviation work, banking, and global market turmoil.
 - [助助](entities/Zhuzhu.md) — Xiaohongshu local-lifestyle creator explaining ordinary creator monetization, local store reviews, and lifestyle freedom.
 - [Youyou Agent](entities/YouyouAgent.md) — Digital-life agent experiment discussed as an early agent-native project.
 - [Youju](entities/Youju.md) — Podcast/project focused on AI games and AI interactive entertainment.
@@ -324,6 +328,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Subscription Economics](concepts/AISubscriptionEconomics.md) — Tradeoffs of free tiers, paid tiers, usage limits, and heavy-user costs in AI products.
 - [AI Translation](concepts/AITranslation.md) — Context-aware, multimodal translation across webpages, PDFs, subtitles, images, manga, and speech.
 - [AI Workforce Monitoring](concepts/AIWorkforceMonitoring.md) — Workplace risk where AI-enabled productivity measurement turns into invasive employee behavior surveillance.
+- [Airline Service Differentiation](concepts/AirlineServiceDifferentiation.md) — Airline passenger-experience differences created by cabin class, hardware, amenities, food budget, crew style, route design, and ground service.
 - [Agent-Facing Interfaces](concepts/AgentFacingInterfaces.md) — CLI, API, MCP-like, skill, and tool layers that make software callable by agents.
 - [Agent Harness](concepts/AgentHarness.md) — Model-external system of tools, context, memory, permissions, runtime state, and orchestration that lets an agent act.
 - [Agent Identity And Authentication](concepts/AgentIdentityAndAuthentication.md) — Infrastructure problem of attributing agent actions, granting permissions, and balancing real-name controls with openness.
@@ -333,6 +338,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agentic Economy](concepts/AgenticEconomy.md) — Infrastructure and economics for agent-to-service and agent-to-agent task execution.
 - [Agentic Workflow](concepts/AgenticWorkflow.md) — Work pattern where AI agents use tools, context, and process state to complete real tasks.
 - [Assistive AI](concepts/AssistiveAI.md) — AI systems that reduce communication, accessibility, or ability barriers, grounded here by an unclear-speech repair prototype.
+- [Aviation Safety Rules](concepts/AviationSafetyRules.md) — Passenger-facing flight rules whose rationale lies in security, fire, evacuation, impact, turbulence, and decompression risk.
 - [Averaging Down](concepts/AveragingDown.md) — Adding to a losing active trade, framed as a risk-amplifying behavior distinct from diversified dollar-cost averaging.
 - [Bank Client Segmentation](concepts/BankClientSegmentation.md) — How banks separate customers by assets, service cost, risk, product suitability, and channel fit.
 - [Bank Organizational Hierarchy](concepts/BankOrganizationalHierarchy.md) — Rank, title, branch, and department structures that determine what a banking role actually means.
@@ -341,6 +347,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Big Company Halo](concepts/BigCompanyHalo.md) — Resume signal created by recognizable large-company internships, useful but incomplete without substantive work and direction.
 - [Building Public](concepts/BuildingPublic.md) — Sharing product progress publicly to find users, feedback, collaborators, and distribution before a product is complete.
 - [Business-Led AI Transformation](concepts/BusinessLedAITransformation.md) — Enterprise AI adoption pattern led by business pain, workflow redesign, and incentive change rather than IT ownership alone.
+- [Cabin Crew Work](concepts/CabinCrewWork.md) — Aviation workplace role combining service, safety, passenger management, emotional labor, preparation, and long-haul fatigue management.
 - [Category Creation](concepts/CategoryCreation.md) — Startup go-to-market challenge of teaching buyers to understand, name, and budget for a new category.
 - [Carry Trade Unwind](concepts/CarryTradeUnwind.md) — Forced closing of funded cross-asset positions when currency, rates, margin, or risk conditions reverse.
 - [Cash Cow Strategic Inertia](concepts/CashCowStrategicInertia.md) — Pattern where a profitable old business weakens strategic patience for necessary new bets.
@@ -431,6 +438,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Operator-Subsidized Handsets](concepts/OperatorSubsidizedHandsets.md) — Carrier contract-phone channel that shaped 3G smartphone adoption and the "中华酷联" domestic handset stage.
 - [Outcome-Based AI Pricing](concepts/OutcomeBasedAIPricing.md) — Enterprise AI pricing based on delivered output, work volume, time, or transaction value rather than seats or custom projects.
 - [Passive Investing](concepts/PassiveInvesting.md) — Broad ETF and index-fund investing recommended for most ordinary investors as a low-friction alternative to active trading.
+- [Passenger Complaint Handling](concepts/PassengerComplaintHandling.md) — Real-time service work that separates facts, emotion, safety, privacy, and incentives in passenger disputes.
 - [Persistent Agent Memory](concepts/PersistentAgentMemory.md) — Durable user and work memory that lets agents retain context, taste, relationship boundaries, and recent activity across sessions.
 - [PHS Xiaolingtong](concepts/PHSXiaolingtong.md) — Low-cost PHS wireless local-phone service that gave many Chinese users transitional mobile-like access before mainstream mobile affordability.
 - [Podcast As Asynchronous Media](concepts/PodcastAsAsynchronousMedia.md) — Recorded-audio media form whose value comes from shifting listening into idle-ear contexts while losing live-radio immediacy.

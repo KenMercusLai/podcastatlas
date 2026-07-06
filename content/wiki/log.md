@@ -219,3 +219,7 @@ Added source page for a YiLaoYongYi episode on U.S. equity volatility, Trump/Fed
 ## [2026-07-07] ingest | EP25 中资外资哪家强：“一劳永逸”找“钱粮”（下）
 
 Added source page for a YiLaoYongYi and QianliangHutongFM crossover on Chinese-funded versus foreign-funded banks, bank hierarchy, matrix reporting, department power, retail client segmentation, KYC, FATCA/CRS, cross-border data, witness account opening, and compliance boundaries. Created supporting pages for QianliangHutongFM, Bank Organizational Hierarchy, Matrix Reporting, Foreign Banking In China, Bank Client Segmentation, Banking KYC Compliance, and Banking Compliance Boundaries; updated overview, index, the YiLaoYongYi show page, and Workplace Hidden Rules.
+
+## [2026-07-07] ingest | EP11 空少揭秘：飞机上的神秘规定和奇闻趣事
+
+Added source page for a YiLaoYongYi episode on cabin crew work, passenger complaints, airline service differentiation, and aviation safety rules. Created supporting pages for Emirates, Air New Zealand, Singapore Airlines, Cabin Crew Work, Airline Service Differentiation, Passenger Complaint Handling, and Aviation Safety Rules; updated overview, index, and the YiLaoYongYi show page.
