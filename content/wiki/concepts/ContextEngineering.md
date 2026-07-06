@@ -2,8 +2,8 @@
 title: "Context Engineering"
 type: concept
 tags: [context, knowledge-management, agents]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, community-led-saas-growth-how-ninety-hit-44m-arr, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan]
-last_updated: 2026-07-06
+sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, community-led-saas-growth-how-ninety-hit-44m-arr, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]
+last_updated: 2026-07-07
 ---
 
 # Context Engineering
@@ -11,6 +11,8 @@ last_updated: 2026-07-06
 Context engineering is the practice of accumulating, organizing, and refining the information that helps AI produce useful work. [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc]] argues that as models and tools converge, differentiated performance will come from context: preferences, examples, standards, documents, workflows, and implicit judgment made explicit. [[openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6]] adds the enterprise version: [[DigitalEmployees]] need company processes, frontline knowledge, system access, and expert examples before they can work, so [[ForwardDeployedEngineer]] practice becomes applied context engineering. [[ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun]] adds that context must include operational details such as data migration constraints and the user's own internalized preparation for live situations. [[community-led-saas-growth-how-ninety-hit-44m-arr]] adds an organizational-data example through [[Mas]], which depends on [[Ninety]]'s accumulated context about vision, values, roles, accountability, rocks, metrics, and feedback. [[agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b]] treats context as the unchanged main thread of the first 500 agent-era days. [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o]] adds the personal-computing version through [[OSLevelContext]] and [[PersistentAgentMemory]], where the agent learns from the user's actual computer activity instead of relying only on chat history or manually maintained prompt files. [[tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3]] adds the harness version: context engineering includes working directory state, dependency and git state, system prompts, skills, memory, context compression, and handoff documents for the next agent.
 
 [[ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan]] adds the [[VibeCoding]] version. The source argues that good module boundaries and interface design help keep agent context tractable, and it contrasts [[GeminiCLI]]'s large-context behavior with [[Cursor]]'s likely chunking, indexing, and retrieval approach.
+
+[[ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]] adds a logging and observability version. The hosts argue that AI debugging improves when the user has asked the system to emit detailed logs, preserve test results, and document old-code behavior; without those traces, AI has too little context to diagnose logic errors that still compile and run.
 
 ## Role In The Sources
 - [[KedaibiaoLizheng]] treats context as a personal, team, and company advantage.
@@ -23,6 +25,8 @@ Context engineering is the practice of accumulating, organizing, and refining th
 - [[Paperboy]] shows context as a personal-agent asset when OS activity, meetings, messages, code, and current app state become durable memory.
 - [[ClaudeCode]] shows context as a harness asset when the system decides which tool outputs to discard, what to summarize, and what the next agent must receive.
 - [[GeminiCLI]] and [[Cursor]] show context as a coding-product choice between direct long-context loading and engineered retrieval/indexing.
+- [[ShengpaiNotice]] shows context as product/workflow knowledge made explicit enough for AI to implement a usable internal tool.
+- Detailed logs, tests, screenshots, and documentation become context assets for future AI debugging and refactoring.
 
 ## Connections
 - [[ForwardDeployedEngineer]] — enterprise deployment role that must map company context.
@@ -34,3 +38,4 @@ Context engineering is the practice of accumulating, organizing, and refining th
 - [[OSLevelContext]], [[PersistentAgentMemory]], and [[ProactiveAgents]] — Paperboy's context layer for personal agents.
 - [[AgentHarness]] and [[KComputer]] — execution environment and context layer that agents use to continue work across tools and sessions.
 - [[VibeCoding]], [[GeminiCLI]], and [[AICodingVerification]] — coding-context case added by EP108.
+- [[AIEngineeringThinking]], [[ShengpaiNotice]], and [[WangDafu]] — logging, workflow, and operations-context case added by the Keji Luandun episode.

@@ -107,3 +107,11 @@ Added source page for a Shizilukou Crossing episode on Bairong Intelligence, Zha
 ## [2026-07-06] ingest | EP108 Vibe Coding大地震：Cursor定价争议、Windsurf收购风波，模型厂商亲儿子们又将如何进场？
 
 Added source page for a 硬地骇客 episode on Cursor pricing, Windsurf's transaction turmoil, Claude Code, Gemini CLI, AI coding productivity, model-provider tool competition, and vibe coding as capability expansion rather than guaranteed speed. Created supporting pages for 硬地骇客, Windsurf, Cognition, Devin, Google DeepMind, Gemini CLI, METR, Zed, JetBrains, Vibe Coding, and Model Provider Tool Competition; updated overview, index, Cursor, Claude Code, OpenAI, Anthropic, Gemini, AI inference cost structure, AI subscription economics, AI coding verification, AI-assisted software development risk, agent-facing interfaces, agent harness, AI-native SaaS threat, product-led willingness to pay, context engineering, and agentic workflow pages.
+
+## [2026-07-07] ingest | AI 会写代码了，为什么你还是做不出产品？
+
+Added source page for a Keji Luandun episode on AI coding, productization limits, Shengpai Notice, test-driven AI workflows, logs, audit assistance, operations scripts, data analysis, flower-shop delivery operations, and domain know-how. Created supporting pages for AI Engineering Thinking, Shengpai Notice, Lao Gao, Zhang Le, and Wang Dafu; updated overview, index, Keji Luandun, vibe coding, AI coding verification, AI-assisted software development risk, context engineering, agentic workflow, AI skills, domain expert alignment, human judgment, AI governance/compliance, frontline AI enablement, and business-led AI transformation pages.
+
+## [2026-07-07] lint | Wiki lint check
+
+Ran health and lint checks. Deterministic and graph-aware lint passed; semantic lint was completed manually in-session because the local `litellm` dependency was unavailable.
