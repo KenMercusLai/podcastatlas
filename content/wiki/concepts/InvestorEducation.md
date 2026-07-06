@@ -2,13 +2,13 @@
 title: "Investor Education"
 type: concept
 tags: [finance, investing, consumer-risk, trust]
-sources: [ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq]
+sources: [ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq, ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2]
 last_updated: 2026-07-07
 ---
 
 # Investor Education
 
-Investor education is the work of making financial customers understand product structure, downside risk, liquidity, uncertainty, fees, incentives, and the difference between sales compliance and real comprehension. [[ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq]] grounds the concept in a financial-crisis case where a family invested compensation money in a structured product and suffered a large loss despite the transaction having gone through ordinary sales processes.
+Investor education is the work of making financial customers understand product structure, downside risk, liquidity, uncertainty, fees, incentives, and the difference between sales compliance and real comprehension. [[ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq]] grounds the concept in a financial-crisis case where a family invested compensation money in a structured product and suffered a large loss despite the transaction having gone through ordinary sales processes. [[ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2]] adds a market-entry version: new investors should learn account opening, exchange permissions, bank-securities transfer, trading-rule limits, leverage thresholds, and the difference between floating and realized profit before acting on bull-market emotion.
 
 ## Key Claims
 - A signed form or recorded risk disclosure does not prove that a customer truly understands a product.
@@ -17,6 +17,8 @@ Investor education is the work of making financial customers understand product 
 - High-yield narratives require extra explanation of counterparty, liquidity, product structure, commission, and downside path.
 - Fee-based advice and long-term consulting require educating customers that avoiding mistakes and building suitable portfolios can be valuable even without guaranteed return.
 - Investor education is also professional education for finance workers because product knowledge can be overridden by commission, status, or platform pressure.
+- In a bull market, investor education must cover market mechanics and behavior, not only product disclosures: fast price moves can make basic account rules, leverage rules, and exit discipline feel secondary when they are actually central.
+- Education should make [[PolicyDrivenMarketRally]] legible without turning policy optimism into a promise that the investor cannot lose money.
 
 ## Connections
 - [[IndependentInvestmentConsulting]] — advisory model that depends on customers paying for understanding and decision support.
@@ -25,3 +27,4 @@ Investor education is the work of making financial customers understand product 
 - [[BankingComplianceBoundaries]] — sales suitability and disclosure sit inside regulated institutional limits.
 - [[InsuranceSalesTrust]] — similar buyer-education problem in insurance product selection and long-term service.
 - [[FinancialAIAgents]] — future financial tools will still need boundaries around advice, explanation, and suitability.
+- [[RetailBullMarketPsychology]], [[AShareBullMarketHistory]], and [[InvestmentRiskManagement]] — EP46's entry-education and bull-market discipline themes.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP46 历次牛市众生相：措手不及的幸福能持续多久？](sources/ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2.md) — Podcast episode on A-share bull-market history, policy-driven rallies, leverage-driven cycles, retail bull-market psychology, and why policy support still needs fundamentals and risk discipline.
 - [EP22 夜袭银行，成功概率几何？](sources/ep22-yexi-yinhang-chenggong-gailv-jihe-ljox1mobpxs3wh4n3du6awzuskef.md) — Podcast episode on bank branch after-hours work, cash logistics, ATM operations, branch security controls, hierarchy, VIP thresholds, and why physical bank robbery has poor practical odds.
 - [EP21 谁在狱中？谁在巅峰？周期中的一粒灰，金融人的喜与悲](sources/ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq.md) — Podcast episode on finance career risk, third-party wealth platforms, employee misconduct controls, investor education, independent consulting, and career portability.
 - [EP18 都是黄泉预约客，保险买对心安乐](sources/ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw.md) — Podcast episode on insurance as household risk transfer, term life and family responsibility, health and high-end medical coverage, savings-style insurance, overseas policy risk, and sales-channel trust.
@@ -86,6 +87,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cang Shifu](entities/CangShifu.md) — AI practitioner and creator discussing CLI workflows, skills, Code Pilot, and hands-on agent use.
 - [Caroline Buck](entities/CarolineBuck.md) — Petaluma founder asking how to explain plant-based dog food without triggering backlash.
 - [Character AI](entities/CharacterAI.md) — Character-chat product referenced as an AI-as-interaction-object example in AI interactive entertainment.
+- [China Securities Regulatory Commission](entities/ChinaSecuritiesRegulatoryCommission.md) — Chinese securities regulator discussed through A-share supervision, market warnings, price limits, and off-market financing cleanup.
 - [ChatGPT](entities/ChatGPT.md) — AI assistant/search surface monitored by Peak AI for brand visibility.
 - [Chen Jingchu](entities/ChenJingchu.md) — Serial builder and hackathon contestant arguing that building public is an AI-era product and distribution lever.
 - [Christina Molinaro](entities/ChristinaMolinaro.md) — 25 & Pine founder discussing viral social growth and repeatable customer acquisition.
@@ -233,11 +235,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Samsung](entities/Samsung.md) — Android-era smartphone maker that captured much of the post-iPhone non-Apple handset opportunity.
 - [Seventh Generation](entities/SeventhGeneration.md) — Responsible household-products company used as Jeffrey Hollender's purpose-driven business case.
 - [Share AI](entities/ShareAI.md) — Agent-infrastructure company behind Learn Claude Code and the K-series tooling discussed by Lai Xinlu.
+- [Shanghai Stock Exchange](entities/ShanghaiStockExchange.md) — Institutional starting point for the early A-share market and its first scarcity-driven bull-market memory.
 - [Shanbin](entities/Shanbin.md) — Xiaohongshu community technology lead and organizer framing the hackathon around creator energy and AI-era age.
 - [Shengpai Notice](entities/ShengpaiNotice.md) — Host-built podcast workflow tool used as a practical AI coding/productization case.
 - [Shibo](entities/Shibo.md) — Founder of Yueban Dongli discussing Xiaoban, companion robotics, robot liveliness, and emotional interaction architecture.
 - [Shizilukou Crossing](entities/ShizilukouCrossing.md) — Podcast/media project where the first ingested episode was published.
 - [水仙](entities/Shuixian.md) — Former YiLaoYongYi producer and student voice describing repeated internships, graduation anxiety, and resume pressure.
+- [Sichuan Changhong](entities/SichuanChanghong.md) — Representative A-share blue chip used in EP46 to explain confidence rebuilding after the 1996 regulatory panic.
 - [Singapore Airlines](entities/SingaporeAirlines.md) — Airline used in EP11 as a professional standardized-service example.
 - [Slack](entities/Slack.md) — Enterprise collaboration product discussed as too hard for Paperboy to directly replace, motivating an agent layer over existing workflows.
 - [Siri](entities/Siri.md) — Apple assistant discussed as a possible platform-native carrier for stronger AI and Gemini integration.
@@ -306,6 +310,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [A-Share Bull Market History](concepts/AShareBullMarketHistory.md) — Historical frame for Chinese equity bull markets across scarcity, policy, liquidity, regulation, leverage, and fundamentals.
 - [Account Misuse Risk](concepts/AccountMisuseRisk.md) — Risk that personal bank cards, IDs, payment accounts, or dormant accounts are used to receive, split, withdraw, or disguise suspicious funds.
 - [AI 3D Prototyping](concepts/AI3DPrototyping.md) — Possibility that AI lowers 3D game-production barriers enough for small teams to test richer prototypes.
 - [AI BPO Roll Up](concepts/AIBPORollUp.md) — Restructuring business-process outsourcing and professional services with agents, experts, and shared systems.
@@ -439,6 +444,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Investor Education](concepts/InvestorEducation.md) — Work of making financial customers understand product structure, downside risk, liquidity, incentives, and the difference between disclosure and comprehension.
 - [Large Company Open Source Strategy](concepts/LargeCompanyOpenSourceStrategy.md) — Strategic use of open source by large companies and the tension between influence and internal value capture.
 - [Large Company Organizational Inertia](concepts/LargeCompanyOrganizationalInertia.md) — Big-company dynamic where resources and momentum amplify work but rules and scale reduce individual leverage.
+- [Leverage-Driven Bull Market](concepts/LeverageDrivenBullMarket.md) — Rally pattern where margin finance, off-market financing, or borrowed money amplifies gains and later forced selling.
 - [Lifestyle Subsidy Creator Work](concepts/LifestyleSubsidyCreatorWork.md) — Creator work that lowers living costs or expands experiences without necessarily replacing a main income.
 - [Local Lifestyle Store Reviews](concepts/LocalLifestyleStoreReviews.md) — Local merchant review workflow where creators turn meals, shops, hotels, services, and check-in scenes into platform posts.
 - [Long-Chain AI Competition](concepts/LongChainAICompetition.md) — Foundation-model competition across model capability, talent, compute, commercial closure, terminal pull, data, and organization.
@@ -469,6 +475,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Persistent Agent Memory](concepts/PersistentAgentMemory.md) — Durable user and work memory that lets agents retain context, taste, relationship boundaries, and recent activity across sessions.
 - [PHS Xiaolingtong](concepts/PHSXiaolingtong.md) — Low-cost PHS wireless local-phone service that gave many Chinese users transitional mobile-like access before mainstream mobile affordability.
 - [Podcast As Asynchronous Media](concepts/PodcastAsAsynchronousMedia.md) — Recorded-audio media form whose value comes from shifting listening into idle-ear contexts while losing live-radio immediacy.
+- [Policy-Driven Market Rally](concepts/PolicyDrivenMarketRally.md) — Equity rally pattern where official policy, liquidity, or regulation shifts ignite prices before fundamentals are proven.
 - [Post-Acquisition Founder Identity](concepts/PostAcquisitionFounderIdentity.md) — Personal and governance problem of what a founder becomes after selling a company, especially when the brand carries founder values.
 - [Pre-Product Selling](concepts/PreProductSelling.md) — Selling-first validation pattern using conversations, LOIs, trials, and prototypes before full production code exists.
 - [Proactive Agents](concepts/ProactiveAgents.md) — Agents that use context and memory to help before the user fully specifies a task, while still requiring permission and review design.
@@ -479,6 +486,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [QDII Allocation](concepts/QDIIAllocation.md) — Overseas-allocation problem where quota scarcity must be separated from asset price, duration, and currency risk.
 - [Quantitative Investing](concepts/QuantitativeInvesting.md) — Data- and model-driven investing based on repeated small statistical edges, execution, and risk control.
 - [Quantitative Overfitting](concepts/QuantitativeOverfitting.md) — Failure mode where a trading rule fits historical data but lacks robust out-of-sample value.
+- [Retail Bull Market Psychology](concepts/RetailBullMarketPsychology.md) — Ordinary-investor FOMO pattern where visible gains, social proof, and weak memory of past losses pull people into bull markets late.
 - [Retail Investor Crowding](concepts/RetailInvestorCrowding.md) — Behavioral and positioning risk from unusually heavy ordinary-investor participation in high-valuation markets.
 - [Retail Shelf Placement](concepts/RetailShelfPlacement.md) — CPG issue where a product's shopper meaning changes depending on where it appears in the store.
 - [RMB Exchange Rate Policy](concepts/RMBExchangeRatePolicy.md) — Managed-stability frame for RMB/USD policy balancing capital flows, exports, and investor currency risk.
