@@ -187,3 +187,7 @@ Added source page for a YiLaoYongYi follow-up on U.S. recession risk, the Sahm R
 ## [2026-07-07] ingest | No.208 中国手机江湖·上：摩托罗拉、诺基亚和爱立信的诸神黄昏 | 中国互联网故事23
 
 Added source page for a Banlatte episode on Chinese mobile-phone prehistory, Motorola, Nokia, Ericsson, GSM, Symbian, iPhone, Android, first-generation domestic handset brands, MediaTek turnkey designs, Huaqiangbei, shanzhai phones, Xiaolingtong, operator contract phones, and handset supply-chain maturity. Created supporting entity and concept pages for the major companies, platforms, supply-chain actors, and handset-history concepts; updated overview, index, Google, Apple, and Microsoft pages.
+
+## [2026-07-07] ingest | EP41 成就职场大圣：远离天命，掌握向上管理
+
+Added source page for a YiLaoYongYi episode on upward management, boss-facing demand clarification, decision support, disagreement handling, promotion expectation setting, internal transfers, and workplace power navigation. Created supporting concept pages for Upward Management, Promotion Expectation Management, and Internal Transfer Strategy; updated overview, index, YiLaoYongYi, and Workplace Hidden Rules pages.

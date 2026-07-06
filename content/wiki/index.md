@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP41 成就职场大圣：远离天命，掌握向上管理](sources/ep41-chengjiu-zhichang-dasheng-yuanli-tianming-zhangwo-xiangshang-guanli-lrkefagxfcan-faiyoalofhevidp.md) — Podcast episode on upward management, boss-facing communication, promotion expectation setting, internal transfers, and workplace power navigation.
 - [No.208 中国手机江湖·上：摩托罗拉、诺基亚和爱立信的诸神黄昏 | 中国互联网故事23](sources/no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376.md) — Podcast episode on Chinese mobile-phone prehistory, Motorola, Nokia, Ericsson, GSM, Symbian, iPhone/Android, MediaTek, Huaqiangbei, shanzhai phones, and domestic handset supply chains.
 - [EP39 风满楼下集：全球衰退慢慢逼近，严防死守步步为营！漫聊下半年美股、美债、汇率](sources/ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj.md) — Podcast episode on U.S. recession risk, AI equity valuation, QDII allocation, U.S. Treasury duration risk, currency risk, and RMB/USD policy.
 - [EP38 风满楼！全球资本市场巨幅动荡，腥风血雨时刻近在咫尺](sources/ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9.md) — Podcast episode on global market turmoil, yen carry trade unwinds, Japan's selloff, Fed rate-cut expectations, yield-curve inversion, Buffett's cash, and market mean reversion.
@@ -240,7 +241,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yueban Dongli](entities/YuebanDongli.md) — Robotics company founded by Shibo to build the Xiaoban companion robot.
 - [Yuanbao](entities/Yuanbao.md) — Tencent AI assistant discussed as a domestic alternative to Doubao.
 - [硬地骇客](entities/YingdiHaike.md) — Podcast/show context for EP108's AI coding market discussion.
-- [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for episodes on Jim Simons quantitative investing, post-2000s internship anxiety, and global market turmoil.
+- [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for episodes on investing, career-entry anxiety, upward management, and global market turmoil.
 - [Youyou Agent](entities/YouyouAgent.md) — Digital-life agent experiment discussed as an early agent-native project.
 - [Youju](entities/Youju.md) — Podcast/project focused on AI games and AI interactive entertainment.
 - [Zhang Jiayuan](entities/ZhangJiayuan.md) — MultiCard founder discussing model orchestration, AI coding commoditization, roadmap taste, and retained human judgment.
@@ -345,6 +346,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Human Judgment Under AI](concepts/HumanJudgmentUnderAI.md) — Claim that AI improves preparation but cannot replace fast, situated judgment in live professional settings.
 - [In-Store Demos](concepts/InStoreDemos.md) — Retail sampling and storytelling sessions that help CPG products sell and generate customer-learning loops.
 - [Interleaved Thinking](concepts/InterleavedThinking.md) — Agentic reasoning pattern where models act, observe environment/tool feedback, and re-plan.
+- [Internal Transfer Strategy](concepts/InternalTransferStrategy.md) — Handling department moves as managed career transitions across current and receiving managers.
 - [Internship As Career Exploration](concepts/InternshipAsCareerExploration.md) — Using internships to test directions and stage goals instead of only soothing anxiety or decorating a resume.
 - [Investment Risk Management](concepts/InvestmentRiskManagement.md) — Position sizing, diversification, leverage control, automated rules, and emotional discipline for surviving uncertainty.
 - [Large Company Open Source Strategy](concepts/LargeCompanyOpenSourceStrategy.md) — Strategic use of open source by large companies and the tension between influence and internal value capture.
@@ -374,6 +376,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pre-Product Selling](concepts/PreProductSelling.md) — Selling-first validation pattern using conversations, LOIs, trials, and prototypes before full production code exists.
 - [Proactive Agents](concepts/ProactiveAgents.md) — Agents that use context and memory to help before the user fully specifies a task, while still requiring permission and review design.
 - [Product Led Willingness To Pay](concepts/ProductLedWillingnessToPay.md) — Claim that users pay when product value is clear, differentiated, stable, and trustworthy.
+- [Promotion Expectation Management](concepts/PromotionExpectationManagement.md) — Making advancement goals, evidence, timing, and manager sponsorship explicit before formal review windows.
 - [QDII Allocation](concepts/QDIIAllocation.md) — Overseas-allocation problem where quota scarcity must be separated from asset price, duration, and currency risk.
 - [Quantitative Investing](concepts/QuantitativeInvesting.md) — Data- and model-driven investing based on repeated small statistical edges, execution, and risk control.
 - [Quantitative Overfitting](concepts/QuantitativeOverfitting.md) — Failure mode where a trading rule fits historical data but lacks robust out-of-sample value.
@@ -401,12 +404,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Trial Size Product](concepts/TrialSizeProduct.md) — Smaller, lower-commitment format that lets customers test a product before buying the full version.
 - [Turnkey Handset Solutions](concepts/TurnkeyHandsetSolutions.md) — Integrated chipset and phone-design packages that lowered the barrier to building feature phones.
 - [U.S. Recession Risk](concepts/USRecessionRisk.md) — Macro-risk frame using labor, manufacturing, consumption, leverage, policy, and market valuation signals.
+- [Upward Management](concepts/UpwardManagement.md) — Influencing bosses and higher-power stakeholders through demand clarification, decision support, and expectation setting.
 - [Validated Learning](concepts/ValidatedLearning.md) — Lean Startup principle that startups progress by testing assumptions against real customer behavior.
 - [Video Models](concepts/VideoModels.md) — AI video generation models discussed as a content-production and investment theme.
 - [Vibe Coding](concepts/VibeCoding.md) — AI-assisted coding practice whose value is capability expansion as much as speed.
 - [Vision Language Action Models](concepts/VisionLanguageActionModels.md) — Robot models that connect perception, language, and action but may struggle to cover continuous physical action spaces.
 - [Voice Interaction](concepts/VoiceInteraction.md) — AI interaction mode based on speech and interactive audio experiences.
-- [Workplace Hidden Rules](concepts/WorkplaceHiddenRules.md) — Implicit communication, etiquette, and relationship norms that new interns learn inside organizations.
+- [Workplace Hidden Rules](concepts/WorkplaceHiddenRules.md) — Implicit communication, etiquette, and relationship norms learned inside organizations, from intern etiquette to boss-facing execution.
 - [World Action Models](concepts/WorldActionModels.md) — Intermediate robot/world-model route using video-rich action-conditioned modeling, treated as useful but incomplete without causality.
 - [World Models](concepts/WorldModels.md) — Models of physical or conceptual environments linked to embodied AI and learning examples.
 - [Yen Carry Trade](concepts/YenCarryTrade.md) — Yen-funded investment strategy whose reversal can connect Japanese rates, currency moves, and global risk assets.
