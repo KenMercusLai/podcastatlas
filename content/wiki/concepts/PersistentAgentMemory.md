@@ -2,7 +2,7 @@
 title: "Persistent Agent Memory"
 type: concept
 tags: [agents, memory, context]
-sources: [renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3]
+sources: [renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]
 last_updated: 2026-07-06
 ---
 
@@ -12,6 +12,8 @@ Persistent agent memory is the durable user model that [[Paperboy]] wants to bui
 
 [[tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3]] adds a tool-harness version through [[ClaudeCode]]. [[LaiXinlu]] describes memory as markdown/file-based state that can be selectively loaded like skills, updated by stop-hook agent passes, and periodically consolidated by an AutoDream-like process after enough sessions accumulate.
 
+[[dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]] adds [[HermesAgent]] as a product case where memory is the central differentiator after the [[OpenCloud]] and [[OpenClaw]] wave. The source emphasizes multi-layer memory, user-agent co-adaptation, and memory that can preserve successful workflows as [[AISkills]].
+
 ## Key Claims
 - Memory should preserve useful chat, work, meeting, code, message, and browsing context even after an individual session ends.
 - More persistent memory can reduce explicit prompting because the agent already knows the user's taste, work history, and current activity.
@@ -19,6 +21,7 @@ Persistent agent memory is the durable user model that [[Paperboy]] wants to bui
 - Persistent memory enables [[ProactiveAgents]] because the agent can notice upcoming meetings, unfinished work, efficiency problems, or relevant connections across research threads.
 - Memory quality is a product problem, not only a database problem: what to store, compress, forget, surface, and ask about depends on the use case.
 - Memory and [[AISkills]] can overlap: saved experience, SOPs, task reports, and reusable instructions may be maintained by agents rather than separated into clean product categories.
+- Memory can change user behavior because users start treating agent failures partly as training and onboarding problems, not only product bugs.
 
 ## Connections
 - [[ContextEngineering]] — broader discipline for making context durable and useful.
@@ -26,3 +29,4 @@ Persistent agent memory is the durable user model that [[Paperboy]] wants to bui
 - [[HumanAgentCollaboration]] — long-running collaboration requires shared memory.
 - [[DigitalEmployees]] — enterprise analog where AI workers need onboarding and organizational memory.
 - [[AgentHarness]], [[ClaudeCode]], and [[LearnClaudeCode]] — tool-harness examples where memory is part of the execution environment.
+- [[HermesAgent]], [[OpenCloud]], and [[OpenClaw]] — agent-product context where memory stability becomes a visible product requirement.

@@ -2,7 +2,7 @@
 title: "Manus"
 type: entity
 tags: [ai-tool, agent]
-sources: [agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3]
+sources: [agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]
 last_updated: 2026-07-06
 ---
 
@@ -14,6 +14,8 @@ Manus is referenced in [[agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-za
 
 [[tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3]] references Manus in the context of agent memory and sandbox design. [[LaiXinlu]] groups Manus with [[ClaudeCode]] as using a Unix-file and agent-maintained-memory direction, while contrasting traditional cloud sandboxes with [[KComputer]]'s lighter virtual-computer approach.
 
+[[dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]] treats Manus as an earlier phenomenon that raised user expectations for agent products. The source contrasts a hosted "pay for results" style with newer local or subscription agents where users buy token capacity, train the agent, and own more of the workflow.
+
 ## Connections
 - [[AgenticWorkflow]] — broader category Manus is used to illustrate.
 - [[HeadlessSoftware]] — source thesis that agents can route around older GUI-first products.
@@ -21,3 +23,4 @@ Manus is referenced in [[agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-za
 - [[TianjieJack]] and [[CangShifu]] — guests using Manus as part of the agent-era timeline.
 - [[Paperboy]] — startup using Manus as a reference point for what current agents do and do not solve.
 - [[AgentHarness]], [[PersistentAgentMemory]], and [[KComputer]] — harness and environment comparison added by the Lai Xinlu source.
+- [[OpenCloud]], [[OpenClaw]], and [[HermesAgent]] — later agent-product wave used as a contrast in the Hermes Agent source.

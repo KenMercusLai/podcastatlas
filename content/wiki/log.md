@@ -95,3 +95,7 @@ Added source page for a Shizilukou Crossing episode on Claude Code, agent harnes
 ## [2026-07-06] graph | Knowledge graph rebuilt
 
 233 nodes, 1776 edges (1776 extracted, 0 inferred).
+
+## [2026-07-06] ingest | 当我们在讨论 Harness 的时候，我们在讨论什么 | 深度对谈: MiniMax × Hermes Agent
+
+Added source page for a Shizilukou Crossing episode on Agent Harness, Hermes Agent, MiniMax Agent practice, OpenCloud/OpenClaw, persistent memory, multi-agent collaboration, interleaved thinking, skills, identity/authentication, and agent self-evolution. Created supporting pages for Adao, Zeying, Tommy, Hermes Agent, Open Claw, Multi-Agent Collaboration, Interleaved Thinking, Agent Identity And Authentication, and Agent Self-Evolution; updated overview, index, Shizilukou Crossing, Koji, MiniMax, Open Cloud, Claude Code, Anthropic, Manus, Youyou Agent, agent harness, model-harness co-evolution, AI skills, persistent agent memory, agentic workflow, subagent workflow, agent-facing interfaces, and agentic economy pages.

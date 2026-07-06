@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [当我们在讨论 Harness 的时候，我们在讨论什么 | 深度对谈: MiniMax × Hermes Agent](sources/dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd.md) — Podcast episode on Agent Harness, Hermes Agent, MiniMax Agent practice, persistent memory, multi-agent collaboration, interleaved thinking, skills, identity, and agent self-evolution.
 - [探秘 Claude Code，搞懂 Agent Harness｜对谈来新璐](sources/tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3.md) — Podcast episode on Claude Code, agent harness layers, CLI/Unix-style agent interfaces, memory, context compression, K Computer, and agent-native infrastructure.
 - [人类和 AI Agent 的最佳配合方式，还没被发明｜对谈 Paperboy](sources/renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o.md) — Podcast episode on Paperboy, OS-level agent context, persistent memory, proactive agents, IM/inbox-style interfaces, and the unfinished product form for human-agent collaboration.
 - [2026 AI 游戏全景扫描：四层图景、三大误区、一个共识缺口｜对谈 405 游局筱宁](sources/2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne.md) — Podcast episode on AI interactive entertainment, AI game production limits, AI NPCs, creator platforms, designed agency, AI 3D prototyping, and the missing consensus product for AI games.
@@ -28,6 +29,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [Aether AI](entities/AetherAI.md) — AI robotics company founded by Huang Biwei to build causal world models for embodied intelligence.
+- [Adao](entities/Adao.md) — MiniMax Agent chief architect discussing agent harnesses, multi-agent cross-checking, and model-harness feedback loops.
 - [Agan](entities/Agan.md) — Rolling AI partner discussing enterprise AI deployment, FDE work, and AI-era role changes.
 - [Alex Berman](entities/AlexBerman.md) — LinkedIn influencer partner associated with Tapio's distribution strategy.
 - [Alibaba](entities/Alibaba.md) — Large technology company discussed through Qwen, open source, organizational order, and talent management.
@@ -55,6 +57,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gino Wickman](entities/GinoWickman.md) — EOS founder whose methodology and community created the ecosystem around Ninety's early product.
 - [Girish Redikar](entities/GirishRedikar.md) — Founder of Sprinto and former RecruiterBox founder discussing failed ideas, validation, service productization, and AI governance.
 - [He Tao](entities/HeTao.md) — Deerflow core person discussing open-source AI workflows, codebase governance, engineering responsibility, and personal AI assistants.
+- [Hermes Agent](entities/HermesAgent.md) — Open-source agent framework discussed through persistent memory, tools, workflow skills, and self-improving harness loops.
 - [Huang Biwei](entities/HuangBiwei.md) — Aether AI founder and causal AI researcher arguing for causal world models as the robot-brain route.
 - [Jiang Yang](entities/JiangYang.md) — Paperboy founder arguing that human-agent collaboration needs OS-level context, persistent memory, and new interface forms.
 - [Jie Dechen](entities/JieDechen.md) — Paperboy founding engineer explaining OS-level memory, autocomplete, PR descriptions, and agent-tool competition.
@@ -88,6 +91,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NetEase](entities/NetEase.md) — Chinese game company mentioned as becoming more active in AI adoption.
 - [Ninety](entities/Ninety.md) — SaaS platform for leadership-team operating rhythms, built through the EOS ecosystem and now embedding AI.
 - [OpenAI](entities/OpenAI.md) — Frontier AI company referenced in relation to agents, FDE, and AI market structure.
+- [Open Claw](entities/OpenClaw.md) — Domestic agent-wave project/context paired with Open Cloud in the Hermes Agent discussion.
 - [Open Cloud](entities/OpenCloud.md) — Domestic agent-era project/event discussed through skills, CLI friction, and ecosystem consensus.
 - [Outrank](entities/Outrank.md) — SEO product discussed as part of Tea Maker's AI-era distribution playbook.
 - [Paperboy](entities/Paperboy.md) — AI-agent startup exploring OS-level context, persistent memory, proactive agents, and IM/inbox-style collaboration interfaces.
@@ -120,6 +124,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Thibaut-Louis Lucas](entities/ThibautLouisLucas.md) — Founder of Tea Maker and guest discussing failed startups, product validation, and distribution-led SaaS.
 - [Tianjie Jack](entities/TianjieJack.md) — ZhenFund investor discussing GUI thinking, headless software, agent infrastructure, and Token Grant.
 - [Token Grant](entities/TokenGrant.md) — ZhenFund and Shizilukou Crossing sponsorship project for AI-era zero-to-one builders.
+- [Tommy](entities/Tommy.md) — Hermes Agent business lead explaining the framework's memory, tool orchestration, and skill loop.
 - [Traction Tools](entities/TractionTools.md) — EOS-related software competitor discussed in relation to Ninety's licensing and positioning.
 - [Tweet Hunter](entities/TweetHunter.md) — Twitter-focused SaaS product that grew through Lucas's own use and a JK Molina distribution partnership.
 - [Type Type Maker](entities/TypeTypeMaker.md) — AI game-creation tool discussed as a fast prototyping and creator-platform example.
@@ -138,6 +143,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Youyou Agent](entities/YouyouAgent.md) — Digital-life agent experiment discussed as an early agent-native project.
 - [Youju](entities/Youju.md) — Podcast/project focused on AI games and AI interactive entertainment.
 - [Zhang Jiayuan](entities/ZhangJiayuan.md) — MultiCard founder discussing model orchestration, AI coding commoditization, roadmap taste, and retained human judgment.
+- [Zeying](entities/Zeying.md) — MiniMax R&D engineer discussing interleaved thinking, multi-agent collaboration, and agent self-evolution.
 - [ZhenFund](entities/ZhengkeFund.md) — Investment firm associated with the host's AI investing role and Token Grant.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
@@ -165,6 +171,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Subscription Economics](concepts/AISubscriptionEconomics.md) — Tradeoffs of free tiers, paid tiers, usage limits, and heavy-user costs in AI products.
 - [Agent-Facing Interfaces](concepts/AgentFacingInterfaces.md) — CLI, API, MCP-like, skill, and tool layers that make software callable by agents.
 - [Agent Harness](concepts/AgentHarness.md) — Model-external system of tools, context, memory, permissions, runtime state, and orchestration that lets an agent act.
+- [Agent Identity And Authentication](concepts/AgentIdentityAndAuthentication.md) — Infrastructure problem of attributing agent actions, granting permissions, and balancing real-name controls with openness.
+- [Agent Self-Evolution](concepts/AgentSelfEvolution.md) — Agent improvement loop where memory, saved workflows, skills, and harness feedback make future work more consistent.
 - [Agentic Economy](concepts/AgenticEconomy.md) — Infrastructure and economics for agent-to-service and agent-to-agent task execution.
 - [Agentic Workflow](concepts/AgenticWorkflow.md) — Work pattern where AI agents use tools, context, and process state to complete real tasks.
 - [Business-Led AI Transformation](concepts/BusinessLedAITransformation.md) — Enterprise AI adoption pattern led by business pain, workflow redesign, and incentive change rather than IT ownership alone.
@@ -204,6 +212,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Headless Software](concepts/HeadlessSoftware.md) — Product-design thesis that software value should be separable from GUI-first human operation.
 - [Human-Agent Collaboration](concepts/HumanAgentCollaboration.md) — Product-design problem of finding better ways for people and AI agents to work together beyond chat, prompt, and session interfaces.
 - [Human Judgment Under AI](concepts/HumanJudgmentUnderAI.md) — Claim that AI improves preparation but cannot replace fast, situated judgment in live professional settings.
+- [Interleaved Thinking](concepts/InterleavedThinking.md) — Agentic reasoning pattern where models act, observe environment/tool feedback, and re-plan.
 - [Investment Risk Management](concepts/InvestmentRiskManagement.md) — Position sizing, diversification, leverage control, automated rules, and emotional discipline for surviving uncertainty.
 - [Large Company Open Source Strategy](concepts/LargeCompanyOpenSourceStrategy.md) — Strategic use of open source by large companies and the tension between influence and internal value capture.
 - [Large Company Organizational Inertia](concepts/LargeCompanyOrganizationalInertia.md) — Big-company dynamic where resources and momentum amplify work but rules and scale reduce individual leverage.
@@ -212,6 +221,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Market Regime Shift](concepts/MarketRegimeShift.md) — Market state changes where historical statistical patterns may stop working.
 - [Model Harness Co-Evolution](concepts/ModelHarnessCoEvolution.md) — View that models and agent/harness systems improve each other through real workflow feedback.
 - [MSP Channel Distribution](concepts/MSPChannelDistribution.md) — Go-to-market pattern for reaching SMBs through managed service providers that operate customer IT environments.
+- [Multi-Agent Collaboration](concepts/MultiAgentCollaboration.md) — Use of multiple agents for context exchange, cross-checking, parallel exploration, and drift correction.
 - [Open Source AI Models](concepts/OpenSourceAIModels.md) — AI models released openly enough to support downstream adoption, fine-tuning, and ecosystem influence.
 - [On Device Fast Slow Brain](concepts/OnDeviceFastSlowBrain.md) — Edge AI architecture separating immediate behavior decisions from slower reasoning for low-latency embodied response.
 - [OS-Level Context](concepts/OSLevelContext.md) — Agent context gathered from the user's computer environment, including screens, input, apps, meetings, messages, and current activity.
