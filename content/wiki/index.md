@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP38 风满楼！全球资本市场巨幅动荡，腥风血雨时刻近在咫尺](sources/ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9.md) — Podcast episode on global market turmoil, yen carry trade unwinds, Japan's selloff, Fed rate-cut expectations, yield-curve inversion, Buffett's cash, and market mean reversion.
 - [Justin's Nut Butter: Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter.](sources/justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b.md) — Podcast episode on Justin Gold, Justin's Nut Butter, CPG distribution, retail shelf placement, squeeze-pack trial products, Starbucks, Hormel, and founder return after acquisition.
 - [EP36 第一批有毕业焦虑的00后，开始学会用实习「饮鸩止渴」](sources/ep36-di-yi-pi-you-biye-jiaolv-de-00-hou-kaishi-xuehui-yong-shixi-yinzhen-zhike-lj5s97tbtj2gly7oppujgsv3cgk8.md) — Podcast episode on post-2000s internship anxiety, workplace hidden rules, big-company resume signaling, dirty work, and using internships to filter future direction.
 - [当“印钞机”百度开始失血，是天灾还是人祸？](sources/dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun.md) — Podcast episode on Baidu's search-ad decline, AI-search cannibalization, open-web traffic loss, Wenxin's weak product mindshare, and cash-cow strategic inertia.
@@ -44,13 +45,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alex Berman](entities/AlexBerman.md) — LinkedIn influencer partner associated with Tapio's distribution strategy.
 - [Alibaba](entities/Alibaba.md) — Large technology company discussed through Qwen, open source, organizational order, and talent management.
 - [Anthropic](entities/Anthropic.md) — AI company discussed alongside OpenAI in the episode's treatment of frontier models, agent tools, and enterprise deployment.
-- [Apple](entities/Apple.md) — Platform company discussed through WWDC expectations, Siri, possible Gemini integration, and OS-level AI pressure on utility apps.
+- [Apple](entities/Apple.md) — Platform company discussed through WWDC expectations, Siri, possible Gemini integration, OS-level AI pressure, and later as a Buffett/Berkshire market-sentiment holding.
 - [Antler](entities/Antler.md) — Startup program where Peak AI's founding team formed and secured early funding.
 - [Atoom](entities/Atoom.md) — Attention-aware interface prototype from the Xiaohongshu hackathon that dynamically reorganizes web pages around what the user should focus on.
 - [BCG](entities/BCG.md) — Consulting company referenced through Rolling AI partners' background and as contrast for AI-era agent delivery.
 - [Baijian](entities/Baijian.md) — Bairong Intelligence professional-service platform that gives experts digital employees and office systems.
 - [Baidu](entities/Baidu.md) — Chinese search and AI company discussed through search-ad decline, open-web traffic loss, Wenxin, and strategic inertia.
 - [Bairong Intelligence](entities/BairongIntelligence.md) — Enterprise AI company using and selling digital employees across service, approval, risk-control, and professional-service workflows.
+- [Bank of Japan](entities/BankOfJapan.md) — Central bank whose tightening and yen effects are discussed as triggers for yen carry trade stress and Japanese equity volatility.
+- [Berkshire Hathaway](entities/BerkshireHathaway.md) — Warren Buffett's investment company discussed through Apple reduction, high cash, valuation caution, and market sentiment.
 - [Bitcoin](entities/Bitcoin.md) — Cryptocurrency asset discussed as a trading vehicle rather than a cash-flowing investment in the Simons episode.
 - [Bobo's Oat Bars](entities/BobosOatBars.md) — Food company that shared early Boulder kitchen capacity and employees with Justin's Nut Butter.
 - [Boston Dynamics](entities/BostonDynamics.md) — Robotics company referenced through Shibo's admiration for Marc Raibert and autonomous robotics.
@@ -66,6 +69,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cognition](entities/Cognition.md) — AI coding company behind Devin and acquirer of remaining Windsurf assets in the EP108 account.
 - [Cursor](entities/Cursor.md) — AI coding environment grouped with Codex and Claude Code as a practical agent tool.
 - [Danny Jenkins](entities/DannyJenkins.md) — ThreatLocker founder discussing zero trust cybersecurity, default-deny controls, MSP distribution, and startup survival.
+- [大雄](entities/Daxiong.md) — YiLaoYongYi guest framing market turmoil through cycle risk, mean reversion, yield-curve inversion, and Fed policy ambiguity.
 - [DeepSeek](entities/DeepSeek.md) — Chinese open-source model effort cited as a peer signal for Qwen.
 - [Deerflow](entities/Deerflow.md) — Open-source deep-research and desktop-workflow project discussed through AI coding, Chinese models, community governance, and multimodal work.
 - [Devin](entities/Devin.md) — Cognition coding-agent product discussed through the Windsurf acquisition context.
@@ -74,6 +78,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EarthKit](entities/EarthKit.md) — Jie Dechen's multimodal project for inferring photo locations, mentioned as background before Paperboy.
 - [Edward](entities/Edward.md) — Designer and hackathon contestant behind Atoom, emphasizing taste and idea quality after vibe coding accelerates implementation.
 - [Eric Ries](entities/EricRies.md) — Lean Startup author and Incorruptible author discussing validated learning, AI-era product economics, financial gravity, and founder governance.
+- [Federal Reserve](entities/FederalReserve.md) — U.S. central bank discussed through rate-cut expectations, policy lag, yield-curve inversion, and market interpretation of easing.
 - [Forward Consumer Partners](entities/ForwardConsumerPartners.md) — Investment group that acquired a controlling stake in Justin's Nut Butter and brought Justin Gold back as owner, founder, and board member.
 - [枫言枫语](entities/FengyanFengyu.md) — Podcast/show context for the OpenClaw and self-built personal-agent episode.
 - [Gemini](entities/Gemini.md) — AI assistant/search surface discussed in Peak AI's market framing and Gemini CLI's coding context.
@@ -109,6 +114,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lai Xinlu](entities/LaiXinlu.md) — Share AI founder explaining agent harness layers, Claude Code lessons, and CLI-first agent infrastructure.
 - [Lance Gentry](entities/LanceGentry.md) — Former Izze executive and Justin's Nut Butter operating partner who helped professionalize scaling before his death from brain cancer.
 - [Lao Gao](entities/LaoGao.md) — Keji Luandun participant discussing practical AI coding, productization, and workflow judgment.
+- [老麦](entities/LaoMai.md) — YiLaoYongYi guest explaining the market selloff through Japanese equities, fund flows, derivatives, yen funding, and policy timing.
 - [Learn Claude Code](entities/LearnClaudeCode.md) — Share AI learning project that studies Claude Code as an agent harness sample.
 - [Lempire](entities/Lempire.md) — SaaS company that acquired Tweet Hunter and Tapio.
 - [Li Yanhong](entities/LiYanhong.md) — Baidu founder discussed as a management and risk-preference lens for Baidu's search and AI predicament.
@@ -193,7 +199,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vibe Song](entities/VibeSong.md) — Online vibe-coding competition platform prototype that turns hackathon building into a public participatory format.
 - [VMG](entities/VMG.md) — Investment group that backed Justin's Nut Butter with growth capital around 2012.
 - [Wang Dafu](entities/WangDafu.md) — Keji Luandun participant contributing operations, data-work, scripting, and business-logic optimization examples.
-- [Warren Buffett](entities/WarrenBuffett.md) — Long-term value investor used as a comparison point against Jim Simons's quantitative approach.
+- [Warren Buffett](entities/WarrenBuffett.md) — Long-term value investor discussed through contrast with Jim Simons and through Berkshire's cash, Apple reduction, and market caution.
 - [WeChat](entities/WeChat.md) — Platform discussed as a possible high-context environment for agent products in China.
 - [Wenxin](entities/Wenxin.md) — Baidu AI model and product family discussed as weak in user mindshare despite early AI investment.
 - [Windsurf](entities/Windsurf.md) — AI coding tool discussed through disrupted acquisition, talent movement, and model-provider competition.
@@ -212,7 +218,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yueban Dongli](entities/YuebanDongli.md) — Robotics company founded by Shibo to build the Xiaoban companion robot.
 - [Yuanbao](entities/Yuanbao.md) — Tencent AI assistant discussed as a domestic alternative to Doubao.
 - [硬地骇客](entities/YingdiHaike.md) — Podcast/show context for EP108's AI coding market discussion.
-- [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for episodes on Jim Simons quantitative investing and post-2000s internship anxiety.
+- [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for episodes on Jim Simons quantitative investing, post-2000s internship anxiety, and global market turmoil.
 - [Youyou Agent](entities/YouyouAgent.md) — Digital-life agent experiment discussed as an early agent-native project.
 - [Youju](entities/Youju.md) — Podcast/project focused on AI games and AI interactive entertainment.
 - [Zhang Jiayuan](entities/ZhangJiayuan.md) — MultiCard founder discussing model orchestration, AI coding commoditization, roadmap taste, and retained human judgment.
@@ -265,6 +271,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Building Public](concepts/BuildingPublic.md) — Sharing product progress publicly to find users, feedback, collaborators, and distribution before a product is complete.
 - [Business-Led AI Transformation](concepts/BusinessLedAITransformation.md) — Enterprise AI adoption pattern led by business pain, workflow redesign, and incentive change rather than IT ownership alone.
 - [Category Creation](concepts/CategoryCreation.md) — Startup go-to-market challenge of teaching buyers to understand, name, and budget for a new category.
+- [Carry Trade Unwind](concepts/CarryTradeUnwind.md) — Forced closing of funded cross-asset positions when currency, rates, margin, or risk conditions reverse.
 - [Cash Cow Strategic Inertia](concepts/CashCowStrategicInertia.md) — Pattern where a profitable old business weakens strategic patience for necessary new bets.
 - [Causal AI](concepts/CausalAI.md) — Research direction focused on intervention-grounded causal structure, causal discovery, and machine-learning systems that generalize beyond surface correlation.
 - [Causal World Models](concepts/CausalWorldModels.md) — World-model route that learns causal variables, causal structure, and action-conditioned transition dynamics for physical AI.
@@ -281,6 +288,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Data Portability And Sustainable Tools](concepts/DataPortabilityAndSustainableTools.md) — Product trust pattern based on exportability, local data, maintenance, and lower server dependence.
 - [Dark Office](concepts/DarkOffice.md) — Office-work automation analogy where agents perform defined white-collar and gray-collar workflows like a dark factory.
 - [Default Deny Security](concepts/DefaultDenySecurity.md) — Cybersecurity control pattern where software or behavior is blocked unless explicitly approved.
+- [Derivative Amplified Volatility](concepts/DerivativeAmplifiedVolatility.md) — Market stress pattern where futures, options, leverage, and short covering magnify an underlying shock.
 - [Designed Agency In Games](concepts/DesignedAgencyInGames.md) — Game-design claim that fun choice comes from constraints, goals, feedback, and control rather than unlimited options.
 - [Demand Harvesting](concepts/DemandHarvesting.md) — Go-to-market pattern where startups capture already expressed buyer demand instead of first creating a new category.
 - [Deterministic Audit Data](concepts/DeterministicAuditData.md) — System-of-record evidence for audit-critical yes-or-no facts that should remain separate from probabilistic AI output.
@@ -315,10 +323,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Large Company Organizational Inertia](concepts/LargeCompanyOrganizationalInertia.md) — Big-company dynamic where resources and momentum amplify work but rules and scale reduce individual leverage.
 - [Long-Chain AI Competition](concepts/LongChainAICompetition.md) — Foundation-model competition across model capability, talent, compute, commercial closure, terminal pull, data, and organization.
 - [Market Efficiency](concepts/MarketEfficiency.md) — Frame for mostly efficient markets with small, temporary inefficiencies that quant systems try to exploit.
+- [Market Mean Reversion](concepts/MarketMeanReversion.md) — Valuation and cycle frame where prices far from historical anchors can revert or overshoot under stress.
 - [Market Regime Shift](concepts/MarketRegimeShift.md) — Market state changes where historical statistical patterns may stop working.
 - [Materials Pipeline Company](concepts/MaterialsPipelineCompany.md) — Business model that owns AI-discovered material IP pipelines rather than only selling discovery tools.
 - [Model Harness Co-Evolution](concepts/ModelHarnessCoEvolution.md) — View that models and agent/harness systems improve each other through real workflow feedback.
 - [Model Provider Tool Competition](concepts/ModelProviderToolCompetition.md) — Pressure on workflow startups when frontier model providers ship official tools in the same category.
+- [Monetary Policy Lag](concepts/MonetaryPolicyLag.md) — Delay between interest-rate decisions and their effects on employment, housing, corporate investment, and markets.
 - [MSP Channel Distribution](concepts/MSPChannelDistribution.md) — Go-to-market pattern for reaching SMBs through managed service providers that operate customer IT environments.
 - [Multi-Agent Collaboration](concepts/MultiAgentCollaboration.md) — Use of multiple agents for context exchange, cross-checking, parallel exploration, and drift correction.
 - [Open Source AI Models](concepts/OpenSourceAIModels.md) — AI models released openly enough to support downstream adoption, fine-tuning, and ecosystem influence.
@@ -360,6 +370,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Workplace Hidden Rules](concepts/WorkplaceHiddenRules.md) — Implicit communication, etiquette, and relationship norms that new interns learn inside organizations.
 - [World Action Models](concepts/WorldActionModels.md) — Intermediate robot/world-model route using video-rich action-conditioned modeling, treated as useful but incomplete without causality.
 - [World Models](concepts/WorldModels.md) — Models of physical or conceptual environments linked to embodied AI and learning examples.
+- [Yen Carry Trade](concepts/YenCarryTrade.md) — Yen-funded investment strategy whose reversal can connect Japanese rates, currency moves, and global risk assets.
+- [Yield Curve Inversion](concepts/YieldCurveInversion.md) — Macro signal where short-term rates exceed long-term rates, discussed as a delayed recession and market-risk warning.
 - [Zero Trust Security](concepts/ZeroTrustSecurity.md) — Cybersecurity idea that systems should not automatically trust software, access, or activity by default.
 
 ## Syntheses

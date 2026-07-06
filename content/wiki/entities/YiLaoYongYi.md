@@ -2,13 +2,13 @@
 title: "一劳永逸"
 type: entity
 tags: [podcast, media]
-sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep36-di-yi-pi-you-biye-jiaolv-de-00-hou-kaishi-xuehui-yong-shixi-yinzhen-zhike-lj5s97tbtj2gly7oppujgsv3cgk8]
+sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep36-di-yi-pi-you-biye-jiaolv-de-00-hou-kaishi-xuehui-yong-shixi-yinzhen-zhike-lj5s97tbtj2gly7oppujgsv3cgk8, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9]
 last_updated: 2026-07-07
 ---
 
 # 一劳永逸
 
-一劳永逸 is the podcast/show context for [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1]] and [[ep36-di-yi-pi-you-biye-jiaolv-de-00-hou-kaishi-xuehui-yong-shixi-yinzhen-zhike-lj5s97tbtj2gly7oppujgsv3cgk8]]. The Simons source uses a fictional "time-travel investment master" interview format to explain [[JimSimons]], [[RenaissanceTechnologies]], and the practical limits of learning institutional [[QuantitativeInvesting]] as an ordinary investor. The internship source pairs [[Mannisen]] and [[Shuixian]] to examine [[GraduationAnxiety]], [[InternshipAsCareerExploration]], [[WorkplaceHiddenRules]], [[BigCompanyHalo]], and [[DirtyWork]].
+一劳永逸 is the podcast/show context for [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1]], [[ep36-di-yi-pi-you-biye-jiaolv-de-00-hou-kaishi-xuehui-yong-shixi-yinzhen-zhike-lj5s97tbtj2gly7oppujgsv3cgk8]], and [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9]]. The Simons source uses a fictional "time-travel investment master" interview format to explain [[JimSimons]], [[RenaissanceTechnologies]], and the practical limits of learning institutional [[QuantitativeInvesting]] as an ordinary investor. The internship source pairs [[Mannisen]] and [[Shuixian]] to examine [[GraduationAnxiety]], [[InternshipAsCareerExploration]], [[WorkplaceHiddenRules]], [[BigCompanyHalo]], and [[DirtyWork]]. EP38 returns to markets with [[LaoMai]] and [[Daxiong]], using global market turmoil to discuss [[YenCarryTrade]], [[CarryTradeUnwind]], [[YieldCurveInversion]], central-bank timing, and valuation risk.
 
 ## Connections
 - [[JimSimons]] — central figure of the episode.
@@ -17,3 +17,5 @@ last_updated: 2026-07-07
 - [[PassiveInvesting]] and [[InvestmentRiskManagement]] — practical advice emphasized by the episode.
 - [[Mannisen]] and [[Shuixian]] — speakers in the internship episode.
 - [[GraduationAnxiety]], [[InternshipAsCareerExploration]], [[WorkplaceHiddenRules]], [[BigCompanyHalo]], and [[DirtyWork]] — career-entry themes added by EP36.
+- [[LaoMai]] and [[Daxiong]] — speakers in EP38's market-turmoil discussion.
+- [[FederalReserve]], [[BankOfJapan]], [[YenCarryTrade]], [[CarryTradeUnwind]], and [[YieldCurveInversion]] — macro-market themes added by EP38.

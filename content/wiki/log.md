@@ -167,3 +167,15 @@ Added source page for a YiLaoYongYi episode on post-2000s internship pressure, g
 ## [2026-07-07] ingest | Justin's Nut Butter: Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter.
 
 Added source page for a How I Built This episode on Justin Gold, Justin's Nut Butter, CPG distribution, retail shelf placement, squeeze-pack trial products, Starbucks, VMG, Hormel, Forward Consumer Partners, and founder return after acquisition. Created supporting entity and concept pages for the key people, companies, retail mechanics, founder role transition, and post-acquisition founder identity; updated overview, index, and related validation, customer pull, distribution, willingness-to-pay, hiring, governance, financial gravity, shareholder primacy, and founder-product-fit pages.
+
+## [2026-07-07] ingest | EP38 风满楼！全球资本市场巨幅动荡，腥风血雨时刻近在咫尺
+
+Added source page for a YiLaoYongYi episode on global market turmoil, Japanese equity volatility, yen carry trade pressure, Bank of Japan tightening, Federal Reserve rate-cut expectations, yield-curve inversion, Buffett/Berkshire cash positioning, Apple reduction, and market mean reversion. Created supporting pages for LaoMai, Daxiong, Federal Reserve, Bank of Japan, Berkshire Hathaway, Yen Carry Trade, Carry Trade Unwind, Yield Curve Inversion, Market Mean Reversion, Monetary Policy Lag, and Derivative Amplified Volatility; updated overview, index, YiLaoYongYi, Warren Buffett, Apple, Investment Risk Management, and Market Regime Shift pages.
+
+## [2026-07-07] graph | Knowledge graph rebuilt
+
+364 nodes, 3044 edges (3044 extracted, 0 inferred).
+
+## [2026-07-07] report | Graph health report generated
+
+364 nodes analyzed.
