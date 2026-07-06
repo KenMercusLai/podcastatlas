@@ -2,8 +2,8 @@
 title: "AI Commercialization Pressure"
 type: concept
 tags: [ai, commercialization, strategy]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, community-led-saas-growth-how-ninety-hit-44m-arr, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces]
-last_updated: 2026-07-06
+sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, community-led-saas-growth-how-ninety-hit-44m-arr, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh]
+last_updated: 2026-07-07
 ---
 
 # AI Commercialization Pressure
@@ -20,6 +20,8 @@ AI commercialization pressure is the tension between technical influence, user a
 
 [[weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces]] adds an enterprise-services version through [[BairongIntelligence]]. [[ZhangShaofeng]] argues that AI companies should avoid repeating traditional custom software economics and instead use [[OutcomeBasedAIPricing]] where customers pay for work output, usage, or transaction value.
 
+[[ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh]] adds a hard-tech version through [[Kaiwuji]]. The company has early financing but no revenue yet, spends heavily on compute and AI talent, and must prove that [[AIMaterialsDiscovery]] can become valuable material IP rather than a research demo or model service.
+
 ## Key Claims
 - Open-source reputation alone may not justify sustained high-cost model training.
 - Commercialization pressure can change release timing, model scope, or product boundaries without necessarily ending open source.
@@ -31,6 +33,8 @@ AI commercialization pressure is the tension between technical influence, user a
 - Foundation-model companies need commercial paths that can support sustained frontier-model R&D, not only usage or reputation.
 - Terminals can be a commercialization strategy when they provide product pull, differentiated data, and room for hardware/software/model integration.
 - Enterprise AI commercialization may work better when the product is framed as completed work or service output rather than access to process software.
+- Hard-tech AI startups can face a long gap between model progress and revenue because candidate discovery still needs experiment, validation, scale-up, and customer adoption.
+- Owning [[MaterialsPipelineCompany]] assets may be a commercialization response when selling a tool too early would leak the core value.
 
 ## Connections
 - [[LargeCompanyOpenSourceStrategy]] — strategic context where the pressure appears.
@@ -43,3 +47,4 @@ AI commercialization pressure is the tension between technical influence, user a
 - [[StepFun]], [[QianliTechnology]], and [[AIPlusTerminals]] — foundation-model and terminal commercialization case.
 - [[LongChainAICompetition]] — broader competition frame where business closure is part of the model race.
 - [[BairongIntelligence]], [[OutcomeBasedAIPricing]], and [[AIBPORollUp]] — enterprise-service commercialization route.
+- [[Kaiwuji]], [[AIMaterialsDiscovery]], and [[MaterialsPipelineCompany]] — hard-tech materials commercialization route.

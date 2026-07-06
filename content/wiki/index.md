@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [“你有一把能够挖出金子的铲子，肯定不会先给别人用”｜对谈开物纪陆子恒：用AI发明新材料](sources/ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh.md) — Podcast episode on Kaiwuji, Lu Ziheng, AI materials discovery, MatterSim/MatterGen, materials pipeline commercialization, and expert-led experimental validation.
 - [AI 会写代码了，为什么你还是做不出产品？](sources/ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1.md) — Podcast episode on AI coding, productization limits, test-driven AI workflows, logs, audit, operations automation, and domain know-how.
 - [EP108 Vibe Coding大地震：Cursor定价争议、Windsurf收购风波，模型厂商亲儿子们又将如何进场？](sources/ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan.md) — Podcast episode on Cursor pricing, Windsurf, Claude Code, Gemini CLI, vibe coding productivity, AI coding token costs, and model-provider tool competition.
 - [为什么公司用不好AI？从焦虑到行动的 3 个关键动作｜对谈百融智能张韶峰](sources/weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces.md) — Podcast episode on Bairong Intelligence, Zhang Shaofeng, digital employees, dark-office automation, outcome-based AI pricing, contact-center agents, and AI-enabled BPO/professional services.
@@ -77,6 +78,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kedaibiao Lizheng](entities/KedaibiaoLizheng.md) — Episode guest focused on AI learning, skills, context, and agent-based workflows.
 - [Kaseya](entities/Kaseya.md) — Cybersecurity/MSP company referenced through the July 2021 ransomware incident that accelerated ThreatLocker demand.
 - [K Computer](entities/KComputer.md) — Share AI's lightweight Unix-style virtual computer for agent work environments.
+- [Kaiwuji](entities/Kaiwuji.md) — AI-for-materials startup founded by Lu Ziheng to discover, validate, and commercialize new materials.
 - [Koji](entities/Koji.md) — Shizilukou Crossing host of the road-podcast episode on Xiaoban and Yueban Dongli.
 - [Lai Xinlu](entities/LaiXinlu.md) — Share AI founder explaining agent harness layers, Claude Code lessons, and CLI-first agent infrastructure.
 - [Lao Gao](entities/LaoGao.md) — Keji Luandun participant discussing practical AI coding, productization, and workflow judgment.
@@ -86,9 +88,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Liu Kai](entities/LiuKai.md) — Rolling AI partner discussing FDE practice, agent delivery, and frontline apprenticeship loops.
 - [Long-Term Stock Exchange](entities/LongTermStockExchange.md) — Exchange project used by Eric Ries as a case study in resisting conventional market pressure.
 - [LOVOT](entities/LOVOT.md) — Companion robot reference case that shaped Shibo's view of restrained emotional interaction.
+- [Lu Ziheng](entities/LuZiheng.md) — Kaiwuji founder discussing AI materials discovery, model scaling, expert validation, and materials pipeline commercialization.
 - [Marc Raibert](entities/MarcRaibert.md) — Robotics figure named by Shibo as an inspiration for autonomous robotics.
 - [Mark Abbott](entities/MarkAbbott.md) — Founder of Ninety, discussing EOS, community-led growth, funding, hiring, and AI strategy.
 - [Marius Miners](entities/MariusMiners.md) — Founder of Peak AI, discussing AI search analytics, fast validation, pre-product selling, and category timing.
+- [MatterGen](entities/MatterGen.md) — Materials-generation model example used to discuss scalable diffusion-based candidate generation.
+- [MatterSim](entities/MatterSim.md) — Materials simulation/model example used to discuss cross-property generalization in AI materials discovery.
 - [Medallion Fund](entities/MedallionFund.md) — Renaissance Technologies fund used as the main example of repeated small statistical edges.
 - [METR](entities/METR.md) — AI evaluation/research organization cited through an AI coding productivity study.
 - [Megvii](entities/Megvii.md) — AI 1.0 company used in Yin Qi's retrospective on technical strength, commercialization, strategic focus, and organization design.
@@ -183,6 +188,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI IPO Valuation](concepts/AIIPOValuation.md) — Investing frame for separating real AI technology progress from attractive public-market entry price.
 - [AI Interpretability By AI](concepts/AIInterpretabilityByAI.md) — Safety-relevant idea that stronger AI may help humans understand AI systems themselves.
 - [AI Investment Research](concepts/AIInvestmentResearch.md) — Use of AI assistants to understand markets, filings, valuation, and risks without outsourcing final investment decisions.
+- [AI Materials Discovery](concepts/AIMaterialsDiscovery.md) — AI-for-science workflow for generating, predicting, validating, scaling, and commercializing new materials.
 - [AI Native SaaS Threat](concepts/AINativeSaaSThreat.md) — Risk that AI-native entrants challenge incumbent SaaS products built before AI became core to workflows.
 - [AI NPC Social Infrastructure](concepts/AINPCSocialInfrastructure.md) — Use of AI NPCs as hosts, social participants, and atmosphere regulators inside multiplayer scenes.
 - [AI Organization Design](concepts/AIOrganizationDesign.md) — Organizational problem of combining high talent density, coordination, research vitality, and result accountability in AI companies.
@@ -242,6 +248,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Long-Chain AI Competition](concepts/LongChainAICompetition.md) — Foundation-model competition across model capability, talent, compute, commercial closure, terminal pull, data, and organization.
 - [Market Efficiency](concepts/MarketEfficiency.md) — Frame for mostly efficient markets with small, temporary inefficiencies that quant systems try to exploit.
 - [Market Regime Shift](concepts/MarketRegimeShift.md) — Market state changes where historical statistical patterns may stop working.
+- [Materials Pipeline Company](concepts/MaterialsPipelineCompany.md) — Business model that owns AI-discovered material IP pipelines rather than only selling discovery tools.
 - [Model Harness Co-Evolution](concepts/ModelHarnessCoEvolution.md) — View that models and agent/harness systems improve each other through real workflow feedback.
 - [Model Provider Tool Competition](concepts/ModelProviderToolCompetition.md) — Pressure on workflow startups when frontier model providers ship official tools in the same category.
 - [MSP Channel Distribution](concepts/MSPChannelDistribution.md) — Go-to-market pattern for reaching SMBs through managed service providers that operate customer IT environments.

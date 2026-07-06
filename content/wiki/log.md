@@ -115,3 +115,15 @@ Added source page for a Keji Luandun episode on AI coding, productization limits
 ## [2026-07-07] lint | Wiki lint check
 
 Ran health and lint checks. Deterministic and graph-aware lint passed; semantic lint was completed manually in-session because the local `litellm` dependency was unavailable.
+
+## [2026-07-07] ingest | “你有一把能够挖出金子的铲子，肯定不会先给别人用”｜对谈开物纪陆子恒：用AI发明新材料
+
+Added source page for a Shizilukou Crossing episode on Kaiwuji, Lu Ziheng, AI materials discovery, MatterSim, MatterGen, material free energy, expert-led experimental validation, and materials pipeline commercialization. Created supporting pages for Kaiwuji, Lu Ziheng, MatterSim, MatterGen, AI Materials Discovery, and Materials Pipeline Company; updated overview, index, Shizilukou Crossing, AI for Science, frontier model scaling, domain expert alignment, and AI commercialization pressure pages.
+
+## [2026-07-07] graph | Knowledge graph rebuilt
+
+276 nodes, 2238 edges (2238 extracted, 0 inferred).
+
+## [2026-07-07] lint | Wiki lint check
+
+Ran health and lint checks after refreshing the deterministic graph with `python tools/build_graph.py --no-infer`. Health, structural lint, link-density checks, and refreshed graph hub-stub checks passed. Semantic lint was completed manually in-session because the local `litellm` dependency and provider API configuration were unavailable; community-aware graph checks were limited because `networkx` is not installed.
