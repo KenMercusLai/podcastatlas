@@ -259,3 +259,7 @@ Added source page for a 硬地骇客 episode on Podwise CLI/Skills, agent-optimi
 ## [2026-07-07] ingest | OpenClaw 之后，谁将定义主动式 AI 的新战场？｜对谈 AirJelly 黄柏特
 
 Added source page for a Shizilukou Crossing episode on AirJelly, Huang Bote, proactive AI, intent-triggered context, event/entity memory, OpenClaw's product shock, privacy, AI-native team workflows, and Yihao/QuickStone's 2026 agent investment view. Created supporting pages for AirJelly, Huang Bote, Yihao, QuickStone, Mycontext, and Intent Context; updated overview, index, Shizilukou Crossing, ByteDance, OpenClaw, Proactive Agents, OS-Level Context, Persistent Agent Memory, Context Engineering, Agent Native Software, Human-Agent Collaboration, and AI Organization Design.
+
+## [2026-07-07] ingest | EP119 对话小孙：骑行800公里把自己救出深渊：宁愿每天工作22小时，我也不想再上班了
+
+Added source page for a 硬地骇客 episode on XiaoSun, PrincipleTech, LusunTeleprompter, CreateWise, AI competition demos, Product Hunt attention, founder cash-flow pressure, self-directed work, digital-nomad community building, and an 800-kilometer cycling self-rescue. Created supporting pages for XiaoSun, CreateWise, PrincipleTech, LusunTeleprompter, Minghao, Self-Directed Work, Founder Cash Flow Constraint, Digital Nomad Community Building, and Career Self-Rescue; updated overview, index, YingdiHaike, Podwise, Fast Product Validation, Customer Pull, Founder Product Fit, Financial Freedom Vs Lifestyle Freedom, and AI Hackathons.

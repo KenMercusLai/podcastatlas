@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP119 对话小孙：骑行800公里把自己救出深渊：宁愿每天工作22小时，我也不想再上班了](sources/ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2.md) — Podcast episode on XiaoSun, self-directed work, CreateWise, founder cash-flow pressure, digital-nomad community building, and an 800-kilometer cycling self-rescue.
 - [OpenClaw 之后，谁将定义主动式 AI 的新战场？｜对谈 AirJelly 黄柏特](sources/openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6.md) — Podcast episode on AirJelly, proactive AI, intent-triggered context, persistent personal-agent memory, OpenClaw's product shock, privacy, and AI-native team workflows.
 - [EP124 为什么 Agent 时代，CLI 反而成了最优解？⚡](sources/ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax.md) — Podcast episode on Podwise CLI/Skills, agent-optimized CLI design, pipeable text interfaces, discovery commands, structured output, actionable errors, and why CLI can outperform API/SDK-style integration for agents.
 - [EP46 历次牛市众生相：措手不及的幸福能持续多久？](sources/ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2.md) — Podcast episode on A-share bull-market history, policy-driven rallies, leverage-driven cycles, retail bull-market psychology, and why policy support still needs fundamentals and risk discipline.
@@ -99,6 +100,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Code Pilot](entities/CodePilot.md) — Localized coding agent project discussed through skills, memory, CLI, and tool harnesses.
 - [Codex](entities/Codex.md) — Agentic coding tool presented as part of the shift from chat interfaces to task-executing agents.
 - [Cognition](entities/Cognition.md) — AI coding company behind Devin and acquirer of remaining Windsurf assets in the EP108 account.
+- [CreateWise](entities/CreateWise.md) — AI creator/podcast startup case where launch attention and competition wins did not yet solve founder runway.
 - [Cursor](entities/Cursor.md) — AI coding environment grouped with Codex and Claude Code as a practical agent tool.
 - [Danny Jenkins](entities/DannyJenkins.md) — ThreatLocker founder discussing zero trust cybersecurity, default-deny controls, MSP distribution, and startup survival.
 - [大雄](entities/Daxiong.md) — YiLaoYongYi guest framing market turmoil through cycle risk, mean reversion, yield-curve inversion, and Fed policy ambiguity.
@@ -177,6 +179,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [LOVOT](entities/LOVOT.md) — Companion robot reference case that shaped Shibo's view of restrained emotional interaction.
 - [Lu Qi](entities/LuQi.md) — Former Baidu executive whose period is framed as a missed transformation window.
 - [Lu Ziheng](entities/LuZiheng.md) — Kaiwuji founder discussing AI materials discovery, model scaling, expert validation, and materials pipeline commercialization.
+- [芦笋提词器](entities/LusunTeleprompter.md) — PrincipleTech creator-tool product branch discussed through SEO, desktop users, live-stream assistance, and growth constraints.
 - [Marc Raibert](entities/MarcRaibert.md) — Robotics figure named by Shibo as an inspiration for autonomous robotics.
 - [曼妮森](entities/Mannisen.md) — YiLaoYongYi host giving the senior workplace perspective on internships, communication norms, and career direction filtering.
 - [Mark Abbott](entities/MarkAbbott.md) — Founder of Ninety, discussing EOS, community-led growth, funding, hiring, and AI strategy.
@@ -192,6 +195,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Millian](entities/Millian.md) — Jiang Yang's earlier React ecosystem DevTools startup mentioned as founder background.
 - [Microsoft](entities/Microsoft.md) — Cloud and AI infrastructure buyer discussed through Nvidia demand and hyperscaler capex assumptions.
 - [MiHoYo](entities/MiHoYo.md) — Chinese game company discussed through technical AI experimentation and the Xingbugudi AI NPC example.
+- [明浩](entities/Minghao.md) — CreateWise cofounder whose podcast-production experience shaped its AI creator-tool direction.
 - [Mingwei](entities/Mingwei.md) — Hackathon contestant exploring anime-style heads as emotional interfaces for future embodied AI and agents.
 - [Mycontext](entities/Mycontext.md) — Open-source context-capture project using periodic screenshots, discussed as AirJelly's predecessor.
 - [MiniMax](entities/MiniMax.md) — AI model company discussed through M1/M2/M3 iteration, developer workflows, scaling, domain experts, and interpretability.
@@ -223,6 +227,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Phil Holstead](entities/PhilHolstead.md) — Red Truck Orchards founder discussing cherry vinegar messaging, sampling, and repeat purchase.
 - [Peter Lynch](entities/PeterLynch.md) — Fundamental investor used as a comparison point against Jim Simons's quantitative approach.
 - [Podwise](entities/Podwise.md) — AI podcast-learning tool discussed through CLI, Skills, agent workflows, and knowledge-management export.
+- [原则科技](entities/PrincipleTech.md) — Startup context for XiaoSun's earlier independent-developer and creator-tool work.
 - [QQ](entities/QQ.md) — Tencent messaging product used as the historical comparison for free-core, paid-membership internet services.
 - [QuickStone](entities/QuickStone.md) — Investment firm connected to Yihao's proactive AI and agent-infrastructure thesis around AirJelly.
 - [Qianli Technology](entities/QianliTechnology.md) — AI-and-car terminal company chaired by Yin Qi and paired with StepFun's foundation-model strategy.
@@ -292,6 +297,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Xiaoban](entities/Xiaoban.md) — Yueban Dongli's consumer bipedal companion robot designed around household emotional presence.
 - [Xiaomi](entities/Xiaomi.md) — Chinese technology company used in EP57 as a large, liquid Hong Kong/China tech allocation example.
 - [Xiao'e](entities/XiaoE.md) — Design graduate student and hackathon contestant building playful AI hardware for focus and real-world attention.
+- [小孙](entities/XiaoSun.md) — Post-2000 developer/founder case for self-directed work, CreateWise, career self-rescue, and digital-nomad community building.
 - [Xiaoning](entities/Xiaoning.md) — Former game producer and Youju guest mapping AI interactive entertainment and AI game misconceptions.
 - [Xingbugudi](entities/Xingbugudi.md) — MiHoYo product example where an AI NPC acts as character IP and multiplayer social infrastructure.
 - [Yan Junjie](entities/YanJunjie.md) — MiniMax founder and CEO discussing model iteration, productivity, scaling, domain experts, agents, and AI interpretability.
@@ -378,6 +384,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cabin Crew Work](concepts/CabinCrewWork.md) — Aviation workplace role combining service, safety, passenger management, emotional labor, preparation, and long-haul fatigue management.
 - [Category Creation](concepts/CategoryCreation.md) — Startup go-to-market challenge of teaching buyers to understand, name, and budget for a new category.
 - [Carry Trade Unwind](concepts/CarryTradeUnwind.md) — Forced closing of funded cross-asset positions when currency, rates, margin, or risk conditions reverse.
+- [Career Self-Rescue](concepts/CareerSelfRescue.md) — Recovery pattern where a concrete act restores agency after a low-confidence work or career state.
 - [Cash Cow Strategic Inertia](concepts/CashCowStrategicInertia.md) — Pattern where a profitable old business weakens strategic patience for necessary new bets.
 - [China Handset Supply Chain](concepts/ChinaHandsetSupplyChain.md) — Industrial base built from foreign factories, domestic brands, MediaTek solutions, Huaqiangbei, and shanzhai recombination.
 - [Chinese Domestic Handset Waves](concepts/ChineseDomesticHandsetWaves.md) — Staged history of Chinese handset makers from licensed brands to shanzhai/turnkey phones and operator-subsidized smartphones.
@@ -406,6 +413,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Designed Agency In Games](concepts/DesignedAgencyInGames.md) — Game-design claim that fun choice comes from constraints, goals, feedback, and control rather than unlimited options.
 - [Demand Harvesting](concepts/DemandHarvesting.md) — Go-to-market pattern where startups capture already expressed buyer demand instead of first creating a new category.
 - [Deterministic Audit Data](concepts/DeterministicAuditData.md) — System-of-record evidence for audit-critical yes-or-no facts that should remain separate from probabilistic AI output.
+- [Digital Nomad Community Building](concepts/DigitalNomadCommunityBuilding.md) — Turning remote-work and travel scenes into recurring relationships, events, services, and local community infrastructure.
 - [Digital Employees](concepts/DigitalEmployees.md) — Enterprise AI systems treated as labor that must be onboarded, trained, connected, and managed.
 - [Dirty Work](concepts/DirtyWork.md) — Low-status or repetitive work that can still reveal workflow logic, responsibility boundaries, and improvement opportunities.
 - [Distribution Led Product Building](concepts/DistributionLedProductBuilding.md) — SaaS strategy where product selection and growth are shaped by reusable acquisition systems.
@@ -425,6 +433,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Financial Freedom Vs Lifestyle Freedom](concepts/FinancialFreedomVsLifestyleFreedom.md) — Distinction between economic independence and lower-pressure daily autonomy through modest creator income and low fixed costs.
 - [Financial Gravity](concepts/FinancialGravity.md) — Pressure created by economic or status disparities that can redirect company behavior and mission.
 - [Foreign Banking In China](concepts/ForeignBankingInChina.md) — Operating model where international banks run Chinese-regulated local entities under both local rules and group standards.
+- [Founder Cash Flow Constraint](concepts/FounderCashFlowConstraint.md) — Personal runway problem when a promising startup cannot yet support the founder's life.
 - [Founder Ego](concepts/FounderEgo.md) — Status-seeking founder pattern where fundraising, hiring, or public image outruns validated customer demand.
 - [Founder Product Fit](concepts/FounderProductFit.md) — Match between a founding team's strengths, credibility, interests, and go-to-market abilities and the product they choose.
 - [Founder Role Transition](concepts/FounderRoleTransition.md) — Shift from founder-as-everything-operator into bounded leadership, operator partnership, board, or brand roles as a company scales.
@@ -508,6 +517,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sales Velocity](concepts/SalesVelocity.md) — Rate at which a product sells through a channel, especially important when retail shelf space has opportunity cost.
 - [Search Advertising Decline](concepts/SearchAdvertisingDecline.md) — Weakening of keyword search ads as user intent, advertiser attention, and AI answers shift the old click path.
 - [Second Renaissance](concepts/SecondRenaissance.md) — Idea that AI may push people toward broader creative and generalist work.
+- [Self-Directed Work](concepts/SelfDirectedWork.md) — Work pattern where effort depends on whether the person recognizes the goal as their own.
 - [Service As Software](concepts/ServiceAsSoftware.md) — AI-era delivery model where software or agents carry service-like business outcomes.
 - [Service Productization](concepts/ServiceProductization.md) — Turning manual, consultant-heavy, or expert-delivered workflows into repeatable software products.
 - [Shareholder Primacy](concepts/ShareholderPrimacy.md) — Governance belief that shareholder financial returns dominate, especially in sale or control contexts.
