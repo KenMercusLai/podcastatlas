@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [为什么公司用不好AI？从焦虑到行动的 3 个关键动作｜对谈百融智能张韶峰](sources/weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces.md) — Podcast episode on Bairong Intelligence, Zhang Shaofeng, digital employees, dark-office automation, outcome-based AI pricing, contact-center agents, and AI-enabled BPO/professional services.
 - [当我们在讨论 Harness 的时候，我们在讨论什么 | 深度对谈: MiniMax × Hermes Agent](sources/dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd.md) — Podcast episode on Agent Harness, Hermes Agent, MiniMax Agent practice, persistent memory, multi-agent collaboration, interleaved thinking, skills, identity, and agent self-evolution.
 - [探秘 Claude Code，搞懂 Agent Harness｜对谈来新璐](sources/tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3.md) — Podcast episode on Claude Code, agent harness layers, CLI/Unix-style agent interfaces, memory, context compression, K Computer, and agent-native infrastructure.
 - [人类和 AI Agent 的最佳配合方式，还没被发明｜对谈 Paperboy](sources/renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o.md) — Podcast episode on Paperboy, OS-level agent context, persistent memory, proactive agents, IM/inbox-style interfaces, and the unfinished product form for human-agent collaboration.
@@ -36,6 +37,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic](entities/Anthropic.md) — AI company discussed alongside OpenAI in the episode's treatment of frontier models, agent tools, and enterprise deployment.
 - [Antler](entities/Antler.md) — Startup program where Peak AI's founding team formed and secured early funding.
 - [BCG](entities/BCG.md) — Consulting company referenced through Rolling AI partners' background and as contrast for AI-era agent delivery.
+- [Baijian](entities/Baijian.md) — Bairong Intelligence professional-service platform that gives experts digital employees and office systems.
+- [Bairong Intelligence](entities/BairongIntelligence.md) — Enterprise AI company using and selling digital employees across service, approval, risk-control, and professional-service workflows.
 - [Bitcoin](entities/Bitcoin.md) — Cryptocurrency asset discussed as a trading vehicle rather than a cash-flowing investment in the Simons episode.
 - [Boston Dynamics](entities/BostonDynamics.md) — Robotics company referenced through Shibo's admiration for Marc Raibert and autonomous robotics.
 - [ByteDance](entities/ByteDance.md) — Company behind Doubao, discussed through AI cost pressure, video capability, and paid membership strategy.
@@ -143,12 +146,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Youyou Agent](entities/YouyouAgent.md) — Digital-life agent experiment discussed as an early agent-native project.
 - [Youju](entities/Youju.md) — Podcast/project focused on AI games and AI interactive entertainment.
 - [Zhang Jiayuan](entities/ZhangJiayuan.md) — MultiCard founder discussing model orchestration, AI coding commoditization, roadmap taste, and retained human judgment.
+- [Zhang Shaofeng](entities/ZhangShaofeng.md) — Bairong Intelligence chair and CEO arguing for digital employees, outcome pricing, and practical enterprise AI rollout.
 - [Zeying](entities/Zeying.md) — MiniMax R&D engineer discussing interleaved thinking, multi-agent collaboration, and agent self-evolution.
 - [ZhenFund](entities/ZhengkeFund.md) — Investment firm associated with the host's AI investing role and Token Grant.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
 - [AI 3D Prototyping](concepts/AI3DPrototyping.md) — Possibility that AI lowers 3D game-production barriers enough for small teams to test richer prototypes.
+- [AI BPO Roll Up](concepts/AIBPORollUp.md) — Restructuring business-process outsourcing and professional services with agents, experts, and shared systems.
 - [AI Assisted Software Development Risk](concepts/AIAssistedSoftwareDevelopmentRisk.md) — Risk that AI-speed development still fails on migration, compatibility, and production engineering details.
 - [AI Coding Verification](concepts/AICodingVerification.md) — Engineering bottleneck that moves AI coding from generation speed to tests, review, maintainability, and responsibility.
 - [AI Commercialization Pressure](concepts/AICommercializationPressure.md) — Tension between model influence, training costs, ROI, and business accountability.
@@ -182,12 +187,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Community-Led SaaS Growth](concepts/CommunityLedSaaSGrowth.md) — SaaS growth through practitioner communities, trusted channels, service, and word of mouth.
 - [Companion Robots](concepts/CompanionRobots.md) — Robots designed primarily for emotional coexistence, social presence, and household relationship-building.
 - [Compliance Automation](concepts/ComplianceAutomation.md) — Software that helps companies prove and maintain security, privacy, compliance, and trust obligations with less manual work.
+- [Contact Center AI](concepts/ContactCenterAI.md) — Agent deployment in customer service, complaints, consultation, marketing, membership operations, calls, and messages.
 - [Context Engineering](concepts/ContextEngineering.md) — Practice of accumulating and shaping context as a durable advantage in AI work.
 - [Creation As Consumption](concepts/CreationAsConsumption.md) — Product-design idea that making with AI can itself be an entertainment experience.
 - [Customer Concentration Risk](concepts/CustomerConcentrationRisk.md) — SaaS risk where one large customer can distort roadmap, mission, or validation signals.
 - [Customer Pull](concepts/CustomerPull.md) — Demand signal where users return, follow up, refer others, or keep paying without constant founder pushing.
 - [Cryptocurrency Market Structure](concepts/CryptocurrencyMarketStructure.md) — Crypto-market features such as 24-hour trading, retail flows, and exchange fragmentation that create quant opportunities and risk.
 - [Data Portability And Sustainable Tools](concepts/DataPortabilityAndSustainableTools.md) — Product trust pattern based on exportability, local data, maintenance, and lower server dependence.
+- [Dark Office](concepts/DarkOffice.md) — Office-work automation analogy where agents perform defined white-collar and gray-collar workflows like a dark factory.
 - [Default Deny Security](concepts/DefaultDenySecurity.md) — Cybersecurity control pattern where software or behavior is blocked unless explicitly approved.
 - [Designed Agency In Games](concepts/DesignedAgencyInGames.md) — Game-design claim that fun choice comes from constraints, goals, feedback, and control rather than unlimited options.
 - [Demand Harvesting](concepts/DemandHarvesting.md) — Go-to-market pattern where startups capture already expressed buyer demand instead of first creating a new category.
@@ -225,6 +232,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Open Source AI Models](concepts/OpenSourceAIModels.md) — AI models released openly enough to support downstream adoption, fine-tuning, and ecosystem influence.
 - [On Device Fast Slow Brain](concepts/OnDeviceFastSlowBrain.md) — Edge AI architecture separating immediate behavior decisions from slower reasoning for low-latency embodied response.
 - [OS-Level Context](concepts/OSLevelContext.md) — Agent context gathered from the user's computer environment, including screens, input, apps, meetings, messages, and current activity.
+- [Outcome-Based AI Pricing](concepts/OutcomeBasedAIPricing.md) — Enterprise AI pricing based on delivered output, work volume, time, or transaction value rather than seats or custom projects.
 - [Passive Investing](concepts/PassiveInvesting.md) — Broad ETF and index-fund investing recommended for most ordinary investors as a low-friction alternative to active trading.
 - [Persistent Agent Memory](concepts/PersistentAgentMemory.md) — Durable user and work memory that lets agents retain context, taste, relationship boundaries, and recent activity across sessions.
 - [Pre-Product Selling](concepts/PreProductSelling.md) — Selling-first validation pattern using conversations, LOIs, trials, and prototypes before full production code exists.

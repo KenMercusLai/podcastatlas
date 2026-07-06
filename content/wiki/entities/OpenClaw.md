@@ -2,13 +2,15 @@
 title: "Open Claw"
 type: entity
 tags: [agent, ecosystem, china]
-sources: [dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]
+sources: [dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces]
 last_updated: 2026-07-06
 ---
 
 # Open Claw
 
 Open Claw is discussed together with [[OpenCloud]] in [[dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]] as part of the domestic agent wave that made Chinese users feel agents could keep working through accessible interaction surfaces. The source uses the OpenCloud/OpenClaw phenomenon to explain why memory, skills, and reliable harnesses suddenly became visible product concerns.
+
+[[weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces]] adds the enterprise-adoption version: [[ZhangShaofeng]] treats Open Claw as a second shock after [[DeepSeek]] that made traditional business owners imagine agent-driven [[DarkOffice]] workflows, while also exposing uncertainty about where to begin.
 
 ## Source Position
 - The source treats Open Claw as an early adoption context rather than the final agent form.
@@ -20,3 +22,4 @@ Open Claw is discussed together with [[OpenCloud]] in [[dang-women-zai-taolun-ha
 - [[HermesAgent]] — agent framework positioned as a response to memory and workflow problems.
 - [[PersistentAgentMemory]], [[AISkills]], and [[AgenticWorkflow]] — concepts surfaced through the OpenCloud/OpenClaw wave.
 - [[AgentFacingInterfaces]] — interface layer that made agent use more accessible.
+- [[DarkOffice]] and [[BusinessLedAITransformation]] — enterprise adoption themes added by the Bairong source.

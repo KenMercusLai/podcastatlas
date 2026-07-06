@@ -2,7 +2,7 @@
 title: "Agent-Facing Interfaces"
 type: concept
 tags: [agents, interfaces, cli, product-design]
-sources: [agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]
+sources: [agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces]
 last_updated: 2026-07-06
 ---
 
@@ -18,6 +18,8 @@ Agent-facing interfaces are the CLI, API, MCP-like, skill, and tool layers that 
 
 [[dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]] adds the Skill-plus-CLI sharing frame. The source argues that ordinary users may find skills plus CLI easier to write, share, and spread than protocol-first abstractions, while also describing Claude Code as moving toward [[OpenCloud]]-like reachability through IM, scheduled tasks, mobile control, and memory.
 
+[[weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces]] adds a plain enterprise requirement: old CRM, order-management, and office systems must expose APIs before [[DigitalEmployees]] can complete real tasks inside customer workflows.
+
 ## Key Claims
 - CLI was historically difficult for people but is comparatively natural for agents.
 - Agent-facing access can turn consumer services, enterprise tools, and local utilities into callable task components.
@@ -27,6 +29,7 @@ Agent-facing interfaces are the CLI, API, MCP-like, skill, and tool layers that 
 - Some agent interfaces may be ambient or embedded, such as autocomplete and meeting-prep prompts, rather than separate command centers.
 - CLI/Unix-style interfaces may be especially agent-native when the model can compose commands from well-represented training patterns.
 - Agent-facing interfaces need [[AgentIdentityAndAuthentication]] once agents invoke accounts, payments, or external services directly.
+- Enterprise deployment requires legacy systems to expose reliable APIs, not only new agent-native tools.
 
 ## Connections
 - [[HeadlessSoftware]] — product-design thesis that motivates agent-facing access.
@@ -37,3 +40,4 @@ Agent-facing interfaces are the CLI, API, MCP-like, skill, and tool layers that 
 - [[Paperboy]], [[OSLevelContext]], and [[HumanAgentCollaboration]] — example of agent interfaces built around personal context and existing work surfaces.
 - [[AgentHarness]] and [[KComputer]] — harness and virtual-computer layer where CLI-style surfaces become executable agent infrastructure.
 - [[OpenCloud]], [[OpenClaw]], and [[HermesAgent]] — domestic agent-product context where reachability, skills, and memory shape the interface expectation.
+- [[BairongIntelligence]], [[DigitalEmployees]], and [[BusinessLedAITransformation]] — enterprise case where API exposure is a rollout prerequisite.

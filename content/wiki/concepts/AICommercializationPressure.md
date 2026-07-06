@@ -2,7 +2,7 @@
 title: "AI Commercialization Pressure"
 type: concept
 tags: [ai, commercialization, strategy]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, community-led-saas-growth-how-ninety-hit-44m-arr, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan]
+sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, community-led-saas-growth-how-ninety-hit-44m-arr, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces]
 last_updated: 2026-07-06
 ---
 
@@ -18,6 +18,8 @@ AI commercialization pressure is the tension between technical influence, user a
 
 [[131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan]] adds the foundation-model startup version through [[StepFun]]. [[YinQi]] argues that pure 2B and pure software 2C are both hard paths for model companies with enormous R&D needs, because the revenue, margin, or data flywheel may not support the investment. His proposed route is [[AIPlusTerminals]], where cars, devices, and eventually robots create product pull, data, and a clearer commercial loop.
 
+[[weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces]] adds an enterprise-services version through [[BairongIntelligence]]. [[ZhangShaofeng]] argues that AI companies should avoid repeating traditional custom software economics and instead use [[OutcomeBasedAIPricing]] where customers pay for work output, usage, or transaction value.
+
 ## Key Claims
 - Open-source reputation alone may not justify sustained high-cost model training.
 - Commercialization pressure can change release timing, model scope, or product boundaries without necessarily ending open source.
@@ -28,6 +30,7 @@ AI commercialization pressure is the tension between technical influence, user a
 - AI IPOs turn technical narratives into public-market valuation tests.
 - Foundation-model companies need commercial paths that can support sustained frontier-model R&D, not only usage or reputation.
 - Terminals can be a commercialization strategy when they provide product pull, differentiated data, and room for hardware/software/model integration.
+- Enterprise AI commercialization may work better when the product is framed as completed work or service output rather than access to process software.
 
 ## Connections
 - [[LargeCompanyOpenSourceStrategy]] — strategic context where the pressure appears.
@@ -39,3 +42,4 @@ AI commercialization pressure is the tension between technical influence, user a
 - [[AIIPOValuation]], [[OpenAI]], and [[Anthropic]] — public-market version of the pressure.
 - [[StepFun]], [[QianliTechnology]], and [[AIPlusTerminals]] — foundation-model and terminal commercialization case.
 - [[LongChainAICompetition]] — broader competition frame where business closure is part of the model race.
+- [[BairongIntelligence]], [[OutcomeBasedAIPricing]], and [[AIBPORollUp]] — enterprise-service commercialization route.
