@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP25 中资外资哪家强：“一劳永逸”找“钱粮”（下）](sources/ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg.md) — Podcast crossover on Chinese-funded versus foreign-funded banks, bank hierarchy, matrix reporting, retail client segmentation, KYC, cross-border data, and compliance boundaries.
 - [EP57 美股动荡，东升西降？这回是走是留](sources/ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5.md) — Podcast episode on U.S. equity volatility, Trump/Fed policy pressure, mega-cap concentration, retail crowding, defensive dividend assets, index reentry discipline, and Hong Kong tech repricing.
 - [EP43 对话素人博主，原来财务和自由是分开的](sources/ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7lsklr3vmtbc4l-p.md) — Podcast episode on Xiaohongshu creator monetization, local lifestyle store reviews, ordinary creator income, and the difference between financial freedom and lifestyle freedom.
 - [72. 中文播客活化石与真OG](sources/zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1.md) — Podcast episode on Apple Podcasts' anniversary, podcast/live-radio history, AI programming's changing form, search-entry shifts, and display ergonomics for coding and office work.
@@ -208,6 +209,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Peter Lynch](entities/PeterLynch.md) — Fundamental investor used as a comparison point against Jim Simons's quantitative approach.
 - [QQ](entities/QQ.md) — Tencent messaging product used as the historical comparison for free-core, paid-membership internet services.
 - [Qianli Technology](entities/QianliTechnology.md) — AI-and-car terminal company chaired by Yin Qi and paired with StepFun's foundation-model strategy.
+- [钱粮胡同FM](entities/QianliangHutongFM.md) — Banking and finance podcast/show context for the EP25 YiLaoYongYi crossover on Chinese-funded and foreign-funded banks.
 - [Qwen](entities/Qwen.md) — Alibaba's open-source model family discussed as strategically important to Chinese AI and developer adoption.
 - [RecruiterBox](entities/RecruiterBox.md) — Recruiting SaaS company whose traction and compliance pain shaped Girish Redikar's later Sprinto thesis.
 - [Red Truck Orchards](entities/RedTruckOrchards.md) — Michigan cherry vinegar company using regional story, sampling, and simple use cases to create trial.
@@ -332,6 +334,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agentic Workflow](concepts/AgenticWorkflow.md) — Work pattern where AI agents use tools, context, and process state to complete real tasks.
 - [Assistive AI](concepts/AssistiveAI.md) — AI systems that reduce communication, accessibility, or ability barriers, grounded here by an unclear-speech repair prototype.
 - [Averaging Down](concepts/AveragingDown.md) — Adding to a losing active trade, framed as a risk-amplifying behavior distinct from diversified dollar-cost averaging.
+- [Bank Client Segmentation](concepts/BankClientSegmentation.md) — How banks separate customers by assets, service cost, risk, product suitability, and channel fit.
+- [Bank Organizational Hierarchy](concepts/BankOrganizationalHierarchy.md) — Rank, title, branch, and department structures that determine what a banking role actually means.
+- [Banking Compliance Boundaries](concepts/BankingComplianceBoundaries.md) — Practical limits on what bank employees, branches, and group entities can say, recommend, disclose, sell, or facilitate.
+- [Banking KYC Compliance](concepts/BankingKYCCompliance.md) — Customer identity, risk, tax, anti-money-laundering, and suitability work around bank account opening and monitoring.
 - [Big Company Halo](concepts/BigCompanyHalo.md) — Resume signal created by recognizable large-company internships, useful but incomplete without substantive work and direction.
 - [Building Public](concepts/BuildingPublic.md) — Sharing product progress publicly to find users, feedback, collaborators, and distribution before a product is complete.
 - [Business-Led AI Transformation](concepts/BusinessLedAITransformation.md) — Enterprise AI adoption pattern led by business pain, workflow redesign, and incentive change rather than IT ownership alone.
@@ -377,6 +383,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Financial AI Agents](concepts/FinancialAIAgents.md) — Compliance-bounded financial AI systems that filter information, explain context, and provide companionship without direct investment advice.
 - [Financial Freedom Vs Lifestyle Freedom](concepts/FinancialFreedomVsLifestyleFreedom.md) — Distinction between economic independence and lower-pressure daily autonomy through modest creator income and low fixed costs.
 - [Financial Gravity](concepts/FinancialGravity.md) — Pressure created by economic or status disparities that can redirect company behavior and mission.
+- [Foreign Banking In China](concepts/ForeignBankingInChina.md) — Operating model where international banks run Chinese-regulated local entities under both local rules and group standards.
 - [Founder Ego](concepts/FounderEgo.md) — Status-seeking founder pattern where fundraising, hiring, or public image outruns validated customer demand.
 - [Founder Product Fit](concepts/FounderProductFit.md) — Match between a founding team's strengths, credibility, interests, and go-to-market abilities and the product they choose.
 - [Founder Role Transition](concepts/FounderRoleTransition.md) — Shift from founder-as-everything-operator into bounded leadership, operator partnership, board, or brand roles as a company scales.
@@ -406,6 +413,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Market Efficiency](concepts/MarketEfficiency.md) — Frame for mostly efficient markets with small, temporary inefficiencies that quant systems try to exploit.
 - [Market Mean Reversion](concepts/MarketMeanReversion.md) — Valuation and cycle frame where prices far from historical anchors can revert or overshoot under stress.
 - [Market Regime Shift](concepts/MarketRegimeShift.md) — Market state changes where historical statistical patterns may stop working.
+- [Matrix Reporting](concepts/MatrixReporting.md) — Organizational structure where an employee answers to more than one management line, often local and functional or regional.
 - [Materials Pipeline Company](concepts/MaterialsPipelineCompany.md) — Business model that owns AI-discovered material IP pipelines rather than only selling discovery tools.
 - [Mega-Cap Concentration Risk](concepts/MegaCapConcentrationRisk.md) — Risk that broad U.S. indexes become fragile when performance and weight concentrate in a handful of technology giants.
 - [Mission Driven Customer Education](concepts/MissionDrivenCustomerEducation.md) — Marketing and trial work that translates values-driven products into practical customer benefits.
