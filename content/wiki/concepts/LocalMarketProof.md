@@ -1,0 +1,25 @@
+---
+title: "Local Market Proof"
+type: concept
+tags: [startup, distribution, cpg, go-to-market]
+sources: [advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e]
+last_updated: 2026-07-07
+---
+
+# Local Market Proof
+
+Local market proof is the practice of proving demand, channel fit, repeat behavior, and operating routines in a concentrated geography or channel before expanding broadly. In [[advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91]], [[SusanGriffinBlack]] repeatedly advises founders to work deeply in nearby or carefully chosen markets before spreading effort too thin.
+
+## Key Claims
+- Local proof is stronger than abstract market size because it exposes real buyer objections, reorder behavior, demos, referrals, logistics, and margin pressure.
+- For [[Yobi]], local proof means using [[RuchiGupta]]'s Chicago-area credibility to reach professionals who can educate and refer customers.
+- For [[CultureWineCompany]], local proof means choosing a small set of food-and-wine markets where restaurants, distributors, sommeliers, and buyers can be trained deeply.
+- For [[CaneDogCoffee]], local proof means selecting a practical international foothold, such as regional U.S. grocers or hotel-related introductions, instead of treating the whole U.S. as one market.
+- [[JustinsNutButter]] adds an earlier CPG version: Boulder-area stores, farmers markets, demos, and local Whole Foods work taught the product and distribution constraints before national scale.
+- [[ELFCosmetics]] adds a retail-test version: [[HEB]] proved that the brand could create incremental impulse sales before larger retail expansion.
+
+## Connections
+- [[RelationshipLedGrowth]] - local markets make relationship density and feedback loops easier to build.
+- [[CPGDistribution]], [[RetailShelfPlacement]], [[InStoreDemos]], and [[SalesVelocity]] - retail mechanics that local tests can reveal.
+- [[CustomerPull]], [[FastProductValidation]], and [[DistributionLedProductBuilding]] - broader validation and growth concepts.
+- [[Yobi]], [[CultureWineCompany]], [[CaneDogCoffee]], [[JustinsNutButter]], and [[ELFCosmetics]] - cases where concentrated proof matters.

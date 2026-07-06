@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Advice Line with Susan Griffin-Black of EO Products](sources/advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91.md) — Podcast episode on Susan Griffin-Black, EO Products, relationship-led local growth, Yobi, Culture Wine Company, and Cane Dog Coffee.
 - [e.l.f. Cosmetics: Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant](sources/e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e.md) — Podcast episode on Joey Shamah, Scott Vincent Borba, e.l.f. Cosmetics, low-price beauty, media-driven e-commerce, H-E-B/Target retail validation, and private equity transitions.
 - [EP102 对话 Una：全球头部思维导图 App Store 运营负责人亲授 ASO 实战经验](sources/ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug.md) — Podcast episode on Una, FocusFly, App Store optimization, keyword strategy, product-page conversion, ratings/reviews, and Apple Search Ads.
 - [EP119 对话小孙：骑行800公里把自己救出深渊：宁愿每天工作22小时，我也不想再上班了](sources/ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2.md) — Podcast episode on XiaoSun, self-directed work, CreateWise, founder cash-flow pressure, digital-nomad community building, and an 800-kilometer cycling self-rescue.
@@ -60,6 +61,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Susan Griffin-Black](entities/SusanGriffinBlack.md) — EO Products founder and Advice Line guest emphasizing relationships, local proof, and crisis operating judgment.
+- [EO Products](entities/EOProducts.md) — Natural personal-care company whose COVID hand sanitizer surge and post-surge contraction frame Susan Griffin-Black's advice.
+- [Yobi](entities/Yobi.md) — Probiotic skin, scalp, and hair-care brand using a physician-founder story and professional channels to build trust.
+- [Ruchi Gupta](entities/RuchiGupta.md) — Physician, researcher, and Yobi founder whose medical and parent story anchors the brand's customer education.
+- [Culture Wine Company](entities/CultureWineCompany.md) — Importer and distributor reframing premium South African wine through restaurant, sommelier, and focus-market channels.
+- [Peter Andrews](entities/PeterAndrews.md) — Culture Wine Company founder working through wholesale, DTC, and category education for South African wine.
+- [Cane Dog Coffee](entities/CaneDogCoffee.md) — Barbados-based specialty coffee brand expanding from local hospitality channels toward focused international tests.
+- [Dominic Windham-Giddens](entities/DominicWindhamGiddens.md) — Cane Dog Coffee co-founder asking how to scale internationally while remaining based in Barbados.
 - [e.l.f. Cosmetics](entities/ELFCosmetics.md) — Value beauty brand built around one-dollar cosmetics, media-driven demand, retail proof, and later private-equity transition.
 - [Joey Shamah](entities/JoeyShamah.md) — e.l.f. Cosmetics co-founder and How I Built This guest discussing sourcing, retail validation, cash pressure, and post-exit companies.
 - [Scott Vincent Borba](entities/ScottVincentBorba.md) — e.l.f. Cosmetics co-founder whose beauty-industry experience shaped the original value cosmetics idea.
@@ -498,6 +507,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Leverage-Driven Bull Market](concepts/LeverageDrivenBullMarket.md) — Rally pattern where margin finance, off-market financing, or borrowed money amplifies gains and later forced selling.
 - [Lifestyle Subsidy Creator Work](concepts/LifestyleSubsidyCreatorWork.md) — Creator work that lowers living costs or expands experiences without necessarily replacing a main income.
 - [Local Lifestyle Store Reviews](concepts/LocalLifestyleStoreReviews.md) — Local merchant review workflow where creators turn meals, shops, hotels, services, and check-in scenes into platform posts.
+- [Local Market Proof](concepts/LocalMarketProof.md) — Proving demand, channel fit, repeat behavior, and operating routines in a concentrated market before broad expansion.
 - [Long-Chain AI Competition](concepts/LongChainAICompetition.md) — Foundation-model competition across model capability, talent, compute, commercial closure, terminal pull, data, and organization.
 - [Market Efficiency](concepts/MarketEfficiency.md) — Frame for mostly efficient markets with small, temporary inefficiencies that quant systems try to exploit.
 - [Market Mean Reversion](concepts/MarketMeanReversion.md) — Valuation and cycle frame where prices far from historical anchors can revert or overshoot under stress.
@@ -537,6 +547,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [QDII Allocation](concepts/QDIIAllocation.md) — Overseas-allocation problem where quota scarcity must be separated from asset price, duration, and currency risk.
 - [Quantitative Investing](concepts/QuantitativeInvesting.md) — Data- and model-driven investing based on repeated small statistical edges, execution, and risk control.
 - [Quantitative Overfitting](concepts/QuantitativeOverfitting.md) — Failure mode where a trading rule fits historical data but lacks robust out-of-sample value.
+- [Relationship-Led Growth](concepts/RelationshipLedGrowth.md) — Growth pattern where trust with vendors, channel partners, professionals, buyers, and communities becomes part of the engine.
 - [Retail Bull Market Psychology](concepts/RetailBullMarketPsychology.md) — Ordinary-investor FOMO pattern where visible gains, social proof, and weak memory of past losses pull people into bull markets late.
 - [Retail Investor Crowding](concepts/RetailInvestorCrowding.md) — Behavioral and positioning risk from unusually heavy ordinary-investor participation in high-valuation markets.
 - [Retail Shelf Placement](concepts/RetailShelfPlacement.md) — CPG issue where a product's shopper meaning changes depending on where it appears in the store.
