@@ -1,0 +1,26 @@
+---
+title: "Startup Governance"
+type: concept
+tags: [startup, governance, mission, founders]
+sources: [eric-ries-on-how-founders-quietly-lose-their-company]
+last_updated: 2026-07-06
+---
+
+# Startup Governance
+
+Startup governance is the operating system of power inside a company: charter language, board design, control rights, stakeholder commitments, mission interpretation, and the cultural norms that determine how decisions are made. In [[eric-ries-on-how-founders-quietly-lose-their-company]], [[EricRies]] argues that founders should treat governance as practical founder protection rather than late-stage legal housekeeping.
+
+## Key Claims
+- Standard startup documents often leave purpose broad, which can later be interpreted through [[ShareholderPrimacy]] and investor expectations.
+- Mission-driven founders should define the mission early, write it into governing documents, and ensure co-founders, lawyers, board members, and employees share the same interpretation.
+- Public benefit corporation conversion is presented as a useful early filing, but only one part of a broader governance fortress.
+- Cultural commitments matter because documents cannot protect a company if employees, investors, customers, and board members do not understand who the company would rather fail than betray.
+- The [[OpenAI]] case shows that paper authority can collapse when real power sits with employees, commercial partners, investors, and competing mission interpretations.
+
+## Connections
+- [[EricRies]] - source of the governance frame.
+- [[FinancialGravity]] - pressure pattern governance is meant to withstand.
+- [[ShareholderPrimacy]] - default legal-market logic governance may need to constrain.
+- [[CustomerConcentrationRisk]] - operating risk governance should detect before it becomes strategic drift.
+- [[LongTermStockExchange]] - case where shared ethos helped resist outside pressure.
+- [[OpenAI]] - case where formal authority and actual power diverged.
