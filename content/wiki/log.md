@@ -87,3 +87,11 @@ Added source page for a Shizilukou Crossing and Youju crossover episode on AI in
 ## [2026-07-06] ingest | 人类和 AI Agent 的最佳配合方式，还没被发明｜对谈 Paperboy
 
 Added source page for a Shizilukou Crossing episode on Paperboy, Jiang Yang, Jie Dechen, OS-level agent context, persistent memory, proactive agents, IM/inbox-style interfaces, Slack complementarity, and the unfinished product form for human-agent collaboration. Created supporting pages for Paperboy, Jiang Yang, Jie Dechen, Millian, Same.Dev, EarthKit, Slack, human-agent collaboration, OS-level context, persistent agent memory, and proactive agents; updated overview, index, log, Shizilukou Crossing, agentic workflow, context engineering, agent-facing interfaces, headless software, digital employees, AI organization design, and relevant OpenAI/Anthropic/Codex/Cursor/Claude Code/Manus/WeChat pages.
+
+## [2026-07-06] ingest | 探秘 Claude Code，搞懂 Agent Harness｜对谈来新璐
+
+Added source page for a Shizilukou Crossing episode on Claude Code, agent harness layers, CLI/Unix-style interfaces, memory, skills, context compression, multi-agent governance, K Computer, agent payment, hybrid networking, and zero-person company speculation. Created supporting pages for Lai Xinlu, Share AI, Learn Claude Code, K Computer, and Agent Harness; updated overview, index, Shizilukou Crossing, Claude Code, Anthropic, Manus, Youyou Agent, agent-facing interfaces, agentic workflow, headless software, model-harness co-evolution, persistent agent memory, context engineering, AI skills, subagent workflow, and agentic economy pages.
+
+## [2026-07-06] graph | Knowledge graph rebuilt
+
+233 nodes, 1776 edges (1776 extracted, 0 inferred).
