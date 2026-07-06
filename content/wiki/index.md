@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP22 夜袭银行，成功概率几何？](sources/ep22-yexi-yinhang-chenggong-gailv-jihe-ljox1mobpxs3wh4n3du6awzuskef.md) — Podcast episode on bank branch after-hours work, cash logistics, ATM operations, branch security controls, hierarchy, VIP thresholds, and why physical bank robbery has poor practical odds.
 - [EP21 谁在狱中？谁在巅峰？周期中的一粒灰，金融人的喜与悲](sources/ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq.md) — Podcast episode on finance career risk, third-party wealth platforms, employee misconduct controls, investor education, independent consulting, and career portability.
 - [EP18 都是黄泉预约客，保险买对心安乐](sources/ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw.md) — Podcast episode on insurance as household risk transfer, term life and family responsibility, health and high-end medical coverage, savings-style insurance, overseas policy risk, and sales-channel trust.
 - [EP44 摸摸口袋，里面的钱居然是脏的？](sources/ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr.md) — Podcast episode on anti-money laundering, laundering stages, account misuse, cross-border transfer risk, consumer AML exposure, virtual assets, and underground money-transfer traps.
@@ -174,6 +175,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [曼妮森](entities/Mannisen.md) — YiLaoYongYi host giving the senior workplace perspective on internships, communication norms, and career direction filtering.
 - [Mark Abbott](entities/MarkAbbott.md) — Founder of Ninety, discussing EOS, community-led growth, funding, hiring, and AI strategy.
 - [Marius Miners](entities/MariusMiners.md) — Founder of Peak AI, discussing AI search analytics, fast validation, pre-product selling, and category timing.
+- [Magic / 杰克](entities/MagicJack.md) — Banking practitioner guest explaining branch cash work, ATM operations, branch security, and Chinese-funded versus foreign-funded bank experience.
 - [MatterGen](entities/MatterGen.md) — Materials-generation model example used to discuss scalable diffusion-based candidate generation.
 - [MatterSim](entities/MatterSim.md) — Materials simulation/model example used to discuss cross-property generalization in AI materials discovery.
 - [Matt Leeds](entities/MattLeeds.md) — Forward Consumer Partners figure who approached Justin Gold about returning to Justin's Nut Butter.
@@ -348,6 +350,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Assistive AI](concepts/AssistiveAI.md) — AI systems that reduce communication, accessibility, or ability barriers, grounded here by an unclear-speech repair prototype.
 - [Aviation Safety Rules](concepts/AviationSafetyRules.md) — Passenger-facing flight rules whose rationale lies in security, fire, evacuation, impact, turbulence, and decompression risk.
 - [Averaging Down](concepts/AveragingDown.md) — Adding to a losing active trade, framed as a risk-amplifying behavior distinct from diversified dollar-cost averaging.
+- [ATM Operations](concepts/ATMOperations.md) — Bank routines for clearing, balancing, replenishing, repairing, and monitoring automated teller machines.
+- [Bank Branch After-Hours Work](concepts/BankBranchAfterHoursWork.md) — Operational labor that continues before opening and after customer-facing branch service ends.
+- [Bank Branch Security Controls](concepts/BankBranchSecurityControls.md) — Physical, procedural, and digital safeguards used to protect bank branch staff, cash, systems, and records.
+- [Bank Cash Logistics](concepts/BankCashLogistics.md) — Branch-level system for preparing, counting, reserving, moving, storing, and limiting physical cash.
 - [Bank Client Segmentation](concepts/BankClientSegmentation.md) — How banks separate customers by assets, service cost, risk, product suitability, and channel fit.
 - [Bank Organizational Hierarchy](concepts/BankOrganizationalHierarchy.md) — Rank, title, branch, and department structures that determine what a banking role actually means.
 - [Banking Compliance Boundaries](concepts/BankingComplianceBoundaries.md) — Practical limits on what bank employees, branches, and group entities can say, recommend, disclose, sell, or facilitate.

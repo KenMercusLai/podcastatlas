@@ -235,3 +235,15 @@ Added source page for a YiLaoYongYi episode on insurance as household risk trans
 ## [2026-07-07] ingest | EP21 谁在狱中？谁在巅峰？周期中的一粒灰，金融人的喜与悲
 
 Added source page for a YiLaoYongYi episode on finance career risk, Zhongzhi Group as a platform-risk hook, third-party wealth platforms, high commissions and high-yield narratives, employee misconduct controls, investor education, independent investment consulting, and finance career portability. Created supporting pages for 中植集团, Financial Career Risk, Third-Party Wealth Platform Risk, Financial Employee Misconduct Controls, Independent Investment Consulting, Investor Education, and Finance Career Portability; updated overview, index, YiLaoYongYi, Xiaodai, LaoMai, banking compliance boundaries, workplace hidden rules, and bank organizational hierarchy pages.
+
+## [2026-07-07] ingest | EP22 夜袭银行，成功概率几何？
+
+Added source page for a YiLaoYongYi episode on bank branch after-hours work, cash logistics, large-withdrawal reservation, vault and armored transport routines, branch security controls, ATM clearing and replenishment, bank hierarchy, VIP thresholds, and customer gift management. Created supporting pages for Magic / 杰克, Bank Branch After-Hours Work, Bank Cash Logistics, Bank Branch Security Controls, and ATM Operations; updated overview, index, YiLaoYongYi, bank hierarchy, client segmentation, foreign-bank, compliance-boundary, and employee-control pages.
+
+## [2026-07-07] graph | Knowledge graph rebuilt
+
+517 nodes, 4285 edges (4285 extracted, 0 inferred).
+
+## [2026-07-07] report | Graph health report generated
+
+517 nodes analyzed.
