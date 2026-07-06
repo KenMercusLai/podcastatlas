@@ -2,7 +2,7 @@
 title: "Human-Agent Collaboration"
 type: concept
 tags: [agents, collaboration, product-design]
-sources: [renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]
+sources: [renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6]
 last_updated: 2026-07-07
 ---
 
@@ -14,6 +14,8 @@ Human-agent collaboration is the product-design problem at the center of [[renle
 
 [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] adds a negative boundary: the hosts say voice/chat with [[Gemini]] and [[ChatGPT]] often becomes too convergent, all-knowing, and wiki-like. The missing value is not only task completion, but the divergent misunderstanding, surprise, social trust, and long-horizon relationship effects that human conversation can produce.
 
+[[openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6]] adds [[AirJelly]]'s proactive collaboration model. Instead of asking the user to prompt, AirJelly tries to notice [[IntentContext]] when the user presses Enter, preserve task state as [[PersistentAgentMemory]], and help at the right time. The source treats collaboration as a timing and perception problem as much as an execution problem.
+
 ## Key Claims
 - The collaboration target is a moving one because every new product reveals new expectations and pain points.
 - Users should not have to repeatedly dump files, emails, and personal context into a chat box.
@@ -22,6 +24,7 @@ Human-agent collaboration is the product-design problem at the center of [[renle
 - Human-agent collaboration changes across time horizons: autocomplete may help second-scale tasks, while longer tasks need different forms of delegation, monitoring, and synthesis.
 - Personal-agent collaboration depends on [[AgentPermissionBoundaries]] because the same familiarity that makes an agent useful can expose private data or accounts.
 - Better collaboration must account for social and creative value, not only whether the assistant gives a correct answer quickly.
+- Proactive collaboration should continue the user's current task rather than creating unrelated curiosity work or extra cognitive load.
 
 ## Connections
 - [[AgenticWorkflow]] — practical workflow pattern that human-agent collaboration extends.
@@ -30,3 +33,4 @@ Human-agent collaboration is the product-design problem at the center of [[renle
 - [[DigitalEmployees]] — enterprise form of agent collaboration with role, management, and responsibility boundaries.
 - [[OpenClaw]], [[ProactiveAgents]], and [[AgentNativeSoftware]] — personal-agent product form added by the Fengyan Fengyu source.
 - [[Gemini]], [[ChatGPT]], and [[Superpowers]] — conversation and orchestration cases added by Vol. 166.
+- [[AirJelly]], [[IntentContext]], and [[OSLevelContext]] — proactive collaboration case added by the AirJelly source.

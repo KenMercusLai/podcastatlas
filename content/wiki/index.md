@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [OpenClaw 之后，谁将定义主动式 AI 的新战场？｜对谈 AirJelly 黄柏特](sources/openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6.md) — Podcast episode on AirJelly, proactive AI, intent-triggered context, persistent personal-agent memory, OpenClaw's product shock, privacy, and AI-native team workflows.
 - [EP124 为什么 Agent 时代，CLI 反而成了最优解？⚡](sources/ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax.md) — Podcast episode on Podwise CLI/Skills, agent-optimized CLI design, pipeable text interfaces, discovery commands, structured output, actionable errors, and why CLI can outperform API/SDK-style integration for agents.
 - [EP46 历次牛市众生相：措手不及的幸福能持续多久？](sources/ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2.md) — Podcast episode on A-share bull-market history, policy-driven rallies, leverage-driven cycles, retail bull-market psychology, and why policy support still needs fundamentals and risk discipline.
 - [EP22 夜袭银行，成功概率几何？](sources/ep22-yexi-yinhang-chenggong-gailv-jihe-ljox1mobpxs3wh4n3du6awzuskef.md) — Podcast episode on bank branch after-hours work, cash logistics, ATM operations, branch security controls, hierarchy, VIP thresholds, and why physical bank robbery has poor practical odds.
@@ -71,6 +72,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic](entities/Anthropic.md) — AI company discussed alongside OpenAI in the episode's treatment of frontier models, agent tools, and enterprise deployment.
 - [Apple](entities/Apple.md) — Platform company discussed through WWDC expectations, Siri, iPhone ecosystem history, Apple Podcasts/iTunes/iPod media history, and Buffett/Berkshire market sentiment.
 - [Antler](entities/Antler.md) — Startup program where Peak AI's founding team formed and secured early funding.
+- [AirJelly](entities/AirJelly.md) — Proactive context-aware personal-agent startup using intent-triggered screen context, memory, and execution ability.
 - [Atoom](entities/Atoom.md) — Attention-aware interface prototype from the Xiaohongshu hackathon that dynamically reorganizes web pages around what the user should focus on.
 - [BCG](entities/BCG.md) — Consulting company referenced through Rolling AI partners' background and as contrast for AI-era agent delivery.
 - [Baijian](entities/Baijian.md) — Bairong Intelligence professional-service platform that gives experts digital employees and office systems.
@@ -132,6 +134,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hermes Agent](entities/HermesAgent.md) — Open-source agent framework discussed through persistent memory, tools, workflow skills, and self-improving harness loops.
 - [Hormel](entities/Hormel.md) — Food company that acquired Justin's Nut Butter in 2016 and later retained a significant stake under Forward Consumer Partners control.
 - [How I Built This](entities/HowIBuiltThis.md) — Startup interview podcast/show context for the Justin Gold and Justin's Nut Butter episode.
+- [Huang Bote](entities/HuangBote.md) — AirJelly founder arguing that proactive agents need intent context, OS-level context, persistent memory, and privacy-aware execution.
 - [Huang Biwei](entities/HuangBiwei.md) — Aether AI founder and causal AI researcher arguing for causal world models as the robot-brain route.
 - [Immersive Translate](entities/ImmersiveTranslate.md) — AI translation tool used as the episode's main example for webpages, PDFs, subtitles, OCR, and manga.
 - [iPhone](entities/IPhone.md) — Apple smartphone product that reset handset competition around touch UI, app ecosystems, and platform coherence.
@@ -190,6 +193,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Microsoft](entities/Microsoft.md) — Cloud and AI infrastructure buyer discussed through Nvidia demand and hyperscaler capex assumptions.
 - [MiHoYo](entities/MiHoYo.md) — Chinese game company discussed through technical AI experimentation and the Xingbugudi AI NPC example.
 - [Mingwei](entities/Mingwei.md) — Hackathon contestant exploring anime-style heads as emotional interfaces for future embodied AI and agents.
+- [Mycontext](entities/Mycontext.md) — Open-source context-capture project using periodic screenshots, discussed as AirJelly's predecessor.
 - [MiniMax](entities/MiniMax.md) — AI model company discussed through M1/M2/M3 iteration, developer workflows, scaling, domain experts, and interpretability.
 - [MiniMax M3](entities/MiniMaxM3.md) — MiniMax model discussed as a coding component inside cost-aware, multi-model AI workflows.
 - [MultiCard](entities/MultiCard.md) — AI workflow company represented by Zhang Jiayuan and used as a case for model orchestration and maintainer-led AI coding.
@@ -220,6 +224,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Peter Lynch](entities/PeterLynch.md) — Fundamental investor used as a comparison point against Jim Simons's quantitative approach.
 - [Podwise](entities/Podwise.md) — AI podcast-learning tool discussed through CLI, Skills, agent workflows, and knowledge-management export.
 - [QQ](entities/QQ.md) — Tencent messaging product used as the historical comparison for free-core, paid-membership internet services.
+- [QuickStone](entities/QuickStone.md) — Investment firm connected to Yihao's proactive AI and agent-infrastructure thesis around AirJelly.
 - [Qianli Technology](entities/QianliTechnology.md) — AI-and-car terminal company chaired by Yin Qi and paired with StepFun's foundation-model strategy.
 - [钱粮胡同FM](entities/QianliangHutongFM.md) — Banking and finance podcast/show context for the EP25 YiLaoYongYi crossover on Chinese-funded and foreign-funded banks.
 - [前途无量](entities/QianTuWuLiang.md) — Financial drama used by EP44 as a hook for discussing bank fraud, fund flows, AML, and laundering stages.
@@ -291,6 +296,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Xingbugudi](entities/Xingbugudi.md) — MiHoYo product example where an AI NPC acts as character IP and multiplayer social infrastructure.
 - [Yan Junjie](entities/YanJunjie.md) — MiniMax founder and CEO discussing model iteration, productivity, scaling, domain experts, agents, and AI interpretability.
 - [Ye Bowen](entities/YeBowen.md) — Student and independent developer who won the Xiaohongshu hackathon with Party Guitar.
+- [Yihao](entities/Yihao.md) — AirJelly angel investor discussing proactive AI, agent infrastructure, context hardware, and AI-native VC work.
 - [YORO](entities/YORO.md) — AI interactive film/game example connected to video models and interactive content platforms.
 - [Yin Qi](entities/YinQi.md) — AI entrepreneur and chair of StepFun and Qianli Technology, discussing AI 1.0 lessons and foundation-model strategy.
 - [Yu Yang](entities/YuYang.md) — Financial-company technology leader discussing compliance-constrained financial AI agents and investing companionship.
@@ -441,6 +447,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Insurance Risk Transfer](concepts/InsuranceRiskTransfer.md) — Insurance frame that matches product categories to specific events, payout conditions, and household money needs.
 - [Insurance Sales Trust](concepts/InsuranceSalesTrust.md) — Buyer-side problem of evaluating insurance channels, incentives, specialization, and long-term service continuity.
 - [Interleaved Thinking](concepts/InterleavedThinking.md) — Agentic reasoning pattern where models act, observe environment/tool feedback, and re-plan.
+- [Intent Context](concepts/IntentContext.md) — High-signal context captured when a user explicitly expresses intent, used by proactive agents to act without generic interruption.
 - [Internal Transfer Strategy](concepts/InternalTransferStrategy.md) — Handling department moves as managed career transitions across current and receiving managers.
 - [Internship As Career Exploration](concepts/InternshipAsCareerExploration.md) — Using internships to test directions and stage goals instead of only soothing anxiety or decorating a resume.
 - [Investment Risk Management](concepts/InvestmentRiskManagement.md) — Position sizing, diversification, leverage control, automated rules, and emotional discipline for surviving uncertainty.

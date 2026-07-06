@@ -2,7 +2,7 @@
 title: "Open Claw"
 type: entity
 tags: [agent, ecosystem, china]
-sources: [dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]
+sources: [dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6]
 last_updated: 2026-07-07
 ---
 
@@ -14,11 +14,14 @@ Open Claw is discussed together with [[OpenCloud]] in [[dang-women-zai-taolun-ha
 
 [[vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]] adds a builder-centered personal-agent view. [[JustinYan]] first tries OpenClaw, then isolates it in a virtual machine and builds a simplified Telegram-focused version to understand why [[AgentNativeSoftware]] changes product design. The episode treats OpenClaw as an example where tools, channels, [[AISkills]], triggers, and permissions are the product surface around the agent rather than optional add-ons.
 
+[[openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6]] adds the [[AirJelly]] founder's view of OpenClaw as both shock and reference. [[HuangBote]] says OpenClaw and [[ClaudeCode]] made simplified task-execution and human-agent orchestration look easier for large products to cover, pushing AirJelly back toward [[IntentContext]], [[OSLevelContext]], and [[PersistentAgentMemory]] as the harder layer. He also treats OpenClaw's animal-like product form as evidence that personal agents may benefit from an "养成" relationship, where users tolerate imperfect early behavior while memory and familiarity accumulate.
+
 ## Source Position
 - The source treats Open Claw as an early adoption context rather than the final agent form.
 - Memory instability is presented as a pain point that helped [[HermesAgent]] attract attention.
 - The episode summarizes the core OpenCloud/OpenClaw expectation as an agent that is reachable, collaborative, and becomes more familiar with the user over time.
 - The Fengyan Fengyu source adds safety and product-design details: separate accounts, trusted versus agent-written skills, automatic versus explicit invocation, and token-cost concerns.
+- The AirJelly source adds a competitive lesson: execution-heavy agents may not be enough if they cannot perceive the user's current task, intent, and long-running personal context.
 
 ## Connections
 - [[OpenCloud]] — paired domestic agent phenomenon in the source.
@@ -27,3 +30,4 @@ Open Claw is discussed together with [[OpenCloud]] in [[dang-women-zai-taolun-ha
 - [[AgentFacingInterfaces]] — interface layer that made agent use more accessible.
 - [[DarkOffice]] and [[BusinessLedAITransformation]] — enterprise adoption themes added by the Bairong source.
 - [[AgentNativeSoftware]], [[OnDemandApps]], and [[AgentPermissionBoundaries]] — personal-agent product concepts added by the Fengyan Fengyu source.
+- [[AirJelly]], [[IntentContext]], [[OSLevelContext]], and [[PersistentAgentMemory]] — proactive-agent comparison added by the AirJelly episode.

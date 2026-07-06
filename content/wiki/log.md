@@ -255,3 +255,7 @@ Added source page for a YiLaoYongYi episode on A-share bull-market history, earl
 ## [2026-07-07] ingest | EP124 为什么 Agent 时代，CLI 反而成了最优解？⚡
 
 Added source page for a 硬地骇客 episode on Podwise CLI/Skills, agent-optimized CLI design, pipeable text interfaces, discovery commands, structured output, actionable errors, API-first SaaS architecture, deterministic CLI-side exports, and why CLI can be a strong agent-facing interface. Created supporting pages for Podwise and Agent-Optimized CLI; updated overview, index, 硬地骇客, Open Cloud, Codex, Claude Code, Agent-Facing Interfaces, AI Skills, Agent Harness, Agentic Workflow, Headless Software, and AI Inference Cost Structure.
+
+## [2026-07-07] ingest | OpenClaw 之后，谁将定义主动式 AI 的新战场？｜对谈 AirJelly 黄柏特
+
+Added source page for a Shizilukou Crossing episode on AirJelly, Huang Bote, proactive AI, intent-triggered context, event/entity memory, OpenClaw's product shock, privacy, AI-native team workflows, and Yihao/QuickStone's 2026 agent investment view. Created supporting pages for AirJelly, Huang Bote, Yihao, QuickStone, Mycontext, and Intent Context; updated overview, index, Shizilukou Crossing, ByteDance, OpenClaw, Proactive Agents, OS-Level Context, Persistent Agent Memory, Context Engineering, Agent Native Software, Human-Agent Collaboration, and AI Organization Design.

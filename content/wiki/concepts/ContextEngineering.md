@@ -2,7 +2,7 @@
 title: "Context Engineering"
 type: concept
 tags: [context, knowledge-management, agents]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, community-led-saas-growth-how-ninety-hit-44m-arr, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]
+sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, community-led-saas-growth-how-ninety-hit-44m-arr, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6]
 last_updated: 2026-07-07
 ---
 
@@ -13,6 +13,8 @@ Context engineering is the practice of accumulating, organizing, and refining th
 [[ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan]] adds the [[VibeCoding]] version. The source argues that good module boundaries and interface design help keep agent context tractable, and it contrasts [[GeminiCLI]]'s large-context behavior with [[Cursor]]'s likely chunking, indexing, and retrieval approach.
 
 [[ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]] adds a logging and observability version. The hosts argue that AI debugging improves when the user has asked the system to emit detailed logs, preserve test results, and document old-code behavior; without those traces, AI has too little context to diagnose logic errors that still compile and run.
+
+[[openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6]] adds the [[AirJelly]] version: context engineering is not only stuffing more material into a model, but deciding when context has enough signal to save. [[IntentContext]], event/entity extraction, memory merging, time decay, retrieval, and local privacy boundaries become product decisions for turning everyday computer activity into agent-usable context.
 
 ## Role In The Sources
 - [[KedaibiaoLizheng]] treats context as a personal, team, and company advantage.
@@ -27,6 +29,7 @@ Context engineering is the practice of accumulating, organizing, and refining th
 - [[GeminiCLI]] and [[Cursor]] show context as a coding-product choice between direct long-context loading and engineered retrieval/indexing.
 - [[ShengpaiNotice]] shows context as product/workflow knowledge made explicit enough for AI to implement a usable internal tool.
 - Detailed logs, tests, screenshots, and documentation become context assets for future AI debugging and refactoring.
+- AirJelly shows that the trigger for collecting context can be as important as the context itself; Enter-triggered capture tries to reduce random browsing noise.
 
 ## Connections
 - [[ForwardDeployedEngineer]] — enterprise deployment role that must map company context.
@@ -39,3 +42,4 @@ Context engineering is the practice of accumulating, organizing, and refining th
 - [[AgentHarness]] and [[KComputer]] — execution environment and context layer that agents use to continue work across tools and sessions.
 - [[VibeCoding]], [[GeminiCLI]], and [[AICodingVerification]] — coding-context case added by EP108.
 - [[AIEngineeringThinking]], [[ShengpaiNotice]], and [[WangDafu]] — logging, workflow, and operations-context case added by the Keji Luandun episode.
+- [[AirJelly]], [[IntentContext]], [[OSLevelContext]], and [[PersistentAgentMemory]] — personal-agent context capture and memory case added by the AirJelly episode.
