@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP39 风满楼下集：全球衰退慢慢逼近，严防死守步步为营！漫聊下半年美股、美债、汇率](sources/ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj.md) — Podcast episode on U.S. recession risk, AI equity valuation, QDII allocation, U.S. Treasury duration risk, currency risk, and RMB/USD policy.
 - [EP38 风满楼！全球资本市场巨幅动荡，腥风血雨时刻近在咫尺](sources/ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9.md) — Podcast episode on global market turmoil, yen carry trade unwinds, Japan's selloff, Fed rate-cut expectations, yield-curve inversion, Buffett's cash, and market mean reversion.
 - [Justin's Nut Butter: Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter.](sources/justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b.md) — Podcast episode on Justin Gold, Justin's Nut Butter, CPG distribution, retail shelf placement, squeeze-pack trial products, Starbucks, Hormel, and founder return after acquisition.
 - [EP36 第一批有毕业焦虑的00后，开始学会用实习「饮鸩止渴」](sources/ep36-di-yi-pi-you-biye-jiaolv-de-00-hou-kaishi-xuehui-yong-shixi-yinzhen-zhike-lj5s97tbtj2gly7oppujgsv3cgk8.md) — Podcast episode on post-2000s internship anxiety, workplace hidden rules, big-company resume signaling, dirty work, and using internships to filter future direction.
@@ -44,6 +45,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agan](entities/Agan.md) — Rolling AI partner discussing enterprise AI deployment, FDE work, and AI-era role changes.
 - [Alex Berman](entities/AlexBerman.md) — LinkedIn influencer partner associated with Tapio's distribution strategy.
 - [Alibaba](entities/Alibaba.md) — Large technology company discussed through Qwen, open source, organizational order, and talent management.
+- [Amazon](entities/Amazon.md) — Cloud and AI infrastructure buyer discussed through Nvidia demand and hyperscaler capex assumptions.
 - [Anthropic](entities/Anthropic.md) — AI company discussed alongside OpenAI in the episode's treatment of frontier models, agent tools, and enterprise deployment.
 - [Apple](entities/Apple.md) — Platform company discussed through WWDC expectations, Siri, possible Gemini integration, OS-level AI pressure, and later as a Buffett/Berkshire market-sentiment holding.
 - [Antler](entities/Antler.md) — Startup program where Peak AI's founding team formed and secured early funding.
@@ -94,6 +96,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hormel](entities/Hormel.md) — Food company that acquired Justin's Nut Butter in 2016 and later retained a significant stake under Forward Consumer Partners control.
 - [How I Built This](entities/HowIBuiltThis.md) — Startup interview podcast/show context for the Justin Gold and Justin's Nut Butter episode.
 - [Huang Biwei](entities/HuangBiwei.md) — Aether AI founder and causal AI researcher arguing for causal world models as the robot-brain route.
+- [Janet Yellen](entities/JanetYellen.md) — U.S. fiscal-policy figure discussed through short-term Treasury issuance and long-bond funding-cost timing.
+- [Jensen Huang](entities/JensenHuang.md) — Nvidia founder/CEO referenced through insider selling as one input in AI equity valuation risk.
 - [Jiang Yang](entities/JiangYang.md) — Paperboy founder arguing that human-agent collaboration needs OS-level context, persistent memory, and new interface forms.
 - [Jie Dechen](entities/JieDechen.md) — Paperboy founding engineer explaining OS-level memory, autocomplete, PR descriptions, and agent-tool competition.
 - [Jim Simons](entities/JimSimons.md) — Mathematician and Renaissance Technologies founder used to explain quantitative investing, risk control, and ordinary-investor limits.
@@ -136,6 +140,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [METR](entities/METR.md) — AI evaluation/research organization cited through an AI coding productivity study.
 - [Megvii](entities/Megvii.md) — AI 1.0 company used in Yin Qi's retrospective on technical strength, commercialization, strategic focus, and organization design.
 - [Millian](entities/Millian.md) — Jiang Yang's earlier React ecosystem DevTools startup mentioned as founder background.
+- [Microsoft](entities/Microsoft.md) — Cloud and AI infrastructure buyer discussed through Nvidia demand and hyperscaler capex assumptions.
 - [MiHoYo](entities/MiHoYo.md) — Chinese game company discussed through technical AI experimentation and the Xingbugudi AI NPC example.
 - [Mingwei](entities/Mingwei.md) — Hackathon contestant exploring anime-style heads as emotional interfaces for future embodied AI and agents.
 - [MiniMax](entities/MiniMax.md) — AI model company discussed through M1/M2/M3 iteration, developer workflows, scaling, domain experts, and interpretability.
@@ -147,6 +152,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NetEase](entities/NetEase.md) — Chinese game company mentioned as becoming more active in AI adoption.
 - [NewSpot](entities/NewSpot.md) — Justin Yan's software product contrasted with OpenClaw as a traditional app where agent lessons may improve research workflows.
 - [Ninety](entities/Ninety.md) — SaaS platform for leadership-team operating rhythms, built through the EOS ecosystem and now embedding AI.
+- [Nvidia](entities/Nvidia.md) — AI semiconductor company used as EP39's main case for separating company quality from stock valuation risk.
 - [OpenAI](entities/OpenAI.md) — Frontier AI company referenced in relation to agents, FDE, and AI market structure.
 - [Open Claw](entities/OpenClaw.md) — Domestic agent-wave project/context paired with Open Cloud in the Hermes Agent discussion.
 - [Open Cloud](entities/OpenCloud.md) — Domestic agent-era project/event discussed through skills, CLI friction, and ecosystem consensus.
@@ -156,6 +162,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Party Guitar](entities/PartyGuitar.md) — Winning portable chord-based music prototype from the Xiaohongshu hackathon.
 - [Peak AI](entities/PeakAI.md) — AI search analytics SaaS company discussed through rapid validation, GEO, and mid-market pricing.
 - [Perplexity](entities/Perplexity.md) — AI search tool discussed as one of the surfaces monitored by Peak AI.
+- [People's Bank of China](entities/PeoplesBankOfChina.md) — Central bank discussed through RMB exchange-rate stability and managed currency policy.
 - [Peter Burns](entities/PeterBurns.md) — Experienced food-company operator who joined Justin's Nut Butter and eventually became CEO.
 - [Peter Lynch](entities/PeterLynch.md) — Fundamental investor used as a comparison point against Jim Simons's quantitative approach.
 - [QQ](entities/QQ.md) — Tencent messaging product used as the historical comparison for free-core, paid-membership internet services.
@@ -195,6 +202,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Traction Tools](entities/TractionTools.md) — EOS-related software competitor discussed in relation to Ninety's licensing and positioning.
 - [Tweet Hunter](entities/TweetHunter.md) — Twitter-focused SaaS product that grew through Lucas's own use and a JK Molina distribution partnership.
 - [Type Type Maker](entities/TypeTypeMaker.md) — AI game-creation tool discussed as a fast prototyping and creator-platform example.
+- [U.S. Treasury](entities/USTreasury.md) — U.S. debt issuer discussed through short bills, long-bond supply, fiscal interest cost, and Treasury duration risk.
 - [UNFI](entities/UNFI.md) — Food distributor that created an early chicken-and-egg barrier for Justin's Nut Butter and Whole Foods placement.
 - [Vibe Song](entities/VibeSong.md) — Online vibe-coding competition platform prototype that turns hackathon building into a public participatory format.
 - [VMG](entities/VMG.md) — Investment group that backed Justin's Nut Butter with growth capital around 2012.
@@ -238,6 +246,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Commercialization Pressure](concepts/AICommercializationPressure.md) — Tension between model influence, training costs, ROI, and business accountability.
 - [AI Discovery SEO](concepts/AIDiscoverySEO.md) — Distribution idea that AI-mediated discovery still depends on public web signals, search results, posts, and mentions.
 - [AI Engineering Thinking](concepts/AIEngineeringThinking.md) — Practice of turning goals into requirements, tests, logs, docs, review, audit rules, and business handoffs before asking AI to execute.
+- [AI Equity Valuation Risk](concepts/AIEquityValuationRisk.md) — Public-market risk that real AI company quality is already priced too aggressively.
 - [AI For Science](concepts/AIForScience.md) — Investment direction focused on using AI for high-complexity scientific and industrial knowledge work.
 - [AI Game Industrialization](concepts/AIGameIndustrialization.md) — Warning that generated games still require stable systems, design iteration, testing, tuning, and player feedback.
 - [AI Governance And Compliance](concepts/AIGovernanceAndCompliance.md) — Extension of governance, risk, compliance, security, and privacy programs to AI systems, agents, and AI-enabled threats.
@@ -285,6 +294,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Customer Concentration Risk](concepts/CustomerConcentrationRisk.md) — SaaS risk where one large customer can distort roadmap, mission, or validation signals.
 - [Customer Pull](concepts/CustomerPull.md) — Demand signal where users return, follow up, refer others, or keep paying without constant founder pushing.
 - [Cryptocurrency Market Structure](concepts/CryptocurrencyMarketStructure.md) — Crypto-market features such as 24-hour trading, retail flows, and exchange fragmentation that create quant opportunities and risk.
+- [Currency Risk](concepts/CurrencyRisk.md) — Risk that exchange-rate moves change an investor's final return after converting back to their home currency.
 - [Data Portability And Sustainable Tools](concepts/DataPortabilityAndSustainableTools.md) — Product trust pattern based on exportability, local data, maintenance, and lower server dependence.
 - [Dark Office](concepts/DarkOffice.md) — Office-work automation analogy where agents perform defined white-collar and gray-collar workflows like a dark factory.
 - [Default Deny Security](concepts/DefaultDenySecurity.md) — Cybersecurity control pattern where software or behavior is blocked unless explicitly approved.
@@ -343,12 +353,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pre-Product Selling](concepts/PreProductSelling.md) — Selling-first validation pattern using conversations, LOIs, trials, and prototypes before full production code exists.
 - [Proactive Agents](concepts/ProactiveAgents.md) — Agents that use context and memory to help before the user fully specifies a task, while still requiring permission and review design.
 - [Product Led Willingness To Pay](concepts/ProductLedWillingnessToPay.md) — Claim that users pay when product value is clear, differentiated, stable, and trustworthy.
+- [QDII Allocation](concepts/QDIIAllocation.md) — Overseas-allocation problem where quota scarcity must be separated from asset price, duration, and currency risk.
 - [Quantitative Investing](concepts/QuantitativeInvesting.md) — Data- and model-driven investing based on repeated small statistical edges, execution, and risk control.
 - [Quantitative Overfitting](concepts/QuantitativeOverfitting.md) — Failure mode where a trading rule fits historical data but lacks robust out-of-sample value.
 - [Retail Shelf Placement](concepts/RetailShelfPlacement.md) — CPG issue where a product's shopper meaning changes depending on where it appears in the store.
+- [RMB Exchange Rate Policy](concepts/RMBExchangeRatePolicy.md) — Managed-stability frame for RMB/USD policy balancing capital flows, exports, and investor currency risk.
 - [Robot Liveliness](concepts/RobotLiveliness.md) — Product quality that makes a robot feel like an independent living-like presence rather than a configurable appliance.
 - [SaaS Holding Company](concepts/SaaSHoldingCompany.md) — Portfolio model for owning or building multiple SaaS products with shared customers, channels, and growth systems.
 - [SaaS Trust Moat](concepts/SaaSTrustMoat.md) — SaaS defensibility from trust, data, distribution, compliance, support, and operational reliability rather than code alone.
+- [Sahm Rule](concepts/SahmRule.md) — Unemployment-based recession indicator discussed as a warning signal with possible labor-supply distortion.
 - [Sales Velocity](concepts/SalesVelocity.md) — Rate at which a product sells through a channel, especially important when retail shelf space has opportunity cost.
 - [Search Advertising Decline](concepts/SearchAdvertisingDecline.md) — Weakening of keyword search ads as user intent, advertiser attention, and AI answers shift the old click path.
 - [Second Renaissance](concepts/SecondRenaissance.md) — Idea that AI may push people toward broader creative and generalist work.
@@ -361,7 +374,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Stablecoins](concepts/Stablecoins.md) — Crypto-dollar infrastructure discussed through payment demand, Treasury demand, issuer risk, and regulation.
 - [Startup Governance](concepts/StartupGovernance.md) — Founder protection system spanning mission, charter language, board design, real power, and cultural commitments.
 - [Subagent Workflow](concepts/SubagentWorkflow.md) — Agentic pattern that delegates heavy or adversarial work to background agents and integrates their outputs.
+- [Treasury Duration Risk](concepts/TreasuryDurationRisk.md) — Bond risk from rate sensitivity, long-bond supply, fiscal pressure, and currency effects despite a rate-cut-cycle setup.
 - [Trial Size Product](concepts/TrialSizeProduct.md) — Smaller, lower-commitment format that lets customers test a product before buying the full version.
+- [U.S. Recession Risk](concepts/USRecessionRisk.md) — Macro-risk frame using labor, manufacturing, consumption, leverage, policy, and market valuation signals.
 - [Validated Learning](concepts/ValidatedLearning.md) — Lean Startup principle that startups progress by testing assumptions against real customer behavior.
 - [Video Models](concepts/VideoModels.md) — AI video generation models discussed as a content-production and investment theme.
 - [Vibe Coding](concepts/VibeCoding.md) — AI-assisted coding practice whose value is capability expansion as much as speed.

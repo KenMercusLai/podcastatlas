@@ -2,13 +2,13 @@
 title: "Investment Risk Management"
 type: concept
 tags: [investing, risk]
-sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9]
+sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj]
 last_updated: 2026-07-07
 ---
 
 # Investment Risk Management
 
-Investment risk management is the practical bridge from market uncertainty to ordinary investor behavior. [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1]] argues that investors should focus less on finding brilliant predictions and more on staying solvent through small position sizes, diversification, low leverage, written rules, and emotional discipline. [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9]] adds the macro-stress version: when policy, currencies, leverage, derivatives, and crowded trades interact, humility and liquidity can matter more than calling the next direction.
+Investment risk management is the practical bridge from market uncertainty to ordinary investor behavior. [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1]] argues that investors should focus less on finding brilliant predictions and more on staying solvent through small position sizes, diversification, low leverage, written rules, and emotional discipline. [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9]] adds the macro-stress version: when policy, currencies, leverage, derivatives, and crowded trades interact, humility and liquidity can matter more than calling the next direction. [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj]] adds the allocation version: do not let QDII scarcity, AI enthusiasm, coupon yield, or exchange-rate anecdotes override price, duration, currency, and personal use-case discipline.
 
 ## Key Claims
 - Every trade has an informed or differently informed counterparty, so humility should be the starting point.
@@ -19,6 +19,9 @@ Investment risk management is the practical bridge from market uncertainty to or
 - Leverage and currency mismatch can make an apparently profitable trade fragile when [[YenCarryTrade]] conditions reverse.
 - Rate cuts should not be treated as automatically bullish because [[MonetaryPolicyLag]] and [[YieldCurveInversion]] can make easing a sign of damage already done.
 - A fast rebound after forced selling does not remove the need to manage exposure if [[DerivativeAmplifiedVolatility]] and crowded positioning remain.
+- Scarce overseas quota is not a reason to chase high-priced assets if the investor's macro view is cautious.
+- A defensive bond allocation must still account for [[TreasuryDurationRisk]], fund holdings, credit exposure, and [[CurrencyRisk]].
+- AI equity exposure requires separating technology adoption from current valuation through [[AIEquityValuationRisk]].
 
 ## Connections
 - [[JimSimons]] — source's voice for the principle.
@@ -27,3 +30,4 @@ Investment risk management is the practical bridge from market uncertainty to or
 - [[AIInvestmentResearch]] — AI can support understanding but does not remove risk responsibility.
 - [[YenCarryTrade]], [[CarryTradeUnwind]], and [[DerivativeAmplifiedVolatility]] — EP38's stress mechanisms.
 - [[MonetaryPolicyLag]], [[YieldCurveInversion]], and [[MarketMeanReversion]] — macro and valuation risks that complicate simple market timing.
+- [[QDIIAllocation]], [[AIEquityValuationRisk]], [[TreasuryDurationRisk]], [[CurrencyRisk]], and [[RMBExchangeRatePolicy]] — EP39's asset-allocation extensions.

@@ -2,13 +2,13 @@
 title: "一劳永逸"
 type: entity
 tags: [podcast, media]
-sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep36-di-yi-pi-you-biye-jiaolv-de-00-hou-kaishi-xuehui-yong-shixi-yinzhen-zhike-lj5s97tbtj2gly7oppujgsv3cgk8, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9]
+sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep36-di-yi-pi-you-biye-jiaolv-de-00-hou-kaishi-xuehui-yong-shixi-yinzhen-zhike-lj5s97tbtj2gly7oppujgsv3cgk8, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj]
 last_updated: 2026-07-07
 ---
 
 # 一劳永逸
 
-一劳永逸 is the podcast/show context for [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1]], [[ep36-di-yi-pi-you-biye-jiaolv-de-00-hou-kaishi-xuehui-yong-shixi-yinzhen-zhike-lj5s97tbtj2gly7oppujgsv3cgk8]], and [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9]]. The Simons source uses a fictional "time-travel investment master" interview format to explain [[JimSimons]], [[RenaissanceTechnologies]], and the practical limits of learning institutional [[QuantitativeInvesting]] as an ordinary investor. The internship source pairs [[Mannisen]] and [[Shuixian]] to examine [[GraduationAnxiety]], [[InternshipAsCareerExploration]], [[WorkplaceHiddenRules]], [[BigCompanyHalo]], and [[DirtyWork]]. EP38 returns to markets with [[LaoMai]] and [[Daxiong]], using global market turmoil to discuss [[YenCarryTrade]], [[CarryTradeUnwind]], [[YieldCurveInversion]], central-bank timing, and valuation risk.
+一劳永逸 is the podcast/show context for [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1]], [[ep36-di-yi-pi-you-biye-jiaolv-de-00-hou-kaishi-xuehui-yong-shixi-yinzhen-zhike-lj5s97tbtj2gly7oppujgsv3cgk8]], [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9]], and [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj]]. The Simons source uses a fictional "time-travel investment master" interview format to explain [[JimSimons]], [[RenaissanceTechnologies]], and the practical limits of learning institutional [[QuantitativeInvesting]] as an ordinary investor. The internship source pairs [[Mannisen]] and [[Shuixian]] to examine [[GraduationAnxiety]], [[InternshipAsCareerExploration]], [[WorkplaceHiddenRules]], [[BigCompanyHalo]], and [[DirtyWork]]. EP38 returns to markets with [[LaoMai]] and [[Daxiong]], using global market turmoil to discuss [[YenCarryTrade]], [[CarryTradeUnwind]], [[YieldCurveInversion]], central-bank timing, and valuation risk. EP39 continues the market thread into [[USRecessionRisk]], [[AIEquityValuationRisk]], [[QDIIAllocation]], [[TreasuryDurationRisk]], [[CurrencyRisk]], and [[RMBExchangeRatePolicy]].
 
 ## Connections
 - [[JimSimons]] — central figure of the episode.
@@ -19,3 +19,4 @@ last_updated: 2026-07-07
 - [[GraduationAnxiety]], [[InternshipAsCareerExploration]], [[WorkplaceHiddenRules]], [[BigCompanyHalo]], and [[DirtyWork]] — career-entry themes added by EP36.
 - [[LaoMai]] and [[Daxiong]] — speakers in EP38's market-turmoil discussion.
 - [[FederalReserve]], [[BankOfJapan]], [[YenCarryTrade]], [[CarryTradeUnwind]], and [[YieldCurveInversion]] — macro-market themes added by EP38.
+- [[USRecessionRisk]], [[AIEquityValuationRisk]], [[QDIIAllocation]], [[TreasuryDurationRisk]], [[CurrencyRisk]], and [[RMBExchangeRatePolicy]] — EP39's follow-up asset-allocation themes.

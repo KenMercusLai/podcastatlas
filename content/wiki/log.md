@@ -179,3 +179,7 @@ Added source page for a YiLaoYongYi episode on global market turmoil, Japanese e
 ## [2026-07-07] report | Graph health report generated
 
 364 nodes analyzed.
+
+## [2026-07-07] ingest | EP39 风满楼下集：全球衰退慢慢逼近，严防死守步步为营！漫聊下半年美股、美债、汇率
+
+Added source page for a YiLaoYongYi follow-up on U.S. recession risk, the Sahm Rule, AI equity valuation risk, Nvidia, QDII allocation, U.S. Treasury duration risk, currency risk, and RMB exchange-rate policy. Created supporting entity and concept pages for Nvidia, Jensen Huang, Microsoft, Amazon, U.S. Treasury, Janet Yellen, People's Bank of China, U.S. Recession Risk, Sahm Rule, AI Equity Valuation Risk, QDII Allocation, Treasury Duration Risk, Currency Risk, and RMB Exchange Rate Policy; updated overview, index, YiLaoYongYi, LaoMai, Daxiong, Federal Reserve, Bank of Japan, Investment Risk Management, Market Regime Shift, and AI IPO Valuation pages.
