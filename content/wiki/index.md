@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP102 对话 Una：全球头部思维导图 App Store 运营负责人亲授 ASO 实战经验](sources/ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug.md) — Podcast episode on Una, FocusFly, App Store optimization, keyword strategy, product-page conversion, ratings/reviews, and Apple Search Ads.
 - [EP119 对话小孙：骑行800公里把自己救出深渊：宁愿每天工作22小时，我也不想再上班了](sources/ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2.md) — Podcast episode on XiaoSun, self-directed work, CreateWise, founder cash-flow pressure, digital-nomad community building, and an 800-kilometer cycling self-rescue.
 - [OpenClaw 之后，谁将定义主动式 AI 的新战场？｜对谈 AirJelly 黄柏特](sources/openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6.md) — Podcast episode on AirJelly, proactive AI, intent-triggered context, persistent personal-agent memory, OpenClaw's product shock, privacy, and AI-native team workflows.
 - [EP124 为什么 Agent 时代，CLI 反而成了最优解？⚡](sources/ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax.md) — Podcast episode on Podwise CLI/Skills, agent-optimized CLI design, pipeable text interfaces, discovery commands, structured output, actionable errors, and why CLI can outperform API/SDK-style integration for agents.
@@ -72,6 +73,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Android](entities/Android.md) — Google-backed open smartphone operating system that became the non-Apple ecosystem after iPhone reset handset competition.
 - [Anthropic](entities/Anthropic.md) — AI company discussed alongside OpenAI in the episode's treatment of frontier models, agent tools, and enterprise deployment.
 - [Apple](entities/Apple.md) — Platform company discussed through WWDC expectations, Siri, iPhone ecosystem history, Apple Podcasts/iTunes/iPod media history, and Buffett/Berkshire market sentiment.
+- [App Store](entities/AppStore.md) — Apple marketplace discussed as a closed search-and-conversion platform for ASO, metadata, ratings, and paid search.
+- [Apple Search Ads](entities/AppleSearchAds.md) — App Store paid-search system used to test keywords and supplement organic ASO.
 - [Antler](entities/Antler.md) — Startup program where Peak AI's founding team formed and secured early funding.
 - [AirJelly](entities/AirJelly.md) — Proactive context-aware personal-agent startup using intent-triggered screen context, memory, and execution ability.
 - [Atoom](entities/Atoom.md) — Attention-aware interface prototype from the Xiaohongshu hackathon that dynamically reorganizes web pages around what the user should focus on.
@@ -117,6 +120,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Eric Ries](entities/EricRies.md) — Lean Startup author and Incorruptible author discussing validated learning, AI-era product economics, financial gravity, and founder governance.
 - [European Union](entities/EuropeanUnion.md) — European political and market context for language fragmentation, AI translation, regulation, and startup constraints.
 - [Federal Reserve](entities/FederalReserve.md) — U.S. central bank discussed through rate-cut expectations, policy lag, yield-curve inversion, and market interpretation of easing.
+- [FocusFly / 专注飞机](entities/FocusFly.md) — Una's focus-timer app using a flight metaphor and serving as EP102's ASO case.
 - [Forward Consumer Partners](entities/ForwardConsumerPartners.md) — Investment group that acquired a controlling stake in Justin's Nut Butter and brought Justin Gold back as owner, founder, and board member.
 - [枫言枫语](entities/FengyanFengyu.md) — Podcast/show context for the OpenClaw and self-built personal-agent episode.
 - [Gemini](entities/Gemini.md) — AI assistant/search surface discussed in Peak AI's market framing and Gemini CLI's coding context.
@@ -281,6 +285,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Type Type Maker](entities/TypeTypeMaker.md) — AI game-creation tool discussed as a fast prototyping and creator-platform example.
 - [U.S. Treasury](entities/USTreasury.md) — U.S. debt issuer discussed through short bills, long-bond supply, fiscal interest cost, and Treasury duration risk.
 - [UNFI](entities/UNFI.md) — Food distributor that created an early chicken-and-egg barrier for Justin's Nut Butter and Whole Foods placement.
+- [Una](entities/Una.md) — FocusFly founder and App Store operations practitioner explaining ASO, keyword strategy, conversion, ratings, and Apple Search Ads.
 - [Unilever](entities/Unilever.md) — Consumer-goods company that acquired Seventh Generation in 2016.
 - [Vibe Song](entities/VibeSong.md) — Online vibe-coding competition platform prototype that turns hackathon building into a public participatory format.
 - [VMG](entities/VMG.md) — Investment group that backed Justin's Nut Butter with growth capital around 2012.
@@ -367,6 +372,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agentic Economy](concepts/AgenticEconomy.md) — Infrastructure and economics for agent-to-service and agent-to-agent task execution.
 - [Agentic Workflow](concepts/AgenticWorkflow.md) — Work pattern where AI agents use tools, context, and process state to complete real tasks.
 - [Anti-Money Laundering](concepts/AntiMoneyLaundering.md) — Compliance frame for detecting, preventing, and investigating attempts to make illegal funds appear legitimate.
+- [App Store Keyword Strategy](concepts/AppStoreKeywordStrategy.md) — ASO practice of choosing brand, category, scenario, and competitor terms for constrained App Store metadata fields.
+- [App Store Optimization](concepts/AppStoreOptimization.md) — Mobile app-store growth discipline covering search visibility, product-page conversion, ratings, reviews, and paid search.
+- [App Store Product Page Conversion](concepts/AppStoreProductPageConversion.md) — ASO conversion layer where screenshots, icon, title, description, and trust convert store exposure into downloads.
+- [App Store Ratings And Reviews](concepts/AppStoreRatingsAndReviews.md) — App Store trust and feedback layer that affects user confidence, conversion, and possibly visibility.
 - [Assistive AI](concepts/AssistiveAI.md) — AI systems that reduce communication, accessibility, or ability barriers, grounded here by an unclear-speech repair prototype.
 - [Aviation Safety Rules](concepts/AviationSafetyRules.md) — Passenger-facing flight rules whose rationale lies in security, fire, evacuation, impact, turbulence, and decompression risk.
 - [Averaging Down](concepts/AveragingDown.md) — Adding to a losing active trade, framed as a risk-amplifying behavior distinct from diversified dollar-cost averaging.
