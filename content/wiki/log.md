@@ -195,3 +195,7 @@ Added source page for a YiLaoYongYi episode on upward management, boss-facing de
 ## [2026-07-07] ingest | 71. 编程的内燃机时代
 
 Added source page for a Neihe Konghuang episode on AI translation, language learning, task-as-a-service, programming's internal-combustion-era shift, AI coding verification, cloud-service hallucination risk, European AI industrial constraints, and post-automation craft. Created supporting entity and concept pages for the show, hosts, Immersive Translate, Europe/Germany references, A Brief History of Intelligence, AI translation, task-as-a-service, AI programming engine shift, and European AI industrial constraints; updated related AI coding, verification, headless software, agent-interface, model-scaling, open-source-model, and human-judgment pages.
+
+## [2026-07-07] ingest | 72. 中文播客活化石与真OG
+
+Added source page for a Neihe Konghuang episode on Apple Podcasts' anniversary, iPod/iTunes and campus-radio podcast history, listener feedback, AI programming's changing form, short-video and Xiaohongshu search-entry shifts, and monitor ergonomics for coding and office work. Created supporting concept pages for Podcast As Asynchronous Media and Display Ergonomics; updated overview, index, Neihe Konghuang, Wu Tao, Ryo, Apple, iPhone, Huaqiangbei, Baidu, Xiaohongshu, open-web traffic decline, search-ad decline, AI programming engine shift, vibe coding, AI coding verification, and human judgment pages.

@@ -2,7 +2,7 @@
 title: "Apple"
 type: entity
 tags: [company, platform, ai, investing, mobile]
-sources: [vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376]
+sources: [vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1]
 last_updated: 2026-07-07
 ---
 
@@ -14,12 +14,15 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 
 [[no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376]] adds Apple through [[IPhone]] as the mobile-platform turn that moved handset competition away from keypad form factors and toward touch UI, app ecosystems, and [[SmartphoneOperatingSystemEcosystems]].
 
+[[zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1]] adds Apple as a media and display platform. The episode uses Apple Podcasts' 20th anniversary, iTunes, iPod, iPod Touch, iPhone, and Retina vocabulary to connect podcast distribution, portable listening, device convergence, and [[DisplayErgonomics]].
+
 ## Source Position
 - The hosts expect Apple AI news to matter because iPhone-level distribution can change user behavior even if the underlying model comes from another provider.
 - If Siri becomes a capable device-level agent, utility apps and reminder-like tools may face platform-level pressure.
 - The source still leaves room for third-party innovation because platform changes can create new workflows and expectations.
 - The market-turmoil source treats Apple as part of the valuation and mega-cap concentration conversation around U.S. equities.
 - The handset-history source treats iPhone as the interface and ecosystem reset that exposed [[Motorola]] and [[Nokia]]'s old assumptions.
+- The podcast-history source treats Apple Podcasts, iTunes, and iPod as infrastructure for [[PodcastAsAsynchronousMedia]], while Retina becomes a practical display-sharpness reference.
 
 ## Connections
 - [[Siri]] — Apple assistant and platform entry point discussed in the source.
@@ -29,3 +32,4 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 - [[WarrenBuffett]] and [[BerkshireHathaway]] — investing context added by EP38.
 - [[MarketMeanReversion]] and [[InvestmentRiskManagement]] — risk frames around high-profile large-cap exposure.
 - [[IPhone]], [[Android]], and [[SmartphoneOperatingSystemEcosystems]] — mobile-platform history added by the handset episode.
+- [[PodcastAsAsynchronousMedia]] and [[DisplayErgonomics]] — media and monitor-choice themes added by the Neihe Konghuang episode 72.

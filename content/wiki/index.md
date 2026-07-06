@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [72. 中文播客活化石与真OG](sources/zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1.md) — Podcast episode on Apple Podcasts' anniversary, podcast/live-radio history, AI programming's changing form, search-entry shifts, and display ergonomics for coding and office work.
 - [71. 编程的内燃机时代](sources/biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1.md) — Podcast episode on AI translation, task-as-a-service, programming's internal-combustion-era shift, AI coding verification, and European AI industrial constraints.
 - [EP41 成就职场大圣：远离天命，掌握向上管理](sources/ep41-chengjiu-zhichang-dasheng-yuanli-tianming-zhangwo-xiangshang-guanli-lrkefagxfcan-faiyoalofhevidp.md) — Podcast episode on upward management, boss-facing communication, promotion expectation setting, internal transfers, and workplace power navigation.
 - [No.208 中国手机江湖·上：摩托罗拉、诺基亚和爱立信的诸神黄昏 | 中国互联网故事23](sources/no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376.md) — Podcast episode on Chinese mobile-phone prehistory, Motorola, Nokia, Ericsson, GSM, Symbian, iPhone/Android, MediaTek, Huaqiangbei, shanzhai phones, and domestic handset supply chains.
@@ -53,12 +54,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Amazon](entities/Amazon.md) — Cloud and AI infrastructure buyer discussed through Nvidia demand and hyperscaler capex assumptions.
 - [Android](entities/Android.md) — Google-backed open smartphone operating system that became the non-Apple ecosystem after iPhone reset handset competition.
 - [Anthropic](entities/Anthropic.md) — AI company discussed alongside OpenAI in the episode's treatment of frontier models, agent tools, and enterprise deployment.
-- [Apple](entities/Apple.md) — Platform company discussed through WWDC expectations, Siri, possible Gemini integration, OS-level AI pressure, and later as a Buffett/Berkshire market-sentiment holding.
+- [Apple](entities/Apple.md) — Platform company discussed through WWDC expectations, Siri, iPhone ecosystem history, Apple Podcasts/iTunes/iPod media history, and Buffett/Berkshire market sentiment.
 - [Antler](entities/Antler.md) — Startup program where Peak AI's founding team formed and secured early funding.
 - [Atoom](entities/Atoom.md) — Attention-aware interface prototype from the Xiaohongshu hackathon that dynamically reorganizes web pages around what the user should focus on.
 - [BCG](entities/BCG.md) — Consulting company referenced through Rolling AI partners' background and as contrast for AI-era agent delivery.
 - [Baijian](entities/Baijian.md) — Bairong Intelligence professional-service platform that gives experts digital employees and office systems.
-- [Baidu](entities/Baidu.md) — Chinese search and AI company discussed through search-ad decline, open-web traffic loss, Wenxin, and strategic inertia.
+- [Baidu](entities/Baidu.md) — Chinese search and AI company discussed through search-ad decline, open-web traffic loss, Wenxin, strategic inertia, and search habits moving toward social/video apps.
 - [Bairong Intelligence](entities/BairongIntelligence.md) — Enterprise AI company using and selling digital employees across service, approval, risk-control, and professional-service workflows.
 - [Bank of Japan](entities/BankOfJapan.md) — Central bank whose tightening and yen effects are discussed as triggers for yen carry trade stress and Japanese equity volatility.
 - [半拿铁](entities/Banlatte.md) — Business-history podcast/show context for the China handset prehistory episode.
@@ -168,7 +169,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [你的书房](entities/NiDeShufang.md) — Personal book-management product used as an example of paid AI features, bounded usage, and data portability.
 - [NetEase](entities/NetEase.md) — Chinese game company mentioned as becoming more active in AI adoption.
 - [NewSpot](entities/NewSpot.md) — Justin Yan's software product contrasted with OpenClaw as a traditional app where agent lessons may improve research workflows.
-- [内核恐慌](entities/NeiheKonghuang.md) — Technology podcast/show context for the "programming internal-combustion era" episode.
+- [内核恐慌](entities/NeiheKonghuang.md) — Technology podcast/show context for episodes on AI programming, AI translation, podcast history, and display ergonomics.
 - [Ninety](entities/Ninety.md) — SaaS platform for leadership-team operating rhythms, built through the EOS ecosystem and now embedding AI.
 - [Nokia](entities/Nokia.md) — GSM and feature-phone giant whose Symbian dominance, durable mass-market phones, and later Windows Phone turn anchor the handset-history episode.
 - [Nvidia](entities/Nvidia.md) — AI semiconductor company used as EP39's main case for separating company quality from stock valuation risk.
@@ -193,7 +194,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Roblox](entities/Roblox.md) — Creator-platform comparison point for AI interactive content platforms and editor-backed game creation.
 - [Rolling AI](entities/RollingAI.md) — Enterprise AI consulting and implementation company discussed through FDE, digital employees, and service as software.
 - [Rudi's Organic Bakery](entities/RudisOrganicBakery.md) — Food company Justin Gold worked with after leaving Justin's Nut Butter under Hormel ownership.
-- [Ryo](entities/Ryo.md) — Neihe Konghuang host discussing Immersive Translate, NAS deduplication, tool discovery, and app/UI displacement.
+- [Ryo](entities/Ryo.md) — Neihe Konghuang host discussing Immersive Translate, NAS deduplication, tool discovery, app/UI displacement, live radio, and display setup.
 - [Same.Dev](entities/SameDev.md) — Jiang Yang's prior AI-assisted web UI generation project mentioned as Paperboy founder background.
 - [SAP](entities/SAP.md) — German enterprise software company used as a reference point for Germany's manufacturing-heavy software culture.
 - [Samsung](entities/Samsung.md) — Android-era smartphone maker that captured much of the post-iPhone non-Apple handset opportunity.
@@ -231,12 +232,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VMG](entities/VMG.md) — Investment group that backed Justin's Nut Butter with growth capital around 2012.
 - [Wang Dafu](entities/WangDafu.md) — Keji Luandun participant contributing operations, data-work, scripting, and business-logic optimization examples.
 - [Warren Buffett](entities/WarrenBuffett.md) — Long-term value investor discussed through contrast with Jim Simons and through Berkshire's cash, Apple reduction, and market caution.
-- [吴涛](entities/WuTao.md) — Neihe Konghuang host connecting Japanese learning, cloud consulting, AI coding, and low-level programming craft.
+- [吴涛](entities/WuTao.md) — Neihe Konghuang host connecting Japanese learning, cloud consulting, AI coding, low-level programming craft, campus radio, and monitor physics.
 - [WeChat](entities/WeChat.md) — Platform discussed as a possible high-context environment for agent products in China.
 - [Wenxin](entities/Wenxin.md) — Baidu AI model and product family discussed as weak in user mindshare despite early AI investment.
 - [Windsurf](entities/Windsurf.md) — AI coding tool discussed through disrupted acquisition, talent movement, and model-provider competition.
 - [Whole Foods Market](entities/WholeFoodsMarket.md) — Natural-food retailer that became the major early unlock for Justin's Nut Butter.
-- [Xiaohongshu](entities/Xiaohongshu.md) — Social and community platform positioned as a building-public and AI-builder distribution channel in the hackathon episode.
+- [Xiaohongshu](entities/Xiaohongshu.md) — Social and community platform positioned as a building-public channel, AI-builder distribution venue, and alternative search entry point.
 - [Xiaohongshu Hackathon Peak Competition](entities/XiaohongshuHackathonPeakCompetition.md) — Xiaohongshu's 48-hour AI-era hackathon for young builders, hardware makers, designers, and independent developers.
 - [Xiaoban](entities/Xiaoban.md) — Yueban Dongli's consumer bipedal companion robot designed around household emotional presence.
 - [Xiao'e](entities/XiaoE.md) — Design graduate student and hackathon contestant building playful AI hardware for focus and real-world attention.
@@ -327,6 +328,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dark Office](concepts/DarkOffice.md) — Office-work automation analogy where agents perform defined white-collar and gray-collar workflows like a dark factory.
 - [Default Deny Security](concepts/DefaultDenySecurity.md) — Cybersecurity control pattern where software or behavior is blocked unless explicitly approved.
 - [Derivative Amplified Volatility](concepts/DerivativeAmplifiedVolatility.md) — Market stress pattern where futures, options, leverage, and short covering magnify an underlying shock.
+- [Display Ergonomics](concepts/DisplayErgonomics.md) — Monitor-choice frame connecting screen size, aspect ratio, curvature, DPI, viewing distance, and text/code readability.
 - [Designed Agency In Games](concepts/DesignedAgencyInGames.md) — Game-design claim that fun choice comes from constraints, goals, feedback, and control rather than unlimited options.
 - [Demand Harvesting](concepts/DemandHarvesting.md) — Go-to-market pattern where startups capture already expressed buyer demand instead of first creating a new category.
 - [Deterministic Audit Data](concepts/DeterministicAuditData.md) — System-of-record evidence for audit-critical yes-or-no facts that should remain separate from probabilistic AI output.
@@ -384,6 +386,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Passive Investing](concepts/PassiveInvesting.md) — Broad ETF and index-fund investing recommended for most ordinary investors as a low-friction alternative to active trading.
 - [Persistent Agent Memory](concepts/PersistentAgentMemory.md) — Durable user and work memory that lets agents retain context, taste, relationship boundaries, and recent activity across sessions.
 - [PHS Xiaolingtong](concepts/PHSXiaolingtong.md) — Low-cost PHS wireless local-phone service that gave many Chinese users transitional mobile-like access before mainstream mobile affordability.
+- [Podcast As Asynchronous Media](concepts/PodcastAsAsynchronousMedia.md) — Recorded-audio media form whose value comes from shifting listening into idle-ear contexts while losing live-radio immediacy.
 - [Post-Acquisition Founder Identity](concepts/PostAcquisitionFounderIdentity.md) — Personal and governance problem of what a founder becomes after selling a company, especially when the brand carries founder values.
 - [Pre-Product Selling](concepts/PreProductSelling.md) — Selling-first validation pattern using conversations, LOIs, trials, and prototypes before full production code exists.
 - [Proactive Agents](concepts/ProactiveAgents.md) — Agents that use context and memory to help before the user fully specifies a task, while still requiring permission and review design.
