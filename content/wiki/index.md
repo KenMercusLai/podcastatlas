@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol. 161 从开发自己的 OpenClaw 聊起](sources/vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1.md) — Podcast episode on OpenClaw, self-built personal agents, agent-native software, skill self-generation, permission boundaries, on-demand apps, and token-cost constraints.
 - [把7位黑客松选手请进播客｜冠军、怪才和48小时不眠的野心家](sources/ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex.md) — Podcast episode on Xiaohongshu's hackathon, AI-era builders, vibe coding, building public, creator communities, and 48-hour prototypes such as Party Guitar, Atoom, Vibe Song, and Kenan Voice Changer.
 - [“你有一把能够挖出金子的铲子，肯定不会先给别人用”｜对谈开物纪陆子恒：用AI发明新材料](sources/ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh.md) — Podcast episode on Kaiwuji, Lu Ziheng, AI materials discovery, MatterSim/MatterGen, materials pipeline commercialization, and expert-led experimental validation.
 - [AI 会写代码了，为什么你还是做不出产品？](sources/ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1.md) — Podcast episode on AI coding, productization limits, test-driven AI workflows, logs, audit, operations automation, and domain know-how.
@@ -65,6 +66,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EarthKit](entities/EarthKit.md) — Jie Dechen's multimodal project for inferring photo locations, mentioned as background before Paperboy.
 - [Edward](entities/Edward.md) — Designer and hackathon contestant behind Atoom, emphasizing taste and idea quality after vibe coding accelerates implementation.
 - [Eric Ries](entities/EricRies.md) — Lean Startup author and Incorruptible author discussing validated learning, AI-era product economics, financial gravity, and founder governance.
+- [枫言枫语](entities/FengyanFengyu.md) — Podcast/show context for the OpenClaw and self-built personal-agent episode.
 - [Gemini](entities/Gemini.md) — AI assistant/search surface discussed in Peak AI's market framing and Gemini CLI's coding context.
 - [Gemini CLI](entities/GeminiCLI.md) — Command-line AI coding tool discussed through long-context planning and model-provider tool competition.
 - [Gino Wickman](entities/GinoWickman.md) — EOS founder whose methodology and community created the ecosystem around Ninety's early product.
@@ -78,6 +80,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jim Simons](entities/JimSimons.md) — Mathematician and Renaissance Technologies founder used to explain quantitative investing, risk control, and ordinary-investor limits.
 - [JetBrains](entities/JetBrains.md) — Incumbent IDE company referenced as slow to respond to the AI coding workflow shift.
 - [JK Molina](entities/JKMolina.md) — Influencer distribution partner who helped scale Tweet Hunter.
+- [Justin Yan](entities/JustinYan.md) — Fengyan Fengyu host who built an OpenClaw-like personal agent to understand agent-native software, skills, and permission design.
 - [Keji Luandun](entities/KejiLuandun.md) — Podcast covering Chinese AI companies, software-payment norms, and practical AI coding/productization workflows.
 - [Kedaibiao Lizheng](entities/KedaibiaoLizheng.md) — Episode guest focused on AI learning, skills, context, and agent-based workflows.
 - [Kenan Voice Changer](entities/KenanVoiceChanger.md) — Assistive AI prototype that repairs unclear speech so users can communicate during rehabilitation.
@@ -114,6 +117,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Manus](entities/Manus.md) — Agent product referenced as a milestone in the first 500 days of the agent wave.
 - [你的书房](entities/NiDeShufang.md) — Personal book-management product used as an example of paid AI features, bounded usage, and data portability.
 - [NetEase](entities/NetEase.md) — Chinese game company mentioned as becoming more active in AI adoption.
+- [NewSpot](entities/NewSpot.md) — Justin Yan's software product contrasted with OpenClaw as a traditional app where agent lessons may improve research workflows.
 - [Ninety](entities/Ninety.md) — SaaS platform for leadership-team operating rhythms, built through the EOS ecosystem and now embedding AI.
 - [OpenAI](entities/OpenAI.md) — Frontier AI company referenced in relation to agents, FDE, and AI market structure.
 - [Open Claw](entities/OpenClaw.md) — Domestic agent-wave project/context paired with Open Cloud in the Hermes Agent discussion.
@@ -142,6 +146,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Slack](entities/Slack.md) — Enterprise collaboration product discussed as too hard for Paperboy to directly replace, motivating an agent layer over existing workflows.
 - [Sprinto](entities/Sprinto.md) — Compliance and trust SaaS company built through deliberate validation, real audit learning, and AI-aware automation.
 - [SpaceX](entities/SpaceX.md) — Private technology company referenced in the AI/private-company IPO valuation discussion.
+- [StayPit](entities/StayPit.md) — Developer associated with OpenClaw in the Fengyan Fengyu source.
 - [StepFun](entities/StepFun.md) — Foundation-model company chaired by Yin Qi and discussed through model R&D, terminal commercialization, and AI organization design.
 - [Tapio](entities/Tapio.md) — LinkedIn-focused SaaS product built as a sister product to Tweet Hunter.
 - [Tea Maker](entities/TeaMaker.md) — Bootstrapped SaaS holding company founded by Thibaut-Louis Lucas.
@@ -184,6 +189,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zed](entities/Zed.md) — IDE referenced as technically strong but slow to seize the AI coding window.
 - [Zeying](entities/Zeying.md) — MiniMax R&D engineer discussing interleaved thinking, multi-agent collaboration, and agent self-evolution.
 - [ZhenFund](entities/ZhengkeFund.md) — Investment firm associated with the host's AI investing role and Token Grant.
+- [自立](entities/Zili.md) — Fengyan Fengyu host discussing OpenClaw, personal-agent security, and permission boundaries.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
@@ -215,6 +221,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent-Facing Interfaces](concepts/AgentFacingInterfaces.md) — CLI, API, MCP-like, skill, and tool layers that make software callable by agents.
 - [Agent Harness](concepts/AgentHarness.md) — Model-external system of tools, context, memory, permissions, runtime state, and orchestration that lets an agent act.
 - [Agent Identity And Authentication](concepts/AgentIdentityAndAuthentication.md) — Infrastructure problem of attributing agent actions, granting permissions, and balancing real-name controls with openness.
+- [Agent Native Software](concepts/AgentNativeSoftware.md) — Software whose core substrate is an agent rather than a traditional app with an AI feature attached.
+- [Agent Permission Boundaries](concepts/AgentPermissionBoundaries.md) — Practical limits on which tools, accounts, data, and actions an agent can use automatically or only with explicit human instruction.
 - [Agent Self-Evolution](concepts/AgentSelfEvolution.md) — Agent improvement loop where memory, saved workflows, skills, and harness feedback make future work more consistent.
 - [Agentic Economy](concepts/AgenticEconomy.md) — Infrastructure and economics for agent-to-service and agent-to-agent task execution.
 - [Agentic Workflow](concepts/AgenticWorkflow.md) — Work pattern where AI agents use tools, context, and process state to complete real tasks.
@@ -273,6 +281,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Multi-Agent Collaboration](concepts/MultiAgentCollaboration.md) — Use of multiple agents for context exchange, cross-checking, parallel exploration, and drift correction.
 - [Open Source AI Models](concepts/OpenSourceAIModels.md) — AI models released openly enough to support downstream adoption, fine-tuning, and ecosystem influence.
 - [On Device Fast Slow Brain](concepts/OnDeviceFastSlowBrain.md) — Edge AI architecture separating immediate behavior decisions from slower reasoning for low-latency embodied response.
+- [On-Demand Apps](concepts/OnDemandApps.md) — Agent-assembled or generated app capabilities created when the user needs them instead of fully prebuilt feature menus.
 - [OS-Level Context](concepts/OSLevelContext.md) — Agent context gathered from the user's computer environment, including screens, input, apps, meetings, messages, and current activity.
 - [Outcome-Based AI Pricing](concepts/OutcomeBasedAIPricing.md) — Enterprise AI pricing based on delivered output, work volume, time, or transaction value rather than seats or custom projects.
 - [Passive Investing](concepts/PassiveInvesting.md) — Broad ETF and index-fund investing recommended for most ordinary investors as a low-friction alternative to active trading.

@@ -2,8 +2,8 @@
 title: "Agent Harness"
 type: concept
 tags: [agents, infrastructure, context, tooling]
-sources: [tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan]
-last_updated: 2026-07-06
+sources: [tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]
+last_updated: 2026-07-07
 ---
 
 # Agent Harness
@@ -13,6 +13,8 @@ Agent harness is the model-external system that lets an AI agent act in the worl
 [[dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]] adds a work-environment analogy through [[MiniMax]] and [[HermesAgent]]: a harness is like giving a capable coworker tools, accounts, boundaries, feedback, and responsibility for delivery. The source emphasizes that harness design becomes more important once humans become the bottleneck in supervising many agents.
 
 [[ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan]] adds a coding-tool comparison: [[GeminiCLI]] may benefit from loading large code context directly, while [[Cursor]] may use more engineered chunking, indexing, and retrieval to control cost. The episode therefore treats context strategy itself as a harness-level product choice.
+
+[[vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]] adds a personal-agent harness case. [[JustinYan]]'s [[OpenClaw]]-inspired agent makes channels, schedules, trusted versus self-written [[AISkills]], virtual-machine isolation, separate accounts, and automatic versus explicit invocation part of the harness, not merely deployment details.
 
 ## Layers
 - Execution ability: CLI tools, file operations, browser use, language interpreters, code-registered tools, and protocol-style extensions.
@@ -29,6 +31,7 @@ Agent harness is the model-external system that lets an AI agent act in the worl
 - Harnesses expose real-world feedback that lets agents recover, update memory, and support [[AgentSelfEvolution]] rather than merely produce one-shot answers.
 - Harness design must account for [[AgentIdentityAndAuthentication]] when agents operate accounts, payments, code deployment, or other high-impact tools.
 - Context loading, indexing, retrieval, and compression choices can determine whether a coding harness preserves enough codebase meaning for hard tasks.
+- Personal agents need [[AgentPermissionBoundaries]] that distinguish safe automatic actions from powerful actions requiring explicit user intent.
 
 ## Connections
 - [[ClaudeCode]] and [[LearnClaudeCode]] — concrete harness sample analyzed in the source.
@@ -41,3 +44,4 @@ Agent harness is the model-external system that lets an AI agent act in the worl
 - [[HermesAgent]] — open-source framework used to explain harness as tools, main loop, state, errors, memory, and skills.
 - [[MultiAgentCollaboration]], [[InterleavedThinking]], and [[AgentIdentityAndAuthentication]] — additional harness requirements from the Hermes Agent source.
 - [[GeminiCLI]], [[Cursor]], and [[ContextEngineering]] — coding-context strategy added by EP108.
+- [[OpenClaw]], [[AgentNativeSoftware]], and [[AgentPermissionBoundaries]] — personal-agent harness case added by the Fengyan Fengyu source.

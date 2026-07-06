@@ -2,7 +2,7 @@
 title: "AI Skills"
 type: concept
 tags: [skills, agents, workflow]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]
+sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]
 last_updated: 2026-07-07
 ---
 
@@ -13,6 +13,8 @@ AI skills are reusable instructions and process packages that help an AI complet
 [[dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]] adds [[HermesAgent]] as a clearer memory-to-skill case. The source says successful workflows can be saved as skills so the agent can reproduce the correct path next time, making skills part of [[AgentSelfEvolution]] rather than only user-authored prompt packages.
 
 [[ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]] adds an everyday engineering-practice version. Tests, logging policies, documentation expectations, code-review prompts, audit rubrics, and business handoffs can act like skills when they repeatedly guide AI through the same class of work.
+
+[[vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]] adds a personal-agent version through [[OpenClaw]]. [[JustinYan]] treats skills as lighter than protocol-heavy tool integration and describes a stronger loop where an agent can inspect home services, infer what they can do, and write new skills for itself. The same source adds a security split between trusted skills and agent-written skills, making [[AgentPermissionBoundaries]] part of skill design.
 
 ## Key Claims
 - A useful skill is more than style imitation.
@@ -25,6 +27,7 @@ AI skills are reusable instructions and process packages that help an AI complet
 - Skills can sit inside an [[AgentHarness]] as selectively loaded files whose descriptions help the model decide whether to pull in the full procedure.
 - Skills can also be generated from successful agent work traces, where [[PersistentAgentMemory]] compresses experience into reusable procedures.
 - Practical skills can encode [[AIEngineeringThinking]]: require tests before implementation, collect logs before debugging, and make domain acceptance criteria explicit.
+- Personal-agent skills need permission tiers because a markdown-like procedure can still expose private data or operate a powerful tool.
 
 ## Connections
 - [[ContextEngineering]] — skills package and reuse context.
@@ -36,3 +39,4 @@ AI skills are reusable instructions and process packages that help an AI complet
 - [[AgentHarness]], [[PersistentAgentMemory]], and [[LearnClaudeCode]] — skill-memory boundary and Claude Code learning context added by the Lai Xinlu source.
 - [[HermesAgent]] and [[AgentSelfEvolution]] — memory-to-skill loop added by the Hermes Agent source.
 - [[AIEngineeringThinking]], [[AICodingVerification]], and [[ShengpaiNotice]] — engineering-process skill pattern added by the Keji Luandun episode.
+- [[OpenClaw]], [[AgentSelfEvolution]], and [[AgentPermissionBoundaries]] — personal-agent skill loop added by the Fengyan Fengyu source.

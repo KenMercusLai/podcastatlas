@@ -131,3 +131,15 @@ Ran health and lint checks after refreshing the deterministic graph with `python
 ## [2026-07-07] ingest | 把7位黑客松选手请进播客｜冠军、怪才和48小时不眠的野心家
 
 Added source page for a Shizilukou Crossing episode on Xiaohongshu's hackathon, AI-era creator communities, vibe coding, building public, 48-hour prototypes, assistive AI voice repair, and products including Party Guitar, Atoom, Vibe Song, and Kenan Voice Changer. Created supporting entity and concept pages for Xiaohongshu, the hackathon, contestants, products, AI hackathons, building public, and assistive AI; updated overview, index, Shizilukou Crossing, Koji, vibe coding, validation, distribution, customer pull, willingness-to-pay, creation-as-consumption, interactive content platforms, and voice interaction pages.
+
+## [2026-07-07] ingest | Vol. 161 从开发自己的 OpenClaw 聊起
+
+Added source page for a Fengyan Fengyu episode on OpenClaw, self-built personal agents, agent-native software, skill self-generation, permission boundaries, on-demand apps, proactive personal assistance, and token-cost constraints. Created supporting pages for Fengyan Fengyu, Justin Yan, 自立, StayPit, NewSpot, Agent Native Software, On-Demand Apps, and Agent Permission Boundaries; updated overview, index, OpenClaw, agent harness, AI skills, agent self-evolution, agent identity/authentication, AI inference cost structure, vibe coding, proactive agents, and human-agent collaboration pages.
+
+## [2026-07-07] graph | Knowledge graph rebuilt
+
+303 nodes, 2516 edges (2516 extracted, 0 inferred).
+
+## [2026-07-07] lint | Wiki lint check
+
+Ran health and lint checks after refreshing the deterministic graph with `.venv/bin/python tools/build_graph.py --no-infer`. Health, structural lint, link-density checks, and refreshed graph-aware checks passed. Semantic lint was completed manually in-session because `LLM_MODEL` / provider API configuration is unavailable for the local `litellm` call.
