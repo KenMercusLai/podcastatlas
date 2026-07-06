@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [当“印钞机”百度开始失血，是天灾还是人祸？](sources/dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun.md) — Podcast episode on Baidu's search-ad decline, AI-search cannibalization, open-web traffic loss, Wenxin's weak product mindshare, and cash-cow strategic inertia.
 - [Vol. 166 闲聊: 从 Gemini 到 AI 的加速与混沌](sources/vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1.md) — Podcast episode on Gemini, AI acceleration, agent orchestration, coding agents, model-company product strategy, workplace monitoring, token costs, and human-AI collaboration limits.
 - [Vol. 161 从开发自己的 OpenClaw 聊起](sources/vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1.md) — Podcast episode on OpenClaw, self-built personal agents, agent-native software, skill self-generation, permission boundaries, on-demand apps, and token-cost constraints.
 - [把7位黑客松选手请进播客｜冠军、怪才和48小时不眠的野心家](sources/ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex.md) — Podcast episode on Xiaohongshu's hackathon, AI-era builders, vibe coding, building public, creator communities, and 48-hour prototypes such as Party Guitar, Atoom, Vibe Song, and Kenan Voice Changer.
@@ -46,6 +47,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Atoom](entities/Atoom.md) — Attention-aware interface prototype from the Xiaohongshu hackathon that dynamically reorganizes web pages around what the user should focus on.
 - [BCG](entities/BCG.md) — Consulting company referenced through Rolling AI partners' background and as contrast for AI-era agent delivery.
 - [Baijian](entities/Baijian.md) — Bairong Intelligence professional-service platform that gives experts digital employees and office systems.
+- [Baidu](entities/Baidu.md) — Chinese search and AI company discussed through search-ad decline, open-web traffic loss, Wenxin, and strategic inertia.
 - [Bairong Intelligence](entities/BairongIntelligence.md) — Enterprise AI company using and selling digital employees across service, approval, risk-control, and professional-service workflows.
 - [Bitcoin](entities/Bitcoin.md) — Cryptocurrency asset discussed as a trading vehicle rather than a cash-flowing investment in the Simons episode.
 - [Boston Dynamics](entities/BostonDynamics.md) — Robotics company referenced through Shibo's admiration for Marc Raibert and autonomous robotics.
@@ -97,11 +99,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lao Gao](entities/LaoGao.md) — Keji Luandun participant discussing practical AI coding, productization, and workflow judgment.
 - [Learn Claude Code](entities/LearnClaudeCode.md) — Share AI learning project that studies Claude Code as an agent harness sample.
 - [Lempire](entities/Lempire.md) — SaaS company that acquired Tweet Hunter and Tapio.
+- [Li Yanhong](entities/LiYanhong.md) — Baidu founder discussed as a management and risk-preference lens for Baidu's search and AI predicament.
 - [Li Pengcheng](entities/LiPengcheng.md) — Builder focused on deaf speech rehabilitation and creator of the Kenan Voice Changer assistive AI prototype.
 - [Lin Junyang](entities/LinJunyang.md) — Qwen model training leader whose departure anchors the second ingested source.
 - [Liu Kai](entities/LiuKai.md) — Rolling AI partner discussing FDE practice, agent delivery, and frontline apprenticeship loops.
 - [Long-Term Stock Exchange](entities/LongTermStockExchange.md) — Exchange project used by Eric Ries as a case study in resisting conventional market pressure.
 - [LOVOT](entities/LOVOT.md) — Companion robot reference case that shaped Shibo's view of restrained emotional interaction.
+- [Lu Qi](entities/LuQi.md) — Former Baidu executive whose period is framed as a missed transformation window.
 - [Lu Ziheng](entities/LuZiheng.md) — Kaiwuji founder discussing AI materials discovery, model scaling, expert validation, and materials pipeline commercialization.
 - [Marc Raibert](entities/MarcRaibert.md) — Robotics figure named by Shibo as an inspiration for autonomous robotics.
 - [Mark Abbott](entities/MarkAbbott.md) — Founder of Ninety, discussing EOS, community-led growth, funding, hiring, and AI strategy.
@@ -171,6 +175,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wang Dafu](entities/WangDafu.md) — Keji Luandun participant contributing operations, data-work, scripting, and business-logic optimization examples.
 - [Warren Buffett](entities/WarrenBuffett.md) — Long-term value investor used as a comparison point against Jim Simons's quantitative approach.
 - [WeChat](entities/WeChat.md) — Platform discussed as a possible high-context environment for agent products in China.
+- [Wenxin](entities/Wenxin.md) — Baidu AI model and product family discussed as weak in user mindshare despite early AI investment.
 - [Windsurf](entities/Windsurf.md) — AI coding tool discussed through disrupted acquisition, talent movement, and model-provider competition.
 - [Xiaohongshu](entities/Xiaohongshu.md) — Social and community platform positioned as a building-public and AI-builder distribution channel in the hackathon episode.
 - [Xiaohongshu Hackathon Peak Competition](entities/XiaohongshuHackathonPeakCompetition.md) — Xiaohongshu's 48-hour AI-era hackathon for young builders, hardware makers, designers, and independent developers.
@@ -238,6 +243,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Building Public](concepts/BuildingPublic.md) — Sharing product progress publicly to find users, feedback, collaborators, and distribution before a product is complete.
 - [Business-Led AI Transformation](concepts/BusinessLedAITransformation.md) — Enterprise AI adoption pattern led by business pain, workflow redesign, and incentive change rather than IT ownership alone.
 - [Category Creation](concepts/CategoryCreation.md) — Startup go-to-market challenge of teaching buyers to understand, name, and budget for a new category.
+- [Cash Cow Strategic Inertia](concepts/CashCowStrategicInertia.md) — Pattern where a profitable old business weakens strategic patience for necessary new bets.
 - [Causal AI](concepts/CausalAI.md) — Research direction focused on intervention-grounded causal structure, causal discovery, and machine-learning systems that generalize beyond surface correlation.
 - [Causal World Models](concepts/CausalWorldModels.md) — World-model route that learns causal variables, causal structure, and action-conditioned transition dynamics for physical AI.
 - [Community-Led SaaS Growth](concepts/CommunityLedSaaSGrowth.md) — SaaS growth through practitioner communities, trusted channels, service, and word of mouth.
@@ -288,6 +294,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [MSP Channel Distribution](concepts/MSPChannelDistribution.md) — Go-to-market pattern for reaching SMBs through managed service providers that operate customer IT environments.
 - [Multi-Agent Collaboration](concepts/MultiAgentCollaboration.md) — Use of multiple agents for context exchange, cross-checking, parallel exploration, and drift correction.
 - [Open Source AI Models](concepts/OpenSourceAIModels.md) — AI models released openly enough to support downstream adoption, fine-tuning, and ecosystem influence.
+- [Open Web Traffic Decline](concepts/OpenWebTrafficDecline.md) — Shift of content, user intent, and discovery from crawlable web pages into closed or semi-closed app ecosystems.
 - [On Device Fast Slow Brain](concepts/OnDeviceFastSlowBrain.md) — Edge AI architecture separating immediate behavior decisions from slower reasoning for low-latency embodied response.
 - [On-Demand Apps](concepts/OnDemandApps.md) — Agent-assembled or generated app capabilities created when the user needs them instead of fully prebuilt feature menus.
 - [OS-Level Context](concepts/OSLevelContext.md) — Agent context gathered from the user's computer environment, including screens, input, apps, meetings, messages, and current activity.
@@ -302,6 +309,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Robot Liveliness](concepts/RobotLiveliness.md) — Product quality that makes a robot feel like an independent living-like presence rather than a configurable appliance.
 - [SaaS Holding Company](concepts/SaaSHoldingCompany.md) — Portfolio model for owning or building multiple SaaS products with shared customers, channels, and growth systems.
 - [SaaS Trust Moat](concepts/SaaSTrustMoat.md) — SaaS defensibility from trust, data, distribution, compliance, support, and operational reliability rather than code alone.
+- [Search Advertising Decline](concepts/SearchAdvertisingDecline.md) — Weakening of keyword search ads as user intent, advertiser attention, and AI answers shift the old click path.
 - [Second Renaissance](concepts/SecondRenaissance.md) — Idea that AI may push people toward broader creative and generalist work.
 - [Service As Software](concepts/ServiceAsSoftware.md) — AI-era delivery model where software or agents carry service-like business outcomes.
 - [Service Productization](concepts/ServiceProductization.md) — Turning manual, consultant-heavy, or expert-delivered workflows into repeatable software products.

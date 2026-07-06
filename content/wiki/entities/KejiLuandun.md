@@ -2,15 +2,17 @@
 title: "Keji Luandun"
 type: entity
 tags: [podcast, media]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]
+sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun]
 last_updated: 2026-07-07
 ---
 
 # Keji Luandun
 
-Keji Luandun is the podcast context for [[ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun]], [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun]], and [[ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]]. Across these sources, the show discusses Chinese AI companies, model strategy, product commercialization, organizational order, user behavior, and practical AI-enabled work.
+Keji Luandun is the podcast context for [[ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun]], [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun]], [[ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]], and [[dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun]]. Across these sources, the show discusses Chinese AI companies, model strategy, product commercialization, organizational order, user behavior, platform shifts, and practical AI-enabled work.
 
 The AI coding episode adds a grounded operator perspective through [[LaoGao]], [[ZhangLe]], and [[WangDafu]]: AI can write code and scripts, but useful products still require [[AIEngineeringThinking]], domain know-how, tests, logs, review, and human communication.
+
+The Baidu episode adds a legacy-platform perspective: [[Baidu]]'s search-ad decline, weak [[Wenxin]] product mindshare, and missed mobile-era pivots are treated as evidence that old traffic advantages can turn into [[CashCowStrategicInertia]] once [[OpenWebTrafficDecline]] changes where users begin.
 
 ## Connections
 - [[Alibaba]], [[Qwen]], and [[LinJunyang]] — main episode focus.
@@ -20,3 +22,5 @@ The AI coding episode adds a grounded operator perspective through [[LaoGao]], [
 - [[AICommercializationPressure]], [[SoftwarePaymentCulture]], and [[AISubscriptionEconomics]] — recurring commercialization themes.
 - [[ShengpaiNotice]], [[VibeCoding]], and [[AICodingVerification]] — practical AI coding and verification themes.
 - [[AIEngineeringThinking]], [[ContextEngineering]], and [[HumanJudgmentUnderAI]] — workflow and judgment themes from the AI coding/productization episode.
+- [[Baidu]], [[LiYanhong]], [[Wenxin]], and [[LuQi]] — search-platform and AI-pivot case from the Baidu episode.
+- [[SearchAdvertisingDecline]], [[OpenWebTrafficDecline]], and [[CashCowStrategicInertia]] — platform strategy themes added by the Baidu episode.

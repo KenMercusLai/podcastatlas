@@ -147,3 +147,15 @@ Ran health and lint checks after refreshing the deterministic graph with `.venv/
 ## [2026-07-07] ingest | Vol. 166 闲聊: 从 Gemini 到 AI 的加速与混沌
 
 Added source page for a Fengyan Fengyu episode on Gemini, AI acceleration, agent orchestration, coding agents, model-company product strategy, operations automation, workplace monitoring, token costs, and human-AI collaboration limits. Created supporting pages for Google, Apple, Siri, Cloudflare, Superpowers, AI Product Fragmentation, and AI Workforce Monitoring; updated overview, index, Fengyan Fengyu, Justin Yan, 自立, Gemini, Codex, Claude Code, Anthropic, OpenAI, ChatGPT, agent workflow, agent harness, subagent workflow, vibe coding, AI coding verification, AI inference costs, model-provider competition, organization design, and human-agent collaboration pages.
+
+## [2026-07-07] ingest | 当“印钞机”百度开始失血，是天灾还是人祸？
+
+Added source page for a Keji Luandun episode on Baidu's reported Q3 2025 loss, search-ad decline, AI-search cannibalization, open-web traffic loss, Wenxin's weak product mindshare, Li Yanhong's management context, and Lu Qi as a missed transformation-window case. Created supporting pages for Baidu, Li Yanhong, Wenxin, Lu Qi, Search Advertising Decline, Open Web Traffic Decline, and Cash Cow Strategic Inertia; updated overview, index, Keji Luandun, Google, Large Company Organizational Inertia, and AI Commercialization Pressure pages.
+
+## [2026-07-07] graph | Knowledge graph rebuilt
+
+319 nodes, 2710 edges (2710 extracted, 0 inferred).
+
+## [2026-07-07] report | Graph health report generated
+
+319 nodes analyzed.
