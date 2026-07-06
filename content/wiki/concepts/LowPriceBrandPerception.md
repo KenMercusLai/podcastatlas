@@ -1,0 +1,26 @@
+---
+title: "Low Price Brand Perception"
+type: concept
+tags: [cpg, pricing, brand, retail]
+sources: [e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e]
+last_updated: 2026-07-07
+---
+
+# Low Price Brand Perception
+
+Low price brand perception is the problem of making a very inexpensive product feel credible, attractive, and branded rather than generic or poor quality. In [[e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e]], [[ELFCosmetics]] sells color cosmetics for one dollar while still trying to look like a real beauty brand.
+
+The concept extends [[ProductLedWillingnessToPay]] in the opposite direction from premium CPG cases: the customer does not need to accept a high price, but the company still must prove that the low price is value, not a warning sign.
+
+## Key Claims
+- A low price can increase trial only if the product and packaging do not signal unacceptable quality.
+- Revealing the one-dollar price after showing the product let editors first evaluate the product as beauty, not as a discount gimmick.
+- Retailers may reject low-price branded goods if the product does not fit their category assumptions or margin model.
+- Value brands may need tiering over time, as [[Target]] helped e.l.f. add three-dollar Elf Studio products without abandoning the one-dollar line.
+- Low price creates operational pressure because it requires higher unit volume, reliable supply, and fast replenishment to generate meaningful profit.
+
+## Connections
+- [[ELFCosmetics]], [[JoeyShamah]], and [[ScottVincentBorba]] - source case.
+- [[RetailIncrementality]] - retailer proof that a low-price line expands the category.
+- [[DirectToConsumerCashFlow]] and [[AccidentalVirality]] - demand and cash-flow mechanisms that helped e.l.f. survive.
+- [[ProductLedWillingnessToPay]], [[SalesVelocity]], [[RetailShelfPlacement]], and [[CPGDistribution]] - related pricing and retail mechanics.

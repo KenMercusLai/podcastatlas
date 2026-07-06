@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [e.l.f. Cosmetics: Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant](sources/e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e.md) — Podcast episode on Joey Shamah, Scott Vincent Borba, e.l.f. Cosmetics, low-price beauty, media-driven e-commerce, H-E-B/Target retail validation, and private equity transitions.
 - [EP102 对话 Una：全球头部思维导图 App Store 运营负责人亲授 ASO 实战经验](sources/ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug.md) — Podcast episode on Una, FocusFly, App Store optimization, keyword strategy, product-page conversion, ratings/reviews, and Apple Search Ads.
 - [EP119 对话小孙：骑行800公里把自己救出深渊：宁愿每天工作22小时，我也不想再上班了](sources/ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2.md) — Podcast episode on XiaoSun, self-directed work, CreateWise, founder cash-flow pressure, digital-nomad community building, and an 800-kilometer cycling self-rescue.
 - [OpenClaw 之后，谁将定义主动式 AI 的新战场？｜对谈 AirJelly 黄柏特](sources/openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6.md) — Podcast episode on AirJelly, proactive AI, intent-triggered context, persistent personal-agent memory, OpenClaw's product shock, privacy, and AI-native team workflows.
@@ -59,6 +60,24 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [e.l.f. Cosmetics](entities/ELFCosmetics.md) — Value beauty brand built around one-dollar cosmetics, media-driven demand, retail proof, and later private-equity transition.
+- [Joey Shamah](entities/JoeyShamah.md) — e.l.f. Cosmetics co-founder and How I Built This guest discussing sourcing, retail validation, cash pressure, and post-exit companies.
+- [Scott Vincent Borba](entities/ScottVincentBorba.md) — e.l.f. Cosmetics co-founder whose beauty-industry experience shaped the original value cosmetics idea.
+- [Family Dollar](entities/FamilyDollar.md) — Dollar-store chain that rejected e.l.f.'s original branded value cosmetics pitch.
+- [Dollar General](entities/DollarGeneral.md) — Dollar-store chain whose rejection helped push e.l.f. toward PR, e-commerce, and later mass retail validation.
+- [Glamour](entities/Glamour.md) — Magazine whose feature requirement pushed e.l.f. into accidental e-commerce and early online order validation.
+- [H-E-B](entities/HEB.md) — Texas supermarket chain whose spinner-rack test proved e.l.f. could create incremental impulse sales.
+- [Target](entities/Target.md) — National retailer that helped e.l.f. move from strict one-dollar pricing into a tiered value beauty program.
+- [TSG Consumer Partners](entities/TSGConsumerPartners.md) — Private equity firm that bought a 49% minority stake in e.l.f. Cosmetics.
+- [TPG](entities/TPG.md) — Private equity firm that bought majority control of e.l.f. Cosmetics and brought in Tarang Amin as CEO.
+- [Tarang Amin](entities/TarangAmin.md) — CEO brought into e.l.f. Cosmetics after TPG's majority investment and later public-company transition.
+- [Financo](entities/Financo.md) — Investment bank connected to the sale process that led to TSG Consumer Partners' minority investment in e.l.f.
+- [Vannette Ho](entities/VannetteHo.md) — Financo investment banker who initiated the e.l.f. sale process with Joey Shamah.
+- [L'Oreal](entities/LOreal.md) — Strategic beauty buyer whose proposed acquisition of e.l.f. collapsed before the later TPG transaction.
+- [Revlon](entities/Revlon.md) — Incumbent beauty company referenced as both competitor context and an initial strategic-buyer approach.
+- [Urban Decay](entities/UrbanDecay.md) — Beauty brand whose L'Oreal acquisition is contrasted with the collapsed e.l.f. deal.
+- [Fit For Life](entities/FitForLife.md) — Joey Shamah's post-e.l.f. fitness-products licensing company.
+- [AS Beauty](entities/ASBeauty.md) — Joey Shamah's later beauty company focused on acquiring and operating existing brands.
 - [25 & Pine](entities/25AndPine.md) — Family furniture company using social storytelling to sell parent-child shared furniture.
 - [A Brief History of Intelligence](entities/ABriefHistoryOfIntelligence.md) — Book used in the Neihe Konghuang episode to connect biological intelligence, simulation, world models, and mentalizing.
 - [Aether AI](entities/AetherAI.md) — AI robotics company founded by Huang Biwei to build causal world models for embodied intelligence.
@@ -329,6 +348,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Low Price Brand Perception](concepts/LowPriceBrandPerception.md) — Problem of making a very inexpensive product feel credible, attractive, and branded rather than cheap.
+- [Retail Incrementality](concepts/RetailIncrementality.md) — Proof that a product grows category sales or creates impulse demand instead of only cannibalizing existing shelf sales.
+- [Direct To Consumer Cash Flow](concepts/DirectToConsumerCashFlow.md) — Cash-flow and learning advantage from selling directly to customers before or alongside retail channels.
+- [Accidental Virality](concepts/AccidentalVirality.md) — Sudden external attention spike that can reveal demand while stressing inventory, fulfillment, and operations.
 - [A-Share Bull Market History](concepts/AShareBullMarketHistory.md) — Historical frame for Chinese equity bull markets across scarcity, policy, liquidity, regulation, leverage, and fundamentals.
 - [Account Misuse Risk](concepts/AccountMisuseRisk.md) — Risk that personal bank cards, IDs, payment accounts, or dormant accounts are used to receive, split, withdraw, or disguise suspicious funds.
 - [AI 3D Prototyping](concepts/AI3DPrototyping.md) — Possibility that AI lowers 3D game-production barriers enough for small teams to test richer prototypes.
