@@ -2,7 +2,7 @@
 title: "Headless Software"
 type: concept
 tags: [agents, software-design, interfaces]
-sources: [agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]
+sources: [agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax]
 last_updated: 2026-07-07
 ---
 
@@ -18,6 +18,8 @@ The episode does not argue that GUI disappears. It argues that GUI's role change
 
 [[biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]] adds an app-demand version through [[TaskAsAService]]. [[Ryo]] and [[WuTao]] argue that if a tax form, script, or routine task can be completed by AI or the operating system directly, the user's need for a dedicated app or front end can shrink.
 
+[[ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax]] adds a SaaS architecture pattern through [[Podwise]]. The episode recommends API-first back ends, a GUI for human review and direct use, and an [[AgentOptimizedCLI]] for agents and automations, while warning that copying every web feature into the CLI creates a bloated interface instead of useful headless capability.
+
 ## Key Claims
 - GUI-first design is poorly matched to tasks where an agent can operate directly on a user's behalf.
 - A mature GUI can still serve existing users while a separate agent-native path serves agents, new users, or automated workflows.
@@ -26,6 +28,7 @@ The episode does not argue that GUI disappears. It argues that GUI's role change
 - The trust and presentation role of GUI connects headless software back to human judgment instead of eliminating humans entirely.
 - Harness quality determines whether headless access is useful: agents need execution ability, context, memory, and governance around the callable surface.
 - [[TaskAsAService]] makes the same point from the user's side: the product may be judged by completed work rather than by whether the user operated a visible application.
+- Headless capability should expose stable actions rather than mirror every GUI feature; atomic commands are easier for agents and skills to compose.
 
 ## Connections
 - [[AgentFacingInterfaces]] — practical interface layer for headless software.
@@ -36,3 +39,4 @@ The episode does not argue that GUI disappears. It argues that GUI's role change
 - [[Paperboy]] and [[Slack]] — example of complementing existing human-facing collaboration tools rather than replacing them directly.
 - [[AgentHarness]] and [[KComputer]] — infrastructure layer that makes headless/CLI-style capability usable by agents.
 - [[TaskAsAService]] and [[AIProgrammingEngineShift]] — app and programming-labor implications added by the Neihe Konghuang episode.
+- [[Podwise]] and [[AgentOptimizedCLI]] — SaaS architecture pattern added by EP124.

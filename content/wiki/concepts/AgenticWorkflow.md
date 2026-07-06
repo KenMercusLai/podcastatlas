@@ -2,7 +2,7 @@
 title: "Agentic Workflow"
 type: concept
 tags: [agents, workflow, productivity]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, community-led-saas-growth-how-ninety-hit-44m-arr, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]
+sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, community-led-saas-growth-how-ninety-hit-44m-arr, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax]
 last_updated: 2026-07-07
 ---
 
@@ -15,6 +15,8 @@ Agentic workflow is the practical alternative to chat-only AI use. In [[gaoshou-
 [[ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]] adds the practical-operations variant: agentic workflows work when users define requirements, tests, logs, audit steps, handoffs, and review loops before delegating execution to AI.
 
 [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] adds an orchestration-heavy personal workflow. [[Superpowers]], [[ClaudeCode]], and [[Codex]] are used around brainstorming, design markdown, plan markdown, subagents, review loops, computer-use style delegation, and [[Cloudflare]] operations, showing how agentic workflow can save attention while also creating supervision, posture, and token-cost burdens.
+
+[[ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax]] adds a content-tooling workflow through [[Podwise]]. The user describes outcomes such as finding recent AI-agent podcasts, extracting highlights, and exporting results; the agent turns that intent into [[AgentOptimizedCLI]] commands and [[AISkills]] rather than making the user manually wire a low-code workflow.
 
 ## Key Properties
 - Preserves and reuses project context.
@@ -33,6 +35,7 @@ Agentic workflow is the practical alternative to chat-only AI use. In [[gaoshou-
 - In coding, agentic workflows may expand personal capability before they reliably reduce total elapsed engineering time.
 - In small teams and operations work, agentic workflows require [[AIEngineeringThinking]] so AI execution is tied to observable state, tests, and business acceptance.
 - In long-running personal workflows, orchestration can move work forward in parallel but still leaves the human responsible for planning quality, review, and health/attention costs.
+- In content and knowledge workflows, the same pattern turns search, processing, retrieval, and export into agent-composed steps.
 
 ## Connections
 - [[ContextEngineering]] — supplies the durable context that makes agentic work compound.
@@ -50,3 +53,4 @@ Agentic workflow is the practical alternative to chat-only AI use. In [[gaoshou-
 - [[VibeCoding]], [[Cursor]], [[ClaudeCode]], and [[GeminiCLI]] — AI coding workflow case added by EP108.
 - [[AIEngineeringThinking]], [[ShengpaiNotice]], and [[WangDafu]] — practical workflow case added by the Keji Luandun episode.
 - [[Superpowers]], [[Codex]], and [[Cloudflare]] — orchestration and operations cases added by Vol. 166.
+- [[Podwise]], [[AgentOptimizedCLI]], and [[AISkills]] — content-workflow composition case added by EP124.

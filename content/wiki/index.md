@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP124 为什么 Agent 时代，CLI 反而成了最优解？⚡](sources/ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax.md) — Podcast episode on Podwise CLI/Skills, agent-optimized CLI design, pipeable text interfaces, discovery commands, structured output, actionable errors, and why CLI can outperform API/SDK-style integration for agents.
 - [EP46 历次牛市众生相：措手不及的幸福能持续多久？](sources/ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2.md) — Podcast episode on A-share bull-market history, policy-driven rallies, leverage-driven cycles, retail bull-market psychology, and why policy support still needs fundamentals and risk discipline.
 - [EP22 夜袭银行，成功概率几何？](sources/ep22-yexi-yinhang-chenggong-gailv-jihe-ljox1mobpxs3wh4n3du6awzuskef.md) — Podcast episode on bank branch after-hours work, cash logistics, ATM operations, branch security controls, hierarchy, VIP thresholds, and why physical bank robbery has poor practical odds.
 - [EP21 谁在狱中？谁在巅峰？周期中的一粒灰，金融人的喜与悲](sources/ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq.md) — Podcast episode on finance career risk, third-party wealth platforms, employee misconduct controls, investor education, independent consulting, and career portability.
@@ -217,6 +218,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Peter Burns](entities/PeterBurns.md) — Experienced food-company operator who joined Justin's Nut Butter and eventually became CEO.
 - [Phil Holstead](entities/PhilHolstead.md) — Red Truck Orchards founder discussing cherry vinegar messaging, sampling, and repeat purchase.
 - [Peter Lynch](entities/PeterLynch.md) — Fundamental investor used as a comparison point against Jim Simons's quantitative approach.
+- [Podwise](entities/Podwise.md) — AI podcast-learning tool discussed through CLI, Skills, agent workflows, and knowledge-management export.
 - [QQ](entities/QQ.md) — Tencent messaging product used as the historical comparison for free-core, paid-membership internet services.
 - [Qianli Technology](entities/QianliTechnology.md) — AI-and-car terminal company chaired by Yin Qi and paired with StepFun's foundation-model strategy.
 - [钱粮胡同FM](entities/QianliangHutongFM.md) — Banking and finance podcast/show context for the EP25 YiLaoYongYi crossover on Chinese-funded and foreign-funded banks.
@@ -294,7 +296,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yu Yang](entities/YuYang.md) — Financial-company technology leader discussing compliance-constrained financial AI agents and investing companionship.
 - [Yueban Dongli](entities/YuebanDongli.md) — Robotics company founded by Shibo to build the Xiaoban companion robot.
 - [Yuanbao](entities/Yuanbao.md) — Tencent AI assistant discussed as a domestic alternative to Doubao.
-- [硬地骇客](entities/YingdiHaike.md) — Podcast/show context for EP108's AI coding market discussion.
+- [硬地骇客](entities/YingdiHaike.md) — Podcast/show context for EP108's AI coding market discussion and EP124's Podwise CLI/Skills episode.
 - [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for episodes on investing, finance career risk, career-entry anxiety, upward management, creator work, aviation work, banking, and global market turmoil.
 - [助助](entities/Zhuzhu.md) — Xiaohongshu local-lifestyle creator explaining ordinary creator monetization, local store reviews, and lifestyle freedom.
 - [Youyou Agent](entities/YouyouAgent.md) — Digital-life agent experiment discussed as an early agent-native project.
@@ -347,6 +349,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent Harness](concepts/AgentHarness.md) — Model-external system of tools, context, memory, permissions, runtime state, and orchestration that lets an agent act.
 - [Agent Identity And Authentication](concepts/AgentIdentityAndAuthentication.md) — Infrastructure problem of attributing agent actions, granting permissions, and balancing real-name controls with openness.
 - [Agent Native Software](concepts/AgentNativeSoftware.md) — Software whose core substrate is an agent rather than a traditional app with an AI feature attached.
+- [Agent-Optimized CLI](concepts/AgentOptimizedCLI.md) — Command-line interface design pattern for agent-callable software: pipeable, non-interactive, idempotent, structured, and human-debuggable.
 - [Agent Permission Boundaries](concepts/AgentPermissionBoundaries.md) — Practical limits on which tools, accounts, data, and actions an agent can use automatically or only with explicit human instruction.
 - [Agent Self-Evolution](concepts/AgentSelfEvolution.md) — Agent improvement loop where memory, saved workflows, skills, and harness feedback make future work more consistent.
 - [Agentic Economy](concepts/AgenticEconomy.md) — Infrastructure and economics for agent-to-service and agent-to-agent task execution.

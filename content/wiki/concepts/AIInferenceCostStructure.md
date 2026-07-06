@@ -2,7 +2,7 @@
 title: "AI Inference Cost Structure"
 type: concept
 tags: [ai, economics, infrastructure]
-sources: [cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, eric-ries-on-how-founders-quietly-lose-their-company, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]
+sources: [cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, eric-ries-on-how-founders-quietly-lose-their-company, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax]
 last_updated: 2026-07-07
 ---
 
@@ -16,6 +16,8 @@ AI inference cost structure is the idea that large-model services incur meaningf
 
 [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] adds the user-psychology side of token cost. The hosts connect expensive frontier APIs, subscription tiers, quota resets, and review-heavy coding workflows to AI anxiety and the feeling that paid capacity must be used.
 
+[[ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax]] adds a content-consumption and CLI-design case through [[Podwise]]. Skills can make users and agents process far more podcast, documentation, and product material, increasing token flow; at the same time, an [[AgentOptimizedCLI]] can reduce waste by moving stable exports and format conversions into deterministic local commands instead of asking the model to regenerate them.
+
 ## Key Claims
 - Token generation, GPU capacity, electricity, storage, and infrastructure procurement make AI usage costly at scale.
 - Free growth is harder when user growth directly increases inference load.
@@ -28,6 +30,7 @@ AI inference cost structure is the idea that large-model services incur meaningf
 - AI coding tools may need pricing that maps closer to real token/API consumption, but users still need understandable remaining-budget signals.
 - Always-on personal agents need trigger discipline because periodic checks and open-ended skill use can turn small automations into ongoing inference spend.
 - Subscription plans and quota resets can change behavior even before direct API bills arrive, because users may work around perceived scarcity or try to exhaust paid capacity.
+- Skills can increase both useful content consumption and inference cost; product design needs quota visibility, stable local tooling, and judgment about whether a task is work-value or entertainment-value.
 
 ## Connections
 - [[AICommercializationPressure]] — broader business pressure created by high model costs.
@@ -41,3 +44,4 @@ AI inference cost structure is the idea that large-model services incur meaningf
 - [[Cursor]], [[VibeCoding]], and [[ModelProviderToolCompetition]] — AI coding case where token cost reshapes product strategy.
 - [[OpenClaw]], [[OnDemandApps]], and [[AgentNativeSoftware]] — personal-agent case where token cost limits product viability.
 - [[Codex]], [[ClaudeCode]], [[Superpowers]], and [[AIWorkforceMonitoring]] — personal workflow and measurement cases added by Vol. 166.
+- [[Podwise]], [[AgentOptimizedCLI]], and [[AISkills]] — content-processing and deterministic-tooling case added by EP124.

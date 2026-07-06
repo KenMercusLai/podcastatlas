@@ -251,3 +251,7 @@ Added source page for a YiLaoYongYi episode on bank branch after-hours work, cas
 ## [2026-07-07] ingest | EP46 历次牛市众生相：措手不及的幸福能持续多久？
 
 Added source page for a YiLaoYongYi episode on A-share bull-market history, early market scarcity, policy-driven rallies, liquidity, share-split reform, fiscal stimulus, leverage-driven cycles, off-market financing cleanup, and retail bull-market psychology. Created supporting pages for Shanghai Stock Exchange, China Securities Regulatory Commission, Sichuan Changhong, A-Share Bull Market History, Policy-Driven Market Rally, Leverage-Driven Bull Market, and Retail Bull Market Psychology; updated overview, index, YiLaoYongYi, Investment Risk Management, Market Regime Shift, Speculative Bubble Psychology, Retail Investor Crowding, and Investor Education pages.
+
+## [2026-07-07] ingest | EP124 为什么 Agent 时代，CLI 反而成了最优解？⚡
+
+Added source page for a 硬地骇客 episode on Podwise CLI/Skills, agent-optimized CLI design, pipeable text interfaces, discovery commands, structured output, actionable errors, API-first SaaS architecture, deterministic CLI-side exports, and why CLI can be a strong agent-facing interface. Created supporting pages for Podwise and Agent-Optimized CLI; updated overview, index, 硬地骇客, Open Cloud, Codex, Claude Code, Agent-Facing Interfaces, AI Skills, Agent Harness, Agentic Workflow, Headless Software, and AI Inference Cost Structure.
