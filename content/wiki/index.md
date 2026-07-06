@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP36 第一批有毕业焦虑的00后，开始学会用实习「饮鸩止渴」](sources/ep36-di-yi-pi-you-biye-jiaolv-de-00-hou-kaishi-xuehui-yong-shixi-yinzhen-zhike-lj5s97tbtj2gly7oppujgsv3cgk8.md) — Podcast episode on post-2000s internship anxiety, workplace hidden rules, big-company resume signaling, dirty work, and using internships to filter future direction.
 - [当“印钞机”百度开始失血，是天灾还是人祸？](sources/dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun.md) — Podcast episode on Baidu's search-ad decline, AI-search cannibalization, open-web traffic loss, Wenxin's weak product mindshare, and cash-cow strategic inertia.
 - [Vol. 166 闲聊: 从 Gemini 到 AI 的加速与混沌](sources/vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1.md) — Podcast episode on Gemini, AI acceleration, agent orchestration, coding agents, model-company product strategy, workplace monitoring, token costs, and human-AI collaboration limits.
 - [Vol. 161 从开发自己的 OpenClaw 聊起](sources/vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1.md) — Podcast episode on OpenClaw, self-built personal agents, agent-native software, skill self-generation, permission boundaries, on-demand apps, and token-cost constraints.
@@ -108,6 +109,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lu Qi](entities/LuQi.md) — Former Baidu executive whose period is framed as a missed transformation window.
 - [Lu Ziheng](entities/LuZiheng.md) — Kaiwuji founder discussing AI materials discovery, model scaling, expert validation, and materials pipeline commercialization.
 - [Marc Raibert](entities/MarcRaibert.md) — Robotics figure named by Shibo as an inspiration for autonomous robotics.
+- [曼妮森](entities/Mannisen.md) — YiLaoYongYi host giving the senior workplace perspective on internships, communication norms, and career direction filtering.
 - [Mark Abbott](entities/MarkAbbott.md) — Founder of Ninety, discussing EOS, community-led growth, funding, hiring, and AI strategy.
 - [Marius Miners](entities/MariusMiners.md) — Founder of Peak AI, discussing AI search analytics, fast validation, pre-product selling, and category timing.
 - [MatterGen](entities/MatterGen.md) — Materials-generation model example used to discuss scalable diffusion-based candidate generation.
@@ -151,6 +153,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Shengpai Notice](entities/ShengpaiNotice.md) — Host-built podcast workflow tool used as a practical AI coding/productization case.
 - [Shibo](entities/Shibo.md) — Founder of Yueban Dongli discussing Xiaoban, companion robotics, robot liveliness, and emotional interaction architecture.
 - [Shizilukou Crossing](entities/ShizilukouCrossing.md) — Podcast/media project where the first ingested episode was published.
+- [水仙](entities/Shuixian.md) — Former YiLaoYongYi producer and student voice describing repeated internships, graduation anxiety, and resume pressure.
 - [Slack](entities/Slack.md) — Enterprise collaboration product discussed as too hard for Paperboy to directly replace, motivating an agent layer over existing workflows.
 - [Siri](entities/Siri.md) — Apple assistant discussed as a possible platform-native carrier for stronger AI and Gemini integration.
 - [Sprinto](entities/Sprinto.md) — Compliance and trust SaaS company built through deliberate validation, real audit learning, and AI-aware automation.
@@ -191,7 +194,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yueban Dongli](entities/YuebanDongli.md) — Robotics company founded by Shibo to build the Xiaoban companion robot.
 - [Yuanbao](entities/Yuanbao.md) — Tencent AI assistant discussed as a domestic alternative to Doubao.
 - [硬地骇客](entities/YingdiHaike.md) — Podcast/show context for EP108's AI coding market discussion.
-- [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for the Jim Simons quantitative investing episode.
+- [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for episodes on Jim Simons quantitative investing and post-2000s internship anxiety.
 - [Youyou Agent](entities/YouyouAgent.md) — Digital-life agent experiment discussed as an early agent-native project.
 - [Youju](entities/Youju.md) — Podcast/project focused on AI games and AI interactive entertainment.
 - [Zhang Jiayuan](entities/ZhangJiayuan.md) — MultiCard founder discussing model orchestration, AI coding commoditization, roadmap taste, and retained human judgment.
@@ -240,6 +243,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agentic Economy](concepts/AgenticEconomy.md) — Infrastructure and economics for agent-to-service and agent-to-agent task execution.
 - [Agentic Workflow](concepts/AgenticWorkflow.md) — Work pattern where AI agents use tools, context, and process state to complete real tasks.
 - [Assistive AI](concepts/AssistiveAI.md) — AI systems that reduce communication, accessibility, or ability barriers, grounded here by an unclear-speech repair prototype.
+- [Big Company Halo](concepts/BigCompanyHalo.md) — Resume signal created by recognizable large-company internships, useful but incomplete without substantive work and direction.
 - [Building Public](concepts/BuildingPublic.md) — Sharing product progress publicly to find users, feedback, collaborators, and distribution before a product is complete.
 - [Business-Led AI Transformation](concepts/BusinessLedAITransformation.md) — Enterprise AI adoption pattern led by business pain, workflow redesign, and incentive change rather than IT ownership alone.
 - [Category Creation](concepts/CategoryCreation.md) — Startup go-to-market challenge of teaching buyers to understand, name, and budget for a new category.
@@ -262,6 +266,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Demand Harvesting](concepts/DemandHarvesting.md) — Go-to-market pattern where startups capture already expressed buyer demand instead of first creating a new category.
 - [Deterministic Audit Data](concepts/DeterministicAuditData.md) — System-of-record evidence for audit-critical yes-or-no facts that should remain separate from probabilistic AI output.
 - [Digital Employees](concepts/DigitalEmployees.md) — Enterprise AI systems treated as labor that must be onboarded, trained, connected, and managed.
+- [Dirty Work](concepts/DirtyWork.md) — Low-status or repetitive work that can still reveal workflow logic, responsibility boundaries, and improvement opportunities.
 - [Distribution Led Product Building](concepts/DistributionLedProductBuilding.md) — SaaS strategy where product selection and growth are shaped by reusable acquisition systems.
 - [Domain Expert Alignment](concepts/DomainExpertAlignment.md) — AI development pattern where researchers and engineers work with real field experts in domains such as coding, finance, safety, and law.
 - [Embodied AI](concepts/EmbodiedAI.md) — Robotics and physical AI direction discussed as both bubbly and strategically important.
@@ -278,10 +283,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frontier Model Scaling](concepts/FrontierModelScaling.md) — Capability-scaling problem involving parameters, compute, data quality, training efficiency, and limits of simple scaling-law extrapolation.
 - [Framework-Led SaaS](concepts/FrameworkLedSaaS.md) — Software built around a named methodology, expert community, or professional framework.
 - [Generative Engine Optimization](concepts/GenerativeEngineOptimization.md) — Practice of improving whether and how brands appear in AI-generated answers.
+- [Graduation Anxiety](concepts/GraduationAnxiety.md) — Pressure around school-to-work transition, resume gaps, peer comparison, and uncertain direction.
 - [Headless Software](concepts/HeadlessSoftware.md) — Product-design thesis that software value should be separable from GUI-first human operation.
 - [Human-Agent Collaboration](concepts/HumanAgentCollaboration.md) — Product-design problem of finding better ways for people and AI agents to work together beyond chat, prompt, and session interfaces.
 - [Human Judgment Under AI](concepts/HumanJudgmentUnderAI.md) — Claim that AI improves preparation but cannot replace fast, situated judgment in live professional settings.
 - [Interleaved Thinking](concepts/InterleavedThinking.md) — Agentic reasoning pattern where models act, observe environment/tool feedback, and re-plan.
+- [Internship As Career Exploration](concepts/InternshipAsCareerExploration.md) — Using internships to test directions and stage goals instead of only soothing anxiety or decorating a resume.
 - [Investment Risk Management](concepts/InvestmentRiskManagement.md) — Position sizing, diversification, leverage control, automated rules, and emotional discipline for surviving uncertainty.
 - [Large Company Open Source Strategy](concepts/LargeCompanyOpenSourceStrategy.md) — Strategic use of open source by large companies and the tension between influence and internal value capture.
 - [Large Company Organizational Inertia](concepts/LargeCompanyOrganizationalInertia.md) — Big-company dynamic where resources and momentum amplify work but rules and scale reduce individual leverage.
@@ -325,6 +332,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vibe Coding](concepts/VibeCoding.md) — AI-assisted coding practice whose value is capability expansion as much as speed.
 - [Vision Language Action Models](concepts/VisionLanguageActionModels.md) — Robot models that connect perception, language, and action but may struggle to cover continuous physical action spaces.
 - [Voice Interaction](concepts/VoiceInteraction.md) — AI interaction mode based on speech and interactive audio experiences.
+- [Workplace Hidden Rules](concepts/WorkplaceHiddenRules.md) — Implicit communication, etiquette, and relationship norms that new interns learn inside organizations.
 - [World Action Models](concepts/WorldActionModels.md) — Intermediate robot/world-model route using video-rich action-conditioned modeling, treated as useful but incomplete without causality.
 - [World Models](concepts/WorldModels.md) — Models of physical or conceptual environments linked to embodied AI and learning examples.
 - [Zero Trust Security](concepts/ZeroTrustSecurity.md) — Cybersecurity idea that systems should not automatically trust software, access, or activity by default.

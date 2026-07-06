@@ -159,3 +159,7 @@ Added source page for a Keji Luandun episode on Baidu's reported Q3 2025 loss, s
 ## [2026-07-07] report | Graph health report generated
 
 319 nodes analyzed.
+
+## [2026-07-07] ingest | EP36 第一批有毕业焦虑的00后，开始学会用实习「饮鸩止渴」
+
+Added source page for a YiLaoYongYi episode on post-2000s internship pressure, graduation anxiety, workplace hidden rules, big-company resume signaling, dirty work, and using internships to filter future direction. Created supporting pages for Mannisen, Shuixian, Graduation Anxiety, Internship As Career Exploration, Workplace Hidden Rules, Big Company Halo, and Dirty Work; updated overview, index, and the YiLaoYongYi show page.
