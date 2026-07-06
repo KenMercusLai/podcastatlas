@@ -2,7 +2,7 @@
 title: "DeepSeek"
 type: entity
 tags: [company, model, open-source-ai]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]
+sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]
 last_updated: 2026-07-07
 ---
 
@@ -14,6 +14,8 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 
 [[biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]] adds DeepSeek as a timing and international-impact marker. The hosts place the recording just after DeepSeek's open-source week and mention [[AlephAlpha]]'s view that DeepSeek may not be a purely groundbreaking innovation but still has substantial ecosystem impact.
 
+[[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]] adds DeepSeek as a market-repricing catalyst. [[LaoMai]] argues that the important effect is not a simple one-company negative for [[Nvidia]], but a broader investor question: whether other AI companies' heavy spending will produce enough returns and whether Chinese technology assets deserve higher valuation after the model shock.
+
 ## Connections
 - [[Qwen]] — compared as another prominent Chinese open-source model effort.
 - [[OpenSourceAIModels]] — broader category for model ecosystem influence.
@@ -21,3 +23,4 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 - [[Doubao]] and [[Yuanbao]] — domestic AI assistant competition and model-routing context.
 - [[ProductLedWillingnessToPay]] — substitute quality affects whether users pay.
 - [[AlephAlpha]] and [[EuropeanAIIndustrialConstraints]] — European AI comparison added by the Neihe Konghuang episode.
+- [[AIEquityValuationRisk]], [[Nvidia]], and [[HongKongTechRepricing]] — EP57's market-pricing and China-tech allocation context.

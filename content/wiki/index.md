@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP57 美股动荡，东升西降？这回是走是留](sources/ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5.md) — Podcast episode on U.S. equity volatility, Trump/Fed policy pressure, mega-cap concentration, retail crowding, defensive dividend assets, index reentry discipline, and Hong Kong tech repricing.
 - [EP43 对话素人博主，原来财务和自由是分开的](sources/ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7lsklr3vmtbc4l-p.md) — Podcast episode on Xiaohongshu creator monetization, local lifestyle store reviews, ordinary creator income, and the difference between financial freedom and lifestyle freedom.
 - [72. 中文播客活化石与真OG](sources/zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1.md) — Podcast episode on Apple Podcasts' anniversary, podcast/live-radio history, AI programming's changing form, search-entry shifts, and display ergonomics for coding and office work.
 - [71. 编程的内燃机时代](sources/biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1.md) — Podcast episode on AI translation, task-as-a-service, programming's internal-combustion-era shift, AI coding verification, and European AI industrial constraints.
@@ -92,6 +93,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [DeepSeek](entities/DeepSeek.md) — Chinese open-source model effort cited as a peer signal for Qwen.
 - [Deerflow](entities/Deerflow.md) — Open-source deep-research and desktop-workflow project discussed through AI coding, Chinese models, community governance, and multimodal work.
 - [Devin](entities/Devin.md) — Cognition coding-agent product discussed through the Windsurf acquisition context.
+- [Donald Trump](entities/DonaldTrump.md) — U.S. political figure used in EP57 as a policy-volatility context for tariffs, spending, debt pressure, and equity-market repricing.
 - [Doubao](entities/Doubao.md) — ByteDance AI assistant used as the central case for Chinese consumer AI subscription pricing.
 - [EOS Worldwide](entities/EOSWorldwide.md) — Methodology and coaching organization behind the EOS ecosystem that shaped Ninety's early product and channel.
 - [EarthKit](entities/EarthKit.md) — Jie Dechen's multimodal project for inferring photo locations, mentioned as background before Paperboy.
@@ -106,7 +108,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gemini CLI](entities/GeminiCLI.md) — Command-line AI coding tool discussed through long-context planning and model-provider tool competition.
 - [Gino Wickman](entities/GinoWickman.md) — EOS founder whose methodology and community created the ecosystem around Ninety's early product.
 - [Google](entities/Google.md) — Company behind Gemini and Android, discussed through AI product surfaces, search-platform comparison, and mobile-platform strategy.
+- [Goldman Sachs](entities/GoldmanSachs.md) — Financial institution referenced in EP57 through retail ownership data, mega-cap concentration data, and bank-stock weakness.
 - [Great Harvest Bread](entities/GreatHarvestBread.md) — Early Boulder retail customer for Justin's Nut Butter.
+- [Hang Seng Tech Index](entities/HangSengTechIndex.md) — Hong Kong technology benchmark discussed through DeepSeek-driven China-tech repricing and dynamic linkage with Nasdaq.
+- [HSBC](entities/HSBC.md) — Hong Kong banking and dividend-stock example from EP57's Q&A, framed as income-oriented but not risk-free.
 - [HTC](entities/HTC.md) — PDA and smartphone maker that helped launch Android with the first Android phone before Samsung captured larger Android scale.
 - [Huaqiangbei](entities/Huaqiangbei.md) — Shenzhen electronics-market cluster central to MediaTek-enabled shanzhai handset production and distribution.
 - [Girish Redikar](entities/GirishRedikar.md) — Founder of Sprinto and former RecruiterBox founder discussing failed ideas, validation, service productization, and AI governance.
@@ -121,6 +126,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [iPhone](entities/IPhone.md) — Apple smartphone product that reset handset competition around touch UI, app ecosystems, and platform coherence.
 - [J.P. Morgan](entities/JPMorgan.md) — Financier referenced in the 1907 panic segment as a stabilizing actor who asked Livermore to stop shorting.
 - [Janet Yellen](entities/JanetYellen.md) — U.S. fiscal-policy figure discussed through short-term Treasury issuance and long-bond funding-cost timing.
+- [Jerome Powell](entities/JeromePowell.md) — Federal Reserve chair referenced in EP57 through communication, labor-data, and policy-volatility timing.
 - [Jensen Huang](entities/JensenHuang.md) — Nvidia founder/CEO referenced through insider selling as one input in AI equity valuation risk.
 - [Jiang Yang](entities/JiangYang.md) — Paperboy founder arguing that human-agent collaboration needs OS-level context, persistent memory, and new interface forms.
 - [Jie Dechen](entities/JieDechen.md) — Paperboy founding engineer explaining OS-level memory, autocomplete, PR descriptions, and agent-tool competition.
@@ -129,6 +135,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [JetBrains](entities/JetBrains.md) — Incumbent IDE company referenced as slow to respond to the AI coding workflow shift.
 - [Jeffrey Hollender](entities/JeffreyHollender.md) — Seventh Generation co-founder advising mission-driven consumer founders on purpose, messaging, trial, and growth pace.
 - [JK Molina](entities/JKMolina.md) — Influencer distribution partner who helped scale Tweet Hunter.
+- [JPMorgan Chase](entities/JPMorganChase.md) — Bank and market-data reference in EP57, used for retail-flow evidence and financial-sector warning signals.
 - [John Icabone](entities/JohnIcabone.md) — Justin Gold's roommate and early Justin's Nut Butter production helper.
 - [Justin Gold](entities/JustinGold.md) — Founder of Justin's Nut Butter, discussing CPG product experimentation, retail distribution, acquisition, and later return.
 - [Justin Yan](entities/JustinYan.md) — Fengyan Fengyu host who built an OpenClaw-like personal agent to understand agent-native software, skills, and permission design.
@@ -178,6 +185,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mas](entities/Mas.md) — Ninety's AI companion bot built around organizational operating context.
 - [Manus](entities/Manus.md) — Agent product referenced as a milestone in the first 500 days of the agent wave.
 - [你的书房](entities/NiDeShufang.md) — Personal book-management product used as an example of paid AI features, bounded usage, and data portability.
+- [Nasdaq Composite](entities/NasdaqComposite.md) — Tech-heavy U.S. index used in EP57 for technical weakness, AI/mega-cap concentration, and Hong Kong tech correlation.
 - [NetEase](entities/NetEase.md) — Chinese game company mentioned as becoming more active in AI adoption.
 - [NewSpot](entities/NewSpot.md) — Justin Yan's software product contrasted with OpenClaw as a traditional app where agent lessons may improve research workflows.
 - [内核恐慌](entities/NeiheKonghuang.md) — Technology podcast/show context for episodes on AI programming, AI translation, podcast history, and display ergonomics.
@@ -223,6 +231,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Siri](entities/Siri.md) — Apple assistant discussed as a possible platform-native carrier for stronger AI and Gemini integration.
 - [Sprinto](entities/Sprinto.md) — Compliance and trust SaaS company built through deliberate validation, real audit learning, and AI-aware automation.
 - [SpaceX](entities/SpaceX.md) — Private technology company referenced in the AI/private-company IPO valuation discussion.
+- [S&P 500](entities/SP500.md) — Broad U.S. equity benchmark used in EP57 for long-term index investing, current valuation, and staged reentry discipline.
 - [Starbucks](entities/Starbucks.md) — National channel that placed Justin's Nut Butter squeeze packs into bistro boxes and forced manufacturing professionalization.
 - [StayPit](entities/StayPit.md) — Developer associated with OpenClaw in the Fengyan Fengyu source.
 - [StepFun](entities/StepFun.md) — Foundation-model company chaired by Yin Qi and discussed through model R&D, terminal commercialization, and AI organization design.
@@ -231,6 +240,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tapio](entities/Tapio.md) — LinkedIn-focused SaaS product built as a sister product to Tweet Hunter.
 - [Tea Maker](entities/TeaMaker.md) — Bootstrapped SaaS holding company founded by Thibaut-Louis Lucas.
 - [Tencent](entities/Tencent.md) — Chinese internet company discussed through QQ membership history and Yuanbao AI assistant competition.
+- [Tesla](entities/Tesla.md) — Mega-cap EV company used in EP57 to separate political momentum and market story from delivery data and valuation discipline.
 - [The Mom Test](entities/TheMomTest.md) — Startup validation book referenced as a guardrail against leading customer interviews and false demand signals.
 - [The SaaS Podcast](entities/TheSaaSPodcast.md) — SaaS interview show covering founder growth, product validation, distribution, and AI-era SaaS strategy.
 - [ThreatLocker](entities/ThreatLocker.md) — Cybersecurity SaaS company built around zero trust controls, default-deny application control, and MSP-to-enterprise distribution.
@@ -256,6 +266,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Xiaohongshu](entities/Xiaohongshu.md) — Social and community platform positioned as a building-public channel, local lifestyle search entry point, and creator monetization venue.
 - [Xiaohongshu Hackathon Peak Competition](entities/XiaohongshuHackathonPeakCompetition.md) — Xiaohongshu's 48-hour AI-era hackathon for young builders, hardware makers, designers, and independent developers.
 - [Xiaoban](entities/Xiaoban.md) — Yueban Dongli's consumer bipedal companion robot designed around household emotional presence.
+- [Xiaomi](entities/Xiaomi.md) — Chinese technology company used in EP57 as a large, liquid Hong Kong/China tech allocation example.
 - [Xiao'e](entities/XiaoE.md) — Design graduate student and hackathon contestant building playful AI hardware for focus and real-world attention.
 - [Xiaoning](entities/Xiaoning.md) — Former game producer and Youju guest mapping AI interactive entertainment and AI game misconceptions.
 - [Xingbugudi](entities/Xingbugudi.md) — MiHoYo product example where an AI NPC acts as character IP and multiplayer social infrastructure.
@@ -336,6 +347,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Compliance Automation](concepts/ComplianceAutomation.md) — Software that helps companies prove and maintain security, privacy, compliance, and trust obligations with less manual work.
 - [Contact Center AI](concepts/ContactCenterAI.md) — Agent deployment in customer service, complaints, consultation, marketing, membership operations, calls, and messages.
 - [Context Engineering](concepts/ContextEngineering.md) — Practice of accumulating and shaping context as a durable advantage in AI work.
+- [Contrarian Sentiment Indicators](concepts/ContrarianSentimentIndicators.md) — Informal behavioral signals, such as EP57's "骂骂咧咧指数", used to judge whether market mood may be exhausted.
 - [CPG Distribution](concepts/CPGDistribution.md) — Physical-product go-to-market problem of getting packaged goods produced, stocked, sampled, replenished, and reordered.
 - [Creation As Consumption](concepts/CreationAsConsumption.md) — Product-design idea that making with AI can itself be an entertainment experience.
 - [Customer Concentration Risk](concepts/CustomerConcentrationRisk.md) — SaaS risk where one large customer can distort roadmap, mission, or validation signals.
@@ -345,6 +357,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Data Portability And Sustainable Tools](concepts/DataPortabilityAndSustainableTools.md) — Product trust pattern based on exportability, local data, maintenance, and lower server dependence.
 - [Dark Office](concepts/DarkOffice.md) — Office-work automation analogy where agents perform defined white-collar and gray-collar workflows like a dark factory.
 - [Default Deny Security](concepts/DefaultDenySecurity.md) — Cybersecurity control pattern where software or behavior is blocked unless explicitly approved.
+- [Defensive Dividend Assets](concepts/DefensiveDividendAssets.md) — Income and cash-flow-oriented equity allocation used as a defensive waiting position, while still requiring entry-price and leverage analysis.
 - [Derivative Amplified Volatility](concepts/DerivativeAmplifiedVolatility.md) — Market stress pattern where futures, options, leverage, and short covering magnify an underlying shock.
 - [Display Ergonomics](concepts/DisplayErgonomics.md) — Monitor-choice frame connecting screen size, aspect ratio, curvature, DPI, viewing distance, and text/code readability.
 - [Designed Agency In Games](concepts/DesignedAgencyInGames.md) — Game-design claim that fun choice comes from constraints, goals, feedback, and control rather than unlimited options.
@@ -376,9 +389,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Graduation Anxiety](concepts/GraduationAnxiety.md) — Pressure around school-to-work transition, resume gaps, peer comparison, and uncertain direction.
 - [GSM Standardization](concepts/GSMStandardization.md) — Standards tailwind that helped move mobile phones from analog voice devices toward digital GSM, SMS, and mass handset adoption.
 - [Headless Software](concepts/HeadlessSoftware.md) — Product-design thesis that software value should be separable from GUI-first human operation.
+- [Hong Kong Tech Repricing](concepts/HongKongTechRepricing.md) — EP57 frame for DeepSeek-driven reassessment of Hong Kong and China technology assets and their changing relationship with U.S. tech.
 - [Human-Agent Collaboration](concepts/HumanAgentCollaboration.md) — Product-design problem of finding better ways for people and AI agents to work together beyond chat, prompt, and session interfaces.
 - [Human Judgment Under AI](concepts/HumanJudgmentUnderAI.md) — Claim that AI improves preparation but cannot replace fast, situated judgment in live professional settings.
 - [In-Store Demos](concepts/InStoreDemos.md) — Retail sampling and storytelling sessions that help CPG products sell and generate customer-learning loops.
+- [Index Reentry Discipline](concepts/IndexReentryDiscipline.md) — Staged, valuation-aware approach to buying broad equity indexes after drawdowns instead of treating every pullback as an all-in signal.
 - [Interleaved Thinking](concepts/InterleavedThinking.md) — Agentic reasoning pattern where models act, observe environment/tool feedback, and re-plan.
 - [Internal Transfer Strategy](concepts/InternalTransferStrategy.md) — Handling department moves as managed career transitions across current and receiving managers.
 - [Internship As Career Exploration](concepts/InternshipAsCareerExploration.md) — Using internships to test directions and stage goals instead of only soothing anxiety or decorating a resume.
@@ -392,6 +407,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Market Mean Reversion](concepts/MarketMeanReversion.md) — Valuation and cycle frame where prices far from historical anchors can revert or overshoot under stress.
 - [Market Regime Shift](concepts/MarketRegimeShift.md) — Market state changes where historical statistical patterns may stop working.
 - [Materials Pipeline Company](concepts/MaterialsPipelineCompany.md) — Business model that owns AI-discovered material IP pipelines rather than only selling discovery tools.
+- [Mega-Cap Concentration Risk](concepts/MegaCapConcentrationRisk.md) — Risk that broad U.S. indexes become fragile when performance and weight concentrate in a handful of technology giants.
 - [Mission Driven Customer Education](concepts/MissionDrivenCustomerEducation.md) — Marketing and trial work that translates values-driven products into practical customer benefits.
 - [Model Harness Co-Evolution](concepts/ModelHarnessCoEvolution.md) — View that models and agent/harness systems improve each other through real workflow feedback.
 - [Model Provider Tool Competition](concepts/ModelProviderToolCompetition.md) — Pressure on workflow startups when frontier model providers ship official tools in the same category.
@@ -420,6 +436,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [QDII Allocation](concepts/QDIIAllocation.md) — Overseas-allocation problem where quota scarcity must be separated from asset price, duration, and currency risk.
 - [Quantitative Investing](concepts/QuantitativeInvesting.md) — Data- and model-driven investing based on repeated small statistical edges, execution, and risk control.
 - [Quantitative Overfitting](concepts/QuantitativeOverfitting.md) — Failure mode where a trading rule fits historical data but lacks robust out-of-sample value.
+- [Retail Investor Crowding](concepts/RetailInvestorCrowding.md) — Behavioral and positioning risk from unusually heavy ordinary-investor participation in high-valuation markets.
 - [Retail Shelf Placement](concepts/RetailShelfPlacement.md) — CPG issue where a product's shopper meaning changes depending on where it appears in the store.
 - [RMB Exchange Rate Policy](concepts/RMBExchangeRatePolicy.md) — Managed-stability frame for RMB/USD policy balancing capital flows, exports, and investor currency risk.
 - [Robot Liveliness](concepts/RobotLiveliness.md) — Product quality that makes a robot feel like an independent living-like presence rather than a configurable appliance.
