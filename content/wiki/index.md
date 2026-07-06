@@ -12,6 +12,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [No.208 中国手机江湖·上：摩托罗拉、诺基亚和爱立信的诸神黄昏 | 中国互联网故事23](sources/no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376.md) — Podcast episode on Chinese mobile-phone prehistory, Motorola, Nokia, Ericsson, GSM, Symbian, iPhone/Android, MediaTek, Huaqiangbei, shanzhai phones, and domestic handset supply chains.
 - [EP39 风满楼下集：全球衰退慢慢逼近，严防死守步步为营！漫聊下半年美股、美债、汇率](sources/ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj.md) — Podcast episode on U.S. recession risk, AI equity valuation, QDII allocation, U.S. Treasury duration risk, currency risk, and RMB/USD policy.
 - [EP38 风满楼！全球资本市场巨幅动荡，腥风血雨时刻近在咫尺](sources/ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9.md) — Podcast episode on global market turmoil, yen carry trade unwinds, Japan's selloff, Fed rate-cut expectations, yield-curve inversion, Buffett's cash, and market mean reversion.
+- [Advice Line with Jeffrey Hollender of Seventh Generation](sources/advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714.md) — Podcast episode on Jeffrey Hollender, Seventh Generation, mission-driven consumer products, green hushing, customer education, sampling, repeat purchase, and sustainable growth pace.
 - [Justin's Nut Butter: Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter.](sources/justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b.md) — Podcast episode on Justin Gold, Justin's Nut Butter, CPG distribution, retail shelf placement, squeeze-pack trial products, Starbucks, Hormel, and founder return after acquisition.
 - [EP36 第一批有毕业焦虑的00后，开始学会用实习「饮鸩止渴」](sources/ep36-di-yi-pi-you-biye-jiaolv-de-00-hou-kaishi-xuehui-yong-shixi-yinzhen-zhike-lj5s97tbtj2gly7oppujgsv3cgk8.md) — Podcast episode on post-2000s internship anxiety, workplace hidden rules, big-company resume signaling, dirty work, and using internships to filter future direction.
 - [当“印钞机”百度开始失血，是天灾还是人祸？](sources/dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun.md) — Podcast episode on Baidu's search-ad decline, AI-search cannibalization, open-web traffic loss, Wenxin's weak product mindshare, and cash-cow strategic inertia.
@@ -44,11 +45,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [25 & Pine](entities/25AndPine.md) — Family furniture company using social storytelling to sell parent-child shared furniture.
 - [A Brief History of Intelligence](entities/ABriefHistoryOfIntelligence.md) — Book used in the Neihe Konghuang episode to connect biological intelligence, simulation, world models, and mentalizing.
 - [Aether AI](entities/AetherAI.md) — AI robotics company founded by Huang Biwei to build causal world models for embodied intelligence.
 - [Adao](entities/Adao.md) — MiniMax Agent chief architect discussing agent harnesses, multi-agent cross-checking, and model-harness feedback loops.
 - [Agan](entities/Agan.md) — Rolling AI partner discussing enterprise AI deployment, FDE work, and AI-era role changes.
 - [Alex Berman](entities/AlexBerman.md) — LinkedIn influencer partner associated with Tapio's distribution strategy.
+- [Alan Newman](entities/AlanNewman.md) — Seventh Generation co-founder whose founder conflict with Jeffrey Hollender is revisited in the Advice Line context.
 - [Aleph Alpha](entities/AlephAlpha.md) — German AI company referenced as part of the episode's discussion of European AI visibility and constraints.
 - [Alibaba](entities/Alibaba.md) — Large technology company discussed through Qwen, open source, organizational order, and talent management.
 - [Amazon](entities/Amazon.md) — Cloud and AI infrastructure buyer discussed through Nvidia demand and hyperscaler capex assumptions.
@@ -68,11 +71,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bird Mobile](entities/BirdMobile.md) — First-generation Chinese domestic handset brand remembered for licenses, local channels, celebrity marketing, and the "手机中的战斗机" slogan.
 - [Bobo's Oat Bars](entities/BobosOatBars.md) — Food company that shared early Boulder kitchen capacity and employees with Justin's Nut Butter.
 - [Boston Dynamics](entities/BostonDynamics.md) — Robotics company referenced through Shibo's admiration for Marc Raibert and autonomous robotics.
+- [Built for a Better World](entities/BuiltForABetterWorld.md) — Jeffrey Hollender's book about Seventh Generation and the future role of responsible business.
 - [ByteDance](entities/ByteDance.md) — Company behind Doubao, discussed through AI cost pressure, video capability, and paid membership strategy.
 - [Cang Shifu](entities/CangShifu.md) — AI practitioner and creator discussing CLI workflows, skills, Code Pilot, and hands-on agent use.
+- [Caroline Buck](entities/CarolineBuck.md) — Petaluma founder asking how to explain plant-based dog food without triggering backlash.
 - [Character AI](entities/CharacterAI.md) — Character-chat product referenced as an AI-as-interaction-object example in AI interactive entertainment.
 - [ChatGPT](entities/ChatGPT.md) — AI assistant/search surface monitored by Peak AI for brand visibility.
 - [Chen Jingchu](entities/ChenJingchu.md) — Serial builder and hackathon contestant arguing that building public is an AI-era product and distribution lever.
+- [Christina Molinaro](entities/ChristinaMolinaro.md) — 25 & Pine founder discussing viral social growth and repeatable customer acquisition.
 - [Claude Code](entities/ClaudeCode.md) — Agentic coding tool used as an example of workflow-oriented AI use.
 - [Cloudflare](entities/Cloudflare.md) — Infrastructure platform discussed as an operations target for coding agents and agent-facing deployment work.
 - [Code Pilot](entities/CodePilot.md) — Localized coding agent project discussed through skills, memory, CLI, and tool harnesses.
@@ -117,6 +123,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jie Dechen](entities/JieDechen.md) — Paperboy founding engineer explaining OS-level memory, autocomplete, PR descriptions, and agent-tool competition.
 - [Jim Simons](entities/JimSimons.md) — Mathematician and Renaissance Technologies founder used to explain quantitative investing, risk control, and ordinary-investor limits.
 - [JetBrains](entities/JetBrains.md) — Incumbent IDE company referenced as slow to respond to the AI coding workflow shift.
+- [Jeffrey Hollender](entities/JeffreyHollender.md) — Seventh Generation co-founder advising mission-driven consumer founders on purpose, messaging, trial, and growth pace.
 - [JK Molina](entities/JKMolina.md) — Influencer distribution partner who helped scale Tweet Hunter.
 - [John Icabone](entities/JohnIcabone.md) — Justin Gold's roommate and early Justin's Nut Butter production helper.
 - [Justin Gold](entities/JustinGold.md) — Founder of Justin's Nut Butter, discussing CPG product experimentation, retail distribution, acquisition, and later return.
@@ -182,13 +189,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Party Guitar](entities/PartyGuitar.md) — Winning portable chord-based music prototype from the Xiaohongshu hackathon.
 - [Peak AI](entities/PeakAI.md) — AI search analytics SaaS company discussed through rapid validation, GEO, and mid-market pricing.
 - [Perplexity](entities/Perplexity.md) — AI search tool discussed as one of the surfaces monitored by Peak AI.
+- [Petaluma](entities/Petaluma.md) — Direct-to-consumer plant-based dog food company balancing evidence, skepticism, sampling, and health positioning.
 - [People's Bank of China](entities/PeoplesBankOfChina.md) — Central bank discussed through RMB exchange-rate stability and managed currency policy.
 - [Peter Burns](entities/PeterBurns.md) — Experienced food-company operator who joined Justin's Nut Butter and eventually became CEO.
+- [Phil Holstead](entities/PhilHolstead.md) — Red Truck Orchards founder discussing cherry vinegar messaging, sampling, and repeat purchase.
 - [Peter Lynch](entities/PeterLynch.md) — Fundamental investor used as a comparison point against Jim Simons's quantitative approach.
 - [QQ](entities/QQ.md) — Tencent messaging product used as the historical comparison for free-core, paid-membership internet services.
 - [Qianli Technology](entities/QianliTechnology.md) — AI-and-car terminal company chaired by Yin Qi and paired with StepFun's foundation-model strategy.
 - [Qwen](entities/Qwen.md) — Alibaba's open-source model family discussed as strategically important to Chinese AI and developer adoption.
 - [RecruiterBox](entities/RecruiterBox.md) — Recruiting SaaS company whose traction and compliance pain shaped Girish Redikar's later Sprinto thesis.
+- [Red Truck Orchards](entities/RedTruckOrchards.md) — Michigan cherry vinegar company using regional story, sampling, and simple use cases to create trial.
 - [Renaissance Technologies](entities/RenaissanceTechnologies.md) — Quantitative investment firm founded by Jim Simons and associated with the Medallion Fund.
 - [Revid](entities/Revid.md) — AI video creation and editing product associated with Tea Maker.
 - [Roblox](entities/Roblox.md) — Creator-platform comparison point for AI interactive content platforms and editor-backed game creation.
@@ -198,6 +208,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Same.Dev](entities/SameDev.md) — Jiang Yang's prior AI-assisted web UI generation project mentioned as Paperboy founder background.
 - [SAP](entities/SAP.md) — German enterprise software company used as a reference point for Germany's manufacturing-heavy software culture.
 - [Samsung](entities/Samsung.md) — Android-era smartphone maker that captured much of the post-iPhone non-Apple handset opportunity.
+- [Seventh Generation](entities/SeventhGeneration.md) — Responsible household-products company used as Jeffrey Hollender's purpose-driven business case.
 - [Share AI](entities/ShareAI.md) — Agent-infrastructure company behind Learn Claude Code and the K-series tooling discussed by Lai Xinlu.
 - [Shanbin](entities/Shanbin.md) — Xiaohongshu community technology lead and organizer framing the hackathon around creator energy and AI-era age.
 - [Shengpai Notice](entities/ShengpaiNotice.md) — Host-built podcast workflow tool used as a practical AI coding/productization case.
@@ -228,6 +239,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Type Type Maker](entities/TypeTypeMaker.md) — AI game-creation tool discussed as a fast prototyping and creator-platform example.
 - [U.S. Treasury](entities/USTreasury.md) — U.S. debt issuer discussed through short bills, long-bond supply, fiscal interest cost, and Treasury duration risk.
 - [UNFI](entities/UNFI.md) — Food distributor that created an early chicken-and-egg barrier for Justin's Nut Butter and Whole Foods placement.
+- [Unilever](entities/Unilever.md) — Consumer-goods company that acquired Seventh Generation in 2016.
 - [Vibe Song](entities/VibeSong.md) — Online vibe-coding competition platform prototype that turns hackathon building into a public participatory format.
 - [VMG](entities/VMG.md) — Investment group that backed Justin's Nut Butter with growth capital around 2012.
 - [Wang Dafu](entities/WangDafu.md) — Keji Luandun participant contributing operations, data-work, scripting, and business-logic optimization examples.
@@ -353,6 +365,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frontier Model Scaling](concepts/FrontierModelScaling.md) — Capability-scaling problem involving parameters, compute, data quality, training efficiency, and limits of simple scaling-law extrapolation.
 - [Framework-Led SaaS](concepts/FrameworkLedSaaS.md) — Software built around a named methodology, expert community, or professional framework.
 - [Generative Engine Optimization](concepts/GenerativeEngineOptimization.md) — Practice of improving whether and how brands appear in AI-generated answers.
+- [Green Hushing](concepts/GreenHushing.md) — Companies doing sustainability or social-impact work while avoiding public language that creates backlash risk.
 - [Graduation Anxiety](concepts/GraduationAnxiety.md) — Pressure around school-to-work transition, resume gaps, peer comparison, and uncertain direction.
 - [GSM Standardization](concepts/GSMStandardization.md) — Standards tailwind that helped move mobile phones from analog voice devices toward digital GSM, SMS, and mass handset adoption.
 - [Headless Software](concepts/HeadlessSoftware.md) — Product-design thesis that software value should be separable from GUI-first human operation.
@@ -370,6 +383,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Market Mean Reversion](concepts/MarketMeanReversion.md) — Valuation and cycle frame where prices far from historical anchors can revert or overshoot under stress.
 - [Market Regime Shift](concepts/MarketRegimeShift.md) — Market state changes where historical statistical patterns may stop working.
 - [Materials Pipeline Company](concepts/MaterialsPipelineCompany.md) — Business model that owns AI-discovered material IP pipelines rather than only selling discovery tools.
+- [Mission Driven Customer Education](concepts/MissionDrivenCustomerEducation.md) — Marketing and trial work that translates values-driven products into practical customer benefits.
 - [Model Harness Co-Evolution](concepts/ModelHarnessCoEvolution.md) — View that models and agent/harness systems improve each other through real workflow feedback.
 - [Model Provider Tool Competition](concepts/ModelProviderToolCompetition.md) — Pressure on workflow startups when frontier model providers ship official tools in the same category.
 - [Mobile Internet Prehistory](concepts/MobileInternetPrehistory.md) — Handset, network, standards, and consumer-adoption layer that made later mobile internet possible.
@@ -392,6 +406,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Proactive Agents](concepts/ProactiveAgents.md) — Agents that use context and memory to help before the user fully specifies a task, while still requiring permission and review design.
 - [Product Led Willingness To Pay](concepts/ProductLedWillingnessToPay.md) — Claim that users pay when product value is clear, differentiated, stable, and trustworthy.
 - [Promotion Expectation Management](concepts/PromotionExpectationManagement.md) — Making advancement goals, evidence, timing, and manager sponsorship explicit before formal review windows.
+- [Purpose Driven Business](concepts/PurposeDrivenBusiness.md) — Mission-led company-building where social or environmental purpose must still improve customer value and business performance.
 - [QDII Allocation](concepts/QDIIAllocation.md) — Overseas-allocation problem where quota scarcity must be separated from asset price, duration, and currency risk.
 - [Quantitative Investing](concepts/QuantitativeInvesting.md) — Data- and model-driven investing based on repeated small statistical edges, execution, and risk control.
 - [Quantitative Overfitting](concepts/QuantitativeOverfitting.md) — Failure mode where a trading rule fits historical data but lacks robust out-of-sample value.
@@ -415,6 +430,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Stablecoins](concepts/Stablecoins.md) — Crypto-dollar infrastructure discussed through payment demand, Treasury demand, issuer risk, and regulation.
 - [Startup Governance](concepts/StartupGovernance.md) — Founder protection system spanning mission, charter language, board design, real power, and cultural commitments.
 - [Subagent Workflow](concepts/SubagentWorkflow.md) — Agentic pattern that delegates heavy or adversarial work to background agents and integrates their outputs.
+- [Sustainable Growth Pace](concepts/SustainableGrowthPace.md) — Choosing a company growth speed that employees, operations, mission, and management capacity can absorb.
 - [Task As A Service](concepts/TaskAsAService.md) — Shift from operating visible apps toward delegated task completion through AI and agent-callable surfaces.
 - [Treasury Duration Risk](concepts/TreasuryDurationRisk.md) — Bond risk from rate sensitivity, long-bond supply, fiscal pressure, and currency effects despite a rate-cut-cycle setup.
 - [Trial Size Product](concepts/TrialSizeProduct.md) — Smaller, lower-commitment format that lets customers test a product before buying the full version.
