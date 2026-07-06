@@ -207,3 +207,7 @@ Added source page for a How I Built This Advice Line episode on Jeffrey Hollende
 ## [2026-07-07] ingest | EP76 穿越1940：我与股票大作手利弗莫尔的最后对话
 
 Added source page for a YiLaoYongYi episode on Jesse Livermore, trend following, stop-loss discipline, pyramiding into winners, avoiding averaging down, AI-market bubble psychology, Nvidia as a modern trend example, and the life boundaries around trading. Created supporting pages for Jesse Livermore, J.P. Morgan, Trend Following, Stop-Loss Discipline, Pyramiding, Averaging Down, and Speculative Bubble Psychology; updated overview, index, YiLaoYongYi, Nvidia, Investment Risk Management, Market Regime Shift, and AI Equity Valuation Risk pages.
+
+## [2026-07-07] ingest | EP43 对话素人博主，原来财务和自由是分开的
+
+Added source page for a YiLaoYongYi episode on Xiaohongshu creator monetization, local lifestyle store reviews, ordinary creator income, barter and brand collaborations, platform review, client/payment risk, hostile comments, and the distinction between financial freedom and lifestyle freedom. Created supporting pages for Zhuzhu, Xiaohongshu Creator Monetization, Local Lifestyle Store Reviews, Lifestyle Subsidy Creator Work, and Financial Freedom Vs Lifestyle Freedom; updated overview, index, YiLaoYongYi, LaoMai, and Xiaohongshu pages.

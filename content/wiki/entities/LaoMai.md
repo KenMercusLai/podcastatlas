@@ -1,8 +1,8 @@
 ---
 title: "老麦"
 type: entity
-tags: [person, investing]
-sources: [ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj]
+tags: [person, investing, media]
+sources: [ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7lsklr3vmtbc4l-p]
 last_updated: 2026-07-07
 ---
 
@@ -12,6 +12,8 @@ last_updated: 2026-07-07
 
 [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj]] adds his asset-allocation posture after the selloff. He emphasizes view-consistent trading, cautions against chasing [[QDIIAllocation]] quota into expensive U.S. equities, discusses U.S. bond products as a possible defensive bridge, and frames RMB/USD as more likely to stay within a managed range than to move to extreme scenarios.
 
+In [[ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7lsklr3vmtbc4l-p]], 老麦 appears as the host/interviewer rather than the investing guest. He guides [[Zhuzhu]] through the practical economics of [[XiaohongshuCreatorMonetization]], then summarizes the episode's core distinction between ordinary creator income and [[FinancialFreedomVsLifestyleFreedom]].
+
 ## Source Position
 - He treats the Japanese equity crash as unusual even by long market-practitioner standards.
 - He argues that [[DerivativeAmplifiedVolatility]] helped turn a policy and currency shock into a sharper index move.
@@ -19,6 +21,7 @@ last_updated: 2026-07-07
 - He cautions against overreading one month of economic data when evaluating [[FederalReserve]] policy.
 - In EP39, he treats [[CurrencyRisk]] and [[RMBExchangeRatePolicy]] as central to overseas allocation decisions, especially for investors measuring returns in RMB.
 - He argues that if an investor is cautious on equities, using lower-risk bond exposure can be more coherent than chasing Nasdaq exposure only because quota is available.
+- In EP43, he frames ordinary creator work as a way to improve life on the margin rather than a reliable path to financial freedom.
 
 ## Connections
 - [[YiLaoYongYi]] — show context for the episode.
@@ -26,3 +29,4 @@ last_updated: 2026-07-07
 - [[BankOfJapan]], [[FederalReserve]], [[YenCarryTrade]], and [[CarryTradeUnwind]] — main macro mechanisms in his explanation.
 - [[InvestmentRiskManagement]] — practical attitude of humility and liquidity when markets become hard to read.
 - [[QDIIAllocation]], [[TreasuryDurationRisk]], [[CurrencyRisk]], and [[RMBExchangeRatePolicy]] — allocation themes he develops in EP39.
+- [[Zhuzhu]], [[XiaohongshuCreatorMonetization]], and [[FinancialFreedomVsLifestyleFreedom]] — creator-economy themes he draws out as EP43 host.
