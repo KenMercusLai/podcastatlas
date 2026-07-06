@@ -163,3 +163,7 @@ Added source page for a Keji Luandun episode on Baidu's reported Q3 2025 loss, s
 ## [2026-07-07] ingest | EP36 第一批有毕业焦虑的00后，开始学会用实习「饮鸩止渴」
 
 Added source page for a YiLaoYongYi episode on post-2000s internship pressure, graduation anxiety, workplace hidden rules, big-company resume signaling, dirty work, and using internships to filter future direction. Created supporting pages for Mannisen, Shuixian, Graduation Anxiety, Internship As Career Exploration, Workplace Hidden Rules, Big Company Halo, and Dirty Work; updated overview, index, and the YiLaoYongYi show page.
+
+## [2026-07-07] ingest | Justin's Nut Butter: Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter.
+
+Added source page for a How I Built This episode on Justin Gold, Justin's Nut Butter, CPG distribution, retail shelf placement, squeeze-pack trial products, Starbucks, VMG, Hormel, Forward Consumer Partners, and founder return after acquisition. Created supporting entity and concept pages for the key people, companies, retail mechanics, founder role transition, and post-acquisition founder identity; updated overview, index, and related validation, customer pull, distribution, willingness-to-pay, hiring, governance, financial gravity, shareholder primacy, and founder-product-fit pages.

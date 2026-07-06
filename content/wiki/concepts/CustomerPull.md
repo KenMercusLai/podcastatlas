@@ -2,13 +2,13 @@
 title: "Customer Pull"
 type: concept
 tags: [startup, product-market-fit, saas]
-sources: [bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, eric-ries-on-how-founders-quietly-lose-their-company, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, finding-product-market-fit-after-3-years-of-failed-ideas, how-danny-jenkins-bootstrapped-threatlocker-from-150k-debt-to-200m, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex]
+sources: [bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, eric-ries-on-how-founders-quietly-lose-their-company, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, finding-product-market-fit-after-3-years-of-failed-ideas, how-danny-jenkins-bootstrapped-threatlocker-from-150k-debt-to-200m, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b]
 last_updated: 2026-07-07
 ---
 
 # Customer Pull
 
-Customer pull is the demand signal that users actively ask for a product, follow up, return, refer others, or keep paying without continuous founder pushing. In [[bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10]], [[ThibautLouisLucas]] treats customer pull as one of the clearest ways to identify early product-market fit. [[eric-ries-on-how-founders-quietly-lose-their-company]] adds [[EricRies]]'s view that product-market fit becomes obvious when the company is overwhelmed by demand. [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]] adds [[MariusMiners]]'s version: if target customers do not organically name the problem as a top priority, the idea may not have enough pull. [[finding-product-market-fit-after-3-years-of-failed-ideas]] adds [[RecruiterBox]] customers tolerating a poor payment flow and [[Sprinto]] buyers already searching for compliance help as two more pull signals. [[how-danny-jenkins-bootstrapped-threatlocker-from-150k-debt-to-200m]] adds [[ThreatLocker]] as a case where pull appeared through upfront payment, word of mouth, webinar leads, and a post-[[Kaseya]] demand surge. [[ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex]] adds a public-demo version through [[PartyGuitar]], where audience members asking where to buy the device becomes an early but still unproven pull signal.
+Customer pull is the demand signal that users actively ask for a product, follow up, return, refer others, or keep paying without continuous founder pushing. In [[bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10]], [[ThibautLouisLucas]] treats customer pull as one of the clearest ways to identify early product-market fit. [[eric-ries-on-how-founders-quietly-lose-their-company]] adds [[EricRies]]'s view that product-market fit becomes obvious when the company is overwhelmed by demand. [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]] adds [[MariusMiners]]'s version: if target customers do not organically name the problem as a top priority, the idea may not have enough pull. [[finding-product-market-fit-after-3-years-of-failed-ideas]] adds [[RecruiterBox]] customers tolerating a poor payment flow and [[Sprinto]] buyers already searching for compliance help as two more pull signals. [[how-danny-jenkins-bootstrapped-threatlocker-from-150k-debt-to-200m]] adds [[ThreatLocker]] as a case where pull appeared through upfront payment, word of mouth, webinar leads, and a post-[[Kaseya]] demand surge. [[ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex]] adds a public-demo version through [[PartyGuitar]], where audience members asking where to buy the device becomes an early but still unproven pull signal. [[justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b]] adds a CPG version through [[JustinsNutButter]]: people liked samples, stores gradually accepted the product, customers asked for a plain "classic" version, and squeeze packs worked once they became a trial path into jar purchases.
 
 ## Key Claims
 - Strong demand often appears as users chasing the founder, not the founder repeatedly trying to convince users.
@@ -21,6 +21,7 @@ Customer pull is the demand signal that users actively ask for a product, follow
 - Customer pull can be event-driven in security markets when a visible incident makes a previously abstract risk urgent.
 - Word of mouth through technical communities, MSPs, Reddit, Discord, and webinars can expose pull before brand awareness is mature.
 - Public demos and [[BuildingPublic]] can expose lightweight pull before payment, but teams still need follow-up behavior to separate curiosity from demand.
+- In retail CPG, pull may be suppressed by poor [[RetailShelfPlacement]] or low [[SalesVelocity]], so founders have to distinguish weak demand from bad merchandising context.
 
 ## Connections
 - [[ThibautLouisLucas]] - source of the concept in this wiki.
@@ -35,3 +36,4 @@ Customer pull is the demand signal that users actively ask for a product, follow
 - [[ValidatedLearning]] - customer pull is one way a startup learns whether assumptions are true.
 - [[CustomerConcentrationRisk]] - unhealthy demand concentration that can masquerade as validation.
 - [[PartyGuitar]], [[AIHackathons]], and [[BuildingPublic]] - hackathon case where audience reaction may become early pull.
+- [[JustinsNutButter]], [[TrialSizeProduct]], [[RetailShelfPlacement]], and [[InStoreDemos]] - CPG case where sampling and pack format revealed pull.
