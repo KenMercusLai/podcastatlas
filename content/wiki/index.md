@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E145.上钟了！4000点之上的心理按摩](sources/e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e.md) — 面基 episode on A-share valuation indicators, 4000-point bull-market psychology, realized-versus-paper gains, value/momentum strategy mixing, and drawdown-aware allocation.
 - [132. 雪糕江湖](sources/132-xuegao-jianghu-fengtouquan-1-132-1.md) — 疯投圈 episode on China's ice-cream market, contrasting prepackaged cold-chain brands with store-made chains, sampling, franchise expansion, and price-war risk.
 - [Vol.245 五周年，你身边的商业就是这样](sources/vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244.md) — 商业就是这样 fifth-anniversary listener episode on city commercial observations, tourism traffic mismatch, local-service platforms, overseas retail rules, TikTok turbulence, and five-year personal changes.
 - [E144.交易的艺术：不预测，统计优势，分散红利，随机波动](sources/e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0.md) — 面基 episode on no-prediction trend trading, positive-expectation systems, diversification alpha, random market narratives, and price-as-probability thinking.
@@ -134,6 +135,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [张一贞](entities/ZhangYizhen.md) — 面基 guest explaining A-share valuation indicators, trend rules, asset rotation, and drawdown-aware investor psychology.
 - [疯投圈](entities/FengTouQuan.md) — Podcast/show context for the ice-cream industry episode on cold-chain, store-made retail, sampling, and franchising.
 - [Yeren Xiansheng](entities/YerenXiansheng.md) — Chinese store-made gelato/ice-cream chain used as the episode's core case for sampling, fresh-made positioning, and franchise expansion.
 - [Zhong Xuegao](entities/ZhongXuegao.md) — Chinese prepackaged premium ice-cream brand used as the cold-chain and high-price contrast case.
@@ -743,6 +745,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, and Louis Hong episodes.
 
 ## Concepts
+- [A-Share Valuation Indicators](concepts/AShareValuationIndicators.md) — Indicator cluster for judging A-share market heat through valuation, fund returns, deposit ratios, log charts, confidence ranges, and deviation measures.
+- [Multi-Strategy Allocation](concepts/MultiStrategyAllocation.md) — Portfolio frame that mixes value, momentum, stock-bond allocation, and multi-asset rotation to reduce dependence on one market path.
+- [Drawdown Psychology](concepts/DrawdownPsychology.md) — Investor-behavior constraint where drawdown duration, not just depth, drains patience, action capacity, and profit-capture discipline.
 - [Fresh-Made Ice Cream Retail](concepts/FreshMadeIceCreamRetail.md) — Store-based ice-cream model where final production, tasting, freshness signaling, and immediate consumption become the channel.
 - [Cold-Chain CPG Constraint](concepts/ColdChainCPGConstraint.md) — Frozen-product distribution problem where temperature control, delivery risk, and logistics cost shape pricing and channel strategy.
 - [Franchise-Led Consumer Chain Expansion](concepts/FranchiseLedConsumerChainExpansion.md) — Growth pattern where a tested store model scales through mature franchise operators and local site execution.

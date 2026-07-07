@@ -895,3 +895,11 @@ Added source page for a 疯投圈 episode on China's ice-cream market, contrasti
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | E145.上钟了！4000点之上的心理按摩
+
+Added source page for a 面基 episode on A-share market psychology above 4000, valuation indicators, realized-versus-paper gains, value and momentum strategy mixing, stock-bond/multi-asset rotation, and drawdown tolerance. Created pages for 张一贞, A-Share Valuation Indicators, Multi-Strategy Allocation, and Drawdown Psychology; updated overview, index, 面基, Asset Allocation, Trend Following, Retail Bull Market Psychology, Investment Risk Management, Behavioral Investing Biases, Value Investing, A-Share Bull Market History, Paper Wealth Vs Cash Value, and Defensive Dividend Assets. No direct contradiction found; the source reinforces prior A-share bull-market, trend-following, and allocation material while adding a stronger frame for profit-capture and drawdown-duration psychology.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
