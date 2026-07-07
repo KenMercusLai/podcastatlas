@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP117 豆包月活过亿，阿里再造「千问」是不是晚了？](sources/ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa.md) — Yingdi Haike episode on Qwen, Doubao, Alibaba's service ecosystem, consumer AI assistant entry points, agentic commerce, and AI coding monetization.
 - [Vol. 160 一年多以后，再聊AI写代码Vibe Coding](sources/vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1.md) — Fengyan Fengyu episode on NewSpot, mature vibe-coding workflows, YOLO permissions, AI coding verification, AI-search trust, human taste, and model/cost fit.
 - [她想造一个 AI 时代的“超级游乐场”｜对谈 Roi：幕间创始人 / CEO](sources/ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec.md) — Podcast episode on Roi, Mujian, AI simulation content, creator tools, controlled freedom, AI super creators, and platform strategy for virtual-life experiences.
 - [Vol. 162 科技快乐星球44: 新模型“SOTA们”齐贺新春](sources/vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1.md) — Fengyan Fengyu AI-news roundup on Xcode Agentic Coding, Codex/Claude Code/Gemini workflow fit, domestic model releases, AI video, agentic commerce, voice/local models, and AI infrastructure.
@@ -106,6 +107,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Quark](entities/Quark.md) — Alibaba search/browser/netdisk product surface discussed as a Qwen distribution path and AI-product-fragmentation case.
+- [Taobao](entities/Taobao.md) — Alibaba ecommerce platform discussed as a possible fulfillment surface for Qwen and agentic commerce.
+- [Gaode](entities/Gaode.md) — Alibaba map and local-service surface discussed as part of Qwen's real-world service-entry layer.
+- [DingTalk](entities/DingTalk.md) — Alibaba collaboration product discussed as a work-service surface that could connect to Qwen.
 - [Roi](entities/Roi.md) — Mujian founder and CEO connecting AI simulation content, creator tools, play, and first-seat founder agency.
 - [Mujian](entities/Mujian.md) — AI simulation interactive content platform building virtual-life experiences, creator tooling, distribution, and monetization.
 - [LibLib](entities/LibLib.md) — AI creator-tool and community company where Roi worked before founding Mujian.
@@ -130,10 +135,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Booking Holdings](entities/BookingHoldings.md) — Global OTA comparator used to place Ctrip alongside Booking and Expedia.
 - [Expedia Group](entities/ExpediaGroup.md) — Global OTA comparator and Elong investor context in the Ctrip episode.
 - [Meituan](entities/Meituan.md) — Local-services platform named as a possible later competitor to Ctrip in hotel and travel booking.
-- [Fliggy](entities/Fliggy.md) — Alibaba-linked travel platform named as a possible later competitor to Ctrip.
+- [Fliggy](entities/Fliggy.md) — Alibaba-linked travel platform discussed as both a Ctrip competitor and a possible Qwen fulfillment surface.
 - [Douyin](entities/Douyin.md) — Attention platform named as a possible travel-booking challenger through discovery and local-commerce flows.
 - [JD Travel](entities/JDTravel.md) — Ecommerce-linked travel-booking competitor mentioned in the Ctrip episode.
-- [Damai](entities/Damai.md) — Ticketing platform used as a parallel platform-governance example for refund rules and monopoly-like gatekeeping.
+- [Damai](entities/Damai.md) — Ticketing platform used as both a platform-governance example and a possible Qwen fulfillment surface.
 - [State Administration for Market Regulation](entities/StateAdministrationForMarketRegulation.md) — Chinese antitrust regulator context for the reported Ctrip investigation.
 - [Yunnan Homestay Association](entities/YunnanHomestayAssociation.md) — Homestay operator association cited as a complainant-side signal in the Ctrip antitrust discussion.
 - [面基](entities/Mianji.md) — Podcast/show context for E153's discussion of Kelly sizing, compounding growth, investment edge, and trading discipline.
@@ -225,7 +230,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hillary Clinton](entities/HillaryClinton.md) — High-fee speech and campaign-controversy example in EP77's political identity premium comparison.
 - [Barack Obama](entities/BarackObama.md) — Cleaner post-office book and production-contract example of political identity premium.
 - [George W. Bush](entities/GeorgeWBush.md) — Political-family and energy-business comparison tied to Harken stock-sale and investigation context.
-- [Shopify](entities/Shopify.md) — E-commerce platform that grew from Snowdevil's internal storefront software into merchant infrastructure for storefronts, payments, shipping, fulfillment, and first sales.
+- [Shopify](entities/Shopify.md) — E-commerce platform that grew into merchant infrastructure and is later cited as an early AI-assistant commerce integration partner.
 - [Tobias Lütke](entities/TobiasLutke.md) — Shopify co-founder and CEO whose path runs from German software apprenticeship and Snowdevil's Ruby storefront to venture-scale leadership and IPO.
 - [Scott Lake](entities/ScottLake.md) — Snowdevil and early Shopify co-founder who handled business/vendor work, named Shopify, and held the early CEO role before leaving.
 - [Snowdevil](entities/Snowdevil.md) — Online snowboard store whose inadequate e-commerce tooling problem led to Shopify.
@@ -338,7 +343,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alex Berman](entities/AlexBerman.md) — LinkedIn influencer partner associated with Tapio's distribution strategy.
 - [Alan Newman](entities/AlanNewman.md) — Seventh Generation co-founder whose founder conflict with Jeffrey Hollender is revisited in the Advice Line context.
 - [Aleph Alpha](entities/AlephAlpha.md) — German AI company referenced as part of the episode's discussion of European AI visibility and constraints.
-- [Alibaba](entities/Alibaba.md) — Large technology company discussed through Qwen, open source, organizational order, talent management, and Daqi's early product-design career context.
+- [Alibaba](entities/Alibaba.md) — Large technology company discussed through Qwen, open source, organizational order, consumer assistant strategy, service-entry ecosystems, and Daqi's early product-design career context.
 - [Amazon](entities/Amazon.md) — Cloud and AI infrastructure buyer discussed through Nvidia demand, hyperscaler capex assumptions, and EP77's politically sensitive Melania Trump documentary deal.
 - [Android](entities/Android.md) — Google-backed open smartphone operating system that became the non-Apple ecosystem after iPhone reset handset competition.
 - [Anthropic](entities/Anthropic.md) — AI company discussed alongside OpenAI in the episode's treatment of frontier models, agent tools, and enterprise deployment.
@@ -365,7 +370,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Caroline Buck](entities/CarolineBuck.md) — Petaluma founder asking how to explain plant-based dog food without triggering backlash.
 - [Character AI](entities/CharacterAI.md) — Character-chat product referenced as an AI-as-interaction-object example and as a companion-chat commercialization caution.
 - [China Securities Regulatory Commission](entities/ChinaSecuritiesRegulatoryCommission.md) — Chinese securities regulator discussed through A-share supervision, market warnings, price limits, and off-market financing cleanup.
-- [ChatGPT](entities/ChatGPT.md) — AI assistant/search surface monitored by Peak AI for brand visibility.
+- [ChatGPT](entities/ChatGPT.md) — AI assistant/search surface monitored by Peak AI and discussed through memory, mobile use, design work, and remote-agent control.
 - [Chen Jingchu](entities/ChenJingchu.md) — Serial builder and hackathon contestant arguing that building public is an AI-era product and distribution lever.
 - [Christina Molinaro](entities/ChristinaMolinaro.md) — 25 & Pine founder discussing viral social growth and repeatable customer acquisition.
 - [Claude Code](entities/ClaudeCode.md) — Agentic coding tool used for workflow-oriented AI use, implementation, review loops, and external Skills.
@@ -381,7 +386,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Deerflow](entities/Deerflow.md) — Open-source deep-research and desktop-workflow project discussed through AI coding, Chinese models, community governance, and multimodal work.
 - [Devin](entities/Devin.md) — Cognition coding-agent product discussed through the Windsurf acquisition context.
 - [Donald Trump](entities/DonaldTrump.md) — U.S. political figure used as both an EP57 market-policy volatility variable and EP77's central political influence monetization case.
-- [Doubao](entities/Doubao.md) — ByteDance AI assistant used as the central case for Chinese consumer AI subscription pricing.
+- [Doubao](entities/Doubao.md) — ByteDance AI assistant used as a central case for Chinese consumer AI subscription pricing and domestic assistant-entry competition.
 - [EOS Worldwide](entities/EOSWorldwide.md) — Methodology and coaching organization behind the EOS ecosystem that shaped Ninety's early product and channel.
 - [EarthKit](entities/EarthKit.md) — Jie Dechen's multimodal project for inferring photo locations, mentioned as background before Paperboy.
 - [Edward](entities/Edward.md) — Designer and hackathon contestant behind Atoom, emphasizing taste and idea quality after vibe coding accelerates implementation.
@@ -393,7 +398,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [FocusFly / 专注飞机](entities/FocusFly.md) — Una's focus-timer app using a flight metaphor and serving as EP102's ASO case.
 - [Forward Consumer Partners](entities/ForwardConsumerPartners.md) — Investment group that acquired a controlling stake in Justin's Nut Butter and brought Justin Gold back as owner, founder, and board member.
 - [枫言枫语](entities/FengyanFengyu.md) — Podcast/show context for the OpenClaw and self-built personal-agent episode.
-- [Gemini](entities/Gemini.md) — AI assistant/search surface discussed in Peak AI's market framing and Gemini CLI's coding context.
+- [Gemini](entities/Gemini.md) — AI assistant/search and coding surface discussed through Peak AI, Gemini CLI, product fragmentation, and assistant workflow comparison.
 - [Gemini CLI](entities/GeminiCLI.md) — Command-line AI coding tool discussed through long-context planning and model-provider tool competition.
 - [Gino Wickman](entities/GinoWickman.md) — EOS founder whose methodology and community created the ecosystem around Ninety's early product.
 - [Google](entities/Google.md) — Company behind Gemini and Android, discussed through AI product surfaces, search-platform comparison, and mobile-platform strategy.
@@ -490,7 +495,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ninety](entities/Ninety.md) — SaaS platform for leadership-team operating rhythms, built through the EOS ecosystem and now embedding AI.
 - [Nokia](entities/Nokia.md) — GSM and feature-phone giant whose Symbian dominance, durable mass-market phones, and later Windows Phone turn anchor the handset-history episode.
 - [Nvidia](entities/Nvidia.md) — AI semiconductor company used as EP39's main case for separating company quality from stock valuation risk.
-- [OpenAI](entities/OpenAI.md) — Frontier AI company referenced in relation to agents, FDE, and AI market structure.
+- [OpenAI](entities/OpenAI.md) — Frontier AI company referenced in relation to agents, FDE, AI market structure, ChatGPT stickiness, and commerce integrations.
 - [Open Claw](entities/OpenClaw.md) — Domestic agent-wave project/context paired with Open Cloud in the Hermes Agent discussion.
 - [Open Cloud](entities/OpenCloud.md) — Domestic agent-era project/event discussed through skills, CLI friction, ecosystem consensus, and scheduled routines.
 - [Outrank](entities/Outrank.md) — SEO product discussed as part of Tea Maker's AI-era distribution playbook.
@@ -513,7 +518,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [钱粮胡同FM](entities/QianliangHutongFM.md) — Banking and finance podcast/show context for the EP25 YiLaoYongYi crossover on Chinese-funded and foreign-funded banks.
 - [前途无量](entities/QianTuWuLiang.md) — Financial drama used by EP44 as a hook for discussing bank fraud, fund flows, AML, and laundering stages.
 - [城中之城](entities/CityInTheCity.md) — Financial drama used by EP26 as a hook for bank workplace realism, audit, credit diligence, and colleague-boundary discussion.
-- [Qwen](entities/Qwen.md) — Alibaba's open-source model family discussed as strategically important to Chinese AI and developer adoption.
+- [Qwen](entities/Qwen.md) — Alibaba's model family and consumer assistant brand discussed through open-source strategy, developer adoption, and service-entry ambitions.
 - [RecruiterBox](entities/RecruiterBox.md) — Recruiting SaaS company whose traction and compliance pain shaped Girish Redikar's later Sprinto thesis.
 - [Red Truck Orchards](entities/RedTruckOrchards.md) — Michigan cherry vinegar company using regional story, sampling, and simple use cases to create trial.
 - [Renaissance Technologies](entities/RenaissanceTechnologies.md) — Quantitative investment firm founded by Jim Simons and associated with the Medallion Fund.
@@ -547,7 +552,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Symbian](entities/Symbian.md) — Pre-iPhone smartphone operating system platform dominated by Nokia before iPhone and Android changed ecosystem competition.
 - [Tapio](entities/Tapio.md) — LinkedIn-focused SaaS product built as a sister product to Tweet Hunter.
 - [Tea Maker](entities/TeaMaker.md) — Bootstrapped SaaS holding company founded by Thibaut-Louis Lucas.
-- [Tencent](entities/Tencent.md) — Chinese internet company discussed through QQ membership history and Yuanbao AI assistant competition.
+- [Tencent](entities/Tencent.md) — Chinese internet company discussed through QQ membership history, Yuanbao AI assistant competition, WeChat, mini-programs, and service-entry strategy.
 - [Tencent Meeting](entities/TencentMeeting.md) — Tencent collaboration product used as Vol. 164's example for decomposing SaaS into agent-recombinable video, recording, storage, and interface capabilities.
 - [Tesla](entities/Tesla.md) — Mega-cap EV company used in EP57 to separate political momentum and market story from delivery data and valuation discipline.
 - [The Mom Test](entities/TheMomTest.md) — Startup validation book referenced as a guardrail against leading customer interviews and false demand signals.
@@ -613,10 +618,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [AI Assistant Service Entry](concepts/AIAssistantServiceEntry.md) — Consumer AI assistant strategy where the assistant becomes a front door for shopping, travel, ticketing, maps, work, and other service fulfillment.
 - [AI Simulation Content](concepts/AISimulationContent.md) — AI interactive content form built from agents, rules, state, feedback, and repeatable virtual life scenarios.
 - [AI Super Creators](concepts/AISuperCreators.md) — AI-native creator pattern where individuals combine taste, prompting, coding, media tools, and community distribution.
 - [Agentic Software](concepts/AgenticSoftware.md) — Software designed around agents interpreting goals, selecting capabilities, and generating or reshaping work surfaces.
-- [Agentic Commerce](concepts/AgenticCommerce.md) — Shopping and payment workflows where agents can select, buy, and pay under explicit user permission boundaries.
+- [Agentic Commerce](concepts/AgenticCommerce.md) — Shopping and payment workflows where agents or assistants can select, buy, pay, and connect to service fulfillment under explicit user permission boundaries.
 - [Atomic Capability Services](concepts/AtomicCapabilityServices.md) — SaaS decomposition pattern where reliable product abilities become agent-callable and recombinable atoms.
 - [AI Communication Ability](concepts/AICommunicationAbility.md) — Clear expression, listening, prompting, and task framing as core skills for working through agents.
 - [AI Content Devaluation](concepts/AIContentDevaluation.md) — Audience and product-trust problem where cheap AI generation makes generic content or tools feel less worth attention.
@@ -774,7 +780,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI BPO Roll Up](concepts/AIBPORollUp.md) — Restructuring business-process outsourcing and professional services with agents, experts, and shared systems.
 - [AI Assisted Software Development Risk](concepts/AIAssistedSoftwareDevelopmentRisk.md) — Risk that AI-speed development still fails on migration, compatibility, and production engineering details.
 - [AI Coding Verification](concepts/AICodingVerification.md) — Engineering bottleneck that moves AI coding from generation speed to tests, review, browser checks, maintainability, and responsibility.
-- [AI Commercialization Pressure](concepts/AICommercializationPressure.md) — Tension between model influence, training costs, ROI, and business accountability.
+- [AI Commercialization Pressure](concepts/AICommercializationPressure.md) — Tension between model influence, training costs, inference costs, assistant traffic, ecosystem strategy, ROI, and business accountability.
 - [AI Discovery SEO](concepts/AIDiscoverySEO.md) — Distribution idea that AI-mediated discovery still depends on public web signals, search results, posts, and mentions.
 - [AI Engineering Thinking](concepts/AIEngineeringThinking.md) — Practice of turning goals into requirements, architecture maps, tests, logs, docs, review, audit rules, and business handoffs before asking AI to execute.
 - [AI Equity Valuation Risk](concepts/AIEquityValuationRisk.md) — Public-market risk that real AI company quality is already priced too aggressively.
@@ -793,11 +799,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI NPC Social Infrastructure](concepts/AINPCSocialInfrastructure.md) — Use of AI NPCs as hosts, social participants, and atmosphere regulators inside multiplayer scenes.
 - [AI Organization Design](concepts/AIOrganizationDesign.md) — Organizational problem of combining high talent density, coordination, research vitality, and result accountability in AI companies.
 - [AI Plus Terminals](concepts/AIPlusTerminals.md) — Foundation-model commercialization thesis linking models, software, hardware carriers, users, and physical-world data.
-- [AI Product Fragmentation](concepts/AIProductFragmentation.md) — Gap between strong model capability and a coherent product entry point across assistant, browser, workspace, and platform surfaces.
+- [AI Product Fragmentation](concepts/AIProductFragmentation.md) — Gap between strong model capability and a coherent product entry point across assistant, browser, search, workspace, and platform surfaces.
 - [AI Programming Engine Shift](concepts/AIProgrammingEngineShift.md) — View that AI changes programming like an engine changes manual work, shifting value toward framing, testing, and judgment.
 - [AI Search Analytics](concepts/AISearchAnalytics.md) — Category for measuring brand visibility, citations, and sentiment across AI answer/search tools.
 - [AI Skills](concepts/AISkills.md) — Codified workflows, standards, context, tool use, verification loops, and recurring routines that make AI behavior reusable.
-- [AI Subscription Economics](concepts/AISubscriptionEconomics.md) — Tradeoffs of free tiers, paid tiers, usage limits, and heavy-user costs in AI products.
+- [AI Subscription Economics](concepts/AISubscriptionEconomics.md) — Tradeoffs of free tiers, paid tiers, usage limits, CAC, assistant revenue, and heavy-user costs in AI products.
 - [AI Translation](concepts/AITranslation.md) — Context-aware, multimodal translation across webpages, PDFs, subtitles, images, manga, and speech.
 - [AI Workforce Monitoring](concepts/AIWorkforceMonitoring.md) — Workplace risk where AI-enabled productivity measurement turns into invasive employee behavior surveillance.
 - [Airline Service Differentiation](concepts/AirlineServiceDifferentiation.md) — Airline passenger-experience differences created by cabin class, hardware, amenities, food budget, crew style, route design, and ground service.

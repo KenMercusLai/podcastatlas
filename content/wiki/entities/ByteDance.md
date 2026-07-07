@@ -2,7 +2,7 @@
 title: "ByteDance"
 type: entity
 tags: [company, ai, platform]
-sources: [cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]
+sources: [cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]
 last_updated: 2026-07-07
 ---
 
@@ -14,8 +14,11 @@ ByteDance is the company context for [[Doubao]] in [[cong-qq-huiyuan-dao-doubao-
 
 [[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] adds ByteDance through Seedance 2.0. The hosts treat the model as a strong [[VideoModels]] signal because of clarity, cinematic feel, and camera movement, while also noting that recognizable IP, voices, and likenesses create rights and safety constraints.
 
+[[ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa]] adds ByteDance through Doubao's consumer-assistant scale. The hosts use source-reported Doubao monthly active users over 100 million to frame why [[Alibaba]] is pushing [[Qwen]] despite entering a crowded market, and to contrast ByteDance's traffic advantage with Alibaba's potential service-fulfillment advantage.
+
 ## Key Points
 - The hosts say Doubao's scale makes free access increasingly expensive because usage drives token and compute costs.
+- EP117 adds that Doubao's scale makes it the benchmark competitor for Alibaba's Qwen assistant strategy.
 - ByteDance's video background is used to explain why Doubao may have a stronger position in [[VideoModels]] than in text or image generation.
 - The episode treats ByteDance's cost pressure as a case of [[AICommercializationPressure]], not merely a desire to charge users.
 - The AI interactive entertainment episode links ByteDance's faster AI posture and video-generation capabilities to possible interactive-video experiments.
@@ -24,6 +27,7 @@ ByteDance is the company context for [[Doubao]] in [[cong-qq-huiyuan-dao-doubao-
 
 ## Connections
 - [[Doubao]] — ByteDance AI assistant and model product at the center of the episode.
+- [[Qwen]], [[Alibaba]], and [[AIAssistantServiceEntry]] — EP117's assistant-entry comparison.
 - [[AIInferenceCostStructure]] — cost structure forcing paid-service experimentation.
 - [[AISubscriptionEconomics]] — pricing and paid-tier logic discussed around Doubao.
 - [[ProductLedWillingnessToPay]] — product-quality standard ByteDance must meet for Doubao subscriptions to work.

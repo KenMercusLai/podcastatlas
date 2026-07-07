@@ -659,3 +659,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-07] ingest | EP117 豆包月活过亿，阿里再造「千问」是不是晚了？
+
+Added source page for a 硬地骇客 episode on Alibaba's Qwen assistant strategy, Doubao's scale, consumer AI assistant entry points, service fulfillment through Taobao/Fliggy/Damai/Gaode/DingTalk, OpenAI/Shopify commerce integration, Tencent's WeChat mini-program path, and why AI coding may monetize faster for smaller model companies. Created pages for AI Assistant Service Entry, Quark, Taobao, Gaode, and DingTalk; updated overview, index, Alibaba, Qwen, Doubao, ByteDance, Tencent, Yuanbao, ChatGPT, OpenAI, Shopify, Gemini, Fliggy, Damai, YingdiHaike, Agentic Commerce, AI Product Fragmentation, AI Subscription Economics, and AI Commercialization Pressure.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

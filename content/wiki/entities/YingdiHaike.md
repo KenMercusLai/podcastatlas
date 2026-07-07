@@ -2,13 +2,15 @@
 title: "硬地骇客"
 type: entity
 tags: [podcast, media]
-sources: [ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]
+sources: [ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]
 last_updated: 2026-07-07
 ---
 
 # 硬地骇客
 
 硬地骇客 is the podcast/show context for [[ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan]]. In this episode, the show connects [[Cursor]] pricing, [[Windsurf]]'s transaction turmoil, [[ClaudeCode]], [[GeminiCLI]], and the broader [[VibeCoding]] wave into one discussion about AI coding tool competition.
+
+[[ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa]] adds a consumer AI assistant strategy case. The episode compares [[Qwen]], [[Doubao]], [[Yuanbao]], [[DeepSeek]], [[ChatGPT]], and [[Gemini]], then argues that [[Alibaba]]'s advantage may lie in connecting an assistant to service fulfillment through [[Taobao]], [[Fliggy]], [[Damai]], [[Gaode]], and [[DingTalk]].
 
 [[ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx]] adds an AI game/social commercialization case through [[Simon]], [[MicoWorld]], and [[MicoAILab]]. The episode moves the show from AI tooling markets into [[AIStartupUnitEconomics]], [[MiddleEastSocialGameGrowth]], [[CrossCulturalUserResearch]], and the question of why [[CharacterAI]]-style demand does not automatically create a profitable product.
 
@@ -25,6 +27,7 @@ last_updated: 2026-07-07
 ## Connections
 - [[Cursor]], [[Windsurf]], [[ClaudeCode]], and [[GeminiCLI]] — central tools and companies discussed in the episode.
 - [[VibeCoding]], [[AICodingVerification]], and [[ModelProviderToolCompetition]] — main themes surfaced by the episode.
+- [[Qwen]], [[Doubao]], [[AIAssistantServiceEntry]], and [[AgenticCommerce]] — consumer assistant strategy themes added by EP117.
 - [[AIInferenceCostStructure]] and [[AISubscriptionEconomics]] — pricing and cost themes in the episode.
 - [[Podwise]], [[AgentOptimizedCLI]], and [[AISkills]] — CLI/Skills case added by EP124.
 - [[XiaoSun]], [[CreateWise]], [[SelfDirectedWork]], and [[FounderCashFlowConstraint]] — founder-life and early-startup case added by EP119.

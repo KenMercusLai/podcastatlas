@@ -2,13 +2,15 @@
 title: "ChatGPT"
 type: entity
 tags: [ai-tool, search, assistant]
-sources: [ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
+sources: [ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
 last_updated: 2026-07-07
 ---
 
 # ChatGPT
 
 ChatGPT appears in [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]] as one of the AI answer and search surfaces monitored by [[PeakAI]]. The episode frames ChatGPT as a place where B2B buyers may research products and where brands may need to understand whether they are mentioned, cited, and described favorably.
+
+[[ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa]] adds ChatGPT as the retention benchmark for consumer assistants. The hosts say one reason they keep returning to ChatGPT over [[Doubao]], [[Gemini]], or other assistants is accumulated memory and personal context, which makes later conversations feel more aware of the user.
 
 [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1]] adds an investing use case: ChatGPT-like tools can help ordinary investors understand filings, valuation ideas, and terminology, but should be used as assistants inside [[AIInvestmentResearch]] rather than as final stock pickers.
 
@@ -22,6 +24,7 @@ ChatGPT appears in [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]] as
 
 ## Connections
 - [[OpenAI]] - company associated with ChatGPT in the broader AI ecosystem.
+- [[AIAssistantServiceEntry]], [[PersistentAgentMemory]], and [[HumanAgentCollaboration]] — assistant-retention themes added by EP117.
 - [[PeakAI]] - product that monitors brand visibility in ChatGPT and similar tools.
 - [[AISearchAnalytics]] - category for measuring AI answer visibility.
 - [[GenerativeEngineOptimization]] and [[AIDiscoverySEO]] - marketing concepts related to appearing in AI-mediated answers.
