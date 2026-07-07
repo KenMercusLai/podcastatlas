@@ -2,8 +2,8 @@
 title: "Manus"
 type: entity
 tags: [ai-tool, agent]
-sources: [agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun]
-last_updated: 2026-07-06
+sources: [agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun]
+last_updated: 2026-07-08
 ---
 
 # Manus
@@ -20,6 +20,8 @@ Manus is referenced in [[agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-za
 
 [[weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun]] makes Manus the central case rather than a passing reference. The episode says Manus's value is in [[AgenticWorkflow]] and [[AgentHarness]] execution for SEO, advertising, competitor research, browser operation, and workflow completion, not merely PPTs or generated media. It also claims Meta/Facebook acquired Manus; the page treats that as a source claim, while preserving the episode's larger argument that Manus fit overseas model access, web data, paid software behavior, and [[AIAgentOverseasCommercialization]] better than China's closed platform environment.
 
+[[bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun]] adds Manus as a [[PaymentLedMarketSelection]] example. [[Win]] says the team first went to the United States while still doing Monica, then changed direction in a way that led to Manus, using the story to argue that overseas field exposure can reveal paid workflows and product direction that are hard to see from China alone.
+
 ## Connections
 - [[AgenticWorkflow]] — broader category Manus is used to illustrate.
 - [[HeadlessSoftware]] — source thesis that agents can route around older GUI-first products.
@@ -30,3 +32,4 @@ Manus is referenced in [[agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-za
 - [[OpenCloud]], [[OpenClaw]], and [[HermesAgent]] — later agent-product wave used as a contrast in the Hermes Agent source.
 - [[Moxt]], [[AINativeWorkspace]], and [[OrganizationalContext]] — workspace-centered competitor frame added by the Moxt source.
 - [[Meta]], [[AIAgentOverseasCommercialization]], [[ChinaAgentMarketFriction]], and [[ChineseModelLiberalArtsConstraint]] — acquisition, overseas-market, domestic-friction, and model-capability frame added by the Keji Luandun source.
+- [[PaymentLedMarketSelection]] and [[Win]] — field-discovery and overseas-market-choice frame added by the later Keji Luandun episode.

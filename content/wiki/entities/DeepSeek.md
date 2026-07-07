@@ -2,8 +2,8 @@
 title: "DeepSeek"
 type: entity
 tags: [company, model, open-source-ai]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun]
-last_updated: 2026-07-07
+sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun]
+last_updated: 2026-07-08
 ---
 
 # DeepSeek
@@ -24,6 +24,8 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 
 [[dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun]] uses DeepSeek as an analogy for engineering optimization under cost and resource pressure. The hosts compare DeepSeek's pricing and cost-structure story with [[Huawei]]'s [[TauLaw]] narrative to argue that competition is not always won only by the most raw compute or the most advanced process node; method, caching, utilization, architecture, and system integration can change the economic field.
 
+[[bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun]] adds DeepSeek as a cross-border adoption signal. [[Win]] says U.S. founders were using Chinese models such as DeepSeek and Kimi when the cost and performance fit, suggesting that practical utility can weaken nationality-first assumptions inside technical communities.
+
 ## Connections
 - [[Qwen]] — compared as another prominent Chinese open-source model effort.
 - [[OpenSourceAIModels]] — broader category for model ecosystem influence.
@@ -36,3 +38,4 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 - [[AIExportControls]], [[FrontierModelAccessRestrictions]], [[GLM52]], and [[SaaSReliabilityUnderPolicyRisk]] — policy-driven substitution context added by the Keji Luandun export-control episode.
 - [[AIInferenceCostStructure]] and [[ModelRoutingCostControl]] — cost-driven substitution context added by Vol. 167.
 - [[Huawei]], [[TauLaw]], and [[ConstraintDrivenEngineeringStrategy]] — engineering-optimization analogy added by the Huawei source.
+- [[PaymentLedMarketSelection]] and [[Win]] — overseas-market episode where DeepSeek is treated as a practical Chinese AI export rather than only a domestic substitute.

@@ -2,8 +2,8 @@
 title: "AI Agent Overseas Commercialization"
 type: concept
 tags: [ai-agents, commercialization, overseas, china]
-sources: [weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun]
-last_updated: 2026-07-07
+sources: [weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun]
+last_updated: 2026-07-08
 ---
 
 # AI Agent Overseas Commercialization
@@ -12,12 +12,15 @@ AI agent overseas commercialization is the pattern where an agent product may fi
 
 The concept is not simply "going abroad for regulation." The source ties overseas fit to [[AgenticWorkflow]] and [[AgentHarness]] mechanics: agents need access to tools, logged-in browser state, web data, APIs, and recoverable execution environments. It also ties overseas fit to [[ProductLedWillingnessToPay]], since users who already pay for SEO, ads, and software are easier to monetize than markets shaped by weak [[SoftwarePaymentCulture]].
 
+[[bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun]] adds the field-discovery version. [[Win]] says [[Manus]] changed direction after the team first went to the United States, using that story to argue that AI-agent founders need direct contact with overseas users, startup communities, payment habits, and marketing channels rather than only copying from China-based assumptions.
+
 ## Key Claims
 - Agents commercialize more easily when target workflows already happen on the open web, in browsers, or through callable SaaS tools.
 - Marketing, SEO, advertising, and foreign-trade workflows are attractive because they combine data gathering, writing, planning, and iterative execution.
 - Overseas markets can be more compatible with [[AgentFacingInterfaces]] when services expose APIs or tolerate browser automation.
 - Market fit also depends on model availability; open-ended marketing and writing workflows may require model strengths that the source associates with [[ChineseModelLiberalArtsConstraint]].
 - The overseas route does not eliminate competition: [[OpenAI]], [[Google]], [[OpenManus]], and other agent products can still compress a startup's lead.
+- Field visits can change product direction by exposing founders to real paid workflows, startup density, and buyer expectations that are hard to infer from afar.
 
 ## Connections
 - [[Manus]] — main source case.
@@ -26,3 +29,4 @@ The concept is not simply "going abroad for regulation." The source ties oversea
 - [[ChinaAgentMarketFriction]] — domestic contrast case.
 - [[ProductLedWillingnessToPay]] and [[SoftwarePaymentCulture]] — monetization side of the source's argument.
 - [[ModelProviderToolCompetition]] — competitive pressure once large model providers and open-source projects enter agent workflows.
+- [[PaymentLedMarketSelection]] — broader market-choice rule added by the Win episode.

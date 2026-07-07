@@ -2,8 +2,8 @@
 title: "One-Person Company"
 type: concept
 tags: [ai, entrepreneurship, company-formation, sales]
-sources: [opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1]
-last_updated: 2026-07-07
+sources: [opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun]
+last_updated: 2026-07-08
 ---
 
 # One-Person Company
@@ -14,6 +14,8 @@ The source's main warning is that the second meaning is much harder than the slo
 
 The legal discussion matters because "one person" does not make company obligations disappear. The episode says founders still need to understand financial separation, limited-liability boundaries, tax filings, registered address arrangements, contracts, and the consequences of mixing personal and company money. The same caution expands overseas: a foreign company or account can add tax, residence, source-of-funds, and repatriation questions before a customer has been found.
 
+[[bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun]] adds a compatible but more market-positive overseas angle. [[Win]] argues that small teams should go where users pay for useful products, especially U.S. software and AI-tool markets. The practical synthesis is sequence-sensitive: use [[PaymentLedMarketSelection]] and field visits to find buyer demand, but do not let overseas registration, accounts, or tax setup replace first-customer validation.
+
 ## Key Claims
 - AI-era OPC should not be reduced to company registration; it is a claim about whether one person can run the business loop.
 - A one-person legal structure may still need careful account separation, tax handling, and documentation to preserve the intended liability boundary.
@@ -23,6 +25,7 @@ The legal discussion matters because "one person" does not make company obligati
 - Training and "OPC陪跑" businesses can profit from the concept while leaving the underlying customer-acquisition problem unsolved for students.
 - Overseas OPC can look attractive because the same product might command higher prices, but it also raises tax, account, transfer, legal, and compliance complexity.
 - The safest sequence in the source is to validate demand first, then set up the company when a real customer, contract, or payment path requires it.
+- Overseas market choice can be rational for an OPC when [[ProductLedWillingnessToPay]] is materially stronger abroad, but only after the founder understands the buyer and collection path.
 
 ## Connections
 - [[KejiLuandun]] — source context for the OPC discussion.
@@ -34,3 +37,4 @@ The legal discussion matters because "one person" does not make company obligati
 - [[HumanJudgmentUnderAI]] and [[DomainExpertAlignment]] — operator expertise and responsibility that AI does not remove.
 - [[CrossBorderFundTransferRisk]] and [[CapitalAccountInvestmentRestrictions]] — overseas account and money-movement risks raised by the source.
 - [[SoftwarePaymentCulture]], [[AppStore]], [[Apple]], and [[WeChat]] — platform and payment context for whether AI-built apps actually monetize.
+- [[PaymentLedMarketSelection]] — Win source that reframes overseas setup as market discovery and payment-path selection.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-08] ingest | 别在国内卷了，去美国看看只要产品好就有人付费的市场
+
+Added source page for a Keji Luandun episode on Win's U.S. trip, CES networking, Tesla and Waymo Robotaxi observations, Chinese AI model adoption in U.S. startup circles, U.S. software payment behavior, and why founders should choose markets by demand and payment instead of defaulting to China first. Created Win and Payment Led Market Selection; updated overview, index, Keji Luandun, Manus, Tesla, Waymo, DeepSeek, AI Agent Overseas Commercialization, Software Payment Culture, Product Led Willingness To Pay, One-Person Company, and Pre-Product Selling pages. No direct contradiction found; the main tension with the OPC source is sequence-related: use overseas field discovery before setup, not overseas registration as a substitute for customer validation.
+
 ## [2026-07-07] ingest | Vol. 160 一年多以后，再聊AI写代码Vibe Coding
 
 Added source page for a Fengyan Fengyu episode on NewSpot, year-over-year vibe-coding change, Claude Code/Codex/Gemini workflows, YOLO permissions, AI-search trust and AISO/GEO behavior, test-driven coding-agent work, final product-flow verification, AI content devaluation, human authorship, communication ability, model/cost fit, and slowing down. Updated overview, index, NewSpot, Justin Yan, Fengyan Fengyu, Vibe Coding, AI Coding Verification, Agent Permission Boundaries, AI Engineering Thinking, Human Judgment Under AI, AI Communication Ability, Generative Engine Optimization, AI Discovery SEO, and AI Content Devaluation pages.
@@ -669,6 +673,10 @@ Ran lint. See lint-report.md for details.
 Added source page for a 硬地骇客 episode on Alibaba's Qwen assistant strategy, Doubao's scale, consumer AI assistant entry points, service fulfillment through Taobao/Fliggy/Damai/Gaode/DingTalk, OpenAI/Shopify commerce integration, Tencent's WeChat mini-program path, and why AI coding may monetize faster for smaller model companies. Created pages for AI Assistant Service Entry, Quark, Taobao, Gaode, and DingTalk; updated overview, index, Alibaba, Qwen, Doubao, ByteDance, Tencent, Yuanbao, ChatGPT, OpenAI, Shopify, Gemini, Fliggy, Damai, YingdiHaike, Agentic Commerce, AI Product Fragmentation, AI Subscription Economics, and AI Commercialization Pressure.
 
 ## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
 

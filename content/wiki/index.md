@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [别在国内卷了，去美国看看只要产品好就有人付费的市场](sources/bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun.md) — Keji Luandun episode on Win's U.S. trip, CES networking, Tesla/Waymo Robotaxi observations, Chinese AI model adoption abroad, U.S. paid-software culture, and payment-led market selection for founders.
 - [当华为抛出韬定律，我们该信它到哪一步？](sources/dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun.md) — Keji Luandun episode on Huawei's Tau Law, 3D chip stacking, constrained semiconductor strategy, HiSilicon backup culture, and Huawei's organization methodology.
 - [EP117 豆包月活过亿，阿里再造「千问」是不是晚了？](sources/ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa.md) — Yingdi Haike episode on Qwen, Doubao, Alibaba's service ecosystem, consumer AI assistant entry points, agentic commerce, and AI coding monetization.
 - [Vol. 160 一年多以后，再聊AI写代码Vibe Coding](sources/vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1.md) — Fengyan Fengyu episode on NewSpot, mature vibe-coding workflows, YOLO permissions, AI coding verification, AI-search trust, human taste, and model/cost fit.
@@ -154,7 +155,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王俊玉](entities/WangJunyu.md) — Entrepreneur/product voice emphasizing OpenClaw proactivity, memory, skills, digital employees, and AI management capability.
 - [Gao Jiyang](entities/GaoJiyang.md) — Xinghaitu founder whose path through SenseTime, Waymo, and Momenta shapes a pragmatic embodied-AI strategy.
 - [Xinghaitu](entities/Xinghaitu.md) — Embodied-AI robotics startup building whole machines, models, post-training tools, and real-world data loops.
-- [Waymo](entities/Waymo.md) — Autonomous-driving company used as Gao Jiyang's engineering training ground and large-organization contrast case.
+- [Waymo](entities/Waymo.md) — Autonomous-driving company used as Gao Jiyang's engineering training ground and as Win's driverless Robotaxi comparison case.
 - [Momenta](entities/Momenta.md) — Autonomous-driving company whose mass-production and customer-value culture shaped Gao Jiyang's operator training.
 - [Xu Huazhe](entities/XuHuazhe.md) — Scientist whose planned departure from Xinghaitu frames the algorithm-versus-value-chain discussion.
 - [Zhao Hang](entities/ZhaoHang.md) — Gao Jiyang collaborator at Waymo and early Xinghaitu participant.
@@ -439,7 +440,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Justin Gold](entities/JustinGold.md) — Founder of Justin's Nut Butter, discussing CPG product experimentation, retail distribution, acquisition, and later return.
 - [Justin Yan](entities/JustinYan.md) — Fengyan Fengyu host who built an OpenClaw-like personal agent to understand agent-native software, skills, and permission design.
 - [Justin's Nut Butter](entities/JustinsNutButter.md) — Natural-food CPG brand built from flavored nut-butter jars into squeeze packs, cups, and a $280 million Hormel acquisition.
-- [Keji Luandun](entities/KejiLuandun.md) — Podcast covering Chinese AI companies, software-payment norms, and practical AI coding/productization workflows.
+- [Keji Luandun](entities/KejiLuandun.md) — Podcast covering Chinese AI companies, software-payment norms, practical AI coding/productization workflows, AI policy, platform governance, and overseas market selection.
 - [Kedaibiao Lizheng](entities/KedaibiaoLizheng.md) — Episode guest focused on AI learning, skills, context, and agent-based workflows.
 - [Kenan Voice Changer](entities/KenanVoiceChanger.md) — Assistive AI prototype that repairs unclear speech so users can communicate during rehabilitation.
 - [Kaseya](entities/Kaseya.md) — Cybersecurity/MSP company referenced through the July 2021 ransomware incident that accelerated ThreatLocker demand.
@@ -558,7 +559,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tea Maker](entities/TeaMaker.md) — Bootstrapped SaaS holding company founded by Thibaut-Louis Lucas.
 - [Tencent](entities/Tencent.md) — Chinese internet company discussed through QQ membership history, Yuanbao AI assistant competition, WeChat, mini-programs, and service-entry strategy.
 - [Tencent Meeting](entities/TencentMeeting.md) — Tencent collaboration product used as Vol. 164's example for decomposing SaaS into agent-recombinable video, recording, storage, and interface capabilities.
-- [Tesla](entities/Tesla.md) — Mega-cap EV company used in EP57 to separate political momentum and market story from delivery data and valuation discipline.
+- [Tesla](entities/Tesla.md) — EV and autonomous-driving company used in EP57 for valuation risk and in the Win source for FSD/Robotaxi experience.
 - [The Mom Test](entities/TheMomTest.md) — Startup validation book referenced as a guardrail against leading customer interviews and false demand signals.
 - [The SaaS Podcast](entities/TheSaaSPodcast.md) — SaaS interview show covering founder growth, product validation, distribution, and AI-era SaaS strategy.
 - [ThreatLocker](entities/ThreatLocker.md) — Cybersecurity SaaS company built around zero trust controls, default-deny application control, and MSP-to-enterprise distribution.
@@ -583,6 +584,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [微信读书](entities/WeChatReading.md) — Reading and notes product used as a non-coding Skill target for personal knowledge workflows.
 - [Wenxin](entities/Wenxin.md) — Baidu AI model and product family discussed as weak in user mindshare despite early AI investment.
 - [Windsurf](entities/Windsurf.md) — AI coding tool discussed through disrupted acquisition, talent movement, and model-provider competition.
+- [Win](entities/Win.md) — Keji Luandun guest arguing that Chinese founders should choose markets by payment behavior, field exposure, and real buyer demand.
 - [Whole Foods Market](entities/WholeFoodsMarket.md) — Natural-food retailer that became the major early unlock for Justin's Nut Butter.
 - [小黛](entities/Xiaodai.md) — YiLaoYongYi guest explaining insurance, banking, funds, household asset allocation, finance career risk, and investor education.
 - [Xiaohongshu](entities/Xiaohongshu.md) — Social and community platform positioned as a building-public channel, local lifestyle search entry point, and creator monetization venue.
@@ -967,6 +969,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overseas Insurance Risk](concepts/OverseasInsuranceRisk.md) — Risk that foreign insurance policies add dividend, currency, liquidity, jurisdiction, and life-location uncertainty.
 - [Passive Investing](concepts/PassiveInvesting.md) — Broad ETF and index-fund investing recommended for most ordinary investors as a low-friction alternative to active trading.
 - [Passenger Complaint Handling](concepts/PassengerComplaintHandling.md) — Real-time service work that separates facts, emotion, safety, privacy, and incentives in passenger disputes.
+- [Payment Led Market Selection](concepts/PaymentLedMarketSelection.md) — Choosing a target market by where demand, trust, payment willingness, and collection paths are strongest.
 - [Persistent Agent Memory](concepts/PersistentAgentMemory.md) — Durable user and work memory that lets agents retain context, taste, relationship boundaries, and recent activity across sessions.
 - [PHS Xiaolingtong](concepts/PHSXiaolingtong.md) — Low-cost PHS wireless local-phone service that gave many Chinese users transitional mobile-like access before mainstream mobile affordability.
 - [Podcast As Asynchronous Media](concepts/PodcastAsAsynchronousMedia.md) — Recorded-audio media form whose value comes from shifting listening into idle-ear contexts while losing live-radio immediacy.
@@ -974,7 +977,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Post-Acquisition Founder Identity](concepts/PostAcquisitionFounderIdentity.md) — Personal and governance problem of what a founder becomes after selling a company, especially when the brand carries founder values.
 - [Pre-Product Selling](concepts/PreProductSelling.md) — Selling-first validation pattern using conversations, LOIs, trials, and prototypes before full production code exists.
 - [Proactive Agents](concepts/ProactiveAgents.md) — Agents that use context and memory to help before the user fully specifies a task, while still requiring permission and review design.
-- [Product Led Willingness To Pay](concepts/ProductLedWillingnessToPay.md) — Claim that users pay when product value is clear, differentiated, stable, trustworthy, and communicated in a concrete user scenario.
+- [Product Led Willingness To Pay](concepts/ProductLedWillingnessToPay.md) — Claim that users pay when product value is clear, differentiated, stable, trustworthy, communicated in a concrete user scenario, and matched with a market willing to pay.
 - [Promotion Expectation Management](concepts/PromotionExpectationManagement.md) — Making advancement goals, evidence, timing, and manager sponsorship explicit before formal review windows.
 - [Purpose Driven Business](concepts/PurposeDrivenBusiness.md) — Mission-led company-building where social or environmental purpose must still improve customer value and business performance.
 - [Pyramiding](concepts/Pyramiding.md) — Position-sizing rule that adds smaller increments only after an existing trade is profitable and trend-confirmed.
