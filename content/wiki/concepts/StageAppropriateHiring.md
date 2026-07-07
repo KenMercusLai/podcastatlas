@@ -2,7 +2,7 @@
 title: "Stage-Appropriate Hiring"
 type: concept
 tags: [startups, hiring, management]
-sources: [community-led-saas-growth-how-ninety-hit-44m-arr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e]
+sources: [community-led-saas-growth-how-ninety-hit-44m-arr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88]
 last_updated: 2026-07-07
 ---
 
@@ -16,6 +16,8 @@ Stage-appropriate hiring is the principle that leaders and executives must fit t
 
 [[e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e]] adds a value beauty version through [[ELFCosmetics]]. After [[TPG]] bought a majority stake, it brought in [[TarangAmin]] as CEO, marking a move from founder-led scaling to public-company preparation.
 
+[[build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88]] adds a founder-succession version through [[BuildABear]]. [[SharonPriceJohn]]'s consumer-brand background made her a better fit for the post-founder CEO role than a generic operator because the company still depended on retail, licensing, family audiences, and brand experience.
+
 ## Key Claims
 - Capital can make a company move faster before its operating system is ready for the people it hires.
 - Executives from later-stage environments may bring useful experience but still misfit an earlier-stage company's ambiguity, pace, or culture.
@@ -25,6 +27,7 @@ Stage-appropriate hiring is the principle that leaders and executives must fit t
 - Hiring for talent density without ego control can damage coordination even when individual resumes are strong.
 - Founder-led physical-product companies may need different leaders as they move from invention, hand production, and store-by-store selling into audited manufacturing, national accounts, and institutional capital.
 - Private-equity transition can be a stage change rather than only a liquidity event when the new owner installs leadership built for the next operating system.
+- Founder succession requires stage fit as well as trust: the successor must fit the company's current constraints while being independent enough to make different decisions.
 
 ## Connections
 - [[Ninety]] and [[MarkAbbott]] — source case.
@@ -33,3 +36,4 @@ Stage-appropriate hiring is the principle that leaders and executives must fit t
 - [[YinQi]], [[StepFun]], and [[AIOrganizationDesign]] — AI-company case where talent density and collaboration must be designed together.
 - [[JustinGold]], [[LanceGentry]], [[PeterBurns]], [[VMG]], and [[FounderRoleTransition]] — CPG scaling case where leadership needs changed with stage.
 - [[ELFCosmetics]], [[JoeyShamah]], [[TPG]], [[TarangAmin]], and [[FounderRoleTransition]] — beauty CPG case where leadership shifted after majority investment.
+- [[BuildABear]], [[MaxineClark]], [[SharonPriceJohn]], [[FounderSuccession]], and [[FounderRoleTransition]] - experiential retail case where CEO succession became part of durability.

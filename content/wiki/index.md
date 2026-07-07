@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Build-A-Bear: Maxine Clark. A Former Shoe Executive Launches a Stuffed Animal Empire](sources/build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88.md) — Podcast episode on Maxine Clark, Build-A-Bear, experiential retail, customer co-creation, mall expansion, site selection, concept protection, and founder succession.
 - [20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会](sources/20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto.md) — Podcast episode on OpenClaw's virality, IM entry points, local execution, memory, skills, feedback loops, and consumer/enterprise agent opportunities.
 - [Advice Line with Shazi Visram of Happy Family Organics](sources/advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86.md) — Podcast episode on Shazi Visram, Happy Family Organics, Healthy Baby, Freit Barefoot, Sprinkle Bites, Plantamica, proof reuse, AI discovery, and private-label tradeoffs.
 - [EP101 对话 Simon：AI 创业者的第一项基本功是把账算明白](sources/ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx.md) — Podcast episode on Simon, Mico World AI Lab, Middle East game-social growth, Character AI economics, AI game commercialization, and startup unit economics.
@@ -64,6 +65,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Maxine Clark](entities/MaxineClark.md) — Build-A-Bear founder and former retail executive connecting customer empathy, child-centered design, mall retail, and succession.
+- [Build-A-Bear](entities/BuildABear.md) — Make-your-own stuffed animal retailer built around customer co-creation, mall expansion, brand ritual, and experiential retail.
+- [May Department Stores](entities/MayDepartmentStores.md) — Retail company where Maxine Clark developed merchandising, operations, and executive experience before Build-A-Bear.
+- [Payless ShoeSource](entities/PaylessShoeSource.md) — Footwear chain where Maxine Clark served as president before leaving to rethink retail around children and experience.
+- [Adrienne Weiss](entities/AdrienneWeiss.md) — Brand builder who helped shape Build-A-Bear's logo, store flow, and child-centered retail experience.
+- [Barney Ebsworth](entities/BarneyEbsworth.md) — Early Build-A-Bear investor drawn to the company's customer-experience strength.
+- [Basic Brown Bear Factory](entities/BasicBrownBearFactory.md) — Company whose legal dispute with Build-A-Bear anchors the concept-protection thread.
+- [The Bear Factory](entities/TheBearFactory.md) — U.K. make-your-own bear business acquired by Build-A-Bear in 2006.
+- [Sharon Price John](entities/SharonPriceJohn.md) — Build-A-Bear successor CEO after Maxine Clark stepped down in June 2013.
 - [鸭哥](entities/YaGe.md) — OpenClaw practitioner and episode guest explaining feedback loops, local execution, memory, and agent-product design.
 - [豪大](entities/Haoda.md) — OpenClaw practitioner and episode guest emphasizing IM experience, personality, community bots, and agent accessibility.
 - [Shazi Visram](entities/ShaziVisram.md) — Happy Family Organics and Healthy Baby founder advising consumer founders on education, proof, AI discovery, private label risk, and validation.
@@ -178,12 +188,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [HTC](entities/HTC.md) — PDA and smartphone maker that helped launch Android with the first Android phone before Samsung captured larger Android scale.
 - [Huaqiangbei](entities/Huaqiangbei.md) — Shenzhen electronics-market cluster central to MediaTek-enabled shanzhai handset production and distribution.
 - [Girish Redikar](entities/GirishRedikar.md) — Founder of Sprinto and former RecruiterBox founder discussing failed ideas, validation, service productization, and AI governance.
-- [Guy Raz](entities/GuyRaz.md) — How I Built This host who interviewed Justin Gold about Justin's Nut Butter.
+- [Guy Raz](entities/GuyRaz.md) — How I Built This host whose ingested episodes cover Justin's Nut Butter, e.l.f. Cosmetics, Build-A-Bear, and Advice Line cases.
 - [Google DeepMind](entities/GoogleDeepMind.md) — Google AI organization discussed as the destination for Windsurf's core team.
 - [He Tao](entities/HeTao.md) — Deerflow core person discussing open-source AI workflows, codebase governance, engineering responsibility, and personal AI assistants.
 - [Hermes Agent](entities/HermesAgent.md) — Open-source agent framework discussed through persistent memory, tools, workflow skills, and self-improving harness loops.
 - [Hormel](entities/Hormel.md) — Food company that acquired Justin's Nut Butter in 2016 and later retained a significant stake under Forward Consumer Partners control.
-- [How I Built This](entities/HowIBuiltThis.md) — Startup interview podcast/show context for the Justin Gold and Justin's Nut Butter episode.
+- [How I Built This](entities/HowIBuiltThis.md) — Startup interview podcast/show context for ingested consumer-brand founder stories and Advice Line episodes.
 - [Huang Bote](entities/HuangBote.md) — AirJelly founder arguing that proactive agents need intent context, OS-level context, persistent memory, and privacy-aware execution.
 - [Huang Biwei](entities/HuangBiwei.md) — Aether AI founder and causal AI researcher arguing for causal world models as the robot-brain route.
 - [Immersive Translate](entities/ImmersiveTranslate.md) — AI translation tool used as the episode's main example for webpages, PDFs, subtitles, OCR, and manga.
@@ -373,6 +383,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Experiential Retail](concepts/ExperientialRetail.md) — Retail strategy where the store visit and customer ritual are part of the product's value.
+- [Customer Co-Creation](concepts/CustomerCoCreation.md) — Product-design pattern where customers help make, personalize, or author the final product.
+- [Mall Based Retail Expansion](concepts/MallBasedRetailExpansion.md) — Store-growth pattern shaped by mall traffic, landlord relationships, tenant allowances, and lease terms.
+- [Retail Site Selection](concepts/RetailSiteSelection.md) — Discipline of choosing store locations whose traffic, mission, lease economics, and customer behavior fit the product.
+- [Retail Concept Protection](concepts/RetailConceptProtection.md) — Use of trademarks, lease exclusivity, brand design, and legal strategy to defend a store format.
+- [Founder Succession](concepts/FounderSuccession.md) — Transition from founder CEO to a successor who can lead without treating founder preference as permanent law.
 - [IM Agent Interfaces](concepts/IMAgentInterfaces.md) — Chat and messaging entry points that make long-running agents reachable inside existing user habits.
 - [Local Agent Execution](concepts/LocalAgentExecution.md) — Agent execution against local files, apps, devices, and desktop workflows, with strong value and permission tradeoffs.
 - [Proof Point Reuse](concepts/ProofPointReuse.md) — Marketing practice of turning PR, UGC, validation, testimonials, reorders, and science into repeated proof across channels.
@@ -480,7 +496,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Digital Nomad Community Building](concepts/DigitalNomadCommunityBuilding.md) — Turning remote-work and travel scenes into recurring relationships, events, services, and local community infrastructure.
 - [Digital Employees](concepts/DigitalEmployees.md) — Enterprise AI systems treated as labor that must be onboarded, trained, connected, and managed.
 - [Dirty Work](concepts/DirtyWork.md) — Low-status or repetitive work that can still reveal workflow logic, responsibility boundaries, and improvement opportunities.
-- [Distribution Led Product Building](concepts/DistributionLedProductBuilding.md) — SaaS strategy where product selection and growth are shaped by reusable acquisition systems.
+- [Distribution Led Product Building](concepts/DistributionLedProductBuilding.md) — Company-building pattern where product selection and growth are shaped by channels, marketplaces, stores, or acquisition systems.
 - [Domain Expert Alignment](concepts/DomainExpertAlignment.md) — AI development pattern where researchers and engineers work with real field experts in domains such as coding, finance, safety, and law.
 - [Embodied AI](concepts/EmbodiedAI.md) — Robotics and physical AI direction discussed as both bubbly and strategically important.
 - [Emotional Interaction Models](concepts/EmotionalInteractionModels.md) — AI systems that decide social and emotional responses across speech, movement, memory, and relationship state.
