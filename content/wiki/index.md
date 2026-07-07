@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP35 降薪不降质？中产阶级最后的倔强](sources/ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43.md) — Podcast episode on financial-industry pay cuts, middle-class consumption pressure, and preserving life quality through lower-cost choices in coffee, travel, meals, commuting, fitness, watches, and workwear.
 - [EP64 投资路上踩坑无数，如今的我刀枪不入](sources/ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm.md) — Podcast episode on investment fraud red flags, fake platforms, stock-tip groups, elderly-care property traps, insurance policy-loan fraud, and investor responsibility.
 - [Advice Line with Tim Ferriss (August 2025)](sources/advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943.md) — Podcast episode on Tim Ferriss, Coyote, Gob, EB&Co, K Becker, channel focus, venue partnerships, wholesale testing, made-to-order apparel, and founder identity diversification.
 - [EP69 AI时代来临，投资不再是单机模式](sources/ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn.md) — Podcast episode on Tang Haocheng, AI investment assistants, market expectation gaps, retail-investor behavioral biases, decision logging, and turning investing from solo judgment into human-AI research workflow.
@@ -403,7 +404,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sprinto](entities/Sprinto.md) — Compliance and trust SaaS company built through deliberate validation, real audit learning, and AI-aware automation.
 - [SpaceX](entities/SpaceX.md) — Private technology company referenced in the AI/private-company IPO valuation discussion.
 - [S&P 500](entities/SP500.md) — Broad U.S. equity benchmark used in EP57 for long-term index investing, current valuation, and staged reentry discipline.
-- [Starbucks](entities/Starbucks.md) — National channel that placed Justin's Nut Butter squeeze packs into bistro boxes and forced manufacturing professionalization.
+- [Starbucks](entities/Starbucks.md) — Coffee retailer used as both a national channel for Justin's Nut Butter and a workplace/status reference point in middle-class coffee spending.
 - [StayPit](entities/StayPit.md) — Developer associated with OpenClaw in the Fengyan Fengyu source.
 - [StepFun](entities/StepFun.md) — Foundation-model company chaired by Yin Qi and discussed through model R&D, terminal commercialization, and AI organization design.
 - [Superpowers](entities/Superpowers.md) — Agent-orchestration tool discussed through planning, subagents, Codex, and Claude Code workflows.
@@ -458,7 +459,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Emily Bordner](entities/EmilyBordner.md) — EB&Co founder asking whether to follow current retail revenue or faster wholesale growth.
 - [Gob](entities/Gob.md) — Biomaterials personal-care company starting with mycelium earplugs and weighing venue partnerships against sleep DTC growth.
 - [硬地骇客](entities/YingdiHaike.md) — Podcast/show context for AI coding markets, Podwise CLI/Skills, ASO, design-led growth, founder-life, and AI game/social commercialization episodes.
-- [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for episodes on investing, political influence monetization, finance career risk, career-entry anxiety, upward management, creator work, aviation work, banking, and global market turmoil.
+- [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for episodes on investing, political influence monetization, finance career risk, middle-class consumption pressure, career-entry anxiety, upward management, creator work, aviation work, banking, and global market turmoil.
 - [助助](entities/Zhuzhu.md) — Xiaohongshu local-lifestyle creator explaining ordinary creator monetization, local store reviews, and lifestyle freedom.
 - [Youyou Agent](entities/YouyouAgent.md) — Digital-life agent experiment discussed as an early agent-native project.
 - [Youju](entities/Youju.md) — Podcast/project focused on AI games and AI interactive entertainment.
@@ -539,6 +540,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Startup Unit Economics](concepts/AIStartupUnitEconomics.md) — AI founder checklist tying demand to marginal model cost, payment tolerance, market ceiling, and survival runway.
 - [Cross-Cultural User Research](concepts/CrossCulturalUserResearch.md) — Product research practice for studying language, culture, identity, payment, and design-execution differences across markets.
 - [Middle East Social Game Growth](concepts/MiddleEastSocialGameGrowth.md) — Localized game-social growth pattern combining atmosphere supply, high-value users, anonymity, acquisition, and paid gifts.
+- [Lifestyle Cost Rationalization](concepts/LifestyleCostRationalization.md) — Practice of preserving comfort and purpose while replacing status-heavy purchases with lower-cost variants.
 - [Low Price Brand Perception](concepts/LowPriceBrandPerception.md) — Problem of making a very inexpensive product feel credible, attractive, and branded rather than cheap.
 - [Retail Incrementality](concepts/RetailIncrementality.md) — Proof that a product grows category sales or creates impulse demand instead of only cannibalizing existing shelf sales.
 - [Direct To Consumer Cash Flow](concepts/DirectToConsumerCashFlow.md) — Cash-flow and learning advantage from selling directly to customers before or alongside retail channels.
@@ -656,6 +658,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Financial Employee Misconduct Controls](concepts/FinancialEmployeeMisconductControls.md) — Internal rules, workflow checks, relationship disclosures, and monitoring responses that reduce employee harm to customers or institutions.
 - [Financial Freedom Vs Lifestyle Freedom](concepts/FinancialFreedomVsLifestyleFreedom.md) — Distinction between economic independence and lower-pressure daily autonomy through modest creator income and low fixed costs.
 - [Financial Gravity](concepts/FinancialGravity.md) — Pressure created by economic or status disparities that can redirect company behavior and mission.
+- [Middle-Class Consumption Pressure](concepts/MiddleClassConsumptionPressure.md) — Income-expectation, family-obligation, and professional-identity pressure that makes consumption downgrades visible among urban middle-class workers.
 - [Foreign Banking In China](concepts/ForeignBankingInChina.md) — Operating model where international banks run Chinese-regulated local entities under both local rules and group standards.
 - [Founder Cash Flow Constraint](concepts/FounderCashFlowConstraint.md) — Personal runway problem when a promising startup cannot yet support the founder's life.
 - [Founder Ego](concepts/FounderEgo.md) — Status-seeking founder pattern where fundraising, hiring, or public image outruns validated customer demand.

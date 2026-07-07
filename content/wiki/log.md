@@ -368,6 +368,10 @@ Added source page for a How I Built This episode on Tobias Lütke, Shopify, Snow
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-07] ingest | EP35 降薪不降质？中产阶级最后的倔强
+
+Added source page for a YiLaoYongYi episode on financial-industry pay cuts, middle-class consumption pressure, coffee and travel price ladders, meals, commuting, fitness, watches, workwear, and preserving life quality through lower-cost choices. Created supporting concept pages for Middle-Class Consumption Pressure and Lifestyle Cost Rationalization; updated overview, index, YiLaoYongYi, Starbucks, Financial Career Risk, Financial Freedom Vs Lifestyle Freedom, and Low Price Brand Perception pages.
+
 ## [2026-07-07] ingest | EP64 投资路上踩坑无数，如今的我刀枪不入
 
 Added source page for a YiLaoYongYi episode on investment-fraud red flags, task scams, elderly-care property traps, fake investment platforms, stock-tip groups, profit-sharing trade guidance, paid course skepticism, Hong Kong insurance projections, and policy-loan fraud. Created supporting concept pages for Investment Fraud Red Flags, Fake Investment Platform Risk, Stock Tip Group Risk, Elderly Care Financial Fraud, and Insurance Policy Loan Fraud; updated overview, index, YiLaoYongYi, investor education, behavior, investment risk, insurance sales trust, overseas insurance risk, and third-party wealth platform risk pages.
@@ -391,3 +395,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-07] graph | Knowledge graph rebuilt
+
+776 nodes, 6765 edges (6765 extracted, 0 inferred).
+
+## [2026-07-07] report | Graph health report generated
+
+776 nodes analyzed.
