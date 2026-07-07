@@ -991,3 +991,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] report | Graph health report generated
 
 1395 nodes analyzed.
+
+## [2026-07-08] ingest | Claire Isabel Webb & Nina Miolane: The Geometry of Consciousness
+
+Added source page for a Long Now talk on Nina Miolane's mathematical theory of intelligence, neural geometry, population coding, spatial-navigation tori, Fourier spatial encoding, sleep-state geometry, replay, social-complexity limits, and AI-consciousness measurement boundaries. Created pages for Nina Miolane, Claire Isabel Webb, Mathematical Theory Of Intelligence, Neural Geometry, Population Coding, Spatial Navigation Torus, Fourier Spatial Encoding, and Consciousness Measurement; updated overview, index, Long Now, AI Interpretability By AI, World Models, Representation Learning, and Multimodal Intelligence. No direct contradiction found; the source qualifies AI-consciousness threshold debates while strengthening the wiki's bridge between biological representation, AI interpretability, and spatial world modeling.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

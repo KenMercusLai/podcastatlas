@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Claire Isabel Webb & Nina Miolane: The Geometry of Consciousness](sources/claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk.md) — Long Now talk on neural geometry, population coding, spatial-navigation tori, Fourier spatial encoding, sleep-state geometry, AI interpretability, and consciousness measurement limits.
 - [Eric Ries: Incorruptible by Design](sources/eric-ries-incorruptible-by-design-wrgromn5peq.md) — Long Now talk on financial gravity, human-flourishing profit, steward ownership, benefit trusts, private regulatory power, AI alignment governance, and everyday agency.
 - [Melody Jue: Ocean Memory](sources/melody-jue-ocean-memory-wxagwid1oeg.md) — Long Now talk on ocean memory, milieu-specific analysis, underwater chemosensation, ecological memory, multispecies archives, art-science collaboration, and acidification as sensory and memory disruption.
 - [Stefan Sagmeister: Finally, something good.](sources/stefan-sagmeister-finally-something-good-yqqxftsvema.md) — Long Now talk on informed optimism, the optimism gap, short-term news bias, progress data visualization, positive journalism, and design as beautiful public communication.
@@ -145,6 +146,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Nina Miolane](entities/NinaMiolane.md) — Long Now speaker developing a geometric and mathematical theory of intelligence across brains and artificial neural networks.
+- [Claire Isabel Webb](entities/ClaireIsabelWebb.md) — Long Now interviewer framing the neural-geometry discussion around consciousness, AI, affect, time, and social complexity.
 - [Incorruptible](entities/Incorruptible.md) — Eric Ries book arguing that companies need governance, ownership, accountability, and institutional design to resist financial gravity.
 - [Dan Davies](entities/DanDavies.md) — Systems and governance thinker cited through accountability sinks in the Eric Ries Long Now talk.
 - [Costco](entities/Costco.md) — Retail company used by Ries as an outlier institution and private standards-setting example.
@@ -166,7 +169,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tibor Kalman](entities/TiborKalman.md) — Designer and Sagmeister mentor used as an AI-era example of design value coming from point of view and vision.
 - [Indy Johar](entities/IndyJohar.md) — Long Now speaker and Dark Matter Labs co-founder arguing for civilizational optionality under planetary volatility.
 - [Dark Matter Labs](entities/DarkMatterLabs.md) — Organization associated with Johar's institutional-design work on governance, finance, and systems change.
-- [Long Now](entities/LongNow.md) — Long-term-thinking organization hosting talks on civilizational optioneering, informed optimism, and ocean memory.
+- [Long Now](entities/LongNow.md) — Long-term-thinking organization hosting talks on civilizational optioneering, informed optimism, ocean memory, institutional design, and neural geometry.
 - [James Lovelock](entities/JamesLovelock.md) — Thinker referenced through Novacene to anchor the source's planetary self-awareness frame.
 - [NPR](entities/NPR.md) — Public media organization making a funding appeal around federal funding loss, local journalism, emergency access, and listener support.
 - [Katherine Maher](entities/KatherineMaher.md) — NPR CEO voicing the appeal and linking public-media funding to local reporting, rural access, and donations.
@@ -819,6 +822,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, and Louis Hong episodes.
 
 ## Concepts
+- [Mathematical Theory Of Intelligence](concepts/MathematicalTheoryOfIntelligence.md) — Nina Miolane's research program for equations explaining shared computational structure across brains and artificial neural networks.
+- [Neural Geometry](concepts/NeuralGeometry.md) — Analysis of collective neural activity as shapes, manifolds, and trajectories in high-dimensional spaces.
+- [Population Coding](concepts/PopulationCoding.md) — View that groups of neurons jointly encode perception, location, action, or internal state.
+- [Spatial Navigation Torus](concepts/SpatialNavigationTorus.md) — Torus-shaped population geometry appearing in spatial navigation circuits and trained artificial networks.
+- [Fourier Spatial Encoding](concepts/FourierSpatialEncoding.md) — Fourier-like periodic basis explanation for efficient spatial representation and navigation tori.
+- [Consciousness Measurement](concepts/ConsciousnessMeasurement.md) — Empirical boundary problem of comparing conscious states without reducing consciousness to a simple AI threshold.
 - [Human Flourishing Profit](concepts/HumanFlourishingProfit.md) — Eric Ries's standard for judging a company by human flourishing rather than accounting profit alone.
 - [Steward Ownership](concepts/StewardOwnership.md) — Mission-preserving ownership structure with foundation-like control over a for-profit operating business.
 - [Accountability Sinks](concepts/AccountabilitySinks.md) — Systems problem where unwanted outcomes persist while responsibility for fixing them becomes hard to locate.
