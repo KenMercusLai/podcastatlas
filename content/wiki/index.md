@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Congress has voted to eliminate government funding for public media](sources/congress-has-voted-to-eliminate-government-funding-for-public-media.md) — NPR/Planet Money public-media funding appeal on federal funding loss, local journalism, emergency alerts, listener donations, and a 1A politics-series promo.
 - [Dhaka matters: an election for Bangladesh](sources/dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d.md) — The Intelligence episode on Bangladesh's competitive post-Hasina election, applied astrobiology for space habitats, and AI-driven job-application overload.
 - [A Keir-death experience: Britain's PM clings on](sources/a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07.md) — The Intelligence episode on Keir Starmer's Labour leadership crisis, New York assisted-dying law, U.S. safeguards, and Mountain West skijoring.
 - [【旧番重听】蜜蜂经济学](sources/jiufan-zhongting-mifeng-jingjixue-956460448.md) — 商业就是这样 episode on bees as an economics case, covering Mandeville, Meade, Zhang Wuchang, pollination contracts, almond demand, Chinese honey standards, and colony-collapse risk.
@@ -140,6 +141,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [NPR](entities/NPR.md) — Public media organization making a funding appeal around federal funding loss, local journalism, emergency access, and listener support.
+- [Katherine Maher](entities/KatherineMaher.md) — NPR CEO voicing the appeal and linking public-media funding to local reporting, rural access, and donations.
+- [Planet Money](entities/PlanetMoney.md) — NPR podcast feed carrying this short public-media funding appeal rather than a standard economics episode.
+- [1A](entities/1A.md) — WAMU/NPR public-affairs podcast promoted through the If You Can Keep It political series.
+- [WAMU](entities/WAMU.md) — Public-radio organization named with NPR in the 1A promo.
+- [Jen White](entities/JenWhite.md) — 1A host voice promoting If You Can Keep It.
+- [If You Can Keep It](entities/IfYouCanKeepIt.md) — 1A politics series promoted as explaining major political stories and their democratic stakes.
 - [Bangladesh](entities/Bangladesh.md) — Country framed as entering a democratic transition election after Sheikh Hasina's removal and years of weakened institutions.
 - [Sheikh Hasina](entities/SheikhHasina.md) — Ousted Bangladeshi leader whose Awami League rule and exile shape the election and India-relations context.
 - [Awami League](entities/AwamiLeague.md) — Temporarily banned former ruling party whose future rehabilitation is presented as necessary for a durable settlement.
@@ -784,6 +792,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, and Louis Hong episodes.
 
 ## Concepts
+- [Public Media Funding](concepts/PublicMediaFunding.md) — Funding and operating-risk question connecting federal support, listener donations, local journalism, and public-media access.
+- [Local Journalism](concepts/LocalJournalism.md) — Community reporting on local institutions, accountability, events, and identity that the appeal says could shrink with funding loss.
+- [Public Media Emergency Access](concepts/PublicMediaEmergencyAccess.md) — Public-media role in trusted local news, emergency alerts, and rural access during disruption.
+- [Listener-Supported Media](concepts/ListenerSupportedMedia.md) — Audience donation model presented as the practical response to public-media funding loss.
+- [Public Service Journalism](concepts/PublicServiceJournalism.md) — Journalism mission frame built around civic service, accountability, access, diversity, and crisis connection.
 - [Democratic Transition Election](concepts/DemocraticTransitionElection.md) — Competitive vote after authoritarian drift and mass protest where representation, reform, and institutional legitimacy are unsettled.
 - [Applied Astrobiology](concepts/AppliedAstrobiology.md) — Biology-for-space agenda using microbes, bioreactors, and ecosystems to make off-Earth habitats more liveable.
 - [AI Hiring Arms Race](concepts/AIHiringArmsRace.md) — Recruiting feedback loop where candidates use AI to submit more applications and employers counter with screening, tests, policies, and agents.

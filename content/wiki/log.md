@@ -943,3 +943,11 @@ Added source page for a The Intelligence episode on Bangladesh's first competiti
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | Congress has voted to eliminate government funding for public media
+
+Added source page for a short NPR/Planet Money public-media funding appeal on the reported elimination of federal public-media funding, local journalism, rural and emergency-alert access, public-service journalism, listener-supported donations, and a closing 1A/If You Can Keep It promo. Created pages for NPR, Katherine Maher, Planet Money, 1A, WAMU, Jen White, If You Can Keep It, Public Media Funding, Local Journalism, Public Media Emergency Access, Listener-Supported Media, and Public Service Journalism; updated overview and index. No direct contradiction found; the source is an advocacy appeal, so its impact claims are recorded as NPR's public-facing argument rather than independently adjudicated policy analysis.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Current graph-aware checks found no hub stubs, four fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; in-session semantic review found no unresolved contradiction, noted the resolved FDE naming correction, and flagged corroboration gaps around public-media funding impact, rumor-level AI access/product-roadmap claims, and source-reported assistant economics. No lint report file was saved.
