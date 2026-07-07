@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [困在系统里的酒店，你不知道的携程垄断练成史](sources/kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun.md) — Keji Luandun episode on Ctrip, Chinese OTA history, founding operators, hotel inventory systems, competitor consolidation, hidden fees, homestay complaints, antitrust, and platform data regulation.
 - [Vol. 165 做客声东击西：「龙虾」和 vibe coding 正如何改变我们的思维](sources/vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1.md) — Podcast crossover on OpenClaw, vibe coding, non-technical AI builders, media-company AI hackathons, digital employees, agent skills, human judgment, and prototype-to-production gaps.
 - [132. 对星海图创始人高继扬的3小时访谈：鲶鱼、曾国藩、Waymo与Momenta的两面、一只狼与许华哲的离开](sources/132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan.md) — Podcast episode on Gao Jiyang, Xinghaitu, Waymo, Momenta, whole-machine robotics, real robot data, VLA/VLM architecture, production robot scenarios, and Xu Huazhe's departure.
 - [Vol. 167 Token 如流水，Agent 似朝阳](sources/vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1.md) — Podcast episode on Apple platform AI, App Store subscription commitments, OpenAI/Microsoft cloud shifts, Project Glassfin, token-cost pressure, AI medical marketing risk, AI content provenance, Codex remote control, and IM-based personal agents.
@@ -100,6 +101,33 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Ctrip / Trip.com Group](entities/Ctrip.md) — Chinese online-travel platform used to explain OTA concentration, hotel inventory control, pricing power, hidden fees, and platform antitrust.
+- [Liang Jianzhang](entities/LiangJianzhang.md) — Ctrip co-founder and returning CEO figure tied to technology, mobile recovery, supplier systems, and demographic research.
+- [Ji Qi](entities/JiQi.md) — Ctrip co-founder whose path into Home Inns, Hanting, and Huazhu connects OTA demand aggregation with hotel-chain supply.
+- [Shen Nanpeng](entities/ShenNanpeng.md) — Ctrip co-founder and investor figure tied to the Nasdaq listing and later OTA capital-consolidation context.
+- [Fan Min](entities/FanMin.md) — Ctrip co-founder whose hotel and travel-agency background represents the operating-travel side of the founding team.
+- [Wu Hai](entities/WuHai.md) — Early hotel-booking operator who brought membership-card, call-center, and hotel-pricing practices into Ctrip.
+- [Shangzhixing](entities/Shangzhixing.md) — Wu Hai's early hotel-booking and membership-card business, treated as an operating root of Ctrip's scale-up.
+- [Modern Express Travel](entities/ModernExpressTravel.md) — Early telephone-plus-internet hotel-booking competitor acquired by Ctrip for volume and team capacity.
+- [Wang Shengli](entities/WangShengli.md) — Modern Express Travel founder/operator whose team was folded into Ctrip's early hotel-booking expansion.
+- [Coast Air Service](entities/CoastAirService.md) — Ticketing and airline-service acquisition that supplied Ctrip with qualifications, airline resources, and offline fulfillment know-how.
+- [Home Inns](entities/HomeInns.md) — Hotel-chain branch connected to Ji Qi and Ctrip's early movement from booking demand toward lodging supply.
+- [Hanting Hotel](entities/HantingHotel.md) — Ji Qi's post-Home Inns hotel venture and predecessor context for Huazhu Group.
+- [Huazhu Group](entities/HuazhuGroup.md) — Hotel-chain group used to contrast large supplier bargaining power with individual hotel and homestay dependence on OTAs.
+- [Qunar](entities/Qunar.md) — Travel-search and price-comparison competitor used in the Ctrip episode's OTA competition and consolidation history.
+- [Elong](entities/Elong.md) — OTA competitor and Expedia-linked China travel platform in the episode's consolidation history.
+- [Tongcheng Travel](entities/TongchengTravel.md) — OTA competitor and later Tencent/Ctrip-linked platform representing ground-sales and partnership routes into travel booking.
+- [MakeMyTrip](entities/MakeMyTrip.md) — India online-travel company used as part of Ctrip's global expansion context.
+- [Skyscanner](entities/Skyscanner.md) — Travel-search asset used in the episode's global Ctrip/Trip.com expansion thread.
+- [Booking Holdings](entities/BookingHoldings.md) — Global OTA comparator used to place Ctrip alongside Booking and Expedia.
+- [Expedia Group](entities/ExpediaGroup.md) — Global OTA comparator and Elong investor context in the Ctrip episode.
+- [Meituan](entities/Meituan.md) — Local-services platform named as a possible later competitor to Ctrip in hotel and travel booking.
+- [Fliggy](entities/Fliggy.md) — Alibaba-linked travel platform named as a possible later competitor to Ctrip.
+- [Douyin](entities/Douyin.md) — Attention platform named as a possible travel-booking challenger through discovery and local-commerce flows.
+- [JD Travel](entities/JDTravel.md) — Ecommerce-linked travel-booking competitor mentioned in the Ctrip episode.
+- [Damai](entities/Damai.md) — Ticketing platform used as a parallel platform-governance example for refund rules and monopoly-like gatekeeping.
+- [State Administration for Market Regulation](entities/StateAdministrationForMarketRegulation.md) — Chinese antitrust regulator context for the reported Ctrip investigation.
+- [Yunnan Homestay Association](entities/YunnanHomestayAssociation.md) — Homestay operator association cited as a complainant-side signal in the Ctrip antitrust discussion.
 - [面基](entities/Mianji.md) — Podcast/show context for E153's discussion of Kelly sizing, compounding growth, investment edge, and trading discipline.
 - [Edward Thorp](entities/EdwardThorp.md) — Mathematician and investor used by E153 to connect blackjack card counting, Kelly sizing, arbitrage, and quantitative investing.
 - [Claude Shannon](entities/ClaudeShannon.md) — Information-theory figure used by E153 to connect information advantage, repeated betting, and Kelly-style position sizing.
@@ -575,6 +603,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Online Travel Agency](concepts/OnlineTravelAgency.md) — Platform model aggregating travel inventory, booking, payment, support, invoices, and itinerary management.
+- [OTA Platform Concentration](concepts/OTAPlatformConcentration.md) — Tendency for online-travel booking power to concentrate when users, hotels, inventory, traffic, and systems all reward scale.
+- [Hotel PMS Inventory Control](concepts/HotelPMSInventoryControl.md) — Platform leverage created when booking channels influence hotel property-management and room-inventory systems.
+- [Hotel Platform Pricing Power](concepts/HotelPlatformPricingPower.md) — Ability of a booking platform to influence lodging prices, promotions, display, and merchant participation.
+- [Travel Super App Convenience](concepts/TravelSuperAppConvenience.md) — User value created when flights, hotels, tickets, invoices, itinerary changes, and support sit in one interface.
+- [Travel Booking Hidden Fees](concepts/TravelBookingHiddenFees.md) — Insurance, package, advertising, default-selection, or mis-click monetization inside travel booking flows.
+- [Homestay Differentiation](concepts/HomestayDifferentiation.md) — Lodging value from style, location, host experience, and atmosphere that can be flattened by platform comparison.
+- [Platform Antitrust](concepts/PlatformAntitrust.md) — Question of when dominant platform rules, pricing, ranking, contracts, and data advantages become abusive rather than efficient.
+- [Platform Data Regulation](concepts/PlatformDataRegulation.md) — Governance approach based on regulator visibility into order, commission, price, ranking, and fulfillment data.
 - [Kelly Criterion](concepts/KellyCriterion.md) — Repeated-bet sizing rule used by E153 to connect edge, payoff, survival, and fractional position sizing.
 - [Position Sizing](concepts/PositionSizing.md) — Capital-allocation decision that turns an investment edge into portfolio exposure while controlling ruin risk.
 - [Investment Edge](concepts/InvestmentEdge.md) — Positive-expectation advantage built from probability, payoff, rules, information, patience, execution, or structure.

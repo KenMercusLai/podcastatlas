@@ -2,7 +2,7 @@
 title: "Tencent"
 type: entity
 tags: [company, internet, ai]
-sources: [cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]
+sources: [cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun]
 last_updated: 2026-07-06
 ---
 
@@ -12,12 +12,15 @@ Tencent appears in [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zon
 
 [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]] adds Tencent as one of the large Chinese technology names foreign investors may look at first during [[HongKongTechRepricing]]. The source groups it with [[Alibaba]] and [[Xiaomi]] as a liquid, recognizable China-tech allocation target rather than analyzing its operations in detail.
 
+[[kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun]] adds Tencent through [[TongchengTravel]], which the episode says later received Tencent investment and became part of the broader online-travel consolidation story around [[Ctrip]]. Tencent is not analyzed as the main actor in that source; it is a platform-capital and distribution context for [[OnlineTravelAgency]] competition.
+
 ## Key Points
 - QQ membership shows that Chinese consumer internet users have accepted paid tiers when core network effects and benefits were clear.
 - Yuanbao is discussed as a domestic AI assistant that can remain an alternative if Doubao's paid tiers feel weak or too expensive.
 - Tencent's examples help distinguish payment infrastructure from payment willingness: easy payment alone does not create demand.
 - The AI interactive entertainment source uses Tencent as part of the large-company comparison around [[AIInteractiveEntertainment]] and game-industry AI adoption.
 - EP57 uses Tencent to represent the large-cap side of [[HangSengTechIndex]] and China-tech repricing after [[DeepSeek]].
+- The Ctrip source uses Tencent as a platform-investor context around [[TongchengTravel]] and OTA consolidation.
 
 ## Connections
 - [[QQ]] — early paid membership comparison.
@@ -26,3 +29,4 @@ Tencent appears in [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zon
 - [[Doubao]] — current AI charging case compared against Tencent examples.
 - [[AIInteractiveEntertainment]] — entertainment context where Tencent's game-company posture is discussed.
 - [[Alibaba]], [[Xiaomi]], [[DeepSeek]], and [[HongKongTechRepricing]] — Hong Kong/China technology allocation context from EP57.
+- [[TongchengTravel]], [[Ctrip]], [[OnlineTravelAgency]], and [[OTAPlatformConcentration]] — online-travel context from the Ctrip episode.

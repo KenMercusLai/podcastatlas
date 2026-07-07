@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-07] ingest | 困在系统里的酒店，你不知道的携程垄断练成史
+
+Added source page for a Keji Luandun episode on Ctrip/Trip.com Group, Chinese OTA history, the founding team, early hotel and ticketing operations, Qunar/Elong/Tongcheng competition, Huazhu and direct booking, hotel PMS and inventory control, user-side hidden fees, homestay complaints, platform antitrust, and data-based regulation. Created supporting entity and concept pages for the main people, companies, regulators, competitors, and online-travel governance themes; updated overview, index, Keji Luandun, Alibaba, Tencent, Baidu, and Nasdaq pages.
+
 ## [2026-07-07] ingest | Vol. 167 Token 如流水，Agent 似朝阳
 
 Added source page for a Fengyan Fengyu episode on Apple platform AI, App Store commitment subscriptions, OpenAI/Microsoft cloud shifts, Project Glassfin, token-cost pressure, AI medical marketing risk, AI content provenance, Codex remote control, and OpenClaw/Hermes-style IM personal agents. Created Project Glassfin, AI Content Provenance, and Medical AI Marketing Risk; updated overview, index, Fengyan Fengyu, Justin Yan, Zili, Codex, OpenAI, Microsoft, Anthropic, Claude Code, Apple, Gemini, OpenClaw, Hermes Agent, ChatGPT, App Store, Cloudflare, DeepSeek, AI inference cost structure, model routing cost control, AI subscription economics, agent-native software, IM agent interfaces, agent harness, persistent agent memory, AI skills, agent permission boundaries, human-agent collaboration, AI coding verification, AI governance and compliance, and AI impersonation fraud risk pages.
@@ -607,6 +611,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-07] ingest | E153.股神的牌局：复利公式 + 凯利公式
 
 Added source page for a 面基 episode on Kelly sizing, compounding growth, investment edge, position sizing, opportunity density, value investing, quantitative investing, passive investing, and trading discipline. Created supporting pages for 面基, Edward Thorp, Claude Shannon, Kelly Criterion, Position Sizing, Investment Edge, and Compounding Growth Formula; updated overview, index, Investment Risk Management, Quantitative Investing, Passive Investing, Stop-Loss Discipline, Pyramiding, and Averaging Down pages.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-07] lint | Wiki health check
 

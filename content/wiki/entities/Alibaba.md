@@ -2,7 +2,7 @@
 title: "Alibaba"
 type: entity
 tags: [company, ai, china]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm]
+sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun]
 last_updated: 2026-07-07
 ---
 
@@ -16,6 +16,8 @@ Alibaba is the large-company setting for [[ali-qianwen-lizhi-yuzhen-zai-jiwanren
 
 [[1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm]] adds Alibaba's cloud-infrastructure side through [[AliyunBailian]], [[YuWenyuan]], and [[Pingtouge]]. The episode frames Alibaba's AI advantage as a possible end-to-end stack across cloud infrastructure, [[Qwen]], chip work, GPU scheduling, security, and the ability to turn compute into usable model tokens.
 
+[[kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun]] adds Alibaba as an adjacent platform context in online travel. [[Fliggy]] is named as a possible competitor to [[Ctrip]], and [[TongchengTravel]]'s founder background is connected to Alibaba's earlier "China supplier" ground-sales model. In this source, Alibaba is not the central company; it is part of the broader platform environment around [[OnlineTravelAgency]] competition.
+
 ## Source Position
 - Provides the resources needed to train and distribute large models such as [[Qwen]].
 - Faces [[AICommercializationPressure]] because model training is expensive and open-source influence does not automatically translate into revenue.
@@ -23,6 +25,7 @@ Alibaba is the large-company setting for [[ali-qianwen-lizhi-yuzhen-zai-jiwanren
 - In EP57, represents the large, liquid China-tech side of [[HangSengTechIndex]] and foreign-capital repricing.
 - In EP87, provides the early product-design environment behind [[Daqi]]'s later [[BusinessFluentDesign]] argument.
 - In the Bailian source, represents the integrated cloud, model, and chip context behind [[MaaSInfrastructure]].
+- In the Ctrip source, appears through [[Fliggy]] and the ground-sales distribution context around [[TongchengTravel]].
 
 ## Connections
 - [[OpenSourceAIModels]] and [[LargeCompanyOpenSourceStrategy]] — strategic context for Qwen.
@@ -30,3 +33,4 @@ Alibaba is the large-company setting for [[ali-qianwen-lizhi-yuzhen-zai-jiwanren
 - [[Tencent]], [[Xiaomi]], [[DeepSeek]], and [[HongKongTechRepricing]] — EP57's Hong Kong/China technology allocation context.
 - [[Daqi]], [[Lazada]], [[TikTok]], and [[BusinessFluentDesign]] — design-career context added by EP87.
 - [[AliyunBailian]], [[YuWenyuan]], [[Pingtouge]], and [[MaaSInfrastructure]] — AI serving-infrastructure context added by the Bailian source.
+- [[Fliggy]], [[TongchengTravel]], [[Ctrip]], and [[OnlineTravelAgency]] — online-travel and platform-competition context added by the Ctrip source.
