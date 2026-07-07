@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-08] ingest | Stefan Sagmeister: Finally, something good.
+
+Added source page for a Long Now talk on Stefan Sagmeister's informed optimism, the optimism gap, short-term news bias, progress data visualization, positive journalism, participatory exhibitions, beauty in communication, and design under constraints. Created supporting pages for Stefan Sagmeister, Lisa K. Solomon, Finally Something Good, Tibor Kalman, Informed Optimism, Optimism Gap, Progress Data Visualization, Short-Term News Bias, Positive Journalism, Beauty in Communication, Apocalyptic Thinking, Participatory Exhibitions, and Design Under Constraints; updated overview, index, Long Now, Public Service Journalism, Design Led Growth, and Business Fluent Design. No direct contradiction found; the source qualifies doom-heavy media and climate-catastrophe narratives by arguing that present dangers and long-term progress can both be true depending on time scale.
+
 ## [2026-07-08] ingest | EP122 拥有一辆房车是种什么样的体验？🤔
 
 Added source page for a 硬地骇客 episode on Guigui's secondhand B-type RV ownership, pet travel, winter diesel and water logistics, parking constraints, gray/black water handling, mobile work, and rent-before-buy advice. Created supporting pages for Guigui, One Life, Maxus V90, RV Ownership Economics, B-Type RV Motorhome, RV Travel Logistics, Pet Travel, and Mobile Work; updated overview, index, 硬地骇客, Podwise, Financial Freedom Vs Lifestyle Freedom, and Self-Directed Work. No direct contradiction found; the source qualifies digital-nomad and lifestyle-freedom narratives by showing that mobility depends on vehicle, weather, water, sewage, parking, and network constraints.
@@ -955,6 +959,10 @@ Ran lint after health passed. Health found no empty/stub files, index drift, or 
 ## [2026-07-08] ingest | Indy Johar: Civilizational Optioneering
 
 Added source page for a Long Now talk on systemic degenerative volatility, planetary self-awareness, civilizational optionality, foundational economies, existutions, outcome accelerators, doubt as intelligence, climate adaptation, and bioregional resilience. Created pages for Indy Johar, Dark Matter Labs, Long Now, James Lovelock, Civilizational Optionality, Systemic Degenerative Volatility, Planetary Self-Awareness, Foundational Economies, Existutions, Outcome Accelerators, Bioregional Resilience, Doubt as Intelligence, and Climate Adaptation; updated overview and index. No direct contradiction found; the source extends existing AI, governance, ecology, and resilience material by shifting the focus from capability or continuity toward planetary coordination and option-space preservation.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-08] lint | Wiki health check
 

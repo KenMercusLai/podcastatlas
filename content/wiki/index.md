@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Stefan Sagmeister: Finally, something good.](sources/stefan-sagmeister-finally-something-good-yqqxftsvema.md) — Long Now talk on informed optimism, the optimism gap, short-term news bias, progress data visualization, positive journalism, and design as beautiful public communication.
 - [Indy Johar: Civilizational Optioneering](sources/indy-johar-civilizational-optioneering-tyeyt7r-zfu.md) — Long Now talk on systemic degenerative volatility, planetary self-awareness, civilizational optionality, foundational economies, existutions, outcome accelerators, and bioregional resilience.
 - [Congress has voted to eliminate government funding for public media](sources/congress-has-voted-to-eliminate-government-funding-for-public-media.md) — NPR/Planet Money public-media funding appeal on federal funding loss, local journalism, emergency alerts, listener donations, and a 1A politics-series promo.
 - [Dhaka matters: an election for Bangladesh](sources/dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d.md) — The Intelligence episode on Bangladesh's competitive post-Hasina election, applied astrobiology for space habitats, and AI-driven job-application overload.
@@ -142,9 +143,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Stefan Sagmeister](entities/StefanSagmeister.md) — Designer and Long Now speaker using data, beauty, exhibitions, and physical objects to argue for informed optimism.
+- [Lisa K. Solomon](entities/LisaKSolomon.md) — Long Now host who frames Sagmeister's talk and Q&A around hope, journalism, beauty, constraints, and design's future.
+- [Finally Something Good](entities/FinallySomethingGood.md) — Sagmeister project translating long-term progress data into artworks, objects, exhibitions, public installations, and a book.
+- [Tibor Kalman](entities/TiborKalman.md) — Designer and Sagmeister mentor used as an AI-era example of design value coming from point of view and vision.
 - [Indy Johar](entities/IndyJohar.md) — Long Now speaker and Dark Matter Labs co-founder arguing for civilizational optionality under planetary volatility.
 - [Dark Matter Labs](entities/DarkMatterLabs.md) — Organization associated with Johar's institutional-design work on governance, finance, and systems change.
-- [Long Now](entities/LongNow.md) — Long-term-thinking organization hosting Johar's civilizational optioneering talk.
+- [Long Now](entities/LongNow.md) — Long-term-thinking organization hosting Johar's civilizational optioneering and Sagmeister's informed-optimism talks.
 - [James Lovelock](entities/JamesLovelock.md) — Thinker referenced through Novacene to anchor the source's planetary self-awareness frame.
 - [NPR](entities/NPR.md) — Public media organization making a funding appeal around federal funding loss, local journalism, emergency access, and listener support.
 - [Katherine Maher](entities/KatherineMaher.md) — NPR CEO voicing the appeal and linking public-media funding to local reporting, rural access, and donations.
@@ -797,6 +802,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, and Louis Hong episodes.
 
 ## Concepts
+- [Informed Optimism](concepts/InformedOptimism.md) — Long-term, evidence-grounded optimism that acknowledges present danger while showing that action has improved core human indicators.
+- [Optimism Gap](concepts/OptimismGap.md) — Pattern where people judge their own lives more positively than the world because wider reality is mediated through negative short-cycle attention.
+- [Progress Data Visualization](concepts/ProgressDataVisualization.md) — Practice of turning long-term social indicators into visual, physical, and participatory forms.
+- [Short-Term News Bias](concepts/ShortTermNewsBias.md) — Media and attention pattern where sudden bad events dominate over slow improvements.
+- [Positive Journalism](concepts/PositiveJournalism.md) — Craft challenge of making true positive developments serious, interesting, and useful rather than fluffy.
+- [Beauty in Communication](concepts/BeautyInCommunication.md) — Design idea that true information often needs aesthetic force to be noticed, remembered, and discussed.
+- [Apocalyptic Thinking](concepts/ApocalypticThinking.md) — Doom-oriented belief pattern that can paralyze action when crisis awareness turns into fatalism.
+- [Participatory Exhibitions](concepts/ParticipatoryExhibitions.md) — Exhibition format where visitors discover, act, discuss, and physically engage with the work.
+- [Design Under Constraints](concepts/DesignUnderConstraints.md) — Design practice of using budgets, briefs, existing spaces, materials, labels, and production limits as part of the solution.
 - [Civilizational Optionality](concepts/CivilizationalOptionality.md) — Long-term resilience frame focused on preserving and expanding possible futures for human, machine, and ecological systems.
 - [Systemic Degenerative Volatility](concepts/SystemicDegenerativeVolatility.md) — Cascading risk condition where climate, ecology, geopolitics, food, energy, and technology shocks interact.
 - [Planetary Self-Awareness](concepts/PlanetarySelfAwareness.md) — Frame for Earth becoming able to perceive and act on itself through human, machine, and ecological systems.
