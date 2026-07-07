@@ -2,7 +2,7 @@
 title: "Apple"
 type: entity
 tags: [company, platform, ai, investing, mobile, app-store, media]
-sources: [vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, formula-1-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
+sources: [vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, formula-1-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
 last_updated: 2026-07-07
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-07
 Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] through the hosts' expectations for WWDC, iOS, [[Siri]], and possible [[Gemini]] integration. The episode frames Apple less as a model company and more as a platform company whose operating-system entry point could make agentic AI immediately consequential for small tools and productivity apps.
 
 [[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] adds an earlier and broader Apple platform frame. Recorded before WWDC 2026, the hosts use Apple news, [[Siri]] expectations, Apple Watch health features, hardware cadence, and [[AppStore]] review rules to ask whether Apple's traditional product and review tempo can absorb [[AgenticSoftware]] and dynamically generated apps.
+
+[[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] adds Apple through [[Xcode]] Agentic Coding, possible [[Gemini]] integration into [[Siri]], and new input-device rumors. The episode treats Apple as strongest where it can bind AI to developer tools, device context, and OS-level assistant surfaces, while still lagging if product timing or integration slips.
 
 [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9]] adds Apple as an investing signal because [[WarrenBuffett]] and [[BerkshireHathaway]] had reportedly reduced a large Apple position before a period of market stress. In that source, Apple is less an AI-platform case and more a highly visible large-cap holding whose selling can affect risk sentiment.
 
@@ -41,6 +43,7 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 - The OPC source treats Apple as part of the platform layer that can benefit when AI increases app supply even if many individual apps do not find strong [[CustomerPull]].
 - The export-control source treats Apple as a region-fragmentation example: the same AI feature set may not be globally available because of policy, partner, or market constraints.
 - Vol. 167 treats Apple as a distribution and trust layer: health alerts, device form factor, subscription mechanics, and assistant integration can change behavior even when the model or service comes from another provider.
+- Vol. 162 treats Apple as an integration layer for [[Xcode]], [[Siri]], and possible voice/input devices, reinforcing that model capability matters only when it reaches daily workflows.
 
 ## Connections
 - [[Siri]] — Apple assistant and platform entry point discussed in the source.
@@ -57,3 +60,4 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 - [[EuropeanUnion]], [[FrontierModelAccessRestrictions]], and [[SaaSReliabilityUnderPolicyRisk]] — regional AI availability frame added by the Keji Luandun export-control episode.
 - [[Gemini]], [[AppStore]], [[AISubscriptionEconomics]], and [[AIProductFragmentation]] — health, subscription, and platform-AI themes added by Vol. 167.
 - [[AgenticSoftware]], [[AppStore]], and [[OnDemandApps]] — Vol. 164 platform-review and generated-app themes.
+- [[Xcode]], [[ModelWorkflowFit]], [[Gemini]], and [[VoiceInteraction]] — IDE, assistant, and input-device themes added by Vol. 162.

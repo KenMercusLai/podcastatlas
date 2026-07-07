@@ -2,7 +2,7 @@
 title: "Agent Permission Boundaries"
 type: concept
 tags: [agents, security, governance]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
 last_updated: 2026-07-07
 ---
 
@@ -16,6 +16,8 @@ Agent permission boundaries are the practical limits that decide which tools, ac
 
 [[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] adds the cross-device and IM-agent version. Browser extensions, phone-to-computer remote control, lock-screen background operation, group-chat agents, and account/IP risk make it more important to separate safe observation, low-impact execution, and actions that require explicit approval.
 
+[[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] adds the commerce and device-risk version. [[AgenticCommerce]] requires explicit spend, product, address, and substitution controls, while voice wearables, always-on recorders, robots, and brain-computer interfaces raise the cost of mistaken or overbroad agent action.
+
 ## Key Claims
 - Permission design is part of the [[AgentHarness]], not an afterthought, because tool access defines what the agent can actually do.
 - Personal agents need tiered skill policies: some skills can run automatically, while others should require explicit human invocation.
@@ -26,6 +28,7 @@ Agent permission boundaries are the practical limits that decide which tools, ac
 - [[RoutineAgentAutomation]] needs trigger-level and action-level boundaries because scheduled work can repeat a bad permission decision many times.
 - Cross-agent review can reduce mistakes, but it does not remove human accountability for actions taken under the user's account.
 - Agent channels need their own boundaries: an IM thread, browser extension, background Mac session, and ChatGPT remote command may expose different accounts, files, and social contexts.
+- Shopping and payment agents need budget, confirmation, refund, delivery, and identity boundaries because the action directly spends money and changes real-world logistics.
 
 ## Connections
 - [[OpenClaw]], [[JustinYan]], and [[Zili]] — source context for personal-agent safety.
@@ -36,3 +39,4 @@ Agent permission boundaries are the practical limits that decide which tools, ac
 - [[LocalAgentExecution]] and [[IMAgentInterfaces]] — OpenClaw product pattern that creates both usefulness and permission risk.
 - [[RoutineAgentAutomation]], [[Podwise]], and [[WeChatReading]] — recurring personal workflow cases added by EP127.
 - [[Codex]], [[IMAgentInterfaces]], [[PersistentAgentMemory]], and [[AIContentProvenance]] — cross-channel permission and disclosure themes added by Vol. 167.
+- [[AgenticCommerce]], [[VoiceInteraction]], [[AIPlusTerminals]], and [[AgentFacingInterfaces]] — commerce, device, and platform-access themes added by Vol. 162.

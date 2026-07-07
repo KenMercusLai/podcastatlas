@@ -2,7 +2,7 @@
 title: "World Models"
 type: concept
 tags: [models, robotics, learning]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]
+sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]
 last_updated: 2026-07-07
 ---
 
@@ -20,6 +20,8 @@ World models appear first in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touz
 
 [[vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]] adds a more speculative product-use version. The hosts imagine [[TokenDrivenSoftware]] in which sandboxes, element-combination games, camera/AR effects, and virtual experimental environments can generate plausible outcomes for actions that were not preauthored by developers.
 
+[[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] adds a Project Genie-style bridge between games and robotics. The hosts see real-time generated 3D environments as useful for [[AIInteractiveEntertainment]] and possible robot training simulation, but they remain skeptical that generated worlds can yet capture materials, cloth, collisions, outdoor physics, and other physical edge cases well enough to replace real testing.
+
 ## Connections
 - [[SecondRenaissance]] — broader idea that AI can change learning and creative expression.
 - [[VideoModels]] — adjacent generative model direction for richer world and scene representation.
@@ -33,3 +35,4 @@ World models appear first in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touz
 - [[WeilaiBuyuan]], [[F2HomeRobot]], and [[HomeServiceRobots]] — home-service deployment case.
 - [[AIInteractiveEntertainment]], [[AIGameIndustrialization]], and [[AI3DPrototyping]] — entertainment and game-production constraints around generated worlds.
 - [[TokenDrivenSoftware]] and [[AIForScience]] — Vol. 170's connection between generated world rules, sandbox play, and cheaper simulation before physical experiments.
+- [[AIInteractiveEntertainment]], [[EmbodiedAI]], [[AIGameIndustrialization]], and [[VideoModels]] — Project Genie and simulation limits added by Vol. 162.

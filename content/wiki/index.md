@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol. 162 科技快乐星球44: 新模型“SOTA们”齐贺新春](sources/vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1.md) — Fengyan Fengyu AI-news roundup on Xcode Agentic Coding, Codex/Claude Code/Gemini workflow fit, domestic model releases, AI video, agentic commerce, voice/local models, and AI infrastructure.
 - [Vol. 164 从苹果聊到软件未来：Agentic Software 真的要来了？](sources/vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1.md) — Fengyan Fengyu episode on Apple platform AI expectations, App Store review limits, agentic software, atomic SaaS capabilities, vibe-coding boundaries, AI communication skill, and AI content devaluation.
 - [我们把 AI 塞进花店后，才知道AI落地有多脏](sources/women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1.md) — Keji Luandun field report on running a real flower shop to test offline AI, covering visual merchandising, order capture, delivery-platform dependence, paid traffic, staff incentives, and why AI deployment requires dirty operational work.
 - [困在系统里的酒店，你不知道的携程垄断练成史](sources/kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun.md) — Keji Luandun episode on Ctrip, Chinese OTA history, founding operators, hotel inventory systems, competitor consolidation, hidden fees, homestay complaints, antitrust, and platform data regulation.
@@ -574,6 +575,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Xiaohongshu Hackathon Peak Competition](entities/XiaohongshuHackathonPeakCompetition.md) — Xiaohongshu's 48-hour AI-era hackathon for young builders, hardware makers, designers, and independent developers.
 - [Xiaoban](entities/Xiaoban.md) — Yueban Dongli's consumer bipedal companion robot designed around household emotional presence.
 - [Xiaomi](entities/Xiaomi.md) — Chinese technology company used in EP57 as a large, liquid Hong Kong/China tech allocation example.
+- [Xcode](entities/Xcode.md) — Apple IDE discussed through Agentic Coding, Codex/Claude Code integration, build-context access, and CLI-versus-IDE workflow fit.
 - [Xiao'e](entities/XiaoE.md) — Design graduate student and hackathon contestant building playful AI hardware for focus and real-world attention.
 - [小孙](entities/XiaoSun.md) — Post-2000 developer/founder case for self-directed work, CreateWise, career self-rescue, and digital-nomad community building.
 - [Xiaoning](entities/Xiaoning.md) — Former game producer and Youju guest mapping AI interactive entertainment and AI game misconceptions.
@@ -607,6 +609,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [Agentic Software](concepts/AgenticSoftware.md) — Software designed around agents interpreting goals, selecting capabilities, and generating or reshaping work surfaces.
+- [Agentic Commerce](concepts/AgenticCommerce.md) — Shopping and payment workflows where agents can select, buy, and pay under explicit user permission boundaries.
 - [Atomic Capability Services](concepts/AtomicCapabilityServices.md) — SaaS decomposition pattern where reliable product abilities become agent-callable and recombinable atoms.
 - [AI Communication Ability](concepts/AICommunicationAbility.md) — Clear expression, listening, prompting, and task framing as core skills for working through agents.
 - [AI Content Devaluation](concepts/AIContentDevaluation.md) — Audience and product-trust problem where cheap AI generation makes generic content or tools feel less worth attention.
@@ -924,6 +927,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mission Driven Customer Education](concepts/MissionDrivenCustomerEducation.md) — Marketing and trial work that translates values-driven products into practical customer benefits.
 - [Model Harness Co-Evolution](concepts/ModelHarnessCoEvolution.md) — View that models and agent/harness systems improve each other through real workflow feedback.
 - [Model Routing Cost Control](concepts/ModelRoutingCostControl.md) — Matching tasks to models by capability, cost, quota, latency, and risk instead of always using the strongest model.
+- [Model Workflow Fit](concepts/ModelWorkflowFit.md) — Choosing models and agent tools by behavior inside real workflows rather than by leaderboard rank alone.
 - [Model Provider Tool Competition](concepts/ModelProviderToolCompetition.md) — Pressure on workflow startups when frontier model providers ship official tools in the same category.
 - [Mobile Internet Prehistory](concepts/MobileInternetPrehistory.md) — Handset, network, standards, and consumer-adoption layer that made later mobile internet possible.
 - [Money Laundering Stages](concepts/MoneyLaunderingStages.md) — Placement, layering, and integration model for how illicit funds are introduced, obscured, and re-entered as apparently legitimate money.

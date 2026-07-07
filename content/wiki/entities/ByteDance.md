@@ -2,7 +2,7 @@
 title: "ByteDance"
 type: entity
 tags: [company, ai, platform]
-sources: [cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6]
+sources: [cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]
 last_updated: 2026-07-07
 ---
 
@@ -12,12 +12,15 @@ ByteDance is the company context for [[Doubao]] in [[cong-qq-huiyuan-dao-doubao-
 
 [[openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6]] adds ByteDance as [[HuangBote]]'s pre-founder context: he worked there as product manager for the open-source [[Mycontext]] project, which captured computer context through periodic screenshots and later informed [[AirJelly]].
 
+[[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] adds ByteDance through Seedance 2.0. The hosts treat the model as a strong [[VideoModels]] signal because of clarity, cinematic feel, and camera movement, while also noting that recognizable IP, voices, and likenesses create rights and safety constraints.
+
 ## Key Points
 - The hosts say Doubao's scale makes free access increasingly expensive because usage drives token and compute costs.
 - ByteDance's video background is used to explain why Doubao may have a stronger position in [[VideoModels]] than in text or image generation.
 - The episode treats ByteDance's cost pressure as a case of [[AICommercializationPressure]], not merely a desire to charge users.
 - The AI interactive entertainment episode links ByteDance's faster AI posture and video-generation capabilities to possible interactive-video experiments.
 - The AirJelly episode links ByteDance to open-source context-capture work through [[Mycontext]] rather than to Doubao or video generation.
+- Vol. 162 links ByteDance to the rapid improvement of AI video and the tension between creative leverage and rights enforcement.
 
 ## Connections
 - [[Doubao]] — ByteDance AI assistant and model product at the center of the episode.
@@ -26,3 +29,4 @@ ByteDance is the company context for [[Doubao]] in [[cong-qq-huiyuan-dao-doubao-
 - [[ProductLedWillingnessToPay]] — product-quality standard ByteDance must meet for Doubao subscriptions to work.
 - [[AIInteractiveEntertainment]] — later source context for ByteDance's AI exploration in entertainment.
 - [[Mycontext]], [[AirJelly]], and [[HuangBote]] — context-capture and founder background added by the AirJelly episode.
+- [[VideoModels]], [[AIInteractiveEntertainment]], and [[AIContentProvenance]] — Seedance 2.0 and rights-risk themes added by Vol. 162.

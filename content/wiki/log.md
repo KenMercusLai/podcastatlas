@@ -400,6 +400,10 @@ Added source page for a How I Built This episode on Tobias Lütke, Shopify, Snow
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-07] ingest | Vol. 162 科技快乐星球44: 新模型“SOTA们”齐贺新春
+
+Added source page for a Fengyan Fengyu AI-news roundup on Xcode Agentic Coding, Codex/Claude Code/Gemini workflow fit, domestic SOTA model releases, Seedance-style video generation, ChatGPT subscription/advertising, OpenAI voice/hardware, local translation models, agentic shopping/payment, cloud-chip binding, data-center power, space compute, robotics, and AI-for-science news. Created supporting pages for Xcode, Model Workflow Fit, and Agentic Commerce; updated overview, index, Fengyan Fengyu, Justin Yan, Zili, Codex, Claude Code, Gemini, Apple, Google, OpenAI, Anthropic, Amazon, ByteDance, Model Routing Cost Control, AI Inference Cost Structure, AI Coding Verification, AI Product Fragmentation, AI Subscription Economics, Agent Permission Boundaries, MaaS Infrastructure, Video Models, World Models, AI Interactive Entertainment, and AI Plus Terminals.
+
 ## [2026-07-07] ingest | Vol. 165 做客声东击西：「龙虾」和 vibe coding 正如何改变我们的思维
 
 Added source page for a Fengyan Fengyu/Shengdong Jixi crossover on OpenClaw, vibe coding, Shengdong Huopo's internal AI Hackathon, non-technical AI builders, programmatic thinking, agent proactivity, persistent memory, AI skills, digital employees, prototype-to-production gaps, human judgment, and AI-era training pressure. Created supporting pages for Shengdong Jixi, Shengdong Huopo, Xu Tao, and Wang Junyu; updated overview, index, Fengyan Fengyu, Justin Yan, OpenClaw, Vibe Coding, AI Engineering Thinking, AI Skills, Proactive Agents, Persistent Agent Memory, Digital Employees, Routine Agent Automation, Business-Led AI Transformation, Agent Native Software, On-Demand Apps, Agent Self-Evolution, AI Hackathons, Human Judgment Under AI, and College Career Preparation pages.
@@ -627,6 +631,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-07] ingest | 我们把 AI 塞进花店后，才知道AI落地有多脏
 
 Added source page for a Keji Luandun field report on using AI in a real flower shop, covering offline AI implementation, flower-product image generation, customer substitution confirmation, delivery-platform dependency, paid traffic, closed platform data, printer/OCR order capture, staff incentives, and why AI deployment requires dirty operational work. Created supporting pages for Offline AI Implementation, AI Visual Merchandising, Operational Data Capture, and Local-Life Platform Dependency; updated overview, index, Keji Luandun, Dirty Work, Business-Led AI Transformation, Frontline AI Enablement, AI Engineering Thinking, China Agent Market Friction, Platform Data Regulation, Agent-Facing Interfaces, AI Operations Role, Human Judgment Under AI, and Doubao.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-07] lint | Wiki health check
 

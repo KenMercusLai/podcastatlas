@@ -2,7 +2,7 @@
 title: "Model Routing Cost Control"
 type: concept
 tags: [ai, economics, infrastructure]
-sources: [vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
+sources: [vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
 last_updated: 2026-07-07
 ---
 
@@ -14,6 +14,8 @@ The concept is the user- and product-workflow version of the serving-side routin
 
 [[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] adds a practical operating version: users may route complex agent/coding tasks to [[Codex]] or [[ClaudeCode]], simpler subtasks to cheaper models such as [[DeepSeek]] or Kimi, and deterministic parts to scripts or infrastructure services. The goal is not just lower cost, but fewer expensive model calls spent on work that does not need frontier-level judgment.
 
+[[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] adds the behavior-fit layer. The hosts compare [[Codex]] and [[ClaudeCode]] not only by cost, but by speed, tendency to infer intent, review confidence, and whether the model is better suited to planning, review, or execution. This makes [[ModelWorkflowFit]] a necessary companion to cost routing.
+
 ## Key Claims
 - High-end models can be necessary for hard tasks, but defaulting to them for every step wastes scarce token budget.
 - The useful router must consider task risk: brainstorming, summarization, execution, code review, release checks, and product judgment have different failure costs.
@@ -21,6 +23,7 @@ The concept is the user- and product-workflow version of the serving-side routin
 - Manual routing is still common among expert users, but a unified interface may be needed as model lists, limits, and subscription rules become more complex.
 - Cost control is not merely price minimization; the goal is the cheapest model that can satisfy the acceptance criteria with acceptable verification overhead.
 - The router can include non-model options: local scripts, conventional software, and cheaper infrastructure may be better than asking a model to regenerate stable operations.
+- Routing should account for model behavior style, not only price: a model that is cheaper or faster can still be expensive if it creates more review or repair work.
 
 ## Connections
 - [[AIInferenceCostStructure]] and [[AISubscriptionEconomics]] — cost and quota pressure that makes routing necessary.
@@ -29,3 +32,4 @@ The concept is the user- and product-workflow version of the serving-side routin
 - [[Fable5]], [[Codex]], and [[DeepSeek]] — examples used in the source's high/low capability comparison.
 - [[ProductLedWillingnessToPay]] — customers tolerate cost or limits only when routed model work produces clear value.
 - [[ClaudeCode]], [[Cloudflare]], and [[AIInferenceCostStructure]] — heavy-use and infrastructure-substitution context added by Vol. 167.
+- [[ModelWorkflowFit]], [[Xcode]], and [[Gemini]] — behavior, interface, and model-version comparison added by Vol. 162.

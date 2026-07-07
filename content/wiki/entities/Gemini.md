@@ -2,7 +2,7 @@
 title: "Gemini"
 type: entity
 tags: [ai-tool, search, assistant, coding]
-sources: [ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
+sources: [ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
 last_updated: 2026-07-07
 ---
 
@@ -16,6 +16,8 @@ Gemini appears in [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]] as 
 
 [[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] adds Gemini through [[Apple]] and browser-agent expectations. The hosts look for WWDC progress around Gemini/Apple Intelligence integration and note that Codex, [[ClaudeCode]], and Gemini all moving into Chrome-like surfaces makes browser context a competitive agent entry point.
 
+[[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] adds Gemini as both a possible [[Siri]] partner and a cost-testing case. The hosts say replacing Gemini 2.5 with Gemini 3 in a small tool did not obviously raise cost for their use case, so they recommend measuring model cost and behavior in the actual workflow instead of relying on general assumptions.
+
 ## Connections
 - [[PeakAI]] - product that monitors brand visibility across AI search tools.
 - [[AISearchAnalytics]] - category for tracking appearances, citations, and sentiment in AI answers.
@@ -23,3 +25,4 @@ Gemini appears in [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]] as 
 - [[GeminiCLI]], [[VibeCoding]], and [[ContextEngineering]] - coding-tool usage added by EP108.
 - [[Google]], [[AIProductFragmentation]], [[Apple]], and [[Siri]] - product and platform strategy themes added by Vol. 166.
 - [[Apple]], [[Codex]], [[ClaudeCode]], and [[IMAgentInterfaces]] - platform and browser-agent comparison added by Vol. 167.
+- [[ModelWorkflowFit]], [[AIProductFragmentation]], and [[ModelRoutingCostControl]] - cost, model-version, and platform-fit themes added by Vol. 162.

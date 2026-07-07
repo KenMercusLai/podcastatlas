@@ -2,7 +2,7 @@
 title: "Codex"
 type: entity
 tags: [ai-tool, agent, coding]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
+sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
 last_updated: 2026-07-07
 ---
 
@@ -24,6 +24,8 @@ In [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperb
 
 [[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] adds Codex as a remote-control and personal-assistant surface. The hosts discuss a Chrome extension, lock-screen background operation on Mac, ChatGPT-based remote control from a phone, and the possibility of IM-style entry points. The source treats these as signs that Codex is moving beyond code generation toward delegated work where [[AgentPermissionBoundaries]], [[IMAgentInterfaces]], and [[AIInferenceCostStructure]] become product constraints.
 
+[[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] adds an earlier workflow-fit comparison. The hosts say GPT-5.3 Codex feels somewhat faster than prior versions but still slower than [[ClaudeCode]], and they trust Codex more for review, new-feature planning, and context-heavy judgment. The same source connects Codex to [[Xcode]] Agentic Coding and to [[ModelWorkflowFit]]: Codex can be the right tool when steadiness and review confidence matter more than raw speed.
+
 ## Episode Notes
 - The guest says he moved more of his usage toward Codex after a version update.
 - He values Codex partly for its GUI, access to ChatGPT history, and better Notion connection success in his workflow.
@@ -35,6 +37,7 @@ In [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperb
 - EP127 adds that Codex becomes more useful when skills encode verification, review, deployment, and recurring automation rather than only prompt style.
 - Vol. 170 adds Codex as the execution and review counterpart to [[Fable5]] planning in a cost-aware workflow.
 - Vol. 167 adds Codex as a remote personal technical assistant whose value depends on background execution, browser access, phone access, and clear permission boundaries.
+- Vol. 162 adds Codex as the steadier planning/review side of a [[ModelWorkflowFit]] comparison with [[ClaudeCode]] and [[Xcode]].
 
 ## Connections
 - [[OpenAI]] — company context for Codex.
@@ -46,3 +49,4 @@ In [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperb
 - [[Fable5]], [[OneShotAICoding]], [[GrillMeSkills]], and [[ModelRoutingCostControl]] — planning/execution split added by Vol. 170.
 - [[IMAgentInterfaces]], [[AgentPermissionBoundaries]], and [[AIInferenceCostStructure]] — remote-control and personal-agent direction added by Vol. 167.
 - [[AgenticSoftware]], [[VibeCoding]], and [[AICommunicationAbility]] — dynamic-app and human-review themes added by Vol. 164.
+- [[Xcode]], [[ModelWorkflowFit]], and [[ClaudeCode]] — IDE and model-style comparison added by Vol. 162.
