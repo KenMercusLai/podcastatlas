@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [为什么Manus必须出海？聊聊国产大模型的“文科生困境”](sources/weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun.md) — Podcast episode on Manus, the episode's Meta/Facebook acquisition claim, AI-agent overseas commercialization, domestic model language constraints, Chinese platform friction, and AI operations roles.
 - [那个不穿西装的程序员，扯出了国产操作系统二十年秘史](sources/nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun.md) — Podcast episode on Tongxin Software, Deepin, Hiweed Linux, UOS, Kylin OS, Xinchuang operating systems, open-source commercialization, and technical-versus-sales culture tension.
 - [具身智能的滔天大泡沫中，他已经把机器人送进300个家庭｜对话张翼：未来不远创始人/CEO](sources/jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf.md) — Podcast episode on Zhang Yi, Weilai Buyuan, F2, home service robots, household robot data flywheels, consumer robotics full-stack engineering, and embodied-intelligence bubble cycles.
 - [「1 亿 Token 俱乐部」挤爆了，AI 的燃料不够了：对谈于文渊](sources/1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm.md) — Podcast episode on Aliyun Bailian, Yu Wenyuan, token growth, MaaS infrastructure, GPU scheduling, confidential inference, AI coding boundaries, and compute supply constraints.
@@ -91,6 +92,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Meta](entities/Meta.md) — Platform company claimed by the Manus episode to have acquired Manus, used as a case for model and platform firms buying agent application layers.
+- [OpenManus](entities/OpenManus.md) — Agent project referenced as evidence that Manus-like task execution, local browser operation, and workflow automation were becoming easier to reproduce.
 - [Tongxin Software](entities/TongxinSoftware.md) — Domestic operating-system company used by the episode to connect Deepin's community lineage with Xinchuang government-enterprise delivery and management culture.
 - [Tongxin UOS](entities/TongxinUOS.md) — Commercial operating-system product connected to Deepin and the Xinchuang market.
 - [Deepin](entities/Deepin.md) — Chinese Linux distribution lineage traced from Hiweed into a community edition and later UOS commercialization.
@@ -409,7 +412,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [MultiCard](entities/MultiCard.md) — AI workflow company represented by Zhang Jiayuan and used as a case for model orchestration and maintainer-led AI coding.
 - [Motorola](entities/Motorola.md) — Early mobile-phone, pager, and design-led handset leader whose StarTAC/RAZR success did not survive the smartphone ecosystem shift.
 - [Mas](entities/Mas.md) — Ninety's AI companion bot built around organizational operating context.
-- [Manus](entities/Manus.md) — Agent product referenced as a milestone in the first 500 days of the agent wave.
+- [Manus](entities/Manus.md) — Agent product central to the overseas-commercialization episode and referenced elsewhere as a milestone in the agent wave.
 - [你的书房](entities/NiDeShufang.md) — Personal book-management product used as an example of paid AI features, bounded usage, and data portability.
 - [Nasdaq Composite](entities/NasdaqComposite.md) — Tech-heavy U.S. index used in EP57 for technical weakness, AI/mega-cap concentration, and Hong Kong tech correlation.
 - [NetEase](entities/NetEase.md) — Chinese game company mentioned as becoming more active in AI adoption.
@@ -539,6 +542,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [AI Agent Overseas Commercialization](concepts/AIAgentOverseasCommercialization.md) — Pattern where agent products find stronger fit in overseas web, SEO, advertising, API, and paid software workflows than in closed domestic app ecosystems.
+- [Chinese Model Liberal Arts Constraint](concepts/ChineseModelLiberalArtsConstraint.md) — Host-coined frame for domestic model weakness in open-ended writing, style, research, and nuanced expression relative to bounded tasks.
+- [China Agent Market Friction](concepts/ChinaAgentMarketFriction.md) — Platform, data-access, API, crawling, app-incentive, and payment obstacles that can make Chinese AI-agent commercialization harder.
+- [AI Operations Role](concepts/AIOperationsRole.md) — Business-process and tool-translation role for turning messy work into AI-executable tasks with verification and judgment.
 - [Chinese Domestic Operating Systems](concepts/ChineseDomesticOperatingSystems.md) — Domestic desktop and government-enterprise OS history spanning Hiweed, Deepin, Tongxin UOS, Kylin, localization, procurement, and hardware adaptation.
 - [Xinchuang Operating Systems](concepts/XinchuangOperatingSystems.md) — Domestic OS market shaped by information-technology localization, institutional procurement, domestic hardware adaptation, and support obligations.
 - [Open Source Community Commercialization](concepts/OpenSourceCommunityCommercialization.md) — Pattern where a community project becomes a company, product line, and institutional business with diverging incentives.

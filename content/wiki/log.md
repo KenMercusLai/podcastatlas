@@ -519,3 +519,19 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-07] ingest | 为什么Manus必须出海？聊聊国产大模型的“文科生困境”
+
+Added source page for a Keji Luandun episode on Manus, the episode's Meta/Facebook acquisition claim, overseas SEO and advertising workflows, domestic model "文科生" constraints, Chinese platform friction for agents, AI-agent commercialization, and AI operations roles. Created supporting pages for Meta, OpenManus, AI Agent Overseas Commercialization, Chinese Model Liberal Arts Constraint, China Agent Market Friction, and AI Operations Role; updated overview, index, Keji Luandun, Manus, Agentic Workflow, Agent Harness, Agent-Facing Interfaces, AI Commercialization Pressure, Model Provider Tool Competition, Product Led Willingness To Pay, Software Payment Culture, Human Judgment Under AI, and AI Engineering Thinking.
+
+## [2026-07-07] graph | Knowledge graph rebuilt
+
+896 nodes, 7945 edges (7945 extracted, 0 inferred).
+
+## [2026-07-07] report | Graph health report generated
+
+896 nodes analyzed.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

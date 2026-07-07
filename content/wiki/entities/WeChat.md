@@ -2,7 +2,7 @@
 title: "WeChat"
 type: entity
 tags: [platform, china, agents]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o]
+sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun]
 last_updated: 2026-07-06
 ---
 
@@ -12,6 +12,8 @@ WeChat is discussed in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-r
 
 [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o]] adds WeChat as an example of an existing text-entry and communication context where [[Paperboy]] could provide OS-level autocomplete without replacing the underlying app.
 
+[[weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun]] adds a sharper platform-friction view. The hosts say WeChat is exactly the kind of high-value app context users would want an agent to operate, but also the kind of platform likely to resist system-level agents that summarize, automate, or reduce in-app attention and commercial conversion.
+
 ## Connections
 - [[EverythingAgent]] — platform-level version of the broader agent thesis.
 - [[ContextEngineering]] — WeChat's value is partly its dense social and behavioral context.
@@ -19,3 +21,4 @@ WeChat is discussed in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-r
 - [[HeadlessSoftware]] — pressure on GUI-heavy communication workflows.
 - [[Doubao]] — alternative chat and context environment discussed in relation to possible communication migration.
 - [[OSLevelContext]] and [[ProactiveAgents]] — Paperboy-style assistance inside existing communication surfaces.
+- [[ChinaAgentMarketFriction]] — domestic super-app closure and platform-incentive conflict added by the Manus source.

@@ -2,7 +2,7 @@
 title: "AI Engineering Thinking"
 type: concept
 tags: [ai, workflow, software-engineering]
-sources: [ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm]
+sources: [ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun]
 last_updated: 2026-07-07
 ---
 
@@ -18,6 +18,8 @@ AI engineering thinking is the habit of turning a vague goal into explicit requi
 
 [[1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm]] adds the spec-coding version. [[YuWenyuan]] argues that AI can fill in implementation well when humans describe the desired system in clear, semi-formal logic, but two or three loose prompts are not enough for complex engineering work.
 
+[[weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun]] adds the operator version through [[AIOperationsRole]]. The hosts compare useful AI operators to low-code or VBA-heavy workers: they know enough business process to split ambiguous goals into executable tasks, choose the right model or tool, and judge whether a generated workflow is maintainable.
+
 ## Key Claims
 - AI is most useful when the work can be decomposed into bounded tasks with clear inputs, outputs, and acceptance criteria.
 - Test-driven development, end-to-end tests, screenshots, code review, documentation, and logging become easier to enforce because AI will perform tedious process steps if asked.
@@ -31,6 +33,7 @@ AI engineering thinking is the habit of turning a vague goal into explicit requi
 - Project-local skills are useful when they preserve architecture, module boundaries, design-system rules, and deployment expectations.
 - Spec coding turns requirements into an engineering artifact: the clearer the structure, constraints, and acceptance criteria, the more useful AI implementation becomes.
 - Engineering thinking includes knowing enough computer systems to catch AI mistakes instead of becoming a passive operator of generated code.
+- AI operations work depends on turning business ambiguity into requirements, tool choices, permission boundaries, and verification steps rather than only writing prompts.
 
 ## Connections
 - [[VibeCoding]] — AI coding practice that needs this engineering posture to become product work.
@@ -43,3 +46,4 @@ AI engineering thinking is the habit of turning a vague goal into explicit requi
 - [[AIProgrammingEngineShift]] and [[AICodingVerification]] — internal-combustion-era source where AI speed increases the need for framing and verification.
 - [[AISkills]], [[Playwright]], and [[RoutineAgentAutomation]] — EP127's route from repeated engineering judgment to reusable agent routines.
 - [[YuWenyuan]], [[AICodingVerification]], and [[VibeCoding]] — spec-coding and production-responsibility boundary added by the Bailian source.
+- [[AIOperationsRole]], [[HumanJudgmentUnderAI]], and [[AgenticWorkflow]] — business-process translation and verification frame added by the Manus source.
