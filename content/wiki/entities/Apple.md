@@ -2,13 +2,15 @@
 title: "Apple"
 type: entity
 tags: [company, platform, ai, investing, mobile, app-store, media]
-sources: [vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, formula-1-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
+sources: [vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, formula-1-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
 last_updated: 2026-07-07
 ---
 
 # Apple
 
 Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] through the hosts' expectations for WWDC, iOS, [[Siri]], and possible [[Gemini]] integration. The episode frames Apple less as a model company and more as a platform company whose operating-system entry point could make agentic AI immediately consequential for small tools and productivity apps.
+
+[[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] adds an earlier and broader Apple platform frame. Recorded before WWDC 2026, the hosts use Apple news, [[Siri]] expectations, Apple Watch health features, hardware cadence, and [[AppStore]] review rules to ask whether Apple's traditional product and review tempo can absorb [[AgenticSoftware]] and dynamically generated apps.
 
 [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9]] adds Apple as an investing signal because [[WarrenBuffett]] and [[BerkshireHathaway]] had reportedly reduced a large Apple position before a period of market stress. In that source, Apple is less an AI-platform case and more a highly visible large-cap holding whose selling can affect risk sentiment.
 
@@ -30,6 +32,7 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 - The hosts expect Apple AI news to matter because iPhone-level distribution can change user behavior even if the underlying model comes from another provider.
 - If Siri becomes a capable device-level agent, utility apps and reminder-like tools may face platform-level pressure.
 - The source still leaves room for third-party innovation because platform changes can create new workflows and expectations.
+- Vol. 164 treats Apple as both a possible carrier for agentic behavior and a possible blocker if review rules reject dynamic, short-lived, or vibe-coded software forms.
 - The market-turmoil source treats Apple as part of the valuation and mega-cap concentration conversation around U.S. equities.
 - The handset-history source treats iPhone as the interface and ecosystem reset that exposed [[Motorola]] and [[Nokia]]'s old assumptions.
 - The podcast-history source treats Apple Podcasts, iTunes, and iPod as infrastructure for [[PodcastAsAsynchronousMedia]], while Retina becomes a practical display-sharpness reference.
@@ -53,3 +56,4 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 - [[AppStore]], [[OnePersonCompany]], and [[SoftwarePaymentCulture]] — OPC source where platform economics remain stronger than many solo-builder monetization stories.
 - [[EuropeanUnion]], [[FrontierModelAccessRestrictions]], and [[SaaSReliabilityUnderPolicyRisk]] — regional AI availability frame added by the Keji Luandun export-control episode.
 - [[Gemini]], [[AppStore]], [[AISubscriptionEconomics]], and [[AIProductFragmentation]] — health, subscription, and platform-AI themes added by Vol. 167.
+- [[AgenticSoftware]], [[AppStore]], and [[OnDemandApps]] — Vol. 164 platform-review and generated-app themes.

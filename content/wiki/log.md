@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-07] ingest | Vol. 164 从苹果聊到软件未来：Agentic Software 真的要来了？
+
+Added source page for a Fengyan Fengyu episode on Apple platform AI expectations, App Store review boundaries for dynamically generated apps, Agentic Software, atomic SaaS capabilities via Tencent Meeting, vibe-coding demo-to-production gaps, coding-agent task-length limits, human communication ability, context/memory limits, and AI content devaluation. Created supporting pages for Agentic Software, Atomic Capability Services, AI Communication Ability, AI Content Devaluation, and Tencent Meeting; updated overview, index, Fengyan Fengyu, Justin Yan, 自立, Apple, App Store, Siri, Tencent, OpenClaw, Nvidia, Jensen Huang, Codex, and related agent/software/coding/content concepts.
+
 ## [2026-07-07] ingest | 困在系统里的酒店，你不知道的携程垄断练成史
 
 Added source page for a Keji Luandun episode on Ctrip/Trip.com Group, Chinese OTA history, the founding team, early hotel and ticketing operations, Qunar/Elong/Tongcheng competition, Huazhu and direct booking, hotel PMS and inventory control, user-side hidden fees, homestay complaints, platform antitrust, and data-based regulation. Created supporting entity and concept pages for the main people, companies, regulators, competitors, and online-travel governance themes; updated overview, index, Keji Luandun, Alibaba, Tencent, Baidu, and Nasdaq pages.
@@ -623,6 +627,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-07] ingest | 我们把 AI 塞进花店后，才知道AI落地有多脏
 
 Added source page for a Keji Luandun field report on using AI in a real flower shop, covering offline AI implementation, flower-product image generation, customer substitution confirmation, delivery-platform dependency, paid traffic, closed platform data, printer/OCR order capture, staff incentives, and why AI deployment requires dirty operational work. Created supporting pages for Offline AI Implementation, AI Visual Merchandising, Operational Data Capture, and Local-Life Platform Dependency; updated overview, index, Keji Luandun, Dirty Work, Business-Led AI Transformation, Frontline AI Enablement, AI Engineering Thinking, China Agent Market Friction, Platform Data Regulation, Agent-Facing Interfaces, AI Operations Role, Human Judgment Under AI, and Doubao.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-07] lint | Wiki health check
 

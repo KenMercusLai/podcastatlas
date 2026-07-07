@@ -2,7 +2,7 @@
 title: "AI Coding Verification"
 type: concept
 tags: [ai-coding, software-engineering, verification]
-sources: [duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
+sources: [duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
 last_updated: 2026-07-07
 ---
 
@@ -15,6 +15,8 @@ AI coding verification is the shift in bottleneck from generating code to provin
 [[ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]] adds the practitioner workflow version. The hosts describe asking AI to write tests first, measure coverage, run end-to-end checks, generate screenshots, produce documentation, and emit detailed logs so later debugging has enough observable context. The same source warns that legacy systems should be documented and tested before broad AI refactoring.
 
 [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] adds review-loop saturation. Automatic review, repair, and review-again cycles around [[Codex]] and [[ClaudeCode]] can raise quality, but also increase token usage and make human attention the bottleneck.
+
+[[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] adds a task-length and ability-retention warning. The hosts find short coding-agent loops more controllable than long chained tasks, and argue that humans can lose the habit of reading code if AI generates, summarizes, plans, and reviews everything.
 
 [[biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]] adds everyday verification cases. [[Ryo]] validates an AI-generated NAS deduplication strategy against actual file data, while [[WuTao]] says AI helps with cloud-service consulting but can confidently invent nonexistent Azure or DevOps settings.
 
@@ -42,6 +44,7 @@ AI coding verification is the shift in bottleneck from generating code to provin
 - AI can help implement verification itself, but only when the user explicitly asks for tests, screenshots, logs, and review rather than accepting generated code as finished.
 - Legacy-code modernization should begin with reading, documentation, tests, and observability before asking AI to rewrite core logic.
 - Review agents are useful only if the human can still inspect the resulting diffs, decide when enough review is enough, and avoid treating repeated agent approval as proof of correctness.
+- Coding-agent task design should keep loops short enough that drift can be caught before later steps build on a wrong intermediate result.
 - AI-generated infrastructure advice requires documentation checks and live-system validation, because plausible cloud configuration answers can be wrong.
 - AI can make beginners productive sooner while still making expert review more valuable, because the hard part shifts toward knowing what is wrong or missing.
 - Review difficulty can increase when generated changes are larger, more numerous, or written in a style optimized for model modification rather than human elegance.
@@ -69,3 +72,4 @@ AI coding verification is the shift in bottleneck from generating code to provin
 - [[Fable5]], [[OneShotAICoding]], [[Codex]], and [[GrillMeSkills]] — stronger-model planning and cross-review case added by Vol. 170.
 - [[GLM52]], [[ClaudeCode]], and [[HumanJudgmentUnderAI]] — model-testing and workflow-diagnostics case added by the Keji Luandun export-control episode.
 - [[Codex]], [[ClaudeCode]], [[OpenClaw]], and [[ProjectGlassfin]] — generated-code trust and security-discovery context added by Vol. 167.
+- [[AICommunicationAbility]], [[Codex]], and [[ClaudeCode]] — Vol. 164's task-framing and review-retention case.

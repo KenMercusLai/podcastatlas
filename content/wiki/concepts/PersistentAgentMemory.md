@@ -2,7 +2,7 @@
 title: "Persistent Agent Memory"
 type: concept
 tags: [agents, memory, context]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]
 last_updated: 2026-07-07
 ---
 
@@ -22,6 +22,8 @@ Persistent agent memory is the durable user model that [[Paperboy]] wants to bui
 
 [[vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]] adds a diary-and-search version from [[WangJunyu]]'s OpenClaw reading. Long memory can be implemented through daily notes plus retrieval over prior conversations, and becomes more useful when paired with [[AISkills]] that preserve how tasks should be done.
 
+[[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] adds the context-rot and consciousness speculation boundary. The hosts see long memory as necessary for more stable agents, but warn that raw accumulation is not enough: useful memory must be recalled naturally, compressed without losing meaning, and kept from making stale context feel current.
+
 ## Key Claims
 - Memory should preserve useful chat, work, meeting, code, message, and browsing context even after an individual session ends.
 - More persistent memory can reduce explicit prompting because the agent already knows the user's taste, work history, and current activity.
@@ -35,6 +37,7 @@ Persistent agent memory is the durable user model that [[Paperboy]] wants to bui
 - Memory can change user tolerance: failures may be interpreted as onboarding or training a helper when the agent seems to remember and improve.
 - Session boundaries can be a memory design feature: different threads or groups may intentionally remember different things to keep persona, permissions, and context from collapsing into one global agent.
 - Long memory is more than user profile storage; it can combine daily summaries, searchable history, and reusable task procedures.
+- Memory can fail by becoming stale or over-compressed; forgetting and context refresh are part of the product, not merely implementation details.
 
 ## Connections
 - [[ContextEngineering]] — broader discipline for making context durable and useful.
@@ -47,3 +50,4 @@ Persistent agent memory is the durable user model that [[Paperboy]] wants to bui
 - [[OpenClaw]], [[YaGe]], [[Haoda]], and [[IMAgentInterfaces]] — consumer-agent case where memory reinforces familiarity and relationship-like interaction.
 - [[JustinYan]], [[HermesAgent]], [[AgentPermissionBoundaries]], and [[AISkills]] — multi-session personal-agent memory case added by Vol. 167.
 - [[WangJunyu]], [[AISkills]], and [[ProactiveAgents]] — Vol. 165's daily-memory and method-memory interpretation.
+- [[ContextEngineering]], [[AICommunicationAbility]], and [[AgenticSoftware]] — Vol. 164's memory and context-rot extension.

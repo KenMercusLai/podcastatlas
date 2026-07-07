@@ -2,7 +2,7 @@
 title: "Codex"
 type: entity
 tags: [ai-tool, agent, coding]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
+sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
 last_updated: 2026-07-07
 ---
 
@@ -13,6 +13,8 @@ Codex is discussed as an agentic coding tool in [[gaoshou-zenme-yong-ai-putongre
 In [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o]], [[JieDechen]] says he especially likes Codex because its core agent and CLI/agent loop are open, the desktop app has strong craft, and its computer use, browser use, and multi-agent UI feel polished. Codex is therefore a benchmark for [[Paperboy]]'s view of emerging [[HumanAgentCollaboration]] interfaces.
 
 [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] adds Codex as a practical workhorse for self-use products and agent loops. [[JustinYan]] describes using Codex to build a Chrome extension MVP, package an old web game into an iOS wrapper, work inside [[Superpowers]]-style planning flows, and run review/fix cycles that improve output but raise [[AICodingVerification]] and token-cost pressure.
+
+[[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] adds Codex as part of the dynamic-app and review-boundary discussion. The hosts compare App Store concerns about vibe-coded app generators with platforms such as Codex, [[ClaudeCode]], and [[Doubao]] that can generate short-lived tools, then use Codex-style review loops to warn that AI review still requires human understanding.
 
 [[ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax]] mentions Codex as one of the agent environments where [[Podwise]] CLI/Skills can be installed, reinforcing Codex's role as an [[AgentHarness]] surface for external [[AgentOptimizedCLI]] tools.
 
@@ -29,6 +31,7 @@ In [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperb
 - The later source also praises Codex's human-facing presentation details, reinforcing that [[HeadlessSoftware]] still needs GUI for review and trust.
 - The Paperboy source treats Codex as an early example of high-parallelism agent UI and OpenAI infrastructure advantage.
 - Vol. 166 adds that Codex can make small, bounded personal tools quickly, but the user still has to supervise review, packaging, and product acceptance.
+- Vol. 164 adds that Codex-style generation can create review and platform-boundary questions when generated tools behave like temporary apps.
 - EP127 adds that Codex becomes more useful when skills encode verification, review, deployment, and recurring automation rather than only prompt style.
 - Vol. 170 adds Codex as the execution and review counterpart to [[Fable5]] planning in a cost-aware workflow.
 - Vol. 167 adds Codex as a remote personal technical assistant whose value depends on background execution, browser access, phone access, and clear permission boundaries.
@@ -42,3 +45,4 @@ In [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperb
 - [[RoutineAgentAutomation]], [[Playwright]], and [[AIEngineeringThinking]] — scheduled skills and verification loops added by EP127.
 - [[Fable5]], [[OneShotAICoding]], [[GrillMeSkills]], and [[ModelRoutingCostControl]] — planning/execution split added by Vol. 170.
 - [[IMAgentInterfaces]], [[AgentPermissionBoundaries]], and [[AIInferenceCostStructure]] — remote-control and personal-agent direction added by Vol. 167.
+- [[AgenticSoftware]], [[VibeCoding]], and [[AICommunicationAbility]] — dynamic-app and human-review themes added by Vol. 164.

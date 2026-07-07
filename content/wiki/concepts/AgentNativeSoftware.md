@@ -2,13 +2,15 @@
 title: "Agent Native Software"
 type: concept
 tags: [agents, software-design, product]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
 last_updated: 2026-07-07
 ---
 
 # Agent Native Software
 
 Agent-native software is software whose core substrate is an agent rather than a traditional app with an AI feature bolted on. In [[vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]], [[JustinYan]] and [[Zili]] frame [[OpenClaw]] this way: the surrounding code, tools, channels, UI, and [[AISkills]] act as the agent's hands, senses, and work environment, while the agent itself is what makes the product coherent.
+
+[[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] sharpens the adjacent [[AgenticSoftware]] definition. The hosts argue that simply adding an AI assistant, MCP-style tool access, or skills to existing software is not enough; the deeper change is decomposing products into callable abilities, dynamic interfaces, and human-agent review loops.
 
 [[vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]] adds a non-engineer perception shift. [[XuTao]] starts from an ordinary chat surface and only later realizes that the useful part of "小龙虾" is a programmable, layered system doing work behind the conversation. That makes agent-native software legible as a new way to package back-end routines, memory, and scheduled action for people who would not normally describe themselves as software builders.
 
@@ -22,6 +24,7 @@ Agent-native software is software whose core substrate is an agent rather than a
 
 ## Key Claims
 - Agent-native software differs from AI-assisted software because removing the agent would remove the product's reason to exist.
+- [[AgenticSoftware]] can include agent-native products, but it also describes how existing software may be rebuilt around [[AtomicCapabilityServices]] and agent-facing access.
 - The design center shifts from screens and static feature menus toward [[AgentHarness]] choices: tools, permissions, channels, triggers, memory, and feedback loops.
 - [[AISkills]] become product surface because they define reusable capabilities and can sometimes be created or refined by the agent itself.
 - [[OnDemandApps]] are one possible downstream form: the agent assembles or generates capabilities at the moment of need instead of exposing only prebuilt app functions.
@@ -43,3 +46,4 @@ Agent-native software is software whose core substrate is an agent rather than a
 - [[IMAgentInterfaces]], [[LocalAgentExecution]], [[YaGe]], and [[Haoda]] — OpenClaw product-mechanics case added by the 20-question episode.
 - [[TokenDrivenSoftware]], [[GeneratedWorkInterfaces]], and [[ModelRoutingCostControl]] — Vol. 170's dynamic-interface and cost-control extension.
 - [[IMAgentInterfaces]], [[HermesAgent]], [[PersistentAgentMemory]], and [[AISkills]] — configured personal-agent prototype layer added by Vol. 167.
+- [[AgenticSoftware]], [[AtomicCapabilityServices]], and [[TencentMeeting]] — Vol. 164's broader software-architecture frame.

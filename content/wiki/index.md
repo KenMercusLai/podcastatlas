@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol. 164 从苹果聊到软件未来：Agentic Software 真的要来了？](sources/vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1.md) — Fengyan Fengyu episode on Apple platform AI expectations, App Store review limits, agentic software, atomic SaaS capabilities, vibe-coding boundaries, AI communication skill, and AI content devaluation.
 - [我们把 AI 塞进花店后，才知道AI落地有多脏](sources/women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1.md) — Keji Luandun field report on running a real flower shop to test offline AI, covering visual merchandising, order capture, delivery-platform dependence, paid traffic, staff incentives, and why AI deployment requires dirty operational work.
 - [困在系统里的酒店，你不知道的携程垄断练成史](sources/kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun.md) — Keji Luandun episode on Ctrip, Chinese OTA history, founding operators, hotel inventory systems, competitor consolidation, hidden fees, homestay complaints, antitrust, and platform data regulation.
 - [Vol. 165 做客声东击西：「龙虾」和 vibe coding 正如何改变我们的思维](sources/vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1.md) — Podcast crossover on OpenClaw, vibe coding, non-technical AI builders, media-company AI hackathons, digital employees, agent skills, human judgment, and prototype-to-production gaps.
@@ -541,6 +542,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tapio](entities/Tapio.md) — LinkedIn-focused SaaS product built as a sister product to Tweet Hunter.
 - [Tea Maker](entities/TeaMaker.md) — Bootstrapped SaaS holding company founded by Thibaut-Louis Lucas.
 - [Tencent](entities/Tencent.md) — Chinese internet company discussed through QQ membership history and Yuanbao AI assistant competition.
+- [Tencent Meeting](entities/TencentMeeting.md) — Tencent collaboration product used as Vol. 164's example for decomposing SaaS into agent-recombinable video, recording, storage, and interface capabilities.
 - [Tesla](entities/Tesla.md) — Mega-cap EV company used in EP57 to separate political momentum and market story from delivery data and valuation discipline.
 - [The Mom Test](entities/TheMomTest.md) — Startup validation book referenced as a guardrail against leading customer interviews and false demand signals.
 - [The SaaS Podcast](entities/TheSaaSPodcast.md) — SaaS interview show covering founder growth, product validation, distribution, and AI-era SaaS strategy.
@@ -604,6 +606,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Agentic Software](concepts/AgenticSoftware.md) — Software designed around agents interpreting goals, selecting capabilities, and generating or reshaping work surfaces.
+- [Atomic Capability Services](concepts/AtomicCapabilityServices.md) — SaaS decomposition pattern where reliable product abilities become agent-callable and recombinable atoms.
+- [AI Communication Ability](concepts/AICommunicationAbility.md) — Clear expression, listening, prompting, and task framing as core skills for working through agents.
+- [AI Content Devaluation](concepts/AIContentDevaluation.md) — Audience and product-trust problem where cheap AI generation makes generic content or tools feel less worth attention.
 - [Offline AI Implementation](concepts/OfflineAIImplementation.md) — Pattern where useful AI requirements are discovered inside physical-world operations rather than imagined from model capability alone.
 - [AI Visual Merchandising](concepts/AIVisualMerchandising.md) — Use of generative AI to create grounded product visuals, variants, and substitution-confirmation images for retail workflows.
 - [Operational Data Capture](concepts/OperationalDataCapture.md) — Extracting business data from existing screens, printers, photos, receipts, or other work surfaces when clean APIs are unavailable.

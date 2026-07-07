@@ -2,7 +2,7 @@
 title: "Headless Software"
 type: concept
 tags: [agents, software-design, interfaces]
-sources: [agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax]
+sources: [agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]
 last_updated: 2026-07-07
 ---
 
@@ -20,6 +20,8 @@ The episode does not argue that GUI disappears. It argues that GUI's role change
 
 [[ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax]] adds a SaaS architecture pattern through [[Podwise]]. The episode recommends API-first back ends, a GUI for human review and direct use, and an [[AgentOptimizedCLI]] for agents and automations, while warning that copying every web feature into the CLI creates a bloated interface instead of useful headless capability.
 
+[[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] adds an [[AtomicCapabilityServices]] version. The hosts' [[TencentMeeting]] example suggests that headless value may come from exposing reliable media, storage, recording, and interface atoms that an agent can recombine into scene-specific software.
+
 ## Key Claims
 - GUI-first design is poorly matched to tasks where an agent can operate directly on a user's behalf.
 - A mature GUI can still serve existing users while a separate agent-native path serves agents, new users, or automated workflows.
@@ -29,6 +31,7 @@ The episode does not argue that GUI disappears. It argues that GUI's role change
 - Harness quality determines whether headless access is useful: agents need execution ability, context, memory, and governance around the callable surface.
 - [[TaskAsAService]] makes the same point from the user's side: the product may be judged by completed work rather than by whether the user operated a visible application.
 - Headless capability should expose stable actions rather than mirror every GUI feature; atomic commands are easier for agents and skills to compose.
+- Some headless value may be sold as durable capabilities under many generated interfaces rather than as one visible SaaS surface.
 
 ## Connections
 - [[AgentFacingInterfaces]] — practical interface layer for headless software.
@@ -40,3 +43,4 @@ The episode does not argue that GUI disappears. It argues that GUI's role change
 - [[AgentHarness]] and [[KComputer]] — infrastructure layer that makes headless/CLI-style capability usable by agents.
 - [[TaskAsAService]] and [[AIProgrammingEngineShift]] — app and programming-labor implications added by the Neihe Konghuang episode.
 - [[Podwise]] and [[AgentOptimizedCLI]] — SaaS architecture pattern added by EP124.
+- [[AgenticSoftware]], [[AtomicCapabilityServices]], and [[TencentMeeting]] — Vol. 164's capability-atom extension.
