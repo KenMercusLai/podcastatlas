@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP77 四十万年薪，副业赚了三十四亿，特朗普教你如何搞钱](sources/ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab.md) — Podcast episode on Donald Trump, political influence monetization, DJT/Truth Social, family crypto vehicles, Kushner's Saudi-backed fund, foreign gifts, brand licensing, media settlements, and political identity premiums.
 - [EP80 与查理·芒格的跨时空对话：当眼睛失明时，我们看见什么？](sources/ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i.md) — Podcast episode on Charlie Munger, Buffett, See's Candies, American Express, Coca-Cola, intangible consumer moats, irreversible investment mistakes, and the limits of chart-only analysis.
 - [Shopify: Tobias Lütke. How a snowboarder built a $150 billion business (2019)](sources/shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306.md) — Podcast episode on Tobias Lütke, Shopify, Snowdevil, internal tool productization, entrepreneurship infrastructure, merchant-first SaaS, pricing-model mistakes, venture financing, and the founder's transition from programmer to CEO.
 - [EP86 面子、底子、日子：财报只讲这三件事](sources/ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj.md) — Podcast episode on reading financial statements through profit, balance sheet, and cash flow; compares Nvidia and SMIC; and uses receivables, inventory, audit opinions, and AI-assisted report review as defensive investing tools.
@@ -73,6 +74,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Truth Social](entities/TruthSocial.md) — Trump-linked social platform whose source value is framed through political identity, DJT valuation, and policy-announcement trading risk.
+- [Trump Media And Technology Group](entities/TrumpMediaAndTechnologyGroup.md) — Public company around Truth Social and DJT, used as the episode's political meme-stock and paper-wealth case.
+- [World Liberty Financial](entities/WorldLibertyFinancial.md) — Trump-family crypto company discussed through token sales, stablecoin narratives, and political-brand monetization.
+- [Barron Trump](entities/BarronTrump.md) — Trump family member used by EP77 as the clearest beneficiary example for World Liberty Financial-linked crypto wealth.
+- [Jared Kushner](entities/JaredKushner.md) — Trump son-in-law and former adviser used as a family-network monetization case through a Middle East-backed private-equity fund.
+- [Saudi Public Investment Fund](entities/SaudiPublicInvestmentFund.md) — Sovereign wealth fund discussed as a large investor in Jared Kushner's private-equity vehicle.
+- [Melania Trump](entities/MelaniaTrump.md) — First-lady figure in EP77's media-contract branch through a politically sensitive Amazon documentary deal.
+- [Lyndon B. Johnson](entities/LyndonBJohnson.md) — Historical comparison for political power becoming private wealth through KTBC broadcast approvals.
+- [Bill Clinton](entities/BillClinton.md) — Post-presidency speech-income example used to explain political identity premium.
+- [Hillary Clinton](entities/HillaryClinton.md) — High-fee speech and campaign-controversy example in EP77's political identity premium comparison.
+- [Barack Obama](entities/BarackObama.md) — Cleaner post-office book and production-contract example of political identity premium.
+- [George W. Bush](entities/GeorgeWBush.md) — Political-family and energy-business comparison tied to Harken stock-sale and investigation context.
 - [Shopify](entities/Shopify.md) — E-commerce platform that grew from Snowdevil's internal storefront software into merchant infrastructure for storefronts, payments, shipping, fulfillment, and first sales.
 - [Tobias Lütke](entities/TobiasLutke.md) — Shopify co-founder and CEO whose path runs from German software apprenticeship and Snowdevil's Ruby storefront to venture-scale leadership and IPO.
 - [Scott Lake](entities/ScottLake.md) — Snowdevil and early Shopify co-founder who handled business/vendor work, named Shopify, and held the early CEO role before leaving.
@@ -187,7 +200,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alan Newman](entities/AlanNewman.md) — Seventh Generation co-founder whose founder conflict with Jeffrey Hollender is revisited in the Advice Line context.
 - [Aleph Alpha](entities/AlephAlpha.md) — German AI company referenced as part of the episode's discussion of European AI visibility and constraints.
 - [Alibaba](entities/Alibaba.md) — Large technology company discussed through Qwen, open source, organizational order, talent management, and Daqi's early product-design career context.
-- [Amazon](entities/Amazon.md) — Cloud and AI infrastructure buyer discussed through Nvidia demand and hyperscaler capex assumptions.
+- [Amazon](entities/Amazon.md) — Cloud and AI infrastructure buyer discussed through Nvidia demand, hyperscaler capex assumptions, and EP77's politically sensitive Melania Trump documentary deal.
 - [Android](entities/Android.md) — Google-backed open smartphone operating system that became the non-Apple ecosystem after iPhone reset handset competition.
 - [Anthropic](entities/Anthropic.md) — AI company discussed alongside OpenAI in the episode's treatment of frontier models, agent tools, and enterprise deployment.
 - [Apple](entities/Apple.md) — Platform company discussed through WWDC/Siri, iPhone and App Store ecosystems, podcasts/iPod media history, Buffett/Berkshire market sentiment, and F1 media-rights ambitions.
@@ -228,7 +241,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [DeepSeek](entities/DeepSeek.md) — Chinese open-source model effort cited as a peer signal for Qwen.
 - [Deerflow](entities/Deerflow.md) — Open-source deep-research and desktop-workflow project discussed through AI coding, Chinese models, community governance, and multimodal work.
 - [Devin](entities/Devin.md) — Cognition coding-agent product discussed through the Windsurf acquisition context.
-- [Donald Trump](entities/DonaldTrump.md) — U.S. political figure used in EP57 as a policy-volatility context for tariffs, spending, debt pressure, and equity-market repricing.
+- [Donald Trump](entities/DonaldTrump.md) — U.S. political figure used as both an EP57 market-policy volatility variable and EP77's central political influence monetization case.
 - [Doubao](entities/Doubao.md) — ByteDance AI assistant used as the central case for Chinese consumer AI subscription pricing.
 - [EOS Worldwide](entities/EOSWorldwide.md) — Methodology and coaching organization behind the EOS ecosystem that shaped Ninety's early product and channel.
 - [EarthKit](entities/EarthKit.md) — Jie Dechen's multimodal project for inferring photo locations, mentioned as background before Paperboy.
@@ -432,7 +445,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yueban Dongli](entities/YuebanDongli.md) — Robotics company founded by Shibo to build the Xiaoban companion robot.
 - [Yuanbao](entities/Yuanbao.md) — Tencent AI assistant discussed as a domestic alternative to Doubao.
 - [硬地骇客](entities/YingdiHaike.md) — Podcast/show context for AI coding markets, Podwise CLI/Skills, ASO, design-led growth, founder-life, and AI game/social commercialization episodes.
-- [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for episodes on investing, finance career risk, career-entry anxiety, upward management, creator work, aviation work, banking, and global market turmoil.
+- [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for episodes on investing, political influence monetization, finance career risk, career-entry anxiety, upward management, creator work, aviation work, banking, and global market turmoil.
 - [助助](entities/Zhuzhu.md) — Xiaohongshu local-lifestyle creator explaining ordinary creator monetization, local store reviews, and lifestyle freedom.
 - [Youyou Agent](entities/YouyouAgent.md) — Digital-life agent experiment discussed as an early agent-native project.
 - [Youju](entities/Youju.md) — Podcast/project focused on AI games and AI interactive entertainment.
@@ -447,6 +460,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Political Influence Monetization](concepts/PoliticalInfluenceMonetization.md) — Pattern where office, access, family network, regulatory leverage, or policy expectations become private economic value.
+- [Presidential Conflict Of Interest](concepts/PresidentialConflictOfInterest.md) — Governance gap where presidential office-linked private upside can accumulate around family, entities, and counterparties.
+- [Political Meme Stock](concepts/PoliticalMemeStock.md) — Listed equity whose price is driven by political identity, supporter emotion, and symbolism more than operating fundamentals.
+- [Paper Wealth Vs Cash Value](concepts/PaperWealthVsCashValue.md) — Distinction between headline asset value and money that can actually be realized after liquidity, lockup, disclosure, and story-risk constraints.
+- [Political Brand Licensing](concepts/PoliticalBrandLicensing.md) — Use of a political figure's name or family brand in private projects where counterparties may value implied policy goodwill.
+- [Political Identity Premium](concepts/PoliticalIdentityPremium.md) — Commercial uplift attached to current or former high office through speeches, books, media contracts, licenses, and access value.
+- [Policy Announcement Trading Risk](concepts/PolicyAnnouncementTradingRisk.md) — Market risk created when official statements, posts, or policy timing move broad indexes and linked single names before ordinary investors can react.
 - [Consumer Brand Moat](concepts/ConsumerBrandMoat.md) — Durable consumer-business advantage from trust, habit, gift certainty, network acceptance, and pricing power.
 - [Technical Analysis Limits](concepts/TechnicalAnalysisLimits.md) — Failure modes of treating price patterns as causal explanations or substitutes for business understanding.
 - [Internal Tool Productization](concepts/InternalToolProductization.md) — Pattern where a working internal tool becomes a market-facing product after outsiders reveal the same pain.

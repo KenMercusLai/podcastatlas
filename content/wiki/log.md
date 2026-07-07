@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-07] ingest | EP77 四十万年薪，副业赚了三十四亿，特朗普教你如何搞钱
+
+Added source on Donald Trump, political influence monetization, DJT/Truth Social, family crypto vehicles, Kushner's Saudi-backed fund, foreign gifts, brand licensing, media settlements, political identity premiums, and ordinary-investor risk from policy-linked market moves.
+
 ## [2026-07-07] ingest | EP80 与查理·芒格的跨时空对话：当眼睛失明时，我们看见什么？
 
 Added source on Charlie Munger, Buffett, See's Candies, American Express, Coca-Cola, intangible consumer moats, irreversible investment mistakes, and the limits of chart-only analysis.
@@ -355,6 +359,10 @@ Added source page for a How I Built This episode on Tobias Lütke, Shopify, Snow
 ## [2026-07-07] report | Graph health report generated
 
 723 nodes analyzed.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-07] lint | Wiki health check
 
