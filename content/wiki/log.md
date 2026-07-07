@@ -619,3 +619,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-07] ingest | 我们把 AI 塞进花店后，才知道AI落地有多脏
+
+Added source page for a Keji Luandun field report on using AI in a real flower shop, covering offline AI implementation, flower-product image generation, customer substitution confirmation, delivery-platform dependency, paid traffic, closed platform data, printer/OCR order capture, staff incentives, and why AI deployment requires dirty operational work. Created supporting pages for Offline AI Implementation, AI Visual Merchandising, Operational Data Capture, and Local-Life Platform Dependency; updated overview, index, Keji Luandun, Dirty Work, Business-Led AI Transformation, Frontline AI Enablement, AI Engineering Thinking, China Agent Market Friction, Platform Data Regulation, Agent-Facing Interfaces, AI Operations Role, Human Judgment Under AI, and Doubao.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

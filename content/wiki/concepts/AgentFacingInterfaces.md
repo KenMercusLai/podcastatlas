@@ -2,7 +2,7 @@
 title: "Agent-Facing Interfaces"
 type: concept
 tags: [agents, interfaces, cli, product-design]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun]
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1]
 last_updated: 2026-07-07
 ---
 
@@ -34,6 +34,8 @@ Agent-facing interfaces are the CLI, API, MCP-like, skill, and tool layers that 
 
 [[weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun]] adds the platform-resistance version through [[ChinaAgentMarketFriction]]. The source argues that users may want agents to operate super-app workflows, but platforms such as [[WeChat]] may resist becoming invisible tools because agent-facing access can reduce dwell time, advertising inventory, and conversion control.
 
+[[women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1]] adds a workaround version. When delivery-platform APIs are too limited for a flower-shop AI system, the agent-facing surface may begin as [[OperationalDataCapture]] from printer output, OCR, photos, and voice rather than a formal API, then become useful only after it fits the worker's hands-busy store routine.
+
 ## Key Claims
 - CLI was historically difficult for people but is comparatively natural for agents.
 - Agent-facing access can turn consumer services, enterprise tools, and local utilities into callable task components.
@@ -51,6 +53,7 @@ Agent-facing interfaces are the CLI, API, MCP-like, skill, and tool layers that 
 - A familiar IM surface can increase usage without replacing the need for reliable tool descriptions, local APIs, and recoverable execution feedback.
 - Agent-readable workspace formats can function as interfaces too, especially when agents need to generate or update documents, tables, dashboards, and project views.
 - In closed app ecosystems, agent-facing interfaces may be blocked by platform business incentives even when the technical value is obvious.
+- In offline retail, the first agent-facing interface may be a captured operational artifact, such as a printout or fridge photo, rather than an intentionally designed software API.
 
 ## Connections
 - [[HeadlessSoftware]] — product-design thesis that motivates agent-facing access.
@@ -69,3 +72,4 @@ Agent-facing interfaces are the CLI, API, MCP-like, skill, and tool layers that 
 - [[IMAgentInterfaces]], [[LocalAgentExecution]], and [[OpenClaw]] — human-entry plus local-tooling pattern added by the 20-question source.
 - [[Moxt]], [[AINativeWorkspace]], [[OrganizationalContext]], and [[GeneratedWorkInterfaces]] — workspace-format and generated-interface case added by the Moxt source.
 - [[Manus]], [[ChinaAgentMarketFriction]], and [[AIAgentOverseasCommercialization]] — domestic platform-friction and overseas-automation case added by the Keji Luandun source.
+- [[OperationalDataCapture]], [[OfflineAIImplementation]], and [[LocalLifePlatformDependency]] — flower-shop case where printers, OCR, and voice become practical agent data surfaces.

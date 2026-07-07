@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [我们把 AI 塞进花店后，才知道AI落地有多脏](sources/women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1.md) — Keji Luandun field report on running a real flower shop to test offline AI, covering visual merchandising, order capture, delivery-platform dependence, paid traffic, staff incentives, and why AI deployment requires dirty operational work.
 - [困在系统里的酒店，你不知道的携程垄断练成史](sources/kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun.md) — Keji Luandun episode on Ctrip, Chinese OTA history, founding operators, hotel inventory systems, competitor consolidation, hidden fees, homestay complaints, antitrust, and platform data regulation.
 - [Vol. 165 做客声东击西：「龙虾」和 vibe coding 正如何改变我们的思维](sources/vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1.md) — Podcast crossover on OpenClaw, vibe coding, non-technical AI builders, media-company AI hackathons, digital employees, agent skills, human judgment, and prototype-to-production gaps.
 - [132. 对星海图创始人高继扬的3小时访谈：鲶鱼、曾国藩、Waymo与Momenta的两面、一只狼与许华哲的离开](sources/132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan.md) — Podcast episode on Gao Jiyang, Xinghaitu, Waymo, Momenta, whole-machine robotics, real robot data, VLA/VLM architecture, production robot scenarios, and Xu Huazhe's departure.
@@ -603,6 +604,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Offline AI Implementation](concepts/OfflineAIImplementation.md) — Pattern where useful AI requirements are discovered inside physical-world operations rather than imagined from model capability alone.
+- [AI Visual Merchandising](concepts/AIVisualMerchandising.md) — Use of generative AI to create grounded product visuals, variants, and substitution-confirmation images for retail workflows.
+- [Operational Data Capture](concepts/OperationalDataCapture.md) — Extracting business data from existing screens, printers, photos, receipts, or other work surfaces when clean APIs are unavailable.
+- [Local-Life Platform Dependency](concepts/LocalLifePlatformDependency.md) — Small-merchant reliance on local-service platforms for demand, messaging, paid traffic, data, and fulfillment expectations.
 - [Online Travel Agency](concepts/OnlineTravelAgency.md) — Platform model aggregating travel inventory, booking, payment, support, invoices, and itinerary management.
 - [OTA Platform Concentration](concepts/OTAPlatformConcentration.md) — Tendency for online-travel booking power to concentrate when users, hotels, inventory, traffic, and systems all reward scale.
 - [Hotel PMS Inventory Control](concepts/HotelPMSInventoryControl.md) — Platform leverage created when booking channels influence hotel property-management and room-inventory systems.
