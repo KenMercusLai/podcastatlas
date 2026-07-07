@@ -2,7 +2,7 @@
 title: "Large Company Organizational Inertia"
 type: concept
 tags: [organizations, career, management]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun]
+sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun]
 last_updated: 2026-07-07
 ---
 
@@ -16,6 +16,8 @@ Large company organizational inertia is the episode's frame for how massive comp
 
 [[nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun]] adds a technical-to-enterprise-vendor version through [[TongxinSoftware]]. A project lineage that began with [[HiweedLinux]] and [[Deepin]] becomes a [[XinchuangOperatingSystems]] vendor, and the source interprets formal dress demands, sales posture, delivery pressure, and management hierarchy as signs that customer structure can reshape organizational culture.
 
+[[dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun]] adds a counterexample-like version through [[Huawei]]. Instead of only showing inertia, the episode asks how a very large organization tries to overcome fragmentation through [[TauLaw]], concentrated resources, backup plans, customer engineering, and industry-legion delivery. The result is [[HuaweiOrganizationalMethodology]]: scale is still heavy, but the company tries to turn it into pressure, repetition, and shared metrics.
+
 ## Key Claims
 - Large companies amplify work with resources, distribution, and existing momentum.
 - They also impose layers, rules, approvals, and personnel arrangements that limit individual control.
@@ -23,6 +25,7 @@ Large company organizational inertia is the episode's frame for how massive comp
 - In AI products, large-company inertia can show up as fragmented surfaces rather than only slow decision-making or talent loss.
 - In legacy platforms, inertia can also show up as a failure to challenge a profitable core business before the market around it changes.
 - In government-enterprise software, inertia can show up as hierarchy, formality, and delivery discipline overriding older technical-community norms.
+- Large-company scale can also be actively organized through a unifying metric, as the Huawei source argues with [[TauLaw]] and [[ConstraintDrivenEngineeringStrategy]].
 
 ## Connections
 - [[StarTalentInBigCompanies]] — individual-level pattern inside the same environment.
@@ -31,3 +34,4 @@ Large company organizational inertia is the episode's frame for how massive comp
 - [[Google]], [[Gemini]], and [[AIProductFragmentation]] — product-integration case added by Vol. 166.
 - [[Baidu]], [[LiYanhong]], [[LuQi]], and [[CashCowStrategicInertia]] — legacy search-platform case added by the Baidu source.
 - [[TongxinSoftware]], [[LinWei]], and [[TechnicalCultureSalesCultureTension]] — technical-community-to-enterprise-vendor case added by the domestic operating-system source.
+- [[Huawei]], [[TauLaw]], and [[HuaweiOrganizationalMethodology]] — scale-coordination case added by the Huawei source.

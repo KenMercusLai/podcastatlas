@@ -400,6 +400,10 @@ Added source page for a How I Built This episode on Tobias Lütke, Shopify, Snow
 
 723 nodes analyzed.
 
+## [2026-07-07] ingest | 当华为抛出韬定律，我们该信它到哪一步？
+
+Added source page for a Keji Luandun episode on Huawei's Tau Law, 3D chip stacking, constrained semiconductor strategy, HiSilicon backup culture, Ren Zhengfei's organization imprint, customer engineering, and why the hosts treat Tau Law as a KPI-like engineering narrative rather than a replacement for Moore's Law. Created supporting pages for Huawei, HiSilicon, Ren Zhengfei, Tau Law, Semiconductor 3D Stacking, Constraint Driven Engineering Strategy, and Huawei Organizational Methodology; updated overview, index, Keji Luandun, Large Company Organizational Inertia, China Handset Supply Chain, Chinese Domestic Handset Waves, and DeepSeek pages.
+
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -665,5 +669,9 @@ Ran lint. See lint-report.md for details.
 Added source page for a 硬地骇客 episode on Alibaba's Qwen assistant strategy, Doubao's scale, consumer AI assistant entry points, service fulfillment through Taobao/Fliggy/Damai/Gaode/DingTalk, OpenAI/Shopify commerce integration, Tencent's WeChat mini-program path, and why AI coding may monetize faster for smaller model companies. Created pages for AI Assistant Service Entry, Quark, Taobao, Gaode, and DingTalk; updated overview, index, Alibaba, Qwen, Doubao, ByteDance, Tencent, Yuanbao, ChatGPT, OpenAI, Shopify, Gemini, Fliggy, Damai, YingdiHaike, Agentic Commerce, AI Product Fragmentation, AI Subscription Economics, and AI Commercialization Pressure.
 
 ## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

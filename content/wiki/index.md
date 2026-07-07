@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [当华为抛出韬定律，我们该信它到哪一步？](sources/dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun.md) — Keji Luandun episode on Huawei's Tau Law, 3D chip stacking, constrained semiconductor strategy, HiSilicon backup culture, and Huawei's organization methodology.
 - [EP117 豆包月活过亿，阿里再造「千问」是不是晚了？](sources/ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa.md) — Yingdi Haike episode on Qwen, Doubao, Alibaba's service ecosystem, consumer AI assistant entry points, agentic commerce, and AI coding monetization.
 - [Vol. 160 一年多以后，再聊AI写代码Vibe Coding](sources/vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1.md) — Fengyan Fengyu episode on NewSpot, mature vibe-coding workflows, YOLO permissions, AI coding verification, AI-search trust, human taste, and model/cost fit.
 - [她想造一个 AI 时代的“超级游乐场”｜对谈 Roi：幕间创始人 / CEO](sources/ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec.md) — Podcast episode on Roi, Mujian, AI simulation content, creator tools, controlled freedom, AI super creators, and platform strategy for virtual-life experiences.
@@ -107,6 +108,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Huawei](entities/Huawei.md) — Chinese technology company interpreted through Tau Law, semiconductor constraints, HiSilicon backup culture, customer engineering, and organization methodology.
+- [HiSilicon](entities/HiSilicon.md) — Huawei chip-design capability used as the episode's backup-plan and semiconductor-system integration case.
+- [Ren Zhengfei](entities/RenZhengfei.md) — Huawei founder figure used to explain backup culture, pressure-focused execution, customer-frontline language, and Tau Law's organizational fit.
 - [Quark](entities/Quark.md) — Alibaba search/browser/netdisk product surface discussed as a Qwen distribution path and AI-product-fragmentation case.
 - [Taobao](entities/Taobao.md) — Alibaba ecommerce platform discussed as a possible fulfillment surface for Qwen and agentic commerce.
 - [Gaode](entities/Gaode.md) — Alibaba map and local-service surface discussed as part of Qwen's real-world service-entry layer.
@@ -618,6 +622,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Tau Law](concepts/TauLaw.md) — Huawei's latency-oriented semiconductor metric, treated by the episode as a KPI-like engineering and organization target rather than a new natural law.
+- [Semiconductor 3D Stacking](concepts/Semiconductor3DStacking.md) — Chip packaging and architecture route that reduces signal distance through vertical integration, central to the Tau Law discussion.
+- [Constraint Driven Engineering Strategy](concepts/ConstraintDrivenEngineeringStrategy.md) — Strategy of finding alternate engineering routes when dominant technology paths are blocked, costly, or externally controlled.
+- [Huawei Organizational Methodology](concepts/HuaweiOrganizationalMethodology.md) — Huawei-style management pattern of backup planning, pressure concentration, customer engineering, and cross-team metric alignment.
 - [AI Assistant Service Entry](concepts/AIAssistantServiceEntry.md) — Consumer AI assistant strategy where the assistant becomes a front door for shopping, travel, ticketing, maps, work, and other service fulfillment.
 - [AI Simulation Content](concepts/AISimulationContent.md) — AI interactive content form built from agents, rules, state, feedback, and repeatable virtual life scenarios.
 - [AI Super Creators](concepts/AISuperCreators.md) — AI-native creator pattern where individuals combine taste, prompting, coding, media tools, and community distribution.
