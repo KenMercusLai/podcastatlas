@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [那个不穿西装的程序员，扯出了国产操作系统二十年秘史](sources/nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun.md) — Podcast episode on Tongxin Software, Deepin, Hiweed Linux, UOS, Kylin OS, Xinchuang operating systems, open-source commercialization, and technical-versus-sales culture tension.
 - [具身智能的滔天大泡沫中，他已经把机器人送进300个家庭｜对话张翼：未来不远创始人/CEO](sources/jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf.md) — Podcast episode on Zhang Yi, Weilai Buyuan, F2, home service robots, household robot data flywheels, consumer robotics full-stack engineering, and embodied-intelligence bubble cycles.
 - [「1 亿 Token 俱乐部」挤爆了，AI 的燃料不够了：对谈于文渊](sources/1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm.md) — Podcast episode on Aliyun Bailian, Yu Wenyuan, token growth, MaaS infrastructure, GPU scheduling, confidential inference, AI coding boundaries, and compute supply constraints.
 - [EP127 从 Skills 到自动化工作流，论 Agent 如何接管真实生产力 ⚙️](sources/ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz.md) — Podcast episode on Skills selection, coding-agent verification, Codex/Claude Code workflows, scheduled agent automation, personal knowledge assets, and permission responsibility.
@@ -90,6 +91,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Tongxin Software](entities/TongxinSoftware.md) — Domestic operating-system company used by the episode to connect Deepin's community lineage with Xinchuang government-enterprise delivery and management culture.
+- [Tongxin UOS](entities/TongxinUOS.md) — Commercial operating-system product connected to Deepin and the Xinchuang market.
+- [Deepin](entities/Deepin.md) — Chinese Linux distribution lineage traced from Hiweed into a community edition and later UOS commercialization.
+- [Hiweed Linux](entities/HiweedLinux.md) — Early Debian-based Chinese Linux distribution credited to Leng Ganghua and treated as Deepin's predecessor.
+- [Wuhan Deepin Technology](entities/WuhanDeepinTechnology.md) — Company stage that formalized Deepin through co-founders, financing, certification, and procurement access.
+- [Chengmai Technology](entities/ChengmaiTechnology.md) — Software and adaptation company whose Wuhan assets were combined with Deepin-related assets to form Tongxin.
+- [Liu Wenhuan](entities/LiuWenhuan.md) — Linux community, security, investor, and Deepin/Tongxin backer in the episode's history.
+- [Leng Ganghua](entities/LengGanghua.md) — Programmer credited with creating Hiweed Linux, the early project behind Deepin.
+- [Wang Yong](entities/WangYong.md) — Deepin co-founder who left before Tongxin and later pursued a home-server and edge-computing product path.
+- [Wang Jiping](entities/WangJiping.md) — Chengmai founder and early Tongxin chair contrasted with later management style.
+- [Lin Wei](entities/LinWei.md) — Later Tongxin chair associated by the episode with execution, sales discipline, cost control, and hierarchy.
+- [Zhang Lei](entities/ZhangLei.md) — Deepin company-stage co-founder and later Tongxin shareholder-context figure.
+- [Kylin OS](entities/KylinOS.md) — Domestic operating-system comparator used as the stronger state-backed competitor to Tongxin UOS.
 - [Zhang Yi](entities/ZhangYi.md) — Weilai Buyuan founder and CEO connecting post-Zhangmen lessons to household robotics, F2, and embodied-intelligence commercialization.
 - [Weilai Buyuan](entities/WeilaiBuyuan.md) — Home-robotics startup deploying F2 into real households through rental tests and full-stack consumer robotics engineering.
 - [F2 Home Robot](entities/F2HomeRobot.md) — Weilai Buyuan's wheeled household robot focused on child care, light chores, home interaction, and real-family data collection.
@@ -525,6 +539,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Chinese Domestic Operating Systems](concepts/ChineseDomesticOperatingSystems.md) — Domestic desktop and government-enterprise OS history spanning Hiweed, Deepin, Tongxin UOS, Kylin, localization, procurement, and hardware adaptation.
+- [Xinchuang Operating Systems](concepts/XinchuangOperatingSystems.md) — Domestic OS market shaped by information-technology localization, institutional procurement, domestic hardware adaptation, and support obligations.
+- [Open Source Community Commercialization](concepts/OpenSourceCommunityCommercialization.md) — Pattern where a community project becomes a company, product line, and institutional business with diverging incentives.
+- [Technical Culture Sales Culture Tension](concepts/TechnicalCultureSalesCultureTension.md) — Organizational tension when engineer/open-source norms meet enterprise customers, formal presentation, delivery pressure, and hierarchy.
+- [Government Enterprise Procurement](concepts/GovernmentEnterpriseProcurement.md) — Institutional buying context where certification, support, deployment reliability, and relationships shape software demand.
 - [Home Service Robots](concepts/HomeServiceRobots.md) — Household robots designed for useful family services such as child care support, light chores, play, and home assistance.
 - [Household Robot Data Flywheel](concepts/HouseholdRobotDataFlywheel.md) — Real-home deployment loop where household tasks, corner cases, and interaction data improve robot capability and deployment value.
 - [Consumer Robotics Full Stack](concepts/ConsumerRoboticsFullStack.md) — Self-development strategy for making home robots affordable, reliable, and integrated enough for consumer deployment.

@@ -376,6 +376,10 @@ Added source page for a How I Built This episode on Tobias Lütke, Shopify, Snow
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-07] ingest | 那个不穿西装的程序员，扯出了国产操作系统二十年秘史
+
+Added source page for a Keji Luandun episode on Tongxin Software, Deepin, Hiweed Linux, Wuhan Deepin Technology, Chengmai Technology, Tongxin UOS, Kylin OS, Xinchuang operating systems, open-source community commercialization, and technical-versus-sales culture tension. Created supporting pages for the major people, companies, products, and operating-system concepts; updated overview, index, Keji Luandun, and Large Company Organizational Inertia.
+
 ## [2026-07-07] ingest | EP23 民国金融往事：《追风者》背后的天才少年与银行体系
 
 Added source page for a YiLaoYongYi episode using 追风者 to explain Republican-era Shanghai finance, Gu Zhun, Pan Xulun, Lixin accounting, Nationalist banking institutions, foreign banks on the Bund, silver-dollar trust, treasury-bond speculation, Soviet-area resource trade, and border-region currency credit. Created supporting pages for the main people, institutions, and concepts; updated overview, index, YiLaoYongYi, HSBC, foreign banking, bank hierarchy, and investment risk management pages.
@@ -507,6 +511,10 @@ Added source page for a Shizilukou Crossing episode on Zhang Yi, Weilai Buyuan, 
 ## [2026-07-07] report | Graph health report generated
 
 870 nodes analyzed.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-07] lint | Wiki health check
 
