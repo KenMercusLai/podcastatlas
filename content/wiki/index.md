@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP90 从美加墨世界杯看懂期权—华尔街的终极武器](sources/ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p.md) — 一劳永逸 episode using World Cup tickets, betting intuition, Buffett, Duan Yongping, Mark Cuban, GameStop, and LTCM to explain options, hedging, gamma squeezes, and model risk.
 - [145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？](sources/145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou.md) — Zhang Xiaojun episode with Louis Hong on SpaceX history, reusable rockets, Musk management, Starlink/Starship, space-based AI infrastructure, and hard-tech alumni.
 - [134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe](sources/134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe.md) — 张小珺Jùn｜商业访谈录 episode on Xie Chen, Guanglun Intelligence, data as education, embodied data pyramids, simulation evaluation, data pricing, and data recipes for robotics.
 - [付费片花：平台的暴力抵抗与互联网大厂的隐形税收](sources/fufei-pianhua-pingtai-de-baoli-dikang-yu-hulianwang-dachang-de-yinxing-shui-1.md) — Keji Luandun teaser on flower/cake delivery, live-commerce order transfer, local shop fulfillment, platform dependence, and hidden intermediation margins.
@@ -127,6 +128,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Duan Yongping](entities/DuanYongping.md) — Investor example used in EP90 for disciplined put selling and covered-call-style position management.
+- [Mark Cuban](entities/MarkCuban.md) — Entrepreneur/investor used in EP90 to explain protective collars and concentrated-wealth downside protection.
+- [GameStop](entities/GameStop.md) — Retailer used in EP90 as the options-driven short-squeeze and gamma-squeeze market-structure case.
+- [Keith Gill](entities/KeithGill.md) — "Roaring Kitty" retail-investor figure connected to GameStop social proof and online trader coordination.
+- [Long-Term Capital Management](entities/LongTermCapitalManagement.md) — Leveraged quantitative fund used in EP90 as a financial-model-risk and regime-shift failure case.
 - [Louis Hong / 洪力德](entities/LouisHong.md) — Former SpaceX manager and hard-tech investor explaining reusable rockets, Falcon 9 production, Musk management, and space infrastructure.
 - [Elon Musk](entities/ElonMusk.md) — SpaceX and Tesla leader discussed through first-principles manufacturing, extreme targets, and possible AI/space ecosystem integration.
 - [Starlink](entities/Starlink.md) — SpaceX satellite network framed as both Mars-funding business and low-earth-orbit data infrastructure.
@@ -704,6 +710,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, and Louis Hong episodes.
 
 ## Concepts
+- [Option Contract Mechanics](concepts/OptionContractMechanics.md) — Basic options structure where calls, puts, premiums, strikes, expiration, and contract size define rights and obligations.
+- [Option Premium Pricing](concepts/OptionPremiumPricing.md) — Pricing intuition for option premiums through time value, implied volatility, market-maker hedging, and event uncertainty.
+- [Option Selling Discipline](concepts/OptionSellingDiscipline.md) — Risk-managed rule set for selling puts or calls only when cash, stock, sizing, and willingness to accept assignment are explicit.
+- [Protective Collar Strategy](concepts/ProtectiveCollarStrategy.md) — Hedge that buys downside protection and sells upside above a cap, used for concentrated wealth preservation.
+- [Gamma Squeeze](concepts/GammaSqueeze.md) — Options-flow feedback loop where call demand and dealer hedging can push the underlying asset higher.
+- [Financial Model Risk](concepts/FinancialModelRisk.md) — Risk that elegant trading models fail when liquidity, leverage, volatility, correlation, or regime assumptions break.
+- [Career Optionality](concepts/CareerOptionality.md) — Non-trading options-thinking frame for small, survivable experiments that preserve future career upside.
 - [Reusable Rocket Economics](concepts/ReusableRocketEconomics.md) — Cost-structure shift created when launch vehicles can return and fly again instead of being discarded after each mission.
 - [Space Based AI Infrastructure](concepts/SpaceBasedAIInfrastructure.md) — Scenario where AI compute, data transport, energy, and data centers move partly into orbit.
 - [Space Economy Infrastructure](concepts/SpaceEconomyInfrastructure.md) — Layered platform view of space spanning launch, satellites, operations, connectivity, manufacturing, AI infrastructure, and downstream applications.

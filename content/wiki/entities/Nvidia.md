@@ -2,7 +2,7 @@
 title: "Nvidia"
 type: entity
 tags: [company, ai, semiconductors, investing]
-sources: [ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]
+sources: [ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]
 last_updated: 2026-07-08
 ---
 
@@ -24,6 +24,8 @@ Nvidia is discussed in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-y
 
 [[134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]] adds Nvidia as a robotics and physical-AI context. [[XieChen]] worked on autonomous-driving simulation around Nvidia-related infrastructure, and the source treats Nvidia's physical-AI emphasis as one signal that [[RoboticsSimulationEvaluation]] and embodied data infrastructure are becoming strategically important.
 
+[[ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p]] adds Nvidia as an option-selling example through [[DuanYongping]]. The episode says selling calls on an existing Nvidia position can be coherent when the holder accepts sale above a chosen price and treats premium as cost reduction rather than free income.
+
 ## Source Position
 - The episode treats Nvidia as a strong company, not as a fraud or failed business.
 - The risk frame is [[AIEquityValuationRisk]]: if growth or guidance falls short of very high expectations, the valuation multiple can reset sharply.
@@ -35,6 +37,7 @@ Nvidia is discussed in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-y
 - The Keji Luandun export-control episode treats Nvidia as the physical-goods contrast to API and model-weight restrictions.
 - Vol. 164 treats Nvidia as the token-production and ecosystem-infrastructure contrast to consumer-platform release cadence.
 - Episode 134 treats Nvidia as a physical-AI and robot-simulation reference point, not only a chip or stock-market case.
+- EP90 treats Nvidia as a position-management example under [[OptionSellingDiscipline]], not as a fresh valuation call.
 
 ## Connections
 - [[AIEquityValuationRisk]] — main investing frame attached to Nvidia in this source.
@@ -49,3 +52,4 @@ Nvidia is discussed in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-y
 - [[JensenHuang]], [[AIInferenceCostStructure]], and [[AgenticSoftware]] — Vol. 164 infrastructure and ecosystem-building context.
 - [[HoloAssets]], [[CAPEXOPEXSubstitution]], [[AIComputeContinuity]], and [[AIInvestmentMetrics]] — E155's chips-to-energy investment frame.
 - [[XieChen]], [[GuanglunIntelligence]], [[RoboticsSimulationEvaluation]], and [[EmbodiedAI]] — robotics simulation and physical-AI context added by episode 134.
+- [[DuanYongping]] and [[OptionSellingDiscipline]] — EP90's covered-call-style position-management example.

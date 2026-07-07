@@ -2,8 +2,8 @@
 title: "Warren Buffett"
 type: entity
 tags: [person, investing]
-sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i]
-last_updated: 2026-07-07
+sources: [ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i]
+last_updated: 2026-07-08
 ---
 
 # Warren Buffett
@@ -16,6 +16,8 @@ Warren Buffett appears in [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-pu
 
 [[ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i]] adds Buffett through the [[CharlieMunger]] partnership and three value-investing cases: [[SeesCandies]] as the shift from cigar-butt bargains to great businesses, [[AmericanExpress]] as crisis observation of a surviving trust network, and [[CocaCola]] as a long-duration consumer-habit investment.
 
+[[ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p]] adds Buffett as the episode's disciplined put-selling example. The source presents his Coca-Cola put sale as [[OptionSellingDiscipline]]: collect premium only when the investor has the cash, wants the company, and is willing to buy at the assigned price.
+
 ## Connections
 - [[JimSimons]] — contrasting investment master in the episode.
 - [[PeterLynch]] — another comparison point for fundamental investing.
@@ -26,3 +28,4 @@ Warren Buffett appears in [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-pu
 - [[ReturnOnEquityAnalysis]], [[FinancialStatementAnalysis]], and [[ProfitAndCashFlowQuality]] — EP86's accounting and metric-reading context.
 - [[CharlieMunger]] — paired inversion reference for looking first at how a company can fail.
 - [[SeesCandies]], [[AmericanExpress]], [[CocaCola]], and [[ConsumerBrandMoat]] — EP80's business-quality and intangible-asset case cluster.
+- [[OptionSellingDiscipline]] and [[OptionContractMechanics]] — EP90's options example built around willingness to own Coca-Cola at a lower effective price.

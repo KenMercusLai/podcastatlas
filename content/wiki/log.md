@@ -839,3 +839,11 @@ Ingested the Zhang Xiaojun episode into a source page; expanded SpaceX, Tesla, a
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | EP90 从美加墨世界杯看懂期权—华尔街的终极武器
+
+Added source page for a 一劳永逸 episode explaining options through World Cup tickets, betting intuition, Buffett, Duan Yongping, Mark Cuban, GameStop, and LTCM. Created pages for option mechanics, premium pricing, option-selling discipline, protective collars, gamma squeeze, financial model risk, career optionality, Duan Yongping, Mark Cuban, GameStop, Keith Gill, and Long-Term Capital Management; updated overview, index, 一劳永逸, Warren Buffett, Berkshire Hathaway, Coca-Cola, Nvidia, Investment Risk Management, Derivative Amplified Volatility, Speculative Bubble Psychology, Market Regime Shift, and Quantitative Investing. No direct contradiction found; the source extends existing derivative-volatility and risk-management themes with option-specific mechanics and cases.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
