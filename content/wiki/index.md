@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [她想造一个 AI 时代的“超级游乐场”｜对谈 Roi：幕间创始人 / CEO](sources/ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec.md) — Podcast episode on Roi, Mujian, AI simulation content, creator tools, controlled freedom, AI super creators, and platform strategy for virtual-life experiences.
 - [Vol. 162 科技快乐星球44: 新模型“SOTA们”齐贺新春](sources/vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1.md) — Fengyan Fengyu AI-news roundup on Xcode Agentic Coding, Codex/Claude Code/Gemini workflow fit, domestic model releases, AI video, agentic commerce, voice/local models, and AI infrastructure.
 - [Vol. 164 从苹果聊到软件未来：Agentic Software 真的要来了？](sources/vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1.md) — Fengyan Fengyu episode on Apple platform AI expectations, App Store review limits, agentic software, atomic SaaS capabilities, vibe-coding boundaries, AI communication skill, and AI content devaluation.
 - [我们把 AI 塞进花店后，才知道AI落地有多脏](sources/women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1.md) — Keji Luandun field report on running a real flower shop to test offline AI, covering visual merchandising, order capture, delivery-platform dependence, paid traffic, staff incentives, and why AI deployment requires dirty operational work.
@@ -104,6 +105,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Roi](entities/Roi.md) — Mujian founder and CEO connecting AI simulation content, creator tools, play, and first-seat founder agency.
+- [Mujian](entities/Mujian.md) — AI simulation interactive content platform building virtual-life experiences, creator tooling, distribution, and monetization.
+- [LibLib](entities/LibLib.md) — AI creator-tool and community company where Roi worked before founding Mujian.
 - [Ctrip / Trip.com Group](entities/Ctrip.md) — Chinese online-travel platform used to explain OTA concentration, hotel inventory control, pricing power, hidden fees, and platform antitrust.
 - [Liang Jianzhang](entities/LiangJianzhang.md) — Ctrip co-founder and returning CEO figure tied to technology, mobile recovery, supplier systems, and demographic research.
 - [Ji Qi](entities/JiQi.md) — Ctrip co-founder whose path into Home Inns, Hanting, and Huazhu connects OTA demand aggregation with hotel-chain supply.
@@ -608,6 +612,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [AI Simulation Content](concepts/AISimulationContent.md) — AI interactive content form built from agents, rules, state, feedback, and repeatable virtual life scenarios.
+- [AI Super Creators](concepts/AISuperCreators.md) — AI-native creator pattern where individuals combine taste, prompting, coding, media tools, and community distribution.
 - [Agentic Software](concepts/AgenticSoftware.md) — Software designed around agents interpreting goals, selecting capabilities, and generating or reshaping work surfaces.
 - [Agentic Commerce](concepts/AgenticCommerce.md) — Shopping and payment workflows where agents can select, buy, and pay under explicit user permission boundaries.
 - [Atomic Capability Services](concepts/AtomicCapabilityServices.md) — SaaS decomposition pattern where reliable product abilities become agent-callable and recombinable atoms.

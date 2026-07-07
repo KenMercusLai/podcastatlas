@@ -643,3 +643,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-07] ingest | 她想造一个 AI 时代的“超级游乐场”｜对谈 Roi：幕间创始人 / CEO
+
+Added source page for a Shizilukou Crossing episode on Roi, Mujian, AI simulation interactive content, controlled freedom, creator tooling, virtual-life platform strategy, AI super creators, and the distinction between companion chat, interactive fiction, simulation content, generated games, and future world models. Created supporting pages for Roi, Mujian, LibLib, AI Simulation Content, and AI Super Creators; updated overview, index, Shizilukou Crossing, Character AI, Xiaohongshu, AI Interactive Entertainment, AI Interactive Content Platforms, Designed Agency In Games, Creation As Consumption, World Models, and AI Game Industrialization.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

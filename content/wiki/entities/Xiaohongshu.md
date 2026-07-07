@@ -2,7 +2,7 @@
 title: "Xiaohongshu"
 type: entity
 tags: [platform, social-media, community]
-sources: [ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7lsklr3vmtbc4l-p]
+sources: [ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7lsklr3vmtbc4l-p]
 last_updated: 2026-07-07
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-07
 Xiaohongshu is the social and community platform behind the [[XiaohongshuHackathonPeakCompetition]] discussed in [[ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex]]. In the episode, [[Shanbin]] describes the platform as trying to grow a technology community where young builders can publish projects, find users, meet peers, and practice [[BuildingPublic]].
 
 The source frames Xiaohongshu less as a conventional startup demo day host and more as a creator-community infrastructure layer: the platform can combine distribution, audience feedback, event operations, and social identity for AI-era makers.
+
+[[ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec]] adds Xiaohongshu as [[Mujian]]'s early creator-acquisition channel and platform analogy. [[Roi]] says creator classes and community operations on Xiaohongshu helped gather users who were already experimenting with AI roleplay and "small phone" simulations; longer term, she wants Mujian to become a Xiaohongshu-like place for sharing and selling virtual lives rather than real-life notes.
 
 [[zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1]] adds Xiaohongshu as a search-entry example. The hosts mention using Xiaohongshu for local lifestyle queries, reinforcing the wiki's [[OpenWebTrafficDecline]] frame: community platforms can capture intent that a general search engine used to own.
 
@@ -25,3 +27,4 @@ The source frames Xiaohongshu less as a conventional startup demo day host and m
 - [[OpenWebTrafficDecline]] and [[SearchAdvertisingDecline]] — search-entry shift reinforced by the Neihe Konghuang episode.
 - [[Zhuzhu]] — local lifestyle creator explaining ordinary platform economics.
 - [[XiaohongshuCreatorMonetization]], [[LocalLifestyleStoreReviews]], and [[LifestyleSubsidyCreatorWork]] — creator-economy layer added by EP43.
+- [[Mujian]], [[Roi]], [[AISimulationContent]], and [[AISuperCreators]] — AI simulation platform and creator-community analogy added by the Mujian source.
