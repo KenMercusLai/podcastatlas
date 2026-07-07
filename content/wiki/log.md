@@ -1015,3 +1015,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] report | Graph health report generated
 
 1417 nodes analyzed.
+
+## [2026-07-08] ingest | Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough
+
+Added source page for a How I Built This episode on Krishna Kaliannan, Catalina Crunch, health-driven low-sugar cereal, keto positioning, direct-to-consumer demand, commercial kitchens, co-manufacturing, stand-up pouch packaging, Whole Foods retail breakout, Costco scale context, commodity input exposure, and founder role transition. Created pages for Catalina Crunch, Krishna Kaliannan, Escape My Bubble, Doug Behrens, Dietary Constraint Product Insight, CPG Manufacturing Scale-Up, and Packaging As Product Experience; updated overview, index, How I Built This, Guy Raz, Whole Foods Market, Costco, Texas A&M University, and related CPG validation, distribution, DTC, customer-pull, sales-velocity, willingness-to-pay, founder-fit, commodity-exposure, and founder-role-transition pages. No direct contradiction found; the source adds a CPG operating constraint that early customer pull can precede manufacturable, shippable, retail-ready execution.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

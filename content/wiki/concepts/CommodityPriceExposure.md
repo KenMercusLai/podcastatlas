@@ -2,7 +2,7 @@
 title: "Commodity Price Exposure"
 type: concept
 tags: [pricing, consumer-products, risk, operations]
-sources: [advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5, jiufan-zhongting-mifeng-jingjixue-956460448]
+sources: [advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5, jiufan-zhongting-mifeng-jingjixue-956460448, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2]
 last_updated: 2026-07-08
 ---
 
@@ -14,6 +14,8 @@ The concept is not only a margin problem. It can force a founder to decide wheth
 
 [[jiufan-zhongting-mifeng-jingjixue-956460448]] adds the selling-side version through Chinese honey. The episode argues that high output does not protect beekeepers if the product is treated as low-priced commodity honey, fake honey and concentrated-honey practices weaken trust, and [[HoneyQualityStandards]] do not clearly reward mature honey. In that setting, [[PollinationServiceMarket]] revenue becomes a possible way to reduce dependence on commodity honey sales.
 
+[[catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2]] adds a packaged-food input version through [[CatalinaCrunch]]. [[KrishnaKaliannan]] cites sunflower oil spikes after Russia invaded Ukraine and monk fruit cost increases tied to tariffs on China, forcing supplier search, regional changes, and recipe adjustment while trying not to raise prices or shrink pouches.
+
 ## Key Claims
 - Input-price shocks can turn a premium product into a smaller-market product even when margins are protected.
 - A founder should distinguish the material customers love from the emotional or functional job the material serves.
@@ -21,9 +23,11 @@ The concept is not only a margin problem. It can force a founder to decide wheth
 - Commodity exposure can be reduced by product architecture, material diversity, pricing tiers, or occasion-based extensions, but each route has brand-risk tradeoffs.
 - The concept complements [[ProductLedWillingnessToPay]] because price increases are sustainable only when customers still understand the value.
 - Commodity exposure can also arise from the output side when producers sell into a low-trust, weakly differentiated market rather than from an input-cost shock alone.
+- For ingredient-dependent CPG, exposure can force formulation and supplier changes, not only pricing changes.
 
 ## Connections
 - [[YearlyCo]] and [[AnneWilliams]] - source case.
 - [[RonnenHarary]] and [[GuyRaz]] - advisors who reframe the problem from gold dependence to milestone value.
 - [[StoryLedConsumerBranding]], [[ConsumerBrandMoat]], and [[ProductLedWillingnessToPay]] - adjacent brand and pricing concepts.
 - [[jiufan-zhongting-mifeng-jingjixue-956460448]], [[HoneyQualityStandards]], and [[PollinationServiceMarket]] - honey-output and beekeeper-income extension.
+- [[CatalinaCrunch]], [[KrishnaKaliannan]], [[CPGManufacturingScaleUp]], and [[PackagingAsProductExperience]] - packaged-food case where input shocks affect formula, suppliers, and pack value.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough](sources/catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2.md) — How I Built This episode on Catalina Crunch, dietary constraint as product insight, low-sugar cereal formulation, CPG manufacturing scale-up, DTC shipping economics, Whole Foods retail breakout, packaging, and commodity exposure.
 - [Bayo Akomolafe: The Untimely](sources/bayo-akomolafe-the-untimely-cenyca-k7ry.md) — Long Now talk on the untimely, modern time discipline, Yoruba twin cosmology, colonial temporal discipline, fugitive temporality, autistic time, ancestry, and attention.
 - [Claire Isabel Webb & Nina Miolane: The Geometry of Consciousness](sources/claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk.md) — Long Now talk on neural geometry, population coding, spatial-navigation tori, Fourier spatial encoding, sleep-state geometry, AI interpretability, and consciousness measurement limits.
 - [Eric Ries: Incorruptible by Design](sources/eric-ries-incorruptible-by-design-wrgromn5peq.md) — Long Now talk on financial gravity, human-flourishing profit, steward ownership, benefit trusts, private regulatory power, AI alignment governance, and everyday agency.
@@ -147,6 +148,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Catalina Crunch](entities/CatalinaCrunch.md) — Low-sugar, high-protein cereal and snack company founded by Krishna Kaliannan.
+- [Krishna Kaliannan](entities/KrishnaKaliannan.md) — Catalina Crunch founder whose diabetes, epilepsy, and keto eating shaped the product thesis.
+- [Escape My Bubble](entities/EscapeMyBubble.md) — Krishna Kaliannan's earlier Chrome extension that gained attention but lacked a clear business model.
+- [Doug Behrens](entities/DougBehrens.md) — Catalina Crunch CEO brought in as Krishna Kaliannan shifted toward nutrition focus.
 - [Bayo Akomolafe](entities/BayoAkomolafe.md) — Long Now speaker developing the untimely as a decolonial critique of modern time, clock discipline, ancestry, disability, and attention.
 - [Orland Bishop](entities/OrlandBishop.md) — Interlocutor in Akomolafe's autistic-time story, challenging the imposition of neurotypical calendar discipline.
 - [Eshu](entities/Eshu.md) — Yoruba trickster figure used by Akomolafe to think decolonization from within the ship, the clock, and modernity's incompleteness.
@@ -827,6 +832,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, and Louis Hong episodes.
 
 ## Concepts
+- [Dietary Constraint Product Insight](concepts/DietaryConstraintProductInsight.md) — Pattern where a founder's health or nutrition constraint reveals a product gap that broader customers may also feel.
+- [CPG Manufacturing Scale-Up](concepts/CPGManufacturingScaleUp.md) — Transition from handmade packaged goods to consistent, safe, economical production at retail-capable volume.
+- [Packaging As Product Experience](concepts/PackagingAsProductExperience.md) — CPG pattern where package format, closure, portability, instructions, and freshness shape use and willingness to pay.
 - [The Untimely](concepts/TheUntimely.md) — Bayo Akomolafe's frame for excess, residue, cracks, and unknown tasks produced inside modern time rather than outside it.
 - [Modern Time Discipline](concepts/ModernTimeDiscipline.md) — Clock, calendar, productivity, progress, and catch-up order treated as a cultural-political story rather than neutral measurement.
 - [Yoruba Twin Cosmology](concepts/YorubaTwinCosmology.md) — Story frame destabilizing first/second, older/younger, messenger/successor chronology and grounding the Idowu figure.
