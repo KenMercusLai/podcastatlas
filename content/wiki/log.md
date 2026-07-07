@@ -304,6 +304,10 @@ Added source page for a YingdiHaike episode on Daqi, Product Roast, landing-page
 
 636 nodes analyzed.
 
+## [2026-07-07] ingest | Advice Line with Christina Tosi of Milk Bar
+
+Added source page for a How I Built This Advice Line episode on Christina Tosi, Milk Bar, The Beau Collective, Cotton Clara, Vashon Island Coffee Dust, gift-to-loyal-buyer loops, pre-sold memberships, maker positioning, packaging, and repeat behavior. Created supporting pages for Christina Tosi, Milk Bar, The Beau Collective, Cotton Clara, Vashon Island Coffee Dust, Christy Clement, and Gift-To-Loyal-Buyer Loop; updated overview, index, How I Built This, Guy Raz, and related CPG, validation, experiential retail, relationship-led growth, and founder-role-transition concept pages.
+
 ## [2026-07-07] ingest | The Walt Disney Company: Walt's Era
 
 Added source page for an Acquired episode on Walt Disney, Roy Disney, Disney's owned-IP flywheel, Oswald/Mickey IP ownership, Snow White, merchandising, ABC and television, Disneyland, Buena Vista Distribution, strategic rereleases, and Walt Disney World. Created supporting pages for Acquired, The Walt Disney Company, Walt Disney, Roy Disney, Ub Iwerks, Oswald, Mickey Mouse, Kay Kamen, Snow White, Disneyland, Walt Disney World, ABC, WED Enterprises, Buena Vista Distribution, Entertainment IP Flywheel, IP Ownership, Strategic Rerelease, Theme Park As Media Platform, Vertical Media Distribution, and Art Commerce Integration; updated overview, index, experiential retail, distribution-led product building, and product-led willingness to pay pages.

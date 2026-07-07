@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Advice Line with Christina Tosi of Milk Bar](sources/advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96.md) — Podcast episode on Christina Tosi, Milk Bar, The Beau Collective, Cotton Clara, Vashon Island Coffee Dust, gift-to-loyal-buyer loops, and consumer-brand repeat behavior.
 - [The Walt Disney Company: Walt's Era](sources/the-walt-disney-company-1.md) — Acquired episode on Walt Disney, Roy Disney, Disney's owned-IP flywheel, Mickey Mouse, Snow White, merchandising, television, Disneyland, strategic rereleases, and vertical media distribution.
 - [EP87 对话独立设计师大琪：通过设计帮助产品做好增长](sources/ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc.md) — Podcast episode on Daqi, Product Roast, landing-page conversion, business-fluent design, design-led growth, cross-cultural product design, and early product validation.
 - [Build-A-Bear: Maxine Clark. A Former Shoe Executive Launches a Stuffed Animal Empire](sources/build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88.md) — Podcast episode on Maxine Clark, Build-A-Bear, experiential retail, customer co-creation, mall expansion, site selection, concept protection, and founder succession.
@@ -67,6 +68,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Christina Tosi](entities/ChristinaTosi.md) — Milk Bar founder and Advice Line guest emphasizing creative founder leverage, community demand, packaging, and repeat behavior.
+- [Milk Bar](entities/MilkBar.md) — Dessert brand used as a case for founder role transition, brand reach, gifting, and direct-to-consumer packaging.
+- [The Beau Collective](entities/TheBeauCollective.md) — Park City fitness-retail community hub weighing Phoenix expansion, pre-sold memberships, landlord support, and community capital.
+- [Cotton Clara](entities/CottonClara.md) — Craft-kit company working through maker positioning, repeat customers, community events, and gifting/wellness language.
+- [Vashon Island Coffee Dust](entities/VashonIslandCoffeeDust.md) — Spice-blend CPG brand using gifting, packaging, counter ritual, and use-case expansion to create repeat buyers.
+- [Christy Clement](entities/ChristyClement.md) — Vashon Island Coffee Dust founder asking how gift recipients become loyal repeat buyers.
 - [Acquired](entities/Acquired.md) — Business-history podcast/source context for the Disney episode and its entertainment-IP strategy analysis.
 - [The Walt Disney Company](entities/TheWaltDisneyCompany.md) — Media and entertainment company analyzed through owned IP, animation, merchandise, television, parks, rereleases, and distribution control.
 - [Walt Disney](entities/WaltDisney.md) — Founder and creative force behind Mickey, Snow White, Disneyland, and the Florida/Epcot vision.
@@ -402,6 +409,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Gift-To-Loyal-Buyer Loop](concepts/GiftToLoyalBuyerLoop.md) — Consumer-products growth pattern where gifting, packaging, ritual, education, and convenience convert recipients into repeat buyers.
 - [Entertainment IP Flywheel](concepts/EntertainmentIPFlywheel.md) — Strategy where owned characters and stories compound across films, merchandise, television, parks, rereleases, and distribution.
 - [IP Ownership](concepts/IPOwnership.md) — Strategic control of characters, stories, and rights so media assets can be reused without distributor dependency.
 - [Strategic Rerelease](concepts/StrategicRerelease.md) — Catalog strategy that earns new revenue from owned media whose major production cost is already paid.
