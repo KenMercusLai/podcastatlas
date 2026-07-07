@@ -18,6 +18,8 @@ Investment risk management is the practical bridge from market uncertainty to or
 
 [[e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf]] adds the value-investing version: the central risk is permanent capital loss, so quoted volatility and drawdown matter mainly through whether the investor has paid with [[MarginOfSafety]], sized the position correctly, and matched the strategy to holder behavior through [[FundLiabilityMatching]].
 
+[[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]] adds the macro multi-asset version: a long-cycle or geopolitical narrative still needs [[MacroAssetExpression]], target volatility, drawdown limits, and awareness that [[RiskParity]] can fail when a liquidity crisis makes assets fall together.
+
 ## Key Claims
 - Every trade has an informed or differently informed counterparty, so humility should be the starting point.
 - Even a high-probability bet can fail, which makes position sizing and diversification central.
@@ -38,6 +40,7 @@ Investment risk management is the practical bridge from market uncertainty to or
 - Hong Kong index and fund investing needs [[HongKongMarketStructure]] awareness because low valuation, high beta, or high dividend yield can still produce long drawdowns without liquidity, catalysts, or rebalancing.
 - Multi-asset FOF investing needs [[EfficientFrontier]] discipline because adding assets only helps if expected return, volatility, and [[AssetCorrelation]] improve the whole portfolio.
 - Value investing needs [[MarginOfSafety]] because a low valuation, attractive dividend, or good story is not enough if pessimistic assumptions can still produce permanent loss.
+- Risk-parity and macro products need liquidity-crisis awareness because assets that diversify in normal periods can become correlated when investors are forced to reduce risk.
 - [[FundLiabilityMatching]] is part of risk management because a correct long-term thesis can fail for fund holders who redeem before the thesis has time to work.
 - [[DefensiveDividendAssets]] can be useful waiting positions, but dividends, banks, and income assets still require leverage and entry-price analysis.
 - [[RetailInvestorCrowding]] and [[ContrarianSentimentIndicators]] should inform sizing and patience rather than become simplistic market-timing rules.
@@ -78,6 +81,7 @@ Investment risk management is the practical bridge from market uncertainty to or
 - [[MegaCapConcentrationRisk]], [[RetailInvestorCrowding]], [[DefensiveDividendAssets]], [[IndexReentryDiscipline]], [[HongKongTechRepricing]], and [[ContrarianSentimentIndicators]] — EP57's index and cross-market allocation cluster.
 - [[HongKongMarketStructure]], [[HongKongExchangesAndClearing]], [[HangSengTechIndex]], and [[HongKongStockConnect]] — E159's Hong Kong offshore-market, liquidity, IPO, ETF, and risk-management cluster.
 - [[AssetAllocation]], [[EfficientFrontier]], [[AssetCorrelation]], [[FOFProductDesign]], and [[SixtyFortyPortfolio]] — E158's multi-asset and product-design cluster.
+- [[RiskParity]], [[MacroAssetExpression]], [[GoldMonetaryAnchor]], and [[GeopoliticalCycleMacro]] — E162's macro multi-asset, monetary-anchor, and non-steady-regime cluster.
 - [[ValueInvesting]], [[MarginOfSafety]], [[FundLiabilityMatching]], [[DividendDiscountModel]], and [[ValueTrap]] — E160's permanent-loss, cash-flow, holder-fit, and cheap-stock-risk cluster.
 - [[InsuranceRiskTransfer]], [[FamilyProtectionInsurancePlanning]], and [[SavingsStyleInsurance]] — EP18's household-risk boundary around insurance and investing.
 - [[AShareBullMarketHistory]], [[PolicyDrivenMarketRally]], [[LeverageDrivenBullMarket]], and [[RetailBullMarketPsychology]] — EP46's A-share extension around policy, crowd behavior, and leverage.

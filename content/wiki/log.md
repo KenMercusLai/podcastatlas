@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-08] ingest | E162.康波周期中的AI：新技术总在萧条期爆发，bad times make good people
+
+Added source page for a 面基 episode on Kondratiev cycles, AI as a possible sixth long-wave technology, technology installation cycles, depression-driven innovation, risk parity, gold as monetary anchor, geopolitical macro, and macro asset expression. Created pages for Kondratiev Cycle, Technology Installation Cycle, Depression Driven Innovation, Risk Parity, Macro Asset Expression, Gold Monetary Anchor, Geopolitical Cycle Macro, Zhou Jintao, 中信建投证券, Bridgewater Associates, Joseph Schumpeter, and Carlota Perez; updated overview, index, 面基, Asset Allocation, Efficient Frontier, AI Investment Metrics, AI Equity Valuation Risk, Market Regime Shift, Investment Risk Management, Microsoft, and Apple. No direct contradiction found; the source qualifies AI-bubble skepticism by arguing that AI can be a real long-cycle technology while still facing installation-stage bubble and valuation risk.
+
 ## [2026-07-08] ingest | 133. 对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42
 
 Added source page for a 张小珺Jùn｜商业访谈录 episode on Xie Saining, AMI Labs, Yann LeCun, representation learning, self-supervised learning, research taste, problem definition, DiT, JEPA, world models, and a decentralized real-world data strategy beyond LLM-only scaling. Created supporting pages for Xie Saining, AMI Labs, Yann LeCun, Ilya Sutskever, Fei-Fei Li, Kaiming He, FAIR, NYU, UCSD, ImageNet, Representation Learning, Self-Supervised Learning, Research Taste, Problem Definition In Research, Multimodal Intelligence, Diffusion Transformers, Joint Embedding Predictive Architecture, Decentralized World Model Strategy, and ResNeXt; updated overview, index, 张小珺Jùn｜商业访谈录, World Models, Frontier Model Scaling, Language User Interface, AI Organization Design, AI Plus Terminals, Embodied AI, OpenAI, Meta, and Causal World Models. No direct contradiction found; the source qualifies LLM-centered and language-interface narratives by arguing that language is an interface rather than the whole substrate of intelligence.
@@ -767,6 +771,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] ingest | E161.脱离理性暴政，去尽情游戏吧！
 
 Added source page for a 面基 episode with 关雅迪 on leaving rational overcontrol, trained intuition, embodied judgment, ultratrail running, ocean sailing, high-altitude hallucination, financial/lifestyle safety, and action-defined identity. Created supporting pages for GuanYadi, QingdaoClipperYacht, TrainedIntuition, EmbodiedJudgment, FlowEnvironmentDesign, ExtremeEnvironmentRiskManagement, and ActionDefinesIdentity; updated overview, index, 面基, and Financial Freedom Vs Lifestyle Freedom. No direct contradiction found; the source qualifies "trust intuition" with training, feedback, safety boundaries, and embodied experience.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-08] lint | Wiki health check
 

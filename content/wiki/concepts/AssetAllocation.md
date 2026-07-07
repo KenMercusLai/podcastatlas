@@ -2,7 +2,7 @@
 title: "Asset Allocation"
 type: concept
 tags: [investing, portfolio, allocation]
-sources: [e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc]
+sources: [e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]
 last_updated: 2026-07-08
 ---
 
@@ -12,12 +12,15 @@ Asset allocation is the multi-asset decision process added by [[e158-zichan-peiz
 
 The episode's practical structure is strategic first, tactical second. [[YunLei]] describes a mostly stable strategic base, such as a U.S. equity and bond [[SixtyFortyPortfolio]], with a smaller tactical sleeve for macro views, factor substitution, and correlation improvement.
 
+[[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]] adds the macro-strategy version. It connects allocation to [[RiskParity]] and [[MacroAssetExpression]]: a long-cycle or geopolitical narrative has to be translated into equity styles, bond duration, commodity exposure, gold, sectors, and target-volatility rules before it becomes an investable portfolio.
+
 ## Key Claims
 - Asset allocation should be judged by the whole portfolio's risk-return path, not by whether each individual asset looks attractive in isolation.
 - Expected return, volatility, and [[AssetCorrelation]] are all required inputs because diversification only helps when assets behave differently at the portfolio level.
 - A strategic base should be understandable to clients; complexity is not useful if it makes the product feel like a black box.
 - Tactical views should have a limited risk budget because macro confidence can change quickly.
 - In low-rate environments, household demand may move from bank wealth-management and property toward FOF-style products, making [[FOFProductDesign]] part of asset allocation.
+- [[RiskParity]] is one multi-asset implementation path, but the episode stresses that it still depends on correlation behavior and liquidity-crisis risk.
 
 ## Connections
 - [[EfficientFrontier]] — framework for judging whether allocation actually improved.
@@ -25,3 +28,4 @@ The episode's practical structure is strategic first, tactical second. [[YunLei]
 - [[FOFProductDesign]] — product packaging and client-result discipline around allocation.
 - [[SixtyFortyPortfolio]] — simple strategic base discussed in the source.
 - [[InvestmentRiskManagement]] and [[QDIIAllocation]] — risk and implementation context for ordinary and Chinese overseas investors.
+- [[RiskParity]], [[MacroAssetExpression]], and [[GoldMonetaryAnchor]] — E162's macro multi-asset extension.

@@ -32,6 +32,8 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 
 [[zhe-bannian-women-you-maile-naxie-keji-haowu-1]] adds Apple through practical hardware reuse. The episode treats an M4 Mac mini as an always-on local machine for [[OpenClaw]]-style workflows, while older M1 Mac minis and headless MacBooks regain value through remote control and KVM setups. It also uses an 11-inch iPad Air eSIM purchase to show [[PersonalInfrastructureCostAccounting]] at device level: old keyboard-case compatibility and avoiding phone-hotspot friction can matter more than novelty.
 
+[[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]] adds Apple as a historical example inside [[DepressionDrivenInnovation]]. The episode uses Apple and [[Microsoft]] to illustrate that important technology companies can form in weak or uncertain macro windows before a new technology wave is widely accepted.
+
 ## Source Position
 - The hosts expect Apple AI news to matter because iPhone-level distribution can change user behavior even if the underlying model comes from another provider.
 - If Siri becomes a capable device-level agent, utility apps and reminder-like tools may face platform-level pressure.
@@ -47,6 +49,7 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 - Vol. 167 treats Apple as a distribution and trust layer: health alerts, device form factor, subscription mechanics, and assistant integration can change behavior even when the model or service comes from another provider.
 - Vol. 162 treats Apple as an integration layer for [[Xcode]], [[Siri]], and possible voice/input devices, reinforcing that model capability matters only when it reaches daily workflows.
 - The tech-purchase episode treats Apple hardware as reusable local infrastructure for agent workflows, travel connectivity, and accessory continuity.
+- E162 treats Apple as an example of [[DepressionDrivenInnovation]] inside a broader [[KondratievCycle]] story.
 
 ## Connections
 - [[Siri]] — Apple assistant and platform entry point discussed in the source.
@@ -65,3 +68,4 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 - [[AgenticSoftware]], [[AppStore]], and [[OnDemandApps]] — Vol. 164 platform-review and generated-app themes.
 - [[Xcode]], [[ModelWorkflowFit]], [[Gemini]], and [[VoiceInteraction]] — IDE, assistant, and input-device themes added by Vol. 162.
 - [[OpenClaw]], [[LocalAgentExecution]], and [[PersonalInfrastructureCostAccounting]] — Mac mini, old-device reuse, and iPad eSIM purchase logic added by the tech-purchase episode.
+- [[DepressionDrivenInnovation]], [[Microsoft]], and [[KondratievCycle]] — E162's long-cycle innovation context.
