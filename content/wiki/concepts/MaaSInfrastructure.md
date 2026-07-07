@@ -2,8 +2,8 @@
 title: "MaaS Infrastructure"
 type: concept
 tags: [ai, infrastructure, maas]
-sources: [1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]
-last_updated: 2026-07-07
+sources: [1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
+last_updated: 2026-07-08
 ---
 
 # MaaS Infrastructure
@@ -13,6 +13,8 @@ MaaS infrastructure is the model-as-a-service layer that turns model capability 
 The concept extends [[AIInferenceCostStructure]]. Cost structure explains why tokens are expensive; MaaS infrastructure explains the operational machinery that makes those tokens available: GPU scheduling, peak smoothing, model routing, latency control, throughput, security boundaries, utilization, and hardware-software integration.
 
 [[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] adds the strategic-supply layer. The hosts use [[Amazon]]/[[Anthropic]]/Trainium, [[OpenAI]]/[[Microsoft]], and [[Google]]'s cloud-TPU-model-product stack to argue that AI infrastructure advantage can come from vertical binding across cloud, chips, power, data centers, and product demand.
+
+[[chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]] adds the physical continuity layer. If dense GPU data centers, power, cooling, regional network paths, or operating staff are disrupted by conflict, MaaS reliability fails even when model quality and serving software are strong. This turns [[AIComputeContinuity]] and [[DataCenterPhysicalResilience]] into part of the MaaS platform problem.
 
 ## Key Claims
 
@@ -24,6 +26,7 @@ The concept extends [[AIInferenceCostStructure]]. Cost structure explains why to
 - Neocloud is more defensible when it hides hardware complexity and provides AI-native serving, sandbox, browser, search, or observability layers, rather than reselling raw GPUs.
 - If AI becomes utility-like infrastructure, model diversity, speed, price, safety, and service reliability may matter as much as a single best model.
 - Cloud, chip, power, and product demand can become bundled advantages when model providers need guaranteed capacity and hyperscalers need captive AI workloads.
+- AI serving continuity depends on region-level physical infrastructure, so geopolitics and site resilience can affect practical token availability.
 
 ## Connections
 
@@ -34,3 +37,4 @@ The concept extends [[AIInferenceCostStructure]]. Cost structure explains why to
 - [[AgentFacingInterfaces]] — downstream software becomes more useful when MaaS can serve agents through stable APIs and tools.
 - [[FrontierModelScaling]] — related training-side pressure; MaaS infrastructure is the deployment and serving counterpart.
 - [[Amazon]], [[Anthropic]], [[OpenAI]], [[Microsoft]], and [[Google]] — cloud-chip and model-provider binding cases added by Vol. 162.
+- [[AIComputeContinuity]], [[DataCenterPhysicalResilience]], and [[DigitalInfrastructureWarRisk]] — physical continuity layer added by the Keji Luandun data-center episode.

@@ -2,8 +2,8 @@
 title: "OpenAI"
 type: entity
 tags: [company, ai]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, eric-ries-on-how-founders-quietly-lose-their-company, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
-last_updated: 2026-07-07
+sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, eric-ries-on-how-founders-quietly-lose-their-company, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
+last_updated: 2026-07-08
 ---
 
 # OpenAI
@@ -20,6 +20,8 @@ OpenAI appears in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-t
 
 [[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] adds OpenAI through GPT-5.2/5.3, ChatGPT Go, possible advertising, voice-mode limitations, smart-earbud rumors, and [[Codex]] inside [[Xcode]]. The episode treats OpenAI as moving simultaneously through frontier model upgrades, lower-price consumer plans, coding tools, and possible [[AIPlusTerminals]] hardware.
 
+[[chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]] adds OpenAI as an AI-infrastructure exposure case. The hosts say OpenAI-linked Middle East infrastructure appeared in conflict-related target discussion, using that claim to argue that AI data centers and model-serving capacity can become part of [[DigitalInfrastructureWarRisk]] and [[AIComputeContinuity]]. The source does not independently verify the current-war claims.
+
 ## Connections
 - [[Anthropic]] — discussed as another frontier AI company with enterprise deployment implications.
 - [[ForwardDeployedEngineer]], [[DigitalEmployees]], and [[BusinessLedAITransformation]] — enterprise deployment frame from the Rolling AI source.
@@ -35,3 +37,4 @@ OpenAI appears in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-t
 - [[Codex]], [[ChatGPT]], [[HumanAgentCollaboration]], and [[AIInferenceCostStructure]] — workflow, chat, and cost themes added by Vol. 166.
 - [[Microsoft]], [[Cloudflare]], [[AIContentProvenance]], and [[IMAgentInterfaces]] — cloud, provenance, and remote-agent themes added by Vol. 167.
 - [[Codex]], [[Xcode]], [[AISubscriptionEconomics]], [[VoiceInteraction]], and [[AIPlusTerminals]] — model, pricing, coding, and device themes added by Vol. 162.
+- [[DigitalInfrastructureWarRisk]], [[AIComputeContinuity]], and [[MaaSInfrastructure]] — physical AI-infrastructure continuity frame added by the Keji Luandun data-center episode.

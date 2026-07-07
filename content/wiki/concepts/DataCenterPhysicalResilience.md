@@ -1,0 +1,27 @@
+---
+title: "Data Center Physical Resilience"
+type: concept
+tags: [infrastructure, cloud, resilience]
+sources: [chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
+last_updated: 2026-07-08
+---
+
+# Data Center Physical Resilience
+
+Data center physical resilience is the ability of a data-center facility to keep operating, fail gracefully, or recover after physical disruption to buildings, power, cooling, networking, equipment, transport, or staff access. In [[chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]], the hosts argue that commercial data centers are not usually built like military underground facilities, so war risk changes the resilience calculation.
+
+The source emphasizes that resilience is not only about whether servers are destroyed. A facility can become less reliable if operators evacuate, flights stop, parts cannot arrive, power or cooling is damaged, or repeated attacks make repair unsafe.
+
+## Key Claims
+- Physical damage may happen quickly, while recovery can take weeks or months under conflict conditions.
+- Power, cooling, network equipment, and human operations are all single-system dependencies from a customer's perspective.
+- Fully military-grade hardening may be too expensive for ordinary cloud customers, so architecture and site selection matter as much as bunker-like construction.
+- A data center located near valuable network paths or regional demand can also become a higher-value target.
+- AI clusters increase the stakes because dense GPU infrastructure is expensive, power-hungry, and harder to replace quickly.
+
+## Connections
+- [[DigitalInfrastructureWarRisk]] — broader conflict-risk frame.
+- [[WarAwareDisasterRecovery]] — cross-region backup and failover response.
+- [[RegionalNetworkTopologyRisk]] — site-selection exposure.
+- [[AIComputeContinuity]] — continuity of GPU-backed AI services.
+- [[MaaSInfrastructure]] — model-serving platforms depend on physical facility reliability.

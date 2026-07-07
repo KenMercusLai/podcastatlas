@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [除了石油和海峡，这届伊朗战争开始算计你的服务器了](sources/chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun.md) — Keji Luandun episode on data centers, submarine cables, AI compute, cloud-region disaster recovery, drone-era infrastructure attacks, and Middle East digital infrastructure risk.
 - [E160.一个价值投资者的 20 年回顾：求积分，求胜率，求时间](sources/e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf.md) — 面基 episode on value investing as long-duration cash-flow integration, margin of safety, DDM, fund liability matching, research judgment, moats, circle of competence, dividend strategy, and position sizing.
 - [E158.资产配置与有效前沿：去找更好的，更不一样的，更贴近时代的](sources/e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc.md) — 面基 episode on dynamic efficient frontier, asset correlation, 60/40 strategic allocation, FOF product design, free-cash-flow indexing, COWZ, QDII tooling, and low-rate household wealth allocation.
 - [E159.港股的特殊之处与生存之道](sources/e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy.md) — 面基 episode on Hong Kong equities as an optional offshore market, covering liquidity segmentation, Stock Connect pricing power, ETF gaps, IPO absorption, dividend assets, Hang Seng Tech volatility, and risk-first active management.
@@ -113,6 +114,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [热乎乱炖](entities/RehuLuandun.md) — AI-assisted Keji Luandun news aggregation and host-style commentary project built from prior transcript voice patterns.
+- [Oracle](entities/Oracle.md) — Cloud company added through the Keji Luandun data-center episode as a case of regional infrastructure exposure under digital infrastructure war risk.
 - [Ronnen Harary](entities/RonnenHarary.md) — Spin Master co-founder and Advice Line guest advising consumer founders on material constraints, scaling ambition, storytelling, and founder work boundaries.
 - [Spin Master](entities/SpinMaster.md) — Toy and children's entertainment company behind PAW Patrol, used as a case for balancing acquisition, internal innovation, and franchise renewal.
 - [PAW Patrol](entities/PAWPatrol.md) — Spin Master children's franchise illustrating how long-running consumer IP must be refreshed through new stories, characters, toys, and movies.
@@ -366,7 +369,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alan Newman](entities/AlanNewman.md) — Seventh Generation co-founder whose founder conflict with Jeffrey Hollender is revisited in the Advice Line context.
 - [Aleph Alpha](entities/AlephAlpha.md) — German AI company referenced as part of the episode's discussion of European AI visibility and constraints.
 - [Alibaba](entities/Alibaba.md) — Large technology company discussed through Qwen, open source, organizational order, consumer assistant strategy, service-entry ecosystems, and Daqi's early product-design career context.
-- [Amazon](entities/Amazon.md) — Cloud and AI infrastructure buyer discussed through Nvidia demand, hyperscaler capex assumptions, and EP77's politically sensitive Melania Trump documentary deal.
+- [Amazon](entities/Amazon.md) — Cloud and AI infrastructure buyer discussed through Nvidia demand, hyperscaler capex assumptions, EP77's politically sensitive Melania Trump documentary deal, and data-center continuity risk.
 - [Android](entities/Android.md) — Google-backed open smartphone operating system that became the non-Apple ecosystem after iPhone reset handset competition.
 - [Anthropic](entities/Anthropic.md) — AI company discussed alongside OpenAI in the episode's treatment of frontier models, agent tools, and enterprise deployment.
 - [Apple](entities/Apple.md) — Platform company discussed through WWDC/Siri, iPhone and App Store ecosystems, podcasts/iPod media history, Buffett/Berkshire market sentiment, and F1 media-rights ambitions.
@@ -458,7 +461,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Justin Gold](entities/JustinGold.md) — Founder of Justin's Nut Butter, discussing CPG product experimentation, retail distribution, acquisition, and later return.
 - [Justin Yan](entities/JustinYan.md) — Fengyan Fengyu host who built an OpenClaw-like personal agent to understand agent-native software, skills, and permission design.
 - [Justin's Nut Butter](entities/JustinsNutButter.md) — Natural-food CPG brand built from flavored nut-butter jars into squeeze packs, cups, and a $280 million Hormel acquisition.
-- [Keji Luandun](entities/KejiLuandun.md) — Podcast covering Chinese AI companies, software-payment norms, practical AI coding/productization workflows, AI policy, platform governance, and overseas market selection.
+- [Keji Luandun](entities/KejiLuandun.md) — Podcast covering Chinese AI companies, software-payment norms, practical AI coding/productization workflows, AI policy, platform governance, overseas market selection, and digital infrastructure war risk.
 - [Kedaibiao Lizheng](entities/KedaibiaoLizheng.md) — Episode guest focused on AI learning, skills, context, and agent-based workflows.
 - [Kenan Voice Changer](entities/KenanVoiceChanger.md) — Assistive AI prototype that repairs unclear speech so users can communicate during rehabilitation.
 - [Kaseya](entities/Kaseya.md) — Cybersecurity/MSP company referenced through the July 2021 ransomware incident that accelerated ThreatLocker demand.
@@ -510,7 +513,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Motorola](entities/Motorola.md) — Early mobile-phone, pager, and design-led handset leader whose StarTAC/RAZR success did not survive the smartphone ecosystem shift.
 - [Mas](entities/Mas.md) — Ninety's AI companion bot built around organizational operating context.
 - [Manus](entities/Manus.md) — Agent product central to the overseas-commercialization episode and referenced elsewhere as a milestone in the agent wave.
-- [你的书房](entities/NiDeShufang.md) — Personal book-management product used as an example of paid AI features, bounded usage, and data portability.
+- [你的书房](entities/NiDeShufang.md) — Personal book-management product used as an example of paid AI features, bounded usage, data portability, app revenue, and mini-program review friction.
 - [Nasdaq Composite](entities/NasdaqComposite.md) — Tech-heavy U.S. index used in EP57 for technical weakness, AI/mega-cap concentration, and Hong Kong tech correlation.
 - [NetEase](entities/NetEase.md) — Chinese game company mentioned as becoming more active in AI adoption.
 - [NewSpot](entities/NewSpot.md) — Justin Yan's software product contrasted with OpenClaw as a traditional app where agent lessons may improve research workflows.
@@ -518,7 +521,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ninety](entities/Ninety.md) — SaaS platform for leadership-team operating rhythms, built through the EOS ecosystem and now embedding AI.
 - [Nokia](entities/Nokia.md) — GSM and feature-phone giant whose Symbian dominance, durable mass-market phones, and later Windows Phone turn anchor the handset-history episode.
 - [Nvidia](entities/Nvidia.md) — AI semiconductor company used as EP39's main case for separating company quality from stock valuation risk.
-- [OpenAI](entities/OpenAI.md) — Frontier AI company referenced in relation to agents, FDE, AI market structure, ChatGPT stickiness, and commerce integrations.
+- [OpenAI](entities/OpenAI.md) — Frontier AI company referenced in relation to agents, FDE, AI market structure, ChatGPT stickiness, commerce integrations, and AI-infrastructure continuity risk.
 - [Open Claw](entities/OpenClaw.md) — Domestic agent-wave project/context paired with Open Cloud in the Hermes Agent discussion.
 - [Open Cloud](entities/OpenCloud.md) — Domestic agent-era project/event discussed through skills, CLI friction, ecosystem consensus, and scheduled routines.
 - [Outrank](entities/Outrank.md) — SEO product discussed as part of Tea Maker's AI-era distribution playbook.
@@ -642,6 +645,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Digital Infrastructure War Risk](concepts/DigitalInfrastructureWarRisk.md) — Risk that data centers, submarine cables, cloud regions, AI compute clusters, and exchange points become targets or pressure points in conflict.
+- [Data Center Physical Resilience](concepts/DataCenterPhysicalResilience.md) — Facility-level ability for data centers to keep operating or recover when buildings, power, cooling, equipment, transport, or staff access are disrupted.
+- [War-Aware Disaster Recovery](concepts/WarAwareDisasterRecovery.md) — Cloud and business-continuity planning that treats war, drones, missiles, staff evacuation, and repeated attacks as disaster scenarios.
+- [AI Compute Continuity](concepts/AIComputeContinuity.md) — Ability to keep model APIs, coding agents, inference workloads, and GPU-backed business processes available through infrastructure disruption.
+- [Regional Network Topology Risk](concepts/RegionalNetworkTopologyRisk.md) — Exposure created by where cloud regions, cable landings, exchange points, and data centers sit relative to users, chokepoints, and political conflict.
+- [Asymmetric Infrastructure Attack](concepts/AsymmetricInfrastructureAttack.md) — Risk pattern where low-cost weapons or sabotage impose high downtime, repair, or deterrence costs on expensive infrastructure.
 - [Value Investing](concepts/ValueInvesting.md) — Long-term cash-flow-oriented investing philosophy that treats valuation, safety margin, business quality, sizing, and holder behavior as one discipline.
 - [Margin Of Safety](concepts/MarginOfSafety.md) — Buying discipline that pays for pessimistic assumptions rather than optimistic scenarios to reduce permanent capital loss.
 - [Dividend Discount Model](concepts/DividendDiscountModel.md) — Valuation frame that treats stock value as the discounted sum of future dividends or distributable cash flows.
@@ -699,7 +708,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Cold War](concepts/AIColdWar.md) — Geopolitical frame where model, API, compute, and information flows become bloc-style strategic competition.
 - [AI Safety Narrative Backfire](concepts/AISafetyNarrativeBackfire.md) — Risk that weapon-like AI safety rhetoric invites blunt national-security regulation of commercial models.
 - [Frontier Model Access Restrictions](concepts/FrontierModelAccessRestrictions.md) — Limits on model use by region, nationality, institution, partner status, or safety tier.
-- [SaaS Reliability Under Policy Risk](concepts/SaaSReliabilityUnderPolicyRisk.md) — Reliability problem where a cloud AI product can become unavailable because regulation or provider policy changes.
+- [SaaS Reliability Under Policy Risk](concepts/SaaSReliabilityUnderPolicyRisk.md) — Reliability problem where cloud AI products become unavailable because regulation, provider policy, region rules, or physical geopolitical exposure changes access.
 - [AI Agent Overseas Commercialization](concepts/AIAgentOverseasCommercialization.md) — Pattern where agent products find stronger fit in overseas web, SEO, advertising, API, and paid software workflows than in closed domestic app ecosystems.
 - [Chinese Model Liberal Arts Constraint](concepts/ChineseModelLiberalArtsConstraint.md) — Host-coined frame for domestic model weakness in open-ended writing, style, research, and nuanced expression relative to bounded tasks.
 - [China Agent Market Friction](concepts/ChinaAgentMarketFriction.md) — Platform, data-access, API, crawling, app-incentive, and payment obstacles that can make Chinese AI-agent commercialization harder.
@@ -712,7 +721,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Home Service Robots](concepts/HomeServiceRobots.md) — Household robots designed for useful family services such as child care support, light chores, play, and home assistance.
 - [Household Robot Data Flywheel](concepts/HouseholdRobotDataFlywheel.md) — Real-home deployment loop where household tasks, corner cases, and interaction data improve robot capability and deployment value.
 - [Consumer Robotics Full Stack](concepts/ConsumerRoboticsFullStack.md) — Self-development strategy for making home robots affordable, reliable, and integrated enough for consumer deployment.
-- [MaaS Infrastructure](concepts/MaaSInfrastructure.md) — Model-as-a-service infrastructure layer that converts model capability and compute capacity into reliable, secure, low-latency tokens.
+- [MaaS Infrastructure](concepts/MaaSInfrastructure.md) — Model-as-a-service infrastructure layer that converts model capability and compute capacity into reliable, secure, low-latency tokens through cloud, chip, power, and physical-region continuity.
 - [Restaurant Experience Design](concepts/RestaurantExperienceDesign.md) — Hospitality pattern where food, room design, lighting, music, air, service, and crowd energy form the product.
 - [Concept Led Hospitality](concepts/ConceptLedHospitality.md) — Restaurant-building pattern where each venue starts from a differentiated guest promise, mood, location fit, and operating format.
 - [Restaurant Operational Fragility](concepts/RestaurantOperationalFragility.md) — Restaurant risk where small failures in labor, food, service, room comfort, or liquidity can damage reputation and cash flow.

@@ -684,6 +684,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-08] ingest | 除了石油和海峡，这届伊朗战争开始算计你的服务器了
+
+Added source page for a Keji Luandun episode on data centers, submarine cables, AI compute, cloud-region exposure, Middle East network topology, low-cost drone attacks, and war-aware disaster recovery. Created supporting pages for 热乎乱炖, Oracle, Digital Infrastructure War Risk, Data Center Physical Resilience, War-Aware Disaster Recovery, AI Compute Continuity, Regional Network Topology Risk, and Asymmetric Infrastructure Attack; updated overview, index, Keji Luandun, 你的书房, Amazon, OpenAI, SaaS Reliability Under Policy Risk, and MaaS Infrastructure.
+
 ## [2026-07-08] ingest | E160.一个价值投资者的 20 年回顾：求积分，求胜率，求时间
 
 Added source page for a 面基 episode on value investing as long-duration cash-flow integration, margin of safety, DDM, public-fund liability matching, circle of competence, business moats, value traps, dividend strategy, AI-assisted research boundaries, financial-statement reading, and conviction-based position sizing. Created supporting pages for Value Investing, Margin Of Safety, Dividend Discount Model, Fund Liability Matching, Circle Of Competence, Business Moat, and Value Trap; updated overview, index, 面基, Investment Risk Management, Position Sizing, Defensive Dividend Assets, Financial Statement Analysis, Profit And Cash Flow Quality, Return On Equity Analysis, AI Investment Research, and Investor Education.
@@ -699,6 +703,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] ingest | Advice Line with Ronnen Harary of Spin Master/PAW Patrol
 
 Added source page for a How I Built This Advice Line episode with Ronnen Harary on Spin Master, PAW Patrol, Yearly Co., Island Bee Company, Hive 5, and Wandering Soul Beer. Created supporting pages for Ronnen Harary, Spin Master, PAW Patrol, Yearly Co., Anne Williams, Island Bee Company, Felix Collin, Hive 5, Wandering Soul Beer, Matt Smith, Commodity Price Exposure, Story Led Consumer Branding, Family Business Scaling, and Founder Work Boundaries; updated overview, index, How I Built This, Guy Raz, Channel Focus Experiments, Sustainable Growth Pace, and Founder Identity Diversification.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-08] lint | Wiki health check
 
