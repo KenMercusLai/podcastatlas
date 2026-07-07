@@ -967,3 +967,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | Melody Jue: Ocean Memory
+
+Added source page for a Long Now talk on ocean memory, milieu-specific analysis, underwater chemosensation, ecological memory, multispecies archives, art-science collaboration, and ocean acidification as sensory and memory disruption. Created pages for Melody Jue, Ocean Memory Project, Daniel Cohn, Jody Deming, Mandy Suzanne Wong, Anya Yermakova, Jacob Cram, Ocean Memory, Milieu-Specific Analysis, Chemosensation, Ecological Memory, Multispecies Archives, and Ocean Acidification; updated overview, index, and Long Now. No direct contradiction found; the source extends the existing Long Now branch from planetary governance and progress communication into ocean humanities, nonhuman sensory worlds, and multispecies memory.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
