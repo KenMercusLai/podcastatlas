@@ -327,3 +327,15 @@ Added source page for an Acquired episode on Walt Disney, Roy Disney, Disney's o
 ## [2026-07-07] ingest | EP89 海外券商大地震，跨境投资新时代
 
 Added source page for a YiLaoYongYi episode on overseas brokerage cleanup, Futu Securities, Tiger Brokers, Longbridge, personal FX quota limits, capital-account investment restrictions, underground transfer risk, Stock Connect, QDII, and Cross-Border Wealth Management Connect. Created supporting entity and concept pages for the major platforms, regulator, and compliant-access frameworks; updated overview, index, YiLaoYongYi, investment risk, AML, KYC, currency, RMB policy, overseas insurance, and regulator pages.
+
+## [2026-07-07] ingest | EP86 面子、底子、日子：财报只讲这三件事
+
+Added source page for a YiLaoYongYi episode on reading financial statements through profit, balance sheet, and cash flow; comparing Nvidia and SMIC; and using receivables, inventory, audit opinions, and AI-assisted filing review as defensive investing tools. Created supporting pages for SMIC, TSMC, Best Buy, Zhangzidao, Toshiba, APEX Digital, Charlie Munger, Financial Statement Analysis, Profit And Cash Flow Quality, Asset-Light Vs Heavy-Asset Models, Non-GAAP Earnings, Return On Equity Analysis, Accounting Red Flags, Receivables Risk, Inventory Write-Down Risk, and Audit Opinion Risk; updated overview, index, YiLaoYongYi, Nvidia, Sichuan Changhong, Warren Buffett, Investor Education, Investment Risk Management, and AI Investment Research pages.
+
+## [2026-07-07] graph | Knowledge graph rebuilt
+
+714 nodes, 6195 edges (6195 extracted, 0 inferred).
+
+## [2026-07-07] report | Graph health report generated
+
+714 nodes analyzed.
