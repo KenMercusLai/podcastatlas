@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E159.港股的特殊之处与生存之道](sources/e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy.md) — 面基 episode on Hong Kong equities as an optional offshore market, covering liquidity segmentation, Stock Connect pricing power, ETF gaps, IPO absorption, dividend assets, Hang Seng Tech volatility, and risk-first active management.
 - [Advice Line with Ronnen Harary of Spin Master/PAW Patrol](sources/advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5.md) — Podcast episode on Ronnen Harary, Spin Master, PAW Patrol, Yearly Co., Island Bee Company, Wandering Soul Beer, commodity price exposure, family-business scaling, channel choice, and founder work boundaries.
 - [别在国内卷了，去美国看看只要产品好就有人付费的市场](sources/bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun.md) — Keji Luandun episode on Win's U.S. trip, CES networking, Tesla/Waymo Robotaxi observations, Chinese AI model adoption abroad, U.S. paid-software culture, and payment-led market selection for founders.
 - [当华为抛出韬定律，我们该信它到哪一步？](sources/dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun.md) — Keji Luandun episode on Huawei's Tau Law, 3D chip stacking, constrained semiconductor strategy, HiSilicon backup culture, and Huawei's organization methodology.
@@ -157,7 +158,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Damai](entities/Damai.md) — Ticketing platform used as both a platform-governance example and a possible Qwen fulfillment surface.
 - [State Administration for Market Regulation](entities/StateAdministrationForMarketRegulation.md) — Chinese antitrust regulator context for the reported Ctrip investigation.
 - [Yunnan Homestay Association](entities/YunnanHomestayAssociation.md) — Homestay operator association cited as a complainant-side signal in the Ctrip antitrust discussion.
-- [面基](entities/Mianji.md) — Podcast/show context for E153's discussion of Kelly sizing, compounding growth, investment edge, and trading discipline.
+- [面基](entities/Mianji.md) — Podcast/show context for E153's Kelly sizing framework and E159's Hong Kong equity market-structure discussion.
 - [Edward Thorp](entities/EdwardThorp.md) — Mathematician and investor used by E153 to connect blackjack card counting, Kelly sizing, arbitrage, and quantitative investing.
 - [Claude Shannon](entities/ClaudeShannon.md) — Information-theory figure used by E153 to connect information advantage, repeated betting, and Kelly-style position sizing.
 - [声东击西](entities/ShengdongJixi.md) — Podcast crossover context where Xu Tao hosts Justin Yan and Wang Junyu on OpenClaw and vibe coding.
@@ -420,7 +421,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Google](entities/Google.md) — Company behind Gemini and Android, discussed through AI product surfaces, search-platform comparison, and mobile-platform strategy.
 - [Goldman Sachs](entities/GoldmanSachs.md) — Financial institution referenced in EP57 through retail ownership data, mega-cap concentration data, and bank-stock weakness.
 - [Great Harvest Bread](entities/GreatHarvestBread.md) — Early Boulder retail customer for Justin's Nut Butter.
-- [Hang Seng Tech Index](entities/HangSengTechIndex.md) — Hong Kong technology benchmark discussed through DeepSeek-driven China-tech repricing and dynamic linkage with Nasdaq.
+- [Hang Seng Tech Index](entities/HangSengTechIndex.md) — Hong Kong technology benchmark discussed through China-tech repricing, Nasdaq linkage, and high-elasticity ETF behavior.
+- [Hong Kong Exchanges and Clearing](entities/HongKongExchangesAndClearing.md) — Hong Kong exchange operator discussed through trading/listing economics, IPO liquidity absorption, and market-temperature signals.
 - [HSBC](entities/HSBC.md) — Hong Kong banking and dividend-stock example from EP57, extended by EP23's Bund and Shanghai foreign-bank history.
 - [HTC](entities/HTC.md) — PDA and smartphone maker that helped launch Android with the first Android phone before Samsung captured larger Android scale.
 - [Huaqiangbei](entities/Huaqiangbei.md) — Shenzhen electronics-market cluster central to MediaTek-enabled shanzhai handset production and distribution.
@@ -934,6 +936,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Health Insurance Planning](concepts/HealthInsurancePlanning.md) — Planning critical illness, medical reimbursement, and high-end medical coverage around claims, treatment costs, and access.
 - [Headless Software](concepts/HeadlessSoftware.md) — Product-design thesis that software value should be separable from GUI-first human operation.
 - [Hong Kong Tech Repricing](concepts/HongKongTechRepricing.md) — EP57 frame for DeepSeek-driven reassessment of Hong Kong and China technology assets and their changing relationship with U.S. tech.
+- [Hong Kong Market Structure](concepts/HongKongMarketStructure.md) — E159 frame for Hong Kong equities as an optional offshore market with scarce liquidity, segmented buyers, thin ETF coverage, and IPO absorption.
 - [Human-Agent Collaboration](concepts/HumanAgentCollaboration.md) — Product-design problem of finding better ways for people and AI agents to work together beyond chat, prompt, and session interfaces.
 - [Human Judgment Under AI](concepts/HumanJudgmentUnderAI.md) — Claim that AI improves preparation and automation but cannot replace situated judgment, permission choices, or responsibility.
 - [Independent Investment Consulting](concepts/IndependentInvestmentConsulting.md) — Advice-fee model focused on portfolio design, risk explanation, and long-term decision support rather than product distribution commissions.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-08] ingest | E159.港股的特殊之处与生存之道
+
+Added source page for a 面基 episode on Hong Kong equities as an optional offshore market, covering southbound and overseas capital behavior, liquidity segmentation, ETF gaps, high-dividend assets, Hang Seng Tech volatility, value-plus-momentum discipline, rebalancing, Hong Kong Exchanges and Clearing, and IPO liquidity absorption. Created Hong Kong Market Structure and Hong Kong Exchanges and Clearing; updated overview, index, 面基, Hang Seng Tech Index, Hong Kong Tech Repricing, Hong Kong Stock Connect, Passive Investing, Defensive Dividend Assets, Index Reentry Discipline, and Investment Risk Management. No direct contradiction found; the source narrows earlier Hong Kong tech repricing optimism by treating low valuation and elasticity as insufficient without liquidity, catalyst, and risk-control conditions.
+
 ## [2026-07-08] ingest | 别在国内卷了，去美国看看只要产品好就有人付费的市场
 
 Added source page for a Keji Luandun episode on Win's U.S. trip, CES networking, Tesla and Waymo Robotaxi observations, Chinese AI model adoption in U.S. startup circles, U.S. software payment behavior, and why founders should choose markets by demand and payment instead of defaulting to China first. Created Win and Payment Led Market Selection; updated overview, index, Keji Luandun, Manus, Tesla, Waymo, DeepSeek, AI Agent Overseas Commercialization, Software Payment Culture, Product Led Willingness To Pay, One-Person Company, and Pre-Product Selling pages. No direct contradiction found; the main tension with the OPC source is sequence-related: use overseas field discovery before setup, not overseas registration as a substitute for customer validation.
@@ -687,6 +691,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] ingest | Advice Line with Ronnen Harary of Spin Master/PAW Patrol
 
 Added source page for a How I Built This Advice Line episode with Ronnen Harary on Spin Master, PAW Patrol, Yearly Co., Island Bee Company, Hive 5, and Wandering Soul Beer. Created supporting pages for Ronnen Harary, Spin Master, PAW Patrol, Yearly Co., Anne Williams, Island Bee Company, Felix Collin, Hive 5, Wandering Soul Beer, Matt Smith, Commodity Price Exposure, Story Led Consumer Branding, Family Business Scaling, and Founder Work Boundaries; updated overview, index, How I Built This, Guy Raz, Channel Focus Experiments, Sustainable Growth Pace, and Founder Identity Diversification.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-08] lint | Wiki health check
 
