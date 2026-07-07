@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E160.一个价值投资者的 20 年回顾：求积分，求胜率，求时间](sources/e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf.md) — 面基 episode on value investing as long-duration cash-flow integration, margin of safety, DDM, fund liability matching, research judgment, moats, circle of competence, dividend strategy, and position sizing.
 - [E158.资产配置与有效前沿：去找更好的，更不一样的，更贴近时代的](sources/e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc.md) — 面基 episode on dynamic efficient frontier, asset correlation, 60/40 strategic allocation, FOF product design, free-cash-flow indexing, COWZ, QDII tooling, and low-rate household wealth allocation.
 - [E159.港股的特殊之处与生存之道](sources/e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy.md) — 面基 episode on Hong Kong equities as an optional offshore market, covering liquidity segmentation, Stock Connect pricing power, ETF gaps, IPO absorption, dividend assets, Hang Seng Tech volatility, and risk-first active management.
 - [Advice Line with Ronnen Harary of Spin Master/PAW Patrol](sources/advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5.md) — Podcast episode on Ronnen Harary, Spin Master, PAW Patrol, Yearly Co., Island Bee Company, Wandering Soul Beer, commodity price exposure, family-business scaling, channel choice, and founder work boundaries.
@@ -162,7 +163,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [运雷](entities/YunLei.md) — 面基 guest and fund manager explaining efficient-frontier asset allocation, correlation research, and FOF product design.
 - [南方全球](entities/NanfangQuanqiu.md) — QDII fund/product context used to discuss overseas ETF, bond, commodity, REIT, and active-fund allocation tooling.
 - [COWZ](entities/COWZ.md) — Free-cash-flow ETF/index example used as a possible S&P 500 substitute when expected return improves without losing correlation fit.
-- [面基](entities/Mianji.md) — Podcast/show context for E153's Kelly sizing framework and E159's Hong Kong equity market-structure discussion.
+- [面基](entities/Mianji.md) — Podcast/show context for E153's Kelly sizing framework, E158's asset-allocation layer, E159's Hong Kong market-structure discussion, and E160's value-investing review.
 - [Edward Thorp](entities/EdwardThorp.md) — Mathematician and investor used by E153 to connect blackjack card counting, Kelly sizing, arbitrage, and quantitative investing.
 - [Claude Shannon](entities/ClaudeShannon.md) — Information-theory figure used by E153 to connect information advantage, repeated betting, and Kelly-style position sizing.
 - [声东击西](entities/ShengdongJixi.md) — Podcast crossover context where Xu Tao hosts Justin Yan and Wang Junyu on OpenClaw and vibe coding.
@@ -641,6 +642,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Value Investing](concepts/ValueInvesting.md) — Long-term cash-flow-oriented investing philosophy that treats valuation, safety margin, business quality, sizing, and holder behavior as one discipline.
+- [Margin Of Safety](concepts/MarginOfSafety.md) — Buying discipline that pays for pessimistic assumptions rather than optimistic scenarios to reduce permanent capital loss.
+- [Dividend Discount Model](concepts/DividendDiscountModel.md) — Valuation frame that treats stock value as the discounted sum of future dividends or distributable cash flows.
+- [Fund Liability Matching](concepts/FundLiabilityMatching.md) — Asset-management discipline of aligning strategy, drawdown, liquidity, communication, and client holding behavior.
+- [Circle Of Competence](concepts/CircleOfCompetence.md) — Investor's honest boundary of what can be understood, sized, held, and expanded through research.
+- [Business Moat](concepts/BusinessMoat.md) — Durable competitive advantage such as cost, scale, scope, brand, channel, network effects, or production know-how that protects future cash flows.
+- [Value Trap](concepts/ValueTrap.md) — Cheap-looking stock whose business value is structurally deteriorating faster than price or valuation multiples imply.
 - [Asset Allocation](concepts/AssetAllocation.md) — Multi-asset portfolio construction starting from client outcomes, expected return, volatility, correlation, and strategic/tactical risk budgets.
 - [Efficient Frontier](concepts/EfficientFrontier.md) — Portfolio frame for improving risk-return by adding assets with higher expected return or lower correlation.
 - [Asset Correlation](concepts/AssetCorrelation.md) — Portfolio relationship concept where changing macro variables, flows, and narratives can make assets move together or apart.
