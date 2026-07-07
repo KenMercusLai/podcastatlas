@@ -2,13 +2,13 @@
 title: "Banking KYC Compliance"
 type: concept
 tags: [finance, banking, compliance, aml]
-sources: [ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs, ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t]
+sources: [ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs, ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t, ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439]
 last_updated: 2026-07-07
 ---
 
 # Banking KYC Compliance
 
-Banking KYC compliance is the customer identity, risk, tax, anti-money-laundering, and suitability work performed before and during a banking relationship. In [[ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg]], it explains why opening a foreign-bank account can take much longer than opening a simple Chinese-bank retail account. In [[ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr]], it becomes the ordinary-user monitoring layer behind [[AntiMoneyLaundering]], [[ConsumerAMLExposure]], and suspicious-account review. [[ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs]] extends KYC to overseas brokerage classification: identity document, residence proof, tax status, IP location, funding source, and transaction behavior can all matter. [[ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t]] keeps KYC adjacent to [[BankDueDiligence]] by emphasizing that customer reality, loan use, and documentation need to make sense after onboarding too.
+Banking KYC compliance is the customer identity, risk, tax, anti-money-laundering, and suitability work performed before and during a banking relationship. In [[ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg]], it explains why opening a foreign-bank account can take much longer than opening a simple Chinese-bank retail account. In [[ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr]], it becomes the ordinary-user monitoring layer behind [[AntiMoneyLaundering]], [[ConsumerAMLExposure]], and suspicious-account review. [[ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs]] extends KYC to overseas brokerage classification: identity document, residence proof, tax status, IP location, funding source, and transaction behavior can all matter. [[ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t]] keeps KYC adjacent to [[BankDueDiligence]] by emphasizing that customer reality, loan use, and documentation need to make sense after onboarding too. [[ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439]] adds the retail-credit side: income proof, employment stability, existing debt, credit-card behavior, credit inquiries, and loan-purpose evidence all help banks decide whether the borrower profile is coherent.
 
 ## Key Claims
 - KYC means "Know Your Customer" and includes identity verification, name screening, customer declarations, risk classification, and source-of-funds checks.
@@ -19,6 +19,7 @@ Banking KYC compliance is the customer identity, risk, tax, anti-money-launderin
 - KYC is not only a one-time onboarding burden; it shapes product suitability, account monitoring, customer data handling, and later investigation procedures.
 - For cross-border brokerage accounts, a single document may not be enough if the broader profile still looks like mainland solicitation or mainland-funded investment activity.
 - KYC and credit diligence overlap when a customer's stated business condition, loan purpose, repayment source, or document trail does not match the actual transaction.
+- Mortgage, consumer-loan, and credit-card reviews use similar profile logic: income, liabilities, credit history, purpose evidence, and account behavior must tell a plausible story.
 
 ## Connections
 - [[BankingComplianceBoundaries]] — KYC is one part of the broader compliance perimeter.
@@ -31,3 +32,4 @@ Banking KYC compliance is the customer identity, risk, tax, anti-money-launderin
 - [[StateAdministrationOfForeignExchange]] — foreign-exchange purpose and source review sit beside bank KYC.
 - [[AIGovernanceAndCompliance]] and [[ComplianceAutomation]] — adjacent compliance concepts in software and AI contexts.
 - [[BankDueDiligence]] — transaction and credit verification layer reinforced by EP26.
+- [[MortgageApproval]], [[PersonalCreditRecord]], and [[ConsumerLoanRisk]] — EP24's borrower-side credit-review extensions.

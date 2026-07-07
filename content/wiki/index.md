@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP24 房贷车贷消费贷，贷贷为奴，代代还](sources/ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439.md) — Podcast episode on mortgages, car loans, consumer loans, credit records, loan intermediaries, credit-card debt mechanics, and the risks of treating credit as income.
 - [UGG: Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company.](sources/ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939.md) — Podcast episode on Brian Smith, UGG, surf-culture positioning, seasonal inventory finance, trademark pressure, channel expansion, and the sale to Deckers.
 - [EP26 想做人上之人，却困在《城中之城》](sources/ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t.md) — Podcast episode using the drama 城中之城 to discuss bank workplace realism, internal audit, due diligence, boss resources, colleague boundaries, and finance-career self-protection.
 - [EP58 业绩平平，也要认真"摸鱼"](sources/ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c.md) — Podcast episode on workplace "moyu", finance-industry pressure, bank-role slack, task visibility, boss expectation management, and AI-assisted productivity.
@@ -380,7 +381,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Peak AI](entities/PeakAI.md) — AI search analytics SaaS company discussed through rapid validation, GEO, and mid-market pricing.
 - [Perplexity](entities/Perplexity.md) — AI search tool discussed as one of the surfaces monitored by Peak AI.
 - [Petaluma](entities/Petaluma.md) — Direct-to-consumer plant-based dog food company balancing evidence, skepticism, sampling, and health positioning.
-- [People's Bank of China](entities/PeoplesBankOfChina.md) — Central bank discussed through RMB exchange-rate stability and managed currency policy.
+- [People's Bank of China](entities/PeoplesBankOfChina.md) — Central bank discussed through RMB exchange-rate stability, managed currency policy, and the LPR context around mortgage pricing.
 - [Peter Burns](entities/PeterBurns.md) — Experienced food-company operator who joined Justin's Nut Butter and eventually became CEO.
 - [Phil Holstead](entities/PhilHolstead.md) — Red Truck Orchards founder discussing cherry vinegar messaging, sampling, and repeat purchase.
 - [Peter Lynch](entities/PeterLynch.md) — Fundamental investor used as a comparison point against Jim Simons's quantitative approach.
@@ -474,7 +475,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Emily Bordner](entities/EmilyBordner.md) — EB&Co founder asking whether to follow current retail revenue or faster wholesale growth.
 - [Gob](entities/Gob.md) — Biomaterials personal-care company starting with mycelium earplugs and weighing venue partnerships against sleep DTC growth.
 - [硬地骇客](entities/YingdiHaike.md) — Podcast/show context for AI coding markets, Podwise CLI/Skills, ASO, design-led growth, founder-life, and AI game/social commercialization episodes.
-- [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for episodes on investing, political influence monetization, finance career risk, middle-class consumption pressure, career-entry anxiety, upward management, creator work, aviation work, banking, and global market turmoil.
+- [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for episodes on investing, credit, political influence monetization, finance career risk, middle-class consumption pressure, career-entry anxiety, workplace advice, creator work, aviation work, banking, and global market turmoil.
 - [助助](entities/Zhuzhu.md) — Xiaohongshu local-lifestyle creator explaining ordinary creator monetization, local store reviews, and lifestyle freedom.
 - [Youyou Agent](entities/YouyouAgent.md) — Digital-life agent experiment discussed as an early agent-native project.
 - [Youju](entities/Youju.md) — Podcast/project focused on AI games and AI interactive entertainment.
@@ -489,6 +490,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Mortgage Approval](concepts/MortgageApproval.md) — Bank review of property collateral, down-payment source, income stability, existing debt, co-repayment, credit history, and mortgage-rate choice.
+- [Personal Credit Record](concepts/PersonalCreditRecord.md) — Borrower history built from credit-card use, repayment, overdue records, credit inquiries, utilization, and identity/account handling.
+- [Consumer Loan Risk](concepts/ConsumerLoanRisk.md) — Risk that car loans, consumer loans, online loans, campus loans, installments, and haircut loans are mistaken for income or harmless liquidity.
+- [Loan Intermediary Risk](concepts/LoanIntermediaryRisk.md) — Borrower risk from brokers, bank-adjacent marketing, service fees, staged approvals, AB loans, and personal-information exposure.
+- [Credit Card Debt Mechanics](concepts/CreditCardDebtMechanics.md) — Interest, fee, repayment, installment, minimum-payment, cash-withdrawal, cash-out, and card-security rules behind credit-card debt.
 - [Subculture Led Marketing](concepts/SubcultureLedMarketing.md) — Consumer-brand pattern where authentic early users make a product credible before mass-market positioning works.
 - [Seasonal Inventory Financing](concepts/SeasonalInventoryFinancing.md) — Working-capital problem where seasonal physical-product demand must be financed before sales convert into cash.
 - [Ponzi Scheme](concepts/PonziScheme.md) — Fraud structure where earlier investors are paid with later investor money while payouts are presented as real investment returns.

@@ -447,3 +447,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-07] ingest | EP24 房贷车贷消费贷，贷贷为奴，代代还
+
+Added source page for a YiLaoYongYi episode on mortgages, car loans, consumer loans, personal credit records, loan intermediaries, campus/online loan risks, credit-card installments, minimum repayment, cash withdrawal, cash-out, and card security. Created supporting pages for Mortgage Approval, Personal Credit Record, Consumer Loan Risk, Loan Intermediary Risk, and Credit Card Debt Mechanics; updated overview, index, YiLaoYongYi, People's Bank of China, banking compliance/KYC/due-diligence pages, investment risk management, social engineering fraud, investment fraud red flags, and account misuse risk.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

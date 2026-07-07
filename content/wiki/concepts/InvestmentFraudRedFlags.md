@@ -2,7 +2,7 @@
 title: "Investment Fraud Red Flags"
 type: concept
 tags: [investing, fraud, consumer-risk, personal-finance]
-sources: [ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm, ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj]
+sources: [ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm, ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj, ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439]
 last_updated: 2026-07-07
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-07
 Investment fraud red flags are recurring warning signs that a financial opportunity may be structured to capture the investor's principal rather than expose it to a genuine, understood investment risk. [[ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm]] frames the pattern across task scams, retirement seminars, foreign-exchange platforms, stock-tip groups, profit-sharing trade guidance, paid investing courses, and insurance intermediaries.
 
 [[ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj]] extends the pattern through historical and modern cases: [[PonziScheme]], [[AdvanceFeeFraud]], [[PennyStockBoilerRoomFraud]], [[PigButcheringScam]], [[LotteryGamblingPlatformFraud]], and [[AIImpersonationFraudRisk]]. The concept extends [[InvestmentRiskManagement]] beyond market volatility. In these cases the first question is not whether the asset will rise or fall, but whether the platform, counterparty, contract, account display, and fund route are real and legally usable. It also overlaps with [[BehavioralInvestingBiases]] because many scams work by triggering greed, fear of missing out, shame after loss, authority trust, and the desire to recover sunk cost.
+
+[[ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439]] adds a borrowing-adjacent variant: loan brokers, cash-out helpers, and fake-order schemes may not present themselves as investments, but they share red flags such as bank-like authority packaging, upfront fees, staged process evidence, unclear counterparties, and pressure to move money or personal documents before value is delivered.
 
 ## Key Claims
 - High or easy return claims require extra scrutiny when the promised reward is disconnected from clear economic source, downside path, and counterparty responsibility.
@@ -23,6 +25,7 @@ Investment fraud red flags are recurring warning signs that a financial opportun
 - Synthetic voice or face confirmation can be unsafe when urgency prevents slower cross-channel verification.
 - If the guide earns only when the investor pays a fee or shares gains, but does not share losses, the incentive structure should be treated as a risk signal.
 - A person who does not understand the contract, guarantee, withdrawal route, collateral clause, or legal identity of the counterparty is not ready to send money.
+- Loan or cash-out intermediaries should be treated with similar suspicion when the borrower is asked to pay fees, use a friend's credit, fake transactions, or surrender identity and card information before a transparent lender relationship exists.
 
 ## Connections
 - [[FakeInvestmentPlatformRisk]] — platform and displayed-account authenticity problem.
@@ -36,3 +39,4 @@ Investment fraud red flags are recurring warning signs that a financial opportun
 - [[InvestorEducation]] — user understanding is the practical countermeasure.
 - [[ThirdPartyWealthPlatformRisk]] — adjacent high-yield platform and sales-incentive risk.
 - [[CrossBorderFundTransferRisk]] and [[UndergroundMoneyTransferRisk]] — fund-route risks that often appear after trust is built.
+- [[LoanIntermediaryRisk]] and [[CreditCardDebtMechanics]] — EP24's borrowing, cash-out, and fake-order extensions of the same warning-sign logic.
