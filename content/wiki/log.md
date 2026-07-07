@@ -710,7 +710,7 @@ Added source page for a Keji Luandun paid teaser on flower/cake delivery, live-c
 
 ## [2026-07-08] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran lint after health passed. Deterministic and graph-aware checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, two fragile graph bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. No lint report file was saved.
 
 ## [2026-07-08] ingest | E225｜SaaS业数千亿市值蒸发：AI如何变革组织架构？
 
@@ -927,3 +927,11 @@ Added source page for a 商业就是这样 episode on bee economics, Mandeville,
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint after health passed. Deterministic and graph-aware checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, two fragile graph bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; a limited in-session semantic sample review found no direct contradictions and flagged source-breadth risk for broad AI, macro, compliance, and strategy claims. No lint report file was saved.
+
+## [2026-07-08] ingest | A Keir-death experience: Britain's PM clings on
+
+Added source page for a The Intelligence episode on Keir Starmer's Labour leadership crisis, the Mandelson-Epstein judgment scandal, political delivery gaps, New York assisted-dying law, U.S. assisted-dying safeguards, Death with Dignity state campaigns, and Mountain West skijoring. Created pages for Keir Starmer, Labour Party (UK), Peter Mandelson, Jeffrey Epstein, Sasha Nauta, Angela Rayner, Wes Streeting, Andy Burnham, Ed Miliband, Kathy Hochul, Death with Dignity, Aaron Braun, Labour Leadership Crisis, Political Delivery Gap, Assisted Dying Laws, Assisted Dying Safeguards, and Skijoring; updated overview, index, and The Intelligence. No direct contradiction found; the source contrasts a large parliamentary majority with weak governing authority and adds medical-law and sport-culture branches to the existing Economist podcast cluster.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

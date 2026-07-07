@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [A Keir-death experience: Britain's PM clings on](sources/a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07.md) — The Intelligence episode on Keir Starmer's Labour leadership crisis, New York assisted-dying law, U.S. safeguards, and Mountain West skijoring.
 - [【旧番重听】蜜蜂经济学](sources/jiufan-zhongting-mifeng-jingjixue-956460448.md) — 商业就是这样 episode on bees as an economics case, covering Mandeville, Meade, Zhang Wuchang, pollination contracts, almond demand, Chinese honey standards, and colony-collapse risk.
 - [Snap judgement: Japan PM’s electoral landslide](sources/snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d.md) — The Intelligence episode on Takaichi Sanae's snap-election mandate, Texas campus speech restrictions, and Taxi Driver's misread antihero violence.
 - [EP122 拥有一辆房车是种什么样的体验？🤔](sources/ep122-yongyou-yiliang-fangche-shi-zhong-shenme-yang-de-tiyan-lhposkcf-otqhppghn1yjvpjgsrd.md) — 硬地骇客 episode on secondhand B-type RV ownership, pet travel, winter diesel and water logistics, parking constraints, mobile work, and why interested buyers should rent before buying.
@@ -138,6 +139,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Keir Starmer](entities/KeirStarmer.md) — British prime minister framed as surviving an immediate Labour leadership scare while remaining politically vulnerable.
+- [Labour Party (UK)](entities/LabourPartyUK.md) — Governing party context for Starmer's internal support, divided MPs, and unresolved successor problem.
+- [Peter Mandelson](entities/PeterMandelson.md) — Senior Labour figure whose Epstein-linked scandal becomes a judgment problem for Starmer in the episode.
+- [Jeffrey Epstein](entities/JeffreyEpstein.md) — Scandal context for the Mandelson appointment and Starmer leadership segment.
+- [Sasha Nauta](entities/SashaNauta.md) — The Intelligence correspondent explaining Starmer's weak authority, delivery gap, and Labour pressure.
+- [Angela Rayner](entities/AngelaRayner.md) — Possible Labour successor discussed as plausible but damaged by tax-scandal questions.
+- [Wes Streeting](entities/WesStreeting.md) — Possible Labour successor discussed as weakened by Mandelson ties and party unpopularity.
+- [Andy Burnham](entities/AndyBurnham.md) — Possible Labour successor discussed as recognizable but lacking a current route to the premiership.
+- [Ed Miliband](entities/EdMiliband.md) — Possible Labour successor whose route or plans are described as unclear.
+- [Kathy Hochul](entities/KathyHochul.md) — New York governor tied to the assisted-dying law and its extra safeguards.
+- [Death with Dignity](entities/DeathWithDignity.md) — Advocacy group cited for expected assisted-dying bill activity in additional U.S. states.
+- [Aaron Braun](entities/AaronBraun.md) — The Intelligence reporter for the Heber City skijoring segment.
 - [Bernard Mandeville](entities/BernardMandeville.md) — Economist-philosopher reference whose bee fable opens the source's theory-to-industry sequence.
 - [James Meade](entities/JamesMeade.md) — Economist whose bee-and-orchard example frames pollination as a positive-externality case.
 - [张五常](entities/ZhangWuchang.md) — Economist whose beekeeping contract investigation is used to challenge the simple market-failure reading of pollination.
@@ -161,7 +174,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [General Mills](entities/GeneralMills.md) — Food company mentioned as the Haagen-Dazs parent-company context in the ice-cream episode.
 - [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for city commerce observations and the bee-economics episode on pollination, honey standards, and agricultural markets.
 - [Polymarket](entities/Polymarket.md) — Prediction-market example used by E144 to explain price-as-probability thinking and residual risk.
-- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for AI-bubble hedging, Erdogan succession, Japan's snap-election mandate, Texas campus speech controls, and Taxi Driver analysis.
+- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for AI-bubble hedging, Erdogan succession, Japan's snap-election mandate, Texas campus speech controls, Starmer's Labour crisis, assisted dying, skijoring, and Taxi Driver analysis.
 - [Rosie Bloor](entities/RosieBloor.md) — Host introducing the episode's finance, Turkey politics, and literary obituary segments.
 - [Josh Roberts](entities/JoshRoberts.md) — Capital-markets correspondent explaining AI bubble hedging, hyperscaler capex, and defensive portfolio choices.
 - [Piotr Zilevsky](entities/PiotrZilevsky.md) — Turkey correspondent explaining Erdogan succession dynamics, term-limit workarounds, and party maneuvering.
@@ -761,6 +774,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, and Louis Hong episodes.
 
 ## Concepts
+- [Labour Leadership Crisis](concepts/LabourLeadershipCrisis.md) — Governing-party situation where an incumbent survives because no consensus successor forms while authority keeps eroding.
+- [Political Delivery Gap](concepts/PoliticalDeliveryGap.md) — Mismatch between promised governing outcomes and visible progress, making scandals more politically dangerous.
+- [Assisted Dying Laws](concepts/AssistedDyingLaws.md) — U.S. state-level legal frameworks allowing eligible terminally ill patients to obtain fatal medication.
+- [Assisted Dying Safeguards](concepts/AssistedDyingSafeguards.md) — Eligibility and procedure controls such as prognosis, physician review, mental competence, witnessed request, and self-administration.
+- [Skijoring](concepts/Skijoring.md) — Winter sport where a horse pulls a skier through a snowy course with gates, rings, and jumps.
 - [Externality Internalization](concepts/ExternalityInternalization.md) — Process of turning spillover costs or benefits into contracts, prices, norms, subsidies, or operating risks.
 - [Pollination Service Market](concepts/PollinationServiceMarket.md) — Agricultural-service market where beekeepers are paid to move hives into farms and orchards for crop pollination.
 - [Honey Quality Standards](concepts/HoneyQualityStandards.md) — Food-standard and trust problem around mature honey, concentrated honey, fake honey, and beekeeper income.
