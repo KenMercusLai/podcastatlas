@@ -708,6 +708,10 @@ Added source page for a Keji Luandun paid teaser on flower/cake delivery, live-c
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-08] ingest | 134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe
+
+Added source page for a 张小珺Jùn｜商业访谈录 episode with 谢晨 on AI data as education, embodied data pyramids, simulation-based robot evaluation, data-engine learning loops, data recipe co-creation, and AI data pricing. Created supporting pages for Xie Chen, Guanglun Intelligence, Cruise, Scale AI, Unitree Robotics, Zhiyuan Robotics, Data As Education, Embodied Data Pyramid, Robotics Simulation Evaluation, Data Engine Learning Loop, Data Recipe Co-Creation, and Data Pricing In AI; updated overview, index, 张小珺Jùn｜商业访谈录, ImageNet, Nvidia, OpenAI, Google DeepMind, Qwen, Alibaba, ByteDance, Embodied AI, World Models, Vision Language Action Models, Real Robot Data Strategy, Physical World Data Flywheel, Embodied AI Value Chain, and Frontier Model Scaling. No direct contradiction found; the source creates a route-level tension with real-robot-data-heavy robotics strategies by arguing that real robot data must sit inside a simulation-centered data loop.
+
 ## [2026-07-08] ingest | E163.要完了？不！是要玩了！论养AI的心态与习惯
 
 Added source page for a 面基 episode on AI FoMO, 品哥's confidence-and-workflow coaching, skills as agent operating manuals, context windows and external-brain habits, persistent memory, output quality gates, non-programmer vibe coding, token/subscription pressure, human agency, and pacing AI use so it returns attention to life rather than only increasing task throughput. Created pages for 品哥, Human Agency Under AI, AI Use Pacing, and Output Quality Gates; updated overview, index, 面基, AI Skills, Context Engineering, Persistent Agent Memory, Human Judgment Under AI, Vibe Coding, AI Communication Ability, AI Subscription Economics, Open Cloud, Open Claw, and Agentic Workflow. No direct contradiction found; the source reinforces existing agent and workflow themes while shifting emphasis toward intention, finite attention, and acceptance standards.
@@ -807,6 +811,22 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] lint | Wiki health check
 
 Ran health and lint checks. Health passed. Deterministic and graph-aware lint found one orphan page (`wiki/entities/BobosOatBars.md`) and no broken links, missing entity pages, sparse pages, hub stubs, fragile bridges, or isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. No lint report file was saved.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-08] graph | Knowledge graph rebuilt
+
+1176 nodes, 11199 edges (11199 extracted, 0 inferred).
+
+## [2026-07-08] report | Graph health report generated
+
+1176 nodes analyzed.
 
 ## [2026-07-08] lint | Wiki health check
 

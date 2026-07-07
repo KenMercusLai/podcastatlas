@@ -2,13 +2,13 @@
 title: "张小珺Jùn｜商业访谈录"
 type: entity
 tags: [podcast, media, business]
-sources: [130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]
+sources: [130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]
 last_updated: 2026-07-08
 ---
 
 # 张小珺Jùn｜商业访谈录
 
-张小珺Jùn｜商业访谈录 is the podcast/show context for [[130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi]], [[131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan]], [[132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan]], and [[133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]]. The ingested episodes cover [[ZhangYueguang]]'s product transition from [[Miaoya]] to [[Docky]], [[YinQi]]'s appointment as chair of [[StepFun]], [[GaoJiyang]]'s [[Xinghaitu]] robotics path, and [[XieSaining]]'s [[AMILabs]] world-model startup story.
+张小珺Jùn｜商业访谈录 is the podcast/show context for [[130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi]], [[131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan]], [[132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan]], [[133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]], and [[134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]]. The ingested episodes cover [[ZhangYueguang]]'s product transition from [[Miaoya]] to [[Docky]], [[YinQi]]'s appointment as chair of [[StepFun]], [[GaoJiyang]]'s [[Xinghaitu]] robotics path, [[XieSaining]]'s [[AMILabs]] world-model startup story, and [[XieChen]]'s [[GuanglunIntelligence]] data/simulation view of robotics.
 
 ## Connections
 - [[YinQi]] — guest in the ingested episode.
@@ -21,3 +21,4 @@ last_updated: 2026-07-08
 - [[XieSaining]], [[AMILabs]], [[YannLeCun]], [[FAIR]], and [[NYU]] — researcher, company, collaborator, and research institutions in the world-model interview.
 - [[RepresentationLearning]], [[ResearchTaste]], [[ProblemDefinitionInResearch]], and [[DecentralizedWorldModelStrategy]] — research and startup themes added by the Xie Saining episode.
 - [[ZhangYueguang]], [[Miaoya]], [[Docky]], and [[AIFriendProducts]] — product-founder, AI portrait, agent-product, and AI-friend themes added by episode 130.
+- [[XieChen]], [[GuanglunIntelligence]], [[DataAsEducation]], [[EmbodiedDataPyramid]], and [[RoboticsSimulationEvaluation]] — data and simulation infrastructure themes added by episode 134.

@@ -2,8 +2,8 @@
 title: "Qwen"
 type: entity
 tags: [model, open-source, ai]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm]
-last_updated: 2026-07-07
+sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]
+last_updated: 2026-07-08
 ---
 
 # Qwen
@@ -14,6 +14,8 @@ Qwen is Alibaba's model family and the technical focus of [[ali-qianwen-lizhi-yu
 
 [[ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa]] adds the consumer-assistant context. The hosts describe Qwen as the renamed/repositioned successor to Tongyi in [[Alibaba]]'s 2C assistant push, and argue that its strategic value depends on becoming an [[AIAssistantServiceEntry]] connected to Alibaba services rather than merely matching [[Doubao]], [[Yuanbao]], or [[ChatGPT]] on generic conversation.
 
+[[134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]] adds Qwen as a domestic large-model capability that [[XieChen]] sees as relevant to future robot-brain competition. In that frame, Qwen matters less as a consumer assistant and more as part of China's compute, model, open-source, and talent base for [[EmbodiedAI]].
+
 ## Source Position
 - Considered important for China's AI competitiveness and overseas developer adoption.
 - Valued partly because open source makes the model usable by smaller teams and international startups.
@@ -21,6 +23,7 @@ Qwen is Alibaba's model family and the technical focus of [[ali-qianwen-lizhi-yu
 - Used by [[YuebanDongli]] as part of [[Xiaoban]]'s [[OnDeviceFastSlowBrain]] and [[EmotionalInteractionModels]] stack.
 - In the Bailian source, treated as a model family whose API quality depends on [[MaaSInfrastructure]] as much as on model weights.
 - In EP117, treated as Alibaba's consumer assistant brand and possible service-entry surface over [[Taobao]], [[Fliggy]], [[Damai]], [[Gaode]], [[DingTalk]], and [[Quark]].
+- In episode 134, treated as a domestic model strength that could feed [[VisionLanguageActionModels]], robot brains, and [[DataRecipeCoCreation]] demand.
 
 ## Connections
 - [[Alibaba]] — company behind Qwen.
@@ -29,3 +32,4 @@ Qwen is Alibaba's model family and the technical focus of [[ali-qianwen-lizhi-yu
 - [[Xiaoban]] and [[CompanionRobots]] — robotics deployment context for smaller Qwen models.
 - [[AliyunBailian]], [[YuWenyuan]], and [[MaaSInfrastructure]] — model-serving and compute-to-token context.
 - [[AIAssistantServiceEntry]], [[AgenticCommerce]], and [[AIProductFragmentation]] — consumer assistant strategy added by EP117.
+- [[EmbodiedAI]], [[VisionLanguageActionModels]], [[DataRecipeCoCreation]], and [[RoboticsSimulationEvaluation]] — physical-AI data context added by episode 134.

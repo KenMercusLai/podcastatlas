@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe](sources/134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe.md) — 张小珺Jùn｜商业访谈录 episode on Xie Chen, Guanglun Intelligence, data as education, embodied data pyramids, simulation evaluation, data pricing, and data recipes for robotics.
 - [付费片花：平台的暴力抵抗与互联网大厂的隐形税收](sources/fufei-pianhua-pingtai-de-baoli-dikang-yu-hulianwang-dachang-de-yinxing-shui-1.md) — Keji Luandun teaser on flower/cake delivery, live-commerce order transfer, local shop fulfillment, platform dependence, and hidden intermediation margins.
 - [130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏](sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi.md) — 张小珺Jùn｜商业访谈录 episode on Zhang Yueguang, Miaoya, AI-native product design, context-first product work, AI friend products, AI otome games, and Docky.
 - [《大厂小民》：我们必须克制对系统与上岸的期待](sources/da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf.md) — 面基 episode with 小满 on big-company systems, layoffs, "上岸" expectations, system humanity, writing after exit, tool rationality, family labor, and nonfiction publicness.
@@ -125,6 +126,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [谢晨](entities/XieChen.md) — Guanglun Intelligence founder and CEO framing AI data as education and robotics simulation as core embodied-AI infrastructure.
+- [光轮智能](entities/GuanglunIntelligence.md) — Robotics simulation and data-engine company building environments, evaluation, and recipe loops for embodied AI.
+- [Cruise](entities/Cruise.md) — Autonomous-driving company where Xie Chen validated simulation and synthetic data as useful training infrastructure.
+- [Scale AI](entities/ScaleAI.md) — Industrial AI data company used as the episode's Data Factory comparator before data-engine learning loops.
+- [Unitree Robotics](entities/UnitreeRobotics.md) — Robot-body company used as an example of clear hardware-layer focus in the embodied-AI ecosystem.
+- [Zhiyuan Robotics](entities/ZhiyuanRobotics.md) — Robot company cited for commercialization and mass-production capability in China's embodied-AI landscape.
 - [张月光](entities/ZhangYueguang.md) — Product founder whose path from ByteDance and Alibaba through Miaoya now frames AI-native product design, AI friends, AI otome games, and Docky.
 - [妙鸭](entities/Miaoya.md) — AI portrait product used by Zhang Yueguang to distinguish strong AI-powered internet products from fully AI-native products.
 - [Docky](entities/Docky.md) — Zhang Yueguang's agent product starting from PPT generation and aiming at ability expansion through an AI friend.
@@ -687,6 +694,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, and Xie Saining episodes.
 
 ## Concepts
+- [Data As Education](concepts/DataAsEducation.md) — Frame that AI data includes teaching signals such as tasks, feedback, evaluation, correction, and environments, not only labeled files.
+- [Embodied Data Pyramid](concepts/EmbodiedDataPyramid.md) — Robotics data structure combining scarce real robot data, scalable simulation, and broad internet or human first-person data.
+- [Robotics Simulation Evaluation](concepts/RoboticsSimulationEvaluation.md) — Simulation-as-evaluation infrastructure for repeatable robot training, testing, feedback, and counterfactual physical tasks.
+- [Data Engine Learning Loop](concepts/DataEngineLearningLoop.md) — Feedback-driven data system that supplies environments, tasks, evaluation, and iterative learning rather than only annotation files.
+- [Data Recipe Co-Creation](concepts/DataRecipeCoCreation.md) — Joint discovery between data companies and model teams of which data mixtures measurably improve models.
+- [Data Pricing In AI](concepts/DataPricingInAI.md) — Pricing frame where data value rises with customization, feedback quality, evaluation value, and embodied trajectory usefulness.
 - [AI Native Product Design](concepts/AINativeProductDesign.md) — Product-design shift from deterministic user-flow design toward model context, open input/output, and mixed product-design-engineering exploration.
 - [One Way Door Product](concepts/OneWayDoorProduct.md) — Product adoption standard where a new solution makes users unwilling to return to the old workflow.
 - [AI Friend Products](concepts/AIFriendProducts.md) — AI products treated as individual-like companions or collaborators rather than only tools or services.

@@ -1,0 +1,25 @@
+---
+title: "Embodied Data Pyramid"
+type: concept
+tags: [robotics, data, embodied-ai]
+sources: [134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]
+last_updated: 2026-07-08
+---
+
+# Embodied Data Pyramid
+
+Embodied data pyramid is [[XieChen]]'s frame for combining data sources in [[EmbodiedAI]]. In [[134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]], the top layer is real robot teleoperation or body data, the middle layer is simulation data, and the bottom layer is internet-scale and human first-person data.
+
+## Key Claims
+- Real robot data is most physically accurate but expensive, hard to scale, and therefore too narrow to carry general robotics learning alone.
+- [[RoboticsSimulationEvaluation]] is the scalable middle layer because it can generate repeated tasks, failures, counterfactuals, and evaluation scenarios.
+- Human first-person and internet data are larger and less body-specific, but can provide scene, object, task, and daily-life priors.
+- The pyramid should be a loop: real-world and human data can be converted into simulation worlds, while simulation outputs must be checked against real-world results.
+- This creates a tension with pure [[RealRobotDataStrategy]]: real data stays necessary, but the source argues it should not dominate the recipe by default.
+
+## Connections
+- [[DataAsEducation]] — broader metaphor behind the pyramid.
+- [[DataRecipeCoCreation]] — process for discovering how much of each layer improves a model.
+- [[PhysicalWorldDataFlywheel]] — adjacent real-world data-loop concept from the [[Xinghaitu]] source.
+- [[WorldModels]] and [[VisionLanguageActionModels]] — model routes that need physical-world data and evaluation.
+- [[GuanglunIntelligence]] — company building simulation-centered data infrastructure in the source.
