@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [132. 对星海图创始人高继扬的3小时访谈：鲶鱼、曾国藩、Waymo与Momenta的两面、一只狼与许华哲的离开](sources/132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan.md) — Podcast episode on Gao Jiyang, Xinghaitu, Waymo, Momenta, whole-machine robotics, real robot data, VLA/VLM architecture, production robot scenarios, and Xu Huazhe's departure.
 - [Vol. 167 Token 如流水，Agent 似朝阳](sources/vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1.md) — Podcast episode on Apple platform AI, App Store subscription commitments, OpenAI/Microsoft cloud shifts, Project Glassfin, token-cost pressure, AI medical marketing risk, AI content provenance, Codex remote control, and IM-based personal agents.
 - [把 AI 吹成核武器的人，亲手拉下了新冷战铁幕](sources/ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1.md) — Podcast episode on Anthropic access restrictions, AI export controls, safety rhetoric backfire, open-model substitution, and AI cold-war framing.
 - [OPC 的真正难题，是 AI 还没学会替你把东西卖出去](sources/opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1.md) — Podcast episode on AI-era one-person companies, why AI lowers building cost but not sales/customer/compliance work, and why first-customer validation should precede registration or overseas setup.
@@ -97,6 +98,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Gao Jiyang](entities/GaoJiyang.md) — Xinghaitu founder whose path through SenseTime, Waymo, and Momenta shapes a pragmatic embodied-AI strategy.
+- [Xinghaitu](entities/Xinghaitu.md) — Embodied-AI robotics startup building whole machines, models, post-training tools, and real-world data loops.
+- [Waymo](entities/Waymo.md) — Autonomous-driving company used as Gao Jiyang's engineering training ground and large-organization contrast case.
+- [Momenta](entities/Momenta.md) — Autonomous-driving company whose mass-production and customer-value culture shaped Gao Jiyang's operator training.
+- [Xu Huazhe](entities/XuHuazhe.md) — Scientist whose planned departure from Xinghaitu frames the algorithm-versus-value-chain discussion.
+- [Zhao Hang](entities/ZhaoHang.md) — Gao Jiyang collaborator at Waymo and early Xinghaitu participant.
+- [Yang Zeyi](entities/YangZeyi.md) — Robotics hardware-system partner who helped Xinghaitu fill whole-machine capability gaps.
+- [Cao Xudong](entities/CaoXudong.md) — Momenta leader described as technically strong, decisive, AI-oriented, and long-term.
+- [SenseTime](entities/SenseTime.md) — AI company where Gao Jiyang first systematically encountered deep learning and data-driven neural networks.
 - [Project Glassfin](entities/ProjectGlassfin.md) — Anthropic security effort discussed as an AI-assisted vulnerability-discovery case with coordinated remediation implications.
 - [Dario Amodei](entities/DarioAmodei.md) — Anthropic leader used by the episode as the main case for AI safety rhetoric feeding model access restrictions.
 - [Zhipu AI](entities/ZhipuAI.md) — Chinese AI company framed through GLM 5.2 as an open-model response to closed-model access restrictions.
@@ -556,6 +566,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Physical World Data Flywheel](concepts/PhysicalWorldDataFlywheel.md) — Robotics loop where deployed machines collect real operation data, improve models, and return as better products.
+- [Real Robot Data Strategy](concepts/RealRobotDataStrategy.md) — Empirical approach to combining real robot data, simulation, teleoperation, video, and cost accounting for embodied models.
+- [Embodied AI Value Chain](concepts/EmbodiedAIValueChain.md) — Whole robotics system spanning machines, supply chain, data, AI infrastructure, algorithms, models, distribution, and customer value.
+- [Wheel-Based Dual-Arm Robots](concepts/WheelBasedDualArmRobots.md) — Xinghaitu's form-factor choice focused on manipulation intelligence without simultaneous bipedal-locomotion complexity.
+- [Production Robot Scenario Selection](concepts/ProductionRobotScenarioSelection.md) — Method for choosing early robotics markets by speed, precision, generalization, failure cost, and scaling potential.
 - [AI Content Provenance](concepts/AIContentProvenance.md) — Marking, disclosing, or tracing AI-generated media through watermarks, content credentials, and consumer right-to-know boundaries.
 - [Medical AI Marketing Risk](concepts/MedicalAIMarketingRisk.md) — Risk that AI doctors, affiliate incentives, app-store tactics, and AI-search visibility make low-trust health products look authoritative.
 - [AI Export Controls](concepts/AIExportControls.md) — Policy attempts to restrict access to frontier model capability, model weights, APIs, chips, or related infrastructure.

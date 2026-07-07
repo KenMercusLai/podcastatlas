@@ -2,7 +2,7 @@
 title: "Vision Language Action Models"
 type: concept
 tags: [robotics, embodied-ai, models]
-sources: [na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf]
+sources: [na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan]
 last_updated: 2026-07-07
 ---
 
@@ -14,6 +14,8 @@ Vision language action models, or VLA models, are robot models discussed in [[na
 
 [[jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf]] adds [[ZhangYi]]'s operator view from [[WeilaiBuyuan]]. He treats VLA as still iterating alongside [[WorldModels]], so [[F2HomeRobot]] uses real-home deployment and engineering integration while the modeling routes mature.
 
+[[132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan]] adds [[GaoJiyang]]'s production-robot architecture through [[Xinghaitu]]. He describes a dual system where a vision-language model layer decomposes fuzzy instructions and handles logic, while VLA executes physical actions; he rejects putting every ability into one end-to-end model because endpoint compute and latency still matter.
+
 ## Limitation
 [[HuangBiwei]] argues that VLA generalization is constrained because the action side is a continuous space. Demonstration data can cover many examples, but cannot exhaustively cover all physical states, object conditions, and action variations a robot may encounter.
 
@@ -24,3 +26,4 @@ Vision language action models, or VLA models, are robot models discussed in [[na
 - [[AetherAI]] — company pursuing the causal route rather than a pure VLA route.
 - [[StepFun]], [[YinQi]], and [[AIPlusTerminals]] — foundation-model and terminal strategy context where VLA appears as a future direction.
 - [[WeilaiBuyuan]], [[F2HomeRobot]], and [[HouseholdRobotDataFlywheel]] — home-service robot deployment case where VLA remains a practical but unfinished route.
+- [[Xinghaitu]], [[GaoJiyang]], [[RealRobotDataStrategy]], and [[ProductionRobotScenarioSelection]] — production-robot case where VLA is paired with instruction decomposition and real-scene data.

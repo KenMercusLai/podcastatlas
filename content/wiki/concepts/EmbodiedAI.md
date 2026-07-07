@@ -2,7 +2,7 @@
 title: "Embodied AI"
 type: concept
 tags: [robotics, physical-ai, investment]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf]
+sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan]
 last_updated: 2026-07-07
 ---
 
@@ -16,6 +16,8 @@ Embodied AI refers to physical AI, robotics, and systems that act in real-world 
 
 [[131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan]] adds [[YinQi]]'s commercialization and AGI view. He argues that AGI must interact with the physical world, but that the route may pass through cars, phones, wearables, and other terminals before full robots. In that view, [[QianliTechnology]] is the first vehicle terminal and [[StepFun]] supplies the foundation-model "brain" through [[AIPlusTerminals]].
 
+[[132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan]] adds an industrial/productivity robotics case through [[Xinghaitu]]. [[GaoJiyang]] argues that the robot body is both the data carrier and the commercial good, so embodied intelligence has to combine [[PhysicalWorldDataFlywheel]], [[RealRobotDataStrategy]], [[EmbodiedAIValueChain]], [[WheelBasedDualArmRobots]], and [[ProductionRobotScenarioSelection]] rather than only a detached robot brain.
+
 ## Commercialization Mentioned
 - Robot performances and rentals.
 - Data collection.
@@ -25,6 +27,7 @@ Embodied AI refers to physical AI, robotics, and systems that act in real-world 
 - [[HomeServiceRobots]] such as [[F2HomeRobot]], where value depends on child care support, light chores, household safety, maintenance intervals, and real family data.
 - Generalized robot brains built from [[CausalWorldModels]], where product feasibility depends on data, compute, and robotics full-stack engineering.
 - Cars, cabins, phones, and wearables as staged terminals for physical-world interaction before mature robots.
+- Developer and production robots such as [[Xinghaitu]]'s [[WheelBasedDualArmRobots]], where value depends on real-world data, whole-machine execution, model/action architecture, and production-scene fit.
 
 ## Connections
 - [[WorldModels]] — model direction tied to physical reasoning and robot capability.
@@ -37,3 +40,5 @@ Embodied AI refers to physical AI, robotics, and systems that act in real-world 
 - [[CausalWorldModels]], [[VisionLanguageActionModels]], and [[WorldActionModels]] — model routes for robot capability.
 - [[AetherAI]] and [[HuangBiwei]] — company and founder pursuing causal embodied intelligence.
 - [[YinQi]], [[StepFun]], [[QianliTechnology]], and [[AIPlusTerminals]] — terminal-led route from foundation models toward physical-world AI.
+- [[Xinghaitu]], [[GaoJiyang]], [[Waymo]], and [[Momenta]] — autonomous-driving-to-robotics route added by the Xinghaitu source.
+- [[PhysicalWorldDataFlywheel]], [[RealRobotDataStrategy]], [[EmbodiedAIValueChain]], [[WheelBasedDualArmRobots]], and [[ProductionRobotScenarioSelection]] — industrial/productivity robotics strategy concepts.

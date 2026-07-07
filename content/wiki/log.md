@@ -579,3 +579,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-07] ingest | 132. 对星海图创始人高继扬的3小时访谈：鲶鱼、曾国藩、Waymo与Momenta的两面、一只狼与许华哲的离开
+
+Added source page for a 张小珺Jùn｜商业访谈录 episode on Gao Jiyang, Xinghaitu, Waymo, Momenta, whole-machine robotics, real robot data, VLA/VLM architecture, production robot scenario selection, customer-value culture, and Xu Huazhe's planned departure. Created supporting pages for Gao Jiyang, Xinghaitu, Waymo, Momenta, Xu Huazhe, Zhao Hang, Yang Zeyi, Cao Xudong, SenseTime, Physical World Data Flywheel, Real Robot Data Strategy, Embodied AI Value Chain, Wheel-Based Dual-Arm Robots, and Production Robot Scenario Selection; updated overview, index, Zhang Xiaojun Commercial Interviews, Embodied AI, Vision Language Action Models, AI Commercialization Pressure, and AI Plus Terminals pages.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

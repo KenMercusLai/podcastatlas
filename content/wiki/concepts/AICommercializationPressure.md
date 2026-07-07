@@ -2,7 +2,7 @@
 title: "AI Commercialization Pressure"
 type: concept
 tags: [ai, commercialization, strategy]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, community-led-saas-growth-how-ninety-hit-44m-arr, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
+sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, community-led-saas-growth-how-ninety-hit-44m-arr, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan]
 last_updated: 2026-07-07
 ---
 
@@ -34,6 +34,8 @@ AI commercialization pressure is the tension between technical influence, user a
 
 [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]] adds the policy-risk version through [[Anthropic]]. The hosts argue that if frontier models are marketed or governed as strategic weapons, closed AI companies cannot be valued only as high-growth SaaS providers; customers and investors also have to price [[AIExportControls]], [[FrontierModelAccessRestrictions]], and [[SaaSReliabilityUnderPolicyRisk]].
 
+[[132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan]] adds the production-robotics version through [[Xinghaitu]]. [[GaoJiyang]] argues that [[EmbodiedAI]] commercialization cannot depend on a detached model brain alone; the company has to finance, build, deploy, and sell whole machines while using [[PhysicalWorldDataFlywheel]], [[RealRobotDataStrategy]], and [[ProductionRobotScenarioSelection]] to turn technical progress into customer value.
+
 ## Key Claims
 - Open-source reputation alone may not justify sustained high-cost model training.
 - Commercialization pressure can change release timing, model scope, or product boundaries without necessarily ending open source.
@@ -53,6 +55,7 @@ AI commercialization pressure is the tension between technical influence, user a
 - Agent startups face commercialization pressure when their workflow layer sits close to model-provider capabilities, while domestic platform friction and weak payment behavior reduce the room to build independently.
 - AI-era one-person companies face commercialization pressure because lower build cost increases supply, while customer acquisition, sales, support, legal responsibility, and platform dependency remain scarce.
 - Closed frontier-model companies face commercialization pressure when safety rhetoric or state policy can abruptly restrict who may buy or use the strongest models.
+- Production robotics faces commercialization pressure because the technical stack includes whole machines, supply chain, data collection, training, AI infrastructure, field deployment, and customer ROI at the same time.
 
 ## Connections
 - [[LargeCompanyOpenSourceStrategy]] — strategic context where the pressure appears.
@@ -72,3 +75,4 @@ AI commercialization pressure is the tension between technical influence, user a
 - [[Manus]], [[Meta]], [[AIAgentOverseasCommercialization]], [[ChinaAgentMarketFriction]], and [[ModelProviderToolCompetition]] — AI-agent exit and market-fit route added by the Manus source.
 - [[OnePersonCompany]], [[CustomerPull]], [[PreProductSelling]], and [[ProductLedWillingnessToPay]] — individual-founder commercialization route added by the OPC source.
 - [[AIExportControls]], [[FrontierModelAccessRestrictions]], [[AISafetyNarrativeBackfire]], and [[SaaSReliabilityUnderPolicyRisk]] — policy-risk route added by the Keji Luandun export-control episode.
+- [[Xinghaitu]], [[GaoJiyang]], [[EmbodiedAIValueChain]], [[PhysicalWorldDataFlywheel]], and [[ProductionRobotScenarioSelection]] — production-robotics commercialization route added by the Xinghaitu source.
