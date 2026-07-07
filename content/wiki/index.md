@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP23 民国金融往事：《追风者》背后的天才少年与银行体系](sources/ep23-minguo-jinrong-wangshi-zhuifengzhe-beihou-de-tiancai-shaonian-yu-yinxing-tixi-lu50lzwnfquabfare58gbhwr42py.md) — Podcast episode using 追风者 to explain Gu Zhun, Lixin accounting, Republican-era banks, Shanghai foreign banks, silver dollars, treasury-bond speculation, and border-region currency credit.
 - [EP24 房贷车贷消费贷，贷贷为奴，代代还](sources/ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439.md) — Podcast episode on mortgages, car loans, consumer loans, credit records, loan intermediaries, credit-card debt mechanics, and the risks of treating credit as income.
 - [UGG: Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company.](sources/ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939.md) — Podcast episode on Brian Smith, UGG, surf-culture positioning, seasonal inventory finance, trademark pressure, channel expansion, and the sale to Deckers.
 - [EP26 想做人上之人，却困在《城中之城》](sources/ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t.md) — Podcast episode using the drama 城中之城 to discuss bank workplace realism, internal audit, due diligence, boss resources, colleague boundaries, and finance-career self-protection.
@@ -84,6 +85,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [追风者](entities/WarOfFaith.md) — Television-drama entry point for EP23's discussion of Republican-era Shanghai finance and historical banking mechanisms.
+- [顾准](entities/GuZhun.md) — Accounting prodigy used by EP23 as the historical comparison for Wei Ruolai and as a bridge from accounting skill to state capacity.
+- [潘序伦](entities/PanXulun.md) — Accounting educator and Lixin figure who recognized Gu Zhun's talent and anchors EP23's accounting-infrastructure thread.
+- [立信会计](entities/LixinAccounting.md) — Accounting firm and educational context used by EP23 to explain audit, consulting, tax, government accounting, and bank accounting in Shanghai.
+- [宋子文](entities/SongZiwen.md) — Political-finance figure linked by EP23 to central-bank authority, state finance, and the Shen Tunan comparison.
+- [孔祥熙](entities/KongXiangxi.md) — Finance-ministry and family-network figure in EP23's construction-bond speculation explanation.
+- [宋爱玲](entities/SoongAiLing.md) — Political-family figure used by EP23 to connect fake-money and treasury-bond stories to elite financial power.
+- [Central Bank of China](entities/CentralBankOfChina.md) — Nationalist-era central bank discussed through recruitment, fiscal funding, debt issuance, and currency credibility.
+- [Bank of China](entities/BankOfChina.md) — Republican-era bank tied by EP23 to international exchange, trade settlement, and Bund financial geography.
+- [Bank of Communications](entities/BankOfCommunications.md) — Republican-era bank named in EP23's "four banks" structure and associated with transport-related finance.
+- [China Farmers Bank](entities/ChinaFarmersBank.md) — Republican-era bank named in EP23's "four banks" structure, showing differentiated institutional mandates.
+- [Standard Chartered](entities/StandardChartered.md) — Foreign-bank example in EP23's Bund and Shanghai financial-geography discussion.
+- [Russo-Chinese Bank](entities/RussoChineseBank.md) — Foreign-bank case used by EP23 to connect Shanghai finance with colonial, FX, speculative, and institutional risk.
 - [UGG](entities/UGG.md) — Sheepskin footwear brand built by Brian Smith from surf-culture traction and later scaled globally by Deckers.
 - [Brian Smith](entities/BrianSmith.md) — Australian founder who brought sheepskin boots to the U.S., built UGG, and sold the company to Deckers in 1995.
 - [Deckers](entities/Deckers.md) — Footwear company that acquired UGG and later scaled the brand through fashion, retail, and celebrity positioning.
@@ -281,7 +295,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Goldman Sachs](entities/GoldmanSachs.md) — Financial institution referenced in EP57 through retail ownership data, mega-cap concentration data, and bank-stock weakness.
 - [Great Harvest Bread](entities/GreatHarvestBread.md) — Early Boulder retail customer for Justin's Nut Butter.
 - [Hang Seng Tech Index](entities/HangSengTechIndex.md) — Hong Kong technology benchmark discussed through DeepSeek-driven China-tech repricing and dynamic linkage with Nasdaq.
-- [HSBC](entities/HSBC.md) — Hong Kong banking and dividend-stock example from EP57's Q&A, framed as income-oriented but not risk-free.
+- [HSBC](entities/HSBC.md) — Hong Kong banking and dividend-stock example from EP57, extended by EP23's Bund and Shanghai foreign-bank history.
 - [HTC](entities/HTC.md) — PDA and smartphone maker that helped launch Android with the first Android phone before Samsung captured larger Android scale.
 - [Huaqiangbei](entities/Huaqiangbei.md) — Shenzhen electronics-market cluster central to MediaTek-enabled shanzhai handset production and distribution.
 - [Girish Redikar](entities/GirishRedikar.md) — Founder of Sprinto and former RecruiterBox founder discussing failed ideas, validation, service productization, and AI governance.
@@ -475,7 +489,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Emily Bordner](entities/EmilyBordner.md) — EB&Co founder asking whether to follow current retail revenue or faster wholesale growth.
 - [Gob](entities/Gob.md) — Biomaterials personal-care company starting with mycelium earplugs and weighing venue partnerships against sleep DTC growth.
 - [硬地骇客](entities/YingdiHaike.md) — Podcast/show context for AI coding markets, Podwise CLI/Skills, ASO, design-led growth, founder-life, and AI game/social commercialization episodes.
-- [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for episodes on investing, credit, political influence monetization, finance career risk, middle-class consumption pressure, career-entry anxiety, workplace advice, creator work, aviation work, banking, and global market turmoil.
+- [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for episodes on investing, credit, Republican-era finance, political influence, finance careers, workplace advice, banking, and markets.
 - [助助](entities/Zhuzhu.md) — Xiaohongshu local-lifestyle creator explaining ordinary creator monetization, local store reviews, and lifestyle freedom.
 - [Youyou Agent](entities/YouyouAgent.md) — Digital-life agent experiment discussed as an early agent-native project.
 - [Youju](entities/Youju.md) — Podcast/project focused on AI games and AI interactive entertainment.
@@ -490,6 +504,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Republican China Banking System](concepts/RepublicanChinaBankingSystem.md) — EP23 frame for the "four banks, two bureaus, one treasury" structure and its connection to state finance.
+- [Accounting Infrastructure](concepts/AccountingInfrastructure.md) — Audit, bookkeeping, tax, consulting, government accounting, and bank accounting as institutional financial order.
+- [Bank Trainee System](concepts/BankTraineeSystem.md) — Historical-to-modern bank recruitment and training pattern behind practice-student and management-trainee paths.
+- [Shanghai Foreign Banks](concepts/ShanghaiForeignBanks.md) — Bund and Jiujiang Road foreign-bank layer connecting HSBC, Standard Chartered, Russo-Chinese Bank, trade finance, and trust.
+- [Silver Dollar Credit](concepts/SilverDollarCredit.md) — Monetary trust in silver dollars through weight, recognizability, sound, authenticity checks, and acceptance.
+- [Treasury Bond Speculation](concepts/TreasuryBondSpeculation.md) — State-debt manipulation pattern where issuance, official signaling, insider timing, and small-bank pressure create losses.
+- [Border Region Currency Credit](concepts/BorderRegionCurrencyCredit.md) — Local-currency credibility based on goods convertibility, stable prices, resource trade, and counterfeit resistance.
+- [Currency Credit](concepts/CurrencyCredit.md) — Trust layer that makes money usable through authenticity, disciplined issuance, accepted counterparties, and goods availability.
+- [Financial Power And State Capacity](concepts/FinancialPowerAndStateCapacity.md) — EP23 frame tying banks, accounting, currency, bonds, taxes, and resource trade to the ability to organize or exploit an economy.
 - [Mortgage Approval](concepts/MortgageApproval.md) — Bank review of property collateral, down-payment source, income stability, existing debt, co-repayment, credit history, and mortgage-rate choice.
 - [Personal Credit Record](concepts/PersonalCreditRecord.md) — Borrower history built from credit-card use, repayment, overdue records, credit inquiries, utilization, and identity/account handling.
 - [Consumer Loan Risk](concepts/ConsumerLoanRisk.md) — Risk that car loans, consumer loans, online loans, campus loans, installments, and haircut loans are mistaken for income or harmless liquidity.

@@ -372,6 +372,10 @@ Added source page for a How I Built This episode on Tobias Lütke, Shopify, Snow
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-07] ingest | EP23 民国金融往事：《追风者》背后的天才少年与银行体系
+
+Added source page for a YiLaoYongYi episode using 追风者 to explain Republican-era Shanghai finance, Gu Zhun, Pan Xulun, Lixin accounting, Nationalist banking institutions, foreign banks on the Bund, silver-dollar trust, treasury-bond speculation, Soviet-area resource trade, and border-region currency credit. Created supporting pages for the main people, institutions, and concepts; updated overview, index, YiLaoYongYi, HSBC, foreign banking, bank hierarchy, and investment risk management pages.
+
 ## [2026-07-07] ingest | UGG: Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company.
 
 Added source page for a How I Built This episode on Brian Smith, UGG, surf-culture positioning, seasonal inventory finance, trademark pressure, ski/snowboarding/hockey expansion, celebrity seeding, the Rush Limbaugh campaign, and the 1995 sale to Deckers. Created supporting pages for UGG, Brian Smith, Deckers, Subculture Led Marketing, and Seasonal Inventory Financing; updated overview, index, How I Built This, Guy Raz, category creation, consumer brand moat, CPG distribution, distribution-led product building, customer pull, willingness to pay, founder cash-flow constraint, founder role transition, and post-acquisition founder identity pages.
@@ -451,6 +455,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-07] ingest | EP24 房贷车贷消费贷，贷贷为奴，代代还
 
 Added source page for a YiLaoYongYi episode on mortgages, car loans, consumer loans, personal credit records, loan intermediaries, campus/online loan risks, credit-card installments, minimum repayment, cash withdrawal, cash-out, and card security. Created supporting pages for Mortgage Approval, Personal Credit Record, Consumer Loan Risk, Loan Intermediary Risk, and Credit Card Debt Mechanics; updated overview, index, YiLaoYongYi, People's Bank of China, banking compliance/KYC/due-diligence pages, investment risk management, social engineering fraud, investment fraud red flags, and account misuse risk.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-07] lint | Wiki health check
 
