@@ -2,13 +2,13 @@
 title: "Investor Education"
 type: concept
 tags: [finance, investing, consumer-risk, trust]
-sources: [ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq, ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj]
+sources: [ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq, ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn]
 last_updated: 2026-07-07
 ---
 
 # Investor Education
 
-Investor education is the work of making financial customers understand product structure, downside risk, liquidity, uncertainty, fees, incentives, and the difference between sales compliance and real comprehension. [[ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq]] grounds the concept in a financial-crisis case where a family invested compensation money in a structured product and suffered a large loss despite the transaction having gone through ordinary sales processes. [[ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2]] adds a market-entry version: new investors should learn account opening, exchange permissions, bank-securities transfer, trading-rule limits, leverage thresholds, and the difference between floating and realized profit before acting on bull-market emotion. [[ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj]] adds the company-report version: ordinary investors should understand enough [[FinancialStatementAnalysis]] to distinguish profit from cash, read leverage and asset quality, and notice [[AccountingRedFlags]] before outsourcing judgment to headlines or AI summaries.
+Investor education is the work of making financial customers understand product structure, downside risk, liquidity, uncertainty, fees, incentives, and the difference between sales compliance and real comprehension. [[ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq]] grounds the concept in a financial-crisis case where a family invested compensation money in a structured product and suffered a large loss despite the transaction having gone through ordinary sales processes. [[ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2]] adds a market-entry version: new investors should learn account opening, exchange permissions, bank-securities transfer, trading-rule limits, leverage thresholds, and the difference between floating and realized profit before acting on bull-market emotion. [[ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj]] adds the company-report version: ordinary investors should understand enough [[FinancialStatementAnalysis]] to distinguish profit from cash, read leverage and asset quality, and notice [[AccountingRedFlags]] before outsourcing judgment to headlines or AI summaries. [[ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn]] adds the AI-era information version: investors need to learn how expectations, social-media narratives, behavioral bias, and decision records shape outcomes before treating any AI answer as a recommendation.
 
 ## Key Claims
 - A signed form or recorded risk disclosure does not prove that a customer truly understands a product.
@@ -21,6 +21,9 @@ Investor education is the work of making financial customers understand product 
 - Education should make [[PolicyDrivenMarketRally]] legible without turning policy optimism into a promise that the investor cannot lose money.
 - Financial-statement education should teach investors to ask whether revenue converts into cash, whether assets are recoverable, whether audit signals are clean enough, and whether a single metric such as ROE hides leverage.
 - AI-assisted education should focus on better questions about filings, risk points, trends, and assumptions rather than a simple "is this company good?" prompt.
+- Education should explain [[EarningsExpectationGap]] so investors understand why a growing company can still fall after results.
+- Education must address [[BehavioralInvestingBiases]], because social media and AI can both reinforce a user's preferred answer.
+- [[InvestmentDecisionLogging]] is an educational habit: users should know why they bought, sold, or waited before reviewing later outcomes.
 
 ## Connections
 - [[IndependentInvestmentConsulting]] — advisory model that depends on customers paying for understanding and decision support.
@@ -31,3 +34,4 @@ Investor education is the work of making financial customers understand product 
 - [[FinancialAIAgents]] — future financial tools will still need boundaries around advice, explanation, and suitability.
 - [[RetailBullMarketPsychology]], [[AShareBullMarketHistory]], and [[InvestmentRiskManagement]] — EP46's entry-education and bull-market discipline themes.
 - [[FinancialStatementAnalysis]], [[ProfitAndCashFlowQuality]], [[AccountingRedFlags]], and [[AIInvestmentResearch]] — EP86's financial-report and AI-assisted reading themes.
+- [[EarningsExpectationGap]], [[BehavioralInvestingBiases]], and [[InvestmentDecisionLogging]] — EP69's information, psychology, and process additions.

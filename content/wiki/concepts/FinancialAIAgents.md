@@ -2,8 +2,8 @@
 title: "Financial AI Agents"
 type: concept
 tags: [finance, agents, compliance]
-sources: [duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1]
-last_updated: 2026-07-06
+sources: [duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn]
+last_updated: 2026-07-07
 ---
 
 # Financial AI Agents
@@ -11,6 +11,8 @@ last_updated: 2026-07-06
 Financial AI agents are AI systems that help users interpret financial information, clarify fuzzy investment-related goals, and navigate emotionally charged money decisions without crossing regulated advice boundaries. In [[duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe]], [[YuYang]] presents finance as a domain where AI must combine information filtering, user context, compliance, and companionship.
 
 [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1]] adds the retail-investor version of the same boundary. It argues that tools such as [[ChatGPT]] can help users understand company reports, valuation ideas, and investment concepts, but should remain assistants for [[AIInvestmentResearch]] rather than autonomous stock pickers.
+
+[[ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn]] adds a concrete product-flow version through [[TangHaocheng]]. It frames financial AI agents as multi-agent investment companions that collect research, summarize professional and social information, compare bullish and bearish views, manage watchlists, trigger natural-language alerts, and keep the user engaged in the decision rather than handing down a single answer.
 
 ## Key Claims
 - Many finance users ask vague questions such as wanting stock picks, but the product must turn that into understandable information structures rather than direct advice.
@@ -20,6 +22,9 @@ Financial AI agents are AI systems that help users interpret financial informati
 - Companionship matters because investing includes anxiety, regret, fear, and hope around gains and losses.
 - Early agent work focused on restraining the model, while later work may focus more on guiding it toward useful creativity inside boundaries.
 - Retail investing tools should separate explanation, education, and thesis-checking from direct buy/sell recommendations.
+- A finance agent should help users who do not know the right question by suggesting structured next steps and relevant evidence.
+- Multi-agent disagreement can be useful when it shows why a stock has both catalysts and risks; the product should not hide that uncertainty.
+- Alerts and watchlists are part of the agent loop because investment decisions continue after the first answer.
 
 ## Connections
 - [[YuYang]] — source of the financial-domain discussion.
@@ -29,3 +34,5 @@ Financial AI agents are AI systems that help users interpret financial informati
 - [[AgenticWorkflow]] — operational pattern for agents that filter, explain, and follow up.
 - [[AIInvestmentResearch]] — ordinary-investor research use case added by the Simons episode.
 - [[InvestmentRiskManagement]] — user discipline remains outside the model's output.
+- [[TangHaocheng]] and [[Magnify]] — EP69's guest and earlier natural-language finance-search project.
+- [[InvestmentDecisionLogging]], [[BehavioralInvestingBiases]], and [[EarningsExpectationGap]] — decision-process, psychology, and market-expectation problems financial agents should help surface.

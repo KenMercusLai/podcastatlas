@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP69 AI时代来临，投资不再是单机模式](sources/ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn.md) — Podcast episode on Tang Haocheng, AI investment assistants, market expectation gaps, retail-investor behavioral biases, decision logging, and turning investing from solo judgment into human-AI research workflow.
 - [EP77 四十万年薪，副业赚了三十四亿，特朗普教你如何搞钱](sources/ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab.md) — Podcast episode on Donald Trump, political influence monetization, DJT/Truth Social, family crypto vehicles, Kushner's Saudi-backed fund, foreign gifts, brand licensing, media settlements, and political identity premiums.
 - [EP80 与查理·芒格的跨时空对话：当眼睛失明时，我们看见什么？](sources/ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i.md) — Podcast episode on Charlie Munger, Buffett, See's Candies, American Express, Coca-Cola, intangible consumer moats, irreversible investment mistakes, and the limits of chart-only analysis.
 - [Shopify: Tobias Lütke. How a snowboarder built a $150 billion business (2019)](sources/shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306.md) — Podcast episode on Tobias Lütke, Shopify, Snowdevil, internal tool productization, entrepreneurship infrastructure, merchant-first SaaS, pricing-model mistakes, venture financing, and the founder's transition from programmer to CEO.
@@ -74,6 +75,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Tang Haocheng](entities/TangHaocheng.md) — AI investment-assistant founder/guest using Netflix, Magnify, information systems, and investor-process discipline to explain ordinary-investor gaps.
+- [Magnify](entities/Magnify.md) — Natural-language finance-search project for ETF and mutual-fund discovery, presented as a precursor to broader AI investment assistants.
 - [Truth Social](entities/TruthSocial.md) — Trump-linked social platform whose source value is framed through political identity, DJT valuation, and policy-announcement trading risk.
 - [Trump Media And Technology Group](entities/TrumpMediaAndTechnologyGroup.md) — Public company around Truth Social and DJT, used as the episode's political meme-stock and paper-wealth case.
 - [World Liberty Financial](entities/WorldLibertyFinancial.md) — Trump-family crypto company discussed through token sales, stablecoin narratives, and political-brand monetization.
@@ -460,6 +463,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Earnings Expectation Gap](concepts/EarningsExpectationGap.md) — Investing problem where reported growth can disappoint if expectations, guidance, or valuation already priced in stronger results.
+- [Behavioral Investing Biases](concepts/BehavioralInvestingBiases.md) — Loss aversion, confirmation bias, herding, anchoring, and related investor psychology that distort research and trading.
+- [Investment Decision Logging](concepts/InvestmentDecisionLogging.md) — Practice of recording thesis, evidence, risks, catalysts, and invalidation conditions so investment decisions can be reviewed.
 - [Political Influence Monetization](concepts/PoliticalInfluenceMonetization.md) — Pattern where office, access, family network, regulatory leverage, or policy expectations become private economic value.
 - [Presidential Conflict Of Interest](concepts/PresidentialConflictOfInterest.md) — Governance gap where presidential office-linked private upside can accumulate around family, entities, and counterparties.
 - [Political Meme Stock](concepts/PoliticalMemeStock.md) — Listed equity whose price is driven by political identity, supporter emotion, and symbolism more than operating fundamentals.
