@@ -911,3 +911,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint after health passed. Deterministic and graph-aware checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, two fragile graph bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; a limited in-session semantic sample review found no direct contradictions in the sampled pages and flagged source-breadth gaps for broad market, macro, and product-strategy claims. No lint report file was saved.
+
+## [2026-07-08] ingest | Snap judgement: Japan PM’s electoral landslide
+
+Added source page for a The Intelligence episode on Takaichi Sanae's snap-election mandate, Japan's LDP lower-house landslide, Texas A&M syllabus and academic-freedom pressure, broader campus speech regulation, and Taxi Driver's antihero misreading. Created pages for Takaichi Sanae, Liberal Democratic Party (Japan), Texas A&M University, Martin Peterson, Taxi Driver, Travis Bickle, Electoral Mandate, Academic Freedom, Campus Speech Regulation, Antihero Misreading, and Alienated Male Violence; updated overview, index, and The Intelligence. No direct contradiction found; the source expands the existing The Intelligence politics branch from autocratic succession into democratic mandate and adds new campus-governance and film-analysis clusters.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

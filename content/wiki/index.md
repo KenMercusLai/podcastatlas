@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Snap judgement: Japan PM’s electoral landslide](sources/snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d.md) — The Intelligence episode on Takaichi Sanae's snap-election mandate, Texas campus speech restrictions, and Taxi Driver's misread antihero violence.
 - [EP122 拥有一辆房车是种什么样的体验？🤔](sources/ep122-yongyou-yiliang-fangche-shi-zhong-shenme-yang-de-tiyan-lhposkcf-otqhppghn1yjvpjgsrd.md) — 硬地骇客 episode on secondhand B-type RV ownership, pet travel, winter diesel and water logistics, parking constraints, mobile work, and why interested buyers should rent before buying.
 - [E145.上钟了！4000点之上的心理按摩](sources/e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e.md) — 面基 episode on A-share valuation indicators, 4000-point bull-market psychology, realized-versus-paper gains, value/momentum strategy mixing, and drawdown-aware allocation.
 - [132. 雪糕江湖](sources/132-xuegao-jianghu-fengtouquan-1-132-1.md) — 疯投圈 episode on China's ice-cream market, contrasting prepackaged cold-chain brands with store-made chains, sampling, franchise expansion, and price-war risk.
@@ -136,6 +137,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Takaichi Sanae](entities/TakaichiSanae.md) — Japanese prime minister whose snap-election landslide is framed as an unusually strong governing mandate.
+- [Liberal Democratic Party (Japan)](entities/LiberalDemocraticPartyJapan.md) — Dominant Japanese party turned from recent fragility into the institutional vehicle for Takaichi's lower-house mandate.
+- [Texas A&M University](entities/TexasAMUniversity.md) — Public-university case for syllabus review, Plato's Symposium removal, and academic-freedom pressure.
+- [Martin Peterson](entities/MartinPeterson.md) — Texas A&M philosophy professor whose Plato syllabus dispute anchors the academic-freedom segment.
+- [Taxi Driver](entities/TaxiDriver.md) — Film used by The Intelligence to analyze Travis Bickle, alienation, and antihero misreading.
+- [Travis Bickle](entities/TravisBickle.md) — Taxi Driver character treated as a warning about alienated male violence rather than as a masculine hero.
 - [龟龟](entities/Guigui.md) — 硬地骇客 guest explaining secondhand B-type RV ownership, pet travel, winter logistics, parking, and mobile work from trips to Jingdezhen and Shenyang.
 - [One Life](entities/OneLife.md) — RV brand or fit-out style associated with Guigui's secondhand B-type RV in EP122.
 - [Maxus V90](entities/MaxusV90.md) — Van platform used as the source's concrete B-type RV example.
@@ -149,7 +156,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [General Mills](entities/GeneralMills.md) — Food company mentioned as the Haagen-Dazs parent-company context in the ice-cream episode.
 - [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for the fifth-anniversary listener episode on city commerce, local retail, platforms, tourism, and personal change.
 - [Polymarket](entities/Polymarket.md) — Prediction-market example used by E144 to explain price-as-probability thinking and residual risk.
-- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for the AI-bubble hedging, Erdogan succession, and Georges Beauchard episode.
+- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for AI-bubble hedging, Erdogan succession, Japan's snap-election mandate, Texas campus speech controls, and Taxi Driver analysis.
 - [Rosie Bloor](entities/RosieBloor.md) — Host introducing the episode's finance, Turkey politics, and literary obituary segments.
 - [Josh Roberts](entities/JoshRoberts.md) — Capital-markets correspondent explaining AI bubble hedging, hyperscaler capex, and defensive portfolio choices.
 - [Piotr Zilevsky](entities/PiotrZilevsky.md) — Turkey correspondent explaining Erdogan succession dynamics, term-limit workarounds, and party maneuvering.
@@ -749,6 +756,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, and Louis Hong episodes.
 
 ## Concepts
+- [Electoral Mandate](concepts/ElectoralMandate.md) — Governing authority created by a decisive election result, especially when party fragility and opposition collapse give a leader policy speed.
+- [Academic Freedom](concepts/AcademicFreedom.md) — Higher-education freedom to teach and study contested material without coercive political or administrative control.
+- [Campus Speech Regulation](concepts/CampusSpeechRegulation.md) — Laws, policies, reviews, approvals, and disclaimers that shape what can be taught or said on campus.
+- [Antihero Misreading](concepts/AntiheroMisreading.md) — Cultural pattern where a warning portrait is converted into aspirational iconography.
+- [Alienated Male Violence](concepts/AlienatedMaleViolence.md) — Pattern linking loneliness, resentment, misogyny, racism, political self-righteousness, and weapon attachment to violence as recognition.
 - [RV Ownership Economics](concepts/RVOwnershipEconomics.md) — Rent-versus-buy and new-versus-used frame for RVs, including depreciation, rental cost, customization, pets, and resale uncertainty.
 - [B-Type RV Motorhome](concepts/BTypeRVMotorhome.md) — RV category that keeps the original van body, trading better driving and city use against smaller space and weaker insulation.
 - [RV Travel Logistics](concepts/RVTravelLogistics.md) — Practical operating layer for RV travel: parking, diesel grade, heating, water, electricity, gray/black water, and supply-point planning.
