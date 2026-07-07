@@ -392,6 +392,10 @@ Added source page for a How I Built This episode on Tobias Lütke, Shopify, Snow
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-07] ingest | Vol. 165 做客声东击西：「龙虾」和 vibe coding 正如何改变我们的思维
+
+Added source page for a Fengyan Fengyu/Shengdong Jixi crossover on OpenClaw, vibe coding, Shengdong Huopo's internal AI Hackathon, non-technical AI builders, programmatic thinking, agent proactivity, persistent memory, AI skills, digital employees, prototype-to-production gaps, human judgment, and AI-era training pressure. Created supporting pages for Shengdong Jixi, Shengdong Huopo, Xu Tao, and Wang Junyu; updated overview, index, Fengyan Fengyu, Justin Yan, OpenClaw, Vibe Coding, AI Engineering Thinking, AI Skills, Proactive Agents, Persistent Agent Memory, Digital Employees, Routine Agent Automation, Business-Led AI Transformation, Agent Native Software, On-Demand Apps, Agent Self-Evolution, AI Hackathons, Human Judgment Under AI, and College Career Preparation pages.
+
 ## [2026-07-07] ingest | Vol. 170 Fable 5 重出江湖，GPT 仍需努力
 
 Added source page for a Fengyan Fengyu episode on Fable 5, one-shot AI coding, Codex planning/review workflows, Superpowers versus GrillMe skills, token costs, token-driven software, independent developer opportunities, AI interactive entertainment, and model routing. Created supporting pages for Fable 5, GrillMe Skills, One-Shot AI Coding, Token-Driven Software, and Model Routing Cost Control; updated overview and index.
@@ -587,3 +591,15 @@ Added source page for a 张小珺Jùn｜商业访谈录 episode on Gao Jiyang, X
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-07] graph | Knowledge graph rebuilt
+
+946 nodes, 8631 edges (8631 extracted, 0 inferred).
+
+## [2026-07-07] report | Graph health report generated
+
+946 nodes analyzed.

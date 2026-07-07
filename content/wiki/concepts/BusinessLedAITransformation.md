@@ -2,7 +2,7 @@
 title: "Business-Led AI Transformation"
 type: concept
 tags: [ai, organizations, transformation]
-sources: [openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]
+sources: [openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]
 last_updated: 2026-07-07
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-07
 Business-led AI transformation is the claim that enterprise AI adoption must start from business pain, workflow redesign, and incentive change rather than model access or IT ownership alone. In [[openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6]], [[RollingAI]] argues that technology is no more than one third of enterprise AI transformation. [[weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces]] adds [[BairongIntelligence]]'s operator view: transformation should begin with bounded high-frequency tasks, employee incentives, existing workflow constraints, and agent-callable systems before larger process redesign.
 
 [[ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]] adds a non-enterprise but compatible lesson: AI only improves a workflow when the operator knows the business well enough to decide where AI belongs, what outputs matter, and which human communication or judgment steps must remain outside automation.
+
+[[vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]] adds the media-organization prototype path. [[ShengdongHuopo]]'s AI Hackathon and [[XuTao]]'s news-crawling/topic-recommendation system show that transformation can begin when workflow owners build rough tools themselves, but adoption still depends on deciding what should remain a prototype, what deserves engineering hardening, and which human editorial judgments should stay outside the machine.
 
 ## Key Claims
 - AI implementation fails when CEOs expect unrealistic capability, when IT teams lead without business ownership, or when organizations add AI without changing incentives and role boundaries.
@@ -22,6 +24,7 @@ Business-led AI transformation is the claim that enterprise AI adoption must sta
 - Employee incentives are part of the transformation design: people who teach [[DigitalEmployees]] need rewards rather than only replacement risk.
 - Legacy CRM, order, and office systems must expose APIs before agents can carry real work.
 - Small-business and internal-tool examples show the same logic at smaller scale: business flow, acceptance criteria, and human handoffs come before automation.
+- Employee-built AI prototypes are useful discovery artifacts: they reveal pain points and desired workflows before the organization invests in production engineering.
 
 ## Connections
 - [[RollingAI]] — source company explaining the method.
@@ -31,3 +34,4 @@ Business-led AI transformation is the claim that enterprise AI adoption must sta
 - [[ValidatedLearning]] — adjacent startup principle that progress depends on real behavior and measurable outcomes.
 - [[BairongIntelligence]], [[ZhangShaofeng]], [[ContactCenterAI]], and [[OutcomeBasedAIPricing]] — practical rollout and measurement case.
 - [[AIEngineeringThinking]], [[FrontlineAIEnablement]], and [[HumanJudgmentUnderAI]] — smaller-scale business workflow lesson from the Keji Luandun episode.
+- [[ShengdongHuopo]], [[XuTao]], [[AIHackathons]], and [[AICodingVerification]] — media-company prototype-to-production case added by the Shengdong Jixi crossover.

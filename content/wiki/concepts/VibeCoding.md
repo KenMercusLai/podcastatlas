@@ -2,7 +2,7 @@
 title: "Vibe Coding"
 type: concept
 tags: [ai-coding, software-engineering, learning]
-sources: [ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1]
+sources: [ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1]
 last_updated: 2026-07-07
 ---
 
@@ -15,6 +15,8 @@ Vibe coding is the AI-assisted practice of using coding tools such as [[Cursor]]
 [[ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex]] adds the live-creator version through the [[XiaohongshuHackathonPeakCompetition]]. In that setting, vibe coding expands who can participate in [[AIHackathons]], but it also raises the value of idea selection, design taste, on-site demo quality, and [[BuildingPublic]] because many teams can now make something quickly.
 
 [[vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]] adds a builder-learning version. [[JustinYan]] says his simplified [[OpenClaw]]-like agent was built almost entirely through vibe coding, but the point was not only speed; building the system exposed [[AgentHarness]], [[AISkills]], triggers, permissions, and product architecture in a way that merely using OpenClaw did not.
+
+[[vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]] adds the non-technical workplace version through [[ShengdongHuopo]]'s internal [[AIHackathons]]. [[XuTao]] and colleagues show that vibe coding can help media workers build small workflow tools and clarify requirements, while the episode also stresses the gap between a persuasive prototype and a stable company system that needs architecture, debugging, and [[AICodingVerification]].
 
 [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] adds a saturation version. The hosts describe using [[Codex]], [[ClaudeCode]], and [[Superpowers]] to make small tools, migrate an old game, and automate operations, while also noting that waiting, reviewing, and supervising agents can create physical strain and attention cost.
 
@@ -39,6 +41,8 @@ Vibe coding is the AI-assisted practice of using coding tools such as [[Cursor]]
 - Self-use tools tolerate more rough edges than products for other users; crossing that line creates responsibility for edge cases, reliability, and long-term maintenance.
 - In hackathon settings, faster implementation shifts competitive advantage toward taste, product framing, demo design, hardware integration, and public storytelling.
 - Building a small agent through vibe coding can be a learning method for understanding [[AgentNativeSoftware]] and [[AgentPermissionBoundaries]], not just a way to ship a tool faster.
+- Non-technical users may gain "programmatic thinking" by building small tools; the key shift is learning that a workflow can be decomposed, automated, and improved rather than only described to a chatbot.
+- Vibe coding is especially useful for demand clarification and demos, but production adoption still needs engineering ownership, stability work, and review.
 - Heavy agentic coding can make users more capable while still increasing review work, token usage, and the need to deliberately stop or rest.
 - Small scripts, tool discovery, and one-off utilities may be where AI coding feels most immediately like an engine, because the user can quickly test whether the generated plan works.
 - More visible context can become part of the workflow, because vibe coding often means supervising multiple streams of code, chat, documentation, and review at once.
@@ -57,6 +61,7 @@ Vibe coding is the AI-assisted practice of using coding tools such as [[Cursor]]
 - [[ModelProviderToolCompetition]] — market structure around official tools and editor startups.
 - [[AIHackathons]], [[BuildingPublic]], and [[VibeSong]] — creator-community branch where vibe coding becomes event format and distribution content.
 - [[OpenClaw]], [[JustinYan]], and [[AgentNativeSoftware]] — personal-agent build case added by the Fengyan Fengyu source.
+- [[ShengdongHuopo]], [[XuTao]], [[WangJunyu]], and [[AIHackathons]] — non-technical media-workflow and organization-use case from the Shengdong Jixi crossover.
 - [[Superpowers]], [[Codex]], [[ClaudeCode]], and [[Cloudflare]] — practical acceleration-and-chaos cases from Vol. 166.
 - [[AIProgrammingEngineShift]], [[TaskAsAService]], and [[NeiheKonghuang]] — broader labor and interface shift added by the internal-combustion-era episode.
 - [[DisplayErgonomics]] — episode-72 hardware layer around screen area, DPI, and readable review surfaces.

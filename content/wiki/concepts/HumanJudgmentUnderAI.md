@@ -2,7 +2,7 @@
 title: "Human Judgment Under AI"
 type: concept
 tags: [ai, judgment, work]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
+sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]
 last_updated: 2026-07-07
 ---
 
@@ -28,6 +28,8 @@ Human judgment under AI is the claim that AI can enhance preparation and synthes
 
 [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]] adds the model-hallucination and policy-judgment version. The hosts say even improved models can still make simple numerical mistakes, so users need verification rather than treating model output as authoritative. The same source argues that model companies and policymakers need judgment in how they describe danger, because "AI as weapon" rhetoric can reshape regulation and product availability.
 
+[[vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]] adds a taste-and-training version. [[XuTao]], [[JustinYan]], and [[WangJunyu]] argue that AI is strong on quantifiable, repeatable, process-like tasks, but high-end editorial judgment, product taste, relationship understanding, and creative expression remain harder to compress. The episode also adds a training-path concern: if AI absorbs too many beginner tasks, professions need new ways to build the foundations that later judgment depends on.
+
 ## Key Claims
 - AI is useful for preparation, framing, and organizing context.
 - Live questioning requires internalized understanding, tradeoffs, and expression.
@@ -47,6 +49,8 @@ Human judgment under AI is the claim that AI can enhance preparation and synthes
 - AI tutoring is useful only when the learner remains active enough to ask better questions, notice gaps, and own the final understanding.
 - AI can reduce the labor of making a product-like artifact, but the founder still judges whether the artifact has a buyer, a delivery path, and a supportable legal/commercial structure.
 - Model output still requires verification even after capability gains, and policy rhetoric around model danger also requires human judgment about downstream commercial and geopolitical effects.
+- AI can make tacit standards more explicit, but decomposing taste into criteria is not the same as fully replacing the person whose judgment sets the standard.
+- If AI removes some entry-level practice, organizations and schools need new practice paths so later expert judgment still has a foundation.
 
 ## Connections
 - [[ContextEngineering]] — preparation quality depends on context quality.
@@ -64,3 +68,4 @@ Human judgment under AI is the claim that AI can enhance preparation and synthes
 - [[AIAsTutor]], [[LearningHowToLearn]], and [[CollegeMajorChoice]] — education and student-decision cases added by Vol. 169.
 - [[OnePersonCompany]], [[CustomerPull]], and [[CrossBorderFundTransferRisk]] — founder-operator responsibility case added by the OPC source.
 - [[AICodingVerification]], [[AISafetyNarrativeBackfire]], and [[SaaSReliabilityUnderPolicyRisk]] — verification and policy-judgment case added by the Keji Luandun export-control episode.
+- [[XuTao]], [[WangJunyu]], [[VibeCoding]], and [[CollegeCareerPreparation]] — taste, management, and training-path concerns added by the Shengdong Jixi crossover.

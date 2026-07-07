@@ -2,7 +2,7 @@
 title: "Routine Agent Automation"
 type: concept
 tags: [agents, automation, workflow]
-sources: [ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]
+sources: [ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]
 last_updated: 2026-07-07
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-07
 Routine agent automation is the EP127 pattern of turning repeated, low-glamour work into scheduled or reusable agent routines. In [[ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]], the hosts describe [[AISkills]] paired with automation surfaces such as [[Codex]] Automation, [[OpenCloud]], or similar scheduled-task systems so the agent can check email, summarize podcasts, sync notes, monitor traffic, watch server costs, follow portfolio news, or scan industry changes without a fresh prompt every time.
 
 The concept is narrower than [[DarkOffice]] and [[ServiceAsSoftware]]. It focuses on personal or small-team routines that are boring enough to automate but important enough to repeat. The episode's rule of thumb is close to engineering DRY: if a workflow keeps coming back, the user can package the steps, data sources, tools, and output format as a skill.
+
+[[vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]] adds a media-workflow example through [[XuTao]]'s news-crawling and topic-recommendation prototype. It shows how routine automation can begin as a self-built internal tool, but the same episode warns that reliability and maintenance become engineering issues once the routine feeds company work.
 
 ## Key Claims
 
@@ -21,6 +23,7 @@ The concept is narrower than [[DarkOffice]] and [[ServiceAsSoftware]]. It focuse
 - A routine that writes, replies, trades, publishes, or deploys should keep human review in the loop unless the risk is explicitly bounded.
 - The pattern supports [[AgentSelfEvolution]] when successful repeated workflows are refined into better skills over time.
 - Over-automation can create noise if the user installs fashionable skills without actual recurring demand.
+- A routine prototype can clarify workflow demand before it is safe enough to become shared infrastructure.
 
 ## Connections
 
@@ -30,3 +33,4 @@ The concept is narrower than [[DarkOffice]] and [[ServiceAsSoftware]]. It focuse
 - [[Podwise]] and [[WeChatReading]] — content and note workflows that can become personal knowledge routines.
 - [[AIInvestmentResearch]] — investment monitoring can be automated as research support, but not treated as autonomous judgment.
 - [[HumanJudgmentUnderAI]] — the human still owns decisions, risky outputs, and real-world consequences.
+- [[XuTao]], [[ShengdongHuopo]], and [[AICodingVerification]] — media-workflow routine prototype and reliability boundary from Vol. 165.

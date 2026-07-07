@@ -2,7 +2,7 @@
 title: "Agent Self-Evolution"
 type: concept
 tags: [agents, learning, memory, workflow]
-sources: [dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]
+sources: [dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]
 last_updated: 2026-07-07
 ---
 
@@ -14,6 +14,8 @@ Agent self-evolution is the episode's practical frame for agents improving throu
 
 [[ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]] adds a work-habit version. The hosts argue that skills often emerge from repeated small tasks: when the same email, podcast, testing, deployment, or cost-monitoring workflow returns enough times, the agent or user can turn it into a reusable skill and keep refining it.
 
+[[vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]] adds a user-facing interpretation through [[OpenClaw]]. The episode treats self-evolution less as mystical autonomy and more as an agent repeatedly waking, remembering, using feedback, and improving work methods through [[AISkills]].
+
 ## Key Claims
 - The source's self-evolution is closer to engineering feedback than fully autonomous self-improvement.
 - [[PersistentAgentMemory]] lets agents preserve what worked, what failed, and what the user prefers.
@@ -23,6 +25,7 @@ Agent self-evolution is the episode's practical frame for agents improving throu
 - Self-written skills increase the need for [[AgentPermissionBoundaries]] because the agent can expand its own action surface.
 - Repeated mundane work is a practical source of agent improvement because it exposes stable steps, tools, and acceptance criteria.
 - [[RoutineAgentAutomation]] makes self-evolution visible at the workflow layer: better routines come from observing what keeps recurring and what keeps failing.
+- Scheduled wakeups and feedback loops make self-evolution feel practical to ordinary users because the agent can keep revisiting work instead of waiting for a complete prompt each time.
 
 ## Connections
 - [[HermesAgent]] and [[Tommy]] — source example of memory becoming skills.
@@ -32,3 +35,4 @@ Agent self-evolution is the episode's practical frame for agents improving throu
 - [[HumanJudgmentUnderAI]] — boundary condition that humans still set goals and evaluate outputs.
 - [[OpenClaw]] and [[AgentNativeSoftware]] — personal-agent case where software can add capability to itself.
 - [[RoutineAgentAutomation]] and [[AISkills]] — EP127's repeated-work route to skill accumulation.
+- [[WangJunyu]], [[OpenClaw]], and [[ProactiveAgents]] — Vol. 165's scheduled, memory-based, trainable-agent interpretation.

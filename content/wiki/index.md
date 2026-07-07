@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol. 165 做客声东击西：「龙虾」和 vibe coding 正如何改变我们的思维](sources/vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1.md) — Podcast crossover on OpenClaw, vibe coding, non-technical AI builders, media-company AI hackathons, digital employees, agent skills, human judgment, and prototype-to-production gaps.
 - [132. 对星海图创始人高继扬的3小时访谈：鲶鱼、曾国藩、Waymo与Momenta的两面、一只狼与许华哲的离开](sources/132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan.md) — Podcast episode on Gao Jiyang, Xinghaitu, Waymo, Momenta, whole-machine robotics, real robot data, VLA/VLM architecture, production robot scenarios, and Xu Huazhe's departure.
 - [Vol. 167 Token 如流水，Agent 似朝阳](sources/vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1.md) — Podcast episode on Apple platform AI, App Store subscription commitments, OpenAI/Microsoft cloud shifts, Project Glassfin, token-cost pressure, AI medical marketing risk, AI content provenance, Codex remote control, and IM-based personal agents.
 - [把 AI 吹成核武器的人，亲手拉下了新冷战铁幕](sources/ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1.md) — Podcast episode on Anthropic access restrictions, AI export controls, safety rhetoric backfire, open-model substitution, and AI cold-war framing.
@@ -98,6 +99,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [声东击西](entities/ShengdongJixi.md) — Podcast crossover context where Xu Tao hosts Justin Yan and Wang Junyu on OpenClaw and vibe coding.
+- [声动活泼](entities/ShengdongHuopo.md) — Media organization whose internal AI Hackathon provides the episode's non-technical workflow-automation case.
+- [徐涛](entities/XuTao.md) — Shengdong Jixi host representing the non-technical power-user view of OpenClaw, vibe coding, media workflows, and prototype-to-production gaps.
+- [王俊玉](entities/WangJunyu.md) — Entrepreneur/product voice emphasizing OpenClaw proactivity, memory, skills, digital employees, and AI management capability.
 - [Gao Jiyang](entities/GaoJiyang.md) — Xinghaitu founder whose path through SenseTime, Waymo, and Momenta shapes a pragmatic embodied-AI strategy.
 - [Xinghaitu](entities/Xinghaitu.md) — Embodied-AI robotics startup building whole machines, models, post-training tools, and real-world data loops.
 - [Waymo](entities/Waymo.md) — Autonomous-driving company used as Gao Jiyang's engineering training ground and large-organization contrast case.

@@ -2,7 +2,7 @@
 title: "Digital Employees"
 type: concept
 tags: [ai, enterprise-ai, workforce]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq]
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]
 last_updated: 2026-07-07
 ---
 
@@ -16,6 +16,8 @@ Digital employees are the episode's frame for enterprise AI systems that behave 
 
 [[agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq]] adds a useful counterweight through [[Moxt]]. [[ZhangHaoran]] uses AI coworker language and describes agents with goals, memory, skills, and responsibility, but rejects marketing them as cheaper human replacements. The source keeps the management frame while emphasizing amplification, privacy, and human judgment.
 
+[[vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]] adds a small-company/operator version through [[WangJunyu]] and [[ShengdongHuopo]]. The episode treats useful AI as something that must be managed: people set goals, define process, monitor progress, and decide when a task should become a stable system rather than a prototype. This makes digital employees less a replacement story than a test of whether workers can externalize workflow knowledge into repeatable [[AISkills]] and review loops.
+
 ## Key Claims
 - Enterprise AI needs company context, workflow knowledge, data access, and workbench integration before it can create practical value.
 - AI workers need "teachers" inside the business, such as excellent store managers, salespeople, nutrition coaches, or property managers.
@@ -27,6 +29,7 @@ Digital employees are the episode's frame for enterprise AI systems that behave 
 - [[ContactCenterAI]] is presented as an early measurable digital-employee scene because handoffs, compliance, task volume, and customer satisfaction can be tracked.
 - OpenClaw-like agents suggest that digital employees may need both a social entry point and a controlled execution environment, not just a model endpoint.
 - Moxt adds that the digital-worker metaphor needs a value boundary: role-specific agents can act like coworkers without turning the product message into replacement-first labor arbitrage.
+- The Shengdong Jixi crossover adds that managing agents resembles front-line management: a user must assign goals, describe process, inspect output, and decide which responsibilities remain human.
 
 ## Connections
 - [[ForwardDeployedEngineer]] — role that onboards and manages digital employees inside enterprises.
@@ -38,3 +41,4 @@ Digital employees are the episode's frame for enterprise AI systems that behave 
 - [[BairongIntelligence]], [[ZhangShaofeng]], [[DarkOffice]], and [[ContactCenterAI]] — operator case and bounded early deployment scene.
 - [[OpenClaw]], [[IMAgentInterfaces]], [[LocalAgentExecution]], and [[OutcomeBasedAIPricing]] — startup-opportunity and labor-pricing frame added by the 20-question source.
 - [[Moxt]], [[AICoworkers]], [[OrganizationalContext]], and [[HumanJudgmentUnderAI]] — amplification-oriented coworker framing added by the Moxt source.
+- [[WangJunyu]], [[ShengdongHuopo]], [[AISkills]], and [[AIEngineeringThinking]] — small-team management and workflow-prototype case added by the Shengdong Jixi crossover.
