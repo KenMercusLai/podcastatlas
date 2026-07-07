@@ -2,13 +2,13 @@
 title: "Third-Party Wealth Platform Risk"
 type: concept
 tags: [finance, wealth-management, fraud, incentives, career]
-sources: [ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq]
+sources: [ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq, ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm]
 last_updated: 2026-07-07
 ---
 
 # Third-Party Wealth Platform Risk
 
-Third-party wealth platform risk is the combined product, sales-incentive, platform-solvency, and legal-exposure risk that appears when bank or finance workers move client resources into outside wealth-management, private-equity, P2P-like, or high-yield platforms. [[ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq]] connects this risk to the [[ZhongzhiGroup]] news hook and to cases where former bank staff were drawn by doubled base salary, platform status, high commissions, and unusually rich product narratives.
+Third-party wealth platform risk is the combined product, sales-incentive, platform-solvency, and legal-exposure risk that appears when bank or finance workers move client resources into outside wealth-management, private-equity, P2P-like, or high-yield platforms. [[ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq]] connects this risk to the [[ZhongzhiGroup]] news hook and to cases where former bank staff were drawn by doubled base salary, platform status, high commissions, and unusually rich product narratives. [[ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm]] broadens the pattern to consumer-facing fraud: investment groups, fake internal wealth plans, and insurance intermediaries can all move customers from a trusted entry point into an outside counterparty.
 
 ## Key Claims
 - High promised return and high salesperson commission are a risk signal when they coexist; the economics have to support both customer return and distribution payout.
@@ -17,6 +17,8 @@ Third-party wealth platform risk is the combined product, sales-incentive, platf
 - Legal representative status, branch leadership, and team/resource migration can make an employee more exposed when the platform collapses or is investigated.
 - The risk is not only that customers lose money; the worker may lose license, reputation, employment options, savings, or personal freedom.
 - A platform that seems to respect a financial worker's value may actually be buying access to their customer trust and institutional credibility.
+- Customers should treat any request to transfer funds from an insurer, bank, broker, or familiar app into an unrelated company account as a new counterparty decision.
+- Early payouts or successful small transactions can be designed to overcome doubts before larger money is moved.
 
 ## Connections
 - [[FinancialCareerRisk]] — career-level frame for deciding whether outside-platform opportunity is worth the exposure.
@@ -25,3 +27,4 @@ Third-party wealth platform risk is the combined product, sales-incentive, platf
 - [[InvestorEducation]] — customers and sales staff need to understand product risk, not just return illustrations.
 - [[InvestmentRiskManagement]] — product selection should account for downside, liquidity, and counterparty quality.
 - [[BankingComplianceBoundaries]] — outside referrals and product promotion can cross institutional boundaries.
+- [[InvestmentFraudRedFlags]], [[InsurancePolicyLoanFraud]], and [[FakeInvestmentPlatformRisk]] — EP64's consumer-facing platform and intermediary extensions.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP64 投资路上踩坑无数，如今的我刀枪不入](sources/ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm.md) — Podcast episode on investment fraud red flags, fake platforms, stock-tip groups, elderly-care property traps, insurance policy-loan fraud, and investor responsibility.
 - [Advice Line with Tim Ferriss (August 2025)](sources/advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943.md) — Podcast episode on Tim Ferriss, Coyote, Gob, EB&Co, K Becker, channel focus, venue partnerships, wholesale testing, made-to-order apparel, and founder identity diversification.
 - [EP69 AI时代来临，投资不再是单机模式](sources/ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn.md) — Podcast episode on Tang Haocheng, AI investment assistants, market expectation gaps, retail-investor behavioral biases, decision logging, and turning investing from solo judgment into human-AI research workflow.
 - [EP77 四十万年薪，副业赚了三十四亿，特朗普教你如何搞钱](sources/ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab.md) — Podcast episode on Donald Trump, political influence monetization, DJT/Truth Social, family crypto vehicles, Kushner's Saudi-backed fund, foreign gifts, brand licensing, media settlements, and political identity premiums.
@@ -472,6 +473,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Investment Fraud Red Flags](concepts/InvestmentFraudRedFlags.md) — Warning signs such as high easy returns, small early payouts, staged social proof, authority packaging, opaque contracts, and unfamiliar fund routes.
+- [Fake Investment Platform Risk](concepts/FakeInvestmentPlatformRisk.md) — Risk that displayed balances, prices, trades, or withdrawals belong to a false or manipulated investment platform rather than a real venue.
+- [Stock Tip Group Risk](concepts/StockTipGroupRisk.md) — Risk from teacher-led stock groups, screenshots, VIP fees, insider claims, and gain-sharing guidance where advice incentives are asymmetric.
+- [Elderly Care Financial Fraud](concepts/ElderlyCareFinancialFraud.md) — Exploitation of retirement anxiety, property documents, seminar trust, and "house-for-pension" or retirement-real-estate narratives.
+- [Insurance Policy Loan Fraud](concepts/InsurancePolicyLoanFraud.md) — Use of legitimate policies, pledges, or loans as bridges into unrelated high-risk or fraudulent investment arrangements.
 - [Earnings Expectation Gap](concepts/EarningsExpectationGap.md) — Investing problem where reported growth can disappoint if expectations, guidance, or valuation already priced in stronger results.
 - [Behavioral Investing Biases](concepts/BehavioralInvestingBiases.md) — Loss aversion, confirmation bias, herding, anchoring, and related investor psychology that distort research and trading.
 - [Investment Decision Logging](concepts/InvestmentDecisionLogging.md) — Practice of recording thesis, evidence, risks, catalysts, and invalidation conditions so investment decisions can be reviewed.
