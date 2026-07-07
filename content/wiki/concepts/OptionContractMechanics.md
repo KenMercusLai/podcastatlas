@@ -10,7 +10,7 @@ last_updated: 2026-07-08
 
 Option contract mechanics are the basic rights-and-obligations structure behind calls and puts. [[ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p]] explains the idea through World Cup ticket rights: a call option resembles paying a premium for the right to buy later at an agreed price, while a put option resembles paying for protection against a later price drop.
 
-The key distinction is buyer versus seller. The buyer pays [[OptionPremiumPricing|premium]] for a choice; the seller receives premium but accepts an obligation if the option is exercised. That asymmetry is why options can be used for hedging, speculation, income, or structured risk transfer.
+The key distinction is buyer versus seller. The buyer pays [[OptionPremiumPricing]] premium for a choice; the seller receives premium but accepts an obligation if the option is exercised. That asymmetry is why options can be used for hedging, speculation, income, or structured risk transfer.
 
 ## Key Claims
 - Calls give the buyer upside exposure if the underlying rises above the strike price before expiration.

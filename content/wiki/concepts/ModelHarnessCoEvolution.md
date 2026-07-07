@@ -2,8 +2,8 @@
 title: "Model Harness Co-Evolution"
 type: concept
 tags: [models, agents, harnesses]
-sources: [duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]
-last_updated: 2026-07-06
+sources: [duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di]
+last_updated: 2026-07-08
 ---
 
 # Model Harness Co-Evolution
@@ -14,6 +14,8 @@ Model harness co-evolution is the view that model capability and agent or harnes
 
 [[dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]] adds a stronger model-company loop through [[MiniMax]], [[Adao]], and [[Zeying]]. The source says model plus harness can do a large share of model-development pipeline work, while humans keep direction, taste, creativity, and final judgment.
 
+[[e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di]] adds [[Apodex]]'s self-evolution version. [[LiBeibin]] says harness and post-training should improve together: after a model changes, the scaffold that plans, searches, verifies, and decomposes tasks may need to change too. This makes co-evolution part of [[RecursiveSelfImprovement]], not only an application-agent design pattern.
+
 ## Key Claims
 - Better models make stronger agents possible.
 - Better agents and harnesses expose real tasks, feedback, tool constraints, and failure modes that influence what models need to learn.
@@ -23,6 +25,8 @@ Model harness co-evolution is the view that model capability and agent or harnes
 - Harnesses can become negative leverage if they over-manage context, rewrite prompts carelessly, or encode flow assumptions that stronger models no longer need.
 - [[InterleavedThinking]] and tool feedback are model-side capabilities that make harness feedback useful rather than static.
 - [[AgentSelfEvolution]] is the operational version of co-evolution: memory, skills, tests, and real workflows improve future model-agent behavior.
+- In self-improving model pipelines, the harness is both a tool for improvement and a moving target that must adapt to the new model's behavior.
+- A harness can push a model toward bad habits if it overweights one behavior, such as searching before decomposing the problem.
 
 ## Connections
 - [[MiniMax]] and [[MiniMaxM3]] — company and model context for the argument.
@@ -32,3 +36,4 @@ Model harness co-evolution is the view that model capability and agent or harnes
 - [[AIInterpretabilityByAI]] — long-term question of whether stronger intelligence can help explain intelligence itself.
 - [[AgentHarness]], [[ClaudeCode]], and [[KComputer]] — concrete harness design examples added by the Lai Xinlu source.
 - [[HermesAgent]], [[InterleavedThinking]], and [[AgentSelfEvolution]] — memory, reasoning, and improvement-loop examples added by the Hermes Agent source.
+- [[Apodex]], [[RecursiveSelfImprovement]], [[DeepResearch]], and [[AIVerification]] — post-training and harness co-evolution case added by the Silicon Valley 101 source.

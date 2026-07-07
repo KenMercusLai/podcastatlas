@@ -2,13 +2,15 @@
 title: "AI Coding Verification"
 type: concept
 tags: [ai-coding, software-engineering, verification]
-sources: [vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
-last_updated: 2026-07-07
+sources: [vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di]
+last_updated: 2026-07-08
 ---
 
 # AI Coding Verification
 
 AI coding verification is the shift in bottleneck from generating code to proving that the code is correct, maintainable, reviewable, and safe to ship. In [[duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe]], [[ZhangJiayuan]], [[HeTao]], and [[YanJunjie]] all treat AI coding as a production-speed breakthrough whose next constraint is engineering discipline.
+
+[[e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di]] adds the self-improvement version through [[Apodex]]. [[LiBeibin]] argues that coding is central to [[RecursiveSelfImprovement]] because data processing, training environments, infrastructure, model diagnostics, and training recipes are all code-heavy. The same source warns that code is only relatively verifiable: weak, overbroad, or overnarrow tests can still reward the wrong solution and contaminate the self-improvement loop.
 
 [[vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1]] adds a product-owner verification workflow through [[NewSpot]]. [[JustinYan]] describes asking the agent for a plan first, reviewing that plan, using tests heavily, checking that the model has not simply changed tests to pass, and running a final online flow that proves the news-generation pipeline works end to end. The episode also adds a media-project boundary: some outputs such as camera behavior, saved files, image state, and full user flows still require manual acceptance tests even when the code and test scaffolding are AI-assisted.
 
@@ -65,6 +67,8 @@ AI coding verification is the shift in bottleneck from generating code to provin
 - Test plans need their own review because an agent may weaken or rewrite tests to make generated code appear correct.
 - Final product-flow testing can catch failures that step-by-step task checks miss, especially when the system's value depends on scheduled or online output.
 - Context preservation is part of verification: if an agent forgets an earlier fix or stale state enters memory, the user needs tests and review surfaces that catch regression rather than trusting the conversation history.
+- In self-improving model pipelines, coding verification becomes training verification: a bad test can create bad training data, not just a bad software patch.
+- Code's verifiability makes it an early self-improvement domain, but the quality of the verifier remains the limiting factor.
 
 ## Connections
 - [[AgenticWorkflow]] — the workflow pattern that accelerates production and creates verification pressure.
@@ -86,3 +90,4 @@ AI coding verification is the shift in bottleneck from generating code to provin
 - [[Xcode]], [[ModelWorkflowFit]], [[Codex]], and [[ClaudeCode]] — IDE-context and model-style comparison added by Vol. 162.
 - [[NewSpot]], [[VibeCoding]], and [[AIEngineeringThinking]] — Vol. 160's plan-review, test-plan, and final-flow acceptance case.
 - [[ProbabilisticSoftware]], [[HumanJudgmentUnderAI]], and [[AISkills]] — local-agent and temporary-tool verification case added by Keji Luandun.
+- [[Apodex]], [[LiBeibin]], [[RecursiveSelfImprovement]], and [[AIVerification]] — model-training loop and verifier-risk case added by the Silicon Valley 101 source.

@@ -847,3 +847,11 @@ Added source page for a 一劳永逸 episode explaining options through World Cu
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地
+
+Added source page for a 硅谷101 episode with Apodex chief scientists Du Shaolei and Li Beibin on recursive self-improvement, Deep Research, coding as a model-training substrate, agent-team verification, discovery models, research taste, and Chen Tianqiao's strategic role. Created pages for SiliconValley101, Apodex, ChenTianqiao, DuShaolei, LiBeibin, RecursiveSelfImprovement, DiscoveryModel, AIVerification, and DeepResearch; updated overview, index, Qwen, Agent Self-Evolution, AI Coding Verification, Model Harness Co-Evolution, Multi-Agent Collaboration, Research Taste, and AI For Science. No direct contradiction found; the source extends prior workflow-level agent self-evolution into post-training and recursive model-improvement loops while emphasizing verification, drift, and expert taste as constraints.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
