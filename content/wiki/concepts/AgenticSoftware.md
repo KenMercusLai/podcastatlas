@@ -2,8 +2,8 @@
 title: "Agentic Software"
 type: concept
 tags: [agents, software-design, product]
-sources: [vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]
-last_updated: 2026-07-07
+sources: [vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]
+last_updated: 2026-07-08
 ---
 
 # Agentic Software
@@ -12,12 +12,15 @@ Agentic software is the Vol. 164 [[FengyanFengyu]] frame for software designed a
 
 The concept overlaps with [[AgentNativeSoftware]], but is slightly broader. Agent-native software describes products whose core substrate is the agent; agentic software also covers the transition path where existing SaaS products, operating systems, and platforms expose [[AtomicCapabilityServices]] and [[AgentFacingInterfaces]] so agents can assemble task-specific behavior.
 
+[[e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]] adds a market-structure consequence: if agents operate software through [[LanguageUserInterface]], [[ModelContextProtocol]], and [[AISkills]], incumbent software vendors may lose some GUI entry value and some hidden workflow know-how even if their underlying systems remain useful.
+
 ## Key Claims
 - The interaction model shifts from clear input-output buttons toward ambiguous goals, tool choice, generated interfaces, and iterative human review.
 - Traditional GUI still matters for inspection, trust, and presentation, but the core capability should become callable and recombinable by agents.
 - Platform review systems such as [[AppStore]] can become bottlenecks if they assume every app behavior is fixed before review.
 - The pattern depends on [[ContextEngineering]], [[PersistentAgentMemory]], permissions, and bounded verification; otherwise the agent can confidently assemble the wrong workflow.
 - Mature agentic software may serve small groups, personal habits, and vertical workflows that fixed maximum-common-denominator software would not support economically.
+- Agentic software can make workflow knowledge more explicit and portable, pressuring software products whose moat is mainly learned UI and embedded process.
 
 ## Connections
 - [[AgentNativeSoftware]] — adjacent product frame where the agent is the product substrate.
@@ -26,3 +29,4 @@ The concept overlaps with [[AgentNativeSoftware]], but is slightly broader. Agen
 - [[HeadlessSoftware]] and [[AgentFacingInterfaces]] — interface and callable-surface requirements.
 - [[OnDemandApps]], [[GeneratedWorkInterfaces]], and [[TokenDrivenSoftware]] — downstream forms of dynamic software behavior.
 - [[AICodingVerification]], [[HumanJudgmentUnderAI]], and [[AICommunicationAbility]] — disciplines needed when agents generate software behavior and code.
+- [[LanguageUserInterface]], [[ModelContextProtocol]], and [[AISkills]] — E155's language, connector, and process-package layer.

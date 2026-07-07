@@ -731,3 +731,11 @@ Added source page for a Keji Luandun episode on practical tech purchases, coveri
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | E155.似乎没什么人再提「AI 泡沫论」了
+
+Added source page for a 面基 episode on AI-bubble skepticism cooling, tokens as a generative-AI usage metric, CAPEX/contract-liability/deferred-revenue/ARR validation, Anthropic's MCP/Skills/Claude agent route, LUI pressure on software, human-resource deflation converting into compute-infrastructure inflation, AI energy constraints, Holo assets, and Hang Seng Tech's lack of hard-asset attributes. Created AI Investment Metrics, Jevons Paradox In AI, Model Context Protocol, Language User Interface, CAPEX OPEX Substitution, Human Resource Deflation Compute Infrastructure Inflation, and Holo Assets; updated overview, index, 面基, Anthropic, OpenAI, Google, ChatGPT, Claude Code, Nvidia, Hang Seng Tech Index, AI Inference Cost Structure, MaaS Infrastructure, AI Skills, Headless Software, Agentic Software, AI Equity Valuation Risk, AI Compute Continuity, and Data Center Physical Resilience. No direct contradiction found; the source qualifies prior AI bubble and valuation-risk material by adding more measurable business indicators while preserving entry-price and data-verification cautions.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

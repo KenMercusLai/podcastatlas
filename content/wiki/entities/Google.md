@@ -2,8 +2,8 @@
 title: "Google"
 type: entity
 tags: [company, ai, platform, mobile]
-sources: [ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug]
-last_updated: 2026-07-07
+sources: [ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]
+last_updated: 2026-07-08
 ---
 
 # Google
@@ -17,6 +17,8 @@ Google is the company context for [[Gemini]], [[GeminiCLI]], and [[GoogleDeepMin
 [[no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376]] makes that mobile-era platform loop concrete through [[Android]]. In the episode, Google's 2005 Android acquisition and the 2008 first Android phone become strategically important because Android gave non-[[Apple]] handset makers an open platform after [[IPhone]] changed user expectations.
 
 [[ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug]] mentions Google through Google Play as the comparison case for [[AppStoreOptimization]]. [[Una]] says the two stores share metadata and behavioral ranking concerns, but Google Play lacks the [[AppStore]] 100-character keyword field and relies more on natural title, short-description, long-description, download, retention, and rating signals.
+
+[[e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]] adds Google as part of the frontier-model competitive rotation. The episode notes that investor attention has shifted among Microsoft, [[OpenAI]], Google, and [[Anthropic]], using Google to show that model-company winners are not obvious when product routes, cloud infrastructure, consumer entry, and enterprise workflows keep changing.
 
 ## Source Position
 - Google is treated as technically strong but organizationally and product-wise hard to read from the outside.
@@ -35,3 +37,4 @@ Google is the company context for [[Gemini]], [[GeminiCLI]], and [[GoogleDeepMin
 - [[Android]], [[HTC]], [[Samsung]], and [[SmartphoneOperatingSystemEcosystems]] — mobile-platform context added by the handset-history source.
 - [[AppStoreOptimization]] and [[AppStoreKeywordStrategy]] — comparison point for Google Play's app-store metadata and behavioral ranking signals.
 - [[Gemini]], [[Siri]], [[AgenticCommerce]], [[WorldModels]], and [[MaaSInfrastructure]] — model, assistant, commerce, generated-world, and infrastructure themes added by Vol. 162.
+- [[OpenAI]], [[Anthropic]], [[AIInvestmentMetrics]], and [[MaaSInfrastructure]] — E155's competitive-landscape and infrastructure-metric frame.

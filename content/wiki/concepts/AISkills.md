@@ -2,8 +2,8 @@
 title: "AI Skills"
 type: concept
 tags: [skills, agents, workflow]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
-last_updated: 2026-07-07
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]
+last_updated: 2026-07-08
 ---
 
 # AI Skills
@@ -28,6 +28,8 @@ AI skills are reusable instructions and process packages that help an AI complet
 
 [[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] adds a product-prototype path from conversation to skill. The hosts describe tweaking an agent's behavior through natural language until it reliably handles article selection, translation, note saving, or todo aggregation; once repeated, that behavior can become a reusable workflow asset even if it is not identical to a formal skill file.
 
+[[e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]] adds the business-software and personal-skill disruption angle. The episode argues that B2B software know-how can become explicit, shareable, and repackaged as skills, weakening software moats based on hidden workflow knowledge. It also gives a personal example where a data-visualization workflow becomes a skill, creating the feeling that years of craft can be compressed into a reusable procedure.
+
 ## Key Claims
 - A useful skill is more than style imitation.
 - Skills become more valuable when tied to [[AgenticWorkflow]] and real tools.
@@ -48,6 +50,7 @@ AI skills are reusable instructions and process packages that help an AI complet
 - Skill bloat is a real context and behavior risk; unused fashionable skills should be removed when they do not match actual recurring work.
 - The stronger the model, the more important skill loading discipline becomes: [[Fable5]] can do more in one pass, but automatically wrapping every task in a heavy process can waste [[AIInferenceCostStructure]].
 - Skills can emerge from repeated personal-agent conversations, but should be hardened into deterministic tools or explicit procedures once the workflow becomes stable enough to justify engineering.
+- Skills can expose business-process know-how that previously lived inside software vendors, consultants, or individual experts.
 
 ## Connections
 - [[ContextEngineering]] — skills package and reuse context.
@@ -66,3 +69,4 @@ AI skills are reusable instructions and process packages that help an AI complet
 - [[RoutineAgentAutomation]], [[Playwright]], and [[WeChatReading]] — repeated automation, verification, and personal knowledge cases added by EP127.
 - [[GrillMeSkills]], [[Superpowers]], [[Fable5]], and [[ModelRoutingCostControl]] — manual skill-selection and token-control contrast added by Vol. 170.
 - [[IMAgentInterfaces]], [[OpenClaw]], [[HermesAgent]], and [[PersistentAgentMemory]] — conversation-to-workflow asset path added by Vol. 167.
+- [[ModelContextProtocol]], [[LanguageUserInterface]], and [[HeadlessSoftware]] — E155's skill-plus-connectivity and software-moat disruption frame.

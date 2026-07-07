@@ -2,8 +2,8 @@
 title: "Nvidia"
 type: entity
 tags: [company, ai, semiconductors, investing]
-sources: [ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]
-last_updated: 2026-07-07
+sources: [ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]
+last_updated: 2026-07-08
 ---
 
 # Nvidia
@@ -19,6 +19,8 @@ Nvidia is discussed in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-y
 [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]] adds Nvidia as the hardware comparison for [[AIExportControls]]. The hosts argue that physical GPU export restrictions are at least legible through manufacturing and shipping chains, while model APIs, code, and weights are harder to regulate with the same tools.
 
 [[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] adds Nvidia as an ecosystem-building contrast to slower platform cycles. The hosts frame [[JensenHuang]] as having treated GPU naming, academic support, and AI infrastructure as long-term ecosystem work, making Nvidia a case of informed FOMO rather than surface-level trend chasing.
+
+[[e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]] adds Nvidia through the "five-layer cake" AI infrastructure frame. The episode uses chips, data centers, energy, cooling, and power demand to argue that AI token growth can turn [[HumanResourceDeflationComputeInfrastructureInflation]] into demand for hard infrastructure and [[HoloAssets]], while still leaving stock valuation subject to [[AIEquityValuationRisk]].
 
 ## Source Position
 - The episode treats Nvidia as a strong company, not as a fraud or failed business.
@@ -42,3 +44,4 @@ Nvidia is discussed in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-y
 - [[SMIC]] and [[TSMC]] — semiconductor comparison and foundry benchmark.
 - [[AIExportControls]], [[PGP]], and [[FrontierModelAccessRestrictions]] — hardware-versus-information control comparison added by the Keji Luandun export-control episode.
 - [[JensenHuang]], [[AIInferenceCostStructure]], and [[AgenticSoftware]] — Vol. 164 infrastructure and ecosystem-building context.
+- [[HoloAssets]], [[CAPEXOPEXSubstitution]], [[AIComputeContinuity]], and [[AIInvestmentMetrics]] — E155's chips-to-energy investment frame.

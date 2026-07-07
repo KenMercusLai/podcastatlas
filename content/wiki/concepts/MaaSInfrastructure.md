@@ -2,7 +2,7 @@
 title: "MaaS Infrastructure"
 type: concept
 tags: [ai, infrastructure, maas]
-sources: [1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
+sources: [1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]
 last_updated: 2026-07-08
 ---
 
@@ -16,6 +16,8 @@ The concept extends [[AIInferenceCostStructure]]. Cost structure explains why to
 
 [[chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]] adds the physical continuity layer. If dense GPU data centers, power, cooling, regional network paths, or operating staff are disrupted by conflict, MaaS reliability fails even when model quality and serving software are strong. This turns [[AIComputeContinuity]] and [[DataCenterPhysicalResilience]] into part of the MaaS platform problem.
 
+[[e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]] adds the investment-metric layer. MaaS infrastructure is not only a technical serving problem; it is part of the loop where CAPEX creates model capacity, model capacity creates token growth, and token growth should eventually show up in [[AIInvestmentMetrics]] such as ARR, contract liabilities, deferred revenue, and AI-native revenue.
+
 ## Key Claims
 
 - Token count is a weak standalone metric because embedding, small-model, and deep-reasoning tokens have different cost and value.
@@ -27,6 +29,7 @@ The concept extends [[AIInferenceCostStructure]]. Cost structure explains why to
 - If AI becomes utility-like infrastructure, model diversity, speed, price, safety, and service reliability may matter as much as a single best model.
 - Cloud, chip, power, and product demand can become bundled advantages when model providers need guaranteed capacity and hyperscalers need captive AI workloads.
 - AI serving continuity depends on region-level physical infrastructure, so geopolitics and site resilience can affect practical token availability.
+- AI infrastructure spending becomes more convincing when token growth and revenue metrics move together rather than when CAPEX rises alone.
 
 ## Connections
 
@@ -38,3 +41,4 @@ The concept extends [[AIInferenceCostStructure]]. Cost structure explains why to
 - [[FrontierModelScaling]] — related training-side pressure; MaaS infrastructure is the deployment and serving counterpart.
 - [[Amazon]], [[Anthropic]], [[OpenAI]], [[Microsoft]], and [[Google]] — cloud-chip and model-provider binding cases added by Vol. 162.
 - [[AIComputeContinuity]], [[DataCenterPhysicalResilience]], and [[DigitalInfrastructureWarRisk]] — physical continuity layer added by the Keji Luandun data-center episode.
+- [[AIInvestmentMetrics]], [[CAPEXOPEXSubstitution]], [[JevonsParadoxInAI]], and [[HoloAssets]] — E155's business-flywheel and hard-asset extension.
