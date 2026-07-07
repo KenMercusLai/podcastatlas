@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bayo Akomolafe: The Untimely](sources/bayo-akomolafe-the-untimely-cenyca-k7ry.md) — Long Now talk on the untimely, modern time discipline, Yoruba twin cosmology, colonial temporal discipline, fugitive temporality, autistic time, ancestry, and attention.
 - [Claire Isabel Webb & Nina Miolane: The Geometry of Consciousness](sources/claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk.md) — Long Now talk on neural geometry, population coding, spatial-navigation tori, Fourier spatial encoding, sleep-state geometry, AI interpretability, and consciousness measurement limits.
 - [Eric Ries: Incorruptible by Design](sources/eric-ries-incorruptible-by-design-wrgromn5peq.md) — Long Now talk on financial gravity, human-flourishing profit, steward ownership, benefit trusts, private regulatory power, AI alignment governance, and everyday agency.
 - [Melody Jue: Ocean Memory](sources/melody-jue-ocean-memory-wxagwid1oeg.md) — Long Now talk on ocean memory, milieu-specific analysis, underwater chemosensation, ecological memory, multispecies archives, art-science collaboration, and acidification as sensory and memory disruption.
@@ -146,6 +147,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Bayo Akomolafe](entities/BayoAkomolafe.md) — Long Now speaker developing the untimely as a decolonial critique of modern time, clock discipline, ancestry, disability, and attention.
+- [Orland Bishop](entities/OrlandBishop.md) — Interlocutor in Akomolafe's autistic-time story, challenging the imposition of neurotypical calendar discipline.
+- [Eshu](entities/Eshu.md) — Yoruba trickster figure used by Akomolafe to think decolonization from within the ship, the clock, and modernity's incompleteness.
+- [Great Dismal Swamp](entities/GreatDismalSwamp.md) — Fugitive place used as an example of life worlds beyond plantation clock time and colonial ledgers.
 - [Nina Miolane](entities/NinaMiolane.md) — Long Now speaker developing a geometric and mathematical theory of intelligence across brains and artificial neural networks.
 - [Claire Isabel Webb](entities/ClaireIsabelWebb.md) — Long Now interviewer framing the neural-geometry discussion around consciousness, AI, affect, time, and social complexity.
 - [Incorruptible](entities/Incorruptible.md) — Eric Ries book arguing that companies need governance, ownership, accountability, and institutional design to resist financial gravity.
@@ -822,6 +827,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, and Louis Hong episodes.
 
 ## Concepts
+- [The Untimely](concepts/TheUntimely.md) — Bayo Akomolafe's frame for excess, residue, cracks, and unknown tasks produced inside modern time rather than outside it.
+- [Modern Time Discipline](concepts/ModernTimeDiscipline.md) — Clock, calendar, productivity, progress, and catch-up order treated as a cultural-political story rather than neutral measurement.
+- [Yoruba Twin Cosmology](concepts/YorubaTwinCosmology.md) — Story frame destabilizing first/second, older/younger, messenger/successor chronology and grounding the Idowu figure.
+- [Colonial Temporal Discipline](concepts/ColonialTemporalDiscipline.md) — Racialized command time of the ship, whip, plantation bell, market ledger, and forced rhythm.
+- [Fugitive Temporality](concepts/FugitiveTemporality.md) — Escape routes, gaps, misbehavior, sanctuary, and life worlds that exceed dominant clock and plantation time.
+- [Autistic Time](concepts/AutisticTime.md) — Neurodivergent temporal challenge to neurotypical calendar discipline, grounded in Akomolafe's story about his son.
+- [Ancestrality](concepts/Ancestrality.md) — Non-nostalgic ancestry as the immediacy of other bodies in the room against progress-as-catch-up narratives.
+- [Attention As Weather](concepts/AttentionAsWeather.md) — Attention treated as an atmosphere or geology shaped by status, race, credentials, and modern value.
 - [Mathematical Theory Of Intelligence](concepts/MathematicalTheoryOfIntelligence.md) — Nina Miolane's research program for equations explaining shared computational structure across brains and artificial neural networks.
 - [Neural Geometry](concepts/NeuralGeometry.md) — Analysis of collective neural activity as shapes, manifolds, and trajectories in high-dimensional spaces.
 - [Population Coding](concepts/PopulationCoding.md) — View that groups of neurons jointly encode perception, location, action, or internal state.

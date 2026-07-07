@@ -2,13 +2,15 @@
 title: "Long Now"
 type: entity
 tags: [organization, long-termism, governance, science]
-sources: [indy-johar-civilizational-optioneering-tyeyt7r-zfu, stefan-sagmeister-finally-something-good-yqqxftsvema, melody-jue-ocean-memory-wxagwid1oeg, eric-ries-incorruptible-by-design-wrgromn5peq, claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk]
+sources: [bayo-akomolafe-the-untimely-cenyca-k7ry, indy-johar-civilizational-optioneering-tyeyt7r-zfu, stefan-sagmeister-finally-something-good-yqqxftsvema, melody-jue-ocean-memory-wxagwid1oeg, eric-ries-incorruptible-by-design-wrgromn5peq, claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk]
 last_updated: 2026-07-08
 ---
 
 # Long Now
 
-Long Now is the host context for [[indy-johar-civilizational-optioneering-tyeyt7r-zfu]], where [[IndyJohar]] presents a talk on civilizational optioneering; for [[stefan-sagmeister-finally-something-good-yqqxftsvema]], where [[StefanSagmeister]] presents a talk on [[InformedOptimism]] and progress communication; for [[melody-jue-ocean-memory-wxagwid1oeg]], where [[MelodyJue]] presents [[OceanMemory]] as an ocean-humanities and multispecies memory question; for [[eric-ries-incorruptible-by-design-wrgromn5peq]], where [[EricRies]] presents [[Incorruptible]] as a governance-design argument; and for [[claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk]], where [[NinaMiolane]] presents a geometric neuroscience route to a [[MathematicalTheoryOfIntelligence]]. Together, the sources frame long-term thinking as a civilizational-coordination problem, an attention problem, a problem of sensing nonhuman futures, an institutional-design problem, and a scientific problem of how minds and machines can be understood.
+Long Now is the host context for [[bayo-akomolafe-the-untimely-cenyca-k7ry]], where [[BayoAkomolafe]] presents [[TheUntimely]] as a critique of modern time; for [[indy-johar-civilizational-optioneering-tyeyt7r-zfu]], where [[IndyJohar]] presents a talk on civilizational optioneering; for [[stefan-sagmeister-finally-something-good-yqqxftsvema]], where [[StefanSagmeister]] presents a talk on [[InformedOptimism]] and progress communication; for [[melody-jue-ocean-memory-wxagwid1oeg]], where [[MelodyJue]] presents [[OceanMemory]] as an ocean-humanities and multispecies memory question; for [[eric-ries-incorruptible-by-design-wrgromn5peq]], where [[EricRies]] presents [[Incorruptible]] as a governance-design argument; and for [[claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk]], where [[NinaMiolane]] presents a geometric neuroscience route to a [[MathematicalTheoryOfIntelligence]]. Together, the sources frame long-term thinking as a temporal-politics problem, a civilizational-coordination problem, an attention problem, a problem of sensing nonhuman futures, an institutional-design problem, and a scientific problem of how minds and machines can be understood.
+
+The Akomolafe source adds the time-discipline and decolonial side of long-term thinking. [[ModernTimeDiscipline]], [[YorubaTwinCosmology]], [[ColonialTemporalDiscipline]], [[FugitiveTemporality]], [[AutisticTime]], [[Ancestrality]], and [[AttentionAsWeather]] question whether countdowns, progress stories, and alternative temporalities still leave modernity's logic of mastery intact.
 
 The talk challenges a preservation-only version of long-termism. Instead, it asks what should be maintained so that a self-aware planet retains many possible futures. That makes [[PlanetarySelfAwareness]] a bridge between the wiki's space, AI, governance, and ecology themes rather than only a time-horizon institution.
 
@@ -22,11 +24,13 @@ The Miolane source adds the neuroscience and AI-interpretability side of long-te
 
 ## Connections
 - [[IndyJohar]] and [[DarkMatterLabs]] — speaker and organizational context.
+- [[BayoAkomolafe]], [[OrlandBishop]], [[Eshu]], and [[GreatDismalSwamp]] — speaker, named interlocutor, mythic figure, and fugitive place in the untimely source branch.
 - [[StefanSagmeister]], [[LisaKSolomon]], and [[FinallySomethingGood]] — design-and-progress source branch.
 - [[MelodyJue]] and [[OceanMemoryProject]] — ocean-humanities and art-science source branch.
 - [[EricRies]] and [[Incorruptible]] — institutional-design and mission-governance source branch.
 - [[NinaMiolane]] and [[ClaireIsabelWebb]] — speaker and interviewer for the neural-geometry and consciousness source branch.
 - [[CivilizationalOptionality]] — source's proposed object of preservation.
+- [[TheUntimely]], [[ModernTimeDiscipline]], [[YorubaTwinCosmology]], [[ColonialTemporalDiscipline]], [[FugitiveTemporality]], [[AutisticTime]], [[Ancestrality]], and [[AttentionAsWeather]] — temporal-politics implications of long-term thinking.
 - [[SystemicDegenerativeVolatility]] — condition that makes ordinary long-term planning harder.
 - [[FoundationalEconomies]], [[Existutions]], and [[OutcomeAccelerators]] — institutional implications of the talk.
 - [[InformedOptimism]], [[OptimismGap]], and [[ShortTermNewsBias]] — attention and perception implications of long-term thinking.

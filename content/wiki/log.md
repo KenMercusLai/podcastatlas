@@ -999,3 +999,19 @@ Added source page for a Long Now talk on Nina Miolane's mathematical theory of i
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | Bayo Akomolafe: The Untimely
+
+Added source page for a Long Now talk on the untimely, modern time discipline, Yoruba twin cosmology, colonial temporal discipline, fugitive temporality, autistic time, ancestrality, and attention as weather. Created pages for Bayo Akomolafe, Orland Bishop, Eshu, Great Dismal Swamp, The Untimely, Modern Time Discipline, Yoruba Twin Cosmology, Colonial Temporal Discipline, Fugitive Temporality, Autistic Time, Ancestrality, and Attention As Weather; updated overview, index, and Long Now. No direct contradiction found; the source qualifies the existing Long Now branch by warning that long horizons, progress narratives, and alternative temporalities can still reproduce modernity's mastery logic.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-08] graph | Knowledge graph rebuilt
+
+1417 nodes, 12976 edges (12976 extracted, 0 inferred).
+
+## [2026-07-08] report | Graph health report generated
+
+1417 nodes analyzed.
