@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP80 与查理·芒格的跨时空对话：当眼睛失明时，我们看见什么？](sources/ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i.md) — Podcast episode on Charlie Munger, Buffett, See's Candies, American Express, Coca-Cola, intangible consumer moats, irreversible investment mistakes, and the limits of chart-only analysis.
 - [Shopify: Tobias Lütke. How a snowboarder built a $150 billion business (2019)](sources/shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306.md) — Podcast episode on Tobias Lütke, Shopify, Snowdevil, internal tool productization, entrepreneurship infrastructure, merchant-first SaaS, pricing-model mistakes, venture financing, and the founder's transition from programmer to CEO.
 - [EP86 面子、底子、日子：财报只讲这三件事](sources/ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj.md) — Podcast episode on reading financial statements through profit, balance sheet, and cash flow; compares Nvidia and SMIC; and uses receivables, inventory, audit opinions, and AI-assisted report review as defensive investing tools.
 - [EP89 海外券商大地震，跨境投资新时代](sources/ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs.md) — Podcast episode on cross-border brokerage cleanup, Futu/Tiger/Longbridge, personal FX quota limits, offshore funding-route risk, and compliant channels such as Hong Kong Stock Connect, QDII, and Wealth Management Connect.
@@ -84,7 +85,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zhangzidao](entities/Zhangzidao.md) — Chinese seafood company used as a hard-to-verify inventory and audit-risk case.
 - [Toshiba](entities/Toshiba.md) — Company used as a profit-pressure and accounting-misstatement case.
 - [APEX Digital](entities/ApexDigital.md) — Counterparty in the Sichuan Changhong receivables case, illustrating booked revenue that does not convert into cash.
-- [Charlie Munger](entities/CharlieMunger.md) — Investor reference for inversion: ask how a company could fail before asking why it is attractive.
+- [Charlie Munger](entities/CharlieMunger.md) — Investor reference for inversion, irreversible-error avoidance, business-quality judgment, and the value of intangible consumer trust.
+- [See's Candies](entities/SeesCandies.md) — Candy company used as the Munger/Buffett case for gift trust, pricing power, and the shift from cigar-butt investing to great businesses.
+- [American Express](entities/AmericanExpress.md) — Payments and travel-services company used as a crisis case for testing whether customer and merchant trust survived scandal.
+- [Coca-Cola](entities/CocaCola.md) — Consumer beverage company used as a long-duration habit and brand-memory case in the Munger/Buffett investment discussion.
 - [Futu Securities](entities/FutuSecurities.md) — Cross-border brokerage platform discussed through Chinese-language UX, community investing, mainland solicitation, and regulatory cleanup.
 - [Tiger Brokers](entities/TigerBrokers.md) — Overseas brokerage platform discussed through mainland investor onboarding, marketing, and the funding-route problem behind account access.
 - [Longbridge](entities/Longbridge.md) — Brokerage platform named in EP89 as part of the cross-border brokerage cleanup affecting overseas securities access.
@@ -198,7 +202,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bairong Intelligence](entities/BairongIntelligence.md) — Enterprise AI company using and selling digital employees across service, approval, risk-control, and professional-service workflows.
 - [Bank of Japan](entities/BankOfJapan.md) — Central bank whose tightening and yen effects are discussed as triggers for yen carry trade stress and Japanese equity volatility.
 - [半拿铁](entities/Banlatte.md) — Business-history podcast/show context for the China handset prehistory episode.
-- [Berkshire Hathaway](entities/BerkshireHathaway.md) — Warren Buffett's investment company discussed through Apple reduction, high cash, valuation caution, and market sentiment.
+- [Berkshire Hathaway](entities/BerkshireHathaway.md) — Warren Buffett's investment company discussed through Apple reduction, high cash, valuation caution, market sentiment, and Munger/Buffett consumer-brand cases.
 - [Bitcoin](entities/Bitcoin.md) — Cryptocurrency asset discussed as a trading vehicle rather than a cash-flowing investment in the Simons episode.
 - [Bird Mobile](entities/BirdMobile.md) — First-generation Chinese domestic handset brand remembered for licenses, local channels, celebrity marketing, and the "手机中的战斗机" slogan.
 - [Bobo's Oat Bars](entities/BobosOatBars.md) — Food company that shared early Boulder kitchen capacity and employees with Justin's Nut Butter.
@@ -404,7 +408,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vibe Song](entities/VibeSong.md) — Online vibe-coding competition platform prototype that turns hackathon building into a public participatory format.
 - [VMG](entities/VMG.md) — Investment group that backed Justin's Nut Butter with growth capital around 2012.
 - [Wang Dafu](entities/WangDafu.md) — Keji Luandun participant contributing operations, data-work, scripting, and business-logic optimization examples.
-- [Warren Buffett](entities/WarrenBuffett.md) — Long-term value investor discussed through contrast with Jim Simons and through Berkshire's cash, Apple reduction, and market caution.
+- [Warren Buffett](entities/WarrenBuffett.md) — Long-term value investor discussed through contrast with Jim Simons, Berkshire's cash and Apple reduction, and consumer-brand cases with Charlie Munger.
 - [吴涛](entities/WuTao.md) — Neihe Konghuang host connecting Japanese learning, cloud consulting, AI coding, low-level programming craft, campus radio, and monitor physics.
 - [WeChat](entities/WeChat.md) — Platform discussed as a possible high-context environment for agent products in China.
 - [Wenxin](entities/Wenxin.md) — Baidu AI model and product family discussed as weak in user mindshare despite early AI investment.
@@ -443,6 +447,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Consumer Brand Moat](concepts/ConsumerBrandMoat.md) — Durable consumer-business advantage from trust, habit, gift certainty, network acceptance, and pricing power.
+- [Technical Analysis Limits](concepts/TechnicalAnalysisLimits.md) — Failure modes of treating price patterns as causal explanations or substitutes for business understanding.
 - [Internal Tool Productization](concepts/InternalToolProductization.md) — Pattern where a working internal tool becomes a market-facing product after outsiders reveal the same pain.
 - [Entrepreneurship Infrastructure](concepts/EntrepreneurshipInfrastructure.md) — Platform/software infrastructure that lowers technical and operational barriers to starting and running a business.
 - [Financial Statement Analysis](concepts/FinancialStatementAnalysis.md) — Three-statement method for testing a company story through profit, balance sheet, and cash flow.

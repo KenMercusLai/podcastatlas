@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-07] ingest | EP80 与查理·芒格的跨时空对话：当眼睛失明时，我们看见什么？
+
+Added source on Charlie Munger, Buffett, See's Candies, American Express, Coca-Cola, intangible consumer moats, irreversible investment mistakes, and the limits of chart-only analysis.
+
 ## [2026-07-06] ingest | EP88 穿越量化之父西蒙斯：AI会让普通人更容易赚钱，还是更难？
 
 Added source page for a 一劳永逸 episode on Jim Simons, Renaissance Technologies, the Medallion Fund, quantitative investing, AI-assisted investment research, risk management, overfitting, market regime shifts, passive investing, crypto market structure, stablecoins, and AI IPO valuation. Created supporting entity and concept pages for the main people, institutions, assets, and investing frameworks; updated overview, index, OpenAI, Anthropic, ChatGPT, financial AI agents, and AI commercialization pressure pages.
@@ -351,3 +355,7 @@ Added source page for a How I Built This episode on Tobias Lütke, Shopify, Snow
 ## [2026-07-07] report | Graph health report generated
 
 723 nodes analyzed.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
