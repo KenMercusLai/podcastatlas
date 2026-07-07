@@ -2,13 +2,13 @@
 title: "Financial Gravity"
 type: concept
 tags: [startup, governance, power, incentives]
-sources: [eric-ries-on-how-founders-quietly-lose-their-company, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e]
+sources: [eric-ries-on-how-founders-quietly-lose-their-company, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306]
 last_updated: 2026-07-07
 ---
 
 # Financial Gravity
 
-Financial gravity is [[EricRies]]'s term for the pull created by economic or status disparities between people and institutions. In [[eric-ries-on-how-founders-quietly-lose-their-company]], he argues that founders, employees, boards, customers, investors, and acquirers can gradually change behavior around powerful actors until those adaptations become internal company values. [[justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b]] adds [[JustinsNutButter]] as a concrete acquisition case where [[Hormel]] gave the team life-changing liquidity but also changed [[JustinGold]]'s relationship to the brand. [[e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e]] adds [[ELFCosmetics]], where [[TSGConsumerPartners]], a failed [[LOreal]] process, and [[TPG]] each changed the founder's options and control context.
+Financial gravity is [[EricRies]]'s term for the pull created by economic or status disparities between people and institutions. In [[eric-ries-on-how-founders-quietly-lose-their-company]], he argues that founders, employees, boards, customers, investors, and acquirers can gradually change behavior around powerful actors until those adaptations become internal company values. [[justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b]] adds [[JustinsNutButter]] as a concrete acquisition case where [[Hormel]] gave the team life-changing liquidity but also changed [[JustinGold]]'s relationship to the brand. [[e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e]] adds [[ELFCosmetics]], where [[TSGConsumerPartners]], a failed [[LOreal]] process, and [[TPG]] each changed the founder's options and control context. [[shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306]] adds [[Shopify]], where Silicon Valley term sheets were attractive but came with relocation expectations, and later venture funding pushed the company toward IPO-or-sale logic.
 
 ## Key Claims
 - Financial pressure can redirect a company without anyone explicitly deciding to abandon the mission.
@@ -17,6 +17,7 @@ Financial gravity is [[EricRies]]'s term for the pull created by economic or sta
 - Trustworthy mission-driven companies are especially exposed because the trust they create becomes valuable to outside actors.
 - [[StartupGovernance]] is Ries's proposed defense: make mission, authority, board structure, and stakeholder commitments explicit before pressure intensifies.
 - Founder identity can amplify financial gravity when the company brand is personally tied to the founder and local values.
+- Capital can reshape location, pace, and exit expectations even before an investor actually closes a round.
 
 ## Connections
 - [[EricRies]] - source of the term in this wiki.
@@ -27,3 +28,4 @@ Financial gravity is [[EricRies]]'s term for the pull created by economic or sta
 - [[SaaSTrustMoat]] - related idea that trust can be both a moat and a valuable asset others try to capture.
 - [[JustinGold]], [[JustinsNutButter]], [[Hormel]], and [[PostAcquisitionFounderIdentity]] - acquisition case where financial success and identity loss coexist.
 - [[JoeyShamah]], [[ELFCosmetics]], [[TSGConsumerPartners]], [[LOreal]], and [[TPG]] - staged capital and acquisition context from the e.l.f. episode.
+- [[Shopify]], [[TobiasLutke]], and [[BessemerVenturePartners]] - venture-scale case where funding expectations changed the company's path.

@@ -2,7 +2,7 @@
 title: "Stage-Appropriate Hiring"
 type: concept
 tags: [startups, hiring, management]
-sources: [community-led-saas-growth-how-ninety-hit-44m-arr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88]
+sources: [community-led-saas-growth-how-ninety-hit-44m-arr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306]
 last_updated: 2026-07-07
 ---
 
@@ -18,6 +18,8 @@ Stage-appropriate hiring is the principle that leaders and executives must fit t
 
 [[build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88]] adds a founder-succession version through [[BuildABear]]. [[SharonPriceJohn]]'s consumer-brand background made her a better fit for the post-founder CEO role than a generic operator because the company still depended on retail, licensing, family audiences, and brand experience.
 
+[[shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306]] adds an internal-readiness version through [[Shopify]]. [[TobiasLutke]] says he delayed faster growth because he needed time to learn the CEO role and build HR systems, making stage fit a question of management capacity as well as who gets hired.
+
 ## Key Claims
 - Capital can make a company move faster before its operating system is ready for the people it hires.
 - Executives from later-stage environments may bring useful experience but still misfit an earlier-stage company's ambiguity, pace, or culture.
@@ -28,6 +30,7 @@ Stage-appropriate hiring is the principle that leaders and executives must fit t
 - Founder-led physical-product companies may need different leaders as they move from invention, hand production, and store-by-store selling into audited manufacturing, national accounts, and institutional capital.
 - Private-equity transition can be a stage change rather than only a liquidity event when the new owner installs leadership built for the next operating system.
 - Founder succession requires stage fit as well as trust: the successor must fit the company's current constraints while being independent enough to make different decisions.
+- Stage fit also applies to the founder's own management capacity; raising capital before the operating system is ready can outpace the company.
 
 ## Connections
 - [[Ninety]] and [[MarkAbbott]] — source case.
@@ -37,3 +40,4 @@ Stage-appropriate hiring is the principle that leaders and executives must fit t
 - [[JustinGold]], [[LanceGentry]], [[PeterBurns]], [[VMG]], and [[FounderRoleTransition]] — CPG scaling case where leadership needs changed with stage.
 - [[ELFCosmetics]], [[JoeyShamah]], [[TPG]], [[TarangAmin]], and [[FounderRoleTransition]] — beauty CPG case where leadership shifted after majority investment.
 - [[BuildABear]], [[MaxineClark]], [[SharonPriceJohn]], [[FounderSuccession]], and [[FounderRoleTransition]] - experiential retail case where CEO succession became part of durability.
+- [[Shopify]], [[TobiasLutke]], and [[FounderRoleTransition]] - SaaS case where founder learning and HR systems constrained growth speed.

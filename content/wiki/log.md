@@ -339,3 +339,15 @@ Added source page for a YiLaoYongYi episode on reading financial statements thro
 ## [2026-07-07] report | Graph health report generated
 
 714 nodes analyzed.
+
+## [2026-07-07] ingest | Shopify: Tobias Lütke. How a snowboarder built a $150 billion business (2019)
+
+Added source page for a How I Built This episode on Tobias Lütke, Shopify, Snowdevil, Scott Lake, work-permit-driven entrepreneurship, internal tool productization, merchant-first e-commerce infrastructure, pricing-model mistakes, cash pressure, John Phillips, Bessemer, venture financing, the 2008 recession tailwind, and the founder's transition from programmer to CEO. Created supporting pages for Shopify, Tobias Lütke, Scott Lake, Snowdevil, John Phillips, Bessemer Venture Partners, Internal Tool Productization, and Entrepreneurship Infrastructure; updated overview, index, How I Built This, Guy Raz, founder-product fit, customer pull, product-led willingness to pay, distribution-led product building, founder role transition, stage-appropriate hiring, startup governance, financial gravity, SaaS trust moat, and service productization pages.
+
+## [2026-07-07] graph | Knowledge graph rebuilt
+
+723 nodes, 6296 edges (6296 extracted, 0 inferred).
+
+## [2026-07-07] report | Graph health report generated
+
+723 nodes analyzed.

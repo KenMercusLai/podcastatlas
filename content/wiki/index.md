@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Shopify: Tobias Lütke. How a snowboarder built a $150 billion business (2019)](sources/shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306.md) — Podcast episode on Tobias Lütke, Shopify, Snowdevil, internal tool productization, entrepreneurship infrastructure, merchant-first SaaS, pricing-model mistakes, venture financing, and the founder's transition from programmer to CEO.
 - [EP86 面子、底子、日子：财报只讲这三件事](sources/ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj.md) — Podcast episode on reading financial statements through profit, balance sheet, and cash flow; compares Nvidia and SMIC; and uses receivables, inventory, audit opinions, and AI-assisted report review as defensive investing tools.
 - [EP89 海外券商大地震，跨境投资新时代](sources/ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs.md) — Podcast episode on cross-border brokerage cleanup, Futu/Tiger/Longbridge, personal FX quota limits, offshore funding-route risk, and compliant channels such as Hong Kong Stock Connect, QDII, and Wealth Management Connect.
 - [Formula 1](sources/formula-1-1.md) — Acquired episode on Formula One as a sports-media business, Bernie Ecclestone's centralization, Liberty Media's professionalization, cost caps, Drive to Survive, and F1's league-level economics.
@@ -71,6 +72,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Shopify](entities/Shopify.md) — E-commerce platform that grew from Snowdevil's internal storefront software into merchant infrastructure for storefronts, payments, shipping, fulfillment, and first sales.
+- [Tobias Lütke](entities/TobiasLutke.md) — Shopify co-founder and CEO whose path runs from German software apprenticeship and Snowdevil's Ruby storefront to venture-scale leadership and IPO.
+- [Scott Lake](entities/ScottLake.md) — Snowdevil and early Shopify co-founder who handled business/vendor work, named Shopify, and held the early CEO role before leaving.
+- [Snowdevil](entities/Snowdevil.md) — Online snowboard store whose inadequate e-commerce tooling problem led to Shopify.
+- [John Phillips](entities/JohnPhillips.md) — Angel investor and mentor who backed Shopify during its 2007 cash-pressure period.
+- [Bessemer Venture Partners](entities/BessemerVenturePartners.md) — Venture investor tied to Shopify's post-Series-A acceleration after repeatable growth payback became visible.
 - [SMIC](entities/SMIC.md) — Heavy-asset Chinese wafer foundry used to explain depreciation, capital expenditure, financing needs, and industrial catch-up pressure in financial statements.
 - [TSMC](entities/TSMC.md) — Dominant wafer-foundry benchmark used to explain the strategic pressure facing SMIC and heavy-asset semiconductor manufacturing.
 - [Best Buy](entities/BestBuy.md) — Electronics retailer used as an inventory-risk example where showroom behavior and channel shift can weaken sell-through and margins.
@@ -436,6 +443,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Internal Tool Productization](concepts/InternalToolProductization.md) — Pattern where a working internal tool becomes a market-facing product after outsiders reveal the same pain.
+- [Entrepreneurship Infrastructure](concepts/EntrepreneurshipInfrastructure.md) — Platform/software infrastructure that lowers technical and operational barriers to starting and running a business.
 - [Financial Statement Analysis](concepts/FinancialStatementAnalysis.md) — Three-statement method for testing a company story through profit, balance sheet, and cash flow.
 - [Profit And Cash Flow Quality](concepts/ProfitAndCashFlowQuality.md) — Distinction between reported earnings and money actually collected or generated.
 - [Asset-Light Vs Heavy-Asset Models](concepts/AssetLightVsHeavyAssetModels.md) — Business-model contrast explaining why companies in the same value chain can show very different margins, assets, and cash needs.
