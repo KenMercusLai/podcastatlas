@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Formula 1](sources/formula-1-1.md) — Acquired episode on Formula One as a sports-media business, Bernie Ecclestone's centralization, Liberty Media's professionalization, cost caps, Drive to Survive, and F1's league-level economics.
 - [Advice Line with Christina Tosi of Milk Bar](sources/advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96.md) — Podcast episode on Christina Tosi, Milk Bar, The Beau Collective, Cotton Clara, Vashon Island Coffee Dust, gift-to-loyal-buyer loops, and consumer-brand repeat behavior.
 - [The Walt Disney Company: Walt's Era](sources/the-walt-disney-company-1.md) — Acquired episode on Walt Disney, Roy Disney, Disney's owned-IP flywheel, Mickey Mouse, Snow White, merchandising, television, Disneyland, strategic rereleases, and vertical media distribution.
 - [EP87 对话独立设计师大琪：通过设计帮助产品做好增长](sources/ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc.md) — Podcast episode on Daqi, Product Roast, landing-page conversion, business-fluent design, design-led growth, cross-cultural product design, and early product validation.
@@ -74,7 +75,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cotton Clara](entities/CottonClara.md) — Craft-kit company working through maker positioning, repeat customers, community events, and gifting/wellness language.
 - [Vashon Island Coffee Dust](entities/VashonIslandCoffeeDust.md) — Spice-blend CPG brand using gifting, packaging, counter ritual, and use-case expansion to create repeat buyers.
 - [Christy Clement](entities/ChristyClement.md) — Vashon Island Coffee Dust founder asking how gift recipients become loyal repeat buyers.
-- [Acquired](entities/Acquired.md) — Business-history podcast/source context for the Disney episode and its entertainment-IP strategy analysis.
+- [Acquired](entities/Acquired.md) — Business-history podcast/source context for the Disney and Formula One episodes.
+- [Formula One](entities/FormulaOne.md) — Global motorsport championship analyzed as a driver, engineering, media-rights, and stakeholder-governance business.
+- [Formula One Group](entities/FormulaOneGroup.md) — Commercial F1 business that sells media rights, race promotion, sponsorship, hospitality, merchandise, and licensing.
+- [Liberty Media](entities/LibertyMedia.md) — F1 owner that professionalized fan access, stakeholder relations, digital media, U.S. growth, and cost-cap economics.
+- [Bernie Ecclestone](entities/BernieEcclestone.md) — F1 commercial centralizer who coordinated teams, promoters, and broadcasters into a valuable rights package.
+- [FIA](entities/FIA.md) — Motorsport governing body whose rule authority and official status anchor F1's championship legitimacy.
+- [CVC Capital Partners](entities/CVCCapitalPartners.md) — Private-equity owner in F1's pre-Liberty era, tied to higher race-promotion fees and monetization pressure.
+- [Ferrari](entities/Ferrari.md) — F1 team and luxury car brand used as a legitimacy, continuity, and brand-power case.
+- [Red Bull Racing](entities/RedBullRacing.md) — F1 team showing how brand media, paddock culture, hospitality, and engineering can become a championship platform.
+- [Mercedes F1](entities/MercedesF1.md) — Manufacturer-backed F1 team built from Brawn GP into a modern dynasty and valuable team asset.
+- [Brawn GP](entities/BrawnGP.md) — One-season F1 team whose double-diffuser advantage and 2009 titles became the base for Mercedes F1.
+- [Lotus Racing](entities/LotusRacing.md) — Constructor case for lightness, handling, sponsor surfaces, aerodynamics, and ground-effect innovation.
+- [Netflix](entities/Netflix.md) — Streaming company whose Drive to Survive partnership helped make F1's human drama legible to new fans.
+- [Drive to Survive](entities/DriveToSurvive.md) — Netflix series that reframed Formula One through people, politics, and behind-the-scenes team drama.
 - [The Walt Disney Company](entities/TheWaltDisneyCompany.md) — Media and entertainment company analyzed through owned IP, animation, merchandise, television, parks, rereleases, and distribution control.
 - [Walt Disney](entities/WaltDisney.md) — Founder and creative force behind Mickey, Snow White, Disneyland, and the Florida/Epcot vision.
 - [Roy Disney](entities/RoyDisney.md) — Walt's finance and operating partner who preserved the company and completed Walt Disney World.
@@ -152,7 +166,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Amazon](entities/Amazon.md) — Cloud and AI infrastructure buyer discussed through Nvidia demand and hyperscaler capex assumptions.
 - [Android](entities/Android.md) — Google-backed open smartphone operating system that became the non-Apple ecosystem after iPhone reset handset competition.
 - [Anthropic](entities/Anthropic.md) — AI company discussed alongside OpenAI in the episode's treatment of frontier models, agent tools, and enterprise deployment.
-- [Apple](entities/Apple.md) — Platform company discussed through WWDC expectations, Siri, iPhone ecosystem history, Apple Podcasts/iTunes/iPod media history, and Buffett/Berkshire market sentiment.
+- [Apple](entities/Apple.md) — Platform company discussed through WWDC/Siri, iPhone and App Store ecosystems, podcasts/iPod media history, Buffett/Berkshire market sentiment, and F1 media-rights ambitions.
 - [App Store](entities/AppStore.md) — Apple marketplace discussed as a closed search-and-conversion platform for ASO, metadata, ratings, and paid search.
 - [Apple Search Ads](entities/AppleSearchAds.md) — App Store paid-search system used to test keywords and supplement organic ASO.
 - [Antler](entities/Antler.md) — Startup program where Peak AI's founding team formed and secured early funding.
@@ -409,6 +423,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Sports Media Rights](concepts/SportsMediaRights.md) — Live-sports broadcast/streaming rights that become more valuable when the competition is reliable, packaged, and audience-expanding.
+- [Broadcast Centralization](concepts/BroadcastCentralization.md) — Central feed and coordinated rights packaging that reduces broadcaster friction and makes a sport more dependable for fans and sponsors.
+- [Race Promotion Fees](concepts/RacePromotionFees.md) — Payments from hosts or promoters for the right to stage races, balancing venue revenue against heritage, access, and calendar coherence.
+- [League Stakeholder Alignment](concepts/LeagueStakeholderAlignment.md) — Governance problem of keeping teams, owners, promoters, sponsors, media partners, and fans economically coordinated.
+- [Cost Cap Economics](concepts/CostCapEconomics.md) — Spending-limit logic that can turn sports teams from open-ended arms races into more investable businesses.
+- [Sports Entertainment Flywheel](concepts/SportsEntertainmentFlywheel.md) — Reinforcing system where live competition, teams, athletes, venues, media, sponsors, and fan identity compound demand.
+- [Engineering Competition](concepts/EngineeringCompetition.md) — Constructor and technical rivalry layer where car design, rules, spending, and safety shape sporting and business outcomes.
+- [Corporate Hospitality Platform](concepts/CorporateHospitalityPlatform.md) — Premium event environment used for sponsorship, client access, recruiting, and business development.
+- [Fat League Economics](concepts/FatLeagueEconomics.md) — League model where the central company retains meaningful economics and enterprise value instead of passing nearly all revenue to teams.
 - [Gift-To-Loyal-Buyer Loop](concepts/GiftToLoyalBuyerLoop.md) — Consumer-products growth pattern where gifting, packaging, ritual, education, and convenience convert recipients into repeat buyers.
 - [Entertainment IP Flywheel](concepts/EntertainmentIPFlywheel.md) — Strategy where owned characters and stories compound across films, merchandise, television, parks, rereleases, and distribution.
 - [IP Ownership](concepts/IPOwnership.md) — Strategic control of characters, stories, and rights so media assets can be reused without distributor dependency.

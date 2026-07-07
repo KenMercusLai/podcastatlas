@@ -304,6 +304,10 @@ Added source page for a YingdiHaike episode on Daqi, Product Roast, landing-page
 
 636 nodes analyzed.
 
+## [2026-07-07] ingest | Formula 1
+
+Added source page for an Acquired episode on Formula One as a sports-media business, Bernie Ecclestone's commercial centralization, the Concorde-style split between FIA rules and commercial rights, broadcast centralization, tobacco and engineering spending, CVC race-promotion pressure, Liberty Media's professionalization, cost caps, Drive to Survive, corporate hospitality, sports media rights, and Formula One Group's league-level economics. Created supporting pages for Formula One, Formula One Group, Liberty Media, Bernie Ecclestone, FIA, CVC Capital Partners, Ferrari, Red Bull Racing, Mercedes F1, Brawn GP, Lotus Racing, Netflix, Drive to Survive, Sports Media Rights, Broadcast Centralization, Race Promotion Fees, League Stakeholder Alignment, Cost Cap Economics, Sports Entertainment Flywheel, Engineering Competition, Corporate Hospitality Platform, and Fat League Economics; updated overview, index, Acquired, and Apple pages.
+
 ## [2026-07-07] ingest | Advice Line with Christina Tosi of Milk Bar
 
 Added source page for a How I Built This Advice Line episode on Christina Tosi, Milk Bar, The Beau Collective, Cotton Clara, Vashon Island Coffee Dust, gift-to-loyal-buyer loops, pre-sold memberships, maker positioning, packaging, and repeat behavior. Created supporting pages for Christina Tosi, Milk Bar, The Beau Collective, Cotton Clara, Vashon Island Coffee Dust, Christy Clement, and Gift-To-Loyal-Buyer Loop; updated overview, index, How I Built This, Guy Raz, and related CPG, validation, experiential retail, relationship-led growth, and founder-role-transition concept pages.
