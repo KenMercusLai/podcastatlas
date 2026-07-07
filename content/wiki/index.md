@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [把 AI 吹成核武器的人，亲手拉下了新冷战铁幕](sources/ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1.md) — Podcast episode on Anthropic access restrictions, AI export controls, safety rhetoric backfire, open-model substitution, and AI cold-war framing.
 - [OPC 的真正难题，是 AI 还没学会替你把东西卖出去](sources/opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1.md) — Podcast episode on AI-era one-person companies, why AI lowers building cost but not sales/customer/compliance work, and why first-customer validation should precede registration or overseas setup.
 - [Vol. 169 高考只是个开始，Don’t Waste Your Life](sources/vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1.md) — Podcast episode on gaokao as a beginning, AI-era college major choice, university opportunity density, college career preparation, learning how to learn, and AI as tutor.
 - [Vol. 170 Fable 5 重出江湖，GPT 仍需努力](sources/vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1.md) — Podcast episode on Fable 5, one-shot AI coding, Codex review workflows, Superpowers versus GrillMe skills, token-driven software, and model routing cost control.
@@ -95,6 +96,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Dario Amodei](entities/DarioAmodei.md) — Anthropic leader used by the episode as the main case for AI safety rhetoric feeding model access restrictions.
+- [Zhipu AI](entities/ZhipuAI.md) — Chinese AI company framed through GLM 5.2 as an open-model response to closed-model access restrictions.
+- [GLM 5.2](entities/GLM52.md) — Zhipu AI model release discussed through long context, coding improvement, slower speed, and open-model substitution.
+- [SK Telecom](entities/SKTelecom.md) — Telecom company mentioned in a rumor-level Anthropic access story illustrating partner-access sensitivity.
+- [China Unicom](entities/ChinaUnicom.md) — Telecom company named in the episode's disputed SK Telecom/Anthropic partner-access story.
+- [PGP](entities/PGP.md) — Cryptography software used as a historical analogy for why intangible software export controls can fail.
 - [Fable 5](entities/Fable5.md) — AI model/product discussed through one-shot coding, planning, review triage, quota pressure, and token-driven product imagination.
 - [GrillMe Skills](entities/GrillMeSkills.md) — Matpaco skill workflow contrasted with Superpowers as a lighter manual path for requirement questioning, specs, ADRs, PRDs, and issue decomposition.
 - [Meta](entities/Meta.md) — Platform company claimed by the Manus episode to have acquired Manus, used as a case for model and platform firms buying agent application layers.
@@ -547,6 +554,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [AI Export Controls](concepts/AIExportControls.md) — Policy attempts to restrict access to frontier model capability, model weights, APIs, chips, or related infrastructure.
+- [AI Cold War](concepts/AIColdWar.md) — Geopolitical frame where model, API, compute, and information flows become bloc-style strategic competition.
+- [AI Safety Narrative Backfire](concepts/AISafetyNarrativeBackfire.md) — Risk that weapon-like AI safety rhetoric invites blunt national-security regulation of commercial models.
+- [Frontier Model Access Restrictions](concepts/FrontierModelAccessRestrictions.md) — Limits on model use by region, nationality, institution, partner status, or safety tier.
+- [SaaS Reliability Under Policy Risk](concepts/SaaSReliabilityUnderPolicyRisk.md) — Reliability problem where a cloud AI product can become unavailable because regulation or provider policy changes.
 - [AI Agent Overseas Commercialization](concepts/AIAgentOverseasCommercialization.md) — Pattern where agent products find stronger fit in overseas web, SEO, advertising, API, and paid software workflows than in closed domestic app ecosystems.
 - [Chinese Model Liberal Arts Constraint](concepts/ChineseModelLiberalArtsConstraint.md) — Host-coined frame for domestic model weakness in open-ended writing, style, research, and nuanced expression relative to bounded tasks.
 - [China Agent Market Friction](concepts/ChinaAgentMarketFriction.md) — Platform, data-access, API, crawling, app-incentive, and payment obstacles that can make Chinese AI-agent commercialization harder.

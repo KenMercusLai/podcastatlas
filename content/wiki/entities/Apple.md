@@ -2,7 +2,7 @@
 title: "Apple"
 type: entity
 tags: [company, platform, ai, investing, mobile, app-store, media]
-sources: [vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, formula-1-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1]
+sources: [vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, formula-1-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
 last_updated: 2026-07-07
 ---
 
@@ -22,6 +22,8 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 
 [[opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1]] adds Apple as a platform beneficiary of AI-enabled app creation. The hosts argue that if AI makes many more applications appear, the question is whether individual builders gain paying users or whether Apple and [[AppStore]] capture more dependable value through review, distribution, search, payment, and platform control.
 
+[[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]] adds Apple through the WWDC regional-availability opening. The hosts use unavailable AI features for Chinese and [[EuropeanUnion]] users as an early sign that software and AI services are becoming more regionally fragmented.
+
 ## Source Position
 - The hosts expect Apple AI news to matter because iPhone-level distribution can change user behavior even if the underlying model comes from another provider.
 - If Siri becomes a capable device-level agent, utility apps and reminder-like tools may face platform-level pressure.
@@ -32,6 +34,7 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 - The ASO source treats Apple as the owner of a marketplace where platform fields, ranking opacity, review trust, and paid search directly constrain independent-app growth.
 - The Formula One source treats Apple as a possible premium [[SportsMediaRights]] buyer whose interface and media capabilities could improve how live sports explain themselves.
 - The OPC source treats Apple as part of the platform layer that can benefit when AI increases app supply even if many individual apps do not find strong [[CustomerPull]].
+- The export-control source treats Apple as a region-fragmentation example: the same AI feature set may not be globally available because of policy, partner, or market constraints.
 
 ## Connections
 - [[Siri]] — Apple assistant and platform entry point discussed in the source.
@@ -45,3 +48,4 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 - [[AppStore]], [[AppleSearchAds]], [[AppStoreOptimization]], and [[AppStoreRatingsAndReviews]] — marketplace-growth themes added by EP102.
 - [[FormulaOne]], [[SportsMediaRights]], and [[SportsEntertainmentFlywheel]] — sports-media themes added by the Formula One source.
 - [[AppStore]], [[OnePersonCompany]], and [[SoftwarePaymentCulture]] — OPC source where platform economics remain stronger than many solo-builder monetization stories.
+- [[EuropeanUnion]], [[FrontierModelAccessRestrictions]], and [[SaaSReliabilityUnderPolicyRisk]] — regional AI availability frame added by the Keji Luandun export-control episode.

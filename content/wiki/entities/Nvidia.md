@@ -2,7 +2,7 @@
 title: "Nvidia"
 type: entity
 tags: [company, ai, semiconductors, investing]
-sources: [ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj]
+sources: [ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
 last_updated: 2026-07-07
 ---
 
@@ -16,6 +16,8 @@ Nvidia is discussed in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-y
 
 [[ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj]] adds Nvidia as a [[FinancialStatementAnalysis]] case rather than mainly a valuation case. The episode uses Nvidia's revenue growth, high gross and net margins, large cash balance, light fixed-asset base, operating cash flow, free cash flow, and buybacks to show how [[AssetLightVsHeavyAssetModels]] and [[ProfitAndCashFlowQuality]] can make a chip designer's statements look very different from a heavy-asset foundry such as [[SMIC]].
 
+[[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]] adds Nvidia as the hardware comparison for [[AIExportControls]]. The hosts argue that physical GPU export restrictions are at least legible through manufacturing and shipping chains, while model APIs, code, and weights are harder to regulate with the same tools.
+
 ## Source Position
 - The episode treats Nvidia as a strong company, not as a fraud or failed business.
 - The risk frame is [[AIEquityValuationRisk]]: if growth or guidance falls short of very high expectations, the valuation multiple can reset sharply.
@@ -24,6 +26,7 @@ Nvidia is discussed in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-y
 - EP57 adds that [[DeepSeek]] can pressure the AI trade by changing expected return-on-capex narratives, not only by reducing demand for Nvidia chips directly.
 - Nvidia also becomes part of [[MegaCapConcentrationRisk]] because broad U.S. index exposure can depend heavily on a few AI-related leaders.
 - EP86 uses Nvidia as a financially strong statement-analysis example, while leaving the market-price question to [[AIEquityValuationRisk]] and [[InvestmentRiskManagement]].
+- The Keji Luandun export-control episode treats Nvidia as the physical-goods contrast to API and model-weight restrictions.
 
 ## Connections
 - [[AIEquityValuationRisk]] — main investing frame attached to Nvidia in this source.
@@ -34,3 +37,4 @@ Nvidia is discussed in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-y
 - [[DeepSeek]], [[MegaCapConcentrationRisk]], [[NasdaqComposite]], and [[IndexReentryDiscipline]] — EP57's AI-trade and index-reentry context.
 - [[FinancialStatementAnalysis]], [[AssetLightVsHeavyAssetModels]], and [[ProfitAndCashFlowQuality]] — EP86's financial-report reading context.
 - [[SMIC]] and [[TSMC]] — semiconductor comparison and foundry benchmark.
+- [[AIExportControls]], [[PGP]], and [[FrontierModelAccessRestrictions]] — hardware-versus-information control comparison added by the Keji Luandun export-control episode.

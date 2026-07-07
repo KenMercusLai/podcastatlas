@@ -2,13 +2,13 @@
 title: "Keji Luandun"
 type: entity
 tags: [podcast, media]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1]
+sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
 last_updated: 2026-07-07
 ---
 
 # Keji Luandun
 
-Keji Luandun is the podcast context for [[ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun]], [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun]], [[ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]], [[dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun]], [[nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun]], [[weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun]], and [[opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1]]. Across these sources, the show discusses Chinese AI companies, model strategy, product commercialization, organizational order, user behavior, platform shifts, software payment, practical AI-enabled work, domestic operating-system history, AI-agent overseas commercialization, and AI-era one-person-company narratives.
+Keji Luandun is the podcast context for [[ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun]], [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun]], [[ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]], [[dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun]], [[nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun]], [[weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun]], [[opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1]], and [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]]. Across these sources, the show discusses Chinese AI companies, model strategy, product commercialization, organizational order, user behavior, platform shifts, software payment, practical AI-enabled work, domestic operating-system history, AI-agent overseas commercialization, AI-era one-person-company narratives, and AI export-control geopolitics.
 
 The AI coding episode adds a grounded operator perspective through [[LaoGao]], [[ZhangLe]], and [[WangDafu]]: AI can write code and scripts, but useful products still require [[AIEngineeringThinking]], domain know-how, tests, logs, review, and human communication.
 
@@ -19,6 +19,8 @@ The domestic operating-system episode adds a China software-infrastructure persp
 The Manus episode adds an AI-agent market perspective. It treats [[Manus]] as a workflow product whose strongest use cases are overseas SEO, advertising, browser operation, and foreign-trade marketing, then connects its claimed [[Meta]] acquisition to [[AIAgentOverseasCommercialization]], [[ChinaAgentMarketFriction]], and [[ChineseModelLiberalArtsConstraint]].
 
 The OPC episode adds a personal-startup perspective. It argues that [[OnePersonCompany]] enthusiasm overreads AI's ability to replace business functions: AI can help one person build faster, but the operator still needs [[CustomerPull]], sales ability, legal and tax responsibility, delivery judgment, and a reason for customers to pay.
+
+The AI export-control episode adds a policy and geopolitics perspective. It argues that treating frontier models as nuclear-level capabilities can create [[AISafetyNarrativeBackfire]], where governments respond through [[AIExportControls]], [[FrontierModelAccessRestrictions]], and an [[AIColdWar]] frame that weakens closed model companies' SaaS-like reliability while making [[OpenSourceAIModels]] such as [[DeepSeek]] and [[GLM52]] more attractive.
 
 ## Connections
 - [[Alibaba]], [[Qwen]], and [[LinJunyang]] — main episode focus.
@@ -34,3 +36,4 @@ The OPC episode adds a personal-startup perspective. It argues that [[OnePersonC
 - [[OpenSourceCommunityCommercialization]], [[XinchuangOperatingSystems]], and [[TechnicalCultureSalesCultureTension]] — operating-system and organization themes added by the Tongxin episode.
 - [[Manus]], [[Meta]], [[AIAgentOverseasCommercialization]], [[ChinaAgentMarketFriction]], and [[ChineseModelLiberalArtsConstraint]] — agent commercialization and domestic-model/platform-friction themes from the Manus episode.
 - [[OnePersonCompany]], [[CustomerPull]], [[PreProductSelling]], and [[ProductLedWillingnessToPay]] — OPC episode themes around sales-first validation before company structure.
+- [[Anthropic]], [[DarioAmodei]], [[AIExportControls]], [[AIColdWar]], and [[SaaSReliabilityUnderPolicyRisk]] — AI policy and access-risk themes from the export-control episode.

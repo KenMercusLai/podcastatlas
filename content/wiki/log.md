@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-07] ingest | 把 AI 吹成核武器的人，亲手拉下了新冷战铁幕
+
+Added source page for a Keji Luandun episode on Anthropic model access restrictions, AI safety rhetoric, export controls, open-source model substitution, PGP as a software-control analogy, GLM 5.2, and AI cold-war framing. Created pages for Dario Amodei, Zhipu AI, GLM 5.2, SK Telecom, China Unicom, PGP, AI Export Controls, AI Cold War, AI Safety Narrative Backfire, Frontier Model Access Restrictions, and SaaS Reliability Under Policy Risk; updated overview, index, Keji Luandun, Anthropic, DeepSeek, Apple, European Union, Nvidia, Jensen Huang, Claude Code, Open Source AI Models, Large Company Open Source Strategy, AI commercialization pressure, AI governance and compliance, SaaS trust moat, AI coding verification, human judgment under AI, frontier model scaling, and AI inference cost structure pages.
+
 ## [2026-07-07] ingest | OPC 的真正难题，是 AI 还没学会替你把东西卖出去
 
 Added source page for a Keji Luandun episode on AI-era one-person companies, legal versus operational OPC meanings, why AI coding lowers build cost but not sales or customer pull, industrial-park and training hype, overseas company/account compliance risk, and platform capture from AI-generated app supply. Created One-Person Company; updated overview, index, Keji Luandun, AI commercialization pressure, AI engineering thinking, human judgment under AI, customer pull, product-led willingness to pay, pre-product selling, distribution-led product building, vibe coding, software payment culture, cross-border fund transfer risk, capital-account restrictions, App Store, Apple, and WeChat pages.
@@ -559,6 +563,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-07] graph | Knowledge graph rebuilt
 
 910 nodes, 8178 edges (8178 extracted, 0 inferred).
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-07] lint | Wiki health check
 

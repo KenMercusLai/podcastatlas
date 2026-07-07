@@ -2,7 +2,7 @@
 title: "DeepSeek"
 type: entity
 tags: [company, model, open-source-ai]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c]
+sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
 last_updated: 2026-07-07
 ---
 
@@ -18,6 +18,8 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 
 [[ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c]] adds a practical workplace-use case. [[MagicJack]] uses DeepSeek to review and improve a student's composition, while the hosts use AI transcription, editing, title drafting, meeting notes, and visual-summary tools to argue that AI can create more room for [[WorkplacePacing]] only when people still apply [[HumanJudgmentUnderAI]].
 
+[[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]] adds DeepSeek to the model-substitution side of [[AIExportControls]]. The hosts argue that if closed frontier models become unreliable because of [[FrontierModelAccessRestrictions]], many users and companies may choose cheaper, good-enough, local, or open alternatives, with DeepSeek and [[GLM52]] as examples in that ecosystem.
+
 ## Connections
 - [[Qwen]] — compared as another prominent Chinese open-source model effort.
 - [[OpenSourceAIModels]] — broader category for model ecosystem influence.
@@ -27,3 +29,4 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 - [[AlephAlpha]] and [[EuropeanAIIndustrialConstraints]] — European AI comparison added by the Neihe Konghuang episode.
 - [[AIEquityValuationRisk]], [[Nvidia]], and [[HongKongTechRepricing]] — EP57's market-pricing and China-tech allocation context.
 - [[WorkplacePacing]] and [[HumanJudgmentUnderAI]] — EP58's everyday productivity and final-judgment context.
+- [[AIExportControls]], [[FrontierModelAccessRestrictions]], [[GLM52]], and [[SaaSReliabilityUnderPolicyRisk]] — policy-driven substitution context added by the Keji Luandun export-control episode.
