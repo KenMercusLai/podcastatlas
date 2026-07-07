@@ -2,7 +2,7 @@
 title: "Berkshire Hathaway"
 type: entity
 tags: [company, investing]
-sources: [ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i]
+sources: [ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i, 132-xuegao-jianghu-fengtouquan-1-132-1]
 last_updated: 2026-07-08
 ---
 
@@ -14,12 +14,15 @@ Berkshire Hathaway appears in [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-do
 
 [[ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p]] adds an options-management angle through Buffett's Coca-Cola put sale. The episode treats the case as value-investing discipline expressed through derivatives, not as generalized premium chasing.
 
+[[132-xuegao-jianghu-fengtouquan-1-132-1]] adds a small operating-company reference through [[DairyQueen]]. The source mentions Dairy Queen as globally tied to Berkshire's system, then uses its China model to contrast mid-price, small-store ice-cream operations with the weaker premium-store positioning of [[HaagenDazs]].
+
 ## Source Position
 - The episode says Berkshire's high cash level intensified market attention during a period of fragile sentiment.
 - Buffett's Apple reduction is discussed as a potential sign of valuation discipline or risk reduction, not as a definitive crash forecast.
 - The speakers compare cash-holding today with earlier periods when Berkshire waited for better opportunities after expensive markets.
 - EP80 presents Berkshire's best-known consumer investments as evidence that invisible assets can matter more than visible book value.
 - EP90 adds that derivatives can support a value-investing plan only when cash, price, and willingness to own the asset are aligned.
+- The ice-cream episode uses Dairy Queen as an operating-model comparison rather than an investing thesis about Berkshire.
 
 ## Connections
 - [[WarrenBuffett]] — chair and central investor figure in the source discussion.
@@ -28,3 +31,4 @@ Berkshire Hathaway appears in [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-do
 - [[InvestmentRiskManagement]] — example of keeping optionality when risks are unclear.
 - [[CharlieMunger]], [[SeesCandies]], [[AmericanExpress]], [[CocaCola]], and [[ConsumerBrandMoat]] — EP80's Berkshire-related investing case cluster.
 - [[OptionSellingDiscipline]] — EP90's derivative expression of cash-backed value discipline.
+- [[DairyQueen]] — ice-cream chain context added by the FengTouQuan episode.

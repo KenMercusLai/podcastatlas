@@ -2,8 +2,8 @@
 title: "Experiential Retail"
 type: concept
 tags: [retail, consumer, product, distribution]
-sources: [build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88, the-walt-disney-company-1, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4]
-last_updated: 2026-07-07
+sources: [build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88, the-walt-disney-company-1, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4, 132-xuegao-jianghu-fengtouquan-1-132-1]
+last_updated: 2026-07-08
 ---
 
 # Experiential Retail
@@ -18,6 +18,8 @@ The concept extends the wiki's consumer-products branch beyond [[CPGDistribution
 
 [[starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4]] adds the hospitality version through [[StephenStarr]] and [[STARRRestaurants]]. [[RestaurantExperienceDesign]] makes the dining room itself the product: food, music, lighting, air, service, and crowd energy create the value customers return for.
 
+[[132-xuegao-jianghu-fengtouquan-1-132-1]] adds the ice-cream version through [[YerenXiansheng]]. Here the experience is compact and conversion-oriented: trial samples, visible store production, flavor rotation, and same-day sale rules make the shop visit valuable without requiring a large seating environment.
+
 ## Key Claims
 - The store is not just the point of sale; it is the medium through which the product becomes personally meaningful.
 - Experiential retail often asks the customer to spend time and attention, so the process must feel rewarding rather than like friction.
@@ -27,6 +29,7 @@ The concept extends the wiki's consumer-products branch beyond [[CPGDistribution
 - A themed environment can also distribute media IP, turning the visit into promotion, monetization, and customer attachment at the same time.
 - A hybrid local concept may need pre-sold memberships and community evidence before a second location proves that the experience travels.
 - In hospitality, the experience is especially fragile because one weak meal, service failure, or room-comfort problem can break the customer's willingness to return.
+- In store-made ice cream, experience can be operational rather than theatrical: the customer needs taste proof, freshness signals, and immediate consumption more than a long dwell-time environment.
 
 ## Connections
 - [[BuildABear]] and [[MaxineClark]] - source case.
@@ -37,3 +40,4 @@ The concept extends the wiki's consumer-products branch beyond [[CPGDistribution
 - [[Disneyland]], [[ThemeParkAsMediaPlatform]], and [[EntertainmentIPFlywheel]] - Disney branch where a physical place extends media IP.
 - [[TheBeauCollective]], [[LocalMarketProof]], and [[PreProductSelling]] - fitness-retail branch where place, community, and expansion validation overlap.
 - [[StephenStarr]], [[STARRRestaurants]], [[RestaurantExperienceDesign]], and [[ConceptLedHospitality]] - hospitality branch where restaurants are built as produced experiences.
+- [[YerenXiansheng]], [[FreshMadeIceCreamRetail]], and [[InStoreDemos]] - ice-cream branch where tasting and visible production are part of the product.

@@ -887,3 +887,11 @@ Added source page for a 商业就是这样 fifth-anniversary listener episode on
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint after health passed. Deterministic and graph-aware checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, two fragile graph bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. No lint report file was saved.
+
+## [2026-07-08] ingest | 132. 雪糕江湖
+
+Added source page for a 疯投圈 episode on China's ice-cream market, contrasting prepackaged frozen brands with store-made chains, sampling, franchise expansion, and price-war risk. Created pages for 疯投圈, Yeren Xiansheng, Zhong Xuegao, Haagen-Dazs, Dairy Queen, Mixue Bingcheng, General Mills, Fresh-Made Ice Cream Retail, Cold-Chain CPG Constraint, and Franchise-Led Consumer Chain Expansion; updated overview, index, CPG Distribution, In-Store Demos, Experiential Retail, Local Market Proof, Retail Site Selection, and Berkshire Hathaway. No direct contradiction found; the source qualifies existing consumer-brand and experiential-retail themes with frozen-product logistics, store-made freshness boundaries, and franchise-enabled chain expansion.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

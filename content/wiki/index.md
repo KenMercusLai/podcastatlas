@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [132. 雪糕江湖](sources/132-xuegao-jianghu-fengtouquan-1-132-1.md) — 疯投圈 episode on China's ice-cream market, contrasting prepackaged cold-chain brands with store-made chains, sampling, franchise expansion, and price-war risk.
 - [Vol.245 五周年，你身边的商业就是这样](sources/vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244.md) — 商业就是这样 fifth-anniversary listener episode on city commercial observations, tourism traffic mismatch, local-service platforms, overseas retail rules, TikTok turbulence, and five-year personal changes.
 - [E144.交易的艺术：不预测，统计优势，分散红利，随机波动](sources/e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0.md) — 面基 episode on no-prediction trend trading, positive-expectation systems, diversification alpha, random market narratives, and price-as-probability thinking.
 - [Stock options: how to hedge an AI bubble](sources/stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5.md) — The Intelligence episode on AI bubble hedging, hyperscaler capex, bonds/gold/defensive equity hedges, Erdogan succession, and Georges Beauchard's literary-agent judgment.
@@ -133,6 +134,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [疯投圈](entities/FengTouQuan.md) — Podcast/show context for the ice-cream industry episode on cold-chain, store-made retail, sampling, and franchising.
+- [Yeren Xiansheng](entities/YerenXiansheng.md) — Chinese store-made gelato/ice-cream chain used as the episode's core case for sampling, fresh-made positioning, and franchise expansion.
+- [Zhong Xuegao](entities/ZhongXuegao.md) — Chinese prepackaged premium ice-cream brand used as the cold-chain and high-price contrast case.
+- [Haagen-Dazs](entities/HaagenDazs.md) — Premium ice-cream incumbent used to discuss China store contraction, traffic decline, and weak fit with the current consumption environment.
+- [Dairy Queen](entities/DairyQueen.md) — Mid-price ice-cream chain used as the steadier small-store comparison to Haagen-Dazs and Yeren Xiansheng.
+- [Mixue Bingcheng](entities/MixueBingcheng.md) — Tea-drink chain whose low-price soft serve makes it a large ice-cream-volume comparison point.
+- [General Mills](entities/GeneralMills.md) — Food company mentioned as the Haagen-Dazs parent-company context in the ice-cream episode.
 - [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for the fifth-anniversary listener episode on city commerce, local retail, platforms, tourism, and personal change.
 - [Polymarket](entities/Polymarket.md) — Prediction-market example used by E144 to explain price-as-probability thinking and residual risk.
 - [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for the AI-bubble hedging, Erdogan succession, and Georges Beauchard episode.
@@ -735,6 +743,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, and Louis Hong episodes.
 
 ## Concepts
+- [Fresh-Made Ice Cream Retail](concepts/FreshMadeIceCreamRetail.md) — Store-based ice-cream model where final production, tasting, freshness signaling, and immediate consumption become the channel.
+- [Cold-Chain CPG Constraint](concepts/ColdChainCPGConstraint.md) — Frozen-product distribution problem where temperature control, delivery risk, and logistics cost shape pricing and channel strategy.
+- [Franchise-Led Consumer Chain Expansion](concepts/FranchiseLedConsumerChainExpansion.md) — Growth pattern where a tested store model scales through mature franchise operators and local site execution.
 - [No-Prediction Trading](concepts/NoPredictionTrading.md) — Trading frame where signals are repeatable positive-expectation conditions rather than forecasts of the next trade.
 - [Diversification Alpha](concepts/DiversificationAlpha.md) — Portfolio idea that broad exposure, capped downside, uncapped upside, and winner weighting can be return sources.
 - [Random Market Narratives](concepts/RandomMarketNarratives.md) — Warning that convincing market stories can be generated after random or contingent price paths.
