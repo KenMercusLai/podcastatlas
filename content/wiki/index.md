@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Walt Disney Company: Walt's Era](sources/the-walt-disney-company-1.md) — Acquired episode on Walt Disney, Roy Disney, Disney's owned-IP flywheel, Mickey Mouse, Snow White, merchandising, television, Disneyland, strategic rereleases, and vertical media distribution.
 - [EP87 对话独立设计师大琪：通过设计帮助产品做好增长](sources/ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc.md) — Podcast episode on Daqi, Product Roast, landing-page conversion, business-fluent design, design-led growth, cross-cultural product design, and early product validation.
 - [Build-A-Bear: Maxine Clark. A Former Shoe Executive Launches a Stuffed Animal Empire](sources/build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88.md) — Podcast episode on Maxine Clark, Build-A-Bear, experiential retail, customer co-creation, mall expansion, site selection, concept protection, and founder succession.
 - [20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会](sources/20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto.md) — Podcast episode on OpenClaw's virality, IM entry points, local execution, memory, skills, feedback loops, and consumer/enterprise agent opportunities.
@@ -66,6 +67,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Acquired](entities/Acquired.md) — Business-history podcast/source context for the Disney episode and its entertainment-IP strategy analysis.
+- [The Walt Disney Company](entities/TheWaltDisneyCompany.md) — Media and entertainment company analyzed through owned IP, animation, merchandise, television, parks, rereleases, and distribution control.
+- [Walt Disney](entities/WaltDisney.md) — Founder and creative force behind Mickey, Snow White, Disneyland, and the Florida/Epcot vision.
+- [Roy Disney](entities/RoyDisney.md) — Walt's finance and operating partner who preserved the company and completed Walt Disney World.
+- [Ub Iwerks](entities/UbIwerks.md) — Early Disney animation partner and technical/artistic contributor to Mickey Mouse.
+- [Oswald the Lucky Rabbit](entities/OswaldTheLuckyRabbit.md) — Early character whose loss taught Disney the importance of owning IP and customer leverage.
+- [Mickey Mouse](entities/MickeyMouse.md) — Disney character that became a branded animation, merchandise, club, comics, and licensing flywheel.
+- [Kay Kamen](entities/KayKamen.md) — Merchandising operator who professionalized Disney consumer products in the 1930s.
+- [Snow White and the Seven Dwarfs](entities/SnowWhiteAndTheSevenDwarfs.md) — Bet-the-company animated feature that proved premium animation and later rerelease economics.
+- [Disneyland](entities/Disneyland.md) — Anaheim theme park that turned Disney IP into a physical media and retail platform.
+- [Walt Disney World](entities/WaltDisneyWorld.md) — Florida project completed by Roy Disney after Walt's death.
+- [ABC](entities/ABC.md) — Television partner that financed and promoted Disneyland while gaining breakout programming.
+- [WED Enterprises](entities/WEDEnterprises.md) — Walt Disney's personal company that designed Disneyland and retained valuable park rights before buyouts.
+- [Buena Vista Distribution](entities/BuenaVistaDistribution.md) — Disney distribution arm that reduced reliance on outside film distributors.
 - [大琪](entities/Daqi.md) — Independent designer connecting Alibaba, Lazada, TikTok, Product Roast, landing-page conversion, and design-led growth.
 - [Lazada](entities/Lazada.md) — Southeast Asian ecommerce company used through Daqi's design-team experience and cross-cultural product-design lessons.
 - [TikTok](entities/TikTok.md) — Singapore-based product-design context in Daqi's career, linked to internationalization and cross-cultural product design.
@@ -387,6 +402,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Entertainment IP Flywheel](concepts/EntertainmentIPFlywheel.md) — Strategy where owned characters and stories compound across films, merchandise, television, parks, rereleases, and distribution.
+- [IP Ownership](concepts/IPOwnership.md) — Strategic control of characters, stories, and rights so media assets can be reused without distributor dependency.
+- [Strategic Rerelease](concepts/StrategicRerelease.md) — Catalog strategy that earns new revenue from owned media whose major production cost is already paid.
+- [Theme Park As Media Platform](concepts/ThemeParkAsMediaPlatform.md) — Pattern where a park distributes, monetizes, and deepens a story world rather than only hosting rides.
+- [Vertical Media Distribution](concepts/VerticalMediaDistribution.md) — Control of media routes from theaters and television to parks, merchandise, catalog, and direct distribution.
+- [Art Commerce Integration](concepts/ArtCommerceIntegration.md) — Pairing creative ambition with business-system design so each reinforces the other.
 - [Product Roast](concepts/ProductRoast.md) — Daqi's public landing-page review practice connecting design critique to product value, CTA clarity, and conversion.
 - [Landing Page Conversion](concepts/LandingPageConversion.md) — Web-product conversion surface where value proposition, scenario, trust, and CTA turn attention into action.
 - [Business Fluent Design](concepts/BusinessFluentDesign.md) — Design posture that speaks in goals, users, KPI, product assumptions, and business tradeoffs rather than only visual preference.

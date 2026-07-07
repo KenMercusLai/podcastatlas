@@ -2,7 +2,7 @@
 title: "Experiential Retail"
 type: concept
 tags: [retail, consumer, product, distribution]
-sources: [build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88]
+sources: [build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88, the-walt-disney-company-1]
 last_updated: 2026-07-07
 ---
 
@@ -12,12 +12,15 @@ Experiential retail is a store strategy where the visit itself is part of the pr
 
 The concept extends the wiki's consumer-products branch beyond [[CPGDistribution]] and [[RetailShelfPlacement]]. In Build-A-Bear's case, [[CustomerCoCreation]], mall location, employee scripts, store flow, birthday/field-trip energy, licensing partnerships, and [[RetailConceptProtection]] all help make the experience itself worth paying for.
 
+[[the-walt-disney-company-1]] adds the media-and-theme-park version. [[Disneyland]] turns Disney IP into a place where customers spend time inside the story world, making the park a [[ThemeParkAsMediaPlatform]] and a physical node in the [[EntertainmentIPFlywheel]].
+
 ## Key Claims
 - The store is not just the point of sale; it is the medium through which the product becomes personally meaningful.
 - Experiential retail often asks the customer to spend time and attention, so the process must feel rewarding rather than like friction.
 - A strong experience can create [[CustomerPull]] even when outsiders dismiss the concept as a fad.
 - Participation can justify [[ProductLedWillingnessToPay]] because the customer values the memory and authorship, not only the physical object.
 - Experiential retail still needs operational discipline: lease terms, site quality, staffing, replenishment, legal protection, and expansion pacing determine whether a good experience can scale.
+- A themed environment can also distribute media IP, turning the visit into promotion, monetization, and customer attachment at the same time.
 
 ## Connections
 - [[BuildABear]] and [[MaxineClark]] - source case.
@@ -25,3 +28,4 @@ The concept extends the wiki's consumer-products branch beyond [[CPGDistribution
 - [[MallBasedRetailExpansion]] and [[RetailSiteSelection]] - location and rollout mechanics.
 - [[RetailConceptProtection]] - legal and lease defenses around the format.
 - [[DistributionLedProductBuilding]], [[CustomerPull]], and [[ProductLedWillingnessToPay]] - broader startup concepts reinforced by the case.
+- [[Disneyland]], [[ThemeParkAsMediaPlatform]], and [[EntertainmentIPFlywheel]] - Disney branch where a physical place extends media IP.

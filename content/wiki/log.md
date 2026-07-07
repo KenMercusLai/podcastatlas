@@ -304,6 +304,10 @@ Added source page for a YingdiHaike episode on Daqi, Product Roast, landing-page
 
 636 nodes analyzed.
 
+## [2026-07-07] ingest | The Walt Disney Company: Walt's Era
+
+Added source page for an Acquired episode on Walt Disney, Roy Disney, Disney's owned-IP flywheel, Oswald/Mickey IP ownership, Snow White, merchandising, ABC and television, Disneyland, Buena Vista Distribution, strategic rereleases, and Walt Disney World. Created supporting pages for Acquired, The Walt Disney Company, Walt Disney, Roy Disney, Ub Iwerks, Oswald, Mickey Mouse, Kay Kamen, Snow White, Disneyland, Walt Disney World, ABC, WED Enterprises, Buena Vista Distribution, Entertainment IP Flywheel, IP Ownership, Strategic Rerelease, Theme Park As Media Platform, Vertical Media Distribution, and Art Commerce Integration; updated overview, index, experiential retail, distribution-led product building, and product-led willingness to pay pages.
+
 ## [2026-07-07] graph | Knowledge graph rebuilt
 
 636 nodes, 5528 edges (5528 extracted, 0 inferred).
