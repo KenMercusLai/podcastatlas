@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏](sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi.md) — 张小珺Jùn｜商业访谈录 episode on Zhang Yueguang, Miaoya, AI-native product design, context-first product work, AI friend products, AI otome games, and Docky.
 - [《大厂小民》：我们必须克制对系统与上岸的期待](sources/da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf.md) — 面基 episode with 小满 on big-company systems, layoffs, "上岸" expectations, system humanity, writing after exit, tool rationality, family labor, and nonfiction publicness.
 - [E163.要完了？不！是要玩了！论养AI的心态与习惯](sources/e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb.md) — 面基 episode on AI FoMO, skills as agent operating manuals, context and memory habits, output gates, token pressure, human agency, and using AI to regain play rather than only speed.
 - [E162.康波周期中的AI：新技术总在萧条期爆发，bad times make good people](sources/e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl.md) — 面基 episode on Kondratiev cycles, AI as a sixth long-wave technology, depression-driven innovation, risk parity, gold as monetary anchor, geopolitical macro, and translating macro narratives into multi-asset portfolios.
@@ -123,6 +124,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [张月光](entities/ZhangYueguang.md) — Product founder whose path from ByteDance and Alibaba through Miaoya now frames AI-native product design, AI friends, AI otome games, and Docky.
+- [妙鸭](entities/Miaoya.md) — AI portrait product used by Zhang Yueguang to distinguish strong AI-powered internet products from fully AI-native products.
+- [Docky](entities/Docky.md) — Zhang Yueguang's agent product starting from PPT generation and aiming at ability expansion through an AI friend.
+- [原因](entities/Yuanyin.md) — Earlier Live2D virtual-character product that shaped Zhang Yueguang's interest in female-user companion products and AI otome games.
 - [小满](entities/XiaoMan.md) — Nonfiction writer and 面基 guest using her big-company layoff, writing life, and family arrangements to examine system expectations and agency.
 - [《大厂小民》](entities/DaChangXiaomin.md) — XiaoMan's nonfiction book about ordinary people inside large internet companies, layoffs, outsourcing inequality, and the limits of treating big companies as a permanent shore.
 - [苏本](entities/SuBen.md) — Editor who encouraged XiaoMan's edge-perspective nonfiction and whose death became part of the motivation to complete 《大厂小民》.
@@ -678,9 +683,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [ZhenFund](entities/ZhengkeFund.md) — Investment firm associated with the host's AI investing role and Token Grant.
 - [中植集团](entities/ZhongzhiGroup.md) — Finance-company case used by EP21 as a news hook for platform risk and financial workers' divergent outcomes.
 - [自立](entities/Zili.md) — Fengyan Fengyu host discussing OpenClaw, personal-agent security, and permission boundaries.
-- [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
+- [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, and Xie Saining episodes.
 
 ## Concepts
+- [AI Native Product Design](concepts/AINativeProductDesign.md) — Product-design shift from deterministic user-flow design toward model context, open input/output, and mixed product-design-engineering exploration.
+- [One Way Door Product](concepts/OneWayDoorProduct.md) — Product adoption standard where a new solution makes users unwilling to return to the old workflow.
+- [AI Friend Products](concepts/AIFriendProducts.md) — AI products treated as individual-like companions or collaborators rather than only tools or services.
+- [AI Otome Games](concepts/AIOtomeGames.md) — Female-oriented AI companion-game direction combining authored IP, daily interaction, relationship progression, and game monetization.
 - [Career Shore Myth](concepts/CareerShoreMyth.md) — Career-stability frame warning against treating a prestigious system or large company as a permanent "上岸" destination.
 - [System Humanity](concepts/SystemHumanity.md) — Organizational frame for preserving judgment, restraint, and humane action inside formal systems and efficiency pressure.
 - [Layoff Buffer](concepts/LayoffBuffer.md) — Time, compensation, and psychological space between layoff signal and full exit, sometimes enabling planning or public writing.

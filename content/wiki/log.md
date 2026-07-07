@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-08] ingest | 130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏
+
+Added source page for a 张小珺Jùn｜商业访谈录 episode on Zhang Yueguang, Miaoya, AI-native product design, one-way-door products, AI friends, AI otome games, and Docky. Created supporting pages for Zhang Yueguang, Miaoya, Docky, Yuanyin, AI Native Product Design, One Way Door Product, AI Friend Products, and AI Otome Games; updated overview, index, 张小珺Jùn｜商业访谈录, Alibaba, ByteDance, Context Engineering, AI Interactive Entertainment, AI Interactive Content Platforms, Designed Agency In Games, AI Organization Design, Agentic Workflow, and Product-Led Willingness To Pay. No direct contradiction found; the source qualifies broad AI-native and AI-game narratives by arguing that AI capability alone is not enough and that current AI game value is most credible in narrow, designed companion spaces.
+
 ## [2026-07-08] ingest | 《大厂小民》：我们必须克制对系统与上岸的期待
 
 Added source page for a 面基 episode with 小满 on 《大厂小民》, big-company systems, layoffs, "上岸" expectations, humane cracks in formal organizations, outsourced/full-time inequality, tool rationality leaking into relationships, family labor boundaries, and nonfiction writing as public memory. Created supporting pages for XiaoMan, DaChangXiaomin, SuBen, JiangXiaoyu, ZhengYou, Career Shore Myth, System Humanity, Layoff Buffer, Tool Rationality Spillover, Family Labor Boundaries, and Nonfiction Publicness; updated overview, index, 面基, Big Company Halo, Large Company Organizational Inertia, Workplace Hidden Rules, Self-Directed Work, Workplace Relationship Boundaries, and Career Self-Rescue. No direct contradiction found; the source qualifies big-company halo and large-company critique by treating large organizations as both temporary shelter and replaceability machine.
@@ -795,3 +799,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran health and lint checks. Health passed. Deterministic and graph-aware lint found one orphan page (`wiki/entities/BobosOatBars.md`) and no broken links, missing entity pages, sparse pages, hub stubs, fragile bridges, or isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. No lint report file was saved.

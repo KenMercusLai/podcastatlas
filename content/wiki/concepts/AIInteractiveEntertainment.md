@@ -2,8 +2,8 @@
 title: "AI Interactive Entertainment"
 type: concept
 tags: [ai, games, entertainment]
-sources: [2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec, ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]
-last_updated: 2026-07-07
+sources: [130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec, ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]
+last_updated: 2026-07-08
 ---
 
 # AI Interactive Entertainment
@@ -17,6 +17,8 @@ AI interactive entertainment is the broader frame [[Xiaoning]] uses instead of "
 [[vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]] adds a sandbox and world-rule version through [[TokenDrivenSoftware]]. The hosts use Zelda-like combinatorial play, generated NPC branches, AI short dramas, and element-combination games to imagine entertainment where the player can try interactions the developer did not explicitly enumerate.
 
 [[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] adds the generated-environment and video-model branch. Project Genie-style real-time 3D worlds and Seedance-style AI video make the entertainment opportunity more concrete, while the hosts still distinguish watchable generated media from stable interactive systems that retain users.
+
+[[130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi]] adds [[ZhangYueguang]]'s [[AIOtomeGames]] case. He treats female-oriented AI companionship as one of the more credible near-term AI game landing points because dialogue, relationship maintenance, IP packaging, and daily reachable characters fit current model strengths better than broad open-ended worlds.
 
 ## Four Layers
 - AI as production tool, including coding, art, asset, and pipeline assistance.
@@ -33,6 +35,7 @@ AI interactive entertainment is the broader frame [[Xiaoning]] uses instead of "
 - Token-driven play is attractive only if generated surprise stays coherent and fun; unlimited generation is not the same as designed agency.
 - Generated 3D or video demos can excite users and investors, but entertainment products still need repeatable mechanics, rights control, and interaction design.
 - Simulation-based AI entertainment can be closer to consumer readiness when text, agents, rules, and feedback create replayable virtual-life fragments before richer multimodal worlds are stable.
+- AI otome games may be a narrower near-term path because game structure can reduce companion-chat entry cost, create paid surfaces, and let characters grow through content updates.
 
 ## Connections
 - [[AIGameIndustrialization]] — production complexity that prevents "generate game" from being equivalent to "generate image."
@@ -45,3 +48,4 @@ AI interactive entertainment is the broader frame [[Xiaoning]] uses instead of "
 - [[TokenDrivenSoftware]], [[WorldModels]], and [[ProductLedWillingnessToPay]] — dynamic entertainment and cost/value lens added by Vol. 170.
 - [[WorldModels]], [[VideoModels]], [[ByteDance]], and [[AIGameIndustrialization]] — generated-world and Seedance-style video cases added by Vol. 162.
 - [[Mujian]], [[Roi]], [[AISimulationContent]], and [[AISuperCreators]] — simulation-platform and creator-ecology lens added by the Mujian source.
+- [[ZhangYueguang]], [[AIOtomeGames]], [[AIFriendProducts]], and [[Yuanyin]] — female-oriented companion-game branch added by episode 130.

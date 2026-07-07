@@ -2,7 +2,7 @@
 title: "ByteDance"
 type: entity
 tags: [company, ai, platform]
-sources: [cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]
+sources: [130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]
 last_updated: 2026-07-08
 ---
 
@@ -18,6 +18,8 @@ ByteDance is the company context for [[Doubao]] in [[cong-qq-huiyuan-dao-doubao-
 
 [[ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa]] adds ByteDance through Doubao's consumer-assistant scale. The hosts use source-reported Doubao monthly active users over 100 million to frame why [[Alibaba]] is pushing [[Qwen]] despite entering a crowded market, and to contrast ByteDance's traffic advantage with Alibaba's potential service-fulfillment advantage.
 
+[[130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi]] adds ByteDance as part of [[ZhangYueguang]]'s product-manager formation before [[Miaoya]] and [[Docky]]. In this source, ByteDance matters less as a model provider and more as the place where visual AI work, growth projects, and platform product experience helped shape his later [[AINativeProductDesign]] lens.
+
 ## Key Points
 - The hosts say Doubao's scale makes free access increasingly expensive because usage drives token and compute costs.
 - EP117 adds that Doubao's scale makes it the benchmark competitor for Alibaba's Qwen assistant strategy.
@@ -27,6 +29,7 @@ ByteDance is the company context for [[Doubao]] in [[cong-qq-huiyuan-dao-doubao-
 - The AirJelly episode links ByteDance to open-source context-capture work through [[Mycontext]] rather than to Doubao or video generation.
 - Vol. 162 links ByteDance to the rapid improvement of AI video and the tension between creative leverage and rights enforcement.
 - The Keji Luandun Spring Festival episode links ByteDance video capability to broader labor-value repricing in media and advertising.
+- The Zhang Yueguang source links ByteDance to product-manager formation before later AI portrait, companion, and agent products.
 
 ## Connections
 - [[Doubao]] — ByteDance AI assistant and model product at the center of the episode.
@@ -37,3 +40,4 @@ ByteDance is the company context for [[Doubao]] in [[cong-qq-huiyuan-dao-doubao-
 - [[AIInteractiveEntertainment]] — later source context for ByteDance's AI exploration in entertainment.
 - [[Mycontext]], [[AirJelly]], and [[HuangBote]] — context-capture and founder background added by the AirJelly episode.
 - [[Seedance]], [[VideoModels]], [[AIInteractiveEntertainment]], [[AIContentProvenance]], and [[IntelligenceDevaluation]] — video-generation and rights-risk themes added by Vol. 162 and the Keji Luandun Spring Festival episode.
+- [[ZhangYueguang]], [[Miaoya]], [[Docky]], and [[AINativeProductDesign]] — product-founder path added by episode 130.
