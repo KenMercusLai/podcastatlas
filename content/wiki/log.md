@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-08] ingest | EP122 拥有一辆房车是种什么样的体验？🤔
+
+Added source page for a 硬地骇客 episode on Guigui's secondhand B-type RV ownership, pet travel, winter diesel and water logistics, parking constraints, gray/black water handling, mobile work, and rent-before-buy advice. Created supporting pages for Guigui, One Life, Maxus V90, RV Ownership Economics, B-Type RV Motorhome, RV Travel Logistics, Pet Travel, and Mobile Work; updated overview, index, 硬地骇客, Podwise, Financial Freedom Vs Lifestyle Freedom, and Self-Directed Work. No direct contradiction found; the source qualifies digital-nomad and lifestyle-freedom narratives by showing that mobility depends on vehicle, weather, water, sewage, parking, and network constraints.
+
 ## [2026-07-08] ingest | 130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏
 
 Added source page for a 张小珺Jùn｜商业访谈录 episode on Zhang Yueguang, Miaoya, AI-native product design, one-way-door products, AI friends, AI otome games, and Docky. Created supporting pages for Zhang Yueguang, Miaoya, Docky, Yuanyin, AI Native Product Design, One Way Door Product, AI Friend Products, and AI Otome Games; updated overview, index, 张小珺Jùn｜商业访谈录, Alibaba, ByteDance, Context Engineering, AI Interactive Entertainment, AI Interactive Content Platforms, Designed Agency In Games, AI Organization Design, Agentic Workflow, and Product-Led Willingness To Pay. No direct contradiction found; the source qualifies broad AI-native and AI-game narratives by arguing that AI capability alone is not enough and that current AI game value is most credible in narrow, designed companion spaces.
@@ -903,3 +907,7 @@ Added source page for a 面基 episode on A-share market psychology above 4000, 
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint after health passed. Deterministic and graph-aware checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, two fragile graph bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; a limited in-session semantic sample review found no direct contradictions in the sampled pages and flagged source-breadth gaps for broad market, macro, and product-strategy claims. No lint report file was saved.

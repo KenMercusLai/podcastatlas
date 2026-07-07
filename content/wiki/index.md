@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP122 拥有一辆房车是种什么样的体验？🤔](sources/ep122-yongyou-yiliang-fangche-shi-zhong-shenme-yang-de-tiyan-lhposkcf-otqhppghn1yjvpjgsrd.md) — 硬地骇客 episode on secondhand B-type RV ownership, pet travel, winter diesel and water logistics, parking constraints, mobile work, and why interested buyers should rent before buying.
 - [E145.上钟了！4000点之上的心理按摩](sources/e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e.md) — 面基 episode on A-share valuation indicators, 4000-point bull-market psychology, realized-versus-paper gains, value/momentum strategy mixing, and drawdown-aware allocation.
 - [132. 雪糕江湖](sources/132-xuegao-jianghu-fengtouquan-1-132-1.md) — 疯投圈 episode on China's ice-cream market, contrasting prepackaged cold-chain brands with store-made chains, sampling, franchise expansion, and price-war risk.
 - [Vol.245 五周年，你身边的商业就是这样](sources/vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244.md) — 商业就是这样 fifth-anniversary listener episode on city commercial observations, tourism traffic mismatch, local-service platforms, overseas retail rules, TikTok turbulence, and five-year personal changes.
@@ -135,6 +136,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [龟龟](entities/Guigui.md) — 硬地骇客 guest explaining secondhand B-type RV ownership, pet travel, winter logistics, parking, and mobile work from trips to Jingdezhen and Shenyang.
+- [One Life](entities/OneLife.md) — RV brand or fit-out style associated with Guigui's secondhand B-type RV in EP122.
+- [Maxus V90](entities/MaxusV90.md) — Van platform used as the source's concrete B-type RV example.
 - [张一贞](entities/ZhangYizhen.md) — 面基 guest explaining A-share valuation indicators, trend rules, asset rotation, and drawdown-aware investor psychology.
 - [疯投圈](entities/FengTouQuan.md) — Podcast/show context for the ice-cream industry episode on cold-chain, store-made retail, sampling, and franchising.
 - [Yeren Xiansheng](entities/YerenXiansheng.md) — Chinese store-made gelato/ice-cream chain used as the episode's core case for sampling, fresh-made positioning, and franchise expansion.
@@ -745,6 +749,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, and Louis Hong episodes.
 
 ## Concepts
+- [RV Ownership Economics](concepts/RVOwnershipEconomics.md) — Rent-versus-buy and new-versus-used frame for RVs, including depreciation, rental cost, customization, pets, and resale uncertainty.
+- [B-Type RV Motorhome](concepts/BTypeRVMotorhome.md) — RV category that keeps the original van body, trading better driving and city use against smaller space and weaker insulation.
+- [RV Travel Logistics](concepts/RVTravelLogistics.md) — Practical operating layer for RV travel: parking, diesel grade, heating, water, electricity, gray/black water, and supply-point planning.
+- [Pet Travel](concepts/PetTravel.md) — Travel-planning constraint where RV ownership can solve hotel and rest-stop friction for cats and dogs while adding heating and space requirements.
+- [Mobile Work](concepts/MobileWork.md) — Work-from-the-road pattern shaped by vehicle power, 5G signal, seating, weather, and stop choice.
 - [A-Share Valuation Indicators](concepts/AShareValuationIndicators.md) — Indicator cluster for judging A-share market heat through valuation, fund returns, deposit ratios, log charts, confidence ranges, and deviation measures.
 - [Multi-Strategy Allocation](concepts/MultiStrategyAllocation.md) — Portfolio frame that mixes value, momentum, stock-bond allocation, and multi-asset rotation to reduce dependence on one market path.
 - [Drawdown Psychology](concepts/DrawdownPsychology.md) — Investor-behavior constraint where drawdown duration, not just depth, drains patience, action capacity, and profit-capture discipline.

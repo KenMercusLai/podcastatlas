@@ -2,7 +2,7 @@
 title: "Self-Directed Work"
 type: concept
 tags: [work, founder, motivation]
-sources: [ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf]
+sources: [ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, ep122-yongyou-yiliang-fangche-shi-zhong-shenme-yang-de-tiyan-lhposkcf-otqhppghn1yjvpjgsrd]
 last_updated: 2026-07-08
 ---
 
@@ -14,6 +14,8 @@ The concept is not treated as simple romantic freedom. XiaoSun also says that if
 
 [[da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf]] adds [[XiaoMan]]'s writing life as a quieter version of the same pattern. Leaving a large company gives her more ownership over her name, judgment, and schedule, but it does not erase money pressure, childcare, publicity, or the possibility of returning to ordinary employment. Self-directed work is therefore not freedom from constraint; it is a higher share of work that the person can recognize as their own.
 
+[[ep122-yongyou-yiliang-fangche-shi-zhong-shenme-yang-de-tiyan-lhposkcf-otqhppghn1yjvpjgsrd]] adds a mobility precondition through [[MobileWork]]. Work that can be done from an RV still depends on route choice, network signal, power, heat, seating, and the discipline to reset the vehicle after each stop, so autonomy is constrained by physical logistics rather than only by employer permission.
+
 ## Key Claims
 
 - Self-directed work can create unusually high effort when ownership, identity, and purpose are aligned.
@@ -21,6 +23,7 @@ The concept is not treated as simple romantic freedom. XiaoSun also says that if
 - A founder still needs to separate authentic conviction from immature communication, weak follow-through, or lack of commercial discipline.
 - The pattern is strongest when paired with [[FounderProductFit]] and weakest when it ignores [[CustomerPull]] or [[FounderCashFlowConstraint]].
 - Writing, creator work, and nonfiction can be self-directed even when they remain economically fragile and dependent on family or platform conditions.
+- Mobile work expands self-direction only when the worker can satisfy the physical setup needs behind the autonomy story.
 
 ## Connections
 
@@ -31,3 +34,4 @@ The concept is not treated as simple romantic freedom. XiaoSun also says that if
 - [[WorkplaceHiddenRules]] and [[UpwardManagement]] — contrasting office-work concepts where success depends on external coordination.
 - [[XiaoMan]] and [[DaChangXiaomin]] — nonfiction writing case added by the Mianji source.
 - [[CareerShoreMyth]] and [[FamilyLaborBoundaries]] — constraints that remain after leaving the large-company system.
+- [[MobileWork]] and [[RVTravelLogistics]] — vehicle-bound autonomy case added by EP122.
