@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Advice Line with Ronnen Harary of Spin Master/PAW Patrol](sources/advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5.md) — Podcast episode on Ronnen Harary, Spin Master, PAW Patrol, Yearly Co., Island Bee Company, Wandering Soul Beer, commodity price exposure, family-business scaling, channel choice, and founder work boundaries.
 - [别在国内卷了，去美国看看只要产品好就有人付费的市场](sources/bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun.md) — Keji Luandun episode on Win's U.S. trip, CES networking, Tesla/Waymo Robotaxi observations, Chinese AI model adoption abroad, U.S. paid-software culture, and payment-led market selection for founders.
 - [当华为抛出韬定律，我们该信它到哪一步？](sources/dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun.md) — Keji Luandun episode on Huawei's Tau Law, 3D chip stacking, constrained semiconductor strategy, HiSilicon backup culture, and Huawei's organization methodology.
 - [EP117 豆包月活过亿，阿里再造「千问」是不是晚了？](sources/ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa.md) — Yingdi Haike episode on Qwen, Doubao, Alibaba's service ecosystem, consumer AI assistant entry points, agentic commerce, and AI coding monetization.
@@ -109,6 +110,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Ronnen Harary](entities/RonnenHarary.md) — Spin Master co-founder and Advice Line guest advising consumer founders on material constraints, scaling ambition, storytelling, and founder work boundaries.
+- [Spin Master](entities/SpinMaster.md) — Toy and children's entertainment company behind PAW Patrol, used as a case for balancing acquisition, internal innovation, and franchise renewal.
+- [PAW Patrol](entities/PAWPatrol.md) — Spin Master children's franchise illustrating how long-running consumer IP must be refreshed through new stories, characters, toys, and movies.
+- [Yearly Co.](entities/YearlyCo.md) — Fine jewelry brand built around anniversary bangles and exposed to rising gold prices.
+- [Anne Williams](entities/AnneWilliams.md) — Yearly Co. founder weighing how to broaden milestone products without diluting the brand's solid-gold quality promise.
+- [Island Bee Company](entities/IslandBeeCompany.md) — Martha's Vineyard family apiary weighing B2B, retail, social, and distributor paths for sustainable growth.
+- [Felix Collin](entities/FelixCollin.md) — Island Bee Company operator deciding how much scale the family business should pursue.
+- [Hive 5](entities/Hive5.md) — Island Bee Company moisturizer built from five hive ingredients and used as a bridge beyond commodity honey.
+- [Wandering Soul Beer](entities/WanderingSoulBeer.md) — Founder-led craft beer brand rooted in personal grief and used as a case for story-led branding and boundaries.
+- [Matt Smith](entities/MattSmith.md) — Wandering Soul Beer founder managing the tension between personal brand meaning and founder work separation.
 - [Huawei](entities/Huawei.md) — Chinese technology company interpreted through Tau Law, semiconductor constraints, HiSilicon backup culture, customer engineering, and organization methodology.
 - [HiSilicon](entities/HiSilicon.md) — Huawei chip-design capability used as the episode's backup-plan and semiconductor-system integration case.
 - [Ren Zhengfei](entities/RenZhengfei.md) — Huawei founder figure used to explain backup culture, pressure-focused execution, customer-frontline language, and Tau Law's organizational fit.
@@ -624,6 +635,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Commodity Price Exposure](concepts/CommodityPriceExposure.md) — Operating and pricing risk created when a product depends on an input whose market price can move faster than customers' willingness to pay.
+- [Story Led Consumer Branding](concepts/StoryLedConsumerBranding.md) — Consumer-brand pattern where a product's meaning comes from a founder, family, place, ritual, or loss story that customers can remember and repeat.
+- [Family Business Scaling](concepts/FamilyBusinessScaling.md) — Growth problem where channel choice, production capacity, identity, and family relationships have to fit the scale the business actually wants.
+- [Founder Work Boundaries](concepts/FounderWorkBoundaries.md) — Physical, calendar, and relationship structures that keep a founder-led company from occupying every part of the founder's life.
 - [Tau Law](concepts/TauLaw.md) — Huawei's latency-oriented semiconductor metric, treated by the episode as a KPI-like engineering and organization target rather than a new natural law.
 - [Semiconductor 3D Stacking](concepts/Semiconductor3DStacking.md) — Chip packaging and architecture route that reduces signal distance through vertical integration, central to the Tau Law discussion.
 - [Constraint Driven Engineering Strategy](concepts/ConstraintDrivenEngineeringStrategy.md) — Strategy of finding alternate engineering routes when dominant technology paths are blocked, costly, or externally controlled.
