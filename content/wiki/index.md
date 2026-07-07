@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？](sources/145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou.md) — Zhang Xiaojun episode with Louis Hong on SpaceX history, reusable rockets, Musk management, Starlink/Starship, space-based AI infrastructure, and hard-tech alumni.
 - [134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe](sources/134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe.md) — 张小珺Jùn｜商业访谈录 episode on Xie Chen, Guanglun Intelligence, data as education, embodied data pyramids, simulation evaluation, data pricing, and data recipes for robotics.
 - [付费片花：平台的暴力抵抗与互联网大厂的隐形税收](sources/fufei-pianhua-pingtai-de-baoli-dikang-yu-hulianwang-dachang-de-yinxing-shui-1.md) — Keji Luandun teaser on flower/cake delivery, live-commerce order transfer, local shop fulfillment, platform dependence, and hidden intermediation margins.
 - [130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏](sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi.md) — 张小珺Jùn｜商业访谈录 episode on Zhang Yueguang, Miaoya, AI-native product design, context-first product work, AI friend products, AI otome games, and Docky.
@@ -126,6 +127,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Louis Hong / 洪力德](entities/LouisHong.md) — Former SpaceX manager and hard-tech investor explaining reusable rockets, Falcon 9 production, Musk management, and space infrastructure.
+- [Elon Musk](entities/ElonMusk.md) — SpaceX and Tesla leader discussed through first-principles manufacturing, extreme targets, and possible AI/space ecosystem integration.
+- [Starlink](entities/Starlink.md) — SpaceX satellite network framed as both Mars-funding business and low-earth-orbit data infrastructure.
+- [Starship](entities/Starship.md) — SpaceX next-generation launch system framed as the scale jump after Falcon 9.
+- [Falcon 9](entities/Falcon9.md) — Reusable SpaceX rocket treated as the real 2015 industry inflection and aerospace's Model T.
+- [Dragon Spacecraft](entities/DragonSpacecraft.md) — SpaceX spacecraft whose interior work illustrates human-facing hard-tech design and manufacturing constraints.
+- [xAI](entities/XAI.md) — Musk AI company discussed as a possible participant in physical AI and space-based AI infrastructure.
+- [Grok](entities/Grok.md) — xAI model/product discussed as a possible physical-world and Musk-ecosystem AI participant.
+- [NASA](entities/NASA.md) — U.S. space agency framed as SpaceX's knowledge, standards, and commercial-procurement foundation.
 - [谢晨](entities/XieChen.md) — Guanglun Intelligence founder and CEO framing AI data as education and robotics simulation as core embodied-AI infrastructure.
 - [光轮智能](entities/GuanglunIntelligence.md) — Robotics simulation and data-engine company building environments, evaluation, and recipe loops for embodied AI.
 - [Cruise](entities/Cruise.md) — Autonomous-driving company where Xie Chen validated simulation and synthetic data as useful training infrastructure.
@@ -618,7 +628,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Slack](entities/Slack.md) — Enterprise collaboration product discussed as too hard for Paperboy to directly replace, motivating an agent layer over existing workflows.
 - [Siri](entities/Siri.md) — Apple assistant discussed as a possible platform-native carrier for stronger AI and Gemini integration.
 - [Sprinto](entities/Sprinto.md) — Compliance and trust SaaS company built through deliberate validation, real audit learning, and AI-aware automation.
-- [SpaceX](entities/SpaceX.md) — Private technology company referenced in the AI/private-company IPO valuation discussion.
+- [SpaceX](entities/SpaceX.md) — Private space company now covered through IPO valuation risk, reusable rockets, Starlink, Starship, manufacturing culture, and AI infrastructure scenarios.
 - [S&P 500](entities/SP500.md) — Broad U.S. equity benchmark used in EP57 for long-term index investing, current valuation, and staged reentry discipline.
 - [Starbucks](entities/Starbucks.md) — Coffee retailer used as both a national channel for Justin's Nut Butter and a workplace/status reference point in middle-class coffee spending.
 - [StayPit](entities/StayPit.md) — Developer associated with OpenClaw in the Fengyan Fengyu source.
@@ -629,7 +639,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tea Maker](entities/TeaMaker.md) — Bootstrapped SaaS holding company founded by Thibaut-Louis Lucas.
 - [Tencent](entities/Tencent.md) — Chinese internet company discussed through QQ membership history, Yuanbao AI assistant competition, WeChat, mini-programs, and service-entry strategy.
 - [Tencent Meeting](entities/TencentMeeting.md) — Tencent collaboration product used as Vol. 164's example for decomposing SaaS into agent-recombinable video, recording, storage, and interface capabilities.
-- [Tesla](entities/Tesla.md) — EV and autonomous-driving company used in EP57 for valuation risk and in the Win source for FSD/Robotaxi experience.
+- [Tesla](entities/Tesla.md) — EV and autonomous-driving company used in EP57, Win's FSD/Robotaxi field notes, and the SpaceX source's Musk hard-tech ecosystem framing.
 - [The Mom Test](entities/TheMomTest.md) — Startup validation book referenced as a guardrail against leading customer interviews and false demand signals.
 - [The SaaS Podcast](entities/TheSaaSPodcast.md) — SaaS interview show covering founder growth, product validation, distribution, and AI-era SaaS strategy.
 - [ThreatLocker](entities/ThreatLocker.md) — Cybersecurity SaaS company built around zero trust controls, default-deny application control, and MSP-to-enterprise distribution.
@@ -691,9 +701,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [ZhenFund](entities/ZhengkeFund.md) — Investment firm associated with the host's AI investing role and Token Grant.
 - [中植集团](entities/ZhongzhiGroup.md) — Finance-company case used by EP21 as a news hook for platform risk and financial workers' divergent outcomes.
 - [自立](entities/Zili.md) — Fengyan Fengyu host discussing OpenClaw, personal-agent security, and permission boundaries.
-- [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, and Xie Saining episodes.
+- [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, and Louis Hong episodes.
 
 ## Concepts
+- [Reusable Rocket Economics](concepts/ReusableRocketEconomics.md) — Cost-structure shift created when launch vehicles can return and fly again instead of being discarded after each mission.
+- [Space Based AI Infrastructure](concepts/SpaceBasedAIInfrastructure.md) — Scenario where AI compute, data transport, energy, and data centers move partly into orbit.
+- [Space Economy Infrastructure](concepts/SpaceEconomyInfrastructure.md) — Layered platform view of space spanning launch, satellites, operations, connectivity, manufacturing, AI infrastructure, and downstream applications.
+- [First Principles Manufacturing](concepts/FirstPrinciplesManufacturing.md) — Engineering pattern of attacking cost and production limits by reasoning from physical function rather than industry precedent.
+- [High Responsibility Density](concepts/HighResponsibilityDensity.md) — Organization pattern where small teams own design, sourcing, production, and outcomes across hard-tech systems.
+- [SpaceX Mafia](concepts/SpaceXMafia.md) — Hard-tech alumni network expected to carry SpaceX/Tesla operating methods into new physical-technology startups.
 - [Data As Education](concepts/DataAsEducation.md) — Frame that AI data includes teaching signals such as tasks, feedback, evaluation, correction, and environments, not only labeled files.
 - [Embodied Data Pyramid](concepts/EmbodiedDataPyramid.md) — Robotics data structure combining scarce real robot data, scalable simulation, and broad internet or human first-person data.
 - [Robotics Simulation Evaluation](concepts/RoboticsSimulationEvaluation.md) — Simulation-as-evaluation infrastructure for repeatable robot training, testing, feedback, and counterfactual physical tasks.

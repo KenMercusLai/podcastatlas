@@ -2,8 +2,8 @@
 title: "AI For Science"
 type: concept
 tags: [ai, science, investment]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh]
-last_updated: 2026-07-07
+sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]
+last_updated: 2026-07-08
 ---
 
 # AI For Science
@@ -13,6 +13,8 @@ AI for Science is one of the episode's proposed ways to avoid direct competition
 [[na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr]] adds [[HuangBiwei]]'s causal view: scientific domains such as biopharma, new materials, astronomy, and physical-world discovery are less forgiving than language and code because they require deeper causal understanding under changing conditions.
 
 [[ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh]] adds the concrete materials version through [[LuZiheng]] and [[Kaiwuji]]. It turns AI for Science into [[AIMaterialsDiscovery]]: AI-generated candidates still have to pass synthesizability, property, experiment, kilogram-scale, customer, and commercialization tests before they count as useful scientific progress.
+
+[[145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]] adds an aerospace version through [[SpaceX]]. [[LouisHong]] argues that AI can help space work through simulation, material science, system design, and physical-world modeling, while space may help AI through [[SpaceBasedAIInfrastructure]]. This extends AI for Science from lab discovery into the infrastructure and engineering systems needed to test and deploy physical technologies.
 
 ## Investment Logic
 - Scientific and industrial domains may be harder to commoditize than lightweight software wrappers.
@@ -26,3 +28,4 @@ AI for Science is one of the episode's proposed ways to avoid direct competition
 - [[EverythingAgent]] — contrasting, more workflow-oriented application thesis.
 - [[CausalAI]] — research frame added by the Aether AI source.
 - [[Kaiwuji]], [[LuZiheng]], [[AIMaterialsDiscovery]], and [[MaterialsPipelineCompany]] — materials-specific version added by the Kaiwuji source.
+- [[SpaceX]], [[SpaceBasedAIInfrastructure]], and [[SpaceEconomyInfrastructure]] — aerospace and orbital-infrastructure extension added by the SpaceX source.

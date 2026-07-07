@@ -2,13 +2,13 @@
 title: "张小珺Jùn｜商业访谈录"
 type: entity
 tags: [podcast, media, business]
-sources: [130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]
+sources: [130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]
 last_updated: 2026-07-08
 ---
 
 # 张小珺Jùn｜商业访谈录
 
-张小珺Jùn｜商业访谈录 is the podcast/show context for [[130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi]], [[131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan]], [[132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan]], [[133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]], and [[134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]]. The ingested episodes cover [[ZhangYueguang]]'s product transition from [[Miaoya]] to [[Docky]], [[YinQi]]'s appointment as chair of [[StepFun]], [[GaoJiyang]]'s [[Xinghaitu]] robotics path, [[XieSaining]]'s [[AMILabs]] world-model startup story, and [[XieChen]]'s [[GuanglunIntelligence]] data/simulation view of robotics.
+张小珺Jùn｜商业访谈录 is the podcast/show context for [[130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi]], [[131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan]], [[132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan]], [[133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]], [[134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]], and [[145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]]. The ingested episodes cover [[ZhangYueguang]]'s product transition from [[Miaoya]] to [[Docky]], [[YinQi]]'s appointment as chair of [[StepFun]], [[GaoJiyang]]'s [[Xinghaitu]] robotics path, [[XieSaining]]'s [[AMILabs]] world-model startup story, [[XieChen]]'s [[GuanglunIntelligence]] data/simulation view of robotics, and [[LouisHong]]'s [[SpaceX]] manufacturing and space-infrastructure account.
 
 ## Connections
 - [[YinQi]] — guest in the ingested episode.
@@ -22,3 +22,4 @@ last_updated: 2026-07-08
 - [[RepresentationLearning]], [[ResearchTaste]], [[ProblemDefinitionInResearch]], and [[DecentralizedWorldModelStrategy]] — research and startup themes added by the Xie Saining episode.
 - [[ZhangYueguang]], [[Miaoya]], [[Docky]], and [[AIFriendProducts]] — product-founder, AI portrait, agent-product, and AI-friend themes added by episode 130.
 - [[XieChen]], [[GuanglunIntelligence]], [[DataAsEducation]], [[EmbodiedDataPyramid]], and [[RoboticsSimulationEvaluation]] — data and simulation infrastructure themes added by episode 134.
+- [[LouisHong]], [[SpaceX]], [[ReusableRocketEconomics]], [[SpaceBasedAIInfrastructure]], and [[SpaceXMafia]] — SpaceX history, manufacturing, AI infrastructure, and hard-tech alumni themes added by episode 145.

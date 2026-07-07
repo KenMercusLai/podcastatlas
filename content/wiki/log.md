@@ -831,3 +831,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | 145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？
+
+Ingested the Zhang Xiaojun episode into a source page; expanded SpaceX, Tesla, and the show page; added SpaceX/AI infrastructure entities and hard-tech manufacturing concepts.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
