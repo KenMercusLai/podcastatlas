@@ -495,3 +495,19 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-07] ingest | 具身智能的滔天大泡沫中，他已经把机器人送进300个家庭｜对话张翼：未来不远创始人/CEO
+
+Added source page for a Shizilukou Crossing episode on Zhang Yi, Weilai Buyuan, F2, home service robots, household robot data flywheels, consumer robotics full-stack engineering, and embodied-intelligence bubble cycles. Created supporting pages for Zhang Yi, Weilai Buyuan, F2 Home Robot, Zhangmen One-on-One, Home Service Robots, Household Robot Data Flywheel, and Consumer Robotics Full Stack; updated overview, index, Shizilukou Crossing, Embodied AI, World Models, Vision Language Action Models, Companion Robots, Product Led Willingness To Pay, Customer Pull, AI Commercialization Pressure, and Speculative Bubble Psychology pages.
+
+## [2026-07-07] graph | Knowledge graph rebuilt
+
+870 nodes, 7739 edges (7739 extracted, 0 inferred).
+
+## [2026-07-07] report | Graph health report generated
+
+870 nodes analyzed.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

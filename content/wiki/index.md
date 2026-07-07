@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [具身智能的滔天大泡沫中，他已经把机器人送进300个家庭｜对话张翼：未来不远创始人/CEO](sources/jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf.md) — Podcast episode on Zhang Yi, Weilai Buyuan, F2, home service robots, household robot data flywheels, consumer robotics full-stack engineering, and embodied-intelligence bubble cycles.
 - [「1 亿 Token 俱乐部」挤爆了，AI 的燃料不够了：对谈于文渊](sources/1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm.md) — Podcast episode on Aliyun Bailian, Yu Wenyuan, token growth, MaaS infrastructure, GPU scheduling, confidential inference, AI coding boundaries, and compute supply constraints.
 - [EP127 从 Skills 到自动化工作流，论 Agent 如何接管真实生产力 ⚙️](sources/ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz.md) — Podcast episode on Skills selection, coding-agent verification, Codex/Claude Code workflows, scheduled agent automation, personal knowledge assets, and permission responsibility.
 - [STARR Restaurants: Stephen Starr. How a Non-Foodie Built Thriving Restaurants on Gut Instinct](sources/starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4.md) — Podcast episode on Stephen Starr, STARR Restaurants, restaurant experience design, concept-led hospitality, operational fragility, site fit, and restaurant capital intensity.
@@ -89,6 +90,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Zhang Yi](entities/ZhangYi.md) — Weilai Buyuan founder and CEO connecting post-Zhangmen lessons to household robotics, F2, and embodied-intelligence commercialization.
+- [Weilai Buyuan](entities/WeilaiBuyuan.md) — Home-robotics startup deploying F2 into real households through rental tests and full-stack consumer robotics engineering.
+- [F2 Home Robot](entities/F2HomeRobot.md) — Weilai Buyuan's wheeled household robot focused on child care, light chores, home interaction, and real-family data collection.
+- [Zhangmen One-on-One](entities/ZhangmenOneOnOne.md) — Zhang Yi's previous online education company and the founder-cycle context behind his later robotics approach.
 - [Yu Wenyuan](entities/YuWenyuan.md) — Aliyun Bailian technical leader explaining token growth, MaaS infrastructure, enterprise model serving, and AI coding boundaries.
 - [Aliyun Bailian](entities/AliyunBailian.md) — Alibaba Cloud MaaS platform discussed through model APIs, GPU scheduling, confidential inference, and compute-to-token conversion.
 - [Pingtouge](entities/Pingtouge.md) — Alibaba chip team referenced as part of Bailian's end-to-end model-serving infrastructure stack.
@@ -520,6 +525,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Home Service Robots](concepts/HomeServiceRobots.md) — Household robots designed for useful family services such as child care support, light chores, play, and home assistance.
+- [Household Robot Data Flywheel](concepts/HouseholdRobotDataFlywheel.md) — Real-home deployment loop where household tasks, corner cases, and interaction data improve robot capability and deployment value.
+- [Consumer Robotics Full Stack](concepts/ConsumerRoboticsFullStack.md) — Self-development strategy for making home robots affordable, reliable, and integrated enough for consumer deployment.
 - [MaaS Infrastructure](concepts/MaaSInfrastructure.md) — Model-as-a-service infrastructure layer that converts model capability and compute capacity into reliable, secure, low-latency tokens.
 - [Restaurant Experience Design](concepts/RestaurantExperienceDesign.md) — Hospitality pattern where food, room design, lighting, music, air, service, and crowd energy form the product.
 - [Concept Led Hospitality](concepts/ConceptLedHospitality.md) — Restaurant-building pattern where each venue starts from a differentiated guest promise, mood, location fit, and operating format.
