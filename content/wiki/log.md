@@ -700,6 +700,10 @@ Added source page for a 硬地骇客 episode on Alibaba's Qwen assistant strateg
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-08] ingest | 付费片花：平台的暴力抵抗与互联网大厂的隐形税收
+
+Added source page for a Keji Luandun paid teaser on flower/cake delivery, live-commerce order transfer, food-safety boundaries, local shop fulfillment, and the hidden margin pressure created when traffic-owning intermediaries capture demand. Created Platform Intermediation Tax; updated overview, index, Keji Luandun, Douyin, and Local-Life Platform Dependency. No direct contradiction found; the source reinforces the prior flower-shop platform-dependency material while adding a narrower live-commerce/order-transfer mechanism.
+
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -803,3 +807,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] lint | Wiki health check
 
 Ran health and lint checks. Health passed. Deterministic and graph-aware lint found one orphan page (`wiki/entities/BobosOatBars.md`) and no broken links, missing entity pages, sparse pages, hub stubs, fragile bridges, or isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. No lint report file was saved.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

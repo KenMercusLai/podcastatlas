@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [付费片花：平台的暴力抵抗与互联网大厂的隐形税收](sources/fufei-pianhua-pingtai-de-baoli-dikang-yu-hulianwang-dachang-de-yinxing-shui-1.md) — Keji Luandun teaser on flower/cake delivery, live-commerce order transfer, local shop fulfillment, platform dependence, and hidden intermediation margins.
 - [130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏](sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi.md) — 张小珺Jùn｜商业访谈录 episode on Zhang Yueguang, Miaoya, AI-native product design, context-first product work, AI friend products, AI otome games, and Docky.
 - [《大厂小民》：我们必须克制对系统与上岸的期待](sources/da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf.md) — 面基 episode with 小满 on big-company systems, layoffs, "上岸" expectations, system humanity, writing after exit, tool rationality, family labor, and nonfiction publicness.
 - [E163.要完了？不！是要玩了！论养AI的心态与习惯](sources/e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb.md) — 面基 episode on AI FoMO, skills as agent operating manuals, context and memory habits, output gates, token pressure, human agency, and using AI to regain play rather than only speed.
@@ -195,7 +196,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Expedia Group](entities/ExpediaGroup.md) — Global OTA comparator and Elong investor context in the Ctrip episode.
 - [Meituan](entities/Meituan.md) — Local-services platform named as a possible later competitor to Ctrip in hotel and travel booking.
 - [Fliggy](entities/Fliggy.md) — Alibaba-linked travel platform discussed as both a Ctrip competitor and a possible Qwen fulfillment surface.
-- [Douyin](entities/Douyin.md) — Attention platform named as a possible travel-booking challenger through discovery and local-commerce flows.
+- [Douyin](entities/Douyin.md) — Attention platform discussed through travel discovery and live-commerce/local-fulfillment order flow.
 - [JD Travel](entities/JDTravel.md) — Ecommerce-linked travel-booking competitor mentioned in the Ctrip episode.
 - [Damai](entities/Damai.md) — Ticketing platform used as both a platform-governance example and a possible Qwen fulfillment surface.
 - [State Administration for Market Regulation](entities/StateAdministrationForMarketRegulation.md) — Chinese antitrust regulator context for the reported Ctrip investigation.
@@ -500,7 +501,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Justin Gold](entities/JustinGold.md) — Founder of Justin's Nut Butter, discussing CPG product experimentation, retail distribution, acquisition, and later return.
 - [Justin Yan](entities/JustinYan.md) — Fengyan Fengyu host who built an OpenClaw-like personal agent to understand agent-native software, skills, and permission design.
 - [Justin's Nut Butter](entities/JustinsNutButter.md) — Natural-food CPG brand built from flavored nut-butter jars into squeeze packs, cups, and a $280 million Hormel acquisition.
-- [Keji Luandun](entities/KejiLuandun.md) — Podcast covering Chinese AI companies, software-payment norms, practical AI coding/productization workflows, AI policy, platform governance, overseas market selection, and digital infrastructure war risk.
+- [Keji Luandun](entities/KejiLuandun.md) — Podcast covering Chinese AI companies, software-payment norms, practical AI coding/productization workflows, AI policy, platform governance, local-service merchant economics, overseas market selection, and digital infrastructure war risk.
 - [Kimi](entities/Kimi.md) — Chinese AI model/product reference used in the wiki's model-routing, workflow-fit, overseas-adoption, and OpenClaw cost-control discussions.
 - [Kedaibiao Lizheng](entities/KedaibiaoLizheng.md) — Episode guest focused on AI learning, skills, context, and agent-based workflows.
 - [Kenan Voice Changer](entities/KenanVoiceChanger.md) — Assistive AI prototype that repairs unclear speech so users can communicate during rehabilitation.
@@ -769,7 +770,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Offline AI Implementation](concepts/OfflineAIImplementation.md) — Pattern where useful AI requirements are discovered inside physical-world operations rather than imagined from model capability alone.
 - [AI Visual Merchandising](concepts/AIVisualMerchandising.md) — Use of generative AI to create grounded product visuals, variants, and substitution-confirmation images for retail workflows.
 - [Operational Data Capture](concepts/OperationalDataCapture.md) — Extracting business data from existing screens, printers, photos, receipts, or other work surfaces when clean APIs are unavailable.
-- [Local-Life Platform Dependency](concepts/LocalLifePlatformDependency.md) — Small-merchant reliance on local-service platforms for demand, messaging, paid traffic, data, and fulfillment expectations.
+- [Local-Life Platform Dependency](concepts/LocalLifePlatformDependency.md) — Small-merchant reliance on local-service platforms and intermediaries for demand, messaging, paid traffic, data, and fulfillment expectations.
+- [Platform Intermediation Tax](concepts/PlatformIntermediationTax.md) — Hidden margin and control cost when traffic-owning or order-intermediating layers pass local fulfillment work to small merchants.
 - [Online Travel Agency](concepts/OnlineTravelAgency.md) — Platform model aggregating travel inventory, booking, payment, support, invoices, and itinerary management.
 - [OTA Platform Concentration](concepts/OTAPlatformConcentration.md) — Tendency for online-travel booking power to concentrate when users, hotels, inventory, traffic, and systems all reward scale.
 - [Hotel PMS Inventory Control](concepts/HotelPMSInventoryControl.md) — Platform leverage created when booking channels influence hotel property-management and room-inventory systems.
