@@ -2,13 +2,13 @@
 title: "Behavioral Investing Biases"
 type: concept
 tags: [investing, psychology, behavior]
-sources: [ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn, ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm]
+sources: [ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn, ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm, ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj]
 last_updated: 2026-07-07
 ---
 
 # Behavioral Investing Biases
 
-Behavioral investing biases are the predictable mental shortcuts and emotional reactions that push investors away from disciplined decision-making. [[ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn]] names loss aversion, confirmation bias, herding, and anchoring as common ordinary-investor failure modes, especially when social-media feeds amplify the information the investor already wants to believe. [[ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm]] adds the fraud version: early small wins, teacher authority, peer screenshots, fear of missing out, shame after being cheated, and refusal to read contracts can all make an investor cooperate with the scam.
+Behavioral investing biases are the predictable mental shortcuts and emotional reactions that push investors away from disciplined decision-making. [[ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn]] names loss aversion, confirmation bias, herding, and anchoring as common ordinary-investor failure modes, especially when social-media feeds amplify the information the investor already wants to believe. [[ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm]] adds the fraud version: early small wins, teacher authority, peer screenshots, fear of missing out, shame after being cheated, and refusal to read contracts can all make an investor cooperate with the scam. [[ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj]] adds a longer fraud-history version: [[PonziScheme]], [[AdvanceFeeFraud]], [[PennyStockBoilerRoomFraud]], and [[PigButcheringScam]] all exploit the same desire for special access, social belonging, and easy certainty.
 
 The concept overlaps with [[RetailBullMarketPsychology]] and [[RetailInvestorCrowding]], but it is more individual and process-level. Retail bull-market psychology describes the social pull of fast gains; behavioral investing biases describe why a single investor sells winners too early, averages down from hope, follows a big influencer without understanding the trade, or compares a stock to an old high price after the business context has changed.
 
@@ -19,6 +19,8 @@ The concept overlaps with [[RetailBullMarketPsychology]] and [[RetailInvestorCro
 - Anchoring can make past prices look like fair values even when fundamentals, policy, or market regimes have changed.
 - [[InvestmentDecisionLogging]] can reduce bias by forcing the investor to state the reason, evidence, and invalidation conditions before memory rewrites the story.
 - Small early payouts can exploit confirmation bias by making the investor search for reasons the opportunity is real.
+- Prestige and exclusivity can exploit authority bias, as in elite-access or high-minimum investment stories.
+- Advance-fee and pig-butchering scams exploit sunk cost because each new payment is framed as the final step before recovery or reward.
 - Shame after a loss can delay help-seeking, reporting, and recovery, which turns the first mistake into larger damage.
 - Outsourcing judgment to a teacher, group, sales consultant, or platform is itself a behavioral risk when incentives and accountability are unclear.
 
@@ -29,3 +31,4 @@ The concept overlaps with [[RetailBullMarketPsychology]] and [[RetailInvestorCro
 - [[AIInvestmentResearch]] — AI can help challenge bias or make it more fluent if used poorly.
 - [[InvestmentDecisionLogging]] — practical countermeasure emphasized by the episode.
 - [[InvestmentFraudRedFlags]] and [[StockTipGroupRisk]] — EP64's scam and social-proof extensions.
+- [[PonziScheme]], [[AdvanceFeeFraud]], [[PennyStockBoilerRoomFraud]], and [[PigButcheringScam]] — EP28's historical and modern fraud mechanisms.

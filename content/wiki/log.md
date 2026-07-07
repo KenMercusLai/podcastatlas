@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-07] ingest | EP28 百年金融诈骗史：阶级跨越与锒铛入狱的距离
+
+Added source page for a YiLaoYongYi episode on financial-fraud history, Ponzi schemes, advance-fee fraud, Jordan Belfort and Stratton Oakmont, Bernie Madoff, pig-butchering scams, fake investment platforms, gambling/lottery platform risk, and AI impersonation fraud. Created supporting pages for Charles Ponzi, Jordan Belfort, Stratton Oakmont, Bernie Madoff, Nasdaq, Ponzi Scheme, Advance-Fee Fraud, Penny Stock Boiler Room Fraud, Social Engineering Fraud, Pig Butchering Scam, Lottery Gambling Platform Fraud, and AI Impersonation Fraud Risk; updated overview, index, YiLaoYongYi, Jim Simons, investment fraud red flags, fake investment platform risk, investment risk management, investor education, behavioral investing biases, and stock tip group risk pages.
+
 ## [2026-07-07] ingest | EP69 AI时代来临，投资不再是单机模式
 
 Added source page for a YiLaoYongYi episode on Tang Haocheng, AI investment assistants, retail-investor information gaps, market expectation gaps, behavioral investing biases, decision logging, Magnify, and the boundary between AI-supported research and final investment responsibility. Created supporting pages for Tang Haocheng, Magnify, Earnings Expectation Gap, Behavioral Investing Biases, and Investment Decision Logging; updated overview, index, YiLaoYongYi, Netflix, AI Investment Research, Financial AI Agents, Investor Education, and Investment Risk Management pages.
@@ -411,6 +415,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-07] ingest | EP34 当高情商和分寸感缺失，唯有钢铁意志撑场
 
 Added source page for a YiLaoYongYi episode on social-signal interpretation, communication boundary setting, workplace communication risk, rumor amplification, and language precision. Created supporting pages for Maidisen, Social Signal Interpretation, Communication Boundary Setting, Workplace Communication Risk, and Language Precision; updated overview, index, YiLaoYongYi, and Workplace Hidden Rules pages.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-07] lint | Wiki health check
 

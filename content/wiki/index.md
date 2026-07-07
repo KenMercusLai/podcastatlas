@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP28 百年金融诈骗史：阶级跨越与锒铛入狱的距离](sources/ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj.md) — Podcast episode on Ponzi schemes, advance-fee fraud, penny-stock boiler rooms, Madoff, pig-butchering scams, fake platforms, gambling draws, and AI impersonation risk.
 - [EP34 当高情商和分寸感缺失，唯有钢铁意志撑场](sources/ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu.md) — Podcast episode on social-signal misreading, communication boundaries, workplace phrasing risk, rumor amplification, and language precision.
 - [EP35 降薪不降质？中产阶级最后的倔强](sources/ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43.md) — Podcast episode on financial-industry pay cuts, middle-class consumption pressure, and preserving life quality through lower-cost choices in coffee, travel, meals, commuting, fitness, watches, and workwear.
 - [EP64 投资路上踩坑无数，如今的我刀枪不入](sources/ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm.md) — Podcast episode on investment fraud red flags, fake platforms, stock-tip groups, elderly-care property traps, insurance policy-loan fraud, and investor responsibility.
@@ -79,6 +80,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Charles Ponzi](entities/CharlesPonzi.md) — Historical figure used by EP28 to explain the classic new-investor-pays-old-investor fraud structure.
+- [Jordan Belfort](entities/JordanBelfort.md) — Wolf of Wall Street figure used by EP28 to explain sales scripts, high commissions, and penny-stock boiler room fraud.
+- [Stratton Oakmont](entities/StrattonOakmont.md) — Belfort-linked stock-sales firm used as EP28's case for scripted high-pressure securities selling.
+- [Bernie Madoff](entities/BernieMadoff.md) — Prestige-based investment-fraud case used by EP28 to show how reputation and exclusivity can become scam assets.
+- [Nasdaq](entities/Nasdaq.md) — Market institution referenced through Madoff's credibility and distinguished from the Nasdaq Composite index.
 - [Tang Haocheng](entities/TangHaocheng.md) — AI investment-assistant founder/guest using Netflix, Magnify, information systems, and investor-process discipline to explain ordinary-investor gaps.
 - [Magnify](entities/Magnify.md) — Natural-language finance-search project for ETF and mutual-fund discovery, presented as a precursor to broader AI investment assistants.
 - [Truth Social](entities/TruthSocial.md) — Trump-linked social platform whose source value is framed through political identity, DJT valuation, and policy-announcement trading risk.
@@ -476,6 +482,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Ponzi Scheme](concepts/PonziScheme.md) — Fraud structure where earlier investors are paid with later investor money while payouts are presented as real investment returns.
+- [Advance-Fee Fraud](concepts/AdvanceFeeFraud.md) — Scam pattern where a promised windfall requires the victim to pay fees, transfer costs, taxes, or processing charges first.
+- [Penny Stock Boiler Room Fraud](concepts/PennyStockBoilerRoomFraud.md) — Sales-driven securities fraud using scripts, high commissions, low-priced stocks, and asymmetric seller incentives.
+- [Social Engineering Fraud](concepts/SocialEngineeringFraud.md) — Fraud that manipulates trust, identity, emotion, urgency, or social context more than technical systems.
+- [Pig Butchering Scam](concepts/PigButcheringScam.md) — Long-con romance or relationship scam that builds trust before steering victims into transfers or fake investment platforms.
+- [Lottery Gambling Platform Fraud](concepts/LotteryGamblingPlatformFraud.md) — Risk that betting, lottery, or small-payment prize platforms control odds, winners, settlement, and balances.
+- [AI Impersonation Fraud Risk](concepts/AIImpersonationFraudRisk.md) — Risk that generated voices, faces, or personalized media weaken traditional identity verification in scams.
 - [Social Signal Interpretation](concepts/SocialSignalInterpretation.md) — Reading indirect meaning from timing, relationship, setting, emotional state, and nonliteral prompts.
 - [Communication Boundary Setting](concepts/CommunicationBoundarySetting.md) — Deciding what to say, decline, defer, or leave unsaid based on relationship, setting, and likely interpretation.
 - [Workplace Communication Risk](concepts/WorkplaceCommunicationRisk.md) — Risk that office words, favors, jokes, or repeated patterns are interpreted differently by colleagues than intended.
