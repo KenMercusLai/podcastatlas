@@ -723,3 +723,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | 这半年，我们又买了哪些科技好物？
+
+Added source page for a Keji Luandun episode on practical tech purchases, covering Pinduoduo subsidy pricing, Mac mini/OpenClaw local workflows, iPad eSIM friction reduction, NAS versus cloud-storage cost accounting, UPS-backed backups, display ergonomics, server-monitoring screens, chargers, travel gear, net-disk risk, and everyday product usefulness. Created supporting pages for Pinduoduo and Personal Infrastructure Cost Accounting; updated overview, index, Keji Luandun, OpenClaw, Apple, Display Ergonomics, Data Portability And Sustainable Tools, and Local Agent Execution.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

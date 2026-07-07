@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [这半年，我们又买了哪些科技好物？](sources/zhe-bannian-women-you-maile-naxie-keji-haowu-1.md) — Keji Luandun episode on practical tech purchases, Pinduoduo subsidies, Mac mini/OpenClaw workflows, NAS backup economics, display ergonomics, chargers, travel gear, and personal infrastructure cost accounting.
 - [除了石油和海峡，这届伊朗战争开始算计你的服务器了](sources/chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun.md) — Keji Luandun episode on data centers, submarine cables, AI compute, cloud-region disaster recovery, drone-era infrastructure attacks, and Middle East digital infrastructure risk.
 - [E160.一个价值投资者的 20 年回顾：求积分，求胜率，求时间](sources/e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf.md) — 面基 episode on value investing as long-duration cash-flow integration, margin of safety, DDM, fund liability matching, research judgment, moats, circle of competence, dividend strategy, and position sizing.
 - [E158.资产配置与有效前沿：去找更好的，更不一样的，更贴近时代的](sources/e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc.md) — 面基 episode on dynamic efficient frontier, asset correlation, 60/40 strategic allocation, FOF product design, free-cash-flow indexing, COWZ, QDII tooling, and low-rate household wealth allocation.
@@ -537,6 +538,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Peter Lynch](entities/PeterLynch.md) — Fundamental investor used as a comparison point against Jim Simons's quantitative approach.
 - [Playwright](entities/Playwright.md) — Browser automation and testing tool used as an example of agent-driven coding verification.
 - [Podwise](entities/Podwise.md) — AI podcast-learning tool discussed through CLI, Skills, agent workflows, knowledge-management export, recurring automation, and YingdiHaike sponsorship mentions.
+- [Pinduoduo](entities/Pinduoduo.md) — Ecommerce marketplace and subsidy surface framing the Keji Luandun tech-purchase episode's price comparisons.
 - [原则科技](entities/PrincipleTech.md) — Startup context for XiaoSun's earlier independent-developer and creator-tool work.
 - [QQ](entities/QQ.md) — Tencent messaging product used as the historical comparison for free-core, paid-membership internet services.
 - [QuickStone](entities/QuickStone.md) — Investment firm connected to Yihao's proactive AI and agent-infrastructure thesis around AirJelly.
@@ -645,6 +647,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Personal Infrastructure Cost Accounting](concepts/PersonalInfrastructureCostAccounting.md) — Evaluating hardware, cloud, storage, subscriptions, and everyday tools by recurring cost, maintenance burden, reliability, and workflow friction.
 - [Digital Infrastructure War Risk](concepts/DigitalInfrastructureWarRisk.md) — Risk that data centers, submarine cables, cloud regions, AI compute clusters, and exchange points become targets or pressure points in conflict.
 - [Data Center Physical Resilience](concepts/DataCenterPhysicalResilience.md) — Facility-level ability for data centers to keep operating or recover when buildings, power, cooling, equipment, transport, or staff access are disrupted.
 - [War-Aware Disaster Recovery](concepts/WarAwareDisasterRecovery.md) — Cloud and business-continuity planning that treats war, drones, missiles, staff evacuation, and repeated attacks as disaster scenarios.
