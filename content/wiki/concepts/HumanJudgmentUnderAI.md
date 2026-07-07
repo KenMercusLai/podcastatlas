@@ -2,7 +2,7 @@
 title: "Human Judgment Under AI"
 type: concept
 tags: [ai, judgment, work]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1]
+sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1]
 last_updated: 2026-07-07
 ---
 
@@ -24,6 +24,8 @@ Human judgment under AI is the claim that AI can enhance preparation and synthes
 
 [[vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1]] adds the education version. AI can work as [[AIAsTutor]] by explaining gaps, adapting to a student's background, and helping with unfamiliar subjects, but the student still has to provide hypotheses, context, and final understanding rather than treating "ChatGPT cannot do it" as the end of thinking.
 
+[[opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1]] adds the founder-operator version. A [[OnePersonCompany]] can use AI to make websites, scripts, short-drama workflows, or game prototypes faster, but the source argues that sales judgment, customer screening, service promises, company responsibility, creative direction, and cross-border compliance remain human decisions.
+
 ## Key Claims
 - AI is useful for preparation, framing, and organizing context.
 - Live questioning requires internalized understanding, tradeoffs, and expression.
@@ -41,6 +43,7 @@ Human judgment under AI is the claim that AI can enhance preparation and synthes
 - A skill is only as safe as the user's ability to bound the workflow and judge outputs in that domain.
 - AI can lower the cost of trying ideas, but people still need to decide whether the idea, result, customer, and maintenance burden make sense.
 - AI tutoring is useful only when the learner remains active enough to ask better questions, notice gaps, and own the final understanding.
+- AI can reduce the labor of making a product-like artifact, but the founder still judges whether the artifact has a buyer, a delivery path, and a supportable legal/commercial structure.
 
 ## Connections
 - [[ContextEngineering]] — preparation quality depends on context quality.
@@ -56,3 +59,4 @@ Human judgment under AI is the claim that AI can enhance preparation and synthes
 - [[RoutineAgentAutomation]], [[AgentPermissionBoundaries]], and [[AIInvestmentResearch]] — responsibility and domain-judgment cases added by EP127.
 - [[AIOperationsRole]], [[AIEngineeringThinking]], and [[AIAgentOverseasCommercialization]] — copilot, translation, and verification cases added by the Manus source.
 - [[AIAsTutor]], [[LearningHowToLearn]], and [[CollegeMajorChoice]] — education and student-decision cases added by Vol. 169.
+- [[OnePersonCompany]], [[CustomerPull]], and [[CrossBorderFundTransferRisk]] — founder-operator responsibility case added by the OPC source.

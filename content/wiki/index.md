@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [OPC 的真正难题，是 AI 还没学会替你把东西卖出去](sources/opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1.md) — Podcast episode on AI-era one-person companies, why AI lowers building cost but not sales/customer/compliance work, and why first-customer validation should precede registration or overseas setup.
 - [Vol. 169 高考只是个开始，Don’t Waste Your Life](sources/vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1.md) — Podcast episode on gaokao as a beginning, AI-era college major choice, university opportunity density, college career preparation, learning how to learn, and AI as tutor.
 - [Vol. 170 Fable 5 重出江湖，GPT 仍需努力](sources/vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1.md) — Podcast episode on Fable 5, one-shot AI coding, Codex review workflows, Superpowers versus GrillMe skills, token-driven software, and model routing cost control.
 - [为什么Manus必须出海？聊聊国产大模型的“文科生困境”](sources/weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun.md) — Podcast episode on Manus, the episode's Meta/Facebook acquisition claim, AI-agent overseas commercialization, domestic model language constraints, Chinese platform friction, and AI operations roles.
@@ -842,6 +843,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [On Device Fast Slow Brain](concepts/OnDeviceFastSlowBrain.md) — Edge AI architecture separating immediate behavior decisions from slower reasoning for low-latency embodied response.
 - [On-Demand Apps](concepts/OnDemandApps.md) — Agent-assembled or generated app capabilities created when the user needs them instead of fully prebuilt feature menus.
 - [One-Shot AI Coding](concepts/OneShotAICoding.md) — Turning a substantial requirement into usable implementation in one main model pass, with verification rather than repeated prompting as the bottleneck.
+- [One-Person Company](concepts/OnePersonCompany.md) — AI-era OPC frame where a solo operator can build faster with AI but still must solve customer pull, sales, delivery, legal responsibility, and payment.
 - [OS-Level Context](concepts/OSLevelContext.md) — Agent context gathered from the user's computer environment, including screens, input, apps, meetings, messages, and current activity.
 - [Operator-Subsidized Handsets](concepts/OperatorSubsidizedHandsets.md) — Carrier contract-phone channel that shaped 3G smartphone adoption and the "中华酷联" domestic handset stage.
 - [Outcome-Based AI Pricing](concepts/OutcomeBasedAIPricing.md) — Enterprise AI pricing based on delivered output, work volume, time, or transaction value rather than seats or custom projects.

@@ -2,7 +2,7 @@
 title: "Apple"
 type: entity
 tags: [company, platform, ai, investing, mobile, app-store, media]
-sources: [vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, formula-1-1]
+sources: [vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, formula-1-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1]
 last_updated: 2026-07-07
 ---
 
@@ -20,6 +20,8 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 
 [[formula-1-1]] adds Apple as a sports-media-rights actor. The episode says Apple reportedly won U.S. [[FormulaOne]] media rights with a five-year deal around $150 million per year and speculates that Apple's product and broadcast technology could make races easier for newer fans through driver storytelling, data visualization, and camera improvements.
 
+[[opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1]] adds Apple as a platform beneficiary of AI-enabled app creation. The hosts argue that if AI makes many more applications appear, the question is whether individual builders gain paying users or whether Apple and [[AppStore]] capture more dependable value through review, distribution, search, payment, and platform control.
+
 ## Source Position
 - The hosts expect Apple AI news to matter because iPhone-level distribution can change user behavior even if the underlying model comes from another provider.
 - If Siri becomes a capable device-level agent, utility apps and reminder-like tools may face platform-level pressure.
@@ -29,6 +31,7 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 - The podcast-history source treats Apple Podcasts, iTunes, and iPod as infrastructure for [[PodcastAsAsynchronousMedia]], while Retina becomes a practical display-sharpness reference.
 - The ASO source treats Apple as the owner of a marketplace where platform fields, ranking opacity, review trust, and paid search directly constrain independent-app growth.
 - The Formula One source treats Apple as a possible premium [[SportsMediaRights]] buyer whose interface and media capabilities could improve how live sports explain themselves.
+- The OPC source treats Apple as part of the platform layer that can benefit when AI increases app supply even if many individual apps do not find strong [[CustomerPull]].
 
 ## Connections
 - [[Siri]] — Apple assistant and platform entry point discussed in the source.
@@ -41,3 +44,4 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 - [[PodcastAsAsynchronousMedia]] and [[DisplayErgonomics]] — media and monitor-choice themes added by the Neihe Konghuang episode 72.
 - [[AppStore]], [[AppleSearchAds]], [[AppStoreOptimization]], and [[AppStoreRatingsAndReviews]] — marketplace-growth themes added by EP102.
 - [[FormulaOne]], [[SportsMediaRights]], and [[SportsEntertainmentFlywheel]] — sports-media themes added by the Formula One source.
+- [[AppStore]], [[OnePersonCompany]], and [[SoftwarePaymentCulture]] — OPC source where platform economics remain stronger than many solo-builder monetization stories.

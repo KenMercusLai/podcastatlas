@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-07] ingest | OPC 的真正难题，是 AI 还没学会替你把东西卖出去
+
+Added source page for a Keji Luandun episode on AI-era one-person companies, legal versus operational OPC meanings, why AI coding lowers build cost but not sales or customer pull, industrial-park and training hype, overseas company/account compliance risk, and platform capture from AI-generated app supply. Created One-Person Company; updated overview, index, Keji Luandun, AI commercialization pressure, AI engineering thinking, human judgment under AI, customer pull, product-led willingness to pay, pre-product selling, distribution-led product building, vibe coding, software payment culture, cross-border fund transfer risk, capital-account restrictions, App Store, Apple, and WeChat pages.
+
 ## [2026-07-07] ingest | Vol. 169 高考只是个开始，Don’t Waste Your Life
 
 Added source page for a Fengyan Fengyu episode on gaokao as the beginning of a four-year college decision period, AI-era major choice, university opportunity density, learning how to learn, AI as tutor, college career preparation, and the limits of blindly chasing hot majors. Created concept pages for College Major Choice, College Career Preparation, University Opportunity Density, Learning How To Learn, and AI As Tutor; updated overview, index, Fengyan Fengyu, Justin Yan, Zili, Graduation Anxiety, Internship As Career Exploration, AI Programming Engine Shift, AI Engineering Thinking, and Human Judgment Under AI.
@@ -547,3 +551,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-07] lint | Wiki lint check
 
 Ran health and lint checks. Health passed. Deterministic and graph-aware lint found one orphan page (`wiki/entities/BobosOatBars.md`) and no broken links, missing entity pages, sparse pages, hub stubs, fragile bridges, or isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; semantic lint was completed manually in-session with no direct contradictions found and source-limited claims noted as data-gap risks.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-07] graph | Knowledge graph rebuilt
+
+910 nodes, 8178 edges (8178 extracted, 0 inferred).
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

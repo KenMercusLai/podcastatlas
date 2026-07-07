@@ -1,0 +1,36 @@
+---
+title: "One-Person Company"
+type: concept
+tags: [ai, entrepreneurship, company-formation, sales]
+sources: [opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1]
+last_updated: 2026-07-07
+---
+
+# One-Person Company
+
+One-person company, or OPC, is used in [[opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1]] in two different senses. One is the legal and accounting sense of a one-person company or one-shareholder limited-liability company. The other is the AI-era claim that a single person can use agents and tools to cover product, operations, marketing, sales, finance, and delivery.
+
+The source's main warning is that the second meaning is much harder than the slogan. AI can lower implementation cost through [[VibeCoding]], scripts, pages, generated content, and workflow automation, but it does not automatically create [[CustomerPull]], trusted distribution, pricing, contracts, collection, compliance, or post-sale service. The hosts therefore frame OPC as a demand and responsibility problem before it is an organization-design problem.
+
+The legal discussion matters because "one person" does not make company obligations disappear. The episode says founders still need to understand financial separation, limited-liability boundaries, tax filings, registered address arrangements, contracts, and the consequences of mixing personal and company money. The same caution expands overseas: a foreign company or account can add tax, residence, source-of-funds, and repatriation questions before a customer has been found.
+
+## Key Claims
+- AI-era OPC should not be reduced to company registration; it is a claim about whether one person can run the business loop.
+- A one-person legal structure may still need careful account separation, tax handling, and documentation to preserve the intended liability boundary.
+- AI lowers the cost of making prototypes, marketing drafts, and content, but the key bottleneck becomes what to sell, to whom, through which channel, at what price, and with what delivery promise.
+- Successful OPC candidates are usually people with existing domain expertise, customer access, sales skill, or content/channel ability.
+- Policy parks, subsidies, token grants, and incubator services can support formation but are weak validation if they do not lead to paying customers.
+- Training and "OPC陪跑" businesses can profit from the concept while leaving the underlying customer-acquisition problem unsolved for students.
+- Overseas OPC can look attractive because the same product might command higher prices, but it also raises tax, account, transfer, legal, and compliance complexity.
+- The safest sequence in the source is to validate demand first, then set up the company when a real customer, contract, or payment path requires it.
+
+## Connections
+- [[KejiLuandun]] — source context for the OPC discussion.
+- [[AIEngineeringThinking]] — turning ideas into bounded, testable AI-enabled work.
+- [[VibeCoding]], [[OneShotAICoding]], and [[AICodingVerification]] — build-side capabilities and verification boundaries.
+- [[CustomerPull]], [[PreProductSelling]], and [[ProductLedWillingnessToPay]] — demand validation before formal structure.
+- [[DistributionLedProductBuilding]] — channel and sales route as part of product selection.
+- [[AICommercializationPressure]] — broader pressure to turn AI capability into business closure.
+- [[HumanJudgmentUnderAI]] and [[DomainExpertAlignment]] — operator expertise and responsibility that AI does not remove.
+- [[CrossBorderFundTransferRisk]] and [[CapitalAccountInvestmentRestrictions]] — overseas account and money-movement risks raised by the source.
+- [[SoftwarePaymentCulture]], [[AppStore]], [[Apple]], and [[WeChat]] — platform and payment context for whether AI-built apps actually monetize.
