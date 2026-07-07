@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-07] ingest | Vol. 169 高考只是个开始，Don’t Waste Your Life
+
+Added source page for a Fengyan Fengyu episode on gaokao as the beginning of a four-year college decision period, AI-era major choice, university opportunity density, learning how to learn, AI as tutor, college career preparation, and the limits of blindly chasing hot majors. Created concept pages for College Major Choice, College Career Preparation, University Opportunity Density, Learning How To Learn, and AI As Tutor; updated overview, index, Fengyan Fengyu, Justin Yan, Zili, Graduation Anxiety, Internship As Career Exploration, AI Programming Engine Shift, AI Engineering Thinking, and Human Judgment Under AI.
+
 ## [2026-07-07] ingest | 「1 亿 Token 俱乐部」挤爆了，AI 的燃料不够了：对谈于文渊
 
 Added source page for a Shizilukou Crossing episode on Yu Wenyuan, Aliyun Bailian, AI token growth, MaaS infrastructure, GPU scheduling, confidential inference, AI coding boundaries, domestic compute supply, and AI as utility-like infrastructure. Created supporting pages for Yu Wenyuan, Aliyun Bailian, Pingtouge, and MaaS Infrastructure; updated index, overview, Alibaba, Qwen, Shizilukou Crossing, Open Cloud, Claude Code, AI inference cost structure, agentic economy, AI coding verification, AI engineering thinking, and vibe coding pages.
@@ -539,3 +543,7 @@ Added source page for a Keji Luandun episode on Manus, the episode's Meta/Facebo
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-07] lint | Wiki lint check
+
+Ran health and lint checks. Health passed. Deterministic and graph-aware lint found one orphan page (`wiki/entities/BobosOatBars.md`) and no broken links, missing entity pages, sparse pages, hub stubs, fragile bridges, or isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; semantic lint was completed manually in-session with no direct contradictions found and source-limited claims noted as data-gap risks.

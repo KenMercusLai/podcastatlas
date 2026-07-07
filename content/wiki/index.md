@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol. 169 高考只是个开始，Don’t Waste Your Life](sources/vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1.md) — Podcast episode on gaokao as a beginning, AI-era college major choice, university opportunity density, college career preparation, learning how to learn, and AI as tutor.
 - [Vol. 170 Fable 5 重出江湖，GPT 仍需努力](sources/vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1.md) — Podcast episode on Fable 5, one-shot AI coding, Codex review workflows, Superpowers versus GrillMe skills, token-driven software, and model routing cost control.
 - [为什么Manus必须出海？聊聊国产大模型的“文科生困境”](sources/weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun.md) — Podcast episode on Manus, the episode's Meta/Facebook acquisition claim, AI-agent overseas commercialization, domestic model language constraints, Chinese platform friction, and AI operations roles.
 - [那个不穿西装的程序员，扯出了国产操作系统二十年秘史](sources/nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun.md) — Podcast episode on Tongxin Software, Deepin, Hiweed Linux, UOS, Kylin OS, Xinchuang operating systems, open-source commercialization, and technical-versus-sales culture tension.
@@ -666,6 +667,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [A-Share Bull Market History](concepts/AShareBullMarketHistory.md) — Historical frame for Chinese equity bull markets across scarcity, policy, liquidity, regulation, leverage, and fundamentals.
 - [Account Misuse Risk](concepts/AccountMisuseRisk.md) — Risk that personal bank cards, IDs, payment accounts, or dormant accounts are used to receive, split, withdraw, or disguise suspicious funds.
 - [AI 3D Prototyping](concepts/AI3DPrototyping.md) — Possibility that AI lowers 3D game-production barriers enough for small teams to test richer prototypes.
+- [AI As Tutor](concepts/AIAsTutor.md) — Student-facing AI use where models personalize explanations and bridge gaps while the learner still owns understanding.
 - [AI BPO Roll Up](concepts/AIBPORollUp.md) — Restructuring business-process outsourcing and professional services with agents, experts, and shared systems.
 - [AI Assisted Software Development Risk](concepts/AIAssistedSoftwareDevelopmentRisk.md) — Risk that AI-speed development still fails on migration, compatibility, and production engineering details.
 - [AI Coding Verification](concepts/AICodingVerification.md) — Engineering bottleneck that moves AI coding from generation speed to tests, review, browser checks, maintainability, and responsibility.
@@ -736,6 +738,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Chinese Domestic Handset Waves](concepts/ChineseDomesticHandsetWaves.md) — Staged history of Chinese handset makers from licensed brands to shanzhai/turnkey phones and operator-subsidized smartphones.
 - [Causal AI](concepts/CausalAI.md) — Research direction focused on intervention-grounded causal structure, causal discovery, and machine-learning systems that generalize beyond surface correlation.
 - [Causal World Models](concepts/CausalWorldModels.md) — World-model route that learns causal variables, causal structure, and action-conditioned transition dynamics for physical AI.
+- [College Career Preparation](concepts/CollegeCareerPreparation.md) — Goal-dependent undergraduate preparation across GPA, exams, projects, internships, portfolios, and hiring readiness.
+- [College Major Choice](concepts/CollegeMajorChoice.md) — Choosing a field of study under AI and labor-market uncertainty without treating hot majors or outlier success stories as guarantees.
 - [Community-Led SaaS Growth](concepts/CommunityLedSaaSGrowth.md) — SaaS growth through practitioner communities, trusted channels, service, and word of mouth.
 - [Companion Robots](concepts/CompanionRobots.md) — Robots designed primarily for emotional coexistence, social presence, and household relationship-building.
 - [Compliance Automation](concepts/ComplianceAutomation.md) — Software that helps companies prove and maintain security, privacy, compliance, and trust obligations with less manual work.
@@ -811,6 +815,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Investor Education](concepts/InvestorEducation.md) — Work of making financial customers understand product structure, downside risk, liquidity, incentives, and the difference between disclosure and comprehension.
 - [Large Company Open Source Strategy](concepts/LargeCompanyOpenSourceStrategy.md) — Strategic use of open source by large companies and the tension between influence and internal value capture.
 - [Large Company Organizational Inertia](concepts/LargeCompanyOrganizationalInertia.md) — Big-company dynamic where resources and momentum amplify work but rules and scale reduce individual leverage.
+- [Learning How To Learn](concepts/LearningHowToLearn.md) — Durable meta-skill for improving study, practice, communication, and AI use across changing majors and careers.
 - [Leverage-Driven Bull Market](concepts/LeverageDrivenBullMarket.md) — Rally pattern where margin finance, off-market financing, or borrowed money amplifies gains and later forced selling.
 - [Lifestyle Subsidy Creator Work](concepts/LifestyleSubsidyCreatorWork.md) — Creator work that lowers living costs or expands experiences without necessarily replacing a main income.
 - [Local Lifestyle Store Reviews](concepts/LocalLifestyleStoreReviews.md) — Local merchant review workflow where creators turn meals, shops, hotels, services, and check-in scenes into platform posts.
@@ -895,6 +900,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Turnkey Handset Solutions](concepts/TurnkeyHandsetSolutions.md) — Integrated chipset and phone-design packages that lowered the barrier to building feature phones.
 - [U.S. Recession Risk](concepts/USRecessionRisk.md) — Macro-risk frame using labor, manufacturing, consumption, leverage, policy, and market valuation signals.
 - [Underground Money Transfer Risk](concepts/UndergroundMoneyTransferRisk.md) — Risk from overseas trading or investment platforms that route RMB and withdrawals through unrelated domestic accounts or informal exchange chains.
+- [University Opportunity Density](concepts/UniversityOpportunityDensity.md) — Value created by a university's city, labs, peers, events, recruiting access, school culture, and practice surfaces.
 - [Upward Management](concepts/UpwardManagement.md) — Influencing bosses and higher-power stakeholders through demand clarification, decision support, and expectation setting.
 - [Validated Learning](concepts/ValidatedLearning.md) — Lean Startup principle that startups progress by testing assumptions against real customer behavior.
 - [Virtual Asset AML Risk](concepts/VirtualAssetAMLRisk.md) — AML risk from crypto assets, stablecoins, exchanges, wallets, miners, and conversion routes used as layers in broader fund-transfer chains.
