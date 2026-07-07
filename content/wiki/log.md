@@ -368,6 +368,14 @@ Added source page for a How I Built This episode on Tobias Lütke, Shopify, Snow
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-07] ingest | Advice Line with Tim Ferriss (August 2025)
+
+Added source page for a How I Built This Advice Line episode on Tim Ferriss, Coyote, Gob, EB&Co, K Becker, founder identity diversification, channel focus, venue partnerships, wholesale testing, made-to-order apparel, and sustainable growth. Created supporting pages for Tim Ferriss, Coyote, Gob, Lauren Menard, EB&Co, Emily Bordner, K Becker, Kimberly Becker, Channel Focus Experiments, Founder Identity Diversification, and Made-To-Order Commerce; updated overview, index, How I Built This, Guy Raz, and related CPG, validation, distribution, relationship-led growth, accidental virality, pre-product selling, product-led willingness to pay, and sustainable growth concept pages.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

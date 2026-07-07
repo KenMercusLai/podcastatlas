@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Advice Line with Tim Ferriss (August 2025)](sources/advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943.md) — Podcast episode on Tim Ferriss, Coyote, Gob, EB&Co, K Becker, channel focus, venue partnerships, wholesale testing, made-to-order apparel, and founder identity diversification.
 - [EP69 AI时代来临，投资不再是单机模式](sources/ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn.md) — Podcast episode on Tang Haocheng, AI investment assistants, market expectation gaps, retail-investor behavioral biases, decision logging, and turning investing from solo judgment into human-AI research workflow.
 - [EP77 四十万年薪，副业赚了三十四亿，特朗普教你如何搞钱](sources/ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab.md) — Podcast episode on Donald Trump, political influence monetization, DJT/Truth Social, family crypto vehicles, Kushner's Saudi-backed fund, foreign gifts, brand licensing, media settlements, and political identity premiums.
 - [EP80 与查理·芒格的跨时空对话：当眼睛失明时，我们看见什么？](sources/ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i.md) — Podcast episode on Charlie Munger, Buffett, See's Candies, American Express, Coca-Cola, intangible consumer moats, irreversible investment mistakes, and the limits of chart-only analysis.
@@ -299,6 +300,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kenan Voice Changer](entities/KenanVoiceChanger.md) — Assistive AI prototype that repairs unclear speech so users can communicate during rehabilitation.
 - [Kaseya](entities/Kaseya.md) — Cybersecurity/MSP company referenced through the July 2021 ransomware incident that accelerated ThreatLocker demand.
 - [K Computer](entities/KComputer.md) — Share AI's lightweight Unix-style virtual computer for agent work environments.
+- [K Becker](entities/KBecker.md) — Kimberly Becker's sustainable apparel brand testing made-to-order drops to reduce inventory risk while preserving customer trust.
+- [Kimberly Becker](entities/KimberlyBecker.md) — K Becker founder and textile designer asking how to move from inventory to made-to-order apparel.
 - [Kaiwuji](entities/Kaiwuji.md) — AI-for-materials startup founded by Lu Ziheng to discover, validate, and commercialize new materials.
 - [Kejian](entities/Kejian.md) — Early Chinese domestic handset brand backed by the Chinese Academy of Sciences system and associated with the KCH2000 GSM phone.
 - [Koji](entities/Koji.md) — Shizilukou Crossing host of the road-podcast episode on Xiaoban and Yueban Dongli.
@@ -307,6 +310,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lance Gentry](entities/LanceGentry.md) — Former Izze executive and Justin's Nut Butter operating partner who helped professionalize scaling before his death from brain cancer.
 - [Lao Gao](entities/LaoGao.md) — Keji Luandun participant discussing practical AI coding, productization, and workflow judgment.
 - [老麦](entities/LaoMai.md) — YiLaoYongYi guest explaining market selloffs, allocation discipline, creator economics, and finance-career risk through investing and banking cases.
+- [Lauren Menard](entities/LaurenMenard.md) — Gob founder weighing venue partnerships against direct-to-consumer sleep customers for mycelium earplugs.
 - [Learn Claude Code](entities/LearnClaudeCode.md) — Share AI learning project that studies Claude Code as an agent harness sample.
 - [Lempire](entities/Lempire.md) — SaaS company that acquired Tweet Hunter and Tapio.
 - [Li Yanhong](entities/LiYanhong.md) — Baidu founder discussed as a management and risk-preference lens for Baidu's search and AI predicament.
@@ -412,6 +416,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [ThreatLocker](entities/ThreatLocker.md) — Cybersecurity SaaS company built around zero trust controls, default-deny application control, and MSP-to-enterprise distribution.
 - [Thibaut-Louis Lucas](entities/ThibautLouisLucas.md) — Founder of Tea Maker and guest discussing failed startups, product validation, and distribution-led SaaS.
 - [Tianjie Jack](entities/TianjieJack.md) — ZhenFund investor discussing GUI thinking, headless software, agent infrastructure, and Token Grant.
+- [Tim Ferriss](entities/TimFerriss.md) — Advice Line guest using Coyote, off-menu projects, channel focus, made-to-order tests, and identity diversification to advise founders.
 - [Token Grant](entities/TokenGrant.md) — ZhenFund and Shizilukou Crossing sponsorship project for AI-era zero-to-one builders.
 - [Tommy](entities/Tommy.md) — Hermes Agent business lead explaining the framework's memory, tool orchestration, and skill loop.
 - [Traction Tools](entities/TractionTools.md) — EOS-related software competitor discussed in relation to Ninety's licensing and positioning.
@@ -447,6 +452,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yu Yang](entities/YuYang.md) — Financial-company technology leader discussing compliance-constrained financial AI agents and investing companionship.
 - [Yueban Dongli](entities/YuebanDongli.md) — Robotics company founded by Shibo to build the Xiaoban companion robot.
 - [Yuanbao](entities/Yuanbao.md) — Tencent AI assistant discussed as a domestic alternative to Doubao.
+- [Coyote](entities/CoyoteGame.md) — Tim Ferriss's analog card game used as the episode's example of offline connection and off-menu founder experimentation.
+- [EB&Co](entities/EBCo.md) — Kansas City accessories brand weighing physical retail against wholesale after a celebrity-driven demand spike.
+- [Emily Bordner](entities/EmilyBordner.md) — EB&Co founder asking whether to follow current retail revenue or faster wholesale growth.
+- [Gob](entities/Gob.md) — Biomaterials personal-care company starting with mycelium earplugs and weighing venue partnerships against sleep DTC growth.
 - [硬地骇客](entities/YingdiHaike.md) — Podcast/show context for AI coding markets, Podwise CLI/Skills, ASO, design-led growth, founder-life, and AI game/social commercialization episodes.
 - [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for episodes on investing, political influence monetization, finance career risk, career-entry anxiety, upward management, creator work, aviation work, banking, and global market turmoil.
 - [助助](entities/Zhuzhu.md) — Xiaohongshu local-lifestyle creator explaining ordinary creator monetization, local store reviews, and lifestyle freedom.
@@ -591,6 +600,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Business-Led AI Transformation](concepts/BusinessLedAITransformation.md) — Enterprise AI adoption pattern led by business pain, workflow redesign, and incentive change rather than IT ownership alone.
 - [Cabin Crew Work](concepts/CabinCrewWork.md) — Aviation workplace role combining service, safety, passenger management, emotional labor, preparation, and long-haul fatigue management.
 - [Category Creation](concepts/CategoryCreation.md) — Startup go-to-market challenge of teaching buyers to understand, name, and budget for a new category.
+- [Channel Focus Experiments](concepts/ChannelFocusExperiments.md) — Time-bounded tests that compare plausible growth channels before committing scarce founder attention, capital, hiring, or inventory.
 - [Carry Trade Unwind](concepts/CarryTradeUnwind.md) — Forced closing of funded cross-asset positions when currency, rates, margin, or risk conditions reverse.
 - [Career Self-Rescue](concepts/CareerSelfRescue.md) — Recovery pattern where a concrete act restores agency after a low-confidence work or career state.
 - [Cash Cow Strategic Inertia](concepts/CashCowStrategicInertia.md) — Pattern where a profitable old business weakens strategic patience for necessary new bets.
@@ -643,6 +653,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Foreign Banking In China](concepts/ForeignBankingInChina.md) — Operating model where international banks run Chinese-regulated local entities under both local rules and group standards.
 - [Founder Cash Flow Constraint](concepts/FounderCashFlowConstraint.md) — Personal runway problem when a promising startup cannot yet support the founder's life.
 - [Founder Ego](concepts/FounderEgo.md) — Status-seeking founder pattern where fundraising, hiring, or public image outruns validated customer demand.
+- [Founder Identity Diversification](concepts/FounderIdentityDiversification.md) — Founder-health pattern of keeping self-worth, learning, and relationships from depending on one company or role.
 - [Founder Product Fit](concepts/FounderProductFit.md) — Match between a founding team's strengths, credibility, interests, and go-to-market abilities and the product they choose.
 - [Founder Role Transition](concepts/FounderRoleTransition.md) — Shift from founder-as-everything-operator into bounded leadership, operator partnership, board, or brand roles as a company scales.
 - [Forward Deployed Engineer](concepts/ForwardDeployedEngineer.md) — Enterprise role for integrating AI into business workflows, knowledge systems, and operating processes.
@@ -679,6 +690,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Market Efficiency](concepts/MarketEfficiency.md) — Frame for mostly efficient markets with small, temporary inefficiencies that quant systems try to exploit.
 - [Market Mean Reversion](concepts/MarketMeanReversion.md) — Valuation and cycle frame where prices far from historical anchors can revert or overshoot under stress.
 - [Market Regime Shift](concepts/MarketRegimeShift.md) — Market state changes where historical statistical patterns may stop working.
+- [Made-To-Order Commerce](concepts/MadeToOrderCommerce.md) — Physical-product model where customer orders precede manufacturing, reducing inventory risk while testing wait tolerance.
 - [Matrix Reporting](concepts/MatrixReporting.md) — Organizational structure where an employee answers to more than one management line, often local and functional or regional.
 - [Materials Pipeline Company](concepts/MaterialsPipelineCompany.md) — Business model that owns AI-discovered material IP pipelines rather than only selling discovery tools.
 - [Mega-Cap Concentration Risk](concepts/MegaCapConcentrationRisk.md) — Risk that broad U.S. indexes become fragile when performance and weight concentrate in a handful of technology giants.

@@ -2,7 +2,7 @@
 title: "Fast Product Validation"
 type: concept
 tags: [startup, saas, validation]
-sources: [bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, eric-ries-on-how-founders-quietly-lose-their-company, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, finding-product-market-fit-after-3-years-of-failed-ideas, how-danny-jenkins-bootstrapped-threatlocker-from-150k-debt-to-200m, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96]
+sources: [bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, eric-ries-on-how-founders-quietly-lose-their-company, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, finding-product-market-fit-after-3-years-of-failed-ideas, how-danny-jenkins-bootstrapped-threatlocker-from-150k-debt-to-200m, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943]
 last_updated: 2026-07-07
 ---
 
@@ -19,6 +19,8 @@ Fast product validation is the practice of testing product demand quickly throug
 [[ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc]] adds a design-priority boundary through [[Daqi]]. He argues that early products need a basic MVP, users, and feedback before prolonged [[LandingPageConversion]] polishing, because users teach the next step more reliably than isolated redesign work.
 
 [[advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96]] adds consumer-products validation cases through [[TheBeauCollective]], [[CottonClara]], and [[VashonIslandCoffeeDust]]. Pre-sold memberships can validate a new location, repeat-buyer interviews can validate category language, and post-gift usage can validate whether packaging and ritual lead to recurring demand.
+
+[[advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943]] adds [[ChannelFocusExperiments]] as a validation pattern for companies with real but scattered traction. [[Gob]] can test whether venue revenue and social proof create a better learning loop than immediate DTC sleep acquisition, [[EBCo]] can test wholesale with dedicated effort before opening more stores, and [[KBecker]] can test [[MadeToOrderCommerce]] before changing its inventory model.
 
 ## Key Claims
 - Revenue, second-month payments, recurring usage, and organic signups are stronger signals than downloads, launch attention, or weekly active users detached from willingness to pay.
@@ -40,6 +42,7 @@ Fast product validation is the practice of testing product demand quickly throug
 - Early marketplace reorders, such as [[ThriveMarket]] reordering [[SprinkleBites]], are stronger validation when the brand can connect them to repeat demand rather than one-off curiosity.
 - Design improvements should be treated as experiments against user behavior, not as a substitute for finding users or proving demand.
 - Consumer-brand validation can happen through pre-sales, repeat-customer interviews, gift-recipient conversion, and use-case expansion before a founder commits to bigger capital or channel bets.
+- When a company already has multiple live options, validation should compare channels against one another instead of only asking whether the product has any demand.
 
 ## Connections
 - [[ThibautLouisLucas]] and [[TeaMaker]] - founder and current company using the pattern.
@@ -57,3 +60,4 @@ Fast product validation is the practice of testing product demand quickly throug
 - [[Plantamica]], [[AndrewGraff]], [[LocalMarketProof]], [[InStoreDemos]], and [[SprinkleBites]] - Shazi Visram Advice Line cases where retail pilots and reorders shape validation.
 - [[Daqi]], [[ProductRoast]], [[LandingPageConversion]], and [[DesignLedGrowth]] - EP87 case where design must be staged against validation.
 - [[TheBeauCollective]], [[CottonClara]], [[VashonIslandCoffeeDust]], and [[GiftToLoyalBuyerLoop]] - Christina Tosi Advice Line cases where consumer behavior tests expansion, category language, and retention.
+- [[Gob]], [[EBCo]], [[KBecker]], [[ChannelFocusExperiments]], and [[MadeToOrderCommerce]] - Tim Ferriss Advice Line cases where staged channel tests reduce strategic risk.
