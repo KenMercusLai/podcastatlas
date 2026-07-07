@@ -463,3 +463,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-07] ingest | “AGI 来了？我用了一周，头皮发麻“｜对谈张昊然：Moxt 联合创始人
+
+Added source page for a Shizilukou Crossing episode on Zhang Haoran, Moxt, AI-native workspace design, organization-level context, AI coworkers, generated work interfaces, Slack/IM friction, and the human-amplification boundary for AI at work. Created supporting pages for Moxt, Zhang Haoran, Momo, AI-Native Workspace, Organizational Context, AI Coworkers, and Generated Work Interfaces; updated overview, index, Shizilukou Crossing, Koji, Slack, Manus, Context Engineering, Agentic Workflow, Human-Agent Collaboration, Digital Employees, AI Organization Design, and Agent-Facing Interfaces pages.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

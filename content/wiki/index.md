@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [“AGI 来了？我用了一周，头皮发麻“｜对谈张昊然：Moxt 联合创始人](sources/agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq.md) — Podcast episode on Zhang Haoran, Moxt, AI-native workspaces, organizational context, AI coworkers, generated work interfaces, and human-amplifying AI organization design.
 - [EP23 民国金融往事：《追风者》背后的天才少年与银行体系](sources/ep23-minguo-jinrong-wangshi-zhuifengzhe-beihou-de-tiancai-shaonian-yu-yinxing-tixi-lu50lzwnfquabfare58gbhwr42py.md) — Podcast episode using 追风者 to explain Gu Zhun, Lixin accounting, Republican-era banks, Shanghai foreign banks, silver dollars, treasury-bond speculation, and border-region currency credit.
 - [EP24 房贷车贷消费贷，贷贷为奴，代代还](sources/ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439.md) — Podcast episode on mortgages, car loans, consumer loans, credit records, loan intermediaries, credit-card debt mechanics, and the risks of treating credit as income.
 - [UGG: Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company.](sources/ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939.md) — Podcast episode on Brian Smith, UGG, surf-culture positioning, seasonal inventory finance, trademark pressure, channel expansion, and the sale to Deckers.
@@ -85,6 +86,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Moxt](entities/Moxt.md) — AI-native workspace where Zhang Haoran argues teams can create AI coworkers inside organization-level context.
+- [Zhang Haoran](entities/ZhangHaoran.md) — Moxt co-founder explaining the "AGI has arrived" workflow claim and the product's human-amplification boundary.
+- [Momo](entities/Momo.md) — Default Moxt AI assistant used as the starting point for workspace-native AI coworkers.
 - [追风者](entities/WarOfFaith.md) — Television-drama entry point for EP23's discussion of Republican-era Shanghai finance and historical banking mechanisms.
 - [顾准](entities/GuZhun.md) — Accounting prodigy used by EP23 as the historical comparison for Wei Ruolai and as a bridge from accounting skill to state capacity.
 - [潘序伦](entities/PanXulun.md) — Accounting educator and Lixin figure who recognized Gu Zhun's talent and anchors EP23's accounting-infrastructure thread.
@@ -504,6 +508,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [AI-Native Workspace](concepts/AINativeWorkspace.md) — Workspace design category where agents read, write, remember, act, and coordinate over AI-friendly artifacts rather than being bolted onto human-first tools.
+- [Organizational Context](concepts/OrganizationalContext.md) — Shared work state across documents, meetings, data, projects, code, comments, responsibilities, and progress that agents can use.
+- [AI Coworkers](concepts/AICoworkers.md) — Role-based agents with goals, memory, skills, workspace access, and feedback loops that participate in ongoing work.
+- [Generated Work Interfaces](concepts/GeneratedWorkInterfaces.md) — Task-specific dashboards, boards, visualizations, documents, and views generated from live work context.
 - [Republican China Banking System](concepts/RepublicanChinaBankingSystem.md) — EP23 frame for the "four banks, two bureaus, one treasury" structure and its connection to state finance.
 - [Accounting Infrastructure](concepts/AccountingInfrastructure.md) — Audit, bookkeeping, tax, consulting, government accounting, and bank accounting as institutional financial order.
 - [Bank Trainee System](concepts/BankTraineeSystem.md) — Historical-to-modern bank recruitment and training pattern behind practice-student and management-trainee paths.

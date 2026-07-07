@@ -2,7 +2,7 @@
 title: "Manus"
 type: entity
 tags: [ai-tool, agent]
-sources: [agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]
+sources: [agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq]
 last_updated: 2026-07-06
 ---
 
@@ -16,6 +16,8 @@ Manus is referenced in [[agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-za
 
 [[dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]] treats Manus as an earlier phenomenon that raised user expectations for agent products. The source contrasts a hosted "pay for results" style with newer local or subscription agents where users buy token capacity, train the agent, and own more of the workflow.
 
+[[agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq]] adds Manus as one of the productivity and agent players [[ZhangHaoran]] expects [[Moxt]] may face. In that comparison, Moxt's proposed edge is not only task execution, but the [[AINativeWorkspace]] and [[OrganizationalContext]] where many AI coworkers live.
+
 ## Connections
 - [[AgenticWorkflow]] — broader category Manus is used to illustrate.
 - [[HeadlessSoftware]] — source thesis that agents can route around older GUI-first products.
@@ -24,3 +26,4 @@ Manus is referenced in [[agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-za
 - [[Paperboy]] — startup using Manus as a reference point for what current agents do and do not solve.
 - [[AgentHarness]], [[PersistentAgentMemory]], and [[KComputer]] — harness and environment comparison added by the Lai Xinlu source.
 - [[OpenCloud]], [[OpenClaw]], and [[HermesAgent]] — later agent-product wave used as a contrast in the Hermes Agent source.
+- [[Moxt]], [[AINativeWorkspace]], and [[OrganizationalContext]] — workspace-centered competitor frame added by the Moxt source.

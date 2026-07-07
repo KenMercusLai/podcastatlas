@@ -2,7 +2,7 @@
 title: "Digital Employees"
 type: concept
 tags: [ai, enterprise-ai, workforce]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces]
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq]
 last_updated: 2026-07-07
 ---
 
@@ -14,6 +14,8 @@ Digital employees are the episode's frame for enterprise AI systems that behave 
 
 [[20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]] adds the [[OpenClaw]]-triggered startup-opportunity version. The episode argues that OpenClaw makes "digital employee" feel more concrete because a role-specific agent can enter through familiar communication surfaces, execute tasks through local or enterprise tools, and accumulate task traces that may become a moat.
 
+[[agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq]] adds a useful counterweight through [[Moxt]]. [[ZhangHaoran]] uses AI coworker language and describes agents with goals, memory, skills, and responsibility, but rejects marketing them as cheaper human replacements. The source keeps the management frame while emphasizing amplification, privacy, and human judgment.
+
 ## Key Claims
 - Enterprise AI needs company context, workflow knowledge, data access, and workbench integration before it can create practical value.
 - AI workers need "teachers" inside the business, such as excellent store managers, salespeople, nutrition coaches, or property managers.
@@ -24,6 +26,7 @@ Digital employees are the episode's frame for enterprise AI systems that behave 
 - Bairong's source adds that digital employees may need HR-like records, standard-person output benchmarks, and reward systems for the human employees who teach them.
 - [[ContactCenterAI]] is presented as an early measurable digital-employee scene because handoffs, compliance, task volume, and customer satisfaction can be tracked.
 - OpenClaw-like agents suggest that digital employees may need both a social entry point and a controlled execution environment, not just a model endpoint.
+- Moxt adds that the digital-worker metaphor needs a value boundary: role-specific agents can act like coworkers without turning the product message into replacement-first labor arbitrage.
 
 ## Connections
 - [[ForwardDeployedEngineer]] — role that onboards and manages digital employees inside enterprises.
@@ -34,3 +37,4 @@ Digital employees are the episode's frame for enterprise AI systems that behave 
 - [[Paperboy]], [[PersistentAgentMemory]], and [[ProactiveAgents]] — personal-agent analog of onboarding, memory, and responsibility.
 - [[BairongIntelligence]], [[ZhangShaofeng]], [[DarkOffice]], and [[ContactCenterAI]] — operator case and bounded early deployment scene.
 - [[OpenClaw]], [[IMAgentInterfaces]], [[LocalAgentExecution]], and [[OutcomeBasedAIPricing]] — startup-opportunity and labor-pricing frame added by the 20-question source.
+- [[Moxt]], [[AICoworkers]], [[OrganizationalContext]], and [[HumanJudgmentUnderAI]] — amplification-oriented coworker framing added by the Moxt source.
