@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [STARR Restaurants: Stephen Starr. How a Non-Foodie Built Thriving Restaurants on Gut Instinct](sources/starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4.md) — Podcast episode on Stephen Starr, STARR Restaurants, restaurant experience design, concept-led hospitality, operational fragility, site fit, and restaurant capital intensity.
 - [“AGI 来了？我用了一周，头皮发麻“｜对谈张昊然：Moxt 联合创始人](sources/agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq.md) — Podcast episode on Zhang Haoran, Moxt, AI-native workspaces, organizational context, AI coworkers, generated work interfaces, and human-amplifying AI organization design.
 - [EP23 民国金融往事：《追风者》背后的天才少年与银行体系](sources/ep23-minguo-jinrong-wangshi-zhuifengzhe-beihou-de-tiancai-shaonian-yu-yinxing-tixi-lu50lzwnfquabfare58gbhwr42py.md) — Podcast episode using 追风者 to explain Gu Zhun, Lixin accounting, Republican-era banks, Shanghai foreign banks, silver dollars, treasury-bond speculation, and border-region currency credit.
 - [EP24 房贷车贷消费贷，贷贷为奴，代代还](sources/ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439.md) — Podcast episode on mortgages, car loans, consumer loans, credit records, loan intermediaries, credit-card debt mechanics, and the risks of treating credit as income.
@@ -86,6 +87,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Stephen Starr](entities/StephenStarr.md) — Restaurant founder who built STARR Restaurants by applying entertainment-production instincts to dining experiences.
+- [STARR Restaurants](entities/STARRRestaurants.md) — Hospitality group built around concept-driven restaurants, theatrical guest experience, and high-fragility restaurant operations.
+- [The Continental](entities/TheContinental.md) — Stephen Starr's breakthrough Philadelphia martini-bar restaurant, showing site timing, nightlife energy, and customer pull.
+- [Budokan](entities/Budokan.md) — Theatrical Pan-Asian STARR restaurant concept used as the episode's proof point for large-scale experience-led dining.
 - [Moxt](entities/Moxt.md) — AI-native workspace where Zhang Haoran argues teams can create AI coworkers inside organization-level context.
 - [Zhang Haoran](entities/ZhangHaoran.md) — Moxt co-founder explaining the "AGI has arrived" workflow claim and the product's human-amplification boundary.
 - [Momo](entities/Momo.md) — Default Moxt AI assistant used as the starting point for workspace-native AI coworkers.
@@ -508,6 +513,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Restaurant Experience Design](concepts/RestaurantExperienceDesign.md) — Hospitality pattern where food, room design, lighting, music, air, service, and crowd energy form the product.
+- [Concept Led Hospitality](concepts/ConceptLedHospitality.md) — Restaurant-building pattern where each venue starts from a differentiated guest promise, mood, location fit, and operating format.
+- [Restaurant Operational Fragility](concepts/RestaurantOperationalFragility.md) — Restaurant risk where small failures in labor, food, service, room comfort, or liquidity can damage reputation and cash flow.
 - [AI-Native Workspace](concepts/AINativeWorkspace.md) — Workspace design category where agents read, write, remember, act, and coordinate over AI-friendly artifacts rather than being bolted onto human-first tools.
 - [Organizational Context](concepts/OrganizationalContext.md) — Shared work state across documents, meetings, data, projects, code, comments, responsibilities, and progress that agents can use.
 - [AI Coworkers](concepts/AICoworkers.md) — Role-based agents with goals, memory, skills, workspace access, and feedback loops that participate in ongoing work.

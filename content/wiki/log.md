@@ -471,3 +471,11 @@ Added source page for a Shizilukou Crossing episode on Zhang Haoran, Moxt, AI-na
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-07] ingest | STARR Restaurants: Stephen Starr. How a Non-Foodie Built Thriving Restaurants on Gut Instinct
+
+Added source page for a How I Built This episode on Stephen Starr, STARR Restaurants, the Continental, Budokan, restaurant experience design, concept-led hospitality, operational fragility, site fit, COVID survival, and restaurant capital intensity. Created supporting pages for Stephen Starr, STARR Restaurants, the Continental, Budokan, Restaurant Experience Design, Concept Led Hospitality, and Restaurant Operational Fragility; updated overview, index, How I Built This, Guy Raz, Experiential Retail, Product Led Willingness To Pay, Distribution Led Product Building, Customer Pull, Retail Site Selection, and Founder Role Transition pages.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
