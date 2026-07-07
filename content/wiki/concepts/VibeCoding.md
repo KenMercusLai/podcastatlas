@@ -2,13 +2,15 @@
 title: "Vibe Coding"
 type: concept
 tags: [ai-coding, software-engineering, learning]
-sources: [ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1]
+sources: [vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1]
 last_updated: 2026-07-07
 ---
 
 # Vibe Coding
 
 Vibe coding is the AI-assisted practice of using coding tools such as [[Cursor]], [[ClaudeCode]], and [[GeminiCLI]] to turn intent, project context, and iterative feedback into working software. In [[ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan]], the hosts argue that its strongest value is not guaranteed speed but capability expansion: it lets non-programmers, cross-stack developers, and small teams attempt projects they previously could not approach.
+
+[[vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1]] adds a one-year-later practitioner snapshot. The hosts say the workflow moved from supervised [[Cursor]] interaction toward [[ClaudeCode]]-style command-line agents, YOLO execution, multiple windows, long task loops, and worktree/branch hygiene. The [[NewSpot]] case sharpens the page's boundary: AI can write nearly all implementation code for a real product, but the useful work is still plan review, architecture judgment, tests, final acceptance, debugging, and deciding what product taste should remain human.
 
 [[ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]] adds the productization boundary through [[ShengpaiNotice]] and failed larger-project attempts. AI coding can produce useful internal tools when the workflow is already understood, but "AI can write code" is not the same as "AI can create a product" without [[AIEngineeringThinking]], architecture, tests, logs, and human correction.
 
@@ -53,6 +55,9 @@ Vibe coding is the AI-assisted practice of using coding tools such as [[Cursor]]
 - Beginners may be especially exposed because they can generate code before they have enough experience to identify subtle mistakes.
 - Stronger one-shot coding shifts some work from iterative prompting toward choosing the right model, writing clearer specs, and deciding how much verification is enough.
 - Vibe coding can support a [[OnePersonCompany]], but it does not replace [[CustomerPull]], sales, service, compliance, or domain taste.
+- YOLO-style coding agents make permission boundaries part of vibe coding practice, because the agent may execute commands and touch real accounts rather than only draft code.
+- A product can be mostly AI-written without making that fact the value proposition; customers still care about the resulting utility, reliability, and taste.
+- Long agent sessions create a behavioral risk: the user can become the person reacting to AI work queues instead of deciding what deserves attention.
 
 ## Connections
 - [[Cursor]], [[ClaudeCode]], [[GeminiCLI]], [[Windsurf]], and [[Devin]] — tools and products in the source's AI coding market map.
@@ -72,3 +77,4 @@ Vibe coding is the AI-assisted practice of using coding tools such as [[Cursor]]
 - [[Fable5]], [[OneShotAICoding]], [[GrillMeSkills]], and [[ModelRoutingCostControl]] — stronger-model and cost-aware workflow case added by Vol. 170.
 - [[OnePersonCompany]], [[CustomerPull]], and [[ProductLedWillingnessToPay]] — OPC source where coding speed is separated from business demand.
 - [[AgenticSoftware]], [[AppStore]], and [[AICommunicationAbility]] — Vol. 164's dynamic-app and prompt-clarity boundary.
+- [[NewSpot]], [[AgentPermissionBoundaries]], and [[AICodingVerification]] — Vol. 160's real-product, YOLO-permission, and final-test boundary.

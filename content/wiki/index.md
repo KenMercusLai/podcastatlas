@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol. 160 一年多以后，再聊AI写代码Vibe Coding](sources/vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1.md) — Fengyan Fengyu episode on NewSpot, mature vibe-coding workflows, YOLO permissions, AI coding verification, AI-search trust, human taste, and model/cost fit.
 - [她想造一个 AI 时代的“超级游乐场”｜对谈 Roi：幕间创始人 / CEO](sources/ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec.md) — Podcast episode on Roi, Mujian, AI simulation content, creator tools, controlled freedom, AI super creators, and platform strategy for virtual-life experiences.
 - [Vol. 162 科技快乐星球44: 新模型“SOTA们”齐贺新春](sources/vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1.md) — Fengyan Fengyu AI-news roundup on Xcode Agentic Coding, Codex/Claude Code/Gemini workflow fit, domestic model releases, AI video, agentic commerce, voice/local models, and AI infrastructure.
 - [Vol. 164 从苹果聊到软件未来：Agentic Software 真的要来了？](sources/vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1.md) — Fengyan Fengyu episode on Apple platform AI expectations, App Store review limits, agentic software, atomic SaaS capabilities, vibe-coding boundaries, AI communication skill, and AI content devaluation.

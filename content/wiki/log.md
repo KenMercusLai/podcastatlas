@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-07] ingest | Vol. 160 一年多以后，再聊AI写代码Vibe Coding
+
+Added source page for a Fengyan Fengyu episode on NewSpot, year-over-year vibe-coding change, Claude Code/Codex/Gemini workflows, YOLO permissions, AI-search trust and AISO/GEO behavior, test-driven coding-agent work, final product-flow verification, AI content devaluation, human authorship, communication ability, model/cost fit, and slowing down. Updated overview, index, NewSpot, Justin Yan, Fengyan Fengyu, Vibe Coding, AI Coding Verification, Agent Permission Boundaries, AI Engineering Thinking, Human Judgment Under AI, AI Communication Ability, Generative Engine Optimization, AI Discovery SEO, and AI Content Devaluation pages.
+
 ## [2026-07-07] ingest | Vol. 164 从苹果聊到软件未来：Agentic Software 真的要来了？
 
 Added source page for a Fengyan Fengyu episode on Apple platform AI expectations, App Store review boundaries for dynamically generated apps, Agentic Software, atomic SaaS capabilities via Tencent Meeting, vibe-coding demo-to-production gaps, coding-agent task-length limits, human communication ability, context/memory limits, and AI content devaluation. Created supporting pages for Agentic Software, Atomic Capability Services, AI Communication Ability, AI Content Devaluation, and Tencent Meeting; updated overview, index, Fengyan Fengyu, Justin Yan, 自立, Apple, App Store, Siri, Tencent, OpenClaw, Nvidia, Jensen Huang, Codex, and related agent/software/coding/content concepts.
@@ -647,6 +651,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-07] ingest | 她想造一个 AI 时代的“超级游乐场”｜对谈 Roi：幕间创始人 / CEO
 
 Added source page for a Shizilukou Crossing episode on Roi, Mujian, AI simulation interactive content, controlled freedom, creator tooling, virtual-life platform strategy, AI super creators, and the distinction between companion chat, interactive fiction, simulation content, generated games, and future world models. Created supporting pages for Roi, Mujian, LibLib, AI Simulation Content, and AI Super Creators; updated overview, index, Shizilukou Crossing, Character AI, Xiaohongshu, AI Interactive Entertainment, AI Interactive Content Platforms, Designed Agency In Games, Creation As Consumption, World Models, and AI Game Industrialization.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-07] lint | Wiki health check
 

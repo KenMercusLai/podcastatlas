@@ -2,13 +2,15 @@
 title: "AI Engineering Thinking"
 type: concept
 tags: [ai, workflow, software-engineering]
-sources: [ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1]
+sources: [vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1]
 last_updated: 2026-07-07
 ---
 
 # AI Engineering Thinking
 
 AI engineering thinking is the habit of turning a vague goal into explicit requirements, architecture, tests, logs, documentation, review, audit rules, and business handoffs before asking AI to execute. In [[ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]], the [[KejiLuandun]] hosts argue that AI can write code, scripts, summaries, and operational analyses, but it still needs the user to define the problem, boundaries, checks, and responsibility chain.
+
+[[vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1]] adds the mature [[VibeCoding]] version through [[NewSpot]]. The source's workflow starts with plan mode and human review, then turns tests, code review, final product-flow checks, debugging, and architecture judgment into the human side of an AI-heavy implementation. It also argues that "AI wrote almost all the code" is not the engineering achievement by itself; the achievement is turning generated code into a reliable product with a coherent point of view.
 
 [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] adds planning artifacts as a practical example. The hosts describe using [[Superpowers]] to move from brainstorming into design markdown and plan markdown before delegating execution to [[Codex]] or [[ClaudeCode]].
 
@@ -54,6 +56,8 @@ AI engineering thinking is the habit of turning a vague goal into explicit requi
 - A prototype can be valuable as requirement discovery even when it is not yet a maintainable system.
 - Offline AI engineering starts by locating the real interface surfaces: printers, cameras, voice prompts, platform screenshots, receipts, and worker handoffs may matter more than APIs at first.
 - Field tests can invalidate feature ideas, such as detailed manual inventory, before engineering time is spent on a system people will not use.
+- Plan-first agent work is useful only if the human actually reviews the plan, acceptance criteria, and test strategy before letting implementation run.
+- Engineering thinking includes deciding when a generated system is good enough for self-use and when a public product needs polish, resilience, and ongoing maintenance.
 
 ## Connections
 - [[VibeCoding]] — AI coding practice that needs this engineering posture to become product work.
@@ -73,3 +77,4 @@ AI engineering thinking is the habit of turning a vague goal into explicit requi
 - [[ShengdongHuopo]], [[XuTao]], [[AIHackathons]], and [[BusinessLedAITransformation]] — non-technical workflow-prototype case added by the Shengdong Jixi crossover.
 - [[OfflineAIImplementation]], [[OperationalDataCapture]], and [[AIVisualMerchandising]] — flower-shop fieldwork case where requirements emerge from physical operations.
 - [[AICommunicationAbility]], [[AgenticSoftware]], and [[AICodingVerification]] — Vol. 164's task-framing and review case.
+- [[NewSpot]], [[VibeCoding]], and [[HumanJudgmentUnderAI]] — Vol. 160's product-owner workflow for turning AI-written code into useful software.

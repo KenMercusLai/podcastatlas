@@ -2,7 +2,7 @@
 title: "AI Content Devaluation"
 type: concept
 tags: [ai, content, writing, media]
-sources: [vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]
+sources: [vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1]
 last_updated: 2026-07-07
 ---
 
@@ -12,12 +12,16 @@ AI content devaluation is the Vol. 164 concern that when software, articles, soc
 
 The concept is not simply anti-AI. The episode separates low-value generated filler from cases where AI assists a person with real judgment, taste, script, editing, or direction. The value shifts from production effort alone toward human intent, selection, story, expression, and verification.
 
+[[vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1]] adds a product and media version. [[JustinYan]] says [[NewSpot]] currently risks feeling too AI-generated, so its "每日一句" keeps his own writing as the final authored element while AI can only provide inspiration. The same source extends the concern to AI articles, short videos, magazine-style images, and synthetic audio: once production becomes abundant, listeners and readers may value human irregularity, bias, and lived experience more.
+
 ## Key Claims
 - Lower creation cost can reduce perceived scarcity, making readers or users more selective about what deserves attention.
 - "AI flavor" in short text can break trust because the audience may infer that the author outsourced the act of thinking.
 - Writing remains a thinking tool: naming, structuring, and revising are part of judgment, not only a delivery format.
 - Stronger models may eventually make the AI/non-AI distinction less visible, moving evaluation back toward content quality, imagination, story, and taste.
 - Devaluation increases the need for [[AICommunicationAbility]], [[HumanJudgmentUnderAI]], and sometimes [[AIContentProvenance]] when trust or disclosure matters.
+- Human-authored fragments can be product design choices, not nostalgia, when they signal that a real person still owns selection and interpretation.
+- AI audio can solve voice quality before it solves script quality; the bottleneck moves toward writing, pacing, and human-like surprise.
 
 ## Connections
 - [[AIContentProvenance]] — disclosure and traceability side of generated media.
@@ -25,3 +29,4 @@ The concept is not simply anti-AI. The episode separates low-value generated fil
 - [[HumanJudgmentUnderAI]] — judgment and taste still decide what is worth publishing.
 - [[VibeCoding]] and [[OnDemandApps]] — software analog where generated artifacts are easy, but product quality and maintenance still matter.
 - [[ProductLedWillingnessToPay]] — users pay attention or money only when generated output becomes meaningfully valuable.
+- [[NewSpot]], [[JustinYan]], and [[FengyanFengyu]] — Vol. 160's product, podcast, and authored-voice case.

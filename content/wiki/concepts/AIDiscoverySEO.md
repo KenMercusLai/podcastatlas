@@ -2,7 +2,7 @@
 title: "AI Discovery SEO"
 type: concept
 tags: [ai, seo, distribution]
-sources: [bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86]
+sources: [bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1]
 last_updated: 2026-07-07
 ---
 
@@ -14,6 +14,8 @@ AI discovery SEO is the idea that products still need strong public web presence
 
 [[advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86]] adds a consumer-products case. [[ShaziVisram]] treats ChatGPT-like answer visibility as a discovery channel for [[FreitBarefoot]] and points to [[HealthyBaby]]'s science and third-party validation as the kind of public proof that can make a brand easier for AI systems to identify.
 
+[[vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1]] adds the trust-risk version. The hosts note that AI search can replace a user's habit of opening many pages and cross-checking claims, which makes the sources retrieved or trusted by answer engines more strategically important. They also discuss AISO-like behavior where people test which platforms and content patterns can influence AI answers.
+
 ## Key Claims
 - AI discovery does not remove the importance of public web signals; it may make those signals matter in new interfaces.
 - SEO captures users who already show intent, making it a reusable channel inside [[DistributionLedProductBuilding]].
@@ -22,6 +24,8 @@ AI discovery SEO is the idea that products still need strong public web presence
 - Practical work may include testing buyer prompts, identifying cited sources, improving public mentions, and shaping the third-party pages AI tools retrieve.
 - Mobile apps face a parallel but more constrained discovery problem inside stores such as [[AppStore]], where [[AppStoreKeywordStrategy]] and [[AppStoreProductPageConversion]] replace much of the open-web SEO toolset.
 - CPG brands may need to make product evidence machine-readable and reusable so AI answers can connect the brand to its category, claims, and third-party proof.
+- AI discovery can be polluted when actors optimize for model trust rather than human usefulness, so distribution strategy and verification risk are linked.
+- Products and publishers need to understand whether their audience is finding them through classic search results, AI synthesized answers, or the sources behind those answers.
 
 ## Connections
 - [[Outrank]] - product example.
@@ -32,3 +36,4 @@ AI discovery SEO is the idea that products still need strong public web presence
 - [[AINativeSaaSThreat]] and [[SaaSTrustMoat]] - adjacent AI-era SaaS strategy concepts.
 - [[AppStoreOptimization]] - closed-marketplace counterpart for mobile apps.
 - [[HealthyBaby]], [[FreitBarefoot]], and [[ProofPointReuse]] - consumer-products case where discovery depends on public proof and clear category language.
+- [[GenerativeEngineOptimization]], [[AIContentDevaluation]], and [[HumanJudgmentUnderAI]] - Vol. 160's AI-search optimization and verification-risk layer.

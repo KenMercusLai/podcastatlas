@@ -2,13 +2,15 @@
 title: "Agent Permission Boundaries"
 type: concept
 tags: [agents, security, governance]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
+sources: [vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
 last_updated: 2026-07-07
 ---
 
 # Agent Permission Boundaries
 
 Agent permission boundaries are the practical limits that decide which tools, accounts, data, and actions an agent can use automatically, which require explicit human instruction, and which should remain out of scope. In [[vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]], the issue appears through [[OpenClaw]] and [[JustinYan]]'s personal agent: he uses a virtual machine, separate accounts, and trusted versus agent-written skill categories because the agent may otherwise expose personal information or misuse powerful services.
+
+[[vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1]] adds the YOLO-mode coding case. The hosts describe how coding agents can run commands without asking for every confirmation, which raises productivity but also normalizes risk when nothing bad happens for a long time. Their practical mitigation is to separate concurrent agent work with branches or worktrees and remember that agent authority can extend beyond source files into email, cloud services, servers, and financial accounts.
 
 [[20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]] adds the local-versus-cloud tradeoff. The episode argues that [[LocalAgentExecution]] is valuable because the agent can access the user's real context, desktop files, devices, and tools, but the same permissions create privacy and safety risk. Cloud-hosted OpenClaw-like products can feel safer, yet may lose much of the value if they cannot reach the local work environment.
 
@@ -29,6 +31,8 @@ Agent permission boundaries are the practical limits that decide which tools, ac
 - Cross-agent review can reduce mistakes, but it does not remove human accountability for actions taken under the user's account.
 - Agent channels need their own boundaries: an IM thread, browser extension, background Mac session, and ChatGPT remote command may expose different accounts, files, and social contexts.
 - Shopping and payment agents need budget, confirmation, refund, delivery, and identity boundaries because the action directly spends money and changes real-world logistics.
+- YOLO execution should be treated as a scoped permission mode, not as proof that the agent can safely own the whole machine or all connected accounts.
+- Parallel coding-agent sessions need isolation practices such as separate branches, worktrees, sandboxes, or accounts because successful runs can still conflict or compound mistakes.
 
 ## Connections
 - [[OpenClaw]], [[JustinYan]], and [[Zili]] — source context for personal-agent safety.
@@ -40,3 +44,4 @@ Agent permission boundaries are the practical limits that decide which tools, ac
 - [[RoutineAgentAutomation]], [[Podwise]], and [[WeChatReading]] — recurring personal workflow cases added by EP127.
 - [[Codex]], [[IMAgentInterfaces]], [[PersistentAgentMemory]], and [[AIContentProvenance]] — cross-channel permission and disclosure themes added by Vol. 167.
 - [[AgenticCommerce]], [[VoiceInteraction]], [[AIPlusTerminals]], and [[AgentFacingInterfaces]] — commerce, device, and platform-access themes added by Vol. 162.
+- [[VibeCoding]], [[ClaudeCode]], and [[AICodingVerification]] — Vol. 160's YOLO-mode and multi-agent coding boundary.
