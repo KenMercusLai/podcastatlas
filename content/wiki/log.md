@@ -275,3 +275,7 @@ Added source page for a How I Built This episode on Joey Shamah, Scott Vincent B
 ## [2026-07-07] ingest | Advice Line with Susan Griffin-Black of EO Products
 
 Added source page for a How I Built This Advice Line episode on Susan Griffin-Black, EO Products, the COVID hand sanitizer surge and post-surge contraction, relationship-led growth, local market proof, and channel advice for Yobi, Culture Wine Company, and Cane Dog Coffee. Created supporting pages for Susan Griffin-Black, EO Products, Yobi, Ruchi Gupta, Culture Wine Company, Peter Andrews, Cane Dog Coffee, Dominic Windham-Giddens, Relationship-Led Growth, and Local Market Proof; updated overview, index, How I Built This, Guy Raz, CPG distribution, mission-driven customer education, distribution-led product building, customer pull, category creation, purpose-driven business, and sustainable growth pace.
+
+## [2026-07-07] ingest | EP101 对话 Simon：AI 创业者的第一项基本功是把账算明白
+
+Added source page for a 硬地骇客 episode on Simon, Mico World, Mico AI Lab, Middle East game-social growth, cross-cultural user research, Character AI-style companion-chat economics, AI game commercialization, and AI startup unit economics. Created supporting pages for Simon, Mico World, Mico AI Lab, AI Startup Unit Economics, Cross-Cultural User Research, and Middle East Social Game Growth; updated overview, index, 硬地骇客, Character AI, AI inference cost structure, AI commercialization pressure, AI interactive entertainment, AI game industrialization, and product-led willingness to pay pages.

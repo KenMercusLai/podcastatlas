@@ -2,7 +2,7 @@
 title: "AI Commercialization Pressure"
 type: concept
 tags: [ai, commercialization, strategy]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, community-led-saas-growth-how-ninety-hit-44m-arr, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun]
+sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, community-led-saas-growth-how-ninety-hit-44m-arr, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx]
 last_updated: 2026-07-07
 ---
 
@@ -24,6 +24,8 @@ AI commercialization pressure is the tension between technical influence, user a
 
 [[dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun]] adds a legacy-incumbent version through [[Baidu]]. The hosts argue that Baidu was early to AI but failed to turn [[Wenxin]] into a strong user-facing product while its search-ad cash cow weakened, so AI spending, capital expenditure, closed/open model choices, and product mindshare all become part of one commercial pressure.
 
+[[ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx]] adds an AI application startup version through [[MicoAILab]]. [[Simon]] argues that AIGC teams must calculate marginal cost, user payment tolerance, market ceiling, and survival runway before buying compute, highlighting technology, or choosing an AI companion direction.
+
 ## Key Claims
 - Open-source reputation alone may not justify sustained high-cost model training.
 - Commercialization pressure can change release timing, model scope, or product boundaries without necessarily ending open source.
@@ -38,6 +40,7 @@ AI commercialization pressure is the tension between technical influence, user a
 - Hard-tech AI startups can face a long gap between model progress and revenue because candidate discovery still needs experiment, validation, scale-up, and customer adoption.
 - Owning [[MaterialsPipelineCompany]] assets may be a commercialization response when selling a tool too early would leak the core value.
 - Legacy AI incumbents can face the reverse problem: they may have revenue and technical history, but still need a new AI product loop before the old cash cow declines too far.
+- AI application startups need [[AIStartupUnitEconomics]] discipline because visible demand can still fail when memory, inference, and maintenance cost exceed acceptable pricing.
 
 ## Connections
 - [[LargeCompanyOpenSourceStrategy]] — strategic context where the pressure appears.
@@ -52,3 +55,4 @@ AI commercialization pressure is the tension between technical influence, user a
 - [[BairongIntelligence]], [[OutcomeBasedAIPricing]], and [[AIBPORollUp]] — enterprise-service commercialization route.
 - [[Kaiwuji]], [[AIMaterialsDiscovery]], and [[MaterialsPipelineCompany]] — hard-tech materials commercialization route.
 - [[Baidu]], [[Wenxin]], [[SearchAdvertisingDecline]], and [[CashCowStrategicInertia]] — legacy search-incumbent route added by the Baidu source.
+- [[MicoAILab]], [[Simon]], [[AIStartupUnitEconomics]], and [[CharacterAI]] — AI game/social route added by EP101.

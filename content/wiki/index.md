@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP101 对话 Simon：AI 创业者的第一项基本功是把账算明白](sources/ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx.md) — Podcast episode on Simon, Mico World AI Lab, Middle East game-social growth, Character AI economics, AI game commercialization, and startup unit economics.
 - [Advice Line with Susan Griffin-Black of EO Products](sources/advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91.md) — Podcast episode on Susan Griffin-Black, EO Products, relationship-led local growth, Yobi, Culture Wine Company, and Cane Dog Coffee.
 - [e.l.f. Cosmetics: Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant](sources/e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e.md) — Podcast episode on Joey Shamah, Scott Vincent Borba, e.l.f. Cosmetics, low-price beauty, media-driven e-commerce, H-E-B/Target retail validation, and private equity transitions.
 - [EP102 对话 Una：全球头部思维导图 App Store 运营负责人亲授 ASO 实战经验](sources/ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug.md) — Podcast episode on Una, FocusFly, App Store optimization, keyword strategy, product-page conversion, ratings/reviews, and Apple Search Ads.
@@ -61,6 +62,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Simon](entities/Simon.md) — Mico AI Lab lead discussing Middle East game-social operations, cross-cultural research, AI games, and AI startup unit economics.
+- [Mico World](entities/MicoWorld.md) — Overseas social and pan-entertainment company whose Middle East game-social case informs its AI game/social direction.
+- [Mico AI Lab](entities/MicoAILab.md) — Mico World internal AI application unit evaluating AIGC through game, social, cost, and payment constraints.
 - [Susan Griffin-Black](entities/SusanGriffinBlack.md) — EO Products founder and Advice Line guest emphasizing relationships, local proof, and crisis operating judgment.
 - [EO Products](entities/EOProducts.md) — Natural personal-care company whose COVID hand sanitizer surge and post-surge contraction frame Susan Griffin-Black's advice.
 - [Yobi](entities/Yobi.md) — Probiotic skin, scalp, and hair-care brand using a physician-founder story and professional channels to build trust.
@@ -121,7 +125,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [ByteDance](entities/ByteDance.md) — Company behind Doubao, discussed through AI cost pressure, video capability, and paid membership strategy.
 - [Cang Shifu](entities/CangShifu.md) — AI practitioner and creator discussing CLI workflows, skills, Code Pilot, and hands-on agent use.
 - [Caroline Buck](entities/CarolineBuck.md) — Petaluma founder asking how to explain plant-based dog food without triggering backlash.
-- [Character AI](entities/CharacterAI.md) — Character-chat product referenced as an AI-as-interaction-object example in AI interactive entertainment.
+- [Character AI](entities/CharacterAI.md) — Character-chat product referenced as an AI-as-interaction-object example and as a companion-chat commercialization caution.
 - [China Securities Regulatory Commission](entities/ChinaSecuritiesRegulatoryCommission.md) — Chinese securities regulator discussed through A-share supervision, market warnings, price limits, and off-market financing cleanup.
 - [ChatGPT](entities/ChatGPT.md) — AI assistant/search surface monitored by Peak AI for brand visibility.
 - [Chen Jingchu](entities/ChenJingchu.md) — Serial builder and hackathon contestant arguing that building public is an AI-era product and distribution lever.
@@ -341,7 +345,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yu Yang](entities/YuYang.md) — Financial-company technology leader discussing compliance-constrained financial AI agents and investing companionship.
 - [Yueban Dongli](entities/YuebanDongli.md) — Robotics company founded by Shibo to build the Xiaoban companion robot.
 - [Yuanbao](entities/Yuanbao.md) — Tencent AI assistant discussed as a domestic alternative to Doubao.
-- [硬地骇客](entities/YingdiHaike.md) — Podcast/show context for EP108's AI coding market discussion and EP124's Podwise CLI/Skills episode.
+- [硬地骇客](entities/YingdiHaike.md) — Podcast/show context for AI coding markets, Podwise CLI/Skills, ASO, founder-life, and AI game/social commercialization episodes.
 - [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for episodes on investing, finance career risk, career-entry anxiety, upward management, creator work, aviation work, banking, and global market turmoil.
 - [助助](entities/Zhuzhu.md) — Xiaohongshu local-lifestyle creator explaining ordinary creator monetization, local store reviews, and lifestyle freedom.
 - [Youyou Agent](entities/YouyouAgent.md) — Digital-life agent experiment discussed as an early agent-native project.
@@ -357,6 +361,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [AI Startup Unit Economics](concepts/AIStartupUnitEconomics.md) — AI founder checklist tying demand to marginal model cost, payment tolerance, market ceiling, and survival runway.
+- [Cross-Cultural User Research](concepts/CrossCulturalUserResearch.md) — Product research practice for studying language, culture, identity, and payment differences across markets.
+- [Middle East Social Game Growth](concepts/MiddleEastSocialGameGrowth.md) — Localized game-social growth pattern combining atmosphere supply, high-value users, anonymity, acquisition, and paid gifts.
 - [Low Price Brand Perception](concepts/LowPriceBrandPerception.md) — Problem of making a very inexpensive product feel credible, attractive, and branded rather than cheap.
 - [Retail Incrementality](concepts/RetailIncrementality.md) — Proof that a product grows category sales or creates impulse demand instead of only cannibalizing existing shelf sales.
 - [Direct To Consumer Cash Flow](concepts/DirectToConsumerCashFlow.md) — Cash-flow and learning advantage from selling directly to customers before or alongside retail channels.

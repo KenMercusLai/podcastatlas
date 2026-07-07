@@ -2,13 +2,15 @@
 title: "硬地骇客"
 type: entity
 tags: [podcast, media]
-sources: [ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug]
+sources: [ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug]
 last_updated: 2026-07-07
 ---
 
 # 硬地骇客
 
 硬地骇客 is the podcast/show context for [[ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan]]. In this episode, the show connects [[Cursor]] pricing, [[Windsurf]]'s transaction turmoil, [[ClaudeCode]], [[GeminiCLI]], and the broader [[VibeCoding]] wave into one discussion about AI coding tool competition.
+
+[[ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx]] adds an AI game/social commercialization case through [[Simon]], [[MicoWorld]], and [[MicoAILab]]. The episode moves the show from AI tooling markets into [[AIStartupUnitEconomics]], [[MiddleEastSocialGameGrowth]], [[CrossCulturalUserResearch]], and the question of why [[CharacterAI]]-style demand does not automatically create a profitable product.
 
 [[ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax]] adds a product-interface case through [[Podwise]]. The episode argues that CLI plus [[AISkills]] can be a stronger [[AgentFacingInterfaces]] pattern than direct API/SDK integration when agents need discoverable, pipeable, debuggable, structured commands.
 
@@ -23,3 +25,4 @@ last_updated: 2026-07-07
 - [[Podwise]], [[AgentOptimizedCLI]], and [[AISkills]] — CLI/Skills case added by EP124.
 - [[XiaoSun]], [[CreateWise]], [[SelfDirectedWork]], and [[FounderCashFlowConstraint]] — founder-life and early-startup case added by EP119.
 - [[Una]], [[FocusFly]], [[AppStoreOptimization]], and [[AppleSearchAds]] — mobile app-store growth case added by EP102.
+- [[Simon]], [[MicoWorld]], [[MicoAILab]], and [[AIStartupUnitEconomics]] — AI game/social commercialization case added by EP101.
