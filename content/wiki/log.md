@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-08] ingest | 《大厂小民》：我们必须克制对系统与上岸的期待
+
+Added source page for a 面基 episode with 小满 on 《大厂小民》, big-company systems, layoffs, "上岸" expectations, humane cracks in formal organizations, outsourced/full-time inequality, tool rationality leaking into relationships, family labor boundaries, and nonfiction writing as public memory. Created supporting pages for XiaoMan, DaChangXiaomin, SuBen, JiangXiaoyu, ZhengYou, Career Shore Myth, System Humanity, Layoff Buffer, Tool Rationality Spillover, Family Labor Boundaries, and Nonfiction Publicness; updated overview, index, 面基, Big Company Halo, Large Company Organizational Inertia, Workplace Hidden Rules, Self-Directed Work, Workplace Relationship Boundaries, and Career Self-Rescue. No direct contradiction found; the source qualifies big-company halo and large-company critique by treating large organizations as both temporary shelter and replaceability machine.
+
 ## [2026-07-08] ingest | E162.康波周期中的AI：新技术总在萧条期爆发，bad times make good people
 
 Added source page for a 面基 episode on Kondratiev cycles, AI as a possible sixth long-wave technology, technology installation cycles, depression-driven innovation, risk parity, gold as monetary anchor, geopolitical macro, and macro asset expression. Created pages for Kondratiev Cycle, Technology Installation Cycle, Depression Driven Innovation, Risk Parity, Macro Asset Expression, Gold Monetary Anchor, Geopolitical Cycle Macro, Zhou Jintao, 中信建投证券, Bridgewater Associates, Joseph Schumpeter, and Carlota Perez; updated overview, index, 面基, Asset Allocation, Efficient Frontier, AI Investment Metrics, AI Equity Valuation Risk, Market Regime Shift, Investment Risk Management, Microsoft, and Apple. No direct contradiction found; the source qualifies AI-bubble skepticism by arguing that AI can be a real long-cycle technology while still facing installation-stage bubble and valuation risk.
@@ -775,6 +779,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] ingest | E161.脱离理性暴政，去尽情游戏吧！
 
 Added source page for a 面基 episode with 关雅迪 on leaving rational overcontrol, trained intuition, embodied judgment, ultratrail running, ocean sailing, high-altitude hallucination, financial/lifestyle safety, and action-defined identity. Created supporting pages for GuanYadi, QingdaoClipperYacht, TrainedIntuition, EmbodiedJudgment, FlowEnvironmentDesign, ExtremeEnvironmentRiskManagement, and ActionDefinesIdentity; updated overview, index, 面基, and Financial Freedom Vs Lifestyle Freedom. No direct contradiction found; the source qualifies "trust intuition" with training, feedback, safety boundaries, and embodied experience.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-08] lint | Wiki health check
 

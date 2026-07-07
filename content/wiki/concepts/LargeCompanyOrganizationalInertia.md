@@ -2,8 +2,8 @@
 title: "Large Company Organizational Inertia"
 type: concept
 tags: [organizations, career, management]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun]
-last_updated: 2026-07-07
+sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf]
+last_updated: 2026-07-08
 ---
 
 # Large Company Organizational Inertia
@@ -18,6 +18,8 @@ Large company organizational inertia is the episode's frame for how massive comp
 
 [[dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun]] adds a counterexample-like version through [[Huawei]]. Instead of only showing inertia, the episode asks how a very large organization tries to overcome fragmentation through [[TauLaw]], concentrated resources, backup plans, customer engineering, and industry-legion delivery. The result is [[HuaweiOrganizationalMethodology]]: scale is still heavy, but the company tries to turn it into pressure, repetition, and shared metrics.
 
+[[da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf]] adds the ordinary-worker and nonfiction version through [[XiaoMan]] and [[DaChangXiaomin]]. It shows large-company inertia from the inside of middle-platform work, layoffs, outsourcing inequality, and report-driven content projects, while also acknowledging that rules, welfare, and severance can protect workers better than more arbitrary organizations. This source turns the concept toward [[SystemHumanity]]: whether large systems leave enough room for people to soften their own machinery.
+
 ## Key Claims
 - Large companies amplify work with resources, distribution, and existing momentum.
 - They also impose layers, rules, approvals, and personnel arrangements that limit individual control.
@@ -26,6 +28,8 @@ Large company organizational inertia is the episode's frame for how massive comp
 - In legacy platforms, inertia can also show up as a failure to challenge a profitable core business before the market around it changes.
 - In government-enterprise software, inertia can show up as hierarchy, formality, and delivery discipline overriding older technical-community norms.
 - Large-company scale can also be actively organized through a unifying metric, as the Huawei source argues with [[TauLaw]] and [[ConstraintDrivenEngineeringStrategy]].
+- For ordinary employees, inertia shows up as business-line disappearance, middle-platform danger, outsourced/full-time boundaries, and the discovery that the large company was not a permanent shore.
+- The same scale can provide procedural protection through compensation, welfare, and layoff process, making inertia both shelter and constraint.
 
 ## Connections
 - [[StarTalentInBigCompanies]] — individual-level pattern inside the same environment.
@@ -35,3 +39,4 @@ Large company organizational inertia is the episode's frame for how massive comp
 - [[Baidu]], [[LiYanhong]], [[LuQi]], and [[CashCowStrategicInertia]] — legacy search-platform case added by the Baidu source.
 - [[TongxinSoftware]], [[LinWei]], and [[TechnicalCultureSalesCultureTension]] — technical-community-to-enterprise-vendor case added by the domestic operating-system source.
 - [[Huawei]], [[TauLaw]], and [[HuaweiOrganizationalMethodology]] — scale-coordination case added by the Huawei source.
+- [[XiaoMan]], [[DaChangXiaomin]], [[CareerShoreMyth]], [[SystemHumanity]], and [[LayoffBuffer]] — ordinary-worker and layoff layer added by the Mianji source.

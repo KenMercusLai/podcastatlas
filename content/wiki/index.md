@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《大厂小民》：我们必须克制对系统与上岸的期待](sources/da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf.md) — 面基 episode with 小满 on big-company systems, layoffs, "上岸" expectations, system humanity, writing after exit, tool rationality, family labor, and nonfiction publicness.
 - [E163.要完了？不！是要玩了！论养AI的心态与习惯](sources/e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb.md) — 面基 episode on AI FoMO, skills as agent operating manuals, context and memory habits, output gates, token pressure, human agency, and using AI to regain play rather than only speed.
 - [E162.康波周期中的AI：新技术总在萧条期爆发，bad times make good people](sources/e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl.md) — 面基 episode on Kondratiev cycles, AI as a sixth long-wave technology, depression-driven innovation, risk parity, gold as monetary anchor, geopolitical macro, and translating macro narratives into multi-asset portfolios.
 - [E161.脱离理性暴政，去尽情游戏吧！](sources/e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f.md) — 面基 episode on Guan Yadi, trained intuition, embodied judgment, flow environments, ultratrail running, ocean sailing, high-altitude hallucination, and action-defined identity.
@@ -122,6 +123,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [小满](entities/XiaoMan.md) — Nonfiction writer and 面基 guest using her big-company layoff, writing life, and family arrangements to examine system expectations and agency.
+- [《大厂小民》](entities/DaChangXiaomin.md) — XiaoMan's nonfiction book about ordinary people inside large internet companies, layoffs, outsourcing inequality, and the limits of treating big companies as a permanent shore.
+- [苏本](entities/SuBen.md) — Editor who encouraged XiaoMan's edge-perspective nonfiction and whose death became part of the motivation to complete 《大厂小民》.
+- [江小鱼](entities/JiangXiaoyu.md) — Figure from 《大厂小民》 representing a more adaptive big-company survival style that separates work and life.
+- [郑游](entities/ZhengYou.md) — Figure from 《大厂小民》 whose outsourced-to-full-time path shows hidden rules, access inequality, and expectation management inside a large company.
 - [品哥](entities/PingGe.md) — 面基 guest translating AI anxiety into practical confidence, skills, context, memory, and output-standard habits.
 - [周金涛](entities/ZhouJintao.md) — Strategy-research lineage behind the episode's long-wave macro and innovation-cycle framing.
 - [中信建投证券](entities/ChinaSecuritiesCo.md) — Securities-firm context for the guest's early long-cycle, real estate, commodities, and gold strategy work.
@@ -192,7 +198,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [运雷](entities/YunLei.md) — 面基 guest and fund manager explaining efficient-frontier asset allocation, correlation research, and FOF product design.
 - [南方全球](entities/NanfangQuanqiu.md) — QDII fund/product context used to discuss overseas ETF, bond, commodity, REIT, and active-fund allocation tooling.
 - [COWZ](entities/COWZ.md) — Free-cash-flow ETF/index example used as a possible S&P 500 substitute when expected return improves without losing correlation fit.
-- [面基](entities/Mianji.md) — Podcast/show context for E153's Kelly sizing framework, E158's asset-allocation layer, E159's Hong Kong market-structure discussion, E160's value-investing review, and E161's embodied-judgment discussion.
+- [面基](entities/Mianji.md) — Podcast/show context for investing, asset allocation, embodied judgment, long-cycle macro, AI workflow, and big-company nonfiction conversations.
 - [关雅迪](entities/GuanYadi.md) — 面基 guest whose endurance running, ocean sailing, climbing, and life-design stories ground trained intuition and embodied judgment.
 - [青岛号](entities/QingdaoClipperYacht.md) — Ocean-racing boat used by E161 to explain team risk, weather uncertainty, captain judgment, and performance under physical stress.
 - [Edward Thorp](entities/EdwardThorp.md) — Mathematician and investor used by E153 to connect blackjack card counting, Kelly sizing, arbitrage, and quantitative investing.
@@ -675,6 +681,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Career Shore Myth](concepts/CareerShoreMyth.md) — Career-stability frame warning against treating a prestigious system or large company as a permanent "上岸" destination.
+- [System Humanity](concepts/SystemHumanity.md) — Organizational frame for preserving judgment, restraint, and humane action inside formal systems and efficiency pressure.
+- [Layoff Buffer](concepts/LayoffBuffer.md) — Time, compensation, and psychological space between layoff signal and full exit, sometimes enabling planning or public writing.
+- [Tool Rationality Spillover](concepts/ToolRationalitySpillover.md) — Boundary failure where workplace calculation and task logic leak into friendship, pregnancy, parenting, and family life.
+- [Family Labor Boundaries](concepts/FamilyLaborBoundaries.md) — Explicit arrangements that keep family care work from being treated as free, invisible, or power-neutral labor.
+- [Nonfiction Publicness](concepts/NonfictionPublicness.md) — Writing frame for turning private experience into ethically checked public nonfiction and shared historical memory.
 - [Human Agency Under AI](concepts/HumanAgencyUnderAI.md) — AI-era agency frame focused on why, what, what if, personal taste, and the parts of judgment that should not be delegated.
 - [AI Use Pacing](concepts/AIUsePacing.md) — Discipline for using AI without turning FoMO, subscriptions, token quotas, and agent watching into more self-created work.
 - [Output Quality Gates](concepts/OutputQualityGates.md) — Explicit acceptance, rejection, and review standards for AI output across coding and non-coding work.
