@@ -2,7 +2,7 @@
 title: "Agent-Facing Interfaces"
 type: concept
 tags: [agents, interfaces, cli, product-design]
-sources: [agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax]
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax]
 last_updated: 2026-07-07
 ---
 
@@ -28,6 +28,8 @@ Agent-facing interfaces are the CLI, API, MCP-like, skill, and tool layers that 
 
 [[ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax]] adds the [[Podwise]] product checklist. The episode argues that an [[AgentOptimizedCLI]] should expose atomic actions rather than copy the whole SaaS interface, support discovery before action, preserve pipeable text behavior, separate human terminal rendering from machine-readable output, and return errors that tell agents how to recover.
 
+[[20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]] adds the distinction between human-facing and agent-facing entry points. [[IMAgentInterfaces]] may be the low-friction human entry, but the agent still needs APIs, local tools, skill descriptions, and device or desktop access to complete work through [[LocalAgentExecution]].
+
 ## Key Claims
 - CLI was historically difficult for people but is comparatively natural for agents.
 - Agent-facing access can turn consumer services, enterprise tools, and local utilities into callable task components.
@@ -42,6 +44,7 @@ Agent-facing interfaces are the CLI, API, MCP-like, skill, and tool layers that 
 - Browser, OS, and cloud-infrastructure entry points can matter as much as standalone agent apps because they determine what context the agent can see and what actions it can take.
 - Tool discovery is an interface problem too: AI can bridge user intent to existing command-line and operating-system tools when those tools expose clear, composable behavior.
 - Agent-facing CLI should include discovery, idempotency, non-interactive auth, structured output, copyable examples, and actionable errors; otherwise the agent must spend context and tokens guessing how to use the tool.
+- A familiar IM surface can increase usage without replacing the need for reliable tool descriptions, local APIs, and recoverable execution feedback.
 
 ## Connections
 - [[HeadlessSoftware]] — product-design thesis that motivates agent-facing access.
@@ -57,3 +60,4 @@ Agent-facing interfaces are the CLI, API, MCP-like, skill, and tool layers that 
 - [[Google]], [[Gemini]], [[Apple]], [[Siri]], and [[Cloudflare]] — platform and operations surfaces added by Vol. 166.
 - [[TaskAsAService]] and [[AIProgrammingEngineShift]] — task-completion and programming-shift examples added by Neihe Konghuang.
 - [[Podwise]] and [[AgentOptimizedCLI]] — concrete product checklist added by EP124.
+- [[IMAgentInterfaces]], [[LocalAgentExecution]], and [[OpenClaw]] — human-entry plus local-tooling pattern added by the 20-question source.

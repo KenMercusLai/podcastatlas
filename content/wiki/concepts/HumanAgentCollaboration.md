@@ -2,7 +2,7 @@
 title: "Human-Agent Collaboration"
 type: concept
 tags: [agents, collaboration, product-design]
-sources: [renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6]
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6]
 last_updated: 2026-07-07
 ---
 
@@ -16,6 +16,8 @@ Human-agent collaboration is the product-design problem at the center of [[renle
 
 [[openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6]] adds [[AirJelly]]'s proactive collaboration model. Instead of asking the user to prompt, AirJelly tries to notice [[IntentContext]] when the user presses Enter, preserve task state as [[PersistentAgentMemory]], and help at the right time. The source treats collaboration as a timing and perception problem as much as an execution problem.
 
+[[20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]] adds an expectation-design angle. [[IMAgentInterfaces]] make waiting for an agent feel more like waiting for a colleague's message, while [[PersistentAgentMemory]] and personality cues make users more willing to train, forgive, and re-instruct the system. The same source also notes a counterpoint: engineer-heavy users may prefer less anthropomorphic UI and clearer task-state inspection.
+
 ## Key Claims
 - The collaboration target is a moving one because every new product reveals new expectations and pain points.
 - Users should not have to repeatedly dump files, emails, and personal context into a chat box.
@@ -25,6 +27,7 @@ Human-agent collaboration is the product-design problem at the center of [[renle
 - Personal-agent collaboration depends on [[AgentPermissionBoundaries]] because the same familiarity that makes an agent useful can expose private data or accounts.
 - Better collaboration must account for social and creative value, not only whether the assistant gives a correct answer quickly.
 - Proactive collaboration should continue the user's current task rather than creating unrelated curiosity work or extra cognitive load.
+- Collaboration form changes task selection: users may delegate looser personal-assistant tasks in IM, but demand more structured state, branching, and review surfaces for technical work.
 
 ## Connections
 - [[AgenticWorkflow]] — practical workflow pattern that human-agent collaboration extends.
@@ -34,3 +37,4 @@ Human-agent collaboration is the product-design problem at the center of [[renle
 - [[OpenClaw]], [[ProactiveAgents]], and [[AgentNativeSoftware]] — personal-agent product form added by the Fengyan Fengyu source.
 - [[Gemini]], [[ChatGPT]], and [[Superpowers]] — conversation and orchestration cases added by Vol. 166.
 - [[AirJelly]], [[IntentContext]], and [[OSLevelContext]] — proactive collaboration case added by the AirJelly source.
+- [[IMAgentInterfaces]], [[LocalAgentExecution]], [[YaGe]], and [[Haoda]] — expectation and collaboration-design layer added by the OpenClaw 20-question source.

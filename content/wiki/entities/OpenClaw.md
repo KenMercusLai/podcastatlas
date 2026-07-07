@@ -2,7 +2,7 @@
 title: "Open Claw"
 type: entity
 tags: [agent, ecosystem, china]
-sources: [dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6]
+sources: [dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]
 last_updated: 2026-07-07
 ---
 
@@ -16,12 +16,15 @@ Open Claw is discussed together with [[OpenCloud]] in [[dang-women-zai-taolun-ha
 
 [[openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6]] adds the [[AirJelly]] founder's view of OpenClaw as both shock and reference. [[HuangBote]] says OpenClaw and [[ClaudeCode]] made simplified task-execution and human-agent orchestration look easier for large products to cover, pushing AirJelly back toward [[IntentContext]], [[OSLevelContext]], and [[PersistentAgentMemory]] as the harder layer. He also treats OpenClaw's animal-like product form as evidence that personal agents may benefit from an "养成" relationship, where users tolerate imperfect early behavior while memory and familiarity accumulate.
 
+[[20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]] adds a direct product-mechanics account through [[YaGe]] and [[Haoda]]. The episode says OpenClaw's novelty is not that its base model is uniquely stronger, but that [[IMAgentInterfaces]], [[LocalAgentExecution]], [[PersistentAgentMemory]], [[AISkills]], tool calls, and feedback loops make it feel like an intern or digital coworker. It also expands OpenClaw from a consumer curiosity into a startup map covering easier setup, IM entry points, skill markets, agent social spaces, hardware links, enterprise [[DigitalEmployees]], and [[AgentPermissionBoundaries]].
+
 ## Source Position
 - The source treats Open Claw as an early adoption context rather than the final agent form.
 - Memory instability is presented as a pain point that helped [[HermesAgent]] attract attention.
 - The episode summarizes the core OpenCloud/OpenClaw expectation as an agent that is reachable, collaborative, and becomes more familiar with the user over time.
 - The Fengyan Fengyu source adds safety and product-design details: separate accounts, trusted versus agent-written skills, automatic versus explicit invocation, and token-cost concerns.
 - The AirJelly source adds a competitive lesson: execution-heavy agents may not be enough if they cannot perceive the user's current task, intent, and long-running personal context.
+- The 20-question source adds a packaging lesson: OpenClaw's virality came from making existing CLI-agent capability reachable, memorable, and executable for a wider audience.
 
 ## Connections
 - [[OpenCloud]] — paired domestic agent phenomenon in the source.
@@ -31,3 +34,4 @@ Open Claw is discussed together with [[OpenCloud]] in [[dang-women-zai-taolun-ha
 - [[DarkOffice]] and [[BusinessLedAITransformation]] — enterprise adoption themes added by the Bairong source.
 - [[AgentNativeSoftware]], [[OnDemandApps]], and [[AgentPermissionBoundaries]] — personal-agent product concepts added by the Fengyan Fengyu source.
 - [[AirJelly]], [[IntentContext]], [[OSLevelContext]], and [[PersistentAgentMemory]] — proactive-agent comparison added by the AirJelly episode.
+- [[YaGe]], [[Haoda]], [[IMAgentInterfaces]], and [[LocalAgentExecution]] — product-mechanics and startup-opportunity frame added by the 20-question episode.

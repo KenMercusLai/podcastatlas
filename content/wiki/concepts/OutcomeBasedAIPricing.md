@@ -2,13 +2,15 @@
 title: "Outcome-Based AI Pricing"
 type: concept
 tags: [ai, pricing, enterprise-ai]
-sources: [weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces]
-last_updated: 2026-07-06
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces]
+last_updated: 2026-07-07
 ---
 
 # Outcome-Based AI Pricing
 
 Outcome-based AI pricing is the commercial pattern where AI work is sold around delivered output, work volume, time, or transaction value rather than seat licenses, software access, custom projects, or person-days. In [[weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces]], [[ZhangShaofeng]] presents this as [[BairongIntelligence]]'s answer to weak Chinese enterprise willingness to pay for process software.
+
+[[20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]] adds the OpenClaw-driven version of the pricing logic. If agents become role-specific [[DigitalEmployees]] that complete tasks, the pricing reference can shift from SaaS seats toward work orders, completed tasks, or labor savings. The episode presents this as part of why 2B OpenClaw-like products may address a much larger labor budget than traditional enterprise software.
 
 ## Key Claims
 - The source gives three pricing patterns: charge against standard-employee-equivalent output, charge by work volume or hours, or charge a service fee based on transaction scale.
@@ -16,6 +18,7 @@ Outcome-based AI pricing is the commercial pattern where AI work is sold around 
 - It is positioned as a way to avoid the traditional Chinese software trap of person-day projects, one-off customization, maintenance fees, and constant new-project selling.
 - It fits [[ServiceAsSoftware]] because the buyer is paying for business work performed by agents, not only tool access.
 - It still requires measurable acceptance criteria, quality controls, compliance boundaries, and real workflow integration; otherwise the outcome cannot be trusted.
+- Agent execution traces may become part of pricing defensibility because they show what work was performed, corrected, and accepted.
 
 ## Connections
 - [[BairongIntelligence]] and [[ZhangShaofeng]] — source company and speaker.
@@ -23,3 +26,4 @@ Outcome-based AI pricing is the commercial pattern where AI work is sold around 
 - [[SoftwarePaymentCulture]] — buyer expectation problem this pricing pattern tries to bypass.
 - [[ServiceAsSoftware]], [[ServiceProductization]], and [[AIBPORollUp]] — service-market models where outcome pricing is natural.
 - [[AICommercializationPressure]] — broader pressure to turn AI capability into sustainable revenue.
+- [[OpenClaw]], [[DigitalEmployees]], [[LocalAgentExecution]], and [[AgentPermissionBoundaries]] — OpenClaw-inspired case where work delegation creates pricing and control questions.

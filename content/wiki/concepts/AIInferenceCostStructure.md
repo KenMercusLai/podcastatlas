@@ -2,7 +2,7 @@
 title: "AI Inference Cost Structure"
 type: concept
 tags: [ai, economics, infrastructure]
-sources: [cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, eric-ries-on-how-founders-quietly-lose-their-company, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx]
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, eric-ries-on-how-founders-quietly-lose-their-company, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx]
 last_updated: 2026-07-07
 ---
 
@@ -20,6 +20,8 @@ AI inference cost structure is the idea that large-model services incur meaningf
 
 [[ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx]] adds an AI companion and game-social case through [[Simon]] and [[MicoAILab]]. The episode argues that [[CharacterAI]]-style chat can become more expensive as relationship history deepens, because better experience requires memory retrieval and longer prompts, while the paying segment may not be large enough to absorb that cost.
 
+[[20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]] adds a user-behavior case through [[OpenClaw]]. [[YaGe]] notes that expensive model calls can make users hesitate before delegating complex work, while cheaper or subscription-style access encourages experimentation. Long-running agents also spend tokens on memory, context compaction, tool use, and repeated feedback loops.
+
 ## Key Claims
 - Token generation, GPU capacity, electricity, storage, and infrastructure procurement make AI usage costly at scale.
 - Free growth is harder when user growth directly increases inference load.
@@ -34,6 +36,7 @@ AI inference cost structure is the idea that large-model services incur meaningf
 - Subscription plans and quota resets can change behavior even before direct API bills arrive, because users may work around perceived scarcity or try to exhaust paid capacity.
 - Skills can increase both useful content consumption and inference cost; product design needs quota visibility, stable local tooling, and judgment about whether a task is work-value or entertainment-value.
 - In companion-chat products, relationship depth can increase inference cost because useful memory and context grow with use.
+- In executable agents, cost affects delegation psychology: users may underuse capable agents if every long task feels like a billable risk.
 
 ## Connections
 - [[AICommercializationPressure]] — broader business pressure created by high model costs.
@@ -49,3 +52,4 @@ AI inference cost structure is the idea that large-model services incur meaningf
 - [[Codex]], [[ClaudeCode]], [[Superpowers]], and [[AIWorkforceMonitoring]] — personal workflow and measurement cases added by Vol. 166.
 - [[Podwise]], [[AgentOptimizedCLI]], and [[AISkills]] — content-processing and deterministic-tooling case added by EP124.
 - [[AIStartupUnitEconomics]], [[CharacterAI]], and [[MicoAILab]] — AI game/social commercialization case added by EP101.
+- [[OpenClaw]], [[IMAgentInterfaces]], [[LocalAgentExecution]], and [[AgentHarness]] — long-running agent cost case added by the 20-question source.
