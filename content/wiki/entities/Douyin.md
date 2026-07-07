@@ -2,7 +2,7 @@
 title: "Douyin"
 type: entity
 tags: [company, short-video, platform, travel, local-commerce, china]
-sources: [kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, fufei-pianhua-pingtai-de-baoli-dikang-yu-hulianwang-dachang-de-yinxing-shui-1]
+sources: [kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, fufei-pianhua-pingtai-de-baoli-dikang-yu-hulianwang-dachang-de-yinxing-shui-1, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]
 last_updated: 2026-07-08
 ---
 
@@ -14,7 +14,10 @@ This makes Douyin part of the broader question of whether [[OnlineTravelAgency]]
 
 [[fufei-pianhua-pingtai-de-baoli-dikang-yu-hulianwang-dachang-de-yinxing-shui-1]] adds a local-commerce angle. The source says flower and cake live rooms on Douyin can advertise national one-hour delivery while transferring orders to nearby shops for actual fulfillment. The page should not overstate Douyin's direct responsibility for every intermediary practice, but it does make Douyin a visible surface where attention, live sales, local delivery promises, and merchant margin pressure meet.
 
+[[vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]] adds a lighter city-commerce observation: a Guangzhou submission mentions Blue Moon investing in Douyin, placing the platform inside everyday brand marketing and local commercial attention rather than only travel or live-commerce fulfillment.
+
 ## Connections
 - [[Ctrip]], [[Meituan]], [[Fliggy]], and [[JDTravel]] — travel-competition context.
 - [[TravelSuperAppConvenience]], [[OTAPlatformConcentration]], and [[PlatformAntitrust]] — concept links.
 - [[LocalLifePlatformDependency]] and [[PlatformIntermediationTax]] — local-commerce fulfillment and margin-split context from the flower/cake teaser.
+- [[CityCommercialObservation]] — broader listener-submission frame for seeing Douyin as a city-commerce surface.

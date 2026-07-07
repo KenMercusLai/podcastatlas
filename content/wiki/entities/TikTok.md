@@ -2,8 +2,8 @@
 title: "TikTok"
 type: entity
 tags: [company, social-platform, internationalization]
-sources: [ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc]
-last_updated: 2026-07-07
+sources: [ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]
+last_updated: 2026-07-08
 ---
 
 # TikTok
@@ -12,9 +12,12 @@ TikTok appears in [[ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin
 
 For the wiki, TikTok extends [[CrossCulturalProductDesign]] from Southeast Asian ecommerce into a global consumer-platform setting. It also sits next to existing [[ByteDance]] discussions about AI products, video capability, and platform strategy, although this source focuses on design practice rather than ByteDance's AI business.
 
+[[vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]] adds a listener-submission workplace angle. A TikTok employee describes U.S. regulatory turbulence, Project Texas participation, staff legal fundraising, a January 2025 app outage, bonus uncertainty, and service-request monitoring falling to zero. The wiki should treat this as a first-person account of platform-policy stress inside a company rather than as a complete legal history of TikTok.
+
 ## Connections
 
 - [[Daqi]] — designer whose career path includes TikTok Singapore.
 - [[ByteDance]] — parent-company context already present in the wiki.
 - [[CrossCulturalProductDesign]] — international product-design theme reinforced by the episode.
 - [[BusinessFluentDesign]] — design posture Daqi carries from large-company collaboration into independent work.
+- [[CityCommercialObservation]] — listener-submission method that surfaced the employee account.

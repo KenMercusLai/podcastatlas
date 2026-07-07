@@ -2,8 +2,8 @@
 title: "Xiaohongshu"
 type: entity
 tags: [platform, social-media, community]
-sources: [ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7lsklr3vmtbc4l-p]
-last_updated: 2026-07-07
+sources: [ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7lsklr3vmtbc4l-p, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]
+last_updated: 2026-07-08
 ---
 
 # Xiaohongshu
@@ -18,6 +18,8 @@ The source frames Xiaohongshu less as a conventional startup demo day host and m
 
 [[ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7lsklr3vmtbc4l-p]] adds the ordinary-creator monetization layer through [[Zhuzhu]]. The episode presents Xiaohongshu as a platform where [[LocalLifestyleStoreReviews]], brand collaborations, barter, affiliate links, platform audit, and user comments can turn everyday lifestyle posting into modest income or [[LifestyleSubsidyCreatorWork]].
 
+[[vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]] adds a local-commerce and tourism layer. Listener submissions describe social-media-driven tourist restaurant discovery and a San Jose fruit truck using WeChat and Xiaohongshu to reach Chinese customers. This reinforces Xiaohongshu as a local-intent surface, not only a creator or AI-builder community.
+
 ## Connections
 - [[XiaohongshuHackathonPeakCompetition]] — event organized around AI-era builders.
 - [[Shanbin]] — community technology lead and event organizer in the episode.
@@ -28,3 +30,4 @@ The source frames Xiaohongshu less as a conventional startup demo day host and m
 - [[Zhuzhu]] — local lifestyle creator explaining ordinary platform economics.
 - [[XiaohongshuCreatorMonetization]], [[LocalLifestyleStoreReviews]], and [[LifestyleSubsidyCreatorWork]] — creator-economy layer added by EP43.
 - [[Mujian]], [[Roi]], [[AISimulationContent]], and [[AISuperCreators]] — AI simulation platform and creator-community analogy added by the Mujian source.
+- [[TourismTrafficMismatch]] and [[CityCommercialObservation]] — city-commerce layer added by the anniversary source.

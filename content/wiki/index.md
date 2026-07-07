@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.245 五周年，你身边的商业就是这样](sources/vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244.md) — 商业就是这样 fifth-anniversary listener episode on city commercial observations, tourism traffic mismatch, local-service platforms, overseas retail rules, TikTok turbulence, and five-year personal changes.
 - [E144.交易的艺术：不预测，统计优势，分散红利，随机波动](sources/e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0.md) — 面基 episode on no-prediction trend trading, positive-expectation systems, diversification alpha, random market narratives, and price-as-probability thinking.
 - [Stock options: how to hedge an AI bubble](sources/stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5.md) — The Intelligence episode on AI bubble hedging, hyperscaler capex, bonds/gold/defensive equity hedges, Erdogan succession, and Georges Beauchard's literary-agent judgment.
 - [E225｜SaaS业数千亿市值蒸发：AI如何变革组织架构？](sources/e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou.md) — 硅谷101 episode on SaaS seat-pricing pressure, Bairong Intelligence, result-priced AI labor, AI staffing/BPO, enterprise agent stores, and silicon-carbon organization design.
@@ -132,6 +133,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for the fifth-anniversary listener episode on city commerce, local retail, platforms, tourism, and personal change.
 - [Polymarket](entities/Polymarket.md) — Prediction-market example used by E144 to explain price-as-probability thinking and residual risk.
 - [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for the AI-bubble hedging, Erdogan succession, and Georges Beauchard episode.
 - [Rosie Bloor](entities/RosieBloor.md) — Host introducing the episode's finance, Turkey politics, and literary obituary segments.
@@ -845,8 +847,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Offline AI Implementation](concepts/OfflineAIImplementation.md) — Pattern where useful AI requirements are discovered inside physical-world operations rather than imagined from model capability alone.
 - [AI Visual Merchandising](concepts/AIVisualMerchandising.md) — Use of generative AI to create grounded product visuals, variants, and substitution-confirmation images for retail workflows.
 - [Operational Data Capture](concepts/OperationalDataCapture.md) — Extracting business data from existing screens, printers, photos, receipts, or other work surfaces when clean APIs are unavailable.
+- [City Commercial Observation](concepts/CityCommercialObservation.md) — Practice of using ordinary city details, listener submissions, and local anomalies as evidence about commercial systems.
 - [Local-Life Platform Dependency](concepts/LocalLifePlatformDependency.md) — Small-merchant reliance on local-service platforms and intermediaries for demand, messaging, paid traffic, data, and fulfillment expectations.
 - [Platform Intermediation Tax](concepts/PlatformIntermediationTax.md) — Hidden margin and control cost when traffic-owning or order-intermediating layers pass local fulfillment work to small merchants.
+- [Tourism Traffic Mismatch](concepts/TourismTrafficMismatch.md) — Gap between platform-visible tourist flows and local repeat demand, resident knowledge, or durable neighborhood value.
 - [Online Travel Agency](concepts/OnlineTravelAgency.md) — Platform model aggregating travel inventory, booking, payment, support, invoices, and itinerary management.
 - [OTA Platform Concentration](concepts/OTAPlatformConcentration.md) — Tendency for online-travel booking power to concentrate when users, hotels, inventory, traffic, and systems all reward scale.
 - [Hotel PMS Inventory Control](concepts/HotelPMSInventoryControl.md) — Platform leverage created when booking channels influence hotel property-management and room-inventory systems.
