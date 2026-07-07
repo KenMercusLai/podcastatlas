@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP26 想做人上之人，却困在《城中之城》](sources/ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t.md) — Podcast episode using the drama 城中之城 to discuss bank workplace realism, internal audit, due diligence, boss resources, colleague boundaries, and finance-career self-protection.
 - [EP58 业绩平平，也要认真"摸鱼"](sources/ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c.md) — Podcast episode on workplace "moyu", finance-industry pressure, bank-role slack, task visibility, boss expectation management, and AI-assisted productivity.
 - [EP28 百年金融诈骗史：阶级跨越与锒铛入狱的距离](sources/ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj.md) — Podcast episode on Ponzi schemes, advance-fee fraud, penny-stock boiler rooms, Madoff, pig-butchering scams, fake platforms, gambling draws, and AI impersonation risk.
 - [EP34 当高情商和分寸感缺失，唯有钢铁意志撑场](sources/ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu.md) — Podcast episode on social-signal misreading, communication boundaries, workplace phrasing risk, rumor amplification, and language precision.
@@ -386,6 +387,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Qianli Technology](entities/QianliTechnology.md) — AI-and-car terminal company chaired by Yin Qi and paired with StepFun's foundation-model strategy.
 - [钱粮胡同FM](entities/QianliangHutongFM.md) — Banking and finance podcast/show context for the EP25 YiLaoYongYi crossover on Chinese-funded and foreign-funded banks.
 - [前途无量](entities/QianTuWuLiang.md) — Financial drama used by EP44 as a hook for discussing bank fraud, fund flows, AML, and laundering stages.
+- [城中之城](entities/CityInTheCity.md) — Financial drama used by EP26 as a hook for bank workplace realism, audit, credit diligence, and colleague-boundary discussion.
 - [Qwen](entities/Qwen.md) — Alibaba's open-source model family discussed as strategically important to Chinese AI and developer adoption.
 - [RecruiterBox](entities/RecruiterBox.md) — Recruiting SaaS company whose traction and compliance pain shaped Girish Redikar's later Sprinto thesis.
 - [Red Truck Orchards](entities/RedTruckOrchards.md) — Michigan cherry vinegar company using regional story, sampling, and simple use cases to create trial.
@@ -620,6 +622,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bank Branch Security Controls](concepts/BankBranchSecurityControls.md) — Physical, procedural, and digital safeguards used to protect bank branch staff, cash, systems, and records.
 - [Bank Cash Logistics](concepts/BankCashLogistics.md) — Branch-level system for preparing, counting, reserving, moving, storing, and limiting physical cash.
 - [Bank Client Segmentation](concepts/BankClientSegmentation.md) — How banks separate customers by assets, service cost, risk, product suitability, and channel fit.
+- [Bank Due Diligence](concepts/BankDueDiligence.md) — Documented bank investigation and verification work around customers, credit, loan use, and transaction responsibility.
+- [Bank Internal Audit](concepts/BankInternalAudit.md) — Bank review function that tests process, documentation, controls, and risk behavior inside branches and business lines.
 - [Bank Organizational Hierarchy](concepts/BankOrganizationalHierarchy.md) — Rank, title, branch, and department structures that determine what a banking role actually means.
 - [Banking Compliance Boundaries](concepts/BankingComplianceBoundaries.md) — Practical limits on what bank employees, branches, and group entities can say, recommend, disclose, sell, or facilitate.
 - [Banking KYC Compliance](concepts/BankingKYCCompliance.md) — Customer identity, risk, tax, anti-money-laundering, and suitability work around bank account opening and monitoring.
@@ -800,6 +804,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Voice Interaction](concepts/VoiceInteraction.md) — AI interaction mode based on speech and interactive audio experiences.
 - [Workplace Hidden Rules](concepts/WorkplaceHiddenRules.md) — Implicit communication, etiquette, and relationship norms learned inside organizations, from intern etiquette to boss-facing execution.
 - [Workplace Pacing](concepts/WorkplacePacing.md) — Managing work intensity, recovery time, output visibility, and role risk so productivity stays sustainable instead of merely continuous.
+- [Workplace Relationship Boundaries](concepts/WorkplaceRelationshipBoundaries.md) — Practical separation between coworkers, friends, bosses, allies, and private-life relationships.
 - [World Action Models](concepts/WorldActionModels.md) — Intermediate robot/world-model route using video-rich action-conditioned modeling, treated as useful but incomplete without causality.
 - [World Models](concepts/WorldModels.md) — Models of physical or conceptual environments linked to embodied AI and learning examples.
 - [Xiaohongshu Creator Monetization](concepts/XiaohongshuCreatorMonetization.md) — Platform-specific creator income model combining brand collaboration, barter, affiliate links, stores, and local services.

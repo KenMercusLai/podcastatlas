@@ -2,7 +2,7 @@
 title: "小黛"
 type: entity
 tags: [person, finance, insurance, banking]
-sources: [ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw, ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq]
+sources: [ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw, ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq, ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t]
 last_updated: 2026-07-07
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-07
 小黛 is the guest in [[ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw]], where she explains insurance through the broader lens of financial products, banking middle-income business, funds, and household asset allocation. Her main stance is that ordinary consumers should separate product function from sales emotion: insurance should be bought because a specific risk would require money, not because a slogan or peer group makes a product feel urgent.
 
 In [[ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq]], 小黛 uses former colleagues and students to explain [[FinancialCareerRisk]] in banking and wealth management. She contrasts [[ThirdPartyWealthPlatformRisk]] and high-commission products with steadier bank careers, training roles, investment-advisory transitions, and [[IndependentInvestmentConsulting]] built around [[InvestorEducation]].
+
+In [[ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t]], 小黛 brings the same finance-career lens to [[CityInTheCity]]. She emphasizes that [[BankInternalAudit]] should keep the system healthy rather than merely punish, that a resourceful boss can matter more than an ideal personality, and that [[WorkplaceRelationshipBoundaries]] help employees avoid premature side-taking in complex office conflicts.
 
 ## Key Points
 - Defines insurance as a tool that pays money when a covered need appears, connecting [[InsuranceRiskTransfer]] to everyday family planning.
@@ -21,9 +23,11 @@ In [[ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongr
 - Emphasizes [[InsuranceSalesTrust]] because long-running policies depend on the buyer understanding either the contract directly or the professional serving them.
 - In EP21, warns that financial knowledge does not prevent bad decisions when money, status, and platform narratives overpower judgment.
 - Treats customer understanding as separate from formal sales process, making [[InvestorEducation]] a professional responsibility rather than a slogan.
+- In EP26, treats boss sponsorship, audit power, and local resource differences as practical parts of bank career reality rather than only drama plot devices.
 
 ## Connections
 - [[YiLaoYongYi]] — show where the episode appears.
 - [[InsuranceRiskTransfer]] — central definition she uses.
 - [[FamilyProtectionInsurancePlanning]], [[HealthInsurancePlanning]], [[SavingsStyleInsurance]], [[OverseasInsuranceRisk]], and [[InsuranceSalesTrust]] — main concept cluster developed from her explanation.
 - [[FinancialCareerRisk]], [[ThirdPartyWealthPlatformRisk]], [[IndependentInvestmentConsulting]], and [[InvestorEducation]] — EP21's finance-career and advisory themes developed through her cases.
+- [[BankInternalAudit]], [[WorkplaceRelationshipBoundaries]], and [[UpwardManagement]] — EP26's bank-drama and workplace-navigation themes.

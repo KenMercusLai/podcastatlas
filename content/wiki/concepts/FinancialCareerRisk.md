@@ -2,7 +2,7 @@
 title: "Financial Career Risk"
 type: concept
 tags: [finance, career, risk, incentives]
-sources: [ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq, ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c]
+sources: [ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq, ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t]
 last_updated: 2026-07-07
 ---
 
@@ -14,6 +14,8 @@ Financial career risk is the way finance-industry workers' platform choices, cli
 
 [[ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c]] adds the day-to-day work-rhythm version. Finance workers may use [[WorkplacePacing]] to recover from KPI pressure, repetitive work, client travel, and customer-facing load, but persistent underutilization can also make a role look dispensable when teams are shrinking or work is being repriced.
 
+[[ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t]] adds the bank-entry and advancement version through [[CityInTheCity]]. The episode argues that a newcomer's path is constrained by local resources, client relationships, background checks, role fit, hiring scarcity,学历 inflation, and boss sponsorship; ambition alone does not erase the bank's hierarchy or compliance system.
+
 ## Key Claims
 - A higher base salary, larger title, or faster promotion path can be compensation for risk that is not obvious at the hiring moment.
 - Client relationships, sales teams, and bank-platform credibility are valuable assets; moving them into a weaker or opaque platform can turn personal capability into legal and reputational exposure.
@@ -24,6 +26,8 @@ Financial career risk is the way finance-industry workers' platform choices, cli
 - Role-specific pacing matters because teller, operations, compliance, customer-manager, and branch-leader jobs have different monitoring, client, and workload cycles.
 - Slow accumulation inside a recognized institution can be rational when the platform supplies customers, process, benefits, and trust that an individual cannot easily recreate alone.
 - Clear personal goals matter: the right choice for someone seeking management, advice work, training, entrepreneurship, family stability, or lifestyle freedom will not be the same.
+- Entry and advancement risk are shaped by labor-market cycles: when new finance jobs shrink and degrees become more common, a fast upward path needs stronger evidence, resources, or sponsorship.
+- Finance-career self-protection includes knowing when not to judge, not to choose sides, and not to assume that a dramatic promotion route is available in the actual institution.
 
 ## Connections
 - [[ThirdPartyWealthPlatformRisk]] — platform and product-risk version of the concept.
@@ -35,3 +39,4 @@ Financial career risk is the way finance-industry workers' platform choices, cli
 - [[InvestmentRiskManagement]] — investor-side discipline that parallels career-side risk sizing and humility.
 - [[MiddleClassConsumptionPressure]] and [[LifestyleCostRationalization]] — EP35's household-spending response to finance-sector income pressure.
 - [[WorkplacePacing]] and [[BankOrganizationalHierarchy]] — EP58's role-specific pressure, slack, and visibility layer.
+- [[BankInternalAudit]], [[BankDueDiligence]], and [[WorkplaceRelationshipBoundaries]] — EP26's bank workplace, control, and self-protection additions.
