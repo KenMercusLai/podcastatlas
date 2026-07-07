@@ -2,8 +2,8 @@
 title: "Video Models"
 type: concept
 tags: [video, generative-ai, content]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]
-last_updated: 2026-07-06
+sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]
+last_updated: 2026-07-08
 ---
 
 # Video Models
@@ -18,10 +18,12 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 
 [[2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne]] adds an interactive-entertainment view. [[Xiaoning]] argues that AI short video and AI video-first formats may move faster than interactive games because generated video only has to be watchable, while games must remain stable interactive systems. The source links [[YORO]] and Seedance-like capabilities to possible interactive film/game experiments, but still treats [[AIGameIndustrialization]] as the harder layer.
 
-[[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] adds a fresh Seedance 2.0 case. The hosts highlight clarity, cinematic feel, camera movement, and overseas demand, while noting that famous characters, voices, likenesses, and IP recreation quickly create copyright and rights risks.
+[[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] adds a fresh [[Seedance]] 2.0 case. The hosts highlight clarity, cinematic feel, camera movement, and overseas demand, while noting that famous characters, voices, likenesses, and IP recreation quickly create copyright and rights risks.
+
+[[zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]] adds an earlier production-cost interpretation. The hosts use ByteDance video generation, AI short dramas, AI ads, and movie-shot examples to argue that video models are moving from mockups toward direct content production, which pressures filming, advertising, and some creative labor while making direction and rights handling more important.
 
 ## Source Notes
-- The episode mentions commercial signals from products such as Kling and Seedance, plus a case called Zombie Cleaner.
+- The episode mentions commercial signals from products such as Kling and [[Seedance]], plus a case called Zombie Cleaner.
 - The host resists dismissing short-drama-style content, arguing that popular content can still have value.
 - The theme connects to the episode's broader [[SecondRenaissance]] idea.
 - Doubao's video model is presented as a more plausible paid value area than undifferentiated chatbot functions.
@@ -29,6 +31,7 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 - In the Aether AI source, video models help with world-model learning but remain incomplete without [[CausalWorldModels]].
 - In the AI interactive entertainment source, video-first content is expected to mature before fully interactive AI games because video has fewer system-design and retention constraints.
 - Vol. 162 adds that better video generation can raise the value of creative direction while making repetitive style copying and rights enforcement more urgent.
+- The Keji Luandun source connects better video generation to [[IntelligenceDevaluation]] because production skill and cost structures may be repriced.
 
 ## Connections
 - [[WorldModels]] — adjacent model direction for richer scene and environment representation.
@@ -38,4 +41,4 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 - [[ProductLedWillingnessToPay]] — pricing depends on whether video capability feels differentiated.
 - [[WorldActionModels]] and [[CausalWorldModels]] — world-model routes that absorb video data but differ in causal grounding.
 - [[YORO]], [[AIInteractiveEntertainment]], and [[AIInteractiveContentPlatforms]] — interactive video and platform directions from the Youju crossover.
-- [[ByteDance]], [[AIContentProvenance]], and [[AIInteractiveEntertainment]] — Seedance 2.0 and rights-risk context added by Vol. 162.
+- [[ByteDance]], [[Seedance]], [[AIContentProvenance]], and [[AIInteractiveEntertainment]] — Seedance 2.0 and rights-risk context added by Vol. 162 and extended by the Keji Luandun source.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [智力贬值的春节见闻录，与那场正在酝酿的优贷危机](sources/zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1.md) — Keji Luandun episode on Spring Festival AI observations, Seedance-style video generation, GLM5 coding, intelligence devaluation, prime-borrower credit risk, and why domain know-how remains scarce.
 - [E155.似乎没什么人再提「AI 泡沫论」了](sources/e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf.md) — 面基 episode on AI-bubble skepticism cooling, tokens/CAPEX/contract-liability/ARR metrics, Anthropic's MCP/Skills/Claude agent route, LUI pressure on software, compute-infrastructure inflation, Holo assets, and Hang Seng Tech repricing.
 - [这半年，我们又买了哪些科技好物？](sources/zhe-bannian-women-you-maile-naxie-keji-haowu-1.md) — Keji Luandun episode on practical tech purchases, Pinduoduo subsidies, Mac mini/OpenClaw workflows, NAS backup economics, display ergonomics, chargers, travel gear, and personal infrastructure cost accounting.
 - [除了石油和海峡，这届伊朗战争开始算计你的服务器了](sources/chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun.md) — Keji Luandun episode on data centers, submarine cables, AI compute, cloud-region disaster recovery, drone-era infrastructure attacks, and Middle East digital infrastructure risk.
@@ -116,6 +117,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Seedance](entities/Seedance.md) — ByteDance video model discussed as evidence that AI video is moving from mockups toward production-like media.
+- [GLM5](entities/GLM5.md) — Zhipu AI model used in the Keji Luandun source's hands-on AI coding and product-prototype examples.
 - [热乎乱炖](entities/RehuLuandun.md) — AI-assisted Keji Luandun news aggregation and host-style commentary project built from prior transcript voice patterns.
 - [Oracle](entities/Oracle.md) — Cloud company added through the Keji Luandun data-center episode as a case of regional infrastructure exposure under digital infrastructure war risk.
 - [Ronnen Harary](entities/RonnenHarary.md) — Spin Master co-founder and Advice Line guest advising consumer founders on material constraints, scaling ambition, storytelling, and founder work boundaries.
@@ -648,6 +651,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Intelligence Devaluation](concepts/IntelligenceDevaluation.md) — AI-era labor-value frame where education, coding, and professional knowledge lose some scarcity premium.
+- [Prime Borrower Credit Risk](concepts/PrimeBorrowerCreditRisk.md) — "优贷危机" frame where formerly high-quality white-collar borrowers may become less stable if AI reprices their income.
 - [AI Investment Metrics](concepts/AIInvestmentMetrics.md) — Tracking generative AI through tokens, CAPEX, contract liabilities, deferred revenue, AI-native revenue, and ARR rather than user-count narrative alone.
 - [Jevons Paradox In AI](concepts/JevonsParadoxInAI.md) — Demand pattern where lower per-token cost can increase total token consumption as users and agents call models more often.
 - [Model Context Protocol](concepts/ModelContextProtocol.md) — Agent connectivity layer for exposing external tools, systems, data, and context through standardized integrations.

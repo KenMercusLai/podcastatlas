@@ -2,8 +2,8 @@
 title: "Human Judgment Under AI"
 type: concept
 tags: [ai, judgment, work]
-sources: [vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1]
-last_updated: 2026-07-07
+sources: [vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]
+last_updated: 2026-07-08
 ---
 
 # Human Judgment Under AI
@@ -36,6 +36,8 @@ Human judgment under AI is the claim that AI can enhance preparation and synthes
 
 [[women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1]] adds the offline service version. AI can generate flower images, replace unavailable materials in a customer preview, read order data, or support paid-traffic decisions, but the operator still decides whether the image honestly matches fulfillment, whether a customer will accept a substitution, how to handle holiday freshness, and how to respect tobacco or packaged-food compliance boundaries.
 
+[[zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]] adds a labor-value version. If [[IntelligenceDevaluation]] makes generic cognitive output cheap, judgment shifts toward knowing which problem matters, what a customer really meant, when an AI result is too generic, and how to communicate with people well enough to uncover tacit needs.
+
 ## Key Claims
 - AI is useful for preparation, framing, and organizing context.
 - Live questioning requires internalized understanding, tradeoffs, and expression.
@@ -61,6 +63,7 @@ Human judgment under AI is the claim that AI can enhance preparation and synthes
 - Offline service work keeps judgment in the loop because customer emotion, gift intent, freshness, legal permissions, and platform promises cannot be reduced to model output alone.
 - Human authorship can itself be product value when AI-generated text, images, or audio become cheap and pattern-like.
 - Good judgment includes choosing not to automate or continue a task when the speed of AI work outruns the user's ability to think.
+- In the intelligence-devaluation frame, judgment becomes valuable partly because generic cognition and production are less scarce.
 
 ## Connections
 - [[ContextEngineering]] — preparation quality depends on context quality.
@@ -82,3 +85,4 @@ Human judgment under AI is the claim that AI can enhance preparation and synthes
 - [[OfflineAIImplementation]], [[AIVisualMerchandising]], and [[LocalLifePlatformDependency]] — flower-shop case where AI assistance still depends on operator judgment.
 - [[AICommunicationAbility]], [[AIContentDevaluation]], and [[AICodingVerification]] — Vol. 164's judgment-retention and expression case.
 - [[NewSpot]], [[VibeCoding]], and [[AIContentDevaluation]] — Vol. 160's boundary between AI-made implementation and human product taste.
+- [[IntelligenceDevaluation]], [[DomainExpertAlignment]], and [[PrimeBorrowerCreditRisk]] — labor-value, field-knowledge, and credit-risk branch added by the Keji Luandun source.

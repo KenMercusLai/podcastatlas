@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-08] ingest | 智力贬值的春节见闻录，与那场正在酝酿的优贷危机
+
+Added source page for a Keji Luandun episode on Spring Festival AI observations, Seedance-style video generation, AI copyright and digital celebrities, GLM5 coding experiments, intelligence devaluation, prime-borrower credit risk, podcast-editing and flower-shop product examples, and why domain know-how, field observation, human judgment, and communication remain scarce after AI lowers production cost. Created Intelligence Devaluation, Prime Borrower Credit Risk, Seedance, and GLM5; updated overview, index, Keji Luandun, ByteDance, Zhipu AI, Human Resource Deflation Compute Infrastructure Inflation, AI Content Devaluation, Consumer Loan Risk, Middle-Class Consumption Pressure, Financial Career Risk, AI Engineering Thinking, AI Programming Engine Shift, Domain Expert Alignment, Human Judgment Under AI, Video Models, Offline AI Implementation, and AI Visual Merchandising. No direct contradiction found; the source adds a sharper lender-side tension to earlier household-credit pages by asking whether white-collar borrower quality may weaken if AI reprices cognitive labor.
+
 ## [2026-07-08] ingest | E159.港股的特殊之处与生存之道
 
 Added source page for a 面基 episode on Hong Kong equities as an optional offshore market, covering southbound and overseas capital behavior, liquidity segmentation, ETF gaps, high-dividend assets, Hang Seng Tech volatility, value-plus-momentum discipline, rebalancing, Hong Kong Exchanges and Clearing, and IPO liquidity absorption. Created Hong Kong Market Structure and Hong Kong Exchanges and Clearing; updated overview, index, 面基, Hang Seng Tech Index, Hong Kong Tech Repricing, Hong Kong Stock Connect, Passive Investing, Defensive Dividend Assets, Index Reentry Discipline, and Investment Risk Management. No direct contradiction found; the source narrows earlier Hong Kong tech repricing optimism by treating low valuation and elasticity as insufficient without liquidity, catalyst, and risk-control conditions.
@@ -735,6 +739,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] ingest | E155.似乎没什么人再提「AI 泡沫论」了
 
 Added source page for a 面基 episode on AI-bubble skepticism cooling, tokens as a generative-AI usage metric, CAPEX/contract-liability/deferred-revenue/ARR validation, Anthropic's MCP/Skills/Claude agent route, LUI pressure on software, human-resource deflation converting into compute-infrastructure inflation, AI energy constraints, Holo assets, and Hang Seng Tech's lack of hard-asset attributes. Created AI Investment Metrics, Jevons Paradox In AI, Model Context Protocol, Language User Interface, CAPEX OPEX Substitution, Human Resource Deflation Compute Infrastructure Inflation, and Holo Assets; updated overview, index, 面基, Anthropic, OpenAI, Google, ChatGPT, Claude Code, Nvidia, Hang Seng Tech Index, AI Inference Cost Structure, MaaS Infrastructure, AI Skills, Headless Software, Agentic Software, AI Equity Valuation Risk, AI Compute Continuity, and Data Center Physical Resilience. No direct contradiction found; the source qualifies prior AI bubble and valuation-risk material by adding more measurable business indicators while preserving entry-price and data-verification cautions.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-08] lint | Wiki health check
 
