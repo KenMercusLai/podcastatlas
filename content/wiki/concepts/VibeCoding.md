@@ -2,8 +2,8 @@
 title: "Vibe Coding"
 type: concept
 tags: [ai-coding, software-engineering, learning]
-sources: [vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
-last_updated: 2026-07-07
+sources: [e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
+last_updated: 2026-07-08
 ---
 
 # Vibe Coding
@@ -36,6 +36,8 @@ Vibe coding is the AI-assisted practice of using coding tools such as [[Cursor]]
 
 [[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] adds a personal-utility version. A parent uses AI to generate math exercises and then asks AI to build a single-page Markdown-to-Word tool for formula editing, showing how ordinary users may create short-lived tools for one need. The source keeps the boundary clear: the generated artifact still required debugging and acceptance checking, and weak domain knowledge can make wrong answers hard to catch.
 
+[[e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb]] adds the confidence-confirmation version. The host says [[PingGe]] helped him confirm that even without programming, product, or project-management background, he could use natural language and AI agents to build software-like artifacts; the deeper lesson is that coding ability begins with intention, context, and acceptance criteria, not with identifying as a programmer.
+
 ## Key Claims
 - Vibe coding can reduce some coding, search, and debugging time, but conversation, waiting, review, and repair can make total work slower on familiar complex repositories.
 - Its value is strongest when it helps users learn by building real projects rather than studying a framework in isolation.
@@ -61,6 +63,7 @@ Vibe coding is the AI-assisted practice of using coding tools such as [[Cursor]]
 - A product can be mostly AI-written without making that fact the value proposition; customers still care about the resulting utility, reliability, and taste.
 - Long agent sessions create a behavioral risk: the user can become the person reacting to AI work queues instead of deciding what deserves attention.
 - One-off utilities may be the most natural vibe-coding use case for non-programmers, but they still require enough domain judgment to decide whether the output is correct.
+- Vibe coding can be psychologically important because it confirms "I can build this," but the user still has to decide whether building it serves [[HumanAgencyUnderAI]] rather than merely AI FoMO.
 
 ## Connections
 - [[Cursor]], [[ClaudeCode]], [[GeminiCLI]], [[Windsurf]], and [[Devin]] — tools and products in the source's AI coding market map.
@@ -82,3 +85,4 @@ Vibe coding is the AI-assisted practice of using coding tools such as [[Cursor]]
 - [[AgenticSoftware]], [[AppStore]], and [[AICommunicationAbility]] — Vol. 164's dynamic-app and prompt-clarity boundary.
 - [[NewSpot]], [[AgentPermissionBoundaries]], and [[AICodingVerification]] — Vol. 160's real-product, YOLO-permission, and final-test boundary.
 - [[ProbabilisticSoftware]], [[HumanJudgmentUnderAI]], and [[AICodingVerification]] — Keji Luandun's temporary-tool and context-loss boundary.
+- [[PingGe]], [[AICommunicationAbility]], [[OutputQualityGates]], and [[AIUsePacing]] — E163's non-programmer confidence and pacing boundary.

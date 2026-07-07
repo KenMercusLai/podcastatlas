@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E163.要完了？不！是要玩了！论养AI的心态与习惯](sources/e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb.md) — 面基 episode on AI FoMO, skills as agent operating manuals, context and memory habits, output gates, token pressure, human agency, and using AI to regain play rather than only speed.
 - [E162.康波周期中的AI：新技术总在萧条期爆发，bad times make good people](sources/e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl.md) — 面基 episode on Kondratiev cycles, AI as a sixth long-wave technology, depression-driven innovation, risk parity, gold as monetary anchor, geopolitical macro, and translating macro narratives into multi-asset portfolios.
 - [E161.脱离理性暴政，去尽情游戏吧！](sources/e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f.md) — 面基 episode on Guan Yadi, trained intuition, embodied judgment, flow environments, ultratrail running, ocean sailing, high-altitude hallucination, and action-defined identity.
 - [133. 对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42](sources/133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42.md) — Podcast episode on Xie Saining, AMI Labs, Yann LeCun, representation learning, self-supervised learning, world models, JEPA, and a decentralized real-world data strategy beyond LLM-only scaling.
@@ -121,6 +122,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [品哥](entities/PingGe.md) — 面基 guest translating AI anxiety into practical confidence, skills, context, memory, and output-standard habits.
 - [周金涛](entities/ZhouJintao.md) — Strategy-research lineage behind the episode's long-wave macro and innovation-cycle framing.
 - [中信建投证券](entities/ChinaSecuritiesCo.md) — Securities-firm context for the guest's early long-cycle, real estate, commodities, and gold strategy work.
 - [Bridgewater Associates](entities/BridgewaterAssociates.md) — Asset-management reference point for risk parity and multi-asset macro allocation.
@@ -673,6 +675,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Human Agency Under AI](concepts/HumanAgencyUnderAI.md) — AI-era agency frame focused on why, what, what if, personal taste, and the parts of judgment that should not be delegated.
+- [AI Use Pacing](concepts/AIUsePacing.md) — Discipline for using AI without turning FoMO, subscriptions, token quotas, and agent watching into more self-created work.
+- [Output Quality Gates](concepts/OutputQualityGates.md) — Explicit acceptance, rejection, and review standards for AI output across coding and non-coding work.
 - [Kondratiev Cycle](concepts/KondratievCycle.md) — Long-wave macro framework connecting technology, profit cycles, social change, and asset allocation without treating years as a fixed timetable.
 - [Technology Installation Cycle](concepts/TechnologyInstallationCycle.md) — Innovation-cycle frame for how major technologies move from introduction through bubble risk toward wider deployment.
 - [Depression Driven Innovation](concepts/DepressionDrivenInnovation.md) — Claim that weak macro periods can produce new technologies, companies, and strategies when old profit pools compress.

@@ -2,8 +2,8 @@
 title: "Context Engineering"
 type: concept
 tags: [context, knowledge-management, agents]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, community-led-saas-growth-how-ninety-hit-44m-arr, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]
-last_updated: 2026-07-07
+sources: [e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, community-led-saas-growth-how-ninety-hit-44m-arr, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]
+last_updated: 2026-07-08
 ---
 
 # Context Engineering
@@ -22,6 +22,8 @@ Context engineering is the practice of accumulating, organizing, and refining th
 
 [[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] adds a limit case: more context and project memory help, but stale or compressed context can rot, and agents should sometimes challenge the user's request instead of faithfully executing a weak premise.
 
+[[e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb]] adds the personal external-brain version. [[PingGe]] frames the context window as a scarce working-memory resource, so durable material should live in markdown files, prior writing, transcripts, notes, and indexed folders that can be pulled in only when relevant. The episode also stresses that context is not only documents; it includes why the task exists, who the user is, what output they can accept, and which parts of their taste or "soul" should guide the agent.
+
 ## Role In The Sources
 - [[KedaibiaoLizheng]] treats context as a personal, team, and company advantage.
 - [[AISkills]] are one way to package context into reusable procedures.
@@ -39,6 +41,7 @@ Context engineering is the practice of accumulating, organizing, and refining th
 - Moxt shows context as workspace infrastructure: Markdown, CSV, JSON, HTML, file structure, meetings, data, and project traces are shaped for agent work.
 - EP127 shows context as skill material: repeated prompts, acceptance criteria, design preferences, reading notes, transcripts, and operational procedures can be compressed into reusable agent instructions.
 - Vol. 164 shows context as both asset and risk: memory helps only if it preserves the right signal, stays fresh enough, and supports agent pushback.
+- E163 shows context as an external-brain habit: personal archives, style files, memory notes, and acceptance criteria become the material from which agents learn the user.
 
 ## Connections
 - [[ForwardDeployedEngineer]] — enterprise deployment role that must map company context.
@@ -55,3 +58,4 @@ Context engineering is the practice of accumulating, organizing, and refining th
 - [[Moxt]], [[AINativeWorkspace]], [[OrganizationalContext]], and [[AICoworkers]] — organization-level context case added by the Moxt episode.
 - [[AISkills]], [[RoutineAgentAutomation]], [[Podwise]], and [[WeChatReading]] — skill-curation and personal knowledge cases added by EP127.
 - [[PersistentAgentMemory]], [[AICommunicationAbility]], and [[HumanJudgmentUnderAI]] — Vol. 164's context-rot and prompt-quality case.
+- [[PingGe]], [[HumanAgencyUnderAI]], [[AIUsePacing]], and [[OutputQualityGates]] — E163's context, identity, and acceptance-standard extension.

@@ -696,6 +696,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-08] ingest | E163.要完了？不！是要玩了！论养AI的心态与习惯
+
+Added source page for a 面基 episode on AI FoMO, 品哥's confidence-and-workflow coaching, skills as agent operating manuals, context windows and external-brain habits, persistent memory, output quality gates, non-programmer vibe coding, token/subscription pressure, human agency, and pacing AI use so it returns attention to life rather than only increasing task throughput. Created pages for 品哥, Human Agency Under AI, AI Use Pacing, and Output Quality Gates; updated overview, index, 面基, AI Skills, Context Engineering, Persistent Agent Memory, Human Judgment Under AI, Vibe Coding, AI Communication Ability, AI Subscription Economics, Open Cloud, Open Claw, and Agentic Workflow. No direct contradiction found; the source reinforces existing agent and workflow themes while shifting emphasis toward intention, finite attention, and acceptance standards.
+
 ## [2026-07-08] ingest | 当可靠的代码变成了偶尔发疯的OpenClaw，我们未来的工作范式变迁
 
 Added source page for a Keji Luandun episode on OpenClaw as local probabilistic software, covering Mac mini deployment, high remote-model cost, Kimi routing, scheduled-task drift, prompt injection, local files/accounts/password risk, memory and skills, MCP-style service entry, AI coding verification, MiniMax deployment friction, and programmer skill-transfer risk. Created supporting pages for Probabilistic Software and Kimi; updated overview, index, Keji Luandun, OpenClaw, Claude Code, Doubao, Yuanbao, Meituan, MiniMax, Agent Permission Boundaries, Local Agent Execution, Persistent Agent Memory, AI Skills, Model Context Protocol, Human-Agent Collaboration, Human Judgment Under AI, AI Coding Verification, Vibe Coding, Model Routing Cost Control, Model Workflow Fit, AI Assistant Service Entry, Agentic Commerce, and Agent Harness. No direct contradiction found; the source qualifies earlier OpenClaw enthusiasm by stressing bounded permissions, recovery, and human verification.
@@ -771,6 +775,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] ingest | E161.脱离理性暴政，去尽情游戏吧！
 
 Added source page for a 面基 episode with 关雅迪 on leaving rational overcontrol, trained intuition, embodied judgment, ultratrail running, ocean sailing, high-altitude hallucination, financial/lifestyle safety, and action-defined identity. Created supporting pages for GuanYadi, QingdaoClipperYacht, TrainedIntuition, EmbodiedJudgment, FlowEnvironmentDesign, ExtremeEnvironmentRiskManagement, and ActionDefinesIdentity; updated overview, index, 面基, and Financial Freedom Vs Lifestyle Freedom. No direct contradiction found; the source qualifies "trust intuition" with training, feedback, safety boundaries, and embodied experience.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-08] lint | Wiki health check
 

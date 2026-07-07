@@ -2,8 +2,8 @@
 title: "AI Communication Ability"
 type: concept
 tags: [ai, communication, work, learning]
-sources: [vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1]
-last_updated: 2026-07-07
+sources: [e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1]
+last_updated: 2026-07-08
 ---
 
 # AI Communication Ability
@@ -14,6 +14,8 @@ The concept connects ordinary communication to [[AIEngineeringThinking]]. A pers
 
 [[vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1]] adds a daily-use version. The hosts argue that in coding-agent work, natural language becomes a basic input device rather than a mystical prompt hack; the user's ability to express intent, review plans, and say what "done" means changes the quality of generated work. Justin also describes using English and voice with agents, which turns agent work into repeated practice for clearer spoken and written expression.
 
+[[e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb]] adds the blank-window version. The host's difficulty is not typing prompts, but knowing what he wants to create, what context matters, and how to describe himself, his standards, and his intent well enough for the agent to act.
+
 ## Key Claims
 - Prompting is not only prompt tricks; it reflects whether the user understands the task well enough to specify it.
 - Writing remains valuable because it forces the user to organize thought, name things, and notice ambiguity before delegating work.
@@ -22,6 +24,7 @@ The concept connects ordinary communication to [[AIEngineeringThinking]]. A pers
 - Strong AI communication ability amplifies non-coding and coding work alike because it converts intent into executable context.
 - In mature [[VibeCoding]], communication includes plan review, test expectations, and final acceptance criteria, not only the initial request.
 - Voice input can increase throughput, but the user still has to notice when spoken ambiguity creates a bad plan or task drift.
+- Communication with AI includes expressing identity, taste, and rejection criteria, not only the initial task request.
 
 ## Connections
 - [[ContextEngineering]] — communication turns tacit preferences and requirements into reusable context.
@@ -31,3 +34,4 @@ The concept connects ordinary communication to [[AIEngineeringThinking]]. A pers
 - [[VibeCoding]] and [[AgenticWorkflow]] — practical workflows where communication quality changes outcome quality.
 - [[AIContentDevaluation]] — opposite failure mode, where AI-generated expression carries little value because the human did not communicate with care.
 - [[NewSpot]], [[JustinYan]], and [[VibeCoding]] — Vol. 160's product and coding-agent communication case.
+- [[PingGe]], [[HumanAgencyUnderAI]], [[ContextEngineering]], and [[OutputQualityGates]] — E163's intent, self-description, and acceptance-standard extension.

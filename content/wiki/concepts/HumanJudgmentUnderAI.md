@@ -2,7 +2,7 @@
 title: "Human Judgment Under AI"
 type: concept
 tags: [ai, judgment, work]
-sources: [vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
+sources: [e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
 last_updated: 2026-07-08
 ---
 
@@ -40,6 +40,8 @@ Human judgment under AI is the claim that AI can enhance preparation and synthes
 
 [[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] adds a local-agent and skill-transfer version. The hosts argue that users can increasingly create temporary tools and delegate work to [[OpenClaw]] or [[ClaudeCode]]-style systems, but still need judgment to decide which tasks are safe, when an assistant should ask follow-up questions, whether generated math or code is correct, and how much low-level practice future programmers need before they can review AI-built systems responsibly.
 
+[[e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb]] adds the agency and acceptance-standard version. The source argues that when AI can execute more of the middle work, human judgment shifts toward defining why a task exists, what should be done, what if alternatives deserve exploration, and which outputs should be rejected through [[OutputQualityGates]].
+
 ## Key Claims
 - AI is useful for preparation, framing, and organizing context.
 - Live questioning requires internalized understanding, tradeoffs, and expression.
@@ -67,6 +69,7 @@ Human judgment under AI is the claim that AI can enhance preparation and synthes
 - Good judgment includes choosing not to automate or continue a task when the speed of AI work outruns the user's ability to think.
 - In the intelligence-devaluation frame, judgment becomes valuable partly because generic cognition and production are less scarce.
 - Agent-era judgment includes deciding which parts of a workflow should remain deterministic, which can be probabilistic but reviewed, and which should not be delegated because the user lacks enough domain skill to catch failure.
+- AI-era judgment also includes refusing unnecessary optimization when more agent work would violate [[AIUsePacing]] or distract from the user's real intent.
 
 ## Connections
 - [[ContextEngineering]] — preparation quality depends on context quality.
@@ -90,3 +93,4 @@ Human judgment under AI is the claim that AI can enhance preparation and synthes
 - [[NewSpot]], [[VibeCoding]], and [[AIContentDevaluation]] — Vol. 160's boundary between AI-made implementation and human product taste.
 - [[IntelligenceDevaluation]], [[DomainExpertAlignment]], and [[PrimeBorrowerCreditRisk]] — labor-value, field-knowledge, and credit-risk branch added by the Keji Luandun source.
 - [[ProbabilisticSoftware]], [[OpenClaw]], [[AISkills]], and [[AICodingVerification]] — local-agent and skill-transfer boundary added by the OpenClaw reliability episode.
+- [[HumanAgencyUnderAI]], [[AIUsePacing]], and [[OutputQualityGates]] — E163's agency, pacing, and acceptance-standard layer.
