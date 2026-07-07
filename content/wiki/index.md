@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Advice Line with Shazi Visram of Happy Family Organics](sources/advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86.md) — Podcast episode on Shazi Visram, Happy Family Organics, Healthy Baby, Freit Barefoot, Sprinkle Bites, Plantamica, proof reuse, AI discovery, and private-label tradeoffs.
 - [EP101 对话 Simon：AI 创业者的第一项基本功是把账算明白](sources/ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx.md) — Podcast episode on Simon, Mico World AI Lab, Middle East game-social growth, Character AI economics, AI game commercialization, and startup unit economics.
 - [Advice Line with Susan Griffin-Black of EO Products](sources/advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91.md) — Podcast episode on Susan Griffin-Black, EO Products, relationship-led local growth, Yobi, Culture Wine Company, and Cane Dog Coffee.
 - [e.l.f. Cosmetics: Joey Shamah. The Dollar Store Formula That Built a Cosmetics Giant](sources/e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e.md) — Podcast episode on Joey Shamah, Scott Vincent Borba, e.l.f. Cosmetics, low-price beauty, media-driven e-commerce, H-E-B/Target retail validation, and private equity transitions.
@@ -62,6 +63,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Shazi Visram](entities/ShaziVisram.md) — Happy Family Organics and Healthy Baby founder advising consumer founders on education, proof, AI discovery, private label risk, and validation.
+- [Happy Family Organics](entities/HappyFamilyOrganics.md) — Baby-food company founded by Shazi Visram and referenced through lessons about CPG demos, trial, and mission-led products.
+- [Healthy Baby](entities/HealthyBaby.md) — Shazi Visram's safer baby-products company combining product performance, developmental support, evidence, and mission.
+- [Freit Barefoot](entities/FreitBarefoot.md) — Barefoot shoe brand using science-led education, PR, UGC, repeat purchase, and AI discovery to expand in the U.S.
+- [Sprinkle Bites](entities/SprinkleBites.md) — Protein sprinkles startup weighing private label against category ownership after early DTC and Thrive Market traction.
+- [Plantamica](entities/Plantamica.md) — Scented soil additive brand testing whether clean fragrance, local retail pilots, and customer data can support fundraising.
+- [Andrew Graff](entities/AndrewGraff.md) — Plantamica founder asking whether to raise capital or first prove traction through launch and retail pilots.
+- [Thrive Market](entities/ThriveMarket.md) — Marketplace channel whose Sprinkle Bites reorder data functions as early CPG proof.
 - [Simon](entities/Simon.md) — Mico AI Lab lead discussing Middle East game-social operations, cross-cultural research, AI games, and AI startup unit economics.
 - [Mico World](entities/MicoWorld.md) — Overseas social and pan-entertainment company whose Middle East game-social case informs its AI game/social direction.
 - [Mico AI Lab](entities/MicoAILab.md) — Mico World internal AI application unit evaluating AIGC through game, social, cost, and payment constraints.
@@ -361,6 +370,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Proof Point Reuse](concepts/ProofPointReuse.md) — Marketing practice of turning PR, UGC, validation, testimonials, reorders, and science into repeated proof across channels.
+- [Private Label Brand Risk](concepts/PrivateLabelBrandRisk.md) — CPG risk where retailer-owned volume can weaken margin, brand memory, and category ownership.
 - [AI Startup Unit Economics](concepts/AIStartupUnitEconomics.md) — AI founder checklist tying demand to marginal model cost, payment tolerance, market ceiling, and survival runway.
 - [Cross-Cultural User Research](concepts/CrossCulturalUserResearch.md) — Product research practice for studying language, culture, identity, and payment differences across markets.
 - [Middle East Social Game Growth](concepts/MiddleEastSocialGameGrowth.md) — Localized game-social growth pattern combining atmosphere supply, high-value users, anonymity, acquisition, and paid gifts.
