@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E158.资产配置与有效前沿：去找更好的，更不一样的，更贴近时代的](sources/e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc.md) — 面基 episode on dynamic efficient frontier, asset correlation, 60/40 strategic allocation, FOF product design, free-cash-flow indexing, COWZ, QDII tooling, and low-rate household wealth allocation.
 - [E159.港股的特殊之处与生存之道](sources/e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy.md) — 面基 episode on Hong Kong equities as an optional offshore market, covering liquidity segmentation, Stock Connect pricing power, ETF gaps, IPO absorption, dividend assets, Hang Seng Tech volatility, and risk-first active management.
 - [Advice Line with Ronnen Harary of Spin Master/PAW Patrol](sources/advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5.md) — Podcast episode on Ronnen Harary, Spin Master, PAW Patrol, Yearly Co., Island Bee Company, Wandering Soul Beer, commodity price exposure, family-business scaling, channel choice, and founder work boundaries.
 - [别在国内卷了，去美国看看只要产品好就有人付费的市场](sources/bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun.md) — Keji Luandun episode on Win's U.S. trip, CES networking, Tesla/Waymo Robotaxi observations, Chinese AI model adoption abroad, U.S. paid-software culture, and payment-led market selection for founders.
@@ -158,6 +159,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Damai](entities/Damai.md) — Ticketing platform used as both a platform-governance example and a possible Qwen fulfillment surface.
 - [State Administration for Market Regulation](entities/StateAdministrationForMarketRegulation.md) — Chinese antitrust regulator context for the reported Ctrip investigation.
 - [Yunnan Homestay Association](entities/YunnanHomestayAssociation.md) — Homestay operator association cited as a complainant-side signal in the Ctrip antitrust discussion.
+- [运雷](entities/YunLei.md) — 面基 guest and fund manager explaining efficient-frontier asset allocation, correlation research, and FOF product design.
+- [南方全球](entities/NanfangQuanqiu.md) — QDII fund/product context used to discuss overseas ETF, bond, commodity, REIT, and active-fund allocation tooling.
+- [COWZ](entities/COWZ.md) — Free-cash-flow ETF/index example used as a possible S&P 500 substitute when expected return improves without losing correlation fit.
 - [面基](entities/Mianji.md) — Podcast/show context for E153's Kelly sizing framework and E159's Hong Kong equity market-structure discussion.
 - [Edward Thorp](entities/EdwardThorp.md) — Mathematician and investor used by E153 to connect blackjack card counting, Kelly sizing, arbitrage, and quantitative investing.
 - [Claude Shannon](entities/ClaudeShannon.md) — Information-theory figure used by E153 to connect information advantage, repeated betting, and Kelly-style position sizing.
@@ -637,6 +641,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Asset Allocation](concepts/AssetAllocation.md) — Multi-asset portfolio construction starting from client outcomes, expected return, volatility, correlation, and strategic/tactical risk budgets.
+- [Efficient Frontier](concepts/EfficientFrontier.md) — Portfolio frame for improving risk-return by adding assets with higher expected return or lower correlation.
+- [Asset Correlation](concepts/AssetCorrelation.md) — Portfolio relationship concept where changing macro variables, flows, and narratives can make assets move together or apart.
+- [FOF Product Design](concepts/FOFProductDesign.md) — Fund-of-funds product discipline that reverse-engineers return, drawdown, volatility, and client-holding behavior.
+- [Free Cash Flow Indexing](concepts/FreeCashFlowIndexing.md) — Factor-indexing approach that screens for cash-generating companies as a possible return-improving equity exposure.
+- [60/40 Portfolio](concepts/SixtyFortyPortfolio.md) — Simple U.S. equity and bond strategic base used before testing factor, duration, or alternative-asset refinements.
 - [Commodity Price Exposure](concepts/CommodityPriceExposure.md) — Operating and pricing risk created when a product depends on an input whose market price can move faster than customers' willingness to pay.
 - [Story Led Consumer Branding](concepts/StoryLedConsumerBranding.md) — Consumer-brand pattern where a product's meaning comes from a founder, family, place, ritual, or loss story that customers can remember and repeat.
 - [Family Business Scaling](concepts/FamilyBusinessScaling.md) — Growth problem where channel choice, production capacity, identity, and family relationships have to fit the scale the business actually wants.

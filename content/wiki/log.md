@@ -684,6 +684,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-08] ingest | E158.资产配置与有效前沿：去找更好的，更不一样的，更贴近时代的
+
+Added source page for a 面基 episode on dynamic efficient frontier, asset allocation, asset correlation, FOF product design, 60/40 strategic allocation, free-cash-flow indexing, COWZ, QDII product tooling, and low-rate household wealth allocation. Created supporting pages for 运雷, 南方全球, COWZ, Asset Allocation, Efficient Frontier, Asset Correlation, FOF Product Design, Free Cash Flow Indexing, and 60/40 Portfolio; updated overview, index, 面基, Passive Investing, Market Efficiency, QDII Allocation, Treasury Duration Risk, Defensive Dividend Assets, S&P 500, and Investment Risk Management.
+
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -691,6 +695,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] ingest | Advice Line with Ronnen Harary of Spin Master/PAW Patrol
 
 Added source page for a How I Built This Advice Line episode with Ronnen Harary on Spin Master, PAW Patrol, Yearly Co., Island Bee Company, Hive 5, and Wandering Soul Beer. Created supporting pages for Ronnen Harary, Spin Master, PAW Patrol, Yearly Co., Anne Williams, Island Bee Company, Felix Collin, Hive 5, Wandering Soul Beer, Matt Smith, Commodity Price Exposure, Story Led Consumer Branding, Family Business Scaling, and Founder Work Boundaries; updated overview, index, How I Built This, Guy Raz, Channel Focus Experiments, Sustainable Growth Pace, and Founder Identity Diversification.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-08] lint | Wiki health check
 
