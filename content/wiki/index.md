@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Dhaka matters: an election for Bangladesh](sources/dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d.md) — The Intelligence episode on Bangladesh's competitive post-Hasina election, applied astrobiology for space habitats, and AI-driven job-application overload.
 - [A Keir-death experience: Britain's PM clings on](sources/a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07.md) — The Intelligence episode on Keir Starmer's Labour leadership crisis, New York assisted-dying law, U.S. safeguards, and Mountain West skijoring.
 - [【旧番重听】蜜蜂经济学](sources/jiufan-zhongting-mifeng-jingjixue-956460448.md) — 商业就是这样 episode on bees as an economics case, covering Mandeville, Meade, Zhang Wuchang, pollination contracts, almond demand, Chinese honey standards, and colony-collapse risk.
 - [Snap judgement: Japan PM’s electoral landslide](sources/snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d.md) — The Intelligence episode on Takaichi Sanae's snap-election mandate, Texas campus speech restrictions, and Taxi Driver's misread antihero violence.
@@ -139,6 +140,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Bangladesh](entities/Bangladesh.md) — Country framed as entering a democratic transition election after Sheikh Hasina's removal and years of weakened institutions.
+- [Sheikh Hasina](entities/SheikhHasina.md) — Ousted Bangladeshi leader whose Awami League rule and exile shape the election and India-relations context.
+- [Awami League](entities/AwamiLeague.md) — Temporarily banned former ruling party whose future rehabilitation is presented as necessary for a durable settlement.
+- [Bangladesh Nationalist Party](entities/BangladeshNationalistParty.md) — Main opposition party and favourite in the source's Bangladesh election segment.
+- [Tariq Rahman](entities/TariqRahman.md) — BNP front figure whose return from London gives the party momentum while reviving corruption-reputation risk.
+- [Jamaat-e-Islami Bangladesh](entities/JamaatEIslamiBangladesh.md) — Islamist party presented as disciplined and reformist to supporters but worrying to liberal voters.
+- [Mark Johnson](entities/MarkJohnson.md) — The Intelligence correspondent reporting on Bangladesh's election and party-system transition.
+- [Oliver Morton](entities/OliverMorton.md) — The Intelligence contributor explaining applied astrobiology, microbes, bioreactors, and space habitability.
+- [Shira Aviono](entities/ShiraAviono.md) — The Intelligence contributor explaining AI-assisted applications, fake applicant risk, and recruiting responses.
 - [Keir Starmer](entities/KeirStarmer.md) — British prime minister framed as surviving an immediate Labour leadership scare while remaining politically vulnerable.
 - [Labour Party (UK)](entities/LabourPartyUK.md) — Governing party context for Starmer's internal support, divided MPs, and unresolved successor problem.
 - [Peter Mandelson](entities/PeterMandelson.md) — Senior Labour figure whose Epstein-linked scandal becomes a judgment problem for Starmer in the episode.
@@ -174,7 +184,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [General Mills](entities/GeneralMills.md) — Food company mentioned as the Haagen-Dazs parent-company context in the ice-cream episode.
 - [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for city commerce observations and the bee-economics episode on pollination, honey standards, and agricultural markets.
 - [Polymarket](entities/Polymarket.md) — Prediction-market example used by E144 to explain price-as-probability thinking and residual risk.
-- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for AI-bubble hedging, Erdogan succession, Japan's snap-election mandate, Texas campus speech controls, Starmer's Labour crisis, assisted dying, skijoring, and Taxi Driver analysis.
+- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for AI-bubble hedging, Erdogan succession, Japan's snap-election mandate, Texas campus speech controls, Starmer's Labour crisis, Bangladesh's transition election, applied astrobiology, AI hiring overload, assisted dying, skijoring, and Taxi Driver analysis.
 - [Rosie Bloor](entities/RosieBloor.md) — Host introducing the episode's finance, Turkey politics, and literary obituary segments.
 - [Josh Roberts](entities/JoshRoberts.md) — Capital-markets correspondent explaining AI bubble hedging, hyperscaler capex, and defensive portfolio choices.
 - [Piotr Zilevsky](entities/PiotrZilevsky.md) — Turkey correspondent explaining Erdogan succession dynamics, term-limit workarounds, and party maneuvering.
@@ -774,6 +784,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, and Louis Hong episodes.
 
 ## Concepts
+- [Democratic Transition Election](concepts/DemocraticTransitionElection.md) — Competitive vote after authoritarian drift and mass protest where representation, reform, and institutional legitimacy are unsettled.
+- [Applied Astrobiology](concepts/AppliedAstrobiology.md) — Biology-for-space agenda using microbes, bioreactors, and ecosystems to make off-Earth habitats more liveable.
+- [AI Hiring Arms Race](concepts/AIHiringArmsRace.md) — Recruiting feedback loop where candidates use AI to submit more applications and employers counter with screening, tests, policies, and agents.
+- [Candidate Identity Fraud](concepts/CandidateIdentityFraud.md) — Hiring-security risk that remote-work applicants, profiles, or interview identities are synthetic or deceptive.
 - [Labour Leadership Crisis](concepts/LabourLeadershipCrisis.md) — Governing-party situation where an incumbent survives because no consensus successor forms while authority keeps eroding.
 - [Political Delivery Gap](concepts/PoliticalDeliveryGap.md) — Mismatch between promised governing outcomes and visible progress, making scandals more politically dangerous.
 - [Assisted Dying Laws](concepts/AssistedDyingLaws.md) — U.S. state-level legal frameworks allowing eligible terminally ill patients to obtain fatal medication.

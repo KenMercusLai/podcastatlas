@@ -935,3 +935,11 @@ Added source page for a The Intelligence episode on Keir Starmer's Labour leader
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | Dhaka matters: an election for Bangladesh
+
+Added source page for a The Intelligence episode on Bangladesh's first competitive election since 2008 after Sheikh Hasina's removal, the BNP and Jamaat contest, constitutional reform and Awami League rehabilitation, applied astrobiology for space habitats, and AI-driven job-application overload. Created pages for Bangladesh, Sheikh Hasina, Awami League, Bangladesh Nationalist Party, Tariq Rahman, Jamaat-e-Islami Bangladesh, Mark Johnson, Oliver Morton, Shira Aviono, Democratic Transition Election, Applied Astrobiology, AI Hiring Arms Race, and Candidate Identity Fraud; updated overview, index, The Intelligence, Space Economy Infrastructure, AI Impersonation Fraud Risk, Amazon, and ChatGPT. No direct contradiction found; the source extends the existing The Intelligence politics branch into democratic transition after incumbent removal while adding space-habitability and recruiting-security branches.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
