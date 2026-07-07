@@ -2,7 +2,7 @@
 title: "Apple"
 type: entity
 tags: [company, platform, ai, investing, mobile, app-store, media]
-sources: [vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, formula-1-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
+sources: [vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, formula-1-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
 last_updated: 2026-07-07
 ---
 
@@ -24,6 +24,8 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 
 [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]] adds Apple through the WWDC regional-availability opening. The hosts use unavailable AI features for Chinese and [[EuropeanUnion]] users as an early sign that software and AI services are becoming more regionally fragmented.
 
+[[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] adds Apple through health, hardware, subscriptions, and AI platform entry points. The hosts discuss Apple Watch high-blood-pressure notification as a potential early-warning use case, folding iPhone rumors as a mobile multitasking gap, App Store 12-month commitment subscriptions as a consumer-understanding risk, and WWDC/[[Gemini]]/Apple Intelligence expectations as evidence that Apple's AI value depends on daily integration rather than only model strength.
+
 ## Source Position
 - The hosts expect Apple AI news to matter because iPhone-level distribution can change user behavior even if the underlying model comes from another provider.
 - If Siri becomes a capable device-level agent, utility apps and reminder-like tools may face platform-level pressure.
@@ -35,6 +37,7 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 - The Formula One source treats Apple as a possible premium [[SportsMediaRights]] buyer whose interface and media capabilities could improve how live sports explain themselves.
 - The OPC source treats Apple as part of the platform layer that can benefit when AI increases app supply even if many individual apps do not find strong [[CustomerPull]].
 - The export-control source treats Apple as a region-fragmentation example: the same AI feature set may not be globally available because of policy, partner, or market constraints.
+- Vol. 167 treats Apple as a distribution and trust layer: health alerts, device form factor, subscription mechanics, and assistant integration can change behavior even when the model or service comes from another provider.
 
 ## Connections
 - [[Siri]] — Apple assistant and platform entry point discussed in the source.
@@ -49,3 +52,4 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 - [[FormulaOne]], [[SportsMediaRights]], and [[SportsEntertainmentFlywheel]] — sports-media themes added by the Formula One source.
 - [[AppStore]], [[OnePersonCompany]], and [[SoftwarePaymentCulture]] — OPC source where platform economics remain stronger than many solo-builder monetization stories.
 - [[EuropeanUnion]], [[FrontierModelAccessRestrictions]], and [[SaaSReliabilityUnderPolicyRisk]] — regional AI availability frame added by the Keji Luandun export-control episode.
+- [[Gemini]], [[AppStore]], [[AISubscriptionEconomics]], and [[AIProductFragmentation]] — health, subscription, and platform-AI themes added by Vol. 167.

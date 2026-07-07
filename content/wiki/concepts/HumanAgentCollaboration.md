@@ -2,7 +2,7 @@
 title: "Human-Agent Collaboration"
 type: concept
 tags: [agents, collaboration, product-design]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq]
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
 last_updated: 2026-07-07
 ---
 
@@ -20,6 +20,8 @@ Human-agent collaboration is the product-design problem at the center of [[renle
 
 [[agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq]] adds the [[Moxt]] workplace version. [[Momo]] and other [[AICoworkers]] are meant to live in shared [[OrganizationalContext]], participate in comments or IM-like flows, and receive feedback like coworkers, while humans keep responsibility for goals, judgment, taste, approval, and value choices.
 
+[[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] adds a personal-assistant collaboration pattern. The hosts discuss commanding [[Codex]] remotely from a phone, letting agents continue work while the Mac is locked, and splitting [[OpenClaw]]/[[HermesAgent]] conversations by topic so each agent relationship has its own memory, persona, and expected behavior.
+
 ## Key Claims
 - The collaboration target is a moving one because every new product reveals new expectations and pain points.
 - Users should not have to repeatedly dump files, emails, and personal context into a chat box.
@@ -31,6 +33,7 @@ Human-agent collaboration is the product-design problem at the center of [[renle
 - Proactive collaboration should continue the user's current task rather than creating unrelated curiosity work or extra cognitive load.
 - Collaboration form changes task selection: users may delegate looser personal-assistant tasks in IM, but demand more structured state, branching, and review surfaces for technical work.
 - Workspace-native agents change collaboration by making the shared workspace itself the memory and action surface, not only the chat thread.
+- Collaboration becomes more practical when the agent can continue work asynchronously without stealing the human's foreground device, but that raises review, notification, and permission-design demands.
 
 ## Connections
 - [[AgenticWorkflow]] — practical workflow pattern that human-agent collaboration extends.
@@ -42,3 +45,4 @@ Human-agent collaboration is the product-design problem at the center of [[renle
 - [[AirJelly]], [[IntentContext]], and [[OSLevelContext]] — proactive collaboration case added by the AirJelly source.
 - [[IMAgentInterfaces]], [[LocalAgentExecution]], [[YaGe]], and [[Haoda]] — expectation and collaboration-design layer added by the OpenClaw 20-question source.
 - [[Moxt]], [[Momo]], [[AICoworkers]], and [[OrganizationalContext]] — workspace-native collaboration case added by the Moxt source.
+- [[Codex]], [[OpenClaw]], [[HermesAgent]], [[IMAgentInterfaces]], and [[AgentPermissionBoundaries]] — remote and multi-session collaboration case added by Vol. 167.

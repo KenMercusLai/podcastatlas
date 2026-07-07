@@ -2,7 +2,7 @@
 title: "Open Claw"
 type: entity
 tags: [agent, ecosystem, china]
-sources: [dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]
+sources: [dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
 last_updated: 2026-07-07
 ---
 
@@ -18,6 +18,8 @@ Open Claw is discussed together with [[OpenCloud]] in [[dang-women-zai-taolun-ha
 
 [[20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]] adds a direct product-mechanics account through [[YaGe]] and [[Haoda]]. The episode says OpenClaw's novelty is not that its base model is uniquely stronger, but that [[IMAgentInterfaces]], [[LocalAgentExecution]], [[PersistentAgentMemory]], [[AISkills]], tool calls, and feedback loops make it feel like an intern or digital coworker. It also expands OpenClaw from a consumer curiosity into a startup map covering easier setup, IM entry points, skill markets, agent social spaces, hardware links, enterprise [[DigitalEmployees]], and [[AgentPermissionBoundaries]].
 
+[[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] adds a concrete personal-workflow layer. [[JustinYan]] describes using Telegram group chats and sessions as topic-separated agents with different settings, memories, and permissions, and treats article collection, translation, calendar/reminder summaries, Obsidian notes, and daily todo generation as low-cost agent product experiments.
+
 ## Source Position
 - The source treats Open Claw as an early adoption context rather than the final agent form.
 - Memory instability is presented as a pain point that helped [[HermesAgent]] attract attention.
@@ -25,6 +27,7 @@ Open Claw is discussed together with [[OpenCloud]] in [[dang-women-zai-taolun-ha
 - The Fengyan Fengyu source adds safety and product-design details: separate accounts, trusted versus agent-written skills, automatic versus explicit invocation, and token-cost concerns.
 - The AirJelly source adds a competitive lesson: execution-heavy agents may not be enough if they cannot perceive the user's current task, intent, and long-running personal context.
 - The 20-question source adds a packaging lesson: OpenClaw's virality came from making existing CLI-agent capability reachable, memorable, and executable for a wider audience.
+- Vol. 167 adds a prototyping lesson: IM agents can be used to cheaply test whether a recurring workflow should later become a more engineered product or skill.
 
 ## Connections
 - [[OpenCloud]] — paired domestic agent phenomenon in the source.
@@ -35,3 +38,4 @@ Open Claw is discussed together with [[OpenCloud]] in [[dang-women-zai-taolun-ha
 - [[AgentNativeSoftware]], [[OnDemandApps]], and [[AgentPermissionBoundaries]] — personal-agent product concepts added by the Fengyan Fengyu source.
 - [[AirJelly]], [[IntentContext]], [[OSLevelContext]], and [[PersistentAgentMemory]] — proactive-agent comparison added by the AirJelly episode.
 - [[YaGe]], [[Haoda]], [[IMAgentInterfaces]], and [[LocalAgentExecution]] — product-mechanics and startup-opportunity frame added by the 20-question episode.
+- [[HermesAgent]], [[PersistentAgentMemory]], [[AISkills]], and [[AgentPermissionBoundaries]] — multi-session personal-agent workflow added by Vol. 167.

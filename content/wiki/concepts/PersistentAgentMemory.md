@@ -2,7 +2,7 @@
 title: "Persistent Agent Memory"
 type: concept
 tags: [agents, memory, context]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6]
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
 last_updated: 2026-07-07
 ---
 
@@ -18,6 +18,8 @@ Persistent agent memory is the durable user model that [[Paperboy]] wants to bui
 
 [[20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]] adds [[OpenClaw]]'s perceived "human feel" version. The episode describes a layered memory stack: raw logs, a medium-term memory file, and longer-term preference or user-profile files that preserve taste, opinions, and values. [[YaGe]] and [[Haoda]] treat this memory as part of why the agent feels like a growing assistant rather than a stateless tool.
 
+[[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] adds a multi-session IM memory case. [[JustinYan]] describes separating Telegram group chats by topic so each agent context can have different settings, reactions, users, and memory, while still drawing on calendar, reminder, and Obsidian records to assemble a daily todo.
+
 ## Key Claims
 - Memory should preserve useful chat, work, meeting, code, message, and browsing context even after an individual session ends.
 - More persistent memory can reduce explicit prompting because the agent already knows the user's taste, work history, and current activity.
@@ -29,6 +31,7 @@ Persistent agent memory is the durable user model that [[Paperboy]] wants to bui
 - For consumer agents, memory can become a moat when weeks or months of accumulated context make switching tools costly.
 - Memory systems need forgetting, merging, and weighting, because full capture without curation can make all context look equally important.
 - Memory can change user tolerance: failures may be interpreted as onboarding or training a helper when the agent seems to remember and improve.
+- Session boundaries can be a memory design feature: different threads or groups may intentionally remember different things to keep persona, permissions, and context from collapsing into one global agent.
 
 ## Connections
 - [[ContextEngineering]] — broader discipline for making context durable and useful.
@@ -39,3 +42,4 @@ Persistent agent memory is the durable user model that [[Paperboy]] wants to bui
 - [[HermesAgent]], [[OpenCloud]], and [[OpenClaw]] — agent-product context where memory stability becomes a visible product requirement.
 - [[AirJelly]], [[IntentContext]], and [[Mycontext]] — proactive personal-agent case where memory grows from intent-triggered OS context.
 - [[OpenClaw]], [[YaGe]], [[Haoda]], and [[IMAgentInterfaces]] — consumer-agent case where memory reinforces familiarity and relationship-like interaction.
+- [[JustinYan]], [[HermesAgent]], [[AgentPermissionBoundaries]], and [[AISkills]] — multi-session personal-agent memory case added by Vol. 167.

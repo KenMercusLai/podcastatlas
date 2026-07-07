@@ -2,7 +2,7 @@
 title: "Codex"
 type: entity
 tags: [ai-tool, agent, coding]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]
+sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
 last_updated: 2026-07-07
 ---
 
@@ -20,6 +20,8 @@ In [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperb
 
 [[vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]] adds a complementary role for Codex in a stronger-model workflow. The hosts describe using [[Fable5]] for planning, PRD/issue decomposition, and review judgment, then asking Codex to execute or review code. Codex therefore becomes part of [[ModelRoutingCostControl]]: not every step needs the same model if planning, implementation, and review have different cost and quality requirements.
 
+[[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] adds Codex as a remote-control and personal-assistant surface. The hosts discuss a Chrome extension, lock-screen background operation on Mac, ChatGPT-based remote control from a phone, and the possibility of IM-style entry points. The source treats these as signs that Codex is moving beyond code generation toward delegated work where [[AgentPermissionBoundaries]], [[IMAgentInterfaces]], and [[AIInferenceCostStructure]] become product constraints.
+
 ## Episode Notes
 - The guest says he moved more of his usage toward Codex after a version update.
 - He values Codex partly for its GUI, access to ChatGPT history, and better Notion connection success in his workflow.
@@ -29,6 +31,7 @@ In [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperb
 - Vol. 166 adds that Codex can make small, bounded personal tools quickly, but the user still has to supervise review, packaging, and product acceptance.
 - EP127 adds that Codex becomes more useful when skills encode verification, review, deployment, and recurring automation rather than only prompt style.
 - Vol. 170 adds Codex as the execution and review counterpart to [[Fable5]] planning in a cost-aware workflow.
+- Vol. 167 adds Codex as a remote personal technical assistant whose value depends on background execution, browser access, phone access, and clear permission boundaries.
 
 ## Connections
 - [[OpenAI]] — company context for Codex.
@@ -38,3 +41,4 @@ In [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperb
 - [[Podwise]], [[AgentOptimizedCLI]], and [[AISkills]] — external CLI/Skills installation case added by EP124.
 - [[RoutineAgentAutomation]], [[Playwright]], and [[AIEngineeringThinking]] — scheduled skills and verification loops added by EP127.
 - [[Fable5]], [[OneShotAICoding]], [[GrillMeSkills]], and [[ModelRoutingCostControl]] — planning/execution split added by Vol. 170.
+- [[IMAgentInterfaces]], [[AgentPermissionBoundaries]], and [[AIInferenceCostStructure]] — remote-control and personal-agent direction added by Vol. 167.

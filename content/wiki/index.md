@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol. 167 Token 如流水，Agent 似朝阳](sources/vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1.md) — Podcast episode on Apple platform AI, App Store subscription commitments, OpenAI/Microsoft cloud shifts, Project Glassfin, token-cost pressure, AI medical marketing risk, AI content provenance, Codex remote control, and IM-based personal agents.
 - [把 AI 吹成核武器的人，亲手拉下了新冷战铁幕](sources/ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1.md) — Podcast episode on Anthropic access restrictions, AI export controls, safety rhetoric backfire, open-model substitution, and AI cold-war framing.
 - [OPC 的真正难题，是 AI 还没学会替你把东西卖出去](sources/opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1.md) — Podcast episode on AI-era one-person companies, why AI lowers building cost but not sales/customer/compliance work, and why first-customer validation should precede registration or overseas setup.
 - [Vol. 169 高考只是个开始，Don’t Waste Your Life](sources/vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1.md) — Podcast episode on gaokao as a beginning, AI-era college major choice, university opportunity density, college career preparation, learning how to learn, and AI as tutor.
@@ -96,6 +97,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Project Glassfin](entities/ProjectGlassfin.md) — Anthropic security effort discussed as an AI-assisted vulnerability-discovery case with coordinated remediation implications.
 - [Dario Amodei](entities/DarioAmodei.md) — Anthropic leader used by the episode as the main case for AI safety rhetoric feeding model access restrictions.
 - [Zhipu AI](entities/ZhipuAI.md) — Chinese AI company framed through GLM 5.2 as an open-model response to closed-model access restrictions.
 - [GLM 5.2](entities/GLM52.md) — Zhipu AI model release discussed through long context, coding improvement, slower speed, and open-model substitution.
@@ -554,6 +556,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [AI Content Provenance](concepts/AIContentProvenance.md) — Marking, disclosing, or tracing AI-generated media through watermarks, content credentials, and consumer right-to-know boundaries.
+- [Medical AI Marketing Risk](concepts/MedicalAIMarketingRisk.md) — Risk that AI doctors, affiliate incentives, app-store tactics, and AI-search visibility make low-trust health products look authoritative.
 - [AI Export Controls](concepts/AIExportControls.md) — Policy attempts to restrict access to frontier model capability, model weights, APIs, chips, or related infrastructure.
 - [AI Cold War](concepts/AIColdWar.md) — Geopolitical frame where model, API, compute, and information flows become bloc-style strategic competition.
 - [AI Safety Narrative Backfire](concepts/AISafetyNarrativeBackfire.md) — Risk that weapon-like AI safety rhetoric invites blunt national-security regulation of commercial models.

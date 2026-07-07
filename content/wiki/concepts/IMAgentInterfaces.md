@@ -2,13 +2,15 @@
 title: "IM Agent Interfaces"
 type: concept
 tags: [agents, interfaces, product-design]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
 last_updated: 2026-07-07
 ---
 
 # IM Agent Interfaces
 
 IM agent interfaces are chat or messaging surfaces that make agents reachable inside habits users already have. In [[20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]], [[OpenClaw]]'s IM-style entry point is treated as a major reason the product felt more approachable than CLI agents or traditional web tools. The interface does not create the agent's capability by itself, but it changes how users perceive waiting, failure, repeated interaction, and personality.
+
+[[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] adds a multi-session workflow case. [[JustinYan]] uses Telegram group chats and topics to separate agent contexts, personas, memory, and permissions; the hosts also discuss whether [[Codex]] should eventually enter Telegram, WhatsApp, iMessage, or similar channels so users can command it like a technical assistant.
 
 ## Key Claims
 - IM lowers the first-use barrier because users already know how to send messages, wait for replies, and return to asynchronous threads.
@@ -17,6 +19,7 @@ IM agent interfaces are chat or messaging surfaces that make agents reachable in
 - IM alone is not enough; without [[LocalAgentExecution]], tools, files, and feedback loops, the agent risks becoming chat-only advice.
 - IM also has limits: thread visibility, fork/merge controls, long document review, and task-state inspection can be weaker than purpose-built agent workspaces.
 - In China, [[WeChat]] is treated as the high-value but restricted IM entry point; in global markets, WhatsApp, Discord, Telegram, and similar channels are examples of the broader pattern.
+- IM threads can act as lightweight product containers: each thread can carry different goals, memories, account access, and output expectations.
 
 ## Connections
 - [[OpenClaw]] — central product case.
@@ -26,3 +29,4 @@ IM agent interfaces are chat or messaging surfaces that make agents reachable in
 - [[LocalAgentExecution]] — complementary mechanism that turns the message interface into executable work.
 - [[PersistentAgentMemory]] and [[AISkills]] — features that make repeated message interaction compound.
 - [[WeChat]] and [[Tencent]] — Chinese platform context where an IM agent could be powerful but entry is constrained.
+- [[Codex]], [[HermesAgent]], [[PersistentAgentMemory]], and [[AgentPermissionBoundaries]] — multi-session and remote-assistant themes added by Vol. 167.

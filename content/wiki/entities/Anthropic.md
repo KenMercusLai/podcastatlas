@@ -2,7 +2,7 @@
 title: "Anthropic"
 type: entity
 tags: [company, ai]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
+sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
 last_updated: 2026-07-07
 ---
 
@@ -20,6 +20,8 @@ Anthropic is discussed in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touzire
 
 [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]] adds Anthropic as the central case for frontier-model policy risk. The source discusses rumor-level claims about high-end model access, safety guardrails, jailbreaks, and foreign-user restrictions, then argues that [[DarioAmodei]]'s danger framing can produce [[AISafetyNarrativeBackfire]] when governments respond through [[AIExportControls]] and [[FrontierModelAccessRestrictions]].
 
+[[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] adds Anthropic through [[ProjectGlassfin]], [[ClaudeCode]], and AI talent-market discussion. The hosts treat Project Glassfin as an example of AI-assisted vulnerability discovery with coordinated disclosure implications, while also comparing Claude Code's coding strength and browser-extension path against [[Codex]].
+
 ## Connections
 - [[ClaudeCode]] — agentic coding tool associated with Anthropic's ecosystem.
 - [[OpenAI]] — frontier AI peer in the FDE discussion.
@@ -35,3 +37,4 @@ Anthropic is discussed in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touzire
 - [[VibeCoding]] and [[ModelProviderToolCompetition]] — coding-tool competition added by EP108.
 - [[Superpowers]], [[SubagentWorkflow]], and [[AICodingVerification]] — orchestration and review-loop themes added by Vol. 166.
 - [[DarioAmodei]], [[AIExportControls]], [[FrontierModelAccessRestrictions]], and [[SaaSReliabilityUnderPolicyRisk]] — policy-risk themes added by the Keji Luandun export-control episode.
+- [[ProjectGlassfin]], [[AIGovernanceAndCompliance]], [[ClaudeCode]], and [[Codex]] — vulnerability-discovery and coding-tool competition themes added by Vol. 167.

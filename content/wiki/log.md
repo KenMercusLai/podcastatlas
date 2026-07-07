@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-07] ingest | Vol. 167 Token 如流水，Agent 似朝阳
+
+Added source page for a Fengyan Fengyu episode on Apple platform AI, App Store commitment subscriptions, OpenAI/Microsoft cloud shifts, Project Glassfin, token-cost pressure, AI medical marketing risk, AI content provenance, Codex remote control, and OpenClaw/Hermes-style IM personal agents. Created Project Glassfin, AI Content Provenance, and Medical AI Marketing Risk; updated overview, index, Fengyan Fengyu, Justin Yan, Zili, Codex, OpenAI, Microsoft, Anthropic, Claude Code, Apple, Gemini, OpenClaw, Hermes Agent, ChatGPT, App Store, Cloudflare, DeepSeek, AI inference cost structure, model routing cost control, AI subscription economics, agent-native software, IM agent interfaces, agent harness, persistent agent memory, AI skills, agent permission boundaries, human-agent collaboration, AI coding verification, AI governance and compliance, and AI impersonation fraud risk pages.
+
 ## [2026-07-07] ingest | 把 AI 吹成核武器的人，亲手拉下了新冷战铁幕
 
 Added source page for a Keji Luandun episode on Anthropic model access restrictions, AI safety rhetoric, export controls, open-source model substitution, PGP as a software-control analogy, GLM 5.2, and AI cold-war framing. Created pages for Dario Amodei, Zhipu AI, GLM 5.2, SK Telecom, China Unicom, PGP, AI Export Controls, AI Cold War, AI Safety Narrative Backfire, Frontier Model Access Restrictions, and SaaS Reliability Under Policy Risk; updated overview, index, Keji Luandun, Anthropic, DeepSeek, Apple, European Union, Nvidia, Jensen Huang, Claude Code, Open Source AI Models, Large Company Open Source Strategy, AI commercialization pressure, AI governance and compliance, SaaS trust moat, AI coding verification, human judgment under AI, frontier model scaling, and AI inference cost structure pages.
@@ -563,6 +567,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-07] graph | Knowledge graph rebuilt
 
 910 nodes, 8178 edges (8178 extracted, 0 inferred).
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-07] lint | Wiki health check
 

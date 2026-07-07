@@ -2,7 +2,7 @@
 title: "Agent Native Software"
 type: concept
 tags: [agents, software-design, product]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
 last_updated: 2026-07-07
 ---
 
@@ -16,6 +16,8 @@ Agent-native software is software whose core substrate is an agent rather than a
 
 [[vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]] extends the form into [[TokenDrivenSoftware]]. Instead of only treating the agent as a worker behind fixed app screens, the hosts imagine software whose interface, interaction flow, and world behavior are generated at run time from context. This makes [[ModelRoutingCostControl]] and [[AIInferenceCostStructure]] part of product design, because dynamic behavior can become expensive if every generated surface uses the top model.
 
+[[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] adds the product-prototyping version. [[OpenClaw]] and [[HermesAgent]]-style agents can be configured in IM threads for article triage, translation, todo aggregation, and calendar/reminder synthesis, letting a builder test a product idea through conversation before deciding whether to engineer it as a stable app or skill.
+
 ## Key Claims
 - Agent-native software differs from AI-assisted software because removing the agent would remove the product's reason to exist.
 - The design center shifts from screens and static feature menus toward [[AgentHarness]] choices: tools, permissions, channels, triggers, memory, and feedback loops.
@@ -25,6 +27,7 @@ Agent-native software is software whose core substrate is an agent rather than a
 - Context capture and memory can be as much a product surface as tools and skills, especially for personal agents that need to act before being prompted.
 - Accessibility and entry point can be as important as raw capability: an IM surface plus local runtime can expose existing CLI-agent power to many more users.
 - Token-driven interaction broadens agent-native software from task execution into dynamic experience generation, but increases cost, latency, and quality-control requirements.
+- Agent-native prototypes can start as configured conversations, but durable products still need stable memory, permission boundaries, and deterministic pieces when repeated work becomes clear.
 
 ## Connections
 - [[OpenClaw]] — source example of an agent-native product form.
@@ -35,3 +38,4 @@ Agent-native software is software whose core substrate is an agent rather than a
 - [[AirJelly]], [[IntentContext]], [[OSLevelContext]], and [[ProactiveAgents]] — context-first agent-native case added by the AirJelly source.
 - [[IMAgentInterfaces]], [[LocalAgentExecution]], [[YaGe]], and [[Haoda]] — OpenClaw product-mechanics case added by the 20-question episode.
 - [[TokenDrivenSoftware]], [[GeneratedWorkInterfaces]], and [[ModelRoutingCostControl]] — Vol. 170's dynamic-interface and cost-control extension.
+- [[IMAgentInterfaces]], [[HermesAgent]], [[PersistentAgentMemory]], and [[AISkills]] — configured personal-agent prototype layer added by Vol. 167.
