@@ -863,3 +863,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | Stock options: how to hedge an AI bubble
+
+Added source page for a The Intelligence episode on AI bubble hedging, hyperscaler AI capex, bonds/gold/defensive equity hedge tradeoffs, Erdogan succession, and Georges Beauchard's literary-agent judgment. Created pages for The Intelligence, Rosie Bloor, Josh Roberts, Piotr Zilevsky, Recep Tayyip Erdogan, Justice and Development Party, Hakan Fidan, Bilal Erdogan, Ekrem Imamoglu, Georges Beauchard, Samuel Beckett, Elie Wiesel, Alphabet, AI Bubble Hedging, Autocratic Succession, and Literary Agent Judgment; updated overview, index, Amazon, Meta, Microsoft, Goldman Sachs, AI Equity Valuation Risk, Speculative Bubble Psychology, Asset Allocation, Asset Correlation, Defensive Dividend Assets, Treasury Duration Risk, Gold Monetary Anchor, Market Regime Shift, and Investment Risk Management. No direct contradiction found; the source reinforces the existing technology-versus-price distinction and qualifies bond and gold hedge assumptions with inflation/correlation and volatility caveats.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

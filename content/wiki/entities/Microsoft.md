@@ -2,8 +2,8 @@
 title: "Microsoft"
 type: entity
 tags: [company, ai, cloud, investing, mobile]
-sources: [ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]
-last_updated: 2026-07-07
+sources: [ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]
+last_updated: 2026-07-08
 ---
 
 # Microsoft
@@ -16,6 +16,8 @@ Microsoft appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yan
 
 [[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]] adds Microsoft as a historical example inside [[DepressionDrivenInnovation]]: the episode uses companies founded in uncertain or weak periods to argue that important technology waves often begin before macro optimism is obvious.
 
+[[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]] adds Microsoft to the [[AIBubbleHedging]] cluster. The episode groups Microsoft with [[Alphabet]], [[Amazon]], and [[Meta]] in a planned $660bn AI-spending figure and uses that scale to ask whether AI capex will convert into sufficient returns.
+
 ## Connections
 - [[Nvidia]] — supplier discussed through GPU and AI infrastructure demand.
 - [[Google]] and [[Amazon]] — peer hyperscaler customers in the episode's capex-risk frame.
@@ -23,3 +25,4 @@ Microsoft appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yan
 - [[Nokia]], [[Symbian]], [[IPhone]], [[Android]], and [[SmartphoneOperatingSystemEcosystems]] — mobile-platform context added by the handset-history source.
 - [[OpenAI]], [[Cloudflare]], and [[AIInferenceCostStructure]] — cloud-infrastructure and token-cost context added by Vol. 167.
 - [[DepressionDrivenInnovation]] and [[KondratievCycle]] — E162's long-cycle innovation context.
+- [[Alphabet]], [[Amazon]], [[Meta]], [[AIBubbleHedging]], and [[AIEquityValuationRisk]] — hyperscaler capex and valuation-risk context added by The Intelligence episode.

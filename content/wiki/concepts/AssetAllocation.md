@@ -2,7 +2,7 @@
 title: "Asset Allocation"
 type: concept
 tags: [investing, portfolio, allocation]
-sources: [e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]
+sources: [e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]
 last_updated: 2026-07-08
 ---
 
@@ -14,6 +14,8 @@ The episode's practical structure is strategic first, tactical second. [[YunLei]
 
 [[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]] adds the macro-strategy version. It connects allocation to [[RiskParity]] and [[MacroAssetExpression]]: a long-cycle or geopolitical narrative has to be translated into equity styles, bond duration, commodity exposure, gold, sectors, and target-volatility rules before it becomes an investable portfolio.
 
+[[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]] adds the suspected-bubble version through [[AIBubbleHedging]]. The episode weighs bonds, gold, reliable dividend stocks, low-volatility stocks, and buy-and-hold behavior as possible responses when an investor wants to reduce AI-stock downside without exiting equities entirely.
+
 ## Key Claims
 - Asset allocation should be judged by the whole portfolio's risk-return path, not by whether each individual asset looks attractive in isolation.
 - Expected return, volatility, and [[AssetCorrelation]] are all required inputs because diversification only helps when assets behave differently at the portfolio level.
@@ -21,6 +23,7 @@ The episode's practical structure is strategic first, tactical second. [[YunLei]
 - Tactical views should have a limited risk budget because macro confidence can change quickly.
 - In low-rate environments, household demand may move from bank wealth-management and property toward FOF-style products, making [[FOFProductDesign]] part of asset allocation.
 - [[RiskParity]] is one multi-asset implementation path, but the episode stresses that it still depends on correlation behavior and liquidity-crisis risk.
+- Bubble hedging is an allocation problem, not only a prediction problem: the investor must choose which risks to keep, reduce, or diversify.
 
 ## Connections
 - [[EfficientFrontier]] — framework for judging whether allocation actually improved.
@@ -29,3 +32,4 @@ The episode's practical structure is strategic first, tactical second. [[YunLei]
 - [[SixtyFortyPortfolio]] — simple strategic base discussed in the source.
 - [[InvestmentRiskManagement]] and [[QDIIAllocation]] — risk and implementation context for ordinary and Chinese overseas investors.
 - [[RiskParity]], [[MacroAssetExpression]], and [[GoldMonetaryAnchor]] — E162's macro multi-asset extension.
+- [[AIBubbleHedging]], [[DefensiveDividendAssets]], [[TreasuryDurationRisk]], and [[GoldMonetaryAnchor]] — The Intelligence episode's bubble-hedging allocation set.

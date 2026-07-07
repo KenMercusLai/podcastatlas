@@ -2,7 +2,7 @@
 title: "Treasury Duration Risk"
 type: concept
 tags: [bonds, macro, rates, investing]
-sources: [ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc]
+sources: [ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]
 last_updated: 2026-07-08
 ---
 
@@ -12,6 +12,8 @@ Treasury duration risk is the EP39 warning that U.S. Treasuries can be attractiv
 
 [[e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc]] adds the portfolio-expression version. [[YunLei]] argues that a rate-cut view should be expressed through concrete assets and that shorter-duration U.S. bond exposure may have clearer sensitivity to short-end rate cuts than long-duration exposure, where fiscal and supply uncertainty can dominate.
 
+[[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]] adds the stock-hedge caveat. Bonds are presented as the classic hedge against equity falls, but the episode says 2022 weakened confidence in that relationship because inflation hurt both stocks and bonds at the same time.
+
 ## Key Claims
 - A [[FederalReserve]] rate-cut cycle can create a favorable setup for intermediate or long Treasuries, but bond prices can still move sharply before and after cuts.
 - The [[USTreasury]] financing burden matters because high rates raise rollover cost and future long-bond supply can pressure prices.
@@ -19,6 +21,7 @@ Treasury duration risk is the EP39 warning that U.S. Treasuries can be attractiv
 - Investors in RMB, SGD, JPY, or other currencies need to include [[CurrencyRisk]], not only the dollar bond yield.
 - Bond funds should be inspected for duration, government versus corporate exposure, and currency terms before being used as a defensive QDII substitute.
 - Duration choice should fit the macro expression: short-end rate-cut sensitivity is different from long-bond supply, fiscal, and inflation exposure.
+- Bond hedges depend on the cause of the equity selloff; inflation-driven stress can break the usual stock-bond offset.
 
 ## Connections
 - [[USTreasury]], [[JanetYellen]], and [[FederalReserve]] — policy and issuance context.
@@ -26,3 +29,4 @@ Treasury duration risk is the EP39 warning that U.S. Treasuries can be attractiv
 - [[QDIIAllocation]] — practical route for Chinese investors seeking defensive overseas exposure.
 - [[InvestmentRiskManagement]] and [[MonetaryPolicyLag]] — risk-control and policy-timing context.
 - [[AssetAllocation]], [[SixtyFortyPortfolio]], and [[AssetCorrelation]] — E158's bond role inside multi-asset construction.
+- [[AIBubbleHedging]] and [[AssetCorrelation]] — The Intelligence episode's bond-hedge caveat.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Stock options: how to hedge an AI bubble](sources/stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5.md) — The Intelligence episode on AI bubble hedging, hyperscaler capex, bonds/gold/defensive equity hedges, Erdogan succession, and Georges Beauchard's literary-agent judgment.
 - [E225｜SaaS业数千亿市值蒸发：AI如何变革组织架构？](sources/e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou.md) — 硅谷101 episode on SaaS seat-pricing pressure, Bairong Intelligence, result-priced AI labor, AI staffing/BPO, enterprise agent stores, and silicon-carbon organization design.
 - [E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地](sources/e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di.md) — 硅谷101 episode with Apodex chief scientists on recursive self-improvement, Deep Research, coding as a training substrate, AI verification, discovery models, and research taste.
 - [EP90 从美加墨世界杯看懂期权—华尔街的终极武器](sources/ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p.md) — 一劳永逸 episode using World Cup tickets, betting intuition, Buffett, Duan Yongping, Mark Cuban, GameStop, and LTCM to explain options, hedging, gamma squeezes, and model risk.
@@ -130,6 +131,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for the AI-bubble hedging, Erdogan succession, and Georges Beauchard episode.
+- [Rosie Bloor](entities/RosieBloor.md) — Host introducing the episode's finance, Turkey politics, and literary obituary segments.
+- [Josh Roberts](entities/JoshRoberts.md) — Capital-markets correspondent explaining AI bubble hedging, hyperscaler capex, and defensive portfolio choices.
+- [Piotr Zilevsky](entities/PiotrZilevsky.md) — Turkey correspondent explaining Erdogan succession dynamics, term-limit workarounds, and party maneuvering.
+- [Recep Tayyip Erdogan](entities/RecepTayyipErdogan.md) — Turkey's long-ruling leader whose term limits, age, and party dominance create succession uncertainty.
+- [Justice and Development Party](entities/JusticeAndDevelopmentParty.md) — Erdogan's ruling party and succession arena in the Turkey segment.
+- [Hakan Fidan](entities/HakanFidan.md) — Foreign minister and possible Erdogan successor with broader public-survey appeal in the episode.
+- [Bilal Erdogan](entities/BilalErdogan.md) — Erdogan's youngest son and possible dynastic successor discussed in the episode.
+- [Ekrem Imamoglu](entities/EkremImamoglu.md) — Istanbul mayor and opposition figure whose imprisonment shapes the episode's Turkey political context.
+- [Georges Beauchard](entities/GeorgesBeauchard.md) — Literary agent and refugee profiled for championing Beckett and Wiesel before publishers recognized their value.
+- [Samuel Beckett](entities/SamuelBeckett.md) — Writer whose work Beauchard backed before broader market recognition.
+- [Elie Wiesel](entities/ElieWiesel.md) — Writer whose Holocaust memoir Night Beauchard championed through early rejection.
+- [Alphabet](entities/Alphabet.md) — Hyperscaler in the episode's $660bn AI capex cluster alongside Amazon, Meta, and Microsoft.
 - [硅谷101](entities/SiliconValley101.md) — Podcast/show context for Apodex self-evolution and Bairong's enterprise-agent discussion of SaaS disruption, result pricing, and silicon-carbon governance.
 - [Apodex](entities/Apodex.md) — Chen Tianqiao-backed AI company in the source focused on Heavy Duty Solver and Discovery Model work rather than consumer generation products.
 - [Chen Tianqiao](entities/ChenTianqiao.md) — Strategic figure behind Apodex, described as shaping company direction and model constitution around truthfulness and hard-problem solving.
@@ -717,6 +731,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, and Louis Hong episodes.
 
 ## Concepts
+- [AI Bubble Hedging](concepts/AIBubbleHedging.md) — Portfolio-response frame for suspected AI overvaluation using bonds, gold, defensive equities, and buy-and-hold discipline.
+- [Autocratic Succession](concepts/AutocraticSuccession.md) — Succession problem under personalized long-term rule, added through the Erdogan segment.
+- [Literary Agent Judgment](concepts/LiteraryAgentJudgment.md) — Taste and persistence needed to represent difficult writing before publishers or readers recognize its value.
 - [Recursive Self-Improvement](concepts/RecursiveSelfImprovement.md) — AI self-improvement loop where models help create tasks, data, code, training recipes, verification, and subsequent iterations.
 - [Discovery Model](concepts/DiscoveryModel.md) — AI system aimed at proposing and validating new scientific hypotheses rather than only generating fluent answers.
 - [AI Verification](concepts/AIVerification.md) — Broader verification problem for AI answers, hypotheses, training data, self-improvement loops, and agent actions.

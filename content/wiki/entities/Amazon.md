@@ -2,7 +2,7 @@
 title: "Amazon"
 type: entity
 tags: [company, ai, cloud, investing, media]
-sources: [ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
+sources: [ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]
 last_updated: 2026-07-08
 ---
 
@@ -16,6 +16,8 @@ Amazon appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfan
 
 [[chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]] adds Amazon through AWS-style cloud-region exposure in the Middle East. The episode treats cloud facilities as physical infrastructure that can be pulled into geopolitical conflict, making Amazon relevant to [[DigitalInfrastructureWarRisk]], [[DataCenterPhysicalResilience]], and [[WarAwareDisasterRecovery]]. The source frames specific incident claims as podcast discussion material rather than independently verified reporting.
 
+[[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]] adds Amazon to the [[AIBubbleHedging]] discussion. The episode groups Amazon with [[Alphabet]], [[Meta]], and [[Microsoft]] in a planned $660bn AI-spending figure, making the question of future returns on AI capex central to [[AIEquityValuationRisk]].
+
 ## Connections
 - [[Nvidia]] — supplier whose growth expectations depend on large AI customers.
 - [[Microsoft]] and [[Google]] — peer hyperscalers in the episode's discussion.
@@ -23,3 +25,4 @@ Amazon appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfan
 - [[MelaniaTrump]] and [[PoliticalIdentityPremium]] — EP77's media-contract branch.
 - [[Anthropic]], [[MaaSInfrastructure]], and [[AIInferenceCostStructure]] — cloud-chip binding case added by Vol. 162.
 - [[DigitalInfrastructureWarRisk]], [[DataCenterPhysicalResilience]], and [[WarAwareDisasterRecovery]] — cloud-region continuity risk added by the Keji Luandun data-center episode.
+- [[Alphabet]], [[Meta]], [[Microsoft]], and [[AIBubbleHedging]] — hyperscaler capex cluster added by The Intelligence episode.

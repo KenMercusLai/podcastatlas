@@ -2,7 +2,7 @@
 title: "Asset Correlation"
 type: concept
 tags: [investing, portfolio, correlation]
-sources: [e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc]
+sources: [e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]
 last_updated: 2026-07-08
 ---
 
@@ -12,6 +12,8 @@ Asset correlation is the E158 claim that assets must be studied through their re
 
 This matters because [[EfficientFrontier]] improvement often depends on finding assets that are genuinely different. A portfolio that merely owns many assets with the same pricing driver may look diversified while still falling together when the shared driver reverses.
 
+[[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]] adds the hedge-failure version. Bonds often cushion stock drawdowns, but the episode points to 2022 as a case where inflation pressure made both stocks and bonds fall, which matters for anyone using bonds as an automatic hedge against an AI-equity crash.
+
 ## Key Claims
 - Correlation is not a stable label; it changes when investor flows, macro variables, or dominant stories change.
 - A high-dividend stock can become bond-like if the market starts pricing it mainly through yield comparison.
@@ -19,6 +21,7 @@ This matters because [[EfficientFrontier]] improvement often depends on finding 
 - Value and momentum can become temporarily coupled when many investors trade the same theme, then decouple when the theme weakens.
 - Oil and Treasuries can show unexpected positive correlation when both are linked to demand, inflation pressure, and macro-data expectations.
 - Correlation research is a central blue-ocean area for [[AssetAllocation]], because expected-return research is more widely competed.
+- A hedge relationship can fail when the shock changes from growth fear to inflation, rates, or liquidity stress.
 
 ## Connections
 - [[EfficientFrontier]] — correlation is the main way to reduce portfolio volatility.
@@ -26,3 +29,4 @@ This matters because [[EfficientFrontier]] improvement often depends on finding 
 - [[DefensiveDividendAssets]] — example of income assets becoming rate-sensitive.
 - [[TreasuryDurationRisk]], [[USTreasury]], and [[FederalReserve]] — rate and bond variables that can reprice other assets.
 - [[HongKongMarketStructure]] — adjacent source where market flows and marginal buyers also change asset behavior.
+- [[AIBubbleHedging]] and [[TreasuryDurationRisk]] — source case where bond-stock correlation determines whether a hedge works.

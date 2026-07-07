@@ -2,7 +2,7 @@
 title: "Defensive Dividend Assets"
 type: concept
 tags: [investing, dividends, allocation, risk]
-sources: [ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf]
+sources: [ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]
 last_updated: 2026-07-08
 ---
 
@@ -16,6 +16,8 @@ Defensive dividend assets are the episode's waiting-position category for invest
 
 [[e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf]] adds the [[ValueInvesting]] and [[DividendDiscountModel]] version: dividend strategy is a subset of broader business valuation, and the investor should care about implicit return, payout durability, ROE pressure, policy constraints, and entry price rather than simply maximizing current yield.
 
+[[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]] adds the AI-bubble hedge version. [[JoshRoberts]] cites [[GoldmanSachs]] research suggesting that reliable dividend payers and low-volatility stocks would have worked better than many simple exits during the dot-com cycle, because they preserved equity exposure while reducing reliance on the most speculative growth assumptions.
+
 ## Key Claims
 - Dividend assets should be judged by cash-flow stability, payout durability, leverage, and entry price, not by recent technology-stock returns.
 - The episode warns that dividend and defensive assets will often underperform during aggressive risk-on rallies.
@@ -26,6 +28,7 @@ Defensive dividend assets are the episode's waiting-position category for invest
 - Cash-flow-oriented equity exposure can improve [[AssetAllocation]] only if it raises expected return or reduces portfolio volatility after correlation is considered.
 - Dividend yield should have a lower bound for strategy fit, but a higher yield is not automatically better if it signals declining business value or payout risk.
 - Bank dividends need ROE, capital, funding-cost, policy, and nominal-growth analysis before they can be treated as defensive.
+- Defensive equity baskets can be a bubble hedge when investors cannot or should not abandon equity exposure entirely.
 
 ## Connections
 - [[IndexReentryDiscipline]] — dividend/cash-flow assets can be a bridge while waiting for index entry prices.
@@ -35,3 +38,4 @@ Defensive dividend assets are the episode's waiting-position category for invest
 - [[HongKongMarketStructure]] and [[HongKongStockConnect]] — market-structure and southbound-capital context for high-dividend Hong Kong assets.
 - [[FreeCashFlowIndexing]] and [[EfficientFrontier]] — E158's cash-flow and portfolio-construction extension.
 - [[DividendDiscountModel]], [[ReturnOnEquityAnalysis]], and [[ValueInvesting]] — E160's cash-distribution and implicit-return extension.
+- [[AIBubbleHedging]] and [[GoldmanSachs]] — The Intelligence episode's reliable-dividend and low-volatility hedge frame.
