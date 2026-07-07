@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-07] ingest | 「1 亿 Token 俱乐部」挤爆了，AI 的燃料不够了：对谈于文渊
+
+Added source page for a Shizilukou Crossing episode on Yu Wenyuan, Aliyun Bailian, AI token growth, MaaS infrastructure, GPU scheduling, confidential inference, AI coding boundaries, domestic compute supply, and AI as utility-like infrastructure. Created supporting pages for Yu Wenyuan, Aliyun Bailian, Pingtouge, and MaaS Infrastructure; updated index, overview, Alibaba, Qwen, Shizilukou Crossing, Open Cloud, Claude Code, AI inference cost structure, agentic economy, AI coding verification, AI engineering thinking, and vibe coding pages.
+
 ## [2026-07-07] ingest | EP28 百年金融诈骗史：阶级跨越与锒铛入狱的距离
 
 Added source page for a YiLaoYongYi episode on financial-fraud history, Ponzi schemes, advance-fee fraud, Jordan Belfort and Stratton Oakmont, Bernie Madoff, pig-butchering scams, fake investment platforms, gambling/lottery platform risk, and AI impersonation fraud. Created supporting pages for Charles Ponzi, Jordan Belfort, Stratton Oakmont, Bernie Madoff, Nasdaq, Ponzi Scheme, Advance-Fee Fraud, Penny Stock Boiler Room Fraud, Social Engineering Fraud, Pig Butchering Scam, Lottery Gambling Platform Fraud, and AI Impersonation Fraud Risk; updated overview, index, YiLaoYongYi, Jim Simons, investment fraud red flags, fake investment platform risk, investment risk management, investor education, behavioral investing biases, and stock tip group risk pages.
@@ -483,6 +487,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-07] ingest | EP127 从 Skills 到自动化工作流，论 Agent 如何接管真实生产力 ⚙️
 
 Added source page for a YingdiHaike episode on Skills selection, coding-agent verification, Codex and Claude Code workflows, scheduled routine automation, personal knowledge assets, and permission responsibility. Created supporting pages for Routine Agent Automation, Playwright, and 微信读书; updated overview, index, YingdiHaike, Podwise, Codex, Claude Code, Open Cloud, Superpowers, AI Skills, Agentic Workflow, Agent Harness, AI Coding Verification, AI Engineering Thinking, Context Engineering, Agent Permission Boundaries, Agent Self-Evolution, Data Portability And Sustainable Tools, Human Judgment Under AI, and AI Investment Research.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-07] lint | Wiki health check
 

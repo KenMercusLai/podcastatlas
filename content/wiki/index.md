@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [「1 亿 Token 俱乐部」挤爆了，AI 的燃料不够了：对谈于文渊](sources/1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm.md) — Podcast episode on Aliyun Bailian, Yu Wenyuan, token growth, MaaS infrastructure, GPU scheduling, confidential inference, AI coding boundaries, and compute supply constraints.
 - [EP127 从 Skills 到自动化工作流，论 Agent 如何接管真实生产力 ⚙️](sources/ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz.md) — Podcast episode on Skills selection, coding-agent verification, Codex/Claude Code workflows, scheduled agent automation, personal knowledge assets, and permission responsibility.
 - [STARR Restaurants: Stephen Starr. How a Non-Foodie Built Thriving Restaurants on Gut Instinct](sources/starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4.md) — Podcast episode on Stephen Starr, STARR Restaurants, restaurant experience design, concept-led hospitality, operational fragility, site fit, and restaurant capital intensity.
 - [“AGI 来了？我用了一周，头皮发麻“｜对谈张昊然：Moxt 联合创始人](sources/agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq.md) — Podcast episode on Zhang Haoran, Moxt, AI-native workspaces, organizational context, AI coworkers, generated work interfaces, and human-amplifying AI organization design.
@@ -88,6 +89,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Yu Wenyuan](entities/YuWenyuan.md) — Aliyun Bailian technical leader explaining token growth, MaaS infrastructure, enterprise model serving, and AI coding boundaries.
+- [Aliyun Bailian](entities/AliyunBailian.md) — Alibaba Cloud MaaS platform discussed through model APIs, GPU scheduling, confidential inference, and compute-to-token conversion.
+- [Pingtouge](entities/Pingtouge.md) — Alibaba chip team referenced as part of Bailian's end-to-end model-serving infrastructure stack.
 - [Stephen Starr](entities/StephenStarr.md) — Restaurant founder who built STARR Restaurants by applying entertainment-production instincts to dining experiences.
 - [STARR Restaurants](entities/STARRRestaurants.md) — Hospitality group built around concept-driven restaurants, theatrical guest experience, and high-fragility restaurant operations.
 - [The Continental](entities/TheContinental.md) — Stephen Starr's breakthrough Philadelphia martini-bar restaurant, showing site timing, nightlife energy, and customer pull.
@@ -516,6 +520,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [MaaS Infrastructure](concepts/MaaSInfrastructure.md) — Model-as-a-service infrastructure layer that converts model capability and compute capacity into reliable, secure, low-latency tokens.
 - [Restaurant Experience Design](concepts/RestaurantExperienceDesign.md) — Hospitality pattern where food, room design, lighting, music, air, service, and crowd energy form the product.
 - [Concept Led Hospitality](concepts/ConceptLedHospitality.md) — Restaurant-building pattern where each venue starts from a differentiated guest promise, mood, location fit, and operating format.
 - [Restaurant Operational Fragility](concepts/RestaurantOperationalFragility.md) — Restaurant risk where small failures in labor, food, service, room comfort, or liquidity can damage reputation and cash flow.

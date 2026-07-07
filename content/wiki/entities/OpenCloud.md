@@ -2,7 +2,7 @@
 title: "Open Cloud"
 type: entity
 tags: [agent, ecosystem, china]
-sources: [agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]
+sources: [agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm]
 last_updated: 2026-07-07
 ---
 
@@ -15,6 +15,8 @@ Open Cloud is discussed in [[agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenm
 [[ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax]] mentions Open Cloud as an installation path for [[Podwise]] CLI/Skills. That gives Open Cloud another role as a distribution surface for reusable [[AISkills]] and [[AgentOptimizedCLI]] tools, not only as a standalone agent-wave event.
 
 [[ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]] mentions Open Cloud as one surface, alongside [[Codex]] Automation-like systems, where skills can run on recurring schedules. This reinforces Open Cloud's role as a runtime for [[RoutineAgentAutomation]], not only a place to install skills manually.
+
+[[1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm]] mentions Open Cloud-style agent usage as one contributor to production token demand. In that source, Open Cloud is less a product deep dive and more evidence that agent runtimes can push [[AIInferenceCostStructure]] and [[MaaSInfrastructure]] from pricing concerns into capacity planning.
 
 ## Episode Notes
 - The guests treat Open Cloud as important for making investors, founders, and users think differently about agents.
@@ -30,3 +32,4 @@ Open Cloud is discussed in [[agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenm
 - [[HermesAgent]] and [[PersistentAgentMemory]] — memory-focused response to the early OpenCloud/OpenClaw pain point.
 - [[Podwise]] and [[AgentOptimizedCLI]] — CLI/Skills installation case added by EP124.
 - [[RoutineAgentAutomation]] — scheduled skill-running use case added by EP127.
+- [[AliyunBailian]], [[AIInferenceCostStructure]], and [[MaaSInfrastructure]] — serving-capacity pressure added by the Bailian source.
