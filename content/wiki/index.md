@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E144.交易的艺术：不预测，统计优势，分散红利，随机波动](sources/e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0.md) — 面基 episode on no-prediction trend trading, positive-expectation systems, diversification alpha, random market narratives, and price-as-probability thinking.
 - [Stock options: how to hedge an AI bubble](sources/stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5.md) — The Intelligence episode on AI bubble hedging, hyperscaler capex, bonds/gold/defensive equity hedges, Erdogan succession, and Georges Beauchard's literary-agent judgment.
 - [E225｜SaaS业数千亿市值蒸发：AI如何变革组织架构？](sources/e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou.md) — 硅谷101 episode on SaaS seat-pricing pressure, Bairong Intelligence, result-priced AI labor, AI staffing/BPO, enterprise agent stores, and silicon-carbon organization design.
 - [E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地](sources/e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di.md) — 硅谷101 episode with Apodex chief scientists on recursive self-improvement, Deep Research, coding as a training substrate, AI verification, discovery models, and research taste.
@@ -131,6 +132,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Polymarket](entities/Polymarket.md) — Prediction-market example used by E144 to explain price-as-probability thinking and residual risk.
 - [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for the AI-bubble hedging, Erdogan succession, and Georges Beauchard episode.
 - [Rosie Bloor](entities/RosieBloor.md) — Host introducing the episode's finance, Turkey politics, and literary obituary segments.
 - [Josh Roberts](entities/JoshRoberts.md) — Capital-markets correspondent explaining AI bubble hedging, hyperscaler capex, and defensive portfolio choices.
@@ -731,6 +733,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, and Louis Hong episodes.
 
 ## Concepts
+- [No-Prediction Trading](concepts/NoPredictionTrading.md) — Trading frame where signals are repeatable positive-expectation conditions rather than forecasts of the next trade.
+- [Diversification Alpha](concepts/DiversificationAlpha.md) — Portfolio idea that broad exposure, capped downside, uncapped upside, and winner weighting can be return sources.
+- [Random Market Narratives](concepts/RandomMarketNarratives.md) — Warning that convincing market stories can be generated after random or contingent price paths.
 - [AI Bubble Hedging](concepts/AIBubbleHedging.md) — Portfolio-response frame for suspected AI overvaluation using bonds, gold, defensive equities, and buy-and-hold discipline.
 - [Autocratic Succession](concepts/AutocraticSuccession.md) — Succession problem under personalized long-term rule, added through the Erdogan segment.
 - [Literary Agent Judgment](concepts/LiteraryAgentJudgment.md) — Taste and persistence needed to represent difficult writing before publishers or readers recognize its value.

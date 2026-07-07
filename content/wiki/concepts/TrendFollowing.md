@@ -2,13 +2,15 @@
 title: "Trend Following"
 type: concept
 tags: [investing, trading, risk]
-sources: [ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg]
-last_updated: 2026-07-07
+sources: [ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0]
+last_updated: 2026-07-08
 ---
 
 # Trend Following
 
 Trend following is the trading discipline emphasized in [[ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg]] through the fictionalized [[JesseLivermore]] conversation. The source frames it as acting after the market confirms direction rather than predicting exact bottoms or tops: use major indexes, moving averages, prior highs, volume, leadership stocks, and higher timeframes to decide whether the market is supporting the trade.
+
+[[e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0]] adds the statistical version through [[NoPredictionTrading]]. A trend signal is treated as an observable market state, not a forecast that the next trade will win; the strategy depends on many repeated entries, payoff asymmetry, broad scanning, [[PositionSizing]], and disciplined exits.
 
 ## Key Claims
 - Trend following treats price action as evidence, not as a guarantee; the trader still needs position sizing and exit rules.
@@ -17,6 +19,8 @@ Trend following is the trading discipline emphasized in [[ep76-chuanyue-1940-wo-
 - The method favors leading stocks that are stronger than their sector and market, rather than laggards that only look cheap.
 - Higher timeframes such as weekly or monthly charts can reduce emotional reaction to daily or intraday noise.
 - The method depends on [[StopLossDiscipline]] and [[Pyramiding]]; trend following without exits can turn into denial.
+- E144 separates signal from prediction: "hotter" market conditions describe participation and strength, not single-trade certainty.
+- Broad scanning and small entries let trend following behave like a repeated positive-expectation system rather than a few heroic calls.
 
 ## Connections
 - [[JesseLivermore]] — main historical teaching case.
@@ -24,3 +28,4 @@ Trend following is the trading discipline emphasized in [[ep76-chuanyue-1940-wo-
 - [[AIEquityValuationRisk]] and [[SpeculativeBubblePsychology]] — context where trend discipline is contrasted with AI-boom narratives.
 - [[InvestmentRiskManagement]], [[StopLossDiscipline]], [[Pyramiding]], and [[AveragingDown]] — supporting rule cluster.
 - [[MarketRegimeShift]] — trend signals can change when liquidity, policy, or market structure changes.
+- [[NoPredictionTrading]], [[DiversificationAlpha]], and [[RandomMarketNarratives]] — E144's statistical, diversification, and narrative-risk extensions.

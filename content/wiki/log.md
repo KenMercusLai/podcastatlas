@@ -871,3 +871,11 @@ Added source page for a The Intelligence episode on AI bubble hedging, hyperscal
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | E144.交易的艺术：不预测，统计优势，分散红利，随机波动
+
+Added source page for a 面基 episode on no-prediction trend trading, statistical edge, win-rate/payoff-ratio thinking, diversification alpha, random market narratives, Polymarket price-as-probability, and small-probe validation. Created pages for Polymarket, No-Prediction Trading, Diversification Alpha, and Random Market Narratives; updated overview, index, 面基, Trend Following, Investment Edge, Position Sizing, Kelly Criterion, Quantitative Investing, Passive Investing, Asset Allocation, Market Efficiency, Quantitative Overfitting, Behavioral Investing Biases, and Investment Risk Management. No direct contradiction found; the source reinforces prior Kelly and trend-following material while clarifying that a signal is not a forecast.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint after health passed. Deterministic and graph-aware checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, two fragile graph bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. No lint report file was saved.

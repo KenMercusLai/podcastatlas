@@ -2,7 +2,7 @@
 title: "Passive Investing"
 type: concept
 tags: [investing, index-funds]
-sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy]
+sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0]
 last_updated: 2026-07-08
 ---
 
@@ -18,6 +18,8 @@ Passive investing is the episode's main recommendation for ordinary investors wh
 
 [[e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy]] adds the Hong Kong exception case. It argues that some Hong Kong ETF products are better understood as volatility and elasticity tools than as full passive substitutes for broad, diversified long-term exposure because [[HongKongMarketStructure]] has thinner ETF coverage, more segmented liquidity, and sharper drawdown paths.
 
+[[e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0]] adds the [[DiversificationAlpha]] argument. Its random-index thought experiment suggests that broad exposure can benefit from the combination of capped downside, uncapped upside, and index weights that let emergent winners become larger parts of the basket.
+
 ## Key Claims
 - For many investors, broad index funds may offer a better balance of return, effort, cost, and emotional burden than active trading.
 - Dollar-cost averaging can automate discipline and reduce the temptation to time markets.
@@ -30,6 +32,7 @@ Passive investing is the episode's main recommendation for ordinary investors wh
 - A simple stock/bond passive base can be a useful product anchor, but it should still be tested against dynamic [[EfficientFrontier]] and correlation changes.
 - Low valuation can improve payoff odds, but historical index distributions do not guarantee future returns.
 - In Hong Kong, ETF access can be useful but does not remove the need to ask whether the index offers durable beta, tradable volatility, or incomplete exposure.
+- E144 adds that index-like exposure can be a mechanical way to stay exposed to winners that were not identifiable in advance.
 
 ## Connections
 - [[InvestmentRiskManagement]] — practical reason for favoring broad, automated exposure.
@@ -40,3 +43,4 @@ Passive investing is the episode's main recommendation for ordinary investors wh
 - [[InvestmentEdge]], [[CompoundingGrowthFormula]], and [[PositionSizing]] — E153's explanation of why index exposure differs from active edge-seeking.
 - [[AssetAllocation]], [[SixtyFortyPortfolio]], and [[FreeCashFlowIndexing]] — E158's portfolio-construction and factor-indexing extension.
 - [[HangSengTechIndex]] and [[HongKongMarketStructure]] — E159's warning that Hong Kong ETFs may function more as tactical beta tools than core passive holdings.
+- [[DiversificationAlpha]] and [[NoPredictionTrading]] — E144's reason broad exposure can reduce dependence on winner prediction.
