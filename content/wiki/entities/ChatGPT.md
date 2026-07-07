@@ -2,7 +2,7 @@
 title: "ChatGPT"
 type: entity
 tags: [ai-tool, search, assistant]
-sources: [ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]
+sources: [ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc]
 last_updated: 2026-07-07
 ---
 
@@ -16,6 +16,8 @@ ChatGPT appears in [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]] as
 
 [[biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]] adds ChatGPT through two reflection points. First, ChatGPT 4.5 is used as a prompt for questioning [[FrontierModelScaling]] and whether bigger models still feel categorically new. Second, [[WuTao]] asks ChatGPT to place itself within stages from [[ABriefHistoryOfIntelligence]], and the source treats the answer as interesting but not proof of genuine mentalizing.
 
+[[ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc]] adds a product-design workflow use case: [[Daqi]] uses ChatGPT for early discussion, idea completion, and user-story exploration, while still treating final interface flow, spacing, type, and visual judgment as design work.
+
 ## Connections
 - [[OpenAI]] - company associated with ChatGPT in the broader AI ecosystem.
 - [[PeakAI]] - product that monitors brand visibility in ChatGPT and similar tools.
@@ -24,3 +26,4 @@ ChatGPT appears in [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]] as
 - [[AIInvestmentResearch]] and [[FinancialAIAgents]] - finance-oriented use cases where explanation must be separated from investment decision-making.
 - [[Gemini]], [[HumanAgentCollaboration]], and [[ProactiveAgents]] - conversation and agent-product limitations discussed in Vol. 166.
 - [[ABriefHistoryOfIntelligence]], [[WorldModels]], and [[FrontierModelScaling]] - model self-description and scaling questions added by Neihe Konghuang.
+- [[Daqi]], [[BusinessFluentDesign]], and [[DesignLedGrowth]] - design-workflow use case added by EP87.

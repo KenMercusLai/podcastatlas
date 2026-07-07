@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP87 对话独立设计师大琪：通过设计帮助产品做好增长](sources/ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc.md) — Podcast episode on Daqi, Product Roast, landing-page conversion, business-fluent design, design-led growth, cross-cultural product design, and early product validation.
 - [Build-A-Bear: Maxine Clark. A Former Shoe Executive Launches a Stuffed Animal Empire](sources/build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88.md) — Podcast episode on Maxine Clark, Build-A-Bear, experiential retail, customer co-creation, mall expansion, site selection, concept protection, and founder succession.
 - [20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会](sources/20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto.md) — Podcast episode on OpenClaw's virality, IM entry points, local execution, memory, skills, feedback loops, and consumer/enterprise agent opportunities.
 - [Advice Line with Shazi Visram of Happy Family Organics](sources/advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86.md) — Podcast episode on Shazi Visram, Happy Family Organics, Healthy Baby, Freit Barefoot, Sprinkle Bites, Plantamica, proof reuse, AI discovery, and private-label tradeoffs.
@@ -65,6 +66,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [大琪](entities/Daqi.md) — Independent designer connecting Alibaba, Lazada, TikTok, Product Roast, landing-page conversion, and design-led growth.
+- [Lazada](entities/Lazada.md) — Southeast Asian ecommerce company used through Daqi's design-team experience and cross-cultural product-design lessons.
+- [TikTok](entities/TikTok.md) — Singapore-based product-design context in Daqi's career, linked to internationalization and cross-cultural product design.
 - [Maxine Clark](entities/MaxineClark.md) — Build-A-Bear founder and former retail executive connecting customer empathy, child-centered design, mall retail, and succession.
 - [Build-A-Bear](entities/BuildABear.md) — Make-your-own stuffed animal retailer built around customer co-creation, mall expansion, brand ritual, and experiential retail.
 - [May Department Stores](entities/MayDepartmentStores.md) — Retail company where Maxine Clark developed merchandising, operations, and executive experience before Build-A-Bear.
@@ -122,7 +126,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alex Berman](entities/AlexBerman.md) — LinkedIn influencer partner associated with Tapio's distribution strategy.
 - [Alan Newman](entities/AlanNewman.md) — Seventh Generation co-founder whose founder conflict with Jeffrey Hollender is revisited in the Advice Line context.
 - [Aleph Alpha](entities/AlephAlpha.md) — German AI company referenced as part of the episode's discussion of European AI visibility and constraints.
-- [Alibaba](entities/Alibaba.md) — Large technology company discussed through Qwen, open source, organizational order, and talent management.
+- [Alibaba](entities/Alibaba.md) — Large technology company discussed through Qwen, open source, organizational order, talent management, and Daqi's early product-design career context.
 - [Amazon](entities/Amazon.md) — Cloud and AI infrastructure buyer discussed through Nvidia demand and hyperscaler capex assumptions.
 - [Android](entities/Android.md) — Google-backed open smartphone operating system that became the non-Apple ecosystem after iPhone reset handset competition.
 - [Anthropic](entities/Anthropic.md) — AI company discussed alongside OpenAI in the episode's treatment of frontier models, agent tools, and enterprise deployment.
@@ -284,7 +288,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Peter Burns](entities/PeterBurns.md) — Experienced food-company operator who joined Justin's Nut Butter and eventually became CEO.
 - [Phil Holstead](entities/PhilHolstead.md) — Red Truck Orchards founder discussing cherry vinegar messaging, sampling, and repeat purchase.
 - [Peter Lynch](entities/PeterLynch.md) — Fundamental investor used as a comparison point against Jim Simons's quantitative approach.
-- [Podwise](entities/Podwise.md) — AI podcast-learning tool discussed through CLI, Skills, agent workflows, and knowledge-management export.
+- [Podwise](entities/Podwise.md) — AI podcast-learning tool discussed through CLI, Skills, agent workflows, knowledge-management export, and recurring YingdiHaike sponsorship mentions.
 - [原则科技](entities/PrincipleTech.md) — Startup context for XiaoSun's earlier independent-developer and creator-tool work.
 - [QQ](entities/QQ.md) — Tencent messaging product used as the historical comparison for free-core, paid-membership internet services.
 - [QuickStone](entities/QuickStone.md) — Investment firm connected to Yihao's proactive AI and agent-infrastructure thesis around AirJelly.
@@ -367,7 +371,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yu Yang](entities/YuYang.md) — Financial-company technology leader discussing compliance-constrained financial AI agents and investing companionship.
 - [Yueban Dongli](entities/YuebanDongli.md) — Robotics company founded by Shibo to build the Xiaoban companion robot.
 - [Yuanbao](entities/Yuanbao.md) — Tencent AI assistant discussed as a domestic alternative to Doubao.
-- [硬地骇客](entities/YingdiHaike.md) — Podcast/show context for AI coding markets, Podwise CLI/Skills, ASO, founder-life, and AI game/social commercialization episodes.
+- [硬地骇客](entities/YingdiHaike.md) — Podcast/show context for AI coding markets, Podwise CLI/Skills, ASO, design-led growth, founder-life, and AI game/social commercialization episodes.
 - [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for episodes on investing, finance career risk, career-entry anxiety, upward management, creator work, aviation work, banking, and global market turmoil.
 - [助助](entities/Zhuzhu.md) — Xiaohongshu local-lifestyle creator explaining ordinary creator monetization, local store reviews, and lifestyle freedom.
 - [Youyou Agent](entities/YouyouAgent.md) — Digital-life agent experiment discussed as an early agent-native project.
@@ -383,6 +387,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Product Roast](concepts/ProductRoast.md) — Daqi's public landing-page review practice connecting design critique to product value, CTA clarity, and conversion.
+- [Landing Page Conversion](concepts/LandingPageConversion.md) — Web-product conversion surface where value proposition, scenario, trust, and CTA turn attention into action.
+- [Business Fluent Design](concepts/BusinessFluentDesign.md) — Design posture that speaks in goals, users, KPI, product assumptions, and business tradeoffs rather than only visual preference.
+- [Design Led Growth](concepts/DesignLedGrowth.md) — Product-growth frame where design clarifies value, trust, activation, and conversion without replacing user validation.
+- [Cross-Cultural Product Design](concepts/CrossCulturalProductDesign.md) — Design-side localization practice covering colors, language length, date formats, density, trust cues, and market fit.
 - [Experiential Retail](concepts/ExperientialRetail.md) — Retail strategy where the store visit and customer ritual are part of the product's value.
 - [Customer Co-Creation](concepts/CustomerCoCreation.md) — Product-design pattern where customers help make, personalize, or author the final product.
 - [Mall Based Retail Expansion](concepts/MallBasedRetailExpansion.md) — Store-growth pattern shaped by mall traffic, landlord relationships, tenant allowances, and lease terms.
@@ -394,7 +403,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Proof Point Reuse](concepts/ProofPointReuse.md) — Marketing practice of turning PR, UGC, validation, testimonials, reorders, and science into repeated proof across channels.
 - [Private Label Brand Risk](concepts/PrivateLabelBrandRisk.md) — CPG risk where retailer-owned volume can weaken margin, brand memory, and category ownership.
 - [AI Startup Unit Economics](concepts/AIStartupUnitEconomics.md) — AI founder checklist tying demand to marginal model cost, payment tolerance, market ceiling, and survival runway.
-- [Cross-Cultural User Research](concepts/CrossCulturalUserResearch.md) — Product research practice for studying language, culture, identity, and payment differences across markets.
+- [Cross-Cultural User Research](concepts/CrossCulturalUserResearch.md) — Product research practice for studying language, culture, identity, payment, and design-execution differences across markets.
 - [Middle East Social Game Growth](concepts/MiddleEastSocialGameGrowth.md) — Localized game-social growth pattern combining atmosphere supply, high-value users, anonymity, acquisition, and paid gifts.
 - [Low Price Brand Perception](concepts/LowPriceBrandPerception.md) — Problem of making a very inexpensive product feel credible, attractive, and branded rather than cheap.
 - [Retail Incrementality](concepts/RetailIncrementality.md) — Proof that a product grows category sales or creates impulse demand instead of only cannibalizing existing shelf sales.
@@ -481,7 +490,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cross-Border Fund Transfer Risk](concepts/CrossBorderFundTransferRisk.md) — Compliance, foreign-exchange, data, and account-safety risk created when funds move across jurisdictions and counterparties.
 - [Creation As Consumption](concepts/CreationAsConsumption.md) — Product-design idea that making with AI can itself be an entertainment experience.
 - [Customer Concentration Risk](concepts/CustomerConcentrationRisk.md) — SaaS risk where one large customer can distort roadmap, mission, or validation signals.
-- [Customer Pull](concepts/CustomerPull.md) — Demand signal where users return, follow up, refer others, or keep paying without constant founder pushing.
+- [Customer Pull](concepts/CustomerPull.md) — Demand signal where users return, follow up, refer others, pay, or act after clearer product and landing-page communication.
 - [Cryptocurrency Market Structure](concepts/CryptocurrencyMarketStructure.md) — Crypto-market features such as 24-hour trading, retail flows, and exchange fragmentation that create quant opportunities and risk.
 - [Currency Risk](concepts/CurrencyRisk.md) — Risk that exchange-rate moves change an investor's final return after converting back to their home currency.
 - [Data Portability And Sustainable Tools](concepts/DataPortabilityAndSustainableTools.md) — Product trust pattern based on exportability, local data, maintenance, and lower server dependence.
@@ -496,7 +505,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Digital Nomad Community Building](concepts/DigitalNomadCommunityBuilding.md) — Turning remote-work and travel scenes into recurring relationships, events, services, and local community infrastructure.
 - [Digital Employees](concepts/DigitalEmployees.md) — Enterprise AI systems treated as labor that must be onboarded, trained, connected, and managed.
 - [Dirty Work](concepts/DirtyWork.md) — Low-status or repetitive work that can still reveal workflow logic, responsibility boundaries, and improvement opportunities.
-- [Distribution Led Product Building](concepts/DistributionLedProductBuilding.md) — Company-building pattern where product selection and growth are shaped by channels, marketplaces, stores, or acquisition systems.
+- [Distribution Led Product Building](concepts/DistributionLedProductBuilding.md) — Company-building pattern where product selection and growth are shaped by channels, marketplaces, stores, acquisition systems, and conversion surfaces.
 - [Domain Expert Alignment](concepts/DomainExpertAlignment.md) — AI development pattern where researchers and engineers work with real field experts in domains such as coding, finance, safety, and law.
 - [Embodied AI](concepts/EmbodiedAI.md) — Robotics and physical AI direction discussed as both bubbly and strategically important.
 - [Emotional Interaction Models](concepts/EmotionalInteractionModels.md) — AI systems that decide social and emotional responses across speech, movement, memory, and relationship state.
@@ -504,7 +513,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Everything Agent](concepts/EverythingAgent.md) — Investment thesis that agents will enter many white-collar workflows and need supporting infrastructure.
 - [Family Protection Insurance Planning](concepts/FamilyProtectionInsurancePlanning.md) — Household insurance planning based on income earners, dependents, debts, and finite responsibility windows.
 - [Family World Simulator](concepts/FamilyWorldSimulator.md) — Simulated household interaction environment for training and testing companion robot behavior.
-- [Fast Product Validation](concepts/FastProductValidation.md) — Startup process for testing product demand through rapid experiments, revenue, retention, and recurring use.
+- [Fast Product Validation](concepts/FastProductValidation.md) — Startup process for testing product demand through rapid experiments, revenue, retention, recurring use, and design changes measured against user behavior.
 - [Feature Phone Cultural Memory](concepts/FeaturePhoneCulturalMemory.md) — User-memory layer around pagers, SMS, Nokia tones, ringtone entry, removable batteries, universal chargers, and shanzhai features.
 - [Finance Career Portability](concepts/FinanceCareerPortability.md) — Transfer of finance-industry communication, sales, customer, risk, and service skills into other roles, institutions, or sectors.
 - [Financial AI Agents](concepts/FinancialAIAgents.md) — Compliance-bounded financial AI systems that filter information, explain context, and provide companionship without direct investment advice.
@@ -579,7 +588,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Post-Acquisition Founder Identity](concepts/PostAcquisitionFounderIdentity.md) — Personal and governance problem of what a founder becomes after selling a company, especially when the brand carries founder values.
 - [Pre-Product Selling](concepts/PreProductSelling.md) — Selling-first validation pattern using conversations, LOIs, trials, and prototypes before full production code exists.
 - [Proactive Agents](concepts/ProactiveAgents.md) — Agents that use context and memory to help before the user fully specifies a task, while still requiring permission and review design.
-- [Product Led Willingness To Pay](concepts/ProductLedWillingnessToPay.md) — Claim that users pay when product value is clear, differentiated, stable, and trustworthy.
+- [Product Led Willingness To Pay](concepts/ProductLedWillingnessToPay.md) — Claim that users pay when product value is clear, differentiated, stable, trustworthy, and communicated in a concrete user scenario.
 - [Promotion Expectation Management](concepts/PromotionExpectationManagement.md) — Making advancement goals, evidence, timing, and manager sponsorship explicit before formal review windows.
 - [Purpose Driven Business](concepts/PurposeDrivenBusiness.md) — Mission-led company-building where social or environmental purpose must still improve customer value and business performance.
 - [Pyramiding](concepts/Pyramiding.md) — Position-sizing rule that adds smaller increments only after an existing trade is profitable and trend-confirmed.

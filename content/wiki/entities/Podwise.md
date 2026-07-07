@@ -2,7 +2,7 @@
 title: "Podwise"
 type: entity
 tags: [ai-tool, podcast, knowledge-management]
-sources: [ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug]
+sources: [ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc]
 last_updated: 2026-07-07
 ---
 
@@ -15,6 +15,8 @@ The source focuses on Podwise's CLI and Skills release. The product team did not
 [[ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2]] mentions Podwise as sponsor and as the listener-side counterpart to [[CreateWise]], which aimed at podcast creators and broader AI creation workflows. This gives Podwise another role in the wiki: a reference point for the podcast-tool market around listening, production, and knowledge reuse.
 
 [[ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug]] also mentions Podwise as sponsor, emphasizing transcription, extraction, summarization, and analysis as listener-side ways to reuse podcast content.
+
+[[ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc]] again mentions Podwise as sponsor, reinforcing the product's role as a recurring learning and knowledge-reuse tool around [[YingdiHaike]] episodes.
 
 ## Key Claims
 

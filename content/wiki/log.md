@@ -291,3 +291,23 @@ Added source page for a Shizilukou Crossing episode on OpenClaw's virality, IM e
 ## [2026-07-07] ingest | Build-A-Bear: Maxine Clark. A Former Shoe Executive Launches a Stuffed Animal Empire
 
 Added source page for a How I Built This episode on Maxine Clark, Build-A-Bear, child-centered retail, customer co-creation, mall expansion, retail site selection, concept protection, Barney Ebsworth's investment, The Bear Factory acquisition, financial-crisis retrenchment, and Sharon Price John's CEO succession. Created supporting pages for the main people, company, retail organizations, investor/legal/acquisition context, and concepts around experiential retail, customer co-creation, mall-based retail expansion, retail site selection, retail concept protection, and founder succession; updated overview, index, How I Built This, Guy Raz, distribution-led product building, customer pull, product-led willingness to pay, founder role transition, and stage-appropriate hiring pages.
+
+## [2026-07-07] ingest | EP87 对话独立设计师大琪：通过设计帮助产品做好增长
+
+Added source page for a YingdiHaike episode on Daqi, Product Roast, landing-page conversion, business-fluent design, design-led growth, cross-cultural product design, AI design tools, and why independent builders should explain user value before polishing visual detail. Created supporting pages for Daqi, Lazada, TikTok, Product Roast, Landing Page Conversion, Business Fluent Design, Design Led Growth, and Cross-Cultural Product Design; updated overview, index, YingdiHaike, Podwise, Alibaba, ChatGPT, Cross-Cultural User Research, Fast Product Validation, Customer Pull, Distribution Led Product Building, and Product Led Willingness To Pay pages.
+
+## [2026-07-07] graph | Knowledge graph rebuilt
+
+636 nodes, 5528 edges (5528 extracted, 0 inferred).
+
+## [2026-07-07] report | Graph health report generated
+
+636 nodes analyzed.
+
+## [2026-07-07] graph | Knowledge graph rebuilt
+
+636 nodes, 5528 edges (5528 extracted, 0 inferred).
+
+## [2026-07-07] report | Graph health report generated
+
+636 nodes analyzed.
