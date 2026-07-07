@@ -423,3 +423,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-07] ingest | EP58 业绩平平，也要认真"摸鱼"
+
+Added source page for a YiLaoYongYi episode on workplace "摸鱼", finance-industry pressure, bank-role slack, visible busyness, task presentability, boss expectation management, and AI-assisted productivity. Created the Workplace Pacing concept page; updated overview, index, YiLaoYongYi, Magic / 杰克, DeepSeek, Workplace Hidden Rules, Upward Management, Promotion Expectation Management, Financial Career Risk, Bank Organizational Hierarchy, Human Judgment Under AI, and AI Workforce Monitoring pages.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP58 业绩平平，也要认真"摸鱼"](sources/ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c.md) — Podcast episode on workplace "moyu", finance-industry pressure, bank-role slack, task visibility, boss expectation management, and AI-assisted productivity.
 - [EP28 百年金融诈骗史：阶级跨越与锒铛入狱的距离](sources/ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj.md) — Podcast episode on Ponzi schemes, advance-fee fraud, penny-stock boiler rooms, Madoff, pig-butchering scams, fake platforms, gambling draws, and AI impersonation risk.
 - [EP34 当高情商和分寸感缺失，唯有钢铁意志撑场](sources/ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu.md) — Podcast episode on social-signal misreading, communication boundaries, workplace phrasing risk, rumor amplification, and language precision.
 - [EP35 降薪不降质？中产阶级最后的倔强](sources/ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43.md) — Podcast episode on financial-industry pay cuts, middle-class consumption pressure, and preserving life quality through lower-cost choices in coffee, travel, meals, commuting, fitness, watches, and workwear.
@@ -798,6 +799,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vision Language Action Models](concepts/VisionLanguageActionModels.md) — Robot models that connect perception, language, and action but may struggle to cover continuous physical action spaces.
 - [Voice Interaction](concepts/VoiceInteraction.md) — AI interaction mode based on speech and interactive audio experiences.
 - [Workplace Hidden Rules](concepts/WorkplaceHiddenRules.md) — Implicit communication, etiquette, and relationship norms learned inside organizations, from intern etiquette to boss-facing execution.
+- [Workplace Pacing](concepts/WorkplacePacing.md) — Managing work intensity, recovery time, output visibility, and role risk so productivity stays sustainable instead of merely continuous.
 - [World Action Models](concepts/WorldActionModels.md) — Intermediate robot/world-model route using video-rich action-conditioned modeling, treated as useful but incomplete without causality.
 - [World Models](concepts/WorldModels.md) — Models of physical or conceptual environments linked to embodied AI and learning examples.
 - [Xiaohongshu Creator Monetization](concepts/XiaohongshuCreatorMonetization.md) — Platform-specific creator income model combining brand collaboration, barter, affiliate links, stores, and local services.

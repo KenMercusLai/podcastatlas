@@ -2,7 +2,7 @@
 title: "DeepSeek"
 type: entity
 tags: [company, model, open-source-ai]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]
+sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c]
 last_updated: 2026-07-07
 ---
 
@@ -16,6 +16,8 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 
 [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]] adds DeepSeek as a market-repricing catalyst. [[LaoMai]] argues that the important effect is not a simple one-company negative for [[Nvidia]], but a broader investor question: whether other AI companies' heavy spending will produce enough returns and whether Chinese technology assets deserve higher valuation after the model shock.
 
+[[ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c]] adds a practical workplace-use case. [[MagicJack]] uses DeepSeek to review and improve a student's composition, while the hosts use AI transcription, editing, title drafting, meeting notes, and visual-summary tools to argue that AI can create more room for [[WorkplacePacing]] only when people still apply [[HumanJudgmentUnderAI]].
+
 ## Connections
 - [[Qwen]] — compared as another prominent Chinese open-source model effort.
 - [[OpenSourceAIModels]] — broader category for model ecosystem influence.
@@ -24,3 +26,4 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 - [[ProductLedWillingnessToPay]] — substitute quality affects whether users pay.
 - [[AlephAlpha]] and [[EuropeanAIIndustrialConstraints]] — European AI comparison added by the Neihe Konghuang episode.
 - [[AIEquityValuationRisk]], [[Nvidia]], and [[HongKongTechRepricing]] — EP57's market-pricing and China-tech allocation context.
+- [[WorkplacePacing]] and [[HumanJudgmentUnderAI]] — EP58's everyday productivity and final-judgment context.
