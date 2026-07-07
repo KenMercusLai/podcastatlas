@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [UGG: Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company.](sources/ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939.md) — Podcast episode on Brian Smith, UGG, surf-culture positioning, seasonal inventory finance, trademark pressure, channel expansion, and the sale to Deckers.
 - [EP26 想做人上之人，却困在《城中之城》](sources/ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t.md) — Podcast episode using the drama 城中之城 to discuss bank workplace realism, internal audit, due diligence, boss resources, colleague boundaries, and finance-career self-protection.
 - [EP58 业绩平平，也要认真"摸鱼"](sources/ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c.md) — Podcast episode on workplace "moyu", finance-industry pressure, bank-role slack, task visibility, boss expectation management, and AI-assisted productivity.
 - [EP28 百年金融诈骗史：阶级跨越与锒铛入狱的距离](sources/ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj.md) — Podcast episode on Ponzi schemes, advance-fee fraud, penny-stock boiler rooms, Madoff, pig-butchering scams, fake platforms, gambling draws, and AI impersonation risk.
@@ -82,6 +83,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [UGG](entities/UGG.md) — Sheepskin footwear brand built by Brian Smith from surf-culture traction and later scaled globally by Deckers.
+- [Brian Smith](entities/BrianSmith.md) — Australian founder who brought sheepskin boots to the U.S., built UGG, and sold the company to Deckers in 1995.
+- [Deckers](entities/Deckers.md) — Footwear company that acquired UGG and later scaled the brand through fashion, retail, and celebrity positioning.
 - [Charles Ponzi](entities/CharlesPonzi.md) — Historical figure used by EP28 to explain the classic new-investor-pays-old-investor fraud structure.
 - [Jordan Belfort](entities/JordanBelfort.md) — Wolf of Wall Street figure used by EP28 to explain sales scripts, high commissions, and penny-stock boiler room fraud.
 - [Stratton Oakmont](entities/StrattonOakmont.md) — Belfort-linked stock-sales firm used as EP28's case for scripted high-pressure securities selling.
@@ -485,6 +489,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Subculture Led Marketing](concepts/SubcultureLedMarketing.md) — Consumer-brand pattern where authentic early users make a product credible before mass-market positioning works.
+- [Seasonal Inventory Financing](concepts/SeasonalInventoryFinancing.md) — Working-capital problem where seasonal physical-product demand must be financed before sales convert into cash.
 - [Ponzi Scheme](concepts/PonziScheme.md) — Fraud structure where earlier investors are paid with later investor money while payouts are presented as real investment returns.
 - [Advance-Fee Fraud](concepts/AdvanceFeeFraud.md) — Scam pattern where a promised windfall requires the victim to pay fees, transfer costs, taxes, or processing charges first.
 - [Penny Stock Boiler Room Fraud](concepts/PennyStockBoilerRoomFraud.md) — Sales-driven securities fraud using scripts, high commissions, low-priced stocks, and asymmetric seller incentives.

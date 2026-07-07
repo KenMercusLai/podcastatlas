@@ -372,6 +372,10 @@ Added source page for a How I Built This episode on Tobias Lütke, Shopify, Snow
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-07] ingest | UGG: Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company.
+
+Added source page for a How I Built This episode on Brian Smith, UGG, surf-culture positioning, seasonal inventory finance, trademark pressure, ski/snowboarding/hockey expansion, celebrity seeding, the Rush Limbaugh campaign, and the 1995 sale to Deckers. Created supporting pages for UGG, Brian Smith, Deckers, Subculture Led Marketing, and Seasonal Inventory Financing; updated overview, index, How I Built This, Guy Raz, category creation, consumer brand moat, CPG distribution, distribution-led product building, customer pull, willingness to pay, founder cash-flow constraint, founder role transition, and post-acquisition founder identity pages.
+
 ## [2026-07-07] ingest | EP26 想做人上之人，却困在《城中之城》
 
 Added source page for a YiLaoYongYi episode using 城中之城 to discuss bank workplace realism, internal audit, credit due diligence, teller versus customer-manager role boundaries, audit pressure, boss sponsorship, colleague/friend boundaries, and finance-career self-protection. Created supporting pages for 城中之城, Bank Internal Audit, Bank Due Diligence, and Workplace Relationship Boundaries; updated overview, index, YiLaoYongYi, Maidisen, Magic / 杰克, 小黛, and related banking, compliance, career, transfer, promotion, and workplace-hidden-rule pages.
@@ -431,6 +435,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-07] ingest | EP58 业绩平平，也要认真"摸鱼"
 
 Added source page for a YiLaoYongYi episode on workplace "摸鱼", finance-industry pressure, bank-role slack, visible busyness, task presentability, boss expectation management, and AI-assisted productivity. Created the Workplace Pacing concept page; updated overview, index, YiLaoYongYi, Magic / 杰克, DeepSeek, Workplace Hidden Rules, Upward Management, Promotion Expectation Management, Financial Career Risk, Bank Organizational Hierarchy, Human Judgment Under AI, and AI Workforce Monitoring pages.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-07] lint | Wiki health check
 
