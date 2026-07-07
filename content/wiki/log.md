@@ -951,3 +951,11 @@ Added source page for a short NPR/Planet Money public-media funding appeal on th
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Current graph-aware checks found no hub stubs, four fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; in-session semantic review found no unresolved contradiction, noted the resolved FDE naming correction, and flagged corroboration gaps around public-media funding impact, rumor-level AI access/product-roadmap claims, and source-reported assistant economics. No lint report file was saved.
+
+## [2026-07-08] ingest | Indy Johar: Civilizational Optioneering
+
+Added source page for a Long Now talk on systemic degenerative volatility, planetary self-awareness, civilizational optionality, foundational economies, existutions, outcome accelerators, doubt as intelligence, climate adaptation, and bioregional resilience. Created pages for Indy Johar, Dark Matter Labs, Long Now, James Lovelock, Civilizational Optionality, Systemic Degenerative Volatility, Planetary Self-Awareness, Foundational Economies, Existutions, Outcome Accelerators, Bioregional Resilience, Doubt as Intelligence, and Climate Adaptation; updated overview and index. No direct contradiction found; the source extends existing AI, governance, ecology, and resilience material by shifting the focus from capability or continuity toward planetary coordination and option-space preservation.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
