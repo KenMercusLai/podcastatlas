@@ -748,6 +748,10 @@ Added source page for a 面基 episode on dynamic efficient frontier, asset allo
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-08] ingest | Eric Ries: Incorruptible by Design
+
+Added source page for a Long Now talk on Eric Ries's Incorruptible thesis, financial gravity, human-flourishing profit, steward ownership, accountability sinks, trust as a business asset, private regulatory power, and AI alignment governance. Created pages for Incorruptible, Dan Davies, Costco, Vanguard, Patagonia, Zeiss, Novo Nordisk, Long-Term Benefit Trust, Human Flourishing Profit, Steward Ownership, Accountability Sinks, Private Regulatory Power, AI Alignment Governance, and Trust As Business Asset; updated overview, index, Long Now, Eric Ries, Anthropic, OpenAI, AI governance, SaaS trust moat, and related governance concept pages. No direct contradiction found; the source reinforces the earlier Ries governance material while broadening it from startup founder control into long-lived institutional design and AI governance.
+
 ## [2026-07-08] ingest | Advice Line with Ronnen Harary of Spin Master/PAW Patrol
 
 Added source page for a How I Built This Advice Line episode with Ronnen Harary on Spin Master, PAW Patrol, Yearly Co., Island Bee Company, Hive 5, and Wandering Soul Beer. Created supporting pages for Ronnen Harary, Spin Master, PAW Patrol, Yearly Co., Anne Williams, Island Bee Company, Felix Collin, Hive 5, Wandering Soul Beer, Matt Smith, Commodity Price Exposure, Story Led Consumer Branding, Family Business Scaling, and Founder Work Boundaries; updated overview, index, How I Built This, Guy Raz, Channel Focus Experiments, Sustainable Growth Pace, and Founder Identity Diversification.
@@ -975,3 +979,15 @@ Added source page for a Long Now talk on ocean memory, milieu-specific analysis,
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-08] graph | Knowledge graph rebuilt
+
+1395 nodes, 12823 edges (12823 extracted, 0 inferred).
+
+## [2026-07-08] report | Graph health report generated
+
+1395 nodes analyzed.

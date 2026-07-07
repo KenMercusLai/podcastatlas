@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Eric Ries: Incorruptible by Design](sources/eric-ries-incorruptible-by-design-wrgromn5peq.md) — Long Now talk on financial gravity, human-flourishing profit, steward ownership, benefit trusts, private regulatory power, AI alignment governance, and everyday agency.
 - [Melody Jue: Ocean Memory](sources/melody-jue-ocean-memory-wxagwid1oeg.md) — Long Now talk on ocean memory, milieu-specific analysis, underwater chemosensation, ecological memory, multispecies archives, art-science collaboration, and acidification as sensory and memory disruption.
 - [Stefan Sagmeister: Finally, something good.](sources/stefan-sagmeister-finally-something-good-yqqxftsvema.md) — Long Now talk on informed optimism, the optimism gap, short-term news bias, progress data visualization, positive journalism, and design as beautiful public communication.
 - [Indy Johar: Civilizational Optioneering](sources/indy-johar-civilizational-optioneering-tyeyt7r-zfu.md) — Long Now talk on systemic degenerative volatility, planetary self-awareness, civilizational optionality, foundational economies, existutions, outcome accelerators, and bioregional resilience.
@@ -144,6 +145,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Incorruptible](entities/Incorruptible.md) — Eric Ries book arguing that companies need governance, ownership, accountability, and institutional design to resist financial gravity.
+- [Dan Davies](entities/DanDavies.md) — Systems and governance thinker cited through accountability sinks in the Eric Ries Long Now talk.
+- [Costco](entities/Costco.md) — Retail company used by Ries as an outlier institution and private standards-setting example.
+- [Vanguard](entities/Vanguard.md) — Customer-centric financial institution used as proof that unusual governance structures can work in real markets.
+- [Patagonia](entities/Patagonia.md) — Mission-led company referenced as an outlier against inevitable shareholder-first drift.
+- [Zeiss](entities/Zeiss.md) — Long-lived foundation-governed company used as a steward-ownership proof point.
+- [Novo Nordisk](entities/NovoNordisk.md) — Healthcare company used by Ries as a foundation-centered steward-ownership case around insulin and mission durability.
+- [Long-Term Benefit Trust](entities/LongTermBenefitTrust.md) — Anthropic governance structure used as an AI-era benefit-trust example.
 - [Melody Jue](entities/MelodyJue.md) — Long Now speaker and ocean-humanities scholar using ocean memory to rethink media, history, sensing, fieldwork, and nonhuman worlds.
 - [Ocean Memory Project](entities/OceanMemoryProject.md) — Interdisciplinary art-science project asking whether the ocean has memory across ice, microbes, smell, archives, trauma, and sensory translation.
 - [Daniel Cohn](entities/DanielCohn.md) — Artist whose question about ocean memory catalyzes the Ocean Memory Project.
@@ -810,6 +819,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, and Louis Hong episodes.
 
 ## Concepts
+- [Human Flourishing Profit](concepts/HumanFlourishingProfit.md) — Eric Ries's standard for judging a company by human flourishing rather than accounting profit alone.
+- [Steward Ownership](concepts/StewardOwnership.md) — Mission-preserving ownership structure with foundation-like control over a for-profit operating business.
+- [Accountability Sinks](concepts/AccountabilitySinks.md) — Systems problem where unwanted outcomes persist while responsibility for fixing them becomes hard to locate.
+- [Private Regulatory Power](concepts/PrivateRegulatoryPower.md) — Private standards, audits, and rule-setting that shape public outcomes beyond direct customers.
+- [AI Alignment Governance](concepts/AIAlignmentGovernance.md) — View that AI alignment depends on governing the people and organizations doing the alignment.
+- [Trust As Business Asset](concepts/TrustAsBusinessAsset.md) — Idea that trustworthy mission-driven companies create valuable trust that financial gravity can try to capture.
 - [Ocean Memory](concepts/OceanMemory.md) — Ocean-humanities frame treating seawater, ice, organisms, archives, chemistry, trauma, and cultural loss as ways the past is carried forward.
 - [Milieu-Specific Analysis](concepts/MilieuSpecificAnalysis.md) — Method asking how concepts built on land change underwater through pressure, buoyancy, orientation, saturation, smell, and sound.
 - [Chemosensation](concepts/Chemosensation.md) — Chemical sensing through smell and taste, used to rethink underwater memory, nonhuman perception, pollution, and acidification.
