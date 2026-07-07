@@ -2,7 +2,7 @@
 title: "Agent Harness"
 type: concept
 tags: [agents, infrastructure, context, tooling]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
 last_updated: 2026-07-07
 ---
 
@@ -30,11 +30,14 @@ Agent harness is the model-external system that lets an AI agent act in the worl
 
 [[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] adds a device-and-channel harness case through [[Codex]], [[OpenClaw]], and [[HermesAgent]]. The harness now includes browser extension access, lock-screen background operation, phone-to-computer remote control, IM sessions, group-chat memory, Obsidian/calendar/reminder access, and rules for when an agent can act without interrupting the human.
 
+[[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] adds a failure-recovery case. [[OpenClaw]] can run scheduled tasks, modify files, call local tools, and update its own configuration, but the hosts describe cases where identical instructions produced different behavior or an update broke routines. That makes rollback, config isolation, service shutdown, logs, and narrow mounted directories harness requirements rather than optional safety polish.
+
 ## Layers
 - Execution ability: CLI tools, file operations, browser use, language interpreters, code-registered tools, and protocol-style extensions.
 - Context and environment: system prompt, working directory, dependency state, git state, [[AISkills]], [[PersistentAgentMemory]], context-window management, compression, and task handoff.
 - Governance and orchestration: multi-agent roles, permissions, information boundaries, and safeguards against agents mutating the wrong artifacts.
 - Feedback and learning: tests, deployments, result checks, memory updates, and successful workflows saved as [[AISkills]].
+- Recovery and audit: logs, rollback points, kill switches, scheduled-task traces, and boundaries around which state the agent can mutate.
 
 ## Key Claims
 - Harness matters because a model without tools and environment is an intelligent system without hands, memory, or operating context.
@@ -53,6 +56,7 @@ Agent harness is the model-external system that lets an AI agent act in the worl
 - Enterprise agent products need harness-level versioning, evaluation, and workflow governance so model upgrades do not silently break delivery.
 - Stronger models reduce some supervision burden, but harnesses still need step acceptance, review, and cost controls for long tasks.
 - Personal-agent harnesses increasingly cross devices and channels, so state, permissions, foreground/background behavior, and notification design become part of the harness rather than UI polish.
+- Local harnesses must assume model behavior may drift under the same instruction, so scheduled automation needs stricter checks than one-shot interactive work.
 
 ## Connections
 - [[ClaudeCode]] and [[LearnClaudeCode]] — concrete harness sample analyzed in the source.
@@ -73,3 +77,4 @@ Agent harness is the model-external system that lets an AI agent act in the worl
 - [[Manus]], [[AIAgentOverseasCommercialization]], and [[ModelProviderToolCompetition]] — commercial agent-stability and competition case added by the Keji Luandun source.
 - [[Fable5]], [[GrillMeSkills]], [[OneShotAICoding]], and [[ModelRoutingCostControl]] — capability, skill-selection, and routing case added by Vol. 170.
 - [[Codex]], [[OpenClaw]], [[HermesAgent]], [[IMAgentInterfaces]], and [[AgentPermissionBoundaries]] — cross-device and IM harness case added by Vol. 167.
+- [[ProbabilisticSoftware]], [[LocalAgentExecution]], and [[ModelRoutingCostControl]] — Keji Luandun's local-agent reliability and cost-routing case.

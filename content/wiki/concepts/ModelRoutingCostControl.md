@@ -2,7 +2,7 @@
 title: "Model Routing Cost Control"
 type: concept
 tags: [ai, economics, infrastructure]
-sources: [vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
+sources: [vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
 last_updated: 2026-07-07
 ---
 
@@ -16,6 +16,8 @@ The concept is the user- and product-workflow version of the serving-side routin
 
 [[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] adds the behavior-fit layer. The hosts compare [[Codex]] and [[ClaudeCode]] not only by cost, but by speed, tendency to infer intent, review confidence, and whether the model is better suited to planning, review, or execution. This makes [[ModelWorkflowFit]] a necessary companion to cost routing.
 
+[[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] adds a concrete [[OpenClaw]] operating case. The host reports that remote high-end model calls could become expensive very quickly, then moved some usage toward a [[Kimi]] Code-style monthly plan while keeping local models for lower-level tasks such as speech recognition or vectorization. The routing decision is therefore tied to both cost and task risk.
+
 ## Key Claims
 - High-end models can be necessary for hard tasks, but defaulting to them for every step wastes scarce token budget.
 - The useful router must consider task risk: brainstorming, summarization, execution, code review, release checks, and product judgment have different failure costs.
@@ -24,6 +26,7 @@ The concept is the user- and product-workflow version of the serving-side routin
 - Cost control is not merely price minimization; the goal is the cheapest model that can satisfy the acceptance criteria with acceptable verification overhead.
 - The router can include non-model options: local scripts, conventional software, and cheaper infrastructure may be better than asking a model to regenerate stable operations.
 - Routing should account for model behavior style, not only price: a model that is cheaper or faster can still be expensive if it creates more review or repair work.
+- A local-agent stack may route across remote frontier models, domestic subscription models, local models, and deterministic tools in one workflow; the right split depends on which step needs reasoning, privacy, speed, or low cost.
 
 ## Connections
 - [[AIInferenceCostStructure]] and [[AISubscriptionEconomics]] — cost and quota pressure that makes routing necessary.
@@ -33,3 +36,4 @@ The concept is the user- and product-workflow version of the serving-side routin
 - [[ProductLedWillingnessToPay]] — customers tolerate cost or limits only when routed model work produces clear value.
 - [[ClaudeCode]], [[Cloudflare]], and [[AIInferenceCostStructure]] — heavy-use and infrastructure-substitution context added by Vol. 167.
 - [[ModelWorkflowFit]], [[Xcode]], and [[Gemini]] — behavior, interface, and model-version comparison added by Vol. 162.
+- [[OpenClaw]], [[Kimi]], and [[ProbabilisticSoftware]] — local-agent cost and safety case added by Keji Luandun.

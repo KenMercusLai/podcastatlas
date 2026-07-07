@@ -2,7 +2,7 @@
 title: "Agentic Commerce"
 type: concept
 tags: [agents, commerce, payments]
-sources: [vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa]
+sources: [vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
 last_updated: 2026-07-07
 ---
 
@@ -14,6 +14,8 @@ Agentic commerce is the pattern where an AI agent can search, compare, select, b
 
 The concept sits between [[AgentFacingInterfaces]] and [[AgentPermissionBoundaries]]. For commerce to work, shopping platforms must expose action surfaces that agents can call, while users need clear confirmation, budget, identity, account, preference, and refund boundaries before agents can spend money.
 
+[[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] adds the milk-tea and local-service version. The hosts argue that if [[Meituan]] opened an MCP-like ordering interface, assistants such as [[Doubao]] and [[Yuanbao]] could complete purchases while Meituan retained fulfillment. The same example shows the risk: an AI ordering flow may display only a narrow set of shops or options, so recommendation power shifts away from full-page browsing.
+
 ## Key Claims
 - Shopping is an obvious agent task because it combines search, comparison, routine preference, payment, and repeated replenishment.
 - Successful checkout is not enough; the agent also needs to respect price sensitivity, brand preference, delivery timing, substitutions, address choice, and return risk.
@@ -23,6 +25,7 @@ The concept sits between [[AgentFacingInterfaces]] and [[AgentPermissionBoundari
 - Messaging or super-app entry points can make commerce agents powerful, but they also raise platform-access and competition questions.
 - Owned service ecosystems can make commerce assistants easier to launch, but they also increase ranking, advertising, commission, and self-preference risks.
 - Open commerce protocols may work differently across markets depending on whether platforms monetize through transaction take rate, advertising, traffic retention, or direct user ownership.
+- Agentic commerce can compress choice too much; users may gain convenience while losing visibility into alternatives, sponsorship, merchant diversity, or why one option was selected.
 
 ## Connections
 - [[Google]], [[Meta]], and [[EuropeanUnion]] — platform-access and messaging-interface context in the source.
@@ -31,3 +34,4 @@ The concept sits between [[AgentFacingInterfaces]] and [[AgentPermissionBoundari
 - [[LocalLifePlatformDependency]] and [[PlatformDataRegulation]] — related platform-control themes around orders, merchants, and data visibility.
 - [[ChinaAgentMarketFriction]] — domestic app-ecosystem friction that may affect shopping agents.
 - [[AIAssistantServiceEntry]], [[Alibaba]], [[Qwen]], [[Taobao]], [[Fliggy]], [[Damai]], and [[Shopify]] — assistant-commerce and service-fulfillment cases added by EP117.
+- [[Meituan]], [[Doubao]], [[Yuanbao]], and [[ModelContextProtocol]] — local-service and milk-tea ordering case added by Keji Luandun.

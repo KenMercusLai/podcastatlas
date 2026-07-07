@@ -2,7 +2,7 @@
 title: "Open Claw"
 type: entity
 tags: [agent, ecosystem, china]
-sources: [dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, zhe-bannian-women-you-maile-naxie-keji-haowu-1]
+sources: [dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, zhe-bannian-women-you-maile-naxie-keji-haowu-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
 last_updated: 2026-07-08
 ---
 
@@ -26,6 +26,8 @@ Open Claw is discussed together with [[OpenCloud]] in [[dang-women-zai-taolun-ha
 
 [[zhe-bannian-women-you-maile-naxie-keji-haowu-1]] adds the hardware substrate around OpenClaw-style use. A host buys an M4 Mac mini mainly to run "龙虾"/OpenClaw workflows, and the discussion makes older M1 Mac minis, headless MacBooks, KVM setups, and remote control feel useful again. This connects OpenClaw to [[PersonalInfrastructureCostAccounting]]: always-on local agents can justify local hardware when they replace repeated manual setup or cloud-only workflows.
 
+[[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] adds the hands-on safety and reliability version. [[KejiLuandun]] describes using an M1 Mac mini, expensive remote model calls, [[Kimi]] routing, flight-search experiments, and scheduled-task failures to argue that OpenClaw is useful precisely because it can touch local files, browser state, accounts, and tools, but that same reach makes it an example of [[ProbabilisticSoftware]] when it mutates configuration, follows injected prompts, or keeps acting after the user stops watching.
+
 ## Source Position
 - The source treats Open Claw as an early adoption context rather than the final agent form.
 - Memory instability is presented as a pain point that helped [[HermesAgent]] attract attention.
@@ -37,6 +39,7 @@ Open Claw is discussed together with [[OpenCloud]] in [[dang-women-zai-taolun-ha
 - The 20-question source adds a packaging lesson: OpenClaw's virality came from making existing CLI-agent capability reachable, memorable, and executable for a wider audience.
 - Vol. 167 adds a prototyping lesson: IM agents can be used to cheaply test whether a recurring workflow should later become a more engineered product or skill.
 - The tech-purchase episode adds a local-hardware lesson: agent usefulness depends partly on stable machines, remote access, and old-device reuse, not only model behavior.
+- The Keji Luandun probabilistic-software episode adds a safety lesson: OpenClaw works best as a bounded, reviewable local coworker, not as an unattended controller of high-impact accounts, payments, or durable state.
 
 ## Connections
 - [[OpenCloud]] — paired domestic agent phenomenon in the source.
@@ -51,3 +54,4 @@ Open Claw is discussed together with [[OpenCloud]] in [[dang-women-zai-taolun-ha
 - [[HermesAgent]], [[PersistentAgentMemory]], [[AISkills]], and [[AgentPermissionBoundaries]] — multi-session personal-agent workflow added by Vol. 167.
 - [[AgenticSoftware]] and [[VibeCoding]] — Vol. 164's broader software-future frame.
 - [[PersonalInfrastructureCostAccounting]] and [[LocalAgentExecution]] — hardware and ownership-cost frame added by the tech-purchase episode.
+- [[ProbabilisticSoftware]], [[Kimi]], and [[ModelRoutingCostControl]] — local-agent uncertainty and cost-routing frame added by the Keji Luandun episode.

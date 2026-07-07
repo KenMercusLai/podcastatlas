@@ -688,6 +688,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-08] ingest | 当可靠的代码变成了偶尔发疯的OpenClaw，我们未来的工作范式变迁
+
+Added source page for a Keji Luandun episode on OpenClaw as local probabilistic software, covering Mac mini deployment, high remote-model cost, Kimi routing, scheduled-task drift, prompt injection, local files/accounts/password risk, memory and skills, MCP-style service entry, AI coding verification, MiniMax deployment friction, and programmer skill-transfer risk. Created supporting pages for Probabilistic Software and Kimi; updated overview, index, Keji Luandun, OpenClaw, Claude Code, Doubao, Yuanbao, Meituan, MiniMax, Agent Permission Boundaries, Local Agent Execution, Persistent Agent Memory, AI Skills, Model Context Protocol, Human-Agent Collaboration, Human Judgment Under AI, AI Coding Verification, Vibe Coding, Model Routing Cost Control, Model Workflow Fit, AI Assistant Service Entry, Agentic Commerce, and Agent Harness. No direct contradiction found; the source qualifies earlier OpenClaw enthusiasm by stressing bounded permissions, recovery, and human verification.
+
 ## [2026-07-08] ingest | 除了石油和海峡，这届伊朗战争开始算计你的服务器了
 
 Added source page for a Keji Luandun episode on data centers, submarine cables, AI compute, cloud-region exposure, Middle East network topology, low-cost drone attacks, and war-aware disaster recovery. Created supporting pages for 热乎乱炖, Oracle, Digital Infrastructure War Risk, Data Center Physical Resilience, War-Aware Disaster Recovery, AI Compute Continuity, Regional Network Topology Risk, and Asymmetric Infrastructure Attack; updated overview, index, Keji Luandun, 你的书房, Amazon, OpenAI, SaaS Reliability Under Policy Risk, and MaaS Infrastructure.
@@ -739,6 +743,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] ingest | E155.似乎没什么人再提「AI 泡沫论」了
 
 Added source page for a 面基 episode on AI-bubble skepticism cooling, tokens as a generative-AI usage metric, CAPEX/contract-liability/deferred-revenue/ARR validation, Anthropic's MCP/Skills/Claude agent route, LUI pressure on software, human-resource deflation converting into compute-infrastructure inflation, AI energy constraints, Holo assets, and Hang Seng Tech's lack of hard-asset attributes. Created AI Investment Metrics, Jevons Paradox In AI, Model Context Protocol, Language User Interface, CAPEX OPEX Substitution, Human Resource Deflation Compute Infrastructure Inflation, and Holo Assets; updated overview, index, 面基, Anthropic, OpenAI, Google, ChatGPT, Claude Code, Nvidia, Hang Seng Tech Index, AI Inference Cost Structure, MaaS Infrastructure, AI Skills, Headless Software, Agentic Software, AI Equity Valuation Risk, AI Compute Continuity, and Data Center Physical Resilience. No direct contradiction found; the source qualifies prior AI bubble and valuation-risk material by adding more measurable business indicators while preserving entry-price and data-verification cautions.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-08] lint | Wiki health check
 

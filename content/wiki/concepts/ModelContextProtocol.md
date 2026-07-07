@@ -2,7 +2,7 @@
 title: "Model Context Protocol"
 type: concept
 tags: [ai, agents, protocols, infrastructure]
-sources: [e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]
+sources: [e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
 last_updated: 2026-07-08
 ---
 
@@ -12,12 +12,15 @@ Model Context Protocol is the agent-connectivity layer highlighted in [[e155-sih
 
 The episode's metaphor is that MCP is a USB Type-C-like connector for the AI world. In that framing, models need more than reasoning ability: they need a standardized way to reach tools, files, systems, and context.
 
+[[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] adds the platform-strategy version. The hosts propose that [[Meituan]] could expose MCP-like ordering capability to assistants such as [[Doubao]] or [[Yuanbao]], keeping transaction and delivery infrastructure while letting AI assistants become the user entry point. The same discussion warns that a service invisible to AI agents may become less present in future workflows.
+
 ## Key Claims
 - Agent ecosystems need a connector layer because useful work often sits across external services rather than inside the chat window.
 - Standardized connectors can reduce integration friction for [[AgenticWorkflow]] and [[HeadlessSoftware]].
 - MCP becomes more valuable when paired with [[AISkills]], because a skill can tell an agent how to perform a workflow while MCP gives it access to the relevant systems.
 - The episode treats Anthropic's early MCP release as a strategic ecosystem move, not only a developer convenience.
 - Protocol standardization does not remove trust, permission, security, or verification problems; it makes those problems more visible and operational.
+- Platform incentives decide openness: a weaker platform may expose capabilities to gain agent traffic, while a stronger platform may resist because the AI entry point can take recommendation power and user attention.
 
 ## Connections
 - [[Anthropic]] and [[ClaudeCode]] — source company and agent-product context.
@@ -25,3 +28,4 @@ The episode's metaphor is that MCP is a USB Type-C-like connector for the AI wor
 - [[AgentFacingInterfaces]] and [[HeadlessSoftware]] — broader design requirement for agent-callable capability.
 - [[AgentHarness]] and [[ContextEngineering]] — surrounding system that decides what context and tools an agent can use.
 - [[AgentPermissionBoundaries]] and [[AICodingVerification]] — safety and correctness constraints around tool access.
+- [[AIAssistantServiceEntry]], [[AgenticCommerce]], [[Meituan]], [[Doubao]], and [[Yuanbao]] — service-entry and local-commerce scenario added by Keji Luandun.

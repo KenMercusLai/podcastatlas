@@ -2,7 +2,7 @@
 title: "Agent Permission Boundaries"
 type: concept
 tags: [agents, security, governance]
-sources: [vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
+sources: [vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
 last_updated: 2026-07-07
 ---
 
@@ -20,6 +20,8 @@ Agent permission boundaries are the practical limits that decide which tools, ac
 
 [[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] adds the commerce and device-risk version. [[AgenticCommerce]] requires explicit spend, product, address, and substitution controls, while voice wearables, always-on recorders, robots, and brain-computer interfaces raise the cost of mistaken or overbroad agent action.
 
+[[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] adds the local-agent blast-radius version. The hosts warn that [[OpenClaw]] can see hard-drive contents, logged-in browser sessions, local accounts, and even password-manager-controlled resources if the user grants them; they also describe prompt injection through web content and third-party skills as risks that Docker cannot fully solve when sensitive directories or accounts are mounted into the runtime.
+
 ## Key Claims
 - Permission design is part of the [[AgentHarness]], not an afterthought, because tool access defines what the agent can actually do.
 - Personal agents need tiered skill policies: some skills can run automatically, while others should require explicit human invocation.
@@ -33,6 +35,7 @@ Agent permission boundaries are the practical limits that decide which tools, ac
 - Shopping and payment agents need budget, confirmation, refund, delivery, and identity boundaries because the action directly spends money and changes real-world logistics.
 - YOLO execution should be treated as a scoped permission mode, not as proof that the agent can safely own the whole machine or all connected accounts.
 - Parallel coding-agent sessions need isolation practices such as separate branches, worktrees, sandboxes, or accounts because successful runs can still conflict or compound mistakes.
+- Local-agent experiments should start with isolated devices, limited folders, disposable accounts, and observation-only or low-impact actions before access to payment, deletion, password, or main-account authority is considered.
 
 ## Connections
 - [[OpenClaw]], [[JustinYan]], and [[Zili]] — source context for personal-agent safety.
@@ -45,3 +48,4 @@ Agent permission boundaries are the practical limits that decide which tools, ac
 - [[Codex]], [[IMAgentInterfaces]], [[PersistentAgentMemory]], and [[AIContentProvenance]] — cross-channel permission and disclosure themes added by Vol. 167.
 - [[AgenticCommerce]], [[VoiceInteraction]], [[AIPlusTerminals]], and [[AgentFacingInterfaces]] — commerce, device, and platform-access themes added by Vol. 162.
 - [[VibeCoding]], [[ClaudeCode]], and [[AICodingVerification]] — Vol. 160's YOLO-mode and multi-agent coding boundary.
+- [[ProbabilisticSoftware]] and [[LocalAgentExecution]] — Keji Luandun safety frame for local agents whose model behavior cannot be made fully deterministic.

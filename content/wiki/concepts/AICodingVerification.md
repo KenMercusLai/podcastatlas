@@ -2,7 +2,7 @@
 title: "AI Coding Verification"
 type: concept
 tags: [ai-coding, software-engineering, verification]
-sources: [vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
+sources: [vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
 last_updated: 2026-07-07
 ---
 
@@ -36,6 +36,8 @@ AI coding verification is the shift in bottleneck from generating code to provin
 
 [[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] adds the IDE-context version through [[Xcode]]. The hosts argue that Xcode-native agents can use compile errors, warnings, simulator state, and project context as verification signals, while complex tasks still benefit from CLI workflows where the user can control process and review more explicitly.
 
+[[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] adds a context-loss and temporary-tool version. The hosts describe AI-generated math exercises whose answers and explanations did not align, a one-file Markdown-to-Word utility that still required debugging, and coding agents that can reintroduce bugs because earlier context falls out of view. Their conclusion is that verification depends on engineering structure: modular tasks, preserved memory, tests, logs, and acceptance checks.
+
 ## Key Claims
 - AI coding makes implementation cheaper, but architecture, roadmap choice, complexity control, tests, review, and long-term maintenance still matter.
 - Generated code should not reduce the developer's responsibility for commits made under their own identity.
@@ -62,6 +64,7 @@ AI coding verification is the shift in bottleneck from generating code to provin
 - IDE-native agent integration can improve verification only when compiler, warning, simulator, and diff signals are actually fed back into bounded coding loops.
 - Test plans need their own review because an agent may weaken or rewrite tests to make generated code appear correct.
 - Final product-flow testing can catch failures that step-by-step task checks miss, especially when the system's value depends on scheduled or online output.
+- Context preservation is part of verification: if an agent forgets an earlier fix or stale state enters memory, the user needs tests and review surfaces that catch regression rather than trusting the conversation history.
 
 ## Connections
 - [[AgenticWorkflow]] — the workflow pattern that accelerates production and creates verification pressure.
@@ -82,3 +85,4 @@ AI coding verification is the shift in bottleneck from generating code to provin
 - [[AICommunicationAbility]], [[Codex]], and [[ClaudeCode]] — Vol. 164's task-framing and review-retention case.
 - [[Xcode]], [[ModelWorkflowFit]], [[Codex]], and [[ClaudeCode]] — IDE-context and model-style comparison added by Vol. 162.
 - [[NewSpot]], [[VibeCoding]], and [[AIEngineeringThinking]] — Vol. 160's plan-review, test-plan, and final-flow acceptance case.
+- [[ProbabilisticSoftware]], [[HumanJudgmentUnderAI]], and [[AISkills]] — local-agent and temporary-tool verification case added by Keji Luandun.

@@ -2,8 +2,8 @@
 title: "Doubao"
 type: entity
 tags: [ai, product, assistant, china]
-sources: [cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1]
-last_updated: 2026-07-07
+sources: [cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
+last_updated: 2026-07-08
 ---
 
 # Doubao
@@ -14,6 +14,8 @@ Doubao is ByteDance's AI assistant and model product discussed in [[cong-qq-huiy
 
 [[women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1]] adds Doubao as a generic-model comparator. In the flower-shop source, customers question why a vertical AI visual system is needed if Doubao can also generate images; the hosts use that objection to distinguish general generation from store-grounded [[AIVisualMerchandising]] that understands actual materials, substitutions, and customer-confirmation workflow.
 
+[[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] adds Doubao to the domestic assistant growth and agentic-commerce discussion. The hosts mention domestic model quality fluctuation under compute pressure, then discuss Yuanbao red packets and milk-tea-style promotions as evidence that consumer assistants may compete through subsidies, user growth, and [[AIAssistantServiceEntry]] rather than model capability alone.
+
 ## Key Points
 - The hosts present Doubao's rumored paid membership as a natural consequence of [[AIInferenceCostStructure]] and rapid user growth.
 - They argue that [[Doubao]] cannot rely only on "costs are high" messaging; it needs [[ProductLedWillingnessToPay]] through clearly differentiated features.
@@ -22,6 +24,7 @@ Doubao is ByteDance's AI assistant and model product discussed in [[cong-qq-huiy
 - EP117 frames Doubao as the traffic-backed leader that Alibaba must respond to with an ecosystem-backed [[Qwen]] strategy.
 - The same episode suggests that Doubao's early scale does not settle the broader [[AIAssistantServiceEntry]] question, because real booking, buying, and local-service fulfillment may favor companies with deeper service graphs.
 - The flower-shop source uses Doubao as the baseline a vertical AI product must beat through workflow fit, not only prettier generation.
+- The OpenClaw reliability episode adds that assistant competition can shift into promotion and service-entry battles, where products win by routing users into tasks such as ordering rather than only answering questions.
 
 ## Connections
 - [[ByteDance]] — company behind Doubao.
@@ -31,3 +34,4 @@ Doubao is ByteDance's AI assistant and model product discussed in [[cong-qq-huiy
 - [[VideoModels]] — capability area where the episode sees Doubao as comparatively stronger.
 - [[AIVisualMerchandising]] and [[OfflineAIImplementation]] — flower-shop source where generic generation is compared with store-grounded AI value.
 - [[Qwen]], [[Alibaba]], and [[AIAssistantServiceEntry]] — EP117's assistant-entry comparison.
+- [[Yuanbao]], [[Meituan]], and [[AgenticCommerce]] — domestic assistant promotion and local-service ordering frame added by Keji Luandun.

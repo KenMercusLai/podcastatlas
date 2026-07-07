@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [当可靠的代码变成了偶尔发疯的OpenClaw，我们未来的工作范式变迁](sources/dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian.md) — Keji Luandun episode on OpenClaw local-agent reliability, probabilistic software, local permissions, memory and skills, Kimi cost routing, MCP service entry, AI coding verification, and programmer skill-transfer risk.
 - [智力贬值的春节见闻录，与那场正在酝酿的优贷危机](sources/zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1.md) — Keji Luandun episode on Spring Festival AI observations, Seedance-style video generation, GLM5 coding, intelligence devaluation, prime-borrower credit risk, and why domain know-how remains scarce.
 - [E155.似乎没什么人再提「AI 泡沫论」了](sources/e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf.md) — 面基 episode on AI-bubble skepticism cooling, tokens/CAPEX/contract-liability/ARR metrics, Anthropic's MCP/Skills/Claude agent route, LUI pressure on software, compute-infrastructure inflation, Holo assets, and Hang Seng Tech repricing.
 - [这半年，我们又买了哪些科技好物？](sources/zhe-bannian-women-you-maile-naxie-keji-haowu-1.md) — Keji Luandun episode on practical tech purchases, Pinduoduo subsidies, Mac mini/OpenClaw workflows, NAS backup economics, display ergonomics, chargers, travel gear, and personal infrastructure cost accounting.
@@ -467,6 +468,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Justin Yan](entities/JustinYan.md) — Fengyan Fengyu host who built an OpenClaw-like personal agent to understand agent-native software, skills, and permission design.
 - [Justin's Nut Butter](entities/JustinsNutButter.md) — Natural-food CPG brand built from flavored nut-butter jars into squeeze packs, cups, and a $280 million Hormel acquisition.
 - [Keji Luandun](entities/KejiLuandun.md) — Podcast covering Chinese AI companies, software-payment norms, practical AI coding/productization workflows, AI policy, platform governance, overseas market selection, and digital infrastructure war risk.
+- [Kimi](entities/Kimi.md) — Chinese AI model/product reference used in the wiki's model-routing, workflow-fit, overseas-adoption, and OpenClaw cost-control discussions.
 - [Kedaibiao Lizheng](entities/KedaibiaoLizheng.md) — Episode guest focused on AI learning, skills, context, and agent-based workflows.
 - [Kenan Voice Changer](entities/KenanVoiceChanger.md) — Assistive AI prototype that repairs unclear speech so users can communicate during rehabilitation.
 - [Kaseya](entities/Kaseya.md) — Cybersecurity/MSP company referenced through the July 2021 ransomware incident that accelerated ThreatLocker demand.
@@ -656,6 +658,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Investment Metrics](concepts/AIInvestmentMetrics.md) — Tracking generative AI through tokens, CAPEX, contract liabilities, deferred revenue, AI-native revenue, and ARR rather than user-count narrative alone.
 - [Jevons Paradox In AI](concepts/JevonsParadoxInAI.md) — Demand pattern where lower per-token cost can increase total token consumption as users and agents call models more often.
 - [Model Context Protocol](concepts/ModelContextProtocol.md) — Agent connectivity layer for exposing external tools, systems, data, and context through standardized integrations.
+- [Probabilistic Software](concepts/ProbabilisticSoftware.md) — Software behavior mediated by model judgment, useful for fuzzy agent work but requiring permissions, recovery, verification, and deterministic subtools.
 - [Language User Interface](concepts/LanguageUserInterface.md) — Natural-language operation of software where the agent becomes the front door and GUI shifts toward review or exception handling.
 - [CAPEX OPEX Substitution](concepts/CAPEXOPEXSubstitution.md) — Shift from recurring operating costs, especially labor, into AI infrastructure capital expenditure intended to lower future OPEX or increase revenue.
 - [Human Resource Deflation Compute Infrastructure Inflation](concepts/HumanResourceDeflationComputeInfrastructureInflation.md) — Thesis that AI pressures some white-collar labor costs while increasing demand for chips, storage, power, networks, and data centers.
