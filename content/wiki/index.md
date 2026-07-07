@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E225｜SaaS业数千亿市值蒸发：AI如何变革组织架构？](sources/e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou.md) — 硅谷101 episode on SaaS seat-pricing pressure, Bairong Intelligence, result-priced AI labor, AI staffing/BPO, enterprise agent stores, and silicon-carbon organization design.
 - [E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地](sources/e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di.md) — 硅谷101 episode with Apodex chief scientists on recursive self-improvement, Deep Research, coding as a training substrate, AI verification, discovery models, and research taste.
 - [EP90 从美加墨世界杯看懂期权—华尔街的终极武器](sources/ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p.md) — 一劳永逸 episode using World Cup tickets, betting intuition, Buffett, Duan Yongping, Mark Cuban, GameStop, and LTCM to explain options, hedging, gamma squeezes, and model risk.
 - [145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？](sources/145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou.md) — Zhang Xiaojun episode with Louis Hong on SpaceX history, reusable rockets, Musk management, Starlink/Starship, space-based AI infrastructure, and hard-tech alumni.
@@ -129,7 +130,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [硅谷101](entities/SiliconValley101.md) — Podcast/show context for the Apodex discussion on RSI, Deep Research, discovery models, verification, and research taste.
+- [硅谷101](entities/SiliconValley101.md) — Podcast/show context for Apodex self-evolution and Bairong's enterprise-agent discussion of SaaS disruption, result pricing, and silicon-carbon governance.
 - [Apodex](entities/Apodex.md) — Chen Tianqiao-backed AI company in the source focused on Heavy Duty Solver and Discovery Model work rather than consumer generation products.
 - [Chen Tianqiao](entities/ChenTianqiao.md) — Strategic figure behind Apodex, described as shaping company direction and model constitution around truthfulness and hard-problem solving.
 - [Du Shaolei](entities/DuShaolei.md) — Apodex chief scientist for training and inference, discussing Deep Research, long-horizon reasoning, verification, and research taste.
@@ -448,9 +449,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AirJelly](entities/AirJelly.md) — Proactive context-aware personal-agent startup using intent-triggered screen context, memory, and execution ability.
 - [Atoom](entities/Atoom.md) — Attention-aware interface prototype from the Xiaohongshu hackathon that dynamically reorganizes web pages around what the user should focus on.
 - [BCG](entities/BCG.md) — Consulting company referenced through Rolling AI partners' background and as contrast for AI-era agent delivery.
-- [Baijian](entities/Baijian.md) — Bairong Intelligence professional-service platform that gives experts digital employees and office systems.
+- [Baijian](entities/Baijian.md) — Bairong Intelligence professional-service platform that gives experts digital employees, office systems, AI drafts, and human sign-off workflows.
 - [Baidu](entities/Baidu.md) — Chinese search and AI company discussed through search-ad decline, open-web traffic loss, Wenxin, strategic inertia, and search habits moving toward social/video apps.
-- [Bairong Intelligence](entities/BairongIntelligence.md) — Enterprise AI company using and selling digital employees across service, approval, risk-control, and professional-service workflows.
+- [Bairong Intelligence](entities/BairongIntelligence.md) — Enterprise AI company using and selling digital employees through AI staffing, AI BPO, professional-service platforms, and silicon-carbon governance.
 - [Bank of Japan](entities/BankOfJapan.md) — Central bank whose tightening and yen effects are discussed as triggers for yen carry trade stress and Japanese equity volatility.
 - [半拿铁](entities/Banlatte.md) — Business-history podcast/show context for the China handset prehistory episode.
 - [Berkshire Hathaway](entities/BerkshireHathaway.md) — Warren Buffett's investment company discussed through Apple reduction, high cash, valuation caution, market sentiment, and Munger/Buffett consumer-brand cases.
@@ -707,7 +708,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Youju](entities/Youju.md) — Podcast/project focused on AI games and AI interactive entertainment.
 - [Zhang Jiayuan](entities/ZhangJiayuan.md) — MultiCard founder discussing model orchestration, AI coding commoditization, roadmap taste, and retained human judgment.
 - [Zhang Le](entities/ZhangLe.md) — Keji Luandun participant emphasizing tests and documentation before AI-assisted legacy-system refactoring.
-- [Zhang Shaofeng](entities/ZhangShaofeng.md) — Bairong Intelligence chair and CEO arguing for digital employees, outcome pricing, and practical enterprise AI rollout.
+- [Zhang Shaofeng](entities/ZhangShaofeng.md) — Bairong Intelligence chair and CEO arguing for digital employees, result-priced AI work, AI staffing, and enterprise agent ecosystems.
 - [Zed](entities/Zed.md) — IDE referenced as technically strong but slow to seize the AI coding window.
 - [Zeying](entities/Zeying.md) — MiniMax R&D engineer discussing interleaved thinking, multi-agent collaboration, and agent self-evolution.
 - [ZhenFund](entities/ZhengkeFund.md) — Investment firm associated with the host's AI investing role and Token Grant.
@@ -972,6 +973,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI 3D Prototyping](concepts/AI3DPrototyping.md) — Possibility that AI lowers 3D game-production barriers enough for small teams to test richer prototypes.
 - [AI As Tutor](concepts/AIAsTutor.md) — Student-facing AI use where models personalize explanations and bridge gaps while the learner still owns understanding.
 - [AI BPO Roll Up](concepts/AIBPORollUp.md) — Restructuring business-process outsourcing and professional services with agents, experts, and shared systems.
+- [AI Staffing](concepts/AIStaffing.md) — Enterprise-agent model where providers design, train, and dispatch digital employees by role, workload, time, or completed result.
 - [AI Assisted Software Development Risk](concepts/AIAssistedSoftwareDevelopmentRisk.md) — Risk that AI-speed development still fails on migration, compatibility, and production engineering details.
 - [AI Coding Verification](concepts/AICodingVerification.md) — Engineering bottleneck that moves AI coding from generation speed to tests, review, browser checks, maintainability, and responsibility.
 - [AI Commercialization Pressure](concepts/AICommercializationPressure.md) — Tension between model influence, training costs, inference costs, assistant traffic, ecosystem strategy, ROI, and business accountability.
@@ -1073,6 +1075,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Domain Expert Alignment](concepts/DomainExpertAlignment.md) — AI development pattern where researchers and engineers work with real field experts in domains such as coding, finance, safety, and law.
 - [Embodied AI](concepts/EmbodiedAI.md) — Robotics and physical AI direction discussed as both bubbly and strategically important.
 - [Emotional Interaction Models](concepts/EmotionalInteractionModels.md) — AI systems that decide social and emotional responses across speech, movement, memory, and relationship state.
+- [Enterprise Agent Store](concepts/EnterpriseAgentStore.md) — Marketplace pattern for enterprise agents that need workflow, permission, billing, integration, evaluation, and result-delivery infrastructure.
 - [European AI Industrial Constraints](concepts/EuropeanAIIndustrialConstraints.md) — Source frame for Europe's AI limits around language fragmentation, regulation, capital, software culture, and manufacturing inertia.
 - [Everything Agent](concepts/EverythingAgent.md) — Investment thesis that agents will enter many white-collar workflows and need supporting infrastructure.
 - [Family Protection Insurance Planning](concepts/FamilyProtectionInsurancePlanning.md) — Household insurance planning based on income earners, dependents, debts, and finite responsibility windows.
@@ -1106,6 +1109,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hong Kong Market Structure](concepts/HongKongMarketStructure.md) — E159 frame for Hong Kong equities as an optional offshore market with scarce liquidity, segmented buyers, thin ETF coverage, and IPO absorption.
 - [Human-Agent Collaboration](concepts/HumanAgentCollaboration.md) — Product-design problem of finding better ways for people and AI agents to work together beyond chat, prompt, and session interfaces.
 - [Human Judgment Under AI](concepts/HumanJudgmentUnderAI.md) — Claim that AI improves preparation and automation but cannot replace situated judgment, permission choices, or responsibility.
+- [Independent Agent Vendor](concepts/IndependentAgentVendor.md) — Proposed successor to independent software vendors, building specialized enterprise agents for workflow, industry, or role-specific work.
 - [Independent Investment Consulting](concepts/IndependentInvestmentConsulting.md) — Advice-fee model focused on portfolio design, risk explanation, and long-term decision support rather than product distribution commissions.
 - [In-Store Demos](concepts/InStoreDemos.md) — Retail sampling and storytelling sessions that help CPG products sell and generate customer-learning loops.
 - [Index Reentry Discipline](concepts/IndexReentryDiscipline.md) — Staged, valuation-aware approach to buying broad equity indexes after drawdowns instead of treating every pullback as an all-in signal.
@@ -1170,6 +1174,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Quantitative Investing](concepts/QuantitativeInvesting.md) — Data- and model-driven investing based on repeated small statistical edges, execution, and risk control.
 - [Quantitative Overfitting](concepts/QuantitativeOverfitting.md) — Failure mode where a trading rule fits historical data but lacks robust out-of-sample value.
 - [Relationship-Led Growth](concepts/RelationshipLedGrowth.md) — Growth pattern where trust with vendors, channel partners, professionals, buyers, and communities becomes part of the engine.
+- [Result As A Service](concepts/ResultAsAService.md) — Result-priced AI delivery model where buyers pay for roles, work orders, tasks, transactions, or outsourced processes rather than seats.
 - [Retail Bull Market Psychology](concepts/RetailBullMarketPsychology.md) — Ordinary-investor FOMO pattern where visible gains, social proof, and weak memory of past losses pull people into bull markets late.
 - [Retail Investor Crowding](concepts/RetailInvestorCrowding.md) — Behavioral and positioning risk from unusually heavy ordinary-investor participation in high-valuation markets.
 - [Retail Shelf Placement](concepts/RetailShelfPlacement.md) — CPG issue where a product's shopper meaning changes depending on where it appears in the store.
@@ -1188,6 +1193,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Service Productization](concepts/ServiceProductization.md) — Turning manual, consultant-heavy, or expert-delivered workflows into repeatable software products.
 - [Shareholder Primacy](concepts/ShareholderPrimacy.md) — Governance belief that shareholder financial returns dominate, especially in sale or control contexts.
 - [Shanzhai Phones](concepts/ShanzhaiPhones.md) — Low-cost gray-market, copycat, and extreme-feature Chinese handsets enabled by turnkey designs and Shenzhen supply chains.
+- [Silicon Carbon Governance](concepts/SiliconCarbonGovernance.md) — Organization frame for managing human employees and AI employees through roles, KPIs, training, review, and responsibility boundaries.
 - [Software Payment Culture](concepts/SoftwarePaymentCulture.md) — User expectations around free versus paid software, shaped by Chinese internet history and monetization models.
 - [Smartphone Operating System Ecosystems](concepts/SmartphoneOperatingSystemEcosystems.md) — Competitive shift from single handset models and form factors toward OS platforms, touch UI, apps, and developer ecosystems.
 - [Speculative Bubble Psychology](concepts/SpeculativeBubblePsychology.md) — Pattern where real technology stories mix with leverage, crowd confidence, and "this time is different" market narratives.

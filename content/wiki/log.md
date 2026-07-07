@@ -708,6 +708,10 @@ Added source page for a Keji Luandun paid teaser on flower/cake delivery, live-c
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-08] ingest | E225｜SaaS业数千亿市值蒸发：AI如何变革组织架构？
+
+Added source page for a 硅谷101 episode on Anthropic-triggered SaaS seat-pricing pressure, Bairong Intelligence, Zhang Shaofeng, result-priced AI work, AI staffing, AI BPO, enterprise agent stores, and silicon-carbon governance. Created Result As A Service, Silicon Carbon Governance, AI Staffing, Independent Agent Vendor, and Enterprise Agent Store; updated overview, index, SiliconValley101, Bairong Intelligence, Zhang Shaofeng, Baijian, Digital Employees, Outcome-Based AI Pricing, AI BPO Roll Up, Service As Software, and Business-Led AI Transformation. No direct contradiction found; the source reinforces prior Bairong digital-employee material while adding a more aggressive SaaS-disruption thesis and a tension with SaaS Trust Moat around which enterprise software layers remain defensible.
+
 ## [2026-07-08] ingest | 134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe
 
 Added source page for a 张小珺Jùn｜商业访谈录 episode with 谢晨 on AI data as education, embodied data pyramids, simulation-based robot evaluation, data-engine learning loops, data recipe co-creation, and AI data pricing. Created supporting pages for Xie Chen, Guanglun Intelligence, Cruise, Scale AI, Unitree Robotics, Zhiyuan Robotics, Data As Education, Embodied Data Pyramid, Robotics Simulation Evaluation, Data Engine Learning Loop, Data Recipe Co-Creation, and Data Pricing In AI; updated overview, index, 张小珺Jùn｜商业访谈录, ImageNet, Nvidia, OpenAI, Google DeepMind, Qwen, Alibaba, ByteDance, Embodied AI, World Models, Vision Language Action Models, Real Robot Data Strategy, Physical World Data Flywheel, Embodied AI Value Chain, and Frontier Model Scaling. No direct contradiction found; the source creates a route-level tension with real-robot-data-heavy robotics strategies by arguing that real robot data must sit inside a simulation-centered data loop.
@@ -851,6 +855,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] ingest | E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地
 
 Added source page for a 硅谷101 episode with Apodex chief scientists Du Shaolei and Li Beibin on recursive self-improvement, Deep Research, coding as a model-training substrate, agent-team verification, discovery models, research taste, and Chen Tianqiao's strategic role. Created pages for SiliconValley101, Apodex, ChenTianqiao, DuShaolei, LiBeibin, RecursiveSelfImprovement, DiscoveryModel, AIVerification, and DeepResearch; updated overview, index, Qwen, Agent Self-Evolution, AI Coding Verification, Model Harness Co-Evolution, Multi-Agent Collaboration, Research Taste, and AI For Science. No direct contradiction found; the source extends prior workflow-level agent self-evolution into post-training and recursive model-improvement loops while emphasizing verification, drift, and expert taste as constraints.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-08] lint | Wiki health check
 

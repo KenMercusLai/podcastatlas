@@ -2,8 +2,8 @@
 title: "Digital Employees"
 type: concept
 tags: [ai, enterprise-ai, workforce]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]
-last_updated: 2026-07-07
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou]
+last_updated: 2026-07-08
 ---
 
 # Digital Employees
@@ -11,6 +11,8 @@ last_updated: 2026-07-07
 Digital employees are the episode's frame for enterprise AI systems that behave less like passive tools and more like labor that must be onboarded, trained, managed, and evaluated. In [[openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6]], [[RollingAI]] argues that [[ForwardDeployedEngineer]] work resembles an HRBP role for these AI workers: placing them into the organization, giving them context, connecting them to systems, and helping them learn the job. [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o]] adds a personal-agent version through [[Paperboy]]: an agent should be onboarded, learn relationship boundaries, ask before sharing uncertain information, and remain something the user is responsible for.
 
 [[weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces]] adds an operator case through [[BairongIntelligence]]. [[ZhangShaofeng]] describes a digital-employee home with names, job numbers, onboarding records, email, performance tracking, business teachers, and production creators, then links deployment success to incentives for human employees who transfer their skills to agents.
+
+[[e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou]] deepens that operator case with [[SiliconCarbonGovernance]]. Bairong describes more than 200,000 silicon-based employees across about 200 roles, each managed with job descriptions, KPIs, human partners, retraining, and retirement mechanisms; the source also connects digital employees to [[ResultAsAService]] and [[AIStaffing]] rather than only internal productivity.
 
 [[20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]] adds the [[OpenClaw]]-triggered startup-opportunity version. The episode argues that OpenClaw makes "digital employee" feel more concrete because a role-specific agent can enter through familiar communication surfaces, execute tasks through local or enterprise tools, and accumulate task traces that may become a moat.
 
@@ -30,6 +32,7 @@ Digital employees are the episode's frame for enterprise AI systems that behave 
 - OpenClaw-like agents suggest that digital employees may need both a social entry point and a controlled execution environment, not just a model endpoint.
 - Moxt adds that the digital-worker metaphor needs a value boundary: role-specific agents can act like coworkers without turning the product message into replacement-first labor arbitrage.
 - The Shengdong Jixi crossover adds that managing agents resembles front-line management: a user must assign goals, describe process, inspect output, and decide which responsibilities remain human.
+- E225 adds that digital employees can become a commercial staffing unit through [[AIStaffing]], and that humans may move toward training, review, signing, and responsibility rather than executing every task step.
 
 ## Connections
 - [[ForwardDeployedEngineer]] — role that onboards and manages digital employees inside enterprises.
@@ -42,3 +45,4 @@ Digital employees are the episode's frame for enterprise AI systems that behave 
 - [[OpenClaw]], [[IMAgentInterfaces]], [[LocalAgentExecution]], and [[OutcomeBasedAIPricing]] — startup-opportunity and labor-pricing frame added by the 20-question source.
 - [[Moxt]], [[AICoworkers]], [[OrganizationalContext]], and [[HumanJudgmentUnderAI]] — amplification-oriented coworker framing added by the Moxt source.
 - [[WangJunyu]], [[ShengdongHuopo]], [[AISkills]], and [[AIEngineeringThinking]] — small-team management and workflow-prototype case added by the Shengdong Jixi crossover.
+- [[SiliconCarbonGovernance]], [[ResultAsAService]], and [[AIStaffing]] — E225's organization and pricing extension of the digital-employee frame.
