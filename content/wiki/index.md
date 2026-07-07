@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP89 海外券商大地震，跨境投资新时代](sources/ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs.md) — Podcast episode on cross-border brokerage cleanup, Futu/Tiger/Longbridge, personal FX quota limits, offshore funding-route risk, and compliant channels such as Hong Kong Stock Connect, QDII, and Wealth Management Connect.
 - [Formula 1](sources/formula-1-1.md) — Acquired episode on Formula One as a sports-media business, Bernie Ecclestone's centralization, Liberty Media's professionalization, cost caps, Drive to Survive, and F1's league-level economics.
 - [Advice Line with Christina Tosi of Milk Bar](sources/advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96.md) — Podcast episode on Christina Tosi, Milk Bar, The Beau Collective, Cotton Clara, Vashon Island Coffee Dust, gift-to-loyal-buyer loops, and consumer-brand repeat behavior.
 - [The Walt Disney Company: Walt's Era](sources/the-walt-disney-company-1.md) — Acquired episode on Walt Disney, Roy Disney, Disney's owned-IP flywheel, Mickey Mouse, Snow White, merchandising, television, Disneyland, strategic rereleases, and vertical media distribution.
@@ -69,6 +70,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Futu Securities](entities/FutuSecurities.md) — Cross-border brokerage platform discussed through Chinese-language UX, community investing, mainland solicitation, and regulatory cleanup.
+- [Tiger Brokers](entities/TigerBrokers.md) — Overseas brokerage platform discussed through mainland investor onboarding, marketing, and the funding-route problem behind account access.
+- [Longbridge](entities/Longbridge.md) — Brokerage platform named in EP89 as part of the cross-border brokerage cleanup affecting overseas securities access.
+- [State Administration of Foreign Exchange](entities/StateAdministrationOfForeignExchange.md) — Chinese foreign-exchange regulator tied to personal FX quota use, declared fund purpose, and capital-account investment restrictions.
 - [Christina Tosi](entities/ChristinaTosi.md) — Milk Bar founder and Advice Line guest emphasizing creative founder leverage, community demand, packaging, and repeat behavior.
 - [Milk Bar](entities/MilkBar.md) — Dessert brand used as a case for founder role transition, brand reach, gifting, and direct-to-consumer packaging.
 - [The Beau Collective](entities/TheBeauCollective.md) — Park City fitness-retail community hub weighing Phoenix expansion, pre-sold memberships, landlord support, and community capital.
@@ -423,6 +428,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Cross-Border Brokerage Regulation](concepts/CrossBorderBrokerageRegulation.md) — Compliance perimeter around overseas brokers serving mainland Chinese investors, including solicitation, account status, investor identity, and lawful funding.
+- [Capital Account Investment Restrictions](concepts/CapitalAccountInvestmentRestrictions.md) — Boundary between personal current-account FX use and restricted overseas investment uses such as foreign stocks, property, and investment-linked insurance.
+- [Hong Kong Stock Connect](concepts/HongKongStockConnect.md) — Official mutual-market route for eligible mainland investors to buy selected Hong Kong stocks through a RMB-settled framework.
+- [Cross-Border Wealth Management Connect](concepts/CrossBorderWealthManagementConnect.md) — Greater Bay Area compliant channel for eligible investors to access scoped Hong Kong and Macau wealth-management products.
 - [Sports Media Rights](concepts/SportsMediaRights.md) — Live-sports broadcast/streaming rights that become more valuable when the competition is reliable, packaged, and audience-expanding.
 - [Broadcast Centralization](concepts/BroadcastCentralization.md) — Central feed and coordinated rights packaging that reduces broadcaster friction and makes a sport more dependable for fans and sponsors.
 - [Race Promotion Fees](concepts/RacePromotionFees.md) — Payments from hosts or promoters for the right to stage races, balancing venue revenue against heritage, access, and calendar coherence.

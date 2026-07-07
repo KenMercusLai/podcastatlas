@@ -323,3 +323,7 @@ Added source page for an Acquired episode on Walt Disney, Roy Disney, Disney's o
 ## [2026-07-07] report | Graph health report generated
 
 636 nodes analyzed.
+
+## [2026-07-07] ingest | EP89 海外券商大地震，跨境投资新时代
+
+Added source page for a YiLaoYongYi episode on overseas brokerage cleanup, Futu Securities, Tiger Brokers, Longbridge, personal FX quota limits, capital-account investment restrictions, underground transfer risk, Stock Connect, QDII, and Cross-Border Wealth Management Connect. Created supporting entity and concept pages for the major platforms, regulator, and compliant-access frameworks; updated overview, index, YiLaoYongYi, investment risk, AML, KYC, currency, RMB policy, overseas insurance, and regulator pages.
