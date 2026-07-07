@@ -407,3 +407,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-07] report | Graph health report generated
 
 776 nodes analyzed.
+
+## [2026-07-07] ingest | EP34 当高情商和分寸感缺失，唯有钢铁意志撑场
+
+Added source page for a YiLaoYongYi episode on social-signal interpretation, communication boundary setting, workplace communication risk, rumor amplification, and language precision. Created supporting pages for Maidisen, Social Signal Interpretation, Communication Boundary Setting, Workplace Communication Risk, and Language Precision; updated overview, index, YiLaoYongYi, and Workplace Hidden Rules pages.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

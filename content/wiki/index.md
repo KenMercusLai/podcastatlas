@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP34 当高情商和分寸感缺失，唯有钢铁意志撑场](sources/ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu.md) — Podcast episode on social-signal misreading, communication boundaries, workplace phrasing risk, rumor amplification, and language precision.
 - [EP35 降薪不降质？中产阶级最后的倔强](sources/ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43.md) — Podcast episode on financial-industry pay cuts, middle-class consumption pressure, and preserving life quality through lower-cost choices in coffee, travel, meals, commuting, fitness, watches, and workwear.
 - [EP64 投资路上踩坑无数，如今的我刀枪不入](sources/ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm.md) — Podcast episode on investment fraud red flags, fake platforms, stock-tip groups, elderly-care property traps, insurance policy-loan fraud, and investor responsibility.
 - [Advice Line with Tim Ferriss (August 2025)](sources/advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943.md) — Podcast episode on Tim Ferriss, Coyote, Gob, EB&Co, K Becker, channel focus, venue partnerships, wholesale testing, made-to-order apparel, and founder identity diversification.
@@ -329,6 +330,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mark Abbott](entities/MarkAbbott.md) — Founder of Ninety, discussing EOS, community-led growth, funding, hiring, and AI strategy.
 - [Marius Miners](entities/MariusMiners.md) — Founder of Peak AI, discussing AI search analytics, fast validation, pre-product selling, and category timing.
 - [Magic / 杰克](entities/MagicJack.md) — Banking practitioner guest explaining branch cash work, ATM operations, branch security, and Chinese-funded versus foreign-funded bank experience.
+- [麦迪森](entities/Maidisen.md) — YiLaoYongYi host using personal communication failures to explain social-signal interpretation, boundaries, workplace phrasing risk, and language precision.
 - [MatterGen](entities/MatterGen.md) — Materials-generation model example used to discuss scalable diffusion-based candidate generation.
 - [MatterSim](entities/MatterSim.md) — Materials simulation/model example used to discuss cross-property generalization in AI materials discovery.
 - [Matt Leeds](entities/MattLeeds.md) — Forward Consumer Partners figure who approached Justin Gold about returning to Justin's Nut Butter.
@@ -474,6 +476,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Social Signal Interpretation](concepts/SocialSignalInterpretation.md) — Reading indirect meaning from timing, relationship, setting, emotional state, and nonliteral prompts.
+- [Communication Boundary Setting](concepts/CommunicationBoundarySetting.md) — Deciding what to say, decline, defer, or leave unsaid based on relationship, setting, and likely interpretation.
+- [Workplace Communication Risk](concepts/WorkplaceCommunicationRisk.md) — Risk that office words, favors, jokes, or repeated patterns are interpreted differently by colleagues than intended.
+- [Language Precision](concepts/LanguagePrecision.md) — Practical need for clear pronunciation, terminology, and confirmation when misunderstanding would change action.
 - [Investment Fraud Red Flags](concepts/InvestmentFraudRedFlags.md) — Warning signs such as high easy returns, small early payouts, staged social proof, authority packaging, opaque contracts, and unfamiliar fund routes.
 - [Fake Investment Platform Risk](concepts/FakeInvestmentPlatformRisk.md) — Risk that displayed balances, prices, trades, or withdrawals belong to a false or manipulated investment platform rather than a real venue.
 - [Stock Tip Group Risk](concepts/StockTipGroupRisk.md) — Risk from teacher-led stock groups, screenshots, VIP fees, insider claims, and gain-sharing guidance where advice incentives are asymmetric.
