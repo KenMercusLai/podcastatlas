@@ -2,7 +2,7 @@
 title: "AI Coding Verification"
 type: concept
 tags: [ai-coding, software-engineering, verification]
-sources: [duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm]
+sources: [duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]
 last_updated: 2026-07-07
 ---
 
@@ -24,6 +24,8 @@ AI coding verification is the shift in bottleneck from generating code to provin
 
 [[1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm]] adds [[YuWenyuan]]'s production-boundary warning. He accepts [[VibeCoding]] for prototypes, but says mission-critical code still requires understanding each line's purpose and side effects; beginners should not overdelegate coding to AI because they lack the experience to identify plausible wrong output.
 
+[[vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]] adds the stronger-model version through [[Fable5]]. The hosts say one-shot output now often leaves only small review findings, and that Fable 5 can evaluate whether [[Codex]] review comments are worth fixing. This raises the ceiling of [[OneShotAICoding]], but it does not remove acceptance criteria, cross-review, tests, or human decisions about elegance and product fit.
+
 ## Key Claims
 - AI coding makes implementation cheaper, but architecture, roadmap choice, complexity control, tests, review, and long-term maintenance still matter.
 - Generated code should not reduce the developer's responsibility for commits made under their own identity.
@@ -43,6 +45,7 @@ AI coding verification is the shift in bottleneck from generating code to provin
 - Architecture maps become a verification aid when they let the human inspect whether generated changes crossed the wrong module boundary.
 - AI-generated-code percentage is a poor KPI if it encourages teams to maximize generated volume instead of verified, maintainable output.
 - Spec quality matters because formalized requirements and acceptance criteria make generated code more reviewable.
+- Stronger models can reduce severe first-pass bugs, but verification still has to decide whether the generated result is merely usable or product-quality.
 
 ## Connections
 - [[AgenticWorkflow]] — the workflow pattern that accelerates production and creates verification pressure.
@@ -57,3 +60,4 @@ AI coding verification is the shift in bottleneck from generating code to provin
 - [[DisplayErgonomics]] — episode 72's monitor discussion matters because verification depends on reading code, diffs, model output, and surrounding context clearly.
 - [[Playwright]], [[Codex]], [[ClaudeCode]], and [[AIEngineeringThinking]] — skill-driven verification case added by EP127.
 - [[YuWenyuan]], [[MaaSInfrastructure]], and [[VibeCoding]] — production-boundary and accountability case added by the Bailian source.
+- [[Fable5]], [[OneShotAICoding]], [[Codex]], and [[GrillMeSkills]] — stronger-model planning and cross-review case added by Vol. 170.

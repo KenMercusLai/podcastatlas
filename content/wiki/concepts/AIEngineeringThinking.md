@@ -2,7 +2,7 @@
 title: "AI Engineering Thinking"
 type: concept
 tags: [ai, workflow, software-engineering]
-sources: [ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun]
+sources: [ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]
 last_updated: 2026-07-07
 ---
 
@@ -20,6 +20,8 @@ AI engineering thinking is the habit of turning a vague goal into explicit requi
 
 [[weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun]] adds the operator version through [[AIOperationsRole]]. The hosts compare useful AI operators to low-code or VBA-heavy workers: they know enough business process to split ambiguous goals into executable tasks, choose the right model or tool, and judge whether a generated workflow is maintainable.
 
+[[vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]] adds the stronger-model planning version. [[Fable5]] can produce more useful first-pass plans and implementations, but the hosts still rely on requirement questioning, PRDs, ADRs, issue decomposition, review triage, and acceptance checks through [[GrillMeSkills]], [[Superpowers]], and [[Codex]].
+
 ## Key Claims
 - AI is most useful when the work can be decomposed into bounded tasks with clear inputs, outputs, and acceptance criteria.
 - Test-driven development, end-to-end tests, screenshots, code review, documentation, and logging become easier to enforce because AI will perform tedious process steps if asked.
@@ -34,6 +36,7 @@ AI engineering thinking is the habit of turning a vague goal into explicit requi
 - Spec coding turns requirements into an engineering artifact: the clearer the structure, constraints, and acceptance criteria, the more useful AI implementation becomes.
 - Engineering thinking includes knowing enough computer systems to catch AI mistakes instead of becoming a passive operator of generated code.
 - AI operations work depends on turning business ambiguity into requirements, tool choices, permission boundaries, and verification steps rather than only writing prompts.
+- Strong models reduce some implementation friction, but they increase the leverage of clear specs, model choice, and deciding when a workflow needs heavy process versus a light pass.
 
 ## Connections
 - [[VibeCoding]] — AI coding practice that needs this engineering posture to become product work.
@@ -47,3 +50,4 @@ AI engineering thinking is the habit of turning a vague goal into explicit requi
 - [[AISkills]], [[Playwright]], and [[RoutineAgentAutomation]] — EP127's route from repeated engineering judgment to reusable agent routines.
 - [[YuWenyuan]], [[AICodingVerification]], and [[VibeCoding]] — spec-coding and production-responsibility boundary added by the Bailian source.
 - [[AIOperationsRole]], [[HumanJudgmentUnderAI]], and [[AgenticWorkflow]] — business-process translation and verification frame added by the Manus source.
+- [[Fable5]], [[GrillMeSkills]], [[OneShotAICoding]], and [[ModelRoutingCostControl]] — stronger-model planning and cost-aware execution frame added by Vol. 170.

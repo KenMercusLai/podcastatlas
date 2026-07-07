@@ -2,7 +2,7 @@
 title: "AI Inference Cost Structure"
 type: concept
 tags: [ai, economics, infrastructure]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, eric-ries-on-how-founders-quietly-lose-their-company, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm]
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, eric-ries-on-how-founders-quietly-lose-their-company, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]
 last_updated: 2026-07-07
 ---
 
@@ -24,6 +24,8 @@ AI inference cost structure is the idea that large-model services incur meaningf
 
 [[1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm]] adds the cloud-serving side through [[AliyunBailian]]. [[YuWenyuan]] argues that token counts are not comparable unless model type, intelligence, latency, throughput, peak demand, GPU scheduling, and stability are considered. This turns inference cost into [[MaaSInfrastructure]]: a platform must keep compute utilized while still delivering secure, fast, reliable tokens.
 
+[[vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]] adds a heavy-user workflow case through [[Fable5]]. The hosts describe Fable-specific limits, faster quota burn than previous models, an API change costing about five dollars, and the danger of running full [[Superpowers]] flows on expensive models. The episode's practical response is [[ModelRoutingCostControl]]: route simple work to cheaper models and reserve top models for planning, hard coding, and review judgment.
+
 ## Key Claims
 - Token generation, GPU capacity, electricity, storage, and infrastructure procurement make AI usage costly at scale.
 - Free growth is harder when user growth directly increases inference load.
@@ -41,6 +43,7 @@ AI inference cost structure is the idea that large-model services incur meaningf
 - In executable agents, cost affects delegation psychology: users may underuse capable agents if every long task feels like a billable risk.
 - Raw token counts can mislead because different models and workloads consume very different compute for the same visible token volume.
 - Serving-side economics include latency, peak capacity, scheduling, security, GPU utilization, and domestic compute supply, not just per-token API price.
+- Cost-aware model routing becomes a user workflow problem, not only a cloud infrastructure problem, when top models have separate limits and burn noticeably faster.
 
 ## Connections
 - [[AICommercializationPressure]] — broader business pressure created by high model costs.
@@ -58,3 +61,4 @@ AI inference cost structure is the idea that large-model services incur meaningf
 - [[AIStartupUnitEconomics]], [[CharacterAI]], and [[MicoAILab]] — AI game/social commercialization case added by EP101.
 - [[OpenClaw]], [[IMAgentInterfaces]], [[LocalAgentExecution]], and [[AgentHarness]] — long-running agent cost case added by the 20-question source.
 - [[AliyunBailian]], [[YuWenyuan]], and [[MaaSInfrastructure]] — serving-platform case where compute-to-token conversion becomes the main infrastructure problem.
+- [[Fable5]], [[Superpowers]], [[GrillMeSkills]], and [[ModelRoutingCostControl]] — heavy-user workflow and quota-control case added by Vol. 170.

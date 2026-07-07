@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol. 170 Fable 5 重出江湖，GPT 仍需努力](sources/vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1.md) — Podcast episode on Fable 5, one-shot AI coding, Codex review workflows, Superpowers versus GrillMe skills, token-driven software, and model routing cost control.
 - [为什么Manus必须出海？聊聊国产大模型的“文科生困境”](sources/weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun.md) — Podcast episode on Manus, the episode's Meta/Facebook acquisition claim, AI-agent overseas commercialization, domestic model language constraints, Chinese platform friction, and AI operations roles.
 - [那个不穿西装的程序员，扯出了国产操作系统二十年秘史](sources/nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun.md) — Podcast episode on Tongxin Software, Deepin, Hiweed Linux, UOS, Kylin OS, Xinchuang operating systems, open-source commercialization, and technical-versus-sales culture tension.
 - [具身智能的滔天大泡沫中，他已经把机器人送进300个家庭｜对话张翼：未来不远创始人/CEO](sources/jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf.md) — Podcast episode on Zhang Yi, Weilai Buyuan, F2, home service robots, household robot data flywheels, consumer robotics full-stack engineering, and embodied-intelligence bubble cycles.
@@ -92,6 +93,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Fable 5](entities/Fable5.md) — AI model/product discussed through one-shot coding, planning, review triage, quota pressure, and token-driven product imagination.
+- [GrillMe Skills](entities/GrillMeSkills.md) — Matpaco skill workflow contrasted with Superpowers as a lighter manual path for requirement questioning, specs, ADRs, PRDs, and issue decomposition.
 - [Meta](entities/Meta.md) — Platform company claimed by the Manus episode to have acquired Manus, used as a case for model and platform firms buying agent application layers.
 - [OpenManus](entities/OpenManus.md) — Agent project referenced as evidence that Manus-like task execution, local browser operation, and workflow automation were becoming easier to reproduce.
 - [Tongxin Software](entities/TongxinSoftware.md) — Domestic operating-system company used by the episode to connect Deepin's community lineage with Xinchuang government-enterprise delivery and management culture.
@@ -822,6 +825,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mega-Cap Concentration Risk](concepts/MegaCapConcentrationRisk.md) — Risk that broad U.S. indexes become fragile when performance and weight concentrate in a handful of technology giants.
 - [Mission Driven Customer Education](concepts/MissionDrivenCustomerEducation.md) — Marketing and trial work that translates values-driven products into practical customer benefits.
 - [Model Harness Co-Evolution](concepts/ModelHarnessCoEvolution.md) — View that models and agent/harness systems improve each other through real workflow feedback.
+- [Model Routing Cost Control](concepts/ModelRoutingCostControl.md) — Matching tasks to models by capability, cost, quota, latency, and risk instead of always using the strongest model.
 - [Model Provider Tool Competition](concepts/ModelProviderToolCompetition.md) — Pressure on workflow startups when frontier model providers ship official tools in the same category.
 - [Mobile Internet Prehistory](concepts/MobileInternetPrehistory.md) — Handset, network, standards, and consumer-adoption layer that made later mobile internet possible.
 - [Money Laundering Stages](concepts/MoneyLaunderingStages.md) — Placement, layering, and integration model for how illicit funds are introduced, obscured, and re-entered as apparently legitimate money.
@@ -832,6 +836,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Open Web Traffic Decline](concepts/OpenWebTrafficDecline.md) — Shift of content, user intent, and discovery from crawlable web pages into closed or semi-closed app ecosystems.
 - [On Device Fast Slow Brain](concepts/OnDeviceFastSlowBrain.md) — Edge AI architecture separating immediate behavior decisions from slower reasoning for low-latency embodied response.
 - [On-Demand Apps](concepts/OnDemandApps.md) — Agent-assembled or generated app capabilities created when the user needs them instead of fully prebuilt feature menus.
+- [One-Shot AI Coding](concepts/OneShotAICoding.md) — Turning a substantial requirement into usable implementation in one main model pass, with verification rather than repeated prompting as the bottleneck.
 - [OS-Level Context](concepts/OSLevelContext.md) — Agent context gathered from the user's computer environment, including screens, input, apps, meetings, messages, and current activity.
 - [Operator-Subsidized Handsets](concepts/OperatorSubsidizedHandsets.md) — Carrier contract-phone channel that shaped 3G smartphone adoption and the "中华酷联" domestic handset stage.
 - [Outcome-Based AI Pricing](concepts/OutcomeBasedAIPricing.md) — Enterprise AI pricing based on delivered output, work volume, time, or transaction value rather than seats or custom projects.
@@ -884,6 +889,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Task As A Service](concepts/TaskAsAService.md) — Shift from operating visible apps toward delegated task completion through AI and agent-callable surfaces.
 - [Third-Party Wealth Platform Risk](concepts/ThirdPartyWealthPlatformRisk.md) — Product, incentive, platform-solvency, and legal-exposure risk when finance workers move clients into outside high-yield wealth platforms.
 - [Treasury Duration Risk](concepts/TreasuryDurationRisk.md) — Bond risk from rate sensitivity, long-bond supply, fiscal pressure, and currency effects despite a rate-cut-cycle setup.
+- [Token-Driven Software](concepts/TokenDrivenSoftware.md) — Software whose behavior, interface, content, or world rules are generated at use time by models rather than fully fixed ahead of time.
 - [Trend Following](concepts/TrendFollowing.md) — Trading discipline that waits for market confirmation through trend, volume, leadership, and higher-timeframe evidence.
 - [Trial Size Product](concepts/TrialSizeProduct.md) — Smaller, lower-commitment format that lets customers test a product before buying the full version.
 - [Turnkey Handset Solutions](concepts/TurnkeyHandsetSolutions.md) — Integrated chipset and phone-design packages that lowered the barrier to building feature phones.

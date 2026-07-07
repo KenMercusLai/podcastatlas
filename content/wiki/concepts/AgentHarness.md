@@ -2,7 +2,7 @@
 title: "Agent Harness"
 type: concept
 tags: [agents, infrastructure, context, tooling]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun]
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]
 last_updated: 2026-07-07
 ---
 
@@ -26,6 +26,8 @@ Agent harness is the model-external system that lets an AI agent act in the worl
 
 [[weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun]] adds a commercial-stability warning through [[Manus]]. The source says agent products may need to rework prompts, routing, and workflow logic when base models change, while 2B customers still expect stable delivery. In that sense, the harness must become a change-isolation and evaluation layer, not only an execution layer.
 
+[[vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]] adds a capability-versus-process warning through [[Fable5]]. The hosts see a large jump in practical coding behavior, but they also note that some of the improvement may come from harness and skill design rather than the base model alone. The harness therefore has to balance model power, verification loops, skill loading, and [[ModelRoutingCostControl]] rather than blindly maximizing process.
+
 ## Layers
 - Execution ability: CLI tools, file operations, browser use, language interpreters, code-registered tools, and protocol-style extensions.
 - Context and environment: system prompt, working directory, dependency state, git state, [[AISkills]], [[PersistentAgentMemory]], context-window management, compression, and task handoff.
@@ -47,6 +49,7 @@ Agent harness is the model-external system that lets an AI agent act in the worl
 - Scheduled personal routines extend the harness problem from single-task execution into triggers, recurrence, notifications, and auditability.
 - Verification tools such as [[Playwright]] are harness components because they let the model observe runtime behavior and repair failures.
 - Enterprise agent products need harness-level versioning, evaluation, and workflow governance so model upgrades do not silently break delivery.
+- Stronger models reduce some supervision burden, but harnesses still need step acceptance, review, and cost controls for long tasks.
 
 ## Connections
 - [[ClaudeCode]] and [[LearnClaudeCode]] — concrete harness sample analyzed in the source.
@@ -65,3 +68,4 @@ Agent harness is the model-external system that lets an AI agent act in the worl
 - [[IMAgentInterfaces]], [[LocalAgentExecution]], [[YaGe]], and [[Haoda]] — OpenClaw packaging and feedback-loop layer added by the 20-question episode.
 - [[RoutineAgentAutomation]], [[Playwright]], and [[AgentPermissionBoundaries]] — scheduled, verifiable, permissioned workflow layer added by EP127.
 - [[Manus]], [[AIAgentOverseasCommercialization]], and [[ModelProviderToolCompetition]] — commercial agent-stability and competition case added by the Keji Luandun source.
+- [[Fable5]], [[GrillMeSkills]], [[OneShotAICoding]], and [[ModelRoutingCostControl]] — capability, skill-selection, and routing case added by Vol. 170.

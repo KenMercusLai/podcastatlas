@@ -376,6 +376,10 @@ Added source page for a How I Built This episode on Tobias Lütke, Shopify, Snow
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-07] ingest | Vol. 170 Fable 5 重出江湖，GPT 仍需努力
+
+Added source page for a Fengyan Fengyu episode on Fable 5, one-shot AI coding, Codex planning/review workflows, Superpowers versus GrillMe skills, token costs, token-driven software, independent developer opportunities, AI interactive entertainment, and model routing. Created supporting pages for Fable 5, GrillMe Skills, One-Shot AI Coding, Token-Driven Software, and Model Routing Cost Control; updated overview and index.
+
 ## [2026-07-07] ingest | 那个不穿西装的程序员，扯出了国产操作系统二十年秘史
 
 Added source page for a Keji Luandun episode on Tongxin Software, Deepin, Hiweed Linux, Wuhan Deepin Technology, Chengmai Technology, Tongxin UOS, Kylin OS, Xinchuang operating systems, open-source community commercialization, and technical-versus-sales culture tension. Created supporting pages for the major people, companies, products, and operating-system concepts; updated overview, index, Keji Luandun, and Large Company Organizational Inertia.

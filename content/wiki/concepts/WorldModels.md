@@ -2,7 +2,7 @@
 title: "World Models"
 type: concept
 tags: [models, robotics, learning]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf]
+sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]
 last_updated: 2026-07-07
 ---
 
@@ -18,6 +18,8 @@ World models appear first in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touz
 
 [[2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne]] adds an entertainment view: world models make it easier to imagine generated worlds that users can enter and affect, but [[Xiaoning]] says the distance to stable game use remains large. The same source notes that game worlds may be useful as AI training or synthetic-data environments for [[EmbodiedAI]], even before they become consumer-ready [[AIInteractiveEntertainment]] products.
 
+[[vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]] adds a more speculative product-use version. The hosts imagine [[TokenDrivenSoftware]] in which sandboxes, element-combination games, camera/AR effects, and virtual experimental environments can generate plausible outcomes for actions that were not preauthored by developers.
+
 ## Connections
 - [[SecondRenaissance]] — broader idea that AI can change learning and creative expression.
 - [[VideoModels]] — adjacent generative model direction for richer world and scene representation.
@@ -30,3 +32,4 @@ World models appear first in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touz
 - [[YinQi]], [[StepFun]], [[QianliTechnology]], and [[AIPlusTerminals]] — vehicle and terminal route for collecting physical-world data and applying world models.
 - [[WeilaiBuyuan]], [[F2HomeRobot]], and [[HomeServiceRobots]] — home-service deployment case.
 - [[AIInteractiveEntertainment]], [[AIGameIndustrialization]], and [[AI3DPrototyping]] — entertainment and game-production constraints around generated worlds.
+- [[TokenDrivenSoftware]] and [[AIForScience]] — Vol. 170's connection between generated world rules, sandbox play, and cheaper simulation before physical experiments.

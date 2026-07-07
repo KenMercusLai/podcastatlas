@@ -2,7 +2,7 @@
 title: "AI Skills"
 type: concept
 tags: [skills, agents, workflow]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]
 last_updated: 2026-07-07
 ---
 
@@ -22,6 +22,8 @@ AI skills are reusable instructions and process packages that help an AI complet
 
 [[20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]] adds an ecosystem and consumer-agent version through [[OpenClaw]]. [[YaGe]] describes maintaining personal preference or "axiom" skills for research and synthesis, while the episode treats open-source skills, user PRs, skill markets, and AI-readable smart-home APIs as ways ordinary users can expand what an agent can do.
 
+[[vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1]] adds a manual skill-selection contrast through [[GrillMeSkills]]. The source says a full automatic bundle such as [[Superpowers]] can help non-experts by enforcing the whole software process, but experienced users may prefer to manually trigger requirement grilling, specs, ADRs, PRDs, or issue decomposition to save tokens and avoid over-structuring small tasks.
+
 ## Key Claims
 - A useful skill is more than style imitation.
 - Skills become more valuable when tied to [[AgenticWorkflow]] and real tools.
@@ -39,6 +41,7 @@ AI skills are reusable instructions and process packages that help an AI complet
 - Verification, testing, and release skills may matter more than generic framework skills because they let the agent prove that work is actually done.
 - Skills can become [[RoutineAgentAutomation]] when paired with scheduled execution for email, notes, analytics, cost monitoring, or research workflows.
 - Skill bloat is a real context and behavior risk; unused fashionable skills should be removed when they do not match actual recurring work.
+- The stronger the model, the more important skill loading discipline becomes: [[Fable5]] can do more in one pass, but automatically wrapping every task in a heavy process can waste [[AIInferenceCostStructure]].
 
 ## Connections
 - [[ContextEngineering]] — skills package and reuse context.
@@ -54,3 +57,4 @@ AI skills are reusable instructions and process packages that help an AI complet
 - [[Podwise]] and [[AgentOptimizedCLI]] — CLI-composition skill case added by EP124.
 - [[OpenClaw]], [[YaGe]], [[Haoda]], [[IMAgentInterfaces]], and [[LocalAgentExecution]] — skill-market and consumer-agent case added by the 20-question episode.
 - [[RoutineAgentAutomation]], [[Playwright]], and [[WeChatReading]] — repeated automation, verification, and personal knowledge cases added by EP127.
+- [[GrillMeSkills]], [[Superpowers]], [[Fable5]], and [[ModelRoutingCostControl]] — manual skill-selection and token-control contrast added by Vol. 170.
