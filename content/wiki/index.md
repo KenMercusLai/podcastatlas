@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [【旧番重听】蜜蜂经济学](sources/jiufan-zhongting-mifeng-jingjixue-956460448.md) — 商业就是这样 episode on bees as an economics case, covering Mandeville, Meade, Zhang Wuchang, pollination contracts, almond demand, Chinese honey standards, and colony-collapse risk.
 - [Snap judgement: Japan PM’s electoral landslide](sources/snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d.md) — The Intelligence episode on Takaichi Sanae's snap-election mandate, Texas campus speech restrictions, and Taxi Driver's misread antihero violence.
 - [EP122 拥有一辆房车是种什么样的体验？🤔](sources/ep122-yongyou-yiliang-fangche-shi-zhong-shenme-yang-de-tiyan-lhposkcf-otqhppghn1yjvpjgsrd.md) — 硬地骇客 episode on secondhand B-type RV ownership, pet travel, winter diesel and water logistics, parking constraints, mobile work, and why interested buyers should rent before buying.
 - [E145.上钟了！4000点之上的心理按摩](sources/e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e.md) — 面基 episode on A-share valuation indicators, 4000-point bull-market psychology, realized-versus-paper gains, value/momentum strategy mixing, and drawdown-aware allocation.
@@ -137,6 +138,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Bernard Mandeville](entities/BernardMandeville.md) — Economist-philosopher reference whose bee fable opens the source's theory-to-industry sequence.
+- [James Meade](entities/JamesMeade.md) — Economist whose bee-and-orchard example frames pollination as a positive-externality case.
+- [张五常](entities/ZhangWuchang.md) — Economist whose beekeeping contract investigation is used to challenge the simple market-failure reading of pollination.
+- [彭文君](entities/PengWenjun.md) — Chinese bee researcher cited for the potential value of China's pollination services beyond honey output.
 - [Takaichi Sanae](entities/TakaichiSanae.md) — Japanese prime minister whose snap-election landslide is framed as an unusually strong governing mandate.
 - [Liberal Democratic Party (Japan)](entities/LiberalDemocraticPartyJapan.md) — Dominant Japanese party turned from recent fragility into the institutional vehicle for Takaichi's lower-house mandate.
 - [Texas A&M University](entities/TexasAMUniversity.md) — Public-university case for syllabus review, Plato's Symposium removal, and academic-freedom pressure.
@@ -154,7 +159,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dairy Queen](entities/DairyQueen.md) — Mid-price ice-cream chain used as the steadier small-store comparison to Haagen-Dazs and Yeren Xiansheng.
 - [Mixue Bingcheng](entities/MixueBingcheng.md) — Tea-drink chain whose low-price soft serve makes it a large ice-cream-volume comparison point.
 - [General Mills](entities/GeneralMills.md) — Food company mentioned as the Haagen-Dazs parent-company context in the ice-cream episode.
-- [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for the fifth-anniversary listener episode on city commerce, local retail, platforms, tourism, and personal change.
+- [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for city commerce observations and the bee-economics episode on pollination, honey standards, and agricultural markets.
 - [Polymarket](entities/Polymarket.md) — Prediction-market example used by E144 to explain price-as-probability thinking and residual risk.
 - [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for AI-bubble hedging, Erdogan succession, Japan's snap-election mandate, Texas campus speech controls, and Taxi Driver analysis.
 - [Rosie Bloor](entities/RosieBloor.md) — Host introducing the episode's finance, Turkey politics, and literary obituary segments.
@@ -756,6 +761,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, and Louis Hong episodes.
 
 ## Concepts
+- [Externality Internalization](concepts/ExternalityInternalization.md) — Process of turning spillover costs or benefits into contracts, prices, norms, subsidies, or operating risks.
+- [Pollination Service Market](concepts/PollinationServiceMarket.md) — Agricultural-service market where beekeepers are paid to move hives into farms and orchards for crop pollination.
+- [Honey Quality Standards](concepts/HoneyQualityStandards.md) — Food-standard and trust problem around mature honey, concentrated honey, fake honey, and beekeeper income.
+- [Bee Colony Collapse](concepts/BeeColonyCollapse.md) — Beekeeping risk where worker bees disappear or colonies fail, turning ecology into supply-chain and replacement-cost pressure.
 - [Electoral Mandate](concepts/ElectoralMandate.md) — Governing authority created by a decisive election result, especially when party fragility and opposition collapse give a leader policy speed.
 - [Academic Freedom](concepts/AcademicFreedom.md) — Higher-education freedom to teach and study contested material without coercive political or administrative control.
 - [Campus Speech Regulation](concepts/CampusSpeechRegulation.md) — Laws, policies, reviews, approvals, and disclaimers that shape what can be taught or said on campus.
@@ -865,7 +874,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [FOF Product Design](concepts/FOFProductDesign.md) — Fund-of-funds product discipline that reverse-engineers return, drawdown, volatility, and client-holding behavior.
 - [Free Cash Flow Indexing](concepts/FreeCashFlowIndexing.md) — Factor-indexing approach that screens for cash-generating companies as a possible return-improving equity exposure.
 - [60/40 Portfolio](concepts/SixtyFortyPortfolio.md) — Simple U.S. equity and bond strategic base used before testing factor, duration, or alternative-asset refinements.
-- [Commodity Price Exposure](concepts/CommodityPriceExposure.md) — Operating and pricing risk created when a product depends on an input whose market price can move faster than customers' willingness to pay.
+- [Commodity Price Exposure](concepts/CommodityPriceExposure.md) — Operating and pricing risk created when input costs or low-trust commodity output prices move faster than customer willingness to pay or quality differentiation.
 - [Story Led Consumer Branding](concepts/StoryLedConsumerBranding.md) — Consumer-brand pattern where a product's meaning comes from a founder, family, place, ritual, or loss story that customers can remember and repeat.
 - [Family Business Scaling](concepts/FamilyBusinessScaling.md) — Growth problem where channel choice, production capacity, identity, and family relationships have to fit the scale the business actually wants.
 - [Founder Work Boundaries](concepts/FounderWorkBoundaries.md) — Physical, calendar, and relationship structures that keep a founder-led company from occupying every part of the founder's life.
@@ -1192,7 +1201,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Local Lifestyle Store Reviews](concepts/LocalLifestyleStoreReviews.md) — Local merchant review workflow where creators turn meals, shops, hotels, services, and check-in scenes into platform posts.
 - [Local Market Proof](concepts/LocalMarketProof.md) — Proving demand, channel fit, repeat behavior, and operating routines in a concentrated market before broad expansion.
 - [Long-Chain AI Competition](concepts/LongChainAICompetition.md) — Foundation-model competition across model capability, talent, compute, commercial closure, terminal pull, data, and organization.
-- [Market Efficiency](concepts/MarketEfficiency.md) — Frame for mostly efficient markets with small, temporary inefficiencies that quant systems try to exploit.
+- [Market Efficiency](concepts/MarketEfficiency.md) — Frame for market coordination through prices, from mostly efficient financial markets to agricultural contracts that internalize some spillovers.
 - [Market Mean Reversion](concepts/MarketMeanReversion.md) — Valuation and cycle frame where prices far from historical anchors can revert or overshoot under stress.
 - [Market Regime Shift](concepts/MarketRegimeShift.md) — Market state changes where historical statistical patterns may stop working.
 - [Made-To-Order Commerce](concepts/MadeToOrderCommerce.md) — Physical-product model where customer orders precede manufacturing, reducing inventory risk while testing wait tolerance.

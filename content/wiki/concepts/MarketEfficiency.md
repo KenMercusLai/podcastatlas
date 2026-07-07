@@ -2,7 +2,7 @@
 title: "Market Efficiency"
 type: concept
 tags: [investing, markets]
-sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0]
+sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, jiufan-zhongting-mifeng-jingjixue-956460448]
 last_updated: 2026-07-08
 ---
 
@@ -14,6 +14,8 @@ Market efficiency is the episode's frame for why profitable edges are hard, temp
 
 [[e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0]] adds the prediction-market version through [[Polymarket]]. The source uses price-as-probability to explain why market prices can summarize participants' current odds while still leaving residual risk and no guarantee for the next event.
 
+[[jiufan-zhongting-mifeng-jingjixue-956460448]] adds a non-financial version through bees and orchards. [[ZhangWuchang]]'s contract evidence suggests that even relationships first taught as market failures can become coordinated by seasonal prices, crop-specific contracts, and local norms inside a [[PollinationServiceMarket]]. The source does not claim markets erase every risk; it pairs [[ExternalityInternalization]] with [[BeeColonyCollapse]] to show that pricing can make a risk operable without making the underlying biology stable.
+
 ## Key Claims
 - Efficient markets do not mean no one can profit; they mean durable profit is difficult and competition erodes obvious strategies.
 - A-shares are described as historically having stronger signals than U.S. equities because of retail participation, short-selling limits, and slower information flow.
@@ -22,6 +24,7 @@ Market efficiency is the episode's frame for why profitable edges are hard, temp
 - Portfolio value can come from return and correlation fit, not only from finding a mispriced standalone asset.
 - Prediction-market prices can be useful probability summaries, but a small quoted risk is not the same as zero risk.
 - Price aggregation does not make later stories causal; [[RandomMarketNarratives]] can still emerge after the fact.
+- Agricultural contracts can internalize some spillover benefits, but efficient pricing of pollination is not the same as eliminating hive-health, pesticide, or disease risk.
 
 ## Connections
 - [[QuantitativeInvesting]] — method used to exploit small inefficiencies.
@@ -30,3 +33,4 @@ Market efficiency is the episode's frame for why profitable edges are hard, temp
 - [[PassiveInvesting]] — depends on active price discovery even as it grows.
 - [[EfficientFrontier]] and [[AssetCorrelation]] — E158's portfolio-level extension beyond single-asset efficiency.
 - [[Polymarket]], [[NoPredictionTrading]], and [[RandomMarketNarratives]] — E144's price-as-probability and narrative-risk extension.
+- [[jiufan-zhongting-mifeng-jingjixue-956460448]], [[ExternalityInternalization]], and [[PollinationServiceMarket]] — bee-contract extension outside financial markets.

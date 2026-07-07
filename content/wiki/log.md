@@ -919,3 +919,11 @@ Added source page for a The Intelligence episode on Takaichi Sanae's snap-electi
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | 【旧番重听】蜜蜂经济学
+
+Added source page for a 商业就是这样 episode on bee economics, Mandeville, Meade, Zhang Wuchang, pollination contracts, U.S. almond-driven hive rental, Chinese honey standards, Peng Wenjun's pollination-value claim, and colony-collapse risk. Created pages for Bernard Mandeville, James Meade, 张五常, 彭文君, Externality Internalization, Pollination Service Market, Honey Quality Standards, and Bee Colony Collapse; updated overview, index, 商业就是这样, Market Efficiency, and Commodity Price Exposure. No direct contradiction found; the source qualifies simple externality stories by showing both contract-market internalization and policy/standard gaps.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint after health passed. Deterministic and graph-aware checks found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, no sparse pages, no hub stubs, two fragile graph bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; a limited in-session semantic sample review found no direct contradictions and flagged source-breadth risk for broad AI, macro, compliance, and strategy claims. No lint report file was saved.
