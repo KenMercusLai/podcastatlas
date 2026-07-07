@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-08] ingest | 133. 对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42
+
+Added source page for a 张小珺Jùn｜商业访谈录 episode on Xie Saining, AMI Labs, Yann LeCun, representation learning, self-supervised learning, research taste, problem definition, DiT, JEPA, world models, and a decentralized real-world data strategy beyond LLM-only scaling. Created supporting pages for Xie Saining, AMI Labs, Yann LeCun, Ilya Sutskever, Fei-Fei Li, Kaiming He, FAIR, NYU, UCSD, ImageNet, Representation Learning, Self-Supervised Learning, Research Taste, Problem Definition In Research, Multimodal Intelligence, Diffusion Transformers, Joint Embedding Predictive Architecture, Decentralized World Model Strategy, and ResNeXt; updated overview, index, 张小珺Jùn｜商业访谈录, World Models, Frontier Model Scaling, Language User Interface, AI Organization Design, AI Plus Terminals, Embodied AI, OpenAI, Meta, and Causal World Models. No direct contradiction found; the source qualifies LLM-centered and language-interface narratives by arguing that language is an interface rather than the whole substrate of intelligence.
+
 ## [2026-07-08] ingest | 智力贬值的春节见闻录，与那场正在酝酿的优贷危机
 
 Added source page for a Keji Luandun episode on Spring Festival AI observations, Seedance-style video generation, AI copyright and digital celebrities, GLM5 coding experiments, intelligence devaluation, prime-borrower credit risk, podcast-editing and flower-shop product examples, and why domain know-how, field observation, human judgment, and communication remain scarce after AI lowers production cost. Created Intelligence Devaluation, Prime Borrower Credit Risk, Seedance, and GLM5; updated overview, index, Keji Luandun, ByteDance, Zhipu AI, Human Resource Deflation Compute Infrastructure Inflation, AI Content Devaluation, Consumer Loan Risk, Middle-Class Consumption Pressure, Financial Career Risk, AI Engineering Thinking, AI Programming Engine Shift, Domain Expert Alignment, Human Judgment Under AI, Video Models, Offline AI Implementation, and AI Visual Merchandising. No direct contradiction found; the source adds a sharper lender-side tension to earlier household-credit pages by asking whether white-collar borrower quality may weaken if AI reprices cognitive labor.
@@ -743,6 +747,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] ingest | E155.似乎没什么人再提「AI 泡沫论」了
 
 Added source page for a 面基 episode on AI-bubble skepticism cooling, tokens as a generative-AI usage metric, CAPEX/contract-liability/deferred-revenue/ARR validation, Anthropic's MCP/Skills/Claude agent route, LUI pressure on software, human-resource deflation converting into compute-infrastructure inflation, AI energy constraints, Holo assets, and Hang Seng Tech's lack of hard-asset attributes. Created AI Investment Metrics, Jevons Paradox In AI, Model Context Protocol, Language User Interface, CAPEX OPEX Substitution, Human Resource Deflation Compute Infrastructure Inflation, and Holo Assets; updated overview, index, 面基, Anthropic, OpenAI, Google, ChatGPT, Claude Code, Nvidia, Hang Seng Tech Index, AI Inference Cost Structure, MaaS Infrastructure, AI Skills, Headless Software, Agentic Software, AI Equity Valuation Risk, AI Compute Continuity, and Data Center Physical Resilience. No direct contradiction found; the source qualifies prior AI bubble and valuation-risk material by adding more measurable business indicators while preserving entry-price and data-verification cautions.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-08] lint | Wiki health check
 

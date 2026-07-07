@@ -2,8 +2,8 @@
 title: "Frontier Model Scaling"
 type: concept
 tags: [models, scaling, infrastructure]
-sources: [duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
-last_updated: 2026-07-07
+sources: [duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]
+last_updated: 2026-07-08
 ---
 
 # Frontier Model Scaling
@@ -20,6 +20,8 @@ Frontier model scaling is the attempt to improve AI capability by increasing mod
 
 [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]] adds a policy-facing scaling doubt. The hosts discuss scaling law, parameter size, smaller models, edge models, and AGI uncertainty while arguing that current assistant-level usefulness is already commercially important. They use [[GLM52]] to show that long-context and coding improvements can narrow perceived gaps even if top closed models remain stronger.
 
+[[133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]] adds [[XieSaining]]'s representation-first critique of LLM-centered scaling. He argues that language models are important but should fade into a larger system because language is a human-created abstraction and communication layer, not the whole world. For [[AMILabs]], the hard scaling problem is therefore not only bigger internet text models, but better [[RepresentationLearning]], [[MultimodalIntelligence]], [[WorldModels]], and real-world partner data.
+
 ## Key Claims
 - Each model generation may require several times more parameters or training investment, but simple scaling-law extrapolation cannot be pushed indefinitely.
 - Yan says U.S. frontier models are roughly an order of magnitude ahead of Chinese models, which he equates to about two model generations.
@@ -33,6 +35,8 @@ Frontier model scaling is the attempt to improve AI capability by increasing mod
 - Training materials models can dominate early company cost because compute and AI talent are expensive even before production scale-up.
 - User perception of a new model release can become part of the scaling debate when larger models feel more polished but not categorically different.
 - Scaling debates are not only technical: perceived danger can trigger [[AIExportControls]], while "good enough" open models can change user behavior even before they lead benchmarks.
+- LLM scaling may remain useful while ceasing to be the only organizing principle if physical-world prediction, action, memory, and abstraction become the bottleneck.
+- Real-world partner data can become a scaling input when a company pursues [[DecentralizedWorldModelStrategy]] rather than only centralized internet pretraining.
 
 ## Connections
 - [[MiniMax]] and [[YanJunjie]] — source of the scaling discussion.
@@ -45,3 +49,4 @@ Frontier model scaling is the attempt to improve AI capability by increasing mod
 - [[MatterSim]], [[MatterGen]], [[Kaiwuji]], and [[AIMaterialsDiscovery]] — materials-model scaling case.
 - [[ChatGPT]], [[Anthropic]], and [[DeepSeek]] — model-cycle references added by the Neihe Konghuang episode.
 - [[GLM52]], [[AIExportControls]], and [[OpenSourceAIModels]] — policy and good-enough substitution case added by the Keji Luandun export-control episode.
+- [[XieSaining]], [[AMILabs]], [[RepresentationLearning]], and [[DecentralizedWorldModelStrategy]] — representation-first and real-world-data critique of LLM-centered scaling.

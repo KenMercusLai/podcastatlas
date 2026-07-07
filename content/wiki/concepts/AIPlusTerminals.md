@@ -2,8 +2,8 @@
 title: "AI Plus Terminals"
 type: concept
 tags: [ai, hardware, commercialization]
-sources: [131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]
-last_updated: 2026-07-07
+sources: [131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]
+last_updated: 2026-07-08
 ---
 
 # AI Plus Terminals
@@ -14,6 +14,8 @@ AI plus terminals is [[YinQi]]'s commercialization thesis in [[131-yin-qi-churen
 
 [[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] adds the consumer-device and high-risk-interface version. The hosts discuss OpenAI smart-earbud rumors, always-on recorder hardware, local translation models, Neuralink OTA updates, and robot sales timelines, using them to show that terminals can lower interaction friction while increasing privacy, safety, and maintenance stakes.
 
+[[133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]] adds a world-model data version through [[AMILabs]]. [[XieSaining]] names AI glasses, personal assistants, and wearable devices as possible interfaces where always-on sensors and body/context data require systems that can perceive, remember, predict, and make useful decisions rather than only chat.
+
 ## Key Claims
 - Pure 2B and pure software 2C are treated as difficult standalone paths for foundation-model companies because model investment is large and business or data loops may be insufficient.
 - Hardware, software, and models may become a three-part system as more agents gain device or physical carriers.
@@ -22,6 +24,7 @@ AI plus terminals is [[YinQi]]'s commercialization thesis in [[131-yin-qi-churen
 - The long-term destination is tied to [[EmbodiedAI]]: models eventually need interaction with the physical world, not only digital or language tasks.
 - Robot terminals can be necessary for data and commercialization because physical-world operation data may not be available to a pure software or model supplier.
 - Voice wearables and always-on recorders can make AI more useful by reducing capture friction, but their value depends on local processing, privacy, useful summarization, and explicit action boundaries.
+- For [[WorldModels]], terminals can be sensors and feedback surfaces as much as commercial packaging; the device matters because it creates continuous contact with the physical world.
 
 ## Connections
 - [[YinQi]], [[StepFun]], and [[QianliTechnology]] — source speaker and company pair behind the thesis.
@@ -31,3 +34,4 @@ AI plus terminals is [[YinQi]]'s commercialization thesis in [[131-yin-qi-churen
 - [[ProductLedWillingnessToPay]] — terminals still need product value strong enough for users or customers to pay.
 - [[Xinghaitu]], [[PhysicalWorldDataFlywheel]], and [[EmbodiedAIValueChain]] — robot-terminal version where the device is both the product and the source of training data.
 - [[VoiceInteraction]], [[LocalAgentExecution]], [[AgentPermissionBoundaries]], and [[EmbodiedAI]] — device, local-model, and safety themes added by Vol. 162.
+- [[AMILabs]], [[WorldModels]], [[MultimodalIntelligence]], and [[DecentralizedWorldModelStrategy]] — sensor and real-world data route added by the Xie Saining source.

@@ -2,8 +2,8 @@
 title: "Embodied AI"
 type: concept
 tags: [robotics, physical-ai, investment]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan]
-last_updated: 2026-07-07
+sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]
+last_updated: 2026-07-08
 ---
 
 # Embodied AI
@@ -18,6 +18,8 @@ Embodied AI refers to physical AI, robotics, and systems that act in real-world 
 
 [[132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan]] adds an industrial/productivity robotics case through [[Xinghaitu]]. [[GaoJiyang]] argues that the robot body is both the data carrier and the commercial good, so embodied intelligence has to combine [[PhysicalWorldDataFlywheel]], [[RealRobotDataStrategy]], [[EmbodiedAIValueChain]], [[WheelBasedDualArmRobots]], and [[ProductionRobotScenarioSelection]] rather than only a detached robot brain.
 
+[[133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]] adds a broader physical-world intelligence bridge through [[AMILabs]]. [[XieSaining]] does not reduce the problem to robots, but argues that [[WorldModels]] need continuous perception, action-conditioned prediction, memory, planning, and real-world partner data from domains such as wearables, hospitals, farms, cars, and other physical contexts.
+
 ## Commercialization Mentioned
 - Robot performances and rentals.
 - Data collection.
@@ -28,6 +30,7 @@ Embodied AI refers to physical AI, robotics, and systems that act in real-world 
 - Generalized robot brains built from [[CausalWorldModels]], where product feasibility depends on data, compute, and robotics full-stack engineering.
 - Cars, cabins, phones, and wearables as staged terminals for physical-world interaction before mature robots.
 - Developer and production robots such as [[Xinghaitu]]'s [[WheelBasedDualArmRobots]], where value depends on real-world data, whole-machine execution, model/action architecture, and production-scene fit.
+- World-model partner environments such as wearables, hospitals, farms, cars, and other physical contexts where [[AMILabs]] expects perception, action, and feedback loops to matter.
 
 ## Connections
 - [[WorldModels]] — model direction tied to physical reasoning and robot capability.
@@ -42,3 +45,4 @@ Embodied AI refers to physical AI, robotics, and systems that act in real-world 
 - [[YinQi]], [[StepFun]], [[QianliTechnology]], and [[AIPlusTerminals]] — terminal-led route from foundation models toward physical-world AI.
 - [[Xinghaitu]], [[GaoJiyang]], [[Waymo]], and [[Momenta]] — autonomous-driving-to-robotics route added by the Xinghaitu source.
 - [[PhysicalWorldDataFlywheel]], [[RealRobotDataStrategy]], [[EmbodiedAIValueChain]], [[WheelBasedDualArmRobots]], and [[ProductionRobotScenarioSelection]] — industrial/productivity robotics strategy concepts.
+- [[AMILabs]], [[XieSaining]], [[MultimodalIntelligence]], and [[DecentralizedWorldModelStrategy]] — broader physical-world world-model route beyond robot-only deployment.

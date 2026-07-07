@@ -2,13 +2,15 @@
 title: "Causal World Models"
 type: concept
 tags: [world-models, causal-ai, robotics]
-sources: [na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr]
-last_updated: 2026-07-06
+sources: [na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]
+last_updated: 2026-07-08
 ---
 
 # Causal World Models
 
 Causal world models are [[WorldModels]] that represent the physical world through causal variables, causal structure, and action-conditioned transition dynamics. In [[na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr]], [[HuangBiwei]] presents this as [[AetherAI]]'s route to a generalized robot brain for [[EmbodiedAI]].
+
+[[133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]] adds a nearby but broader [[AMILabs]] route through [[XieSaining]]. Xie says useful [[WorldModels]] should support counterfactual or causal inference, but his emphasis is predictive [[RepresentationLearning]], [[JointEmbeddingPredictiveArchitecture]], memory, planning, controllability, and partner data loops rather than an explicitly causal-variable-first architecture. This makes the AMI source a contrast case rather than a duplicate of the Aether AI route.
 
 ## Core Requirements
 - Learn causal variables and features in latent space, such as shape, quantity, velocity, angular velocity, and friction.
@@ -27,3 +29,4 @@ Causal world models are also framed as a data-efficiency strategy. If a model un
 - [[EmbodiedAI]] and [[WorldModels]] — deployment domain and broader category.
 - [[VisionLanguageActionModels]] and [[WorldActionModels]] — alternative or intermediate robot-modeling approaches.
 - [[VideoModels]] and [[FrontierModelScaling]] — generative and scaling routes that the causal approach absorbs but does not reduce to.
+- [[AMILabs]], [[XieSaining]], and [[JointEmbeddingPredictiveArchitecture]] — adjacent predictive-representation route that overlaps on physical-world grounding but differs in emphasis.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [133. 对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42](sources/133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42.md) — Podcast episode on Xie Saining, AMI Labs, Yann LeCun, representation learning, self-supervised learning, world models, JEPA, and a decentralized real-world data strategy beyond LLM-only scaling.
 - [当可靠的代码变成了偶尔发疯的OpenClaw，我们未来的工作范式变迁](sources/dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian.md) — Keji Luandun episode on OpenClaw local-agent reliability, probabilistic software, local permissions, memory and skills, Kimi cost routing, MCP service entry, AI coding verification, and programmer skill-transfer risk.
 - [智力贬值的春节见闻录，与那场正在酝酿的优贷危机](sources/zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1.md) — Keji Luandun episode on Spring Festival AI observations, Seedance-style video generation, GLM5 coding, intelligence devaluation, prime-borrower credit risk, and why domain know-how remains scarce.
 - [E155.似乎没什么人再提「AI 泡沫论」了](sources/e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf.md) — 面基 episode on AI-bubble skepticism cooling, tokens/CAPEX/contract-liability/ARR metrics, Anthropic's MCP/Skills/Claude agent route, LUI pressure on software, compute-infrastructure inflation, Holo assets, and Hang Seng Tech repricing.
@@ -118,6 +119,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Xie Saining](entities/XieSaining.md) — AI researcher and AMI Labs founder framing representation learning, world models, and research taste as one route beyond LLM-only intelligence.
+- [AMI Labs](entities/AMILabs.md) — World-model startup described as a reverse-OpenAI organization built around real-world partners, predictive representations, and decentralized data loops.
+- [Yann LeCun](entities/YannLeCun.md) — AI researcher and AMI collaborator associated in the source with JEPA, NYU institution building, and world-model direction.
+- [Ilya Sutskever](entities/IlyaSutskever.md) — AI researcher used in the source as the route Xie twice declined in favor of FAIR/NYU/AMI world-model work.
+- [Fei-Fei Li](entities/FeiFeiLi.md) — AI researcher whose ImageNet problem-definition work is treated by Xie as a model for field-shaping research.
+- [Kaiming He](entities/KaimingHe.md) — AI researcher whose FAIR collaboration with Xie anchors the source's lessons on ResNeXt, self-supervision, strong baselines, and research taste.
+- [FAIR](entities/FAIR.md) — Meta research-lab context where Xie worked on representation learning, ResNeXt, self-supervision, and diffusion-transformer research.
+- [NYU](entities/NYU.md) — University context for Xie's move from FAIR toward world-model work with Yann LeCun.
+- [UCSD](entities/UCSD.md) — University context for Xie's PhD path and Huang Biwei's earlier institutional background.
+- [ImageNet](entities/ImageNet.md) — Computer-vision dataset and benchmark used as the source's example of problem definition enabling scalable progress.
 - [Seedance](entities/Seedance.md) — ByteDance video model discussed as evidence that AI video is moving from mockups toward production-like media.
 - [GLM5](entities/GLM5.md) — Zhipu AI model used in the Keji Luandun source's hands-on AI coding and product-prototype examples.
 - [热乎乱炖](entities/RehuLuandun.md) — AI-assisted Keji Luandun news aggregation and host-style commentary project built from prior transcript voice patterns.
@@ -653,6 +664,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Representation Learning](concepts/RepresentationLearning.md) — Learning useful abstractions from data, treated by Xie Saining as the trunk connecting vision, self-supervision, diffusion, multimodal AI, and world models.
+- [Self-Supervised Learning](concepts/SelfSupervisedLearning.md) — Representation-learning route discussed through pretext tasks, contrastive learning, MoCo, and the limits of treating language models as pure self-supervision.
+- [Research Taste](concepts/ResearchTaste.md) — Research judgment around baselines, experiment prediction, pivoting, storytelling, and choosing problems that matter.
+- [Problem Definition In Research](concepts/ProblemDefinitionInResearch.md) — Ability to define a tractable and consequential research problem, illustrated by Fei-Fei Li and ImageNet.
+- [Multimodal Intelligence](concepts/MultimodalIntelligence.md) — Route from language-only systems toward visual, spatial, continuous, and predictive world understanding.
+- [Diffusion Transformers](concepts/DiffusionTransformers.md) — DiT and related representation-aware diffusion architecture work discussed as part of Xie's FAIR research line.
+- [Joint Embedding Predictive Architecture](concepts/JointEmbeddingPredictiveArchitecture.md) — JEPA-style predictive representation architecture tied to Yann LeCun, AMI Labs, and world models.
+- [Decentralized World Model Strategy](concepts/DecentralizedWorldModelStrategy.md) — AMI Labs strategy of building world models through real-world partner data loops rather than only centralized internet-scale pretraining.
+- [ResNeXt](concepts/ResNeXt.md) — FAIR-era scalable computer-vision architecture linked to Xie Saining, Kaiming He, ImageNet, and representation learning.
 - [Intelligence Devaluation](concepts/IntelligenceDevaluation.md) — AI-era labor-value frame where education, coding, and professional knowledge lose some scarcity premium.
 - [Prime Borrower Credit Risk](concepts/PrimeBorrowerCreditRisk.md) — "优贷危机" frame where formerly high-quality white-collar borrowers may become less stable if AI reprices their income.
 - [AI Investment Metrics](concepts/AIInvestmentMetrics.md) — Tracking generative AI through tokens, CAPEX, contract liabilities, deferred revenue, AI-native revenue, and ARR rather than user-count narrative alone.

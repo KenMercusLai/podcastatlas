@@ -2,8 +2,8 @@
 title: "AI Organization Design"
 type: concept
 tags: [ai, organizations, management]
-sources: [131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq]
-last_updated: 2026-07-07
+sources: [131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]
+last_updated: 2026-07-08
 ---
 
 # AI Organization Design
@@ -15,6 +15,8 @@ AI organization design is the problem of building organizations that can handle 
 [[openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6]] adds [[AirJelly]]'s early-startup operating experiment. [[HuangBote]] says meetings are batch information alignment, while the team prefers more streaming communication and is testing a team version where members' agents talk in a group to catch feature conflicts or progress updates. The same source draws a boundary against surveillance: team sharing should be voluntary, not [[AIWorkforceMonitoring]].
 
 [[agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq]] adds [[Moxt]]'s organization-level workspace experiment. [[ZhangHaoran]] describes fewer routine sync meetings, AI-generated work artifacts, shared project state, and many [[AICoworkers]] inside one [[AINativeWorkspace]], but also sets a value boundary that agents should amplify people rather than reduce them to replaceable labor.
+
+[[133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]] adds [[AMILabs]] as a frontier-research startup organization case. [[XieSaining]] says the company is neither a pure research lab nor a closed big-model company: it needs a business model, but also wants young researchers to have visibility, preserve [[ResearchTaste]], and build [[WorldModels]] through real-world partners rather than becoming a huge anonymous machine.
 
 ## Key Claims
 - High-IQ technical talent is not enough; people also need mission, collaboration, persistence, and willingness to do disciplined work.
@@ -32,6 +34,7 @@ AI organization design is the problem of building organizations that can handle 
 - AI-enabled productivity measurement must avoid confusing telemetry with contribution, especially when creative, review, and judgment work are not visible in raw activity traces.
 - AI-native company design may reduce some meetings through shared agent memory and agent-to-agent coordination, but only if it preserves human choice about what context is shared.
 - AI-native workspaces can move coordination from meetings and manual dashboards into shared context, but they need explicit values, privacy, and responsibility boundaries.
+- A world-model startup may need to combine mission-driven research culture, real-world partner access, decentralized offices, and commercial discipline rather than copying either a university lab or a closed frontier-model company.
 
 ## Connections
 - [[YinQi]], [[StepFun]], and [[Megvii]] — source speaker, new organization, and retrospective organization case.
@@ -45,3 +48,4 @@ AI organization design is the problem of building organizations that can handle 
 - [[AIWorkforceMonitoring]] and [[HumanJudgmentUnderAI]] — evaluation and ethics problem added by Vol. 166.
 - [[AirJelly]], [[HuangBote]], and [[ProactiveAgents]] — startup operating experiment around agent-mediated team context.
 - [[Moxt]], [[ZhangHaoran]], [[AICoworkers]], and [[OrganizationalContext]] — AI-native workspace and organization-design case added by the Moxt source.
+- [[AMILabs]], [[XieSaining]], [[YannLeCun]], [[ResearchTaste]], and [[DecentralizedWorldModelStrategy]] — research-startup organization case added by the Xie Saining source.

@@ -2,8 +2,8 @@
 title: "Meta"
 type: entity
 tags: [company, ai, platform]
-sources: [weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun]
-last_updated: 2026-07-07
+sources: [weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]
+last_updated: 2026-07-08
 ---
 
 # Meta
@@ -12,9 +12,13 @@ Meta is introduced in [[weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-d
 
 The source speculates that Meta could see [[Manus]] demand through platform or advertising-related data unavailable to outside observers. It also argues that an agent product can matter to Meta if it helps connect model releases, ads, marketing workflows, and user-facing execution inside [[AIAgentOverseasCommercialization]].
 
+[[133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]] adds Meta through [[FAIR]], the research-lab environment where [[XieSaining]] worked with [[KaimingHe]] on [[RepresentationLearning]], [[ResNeXt]], [[SelfSupervisedLearning]], and [[DiffusionTransformers]]. The source contrasts FAIR's earlier bottom-up research culture with later large-lab alignment planning after [[ChatGPT]] changed the AI field's center of gravity.
+
 ## Connections
 - [[Manus]] — claimed acquisition target and agent product central to the source.
 - [[AgenticWorkflow]] — workflow pattern Meta is portrayed as buying into.
 - [[AICommercializationPressure]] — reason model companies may want application products rather than only model releases.
 - [[ModelProviderToolCompetition]] — acquisition and product-layer compression pattern around model providers entering tools.
 - [[AIAgentOverseasCommercialization]] — market context where the episode thinks Manus's workflow product is more valuable.
+- [[FAIR]], [[XieSaining]], and [[KaimingHe]] — research-lab context added by the Xie Saining interview.
+- [[RepresentationLearning]], [[ResNeXt]], [[SelfSupervisedLearning]], and [[DiffusionTransformers]] — research lines associated with FAIR in the source.
