@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E161.脱离理性暴政，去尽情游戏吧！](sources/e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f.md) — 面基 episode on Guan Yadi, trained intuition, embodied judgment, flow environments, ultratrail running, ocean sailing, high-altitude hallucination, and action-defined identity.
 - [133. 对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42](sources/133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42.md) — Podcast episode on Xie Saining, AMI Labs, Yann LeCun, representation learning, self-supervised learning, world models, JEPA, and a decentralized real-world data strategy beyond LLM-only scaling.
 - [当可靠的代码变成了偶尔发疯的OpenClaw，我们未来的工作范式变迁](sources/dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian.md) — Keji Luandun episode on OpenClaw local-agent reliability, probabilistic software, local permissions, memory and skills, Kimi cost routing, MCP service entry, AI coding verification, and programmer skill-transfer risk.
 - [智力贬值的春节见闻录，与那场正在酝酿的优贷危机](sources/zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1.md) — Keji Luandun episode on Spring Festival AI observations, Seedance-style video generation, GLM5 coding, intelligence devaluation, prime-borrower credit risk, and why domain know-how remains scarce.
@@ -183,7 +184,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [运雷](entities/YunLei.md) — 面基 guest and fund manager explaining efficient-frontier asset allocation, correlation research, and FOF product design.
 - [南方全球](entities/NanfangQuanqiu.md) — QDII fund/product context used to discuss overseas ETF, bond, commodity, REIT, and active-fund allocation tooling.
 - [COWZ](entities/COWZ.md) — Free-cash-flow ETF/index example used as a possible S&P 500 substitute when expected return improves without losing correlation fit.
-- [面基](entities/Mianji.md) — Podcast/show context for E153's Kelly sizing framework, E158's asset-allocation layer, E159's Hong Kong market-structure discussion, and E160's value-investing review.
+- [面基](entities/Mianji.md) — Podcast/show context for E153's Kelly sizing framework, E158's asset-allocation layer, E159's Hong Kong market-structure discussion, E160's value-investing review, and E161's embodied-judgment discussion.
+- [关雅迪](entities/GuanYadi.md) — 面基 guest whose endurance running, ocean sailing, climbing, and life-design stories ground trained intuition and embodied judgment.
+- [青岛号](entities/QingdaoClipperYacht.md) — Ocean-racing boat used by E161 to explain team risk, weather uncertainty, captain judgment, and performance under physical stress.
 - [Edward Thorp](entities/EdwardThorp.md) — Mathematician and investor used by E153 to connect blackjack card counting, Kelly sizing, arbitrage, and quantitative investing.
 - [Claude Shannon](entities/ClaudeShannon.md) — Information-theory figure used by E153 to connect information advantage, repeated betting, and Kelly-style position sizing.
 - [声东击西](entities/ShengdongJixi.md) — Podcast crossover context where Xu Tao hosts Justin Yan and Wang Junyu on OpenClaw and vibe coding.
@@ -664,6 +667,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Trained Intuition](concepts/TrainedIntuition.md) — Decision-making frame where fast judgment becomes reliable only after training, feedback, reflection, and direct experience.
+- [Embodied Judgment](concepts/EmbodiedJudgment.md) — Decision-making frame where body, emotion, fatigue, senses, and environment are treated as part of judgment rather than as mere noise.
+- [Flow Environment Design](concepts/FlowEnvironmentDesign.md) — Practice of arranging movement, rhythm, natural settings, boredom, and distraction limits so deep attention becomes more likely.
+- [Extreme Environment Risk Management](concepts/ExtremeEnvironmentRiskManagement.md) — Risk discipline for terrain, weather, body condition, equipment, and team decisions in endurance, sailing, and climbing settings.
+- [Action Defines Identity](concepts/ActionDefinesIdentity.md) — Life-design claim that repeated choices under real conditions reveal identity more strongly than self-description.
 - [Representation Learning](concepts/RepresentationLearning.md) — Learning useful abstractions from data, treated by Xie Saining as the trunk connecting vision, self-supervision, diffusion, multimodal AI, and world models.
 - [Self-Supervised Learning](concepts/SelfSupervisedLearning.md) — Representation-learning route discussed through pretext tasks, contrastive learning, MoCo, and the limits of treating language models as pure self-supervision.
 - [Research Taste](concepts/ResearchTaste.md) — Research judgment around baselines, experiment prediction, pivoting, storytelling, and choosing problems that matter.
@@ -982,7 +990,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Financial AI Agents](concepts/FinancialAIAgents.md) — Compliance-bounded financial AI systems that filter information, explain context, and provide companionship without direct investment advice.
 - [Financial Career Risk](concepts/FinancialCareerRisk.md) — Risk that finance workers' platform choices, client resources, incentives, and status narratives change legal exposure, reputation, and income stability.
 - [Financial Employee Misconduct Controls](concepts/FinancialEmployeeMisconductControls.md) — Internal rules, workflow checks, relationship disclosures, and monitoring responses that reduce employee harm to customers or institutions.
-- [Financial Freedom Vs Lifestyle Freedom](concepts/FinancialFreedomVsLifestyleFreedom.md) — Distinction between economic independence and lower-pressure daily autonomy through modest creator income and low fixed costs.
+- [Financial Freedom Vs Lifestyle Freedom](concepts/FinancialFreedomVsLifestyleFreedom.md) — Distinction between economic independence and lower-pressure daily autonomy through modest income, low fixed costs, adaptive capacity, and chosen life shape.
 - [Financial Gravity](concepts/FinancialGravity.md) — Pressure created by economic or status disparities that can redirect company behavior and mission.
 - [Middle-Class Consumption Pressure](concepts/MiddleClassConsumptionPressure.md) — Income-expectation, family-obligation, and professional-identity pressure that makes consumption downgrades visible among urban middle-class workers.
 - [Foreign Banking In China](concepts/ForeignBankingInChina.md) — Operating model where international banks run Chinese-regulated local entities under both local rules and group standards.

@@ -763,3 +763,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | E161.脱离理性暴政，去尽情游戏吧！
+
+Added source page for a 面基 episode with 关雅迪 on leaving rational overcontrol, trained intuition, embodied judgment, ultratrail running, ocean sailing, high-altitude hallucination, financial/lifestyle safety, and action-defined identity. Created supporting pages for GuanYadi, QingdaoClipperYacht, TrainedIntuition, EmbodiedJudgment, FlowEnvironmentDesign, ExtremeEnvironmentRiskManagement, and ActionDefinesIdentity; updated overview, index, 面基, and Financial Freedom Vs Lifestyle Freedom. No direct contradiction found; the source qualifies "trust intuition" with training, feedback, safety boundaries, and embodied experience.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
