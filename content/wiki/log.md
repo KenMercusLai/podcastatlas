@@ -603,3 +603,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-07] report | Graph health report generated
 
 946 nodes analyzed.
+
+## [2026-07-07] ingest | E153.股神的牌局：复利公式 + 凯利公式
+
+Added source page for a 面基 episode on Kelly sizing, compounding growth, investment edge, position sizing, opportunity density, value investing, quantitative investing, passive investing, and trading discipline. Created supporting pages for 面基, Edward Thorp, Claude Shannon, Kelly Criterion, Position Sizing, Investment Edge, and Compounding Growth Formula; updated overview, index, Investment Risk Management, Quantitative Investing, Passive Investing, Stop-Loss Discipline, Pyramiding, and Averaging Down pages.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

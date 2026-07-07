@@ -82,6 +82,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [2026 AI 游戏全景扫描：四层图景、三大误区、一个共识缺口｜对谈 405 游局筱宁](sources/2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne.md) — Podcast episode on AI interactive entertainment, AI game production limits, AI NPCs, creator platforms, designed agency, AI 3D prototyping, and the missing consensus product for AI games.
 - [131. 印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程](sources/131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan.md) — Podcast episode on Yin Qi, StepFun, Qianli Technology, Megvii, foundation-model commercialization, AI plus terminals, world models, and AI organization design.
 - [EP88 穿越量化之父西蒙斯：AI会让普通人更容易赚钱，还是更难？](sources/ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1.md) — Podcast episode on Jim Simons, Renaissance Technologies, quantitative investing, AI-assisted investing, risk management, crypto, passive investing, and AI IPO valuation.
+- [E153.股神的牌局：复利公式 + 凯利公式](sources/e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc.md) — Podcast episode on Kelly sizing, compounding growth, investment edge, position sizing, opportunity density, value investing, quant, passive investing, and trading discipline.
 - [EP76 穿越1940：我与股票大作手利弗莫尔的最后对话](sources/ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg.md) — Podcast episode on Jesse Livermore, trend following, stop-loss discipline, pyramiding, averaging down, AI-market bubble psychology, and trading life boundaries.
 - [哪条路线，才能通往「世界模型」的终局？｜对话黄碧薇：Aether AI 创始人](sources/na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr.md) — Podcast episode on Huang Biwei, Aether AI, causal world models, embodied AI, VLA/WAM limits, causal AI history, robotics data, and scaling.
 - [How Danny Jenkins Bootstrapped ThreatLocker From $150K Debt to $200M](sources/how-danny-jenkins-bootstrapped-threatlocker-from-150k-debt-to-200m.md) — Podcast episode on Danny Jenkins, ThreatLocker, zero trust security, default-deny controls, MSP distribution, category creation, and early SaaS survival.
@@ -99,6 +100,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [面基](entities/Mianji.md) — Podcast/show context for E153's discussion of Kelly sizing, compounding growth, investment edge, and trading discipline.
+- [Edward Thorp](entities/EdwardThorp.md) — Mathematician and investor used by E153 to connect blackjack card counting, Kelly sizing, arbitrage, and quantitative investing.
+- [Claude Shannon](entities/ClaudeShannon.md) — Information-theory figure used by E153 to connect information advantage, repeated betting, and Kelly-style position sizing.
 - [声东击西](entities/ShengdongJixi.md) — Podcast crossover context where Xu Tao hosts Justin Yan and Wang Junyu on OpenClaw and vibe coding.
 - [声动活泼](entities/ShengdongHuopo.md) — Media organization whose internal AI Hackathon provides the episode's non-technical workflow-automation case.
 - [徐涛](entities/XuTao.md) — Shengdong Jixi host representing the non-technical power-user view of OpenClaw, vibe coding, media workflows, and prototype-to-production gaps.
@@ -571,6 +575,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for the Yin Qi, StepFun, and Qianli Technology episode.
 
 ## Concepts
+- [Kelly Criterion](concepts/KellyCriterion.md) — Repeated-bet sizing rule used by E153 to connect edge, payoff, survival, and fractional position sizing.
+- [Position Sizing](concepts/PositionSizing.md) — Capital-allocation decision that turns an investment edge into portfolio exposure while controlling ruin risk.
+- [Investment Edge](concepts/InvestmentEdge.md) — Positive-expectation advantage built from probability, payoff, rules, information, patience, execution, or structure.
+- [Compounding Growth Formula](concepts/CompoundingGrowthFormula.md) — E153 frame that long-term returns depend on edge, position size, opportunity density, and time.
 - [Physical World Data Flywheel](concepts/PhysicalWorldDataFlywheel.md) — Robotics loop where deployed machines collect real operation data, improve models, and return as better products.
 - [Real Robot Data Strategy](concepts/RealRobotDataStrategy.md) — Empirical approach to combining real robot data, simulation, teleoperation, video, and cost accounting for embodied models.
 - [Embodied AI Value Chain](concepts/EmbodiedAIValueChain.md) — Whole robotics system spanning machines, supply chain, data, AI infrastructure, algorithms, models, distribution, and customer value.
