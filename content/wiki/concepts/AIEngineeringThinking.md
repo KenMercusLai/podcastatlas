@@ -2,7 +2,7 @@
 title: "AI Engineering Thinking"
 type: concept
 tags: [ai, workflow, software-engineering]
-sources: [ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]
+sources: [ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]
 last_updated: 2026-07-07
 ---
 
@@ -14,6 +14,8 @@ AI engineering thinking is the habit of turning a vague goal into explicit requi
 
 [[biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]] adds the consulting version. [[WuTao]] describes feeling like AI's human peripheral: he translates ambiguous client needs into AI-usable work, then checks whether the result matches real cloud-service behavior.
 
+[[ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]] adds the skill-operating version. Requirement-grilling skills, architecture maps, TDD routines, [[Playwright]] checks, review prompts, and release validation turn engineering thinking into reusable instructions that [[Codex]] or [[ClaudeCode]] can run repeatedly.
+
 ## Key Claims
 - AI is most useful when the work can be decomposed into bounded tasks with clear inputs, outputs, and acceptance criteria.
 - Test-driven development, end-to-end tests, screenshots, code review, documentation, and logging become easier to enforce because AI will perform tedious process steps if asked.
@@ -23,6 +25,8 @@ AI engineering thinking is the habit of turning a vague goal into explicit requi
 - The same posture applies outside code: AI can audit data, content, pricing, or promotion decisions, but humans must design the workflow and own final decisions.
 - Design and plan documents can be treated as engineering artifacts, not just prompts, because they define what later agents should build and review.
 - When AI answers about infrastructure or APIs, engineering thinking includes reading official docs, testing in the real environment, and rejecting fluent but nonexistent configuration details.
+- A useful skill should encode the user's acceptance criteria and verification loop, not just their preferred coding style.
+- Project-local skills are useful when they preserve architecture, module boundaries, design-system rules, and deployment expectations.
 
 ## Connections
 - [[VibeCoding]] — AI coding practice that needs this engineering posture to become product work.
@@ -33,3 +37,4 @@ AI engineering thinking is the habit of turning a vague goal into explicit requi
 - [[DomainExpertAlignment]] and [[HumanJudgmentUnderAI]] — human expertise and judgment still shape the problem and final decision.
 - [[Superpowers]], [[Codex]], and [[ClaudeCode]] — planning-to-execution workflow added by Vol. 166.
 - [[AIProgrammingEngineShift]] and [[AICodingVerification]] — internal-combustion-era source where AI speed increases the need for framing and verification.
+- [[AISkills]], [[Playwright]], and [[RoutineAgentAutomation]] — EP127's route from repeated engineering judgment to reusable agent routines.

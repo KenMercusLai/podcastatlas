@@ -479,3 +479,11 @@ Added source page for a How I Built This episode on Stephen Starr, STARR Restaur
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-07] ingest | EP127 从 Skills 到自动化工作流，论 Agent 如何接管真实生产力 ⚙️
+
+Added source page for a YingdiHaike episode on Skills selection, coding-agent verification, Codex and Claude Code workflows, scheduled routine automation, personal knowledge assets, and permission responsibility. Created supporting pages for Routine Agent Automation, Playwright, and 微信读书; updated overview, index, YingdiHaike, Podwise, Codex, Claude Code, Open Cloud, Superpowers, AI Skills, Agentic Workflow, Agent Harness, AI Coding Verification, AI Engineering Thinking, Context Engineering, Agent Permission Boundaries, Agent Self-Evolution, Data Portability And Sustainable Tools, Human Judgment Under AI, and AI Investment Research.
+
+## [2026-07-07] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,7 +2,7 @@
 title: "AI Investment Research"
 type: concept
 tags: [ai, investing, finance]
-sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn]
+sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]
 last_updated: 2026-07-07
 ---
 
@@ -14,6 +14,8 @@ AI investment research is the episode's practical answer to whether tools such a
 
 [[ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn]] adds the product-workflow version through [[TangHaocheng]]. The episode argues that generic chat often fails because retail investors do not know what to ask; better AI investment research should guide users through information extraction, multi-agent comparison, watchlists, natural-language alerts, follow-up Q&A, and [[InvestmentDecisionLogging]] while leaving final judgment and risk responsibility with the user.
 
+[[ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]] adds a personal automation case. One speaker describes a skill that reads holdings, historical prices, option-chain data, and news to suggest the day's possible actions, but also says this category is less useful than email or coding automation when the user lacks enough investing knowledge to judge the advice.
+
 ## Key Claims
 - AI lowers the cost of understanding finance, but it does not give retail investors institutional-quality data, execution, or risk systems.
 - The biggest beneficiaries of AI in markets may be institutions that already have data, compute, and talent.
@@ -24,6 +26,8 @@ AI investment research is the episode's practical answer to whether tools such a
 - AI is more useful when it helps compare a report against [[EarningsExpectationGap]] rather than merely saying whether revenue or profit grew.
 - AI assistants should expose conflicting evidence, pending catalysts, and user-specific watchlist changes instead of collapsing every question into a stock pick.
 - AI can reduce [[BehavioralInvestingBiases]] only if it is used to challenge a thesis; it can also reinforce bias when used to generate fluent rationalizations.
+- Scheduled investment-monitoring skills can reduce information-gathering friction, but they increase risk if users treat generated suggestions as decisions.
+- Domain knowledge is a gating factor: weak user judgment can make automated research less useful or more dangerous.
 
 ## Connections
 - [[ChatGPT]] — example tool named in the episode.
@@ -34,3 +38,4 @@ AI investment research is the episode's practical answer to whether tools such a
 - [[FinancialStatementAnalysis]], [[ProfitAndCashFlowQuality]], and [[AccountingRedFlags]] — EP86's report-reading use case for AI.
 - [[TangHaocheng]] and [[Magnify]] — EP69's guest and earlier finance-search project.
 - [[EarningsExpectationGap]], [[BehavioralInvestingBiases]], and [[InvestmentDecisionLogging]] — EP69's additions around market expectations, investor psychology, and decision process.
+- [[RoutineAgentAutomation]] and [[HumanJudgmentUnderAI]] — EP127's warning that recurring investment monitoring still needs human responsibility.

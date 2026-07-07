@@ -2,7 +2,7 @@
 title: "Podwise"
 type: entity
 tags: [ai-tool, podcast, knowledge-management]
-sources: [ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc]
+sources: [ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]
 last_updated: 2026-07-07
 ---
 
@@ -18,12 +18,15 @@ The source focuses on Podwise's CLI and Skills release. The product team did not
 
 [[ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc]] again mentions Podwise as sponsor, reinforcing the product's role as a recurring learning and knowledge-reuse tool around [[YingdiHaike]] episodes.
 
+[[ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]] adds Podwise as a non-coding [[AISkills]] use case. The hosts describe using a Podwise skill to search, process, and preserve podcast transcripts as digital assets, sometimes without opening the website directly.
+
 ## Key Claims
 
 - Podcast content becomes more valuable when agents can search, process, summarize, and export it inside larger workflows.
 - CLI is useful for Podwise because podcast research often values flexible workflow composition over maximum real-time performance.
 - Shared credits, usage windows, and platform processing limits make [[AIInferenceCostStructure]] a product-design constraint, not only a back-end cost issue.
 - Open-sourcing a CLI can be practical when core business logic, authentication, and billing remain server-side.
+- Podwise-style workflows can become [[RoutineAgentAutomation]] when podcast discovery, transcript sync, and knowledge compilation run on a schedule.
 
 ## Connections
 
@@ -34,3 +37,4 @@ The source focuses on Podwise's CLI and Skills release. The product team did not
 - [[AISkills]] — workflow layer built over Podwise CLI atoms.
 - [[HeadlessSoftware]] and [[TaskAsAService]] — product implications of exposing podcast capabilities through agent-executable commands.
 - [[AIInferenceCostStructure]] — cost and quota issue raised by AI processing and token-heavy content consumption.
+- [[RoutineAgentAutomation]] and [[DataPortabilityAndSustainableTools]] — EP127's view of podcast transcripts as durable personal knowledge assets.

@@ -2,7 +2,7 @@
 title: "AI Skills"
 type: concept
 tags: [skills, agents, workflow]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax]
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]
 last_updated: 2026-07-07
 ---
 
@@ -17,6 +17,8 @@ AI skills are reusable instructions and process packages that help an AI complet
 [[vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]] adds a personal-agent version through [[OpenClaw]]. [[JustinYan]] treats skills as lighter than protocol-heavy tool integration and describes a stronger loop where an agent can inspect home services, infer what they can do, and write new skills for itself. The same source adds a security split between trusted skills and agent-written skills, making [[AgentPermissionBoundaries]] part of skill design.
 
 [[ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax]] adds a CLI-composition version through [[Podwise]]. Skills sit above [[AgentOptimizedCLI]] atoms such as search, process, get, and export, letting the user describe an outcome while the agent chooses the command sequence. The source treats this as a practical shift from operating tools to specifying tasks.
+
+[[ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]] adds a selection and maintenance lens. A skill should survive because it handles repeated work, compensates for a weak domain, or helps an agent verify real output; popularity alone is a weak signal. The episode also treats self-written skills as disposable workflow assets: if a prompt, check, support reply, podcast-processing step, or deployment routine repeats enough times, it can become a skill and later be deleted or revised when the workflow changes.
 
 [[20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]] adds an ecosystem and consumer-agent version through [[OpenClaw]]. [[YaGe]] describes maintaining personal preference or "axiom" skills for research and synthesis, while the episode treats open-source skills, user PRs, skill markets, and AI-readable smart-home APIs as ways ordinary users can expand what an agent can do.
 
@@ -34,6 +36,9 @@ AI skills are reusable instructions and process packages that help an AI complet
 - Personal-agent skills need permission tiers because a markdown-like procedure can still expose private data or operate a powerful tool.
 - Skills become more powerful when the underlying tool offers small, stable CLI actions that can be discovered, combined, and debugged without custom integration code.
 - Skills can turn users into partial developers because a reusable procedure, API description, or tool instruction can become part of the agent's future capability.
+- Verification, testing, and release skills may matter more than generic framework skills because they let the agent prove that work is actually done.
+- Skills can become [[RoutineAgentAutomation]] when paired with scheduled execution for email, notes, analytics, cost monitoring, or research workflows.
+- Skill bloat is a real context and behavior risk; unused fashionable skills should be removed when they do not match actual recurring work.
 
 ## Connections
 - [[ContextEngineering]] — skills package and reuse context.
@@ -48,3 +53,4 @@ AI skills are reusable instructions and process packages that help an AI complet
 - [[OpenClaw]], [[AgentSelfEvolution]], and [[AgentPermissionBoundaries]] — personal-agent skill loop added by the Fengyan Fengyu source.
 - [[Podwise]] and [[AgentOptimizedCLI]] — CLI-composition skill case added by EP124.
 - [[OpenClaw]], [[YaGe]], [[Haoda]], [[IMAgentInterfaces]], and [[LocalAgentExecution]] — skill-market and consumer-agent case added by the 20-question episode.
+- [[RoutineAgentAutomation]], [[Playwright]], and [[WeChatReading]] — repeated automation, verification, and personal knowledge cases added by EP127.

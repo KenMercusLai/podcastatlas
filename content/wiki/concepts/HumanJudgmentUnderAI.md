@@ -2,7 +2,7 @@
 title: "Human Judgment Under AI"
 type: concept
 tags: [ai, judgment, work]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c]
+sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]
 last_updated: 2026-07-07
 ---
 
@@ -18,6 +18,8 @@ Human judgment under AI is the claim that AI can enhance preparation and synthes
 
 [[ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c]] adds ordinary workplace examples. [[DeepSeek]] can critique a student's composition, and AI tools can transcribe podcasts, draft titles, clean audio, summarize meetings, or create visual business notes, but the episode repeatedly returns to human editing, final judgment, and context-aware presentation.
 
+[[ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]] adds the responsibility version. The hosts say users are growing more comfortable giving agents access to files, accounts, and personal content, but the practical burden does not disappear: the human remains responsible for agent-written code, automated replies, generated publishing, and investment suggestions. The episode's weaker investment-skill experience is a useful boundary case: automation works poorly when the user lacks enough domain knowledge to judge the output.
+
 ## Key Claims
 - AI is useful for preparation, framing, and organizing context.
 - Live questioning requires internalized understanding, tradeoffs, and expression.
@@ -31,6 +33,8 @@ Human judgment under AI is the claim that AI can enhance preparation and synthes
 - AI can be a powerful research and drafting layer while still leaving the human responsible for whether the answer maps to the real system and the real person's needs.
 - AI coding can widen participation while still making senior judgment more valuable at the review and integration layer.
 - AI-assisted workplace pacing is useful only when the saved time improves rest, preparation, presentation, or learning rather than hiding weak work.
+- Agent trust shifts the work from doing every step manually to setting permissions, choosing review thresholds, and accepting responsibility for mistakes.
+- A skill is only as safe as the user's ability to bound the workflow and judge outputs in that domain.
 
 ## Connections
 - [[ContextEngineering]] — preparation quality depends on context quality.
@@ -43,3 +47,4 @@ Human judgment under AI is the claim that AI can enhance preparation and synthes
 - [[AITranslation]], [[AIProgrammingEngineShift]], and [[AICodingVerification]] — translation, coding, and verification cases added by Neihe Konghuang.
 - [[DisplayErgonomics]] — physical review environment for inspecting AI output in episode 72.
 - [[WorkplacePacing]] and [[DeepSeek]] — EP58's practical productivity and writing-feedback examples.
+- [[RoutineAgentAutomation]], [[AgentPermissionBoundaries]], and [[AIInvestmentResearch]] — responsibility and domain-judgment cases added by EP127.

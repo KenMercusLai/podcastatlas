@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP127 从 Skills 到自动化工作流，论 Agent 如何接管真实生产力 ⚙️](sources/ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz.md) — Podcast episode on Skills selection, coding-agent verification, Codex/Claude Code workflows, scheduled agent automation, personal knowledge assets, and permission responsibility.
 - [STARR Restaurants: Stephen Starr. How a Non-Foodie Built Thriving Restaurants on Gut Instinct](sources/starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4.md) — Podcast episode on Stephen Starr, STARR Restaurants, restaurant experience design, concept-led hospitality, operational fragility, site fit, and restaurant capital intensity.
 - [“AGI 来了？我用了一周，头皮发麻“｜对谈张昊然：Moxt 联合创始人](sources/agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq.md) — Podcast episode on Zhang Haoran, Moxt, AI-native workspaces, organizational context, AI coworkers, generated work interfaces, and human-amplifying AI organization design.
 - [EP23 民国金融往事：《追风者》背后的天才少年与银行体系](sources/ep23-minguo-jinrong-wangshi-zhuifengzhe-beihou-de-tiancai-shaonian-yu-yinxing-tixi-lu50lzwnfquabfare58gbhwr42py.md) — Podcast episode using 追风者 to explain Gu Zhun, Lixin accounting, Republican-era banks, Shanghai foreign banks, silver dollars, treasury-bond speculation, and border-region currency credit.
@@ -272,10 +273,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [ChatGPT](entities/ChatGPT.md) — AI assistant/search surface monitored by Peak AI for brand visibility.
 - [Chen Jingchu](entities/ChenJingchu.md) — Serial builder and hackathon contestant arguing that building public is an AI-era product and distribution lever.
 - [Christina Molinaro](entities/ChristinaMolinaro.md) — 25 & Pine founder discussing viral social growth and repeatable customer acquisition.
-- [Claude Code](entities/ClaudeCode.md) — Agentic coding tool used as an example of workflow-oriented AI use.
+- [Claude Code](entities/ClaudeCode.md) — Agentic coding tool used for workflow-oriented AI use, implementation, review loops, and external Skills.
 - [Cloudflare](entities/Cloudflare.md) — Infrastructure platform discussed as an operations target for coding agents and agent-facing deployment work.
 - [Code Pilot](entities/CodePilot.md) — Localized coding agent project discussed through skills, memory, CLI, and tool harnesses.
-- [Codex](entities/Codex.md) — Agentic coding tool presented as part of the shift from chat interfaces to task-executing agents.
+- [Codex](entities/Codex.md) — Agentic coding tool presented through task execution, review/release loops, external Skills, and automation.
 - [Cognition](entities/Cognition.md) — AI coding company behind Devin and acquirer of remaining Windsurf assets in the EP108 account.
 - [CreateWise](entities/CreateWise.md) — AI creator/podcast startup case where launch attention and competition wins did not yet solve founder runway.
 - [Cursor](entities/Cursor.md) — AI coding environment grouped with Codex and Claude Code as a practical agent tool.
@@ -396,7 +397,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nvidia](entities/Nvidia.md) — AI semiconductor company used as EP39's main case for separating company quality from stock valuation risk.
 - [OpenAI](entities/OpenAI.md) — Frontier AI company referenced in relation to agents, FDE, and AI market structure.
 - [Open Claw](entities/OpenClaw.md) — Domestic agent-wave project/context paired with Open Cloud in the Hermes Agent discussion.
-- [Open Cloud](entities/OpenCloud.md) — Domestic agent-era project/event discussed through skills, CLI friction, and ecosystem consensus.
+- [Open Cloud](entities/OpenCloud.md) — Domestic agent-era project/event discussed through skills, CLI friction, ecosystem consensus, and scheduled routines.
 - [Outrank](entities/Outrank.md) — SEO product discussed as part of Tea Maker's AI-era distribution playbook.
 - [Paperboy](entities/Paperboy.md) — AI-agent startup exploring OS-level context, persistent memory, proactive agents, and IM/inbox-style collaboration interfaces.
 - [Palantir](entities/Palantir.md) — Enterprise software company referenced as the origin context for forward-deployed engineering.
@@ -408,7 +409,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Peter Burns](entities/PeterBurns.md) — Experienced food-company operator who joined Justin's Nut Butter and eventually became CEO.
 - [Phil Holstead](entities/PhilHolstead.md) — Red Truck Orchards founder discussing cherry vinegar messaging, sampling, and repeat purchase.
 - [Peter Lynch](entities/PeterLynch.md) — Fundamental investor used as a comparison point against Jim Simons's quantitative approach.
-- [Podwise](entities/Podwise.md) — AI podcast-learning tool discussed through CLI, Skills, agent workflows, knowledge-management export, and recurring YingdiHaike sponsorship mentions.
+- [Playwright](entities/Playwright.md) — Browser automation and testing tool used as an example of agent-driven coding verification.
+- [Podwise](entities/Podwise.md) — AI podcast-learning tool discussed through CLI, Skills, agent workflows, knowledge-management export, recurring automation, and YingdiHaike sponsorship mentions.
 - [原则科技](entities/PrincipleTech.md) — Startup context for XiaoSun's earlier independent-developer and creator-tool work.
 - [QQ](entities/QQ.md) — Tencent messaging product used as the historical comparison for free-core, paid-membership internet services.
 - [QuickStone](entities/QuickStone.md) — Investment firm connected to Yihao's proactive AI and agent-infrastructure thesis around AirJelly.
@@ -446,7 +448,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Starbucks](entities/Starbucks.md) — Coffee retailer used as both a national channel for Justin's Nut Butter and a workplace/status reference point in middle-class coffee spending.
 - [StayPit](entities/StayPit.md) — Developer associated with OpenClaw in the Fengyan Fengyu source.
 - [StepFun](entities/StepFun.md) — Foundation-model company chaired by Yin Qi and discussed through model R&D, terminal commercialization, and AI organization design.
-- [Superpowers](entities/Superpowers.md) — Agent-orchestration tool discussed through planning, subagents, Codex, and Claude Code workflows.
+- [Superpowers](entities/Superpowers.md) — Agent-orchestration tool discussed through planning, subagents, Codex, Claude Code, and skill-selection friction.
 - [Symbian](entities/Symbian.md) — Pre-iPhone smartphone operating system platform dominated by Nokia before iPhone and Android changed ecosystem competition.
 - [Tapio](entities/Tapio.md) — LinkedIn-focused SaaS product built as a sister product to Tweet Hunter.
 - [Tea Maker](entities/TeaMaker.md) — Bootstrapped SaaS holding company founded by Thibaut-Louis Lucas.
@@ -473,6 +475,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Warren Buffett](entities/WarrenBuffett.md) — Long-term value investor discussed through contrast with Jim Simons, Berkshire's cash and Apple reduction, and consumer-brand cases with Charlie Munger.
 - [吴涛](entities/WuTao.md) — Neihe Konghuang host connecting Japanese learning, cloud consulting, AI coding, low-level programming craft, campus radio, and monitor physics.
 - [WeChat](entities/WeChat.md) — Platform discussed as a possible high-context environment for agent products in China.
+- [微信读书](entities/WeChatReading.md) — Reading and notes product used as a non-coding Skill target for personal knowledge workflows.
 - [Wenxin](entities/Wenxin.md) — Baidu AI model and product family discussed as weak in user mindshare despite early AI investment.
 - [Windsurf](entities/Windsurf.md) — AI coding tool discussed through disrupted acquisition, talent movement, and model-provider competition.
 - [Whole Foods Market](entities/WholeFoodsMarket.md) — Natural-food retailer that became the major early unlock for Justin's Nut Butter.
@@ -497,7 +500,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EB&Co](entities/EBCo.md) — Kansas City accessories brand weighing physical retail against wholesale after a celebrity-driven demand spike.
 - [Emily Bordner](entities/EmilyBordner.md) — EB&Co founder asking whether to follow current retail revenue or faster wholesale growth.
 - [Gob](entities/Gob.md) — Biomaterials personal-care company starting with mycelium earplugs and weighing venue partnerships against sleep DTC growth.
-- [硬地骇客](entities/YingdiHaike.md) — Podcast/show context for AI coding markets, Podwise CLI/Skills, ASO, design-led growth, founder-life, and AI game/social commercialization episodes.
+- [硬地骇客](entities/YingdiHaike.md) — Podcast/show context for AI coding markets, Podwise CLI/Skills, Skills automation, ASO, design-led growth, founder-life, and AI game/social commercialization episodes.
 - [一劳永逸](entities/YiLaoYongYi.md) — Podcast/show context for episodes on investing, credit, Republican-era finance, political influence, finance careers, workplace advice, banking, and markets.
 - [助助](entities/Zhuzhu.md) — Xiaohongshu local-lifestyle creator explaining ordinary creator monetization, local store reviews, and lifestyle freedom.
 - [Youyou Agent](entities/YouyouAgent.md) — Digital-life agent experiment discussed as an early agent-native project.
@@ -623,10 +626,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI 3D Prototyping](concepts/AI3DPrototyping.md) — Possibility that AI lowers 3D game-production barriers enough for small teams to test richer prototypes.
 - [AI BPO Roll Up](concepts/AIBPORollUp.md) — Restructuring business-process outsourcing and professional services with agents, experts, and shared systems.
 - [AI Assisted Software Development Risk](concepts/AIAssistedSoftwareDevelopmentRisk.md) — Risk that AI-speed development still fails on migration, compatibility, and production engineering details.
-- [AI Coding Verification](concepts/AICodingVerification.md) — Engineering bottleneck that moves AI coding from generation speed to tests, review, maintainability, and responsibility.
+- [AI Coding Verification](concepts/AICodingVerification.md) — Engineering bottleneck that moves AI coding from generation speed to tests, review, browser checks, maintainability, and responsibility.
 - [AI Commercialization Pressure](concepts/AICommercializationPressure.md) — Tension between model influence, training costs, ROI, and business accountability.
 - [AI Discovery SEO](concepts/AIDiscoverySEO.md) — Distribution idea that AI-mediated discovery still depends on public web signals, search results, posts, and mentions.
-- [AI Engineering Thinking](concepts/AIEngineeringThinking.md) — Practice of turning goals into requirements, tests, logs, docs, review, audit rules, and business handoffs before asking AI to execute.
+- [AI Engineering Thinking](concepts/AIEngineeringThinking.md) — Practice of turning goals into requirements, architecture maps, tests, logs, docs, review, audit rules, and business handoffs before asking AI to execute.
 - [AI Equity Valuation Risk](concepts/AIEquityValuationRisk.md) — Public-market risk that real AI company quality is already priced too aggressively.
 - [AI For Science](concepts/AIForScience.md) — Investment direction focused on using AI for high-complexity scientific and industrial knowledge work.
 - [AI Game Industrialization](concepts/AIGameIndustrialization.md) — Warning that generated games still require stable systems, design iteration, testing, tuning, and player feedback.
@@ -637,7 +640,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Interactive Entertainment](concepts/AIInteractiveEntertainment.md) — Broader frame for AI games, creator tools, AI NPCs, interactive video, and social entertainment experiences.
 - [AI IPO Valuation](concepts/AIIPOValuation.md) — Investing frame for separating real AI technology progress from attractive public-market entry price.
 - [AI Interpretability By AI](concepts/AIInterpretabilityByAI.md) — Safety-relevant idea that stronger AI may help humans understand AI systems themselves.
-- [AI Investment Research](concepts/AIInvestmentResearch.md) — Use of AI assistants to understand markets, filings, valuation, and risks without outsourcing final investment decisions.
+- [AI Investment Research](concepts/AIInvestmentResearch.md) — Use of AI assistants and monitoring routines to understand markets, filings, valuation, and risks without outsourcing final investment decisions.
 - [AI Materials Discovery](concepts/AIMaterialsDiscovery.md) — AI-for-science workflow for generating, predicting, validating, scaling, and commercializing new materials.
 - [AI Native SaaS Threat](concepts/AINativeSaaSThreat.md) — Risk that AI-native entrants challenge incumbent SaaS products built before AI became core to workflows.
 - [AI NPC Social Infrastructure](concepts/AINPCSocialInfrastructure.md) — Use of AI NPCs as hosts, social participants, and atmosphere regulators inside multiplayer scenes.
@@ -646,7 +649,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Product Fragmentation](concepts/AIProductFragmentation.md) — Gap between strong model capability and a coherent product entry point across assistant, browser, workspace, and platform surfaces.
 - [AI Programming Engine Shift](concepts/AIProgrammingEngineShift.md) — View that AI changes programming like an engine changes manual work, shifting value toward framing, testing, and judgment.
 - [AI Search Analytics](concepts/AISearchAnalytics.md) — Category for measuring brand visibility, citations, and sentiment across AI answer/search tools.
-- [AI Skills](concepts/AISkills.md) — Codified workflows, standards, context, and tool use that make AI behavior reusable.
+- [AI Skills](concepts/AISkills.md) — Codified workflows, standards, context, tool use, verification loops, and recurring routines that make AI behavior reusable.
 - [AI Subscription Economics](concepts/AISubscriptionEconomics.md) — Tradeoffs of free tiers, paid tiers, usage limits, and heavy-user costs in AI products.
 - [AI Translation](concepts/AITranslation.md) — Context-aware, multimodal translation across webpages, PDFs, subtitles, images, manga, and speech.
 - [AI Workforce Monitoring](concepts/AIWorkforceMonitoring.md) — Workplace risk where AI-enabled productivity measurement turns into invasive employee behavior surveillance.
@@ -656,10 +659,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent Identity And Authentication](concepts/AgentIdentityAndAuthentication.md) — Infrastructure problem of attributing agent actions, granting permissions, and balancing real-name controls with openness.
 - [Agent Native Software](concepts/AgentNativeSoftware.md) — Software whose core substrate is an agent rather than a traditional app with an AI feature attached.
 - [Agent-Optimized CLI](concepts/AgentOptimizedCLI.md) — Command-line interface design pattern for agent-callable software: pipeable, non-interactive, idempotent, structured, and human-debuggable.
-- [Agent Permission Boundaries](concepts/AgentPermissionBoundaries.md) — Practical limits on which tools, accounts, data, and actions an agent can use automatically or only with explicit human instruction.
+- [Agent Permission Boundaries](concepts/AgentPermissionBoundaries.md) — Practical limits on which tools, accounts, data, routines, and actions an agent can use automatically or only with explicit human instruction.
 - [Agent Self-Evolution](concepts/AgentSelfEvolution.md) — Agent improvement loop where memory, saved workflows, skills, and harness feedback make future work more consistent.
 - [Agentic Economy](concepts/AgenticEconomy.md) — Infrastructure and economics for agent-to-service and agent-to-agent task execution.
-- [Agentic Workflow](concepts/AgenticWorkflow.md) — Work pattern where AI agents use tools, context, and process state to complete real tasks.
+- [Agentic Workflow](concepts/AgenticWorkflow.md) — Work pattern where AI agents use tools, context, process state, verification, and recurring routines to complete real tasks.
 - [Anti-Money Laundering](concepts/AntiMoneyLaundering.md) — Compliance frame for detecting, preventing, and investigating attempts to make illegal funds appear legitimate.
 - [App Store Keyword Strategy](concepts/AppStoreKeywordStrategy.md) — ASO practice of choosing brand, category, scenario, and competitor terms for constrained App Store metadata fields.
 - [App Store Optimization](concepts/AppStoreOptimization.md) — Mobile app-store growth discipline covering search visibility, product-page conversion, ratings, reviews, and paid search.
@@ -696,7 +699,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Compliance Automation](concepts/ComplianceAutomation.md) — Software that helps companies prove and maintain security, privacy, compliance, and trust obligations with less manual work.
 - [Consumer AML Exposure](concepts/ConsumerAMLExposure.md) — Ordinary-user exposure to suspicious fund flows through accounts, withdrawals, recharges, live-streaming rewards, or overseas platforms.
 - [Contact Center AI](concepts/ContactCenterAI.md) — Agent deployment in customer service, complaints, consultation, marketing, membership operations, calls, and messages.
-- [Context Engineering](concepts/ContextEngineering.md) — Practice of accumulating and shaping context as a durable advantage in AI work.
+- [Context Engineering](concepts/ContextEngineering.md) — Practice of accumulating and shaping context, notes, standards, and reusable skills as durable AI work assets.
 - [Contrarian Sentiment Indicators](concepts/ContrarianSentimentIndicators.md) — Informal behavioral signals, such as EP57's "骂骂咧咧指数", used to judge whether market mood may be exhausted.
 - [CPG Distribution](concepts/CPGDistribution.md) — Physical-product go-to-market problem of getting packaged goods produced, stocked, sampled, replenished, and reordered.
 - [Cross-Border Fund Transfer Risk](concepts/CrossBorderFundTransferRisk.md) — Compliance, foreign-exchange, data, and account-safety risk created when funds move across jurisdictions and counterparties.
@@ -705,7 +708,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Customer Pull](concepts/CustomerPull.md) — Demand signal where users return, follow up, refer others, pay, or act after clearer product and landing-page communication.
 - [Cryptocurrency Market Structure](concepts/CryptocurrencyMarketStructure.md) — Crypto-market features such as 24-hour trading, retail flows, and exchange fragmentation that create quant opportunities and risk.
 - [Currency Risk](concepts/CurrencyRisk.md) — Risk that exchange-rate moves change an investor's final return after converting back to their home currency.
-- [Data Portability And Sustainable Tools](concepts/DataPortabilityAndSustainableTools.md) — Product trust pattern based on exportability, local data, maintenance, and lower server dependence.
+- [Data Portability And Sustainable Tools](concepts/DataPortabilityAndSustainableTools.md) — Product trust pattern based on exportability, local data, maintained tools, and durable personal knowledge assets.
 - [Dark Office](concepts/DarkOffice.md) — Office-work automation analogy where agents perform defined white-collar and gray-collar workflows like a dark factory.
 - [Default Deny Security](concepts/DefaultDenySecurity.md) — Cybersecurity control pattern where software or behavior is blocked unless explicitly approved.
 - [Defensive Dividend Assets](concepts/DefensiveDividendAssets.md) — Income and cash-flow-oriented equity allocation used as a defensive waiting position, while still requiring entry-price and leverage analysis.
@@ -752,7 +755,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Headless Software](concepts/HeadlessSoftware.md) — Product-design thesis that software value should be separable from GUI-first human operation.
 - [Hong Kong Tech Repricing](concepts/HongKongTechRepricing.md) — EP57 frame for DeepSeek-driven reassessment of Hong Kong and China technology assets and their changing relationship with U.S. tech.
 - [Human-Agent Collaboration](concepts/HumanAgentCollaboration.md) — Product-design problem of finding better ways for people and AI agents to work together beyond chat, prompt, and session interfaces.
-- [Human Judgment Under AI](concepts/HumanJudgmentUnderAI.md) — Claim that AI improves preparation but cannot replace fast, situated judgment in live professional settings.
+- [Human Judgment Under AI](concepts/HumanJudgmentUnderAI.md) — Claim that AI improves preparation and automation but cannot replace situated judgment, permission choices, or responsibility.
 - [Independent Investment Consulting](concepts/IndependentInvestmentConsulting.md) — Advice-fee model focused on portfolio design, risk explanation, and long-term decision support rather than product distribution commissions.
 - [In-Store Demos](concepts/InStoreDemos.md) — Retail sampling and storytelling sessions that help CPG products sell and generate customer-learning loops.
 - [Index Reentry Discipline](concepts/IndexReentryDiscipline.md) — Staged, valuation-aware approach to buying broad equity indexes after drawdowns instead of treating every pullback as an all-in signal.
@@ -816,6 +819,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Retail Shelf Placement](concepts/RetailShelfPlacement.md) — CPG issue where a product's shopper meaning changes depending on where it appears in the store.
 - [RMB Exchange Rate Policy](concepts/RMBExchangeRatePolicy.md) — Managed-stability frame for RMB/USD policy balancing capital flows, exports, and investor currency risk.
 - [Robot Liveliness](concepts/RobotLiveliness.md) — Product quality that makes a robot feel like an independent living-like presence rather than a configurable appliance.
+- [Routine Agent Automation](concepts/RoutineAgentAutomation.md) — Turning repeated personal or small-team work into scheduled, skill-driven agent routines.
 - [SaaS Holding Company](concepts/SaaSHoldingCompany.md) — Portfolio model for owning or building multiple SaaS products with shared customers, channels, and growth systems.
 - [SaaS Trust Moat](concepts/SaaSTrustMoat.md) — SaaS defensibility from trust, data, distribution, compliance, support, and operational reliability rather than code alone.
 - [Savings-Style Insurance](concepts/SavingsStyleInsurance.md) — Long-term annuity, participating, and insurance-saving products judged by cash flow, goals, liquidity, and guarantees.

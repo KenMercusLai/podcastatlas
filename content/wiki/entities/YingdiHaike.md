@@ -2,7 +2,7 @@
 title: "硬地骇客"
 type: entity
 tags: [podcast, media]
-sources: [ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc]
+sources: [ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]
 last_updated: 2026-07-07
 ---
 
@@ -20,6 +20,8 @@ last_updated: 2026-07-07
 
 [[ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc]] adds a design-growth case through [[Daqi]] and [[ProductRoast]]. The episode turns the show toward [[LandingPageConversion]], [[BusinessFluentDesign]], [[DesignLedGrowth]], and [[CrossCulturalProductDesign]], arguing that independent builders need to explain user value and acquisition paths rather than only ship polished AI-feature pages.
 
+[[ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]] adds a practical skills-and-automation case. The show connects [[AISkills]], [[Codex]], [[ClaudeCode]], [[Podwise]], [[OpenCloud]], [[Superpowers]], [[Playwright]], and [[WeChatReading]] to the question of which agent workflows deserve to become reusable routines.
+
 ## Connections
 - [[Cursor]], [[Windsurf]], [[ClaudeCode]], and [[GeminiCLI]] — central tools and companies discussed in the episode.
 - [[VibeCoding]], [[AICodingVerification]], and [[ModelProviderToolCompetition]] — main themes surfaced by the episode.
@@ -29,3 +31,4 @@ last_updated: 2026-07-07
 - [[Una]], [[FocusFly]], [[AppStoreOptimization]], and [[AppleSearchAds]] — mobile app-store growth case added by EP102.
 - [[Simon]], [[MicoWorld]], [[MicoAILab]], and [[AIStartupUnitEconomics]] — AI game/social commercialization case added by EP101.
 - [[Daqi]], [[ProductRoast]], [[LandingPageConversion]], and [[DesignLedGrowth]] — design and conversion case added by EP87.
+- [[RoutineAgentAutomation]], [[AICodingVerification]], and [[HumanJudgmentUnderAI]] — skills, verification, and responsibility themes added by EP127.

@@ -2,7 +2,7 @@
 title: "AI Coding Verification"
 type: concept
 tags: [ai-coding, software-engineering, verification]
-sources: [duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1]
+sources: [duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]
 last_updated: 2026-07-07
 ---
 
@@ -20,6 +20,8 @@ AI coding verification is the shift in bottleneck from generating code to provin
 
 [[zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1]] adds an experience-level warning. The hosts argue that AI lowers the entry threshold, but senior developers may benefit more because they can describe problems, recognize bad assumptions, and integrate generated changes back into a real codebase. The same source predicts more bug-prone PRs if AI output outruns review capacity.
 
+[[ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz]] adds the skill layer. The hosts argue that [[Playwright]], computer use, TDD, self-review, and release checks are high-value skills because they let [[Codex]] or [[ClaudeCode]] verify real behavior. One speaker also describes reviewing AI work by checking whether the diff stays inside the planned architecture rather than line-editing every generated detail.
+
 ## Key Claims
 - AI coding makes implementation cheaper, but architecture, roadmap choice, complexity control, tests, review, and long-term maintenance still matter.
 - Generated code should not reduce the developer's responsibility for commits made under their own identity.
@@ -35,6 +37,8 @@ AI coding verification is the shift in bottleneck from generating code to provin
 - AI-generated infrastructure advice requires documentation checks and live-system validation, because plausible cloud configuration answers can be wrong.
 - AI can make beginners productive sooner while still making expert review more valuable, because the hard part shifts toward knowing what is wrong or missing.
 - Review difficulty can increase when generated changes are larger, more numerous, or written in a style optimized for model modification rather than human elegance.
+- Skills can encode verification routines so the agent repeatedly builds, tests, reviews, and checks production behavior without the user rewriting the same instructions.
+- Architecture maps become a verification aid when they let the human inspect whether generated changes crossed the wrong module boundary.
 
 ## Connections
 - [[AgenticWorkflow]] — the workflow pattern that accelerates production and creates verification pressure.
@@ -47,3 +51,4 @@ AI coding verification is the shift in bottleneck from generating code to provin
 - [[Codex]], [[ClaudeCode]], and [[Superpowers]] — review-loop and orchestration cases added by Vol. 166.
 - [[WuTao]], [[Ryo]], and [[AIProgrammingEngineShift]] — cloud-consulting, small-script, and AI editor cases added by the internal-combustion-era episode.
 - [[DisplayErgonomics]] — episode 72's monitor discussion matters because verification depends on reading code, diffs, model output, and surrounding context clearly.
+- [[Playwright]], [[Codex]], [[ClaudeCode]], and [[AIEngineeringThinking]] — skill-driven verification case added by EP127.
