@@ -2,7 +2,7 @@
 title: "Doubao"
 type: entity
 tags: [ai, product, assistant, china]
-sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]
+sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]
 last_updated: 2026-07-08
 ---
 
@@ -22,6 +22,8 @@ Doubao is ByteDance's AI assistant and model product discussed in [[cong-qq-huiy
 
 [[136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]] adds Doubao to the domestic route split. The source says Doubao remains the strongest domestic C-end assistant example, while also predicting that even consumer-scale players cannot afford to lose the [[AGIThreeActs]] coding/agent route if model companies converge on high-value tasks.
 
+[[quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]] adds a growth-practitioner view. [[XuHongliang]] argues that Doubao is not a killing-time product like short video or short drama, so [[ByteDanceGrowthSystem]] cannot simply force up time spent through traffic buying. The source says AI assistants still need [[AIConsumerGrowthMetrics]] such as DAU and retention, but "buying" retention is difficult when model quality, task value, switching cost, and user data lock-in are weak.
+
 ## Key Points
 - The hosts present Doubao's rumored paid membership as a natural consequence of [[AIInferenceCostStructure]] and rapid user growth.
 - They argue that [[Doubao]] cannot rely only on "costs are high" messaging; it needs [[ProductLedWillingnessToPay]] through clearly differentiated features.
@@ -34,6 +36,8 @@ Doubao is ByteDance's AI assistant and model product discussed in [[cong-qq-huiy
 - Episode 140 adds that Doubao's voice fit may be a real consumer advantage even if it does not settle the frontier text-model race.
 - Episode 137 adds Doubao Seed as a Chinese [[AIForMath]] signal in Hong Letong's industry map.
 - Episode 136 adds a route split: Doubao is strong in consumer assistant distribution, but coding and agents still become mandatory if the frontier shifts toward high-value task work.
+- Episode 7 of the Luanfanshu ByteDance series adds that Doubao may receive paid acquisition budget, but strong consumer AI retention ultimately depends more on product experience than on buying traffic.
+- The same source links Doubao to [[AIConsumerGrowthMetrics]]: DAU, retention, and usage still matter in AI, but the metric surface may move across apps, agents, and terminals.
 
 ## Connections
 - [[ByteDance]] — company behind Doubao.
@@ -47,3 +51,4 @@ Doubao is ByteDance's AI assistant and model product discussed in [[cong-qq-huiy
 - [[YaoShunyu]], [[VoiceInteraction]], and [[ModelWorkflowFit]] — voice assistant assessment added by episode 140.
 - [[HongLetong]], [[ByteDance]], [[AIForMath]], and [[Axiom]] — AI-for-math context added by episode 137.
 - [[Kimi]], [[MiniMax]], [[ZhipuAI]], [[AGIThreeActs]], and [[ModelAsOperatingSystem]] — domestic-model convergence and model-platform frame added by episode 136.
+- [[XuHongliang]], [[ByteDanceGrowthSystem]], [[AIConsumerGrowthMetrics]], and [[LTVBasedGrowthBudgeting]] — growth-system limits for consumer AI added by the Luanfanshu episode 7 source.

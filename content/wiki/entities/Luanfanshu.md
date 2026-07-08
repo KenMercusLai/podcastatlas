@@ -2,7 +2,7 @@
 title: "乱翻书"
 type: entity
 tags: [podcast, media]
-sources: [musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d]
+sources: [musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]
 last_updated: 2026-07-08
 ---
 
@@ -20,6 +20,8 @@ The episode places the show inside the wiki's AI product and application-layer b
 
 [[touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d]] adds Luanfanshu's platform-competition mode: a ByteDance-series episode that turns the [[ToutengWar]] into a broader comparison of [[ByteDance]] and [[Tencent]] across information feeds, short video, ads, social, games, IP, and AI.
 
+[[quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]] adds Luanfanshu's growth-operations mode: a ByteDance-series episode where [[XuHongliang]] turns "growth" into a system of LTV modeling, buying automation, creative supply, anti-fraud, internal attribution, red-packet incentives, overseas local teams, and AI-era retention limits.
+
 ## Connections
 - [[ZhuangMinghao]] and [[WeiXi]] — speaker context for the episode.
 - [[Vanessa]], [[MusicalLy]], [[TikTok]], and [[ByteDance]] — ByteDance-series product-culture source.
@@ -28,3 +30,4 @@ The episode places the show inside the wiki's AI product and application-layer b
 - [[TimCook]], [[Apple]], [[StakeholderCapitalism]], and [[ValuesAsOperationalAsset]] — governance and values branch added by episode 264.
 - [[Hongguo]], [[Douyin]], [[AIShortDrama]], and [[ShortDramaEconomics]] — short-drama and AI-video entertainment branch added by episode 266.
 - [[ToutengWar]], [[Tencent]], [[ZhangYiming]], [[PonyMa]], [[RecommendationDistributionAdvantage]], and [[SocialGraphMoat]] — platform-competition branch added by ByteDance episode 6.
+- [[XuHongliang]], [[ByteDanceGrowthSystem]], [[LTVBasedGrowthBudgeting]], [[AutomatedPerformanceMarketing]], [[CreativeMaterialIndustrialization]], [[GrowthRiskControl]], and [[AIConsumerGrowthMetrics]] — growth-operations branch added by ByteDance episode 7.

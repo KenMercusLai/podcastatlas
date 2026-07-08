@@ -2,7 +2,7 @@
 title: "Meta"
 type: entity
 tags: [company, ai, platform]
-sources: [musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
+sources: [musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]
 last_updated: 2026-07-08
 ---
 
@@ -22,6 +22,8 @@ The source speculates that Meta could see [[Manus]] demand through platform or a
 
 [[264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]] adds Meta as the ad-platform contrast inside [[ApplePrivacy]]. The episode says Apple's App Tracking Transparency damaged Meta's data-driven advertising model and uses that conflict to frame [[TimCook]]'s "users are not products" stance.
 
+[[quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]] adds Meta/Facebook as both growth benchmark and failed incumbent-response case. [[XuHongliang]] says Zhang Yiming drew lessons from Facebook's large growth center, while the hosts contrast Facebook's earlier monitor/acquire/copy playbook with its weaker response to [[TikTok]] once TikTok had stronger LTV, buying tolerance, and attack will.
+
 ## Connections
 - [[Manus]] — claimed acquisition target and agent product central to the source.
 - [[TikTok]] and [[RecommendationSystemProductization]] — short-video competitive context added by the Musical.ly/TikTok source.
@@ -34,3 +36,4 @@ The source speculates that Meta could see [[Manus]] demand through platform or a
 - [[AIBubbleHedging]] and [[AIEquityValuationRisk]] — investment-risk frame added by The Intelligence episode.
 - [[AGIThreeActs]], [[ModelAsOperatingSystem]], and [[ModelProviderToolCompetition]] — episode 136's challenger-position framing.
 - [[ApplePrivacy]], [[Apple]], and [[AppStore]] — ATT and ad-tracking contrast added by the Cook episode.
+- [[ByteDanceGrowthSystem]], [[LTVBasedGrowthBudgeting]], [[TikTok]], and [[AutomatedPerformanceMarketing]] — growth-benchmark and competitive-response context added by the Luanfanshu episode 7 source.

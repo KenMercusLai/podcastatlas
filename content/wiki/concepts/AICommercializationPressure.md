@@ -19,7 +19,8 @@ sources:
   - opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1
   - ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1
   - 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan
-last_updated: 2026-07-07
+  - quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec
+last_updated: 2026-07-08
 ---
 
 # AI Commercialization Pressure
@@ -56,6 +57,8 @@ AI commercialization pressure is the tension between technical influence, user a
 
 [[136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]] adds the model-as-platform version. The source argues that only companies able to keep delivering SOTA models, absorb compute bottlenecks, monetize high-value Token Usage, and build agent/coding products may become [[ModelAsOperatingSystem]] winners.
 
+[[quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]] adds the growth-practitioner version through [[Doubao]]. [[XuHongliang]] argues that consumer AI products still need [[AIConsumerGrowthMetrics]], but they cannot rely on paid acquisition the way short-video or free-content apps can when model quality, task value, token cost, and switching cost dominate retention.
+
 ## Key Claims
 - Open-source reputation alone may not justify sustained high-cost model training.
 - Commercialization pressure can change release timing, model scope, or product boundaries without necessarily ending open source.
@@ -78,6 +81,7 @@ AI commercialization pressure is the tension between technical influence, user a
 - Closed frontier-model companies face commercialization pressure when safety rhetoric or state policy can abruptly restrict who may buy or use the strongest models.
 - Production robotics faces commercialization pressure because the technical stack includes whole machines, supply chain, data collection, training, AI infrastructure, field deployment, and customer ROI at the same time.
 - Model companies face commercialization pressure because operating-system-scale ambition requires sustained SOTA models, compute supply, product adoption, and high-value workflows rather than consumer traffic alone.
+- Consumer AI growth faces commercialization pressure because more DAU and more time spent can also mean higher inference cost unless retention, pricing, task value, and product differentiation improve together.
 
 ## Connections
 - [[LargeCompanyOpenSourceStrategy]] — strategic context where the pressure appears.
@@ -100,3 +104,4 @@ AI commercialization pressure is the tension between technical influence, user a
 - [[AIExportControls]], [[FrontierModelAccessRestrictions]], [[AISafetyNarrativeBackfire]], and [[SaaSReliabilityUnderPolicyRisk]] — policy-risk route added by the Keji Luandun export-control episode.
 - [[Xinghaitu]], [[GaoJiyang]], [[EmbodiedAIValueChain]], [[PhysicalWorldDataFlywheel]], and [[ProductionRobotScenarioSelection]] — production-robotics commercialization route added by the Xinghaitu source.
 - [[ModelAsOperatingSystem]], [[AGIThreeActs]], [[AIInvestmentMetrics]], [[TokenMaxxing]], and [[ModelProviderToolCompetition]] — model-platform commercialization route added by episode 136.
+- [[Doubao]], [[ByteDanceGrowthSystem]], [[AIConsumerGrowthMetrics]], [[AIInferenceCostStructure]], and [[LTVBasedGrowthBudgeting]] — consumer-growth and paid-acquisition limits added by the Luanfanshu episode 7 source.

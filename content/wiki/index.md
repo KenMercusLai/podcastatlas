@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集](sources/quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec.md) — 乱翻书 episode with Xu Hongliang on ByteDance's growth system, LTV budgeting, automated buying, creative material industrialization, risk control, red-packet incentives, TikTok global growth, and AI-era retention limits.
 - [头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集](sources/touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d.md) — 乱翻书 episode on the 2018 Touteng War and ByteDance/Tencent competition across information feeds, short video, ads, social, games, IP, and AI.
 - [266.从红果到AI短剧：谁在革谁的命？](sources/266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob.md) — 乱翻书 episode on Hongguo, Douyin, iQIYI, AI short dramas, single-minute production cost, paid-traffic economics, creator workflows, copyright risk, and long-video platform pressure.
 - [Missing Peace: Will Israel Imperil Iran Deal?](sources/missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3.md) — The Intelligence episode on Israel-Hezbollah-Lebanon risk to U.S.-Iran diplomacy, strong El Nino climate risk, and Japan's imperial succession crisis.
@@ -171,6 +172,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [徐鸿亮 / Tom](entities/XuHongliang.md) — ByteDance growth and internationalization guest explaining TikTok growth, LTV budgeting, automated buying, material systems, risk control, and AI retention limits.
+- [番茄小说 / Fanqie Novel](entities/FanqieNovel.md) — ByteDance free-reading product used as a growth-transfer case from Toutiao channels toward Hongguo and short-form content.
+- [汽水音乐 / Qishui Music](entities/QishuiMusic.md) — ByteDance music product whose growth uses Douyin account, BGM, viral-song, and interest signals.
+- [Temu](entities/Temu.md) — Overseas ecommerce growth comparison that learned from ByteDance-style regional UG organization while relying on supply, coupons, and fulfillment.
+- [Zynn](entities/Zynn.md) — Kuaishou overseas short-video app used as a cautionary red-packet growth and compliance-risk case.
 - [张一鸣 / Zhang Yiming](entities/ZhangYiming.md) — ByteDance founder whose 2018 exchange with Pony Ma anchors the Touteng War source.
 - [马化腾 / Pony Ma](entities/PonyMa.md) — Tencent founder whose reply to Zhang Yiming helped escalate the 2018 public conflict.
 - [李亮](entities/LiLiang.md) — ByteDance public-relations figure used in the Touteng source to show how PR history and legal conflict prolonged the dispute.
@@ -994,6 +1000,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [ByteDance Growth System](concepts/ByteDanceGrowthSystem.md) — Company-level growth capability combining growth BP, LTV models, automated buying, creative material, risk control, internal traffic, and localization.
+- [LTV-Based Growth Budgeting](concepts/LTVBasedGrowthBudgeting.md) — Growth budgeting method that uses long-horizon user value, Ry1/Ry2/Ry3 cost layers, and retention assumptions to justify acquisition spend.
+- [Automated Performance Marketing](concepts/AutomatedPerformanceMarketing.md) — Codifying bidding, budget, placement, campaign structure, and optimization rules into systems rather than relying only on human media buyers.
+- [Creative Material Industrialization](concepts/CreativeMaterialIndustrialization.md) — Tagged, reviewed, recombinable, and measurable advertising creative supply chain used in large-scale performance growth.
+- [Growth Risk Control](concepts/GrowthRiskControl.md) — Control layer for fake users, unsafe material, attribution pollution, financial leakage, and compliance failures in growth systems.
+- [Red Packet Growth](concepts/RedPacketGrowth.md) — Incentive-growth pattern using tiered and delayed rewards tied to later user behavior and contribution.
+- [AI Consumer Growth Metrics](concepts/AIConsumerGrowthMetrics.md) — AI product growth frame where DAU, retention, usage, task value, token cost, and switching cost still matter.
 - [Touteng War](concepts/ToutengWar.md) — 2018 ByteDance/Tencent public conflict used as a case of platform rivalry, PR escalation, youth-safety narratives, and regulatory anxiety.
 - [Recommendation Distribution Advantage](concepts/RecommendationDistributionAdvantage.md) — Company-level ability to compound recommendation, growth, traffic allocation, ads, and content supply.
 - [Social Graph Moat](concepts/SocialGraphMoat.md) — WeChat/Tencent relationship, identity, payment, and history advantage that makes social migration hard.

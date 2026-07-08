@@ -760,6 +760,7 @@ Added source page for a 面基 episode on dynamic efficient frontier, asset allo
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-07-08] ingest | 266.从红果到AI短剧：谁在革谁的命？
 
 Added source page for a 乱翻书 episode on Hongguo, Douyin, iQIYI, AI short drama, short-drama cost structure, paid-traffic and ad monetization, AI video production workflows, copyright risk, overseas distribution, and long-video platform pressure. Created pages for Hongguo, iQIYI, Gong Yu, Wang Xiaoshu, Xu Wenliang, YouTube, AI Short Drama, Short Drama Economics, AI Video Production Workflow, and Platformized Drama Production; updated overview, index, Luanfanshu, Zhuang Minghao, ByteDance, Douyin, Kuaishou, Seedance, Video Models, AI Interactive Entertainment, AI Content Provenance, AI Super Creators, and AI Content Devaluation. No direct contradiction found; source-provided industry scale, ad-spend, and test-rate claims are recorded as guest observations pending external verification.
@@ -1227,6 +1228,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] ingest | 头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集
 
 Added source page for a 乱翻书 episode on the 2018 Touteng War and ByteDance/Tencent competition across information feeds, short video, ads, social, games, IP, and AI. Created pages for Zhang Yiming, Pony Ma, Li Liang, Neihan Duanzi, Jinri Toutiao, Tiantian Kuaibao, Tencent Weishi, WeChat Channels, Duoshan, Ohayoo, Chaoxi Guangnian, Ocean Engine, Tencent Advertising, Touteng War, Recommendation Distribution Advantage, Social Graph Moat, Unified Ad Platform, Platform IP Strategy, and Platform Company Worldviews; updated overview, index, Luanfanshu, ByteDance, Tencent, Douyin, WeChat, Data-Driven Product Culture, Content Ecosystem Governance, and Company Game Difficulty Strategy. No direct contradiction found; the source qualifies the wiki's ByteDance and Tencent threads by mapping where recommendation/distribution systems beat relationship/IP/game strengths and where they did not.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | 全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集
+
+Added source page for a 乱翻书 ByteDance-series episode with Xu Hongliang on ByteDance's growth system: growth BP, LTV-based budgeting, automated performance marketing, creative material industrialization, growth risk control, red-packet incentives, internal attribution, TikTok global growth, and AI-era retention limits. Created pages for Xu Hongliang, Fanqie Novel, Qishui Music, Temu, Zynn, ByteDance Growth System, LTV-Based Growth Budgeting, Automated Performance Marketing, Creative Material Industrialization, Growth Risk Control, Red Packet Growth, and AI Consumer Growth Metrics; updated overview, index, Luanfanshu, ByteDance, TikTok, Douyin, Doubao, Hongguo, Ocean Engine, Zhang Yiming, Jinri Toutiao, Kuaishou, Meta, Pinduoduo, Data-Driven Product Culture, Recommendation Distribution Advantage, Unified Ad Platform, Platform IP Strategy, Global Product Localization, and AI Commercialization Pressure. No direct contradiction found; the source deepens ByteDance's recommendation/distribution advantage while qualifying it with business-model, compliance, infrastructure, and leadership-authority limits.
 
 ## [2026-07-08] lint | Wiki health check
 
