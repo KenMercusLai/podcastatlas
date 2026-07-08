@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [汉洋：为什么做《蜉蝣天地》](sources/hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5.md) — Fuyou Tiandi program-statement episode on Han Yang's critique of media constraints, long-form conversation, non-instrumental understanding, guest-centered interviews, and why video matters to the new show.
 - [少有的深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康](sources/shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud.md) — 42章经 episode with Wei Xiaokang on ByteDance/Meituan organization contrast, business-model-shaped management, recruiting supply, reference checks, AI sourcing, AI coding, and why AI startups still need strong small teams rather than pure one-person companies.
 - [E44 李晓波对话孟岩：这次，就这样吧？](sources/e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2.md) — 无人知晓 episode on 有知有行, financial-platform incentives, investor suitability friction, founder governance, 本分, 如其所是, and keeping investment subordinate to a better life.
 - [这可能才是 AI 陪伴真正该有的样子｜对谈刷屏产品 EVE 创始人 Tristan](sources/zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew.md) — 42章经 episode with Tristan on EVE as a long-term AI companion built from active memory, emotional post-training, real-world temporal awareness, proactive interaction, 3D presence, game progression, and companion-product economics.
@@ -193,6 +194,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [汉洋 / Han Yang](entities/HanYang.md) — Content creator and Fuyou Tiandi host arguing for long-form, guest-centered conversation against conclusion-driven media constraints.
+- [蜉蝣天地 / Fuyou Tiandi](entities/FuyouTiandi.md) — Han Yang's video-podcast project built around long-form conversation, non-instrumental understanding, and visible guest worlds.
+- [Lex Fridman](entities/LexFridman.md) — Long-form interview reference used by Han Yang through John Carmack, Rick Rubin, and Ilya Sutskever examples.
+- [Joe Rogan](entities/JoeRogan.md) — Long-form podcast reference used by Han Yang to show how private interests can develop public meaning.
+- [John Carmack](entities/JohnCarmack.md) — Engineering interview example showing how side topics can reveal values better than narrow technology-media framing.
+- [Rick Rubin](entities/RickRubin.md) — Creative interview example showing why lingering on apparently non-urgent details can reveal judgment.
 - [魏小康 / Wei Xiaokang](entities/WeiXiaokang.md) — AI recruiting founder and former ByteDance/Meituan organization participant explaining business-model-shaped organization design, recruiting supply, reference checks, and AI-era small-team structure.
 - [王兴 / Wang Xing](entities/WangXing.md) — Meituan founder reference used in the Wei Xiaokang episode to frame company success as riding a larger industry wave rather than pure founder genius.
 - [Li Xiaobo / 李晓波](entities/LiXiaobo.md) — E44 conversation partner pressing Meng Yan on user interest, product friction, 本分, and investment as a life-practice question.
@@ -1111,6 +1118,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Long-Form Conversation](concepts/LongFormConversation.md) — Interview method where time, trust, side paths, and rough thinking reveal a person's judgment and lived experience.
+- [Media Form Constraint](concepts/MediaFormConstraint.md) — Pressure from duration, conclusions, information gain, public utility, and platform expectations that shapes what content can say.
+- [Non-Instrumental Understanding](concepts/NonInstrumentalUnderstanding.md) — Treating a topic as worth understanding even when it does not immediately produce advice, prediction, or decision utility.
+- [Video Podcast Affordance](concepts/VideoPodcastAffordance.md) — Video-podcast capacity to carry gestures, bodies, images, objects, and spatial context that audio-only formats may lose.
 - [Business-Model Organization Fit](concepts/BusinessModelOrganizationFit.md) — Principle that organization mechanisms should follow business chain length, cycle, gross margin, and competition pattern rather than copy big-company rituals.
 - [Recruiting Supply Strategy](concepts/RecruitingSupplyStrategy.md) — Founder-level hiring method focused on clarifying role demand, mapping talent supply, and reaching strong candidates before interviews.
 - [Reference-Check Hiring](concepts/ReferenceCheckHiring.md) — Hiring judgment method that weights evidence from credible former managers and collaborators because interviews are noisy and easy to game.

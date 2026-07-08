@@ -1415,3 +1415,11 @@ Added source page for a 42章经 episode with Wei Xiaokang on ByteDance and Meit
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, eight fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; report returned in-session and `lint-report.md` was not saved.
+
+## [2026-07-09] ingest | 汉洋：为什么做《蜉蝣天地》
+
+Added source page for a Fuyou Tiandi program-statement episode on Han Yang's critique of media constraints, long-form conversation, non-instrumental understanding, guest-centered interviews, and why video matters. Created pages for Han Yang, Fuyou Tiandi, Lex Fridman, Joe Rogan, John Carmack, Rick Rubin, Long-Form Conversation, Media Form Constraint, Non-Instrumental Understanding, and Video Podcast Affordance; updated Ilya Sutskever, LateTalk, Podcast As Asynchronous Media, overview, and index. No direct contradiction found; the source extends the wiki's podcast and media-method branch by arguing that slower conversation can preserve judgment, hesitation, side paths, embodied cues, and private fascination that conclusion-driven formats compress away.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, eight fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; report returned in-session and `lint-report.md` was not saved.
