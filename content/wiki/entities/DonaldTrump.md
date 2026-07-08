@@ -2,7 +2,7 @@
 title: "Donald Trump"
 type: entity
 tags: [person, politics, macro, investing]
-sources: [gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
+sources: [starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
 last_updated: 2026-07-09
 ---
 
@@ -22,6 +22,8 @@ Donald Trump appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-
 
 [[264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]] adds Trump as a political counterparty for [[TimCook]]. The episode says Cook maintained enough relationship access to discuss tariff exemptions for [[Apple]], while still publicly opposing the DACA cancellation as morally wrong and committing legal support to affected Apple employees.
 
+[[starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1]] adds Trump to a Latin American security-politics frame. The episode says [[AbelardoDeLaEspriella]] wins [[Colombia]]'s presidential runoff with Trump's endorsement, and it links the result to an anti-gang agenda that helps shape [[LatinAmericaRightwardShift]] and [[SecurityBacklashPolitics]].
+
 ## Source Position
 - The source treats Trump less as a biography subject and more as a market-policy variable.
 - [[LaoMai]] argues that this term differs from Trump's earlier term because the inherited environment includes higher debt, inflation pressure, and stretched equity valuation.
@@ -34,6 +36,7 @@ Donald Trump appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-
 - The America-at-250 source treats Trump as a test of [[AmericanDemocraticResilience]] because personal power claims can become legal precedent.
 - The Gulf-co-operation source extends that test through the later historical sequence from backlash and January 6th to Trump's return.
 - The Cook episode treats Trump as a test of business pragmatism versus moral boundaries: private commercial negotiation does not prevent public disagreement when employees and civil rights are at stake.
+- The Starmergeddon source treats Trump as an external endorsement and anti-gang alignment point for Colombia's rightward security turn.
 
 ## Connections
 - [[FederalReserve]] and [[JeromePowell]] — policy actors whose communication and rate path are framed as interacting with Trump-era fiscal and tariff pressure.
@@ -46,3 +49,4 @@ Donald Trump appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-
 - [[JDVance]], [[Israel]], [[Iran]], [[Lebanon]], [[USIranNuclearDiplomacy]], and [[ProxyConflictSpoilerRisk]] — Middle East diplomacy branch added by The Intelligence.
 - [[UnitedStates]], [[SupremeCourt]], [[AmericanDemocraticResilience]], and [[ExecutivePowerPrecedent]] — domestic constitutional-risk branch added by the America-at-250 source.
 - [[TimCook]], [[Apple]], and [[ValuesAsOperationalAsset]] — tariff and DACA context added by the Cook episode.
+- [[Colombia]], [[AbelardoDeLaEspriella]], [[SecurityBacklashPolitics]], and [[LatinAmericaRightwardShift]] — security-election branch added by The Intelligence.

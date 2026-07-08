@@ -1428,6 +1428,7 @@ Added source page for a Fuyou Tiandi program-statement episode on Han Yang's cri
 
 Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, eight fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; report returned in-session and `lint-report.md` was not saved.
 
+
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, eight fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider key variables are present in the environment; report returned in-session and `lint-report.md` was not saved.
@@ -1439,3 +1440,11 @@ Added source page for the Drum Tower Acast-feed copy of the Economist Podcasts t
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, eight fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; report returned in-session and `lint-report.md` was not saved.
+
+## [2026-07-09] ingest | Starmergeddon: British PM resigns
+
+Added source page for a The Intelligence episode on Keir Starmer's resignation, Labour succession through Andy Burnham, Colombia's election of Abelardo de la Espriella after frustration with Gustavo Petro's security record, and Toy Story 5 as a screen-time parenting critique. Created pages for Colombia, Abelardo de la Espriella, Gustavo Petro, Toy Story 5, Security Backlash Politics, Latin America Rightward Shift, and Screen-Time Parenting; updated overview, index, United Kingdom, Keir Starmer, Labour Party (UK), Andy Burnham, Labour Leadership Crisis, Political Delivery Gap, Post-Brexit Strategic Identity, The Intelligence, Economist Podcasts, Donald Trump, The Walt Disney Company, and Entertainment IP Flywheel. No direct contradiction found; the source turns the earlier Starmer "clings on" episode into a dated temporary reprieve rather than a conflicting claim.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

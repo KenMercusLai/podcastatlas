@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Starmergeddon: British PM resigns](sources/starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1.md) — The Intelligence episode on Keir Starmer's resignation, Labour succession through Andy Burnham, Colombia's security backlash and rightward shift, and Toy Story 5 as a screen-time parenting critique.
 - [E45 孟岩对话李继刚：人何以自处](sources/e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask.md) — 无人知晓 episode with Meng Yan and Li Jigang on AI as time compression, prompt-as-intent, Memory/Soul second brains, deep-well AI companies, wet-state human agency, feed curation, and water/fire education.
 - [汉洋：为什么做《蜉蝣天地》](sources/hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5.md) — Fuyou Tiandi program-statement episode on Han Yang's critique of media constraints, long-form conversation, non-instrumental understanding, guest-centered interviews, and why video matters to the new show.
 - [少有的深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康](sources/shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud.md) — 42章经 episode with Wei Xiaokang on ByteDance/Meituan organization contrast, business-model-shaped management, recruiting supply, reference checks, AI sourcing, AI coding, and why AI startups still need strong small teams rather than pure one-person companies.
@@ -220,7 +221,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Han Boxiao](entities/HanBoxiao.md) — vivo X-series product leader arguing that phones remain the central AI entry point and that product scenarios should pull terminal technology requirements.
 - [Chen Yiqiang](entities/ChenYiqiang.md) — MediaTek wireless-communications executive explaining AI-era chip planning, NPU investment, software tooling, and system-level workload scheduling.
 - [Dimensity 9500](entities/Dimensity9500.md) — MediaTek smartphone-chip platform used as the vivo/MediaTek case for early AI compute, NPU, and terminal-chip co-design.
-- [United Kingdom](entities/UnitedKingdom.md) — Country case where Brexit reshaped trade, immigration expectations, regulatory freedom, party politics, and Britain's role in European security.
+- [United Kingdom](entities/UnitedKingdom.md) — Country case where Brexit reshaped trade, immigration expectations, strategic identity, and later Labour leadership instability under Starmer.
 - [David Cameron](entities/DavidCameron.md) — British prime minister whose 2013 EU referendum promise is framed as turning Conservative pressure into a national Brexit rupture.
 - [Boris Johnson](entities/BorisJohnson.md) — Brexit figure whose Leave support and later hard-Brexit government are tied to economic friction and post-Brexit migration disappointment.
 - [Daniel Franklin](entities/DanielFranklin.md) — The Intelligence participant framing Brexit as a continuing source of British political churn and strategic-identity uncertainty.
@@ -468,14 +469,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mark Johnson](entities/MarkJohnson.md) — The Intelligence correspondent reporting on Bangladesh's election and party-system transition.
 - [Oliver Morton](entities/OliverMorton.md) — The Intelligence contributor explaining applied astrobiology, microbes, bioreactors, and space habitability.
 - [Shira Aviono](entities/ShiraAviono.md) — The Intelligence contributor explaining AI-assisted applications, fake applicant risk, and recruiting responses.
-- [Keir Starmer](entities/KeirStarmer.md) — British prime minister framed as surviving an immediate Labour leadership scare while remaining politically vulnerable.
-- [Labour Party (UK)](entities/LabourPartyUK.md) — Governing party context for Starmer's internal support, divided MPs, and unresolved successor problem.
+- [Colombia](entities/Colombia.md) — Country case where voters punish worsening security and elect Abelardo de la Espriella in the Starmergeddon episode.
+- [Abelardo de la Espriella](entities/AbelardoDeLaEspriella.md) — Colombian right-wing presidential winner framed through security backlash, Trump endorsement, and rule-of-law constraints.
+- [Gustavo Petro](entities/GustavoPetro.md) — Colombian leader whose Total Peace strategy is punished by voters in the Starmergeddon episode.
+- [Keir Starmer](entities/KeirStarmer.md) — British prime minister whose earlier Labour leadership scare becomes resignation in the later Starmergeddon source.
+- [Labour Party (UK)](entities/LabourPartyUK.md) — Governing party context for Starmer's lost support, Burnham succession, and constrained policy reset.
 - [Peter Mandelson](entities/PeterMandelson.md) — Senior Labour figure whose Epstein-linked scandal becomes a judgment problem for Starmer in the episode.
 - [Jeffrey Epstein](entities/JeffreyEpstein.md) — Scandal context for the Mandelson appointment and Starmer leadership segment.
 - [Sasha Nauta](entities/SashaNauta.md) — The Intelligence correspondent explaining Starmer's weak authority, delivery gap, and Labour pressure.
 - [Angela Rayner](entities/AngelaRayner.md) — Possible Labour successor discussed as plausible but damaged by tax-scandal questions.
 - [Wes Streeting](entities/WesStreeting.md) — Possible Labour successor discussed as weakened by Mandelson ties and party unpopularity.
-- [Andy Burnham](entities/AndyBurnham.md) — Possible Labour successor discussed as recognizable but lacking a current route to the premiership.
+- [Andy Burnham](entities/AndyBurnham.md) — Labour successor figure who moves from blocked alternative to likely replacement after a by-election victory.
 - [Ed Miliband](entities/EdMiliband.md) — Possible Labour successor whose route or plans are described as unclear.
 - [Kathy Hochul](entities/KathyHochul.md) — New York governor tied to the assisted-dying law and its extra safeguards.
 - [Death with Dignity](entities/DeathWithDignity.md) — Advocacy group cited for expected assisted-dying bill activity in additional U.S. states.
@@ -489,6 +493,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Texas A&M University](entities/TexasAMUniversity.md) — Public-university case for syllabus review, Plato's Symposium removal, and academic-freedom pressure.
 - [Martin Peterson](entities/MartinPeterson.md) — Texas A&M philosophy professor whose Plato syllabus dispute anchors the academic-freedom segment.
 - [Taxi Driver](entities/TaxiDriver.md) — Film used by The Intelligence to analyze Travis Bickle, alienation, and antihero misreading.
+- [Toy Story 5](entities/ToyStory5.md) — Film used by The Intelligence to critique tablets, distracted parents, loneliness, and screen-time parenting.
 - [Travis Bickle](entities/TravisBickle.md) — Taxi Driver character treated as a warning about alienated male violence rather than as a masculine hero.
 - [龟龟](entities/Guigui.md) — 硬地骇客 guest explaining secondhand B-type RV ownership, pet travel, winter logistics, parking, and mobile work from trips to Jingdezhen and Shenyang.
 - [One Life](entities/OneLife.md) — RV brand or fit-out style associated with Guigui's secondhand B-type RV in EP122.
@@ -503,7 +508,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [General Mills](entities/GeneralMills.md) — Food company mentioned as the Haagen-Dazs parent-company context in the ice-cream episode.
 - [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for city commerce observations, bee economics, FIFA governance, and Sushiro's restaurant-chain operations.
 - [Polymarket](entities/Polymarket.md) — Prediction-market example used by E144 to explain price-as-probability thinking and residual risk.
-- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for Brexit, Gulf stability, America at 250, U.S.-Iran diplomacy, NATO stress, Khamenei's funeral, Bangladesh transition, Venezuela disaster response, robot delivery, Netflix thrillers, and other magazine-style segments.
+- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for Starmer's resignation, Brexit, Gulf stability, America at 250, U.S.-Iran diplomacy, NATO stress, Colombia security politics, and other magazine-style segments.
 - [NATO](entities/NATO.md) — Alliance context for defence spending, Ukraine support, European defence autonomy, Russian hybrid pressure, American commitment doubts, and Britain's post-Brexit defence role.
 - [Anton LaGuardia](entities/AntonLaGuardia.md) — The Intelligence diplomatic editor explaining NATO's tense summit, European defence autonomy, and alliance credibility risks.
 - [Anna Kerr](entities/AnnaKerr.md) — The Intelligence contributor explaining vibe lawyering, legal AI hallucinations, and supervised legal AI.
@@ -769,7 +774,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lotus Racing](entities/LotusRacing.md) — Constructor case for lightness, handling, sponsor surfaces, aerodynamics, and ground-effect innovation.
 - [Netflix](entities/Netflix.md) — Streaming company used for Drive to Survive audience growth, earnings-expectation investing lessons, and Harlan Coben thriller-brand packaging.
 - [Drive to Survive](entities/DriveToSurvive.md) — Netflix series that reframed Formula One through people, politics, and behind-the-scenes team drama.
-- [The Walt Disney Company](entities/TheWaltDisneyCompany.md) — Media and entertainment company analyzed through owned IP, animation, merchandise, television, parks, rereleases, and distribution control.
+- [The Walt Disney Company](entities/TheWaltDisneyCompany.md) — Media and entertainment company analyzed through owned IP, animation, merchandise, parks, rereleases, and later Toy Story family-technology relevance.
 - [Walt Disney](entities/WaltDisney.md) — Founder and creative force behind Mickey, Snow White, Disneyland, and the Florida/Epcot vision.
 - [Roy Disney](entities/RoyDisney.md) — Walt's finance and operating partner who preserved the company and completed Walt Disney World.
 - [Ub Iwerks](entities/UbIwerks.md) — Early Disney animation partner and technical/artistic contributor to Mickey Mouse.
@@ -884,7 +889,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [DeepSeek](entities/DeepSeek.md) — Chinese open-source model effort cited through Qwen comparison, pricing substitution, market repricing, cost-control, export-control context, and Luo Fuli's earlier background.
 - [Deerflow](entities/Deerflow.md) — Open-source deep-research and desktop-workflow project discussed through AI coding, Chinese models, community governance, and multimodal work.
 - [Devin](entities/Devin.md) — Cognition coding-agent product discussed through the Windsurf acquisition context.
-- [Donald Trump](entities/DonaldTrump.md) — U.S. political figure used as a market-policy variable, political-influence monetization case, NATO alliance shock, Apple counterparty, U.S.-Israel diplomacy variable, and executive-power precedent test.
+- [Donald Trump](entities/DonaldTrump.md) — U.S. political figure used as a market-policy variable, political-influence monetization case, NATO alliance shock, Colombia security-politics endorser, Apple counterparty, and executive-power precedent test.
 - [Doubao](entities/Doubao.md) — ByteDance AI assistant and model context used for Chinese consumer AI subscriptions, voice fit, and Doubao Seed's AI-for-math signal.
 - [EOS Worldwide](entities/EOSWorldwide.md) — Methodology and coaching organization behind the EOS ecosystem that shaped Ninety's early product and channel.
 - [EarthKit](entities/EarthKit.md) — Jie Dechen's multimodal project for inferring photo locations, mentioned as background before Paperboy.
@@ -1366,8 +1371,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Applied Astrobiology](concepts/AppliedAstrobiology.md) — Biology-for-space agenda using microbes, bioreactors, and ecosystems to make off-Earth habitats more liveable.
 - [AI Hiring Arms Race](concepts/AIHiringArmsRace.md) — Recruiting feedback loop where candidates use AI to submit more applications and employers counter with screening, tests, policies, and agents.
 - [Candidate Identity Fraud](concepts/CandidateIdentityFraud.md) — Hiring-security risk that remote-work applicants, profiles, or interview identities are synthetic or deceptive.
-- [Labour Leadership Crisis](concepts/LabourLeadershipCrisis.md) — Governing-party situation where an incumbent survives because no consensus successor forms while authority keeps eroding.
-- [Political Delivery Gap](concepts/PoliticalDeliveryGap.md) — Mismatch between promised governing outcomes and visible progress, making scandals more politically dangerous.
+- [Labour Leadership Crisis](concepts/LabourLeadershipCrisis.md) — Governing-party situation where weak authority moves from failed scare to resignation and successor selection.
+- [Political Delivery Gap](concepts/PoliticalDeliveryGap.md) — Mismatch between promised governing outcomes and visible progress, making scandals and leadership exits more likely.
+- [Security Backlash Politics](concepts/SecurityBacklashPolitics.md) — Voter turn toward harder law-and-order candidates when crime, gangs, and territorial control appear to worsen.
+- [Latin America Rightward Shift](concepts/LatinAmericaRightwardShift.md) — Episode frame for right-wing gains across the cocaine belt driven by security frustration and anti-gang alignment.
+- [Screen-Time Parenting](concepts/ScreenTimeParenting.md) — Family-technology problem where distracted parents, weak rules, and tablets displace play and connection.
 - [Assisted Dying Laws](concepts/AssistedDyingLaws.md) — U.S. state-level legal frameworks allowing eligible terminally ill patients to obtain fatal medication.
 - [Assisted Dying Safeguards](concepts/AssistedDyingSafeguards.md) — Eligibility and procedure controls such as prognosis, physician review, mental competence, witnessed request, and self-administration.
 - [Skijoring](concepts/Skijoring.md) — Winter sport where a horse pulls a skier through a snowy course with gates, rings, and jumps.
@@ -1637,7 +1645,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Corporate Hospitality Platform](concepts/CorporateHospitalityPlatform.md) — Premium event environment used for sponsorship, client access, recruiting, and business development.
 - [Fat League Economics](concepts/FatLeagueEconomics.md) — League model where the central company retains meaningful economics and enterprise value instead of passing nearly all revenue to teams.
 - [Gift-To-Loyal-Buyer Loop](concepts/GiftToLoyalBuyerLoop.md) — Consumer-products growth pattern where gifting, packaging, ritual, education, and convenience convert recipients into repeat buyers.
-- [Entertainment IP Flywheel](concepts/EntertainmentIPFlywheel.md) — Strategy where owned characters and stories compound across films, merchandise, television, parks, rereleases, and distribution.
+- [Entertainment IP Flywheel](concepts/EntertainmentIPFlywheel.md) — Strategy where owned characters and stories compound across films, merchandise, television, parks, rereleases, distribution, and later cultural relevance.
 - [IP Ownership](concepts/IPOwnership.md) — Strategic control of characters, stories, and rights so media assets can be reused without distributor dependency.
 - [Strategic Rerelease](concepts/StrategicRerelease.md) — Catalog strategy that earns new revenue from owned media whose major production cost is already paid.
 - [Theme Park As Media Platform](concepts/ThemeParkAsMediaPlatform.md) — Pattern where a park distributes, monetizes, and deepens a story world rather than only hosting rides.

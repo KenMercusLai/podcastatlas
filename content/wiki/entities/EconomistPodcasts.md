@@ -2,7 +2,7 @@
 title: "Economist Podcasts"
 type: entity
 tags: [podcast, media]
-sources: [keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c]
+sources: [starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c]
 last_updated: 2026-07-09
 ---
 
@@ -14,6 +14,8 @@ Economist Podcasts is the show metadata context for [[trailer-tocqueville-road-t
 
 [[keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b]] adds a single-topic [[TheIntelligence]] retrospective on [[Brexit]], [[UnitedKingdom]] political churn, [[BrexitEconomicFriction]], and the limits of [[BrexitRegulatoryDividend]].
 
+[[starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1]] adds another [[TheIntelligence]] magazine-style sequence, spanning [[KeirStarmer]]'s resignation, [[Colombia]]'s security-election backlash, and [[ToyStory5]] as a family-technology critique.
+
 The page is adjacent to [[TheIntelligence]], another Economist podcast context already tracked in the wiki. The new trailer links that media branch to [[UnitedStates]], [[AmericanDemocraticResilience]], [[AlexisDeTocqueville]], and [[DemocracyInAmerica]] through a series that asks whether Tocqueville's America still exists.
 
 ## Connections
@@ -22,3 +24,4 @@ The page is adjacent to [[TheIntelligence]], another Economist podcast context a
 - [[UnitedStates]] and [[AmericanDemocraticResilience]] - civic-institution branch extended by the trailer.
 - [[GulfStabilityRisk]] and [[PlantAcousticSignaling]] - branches added by the Gulf-co-operation episode.
 - [[Brexit]], [[UnitedKingdom]], and [[BrexitEconomicFriction]] - branch added by the Brexit retrospective.
+- [[LabourLeadershipCrisis]], [[SecurityBacklashPolitics]], and [[ScreenTimeParenting]] - branches added by the Starmergeddon episode.
