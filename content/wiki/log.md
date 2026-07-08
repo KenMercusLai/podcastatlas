@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-09] ingest | E45 孟岩对话李继刚：人何以自处
+
+Added source page for a 无人知晓 episode with Meng Yan and Li Jigang on AI as time compression, prompt-as-intent, Memory/Soul second brains, AI companies as deep wells, wet-state human agency, feed curation, and water/fire education. Created pages for Li Jigang, AI As Time Compression, AI Company Deep Well, Prompt As Intent Transmission, AMV Prompt Framework, Wet-State Human Agency, Feed Curation, and Water And Fire Education; updated Meng Yan, 无人知晓, Human Agency Under AI, AI Use Pacing, AI-Assisted Reading, Personal Knowledge Ecology, AI Communication Ability, Subjectivity As AI Asset, Attention Industrialization, Human-Machine Amplification, AI Organization Design, Persistent Agent Memory, Reading As Frame Training, Learning How To Learn, AI As Tutor, overview, and index. Flagged no direct contradiction; the source is enthusiastic about delegating dry brain work to AI but keeps human intention, taste, body, and final judgment central.
+
 ## [2026-07-09] ingest | Gulf-co-operation counsel: what next for the region
 
 Added source page for a The Intelligence episode on Gulf stability after the Iran war, America-at-250 democratic strain, and plant acoustic signaling. Created pages for Greg Carlstrom, Gulf Cooperation Council, United Arab Emirates, Bahrain, Gulf Stability Risk, Gulf Strategic Diversification, and Plant Acoustic Signaling; updated The Intelligence, Economist Podcasts, United States, Barack Obama, Donald Trump, American Democratic Resilience, Executive Power Precedent, Iran, Strait of Hormuz, U.S.-Iran Nuclear Diplomacy, overview, and index. No direct contradiction found; the source creates a tension with earlier U.S.-Iran diplomacy and Khamenei-funeral pages by emphasizing that Gulf confidence still depends on durable settlement and credible security.
@@ -1423,3 +1427,7 @@ Added source page for a Fuyou Tiandi program-statement episode on Han Yang's cri
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, eight fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; report returned in-session and `lint-report.md` was not saved.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, eight fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider key variables are present in the environment; report returned in-session and `lint-report.md` was not saved.

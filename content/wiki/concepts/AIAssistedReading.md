@@ -2,8 +2,8 @@
 title: "AI-Assisted Reading"
 type: concept
 tags: [ai, reading, learning]
-sources: [dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]
-last_updated: 2026-07-08
+sources: [dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]
+last_updated: 2026-07-09
 ---
 
 # AI-Assisted Reading
@@ -14,6 +14,8 @@ The strongest version depends on context. AI can use the user's conversations, i
 
 The source also marks limits. For new books without full text, AI may be relying on reviews, previews, public commentary, or incomplete information. In those cases, the reader should understand the source of the answer and sometimes just buy or read the book directly.
 
+[[e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]] adds [[LiJigang]]'s workflow version. He uses AI to read papers, thin books into core structures, thicken books through cross-domain extension, and feed useful conversations back into a local note system. The point is less to avoid reading than to turn reading into question generation and inspiration while AI handles more of the structural extraction.
+
 ## Key Claims
 
 - AI can generate different readings of the same book by changing prompts, frames, disciplines, and worldview assumptions.
@@ -22,6 +24,7 @@ The source also marks limits. For new books without full text, AI may be relying
 - AI summaries are still abstractions shaped by the reader's question and the model's available evidence.
 - The point is not to avoid human reading; it is to decide when AI structure helps and when the reader should use their own neurons.
 - Personalized blind-spot reading requires both book context and user context.
+- AI can make a book thin by extracting structure, or make it thick by extending the structure across fields and questions.
 
 ## Connections
 
@@ -31,3 +34,4 @@ The source also marks limits. For new books without full text, AI may be relying
 - [[AIAsTutor]] and [[LearningHowToLearn]] — AI as individualized explanation and learning support.
 - [[HumanJudgmentUnderAI]] — the reader must judge whether an AI-generated structure is grounded and useful.
 - [[AIUsePacing]] — more possible AI reading does not mean every book should be processed through AI.
+- [[LiJigang]], [[PersonalKnowledgeEcology]], and [[AIAsTimeCompression]] — E45's reading workflow and time-compression case.

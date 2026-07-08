@@ -2,7 +2,7 @@
 title: "无人知晓"
 type: entity
 tags: [podcast, media]
-sources: [e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2]
+sources: [e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]
 last_updated: 2026-07-09
 ---
 
@@ -14,11 +14,14 @@ E42 adds [[WeiQing]] and shifts the same reflective style from investing uncerta
 
 E44 adds [[LiXiaobo]] and turns the reflective style back toward [[MengYan]] himself, using [[YouzhiYouxing]] to connect financial-product incentives, founder governance, [[InvestmentForBetterLife]], [[Benfen]], [[AsItIsPractice]], and [[RuminationVsReflection]]. This strengthens the show's role as a bridge between investing, company design, and ordinary-life practice.
 
+E45 adds [[LiJigang]] and pushes the same reflective style into AI-era existence. The episode connects [[AIAsTimeCompression]], [[AICompanyDeepWell]], [[PromptAsIntentTransmission]], [[PersistentAgentMemory]], [[WetStateHumanAgency]], [[FeedCuration]], and [[WaterFireEducation]] into the question of how people keep agency, body, taste, and connection when AI takes over more brain work.
+
 ## Connections
 - [[ZhangXiaoyu]] — host and personal through-line of E43.
-- [[MengYan]] — co-discussant across both E43 and E42.
+- [[MengYan]] — recurring co-discussant across E42, E43, E44, and E45.
 - [[XuZhe]] — E43 technical and philosophical guest.
 - [[WeiQing]] — E42 guest connecting engineering, organizations, AI, and human practice.
 - [[Antifragility]], [[ImpermanenceAndNoSelf]], and [[LifeAntifragility]] — core E43 themes.
 - [[SilentProtagonist]], [[AttentionIndustrialization]], and [[HumanMachineAmplification]] — core E42 themes.
 - [[LiXiaobo]], [[YouzhiYouxing]], [[FinancialPlatformIncentives]], and [[InvestmentForBetterLife]] — core E44 additions.
+- [[LiJigang]], [[AIAsTimeCompression]], [[WetStateHumanAgency]], and [[WaterFireEducation]] — core E45 additions.

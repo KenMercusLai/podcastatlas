@@ -2,8 +2,8 @@
 title: "Learning How To Learn"
 type: concept
 tags: [learning, education, ai]
-sources: [vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1]
-last_updated: 2026-07-08
+sources: [vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]
+last_updated: 2026-07-09
 ---
 
 # Learning How To Learn
@@ -13,6 +13,8 @@ Learning how to learn is the source's core durable skill across majors, professi
 [[dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]] adds a reading-method version. Monthly thematic reading, weekly book reading, [[AIAssistedReading]], and blind-spot chapter recommendation are not presented as a universal schedule; they are examples of improving the learning loop by asking what frame a book or person can teach.
 
 [[ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1]] adds the [[FifthDimension]] version. Jiang Xun frames the book as a map of AI-era concepts that readers should continue expanding with GPT-like tools, making self-directed exploration part of the book's method rather than a supplement.
+
+[[e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]] adds [[WaterFireEducation]]. [[LiJigang]] contrasts industrial "water" education that fills a container with future "fire" education that finds and ignites a person's own will, talent, and curiosity. Learning how to learn therefore includes discovering what one wants to train, not only using AI to learn faster.
 
 ## Key Claims
 
@@ -24,6 +26,7 @@ Learning how to learn is the source's core durable skill across majors, professi
 - AI can widen exploration, but it does not remove the need for sustained attention, practice, and revision.
 - Reading well means noticing the author's [[XFFXFramework]], not only memorizing cases or extracting ready-made conclusions.
 - AI-era learning includes using compact maps, indexes, and prompts as starting points for deeper exploration rather than waiting for a curriculum to be complete.
+- AI-era learning also asks what inner fire should be trained, because faster tutoring is weak if the learner has no direction or desire.
 
 ## Connections
 
@@ -34,3 +37,4 @@ Learning how to learn is the source's core durable skill across majors, professi
 - [[CollegeMajorChoice]] and [[CollegeCareerPreparation]] — college decisions depend on improving one's own learning loop over time.
 - [[AIAssistedReading]] and [[ReadingAsFrameTraining]] — reading-method extension of learning how to learn.
 - [[FifthDimension]] and [[DistributionOutPersonalStrategy]] — book and career-positioning extension from Jiang Xun's episode.
+- [[WaterFireEducation]], [[AIAsTutor]], and [[HumanAgencyUnderAI]] — E45's education and agency extension.

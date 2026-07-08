@@ -2,8 +2,8 @@
 title: "AI Use Pacing"
 type: concept
 tags: [ai, pacing, productivity, life-design]
-sources: [1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0]
-last_updated: 2026-07-08
+sources: [1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]
+last_updated: 2026-07-09
 ---
 
 # AI Use Pacing
@@ -18,6 +18,8 @@ The concept extends [[WorkplacePacing]] into the agent era. The issue is no long
 
 [[1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6]] adds the OPC operator version. [[YuYi]] describes an overload pattern where twenty windows and twenty AI tasks pushed him into five-minute switching and impatience toward both people and agents. His later adjustment separates exploration from closure. [[CangShifu]] gives the complementary workflow rule: two or three parallel AI tasks can be useful, but long unattended runs risk accumulating errors and violating product or aesthetic judgment.
 
+[[e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]] adds the high-flow body version. [[LiJigang]] describes leaving the computer after intense AI work as moving from a high-flow world back into a slower one, with meals, sleep, body movement, and offline relationships needing deliberate protection. The episode ties pacing to [[FeedCuration]] and [[WetStateHumanAgency]], not only to productivity management.
+
 ## Key Claims
 
 - AI can convert anxiety into activity: installing tools, trying models, and consuming tokens may feel like progress even without a clear purpose.
@@ -31,6 +33,7 @@ The concept extends [[WorkplacePacing]] into the agent era. The issue is no long
 - Pacing includes protecting attention from industrialized feeds and generated stimulation, not only managing agent work queues.
 - Parallel agent work needs a review cadence. More windows can create more human queue-management work instead of more leverage.
 - Pacing can mean separating exploration, execution, review, and publication windows so the human does not remain in a constant partial-attention state.
+- Pacing also means leaving the AI flow state often enough to maintain sleep, meals, body movement, and real human connection.
 
 ## Connections
 
@@ -43,3 +46,4 @@ The concept extends [[WorkplacePacing]] into the agent era. The issue is no long
 - [[AIAssistedReading]] and [[ReadingAsFrameTraining]] — reading cases where faster processing still needs human pacing.
 - [[AttentionIndustrialization]], [[HumanMachineAmplification]], and [[AILiteracyAgainstWorship]] — E42's attention, amplification, and public-education layer.
 - [[YuYi]], [[CangShifu]], [[HumanAgentCollaboration]], and [[OnePersonCompany]] — S10E18's solo-operator and parallel-agent pacing case.
+- [[LiJigang]], [[AIAsTimeCompression]], [[FeedCuration]], and [[WetStateHumanAgency]] — E45's high-flow AI use and body-protection case.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E45 孟岩对话李继刚：人何以自处](sources/e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask.md) — 无人知晓 episode with Meng Yan and Li Jigang on AI as time compression, prompt-as-intent, Memory/Soul second brains, deep-well AI companies, wet-state human agency, feed curation, and water/fire education.
 - [汉洋：为什么做《蜉蝣天地》](sources/hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5.md) — Fuyou Tiandi program-statement episode on Han Yang's critique of media constraints, long-form conversation, non-instrumental understanding, guest-centered interviews, and why video matters to the new show.
 - [少有的深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康](sources/shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud.md) — 42章经 episode with Wei Xiaokang on ByteDance/Meituan organization contrast, business-model-shaped management, recruiting supply, reference checks, AI sourcing, AI coding, and why AI startups still need strong small teams rather than pure one-person companies.
 - [E44 李晓波对话孟岩：这次，就这样吧？](sources/e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2.md) — 无人知晓 episode on 有知有行, financial-platform incentives, investor suitability friction, founder governance, 本分, 如其所是, and keeping investment subordinate to a better life.
@@ -194,6 +195,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Li Jigang / 李继刚](entities/LiJigang.md) — E45 guest whose reading, investing, prompt, Memory/Soul, and education frames ask how people keep agency under AI time compression.
 - [汉洋 / Han Yang](entities/HanYang.md) — Content creator and Fuyou Tiandi host arguing for long-form, guest-centered conversation against conclusion-driven media constraints.
 - [蜉蝣天地 / Fuyou Tiandi](entities/FuyouTiandi.md) — Han Yang's video-podcast project built around long-form conversation, non-instrumental understanding, and visible guest worlds.
 - [Lex Fridman](entities/LexFridman.md) — Long-form interview reference used by Han Yang through John Carmack, Rick Rubin, and Ilya Sutskever examples.
@@ -377,7 +379,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [McKinsey](entities/McKinsey.md) — Consulting firm mentioned through Oliver's prior private-equity consulting background.
 - [无人知晓](entities/WurenZhixiao.md) — Podcast/show context for conversations on uncertainty, investing, engineering, AI, human agency, and life practice.
 - [Zhang Xiaoyu / 张潇雨](entities/ZhangXiaoyu.md) — Speaker who translates black swans, options, and antifragility into public work, relationships, health, and no-better-life reflection.
-- [Meng Yan / 孟岩](entities/MengYan.md) — Speaker who translates tail-risk, antifragility, engineering, and AI-era human questions into ordinary-investor and ordinary-life terms.
+- [Meng Yan / 孟岩](entities/MengYan.md) — Speaker who translates tail-risk, antifragility, engineering, AI-era self-disposition, and life-practice questions into ordinary-investor and ordinary-life terms.
 - [Wei Qing / 韦青](entities/WeiQing.md) — Engineering and Microsoft-background guest framing AI, organizations, language, attention, and human-machine amplification through the silent protagonist idea.
 - [Xu Zhe / 许哲](entities/XuZhe.md) — Investor and guest explaining black swans, fat tails, options, convexity, antifragility, and impermanence/no-self.
 - [Nassim Taleb](entities/NassimTaleb.md) — Uncertainty thinker referenced through black swans, fat tails, antifragility, barbell strategy, and asymmetric risk.
@@ -1118,6 +1120,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI As Time Compression](concepts/AIAsTimeCompression.md) — Li Jigang's frame that AI compresses the time needed for search, reading, synthesis, feedback, and knowledge-work loops.
+- [AI Company Deep Well](concepts/AICompanyDeepWell.md) — Contrast between internet companies as broad nets and AI companies as deep wells built from context, memory, trust, and value alignment.
+- [Prompt As Intent Transmission](concepts/PromptAsIntentTransmission.md) — View that prompts are any medium carrying human intention into a model, including roles, files, notes, memory, and context.
+- [AMV Prompt Framework](concepts/AMVPromptFramework.md) — Li Jigang's prompt framework: A for starting position, M for mental path, and V for direction or destination.
+- [Wet-State Human Agency](concepts/WetStateHumanAgency.md) — AI-era agency frame that keeps emotion, will, taste, body, and connection central as models absorb more dry brain work.
+- [Feed Curation](concepts/FeedCuration.md) — Practice of shaping information and social inputs so attention, taste, and personal knowledge ecology are trained deliberately.
+- [Water And Fire Education](concepts/WaterFireEducation.md) — Contrast between industrial water education that fills containers and AI-era fire education that ignites personal will and talent.
 - [Long-Form Conversation](concepts/LongFormConversation.md) — Interview method where time, trust, side paths, and rough thinking reveal a person's judgment and lived experience.
 - [Media Form Constraint](concepts/MediaFormConstraint.md) — Pressure from duration, conclusions, information gain, public utility, and platform expectations that shapes what content can say.
 - [Non-Instrumental Understanding](concepts/NonInstrumentalUnderstanding.md) — Treating a topic as worth understanding even when it does not immediately produce advice, prediction, or decision utility.
