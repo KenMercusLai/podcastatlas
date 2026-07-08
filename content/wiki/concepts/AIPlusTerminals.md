@@ -2,7 +2,7 @@
 title: "AI Plus Terminals"
 type: concept
 tags: [ai, hardware, commercialization]
-sources: [131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc]
+sources: [144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc]
 last_updated: 2026-07-08
 ---
 
@@ -18,6 +18,8 @@ AI plus terminals is [[YinQi]]'s commercialization thesis in [[131-yin-qi-churen
 
 [[143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc]] adds [[XPeng]]'s integrated vehicle-and-robot version. [[XPengGX]] is treated as a family SUV terminal for [[PhysicalAI]], while [[XPengIron]] makes the terminal argument more explicit: the body is not only an interface, but also a sensor, control, data, manufacturing, and commercialization surface.
 
+[[144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b]] adds the consumer-electronics operator version through [[AnkerInnovations]]. Instead of a foundation-model company searching for terminals, [[YangMeng]] starts from devices and argues that [[OnDeviceModelHierarchy]], [[InMemoryComputingForEdgeAI]], [[TrueSmartHome]], and local home-security models can distribute intelligence across hardware.
+
 ## Key Claims
 - Pure 2B and pure software 2C are treated as difficult standalone paths for foundation-model companies because model investment is large and business or data loops may be insufficient.
 - Hardware, software, and models may become a three-part system as more agents gain device or physical carriers.
@@ -28,6 +30,7 @@ AI plus terminals is [[YinQi]]'s commercialization thesis in [[131-yin-qi-churen
 - Voice wearables and always-on recorders can make AI more useful by reducing capture friction, but their value depends on local processing, privacy, useful summarization, and explicit action boundaries.
 - For [[WorldModels]], terminals can be sensors and feedback surfaces as much as commercial packaging; the device matters because it creates continuous contact with the physical world.
 - A company that already controls vehicles may use that terminal base to move toward robots, but the source warns that [[StitchedAIArchitecture]] must be replaced rather than merely extended.
+- A consumer-electronics company can invert the terminal thesis: it may not own the largest cloud model, but it can own local sensors, device organs, product scenes, and user trust where smaller models create visible value.
 
 ## Connections
 - [[YinQi]], [[StepFun]], and [[QianliTechnology]] — source speaker and company pair behind the thesis.
@@ -39,3 +42,4 @@ AI plus terminals is [[YinQi]]'s commercialization thesis in [[131-yin-qi-churen
 - [[VoiceInteraction]], [[LocalAgentExecution]], [[AgentPermissionBoundaries]], and [[EmbodiedAI]] — device, local-model, and safety themes added by Vol. 162.
 - [[AMILabs]], [[WorldModels]], [[MultimodalIntelligence]], and [[DecentralizedWorldModelStrategy]] — sensor and real-world data route added by the Xie Saining source.
 - [[XPeng]], [[HeXiaopeng]], [[XPengGX]], [[XPengIron]], [[PhysicalAI]], and [[StitchedAIArchitecture]] — vehicle-and-humanoid terminal route added by episode 143.
+- [[AnkerInnovations]], [[YangMeng]], [[OnDeviceModelHierarchy]], [[InMemoryComputingForEdgeAI]], [[TrueSmartHome]], and [[HouseholdSecurityRobots]] — consumer-electronics and edge-AI route added by episode 144.

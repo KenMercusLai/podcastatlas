@@ -2,7 +2,7 @@
 title: "Home Service Robots"
 type: concept
 tags: [robotics, consumer-hardware, services]
-sources: [jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc]
+sources: [144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc]
 last_updated: 2026-07-08
 ---
 
@@ -14,12 +14,15 @@ In this source, the first home-service wedge is not heavy kitchen work or full d
 
 [[143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc]] adds a contrasting humanoid route through [[XPengIron]]. [[HeXiaopeng]] argues that a human-like general robot may eventually fit human homes, work, and aging scenarios, while also admitting that [[HumanoidRobotCommercialization]] is much harder and more failure-prone than carmaking.
 
+[[144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b]] adds a security-response route through [[AnkerInnovations]]. [[HouseholdSecurityRobots]] are narrower than general home-service robots: the product starts from cameras and local home-security models, then asks what the household can actually do after an intrusion is detected.
+
 ## Key Claims
 - The product has to be safe and stable enough to stay in a home for weeks or months, not only work in a controlled demo.
 - A wheeled robot may be the right near-term consumer tradeoff because most target apartments are flat and safety matters more than humanoid form.
 - Home services should be priced against the quality and scarcity of the service being provided, especially child care, rather than against isolated task checklists.
 - The category needs [[HouseholdRobotDataFlywheel]] loops because real homes expose objects, children, pets, and interaction patterns that labs do not fully reproduce.
 - The [[XPengIron]] route treats household and elder-care demand as part of the long-term reason for humanoid form, while the [[F2HomeRobot]] route treats a wheeled form as the nearer-term consumer tradeoff.
+- The Anker route treats security as a narrower early service wedge: detection, movement, deterrence, and user trust may be more productized than full domestic labor.
 
 ## Connections
 - [[F2HomeRobot]], [[WeilaiBuyuan]], and [[ZhangYi]] — source product, company, and founder.
@@ -28,3 +31,4 @@ In this source, the first home-service wedge is not heavy kitchen work or full d
 - [[ConsumerRoboticsFullStack]] — engineering and cost base needed for consumer deployment.
 - [[ProductLedWillingnessToPay]] — users must understand the service value, not only the robot novelty.
 - [[XPengIron]], [[PhysicalAI]], and [[HumanoidRobotCommercialization]] — humanoid household route added by episode 143.
+- [[AnkerInnovations]], [[HouseholdSecurityRobots]], [[TrueSmartHome]], and [[OnDeviceModelHierarchy]] — security-response route added by episode 144.

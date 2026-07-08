@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-08] ingest | 144. 对杨萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式
+
+Added source page for a 张小珺Jùn｜商业访谈录 episode with Yang Meng on Anker Innovations' evolution from Amazon-channel charging accessories into a multi-category consumer-electronics company pursuing deep technology, edge-side models, in-memory chips, true smart home, security robots, product method, creator culture, and enterprise AI agents. Created supporting pages for Yang Meng, Anker Innovations, Zhao Dongping, Anker 2023 Lab, Consumer Electronics Lifecycle, One Three Five Seven Consumer Segmentation, Shallow Sea Deep Sea Category Strategy, Third Type Company, Creator Culture, In-Memory Computing For Edge AI, On-Device Model Hierarchy, True Smart Home, Household Security Robots, Enterprise Prearranged Agents, and Company Game Difficulty Strategy; updated overview, index, Zhang Xiaojun Commercial Interviews, Google, Amazon, AI Plus Terminals, Physical AI, Embodied AI, Home Service Robots, Consumer Robotics Full Stack, AI Organization Design, Product Led Willingness To Pay, and Huawei Organizational Methodology. No direct contradiction found; the source qualifies the AI-plus-terminals thread by starting from a hardware company embedding distributed local intelligence rather than from a model company searching for terminals.
+
 ## [2026-07-08] ingest | Stefan Sagmeister: Finally, something good.
 
 Added source page for a Long Now talk on Stefan Sagmeister's informed optimism, the optimism gap, short-term news bias, progress data visualization, positive journalism, participatory exhibitions, beauty in communication, and design under constraints. Created supporting pages for Stefan Sagmeister, Lisa K. Solomon, Finally Something Good, Tibor Kalman, Informed Optimism, Optimism Gap, Progress Data Visualization, Short-Term News Bias, Positive Journalism, Beauty in Communication, Apocalyptic Thinking, Participatory Exhibitions, and Design Under Constraints; updated overview, index, Long Now, Public Service Journalism, Design Led Growth, and Business Fluent Design. No direct contradiction found; the source qualifies doom-heavy media and climate-catastrophe narratives by arguing that present dangers and long-term progress can both be true depending on time scale.
@@ -1087,6 +1091,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] ingest | 138. 对罗福莉3.5小时访谈：AI范式已然巨变！OpenClaw、Agent范式很吃后训练、卡的分配、组织平权
 
 Added source page for a 张小珺Jùn｜商业访谈录 episode on Luo Fuli, Xiaomi's Memo VR models, OpenClaw/OpenCloud as agent frameworks, agent post-training, Agent RL, training compute allocation, long-context and multimodal architecture, model-harness co-evolution, skills as organizational knowledge, and flat model-team organization. Created pages for Luo Fuli / 罗福莉, Memo VR, Agent Post-Training, Agent RL, Training Compute Allocation, and Agent-Optimized Model Architecture; updated overview, index, Zhang Xiaojun Commercial Interviews, Xiaomi, DeepSeek, Alibaba, OpenClaw, OpenCloud, Agent Harness, Model Harness Co-Evolution, Agent Self-Evolution, AI Organization Design, Frontier Model Scaling, AI Skills, Research Taste, Long-Horizon AI, ML Coding, Model Workflow Fit, and Multi-Agent Collaboration. No direct contradiction found; the source strengthens the wiki's agent thread by moving it from product experience into model training, rollout infrastructure, compute allocation, and organization design.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-08] lint | Wiki health check
 

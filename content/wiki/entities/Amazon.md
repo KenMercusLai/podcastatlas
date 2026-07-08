@@ -2,7 +2,7 @@
 title: "Amazon"
 type: entity
 tags: [company, ai, cloud, investing, media, security]
-sources: [ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]
+sources: [144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]
 last_updated: 2026-07-08
 ---
 
@@ -20,6 +20,8 @@ Amazon appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfan
 
 [[dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]] adds Amazon as a concrete [[CandidateIdentityFraud]] case. The episode says Amazon blocked almost 2,000 applications from North Koreans applying for remote IT roles, making hiring verification part of the broader [[AIHiringArmsRace]] and enterprise-security perimeter.
 
+[[144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b]] adds Amazon as the early marketplace context for [[AnkerInnovations]]. [[YangMeng]] describes learning that e-commerce difficulty was not only selling, but finding and improving good products for overseas buyers, making Amazon the first channel where Anker's product-selection and quality strategy became visible.
+
 ## Connections
 - [[Nvidia]] — supplier whose growth expectations depend on large AI customers.
 - [[Microsoft]] and [[Google]] — peer hyperscalers in the episode's discussion.
@@ -29,3 +31,4 @@ Amazon appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfan
 - [[DigitalInfrastructureWarRisk]], [[DataCenterPhysicalResilience]], and [[WarAwareDisasterRecovery]] — cloud-region continuity risk added by the Keji Luandun data-center episode.
 - [[Alphabet]], [[Meta]], [[Microsoft]], and [[AIBubbleHedging]] — hyperscaler capex cluster added by The Intelligence episode.
 - [[CandidateIdentityFraud]] and [[AIHiringArmsRace]] — remote hiring and applicant-verification risk added by the Dhaka matters episode.
+- [[AnkerInnovations]], [[YangMeng]], and [[ZhaoDongping]] — Amazon-channel origin story added by episode 144.
