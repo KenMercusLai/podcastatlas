@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [商业小样43 | AI时代，谁在给服务器“降温”](sources/shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076.md) — 商业就是这样 episode on AI data-center cooling, high-density GPU heat, liquid cooling, pumps, water systems, Grundfos, and prefabricated cooling stations.
 - [Latin lessons: the Donroe-doctrine boost](sources/latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d.md) — The Intelligence episode on Latin America's Trump-era investment boom, U.S.-China critical-minerals competition, Nigeria's jollof-price shock, and the BBC longwave shutdown.
 - [Starmergeddon: British PM resigns](sources/starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1.md) — The Intelligence episode on Keir Starmer's resignation, Labour succession through Andy Burnham, Colombia's security backlash and rightward shift, and Toy Story 5 as a screen-time parenting critique.
 - [E45 孟岩对话李继刚：人何以自处](sources/e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask.md) — 无人知晓 episode with Meng Yan and Li Jigang on AI as time compression, prompt-as-intent, Memory/Soul second brains, deep-well AI companies, wet-state human agency, feed curation, and water/fire education.
@@ -517,7 +518,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dairy Queen](entities/DairyQueen.md) — Mid-price ice-cream chain used as the steadier small-store comparison to Haagen-Dazs and Yeren Xiansheng.
 - [Mixue Bingcheng](entities/MixueBingcheng.md) — Tea-drink chain whose low-price soft serve makes it a large ice-cream-volume comparison point.
 - [General Mills](entities/GeneralMills.md) — Food company mentioned as the Haagen-Dazs parent-company context in the ice-cream episode.
-- [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for city commerce observations, bee economics, FIFA governance, and Sushiro's restaurant-chain operations.
+- [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for city commerce observations, bee economics, FIFA governance, Sushiro's restaurant-chain operations, and AI data-center cooling.
+- [Grundfos / 格兰富](entities/Grundfos.md) — Pump, water, and cooling-infrastructure company case used to explain AI data-center thermal management.
+- [河南智能超算中心 / Henan Smart Supercomputing Center](entities/HenanSmartSupercomputingCenter.md) — Supercomputing-center case for prefabricated, container-style integrated cooling deployment.
 - [Polymarket](entities/Polymarket.md) — Prediction-market example used by E144 to explain price-as-probability thinking and residual risk.
 - [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for Latin America investment, jollof-price inflation, BBC longwave shutdown, Starmer's resignation, Brexit, Gulf stability, America at 250, U.S.-Iran diplomacy, NATO stress, Colombia security politics, and other magazine-style segments.
 - [NATO](entities/NATO.md) — Alliance context for defence spending, Ukraine support, European defence autonomy, Russian hybrid pressure, American commitment doubts, and Britain's post-Brexit defence role.
@@ -1011,7 +1014,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [内核恐慌](entities/NeiheKonghuang.md) — Technology podcast/show context for episodes on AI programming, AI translation, podcast history, and display ergonomics.
 - [Ninety](entities/Ninety.md) — SaaS platform for leadership-team operating rhythms, built through the EOS ecosystem and now embedding AI.
 - [Nokia](entities/Nokia.md) — GSM and feature-phone giant whose Symbian dominance, durable mass-market phones, and later Windows Phone turn anchor the handset-history episode.
-- [Nvidia](entities/Nvidia.md) — AI semiconductor company used as EP39's main case for separating company quality from stock valuation risk.
+- [Nvidia](entities/Nvidia.md) — AI semiconductor company used across valuation, infrastructure, embodied-world-model, and data-center cooling-pressure discussions.
 - [OpenAI](entities/OpenAI.md) — Frontier AI company referenced in relation to agents, FDE, market structure, ChatGPT, commerce, infrastructure, and AI-for-math competition.
 - [Open Claw](entities/OpenClaw.md) — Domestic agent-wave project/context paired with Open Cloud in the Hermes Agent discussion.
 - [Open Cloud](entities/OpenCloud.md) — Domestic agent-era project/event discussed through skills, CLI friction, ecosystem consensus, and scheduled routines.
@@ -1509,6 +1512,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Personal Infrastructure Cost Accounting](concepts/PersonalInfrastructureCostAccounting.md) — Evaluating hardware, cloud, storage, subscriptions, and everyday tools by recurring cost, maintenance burden, reliability, and workflow friction.
 - [Digital Infrastructure War Risk](concepts/DigitalInfrastructureWarRisk.md) — Risk that data centers, submarine cables, cloud regions, AI compute clusters, and exchange points become targets or pressure points in conflict.
 - [Data Center Physical Resilience](concepts/DataCenterPhysicalResilience.md) — Facility-level ability for data centers to keep operating or recover when buildings, power, cooling, equipment, transport, or staff access are disrupted.
+- [Data Center Thermal Management](concepts/DataCenterThermalManagement.md) — Cooling, liquid-loop, pump, heat-exchange, water-quality, and control-system layer that keeps dense AI data centers within operating limits.
 - [War-Aware Disaster Recovery](concepts/WarAwareDisasterRecovery.md) — Cloud and business-continuity planning that treats war, drones, missiles, staff evacuation, and repeated attacks as disaster scenarios.
 - [AI Compute Continuity](concepts/AIComputeContinuity.md) — Ability to keep model APIs, coding agents, inference workloads, and GPU-backed business processes available through infrastructure disruption.
 - [Regional Network Topology Risk](concepts/RegionalNetworkTopologyRisk.md) — Exposure created by where cloud regions, cable landings, exchange points, and data centers sit relative to users, chokepoints, and political conflict.

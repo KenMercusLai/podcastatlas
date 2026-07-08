@@ -2,8 +2,8 @@
 title: "MaaS Infrastructure"
 type: concept
 tags: [ai, infrastructure, maas]
-sources: [1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]
-last_updated: 2026-07-08
+sources: [1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076]
+last_updated: 2026-07-09
 ---
 
 # MaaS Infrastructure
@@ -18,6 +18,8 @@ The concept extends [[AIInferenceCostStructure]]. Cost structure explains why to
 
 [[e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]] adds the investment-metric layer. MaaS infrastructure is not only a technical serving problem; it is part of the loop where CAPEX creates model capacity, model capacity creates token growth, and token growth should eventually show up in [[AIInvestmentMetrics]] such as ARR, contract liabilities, deferred revenue, and AI-native revenue.
 
+[[shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076]] adds the thermal-management layer. In this frame, a MaaS provider's ability to sell reliable tokens depends on whether the underlying data center can remove heat from dense racks through liquid loops, pumps, heat exchange, control software, and water-system maintenance.
+
 ## Key Claims
 
 - Token count is a weak standalone metric because embedding, small-model, and deep-reasoning tokens have different cost and value.
@@ -30,6 +32,7 @@ The concept extends [[AIInferenceCostStructure]]. Cost structure explains why to
 - Cloud, chip, power, and product demand can become bundled advantages when model providers need guaranteed capacity and hyperscalers need captive AI workloads.
 - AI serving continuity depends on region-level physical infrastructure, so geopolitics and site resilience can affect practical token availability.
 - AI infrastructure spending becomes more convincing when token growth and revenue metrics move together rather than when CAPEX rises alone.
+- Dense AI serving also depends on [[DataCenterThermalManagement]]: cooling efficiency influences uptime, energy cost, achievable rack density, and deployment speed.
 
 ## Connections
 
@@ -41,4 +44,5 @@ The concept extends [[AIInferenceCostStructure]]. Cost structure explains why to
 - [[FrontierModelScaling]] — related training-side pressure; MaaS infrastructure is the deployment and serving counterpart.
 - [[Amazon]], [[Anthropic]], [[OpenAI]], [[Microsoft]], and [[Google]] — cloud-chip and model-provider binding cases added by Vol. 162.
 - [[AIComputeContinuity]], [[DataCenterPhysicalResilience]], and [[DigitalInfrastructureWarRisk]] — physical continuity layer added by the Keji Luandun data-center episode.
+- [[DataCenterThermalManagement]], [[Grundfos]], and [[HenanSmartSupercomputingCenter]] — thermal and prefabricated cooling layer added by the 商业就是这样 source.
 - [[AIInvestmentMetrics]], [[CAPEXOPEXSubstitution]], [[JevonsParadoxInAI]], and [[HoloAssets]] — E155's business-flywheel and hard-asset extension.

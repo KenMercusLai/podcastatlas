@@ -1456,3 +1456,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-09] ingest | 商业小样43 | AI时代，谁在给服务器“降温”
+
+Added source page for a 商业就是这样 episode on AI-era data-center cooling, high-density GPU heat, liquid cooling, pumps, water systems, cooling energy use, Grundfos, and the Henan Smart Supercomputing Center prefabricated cooling-station case. Created pages for Grundfos / 格兰富, 河南智能超算中心 / Henan Smart Supercomputing Center, and Data Center Thermal Management; updated overview, index, 商业就是这样, Nvidia, Data Center Physical Resilience, AI Compute Continuity, MaaS Infrastructure, and Holo Assets. No direct contradiction found; the source extends the existing AI infrastructure and data-center resilience branch from war, power, and regional continuity into thermal management, water loops, pumps, and operational cooling efficiency.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
