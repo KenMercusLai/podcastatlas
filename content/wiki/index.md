@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Trailer: Tocqueville Road Trip](sources/trailer-tocqueville-road-trip-6a315920101389aa3d42d134.md) — Economist Podcasts trailer from The Intelligence Acast feed, duplicating the Tocqueville Road Trip setup around Alexis de Tocqueville, Democracy in America, and America as a democratic idea.
 - [138. 昂跑中国重直营、超级猩猩不办卡](sources/138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1.md) — 疯投圈 episode on On Running's China DTC push, premium sports circle brands, Nike/HOKA channel spillovers, SuperMonkey's pay-per-class fitness model, and service-brand scaling constraints.
 - [139. 泡泡玛特和拼多多值得投资么？](sources/139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1.md) — 疯投圈 episode with ICE on Pop Mart, Labubu concentration, Pinduoduo valuation, Temu catalysts, good-company-versus-good-stock thinking, AI-compressed investment research, and active stock-picking suitability.
 - [141. 咖啡战争2026：机构化与本土化](sources/141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1.md) — 疯投圈 episode on China's coffee market moving into institution-led ownership, local control, premium-versus-daily brand tension, Luckin's mature scale, and tea-drink chains entering coffee.

@@ -2,7 +2,7 @@
 title: "American Democratic Resilience"
 type: concept
 tags: [politics, democracy, institutions]
-sources: [gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c, trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad]
+sources: [gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c, trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7, trailer-tocqueville-road-trip-6a315920101389aa3d42d134, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad]
 last_updated: 2026-07-09
 ---
 
@@ -10,7 +10,7 @@ last_updated: 2026-07-09
 
 American democratic resilience is the episode's question of whether the [[UnitedStates]] still has enough institutional, civic, and cultural capacity to survive polarization and executive pressure. In [[the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad]], [[RobertGuest]] argues that institutions such as the [[SupremeCourt]] can still constrain presidential overreach, while [[DanielKnowles]] and [[RebeccaJackson]] stress weakening guardrails, voting-rights erosion, and representation gaps.
 
-[[trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494]], [[trailer-tocqueville-road-trip-6a315642780d0f7579af216c]], and [[trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7]] broaden that question backward through [[AlexisDeTocqueville]] and [[DemocracyInAmerica]]. Rather than asking only whether current institutions can survive present pressure, the trailer asks whether Tocqueville's older account of America still describes the country and its democratic self-image.
+[[trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494]], [[trailer-tocqueville-road-trip-6a315642780d0f7579af216c]], [[trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7]], and [[trailer-tocqueville-road-trip-6a315920101389aa3d42d134]] broaden that question backward through [[AlexisDeTocqueville]] and [[DemocracyInAmerica]]. Rather than asking only whether current institutions can survive present pressure, the trailer asks whether Tocqueville's older account of America still describes the country and its democratic self-image.
 
 [[gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6]] extends the timeline through the 2007-08 financial crisis, [[BarackObama]]'s election and backlash, Sandy Hook, [[DonaldTrump]]'s rise, the pandemic, January 6th, Joe Biden's presidency, and Trump's return. Its contribution is cumulative stress: even dramatic shocks do not automatically produce reform, and repeated conflicts over race, guns, sex, executive power, and trust keep the republic under strain.
 
