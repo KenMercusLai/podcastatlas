@@ -1348,6 +1348,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-09] ingest | E44 李晓波对话孟岩：这次，就这样吧？
+
+Added source page for a 无人知晓 episode with Li Xiaobo and Meng Yan on 有知有行, financial-platform incentives, investor suitability friction, founder governance, 本分, 如其所是, Enough, rumination, and investment as a tool for a better life. Created pages for Li Xiaobo, Youzhi Youxing, Robinhood, Wealthfront, John Bogle, Financial Platform Incentives, Investor Suitability Friction, Investment For Better Life, Knowing Enough, Benfen, As It Is Practice, and Rumination Vs Reflection; updated Meng Yan, 无人知晓, Vanguard, Patagonia, Duan Yongping, Purpose Driven Business, Financial Gravity, Startup Governance, Trust As Business Asset, overview, and index. Flagged an apparent but non-conflicting tension with No Better Life: E44's "better life" is a practical boundary on investing, while E43 critiques attachment to a final improved future state.
+
 ## [2026-07-09] ingest | 关于 AI、开源、商业化与全球化的经验、教训和方法论 | 对谈 PingCAP CTO 东旭
 
 Added source page for a 42章经 episode with PingCAP CTO Dongxu on TiDB, open-source infrastructure trust, cloud-service commercialization, founder-led software globalization, and AI-era data/memory infrastructure. Created pages for PingCAP, Dongxu, TiDB, Open Source Infrastructure Trust, Database Cloud Service Commercialization, Founder-Led Software Globalization, and AI Data Memory Infrastructure; updated overview, index, 42章经, Open Source Community Commercialization, AI Commercialization Pressure, Global Product Localization, AI Agent Overseas Commercialization, Model Context Protocol, Agent-Facing Interfaces, and Persistent Agent Memory. No direct contradiction found; the source extends existing open-source and agent infrastructure themes by showing how database infrastructure can move from transparent community adoption to managed cloud revenue and agent-facing enterprise data access.
@@ -1399,3 +1403,7 @@ Added source page for a 42章经 episode with Tristan on EVE as a long-term AI c
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. Report returned in-session; lint-report.md was not saved.

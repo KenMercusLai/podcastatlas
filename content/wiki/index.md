@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E44 李晓波对话孟岩：这次，就这样吧？](sources/e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2.md) — 无人知晓 episode on 有知有行, financial-platform incentives, investor suitability friction, founder governance, 本分, 如其所是, and keeping investment subordinate to a better life.
 - [这可能才是 AI 陪伴真正该有的样子｜对谈刷屏产品 EVE 创始人 Tristan](sources/zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew.md) — 42章经 episode with Tristan on EVE as a long-term AI companion built from active memory, emotional post-training, real-world temporal awareness, proactive interaction, 3D presence, game progression, and companion-product economics.
 - [一个 AI 创始人的虚荣心、装，和愚昧之巅｜对谈 invoko.ai 创始人梦琪](sources/yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f.md) — 42章经 episode with Mengqi on invoko.ai's pivot from vertical Agents and 2B growth tooling toward Clico, founder ego, product experience, Reddit user research, token economics, and the limits of AI software narratives.
 - [关于 AI、开源、商业化与全球化的经验、教训和方法论 | 对谈 PingCAP CTO 东旭](sources/guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5.md) — 42章经 episode with PingCAP CTO Dongxu on TiDB, open-source infrastructure trust, cloud-service commercialization, founder-led globalization, and AI-era data/memory infrastructure.
@@ -191,6 +192,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Li Xiaobo / 李晓波](entities/LiXiaobo.md) — E44 conversation partner pressing Meng Yan on user interest, product friction, 本分, and investment as a life-practice question.
+- [有知有行 / Youzhi Youxing](entities/YouzhiYouxing.md) — Wealth-management company case for fee refusal, user selection, investor education, and investment-for-better-life trust.
+- [Robinhood](entities/Robinhood.md) — Brokerage contrast case used in E44 to discuss take rate, trading incentives, and possible conflict with user outcomes.
+- [Wealthfront](entities/Wealthfront.md) — Robo-advisor comparison case for lower-take-rate wealth management and user-aligned financial platform incentives.
+- [John Bogle](entities/JohnBogle.md) — Vanguard founder reference point for knowing enough, low-cost investing, and founder restraint in finance.
 - [梦琪 / Mengqi](entities/Mengqi.md) — invoko.ai founder reflecting on vertical Agents, 2B pivots, founder ego, product experience, and Clico.
 - [invoko.ai / Invoqo](entities/InvokoAI.md) — Mengqi's AI software startup, moving from Sourcing/Growth Agent experiments toward consumer productivity software.
 - [Clico](entities/Clico.md) — invoko.ai browser and desktop productivity product focused on tab context, cursor-side writing, intent compression, and stable user experience.
@@ -1102,6 +1108,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Financial Platform Incentives](concepts/FinancialPlatformIncentives.md) — Business-model forces such as take rate, promotion fees, trading volume, and product complexity that determine whether a financial platform stays aligned with users.
+- [Investor Suitability Friction](concepts/InvestorSuitabilityFriction.md) — Deliberate pre-purchase slowdown, such as quizzes or gates, that tests whether investors understand products before taking risk.
+- [Investment For Better Life](concepts/InvestmentForBetterLife.md) — Frame that investment should improve attention, relationships, sleep, and ordinary life rather than become life's dominant scoreboard.
+- [Knowing Enough](concepts/KnowingEnough.md) — Founder and governance restraint around recognizing when more revenue, products, trading, or external validation is no longer worth the trust cost.
+- [Benfen / 本分](concepts/Benfen.md) — Practice of doing what should be done after stripping away pressure, temptation, ego, and external scoring.
+- [As It Is Practice / 如其所是](concepts/AsItIsPractice.md) — Seeing and acting within the situation as it is, with proportionate agency rather than ego-driven interpretation.
+- [Rumination Vs Reflection](concepts/RuminationVsReflection.md) — Distinction between repetitive inner noise and useful thinking, especially around investing, comparison, and modern attention systems.
 - [Open Source Infrastructure Trust](concepts/OpenSourceInfrastructureTrust.md) — Trust pattern where infrastructure users rely on visible source, documentation, roadmap, process, issue history, and technical direction rather than code release alone.
 - [Database Cloud Service Commercialization](concepts/DatabaseCloudServiceCommercialization.md) — Open-source database monetization route where managed cloud service sells operational reliability without undermining community trust.
 - [Founder-Led Software Globalization](concepts/FounderLedSoftwareGlobalization.md) — Globalization pattern where founders move presence, language, documentation, hiring, sales, and organization into the target software market.
