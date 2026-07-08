@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-09] ingest | 发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集
+
+Added source page for a 乱翻书 ByteDance-series episode on红包,极速版,裂变,发券, Spring Festival campaigns, local-life coupons, and AI-era growth. Created pages for QuToutiao, Toutiao Lite, Kuaishou Lite, Douyin Lite, Doushenshen, Lite App Growth, Fission Growth, Coupon-Led Transaction Growth, Spring Festival Growth Campaign, and Growth ROI Layers. Updated ByteDance, Douyin, Luanfanshu, Kuaishou, Pinduoduo, Meituan, Alibaba, Doubao, Jinri Toutiao, Zhang Yiming, Taobao, WeChat, Red Packet Growth, ByteDance Growth System, Growth Risk Control, AI Consumer Growth Metrics, overview, and index. No direct contradiction found; the source extends episode 7's growth-system branch by breaking红包 into payment, Lite-app, fission, coupon, event, and AI-retention mechanisms.
+
 ## [2026-07-09] ingest | No.204 互联网视频平台混战：从后舍男生到漫长的季节 | 中国互联网故事21
 
 Added source page for a 半拿铁 China-internet-history episode on Chinese online video, from VCDs, local players, P2P streaming, Youku/Tudou and early UGC creators through copyright enforcement, iQIYI/Tencent Video/Mango TV content spending, membership economics, and current short-video/short-drama pressure. Created pages for Youku, Tudou, Gu Yongqiang, Wang Wei, Tencent Video, Mango TV, Sohu Video, PPLive, PPS, Baofeng Yingyin, Ma Dong, Sun Zhonghuai, Yao Xin, Zhuiguang Animation, early web-video creators, Chinese long-video economics, online-video copyright, video memberships, P2P streaming, UGC-to-professional creator pipeline, and long-video network effects. Updated Banlatte, iQIYI, Gong Yu, Platformized Drama Production, overview, and index. No direct contradiction found; the source extends the short-drama and long-video branch backward into the industry's historical cost structure.
@@ -1627,3 +1631,7 @@ Ran lint after health passed. Deterministic checks found three orphan pages (`wi
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, four fragile bridges, and no isolated communities against the current generated graph. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

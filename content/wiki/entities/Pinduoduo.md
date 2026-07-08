@@ -2,7 +2,7 @@
 title: "Pinduoduo"
 type: entity
 tags: [company, ecommerce, china, marketplace]
-sources: [zhe-bannian-women-you-maile-naxie-keji-haowu-1, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500]
+sources: [zhe-bannian-women-you-maile-naxie-keji-haowu-1, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0]
 last_updated: 2026-07-09
 ---
 
@@ -18,11 +18,14 @@ The source does not analyze Pinduoduo as a company in depth. Its relevance is pr
 
 [[no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500]] adds Pinduoduo's medicine-retail angle. The source cites industry estimates that Pinduoduo's 2024 medicine GMV exceeded [[JDHealth]], but frames this as a low-price [[PharmaceuticalEcommerce]] route rather than a deeper healthcare-services platform.
 
+[[faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0]] adds Pinduoduo as a canonical [[FissionGrowth]] case. The episode treats "砍一刀" as a growth mechanism that combined loss aversion, sunk cost, social currency, and family relationships, while also noting that Pinduoduo later relied more on low prices, supply chain, and百亿补贴 to reinforce consumer mindshare.
+
 ## Connections
 - [[KejiLuandun]] — show where the sponsorship and product list appear.
 - [[PersonalInfrastructureCostAccounting]] — the episode compares subsidy prices against official prices, expected use, and ownership cost.
 - [[ProductLedWillingnessToPay]] — adjacent payment theme: discounting can reduce trial friction, but sustained value still depends on whether the product solves a real problem.
 - [[DistributionLedProductBuilding]] — marketplace visibility and promotion can shape product discovery.
 - [[Temu]], [[ByteDanceGrowthSystem]], and [[GlobalProductLocalization]] — overseas growth comparison added by the Luanfanshu episode 7 source.
+- [[FissionGrowth]], [[CouponLedTransactionGrowth]], and [[GrowthROILayers]] — episode 8 context for砍一刀, subsidy, and transaction economics.
 - [[GoodCompanyGoodStock]], [[MarginOfSafety]], [[InvestmentCatalyst]], and [[EarningsGrowthAcceleration]] — investing-method concepts added by the FengTouQuan episode.
 - [[PharmaceuticalEcommerce]], [[JDHealth]], and [[InternetHealthcare]] — medicine-retail context added by episode 206.

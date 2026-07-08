@@ -2,8 +2,8 @@
 title: "WeChat"
 type: entity
 tags: [platform, china, agents]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d]
-last_updated: 2026-07-08
+sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0]
+last_updated: 2026-07-09
 ---
 
 # WeChat
@@ -18,6 +18,8 @@ WeChat is discussed in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-r
 
 [[touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d]] adds the platform-war version of WeChat. In the [[ToutengWar]] discussion, WeChat is the blocking surface, social moat, data-rights boundary, and reason [[Duoshan]] was a weak challenge to [[Tencent]]. The episode's stronger claim is that WeChat is not just messaging: it is identity, wallet, contact book, relationship history, and platform infrastructure, which becomes [[SocialGraphMoat]].
 
+[[faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0]] adds the growth-mechanics version of WeChat. The episode treats 2015 WeChat red packets as one of the strongest [[FissionGrowth]] cases because红包 rode native social groups, payment, comparison, relay behavior, and relationship trust; it also shows why products depending on WeChat sharing can be constrained when platform rules block links,口令, or workaround traffic.
+
 ## Connections
 - [[EverythingAgent]] — platform-level version of the broader agent thesis.
 - [[ContextEngineering]] — WeChat's value is partly its dense social and behavioral context.
@@ -28,3 +30,4 @@ WeChat is discussed in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-r
 - [[ChinaAgentMarketFriction]] — domestic super-app closure and platform-incentive conflict added by the Manus source.
 - [[OnePersonCompany]], [[SoftwarePaymentCulture]], and [[ProductLedWillingnessToPay]] — OPC source where app creation is separated from customer adoption and payment.
 - [[ToutengWar]], [[Tencent]], [[Duoshan]], [[WeChatChannels]], and [[SocialGraphMoat]] — platform-war and short-video-component context from the Touteng source.
+- [[FissionGrowth]], [[RedPacketGrowth]], and [[SpringFestivalGrowthCampaign]] — relationship-chain and red-packet mechanics added by the Luanfanshu episode 8 source.

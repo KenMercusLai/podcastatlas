@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集](sources/faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0.md) — 乱翻书 episode with Xu Hongliang on red packets, Lite apps, fission, coupons, Spring Festival campaigns, local-life transaction growth, and why AI-era growth needs model quality and ROI discipline.
 - [No.204 互联网视频平台混战：从后舍男生到漫长的季节 | 中国互联网故事21](sources/no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194.md) — 半拿铁 episode on China's online-video history, from VCDs, local players, P2P and Youku/Tudou UGC culture to copyright spending, iQIYI/Tencent Video/Mango TV membership economics, and short-video/short-drama pressure.
 - [No.206 检索、送药、看病：互联网医疗这些年 | 中国互联网故事22](sources/no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500.md) — 半拿铁 episode on China's internet healthcare history, from hospital IT, medical literature search, DXY, Haodf, WeDoctor, Chunyu Doctor, internet hospitals, drug ecommerce, and trust crises to managed-care and medical-AI workflow integration.
 - [166: 许华哲再次具身创业：不想错过最大的西瓜](sources/166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1.md) — LateTalk interview with Xu Huazhe on Poke Robotics, Physical AGI, AI-native robotics, household robots, unified robot models, video/robot data, safety boundaries, and robot active-use metrics.
@@ -425,6 +426,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cosmos 3](entities/Cosmos3.md) — Nvidia omni-world-model product used as the episode's Q2 2026 world-model benchmark.
 - [5G Robotics](entities/FiveGRobotics.md) — Dexterous-hand company discussed as possible low-cost, reliable manipulation-hardware infrastructure.
 - [徐鸿亮 / Tom](entities/XuHongliang.md) — ByteDance growth and internationalization guest explaining TikTok growth, LTV budgeting, automated buying, material systems, risk control, and AI retention limits.
+- [趣头条 / QuToutiao](entities/QuToutiao.md) — Content app whose coin, cashout, task, and referral pattern became the "趣头条模式" copied and adapted by later Lite products.
+- [头条极速版 / Toutiao Lite](entities/ToutiaoLite.md) — ByteDance Lite content product that adapted QuToutiao-style incentives while relying on Toutiao content, recommendation, ads, and LTV.
+- [快手极速版 / Kuaishou Lite](entities/KuaishouLite.md) — Kuaishou short-video Lite product used as the episode's clearest case of reward-driven Lite-app scale.
+- [抖音极速版 / Douyin Lite](entities/DouyinLite.md) — ByteDance short-video Lite product connecting red-packet tasks, early behavior training, and internal traffic allocation.
+- [抖神神 / Doushenshen](entities/Doushenshen.md) — Douyin local-life direction shifting from content seeding and event coupons toward daily low-price transaction entry.
 - [番茄小说 / Fanqie Novel](entities/FanqieNovel.md) — ByteDance free-reading product used as a growth-transfer case from Toutiao channels toward Hongguo and short-form content.
 - [汽水音乐 / Qishui Music](entities/QishuiMusic.md) — ByteDance music product whose growth uses Douyin account, BGM, viral-song, and interest signals.
 - [Temu](entities/Temu.md) — Overseas ecommerce growth comparison that learned from ByteDance-style regional UG organization while relying on supply, coupons, and fulfillment.
@@ -1431,6 +1437,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Creative Material Industrialization](concepts/CreativeMaterialIndustrialization.md) — Tagged, reviewed, recombinable, and measurable advertising creative supply chain used in large-scale performance growth.
 - [Growth Risk Control](concepts/GrowthRiskControl.md) — Control layer for fake users, unsafe material, attribution pollution, financial leakage, and compliance failures in growth systems.
 - [Red Packet Growth](concepts/RedPacketGrowth.md) — Incentive-growth pattern using tiered and delayed rewards tied to later user behavior and contribution.
+- [Lite App Growth](concepts/LiteAppGrowth.md) — 极速版 growth pattern where coin, task, cashout, and invitation systems bootstrap early behavior but require real content, algorithm, and monetization loops.
+- [Fission Growth](concepts/FissionGrowth.md) — Viral/referral growth pattern based on relationship chains, invitation scarcity, H5 spread, K-factor loops, and platform permission.
+- [Coupon-Led Transaction Growth](concepts/CouponLedTransactionGrowth.md) — Growth mode where coupons move users into real orders, payment, address binding, memberships, cross-selling, and repeat transaction demand.
+- [Spring Festival Growth Campaign](concepts/SpringFestivalGrowthCampaign.md) — Chinese internet event-growth pattern using Spring Festival traffic, Gala sponsorships, red-packet systems, and all-hands operations.
+- [Growth ROI Layers](concepts/GrowthROILayers.md) — ROI1/ROI2/ROI3 growth accounting frame separating CAC/LTV, variable costs such as content or compute, and fixed costs.
 - [AI Consumer Growth Metrics](concepts/AIConsumerGrowthMetrics.md) — AI product growth frame where DAU, retention, usage, task value, token cost, and switching cost still matter.
 - [Touteng War](concepts/ToutengWar.md) — 2018 ByteDance/Tencent public conflict used as a case of platform rivalry, PR escalation, youth-safety narratives, and regulatory anxiety.
 - [Recommendation Distribution Advantage](concepts/RecommendationDistributionAdvantage.md) — Company-level ability to compound recommendation, growth, traffic allocation, ads, and content supply.

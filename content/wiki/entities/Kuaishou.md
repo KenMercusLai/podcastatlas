@@ -2,8 +2,8 @@
 title: "Kuaishou"
 type: entity
 tags: [company, short-video, social-platform, china]
-sources: [musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]
-last_updated: 2026-07-08
+sources: [musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0]
+last_updated: 2026-07-09
 ---
 
 # Kuaishou
@@ -16,12 +16,15 @@ The source uses Kuaishou as a contrast case for short-video ecology. Musical.ly 
 
 [[quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]] adds Kuaishou as the competitor in TikTok's Brazil growth case and as the company behind [[Zynn]]. The source says TikTok selected higher-status creators and cities while buying traffic above Kuaishou's level in Brazil; it also treats Zynn as a cautionary overseas incentive-growth experiment.
 
+[[faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0]] adds [[KuaishouLite]] as the domestic short-video case that made the Lite-app incentive model widely visible. The episode says Kuaishou Lite used aggressive cashout perception and low early thresholds to create market attention, but its durability depended on Kuaishou's content, feed, algorithm, and ad monetization rather than rewards alone.
+
 ## Key Points
 - Kuaishou is the reference point for broad, ordinary-user UGC.
 - The source treats Kuaishou as both a competitor and an ecosystem benchmark.
 - ByteDance's acquisition of Musical.ly is discussed partly as a defensive move that kept an important overseas asset away from other short-video competitors.
 - Episode 266 adds Kuaishou as a short-drama/comic-drama distribution context.
 - Episode 7 adds Kuaishou as both a Brazil-market competitor and a warning that overseas red-packet-style acquisition can collide with fraud, payment, PR, and legal risks.
+- Episode 8 adds Kuaishou Lite as the strongest domestic proof that [[LiteAppGrowth]] can scale when backed by a real short-video consumption and monetization system.
 
 ## Connections
 - [[MusicalLy]], [[TikTok]], and [[Douyin]] — comparison platforms.
@@ -30,3 +33,4 @@ The source uses Kuaishou as a contrast case for short-video ecology. Musical.ly 
 - [[ContentEcosystemGovernance]] — ecological breadth and quality management problem.
 - [[AIShortDrama]] and [[ShortDramaEconomics]] — short-drama category and paid-traffic economics added by episode 266.
 - [[TikTok]], [[Zynn]], [[RedPacketGrowth]], and [[GrowthRiskControl]] — overseas growth and incentive-risk context added by episode 7.
+- [[KuaishouLite]], [[DouyinLite]], [[LiteAppGrowth]], and [[GrowthROILayers]] — domestic Lite-app incentive context added by episode 8.
