@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射](sources/139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no.md) — 张小珺Jùn｜商业访谈录 episode with Su Yu on agent technical history, Memory + Autonomy, Language Agents, OpenClaw Moment, Universal Digital Agents, continual learning, world models, specialization, GUI/CLI boundaries, and agent social impact.
 - [138. 对罗福莉3.5小时访谈：AI范式已然巨变！OpenClaw、Agent范式很吃后训练、卡的分配、组织平权](sources/138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf.md) — 张小珺Jùn｜商业访谈录 episode with Luo Fuli on OpenClaw/OpenCloud, agent post-training, Agent RL, Memo VR, 1T-scale models, compute allocation, model architecture, and flat AI organization design.
 - [137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的](sources/137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb.md) — 张小珺Jùn｜商业访谈录 episode with Hong Letong on AI for Math, Axiom, Lean, auto-formalization, theorem proving, AI mathematicians, Putnam, formal verification, and math as code.
 - [135. 和自然选择创始人Tristan聊，Elys、赛博分身、灵魂、Context的获取与流动和AI社交网络](sources/135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty.md) — 张小珺Jùn｜商业访谈录 episode with Tristan on Natural Selection, EVE, Elys, cyber avatars, context flywheels, subjectivity as an AI-era asset, proactive agents, and AI social networks.
@@ -154,6 +155,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Su Yu / 苏煜](entities/SuYu.md) — Ohio State professor and Neo Cognition founder discussing agent technical history, Language Agents, OpenClaw Moment, continual learning, world models, and specialized intelligence.
+- [Neo Cognition](entities/NeoCognition.md) — Agent research lab founded by Su Yu around specialized intelligence and fast agent learning inside concrete domains, jobs, and environments.
 - [Luo Fuli / 罗福莉](entities/LuoFuli.md) — Xiaomi large-model team lead discussing OpenClaw/OpenCloud, Memo VR, agent post-training, Agent RL, compute allocation, and flat model-team organization.
 - [Memo VR](entities/MemoVR.md) — Xiaomi model series discussed through Pro, Omni, TTS, Flash, long-context architecture, multimodal perception, and agent-era model orchestration.
 - [Hong Letong / 洪乐潼](entities/HongLetong.md) — Axiom founder discussing AI for Math, formal proof, Lean, auto-formalization, Putnam, and formal verification.
@@ -865,6 +868,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, and Louis Hong episodes.
 
 ## Concepts
+- [Language Agent](concepts/LanguageAgent.md) — Post-ChatGPT agent paradigm where language scaffolds perception, reasoning, planning, tool use, and action.
+- [OpenClaw Moment](concepts/OpenClawMoment.md) — Interaction-form shock where OpenClaw made permissioned, always-on, personal agents newly legible.
+- [Universal Digital Agent](concepts/UniversalDigitalAgent.md) — Convergence target where web, desktop, mobile, coding, and computer-use agent boundaries dissolve across digital tasks.
+- [Computer Use Agent](concepts/ComputerUseAgent.md) — Agent category for acting through browsers, desktops, mobile environments, GUIs, files, tools, and code.
+- [Continual Learning](concepts/ContinualLearning.md) — Agent learning bottleneck around acquiring useful world models from ongoing work instead of fixed prompts alone.
+- [Specialized Intelligence](concepts/SpecializedIntelligence.md) — Agent capability to become expert in a specific domain, profession, organization, workflow, or environment.
+- [Memory-Autonomy Framework](concepts/MemoryAutonomyFramework.md) — Su Yu's agent-capability frame separating semantic/episodic/procedural memory from perception/reasoning/decision/action autonomy.
+- [Semantic Parsing](concepts/SemanticParsing.md) — NLP route translating natural language into machine-readable representations that can connect human intent to structured systems and tools.
 - [Agent Post-Training](concepts/AgentPostTraining.md) — Post-training shift from chat behavior toward agent workflows, tool feedback, memory, skills, and framework-specific adaptation.
 - [Agent RL](concepts/AgentRL.md) — Reinforcement-learning and rollout problem for agents operating through tools, memory, frameworks, heterogeneous resources, and long-running environments.
 - [Training Compute Allocation](concepts/TrainingComputeAllocation.md) — Allocation of scarce cards across research, pretraining, post-training, rollout, and evaluation as agents accelerate experimentation.

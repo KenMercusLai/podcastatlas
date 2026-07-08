@@ -748,6 +748,10 @@ Added source page for a 面基 episode on dynamic efficient frontier, asset allo
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-08] ingest | 139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射
+
+Added source page for a 张小珺Jùn｜商业访谈录 episode on Su Yu, agent technical history, Memory + Autonomy, logical/neural/language agents, semantic parsing, OpenClaw Moment, computer-use agents, Universal Digital Agents, continual learning, world models, specialized intelligence, GUI/CLI boundaries, and agent social impact. Created pages for Su Yu / 苏煜, Neo Cognition, Language Agent, OpenClaw Moment, Computer Use Agent, Universal Digital Agent, Continual Learning, Specialized Intelligence, Memory-Autonomy Framework, and Semantic Parsing; updated overview, index, Zhang Xiaojun Commercial Interviews, OpenClaw, Agent Harness, World Models, Persistent Agent Memory, and Agent-Facing Interfaces. No direct contradiction found; the source qualifies headless/CLI narratives by arguing GUI remains important for verification, trust, audit, and existing business logic.
+
 ## [2026-07-08] ingest | Eric Ries: Incorruptible by Design
 
 Added source page for a Long Now talk on Eric Ries's Incorruptible thesis, financial gravity, human-flourishing profit, steward ownership, accountability sinks, trust as a business asset, private regulatory power, and AI alignment governance. Created pages for Incorruptible, Dan Davies, Costco, Vanguard, Patagonia, Zeiss, Novo Nordisk, Long-Term Benefit Trust, Human Flourishing Profit, Steward Ownership, Accountability Sinks, Private Regulatory Power, AI Alignment Governance, and Trust As Business Asset; updated overview, index, Long Now, Eric Ries, Anthropic, OpenAI, AI governance, SaaS trust moat, and related governance concept pages. No direct contradiction found; the source reinforces the earlier Ries governance material while broadening it from startup founder control into long-lived institutional design and AI governance.
@@ -1075,6 +1079,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] ingest | 138. 对罗福莉3.5小时访谈：AI范式已然巨变！OpenClaw、Agent范式很吃后训练、卡的分配、组织平权
 
 Added source page for a 张小珺Jùn｜商业访谈录 episode on Luo Fuli, Xiaomi's Memo VR models, OpenClaw/OpenCloud as agent frameworks, agent post-training, Agent RL, training compute allocation, long-context and multimodal architecture, model-harness co-evolution, skills as organizational knowledge, and flat model-team organization. Created pages for Luo Fuli / 罗福莉, Memo VR, Agent Post-Training, Agent RL, Training Compute Allocation, and Agent-Optimized Model Architecture; updated overview, index, Zhang Xiaojun Commercial Interviews, Xiaomi, DeepSeek, Alibaba, OpenClaw, OpenCloud, Agent Harness, Model Harness Co-Evolution, Agent Self-Evolution, AI Organization Design, Frontier Model Scaling, AI Skills, Research Taste, Long-Horizon AI, ML Coding, Model Workflow Fit, and Multi-Agent Collaboration. No direct contradiction found; the source strengthens the wiki's agent thread by moving it from product experience into model training, rollout infrastructure, compute allocation, and organization design.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-08] lint | Wiki health check
 
