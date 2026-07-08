@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Episode 17: 向量模型工程师：AI 的隐藏瓶颈与新时代的信息迷宫](sources/xiangliang-moxing-gongchengshi-ai-de-yincang-pingjing-yu-xinshidai-de-xinxi-migong-4b6cf945-d64a-4dd0-95a7-cb8f11963698.md) — Fuyou Tiandi episode with N Student on vector models, RAG, semantic relevance, chunking, reranking, hard negatives, long-context limits, agent search evaluation, and preserving human judgment under AI.
 - [Episode 18: 感官放大世界：和任宁聊观鸟、自然与自由](sources/ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779.md) — Fuyou Tiandi episode with Ren Ning on birdwatching, citizen science, tern conservation, urban ecology, nature writing, AI bird-recognition bias, and freedom through sensory attention.
 - [Trailer: Tocqueville Road Trip](sources/trailer-tocqueville-road-trip-6a315813780d0f7579afb892.md) — Economist Podcasts trailer from the Boss Class Acast feed, duplicating the Tocqueville Road Trip setup around Alexis de Tocqueville, Democracy in America, and America as a democratic idea.
 - [137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费](sources/137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1.md) — 疯投圈 episode on AI-resistant experience consumption, Shunde food tourism, Zhuroupo, Korean culture-led consumer marketing, Seongsu-dong, K-Beauty, beverage competition in Korea, and separating housing experience from real-estate investment.
@@ -214,6 +215,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [N 同学 / N Student](entities/NStudent.md) — Anonymized vector-model engineer explaining NLP history, RAG infrastructure, relevance definitions, hard negatives, AI coding judgment, and why fluent models still need retrieval systems.
 - [任宁 / Ren Ning](entities/RenNing.md) — Birdwatcher and nature writer using observation, bird lists, urban habitats, conservation projects, and field experience to make nature more legible.
 - [《希望是那长着羽毛的小东西》 / Hope Is the Thing with Feathers](entities/HopeIsTheThingWithFeathersBook.md) — Ren Ning's nature-writing book about bird memory, field notes, sensory pressure, and writing without replacing prose with bird images.
 - [eBird](entities/EBird.md) — Bird-observation platform used as a citizen-science case for turning personal bird lists and sightings into structured research data.
@@ -1222,6 +1224,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Vector Model Engineering](concepts/VectorModelEngineering.md) — Practice of training and evaluating embedding, recall, ranking, and retrieval models that remain necessary beneath GPT-style AI systems.
+- [Retrieval-Augmented Generation](concepts/RetrievalAugmentedGeneration.md) — Pattern and enterprise pipeline for grounding language-model answers in retrieved external knowledge.
+- [Semantic Search Relevance](concepts/SemanticSearchRelevance.md) — Task-specific definition of what counts as a useful retrieval match across FAQ, search, clustering, and domain workflows.
+- [Document Chunking](concepts/DocumentChunking.md) — RAG design problem of splitting source material into retrieval units without destroying semantic, layout, or argument structure.
+- [Reranking Models](concepts/RerankingModels.md) — Second-stage retrieval models that rescore recalled candidates before evidence is passed to a language model.
+- [Hard Negative Mining](concepts/HardNegativeMining.md) — Training-data practice of using close-but-wrong examples so retrieval models learn domain-specific distinctions.
+- [Context Decay](concepts/ContextDecay.md) — Failure mode where long conversations or agent workflows lose, blur, or misapply earlier information.
+- [AI Search Evaluation](concepts/AISearchEvaluation.md) — Evaluation problem for whether AI systems retrieved, ranked, and synthesized evidence that actually supports an answer.
 - [Birdwatching As Attention](concepts/BirdwatchingAsAttention.md) — Practice of using birdwatching to make ordinary places higher-resolution through taxonomy, ecology, behavior, sound, and habitat awareness.
 - [Citizen Science](concepts/CitizenScience.md) — Public observation and structured data contribution to research, illustrated through bird lists, ring sightings, photos, and reviewer checks.
 - [Nature Writing](concepts/NatureWriting.md) — Nonfiction mode that keeps natural observation, field notes, body, memory, people, and psychological truth together.

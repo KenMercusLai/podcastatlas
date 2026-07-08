@@ -1595,3 +1595,11 @@ Added source page for a Fuyou Tiandi episode with Ren Ning on birdwatching, citi
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used the existing `graph/graph.json` snapshot and found no hub stubs, eight fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-09] ingest | Episode 17: 向量模型工程师：AI 的隐藏瓶颈与新时代的信息迷宫
+
+Added source page for a Fuyou Tiandi episode with N Student on vector-model engineering, RAG, semantic relevance definitions, document chunking, reranking, hard negatives, long-context limits, agent search, and AI search evaluation. Created pages for N Student, Vector Model Engineering, Retrieval-Augmented Generation, Semantic Search Relevance, Document Chunking, Reranking Models, Hard Negative Mining, Context Decay, and AI Search Evaluation; updated Fuyou Tiandi, Han Yang, Deep Research, Long-Horizon AI, Context Engineering, Human Judgment Under AI, AI Coding Verification, overview, index, and log. No direct contradiction found; the source reinforces the wiki's agent and AI-coding judgment thread while adding a retrieval-specific qualification that fluent models and longer context do not remove the need for source structure, vector search, ranking, evaluation, and human review.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used the existing `graph/graph.json` snapshot and found no hub stubs, eight fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
