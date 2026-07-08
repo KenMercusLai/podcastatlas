@@ -1587,3 +1587,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-09] graph | Knowledge graph rebuilt
 
 2067 nodes, 20032 edges (20032 extracted, 0 inferred).
+
+## [2026-07-09] ingest | Episode 18: 感官放大世界：和任宁聊观鸟、自然与自由
+
+Added source page for a Fuyou Tiandi episode with Ren Ning on birdwatching, citizen science, tern conservation, urban ecology, nature writing, AI bird-recognition bias, and freedom through sensory attention. Created pages for Ren Ning, Hope Is the Thing with Feathers, eBird, Dongniao, Chinese Crested Tern, Birdwatching As Attention, Citizen Science, Nature Writing, Urban Ecology, AI Recognition Bias, and Conservation Intervention; updated Fuyou Tiandi, Han Yang, Non-Instrumental Understanding, Embodied Judgment, overview, index, and log. No direct contradiction found; the source qualifies AI-resistant experiential consumption by emphasizing non-instrumental embodied presence in nature and qualifies AI-recognition enthusiasm by keeping human observation and verification central.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used the existing `graph/graph.json` snapshot and found no hub stubs, eight fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.

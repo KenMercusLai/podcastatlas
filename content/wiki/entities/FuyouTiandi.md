@@ -2,7 +2,7 @@
 title: "蜉蝣天地 / Fuyou Tiandi"
 type: entity
 tags: [podcast, video-podcast, media]
-sources: [hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5]
+sources: [hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5, ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779]
 last_updated: 2026-07-09
 ---
 
@@ -12,11 +12,14 @@ last_updated: 2026-07-09
 
 The source positions the show's name as a stance: people are small relative to the worlds they try to understand, so the host enters a guest's field like a brief observer rather than a person who can summarize the whole thing from above. That makes [[NonInstrumentalUnderstanding]] part of the format: some details are worth staying with because they reveal a way of seeing, not because they immediately become a decision framework.
 
+[[ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779]] shows the format in practice through [[RenNing]]'s birdwatching and [[NatureWriting]] world. Instead of forcing birdwatching into a hobby explainer, the episode lets [[BirdwatchingAsAttention]], [[CitizenScience]], [[UrbanEcology]], [[ConservationIntervention]], and [[AIRecognitionBias]] unfold from concrete places and field experiences.
+
 ## Source Position
 - The show resists the idea that every episode must deliver clear conclusions, bullet points, future guidance, or obvious information gain.
 - It treats long conversations as a way to preserve hesitation, rough thought, side paths, and private fascination.
 - It uses video because gestures, objects, images, architecture, and facial expression can be part of the understanding surface.
 - It sets a higher requirement for guests, host, and listeners: the listener may need to do their own thinking rather than receive a fully compressed takeaway.
+- Episode 18 demonstrates the guest-world method by staying with bird names, habitats, field notes, AI recognition errors, bodily perception, and the freedom of not chasing external trends.
 
 ## Connections
 - [[HanYang]] - host and show initiator.
@@ -25,3 +28,4 @@ The source positions the show's name as a stance: people are small relative to t
 - [[NonInstrumentalUnderstanding]] - value stance behind the show.
 - [[VideoPodcastAffordance]] - medium choice.
 - [[PodcastAsAsynchronousMedia]] - adjacent podcast-media concept that the show extends into a video and deep-conversation mode.
+- [[RenNing]], [[BirdwatchingAsAttention]], and [[NatureWriting]] - Episode 18's guest-world case.

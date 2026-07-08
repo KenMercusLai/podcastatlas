@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Episode 18: 感官放大世界：和任宁聊观鸟、自然与自由](sources/ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779.md) — Fuyou Tiandi episode with Ren Ning on birdwatching, citizen science, tern conservation, urban ecology, nature writing, AI bird-recognition bias, and freedom through sensory attention.
 - [Trailer: Tocqueville Road Trip](sources/trailer-tocqueville-road-trip-6a315813780d0f7579afb892.md) — Economist Podcasts trailer from the Boss Class Acast feed, duplicating the Tocqueville Road Trip setup around Alexis de Tocqueville, Democracy in America, and America as a democratic idea.
 - [137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费](sources/137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1.md) — 疯投圈 episode on AI-resistant experience consumption, Shunde food tourism, Zhuroupo, Korean culture-led consumer marketing, Seongsu-dong, K-Beauty, beverage competition in Korea, and separating housing experience from real-estate investment.
 - [Vol.262 去西班牙买足球俱乐部，一场荒诞的商业冒险](sources/vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191.md) — 商业就是这样 episode with Li Xiang on buying Jumilla CF, Chinese-player overseas arbitrage, lower-tier club control risk, contract enforcement, youth-football systems, and stop-loss lessons after a failed football investment.
@@ -213,6 +214,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [任宁 / Ren Ning](entities/RenNing.md) — Birdwatcher and nature writer using observation, bird lists, urban habitats, conservation projects, and field experience to make nature more legible.
+- [《希望是那长着羽毛的小东西》 / Hope Is the Thing with Feathers](entities/HopeIsTheThingWithFeathersBook.md) — Ren Ning's nature-writing book about bird memory, field notes, sensory pressure, and writing without replacing prose with bird images.
+- [eBird](entities/EBird.md) — Bird-observation platform used as a citizen-science case for turning personal bird lists and sightings into structured research data.
+- [懂鸟 / Dongniao](entities/Dongniao.md) — Chinese AI bird-recognition tool used to illustrate rare-species identification limits and spurious visual correlations.
+- [中华凤头燕鸥 / Chinese Crested Tern](entities/ChineseCrestedTern.md) — Endangered tern species used as the source's concrete case for active conservation intervention.
 - [Shunde / 顺德](entities/Shunde.md) — Guangdong food destination used to explain documentary-amplified tourism and AI-resistant offline food experience.
 - [Zhuroupo / 猪肉婆](entities/Zhuroupo.md) — Shunde destination restaurant case where local reputation, queues, and founder image make the dining experience hard to standardize.
 - [寻味顺德](entities/XunweiShunde.md) — Food documentary treated as a content lever that amplified Shunde's national food-tourism demand.
@@ -1216,6 +1222,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Birdwatching As Attention](concepts/BirdwatchingAsAttention.md) — Practice of using birdwatching to make ordinary places higher-resolution through taxonomy, ecology, behavior, sound, and habitat awareness.
+- [Citizen Science](concepts/CitizenScience.md) — Public observation and structured data contribution to research, illustrated through bird lists, ring sightings, photos, and reviewer checks.
+- [Nature Writing](concepts/NatureWriting.md) — Nonfiction mode that keeps natural observation, field notes, body, memory, people, and psychological truth together.
+- [Urban Ecology](concepts/UrbanEcology.md) — City-nature frame where parks, wetlands, wasteland, infrastructure, birds, and human management form dynamic habitats.
+- [AI Recognition Bias](concepts/AIRecognitionBias.md) — Classifier failure mode where models learn spurious visual signals such as background, camera, or photographer patterns instead of intended object traits.
+- [Conservation Intervention](concepts/ConservationIntervention.md) — Active species-protection work using habitat design, sound, decoys, disturbance control, monitoring, and feedback under ecological uncertainty.
 - [AI Resistant Experiential Consumption](concepts/AIResistantExperientialConsumption.md) — AI-era consumer thesis that embodied, social, place-based experiences remain harder to replace than digital information.
 - [Korean Culture Led Consumer Marketing](concepts/KoreanCultureLedConsumerMarketing.md) — Pattern where Korean entertainment, celebrities, beauty trust, stores, and districts convert culture into global consumer-brand demand.
 - [K-Beauty Global Trust](concepts/KBeautyGlobalTrust.md) — Beauty-category trust mechanism combining Korean aesthetics, skincare routines, medical-aesthetic associations, social video, and celebrity taste.
