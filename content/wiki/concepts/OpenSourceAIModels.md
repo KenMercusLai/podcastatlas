@@ -2,8 +2,8 @@
 title: "Open Source AI Models"
 type: concept
 tags: [open-source, models, ai-ecosystem]
-sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
-last_updated: 2026-07-07
+sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]
+last_updated: 2026-07-09
 ---
 
 # Open Source AI Models
@@ -16,6 +16,8 @@ Open source AI models are model releases that enable broad downstream use, deplo
 
 [[ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1]] adds the enterprise post-training version. [[HenryYin]] says Chinese open models such as [[GLM52]], [[Kimi]], and [[DeepSeek]] were refreshing global open-model rankings in Q2, and the source connects that progress to [[EnterpriseOwnedModels]] through [[Harvey]] and [[AppliedCompute]].
 
+[[roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]] adds a launch-delay version. The episode argues that if U.S. frontier-model review slows or clouds releases, cheaper Chinese open-weight alternatives can become more attractive even if they remain behind the top American frontier models.
+
 ## Key Points
 - Open models can run across different hardware and deployment constraints when released in multiple sizes.
 - They can become base models for startups and developers who fine-tune or adapt them.
@@ -24,6 +26,7 @@ Open source AI models are model releases that enable broad downstream use, deplo
 - Open releases can change international perception and competitive pressure even when the technical novelty is contested.
 - Policy restrictions on closed models can make open models more valuable as availability and control assets, not only as cheaper substitutes.
 - Open models become more strategically valuable when post-training firms and vertical applications can turn them into domain-specific enterprise models.
+- Closed-model release uncertainty can make open models valuable as continuity assets, not only as cheaper or more customizable models.
 
 ## Connections
 - [[LargeCompanyOpenSourceStrategy]] — how large companies use and struggle with open source.
@@ -33,3 +36,4 @@ Open source AI models are model releases that enable broad downstream use, deplo
 - [[AlephAlpha]] and [[EuropeanAIIndustrialConstraints]] — European reaction and industrial comparison added by the Neihe Konghuang episode.
 - [[AIExportControls]], [[FrontierModelAccessRestrictions]], [[SaaSReliabilityUnderPolicyRisk]], [[ZhipuAI]], and [[GLM52]] — policy-driven substitution context added by the Keji Luandun export-control episode.
 - [[EnterpriseOwnedModels]], [[Harvey]], and [[AppliedCompute]] — enterprise post-training and open-model substitution branch added by LateTalk.
+- [[FrontierModelReleaseGovernance]] — launch-review uncertainty that can increase open-model demand.

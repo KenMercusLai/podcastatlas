@@ -2,8 +2,8 @@
 title: "AI Export Controls"
 type: concept
 tags: [ai, policy, export-controls, geopolitics]
-sources: [ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
-last_updated: 2026-07-07
+sources: [ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]
+last_updated: 2026-07-09
 ---
 
 # AI Export Controls
@@ -12,15 +12,19 @@ AI export controls are state attempts to limit who can access advanced model cap
 
 The source contrasts AI controls with chip restrictions around [[Nvidia]] hardware. Hardware can be tracked through manufacturing, shipping, resale, and after-sales channels, while model access can be mediated by accounts, regions, contractors, proxies, and open-source releases. This makes [[FrontierModelAccessRestrictions]] a business and governance problem as much as a national-security problem.
 
+[[roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]] adds a U.S. government-review mechanism. The episode says frontier models' cyber capabilities pushed the Trump administration toward a process that is formally voluntary but can resemble a licensing regime if companies need government clearance before broad release.
+
 ## Key Claims
 - AI controls become more likely when model companies or policymakers frame frontier models as weapon-like capabilities.
 - API-delivered services are difficult to restrict by nationality because the real user behind an account may not match the identity boundary.
 - Restrictions can create demand for [[OpenSourceAIModels]] and local deployment if customers need reliable access.
 - Export-control uncertainty can reduce closed model providers' commercial reliability and valuation ceiling.
 - The [[PGP]] analogy suggests that code and information controls can be legally, technically, and socially fragile.
+- Model-release review can become a control mechanism even when policy avoids the language of formal licensing.
 
 ## Connections
 - [[FrontierModelAccessRestrictions]] — implementation layer for limiting model access.
+- [[FrontierModelReleaseGovernance]] — model-review and release-clearance layer added by The Intelligence.
 - [[AIColdWar]] — geopolitical frame that can form around model and API flows.
 - [[AISafetyNarrativeBackfire]] — rhetorical path by which safety claims can invite control.
 - [[SaaSReliabilityUnderPolicyRisk]] — product consequence when access may be shut off by policy.

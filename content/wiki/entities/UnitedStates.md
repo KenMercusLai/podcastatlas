@@ -2,7 +2,7 @@
 title: "United States"
 type: entity
 tags: [country, politics, culture, sports, geopolitics]
-sources: [latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c, trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7, trailer-tocqueville-road-trip-6a315920101389aa3d42d134, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
+sources: [latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c, trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7, trailer-tocqueville-road-trip-6a315920101389aa3d42d134, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]
 last_updated: 2026-07-09
 ---
 
@@ -24,6 +24,8 @@ The page also connects earlier wiki branches that used America more indirectly. 
 
 [[fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]] adds the United States as an AI-politics case. The episode says public fear of job loss, child-chatbot relationships, mental-health effects, tech-company power, data centers, and the speed of AI progress can cut across party lines, making [[AIBacklashPolitics]] and [[DataCenterBacklash]] new tests of how American institutions absorb technological change.
 
+[[roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]] adds the United States as a frontier-model control case. The episode says advanced cyber capabilities pushed the government toward [[FrontierModelReleaseGovernance]], creating uncertainty for [[OpenAI]], [[Anthropic]], model users, and investors even as the administration publicly rejected formal licensing.
+
 [[coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b]] adds two U.S. power cases. Internationally, America may shift from blockade and strikes against [[Iran]] to [[IranPostwarEconomicRelief]] as a way to secure results it did not achieve militarily. Domestically, the [[ObamaPresidentialCenter]] extends the wiki's memory thread by asking how presidential museums shape public memory and whether [[PresidentialMemorialCulture]] gives presidents too much quasi-imperial aura.
 
 ## Connections
@@ -38,4 +40,5 @@ The page also connects earlier wiki branches that used America more indirectly. 
 - [[Venezuela]], [[DisasterResponseStateCapacity]], and [[DemocraticTransitionElection]] - earthquake-recovery and political-transition branch added by The Intelligence.
 - [[LatinAmerica]], [[DonroeDoctrine]], [[LatinAmericaInvestmentBoom]], [[China]], and [[CriticalMineralsGeopolitics]] - near-abroad investment and strategic-resource branch added by The Intelligence.
 - [[AIBacklashPolitics]], [[JoshHawley]], and [[DataCenterBacklash]] - AI regulation, child-safety anxiety, and data-center opposition branch added by The Intelligence.
+- [[FrontierModelReleaseGovernance]], [[AIExportControls]], [[OpenAI]], and [[Anthropic]] - frontier-model review and launch-risk branch added by The Intelligence.
 - [[IranPostwarEconomicRelief]], [[ObamaPresidentialCenter]], and [[PresidentialMemorialCulture]] - diplomacy and presidential-memory branches added by The Intelligence.

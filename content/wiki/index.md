@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Roaring trades: oil majors' secret success story](sources/roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674.md) — The Intelligence episode on European oil majors' hidden trading profits, U.S. frontier-model release controls, and concert tours concentrating into long city residencies.
 - [Far Crimea: war comes to Russia's door](sources/far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658.md) — The Intelligence episode on Ukraine's strikes on Crimea and Russia, SpaceX's IPO and index exposure, and Alan Greenspan's Federal Reserve legacy.
 - [Coming in Andy: Britain's prime minister-in-waiting](sources/coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b.md) — The Intelligence episode on Andy Burnham's Makerfield by-election route toward the Labour leadership, U.S.-Iran economic concessions, and the Obama Presidential Center as presidential memory politics.
 - [Fear-jerker: America's AI backlash](sources/fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd.md) — The Intelligence episode on U.S. AI backlash politics, data-center opposition, Chinese divorce restrictions, and European air conditioning as public-health climate adaptation.
@@ -209,6 +210,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [BP](entities/BP.md) — European oil major used as a case for large hidden energy-trading profits and physical-market information advantage.
+- [Shell](entities/Shell.md) — European oil major whose trading arm illustrates how logistics, storage, and market intelligence can generate profits beyond production.
+- [TotalEnergies](entities/TotalEnergies.md) — European oil major included in the episode's estimate of large trading volumes and profits.
+- [ExxonMobil](entities/ExxonMobil.md) — American oil major trying to catch up with European energy-trading desks.
+- [ADNOC](entities/ADNOC.md) — National oil company used as a new entrant trying to build energy-trading capacity.
+- [Harry Styles](entities/HarryStyles.md) — Megastar example for long-run, few-city concert touring and residency economics.
 - [Crimea](entities/Crimea.md) — Peninsula framed as both Black Sea military base and symbolic target in Ukraine's war visibility strategy.
 - [Volodymyr Zelensky](entities/VolodymyrZelensky.md) — Ukrainian leader whose escalation warning frames the episode's strikes on Crimea, Moscow, and Russian infrastructure.
 - [Vladimir Putin](entities/VladimirPutin.md) — Russian leader whose Crimea-linked war narrative and exit problem are central to the episode's Russia segment.
@@ -1185,6 +1192,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Energy Trading Scale Advantage](concepts/EnergyTradingScaleAdvantage.md) — Edge from combining physical energy assets, logistics, market flow, and information into a large trading operation.
+- [Frontier Model Release Governance](concepts/FrontierModelReleaseGovernance.md) — Review and clearance process for powerful AI models before broad release, especially under cyber-risk concerns.
+- [Concert Residency Economics](concepts/ConcertResidencyEconomics.md) — Shift from many-city touring toward longer runs in fewer global cities, concentrating fan travel and event spending.
 - [War Visibility Strategy](concepts/WarVisibilityStrategy.md) — Wartime pattern where strikes and disruption make a conflict's costs visible to the adversary's public, elites, and logistics system.
 - [Index Fund Automatic Exposure](concepts/IndexFundAutomaticExposure.md) — Risk pattern where benchmark inclusion forces passive funds and pensions to hold a company regardless of savers' direct valuation judgment.
 - [Central Bank Independence](concepts/CentralBankIndependence.md) — Monetary-governance principle that central-bank policy should resist short-term political pressure while still being judged by later outcomes.

@@ -1551,3 +1551,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-09] ingest | Roaring trades: oil majors' secret success story
+
+Added source page for a The Intelligence episode on European oil majors' hidden trading profits, U.S. frontier-model release controls, and concert tours concentrating into long city residencies. Created pages for BP, Shell, TotalEnergies, ExxonMobil, ADNOC, Harry Styles, Energy Trading Scale Advantage, Frontier Model Release Governance, and Concert Residency Economics; updated overview, index, The Intelligence, Economist Podcasts, OpenAI, Anthropic, Donald Trump, United States, AI Export Controls, Frontier Model Access Restrictions, Open Source AI Models, SaaS Reliability Under Policy Risk, and AI Equity Valuation Risk. No direct contradiction found; the source extends existing AI access-control themes with a more government-centered release-review mechanism while adding new energy-trading and live-event scarcity branches.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used the existing `graph/graph.json` snapshot, which has 1,957 nodes while the wiki scan has 2,034 pages, and found no hub stubs, seven fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
