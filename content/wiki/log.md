@@ -1167,3 +1167,11 @@ Added source page for a 无人知晓 episode with Zhang Xiaoyu, Meng Yan, and Xu
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE
+
+Added source page for a 硅谷101 episode on FDEs, Cresta contact-center AI, Invisible Technologies workflow redesign, OpenAI/Anthropic enterprise deployment, and private-equity AI transformation. Created pages for Cresta, Jove, Invisible Technologies, Oliver, Blackstone, McKinsey, Forward Deployed Product Manager, AI Workflow Triage, and Private Equity AI Transformation; updated overview, index, Silicon Valley 101, OpenAI, Anthropic, Google, Palantir, Forward Deployed Engineer, Business-Led AI Transformation, Service As Software, Contact Center AI, AI Staffing, AI BPO Roll Up, Result As A Service, and Outcome-Based AI Pricing. No direct contradiction found; the source reinforces the wiki's FDE and enterprise AI deployment thread while adding a sharper boundary between deterministic workflow steps, AI-suitable steps, and human-review responsibility.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

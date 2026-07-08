@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE](sources/e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde.md) — 硅谷101 episode on FDEs, Cresta contact-center agents, Invisible Technologies workflow triage, private-equity AI transformation, and why model companies need enterprise deployment capacity.
 - [E43 张潇雨、孟岩对话许哲：没有更好的生活](sources/e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls.md) — 无人知晓 episode on black swans, fat-tail risk, antifragility, option convexity, ordinary-investor risk management, impermanence/no-self, and letting go of the fantasy of a finally better life.
 - [把身体数据存起来，可能是普通人最划算的 AI 投资](sources/ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1.md) — Keji Luandun episode with Jiang Xun on personal health data, AI health management, continuous glucose monitoring, doctor-in-the-loop boundaries, and AI-era education/personal differentiation.
 - [136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS](sources/136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v.md) — 张小珺Jùn｜商业访谈录 episode on coding as AGI's second act, Anthropic/OpenAI/Google/Meta/xAI competition, model-as-operating-system strategy, token usage metrics, harness engineering, and white-collar labor repricing.
@@ -163,6 +164,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Cresta](entities/Cresta.md) — Enterprise AI company used as the episode's contact-center FDE case, with agents selected from historical customer data, SOP clarity, and measurable outcomes.
+- [Jove](entities/Jove.md) — Cresta FDE leader explaining customer-site deployment, FDE skills, FDPM pairing, and why AI agents need workflow integration.
+- [Invisible Technologies](entities/InvisibleTechnologies.md) — Workflow-customization company used to explain AI workflow triage for asset management, due diligence, fund operations, and portfolio-company transformation.
+- [Oliver](entities/Oliver.md) — Invisible Technologies enterprise-business VP and former McKinsey private-equity consultant explaining PE motives and workflow-first AI adoption.
+- [Blackstone](entities/Blackstone.md) — Financial institution referenced in Anthropic's AI partnership context and used to explain private equity as an AI deployment channel.
+- [McKinsey](entities/McKinsey.md) — Consulting firm mentioned through Oliver's prior private-equity consulting background.
 - [无人知晓](entities/WurenZhixiao.md) — Podcast/show context for the Zhang Xiaoyu, Meng Yan, and Xu Zhe conversation on uncertainty, investing, and life practice.
 - [Zhang Xiaoyu / 张潇雨](entities/ZhangXiaoyu.md) — Speaker who translates black swans, options, and antifragility into public work, relationships, health, and no-better-life reflection.
 - [Meng Yan / 孟岩](entities/MengYan.md) — Speaker who brings tail-risk and antifragility back to ordinary investors through index exposure, cash reserves, and insurance.
@@ -905,6 +912,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Forward Deployed Product Manager](concepts/ForwardDeployedProductManager.md) — Product/customer counterpart to FDE, responsible for agent behavior, quality expectations, requirements, and trust during deployment.
+- [AI Workflow Triage](concepts/AIWorkflowTriage.md) — Workflow decomposition discipline that separates deterministic, AI-suitable, and human-review steps before enterprise AI implementation.
+- [Private Equity AI Transformation](concepts/PrivateEquityAITransformation.md) — PE-led AI adoption pattern where owners use portfolio influence, fund workflows, and signaling needs to push AI deployment.
 - [Black Swan](concepts/BlackSwan.md) — Event outside the prior sample set, used to explain why experience cannot exhaust future possibility.
 - [Fat-Tail Risk](concepts/FatTailRisk.md) — Risk frame where rare extreme dates, companies, health events, relationships, or opportunities dominate long-run outcomes.
 - [Antifragility](concepts/Antifragility.md) — Structure that can gain from randomness, volatility, and uncertainty rather than merely survive them.

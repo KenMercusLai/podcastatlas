@@ -2,7 +2,7 @@
 title: "Business-Led AI Transformation"
 type: concept
 tags: [ai, organizations, transformation]
-sources: [openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou]
+sources: [openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde]
 last_updated: 2026-07-07
 ---
 
@@ -18,6 +18,8 @@ Business-led AI transformation is the claim that enterprise AI adoption must sta
 
 [[e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou]] adds a labor-organization path through [[SiliconCarbonGovernance]]. Instead of asking only which tool to deploy, Bairong asks which roles can be staffed by [[DigitalEmployees]], which humans should train or audit them, and how output, responsibility, and compensation move when work becomes [[ResultAsAService]].
 
+[[e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde]] adds a model-company and PE deployment path. [[Cresta]] shows the operating sequence from customer data and use-case selection to API validation, agent rollout, metric monitoring, and handoff; [[InvisibleTechnologies]] adds [[AIWorkflowTriage]], where deterministic, AI-suitable, and human-review steps are separated before implementation; and [[PrivateEquityAITransformation]] explains why owners may push this work across portfolio companies.
+
 ## Key Claims
 - AI implementation fails when CEOs expect unrealistic capability, when IT teams lead without business ownership, or when organizations add AI without changing incentives and role boundaries.
 - AI is compared to electricity: plugging in the technology is insufficient unless production processes, training, roles, and business forms change around the new productive force.
@@ -31,6 +33,7 @@ Business-led AI transformation is the claim that enterprise AI adoption must sta
 - Employee-built AI prototypes are useful discovery artifacts: they reveal pain points and desired workflows before the organization invests in production engineering.
 - Offline retail adds physical workflow constraints: voice, paper, printers, photos, perishable inventory, and platform ranking rules can matter more than a clean SaaS dashboard.
 - E225 adds that AI transformation becomes hiring and organization design when companies measure silicon-carbon ratios, create AI roles, and retrain human employees into agent trainers or reviewers.
+- E240 adds that transformation can be pushed by model companies and PE owners, but the actual bottleneck remains workflow-level: data readiness, API access, use-case sequencing, deterministic boundaries, and human review.
 
 ## Connections
 - [[RollingAI]] — source company explaining the method.
@@ -43,3 +46,4 @@ Business-led AI transformation is the claim that enterprise AI adoption must sta
 - [[ShengdongHuopo]], [[XuTao]], [[AIHackathons]], and [[AICodingVerification]] — media-company prototype-to-production case added by the Shengdong Jixi crossover.
 - [[OfflineAIImplementation]], [[OperationalDataCapture]], [[AIVisualMerchandising]], and [[LocalLifePlatformDependency]] — flower-shop case where business process determines the AI surface.
 - [[SiliconCarbonGovernance]], [[AIStaffing]], and [[ResultAsAService]] — E225's labor, pricing, and organization-design extension.
+- [[Cresta]], [[InvisibleTechnologies]], [[ForwardDeployedProductManager]], [[AIWorkflowTriage]], and [[PrivateEquityAITransformation]] — E240's deployment, workflow-triage, and PE-ownership extension.

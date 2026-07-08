@@ -1,0 +1,24 @@
+---
+title: "AI Workflow Triage"
+type: concept
+tags: [ai, workflow, enterprise-ai, operations]
+sources: [e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde]
+last_updated: 2026-07-08
+---
+
+# AI Workflow Triage
+
+AI workflow triage is the implementation discipline of decomposing a business process before deciding where AI belongs. In [[e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde]], [[Oliver]] describes [[InvisibleTechnologies]] breaking workflows into steps and deciding which should be deterministic, which can use AI, and which require human review. The concept keeps [[AgenticWorkflow]] grounded in operating reality: not every step benefits from probabilistic generation or agent judgment.
+
+## Key Claims
+- Good AI deployment starts with a workflow map rather than a model demo.
+- Deterministic steps such as account reconciliation or arithmetic should use hard-coded systems, math, or system-of-record data when exactness is required.
+- AI-suitable steps often involve language, search, synthesis, recommendation, customer context, or unstructured document handling.
+- Human-review steps remain important where judgment, permission, accountability, customer trust, or regulatory responsibility cannot be delegated cleanly.
+- The triage frame explains why enterprise AI value can be large even when only part of a workflow is automated: value comes from the redesigned system, not from forcing AI into every step.
+
+## Connections
+- [[InvisibleTechnologies]] and [[Oliver]] — source company and speaker.
+- [[BusinessLedAITransformation]] — organization-level frame that requires workflow diagnosis.
+- [[HumanJudgmentUnderAI]] — responsibility boundary around AI-supported steps.
+- [[AgenticWorkflow]], [[DeterministicAuditData]], and [[AICodingVerification]] — adjacent workflow, evidence, and verification themes.
