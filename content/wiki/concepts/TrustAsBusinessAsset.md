@@ -2,7 +2,7 @@
 title: "Trust As Business Asset"
 type: concept
 tags: [governance, trust, business-model]
-sources: [eric-ries-incorruptible-by-design-wrgromn5peq, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
+sources: [1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, eric-ries-incorruptible-by-design-wrgromn5peq, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
 last_updated: 2026-07-08
 ---
 
@@ -12,6 +12,8 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 
 [[264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]] adds [[Apple]] as a consumer-platform example. The episode argues that [[TimCook]] turned privacy, accessibility, supply-chain responsibility, environmental commitments, and civil-rights positions into accumulated user and stakeholder trust.
 
+[[1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6]] adds the solo-founder version. [[YuYi]] argues that AI pushes society from default trust toward default suspicion because products and content can change or be generated quickly. In that environment, a specific person's public record, relationships, and perceived integrity can become a scarce business asset for [[OnePersonCompany]] builders.
+
 ## Key Claims
 - Trust is not only reputational decoration; it can affect pricing, supplier cooperation, employee commitment, customer loyalty, and regulatory credibility.
 - A trustworthy company can become more tempting to redirect because others want access to the trust it accumulated.
@@ -19,6 +21,7 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 - The concept generalizes [[SaaSTrustMoat]] beyond SaaS into healthcare, retail, consumer brands, finance, and AI companies.
 - Trust can be damaged when [[ShareholderPrimacy]] treats stakeholder confidence as a resource to monetize rather than a responsibility to preserve.
 - The Cook episode adds a dual-use caveat: a values-driven reputation can be both a moral commitment and a durable competitive asset, especially when privacy and accessibility reinforce user loyalty.
+- AI-era solo founders may need trust before scale: users who cannot inspect every generated artifact may rely on public history, relationship context, and personal accountability.
 
 ## Connections
 - [[FinancialGravity]] - pressure that can redirect trust.
@@ -26,3 +29,4 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 - [[StartupGovernance]], [[StewardOwnership]], and [[LongTermBenefitTrust]] - structures for protecting trust.
 - [[HumanFlourishingProfit]] and [[ShareholderPrimacy]] - competing ways to judge business value.
 - [[Apple]], [[TimCook]], [[ValuesAsOperationalAsset]], [[ApplePrivacy]], and [[AppleAccessibility]] - consumer-platform trust branch added by the Cook episode.
+- [[YuYi]], [[BuildingPublic]], and [[OnePersonCompany]] - personal-brand and public-trust branch added by S10E18.

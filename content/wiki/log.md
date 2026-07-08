@@ -768,7 +768,6 @@ Added source page for a 面基 episode on dynamic efficient frontier, asset allo
 
 Ran lint. See lint-report.md for details.
 
-
 ## [2026-07-08] ingest | 266.从红果到AI短剧：谁在革谁的命？
 
 Added source page for a 乱翻书 episode on Hongguo, Douyin, iQIYI, AI short drama, short-drama cost structure, paid-traffic and ad monetization, AI video production workflows, copyright risk, overseas distribution, and long-video platform pressure. Created pages for Hongguo, iQIYI, Gong Yu, Wang Xiaoshu, Xu Wenliang, YouTube, AI Short Drama, Short Drama Economics, AI Video Production Workflow, and Platformized Drama Production; updated overview, index, Luanfanshu, Zhuang Minghao, ByteDance, Douyin, Kuaishou, Seedance, Video Models, AI Interactive Entertainment, AI Content Provenance, AI Super Creators, and AI Content Devaluation. No direct contradiction found; source-provided industry scale, ad-spend, and test-rate claims are recorded as guest observations pending external verification.
@@ -800,6 +799,7 @@ Added source page for a How I Built This Advice Line episode with Ronnen Harary 
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 
 ## [2026-07-08] lint | Wiki health check
 
@@ -1268,6 +1268,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | 1 人公司，扛 5 个人的活，还要管 50 个 Agents？｜S10E18
+
+Added source page for a What's Next｜科技早知道 episode with Yu Yi and Cang Shifu on OPC as an AI-enabled launch mode, agent partner-versus-tool philosophies, skill commercialization, trust, acquisition, compliance, and small teams carrying many agents. Created pages for What's Next｜科技早知道, Yu Yi, Amazon Web Services, and From Idea to Frontier; updated overview, index, Cang Shifu, Code Pilot, Amazon, One-Person Company, Human-Agent Collaboration, AI Use Pacing, Agent Permission Boundaries, AI Skills, Digital Employees, Building Public, Trust As Business Asset, Distribution Led Product Building, AI Commercialization Pressure, and Human Judgment Under AI. No direct contradiction found; the source is more optimistic about solo starts than the earlier Keji Luandun OPC episode, but it reinforces the same boundary that customer acquisition, trust, compliance, finance, and human review remain binding constraints.
 
 ## [2026-07-08] lint | Wiki health check
 

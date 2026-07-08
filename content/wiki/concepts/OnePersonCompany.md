@@ -2,7 +2,7 @@
 title: "One-Person Company"
 type: concept
 tags: [ai, entrepreneurship, company-formation, sales]
-sources: [opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun]
+sources: [1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun]
 last_updated: 2026-07-08
 ---
 
@@ -16,6 +16,8 @@ The legal discussion matters because "one person" does not make company obligati
 
 [[bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun]] adds a compatible but more market-positive overseas angle. [[Win]] argues that small teams should go where users pay for useful products, especially U.S. software and AI-tool markets. The practical synthesis is sequence-sensitive: use [[PaymentLedMarketSelection]] and field visits to find buyer demand, but do not let overseas registration, accounts, or tax setup replace first-customer validation.
 
+[[1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6]] adds a more optimistic but bounded version. [[YuYi]] and [[CangShifu]] agree that AI can let one person run more of the product, content, development, growth, and operations loop, especially for early validation. The episode's boundary is that OPC is better understood as a way to start and prove a minimum business loop: once supply chain, users, compliance, finance, or delivery complexity rises, the realistic form may be a small team where each person brings a set of agents.
+
 ## Key Claims
 - AI-era OPC should not be reduced to company registration; it is a claim about whether one person can run the business loop.
 - A one-person legal structure may still need careful account separation, tax handling, and documentation to preserve the intended liability boundary.
@@ -26,8 +28,11 @@ The legal discussion matters because "one person" does not make company obligati
 - Overseas OPC can look attractive because the same product might command higher prices, but it also raises tax, account, transfer, legal, and compliance complexity.
 - The safest sequence in the source is to validate demand first, then set up the company when a real customer, contract, or payment path requires it.
 - Overseas market choice can be rational for an OPC when [[ProductLedWillingnessToPay]] is materially stronger abroad, but only after the founder understands the buyer and collection path.
+- OPC can be a launch mode rather than a permanent company design: AI helps one person get from 0 to 10, but scaling may require partners, shared infrastructure, and clearer responsibility splits.
+- The S10E18 source adds an agent-management boundary: a solo founder must supervise red-line actions, review output, and prevent parallel agents from creating more attention debt than useful leverage.
 
 ## Connections
+- [[WhatsNextKejiZaozhidao]], [[YuYi]], [[CangShifu]], [[AmazonWebServices]], and [[FromIdeaToFrontier]] — S10E18's show, guest, and accelerator context.
 - [[KejiLuandun]] — source context for the OPC discussion.
 - [[AIEngineeringThinking]] — turning ideas into bounded, testable AI-enabled work.
 - [[VibeCoding]], [[OneShotAICoding]], and [[AICodingVerification]] — build-side capabilities and verification boundaries.
@@ -35,6 +40,7 @@ The legal discussion matters because "one person" does not make company obligati
 - [[DistributionLedProductBuilding]] — channel and sales route as part of product selection.
 - [[AICommercializationPressure]] — broader pressure to turn AI capability into business closure.
 - [[HumanJudgmentUnderAI]] and [[DomainExpertAlignment]] — operator expertise and responsibility that AI does not remove.
+- [[HumanAgentCollaboration]], [[AgentPermissionBoundaries]], and [[AIUsePacing]] — agent-management layer added by S10E18.
 - [[CrossBorderFundTransferRisk]] and [[CapitalAccountInvestmentRestrictions]] — overseas account and money-movement risks raised by the source.
 - [[SoftwarePaymentCulture]], [[AppStore]], [[Apple]], and [[WeChat]] — platform and payment context for whether AI-built apps actually monetize.
 - [[PaymentLedMarketSelection]] — Win source that reframes overseas setup as market discovery and payment-path selection.

@@ -2,7 +2,7 @@
 title: "Amazon"
 type: entity
 tags: [company, ai, cloud, investing, media, security]
-sources: [144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]
+sources: [1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]
 last_updated: 2026-07-08
 ---
 
@@ -22,6 +22,8 @@ Amazon appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfan
 
 [[144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b]] adds Amazon as the early marketplace context for [[AnkerInnovations]]. [[YangMeng]] describes learning that e-commerce difficulty was not only selling, but finding and improving good products for overseas buyers, making Amazon the first channel where Anker's product-selection and quality strategy became visible.
 
+[[1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6]] adds an AWS startup-program angle through [[AmazonWebServices]] and [[FromIdeaToFrontier]]. The episode frames Amazon's cloud arm as a startup-support and infrastructure actor for AI-era [[OnePersonCompany]] founders rather than only as a hyperscaler or marketplace.
+
 ## Connections
 - [[Nvidia]] — supplier whose growth expectations depend on large AI customers.
 - [[Microsoft]] and [[Google]] — peer hyperscalers in the episode's discussion.
@@ -32,3 +34,4 @@ Amazon appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfan
 - [[Alphabet]], [[Meta]], [[Microsoft]], and [[AIBubbleHedging]] — hyperscaler capex cluster added by The Intelligence episode.
 - [[CandidateIdentityFraud]] and [[AIHiringArmsRace]] — remote hiring and applicant-verification risk added by the Dhaka matters episode.
 - [[AnkerInnovations]], [[YangMeng]], and [[ZhaoDongping]] — Amazon-channel origin story added by episode 144.
+- [[AmazonWebServices]], [[FromIdeaToFrontier]], and [[OnePersonCompany]] — AWS accelerator context added by S10E18.

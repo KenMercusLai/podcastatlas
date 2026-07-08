@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [1 人公司，扛 5 个人的活，还要管 50 个 Agents？｜S10E18](sources/1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6.md) — What's Next｜科技早知道 episode with Yu Yi and Cang Shifu on OPC as an AI-enabled launch mode, agent partner-versus-tool philosophies, skill commercialization, trust, acquisition, compliance, and small teams carrying many agents.
 - [171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？](sources/ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1.md) — LateTalk Q2 2026 AI review with Henry Yin on Codex/Claude Code competition, RSI and Auto Research, enterprise-owned models, Chinese open models, Claude Tag, Record and Replay, real-time voice, and MidJourney's medical-imaging turn.
 - [170: 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人](sources/jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1.md) — LateTalk episode with Chen Zhe Peter on Q2 2026 embodied AI, humanoid marathon performance, Figure logistics sorting, dexterous hands, Cosmos 3, Pi 0.7, Generalist Gen 1, world-model/VLA convergence, and robot commercialization.
 - [全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集](sources/quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec.md) — 乱翻书 episode with Xu Hongliang on ByteDance's growth system, LTV budgeting, automated buying, creative material industrialization, risk control, red-packet incentives, TikTok global growth, and AI-era retention limits.
@@ -176,6 +177,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [What's Next｜科技早知道](entities/WhatsNextKejiZaozhidao.md) — Podcast/show context for S10E18's AWS Summit discussion on OPC, agents, solo founders, and AI-augmented small teams.
+- [Yu Yi](entities/YuYi.md) — AI-first practitioner in S10E18 framing agents as partners while keeping red lines around money, deletion, protocol changes, and reputation.
+- [Amazon Web Services](entities/AmazonWebServices.md) — AWS cloud and startup-support context for the From Idea to Frontier OPC accelerator discussed in S10E18.
+- [From Idea to Frontier](entities/FromIdeaToFrontier.md) — AWS accelerator program named in S10E18 as support infrastructure for Chinese-language one-person-company founders.
 - [LateTalk](entities/LateTalk.md) — Podcast/show context for the Q2 2026 embodied-intelligence review with Chen Zhe Peter.
 - [Henry Yin](entities/HenryYin.md) — MOE Capital founding partner and LateTalk Q2 2026 AI-review guest connecting coding, RSI, enterprise models, open models, and AI commercialization.
 - [MOE Capital](entities/MOECapital.md) — Investment-firm context for Henry Yin's Q2 2026 AI review on model-company competition and RSI.

@@ -2,7 +2,7 @@
 title: "Human-Agent Collaboration"
 type: concept
 tags: [agents, collaboration, product-design]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
+sources: [1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
 last_updated: 2026-07-08
 ---
 
@@ -28,6 +28,8 @@ Human-agent collaboration is the product-design problem at the center of [[renle
 
 [[141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]] adds the human-relationship boundary through [[HumanConnectionUnderAI]]. [[Freda]] argues that as AI becomes better at information search, summarization, and public-knowledge exchange, people may become less willing to schedule meetings for information alone. The remaining value of conversation shifts toward sincerity, emotional connection, shared uncertainty, and understanding another person's path.
 
+[[1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6]] adds a useful contrast inside the collaboration concept. [[YuYi]] wants agents to become more like partners or organizational members: they should accumulate experience, challenge his view, and optimize for the consumer rather than simply obey him. [[CangShifu]] takes the opposite operating posture: agents should remain tools and workflow components whose autonomy is bounded by review cadence, product principles, content principles, and aesthetic standards.
+
 ## Key Claims
 - The collaboration target is a moving one because every new product reveals new expectations and pain points.
 - Users should not have to repeatedly dump files, emails, and personal context into a chat box.
@@ -43,6 +45,7 @@ Human-agent collaboration is the product-design problem at the center of [[renle
 - Good collaboration can require the agent to slow down and ask follow-up questions, because immediate execution of an underspecified request may transfer too much choice and risk from the user to the model.
 - Social collaboration introduces another handoff problem: the agent may initiate or filter interactions, but humans still need control over authenticity, consent, and relationship boundaries.
 - Human-agent collaboration should not be evaluated only by how much information is exchanged; AI may make emotional and relational value more visible by automating informational talk.
+- The partner/tool distinction creates different product requirements: partner-like agents need memory, values, pushback, and onboarding, while tool-like agents need state inspection, deterministic handoffs, review points, and permission controls.
 
 ## Connections
 - [[AgenticWorkflow]] — practical workflow pattern that human-agent collaboration extends.
@@ -58,3 +61,4 @@ Human-agent collaboration is the product-design problem at the center of [[renle
 - [[ProbabilisticSoftware]], [[AISkills]], and [[HumanJudgmentUnderAI]] — Keji Luandun's agent-management frame.
 - [[Elys]], [[AISocialNetworks]], [[CyberAvatars]], and [[SubjectivityAsAIAsset]] — social-network collaboration case added by episode 135.
 - [[HumanConnectionUnderAI]], [[LanguageUserInterface]], and [[HumanAgencyUnderAI]] — episode 141's boundary between information exchange and human connection.
+- [[YuYi]], [[CangShifu]], [[OnePersonCompany]], and [[AIUsePacing]] — S10E18's partner-versus-tool contrast and solo-founder operating context.
