@@ -2,7 +2,7 @@
 title: "European Union"
 type: entity
 tags: [institution, europe, politics]
-sources: [keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
+sources: [keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
 last_updated: 2026-07-09
 ---
 
@@ -16,6 +16,8 @@ The European Union appears in [[biancheng-de-neiranji-shidai-neihe-konghuang-71-
 
 [[keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b]] adds the EU as the institution the [[UnitedKingdom]] left through [[Brexit]]. The episode's EU frame is double-edged: leaving created some room for [[BrexitRegulatoryDividend]], but also produced [[BrexitEconomicFriction]] because exporters, importers, investors, finance, professional qualifications, and EU-facing AI firms still have to navigate the European market.
 
+[[fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]] uses Europe as a regional heat-and-energy case, with the EU page serving as the closest existing regional anchor. The episode argues that hotter summers and cleaner electricity make [[CoolingAsPublicHealth]] part of [[ClimateAdaptation]], even though power prices, grid mix, and household behavior differ sharply across European countries.
+
 ## Source Position
 - The hosts argue that Europe faces a fragmented language and political structure compared with the U.S. and China.
 - They speculate that better [[AITranslation]] could reduce some language friction inside the EU, though the idea is treated partly as a joke and partly as a serious coordination thought experiment.
@@ -23,6 +25,7 @@ The European Union appears in [[biancheng-de-neiranji-shidai-neihe-konghuang-71-
 - The Keji Luandun export-control source uses EU feature restrictions as part of a broader [[FrontierModelAccessRestrictions]] and regional-compliance frame.
 - The Cook episode uses GDPR as a regulatory backdrop for Apple's privacy positioning against the data-industrial complex.
 - The Brexit source uses EU exit to show that regulatory sovereignty can create room for experimentation while also adding trade and compliance barriers.
+- The Fear-jerker source treats Europe as an uneven but improving energy system where cooling access can become a health adaptation rather than only a moralized consumption choice.
 
 ## Connections
 - [[AITranslation]] - possible reducer of language friction across European markets.
@@ -32,3 +35,4 @@ The European Union appears in [[biancheng-de-neiranji-shidai-neihe-konghuang-71-
 - [[Apple]], [[FrontierModelAccessRestrictions]], and [[SaaSReliabilityUnderPolicyRisk]] - regional AI availability context added by the Keji Luandun export-control episode.
 - [[ApplePrivacy]], [[TimCook]], and [[PlatformDataRegulation]] - GDPR and privacy-regulation context added by the Cook episode.
 - [[Brexit]], [[UnitedKingdom]], [[BrexitEconomicFriction]], and [[BrexitRegulatoryDividend]] - post-exit trade and policy-freedom context.
+- [[CoolingAsPublicHealth]] and [[ClimateAdaptation]] - heat, electricity, and public-health branch added by The Intelligence.

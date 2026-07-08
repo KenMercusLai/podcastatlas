@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-09] ingest | Fear-jerker: America's AI backlash
+
+Added source page for a The Intelligence episode on U.S. AI backlash politics, data-center opposition, Chinese divorce restrictions, and European air conditioning as public-health climate adaptation. Created pages for Josh Hawley, AI Backlash Politics, Data Center Backlash, China Divorce Restrictions, Marriage Exit Friction, and Cooling As Public Health; updated The Intelligence, Economist Podcasts, United States, China, European Union, Donald Trump, American Democratic Resilience, AI Commercialization Pressure, AI Compute Continuity, Climate Adaptation, overview, and index. No direct contradiction found; the source adds a useful tension to AI acceleration and infrastructure pages by making public fear, local siting, and legitimacy constraints first-order issues.
+
 ## [2026-07-09] ingest | Trailer: Tocqueville Road Trip
 
 Added source page for the `theintelligencepodcast` Acast-feed copy of the Economist Podcasts trailer introducing John Prideaux's Tocqueville Road Trip, which retraces Alexis de Tocqueville's 1831 U.S. journey and uses Democracy in America to ask whether the United States still functions as a democratic idea. Updated Economist Podcasts, Tocqueville Road Trip, Alexis de Tocqueville, John Prideaux, Democracy in America, America as Idea, American Democratic Resilience, United States, overview, and index. No direct contradiction found; the source duplicates existing Tocqueville Road Trip trailer pages under another source URL and reinforces the America-at-250 historical comparison.
@@ -1512,6 +1516,10 @@ Ran lint after health passed. Deterministic checks found three orphan pages (`wi
 ## [2026-07-09] ingest | 141. 咖啡战争2026：机构化与本土化
 
 Added source page for a 疯投圈 episode on China's coffee market entering an institution-led and locally operated phase, with Starbucks China, Luckin, Blue Bottle, % Arabica, Peet's, Tim's China, Mixue, and Guming used to explain coffee-chain ownership, premium-versus-daily brand tension, and tea/coffee category convergence. Created pages for Luckin Coffee, Blue Bottle Coffee, Boyu Capital, Centurium Capital, Hillhouse Capital, PAG, % Arabica, Peet's Coffee, Tim's China, Guming, Nestle, Coffee Chain Institutionalization, Coffee Chain Localization, Premium-Everyday Brand Tension, and Beverage Category Convergence; updated overview, index, 疯投圈, Starbucks, Mixue Bingcheng, Global Product Localization, Franchise-Led Consumer Chain Expansion, Experiential Retail, Consumer Brand Moat, and Low Price Brand Perception. No direct contradiction found; the source qualifies the existing lifestyle coffee and experiential retail branches by tying coffee prices and premium mood to institutional ownership, local operating speed, and tea-drink chain competition.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-09] lint | Wiki health check
 

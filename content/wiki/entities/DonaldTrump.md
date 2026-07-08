@@ -2,7 +2,7 @@
 title: "Donald Trump"
 type: entity
 tags: [person, politics, macro, investing]
-sources: [latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
+sources: [latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
 last_updated: 2026-07-09
 ---
 
@@ -26,6 +26,8 @@ Donald Trump appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-
 
 [[latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d]] adds Trump to a Latin American investment frame. The episode's [[DonroeDoctrine]] shorthand describes how his second-term pressure, trade disruption, and near-abroad influence push can unsettle neighbors while also helping redirect capital toward [[LatinAmerica]], especially where [[UnitedStates]] and [[China]] compete over minerals and infrastructure.
 
+[[fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]] adds Trump as part of the U.S. AI backlash frame. The episode says progressive criticism of AI often links billionaires and technology leaders to Trump-era power, while conservative critics can also distrust California's tech elite, making [[AIBacklashPolitics]] cross-partisan without becoming ideologically identical.
+
 ## Source Position
 - The source treats Trump less as a biography subject and more as a market-policy variable.
 - [[LaoMai]] argues that this term differs from Trump's earlier term because the inherited environment includes higher debt, inflation pressure, and stretched equity valuation.
@@ -40,6 +42,7 @@ Donald Trump appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-
 - The Cook episode treats Trump as a test of business pragmatism versus moral boundaries: private commercial negotiation does not prevent public disagreement when employees and civil rights are at stake.
 - The Starmergeddon source treats Trump as an external endorsement and anti-gang alignment point for Colombia's rightward security turn.
 - The Latin lessons source treats Trump as an investment-geopolitics catalyst whose pressure can drive capital attention toward Latin America without reducing political uncertainty.
+- The Fear-jerker source treats Trump as part of the symbolic political environment around AI elites, billionaire power, and public distrust.
 
 ## Connections
 - [[FederalReserve]] and [[JeromePowell]] — policy actors whose communication and rate path are framed as interacting with Trump-era fiscal and tariff pressure.
@@ -54,3 +57,4 @@ Donald Trump appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-
 - [[TimCook]], [[Apple]], and [[ValuesAsOperationalAsset]] — tariff and DACA context added by the Cook episode.
 - [[Colombia]], [[AbelardoDeLaEspriella]], [[SecurityBacklashPolitics]], and [[LatinAmericaRightwardShift]] — security-election branch added by The Intelligence.
 - [[LatinAmerica]], [[DonroeDoctrine]], [[LatinAmericaInvestmentBoom]], [[China]], and [[CriticalMineralsGeopolitics]] — investment and strategic-minerals branch added by The Intelligence.
+- [[AIBacklashPolitics]], [[JoshHawley]], and [[UnitedStates]] — U.S. AI-regulation and public-fear branch added by The Intelligence.

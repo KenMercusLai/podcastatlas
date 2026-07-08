@@ -2,7 +2,7 @@
 title: "Climate Adaptation"
 type: concept
 tags: [climate, resilience, governance]
-sources: [missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, indy-johar-civilizational-optioneering-tyeyt7r-zfu]
+sources: [missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, indy-johar-civilizational-optioneering-tyeyt7r-zfu, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
 last_updated: 2026-07-08
 ---
 
@@ -14,11 +14,14 @@ The source's contribution is to connect climate adaptation to [[CivilizationalOp
 
 [[missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3]] adds a near-term shock case through [[ElNinoClimateRisk]]. The episode frames a potentially strong [[ElNino]] as more dangerous because it arrives on top of global warming and existing food insecurity, making drought-tolerant seeds, fodder storage, and water supplies practical adaptation measures.
 
+[[fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]] adds household cooling as an adaptation case. The Europe segment argues that [[CoolingAsPublicHealth]] becomes more compelling as heat deaths rise and electricity grids add lower-carbon power, though affordability, grid mix, efficiency, and demand management still matter.
+
 ## Key Claims
 - Adaptation should begin where risk is legible, politics can hold, and talent can orchestrate.
 - Heat, water, food, energy, and infrastructure risks are social-contract issues as much as technical issues.
 - Single-product or single-agency responses are too narrow for cascading climate risks.
 - Climate-cycle preparation depends on budgets and institutional capacity, not only early warning.
+- Cooling access can be climate adaptation when heat risk is high and electricity is decarbonizing, but it still depends on pricing, efficiency, and grid planning.
 
 ## Connections
 - [[SystemicDegenerativeVolatility]] — climate risk as part of a wider cascade.
@@ -26,3 +29,4 @@ The source's contribution is to connect climate adaptation to [[CivilizationalOp
 - [[OutcomeAccelerators]] and [[Existutions]] — coordination forms for city cooling, glacier stability, and other shared outcomes.
 - [[BioregionalResilience]] — regenerative adaptation path.
 - [[ElNino]] and [[ElNinoClimateRisk]] — climate-cycle shock and preparation frame from The Intelligence.
+- [[CoolingAsPublicHealth]] — air-conditioning and household cooling branch added by The Intelligence.

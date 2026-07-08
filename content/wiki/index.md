@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Fear-jerker: America's AI backlash](sources/fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd.md) — The Intelligence episode on U.S. AI backlash politics, data-center opposition, Chinese divorce restrictions, and European air conditioning as public-health climate adaptation.
 - [Trailer: Tocqueville Road Trip](sources/trailer-tocqueville-road-trip-6a315920101389aa3d42d134.md) — Economist Podcasts trailer from The Intelligence Acast feed, duplicating the Tocqueville Road Trip setup around Alexis de Tocqueville, Democracy in America, and America as a democratic idea.
 - [138. 昂跑中国重直营、超级猩猩不办卡](sources/138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1.md) — 疯投圈 episode on On Running's China DTC push, premium sports circle brands, Nike/HOKA channel spillovers, SuperMonkey's pay-per-class fitness model, and service-brand scaling constraints.
 - [139. 泡泡玛特和拼多多值得投资么？](sources/139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1.md) — 疯投圈 episode with ICE on Pop Mart, Labubu concentration, Pinduoduo valuation, Temu catalysts, good-company-versus-good-stock thinking, AI-compressed investment research, and active stock-picking suitability.
@@ -206,6 +207,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Josh Hawley](entities/JoshHawley.md) — U.S. senator used by The Intelligence as a conservative example of cross-partisan AI anxiety around children, chatbots, and tech elites.
 - [SuperMonkey / 超级猩猩](entities/SuperMonkey.md) — Chinese group-fitness brand framed through pay-per-class retention, instructor-led atmosphere, and city-by-city service scaling.
 - [Lululemon](entities/Lululemon.md) — Premium athletic-apparel brand used as the comparator for On Running's shoe-to-apparel trust extension and DTC-heavy circle-brand strategy.
 - [Alo Yoga](entities/AloYoga.md) — Premium athletic-apparel brand used as a marketing-and-scarcity case where identity pull may outrun product proof.
@@ -1173,6 +1175,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Backlash Politics](concepts/AIBacklashPolitics.md) — Electoral and regulatory politics formed by public anxiety about AI jobs, children, mental health, tech power, and speed of change.
+- [Data Center Backlash](concepts/DataCenterBacklash.md) — Local and political opposition to AI data centers over noise, power demand, building scale, and the symbolism of rapid technological change.
+- [China Divorce Restrictions](concepts/ChinaDivorceRestrictions.md) — Legal, administrative, property, and censorship barriers to divorce in China, framed against population policy and women's exit costs.
+- [Marriage Exit Friction](concepts/MarriageExitFriction.md) — Policy-design problem where making divorce harder can reduce reported exits while discouraging marriage entry or trapping unhappy spouses.
+- [Cooling As Public Health](concepts/CoolingAsPublicHealth.md) — Climate-adaptation frame treating air conditioning and household cooling as heat-health infrastructure when grids decarbonize.
 - [Direct-to-Consumer Brand Control](concepts/DirectToConsumerBrandControl.md) — Owned-channel strategy used to protect premium price, experience, assortment, and customer relationship rather than only to collect cash faster.
 - [Pay-Per-Class Fitness Model](concepts/PayPerClassFitnessModel.md) — Fitness-service model where users buy individual classes and retention replaces prepaid gym-card lock-in.
 - [Service Brand Standardization](concepts/ServiceBrandStandardization.md) — Operating problem of making human-delivered services feel reliably branded across staff, locations, and cities.

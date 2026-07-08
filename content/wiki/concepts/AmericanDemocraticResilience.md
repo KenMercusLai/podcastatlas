@@ -2,7 +2,7 @@
 title: "American Democratic Resilience"
 type: concept
 tags: [politics, democracy, institutions]
-sources: [gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c, trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7, trailer-tocqueville-road-trip-6a315920101389aa3d42d134, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad]
+sources: [gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c, trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7, trailer-tocqueville-road-trip-6a315920101389aa3d42d134, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
 last_updated: 2026-07-09
 ---
 
@@ -14,6 +14,8 @@ American democratic resilience is the episode's question of whether the [[United
 
 [[gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6]] extends the timeline through the 2007-08 financial crisis, [[BarackObama]]'s election and backlash, Sandy Hook, [[DonaldTrump]]'s rise, the pandemic, January 6th, Joe Biden's presidency, and Trump's return. Its contribution is cumulative stress: even dramatic shocks do not automatically produce reform, and repeated conflicts over race, guns, sex, executive power, and trust keep the republic under strain.
 
+[[fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]] adds AI to that civic stress list. The episode's [[AIBacklashPolitics]] frame says public fear of job loss, child-chatbot relationships, data centers, tech-billionaire power, and rapid technological change can cut across normal party lines, making AI governance another test of whether U.S. institutions can convert anxiety into legitimate policy.
+
 The concept is deliberately mixed. Resilience does not mean the system is healthy; it means courts, elections, culture, local institutions, historical memory, journalism, and civil society may still be able to resist or correct damage. The source's open question is whether those renewal mechanisms remain strong enough when [[ExecutivePowerPrecedent]] and partisan incentives make the next overreach easier.
 
 ## Key Claims
@@ -24,11 +26,13 @@ The concept is deliberately mixed. Resilience does not mean the system is health
 - Cultural memory and civic institutions matter because official historical narratives can be contested outside Washington.
 - Gun-politics stalemate after Sandy Hook is another resilience test: national trauma does not necessarily become national reform.
 - The Obama-to-Trump sequence shows that hope, backlash, crisis, and executive-power pressure can compound rather than resolve cleanly.
+- AI backlash adds a newer resilience test: democratic politics has to handle both real technological risk and generalized fear without reducing governance to donor fights or panic.
 
 ## Connections
 - [[UnitedStates]], [[SupremeCourt]], [[RobertGuest]], [[DanielKnowles]], and [[RebeccaJackson]] - source actors and institutional frame.
 - [[AlexisDeTocqueville]], [[DemocracyInAmerica]], [[TocquevilleRoadTrip]], and [[AmericaAsIdea]] - Tocquevillean frame added by the trailer.
 - [[BarackObama]] and [[DonaldTrump]] - political sequence added by the Gulf-co-operation episode.
+- [[AIBacklashPolitics]], [[DataCenterBacklash]], and [[JoshHawley]] - AI governance and public-fear branch added by The Intelligence.
 - [[ExecutivePowerPrecedent]] - risk to resilience.
 - [[HistoricalMemoryContest]] - memory and civic-education branch.
 - [[DemocraticTransitionElection]], [[ElectoralMandate]], and [[PublicServiceJournalism]] - adjacent democracy concepts already in the wiki.
