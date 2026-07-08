@@ -2,7 +2,7 @@
 title: "Vision Language Action Models"
 type: concept
 tags: [robotics, embodied-ai, models]
-sources: [na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]
+sources: [jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]
 last_updated: 2026-07-08
 ---
 
@@ -18,6 +18,8 @@ Vision language action models, or VLA models, are robot models discussed in [[na
 
 [[134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]] adds [[XieChen]]'s data-demand view. He says large-model teams with VLA groups often have more compute and reinforcement-learning infrastructure than robot startups, but still need [[EmbodiedDataPyramid]], [[RoboticsSimulationEvaluation]], and [[DataRecipeCoCreation]] to test whether VLA capability is really improving.
 
+[[jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1]] adds a route-convergence update. [[ChenZhePeter]] says VLA models are strong at instruction and action generation, while [[WorldModels]] improve prediction of future state; Physical Intelligence's Pi 0.7 is used as an example of VLA augmented with lightweight future-image prediction. The source also uses [[Generalist]] to show that some robot-model companies deliberately avoid the VLA label, even when their work remains adjacent to VLA and real interaction data.
+
 ## Limitation
 [[HuangBiwei]] argues that VLA generalization is constrained because the action side is a continuous space. Demonstration data can cover many examples, but cannot exhaustively cover all physical states, object conditions, and action variations a robot may encounter.
 
@@ -30,3 +32,4 @@ Vision language action models, or VLA models, are robot models discussed in [[na
 - [[WeilaiBuyuan]], [[F2HomeRobot]], and [[HouseholdRobotDataFlywheel]] — home-service robot deployment case where VLA remains a practical but unfinished route.
 - [[Xinghaitu]], [[GaoJiyang]], [[RealRobotDataStrategy]], and [[ProductionRobotScenarioSelection]] — production-robot case where VLA is paired with instruction decomposition and real-scene data.
 - [[XieChen]], [[GuanglunIntelligence]], [[EmbodiedDataPyramid]], and [[RoboticsSimulationEvaluation]] — data and evaluation infrastructure for VLA progress.
+- [[WorldModelVLAFusion]], [[PhysicalIntelligence]], and [[Generalist]] — Q2 2026 examples where VLA becomes harder to separate from world-model and interaction-data routes.

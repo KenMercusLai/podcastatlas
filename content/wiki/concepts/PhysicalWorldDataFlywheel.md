@@ -2,7 +2,7 @@
 title: "Physical World Data Flywheel"
 type: concept
 tags: [robotics, data, embodied-ai]
-sources: [132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc]
+sources: [jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc]
 last_updated: 2026-07-08
 ---
 
@@ -14,12 +14,15 @@ Physical world data flywheel is [[GaoJiyang]]'s central moat argument for [[Xing
 
 [[143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc]] adds [[XPeng]]'s cost and governance version. [[HeXiaopeng]] says physical-AI data and training create large direct costs, so the flywheel requires deciding which data is valuable, temporarily useful, or urgent enough to process quickly rather than simply collecting everything.
 
+[[jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1]] adds a live industrial-data version through [[RobotLogisticsSorting]] and [[RobotTeleoperationAndRemoteTakeover]]. Logistics scenes create repeated contact with messy packages, while teleoperation and remote correction can supply training traces and operational fallback before full autonomy is reliable.
+
 ## Key Claims
 - A robot body is not only a carrier for algorithms; it is the data-collection endpoint and the commercial good being sold.
 - The data flywheel cannot be built purely from a detached "brain" if the company does not control enough of the robot, deployment, and customer loop.
 - The loop depends on scenario access, collection cost, data quality, model training, post-training tools, and repeated customer use.
 - It overlaps with [[HouseholdRobotDataFlywheel]], but the Xinghaitu source applies the idea to developer and production scenarios rather than only family homes.
 - In [[PhysicalAI]], data value has to be judged across cars, [[XPengIron]], and [[XPengGX]], where safety and model improvement depend on physical-world edge cases.
+- A practical flywheel may begin with bounded industrial scenes and supervised operation rather than with unsupervised fully autonomous robots.
 
 ## Connections
 - [[Xinghaitu]] and [[GaoJiyang]] — source company and founder.
@@ -29,3 +32,4 @@ Physical world data flywheel is [[GaoJiyang]]'s central moat argument for [[Xing
 - [[HouseholdRobotDataFlywheel]] — related home-robotics concept from [[WeilaiBuyuan]].
 - [[DataEngineLearningLoop]], [[EmbodiedDataPyramid]], and [[RoboticsSimulationEvaluation]] — simulation-centered substitutes or complements when physical fleets are too small.
 - [[XPeng]], [[HeXiaopeng]], [[PhysicalAI]], [[XPengIron]], and [[XPengGX]] — car-and-robot data-cost governance added by episode 143.
+- [[RobotLogisticsSorting]], [[RobotTeleoperationAndRemoteTakeover]], [[FigureAI]], and [[XingdongEra]] — industrial scene and supervision loop added by the LateTalk source.

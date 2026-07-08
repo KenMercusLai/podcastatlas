@@ -1240,3 +1240,11 @@ Added source page for a 乱翻书 ByteDance-series episode with Xu Hongliang on 
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | 170: 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人
+
+Added source page for a LateTalk episode with Chen Zhe Peter on Q2 2026 embodied AI: humanoid marathon performance, Figure logistics sorting, dexterous hands, Cosmos 3, Pi 0.7, Generalist Gen 1, world-model/VLA convergence, robot teleoperation, and commercialization pressure. Created pages for LateTalk, Chen Zhe Peter, AlphaEast, Figure AI, Xingdong Era, Physical Intelligence, Generalist, Genesis Robotics, Honor, Cosmos 3, 5G Robotics, World Model VLA Fusion, Robot Logistics Sorting, Dexterous Manipulation, Robot Teleoperation and Remote Takeover, Humanoid Robot Marathon, and Embodied Robot Data Paradigms; updated overview, index, World Models, Vision Language Action Models, World Action Models, Embodied AI, Physical AI, Humanoid Robot Commercialization, Production Robot Scenario Selection, Real Robot Data Strategy, Embodied Data Pyramid, Physical World Data Flywheel, Embodied AI Value Chain, Nvidia, OpenAI, Google DeepMind, Tesla, and Unitree Robotics. No direct contradiction found; the source creates a productive tension with causal-world-model framing while treating Figure's claimed autonomy as unresolved unless later corroborated.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

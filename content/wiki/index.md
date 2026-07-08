@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [170: 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人](sources/jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1.md) — LateTalk episode with Chen Zhe Peter on Q2 2026 embodied AI, humanoid marathon performance, Figure logistics sorting, dexterous hands, Cosmos 3, Pi 0.7, Generalist Gen 1, world-model/VLA convergence, and robot commercialization.
 - [全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集](sources/quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec.md) — 乱翻书 episode with Xu Hongliang on ByteDance's growth system, LTV budgeting, automated buying, creative material industrialization, risk control, red-packet incentives, TikTok global growth, and AI-era retention limits.
 - [头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集](sources/touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d.md) — 乱翻书 episode on the 2018 Touteng War and ByteDance/Tencent competition across information feeds, short video, ads, social, games, IP, and AI.
 - [266.从红果到AI短剧：谁在革谁的命？](sources/266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob.md) — 乱翻书 episode on Hongguo, Douyin, iQIYI, AI short dramas, single-minute production cost, paid-traffic economics, creator workflows, copyright risk, and long-video platform pressure.
@@ -172,6 +173,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [LateTalk](entities/LateTalk.md) — Podcast/show context for the Q2 2026 embodied-intelligence review with Chen Zhe Peter.
+- [Chen Zhe Peter](entities/ChenZhePeter.md) — AlphaEast investor interpreting Q2 2026 humanoid robots, dexterous hands, world models, VLA routes, and robot commercialization.
+- [AlphaEast](entities/AlphaEast.md) — Investment-firm context for Chen Zhe Peter's embodied-AI market analysis.
+- [Figure AI](entities/FigureAI.md) — Humanoid-robot company discussed through its long logistics-sorting livestream and unresolved autonomy/teleoperation debate.
+- [Xingdong Era](entities/XingdongEra.md) — Chinese humanoid-robot company discussed through logistics sorting tests with postal and express-delivery scenarios.
+- [Physical Intelligence](entities/PhysicalIntelligence.md) — Robotics model company discussed through Pi 0.7 and VLA plus lightweight world-model fusion.
+- [Generalist](entities/Generalist.md) — Robotics model company discussed through Gen 1, physical-interaction data, and resistance to VLA/world-model labels.
+- [Genesis Robotics](entities/GenesisRobotics.md) — Robotics company discussed through dexterous-manipulation demos and large data-collection claims.
+- [Honor](entities/Honor.md) — Consumer-electronics company whose robot division appears through humanoid marathon wins and hardware-system capability.
+- [Cosmos 3](entities/Cosmos3.md) — Nvidia omni-world-model product used as the episode's Q2 2026 world-model benchmark.
+- [5G Robotics](entities/FiveGRobotics.md) — Dexterous-hand company discussed as possible low-cost, reliable manipulation-hardware infrastructure.
 - [徐鸿亮 / Tom](entities/XuHongliang.md) — ByteDance growth and internationalization guest explaining TikTok growth, LTV budgeting, automated buying, material systems, risk control, and AI retention limits.
 - [番茄小说 / Fanqie Novel](entities/FanqieNovel.md) — ByteDance free-reading product used as a growth-transfer case from Toutiao channels toward Hongguo and short-form content.
 - [汽水音乐 / Qishui Music](entities/QishuiMusic.md) — ByteDance music product whose growth uses Douyin account, BGM, viral-song, and interest signals.
@@ -1000,6 +1012,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [World Model VLA Fusion](concepts/WorldModelVLAFusion.md) — Robot-model route where world models supply future-state prediction and VLA-style systems supply instruction/action generation.
+- [Robot Logistics Sorting](concepts/RobotLogisticsSorting.md) — Early humanoid-robot commercialization wedge around package flipping, label exposure, soft packages, and industrial tail cases.
+- [Dexterous Manipulation](concepts/DexterousManipulation.md) — High-DOF hands, deformable-object handling, retargeting, sensors, and hand-specific data as a robotics bottleneck.
+- [Robot Teleoperation and Remote Takeover](concepts/RobotTeleoperationAndRemoteTakeover.md) — Teleoperation as both robot-training data source and industrial supervision/fallback pattern.
+- [Humanoid Robot Marathon](concepts/HumanoidRobotMarathon.md) — Stress-test frame for biped robot motors, cooling, navigation, reliability, and large-company system engineering.
+- [Embodied Robot Data Paradigms](concepts/EmbodiedRobotDataParadigms.md) — Shift from Aloha-style teleoperation toward UMI, egocentric video, motion capture, and dexterous-hand data.
 - [ByteDance Growth System](concepts/ByteDanceGrowthSystem.md) — Company-level growth capability combining growth BP, LTV models, automated buying, creative material, risk control, internal traffic, and localization.
 - [LTV-Based Growth Budgeting](concepts/LTVBasedGrowthBudgeting.md) — Growth budgeting method that uses long-horizon user value, Ry1/Ry2/Ry3 cost layers, and retention assumptions to justify acquisition spend.
 - [Automated Performance Marketing](concepts/AutomatedPerformanceMarketing.md) — Codifying bidding, budget, placement, campaign structure, and optimization rules into systems rather than relying only on human media buyers.

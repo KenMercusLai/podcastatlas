@@ -2,7 +2,7 @@
 title: "Embodied AI"
 type: concept
 tags: [robotics, physical-ai, investment]
-sources: [144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc]
+sources: [jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc]
 last_updated: 2026-07-08
 ---
 
@@ -26,6 +26,8 @@ Embodied AI refers to physical AI, robotics, and systems that act in real-world 
 
 [[144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b]] adds [[AnkerInnovations]] as a consumer-electronics route into embodied intelligence. [[YangMeng]] places current work in staged robotics: flat-ground robots such as cleaners and mowers, then three-dimensional interaction robots such as a security "watchdog," and only later humanoids when technical route, leader, and organization are ready.
 
+[[jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1]] adds a quarterly industry-map view through [[LateTalk]] and [[ChenZhePeter]]. The source ties [[HumanoidRobotMarathon]], [[RobotLogisticsSorting]], [[DexterousManipulation]], [[EmbodiedRobotDataParadigms]], and [[WorldModelVLAFusion]] into one embodied-AI competition: reliable robot bodies, affordable hands, real industrial scenes, model route, data collection, and foundation-lab entry all shape who controls the robot brain and business layer.
+
 ## Commercialization Mentioned
 - Robot performances and rentals.
 - Data collection.
@@ -40,6 +42,7 @@ Embodied AI refers to physical AI, robotics, and systems that act in real-world 
 - Simulation, evaluation, and data-engine companies such as [[GuanglunIntelligence]], where value depends on physically meaningful environments, recipe discovery, and model-team co-iteration.
 - Vehicle and humanoid systems such as [[XPengGX]] and [[XPengIron]], where value depends on full-stack physical AI, lower-bound safety, motion control, manufacturing reliability, and public trust.
 - Household security robots such as Anker's proposed [[HouseholdSecurityRobots]], where value depends on closing the loop from detection to response in a trusted home-security context.
+- Logistics sorting, dexterous manipulation, and humanoid stress-test events where companies such as [[FigureAI]], [[XingdongEra]], [[Honor]], [[FiveGRobotics]], and [[GenesisRobotics]] try to turn demos into data and customer proof.
 
 ## Connections
 - [[WorldModels]] — model direction tied to physical reasoning and robot capability.
@@ -58,3 +61,4 @@ Embodied AI refers to physical AI, robotics, and systems that act in real-world 
 - [[XieChen]], [[GuanglunIntelligence]], [[EmbodiedDataPyramid]], [[RoboticsSimulationEvaluation]], [[DataEngineLearningLoop]], and [[DataRecipeCoCreation]] — data-infrastructure and simulation-centered route added by episode 134.
 - [[HeXiaopeng]], [[XPeng]], [[PhysicalAI]], [[XPengIron]], [[XPengGX]], and [[StitchedAIArchitecture]] — car-plus-humanoid physical-AI route added by episode 143.
 - [[AnkerInnovations]], [[YangMeng]], [[HouseholdSecurityRobots]], [[OnDeviceModelHierarchy]], and [[TrueSmartHome]] — consumer-electronics and smart-home route added by episode 144.
+- [[LateTalk]], [[ChenZhePeter]], [[RobotLogisticsSorting]], [[DexterousManipulation]], [[EmbodiedRobotDataParadigms]], and [[WorldModelVLAFusion]] — Q2 2026 embodied-intelligence review added by the LateTalk source.
