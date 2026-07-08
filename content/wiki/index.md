@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Fault lines: Venezuela's paltry earthquake response](sources/fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b.md) — The Intelligence episode on Venezuela's earthquake response, state decay, U.S. recovery responsibility, delayed democratic-transition risk, sidewalk delivery-robot economics, and Harlan Coben as a Netflix thriller brand.
 - [Vol.263 郎的诱惑](sources/vol-263-lang-de-youhuo-998128018.md) — 商业就是这样 episode on Sushiro's China popularity, conveyor-belt sushi, seafood supply localization, RFID-backed standardization, mall rollout, and the limits of queue-driven restaurant hype.
 - [从会跳舞到有感知，触觉是机器人通往智能的门票吗？｜ S10E19](sources/cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53.md) — What's Next｜科技早知道 episode with Eric Li Zhiqiang on tactile sensing, optical tactile routes, TouchNet, VTLA-style model integration, real/simulation data, industrial manipulation, and touch as physical-world infrastructure for embodied AI.
 - [商业小样44 | 世界杯扩军与FIFA的权力斗争](sources/shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969.md) — 商业就是这样 episode on the 2026 FIFA World Cup expansion, FIFA revenue, U.S. host-market upside, ticketing/resale economics, and Infantino's governance coalition.
@@ -183,6 +184,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Venezuela](entities/Venezuela.md) — Country case where earthquake response exposes state-capacity decay, public anger, U.S. recovery responsibility, and transition-timetable risk.
+- [Delcy Rodriguez](entities/DelcyRodriguez.md) — Venezuelan regime figure whose aid-distribution role becomes a legitimacy test after the earthquakes.
+- [Maria Corina Machado](entities/MariaCorinaMachado.md) — Venezuelan opposition leader whose attempted return could complicate the Rodriguez-led transition arrangement.
+- [Haley Salmon](entities/HaleySalmon.md) — The Intelligence correspondent explaining Venezuela's first-48-hours rescue failure and public anger.
+- [Starship Technologies](entities/StarshipTechnologies.md) — Sidewalk-delivery-robot company used to examine low-speed autonomy and unit economics.
+- [Harlan Coben](entities/HarlanCoben.md) — Thriller author whose name functions as a recurring Netflix streaming brand.
 - [Sushiro / 寿司郎](entities/Sushiro.md) — Conveyor-belt sushi chain case for China expansion through supply localization, store standardization, mall positioning, and food-safety trust.
 - [Yimu Technology / 一目科技](entities/YimuTechnology.md) — Tactile-sensing robotics company positioned as a physical access-layer infrastructure provider for embodied AI.
 - [Eric Li Zhiqiang / 李志强](entities/EricLiZhiqiang.md) — Yimu Technology founder and CEO explaining tactile sensing, optical tactile sensors, TouchNet, and touch as a robot intelligence bottleneck.
@@ -203,7 +210,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Stop Killing Games](entities/StopKillingGames.md) — Player-rights movement referenced as context for service shutdown, deletion, and game-preservation concerns.
 - [朱宁 / Zhu Ning](entities/ZhuNing.md) — Economist and behavioral-finance scholar explaining bubble conditions, AI valuation risk, and consequence-first investing discipline.
 - [42章经](entities/42Zhangjing.md) — Podcast/show context for the Zhu Ning interview on bubbles, AI investing, and personal wealth decisions.
-- [United States](entities/UnitedStates.md) — Country and institutional context for the America-at-250 source, connecting democratic resilience, immigration, cultural exports, NATO credibility, U.S.-Iran diplomacy, and Route 66 memory.
+- [United States](entities/UnitedStates.md) — Country and institutional context connecting democratic resilience, immigration, cultural exports, NATO credibility, U.S.-Iran diplomacy, World Cup hosting, and Venezuela recovery responsibility.
 - [Supreme Court](entities/SupremeCourt.md) — U.S. judicial institution used in the America-at-250 source as both democratic guardrail and possible executive-power precedent maker.
 - [Robert Guest](entities/RobertGuest.md) — The Intelligence panelist giving the more optimistic account of American democratic resilience, assimilation, and cultural durability.
 - [Daniel Knowles](entities/DanielKnowles.md) — The Intelligence panelist warning that Supreme Court behavior and executive-power disputes show weakening U.S. constitutional guardrails.
@@ -446,7 +453,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [General Mills](entities/GeneralMills.md) — Food company mentioned as the Haagen-Dazs parent-company context in the ice-cream episode.
 - [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for city commerce observations, bee economics, FIFA governance, and Sushiro's restaurant-chain operations.
 - [Polymarket](entities/Polymarket.md) — Prediction-market example used by E144 to explain price-as-probability thinking and residual risk.
-- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for America at 250, U.S.-Iran deal fragility, El Nino climate risk, Japanese imperial succession, NATO alliance stress, Khamenei's funeral, Japan custody reform, Route 66, and other magazine-style segments.
+- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for America at 250, U.S.-Iran diplomacy, NATO stress, Khamenei's funeral, Bangladesh transition, Venezuela disaster response, robot delivery, Netflix thrillers, and other magazine-style segments.
 - [NATO](entities/NATO.md) — Alliance context for defence spending, Ukraine support, European defence autonomy, Russian hybrid pressure, and American commitment doubts.
 - [Anton LaGuardia](entities/AntonLaGuardia.md) — The Intelligence diplomatic editor explaining NATO's tense summit, European defence autonomy, and alliance credibility risks.
 - [Anna Kerr](entities/AnnaKerr.md) — The Intelligence contributor explaining vibe lawyering, legal AI hallucinations, and supervised legal AI.
@@ -710,7 +717,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mercedes F1](entities/MercedesF1.md) — Manufacturer-backed F1 team built from Brawn GP into a modern dynasty and valuable team asset.
 - [Brawn GP](entities/BrawnGP.md) — One-season F1 team whose double-diffuser advantage and 2009 titles became the base for Mercedes F1.
 - [Lotus Racing](entities/LotusRacing.md) — Constructor case for lightness, handling, sponsor surfaces, aerodynamics, and ground-effect innovation.
-- [Netflix](entities/Netflix.md) — Streaming company whose Drive to Survive partnership helped make F1's human drama legible to new fans.
+- [Netflix](entities/Netflix.md) — Streaming company used for Drive to Survive audience growth, earnings-expectation investing lessons, and Harlan Coben thriller-brand packaging.
 - [Drive to Survive](entities/DriveToSurvive.md) — Netflix series that reframed Formula One through people, politics, and behind-the-scenes team drama.
 - [The Walt Disney Company](entities/TheWaltDisneyCompany.md) — Media and entertainment company analyzed through owned IP, animation, merchandise, television, parks, rereleases, and distribution control.
 - [Walt Disney](entities/WaltDisney.md) — Founder and creative force behind Mickey, Snow White, Disneyland, and the Florida/Epcot vision.
@@ -1064,6 +1071,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Disaster Response State Capacity](concepts/DisasterResponseStateCapacity.md) — Governance capacity to mobilize rescue, logistics, health systems, skilled labor, fuel, and aid distribution after shocks.
+- [Sidewalk Delivery Robots](concepts/SidewalkDeliveryRobots.md) — Low-speed urban delivery robots that narrow autonomy around modest payloads, sidewalks, and lower-risk failures.
+- [Robot Delivery Economics](concepts/RobotDeliveryEconomics.md) — Last-mile robot-delivery cost structure shaped by hardware, supervision, maintenance, routing, and human courier substitution.
+- [Streaming Author Brand](concepts/StreamingAuthorBrand.md) — Media pattern where an author's name becomes a platform-facing genre promise across streaming adaptations.
 - [Conveyor Belt Sushi](concepts/ConveyorBeltSushi.md) — Restaurant format where belt or screen-order delivery, freshness trust, menu cadence, local taste, and operating systems define the value.
 - [Restaurant Supply Chain Localization](concepts/RestaurantSupplyChainLocalization.md) — Chain-restaurant process of adapting sourcing, logistics, suppliers, and food handling to a local market while preserving consistency.
 - [Chain Restaurant Standardization](concepts/ChainRestaurantStandardization.md) — Operating discipline for reproducing a restaurant format through measurement, hygiene, training, waste handling, and localized labor design.
@@ -1259,7 +1270,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Public Media Emergency Access](concepts/PublicMediaEmergencyAccess.md) — Public-media role in trusted local news, emergency alerts, and rural access during disruption.
 - [Listener-Supported Media](concepts/ListenerSupportedMedia.md) — Audience donation model presented as the practical response to public-media funding loss.
 - [Public Service Journalism](concepts/PublicServiceJournalism.md) — Journalism mission frame built around civic service, accountability, access, diversity, and crisis connection.
-- [Democratic Transition Election](concepts/DemocraticTransitionElection.md) — Competitive vote after authoritarian drift and mass protest where representation, reform, and institutional legitimacy are unsettled.
+- [Democratic Transition Election](concepts/DemocraticTransitionElection.md) — Competitive vote after authoritarian drift, protest, disaster, or externally managed transition where representation, timing, reform, and legitimacy are unsettled.
 - [Applied Astrobiology](concepts/AppliedAstrobiology.md) — Biology-for-space agenda using microbes, bioreactors, and ecosystems to make off-Earth habitats more liveable.
 - [AI Hiring Arms Race](concepts/AIHiringArmsRace.md) — Recruiting feedback loop where candidates use AI to submit more applications and employers counter with screening, tests, policies, and agents.
 - [Candidate Identity Fraud](concepts/CandidateIdentityFraud.md) — Hiring-security risk that remote-work applicants, profiles, or interview identities are synthetic or deceptive.

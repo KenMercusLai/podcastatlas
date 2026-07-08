@@ -1327,3 +1327,11 @@ Added source page for a 商业就是这样 episode on Sushiro's China popularity
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | Fault lines: Venezuela's paltry earthquake response
+
+Added source page for a The Intelligence episode on Venezuela's earthquake response, state-capacity decay, public anger, U.S. recovery responsibility, transition-delay risk, sidewalk delivery-robot economics, and Harlan Coben as a Netflix thriller brand. Created pages for Venezuela, Delcy Rodriguez, Maria Corina Machado, Haley Salmon, Starship Technologies, Harlan Coben, Disaster Response State Capacity, Sidewalk Delivery Robots, Robot Delivery Economics, and Streaming Author Brand; updated overview, index, The Intelligence, United States, Netflix, and Democratic Transition Election. No direct contradiction found; the source extends existing The Intelligence geopolitical and transition-election branches while keeping Starship Technologies separate from the existing SpaceX Starship page.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

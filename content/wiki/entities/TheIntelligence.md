@@ -2,13 +2,13 @@
 title: "The Intelligence"
 type: entity
 tags: [podcast, media]
-sources: [the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d, a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]
+sources: [the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d, a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b]
 last_updated: 2026-07-08
 ---
 
 # The Intelligence
 
-The Intelligence is the Economist news podcast context for [[the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad]], [[missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3]], [[continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e]], [[the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]], [[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]], [[snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d]], [[a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07]], and [[dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]].
+The Intelligence is the Economist news podcast context for [[the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad]], [[missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3]], [[continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e]], [[the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]], [[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]], [[snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d]], [[a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07]], [[dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]], and [[fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b]].
 
 The America-at-250 source adds a special-episode sequence: [[RobertGuest]], [[DanielKnowles]], and [[RebeccaJackson]] debate [[AmericanDemocraticResilience]], the [[SupremeCourt]], [[DonaldTrump]], [[ExecutivePowerPrecedent]], and [[HistoricalMemoryContest]]; an immigration dispatch frames [[ImmigrationBacklashCycle]] and [[AssimilationCapacity]]; and [[JohnFasman]] explains [[AmericanCulturalExports]] as a blend of absorption, marketing, and global platform circulation.
 
@@ -26,6 +26,8 @@ The Keir-death source adds a third sequence: [[KeirStarmer]] and [[LabourPartyUK
 
 The Dhaka source adds a fourth sequence: [[Bangladesh]], [[SheikhHasina]], [[AwamiLeague]], [[BangladeshNationalistParty]], [[TariqRahman]], and [[JamaatEIslamiBangladesh]] as a [[DemocraticTransitionElection]] case; [[OliverMorton]] on [[AppliedAstrobiology]] and biology-enabled space habitats; and [[ShiraAviono]] on the [[AIHiringArmsRace]] and [[CandidateIdentityFraud]].
 
+The Fault Lines source adds a fifth sequence: [[HaleySalmon]] on [[Venezuela]], [[DelcyRodriguez]], [[MariaCorinaMachado]], [[UnitedStates]], [[DisasterResponseStateCapacity]], and a delayed [[DemocraticTransitionElection]] after earthquakes; [[StarshipTechnologies]] as a [[SidewalkDeliveryRobots]] and [[RobotDeliveryEconomics]] case; and [[HarlanCoben]] plus [[Netflix]] as a [[StreamingAuthorBrand]] case.
+
 ## Connections
 - [[AIBubbleHedging]] — finance segment on AI capex, bubbles, bonds, gold, defensive equities, and buy-and-hold discipline.
 - [[PoliticalFuneral]] and [[AutocraticSuccession]] — Khamenei funeral segment on ritual, regime endurance, and missing-successor uncertainty.
@@ -40,6 +42,9 @@ The Dhaka source adds a fourth sequence: [[Bangladesh]], [[SheikhHasina]], [[Awa
 - [[AssistedDyingLaws]] and [[AssistedDyingSafeguards]] — U.S. state-law segment on New York and the Oregon-style model.
 - [[Skijoring]] — Mountain West sport segment.
 - [[DemocraticTransitionElection]] — Bangladesh segment on competitive voting after Hasina's removal and Awami League exclusion.
+- [[DisasterResponseStateCapacity]] — Venezuela segment on earthquake response, state decay, public anger, U.S. reconstruction responsibility, and delayed transition risk.
+- [[SidewalkDeliveryRobots]] and [[RobotDeliveryEconomics]] — automation segment on Starship Technologies and low-speed delivery economics.
+- [[StreamingAuthorBrand]] — culture segment on Harlan Coben as a Netflix thriller signal.
 - [[AppliedAstrobiology]] — space segment on microbes, bioreactors, and off-Earth habitability.
 - [[AIHiringArmsRace]] and [[CandidateIdentityFraud]] — recruiting segment on AI-generated applications and fake applicant profiles.
 - [[NATOAllianceCredibility]], [[EuropeanDefenseAutonomy]], and [[RussianHybridPressure]] — alliance segment on NATO's public unity and private American-commitment doubts.
@@ -49,5 +54,5 @@ The Dhaka source adds a fourth sequence: [[Bangladesh]], [[SheikhHasina]], [[Awa
 - [[JapaneseImperialSuccession]] — Japan segment on Aiko, male-line inheritance, public opinion, and conservative resistance.
 - [[AmericanDemocraticResilience]], [[ExecutivePowerPrecedent]], and [[HistoricalMemoryContest]] — America-at-250 segment on democratic guardrails, presidential power, and national memory.
 - [[ImmigrationBacklashCycle]], [[AssimilationCapacity]], and [[AmericanCulturalExports]] — America-at-250 segment on immigration history, belonging, and cultural power.
-- [[NicholasPalam]], [[MoekaIida]], [[JohnFasman]], [[RosieBloor]], [[JoshRoberts]], [[PiotrZilevsky]], [[SashaNauta]], [[AaronBraun]], [[MarkJohnson]], [[OliverMorton]], [[ShiraAviono]], [[AntonLaGuardia]], and [[AnnaKerr]] — source participants.
+- [[NicholasPalam]], [[MoekaIida]], [[JohnFasman]], [[RosieBloor]], [[JoshRoberts]], [[PiotrZilevsky]], [[SashaNauta]], [[AaronBraun]], [[MarkJohnson]], [[OliverMorton]], [[ShiraAviono]], [[HaleySalmon]], [[AntonLaGuardia]], and [[AnnaKerr]] — source participants.
 - [[RobertGuest]], [[DanielKnowles]], and [[RebeccaJackson]] — America-at-250 panelists.
