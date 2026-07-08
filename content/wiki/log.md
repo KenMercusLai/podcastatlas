@@ -1472,3 +1472,19 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used the existing `graph/graph.json` snapshot and found no hub stubs, eight fragile bridges, and no isolated communities; the graph snapshot does not include the newest untracked Google Cloud/TPU ingest pages. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; report returned in-session and `lint-report.md` was not saved.
+
+## [2026-07-09] ingest | Trailer: Tocqueville Road Trip
+
+Added source page for the Boom from The Economist Acast-feed copy of the Economist Podcasts trailer introducing John Prideaux's Tocqueville Road Trip, which retraces Alexis de Tocqueville's 1831 U.S. journey and uses Democracy in America to ask whether the United States still functions as a democratic idea. Updated Economist Podcasts, Tocqueville Road Trip, Alexis de Tocqueville, John Prideaux, Democracy in America, America as Idea, American Democratic Resilience, United States, overview, and index. No direct contradiction found; the source duplicates existing Tocqueville Road Trip trailer pages under another source URL and reinforces the America-at-250 historical comparison.
+
+## [2026-07-09] graph | Knowledge graph rebuilt
+
+1957 nodes, 18955 edges (18955 extracted, 0 inferred).
+
+## [2026-07-09] report | Graph health report generated
+
+1957 nodes analyzed.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Trailer: Tocqueville Road Trip](sources/trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7.md) — Economist Podcasts trailer from the Boom from The Economist Acast feed, duplicating the Tocqueville Road Trip setup around Alexis de Tocqueville, Democracy in America, and America as a democratic idea.
 - [Google 的 AI 策略：不赌模型，赌什么？｜ Google Cloud Next 现场 S10E09](sources/google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6.md) — What's Next｜科技早知道 episode from Google Cloud Next on One Google, Google Cloud, TPU, Gemini, enterprise agents, agent governance, capability overhang, and startup opportunities around data flywheels and business outcomes.
 - [商业小样43 | AI时代，谁在给服务器“降温”](sources/shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076.md) — 商业就是这样 episode on AI data-center cooling, high-density GPU heat, liquid cooling, pumps, water systems, Grundfos, and prefabricated cooling stations.
 - [Latin lessons: the Donroe-doctrine boost](sources/latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d.md) — The Intelligence episode on Latin America's Trump-era investment boom, U.S.-China critical-minerals competition, Nigeria's jollof-price shock, and the BBC longwave shutdown.
