@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Keep qualms and carry on: a decade after Brexit](sources/keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b.md) — The Intelligence episode on Brexit's cumulative economic friction, unrealized deregulation dividend, immigration-politics reversal, AI/regulatory opportunity, and Britain's unresolved strategic identity.
 - [Gulf-co-operation counsel: what next for the region](sources/gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6.md) — The Intelligence episode on Gulf stability after the Iran war, America-at-250 democratic strain, and plant acoustic signaling.
 - [Trailer: Tocqueville Road Trip](sources/trailer-tocqueville-road-trip-6a315642780d0f7579af216c.md) — Economist Podcasts trailer introducing John Prideaux's Tocqueville Road Trip, using Alexis de Tocqueville and Democracy in America to test whether the United States still works as a democratic idea.
 - [Fault lines: Venezuela's paltry earthquake response](sources/fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b.md) — The Intelligence episode on Venezuela's earthquake response, state decay, U.S. recovery responsibility, delayed democratic-transition risk, sidewalk delivery-robot economics, and Harlan Coben as a Netflix thriller brand.
@@ -186,11 +187,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [United Kingdom](entities/UnitedKingdom.md) — Country case where Brexit reshaped trade, immigration expectations, regulatory freedom, party politics, and Britain's role in European security.
+- [David Cameron](entities/DavidCameron.md) — British prime minister whose 2013 EU referendum promise is framed as turning Conservative pressure into a national Brexit rupture.
+- [Boris Johnson](entities/BorisJohnson.md) — Brexit figure whose Leave support and later hard-Brexit government are tied to economic friction and post-Brexit migration disappointment.
+- [Daniel Franklin](entities/DanielFranklin.md) — The Intelligence participant framing Brexit as a continuing source of British political churn and strategic-identity uncertainty.
+- [Tom Carter](entities/TomCarter.md) — The Intelligence participant explaining Brexit's GDP, goods-export, services, finance, and professional-qualification frictions.
+- [Georgia Banjo](entities/GeorgiaBanjo.md) — The Intelligence participant analyzing AI as a possible but limited post-Brexit regulatory opportunity for Britain.
 - [Greg Carlstrom](entities/GregCarlstrom.md) — The Intelligence analyst explaining Gulf stability risk, uneven Gulf readiness, and possible strategic-investment shifts after the Iran war.
 - [Gulf Cooperation Council](entities/GulfCooperationCouncil.md) — Regional Gulf frame where confidence, security, finance, logistics, aviation, sovereign wealth, and expatriate business life interact.
 - [United Arab Emirates](entities/UnitedArabEmirates.md) — Gulf state presented as comparatively better placed after the Iran war because of fiscal strength, expatriate confidence, and Hormuz-bypass planning.
 - [Bahrain](entities/Bahrain.md) — Gulf state presented as more exposed after the Iran war because of debt, limited reserves, and dependence on outside support.
-- [Economist Podcasts](entities/EconomistPodcasts.md) — Economist audio context for Tocqueville Road Trip, The Intelligence, Gulf stability, and adjacent Economist podcast branches already tracked in the wiki.
+- [Economist Podcasts](entities/EconomistPodcasts.md) — Economist audio context for Tocqueville Road Trip, The Intelligence, Gulf stability, Brexit, and adjacent Economist podcast branches already tracked in the wiki.
 - [Tocqueville Road Trip](entities/TocquevilleRoadTrip.md) — Economist podcast series retracing Tocqueville's U.S. journey to ask whether Democracy in America still explains the country.
 - [Alexis de Tocqueville](entities/AlexisDeTocqueville.md) — French observer whose 1831 U.S. journey and Democracy in America provide the trailer's interpretive lens.
 - [John Prideaux](entities/JohnPrideaux.md) — Economist host using Tocqueville's route to interview Americans about whether the national democratic idea still holds.
@@ -463,13 +470,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [General Mills](entities/GeneralMills.md) — Food company mentioned as the Haagen-Dazs parent-company context in the ice-cream episode.
 - [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for city commerce observations, bee economics, FIFA governance, and Sushiro's restaurant-chain operations.
 - [Polymarket](entities/Polymarket.md) — Prediction-market example used by E144 to explain price-as-probability thinking and residual risk.
-- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for Gulf stability, America at 250, U.S.-Iran diplomacy, NATO stress, Khamenei's funeral, Bangladesh transition, Venezuela disaster response, robot delivery, Netflix thrillers, and other magazine-style segments.
-- [NATO](entities/NATO.md) — Alliance context for defence spending, Ukraine support, European defence autonomy, Russian hybrid pressure, and American commitment doubts.
+- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for Brexit, Gulf stability, America at 250, U.S.-Iran diplomacy, NATO stress, Khamenei's funeral, Bangladesh transition, Venezuela disaster response, robot delivery, Netflix thrillers, and other magazine-style segments.
+- [NATO](entities/NATO.md) — Alliance context for defence spending, Ukraine support, European defence autonomy, Russian hybrid pressure, American commitment doubts, and Britain's post-Brexit defence role.
 - [Anton LaGuardia](entities/AntonLaGuardia.md) — The Intelligence diplomatic editor explaining NATO's tense summit, European defence autonomy, and alliance credibility risks.
 - [Anna Kerr](entities/AnnaKerr.md) — The Intelligence contributor explaining vibe lawyering, legal AI hallucinations, and supervised legal AI.
 - [Garfield AI](entities/GarfieldAI.md) — Legal AI company used as the source's positive human-in-the-loop legal AI example.
-- [Russia](entities/Russia.md) — Country framed through hybrid pressure, Ukraine-war spillover, and possible future tests of NATO credibility.
-- [Ukraine](entities/Ukraine.md) — War context for NATO support, Russian hybrid pressure, and the operational warning behind European defense autonomy.
+- [Russia](entities/Russia.md) — Country framed through hybrid pressure, Ukraine-war spillover, possible future tests of NATO credibility, and Britain's post-Brexit defence relevance.
+- [Ukraine](entities/Ukraine.md) — War context for NATO support, Russian hybrid pressure, European defense autonomy, and the defence argument in Britain's post-Brexit role.
 - [Germany](entities/Germany.md) — Country case for permanent brigade deployment to Lithuania and concrete European reassurance.
 - [Lithuania](entities/Lithuania.md) — Baltic security case where German deployment and American force uncertainty make NATO credibility visible.
 - [Ali Khamenei](entities/AliKhamenei.md) — Iranian supreme-leader figure whose funeral is framed by The Intelligence as religious rite, regime display, and succession test.
@@ -852,7 +859,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Emirates](entities/Emirates.md) — Airline used in EP11 as a premium-cabin service example through A380 hardware, onboard bar, amenities, and ground services.
 - [Ericsson](entities/Ericsson.md) — Telecom equipment and handset company discussed through early China networks, GSM infrastructure, supply-chain response, and Sony Ericsson.
 - [Eric Ries](entities/EricRies.md) — Lean Startup author and Incorruptible author discussing validated learning, AI-era product economics, financial gravity, and founder governance.
-- [European Union](entities/EuropeanUnion.md) — European political and market context for language fragmentation, AI translation, regulation, and startup constraints.
+- [European Union](entities/EuropeanUnion.md) — European political and market context for Brexit, language fragmentation, AI translation, regulation, startup constraints, and market-access friction.
 - [Federal Reserve](entities/FederalReserve.md) — U.S. central bank discussed through rate-cut expectations, policy lag, yield-curve inversion, and market interpretation of easing.
 - [FocusFly / 专注飞机](entities/FocusFly.md) — Una's focus-timer app using a flight metaphor and serving as EP102's ASO case.
 - [Forward Consumer Partners](entities/ForwardConsumerPartners.md) — Investment group that acquired a controlling stake in Justin's Nut Butter and brought Justin Gold back as owner, founder, and board member.
@@ -1081,6 +1088,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Brexit](concepts/Brexit.md) — United Kingdom departure from the European Union, framed as a cumulative political, economic, immigration, regulatory, and strategic rupture.
+- [Brexit Economic Friction](concepts/BrexitEconomicFriction.md) — Cumulative trade, GDP, finance, professional-qualification, and investment drag rather than a single immediate Brexit crash.
+- [Brexit Regulatory Dividend](concepts/BrexitRegulatoryDividend.md) — Hoped-for post-EU policy freedom that produced narrow flexibility but not the broad Singapore-on-Thames deregulation payoff.
+- [Post-Brexit Immigration Politics](concepts/PostBrexitImmigrationPolitics.md) — Tension between take-back-control migration rhetoric and later non-EU migration growth under Britain's post-Brexit system.
+- [Post-Brexit Strategic Identity](concepts/PostBrexitStrategicIdentity.md) — Question of what Britain is for after losing its EU bridge role, with AI, finance, farming, services, and defence as possible answers.
 - [Gulf Stability Risk](concepts/GulfStabilityRisk.md) — Risk that war or unresolved diplomacy weakens the confidence behind Gulf finance, logistics, aviation, sovereign wealth, and expatriate business.
 - [Gulf Strategic Diversification](concepts/GulfStrategicDiversification.md) — Post-war Gulf investment shift toward defense, ports, pipelines, food security, and other resilience infrastructure.
 - [Plant Acoustic Signaling](concepts/PlantAcousticSignaling.md) — Plant sensing and sound-production frame where vibrations, ultrasonic stress signals, and microphones could inform crop monitoring and defenses.
@@ -1110,7 +1122,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [American Democratic Resilience](concepts/AmericanDemocraticResilience.md) — Question of whether U.S. institutions, elections, civic culture, historical memory, and civil society can survive polarization and executive pressure.
 - [Executive Power Precedent](concepts/ExecutivePowerPrecedent.md) — Risk that temporary presidential power claims become durable legal tools for later administrations.
 - [Historical Memory Contest](concepts/HistoricalMemoryContest.md) — Struggle over whether slavery, racial terror, and other painful history are confronted or sanitized through schools, museums, and official narrative.
-- [Immigration Backlash Cycle](concepts/ImmigrationBacklashCycle.md) — Recurring U.S. immigration pattern of openness, anxiety, restriction, and later reopening.
+- [Immigration Backlash Cycle](concepts/ImmigrationBacklashCycle.md) — Recurring immigration-politics pattern of openness, anxiety, restriction, and reopening, with U.S. history and a British post-Brexit variant.
 - [Assimilation Capacity](concepts/AssimilationCapacity.md) — Society's ability to integrate newcomers through work, culture, community, and national belonging.
 - [American Cultural Exports](concepts/AmericanCulturalExports.md) — U.S. global influence through culture shaped by absorption of outside influences, marketing, media distribution, and popular forms.
 - [Auto Research](concepts/AutoResearch.md) — AI research-automation loop where models read papers, form hypotheses, write code, run experiments, and analyze results before full RSI.
@@ -1323,8 +1335,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joint Custody Reform](concepts/JointCustodyReform.md) — Family-law shift toward continuing post-divorce parental responsibility, grounded by Japan's reform.
 - [Clean Break Divorce Model](concepts/CleanBreakDivorceModel.md) — Divorce norm where one parent becomes effectively absent from the child's life after household separation.
 - [Route 66 Nostalgia Tourism](concepts/Route66NostalgiaTourism.md) — Pattern where a decommissioned highway survives as a chosen memory route and roadside tourism economy.
-- [NATO Alliance Credibility](concepts/NATOAllianceCredibility.md) — Deterrence trust problem where alliance response confidence matters as much as spending targets or treaty language.
-- [European Defense Autonomy](concepts/EuropeanDefenseAutonomy.md) — Question of whether European NATO members can defend themselves without American command, intelligence, satellites, and strike integration.
+- [NATO Alliance Credibility](concepts/NATOAllianceCredibility.md) — Deterrence trust problem where alliance response confidence, British capability, and usable European force matter as much as spending targets or treaty language.
+- [European Defense Autonomy](concepts/EuropeanDefenseAutonomy.md) — Question of whether European NATO members and Britain can defend themselves without American command, intelligence, satellites, and strike integration.
 - [Russian Hybrid Pressure](concepts/RussianHybridPressure.md) — Grey-zone pressure through drones, airspace violations, sabotage, disinformation, and ambiguous tests below open war.
 - [Vibe Lawyering](concepts/VibeLawyering.md) — AI-assisted legal work that produces confident filings without reliable legal grounding or judgment.
 - [Legal AI Hallucination](concepts/LegalAIHallucination.md) — Fabricated cases, citations, or legal authority generated by AI in court-facing work.
@@ -1697,7 +1709,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Embodied AI](concepts/EmbodiedAI.md) — Robotics and physical AI direction discussed as both bubbly and strategically important.
 - [Emotional Interaction Models](concepts/EmotionalInteractionModels.md) — AI systems that decide social and emotional responses across speech, movement, memory, and relationship state.
 - [Enterprise Agent Store](concepts/EnterpriseAgentStore.md) — Marketplace pattern for enterprise agents that need workflow, permission, billing, integration, evaluation, and result-delivery infrastructure.
-- [European AI Industrial Constraints](concepts/EuropeanAIIndustrialConstraints.md) — Source frame for Europe's AI limits around language fragmentation, regulation, capital, software culture, and manufacturing inertia.
+- [European AI Industrial Constraints](concepts/EuropeanAIIndustrialConstraints.md) — Source frame for Europe's AI limits around language fragmentation, regulation, capital, software culture, manufacturing inertia, and Britain's partial post-Brexit regulatory contrast.
 - [Everything Agent](concepts/EverythingAgent.md) — Investment thesis that agents will enter many white-collar workflows and need supporting infrastructure.
 - [Family Protection Insurance Planning](concepts/FamilyProtectionInsurancePlanning.md) — Household insurance planning based on income earners, dependents, debts, and finite responsibility windows.
 - [Family World Simulator](concepts/FamilyWorldSimulator.md) — Simulated household interaction environment for training and testing companion robot behavior.

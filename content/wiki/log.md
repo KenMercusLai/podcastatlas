@@ -1348,6 +1348,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-09] ingest | Keep qualms and carry on: a decade after Brexit
+
+Added source page for a The Intelligence episode on Brexit's cumulative economic damage, unrealized deregulation dividend, migration-politics reversal, AI and regulatory opportunity, and Britain's unresolved strategic identity. Created pages for United Kingdom, David Cameron, Boris Johnson, Daniel Franklin, Tom Carter, Georgia Banjo, Brexit, Brexit Economic Friction, Brexit Regulatory Dividend, Post-Brexit Immigration Politics, and Post-Brexit Strategic Identity; updated overview, index, The Intelligence, Economist Podcasts, European Union, NATO, Russia, Ukraine, European AI Industrial Constraints, European Defense Autonomy, NATO Alliance Credibility, and Immigration Backlash Cycle. No direct contradiction found; the source extends the wiki's European politics and security branches by showing how Brexit can be both a completed institutional exit and an ongoing constraint on trade, governance, migration expectations, and national role.
+
 ## [2026-07-09] graph | Knowledge graph rebuilt
 
 1834 nodes, 17580 edges (17580 extracted, 0 inferred).
@@ -1355,6 +1359,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-09] report | Graph health report generated
 
 1834 nodes analyzed.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-09] lint | Wiki health check
 
