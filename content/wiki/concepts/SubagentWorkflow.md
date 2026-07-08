@@ -2,8 +2,8 @@
 title: "Subagent Workflow"
 type: concept
 tags: [agents, workflow, skills]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]
-last_updated: 2026-07-07
+sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]
+last_updated: 2026-07-08
 ---
 
 # Subagent Workflow
@@ -16,6 +16,8 @@ Subagent workflow is an agentic pattern where a foreground assistant delegates c
 
 [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] adds a personal coding workflow side: subagents let [[Superpowers]], [[ClaudeCode]], and [[Codex]] continue long tasks without filling the main conversation, while review loops let agents check and repair each other's output at the cost of more tokens and more human supervision.
 
+[[137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]] adds an [[AIForMath]] case. [[HongLetong]] says [[Axiom]] used subagents, experience learning, and skills as alternatives to costly broad search, suggesting that theorem proving can use specialized agents for proof planning, tactic attempts, formalization, and verifier-driven repair.
+
 ## Key Patterns
 - Background execution for tasks too large or disruptive for the foreground thread.
 - Reference IDs for later retrieval, pausing, or management.
@@ -24,6 +26,7 @@ Subagent workflow is an agentic pattern where a foreground assistant delegates c
 - Context compression and handoff documents when a new agent continues work from a prior agent.
 - Peer review or cross-checking between agents when a long task needs another context window or viewpoint.
 - Main-context preservation in practical coding workflows where the user wants several tasks moving while still keeping one controlling thread clear.
+- Theorem-proving workflows can use subagents to explore proof branches, repair Lean failures, and preserve successful tactics for later reuse.
 
 ## Connections
 - [[AISkills]] — subagent behavior can be packaged as reusable skills.
@@ -32,3 +35,4 @@ Subagent workflow is an agentic pattern where a foreground assistant delegates c
 - [[AgentHarness]] — governance and orchestration layer for safe multi-agent work.
 - [[MultiAgentCollaboration]] — broader collaboration frame added by the Hermes Agent source.
 - [[Superpowers]], [[ClaudeCode]], and [[Codex]] — personal workflow case added by Vol. 166.
+- [[Axiom]], [[AxiomProver]], [[AIForMath]], and [[AISkills]] — theorem-proving orchestration case added by episode 137.

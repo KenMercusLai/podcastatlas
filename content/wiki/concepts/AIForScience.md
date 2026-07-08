@@ -2,7 +2,7 @@
 title: "AI For Science"
 type: concept
 tags: [ai, science, investment]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di]
+sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]
 last_updated: 2026-07-08
 ---
 
@@ -18,6 +18,8 @@ AI for Science is one of the episode's proposed ways to avoid direct competition
 
 [[e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di]] adds [[Apodex]]'s Heavy Duty Solver version. The source treats AI for Science as part of a broader [[DiscoveryModel]] ambition: models should not only retrieve existing knowledge, but generate hard hypotheses, write code or run simulations, and verify whether the result is real. Its first named application areas include biology, medicine, drug discovery, old-drug repurposing, and diagnosis, but the episode's core constraint is general: [[AIVerification]] and [[ResearchTaste]] determine whether discovery claims are useful.
 
+[[137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]] adds [[HongLetong]]'s [[AIForMath]] bridge. She treats mathematics as a digital sandbox for reliable reasoning because feedback can be formal and fast through [[LeanTheoremProver]] and [[InteractiveTheoremProving]], while many physical sciences require labs, experiments, and slower real-world feedback. In that view, [[MathematicalAbundance]] can later support science and engineering by supplying more verified theory.
+
 ## Investment Logic
 - Scientific and industrial domains may be harder to commoditize than lightweight software wrappers.
 - They require specialized knowledge, data, and operational credibility.
@@ -25,6 +27,7 @@ AI for Science is one of the episode's proposed ways to avoid direct competition
 - [[CausalAI]] and [[CausalWorldModels]] may matter because scientific systems often require reasoning about interventions, hidden variables, and state transitions.
 - [[AIMaterialsDiscovery]] suggests that AI-for-science startups may need to own long validation and commercialization loops, not just provide models or APIs.
 - [[DiscoveryModel]] work adds a second moat question: can the system choose valuable scientific questions and verify answers, not only generate candidates?
+- [[AIForMath]] may be an unusually clean AI-for-science route because formal proof gives better verification signals than most empirical domains.
 
 ## Connections
 - [[ZhengkeFund]] — investment context in which the theme is discussed.
@@ -33,3 +36,4 @@ AI for Science is one of the episode's proposed ways to avoid direct competition
 - [[Kaiwuji]], [[LuZiheng]], [[AIMaterialsDiscovery]], and [[MaterialsPipelineCompany]] — materials-specific version added by the Kaiwuji source.
 - [[SpaceX]], [[SpaceBasedAIInfrastructure]], and [[SpaceEconomyInfrastructure]] — aerospace and orbital-infrastructure extension added by the SpaceX source.
 - [[Apodex]], [[DiscoveryModel]], [[RecursiveSelfImprovement]], [[AIVerification]], and [[ResearchTaste]] — Heavy Duty Solver version added by the Silicon Valley 101 source.
+- [[HongLetong]], [[Axiom]], [[AIForMath]], [[FormalVerification]], and [[MathematicalAbundance]] — formal-math route added by episode 137.

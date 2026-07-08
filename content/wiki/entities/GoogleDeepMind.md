@@ -2,7 +2,7 @@
 title: "Google DeepMind"
 type: entity
 tags: [company, ai, research]
-sources: [ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]
+sources: [ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]
 last_updated: 2026-07-08
 ---
 
@@ -14,6 +14,8 @@ Google DeepMind is discussed in [[ep108-vibe-coding-da-dizhen-cursor-dingjia-zhe
 
 [[140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]] adds Google DeepMind as [[YaoShunyu]]'s post-Anthropic home and as the organization behind his current [[MLCoding]] and [[LongHorizonAI]] work. In his account, Google DeepMind offers broad research freedom and many technical directions, while [[Gemini]]'s progress depends on clearer organization, engineering execution, and product integration rather than a single heroic researcher.
 
+[[137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]] adds Google DeepMind as a central [[AIForMath]] precedent through [[AlphaGeometry]] and [[AlphaProof]]. [[HongLetong]] treats DeepMind's 2024 IMO progress as a field milestone, while contrasting [[Axiom]]'s system choices with AlphaProof-style search costs.
+
 ## Connections
 - [[Windsurf]] — talent and strategic transaction case.
 - [[Gemini]] and [[GeminiCLI]] — Google-linked model and coding interface discussed in the source.
@@ -21,3 +23,4 @@ Google DeepMind is discussed in [[ep108-vibe-coding-da-dizhen-cursor-dingjia-zhe
 - [[ModelProviderToolCompetition]] — concept this source uses Google DeepMind to illustrate.
 - [[EmbodiedAI]], [[WorldModels]], [[DataRecipeCoCreation]], and [[RoboticsSimulationEvaluation]] — physical-AI context added by episode 134.
 - [[YaoShunyu]], [[MLCoding]], [[LongHorizonAI]], and [[AIOrganizationDesign]] — frontier-training and organization context added by episode 140.
+- [[AlphaGeometry]], [[AlphaProof]], [[AIForMath]], and [[Axiom]] — AI-for-math comparison context added by episode 137.

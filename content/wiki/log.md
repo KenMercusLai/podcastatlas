@@ -1055,3 +1055,19 @@ Added source page for a 张小珺Jùn｜商业访谈录 episode on Tristan, Natu
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | 137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的
+
+Added source page for a 张小珺Jùn｜商业访谈录 episode on Hong Letong, Axiom, Axiom Prover, AI for Math, Lean, Mathlib, interactive theorem proving, auto-formalization, Putnam, formal verification, mathematical abundance, and the relation between mathematical proof and code verification. Created supporting pages for Hong Letong, Axiom, Axiom Prover, Lean Theorem Prover, Mathlib, Ken Ono, Shubo, Putnam Competition, AlphaGeometry, AlphaProof, AI For Math, AI Mathematician, Interactive Theorem Proving, Auto-Formalization, Formal Verification, Formal Specification, and Mathematical Abundance; updated overview, index, Zhang Xiaojun Commercial Interviews, AI Verification, AI Coding Verification, AI For Science, Recursive Self-Improvement, AI Skills, Subagent Workflow, AI Organization Design, Google DeepMind, OpenAI, Anthropic, ByteDance, and Doubao. No direct contradiction found; the source strengthens the wiki's verification thread by arguing that math and code converge when both are made formal and machine-checkable.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-08] graph | Knowledge graph rebuilt
+
+1477 nodes, 13702 edges (13702 extracted, 0 inferred).
+
+## [2026-07-08] report | Graph health report generated
+
+1477 nodes analyzed.

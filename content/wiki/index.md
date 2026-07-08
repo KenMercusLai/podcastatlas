@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的](sources/137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb.md) — 张小珺Jùn｜商业访谈录 episode with Hong Letong on AI for Math, Axiom, Lean, auto-formalization, theorem proving, AI mathematicians, Putnam, formal verification, and math as code.
 - [135. 和自然选择创始人Tristan聊，Elys、赛博分身、灵魂、Context的获取与流动和AI社交网络](sources/135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty.md) — 张小珺Jùn｜商业访谈录 episode with Tristan on Natural Selection, EVE, Elys, cyber avatars, context flywheels, subjectivity as an AI-era asset, proactive agents, and AI social networks.
 - [140. 对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去](sources/140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h.md) — 张小珺Jùn｜商业访谈录 episode with Yao Shunyu on Anthropic and Gemini model training, coding feedback, long-horizon AI, ML Coding, scaling, Chinese AI products, and why frontier-model work is now organizational rather than heroic.
 - [The Mourning Show: The Politics of Khamenei's Funeral](sources/the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7.md) — The Intelligence episode on Khamenei's funeral as political theater, Iran succession uncertainty, Japan's joint-custody reform, and Route 66 nostalgia tourism.
@@ -152,6 +153,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Hong Letong / 洪乐潼](entities/HongLetong.md) — Axiom founder discussing AI for Math, formal proof, Lean, auto-formalization, Putnam, and formal verification.
+- [Axiom](entities/Axiom.md) — AI for Math deep-tech company building Axiom Prover and formal-verification systems around Lean-style proof.
+- [Axiom Prover](entities/AxiomProver.md) — Axiom's theorem-proving system presented through Putnam success, Lean proofs, and a path toward verified code.
+- [Lean Theorem Prover](entities/LeanTheoremProver.md) — Formal proof language and checker used to make mathematical definitions, statements, and proofs machine-verifiable.
+- [Mathlib](entities/Mathlib.md) — Lean mathematics library that provides reusable formal definitions, lemmas, and proof infrastructure.
+- [Ken Ono](entities/KenOno.md) — Mathematician joining Axiom as a theory builder and source of research taste for AI-era mathematics.
+- [Shubo](entities/Shubo.md) — Axiom cofounder whose long-running discussions with Hong Letong helped form the AI for Math company.
+- [Putnam Competition](entities/PutnamCompetition.md) — Mathematics competition used as a benchmark in the source's Axiom Prover story.
+- [AlphaGeometry](entities/AlphaGeometry.md) — AI geometry-solving system used as a reference point for non-human styles of mathematical reasoning.
+- [AlphaProof](entities/AlphaProof.md) — Google DeepMind AI-for-math system used as a comparison point for Axiom's theorem-proving route.
 - [Tristan](entities/Tristan.md) — Natural Selection founder connecting AI companionship, Elys, cyber avatars, context, subjectivity, and proactive AI social products.
 - [Natural Selection / 自然选择](entities/NaturalSelection.md) — AI product company behind EVE and Elys, focused on loneliness, emotional value, context, and human-AI coexistence.
 - [Elys](entities/Elys.md) — Natural Selection AI social product where cyber avatars carry user context, pre-interact, and return valuable real-person connections.
@@ -575,7 +586,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alibaba](entities/Alibaba.md) — Large technology company discussed through Qwen, open source, organizational order, consumer assistant strategy, service-entry ecosystems, and Daqi's early product-design career context.
 - [Amazon](entities/Amazon.md) — Cloud and AI infrastructure buyer discussed through Nvidia demand, hyperscaler capex assumptions, EP77's politically sensitive Melania Trump documentary deal, and data-center continuity risk.
 - [Android](entities/Android.md) — Google-backed open smartphone operating system that became the non-Apple ecosystem after iPhone reset handset competition.
-- [Anthropic](entities/Anthropic.md) — AI company discussed alongside OpenAI in the episode's treatment of frontier models, agent tools, and enterprise deployment.
+- [Anthropic](entities/Anthropic.md) — AI company discussed through frontier models, Claude Code, enterprise deployment, governance, and the AI-for-math competitive map.
 - [Apple](entities/Apple.md) — Platform company discussed through WWDC/Siri, iPhone and App Store ecosystems, podcasts/iPod media history, Buffett/Berkshire market sentiment, and F1 media-rights ambitions.
 - [App Store](entities/AppStore.md) — Apple marketplace discussed as a closed search-and-conversion platform for ASO, metadata, ratings, and paid search.
 - [Apple Search Ads](entities/AppleSearchAds.md) — App Store paid-search system used to test keywords and supplement organic ASO.
@@ -594,7 +605,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bobo's Oat Bars](entities/BobosOatBars.md) — Food company that shared early Boulder kitchen capacity and employees with Justin's Nut Butter.
 - [Boston Dynamics](entities/BostonDynamics.md) — Robotics company referenced through Shibo's admiration for Marc Raibert and autonomous robotics.
 - [Built for a Better World](entities/BuiltForABetterWorld.md) — Jeffrey Hollender's book about Seventh Generation and the future role of responsible business.
-- [ByteDance](entities/ByteDance.md) — Company behind Doubao, discussed through AI cost pressure, video capability, and paid membership strategy.
+- [ByteDance](entities/ByteDance.md) — Company behind Doubao and Seedance, discussed through AI cost pressure, video capability, voice product fit, and AI-for-math signals.
 - [Cang Shifu](entities/CangShifu.md) — AI practitioner and creator discussing CLI workflows, skills, Code Pilot, and hands-on agent use.
 - [Caroline Buck](entities/CarolineBuck.md) — Petaluma founder asking how to explain plant-based dog food without triggering backlash.
 - [Character AI](entities/CharacterAI.md) — Character-chat product referenced as an AI-as-interaction-object example and as a companion-chat commercialization caution.
@@ -615,7 +626,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Deerflow](entities/Deerflow.md) — Open-source deep-research and desktop-workflow project discussed through AI coding, Chinese models, community governance, and multimodal work.
 - [Devin](entities/Devin.md) — Cognition coding-agent product discussed through the Windsurf acquisition context.
 - [Donald Trump](entities/DonaldTrump.md) — U.S. political figure used as both an EP57 market-policy volatility variable and EP77's central political influence monetization case.
-- [Doubao](entities/Doubao.md) — ByteDance AI assistant used as a central case for Chinese consumer AI subscription pricing and domestic assistant-entry competition.
+- [Doubao](entities/Doubao.md) — ByteDance AI assistant and model context used for Chinese consumer AI subscriptions, voice fit, and Doubao Seed's AI-for-math signal.
 - [EOS Worldwide](entities/EOSWorldwide.md) — Methodology and coaching organization behind the EOS ecosystem that shaped Ninety's early product and channel.
 - [EarthKit](entities/EarthKit.md) — Jie Dechen's multimodal project for inferring photo locations, mentioned as background before Paperboy.
 - [Edward](entities/Edward.md) — Designer and hackathon contestant behind Atoom, emphasizing taste and idea quality after vibe coding accelerates implementation.
@@ -640,7 +651,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Huaqiangbei](entities/Huaqiangbei.md) — Shenzhen electronics-market cluster central to MediaTek-enabled shanzhai handset production and distribution.
 - [Girish Redikar](entities/GirishRedikar.md) — Founder of Sprinto and former RecruiterBox founder discussing failed ideas, validation, service productization, and AI governance.
 - [Guy Raz](entities/GuyRaz.md) — How I Built This host whose ingested episodes cover Justin's Nut Butter, e.l.f. Cosmetics, Build-A-Bear, and Advice Line cases.
-- [Google DeepMind](entities/GoogleDeepMind.md) — Google AI organization discussed as the destination for Windsurf's core team.
+- [Google DeepMind](entities/GoogleDeepMind.md) — Google AI organization discussed through Gemini, Windsurf talent, and AI-for-math precedents such as AlphaGeometry and AlphaProof.
 - [He Tao](entities/HeTao.md) — Deerflow core person discussing open-source AI workflows, codebase governance, engineering responsibility, and personal AI assistants.
 - [Hermes Agent](entities/HermesAgent.md) — Open-source agent framework discussed through persistent memory, tools, workflow skills, and self-improving harness loops.
 - [Hormel](entities/Hormel.md) — Food company that acquired Justin's Nut Butter in 2016 and later retained a significant stake under Forward Consumer Partners control.
@@ -726,7 +737,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ninety](entities/Ninety.md) — SaaS platform for leadership-team operating rhythms, built through the EOS ecosystem and now embedding AI.
 - [Nokia](entities/Nokia.md) — GSM and feature-phone giant whose Symbian dominance, durable mass-market phones, and later Windows Phone turn anchor the handset-history episode.
 - [Nvidia](entities/Nvidia.md) — AI semiconductor company used as EP39's main case for separating company quality from stock valuation risk.
-- [OpenAI](entities/OpenAI.md) — Frontier AI company referenced in relation to agents, FDE, AI market structure, ChatGPT stickiness, commerce integrations, and AI-infrastructure continuity risk.
+- [OpenAI](entities/OpenAI.md) — Frontier AI company referenced in relation to agents, FDE, market structure, ChatGPT, commerce, infrastructure, and AI-for-math competition.
 - [Open Claw](entities/OpenClaw.md) — Domestic agent-wave project/context paired with Open Cloud in the Hermes Agent discussion.
 - [Open Cloud](entities/OpenCloud.md) — Domestic agent-era project/event discussed through skills, CLI friction, ecosystem consensus, and scheduled routines.
 - [Outrank](entities/Outrank.md) — SEO product discussed as part of Tea Maker's AI-era distribution playbook.
@@ -851,6 +862,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, and Louis Hong episodes.
 
 ## Concepts
+- [AI For Math](concepts/AIForMath.md) — AI systems for proving, conjecturing, auto-formalizing, verifying, and organizing mathematical knowledge.
+- [AI Mathematician](concepts/AIMathematician.md) — Target system that combines proving, conjecturing, formalization, knowledge use, and mathematical research taste.
+- [Interactive Theorem Proving](concepts/InteractiveTheoremProving.md) — Proof-assistant workflow where a human or AI writes formal proof steps checked by a machine.
+- [Auto-Formalization](concepts/AutoFormalization.md) — Translation of informal mathematical text into formal definitions, theorem statements, and proof artifacts.
+- [Formal Verification](concepts/FormalVerification.md) — Mathematical proof that software, chips, protocols, or systems satisfy precise specifications.
+- [Formal Specification](concepts/FormalSpecification.md) — Precise statement of what a theorem, program, chip, or system is supposed to satisfy before proof can verify it.
+- [Mathematical Abundance](concepts/MathematicalAbundance.md) — Vision that AI lowers the cost of proof and conjecture enough to make society math-rich rather than math-poor.
 - [AI Social Networks](concepts/AISocialNetworks.md) — AI-mediated social networks where avatars or agents pre-filter, pre-interact, and hand valuable connections back to real people.
 - [Cyber Avatars](concepts/CyberAvatars.md) — AI representations of users that carry context, act inside social products, and require identity and permission boundaries.
 - [Context Flywheel](concepts/ContextFlywheel.md) — Product loop where user interactions improve context, better context improves returned value, and visible value motivates more context sharing.

@@ -2,7 +2,7 @@
 title: "ByteDance"
 type: entity
 tags: [company, ai, platform]
-sources: [130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]
+sources: [130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]
 last_updated: 2026-07-08
 ---
 
@@ -24,6 +24,8 @@ ByteDance is the company context for [[Doubao]] in [[cong-qq-huiyuan-dao-doubao-
 
 [[140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]] adds [[YaoShunyu]]'s product-quality view of ByteDance AI. He treats [[Doubao]] voice as world-class and [[Seedance]] as a strong product/data execution signal, while still saying neither proves a full frontier-model paradigm shift by itself.
 
+[[137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]] adds ByteDance through [[HongLetong]]'s respect for Chinese AI players and her specific mention that Doubao Seed is doing strong [[AIForMath]] work. The source uses this as an industry-trust and scientific-exchange point rather than as a detailed product analysis.
+
 ## Key Points
 - The hosts say Doubao's scale makes free access increasingly expensive because usage drives token and compute costs.
 - EP117 adds that Doubao's scale makes it the benchmark competitor for Alibaba's Qwen assistant strategy.
@@ -36,6 +38,7 @@ ByteDance is the company context for [[Doubao]] in [[cong-qq-huiyuan-dao-doubao-
 - The Zhang Yueguang source links ByteDance to product-manager formation before later AI portrait, companion, and agent products.
 - Episode 134 links ByteDance to the next wave of physical-AI and robot-brain competition rather than only consumer assistants or video models.
 - Episode 140 links ByteDance to strong voice and video product execution, but frames those strengths as workflow/product fit rather than proof that the whole model race has changed.
+- Episode 137 links ByteDance to [[AIForMath]] through Hong's mention of Doubao Seed as a strong Chinese player.
 
 ## Connections
 - [[Doubao]] — ByteDance AI assistant and model product at the center of the episode.
@@ -49,3 +52,4 @@ ByteDance is the company context for [[Doubao]] in [[cong-qq-huiyuan-dao-doubao-
 - [[ZhangYueguang]], [[Miaoya]], [[Docky]], and [[AINativeProductDesign]] — product-founder path added by episode 130.
 - [[EmbodiedAI]], [[VisionLanguageActionModels]], [[DataRecipeCoCreation]], and [[RoboticsSimulationEvaluation]] — physical-AI data context added by episode 134.
 - [[YaoShunyu]], [[Doubao]], [[Seedance]], and [[ModelWorkflowFit]] — voice/video product interpretation added by episode 140.
+- [[HongLetong]], [[AIForMath]], and [[Axiom]] — AI-for-math industry context added by episode 137.

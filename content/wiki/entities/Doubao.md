@@ -2,7 +2,7 @@
 title: "Doubao"
 type: entity
 tags: [ai, product, assistant, china]
-sources: [cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]
+sources: [cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]
 last_updated: 2026-07-08
 ---
 
@@ -18,6 +18,8 @@ Doubao is ByteDance's AI assistant and model product discussed in [[cong-qq-huiy
 
 [[140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]] adds an outside frontier-researcher's product assessment. [[YaoShunyu]] says Doubao's voice interaction is among the world's best, with speed, low verbosity, and conversational fun that fit daily assistant use better than many work-efficiency-oriented U.S. products.
 
+[[137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb]] adds Doubao through [[HongLetong]]'s comment that Doubao Seed is strong in [[AIForMath]]. The source does not describe Doubao's consumer assistant, but it broadens the Doubao/[[ByteDance]] page from voice and video into formal reasoning competition.
+
 ## Key Points
 - The hosts present Doubao's rumored paid membership as a natural consequence of [[AIInferenceCostStructure]] and rapid user growth.
 - They argue that [[Doubao]] cannot rely only on "costs are high" messaging; it needs [[ProductLedWillingnessToPay]] through clearly differentiated features.
@@ -28,6 +30,7 @@ Doubao is ByteDance's AI assistant and model product discussed in [[cong-qq-huiy
 - The flower-shop source uses Doubao as the baseline a vertical AI product must beat through workflow fit, not only prettier generation.
 - The OpenClaw reliability episode adds that assistant competition can shift into promotion and service-entry battles, where products win by routing users into tasks such as ordering rather than only answering questions.
 - Episode 140 adds that Doubao's voice fit may be a real consumer advantage even if it does not settle the frontier text-model race.
+- Episode 137 adds Doubao Seed as a Chinese [[AIForMath]] signal in Hong Letong's industry map.
 
 ## Connections
 - [[ByteDance]] — company behind Doubao.
@@ -39,3 +42,4 @@ Doubao is ByteDance's AI assistant and model product discussed in [[cong-qq-huiy
 - [[Qwen]], [[Alibaba]], and [[AIAssistantServiceEntry]] — EP117's assistant-entry comparison.
 - [[Yuanbao]], [[Meituan]], and [[AgenticCommerce]] — domestic assistant promotion and local-service ordering frame added by Keji Luandun.
 - [[YaoShunyu]], [[VoiceInteraction]], and [[ModelWorkflowFit]] — voice assistant assessment added by episode 140.
+- [[HongLetong]], [[ByteDance]], [[AIForMath]], and [[Axiom]] — AI-for-math context added by episode 137.
