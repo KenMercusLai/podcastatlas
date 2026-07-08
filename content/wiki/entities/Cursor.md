@@ -2,7 +2,7 @@
 title: "Cursor"
 type: entity
 tags: [ai-tool, coding]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]
+sources: [263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]
 last_updated: 2026-07-08
 ---
 
@@ -16,6 +16,8 @@ Cursor is mentioned in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-r
 
 [[140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]] adds Cursor as the startup-side coding-tool example under pressure from model providers. [[YaoShunyu]] treats Cursor as still valuable but exposed because [[ClaudeCode]], [[Codex]], and [[GeminiCLI]] can move closer to the model layer while coding remains one of the easiest high-value workflows for model companies to enter.
 
+[[263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs]] adds Cursor as the coding-market analogy for the [[Meitu]] and [[Adobe]] discussion. The episode argues that tools close to model capability can be pressured by official model-provider products, while still leaving room for application products that own workflow, interaction, and user-specific output quality.
+
 ## Connections
 - [[AgenticWorkflow]] — the key concept Cursor helps illustrate.
 - [[ContextEngineering]] — the reason project-aware tools can beat isolated chats.
@@ -25,3 +27,4 @@ Cursor is mentioned in [[gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-r
 - [[METR]] and [[AICodingVerification]] — productivity and review-overhead concerns raised in EP108.
 - [[AIProgrammingEngineShift]] — broader labor and craft shift around AI code editors in the Neihe Konghuang episode.
 - [[ClaudeCode]], [[Codex]], [[GeminiCLI]], and [[ModelProviderToolCompetition]] — provider-tool pressure reinforced by episode 140.
+- [[Meitu]], [[Adobe]], [[AIApplicationLayerMoat]], and [[VerticalWorkflowAI]] — creative-tool analogy added by Luanfanshu.

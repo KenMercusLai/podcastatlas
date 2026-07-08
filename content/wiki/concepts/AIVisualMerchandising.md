@@ -2,7 +2,7 @@
 title: "AI Visual Merchandising"
 type: concept
 tags: [ai, retail, merchandising, generative-media]
-sources: [women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]
+sources: [263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]
 last_updated: 2026-07-08
 ---
 
@@ -14,6 +14,8 @@ The important point is not that the model can make attractive pictures. The sour
 
 [[zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]] adds the earlier customer-presentation version: AI-generated visual proposals can help florists show arrangements or marketing angles, but the useful part depends on knowing the shop's materials, customer tastes, and the lightweight workflow a florist will actually adopt.
 
+[[263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs]] adds the ecommerce and advertising version through [[MeituDesignStudio]]. The source says business users do not only want attractive images; they want visuals that improve listings, ads, style consistency, batch output, and downstream ROI, which turns visual generation into [[VerticalWorkflowAI]].
+
 ## Key Claims
 - AI merchandising is valuable when product visuals are expensive to create manually and inventory changes faster than traditional photography workflows.
 - Generic image generation can fail in domain-specific retail because the model may not know exact materials, grades, colors, sizes, or feasible combinations.
@@ -22,6 +24,7 @@ The important point is not that the model can make attractive pictures. The sour
 - The output must remain honest enough for fulfillment. If generated visuals overpromise, the tool can increase disputes rather than trust.
 - Human operators still judge taste, availability, customer expectations, and whether a substitution preserves the gift intent.
 - AI visuals have to connect to a sales or confirmation moment; pretty images alone are not enough to justify a tool.
+- In ecommerce and advertising, visual generation becomes more valuable when connected to ROI feedback, batch operations, and brand/style constraints.
 
 ## Connections
 - [[OfflineAIImplementation]] — source context where visual generation became useful only inside real store operations.
@@ -31,3 +34,4 @@ The important point is not that the model can make attractive pictures. The sour
 - [[Doubao]] — generic-model comparator in the source's "Doubao can also do it" objection.
 - [[CustomerPull]] and [[DistributionLedProductBuilding]] — product images matter because platform listings and buyer confirmation shape demand.
 - [[Seedance]] and [[VideoModels]] — adjacent generated-media path for turning product concepts into customer-facing presentations.
+- [[MeituDesignStudio]], [[Meitu]], [[VerticalWorkflowAI]], and [[AIApplicationLayerMoat]] — ecommerce advertising case added by Luanfanshu.

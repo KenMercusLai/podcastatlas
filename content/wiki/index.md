@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [263.Sora死了，Adobe跌了，美图何去何从？](sources/263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs.md) — 乱翻书 episode on Sora's reported shutdown, Adobe's AI-cost pressure, Meitu's AI application strategy, model-container positioning, vertical workflow moats, and to-agent distribution.
 - [E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？](sources/e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie.md) — 硅谷101 episode on running-shoe technology, supercritical foam midsoles, carbon-plate racing shoes, marathon sub-2 performance, athlete sponsorship, and the performance-footwear market.
 - [E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE](sources/e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde.md) — 硅谷101 episode on FDEs, Cresta contact-center agents, Invisible Technologies workflow triage, private-equity AI transformation, and why model companies need enterprise deployment capacity.
 - [E43 张潇雨、孟岩对话许哲：没有更好的生活](sources/e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls.md) — 无人知晓 episode on black swans, fat-tail risk, antifragility, option convexity, ordinary-investor risk management, impermanence/no-self, and letting go of the fantasy of a finally better life.
@@ -165,6 +166,21 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [乱翻书](entities/Luanfanshu.md) — Podcast/show context for the Sora, Adobe, and Meitu application-layer strategy episode.
+- [庄明浩](entities/ZhuangMinghao.md) — Luanfanshu host framing whether frontier models are eating the application layer.
+- [魏熙](entities/WeiXi.md) — Technology writer and former advertising/product practitioner explaining Meitu's AI application strategy.
+- [吴欣鸿](entities/WuXinhong.md) — Meitu founder cited through the claim that AI is both Meitu's biggest opportunity and biggest danger.
+- [Meitu / 美图](entities/Meitu.md) — Creative-tool and image/video company used as the episode's central AI application-layer case.
+- [Sora](entities/Sora.md) — OpenAI AI-video product used as the episode's cautionary case for model-owned applications and platform timing.
+- [Adobe](entities/Adobe.md) — Professional creative-software company discussed through AI feature cost, copyright-safe models, and investor pressure.
+- [Adobe Photoshop](entities/AdobePhotoshop.md) — Adobe creative-tool surface used to contrast incumbent workflow ownership with AI inference cost.
+- [Meitu XiuXiu / 美图秀秀](entities/MeituXiuXiu.md) — Meitu consumer image-editing base that informs its AI application-layer user insight.
+- [BeautyCam / 美颜相机](entities/BeautyCam.md) — Meitu camera app whose teleprompter-like behavior helped seed Kaipai.
+- [Meipai / 美拍](entities/Meipai.md) — Meitu's earlier video/social platform attempt used as a comparison for Sora's platform ambition.
+- [Meitu Design Studio / 美图设计室](entities/MeituDesignStudio.md) — Meitu productivity product for ecommerce, advertising, and design-material workflows.
+- [Kaipai / 开拍](entities/Kaipai.md) — Meitu video/productivity app spun out from BeautyCam behavior.
+- [Wink](entities/Wink.md) — Meitu image/video product discussed through beauty-detail and video-editing differentiation.
+- [Jianying / 剪映](entities/Jianying.md) — Video-editing competitor used to clarify Meitu's narrower workflow defensibility.
 - [盖德](entities/Gaide.md) — Running-shoe reviewer and former sports-industry product manager explaining materials, fit, sponsorship, and marathon performance in E241.
 - [Nike](entities/Nike.md) — Sportswear and footwear company framed through Vaporfly, Alphafly, carbon-plate racing, and the missed official sub-2 marathon narrative.
 - [Adidas](entities/Adidas.md) — Sportswear and footwear company framed through Ultra Boost, Adios Pro Evo 3, Adizero Evo SL, and race-to-lifestyle demand.
@@ -937,6 +953,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Application Layer Moat](concepts/AIApplicationLayerMoat.md) — Application defensibility under model pressure through workflow fit, taste, quality control, user insight, and business delivery.
+- [Model Container Strategy](concepts/ModelContainerStrategy.md) — Application-company posture of selecting and combining external APIs, open-source models, self-trained vertical models, and product-layer judgment.
+- [Vertical Workflow AI](concepts/VerticalWorkflowAI.md) — AI product pattern that solves concrete domain workflows rather than only exposing raw model generation.
+- [To-Agent Distribution](concepts/ToAgentDistribution.md) — Route where products expose capabilities for AI agents to call on behalf of users, beside To C and To B.
 - [Running Shoe Technology](concepts/RunningShoeTechnology.md) — Product system of midsole materials, foaming, plates, geometry, uppers, lasts, drop, durability, and fit.
 - [Supercritical Foam Midsole](concepts/SupercriticalFoamMidsole.md) — Running-shoe foam process using gas-based foaming of TPU/TPEE/PEBA-like materials to improve cushioning, rebound, and weight.
 - [Carbon Plate Racing Shoes](concepts/CarbonPlateRacingShoes.md) — Road-racing shoe category where carbon structures, super foam, geometry, weight, and fit work as one performance system.

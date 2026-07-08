@@ -1183,3 +1183,11 @@ Added source page for a 硅谷101 episode with Gaide on running-shoe technology,
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | 263.Sora死了，Adobe跌了，美图何去何从？
+
+Added source page for a 乱翻书 episode on Sora's reported shutdown, Adobe's AI-cost pressure, Meitu's shift from beauty tools toward AI application workflows, model-container strategy, vertical workflow moats, and to-agent distribution. Created pages for 乱翻书, 庄明浩, 魏熙, 吴欣鸿, Meitu, Sora, Adobe, Adobe Photoshop, Meitu XiuXiu, BeautyCam, Meipai, Meitu Design Studio, Kaipai, Wink, Jianying, AI Application Layer Moat, Model Container Strategy, Vertical Workflow AI, and To-Agent Distribution; updated overview, index, OpenAI, Anthropic, Claude Code, Cursor, Video Models, AI Skills, AI Inference Cost Structure, Model Provider Tool Competition, Agent-Facing Interfaces, AI Visual Merchandising, Product Led Willingness To Pay, and AI Organization Design. No direct contradiction found; the source qualifies model-as-operating-system and model-provider-tool-competition narratives by arguing that models can absorb generic functions while vertical workflow ownership, taste, quality control, and fast product iteration can still sustain application-layer value.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

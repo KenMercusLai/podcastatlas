@@ -2,7 +2,7 @@
 title: "Video Models"
 type: concept
 tags: [video, generative-ai, content]
-sources: [gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]
+sources: [263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]
 last_updated: 2026-07-08
 ---
 
@@ -22,6 +22,8 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 
 [[zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]] adds an earlier production-cost interpretation. The hosts use ByteDance video generation, AI short dramas, AI ads, and movie-shot examples to argue that video models are moving from mockups toward direct content production, which pressures filming, advertising, and some creative labor while making direction and rights handling more important.
 
+[[263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs]] adds a product-strategy caution through [[Sora]], [[Meitu]], and [[Jianying]]. The source argues that stronger video generation alone does not guarantee a durable app or platform: quality, cost, workflow fit, editing control, and vertical use cases decide whether video models become usable products.
+
 ## Source Notes
 - The episode mentions commercial signals from products such as Kling and [[Seedance]], plus a case called Zombie Cleaner.
 - The host resists dismissing short-drama-style content, arguing that popular content can still have value.
@@ -32,6 +34,7 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 - In the AI interactive entertainment source, video-first content is expected to mature before fully interactive AI games because video has fewer system-design and retention constraints.
 - Vol. 162 adds that better video generation can raise the value of creative direction while making repetitive style copying and rights enforcement more urgent.
 - The Keji Luandun source connects better video generation to [[IntelligenceDevaluation]] because production skill and cost structures may be repriced.
+- The Luanfanshu source adds that video-model products still need [[AIApplicationLayerMoat]] and [[VerticalWorkflowAI]] when users require reliable final output rather than impressive samples.
 
 ## Connections
 - [[WorldModels]] — adjacent model direction for richer scene and environment representation.
@@ -42,3 +45,4 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 - [[WorldActionModels]] and [[CausalWorldModels]] — world-model routes that absorb video data but differ in causal grounding.
 - [[YORO]], [[AIInteractiveEntertainment]], and [[AIInteractiveContentPlatforms]] — interactive video and platform directions from the Youju crossover.
 - [[ByteDance]], [[Seedance]], [[AIContentProvenance]], and [[AIInteractiveEntertainment]] — Seedance 2.0 and rights-risk context added by Vol. 162 and extended by the Keji Luandun source.
+- [[Sora]], [[Meitu]], [[Jianying]], and [[AIApplicationLayerMoat]] — application-layer and workflow caution added by Luanfanshu.
