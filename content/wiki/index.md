@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [140. 对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去](sources/140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h.md) — 张小珺Jùn｜商业访谈录 episode with Yao Shunyu on Anthropic and Gemini model training, coding feedback, long-horizon AI, ML Coding, scaling, Chinese AI products, and why frontier-model work is now organizational rather than heroic.
 - [The Mourning Show: The Politics of Khamenei's Funeral](sources/the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7.md) — The Intelligence episode on Khamenei's funeral as political theater, Iran succession uncertainty, Japan's joint-custody reform, and Route 66 nostalgia tourism.
 - [读书，就是在读一个人的 F](sources/dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1.md) — 面基 episode on AI-assisted reading, the X/F/FX framework, reading as frame training, personal knowledge ecology, AI authorship presence, and using one's own judgment when AI makes outputs abundant.
 - [Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough](sources/catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2.md) — How I Built This episode on Catalina Crunch, dietary constraint as product insight, low-sugar cereal formulation, CPG manufacturing scale-up, DTC shipping economics, Whole Foods retail breakout, packaging, and commodity exposure.
@@ -150,6 +151,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Yao Shunyu / 姚顺宇](entities/YaoShunyu.md) — AI researcher and former physicist interviewed about Anthropic, Google DeepMind, long-horizon AI, ML Coding, and reliable frontier-model organization work.
 - [Catalina Crunch](entities/CatalinaCrunch.md) — Low-sugar, high-protein cereal and snack company founded by Krishna Kaliannan.
 - [Krishna Kaliannan](entities/KrishnaKaliannan.md) — Catalina Crunch founder whose diabetes, epilepsy, and keto eating shaped the product thesis.
 - [Escape My Bubble](entities/EscapeMyBubble.md) — Krishna Kaliannan's earlier Chrome extension that gained attention but lacked a clear business model.
@@ -844,6 +846,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, and Louis Hong episodes.
 
 ## Concepts
+- [Long-Horizon AI](concepts/LongHorizonAI.md) — Model and agent capability for completing extended tasks through selective context retention, retrieval, compression, forgetting, and feedback over long work chains.
+- [ML Coding](concepts/MLCoding.md) — AI-assisted machine-learning research loop where models write experiment code, run jobs, analyze results, diagnose failures, and propose next hypotheses.
 - [Dietary Constraint Product Insight](concepts/DietaryConstraintProductInsight.md) — Pattern where a founder's health or nutrition constraint reveals a product gap that broader customers may also feel.
 - [CPG Manufacturing Scale-Up](concepts/CPGManufacturingScaleUp.md) — Transition from handmade packaged goods to consistent, safe, economical production at retail-capable volume.
 - [Packaging As Product Experience](concepts/PackagingAsProductExperience.md) — CPG pattern where package format, closure, portability, instructions, and freshness shape use and willingness to pay.

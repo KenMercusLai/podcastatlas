@@ -2,7 +2,7 @@
 title: "Open Cloud"
 type: entity
 tags: [agent, ecosystem, china]
-sources: [e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm]
+sources: [e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]
 last_updated: 2026-07-08
 ---
 
@@ -20,12 +20,15 @@ Open Cloud is discussed in [[agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenm
 
 [[e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb]] adds a user-lifestyle reading. The host says [[OpenCloud]] becomes emotionally compelling when it lets him use a phone outdoors to delegate work, making the product less about model novelty and more about [[HumanAgencyUnderAI]], mobility, and the possibility that AI execution can return time to life outside the office.
 
+[[140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]] adds a frontier-lab reaction: [[YaoShunyu]] says Open Cloud-like products were not especially surprising inside model companies because internal demos already showed models controlling tools over longer horizons. Its value is therefore a public demonstration of [[LongHorizonAI]] and [[AgenticWorkflow]], not proof that the capability appeared from nowhere at launch.
+
 ## Episode Notes
 - The guests treat Open Cloud as important for making investors, founders, and users think differently about agents.
 - It exposed friction around installation, reliability, and restart motivation after outages.
 - [[TianjieJack]] reads the experience as evidence that CLI remains hard for many users, who may prefer familiar IM-style interaction.
 - The Hermes Agent discussion summarizes the OpenCloud/OpenClaw expectation as agents that are reachable, collaborative, and increasingly familiar with the user.
 - E163 adds the lifestyle version: mobile agent access can feel liberating only if it supports [[AIUsePacing]] instead of extending work everywhere.
+- Episode 140 adds that Open Cloud's significance is demonstrative: it made long-horizon tool control visible to users even if similar experiments already existed inside labs.
 
 ## Connections
 - [[AgentFacingInterfaces]] — CLI and skill-access layer Open Cloud helped make more visible.
@@ -37,3 +40,4 @@ Open Cloud is discussed in [[agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenm
 - [[RoutineAgentAutomation]] — scheduled skill-running use case added by EP127.
 - [[AliyunBailian]], [[AIInferenceCostStructure]], and [[MaaSInfrastructure]] — serving-capacity pressure added by the Bailian source.
 - [[PingGe]], [[HumanAgencyUnderAI]], and [[AIUsePacing]] — E163's mobile-agent and life-design interpretation.
+- [[YaoShunyu]], [[LongHorizonAI]], and [[AgenticWorkflow]] — frontier-lab interpretation added by episode 140.

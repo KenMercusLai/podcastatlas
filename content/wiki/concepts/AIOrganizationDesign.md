@@ -2,7 +2,7 @@
 title: "AI Organization Design"
 type: concept
 tags: [ai, organizations, management]
-sources: [130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]
+sources: [130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]
 last_updated: 2026-07-08
 ---
 
@@ -19,6 +19,8 @@ AI organization design is the problem of building organizations that can handle 
 [[133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]] adds [[AMILabs]] as a frontier-research startup organization case. [[XieSaining]] says the company is neither a pure research lab nor a closed big-model company: it needs a business model, but also wants young researchers to have visibility, preserve [[ResearchTaste]], and build [[WorldModels]] through real-world partners rather than becoming a huge anonymous machine.
 
 [[130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi]] adds [[ZhangYueguang]]'s application-startup version. He argues that [[AINativeProductDesign]] cannot fully follow the old linear handoff where product writes requirements, design makes screens, and engineering implements; early teams need product, design, engineering, and model exploration to define effect, taste, context, and boundaries together.
+
+[[140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]] adds [[YaoShunyu]]'s frontier-lab version. He argues that large-scale language-model work has moved past individual heroism: the durable unit is an organization with trusted technical leadership, reliable researchers, shared goals, and people who understand how local experiments affect the global training system. His contrast between [[Anthropic]]'s top-down execution and [[GoogleDeepMind]]'s broader research environment makes organization design part of model capability rather than a management afterthought.
 
 ## Key Claims
 - High-IQ technical talent is not enough; people also need mission, collaboration, persistence, and willingness to do disciplined work.
@@ -38,6 +40,8 @@ AI organization design is the problem of building organizations that can handle 
 - AI-native workspaces can move coordination from meetings and manual dashboards into shared context, but they need explicit values, privacy, and responsibility boundaries.
 - A world-model startup may need to combine mission-driven research culture, real-world partner access, decentralized offices, and commercial discipline rather than copying either a university lab or a closed frontier-model company.
 - An AI application startup may need mixed product-design-engineering exploration because model effect, context, latency, editability, and interface cannot be cleanly separated at the start.
+- Frontier-model organizations need reliable people who can own system-wide consequences, not only clever ideas or local benchmark wins.
+- Top-down execution can work when technical leaders have credibility and decision makers trust one another, but it becomes fragile when culture, scale, or politics break that trust.
 
 ## Connections
 - [[YinQi]], [[StepFun]], and [[Megvii]] — source speaker, new organization, and retrospective organization case.
@@ -53,3 +57,4 @@ AI organization design is the problem of building organizations that can handle 
 - [[Moxt]], [[ZhangHaoran]], [[AICoworkers]], and [[OrganizationalContext]] — AI-native workspace and organization-design case added by the Moxt source.
 - [[AMILabs]], [[XieSaining]], [[YannLeCun]], [[ResearchTaste]], and [[DecentralizedWorldModelStrategy]] — research-startup organization case added by the Xie Saining source.
 - [[ZhangYueguang]], [[Miaoya]], [[Docky]], and [[AINativeProductDesign]] — application-startup organization case added by episode 130.
+- [[YaoShunyu]], [[Anthropic]], [[GoogleDeepMind]], [[LongHorizonAI]], and [[MLCoding]] — frontier-lab organization case added by episode 140.

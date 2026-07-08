@@ -2,7 +2,7 @@
 title: "AI Engineering Thinking"
 type: concept
 tags: [ai, workflow, software-engineering]
-sources: [vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]
+sources: [vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]
 last_updated: 2026-07-08
 ---
 
@@ -36,6 +36,8 @@ AI engineering thinking is the habit of turning a vague goal into explicit requi
 
 [[zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]] adds an earlier personal-builder version through [[GLM5]]. The host can quickly create websites, an iOS app, a podcast-editing tool, and flower-shop prototypes, but the hard parts move to App Store process, deployment, pricing, filing, vertical workflow knowledge, and deciding which user need is real.
 
+[[140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]] adds the frontier-research version through [[YaoShunyu]]. In his account, engineering thinking means turning a model-training idea into a defined environment, data recipe, feedback signal, experiment, and system constraint; a clever idea is cheap unless it can be made into runnable, stable, measurable work.
+
 ## Key Claims
 - AI is most useful when the work can be decomposed into bounded tasks with clear inputs, outputs, and acceptance criteria.
 - Test-driven development, end-to-end tests, screenshots, code review, documentation, and logging become easier to enforce because AI will perform tedious process steps if asked.
@@ -61,6 +63,8 @@ AI engineering thinking is the habit of turning a vague goal into explicit requi
 - Plan-first agent work is useful only if the human actually reviews the plan, acceptance criteria, and test strategy before letting implementation run.
 - Engineering thinking includes deciding when a generated system is good enough for self-use and when a public product needs polish, resilience, and ongoing maintenance.
 - When coding gets cheap, engineering thinking expands into platform launch process, operations, customer research, and the ability to translate fuzzy demand into executable work.
+- In model training, engineering thinking means debugging the whole experimental system before declaring a scaling law, data recipe, or algorithmic idea invalid.
+- [[MLCoding]] makes engineering thinking part of research itself because models need experiment structure, metrics, and logs to help improve future models.
 
 ## Connections
 - [[VibeCoding]] — AI coding practice that needs this engineering posture to become product work.
@@ -82,3 +86,4 @@ AI engineering thinking is the habit of turning a vague goal into explicit requi
 - [[AICommunicationAbility]], [[AgenticSoftware]], and [[AICodingVerification]] — Vol. 164's task-framing and review case.
 - [[NewSpot]], [[VibeCoding]], and [[HumanJudgmentUnderAI]] — Vol. 160's product-owner workflow for turning AI-written code into useful software.
 - [[GLM5]], [[IntelligenceDevaluation]], [[DomainExpertAlignment]], and [[ProductLedWillingnessToPay]] — personal-builder and labor-repricing branch added by the Keji Luandun source.
+- [[YaoShunyu]], [[MLCoding]], [[FrontierModelScaling]], and [[ProblemDefinitionInResearch]] — frontier-training and experiment-design branch added by episode 140.

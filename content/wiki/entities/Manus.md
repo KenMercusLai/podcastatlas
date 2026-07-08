@@ -2,7 +2,7 @@
 title: "Manus"
 type: entity
 tags: [ai-tool, agent]
-sources: [agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun]
+sources: [agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]
 last_updated: 2026-07-08
 ---
 
@@ -22,6 +22,8 @@ Manus is referenced in [[agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-za
 
 [[bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun]] adds Manus as a [[PaymentLedMarketSelection]] example. [[Win]] says the team first went to the United States while still doing Monica, then changed direction in a way that led to Manus, using the story to argue that overseas field exposure can reveal paid workflows and product direction that are hard to see from China alone.
 
+[[140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]] adds a skeptical comparison with [[OpenCloud]]. [[YaoShunyu]] says he did not see a clear qualitative difference that made Manus impossible for peers to imitate, reinforcing the page's existing theme that agent startups need durable workflow, distribution, or market advantages beyond demonstrating tool control.
+
 ## Connections
 - [[AgenticWorkflow]] — broader category Manus is used to illustrate.
 - [[HeadlessSoftware]] — source thesis that agents can route around older GUI-first products.
@@ -33,3 +35,4 @@ Manus is referenced in [[agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-za
 - [[Moxt]], [[AINativeWorkspace]], and [[OrganizationalContext]] — workspace-centered competitor frame added by the Moxt source.
 - [[Meta]], [[AIAgentOverseasCommercialization]], [[ChinaAgentMarketFriction]], and [[ChineseModelLiberalArtsConstraint]] — acquisition, overseas-market, domestic-friction, and model-capability frame added by the Keji Luandun source.
 - [[PaymentLedMarketSelection]] and [[Win]] — field-discovery and overseas-market-choice frame added by the later Keji Luandun episode.
+- [[YaoShunyu]], [[OpenCloud]], [[LongHorizonAI]], and [[ModelProviderToolCompetition]] — imitation and differentiation pressure added by episode 140.

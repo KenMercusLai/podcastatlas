@@ -1039,3 +1039,11 @@ Added source page for a The Intelligence episode on Khamenei's funeral as politi
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | 140. 对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去
+
+Added source page for a 张小珺Jùn｜商业访谈录 episode on Yao Shunyu, Anthropic, Google DeepMind, Gemini, Claude Code, coding feedback, long-horizon AI, ML Coding, model scaling, context management, frontier-lab organization, Doubao voice, Seedance video, and why large-model work is now more organizational than heroic. Created pages for Yao Shunyu / 姚顺宇, Long-Horizon AI, and ML Coding; updated overview, index, Zhang Xiaojun Commercial Interviews, Anthropic, Google DeepMind, Gemini, Claude Code, OpenAI, Cursor, ByteDance, Doubao, Seedance, Open Cloud, Manus, Frontier Model Scaling, AI Coding Verification, AI Engineering Thinking, Context Engineering, AI Organization Design, Model Workflow Fit, World Models, Problem Definition In Research, and Research Taste. No direct contradiction found; the source qualifies scaling-wall and world-model narratives by emphasizing problem definition, verifier quality, and system-level execution.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

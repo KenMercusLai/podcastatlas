@@ -2,7 +2,7 @@
 title: "Frontier Model Scaling"
 type: concept
 tags: [models, scaling, infrastructure]
-sources: [duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]
+sources: [duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]
 last_updated: 2026-07-08
 ---
 
@@ -24,6 +24,8 @@ Frontier model scaling is the attempt to improve AI capability by increasing mod
 
 [[134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]] adds [[XieChen]]'s data-recipe and evaluation version of the same constraint. He argues that large language models are moving from pretraining scarcity toward post-training and evaluation scarcity, while [[EmbodiedAI]] faces both physical-data scarcity and a lack of scalable [[RoboticsSimulationEvaluation]].
 
+[[140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]] adds [[YaoShunyu]]'s anti-premature-wall view. He argues that model progress has not obviously slowed and that apparent scaling failures can come from bugs, token horizon, data choice, scientific assumptions, or saturated benchmarks. The source shifts attention from "can models still scale?" toward "which problem, data, environment, and feedback signal are well defined enough to scale?"
+
 ## Key Claims
 - Each model generation may require several times more parameters or training investment, but simple scaling-law extrapolation cannot be pushed indefinitely.
 - Yan says U.S. frontier models are roughly an order of magnitude ahead of Chinese models, which he equates to about two model generations.
@@ -40,6 +42,8 @@ Frontier model scaling is the attempt to improve AI capability by increasing mod
 - LLM scaling may remain useful while ceasing to be the only organizing principle if physical-world prediction, action, memory, and abstraction become the bottleneck.
 - Real-world partner data can become a scaling input when a company pursues [[DecentralizedWorldModelStrategy]] rather than only centralized internet pretraining.
 - Model scaling depends on [[DataRecipeCoCreation]] when teams must discover which mix of real robot, simulation, human first-person, expert feedback, and evaluation data actually improves behavior.
+- Saturated public benchmarks can make scaling look flatter than it feels in real workflows; task definition and evaluation quality become part of the scaling system.
+- Scaling-wall claims should be separated from failures caused by bugs, wrong data, narrow token horizons, weak environments, or ill-defined objectives.
 
 ## Connections
 - [[MiniMax]] and [[YanJunjie]] — source of the scaling discussion.
@@ -54,3 +58,4 @@ Frontier model scaling is the attempt to improve AI capability by increasing mod
 - [[GLM52]], [[AIExportControls]], and [[OpenSourceAIModels]] — policy and good-enough substitution case added by the Keji Luandun export-control episode.
 - [[XieSaining]], [[AMILabs]], [[RepresentationLearning]], and [[DecentralizedWorldModelStrategy]] — representation-first and real-world-data critique of LLM-centered scaling.
 - [[XieChen]], [[DataAsEducation]], [[DataRecipeCoCreation]], [[EmbodiedDataPyramid]], and [[RoboticsSimulationEvaluation]] — data-recipe and evaluation constraints added by episode 134.
+- [[YaoShunyu]], [[LongHorizonAI]], [[MLCoding]], and [[ProblemDefinitionInResearch]] — problem-definition and no-obvious-slowdown view added by episode 140.

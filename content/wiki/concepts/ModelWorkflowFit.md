@@ -2,8 +2,8 @@
 title: "Model Workflow Fit"
 type: concept
 tags: [ai, models, workflow]
-sources: [vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
-last_updated: 2026-07-07
+sources: [vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]
+last_updated: 2026-07-08
 ---
 
 # Model Workflow Fit
@@ -14,6 +14,8 @@ The concept is adjacent to [[ModelRoutingCostControl]] but broader. Routing asks
 
 [[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] adds a local-agent version. In [[OpenClaw]], simpler subtasks can fit local or cheaper models, but complex reasoning and tool orchestration still depend on stronger remote models; the fit also changes when the task is scheduled, touches local accounts, or requires reliable follow-through.
 
+[[140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]] adds a frontier-researcher comparison. [[YaoShunyu]] says public benchmarks make top models look very close, but workflow behavior still differs: Claude is strong in tools and agents, Gemini is strong in reasoning and everyday use, and [[Codex]] has narrowed the coding gap. The source strengthens the idea that workflow fit is a better question than single-model rank once benchmarks saturate.
+
 ## Key Claims
 - Model comparisons should include behavior under the user's own tasks, not only published rankings or viral release notes.
 - A slower model can still fit review, planning, or high-context work if it reduces drift and improves trust.
@@ -22,6 +24,8 @@ The concept is adjacent to [[ModelRoutingCostControl]] but broader. Routing asks
 - IDE, CLI, browser, chat, and IM surfaces change model usefulness because each exposes different context, controls, and review loops.
 - Workflow fit changes over time as model versions, pricing, quota, and tool interfaces shift.
 - In agent workflows, model fit must include blast radius: the same model behavior that is acceptable for summarization may be unacceptable when the agent can change files, accounts, or scheduled jobs.
+- When benchmarks saturate, model fit should be judged by the task definition, feedback loop, and real user workflow where differences remain visible.
+- Product fit can matter as much as raw intelligence: voice speed, verbosity, tool behavior, and willingness to infer intent can change which model feels best.
 
 ## Connections
 - [[Codex]], [[ClaudeCode]], and [[Xcode]] — coding-agent cases in the source.
@@ -30,3 +34,4 @@ The concept is adjacent to [[ModelRoutingCostControl]] but broader. Routing asks
 - [[AICodingVerification]], [[AgenticWorkflow]], and [[HumanJudgmentUnderAI]] — verification and human responsibility layer.
 - [[ModelProviderToolCompetition]] and [[AIProductFragmentation]] — market and product-integration pressures that can change which model feels usable.
 - [[OpenClaw]], [[Kimi]], and [[AgentPermissionBoundaries]] — local-agent fit and cost-routing case added by Keji Luandun.
+- [[YaoShunyu]], [[Gemini]], [[ClaudeCode]], [[Codex]], [[Doubao]], and [[Seedance]] — benchmark-saturation and workflow-behavior comparison added by episode 140.
