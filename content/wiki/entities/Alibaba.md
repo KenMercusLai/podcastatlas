@@ -2,7 +2,7 @@
 title: "Alibaba"
 type: entity
 tags: [company, ai, china]
-sources: [130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0]
+sources: [130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500]
 last_updated: 2026-07-09
 ---
 
@@ -30,6 +30,8 @@ Alibaba is the large-company setting for [[ali-qianwen-lizhi-yuzhen-zai-jiwanren
 
 [[faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0]] adds Alibaba through the coupon and Spring Festival growth branch. The episode compares Taobao/Alibaba-style coupon and flash-purchase promotions with [[Meituan]] and [[Douyin]] local life, and says Alibaba learned some large-campaign mechanics from ByteDance but lacks a traffic motherlode as strong as Douyin for this specific red-packet middle-platform pattern.
 
+[[no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500]] adds Alibaba's older ecommerce-history role. [[Taobao]] appears as the local winner against [[EachNet]] and as the upstream platform whose link-rule changes forced [[Mogujie]] and [[Meilishuo]] into harder self-operated ecommerce. The episode also connects Alibaba to [[Hema]], [[NetEaseKaola]], [[Taocaicai]], and the broader shift from marketplace ecommerce into fresh grocery, cross-border imports, [[CommunityGroupBuying]], and [[InstantRetail]].
+
 ## Source Position
 - Provides the resources needed to train and distribute large models such as [[Qwen]].
 - Faces [[AICommercializationPressure]] because model training is expensive and open-source influence does not automatically translate into revenue.
@@ -45,6 +47,7 @@ Alibaba is the large-company setting for [[ali-qianwen-lizhi-yuzhen-zai-jiwanren
 - In episode 138, appears as Luo Fuli's earlier research environment before [[DeepSeek]] and [[Xiaomi]].
 - In episode 206, appears through [[AlibabaHealth]] as an ecommerce and online-pharmacy path into internet healthcare.
 - In episode 8 of the Luanfanshu ByteDance series, appears through coupon-led transaction growth, Taobao flash-style subsidy competition, and the limits of copying ByteDance's Spring Festival or red-packet playbook without an equally strong traffic pool.
+- In episode 200, appears as the platform ecosystem around [[Taobao]], [[Hema]], [[NetEaseKaola]], and [[Taocaicai]], with both winner-side scale and upstream rule-setting power.
 
 ## Connections
 - [[OpenSourceAIModels]] and [[LargeCompanyOpenSourceStrategy]] — strategic context for Qwen.
@@ -60,3 +63,4 @@ Alibaba is the large-company setting for [[ali-qianwen-lizhi-yuzhen-zai-jiwanren
 - [[LuoFuli]], [[DeepSeek]], [[Xiaomi]], and [[AgentPostTraining]] — career and model-training context added by episode 138.
 - [[AlibabaHealth]], [[PharmaceuticalEcommerce]], and [[InternetHealthcare]] — healthcare-platform context added by episode 206.
 - [[Taobao]], [[Meituan]], [[Douyin]], [[CouponLedTransactionGrowth]], and [[SpringFestivalGrowthCampaign]] — coupon and campaign-growth context added by the Luanfanshu episode 8 source.
+- [[ChineseEcommercePlatformHistory]], [[PlatformDependencyRisk]], [[CommunityGroupBuying]], [[InstantRetail]], [[Hema]], [[NetEaseKaola]], and [[Taocaicai]] — ecommerce-history context added by episode 200.

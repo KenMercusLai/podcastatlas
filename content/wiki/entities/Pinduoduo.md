@@ -2,7 +2,7 @@
 title: "Pinduoduo"
 type: entity
 tags: [company, ecommerce, china, marketplace]
-sources: [zhe-bannian-women-you-maile-naxie-keji-haowu-1, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0]
+sources: [zhe-bannian-women-you-maile-naxie-keji-haowu-1, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500]
 last_updated: 2026-07-09
 ---
 
@@ -20,6 +20,10 @@ The source does not analyze Pinduoduo as a company in depth. Its relevance is pr
 
 [[faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0]] adds Pinduoduo as a canonical [[FissionGrowth]] case. The episode treats "砍一刀" as a growth mechanism that combined loss aversion, sunk cost, social currency, and family relationships, while also noting that Pinduoduo later relied more on low prices, supply chain, and百亿补贴 to reinforce consumer mindshare.
 
+[[no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500]] adds Pinduoduo in two ways: as one of the major ecommerce winners outside the episode's main failure-case focus, and through the comment-section coda after the earlier Pinduoduo episode. Listener views in the source split between criticism of work intensity and quality perception, and praise for low prices, after-sales experience, execution speed, and a merchant path less dependent on creators than Douyin or [[Taobao]].
+
+The same source also connects Pinduoduo to grocery competition through [[DuoduoMaicai]], where community group buying moved from startup experimentation into large-platform subsidy and fulfillment competition.
+
 ## Connections
 - [[KejiLuandun]] — show where the sponsorship and product list appear.
 - [[PersonalInfrastructureCostAccounting]] — the episode compares subsidy prices against official prices, expected use, and ownership cost.
@@ -29,3 +33,4 @@ The source does not analyze Pinduoduo as a company in depth. Its relevance is pr
 - [[FissionGrowth]], [[CouponLedTransactionGrowth]], and [[GrowthROILayers]] — episode 8 context for砍一刀, subsidy, and transaction economics.
 - [[GoodCompanyGoodStock]], [[MarginOfSafety]], [[InvestmentCatalyst]], and [[EarningsGrowthAcceleration]] — investing-method concepts added by the FengTouQuan episode.
 - [[PharmaceuticalEcommerce]], [[JDHealth]], and [[InternetHealthcare]] — medicine-retail context added by episode 206.
+- [[DuoduoMaicai]], [[CommunityGroupBuying]], [[ChineseEcommercePlatformHistory]], and [[EcommercePlatformFailureModes]] — ecommerce-history and grocery-platform context added by Banlatte episode 200.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.200 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法](sources/no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500.md) — 半拿铁 episode on China ecommerce failures across early B2C/C2C, vertical ecommerce, mother-and-baby, beauty, social fashion, luxury, old retail, cross-border, fresh grocery, community group buying, and instant retail.
 - [No.203 "不死鸟"兰世立](sources/no-203-businiao-lanshili-979295393.md) — 半拿铁 episode on Lan Shili, East Star Group, East Star Airlines, private-airline opening, aircraft leasing, local-government rescue, litigation, acquittal, and later capital-market relaunch attempts.
 - [No.207 闽南往事：众神人间办事处，涨海声中万国商](sources/no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918.md) — 半拿铁 episode on Quanzhou and Minnan maritime history, from Song-Yuan port institutions, Pu Shougeng, Zheng Zhilong, Zheng Chenggong, Taiwan and Southeast Asia migration to qiaopi, Chen Jiageng, and Jinjiang manufacturing.
 - [发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集](sources/faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0.md) — 乱翻书 episode with Xu Hongliang on red packets, Lite apps, fission, coupons, Spring Festival campaigns, local-life transaction growth, and why AI-era growth needs model quality and ROI discipline.
@@ -221,6 +222,42 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [JD.com / 京东](entities/JDCom.md) — Major surviving Chinese ecommerce and logistics platform used as a benchmark against older and failed ecommerce cases.
+- [8848](entities/8848.md) — Early Chinese B2C ecommerce company framed as a first-mover case weakened by capital timing and founder-control limits.
+- [易趣 / EachNet](entities/EachNet.md) — Early Chinese C2C marketplace whose eBay acquisition became a localization and platform-competition lesson.
+- [卓越网 / Amazon China](entities/JoyoAmazonChina.md) — Book and media ecommerce company acquired by Amazon, later used as a China-localization contrast.
+- [当当 / Dangdang](entities/Dangdang.md) — Early book ecommerce star later weakened by category competition and founder-family control conflict.
+- [PPG](entities/PPG.md) — Men's-shirt vertical ecommerce case with asset-light appeal, ad dependence, and supply-chain control problems.
+- [凡客 / Vancl](entities/Vancl.md) — Apparel ecommerce brand whose advertising success and category expansion led into inventory and organization pressure.
+- [红孩子 / Redbaby](entities/Redbaby.md) — Early mother-and-baby ecommerce platform later sold to Suning after founder-investor and expansion issues.
+- [蜜芽 / Mia](entities/MiaEcommerce.md) — Mobile-era mother-and-baby ecommerce platform that moved from high valuation toward app closure and personal-IP commerce.
+- [贝贝网 / Beibei](entities/Beibei.md) — Mother-and-baby ecommerce platform linked to later member-distribution and supplier-payment strain.
+- [宝宝树 / BabyTree](entities/BabyTree.md) — Mother-and-baby community and platform case used for listing, delisting, and finance-seal control conflict.
+- [麦考林 / Mecox Lane](entities/MecoxLane.md) — Catalog-retail and fashion ecommerce company marking the mail-order-to-online transition.
+- [聚美优品 / Jumei Youpin](entities/JumeiYoupin.md) — Beauty ecommerce company whose celebrity-founder listing story later met counterfeit trust and diversification pressure.
+- [乐蜂网 / Lefeng](entities/Lefeng.md) — Content and celebrity-led beauty ecommerce platform later acquired by Vipshop.
+- [蘑菇街 / Mogujie](entities/Mogujie.md) — Women's fashion discovery and social-commerce platform exposed to Taobao link-rule dependency.
+- [美丽说 / Meilishuo](entities/Meilishuo.md) — Fashion guide-community peer to Mogujie and later merger counterpart.
+- [寺库 / Secoo](entities/Secoo.md) — Luxury ecommerce case illustrating authentication, supply, discount, and low-frequency purchase constraints.
+- [唯品会 / Vipshop](entities/Vipshop.md) — Surviving vertical ecommerce exception built around brand tail-stock flash sales and focused fulfillment.
+- [一号店 / Yihaodian](entities/Yihaodian.md) — Online-supermarket company that passed through Ping An and Walmart ownership before sale to JD.com.
+- [苏宁 / Suning](entities/Suning.md) — Appliance-retail giant whose ecommerce transition, diversification, sports spending, and debt pressure led into restructuring.
+- [国美 / Gome](entities/Gome.md) — Appliance-retail chain whose founder control conflict and late app strategy illustrate missed ecommerce transition.
+- [百度有啊 / Baidu Youa](entities/BaiduYoua.md) — Baidu ecommerce attempt that did not turn search traffic into a durable marketplace.
+- [网易严选 / NetEase Yanxuan](entities/NetEaseYanxuan.md) — Selected-goods and ODM ecommerce platform tied to NetEase's curated-commerce experiment.
+- [小米有品 / Xiaomi Youpin](entities/XiaomiYoupin.md) — Xiaomi ecosystem selected-goods ecommerce platform.
+- [网易考拉 / NetEase Kaola](entities/NetEaseKaola.md) — Cross-border import ecommerce platform sold by NetEase to Alibaba.
+- [洋码头 / Yangmatou](entities/Yangmatou.md) — Overseas-buyer and cross-border logistics ecommerce platform pressured by taxes, trust, giants, and pandemic disruption.
+- [易果生鲜 / Yiguo](entities/Yiguo.md) — Early fresh-grocery ecommerce company preceding front-warehouse and community-grocery waves.
+- [每日优鲜 / Missfresh](entities/Missfresh.md) — Front-warehouse fresh-grocery platform whose growth and listing gave way to losses, shutdowns, and delisting.
+- [叮咚买菜 / Dingdong Maicai](entities/DingdongMaicai.md) — Fresh-grocery front-warehouse platform contrasted with Missfresh and later linked to Meituan in the source account.
+- [朴朴超市 / Pupu Supermarket](entities/PupuSupermarket.md) — Fuzhou-origin front-warehouse grocery company used as a steadier density-first contrast.
+- [盒马 / Hema](entities/Hema.md) — Store-warehouse fresh-retail route inside Alibaba's grocery and instant-retail experiments.
+- [呆萝卜 / Da Luobo](entities/DaLuobo.md) — Hefei community fresh-grocery company that expanded quickly before cash-burn collapse.
+- [兴盛优选 / Xingsheng Youxuan](entities/XingshengYouxuan.md) — Early community group-buying platform before large-platform subsidy competition.
+- [多多买菜 / Duoduo Maicai](entities/DuoduoMaicai.md) — Pinduoduo's community-group-buying business and a surviving platform-backed route.
+- [美团优选 / Meituan Youxuan](entities/MeituanYouxuan.md) — Meituan's community-group-buying business in the large-platform entry wave.
+- [淘菜菜 / Taocaicai](entities/Taocaicai.md) — Alibaba's community-grocery business and platform-backed community group-buying entrant.
 - [Lan Shili / 兰世立](entities/LanShili.md) — Hubei entrepreneur whose East Star businesses, airline failure, litigation, acquittal, and later relaunch attempts anchor the episode.
 - [East Star Airlines / 东星航空](entities/EastStarAirlines.md) — Early Chinese private airline founded by Lan Shili, expanded through aircraft leasing, and grounded in 2009 before bankruptcy.
 - [East Star Group / 东星集团](entities/EastStarGroup.md) — Lan Shili's multi-business group across computers, restaurants, real estate, tourism, ticketing, and aviation.
@@ -1293,6 +1330,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Chinese Ecommerce Platform History](concepts/ChineseEcommercePlatformHistory.md) — China ecommerce industry arc told through winners, failures, acquisitions, vertical platforms, grocery, and fulfillment shifts.
+- [Ecommerce Platform Failure Modes](concepts/EcommercePlatformFailureModes.md) — Failure taxonomy covering funding gaps, governance conflict, inventory, ad dependence, platform rules, policy, and low-margin fulfillment.
+- [Ecommerce Surface Metrics Risk](concepts/EcommerceSurfaceMetricsRisk.md) — Risk that GMV, growth, valuation, repeat purchase, and listing status hide weak cash flow and unit economics.
+- [Vertical Ecommerce Failure Modes](concepts/VerticalEcommerceFailureModes.md) — Category-platform trap where focus aids early growth but expansion, inventory, and marketplace copying erode advantage.
+- [Platform Dependency Risk](concepts/PlatformDependencyRisk.md) — Vulnerability created when growth relies on another platform's traffic, links, rankings, rules, or creator ecosystem.
+- [Fresh Grocery Ecommerce Economics](concepts/FreshGroceryEcommerceEconomics.md) — Online grocery constraints around low gross margin, cold chain, shrinkage, density, and delivery cost.
+- [Community Group Buying](concepts/CommunityGroupBuying.md) — Preorder, aggregate-purchase, neighborhood-pickup grocery model shaped by group leaders, subsidy wars, and regulation.
+- [Instant Retail](concepts/InstantRetail.md) — One-hour local delivery layer expanding ecommerce into groceries, medicine, flowers, alcohol, daily goods, and electronics.
+- [Ecommerce Fulfillment Complexity](concepts/EcommerceFulfillmentComplexity.md) — Operational burden behind online orders across purchasing, inventory, warehousing, picking, delivery, returns, fraud, and after-sales.
 - [Chinese Private Airline Opening](concepts/ChinesePrivateAirlineOpening.md) — Policy and market window that let private capital enter Chinese civil aviation while leaving high capital and regulatory barriers intact.
 - [Aviation Finance Leasing](concepts/AviationFinanceLeasing.md) — Aircraft-access financing layer that enabled new airlines such as East Star to scale before internal cash flow matured.
 - [Leveraged Aviation Expansion](concepts/LeveragedAviationExpansion.md) — Fast airline growth pattern built on approvals, local support, leasing, and external credit before durable cash flow is proven.
