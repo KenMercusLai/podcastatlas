@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Google 的 AI 策略：不赌模型，赌什么？｜ Google Cloud Next 现场 S10E09](sources/google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6.md) — What's Next｜科技早知道 episode from Google Cloud Next on One Google, Google Cloud, TPU, Gemini, enterprise agents, agent governance, capability overhang, and startup opportunities around data flywheels and business outcomes.
 - [商业小样43 | AI时代，谁在给服务器“降温”](sources/shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076.md) — 商业就是这样 episode on AI data-center cooling, high-density GPU heat, liquid cooling, pumps, water systems, Grundfos, and prefabricated cooling stations.
 - [Latin lessons: the Donroe-doctrine boost](sources/latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d.md) — The Intelligence episode on Latin America's Trump-era investment boom, U.S.-China critical-minerals competition, Nigeria's jollof-price shock, and the BBC longwave shutdown.
 - [Starmergeddon: British PM resigns](sources/starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1.md) — The Intelligence episode on Keir Starmer's resignation, Labour succession through Andy Burnham, Colombia's security backlash and rightward shift, and Toy Story 5 as a screen-time parenting critique.
@@ -199,6 +200,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Google Cloud](entities/GoogleCloud.md) — Google enterprise cloud and AI infrastructure platform positioned through Google Cloud Next as part of Google's full-stack AI strategy.
+- [TPU](entities/TPU.md) — Google's AI chip family, discussed as a training and inference infrastructure layer inside Google's cloud-model-enterprise stack.
 - [Latin America](entities/LatinAmerica.md) — Regional frame connecting Trump-era investment, U.S.-China strategic competition, critical minerals, and earlier security-driven rightward politics.
 - [China](entities/China.md) — Strategic investor and rival power in the Latin lessons source's Latin America investment, factory, mining, and infrastructure frame.
 - [Brazil](entities/Brazil.md) — Latin America investment case for a U.S.-backed rare-earth mine and BYD's China-linked factory presence.
@@ -1140,6 +1143,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Full-Stack AI Platform](concepts/FullStackAIPlatform.md) — Strategy of competing through chips, cloud, models, product surfaces, data, tools, security, and enterprise relationships rather than model rank alone.
+- [Enterprise Agent Governance](concepts/EnterpriseAgentGovernance.md) — Operating layer for managing many enterprise agents through identity, permissions, observability, security, audit, lifecycle, and human review.
+- [Capability Overhang](concepts/CapabilityOverhang.md) — Gap between what AI can technically do and what an organization can absorb into production workflows.
 - [Donroe Doctrine](concepts/DonroeDoctrine.md) — Episode shorthand for Trump-era U.S. pressure and near-abroad influence redirecting capital toward Latin America.
 - [Latin America Investment Boom](concepts/LatinAmericaInvestmentBoom.md) — FDI surge frame linking regional macro stability, U.S.-China competition, Trump pressure, mining, and long project timelines.
 - [Critical Minerals Geopolitics](concepts/CriticalMineralsGeopolitics.md) — Strategic-resource competition where mines, factories, supply chains, and infrastructure become instruments of state influence.

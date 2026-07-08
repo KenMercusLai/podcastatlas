@@ -1384,6 +1384,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-09] ingest | Google 的 AI 策略：不赌模型，赌什么？｜ Google Cloud Next 现场 S10E09
+
+Added source page for a What's Next｜科技早知道 episode from Google Cloud Next on Google's One Google strategy, Google Cloud, TPU, Gemini, enterprise agents, agent governance, capability overhang, and startup opportunities around proprietary data, domain know-how, payment willingness, and business outcomes. Created pages for Google Cloud, TPU, Full-Stack AI Platform, Enterprise Agent Governance, and Capability Overhang; updated overview, index, Google, Gemini, Anthropic, What's Next｜科技早知道, Agentic Workflow, Agent Harness, MaaS Infrastructure, Business-Led AI Transformation, Human Judgment Under AI, Service As Software, Outcome-Based AI Pricing, AI Application Layer Moat, and Product Led Willingness To Pay. No direct contradiction found; the source qualifies existing Google product-fragmentation concerns by showing how the same breadth can become an enterprise full-stack integration advantage while still leaving a breadth-versus-depth risk.
+
 ## [2026-07-09] ingest | AI 时代的超级入口还是手机吗？｜ S10E17
 
 Added source page for a What's Next｜科技早知道 episode with Han Boxiao and Chen Yiqiang on whether phones remain the AI-era super entry point. Created pages for vivo, Han Boxiao, Chen Yiqiang, Dimensity 9500, Smartphone AI Hub, On-Device AI, Handset-Chip Co-Design, Foldable Phone Productivity, and Edge-Cloud AI Boundary; updated overview, index, What's Next｜科技早知道, MediaTek, AI Plus Terminals, On-Device Model Hierarchy, Smartphone Operating System Ecosystems, China Handset Supply Chain, Chinese Domestic Handset Waves, OS-Level Context, and Consumer Electronics Lifecycle. No direct contradiction found; the source reinforces the wiki's AI plus terminals thread while qualifying it with phone-specific constraints around NPU scheduling, privacy, foldable productivity, hardware planning cycles, and edge-cloud division of labor.
@@ -1464,3 +1468,7 @@ Added source page for a 商业就是这样 episode on AI-era data-center cooling
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used the existing `graph/graph.json` snapshot and found no hub stubs, eight fragile bridges, and no isolated communities; the graph snapshot does not include the newest untracked Google Cloud/TPU ingest pages. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; report returned in-session and `lint-report.md` was not saved.

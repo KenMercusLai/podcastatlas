@@ -2,7 +2,7 @@
 title: "MaaS Infrastructure"
 type: concept
 tags: [ai, infrastructure, maas]
-sources: [1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076]
+sources: [google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076]
 last_updated: 2026-07-09
 ---
 
@@ -20,6 +20,8 @@ The concept extends [[AIInferenceCostStructure]]. Cost structure explains why to
 
 [[shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076]] adds the thermal-management layer. In this frame, a MaaS provider's ability to sell reliable tokens depends on whether the underlying data center can remove heat from dense racks through liquid loops, pumps, heat exchange, control software, and water-system maintenance.
 
+[[google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6]] adds the [[GoogleCloud]] and [[TPU]] version of the same infrastructure question. The episode argues that [[Google]]'s cloud, chip, model, Workspace, and enterprise stack makes [[FullStackAIPlatform]] more than a product story: it is also a way to control serving economics, partner-model demand, and long-running enterprise inference.
+
 ## Key Claims
 
 - Token count is a weak standalone metric because embedding, small-model, and deep-reasoning tokens have different cost and value.
@@ -33,6 +35,7 @@ The concept extends [[AIInferenceCostStructure]]. Cost structure explains why to
 - AI serving continuity depends on region-level physical infrastructure, so geopolitics and site resilience can affect practical token availability.
 - AI infrastructure spending becomes more convincing when token growth and revenue metrics move together rather than when CAPEX rises alone.
 - Dense AI serving also depends on [[DataCenterThermalManagement]]: cooling efficiency influences uptime, energy cost, achievable rack density, and deployment speed.
+- Vertical cloud-chip-model integration can make MaaS infrastructure more defensible when enterprise customers need stable capacity, model choice, cost control, and governance.
 
 ## Connections
 
@@ -46,3 +49,4 @@ The concept extends [[AIInferenceCostStructure]]. Cost structure explains why to
 - [[AIComputeContinuity]], [[DataCenterPhysicalResilience]], and [[DigitalInfrastructureWarRisk]] — physical continuity layer added by the Keji Luandun data-center episode.
 - [[DataCenterThermalManagement]], [[Grundfos]], and [[HenanSmartSupercomputingCenter]] — thermal and prefabricated cooling layer added by the 商业就是这样 source.
 - [[AIInvestmentMetrics]], [[CAPEXOPEXSubstitution]], [[JevonsParadoxInAI]], and [[HoloAssets]] — E155's business-flywheel and hard-asset extension.
+- [[GoogleCloud]], [[TPU]], [[Gemini]], and [[FullStackAIPlatform]] — cloud-chip-model integration added by the Google Cloud Next source.
