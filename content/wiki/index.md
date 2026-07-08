@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Marine warfare: Le Pen runs for president](sources/marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c.md) — The Intelligence episode on Marine Le Pen's cleared 2027 run, National Rally succession tension, captive-whale sanctuary experiments in Iceland, and Route 66 roadside advertising culture.
 - [当黑客攻破了日本的国民啤酒，除了鞠躬道歉，他们还能做什么？feat.Top of Japan](sources/dang-heike-gongpo-le-riben-de-guomin-pijiu-chule-jugong-daoqian-tamen-hai-neng-zuo-shenme-feat-top-of-japan-keji-luandun.md) — 科技乱炖 crossover with Top of Japan on Asahi's ransomware incident, Super Dry shortages, ERP and logistics disruption, offline backups, ransom refusal, and risk-tiered personal security.
 - [167: 洋葱学园杨临风：用AI制造捷径，是在杀死真学习](sources/167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1.md) — LateTalk episode with Yang Lingfeng of Yangcong Xueyuan on self-directed learning, AI tutoring, learning experience design, rural education access, and the risk that AI-created shortcuts weaken real understanding.
 - [268. AI时代，个人工作台会重新回到手机吗？](sources/268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs.md) — 乱翻书 episode with Zhuang Minghao and Luo Xuan on phones and foldables as AI-era personal workstations, vivo X Fold6, on-device AI, AI file management, meeting assistants, and multi-agent task orchestration.
@@ -225,6 +226,23 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [France](entities/France.md) — National setting for the April 2027 presidential race, Le Pen's renewed candidacy, and the two-round electoral uncertainty.
+- [Marine Le Pen](entities/MarineLePen.md) — National Rally leader whose appeal ruling is framed as clearing her practical path to the 2027 French presidential election.
+- [National Rally](entities/NationalRally.md) — French populist-right party shaped by Le Pen's candidacy, Bardella's successor role, and the normalization problem.
+- [Jordan Bardella](entities/JordanBardella.md) — National Rally figure who had prepared as substitute presidential candidate before Le Pen's return put him back in second place.
+- [Jean-Marie Le Pen](entities/JeanMarieLePen.md) — National Front co-founder and family-origin figure behind the party reputation Marine Le Pen tries to normalize.
+- [Sophie Pedder](entities/SophiePedder.md) — The Intelligence analyst explaining Le Pen's appeal ruling, polling, candidate field, and National Rally succession tension.
+- [Emmanuel Macron](entities/EmmanuelMacron.md) — Incumbent French president whose succession context shapes the crowded 2027 field in the episode.
+- [Edouard Philippe](entities/EdouardPhilippe.md) — Centrist French presidential candidate named as part of the post-Macron 2027 field.
+- [Gabriel Attal](entities/GabrielAttal.md) — Centrist French political figure named as a possible Macron successor in the 2027 field.
+- [Jean-Luc Melenchon](entities/JeanLucMelenchon.md) — Populist-left candidate named as part of the crowded 2027 French presidential field.
+- [Little White and Little Grey](entities/LittleWhiteAndLittleGrey.md) — Two belugas whose move from a Shanghai theme park to Iceland tests captive-whale sanctuary welfare.
+- [Sea Life Trust](entities/SeaLifeTrust.md) — Organization operating the Iceland beluga sanctuary for Little White and Little Grey.
+- [Iceland](entities/Iceland.md) — Location of the beluga sanctuary and earlier Keiko rehabilitation bay in the episode.
+- [Keiko](entities/Keiko.md) — Free Willy orca used as the cautionary precedent for risky full release after captivity.
+- [SeaWorld](entities/SeaWorld.md) — Whale-and-dolphin entertainment company used as the captivity contrast to sanctuary welfare.
+- [American Giants Museum](entities/AmericanGiantsMuseum.md) — Route 66 museum in Atlanta, Illinois preserving giant fiberglass roadside advertising figures.
+- [Lee Woods](entities/LeeWoods.md) — American Giants Museum interpreter explaining how strange roadside figures attracted drivers.
 - [Asahi Group / 朝日集团](entities/AsahiGroup.md) — Beverage company used as the ransomware business-continuity case where order, logistics, factory, and retail availability broke together.
 - [Super Dry](entities/SuperDry.md) — Asahi beer product whose shortage made the ransomware incident visible to ordinary Japanese shoppers.
 - [Qilin Ransomware Group](entities/QilinRansomwareGroup.md) — Ransomware group named in the Asahi episode as claiming the attack and publishing stolen-data screenshots.
@@ -1342,6 +1360,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Far-Right Normalization](concepts/FarRightNormalization.md) — Project of making a party with extremist associations electorally acceptable through image, policy, legitimacy, and broader voter appeal.
+- [Electoral Ineligibility Penalty](concepts/ElectoralIneligibilityPenalty.md) — Legal restriction on standing for office that can reshape campaign legitimacy and party succession planning.
+- [Two-Round Presidential Election](concepts/TwoRoundPresidentialElection.md) — Electoral system where a first-round lead must still survive a broader runoff electorate.
+- [Captive Whale Sanctuary](concepts/CaptiveWhaleSanctuary.md) — Welfare model for whales and dolphins that cannot safely be released but should not remain entertainment performers.
+- [Roadside Advertising Spectacle](concepts/RoadsideAdvertisingSpectacle.md) — Oversized and strange physical advertising used to catch drivers and later preserved as Route 66 commercial memory.
 - [Ransomware Business Continuity](concepts/RansomwareBusinessContinuity.md) — Operational resilience problem where ransomware disables orders, inventory, logistics, ERP, customer service, and recovery workflows.
 - [Offline Backup Recovery Drills](concepts/OfflineBackupRecoveryDrills.md) — Backup discipline focused on isolated copies and rehearsed restoration rather than untested backup claims.
 - [Personal Security Tiering](concepts/PersonalSecurityTiering.md) — Risk-based personal security frame matching passwords, backups, hardware keys, identity isolation, and device discipline to target value.

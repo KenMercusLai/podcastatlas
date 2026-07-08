@@ -2,8 +2,8 @@
 title: "Route 66 Nostalgia Tourism"
 type: concept
 tags: [tourism, culture, local-economy]
-sources: [continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]
-last_updated: 2026-07-08
+sources: [marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]
+last_updated: 2026-07-09
 ---
 
 # Route 66 Nostalgia Tourism
@@ -13,6 +13,8 @@ Route 66 nostalgia tourism is the economic and cultural pattern where a decommis
 The concept shows how infrastructure can outlive its original utility. Once interstate highways made Route 66 less efficient and the road was decommissioned, towns and roadside businesses had to sell association, signage, continuity, and local stops rather than pure transport convenience. That makes Route 66 a tourism case adjacent to [[TourismTrafficMismatch]], but with a clearer inherited story that travellers actively seek.
 
 [[continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e]] adds the western-performance layer. [[JohnFasman]]'s segment treats motorcycles, desert roads, Oatman's burros and mock shootouts, and the Old West atmosphere as deliberate nostalgia products. The source also complicates the migration story by noting that earlier movement toward California can reverse when housing and cost pressures make the Midwest newly attractive.
+
+[[marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c]] adds the roadside-advertising layer. Through the [[AmericanGiantsMuseum]], [[LeeWoods]], and restored fiberglass figures, Route 66 nostalgia becomes not only a road trip but a memory of pre-digital customer acquisition, local oddness, and [[RoadsideAdvertisingSpectacle]].
 
 ## Key Claims
 - A route can retain value after decommissioning if it becomes a recognizable cultural story.
@@ -26,3 +28,4 @@ The concept shows how infrastructure can outlive its original utility. Once inte
 - [[JohnFasman]] - reporter whose road-trip segment supplies the case.
 - [[TourismTrafficMismatch]] - adjacent tourism concept.
 - [[TheIntelligence]] - source podcast context.
+- [[AmericanGiantsMuseum]] and [[RoadsideAdvertisingSpectacle]] - advertising-history layer added by the later segment.

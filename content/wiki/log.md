@@ -1384,6 +1384,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-09] ingest | Marine warfare: Le Pen runs for president
+
+Added source page for a The Intelligence episode on Marine Le Pen's renewed 2027 presidential run, National Rally succession tension, captive-whale sanctuary experiments for Little White and Little Grey in Iceland, and Route 66 roadside advertising culture. Created pages for France, Marine Le Pen, National Rally, Jordan Bardella, Jean-Marie Le Pen, Sophie Pedder, Macron-era successor candidates, Little White and Little Grey, Sea Life Trust, Iceland, Keiko, SeaWorld, American Giants Museum, Lee Woods, Far-Right Normalization, Electoral Ineligibility Penalty, Two-Round Presidential Election, Captive Whale Sanctuary, and Roadside Advertising Spectacle; updated overview, index, The Intelligence, Economist Podcasts, Route 66, Route 66 Nostalgia Tourism, John Fasman, Rosie Bloor, and United States. No direct contradiction found; the legal and polling details are recorded as episode claims rather than externally verified facts.
+
 ## [2026-07-09] ingest | 138. 昂跑中国重直营、超级猩猩不办卡
 
 Added source page for a 疯投圈 episode on On Running's China DTC push, premium sports circle brands, Nike/HOKA channel spillovers, SuperMonkey's pay-per-class fitness model, and service-brand scaling constraints. Created pages for SuperMonkey, Lululemon, Alo Yoga, Direct-to-Consumer Brand Control, Pay-Per-Class Fitness Model, and Service Brand Standardization; updated overview, index, 疯投圈, On Running, Nike, HOKA, Performance Footwear Market, Consumer Brand Moat, Subculture Led Marketing, and Experiential Retail. No direct contradiction found; the source qualifies the DTC branch by separating cash-flow DTC from brand-control DTC, and qualifies the performance-footwear branch by showing that channel design and store experience can matter as much as product technology.
@@ -1687,6 +1691,10 @@ Ran lint after refreshing the graph. Deterministic checks found three orphan pag
 ## [2026-07-09] ingest | 当黑客攻破了日本的国民啤酒，除了鞠躬道歉，他们还能做什么？feat.Top of Japan
 
 Added source page for a 科技乱炖 and Top of Japan crossover on the Asahi ransomware incident, Super Dry shortages, ERP/logistics disruption, ransom refusal, backup recovery, and personal security tiering. Created pages for Asahi Group, Super Dry, Qilin Ransomware Group, Sony Pictures, Top of Japan, Ransomware Business Continuity, Offline Backup Recovery Drills, and Personal Security Tiering; updated overview, index, Keji Luandun, SAP, and War-Aware Disaster Recovery. No direct contradiction found; the source complements the wiki's prevention-oriented cybersecurity pages by emphasizing post-compromise recovery, isolated backups, restoration drills, and risk-based personal account protection.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-09] lint | Wiki health check
 

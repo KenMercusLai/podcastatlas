@@ -2,7 +2,7 @@
 title: "Economist Podcasts"
 type: entity
 tags: [podcast, media]
-sources: [latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c, trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7, trailer-tocqueville-road-trip-6a315920101389aa3d42d134, trailer-tocqueville-road-trip-6a315813780d0f7579afb892, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]
+sources: [marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c, trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7, trailer-tocqueville-road-trip-6a315920101389aa3d42d134, trailer-tocqueville-road-trip-6a315813780d0f7579afb892, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]
 last_updated: 2026-07-09
 ---
 
@@ -26,6 +26,8 @@ Economist Podcasts is the show metadata context for [[trailer-tocqueville-road-t
 
 [[roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]] adds another [[TheIntelligence]] magazine sequence, spanning [[EnergyTradingScaleAdvantage]] at European oil majors, [[FrontierModelReleaseGovernance]] in U.S. AI policy, and [[ConcertResidencyEconomics]] in live music.
 
+[[marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c]] adds another [[TheIntelligence]] sequence, spanning [[MarineLePen]]'s 2027 campaign path in [[France]], [[CaptiveWhaleSanctuary]] through [[LittleWhiteAndLittleGrey]] in [[Iceland]], and [[Route66]] commercial memory through the [[AmericanGiantsMuseum]].
+
 The page is adjacent to [[TheIntelligence]], another Economist podcast context already tracked in the wiki. The new trailer links that media branch to [[UnitedStates]], [[AmericanDemocraticResilience]], [[AlexisDeTocqueville]], and [[DemocracyInAmerica]] through a series that asks whether Tocqueville's America still exists.
 
 ## Connections
@@ -40,3 +42,4 @@ The page is adjacent to [[TheIntelligence]], another Economist podcast context a
 - [[AIBacklashPolitics]], [[MarriageExitFriction]], and [[CoolingAsPublicHealth]] - branches added by the Fear-jerker episode.
 - [[WarVisibilityStrategy]], [[IndexFundAutomaticExposure]], and [[CentralBankIndependence]] - branches added by the Far Crimea episode.
 - [[EnergyTradingScaleAdvantage]], [[FrontierModelReleaseGovernance]], and [[ConcertResidencyEconomics]] - branches added by the Roaring trades episode.
+- [[FarRightNormalization]], [[CaptiveWhaleSanctuary]], and [[RoadsideAdvertisingSpectacle]] - branches added by the Marine warfare episode.
