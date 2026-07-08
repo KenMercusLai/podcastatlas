@@ -2,7 +2,7 @@
 title: "Multi-Agent Collaboration"
 type: concept
 tags: [agents, collaboration, verification]
-sources: [dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di]
+sources: [dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
 last_updated: 2026-07-08
 ---
 
@@ -12,6 +12,8 @@ Multi-agent collaboration is the use of multiple agents to exchange context, rev
 
 [[e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di]] adds [[Apodex]]'s verification version. [[DuShaolei]] says agent teams can divide solving and checking work when no simple unit test or formal proof exists. The system can use redundant agents to compare answers and can train agents to judge information-source reliability, making multi-agent collaboration part of [[AIVerification]].
 
+[[138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]] adds a model-research workflow version. [[LuoFuli]] describes splitting ideas across agents, letting them explore in parallel, and cross-validating results, while warning that current multi-agent value is clearer for saving time and cost than for proving a higher final capability ceiling.
+
 ## Key Claims
 - Multi-agent work is not only role-play; it can be review, adversarial checking, parallel exploration, and handoff.
 - It helps with long-horizon tasks where one agent's context window grows stale or overcommitted to a bad plan.
@@ -19,6 +21,7 @@ Multi-agent collaboration is the use of multiple agents to exchange context, rev
 - It overlaps with [[SubagentWorkflow]], but the source emphasizes peer checking and high-bandwidth model-to-model context exchange.
 - In scientific or open-ended tasks, multiple agents can approximate a review committee: propose, verify, challenge evidence, and compare source quality.
 - Multi-agent verification reduces but does not eliminate drift; it still needs human standards and domain expertise.
+- Multi-agent work can increase research throughput, but it shifts pressure to [[TrainingComputeAllocation]], [[ResearchTaste]], and result verification.
 
 ## Connections
 - [[SubagentWorkflow]] — related pattern for background delegation and synthesis.
@@ -27,3 +30,4 @@ Multi-agent collaboration is the use of multiple agents to exchange context, rev
 - [[MiniMax]], [[Adao]], and [[Zeying]] — source context for the cross-checking claim.
 - [[AICodingVerification]] — adjacent area where independent review agents may reduce unchecked generation risk.
 - [[Apodex]], [[DeepResearch]], [[AIVerification]], and [[DiscoveryModel]] — agent-team verification case added by the Silicon Valley 101 source.
+- [[LuoFuli]], [[OpenClaw]], [[MLCoding]], and [[TrainingComputeAllocation]] — parallel model-research workflow case added by episode 138.

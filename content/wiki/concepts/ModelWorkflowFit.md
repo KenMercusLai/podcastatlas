@@ -2,7 +2,7 @@
 title: "Model Workflow Fit"
 type: concept
 tags: [ai, models, workflow]
-sources: [vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]
+sources: [vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
 last_updated: 2026-07-08
 ---
 
@@ -16,6 +16,8 @@ The concept is adjacent to [[ModelRoutingCostControl]] but broader. Routing asks
 
 [[140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]] adds a frontier-researcher comparison. [[YaoShunyu]] says public benchmarks make top models look very close, but workflow behavior still differs: Claude is strong in tools and agents, Gemini is strong in reasoning and everyday use, and [[Codex]] has narrowed the coding gap. The source strengthens the idea that workflow fit is a better question than single-model rank once benchmarks saturate.
 
+[[138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]] adds a training-side version. [[LuoFuli]] says model usefulness changes inside complex [[AgentHarness]] systems: a smaller model can become unexpectedly useful when the framework supplies context and tools, while a frontier model may still be needed for ceiling-setting framework changes.
+
 ## Key Claims
 - Model comparisons should include behavior under the user's own tasks, not only published rankings or viral release notes.
 - A slower model can still fit review, planning, or high-context work if it reduces drift and improves trust.
@@ -26,6 +28,7 @@ The concept is adjacent to [[ModelRoutingCostControl]] but broader. Routing asks
 - In agent workflows, model fit must include blast radius: the same model behavior that is acceptable for summarization may be unacceptable when the agent can change files, accounts, or scheduled jobs.
 - When benchmarks saturate, model fit should be judged by the task definition, feedback loop, and real user workflow where differences remain visible.
 - Product fit can matter as much as raw intelligence: voice speed, verbosity, tool behavior, and willingness to infer intent can change which model feels best.
+- Workflow fit can be created by post-training and harness design, not only selected after a model is released.
 
 ## Connections
 - [[Codex]], [[ClaudeCode]], and [[Xcode]] — coding-agent cases in the source.
@@ -35,3 +38,4 @@ The concept is adjacent to [[ModelRoutingCostControl]] but broader. Routing asks
 - [[ModelProviderToolCompetition]] and [[AIProductFragmentation]] — market and product-integration pressures that can change which model feels usable.
 - [[OpenClaw]], [[Kimi]], and [[AgentPermissionBoundaries]] — local-agent fit and cost-routing case added by Keji Luandun.
 - [[YaoShunyu]], [[Gemini]], [[ClaudeCode]], [[Codex]], [[Doubao]], and [[Seedance]] — benchmark-saturation and workflow-behavior comparison added by episode 140.
+- [[LuoFuli]], [[MemoVR]], [[AgentPostTraining]], [[OpenClaw]], and [[AgentOptimizedModelArchitecture]] — training-side workflow-fit view added by episode 138.

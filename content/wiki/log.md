@@ -1071,3 +1071,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] report | Graph health report generated
 
 1477 nodes analyzed.
+
+## [2026-07-08] ingest | 138. 对罗福莉3.5小时访谈：AI范式已然巨变！OpenClaw、Agent范式很吃后训练、卡的分配、组织平权
+
+Added source page for a 张小珺Jùn｜商业访谈录 episode on Luo Fuli, Xiaomi's Memo VR models, OpenClaw/OpenCloud as agent frameworks, agent post-training, Agent RL, training compute allocation, long-context and multimodal architecture, model-harness co-evolution, skills as organizational knowledge, and flat model-team organization. Created pages for Luo Fuli / 罗福莉, Memo VR, Agent Post-Training, Agent RL, Training Compute Allocation, and Agent-Optimized Model Architecture; updated overview, index, Zhang Xiaojun Commercial Interviews, Xiaomi, DeepSeek, Alibaba, OpenClaw, OpenCloud, Agent Harness, Model Harness Co-Evolution, Agent Self-Evolution, AI Organization Design, Frontier Model Scaling, AI Skills, Research Taste, Long-Horizon AI, ML Coding, Model Workflow Fit, and Multi-Agent Collaboration. No direct contradiction found; the source strengthens the wiki's agent thread by moving it from product experience into model training, rollout infrastructure, compute allocation, and organization design.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

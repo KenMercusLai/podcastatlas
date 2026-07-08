@@ -2,7 +2,7 @@
 title: "Alibaba"
 type: entity
 tags: [company, ai, china]
-sources: [130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]
+sources: [130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
 last_updated: 2026-07-08
 ---
 
@@ -24,6 +24,8 @@ Alibaba is the large-company setting for [[ali-qianwen-lizhi-yuzhen-zai-jiwanren
 
 [[134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]] adds Alibaba as one of the Chinese large-model organizations [[XieChen]] expects to become more active in [[EmbodiedAI]] and robot-brain work, especially through [[Qwen]] and the infrastructure around it.
 
+[[138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]] adds Alibaba as part of [[LuoFuli]]'s earlier career context through DAMO Academy. The source does not analyze Alibaba's current strategy, but it connects Alibaba's AI research environment to a later [[Xiaomi]] model-training story around [[AgentPostTraining]] and [[MemoVR]].
+
 ## Source Position
 - Provides the resources needed to train and distribute large models such as [[Qwen]].
 - Faces [[AICommercializationPressure]] because model training is expensive and open-source influence does not automatically translate into revenue.
@@ -36,6 +38,7 @@ Alibaba is the large-company setting for [[ali-qianwen-lizhi-yuzhen-zai-jiwanren
 - In the Ctrip source, appears through [[Fliggy]] and the ground-sales distribution context around [[TongchengTravel]].
 - In the Zhang Yueguang source, provides the large-company and compute-resource context behind [[Miaoya]].
 - In episode 134, appears as a possible physical-AI and robot-brain player through [[Qwen]], model infrastructure, and talent density.
+- In episode 138, appears as Luo Fuli's earlier research environment before [[DeepSeek]] and [[Xiaomi]].
 
 ## Connections
 - [[OpenSourceAIModels]] and [[LargeCompanyOpenSourceStrategy]] — strategic context for Qwen.
@@ -48,3 +51,4 @@ Alibaba is the large-company setting for [[ali-qianwen-lizhi-yuzhen-zai-jiwanren
 - [[Fliggy]], [[TongchengTravel]], [[Ctrip]], and [[OnlineTravelAgency]] — online-travel and platform-competition context added by the Ctrip source.
 - [[ZhangYueguang]], [[Miaoya]], and [[AINativeProductDesign]] — product-founder and AI portrait context added by episode 130.
 - [[Qwen]], [[EmbodiedAI]], [[VisionLanguageActionModels]], and [[DataRecipeCoCreation]] — physical-AI model/data context added by episode 134.
+- [[LuoFuli]], [[DeepSeek]], [[Xiaomi]], and [[AgentPostTraining]] — career and model-training context added by episode 138.

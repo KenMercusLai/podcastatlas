@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [138. 对罗福莉3.5小时访谈：AI范式已然巨变！OpenClaw、Agent范式很吃后训练、卡的分配、组织平权](sources/138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf.md) — 张小珺Jùn｜商业访谈录 episode with Luo Fuli on OpenClaw/OpenCloud, agent post-training, Agent RL, Memo VR, 1T-scale models, compute allocation, model architecture, and flat AI organization design.
 - [137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的](sources/137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb.md) — 张小珺Jùn｜商业访谈录 episode with Hong Letong on AI for Math, Axiom, Lean, auto-formalization, theorem proving, AI mathematicians, Putnam, formal verification, and math as code.
 - [135. 和自然选择创始人Tristan聊，Elys、赛博分身、灵魂、Context的获取与流动和AI社交网络](sources/135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty.md) — 张小珺Jùn｜商业访谈录 episode with Tristan on Natural Selection, EVE, Elys, cyber avatars, context flywheels, subjectivity as an AI-era asset, proactive agents, and AI social networks.
 - [140. 对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去](sources/140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h.md) — 张小珺Jùn｜商业访谈录 episode with Yao Shunyu on Anthropic and Gemini model training, coding feedback, long-horizon AI, ML Coding, scaling, Chinese AI products, and why frontier-model work is now organizational rather than heroic.
@@ -153,6 +154,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Luo Fuli / 罗福莉](entities/LuoFuli.md) — Xiaomi large-model team lead discussing OpenClaw/OpenCloud, Memo VR, agent post-training, Agent RL, compute allocation, and flat model-team organization.
+- [Memo VR](entities/MemoVR.md) — Xiaomi model series discussed through Pro, Omni, TTS, Flash, long-context architecture, multimodal perception, and agent-era model orchestration.
 - [Hong Letong / 洪乐潼](entities/HongLetong.md) — Axiom founder discussing AI for Math, formal proof, Lean, auto-formalization, Putnam, and formal verification.
 - [Axiom](entities/Axiom.md) — AI for Math deep-tech company building Axiom Prover and formal-verification systems around Lean-style proof.
 - [Axiom Prover](entities/AxiomProver.md) — Axiom's theorem-proving system presented through Putnam success, Lean proofs, and a path toward verified code.
@@ -583,7 +586,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alex Berman](entities/AlexBerman.md) — LinkedIn influencer partner associated with Tapio's distribution strategy.
 - [Alan Newman](entities/AlanNewman.md) — Seventh Generation co-founder whose founder conflict with Jeffrey Hollender is revisited in the Advice Line context.
 - [Aleph Alpha](entities/AlephAlpha.md) — German AI company referenced as part of the episode's discussion of European AI visibility and constraints.
-- [Alibaba](entities/Alibaba.md) — Large technology company discussed through Qwen, open source, organizational order, consumer assistant strategy, service-entry ecosystems, and Daqi's early product-design career context.
+- [Alibaba](entities/Alibaba.md) — Large technology company discussed through Qwen, open source, organizational order, consumer assistant strategy, cloud infrastructure, embodied AI context, and Luo Fuli's earlier DAMO Academy background.
 - [Amazon](entities/Amazon.md) — Cloud and AI infrastructure buyer discussed through Nvidia demand, hyperscaler capex assumptions, EP77's politically sensitive Melania Trump documentary deal, and data-center continuity risk.
 - [Android](entities/Android.md) — Google-backed open smartphone operating system that became the non-Apple ecosystem after iPhone reset handset competition.
 - [Anthropic](entities/Anthropic.md) — AI company discussed through frontier models, Claude Code, enterprise deployment, governance, and the AI-for-math competitive map.
@@ -622,7 +625,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cursor](entities/Cursor.md) — AI coding environment grouped with Codex and Claude Code as a practical agent tool.
 - [Danny Jenkins](entities/DannyJenkins.md) — ThreatLocker founder discussing zero trust cybersecurity, default-deny controls, MSP distribution, and startup survival.
 - [大雄](entities/Daxiong.md) — YiLaoYongYi guest framing market turmoil through cycle risk, mean reversion, yield-curve inversion, and Fed policy ambiguity.
-- [DeepSeek](entities/DeepSeek.md) — Chinese open-source model effort cited as a peer signal for Qwen.
+- [DeepSeek](entities/DeepSeek.md) — Chinese open-source model effort cited through Qwen comparison, pricing substitution, market repricing, cost-control, export-control context, and Luo Fuli's earlier background.
 - [Deerflow](entities/Deerflow.md) — Open-source deep-research and desktop-workflow project discussed through AI coding, Chinese models, community governance, and multimodal work.
 - [Devin](entities/Devin.md) — Cognition coding-agent product discussed through the Windsurf acquisition context.
 - [Donald Trump](entities/DonaldTrump.md) — U.S. political figure used as both an EP57 market-policy volatility variable and EP77's central political influence monetization case.
@@ -828,7 +831,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Xiaohongshu](entities/Xiaohongshu.md) — Social and community platform positioned as a building-public channel, local lifestyle search entry point, and creator monetization venue.
 - [Xiaohongshu Hackathon Peak Competition](entities/XiaohongshuHackathonPeakCompetition.md) — Xiaohongshu's 48-hour AI-era hackathon for young builders, hardware makers, designers, and independent developers.
 - [Xiaoban](entities/Xiaoban.md) — Yueban Dongli's consumer bipedal companion robot designed around household emotional presence.
-- [Xiaomi](entities/Xiaomi.md) — Chinese technology company used in EP57 as a large, liquid Hong Kong/China tech allocation example.
+- [Xiaomi](entities/Xiaomi.md) — Chinese technology company used as both a Hong Kong/China tech allocation example and Luo Fuli's model-team context for Memo VR and agent-era training.
 - [Xcode](entities/Xcode.md) — Apple IDE discussed through Agentic Coding, Codex/Claude Code integration, build-context access, and CLI-versus-IDE workflow fit.
 - [Xiao'e](entities/XiaoE.md) — Design graduate student and hackathon contestant building playful AI hardware for focus and real-world attention.
 - [小孙](entities/XiaoSun.md) — Post-2000 developer/founder case for self-directed work, CreateWise, career self-rescue, and digital-nomad community building.
@@ -862,6 +865,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, and Louis Hong episodes.
 
 ## Concepts
+- [Agent Post-Training](concepts/AgentPostTraining.md) — Post-training shift from chat behavior toward agent workflows, tool feedback, memory, skills, and framework-specific adaptation.
+- [Agent RL](concepts/AgentRL.md) — Reinforcement-learning and rollout problem for agents operating through tools, memory, frameworks, heterogeneous resources, and long-running environments.
+- [Training Compute Allocation](concepts/TrainingComputeAllocation.md) — Allocation of scarce cards across research, pretraining, post-training, rollout, and evaluation as agents accelerate experimentation.
+- [Agent-Optimized Model Architecture](concepts/AgentOptimizedModelArchitecture.md) — Model-architecture choices around long context, speed, cost, multimodality, MTP, and post-training headroom for agent workloads.
 - [AI For Math](concepts/AIForMath.md) — AI systems for proving, conjecturing, auto-formalizing, verifying, and organizing mathematical knowledge.
 - [AI Mathematician](concepts/AIMathematician.md) — Target system that combines proving, conjecturing, formalization, knowledge use, and mathematical research taste.
 - [Interactive Theorem Proving](concepts/InteractiveTheoremProving.md) — Proof-assistant workflow where a human or AI writes formal proof steps checked by a machine.
