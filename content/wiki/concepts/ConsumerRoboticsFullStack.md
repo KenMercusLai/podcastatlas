@@ -2,8 +2,8 @@
 title: "Consumer Robotics Full Stack"
 type: concept
 tags: [robotics, hardware, consumer-hardware]
-sources: [jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf]
-last_updated: 2026-07-07
+sources: [jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc]
+last_updated: 2026-07-08
 ---
 
 # Consumer Robotics Full Stack
@@ -12,11 +12,14 @@ Consumer robotics full stack is the strategy of self-developing enough of a robo
 
 [[ZhangYi]] argues that many available robotics components are industrial-grade, expensive, and over-specified for family use. The consumer strategy is to define what is "home good enough," cut unnecessary parameters, and use real household deployment to decide where lower cost still preserves safety, reliability, and user value.
 
+[[143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc]] adds a humanoid full-stack variant through [[XPengIron]]. [[HeXiaopeng]] says [[XPeng]] participates in much of the robot hardware stack, including hands, joints, and chips, because motion control, embodied data, product form, and manufacturing have to be co-designed for [[PhysicalAI]].
+
 ## Key Claims
 - Hardware self-development can force algorithm self-development because control loops, interfaces, power state, and mechanical limits need to be integrated.
 - Cost reduction is not only procurement; it comes from redefining load, precision, durability, and component requirements for household tasks.
 - Full-stack work creates more parameter visibility, such as joint state and power data, which can improve robot control and maintenance.
 - The strategy has limits: the source says some components, such as reducers or depth cameras, may still be better purchased than rebuilt.
+- In the [[XPengIron]] source, full stack is tied less to lowering a wheeled home robot's bill of materials and more to making humanoid motion, safety, reliability, and model control co-evolve.
 
 ## Connections
 - [[WeilaiBuyuan]], [[F2HomeRobot]], and [[ZhangYi]] — company, product, and founder case.
@@ -24,3 +27,4 @@ Consumer robotics full stack is the strategy of self-developing enough of a robo
 - [[EmbodiedAI]], [[WorldModels]], and [[VisionLanguageActionModels]] — model layer that must connect to the physical stack.
 - [[ProductLedWillingnessToPay]] — cost reductions matter only if the final service feels valuable enough.
 - [[AICommercializationPressure]] — pressure to turn expensive embodied intelligence into a viable consumer product.
+- [[XPeng]], [[XPengIron]], [[PhysicalAI]], and [[HumanoidRobotCommercialization]] — humanoid full-stack variant added by episode 143.

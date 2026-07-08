@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [143. 对何小鹏的第二次访谈：更大赌注、人形机器人Iron诞生、那场意外、技术剧变下CEO、GX和缝合怪](sources/143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc.md) — 张小珺Jùn｜商业访谈录 episode with He Xiaopeng on XPeng's physical-AI pivot, stitched autonomous-driving stacks, humanoid robot Iron, GX, data/compute costs, and CEO-led organization change.
 - [141. Freda的投资札记第2集：Tokenmaxxing、把电机塞进蒸汽机、接力赛变篮球赛、孤独、人的连接](sources/141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m.md) — 张小珺Jùn｜商业访谈录 episode with Freda on tokenmaxxing, token-per-task economics, model-company revenue, coding-agent competition, software revaluation, AI economic diffusion, organization redesign, AI investment research, hyperscaler capex risk, Silicon Valley anxiety, and human connection under AI.
 - [139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射](sources/139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no.md) — 张小珺Jùn｜商业访谈录 episode with Su Yu on agent technical history, Memory + Autonomy, Language Agents, OpenClaw Moment, Universal Digital Agents, continual learning, world models, specialization, GUI/CLI boundaries, and agent social impact.
 - [138. 对罗福莉3.5小时访谈：AI范式已然巨变！OpenClaw、Agent范式很吃后训练、卡的分配、组织平权](sources/138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf.md) — 张小珺Jùn｜商业访谈录 episode with Luo Fuli on OpenClaw/OpenCloud, agent post-training, Agent RL, Memo VR, 1T-scale models, compute allocation, model architecture, and flat AI organization design.
@@ -156,6 +157,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [He Xiaopeng / 何小鹏](entities/HeXiaopeng.md) — XPeng founder, chair, and CEO framing the company around physical AI, humanoid robots, intelligent vehicles, and organization-level technical bets.
+- [XPeng / 小鹏汽车](entities/XPeng.md) — Automotive and robotics company repositioned in the source around physical AI, autonomous-driving architecture, Iron, GX, and global expansion.
+- [XPeng Iron](entities/XPengIron.md) — XPeng humanoid robot used to explore human-like general robots, public demo credibility, consumer acceptance, and physical-AI commercialization.
+- [XPeng GX](entities/XPengGX.md) — Full-size six-seat flagship SUV presented as a physical-AI vehicle combining family-car positioning, redundancy, chassis control, and intelligent interaction.
 - [Freda / Friday](entities/Freda.md) — Bay Area investor and Altimeter Capital partner discussing token economics, model-company competition, software revaluation, AI organization redesign, market risk, and human connection under AI.
 - [Altimeter Capital](entities/AltimeterCapital.md) — Public/private-market investment firm context for Freda's AI investment analysis across model companies, software, infrastructure, capex, and IPO/capital-rotation risk.
 - [Su Yu / 苏煜](entities/SuYu.md) — Ohio State professor and Neo Cognition founder discussing agent technical history, Language Agents, OpenClaw Moment, continual learning, world models, and specialized intelligence.
@@ -871,6 +876,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, and Louis Hong episodes.
 
 ## Concepts
+- [Physical AI](concepts/PhysicalAI.md) — AI strategy for physical-world systems such as cars and robots where models, data, controls, hardware, manufacturing, safety, and organization must be rebuilt together.
+- [Stitched AI Architecture](concepts/StitchedAIArchitecture.md) — Rule-heavy software plus partial-AI stack criticized as useful for local progress but insufficient for full autonomous driving or generalized robotics.
+- [Humanoid Robot Commercialization](concepts/HumanoidRobotCommercialization.md) — Challenge of turning human-like general robots into reliable, affordable, useful products across homes, work, elder care, and other physical environments.
 - [Token Maxxing](concepts/TokenMaxxing.md) — AI usage-growth frame that separates gross token volume from token-per-task, dollar-per-token, reasoning-token cost, model quality, and business outcome.
 - [AI Economic Diffusion](concepts/AIEconomicDiffusion.md) — Gap between model capability becoming available and organizations redesigning workflows, software, roles, and incentives enough to convert AI into productivity.
 - [Human Connection Under AI](concepts/HumanConnectionUnderAI.md) — Claim that as AI automates more informational exchange, human conversation becomes more valuable for emotional connection, shared experience, trust, and sincerity.
