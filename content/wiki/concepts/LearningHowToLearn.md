@@ -2,7 +2,7 @@
 title: "Learning How To Learn"
 type: concept
 tags: [learning, education, ai]
-sources: [vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]
+sources: [vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
 last_updated: 2026-07-09
 ---
 
@@ -16,6 +16,8 @@ Learning how to learn is the source's core durable skill across majors, professi
 
 [[e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]] adds [[WaterFireEducation]]. [[LiJigang]] contrasts industrial "water" education that fills a container with future "fire" education that finds and ignites a person's own will, talent, and curiosity. Learning how to learn therefore includes discovering what one wants to train, not only using AI to learn faster.
 
+[[167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]] adds the K12 product version through [[YangLingfeng]] and [[YangcongXueyuan]]. [[SelfDirectedLearning]] is not only a personal virtue; it has to be trained through willingness, ability, tools, belief, good learning experiences, and enough friction for students to practice reasoning instead of using AI as a shortcut.
+
 ## Key Claims
 
 - The important skill is not only repeating actions, but learning how to improve the way one trains, studies, asks, builds, and reflects.
@@ -27,6 +29,7 @@ Learning how to learn is the source's core durable skill across majors, professi
 - Reading well means noticing the author's [[XFFXFramework]], not only memorizing cases or extracting ready-made conclusions.
 - AI-era learning includes using compact maps, indexes, and prompts as starting points for deeper exploration rather than waiting for a curriculum to be complete.
 - AI-era learning also asks what inner fire should be trained, because faster tutoring is weak if the learner has no direction or desire.
+- AI-era K12 learning still needs knowledge, effort, and confidence loops because students build judgment by working through concepts, not only by receiving correct answers.
 
 ## Connections
 
@@ -38,3 +41,4 @@ Learning how to learn is the source's core durable skill across majors, professi
 - [[AIAssistedReading]] and [[ReadingAsFrameTraining]] — reading-method extension of learning how to learn.
 - [[FifthDimension]] and [[DistributionOutPersonalStrategy]] — book and career-positioning extension from Jiang Xun's episode.
 - [[WaterFireEducation]], [[AIAsTutor]], and [[HumanAgencyUnderAI]] — E45's education and agency extension.
+- [[SelfDirectedLearning]], [[LearningExperienceDesign]], and [[AIShortcutRisk]] — Yangcong Xueyuan's K12 learning-product extension.

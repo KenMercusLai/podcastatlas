@@ -1667,3 +1667,19 @@ Added source page for a 乱翻书 episode with Zhuang Minghao and Luo Xuan on wh
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-09] ingest | 167: 洋葱学园杨临风：用AI制造捷径，是在杀死真学习
+
+Added source page for a LateTalk episode with Yang Lingfeng of Yangcong Xueyuan on self-directed learning, learning experience design, AI tutoring, rural education access, and the risk that AI shortcuts weaken real learning. Created pages for Yangcong Xueyuan, Yang Lingfeng, Self-Directed Learning, Learning Experience Design, AI Shortcut Risk, and Education Technology Fairness; updated overview, index, LateTalk, AI As Tutor, Learning How To Learn, Water And Fire Education, AI Use Pacing, Human Agency Under AI, AI Literacy Against Worship, and Human Judgment Under AI. No direct contradiction found; the source adds a productive tension to the AI tutor branch by warning that correct answers can still be bad education when they bypass student reasoning. Source-local naming note: metadata/title uses "杨临风", while the transcript body consistently uses "杨凌峰".
+
+## [2026-07-09] lint | Wiki health check
+
+Initial lint run after health passed. Deterministic checks found three orphan pages, no broken links, no missing entity pages, and no sparse pages. The existing graph snapshot was stale, so graph-aware findings from this first pass were superseded by the graph rebuild and final lint run below. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider key variables are present in the environment.
+
+## [2026-07-09] graph | Knowledge graph rebuilt
+
+2261 nodes, 21670 edges (21670 extracted, 0 inferred).
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint after refreshing the graph. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, eight fragile bridges, and no isolated communities against the refreshed graph. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider key variables are present in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.

@@ -2,7 +2,7 @@
 title: "Human Agency Under AI"
 type: concept
 tags: [ai, agency, life-design, work]
-sources: [142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]
+sources: [142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
 last_updated: 2026-07-09
 ---
 
@@ -22,6 +22,8 @@ The concept complements [[HumanJudgmentUnderAI]]. Judgment asks whether a result
 
 [[e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]] adds [[LiJigang]]'s "人何以自处" version. If [[AIAsTimeCompression]] lets models absorb more dry brain work, agency shifts toward [[WetStateHumanAgency]]: intention, heart power, taste, body, offline connection, and the ability to ask whether a thought comes from "I am" or from social machinery.
 
+[[167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]] adds [[YangLingfeng]]'s K12 version. [[SelfDirectedLearning]] is agency before adulthood: students need willingness, ability, tools, belief, and an environment that helps them take responsibility for learning instead of letting AI or teachers complete the thinking loop for them.
+
 ## Key Claims
 
 - AI makes the user's undefined intention more visible because a powerful assistant still needs a direction.
@@ -39,6 +41,7 @@ The concept complements [[HumanJudgmentUnderAI]]. Judgment asks whether a result
 - Agency becomes weaker when high automation lowers volition, even if the toolchain itself becomes more capable.
 - Personal agents should represent the user's values and attention choices, not simply copy platform incentives.
 - If AI absorbs more brain work, agency depends on preserving heart power, embodied rhythm, feed choice, and value direction rather than passively relaying model output.
+- Student agency means learning to take responsibility for understanding while still receiving enough teacher, product, and AI support to avoid repeated failure.
 
 ## Connections
 
@@ -53,3 +56,4 @@ The concept complements [[HumanJudgmentUnderAI]]. Judgment asks whether a result
 - [[DaiYusen]], [[AgentHarness]], [[AIOrganizationDesign]], and [[HumanJudgmentUnderAI]] — episode 142's thinking-outsourcing, responsibility, and agency boundary.
 - [[WeiQing]], [[WantCanShouldMayFramework]], [[HumanMachineAmplification]], and [[AILiteracyAgainstWorship]] — E42's humanistic engineering and public-literacy branch.
 - [[LiJigang]], [[WetStateHumanAgency]], [[FeedCuration]], and [[WaterFireEducation]] — E45's AI-era self-disposition and education branch.
+- [[YangLingfeng]], [[SelfDirectedLearning]], [[LearningExperienceDesign]], and [[AIShortcutRisk]] — K12 learning-agency branch.

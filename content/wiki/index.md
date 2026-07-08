@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [167: 洋葱学园杨临风：用AI制造捷径，是在杀死真学习](sources/167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1.md) — LateTalk episode with Yang Lingfeng of Yangcong Xueyuan on self-directed learning, AI tutoring, learning experience design, rural education access, and the risk that AI-created shortcuts weaken real understanding.
 - [268. AI时代，个人工作台会重新回到手机吗？](sources/268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs.md) — 乱翻书 episode with Zhuang Minghao and Luo Xuan on phones and foldables as AI-era personal workstations, vivo X Fold6, on-device AI, AI file management, meeting assistants, and multi-agent task orchestration.
 - [No.200 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法](sources/no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500.md) — 半拿铁 episode on China ecommerce failures across early B2C/C2C, vertical ecommerce, mother-and-baby, beauty, social fashion, luxury, old retail, cross-border, fresh grocery, community group buying, and instant retail.
 - [No.203 "不死鸟"兰世立](sources/no-203-businiao-lanshili-979295393.md) — 半拿铁 episode on Lan Shili, East Star Group, East Star Airlines, private-airline opening, aircraft leasing, local-government rescue, litigation, acquittal, and later capital-market relaunch attempts.
@@ -223,6 +224,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Yangcong Xueyuan / 洋葱学园](entities/YangcongXueyuan.md) — Education-technology company building animated, AI-supported K12 learning experiences around self-directed learning and public-interest access.
+- [Yang Lingfeng / 杨凌峰](entities/YangLingfeng.md) — Yangcong Xueyuan co-founder and CEO arguing that AI education should lower the threshold for real thinking rather than create shortcuts to answers.
 - [JD.com / 京东](entities/JDCom.md) — Major surviving Chinese ecommerce and logistics platform used as a benchmark against older and failed ecommerce cases.
 - [8848](entities/8848.md) — Early Chinese B2C ecommerce company framed as a first-mover case weakened by capital timing and founder-control limits.
 - [易趣 / EachNet](entities/EachNet.md) — Early Chinese C2C marketplace whose eBay acquisition became a localization and platform-competition lesson.
@@ -469,7 +472,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yu Yi](entities/YuYi.md) — AI-first practitioner in S10E18 framing agents as partners while keeping red lines around money, deletion, protocol changes, and reputation.
 - [Amazon Web Services](entities/AmazonWebServices.md) — AWS cloud and startup-support context for the From Idea to Frontier OPC accelerator discussed in S10E18.
 - [From Idea to Frontier](entities/FromIdeaToFrontier.md) — AWS accelerator program named in S10E18 as support infrastructure for Chinese-language one-person-company founders.
-- [LateTalk](entities/LateTalk.md) — Podcast/show context for the Q2 2026 embodied-intelligence review with Chen Zhe Peter.
+- [LateTalk](entities/LateTalk.md) — Podcast/show context spanning embodied AI, Q2 AI reviews, and Yangcong Xueyuan's AI-era education/self-directed-learning interview.
 - [Henry Yin](entities/HenryYin.md) — MOE Capital founding partner and LateTalk Q2 2026 AI-review guest connecting coding, RSI, enterprise models, open models, and AI commercialization.
 - [MOE Capital](entities/MOECapital.md) — Investment-firm context for Henry Yin's Q2 2026 AI review on model-company competition and RSI.
 - [GPT-5.6](entities/GPT56.md) — OpenAI frontier model named in the LateTalk AI-quarter source as part of Q2 2026 model and coding-agent competition.
@@ -1333,6 +1336,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Self-Directed Learning](concepts/SelfDirectedLearning.md) — Student capacity built from willingness, ability, tools, and belief, with AI useful only when it supports real understanding.
+- [Learning Experience Design](concepts/LearningExperienceDesign.md) — Education product discipline using short loops, animation, purpose cues, empathy, AI support, and data iteration to lower the threshold for real thinking.
+- [AI Shortcut Risk](concepts/AIShortcutRisk.md) — Risk that AI gives faster answers while bypassing the cognitive struggle that builds durable learning.
+- [Education Technology Fairness](concepts/EducationTechnologyFairness.md) — Edtech product and business-model design aimed at broad access without reducing learning to cheap answer delivery.
 - [Chinese Ecommerce Platform History](concepts/ChineseEcommercePlatformHistory.md) — China ecommerce industry arc told through winners, failures, acquisitions, vertical platforms, grocery, and fulfillment shifts.
 - [Ecommerce Platform Failure Modes](concepts/EcommercePlatformFailureModes.md) — Failure taxonomy covering funding gaps, governance conflict, inventory, ad dependence, platform rules, policy, and low-margin fulfillment.
 - [Ecommerce Surface Metrics Risk](concepts/EcommerceSurfaceMetricsRisk.md) — Risk that GMV, growth, valuation, repeat purchase, and listing status hide weak cash flow and unit economics.
