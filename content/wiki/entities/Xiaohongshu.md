@@ -2,11 +2,13 @@
 title: "Xiaohongshu"
 type: entity
 tags: [platform, social-media, community]
-sources: [ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7lsklr3vmtbc4l-p, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]
+sources: [musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7lsklr3vmtbc4l-p, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]
 last_updated: 2026-07-08
 ---
 
 # Xiaohongshu
+
+[[musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz]] adds Xiaohongshu as a product-container contrast to [[Douyin]] and [[TikTok]]. The episode argues that Xiaohongshu's two-column, quieter, choice-oriented browsing suits image/text discovery in a way that a full-screen short-video feed does not naturally replicate, even when Douyin adds music, slideshow transitions, or traffic.
 
 Xiaohongshu is the social and community platform behind the [[XiaohongshuHackathonPeakCompetition]] discussed in [[ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex]]. In the episode, [[Shanbin]] describes the platform as trying to grow a technology community where young builders can publish projects, find users, meet peers, and practice [[BuildingPublic]].
 
@@ -22,6 +24,7 @@ The source frames Xiaohongshu less as a conventional startup demo day host and m
 
 ## Connections
 - [[XiaohongshuHackathonPeakCompetition]] — event organized around AI-era builders.
+- [[ProductContainer]], [[Douyin]], and [[TikTok]] — container-fit comparison added by the Musical.ly/TikTok source.
 - [[Shanbin]] — community technology lead and event organizer in the episode.
 - [[BuildingPublic]] — platform behavior the source says Xiaohongshu can support.
 - [[DistributionLedProductBuilding]] — social distribution channel for early AI products.

@@ -2,11 +2,13 @@
 title: "Douyin"
 type: entity
 tags: [company, short-video, platform, travel, local-commerce, china]
-sources: [kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, fufei-pianhua-pingtai-de-baoli-dikang-yu-hulianwang-dachang-de-yinxing-shui-1, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]
+sources: [musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, fufei-pianhua-pingtai-de-baoli-dikang-yu-hulianwang-dachang-de-yinxing-shui-1, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]
 last_updated: 2026-07-08
 ---
 
 # Douyin
+
+[[musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz]] adds Douyin as the domestic benchmark and contrast case for [[TikTok]]. [[Vanessa]] says Douyin data could inform TikTok, but it was not a standard answer because TikTok had to operate across multiple countries, languages, and cultural contexts. The source also uses Douyin's attempts to absorb [[Xiaohongshu]]-style image/text content to illustrate [[ProductContainer]] mismatch in a full-screen swipe feed.
 
 Douyin appears in [[kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun]] as a possible later challenger to [[Ctrip]] in travel booking. The source's point is not that Douyin is already the same kind of OTA, but that attention platforms can turn discovery, recommendations, local commerce, and booking intent into travel distribution.
 
@@ -18,6 +20,7 @@ This makes Douyin part of the broader question of whether [[OnlineTravelAgency]]
 
 ## Connections
 - [[Ctrip]], [[Meituan]], [[Fliggy]], and [[JDTravel]] — travel-competition context.
+- [[TikTok]], [[MusicalLy]], [[GlobalProductLocalization]], and [[ProductContainer]] — globalization and container-fit comparison added by the Musical.ly/TikTok source.
 - [[TravelSuperAppConvenience]], [[OTAPlatformConcentration]], and [[PlatformAntitrust]] — concept links.
 - [[LocalLifePlatformDependency]] and [[PlatformIntermediationTax]] — local-commerce fulfillment and margin-split context from the flower/cake teaser.
 - [[CityCommercialObservation]] — broader listener-submission frame for seeing Douyin as a city-commerce surface.

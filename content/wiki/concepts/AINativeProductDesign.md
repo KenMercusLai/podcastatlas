@@ -2,7 +2,7 @@
 title: "AI Native Product Design"
 type: concept
 tags: [ai, product-design, agents]
-sources: [130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty]
+sources: [musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, 130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty]
 last_updated: 2026-07-08
 ---
 
@@ -14,6 +14,8 @@ The design shift is from flow-first to context-first. Traditional internet produ
 
 [[135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty]] adds [[Tristan]]'s proactive-product version. In [[Elys]], AI-native design means the product is not centered on a user manually browsing and messaging; [[CyberAvatars]] actively filter, comment, and pre-connect so the final social action can happen with less friction.
 
+[[musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz]] adds a contrast case through [[ByteDanceFLOW]]. [[Vanessa]] says mobile-internet product work could often find benchmarks, execute hard, and optimize, while AI-native product work may lack stable reference products. The source therefore connects AI-native design to [[NonConsensusInnovation]]: PMs need broader field scanning, faster practice, and independent judgment when the product category itself is still forming.
+
 ## Key Claims
 - "Cannot exist without AI" is necessary but not sufficient for an AI-native product.
 - Open input and open output change the product manager's job from controlling every branch toward shaping context, constraints, feedback, and quality standards.
@@ -21,6 +23,7 @@ The design shift is from flow-first to context-first. Traditional internet produ
 - Product, design, engineering, and model exploration need to work together earlier because taste, context, latency, editability, and model limits define the product surface.
 - [[Docky]] applies this by refining the smallest PPT generation unit and context requirements before designing the full user flow.
 - [[Elys]] applies this by redesigning social networking around proactive avatar work, context flow, and real-person connection rather than adding AI chat to an old feed.
+- AI-native product work may have fewer reliable benchmarks than mobile-internet work, making self-driven exploration and [[NonConsensusInnovation]] more important.
 
 ## Connections
 - [[Miaoya]] — strong AI-powered product used as a contrast case.
@@ -30,3 +33,4 @@ The design shift is from flow-first to context-first. Traditional internet produ
 - [[AIOrganizationDesign]] — team collaboration pattern required when model effect and product surface are co-designed.
 - [[OneWayDoorProduct]] — outcome standard for whether the new AI-native experience changes user behavior.
 - [[Elys]], [[AISocialNetworks]], [[CyberAvatars]], and [[ContextFlywheel]] — social-product version added by episode 135.
+- [[Vanessa]], [[ByteDanceFLOW]], and [[NonConsensusInnovation]] — ByteDance source contrast between old benchmark-driven product work and AI-native exploration.

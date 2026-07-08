@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Musical.ly如何成为 TikTok？PM眼中的字节产品文化和全球化之路｜字节跳动 第5集](sources/musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz.md) — 乱翻书 episode with Vanessa on Musical.ly's merger into TikTok, ByteDance product culture, recommendation and safety systems, short-video creation tools, global localization, product-container limits, and AI-era product-method shifts.
 - [264.库克的道德锚点｜过去15年，库克给苹果留下了什么？](sources/264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0.md) — 乱翻书 episode on Tim Cook's Apple legacy, stakeholder capitalism, privacy, accessibility, supply-chain responsibility, values as an operational asset, and Apple as a social institution.
 - [263.Sora死了，Adobe跌了，美图何去何从？](sources/263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs.md) — 乱翻书 episode on Sora's reported shutdown, Adobe's AI-cost pressure, Meitu's AI application strategy, model-container positioning, vertical workflow moats, and to-agent distribution.
 - [E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？](sources/e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie.md) — 硅谷101 episode on running-shoe technology, supercritical foam midsoles, carbon-plate racing shoes, marathon sub-2 performance, athlete sponsorship, and the performance-footwear market.
@@ -167,10 +168,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Musical.ly](entities/MusicalLy.md) — Short-video app whose creator community, music-led tools, and youth culture became part of TikTok after ByteDance's acquisition and 2018 merger.
+- [Vanessa](entities/Vanessa.md) — Former ByteDance PM and Luanfanshu guest explaining the Musical.ly/TikTok merger, safety integration, globalization, and AI-era product-method contrast.
+- [Alex Zhu](entities/AlexZhu.md) — Musical.ly and ByteDance product leader discussed through structured product thinking, product-container limits, and later FLOW work.
+- [张楠](entities/ZhangNan.md) — ByteDance/Douyin product leader used to illustrate aesthetic judgment plus concentrated resource testing.
+- [Kuaishou](entities/Kuaishou.md) — Chinese short-video platform used as the UGC ecosystem benchmark against Musical.ly and early Douyin.
+- [ByteDance FLOW](entities/ByteDanceFLOW.md) — ByteDance AI Native product context Vanessa joined after TikTok, used to contrast AI-era product work with mobile-internet benchmark optimization.
 - [Tim Cook](entities/TimCook.md) — Apple CEO framed through values institutionalization, privacy, accessibility, supply-chain responsibility, stakeholder capitalism, and geopolitical pragmatism.
 - [Steve Jobs](entities/SteveJobs.md) — Apple founder used as the product-revolution comparison frame for evaluating Tim Cook's different institutional legacy.
 - [Business Roundtable](entities/BusinessRoundtable.md) — CEO organization whose 2019 corporate-purpose statement anchors the episode's stakeholder-capitalism frame.
-- [乱翻书](entities/Luanfanshu.md) — Podcast/show context for the Sora, Adobe, and Meitu application-layer strategy episode.
+- [乱翻书](entities/Luanfanshu.md) — Podcast/show context for ByteDance/TikTok product culture, Meitu/Sora/Adobe application-layer strategy, and Tim Cook's Apple values legacy.
 - [庄明浩](entities/ZhuangMinghao.md) — Luanfanshu host framing whether frontier models are eating the application layer.
 - [魏熙](entities/WeiXi.md) — Technology writer and former advertising/product practitioner explaining Meitu's AI application strategy.
 - [吴欣鸿](entities/WuXinhong.md) — Meitu founder cited through the claim that AI is both Meitu's biggest opportunity and biggest danger.
@@ -465,7 +472,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Expedia Group](entities/ExpediaGroup.md) — Global OTA comparator and Elong investor context in the Ctrip episode.
 - [Meituan](entities/Meituan.md) — Local-services platform named as a possible later competitor to Ctrip in hotel and travel booking.
 - [Fliggy](entities/Fliggy.md) — Alibaba-linked travel platform discussed as both a Ctrip competitor and a possible Qwen fulfillment surface.
-- [Douyin](entities/Douyin.md) — Attention platform discussed through travel discovery and live-commerce/local-fulfillment order flow.
+- [Douyin](entities/Douyin.md) — ByteDance short-video platform discussed through TikTok benchmarking, product-container contrast with Xiaohongshu, travel discovery, and live-commerce/local-fulfillment order flow.
 - [JD Travel](entities/JDTravel.md) — Ecommerce-linked travel-booking competitor mentioned in the Ctrip episode.
 - [Damai](entities/Damai.md) — Ticketing platform used as both a platform-governance example and a possible Qwen fulfillment surface.
 - [State Administration for Market Regulation](entities/StateAdministrationForMarketRegulation.md) — Chinese antitrust regulator context for the reported Ctrip investigation.
@@ -501,7 +508,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [PGP](entities/PGP.md) — Cryptography software used as a historical analogy for why intangible software export controls can fail.
 - [Fable 5](entities/Fable5.md) — AI model/product discussed through one-shot coding, planning, review triage, quota pressure, and token-driven product imagination.
 - [GrillMe Skills](entities/GrillMeSkills.md) — Matpaco skill workflow contrasted with Superpowers as a lighter manual path for requirement questioning, specs, ADRs, PRDs, and issue decomposition.
-- [Meta](entities/Meta.md) — Platform company claimed by the Manus episode to have acquired Manus, used as a case for model and platform firms buying agent application layers.
+- [Meta](entities/Meta.md) — Platform company discussed through Facebook's TikTok response, the Manus acquisition claim, AI capex, FAIR research, and model/platform firms buying agent application layers.
 - [OpenManus](entities/OpenManus.md) — Agent project referenced as evidence that Manus-like task execution, local browser operation, and workflow automation were becoming easier to reproduce.
 - [Tongxin Software](entities/TongxinSoftware.md) — Domestic operating-system company used by the episode to connect Deepin's community lineage with Xinchuang government-enterprise delivery and management culture.
 - [Tongxin UOS](entities/TongxinUOS.md) — Commercial operating-system product connected to Deepin and the Xinchuang market.
@@ -620,7 +627,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Buena Vista Distribution](entities/BuenaVistaDistribution.md) — Disney distribution arm that reduced reliance on outside film distributors.
 - [大琪](entities/Daqi.md) — Independent designer connecting Alibaba, Lazada, TikTok, Product Roast, landing-page conversion, and design-led growth.
 - [Lazada](entities/Lazada.md) — Southeast Asian ecommerce company used through Daqi's design-team experience and cross-cultural product-design lessons.
-- [TikTok](entities/TikTok.md) — Singapore-based product-design context in Daqi's career, linked to internationalization and cross-cultural product design.
+- [TikTok](entities/TikTok.md) — Global short-video platform formed from Musical.ly plus ByteDance systems, linked to creator tools, recommendation, safety, localization, design practice, and regulatory stress.
 - [Maxine Clark](entities/MaxineClark.md) — Build-A-Bear founder and former retail executive connecting customer empathy, child-centered design, mall retail, and succession.
 - [Build-A-Bear](entities/BuildABear.md) — Make-your-own stuffed animal retailer built around customer co-creation, mall expansion, brand ritual, and experiential retail.
 - [May Department Stores](entities/MayDepartmentStores.md) — Retail company where Maxine Clark developed merchandising, operations, and executive experience before Build-A-Bear.
@@ -700,7 +707,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bobo's Oat Bars](entities/BobosOatBars.md) — Food company that shared early Boulder kitchen capacity and employees with Justin's Nut Butter.
 - [Boston Dynamics](entities/BostonDynamics.md) — Robotics company referenced through Shibo's admiration for Marc Raibert and autonomous robotics.
 - [Built for a Better World](entities/BuiltForABetterWorld.md) — Jeffrey Hollender's book about Seventh Generation and the future role of responsible business.
-- [ByteDance](entities/ByteDance.md) — Company behind Doubao and Seedance, discussed through AI cost pressure, video capability, voice product fit, and AI-for-math signals.
+- [ByteDance](entities/ByteDance.md) — Company behind TikTok, Doubao, and Seedance, discussed through short-video globalization, data-driven product culture, AI cost pressure, video capability, and AI-for-math signals.
 - [Cang Shifu](entities/CangShifu.md) — AI practitioner and creator discussing CLI workflows, skills, Code Pilot, and hands-on agent use.
 - [Caroline Buck](entities/CarolineBuck.md) — Petaluma founder asking how to explain plant-based dog food without triggering backlash.
 - [Character AI](entities/CharacterAI.md) — Character-chat product referenced as an AI-as-interaction-object example and as a companion-chat commercialization caution.
@@ -736,7 +743,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gemini](entities/Gemini.md) — AI assistant/search and coding surface discussed through Peak AI, Gemini CLI, product fragmentation, and assistant workflow comparison.
 - [Gemini CLI](entities/GeminiCLI.md) — Command-line AI coding tool discussed through long-context planning and model-provider tool competition.
 - [Gino Wickman](entities/GinoWickman.md) — EOS founder whose methodology and community created the ecosystem around Ninety's early product.
-- [Google](entities/Google.md) — Company behind Gemini and Android, discussed through AI product surfaces, search-platform comparison, and mobile-platform strategy.
+- [Google](entities/Google.md) — Company behind Gemini and Android, discussed through AI product surfaces, search-platform comparison, mobile-platform strategy, and TikTok's global-incumbent competitive frame.
 - [Goldman Sachs](entities/GoldmanSachs.md) — Financial institution referenced in EP57 through retail ownership data, mega-cap concentration data, and bank-stock weakness.
 - [Great Harvest Bread](entities/GreatHarvestBread.md) — Early Boulder retail customer for Justin's Nut Butter.
 - [Hang Seng Tech Index](entities/HangSengTechIndex.md) — Hong Kong technology benchmark discussed through China-tech repricing, Nasdaq linkage, and high-elasticity ETF behavior.
@@ -920,7 +927,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Win](entities/Win.md) — Keji Luandun guest arguing that Chinese founders should choose markets by payment behavior, field exposure, and real buyer demand.
 - [Whole Foods Market](entities/WholeFoodsMarket.md) — Natural-food retailer that became the major early unlock for Justin's Nut Butter.
 - [小黛](entities/Xiaodai.md) — YiLaoYongYi guest explaining insurance, banking, funds, household asset allocation, finance career risk, and investor education.
-- [Xiaohongshu](entities/Xiaohongshu.md) — Social and community platform positioned as a building-public channel, local lifestyle search entry point, and creator monetization venue.
+- [Xiaohongshu](entities/Xiaohongshu.md) — Social and community platform positioned as a building-public channel, local lifestyle search entry point, creator monetization venue, and product-container contrast to Douyin.
 - [Xiaohongshu Hackathon Peak Competition](entities/XiaohongshuHackathonPeakCompetition.md) — Xiaohongshu's 48-hour AI-era hackathon for young builders, hardware makers, designers, and independent developers.
 - [Xiaoban](entities/Xiaoban.md) — Yueban Dongli's consumer bipedal companion robot designed around household emotional presence.
 - [Xiaomi](entities/Xiaomi.md) — Chinese technology company used as both a Hong Kong/China tech allocation example and Luo Fuli's model-team context for Memo VR and agent-era training.
@@ -957,6 +964,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Data-Driven Product Culture](concepts/DataDrivenProductCulture.md) — ByteDance-style product operating system based on metrics, A/B tests, guardrails, review cycles, and LTV-style contribution comparison.
+- [Recommendation System Productization](concepts/RecommendationSystemProductization.md) — Turning ranking, cold start, content pools, safety review, and interface signals into the product experience.
+- [Content Ecosystem Governance](concepts/ContentEcosystemGovernance.md) — Platform safety, review, ranking, intervention, and value-setting layer needed when recommendation systems amplify content.
+- [Short-Video Creation Tools](concepts/ShortVideoCreationTools.md) — Music, audio reuse, effects, challenges, Duet, React, Stitch, and video replies that lower creation friction and turn consumption into prompts.
+- [Global Product Localization](concepts/GlobalProductLocalization.md) — Unified product container with localized content, operations, culture, market timing, language, and compliance.
+- [Product Container](concepts/ProductContainer.md) — Product-surface and user-mind carrying-capacity constraint that explains why features and content forms do not fit every feed.
+- [Non-Consensus Innovation](concepts/NonConsensusInnovation.md) — Exploration problem where data-driven mature teams must build categories before benchmarks and clear metrics exist.
 - [Stakeholder Capitalism](concepts/StakeholderCapitalism.md) — Governance idea that a company should serve customers, employees, suppliers, communities, and other affected parties rather than only shareholders.
 - [Values As Operational Asset](concepts/ValuesAsOperationalAsset.md) — Pattern where company values become executable through product requirements, supplier contracts, litigation, policy, and user trust.
 - [Apple Privacy](concepts/ApplePrivacy.md) — Apple privacy stance covering the FBI iPhone dispute, App Tracking Transparency, GDPR rhetoric, and trust against data-advertising models.

@@ -760,6 +760,10 @@ Added source page for a 面基 episode on dynamic efficient frontier, asset allo
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-08] ingest | Musical.ly如何成为 TikTok？PM眼中的字节产品文化和全球化之路｜字节跳动 第5集
+
+Added source page for a 乱翻书 episode with Vanessa on Musical.ly's merger into TikTok, ByteDance product culture, recommendation and safety systems, short-video creation tools, global localization, product-container limits, and AI-era product-method shifts. Created pages for Musical.ly, Vanessa, Alex Zhu, 张楠, Kuaishou, ByteDance FLOW, Data-Driven Product Culture, Recommendation System Productization, Content Ecosystem Governance, Short-Video Creation Tools, Global Product Localization, Product Container, and Non-Consensus Innovation; updated overview, index, ByteDance, TikTok, Douyin, Xiaohongshu, Luanfanshu, Meta, Google, Cross-Cultural Product Design, AI Native Product Design, and AI Organization Design. No direct contradiction found; the source qualifies prior ByteDance/TikTok coverage by adding the mobile-internet operating system behind TikTok rather than treating it as only an algorithm or regulatory story.
+
 ## [2026-07-08] ingest | 143. 对何小鹏的第二次访谈：更大赌注、人形机器人Iron诞生、那场意外、技术剧变下CEO、GX和缝合怪
 
 Added source page for a 张小珺Jùn｜商业访谈录 episode on He Xiaopeng, XPeng's physical-AI pivot, stitched autonomous-driving architecture, humanoid robot Iron, flagship SUV GX, data and compute costs, robot commercialization, and CEO-led organization change. Created pages for He Xiaopeng, XPeng, XPeng Iron, XPeng GX, Physical AI, Stitched AI Architecture, and Humanoid Robot Commercialization; updated overview, index, Zhang Xiaojun Commercial Interviews, Embodied AI, AI Plus Terminals, AI Organization Design, Physical World Data Flywheel, Embodied AI Value Chain, Consumer Robotics Full Stack, and Home Service Robots. No direct contradiction found; the source adds a strategic tension between humanoid robots and previously ingested wheeled home-service robot arguments.
@@ -1195,6 +1199,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] ingest | 264.库克的道德锚点｜过去15年，库克给苹果留下了什么？
 
 Added source page for a 乱翻书 episode on Tim Cook's 15-year Apple legacy, stakeholder capitalism, privacy, accessibility, supply-chain responsibility, environmental and civil-rights commitments, and values as an operational asset. Created pages for Tim Cook, Steve Jobs, Business Roundtable, Stakeholder Capitalism, Values As Operational Asset, Apple Privacy, Apple Accessibility, and Apple Supply Chain Responsibility; updated overview, index, Luanfanshu, Apple, iPhone, App Store, Meta, Google, Donald Trump, European Union, Shareholder Primacy, Purpose Driven Business, and Trust As Business Asset. No direct contradiction found; the source qualifies the Apple platform and trust threads by arguing that values can be both sincere moral commitments and durable institutional moats when they are operationalized in products, contracts, suppliers, litigation, and regulation.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-08] lint | Wiki health check
 
