@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Mourning Show: The Politics of Khamenei's Funeral](sources/the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7.md) — The Intelligence episode on Khamenei's funeral as political theater, Iran succession uncertainty, Japan's joint-custody reform, and Route 66 nostalgia tourism.
 - [读书，就是在读一个人的 F](sources/dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1.md) — 面基 episode on AI-assisted reading, the X/F/FX framework, reading as frame training, personal knowledge ecology, AI authorship presence, and using one's own judgment when AI makes outputs abundant.
 - [Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough](sources/catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2.md) — How I Built This episode on Catalina Crunch, dietary constraint as product insight, low-sugar cereal formulation, CPG manufacturing scale-up, DTC shipping economics, Whole Foods retail breakout, packaging, and commodity exposure.
 - [Bayo Akomolafe: The Untimely](sources/bayo-akomolafe-the-untimely-cenyca-k7ry.md) — Long Now talk on the untimely, modern time discipline, Yoruba twin cosmology, colonial temporal discipline, fugitive temporality, autistic time, ancestry, and attention.
@@ -233,7 +234,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [General Mills](entities/GeneralMills.md) — Food company mentioned as the Haagen-Dazs parent-company context in the ice-cream episode.
 - [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for city commerce observations and the bee-economics episode on pollination, honey standards, and agricultural markets.
 - [Polymarket](entities/Polymarket.md) — Prediction-market example used by E144 to explain price-as-probability thinking and residual risk.
-- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for AI-bubble hedging, Erdogan succession, Japan's snap-election mandate, Texas campus speech controls, Starmer's Labour crisis, Bangladesh's transition election, applied astrobiology, AI hiring overload, assisted dying, skijoring, and Taxi Driver analysis.
+- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for Khamenei's funeral, Iran succession uncertainty, Japan custody reform, Route 66, AI-bubble hedging, Erdogan succession, Japan's snap-election mandate, Starmer's Labour crisis, Bangladesh's transition election, and other magazine-style segments.
+- [Ali Khamenei](entities/AliKhamenei.md) — Iranian supreme-leader figure whose funeral is framed by The Intelligence as religious rite, regime display, and succession test.
+- [Mujtaba Khamenei](entities/MujtabaKhamenei.md) — Khamenei son described by the episode as supposed successor whose absence creates command uncertainty.
+- [Iran](entities/Iran.md) — Country context for Khamenei's funeral, regime legitimacy, ceasefire diplomacy, the Strait of Hormuz, and earlier digital-infrastructure war-risk discussion.
+- [Strait of Hormuz](entities/StraitOfHormuz.md) — Shipping chokepoint tied to Iran's ceasefire bargaining and passage-control signaling.
+- [Japan](entities/Japan.md) — Country context for The Intelligence sources on joint-custody reform and Takaichi Sanae's electoral mandate.
+- [Route 66](entities/Route66.md) — American highway treated as a centenary symbol of migration, car culture, decommissioned infrastructure, and nostalgia tourism.
+- [Nicholas Palam](entities/NicholasPalam.md) — The Intelligence correspondent explaining Khamenei's funeral, Iran's religious-political authority, succession uncertainty, and ceasefire context.
+- [Moeka Iida](entities/MoekaIida.md) — The Intelligence contributor explaining Japan's post-divorce joint-custody reform and changing family norms.
+- [John Fasman](entities/JohnFasman.md) — The Intelligence reporter whose Route 66 road trip grounds the episode's centenary tourism segment.
 - [Rosie Bloor](entities/RosieBloor.md) — Host introducing the episode's finance, Turkey politics, and literary obituary segments.
 - [Josh Roberts](entities/JoshRoberts.md) — Capital-markets correspondent explaining AI bubble hedging, hyperscaler capex, and defensive portfolio choices.
 - [Piotr Zilevsky](entities/PiotrZilevsky.md) — Turkey correspondent explaining Erdogan succession dynamics, term-limit workarounds, and party maneuvering.
@@ -919,7 +929,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diversification Alpha](concepts/DiversificationAlpha.md) — Portfolio idea that broad exposure, capped downside, uncapped upside, and winner weighting can be return sources.
 - [Random Market Narratives](concepts/RandomMarketNarratives.md) — Warning that convincing market stories can be generated after random or contingent price paths.
 - [AI Bubble Hedging](concepts/AIBubbleHedging.md) — Portfolio-response frame for suspected AI overvaluation using bonds, gold, defensive equities, and buy-and-hold discipline.
-- [Autocratic Succession](concepts/AutocraticSuccession.md) — Succession problem under personalized long-term rule, added through the Erdogan segment.
+- [Autocratic Succession](concepts/AutocraticSuccession.md) — Succession problem under personalized long-term rule, extended by the Erdogan and Khamenei funeral cases.
+- [Political Funeral](concepts/PoliticalFuneral.md) — Use of mourning ritual as regime-legitimacy performance and succession signal.
+- [Joint Custody Reform](concepts/JointCustodyReform.md) — Family-law shift toward continuing post-divorce parental responsibility, grounded by Japan's reform.
+- [Clean Break Divorce Model](concepts/CleanBreakDivorceModel.md) — Divorce norm where one parent becomes effectively absent from the child's life after household separation.
+- [Route 66 Nostalgia Tourism](concepts/Route66NostalgiaTourism.md) — Pattern where a decommissioned highway survives as a chosen memory route and roadside tourism economy.
 - [Literary Agent Judgment](concepts/LiteraryAgentJudgment.md) — Taste and persistence needed to represent difficult writing before publishers or readers recognize its value.
 - [Recursive Self-Improvement](concepts/RecursiveSelfImprovement.md) — AI self-improvement loop where models help create tasks, data, code, training recipes, verification, and subsequent iterations.
 - [Discovery Model](concepts/DiscoveryModel.md) — AI system aimed at proposing and validating new scientific hypotheses rather than only generating fluent answers.

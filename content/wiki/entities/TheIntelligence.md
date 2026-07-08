@@ -2,13 +2,17 @@
 title: "The Intelligence"
 type: entity
 tags: [podcast, media]
-sources: [stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d, a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]
+sources: [the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d, a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]
 last_updated: 2026-07-08
 ---
 
 # The Intelligence
 
-The Intelligence is the Economist news podcast context for [[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]], [[snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d]], [[a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07]], and [[dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]]. In the AI-bubble source, [[RosieBloor]] introduces three segments: [[JoshRoberts]] on how investors might hedge a possible AI stock bubble, [[PiotrZilevsky]] on succession speculation around [[RecepTayyipErdogan]], and an obituary-style profile of [[GeorgesBeauchard]].
+The Intelligence is the Economist news podcast context for [[the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]], [[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]], [[snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d]], [[a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07]], and [[dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]].
+
+The Khamenei-funeral source adds another magazine-style sequence: [[NicholasPalam]] on [[AliKhamenei]], [[MujtabaKhamenei]], [[Iran]], [[PoliticalFuneral]], [[AutocraticSuccession]], and the [[StraitOfHormuz]]; [[MoekaIida]] on [[Japan]], [[JointCustodyReform]], and the [[CleanBreakDivorceModel]]; and [[JohnFasman]] on [[Route66]] and [[Route66NostalgiaTourism]].
+
+In the AI-bubble source, [[RosieBloor]] introduces three segments: [[JoshRoberts]] on how investors might hedge a possible AI stock bubble, [[PiotrZilevsky]] on succession speculation around [[RecepTayyipErdogan]], and an obituary-style profile of [[GeorgesBeauchard]].
 
 The snap-election source adds another magazine-style sequence: [[TakaichiSanae]] and [[LiberalDemocraticPartyJapan]] as a Japanese [[ElectoralMandate]] case, [[TexasAMUniversity]] and [[MartinPeterson]] as an [[AcademicFreedom]] and [[CampusSpeechRegulation]] case, and [[TaxiDriver]] as a cultural essay about [[AntiheroMisreading]] and [[AlienatedMaleViolence]].
 
@@ -18,6 +22,9 @@ The Dhaka source adds a fourth sequence: [[Bangladesh]], [[SheikhHasina]], [[Awa
 
 ## Connections
 - [[AIBubbleHedging]] — finance segment on AI capex, bubbles, bonds, gold, defensive equities, and buy-and-hold discipline.
+- [[PoliticalFuneral]] and [[AutocraticSuccession]] — Khamenei funeral segment on ritual, regime endurance, and missing-successor uncertainty.
+- [[JointCustodyReform]] and [[CleanBreakDivorceModel]] — Japan family-law segment on post-divorce parental responsibility.
+- [[Route66NostalgiaTourism]] — cultural-travel segment on Route 66's centenary and post-utility tourism economy.
 - [[AutocraticSuccession]] — Turkey segment on Erdogan, term limits, party succession, and opposition pressure.
 - [[LiteraryAgentJudgment]] — obituary segment on Beauchard, Beckett, Wiesel, and literary taste before market recognition.
 - [[ElectoralMandate]] — Japan segment on Takaichi's lower-house landslide and policy speed.
@@ -29,4 +36,4 @@ The Dhaka source adds a fourth sequence: [[Bangladesh]], [[SheikhHasina]], [[Awa
 - [[DemocraticTransitionElection]] — Bangladesh segment on competitive voting after Hasina's removal and Awami League exclusion.
 - [[AppliedAstrobiology]] — space segment on microbes, bioreactors, and off-Earth habitability.
 - [[AIHiringArmsRace]] and [[CandidateIdentityFraud]] — recruiting segment on AI-generated applications and fake applicant profiles.
-- [[RosieBloor]], [[JoshRoberts]], [[PiotrZilevsky]], [[SashaNauta]], [[AaronBraun]], [[MarkJohnson]], [[OliverMorton]], and [[ShiraAviono]] — source participants.
+- [[NicholasPalam]], [[MoekaIida]], [[JohnFasman]], [[RosieBloor]], [[JoshRoberts]], [[PiotrZilevsky]], [[SashaNauta]], [[AaronBraun]], [[MarkJohnson]], [[OliverMorton]], and [[ShiraAviono]] — source participants.

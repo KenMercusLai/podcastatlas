@@ -1031,3 +1031,11 @@ Added source page for a 面基 episode on AI-assisted reading, the X/F/FX framew
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | The Mourning Show: The Politics of Khamenei's Funeral
+
+Added source page for a The Intelligence episode on Khamenei's funeral as political theater, Iran succession uncertainty, ceasefire and Strait of Hormuz bargaining, Japan's post-divorce joint-custody reform, the clean-break divorce model, and Route 66 nostalgia tourism. Created pages for Ali Khamenei, Mujtaba Khamenei, Iran, Strait of Hormuz, Japan, Route 66, Nicholas Palam, Moeka Iida, John Fasman, Political Funeral, Joint Custody Reform, Clean Break Divorce Model, and Route 66 Nostalgia Tourism; updated overview, index, The Intelligence, and Autocratic Succession. No direct contradiction found; the source's Iran-war and succession timeline is recorded as an episode claim rather than independently verified fact.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
