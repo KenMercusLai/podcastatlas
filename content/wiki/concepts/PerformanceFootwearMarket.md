@@ -2,13 +2,15 @@
 title: "Performance Footwear Market"
 type: concept
 tags: [footwear, consumer-brands, sports, market]
-sources: [e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie]
-last_updated: 2026-07-08
+sources: [e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie, 138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1]
+last_updated: 2026-07-09
 ---
 
 # Performance Footwear Market
 
 Performance footwear market is the consumer-brand and sports-equipment market where running shoes sell through a mix of race proof, comfort, fit, materials, athlete sponsorship, fashion adoption, channel access, and price-performance. [[e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie]] uses marathon super shoes to show how elite performance and mass consumption reinforce each other.
+
+[[138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1]] adds the owned-channel and premium circle-brand layer through [[OnRunning]]. The source argues that store control, apparel attachment, and price discipline can matter as much as foam or race proof when a performance brand is trying to cross from running subculture into broader lifestyle demand.
 
 ## Key Claims
 - A racing shoe can create a halo far beyond elite runners when podium results make the brand feel technically credible.
@@ -17,8 +19,9 @@ Performance footwear market is the consumer-brand and sports-equipment market wh
 - Channel shifts can redistribute market opportunity; the episode says [[Nike]]'s distribution pullback helped brands such as [[NewBalance]], [[HOKA]], and [[OnRunning]] gain shelf visibility.
 - Chinese brands may compete through supply chain, cost-performance, and overseas expansion, but still face original-innovation and product-team stability challenges.
 - Future growth may move toward trail running, HYROX, and other adjacent scenes if marathon growth cools.
+- Premium challenger brands may accept lower near-term net margins from owned-store investment if the channel preserves brand identity, teaches the product, and creates apparel cross-sell.
 
 ## Connections
 - [[Nike]], [[Adidas]], [[NewBalance]], [[ASICS]], [[HOKA]], [[OnRunning]], [[Xtep]], [[LiNing]], [[QiaodanSports]], and [[361Degrees]] — brand actors.
 - [[RunningShoeTechnology]], [[CarbonPlateRacingShoes]], and [[SupercriticalFoamMidsole]] — product-technology layer.
-- [[ConsumerBrandMoat]], [[DistributionLedProductBuilding]], and [[SubcultureLedMarketing]] — adjacent consumer-brand patterns.
+- [[ConsumerBrandMoat]], [[DistributionLedProductBuilding]], [[SubcultureLedMarketing]], and [[DirectToConsumerBrandControl]] — adjacent consumer-brand and channel patterns.

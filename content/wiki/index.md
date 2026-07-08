@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [138. 昂跑中国重直营、超级猩猩不办卡](sources/138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1.md) — 疯投圈 episode on On Running's China DTC push, premium sports circle brands, Nike/HOKA channel spillovers, SuperMonkey's pay-per-class fitness model, and service-brand scaling constraints.
 - [139. 泡泡玛特和拼多多值得投资么？](sources/139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1.md) — 疯投圈 episode with ICE on Pop Mart, Labubu concentration, Pinduoduo valuation, Temu catalysts, good-company-versus-good-stock thinking, AI-compressed investment research, and active stock-picking suitability.
 - [141. 咖啡战争2026：机构化与本土化](sources/141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1.md) — 疯投圈 episode on China's coffee market moving into institution-led ownership, local control, premium-versus-daily brand tension, Luckin's mature scale, and tea-drink chains entering coffee.
 - [140. 大疆还能低空飞多久？](sources/140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1.md) — 疯投圈 episode on DJI's drone and portable-camera business, global hardware brand power, U.S. restrictions, low-altitude regulatory risk, alumni startups, and the open IPO/liquidity question.
@@ -204,6 +205,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [SuperMonkey / 超级猩猩](entities/SuperMonkey.md) — Chinese group-fitness brand framed through pay-per-class retention, instructor-led atmosphere, and city-by-city service scaling.
+- [Lululemon](entities/Lululemon.md) — Premium athletic-apparel brand used as the comparator for On Running's shoe-to-apparel trust extension and DTC-heavy circle-brand strategy.
+- [Alo Yoga](entities/AloYoga.md) — Premium athletic-apparel brand used as a marketing-and-scarcity case where identity pull may outrun product proof.
 - [Pop Mart / 泡泡玛特](entities/PopMart.md) — Consumer-IP and collectibles company used to explain why a strong business can still be a hard stock when growth acceleration, valuation, and IP concentration change.
 - [Labubu](entities/Labubu.md) — Pop Mart blockbuster IP whose revenue share makes consumer-brand power and concentration risk visible at the same time.
 - [ICE](entities/ICEInvestor.md) — FengTouQuan episode 139 guest and investment educator emphasizing decompressed value-investing slogans, time horizon, catalysts, AI research limits, and self-knowledge.
@@ -1168,6 +1172,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Direct-to-Consumer Brand Control](concepts/DirectToConsumerBrandControl.md) — Owned-channel strategy used to protect premium price, experience, assortment, and customer relationship rather than only to collect cash faster.
+- [Pay-Per-Class Fitness Model](concepts/PayPerClassFitnessModel.md) — Fitness-service model where users buy individual classes and retention replaces prepaid gym-card lock-in.
+- [Service Brand Standardization](concepts/ServiceBrandStandardization.md) — Operating problem of making human-delivered services feel reliably branded across staff, locations, and cities.
 - [Good Company Vs Good Stock](concepts/GoodCompanyGoodStock.md) — Investing distinction that business quality, entry price, time horizon, market expectations, catalysts, and temperament all affect whether a stock is attractive.
 - [Earnings Growth Acceleration](concepts/EarningsGrowthAcceleration.md) — Market sensitivity to whether profit growth is speeding up or slowing down, not only whether earnings are still increasing.
 - [Investment Catalyst](concepts/InvestmentCatalyst.md) — Event, business change, or capital-return action that can make price converge toward estimated value.
