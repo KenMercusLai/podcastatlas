@@ -2,13 +2,15 @@
 title: "The Intelligence"
 type: entity
 tags: [podcast, media]
-sources: [the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d, a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b]
-last_updated: 2026-07-08
+sources: [gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d, a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b]
+last_updated: 2026-07-09
 ---
 
 # The Intelligence
 
-The Intelligence is the Economist news podcast context for [[the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad]], [[missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3]], [[continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e]], [[the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]], [[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]], [[snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d]], [[a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07]], [[dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]], and [[fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b]].
+The Intelligence is the Economist news podcast context for [[gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6]], [[the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad]], [[missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3]], [[continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e]], [[the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]], [[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]], [[snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d]], [[a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07]], [[dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]], and [[fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b]].
+
+The Gulf-co-operation source adds a three-segment sequence: [[GregCarlstrom]] on [[GulfCooperationCouncil]], [[GulfStabilityRisk]], [[GulfStrategicDiversification]], [[UnitedArabEmirates]], [[Bahrain]], [[Iran]], and the [[StraitOfHormuz]]; an America-at-250 continuation through [[BarackObama]], [[DonaldTrump]], and [[AmericanDemocraticResilience]]; and a science segment on [[PlantAcousticSignaling]] as a possible crop-stress and plant-defense signal.
 
 The America-at-250 source adds a special-episode sequence: [[RobertGuest]], [[DanielKnowles]], and [[RebeccaJackson]] debate [[AmericanDemocraticResilience]], the [[SupremeCourt]], [[DonaldTrump]], [[ExecutivePowerPrecedent]], and [[HistoricalMemoryContest]]; an immigration dispatch frames [[ImmigrationBacklashCycle]] and [[AssimilationCapacity]]; and [[JohnFasman]] explains [[AmericanCulturalExports]] as a blend of absorption, marketing, and global platform circulation.
 
@@ -49,10 +51,12 @@ The Fault Lines source adds a fifth sequence: [[HaleySalmon]] on [[Venezuela]], 
 - [[AIHiringArmsRace]] and [[CandidateIdentityFraud]] — recruiting segment on AI-generated applications and fake applicant profiles.
 - [[NATOAllianceCredibility]], [[EuropeanDefenseAutonomy]], and [[RussianHybridPressure]] — alliance segment on NATO's public unity and private American-commitment doubts.
 - [[VibeLawyering]], [[LegalAIHallucination]], and [[HumanInTheLoopLegalAI]] — legal AI segment on AI filings, fabricated cases, and supervised legal AI.
+- [[GulfStabilityRisk]] and [[GulfStrategicDiversification]] — Gulf segment on post-Iran-war uncertainty, confidence, infrastructure, and investment priorities.
+- [[PlantAcousticSignaling]] — science segment on plants detecting vibrations, emitting ultrasonic sounds, and possible crop-monitoring uses.
 - [[USIranNuclearDiplomacy]] and [[ProxyConflictSpoilerRisk]] — Middle East segment on how Israel-Hezbollah fighting in Lebanon can imperil a wider Iran deal.
 - [[ElNinoClimateRisk]] and [[ClimateAdaptation]] — climate segment on a potentially strong El Nino under global-warming conditions.
 - [[JapaneseImperialSuccession]] — Japan segment on Aiko, male-line inheritance, public opinion, and conservative resistance.
 - [[AmericanDemocraticResilience]], [[ExecutivePowerPrecedent]], and [[HistoricalMemoryContest]] — America-at-250 segment on democratic guardrails, presidential power, and national memory.
 - [[ImmigrationBacklashCycle]], [[AssimilationCapacity]], and [[AmericanCulturalExports]] — America-at-250 segment on immigration history, belonging, and cultural power.
-- [[NicholasPalam]], [[MoekaIida]], [[JohnFasman]], [[RosieBloor]], [[JoshRoberts]], [[PiotrZilevsky]], [[SashaNauta]], [[AaronBraun]], [[MarkJohnson]], [[OliverMorton]], [[ShiraAviono]], [[HaleySalmon]], [[AntonLaGuardia]], and [[AnnaKerr]] — source participants.
+- [[GregCarlstrom]], [[NicholasPalam]], [[MoekaIida]], [[JohnFasman]], [[RosieBloor]], [[JoshRoberts]], [[PiotrZilevsky]], [[SashaNauta]], [[AaronBraun]], [[MarkJohnson]], [[OliverMorton]], [[ShiraAviono]], [[HaleySalmon]], [[AntonLaGuardia]], and [[AnnaKerr]] — source participants.
 - [[RobertGuest]], [[DanielKnowles]], and [[RebeccaJackson]] — America-at-250 panelists.

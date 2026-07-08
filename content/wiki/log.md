@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-09] ingest | Gulf-co-operation counsel: what next for the region
+
+Added source page for a The Intelligence episode on Gulf stability after the Iran war, America-at-250 democratic strain, and plant acoustic signaling. Created pages for Greg Carlstrom, Gulf Cooperation Council, United Arab Emirates, Bahrain, Gulf Stability Risk, Gulf Strategic Diversification, and Plant Acoustic Signaling; updated The Intelligence, Economist Podcasts, United States, Barack Obama, Donald Trump, American Democratic Resilience, Executive Power Precedent, Iran, Strait of Hormuz, U.S.-Iran Nuclear Diplomacy, overview, and index. No direct contradiction found; the source creates a tension with earlier U.S.-Iran diplomacy and Khamenei-funeral pages by emphasizing that Gulf confidence still depends on durable settlement and credible security.
+
 ## [2026-07-08] ingest | Trailer: Tocqueville Road Trip
 
 Added source page for an Economist Podcasts trailer introducing John Prideaux's Tocqueville Road Trip, which retraces Alexis de Tocqueville's 1831 U.S. journey and uses Democracy in America to ask whether the United States still functions as a democratic idea. Created pages for Economist Podcasts, Tocqueville Road Trip, Alexis de Tocqueville, John Prideaux, Democracy in America, and America as Idea; updated United States, American Democratic Resilience, overview, and index. No direct contradiction found; the source extends the America-at-250 branch by turning the current resilience question into a historical comparison with Tocqueville's account.
@@ -1351,3 +1355,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-09] report | Graph health report generated
 
 1834 nodes analyzed.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

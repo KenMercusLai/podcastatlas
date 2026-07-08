@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Gulf-co-operation counsel: what next for the region](sources/gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6.md) — The Intelligence episode on Gulf stability after the Iran war, America-at-250 democratic strain, and plant acoustic signaling.
 - [Trailer: Tocqueville Road Trip](sources/trailer-tocqueville-road-trip-6a315642780d0f7579af216c.md) — Economist Podcasts trailer introducing John Prideaux's Tocqueville Road Trip, using Alexis de Tocqueville and Democracy in America to test whether the United States still works as a democratic idea.
 - [Fault lines: Venezuela's paltry earthquake response](sources/fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b.md) — The Intelligence episode on Venezuela's earthquake response, state decay, U.S. recovery responsibility, delayed democratic-transition risk, sidewalk delivery-robot economics, and Harlan Coben as a Netflix thriller brand.
 - [Vol.263 郎的诱惑](sources/vol-263-lang-de-youhuo-998128018.md) — 商业就是这样 episode on Sushiro's China popularity, conveyor-belt sushi, seafood supply localization, RFID-backed standardization, mall rollout, and the limits of queue-driven restaurant hype.
@@ -185,7 +186,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [Economist Podcasts](entities/EconomistPodcasts.md) — Economist audio context for Tocqueville Road Trip and adjacent Economist podcast branches already tracked in the wiki.
+- [Greg Carlstrom](entities/GregCarlstrom.md) — The Intelligence analyst explaining Gulf stability risk, uneven Gulf readiness, and possible strategic-investment shifts after the Iran war.
+- [Gulf Cooperation Council](entities/GulfCooperationCouncil.md) — Regional Gulf frame where confidence, security, finance, logistics, aviation, sovereign wealth, and expatriate business life interact.
+- [United Arab Emirates](entities/UnitedArabEmirates.md) — Gulf state presented as comparatively better placed after the Iran war because of fiscal strength, expatriate confidence, and Hormuz-bypass planning.
+- [Bahrain](entities/Bahrain.md) — Gulf state presented as more exposed after the Iran war because of debt, limited reserves, and dependence on outside support.
+- [Economist Podcasts](entities/EconomistPodcasts.md) — Economist audio context for Tocqueville Road Trip, The Intelligence, Gulf stability, and adjacent Economist podcast branches already tracked in the wiki.
 - [Tocqueville Road Trip](entities/TocquevilleRoadTrip.md) — Economist podcast series retracing Tocqueville's U.S. journey to ask whether Democracy in America still explains the country.
 - [Alexis de Tocqueville](entities/AlexisDeTocqueville.md) — French observer whose 1831 U.S. journey and Democracy in America provide the trailer's interpretive lens.
 - [John Prideaux](entities/JohnPrideaux.md) — Economist host using Tocqueville's route to interview Americans about whether the national democratic idea still holds.
@@ -458,7 +463,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [General Mills](entities/GeneralMills.md) — Food company mentioned as the Haagen-Dazs parent-company context in the ice-cream episode.
 - [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for city commerce observations, bee economics, FIFA governance, and Sushiro's restaurant-chain operations.
 - [Polymarket](entities/Polymarket.md) — Prediction-market example used by E144 to explain price-as-probability thinking and residual risk.
-- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for America at 250, U.S.-Iran diplomacy, NATO stress, Khamenei's funeral, Bangladesh transition, Venezuela disaster response, robot delivery, Netflix thrillers, and other magazine-style segments.
+- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for Gulf stability, America at 250, U.S.-Iran diplomacy, NATO stress, Khamenei's funeral, Bangladesh transition, Venezuela disaster response, robot delivery, Netflix thrillers, and other magazine-style segments.
 - [NATO](entities/NATO.md) — Alliance context for defence spending, Ukraine support, European defence autonomy, Russian hybrid pressure, and American commitment doubts.
 - [Anton LaGuardia](entities/AntonLaGuardia.md) — The Intelligence diplomatic editor explaining NATO's tense summit, European defence autonomy, and alliance credibility risks.
 - [Anna Kerr](entities/AnnaKerr.md) — The Intelligence contributor explaining vibe lawyering, legal AI hallucinations, and supervised legal AI.
@@ -682,7 +687,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lyndon B. Johnson](entities/LyndonBJohnson.md) — Historical comparison for political power becoming private wealth through KTBC broadcast approvals.
 - [Bill Clinton](entities/BillClinton.md) — Post-presidency speech-income example used to explain political identity premium.
 - [Hillary Clinton](entities/HillaryClinton.md) — High-fee speech and campaign-controversy example in EP77's political identity premium comparison.
-- [Barack Obama](entities/BarackObama.md) — Cleaner post-office book and production-contract example of political identity premium.
+- [Barack Obama](entities/BarackObama.md) — U.S. political figure used both as an America-at-250 hope/backlash marker and as a cleaner post-office political-identity-premium case.
 - [George W. Bush](entities/GeorgeWBush.md) — Political-family and energy-business comparison tied to Harken stock-sale and investigation context.
 - [Shopify](entities/Shopify.md) — E-commerce platform that grew into merchant infrastructure and is later cited as an early AI-assistant commerce integration partner.
 - [Tobias Lütke](entities/TobiasLutke.md) — Shopify co-founder and CEO whose path runs from German software apprenticeship and Snowdevil's Ruby storefront to venture-scale leadership and IPO.
@@ -1076,6 +1081,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Gulf Stability Risk](concepts/GulfStabilityRisk.md) — Risk that war or unresolved diplomacy weakens the confidence behind Gulf finance, logistics, aviation, sovereign wealth, and expatriate business.
+- [Gulf Strategic Diversification](concepts/GulfStrategicDiversification.md) — Post-war Gulf investment shift toward defense, ports, pipelines, food security, and other resilience infrastructure.
+- [Plant Acoustic Signaling](concepts/PlantAcousticSignaling.md) — Plant sensing and sound-production frame where vibrations, ultrasonic stress signals, and microphones could inform crop monitoring and defenses.
 - [Democracy in America](concepts/DemocracyInAmerica.md) — Tocqueville text used as a historical benchmark for judging whether the United States still resembles its democratic self-description.
 - [America as Idea](concepts/AmericaAsIdea.md) — Frame that treats the United States as a democratic promise and global symbol rather than only a country or government.
 - [Disaster Response State Capacity](concepts/DisasterResponseStateCapacity.md) — Governance capacity to mobilize rescue, logistics, health systems, skilled labor, fuel, and aid distribution after shocks.

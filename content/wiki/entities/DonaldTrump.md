@@ -2,8 +2,8 @@
 title: "Donald Trump"
 type: entity
 tags: [person, politics, macro, investing]
-sources: [the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
-last_updated: 2026-07-08
+sources: [gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
+last_updated: 2026-07-09
 ---
 
 # Donald Trump
@@ -18,6 +18,8 @@ Donald Trump appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-
 
 [[the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad]] adds Trump to the internal U.S. democratic-guardrail branch. The episode asks whether his expansion of presidential authority is a temporary personal phenomenon or a durable [[ExecutivePowerPrecedent]] that later presidents could reuse even if his party control fades.
 
+[[gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6]] extends that America-at-250 frame by tracing Trump's rise through intensified battles over race, sex, and power, the pandemic, the January 6th Capitol attack, Joe Biden's presidency, and Trump's return to office. In this source, Trump is again less a biographical subject than a stress test for [[AmericanDemocraticResilience]].
+
 [[264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]] adds Trump as a political counterparty for [[TimCook]]. The episode says Cook maintained enough relationship access to discuss tariff exemptions for [[Apple]], while still publicly opposing the DACA cancellation as morally wrong and committing legal support to affected Apple employees.
 
 ## Source Position
@@ -30,6 +32,7 @@ Donald Trump appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-
 - The NATO summit source treats Trump as an alliance-confidence shock whose unpredictability can affect deterrence, force posture, and European planning.
 - The Missing Peace source treats Trump as part of a U.S.-Israel relationship shift that affects [[USIranNuclearDiplomacy]] and [[ProxyConflictSpoilerRisk]].
 - The America-at-250 source treats Trump as a test of [[AmericanDemocraticResilience]] because personal power claims can become legal precedent.
+- The Gulf-co-operation source extends that test through the later historical sequence from backlash and January 6th to Trump's return.
 - The Cook episode treats Trump as a test of business pragmatism versus moral boundaries: private commercial negotiation does not prevent public disagreement when employees and civil rights are at stake.
 
 ## Connections
