@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [一个 AI 创始人的虚荣心、装，和愚昧之巅｜对谈 invoko.ai 创始人梦琪](sources/yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f.md) — 42章经 episode with Mengqi on invoko.ai's pivot from vertical Agents and 2B growth tooling toward Clico, founder ego, product experience, Reddit user research, token economics, and the limits of AI software narratives.
 - [关于 AI、开源、商业化与全球化的经验、教训和方法论 | 对谈 PingCAP CTO 东旭](sources/guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5.md) — 42章经 episode with PingCAP CTO Dongxu on TiDB, open-source infrastructure trust, cloud-service commercialization, founder-led globalization, and AI-era data/memory infrastructure.
 - [AI 时代的超级入口还是手机吗？｜ S10E17](sources/ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731.md) — What's Next｜科技早知道 episode with Han Boxiao and Chen Yiqiang on smartphones as AI hubs, vivo/MediaTek chip co-design, foldable productivity, on-device AI, NPU scheduling, and edge-cloud boundaries.
 - [Keep qualms and carry on: a decade after Brexit](sources/keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b.md) — The Intelligence episode on Brexit's cumulative economic friction, unrealized deregulation dividend, immigration-politics reversal, AI/regulatory opportunity, and Britain's unresolved strategic identity.
@@ -189,6 +190,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [梦琪 / Mengqi](entities/Mengqi.md) — invoko.ai founder reflecting on vertical Agents, 2B pivots, founder ego, product experience, and Clico.
+- [invoko.ai / Invoqo](entities/InvokoAI.md) — Mengqi's AI software startup, moving from Sourcing/Growth Agent experiments toward consumer productivity software.
+- [Clico](entities/Clico.md) — invoko.ai browser and desktop productivity product focused on tab context, cursor-side writing, intent compression, and stable user experience.
 - [PingCAP](entities/PingCAP.md) — Open-source database company behind TiDB, used by Dongxu to explain infrastructure trust, cloud-service monetization, and founder-led globalization.
 - [东旭 / Dongxu](entities/Dongxu.md) — PingCAP co-founder and CTO explaining open-source infrastructure, TiDB, cloud commercialization, globalization, and AI data/memory opportunities.
 - [TiDB](entities/TiDB.md) — PingCAP's distributed relational database, used as the source's case for open-source infrastructure adoption and cloud-service commercialization.
@@ -1188,6 +1192,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Apple Accessibility](concepts/AppleAccessibility.md) — Apple inclusive-design branch where accessibility commitments become product method rather than ROI-only feature work.
 - [Apple Supply Chain Responsibility](concepts/AppleSupplyChainResponsibility.md) — Apple supply-chain ethics branch around clean energy, labor dignity, supplier education, and procurement leverage.
 - [AI Application Layer Moat](concepts/AIApplicationLayerMoat.md) — Application defensibility under model pressure through workflow fit, taste, quality control, user insight, and business delivery.
+- [Vertical Agent SaaSification](concepts/VerticalAgentSaaSification.md) — Failure mode where vertical Agent products are pulled back into configurable SaaS or agency work instead of end-to-end automation.
 - [Model Container Strategy](concepts/ModelContainerStrategy.md) — Application-company posture of selecting and combining external APIs, open-source models, self-trained vertical models, and product-layer judgment.
 - [Vertical Workflow AI](concepts/VerticalWorkflowAI.md) — AI product pattern that solves concrete domain workflows rather than only exposing raw model generation.
 - [To-Agent Distribution](concepts/ToAgentDistribution.md) — Route where products expose capabilities for AI agents to call on behalf of users, beside To C and To B.

@@ -1383,3 +1383,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-09] ingest | 一个 AI 创始人的虚荣心、装，和愚昧之巅｜对谈 invoko.ai 创始人梦琪
+
+Added source page for a 42章经 episode with Mengqi on invoko.ai's pivot from vertical Agents and 2B growth tooling toward Clico, founder ego, product experience, Reddit user research, token economics, and the limits of AI software narratives. Created pages for Mengqi, invoko.ai / Invoqo, Clico, and Vertical Agent SaaSification; updated overview, index, 42章经, Founder Ego, AI Application Layer Moat, Vertical Workflow AI, Cross-Cultural User Research, AI Startup Unit Economics, Product Led Willingness To Pay, Model Provider Tool Competition, AI Commercialization Pressure, AI Skills, and Context Engineering. No direct contradiction found; the source qualifies existing AI application and one-person-company optimism by showing that lower build cost still leaves user pull, maintenance, context, and payment unresolved.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

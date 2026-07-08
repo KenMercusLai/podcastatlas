@@ -23,6 +23,7 @@ sources:
   - 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan
   - quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec
   - guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5
+  - yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f
 last_updated: 2026-07-09
 ---
 
@@ -68,6 +69,8 @@ AI commercialization pressure is the tension between technical influence, user a
 
 [[guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5]] adds an infrastructure-company version through [[PingCAP]]. [[Dongxu]] argues that early open-source infrastructure value may be visible through adoption, production dependence, and outside engineering contributions before revenue appears, but the company still needs a business model that can fund long-term work. [[DatabaseCloudServiceCommercialization]] becomes the commercialization answer for [[TiDB]], while [[FounderLedSoftwareGlobalization]] adds the go-to-market version for AI founders: strong engineering still has to be translated into market language, local sales, pricing confidence, and customer relationships.
 
+[[yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f]] adds an AI-application-founder version through [[InvokoAI]]. [[Mengqi]]'s path shows commercialization pressure before scale: vertical Agent stories can help fundraising, but weak direct product usage, agency-like delivery, unclear OPC payment capacity, token-cost models, and stronger coding agents all force the founder back toward user pull, product experience, and repeatable willingness to pay.
+
 ## Key Claims
 - Open-source reputation alone may not justify sustained high-cost model training.
 - Commercialization pressure can change release timing, model scope, or product boundaries without necessarily ending open source.
@@ -96,6 +99,8 @@ AI commercialization pressure is the tension between technical influence, user a
 - Enterprise-owned models can pressure frontier providers when domain data, benchmarks, and post-training make a cheaper or more controllable model good enough for high-value work.
 - Open-source infrastructure faces commercialization pressure when adoption and community trust are strong but revenue must wait for a compatible model such as managed cloud service.
 - Global AI founders face commercialization pressure when engineering quality is not matched by local go-to-market messaging, sales presence, and willingness to charge for value.
+- AI application founders face commercialization pressure when a product story is legible to investors but the buyer does not use the product directly or cannot pay enough for the workflow.
+- AI software commercialization can improve when the founder chooses a smaller product with stronger user love over a larger Agent narrative with weaker usage evidence.
 
 ## Connections
 - [[LargeCompanyOpenSourceStrategy]] — strategic context where the pressure appears.
@@ -122,3 +127,4 @@ AI commercialization pressure is the tension between technical influence, user a
 - [[Doubao]], [[ByteDanceGrowthSystem]], [[AIConsumerGrowthMetrics]], [[AIInferenceCostStructure]], and [[LTVBasedGrowthBudgeting]] — consumer-growth and paid-acquisition limits added by the Luanfanshu episode 7 source.
 - [[OpenAI]], [[Anthropic]], [[Codex]], [[ClaudeCode]], [[EnterpriseOwnedModels]], and [[OpenSourceAIModels]] — Q2 2026 system-competition and enterprise-substitution update added by LateTalk.
 - [[PingCAP]], [[TiDB]], [[OpenSourceInfrastructureTrust]], [[DatabaseCloudServiceCommercialization]], and [[FounderLedSoftwareGlobalization]] — open-source infrastructure and global GTM extension added by the PingCAP source.
+- [[InvokoAI]], [[Mengqi]], [[Clico]], [[VerticalAgentSaaSification]], and [[AIStartupUnitEconomics]] — AI application founder and product-pivot case added by the 42章经 source.
