@@ -2,8 +2,8 @@
 title: "Proactive Agents"
 type: concept
 tags: [agents, productivity, product-design]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6]
-last_updated: 2026-07-07
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty]
+last_updated: 2026-07-08
 ---
 
 # Proactive Agents
@@ -18,6 +18,8 @@ Proactive agents are agents that help before the user fully specifies a task. In
 
 [[20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]] adds a task-scheduling and social-presence version through [[OpenClaw]]. The episode describes smart-home schedules, community bots, meeting reminders, and social monitoring as places where an agent's initiative matters, while also noting that automatic likes, comments, or high-permission actions can become unwelcome without clear boundaries.
 
+[[135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty]] adds [[Elys]] as an AI-social-network case. [[Tristan]] argues that the main interaction change in AI products is proactivity: [[CyberAvatars]] should face the social world on the user's behalf, pre-interact with other avatars, and bring back connections that are worth the user's attention.
+
 ## Key Claims
 - Proactivity is only useful when it is grounded in context; otherwise it risks becoming interruption or generic notification.
 - The product must calibrate how much initiative to take, from subtle autocomplete to explicit meeting-prep prompts to longer-horizon research help.
@@ -28,6 +30,7 @@ Proactive agents are agents that help before the user fully specifies a task. In
 - Timing is part of the product: user work state, app switching, dismissal, and task progress should change when the agent appears.
 - Social proactivity needs extra caution because an agent acting inside human communities can quickly cross norms around authenticity, attention, and spam.
 - Scheduled wakeups are a minimal proactivity mechanism, but they become useful only when tied to durable memory, tools, and permissions.
+- In social products, proactivity must be judged by whether it improves real human connection rather than merely creating more automated comments or messages.
 
 ## Connections
 - [[HumanAgentCollaboration]] — collaboration improves when the agent can anticipate needs without demanding full prompts.
@@ -38,3 +41,4 @@ Proactive agents are agents that help before the user fully specifies a task. In
 - [[WangJunyu]], [[PersistentAgentMemory]], and [[AISkills]] — Vol. 165's simple wakeup plus trainable-method interpretation.
 - [[AirJelly]], [[IntentContext]], and [[OSLevelContext]] — AirJelly case where proactivity is grounded in explicit intent and screen/task context.
 - [[IMAgentInterfaces]], [[LocalAgentExecution]], [[YaGe]], and [[Haoda]] — OpenClaw examples of scheduled tasks, social bots, and user-tolerated initiative.
+- [[Elys]], [[AISocialNetworks]], [[CyberAvatars]], and [[ContextFlywheel]] — social-network case where proactive avatars do pre-interaction work.

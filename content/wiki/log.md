@@ -1047,3 +1047,11 @@ Added source page for a 张小珺Jùn｜商业访谈录 episode on Yao Shunyu, A
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | 135. 和自然选择创始人Tristan聊，Elys、赛博分身、灵魂、Context的获取与流动和AI社交网络
+
+Added source page for a 张小珺Jùn｜商业访谈录 episode on Tristan, Natural Selection, EVE, Elys, cyber avatars, AI social networks, context flywheels, proactive AI products, privacy-for-utility tradeoffs, and subjectivity as an AI-era asset. Created supporting pages for Tristan, Natural Selection, EVE, Elys, AI Social Networks, Cyber Avatars, Context Flywheel, and Subjectivity As AI Asset; updated overview, index, Zhang Xiaojun Commercial Interviews, Context Engineering, Proactive Agents, Persistent Agent Memory, AI Native Product Design, AI Friend Products, Human Agency Under AI, and Human-Agent Collaboration. No direct contradiction found; the source reinforces existing context, memory, proactive-agent, and AI-native product themes while shifting them from productivity and companion use into social-network connection.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

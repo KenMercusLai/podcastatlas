@@ -2,7 +2,7 @@
 title: "Human Agency Under AI"
 type: concept
 tags: [ai, agency, life-design, work]
-sources: [e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]
+sources: [e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty]
 last_updated: 2026-07-08
 ---
 
@@ -13,6 +13,8 @@ Human agency under AI is the E163 [[Mianji]] claim that stronger AI execution pu
 The concept complements [[HumanJudgmentUnderAI]]. Judgment asks whether a result is right for the situation; agency asks what deserves to be delegated in the first place. The episode argues that as "how" becomes easier through [[VibeCoding]], [[AISkills]], and [[AgenticWorkflow]], the scarce layer moves toward why, what, what if, taste, and trust delivery.
 
 [[dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]] adds the reading and cognition version. The source distinguishes "I can do X" from "I should do X": AI can summarize, reshape, or accelerate books and notes, but agency means deciding when the process of reading, thinking, and meeting people is itself the point. [[XFFXFramework]] makes that agency concrete by asking which frame the person wants to train, not only which output they can obtain.
+
+[[135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty]] adds [[Tristan]]'s [[SubjectivityAsAIAsset]] version. The source argues that if many actions happen agentically, the person still has to supply who they are, what they want, what they value, what they find beautiful, and which past works or choices should guide the agent.
 
 ## Key Claims
 
@@ -26,6 +28,7 @@ The concept complements [[HumanJudgmentUnderAI]]. Judgment asks whether a result
 - Agency includes choosing not to optimize every possible task, because finite life and attention make choice unavoidable.
 - Agency includes choosing when to use AI and when to use one's own attention because the process itself trains [[ReadingAsFrameTraining]].
 - A person's frame can remain a source of agency even when AI makes many finished outputs easy to generate.
+- Subjectivity can become an AI-era asset when it is explicit enough for agents to use but still owned, governed, and updated by the person.
 
 ## Connections
 
@@ -36,3 +39,4 @@ The concept complements [[HumanJudgmentUnderAI]]. Judgment asks whether a result
 - [[AICommunicationAbility]] — agency must be expressed clearly enough for agents to act.
 - [[ContextEngineering]], [[AISkills]], and [[OutputQualityGates]] — mechanisms for turning personal agency into repeatable AI collaboration.
 - [[XFFXFramework]], [[AIAssistedReading]], and [[PersonalKnowledgeEcology]] — reading, note, and context practices that train the user's own frame.
+- [[SubjectivityAsAIAsset]], [[Elys]], [[CyberAvatars]], and [[ContextFlywheel]] — social-agent case where personal agency becomes context.
