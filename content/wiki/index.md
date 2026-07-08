@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [140. 大疆还能低空飞多久？](sources/140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1.md) — 疯投圈 episode on DJI's drone and portable-camera business, global hardware brand power, U.S. restrictions, low-altitude regulatory risk, alumni startups, and the open IPO/liquidity question.
 - [Trailer: Tocqueville Road Trip](sources/trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7.md) — Economist Podcasts trailer from the Boom from The Economist Acast feed, duplicating the Tocqueville Road Trip setup around Alexis de Tocqueville, Democracy in America, and America as a democratic idea.
 - [Google 的 AI 策略：不赌模型，赌什么？｜ Google Cloud Next 现场 S10E09](sources/google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6.md) — What's Next｜科技早知道 episode from Google Cloud Next on One Google, Google Cloud, TPU, Gemini, enterprise agents, agent governance, capability overhang, and startup opportunities around data flywheels and business outcomes.
 - [商业小样43 | AI时代，谁在给服务器“降温”](sources/shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076.md) — 商业就是这样 episode on AI data-center cooling, high-density GPU heat, liquid cooling, pumps, water systems, Grundfos, and prefabricated cooling stations.
@@ -201,6 +202,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [DJI / 大疆](entities/DJI.md) — Chinese drone and consumer-hardware company analyzed through category definition, global brand power, portable creator cameras, regulation risk, and talent spillover.
+- [Wang Tao / 汪滔](entities/WangTao.md) — DJI founder figure tied to founder control, listing choices, and talent/liquidity pressure.
+- [GoPro](entities/GoPro.md) — Action-camera pioneer used as a hardware lifecycle warning after DJI's challenger momentum.
+- [Insta360 / 影石](entities/Insta360.md) — 360-degree camera company positioned as DJI's major portable-creator-camera competitor.
+- [Bambu Lab / 拓竹科技](entities/BambuLab.md) — DJI-alumni hardware company example used to explain hardware talent spillover.
+- [EcoFlow / 正浩](entities/EcoFlow.md) — DJI-alumni portable-energy company example and category-expansion contrast.
 - [Google Cloud](entities/GoogleCloud.md) — Google enterprise cloud and AI infrastructure platform positioned through Google Cloud Next as part of Google's full-stack AI strategy.
 - [TPU](entities/TPU.md) — Google's AI chip family, discussed as a training and inference infrastructure layer inside Google's cloud-model-enterprise stack.
 - [Latin America](entities/LatinAmerica.md) — Regional frame connecting Trump-era investment, U.S.-China strategic competition, critical minerals, and earlier security-driven rightward politics.
@@ -515,7 +522,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [One Life](entities/OneLife.md) — RV brand or fit-out style associated with Guigui's secondhand B-type RV in EP122.
 - [Maxus V90](entities/MaxusV90.md) — Van platform used as the source's concrete B-type RV example.
 - [张一贞](entities/ZhangYizhen.md) — 面基 guest explaining A-share valuation indicators, trend rules, asset rotation, and drawdown-aware investor psychology.
-- [疯投圈](entities/FengTouQuan.md) — Podcast/show context for the ice-cream industry episode on cold-chain, store-made retail, sampling, and franchising.
+- [疯投圈](entities/FengTouQuan.md) — Podcast/show context for episodes on ice-cream category competition and DJI's drone, portable-camera, globalization, regulation, and talent-spillover strategy.
 - [Yeren Xiansheng](entities/YerenXiansheng.md) — Chinese store-made gelato/ice-cream chain used as the episode's core case for sampling, fresh-made positioning, and franchise expansion.
 - [Zhong Xuegao](entities/ZhongXuegao.md) — Chinese prepackaged premium ice-cream brand used as the cold-chain and high-price contrast case.
 - [Haagen-Dazs](entities/HaagenDazs.md) — Premium ice-cream incumbent used to discuss China store contraction, traffic decline, and weak fit with the current consumption environment.
@@ -1144,6 +1151,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Portable Creator Cameras](concepts/PortableCreatorCameras.md) — Action, gimbal, and 360-degree cameras that serve short-video and creator workflows beyond phone-only recording.
+- [Hardware Category Definition Power](concepts/HardwareCategoryDefinitionPower.md) — Advantage of teaching the market what a hardware category is, what quality looks like, and what price is acceptable.
+- [Chinese Hardware Globalization](concepts/ChineseHardwareGlobalization.md) — Pattern where Chinese device companies globalize through newer premium categories before protectionist or security constraints fully form.
+- [Low-Altitude Regulatory Risk](concepts/LowAltitudeRegulatoryRisk.md) — Drone and low-altitude flight exposure created when civilian hardware is recoded through security, war, and national-policy narratives.
+- [Hardware Talent Spillover](concepts/HardwareTalentSpillover.md) — Pattern where strong hardware companies train founders and operators who later create adjacent startups.
 - [Full-Stack AI Platform](concepts/FullStackAIPlatform.md) — Strategy of competing through chips, cloud, models, product surfaces, data, tools, security, and enterprise relationships rather than model rank alone.
 - [Enterprise Agent Governance](concepts/EnterpriseAgentGovernance.md) — Operating layer for managing many enterprise agents through identity, permissions, observability, security, audit, lifecycle, and human review.
 - [Capability Overhang](concepts/CapabilityOverhang.md) — Gap between what AI can technically do and what an organization can absorb into production workflows.
