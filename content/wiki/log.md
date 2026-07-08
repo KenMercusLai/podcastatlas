@@ -1559,3 +1559,11 @@ Added source page for a The Intelligence episode on European oil majors' hidden 
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used the existing `graph/graph.json` snapshot, which has 1,957 nodes while the wiki scan has 2,034 pages, and found no hub stubs, seven fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-09] ingest | Vol.262 去西班牙买足球俱乐部，一场荒诞的商业冒险
+
+Added source page for a 商业就是这样 episode with Li Xiang on buying into Spain's Jumilla CF with Tang Hui to build a Chinese-player overseas development platform. Created pages for Li Xiang, Tang Hui, Jumilla CF, Shandong Luneng Football School, Wolverhampton Wanderers, Fosun, Spain, Chinese Player Overseas Arbitrage, Football Club As Community Asset, Football Club Control Risk, Football Contract Enforcement Risk, and Youth Football Development System; updated overview, index, 商业就是这样, China, Sports Entertainment Flywheel, League Stakeholder Alignment, Fat League Economics, Startup Governance, Fast Product Validation, and Founder Ego. No direct contradiction found; the source qualifies the existing sports-business branch by showing that lower-tier football clubs can have community and player-development value while still being poor, hard-to-control investment assets.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
