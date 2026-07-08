@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Coming in Andy: Britain's prime minister-in-waiting](sources/coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b.md) — The Intelligence episode on Andy Burnham's Makerfield by-election route toward the Labour leadership, U.S.-Iran economic concessions, and the Obama Presidential Center as presidential memory politics.
 - [Fear-jerker: America's AI backlash](sources/fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd.md) — The Intelligence episode on U.S. AI backlash politics, data-center opposition, Chinese divorce restrictions, and European air conditioning as public-health climate adaptation.
 - [Trailer: Tocqueville Road Trip](sources/trailer-tocqueville-road-trip-6a315920101389aa3d42d134.md) — Economist Podcasts trailer from The Intelligence Acast feed, duplicating the Tocqueville Road Trip setup around Alexis de Tocqueville, Democracy in America, and America as a democratic idea.
 - [138. 昂跑中国重直营、超级猩猩不办卡](sources/138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1.md) — 疯投圈 episode on On Running's China DTC push, premium sports circle brands, Nike/HOKA channel spillovers, SuperMonkey's pay-per-class fitness model, and service-brand scaling constraints.
@@ -207,6 +208,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Obama Presidential Center](entities/ObamaPresidentialCenter.md) — Barack Obama's privately run presidential center on Chicago's South Side, used as a case in presidential museums, public memory, and quasi-imperial aura.
+- [Reform UK](entities/ReformUK.md) — Right-wing UK party whose Makerfield defeat and wider pressure from Labour, Conservatives, and Restore Britain signal a possible weakening of Reform's dominance.
+- [Conservative Party (UK)](entities/ConservativePartyUK.md) — UK party whose Aberdeen South by-election win is used as evidence that Reform UK can be squeezed from the traditional right.
+- [Restore Britain](entities/RestoreBritain.md) — Harder-right UK party named as a pressure point on Reform UK in the episode's by-election signal segment.
 - [Josh Hawley](entities/JoshHawley.md) — U.S. senator used by The Intelligence as a conservative example of cross-partisan AI anxiety around children, chatbots, and tech elites.
 - [SuperMonkey / 超级猩猩](entities/SuperMonkey.md) — Chinese group-fitness brand framed through pay-per-class retention, instructor-led atmosphere, and city-by-city service scaling.
 - [Lululemon](entities/Lululemon.md) — Premium athletic-apparel brand used as the comparator for On Running's shoe-to-apparel trust extension and DTC-heavy circle-brand strategy.
@@ -1175,6 +1180,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Iran Postwar Economic Relief](concepts/IranPostwarEconomicRelief.md) — Economic package around blockade relief, sanctions relief, asset unfreezing, and a proposed reconstruction fund after the U.S.-Iran memorandum.
+- [Presidential Memorial Culture](concepts/PresidentialMemorialCulture.md) — Presidential museums, libraries, and centers as memory institutions that can preserve civic history while giving presidents quasi-imperial aura.
 - [AI Backlash Politics](concepts/AIBacklashPolitics.md) — Electoral and regulatory politics formed by public anxiety about AI jobs, children, mental health, tech power, and speed of change.
 - [Data Center Backlash](concepts/DataCenterBacklash.md) — Local and political opposition to AI data centers over noise, power demand, building scale, and the symbolism of rapid technological change.
 - [China Divorce Restrictions](concepts/ChinaDivorceRestrictions.md) — Legal, administrative, property, and censorship barriers to divorce in China, framed against population policy and women's exit costs.

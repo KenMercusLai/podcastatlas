@@ -2,7 +2,7 @@
 title: "United Kingdom"
 type: entity
 tags: [country, politics, europe]
-sources: [keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1]
+sources: [keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1]
 last_updated: 2026-07-09
 ---
 
@@ -12,6 +12,8 @@ The United Kingdom is the country case in [[keep-qualms-and-carry-on-a-decade-af
 
 The source's central claim is that Britain was not instantly broken by Brexit, but became more burdened. [[BrexitEconomicFriction]] reduced growth and trade performance, [[BrexitRegulatoryDividend]] stayed limited, [[PostBrexitImmigrationPolitics]] disappointed voters who expected lower migration, and [[PostBrexitStrategicIdentity]] remained unresolved after Britain lost some of its bridge role between America and Europe.
 
+[[coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b]] adds a by-election snapshot of that churn. [[AndyBurnham]]'s Makerfield win makes him a plausible [[LabourPartyUK]] leadership challenger, while [[ReformUK]]'s poor showing, a [[ConservativePartyUK]] win in Aberdeen South, and pressure from [[RestoreBritain]] suggest Britain's party competition remains unsettled.
+
 [[starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1]] adds the leadership-crisis version of that burden. The episode says Britain is not ungovernable, but badly governed: [[KeirStarmer]]'s resignation follows a [[PoliticalDeliveryGap]], while [[LabourPartyUK]] turns toward [[AndyBurnham]] under narrow policy constraints.
 
 ## Connections
@@ -20,4 +22,5 @@ The source's central claim is that Britain was not instantly broken by Brexit, b
 - [[DavidCameron]] and [[BorisJohnson]] - prime ministers tied to the referendum promise, Leave victory, and hard-Brexit outcome.
 - [[BrexitEconomicFriction]], [[BrexitRegulatoryDividend]], and [[PostBrexitImmigrationPolitics]] - domestic consequences.
 - [[EuropeanDefenseAutonomy]], [[NATO]], [[Russia]], and [[Ukraine]] - defence context for Britain's possible future role.
-- [[KeirStarmer]], [[LabourPartyUK]], [[AndyBurnham]], [[LabourLeadershipCrisis]], and [[PoliticalDeliveryGap]] - leadership-crisis branch added by the later source.
+- [[KeirStarmer]], [[LabourPartyUK]], [[AndyBurnham]], [[LabourLeadershipCrisis]], and [[PoliticalDeliveryGap]] - leadership-crisis branch added by the later sources.
+- [[ReformUK]], [[ConservativePartyUK]], and [[RestoreBritain]] - by-election and party-competition pressure map.

@@ -1520,7 +1520,6 @@ Added source page for a 疯投圈 episode on China's coffee market entering an i
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
-
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -1532,6 +1531,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-09] ingest | Coming in Andy: Britain's prime minister-in-waiting
+
+Added source page for a The Intelligence episode on Andy Burnham's Makerfield by-election route toward challenging Keir Starmer, the U.S.-Iran memorandum as blockade/sanctions/assets/reconstruction-fund relief, and the Obama Presidential Center as a case in presidential memorial culture. Created pages for Obama Presidential Center, Reform UK, Conservative Party (UK), Restore Britain, Iran Postwar Economic Relief, and Presidential Memorial Culture; updated overview, index, The Intelligence, Economist Podcasts, Andy Burnham, Keir Starmer, Labour Party (UK), Wes Streeting, Labour Leadership Crisis, United Kingdom, Iran, U.S.-Iran Nuclear Diplomacy, Strait of Hormuz, Barack Obama, American Democratic Resilience, Historical Memory Contest, Executive Power Precedent, United States, and Donald Trump. No direct contradiction found; the source bridges the earlier Starmer "not toast this week" episode and the later Starmergeddon resignation episode.
 
 ## [2026-07-09] lint | Wiki health check
 
