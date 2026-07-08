@@ -2,7 +2,7 @@
 title: "Physical World Data Flywheel"
 type: concept
 tags: [robotics, data, embodied-ai]
-sources: [jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc]
+sources: [cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc]
 last_updated: 2026-07-08
 ---
 
@@ -16,6 +16,8 @@ Physical world data flywheel is [[GaoJiyang]]'s central moat argument for [[Xing
 
 [[jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1]] adds a live industrial-data version through [[RobotLogisticsSorting]] and [[RobotTeleoperationAndRemoteTakeover]]. Logistics scenes create repeated contact with messy packages, while teleoperation and remote correction can supply training traces and operational fallback before full autonomy is reliable.
 
+[[cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53]] adds a tactile-sensing version through [[YimuTechnology]]. [[EricLiZhiqiang]] uses [[Tesla]] FSD as an analogy for robots that first reach usable capability, deploy in bounded low-risk scenes, collect data, and continue improving through post-training and reinforcement learning. In his account, [[TactileSensing]] can make the flywheel richer because it captures force, slip, texture, and deformation data that vision misses.
+
 ## Key Claims
 - A robot body is not only a carrier for algorithms; it is the data-collection endpoint and the commercial good being sold.
 - The data flywheel cannot be built purely from a detached "brain" if the company does not control enough of the robot, deployment, and customer loop.
@@ -23,6 +25,7 @@ Physical world data flywheel is [[GaoJiyang]]'s central moat argument for [[Xing
 - It overlaps with [[HouseholdRobotDataFlywheel]], but the Xinghaitu source applies the idea to developer and production scenarios rather than only family homes.
 - In [[PhysicalAI]], data value has to be judged across cars, [[XPengIron]], and [[XPengGX]], where safety and model improvement depend on physical-world edge cases.
 - A practical flywheel may begin with bounded industrial scenes and supervised operation rather than with unsupervised fully autonomous robots.
+- Tactile flywheels may start in industrial assembly, insertion, and medical manipulation because those scenes expose repeated force-feedback tasks with clearer boundaries than home robots.
 
 ## Connections
 - [[Xinghaitu]] and [[GaoJiyang]] — source company and founder.
@@ -33,3 +36,4 @@ Physical world data flywheel is [[GaoJiyang]]'s central moat argument for [[Xing
 - [[DataEngineLearningLoop]], [[EmbodiedDataPyramid]], and [[RoboticsSimulationEvaluation]] — simulation-centered substitutes or complements when physical fleets are too small.
 - [[XPeng]], [[HeXiaopeng]], [[PhysicalAI]], [[XPengIron]], and [[XPengGX]] — car-and-robot data-cost governance added by episode 143.
 - [[RobotLogisticsSorting]], [[RobotTeleoperationAndRemoteTakeover]], [[FigureAI]], and [[XingdongEra]] — industrial scene and supervision loop added by the LateTalk source.
+- [[YimuTechnology]], [[TactileSensing]], [[TouchNet]], and [[TactileTransformerEncoder]] — tactile-data and model-interface layer added by the What's Next source.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-08] ingest | 从会跳舞到有感知，触觉是机器人通往智能的门票吗？｜ S10E19
+
+Added source page for a What's Next｜科技早知道 episode with Eric Li Zhiqiang on tactile sensing as embodied-AI infrastructure, optical tactile sensors, touch data, TouchNet, tactile transformer encoding, VTLA-style model integration, industrial assembly, medical manipulation, and Yimu Technology's chips/materials/algorithms/data stack. Created pages for Yimu Technology, Eric Li Zhiqiang, Tactile Sensing, Optical Tactile Sensing, TouchNet, and Tactile Transformer Encoder; updated overview, index, What's Next｜科技早知道, Embodied AI, Dexterous Manipulation, Vision Language Action Models, World Models, World Model VLA Fusion, Embodied Data Pyramid, Real Robot Data Strategy, Robotics Simulation Evaluation, and Physical World Data Flywheel. No direct contradiction found; the source reinforces prior robotics data constraints while adding touch as a missing physical feedback modality.
+
 ## [2026-07-08] ingest | 旧世代电台28 | 实体游戏的时代终结之际，不如重新定义拥有
 
 Added source page for a 旧世代 episode on Sony's source-reported plan to stop new PlayStation physical game discs, the economics pushing platform holders toward digital distribution, secondhand-game and leak concerns, player anxiety over digital licenses, game preservation, Steam/GOG comparisons, and the episode's post-ownership frame. Created pages for 旧世代, Sony, PlayStation, Steam, GOG, Xbox, Nintendo, Stop Killing Games, Physical Game Era Decline, Digital Game Distribution, Digital Game Ownership Anxiety, Secondhand Game Economy, Game Preservation, and Post Ownership. No direct contradiction found; the source adds a game-distribution and player-ownership branch to the wiki.
@@ -1307,6 +1311,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] ingest | 商业小样44 | 世界杯扩军与FIFA的权力斗争
 
 Added source page for a 商业就是这样 episode on the 2026 FIFA World Cup expansion, FIFA revenue concentration, U.S. stadium and sponsor-market upside, official resale/ticketing economics, and Gianni Infantino governance coalition. Created pages for FIFA, FIFA World Cup, Gianni Infantino, UEFA, Sepp Blatter, Michel Platini, Joao Havelange, World Cup Expansion, Global Sports Governance, and Sports Event Ticketing; updated overview, index, 商业就是这样, United States, Sports Media Rights, Corporate Hospitality Platform, League Stakeholder Alignment, Sports Entertainment Flywheel, and Fat League Economics. No direct contradiction found; the source extends the Formula One sports-media branch by showing a football governing body where expansion also depends on member-association voting and regional redistribution.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-08] lint | Wiki health check
 

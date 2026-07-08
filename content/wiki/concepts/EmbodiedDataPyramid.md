@@ -2,7 +2,7 @@
 title: "Embodied Data Pyramid"
 type: concept
 tags: [robotics, data, embodied-ai]
-sources: [jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]
+sources: [cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]
 last_updated: 2026-07-08
 ---
 
@@ -12,6 +12,8 @@ Embodied data pyramid is [[XieChen]]'s frame for combining data sources in [[Emb
 
 [[jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1]] extends the top and bottom of this pyramid by naming concrete collection shifts: Aloha-style teleoperation, UMI-style body-free data, first-person video, whole-body motion capture, and dexterous-hand datasets. The source's [[EmbodiedRobotDataParadigms]] concept keeps the pyramid dynamic by asking which new data source unlocks which robot capability.
 
+[[cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53]] adds a tactile-data layer through [[YimuTechnology]]. [[EricLiZhiqiang]] says real tactile robot data is valuable but expensive, simulation data should be expanded with [[OpticalTactileSensing]], and large-scale video data can still help pretrain visual priors before touch and action are added.
+
 ## Key Claims
 - Real robot data is most physically accurate but expensive, hard to scale, and therefore too narrow to carry general robotics learning alone.
 - [[RoboticsSimulationEvaluation]] is the scalable middle layer because it can generate repeated tasks, failures, counterfactuals, and evaluation scenarios.
@@ -19,6 +21,8 @@ Embodied data pyramid is [[XieChen]]'s frame for combining data sources in [[Emb
 - The pyramid should be a loop: real-world and human data can be converted into simulation worlds, while simulation outputs must be checked against real-world results.
 - This creates a tension with pure [[RealRobotDataStrategy]]: real data stays necessary, but the source argues it should not dominate the recipe by default.
 - Hardware-specific dexterous-hand data complicates the pyramid because "real robot data" does not transfer cleanly when hand structure, sensors, or drive method change.
+- [[TactileSensing]] creates a special data problem because it is high-frequency and continuous while also being closer to force and deformation ground truth than ordinary visual data.
+- [[TouchNet]] is proposed as a field-level tactile dataset, but the source still places it inside a broader recipe of scarce real data, simulation, and video pretraining.
 
 ## Connections
 - [[DataAsEducation]] — broader metaphor behind the pyramid.
@@ -27,3 +31,4 @@ Embodied data pyramid is [[XieChen]]'s frame for combining data sources in [[Emb
 - [[WorldModels]] and [[VisionLanguageActionModels]] — model routes that need physical-world data and evaluation.
 - [[GuanglunIntelligence]] — company building simulation-centered data infrastructure in the source.
 - [[EmbodiedRobotDataParadigms]], [[DexterousManipulation]], and [[RobotTeleoperationAndRemoteTakeover]] — collection-method updates from the LateTalk source.
+- [[TactileSensing]], [[OpticalTactileSensing]], [[TouchNet]], and [[TactileTransformerEncoder]] — tactile data, sensor route, dataset, and model-interface additions from the What's Next source.
