@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费](sources/137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1.md) — 疯投圈 episode on AI-resistant experience consumption, Shunde food tourism, Zhuroupo, Korean culture-led consumer marketing, Seongsu-dong, K-Beauty, beverage competition in Korea, and separating housing experience from real-estate investment.
 - [Vol.262 去西班牙买足球俱乐部，一场荒诞的商业冒险](sources/vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191.md) — 商业就是这样 episode with Li Xiang on buying Jumilla CF, Chinese-player overseas arbitrage, lower-tier club control risk, contract enforcement, youth-football systems, and stop-loss lessons after a failed football investment.
 - [Roaring trades: oil majors' secret success story](sources/roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674.md) — The Intelligence episode on European oil majors' hidden trading profits, U.S. frontier-model release controls, and concert tours concentrating into long city residencies.
 - [Far Crimea: war comes to Russia's door](sources/far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658.md) — The Intelligence episode on Ukraine's strikes on Crimea and Russia, SpaceX's IPO and index exposure, and Alan Greenspan's Federal Reserve legacy.
@@ -211,6 +212,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Shunde / 顺德](entities/Shunde.md) — Guangdong food destination used to explain documentary-amplified tourism and AI-resistant offline food experience.
+- [Zhuroupo / 猪肉婆](entities/Zhuroupo.md) — Shunde destination restaurant case where local reputation, queues, and founder image make the dining experience hard to standardize.
+- [寻味顺德](entities/XunweiShunde.md) — Food documentary treated as a content lever that amplified Shunde's national food-tourism demand.
+- [South Korea / 韩国](entities/SouthKorea.md) — Middle-power consumer-market case connecting entertainment, beauty, coffee, city districts, and cultural exports.
+- [Gentle Monster](entities/GentleMonster.md) — Korean eyewear brand whose art-installation stores turn retail into a destination and media surface.
+- [Seongsu-dong / 圣水洞](entities/SeongsuDong.md) — Seoul trend district where brands compete for youth-culture positioning and high-signal retail locations.
+- [ANUA](entities/ANUA.md) — Korean beauty brand used as a TikTok-era K-Beauty global-trust example.
+- [MEDICUBE](entities/MEDICUBE.md) — Korean beauty and beauty-device brand used to show medical-aesthetic trust inside K-Beauty.
+- [Gong Cha / 共茶](entities/GongCha.md) — Taiwan-origin milk-tea brand used to compare Korea's tea-drink opportunity with its crowded coffee market.
+- [Manner Coffee](entities/MannerCoffee.md) — Chinese coffee brand used as a cautionary Korea-market entry example.
+- [Sandunban / 三顿半](entities/Sandunban.md) — Chinese boutique instant-coffee brand whose Korea position differs from standard cafe-chain competition.
+- [Hong Kong / 香港](entities/HongKong.md) — Housing and offline-member-event case used to separate lived experience from property investment.
+- [Shenzhen / 深圳](entities/Shenzhen.md) — Housing-supply comparison city where land scarcity differs from Hong Kong and Guangzhou.
+- [Guangzhou / 广州](entities/Guangzhou.md) — Housing-supply comparison city where new supply can pressure secondhand property values.
 - [Li Xiang / 李翔](entities/LiXiang.md) — Football media figure and entrepreneur recounting the failed Jumilla CF acquisition as a business-loop, control, and stop-loss lesson.
 - [Tang Hui / 唐辉](entities/TangHui.md) — Li Xiang's partner in the Jumilla CF project and "西甲欢乐多" football-media context.
 - [Jumilla CF / 胡米利亚足球俱乐部](entities/JumillaCF.md) — Spanish lower-tier club used as the source's case for community-asset economics, control ambiguity, and player-development platform failure.
@@ -1200,6 +1215,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Resistant Experiential Consumption](concepts/AIResistantExperientialConsumption.md) — AI-era consumer thesis that embodied, social, place-based experiences remain harder to replace than digital information.
+- [Korean Culture Led Consumer Marketing](concepts/KoreanCultureLedConsumerMarketing.md) — Pattern where Korean entertainment, celebrities, beauty trust, stores, and districts convert culture into global consumer-brand demand.
+- [K-Beauty Global Trust](concepts/KBeautyGlobalTrust.md) — Beauty-category trust mechanism combining Korean aesthetics, skincare routines, medical-aesthetic associations, social video, and celebrity taste.
+- [Housing Experience Investment Split](concepts/HousingExperienceInvestmentSplit.md) — Real-estate discipline separating a home as lived consumption from property as an illiquid investment asset.
 - [Chinese Player Overseas Arbitrage](concepts/ChinesePlayerOverseasArbitrage.md) — Thesis that European lower-tier experience could raise Chinese players' market value before returning to China's inflated football market.
 - [Football Club As Community Asset](concepts/FootballClubAsCommunityAsset.md) — Lower-tier football club frame where local identity, members, municipal politics, and emotional value weaken ordinary company-style ROI logic.
 - [Football Club Control Risk](concepts/FootballClubControlRisk.md) — Gap between formal football-club titles and actual authority over players, budgets, members, old operators, and local relationships.

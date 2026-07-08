@@ -2,7 +2,7 @@
 title: "疯投圈"
 type: entity
 tags: [podcast, media, business, investing]
-sources: [132-xuegao-jianghu-fengtouquan-1-132-1, 138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, 140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1]
+sources: [132-xuegao-jianghu-fengtouquan-1-132-1, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, 138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, 140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1]
 last_updated: 2026-07-09
 ---
 
@@ -18,8 +18,11 @@ last_updated: 2026-07-09
 
 [[138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1]] adds a sports-consumption and fitness-service episode through [[OnRunning]] and [[SuperMonkey]]. It extends the show's consumer-brand lens into premium DTC footwear, circle-brand marketing, pay-per-class group fitness, and the difference between scaling a product brand and scaling an instructor-led service brand.
 
+[[137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]] adds an AI-era experience-consumption episode. It connects [[Shunde]], [[Zhuroupo]], [[SouthKorea]], [[GentleMonster]], [[SeongsuDong]], [[KBeautyGlobalTrust]], Korean beverage markets, and Hong Kong housing to [[AIResistantExperientialConsumption]] and [[HousingExperienceInvestmentSplit]].
+
 ## Connections
 - [[132-xuegao-jianghu-fengtouquan-1-132-1]] - source episode.
+- [[137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]] - experience-consumption source episode.
 - [[140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1]] - DJI source episode.
 - [[141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1]] - coffee-chain source episode.
 - [[139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1]] - investing-method source episode.
@@ -30,3 +33,4 @@ last_updated: 2026-07-09
 - [[CoffeeChainInstitutionalization]], [[CoffeeChainLocalization]], [[PremiumEverydayBrandTension]], and [[BeverageCategoryConvergence]] - coffee-market concepts added from episode 141.
 - [[PopMart]], [[Pinduoduo]], [[GoodCompanyGoodStock]], [[EarningsGrowthAcceleration]], and [[InvestmentCatalyst]] - investing-method additions from episode 139.
 - [[OnRunning]], [[SuperMonkey]], [[DirectToConsumerBrandControl]], [[PayPerClassFitnessModel]], and [[ServiceBrandStandardization]] - sports-consumption additions from episode 138.
+- [[AIResistantExperientialConsumption]], [[KoreanCultureLedConsumerMarketing]], and [[HousingExperienceInvestmentSplit]] - AI-era experience and housing distinction added from episode 137.

@@ -1567,3 +1567,11 @@ Added source page for a 商业就是这样 episode with Li Xiang on buying into 
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-09] ingest | 137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费
+
+Added source page for a 疯投圈 episode on AI-resistant experience consumption across Shunde food tourism, Zhuroupo, Korea's culture-led consumer marketing, Seongsu-dong, K-Beauty, Korean beverage competition, and Hong Kong/Shenzhen/Guangzhou housing comparisons. Created pages for Shunde, Zhuroupo, 寻味顺德, South Korea, Gentle Monster, Seongsu-dong, ANUA, MEDICUBE, Gong Cha, Manner Coffee, Sandunban, Hong Kong, Shenzhen, Guangzhou, AI Resistant Experiential Consumption, Korean Culture Led Consumer Marketing, K-Beauty Global Trust, and Housing Experience Investment Split; updated overview, index, 疯投圈, Experiential Retail, Restaurant Experience Design, Human Connection Under AI, AI Content Devaluation, Consumer Brand Moat, Beverage Category Convergence, Tourism Traffic Mismatch, Asset Allocation, and Investment Risk Management. No direct contradiction found; the source qualifies the wiki's AI-content and investing branches by shifting scarcity toward embodied experience and by separating housing use value from investment value.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,7 +2,7 @@
 title: "Asset Allocation"
 type: concept
 tags: [investing, portfolio, allocation]
-sources: [e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]
+sources: [e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]
 last_updated: 2026-07-08
 ---
 
@@ -20,6 +20,8 @@ The episode's practical structure is strategic first, tactical second. [[YunLei]
 
 [[e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]] adds the hot-market psychology version through [[MultiStrategyAllocation]]. [[ZhangYizhen]] uses A-shares, Nasdaq exposure, Chinese bonds, and gold as a simple rotation example, but the deeper claim is that allocation buys time and reduces emotional dependence on a single asset market when [[AShareValuationIndicators]] and [[RetailBullMarketPsychology]] show rising heat.
 
+[[137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]] adds the housing-boundary version through [[HousingExperienceInvestmentSplit]]. The episode argues that a lived-in home can be an experience purchase, but an unused or second home should be judged as an asset with liquidity, divisibility, supply, leverage, and carrying-cost constraints.
+
 ## Key Claims
 - Asset allocation should be judged by the whole portfolio's risk-return path, not by whether each individual asset looks attractive in isolation.
 - Expected return, volatility, and [[AssetCorrelation]] are all required inputs because diversification only helps when assets behave differently at the portfolio level.
@@ -30,6 +32,7 @@ The episode's practical structure is strategic first, tactical second. [[YunLei]
 - Bubble hedging is an allocation problem, not only a prediction problem: the investor must choose which risks to keep, reduce, or diversify.
 - E144 adds that broad baskets may harvest rare winners and index-weight effects that cannot be cleanly predicted beforehand.
 - E145 adds that allocation also manages [[DrawdownPsychology]]: lower-correlation assets and separate strategy sleeves can preserve action capacity even if they sacrifice part of a bull-market upside.
+- Housing needs a role definition before allocation analysis: primary-residence experience and investment-property return should not be evaluated with the same story.
 
 ## Connections
 - [[EfficientFrontier]] — framework for judging whether allocation actually improved.
@@ -41,3 +44,4 @@ The episode's practical structure is strategic first, tactical second. [[YunLei]
 - [[AIBubbleHedging]], [[DefensiveDividendAssets]], [[TreasuryDurationRisk]], and [[GoldMonetaryAnchor]] — The Intelligence episode's bubble-hedging allocation set.
 - [[DiversificationAlpha]] and [[PassiveInvesting]] — E144's diversification-as-return-source extension.
 - [[MultiStrategyAllocation]], [[AShareValuationIndicators]], and [[DrawdownPsychology]] — E145's strategy-mix and investor-path extension.
+- [[HousingExperienceInvestmentSplit]], [[HongKong]], [[Shenzhen]], and [[Guangzhou]] — episode 137's real-estate experience-versus-investment boundary.
