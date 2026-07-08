@@ -2,8 +2,8 @@
 title: "Passive Investing"
 type: concept
 tags: [investing, index-funds]
-sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0]
-last_updated: 2026-07-08
+sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]
+last_updated: 2026-07-09
 ---
 
 # Passive Investing
@@ -22,6 +22,8 @@ Passive investing is the episode's main recommendation for ordinary investors wh
 
 [[e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls]] adds the [[FatTailRisk]] rationale through [[MengYan]]. If a small number of companies or trading days account for much of the long-run return, broad index exposure becomes a practical way for ordinary investors to stay attached to unknown future winners without pretending to predict them.
 
+[[far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]] adds the forced-exposure caveat through [[SpaceX]]. If a very large post-IPO company enters major indices, passive funds and pension portfolios may buy it automatically, creating [[IndexFundAutomaticExposure]] even for savers who never made a direct SpaceX valuation decision.
+
 ## Key Claims
 - For many investors, broad index funds may offer a better balance of return, effort, cost, and emotional burden than active trading.
 - Dollar-cost averaging can automate discipline and reduce the temptation to time markets.
@@ -36,12 +38,14 @@ Passive investing is the episode's main recommendation for ordinary investors wh
 - In Hong Kong, ETF access can be useful but does not remove the need to ask whether the index offers durable beta, tradable volatility, or incomplete exposure.
 - E144 adds that index-like exposure can be a mechanical way to stay exposed to winners that were not identifiable in advance.
 - E43 adds that broad passive exposure is a humble response to fat tails: it captures some upside concentration without requiring professional [[TailRiskHedging]].
+- The SpaceX segment adds that passive investing can inherit single-name IPO and valuation risk through benchmark inclusion.
 
 ## Connections
 - [[InvestmentRiskManagement]] — practical reason for favoring broad, automated exposure.
 - [[WarrenBuffett]] — long-term patience comparison point in the episode.
 - [[MarketEfficiency]] — passive investing depends on enough active price discovery around it.
 - [[AIIPOValuation]] — diversified exposure is suggested as an alternative to all-in buying of hot AI IPOs.
+- [[IndexFundAutomaticExposure]] — benchmark-driven exposure caveat added by the SpaceX IPO source.
 - [[SP500]], [[NasdaqComposite]], [[MegaCapConcentrationRisk]], and [[IndexReentryDiscipline]] — EP57's broad-index implementation context.
 - [[InvestmentEdge]], [[CompoundingGrowthFormula]], and [[PositionSizing]] — E153's explanation of why index exposure differs from active edge-seeking.
 - [[AssetAllocation]], [[SixtyFortyPortfolio]], and [[FreeCashFlowIndexing]] — E158's portfolio-construction and factor-indexing extension.

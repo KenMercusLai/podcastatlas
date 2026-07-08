@@ -2,8 +2,8 @@
 title: "SpaceX"
 type: entity
 tags: [company, technology, space, hard-tech]
-sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]
-last_updated: 2026-07-08
+sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]
+last_updated: 2026-07-09
 ---
 
 # SpaceX
@@ -14,9 +14,12 @@ SpaceX appears in [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-
 
 The source also frames SpaceX as an organization and manufacturing model. [[ElonMusk]]'s first-principles pressure, [[HighResponsibilityDensity]], and [[FirstPrinciplesManufacturing]] are presented as mechanisms that let a relatively small, young organization do work that traditional aerospace firms handled with much larger structures. The episode then extends SpaceX into a future platform thesis around [[SpaceBasedAIInfrastructure]], [[XAI]], [[Grok]], and [[SpaceXMafia]], while marking some ecosystem integration claims as speculative.
 
+[[far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]] adds the capital-market shock version. The episode says SpaceX's IPO and follow-on issuance turned the company from a private hard-tech platform into a major demand on public equity and bond markets. It stresses that investors are buying uncertain future businesses, not only current launch capability, and that index inclusion could create [[IndexFundAutomaticExposure]] for ordinary savers.
+
 ## Connections
 - [[OpenAI]] and [[Anthropic]] — other private technology companies discussed in the IPO valuation frame.
 - [[AIIPOValuation]] — concept that separates real technological importance from attractive public-market entry price.
+- [[IndexFundAutomaticExposure]] — risk that benchmark inclusion forces passive and pension portfolios to hold the post-IPO company.
 - [[InvestmentRiskManagement]] — ordinary investors are advised to avoid all-in exposure to any single hot company.
 - [[LouisHong]] and [[ElonMusk]] — insider source and leader in the SpaceX development-history episode.
 - [[Falcon9]], [[DragonSpacecraft]], [[Starlink]], and [[Starship]] — vehicle and platform systems discussed in the source.

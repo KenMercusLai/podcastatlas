@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Far Crimea: war comes to Russia's door](sources/far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658.md) — The Intelligence episode on Ukraine's strikes on Crimea and Russia, SpaceX's IPO and index exposure, and Alan Greenspan's Federal Reserve legacy.
 - [Coming in Andy: Britain's prime minister-in-waiting](sources/coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b.md) — The Intelligence episode on Andy Burnham's Makerfield by-election route toward the Labour leadership, U.S.-Iran economic concessions, and the Obama Presidential Center as presidential memory politics.
 - [Fear-jerker: America's AI backlash](sources/fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd.md) — The Intelligence episode on U.S. AI backlash politics, data-center opposition, Chinese divorce restrictions, and European air conditioning as public-health climate adaptation.
 - [Trailer: Tocqueville Road Trip](sources/trailer-tocqueville-road-trip-6a315920101389aa3d42d134.md) — Economist Podcasts trailer from The Intelligence Acast feed, duplicating the Tocqueville Road Trip setup around Alexis de Tocqueville, Democracy in America, and America as a democratic idea.
@@ -208,6 +209,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Crimea](entities/Crimea.md) — Peninsula framed as both Black Sea military base and symbolic target in Ukraine's war visibility strategy.
+- [Volodymyr Zelensky](entities/VolodymyrZelensky.md) — Ukrainian leader whose escalation warning frames the episode's strikes on Crimea, Moscow, and Russian infrastructure.
+- [Vladimir Putin](entities/VladimirPutin.md) — Russian leader whose Crimea-linked war narrative and exit problem are central to the episode's Russia segment.
+- [Alan Greenspan](entities/AlanGreenspan.md) — Former Federal Reserve chair used to examine central-bank independence, crisis management, and later reputational reassessment.
 - [Obama Presidential Center](entities/ObamaPresidentialCenter.md) — Barack Obama's privately run presidential center on Chicago's South Side, used as a case in presidential museums, public memory, and quasi-imperial aura.
 - [Reform UK](entities/ReformUK.md) — Right-wing UK party whose Makerfield defeat and wider pressure from Labour, Conservatives, and Restore Britain signal a possible weakening of Reform's dominance.
 - [Conservative Party (UK)](entities/ConservativePartyUK.md) — UK party whose Aberdeen South by-election win is used as evidence that Reform UK can be squeezed from the traditional right.
@@ -1180,6 +1185,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [War Visibility Strategy](concepts/WarVisibilityStrategy.md) — Wartime pattern where strikes and disruption make a conflict's costs visible to the adversary's public, elites, and logistics system.
+- [Index Fund Automatic Exposure](concepts/IndexFundAutomaticExposure.md) — Risk pattern where benchmark inclusion forces passive funds and pensions to hold a company regardless of savers' direct valuation judgment.
+- [Central Bank Independence](concepts/CentralBankIndependence.md) — Monetary-governance principle that central-bank policy should resist short-term political pressure while still being judged by later outcomes.
 - [Iran Postwar Economic Relief](concepts/IranPostwarEconomicRelief.md) — Economic package around blockade relief, sanctions relief, asset unfreezing, and a proposed reconstruction fund after the U.S.-Iran memorandum.
 - [Presidential Memorial Culture](concepts/PresidentialMemorialCulture.md) — Presidential museums, libraries, and centers as memory institutions that can preserve civic history while giving presidents quasi-imperial aura.
 - [AI Backlash Politics](concepts/AIBacklashPolitics.md) — Electoral and regulatory politics formed by public anxiety about AI jobs, children, mental health, tech power, and speed of change.

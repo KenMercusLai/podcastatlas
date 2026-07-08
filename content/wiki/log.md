@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-09] ingest | Far Crimea: war comes to Russia's door
+
+Added source page for a The Intelligence episode on Ukraine's strikes against Crimea, Moscow, and Russian oil infrastructure; SpaceX's source-reported IPO, valuation, and passive-index exposure; and Alan Greenspan's Federal Reserve legacy. Created pages for Crimea, Volodymyr Zelensky, Vladimir Putin, Alan Greenspan, War Visibility Strategy, Index Fund Automatic Exposure, and Central Bank Independence; updated Russia, Ukraine, SpaceX, Elon Musk, Federal Reserve, The Intelligence, Economist Podcasts, Asymmetric Infrastructure Attack, AI IPO Valuation, Passive Investing, overview, and index. No direct contradiction found; the source adds a useful tension to the SpaceX branch by separating real hard-tech platform progress from valuation and ordinary-saver exposure risk.
+
 ## [2026-07-09] ingest | Fear-jerker: America's AI backlash
 
 Added source page for a The Intelligence episode on U.S. AI backlash politics, data-center opposition, Chinese divorce restrictions, and European air conditioning as public-health climate adaptation. Created pages for Josh Hawley, AI Backlash Politics, Data Center Backlash, China Divorce Restrictions, Marriage Exit Friction, and Cooling As Public Health; updated The Intelligence, Economist Podcasts, United States, China, European Union, Donald Trump, American Democratic Resilience, AI Commercialization Pressure, AI Compute Continuity, Climate Adaptation, overview, and index. No direct contradiction found; the source adds a useful tension to AI acceleration and infrastructure pages by making public fear, local siting, and legitimacy constraints first-order issues.
@@ -1539,6 +1543,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-09] ingest | Coming in Andy: Britain's prime minister-in-waiting
 
 Added source page for a The Intelligence episode on Andy Burnham's Makerfield by-election route toward challenging Keir Starmer, the U.S.-Iran memorandum as blockade/sanctions/assets/reconstruction-fund relief, and the Obama Presidential Center as a case in presidential memorial culture. Created pages for Obama Presidential Center, Reform UK, Conservative Party (UK), Restore Britain, Iran Postwar Economic Relief, and Presidential Memorial Culture; updated overview, index, The Intelligence, Economist Podcasts, Andy Burnham, Keir Starmer, Labour Party (UK), Wes Streeting, Labour Leadership Crisis, United Kingdom, Iran, U.S.-Iran Nuclear Diplomacy, Strait of Hormuz, Barack Obama, American Democratic Resilience, Historical Memory Contest, Executive Power Precedent, United States, and Donald Trump. No direct contradiction found; the source bridges the earlier Starmer "not toast this week" episode and the later Starmergeddon resignation episode.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-09] lint | Wiki health check
 
