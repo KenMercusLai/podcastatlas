@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-08] ingest | 泡沫的四个必要不充分条件 | 对谈经济学者朱宁教授
+
+Added source page for a 42章经 interview with Zhu Ning on bubble preconditions, behavioral finance, AI valuation risk, information cascades, position sizing, leverage, value investing, and wealth as one part of life. Created pages for Zhu Ning, 42章经, and Bubble Necessary Conditions; updated overview, index, AI Bubble Hedging, AI Equity Valuation Risk, Behavioral Investing Biases, Investment Risk Management, Speculative Bubble Psychology, Position Sizing, Value Investing, Retail Bull Market Psychology, Leverage-Driven Bull Market, AI Investment Research, Warren Buffett, and Charlie Munger. No direct contradiction found; the source qualifies AI-bubble discussions by treating new technology, liquidity, policy support, and inexperienced investors as warning conditions rather than deterministic proof of a crash.
+
 ## [2026-07-08] ingest | E42 孟岩对话韦青：沉默的主角
 
 Added source page for a 无人知晓 episode with Meng Yan and Wei Qing on engineering identity, Microsoft's long cultural and cloud transformation, silent causal work behind visible results, organizational mistake learning, AI-era language precision, algorithmic attention risk, personal agents, tacit knowledge, public AI literacy, body practice, and preserving human flavor under automation. Created pages for Wei Qing, Silent Protagonist, Want Can Should May Framework, Attention Industrialization, Human-Machine Amplification, and AI Literacy Against Worship; updated overview, index, Wuren Zhixiao, Meng Yan, Microsoft, Human Judgment Under AI, Human Agency Under AI, AI Use Pacing, and Language Precision. No direct contradiction found; the source reinforces the wiki's AI agency and judgment thread while shifting emphasis from tool productivity toward human formation, attention, language, and embodied practice.
@@ -1285,6 +1289,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] ingest | The 250-year experiment: America's birthday
 
 Added source page for a The Intelligence special episode on America at 250, democratic resilience, executive-power precedent, representation erosion, immigration backlash cycles, assimilation capacity, historical memory, and American cultural exports. Created pages for United States, Supreme Court, Robert Guest, Daniel Knowles, Rebecca Jackson, American Democratic Resilience, Executive Power Precedent, Historical Memory Contest, Immigration Backlash Cycle, Assimilation Capacity, and American Cultural Exports; updated overview, index, The Intelligence, Donald Trump, and John Fasman. No direct contradiction found; the source qualifies other The Intelligence geopolitical-risk pages by arguing that long-run U.S. institutional and cultural durability can coexist with serious internal democratic and immigration-policy stress.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-08] lint | Wiki health check
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [泡沫的四个必要不充分条件 | 对谈经济学者朱宁教授](sources/paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78.md) — 42章经 interview with Zhu Ning on bubble preconditions, behavioral finance, AI valuation risk, position sizing, and wealth as one part of life.
 - [The 250-year experiment: America's birthday](sources/the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad.md) — The Intelligence special episode on America at 250, democratic resilience, executive-power precedent, voting rights, immigration backlash cycles, assimilation capacity, historical memory, and American cultural exports.
 - [1 人公司，扛 5 个人的活，还要管 50 个 Agents？｜S10E18](sources/1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6.md) — What's Next｜科技早知道 episode with Yu Yi and Cang Shifu on OPC as an AI-enabled launch mode, agent partner-versus-tool philosophies, skill commercialization, trust, acquisition, compliance, and small teams carrying many agents.
 - [171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？](sources/ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1.md) — LateTalk Q2 2026 AI review with Henry Yin on Codex/Claude Code competition, RSI and Auto Research, enterprise-owned models, Chinese open models, Claude Tag, Record and Replay, real-time voice, and MidJourney's medical-imaging turn.
@@ -178,6 +179,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [朱宁 / Zhu Ning](entities/ZhuNing.md) — Economist and behavioral-finance scholar explaining bubble conditions, AI valuation risk, and consequence-first investing discipline.
+- [42章经](entities/42Zhangjing.md) — Podcast/show context for the Zhu Ning interview on bubbles, AI investing, and personal wealth decisions.
 - [United States](entities/UnitedStates.md) — Country and institutional context for the America-at-250 source, connecting democratic resilience, immigration, cultural exports, NATO credibility, U.S.-Iran diplomacy, and Route 66 memory.
 - [Supreme Court](entities/SupremeCourt.md) — U.S. judicial institution used in the America-at-250 source as both democratic guardrail and possible executive-power precedent maker.
 - [Robert Guest](entities/RobertGuest.md) — The Intelligence panelist giving the more optimistic account of American democratic resilience, assimilation, and cultural durability.
@@ -1039,6 +1042,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Bubble Necessary Conditions](concepts/BubbleNecessaryConditions.md) — Zhu Ning's four warning ingredients for bubbles: new technology or concept, loose liquidity, policy support, and inexperienced investors.
 - [American Democratic Resilience](concepts/AmericanDemocraticResilience.md) — Question of whether U.S. institutions, elections, civic culture, historical memory, and civil society can survive polarization and executive pressure.
 - [Executive Power Precedent](concepts/ExecutivePowerPrecedent.md) — Risk that temporary presidential power claims become durable legal tools for later administrations.
 - [Historical Memory Contest](concepts/HistoricalMemoryContest.md) — Struggle over whether slavery, racial terror, and other painful history are confronted or sanitized through schools, museums, and official narrative.

@@ -2,13 +2,15 @@
 title: "Behavioral Investing Biases"
 type: concept
 tags: [investing, psychology, behavior]
-sources: [ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn, ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm, ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]
+sources: [ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn, ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm, ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]
 last_updated: 2026-07-08
 ---
 
 # Behavioral Investing Biases
 
 Behavioral investing biases are the predictable mental shortcuts and emotional reactions that push investors away from disciplined decision-making. [[ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn]] names loss aversion, confirmation bias, herding, and anchoring as common ordinary-investor failure modes, especially when social-media feeds amplify the information the investor already wants to believe. [[ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm]] adds the fraud version: early small wins, teacher authority, peer screenshots, fear of missing out, shame after being cheated, and refusal to read contracts can all make an investor cooperate with the scam. [[ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj]] adds a longer fraud-history version: [[PonziScheme]], [[AdvanceFeeFraud]], [[PennyStockBoilerRoomFraud]], and [[PigButcheringScam]] all exploit the same desire for special access, social belonging, and easy certainty.
+
+[[paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]] adds [[ZhuNing]]'s bubble-cycle version. The episode emphasizes overconfidence, linear extrapolation from recent price moves, and herding after neighbors or social circles appear to make money. It also adds an AI-specific twist: investors may suffer both from model hallucinations and from the illusion that access to AI tools makes them institutionally equivalent to professional investors.
 
 The concept overlaps with [[RetailBullMarketPsychology]] and [[RetailInvestorCrowding]], but it is more individual and process-level. Retail bull-market psychology describes the social pull of fast gains; behavioral investing biases describe why a single investor sells winners too early, averages down from hope, follows a big influencer without understanding the trade, or compares a stock to an old high price after the business context has changed.
 
@@ -30,6 +32,8 @@ The concept overlaps with [[RetailBullMarketPsychology]] and [[RetailInvestorCro
 - Post-hoc explanation can make random or contingent outcomes feel inevitable after the price chart is visible.
 - A trend signal should not become confirmation bias; E144 treats it as an input to a repeatable system, not as proof that a story is true.
 - E145 adds that unrealized gains create their own bias: once an investor mentally owns a high-water mark, normal volatility can feel like a personal loss.
+- Zhu Ning adds overconfidence, recent-trend extrapolation, and herding as the recurring psychological substrate behind [[BubbleNecessaryConditions]].
+- AI tools can reduce information friction while still reinforcing confirmation bias if the investor asks them to rationalize a desired trade.
 
 ## Connections
 - [[InvestmentRiskManagement]] — discipline layer needed to contain bias.
@@ -41,3 +45,4 @@ The concept overlaps with [[RetailBullMarketPsychology]] and [[RetailInvestorCro
 - [[PonziScheme]], [[AdvanceFeeFraud]], [[PennyStockBoilerRoomFraud]], and [[PigButcheringScam]] — EP28's historical and modern fraud mechanisms.
 - [[RandomMarketNarratives]] and [[NoPredictionTrading]] — E144's warning against story-first interpretation of signals.
 - [[AShareValuationIndicators]], [[DrawdownPsychology]], and [[PaperWealthVsCashValue]] — E145's hot-market and unrealized-gain extension.
+- [[ZhuNing]], [[BubbleNecessaryConditions]], [[AIInvestmentResearch]], and [[SpeculativeBubblePsychology]] — 42章经 interview extension around bubble psychology and AI-assisted investor overconfidence.

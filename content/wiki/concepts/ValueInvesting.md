@@ -2,7 +2,7 @@
 title: "Value Investing"
 type: concept
 tags: [investing, valuation, risk]
-sources: [e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]
+sources: [e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]
 last_updated: 2026-07-08
 ---
 
@@ -16,6 +16,8 @@ The episode's practical metaphor is "seeking the integral": value is the sum of 
 
 [[e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls]] adds an asymmetry interpretation through [[XuZhe]]. In that discussion, [[WarrenBuffett]]-style value investing is not opposed to option thinking: insurance float, long-duration liabilities, replacement-cost assets, and durable businesses can create [[AsymmetricPayoff]] when downside is controlled and upside remains open.
 
+[[paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]] adds [[ZhuNing]]'s bubble-era defense of value investing. The source argues that if value investing means buying below a conservatively estimated business value, it has not failed merely because hot markets or AI narratives outperform for a period. The catch is horizon: [[WarrenBuffett]] can look ordinary over a two-year window and extraordinary over decades.
+
 ## Key Claims
 - Value investing starts by asking where the investor's return ultimately comes from: business cash flow, dividends, repurchases, or eventual sale value.
 - It is not identical to low valuation; cheapness can be a symptom of value, a reward for patient capital, or a warning sign of [[ValueTrap]] risk.
@@ -25,6 +27,8 @@ The episode's practical metaphor is "seeking the integral": value is the sum of 
 - Public-market implementation needs [[FundLiabilityMatching]] because clients may not hold long enough to receive the long-term value the manager expects.
 - E145 adds that valuation discipline can justify reducing exposure even while a trend remains strong, which is why value and momentum may need separate strategy sleeves.
 - E43 adds that value investing can be read as an asymmetry strategy when durable assets, float, and replacement cost create favorable downside/upside structure.
+- In a potential bubble, value investing's discipline is to separate real earning power from whether the current price already discounts too much future success.
+- The relevant measurement window matters; short underperformance during narrative markets does not by itself invalidate a long-horizon cash-flow discipline.
 
 ## Connections
 - [[MarginOfSafety]] — main defense against forecast error.
@@ -35,3 +39,4 @@ The episode's practical metaphor is "seeking the integral": value is the sum of 
 - [[AShareValuationIndicators]], [[MultiStrategyAllocation]], and [[DrawdownPsychology]] — E145's hot-market valuation and strategy-mix extension.
 - [[WarrenBuffett]], [[CharlieMunger]], [[SeesCandies]], [[AmericanExpress]], and [[CocaCola]] — existing wiki examples of long-duration business-quality investing.
 - [[AsymmetricPayoff]], [[Antifragility]], and [[InvestmentRiskManagement]] — E43's connection between value investing and option-like downside/upside structure.
+- [[ZhuNing]], [[BubbleNecessaryConditions]], and [[AIEquityValuationRisk]] — 42章经 interview extension around bubbles, AI valuation, and long-horizon discipline.
