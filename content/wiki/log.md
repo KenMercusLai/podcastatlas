@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-08] ingest | E42 孟岩对话韦青：沉默的主角
+
+Added source page for a 无人知晓 episode with Meng Yan and Wei Qing on engineering identity, Microsoft's long cultural and cloud transformation, silent causal work behind visible results, organizational mistake learning, AI-era language precision, algorithmic attention risk, personal agents, tacit knowledge, public AI literacy, body practice, and preserving human flavor under automation. Created pages for Wei Qing, Silent Protagonist, Want Can Should May Framework, Attention Industrialization, Human-Machine Amplification, and AI Literacy Against Worship; updated overview, index, Wuren Zhixiao, Meng Yan, Microsoft, Human Judgment Under AI, Human Agency Under AI, AI Use Pacing, and Language Precision. No direct contradiction found; the source reinforces the wiki's AI agency and judgment thread while shifting emphasis from tool productivity toward human formation, attention, language, and embodied practice.
+
 ## [2026-07-08] ingest | 267.3000块成本，3.5亿次播放，AI短剧怎么在抖音挣钱？
 
 Added source page for a 乱翻书 episode on XiaoGuoGege's Anhui Xiao Mujiang AI short-drama case, covering Fanqie Novel IP adaptation, Doubao script and prompt generation, Seedance-style video generation, editing/reuse of imperfect clips, Douyin/Hongguo publishing, paid-traffic distributor amplification, delayed settlement, and why later works failing review makes the route hard to copy. Created supporting pages for XiaoGuoGege, Anhui Xiao Mujiang, and Short Drama Paid-Traffic Distribution; updated overview, index, AI Short Drama, AI Video Production Workflow, Short Drama Economics, Platformized Drama Production, Hongguo, Fanqie Novel, Douyin, Doubao, Seedance, and ByteDance. No direct contradiction found; the source qualifies the AI short-drama opportunity by showing that a low-cost breakout can depend on rights channels, platform review, paid traffic, and opaque revenue-share rules.
@@ -1256,6 +1260,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] ingest | 171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？
 
 Added source page for a LateTalk Q2 2026 AI review with Henry Yin on Codex/Claude Code competition, GPT-5.6 and Fable 5, Auto Research, recursive self-improvement, enterprise-owned models, GLM/open-model substitution, Claude Tag in Slack, Record and Replay computer-use workflows, real-time voice, and MidJourney's medical-imaging hardware turn. Created supporting pages for Henry Yin, MOE Capital, GPT-5.6, Recursive, Harvey, Applied Compute, Claude Tag, Thinking Machines Lab, Interaction Model, MidJourney, Auto Research, Enterprise Owned Models, and Record and Replay; updated overview, index, LateTalk, OpenAI, Anthropic, Codex, Claude Code, Fable 5, Cursor, Recursive Self-Improvement, ML Coding, Computer Use Agent, World Models, World Action Models, Open Source AI Models, GLM 5.2, Zhipu AI, Voice Interaction, Model Provider Tool Competition, Agent Harness, AI Investment Metrics, AI Commercialization Pressure, and AI Economic Diffusion. No direct contradiction found; the source is recorded as a Q2 timeline update while preserving the unverified Cursor acquisition claim as source-local.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-08] lint | Wiki health check
 

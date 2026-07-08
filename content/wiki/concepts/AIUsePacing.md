@@ -2,7 +2,7 @@
 title: "AI Use Pacing"
 type: concept
 tags: [ai, pacing, productivity, life-design]
-sources: [e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]
+sources: [e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0]
 last_updated: 2026-07-08
 ---
 
@@ -14,6 +14,8 @@ The concept extends [[WorkplacePacing]] into the agent era. The issue is no long
 
 [[dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]] adds a reading and attention version. The source argues that unlimited AI-generated summaries, book structures, and information feeds should not automatically expand consumption. The user still has to decide which books to read with their own neurons, which sources deserve attention, and when an AI shortcut would remove the very experience that made the activity valuable.
 
+[[e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0]] adds [[AttentionIndustrialization]] as the media-system version. The risk is not only that users start too many AI tasks; it is that algorithmic feeds and free AI-like services can industrialize mental food, weaken volition, and train people to accept stimulation they did not consciously choose.
+
 ## Key Claims
 
 - AI can convert anxiety into activity: installing tools, trying models, and consuming tokens may feel like progress even without a clear purpose.
@@ -24,6 +26,7 @@ The concept extends [[WorkplacePacing]] into the agent era. The issue is no long
 - Pacing requires finite-life awareness: using AI well should create room for play, rest, relationships, and choice, not just more pending work.
 - A healthy AI setup separates task launch, autonomous execution, review gates, and shutdown so the human does not become a real-time queue manager.
 - Pacing also applies to knowledge consumption: AI can increase available summaries and frames, but attention should still be curated around the user's own [[XFFXFramework]].
+- Pacing includes protecting attention from industrialized feeds and generated stimulation, not only managing agent work queues.
 
 ## Connections
 
@@ -34,3 +37,4 @@ The concept extends [[WorkplacePacing]] into the agent era. The issue is no long
 - [[WorkplacePacing]] — earlier workplace concept extended into AI-assisted personal productivity.
 - [[HumanJudgmentUnderAI]] — stopping, rejecting, or choosing not to automate can be a judgment act.
 - [[AIAssistedReading]] and [[ReadingAsFrameTraining]] — reading cases where faster processing still needs human pacing.
+- [[AttentionIndustrialization]], [[HumanMachineAmplification]], and [[AILiteracyAgainstWorship]] — E42's attention, amplification, and public-education layer.

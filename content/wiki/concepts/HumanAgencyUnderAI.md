@@ -2,7 +2,7 @@
 title: "Human Agency Under AI"
 type: concept
 tags: [ai, agency, life-design, work]
-sources: [142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty]
+sources: [142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0]
 last_updated: 2026-07-08
 ---
 
@@ -18,6 +18,8 @@ The concept complements [[HumanJudgmentUnderAI]]. Judgment asks whether a result
 
 [[142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz]] adds [[DaiYusen]]'s investor/operator version. He worries that people can outsource information organization and drafting to agents without updating their own thinking, and argues that agency, responsibility, trust, question-asking, and out-of-distribution creation become more important as taste and execution are increasingly assisted by AI.
 
+[[e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0]] adds [[WeiQing]]'s humanistic engineering version. His [[WantCanShouldMayFramework]] makes agency prior to capability: people must decide what they want, what should be done, and what context permits before AI speed turns every possibility into a task. His personal-agent discussion also treats agency as a value-filtering problem rather than a generic productivity problem.
+
 ## Key Claims
 
 - AI makes the user's undefined intention more visible because a powerful assistant still needs a direction.
@@ -32,6 +34,8 @@ The concept complements [[HumanJudgmentUnderAI]]. Judgment asks whether a result
 - A person's frame can remain a source of agency even when AI makes many finished outputs easy to generate.
 - Subjectivity can become an AI-era asset when it is explicit enough for agents to use but still owned, governed, and updated by the person.
 - Delegating cognition to agents can preserve or weaken agency depending on whether the person still practices understanding, question formation, responsibility, and judgment.
+- Agency becomes weaker when high automation lowers volition, even if the toolchain itself becomes more capable.
+- Personal agents should represent the user's values and attention choices, not simply copy platform incentives.
 
 ## Connections
 
@@ -44,3 +48,4 @@ The concept complements [[HumanJudgmentUnderAI]]. Judgment asks whether a result
 - [[XFFXFramework]], [[AIAssistedReading]], and [[PersonalKnowledgeEcology]] — reading, note, and context practices that train the user's own frame.
 - [[SubjectivityAsAIAsset]], [[Elys]], [[CyberAvatars]], and [[ContextFlywheel]] — social-agent case where personal agency becomes context.
 - [[DaiYusen]], [[AgentHarness]], [[AIOrganizationDesign]], and [[HumanJudgmentUnderAI]] — episode 142's thinking-outsourcing, responsibility, and agency boundary.
+- [[WeiQing]], [[WantCanShouldMayFramework]], [[HumanMachineAmplification]], and [[AILiteracyAgainstWorship]] — E42's humanistic engineering and public-literacy branch.
