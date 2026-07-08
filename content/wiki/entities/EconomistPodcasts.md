@@ -2,13 +2,13 @@
 title: "Economist Podcasts"
 type: entity
 tags: [podcast, media]
-sources: [keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, trailer-tocqueville-road-trip-6a315642780d0f7579af216c]
+sources: [keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c]
 last_updated: 2026-07-09
 ---
 
 # Economist Podcasts
 
-Economist Podcasts is the show metadata context for [[trailer-tocqueville-road-trip-6a315642780d0f7579af216c]], which introduces [[TocquevilleRoadTrip]]. In this source, the Economist audio branch is used for a historical-political series rather than a magazine-style news episode.
+Economist Podcasts is the show metadata context for [[trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494]] and [[trailer-tocqueville-road-trip-6a315642780d0f7579af216c]], parallel-feed source pages for the trailer that introduces [[TocquevilleRoadTrip]]. In this source cluster, the Economist audio branch is used for a historical-political series rather than a magazine-style news episode.
 
 [[gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6]] adds another Economist podcast metadata case, this time for a [[TheIntelligence]] episode that moves across [[GulfStabilityRisk]], [[AmericanDemocraticResilience]], and [[PlantAcousticSignaling]].
 
