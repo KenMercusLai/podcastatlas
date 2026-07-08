@@ -1635,3 +1635,11 @@ Ran lint after health passed. Deterministic checks found three orphan pages (`wi
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-09] ingest | No.207 闽南往事：众神人间办事处，涨海声中万国商
+
+Added source page for a 半拿铁 episode on Quanzhou and Minnan maritime history, from Song-Yuan port governance, religious plurality, Pu Shougeng, Zheng Zhilong, Zheng Chenggong, sea bans, Taiwan migration, and Southeast Asia migration to mutual-aid networks, qiaopi, Chen Jiageng, and Jinjiang manufacturing. Created pages for Quanzhou, Pu Shougeng, Zheng Zhilong, Zheng Chenggong, Chen Jiageng, Jinjiang, Minnan Maritime Commercial Culture, Song-Yuan Maritime Trade Center, Haijin and Maritime Smuggling, Overseas Chinese Mutual Aid Networks, Qiaopi Remittance Networks, and Diaspora Capital Manufacturing Clusters; updated overview, index, and Banlatte. No direct contradiction found; the source extends the wiki's manufacturing and distribution synthesis backward into maritime port systems, diaspora trust networks, remittance finance, and regional industrial-cluster formation.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

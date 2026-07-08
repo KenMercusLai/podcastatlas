@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.207 闽南往事：众神人间办事处，涨海声中万国商](sources/no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918.md) — 半拿铁 episode on Quanzhou and Minnan maritime history, from Song-Yuan port institutions, Pu Shougeng, Zheng Zhilong, Zheng Chenggong, Taiwan and Southeast Asia migration to qiaopi, Chen Jiageng, and Jinjiang manufacturing.
 - [发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集](sources/faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0.md) — 乱翻书 episode with Xu Hongliang on red packets, Lite apps, fission, coupons, Spring Festival campaigns, local-life transaction growth, and why AI-era growth needs model quality and ROI discipline.
 - [No.204 互联网视频平台混战：从后舍男生到漫长的季节 | 中国互联网故事21](sources/no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194.md) — 半拿铁 episode on China's online-video history, from VCDs, local players, P2P and Youku/Tudou UGC culture to copyright spending, iQIYI/Tencent Video/Mango TV membership economics, and short-video/short-drama pressure.
 - [No.206 检索、送药、看病：互联网医疗这些年 | 中国互联网故事22](sources/no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500.md) — 半拿铁 episode on China's internet healthcare history, from hospital IT, medical literature search, DXY, Haodf, WeDoctor, Chunyu Doctor, internet hospitals, drug ecommerce, and trust crises to managed-care and medical-AI workflow integration.
@@ -219,6 +220,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Quanzhou / 泉州](entities/Quanzhou.md) — Minnan port city anchoring the episode's religious plurality, world-heritage, Song-Yuan maritime trade, and later diaspora/manufacturing story.
+- [Pu Shougeng / 蒲寿庚](entities/PuShougeng.md) — Quanzhou maritime merchant-official used to discuss foreign merchant power, port survival, and regime-change choices.
+- [Zheng Zhilong / 郑芝龙](entities/ZhengZhilong.md) — Minnan maritime trader, pirate, and official whose rise illustrates sea-ban-era gray trade, armed route control, and state incorporation.
+- [Zheng Chenggong / 郑成功](entities/ZhengChenggong.md) — Anti-Qing maritime leader whose Taiwan campaign is framed as both symbolic recovery and practical rear-base strategy.
+- [Chen Jiageng / 陈嘉庚](entities/ChenJiageng.md) — Minnan overseas Chinese entrepreneur and philanthropist linking Southeast Asia wealth, hometown education, and wartime mobilization.
+- [Jinjiang / 晋江](entities/Jinjiang.md) — Quanzhou-region manufacturing cluster whose shoe, apparel, ceramics, plumbing, building-materials, and food industries are tied to diaspora capital and local division of work.
 - [优酷 / Youku](entities/Youku.md) — Early Chinese web-video platform that won on speed and infrastructure before copyright costs and consolidation led to the Youku-Tudou merger and Alibaba acquisition.
 - [土豆网 / Tudou](entities/Tudou.md) — Early creator-oriented Chinese video platform whose UGC culture and delayed IPO illustrate both creator discovery and copyright-era consolidation pressure.
 - [古永锵 / Gu Yongqiang](entities/GuYongqiang.md) — Youku founder whose product-and-infrastructure route anchors the early web-video competition story.
@@ -1267,6 +1274,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Minnan Maritime Commercial Culture](concepts/MinnanMaritimeCommercialCulture.md) — Long regional pattern tying limited farmland, shipbuilding, port institutions, sea bans, migration, diaspora networks, and hometown manufacturing together.
+- [Song-Yuan Maritime Trade Center](concepts/SongYuanMaritimeTradeCenter.md) — Frame for Quanzhou as a state-recognized international port supported by shibosi governance, foreign communities, ship technology, and official trade rituals.
+- [Haijin and Maritime Smuggling](concepts/HaijinAndMaritimeSmuggling.md) — Pattern where sea bans restrict legal trade without removing demand, pushing merchants, smugglers, pirates, and officials into ambiguous maritime networks.
+- [Overseas Chinese Mutual Aid Networks](concepts/OverseasChineseMutualAidNetworks.md) — Hometown, clan, industry, and temple organizations that provided lodging, jobs, welfare, education, marriage, burial, and trust for Minnan migrants abroad.
+- [Qiaopi Remittance Networks](concepts/QiaopiRemittanceNetworks.md) — Private cross-border letter-and-money systems connecting overseas Chinese workers and merchants with family support, hometown identity, and trust-based finance.
+- [Diaspora Capital Manufacturing Clusters](concepts/DiasporaCapitalManufacturingClusters.md) — Pattern where overseas Chinese ties, returned money, hometown houses, labor, and modular production help seed regional industrial clusters such as Jinjiang.
 - [Chinese Long-Video Platform Economics](concepts/ChineseLongVideoPlatformEconomics.md) — Cost structure of Chinese long-video platforms after competition shifted from playback technology to copyright, self-production, membership, and parent-company financing.
 - [Online Video Copyright Regime](concepts/OnlineVideoCopyrightRegime.md) — Regulatory, legal, and commercial shift that made licensed content and exclusive rights central to Chinese video-platform competition.
 - [Video Membership Model](concepts/VideoMembershipModel.md) — Paid subscription route built around exclusive content, release windows, and user willingness to pay for long-video access.

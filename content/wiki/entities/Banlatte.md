@@ -2,11 +2,13 @@
 title: "半拿铁"
 type: entity
 tags: [podcast, media, business-history]
-sources: [no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194]
+sources: [no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194]
 last_updated: 2026-07-09
 ---
 
 # 半拿铁
+
+[[no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918]] adds Banlatte's Minnan maritime-history branch. The episode uses [[Quanzhou]] to connect religious pluralism, [[SongYuanMaritimeTradeCenter]], [[PuShougeng]], [[HaijinAndMaritimeSmuggling]], [[ZhengZhilong]], [[ZhengChenggong]], Taiwan migration, Southeast Asia migration, [[OverseasChineseMutualAidNetworks]], [[QiaopiRemittanceNetworks]], [[ChenJiageng]], [[Jinjiang]], and [[DiasporaCapitalManufacturingClusters]] into one long business-history arc.
 
 半拿铁 is the podcast/show context for [[no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376]], a China internet history episode that reconstructs the handset layer before mobile internet. In this source, the show links [[MobileInternetPrehistory]] to telecom infrastructure, device brands, operating systems, license policy, domestic supply chains, and shared consumer memory.
 
@@ -20,6 +22,7 @@ last_updated: 2026-07-09
 - The source's "上" structure ends before the later Meizu, Huawei, OPPO, vivo, and Xiaomi smartphone era, so those companies are mostly foreshadowed rather than analyzed.
 - The internet-healthcare episode uses the same business-history style, but its conclusion is more institutional: medical platforms face limits from doctors, hospitals, regulation, insurance payment, and patient trust.
 - The online-video episode uses the same industry-history style, but its main tension is media economics: product speed and UGC culture gave way to [[OnlineVideoCopyrightRegime]], [[VideoMembershipModel]], and [[ChineseLongVideoPlatformEconomics]].
+- The Minnan episode uses the same business-history style outside internet industries, showing how port institutions, sea bans, diaspora networks, and manufacturing clusters form a longer commercial substrate.
 
 ## Connections
 - [[Motorola]], [[Nokia]], and [[Ericsson]] — the old handset/network leaders at the center of the episode.
@@ -28,3 +31,4 @@ last_updated: 2026-07-09
 - [[InternetHealthcare]], [[PharmaceuticalEcommerce]], [[InternetHospital]], and [[HMOManagedCare]] — healthcare-history branch added by episode 206.
 - [[Youku]], [[Tudou]], [[IQIYI]], [[TencentVideo]], and [[MangoTV]] — online-video platform branch added by episode 204.
 - [[UGCToProfessionalCreatorPipeline]], [[OnlineVideoCopyrightRegime]], and [[ChineseLongVideoPlatformEconomics]] — media-history concepts from episode 204.
+- [[Quanzhou]], [[MinnanMaritimeCommercialCulture]], [[OverseasChineseMutualAidNetworks]], [[QiaopiRemittanceNetworks]], and [[DiasporaCapitalManufacturingClusters]] — Minnan maritime and diaspora-history branch added by episode 207.
