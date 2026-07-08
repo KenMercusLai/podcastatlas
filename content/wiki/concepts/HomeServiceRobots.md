@@ -2,8 +2,8 @@
 title: "Home Service Robots"
 type: concept
 tags: [robotics, consumer-hardware, services]
-sources: [144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc]
-last_updated: 2026-07-08
+sources: [144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1]
+last_updated: 2026-07-09
 ---
 
 # Home Service Robots
@@ -16,6 +16,8 @@ In this source, the first home-service wedge is not heavy kitchen work or full d
 
 [[144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b]] adds a security-response route through [[AnkerInnovations]]. [[HouseholdSecurityRobots]] are narrower than general home-service robots: the product starts from cameras and local home-security models, then asks what the household can actually do after an intrusion is detected.
 
+[[166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1]] adds [[PokeRobotics]] and [[XuHuazhe]] as a more explicitly general-intelligence household route. Xu expects home robots to appear sooner than many people think, but says the early product must constrain risk: it should avoid direct body-care tasks such as feeding, baby handling, massage, or turning people over until reliability is higher.
+
 ## Key Claims
 - The product has to be safe and stable enough to stay in a home for weeks or months, not only work in a controlled demo.
 - A wheeled robot may be the right near-term consumer tradeoff because most target apartments are flat and safety matters more than humanoid form.
@@ -23,6 +25,7 @@ In this source, the first home-service wedge is not heavy kitchen work or full d
 - The category needs [[HouseholdRobotDataFlywheel]] loops because real homes expose objects, children, pets, and interaction patterns that labs do not fully reproduce.
 - The [[XPengIron]] route treats household and elder-care demand as part of the long-term reason for humanoid form, while the [[F2HomeRobot]] route treats a wheeled form as the nearer-term consumer tradeoff.
 - The Anker route treats security as a narrower early service wedge: detection, movement, deterrence, and user trust may be more productized than full domestic labor.
+- The Poke Robotics route treats the home as a generalization forcing function for [[PhysicalAGI]], not only as a service market; early value should be measured through [[RobotActiveUseMetrics]], not just units sold.
 
 ## Connections
 - [[F2HomeRobot]], [[WeilaiBuyuan]], and [[ZhangYi]] — source product, company, and founder.
@@ -32,3 +35,4 @@ In this source, the first home-service wedge is not heavy kitchen work or full d
 - [[ProductLedWillingnessToPay]] — users must understand the service value, not only the robot novelty.
 - [[XPengIron]], [[PhysicalAI]], and [[HumanoidRobotCommercialization]] — humanoid household route added by episode 143.
 - [[AnkerInnovations]], [[HouseholdSecurityRobots]], [[TrueSmartHome]], and [[OnDeviceModelHierarchy]] — security-response route added by episode 144.
+- [[PokeRobotics]], [[XuHuazhe]], [[PhysicalAGI]], [[AINativeRobotics]], and [[RobotActiveUseMetrics]] — general household-robot route added by episode 166.

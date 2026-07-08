@@ -2,8 +2,8 @@
 title: "Vision Language Action Models"
 type: concept
 tags: [robotics, embodied-ai, models]
-sources: [cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]
-last_updated: 2026-07-08
+sources: [cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1]
+last_updated: 2026-07-09
 ---
 
 # Vision Language Action Models
@@ -22,6 +22,8 @@ Vision language action models, or VLA models, are robot models discussed in [[na
 
 [[cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53]] adds a tactile extension. [[EricLiZhiqiang]] argues that VLA may need to evolve toward a VTLA-style stack where tactile signals are encoded by [[TactileTransformerEncoder]], aligned with visual features, and used by the robot backbone to reason about force, texture, softness, friction, and slip.
 
+[[166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1]] adds a critique from [[XuHuazhe]]'s [[AINativeRobotics]] route. He does not reject VLA as a useful vocabulary, but argues that a household robot should not be reduced to small model stitching or one-task policies; the action and behavior layer should move toward [[UnifiedRobotModels]] if the goal is [[PhysicalAGI]].
+
 ## Limitation
 [[HuangBiwei]] argues that VLA generalization is constrained because the action side is a continuous space. Demonstration data can cover many examples, but cannot exhaustively cover all physical states, object conditions, and action variations a robot may encounter.
 
@@ -36,3 +38,4 @@ Vision language action models, or VLA models, are robot models discussed in [[na
 - [[XieChen]], [[GuanglunIntelligence]], [[EmbodiedDataPyramid]], and [[RoboticsSimulationEvaluation]] — data and evaluation infrastructure for VLA progress.
 - [[WorldModelVLAFusion]], [[PhysicalIntelligence]], and [[Generalist]] — Q2 2026 examples where VLA becomes harder to separate from world-model and interaction-data routes.
 - [[TactileSensing]], [[TouchNet]], and [[TactileTransformerEncoder]] — touch-modality extension that the What's Next source proposes for VLA-style systems.
+- [[AINativeRobotics]], [[UnifiedRobotModels]], and [[PhysicalAGI]] — Xu Huazhe's critique of narrow task stitching.

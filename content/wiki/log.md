@@ -1603,3 +1603,11 @@ Added source page for a Fuyou Tiandi episode with N Student on vector-model engi
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used the existing `graph/graph.json` snapshot and found no hub stubs, eight fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-09] ingest | 166: 许华哲再次具身创业：不想错过最大的西瓜
+
+Added source page for a LateTalk episode with Xu Huazhe on leaving Xinghaitu, founding Poke Robotics, pursuing Physical AGI through household robots, AI-native robotics, unified robot models, video and robot data strategy, product safety boundaries, and robot active-use metrics. Created pages for Poke Robotics, Physical AGI, AI Native Robotics, Unified Robot Models, and Robot Active Use Metrics; updated overview, index, log, Xu Huazhe, LateTalk, Physical AI, Home Service Robots, Household Robot Data Flywheel, Real Robot Data Strategy, Vision Language Action Models, Embodied AI, Embodied AI Value Chain, World Models, AI Consumer Growth Metrics, and AI Commercialization Pressure. No direct contradiction found; the source creates a productive tension with industrial-first embodied-AI routes by warning that shipment volume, demos, or narrow production scenes can distract from general robot intelligence.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, four fragile bridges, and no isolated communities against the current generated graph. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.

@@ -25,6 +25,7 @@ sources:
   - guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5
   - yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f
   - fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd
+  - 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1
 last_updated: 2026-07-09
 ---
 
@@ -74,6 +75,8 @@ AI commercialization pressure is the tension between technical influence, user a
 
 [[fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]] adds the political-legitimacy version. The episode argues that even if AI companies solve capability, pricing, and infrastructure problems, they may still face [[AIBacklashPolitics]] around jobs, children, mental health, tech-billionaire power, and data-center siting.
 
+[[166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1]] adds [[PokeRobotics]] as the general-robot version. [[XuHuazhe]] says investors, teams, and markets need enough patience to support [[UnifiedRobotModels]] and [[PhysicalAGI]], while the company still has to show intermediate progress and avoid being pulled entirely into short-term industrial scenes, shipment counts, or demo theater.
+
 ## Key Claims
 - Open-source reputation alone may not justify sustained high-cost model training.
 - Commercialization pressure can change release timing, model scope, or product boundaries without necessarily ending open source.
@@ -105,6 +108,8 @@ AI commercialization pressure is the tension between technical influence, user a
 - AI application founders face commercialization pressure when a product story is legible to investors but the buyer does not use the product directly or cannot pay enough for the workflow.
 - AI software commercialization can improve when the founder chooses a smaller product with stronger user love over a larger Agent narrative with weaker usage evidence.
 - AI companies can face commercialization pressure from public legitimacy and local infrastructure opposition, not only from pricing, model quality, or ROI.
+- General robot startups face commercialization pressure because the route to [[PhysicalAGI]] may require long model training, expensive hardware, and patient capital before task-level performance looks consistently better than specialized robots.
+- [[RobotActiveUseMetrics]] can discipline commercialization by asking whether robots remain useful after purchase rather than whether they were produced, sold, or shown once.
 
 ## Connections
 - [[LargeCompanyOpenSourceStrategy]] — strategic context where the pressure appears.
@@ -133,3 +138,4 @@ AI commercialization pressure is the tension between technical influence, user a
 - [[PingCAP]], [[TiDB]], [[OpenSourceInfrastructureTrust]], [[DatabaseCloudServiceCommercialization]], and [[FounderLedSoftwareGlobalization]] — open-source infrastructure and global GTM extension added by the PingCAP source.
 - [[InvokoAI]], [[Mengqi]], [[Clico]], [[VerticalAgentSaaSification]], and [[AIStartupUnitEconomics]] — AI application founder and product-pivot case added by the 42章经 source.
 - [[AIBacklashPolitics]] and [[DataCenterBacklash]] — political and local-infrastructure constraints added by The Intelligence.
+- [[PokeRobotics]], [[PhysicalAGI]], [[UnifiedRobotModels]], and [[RobotActiveUseMetrics]] — general household-robot commercialization route added by episode 166.

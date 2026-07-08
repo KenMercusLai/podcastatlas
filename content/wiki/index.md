@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [166: 许华哲再次具身创业：不想错过最大的西瓜](sources/166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1.md) — LateTalk interview with Xu Huazhe on Poke Robotics, Physical AGI, AI-native robotics, household robots, unified robot models, video/robot data, safety boundaries, and robot active-use metrics.
 - [Episode 17: 向量模型工程师：AI 的隐藏瓶颈与新时代的信息迷宫](sources/xiangliang-moxing-gongchengshi-ai-de-yincang-pingjing-yu-xinshidai-de-xinxi-migong-4b6cf945-d64a-4dd0-95a7-cb8f11963698.md) — Fuyou Tiandi episode with N Student on vector models, RAG, semantic relevance, chunking, reranking, hard negatives, long-context limits, agent search evaluation, and preserving human judgment under AI.
 - [Episode 18: 感官放大世界：和任宁聊观鸟、自然与自由](sources/ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779.md) — Fuyou Tiandi episode with Ren Ning on birdwatching, citizen science, tern conservation, urban ecology, nature writing, AI bird-recognition bias, and freedom through sensory attention.
 - [Trailer: Tocqueville Road Trip](sources/trailer-tocqueville-road-trip-6a315813780d0f7579afb892.md) — Economist Podcasts trailer from the Boss Class Acast feed, duplicating the Tocqueville Road Trip setup around Alexis de Tocqueville, Democracy in America, and America as a democratic idea.
@@ -215,6 +216,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Poke Robotics](entities/PokeRobotics.md) — Xu Huazhe's new robotics startup pursuing household robots as a route toward Physical AGI.
 - [N 同学 / N Student](entities/NStudent.md) — Anonymized vector-model engineer explaining NLP history, RAG infrastructure, relevance definitions, hard negatives, AI coding judgment, and why fluent models still need retrieval systems.
 - [任宁 / Ren Ning](entities/RenNing.md) — Birdwatcher and nature writer using observation, bird lists, urban habitats, conservation projects, and field experience to make nature more legible.
 - [《希望是那长着羽毛的小东西》 / Hope Is the Thing with Feathers](entities/HopeIsTheThingWithFeathersBook.md) — Ren Ning's nature-writing book about bird memory, field notes, sensory pressure, and writing without replacing prose with bird images.
@@ -1224,6 +1226,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Physical AGI](concepts/PhysicalAGI.md) — general physical intelligence route where the robot brain transfers across tasks and scenes rather than optimizing one robot shell or workflow.
+- [AI Native Robotics](concepts/AINativeRobotics.md) — robotics route built around general model capability, data diversity, active agency, and product boundaries rather than traditional task-by-task robotics.
+- [Unified Robot Models](concepts/UnifiedRobotModels.md) — model route where robot action and behavior learning compound across tasks instead of stitching many narrow models together.
+- [Robot Active Use Metrics](concepts/RobotActiveUseMetrics.md) — robotics adoption metric discipline focused on active rate and repeated real-world use rather than shipments or demos.
 - [Vector Model Engineering](concepts/VectorModelEngineering.md) — Practice of training and evaluating embedding, recall, ranking, and retrieval models that remain necessary beneath GPT-style AI systems.
 - [Retrieval-Augmented Generation](concepts/RetrievalAugmentedGeneration.md) — Pattern and enterprise pipeline for grounding language-model answers in retrieved external knowledge.
 - [Semantic Search Relevance](concepts/SemanticSearchRelevance.md) — Task-specific definition of what counts as a useful retrieval match across FAQ, search, clustering, and domain workflows.
