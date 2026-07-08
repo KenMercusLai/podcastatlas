@@ -1139,3 +1139,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | Continental Rift: NATO's Tense Summit
+
+Added source page for a The Intelligence episode on NATO's tense summit, European defense autonomy, Russian hybrid pressure, AI-generated legal filings, vibe lawyering, supervised legal AI, and Route 66 western nostalgia tourism. Created supporting pages for NATO, Anton LaGuardia, Anna Kerr, Garfield AI, Russia, Ukraine, Germany, Lithuania, NATO Alliance Credibility, European Defense Autonomy, Russian Hybrid Pressure, Vibe Lawyering, Legal AI Hallucination, and Human-In-The-Loop Legal AI; updated overview, index, The Intelligence, Donald Trump, Route 66, Route 66 Nostalgia Tourism, John Fasman, and AI Governance And Compliance. No direct contradiction found; the source extends the wiki's The Intelligence, legal-governance, geopolitics, and Route 66 threads.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

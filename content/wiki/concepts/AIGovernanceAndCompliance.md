@@ -2,7 +2,7 @@
 title: "AI Governance And Compliance"
 type: concept
 tags: [ai, compliance, security, governance]
-sources: [finding-product-market-fit-after-3-years-of-failed-ideas, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, eric-ries-incorruptible-by-design-wrgromn5peq]
+sources: [continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, finding-product-market-fit-after-3-years-of-failed-ideas, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, eric-ries-incorruptible-by-design-wrgromn5peq]
 last_updated: 2026-07-08
 ---
 
@@ -18,6 +18,8 @@ AI governance and compliance is the extension of governance, risk, compliance, s
 
 [[eric-ries-incorruptible-by-design-wrgromn5peq]] adds [[AIAlignmentGovernance]] as a company-level version of AI governance. [[EricRies]] argues that organizational values are passed into software and that alignment must include the governance of the humans, boards, investors, and institutions doing the aligning.
 
+[[continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e]] adds the courtroom version. [[AnnaKerr]]'s segment shows that AI governance has to cover legal filings, citation verification, attorney responsibility, sanctions, and access-to-justice tools, separating [[VibeLawyering]] and [[LegalAIHallucination]] from [[HumanInTheLoopLegalAI]].
+
 ## Key Claims
 - Compliance programs must increasingly govern not only people, servers, systems, and software, but also agents and AI-related entities.
 - CISOs care about whether internal AI usage is safe, secure, and governed.
@@ -29,6 +31,7 @@ AI governance and compliance is the extension of governance, risk, compliance, s
 - Frontier-model governance can shift from content safety to geopolitical access control when models are treated as strategic capabilities.
 - Governance has to span generated media, health marketing, and AI security work because each domain combines automation with asymmetric trust and harm.
 - Alignment governance has to include company design, ownership, mission, and accountability, not only model behavior or usage policies.
+- Legal AI governance requires citation verification, professional responsibility, and court-facing review because hallucinated authority can impose real costs on litigants and courts.
 
 ## Connections
 - [[Sprinto]] - company case.
@@ -41,3 +44,4 @@ AI governance and compliance is the extension of governance, risk, compliance, s
 - [[AIExportControls]], [[FrontierModelAccessRestrictions]], and [[AISafetyNarrativeBackfire]] - geopolitical governance frame added by the Keji Luandun export-control episode.
 - [[ProjectGlassfin]], [[AIContentProvenance]], and [[MedicalAIMarketingRisk]] - vulnerability, synthetic-media, and health-marketing governance cases added by Vol. 167.
 - [[AIAlignmentGovernance]], [[Anthropic]], [[LongTermBenefitTrust]], and [[OpenAI]] - institutional alignment frame added by the Long Now Ries talk.
+- [[VibeLawyering]], [[LegalAIHallucination]], [[HumanInTheLoopLegalAI]], and [[GarfieldAI]] - legal-AI governance branch added by The Intelligence.

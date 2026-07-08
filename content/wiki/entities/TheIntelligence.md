@@ -2,13 +2,15 @@
 title: "The Intelligence"
 type: entity
 tags: [podcast, media]
-sources: [the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d, a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]
+sources: [continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d, a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]
 last_updated: 2026-07-08
 ---
 
 # The Intelligence
 
-The Intelligence is the Economist news podcast context for [[the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]], [[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]], [[snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d]], [[a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07]], and [[dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]].
+The Intelligence is the Economist news podcast context for [[continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e]], [[the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]], [[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]], [[snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d]], [[a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07]], and [[dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]].
+
+The NATO-summit source adds another magazine-style sequence: [[AntonLaGuardia]] on [[NATO]], [[NATOAllianceCredibility]], [[EuropeanDefenseAutonomy]], [[RussianHybridPressure]], [[DonaldTrump]], [[Ukraine]], [[Germany]], and [[Lithuania]]; [[AnnaKerr]] on [[VibeLawyering]], [[LegalAIHallucination]], [[HumanInTheLoopLegalAI]], and [[GarfieldAI]]; and [[JohnFasman]] on the western stretch of [[Route66]] and [[Route66NostalgiaTourism]].
 
 The Khamenei-funeral source adds another magazine-style sequence: [[NicholasPalam]] on [[AliKhamenei]], [[MujtabaKhamenei]], [[Iran]], [[PoliticalFuneral]], [[AutocraticSuccession]], and the [[StraitOfHormuz]]; [[MoekaIida]] on [[Japan]], [[JointCustodyReform]], and the [[CleanBreakDivorceModel]]; and [[JohnFasman]] on [[Route66]] and [[Route66NostalgiaTourism]].
 
@@ -36,4 +38,6 @@ The Dhaka source adds a fourth sequence: [[Bangladesh]], [[SheikhHasina]], [[Awa
 - [[DemocraticTransitionElection]] — Bangladesh segment on competitive voting after Hasina's removal and Awami League exclusion.
 - [[AppliedAstrobiology]] — space segment on microbes, bioreactors, and off-Earth habitability.
 - [[AIHiringArmsRace]] and [[CandidateIdentityFraud]] — recruiting segment on AI-generated applications and fake applicant profiles.
-- [[NicholasPalam]], [[MoekaIida]], [[JohnFasman]], [[RosieBloor]], [[JoshRoberts]], [[PiotrZilevsky]], [[SashaNauta]], [[AaronBraun]], [[MarkJohnson]], [[OliverMorton]], and [[ShiraAviono]] — source participants.
+- [[NATOAllianceCredibility]], [[EuropeanDefenseAutonomy]], and [[RussianHybridPressure]] — alliance segment on NATO's public unity and private American-commitment doubts.
+- [[VibeLawyering]], [[LegalAIHallucination]], and [[HumanInTheLoopLegalAI]] — legal AI segment on AI filings, fabricated cases, and supervised legal AI.
+- [[NicholasPalam]], [[MoekaIida]], [[JohnFasman]], [[RosieBloor]], [[JoshRoberts]], [[PiotrZilevsky]], [[SashaNauta]], [[AaronBraun]], [[MarkJohnson]], [[OliverMorton]], [[ShiraAviono]], [[AntonLaGuardia]], and [[AnnaKerr]] — source participants.

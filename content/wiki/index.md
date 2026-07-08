@@ -16,6 +16,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的](sources/137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb.md) — 张小珺Jùn｜商业访谈录 episode with Hong Letong on AI for Math, Axiom, Lean, auto-formalization, theorem proving, AI mathematicians, Putnam, formal verification, and math as code.
 - [135. 和自然选择创始人Tristan聊，Elys、赛博分身、灵魂、Context的获取与流动和AI社交网络](sources/135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty.md) — 张小珺Jùn｜商业访谈录 episode with Tristan on Natural Selection, EVE, Elys, cyber avatars, context flywheels, subjectivity as an AI-era asset, proactive agents, and AI social networks.
 - [140. 对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去](sources/140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h.md) — 张小珺Jùn｜商业访谈录 episode with Yao Shunyu on Anthropic and Gemini model training, coding feedback, long-horizon AI, ML Coding, scaling, Chinese AI products, and why frontier-model work is now organizational rather than heroic.
+- [Continental Rift: NATO's Tense Summit](sources/continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e.md) — The Intelligence episode on NATO alliance credibility, European defense autonomy, Russian hybrid pressure, AI legal hallucinations, vibe lawyering, supervised legal AI, and Route 66 Old West nostalgia tourism.
 - [The Mourning Show: The Politics of Khamenei's Funeral](sources/the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7.md) — The Intelligence episode on Khamenei's funeral as political theater, Iran succession uncertainty, Japan's joint-custody reform, and Route 66 nostalgia tourism.
 - [读书，就是在读一个人的 F](sources/dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1.md) — 面基 episode on AI-assisted reading, the X/F/FX framework, reading as frame training, personal knowledge ecology, AI authorship presence, and using one's own judgment when AI makes outputs abundant.
 - [Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough](sources/catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2.md) — How I Built This episode on Catalina Crunch, dietary constraint as product insight, low-sugar cereal formulation, CPG manufacturing scale-up, DTC shipping economics, Whole Foods retail breakout, packaging, and commodity exposure.
@@ -275,16 +276,24 @@ This file is maintained by the LLM. Updated on every ingest.
 - [General Mills](entities/GeneralMills.md) — Food company mentioned as the Haagen-Dazs parent-company context in the ice-cream episode.
 - [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for city commerce observations and the bee-economics episode on pollination, honey standards, and agricultural markets.
 - [Polymarket](entities/Polymarket.md) — Prediction-market example used by E144 to explain price-as-probability thinking and residual risk.
-- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for Khamenei's funeral, Iran succession uncertainty, Japan custody reform, Route 66, AI-bubble hedging, Erdogan succession, Japan's snap-election mandate, Starmer's Labour crisis, Bangladesh's transition election, and other magazine-style segments.
+- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for NATO alliance stress, Khamenei's funeral, Iran succession uncertainty, Japan custody reform, Route 66, AI-bubble hedging, Erdogan succession, Japan's snap-election mandate, Starmer's Labour crisis, Bangladesh's transition election, and other magazine-style segments.
+- [NATO](entities/NATO.md) — Alliance context for defence spending, Ukraine support, European defence autonomy, Russian hybrid pressure, and American commitment doubts.
+- [Anton LaGuardia](entities/AntonLaGuardia.md) — The Intelligence diplomatic editor explaining NATO's tense summit, European defence autonomy, and alliance credibility risks.
+- [Anna Kerr](entities/AnnaKerr.md) — The Intelligence contributor explaining vibe lawyering, legal AI hallucinations, and supervised legal AI.
+- [Garfield AI](entities/GarfieldAI.md) — Legal AI company used as the source's positive human-in-the-loop legal AI example.
+- [Russia](entities/Russia.md) — Country framed through hybrid pressure, Ukraine-war spillover, and possible future tests of NATO credibility.
+- [Ukraine](entities/Ukraine.md) — War context for NATO support, Russian hybrid pressure, and the operational warning behind European defense autonomy.
+- [Germany](entities/Germany.md) — Country case for permanent brigade deployment to Lithuania and concrete European reassurance.
+- [Lithuania](entities/Lithuania.md) — Baltic security case where German deployment and American force uncertainty make NATO credibility visible.
 - [Ali Khamenei](entities/AliKhamenei.md) — Iranian supreme-leader figure whose funeral is framed by The Intelligence as religious rite, regime display, and succession test.
 - [Mujtaba Khamenei](entities/MujtabaKhamenei.md) — Khamenei son described by the episode as supposed successor whose absence creates command uncertainty.
 - [Iran](entities/Iran.md) — Country context for Khamenei's funeral, regime legitimacy, ceasefire diplomacy, the Strait of Hormuz, and earlier digital-infrastructure war-risk discussion.
 - [Strait of Hormuz](entities/StraitOfHormuz.md) — Shipping chokepoint tied to Iran's ceasefire bargaining and passage-control signaling.
 - [Japan](entities/Japan.md) — Country context for The Intelligence sources on joint-custody reform and Takaichi Sanae's electoral mandate.
-- [Route 66](entities/Route66.md) — American highway treated as a centenary symbol of migration, car culture, decommissioned infrastructure, and nostalgia tourism.
+- [Route 66](entities/Route66.md) — American highway treated as a centenary symbol of migration, car culture, decommissioned infrastructure, Old West performance, and nostalgia tourism.
 - [Nicholas Palam](entities/NicholasPalam.md) — The Intelligence correspondent explaining Khamenei's funeral, Iran's religious-political authority, succession uncertainty, and ceasefire context.
 - [Moeka Iida](entities/MoekaIida.md) — The Intelligence contributor explaining Japan's post-divorce joint-custody reform and changing family norms.
-- [John Fasman](entities/JohnFasman.md) — The Intelligence reporter whose Route 66 road trip grounds the episode's centenary tourism segment.
+- [John Fasman](entities/JohnFasman.md) — The Intelligence reporter whose Route 66 road trip grounds the centenary tourism and western Old West nostalgia segments.
 - [Rosie Bloor](entities/RosieBloor.md) — Host introducing the episode's finance, Turkey politics, and literary obituary segments.
 - [Josh Roberts](entities/JoshRoberts.md) — Capital-markets correspondent explaining AI bubble hedging, hyperscaler capex, and defensive portfolio choices.
 - [Piotr Zilevsky](entities/PiotrZilevsky.md) — Turkey correspondent explaining Erdogan succession dynamics, term-limit workarounds, and party maneuvering.
@@ -1019,6 +1028,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joint Custody Reform](concepts/JointCustodyReform.md) — Family-law shift toward continuing post-divorce parental responsibility, grounded by Japan's reform.
 - [Clean Break Divorce Model](concepts/CleanBreakDivorceModel.md) — Divorce norm where one parent becomes effectively absent from the child's life after household separation.
 - [Route 66 Nostalgia Tourism](concepts/Route66NostalgiaTourism.md) — Pattern where a decommissioned highway survives as a chosen memory route and roadside tourism economy.
+- [NATO Alliance Credibility](concepts/NATOAllianceCredibility.md) — Deterrence trust problem where alliance response confidence matters as much as spending targets or treaty language.
+- [European Defense Autonomy](concepts/EuropeanDefenseAutonomy.md) — Question of whether European NATO members can defend themselves without American command, intelligence, satellites, and strike integration.
+- [Russian Hybrid Pressure](concepts/RussianHybridPressure.md) — Grey-zone pressure through drones, airspace violations, sabotage, disinformation, and ambiguous tests below open war.
+- [Vibe Lawyering](concepts/VibeLawyering.md) — AI-assisted legal work that produces confident filings without reliable legal grounding or judgment.
+- [Legal AI Hallucination](concepts/LegalAIHallucination.md) — Fabricated cases, citations, or legal authority generated by AI in court-facing work.
+- [Human-In-The-Loop Legal AI](concepts/HumanInTheLoopLegalAI.md) — Legal AI pattern where human professionals remain responsible for verification, judgment, and advocacy.
 - [Literary Agent Judgment](concepts/LiteraryAgentJudgment.md) — Taste and persistence needed to represent difficult writing before publishers or readers recognize its value.
 - [Recursive Self-Improvement](concepts/RecursiveSelfImprovement.md) — AI self-improvement loop where models help create tasks, data, code, training recipes, verification, and subsequent iterations.
 - [Discovery Model](concepts/DiscoveryModel.md) — AI system aimed at proposing and validating new scientific hypotheses rather than only generating fluent answers.
