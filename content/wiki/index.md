@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The 250-year experiment: America's birthday](sources/the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad.md) — The Intelligence special episode on America at 250, democratic resilience, executive-power precedent, voting rights, immigration backlash cycles, assimilation capacity, historical memory, and American cultural exports.
 - [1 人公司，扛 5 个人的活，还要管 50 个 Agents？｜S10E18](sources/1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6.md) — What's Next｜科技早知道 episode with Yu Yi and Cang Shifu on OPC as an AI-enabled launch mode, agent partner-versus-tool philosophies, skill commercialization, trust, acquisition, compliance, and small teams carrying many agents.
 - [171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？](sources/ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1.md) — LateTalk Q2 2026 AI review with Henry Yin on Codex/Claude Code competition, RSI and Auto Research, enterprise-owned models, Chinese open models, Claude Tag, Record and Replay, real-time voice, and MidJourney's medical-imaging turn.
 - [170: 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人](sources/jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1.md) — LateTalk episode with Chen Zhe Peter on Q2 2026 embodied AI, humanoid marathon performance, Figure logistics sorting, dexterous hands, Cosmos 3, Pi 0.7, Generalist Gen 1, world-model/VLA convergence, and robot commercialization.
@@ -177,6 +178,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [United States](entities/UnitedStates.md) — Country and institutional context for the America-at-250 source, connecting democratic resilience, immigration, cultural exports, NATO credibility, U.S.-Iran diplomacy, and Route 66 memory.
+- [Supreme Court](entities/SupremeCourt.md) — U.S. judicial institution used in the America-at-250 source as both democratic guardrail and possible executive-power precedent maker.
+- [Robert Guest](entities/RobertGuest.md) — The Intelligence panelist giving the more optimistic account of American democratic resilience, assimilation, and cultural durability.
+- [Daniel Knowles](entities/DanielKnowles.md) — The Intelligence panelist warning that Supreme Court behavior and executive-power disputes show weakening U.S. constitutional guardrails.
+- [Rebecca Jackson](entities/RebeccaJackson.md) — The Intelligence panelist emphasizing representation erosion and historical memory conflicts in the America-at-250 episode.
 - [What's Next｜科技早知道](entities/WhatsNextKejiZaozhidao.md) — Podcast/show context for S10E18's AWS Summit discussion on OPC, agents, solo founders, and AI-augmented small teams.
 - [Yu Yi](entities/YuYi.md) — AI-first practitioner in S10E18 framing agents as partners while keeping red lines around money, deletion, protocol changes, and reputation.
 - [Amazon Web Services](entities/AmazonWebServices.md) — AWS cloud and startup-support context for the From Idea to Frontier OPC accelerator discussed in S10E18.
@@ -415,7 +421,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [General Mills](entities/GeneralMills.md) — Food company mentioned as the Haagen-Dazs parent-company context in the ice-cream episode.
 - [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for city commerce observations and the bee-economics episode on pollination, honey standards, and agricultural markets.
 - [Polymarket](entities/Polymarket.md) — Prediction-market example used by E144 to explain price-as-probability thinking and residual risk.
-- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for U.S.-Iran deal fragility, El Nino climate risk, Japanese imperial succession, NATO alliance stress, Khamenei's funeral, Japan custody reform, Route 66, and other magazine-style segments.
+- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for America at 250, U.S.-Iran deal fragility, El Nino climate risk, Japanese imperial succession, NATO alliance stress, Khamenei's funeral, Japan custody reform, Route 66, and other magazine-style segments.
 - [NATO](entities/NATO.md) — Alliance context for defence spending, Ukraine support, European defence autonomy, Russian hybrid pressure, and American commitment doubts.
 - [Anton LaGuardia](entities/AntonLaGuardia.md) — The Intelligence diplomatic editor explaining NATO's tense summit, European defence autonomy, and alliance credibility risks.
 - [Anna Kerr](entities/AnnaKerr.md) — The Intelligence contributor explaining vibe lawyering, legal AI hallucinations, and supervised legal AI.
@@ -432,7 +438,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Route 66](entities/Route66.md) — American highway treated as a centenary symbol of migration, car culture, decommissioned infrastructure, Old West performance, and nostalgia tourism.
 - [Nicholas Palam](entities/NicholasPalam.md) — The Intelligence correspondent explaining Khamenei's funeral, Iran's religious-political authority, succession uncertainty, and ceasefire context.
 - [Moeka Iida](entities/MoekaIida.md) — The Intelligence contributor explaining Japan's post-divorce joint-custody reform and changing family norms.
-- [John Fasman](entities/JohnFasman.md) — The Intelligence reporter whose Route 66 road trip grounds the centenary tourism and western Old West nostalgia segments.
+- [John Fasman](entities/JohnFasman.md) — The Intelligence reporter whose Route 66 road trip grounds nostalgia tourism and whose America-at-250 dispatch frames American cultural exports.
 - [Rosie Bloor](entities/RosieBloor.md) — Host introducing the episode's finance, Turkey politics, and literary obituary segments.
 - [Josh Roberts](entities/JoshRoberts.md) — Capital-markets correspondent explaining AI bubble hedging, hyperscaler capex, and defensive portfolio choices.
 - [Piotr Zilevsky](entities/PiotrZilevsky.md) — Turkey correspondent explaining Erdogan succession dynamics, term-limit workarounds, and party maneuvering.
@@ -796,7 +802,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [DeepSeek](entities/DeepSeek.md) — Chinese open-source model effort cited through Qwen comparison, pricing substitution, market repricing, cost-control, export-control context, and Luo Fuli's earlier background.
 - [Deerflow](entities/Deerflow.md) — Open-source deep-research and desktop-workflow project discussed through AI coding, Chinese models, community governance, and multimodal work.
 - [Devin](entities/Devin.md) — Cognition coding-agent product discussed through the Windsurf acquisition context.
-- [Donald Trump](entities/DonaldTrump.md) — U.S. political figure used as a market-policy variable, political-influence monetization case, NATO alliance shock, Apple counterparty, and U.S.-Israel diplomacy variable.
+- [Donald Trump](entities/DonaldTrump.md) — U.S. political figure used as a market-policy variable, political-influence monetization case, NATO alliance shock, Apple counterparty, U.S.-Israel diplomacy variable, and executive-power precedent test.
 - [Doubao](entities/Doubao.md) — ByteDance AI assistant and model context used for Chinese consumer AI subscriptions, voice fit, and Doubao Seed's AI-for-math signal.
 - [EOS Worldwide](entities/EOSWorldwide.md) — Methodology and coaching organization behind the EOS ecosystem that shaped Ninety's early product and channel.
 - [EarthKit](entities/EarthKit.md) — Jie Dechen's multimodal project for inferring photo locations, mentioned as background before Paperboy.
@@ -1033,6 +1039,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [American Democratic Resilience](concepts/AmericanDemocraticResilience.md) — Question of whether U.S. institutions, elections, civic culture, historical memory, and civil society can survive polarization and executive pressure.
+- [Executive Power Precedent](concepts/ExecutivePowerPrecedent.md) — Risk that temporary presidential power claims become durable legal tools for later administrations.
+- [Historical Memory Contest](concepts/HistoricalMemoryContest.md) — Struggle over whether slavery, racial terror, and other painful history are confronted or sanitized through schools, museums, and official narrative.
+- [Immigration Backlash Cycle](concepts/ImmigrationBacklashCycle.md) — Recurring U.S. immigration pattern of openness, anxiety, restriction, and later reopening.
+- [Assimilation Capacity](concepts/AssimilationCapacity.md) — Society's ability to integrate newcomers through work, culture, community, and national belonging.
+- [American Cultural Exports](concepts/AmericanCulturalExports.md) — U.S. global influence through culture shaped by absorption of outside influences, marketing, media distribution, and popular forms.
 - [Auto Research](concepts/AutoResearch.md) — AI research-automation loop where models read papers, form hypotheses, write code, run experiments, and analyze results before full RSI.
 - [Enterprise Owned Models](concepts/EnterpriseOwnedModels.md) — Enterprise route of owning or post-training domain models when data, benchmarks, cost, or access constraints make frontier-only use unattractive.
 - [Record and Replay](concepts/RecordAndReplay.md) — Computer-use pattern where human GUI workflows are recorded into repeatable agent skills.

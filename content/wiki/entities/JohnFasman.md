@@ -2,7 +2,7 @@
 title: "John Fasman"
 type: entity
 tags: [person, journalism, travel]
-sources: [continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]
+sources: [the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]
 last_updated: 2026-07-08
 ---
 
@@ -14,7 +14,10 @@ The source uses his road-trip reporting to turn a travel feature into a cultural
 
 [[continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e]] continues his Route 66 reporting westward. Fasman uses Midpoint Cafe, Seligman, Oatman, motorcycles, desert roads, staged Wild West scenes, and California migration history to show how the route sells freedom, performance, and American mobility myths to domestic and international travellers.
 
+[[the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad]] shifts Fasman from road-trip Americana to the wider question of [[AmericanCulturalExports]]. His dispatch argues that American culture became globally dominant because the country absorbs outside influences unusually well and is unusually effective at marketing the resulting forms.
+
 ## Connections
 - [[Route66]] - main subject of his segment.
 - [[Route66NostalgiaTourism]] - concept his reporting grounds.
+- [[AmericanCulturalExports]] - America-at-250 cultural-power segment.
 - [[TheIntelligence]] - podcast context.

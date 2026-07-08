@@ -801,6 +801,7 @@ Added source page for a How I Built This Advice Line episode with Ronnen Harary 
 Ran lint. See lint-report.md for details.
 
 
+
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -1276,6 +1277,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] ingest | 1 人公司，扛 5 个人的活，还要管 50 个 Agents？｜S10E18
 
 Added source page for a What's Next｜科技早知道 episode with Yu Yi and Cang Shifu on OPC as an AI-enabled launch mode, agent partner-versus-tool philosophies, skill commercialization, trust, acquisition, compliance, and small teams carrying many agents. Created pages for What's Next｜科技早知道, Yu Yi, Amazon Web Services, and From Idea to Frontier; updated overview, index, Cang Shifu, Code Pilot, Amazon, One-Person Company, Human-Agent Collaboration, AI Use Pacing, Agent Permission Boundaries, AI Skills, Digital Employees, Building Public, Trust As Business Asset, Distribution Led Product Building, AI Commercialization Pressure, and Human Judgment Under AI. No direct contradiction found; the source is more optimistic about solo starts than the earlier Keji Luandun OPC episode, but it reinforces the same boundary that customer acquisition, trust, compliance, finance, and human review remain binding constraints.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | The 250-year experiment: America's birthday
+
+Added source page for a The Intelligence special episode on America at 250, democratic resilience, executive-power precedent, representation erosion, immigration backlash cycles, assimilation capacity, historical memory, and American cultural exports. Created pages for United States, Supreme Court, Robert Guest, Daniel Knowles, Rebecca Jackson, American Democratic Resilience, Executive Power Precedent, Historical Memory Contest, Immigration Backlash Cycle, Assimilation Capacity, and American Cultural Exports; updated overview, index, The Intelligence, Donald Trump, and John Fasman. No direct contradiction found; the source qualifies other The Intelligence geopolitical-risk pages by arguing that long-run U.S. institutional and cultural durability can coexist with serious internal democratic and immigration-policy stress.
 
 ## [2026-07-08] lint | Wiki health check
 

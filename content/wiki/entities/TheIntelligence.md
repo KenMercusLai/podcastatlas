@@ -2,13 +2,15 @@
 title: "The Intelligence"
 type: entity
 tags: [podcast, media]
-sources: [missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d, a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]
+sources: [the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d, a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]
 last_updated: 2026-07-08
 ---
 
 # The Intelligence
 
-The Intelligence is the Economist news podcast context for [[missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3]], [[continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e]], [[the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]], [[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]], [[snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d]], [[a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07]], and [[dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]].
+The Intelligence is the Economist news podcast context for [[the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad]], [[missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3]], [[continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e]], [[the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]], [[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]], [[snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d]], [[a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07]], and [[dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]].
+
+The America-at-250 source adds a special-episode sequence: [[RobertGuest]], [[DanielKnowles]], and [[RebeccaJackson]] debate [[AmericanDemocraticResilience]], the [[SupremeCourt]], [[DonaldTrump]], [[ExecutivePowerPrecedent]], and [[HistoricalMemoryContest]]; an immigration dispatch frames [[ImmigrationBacklashCycle]] and [[AssimilationCapacity]]; and [[JohnFasman]] explains [[AmericanCulturalExports]] as a blend of absorption, marketing, and global platform circulation.
 
 The Missing Peace source adds another magazine-style sequence: [[Israel]], [[Hezbollah]], [[Lebanon]], [[Iran]], the [[StraitOfHormuz]], [[USIranNuclearDiplomacy]], and [[ProxyConflictSpoilerRisk]] in the Middle East segment; [[ElNino]], [[ElNinoClimateRisk]], and [[ClimateAdaptation]] in the climate segment; and [[PrincessAiko]], [[EmperorNaruhito]], [[PrinceHisahito]], [[JapaneseImperialFamily]], and [[JapaneseImperialSuccession]] in the Japan segment.
 
@@ -45,4 +47,7 @@ The Dhaka source adds a fourth sequence: [[Bangladesh]], [[SheikhHasina]], [[Awa
 - [[USIranNuclearDiplomacy]] and [[ProxyConflictSpoilerRisk]] — Middle East segment on how Israel-Hezbollah fighting in Lebanon can imperil a wider Iran deal.
 - [[ElNinoClimateRisk]] and [[ClimateAdaptation]] — climate segment on a potentially strong El Nino under global-warming conditions.
 - [[JapaneseImperialSuccession]] — Japan segment on Aiko, male-line inheritance, public opinion, and conservative resistance.
+- [[AmericanDemocraticResilience]], [[ExecutivePowerPrecedent]], and [[HistoricalMemoryContest]] — America-at-250 segment on democratic guardrails, presidential power, and national memory.
+- [[ImmigrationBacklashCycle]], [[AssimilationCapacity]], and [[AmericanCulturalExports]] — America-at-250 segment on immigration history, belonging, and cultural power.
 - [[NicholasPalam]], [[MoekaIida]], [[JohnFasman]], [[RosieBloor]], [[JoshRoberts]], [[PiotrZilevsky]], [[SashaNauta]], [[AaronBraun]], [[MarkJohnson]], [[OliverMorton]], [[ShiraAviono]], [[AntonLaGuardia]], and [[AnnaKerr]] — source participants.
+- [[RobertGuest]], [[DanielKnowles]], and [[RebeccaJackson]] — America-at-250 panelists.
