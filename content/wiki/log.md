@@ -1147,3 +1147,15 @@ Added source page for a The Intelligence episode on NATO's tense summit, Europea
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | 把身体数据存起来，可能是普通人最划算的 AI 投资
+
+Added source page for a Keji Luandun episode with Jiang Xun on personal health data, AI health management, continuous glucose monitoring, doctor-in-the-loop medical boundaries, and AI-era education strategy. Created pages for Jiang Xun, The Fifth Dimension, Personal Health Data, AI Health Management, Continuous Glucose Monitoring, and Distribution-Out Personal Strategy; updated overview, index, Keji Luandun, Data Portability And Sustainable Tools, Medical AI Marketing Risk, College Major Choice, Learning How To Learn, and Human Judgment Under AI. No direct contradiction found; the source reinforces medical-AI caution while adding a constructive health-management route based on long-term user-owned data.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-08] graph | Knowledge graph rebuilt
+
+1554 nodes, 14743 edges (14743 extracted, 0 inferred).

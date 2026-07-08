@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [把身体数据存起来，可能是普通人最划算的 AI 投资](sources/ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1.md) — Keji Luandun episode with Jiang Xun on personal health data, AI health management, continuous glucose monitoring, doctor-in-the-loop boundaries, and AI-era education/personal differentiation.
 - [136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS](sources/136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v.md) — 张小珺Jùn｜商业访谈录 episode on coding as AGI's second act, Anthropic/OpenAI/Google/Meta/xAI competition, model-as-operating-system strategy, token usage metrics, harness engineering, and white-collar labor repricing.
 - [142. 雨森的创投观察第2集：Harness、下一个字节、2026大机会和Stanley Druckenmiller](sources/142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz.md) — 张小珺Jùn｜商业访谈录 episode with Dai Yusen on AI investing, Claude Code/Codex competition, harness value, terminal AI returns, agent marketplaces, AI-native organization design, world models, and why the next major AI company may not copy ByteDance.
 - [144. 对杨萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式](sources/144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b.md) — 张小珺Jùn｜商业访谈录 episode with Yang Meng on Anker's move from Amazon charging accessories to a third-type consumer-electronics company, edge-side models, in-memory chips, true smart home, security robots, product method, creator culture, and enterprise AI agents.
@@ -161,6 +162,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Jiang Xun / 江迅](entities/JiangXun.md) — Data, AI, and healthcare practitioner arguing for long-term personal health data and doctor-supervised AI health management.
+- [The Fifth Dimension / 第五维度](entities/FifthDimension.md) — Jiang Xun book framed as an AI-era survival guide and concept map for students and parents.
 - [Yang Meng / 杨萌](entities/YangMeng.md) — Anker Innovations founder and CEO discussing consumer-electronics strategy, edge AI, creator culture, third-type company governance, and AI-era organization design.
 - [Anker Innovations / 安克创新](entities/AnkerInnovations.md) — Consumer-electronics company moving from Amazon-channel charging accessories toward multi-category deep technology, edge-side AI, smart home, security robots, and enterprise AI agents.
 - [Zhao Dongping / 赵东平](entities/ZhaoDongping.md) — Anker cofounder presented as the global-sales complement to Yang Meng's product and abstraction strengths.
@@ -894,6 +897,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Personal Health Data](concepts/PersonalHealthData.md) — Longitudinal health records, reports, wearable signals, and context treated as a durable AI-era personal asset.
+- [AI Health Management](concepts/AIHealthManagement.md) — Doctor-supervised use of AI to read long-term personal data, flag trends, and support prevention without replacing diagnosis or treatment.
+- [Continuous Glucose Monitoring](concepts/ContinuousGlucoseMonitoring.md) — CGM device/data category used to read glucose curves and risk trends rather than isolated diagnostic points.
+- [Distribution-Out Personal Strategy](concepts/DistributionOutPersonalStrategy.md) — AI-era education and career strategy of building distinctive capability outside standardized statistical-center tasks.
 - [Model As Operating System](concepts/ModelAsOperatingSystem.md) — Thesis that frontier models may become platform infrastructure for agents, applications, work, research, and ecosystem control.
 - [AGI Three Acts](concepts/AGIThreeActs.md) — Route map from chatbots to coding agents to automated AI researchers, treating coding as the second act of AGI.
 - [Consumer Electronics Lifecycle](concepts/ConsumerElectronicsLifecycle.md) — Fast birth/death pattern in consumer electronics and the organizational answer of repeated category renewal.
