@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-09] ingest | No.203 "不死鸟"兰世立
+
+Added source page for a 半拿铁 episode on Lan Shili, East Star Group, East Star Airlines, Chinese private-airline opening, aircraft finance leasing, local-government rescue, litigation, acquittal, and later capital-market relaunch attempts. Created pages for Lan Shili, East Star Airlines, East Star Group, Wuhan, Hubei, Yuan Shanla, Rongzhong Group, Xie Xiaoqing, Air China, China National Aviation Holding, GECAS, Civil Aviation Administration of China, Spring Airlines, Wang Zhenghua, Maiquer Group, Thai Orient Airlines, Xiu Life, Wuhan Erchang Soda, Chinese Private Airline Opening, Aviation Finance Leasing, Leveraged Aviation Expansion, Private Airline Failure Modes, Cross-Project Cash Transfer, Local Government Enterprise Rescue, Founder Narrative Reliability, Grassroots Private Entrepreneurship, and Capital Market Shell Story; updated Banlatte, China, overview, and index. No direct contradiction found; the source qualifies founder-hero narratives by separating self-account, media reporting, court outcomes, official notices, and counterparty claims while extending the wiki's governance and business-history branches into Chinese private aviation.
+
 ## [2026-07-09] ingest | 发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集
 
 Added source page for a 乱翻书 ByteDance-series episode on红包,极速版,裂变,发券, Spring Festival campaigns, local-life coupons, and AI-era growth. Created pages for QuToutiao, Toutiao Lite, Kuaishou Lite, Douyin Lite, Doushenshen, Lite App Growth, Fission Growth, Coupon-Led Transaction Growth, Spring Festival Growth Campaign, and Growth ROI Layers. Updated ByteDance, Douyin, Luanfanshu, Kuaishou, Pinduoduo, Meituan, Alibaba, Doubao, Jinri Toutiao, Zhang Yiming, Taobao, WeChat, Red Packet Growth, ByteDance Growth System, Growth Risk Control, AI Consumer Growth Metrics, overview, and index. No direct contradiction found; the source extends episode 7's growth-system branch by breaking红包 into payment, Lite-app, fission, coupon, event, and AI-retention mechanisms.
@@ -1639,6 +1643,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-09] ingest | No.207 闽南往事：众神人间办事处，涨海声中万国商
 
 Added source page for a 半拿铁 episode on Quanzhou and Minnan maritime history, from Song-Yuan port governance, religious plurality, Pu Shougeng, Zheng Zhilong, Zheng Chenggong, sea bans, Taiwan migration, and Southeast Asia migration to mutual-aid networks, qiaopi, Chen Jiageng, and Jinjiang manufacturing. Created pages for Quanzhou, Pu Shougeng, Zheng Zhilong, Zheng Chenggong, Chen Jiageng, Jinjiang, Minnan Maritime Commercial Culture, Song-Yuan Maritime Trade Center, Haijin and Maritime Smuggling, Overseas Chinese Mutual Aid Networks, Qiaopi Remittance Networks, and Diaspora Capital Manufacturing Clusters; updated overview, index, and Banlatte. No direct contradiction found; the source extends the wiki's manufacturing and distribution synthesis backward into maritime port systems, diaspora trust networks, remittance finance, and regional industrial-cluster formation.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-09] lint | Wiki health check
 

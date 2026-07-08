@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.203 "不死鸟"兰世立](sources/no-203-businiao-lanshili-979295393.md) — 半拿铁 episode on Lan Shili, East Star Group, East Star Airlines, private-airline opening, aircraft leasing, local-government rescue, litigation, acquittal, and later capital-market relaunch attempts.
 - [No.207 闽南往事：众神人间办事处，涨海声中万国商](sources/no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918.md) — 半拿铁 episode on Quanzhou and Minnan maritime history, from Song-Yuan port institutions, Pu Shougeng, Zheng Zhilong, Zheng Chenggong, Taiwan and Southeast Asia migration to qiaopi, Chen Jiageng, and Jinjiang manufacturing.
 - [发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集](sources/faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0.md) — 乱翻书 episode with Xu Hongliang on red packets, Lite apps, fission, coupons, Spring Festival campaigns, local-life transaction growth, and why AI-era growth needs model quality and ROI discipline.
 - [No.204 互联网视频平台混战：从后舍男生到漫长的季节 | 中国互联网故事21](sources/no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194.md) — 半拿铁 episode on China's online-video history, from VCDs, local players, P2P and Youku/Tudou UGC culture to copyright spending, iQIYI/Tencent Video/Mango TV membership economics, and short-video/short-drama pressure.
@@ -220,6 +221,24 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Lan Shili / 兰世立](entities/LanShili.md) — Hubei entrepreneur whose East Star businesses, airline failure, litigation, acquittal, and later relaunch attempts anchor the episode.
+- [East Star Airlines / 东星航空](entities/EastStarAirlines.md) — Early Chinese private airline founded by Lan Shili, expanded through aircraft leasing, and grounded in 2009 before bankruptcy.
+- [East Star Group / 东星集团](entities/EastStarGroup.md) — Lan Shili's multi-business group across computers, restaurants, real estate, tourism, ticketing, and aviation.
+- [Wuhan / 武汉](entities/Wuhan.md) — Lan Shili's business base and the local-government setting for East Star's approval, crisis, and later local-brand projects.
+- [Hubei / 湖北](entities/Hubei.md) — Provincial context for East Star's private-airline approval and Lan Shili's "Hubei richest person" peak.
+- [Yuan Shanla / 袁善辣](entities/YuanShanla.md) — Wuhan official tied to East Star's approval and restructuring story, with later allegations treated cautiously by the source.
+- [Rongzhong Group / 荣众集团](entities/RongzhongGroup.md) — Financing and real-estate dispute counterparty in Lan Shili's post-prison legal battles.
+- [Xie Xiaoqing / 谢晓清](entities/XieXiaoqing.md) — Rongzhong figure in the contested Dongsheng Real Estate equity-transfer dispute.
+- [Air China / 国航](entities/AirChina.md) — State-owned airline counterparty in the attempted East Star restructuring and post-grounding aviation continuity.
+- [China National Aviation Holding / 中航集团](entities/ChinaNationalAviationHolding.md) — State-owned aviation group involved in the East Star restructuring negotiation.
+- [GECAS](entities/GECAS.md) — Aircraft-leasing actor that helped East Star move from airline approval to fleet access.
+- [Civil Aviation Administration of China / 中国民航总局](entities/CivilAviationAdministrationOfChina.md) — Regulator whose private-airline opening created the policy window for East Star and Spring Airlines.
+- [Spring Airlines / 春秋航空](entities/SpringAirlines.md) — Surviving private-airline contrast to East Star in the first private-airline wave.
+- [Wang Zhenghua / 王正华](entities/WangZhenghua.md) — Spring Airlines founder used as the steady, thriftier contrast to Lan Shili.
+- [Maiquer Group / 麦趣尔](entities/MaiquerGroup.md) — Company-side counterparty in Lan Shili's Thai Orient Airlines cooperation and contract-fraud case.
+- [Thai Orient Airlines / 泰国东方航空](entities/ThaiOrientAirlines.md) — Overseas airline acquisition target tied to Lan Shili's later contract-fraud acquittal.
+- [Xiu Life / 秀生活](entities/XiuLife.md) — Unmanned convenience-store project used as a later capital-market relaunch case.
+- [Wuhan Erchang Soda / 武汉二厂汽水](entities/WuhanErchangSoda.md) — Revived local beverage brand tied to Lan Shili's later listed-company transaction story.
 - [Quanzhou / 泉州](entities/Quanzhou.md) — Minnan port city anchoring the episode's religious plurality, world-heritage, Song-Yuan maritime trade, and later diaspora/manufacturing story.
 - [Pu Shougeng / 蒲寿庚](entities/PuShougeng.md) — Quanzhou maritime merchant-official used to discuss foreign merchant power, port survival, and regime-change choices.
 - [Zheng Zhilong / 郑芝龙](entities/ZhengZhilong.md) — Minnan maritime trader, pirate, and official whose rise illustrates sea-ban-era gray trade, armed route control, and state incorporation.
@@ -1274,6 +1293,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Chinese Private Airline Opening](concepts/ChinesePrivateAirlineOpening.md) — Policy and market window that let private capital enter Chinese civil aviation while leaving high capital and regulatory barriers intact.
+- [Aviation Finance Leasing](concepts/AviationFinanceLeasing.md) — Aircraft-access financing layer that enabled new airlines such as East Star to scale before internal cash flow matured.
+- [Leveraged Aviation Expansion](concepts/LeveragedAviationExpansion.md) — Fast airline growth pattern built on approvals, local support, leasing, and external credit before durable cash flow is proven.
+- [Private Airline Failure Modes](concepts/PrivateAirlineFailureModes.md) — Interacting risks that can collapse a private airline: fixed costs, fuel, shocks, arrears, credit damage, rescue politics, and control conflict.
+- [Cross-Project Cash Transfer](concepts/CrossProjectCashTransfer.md) — Group-finance pattern where money tied to one project is used to support another, creating credit and governance risk.
+- [Local Government Enterprise Rescue](concepts/LocalGovernmentEnterpriseRescue.md) — Pattern where a distressed private firm becomes a local jobs, routes, creditor, prestige, and asset-continuity problem.
+- [Founder Narrative Reliability](concepts/FounderNarrativeReliability.md) — Source-reading discipline for separating founder self-narration from media reports, court findings, official notices, and counterparty accounts.
+- [Grassroots Private Entrepreneurship](concepts/GrassrootsPrivateEntrepreneurship.md) — Early private-enterprise founder style built on speed, improvisation, personal force, and weakly formalized institutions.
+- [Capital Market Shell Story](concepts/CapitalMarketShellStory.md) — Later-stage pattern where listed-company shells, performance commitments, and brand/platform stories outrun operating proof.
 - [Minnan Maritime Commercial Culture](concepts/MinnanMaritimeCommercialCulture.md) — Long regional pattern tying limited farmland, shipbuilding, port institutions, sea bans, migration, diaspora networks, and hometown manufacturing together.
 - [Song-Yuan Maritime Trade Center](concepts/SongYuanMaritimeTradeCenter.md) — Frame for Quanzhou as a state-recognized international port supported by shibosi governance, foreign communities, ship technology, and official trade rituals.
 - [Haijin and Maritime Smuggling](concepts/HaijinAndMaritimeSmuggling.md) — Pattern where sea bans restrict legal trade without removing demand, pushing merchants, smugglers, pirates, and officials into ambiguous maritime networks.
