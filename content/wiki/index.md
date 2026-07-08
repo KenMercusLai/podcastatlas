@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Trailer: Tocqueville Road Trip](sources/trailer-tocqueville-road-trip-6a315813780d0f7579afb892.md) — Economist Podcasts trailer from the Boss Class Acast feed, duplicating the Tocqueville Road Trip setup around Alexis de Tocqueville, Democracy in America, and America as a democratic idea.
 - [137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费](sources/137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1.md) — 疯投圈 episode on AI-resistant experience consumption, Shunde food tourism, Zhuroupo, Korean culture-led consumer marketing, Seongsu-dong, K-Beauty, beverage competition in Korea, and separating housing experience from real-estate investment.
 - [Vol.262 去西班牙买足球俱乐部，一场荒诞的商业冒险](sources/vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191.md) — 商业就是这样 episode with Li Xiang on buying Jumilla CF, Chinese-player overseas arbitrage, lower-tier club control risk, contract enforcement, youth-football systems, and stop-loss lessons after a failed football investment.
 - [Roaring trades: oil majors' secret success story](sources/roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674.md) — The Intelligence episode on European oil majors' hidden trading profits, U.S. frontier-model release controls, and concert tours concentrating into long city residencies.

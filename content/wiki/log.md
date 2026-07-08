@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-09] ingest | Trailer: Tocqueville Road Trip
+
+Added source page for the `boss-class` Acast-feed copy of the Economist Podcasts trailer introducing John Prideaux's Tocqueville Road Trip, which retraces Alexis de Tocqueville's 1831 U.S. journey and uses Democracy in America to ask whether the United States still functions as a democratic idea. Updated Economist Podcasts, Tocqueville Road Trip, Alexis de Tocqueville, John Prideaux, Democracy in America, America as Idea, American Democratic Resilience, United States, overview, and index. No direct contradiction found; the source duplicates existing Tocqueville Road Trip trailer pages under another source URL and reinforces the America-at-250 historical comparison.
+
 ## [2026-07-09] ingest | Far Crimea: war comes to Russia's door
 
 Added source page for a The Intelligence episode on Ukraine's strikes against Crimea, Moscow, and Russian oil infrastructure; SpaceX's source-reported IPO, valuation, and passive-index exposure; and Alan Greenspan's Federal Reserve legacy. Created pages for Crimea, Volodymyr Zelensky, Vladimir Putin, Alan Greenspan, War Visibility Strategy, Index Fund Automatic Exposure, and Central Bank Independence; updated Russia, Ukraine, SpaceX, Elon Musk, Federal Reserve, The Intelligence, Economist Podcasts, Asymmetric Infrastructure Attack, AI IPO Valuation, Passive Investing, overview, and index. No direct contradiction found; the source adds a useful tension to the SpaceX branch by separating real hard-tech platform progress from valuation and ordinary-saver exposure risk.
@@ -1575,3 +1579,11 @@ Added source page for a 疯投圈 episode on AI-resistant experience consumption
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-09] graph | Knowledge graph rebuilt
+
+2067 nodes, 20032 edges (20032 extracted, 0 inferred).
