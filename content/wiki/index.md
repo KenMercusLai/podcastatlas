@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI 时代的超级入口还是手机吗？｜ S10E17](sources/ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731.md) — What's Next｜科技早知道 episode with Han Boxiao and Chen Yiqiang on smartphones as AI hubs, vivo/MediaTek chip co-design, foldable productivity, on-device AI, NPU scheduling, and edge-cloud boundaries.
 - [Keep qualms and carry on: a decade after Brexit](sources/keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b.md) — The Intelligence episode on Brexit's cumulative economic friction, unrealized deregulation dividend, immigration-politics reversal, AI/regulatory opportunity, and Britain's unresolved strategic identity.
 - [Gulf-co-operation counsel: what next for the region](sources/gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6.md) — The Intelligence episode on Gulf stability after the Iran war, America-at-250 democratic strain, and plant acoustic signaling.
 - [Trailer: Tocqueville Road Trip](sources/trailer-tocqueville-road-trip-6a315642780d0f7579af216c.md) — Economist Podcasts trailer introducing John Prideaux's Tocqueville Road Trip, using Alexis de Tocqueville and Democracy in America to test whether the United States still works as a democratic idea.
@@ -187,6 +188,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [vivo](entities/Vivo.md) — Smartphone company represented by Han Boxiao in the S10E17 AI-phone discussion, bringing terminal scenarios, foldables, system adaptation, and on-device AI applications into chip co-design with MediaTek.
+- [Han Boxiao](entities/HanBoxiao.md) — vivo X-series product leader arguing that phones remain the central AI entry point and that product scenarios should pull terminal technology requirements.
+- [Chen Yiqiang](entities/ChenYiqiang.md) — MediaTek wireless-communications executive explaining AI-era chip planning, NPU investment, software tooling, and system-level workload scheduling.
+- [Dimensity 9500](entities/Dimensity9500.md) — MediaTek smartphone-chip platform used as the vivo/MediaTek case for early AI compute, NPU, and terminal-chip co-design.
 - [United Kingdom](entities/UnitedKingdom.md) — Country case where Brexit reshaped trade, immigration expectations, regulatory freedom, party politics, and Britain's role in European security.
 - [David Cameron](entities/DavidCameron.md) — British prime minister whose 2013 EU referendum promise is framed as turning Conservative pressure into a national Brexit rupture.
 - [Boris Johnson](entities/BorisJohnson.md) — Brexit figure whose Leave support and later hard-Brexit government are tied to economic friction and post-Brexit migration disappointment.
@@ -232,7 +237,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Robert Guest](entities/RobertGuest.md) — The Intelligence panelist giving the more optimistic account of American democratic resilience, assimilation, and cultural durability.
 - [Daniel Knowles](entities/DanielKnowles.md) — The Intelligence panelist warning that Supreme Court behavior and executive-power disputes show weakening U.S. constitutional guardrails.
 - [Rebecca Jackson](entities/RebeccaJackson.md) — The Intelligence panelist emphasizing representation erosion and historical memory conflicts in the America-at-250 episode.
-- [What's Next｜科技早知道](entities/WhatsNextKejiZaozhidao.md) — Podcast/show context for S10E18's AWS Summit discussion on OPC, agents, solo founders, and AI-augmented small teams.
+- [What's Next｜科技早知道](entities/WhatsNextKejiZaozhidao.md) — Podcast/show context spanning S10E17 on AI phones, S10E18 on one-person companies and agents, and S10E19 on tactile robotics.
 - [Yu Yi](entities/YuYi.md) — AI-first practitioner in S10E18 framing agents as partners while keeping red lines around money, deletion, protocol changes, and reputation.
 - [Amazon Web Services](entities/AmazonWebServices.md) — AWS cloud and startup-support context for the From Idea to Frontier OPC accelerator discussed in S10E18.
 - [From Idea to Frontier](entities/FromIdeaToFrontier.md) — AWS accelerator program named in S10E18 as support infrastructure for Chinese-language one-person-company founders.
@@ -939,7 +944,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [MatterGen](entities/MatterGen.md) — Materials-generation model example used to discuss scalable diffusion-based candidate generation.
 - [MatterSim](entities/MatterSim.md) — Materials simulation/model example used to discuss cross-property generalization in AI materials discovery.
 - [Matt Leeds](entities/MattLeeds.md) — Forward Consumer Partners figure who approached Justin Gold about returning to Justin's Nut Butter.
-- [MediaTek](entities/MediaTek.md) — Chipset and handset-solution company whose turnkey designs lowered the barrier for Chinese feature-phone manufacturing.
+- [MediaTek](entities/MediaTek.md) — Chipset company whose role runs from feature-phone turnkey solutions to AI-era smartphone co-design with vivo around Dimensity 9500.
 - [Medallion Fund](entities/MedallionFund.md) — Renaissance Technologies fund used as the main example of repeated small statistical edges.
 - [METR](entities/METR.md) — AI evaluation/research organization cited through an AI coding productivity study.
 - [Megvii](entities/Megvii.md) — AI 1.0 company used in Yin Qi's retrospective on technical strength, commercialization, strategic focus, and organization design.
@@ -1088,6 +1093,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Smartphone AI Hub](concepts/SmartphoneAIHub.md) — Thesis that phones remain the central AI-era entry point because they combine sensors, display, interaction, local compute, context, cloud access, and services.
+- [On-Device AI](concepts/OnDeviceAI.md) — Phone-side AI implementation frame covering hardware compute, model adaptation, NPU execution, system scheduling, privacy, and local applications.
+- [Handset-Chip Co-Design](concepts/HandsetChipCoDesign.md) — Cooperation pattern where terminal scenarios are translated into chip architecture, NPU, bandwidth, power, and thermal decisions years ahead.
+- [Foldable Phone Productivity](concepts/FoldablePhoneProductivity.md) — Foldable-phone value test where larger screens must enable multitasking, documents, meetings, and AI-assisted work rather than only bigger viewing.
+- [Edge-Cloud AI Boundary](concepts/EdgeCloudAIBoundary.md) — Practical split between terminal-side sensing, memory, privacy, and low-latency work versus cloud-side heavy reasoning and generation.
 - [Brexit](concepts/Brexit.md) — United Kingdom departure from the European Union, framed as a cumulative political, economic, immigration, regulatory, and strategic rupture.
 - [Brexit Economic Friction](concepts/BrexitEconomicFriction.md) — Cumulative trade, GDP, finance, professional-qualification, and investment drag rather than a single immediate Brexit crash.
 - [Brexit Regulatory Dividend](concepts/BrexitRegulatoryDividend.md) — Hoped-for post-EU policy freedom that produced narrow flexibility but not the broad Singapore-on-Thames deregulation payoff.
@@ -1203,13 +1213,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Distribution-Out Personal Strategy](concepts/DistributionOutPersonalStrategy.md) — AI-era education and career strategy of building distinctive capability outside standardized statistical-center tasks.
 - [Model As Operating System](concepts/ModelAsOperatingSystem.md) — Thesis that frontier models may become platform infrastructure for agents, applications, work, research, and ecosystem control.
 - [AGI Three Acts](concepts/AGIThreeActs.md) — Route map from chatbots to coding agents to automated AI researchers, treating coding as the second act of AGI.
-- [Consumer Electronics Lifecycle](concepts/ConsumerElectronicsLifecycle.md) — Fast birth/death pattern in consumer electronics and the organizational answer of repeated category renewal.
+- [Consumer Electronics Lifecycle](concepts/ConsumerElectronicsLifecycle.md) — Fast birth/death pattern in consumer electronics, including how AI and foldables pressure mature handset categories to renew around real usage.
 - [One Three Five Seven Consumer Segmentation](concepts/OneThreeFiveSevenConsumerSegmentation.md) — Yang Meng's buyer-tier frame for moving from stable five-series products toward seven-series extreme innovation.
 - [Shallow Sea Deep Sea Category Strategy](concepts/ShallowSeaDeepSeaCategoryStrategy.md) — Category-selection frame separating smaller consumer-electronics seas from capital-intensive super-categories.
 - [Third Type Company](concepts/ThirdTypeCompany.md) — Organization form for systematically winning many mid-sized categories through federation-like governance and shared capabilities.
 - [Creator Culture](concepts/CreatorCulture.md) — Anker talent and values frame built around first heart, extreme pursuit, shared growth, and AI-era creator rewards.
 - [In-Memory Computing For Edge AI](concepts/InMemoryComputingForEdgeAI.md) — Edge-chip route for running larger neural models on small devices by reducing parameter movement and power cost.
-- [On-Device Model Hierarchy](concepts/OnDeviceModelHierarchy.md) — Distributed model-size frame spanning cloud brains, endpoint models, and small perception/control models in devices.
+- [On-Device Model Hierarchy](concepts/OnDeviceModelHierarchy.md) — Distributed model-size frame spanning cloud brains, endpoint models, and small perception/control models under real device compute, heat, and power constraints.
 - [True Smart Home](concepts/TrueSmartHome.md) — Smart-home distinction between adjustable/preset products and AI products that perceive, plan, and control themselves.
 - [Household Security Robots](concepts/HouseholdSecurityRobots.md) — Anker-style household robotics wedge that closes the loop from security detection to active response.
 - [Enterprise Prearranged Agents](concepts/EnterprisePrearrangedAgents.md) — Enterprise AI-agent pattern where proven processes, data, tools, and permissions are pre-arranged into stable agents.
@@ -1626,7 +1636,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Native SaaS Threat](concepts/AINativeSaaSThreat.md) — Risk that AI-native entrants challenge incumbent SaaS products built before AI became core to workflows.
 - [AI NPC Social Infrastructure](concepts/AINPCSocialInfrastructure.md) — Use of AI NPCs as hosts, social participants, and atmosphere regulators inside multiplayer scenes.
 - [AI Organization Design](concepts/AIOrganizationDesign.md) — Organizational problem of combining high talent density, coordination, research vitality, and result accountability in AI companies.
-- [AI Plus Terminals](concepts/AIPlusTerminals.md) — Foundation-model commercialization thesis linking models, software, hardware carriers, users, and physical-world data.
+- [AI Plus Terminals](concepts/AIPlusTerminals.md) — Commercialization thesis linking models, software, hardware carriers, users, physical-world data, and mainstream phone entry points.
 - [AI Product Fragmentation](concepts/AIProductFragmentation.md) — Gap between strong model capability and a coherent product entry point across assistant, browser, search, workspace, and platform surfaces.
 - [AI Programming Engine Shift](concepts/AIProgrammingEngineShift.md) — View that AI changes programming like an engine changes manual work, shifting value toward framing, testing, and judgment.
 - [AI Search Analytics](concepts/AISearchAnalytics.md) — Category for measuring brand visibility, citations, and sentiment across AI answer/search tools.
@@ -1672,8 +1682,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Carry Trade Unwind](concepts/CarryTradeUnwind.md) — Forced closing of funded cross-asset positions when currency, rates, margin, or risk conditions reverse.
 - [Career Self-Rescue](concepts/CareerSelfRescue.md) — Recovery pattern where a concrete act restores agency after a low-confidence work or career state.
 - [Cash Cow Strategic Inertia](concepts/CashCowStrategicInertia.md) — Pattern where a profitable old business weakens strategic patience for necessary new bets.
-- [China Handset Supply Chain](concepts/ChinaHandsetSupplyChain.md) — Industrial base built from foreign factories, domestic brands, MediaTek solutions, Huaqiangbei, and shanzhai recombination.
-- [Chinese Domestic Handset Waves](concepts/ChineseDomesticHandsetWaves.md) — Staged history of Chinese handset makers from licensed brands to shanzhai/turnkey phones and operator-subsidized smartphones.
+- [China Handset Supply Chain](concepts/ChinaHandsetSupplyChain.md) — Industrial base built from foreign factories, domestic brands, MediaTek solutions, Huaqiangbei, shanzhai recombination, and later AI-era handset-chip co-design.
+- [Chinese Domestic Handset Waves](concepts/ChineseDomesticHandsetWaves.md) — Staged history of Chinese handset makers from licensed brands to shanzhai/turnkey phones, operator-subsidized smartphones, and AI-era terminal competition.
 - [Causal AI](concepts/CausalAI.md) — Research direction focused on intervention-grounded causal structure, causal discovery, and machine-learning systems that generalize beyond surface correlation.
 - [Causal World Models](concepts/CausalWorldModels.md) — World-model route that learns causal variables, causal structure, and action-conditioned transition dynamics for physical AI.
 - [College Career Preparation](concepts/CollegeCareerPreparation.md) — Goal-dependent undergraduate preparation across GPA, exams, projects, internships, portfolios, and hiring readiness.
@@ -1785,7 +1795,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [On-Demand Apps](concepts/OnDemandApps.md) — Agent-assembled or generated app capabilities created when the user needs them instead of fully prebuilt feature menus.
 - [One-Shot AI Coding](concepts/OneShotAICoding.md) — Turning a substantial requirement into usable implementation in one main model pass, with verification rather than repeated prompting as the bottleneck.
 - [One-Person Company](concepts/OnePersonCompany.md) — AI-era OPC frame where a solo operator can build faster with AI but still must solve customer pull, sales, delivery, legal responsibility, and payment.
-- [OS-Level Context](concepts/OSLevelContext.md) — Agent context gathered from the user's computer environment, including screens, input, apps, meetings, messages, and current activity.
+- [OS-Level Context](concepts/OSLevelContext.md) — Agent context gathered from computer or phone environments, including screens, input, apps, meetings, files, sensors, messages, and current activity.
 - [Operator-Subsidized Handsets](concepts/OperatorSubsidizedHandsets.md) — Carrier contract-phone channel that shaped 3G smartphone adoption and the "中华酷联" domestic handset stage.
 - [Outcome-Based AI Pricing](concepts/OutcomeBasedAIPricing.md) — Enterprise AI pricing based on delivered output, work volume, time, or transaction value rather than seats or custom projects.
 - [Overseas Insurance Risk](concepts/OverseasInsuranceRisk.md) — Risk that foreign insurance policies add dividend, currency, liquidity, jurisdiction, and life-location uncertainty.
@@ -1828,7 +1838,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Shanzhai Phones](concepts/ShanzhaiPhones.md) — Low-cost gray-market, copycat, and extreme-feature Chinese handsets enabled by turnkey designs and Shenzhen supply chains.
 - [Silicon Carbon Governance](concepts/SiliconCarbonGovernance.md) — Organization frame for managing human employees and AI employees through roles, KPIs, training, review, and responsibility boundaries.
 - [Software Payment Culture](concepts/SoftwarePaymentCulture.md) — User expectations around free versus paid software, shaped by Chinese internet history and monetization models.
-- [Smartphone Operating System Ecosystems](concepts/SmartphoneOperatingSystemEcosystems.md) — Competitive shift from single handset models and form factors toward OS platforms, touch UI, apps, and developer ecosystems.
+- [Smartphone Operating System Ecosystems](concepts/SmartphoneOperatingSystemEcosystems.md) — Competitive shift from single handsets toward OS, apps, developers, and now AI-era terminal context, NPU scheduling, privacy, and service execution.
 - [Speculative Bubble Psychology](concepts/SpeculativeBubblePsychology.md) — Pattern where real technology stories mix with leverage, crowd confidence, and "this time is different" market narratives.
 - [Stage-Appropriate Hiring](concepts/StageAppropriateHiring.md) — Principle that leaders and executives must fit the company's current stage, ambiguity, pace, and culture.
 - [Star Talent In Big Companies](concepts/StarTalentInBigCompanies.md) — Pattern where high-profile technical talent and large organizations need each other but often misalign.

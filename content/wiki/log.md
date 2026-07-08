@@ -1367,3 +1367,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-09] ingest | AI 时代的超级入口还是手机吗？｜ S10E17
+
+Added source page for a What's Next｜科技早知道 episode with Han Boxiao and Chen Yiqiang on whether phones remain the AI-era super entry point. Created pages for vivo, Han Boxiao, Chen Yiqiang, Dimensity 9500, Smartphone AI Hub, On-Device AI, Handset-Chip Co-Design, Foldable Phone Productivity, and Edge-Cloud AI Boundary; updated overview, index, What's Next｜科技早知道, MediaTek, AI Plus Terminals, On-Device Model Hierarchy, Smartphone Operating System Ecosystems, China Handset Supply Chain, Chinese Domestic Handset Waves, OS-Level Context, and Consumer Electronics Lifecycle. No direct contradiction found; the source reinforces the wiki's AI plus terminals thread while qualifying it with phone-specific constraints around NPU scheduling, privacy, foldable productivity, hardware planning cycles, and edge-cloud division of labor.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
