@@ -808,8 +808,6 @@ Added source page for a How I Built This Advice Line episode with Ronnen Harary 
 
 Ran lint. See lint-report.md for details.
 
-
-
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -1301,6 +1299,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | 商业小样44 | 世界杯扩军与FIFA的权力斗争
+
+Added source page for a 商业就是这样 episode on the 2026 FIFA World Cup expansion, FIFA revenue concentration, U.S. stadium and sponsor-market upside, official resale/ticketing economics, and Gianni Infantino governance coalition. Created pages for FIFA, FIFA World Cup, Gianni Infantino, UEFA, Sepp Blatter, Michel Platini, Joao Havelange, World Cup Expansion, Global Sports Governance, and Sports Event Ticketing; updated overview, index, 商业就是这样, United States, Sports Media Rights, Corporate Hospitality Platform, League Stakeholder Alignment, Sports Entertainment Flywheel, and Fat League Economics. No direct contradiction found; the source extends the Formula One sports-media branch by showing a football governing body where expansion also depends on member-association voting and regional redistribution.
 
 ## [2026-07-08] lint | Wiki health check
 

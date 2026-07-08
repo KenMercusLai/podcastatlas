@@ -1,0 +1,24 @@
+---
+title: "FIFA World Cup"
+type: entity
+tags: [sports, football, event]
+sources: [shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969]
+last_updated: 2026-07-08
+---
+
+# FIFA World Cup
+
+The FIFA World Cup appears in [[shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969]] as [[FIFA]]'s core commercial and political asset. The episode focuses on the 2026 edition, where the tournament expands from 32 to 48 teams and from 64 to 104 matches.
+
+The source frames the 2026 tournament as a case where host-market infrastructure amplifies expansion economics. Existing stadiums in the [[UnitedStates]], a sponsor-rich North American market, dynamic ticketing norms, official resale fees, and hospitality inventory all make more matches more valuable than a simple count of extra games would suggest.
+
+## Key Claims
+- The 2026 tournament uses 12 four-team groups, with the top two teams and eight best third-place teams entering a 32-team knockout round.
+- The [[UnitedStates]] hosts most of the matches, making U.S. stadium and ticketing infrastructure central to the business story.
+- More teams and games create new participation for football associations while strengthening FIFA's commercial bargaining position.
+- The episode presents the tournament's expansion history as part of football's broader commercial globalization.
+
+## Connections
+- [[FIFA]], [[GianniInfantino]], [[UEFA]], [[SeppBlatter]], and [[JoaoHavelange]] - governing and historical context.
+- [[WorldCupExpansion]], [[SportsEventTicketing]], [[SportsMediaRights]], and [[CorporateHospitalityPlatform]] - economic mechanisms emphasized by the source.
+- [[FormulaOne]] and [[SportsEntertainmentFlywheel]] - adjacent sports-business comparison.

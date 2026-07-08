@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [商业小样44 | 世界杯扩军与FIFA的权力斗争](sources/shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969.md) — 商业就是这样 episode on the 2026 FIFA World Cup expansion, FIFA revenue, U.S. host-market upside, ticketing/resale economics, and Infantino's governance coalition.
 - [旧世代电台28 | 实体游戏的时代终结之际，不如重新定义拥有](sources/jiu-shidai-diantai-28-shiti-youxi-de-shidai-zhongjie-zhiji-buru-chongxin-dingyi-yongyou-998430652.md) — 旧世代 episode on Sony's source-reported PlayStation physical-disc retreat, digital distribution economics, player ownership anxiety, secondhand games, preservation, and post-ownership.
 - [泡沫的四个必要不充分条件 | 对谈经济学者朱宁教授](sources/paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78.md) — 42章经 interview with Zhu Ning on bubble preconditions, behavioral finance, AI valuation risk, position sizing, and wealth as one part of life.
 - [The 250-year experiment: America's birthday](sources/the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad.md) — The Intelligence special episode on America at 250, democratic resilience, executive-power precedent, voting rights, immigration backlash cycles, assimilation capacity, historical memory, and American cultural exports.
@@ -180,6 +181,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [FIFA](entities/FIFA.md) — International football governing body analyzed through World Cup expansion, revenue concentration, member voting, and regional power redistribution.
+- [FIFA World Cup](entities/FIFAWorldCup.md) — FIFA's central tournament asset, expanded in 2026 from 32 to 48 teams and from 64 to 104 matches.
+- [Gianni Infantino](entities/GianniInfantino.md) — FIFA president whose World Cup expansion platform is framed as both commercial strategy and football-governance coalition building.
+- [UEFA](entities/UEFA.md) — European football confederation positioned as FIFA's main institutional counterweight in the expansion debate.
+- [Sepp Blatter](entities/SeppBlatter.md) — Former FIFA leader used as both expansion-history precedent and corruption-crisis context.
+- [Michel Platini](entities/MichelPlatini.md) — UEFA figure whose damaged FIFA succession path helped create the opening for Infantino.
+- [Joao Havelange](entities/JoaoHavelange.md) — Earlier FIFA president associated with expanding the World Cup to 24 teams in 1982.
 - [旧世代](entities/Jiushidai.md) — Podcast/show context for the episode on PlayStation physical-disc decline, digital ownership anxiety, and post-ownership.
 - [Sony](entities/Sony.md) — Company discussed through the source-reported move away from new PlayStation physical discs and toward digital store control.
 - [PlayStation](entities/PlayStation.md) — Sony console platform used to analyze physical-media decline, secondhand circulation, and digital ownership anxiety.
@@ -1051,6 +1059,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [World Cup Expansion](concepts/WorldCupExpansion.md) — Strategy of increasing World Cup teams and matches as a combined commercial, political, and governance move.
+- [Global Sports Governance](concepts/GlobalSportsGovernance.md) — Institutional problem of aligning worldwide sports associations, confederations, clubs, hosts, sponsors, media, and voting rules.
+- [Sports Event Ticketing](concepts/SportsEventTicketing.md) — Live-sports ticketing, resale, pricing, hospitality, and access system highlighted by the 2026 World Cup.
 - [Physical Game Era Decline](concepts/PhysicalGameEraDecline.md) — Shift from boxed discs/cartridges and retail circulation toward platform-controlled digital game distribution.
 - [Digital Game Distribution](concepts/DigitalGameDistribution.md) — Sale and delivery of games through platform stores, reducing physical costs while increasing account and license dependence.
 - [Digital Game Ownership Anxiety](concepts/DigitalGameOwnershipAnxiety.md) — Player concern that digital purchases are revocable licenses rather than durable, transferable property.

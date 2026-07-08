@@ -2,7 +2,7 @@
 title: "商业就是这样"
 type: entity
 tags: [podcast, media, business]
-sources: [vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, jiufan-zhongting-mifeng-jingjixue-956460448]
+sources: [vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, jiufan-zhongting-mifeng-jingjixue-956460448, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969]
 last_updated: 2026-07-08
 ---
 
@@ -14,11 +14,15 @@ The episode's distinctive contribution to the wiki is its distributed method. In
 
 [[jiufan-zhongting-mifeng-jingjixue-956460448]] adds a more industry-analytic side of the show. The episode uses bees to move from economic thought experiments to agricultural contracts, showing how [[ExternalityInternalization]] can happen through [[PollinationServiceMarket]] prices while [[HoneyQualityStandards]] and [[BeeColonyCollapse]] mark the product-quality and biological-risk limits around the business.
 
+[[shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969]] adds the show's sports-business side. It uses [[FIFA]], [[FIFAWorldCup]], [[GianniInfantino]], and [[UEFA]] to connect [[WorldCupExpansion]], [[GlobalSportsGovernance]], [[SportsEventTicketing]], [[SportsMediaRights]], and [[LeagueStakeholderAlignment]].
+
 ## Connections
 - [[vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]] — fifth-anniversary source page.
 - [[jiufan-zhongting-mifeng-jingjixue-956460448]] — bee-economics source page.
+- [[shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969]] — FIFA World Cup expansion and football governance source page.
 - [[CityCommercialObservation]] — main method surfaced by the source.
 - [[TourismTrafficMismatch]] — one recurring city-commerce pattern in listener submissions.
 - [[LocalLifePlatformDependency]], [[RetailSiteSelection]], and [[ExperientialRetail]] — existing wiki concepts extended by the show.
 - [[ExternalityInternalization]], [[PollinationServiceMarket]], [[HoneyQualityStandards]], and [[BeeColonyCollapse]] — agriculture and economic-theory concepts added by the bee episode.
+- [[WorldCupExpansion]], [[GlobalSportsGovernance]], and [[SportsEventTicketing]] — sports-business concepts added by the FIFA episode.
 - [[PodcastAsAsynchronousMedia]] — adjacent media concept; the anniversary format records listener memory across years.
