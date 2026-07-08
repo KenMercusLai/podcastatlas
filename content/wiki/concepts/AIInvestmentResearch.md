@@ -2,8 +2,8 @@
 title: "AI Investment Research"
 type: concept
 tags: [ai, investing, finance]
-sources: [142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]
-last_updated: 2026-07-08
+sources: [142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1]
+last_updated: 2026-07-09
 ---
 
 # AI Investment Research
@@ -24,6 +24,8 @@ AI investment research is the episode's practical answer to whether tools such a
 
 [[paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]] adds [[ZhuNing]]'s information-equality warning. AI can make information retrieval and analysis easier for individuals, but the source argues that institutions still retain advantages in data, IT, process, and organization. The episode also names two layers of hallucination risk: model hallucination itself, and the investor's hallucination that using AI makes them comparable to a professional institution.
 
+[[139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1]] adds [[ICEInvestor]]'s workflow-boundary version. He expects AI to compress information advantage and some analysis advantage, because ordinary users can now generate usable company-analysis frameworks, but argues that behavior, self-knowledge, business understanding, and long-horizon judgment become more important rather than less.
+
 ## Key Claims
 - AI lowers the cost of understanding finance, but it does not give retail investors institutional-quality data, execution, or risk systems.
 - The biggest beneficiaries of AI in markets may be institutions that already have data, compute, and talent.
@@ -43,6 +45,8 @@ AI investment research is the episode's practical answer to whether tools such a
 - Research automation is useful only when it feeds human understanding; summaries, trackers, and newsletters can become empty throughput if they do not change the investor's model of the world.
 - AI can narrow some information gaps, but it does not remove institutional advantages or the need for [[InvestmentRiskManagement]].
 - The investor's overconfidence after using AI is itself a research risk when fluent analysis masks weak data, missing context, or poor sizing.
+- AI can make an initial research framework cheap, which shifts scarce advantage toward [[AICompressedInvestmentResearchAdvantage]]: judgment, behavior, data quality, and asking better questions.
+- If AI compresses information and analysis speed, personal suitability for active stock picking becomes more important, not less.
 
 ## Connections
 - [[ChatGPT]] — example tool named in the episode.
@@ -58,3 +62,4 @@ AI investment research is the episode's practical answer to whether tools such a
 - [[Freda]], [[FinancialAIAgents]], [[InvestmentDecisionLogging]], and [[MarketEfficiency]] — episode 141's institutional agent and faster-market-reaction extension.
 - [[DaiYusen]], [[AgenticWorkflow]], [[HumanAgencyUnderAI]], and [[ResearchTaste]] — episode 142's personal research tooling and thinking-outsourcing boundary.
 - [[ZhuNing]], [[BehavioralInvestingBiases]], and [[SpeculativeBubblePsychology]] — 42章经 interview extension around AI-assisted overconfidence and institutional advantage.
+- [[ICEInvestor]], [[AICompressedInvestmentResearchAdvantage]], [[GoodCompanyGoodStock]], and [[InvestmentRiskManagement]] — FengTouQuan episode 139's boundary between research productivity and investable edge.

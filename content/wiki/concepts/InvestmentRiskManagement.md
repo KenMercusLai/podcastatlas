@@ -29,7 +29,8 @@ sources:
   - e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0
   - e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e
   - paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78
-last_updated: 2026-07-08
+  - 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1
+last_updated: 2026-07-09
 ---
 
 # Investment Risk Management
@@ -57,6 +58,8 @@ Investment risk management is the practical bridge from market uncertainty to or
 [[e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]] adds the hot A-share market version: risk management includes [[AShareValuationIndicators]], realized-profit discipline, and [[DrawdownPsychology]]. The episode treats valuation, trend, bonds, gold, and overseas equity as ways to preserve action capacity rather than as independent return-maximization tricks.
 
 [[paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]] adds [[ZhuNing]]'s consequence-first version. The source argues that when a bubble or AI valuation cannot be known in advance, the investor should ask what winning or losing would do to their life, liquidity, confidence, and future choices. It also distinguishes financial investing from human-capital investing: financial bets can be faster and more dangerous, while skill, experience, and self-knowledge can compound more slowly with lower ruin risk.
+
+[[139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1]] adds the active-stock-picking suitability version. [[ICEInvestor]] argues that even a coherent thesis around [[PopMart]] or [[Pinduoduo]] must be matched to time horizon, catalyst needs, volatility tolerance, and the investor's temperament; choosing not to actively pick stocks can be risk management when the game does not fit.
 
 ## Key Claims
 - Every trade has an informed or differently informed counterparty, so humility should be the starting point.
@@ -121,6 +124,8 @@ Investment risk management is the practical bridge from market uncertainty to or
 - [[BubbleNecessaryConditions]] should change risk budget and leverage, not create false certainty that a top has arrived.
 - Personal risk capacity matters: the same AI or market exposure can be tolerable for one investor and destructive for another depending on income, obligations, liquidity, and emotional resilience.
 - Human-capital investment can be a risk-management substitute when a person has low financial capital and would otherwise need excessive leverage to chase a large goal.
+- A stock thesis should name its time horizon, return source, expected catalyst, and behavioral burden before it deserves size.
+- Active stock picking is optional; refusing an unsuitable game can be a legitimate risk-control decision.
 
 ## Connections
 - [[JimSimons]] — source's voice for the principle.
@@ -154,3 +159,4 @@ Investment risk management is the practical bridge from market uncertainty to or
 - [[NoPredictionTrading]], [[DiversificationAlpha]], [[RandomMarketNarratives]], and [[Polymarket]] — E144's trend-statistics, diversification, narrative-risk, and price-as-probability extension.
 - [[AShareValuationIndicators]], [[MultiStrategyAllocation]], [[DrawdownPsychology]], and [[ZhangYizhen]] — E145's valuation, strategy-mix, and investor-psychology extension.
 - [[ZhuNing]], [[BubbleNecessaryConditions]], [[AIEquityValuationRisk]], [[PositionSizing]], and [[BehavioralInvestingBiases]] — 42章经 interview extension around consequence-first investing and bubble uncertainty.
+- [[ICEInvestor]], [[GoodCompanyGoodStock]], [[EarningsGrowthAcceleration]], [[InvestmentCatalyst]], [[AICompressedInvestmentResearchAdvantage]], [[PopMart]], and [[Pinduoduo]] — FengTouQuan episode 139's stock-picking suitability extension.

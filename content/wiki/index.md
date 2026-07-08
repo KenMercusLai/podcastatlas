@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [139. 泡泡玛特和拼多多值得投资么？](sources/139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1.md) — 疯投圈 episode with ICE on Pop Mart, Labubu concentration, Pinduoduo valuation, Temu catalysts, good-company-versus-good-stock thinking, AI-compressed investment research, and active stock-picking suitability.
 - [141. 咖啡战争2026：机构化与本土化](sources/141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1.md) — 疯投圈 episode on China's coffee market moving into institution-led ownership, local control, premium-versus-daily brand tension, Luckin's mature scale, and tea-drink chains entering coffee.
 - [140. 大疆还能低空飞多久？](sources/140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1.md) — 疯投圈 episode on DJI's drone and portable-camera business, global hardware brand power, U.S. restrictions, low-altitude regulatory risk, alumni startups, and the open IPO/liquidity question.
 - [Trailer: Tocqueville Road Trip](sources/trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7.md) — Economist Podcasts trailer from the Boom from The Economist Acast feed, duplicating the Tocqueville Road Trip setup around Alexis de Tocqueville, Democracy in America, and America as a democratic idea.
@@ -203,6 +204,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Pop Mart / 泡泡玛特](entities/PopMart.md) — Consumer-IP and collectibles company used to explain why a strong business can still be a hard stock when growth acceleration, valuation, and IP concentration change.
+- [Labubu](entities/Labubu.md) — Pop Mart blockbuster IP whose revenue share makes consumer-brand power and concentration risk visible at the same time.
+- [ICE](entities/ICEInvestor.md) — FengTouQuan episode 139 guest and investment educator emphasizing decompressed value-investing slogans, time horizon, catalysts, AI research limits, and self-knowledge.
+- [盛世投资研习院](entities/ShengshiInvestmentAcademy.md) — Investment-education project founded by ICE in 2023, used as context for fundamental-investing training.
 - [Luckin Coffee / 瑞幸咖啡](entities/LuckinCoffee.md) — scaled Chinese coffee-chain benchmark framed as the "one super" facing maturity, premiumization, and tea-drink crossover pressure.
 - [Blue Bottle Coffee / 蓝瓶子](entities/BlueBottleCoffee.md) — high-end store-led coffee brand used to explain premium portfolio logic and ownership fit after Nestle's sale to Centurium.
 - [Boyu Capital / 博裕资本](entities/BoyuCapital.md) — investment institution tied to Starbucks China's local-control and institutional-branding logic.
@@ -1163,6 +1168,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Good Company Vs Good Stock](concepts/GoodCompanyGoodStock.md) — Investing distinction that business quality, entry price, time horizon, market expectations, catalysts, and temperament all affect whether a stock is attractive.
+- [Earnings Growth Acceleration](concepts/EarningsGrowthAcceleration.md) — Market sensitivity to whether profit growth is speeding up or slowing down, not only whether earnings are still increasing.
+- [Investment Catalyst](concepts/InvestmentCatalyst.md) — Event, business change, or capital-return action that can make price converge toward estimated value.
+- [AI-Compressed Investment Research Advantage](concepts/AICompressedInvestmentResearchAdvantage.md) — Idea that AI reduces information and initial-analysis advantage while leaving judgment, behavior, data quality, and self-knowledge scarce.
 - [Coffee Chain Institutionalization](concepts/CoffeeChainInstitutionalization.md) — shift from coffee startup land-grab toward control deals, professional managers, and institutional ownership of proven chain assets.
 - [Coffee Chain Localization](concepts/CoffeeChainLocalization.md) — ownership and operating adaptation needed when global coffee brands face China's local price, product, and store-cadence pressure.
 - [Premium-Everyday Brand Tension](concepts/PremiumEverydayBrandTension.md) — conflict between premium scarcity/status and chain-store frequency, convenience, and value.

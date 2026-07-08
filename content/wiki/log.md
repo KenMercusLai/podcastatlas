@@ -1356,6 +1356,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-09] ingest | 139. 泡泡玛特和拼多多值得投资么？
+
+Added source page for a 疯投圈 episode with ICE on using Pop Mart and Pinduoduo to explain investing method rather than stock picks. Created pages for Pop Mart, Labubu, ICE, 盛世投资研习院, Good Company Vs Good Stock, Earnings Growth Acceleration, Investment Catalyst, and AI-Compressed Investment Research Advantage; updated overview, index, 疯投圈, Pinduoduo, Temu, Value Investing, Margin Of Safety, AI Investment Research, Consumer Brand Moat, Earnings Expectation Gap, Behavioral Investing Biases, Circle Of Competence, and Investment Risk Management. No direct contradiction found; the source qualifies value-investing and margin-of-safety pages by separating business quality, cheapness, catalysts, time horizon, AI research compression, and investor temperament.
+
 ## [2026-07-09] ingest | E44 李晓波对话孟岩：这次，就这样吧？
 
 Added source page for a 无人知晓 episode with Li Xiaobo and Meng Yan on 有知有行, financial-platform incentives, investor suitability friction, founder governance, 本分, 如其所是, Enough, rumination, and investment as a tool for a better life. Created pages for Li Xiaobo, Youzhi Youxing, Robinhood, Wealthfront, John Bogle, Financial Platform Incentives, Investor Suitability Friction, Investment For Better Life, Knowing Enough, Benfen, As It Is Practice, and Rumination Vs Reflection; updated Meng Yan, 无人知晓, Vanguard, Patagonia, Duan Yongping, Purpose Driven Business, Financial Gravity, Startup Governance, Trust As Business Asset, overview, and index. Flagged an apparent but non-conflicting tension with No Better Life: E44's "better life" is a practical boundary on investing, while E43 critiques attachment to a final improved future state.
@@ -1500,6 +1504,10 @@ Ran lint after health passed. Deterministic checks found three orphan pages (`wi
 ## [2026-07-09] ingest | 141. 咖啡战争2026：机构化与本土化
 
 Added source page for a 疯投圈 episode on China's coffee market entering an institution-led and locally operated phase, with Starbucks China, Luckin, Blue Bottle, % Arabica, Peet's, Tim's China, Mixue, and Guming used to explain coffee-chain ownership, premium-versus-daily brand tension, and tea/coffee category convergence. Created pages for Luckin Coffee, Blue Bottle Coffee, Boyu Capital, Centurium Capital, Hillhouse Capital, PAG, % Arabica, Peet's Coffee, Tim's China, Guming, Nestle, Coffee Chain Institutionalization, Coffee Chain Localization, Premium-Everyday Brand Tension, and Beverage Category Convergence; updated overview, index, 疯投圈, Starbucks, Mixue Bingcheng, Global Product Localization, Franchise-Led Consumer Chain Expansion, Experiential Retail, Consumer Brand Moat, and Low Price Brand Perception. No direct contradiction found; the source qualifies the existing lifestyle coffee and experiential retail branches by tying coffee prices and premium mood to institutional ownership, local operating speed, and tea-drink chain competition.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-09] lint | Wiki health check
 
