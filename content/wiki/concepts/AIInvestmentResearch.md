@@ -2,7 +2,7 @@
 title: "AI Investment Research"
 type: concept
 tags: [ai, investing, finance]
-sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf]
+sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
 last_updated: 2026-07-08
 ---
 
@@ -18,6 +18,8 @@ AI investment research is the episode's practical answer to whether tools such a
 
 [[e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf]] adds the professional analyst boundary. The guest expects AI to be strong at collecting, sorting, classifying, and proposing initial research directions, but argues that the best investment research still needs human smell, judgment, cross-checking, and insight because [[MarginOfSafety]] leaves little tolerance for fluent but wrong conclusions.
 
+[[141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]] adds the institutional workflow version. [[Freda]] says investment work spends enormous time finding information, cleaning data, comparing expectations, and judging positioning; agents could help if they had clean data and a clear trading or research objective. The bottleneck is not only model reasoning but also fragmented financial data vendors, target-function definition, and understanding how different market participants react.
+
 ## Key Claims
 - AI lowers the cost of understanding finance, but it does not give retail investors institutional-quality data, execution, or risk systems.
 - The biggest beneficiaries of AI in markets may be institutions that already have data, compute, and talent.
@@ -32,6 +34,8 @@ AI investment research is the episode's practical answer to whether tools such a
 - Domain knowledge is a gating factor: weak user judgment can make automated research less useful or more dangerous.
 - In professional [[ValueInvesting]], AI can widen the starting information set but cannot by itself decide whether a business has a durable [[BusinessMoat]], whether bad scenarios are priced, or whether a position deserves size.
 - AI-generated report summaries should be checked against direct [[FinancialStatementAnalysis]], management communication, and cross-validation.
+- Institutional research agents need data integration, objective clarity, and market-participant modeling, not just better natural-language summaries.
+- Faster AI processing may compress the time between events, earnings, and price reaction, changing where alpha can still exist.
 
 ## Connections
 - [[ChatGPT]] — example tool named in the episode.
@@ -44,3 +48,4 @@ AI investment research is the episode's practical answer to whether tools such a
 - [[EarningsExpectationGap]], [[BehavioralInvestingBiases]], and [[InvestmentDecisionLogging]] — EP69's additions around market expectations, investor psychology, and decision process.
 - [[RoutineAgentAutomation]] and [[HumanJudgmentUnderAI]] — EP127's warning that recurring investment monitoring still needs human responsibility.
 - [[ValueInvesting]], [[MarginOfSafety]], [[BusinessMoat]], and [[CircleOfCompetence]] — E160's professional judgment boundary around AI-assisted research.
+- [[Freda]], [[FinancialAIAgents]], [[InvestmentDecisionLogging]], and [[MarketEfficiency]] — episode 141's institutional agent and faster-market-reaction extension.

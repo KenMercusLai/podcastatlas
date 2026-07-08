@@ -2,8 +2,8 @@
 title: "Agent Native Software"
 type: concept
 tags: [agents, software-design, product]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
-last_updated: 2026-07-07
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
+last_updated: 2026-07-08
 ---
 
 # Agent Native Software
@@ -22,6 +22,8 @@ Agent-native software is software whose core substrate is an agent rather than a
 
 [[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] adds the product-prototyping version. [[OpenClaw]] and [[HermesAgent]]-style agents can be configured in IM threads for article triage, translation, todo aggregation, and calendar/reminder synthesis, letting a builder test a product idea through conversation before deciding whether to engineer it as a stable app or skill.
 
+[[141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]] adds the enterprise-system redesign version. [[Freda]] argues that many AI CRM or ERP products still resemble old software with automation added. The stronger agent-native opportunity is to record previously invisible decision context, make systems persistent and real-time enough for agents, and redesign communication, permissions, memory, and workflow around nonhuman operators.
+
 ## Key Claims
 - Agent-native software differs from AI-assisted software because removing the agent would remove the product's reason to exist.
 - [[AgenticSoftware]] can include agent-native products, but it also describes how existing software may be rebuilt around [[AtomicCapabilityServices]] and agent-facing access.
@@ -34,6 +36,8 @@ Agent-native software is software whose core substrate is an agent rather than a
 - Token-driven interaction broadens agent-native software from task execution into dynamic experience generation, but increases cost, latency, and quality-control requirements.
 - Agent-native prototypes can start as configured conversations, but durable products still need stable memory, permission boundaries, and deterministic pieces when repeated work becomes clear.
 - For non-technical users, agent-native software can reveal the programmatic structure behind work: chat becomes the surface for routines, state, memory, and tool execution.
+- Agent-native enterprise software may need to capture why decisions were made, who objected, what constraints mattered, and which approvals shaped the outcome, not only the final structured record.
+- Persistent, real-time systems can matter because agents may need to stay online, react to events, and maintain state rather than operate as one-shot assistants.
 
 ## Connections
 - [[OpenClaw]] — source example of an agent-native product form.
@@ -47,3 +51,4 @@ Agent-native software is software whose core substrate is an agent rather than a
 - [[TokenDrivenSoftware]], [[GeneratedWorkInterfaces]], and [[ModelRoutingCostControl]] — Vol. 170's dynamic-interface and cost-control extension.
 - [[IMAgentInterfaces]], [[HermesAgent]], [[PersistentAgentMemory]], and [[AISkills]] — configured personal-agent prototype layer added by Vol. 167.
 - [[AgenticSoftware]], [[AtomicCapabilityServices]], and [[TencentMeeting]] — Vol. 164's broader software-architecture frame.
+- [[AIEconomicDiffusion]], [[AIOrganizationDesign]], and [[AgentPermissionBoundaries]] — episode 141's workflow, team, and infrastructure redesign frame.

@@ -2,7 +2,7 @@
 title: "AI Equity Valuation Risk"
 type: concept
 tags: [ai, investing, valuation, risk]
-sources: [ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]
+sources: [ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
 last_updated: 2026-07-08
 ---
 
@@ -15,6 +15,8 @@ AI equity valuation risk is the frame for public-market AI leaders whose busines
 [[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]] adds the long-cycle version of the same risk. The episode is structurally optimistic about AI as a possible sixth [[KondratievCycle]] technology, but its [[TechnologyInstallationCycle]] framing leaves room for an early installation-stage bubble break before broad deployment and productivity absorption are complete.
 
 [[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]] adds the hyperscaler capex version. [[JoshRoberts]] says investors are no longer only rewarding AI-spending announcements; they are asking whether [[Alphabet]], [[Amazon]], [[Meta]], and [[Microsoft]] can earn sufficient returns on a planned $660bn combined AI investment. The source turns valuation risk into [[AIBubbleHedging]]: a bubble can form around real technology, so the investment question becomes how to stay exposed without depending on every high-expectation AI stock working.
+
+[[141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]] adds [[Freda]]'s free-cash-flow and capital-rotation version. The source treats [[OpenAI]] and [[Anthropic]] revenue as important market signals, but worries that hyperscaler capex curves, off-balance-sheet commitments, and long-term contracts could pressure free cash flow before terminal AI revenue is fully visible. It also argues that eventual large AI IPOs could redirect capital from existing mega-cap technology stocks.
 
 ## Key Claims
 - "AI will change the world" and "this stock is attractive at this price" are separate claims.
@@ -30,6 +32,8 @@ AI equity valuation risk is the frame for public-market AI leaders whose busines
 - Improving AI business metrics reduce one kind of bubble skepticism but do not remove entry-price, duration, financing, or capex-ROI risk.
 - A technology can be the right long-cycle theme and still be the wrong near-term asset price if investors discount mature deployment during the installation stage.
 - Hyperscaler AI capex can support the AI-infrastructure thesis while also becoming the risk if markets doubt eventual returns.
+- Model-company revenue growth can validate AI demand while still increasing pressure on cloud providers if model companies capture more value than the infrastructure owners.
+- Large AI IPOs may create capital-rotation pressure even if the companies being listed are strong.
 
 ## Connections
 - [[Nvidia]], [[JensenHuang]], [[Microsoft]], [[Google]], and [[Amazon]] — concrete entity cluster from the source.
@@ -41,3 +45,4 @@ AI equity valuation risk is the frame for public-market AI leaders whose busines
 - [[AIInvestmentMetrics]], [[HoloAssets]], [[CAPEXOPEXSubstitution]], and [[HangSengTechIndex]] — E155's business-metric and hard-asset comparison.
 - [[KondratievCycle]], [[TechnologyInstallationCycle]], and [[DepressionDrivenInnovation]] — E162's long-wave and installation-stage qualification.
 - [[Alphabet]], [[Amazon]], [[Meta]], [[Microsoft]], and [[AIBubbleHedging]] — hyperscaler capex and portfolio-response frame added by The Intelligence episode.
+- [[Freda]], [[AltimeterCapital]], [[AIEconomicDiffusion]], and [[AIInvestmentMetrics]] — episode 141's revenue, capex, free-cash-flow, and IPO-rotation extension.

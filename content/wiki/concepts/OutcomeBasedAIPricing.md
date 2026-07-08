@@ -2,7 +2,7 @@
 title: "Outcome-Based AI Pricing"
 type: concept
 tags: [ai, pricing, enterprise-ai]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou]
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
 last_updated: 2026-07-08
 ---
 
@@ -14,6 +14,8 @@ Outcome-based AI pricing is the commercial pattern where AI work is sold around 
 
 [[e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou]] gives this pricing logic a sharper name through [[ResultAsAService]]. [[ZhangShaofeng]] argues that seat licenses weaken when buyers can purchase completed work from [[AIStaffing]] providers or hand an entire process to AI BPO.
 
+[[141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]] adds a token-economics reason for the same shift. [[Freda]] argues that token billing can misalign incentives when customers want solved cases, converted leads, collected payments, or completed reviews. In measurable domains such as customer service, charging for resolved outcomes can make model efficiency and customer value clearer than charging for token volume.
+
 ## Key Claims
 - The source gives three pricing patterns: charge against standard-employee-equivalent output, charge by work volume or hours, or charge a service fee based on transaction scale.
 - Outcome pricing lowers the buyer's upfront risk because the customer can stop if results are poor rather than absorbing a large custom-project sunk cost.
@@ -22,6 +24,7 @@ Outcome-based AI pricing is the commercial pattern where AI work is sold around 
 - It still requires measurable acceptance criteria, quality controls, compliance boundaries, and real workflow integration; otherwise the outcome cannot be trusted.
 - Agent execution traces may become part of pricing defensibility because they show what work was performed, corrected, and accepted.
 - E225 adds that RaaS can be priced by role, piece, hour, transaction, or outsourced process, making labor budgets and service budgets more relevant comparators than software-seat budgets.
+- Episode 141 adds that outcome pricing can be a response to [[TokenMaxxing]]: customers care about solved work, not maximum token generation.
 
 ## Connections
 - [[BairongIntelligence]] and [[ZhangShaofeng]] — source company and speaker.
@@ -31,3 +34,4 @@ Outcome-based AI pricing is the commercial pattern where AI work is sold around 
 - [[AICommercializationPressure]] — broader pressure to turn AI capability into sustainable revenue.
 - [[OpenClaw]], [[DigitalEmployees]], [[LocalAgentExecution]], and [[AgentPermissionBoundaries]] — OpenClaw-inspired case where work delegation creates pricing and control questions.
 - [[ResultAsAService]], [[AIStaffing]], and [[EnterpriseAgentStore]] — E225's named commercial extensions.
+- [[TokenMaxxing]] and [[AIInferenceCostStructure]] — usage-based AI economics that make outcome pricing attractive where results are measurable.

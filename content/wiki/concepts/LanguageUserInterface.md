@@ -2,7 +2,7 @@
 title: "Language User Interface"
 type: concept
 tags: [ai, software-design, interfaces]
-sources: [e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]
+sources: [e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
 last_updated: 2026-07-08
 ---
 
@@ -14,6 +14,8 @@ The concept does not imply that visual interfaces disappear. It shifts the entry
 
 [[133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]] adds an important boundary through [[XieSaining]]. He treats language as a powerful interface for [[MultimodalIntelligence]], but argues that language is not the whole world and should not be mistaken for the full substrate of thought, decision, action, or [[WorldModels]].
 
+[[141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]] adds a social boundary through [[HumanConnectionUnderAI]]. If language becomes the interface for retrieving knowledge and operating software, human-to-human language may become less valuable for transmitting public information and more valuable for building trust, sharing emotion, and making another person's inner path legible.
+
 ## Key Claims
 - Traditional software stickiness partly came from users learning a product's UI and workflow.
 - If an agent can operate the workflow from natural language, GUI familiarity becomes a weaker moat.
@@ -21,6 +23,7 @@ The concept does not imply that visual interfaces disappear. It shifts the entry
 - Enterprise software know-how can become explicit in [[AISkills]], reducing the advantage of hidden workflow knowledge.
 - Human-facing UI remains useful for review, trust, correction, and presentation after the agent has performed the task.
 - Language can make visual and physical AI easier to operate, but over-relying on language may flatten continuous perception and action into token sequences that lose world structure.
+- The rise of language interfaces can reduce the value of information-only meetings while increasing the value of sincere relational conversation.
 
 ## Connections
 - [[HeadlessSoftware]] and [[AgentFacingInterfaces]] — architecture needed when agents operate software directly.
@@ -28,3 +31,4 @@ The concept does not imply that visual interfaces disappear. It shifts the entry
 - [[AISkills]] and [[ModelContextProtocol]] — procedure and connectivity layers that make language-driven operation practical.
 - [[HumanJudgmentUnderAI]] — review remains necessary even when language becomes the front door.
 - [[XieSaining]], [[MultimodalIntelligence]], and [[WorldModels]] — boundary case where language is an interface rather than the complete intelligence route.
+- [[HumanConnectionUnderAI]] and [[HumanAgentCollaboration]] — episode 141's distinction between language as tool interface and language as human connection.

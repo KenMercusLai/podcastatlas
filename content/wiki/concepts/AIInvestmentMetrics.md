@@ -2,7 +2,7 @@
 title: "AI Investment Metrics"
 type: concept
 tags: [ai, investing, metrics]
-sources: [e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]
+sources: [e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
 last_updated: 2026-07-08
 ---
 
@@ -10,10 +10,13 @@ last_updated: 2026-07-08
 
 AI investment metrics are the [[Mianji]] E155 framework for replacing broad "AI bubble" arguments with observable business and infrastructure signals. The episode argues that generative AI should not be evaluated only through mobile-internet metrics such as MAU, DAU, time spent, or DAU/MAU stickiness. It proposes a loop: CAPEX improves model capability, better models increase tokens, token demand turns into paid usage, and the result should appear in ARR, contract liabilities, deferred revenue, or AI-native revenue.
 
+[[141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]] adds [[Freda]]'s public/private-market version. It sharpens token metrics through [[TokenMaxxing]]: raw token volume should be normalized by task completion, model quality, hidden reasoning cost, dollar-per-token, and revenue per unit of constrained compute. The source also warns that reported model-company ARR may not be comparable when companies use different run-rate, gross/net, and time-window conventions.
+
 [[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]] adds a longer-cycle boundary around these metrics. It treats AI as a possible sixth [[KondratievCycle]] technology and as a continuation of the information revolution, while warning through [[TechnologyInstallationCycle]] that early installation-stage demand can coexist with bubble risk and uneven deployment.
 
 ## Key Claims
 - Tokens are a leading operational indicator when they reflect real production use rather than benchmark gaming or vanity traffic.
+- Token-per-task and dollar-per-token matter because the same visible task can consume very different amounts of model output, hidden reasoning, repair work, and compute.
 - CAPEX matters because model training, inference capacity, data centers, energy, chips, and storage are prerequisites for stronger models and reliable service.
 - Contract liabilities and deferred revenue matter because annual subscriptions and enterprise contracts can show whether users are committing cash before revenue is fully recognized.
 - ARR matters because it tests whether usage converts into recurring commercial value.
@@ -21,8 +24,10 @@ AI investment metrics are the [[Mianji]] E155 framework for replacing broad "AI 
 - AI-native revenue should be distinguished from ordinary revenue lift caused by existing businesses adding AI features.
 - The framework connects operating metrics to market risk: strong business indicators can coexist with poor entry prices under [[AIEquityValuationRisk]].
 - Long-cycle importance does not make near-term metrics optional; it changes the question from whether AI matters to whether current spending, usage, revenue, and price are synchronized.
+- Reported ARR and revenue run-rate figures need source-specific interpretation before comparing frontier model companies.
 
 ## Connections
+- [[TokenMaxxing]] and [[AIEconomicDiffusion]] — episode 141's token-efficiency and productivity-absorption extensions.
 - [[JevonsParadoxInAI]] — lower token cost can expand total token demand.
 - [[AIInferenceCostStructure]] and [[MaaSInfrastructure]] — serving costs and capacity determine whether token growth is economically useful.
 - [[CAPEXOPEXSubstitution]] — explains why companies may accept high CAPEX if it lowers future OPEX or raises future revenue.

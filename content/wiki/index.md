@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [141. Freda的投资札记第2集：Tokenmaxxing、把电机塞进蒸汽机、接力赛变篮球赛、孤独、人的连接](sources/141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m.md) — 张小珺Jùn｜商业访谈录 episode with Freda on tokenmaxxing, token-per-task economics, model-company revenue, coding-agent competition, software revaluation, AI economic diffusion, organization redesign, AI investment research, hyperscaler capex risk, Silicon Valley anxiety, and human connection under AI.
 - [139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射](sources/139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no.md) — 张小珺Jùn｜商业访谈录 episode with Su Yu on agent technical history, Memory + Autonomy, Language Agents, OpenClaw Moment, Universal Digital Agents, continual learning, world models, specialization, GUI/CLI boundaries, and agent social impact.
 - [138. 对罗福莉3.5小时访谈：AI范式已然巨变！OpenClaw、Agent范式很吃后训练、卡的分配、组织平权](sources/138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf.md) — 张小珺Jùn｜商业访谈录 episode with Luo Fuli on OpenClaw/OpenCloud, agent post-training, Agent RL, Memo VR, 1T-scale models, compute allocation, model architecture, and flat AI organization design.
 - [137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的](sources/137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb.md) — 张小珺Jùn｜商业访谈录 episode with Hong Letong on AI for Math, Axiom, Lean, auto-formalization, theorem proving, AI mathematicians, Putnam, formal verification, and math as code.
@@ -155,6 +156,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Freda / Friday](entities/Freda.md) — Bay Area investor and Altimeter Capital partner discussing token economics, model-company competition, software revaluation, AI organization redesign, market risk, and human connection under AI.
+- [Altimeter Capital](entities/AltimeterCapital.md) — Public/private-market investment firm context for Freda's AI investment analysis across model companies, software, infrastructure, capex, and IPO/capital-rotation risk.
 - [Su Yu / 苏煜](entities/SuYu.md) — Ohio State professor and Neo Cognition founder discussing agent technical history, Language Agents, OpenClaw Moment, continual learning, world models, and specialized intelligence.
 - [Neo Cognition](entities/NeoCognition.md) — Agent research lab founded by Su Yu around specialized intelligence and fast agent learning inside concrete domains, jobs, and environments.
 - [Luo Fuli / 罗福莉](entities/LuoFuli.md) — Xiaomi large-model team lead discussing OpenClaw/OpenCloud, Memo VR, agent post-training, Agent RL, compute allocation, and flat model-team organization.
@@ -868,6 +871,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, and Louis Hong episodes.
 
 ## Concepts
+- [Token Maxxing](concepts/TokenMaxxing.md) — AI usage-growth frame that separates gross token volume from token-per-task, dollar-per-token, reasoning-token cost, model quality, and business outcome.
+- [AI Economic Diffusion](concepts/AIEconomicDiffusion.md) — Gap between model capability becoming available and organizations redesigning workflows, software, roles, and incentives enough to convert AI into productivity.
+- [Human Connection Under AI](concepts/HumanConnectionUnderAI.md) — Claim that as AI automates more informational exchange, human conversation becomes more valuable for emotional connection, shared experience, trust, and sincerity.
 - [Language Agent](concepts/LanguageAgent.md) — Post-ChatGPT agent paradigm where language scaffolds perception, reasoning, planning, tool use, and action.
 - [OpenClaw Moment](concepts/OpenClawMoment.md) — Interaction-form shock where OpenClaw made permissioned, always-on, personal agents newly legible.
 - [Universal Digital Agent](concepts/UniversalDigitalAgent.md) — Convergence target where web, desktop, mobile, coding, and computer-use agent boundaries dissolve across digital tasks.

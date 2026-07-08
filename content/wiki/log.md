@@ -748,6 +748,10 @@ Added source page for a 面基 episode on dynamic efficient frontier, asset allo
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-08] ingest | 141. Freda的投资札记第2集：Tokenmaxxing、把电机塞进蒸汽机、接力赛变篮球赛、孤独、人的连接
+
+Added source page for a 张小珺Jùn｜商业访谈录 episode with Freda on tokenmaxxing, token-per-task and dollar-per-token metrics, model-company revenue and ARR interpretation, Codex/Claude Code competition, software and cloud-company revaluation, AI economic diffusion, organization redesign from relay-style handoffs to small fluid teams, AI investment research agents, hyperscaler capex and free-cash-flow risk, Silicon Valley anxiety, and human connection under AI. Created pages for Freda / Friday, Altimeter Capital, Token Maxxing, AI Economic Diffusion, and Human Connection Under AI; updated overview, index, Zhang Xiaojun Commercial Interviews, AI Investment Metrics, AI Inference Cost Structure, Outcome-Based AI Pricing, Agent Native Software, AI Organization Design, Technology Installation Cycle, AI Investment Research, Model Provider Tool Competition, AI Equity Valuation Risk, Human-Agent Collaboration, and Language User Interface. No direct contradiction found; the source extends existing AI investing and agent-software themes while warning that company financial figures should be independently verified before being treated as current market facts.
+
 ## [2026-07-08] ingest | 139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射
 
 Added source page for a 张小珺Jùn｜商业访谈录 episode on Su Yu, agent technical history, Memory + Autonomy, logical/neural/language agents, semantic parsing, OpenClaw Moment, computer-use agents, Universal Digital Agents, continual learning, world models, specialized intelligence, GUI/CLI boundaries, and agent social impact. Created pages for Su Yu / 苏煜, Neo Cognition, Language Agent, OpenClaw Moment, Computer Use Agent, Universal Digital Agent, Continual Learning, Specialized Intelligence, Memory-Autonomy Framework, and Semantic Parsing; updated overview, index, Zhang Xiaojun Commercial Interviews, OpenClaw, Agent Harness, World Models, Persistent Agent Memory, and Agent-Facing Interfaces. No direct contradiction found; the source qualifies headless/CLI narratives by arguing GUI remains important for verification, trust, audit, and existing business logic.
@@ -1079,6 +1083,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] ingest | 138. 对罗福莉3.5小时访谈：AI范式已然巨变！OpenClaw、Agent范式很吃后训练、卡的分配、组织平权
 
 Added source page for a 张小珺Jùn｜商业访谈录 episode on Luo Fuli, Xiaomi's Memo VR models, OpenClaw/OpenCloud as agent frameworks, agent post-training, Agent RL, training compute allocation, long-context and multimodal architecture, model-harness co-evolution, skills as organizational knowledge, and flat model-team organization. Created pages for Luo Fuli / 罗福莉, Memo VR, Agent Post-Training, Agent RL, Training Compute Allocation, and Agent-Optimized Model Architecture; updated overview, index, Zhang Xiaojun Commercial Interviews, Xiaomi, DeepSeek, Alibaba, OpenClaw, OpenCloud, Agent Harness, Model Harness Co-Evolution, Agent Self-Evolution, AI Organization Design, Frontier Model Scaling, AI Skills, Research Taste, Long-Horizon AI, ML Coding, Model Workflow Fit, and Multi-Agent Collaboration. No direct contradiction found; the source strengthens the wiki's agent thread by moving it from product experience into model training, rollout infrastructure, compute allocation, and organization design.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-08] lint | Wiki health check
 

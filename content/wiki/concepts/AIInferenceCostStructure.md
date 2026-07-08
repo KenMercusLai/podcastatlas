@@ -2,7 +2,7 @@
 title: "AI Inference Cost Structure"
 type: concept
 tags: [ai, economics, infrastructure]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, eric-ries-on-how-founders-quietly-lose-their-company, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, eric-ries-on-how-founders-quietly-lose-their-company, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
 last_updated: 2026-07-08
 ---
 
@@ -34,6 +34,8 @@ AI inference cost structure is the idea that large-model services incur meaningf
 
 [[e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]] adds [[JevonsParadoxInAI]] as the demand response to falling token cost. The source argues that cheaper tokens can increase total consumption because users run more rounds, agents execute more steps, and more workflows move into production. It therefore treats token growth as both an adoption signal and a cost/infrastructure stress signal inside [[AIInvestmentMetrics]].
 
+[[141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]] adds the investor-facing [[TokenMaxxing]] correction. [[Freda]] argues that total token consumption must be decomposed into users, tasks per user, token per task, and dollar per token. Agent workflows can raise total consumption while model and workflow optimization reduce waste, so raw token growth is neither pure value nor pure bubble by itself.
+
 ## Key Claims
 - Token generation, GPU capacity, electricity, storage, and infrastructure procurement make AI usage costly at scale.
 - Free growth is harder when user growth directly increases inference load.
@@ -56,6 +58,7 @@ AI inference cost structure is the idea that large-model services incur meaningf
 - Heavy personal and enterprise agent use makes cost visible even before a direct bill arrives, because API prices, subscription limits, task decomposition, and alternative services change actual workflow choices.
 - Published model prices are not enough for users: actual cost depends on the task, version behavior, latency, quota, and how much verification or repair a model induces.
 - Lower per-token cost can increase total token demand when agents and applications expand the number of calls.
+- Token-per-task matters because visible output length, hidden reasoning tokens, model retries, and verification work can differ sharply across models completing the same task.
 
 ## Connections
 - [[AICommercializationPressure]] — broader business pressure created by high model costs.
@@ -78,3 +81,4 @@ AI inference cost structure is the idea that large-model services incur meaningf
 - [[Codex]], [[ClaudeCode]], [[DeepSeek]], [[Cloudflare]], and [[ModelRoutingCostControl]] — heavy-user cost and substitution case added by Vol. 167.
 - [[Gemini]], [[Amazon]], [[Anthropic]], [[MaaSInfrastructure]], and [[AISubscriptionEconomics]] — model-version cost testing, cloud-chip binding, and pricing case added by Vol. 162.
 - [[JevonsParadoxInAI]], [[AIInvestmentMetrics]], and [[HumanResourceDeflationComputeInfrastructureInflation]] — E155's efficiency-to-demand and investment-metric extension.
+- [[TokenMaxxing]], [[Freda]], and [[AIInvestmentMetrics]] — episode 141's decomposition of token growth into users, tasks, token efficiency, and price.
