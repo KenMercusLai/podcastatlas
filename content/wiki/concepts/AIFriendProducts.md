@@ -2,8 +2,8 @@
 title: "AI Friend Products"
 type: concept
 tags: [ai, companions, agents]
-sources: [130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty]
-last_updated: 2026-07-08
+sources: [130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew]
+last_updated: 2026-07-09
 ---
 
 # AI Friend Products
@@ -14,12 +14,16 @@ The source treats emotional and practical value as hard to separate. An agent th
 
 [[135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty]] adds [[EVE]] as a companion/product case and [[Elys]] as a contrast. [[Tristan]] describes EVE as more like "a person" and Elys as more like "a field": the first creates virtual companionship, while the second uses AI as a social intermediary that routes back to real people.
 
+[[zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew]] makes the companion side more concrete. [[EVE]] is designed around long-term "super alignment" rather than roleplay alone: [[AICompanionActiveMemory]], real-world temporal awareness, independent persona, proactive interaction, game progression, and emotional post-training all support the feeling that the AI is living alongside the user.
+
 ## Key Claims
 - AI friends differ from ordinary tools because users may attribute persistence, individuality, memory, or relationship value to them.
 - AI companionship has demand, but open-ended chat can have high entry cost, weak monetization, and limited character growth.
 - Game structure can make companion relationships easier to enter, pay for, and update.
 - Productivity agents such as [[Docky]] can also become friend-like if they repeatedly help with personally meaningful capability gaps.
 - Companion products and social products can share memory and emotional design, but differ in whether the AI itself is the relationship object or the bridge to human relationships.
+- For virtual companions, relationship cold start can be a product design problem: users may need onboarding, tasks, unlocks, and shared events before the AI has enough context to feel aligned.
+- Time spent is not enough to prove companionship; the product has to create continuity, recall, and real-life relevance rather than only interactive content consumption.
 
 ## Connections
 - [[ZhangYueguang]] — source speaker using the AI-friend frame.
@@ -28,3 +32,4 @@ The source treats emotional and practical value as hard to separate. An agent th
 - [[HumanAgentCollaboration]], [[AICoworkers]], and [[CompanionRobots]] — adjacent ways AI systems become persistent social or working counterparts.
 - [[EmotionalInteractionModels]] and [[ProductLedWillingnessToPay]] — emotional value and payment logic behind companion products.
 - [[EVE]], [[Elys]], [[AISocialNetworks]], and [[CyberAvatars]] — Natural Selection's companion-to-social contrast.
+- [[AICompanionActiveMemory]], [[ProactiveAgents]], and [[ContextEngineering]] — mechanisms that make companion behavior feel continuous and situated.

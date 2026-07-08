@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [这可能才是 AI 陪伴真正该有的样子｜对谈刷屏产品 EVE 创始人 Tristan](sources/zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew.md) — 42章经 episode with Tristan on EVE as a long-term AI companion built from active memory, emotional post-training, real-world temporal awareness, proactive interaction, 3D presence, game progression, and companion-product economics.
 - [一个 AI 创始人的虚荣心、装，和愚昧之巅｜对谈 invoko.ai 创始人梦琪](sources/yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f.md) — 42章经 episode with Mengqi on invoko.ai's pivot from vertical Agents and 2B growth tooling toward Clico, founder ego, product experience, Reddit user research, token economics, and the limits of AI software narratives.
 - [关于 AI、开源、商业化与全球化的经验、教训和方法论 | 对谈 PingCAP CTO 东旭](sources/guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5.md) — 42章经 episode with PingCAP CTO Dongxu on TiDB, open-source infrastructure trust, cloud-service commercialization, founder-led globalization, and AI-era data/memory infrastructure.
 - [AI 时代的超级入口还是手机吗？｜ S10E17](sources/ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731.md) — What's Next｜科技早知道 episode with Han Boxiao and Chen Yiqiang on smartphones as AI hubs, vivo/MediaTek chip co-design, foldable productivity, on-device AI, NPU scheduling, and edge-cloud boundaries.
@@ -239,7 +240,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nintendo](entities/Nintendo.md) — Console company comparison for physical-media resilience and industry-wide digital distribution pressure.
 - [Stop Killing Games](entities/StopKillingGames.md) — Player-rights movement referenced as context for service shutdown, deletion, and game-preservation concerns.
 - [朱宁 / Zhu Ning](entities/ZhuNing.md) — Economist and behavioral-finance scholar explaining bubble conditions, AI valuation risk, and consequence-first investing discipline.
-- [42章经](entities/42Zhangjing.md) — Podcast/show context for interviews on Zhu Ning's bubble/investing framework and Dongxu's PingCAP infrastructure-company method.
+- [42章经](entities/42Zhangjing.md) — Podcast/show context for interviews on investing bubbles, PingCAP infrastructure, AI application pivots, and EVE-style AI companionship.
 - [United States](entities/UnitedStates.md) — Country and institutional context connecting democratic resilience, immigration, cultural exports, NATO credibility, U.S.-Iran diplomacy, World Cup hosting, and Venezuela recovery responsibility.
 - [Supreme Court](entities/SupremeCourt.md) — U.S. judicial institution used in the America-at-250 source as both democratic guardrail and possible executive-power precedent maker.
 - [Robert Guest](entities/RobertGuest.md) — The Intelligence panelist giving the more optimistic account of American democratic resilience, assimilation, and cultural durability.
@@ -394,10 +395,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Putnam Competition](entities/PutnamCompetition.md) — Mathematics competition used as a benchmark in the source's Axiom Prover story.
 - [AlphaGeometry](entities/AlphaGeometry.md) — AI geometry-solving system used as a reference point for non-human styles of mathematical reasoning.
 - [AlphaProof](entities/AlphaProof.md) — Google DeepMind AI-for-math system used as a comparison point for Axiom's theorem-proving route.
-- [Tristan](entities/Tristan.md) — Natural Selection founder connecting AI companionship, Elys, cyber avatars, context, subjectivity, and proactive AI social products.
-- [Natural Selection / 自然选择](entities/NaturalSelection.md) — AI product company behind EVE and Elys, focused on loneliness, emotional value, context, and human-AI coexistence.
+- [Tristan](entities/Tristan.md) — Natural Selection founder connecting AI companionship, active memory, Elys, cyber avatars, context, subjectivity, and proactive AI social products.
+- [Natural Selection / 自然选择](entities/NaturalSelection.md) — AI product company behind EVE and Elys, focused on loneliness, emotional value, active memory, context, and human-AI coexistence.
 - [Elys](entities/Elys.md) — Natural Selection AI social product where cyber avatars carry user context, pre-interact, and return valuable real-person connections.
-- [EVE](entities/EVE.md) — Natural Selection AI game/companion product growing from the Project Her idea of a memory-bearing, interactive AI companion.
+- [EVE](entities/EVE.md) — Natural Selection AI game/companion product using active memory, emotional post-training, real-world awareness, 3D interaction, and relationship progression.
 - [Yao Shunyu / 姚顺宇](entities/YaoShunyu.md) — AI researcher and former physicist interviewed about Anthropic, Google DeepMind, long-horizon AI, ML Coding, and reliable frontier-model organization work.
 - [Catalina Crunch](entities/CatalinaCrunch.md) — Low-sugar, high-protein cereal and snack company founded by Krishna Kaliannan.
 - [Krishna Kaliannan](entities/KrishnaKaliannan.md) — Catalina Crunch founder whose diabetes, epilepsy, and keto eating shaped the product thesis.
@@ -847,7 +848,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [ByteDance](entities/ByteDance.md) — Company behind TikTok, Doubao, and Seedance, discussed through short-video globalization, data-driven product culture, AI cost pressure, video capability, and AI-for-math signals.
 - [Cang Shifu](entities/CangShifu.md) — AI practitioner and creator discussing CLI workflows, skills, Code Pilot, and hands-on agent use.
 - [Caroline Buck](entities/CarolineBuck.md) — Petaluma founder asking how to explain plant-based dog food without triggering backlash.
-- [Character AI](entities/CharacterAI.md) — Character-chat product referenced as an AI-as-interaction-object example and as a companion-chat commercialization caution.
+- [Character AI](entities/CharacterAI.md) — Character-chat product referenced as an AI-as-interaction-object example, companion-chat commercialization caution, and EVE contrast case.
 - [China Securities Regulatory Commission](entities/ChinaSecuritiesRegulatoryCommission.md) — Chinese securities regulator discussed through A-share supervision, market warnings, price limits, and off-market financing cleanup.
 - [ChatGPT](entities/ChatGPT.md) — AI assistant/search surface monitored by Peak AI and discussed through memory, mobile use, design work, and remote-agent control.
 - [Chen Jingchu](entities/ChenJingchu.md) — Serial builder and hackathon contestant arguing that building public is an AI-era product and distribution lever.
@@ -1390,6 +1391,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Data Pricing In AI](concepts/DataPricingInAI.md) — Pricing frame where data value rises with customization, feedback quality, evaluation value, and embodied trajectory usefulness.
 - [AI Native Product Design](concepts/AINativeProductDesign.md) — Product-design shift from deterministic user-flow design toward model context, open input/output, and mixed product-design-engineering exploration.
 - [One Way Door Product](concepts/OneWayDoorProduct.md) — Product adoption standard where a new solution makes users unwilling to return to the old workflow.
+- [AI Companion Active Memory](concepts/AICompanionActiveMemory.md) — Companion memory pattern where stored user context is actively reflected, merged, recalled, and surfaced at emotionally relevant moments.
 - [AI Friend Products](concepts/AIFriendProducts.md) — AI products treated as individual-like companions or collaborators rather than only tools or services.
 - [AI Otome Games](concepts/AIOtomeGames.md) — Female-oriented AI companion-game direction combining authored IP, daily interaction, relationship progression, and game monetization.
 - [Career Shore Myth](concepts/CareerShoreMyth.md) — Career-stability frame warning against treating a prestigious system or large company as a permanent "上岸" destination.
@@ -1615,7 +1617,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Local Agent Execution](concepts/LocalAgentExecution.md) — Agent execution against local files, apps, devices, and desktop workflows, with strong value and permission tradeoffs.
 - [Proof Point Reuse](concepts/ProofPointReuse.md) — Marketing practice of turning PR, UGC, validation, testimonials, reorders, and science into repeated proof across channels.
 - [Private Label Brand Risk](concepts/PrivateLabelBrandRisk.md) — CPG risk where retailer-owned volume can weaken margin, brand memory, and category ownership.
-- [AI Startup Unit Economics](concepts/AIStartupUnitEconomics.md) — AI founder checklist tying demand to marginal model cost, payment tolerance, market ceiling, and survival runway.
+- [AI Startup Unit Economics](concepts/AIStartupUnitEconomics.md) — AI founder checklist tying demand to marginal model cost, experience quality, payment tolerance, market ceiling, and survival runway.
 - [Cross-Cultural User Research](concepts/CrossCulturalUserResearch.md) — Product research practice for studying language, culture, identity, payment, and design-execution differences across markets.
 - [Middle East Social Game Growth](concepts/MiddleEastSocialGameGrowth.md) — Localized game-social growth pattern combining atmosphere supply, high-value users, anonymity, acquisition, and paid gifts.
 - [Lifestyle Cost Rationalization](concepts/LifestyleCostRationalization.md) — Practice of preserving comfort and purpose while replacing status-heavy purchases with lower-cost variants.

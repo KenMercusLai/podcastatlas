@@ -1391,3 +1391,11 @@ Added source page for a 42章经 episode with Mengqi on invoko.ai's pivot from v
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-09] ingest | 这可能才是 AI 陪伴真正该有的样子｜对谈刷屏产品 EVE 创始人 Tristan
+
+Added source page for a 42章经 episode with Tristan on EVE as a long-term AI companion rather than Character.AI-style roleplay. Created AI Companion Active Memory; updated overview, index, 42章经, Tristan, Natural Selection, EVE, Character AI, AI Friend Products, Persistent Agent Memory, Proactive Agents, Emotional Interaction Models, AI Native Product Design, and AI Startup Unit Economics. No direct contradiction found; the source strengthens the AI-companion branch by showing how active memory, emotional post-training, real-world timing, game progression, 3D presence, and payment surfaces all shape whether companionship becomes durable rather than only interactive content.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

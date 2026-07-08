@@ -2,8 +2,8 @@
 title: "Proactive Agents"
 type: concept
 tags: [agents, productivity, product-design]
-sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty]
-last_updated: 2026-07-08
+sources: [20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew]
+last_updated: 2026-07-09
 ---
 
 # Proactive Agents
@@ -20,6 +20,8 @@ Proactive agents are agents that help before the user fully specifies a task. In
 
 [[135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty]] adds [[Elys]] as an AI-social-network case. [[Tristan]] argues that the main interaction change in AI products is proactivity: [[CyberAvatars]] should face the social world on the user's behalf, pre-interact with other avatars, and bring back connections that are worth the user's attention.
 
+[[zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew]] adds [[EVE]] as a companion case. Proactivity here is not task execution or social matching, but relationship presence: the AI can send voice messages, call the user, bring up recent events, push timely memes, or ask about a goal from months earlier when [[AICompanionActiveMemory]] makes the moment relevant.
+
 ## Key Claims
 - Proactivity is only useful when it is grounded in context; otherwise it risks becoming interruption or generic notification.
 - The product must calibrate how much initiative to take, from subtle autocomplete to explicit meeting-prep prompts to longer-horizon research help.
@@ -31,6 +33,7 @@ Proactive agents are agents that help before the user fully specifies a task. In
 - Social proactivity needs extra caution because an agent acting inside human communities can quickly cross norms around authenticity, attention, and spam.
 - Scheduled wakeups are a minimal proactivity mechanism, but they become useful only when tied to durable memory, tools, and permissions.
 - In social products, proactivity must be judged by whether it improves real human connection rather than merely creating more automated comments or messages.
+- In companion products, proactivity must be judged by whether it feels like care and shared life rather than interruption or generic notification.
 
 ## Connections
 - [[HumanAgentCollaboration]] — collaboration improves when the agent can anticipate needs without demanding full prompts.
@@ -42,3 +45,4 @@ Proactive agents are agents that help before the user fully specifies a task. In
 - [[AirJelly]], [[IntentContext]], and [[OSLevelContext]] — AirJelly case where proactivity is grounded in explicit intent and screen/task context.
 - [[IMAgentInterfaces]], [[LocalAgentExecution]], [[YaGe]], and [[Haoda]] — OpenClaw examples of scheduled tasks, social bots, and user-tolerated initiative.
 - [[Elys]], [[AISocialNetworks]], [[CyberAvatars]], and [[ContextFlywheel]] — social-network case where proactive avatars do pre-interaction work.
+- [[EVE]], [[AICompanionActiveMemory]], and [[AIFriendProducts]] — companion case where proactive behavior expresses memory, timing, and relationship state.

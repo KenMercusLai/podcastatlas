@@ -6,6 +6,7 @@ sources:
   - paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78
   - guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5
   - yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f
+  - zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew
 last_updated: 2026-07-09
 ---
 
@@ -19,6 +20,8 @@ The PingCAP episode adds a founder-operator and infrastructure branch through [[
 
 The Mengqi episode adds an AI application-founder branch through [[Mengqi]], [[InvokoAI]], and [[Clico]]. It turns the show's AI/startup thread toward founder ego, vertical Agent drift, model-provider pressure, Reddit-based user research, token economics, and the practical gap between an impressive Agent story and maintained user-facing software.
 
+The EVE episode adds a consumer companion branch through [[Tristan]], [[NaturalSelection]], and [[EVE]]. It connects romance-game production, [[AICompanionActiveMemory]], emotional interaction, real-world temporal awareness, 3D interaction, and game-like monetization into a concrete AI companionship product thesis.
+
 ## Connections
 - [[ZhuNing]] — guest economist in the episode.
 - [[BubbleNecessaryConditions]], [[BehavioralInvestingBiases]], and [[SpeculativeBubblePsychology]] — main behavioral-finance frame.
@@ -28,3 +31,5 @@ The Mengqi episode adds an AI application-founder branch through [[Mengqi]], [[I
 - [[OpenSourceInfrastructureTrust]], [[DatabaseCloudServiceCommercialization]], [[FounderLedSoftwareGlobalization]], and [[AIDataMemoryInfrastructure]] — company-building themes from the PingCAP source.
 - [[Mengqi]], [[InvokoAI]], and [[Clico]] — AI application-founder and product-pivot case.
 - [[FounderEgo]], [[VerticalAgentSaaSification]], [[AIApplicationLayerMoat]], and [[AIStartupUnitEconomics]] — startup lessons from the Mengqi interview.
+- [[Tristan]], [[NaturalSelection]], and [[EVE]] — AI companion-product case.
+- [[AIFriendProducts]], [[AICompanionActiveMemory]], and [[EmotionalInteractionModels]] — companion design themes added by the EVE episode.
