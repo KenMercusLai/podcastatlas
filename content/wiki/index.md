@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？](sources/ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1.md) — LateTalk Q2 2026 AI review with Henry Yin on Codex/Claude Code competition, RSI and Auto Research, enterprise-owned models, Chinese open models, Claude Tag, Record and Replay, real-time voice, and MidJourney's medical-imaging turn.
 - [170: 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人](sources/jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1.md) — LateTalk episode with Chen Zhe Peter on Q2 2026 embodied AI, humanoid marathon performance, Figure logistics sorting, dexterous hands, Cosmos 3, Pi 0.7, Generalist Gen 1, world-model/VLA convergence, and robot commercialization.
 - [全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集](sources/quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec.md) — 乱翻书 episode with Xu Hongliang on ByteDance's growth system, LTV budgeting, automated buying, creative material industrialization, risk control, red-packet incentives, TikTok global growth, and AI-era retention limits.
 - [头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集](sources/touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d.md) — 乱翻书 episode on the 2018 Touteng War and ByteDance/Tencent competition across information feeds, short video, ads, social, games, IP, and AI.
@@ -174,6 +175,16 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [LateTalk](entities/LateTalk.md) — Podcast/show context for the Q2 2026 embodied-intelligence review with Chen Zhe Peter.
+- [Henry Yin](entities/HenryYin.md) — MOE Capital founding partner and LateTalk Q2 2026 AI-review guest connecting coding, RSI, enterprise models, open models, and AI commercialization.
+- [MOE Capital](entities/MOECapital.md) — Investment-firm context for Henry Yin's Q2 2026 AI review on model-company competition and RSI.
+- [GPT-5.6](entities/GPT56.md) — OpenAI frontier model named in the LateTalk AI-quarter source as part of Q2 2026 model and coding-agent competition.
+- [Recursive](entities/Recursive.md) — RSI and Auto Research startup discussed through source-reported NanoChat, NanoGPT speed, and GPU-kernel benchmark results.
+- [Harvey](entities/Harvey.md) — Legal-AI company used as the enterprise-owned-model case with Applied Compute and the GLM model family.
+- [Applied Compute](entities/AppliedCompute.md) — Post-training company in the Harvey legal-domain model case.
+- [Claude Tag](entities/ClaudeTag.md) — Anthropic collaboration surface that lets Slack users assign work to Claude in team channels.
+- [Thinking Machines Lab](entities/ThinkingMachinesLab.md) — Model lab discussed through Interaction Model and full-duplex voice interaction.
+- [Interaction Model](entities/InteractionModel.md) — Thinking Machines Lab model used as the episode's real-time voice and multimodal-interaction case.
+- [MidJourney](entities/MidJourney.md) — AI company discussed through its source-reported move into medical-imaging hardware.
 - [Chen Zhe Peter](entities/ChenZhePeter.md) — AlphaEast investor interpreting Q2 2026 humanoid robots, dexterous hands, world models, VLA routes, and robot commercialization.
 - [AlphaEast](entities/AlphaEast.md) — Investment-firm context for Chen Zhe Peter's embodied-AI market analysis.
 - [Figure AI](entities/FigureAI.md) — Humanoid-robot company discussed through its long logistics-sorting livestream and unresolved autonomy/teleoperation debate.
@@ -1012,6 +1023,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Auto Research](concepts/AutoResearch.md) — AI research-automation loop where models read papers, form hypotheses, write code, run experiments, and analyze results before full RSI.
+- [Enterprise Owned Models](concepts/EnterpriseOwnedModels.md) — Enterprise route of owning or post-training domain models when data, benchmarks, cost, or access constraints make frontier-only use unattractive.
+- [Record and Replay](concepts/RecordAndReplay.md) — Computer-use pattern where human GUI workflows are recorded into repeatable agent skills.
 - [World Model VLA Fusion](concepts/WorldModelVLAFusion.md) — Robot-model route where world models supply future-state prediction and VLA-style systems supply instruction/action generation.
 - [Robot Logistics Sorting](concepts/RobotLogisticsSorting.md) — Early humanoid-robot commercialization wedge around package flipping, label exposure, soft packages, and industrial tail cases.
 - [Dexterous Manipulation](concepts/DexterousManipulation.md) — High-DOF hands, deformable-object handling, retargeting, sensors, and hand-specific data as a robotics bottleneck.

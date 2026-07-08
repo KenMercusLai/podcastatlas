@@ -2,7 +2,7 @@
 title: "Codex"
 type: entity
 tags: [ai-tool, agent, coding]
-sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
+sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
 last_updated: 2026-07-08
 ---
 
@@ -30,6 +30,8 @@ In [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperb
 
 [[136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]] adds Codex as [[OpenAI]]'s main route back into the coding-agent race. The source treats Codex and [[ClaudeCode]] as central to [[AGIThreeActs]], because coding agents can turn model capability into verified digital work and may accelerate AI research itself.
 
+[[ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1]] adds the Q2 2026 comeback version. [[HenryYin]] says users and enterprises moved some work from Claude Code to Codex after Claude quality/pricing friction and OpenAI migration incentives. The source also connects Codex to [[RecordAndReplay]], treating computer-use workflow capture as a way for OpenAI to turn human GUI operations into reusable skills.
+
 ## Episode Notes
 - The guest says he moved more of his usage toward Codex after a version update.
 - He values Codex partly for its GUI, access to ChatGPT history, and better Notion connection success in his workflow.
@@ -44,6 +46,7 @@ In [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperb
 - Vol. 162 adds Codex as the steadier planning/review side of a [[ModelWorkflowFit]] comparison with [[ClaudeCode]] and [[Xcode]].
 - Episode 142 adds Codex as the late-mover counterweight to Claude Code: price, model quality, and product iteration can offset some first-mover harness advantages.
 - Episode 136 adds Codex as OpenAI's coding-agent answer to Anthropic and as part of the source's claim that coding is AGI's second act.
+- The LateTalk source adds Codex as the beneficiary of a Q2 migration wave and as a route into recorded computer-use skills through [[RecordAndReplay]].
 
 ## Connections
 - [[OpenAI]] — company context for Codex.
@@ -58,3 +61,4 @@ In [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperb
 - [[Xcode]], [[ModelWorkflowFit]], and [[ClaudeCode]] — IDE and model-style comparison added by Vol. 162.
 - [[DaiYusen]], [[OpenAI]], [[ClaudeCode]], and [[AgentHarness]] — competitive catch-up and harness-product interpretation added by episode 142.
 - [[AGIThreeActs]], [[ModelAsOperatingSystem]], and [[MLCoding]] — coding-agent and AI-research acceleration interpretation added by episode 136.
+- [[RecordAndReplay]], [[ComputerUseAgent]], [[GPT56]], and [[ModelProviderToolCompetition]] — Q2 2026 comeback and computer-use workflow-capture context added by LateTalk.

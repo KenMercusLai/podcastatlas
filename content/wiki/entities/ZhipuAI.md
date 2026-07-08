@@ -2,7 +2,7 @@
 title: "Zhipu AI"
 type: entity
 tags: [company, ai, open-source-ai, china]
-sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]
+sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]
 last_updated: 2026-07-08
 ---
 
@@ -14,12 +14,15 @@ Zhipu AI is discussed in [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinleng
 
 [[136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]] adds Zhipu AI to the domestic companies moving toward a high-value-task and coding/agent route. The source's point is comparative rather than model-specific: Chinese model companies cannot treat coding and agents as optional if [[AGIThreeActs]] becomes the main competitive path.
 
+[[ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1]] adds a stronger enterprise and U.S.-ecosystem angle. The source says GLM-family models are being used or evaluated in legal-domain post-training through [[Harvey]] and [[AppliedCompute]], and frames [[GLM52]] as part of a Chinese open-model sequence that can substitute for expensive or restricted frontier services.
+
 ## Source Position
 - The episode says Zhipu's messaging emphasized that large-model intelligence should belong to all humanity.
 - The hosts think the release timing looked rushed because API and benchmark materials were not fully ready.
 - They still treat GLM 5.2 as meaningfully improved in practical coding and long-context tests.
 - The GLM5 source position is practical rather than benchmark-oriented: it supports [[AIProgrammingEngineShift]] and [[AIEngineeringThinking]] by showing how fast generated implementation changes the bottleneck.
 - Episode 136 places Zhipu AI inside the domestic shift toward coding, agents, and high-value task automation.
+- The LateTalk source connects Zhipu AI to [[EnterpriseOwnedModels]] and enterprise post-training rather than only general open-model substitution.
 
 ## Connections
 - [[GLM52]] — model release discussed in the episode.
@@ -28,3 +31,4 @@ Zhipu AI is discussed in [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinleng
 - [[AIExportControls]] and [[SaaSReliabilityUnderPolicyRisk]] — policy environment that makes open models more attractive.
 - [[AICommercializationPressure]] — model-company strategy and release-timing pressure.
 - [[Kimi]], [[MiniMax]], [[Doubao]], [[AGIThreeActs]], and [[ModelAsOperatingSystem]] — domestic model-company convergence frame added by episode 136.
+- [[Harvey]], [[AppliedCompute]], and [[EnterpriseOwnedModels]] — Q2 2026 domain post-training route added by LateTalk.

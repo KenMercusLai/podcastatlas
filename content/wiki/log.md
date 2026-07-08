@@ -1248,3 +1248,11 @@ Added source page for a LateTalk episode with Chen Zhe Peter on Q2 2026 embodied
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | 171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？
+
+Added source page for a LateTalk Q2 2026 AI review with Henry Yin on Codex/Claude Code competition, GPT-5.6 and Fable 5, Auto Research, recursive self-improvement, enterprise-owned models, GLM/open-model substitution, Claude Tag in Slack, Record and Replay computer-use workflows, real-time voice, and MidJourney's medical-imaging hardware turn. Created supporting pages for Henry Yin, MOE Capital, GPT-5.6, Recursive, Harvey, Applied Compute, Claude Tag, Thinking Machines Lab, Interaction Model, MidJourney, Auto Research, Enterprise Owned Models, and Record and Replay; updated overview, index, LateTalk, OpenAI, Anthropic, Codex, Claude Code, Fable 5, Cursor, Recursive Self-Improvement, ML Coding, Computer Use Agent, World Models, World Action Models, Open Source AI Models, GLM 5.2, Zhipu AI, Voice Interaction, Model Provider Tool Competition, Agent Harness, AI Investment Metrics, AI Commercialization Pressure, and AI Economic Diffusion. No direct contradiction found; the source is recorded as a Q2 timeline update while preserving the unverified Cursor acquisition claim as source-local.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,7 +2,7 @@
 title: "AGI Three Acts"
 type: concept
 tags: [ai, agents, ai-coding, research]
-sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]
+sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]
 last_updated: 2026-07-08
 ---
 
@@ -12,6 +12,8 @@ AGI Three Acts is the route map in [[136-quanqiu-da-moxing-jibao-di-9-ji-he-guan
 
 The third act connects to [[MLCoding]], [[AIForScience]], [[DiscoveryModel]], and [[RecursiveSelfImprovement]] without assuming fully autonomous self-improvement has already arrived. The source's more conservative version is that coding agents shorten research, data, and experiment loops enough that humans can test more ideas and eventually delegate more AI-research work.
 
+[[ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1]] makes the third act more explicit through [[AutoResearch]] and RSI. It treats coding as both a current revenue/product wedge and the substrate for automated research: agents that write and run experiments can become part of a loop that improves future model training, benchmarks, and tools.
+
 ## Key Claims
 - Chatbots made AI broadly accessible, but left most valuable work inside conversation.
 - Coding agents turn model capability into executable digital work because code has tests, logs, errors, repositories, and reviewable artifacts.
@@ -19,6 +21,7 @@ The third act connects to [[MLCoding]], [[AIForScience]], [[DiscoveryModel]], an
 - The route depends on [[AICodingVerification]], [[ResearchTaste]], and [[ProblemDefinitionInResearch]] because faster generated experiments can still be wrong, irrelevant, or poorly measured.
 - [[AgentHarness]] is part of the second act because agents need environments, tools, permissions, memory, and feedback to do work rather than only answer.
 - The social consequence is [[IntelligenceDevaluation]]: if large portions of knowledge work become executable through agents, junior white-collar and outsourcing work may be repriced.
+- The LateTalk Q2 source adds that coding is also a strategic self-improvement input because model teams can use coding agents to accelerate their own research and engineering loops.
 
 ## Connections
 - [[ChatGPT]] — first-act chatbot and consumer-assistant symbol.
@@ -27,3 +30,4 @@ The third act connects to [[MLCoding]], [[AIForScience]], [[DiscoveryModel]], an
 - [[AgentHarness]], [[ModelHarnessCoEvolution]], and [[AgentPostTraining]] — infrastructure and training loops that make agent work improve models.
 - [[AIProgrammingEngineShift]], [[AICodingVerification]], and [[AIEngineeringThinking]] — coding-work mechanisms and verification constraints.
 - [[ModelAsOperatingSystem]], [[AIInvestmentMetrics]], and [[AICommercializationPressure]] — strategic and investment implications of the route map.
+- [[AutoResearch]], [[GPT56]], [[Fable5]], and [[Recursive]] — Q2 2026 update from LateTalk on the transition from coding to RSI.

@@ -3,6 +3,7 @@ title: "AI Commercialization Pressure"
 type: concept
 tags: [ai, commercialization, strategy]
 sources:
+  - ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1
   - 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v
   - ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun
   - cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun
@@ -59,6 +60,8 @@ AI commercialization pressure is the tension between technical influence, user a
 
 [[quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]] adds the growth-practitioner version through [[Doubao]]. [[XuHongliang]] argues that consumer AI products still need [[AIConsumerGrowthMetrics]], but they cannot rely on paid acquisition the way short-video or free-content apps can when model quality, task value, token cost, and switching cost dominate retention.
 
+[[ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1]] adds the Q2 frontier-lab system version. [[OpenAI]] and [[Anthropic]] are portrayed as competing across model releases, coding-agent products, enterprise migration incentives, team collaboration, access policy, and internal AI-assisted research. [[EnterpriseOwnedModels]] and [[OpenSourceAIModels]] add another pressure: if frontier access is costly or unstable, enterprises may post-train or own domain models instead.
+
 ## Key Claims
 - Open-source reputation alone may not justify sustained high-cost model training.
 - Commercialization pressure can change release timing, model scope, or product boundaries without necessarily ending open source.
@@ -82,6 +85,8 @@ AI commercialization pressure is the tension between technical influence, user a
 - Production robotics faces commercialization pressure because the technical stack includes whole machines, supply chain, data collection, training, AI infrastructure, field deployment, and customer ROI at the same time.
 - Model companies face commercialization pressure because operating-system-scale ambition requires sustained SOTA models, compute supply, product adoption, and high-value workflows rather than consumer traffic alone.
 - Consumer AI growth faces commercialization pressure because more DAU and more time spent can also mean higher inference cost unless retention, pricing, task value, and product differentiation improve together.
+- Frontier labs face commercialization pressure at system level: coding-product share, model access reliability, enterprise channels, internal research acceleration, and user/data capture can matter as much as benchmark rank.
+- Enterprise-owned models can pressure frontier providers when domain data, benchmarks, and post-training make a cheaper or more controllable model good enough for high-value work.
 
 ## Connections
 - [[LargeCompanyOpenSourceStrategy]] — strategic context where the pressure appears.
@@ -105,3 +110,4 @@ AI commercialization pressure is the tension between technical influence, user a
 - [[Xinghaitu]], [[GaoJiyang]], [[EmbodiedAIValueChain]], [[PhysicalWorldDataFlywheel]], and [[ProductionRobotScenarioSelection]] — production-robotics commercialization route added by the Xinghaitu source.
 - [[ModelAsOperatingSystem]], [[AGIThreeActs]], [[AIInvestmentMetrics]], [[TokenMaxxing]], and [[ModelProviderToolCompetition]] — model-platform commercialization route added by episode 136.
 - [[Doubao]], [[ByteDanceGrowthSystem]], [[AIConsumerGrowthMetrics]], [[AIInferenceCostStructure]], and [[LTVBasedGrowthBudgeting]] — consumer-growth and paid-acquisition limits added by the Luanfanshu episode 7 source.
+- [[OpenAI]], [[Anthropic]], [[Codex]], [[ClaudeCode]], [[EnterpriseOwnedModels]], and [[OpenSourceAIModels]] — Q2 2026 system-competition and enterprise-substitution update added by LateTalk.

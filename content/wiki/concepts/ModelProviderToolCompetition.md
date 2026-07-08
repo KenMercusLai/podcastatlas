@@ -2,7 +2,7 @@
 title: "Model Provider Tool Competition"
 type: concept
 tags: [ai, competition, tools, platforms]
-sources: [263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
+sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
 last_updated: 2026-07-08
 ---
 
@@ -22,6 +22,8 @@ Model provider tool competition is the pressure that appears when frontier model
 
 [[263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs]] broadens the pattern from coding to creative tools. The episode uses [[ClaudeCode]], [[Codex]], and [[Cursor]] as the obvious case, then asks whether [[Sora]], [[Adobe]], and [[Meitu]] show a similar pressure in image/video tools: model providers can absorb generic functions, while application companies survive only if they own [[AIApplicationLayerMoat]] and [[VerticalWorkflowAI]].
 
+[[ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1]] adds the Q2 system-competition layer. The source says [[OpenAI]] and [[Anthropic]] are competing through models, coding products, pricing, enterprise migration, collaboration entry points, safety/access policy, and internal research loops at once. Its source-local claim that [[Cursor]] exited into a SpaceX/xAI-linked structure strengthens the page's warning that independent coding tools can be squeezed when official tools improve.
+
 ## Key Claims
 - If a tool's core capability comes from a model provider, official tools can compress the startup's differentiation once the provider enters the workflow directly.
 - Startups can still defend value through interaction design, workflow integration, review surfaces, autocomplete quality, user habits, distribution, and non-LLM product capability.
@@ -37,6 +39,7 @@ Model provider tool competition is the pressure that appears when frontier model
 - Coding tools matter strategically because they give model providers feedback, revenue, and engineering acceleration inside their own organizations.
 - Episode 136 raises coding tools from a product category to a platform-control point: the provider that owns the best coding workflow can earn revenue, gather feedback, accelerate internal research, and pull users toward its model OS.
 - The same pressure can appear in creative software: image and video tool companies need defensibility beyond exposing the current best generation model.
+- Q2 2026 adds a broader system version: provider-owned coding, collaboration, computer-use, and research-automation loops can reinforce one another.
 
 ## Connections
 - [[Cursor]], [[Windsurf]], [[ClaudeCode]], [[GeminiCLI]], and [[Devin]] — coding-tool cases in the source.
@@ -51,3 +54,4 @@ Model provider tool competition is the pressure that appears when frontier model
 - [[Freda]], [[TokenMaxxing]], [[Codex]], and [[ClaudeCode]] — episode 141's query-level routing and coding-agent competition frame.
 - [[AGIThreeActs]], [[ModelAsOperatingSystem]], [[Anthropic]], [[OpenAI]], [[Google]], [[Meta]], and [[XAI]] — platform-level coding-agent competition added by episode 136.
 - [[Sora]], [[Adobe]], [[Meitu]], [[AIApplicationLayerMoat]], and [[VerticalWorkflowAI]] — creative-tool extension added by Luanfanshu.
+- [[GPT56]], [[Fable5]], [[Cursor]], [[ClaudeTag]], and [[RecordAndReplay]] — Q2 2026 system-competition update added by LateTalk.
