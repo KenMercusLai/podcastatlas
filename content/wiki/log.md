@@ -760,6 +760,10 @@ Added source page for a 面基 episode on dynamic efficient frontier, asset allo
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-08] ingest | 266.从红果到AI短剧：谁在革谁的命？
+
+Added source page for a 乱翻书 episode on Hongguo, Douyin, iQIYI, AI short drama, short-drama cost structure, paid-traffic and ad monetization, AI video production workflows, copyright risk, overseas distribution, and long-video platform pressure. Created pages for Hongguo, iQIYI, Gong Yu, Wang Xiaoshu, Xu Wenliang, YouTube, AI Short Drama, Short Drama Economics, AI Video Production Workflow, and Platformized Drama Production; updated overview, index, Luanfanshu, Zhuang Minghao, ByteDance, Douyin, Kuaishou, Seedance, Video Models, AI Interactive Entertainment, AI Content Provenance, AI Super Creators, and AI Content Devaluation. No direct contradiction found; source-provided industry scale, ad-spend, and test-rate claims are recorded as guest observations pending external verification.
+
 ## [2026-07-08] ingest | Musical.ly如何成为 TikTok？PM眼中的字节产品文化和全球化之路｜字节跳动 第5集
 
 Added source page for a 乱翻书 episode with Vanessa on Musical.ly's merger into TikTok, ByteDance product culture, recommendation and safety systems, short-video creation tools, global localization, product-container limits, and AI-era product-method shifts. Created pages for Musical.ly, Vanessa, Alex Zhu, 张楠, Kuaishou, ByteDance FLOW, Data-Driven Product Culture, Recommendation System Productization, Content Ecosystem Governance, Short-Video Creation Tools, Global Product Localization, Product Container, and Non-Consensus Innovation; updated overview, index, ByteDance, TikTok, Douyin, Xiaohongshu, Luanfanshu, Meta, Google, Cross-Cultural Product Design, AI Native Product Design, and AI Organization Design. No direct contradiction found; the source qualifies prior ByteDance/TikTok coverage by adding the mobile-internet operating system behind TikTok rather than treating it as only an algorithm or regulatory story.
@@ -1211,6 +1215,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] ingest | Missing Peace: Will Israel Imperil Iran Deal?
 
 Added source page for a The Intelligence episode on Israel-Hezbollah-Lebanon risk to U.S.-Iran diplomacy, strong El Nino climate risk under global warming, and Japan's imperial succession crisis. Created supporting pages for Israel, Lebanon, Hezbollah, JD Vance, Princess Aiko, Emperor Naruhito, Prince Hisahito, Japanese Imperial Family, U.S.-Iran Nuclear Diplomacy, Proxy Conflict Spoiler Risk, El Nino, El Nino Climate Risk, and Japanese Imperial Succession; updated overview, index, The Intelligence, Iran, Strait of Hormuz, Donald Trump, Japan, Takaichi Sanae, and Climate Adaptation. No direct contradiction found; the geopolitical claims are recorded as episode claims rather than independently verified facts.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-08] lint | Wiki health check
 

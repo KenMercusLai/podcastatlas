@@ -1,8 +1,8 @@
 ---
 title: "Douyin"
 type: entity
-tags: [company, short-video, platform, travel, local-commerce, china]
-sources: [musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, fufei-pianhua-pingtai-de-baoli-dikang-yu-hulianwang-dachang-de-yinxing-shui-1, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]
+tags: [company, short-video, platform, travel, local-commerce, short-drama, china]
+sources: [musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, fufei-pianhua-pingtai-de-baoli-dikang-yu-hulianwang-dachang-de-yinxing-shui-1, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
 last_updated: 2026-07-08
 ---
 
@@ -18,9 +18,12 @@ This makes Douyin part of the broader question of whether [[OnlineTravelAgency]]
 
 [[vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]] adds a lighter city-commerce observation: a Guangzhou submission mentions Blue Moon investing in Douyin, placing the platform inside everyday brand marketing and local commercial attention rather than only travel or live-commerce fulfillment.
 
+[[266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]] adds Douyin as the main current distribution and testing surface for [[AIShortDrama]] in the guests' account. The episode describes Douyin's algorithmic testing, paid-traffic amplification, IAP-to-IAA monetization shift, and short-video consumption scene as central to [[ShortDramaEconomics]].
+
 ## Connections
 - [[Ctrip]], [[Meituan]], [[Fliggy]], and [[JDTravel]] — travel-competition context.
 - [[TikTok]], [[MusicalLy]], [[GlobalProductLocalization]], and [[ProductContainer]] — globalization and container-fit comparison added by the Musical.ly/TikTok source.
 - [[TravelSuperAppConvenience]], [[OTAPlatformConcentration]], and [[PlatformAntitrust]] — concept links.
 - [[LocalLifePlatformDependency]] and [[PlatformIntermediationTax]] — local-commerce fulfillment and margin-split context from the flower/cake teaser.
 - [[CityCommercialObservation]] — broader listener-submission frame for seeing Douyin as a city-commerce surface.
+- [[Hongguo]], [[AIShortDrama]], [[ShortDramaEconomics]], and [[AIVideoProductionWorkflow]] — short-drama distribution and AI-video creator context from episode 266.

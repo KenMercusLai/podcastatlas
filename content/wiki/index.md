@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [266.从红果到AI短剧：谁在革谁的命？](sources/266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob.md) — 乱翻书 episode on Hongguo, Douyin, iQIYI, AI short dramas, single-minute production cost, paid-traffic economics, creator workflows, copyright risk, and long-video platform pressure.
 - [Missing Peace: Will Israel Imperil Iran Deal?](sources/missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3.md) — The Intelligence episode on Israel-Hezbollah-Lebanon risk to U.S.-Iran diplomacy, strong El Nino climate risk, and Japan's imperial succession crisis.
 - [Musical.ly如何成为 TikTok？PM眼中的字节产品文化和全球化之路｜字节跳动 第5集](sources/musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz.md) — 乱翻书 episode with Vanessa on Musical.ly's merger into TikTok, ByteDance product culture, recommendation and safety systems, short-video creation tools, global localization, product-container limits, and AI-era product-method shifts.
 - [264.库克的道德锚点｜过去15年，库克给苹果留下了什么？](sources/264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0.md) — 乱翻书 episode on Tim Cook's Apple legacy, stakeholder capitalism, privacy, accessibility, supply-chain responsibility, values as an operational asset, and Apple as a social institution.
@@ -169,6 +170,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [红果](entities/Hongguo.md) — Short-drama platform used in episode 266 to explain free/ad-supported scripted entertainment growth and pressure on long-video platforms.
+- [iQIYI / 爱奇艺](entities/IQIYI.md) — Long-video platform contrasted with Hongguo and Douyin through submission-based, decentralized drama-production pressure.
+- [龚宇](entities/GongYu.md) — iQIYI figure whose submission/decentralization proposal anchors episode 266's long-video platformization frame.
+- [王小叔](entities/WangXiaoshu.md) — Short-drama operator and episode 266 guest explaining cost structure, distribution, paid traffic, AI comic drama, and overseas publishing.
+- [徐文亮 / Tom](entities/XuWenliang.md) — Episode 266 guest comparing web fiction, audiobooks, live-action short drama, AI comic drama, and AI photorealistic drama.
+- [YouTube](entities/YouTube.md) — Overseas video distribution surface for Chinese short dramas in episode 266's publishing and localization discussion.
 - [Israel](entities/Israel.md) — Country actor whose conflict with Hezbollah in Lebanon could imperil the episode's wider U.S.-Iran diplomacy frame.
 - [Lebanon](entities/Lebanon.md) — Country context for the ceasefire clause, Hezbollah capacity, and enforcement problem in the Iran-deal segment.
 - [Hezbollah](entities/Hezbollah.md) — Armed movement whose southern-Lebanon capacity drives Israel's skepticism about a ceasefire.
@@ -187,7 +194,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Steve Jobs](entities/SteveJobs.md) — Apple founder used as the product-revolution comparison frame for evaluating Tim Cook's different institutional legacy.
 - [Business Roundtable](entities/BusinessRoundtable.md) — CEO organization whose 2019 corporate-purpose statement anchors the episode's stakeholder-capitalism frame.
 - [乱翻书](entities/Luanfanshu.md) — Podcast/show context for ByteDance/TikTok product culture, Meitu/Sora/Adobe application-layer strategy, and Tim Cook's Apple values legacy.
-- [庄明浩](entities/ZhuangMinghao.md) — Luanfanshu host framing whether frontier models are eating the application layer.
+- [庄明浩 / 庄明昊](entities/ZhuangMinghao.md) — Luanfanshu host framing application-layer strategy and AI short-drama platform shifts.
 - [魏熙](entities/WeiXi.md) — Technology writer and former advertising/product practitioner explaining Meitu's AI application strategy.
 - [吴欣鸿](entities/WuXinhong.md) — Meitu founder cited through the claim that AI is both Meitu's biggest opportunity and biggest danger.
 - [Meitu / 美图](entities/Meitu.md) — Creative-tool and image/video company used as the episode's central AI application-layer case.
@@ -973,6 +980,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Short Drama](concepts/AIShortDrama.md) — AI-assisted scripted short-video and comic-drama category shaped by video models, creator workflow, distribution, cost, and rights control.
+- [Short Drama Economics](concepts/ShortDramaEconomics.md) — Cost, paid-traffic, IAP-to-IAA, ad-yield, and single-minute-cost frame behind short drama and AI short drama.
+- [AI Video Production Workflow](concepts/AIVideoProductionWorkflow.md) — Practical AI-video creation process involving scripts, prompts, image/video generation, repeated draws, editing, localization, and rights checks.
+- [Platformized Drama Production](concepts/PlatformizedDramaProduction.md) — Shift from producer-led long-video commissioning toward open submission, fast feedback, platform governance, and market-tested drama supply.
 - [U.S.-Iran Nuclear Diplomacy](concepts/USIranNuclearDiplomacy.md) — Negotiation frame around the Strait of Hormuz, Iranian assets, uranium-stockpile talks, and Lebanon-related fragility.
 - [Proxy Conflict Spoiler Risk](concepts/ProxyConflictSpoilerRisk.md) — Risk that an unresolved local or allied armed conflict undermines a broader diplomatic agreement.
 - [El Nino](concepts/ElNino.md) — Pacific climate pattern whose strength is measured through sea-surface temperature anomalies and global weather disruption.

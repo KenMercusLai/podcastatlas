@@ -2,7 +2,7 @@
 title: "AI Content Provenance"
 type: concept
 tags: [ai, provenance, trust, compliance]
-sources: [vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]
+sources: [vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
 last_updated: 2026-07-07
 ---
 
@@ -12,6 +12,8 @@ AI content provenance is the practice of marking, disclosing, or tracing synthet
 
 [[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] adds the audience-attention version through [[AIContentDevaluation]]. The hosts note that obvious AI flavor can make readers stop engaging even when deception is not the main issue, suggesting that provenance and disclosure sit beside a softer trust problem: whether the author appeared to think or communicate with care.
 
+[[266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]] adds the entertainment-IP version. Guests describe how early AI-video experimentation with celebrity faces, classic IP characters, and recognizable styles quickly runs into likeness, [[IPOwnership]], [[Netflix]], and [[TheWaltDisneyCompany]]-style copyright boundaries.
+
 ## Key Claims
 
 - Provenance matters because generated images, personas, voices, and promotional content can be commercially legitimate when disclosed, but deceptive when users believe they are interacting with a real person or unedited evidence.
@@ -20,6 +22,7 @@ AI content provenance is the practice of marking, disclosing, or tracing synthet
 - Disclosure is a consumer-trust boundary, not only a technical metadata problem. In the episode's OnlyFans example, the central issue is whether users knew what kind of synthetic persona they were paying for.
 - AI provenance overlaps with [[AIImpersonationFraudRisk]] when generated media borrows trust signals from real identity, intimacy, expertise, or authenticity.
 - Provenance does not solve all audience reaction; even disclosed AI content can be ignored if it feels generic or unauthored.
+- AI short-drama production raises a commercial-rights version of provenance: teams need to know whether generated characters, faces, and IP references can be distributed and monetized.
 
 ## Connections
 
@@ -29,3 +32,4 @@ AI content provenance is the practice of marking, disclosing, or tracing synthet
 - [[MedicalAIMarketingRisk]] — adjacent marketing-risk case where AI-generated claims and personas can affect high-trust health decisions.
 - [[HumanJudgmentUnderAI]] — people and platforms still need to interpret provenance signals and decide what use is acceptable.
 - [[AIContentDevaluation]] and [[AICommunicationAbility]] — Vol. 164's attention and authorship trust layer.
+- [[AIShortDrama]], [[AIVideoProductionWorkflow]], [[IPOwnership]], [[Netflix]], and [[TheWaltDisneyCompany]] — entertainment-rights branch added by episode 266.
