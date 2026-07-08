@@ -2,8 +2,8 @@
 title: "One-Person Company"
 type: concept
 tags: [ai, entrepreneurship, company-formation, sales]
-sources: [1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun]
-last_updated: 2026-07-08
+sources: [1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud]
+last_updated: 2026-07-09
 ---
 
 # One-Person Company
@@ -18,6 +18,8 @@ The legal discussion matters because "one person" does not make company obligati
 
 [[1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6]] adds a more optimistic but bounded version. [[YuYi]] and [[CangShifu]] agree that AI can let one person run more of the product, content, development, growth, and operations loop, especially for early validation. The episode's boundary is that OPC is better understood as a way to start and prove a minimum business loop: once supply chain, users, compliance, finance, or delivery complexity rises, the realistic form may be a small team where each person brings a set of agents.
 
+[[shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud]] adds a more skeptical AI-application-founder view through [[WeiXiaokang]]. He agrees that AI can shrink teams for application startups, but argues that one person alone is usually not the best organization form; each critical direction should have one or two strong people using AI, so the company becomes a high-talent-density small team rather than a solo founder managing everything.
+
 ## Key Claims
 - AI-era OPC should not be reduced to company registration; it is a claim about whether one person can run the business loop.
 - A one-person legal structure may still need careful account separation, tax handling, and documentation to preserve the intended liability boundary.
@@ -30,6 +32,7 @@ The legal discussion matters because "one person" does not make company obligati
 - Overseas market choice can be rational for an OPC when [[ProductLedWillingnessToPay]] is materially stronger abroad, but only after the founder understands the buyer and collection path.
 - OPC can be a launch mode rather than a permanent company design: AI helps one person get from 0 to 10, but scaling may require partners, shared infrastructure, and clearer responsibility splits.
 - The S10E18 source adds an agent-management boundary: a solo founder must supervise red-line actions, review output, and prevent parallel agents from creating more attention debt than useful leverage.
+- The Wei Xiaokang source adds a small-team counterweight: AI reduces headcount needs, but strong human owners remain necessary for key business directions, recruiting, judgment, and coordination.
 
 ## Connections
 - [[WhatsNextKejiZaozhidao]], [[YuYi]], [[CangShifu]], [[AmazonWebServices]], and [[FromIdeaToFrontier]] — S10E18's show, guest, and accelerator context.
@@ -44,3 +47,4 @@ The legal discussion matters because "one person" does not make company obligati
 - [[CrossBorderFundTransferRisk]] and [[CapitalAccountInvestmentRestrictions]] — overseas account and money-movement risks raised by the source.
 - [[SoftwarePaymentCulture]], [[AppStore]], [[Apple]], and [[WeChat]] — platform and payment context for whether AI-built apps actually monetize.
 - [[PaymentLedMarketSelection]] — Win source that reframes overseas setup as market discovery and payment-path selection.
+- [[WeiXiaokang]], [[AIOrganizationDesign]], [[RecruitingSupplyStrategy]], and [[BusinessModelOrganizationFit]] — small-team counterweight added by the 42章经 episode.

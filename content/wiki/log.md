@@ -1407,3 +1407,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint. Report returned in-session; lint-report.md was not saved.
+
+## [2026-07-09] ingest | 少有的深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康
+
+Added source page for a 42章经 episode with Wei Xiaokang on ByteDance and Meituan organization-building differences, business-model-shaped organization design, recruiting supply, reference checks, motivation matching, AI-assisted sourcing, and AI-era small-team structure. Created pages for Wei Xiaokang, Wang Xing, Business-Model Organization Fit, Recruiting Supply Strategy, Reference-Check Hiring, and AI Recruiting Sourcing; updated overview, index, 42章经, ByteDance, Meituan, Google, Amazon, AI Organization Design, Stage-Appropriate Hiring, One-Person Company, and AI Hiring Arms Race. No direct contradiction found; the source qualifies OPC optimism by arguing that AI reduces team size and role boundaries without eliminating the need for strong human owners in key directions.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, eight fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; report returned in-session and `lint-report.md` was not saved.

@@ -7,6 +7,7 @@ sources:
   - guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5
   - yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f
   - zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew
+  - shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud
 last_updated: 2026-07-09
 ---
 
@@ -22,6 +23,8 @@ The Mengqi episode adds an AI application-founder branch through [[Mengqi]], [[I
 
 The EVE episode adds a consumer companion branch through [[Tristan]], [[NaturalSelection]], and [[EVE]]. It connects romance-game production, [[AICompanionActiveMemory]], emotional interaction, real-world temporal awareness, 3D interaction, and game-like monetization into a concrete AI companionship product thesis.
 
+The Wei Xiaokang episode adds a founder-organization and recruiting branch through [[WeiXiaokang]], [[ByteDance]], and [[Meituan]]. It connects [[BusinessModelOrganizationFit]], [[RecruitingSupplyStrategy]], [[ReferenceCheckHiring]], and [[AIRecruitingSourcing]] into a practical early-startup organization method, while qualifying [[OnePersonCompany]] optimism with a small-team view of AI-era company building.
+
 ## Connections
 - [[ZhuNing]] — guest economist in the episode.
 - [[BubbleNecessaryConditions]], [[BehavioralInvestingBiases]], and [[SpeculativeBubblePsychology]] — main behavioral-finance frame.
@@ -33,3 +36,4 @@ The EVE episode adds a consumer companion branch through [[Tristan]], [[NaturalS
 - [[FounderEgo]], [[VerticalAgentSaaSification]], [[AIApplicationLayerMoat]], and [[AIStartupUnitEconomics]] — startup lessons from the Mengqi interview.
 - [[Tristan]], [[NaturalSelection]], and [[EVE]] — AI companion-product case.
 - [[AIFriendProducts]], [[AICompanionActiveMemory]], and [[EmotionalInteractionModels]] — companion design themes added by the EVE episode.
+- [[WeiXiaokang]], [[BusinessModelOrganizationFit]], [[RecruitingSupplyStrategy]], [[ReferenceCheckHiring]], and [[AIRecruitingSourcing]] — organization and recruiting branch added by the Wei Xiaokang episode.

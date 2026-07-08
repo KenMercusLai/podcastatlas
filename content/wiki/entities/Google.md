@@ -2,8 +2,8 @@
 title: "Google"
 type: entity
 tags: [company, ai, platform, mobile]
-sources: [musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
-last_updated: 2026-07-08
+sources: [musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud]
+last_updated: 2026-07-09
 ---
 
 # Google
@@ -30,6 +30,8 @@ Google is the company context for [[Gemini]], [[GeminiCLI]], and [[GoogleDeepMin
 
 [[264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]] adds Google as part of the data-and-advertising contrast to [[ApplePrivacy]]. The episode uses [[TimCook]]'s critique of the data-industrial complex to put Apple opposite companies whose business models depend more directly on tracking, profiling, and advertising data.
 
+[[shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud]] adds Google as the talent-first comparison for [[BusinessModelOrganizationFit]]. [[WeiXiaokang]] describes Google as better suited to short-chain, high-margin work where a company can first hire very strong people and then match them to internal teams, while treating [[Amazon]] as a contrasting long-chain operating-plan model.
+
 ## Source Position
 - Google is treated as technically strong but organizationally and product-wise hard to read from the outside.
 - The Vol. 166 hosts compare Google's fragmented AI product experience to a large company with many teams optimizing separate surfaces.
@@ -40,6 +42,7 @@ Google is the company context for [[Gemini]], [[GeminiCLI]], and [[GoogleDeepMin
 - Episode 144 treats Google as a founder-training environment whose technical and cultural patterns later shaped Anker's product and organization design.
 - Episode 136 treats Google as late to coding-agent priority in the short term but structurally strong over the long term because of chips, cash flow, product surfaces, and workspace distribution.
 - E240 treats Google's deployment role as somewhat different from OpenAI/Anthropic-style model-company FDE, because Google may be tied more closely to its own model and cloud stack.
+- The Wei Xiaokang source adds Google as an organization-design comparison for high-margin, short-chain work rather than as a product or AI model case.
 
 ## Connections
 - [[Gemini]] and [[GeminiCLI]] — Google's model and coding-tool surfaces.
@@ -56,3 +59,4 @@ Google is the company context for [[Gemini]], [[GeminiCLI]], and [[GoogleDeepMin
 - [[Gemini]], [[AGIThreeActs]], [[ModelAsOperatingSystem]], and [[ModelProviderToolCompetition]] — frontier-model and coding-agent strategy added by episode 136.
 - [[ForwardDeployedEngineer]], [[OpenAI]], [[Anthropic]], and [[ModelRoutingCostControl]] — E240's deployment and multi-model application-company comparison.
 - [[ApplePrivacy]], [[Meta]], and [[PlatformDataRegulation]] — privacy and advertising-business contrast added by the Cook episode.
+- [[BusinessModelOrganizationFit]], [[WeiXiaokang]], and [[Amazon]] — organization-model comparison added by the 42章经 episode.

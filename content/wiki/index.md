@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [少有的深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康](sources/shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud.md) — 42章经 episode with Wei Xiaokang on ByteDance/Meituan organization contrast, business-model-shaped management, recruiting supply, reference checks, AI sourcing, AI coding, and why AI startups still need strong small teams rather than pure one-person companies.
 - [E44 李晓波对话孟岩：这次，就这样吧？](sources/e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2.md) — 无人知晓 episode on 有知有行, financial-platform incentives, investor suitability friction, founder governance, 本分, 如其所是, and keeping investment subordinate to a better life.
 - [这可能才是 AI 陪伴真正该有的样子｜对谈刷屏产品 EVE 创始人 Tristan](sources/zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew.md) — 42章经 episode with Tristan on EVE as a long-term AI companion built from active memory, emotional post-training, real-world temporal awareness, proactive interaction, 3D presence, game progression, and companion-product economics.
 - [一个 AI 创始人的虚荣心、装，和愚昧之巅｜对谈 invoko.ai 创始人梦琪](sources/yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f.md) — 42章经 episode with Mengqi on invoko.ai's pivot from vertical Agents and 2B growth tooling toward Clico, founder ego, product experience, Reddit user research, token economics, and the limits of AI software narratives.
@@ -192,6 +193,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [魏小康 / Wei Xiaokang](entities/WeiXiaokang.md) — AI recruiting founder and former ByteDance/Meituan organization participant explaining business-model-shaped organization design, recruiting supply, reference checks, and AI-era small-team structure.
+- [王兴 / Wang Xing](entities/WangXing.md) — Meituan founder reference used in the Wei Xiaokang episode to frame company success as riding a larger industry wave rather than pure founder genius.
 - [Li Xiaobo / 李晓波](entities/LiXiaobo.md) — E44 conversation partner pressing Meng Yan on user interest, product friction, 本分, and investment as a life-practice question.
 - [有知有行 / Youzhi Youxing](entities/YouzhiYouxing.md) — Wealth-management company case for fee refusal, user selection, investor education, and investment-for-better-life trust.
 - [Robinhood](entities/Robinhood.md) — Brokerage contrast case used in E44 to discuss take rate, trading incentives, and possible conflict with user outcomes.
@@ -1108,6 +1111,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Business-Model Organization Fit](concepts/BusinessModelOrganizationFit.md) — Principle that organization mechanisms should follow business chain length, cycle, gross margin, and competition pattern rather than copy big-company rituals.
+- [Recruiting Supply Strategy](concepts/RecruitingSupplyStrategy.md) — Founder-level hiring method focused on clarifying role demand, mapping talent supply, and reaching strong candidates before interviews.
+- [Reference-Check Hiring](concepts/ReferenceCheckHiring.md) — Hiring judgment method that weights evidence from credible former managers and collaborators because interviews are noisy and easy to game.
+- [AI Recruiting Sourcing](concepts/AIRecruitingSourcing.md) — AI-assisted outbound candidate discovery where business teams and recruiters use tools to find supply while humans handle contact, trust, motivation, and references.
 - [Financial Platform Incentives](concepts/FinancialPlatformIncentives.md) — Business-model forces such as take rate, promotion fees, trading volume, and product complexity that determine whether a financial platform stays aligned with users.
 - [Investor Suitability Friction](concepts/InvestorSuitabilityFriction.md) — Deliberate pre-purchase slowdown, such as quizzes or gates, that tests whether investors understand products before taking risk.
 - [Investment For Better Life](concepts/InvestmentForBetterLife.md) — Frame that investment should improve attention, relationships, sleep, and ordinary life rather than become life's dominant scoreboard.

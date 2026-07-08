@@ -2,8 +2,8 @@
 title: "Meituan"
 type: entity
 tags: [company, local-services, travel, platform, china]
-sources: [kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
-last_updated: 2026-07-07
+sources: [kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud]
+last_updated: 2026-07-09
 ---
 
 # Meituan
@@ -14,8 +14,11 @@ The episode does not analyze Meituan's full business. Its role is to show that [
 
 [[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] adds Meituan to the AI assistant service-entry discussion. The hosts suggest Meituan could expose MCP-like ordering capability to assistants such as [[Doubao]] or [[Yuanbao]], while retaining transaction, merchant, and delivery infrastructure. Their milk-tea example also shows the risk that AI ordering may narrow the user's visible options compared with browsing the full Meituan interface.
 
+[[shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud]] adds Meituan as the long-cycle, long-chain, low-gross-margin side of [[BusinessModelOrganizationFit]]. [[WeiXiaokang]] uses Meituan to explain why operating plans, resource coordination, business-chain clarity, and battlefield-based talent development can matter more than simply copying faster [[ByteDance]]-style mechanisms.
+
 ## Connections
 - [[Ctrip]] — travel platform whose position Meituan may pressure.
 - [[Fliggy]], [[Douyin]], and [[JDTravel]] — other later potential competitors named by the source.
 - [[PlatformAntitrust]], [[TravelSuperAppConvenience]], and [[OTAPlatformConcentration]] — related concepts.
 - [[ModelContextProtocol]], [[AIAssistantServiceEntry]], and [[AgenticCommerce]] — local-commerce agent interface frame added by Keji Luandun.
+- [[WeiXiaokang]], [[WangXing]], [[BusinessModelOrganizationFit]], and [[RecruitingSupplyStrategy]] — organization and recruiting comparison added by the 42章经 episode.
