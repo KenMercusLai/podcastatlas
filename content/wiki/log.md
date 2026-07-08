@@ -1207,3 +1207,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | Missing Peace: Will Israel Imperil Iran Deal?
+
+Added source page for a The Intelligence episode on Israel-Hezbollah-Lebanon risk to U.S.-Iran diplomacy, strong El Nino climate risk under global warming, and Japan's imperial succession crisis. Created supporting pages for Israel, Lebanon, Hezbollah, JD Vance, Princess Aiko, Emperor Naruhito, Prince Hisahito, Japanese Imperial Family, U.S.-Iran Nuclear Diplomacy, Proxy Conflict Spoiler Risk, El Nino, El Nino Climate Risk, and Japanese Imperial Succession; updated overview, index, The Intelligence, Iran, Strait of Hormuz, Donald Trump, Japan, Takaichi Sanae, and Climate Adaptation. No direct contradiction found; the geopolitical claims are recorded as episode claims rather than independently verified facts.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

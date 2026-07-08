@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Missing Peace: Will Israel Imperil Iran Deal?](sources/missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3.md) — The Intelligence episode on Israel-Hezbollah-Lebanon risk to U.S.-Iran diplomacy, strong El Nino climate risk, and Japan's imperial succession crisis.
 - [Musical.ly如何成为 TikTok？PM眼中的字节产品文化和全球化之路｜字节跳动 第5集](sources/musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz.md) — 乱翻书 episode with Vanessa on Musical.ly's merger into TikTok, ByteDance product culture, recommendation and safety systems, short-video creation tools, global localization, product-container limits, and AI-era product-method shifts.
 - [264.库克的道德锚点｜过去15年，库克给苹果留下了什么？](sources/264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0.md) — 乱翻书 episode on Tim Cook's Apple legacy, stakeholder capitalism, privacy, accessibility, supply-chain responsibility, values as an operational asset, and Apple as a social institution.
 - [263.Sora死了，Adobe跌了，美图何去何从？](sources/263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs.md) — 乱翻书 episode on Sora's reported shutdown, Adobe's AI-cost pressure, Meitu's AI application strategy, model-container positioning, vertical workflow moats, and to-agent distribution.
@@ -168,6 +169,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Israel](entities/Israel.md) — Country actor whose conflict with Hezbollah in Lebanon could imperil the episode's wider U.S.-Iran diplomacy frame.
+- [Lebanon](entities/Lebanon.md) — Country context for the ceasefire clause, Hezbollah capacity, and enforcement problem in the Iran-deal segment.
+- [Hezbollah](entities/Hezbollah.md) — Armed movement whose southern-Lebanon capacity drives Israel's skepticism about a ceasefire.
+- [JD Vance](entities/JDVance.md) — U.S. political figure paired with Donald Trump in the episode's strained-U.S.-Israel relationship frame.
+- [Princess Aiko](entities/PrincessAiko.md) — Popular daughter of Emperor Naruhito who is barred from inheriting under Japan's male-line imperial succession rules.
+- [Emperor Naruhito](entities/EmperorNaruhito.md) — Current emperor whose only child, Princess Aiko, anchors the episode's succession bottleneck.
+- [Prince Hisahito](entities/PrinceHisahito.md) — Male heir described by the episode as the only realistic future successor in Japan's imperial line.
+- [Japanese Imperial Family](entities/JapaneseImperialFamily.md) — Monarchical institution whose shrinking male-line succession pool creates a continuity and legitimacy problem.
 - [Musical.ly](entities/MusicalLy.md) — Short-video app whose creator community, music-led tools, and youth culture became part of TikTok after ByteDance's acquisition and 2018 merger.
 - [Vanessa](entities/Vanessa.md) — Former ByteDance PM and Luanfanshu guest explaining the Musical.ly/TikTok merger, safety integration, globalization, and AI-era product-method contrast.
 - [Alex Zhu](entities/AlexZhu.md) — Musical.ly and ByteDance product leader discussed through structured product thinking, product-container limits, and later FLOW work.
@@ -327,7 +336,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Meade](entities/JamesMeade.md) — Economist whose bee-and-orchard example frames pollination as a positive-externality case.
 - [张五常](entities/ZhangWuchang.md) — Economist whose beekeeping contract investigation is used to challenge the simple market-failure reading of pollination.
 - [彭文君](entities/PengWenjun.md) — Chinese bee researcher cited for the potential value of China's pollination services beyond honey output.
-- [Takaichi Sanae](entities/TakaichiSanae.md) — Japanese prime minister whose snap-election landslide is framed as an unusually strong governing mandate.
+- [Takaichi Sanae](entities/TakaichiSanae.md) — Japanese prime minister whose page now connects both her snap-election mandate and conservative resistance to female imperial succession.
 - [Liberal Democratic Party (Japan)](entities/LiberalDemocraticPartyJapan.md) — Dominant Japanese party turned from recent fragility into the institutional vehicle for Takaichi's lower-house mandate.
 - [Texas A&M University](entities/TexasAMUniversity.md) — Public-university case for syllabus review, Plato's Symposium removal, and academic-freedom pressure.
 - [Martin Peterson](entities/MartinPeterson.md) — Texas A&M philosophy professor whose Plato syllabus dispute anchors the academic-freedom segment.
@@ -346,7 +355,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [General Mills](entities/GeneralMills.md) — Food company mentioned as the Haagen-Dazs parent-company context in the ice-cream episode.
 - [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for city commerce observations and the bee-economics episode on pollination, honey standards, and agricultural markets.
 - [Polymarket](entities/Polymarket.md) — Prediction-market example used by E144 to explain price-as-probability thinking and residual risk.
-- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for NATO alliance stress, Khamenei's funeral, Iran succession uncertainty, Japan custody reform, Route 66, AI-bubble hedging, Erdogan succession, Japan's snap-election mandate, Starmer's Labour crisis, Bangladesh's transition election, and other magazine-style segments.
+- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for U.S.-Iran deal fragility, El Nino climate risk, Japanese imperial succession, NATO alliance stress, Khamenei's funeral, Japan custody reform, Route 66, and other magazine-style segments.
 - [NATO](entities/NATO.md) — Alliance context for defence spending, Ukraine support, European defence autonomy, Russian hybrid pressure, and American commitment doubts.
 - [Anton LaGuardia](entities/AntonLaGuardia.md) — The Intelligence diplomatic editor explaining NATO's tense summit, European defence autonomy, and alliance credibility risks.
 - [Anna Kerr](entities/AnnaKerr.md) — The Intelligence contributor explaining vibe lawyering, legal AI hallucinations, and supervised legal AI.
@@ -357,9 +366,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lithuania](entities/Lithuania.md) — Baltic security case where German deployment and American force uncertainty make NATO credibility visible.
 - [Ali Khamenei](entities/AliKhamenei.md) — Iranian supreme-leader figure whose funeral is framed by The Intelligence as religious rite, regime display, and succession test.
 - [Mujtaba Khamenei](entities/MujtabaKhamenei.md) — Khamenei son described by the episode as supposed successor whose absence creates command uncertainty.
-- [Iran](entities/Iran.md) — Country context for Khamenei's funeral, regime legitimacy, ceasefire diplomacy, the Strait of Hormuz, and earlier digital-infrastructure war-risk discussion.
-- [Strait of Hormuz](entities/StraitOfHormuz.md) — Shipping chokepoint tied to Iran's ceasefire bargaining and passage-control signaling.
-- [Japan](entities/Japan.md) — Country context for The Intelligence sources on joint-custody reform and Takaichi Sanae's electoral mandate.
+- [Iran](entities/Iran.md) — Country context for U.S.-Iran diplomacy, Strait of Hormuz bargaining, Khamenei's funeral, succession uncertainty, and digital-infrastructure war risk.
+- [Strait of Hormuz](entities/StraitOfHormuz.md) — Shipping chokepoint tied to the episode's U.S.-Iran deal terms and later Iran ceasefire bargaining.
+- [Japan](entities/Japan.md) — Country context for The Intelligence sources on joint-custody reform, Takaichi Sanae's electoral mandate, and imperial succession.
 - [Route 66](entities/Route66.md) — American highway treated as a centenary symbol of migration, car culture, decommissioned infrastructure, Old West performance, and nostalgia tourism.
 - [Nicholas Palam](entities/NicholasPalam.md) — The Intelligence correspondent explaining Khamenei's funeral, Iran's religious-political authority, succession uncertainty, and ceasefire context.
 - [Moeka Iida](entities/MoekaIida.md) — The Intelligence contributor explaining Japan's post-divorce joint-custody reform and changing family norms.
@@ -727,7 +736,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [DeepSeek](entities/DeepSeek.md) — Chinese open-source model effort cited through Qwen comparison, pricing substitution, market repricing, cost-control, export-control context, and Luo Fuli's earlier background.
 - [Deerflow](entities/Deerflow.md) — Open-source deep-research and desktop-workflow project discussed through AI coding, Chinese models, community governance, and multimodal work.
 - [Devin](entities/Devin.md) — Cognition coding-agent product discussed through the Windsurf acquisition context.
-- [Donald Trump](entities/DonaldTrump.md) — U.S. political figure used as both an EP57 market-policy volatility variable and EP77's central political influence monetization case.
+- [Donald Trump](entities/DonaldTrump.md) — U.S. political figure used as a market-policy variable, political-influence monetization case, NATO alliance shock, Apple counterparty, and U.S.-Israel diplomacy variable.
 - [Doubao](entities/Doubao.md) — ByteDance AI assistant and model context used for Chinese consumer AI subscriptions, voice fit, and Doubao Seed's AI-for-math signal.
 - [EOS Worldwide](entities/EOSWorldwide.md) — Methodology and coaching organization behind the EOS ecosystem that shaped Ninety's early product and channel.
 - [EarthKit](entities/EarthKit.md) — Jie Dechen's multimodal project for inferring photo locations, mentioned as background before Paperboy.
@@ -964,6 +973,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [U.S.-Iran Nuclear Diplomacy](concepts/USIranNuclearDiplomacy.md) — Negotiation frame around the Strait of Hormuz, Iranian assets, uranium-stockpile talks, and Lebanon-related fragility.
+- [Proxy Conflict Spoiler Risk](concepts/ProxyConflictSpoilerRisk.md) — Risk that an unresolved local or allied armed conflict undermines a broader diplomatic agreement.
+- [El Nino](concepts/ElNino.md) — Pacific climate pattern whose strength is measured through sea-surface temperature anomalies and global weather disruption.
+- [El Nino Climate Risk](concepts/ElNinoClimateRisk.md) — Risk frame for a strong El Nino layered onto global warming, food insecurity, disease, drought, floods, and aid constraints.
+- [Japanese Imperial Succession](concepts/JapaneseImperialSuccession.md) — Japan monarchy continuity problem around male-line inheritance, Princess Aiko's exclusion, public opinion, and limited reform.
 - [Data-Driven Product Culture](concepts/DataDrivenProductCulture.md) — ByteDance-style product operating system based on metrics, A/B tests, guardrails, review cycles, and LTV-style contribution comparison.
 - [Recommendation System Productization](concepts/RecommendationSystemProductization.md) — Turning ranking, cold start, content pools, safety review, and interface signals into the product experience.
 - [Content Ecosystem Governance](concepts/ContentEcosystemGovernance.md) — Platform safety, review, ranking, intervention, and value-setting layer needed when recommendation systems amplify content.
@@ -1093,7 +1107,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Outcome Accelerators](concepts/OutcomeAccelerators.md) — Coordination mechanisms that align finance, policy, civic action, infrastructure, and technology around measurable shared outcomes.
 - [Bioregional Resilience](concepts/BioregionalResilience.md) — Regenerative place-based resilience stack combining agroforestry, water, soil, biointegrity, governance, and technology.
 - [Doubt as Intelligence](concepts/DoubtAsIntelligence.md) — Epistemic frame where partial knowing makes curiosity, conversation, tentativeness, and care part of intelligence.
-- [Climate Adaptation](concepts/ClimateAdaptation.md) — Practical adjustment to climate-driven instability through governance, infrastructure, heat, water, food, and bioregional resilience.
+- [Climate Adaptation](concepts/ClimateAdaptation.md) — Practical adjustment to climate-driven instability through governance, infrastructure, heat, water, food, bioregional resilience, and El Nino preparation.
 - [Public Media Funding](concepts/PublicMediaFunding.md) — Funding and operating-risk question connecting federal support, listener donations, local journalism, and public-media access.
 - [Local Journalism](concepts/LocalJournalism.md) — Community reporting on local institutions, accountability, events, and identity that the appeal says could shrink with funding loss.
 - [Public Media Emergency Access](concepts/PublicMediaEmergencyAccess.md) — Public-media role in trusted local news, emergency alerts, and rural access during disruption.
