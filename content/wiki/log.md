@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-09] ingest | No.204 互联网视频平台混战：从后舍男生到漫长的季节 | 中国互联网故事21
+
+Added source page for a 半拿铁 China-internet-history episode on Chinese online video, from VCDs, local players, P2P streaming, Youku/Tudou and early UGC creators through copyright enforcement, iQIYI/Tencent Video/Mango TV content spending, membership economics, and current short-video/short-drama pressure. Created pages for Youku, Tudou, Gu Yongqiang, Wang Wei, Tencent Video, Mango TV, Sohu Video, PPLive, PPS, Baofeng Yingyin, Ma Dong, Sun Zhonghuai, Yao Xin, Zhuiguang Animation, early web-video creators, Chinese long-video economics, online-video copyright, video memberships, P2P streaming, UGC-to-professional creator pipeline, and long-video network effects. Updated Banlatte, iQIYI, Gong Yu, Platformized Drama Production, overview, and index. No direct contradiction found; the source extends the short-drama and long-video branch backward into the industry's historical cost structure.
+
 ## [2026-07-09] ingest | Trailer: Tocqueville Road Trip
 
 Added source page for the `boss-class` Acast-feed copy of the Economist Podcasts trailer introducing John Prideaux's Tocqueville Road Trip, which retraces Alexis de Tocqueville's 1831 U.S. journey and uses Democracy in America to ask whether the United States still functions as a democratic idea. Updated Economist Podcasts, Tocqueville Road Trip, Alexis de Tocqueville, John Prideaux, Democracy in America, America as Idea, American Democratic Resilience, United States, overview, and index. No direct contradiction found; the source duplicates existing Tocqueville Road Trip trailer pages under another source URL and reinforces the America-at-250 historical comparison.
@@ -1615,6 +1619,10 @@ Ran lint after health passed. Deterministic checks found three orphan pages (`wi
 ## [2026-07-09] ingest | No.206 检索、送药、看病：互联网医疗这些年 | 中国互联网故事22
 
 Added source page for a 半拿铁 episode on China's internet healthcare history, from hospital information systems, PubMed, DXY, Haodf, WeDoctor, Chunyu Doctor, Ping An Good Doctor, internet hospitals, drug ecommerce, medical trust crises, pandemic adoption, and medical AI to HMO-style health management. Created pages for DXY, Dingxiang Doctor, PubMed, Li Tiantian, Haodf, Wang Hang, WeDoctor, Liao Jieyuan, Chunyu Doctor, Zhang Rui, Ping An Good Doctor, Alibaba Health, JD Health, Dingdang Kuaiyao, Internet Healthcare, Hospital Information System, Medical Literature Search, Online Appointment Registration, Online Medical Consultation, Pharmaceutical Ecommerce, Internet Hospital, Yinchuan Internet Hospital Pilot, Healthcare O2O, Online Healthcare Regulatory Boundary, Medical Platform Trust Crisis, Wei Zexi Incident, HMO Managed Care, Digital Health Community, and Medical AI Workflow Integration; updated overview, index, Banlatte, Baidu, Alibaba, Tencent, Meituan, Pinduoduo, and Medical AI Marketing Risk. No direct contradiction found; the source qualifies the wiki's platform and AI branches by showing that healthcare resists generic internet disruption because doctors, public hospitals, medical insurance, regulation, and patient trust set harder boundaries.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, four fragile bridges, and no isolated communities against the current generated graph. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
 
 ## [2026-07-09] lint | Wiki health check
 

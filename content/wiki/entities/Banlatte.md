@@ -2,7 +2,7 @@
 title: "半拿铁"
 type: entity
 tags: [podcast, media, business-history]
-sources: [no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500]
+sources: [no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500, no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194]
 last_updated: 2026-07-09
 ---
 
@@ -12,14 +12,19 @@ last_updated: 2026-07-09
 
 [[no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500]] adds Banlatte's healthcare-history branch. The episode uses [[InternetHealthcare]] to connect hospital IT, doctor knowledge access, appointment booking, online consultation, drug ecommerce, internet hospitals, medical trust crises, and managed-care experiments into one China-internet storyline.
 
+[[no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194]] adds Banlatte's online-video-history branch. The episode connects VCDs, local players, [[P2PStreaming]], [[Youku]], [[Tudou]], [[IQIYI]], [[TencentVideo]], [[MangoTV]], and [[Douyin]]/[[Hongguo]] pressure into one media-platform story about technology, copyright, membership, capital, and creator supply.
+
 ## Source Position
 - The episode treats mobile phones as an infrastructural and cultural bridge between PC-era internet and mobile internet.
 - Its method is business history: the story moves between [[Motorola]], [[Nokia]], [[Ericsson]], Chinese domestic brands, [[MediaTek]], and [[Huaqiangbei]] rather than focusing only on product nostalgia.
 - The source's "上" structure ends before the later Meizu, Huawei, OPPO, vivo, and Xiaomi smartphone era, so those companies are mostly foreshadowed rather than analyzed.
 - The internet-healthcare episode uses the same business-history style, but its conclusion is more institutional: medical platforms face limits from doctors, hospitals, regulation, insurance payment, and patient trust.
+- The online-video episode uses the same industry-history style, but its main tension is media economics: product speed and UGC culture gave way to [[OnlineVideoCopyrightRegime]], [[VideoMembershipModel]], and [[ChineseLongVideoPlatformEconomics]].
 
 ## Connections
 - [[Motorola]], [[Nokia]], and [[Ericsson]] — the old handset/network leaders at the center of the episode.
 - [[ChineseDomesticHandsetWaves]], [[ChinaHandsetSupplyChain]], and [[ShanzhaiPhones]] — the domestic industry arc covered in the second half.
 - [[SmartphoneOperatingSystemEcosystems]], [[IPhone]], and [[Android]] — platform turns that close the old-keyboard era.
 - [[InternetHealthcare]], [[PharmaceuticalEcommerce]], [[InternetHospital]], and [[HMOManagedCare]] — healthcare-history branch added by episode 206.
+- [[Youku]], [[Tudou]], [[IQIYI]], [[TencentVideo]], and [[MangoTV]] — online-video platform branch added by episode 204.
+- [[UGCToProfessionalCreatorPipeline]], [[OnlineVideoCopyrightRegime]], and [[ChineseLongVideoPlatformEconomics]] — media-history concepts from episode 204.

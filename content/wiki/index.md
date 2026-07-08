@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.204 互联网视频平台混战：从后舍男生到漫长的季节 | 中国互联网故事21](sources/no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194.md) — 半拿铁 episode on China's online-video history, from VCDs, local players, P2P and Youku/Tudou UGC culture to copyright spending, iQIYI/Tencent Video/Mango TV membership economics, and short-video/short-drama pressure.
 - [No.206 检索、送药、看病：互联网医疗这些年 | 中国互联网故事22](sources/no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500.md) — 半拿铁 episode on China's internet healthcare history, from hospital IT, medical literature search, DXY, Haodf, WeDoctor, Chunyu Doctor, internet hospitals, drug ecommerce, and trust crises to managed-care and medical-AI workflow integration.
 - [166: 许华哲再次具身创业：不想错过最大的西瓜](sources/166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1.md) — LateTalk interview with Xu Huazhe on Poke Robotics, Physical AGI, AI-native robotics, household robots, unified robot models, video/robot data, safety boundaries, and robot active-use metrics.
 - [Episode 17: 向量模型工程师：AI 的隐藏瓶颈与新时代的信息迷宫](sources/xiangliang-moxing-gongchengshi-ai-de-yincang-pingjing-yu-xinshidai-de-xinxi-migong-4b6cf945-d64a-4dd0-95a7-cb8f11963698.md) — Fuyou Tiandi episode with N Student on vector models, RAG, semantic relevance, chunking, reranking, hard negatives, long-context limits, agent search evaluation, and preserving human judgment under AI.
@@ -217,6 +218,25 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [优酷 / Youku](entities/Youku.md) — Early Chinese web-video platform that won on speed and infrastructure before copyright costs and consolidation led to the Youku-Tudou merger and Alibaba acquisition.
+- [土豆网 / Tudou](entities/Tudou.md) — Early creator-oriented Chinese video platform whose UGC culture and delayed IPO illustrate both creator discovery and copyright-era consolidation pressure.
+- [古永锵 / Gu Yongqiang](entities/GuYongqiang.md) — Youku founder whose product-and-infrastructure route anchors the early web-video competition story.
+- [王微 / Wang Wei (Tudou)](entities/WangWeiTudou.md) — Tudou founder whose arc runs from creator-first video platform to Zhuiguang Animation after the Youku-Tudou merger.
+- [腾讯视频 / Tencent Video](entities/TencentVideo.md) — Tencent-backed long-video platform that caught up through rights buying, Penguin Pictures, and large-scale self-produced content.
+- [芒果TV / Mango TV](entities/MangoTV.md) — Hunan Broadcasting-linked long-video platform whose owned variety supply and exclusive distribution made it a rare profitable case.
+- [搜狐视频 / Sohu Video](entities/SohuVideo.md) — Early portal-video player with Sohu-system talent links and a U.S.-drama/copyright route weakened by later competition and restrictions.
+- [PPLive](entities/PPLive.md) — P2P streaming platform founded by Yao Xin, used as an early live-video infrastructure case before copyright economics took over.
+- [PPS](entities/PPS.md) — Early P2P video platform representing the peer-assisted streaming era in Chinese online video.
+- [暴风影音 / Baofeng Yingyin](entities/BaofengYingyin.md) — All-format local video player that marks the pre-platform computer-video era.
+- [马东 / Ma Dong](entities/MaDong.md) — Media figure who helped iQIYI develop studio-style web variety and early online content formats.
+- [孙忠怀 / Sun Zhonghuai](entities/SunZhonghuai.md) — Tencent Video executive associated with the platform's rights-buying and self-production push.
+- [姚欣 / Yao Xin](entities/YaoXin.md) — PPLive founder and P2P streaming figure in early Chinese online video.
+- [追光动画 / Zhuiguang Animation](entities/ZhuiguangAnimation.md) — Animation company founded by Wang Wei after Tudou, connecting online-video ideals to professional animation.
+- [后舍男生 / Houshe Nansheng](entities/HousheNansheng.md) — Early Chinese internet-video creator case marking campus UGC and shared web-video culture.
+- [胡戈 / Hu Ge](entities/HuGe.md) — Early spoof-video creator used to illustrate remix culture and creator discovery before mature copyright rules.
+- [叫兽易小星 / Jiaoshou Yi Xiaoxing](entities/JiaoshouYiXiaoxing.md) — Early web-video creator whose path supports the UGC-to-professional creator pipeline.
+- [卢正雨 / Lu Zhengyu](entities/LuZhengyu.md) — Early online-video creator linked to the move from web shorts toward professional comedy and film production.
+- [杨宇 / 饺子 / Yang Yu](entities/YangYuJiaozi.md) — Animation creator and later Ne Zha director used as an online-video-to-professional-animation pathway case.
 - [丁香园 / DXY](entities/DXY.md) — Professional medical community that grew from Li Tiantian's literature-search site into doctor recruiting, drug-reference, and public health-content products.
 - [丁香医生](entities/DingxiangDoctor.md) — DXY's public-facing health-content branch, used in the source to show professional medical popularization and the Quanjian trust case.
 - [PubMed](entities/PubMed.md) — Medical literature database whose free web retrieval helped doctors and shaped DXY's origin story.
@@ -1241,6 +1261,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Chinese Long-Video Platform Economics](concepts/ChineseLongVideoPlatformEconomics.md) — Cost structure of Chinese long-video platforms after competition shifted from playback technology to copyright, self-production, membership, and parent-company financing.
+- [Online Video Copyright Regime](concepts/OnlineVideoCopyrightRegime.md) — Regulatory, legal, and commercial shift that made licensed content and exclusive rights central to Chinese video-platform competition.
+- [Video Membership Model](concepts/VideoMembershipModel.md) — Paid subscription route built around exclusive content, release windows, and user willingness to pay for long-video access.
+- [P2P Streaming](concepts/P2PStreaming.md) — Peer-to-peer video delivery approach that helped early Chinese platforms handle live and on-demand streaming before mature CDN-heavy platforms.
+- [UGC To Professional Creator Pipeline](concepts/UGCToProfessionalCreatorPipeline.md) — Path from early online-video creators and spoof culture into later professional film, animation, and variety production.
+- [Long Video Network Effects](concepts/LongVideoNetworkEffects.md) — Weak and indirect network effects of licensed long-video platforms compared with social, UGC, and recommendation-feed platforms.
 - [Internet Healthcare](concepts/InternetHealthcare.md) — Umbrella branch covering hospital IT, medical search, doctor communities, appointments, consultation, drug sales, internet hospitals, and managed care.
 - [Hospital Information System](concepts/HospitalInformationSystem.md) — Hospital IT foundation required before online appointments, records, prescriptions, internet hospitals, and medical AI workflows can function.
 - [Medical Literature Search](concepts/MedicalLiteratureSearch.md) — Professional knowledge-access layer connecting PubMed, Li Tiantian, and DXY's early community formation.

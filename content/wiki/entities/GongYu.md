@@ -2,8 +2,8 @@
 title: "龚宇"
 type: entity
 tags: [person, media, platform]
-sources: [266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
-last_updated: 2026-07-08
+sources: [266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194]
+last_updated: 2026-07-09
 ---
 
 # 龚宇
@@ -12,7 +12,10 @@ Gong Yu appears in [[266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgz
 
 For the wiki, Gong Yu's role in this source is a marker for [[PlatformizedDramaProduction]]. The issue is not only whether an executive endorses openness, but whether a long-video organization can change budgeting, approval, feedback, compliance, and distribution systems enough to let market-tested creator supply work.
 
+[[no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194]] adds the earlier version of that same judgment. Gong Yu is presented as seeing content, exclusivity, and paid membership as the decisive long-video battleground, which connects [[VideoMembershipModel]] to later [[PlatformizedDramaProduction]] pressure.
+
 ## Connections
 - [[IQIYI]] — company context for the proposal.
 - [[PlatformizedDramaProduction]] — concept attached to the organizational shift.
 - [[Hongguo]], [[Douyin]], and [[AIShortDrama]] — competitive pressure context.
+- [[MaDong]], [[VideoMembershipModel]], and [[ChineseLongVideoPlatformEconomics]] — episode 204's long-video history context.
