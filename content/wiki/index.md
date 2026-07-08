@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [关于 AI、开源、商业化与全球化的经验、教训和方法论 | 对谈 PingCAP CTO 东旭](sources/guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5.md) — 42章经 episode with PingCAP CTO Dongxu on TiDB, open-source infrastructure trust, cloud-service commercialization, founder-led globalization, and AI-era data/memory infrastructure.
 - [AI 时代的超级入口还是手机吗？｜ S10E17](sources/ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731.md) — What's Next｜科技早知道 episode with Han Boxiao and Chen Yiqiang on smartphones as AI hubs, vivo/MediaTek chip co-design, foldable productivity, on-device AI, NPU scheduling, and edge-cloud boundaries.
 - [Keep qualms and carry on: a decade after Brexit](sources/keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b.md) — The Intelligence episode on Brexit's cumulative economic friction, unrealized deregulation dividend, immigration-politics reversal, AI/regulatory opportunity, and Britain's unresolved strategic identity.
 - [Gulf-co-operation counsel: what next for the region](sources/gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6.md) — The Intelligence episode on Gulf stability after the Iran war, America-at-250 democratic strain, and plant acoustic signaling.
@@ -188,6 +189,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [PingCAP](entities/PingCAP.md) — Open-source database company behind TiDB, used by Dongxu to explain infrastructure trust, cloud-service monetization, and founder-led globalization.
+- [东旭 / Dongxu](entities/Dongxu.md) — PingCAP co-founder and CTO explaining open-source infrastructure, TiDB, cloud commercialization, globalization, and AI data/memory opportunities.
+- [TiDB](entities/TiDB.md) — PingCAP's distributed relational database, used as the source's case for open-source infrastructure adoption and cloud-service commercialization.
 - [vivo](entities/Vivo.md) — Smartphone company represented by Han Boxiao in the S10E17 AI-phone discussion, bringing terminal scenarios, foldables, system adaptation, and on-device AI applications into chip co-design with MediaTek.
 - [Han Boxiao](entities/HanBoxiao.md) — vivo X-series product leader arguing that phones remain the central AI entry point and that product scenarios should pull terminal technology requirements.
 - [Chen Yiqiang](entities/ChenYiqiang.md) — MediaTek wireless-communications executive explaining AI-era chip planning, NPU investment, software tooling, and system-level workload scheduling.
@@ -231,7 +235,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nintendo](entities/Nintendo.md) — Console company comparison for physical-media resilience and industry-wide digital distribution pressure.
 - [Stop Killing Games](entities/StopKillingGames.md) — Player-rights movement referenced as context for service shutdown, deletion, and game-preservation concerns.
 - [朱宁 / Zhu Ning](entities/ZhuNing.md) — Economist and behavioral-finance scholar explaining bubble conditions, AI valuation risk, and consequence-first investing discipline.
-- [42章经](entities/42Zhangjing.md) — Podcast/show context for the Zhu Ning interview on bubbles, AI investing, and personal wealth decisions.
+- [42章经](entities/42Zhangjing.md) — Podcast/show context for interviews on Zhu Ning's bubble/investing framework and Dongxu's PingCAP infrastructure-company method.
 - [United States](entities/UnitedStates.md) — Country and institutional context connecting democratic resilience, immigration, cultural exports, NATO credibility, U.S.-Iran diplomacy, World Cup hosting, and Venezuela recovery responsibility.
 - [Supreme Court](entities/SupremeCourt.md) — U.S. judicial institution used in the America-at-250 source as both democratic guardrail and possible executive-power precedent maker.
 - [Robert Guest](entities/RobertGuest.md) — The Intelligence panelist giving the more optimistic account of American democratic resilience, assimilation, and cultural durability.
@@ -1093,6 +1097,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Open Source Infrastructure Trust](concepts/OpenSourceInfrastructureTrust.md) — Trust pattern where infrastructure users rely on visible source, documentation, roadmap, process, issue history, and technical direction rather than code release alone.
+- [Database Cloud Service Commercialization](concepts/DatabaseCloudServiceCommercialization.md) — Open-source database monetization route where managed cloud service sells operational reliability without undermining community trust.
+- [Founder-Led Software Globalization](concepts/FounderLedSoftwareGlobalization.md) — Globalization pattern where founders move presence, language, documentation, hiring, sales, and organization into the target software market.
+- [AI Data Memory Infrastructure](concepts/AIDataMemoryInfrastructure.md) — Agent-era infrastructure layer for enterprise or personal context, shared memory, governed data access, and database/tool interfaces.
 - [Smartphone AI Hub](concepts/SmartphoneAIHub.md) — Thesis that phones remain the central AI-era entry point because they combine sensors, display, interaction, local compute, context, cloud access, and services.
 - [On-Device AI](concepts/OnDeviceAI.md) — Phone-side AI implementation frame covering hardware compute, model adaptation, NPU execution, system scheduling, privacy, and local applications.
 - [Handset-Chip Co-Design](concepts/HandsetChipCoDesign.md) — Cooperation pattern where terminal scenarios are translated into chip architecture, NPU, bandwidth, power, and thermal decisions years ahead.

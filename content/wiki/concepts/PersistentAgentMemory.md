@@ -2,8 +2,8 @@
 title: "Persistent Agent Memory"
 type: concept
 tags: [agents, memory, context]
-sources: [e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, 139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no]
-last_updated: 2026-07-08
+sources: [e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, 139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no, guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5]
+last_updated: 2026-07-09
 ---
 
 # Persistent Agent Memory
@@ -32,6 +32,8 @@ Persistent agent memory is the durable user model that [[Paperboy]] wants to bui
 
 [[135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty]] adds the social-avatar version through [[Elys]]. [[Tristan]] describes memory not only as personal assistant recall, but as the material a [[CyberAvatars]] uses to represent the user in an [[AISocialNetworks]]: recent thoughts, tone, goals, values, public works, approvals, and rejected behaviors all affect whether the avatar feels like the user.
 
+[[guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5]] adds the infrastructure-provider version. [[Dongxu]] argues that AI memory is one of the key unsolved problems for making LLMs understand an enterprise or person, and that a general shared-memory layer has not yet become a standard. From the [[PingCAP]] and [[TiDB]] perspective, memory is therefore not only a user-experience feature but part of [[AIDataMemoryInfrastructure]].
+
 ## Key Claims
 - Memory should preserve useful chat, work, meeting, code, message, and browsing context even after an individual session ends.
 - More persistent memory can reduce explicit prompting because the agent already knows the user's taste, work history, and current activity.
@@ -50,6 +52,7 @@ Persistent agent memory is the durable user model that [[Paperboy]] wants to bui
 - Useful memory should preserve the user's acceptance and rejection patterns, because those patterns become practical [[OutputQualityGates]] for future work.
 - Social-avatar memory must preserve context and boundaries well enough that an agent can act near real relationships without impersonating the user carelessly.
 - Agent memory should cover semantic, episodic, and procedural layers, because an expert agent needs facts, history, and reusable ways of acting inside a specific environment.
+- Shared memory may become an infrastructure layer when multiple agents or enterprise systems need durable, governed access to the same context.
 
 ## Connections
 - [[ContextEngineering]] — broader discipline for making context durable and useful.
@@ -67,3 +70,4 @@ Persistent agent memory is the durable user model that [[Paperboy]] wants to bui
 - [[PingGe]], [[OutputQualityGates]], and [[AIUsePacing]] — E163's memory-as-training and finite-attention extension.
 - [[Elys]], [[CyberAvatars]], [[ContextFlywheel]], and [[SubjectivityAsAIAsset]] — social-avatar memory case added by episode 135.
 - [[SuYu]], [[MemoryAutonomyFramework]], [[ContinualLearning]], and [[SpecializedIntelligence]] — memory taxonomy and expert-agent learning frame added by episode 139.
+- [[AIDataMemoryInfrastructure]], [[PingCAP]], and [[TiDB]] — database and enterprise-memory infrastructure extension added by the PingCAP source.

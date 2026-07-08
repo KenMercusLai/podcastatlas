@@ -1348,6 +1348,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-09] ingest | 关于 AI、开源、商业化与全球化的经验、教训和方法论 | 对谈 PingCAP CTO 东旭
+
+Added source page for a 42章经 episode with PingCAP CTO Dongxu on TiDB, open-source infrastructure trust, cloud-service commercialization, founder-led software globalization, and AI-era data/memory infrastructure. Created pages for PingCAP, Dongxu, TiDB, Open Source Infrastructure Trust, Database Cloud Service Commercialization, Founder-Led Software Globalization, and AI Data Memory Infrastructure; updated overview, index, 42章经, Open Source Community Commercialization, AI Commercialization Pressure, Global Product Localization, AI Agent Overseas Commercialization, Model Context Protocol, Agent-Facing Interfaces, and Persistent Agent Memory. No direct contradiction found; the source extends existing open-source and agent infrastructure themes by showing how database infrastructure can move from transparent community adoption to managed cloud revenue and agent-facing enterprise data access.
+
 ## [2026-07-09] ingest | Keep qualms and carry on: a decade after Brexit
 
 Added source page for a The Intelligence episode on Brexit's cumulative economic damage, unrealized deregulation dividend, migration-politics reversal, AI and regulatory opportunity, and Britain's unresolved strategic identity. Created pages for United Kingdom, David Cameron, Boris Johnson, Daniel Franklin, Tom Carter, Georgia Banjo, Brexit, Brexit Economic Friction, Brexit Regulatory Dividend, Post-Brexit Immigration Politics, and Post-Brexit Strategic Identity; updated overview, index, The Intelligence, Economist Podcasts, European Union, NATO, Russia, Ukraine, European AI Industrial Constraints, European Defense Autonomy, NATO Alliance Credibility, and Immigration Backlash Cycle. No direct contradiction found; the source extends the wiki's European politics and security branches by showing how Brexit can be both a completed institutional exit and an ongoing constraint on trade, governance, migration expectations, and national role.
@@ -1371,6 +1375,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-09] ingest | AI 时代的超级入口还是手机吗？｜ S10E17
 
 Added source page for a What's Next｜科技早知道 episode with Han Boxiao and Chen Yiqiang on whether phones remain the AI-era super entry point. Created pages for vivo, Han Boxiao, Chen Yiqiang, Dimensity 9500, Smartphone AI Hub, On-Device AI, Handset-Chip Co-Design, Foldable Phone Productivity, and Edge-Cloud AI Boundary; updated overview, index, What's Next｜科技早知道, MediaTek, AI Plus Terminals, On-Device Model Hierarchy, Smartphone Operating System Ecosystems, China Handset Supply Chain, Chinese Domestic Handset Waves, OS-Level Context, and Consumer Electronics Lifecycle. No direct contradiction found; the source reinforces the wiki's AI plus terminals thread while qualifying it with phone-specific constraints around NPU scheduling, privacy, foldable productivity, hardware planning cycles, and edge-cloud division of labor.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-09] lint | Wiki health check
 
