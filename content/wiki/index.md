@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？](sources/e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie.md) — 硅谷101 episode on running-shoe technology, supercritical foam midsoles, carbon-plate racing shoes, marathon sub-2 performance, athlete sponsorship, and the performance-footwear market.
 - [E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE](sources/e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde.md) — 硅谷101 episode on FDEs, Cresta contact-center agents, Invisible Technologies workflow triage, private-equity AI transformation, and why model companies need enterprise deployment capacity.
 - [E43 张潇雨、孟岩对话许哲：没有更好的生活](sources/e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls.md) — 无人知晓 episode on black swans, fat-tail risk, antifragility, option convexity, ordinary-investor risk management, impermanence/no-self, and letting go of the fantasy of a finally better life.
 - [把身体数据存起来，可能是普通人最划算的 AI 投资](sources/ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1.md) — Keji Luandun episode with Jiang Xun on personal health data, AI health management, continuous glucose monitoring, doctor-in-the-loop boundaries, and AI-era education/personal differentiation.
@@ -164,6 +165,30 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [盖德](entities/Gaide.md) — Running-shoe reviewer and former sports-industry product manager explaining materials, fit, sponsorship, and marathon performance in E241.
+- [Nike](entities/Nike.md) — Sportswear and footwear company framed through Vaporfly, Alphafly, carbon-plate racing, and the missed official sub-2 marathon narrative.
+- [Adidas](entities/Adidas.md) — Sportswear and footwear company framed through Ultra Boost, Adios Pro Evo 3, Adizero Evo SL, and race-to-lifestyle demand.
+- [New Balance](entities/NewBalance.md) — Running and lifestyle footwear brand discussed through comfort, fit, width options, running-fashion growth, and shelf-space opportunity.
+- [ASICS](entities/ASICS.md) — Running-footwear brand discussed through GEL history, slow-running comfort, and lifestyle demand.
+- [Brooks](entities/Brooks.md) — Running-footwear brand discussed as a comfort-oriented slow-running shoe company pressured by carbon-plate racing competition.
+- [Saucony](entities/Saucony.md) — Running-footwear brand tied to Gaide's work history and iterative carbon-plate racing-shoe development.
+- [HOKA](entities/HOKA.md) — Performance and lifestyle running-footwear brand discussed through thick cushioning, rolling geometry, and retail growth.
+- [On Running](entities/OnRunning.md) — Footwear brand discussed through commute/lifestyle positioning and robotic upper-production experimentation.
+- [Xtep](entities/Xtep.md) — Chinese running-shoe brand discussed through lab infrastructure, gait testing, and domestic performance-footwear catch-up.
+- [Li-Ning](entities/LiNing.md) — Chinese sportswear brand discussed as an ultra-light racing-shoe experimenter in the domestic super-shoe race.
+- [Qiaodan Sports](entities/QiaodanSports.md) — Chinese sportswear brand discussed as part of domestic sub-100-gram racing-shoe experimentation.
+- [361 Degrees](entities/361Degrees.md) — Chinese sportswear brand discussed as part of domestic ultra-light racing-shoe experimentation.
+- [BASF](entities/BASF.md) — Chemical and materials supplier referenced as part of the upstream running-shoe midsole ecosystem.
+- [Arkema](entities/Arkema.md) — Chemical and materials supplier referenced in the running-shoe foam supply chain.
+- [Evonik](entities/Evonik.md) — Chemical and materials supplier referenced in the running-shoe midsole materials layer.
+- [Wanhua Chemical](entities/WanhuaChemical.md) — Chinese chemical-materials company referenced as part of domestic running-shoe foam catch-up.
+- [Adidas Adios Pro Evo 3](entities/AdidasAdiosProEvo3.md) — Elite racing shoe used as E241's concrete product around the reported 2026 London Marathon sub-2 result.
+- [Nike Vaporfly](entities/NikeVaporfly.md) — Carbon-plate racing shoe family used to explain the super-shoe shift before Adidas' Adios Pro Evo 3 narrative.
+- [Adidas Ultra Boost](entities/AdidasUltraBoost.md) — Running/lifestyle shoe used as a commercial era-defining example of mainstream foam adoption.
+- [Sabastian Sawe](entities/SabastianSawe.md) — Kenyan marathon runner discussed as the source's reported 2026 London Marathon sub-2 winner.
+- [Kelvin Kiptum](entities/KelvinKiptum.md) — Marathon runner used in E241 to explain Nike's lost official sub-2 opportunity and athlete-contingency risk.
+- [Eliud Kipchoge](entities/EliudKipchoge.md) — Elite marathon runner discussed through Breaking2, Nike super shoes, and the training lineage toward sub-2.
+- [Haile Gebrselassie](entities/HaileGebrselassie.md) — Elite distance runner referenced through barefoot-running caution and marathon-performance lineage.
 - [Cresta](entities/Cresta.md) — Enterprise AI company used as the episode's contact-center FDE case, with agents selected from historical customer data, SOP clarity, and measurable outcomes.
 - [Jove](entities/Jove.md) — Cresta FDE leader explaining customer-site deployment, FDE skills, FDPM pairing, and why AI agents need workflow integration.
 - [Invisible Technologies](entities/InvisibleTechnologies.md) — Workflow-customization company used to explain AI workflow triage for asset management, due diligence, fund operations, and portfolio-company transformation.
@@ -912,6 +937,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Running Shoe Technology](concepts/RunningShoeTechnology.md) — Product system of midsole materials, foaming, plates, geometry, uppers, lasts, drop, durability, and fit.
+- [Supercritical Foam Midsole](concepts/SupercriticalFoamMidsole.md) — Running-shoe foam process using gas-based foaming of TPU/TPEE/PEBA-like materials to improve cushioning, rebound, and weight.
+- [Carbon Plate Racing Shoes](concepts/CarbonPlateRacingShoes.md) — Road-racing shoe category where carbon structures, super foam, geometry, weight, and fit work as one performance system.
+- [Marathon Performance Ecosystem](concepts/MarathonPerformanceEcosystem.md) — Combined system of athlete talent, training, monitoring, recovery, footwear, sponsorship, and race attention behind marathon records.
+- [Performance Footwear Market](concepts/PerformanceFootwearMarket.md) — Market where running shoes sell through race proof, comfort, fit, materials, lifestyle adoption, channels, and price-performance.
+- [Athlete Sponsorship Strategy](concepts/AthleteSponsorshipStrategy.md) — Brand strategy for identifying and backing athletes whose race performance validates products and creates consumer attention.
 - [Forward Deployed Product Manager](concepts/ForwardDeployedProductManager.md) — Product/customer counterpart to FDE, responsible for agent behavior, quality expectations, requirements, and trust during deployment.
 - [AI Workflow Triage](concepts/AIWorkflowTriage.md) — Workflow decomposition discipline that separates deterministic, AI-suitable, and human-review steps before enterprise AI implementation.
 - [Private Equity AI Transformation](concepts/PrivateEquityAITransformation.md) — PE-led AI adoption pattern where owners use portfolio influence, fund workflows, and signaling needs to push AI deployment.

@@ -1175,3 +1175,11 @@ Added source page for a 硅谷101 episode on FDEs, Cresta contact-center AI, Inv
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？
+
+Added source page for a 硅谷101 episode with Gaide on running-shoe technology, supercritical foam midsoles, carbon-plate racing shoes, marathon sub-2 performance, athlete sponsorship, and the performance-footwear market. Created supporting pages for Gaide, Nike, Adidas, New Balance, ASICS, Brooks, Saucony, HOKA, On Running, Xtep, Li-Ning, Qiaodan Sports, 361 Degrees, BASF, Arkema, Evonik, Wanhua Chemical, Adidas Adios Pro Evo 3, Nike Vaporfly, Adidas Ultra Boost, Sabastian Sawe, Kelvin Kiptum, Eliud Kipchoge, Haile Gebrselassie, Running Shoe Technology, Supercritical Foam Midsole, Carbon Plate Racing Shoes, Marathon Performance Ecosystem, Performance Footwear Market, and Athlete Sponsorship Strategy; updated overview, index, Silicon Valley 101, Consumer Brand Moat, Distribution Led Product Building, and Subculture Led Marketing. No direct contradiction found; the source adds a performance-footwear and sports-equipment branch while reinforcing the wiki's consumer-brand, distribution, and sports-business themes.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
