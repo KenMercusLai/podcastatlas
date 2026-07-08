@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-09] ingest | Latin lessons: the Donroe-doctrine boost
+
+Added source page for a The Intelligence episode on Latin America's Trump-era investment boom, U.S.-China critical-minerals competition, Nigeria's jollof-price shock, and the BBC longwave shutdown. Created pages for Latin America, China, Brazil, Chile, Paraguay, Nigeria, Ghana, BBC, BYD, SBM Intelligence, Donroe Doctrine, Latin America Investment Boom, Critical Minerals Geopolitics, Food Inflation, Jollof Index, Longwave Radio, and Broadcast Infrastructure Sunset; updated The Intelligence, Economist Podcasts, Donald Trump, United States, Latin America Rightward Shift, overview, and index. No direct contradiction found; the source creates a tension with the earlier Latin America rightward-shift frame by showing that Trump-era pressure can produce both security-politics alignment and investment flows.
+
 ## [2026-07-09] ingest | E45 孟岩对话李继刚：人何以自处
 
 Added source page for a 无人知晓 episode with Meng Yan and Li Jigang on AI as time compression, prompt-as-intent, Memory/Soul second brains, AI companies as deep wells, wet-state human agency, feed curation, and water/fire education. Created pages for Li Jigang, AI As Time Compression, AI Company Deep Well, Prompt As Intent Transmission, AMV Prompt Framework, Wet-State Human Agency, Feed Curation, and Water And Fire Education; updated Meng Yan, 无人知晓, Human Agency Under AI, AI Use Pacing, AI-Assisted Reading, Personal Knowledge Ecology, AI Communication Ability, Subjectivity As AI Asset, Attention Industrialization, Human-Machine Amplification, AI Organization Design, Persistent Agent Memory, Reading As Frame Training, Learning How To Learn, AI As Tutor, overview, and index. Flagged no direct contradiction; the source is enthusiastic about delegating dry brain work to AI but keeps human intention, taste, body, and final judgment central.
@@ -1444,6 +1448,10 @@ Ran lint after health passed. Deterministic checks found three orphan pages (`wi
 ## [2026-07-09] ingest | Starmergeddon: British PM resigns
 
 Added source page for a The Intelligence episode on Keir Starmer's resignation, Labour succession through Andy Burnham, Colombia's election of Abelardo de la Espriella after frustration with Gustavo Petro's security record, and Toy Story 5 as a screen-time parenting critique. Created pages for Colombia, Abelardo de la Espriella, Gustavo Petro, Toy Story 5, Security Backlash Politics, Latin America Rightward Shift, and Screen-Time Parenting; updated overview, index, United Kingdom, Keir Starmer, Labour Party (UK), Andy Burnham, Labour Leadership Crisis, Political Delivery Gap, Post-Brexit Strategic Identity, The Intelligence, Economist Podcasts, Donald Trump, The Walt Disney Company, and Entertainment IP Flywheel. No direct contradiction found; the source turns the earlier Starmer "clings on" episode into a dated temporary reprieve rather than a conflicting claim.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-09] lint | Wiki health check
 

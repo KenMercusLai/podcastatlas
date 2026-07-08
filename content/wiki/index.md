@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Latin lessons: the Donroe-doctrine boost](sources/latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d.md) — The Intelligence episode on Latin America's Trump-era investment boom, U.S.-China critical-minerals competition, Nigeria's jollof-price shock, and the BBC longwave shutdown.
 - [Starmergeddon: British PM resigns](sources/starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1.md) — The Intelligence episode on Keir Starmer's resignation, Labour succession through Andy Burnham, Colombia's security backlash and rightward shift, and Toy Story 5 as a screen-time parenting critique.
 - [E45 孟岩对话李继刚：人何以自处](sources/e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask.md) — 无人知晓 episode with Meng Yan and Li Jigang on AI as time compression, prompt-as-intent, Memory/Soul second brains, deep-well AI companies, wet-state human agency, feed curation, and water/fire education.
 - [汉洋：为什么做《蜉蝣天地》](sources/hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5.md) — Fuyou Tiandi program-statement episode on Han Yang's critique of media constraints, long-form conversation, non-instrumental understanding, guest-centered interviews, and why video matters to the new show.
@@ -197,6 +198,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Latin America](entities/LatinAmerica.md) — Regional frame connecting Trump-era investment, U.S.-China strategic competition, critical minerals, and earlier security-driven rightward politics.
+- [China](entities/China.md) — Strategic investor and rival power in the Latin lessons source's Latin America investment, factory, mining, and infrastructure frame.
+- [Brazil](entities/Brazil.md) — Latin America investment case for a U.S.-backed rare-earth mine and BYD's China-linked factory presence.
+- [Chile](entities/Chile.md) — Copper and undersea-cable case in the source's Latin America strategic-minerals and infrastructure competition.
+- [Paraguay](entities/Paraguay.md) — Possible mineral-project destination in the Latin America investment boom.
+- [Nigeria](entities/Nigeria.md) — Jollof-price shock case where food inflation, diesel, roads, weather, and wages make a staple dish unaffordable.
+- [Ghana](entities/Ghana.md) — Jollof Index contrast case where lower inflation and a stronger currency cushion food prices more than in Nigeria.
+- [BBC](entities/BBC.md) — Public broadcaster whose Droitwich longwave shutdown becomes a broadcast-infrastructure and access case.
+- [BYD](entities/BYD.md) — Chinese company cited through its Brazil factory as part of the Latin America influence and investment contest.
+- [SBM Intelligence](entities/SBMIntelligence.md) — Organization behind the Jollof Index used to compare food affordability in Nigeria and Ghana.
 - [Li Jigang / 李继刚](entities/LiJigang.md) — E45 guest whose reading, investing, prompt, Memory/Soul, and education frames ask how people keep agency under AI time compression.
 - [汉洋 / Han Yang](entities/HanYang.md) — Content creator and Fuyou Tiandi host arguing for long-form, guest-centered conversation against conclusion-driven media constraints.
 - [蜉蝣天地 / Fuyou Tiandi](entities/FuyouTiandi.md) — Han Yang's video-podcast project built around long-form conversation, non-instrumental understanding, and visible guest worlds.
@@ -231,7 +242,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gulf Cooperation Council](entities/GulfCooperationCouncil.md) — Regional Gulf frame where confidence, security, finance, logistics, aviation, sovereign wealth, and expatriate business life interact.
 - [United Arab Emirates](entities/UnitedArabEmirates.md) — Gulf state presented as comparatively better placed after the Iran war because of fiscal strength, expatriate confidence, and Hormuz-bypass planning.
 - [Bahrain](entities/Bahrain.md) — Gulf state presented as more exposed after the Iran war because of debt, limited reserves, and dependence on outside support.
-- [Economist Podcasts](entities/EconomistPodcasts.md) — Economist audio context for Tocqueville Road Trip, The Intelligence, Gulf stability, Brexit, and adjacent Economist podcast branches already tracked in the wiki.
+- [Economist Podcasts](entities/EconomistPodcasts.md) — Economist audio context for Tocqueville Road Trip and The Intelligence branches on Latin America investment, Gulf stability, Brexit, and adjacent Economist podcast sources.
 - [Tocqueville Road Trip](entities/TocquevilleRoadTrip.md) — Economist podcast series retracing Tocqueville's U.S. journey to ask whether Democracy in America still explains the country.
 - [Alexis de Tocqueville](entities/AlexisDeTocqueville.md) — French observer whose 1831 U.S. journey and Democracy in America provide the trailer's interpretive lens.
 - [John Prideaux](entities/JohnPrideaux.md) — Economist host using Tocqueville's route to interview Americans about whether the national democratic idea still holds.
@@ -261,7 +272,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Stop Killing Games](entities/StopKillingGames.md) — Player-rights movement referenced as context for service shutdown, deletion, and game-preservation concerns.
 - [朱宁 / Zhu Ning](entities/ZhuNing.md) — Economist and behavioral-finance scholar explaining bubble conditions, AI valuation risk, and consequence-first investing discipline.
 - [42章经](entities/42Zhangjing.md) — Podcast/show context for interviews on investing bubbles, PingCAP infrastructure, AI application pivots, and EVE-style AI companionship.
-- [United States](entities/UnitedStates.md) — Country and institutional context connecting democratic resilience, immigration, cultural exports, NATO credibility, U.S.-Iran diplomacy, World Cup hosting, and Venezuela recovery responsibility.
+- [United States](entities/UnitedStates.md) — Country and institutional context connecting democratic resilience, immigration, cultural exports, NATO credibility, U.S.-Iran diplomacy, Latin America investment pressure, World Cup hosting, and Venezuela recovery responsibility.
 - [Supreme Court](entities/SupremeCourt.md) — U.S. judicial institution used in the America-at-250 source as both democratic guardrail and possible executive-power precedent maker.
 - [Robert Guest](entities/RobertGuest.md) — The Intelligence panelist giving the more optimistic account of American democratic resilience, assimilation, and cultural durability.
 - [Daniel Knowles](entities/DanielKnowles.md) — The Intelligence panelist warning that Supreme Court behavior and executive-power disputes show weakening U.S. constitutional guardrails.
@@ -508,7 +519,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [General Mills](entities/GeneralMills.md) — Food company mentioned as the Haagen-Dazs parent-company context in the ice-cream episode.
 - [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for city commerce observations, bee economics, FIFA governance, and Sushiro's restaurant-chain operations.
 - [Polymarket](entities/Polymarket.md) — Prediction-market example used by E144 to explain price-as-probability thinking and residual risk.
-- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for Starmer's resignation, Brexit, Gulf stability, America at 250, U.S.-Iran diplomacy, NATO stress, Colombia security politics, and other magazine-style segments.
+- [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for Latin America investment, jollof-price inflation, BBC longwave shutdown, Starmer's resignation, Brexit, Gulf stability, America at 250, U.S.-Iran diplomacy, NATO stress, Colombia security politics, and other magazine-style segments.
 - [NATO](entities/NATO.md) — Alliance context for defence spending, Ukraine support, European defence autonomy, Russian hybrid pressure, American commitment doubts, and Britain's post-Brexit defence role.
 - [Anton LaGuardia](entities/AntonLaGuardia.md) — The Intelligence diplomatic editor explaining NATO's tense summit, European defence autonomy, and alliance credibility risks.
 - [Anna Kerr](entities/AnnaKerr.md) — The Intelligence contributor explaining vibe lawyering, legal AI hallucinations, and supervised legal AI.
@@ -889,7 +900,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [DeepSeek](entities/DeepSeek.md) — Chinese open-source model effort cited through Qwen comparison, pricing substitution, market repricing, cost-control, export-control context, and Luo Fuli's earlier background.
 - [Deerflow](entities/Deerflow.md) — Open-source deep-research and desktop-workflow project discussed through AI coding, Chinese models, community governance, and multimodal work.
 - [Devin](entities/Devin.md) — Cognition coding-agent product discussed through the Windsurf acquisition context.
-- [Donald Trump](entities/DonaldTrump.md) — U.S. political figure used as a market-policy variable, political-influence monetization case, NATO alliance shock, Colombia security-politics endorser, Apple counterparty, and executive-power precedent test.
+- [Donald Trump](entities/DonaldTrump.md) — U.S. political figure used as a market-policy variable, political-influence monetization case, NATO alliance shock, Colombia security-politics endorser, Donroe Doctrine investment catalyst, Apple counterparty, and executive-power precedent test.
 - [Doubao](entities/Doubao.md) — ByteDance AI assistant and model context used for Chinese consumer AI subscriptions, voice fit, and Doubao Seed's AI-for-math signal.
 - [EOS Worldwide](entities/EOSWorldwide.md) — Methodology and coaching organization behind the EOS ecosystem that shaped Ninety's early product and channel.
 - [EarthKit](entities/EarthKit.md) — Jie Dechen's multimodal project for inferring photo locations, mentioned as background before Paperboy.
@@ -1126,6 +1137,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Donroe Doctrine](concepts/DonroeDoctrine.md) — Episode shorthand for Trump-era U.S. pressure and near-abroad influence redirecting capital toward Latin America.
+- [Latin America Investment Boom](concepts/LatinAmericaInvestmentBoom.md) — FDI surge frame linking regional macro stability, U.S.-China competition, Trump pressure, mining, and long project timelines.
+- [Critical Minerals Geopolitics](concepts/CriticalMineralsGeopolitics.md) — Strategic-resource competition where mines, factories, supply chains, and infrastructure become instruments of state influence.
+- [Food Inflation](concepts/FoodInflation.md) — Household cost-pressure frame showing how diesel, roads, weather, currency, and wages turn meal prices into daily economic stress.
+- [Jollof Index](concepts/JollofIndex.md) — Food-basket measure from SBM Intelligence using jollof rice ingredients to compare affordability in Nigeria and Ghana.
+- [Longwave Radio](concepts/LongwaveRadio.md) — Broadcast technology whose BBC Droitwich shutdown carries both cultural memory and remote-access implications.
+- [Broadcast Infrastructure Sunset](concepts/BroadcastInfrastructureSunset.md) — Public-media modernization problem where obsolete transmission systems can be costly yet still matter for access.
 - [AI As Time Compression](concepts/AIAsTimeCompression.md) — Li Jigang's frame that AI compresses the time needed for search, reading, synthesis, feedback, and knowledge-work loops.
 - [AI Company Deep Well](concepts/AICompanyDeepWell.md) — Contrast between internet companies as broad nets and AI companies as deep wells built from context, memory, trust, and value alignment.
 - [Prompt As Intent Transmission](concepts/PromptAsIntentTransmission.md) — View that prompts are any medium carrying human intention into a model, including roles, files, notes, memory, and context.
@@ -1374,7 +1392,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Labour Leadership Crisis](concepts/LabourLeadershipCrisis.md) — Governing-party situation where weak authority moves from failed scare to resignation and successor selection.
 - [Political Delivery Gap](concepts/PoliticalDeliveryGap.md) — Mismatch between promised governing outcomes and visible progress, making scandals and leadership exits more likely.
 - [Security Backlash Politics](concepts/SecurityBacklashPolitics.md) — Voter turn toward harder law-and-order candidates when crime, gangs, and territorial control appear to worsen.
-- [Latin America Rightward Shift](concepts/LatinAmericaRightwardShift.md) — Episode frame for right-wing gains across the cocaine belt driven by security frustration and anti-gang alignment.
+- [Latin America Rightward Shift](concepts/LatinAmericaRightwardShift.md) — Episode frame for right-wing gains across the cocaine belt, now adjacent to the Donroe Doctrine investment frame for Trump-era Latin America.
 - [Screen-Time Parenting](concepts/ScreenTimeParenting.md) — Family-technology problem where distracted parents, weak rules, and tablets displace play and connection.
 - [Assisted Dying Laws](concepts/AssistedDyingLaws.md) — U.S. state-level legal frameworks allowing eligible terminally ill patients to obtain fatal medication.
 - [Assisted Dying Safeguards](concepts/AssistedDyingSafeguards.md) — Eligibility and procedure controls such as prognosis, physician review, mental competence, witnessed request, and self-administration.
