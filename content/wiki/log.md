@@ -1319,3 +1319,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | Vol.263 郎的诱惑
+
+Added source page for a 商业就是这样 episode on Sushiro's China popularity, conveyor-belt sushi, seafood supply-chain localization, RFID-backed restaurant standardization, food-safety routines, mall rollout, and the risk that queue-driven scarcity fades as competitors learn the format. Created pages for Sushiro, Conveyor Belt Sushi, Restaurant Supply Chain Localization, and Chain Restaurant Standardization; updated overview, index, 商业就是这样, Retail Site Selection, Mall Based Retail Expansion, Restaurant Experience Design, Restaurant Operational Fragility, Experiential Retail, and Local Market Proof. No direct contradiction found; the source extends existing retail, hospitality, and cold-chain themes by showing a chain-restaurant case where upstream supply localization, store execution, and visible customer experience have to work together.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

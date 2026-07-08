@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.263 郎的诱惑](sources/vol-263-lang-de-youhuo-998128018.md) — 商业就是这样 episode on Sushiro's China popularity, conveyor-belt sushi, seafood supply localization, RFID-backed standardization, mall rollout, and the limits of queue-driven restaurant hype.
 - [从会跳舞到有感知，触觉是机器人通往智能的门票吗？｜ S10E19](sources/cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53.md) — What's Next｜科技早知道 episode with Eric Li Zhiqiang on tactile sensing, optical tactile routes, TouchNet, VTLA-style model integration, real/simulation data, industrial manipulation, and touch as physical-world infrastructure for embodied AI.
 - [商业小样44 | 世界杯扩军与FIFA的权力斗争](sources/shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969.md) — 商业就是这样 episode on the 2026 FIFA World Cup expansion, FIFA revenue, U.S. host-market upside, ticketing/resale economics, and Infantino's governance coalition.
 - [旧世代电台28 | 实体游戏的时代终结之际，不如重新定义拥有](sources/jiu-shidai-diantai-28-shiti-youxi-de-shidai-zhongjie-zhiji-buru-chongxin-dingyi-yongyou-998430652.md) — 旧世代 episode on Sony's source-reported PlayStation physical-disc retreat, digital distribution economics, player ownership anxiety, secondhand games, preservation, and post-ownership.
@@ -182,6 +183,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Sushiro / 寿司郎](entities/Sushiro.md) — Conveyor-belt sushi chain case for China expansion through supply localization, store standardization, mall positioning, and food-safety trust.
 - [Yimu Technology / 一目科技](entities/YimuTechnology.md) — Tactile-sensing robotics company positioned as a physical access-layer infrastructure provider for embodied AI.
 - [Eric Li Zhiqiang / 李志强](entities/EricLiZhiqiang.md) — Yimu Technology founder and CEO explaining tactile sensing, optical tactile sensors, TouchNet, and touch as a robot intelligence bottleneck.
 - [FIFA](entities/FIFA.md) — International football governing body analyzed through World Cup expansion, revenue concentration, member voting, and regional power redistribution.
@@ -442,7 +444,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dairy Queen](entities/DairyQueen.md) — Mid-price ice-cream chain used as the steadier small-store comparison to Haagen-Dazs and Yeren Xiansheng.
 - [Mixue Bingcheng](entities/MixueBingcheng.md) — Tea-drink chain whose low-price soft serve makes it a large ice-cream-volume comparison point.
 - [General Mills](entities/GeneralMills.md) — Food company mentioned as the Haagen-Dazs parent-company context in the ice-cream episode.
-- [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for city commerce observations and the bee-economics episode on pollination, honey standards, and agricultural markets.
+- [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for city commerce observations, bee economics, FIFA governance, and Sushiro's restaurant-chain operations.
 - [Polymarket](entities/Polymarket.md) — Prediction-market example used by E144 to explain price-as-probability thinking and residual risk.
 - [The Intelligence](entities/TheIntelligence.md) — Economist news podcast context for America at 250, U.S.-Iran deal fragility, El Nino climate risk, Japanese imperial succession, NATO alliance stress, Khamenei's funeral, Japan custody reform, Route 66, and other magazine-style segments.
 - [NATO](entities/NATO.md) — Alliance context for defence spending, Ukraine support, European defence autonomy, Russian hybrid pressure, and American commitment doubts.
@@ -1062,6 +1064,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Conveyor Belt Sushi](concepts/ConveyorBeltSushi.md) — Restaurant format where belt or screen-order delivery, freshness trust, menu cadence, local taste, and operating systems define the value.
+- [Restaurant Supply Chain Localization](concepts/RestaurantSupplyChainLocalization.md) — Chain-restaurant process of adapting sourcing, logistics, suppliers, and food handling to a local market while preserving consistency.
+- [Chain Restaurant Standardization](concepts/ChainRestaurantStandardization.md) — Operating discipline for reproducing a restaurant format through measurement, hygiene, training, waste handling, and localized labor design.
 - [Tactile Sensing](concepts/TactileSensing.md) — Robot ability to perceive force, contact, texture, friction, slip, softness, and hardness for embodied manipulation.
 - [Optical Tactile Sensing](concepts/OpticalTactileSensing.md) — Visual-tactile route that infers touch from contact-driven skin deformation and light changes.
 - [TouchNet](concepts/TouchNet.md) — Proposed ImageNet-like tactile dataset for training and aligning robot touch models.
