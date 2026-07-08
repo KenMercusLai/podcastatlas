@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [141. 咖啡战争2026：机构化与本土化](sources/141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1.md) — 疯投圈 episode on China's coffee market moving into institution-led ownership, local control, premium-versus-daily brand tension, Luckin's mature scale, and tea-drink chains entering coffee.
 - [140. 大疆还能低空飞多久？](sources/140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1.md) — 疯投圈 episode on DJI's drone and portable-camera business, global hardware brand power, U.S. restrictions, low-altitude regulatory risk, alumni startups, and the open IPO/liquidity question.
 - [Trailer: Tocqueville Road Trip](sources/trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7.md) — Economist Podcasts trailer from the Boom from The Economist Acast feed, duplicating the Tocqueville Road Trip setup around Alexis de Tocqueville, Democracy in America, and America as a democratic idea.
 - [Google 的 AI 策略：不赌模型，赌什么？｜ Google Cloud Next 现场 S10E09](sources/google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6.md) — What's Next｜科技早知道 episode from Google Cloud Next on One Google, Google Cloud, TPU, Gemini, enterprise agents, agent governance, capability overhang, and startup opportunities around data flywheels and business outcomes.
@@ -202,6 +203,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Luckin Coffee / 瑞幸咖啡](entities/LuckinCoffee.md) — scaled Chinese coffee-chain benchmark framed as the "one super" facing maturity, premiumization, and tea-drink crossover pressure.
+- [Blue Bottle Coffee / 蓝瓶子](entities/BlueBottleCoffee.md) — high-end store-led coffee brand used to explain premium portfolio logic and ownership fit after Nestle's sale to Centurium.
+- [Boyu Capital / 博裕资本](entities/BoyuCapital.md) — investment institution tied to Starbucks China's local-control and institutional-branding logic.
+- [Centurium Capital / 大钲资本](entities/CenturiumCapital.md) — investor connected to Blue Bottle and Luckin portfolio logic in the coffee-war episode.
+- [Hillhouse Capital / 高瓴资本](entities/HillhouseCapital.md) — investment institution named in the episode's map of coffee-chain institutionalization.
+- [PAG / 太盟集团](entities/PAG.md) — Asian investment institution named as part of the institutionalized coffee-chain landscape.
+- [% Arabica](entities/Arabica.md) — design-led premium coffee chain used as the scarce experiential-retail contrast to mass coffee scale.
+- [Peet's Coffee](entities/PeetsCoffee.md) — coffee brand included in the source's map of mid- to high-end chains under institutional and localization pressure.
+- [Tim's China](entities/TimsChina.md) — imported coffee-chain case used to show how brand assets meet local operating and ownership choices.
+- [Guming / 古茗](entities/Guming.md) — tea-drink chain whose coffee tests make beverage category convergence visible.
+- [Nestle](entities/Nestle.md) — global CPG owner used to show why packaged consumer-goods capability may not fit store-led coffee expansion.
 - [DJI / 大疆](entities/DJI.md) — Chinese drone and consumer-hardware company analyzed through category definition, global brand power, portable creator cameras, regulation risk, and talent spillover.
 - [Wang Tao / 汪滔](entities/WangTao.md) — DJI founder figure tied to founder control, listing choices, and talent/liquidity pressure.
 - [GoPro](entities/GoPro.md) — Action-camera pioneer used as a hardware lifecycle warning after DJI's challenger momentum.
@@ -1151,6 +1163,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Coffee Chain Institutionalization](concepts/CoffeeChainInstitutionalization.md) — shift from coffee startup land-grab toward control deals, professional managers, and institutional ownership of proven chain assets.
+- [Coffee Chain Localization](concepts/CoffeeChainLocalization.md) — ownership and operating adaptation needed when global coffee brands face China's local price, product, and store-cadence pressure.
+- [Premium-Everyday Brand Tension](concepts/PremiumEverydayBrandTension.md) — conflict between premium scarcity/status and chain-store frequency, convenience, and value.
+- [Beverage Category Convergence](concepts/BeverageCategoryConvergence.md) — tea-drink and coffee chains moving into each other's categories through shared beverage habits and store networks.
 - [Portable Creator Cameras](concepts/PortableCreatorCameras.md) — Action, gimbal, and 360-degree cameras that serve short-video and creator workflows beyond phone-only recording.
 - [Hardware Category Definition Power](concepts/HardwareCategoryDefinitionPower.md) — Advantage of teaching the market what a hardware category is, what quality looks like, and what price is acceptable.
 - [Chinese Hardware Globalization](concepts/ChineseHardwareGlobalization.md) — Pattern where Chinese device companies globalize through newer premium categories before protectionist or security constraints fully form.

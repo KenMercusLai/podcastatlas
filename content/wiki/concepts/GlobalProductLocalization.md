@@ -7,6 +7,7 @@ sources:
   - quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec
   - guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5
   - 140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1
+  - 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1
 last_updated: 2026-07-09
 ---
 
@@ -22,6 +23,8 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 
 [[140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1]] adds a hardware version through [[DJI]] and [[ChineseHardwareGlobalization]]. Here the problem is less interface translation than category legitimacy, retail presence, certification, distribution, after-sales trust, and policy exposure. DJI can globalize because drones and creator cameras are newer categories with fewer entrenched local champions, but [[LowAltitudeRegulatoryRisk]] shows that security framing can later override ordinary consumer demand.
 
+[[141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1]] adds the coffee-chain version through [[CoffeeChainLocalization]]. Here localization can require ownership and decision-right changes, not only local menu work: [[Starbucks]] China is framed through [[BoyuCapital]] control, while [[Nestle]]'s sale of [[BlueBottleCoffee]] shows that global CPG ownership may not fit local store expansion.
+
 ## Key Claims
 - A global product should separate what must be globally consistent from what must adapt locally.
 - Local content and operations can vary without fragmenting the core product container.
@@ -34,6 +37,7 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 - Founder physical presence can be part of localization because it changes which meetings, customers, hires, and market norms shape company decisions.
 - Hardware globalization can depend on category creation: a company may need to make the product form itself familiar before conventional localization matters.
 - Smaller consumer-electronics categories can avoid some protectionist pressure at first, but security narratives can still turn global demand into regulatory exposure.
+- Consumer-chain localization can require local ownership, local professional managers, and faster product-price-store iteration than a global headquarters can supply.
 
 ## Connections
 - [[TikTok]], [[Douyin]], and [[ByteDance]] — source product and company case.
@@ -44,3 +48,4 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 - [[XuHongliang]], [[ByteDanceGrowthSystem]], [[Zynn]], and [[Temu]] — growth-organization and overseas-localization extensions added by episode 7.
 - [[FounderLedSoftwareGlobalization]], [[PingCAP]], and [[Dongxu]] — infrastructure-software organization extension added by the PingCAP source.
 - [[DJI]], [[ChineseHardwareGlobalization]], [[HardwareCategoryDefinitionPower]], and [[LowAltitudeRegulatoryRisk]] — hardware globalization extension added by the FengTouQuan DJI source.
+- [[CoffeeChainLocalization]], [[Starbucks]], [[BoyuCapital]], [[BlueBottleCoffee]], and [[Nestle]] - coffee-chain localization extension added by the FengTouQuan coffee source.

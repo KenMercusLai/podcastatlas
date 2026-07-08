@@ -1496,3 +1496,11 @@ Added source page for a 疯投圈 episode on DJI's drone base, portable creator-
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used the existing `graph/graph.json` snapshot and found no hub stubs, seven fragile bridges, and no isolated communities; the graph snapshot has 1,957 nodes while the wiki has 1,969 pages, so it should be rebuilt before treating graph findings as final. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; report returned in-session and `lint-report.md` was not saved.
+
+## [2026-07-09] ingest | 141. 咖啡战争2026：机构化与本土化
+
+Added source page for a 疯投圈 episode on China's coffee market entering an institution-led and locally operated phase, with Starbucks China, Luckin, Blue Bottle, % Arabica, Peet's, Tim's China, Mixue, and Guming used to explain coffee-chain ownership, premium-versus-daily brand tension, and tea/coffee category convergence. Created pages for Luckin Coffee, Blue Bottle Coffee, Boyu Capital, Centurium Capital, Hillhouse Capital, PAG, % Arabica, Peet's Coffee, Tim's China, Guming, Nestle, Coffee Chain Institutionalization, Coffee Chain Localization, Premium-Everyday Brand Tension, and Beverage Category Convergence; updated overview, index, 疯投圈, Starbucks, Mixue Bingcheng, Global Product Localization, Franchise-Led Consumer Chain Expansion, Experiential Retail, Consumer Brand Moat, and Low Price Brand Perception. No direct contradiction found; the source qualifies the existing lifestyle coffee and experiential retail branches by tying coffee prices and premium mood to institutional ownership, local operating speed, and tea-drink chain competition.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
