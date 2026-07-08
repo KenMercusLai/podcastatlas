@@ -1,7 +1,7 @@
 ---
 title: "面基"
 type: entity
-tags: [podcast, investing, trading, embodied-judgment, macro, ai-workflow, career, nonfiction]
+tags: [podcast, investing, trading, embodied-judgment, macro, ai-workflow, career, nonfiction, reading, knowledge-management]
 sources:
   - e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e
   - e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0
@@ -14,6 +14,7 @@ sources:
   - e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl
   - e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb
   - da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf
+  - dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1
 last_updated: 2026-07-08
 ---
 
@@ -26,6 +27,8 @@ The E144 source adds a trend-trading and market-statistics layer through [[NoPre
 面基 is the podcast/show context for [[e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc]], [[e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]], [[e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc]], [[e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy]], [[e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf]], [[e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f]], and [[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]]. E153 uses an investing conversation to connect [[CompoundingGrowthFormula]], [[KellyCriterion]], [[InvestmentEdge]], [[PositionSizing]], [[QuantitativeInvesting]], [[PassiveInvesting]], and trading exits into one practical framework. E155 adds an AI investment layer through [[AIInvestmentMetrics]], [[JevonsParadoxInAI]], [[HumanResourceDeflationComputeInfrastructureInflation]], [[CAPEXOPEXSubstitution]], [[LanguageUserInterface]], and [[HoloAssets]]. E158 adds a multi-asset layer through [[AssetAllocation]], [[EfficientFrontier]], [[AssetCorrelation]], [[SixtyFortyPortfolio]], [[FreeCashFlowIndexing]], and [[FOFProductDesign]]. E159 adds a Hong Kong equity market-structure layer through [[HongKongMarketStructure]], [[HangSengTechIndex]], [[HongKongStockConnect]], [[HongKongExchangesAndClearing]], dividend assets, liquidity, IPO absorption, and active risk management. E160 adds a public-fund value-investing layer through [[ValueInvesting]], [[MarginOfSafety]], [[DividendDiscountModel]], [[FundLiabilityMatching]], [[CircleOfCompetence]], [[BusinessMoat]], and [[ValueTrap]]. E161 adds an embodied-judgment layer through [[GuanYadi]], [[TrainedIntuition]], [[EmbodiedJudgment]], [[FlowEnvironmentDesign]], [[ExtremeEnvironmentRiskManagement]], and [[ActionDefinesIdentity]]. E162 adds a long-cycle macro layer through [[KondratievCycle]], [[TechnologyInstallationCycle]], [[DepressionDrivenInnovation]], [[RiskParity]], [[MacroAssetExpression]], [[GoldMonetaryAnchor]], and [[GeopoliticalCycleMacro]].
 
 E163 adds an AI workflow and life-design layer through [[PingGe]], [[AISkills]], [[ContextEngineering]], [[PersistentAgentMemory]], [[HumanAgencyUnderAI]], [[AIUsePacing]], and [[OutputQualityGates]]. It treats AI not only as an investment or productivity topic, but as a practical question of how ordinary users define intention, preserve subjectivity, and prevent agents from turning finite life into endless task queues.
+
+The [[dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]] source adds a reading, friendship, and personal-knowledge layer through [[XFFXFramework]], [[AIAssistedReading]], [[ReadingAsFrameTraining]], [[PersonalKnowledgeEcology]], [[AIAuthorshipPresence]], and [[FortyThreeTalks]]. It connects the show's existing AI-agency thread to a broader cognition claim: when AI makes outputs cheap, people still need to train the frame that decides what to read, trust, share, and test in the world.
 
 The [[DaChangXiaomin]] conversation adds a nonfiction career layer through [[XiaoMan]], [[CareerShoreMyth]], [[SystemHumanity]], [[LayoffBuffer]], [[ToolRationalitySpillover]], [[FamilyLaborBoundaries]], and [[NonfictionPublicness]]. It moves the show from AI, investing, and embodied judgment into ordinary workers' relationship with large-company systems, asking how people can keep agency while restraining expectations that a system or "shore" will guarantee a stable life.
 
@@ -42,5 +45,6 @@ The [[DaChangXiaomin]] conversation adds a nonfiction career layer through [[Xia
 - [[GuanYadi]], [[TrainedIntuition]], and [[EmbodiedJudgment]] — E161's embodied decision-making and endurance-practice framework.
 - [[KondratievCycle]], [[RiskParity]], and [[MacroAssetExpression]] — E162's long-cycle macro, multi-asset, and portfolio-expression framework.
 - [[PingGe]], [[HumanAgencyUnderAI]], [[AIUsePacing]], and [[OutputQualityGates]] — E163's AI mindset, pacing, and workflow-quality layer.
+- [[XFFXFramework]], [[AIAssistedReading]], [[ReadingAsFrameTraining]], and [[PersonalKnowledgeEcology]] — reading and personal-context layer added by the "读书，就是在读一个人的 F" episode.
 - [[XiaoMan]], [[DaChangXiaomin]], [[CareerShoreMyth]], and [[SystemHumanity]] — big-company, layoff, nonfiction, and system-agency layer.
 - [[YiLaoYongYi]] — adjacent Chinese investing podcast already represented in the wiki through episodes on [[JimSimons]], [[JesseLivermore]], finance careers, and market risk.

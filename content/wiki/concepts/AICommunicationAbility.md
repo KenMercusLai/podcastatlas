@@ -2,7 +2,7 @@
 title: "AI Communication Ability"
 type: concept
 tags: [ai, communication, work, learning]
-sources: [e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1]
+sources: [e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]
 last_updated: 2026-07-08
 ---
 
@@ -16,6 +16,8 @@ The concept connects ordinary communication to [[AIEngineeringThinking]]. A pers
 
 [[e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb]] adds the blank-window version. The host's difficulty is not typing prompts, but knowing what he wants to create, what context matters, and how to describe himself, his standards, and his intent well enough for the agent to act.
 
+[[dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]] adds a frame-sharing version. When AI can generate abundant `FX`, the source argues that the more useful communication is sharing `F`: the frame, method, and judgment that let another person or their AI generate context-fitting outputs.
+
 ## Key Claims
 - Prompting is not only prompt tricks; it reflects whether the user understands the task well enough to specify it.
 - Writing remains valuable because it forces the user to organize thought, name things, and notice ambiguity before delegating work.
@@ -25,6 +27,7 @@ The concept connects ordinary communication to [[AIEngineeringThinking]]. A pers
 - In mature [[VibeCoding]], communication includes plan review, test expectations, and final acceptance criteria, not only the initial request.
 - Voice input can increase throughput, but the user still has to notice when spoken ambiguity creates a bad plan or task drift.
 - Communication with AI includes expressing identity, taste, and rejection criteria, not only the initial task request.
+- In high-AI contexts, communicating a reusable frame can be more valuable than delivering a finished artifact.
 
 ## Connections
 - [[ContextEngineering]] — communication turns tacit preferences and requirements into reusable context.
@@ -35,3 +38,4 @@ The concept connects ordinary communication to [[AIEngineeringThinking]]. A pers
 - [[AIContentDevaluation]] — opposite failure mode, where AI-generated expression carries little value because the human did not communicate with care.
 - [[NewSpot]], [[JustinYan]], and [[VibeCoding]] — Vol. 160's product and coding-agent communication case.
 - [[PingGe]], [[HumanAgencyUnderAI]], [[ContextEngineering]], and [[OutputQualityGates]] — E163's intent, self-description, and acceptance-standard extension.
+- [[XFFXFramework]] and [[ReadingAsFrameTraining]] — source frame for sharing method rather than only output.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [读书，就是在读一个人的 F](sources/dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1.md) — 面基 episode on AI-assisted reading, the X/F/FX framework, reading as frame training, personal knowledge ecology, AI authorship presence, and using one's own judgment when AI makes outputs abundant.
 - [Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough](sources/catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2.md) — How I Built This episode on Catalina Crunch, dietary constraint as product insight, low-sugar cereal formulation, CPG manufacturing scale-up, DTC shipping economics, Whole Foods retail breakout, packaging, and commodity exposure.
 - [Bayo Akomolafe: The Untimely](sources/bayo-akomolafe-the-untimely-cenyca-k7ry.md) — Long Now talk on the untimely, modern time discipline, Yoruba twin cosmology, colonial temporal discipline, fugitive temporality, autistic time, ancestry, and attention.
 - [Claire Isabel Webb & Nina Miolane: The Geometry of Consciousness](sources/claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk.md) — Long Now talk on neural geometry, population coding, spatial-navigation tori, Fourier spatial encoding, sleep-state geometry, AI interpretability, and consciousness measurement limits.
@@ -349,7 +350,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [运雷](entities/YunLei.md) — 面基 guest and fund manager explaining efficient-frontier asset allocation, correlation research, and FOF product design.
 - [南方全球](entities/NanfangQuanqiu.md) — QDII fund/product context used to discuss overseas ETF, bond, commodity, REIT, and active-fund allocation tooling.
 - [COWZ](entities/COWZ.md) — Free-cash-flow ETF/index example used as a possible S&P 500 substitute when expected return improves without losing correlation fit.
-- [面基](entities/Mianji.md) — Podcast/show context for investing, asset allocation, embodied judgment, long-cycle macro, AI workflow, and big-company nonfiction conversations.
+- [面基](entities/Mianji.md) — Podcast/show context for investing, asset allocation, embodied judgment, long-cycle macro, AI workflow, big-company nonfiction, and reading-as-frame conversations.
+- [43talks](entities/FortyThreeTalks.md) — Offline "AI + X" discussion format used as a frame-collision practice in the 面基 reading episode.
 - [关雅迪](entities/GuanYadi.md) — 面基 guest whose endurance running, ocean sailing, climbing, and life-design stories ground trained intuition and embodied judgment.
 - [青岛号](entities/QingdaoClipperYacht.md) — Ocean-racing boat used by E161 to explain team risk, weather uncertainty, captain judgment, and performance under physical stress.
 - [Edward Thorp](entities/EdwardThorp.md) — Mathematician and investor used by E153 to connect blackjack card counting, Kelly sizing, arbitrage, and quantitative investing.
@@ -952,6 +954,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tool Rationality Spillover](concepts/ToolRationalitySpillover.md) — Boundary failure where workplace calculation and task logic leak into friendship, pregnancy, parenting, and family life.
 - [Family Labor Boundaries](concepts/FamilyLaborBoundaries.md) — Explicit arrangements that keep family care work from being treated as free, invisible, or power-neutral labor.
 - [Nonfiction Publicness](concepts/NonfictionPublicness.md) — Writing frame for turning private experience into ethically checked public nonfiction and shared historical memory.
+- [X/F/FX Framework](concepts/XFFXFramework.md) — Cognitive model distinguishing the world or problem, the frame used to see it, and the visible result.
+- [AI-Assisted Reading](concepts/AIAssistedReading.md) — Reading practice that uses AI to extract structures, compare frames, surface blind spots, and lower barriers without replacing human judgment.
+- [Reading As Frame Training](concepts/ReadingAsFrameTraining.md) — Claim that reading books and talking with people trains the reader's frame rather than only collecting cases or conclusions.
+- [Personal Knowledge Ecology](concepts/PersonalKnowledgeEcology.md) — View of notes, shelves, whiteboards, conversations, and AI context as a living environment for thought.
+- [AI Authorship Presence](concepts/AIAuthorshipPresence.md) — Trust problem around whether the author's attention and frame are felt to be present when AI helps produce text.
 - [Human Agency Under AI](concepts/HumanAgencyUnderAI.md) — AI-era agency frame focused on why, what, what if, personal taste, and the parts of judgment that should not be delegated.
 - [AI Use Pacing](concepts/AIUsePacing.md) — Discipline for using AI without turning FoMO, subscriptions, token quotas, and agent watching into more self-created work.
 - [Output Quality Gates](concepts/OutputQualityGates.md) — Explicit acceptance, rejection, and review standards for AI output across coding and non-coding work.

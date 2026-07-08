@@ -2,7 +2,7 @@
 title: "AI Content Devaluation"
 type: concept
 tags: [ai, content, writing, media]
-sources: [vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]
+sources: [vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]
 last_updated: 2026-07-08
 ---
 
@@ -16,6 +16,8 @@ The concept is not simply anti-AI. The episode separates low-value generated fil
 
 [[zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]] links the attention problem to broader [[IntelligenceDevaluation]]. The hosts say they are less likely to like or save visibly AI-labeled short-video content because it feels batch-producible, and they worry that many products and media outputs may become homogeneous when built from similar model capabilities.
 
+[[dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]] adds the authorship-presence version. The hosts discuss the discomfort of discovering AI involvement in a book when the reader expected the author to be present in the words. The source also complicates the critique: useful but AI-flavored content can sometimes be reprocessed through the reader's own AI context, turning generic expression into a card or note that fits the reader's frame.
+
 ## Key Claims
 - Lower creation cost can reduce perceived scarcity, making readers or users more selective about what deserves attention.
 - "AI flavor" in short text can break trust because the audience may infer that the author outsourced the act of thinking.
@@ -25,6 +27,8 @@ The concept is not simply anti-AI. The episode separates low-value generated fil
 - Human-authored fragments can be product design choices, not nostalgia, when they signal that a real person still owns selection and interpretation.
 - AI audio can solve voice quality before it solves script quality; the bottleneck moves toward writing, pacing, and human-like surprise.
 - Devaluation can spread from media attention to labor value when generated output makes previously scarce cognitive work feel cheap.
+- AI-generated text can lose trust when readers believe the author's frame and attention are missing, even if the surface claims are useful.
+- A reader's own [[PersonalKnowledgeEcology]] can recover some value from generic AI-heavy content by translating it into their own context.
 
 ## Connections
 - [[AIContentProvenance]] — disclosure and traceability side of generated media.
@@ -34,3 +38,4 @@ The concept is not simply anti-AI. The episode separates low-value generated fil
 - [[ProductLedWillingnessToPay]] — users pay attention or money only when generated output becomes meaningfully valuable.
 - [[NewSpot]], [[JustinYan]], and [[FengyanFengyu]] — Vol. 160's product, podcast, and authored-voice case.
 - [[IntelligenceDevaluation]], [[Seedance]], and [[VideoModels]] — broader AI-video and labor-value branch added by the Keji Luandun source.
+- [[AIAuthorshipPresence]], [[PersonalKnowledgeEcology]], and [[XFFXFramework]] — Mianji reading source's trust, context, and frame-extension case.

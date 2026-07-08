@@ -1023,3 +1023,11 @@ Added source page for a How I Built This episode on Krishna Kaliannan, Catalina 
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | 读书，就是在读一个人的 F
+
+Added source page for a 面基 episode on AI-assisted reading, the X/F/FX framework, reading as frame training, personal knowledge ecology, AI authorship presence, and deciding when AI should or should not mediate reading. Created supporting pages for 43talks, X/F/FX Framework, AI-Assisted Reading, Reading As Frame Training, Personal Knowledge Ecology, and AI Authorship Presence; updated overview, index, 面基, Context Engineering, Human Judgment Under AI, Human Agency Under AI, AI Use Pacing, Learning How To Learn, AI Communication Ability, and AI Content Devaluation. No direct contradiction found; the source reinforces prior AI-judgment and context-engineering themes while shifting emphasis from output generation to frame training and authored presence.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
