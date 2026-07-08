@@ -2,7 +2,7 @@
 title: "Meta"
 type: entity
 tags: [company, ai, platform]
-sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]
+sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
 last_updated: 2026-07-08
 ---
 
@@ -18,6 +18,8 @@ The source speculates that Meta could see [[Manus]] demand through platform or a
 
 [[136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]] adds Meta as the most plausible fourth challenger behind [[Anthropic]], [[OpenAI]], and [[Google]]. The source speculates that Meta's talent density and possible [[Manus]] integration could help it build a lower-friction agent or assistant product, while still noting that the product strategy is not yet clear.
 
+[[264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]] adds Meta as the ad-platform contrast inside [[ApplePrivacy]]. The episode says Apple's App Tracking Transparency damaged Meta's data-driven advertising model and uses that conflict to frame [[TimCook]]'s "users are not products" stance.
+
 ## Connections
 - [[Manus]] — claimed acquisition target and agent product central to the source.
 - [[AgenticWorkflow]] — workflow pattern Meta is portrayed as buying into.
@@ -28,3 +30,4 @@ The source speculates that Meta could see [[Manus]] demand through platform or a
 - [[RepresentationLearning]], [[ResNeXt]], [[SelfSupervisedLearning]], and [[DiffusionTransformers]] — research lines associated with FAIR in the source.
 - [[AIBubbleHedging]] and [[AIEquityValuationRisk]] — investment-risk frame added by The Intelligence episode.
 - [[AGIThreeActs]], [[ModelAsOperatingSystem]], and [[ModelProviderToolCompetition]] — episode 136's challenger-position framing.
+- [[ApplePrivacy]], [[Apple]], and [[AppStore]] — ATT and ad-tracking contrast added by the Cook episode.

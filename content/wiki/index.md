@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [264.库克的道德锚点｜过去15年，库克给苹果留下了什么？](sources/264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0.md) — 乱翻书 episode on Tim Cook's Apple legacy, stakeholder capitalism, privacy, accessibility, supply-chain responsibility, values as an operational asset, and Apple as a social institution.
 - [263.Sora死了，Adobe跌了，美图何去何从？](sources/263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs.md) — 乱翻书 episode on Sora's reported shutdown, Adobe's AI-cost pressure, Meitu's AI application strategy, model-container positioning, vertical workflow moats, and to-agent distribution.
 - [E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？](sources/e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie.md) — 硅谷101 episode on running-shoe technology, supercritical foam midsoles, carbon-plate racing shoes, marathon sub-2 performance, athlete sponsorship, and the performance-footwear market.
 - [E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE](sources/e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde.md) — 硅谷101 episode on FDEs, Cresta contact-center agents, Invisible Technologies workflow triage, private-equity AI transformation, and why model companies need enterprise deployment capacity.
@@ -166,6 +167,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Tim Cook](entities/TimCook.md) — Apple CEO framed through values institutionalization, privacy, accessibility, supply-chain responsibility, stakeholder capitalism, and geopolitical pragmatism.
+- [Steve Jobs](entities/SteveJobs.md) — Apple founder used as the product-revolution comparison frame for evaluating Tim Cook's different institutional legacy.
+- [Business Roundtable](entities/BusinessRoundtable.md) — CEO organization whose 2019 corporate-purpose statement anchors the episode's stakeholder-capitalism frame.
 - [乱翻书](entities/Luanfanshu.md) — Podcast/show context for the Sora, Adobe, and Meitu application-layer strategy episode.
 - [庄明浩](entities/ZhuangMinghao.md) — Luanfanshu host framing whether frontier models are eating the application layer.
 - [魏熙](entities/WeiXi.md) — Technology writer and former advertising/product practitioner explaining Meitu's AI application strategy.
@@ -678,7 +682,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Amazon](entities/Amazon.md) — Cloud and AI infrastructure buyer discussed through Nvidia demand, hyperscaler capex assumptions, EP77's politically sensitive Melania Trump documentary deal, and data-center continuity risk.
 - [Android](entities/Android.md) — Google-backed open smartphone operating system that became the non-Apple ecosystem after iPhone reset handset competition.
 - [Anthropic](entities/Anthropic.md) — AI company discussed through frontier models, Claude Code, enterprise deployment, governance, and the AI-for-math competitive map.
-- [Apple](entities/Apple.md) — Platform company discussed through WWDC/Siri, iPhone and App Store ecosystems, podcasts/iPod media history, Buffett/Berkshire market sentiment, and F1 media-rights ambitions.
+- [Apple](entities/Apple.md) — Platform company discussed through Tim Cook's values governance, WWDC/Siri, iPhone and App Store ecosystems, podcasts/iPod media history, Buffett/Berkshire market sentiment, and F1 media-rights ambitions.
 - [App Store](entities/AppStore.md) — Apple marketplace discussed as a closed search-and-conversion platform for ASO, metadata, ratings, and paid search.
 - [Apple Search Ads](entities/AppleSearchAds.md) — App Store paid-search system used to test keywords and supplement organic ASO.
 - [Antler](entities/Antler.md) — Startup program where Peak AI's founding team formed and secured early funding.
@@ -953,6 +957,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Stakeholder Capitalism](concepts/StakeholderCapitalism.md) — Governance idea that a company should serve customers, employees, suppliers, communities, and other affected parties rather than only shareholders.
+- [Values As Operational Asset](concepts/ValuesAsOperationalAsset.md) — Pattern where company values become executable through product requirements, supplier contracts, litigation, policy, and user trust.
+- [Apple Privacy](concepts/ApplePrivacy.md) — Apple privacy stance covering the FBI iPhone dispute, App Tracking Transparency, GDPR rhetoric, and trust against data-advertising models.
+- [Apple Accessibility](concepts/AppleAccessibility.md) — Apple inclusive-design branch where accessibility commitments become product method rather than ROI-only feature work.
+- [Apple Supply Chain Responsibility](concepts/AppleSupplyChainResponsibility.md) — Apple supply-chain ethics branch around clean energy, labor dignity, supplier education, and procurement leverage.
 - [AI Application Layer Moat](concepts/AIApplicationLayerMoat.md) — Application defensibility under model pressure through workflow fit, taste, quality control, user insight, and business delivery.
 - [Model Container Strategy](concepts/ModelContainerStrategy.md) — Application-company posture of selecting and combining external APIs, open-source models, self-trained vertical models, and product-layer judgment.
 - [Vertical Workflow AI](concepts/VerticalWorkflowAI.md) — AI product pattern that solves concrete domain workflows rather than only exposing raw model generation.

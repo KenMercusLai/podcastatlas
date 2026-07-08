@@ -2,13 +2,15 @@
 title: "App Store"
 type: entity
 tags: [platform, mobile, distribution, app-store]
-sources: [ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]
-last_updated: 2026-07-07
+sources: [ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
+last_updated: 2026-07-08
 ---
 
 # App Store
 
 App Store is [[Apple]]'s mobile-app marketplace and the platform context for [[ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug]]. In the episode, [[Una]] treats it as a closed search-and-discovery system where developers can influence metadata, screenshots, conversion, ratings, and paid search, but cannot fully observe keyword-level attribution.
+
+[[264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]] adds App Store through [[ApplePrivacy]]. The episode treats App Tracking Transparency as a platform-policy expression of [[TimCook]]'s view that users should not be treated as products, even when that stance damages ad-driven platforms such as [[Meta]].
 
 The source distinguishes App Store growth from open web SEO. Store metadata fields, especially title, subtitle, keyword field, description, screenshots, ratings, and reviews, help the platform understand and rank an app, while App Store Connect gives overall exposure, page-view, conversion, and download data rather than exact keyword-to-download mapping.
 
@@ -28,10 +30,12 @@ The source distinguishes App Store growth from open web SEO. Store metadata fiel
 - AI lowers app-production cost, but App Store discovery, review, search, conversion, and payment trust still decide whether new supply becomes demand.
 - Commitment subscriptions can reduce purchase friction, but the platform and developer must make the remaining obligation clear enough that monthly billing does not become a consumer-trust trap.
 - Dynamic generated apps make review harder because the risky behavior may appear only after the user asks the agent to create something.
+- ATT shows App Store policy as values infrastructure: privacy choices can be enforced at app launch, not only described in privacy pages.
 
 ## Connections
 
 - [[Apple]] — owner of the platform.
+- [[TimCook]], [[ApplePrivacy]], and [[ValuesAsOperationalAsset]] — privacy-policy branch added by the Cook episode.
 - [[IPhone]] — device ecosystem that makes App Store distribution valuable.
 - [[AppStoreOptimization]] — optimization discipline for the platform.
 - [[AppStoreProductPageConversion]] — product-page layer inside the store.

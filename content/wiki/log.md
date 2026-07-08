@@ -1191,3 +1191,11 @@ Added source page for a 乱翻书 episode on Sora's reported shutdown, Adobe's A
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | 264.库克的道德锚点｜过去15年，库克给苹果留下了什么？
+
+Added source page for a 乱翻书 episode on Tim Cook's 15-year Apple legacy, stakeholder capitalism, privacy, accessibility, supply-chain responsibility, environmental and civil-rights commitments, and values as an operational asset. Created pages for Tim Cook, Steve Jobs, Business Roundtable, Stakeholder Capitalism, Values As Operational Asset, Apple Privacy, Apple Accessibility, and Apple Supply Chain Responsibility; updated overview, index, Luanfanshu, Apple, iPhone, App Store, Meta, Google, Donald Trump, European Union, Shareholder Primacy, Purpose Driven Business, and Trust As Business Asset. No direct contradiction found; the source qualifies the Apple platform and trust threads by arguing that values can be both sincere moral commitments and durable institutional moats when they are operationalized in products, contracts, suppliers, litigation, and regulation.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

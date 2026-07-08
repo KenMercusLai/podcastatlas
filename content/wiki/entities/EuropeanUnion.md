@@ -2,8 +2,8 @@
 title: "European Union"
 type: entity
 tags: [institution, europe, politics]
-sources: [biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]
-last_updated: 2026-07-07
+sources: [biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
+last_updated: 2026-07-08
 ---
 
 # European Union
@@ -12,11 +12,14 @@ The European Union appears in [[biancheng-de-neiranji-shidai-neihe-konghuang-71-
 
 [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]] adds the EU as a regional AI-availability example. The hosts mention that some Apple AI features are unavailable to European users, using that constraint alongside China access limits to argue that globally uniform software availability is weakening.
 
+[[264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]] adds the EU through GDPR and [[ApplePrivacy]]. The episode treats [[TimCook]]'s Brussels speech after GDPR as unusual because a U.S. technology CEO publicly praised European privacy regulation and criticized data-driven advertising practices.
+
 ## Source Position
 - The hosts argue that Europe faces a fragmented language and political structure compared with the U.S. and China.
 - They speculate that better [[AITranslation]] could reduce some language friction inside the EU, though the idea is treated partly as a joke and partly as a serious coordination thought experiment.
 - The source connects EU fragmentation to [[EuropeanAIIndustrialConstraints]], where regulation, market size, capital appetite, and product localization costs shape startup conditions.
 - The Keji Luandun export-control source uses EU feature restrictions as part of a broader [[FrontierModelAccessRestrictions]] and regional-compliance frame.
+- The Cook episode uses GDPR as a regulatory backdrop for Apple's privacy positioning against the data-industrial complex.
 
 ## Connections
 - [[AITranslation]] - possible reducer of language friction across European markets.
@@ -24,3 +27,4 @@ The European Union appears in [[biancheng-de-neiranji-shidai-neihe-konghuang-71-
 - [[SAP]] and [[AlephAlpha]] - German software and AI examples in the same episode.
 - [[FrontierModelScaling]] and [[AICommercializationPressure]] - AI competition context against U.S. and Chinese model companies.
 - [[Apple]], [[FrontierModelAccessRestrictions]], and [[SaaSReliabilityUnderPolicyRisk]] - regional AI availability context added by the Keji Luandun export-control episode.
+- [[ApplePrivacy]], [[TimCook]], and [[PlatformDataRegulation]] - GDPR and privacy-regulation context added by the Cook episode.
