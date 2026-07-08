@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Trailer: Tocqueville Road Trip](sources/trailer-tocqueville-road-trip-6a315642780d0f7579af216c.md) — Economist Podcasts trailer introducing John Prideaux's Tocqueville Road Trip, using Alexis de Tocqueville and Democracy in America to test whether the United States still works as a democratic idea.
 - [Fault lines: Venezuela's paltry earthquake response](sources/fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b.md) — The Intelligence episode on Venezuela's earthquake response, state decay, U.S. recovery responsibility, delayed democratic-transition risk, sidewalk delivery-robot economics, and Harlan Coben as a Netflix thriller brand.
 - [Vol.263 郎的诱惑](sources/vol-263-lang-de-youhuo-998128018.md) — 商业就是这样 episode on Sushiro's China popularity, conveyor-belt sushi, seafood supply localization, RFID-backed standardization, mall rollout, and the limits of queue-driven restaurant hype.
 - [从会跳舞到有感知，触觉是机器人通往智能的门票吗？｜ S10E19](sources/cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53.md) — What's Next｜科技早知道 episode with Eric Li Zhiqiang on tactile sensing, optical tactile routes, TouchNet, VTLA-style model integration, real/simulation data, industrial manipulation, and touch as physical-world infrastructure for embodied AI.
@@ -184,6 +185,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Economist Podcasts](entities/EconomistPodcasts.md) — Economist audio context for Tocqueville Road Trip and adjacent Economist podcast branches already tracked in the wiki.
+- [Tocqueville Road Trip](entities/TocquevilleRoadTrip.md) — Economist podcast series retracing Tocqueville's U.S. journey to ask whether Democracy in America still explains the country.
+- [Alexis de Tocqueville](entities/AlexisDeTocqueville.md) — French observer whose 1831 U.S. journey and Democracy in America provide the trailer's interpretive lens.
+- [John Prideaux](entities/JohnPrideaux.md) — Economist host using Tocqueville's route to interview Americans about whether the national democratic idea still holds.
 - [Venezuela](entities/Venezuela.md) — Country case where earthquake response exposes state-capacity decay, public anger, U.S. recovery responsibility, and transition-timetable risk.
 - [Delcy Rodriguez](entities/DelcyRodriguez.md) — Venezuelan regime figure whose aid-distribution role becomes a legitimacy test after the earthquakes.
 - [Maria Corina Machado](entities/MariaCorinaMachado.md) — Venezuelan opposition leader whose attempted return could complicate the Rodriguez-led transition arrangement.
@@ -1071,6 +1076,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Democracy in America](concepts/DemocracyInAmerica.md) — Tocqueville text used as a historical benchmark for judging whether the United States still resembles its democratic self-description.
+- [America as Idea](concepts/AmericaAsIdea.md) — Frame that treats the United States as a democratic promise and global symbol rather than only a country or government.
 - [Disaster Response State Capacity](concepts/DisasterResponseStateCapacity.md) — Governance capacity to mobilize rescue, logistics, health systems, skilled labor, fuel, and aid distribution after shocks.
 - [Sidewalk Delivery Robots](concepts/SidewalkDeliveryRobots.md) — Low-speed urban delivery robots that narrow autonomy around modest payloads, sidewalks, and lower-risk failures.
 - [Robot Delivery Economics](concepts/RobotDeliveryEconomics.md) — Last-mile robot-delivery cost structure shaped by hardware, supervision, maintenance, routing, and human courier substitution.

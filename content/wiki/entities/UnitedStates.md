@@ -2,13 +2,15 @@
 title: "United States"
 type: entity
 tags: [country, politics, culture, sports, geopolitics]
-sources: [the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b]
+sources: [trailer-tocqueville-road-trip-6a315642780d0f7579af216c, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b]
 last_updated: 2026-07-08
 ---
 
 # United States
 
 The [[UnitedStates]] is the central subject of [[the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad]], where [[TheIntelligence]] treats the country's 250th birthday as a test of democracy, immigration, historical memory, and cultural power. The episode frames America as both resilient and fragile: constitutional institutions, labor-market assimilation, and cultural energy remain strong, while polarization, voting-rights erosion, harsh immigration enforcement, and executive-power expansion put pressure on the republic.
+
+[[trailer-tocqueville-road-trip-6a315642780d0f7579af216c]] adds a historical lens for the same civic question. [[JohnPrideaux]] uses [[AlexisDeTocqueville]]'s 1831 journey and [[DemocracyInAmerica]] to ask whether the United States still functions as [[AmericaAsIdea]]: a democratic promise with global symbolic force, not only a state under institutional stress.
 
 The page also connects earlier wiki branches that used America more indirectly. [[NATOAllianceCredibility]] and [[EuropeanDefenseAutonomy]] depend on whether U.S. command, intelligence, and military integration remain reliable; [[USIranNuclearDiplomacy]] depends on U.S. bargaining credibility; and [[Route66NostalgiaTourism]] shows how American mobility myths and roadside identity can keep cultural value alive after infrastructure loses practical utility.
 
@@ -18,6 +20,7 @@ The page also connects earlier wiki branches that used America more indirectly. 
 
 ## Connections
 - [[AmericanDemocraticResilience]], [[ExecutivePowerPrecedent]], and [[SupremeCourt]] - institutional and constitutional guardrail branch.
+- [[AlexisDeTocqueville]], [[DemocracyInAmerica]], [[TocquevilleRoadTrip]], and [[AmericaAsIdea]] - historical lens and symbolic-democracy branch added by the trailer.
 - [[ImmigrationBacklashCycle]] and [[AssimilationCapacity]] - immigration history, enforcement, and belonging branch.
 - [[HistoricalMemoryContest]] - conflict over slavery, racial terror, school curricula, and national memory.
 - [[AmericanCulturalExports]], [[Route66NostalgiaTourism]], and [[EntertainmentIPFlywheel]] - culture and media branch.

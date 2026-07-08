@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-08] ingest | Trailer: Tocqueville Road Trip
+
+Added source page for an Economist Podcasts trailer introducing John Prideaux's Tocqueville Road Trip, which retraces Alexis de Tocqueville's 1831 U.S. journey and uses Democracy in America to ask whether the United States still functions as a democratic idea. Created pages for Economist Podcasts, Tocqueville Road Trip, Alexis de Tocqueville, John Prideaux, Democracy in America, and America as Idea; updated United States, American Democratic Resilience, overview, and index. No direct contradiction found; the source extends the America-at-250 branch by turning the current resilience question into a historical comparison with Tocqueville's account.
+
 ## [2026-07-08] ingest | 从会跳舞到有感知，触觉是机器人通往智能的门票吗？｜ S10E19
 
 Added source page for a What's Next｜科技早知道 episode with Eric Li Zhiqiang on tactile sensing as embodied-AI infrastructure, optical tactile sensors, touch data, TouchNet, tactile transformer encoding, VTLA-style model integration, industrial assembly, medical manipulation, and Yimu Technology's chips/materials/algorithms/data stack. Created pages for Yimu Technology, Eric Li Zhiqiang, Tactile Sensing, Optical Tactile Sensing, TouchNet, and Tactile Transformer Encoder; updated overview, index, What's Next｜科技早知道, Embodied AI, Dexterous Manipulation, Vision Language Action Models, World Models, World Model VLA Fusion, Embodied Data Pyramid, Real Robot Data Strategy, Robotics Simulation Evaluation, and Physical World Data Flywheel. No direct contradiction found; the source reinforces prior robotics data constraints while adding touch as a missing physical feedback modality.
@@ -1335,3 +1339,15 @@ Added source page for a The Intelligence episode on Venezuela's earthquake respo
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-09] graph | Knowledge graph rebuilt
+
+1834 nodes, 17580 edges (17580 extracted, 0 inferred).
+
+## [2026-07-09] report | Graph health report generated
+
+1834 nodes analyzed.
