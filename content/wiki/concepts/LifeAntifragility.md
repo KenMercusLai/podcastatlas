@@ -1,0 +1,26 @@
+---
+title: "Life Antifragility"
+type: concept
+tags: [life-design, risk, uncertainty]
+sources: [e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls]
+last_updated: 2026-07-08
+---
+
+# Life Antifragility
+
+Life antifragility is the episode's translation of [[Antifragility]] from markets into daily structure. In [[e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls]], [[ZhangXiaoyu]] argues that life choices should first ask how bad the worst credible outcome can be, whether that outcome is bearable, and whether the design allows upside contact with the world.
+
+The source gives two sides of the concept. The defensive side closes ruin risks in health, money, relationships, partners, and long-term obligations. The upside side uses writing, podcasts, public work, friendships, and small experiments to create [[CareerOptionality]] and positive exposure to [[BlackSwan]]-like opportunities.
+
+## Key Claims
+- Health can be a dominant life-risk factor because pain or injury changes everyday freedom immediately.
+- Bad relationships, wrong collaborators, and draining work environments can become negative life black swans.
+- Public work can create upside paths that are impossible to predict at the time of publishing.
+- The point is not to make life frictionless; it is to avoid ruin while allowing beneficial randomness.
+- Life antifragility still sits under [[NoBetterLife]]: upside exposure should not become a fantasy of final rescue.
+
+## Connections
+- [[Antifragility]], [[BlackSwan]], and [[FatTailRisk]] — market ideas translated into life design.
+- [[CareerOptionality]] — existing wiki concept for small-cost upside experiments.
+- [[InvestmentRiskManagement]] — survival and downside-control analogue.
+- [[ImpermanenceAndNoSelf]] and [[NoBetterLife]] — practice and philosophy boundaries around life design.

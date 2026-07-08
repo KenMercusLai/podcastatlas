@@ -2,7 +2,7 @@
 title: "Value Investing"
 type: concept
 tags: [investing, valuation, risk]
-sources: [e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]
+sources: [e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]
 last_updated: 2026-07-08
 ---
 
@@ -14,6 +14,8 @@ The episode's practical metaphor is "seeking the integral": value is the sum of 
 
 [[e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]] adds the market-level valuation version. [[ZhangYizhen]] argues that after A-share valuation repair, further gains need earnings recovery; otherwise the market moves closer to a sentiment-driven phase where [[AShareValuationIndicators]], sizing, and exits matter more.
 
+[[e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls]] adds an asymmetry interpretation through [[XuZhe]]. In that discussion, [[WarrenBuffett]]-style value investing is not opposed to option thinking: insurance float, long-duration liabilities, replacement-cost assets, and durable businesses can create [[AsymmetricPayoff]] when downside is controlled and upside remains open.
+
 ## Key Claims
 - Value investing starts by asking where the investor's return ultimately comes from: business cash flow, dividends, repurchases, or eventual sale value.
 - It is not identical to low valuation; cheapness can be a symptom of value, a reward for patient capital, or a warning sign of [[ValueTrap]] risk.
@@ -22,6 +24,7 @@ The episode's practical metaphor is "seeking the integral": value is the sum of 
 - Value investing still needs dynamic research; a stable philosophy does not justify stale views when industry structure, technology, or business quality changes.
 - Public-market implementation needs [[FundLiabilityMatching]] because clients may not hold long enough to receive the long-term value the manager expects.
 - E145 adds that valuation discipline can justify reducing exposure even while a trend remains strong, which is why value and momentum may need separate strategy sleeves.
+- E43 adds that value investing can be read as an asymmetry strategy when durable assets, float, and replacement cost create favorable downside/upside structure.
 
 ## Connections
 - [[MarginOfSafety]] — main defense against forecast error.
@@ -31,3 +34,4 @@ The episode's practical metaphor is "seeking the integral": value is the sum of 
 - [[MarketEfficiency]] and [[HongKongMarketStructure]] — market-pricing environments where value opportunities and traps both appear.
 - [[AShareValuationIndicators]], [[MultiStrategyAllocation]], and [[DrawdownPsychology]] — E145's hot-market valuation and strategy-mix extension.
 - [[WarrenBuffett]], [[CharlieMunger]], [[SeesCandies]], [[AmericanExpress]], and [[CocaCola]] — existing wiki examples of long-duration business-quality investing.
+- [[AsymmetricPayoff]], [[Antifragility]], and [[InvestmentRiskManagement]] — E43's connection between value investing and option-like downside/upside structure.

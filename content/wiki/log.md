@@ -1159,3 +1159,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] graph | Knowledge graph rebuilt
 
 1554 nodes, 14743 edges (14743 extracted, 0 inferred).
+
+## [2026-07-08] ingest | E43 张潇雨、孟岩对话许哲：没有更好的生活
+
+Added source page for a 无人知晓 episode with Zhang Xiaoyu, Meng Yan, and Xu Zhe on black swans, fat-tail risk, antifragility, options, convexity, tail-risk hedging, ordinary-investor risk management, impermanence/no-self, and the idea that there is no finally better life. Created pages for Wuren Zhixiao, Zhang Xiaoyu, Meng Yan, Xu Zhe, Nassim Taleb, Universa Investments, Mark Spitznagel, Black Swan, Fat-Tail Risk, Antifragility, Barbell Strategy, Asymmetric Payoff, Convexity Exposure, Tail-Risk Hedging, Impermanence And No-Self, No Better Life, and Life Antifragility; updated overview, index, Investment Risk Management, Option Contract Mechanics, Option Premium Pricing, Option Selling Discipline, Value Investing, Passive Investing, Insurance Risk Transfer, Career Optionality, Bitcoin, Warren Buffett, and Berkshire Hathaway. No direct contradiction found; the source qualifies prior options pages by distinguishing options from simple insurance and reinforces the wiki's risk-management thread by moving from prediction toward structure.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,7 +2,7 @@
 title: "Passive Investing"
 type: concept
 tags: [investing, index-funds]
-sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0]
+sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0]
 last_updated: 2026-07-08
 ---
 
@@ -20,6 +20,8 @@ Passive investing is the episode's main recommendation for ordinary investors wh
 
 [[e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0]] adds the [[DiversificationAlpha]] argument. Its random-index thought experiment suggests that broad exposure can benefit from the combination of capped downside, uncapped upside, and index weights that let emergent winners become larger parts of the basket.
 
+[[e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls]] adds the [[FatTailRisk]] rationale through [[MengYan]]. If a small number of companies or trading days account for much of the long-run return, broad index exposure becomes a practical way for ordinary investors to stay attached to unknown future winners without pretending to predict them.
+
 ## Key Claims
 - For many investors, broad index funds may offer a better balance of return, effort, cost, and emotional burden than active trading.
 - Dollar-cost averaging can automate discipline and reduce the temptation to time markets.
@@ -33,6 +35,7 @@ Passive investing is the episode's main recommendation for ordinary investors wh
 - Low valuation can improve payoff odds, but historical index distributions do not guarantee future returns.
 - In Hong Kong, ETF access can be useful but does not remove the need to ask whether the index offers durable beta, tradable volatility, or incomplete exposure.
 - E144 adds that index-like exposure can be a mechanical way to stay exposed to winners that were not identifiable in advance.
+- E43 adds that broad passive exposure is a humble response to fat tails: it captures some upside concentration without requiring professional [[TailRiskHedging]].
 
 ## Connections
 - [[InvestmentRiskManagement]] — practical reason for favoring broad, automated exposure.
@@ -44,3 +47,4 @@ Passive investing is the episode's main recommendation for ordinary investors wh
 - [[AssetAllocation]], [[SixtyFortyPortfolio]], and [[FreeCashFlowIndexing]] — E158's portfolio-construction and factor-indexing extension.
 - [[HangSengTechIndex]] and [[HongKongMarketStructure]] — E159's warning that Hong Kong ETFs may function more as tactical beta tools than core passive holdings.
 - [[DiversificationAlpha]] and [[NoPredictionTrading]] — E144's reason broad exposure can reduce dependence on winner prediction.
+- [[MengYan]], [[FatTailRisk]], and [[TailRiskHedging]] — E43's ordinary-investor interpretation of fat-tail return concentration.

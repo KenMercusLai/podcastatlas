@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E43 张潇雨、孟岩对话许哲：没有更好的生活](sources/e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls.md) — 无人知晓 episode on black swans, fat-tail risk, antifragility, option convexity, ordinary-investor risk management, impermanence/no-self, and letting go of the fantasy of a finally better life.
 - [把身体数据存起来，可能是普通人最划算的 AI 投资](sources/ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1.md) — Keji Luandun episode with Jiang Xun on personal health data, AI health management, continuous glucose monitoring, doctor-in-the-loop boundaries, and AI-era education/personal differentiation.
 - [136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS](sources/136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v.md) — 张小珺Jùn｜商业访谈录 episode on coding as AGI's second act, Anthropic/OpenAI/Google/Meta/xAI competition, model-as-operating-system strategy, token usage metrics, harness engineering, and white-collar labor repricing.
 - [142. 雨森的创投观察第2集：Harness、下一个字节、2026大机会和Stanley Druckenmiller](sources/142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz.md) — 张小珺Jùn｜商业访谈录 episode with Dai Yusen on AI investing, Claude Code/Codex competition, harness value, terminal AI returns, agent marketplaces, AI-native organization design, world models, and why the next major AI company may not copy ByteDance.
@@ -162,6 +163,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [无人知晓](entities/WurenZhixiao.md) — Podcast/show context for the Zhang Xiaoyu, Meng Yan, and Xu Zhe conversation on uncertainty, investing, and life practice.
+- [Zhang Xiaoyu / 张潇雨](entities/ZhangXiaoyu.md) — Speaker who translates black swans, options, and antifragility into public work, relationships, health, and no-better-life reflection.
+- [Meng Yan / 孟岩](entities/MengYan.md) — Speaker who brings tail-risk and antifragility back to ordinary investors through index exposure, cash reserves, and insurance.
+- [Xu Zhe / 许哲](entities/XuZhe.md) — Investor and guest explaining black swans, fat tails, options, convexity, antifragility, and impermanence/no-self.
+- [Nassim Taleb](entities/NassimTaleb.md) — Uncertainty thinker referenced through black swans, fat tails, antifragility, barbell strategy, and asymmetric risk.
+- [Universa Investments](entities/UniversaInvestments.md) — Tail-risk investing reference used to discuss crisis payoff, option convexity, and the difficulty of copying antifragile portfolios.
+- [Mark Spitznagel](entities/MarkSpitznagel.md) — Tail-risk investing reference connected to Universa, Taleb, convexity exposure, and implementation difficulty.
 - [Jiang Xun / 江迅](entities/JiangXun.md) — Data, AI, and healthcare practitioner arguing for long-term personal health data and doctor-supervised AI health management.
 - [The Fifth Dimension / 第五维度](entities/FifthDimension.md) — Jiang Xun book framed as an AI-era survival guide and concept map for students and parents.
 - [Yang Meng / 杨萌](entities/YangMeng.md) — Anker Innovations founder and CEO discussing consumer-electronics strategy, edge AI, creator culture, third-type company governance, and AI-era organization design.
@@ -897,6 +905,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Black Swan](concepts/BlackSwan.md) — Event outside the prior sample set, used to explain why experience cannot exhaust future possibility.
+- [Fat-Tail Risk](concepts/FatTailRisk.md) — Risk frame where rare extreme dates, companies, health events, relationships, or opportunities dominate long-run outcomes.
+- [Antifragility](concepts/Antifragility.md) — Structure that can gain from randomness, volatility, and uncertainty rather than merely survive them.
+- [Barbell Strategy](concepts/BarbellStrategy.md) — Asymmetric structure that protects against ruin while preserving meaningful upside.
+- [Asymmetric Payoff](concepts/AsymmetricPayoff.md) — Limited-downside, large-upside payoff pattern shared by options, early Bitcoin, value investing, and some life choices.
+- [Convexity Exposure](concepts/ConvexityExposure.md) — Nonlinear payoff exposure sought in tail-risk and antifragile portfolio structures.
+- [Tail-Risk Hedging](concepts/TailRiskHedging.md) — Portfolio practice of protecting or benefiting from rare severe market states, constrained by option cost and patience.
+- [Impermanence And No-Self](concepts/ImpermanenceAndNoSelf.md) — Practice frame connecting market uncertainty to impermanence, no-self, and working on causes without controlling outcomes.
+- [No Better Life](concepts/NoBetterLife.md) — Life-design frame warning that the desire for a finally better life can become another attachment.
+- [Life Antifragility](concepts/LifeAntifragility.md) — Translation of antifragility into health, relationships, money, collaborators, public work, and bounded-upside experiments.
 - [Personal Health Data](concepts/PersonalHealthData.md) — Longitudinal health records, reports, wearable signals, and context treated as a durable AI-era personal asset.
 - [AI Health Management](concepts/AIHealthManagement.md) — Doctor-supervised use of AI to read long-term personal data, flag trends, and support prevention without replacing diagnosis or treatment.
 - [Continuous Glucose Monitoring](concepts/ContinuousGlucoseMonitoring.md) — CGM device/data category used to read glucose curves and risk trends rather than isolated diagnostic points.

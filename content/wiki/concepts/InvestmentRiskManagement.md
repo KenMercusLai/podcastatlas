@@ -2,7 +2,32 @@
 title: "Investment Risk Management"
 type: concept
 tags: [investing, risk]
-sources: [ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw, ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2, ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn, ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm, ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj, ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439, ep23-minguo-jinrong-wangshi-zhuifengzhe-beihou-de-tiancai-shaonian-yu-yinxing-tixi-lu50lzwnfquabfare58gbhwr42py, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]
+sources:
+  - ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p
+  - e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls
+  - e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf
+  - e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc
+  - e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc
+  - ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1
+  - ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9
+  - ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj
+  - ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg
+  - ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5
+  - ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw
+  - ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2
+  - ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs
+  - ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj
+  - ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i
+  - ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab
+  - ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn
+  - ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm
+  - ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj
+  - ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439
+  - ep23-minguo-jinrong-wangshi-zhuifengzhe-beihou-de-tiancai-shaonian-yu-yinxing-tixi-lu50lzwnfquabfare58gbhwr42py
+  - e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy
+  - stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5
+  - e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0
+  - e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e
 last_updated: 2026-07-08
 ---
 
@@ -21,6 +46,8 @@ Investment risk management is the practical bridge from market uncertainty to or
 [[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]] adds the macro multi-asset version: a long-cycle or geopolitical narrative still needs [[MacroAssetExpression]], target volatility, drawdown limits, and awareness that [[RiskParity]] can fail when a liquidity crisis makes assets fall together.
 
 [[ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p]] adds the options version: [[OptionContractMechanics]] can create bounded downside for buyers, but seller obligations, leverage, expiration, [[GammaSqueeze]] mechanics, and [[FinancialModelRisk]] mean options are risk-transfer tools rather than free upside. The episode's practical line is to use options for hedging or deliberate asymmetric payoff only when collateral, intent, and failure modes are explicit.
+
+[[e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls]] adds the tail-risk and life-risk version. [[XuZhe]] uses [[BlackSwan]], [[FatTailRisk]], [[Antifragility]], [[BarbellStrategy]], [[AsymmetricPayoff]], [[ConvexityExposure]], and [[TailRiskHedging]] to shift risk management from prediction toward structure, while [[ZhangXiaoyu]] extends the same logic into [[LifeAntifragility]] around health, relationships, collaborators, and public upside exposure.
 
 [[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]] adds the AI-bubble hedging version: investors can suspect overvaluation in AI-linked stocks without knowing when the bubble will break or being able to leave equities entirely. The source's practical risk-management answer is to compare bonds, gold, defensive equity baskets, and long-term holding behavior rather than treating prediction as enough.
 
@@ -82,6 +109,9 @@ Investment risk management is the practical bridge from market uncertainty to or
 - [[ProtectiveCollarStrategy]] can be prudent when preserving concentrated wealth matters more than unlimited upside.
 - [[GammaSqueeze]] and [[FinancialModelRisk]] show that derivatives can change market structure and model survival, not only individual payoff diagrams.
 - [[CareerOptionality]] is useful only when small experiments remain survivable and do not become debt-funded career speculation.
+- [[BlackSwan]] and [[FatTailRisk]] make prediction incomplete because rare events can dominate return paths and life paths.
+- [[Antifragility]] and [[ConvexityExposure]] require real structure, pricing discipline, and downside limits rather than slogans about uncertainty.
+- [[LifeAntifragility]] extends risk management beyond portfolios into health, relationships, partners, and opportunities with bounded loss.
 - [[RandomMarketNarratives]] matter because a convincing explanation after the price move can still be noise, hindsight, or crowd reinforcement.
 - [[DrawdownPsychology]] matters because the time spent underwater can damage judgment and future buying power even when the eventual loss is not the deepest historical drawdown.
 - [[AShareValuationIndicators]] should guide exposure and expectations in hot markets, but they should not be treated as exact top-calling machines.
@@ -113,6 +143,7 @@ Investment risk management is the practical bridge from market uncertainty to or
 - [[MortgageApproval]], [[ConsumerLoanRisk]], [[PersonalCreditRecord]], and [[CreditCardDebtMechanics]] — EP24's household-debt and credit-history extension.
 - [[TreasuryBondSpeculation]], [[SilverDollarCredit]], [[BorderRegionCurrencyCredit]], and [[CurrencyCredit]] — EP23's historical state-credit, currency, and trust-risk extension.
 - [[OptionContractMechanics]], [[OptionPremiumPricing]], [[OptionSellingDiscipline]], [[ProtectiveCollarStrategy]], [[GammaSqueeze]], [[FinancialModelRisk]], and [[CareerOptionality]] — EP90's options and asymmetric-risk extension.
+- [[BlackSwan]], [[FatTailRisk]], [[Antifragility]], [[BarbellStrategy]], [[AsymmetricPayoff]], [[ConvexityExposure]], [[TailRiskHedging]], and [[LifeAntifragility]] — E43's tail-risk, antifragile investing, and life-risk extension.
 - [[AIBubbleHedging]], [[AssetCorrelation]], [[TreasuryDurationRisk]], [[GoldMonetaryAnchor]], and [[DefensiveDividendAssets]] — The Intelligence episode's AI-bubble hedge and buy-and-hold extension.
 - [[NoPredictionTrading]], [[DiversificationAlpha]], [[RandomMarketNarratives]], and [[Polymarket]] — E144's trend-statistics, diversification, narrative-risk, and price-as-probability extension.
 - [[AShareValuationIndicators]], [[MultiStrategyAllocation]], [[DrawdownPsychology]], and [[ZhangYizhen]] — E145's valuation, strategy-mix, and investor-psychology extension.
