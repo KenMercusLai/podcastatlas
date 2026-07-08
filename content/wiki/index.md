@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集](sources/touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d.md) — 乱翻书 episode on the 2018 Touteng War and ByteDance/Tencent competition across information feeds, short video, ads, social, games, IP, and AI.
 - [266.从红果到AI短剧：谁在革谁的命？](sources/266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob.md) — 乱翻书 episode on Hongguo, Douyin, iQIYI, AI short dramas, single-minute production cost, paid-traffic economics, creator workflows, copyright risk, and long-video platform pressure.
 - [Missing Peace: Will Israel Imperil Iran Deal?](sources/missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3.md) — The Intelligence episode on Israel-Hezbollah-Lebanon risk to U.S.-Iran diplomacy, strong El Nino climate risk, and Japan's imperial succession crisis.
 - [Musical.ly如何成为 TikTok？PM眼中的字节产品文化和全球化之路｜字节跳动 第5集](sources/musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz.md) — 乱翻书 episode with Vanessa on Musical.ly's merger into TikTok, ByteDance product culture, recommendation and safety systems, short-video creation tools, global localization, product-container limits, and AI-era product-method shifts.
@@ -170,6 +171,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [张一鸣 / Zhang Yiming](entities/ZhangYiming.md) — ByteDance founder whose 2018 exchange with Pony Ma anchors the Touteng War source.
+- [马化腾 / Pony Ma](entities/PonyMa.md) — Tencent founder whose reply to Zhang Yiming helped escalate the 2018 public conflict.
+- [李亮](entities/LiLiang.md) — ByteDance public-relations figure used in the Touteng source to show how PR history and legal conflict prolonged the dispute.
+- [内涵段子](entities/NeihanDuanzi.md) — ByteDance content product whose 2018 shutdown set the regulatory backdrop for Douyin and the Touteng War.
+- [今日头条](entities/JinriToutiao.md) — ByteDance information-feed product used as the benchmark for Tencent's Tiantian Kuaibao.
+- [天天快报](entities/TiantianKuaibao.md) — Tencent information-feed product described as the closest Tencent response to Jinri Toutiao before missing the recommendation window.
+- [腾讯微视](entities/TencentWeishi.md) — Tencent short-video product restarted against Douyin but limited by weaker UGC ecology and retention.
+- [微信视频号](entities/WeChatChannels.md) — WeChat-native short-video format framed as Tencent's stronger platform-shaped answer to Douyin.
+- [多闪](entities/Duoshan.md) — ByteDance social-app attempt used to illustrate the depth of WeChat's social graph moat.
+- [Ohayoo](entities/Ohayoo.md) — ByteDance light-game publishing case showing where recommendation, buying, and distribution fit games.
+- [朝夕光年](entities/ChaoxiGuangnian.md) — ByteDance heavy-game ambition used to show the limits of distribution-driven game strategy.
+- [巨量引擎 / Ocean Engine](entities/OceanEngine.md) — ByteDance unified ad platform integrating traffic across Toutiao, Douyin, Xigua, Huoshan, and related surfaces.
+- [Tencent Advertising](entities/TencentAdvertising.md) — Tencent advertising system contrasted with ByteDance's more unified Ocean Engine structure.
 - [红果](entities/Hongguo.md) — Short-drama platform used in episode 266 to explain free/ad-supported scripted entertainment growth and pressure on long-video platforms.
 - [iQIYI / 爱奇艺](entities/IQIYI.md) — Long-video platform contrasted with Hongguo and Douyin through submission-based, decentralized drama-production pressure.
 - [龚宇](entities/GongYu.md) — iQIYI figure whose submission/decentralization proposal anchors episode 266's long-video platformization frame.
@@ -980,6 +994,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Touteng War](concepts/ToutengWar.md) — 2018 ByteDance/Tencent public conflict used as a case of platform rivalry, PR escalation, youth-safety narratives, and regulatory anxiety.
+- [Recommendation Distribution Advantage](concepts/RecommendationDistributionAdvantage.md) — Company-level ability to compound recommendation, growth, traffic allocation, ads, and content supply.
+- [Social Graph Moat](concepts/SocialGraphMoat.md) — WeChat/Tencent relationship, identity, payment, and history advantage that makes social migration hard.
+- [Unified Ad Platform](concepts/UnifiedAdPlatform.md) — Advertising structure where traffic, bidding, conversion, measurement, and product incentives operate as one system.
+- [Platform IP Strategy](concepts/PlatformIPStrategy.md) — Contrast between Tencent's long-cycle IP/membership route and ByteDance's recommendation-led content expansion.
+- [Platform Company Worldviews](concepts/PlatformCompanyWorldviews.md) — Strategic contrast between Tencent's "be better" product-experience worldview and ByteDance's "go bigger/go better" distribution worldview.
 - [AI Short Drama](concepts/AIShortDrama.md) — AI-assisted scripted short-video and comic-drama category shaped by video models, creator workflow, distribution, cost, and rights control.
 - [Short Drama Economics](concepts/ShortDramaEconomics.md) — Cost, paid-traffic, IAP-to-IAA, ad-yield, and single-minute-cost frame behind short drama and AI short drama.
 - [AI Video Production Workflow](concepts/AIVideoProductionWorkflow.md) — Practical AI-video creation process involving scripts, prompts, image/video generation, repeated draws, editing, localization, and rights checks.

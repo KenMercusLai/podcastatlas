@@ -1223,3 +1223,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] ingest | 头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集
+
+Added source page for a 乱翻书 episode on the 2018 Touteng War and ByteDance/Tencent competition across information feeds, short video, ads, social, games, IP, and AI. Created pages for Zhang Yiming, Pony Ma, Li Liang, Neihan Duanzi, Jinri Toutiao, Tiantian Kuaibao, Tencent Weishi, WeChat Channels, Duoshan, Ohayoo, Chaoxi Guangnian, Ocean Engine, Tencent Advertising, Touteng War, Recommendation Distribution Advantage, Social Graph Moat, Unified Ad Platform, Platform IP Strategy, and Platform Company Worldviews; updated overview, index, Luanfanshu, ByteDance, Tencent, Douyin, WeChat, Data-Driven Product Culture, Content Ecosystem Governance, and Company Game Difficulty Strategy. No direct contradiction found; the source qualifies the wiki's ByteDance and Tencent threads by mapping where recommendation/distribution systems beat relationship/IP/game strengths and where they did not.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
