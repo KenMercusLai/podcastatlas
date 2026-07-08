@@ -2,7 +2,7 @@
 title: "Kimi"
 type: entity
 tags: [ai, model, china]
-sources: [bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
+sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
 last_updated: 2026-07-08
 ---
 
@@ -14,9 +14,12 @@ Kimi is a Chinese AI model/product reference that appears across several wiki so
 
 [[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] adds Kimi to the broader [[ModelWorkflowFit]] comparison among domestic and international options. [[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] adds a hands-on cost case: the host moved some [[OpenClaw]] work away from expensive remote model calls toward a Kimi Code-style monthly plan.
 
+[[136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]] adds Kimi to the domestic model companies the guest sees converging toward [[Anthropic]]'s high-value-task route. In this framing, Kimi's relevance is not only cheap model routing, but whether it can compete in coding, agents, and [[ModelAsOperatingSystem]] infrastructure.
+
 ## Connections
 - [[DeepSeek]], [[Qwen]], [[Doubao]], and [[MiniMax]] — domestic model and assistant comparison set.
 - [[ModelRoutingCostControl]] — cost-aware routing context where Kimi can be used for cheaper subtasks.
 - [[ModelWorkflowFit]] — broader model-selection frame where behavior, latency, quota, and review trust matter.
 - [[VibeCoding]] and [[AICodingVerification]] — developer-productivity context in which model startups may monetize more clearly.
 - [[OpenClaw]] — local-agent case where Kimi Code appears as a cost-control route.
+- [[MiniMax]], [[ZhipuAI]], [[Doubao]], [[AGIThreeActs]], and [[ModelAsOperatingSystem]] — domestic-model convergence frame added by episode 136.

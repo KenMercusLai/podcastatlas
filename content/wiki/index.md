@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS](sources/136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v.md) — 张小珺Jùn｜商业访谈录 episode on coding as AGI's second act, Anthropic/OpenAI/Google/Meta/xAI competition, model-as-operating-system strategy, token usage metrics, harness engineering, and white-collar labor repricing.
 - [142. 雨森的创投观察第2集：Harness、下一个字节、2026大机会和Stanley Druckenmiller](sources/142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz.md) — 张小珺Jùn｜商业访谈录 episode with Dai Yusen on AI investing, Claude Code/Codex competition, harness value, terminal AI returns, agent marketplaces, AI-native organization design, world models, and why the next major AI company may not copy ByteDance.
 - [144. 对杨萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式](sources/144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b.md) — 张小珺Jùn｜商业访谈录 episode with Yang Meng on Anker's move from Amazon charging accessories to a third-type consumer-electronics company, edge-side models, in-memory chips, true smart home, security robots, product method, creator culture, and enterprise AI agents.
 - [143. 对何小鹏的第二次访谈：更大赌注、人形机器人Iron诞生、那场意外、技术剧变下CEO、GX和缝合怪](sources/143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc.md) — 张小珺Jùn｜商业访谈录 episode with He Xiaopeng on XPeng's physical-AI pivot, stitched autonomous-driving stacks, humanoid robot Iron, GX, data/compute costs, and CEO-led organization change.
@@ -884,6 +885,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Model As Operating System](concepts/ModelAsOperatingSystem.md) — Thesis that frontier models may become platform infrastructure for agents, applications, work, research, and ecosystem control.
+- [AGI Three Acts](concepts/AGIThreeActs.md) — Route map from chatbots to coding agents to automated AI researchers, treating coding as the second act of AGI.
 - [Consumer Electronics Lifecycle](concepts/ConsumerElectronicsLifecycle.md) — Fast birth/death pattern in consumer electronics and the organizational answer of repeated category renewal.
 - [One Three Five Seven Consumer Segmentation](concepts/OneThreeFiveSevenConsumerSegmentation.md) — Yang Meng's buyer-tier frame for moving from stable five-series products toward seven-series extreme innovation.
 - [Shallow Sea Deep Sea Category Strategy](concepts/ShallowSeaDeepSeaCategoryStrategy.md) — Category-selection frame separating smaller consumer-electronics seas from capital-intensive super-categories.

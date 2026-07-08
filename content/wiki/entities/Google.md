@@ -2,7 +2,7 @@
 title: "Google"
 type: entity
 tags: [company, ai, platform, mobile]
-sources: [144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]
+sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]
 last_updated: 2026-07-08
 ---
 
@@ -22,6 +22,8 @@ Google is the company context for [[Gemini]], [[GeminiCLI]], and [[GoogleDeepMin
 
 [[144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b]] adds Google as [[YangMeng]]'s pre-[[AnkerInnovations]] work context. In this source, Google matters less as a current AI competitor and more as an imprint on Yang's engineering culture: openness, equality, transparency, problem decomposition, tech-lead communication, and a preference for real user value.
 
+[[136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]] adds Google as the most stable long-term follower in the frontier-model race. The source argues that Google may have underweighted coding while focusing on consumer and multimodal routes, but still has compute, cash flow, TPU, Android/browser/Workspace distribution, and [[Gemini]] as durable assets for [[ModelAsOperatingSystem]] competition.
+
 ## Source Position
 - Google is treated as technically strong but organizationally and product-wise hard to read from the outside.
 - The Vol. 166 hosts compare Google's fragmented AI product experience to a large company with many teams optimizing separate surfaces.
@@ -30,6 +32,7 @@ Google is the company context for [[Gemini]], [[GeminiCLI]], and [[GoogleDeepMin
 - The ASO source treats Google Play as a related but structurally different app marketplace, useful for contrast with Apple's fixed keyword-field mechanics.
 - Vol. 162 treats Google as unusually complete across cloud, chips, models, assistants, generated worlds, and commerce protocols, while still leaving product integration as the hard part.
 - Episode 144 treats Google as a founder-training environment whose technical and cultural patterns later shaped Anker's product and organization design.
+- Episode 136 treats Google as late to coding-agent priority in the short term but structurally strong over the long term because of chips, cash flow, product surfaces, and workspace distribution.
 
 ## Connections
 - [[Gemini]] and [[GeminiCLI]] — Google's model and coding-tool surfaces.
@@ -42,3 +45,4 @@ Google is the company context for [[Gemini]], [[GeminiCLI]], and [[GoogleDeepMin
 - [[Gemini]], [[Siri]], [[AgenticCommerce]], [[WorldModels]], and [[MaaSInfrastructure]] — model, assistant, commerce, generated-world, and infrastructure themes added by Vol. 162.
 - [[OpenAI]], [[Anthropic]], [[AIInvestmentMetrics]], and [[MaaSInfrastructure]] — E155's competitive-landscape and infrastructure-metric frame.
 - [[YangMeng]], [[AnkerInnovations]], and [[CreatorCulture]] — founder background and organization-culture imprint added by episode 144.
+- [[Gemini]], [[AGIThreeActs]], [[ModelAsOperatingSystem]], and [[ModelProviderToolCompetition]] — frontier-model and coding-agent strategy added by episode 136.

@@ -2,7 +2,7 @@
 title: "AI Programming Engine Shift"
 type: concept
 tags: [ai-coding, software-engineering, labor, culture]
-sources: [biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]
+sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]
 last_updated: 2026-07-08
 ---
 
@@ -16,6 +16,8 @@ AI programming engine shift is the episode's metaphor that AI changes programmin
 
 [[zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]] adds a personal-product version through [[GLM5]]. The host's Spring Festival experiments show the engine shift in practice: implementation gets fast enough to build websites, iOS apps, editing tools, and store tools, while deployment, platform review, operations, and vertical know-how become the remaining bottlenecks.
 
+[[136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]] elevates the programming-engine shift from labor productivity to AGI strategy. The source says code is a description of solutions in the digital world, so strong coding agents can automate a large share of computer-based knowledge work and become the second act in [[AGIThreeActs]].
+
 ## Key Claims
 - AI coding can turn many small programming tasks into intent specification, review, and correction rather than line-by-line construction.
 - The value of programming skill may move from typing code toward problem framing, tool selection, decomposition, and [[AICodingVerification]].
@@ -28,6 +30,7 @@ AI programming engine shift is the episode's metaphor that AI changes programmin
 - The source also preserves a craft boundary: low-level programming, assembly, and esoteric languages can remain meaningful as play or self-cultivation even if they are not economically necessary.
 - For [[CollegeMajorChoice]], the shift means students should not treat "AI can code" as proof that computer science is useless, or treat current AI popularity as proof that any hot major is safe.
 - The shift can contribute to [[IntelligenceDevaluation]] because coding skill loses some scarcity when implementation can be bought from a model.
+- Episode 136 adds that coding is not only a programming profession issue; it is a general digital-work substrate because code can express and execute solutions.
 
 ## Connections
 - [[VibeCoding]] - practical AI-assisted coding behavior already tracked in the wiki.
@@ -39,3 +42,4 @@ AI programming engine shift is the episode's metaphor that AI changes programmin
 - [[SecondRenaissance]] - cultural branch where automation frees or forces people toward broader interests and craft.
 - [[CollegeMajorChoice]], [[CollegeCareerPreparation]], and [[AIAsTutor]] - Vol. 169's student-facing version of the programming question.
 - [[GLM5]], [[IntelligenceDevaluation]], and [[ProductLedWillingnessToPay]] - personal-product and labor-value extension from the Keji Luandun source.
+- [[AGIThreeActs]], [[MLCoding]], [[ClaudeCode]], [[Codex]], and [[ModelAsOperatingSystem]] - strategic coding-agent extension from episode 136.

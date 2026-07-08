@@ -3,6 +3,7 @@ title: "AI Commercialization Pressure"
 type: concept
 tags: [ai, commercialization, strategy]
 sources:
+  - 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v
   - ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun
   - cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun
   - ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa
@@ -53,6 +54,8 @@ AI commercialization pressure is the tension between technical influence, user a
 
 [[132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan]] adds the production-robotics version through [[Xinghaitu]]. [[GaoJiyang]] argues that [[EmbodiedAI]] commercialization cannot depend on a detached model brain alone; the company has to finance, build, deploy, and sell whole machines while using [[PhysicalWorldDataFlywheel]], [[RealRobotDataStrategy]], and [[ProductionRobotScenarioSelection]] to turn technical progress into customer value.
 
+[[136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]] adds the model-as-platform version. The source argues that only companies able to keep delivering SOTA models, absorb compute bottlenecks, monetize high-value Token Usage, and build agent/coding products may become [[ModelAsOperatingSystem]] winners.
+
 ## Key Claims
 - Open-source reputation alone may not justify sustained high-cost model training.
 - Commercialization pressure can change release timing, model scope, or product boundaries without necessarily ending open source.
@@ -74,6 +77,7 @@ AI commercialization pressure is the tension between technical influence, user a
 - AI-era one-person companies face commercialization pressure because lower build cost increases supply, while customer acquisition, sales, support, legal responsibility, and platform dependency remain scarce.
 - Closed frontier-model companies face commercialization pressure when safety rhetoric or state policy can abruptly restrict who may buy or use the strongest models.
 - Production robotics faces commercialization pressure because the technical stack includes whole machines, supply chain, data collection, training, AI infrastructure, field deployment, and customer ROI at the same time.
+- Model companies face commercialization pressure because operating-system-scale ambition requires sustained SOTA models, compute supply, product adoption, and high-value workflows rather than consumer traffic alone.
 
 ## Connections
 - [[LargeCompanyOpenSourceStrategy]] — strategic context where the pressure appears.
@@ -95,3 +99,4 @@ AI commercialization pressure is the tension between technical influence, user a
 - [[OnePersonCompany]], [[CustomerPull]], [[PreProductSelling]], and [[ProductLedWillingnessToPay]] — individual-founder commercialization route added by the OPC source.
 - [[AIExportControls]], [[FrontierModelAccessRestrictions]], [[AISafetyNarrativeBackfire]], and [[SaaSReliabilityUnderPolicyRisk]] — policy-risk route added by the Keji Luandun export-control episode.
 - [[Xinghaitu]], [[GaoJiyang]], [[EmbodiedAIValueChain]], [[PhysicalWorldDataFlywheel]], and [[ProductionRobotScenarioSelection]] — production-robotics commercialization route added by the Xinghaitu source.
+- [[ModelAsOperatingSystem]], [[AGIThreeActs]], [[AIInvestmentMetrics]], [[TokenMaxxing]], and [[ModelProviderToolCompetition]] — model-platform commercialization route added by episode 136.

@@ -2,7 +2,7 @@
 title: "ChatGPT"
 type: entity
 tags: [ai-tool, search, assistant]
-sources: [ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]
+sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]
 last_updated: 2026-07-08
 ---
 
@@ -26,6 +26,8 @@ ChatGPT appears in [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]] as
 
 [[dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]] adds ChatGPT as the timing benchmark for the [[AIHiringArmsRace]]. The episode says average applications per role rose sharply after ChatGPT's release because candidates and tools could generate, tailor, and submit applications at much lower cost.
 
+[[136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]] uses ChatGPT as the first act in [[AGIThreeActs]]. The source does not diminish ChatGPT's consumer success, but argues that the competitive center has shifted toward coding agents because they complete higher-value tasks and can accelerate model development itself.
+
 ## Connections
 - [[OpenAI]] - company associated with ChatGPT in the broader AI ecosystem.
 - [[AIAssistantServiceEntry]], [[PersistentAgentMemory]], and [[HumanAgentCollaboration]] — assistant-retention themes added by EP117.
@@ -39,3 +41,4 @@ ChatGPT appears in [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]] as
 - [[OpenAI]], [[Codex]], and [[AIContentProvenance]] - remote-control and synthetic-media provenance themes added by Vol. 167.
 - [[OpenAI]], [[AIInvestmentMetrics]], and [[JevonsParadoxInAI]] - E155's user-scale and token-demand interpretation.
 - [[AIHiringArmsRace]] and [[CandidateIdentityFraud]] - recruiting overload and fake-profile risks added by The Intelligence.
+- [[AGIThreeActs]], [[OpenAI]], [[Codex]], and [[ModelAsOperatingSystem]] - first-act chatbot and second-act coding-agent contrast added by episode 136.

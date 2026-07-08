@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-08] ingest | 136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS
+
+Added source page for a 张小珺Jùn｜商业访谈录 episode on coding as AGI's second act, Anthropic/OpenAI/Google/Meta/xAI competition, model-as-operating-system strategy, token usage as a high-value AI metric, harness engineering, and white-collar labor repricing. Created supporting pages for Model As Operating System and AGI Three Acts; updated overview, index, 张小珺Jùn｜商业访谈录, Anthropic, OpenAI, Google, Meta, xAI, Claude Code, Codex, Manus, Gemini, MiniMax, Doubao, Kimi, Zhipu AI, ByteDance, ChatGPT, Agent Harness, Model Harness Co-Evolution, AI Programming Engine Shift, ML Coding, AI Investment Metrics, Token Maxxing, AI Economic Diffusion, Agentic Economy, AI Commercialization Pressure, Model Provider Tool Competition, Intelligence Devaluation, and Human Resource Deflation Compute Infrastructure Inflation. No direct contradiction found; the source reinforces the coding-agent and ML-coding thread while sharpening the tension between model-as-OS value capture and harness-layer value capture.
+
 ## [2026-07-08] ingest | 142. 雨森的创投观察第2集：Harness、下一个字节、2026大机会和Stanley Druckenmiller
 
 Added source page for a 张小珺Jùn｜商业访谈录 episode with Dai Yusen on AI investing, Claude Code/Codex competition, harnesses as product/runtime/data layers, terminal AI return metrics, agent marketplaces, AI-native organization design, world models, and why the next major AI company may not copy ByteDance. Created supporting pages for Dai Yusen, Stanley Druckenmiller, and Agent Marketplace; updated overview, index, 张小珺Jùn｜商业访谈录, Anthropic, OpenAI, Claude Code, Codex, ByteDance, Agent Harness, Model Harness Co-Evolution, Agentic Economy, AI Investment Metrics, AI Economic Diffusion, AI Equity Valuation Risk, AI Organization Design, World Models, AI Investment Research, and Human Agency Under AI. No direct contradiction found; the source reinforces prior token-economics and agent-product pages while emphasizing that model-company revenue and token demand are not yet proof of downstream customer profit.
@@ -1115,6 +1119,22 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-08] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-08] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-08] graph | Knowledge graph rebuilt
+
+1532 nodes, 14568 edges (14568 extracted, 0 inferred).
+
+## [2026-07-08] report | Graph health report generated
+
+1532 nodes analyzed.
 
 ## [2026-07-08] lint | Wiki health check
 

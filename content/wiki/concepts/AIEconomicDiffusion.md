@@ -2,7 +2,7 @@
 title: "AI Economic Diffusion"
 type: concept
 tags: [ai, productivity, organizations, economics]
-sources: [142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
+sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
 last_updated: 2026-07-08
 ---
 
@@ -14,6 +14,8 @@ The episode's electric-motor metaphor connects this to [[TechnologyInstallationC
 
 [[142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz]] adds [[DaiYusen]]'s "input, output, result" formulation. Coding agents can make software output far cheaper, but large companies may still fail to create new profit if they do not know what to build, how to change accountability, or how to convert more generated work into business outcomes.
 
+[[136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]] adds a more aggressive diffusion scenario. If [[AGIThreeActs]] is right and coding agents automate large parts of digital knowledge work, the diffusion question becomes not whether the capability is real, but how quickly organizations can redesign roles, quality gates, responsibility, and revenue loops before labor repricing spreads.
+
 ## Key Claims
 - Technical diffusion happens when model capability becomes available; economic diffusion happens when organizations absorb it into operating systems.
 - AI can initially be bolted onto existing CRM, ERP, sales, coding, or support workflows without changing the underlying process.
@@ -22,6 +24,7 @@ The episode's electric-motor metaphor connects this to [[TechnologyInstallationC
 - [[AIOrganizationDesign]] is another route: small teams may need broader skills and faster decision rights when AI compresses execution time.
 - Investors should separate model progress from revenue or margin realization; the latter depends on diffusion through customers and the economy.
 - Faster coding is not the same as higher revenue because many organizations are constrained by product direction, responsibility, decision rights, and customer demand rather than programmer headcount alone.
+- Episode 136 raises the urgency: faster coding and agent work may diffuse into labor markets before firms have redesigned accountability and value capture.
 
 ## Connections
 - [[TechnologyInstallationCycle]] — broader technology-cycle frame.
@@ -30,3 +33,4 @@ The episode's electric-motor metaphor connects this to [[TechnologyInstallationC
 - [[AIInvestmentMetrics]] and [[CAPEXOPEXSubstitution]] — business metrics and spending shift that test whether diffusion is working.
 - [[HumanResourceDeflationComputeInfrastructureInflation]] — labor-to-compute investment pattern that may accompany diffusion.
 - [[DaiYusen]], [[AIInvestmentMetrics]], [[AgentHarness]], and [[AIOrganizationDesign]] — episode 142's input-output-result and responsibility-boundary formulation.
+- [[AGIThreeActs]], [[ModelAsOperatingSystem]], [[IntelligenceDevaluation]], and [[HumanResourceDeflationComputeInfrastructureInflation]] — episode 136's faster-diffusion and labor-repricing scenario.

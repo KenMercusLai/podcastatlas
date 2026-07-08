@@ -2,7 +2,7 @@
 title: "Meta"
 type: entity
 tags: [company, ai, platform]
-sources: [weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]
+sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]
 last_updated: 2026-07-08
 ---
 
@@ -16,6 +16,8 @@ The source speculates that Meta could see [[Manus]] demand through platform or a
 
 [[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]] adds Meta to the public-market AI capex question. The episode groups Meta with [[Alphabet]], [[Amazon]], and [[Microsoft]] in a planned $660bn AI-spending figure, using that scale to explain why investors have started asking whether AI enthusiasm has outrun future returns.
 
+[[136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]] adds Meta as the most plausible fourth challenger behind [[Anthropic]], [[OpenAI]], and [[Google]]. The source speculates that Meta's talent density and possible [[Manus]] integration could help it build a lower-friction agent or assistant product, while still noting that the product strategy is not yet clear.
+
 ## Connections
 - [[Manus]] — claimed acquisition target and agent product central to the source.
 - [[AgenticWorkflow]] — workflow pattern Meta is portrayed as buying into.
@@ -25,3 +27,4 @@ The source speculates that Meta could see [[Manus]] demand through platform or a
 - [[FAIR]], [[XieSaining]], and [[KaimingHe]] — research-lab context added by the Xie Saining interview.
 - [[RepresentationLearning]], [[ResNeXt]], [[SelfSupervisedLearning]], and [[DiffusionTransformers]] — research lines associated with FAIR in the source.
 - [[AIBubbleHedging]] and [[AIEquityValuationRisk]] — investment-risk frame added by The Intelligence episode.
+- [[AGIThreeActs]], [[ModelAsOperatingSystem]], and [[ModelProviderToolCompetition]] — episode 136's challenger-position framing.

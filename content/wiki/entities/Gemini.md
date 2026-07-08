@@ -2,7 +2,7 @@
 title: "Gemini"
 type: entity
 tags: [ai-tool, search, assistant, coding]
-sources: [ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]
+sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]
 last_updated: 2026-07-08
 ---
 
@@ -22,6 +22,8 @@ Gemini appears in [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]] as 
 
 [[140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]] adds an inside-user and researcher view through [[YaoShunyu]]. He describes Gemini as strong in reasoning and everyday use, says Gemini 2.5 helped the industry see Google getting back on track, and treats later Gemini progress as a combination of model quality, product entry, and organization clarity rather than benchmark ranking alone.
 
+[[136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]] adds Gemini as part of [[Google]]'s late-but-durable frontier-model position. The source argues that Gemini was strong on benchmarks and broader consumer/multimodal assets, but that coding became a higher-priority catch-up area after [[Anthropic]] and [[ClaudeCode]] showed the value of the coding-agent route.
+
 ## Connections
 - [[PeakAI]] - product that monitors brand visibility across AI search tools.
 - [[ChatGPT]], [[Qwen]], [[Doubao]], and [[AIAssistantServiceEntry]] - consumer assistant comparison added by EP117.
@@ -32,3 +34,4 @@ Gemini appears in [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]] as 
 - [[Apple]], [[Codex]], [[ClaudeCode]], and [[IMAgentInterfaces]] - platform and browser-agent comparison added by Vol. 167.
 - [[ModelWorkflowFit]], [[AIProductFragmentation]], and [[ModelRoutingCostControl]] - cost, model-version, and platform-fit themes added by Vol. 162.
 - [[YaoShunyu]], [[GoogleDeepMind]], [[LongHorizonAI]], and [[MLCoding]] - researcher and training-direction context added by episode 140.
+- [[Google]], [[AGIThreeActs]], [[ModelAsOperatingSystem]], and [[ModelProviderToolCompetition]] - coding-priority and platform-competition context added by episode 136.

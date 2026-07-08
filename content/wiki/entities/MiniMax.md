@@ -2,7 +2,7 @@
 title: "MiniMax"
 type: entity
 tags: [company, ai, models]
-sources: [duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
+sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
 last_updated: 2026-07-08
 ---
 
@@ -14,6 +14,8 @@ MiniMax is the AI model company hosting the Developer Meetup captured in [[duihu
 
 [[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] adds MiniMax as a low-friction deployment example. A host uses a MiniMax deployment surface to publish an AI-generated HTML tool, but the platform's safety checks modify the script and introduce a first-run bug, illustrating that easy AI deployment still needs debugging and clear platform responsibility boundaries.
 
+[[136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]] adds MiniMax to the domestic-model convergence story. The source says MiniMax, [[Kimi]], [[ZhipuAI]], and other Chinese model companies are increasingly moving toward the [[Anthropic]]-style high-value-task and agent/coding route rather than only broad consumer chat.
+
 ## Source Position
 - MiniMax is presented as trying to make developer-facing meetups a continuing activity rather than a one-off event.
 - Its M2/M2.7 work is described as focused on coding and editing rather than balanced coverage of every general chat scenario.
@@ -24,6 +26,7 @@ MiniMax is the AI model company hosting the Developer Meetup captured in [[duihu
 - MiniMax is described as using model plus harness in model-development work, supporting the wiki's [[AgentSelfEvolution]] and [[ModelHarnessCoEvolution]] themes.
 - The company is also described as using internal digital employees to find open-source projects that can connect to MiniMax models.
 - The Keji Luandun OpenClaw episode uses MiniMax less as a model-company case and more as an example of low-threshold AI deployment where platform safety layers can change generated code.
+- Episode 136 treats MiniMax as part of a domestic model-company shift toward coding, agents, and high-value work.
 
 ## Connections
 - [[YanJunjie]] — founder and CEO speaking for the company in the roundtable.
@@ -36,3 +39,4 @@ MiniMax is the AI model company hosting the Developer Meetup captured in [[duihu
 - [[HermesAgent]], [[OpenCloud]], and [[OpenClaw]] — external agent contexts MiniMax wants its models to support.
 - [[MultiAgentCollaboration]], [[InterleavedThinking]], and [[AgentSelfEvolution]] — themes added by the Hermes Agent source.
 - [[AICodingVerification]] and [[ProbabilisticSoftware]] — deployment and platform-safety boundary added by Keji Luandun.
+- [[Kimi]], [[ZhipuAI]], [[Doubao]], [[AGIThreeActs]], and [[ModelAsOperatingSystem]] — domestic-model strategy frame added by episode 136.
