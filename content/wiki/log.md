@@ -1659,3 +1659,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, four fragile bridges, and no isolated communities against the current generated graph. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider key variables are present in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-09] ingest | 268. AI时代，个人工作台会重新回到手机吗？
+
+Added source page for a 乱翻书 episode with Zhuang Minghao and Luo Xuan on whether the AI-era personal workbench returns to phones and foldables. Created pages for Luo Xuan, vivo X Fold6, Mobile AI Workstation, and AI File Management; updated overview, index, Luanfanshu, Zhuang Minghao, vivo, Smartphone AI Hub, Foldable Phone Productivity, On-Device AI, OS-Level Context, Persistent Agent Memory, Personal Knowledge Ecology, Task As A Service, AI Plus Terminals, Multi-Agent Collaboration, and Agentic Workflow. No direct contradiction found; the source reinforces the AI-phone and foldable productivity branch while qualifying it with the limits of heavy PC work and the product-context bias around vivo X Fold6.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

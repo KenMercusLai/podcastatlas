@@ -2,7 +2,7 @@
 title: "Personal Knowledge Ecology"
 type: concept
 tags: [knowledge-management, notes, context]
-sources: [dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]
+sources: [dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]
 last_updated: 2026-07-09
 ---
 
@@ -16,6 +16,8 @@ This makes [[PersonalKnowledgeEcology]] a personal version of [[ContextEngineeri
 
 [[e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]] adds [[LiJigang]]'s Memory/Soul implementation. Valuable conversations, reading workflows, principles, conflicts, weekly reports, and local notes become a living second-brain system that both updates the AI's model of the person and lets the person see changes in their own cognition.
 
+[[268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]] adds the mobile-file version. The episode argues that personal knowledge management becomes more important in the AI era because phones accumulate work documents, screenshots, meeting notes, travel plans, and chat files that can become useful future context if [[AIFileManagement]] can organize them by scene and intent.
+
 ## Key Claims
 
 - A bookshelf signals what has trained a person's context; a whiteboard shows thinking while it is being worked.
@@ -24,6 +26,7 @@ This makes [[PersonalKnowledgeEcology]] a personal version of [[ContextEngineeri
 - AI can process outside content through the user's own context, producing summaries or cards that fit the user's taste and structure.
 - Personal knowledge management is valuable when it changes future perception and action, not only when it preserves information.
 - A personal knowledge ecology can include AI-generated reflections on how the user's cognition has changed, not only notes about external material.
+- Phone-side materials can become part of the ecology when AI clusters files and meetings around actual tasks instead of leaving them as disconnected app artifacts.
 
 ## Connections
 
@@ -34,3 +37,4 @@ This makes [[PersonalKnowledgeEcology]] a personal version of [[ContextEngineeri
 - [[ReadingAsFrameTraining]] — reading outputs become part of the ecology that trains future frames.
 - [[WeChatReading]] — adjacent product/context example for reading highlights and personal notes.
 - [[LiJigang]], [[PromptAsIntentTransmission]], and [[PersistentAgentMemory]] — E45's Memory/Soul and second-brain workflow.
+- [[AIFileManagement]], [[MobileAIWorkstation]], and [[OSLevelContext]] — mobile context branch added by Luanfanshu 268.

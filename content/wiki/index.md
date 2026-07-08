@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [268. AI时代，个人工作台会重新回到手机吗？](sources/268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs.md) — 乱翻书 episode with Zhuang Minghao and Luo Xuan on phones and foldables as AI-era personal workstations, vivo X Fold6, on-device AI, AI file management, meeting assistants, and multi-agent task orchestration.
 - [No.200 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法](sources/no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500.md) — 半拿铁 episode on China ecommerce failures across early B2C/C2C, vertical ecommerce, mother-and-baby, beauty, social fashion, luxury, old retail, cross-border, fresh grocery, community group buying, and instant retail.
 - [No.203 "不死鸟"兰世立](sources/no-203-businiao-lanshili-979295393.md) — 半拿铁 episode on Lan Shili, East Star Group, East Star Airlines, private-airline opening, aircraft leasing, local-government rescue, litigation, acquittal, and later capital-market relaunch attempts.
 - [No.207 闽南往事：众神人间办事处，涨海声中万国商](sources/no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918.md) — 半拿铁 episode on Quanzhou and Minnan maritime history, from Song-Yuan port institutions, Pu Shougeng, Zheng Zhilong, Zheng Chenggong, Taiwan and Southeast Asia migration to qiaopi, Chen Jiageng, and Jinjiang manufacturing.
@@ -415,6 +416,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [东旭 / Dongxu](entities/Dongxu.md) — PingCAP co-founder and CTO explaining open-source infrastructure, TiDB, cloud commercialization, globalization, and AI data/memory opportunities.
 - [TiDB](entities/TiDB.md) — PingCAP's distributed relational database, used as the source's case for open-source infrastructure adoption and cloud-service commercialization.
 - [vivo](entities/Vivo.md) — Smartphone company represented by Han Boxiao in the S10E17 AI-phone discussion, bringing terminal scenarios, foldables, system adaptation, and on-device AI applications into chip co-design with MediaTek.
+- [vivo X Fold6](entities/XFold6.md) — Foldable-phone product case used by Luanfanshu to discuss AI-era mobile workstations, app groups, AI file management, meeting assistants, and multi-window task work.
 - [Han Boxiao](entities/HanBoxiao.md) — vivo X-series product leader arguing that phones remain the central AI entry point and that product scenarios should pull terminal technology requirements.
 - [Chen Yiqiang](entities/ChenYiqiang.md) — MediaTek wireless-communications executive explaining AI-era chip planning, NPU investment, software tooling, and system-level workload scheduling.
 - [Dimensity 9500](entities/Dimensity9500.md) — MediaTek smartphone-chip platform used as the vivo/MediaTek case for early AI compute, NPU, and terminal-chip co-design.
@@ -538,6 +540,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Business Roundtable](entities/BusinessRoundtable.md) — CEO organization whose 2019 corporate-purpose statement anchors the episode's stakeholder-capitalism frame.
 - [乱翻书](entities/Luanfanshu.md) — Podcast/show context for ByteDance/TikTok product culture, Meitu/Sora/Adobe application-layer strategy, and Tim Cook's Apple values legacy.
 - [庄明浩 / 庄明昊](entities/ZhuangMinghao.md) — Luanfanshu host framing application-layer strategy and AI short-drama platform shifts.
+- [罗玄 / Luo Xuan](entities/LuoXuan.md) — Luanfanshu guest discussing AI hardware, phones, agent context, foldables, and multi-agent workbench possibilities.
 - [魏熙](entities/WeiXi.md) — Technology writer and former advertising/product practitioner explaining Meitu's AI application strategy.
 - [吴欣鸿](entities/WuXinhong.md) — Meitu founder cited through the claim that AI is both Meitu's biggest opportunity and biggest danger.
 - [Meitu / 美图](entities/Meitu.md) — Creative-tool and image/video company used as the episode's central AI application-layer case.
@@ -1467,7 +1470,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Database Cloud Service Commercialization](concepts/DatabaseCloudServiceCommercialization.md) — Open-source database monetization route where managed cloud service sells operational reliability without undermining community trust.
 - [Founder-Led Software Globalization](concepts/FounderLedSoftwareGlobalization.md) — Globalization pattern where founders move presence, language, documentation, hiring, sales, and organization into the target software market.
 - [AI Data Memory Infrastructure](concepts/AIDataMemoryInfrastructure.md) — Agent-era infrastructure layer for enterprise or personal context, shared memory, governed data access, and database/tool interfaces.
+- [AI File Management](concepts/AIFileManagement.md) — Phone-side AI organization of files, screenshots, meetings, chat attachments, calendars, and task context without manual folder maintenance.
 - [Smartphone AI Hub](concepts/SmartphoneAIHub.md) — Thesis that phones remain the central AI-era entry point because they combine sensors, display, interaction, local compute, context, cloud access, and services.
+- [Mobile AI Workstation](concepts/MobileAIWorkstation.md) — Phone and foldable workbench pattern where AI context, files, meetings, app groups, and agents organize tasks rather than only launching apps.
 - [On-Device AI](concepts/OnDeviceAI.md) — Phone-side AI implementation frame covering hardware compute, model adaptation, NPU execution, system scheduling, privacy, and local applications.
 - [Handset-Chip Co-Design](concepts/HandsetChipCoDesign.md) — Cooperation pattern where terminal scenarios are translated into chip architecture, NPU, bandwidth, power, and thermal decisions years ahead.
 - [Foldable Phone Productivity](concepts/FoldablePhoneProductivity.md) — Foldable-phone value test where larger screens must enable multitasking, documents, meetings, and AI-assisted work rather than only bigger viewing.

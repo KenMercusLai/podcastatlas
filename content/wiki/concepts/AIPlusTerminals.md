@@ -2,7 +2,7 @@
 title: "AI Plus Terminals"
 type: concept
 tags: [ai, hardware, commercialization]
-sources: [144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731]
+sources: [144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]
 last_updated: 2026-07-09
 ---
 
@@ -22,6 +22,8 @@ AI plus terminals is [[YinQi]]'s commercialization thesis in [[131-yin-qi-churen
 
 [[ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731]] adds the mainstream smartphone version through [[Vivo]] and [[MediaTek]]. Its [[SmartphoneAIHub]] claim is that phones remain the central terminal because they combine sensors, display, local compute, private context, cloud access, and service relationships, while earbuds and glasses complement narrower moments.
 
+[[268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]] adds the mobile-workbench version through [[Vivo]]'s [[XFold6]]. The episode argues that phones may beat narrower AI devices not only by being always carried, but by holding enough context, files, meeting records, app relationships, and screen space to become a [[MobileAIWorkstation]].
+
 ## Key Claims
 - Pure 2B and pure software 2C are treated as difficult standalone paths for foundation-model companies because model investment is large and business or data loops may be insufficient.
 - Hardware, software, and models may become a three-part system as more agents gain device or physical carriers.
@@ -34,6 +36,7 @@ AI plus terminals is [[YinQi]]'s commercialization thesis in [[131-yin-qi-churen
 - A company that already controls vehicles may use that terminal base to move toward robots, but the source warns that [[StitchedAIArchitecture]] must be replaced rather than merely extended.
 - A consumer-electronics company can invert the terminal thesis: it may not own the largest cloud model, but it can own local sensors, device organs, product scenes, and user trust where smaller models create visible value.
 - Smartphones may remain the default AI terminal not because they are the most futuristic form factor, but because they are already portable, information-rich, sensor-rich, and service-connected enough to coordinate other AI devices.
+- A phone terminal can absorb some standalone AI hardware use cases when recording, transcription, summarization, and file organization depend more on existing personal context than on a new form factor.
 
 ## Connections
 - [[YinQi]], [[StepFun]], and [[QianliTechnology]] — source speaker and company pair behind the thesis.
@@ -47,3 +50,4 @@ AI plus terminals is [[YinQi]]'s commercialization thesis in [[131-yin-qi-churen
 - [[XPeng]], [[HeXiaopeng]], [[XPengGX]], [[XPengIron]], [[PhysicalAI]], and [[StitchedAIArchitecture]] — vehicle-and-humanoid terminal route added by episode 143.
 - [[AnkerInnovations]], [[YangMeng]], [[OnDeviceModelHierarchy]], [[InMemoryComputingForEdgeAI]], [[TrueSmartHome]], and [[HouseholdSecurityRobots]] — consumer-electronics and edge-AI route added by episode 144.
 - [[Vivo]], [[MediaTek]], [[SmartphoneAIHub]], [[OnDeviceAI]], [[HandsetChipCoDesign]], [[FoldablePhoneProductivity]], and [[EdgeCloudAIBoundary]] — smartphone-terminal route added by S10E17.
+- [[XFold6]], [[MobileAIWorkstation]], [[AIFileManagement]], and [[LuoXuan]] — mobile workbench and AI-hardware comparison added by Luanfanshu 268.
