@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [当黑客攻破了日本的国民啤酒，除了鞠躬道歉，他们还能做什么？feat.Top of Japan](sources/dang-heike-gongpo-le-riben-de-guomin-pijiu-chule-jugong-daoqian-tamen-hai-neng-zuo-shenme-feat-top-of-japan-keji-luandun.md) — 科技乱炖 crossover with Top of Japan on Asahi's ransomware incident, Super Dry shortages, ERP and logistics disruption, offline backups, ransom refusal, and risk-tiered personal security.
 - [167: 洋葱学园杨临风：用AI制造捷径，是在杀死真学习](sources/167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1.md) — LateTalk episode with Yang Lingfeng of Yangcong Xueyuan on self-directed learning, AI tutoring, learning experience design, rural education access, and the risk that AI-created shortcuts weaken real understanding.
 - [268. AI时代，个人工作台会重新回到手机吗？](sources/268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs.md) — 乱翻书 episode with Zhuang Minghao and Luo Xuan on phones and foldables as AI-era personal workstations, vivo X Fold6, on-device AI, AI file management, meeting assistants, and multi-agent task orchestration.
 - [No.200 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法](sources/no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500.md) — 半拿铁 episode on China ecommerce failures across early B2C/C2C, vertical ecommerce, mother-and-baby, beauty, social fashion, luxury, old retail, cross-border, fresh grocery, community group buying, and instant retail.
@@ -224,6 +225,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Asahi Group / 朝日集团](entities/AsahiGroup.md) — Beverage company used as the ransomware business-continuity case where order, logistics, factory, and retail availability broke together.
+- [Super Dry](entities/SuperDry.md) — Asahi beer product whose shortage made the ransomware incident visible to ordinary Japanese shoppers.
+- [Qilin Ransomware Group](entities/QilinRansomwareGroup.md) — Ransomware group named in the Asahi episode as claiming the attack and publishing stolen-data screenshots.
+- [Sony Pictures](entities/SonyPictures.md) — Media-company contrast case showing that leaked data can lose value even when backups restore operations.
+- [Top of Japan](entities/TopOfJapan.md) — Podcast crossover partner providing Japan-market context for the Asahi ransomware discussion.
 - [Yangcong Xueyuan / 洋葱学园](entities/YangcongXueyuan.md) — Education-technology company building animated, AI-supported K12 learning experiences around self-directed learning and public-interest access.
 - [Yang Lingfeng / 杨凌峰](entities/YangLingfeng.md) — Yangcong Xueyuan co-founder and CEO arguing that AI education should lower the threshold for real thinking rather than create shortcuts to answers.
 - [JD.com / 京东](entities/JDCom.md) — Major surviving Chinese ecommerce and logistics platform used as a benchmark against older and failed ecommerce cases.
@@ -1150,7 +1156,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Justin Gold](entities/JustinGold.md) — Founder of Justin's Nut Butter, discussing CPG product experimentation, retail distribution, acquisition, and later return.
 - [Justin Yan](entities/JustinYan.md) — Fengyan Fengyu host who built an OpenClaw-like personal agent to understand agent-native software, skills, and permission design.
 - [Justin's Nut Butter](entities/JustinsNutButter.md) — Natural-food CPG brand built from flavored nut-butter jars into squeeze packs, cups, and a $280 million Hormel acquisition.
-- [Keji Luandun](entities/KejiLuandun.md) — Podcast covering Chinese AI companies, software-payment norms, practical AI coding/productization workflows, AI policy, platform governance, local-service merchant economics, overseas market selection, and digital infrastructure war risk.
+- [Keji Luandun](entities/KejiLuandun.md) — Podcast covering Chinese AI companies, software-payment norms, practical AI coding/productization workflows, AI policy, platform governance, local-service economics, digital infrastructure war risk, ransomware recovery, and personal security.
 - [Kimi](entities/Kimi.md) — Chinese AI model/product reference used in the wiki's model-routing, workflow-fit, overseas-adoption, and OpenClaw cost-control discussions.
 - [Kedaibiao Lizheng](entities/KedaibiaoLizheng.md) — Episode guest focused on AI learning, skills, context, and agent-based workflows.
 - [Kenan Voice Changer](entities/KenanVoiceChanger.md) — Assistive AI prototype that repairs unclear speech so users can communicate during rehabilitation.
@@ -1245,7 +1251,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rudi's Organic Bakery](entities/RudisOrganicBakery.md) — Food company Justin Gold worked with after leaving Justin's Nut Butter under Hormel ownership.
 - [Ryo](entities/Ryo.md) — Neihe Konghuang host discussing Immersive Translate, NAS deduplication, tool discovery, app/UI displacement, live radio, and display setup.
 - [Same.Dev](entities/SameDev.md) — Jiang Yang's prior AI-assisted web UI generation project mentioned as Paperboy founder background.
-- [SAP](entities/SAP.md) — German enterprise software company used as a reference point for Germany's manufacturing-heavy software culture.
+- [SAP](entities/SAP.md) — German enterprise software company used as both a Germany software reference and an ERP dependency in ransomware business-continuity analysis.
 - [Samsung](entities/Samsung.md) — Android-era smartphone maker that captured much of the post-iPhone non-Apple handset opportunity.
 - [Seventh Generation](entities/SeventhGeneration.md) — Responsible household-products company used as Jeffrey Hollender's purpose-driven business case.
 - [Share AI](entities/ShareAI.md) — Agent-infrastructure company behind Learn Claude Code and the K-series tooling discussed by Lai Xinlu.
@@ -1336,6 +1342,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Ransomware Business Continuity](concepts/RansomwareBusinessContinuity.md) — Operational resilience problem where ransomware disables orders, inventory, logistics, ERP, customer service, and recovery workflows.
+- [Offline Backup Recovery Drills](concepts/OfflineBackupRecoveryDrills.md) — Backup discipline focused on isolated copies and rehearsed restoration rather than untested backup claims.
+- [Personal Security Tiering](concepts/PersonalSecurityTiering.md) — Risk-based personal security frame matching passwords, backups, hardware keys, identity isolation, and device discipline to target value.
 - [Self-Directed Learning](concepts/SelfDirectedLearning.md) — Student capacity built from willingness, ability, tools, and belief, with AI useful only when it supports real understanding.
 - [Learning Experience Design](concepts/LearningExperienceDesign.md) — Education product discipline using short loops, animation, purpose cues, empathy, AI support, and data iteration to lower the threshold for real thinking.
 - [AI Shortcut Risk](concepts/AIShortcutRisk.md) — Risk that AI gives faster answers while bypassing the cognitive struggle that builds durable learning.

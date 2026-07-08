@@ -1683,3 +1683,11 @@ Initial lint run after health passed. Deterministic checks found three orphan pa
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint after refreshing the graph. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, eight fragile bridges, and no isolated communities against the refreshed graph. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider key variables are present in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-09] ingest | 当黑客攻破了日本的国民啤酒，除了鞠躬道歉，他们还能做什么？feat.Top of Japan
+
+Added source page for a 科技乱炖 and Top of Japan crossover on the Asahi ransomware incident, Super Dry shortages, ERP/logistics disruption, ransom refusal, backup recovery, and personal security tiering. Created pages for Asahi Group, Super Dry, Qilin Ransomware Group, Sony Pictures, Top of Japan, Ransomware Business Continuity, Offline Backup Recovery Drills, and Personal Security Tiering; updated overview, index, Keji Luandun, SAP, and War-Aware Disaster Recovery. No direct contradiction found; the source complements the wiki's prevention-oriented cybersecurity pages by emphasizing post-compromise recovery, isolated backups, restoration drills, and risk-based personal account protection.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
