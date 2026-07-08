@@ -2,7 +2,7 @@
 title: "Pinduoduo"
 type: entity
 tags: [company, ecommerce, china, marketplace]
-sources: [zhe-bannian-women-you-maile-naxie-keji-haowu-1, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1]
+sources: [zhe-bannian-women-you-maile-naxie-keji-haowu-1, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500]
 last_updated: 2026-07-09
 ---
 
@@ -16,6 +16,8 @@ The source does not analyze Pinduoduo as a company in depth. Its relevance is pr
 
 [[139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1]] turns Pinduoduo into an explicit investment case. [[ICEInvestor]] says low PE, cash, and book-value support can create [[MarginOfSafety]], but Pinduoduo still needs an [[InvestmentCatalyst]] such as renewed growth, dividends, buybacks, or [[Temu]] acceleration for the market to rerate it. The episode also highlights merchant-ecosystem pressure: refund policies, squeezed merchant margins, and platform-rule disputes pushed Pinduoduo to support merchants in 2025-2026, lowering near-term growth expectations.
 
+[[no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500]] adds Pinduoduo's medicine-retail angle. The source cites industry estimates that Pinduoduo's 2024 medicine GMV exceeded [[JDHealth]], but frames this as a low-price [[PharmaceuticalEcommerce]] route rather than a deeper healthcare-services platform.
+
 ## Connections
 - [[KejiLuandun]] — show where the sponsorship and product list appear.
 - [[PersonalInfrastructureCostAccounting]] — the episode compares subsidy prices against official prices, expected use, and ownership cost.
@@ -23,3 +25,4 @@ The source does not analyze Pinduoduo as a company in depth. Its relevance is pr
 - [[DistributionLedProductBuilding]] — marketplace visibility and promotion can shape product discovery.
 - [[Temu]], [[ByteDanceGrowthSystem]], and [[GlobalProductLocalization]] — overseas growth comparison added by the Luanfanshu episode 7 source.
 - [[GoodCompanyGoodStock]], [[MarginOfSafety]], [[InvestmentCatalyst]], and [[EarningsGrowthAcceleration]] — investing-method concepts added by the FengTouQuan episode.
+- [[PharmaceuticalEcommerce]], [[JDHealth]], and [[InternetHealthcare]] — medicine-retail context added by episode 206.

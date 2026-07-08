@@ -2,7 +2,7 @@
 title: "Meituan"
 type: entity
 tags: [company, local-services, travel, platform, china]
-sources: [kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud]
+sources: [kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud, no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500]
 last_updated: 2026-07-09
 ---
 
@@ -16,9 +16,12 @@ The episode does not analyze Meituan's full business. Its role is to show that [
 
 [[shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud]] adds Meituan as the long-cycle, long-chain, low-gross-margin side of [[BusinessModelOrganizationFit]]. [[WeiXiaokang]] uses Meituan to explain why operating plans, resource coordination, business-chain clarity, and battlefield-based talent development can matter more than simply copying faster [[ByteDance]]-style mechanisms.
 
+[[no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500]] adds Meituan's medicine instant-retail role. The source uses Meituan's medical-pharmacy growth to show that [[PharmaceuticalEcommerce]] can become a local-services and delivery business even when diagnosis and hospital services remain harder to platformize.
+
 ## Connections
 - [[Ctrip]] — travel platform whose position Meituan may pressure.
 - [[Fliggy]], [[Douyin]], and [[JDTravel]] — other later potential competitors named by the source.
 - [[PlatformAntitrust]], [[TravelSuperAppConvenience]], and [[OTAPlatformConcentration]] — related concepts.
 - [[ModelContextProtocol]], [[AIAssistantServiceEntry]], and [[AgenticCommerce]] — local-commerce agent interface frame added by Keji Luandun.
 - [[WeiXiaokang]], [[WangXing]], [[BusinessModelOrganizationFit]], and [[RecruitingSupplyStrategy]] — organization and recruiting comparison added by the 42章经 episode.
+- [[PharmaceuticalEcommerce]], [[HealthcareO2O]], and [[InternetHealthcare]] — medicine instant-retail context added by episode 206.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.206 检索、送药、看病：互联网医疗这些年 | 中国互联网故事22](sources/no-206-jiansuo-songyao-kanbing-hulianwang-yiliao-zhexie-nian-zhongguo-hulianwang-gushi-22-991273500.md) — 半拿铁 episode on China's internet healthcare history, from hospital IT, medical literature search, DXY, Haodf, WeDoctor, Chunyu Doctor, internet hospitals, drug ecommerce, and trust crises to managed-care and medical-AI workflow integration.
 - [166: 许华哲再次具身创业：不想错过最大的西瓜](sources/166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1.md) — LateTalk interview with Xu Huazhe on Poke Robotics, Physical AGI, AI-native robotics, household robots, unified robot models, video/robot data, safety boundaries, and robot active-use metrics.
 - [Episode 17: 向量模型工程师：AI 的隐藏瓶颈与新时代的信息迷宫](sources/xiangliang-moxing-gongchengshi-ai-de-yincang-pingjing-yu-xinshidai-de-xinxi-migong-4b6cf945-d64a-4dd0-95a7-cb8f11963698.md) — Fuyou Tiandi episode with N Student on vector models, RAG, semantic relevance, chunking, reranking, hard negatives, long-context limits, agent search evaluation, and preserving human judgment under AI.
 - [Episode 18: 感官放大世界：和任宁聊观鸟、自然与自由](sources/ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779.md) — Fuyou Tiandi episode with Ren Ning on birdwatching, citizen science, tern conservation, urban ecology, nature writing, AI bird-recognition bias, and freedom through sensory attention.
@@ -216,6 +217,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [丁香园 / DXY](entities/DXY.md) — Professional medical community that grew from Li Tiantian's literature-search site into doctor recruiting, drug-reference, and public health-content products.
+- [丁香医生](entities/DingxiangDoctor.md) — DXY's public-facing health-content branch, used in the source to show professional medical popularization and the Quanjian trust case.
+- [PubMed](entities/PubMed.md) — Medical literature database whose free web retrieval helped doctors and shaped DXY's origin story.
+- [李天天](entities/LiTiantian.md) — DXY founder whose medical-literature search need became an early professional internet-healthcare community.
+- [好大夫在线](entities/Haodf.md) — Doctor-directory and patient-review platform used as a restrained commercialization case in internet healthcare.
+- [王航](entities/WangHang.md) — Haodf founder whose company tried to structure doctor information while avoiding drug sales, hospitals, and patient ads.
+- [微医 / 挂号网](entities/WeDoctor.md) — Appointment-registration and internet-hospital company that later moved toward city-level digital health communities.
+- [廖杰远](entities/LiaoJieyuan.md) — Guahao.com and WeDoctor founder associated with moving hospital appointment supply online.
+- [春雨医生](entities/ChunyuDoctor.md) — Light-consultation company illustrating both demand for online medical reassurance and weak standalone economics.
+- [张锐](entities/ZhangRui.md) — Chunyu Doctor founder tied to the mobile-era light-consultation category.
+- [平安好医生](entities/PingAnGoodDoctor.md) — Insurance-adjacent internet-healthcare company used as the main managed-care and health-risk-management case.
+- [阿里健康](entities/AlibabaHealth.md) — Alibaba healthcare and pharmaceutical-commerce vehicle built around online medicine retail and policy openings.
+- [京东健康](entities/JDHealth.md) — JD's healthcare arm, used as a drug ecommerce, logistics, chronic-prescription, and medical-workflow case.
+- [叮当快药](entities/DingdangKuaiyao.md) — Drug-delivery O2O company that survived by standardizing pharmacy logistics and fast delivery.
 - [Poke Robotics](entities/PokeRobotics.md) — Xu Huazhe's new robotics startup pursuing household robots as a route toward Physical AGI.
 - [N 同学 / N Student](entities/NStudent.md) — Anonymized vector-model engineer explaining NLP history, RAG infrastructure, relevance definitions, hard negatives, AI coding judgment, and why fluent models still need retrieval systems.
 - [任宁 / Ren Ning](entities/RenNing.md) — Birdwatcher and nature writer using observation, bird lists, urban habitats, conservation projects, and field experience to make nature more legible.
@@ -732,7 +747,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Skyscanner](entities/Skyscanner.md) — Travel-search asset used in the episode's global Ctrip/Trip.com expansion thread.
 - [Booking Holdings](entities/BookingHoldings.md) — Global OTA comparator used to place Ctrip alongside Booking and Expedia.
 - [Expedia Group](entities/ExpediaGroup.md) — Global OTA comparator and Elong investor context in the Ctrip episode.
-- [Meituan](entities/Meituan.md) — Local-services platform named as a possible later competitor to Ctrip in hotel and travel booking.
+- [Meituan](entities/Meituan.md) — Local-services platform discussed through travel booking, agentic commerce, organization design, and medicine instant retail.
 - [Fliggy](entities/Fliggy.md) — Alibaba-linked travel platform discussed as both a Ctrip competitor and a possible Qwen fulfillment surface.
 - [Douyin](entities/Douyin.md) — ByteDance short-video platform discussed through TikTok benchmarking, product-container contrast with Xiaohongshu, travel discovery, and live-commerce/local-fulfillment order flow.
 - [JD Travel](entities/JDTravel.md) — Ecommerce-linked travel-booking competitor mentioned in the Ctrip episode.
@@ -947,7 +962,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alex Berman](entities/AlexBerman.md) — LinkedIn influencer partner associated with Tapio's distribution strategy.
 - [Alan Newman](entities/AlanNewman.md) — Seventh Generation co-founder whose founder conflict with Jeffrey Hollender is revisited in the Advice Line context.
 - [Aleph Alpha](entities/AlephAlpha.md) — German AI company referenced as part of the episode's discussion of European AI visibility and constraints.
-- [Alibaba](entities/Alibaba.md) — Large technology company discussed through Qwen, open source, organizational order, consumer assistant strategy, cloud infrastructure, embodied AI context, and Luo Fuli's earlier DAMO Academy background.
+- [Alibaba](entities/Alibaba.md) — Large technology company discussed through Qwen, consumer assistant strategy, cloud infrastructure, embodied AI context, and Alibaba Health's online-pharmacy route.
 - [Amazon](entities/Amazon.md) — Cloud and AI infrastructure buyer discussed through Nvidia demand, hyperscaler capex assumptions, EP77's politically sensitive Melania Trump documentary deal, and data-center continuity risk.
 - [Android](entities/Android.md) — Google-backed open smartphone operating system that became the non-Apple ecosystem after iPhone reset handset competition.
 - [Anthropic](entities/Anthropic.md) — AI company discussed through frontier models, Claude Code, enterprise deployment, governance, and the AI-for-math competitive map.
@@ -959,10 +974,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Atoom](entities/Atoom.md) — Attention-aware interface prototype from the Xiaohongshu hackathon that dynamically reorganizes web pages around what the user should focus on.
 - [BCG](entities/BCG.md) — Consulting company referenced through Rolling AI partners' background and as contrast for AI-era agent delivery.
 - [Baijian](entities/Baijian.md) — Bairong Intelligence professional-service platform that gives experts digital employees, office systems, AI drafts, and human sign-off workflows.
-- [Baidu](entities/Baidu.md) — Chinese search and AI company discussed through search-ad decline, open-web traffic loss, Wenxin, strategic inertia, and search habits moving toward social/video apps.
+- [Baidu](entities/Baidu.md) — Chinese search and AI company discussed through search-ad decline, open-web traffic loss, Wenxin, Qunar, and the Wei Zexi medical-search trust crisis.
 - [Bairong Intelligence](entities/BairongIntelligence.md) — Enterprise AI company using and selling digital employees through AI staffing, AI BPO, professional-service platforms, and silicon-carbon governance.
 - [Bank of Japan](entities/BankOfJapan.md) — Central bank whose tightening and yen effects are discussed as triggers for yen carry trade stress and Japanese equity volatility.
-- [半拿铁](entities/Banlatte.md) — Business-history podcast/show context for the China handset prehistory episode.
+- [半拿铁](entities/Banlatte.md) — Business-history podcast/show context for China internet history episodes on handset prehistory and internet healthcare.
 - [Berkshire Hathaway](entities/BerkshireHathaway.md) — Warren Buffett's investment company discussed through Apple reduction, high cash, valuation caution, market sentiment, and Munger/Buffett consumer-brand cases.
 - [Bitcoin](entities/Bitcoin.md) — Cryptocurrency asset discussed as a trading vehicle rather than a cash-flowing investment in the Simons episode.
 - [Bird Mobile](entities/BirdMobile.md) — First-generation Chinese domestic handset brand remembered for licenses, local channels, celebrity marketing, and the "手机中的战斗机" slogan.
@@ -1117,7 +1132,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Peter Lynch](entities/PeterLynch.md) — Fundamental investor used as a comparison point against Jim Simons's quantitative approach.
 - [Playwright](entities/Playwright.md) — Browser automation and testing tool used as an example of agent-driven coding verification.
 - [Podwise](entities/Podwise.md) — AI podcast-learning tool discussed through CLI, Skills, agent workflows, knowledge-management export, recurring automation, and YingdiHaike sponsorship mentions.
-- [Pinduoduo](entities/Pinduoduo.md) — Ecommerce marketplace and subsidy surface framing the Keji Luandun tech-purchase episode's price comparisons.
+- [Pinduoduo](entities/Pinduoduo.md) — Ecommerce marketplace discussed through subsidy pricing, Temu, investment valuation, merchant pressure, and low-price medicine retail.
 - [原则科技](entities/PrincipleTech.md) — Startup context for XiaoSun's earlier independent-developer and creator-tool work.
 - [QQ](entities/QQ.md) — Tencent messaging product used as the historical comparison for free-core, paid-membership internet services.
 - [QuickStone](entities/QuickStone.md) — Investment firm connected to Yihao's proactive AI and agent-infrastructure thesis around AirJelly.
@@ -1159,7 +1174,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Symbian](entities/Symbian.md) — Pre-iPhone smartphone operating system platform dominated by Nokia before iPhone and Android changed ecosystem competition.
 - [Tapio](entities/Tapio.md) — LinkedIn-focused SaaS product built as a sister product to Tweet Hunter.
 - [Tea Maker](entities/TeaMaker.md) — Bootstrapped SaaS holding company founded by Thibaut-Louis Lucas.
-- [Tencent](entities/Tencent.md) — Chinese internet company discussed through QQ membership history, Yuanbao AI assistant competition, WeChat, mini-programs, and service-entry strategy.
+- [Tencent](entities/Tencent.md) — Chinese internet company discussed through QQ/Yuanbao, WeChat service entry, ByteDance competition, and investments in internet-healthcare platforms.
 - [Tencent Meeting](entities/TencentMeeting.md) — Tencent collaboration product used as Vol. 164's example for decomposing SaaS into agent-recombinable video, recording, storage, and interface capabilities.
 - [Tesla](entities/Tesla.md) — EV and autonomous-driving company used in EP57, Win's FSD/Robotaxi field notes, and the SpaceX source's Musk hard-tech ecosystem framing.
 - [The Mom Test](entities/TheMomTest.md) — Startup validation book referenced as a guardrail against leading customer interviews and false demand signals.
@@ -1226,6 +1241,21 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Internet Healthcare](concepts/InternetHealthcare.md) — Umbrella branch covering hospital IT, medical search, doctor communities, appointments, consultation, drug sales, internet hospitals, and managed care.
+- [Hospital Information System](concepts/HospitalInformationSystem.md) — Hospital IT foundation required before online appointments, records, prescriptions, internet hospitals, and medical AI workflows can function.
+- [Medical Literature Search](concepts/MedicalLiteratureSearch.md) — Professional knowledge-access layer connecting PubMed, Li Tiantian, and DXY's early community formation.
+- [Online Appointment Registration](concepts/OnlineAppointmentRegistration.md) — Healthcare platform category where online booking reduces queueing friction but remains dependent on hospital supply and policy.
+- [Online Medical Consultation](concepts/OnlineMedicalConsultation.md) — Light-consultation category with real user value but hard pricing, quality, and downstream-medical-value capture.
+- [Pharmaceutical Ecommerce](concepts/PharmaceuticalEcommerce.md) — Online pharmacy and medicine-retail branch that proved more standardizable than diagnosis.
+- [Internet Hospital](concepts/InternetHospital.md) — Licensed online medical-service form linking consultation, electronic prescriptions, follow-up visits, and entity-backed regulatory requirements.
+- [银川互联网医院试点](concepts/YinchuanInternetHospitalPilot.md) — Local internet-hospital licensing experiment that became historically important after national rules tightened.
+- [Healthcare O2O](concepts/HealthcareO2O.md) — Mobile-era attempt to deliver medicine, nurses, doctors, testing, and health services on demand despite low frequency and nonstandard quality.
+- [Online Healthcare Regulatory Boundary](concepts/OnlineHealthcareRegulatoryBoundary.md) — Policy line around first diagnosis, doctor identity, prescriptions, internet hospitals, and AI not replacing doctors.
+- [Medical Platform Trust Crisis](concepts/MedicalPlatformTrustCrisis.md) — Trust-failure frame for search ads, misleading medical claims, hospital outsourcing, and platform-mediated health authority.
+- [魏则西事件](concepts/WeiZexiIncident.md) — Search, advertising, hospital outsourcing, and treatment-claim case that pushed internet healthcare into a more cautious period.
+- [HMO Managed Care](concepts/HMOManagedCare.md) — Managed-care incentive model used to rethink internet healthcare as long-term health-risk management rather than one-off service sales.
+- [数字健共体](concepts/DigitalHealthCommunity.md) — City-level chronic-disease and health-management model associated with WeDoctor's later route.
+- [Medical AI Workflow Integration](concepts/MedicalAIWorkflowIntegration.md) — Practical medical-AI frame focused on imaging, record reading, follow-up, pharmacy review, and doctor-supervised workflows.
 - [Physical AGI](concepts/PhysicalAGI.md) — general physical intelligence route where the robot brain transfers across tasks and scenes rather than optimizing one robot shell or workflow.
 - [AI Native Robotics](concepts/AINativeRobotics.md) — robotics route built around general model capability, data diversity, active agency, and product boundaries rather than traditional task-by-task robotics.
 - [Unified Robot Models](concepts/UnifiedRobotModels.md) — model route where robot action and behavior learning compound across tasks instead of stitching many narrow models together.
@@ -1717,7 +1747,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wheel-Based Dual-Arm Robots](concepts/WheelBasedDualArmRobots.md) — Xinghaitu's form-factor choice focused on manipulation intelligence without simultaneous bipedal-locomotion complexity.
 - [Production Robot Scenario Selection](concepts/ProductionRobotScenarioSelection.md) — Method for choosing early robotics markets by speed, precision, generalization, failure cost, and scaling potential.
 - [AI Content Provenance](concepts/AIContentProvenance.md) — Marking, disclosing, or tracing AI-generated media through watermarks, content credentials, and consumer right-to-know boundaries.
-- [Medical AI Marketing Risk](concepts/MedicalAIMarketingRisk.md) — Risk that AI doctors, affiliate incentives, app-store tactics, and AI-search visibility make low-trust health products look authoritative.
+- [Medical AI Marketing Risk](concepts/MedicalAIMarketingRisk.md) — Risk that AI doctors, affiliate incentives, app-store tactics, AI-search visibility, and medical-platform trust failures make health products or advice look authoritative.
 - [AI Export Controls](concepts/AIExportControls.md) — Policy attempts to restrict access to frontier model capability, model weights, APIs, chips, or related infrastructure.
 - [AI Cold War](concepts/AIColdWar.md) — Geopolitical frame where model, API, compute, and information flows become bloc-style strategic competition.
 - [AI Safety Narrative Backfire](concepts/AISafetyNarrativeBackfire.md) — Risk that weapon-like AI safety rhetoric invites blunt national-security regulation of commercial models.
