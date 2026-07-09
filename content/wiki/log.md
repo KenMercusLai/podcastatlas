@@ -1727,3 +1727,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-09] ingest | Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)
+
+Added source page for a How I Built This Advice Line episode with Jeni Britton on Jesse and Ben's frozen fries, Jaju Pierogi, Ube.co, and Flora. Created pages for Jeni Britton, Jeni's Splendid Ice Creams, Flora, Jesse and Ben's, Jesse Koenig, Jaju Pierogi, Casey White, Ube.co, and Repeatable Customer Language; updated overview, index, How I Built This, Guy Raz, CPG Distribution, In-Store Demos, Customer Pull, Sales Velocity, Retail Incrementality, Startup Governance, Financial Gravity, Sustainable Growth Pace, Mission Driven Customer Education, Proof Point Reuse, Whole Foods Market, Costco, and Target. No direct contradiction found; the source reinforces the CPG branch around taste-led messaging, customer language, retail category expansion, founder-control-preserving capital, and communications support matched to company stage.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

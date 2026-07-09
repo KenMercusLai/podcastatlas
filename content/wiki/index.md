@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)](sources/advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e.md) — How I Built This Advice Line episode with Jeni Britton on Jesse and Ben's fries, Jaju Pierogi, Ube.co, retail sampling, CPG messaging, category incrementality, founder control, and stage-appropriate communications.
 - [Vol.264 把世界杯作为方法](sources/vol-264-ba-shijiebei-zuowei-fangfa-999416048.md) — 商业就是这样 episode using the 2026 FIFA World Cup to analyze Chinese platform rights, offline brand activation, sponsor globalization, technology partnerships, and football lifestyle consumption.
 - [No.209 晋商往事：走西口到乔家大院然后煤了](sources/no-209-jinshang-wangshi-zou-xikou-dao-qiaojia-dayuan-ranhou-mei-le-999367322.md) — 半拿铁 episode on Shanxi merchants, frontier trade, Dashengkui, Rishengchang piaohao, Qiao Family Compound, Pingyao conservation, coal dependence, and resource-based transition.
 - [为什么硅谷开始重新定义「AI 记忆」｜ S10E20](sources/weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3.md) — What's Next｜科技早知道 episode with Kang Hongwen of Clipto AI on local-first personal memory, multimodal archives, data-to-memory transformation, edge/cloud boundaries, and why AI assistants need more than cloud model intelligence.
@@ -229,6 +230,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Jeni Britton](entities/JeniBritton.md) — Founder of Jeni's Splendid Ice Creams and Advice Line guest connecting product quality, customer language, and founder control.
+- [Jeni's Splendid Ice Creams](entities/JenisSplendidIceCreams.md) — Ice cream company founded by Jeni Britton, used as operating backdrop for CPG advice.
+- [Flora](entities/Flora.md) — Fiber company turning produce trimmings into microbiome-oriented bars in Britton's post-ice-cream food-health frame.
+- [Jesse and Ben's](entities/JesseAndBens.md) — Frozen fry brand advised to lead with taste, quality, hot sampling, and retailer category expansion.
+- [Jesse Koenig](entities/JesseKoenig.md) — Jesse and Ben's co-founder/caller seeking positioning advice for a better frozen fry.
+- [Jaju Pierogi](entities/JajuPierogi.md) — Polish dumpling brand weighing grocery growth and founder control without heavy outside equity.
+- [Casey White](entities/CaseyWhite.md) — Jaju Pierogi co-founder/caller weighing capital options for food retail expansion.
+- [Ube.co](entities/UbeCo.md) — Purple sweet potato pet treat company advised to sharpen science-backed founder messaging before PR spend.
 - [中央广播电视总台 / China Central Television](entities/ChinaCentralTelevision.md) — Domestic World Cup rights source in China, sublicensing live, on-demand, and replay access to platforms.
 - [咪咕 / Migu](entities/Migu.md) — Recurring Chinese World Cup streaming-rights buyer used to read sports rights as platform growth infrastructure.
 - [海信 / Hisense](entities/Hisense.md) — Chinese TV and home-appliance company using World Cup and European Championship sponsorship plus VAR display technology to support overseas trust.
@@ -1384,6 +1393,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Repeatable Customer Language](concepts/RepeatableCustomerLanguage.md) — Practice of turning customer wording, demos, and use cases into messaging customers and buyers can repeat.
 - [Sports Rights Growth Engine](concepts/SportsRightsGrowthEngine.md) — Pattern where live sports rights are bought for platform growth, legitimacy, demographics, and cultural presence more than direct ad ROI.
 - [Offline Brand Activation](concepts/OfflineBrandActivation.md) — Time-bound physical campaign strategy using events, pop-ups, commercial districts, and crowds to make brand moments tangible.
 - [Global Sports Sponsorship](concepts/GlobalSportsSponsorship.md) — Use of worldwide sports events to build overseas brand trust, market presence, and technology credibility.
