@@ -1699,3 +1699,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-09 with 2,261 nodes and 21,670 edges; they found no hub stubs, eight fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider key variables are present in the environment; a bounded in-session semantic review of the script sample plus orphan pages found no direct contradictions or stale summaries, with source-breadth gaps around public-media emergency-access impact and outcome-priced AI/service-as-software market validation. Report returned in-session; `wiki/lint-report.md` was not saved.
