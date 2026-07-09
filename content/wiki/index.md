@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [269.真人短剧的下一战：与AI共生、工业化和好故事](sources/269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt.md) — 乱翻书 episode with Hou Chao and Li Jiajia on live-action short drama after the AI shock, industrialized production, Hongguo completion metrics, actor/story nuance, and AI-assisted workflow management.
 - [Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)](sources/advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e.md) — How I Built This Advice Line episode with Jeni Britton on Jesse and Ben's fries, Jaju Pierogi, Ube.co, retail sampling, CPG messaging, category incrementality, founder control, and stage-appropriate communications.
 - [Vol.264 把世界杯作为方法](sources/vol-264-ba-shijiebei-zuowei-fangfa-999416048.md) — 商业就是这样 episode using the 2026 FIFA World Cup to analyze Chinese platform rights, offline brand activation, sponsor globalization, technology partnerships, and football lifestyle consumption.
 - [No.209 晋商往事：走西口到乔家大院然后煤了](sources/no-209-jinshang-wangshi-zou-xikou-dao-qiaojia-dayuan-ranhou-mei-le-999367322.md) — 半拿铁 episode on Shanxi merchants, frontier trade, Dashengkui, Rishengchang piaohao, Qiao Family Compound, Pingyao conservation, coal dependence, and resource-based transition.
@@ -580,6 +581,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [龚宇](entities/GongYu.md) — iQIYI figure whose submission/decentralization proposal anchors episode 266's long-video platformization frame.
 - [王小叔](entities/WangXiaoshu.md) — Short-drama operator and episode 266 guest explaining cost structure, distribution, paid traffic, AI comic drama, and overseas publishing.
 - [徐文亮 / Tom](entities/XuWenliang.md) — Episode 266 guest comparing web fiction, audiobooks, live-action short drama, AI comic drama, and AI photorealistic drama.
+- [侯超 / Hou Chao](entities/HouChao.md) — Rixin Yiy short-drama operator explaining high-throughput live-action production, ROI discipline, principal safety, and AI-assisted workflow management.
+- [日新月异 / Rixin Yiy](entities/RixinYiy.md) — Live-action short-drama company used as the episode 269 case for industrialized production, middle-office coordination, script tagging, and batch cost control.
+- [李嘉佳 / Li Jiajia](entities/LiJiajia.md) — Gangganghao Yingshi short-drama operator emphasizing character relationships, actor fit, single-project quality, and live-action nuance under AI pressure.
+- [刚刚好影视 / Gangganghao Yingshi](entities/GangganghaoYingshi.md) — Live-action short-drama company contrasted with Rixin Yiy through higher-budget, story-led, single-project production.
+- [苏太太高调离婚了 / Su Taitai Gaodiao Lihunle](entities/SuTaitaiGaodiaoLihunle.md) — Live-action short-drama work used as an episode 269 example of completion, immersion, and story-driven free-platform performance.
+- [甄千金他是学霸 / Zhen Qianjin Ta Shi Xueba](entities/ZhenQianjinTaShiXueba.md) — Live-action short-drama example used to explain why changed character relationships change motivation and story events.
 - [YouTube](entities/YouTube.md) — Overseas video distribution surface for Chinese short dramas in episode 266's publishing and localization discussion.
 - [Israel](entities/Israel.md) — Country actor whose conflict with Hezbollah in Lebanon could imperil the episode's wider U.S.-Iran diplomacy frame.
 - [Lebanon](entities/Lebanon.md) — Country context for the ceasefire clause, Hezbollah capacity, and enforcement problem in the Iran-deal segment.
@@ -1635,6 +1642,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Short Drama Paid-Traffic Distribution](concepts/ShortDramaPaidTrafficDistribution.md) — Distributor, ad-buying, ROI, ad-placement, and delayed settlement mechanism behind some short-drama scale-ups.
 - [AI Video Production Workflow](concepts/AIVideoProductionWorkflow.md) — Practical AI-video creation process involving scripts, prompts, image/video generation, repeated draws, editing, localization, and rights checks.
 - [Platformized Drama Production](concepts/PlatformizedDramaProduction.md) — Shift from producer-led long-video commissioning toward open submission, fast feedback, platform governance, and market-tested drama supply.
+- [Live-Action Short Drama](concepts/LiveActionShortDrama.md) — Human-cast short-drama category whose value depends on actor fit, relationship nuance, collaborative production craft, and AI-assisted rather than AI-replaced workflows.
+- [Short Drama Industrialization](concepts/ShortDramaIndustrialization.md) — Production-management pattern using script tagging, middle-office coordination, reusable scenes, ROI controls, and AI workflow checks to scale live-action short drama.
+- [Character Relationship Story Logic](concepts/CharacterRelationshipStoryLogic.md) — Story method where character relationships determine motivation, motivation determines events, and events determine whether short-drama audiences stay immersed.
 - [U.S.-Iran Nuclear Diplomacy](concepts/USIranNuclearDiplomacy.md) — Negotiation frame around the Strait of Hormuz, Iranian assets, uranium-stockpile talks, and Lebanon-related fragility.
 - [Proxy Conflict Spoiler Risk](concepts/ProxyConflictSpoilerRisk.md) — Risk that an unresolved local or allied armed conflict undermines a broader diplomatic agreement.
 - [El Nino](concepts/ElNino.md) — Pacific climate pattern whose strength is measured through sea-surface temperature anomalies and global weather disruption.

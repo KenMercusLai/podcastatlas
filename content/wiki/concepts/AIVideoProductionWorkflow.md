@@ -2,8 +2,8 @@
 title: "AI Video Production Workflow"
 type: concept
 tags: [ai, video, workflow, creator-economy]
-sources: [266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx]
-last_updated: 2026-07-08
+sources: [266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]
+last_updated: 2026-07-09
 ---
 
 # AI Video Production Workflow
@@ -14,6 +14,8 @@ The source's important point is that [[VideoModels]] reduce the need for actors,
 
 [[267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx]] adds an end-to-end creator case. [[XiaoGuoGege]] used [[Doubao]] to adapt a [[FanqieNovel]] story into multiple script variants and prompts, generated short video fragments with Seedance-style and adjacent tools, salvaged flawed clips for voice, picture, transitions, or internal monologue, and edited the output into [[AnhuiXiaoMujiang]].
 
+[[269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]] extends the workflow frame beyond generated clips. [[RixinYiy]] uses AI for live-action production management: script tools linked to databases, scene and character consistency checks, electronic continuity notes, actor notices, work-time records, and upload/approval gates. In this version, AI is infrastructure for [[ShortDramaIndustrialization]], not only a replacement camera crew.
+
 ## Key Claims
 - AI video lets one person or a small team attempt work that previously required a larger filming crew.
 - The "抽卡师" role appears because repeated generation and selection become production labor.
@@ -21,12 +23,14 @@ The source's important point is that [[VideoModels]] reduce the need for actors,
 - Better AI subtitles, translation, and dubbing may reduce the value of pure overseas distribution while increasing the value of deeper workflow services.
 - Workflow advantage depends on taste, story, rights control, and platform feedback, not only on access to a model.
 - In the [[AnhuiXiaoMujiang]] case, editing and reuse of imperfect generated material were the practical bottlenecks that kept low compute cost from becoming zero labor.
+- In live-action workflows, AI can enforce consistency and reduce coordination loss even when the finished work remains human-shot.
 
 ## Connections
 - [[AIShortDrama]] — main content category using the workflow.
 - [[AnhuiXiaoMujiang]] and [[XiaoGuoGege]] — concrete workflow case.
 - [[VideoModels]] and [[Seedance]] — model-capability context, with the source also naming C-dance, Jimeng, Kling, Vidu, and PixVerse as tools.
 - [[Doubao]] and [[FanqieNovel]] — script/prompt assistant and source-IP context added by episode 267.
+- [[RixinYiy]], [[HouChao]], and [[ShortDramaIndustrialization]] — live-action workflow-management branch added by episode 269.
 - [[AISuperCreators]] and [[CreationAsConsumption]] — solo/small-team creator pattern.
 - [[AIContentProvenance]] and [[IPOwnership]] — rights and likeness boundary.
 - [[ShortDramaEconomics]] — cost and monetization frame.

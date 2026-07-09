@@ -2,8 +2,8 @@
 title: "红果"
 type: entity
 tags: [platform, short-drama, china]
-sources: [266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx]
-last_updated: 2026-07-08
+sources: [266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]
+last_updated: 2026-07-09
 ---
 
 # 红果
@@ -16,6 +16,8 @@ The source frames Hongguo's importance through [[ShortDramaEconomics]]: a roughl
 
 [[267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx]] adds Hongguo as part of the rights, distribution, and settlement path for [[AnhuiXiaoMujiang]]. The episode says the creator could submit through Hongguo-related channels and receive revenue share from platform/distributor distribution, but also that Hongguo acceptance did not guarantee [[Douyin]] approval for later works.
 
+[[269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]] adds the live-action confidence-building side. The source says the platform conference promoted large-scale [[LiveActionShortDrama]] supply, incentives for better live-action works, and a matchmaking system for production participants, while guests connect Hongguo-style completion metrics to renewed emphasis on full stories and character relationships.
+
 ## Key Points
 - Hongguo is treated as a scale platform for short dramas, not just a content format label.
 - The episode says Hongguo's current base remains more live-action short drama than [[AIShortDrama]].
@@ -23,6 +25,7 @@ The source frames Hongguo's importance through [[ShortDramaEconomics]]: a roughl
 - Hongguo's completion-rate focus is used to argue that complete stories regained value after earlier hook-driven paid-short-drama patterns.
 - Episode 7 adds Hongguo as a case where growth logic transfers from free novels and short video, but monetization density may remain structurally lower than Douyin.
 - Episode 267 adds Hongguo to the [[ShortDramaPaidTrafficDistribution]] chain, where platform acceptance, distributor amplification, and delayed settlement shape creator economics.
+- Episode 269 adds Hongguo's live-action support context: more supply, better matching, and a completion-rate standard that rewards coherent stories.
 
 ## Connections
 - [[Douyin]] — adjacent distribution and copyright-center context.
@@ -30,4 +33,5 @@ The source frames Hongguo's importance through [[ShortDramaEconomics]]: a roughl
 - [[AIShortDrama]] — possible future category overlap, although the source says Hongguo's base remains live-action.
 - [[AnhuiXiaoMujiang]] and [[ShortDramaPaidTrafficDistribution]] — creator-side case and paid-traffic mechanism.
 - [[PlatformizedDramaProduction]] — pressure on long-video platforms once Hongguo-style market testing works at scale.
+- [[LiveActionShortDrama]], [[CharacterRelationshipStoryLogic]], and [[ShortDramaIndustrialization]] — live-action branch added by episode 269.
 - [[ByteDanceGrowthSystem]], [[CreativeMaterialIndustrialization]], and [[LTVBasedGrowthBudgeting]] — growth operating context added by the Luanfanshu episode 7 source.

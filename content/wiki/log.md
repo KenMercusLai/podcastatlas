@@ -1428,6 +1428,10 @@ Added source page for a The Intelligence episode on Brexit's cumulative economic
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-09] ingest | 269.真人短剧的下一战：与AI共生、工业化和好故事
+
+Added source page for a 乱翻书 episode with Hou Chao of Rixin Yiy and Li Jiajia of Gangganghao Yingshi on live-action short drama after the AI shock, industrialized production, Hongguo completion metrics, actor/story nuance, and AI-assisted workflow management. Created pages for Hou Chao, Rixin Yiy, Li Jiajia, Gangganghao Yingshi, Su Taitai Gaodiao Lihunle, Zhen Qianjin Ta Shi Xueba, Live-Action Short Drama, Short Drama Industrialization, and Character Relationship Story Logic; updated overview, index, Luanfanshu, Zhuang Minghao, Hongguo, AI Short Drama, AI Video Production Workflow, Short Drama Economics, Platformized Drama Production, and AI Interactive Entertainment. No direct contradiction found; the source qualifies the prior AI short-drama branch by showing where human performance, relationship logic, and production collaboration still matter.
+
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -1731,6 +1735,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-09] ingest | Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)
 
 Added source page for a How I Built This Advice Line episode with Jeni Britton on Jesse and Ben's frozen fries, Jaju Pierogi, Ube.co, and Flora. Created pages for Jeni Britton, Jeni's Splendid Ice Creams, Flora, Jesse and Ben's, Jesse Koenig, Jaju Pierogi, Casey White, Ube.co, and Repeatable Customer Language; updated overview, index, How I Built This, Guy Raz, CPG Distribution, In-Store Demos, Customer Pull, Sales Velocity, Retail Incrementality, Startup Governance, Financial Gravity, Sustainable Growth Pace, Mission Driven Customer Education, Proof Point Reuse, Whole Foods Market, Costco, and Target. No direct contradiction found; the source reinforces the CPG branch around taste-led messaging, customer language, retail category expansion, founder-control-preserving capital, and communications support matched to company stage.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-09] lint | Wiki health check
 

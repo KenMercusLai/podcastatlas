@@ -2,7 +2,7 @@
 title: "乱翻书"
 type: entity
 tags: [podcast, media]
-sources: [musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]
+sources: [musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec, faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]
 last_updated: 2026-07-09
 ---
 
@@ -17,6 +17,8 @@ The episode places the show inside the wiki's AI product and application-layer b
 [[264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]] adds a different Luanfanshu mode: a single-host business-ethics essay on [[TimCook]], [[Apple]], and [[ValuesAsOperationalAsset]]. It connects the show to the wiki's governance branch by asking how a large technology company makes values executable through accessibility, privacy, suppliers, regulation, and public leadership.
 
 [[266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]] adds Luanfanshu's media-industry mode: a multi-guest discussion of [[Hongguo]], [[Douyin]], [[IQIYI]], [[AIShortDrama]], and [[ShortDramaEconomics]]. The episode moves the show's AI-video thread from model/application strategy into actual entertainment production, ad distribution, creator roles, and long-video platform organization.
+
+[[269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]] continues that media-industry mode from the live-action side. [[ZhuangMinghao]] uses [[HouChao]] and [[LiJiajia]] to contrast industrialized production, ROI safety, AI-assisted operations, actor fit, and character-driven storytelling after AI short drama pressures the old cost structure.
 
 [[touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d]] adds Luanfanshu's platform-competition mode: a ByteDance-series episode that turns the [[ToutengWar]] into a broader comparison of [[ByteDance]] and [[Tencent]] across information feeds, short video, ads, social, games, IP, and AI.
 
@@ -33,6 +35,7 @@ The episode places the show inside the wiki's AI product and application-layer b
 - [[AIApplicationLayerMoat]] and [[ModelProviderToolCompetition]] — strategic frame of the conversation.
 - [[TimCook]], [[Apple]], [[StakeholderCapitalism]], and [[ValuesAsOperationalAsset]] — governance and values branch added by episode 264.
 - [[Hongguo]], [[Douyin]], [[AIShortDrama]], and [[ShortDramaEconomics]] — short-drama and AI-video entertainment branch added by episode 266.
+- [[HouChao]], [[RixinYiy]], [[LiJiajia]], [[GangganghaoYingshi]], [[LiveActionShortDrama]], and [[ShortDramaIndustrialization]] — live-action short-drama branch added by episode 269.
 - [[ToutengWar]], [[Tencent]], [[ZhangYiming]], [[PonyMa]], [[RecommendationDistributionAdvantage]], and [[SocialGraphMoat]] — platform-competition branch added by ByteDance episode 6.
 - [[XuHongliang]], [[ByteDanceGrowthSystem]], [[LTVBasedGrowthBudgeting]], [[AutomatedPerformanceMarketing]], [[CreativeMaterialIndustrialization]], [[GrowthRiskControl]], and [[AIConsumerGrowthMetrics]] — growth-operations branch added by ByteDance episode 7.
 - [[RedPacketGrowth]], [[LiteAppGrowth]], [[FissionGrowth]], [[CouponLedTransactionGrowth]], [[SpringFestivalGrowthCampaign]], and [[GrowthROILayers]] — productized incentive and event-growth branch added by ByteDance episode 8.

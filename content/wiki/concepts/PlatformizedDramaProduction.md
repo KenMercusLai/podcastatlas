@@ -2,7 +2,7 @@
 title: "Platformized Drama Production"
 type: concept
 tags: [media, platforms, entertainment, organization]
-sources: [266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194]
+sources: [266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]
 last_updated: 2026-07-09
 ---
 
@@ -16,6 +16,8 @@ The concept is not just "let more people upload." The platform must handle creat
 
 [[no-204-hulianwang-shipin-pingtai-hunzhan-cong-houshe-nansheng-dao-manchangde-jijie-zhongguo-hulianwang-gushi-21-980902194]] adds historical depth: before [[Hongguo]] and AI short drama, [[Tudou]] showed an earlier UGC creator route, while [[IQIYI]], [[TencentVideo]], [[Youku]], and [[MangoTV]] moved toward rights, self-production, and paid membership. Platformized drama production is therefore both a new short-drama response and a return to the old question of whether platforms can turn broad creator supply into durable professional content.
 
+[[269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]] adds the live-action matchmaking layer. The source says the conference platform announced tools to connect investors, production companies, writers, directors, actors, contracts, collaboration, and revenue sharing, showing that platformization now reaches upstream [[LiveActionShortDrama]] production rather than only submission, recommendation, and advertising.
+
 ## Key Claims
 - Long-video platforms have historically depended on producer decisions, IP, stars, and large budgets, which can narrow supply.
 - Short-drama platforms use faster ROI and recommendation feedback, making failures cheaper and successes easier to scale.
@@ -23,10 +25,12 @@ The concept is not just "let more people upload." The platform must handle creat
 - AI-generated drama intensifies the shift because it further lowers production cost and expands supply.
 - The same platformized structure can create a black box for creators when rights channels close, ad placement changes, or final payout is only known after settlement.
 - Episode 204 adds the long-video baseline: [[ChineseLongVideoPlatformEconomics]] made producer-led, high-budget commissioning powerful but expensive, while [[UGCToProfessionalCreatorPipeline]] shows the alternative supply path that earlier platforms once had.
+- Episode 269 adds that platformization can also reduce production-side matching friction among investors, writers, directors, actors, and production companies.
 
 ## Connections
 - [[IQIYI]], [[GongYu]], [[Hongguo]], and [[Douyin]] — platform cases in the source.
 - [[AnhuiXiaoMujiang]], [[FanqieNovel]], and [[ShortDramaPaidTrafficDistribution]] — episode 267 case of creator-side platformization.
+- [[HouChao]], [[RixinYiy]], [[LiJiajia]], [[GangganghaoYingshi]], and [[LiveActionShortDrama]] — live-action production-side platformization added by episode 269.
 - [[ShortDramaEconomics]] — economic basis for faster testing.
 - [[AIShortDrama]] and [[AIVideoProductionWorkflow]] — new production supply.
 - [[ContentEcosystemGovernance]] and [[RecommendationSystemProductization]] — platform responsibilities once content supply increases.
