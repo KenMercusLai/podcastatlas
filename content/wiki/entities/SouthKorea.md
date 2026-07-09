@@ -2,8 +2,8 @@
 title: "South Korea / 韩国"
 type: entity
 tags: [country, consumer, culture, technology, asia]
-sources: [137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]
-last_updated: 2026-07-09
+sources: [137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
+last_updated: 2026-07-10
 ---
 
 # South Korea / 韩国
@@ -14,13 +14,17 @@ The source connects Korea's consumer power to [[KoreanCultureLedConsumerMarketin
 
 [[peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]] adds South Korea as an elder-care law comparison case. The episode groups it with [[India]] and [[Japan]] as countries with legal protections against elder abuse, including financial exploitation, inside a broader [[FilialPietyLaws]] and [[ElderCareStateCapacity]] segment.
 
+[[142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]] adds South Korea as the explicit marketing counterpart to Japan. The source uses Korea to study [[FanEconomy]], global entertainment, beauty, fashion, [[OliveYoung]], [[BLACKPINK]], TikTok-facing brands, and a more dopamine-rich consumer expression than Japan's slower product-experience mood.
+
 ## Source Position
 - Korea is treated as a possible third-country beneficiary in a China-U.S. competition context because it has distinct strengths, moderate scale, and global cultural reach.
 - The source cites memory semiconductors and [[Samsung]] as technology-strength examples while focusing most of its analysis on consumer scenes.
 - The hosts argue Korean cultural exports travel globally partly because song, dance, beauty, and market-oriented entertainment are easier to localize than heavily national or political messages.
+- Episode 142 sharpens the comparison: product experience is framed as Japan's strength, while global marketing and fan-driven consumer influence are framed as Korea's strength.
 
 ## Connections
 - [[Samsung]] - technology strength referenced in the episode.
 - [[GentleMonster]], [[KBeautyGlobalTrust]], [[SeongsuDong]], [[GongCha]], [[MannerCoffee]], and [[Sandunban]] - consumer cases connected to Korea.
 - [[KoreanCultureLedConsumerMarketing]], [[AIResistantExperientialConsumption]], and [[ConsumerBrandMoat]] - main wiki concepts extended through the Korea observations.
 - [[FilialPietyLaws]] and [[ElderCareStateCapacity]] - elder-care law comparison branch added by The Intelligence.
+- [[OliveYoung]], [[BLACKPINK]], and [[FanEconomy]] - Korea-side marketing examples added by FengTouQuan episode 142.

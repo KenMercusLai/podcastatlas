@@ -2,8 +2,8 @@
 title: "Theme Park As Media Platform"
 type: concept
 tags: [media, retail, theme-parks, distribution]
-sources: [the-walt-disney-company-1]
-last_updated: 2026-07-07
+sources: [the-walt-disney-company-1, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
+last_updated: 2026-07-10
 ---
 
 # Theme Park As Media Platform
@@ -12,14 +12,18 @@ Theme park as media platform is the idea that a park can distribute, monetize, a
 
 The concept extends [[ExperientialRetail]]. Build-A-Bear makes the store visit part of the product; Disney makes the park visit part of the media system. In both cases, the value comes from time, participation, and memory, not only from the physical object purchased.
 
+[[142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]] adds [[TokyoDisneyResort]] as the long-term operation version. The episode's locker example shows that a theme park can monetize small convenience details when merchandise, crowd flow, and guest behavior have been designed deeply enough.
+
 ## Key Claims
 - A park can be a distribution channel for films, characters, music, merchandise, and future media demand.
 - Longer guest time can increase per-capita spending when the experience remains emotionally rewarding.
 - Physical immersion strengthens [[ProductLedWillingnessToPay]] by making the customer feel inside the product world.
 - Park economics still require operational discipline: financing, site selection, staffing, safety, capacity, maintenance, and repeat novelty.
+- Secondary revenue can be an outcome of experience quality when visitors willingly stay, shop, carry goods, eat, and solve small practical problems inside the park.
 
 ## Connections
 - [[Disneyland]] and [[WaltDisneyWorld]] - source cases.
+- [[TokyoDisneyResort]] - Japan-side long-term operation case added by FengTouQuan episode 142.
 - [[WaltDisney]], [[RoyDisney]], and [[WEDEnterprises]] - creative, financial, and design context.
 - [[EntertainmentIPFlywheel]], [[ExperientialRetail]], and [[DistributionLedProductBuilding]] - adjacent concepts.
 - [[ABC]] and [[VerticalMediaDistribution]] - television and promotion context.

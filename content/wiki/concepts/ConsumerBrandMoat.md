@@ -2,8 +2,8 @@
 title: "Consumer Brand Moat"
 type: concept
 tags: [investing, consumer-brands, moat, cpg]
-sources: [ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i, ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939, e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie, 138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1, 140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, vol-264-ba-shijiebei-zuowei-fangfa-999416048]
-last_updated: 2026-07-09
+sources: [ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i, ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939, e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie, 138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1, 140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, vol-264-ba-shijiebei-zuowei-fangfa-999416048, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
+last_updated: 2026-07-10
 ---
 
 # Consumer Brand Moat
@@ -24,6 +24,8 @@ A consumer brand moat is the durable business advantage that forms when customer
 
 [[137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]] adds the Korean culture-led version through [[GentleMonster]], [[KBeautyGlobalTrust]], [[ANUA]], [[MEDICUBE]], and [[SeongsuDong]]. The moat can come from a country's cultural authority, celebrity distribution, city-district coolness, and a store that acts as media, but the source still treats product proof and local competition as constraints.
 
+[[142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]] adds two consumer-brand moat refinements. First, [[ExperienceLedBrand]] moats can come from low-pressure, authentic use rather than only traffic and visibility. Second, [[ImageFirstIP]] moats can carry durable emotional demand, but [[Sanrio]] and [[PopMart]] show that licensing-led and self-operated models create different margin, control, and volatility profiles.
+
 ## Key Claims
 - A moat is stronger when the customer does not need to rethink the purchase every time.
 - Gift reliability, payment acceptance, and everyday cravings are different forms of the same behavioral asset.
@@ -40,6 +42,7 @@ A consumer brand moat is the durable business advantage that forms when customer
 - In sports and fitness, a moat can come from belonging to a circle: a shoe's visible silhouette, a store's premium feel, a class's room energy, or an instructor's following can all create repeat demand.
 - Product-brand moats can scale through stores and assortment, while service-brand moats require [[ServiceBrandStandardization]] before they travel across cities.
 - In Korean consumer brands, a moat can be built through cultural trust, celebrity reach, beauty authority, and district-level trend context, not only through product features.
+- Experience and IP moats are not only awareness problems: the source asks whether users can keep returning to the place or character after the initial media attention fades.
 
 ## Connections
 - [[SeesCandies]] — gift trust and quality consistency.
@@ -53,6 +56,7 @@ A consumer brand moat is the durable business advantage that forms when customer
 - [[PopMart]], [[Labubu]], [[GoodCompanyGoodStock]], and [[EarningsGrowthAcceleration]] - collectible-IP brand-moat extension added by FengTouQuan episode 139.
 - [[OnRunning]], [[SuperMonkey]], [[Lululemon]], [[AloYoga]], [[DirectToConsumerBrandControl]], and [[PayPerClassFitnessModel]] - sports-consumption extension added by FengTouQuan episode 138.
 - [[GentleMonster]], [[KBeautyGlobalTrust]], [[ANUA]], [[MEDICUBE]], [[SeongsuDong]], and [[KoreanCultureLedConsumerMarketing]] - Korean marketing and beauty-trust extension added by FengTouQuan episode 137.
+- [[ExperienceLedBrand]], [[AuthenticNeighborhoodExperience]], [[ImageFirstIP]], [[Sanrio]], [[TokyoDisneyResort]], and [[InboundTourismBrandDiscovery]] - Japan/Korea consumer comparison extension added by FengTouQuan episode 142.
 - [[CharlieMunger]], [[WarrenBuffett]], and [[BerkshireHathaway]] — investing frame behind the episode.
 - [[ProductLedWillingnessToPay]], [[GiftToLoyalBuyerLoop]], [[RetailShelfPlacement]], [[SubcultureLedMarketing]], and [[CPGDistribution]] — adjacent consumer-product concepts already tracked by the wiki.
 - [[InvestmentRiskManagement]] — durable moats reduce, but do not remove, the need for valuation and position discipline.

@@ -1755,3 +1755,11 @@ Added source page for a The Intelligence episode on renewed U.S.-Iran strikes, s
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-10] ingest | 142. 产品体验学日本、全球营销学韩国
+
+Added source page for a 疯投圈 episode on Japan product experience, Korea global marketing, and China's efficiency/experience tradeoff. Created pages for Kiyosumi-Shirakawa, Sanrio, Hello Kitty, Tokyo Disney Resort, Anaya, Kyoto, OLIVE YOUNG, BLACKPINK, Experience-Led Brand, Authentic Neighborhood Experience, Long-Term Place Operation, Image-First IP, Inbound Tourism Brand Discovery, and Fan Economy; updated overview, index, FengTouQuan, Japan, South Korea, China, Pop Mart, Blue Bottle Coffee, AI Resistant Experiential Consumption, Korean Culture Led Consumer Marketing, Experiential Retail, Consumer Brand Moat, Entertainment IP Flywheel, Theme Park As Media Platform, and Heritage Tourism Commercialization. No direct contradiction found; the source extends episode 137's AI-resistant experience branch by making Japan the main product-experience case and Korea the explicit global-marketing comparison.
+
+## [2026-07-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

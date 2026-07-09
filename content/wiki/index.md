@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [142. 产品体验学日本、全球营销学韩国](sources/142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1.md) — 疯投圈 episode on Japan as product-experience benchmark, Korea as global-marketing and fan-economy benchmark, and cases including Kiyosumi-Shirakawa, Tokyo Disney, Sanrio, Pop Mart, Kyoto, inbound tourism, and China's efficiency tradeoffs.
 - [He demoted his SaaS to sell a service and 4x'd revenue in 12 months](sources/he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months.md) — The SaaS Podcast episode with Farzad Rashidi on Responna's pivot from self-serve outreach SaaS to a done-for-you AI visibility service built around outcomes, publisher relationships, and GEO execution.
 - [Peace fire: further US-Iran strikes](sources/peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf.md) — The Intelligence episode on renewed U.S.-Iran strikes, stalled Hormuz traffic, Khamenei funeral hardliners, Asian filial-piety laws, and Black Route 66 travel history at the Threate Filling Station.
 - [269.真人短剧的下一战：与AI共生、工业化和好故事](sources/269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt.md) — 乱翻书 episode with Hou Chao and Li Jiajia on live-action short drama after the AI shock, industrialized production, Hongguo completion metrics, actor/story nuance, and AI-assisted workflow management.
@@ -233,6 +234,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Kiyosumi-Shirakawa / 清澄白河](entities/KiyosumiShirakawa.md) — Tokyo neighborhood used to explain authentic, low-pressure coffee and street experience through Blue Bottle's Asia first store.
+- [Sanrio / 三丽鸥](entities/Sanrio.md) — Japanese image-first IP company used as Pop Mart's licensing-led comparison case.
+- [Hello Kitty](entities/HelloKitty.md) — Sanrio character illustrating durable image-led IP, healing emotion, and compact consumer happiness.
+- [Tokyo Disney Resort / 东京迪士尼](entities/TokyoDisneyResort.md) — Theme-park case showing how long-term experience operation creates revenue in merchandise, lockers, food, shopping, and repeat visits.
+- [Anaya / 阿那亚](entities/Anaya.md) — Chinese place-operation counterexample where real resident life helps photogenic design stay closer to authentic experience.
+- [Kyoto / 京都](entities/Kyoto.md) — Japanese city used as a culturally coherent inbound-tourism benchmark and comparison point for Chinese cultural tourism.
+- [OLIVE YOUNG / 올리브영](entities/OliveYoung.md) — Korean beauty-retail example in the episode's Korea global-marketing and K-beauty preview.
+- [BLACKPINK](entities/BLACKPINK.md) — Korean entertainment example used to illustrate fan-economy and global consumer-marketing reach.
 - [Farzad Rashidi](entities/FarzadRashidi.md) — Responna co-founder explaining the SaaS-to-service pivot, customer execution gap, and AI visibility workflow.
 - [Responna](entities/Responna.md) — Outreach SaaS turned done-for-you AI visibility service using software, AI, publisher supply, and productized operations.
 - [Omer Khan](entities/OmerKhan.md) — Host of The SaaS Podcast, framing the Responna episode around service as software and outcome-priced delivery.
@@ -393,7 +402,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Shunde / 顺德](entities/Shunde.md) — Guangdong food destination used to explain documentary-amplified tourism and AI-resistant offline food experience.
 - [Zhuroupo / 猪肉婆](entities/Zhuroupo.md) — Shunde destination restaurant case where local reputation, queues, and founder image make the dining experience hard to standardize.
 - [寻味顺德](entities/XunweiShunde.md) — Food documentary treated as a content lever that amplified Shunde's national food-tourism demand.
-- [South Korea / 韩国](entities/SouthKorea.md) — Middle-power consumer-market case connecting entertainment, beauty, coffee, city districts, and cultural exports.
+- [South Korea / 韩国](entities/SouthKorea.md) — Middle-power consumer-market case connecting entertainment, beauty, coffee, city districts, cultural exports, global marketing, and fan economy.
 - [Gentle Monster](entities/GentleMonster.md) — Korean eyewear brand whose art-installation stores turn retail into a destination and media surface.
 - [Seongsu-dong / 圣水洞](entities/SeongsuDong.md) — Seoul trend district where brands compete for youth-culture positioning and high-signal retail locations.
 - [ANUA](entities/ANUA.md) — Korean beauty brand used as a TikTok-era K-Beauty global-trust example.
@@ -429,12 +438,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [SuperMonkey / 超级猩猩](entities/SuperMonkey.md) — Chinese group-fitness brand framed through pay-per-class retention, instructor-led atmosphere, and city-by-city service scaling.
 - [Lululemon](entities/Lululemon.md) — Premium athletic-apparel brand used as the comparator for On Running's shoe-to-apparel trust extension and DTC-heavy circle-brand strategy.
 - [Alo Yoga](entities/AloYoga.md) — Premium athletic-apparel brand used as a marketing-and-scarcity case where identity pull may outrun product proof.
-- [Pop Mart / 泡泡玛特](entities/PopMart.md) — Consumer-IP and collectibles company used to explain why a strong business can still be a hard stock when growth acceleration, valuation, and IP concentration change.
+- [Pop Mart / 泡泡玛特](entities/PopMart.md) — Consumer-IP and collectibles company used to explain growth, valuation, IP concentration, and the self-operated image-first IP contrast with Sanrio.
 - [Labubu](entities/Labubu.md) — Pop Mart blockbuster IP whose revenue share makes consumer-brand power and concentration risk visible at the same time.
 - [ICE](entities/ICEInvestor.md) — FengTouQuan episode 139 guest and investment educator emphasizing decompressed value-investing slogans, time horizon, catalysts, AI research limits, and self-knowledge.
 - [盛世投资研习院](entities/ShengshiInvestmentAcademy.md) — Investment-education project founded by ICE in 2023, used as context for fundamental-investing training.
 - [Luckin Coffee / 瑞幸咖啡](entities/LuckinCoffee.md) — scaled Chinese coffee-chain benchmark framed as the "one super" facing maturity, premiumization, and tea-drink crossover pressure.
-- [Blue Bottle Coffee / 蓝瓶子](entities/BlueBottleCoffee.md) — high-end store-led coffee brand used to explain premium portfolio logic and ownership fit after Nestle's sale to Centurium.
+- [Blue Bottle Coffee / 蓝瓶子](entities/BlueBottleCoffee.md) — High-end store-led coffee brand used to explain premium portfolio logic, ownership fit, and Kiyosumi-Shirakawa neighborhood experience.
 - [Boyu Capital / 博裕资本](entities/BoyuCapital.md) — investment institution tied to Starbucks China's local-control and institutional-branding logic.
 - [Centurium Capital / 大钲资本](entities/CenturiumCapital.md) — investor connected to Blue Bottle and Luckin portfolio logic in the coffee-war episode.
 - [Hillhouse Capital / 高瓴资本](entities/HillhouseCapital.md) — investment institution named in the episode's map of coffee-chain institutionalization.
@@ -777,7 +786,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [One Life](entities/OneLife.md) — RV brand or fit-out style associated with Guigui's secondhand B-type RV in EP122.
 - [Maxus V90](entities/MaxusV90.md) — Van platform used as the source's concrete B-type RV example.
 - [张一贞](entities/ZhangYizhen.md) — 面基 guest explaining A-share valuation indicators, trend rules, asset rotation, and drawdown-aware investor psychology.
-- [疯投圈](entities/FengTouQuan.md) — Podcast/show context for episodes on ice-cream category competition and DJI's drone, portable-camera, globalization, regulation, and talent-spillover strategy.
+- [疯投圈](entities/FengTouQuan.md) — Podcast/show context for episodes on consumer categories, experience consumption, Pop Mart, coffee, DJI, Japan product experience, and Korea marketing.
 - [Yeren Xiansheng](entities/YerenXiansheng.md) — Chinese store-made gelato/ice-cream chain used as the episode's core case for sampling, fresh-made positioning, and franchise expansion.
 - [Zhong Xuegao](entities/ZhongXuegao.md) — Chinese prepackaged premium ice-cream brand used as the cold-chain and high-price contrast case.
 - [Haagen-Dazs](entities/HaagenDazs.md) — Premium ice-cream incumbent used to discuss China store contraction, traffic decline, and weak fit with the current consumption environment.
@@ -801,7 +810,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mujtaba Khamenei](entities/MujtabaKhamenei.md) — Khamenei son described by the episode as supposed successor whose absence creates command uncertainty.
 - [Iran](entities/Iran.md) — Country context for U.S.-Iran diplomacy, Strait of Hormuz bargaining, Khamenei's funeral, succession uncertainty, and digital-infrastructure war risk.
 - [Strait of Hormuz](entities/StraitOfHormuz.md) — Shipping chokepoint tied to the episode's U.S.-Iran deal terms and later Iran ceasefire bargaining.
-- [Japan](entities/Japan.md) — Country context for The Intelligence sources on joint-custody reform, Takaichi Sanae's electoral mandate, and imperial succession.
+- [Japan](entities/Japan.md) — Country context for legal and political sources plus FengTouQuan's product-experience, tourism, neighborhood, theme-park, and Sanrio comparison.
 - [Route 66](entities/Route66.md) — American highway treated as a centenary symbol of migration, car culture, decommissioned infrastructure, Old West performance, and nostalgia tourism.
 - [Nicholas Palam](entities/NicholasPalam.md) — The Intelligence correspondent explaining Khamenei's funeral, Iran's religious-political authority, succession uncertainty, and ceasefire context.
 - [Moeka Iida](entities/MoekaIida.md) — The Intelligence contributor explaining Japan's post-divorce joint-custody reform and changing family norms.
@@ -1417,6 +1426,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Experience-Led Brand](concepts/ExperienceLedBrand.md) — Consumer-brand pattern where felt visit, mood, social time, ritual, and place attachment carry value beyond functional product attributes.
+- [Authentic Neighborhood Experience](concepts/AuthenticNeighborhoodExperience.md) — Place-quality frame where resident life, street texture, discovery, and commerce coexist without becoming only a check-in set.
+- [Long-Term Place Operation](concepts/LongTermPlaceOperation.md) — Capability to keep a physical destination or commercial space valuable through operations after the initial build and launch.
+- [Image-First IP](concepts/ImageFirstIP.md) — Consumer-IP pattern where visual identity and emotional association carry more value than a deep story universe.
+- [Inbound Tourism Brand Discovery](concepts/InboundTourismBrandDiscovery.md) — Route where foreign visitors discover local consumer brands in person and carry attention outward through social media and word of mouth.
+- [Fan Economy](concepts/FanEconomy.md) — Marketing system where entertainment attention, celebrity attachment, fandom behavior, and branded goods reinforce each other.
 - [AI Visibility Service](concepts/AIVisibilityService.md) — Done-for-you service model for improving whether brands appear in AI answers through cited third-party pages and publisher placements.
 - [Lookalike Publisher Outreach](concepts/LookalikePublisherOutreach.md) — GEO tactic for finding publishers similar to already cited sources rather than pitching only the exact pages AI tools cite.
 - [Publisher Relationship Moat](concepts/PublisherRelationshipMoat.md) — Defensibility from repeat publisher volume, proprietary publisher data, negotiated supply, and fulfillment quality.

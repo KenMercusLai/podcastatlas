@@ -1,9 +1,9 @@
 ---
 title: "Japan"
 type: entity
-tags: [country, politics, law, society]
-sources: [missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]
-last_updated: 2026-07-09
+tags: [country, politics, law, society, consumer, tourism]
+sources: [missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
+last_updated: 2026-07-10
 ---
 
 # Japan
@@ -16,6 +16,8 @@ Japan also appears in [[snap-judgement-japan-pms-electoral-landslide-6989c0fc61b
 
 [[peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]] adds Japan as a comparison case in Asian elder-care law. The episode groups Japan with [[SouthKorea]] and [[India]] as countries with protections against elder abuse, including financial exploitation, while the broader segment links ageing to [[FilialPietyLaws]] and [[ElderCareStateCapacity]].
 
+[[142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]] adds Japan as a consumer-experience benchmark. [[FengTouQuan]] uses [[KiyosumiShirakawa]], [[BlueBottleCoffee]], [[Kyoto]], [[TokyoDisneyResort]], and [[Sanrio]] to describe Japan as slower, more healing, less aggressively marketed, and stronger at [[ExperienceLedBrand]], [[AuthenticNeighborhoodExperience]], and [[LongTermPlaceOperation]] than China-style high-efficiency consumer infrastructure.
+
 ## Connections
 - [[JointCustodyReform]] - family-law change from the newer source.
 - [[CleanBreakDivorceModel]] - social norm the custody reform challenges.
@@ -24,4 +26,6 @@ Japan also appears in [[snap-judgement-japan-pms-electoral-landslide-6989c0fc61b
 - [[PrincessAiko]], [[EmperorNaruhito]], [[PrinceHisahito]], and [[JapaneseImperialFamily]] - imperial succession cluster.
 - [[JapaneseImperialSuccession]] - inheritance-rule and reform problem.
 - [[FilialPietyLaws]] and [[ElderCareStateCapacity]] - elder-care comparison branch added by the Peace fire episode.
+- [[KiyosumiShirakawa]], [[Kyoto]], [[TokyoDisneyResort]], and [[Sanrio]] - consumer-experience and tourism branch added by FengTouQuan episode 142.
+- [[ExperienceLedBrand]], [[AuthenticNeighborhoodExperience]], [[LongTermPlaceOperation]], and [[ImageFirstIP]] - Japan-side concepts added by the consumer comparison source.
 - [[TheIntelligence]] - source podcast context.
