@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [为什么硅谷开始重新定义「AI 记忆」｜ S10E20](sources/weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3.md) — What's Next｜科技早知道 episode with Kang Hongwen of Clipto AI on local-first personal memory, multimodal archives, data-to-memory transformation, edge/cloud boundaries, and why AI assistants need more than cloud model intelligence.
 - [Marine warfare: Le Pen runs for president](sources/marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c.md) — The Intelligence episode on Marine Le Pen's cleared 2027 run, National Rally succession tension, captive-whale sanctuary experiments in Iceland, and Route 66 roadside advertising culture.
 - [当黑客攻破了日本的国民啤酒，除了鞠躬道歉，他们还能做什么？feat.Top of Japan](sources/dang-heike-gongpo-le-riben-de-guomin-pijiu-chule-jugong-daoqian-tamen-hai-neng-zuo-shenme-feat-top-of-japan-keji-luandun.md) — 科技乱炖 crossover with Top of Japan on Asahi's ransomware incident, Super Dry shortages, ERP and logistics disruption, offline backups, ransom refusal, and risk-tiered personal security.
 - [167: 洋葱学园杨临风：用AI制造捷径，是在杀死真学习](sources/167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1.md) — LateTalk episode with Yang Lingfeng of Yangcong Xueyuan on self-directed learning, AI tutoring, learning experience design, rural education access, and the risk that AI-created shortcuts weaken real understanding.
@@ -226,6 +227,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Clipto AI](entities/CliptoAI.md) — Local-first multimodal memory product positioned as a personal memory layer for private files, recordings, videos, and agent context.
+- [康宏文 Henry](entities/KangHongwen.md) — Clipto AI founder and CEO arguing that personal AI memory should be separate from cloud model world knowledge.
+- [Mem0](entities/Mem0.md) — Memory-layer startup used in S10E20 as a cloud-oriented comparison and market-validation signal.
+- [NotebookLM](entities/NotebookLM.md) — Google AI research/document tool used as a comparison point for Clipto's multimodal local memory ambitions.
 - [France](entities/France.md) — National setting for the April 2027 presidential race, Le Pen's renewed candidacy, and the two-round electoral uncertainty.
 - [Marine Le Pen](entities/MarineLePen.md) — National Rally leader whose appeal ruling is framed as clearing her practical path to the 2027 French presidential election.
 - [National Rally](entities/NationalRally.md) — French populist-right party shaped by Le Pen's candidacy, Bardella's successor role, and the normalization problem.
@@ -1360,6 +1365,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Local-First Memory Layer](concepts/LocalFirstMemoryLayer.md) — Architecture for keeping personal AI memory near private files while using cloud models selectively for general intelligence and fallback compute.
+- [Multimodal Personal Memory](concepts/MultimodalPersonalMemory.md) — Memory pattern that turns audio, video, images, OCR, faces, and documents into retrievable personal context.
+- [Data-to-Memory Transformation](concepts/DataToMemoryTransformation.md) — Process of converting stored files into structured, searchable, reusable, and agent-actionable memory.
+- [On-Device Memory Scheduling](concepts/OnDeviceMemoryScheduling.md) — Edge-AI systems problem of running memory indexing, retrieval, and summarization around real device resources and user workloads.
 - [Far-Right Normalization](concepts/FarRightNormalization.md) — Project of making a party with extremist associations electorally acceptable through image, policy, legitimacy, and broader voter appeal.
 - [Electoral Ineligibility Penalty](concepts/ElectoralIneligibilityPenalty.md) — Legal restriction on standing for office that can reshape campaign legitimacy and party succession planning.
 - [Two-Round Presidential Election](concepts/TwoRoundPresidentialElection.md) — Electoral system where a first-round lead must still survive a broader runoff electorate.

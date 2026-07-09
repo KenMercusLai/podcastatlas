@@ -24,6 +24,8 @@ AI plus terminals is [[YinQi]]'s commercialization thesis in [[131-yin-qi-churen
 
 [[268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]] adds the mobile-workbench version through [[Vivo]]'s [[XFold6]]. The episode argues that phones may beat narrower AI devices not only by being always carried, but by holding enough context, files, meeting records, app relationships, and screen space to become a [[MobileAIWorkstation]].
 
+[[weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3]] adds the personal-computing memory version. The source treats improved local AI hardware as a condition for a [[LocalFirstMemoryLayer]]: PCs and endpoints matter because they sit next to private files, external drives, media archives, and daily work context that users may not want to upload wholesale.
+
 ## Key Claims
 - Pure 2B and pure software 2C are treated as difficult standalone paths for foundation-model companies because model investment is large and business or data loops may be insufficient.
 - Hardware, software, and models may become a three-part system as more agents gain device or physical carriers.
@@ -37,6 +39,7 @@ AI plus terminals is [[YinQi]]'s commercialization thesis in [[131-yin-qi-churen
 - A consumer-electronics company can invert the terminal thesis: it may not own the largest cloud model, but it can own local sensors, device organs, product scenes, and user trust where smaller models create visible value.
 - Smartphones may remain the default AI terminal not because they are the most futuristic form factor, but because they are already portable, information-rich, sensor-rich, and service-connected enough to coordinate other AI devices.
 - A phone terminal can absorb some standalone AI hardware use cases when recording, transcription, summarization, and file organization depend more on existing personal context than on a new form factor.
+- PCs and local endpoints can become memory terminals when they combine private data access, enough compute, and [[OnDeviceMemoryScheduling]] for large multimodal archives.
 
 ## Connections
 - [[YinQi]], [[StepFun]], and [[QianliTechnology]] — source speaker and company pair behind the thesis.
@@ -51,3 +54,4 @@ AI plus terminals is [[YinQi]]'s commercialization thesis in [[131-yin-qi-churen
 - [[AnkerInnovations]], [[YangMeng]], [[OnDeviceModelHierarchy]], [[InMemoryComputingForEdgeAI]], [[TrueSmartHome]], and [[HouseholdSecurityRobots]] — consumer-electronics and edge-AI route added by episode 144.
 - [[Vivo]], [[MediaTek]], [[SmartphoneAIHub]], [[OnDeviceAI]], [[HandsetChipCoDesign]], [[FoldablePhoneProductivity]], and [[EdgeCloudAIBoundary]] — smartphone-terminal route added by S10E17.
 - [[XFold6]], [[MobileAIWorkstation]], [[AIFileManagement]], and [[LuoXuan]] — mobile workbench and AI-hardware comparison added by Luanfanshu 268.
+- [[CliptoAI]], [[LocalFirstMemoryLayer]], and [[OnDeviceMemoryScheduling]] — PC-side personal memory branch added by S10E20.

@@ -14,6 +14,8 @@ Context engineering is the practice of accumulating, organizing, and refining th
 
 [[xiangliang-moxing-gongchengshi-ai-de-yincang-pingjing-yu-xinshidai-de-xinxi-migong-4b6cf945-d64a-4dd0-95a7-cb8f11963698]] adds the retrieval and RAG version. [[NStudent]] argues that useful context is not produced by dumping documents into a model: source quality, [[DocumentChunking]], [[VectorModelEngineering]], [[SemanticSearchRelevance]], [[RerankingModels]], and evaluation decide whether a system can find the right evidence before generation begins.
 
+[[weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3]] adds the local personal-memory version. [[KangHongwen]] argues that context engineering for personal assistants starts before retrieval: local videos, recordings, images, and files must be understood and converted into reusable memory through [[DataToMemoryTransformation]], otherwise even large context windows or RAG only operate over poorly shaped material.
+
 [[ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1]] adds a logging and observability version. The hosts argue that AI debugging improves when the user has asked the system to emit detailed logs, preserve test results, and document old-code behavior; without those traces, AI has too little context to diagnose logic errors that still compile and run.
 
 [[openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6]] adds the [[AirJelly]] version: context engineering is not only stuffing more material into a model, but deciding when context has enough signal to save. [[IntentContext]], event/entity extraction, memory merging, time decay, retrieval, and local privacy boundaries become product decisions for turning everyday computer activity into agent-usable context.
@@ -48,6 +50,7 @@ Context engineering is the practice of accumulating, organizing, and refining th
 - [[ClaudeCode]] shows context as a harness asset when the system decides which tool outputs to discard, what to summarize, and what the next agent must receive.
 - [[GeminiCLI]] and [[Cursor]] show context as a coding-product choice between direct long-context loading and engineered retrieval/indexing.
 - The Fuyou Tiandi vector-model episode shows context as retrieval engineering: chunks, vectors, relevance labels, hard negatives, and reranking determine which source text reaches the model.
+- S10E20 shows context as memory engineering: multimodal personal archives need structure, timestamps, entity labels, and source-grounded recall before they become useful agent context.
 - [[ShengpaiNotice]] shows context as product/workflow knowledge made explicit enough for AI to implement a usable internal tool.
 - Detailed logs, tests, screenshots, and documentation become context assets for future AI debugging and refactoring.
 - AirJelly shows that the trigger for collecting context can be as important as the context itself; Enter-triggered capture tries to reduce random browsing noise.
@@ -72,6 +75,7 @@ Context engineering is the practice of accumulating, organizing, and refining th
 - [[AgentHarness]] and [[KComputer]] — execution environment and context layer that agents use to continue work across tools and sessions.
 - [[VibeCoding]], [[GeminiCLI]], and [[AICodingVerification]] — coding-context case added by EP108.
 - [[RetrievalAugmentedGeneration]], [[DocumentChunking]], [[VectorModelEngineering]], and [[AISearchEvaluation]] — retrieval-context case added by the Fuyou Tiandi vector-model episode.
+- [[CliptoAI]], [[LocalFirstMemoryLayer]], [[MultimodalPersonalMemory]], and [[DataToMemoryTransformation]] — local personal-memory context case added by S10E20.
 - [[AIEngineeringThinking]], [[ShengpaiNotice]], and [[WangDafu]] — logging, workflow, and operations-context case added by the Keji Luandun episode.
 - [[AirJelly]], [[IntentContext]], [[OSLevelContext]], and [[PersistentAgentMemory]] — personal-agent context capture and memory case added by the AirJelly episode.
 - [[Moxt]], [[AINativeWorkspace]], [[OrganizationalContext]], and [[AICoworkers]] — organization-level context case added by the Moxt episode.

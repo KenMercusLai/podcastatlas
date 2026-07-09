@@ -2,7 +2,7 @@
 title: "AI Data Memory Infrastructure"
 type: concept
 tags: [ai, data, memory, infrastructure, agents]
-sources: [guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5]
+sources: [guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5, weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3]
 last_updated: 2026-07-09
 ---
 
@@ -12,6 +12,8 @@ AI data memory infrastructure is the agent-era opportunity [[Dongxu]] identifies
 
 The source connects this to [[PingCAP]] and [[TiDB]] by suggesting that future database users may include agents, not only programmers and DBAs. MCP-like tool interaction and A2A-style agent interaction may define part of the interface, but Dongxu says a general memory-sharing layer has not yet become standardized. That leaves room for small companies or infrastructure projects to create open standards if they are open enough, useful enough, and adopted broadly enough.
 
+[[weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3]] adds the personal and local-first version through [[CliptoAI]]. [[KangHongwen]] argues that large models can hold public world knowledge, while private files, recordings, and personal history need a separate [[LocalFirstMemoryLayer]] that performs [[DataToMemoryTransformation]] before agents can reuse the material.
+
 ## Key Claims
 - Enterprise AI depends on company data and industry know-how because LLMs bring general knowledge but not the specific context that makes business action valuable.
 - Database access may shift from human-written queries toward agent-mediated retrieval, analysis, and action.
@@ -19,6 +21,7 @@ The source connects this to [[PingCAP]] and [[TiDB]] by suggesting that future d
 - Agent memory is not only a consumer-assistant feature; it can become a shared infrastructure layer for enterprise systems.
 - Enterprise software may be decomposed into smaller capabilities that LLM agents assemble around data, permissions, and task context.
 - Open standards can emerge from small companies when usefulness, openness, and network effects align.
+- Personal memory infrastructure may need to sit outside model weights so that private material remains precise, portable, and governed by the user.
 
 ## Connections
 - [[PingCAP]], [[TiDB]], and [[Dongxu]] — source company, database, and speaker.
@@ -26,3 +29,4 @@ The source connects this to [[PingCAP]] and [[TiDB]] by suggesting that future d
 - [[AgentFacingInterfaces]] — product requirement when databases and enterprise systems become callable by agents.
 - [[PersistentAgentMemory]] — memory concept extended from personal agents into data infrastructure.
 - [[AgenticSoftware]] and [[AtomicCapabilityServices]] — software-decomposition frame the source reinforces.
+- [[CliptoAI]], [[LocalFirstMemoryLayer]], and [[MultimodalPersonalMemory]] — personal memory infrastructure case added by S10E20.

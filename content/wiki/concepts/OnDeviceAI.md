@@ -2,7 +2,7 @@
 title: "On-Device AI"
 type: concept
 tags: [ai, edge-ai, smartphones, systems]
-sources: [ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]
+sources: [ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3]
 last_updated: 2026-07-09
 ---
 
@@ -14,6 +14,8 @@ On-Device AI is the implementation frame in [[ai-shidai-de-chaoji-rukou-haishi-s
 
 [[268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]] adds the user-context and workbench version. Local AI becomes a stronger upgrade reason when it can handle privacy-sensitive files, meeting records, screenshots, habits, and assistant memory on the device instead of functioning only as a cloud-chat shortcut.
 
+[[weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3]] adds the PC-memory version through [[CliptoAI]]. The source argues that local AI must process private multimodal archives and schedule indexing, retrieval, summarization, and model tasks around the user's active workload, making [[OnDeviceMemoryScheduling]] part of the on-device AI stack.
+
 ## Key Claims
 - The terminal needs enough AI compute before applications are fully known because smartphone chips are planned years ahead.
 - NPU hardware behaves more like specialized acceleration than a general computer, so model vendors and handset makers need middleware and adaptation layers to run models efficiently.
@@ -22,6 +24,7 @@ On-Device AI is the implementation frame in [[ai-shidai-de-chaoji-rukou-haishi-s
 - Useful local tasks include speech transcription, role-separated meeting notes, file grouping and analysis, preference learning, recognition, memory, and simpler image enhancement.
 - Heavy long-context understanding, complex generation, and advanced image/video effects may remain cloud-heavy until terminal hardware and models improve.
 - Local AI can differentiate new phones when it supports [[AIFileManagement]], meeting assistants, and low-latency context understanding that a generic cloud app cannot fully own.
+- Local AI memory is harder than a local chatbot because it must continuously transform private files into usable context without disrupting foreground work.
 
 ## Connections
 - [[Vivo]], [[HanBoxiao]], [[MediaTek]], [[ChenYiqiang]], and [[Dimensity9500]] — source actors and platform case.
@@ -31,3 +34,4 @@ On-Device AI is the implementation frame in [[ai-shidai-de-chaoji-rukou-haishi-s
 - [[SmartphoneAIHub]] and [[FoldablePhoneProductivity]] — product surfaces where on-device AI becomes visible.
 - [[MobileAIWorkstation]] and [[AIFileManagement]] — workbench and personal-file contexts added by Luanfanshu 268.
 - [[OSLevelContext]], [[ContextEngineering]], and [[AgentPermissionBoundaries]] — adjacent context, privacy, and permission issues once local devices sense and remember more.
+- [[CliptoAI]], [[LocalFirstMemoryLayer]], and [[OnDeviceMemoryScheduling]] — PC-side personal-memory branch added by S10E20.

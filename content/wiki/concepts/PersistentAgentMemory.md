@@ -40,6 +40,8 @@ Persistent agent memory is the durable user model that [[Paperboy]] wants to bui
 
 [[268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]] adds a phone-first memory case. The source argues that the phone's photos, files, meetings, screenshots, chat attachments, habits, and daily presence make it a natural place for personal agent memory, especially when [[AIFileManagement]] turns scattered content into task context for a [[MobileAIWorkstation]].
 
+[[weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3]] adds the local multimodal archive case through [[CliptoAI]]. [[KangHongwen]] argues that agent memory should not be reduced to chat history, user profiles, or model parameters; it also needs [[DataToMemoryTransformation]] over local audio, video, images, documents, and long-term work archives so agents can retrieve exact older events and source material.
+
 ## Key Claims
 - Memory should preserve useful chat, work, meeting, code, message, and browsing context even after an individual session ends.
 - More persistent memory can reduce explicit prompting because the agent already knows the user's taste, work history, and current activity.
@@ -62,6 +64,7 @@ Persistent agent memory is the durable user model that [[Paperboy]] wants to bui
 - Shared memory may become an infrastructure layer when multiple agents or enterprise systems need durable, governed access to the same context.
 - Personal memory can become reflective when it tracks changes in the user's cognition, conflicts, principles, and accepted or rejected outputs, not only facts.
 - Phone-side memory can begin as practical file, meeting, and task context rather than a separate memory product; the value appears when agents can recall the right material at the right work moment.
+- Local-first memory can begin with private archives on PCs and external drives, where the hard problem is turning multimodal data into precise, source-grounded recall rather than making the model generally more personalized.
 
 ## Connections
 - [[ContextEngineering]] — broader discipline for making context durable and useful.
@@ -83,3 +86,4 @@ Persistent agent memory is the durable user model that [[Paperboy]] wants to bui
 - [[AIDataMemoryInfrastructure]], [[PingCAP]], and [[TiDB]] — database and enterprise-memory infrastructure extension added by the PingCAP source.
 - [[LiJigang]], [[PersonalKnowledgeEcology]], [[PromptAsIntentTransmission]], and [[AMVPromptFramework]] — E45's Memory/Soul and second-brain extension.
 - [[MobileAIWorkstation]], [[AIFileManagement]], and [[SmartphoneAIHub]] — phone-side memory branch added by Luanfanshu 268.
+- [[CliptoAI]], [[LocalFirstMemoryLayer]], [[MultimodalPersonalMemory]], and [[DataToMemoryTransformation]] — local archive memory branch added by S10E20.

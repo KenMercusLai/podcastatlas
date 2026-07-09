@@ -2,7 +2,7 @@
 title: "AI File Management"
 type: concept
 tags: [ai, knowledge-management, context, productivity]
-sources: [268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]
+sources: [268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3]
 last_updated: 2026-07-09
 ---
 
@@ -12,6 +12,8 @@ AI file management is the source's view that phones should help users understand
 
 The point is not only file search. The file manager becomes a context layer for [[MobileAIWorkstation]]: it names and clusters material by scene, connects files to meetings or trips, answers questions over prior documents, summarizes role-separated meeting records, and makes scattered phone data available to the user's agents.
 
+[[weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3]] adds the PC and creator-archive version through [[CliptoAI]]. Here file management becomes [[MultimodalPersonalMemory]]: local videos, audio recordings, photos, documents, and external-drive archives must be understood and indexed before users can ask for a person, claim, scene, or timestamp.
+
 ## Key Claims
 - AI file management shifts file organization from user-authored folder structure toward AI-inferred scene, task, and intent structure.
 - The source treats understanding as more important than generation: the system should identify what a document, screenshot, recording, or itinerary is for before drafting new output.
@@ -20,6 +22,7 @@ The point is not only file search. The file manager becomes a context layer for 
 - It overlaps with [[PersonalKnowledgeEcology]] when collected materials feed future thinking rather than remain inert storage.
 - Privacy and boundary design matter because the same context that improves task help may expose sensitive personal, work, or relationship information.
 - [[OnDeviceAI]] and the [[EdgeCloudAIBoundary]] shape which recognition, clustering, and sensitive-memory work should stay local versus move to cloud models.
+- Large local archives show why file management has to move beyond folders: AI needs to transform media into retrievable people, events, objects, topics, and usable agent context.
 
 ## Connections
 - [[MobileAIWorkstation]] — phone workbench pattern that needs usable files and context.
@@ -27,3 +30,4 @@ The point is not only file search. The file manager becomes a context layer for 
 - [[PersonalKnowledgeEcology]] and [[AIDataMemoryInfrastructure]] — personal and infrastructure-level views of durable knowledge.
 - [[TaskAsAService]] — file management becomes part of completing tasks rather than simply browsing storage.
 - [[Vivo]] and [[XFold6]] — source product context for AI file manager examples.
+- [[CliptoAI]], [[DataToMemoryTransformation]], and [[LocalFirstMemoryLayer]] — local archive and memory extension added by S10E20.

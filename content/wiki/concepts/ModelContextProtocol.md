@@ -6,6 +6,7 @@ sources:
   - e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf
   - dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian
   - guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5
+  - weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3
 last_updated: 2026-07-09
 ---
 
@@ -19,6 +20,8 @@ The episode's metaphor is that MCP is a USB Type-C-like connector for the AI wor
 
 [[guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5]] adds the database-infrastructure version. [[Dongxu]] treats MCP as part of the emerging interaction layer between agents and tools, while noting that agent-to-agent interaction and a general shared-memory layer remain unsettled. For [[PingCAP]] and [[TiDB]], the implication is that databases may need to serve agents as users, not only human developers and DBAs.
 
+[[weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3]] adds a personal-memory version. [[KangHongwen]] describes memory as something that should be accessible to other agents through interfaces such as MCP or APIs, but the episode keeps the connector separate from the memory layer itself: the hard part is still importing, understanding, structuring, and governing the memory.
+
 ## Key Claims
 - Agent ecosystems need a connector layer because useful work often sits across external services rather than inside the chat window.
 - Standardized connectors can reduce integration friction for [[AgenticWorkflow]] and [[HeadlessSoftware]].
@@ -28,6 +31,7 @@ The episode's metaphor is that MCP is a USB Type-C-like connector for the AI wor
 - Platform incentives decide openness: a weaker platform may expose capabilities to gain agent traffic, while a stronger platform may resist because the AI entry point can take recommendation power and user attention.
 - Database and enterprise-data systems may become direct MCP-like tool surfaces as agents need governed access to company context and records.
 - MCP does not solve the whole memory problem; a durable shared-memory layer may need separate standards, permissions, and data governance.
+- MCP can expose memory to agents, but it does not perform [[DataToMemoryTransformation]] by itself.
 
 ## Connections
 - [[Anthropic]] and [[ClaudeCode]] — source company and agent-product context.
@@ -37,3 +41,4 @@ The episode's metaphor is that MCP is a USB Type-C-like connector for the AI wor
 - [[AgentPermissionBoundaries]] and [[AICodingVerification]] — safety and correctness constraints around tool access.
 - [[AIAssistantServiceEntry]], [[AgenticCommerce]], [[Meituan]], [[Doubao]], and [[Yuanbao]] — service-entry and local-commerce scenario added by Keji Luandun.
 - [[AIDataMemoryInfrastructure]], [[PingCAP]], and [[TiDB]] — database and enterprise-context extension added by the PingCAP source.
+- [[LocalFirstMemoryLayer]], [[CliptoAI]], and [[DataToMemoryTransformation]] — personal-memory connector case added by S10E20.
