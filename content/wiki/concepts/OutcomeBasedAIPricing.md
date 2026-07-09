@@ -2,7 +2,7 @@
 title: "Outcome-Based AI Pricing"
 type: concept
 tags: [ai, pricing, enterprise-ai]
-sources: [google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde]
+sources: [google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months]
 last_updated: 2026-07-09
 ---
 
@@ -20,6 +20,8 @@ Outcome-based AI pricing is the commercial pattern where AI work is sold around 
 
 [[google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6]] adds the startup-positioning version. Reno's interview argues that customers do not want to buy generic agent tooling; they want business outcomes supported by a customer data flywheel and industry know-how.
 
+[[he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months]] adds [[Responna]]'s AI visibility case. A buyer who negotiated down an $800 monthly SaaS subscription became willing to pay thousands per month when the offer shifted to delivered mentions and visibility outcomes.
+
 ## Key Claims
 - The source gives three pricing patterns: charge against standard-employee-equivalent output, charge by work volume or hours, or charge a service fee based on transaction scale.
 - Outcome pricing lowers the buyer's upfront risk because the customer can stop if results are poor rather than absorbing a large custom-project sunk cost.
@@ -31,6 +33,7 @@ Outcome-based AI pricing is the commercial pattern where AI work is sold around 
 - Episode 141 adds that outcome pricing can be a response to [[TokenMaxxing]]: customers care about solved work, not maximum token generation.
 - E240 adds that PE and asset-management buyers may prefer outcome language because they already pay for completed analysis, operations, or value-creation programs rather than only software seats.
 - The Google Cloud Next source adds that outcome pricing can become a defense against hyperscalers moving upward into generic platform and workflow layers.
+- Responna adds that outcome pricing can reveal budget that was invisible when the product was framed as software access.
 
 ## Connections
 - [[BairongIntelligence]] and [[ZhangShaofeng]] — source company and speaker.
@@ -43,3 +46,4 @@ Outcome-based AI pricing is the commercial pattern where AI work is sold around 
 - [[TokenMaxxing]] and [[AIInferenceCostStructure]] — usage-based AI economics that make outcome pricing attractive where results are measurable.
 - [[Cresta]], [[InvisibleTechnologies]], [[AIWorkflowTriage]], and [[PrivateEquityAITransformation]] — E240's measurable deployment and PE workflow extension.
 - [[ServiceAsSoftware]], [[AIApplicationLayerMoat]], and [[FullStackAIPlatform]] — Google Cloud Next's large-platform-versus-startup commercialization frame.
+- [[Responna]], [[AIVisibilityService]], and [[ResultAsAService]] — Responna's done-for-you visibility pricing case.

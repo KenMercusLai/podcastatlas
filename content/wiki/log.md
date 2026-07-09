@@ -1424,6 +1424,10 @@ Added source page for a The Intelligence episode on Brexit's cumulative economic
 
 1834 nodes analyzed.
 
+## [2026-07-09] ingest | He demoted his SaaS to sell a service and 4x'd revenue in 12 months
+
+Added source page for a The SaaS Podcast episode with Farzad Rashidi on Responna's pivot from self-serve outreach SaaS into a done-for-you AI visibility service. Created pages for Responna, Farzad Rashidi, Omer Khan, Visme, AI Visibility Service, Lookalike Publisher Outreach, and Publisher Relationship Moat; updated overview, index, The SaaS Podcast, Generative Engine Optimization, AI Discovery SEO, AI Search Analytics, Service As Software, Service Productization, Result As A Service, Outcome-Based AI Pricing, Product Led Willingness To Pay, and Customer Pull. No direct contradiction found; the source reinforces service-as-software and result-as-a-service themes while adding a specific off-page GEO execution model built around publisher relationships and fresh third-party content.
+
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -1747,3 +1751,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-09] ingest | Peace fire: further US-Iran strikes
 
 Added source page for a The Intelligence episode on renewed U.S.-Iran strikes, stalled Strait of Hormuz traffic, Khamenei funeral hardliners, Asian filial-piety elder-care laws, and the Threate Filling Station as Black Route 66 travel history. Created pages for Nicholas Pelham, Farah Chia, Filial Piety Laws, Elder Care State Capacity, Black Travel Infrastructure, The Green Book, Threate Filling Station, Edward Threate, Luther Oklahoma, Telangana, India, Singapore, Malaysia, and the Philippines; updated overview, index, The Intelligence, Economist Podcasts, Iran, U.S.-Iran Nuclear Diplomacy, Strait of Hormuz, Ali Khamenei, Political Funeral, Autocratic Succession, Gulf Cooperation Council, Gulf Stability Risk, Bahrain, Donald Trump, United States, Route 66, Route 66 Nostalgia Tourism, John Fasman, Japan, China, and South Korea. No substantive contradiction found; the source chronologically updates the earlier ceasefire story by saying the ceasefire later collapsed. Source-local naming note: this episode says Nicholas Pelham, while the prior Khamenei-funeral source used Nicholas Palam.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

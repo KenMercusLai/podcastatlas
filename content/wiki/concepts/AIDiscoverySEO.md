@@ -2,8 +2,8 @@
 title: "AI Discovery SEO"
 type: concept
 tags: [ai, seo, distribution]
-sources: [bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1]
-last_updated: 2026-07-07
+sources: [bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months]
+last_updated: 2026-07-09
 ---
 
 # AI Discovery SEO
@@ -16,6 +16,8 @@ AI discovery SEO is the idea that products still need strong public web presence
 
 [[vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1]] adds the trust-risk version. The hosts note that AI search can replace a user's habit of opening many pages and cross-checking claims, which makes the sources retrieved or trusted by answer engines more strategically important. They also discuss AISO-like behavior where people test which platforms and content patterns can influence AI answers.
 
+[[he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months]] adds [[Responna]]'s off-page execution case. The episode argues that AI discovery can depend on whether third-party listicles, reviews, comparisons, and publisher pages mention a brand, so the work can include citation research, [[LookalikePublisherOutreach]], fresh content, and [[PublisherRelationshipMoat]] rather than only owned-site SEO.
+
 ## Key Claims
 - AI discovery does not remove the importance of public web signals; it may make those signals matter in new interfaces.
 - SEO captures users who already show intent, making it a reusable channel inside [[DistributionLedProductBuilding]].
@@ -26,6 +28,7 @@ AI discovery SEO is the idea that products still need strong public web presence
 - CPG brands may need to make product evidence machine-readable and reusable so AI answers can connect the brand to its category, claims, and third-party proof.
 - AI discovery can be polluted when actors optimize for model trust rather than human usefulness, so distribution strategy and verification risk are linked.
 - Products and publishers need to understand whether their audience is finding them through classic search results, AI synthesized answers, or the sources behind those answers.
+- Off-page AI discovery can become a supply problem: brands may need credible third-party publishers to describe and recommend them.
 
 ## Connections
 - [[Outrank]] - product example.
@@ -37,3 +40,4 @@ AI discovery SEO is the idea that products still need strong public web presence
 - [[AppStoreOptimization]] - closed-marketplace counterpart for mobile apps.
 - [[HealthyBaby]], [[FreitBarefoot]], and [[ProofPointReuse]] - consumer-products case where discovery depends on public proof and clear category language.
 - [[GenerativeEngineOptimization]], [[AIContentDevaluation]], and [[HumanJudgmentUnderAI]] - Vol. 160's AI-search optimization and verification-risk layer.
+- [[Responna]], [[AIVisibilityService]], [[LookalikePublisherOutreach]], and [[PublisherRelationshipMoat]] - off-page AI visibility branch.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [He demoted his SaaS to sell a service and 4x'd revenue in 12 months](sources/he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months.md) — The SaaS Podcast episode with Farzad Rashidi on Responna's pivot from self-serve outreach SaaS to a done-for-you AI visibility service built around outcomes, publisher relationships, and GEO execution.
 - [Peace fire: further US-Iran strikes](sources/peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf.md) — The Intelligence episode on renewed U.S.-Iran strikes, stalled Hormuz traffic, Khamenei funeral hardliners, Asian filial-piety laws, and Black Route 66 travel history at the Threate Filling Station.
 - [269.真人短剧的下一战：与AI共生、工业化和好故事](sources/269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt.md) — 乱翻书 episode with Hou Chao and Li Jiajia on live-action short drama after the AI shock, industrialized production, Hongguo completion metrics, actor/story nuance, and AI-assisted workflow management.
 - [Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)](sources/advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e.md) — How I Built This Advice Line episode with Jeni Britton on Jesse and Ben's fries, Jaju Pierogi, Ube.co, retail sampling, CPG messaging, category incrementality, founder control, and stage-appropriate communications.
@@ -232,6 +233,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Farzad Rashidi](entities/FarzadRashidi.md) — Responna co-founder explaining the SaaS-to-service pivot, customer execution gap, and AI visibility workflow.
+- [Responna](entities/Responna.md) — Outreach SaaS turned done-for-you AI visibility service using software, AI, publisher supply, and productized operations.
+- [Omer Khan](entities/OmerKhan.md) — Host of The SaaS Podcast, framing the Responna episode around service as software and outcome-priced delivery.
+- [Visme](entities/Visme.md) — Company where Responna began as an internal SEO and outreach tool before becoming a standalone product.
 - [Jeni Britton](entities/JeniBritton.md) — Founder of Jeni's Splendid Ice Creams and Advice Line guest connecting product quality, customer language, and founder control.
 - [Jeni's Splendid Ice Creams](entities/JenisSplendidIceCreams.md) — Ice cream company founded by Jeni Britton, used as operating backdrop for CPG advice.
 - [Flora](entities/Flora.md) — Fiber company turning produce trimmings into microbiome-oriented bars in Britton's post-ice-cream food-health frame.
@@ -1412,6 +1417,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Visibility Service](concepts/AIVisibilityService.md) — Done-for-you service model for improving whether brands appear in AI answers through cited third-party pages and publisher placements.
+- [Lookalike Publisher Outreach](concepts/LookalikePublisherOutreach.md) — GEO tactic for finding publishers similar to already cited sources rather than pitching only the exact pages AI tools cite.
+- [Publisher Relationship Moat](concepts/PublisherRelationshipMoat.md) — Defensibility from repeat publisher volume, proprietary publisher data, negotiated supply, and fulfillment quality.
 - [Filial Piety Laws](concepts/FilialPietyLaws.md) — Legal rules that make adult children financially or legally responsible for ageing parents, used by the episode to analyze Asian elder-care pressure.
 - [Elder Care State Capacity](concepts/ElderCareStateCapacity.md) — Ability of welfare, care institutions, families, and markets to support ageing populations beyond punitive family-duty laws.
 - [Black Travel Infrastructure](concepts/BlackTravelInfrastructure.md) — Businesses, guides, routes, and safety knowledge that made Black travel possible under segregation.
