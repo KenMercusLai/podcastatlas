@@ -2,7 +2,7 @@
 title: "South Korea / 韩国"
 type: entity
 tags: [country, consumer, culture, technology, asia]
-sources: [137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]
+sources: [137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]
 last_updated: 2026-07-09
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-09
 South Korea is the middle-power consumer-market case in [[137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]]. The hosts use Korea to ask why a country with roughly 50 million people can have outsized global influence in entertainment, beauty, fashion, coffee, and city retail.
 
 The source connects Korea's consumer power to [[KoreanCultureLedConsumerMarketing]]. Korean celebrities, store design, medical-aesthetic trust, TikTok beauty brands, [[SeongsuDong]] street culture, and high-pressure coffee habits all become ways that the country converts cultural influence into consumer-brand demand.
+
+[[peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]] adds South Korea as an elder-care law comparison case. The episode groups it with [[India]] and [[Japan]] as countries with legal protections against elder abuse, including financial exploitation, inside a broader [[FilialPietyLaws]] and [[ElderCareStateCapacity]] segment.
 
 ## Source Position
 - Korea is treated as a possible third-country beneficiary in a China-U.S. competition context because it has distinct strengths, moderate scale, and global cultural reach.
@@ -21,3 +23,4 @@ The source connects Korea's consumer power to [[KoreanCultureLedConsumerMarketin
 - [[Samsung]] - technology strength referenced in the episode.
 - [[GentleMonster]], [[KBeautyGlobalTrust]], [[SeongsuDong]], [[GongCha]], [[MannerCoffee]], and [[Sandunban]] - consumer cases connected to Korea.
 - [[KoreanCultureLedConsumerMarketing]], [[AIResistantExperientialConsumption]], and [[ConsumerBrandMoat]] - main wiki concepts extended through the Korea observations.
+- [[FilialPietyLaws]] and [[ElderCareStateCapacity]] - elder-care law comparison branch added by The Intelligence.

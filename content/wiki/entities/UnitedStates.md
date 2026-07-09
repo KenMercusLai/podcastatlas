@@ -2,7 +2,7 @@
 title: "United States"
 type: entity
 tags: [country, politics, culture, sports, geopolitics]
-sources: [marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c, trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7, trailer-tocqueville-road-trip-6a315920101389aa3d42d134, trailer-tocqueville-road-trip-6a315813780d0f7579afb892, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]
+sources: [marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c, trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7, trailer-tocqueville-road-trip-6a315920101389aa3d42d134, trailer-tocqueville-road-trip-6a315813780d0f7579afb892, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]
 last_updated: 2026-07-09
 ---
 
@@ -28,6 +28,8 @@ The page also connects earlier wiki branches that used America more indirectly. 
 
 [[coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b]] adds two U.S. power cases. Internationally, America may shift from blockade and strikes against [[Iran]] to [[IranPostwarEconomicRelief]] as a way to secure results it did not achieve militarily. Domestically, the [[ObamaPresidentialCenter]] extends the wiki's memory thread by asking how presidential museums shape public memory and whether [[PresidentialMemorialCulture]] gives presidents too much quasi-imperial aura.
 
+[[peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]] adds two more U.S. cases. Internationally, renewed strikes against [[Iran]] test whether military pressure can coexist with [[USIranNuclearDiplomacy]]; culturally, the [[ThreateFillingStation]] segment reframes [[Route66]] through [[BlackTravelInfrastructure]] rather than only road-trip nostalgia.
+
 [[marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c]] adds a Route 66 commercial-history case. The [[AmericanGiantsMuseum]] segment treats fiberglass roadside figures, service-station reuse, and [[RoadsideAdvertisingSpectacle]] as evidence that American roadside commerce became cultural memory as [[Route66]] shifted from transport utility to nostalgia travel.
 
 ## Connections
@@ -45,3 +47,4 @@ The page also connects earlier wiki branches that used America more indirectly. 
 - [[FrontierModelReleaseGovernance]], [[AIExportControls]], [[OpenAI]], and [[Anthropic]] - frontier-model review and launch-risk branch added by The Intelligence.
 - [[IranPostwarEconomicRelief]], [[ObamaPresidentialCenter]], and [[PresidentialMemorialCulture]] - diplomacy and presidential-memory branches added by The Intelligence.
 - [[AmericanGiantsMuseum]], [[RoadsideAdvertisingSpectacle]], and [[Route66NostalgiaTourism]] - roadside advertising and American commercial-memory branch added by The Intelligence.
+- [[BlackTravelInfrastructure]], [[GreenBook]], and [[ThreateFillingStation]] - segregation-era travel-safety branch added by the Peace fire episode.

@@ -2,7 +2,7 @@
 title: "Economist Podcasts"
 type: entity
 tags: [podcast, media]
-sources: [marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c, trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7, trailer-tocqueville-road-trip-6a315920101389aa3d42d134, trailer-tocqueville-road-trip-6a315813780d0f7579afb892, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]
+sources: [marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c, trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7, trailer-tocqueville-road-trip-6a315920101389aa3d42d134, trailer-tocqueville-road-trip-6a315813780d0f7579afb892, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]
 last_updated: 2026-07-09
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-09
 Economist Podcasts is the show metadata context for [[trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494]], [[trailer-tocqueville-road-trip-6a315642780d0f7579af216c]], [[trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7]], [[trailer-tocqueville-road-trip-6a315920101389aa3d42d134]], and [[trailer-tocqueville-road-trip-6a315813780d0f7579afb892]], parallel-feed source pages for the trailer that introduces [[TocquevilleRoadTrip]]. In this source cluster, the Economist audio branch is used for a historical-political series rather than a magazine-style news episode.
 
 [[gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6]] adds another Economist podcast metadata case, this time for a [[TheIntelligence]] episode that moves across [[GulfStabilityRisk]], [[AmericanDemocraticResilience]], and [[PlantAcousticSignaling]].
+
+[[peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]] adds another [[TheIntelligence]] sequence, spanning renewed U.S.-Iran strikes and [[USIranNuclearDiplomacy]], Asian [[FilialPietyLaws]], and [[Route66]] history through the [[ThreateFillingStation]].
 
 [[keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b]] adds a single-topic [[TheIntelligence]] retrospective on [[Brexit]], [[UnitedKingdom]] political churn, [[BrexitEconomicFriction]], and the limits of [[BrexitRegulatoryDividend]].
 
@@ -35,6 +37,7 @@ The page is adjacent to [[TheIntelligence]], another Economist podcast context a
 - [[TheIntelligence]] - adjacent Economist audio context already used for U.S. democracy, geopolitics, and culture sources.
 - [[UnitedStates]] and [[AmericanDemocraticResilience]] - civic-institution branch extended by the trailer.
 - [[GulfStabilityRisk]] and [[PlantAcousticSignaling]] - branches added by the Gulf-co-operation episode.
+- [[USIranNuclearDiplomacy]], [[FilialPietyLaws]], and [[BlackTravelInfrastructure]] - branches added by the Peace fire episode.
 - [[Brexit]], [[UnitedKingdom]], and [[BrexitEconomicFriction]] - branch added by the Brexit retrospective.
 - [[LabourLeadershipCrisis]], [[SecurityBacklashPolitics]], and [[ScreenTimeParenting]] - branches added by the Starmergeddon episode.
 - [[IranPostwarEconomicRelief]], [[ObamaPresidentialCenter]], and [[PresidentialMemorialCulture]] - branches added by the Coming in Andy episode.

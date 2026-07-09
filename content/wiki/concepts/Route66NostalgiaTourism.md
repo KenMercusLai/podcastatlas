@@ -2,7 +2,7 @@
 title: "Route 66 Nostalgia Tourism"
 type: concept
 tags: [tourism, culture, local-economy]
-sources: [marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]
+sources: [marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]
 last_updated: 2026-07-09
 ---
 
@@ -16,12 +16,15 @@ The concept shows how infrastructure can outlive its original utility. Once inte
 
 [[marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c]] adds the roadside-advertising layer. Through the [[AmericanGiantsMuseum]], [[LeeWoods]], and restored fiberglass figures, Route 66 nostalgia becomes not only a road trip but a memory of pre-digital customer acquisition, local oddness, and [[RoadsideAdvertisingSpectacle]].
 
+[[peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]] adds a corrective to nostalgia. The [[ThreateFillingStation]] segment shows that the road's freedom story was racially uneven: Black travellers needed [[GreenBook]] knowledge, safe businesses, and [[BlackTravelInfrastructure]] because many ordinary stops were closed or dangerous to them.
+
 ## Key Claims
 - A route can retain value after decommissioning if it becomes a recognizable cultural story.
 - Nostalgia tourism depends on signs, shops, outposts, town branding, anniversary events, and repeat visitors.
 - International visitors may consume the road as symbolic Americana rather than as ordinary infrastructure.
 - Small towns can convert bypassed transport geography into deliberate travel demand, but only if enough businesses keep the route legible and visitable.
 - Old West performance, motorcycles, open roads, and desert scenery make the western stretch feel like a mythic route rather than a normal highway.
+- Honest Route 66 memory has to include exclusion, danger, and refuge as well as mobility and roadside romance.
 
 ## Connections
 - [[Route66]] - route and cultural object grounding the concept.
@@ -29,3 +32,4 @@ The concept shows how infrastructure can outlive its original utility. Once inte
 - [[TourismTrafficMismatch]] - adjacent tourism concept.
 - [[TheIntelligence]] - source podcast context.
 - [[AmericanGiantsMuseum]] and [[RoadsideAdvertisingSpectacle]] - advertising-history layer added by the later segment.
+- [[BlackTravelInfrastructure]], [[GreenBook]], and [[ThreateFillingStation]] - segregation-era travel layer added by the Peace fire episode.

@@ -2,8 +2,8 @@
 title: "Ali Khamenei"
 type: entity
 tags: [person, politics, iran, religion]
-sources: [the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]
-last_updated: 2026-07-08
+sources: [the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]
+last_updated: 2026-07-09
 ---
 
 # Ali Khamenei
@@ -12,9 +12,12 @@ Ali Khamenei appears in [[the-mourning-show-the-politics-of-khameneis-funeral-6a
 
 The source treats his funeral as [[PoliticalFuneral]] rather than only mourning. The delayed public ceremonies, procession route, official attendance, elegies, public logistics, and defiant imagery are described as attempts to turn a moment of vulnerability into evidence that the Islamic Republic still has control, reach, and mobilizing power.
 
+[[peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]] adds a later reading of the same funeral cycle. [[NicholasPelham]] says the processions were overshadowed by calls for revenge, war, and retribution, and argues that Khamenei's old role balancing diplomacy and confrontation is no longer operating as a check on Iran's harder line.
+
 ## Connections
 - [[Iran]] - state and regime context for the funeral.
 - [[MujtabaKhamenei]] - successor figure whose absence creates the episode's political uncertainty.
 - [[PoliticalFuneral]] - concept explaining the funeral as ritualized state communication.
 - [[AutocraticSuccession]] - broader succession problem when authority is concentrated around a long-serving leader.
+- [[NicholasPelham]] - contributor giving the renewed-strikes episode's funeral interpretation.
 - [[TheIntelligence]] - source podcast context.

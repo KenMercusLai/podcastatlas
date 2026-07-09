@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Peace fire: further US-Iran strikes](sources/peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf.md) — The Intelligence episode on renewed U.S.-Iran strikes, stalled Hormuz traffic, Khamenei funeral hardliners, Asian filial-piety laws, and Black Route 66 travel history at the Threate Filling Station.
 - [269.真人短剧的下一战：与AI共生、工业化和好故事](sources/269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt.md) — 乱翻书 episode with Hou Chao and Li Jiajia on live-action short drama after the AI shock, industrialized production, Hongguo completion metrics, actor/story nuance, and AI-assisted workflow management.
 - [Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)](sources/advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e.md) — How I Built This Advice Line episode with Jeni Britton on Jesse and Ben's fries, Jaju Pierogi, Ube.co, retail sampling, CPG messaging, category incrementality, founder control, and stage-appropriate communications.
 - [Vol.264 把世界杯作为方法](sources/vol-264-ba-shijiebei-zuowei-fangfa-999416048.md) — 商业就是这样 episode using the 2026 FIFA World Cup to analyze Chinese platform rights, offline brand activation, sponsor globalization, technology partnerships, and football lifestyle consumption.
@@ -800,6 +801,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nicholas Palam](entities/NicholasPalam.md) — The Intelligence correspondent explaining Khamenei's funeral, Iran's religious-political authority, succession uncertainty, and ceasefire context.
 - [Moeka Iida](entities/MoekaIida.md) — The Intelligence contributor explaining Japan's post-divorce joint-custody reform and changing family norms.
 - [John Fasman](entities/JohnFasman.md) — The Intelligence reporter whose Route 66 road trip grounds nostalgia tourism and whose America-at-250 dispatch frames American cultural exports.
+- [Nicholas Pelham](entities/NicholasPelham.md) — The Intelligence contributor explaining renewed U.S.-Iran strikes, stalled diplomacy, Hormuz pressure, and post-Khamenei hardline politics.
+- [Farah Chia](entities/FarahChia.md) — The Intelligence contributor explaining Asian filial-piety laws and elder-care state-capacity pressure.
+- [The Green Book](entities/GreenBook.md) — Segregation-era guidebook listing businesses that welcomed Black travellers and warning about dangerous places.
+- [Threate Filling Station](entities/ThreateFillingStation.md) — Restored Black-owned Route 66 filling station in Luther, Oklahoma, presented as a safe haven for Black travellers.
+- [Edward Threate](entities/EdwardThreate.md) — Family representative explaining the Threate Filling Station's role as a Jim Crow-era refuge on Route 66.
+- [Luther, Oklahoma](entities/LutherOklahoma.md) — Route 66 town where the Threate Filling Station anchors the episode's Black travel-history segment.
+- [Telangana](entities/Telangana.md) — Indian state used as the episode's opening case for filial-piety wage-transfer law.
+- [India](entities/India.md) — Country context for Telangana's filial-piety law and elder-abuse protections.
+- [Singapore](entities/Singapore.md) — Early Asian filial-piety law case from the episode's elder-care segment.
+- [Malaysia](entities/Malaysia.md) — Elder-care capacity case with limited licensed nursing homes and hospital-abandonment data in the episode.
+- [Philippines](entities/Philippines.md) — Proposed punitive elder-neglect law case in the episode's filial-piety segment.
 - [Rosie Bloor](entities/RosieBloor.md) — Host introducing the episode's finance, Turkey politics, and literary obituary segments.
 - [Josh Roberts](entities/JoshRoberts.md) — Capital-markets correspondent explaining AI bubble hedging, hyperscaler capex, and defensive portfolio choices.
 - [Piotr Zilevsky](entities/PiotrZilevsky.md) — Turkey correspondent explaining Erdogan succession dynamics, term-limit workarounds, and party maneuvering.
@@ -1400,6 +1412,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Filial Piety Laws](concepts/FilialPietyLaws.md) — Legal rules that make adult children financially or legally responsible for ageing parents, used by the episode to analyze Asian elder-care pressure.
+- [Elder Care State Capacity](concepts/ElderCareStateCapacity.md) — Ability of welfare, care institutions, families, and markets to support ageing populations beyond punitive family-duty laws.
+- [Black Travel Infrastructure](concepts/BlackTravelInfrastructure.md) — Businesses, guides, routes, and safety knowledge that made Black travel possible under segregation.
 - [Repeatable Customer Language](concepts/RepeatableCustomerLanguage.md) — Practice of turning customer wording, demos, and use cases into messaging customers and buyers can repeat.
 - [Sports Rights Growth Engine](concepts/SportsRightsGrowthEngine.md) — Pattern where live sports rights are bought for platform growth, legitimacy, demographics, and cultural presence more than direct ad ROI.
 - [Offline Brand Activation](concepts/OfflineBrandActivation.md) — Time-bound physical campaign strategy using events, pop-ups, commercial districts, and crowds to make brand moments tangible.

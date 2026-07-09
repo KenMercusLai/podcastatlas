@@ -2,7 +2,7 @@
 title: "Gulf Stability Risk"
 type: concept
 tags: [geopolitics, economy, risk]
-sources: [gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6]
+sources: [gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]
 last_updated: 2026-07-09
 ---
 
@@ -14,9 +14,12 @@ The concept matters because the modern Gulf's value is reputation-sensitive. Inv
 
 The source also makes the risk uneven. [[UnitedArabEmirates]] is presented as better placed because of fiscal strength, expatriate confidence, and bypass planning around the [[StraitOfHormuz]], while [[Bahrain]] is more vulnerable because of debt, limited reserves, and outside-support dependence.
 
+[[peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]] adds the immediate-waterway version. The episode says oil prices jumped and [[StraitOfHormuz]] traffic stalled after renewed strikes, while [[NicholasPelham]] says Gulf states are alarmed because they supported the U.S.-Iran memorandum and rely on the same waterways now being used as leverage.
+
 ## Connections
 - [[GulfCooperationCouncil]] and [[GregCarlstrom]] - regional frame and analyst.
 - [[UnitedArabEmirates]] and [[Bahrain]] - contrasting resilience cases.
 - [[Iran]], [[StraitOfHormuz]], and [[USIranNuclearDiplomacy]] - external-security and diplomacy cluster.
 - [[GulfStrategicDiversification]] - possible policy response to higher risk.
 - [[RegionalNetworkTopologyRisk]] and [[DigitalInfrastructureWarRisk]] - adjacent infrastructure-risk concepts where regional concentration and geopolitical exposure matter.
+- [[NicholasPelham]] - contributor explaining the renewed-strikes alarm.

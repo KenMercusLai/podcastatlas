@@ -2,7 +2,7 @@
 title: "China"
 type: entity
 tags: [country, geopolitics, technology, investment, family-law, football, aviation]
-sources: [latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, no-203-businiao-lanshili-979295393]
+sources: [latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, no-203-businiao-lanshili-979295393]
 last_updated: 2026-07-09
 ---
 
@@ -14,6 +14,8 @@ In the source, China is less a domestic-policy subject than a strategic counterp
 
 [[fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]] adds China as a domestic family-law and demography case. The episode says the state wants to keep people married amid population decline and falling birth rates, but [[ChinaDivorceRestrictions]] and [[MarriageExitFriction]] can make young people, especially women, less willing to enter marriage.
 
+[[peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]] adds China as an early [[FilialPietyLaws]] case. The episode says China passed a law after [[Singapore]] and later required children to visit elderly parents "often", with possible fines or jail.
+
 [[vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191]] adds China as a football-development and sports-investment case. The source says the Chinese football gold-money cycle made [[ChinesePlayerOverseasArbitrage]] look plausible, but China's smaller registered-player base and thinner competition system made the underlying [[YouthFootballDevelopmentSystem]] gap hard to overcome through overseas placement alone.
 
 [[no-203-businiao-lanshili-979295393]] adds China as a private-aviation and early private-enterprise case. [[ChinesePrivateAirlineOpening]] created room for companies such as [[EastStarAirlines]] and [[SpringAirlines]], but the source emphasizes that entry still depended on regulation, local-government support, aircraft financing, and the ability to survive [[PrivateAirlineFailureModes]] when shocks arrived.
@@ -24,5 +26,6 @@ In the source, China is less a domestic-policy subject than a strategic counterp
 - [[BYD]], [[Brazil]], and [[Chile]] - company and country examples of Chinese-linked regional activity.
 - [[CriticalMineralsGeopolitics]] - strategic-resource competition in which China is the implied benchmark and rival.
 - [[ChinaDivorceRestrictions]] and [[MarriageExitFriction]] - domestic family-law branch added by The Intelligence.
+- [[FilialPietyLaws]] and [[ElderCareStateCapacity]] - elder-care obligation branch added by the Peace fire episode.
 - [[ChinesePlayerOverseasArbitrage]], [[YouthFootballDevelopmentSystem]], and [[ShandongLunengFootballSchool]] - football-development branch added by the Jumilla source.
 - [[EastStarAirlines]], [[SpringAirlines]], [[CivilAviationAdministrationOfChina]], and [[ChinesePrivateAirlineOpening]] - private-aviation branch added by the Lan Shili source.

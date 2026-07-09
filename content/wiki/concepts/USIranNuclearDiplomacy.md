@@ -2,7 +2,7 @@
 title: "U.S.-Iran Nuclear Diplomacy"
 type: concept
 tags: [geopolitics, diplomacy, nuclear]
-sources: [gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]
+sources: [gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]
 last_updated: 2026-07-09
 ---
 
@@ -16,6 +16,8 @@ The source's main contribution is fragility. A deal can cover sanctions, assets,
 
 [[the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]] provides a later adjacent reference: after [[AliKhamenei]]'s funeral, the episode still treats the nuclear file, sanctions, the [[StraitOfHormuz]], and Iran's regional role as unresolved diplomatic issues.
 
+[[peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]] adds the ceasefire-collapse stage. [[NicholasPelham]] says renewed American strikes, Iranian retaliation, stalled shipping through the [[StraitOfHormuz]], and hardline funeral politics have not eliminated negotiations, but have turned military pressure into part of the bargaining environment.
+
 [[gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6]] adds the Gulf spillover. The episode argues that if America and [[Iran]] do not reach a durable settlement, the [[GulfCooperationCouncil]] may face prolonged elevated risk and slower confidence rebuilding, turning diplomacy into a direct input for [[GulfStabilityRisk]].
 
 ## Connections
@@ -26,3 +28,4 @@ The source's main contribution is fragility. A deal can cover sanctions, assets,
 - [[ProxyConflictSpoilerRisk]] - concept explaining why the Lebanon clause can destabilize the broader negotiation.
 - [[GulfCooperationCouncil]], [[GulfStabilityRisk]], and [[GulfStrategicDiversification]] - Gulf confidence and investment-priority effects of unresolved diplomacy.
 - [[PoliticalFuneral]] and [[AutocraticSuccession]] - adjacent Iran sources where diplomacy continues under regime-uncertainty conditions.
+- [[NicholasPelham]] and [[DonaldTrump]] - new-source participants in the ceasefire-collapse stage.

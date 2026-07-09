@@ -2,13 +2,15 @@
 title: "Iran"
 type: entity
 tags: [country, politics, geopolitics]
-sources: [gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
+sources: [gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
 last_updated: 2026-07-09
 ---
 
 # Iran
 
 Iran appears in [[the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]] through [[AliKhamenei]]'s funeral, the Islamic Republic's succession problem, the recent war with America and Israel as described by the episode, and unresolved diplomacy around sanctions, the nuclear file, the [[StraitOfHormuz]], and regional influence.
+
+[[peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]] adds the next escalation. The episode says renewed American strikes and Iranian retaliation ended the ceasefire after three weeks, while [[NicholasPelham]] argues that Iran's leadership is using military pressure, funeral mobilization, and control over regional waterways to project strength even though sanctions and war damage still leave it needing a negotiated way out.
 
 [[missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3]] adds a prior diplomacy-focused Iran case. The episode says America and Iran signed a memorandum of understanding around the [[StraitOfHormuz]], frozen assets, and uranium-stockpile talks, but frames the package as vulnerable to [[Israel]]-[[Hezbollah]] fighting in [[Lebanon]].
 
@@ -29,3 +31,4 @@ The source frames Iran's state capacity as contested. Funeral logistics, slogans
 - [[GulfCooperationCouncil]], [[GulfStabilityRisk]], and [[GulfStrategicDiversification]] - Gulf confidence and investment-priority branch added by the new episode.
 - [[ProxyConflictSpoilerRisk]] - risk that the Lebanon conflict undercuts diplomacy.
 - [[DigitalInfrastructureWarRisk]] - adjacent Iran-related conflict frame from another source.
+- [[NicholasPelham]] - contributor explaining the ceasefire-collapse episode.

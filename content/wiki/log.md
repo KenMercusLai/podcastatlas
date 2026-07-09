@@ -1743,3 +1743,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-09] ingest | Peace fire: further US-Iran strikes
+
+Added source page for a The Intelligence episode on renewed U.S.-Iran strikes, stalled Strait of Hormuz traffic, Khamenei funeral hardliners, Asian filial-piety elder-care laws, and the Threate Filling Station as Black Route 66 travel history. Created pages for Nicholas Pelham, Farah Chia, Filial Piety Laws, Elder Care State Capacity, Black Travel Infrastructure, The Green Book, Threate Filling Station, Edward Threate, Luther Oklahoma, Telangana, India, Singapore, Malaysia, and the Philippines; updated overview, index, The Intelligence, Economist Podcasts, Iran, U.S.-Iran Nuclear Diplomacy, Strait of Hormuz, Ali Khamenei, Political Funeral, Autocratic Succession, Gulf Cooperation Council, Gulf Stability Risk, Bahrain, Donald Trump, United States, Route 66, Route 66 Nostalgia Tourism, John Fasman, Japan, China, and South Korea. No substantive contradiction found; the source chronologically updates the earlier ceasefire story by saying the ceasefire later collapsed. Source-local naming note: this episode says Nicholas Pelham, while the prior Khamenei-funeral source used Nicholas Palam.
