@@ -2,8 +2,8 @@
 title: "FIFA World Cup"
 type: entity
 tags: [sports, football, event]
-sources: [shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969]
-last_updated: 2026-07-08
+sources: [shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-264-ba-shijiebei-zuowei-fangfa-999416048]
+last_updated: 2026-07-09
 ---
 
 # FIFA World Cup
@@ -12,13 +12,17 @@ The FIFA World Cup appears in [[shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-
 
 The source frames the 2026 tournament as a case where host-market infrastructure amplifies expansion economics. Existing stadiums in the [[UnitedStates]], a sponsor-rich North American market, dynamic ticketing norms, official resale fees, and hospitality inventory all make more matches more valuable than a simple count of extra games would suggest.
 
+[[vol-264-ba-shijiebei-zuowei-fangfa-999416048]] adds the tournament as a commercial method. Instead of focusing on expansion governance, it uses the World Cup to read Chinese platform-rights competition, [[Adidas]]' offline activation, Chinese sponsor globalization through [[Hisense]] and [[Lenovo]], and football apparel as [[SportsLifestyleConsumption]].
+
 ## Key Claims
 - The 2026 tournament uses 12 four-team groups, with the top two teams and eight best third-place teams entering a 32-team knockout round.
 - The [[UnitedStates]] hosts most of the matches, making U.S. stadium and ticketing infrastructure central to the business story.
 - More teams and games create new participation for football associations while strengthening FIFA's commercial bargaining position.
 - The episode presents the tournament's expansion history as part of football's broader commercial globalization.
+- Vol.264 treats the World Cup as a diagnostic event: rights buyers, sponsor tactics, offline campaigns, and jersey consumption all reveal broader commercial changes.
 
 ## Connections
 - [[FIFA]], [[GianniInfantino]], [[UEFA]], [[SeppBlatter]], and [[JoaoHavelange]] - governing and historical context.
 - [[WorldCupExpansion]], [[SportsEventTicketing]], [[SportsMediaRights]], and [[CorporateHospitalityPlatform]] - economic mechanisms emphasized by the source.
 - [[FormulaOne]] and [[SportsEntertainmentFlywheel]] - adjacent sports-business comparison.
+- [[SportsRightsGrowthEngine]], [[OfflineBrandActivation]], [[GlobalSportsSponsorship]], and [[SportsLifestyleConsumption]] - marketing and platform extensions added by Vol.264.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-09] ingest | Vol.264 把世界杯作为方法
+
+Added source page for a 商业就是这样 episode using the 2026 FIFA World Cup as a method for reading Chinese platform-rights competition, offline brand activation, Chinese sponsor globalization, technology partnerships, and football lifestyle consumption. Created pages for China Central Television, Migu, Hisense, Lenovo, Mengniu, Wanda Group, Yingli Green Energy, Sports Rights Growth Engine, Offline Brand Activation, Global Sports Sponsorship, and Sports Lifestyle Consumption; updated overview, index, Shangye Jiushi Zheyang, FIFA, FIFA World Cup, Xiaohongshu, Adidas, Sports Media Rights, Sports Entertainment Flywheel, Experiential Retail, Chinese Hardware Globalization, Consumer Brand Moat, and Global Product Localization. No direct contradiction found; the source complements the earlier FIFA expansion source by shifting from governance and match inventory to marketing, media distribution, sponsor trust, and lifestyle consumption.
+
 ## [2026-07-09] ingest | 为什么硅谷开始重新定义「AI 记忆」｜ S10E20
 
 Added source page for a What's Next｜科技早知道 episode with Kang Hongwen Henry of Clipto AI on local-first personal memory, multimodal archive understanding, data-to-memory transformation, on-device memory scheduling, edge/cloud collaboration, and why cloud model intelligence alone does not solve precise private recall. Created pages for Clipto AI, Kang Hongwen, Mem0, NotebookLM, Local-First Memory Layer, Multimodal Personal Memory, Data-to-Memory Transformation, and On-Device Memory Scheduling; updated What's Next｜科技早知道, Persistent Agent Memory, Context Engineering, AI Data Memory Infrastructure, On-Device AI, Edge-Cloud AI Boundary, Retrieval-Augmented Generation, Continual Learning, AI File Management, Personal Knowledge Ecology, Model Context Protocol, AI Plus Terminals, overview, and index. No direct contradiction found; the source reinforces the wiki's memory/context branch while distinguishing raw data, retrieval, parameterized personalization, and agent-usable personal memory.
@@ -1715,6 +1719,10 @@ Ran lint after health passed. Deterministic checks found three orphan pages (`wi
 ## [2026-07-09] ingest | No.209 晋商往事：走西口到乔家大院然后煤了
 
 Added source page for a 半拿铁 episode on Shanxi merchants, from Zou Xikou migration, frontier trade, Dashengkui, Rishengchang piaohao, Lei Lutai, Mao Honghui, piaohao governance, official remittance, new banks, and revolutionary collapse to Qiao Family Compound, Pingyao conservation, coal dependence, corruption risk, and resource-based transition. Created pages for Shanxi, Shanxi Merchants, Rishengchang, Dashengkui, Qiao Family Compound, Pingyao Ancient City, Lei Lutai, Mao Honghui, Ruan Yisan, Chen Congzhou, Shanxi Piaohao, Frontier Trade Systems, Jin Merchant Governance, Long-Distance Trade Friction, Heritage Tourism Commercialization, Shanxi Coal Economy, Resource-Based Economic Transition, and Zou Xikou Migration; updated overview, index, and Banlatte. No direct contradiction found; the source adds an inland regional-business counterpart to the Minnan maritime branch and reinforces the wiki's themes around trust, institutional fit, distance, and adaptation.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-09] lint | Wiki health check
 

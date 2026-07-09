@@ -2,7 +2,7 @@
 title: "Xiaohongshu"
 type: entity
 tags: [platform, social-media, community]
-sources: [musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7lsklr3vmtbc4l-p, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500]
+sources: [musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7lsklr3vmtbc4l-p, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, vol-264-ba-shijiebei-zuowei-fangfa-999416048]
 last_updated: 2026-07-09
 ---
 
@@ -24,6 +24,8 @@ The source frames Xiaohongshu less as a conventional startup demo day host and m
 
 [[no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500]] adds Xiaohongshu's early ecommerce route. The episode says Xiaohongshu initially had a cross-border shopping and "福利社" commerce layer before content community became the stronger identity, making it a contrast to independent cross-border platforms such as [[NetEaseKaola]] and [[Yangmatou]].
 
+[[vol-264-ba-shijiebei-zuowei-fangfa-999416048]] adds Xiaohongshu as a 2026 [[FIFAWorldCup]] rights buyer alongside [[Migu]]. The episode interprets this as a possible [[SportsRightsGrowthEngine]] move: live rights, clips, secondary creation, and football memes may help the platform broaden male participation, lift daily activity, and show growth capacity.
+
 ## Connections
 - [[XiaohongshuHackathonPeakCompetition]] — event organized around AI-era builders.
 - [[ProductContainer]], [[Douyin]], and [[TikTok]] — container-fit comparison added by the Musical.ly/TikTok source.
@@ -37,3 +39,4 @@ The source frames Xiaohongshu less as a conventional startup demo day host and m
 - [[Mujian]], [[Roi]], [[AISimulationContent]], and [[AISuperCreators]] — AI simulation platform and creator-community analogy added by the Mujian source.
 - [[TourismTrafficMismatch]] and [[CityCommercialObservation]] — city-commerce layer added by the anniversary source.
 - [[NetEaseKaola]], [[Yangmatou]], [[ChineseEcommercePlatformHistory]], and [[PlatformDependencyRisk]] — cross-border and content-commerce context added by Banlatte episode 200.
+- [[FIFAWorldCup]], [[ChinaCentralTelevision]], [[Migu]], and [[SportsRightsGrowthEngine]] — World Cup rights and platform-growth extension added by Vol.264.

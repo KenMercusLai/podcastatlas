@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.264 把世界杯作为方法](sources/vol-264-ba-shijiebei-zuowei-fangfa-999416048.md) — 商业就是这样 episode using the 2026 FIFA World Cup to analyze Chinese platform rights, offline brand activation, sponsor globalization, technology partnerships, and football lifestyle consumption.
 - [No.209 晋商往事：走西口到乔家大院然后煤了](sources/no-209-jinshang-wangshi-zou-xikou-dao-qiaojia-dayuan-ranhou-mei-le-999367322.md) — 半拿铁 episode on Shanxi merchants, frontier trade, Dashengkui, Rishengchang piaohao, Qiao Family Compound, Pingyao conservation, coal dependence, and resource-based transition.
 - [为什么硅谷开始重新定义「AI 记忆」｜ S10E20](sources/weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3.md) — What's Next｜科技早知道 episode with Kang Hongwen of Clipto AI on local-first personal memory, multimodal archives, data-to-memory transformation, edge/cloud boundaries, and why AI assistants need more than cloud model intelligence.
 - [Marine warfare: Le Pen runs for president](sources/marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c.md) — The Intelligence episode on Marine Le Pen's cleared 2027 run, National Rally succession tension, captive-whale sanctuary experiments in Iceland, and Route 66 roadside advertising culture.
@@ -228,6 +229,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [中央广播电视总台 / China Central Television](entities/ChinaCentralTelevision.md) — Domestic World Cup rights source in China, sublicensing live, on-demand, and replay access to platforms.
+- [咪咕 / Migu](entities/Migu.md) — Recurring Chinese World Cup streaming-rights buyer used to read sports rights as platform growth infrastructure.
+- [海信 / Hisense](entities/Hisense.md) — Chinese TV and home-appliance company using World Cup and European Championship sponsorship plus VAR display technology to support overseas trust.
+- [联想 / Lenovo](entities/Lenovo.md) — Chinese technology company and FIFA global technology partner tying the 2026 North American World Cup to overseas PC, AI, media, and visualization services.
+- [蒙牛 / Mengniu](entities/Mengniu.md) — Chinese dairy brand appearing as a repeated World Cup sponsor in the episode's Chinese-sponsor globalization chronology.
+- [万达集团 / Wanda Group](entities/WandaGroup.md) — Chinese conglomerate whose 2016 FIFA sponsorship agreement marks an earlier top-tier Chinese World Cup sponsor phase.
+- [英利绿色能源 / Yingli Green Energy](entities/YingliGreenEnergy.md) — First Chinese World Cup sponsor, used as the opening marker in the episode's sponsor chronology.
 - [Shanxi / 山西](entities/Shanxi.md) — Province used to connect inland merchant history, piaohao finance, heritage tourism, coal dependence, and modern resource transition.
 - [Shanxi Merchants / 晋商](entities/ShanxiMerchants.md) — Inland Chinese merchant community shaped by Shanxi geography, frontier trade, piaohao finance, branch networks, and internal governance.
 - [Rishengchang / 日升昌](entities/Rishengchang.md) — Pingyao piaohao case showing how drafts, branch trust, codebooks, and reputation replaced risky silver transport.
@@ -1376,6 +1384,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Sports Rights Growth Engine](concepts/SportsRightsGrowthEngine.md) — Pattern where live sports rights are bought for platform growth, legitimacy, demographics, and cultural presence more than direct ad ROI.
+- [Offline Brand Activation](concepts/OfflineBrandActivation.md) — Time-bound physical campaign strategy using events, pop-ups, commercial districts, and crowds to make brand moments tangible.
+- [Global Sports Sponsorship](concepts/GlobalSportsSponsorship.md) — Use of worldwide sports events to build overseas brand trust, market presence, and technology credibility.
+- [Sports Lifestyle Consumption](concepts/SportsLifestyleConsumption.md) — Sports events and apparel becoming daily fashion, identity, and atmosphere consumption beyond core fans.
 - [Shanxi Piaohao](concepts/ShanxiPiaohao.md) — Private Shanxi draft-bank/remittance institutions that reduced silver-transport risk through branch trust, codebooks, verification, and reputation.
 - [Frontier Trade Systems](concepts/FrontierTradeSystems.md) — Borderland trade arrangements linking military provisioning, salt permits, Mongolian trade, guarantees, routes, and branch networks.
 - [Jin Merchant Governance](concepts/JinMerchantGovernance.md) — Shanxi merchant-house incentive system using competence-based promotion, ownership discipline, and profit participation to manage distant operations.

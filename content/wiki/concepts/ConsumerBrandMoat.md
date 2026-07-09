@@ -2,7 +2,7 @@
 title: "Consumer Brand Moat"
 type: concept
 tags: [investing, consumer-brands, moat, cpg]
-sources: [ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i, ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939, e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie, 138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1, 140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]
+sources: [ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i, ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939, e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie, 138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1, 140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, vol-264-ba-shijiebei-zuowei-fangfa-999416048]
 last_updated: 2026-07-09
 ---
 
@@ -13,6 +13,8 @@ A consumer brand moat is the durable business advantage that forms when customer
 [[e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie]] adds the performance-footwear version. [[Nike]], [[Adidas]], [[NewBalance]], [[ASICS]], [[HOKA]], and [[OnRunning]] show that a consumer brand moat can be reinforced by race results, athlete credibility, material reputation, fit memory, channel presence, and lifestyle adoption.
 
 [[140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1]] adds a premium Chinese hardware version through [[DJI]]. The episode argues DJI's moat comes from category definition, product trust, high-end global retail presence, and creator/professional use rather than only advertising. It also shows a limit: a consumer brand moat can be politically constrained when drones become associated with [[LowAltitudeRegulatoryRisk]].
+
+[[vol-264-ba-shijiebei-zuowei-fangfa-999416048]] adds the global sports-sponsorship version through [[Hisense]], [[Lenovo]], [[Mengniu]], and [[Adidas]]. The episode argues that categories such as televisions and PCs depend on accumulated brand trust, so repeated World Cup and European Championship presence can matter even when one advertisement does not immediately convert into a purchase.
 
 [[141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1]] adds the chain-coffee version through [[Starbucks]], [[LuckinCoffee]], [[BlueBottleCoffee]], and [[Arabica]]. The source shows that brand moats can come from daily habit, store density, premium mood, or design consistency, but [[PremiumEverydayBrandTension]] makes those advantages hard to combine in one brand.
 
@@ -32,6 +34,7 @@ A consumer brand moat is the durable business advantage that forms when customer
 - In performance footwear, technical proof and consumer identity can compound: a marathon podium or recognizable racing aesthetic may shape ordinary buying even when the buyer is not an elite runner.
 - In consumer hardware, technical proof, reliability, accessories, creator workflow, and retail presence can make a brand feel like the category's default reference point.
 - A strong consumer brand moat does not remove policy risk when a product category is recoded as security-sensitive.
+- In global sports sponsorship, repeated event presence can become trust-building infrastructure, especially when the company also supplies visible technology to the event.
 - In chain coffee, a moat can be split across different jobs: mass convenience, premium experience, store density, global recognition, and local operating speed.
 - In collectible IP, a moat can look strongest exactly when [[CustomerConcentrationRisk]] and [[EarningsGrowthAcceleration]] concerns become most visible to investors.
 - In sports and fitness, a moat can come from belonging to a circle: a shoe's visible silhouette, a store's premium feel, a class's room energy, or an instructor's following can all create repeat demand.
@@ -45,6 +48,7 @@ A consumer brand moat is the durable business advantage that forms when customer
 - [[UGG]], [[BrianSmith]], and [[Deckers]] — footwear case where subculture authenticity became a scalable brand asset.
 - [[Nike]], [[Adidas]], [[AdidasUltraBoost]], [[NikeVaporfly]], and [[PerformanceFootwearMarket]] — running-shoe case where technical proof, comfort, and lifestyle adoption reinforce brand value.
 - [[DJI]], [[HardwareCategoryDefinitionPower]], [[PortableCreatorCameras]], and [[ChineseHardwareGlobalization]] — hardware-brand extension added by the FengTouQuan source.
+- [[Hisense]], [[Lenovo]], [[Mengniu]], [[Adidas]], [[GlobalSportsSponsorship]], and [[SportsLifestyleConsumption]] - World Cup sponsorship and football-lifestyle extension added by Vol.264.
 - [[Starbucks]], [[LuckinCoffee]], [[BlueBottleCoffee]], [[Arabica]], and [[PremiumEverydayBrandTension]] - coffee-chain brand-moat extension added by the FengTouQuan coffee source.
 - [[PopMart]], [[Labubu]], [[GoodCompanyGoodStock]], and [[EarningsGrowthAcceleration]] - collectible-IP brand-moat extension added by FengTouQuan episode 139.
 - [[OnRunning]], [[SuperMonkey]], [[Lululemon]], [[AloYoga]], [[DirectToConsumerBrandControl]], and [[PayPerClassFitnessModel]] - sports-consumption extension added by FengTouQuan episode 138.

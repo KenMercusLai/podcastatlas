@@ -2,7 +2,7 @@
 title: "Experiential Retail"
 type: concept
 tags: [retail, consumer, product, distribution]
-sources: [build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88, the-walt-disney-company-1, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4, 132-xuegao-jianghu-fengtouquan-1-132-1, vol-263-lang-de-youhuo-998128018, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]
+sources: [build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88, the-walt-disney-company-1, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4, 132-xuegao-jianghu-fengtouquan-1-132-1, vol-263-lang-de-youhuo-998128018, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, vol-264-ba-shijiebei-zuowei-fangfa-999416048]
 last_updated: 2026-07-09
 ---
 
@@ -28,6 +28,8 @@ The concept extends the wiki's consumer-products branch beyond [[CPGDistribution
 
 [[137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]] widens the concept from store formats to whole destination systems. [[Shunde]] and [[Zhuroupo]] show food tourism as experience, while [[GentleMonster]] and [[SeongsuDong]] show Korean stores and districts becoming cultural media for brands.
 
+[[vol-264-ba-shijiebei-zuowei-fangfa-999416048]] adds the event-campaign version through [[Adidas]]. The 2026 [[FIFAWorldCup]] activation shows that experience can be temporary and city-based: football courts, outdoor plazas, commercial-district clustering, nearby pop-ups, and social sharing turn a sports event into a physical retail and brand moment.
+
 ## Key Claims
 - The store is not just the point of sale; it is the medium through which the product becomes personally meaningful.
 - Experiential retail often asks the customer to spend time and attention, so the process must feel rewarding rather than like friction.
@@ -43,6 +45,7 @@ The concept extends the wiki's consumer-products branch beyond [[CPGDistribution
 - In premium sports retail, store experience can protect price and sell the brand system rather than only one SKU.
 - In group fitness, the experiential product is live and perishable: music, lighting, instructor timing, and fellow participants have to work in the same session.
 - In destination consumption, the experience can include media buildup, travel, queue tolerance, neighborhood texture, and social proof rather than only the interior of a store.
+- Time-bound event activations can create experience without permanent store buildout when the venue, crowd, product, and social-media moment reinforce one another.
 
 ## Connections
 - [[BuildABear]] and [[MaxineClark]] - source case.
@@ -58,3 +61,4 @@ The concept extends the wiki's consumer-products branch beyond [[CPGDistribution
 - [[Arabica]], [[BlueBottleCoffee]], and [[PremiumEverydayBrandTension]] - high-end coffee branch where store scarcity and design protect brand feeling.
 - [[OnRunning]], [[SuperMonkey]], [[DirectToConsumerBrandControl]], [[PayPerClassFitnessModel]], and [[ServiceBrandStandardization]] - sports and fitness branch where owned stores and live classes are the experience.
 - [[Shunde]], [[Zhuroupo]], [[GentleMonster]], [[SeongsuDong]], and [[AIResistantExperientialConsumption]] - destination and AI-era experience branch added by episode 137.
+- [[Adidas]], [[FIFAWorldCup]], [[OfflineBrandActivation]], and [[SportsLifestyleConsumption]] - sports-event activation branch added by Vol.264.

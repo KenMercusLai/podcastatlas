@@ -2,7 +2,7 @@
 title: "Chinese Hardware Globalization"
 type: concept
 tags: [hardware, globalization, china, consumer-electronics]
-sources: [140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1]
+sources: [140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1, vol-264-ba-shijiebei-zuowei-fangfa-999416048]
 last_updated: 2026-07-09
 ---
 
@@ -12,17 +12,22 @@ Chinese hardware globalization is the pattern in [[140-da-jiang-hai-neng-di-kong
 
 The source contrasts this with cars. Electric vehicles are larger, more strategic, and more employment-heavy, so they invite stronger tariffs and local industrial protection. Drones and portable cameras are smaller categories, which helped DJI globalize earlier and more smoothly, but [[LowAltitudeRegulatoryRisk]] shows that the same products can later become politicized through security narratives.
 
+[[vol-264-ba-shijiebei-zuowei-fangfa-999416048]] adds the sports-sponsorship route through [[Hisense]] and [[Lenovo]]. Hisense uses long-term football sponsorship and VAR display technology to support overseas TV trust, while Lenovo's North American business footprint makes the 2026 [[FIFAWorldCup]] a fitting stage for AI, visualization, media, and team-analysis services.
+
 ## Key Claims
 - Global hardware success is easier when the company defines a new category rather than displacing entrenched local champions in an old category.
 - Premium retail presence can be a brand signal when the product category is technical but consumer-facing.
 - Smaller categories may face less immediate trade protection than cars, telecom equipment, or strategic infrastructure.
 - The protection window can close once a device category becomes tied to national security, data, or military-use narratives.
 - Globalization is therefore both a brand problem and a policy-risk problem: demand can remain strong even as certification, procurement, and import restrictions tighten.
+- Sports sponsorship can support hardware globalization when the event demonstrates product reliability or technology capability in front of global consumers and partners.
+- A Chinese hardware company may be global enough that a World Cup campaign should be read through overseas market position, not only domestic brand exposure.
 
 ## Connections
 - [[DJI]] - central case for global Chinese hardware branding.
+- [[Hisense]] and [[Lenovo]] - sports-sponsorship hardware cases added by Vol.264.
 - [[HardwareCategoryDefinitionPower]] - reason DJI could globalize through category leadership.
 - [[LowAltitudeRegulatoryRisk]] - policy-risk limit on hardware globalization.
 - [[PortableCreatorCameras]] - non-drone second curve with global creator demand.
-- [[GlobalProductLocalization]] - broader wiki concept for global product adaptation.
-- [[ConsumerBrandMoat]] and [[ProductLedWillingnessToPay]] - trust and paid-value concepts behind premium global hardware.
+- [[GlobalProductLocalization]] and [[GlobalSportsSponsorship]] - broader wiki concepts for global adaptation and trust-building.
+- [[ConsumerBrandMoat]], [[TrustAsBusinessAsset]], and [[ProductLedWillingnessToPay]] - trust and paid-value concepts behind premium global hardware.

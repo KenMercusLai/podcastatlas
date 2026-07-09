@@ -8,6 +8,7 @@ sources:
   - guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5
   - 140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1
   - 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1
+  - vol-264-ba-shijiebei-zuowei-fangfa-999416048
 last_updated: 2026-07-09
 ---
 
@@ -25,6 +26,8 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 
 [[141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1]] adds the coffee-chain version through [[CoffeeChainLocalization]]. Here localization can require ownership and decision-right changes, not only local menu work: [[Starbucks]] China is framed through [[BoyuCapital]] control, while [[Nestle]]'s sale of [[BlueBottleCoffee]] shows that global CPG ownership may not fit local store expansion.
 
+[[vol-264-ba-shijiebei-zuowei-fangfa-999416048]] adds the multinational sports-brand version through [[Adidas]]. The episode's China examples - responding to a local meme with a T-shirt, running a large offline World Cup event, and producing local variety content - show localization as marketing authority and product-response speed, not only translation or channel adaptation.
+
 ## Key Claims
 - A global product should separate what must be globally consistent from what must adapt locally.
 - Local content and operations can vary without fragmenting the core product container.
@@ -38,6 +41,7 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 - Hardware globalization can depend on category creation: a company may need to make the product form itself familiar before conventional localization matters.
 - Smaller consumer-electronics categories can avoid some protectionist pressure at first, but security narratives can still turn global demand into regulatory exposure.
 - Consumer-chain localization can require local ownership, local professional managers, and faster product-price-store iteration than a global headquarters can supply.
+- Global sports brands may need local teams with enough autonomy to turn memes, city events, content formats, and campaign timing into products and experiences.
 
 ## Connections
 - [[TikTok]], [[Douyin]], and [[ByteDance]] — source product and company case.
@@ -49,3 +53,4 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 - [[FounderLedSoftwareGlobalization]], [[PingCAP]], and [[Dongxu]] — infrastructure-software organization extension added by the PingCAP source.
 - [[DJI]], [[ChineseHardwareGlobalization]], [[HardwareCategoryDefinitionPower]], and [[LowAltitudeRegulatoryRisk]] — hardware globalization extension added by the FengTouQuan DJI source.
 - [[CoffeeChainLocalization]], [[Starbucks]], [[BoyuCapital]], [[BlueBottleCoffee]], and [[Nestle]] - coffee-chain localization extension added by the FengTouQuan coffee source.
+- [[Adidas]], [[OfflineBrandActivation]], and [[SportsLifestyleConsumption]] - multinational sports-brand localization extension added by Vol.264.
