@@ -1386,7 +1386,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-07-09] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` and found no hub stubs, eight fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
 
 ## [2026-07-09] ingest | Marine warfare: Le Pen runs for president
 
@@ -1711,3 +1711,11 @@ Ran lint after health passed. Deterministic checks found three orphan pages (`wi
 ## [2026-07-09] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-09 with 2,261 nodes and 21,670 edges; they found no hub stubs, eight fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-09] ingest | No.209 晋商往事：走西口到乔家大院然后煤了
+
+Added source page for a 半拿铁 episode on Shanxi merchants, from Zou Xikou migration, frontier trade, Dashengkui, Rishengchang piaohao, Lei Lutai, Mao Honghui, piaohao governance, official remittance, new banks, and revolutionary collapse to Qiao Family Compound, Pingyao conservation, coal dependence, corruption risk, and resource-based transition. Created pages for Shanxi, Shanxi Merchants, Rishengchang, Dashengkui, Qiao Family Compound, Pingyao Ancient City, Lei Lutai, Mao Honghui, Ruan Yisan, Chen Congzhou, Shanxi Piaohao, Frontier Trade Systems, Jin Merchant Governance, Long-Distance Trade Friction, Heritage Tourism Commercialization, Shanxi Coal Economy, Resource-Based Economic Transition, and Zou Xikou Migration; updated overview, index, and Banlatte. No direct contradiction found; the source adds an inland regional-business counterpart to the Minnan maritime branch and reinforces the wiki's themes around trust, institutional fit, distance, and adaptation.
+
+## [2026-07-09] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

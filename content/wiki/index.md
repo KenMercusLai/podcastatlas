@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.209 晋商往事：走西口到乔家大院然后煤了](sources/no-209-jinshang-wangshi-zou-xikou-dao-qiaojia-dayuan-ranhou-mei-le-999367322.md) — 半拿铁 episode on Shanxi merchants, frontier trade, Dashengkui, Rishengchang piaohao, Qiao Family Compound, Pingyao conservation, coal dependence, and resource-based transition.
 - [为什么硅谷开始重新定义「AI 记忆」｜ S10E20](sources/weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3.md) — What's Next｜科技早知道 episode with Kang Hongwen of Clipto AI on local-first personal memory, multimodal archives, data-to-memory transformation, edge/cloud boundaries, and why AI assistants need more than cloud model intelligence.
 - [Marine warfare: Le Pen runs for president](sources/marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c.md) — The Intelligence episode on Marine Le Pen's cleared 2027 run, National Rally succession tension, captive-whale sanctuary experiments in Iceland, and Route 66 roadside advertising culture.
 - [当黑客攻破了日本的国民啤酒，除了鞠躬道歉，他们还能做什么？feat.Top of Japan](sources/dang-heike-gongpo-le-riben-de-guomin-pijiu-chule-jugong-daoqian-tamen-hai-neng-zuo-shenme-feat-top-of-japan-keji-luandun.md) — 科技乱炖 crossover with Top of Japan on Asahi's ransomware incident, Super Dry shortages, ERP and logistics disruption, offline backups, ransom refusal, and risk-tiered personal security.
@@ -227,6 +228,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Shanxi / 山西](entities/Shanxi.md) — Province used to connect inland merchant history, piaohao finance, heritage tourism, coal dependence, and modern resource transition.
+- [Shanxi Merchants / 晋商](entities/ShanxiMerchants.md) — Inland Chinese merchant community shaped by Shanxi geography, frontier trade, piaohao finance, branch networks, and internal governance.
+- [Rishengchang / 日升昌](entities/Rishengchang.md) — Pingyao piaohao case showing how drafts, branch trust, codebooks, and reputation replaced risky silver transport.
+- [Dashengkui / 大盛魁](entities/Dashengkui.md) — Shanxi frontier merchant house used to explain Mongolian trade, branch networks, credit, guarantees, and merchant-house governance.
+- [Qiao Family Compound / 乔家大院](entities/QiaoFamilyCompound.md) — Shanxi merchant-family courtyard turned into national heritage IP through film, television, tourism, and scenic-area governance.
+- [Pingyao Ancient City / 平遥古城](entities/PingyaoAncientCity.md) — Shanxi old-city conservation case linking piaohao memory, planning intervention, World Heritage status, and tourism.
+- [Lei Lutai / 雷履泰](entities/LeiLutai.md) — Rishengchang manager associated with turning internal merchant remittance into a public piaohao business.
+- [Mao Honghui / 毛红汇](entities/MaoHonghui.md) — Piaohao figure whose split from Rishengchang helped diffuse the remittance-bank model through competition.
+- [Ruan Yisan / 阮仪三](entities/RuanYisan.md) — Heritage-planning figure credited in the source with helping redirect Pingyao away from demolition.
+- [Chen Congzhou / 陈从周](entities/ChenCongzhou.md) — Architectural historian whose "old city/new city" principle frames Pingyao preservation in the episode.
 - [Clipto AI](entities/CliptoAI.md) — Local-first multimodal memory product positioned as a personal memory layer for private files, recordings, videos, and agent context.
 - [康宏文 Henry](entities/KangHongwen.md) — Clipto AI founder and CEO arguing that personal AI memory should be separate from cloud model world knowledge.
 - [Mem0](entities/Mem0.md) — Memory-layer startup used in S10E20 as a cloud-oriented comparison and market-validation signal.
@@ -1101,7 +1112,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Baidu](entities/Baidu.md) — Chinese search and AI company discussed through search-ad decline, open-web traffic loss, Wenxin, Qunar, and the Wei Zexi medical-search trust crisis.
 - [Bairong Intelligence](entities/BairongIntelligence.md) — Enterprise AI company using and selling digital employees through AI staffing, AI BPO, professional-service platforms, and silicon-carbon governance.
 - [Bank of Japan](entities/BankOfJapan.md) — Central bank whose tightening and yen effects are discussed as triggers for yen carry trade stress and Japanese equity volatility.
-- [半拿铁](entities/Banlatte.md) — Business-history podcast/show context for China internet history episodes on handset prehistory and internet healthcare.
+- [半拿铁](entities/Banlatte.md) — Business-history podcast/show context for China internet, regional merchant, aviation, ecommerce, healthcare, mobile-phone, and online-video history episodes.
 - [Berkshire Hathaway](entities/BerkshireHathaway.md) — Warren Buffett's investment company discussed through Apple reduction, high cash, valuation caution, market sentiment, and Munger/Buffett consumer-brand cases.
 - [Bitcoin](entities/Bitcoin.md) — Cryptocurrency asset discussed as a trading vehicle rather than a cash-flowing investment in the Simons episode.
 - [Bird Mobile](entities/BirdMobile.md) — First-generation Chinese domestic handset brand remembered for licenses, local channels, celebrity marketing, and the "手机中的战斗机" slogan.
@@ -1365,6 +1376,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Shanxi Piaohao](concepts/ShanxiPiaohao.md) — Private Shanxi draft-bank/remittance institutions that reduced silver-transport risk through branch trust, codebooks, verification, and reputation.
+- [Frontier Trade Systems](concepts/FrontierTradeSystems.md) — Borderland trade arrangements linking military provisioning, salt permits, Mongolian trade, guarantees, routes, and branch networks.
+- [Jin Merchant Governance](concepts/JinMerchantGovernance.md) — Shanxi merchant-house incentive system using competence-based promotion, ownership discipline, and profit participation to manage distant operations.
+- [Long-Distance Trade Friction](concepts/LongDistanceTradeFriction.md) — Problem of moving goods, money, information, trust, and legal order across distance in frontier trade, piaohao finance, and supply chains.
+- [Heritage Tourism Commercialization](concepts/HeritageTourismCommercialization.md) — Conversion of preserved architecture and historical memory into tourism value, with risks from over-commercialized scenic-area management.
+- [Shanxi Coal Economy](concepts/ShanxiCoalEconomy.md) — Modern Shanxi resource base tying national energy supply, coal wealth, safety risk, regulation, corruption exposure, and industrial concentration.
+- [Resource-Based Economic Transition](concepts/ResourceBasedEconomicTransition.md) — Development problem of diversifying a resource-dependent region while the old extractive base remains economically central.
+- [Zou Xikou Migration](concepts/ZouXikouMigration.md) — Northbound Shanxi migration beyond the pass that supplied labor, routes, apprenticeships, and commercial ties for frontier trade.
 - [Local-First Memory Layer](concepts/LocalFirstMemoryLayer.md) — Architecture for keeping personal AI memory near private files while using cloud models selectively for general intelligence and fallback compute.
 - [Multimodal Personal Memory](concepts/MultimodalPersonalMemory.md) — Memory pattern that turns audio, video, images, OCR, faces, and documents into retrievable personal context.
 - [Data-to-Memory Transformation](concepts/DataToMemoryTransformation.md) — Process of converting stored files into structured, searchable, reusable, and agent-actionable memory.
