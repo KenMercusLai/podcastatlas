@@ -28,7 +28,7 @@ The Miolane source adds the neuroscience and AI-interpretability side of long-te
 - [[KateCrawford]], [[RebeccaLendl]], [[KevinKelly]], and [[CalculatingEmpires]] — speaker, host, Q&A interlocutor, and mapping project in the AI materiality source.
 - [[IndyJohar]] and [[DarkMatterLabs]] — speaker and organizational context.
 - [[BayoAkomolafe]], [[OrlandBishop]], [[Eshu]], and [[GreatDismalSwamp]] — speaker, named interlocutor, mythic figure, and fugitive place in the untimely source branch.
-- [[StefanSagmeister]], [[LisaKSolomon]], and [[FinallySomethingGood]] — design-and-progress source branch.
+- [[StefanSagmeister]], [[RebeccaLendl]], [[LisaKSolomon]], and [[FinallySomethingGood]] — design-and-progress source branch.
 - [[MelodyJue]] and [[OceanMemoryProject]] — ocean-humanities and art-science source branch.
 - [[EricRies]] and [[Incorruptible]] — institutional-design and mission-governance source branch.
 - [[NinaMiolane]] and [[ClaireIsabelWebb]] — speaker and interviewer for the neural-geometry and consciousness source branch.

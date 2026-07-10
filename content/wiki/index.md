@@ -735,7 +735,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Escape My Bubble](entities/EscapeMyBubble.md) — Krishna Kaliannan's earlier Chrome extension that gained attention but lacked a clear business model.
 - [Doug Behrens](entities/DougBehrens.md) — Catalina Crunch CEO brought in as Krishna Kaliannan shifted toward nutrition focus.
 - [Kate Crawford](entities/KateCrawford.md) — Long Now speaker connecting AI to material infrastructure, extraction, representation, slop, model collapse, and public-interest governance.
-- [Rebecca Lendl](entities/RebeccaLendl.md) — Long Now host introducing Crawford's AI, power, and planetary-resource talk.
+- [Rebecca Lendl](entities/RebeccaLendl.md) — Long Now host introducing Crawford's AI materiality talk and Sagmeister's informed-optimism podcast version.
 - [Kevin Kelly](entities/KevinKelly.md) — Q&A interlocutor pressing Crawford on public AI, sovereign AI, capitalism, and beneficial AI use.
 - [Calculating Empires](entities/CalculatingEmpires.md) — Crawford's timeline and critical cartography project mapping communication, computation, classification, and control since 1500.
 - [Bayo Akomolafe](entities/BayoAkomolafe.md) — Long Now speaker developing the untimely as a decolonial critique of modern time, clock discipline, ancestry, disability, and attention.
@@ -760,7 +760,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anya Yermakova](entities/AnyaYermakova.md) — Collaborator on Invisible Kelp Forest from Smell to Sound, translating underwater olfaction into sound.
 - [Jacob Cram](entities/JacobCram.md) — Collaborator whose kelp-forest and microbial examples connect chemical gradients, chemotaxis, and ocean memory.
 - [Stefan Sagmeister](entities/StefanSagmeister.md) — Designer and Long Now speaker using data, beauty, exhibitions, and physical objects to argue for informed optimism.
-- [Lisa K. Solomon](entities/LisaKSolomon.md) — Long Now host who frames Sagmeister's talk and Q&A around hope, journalism, beauty, constraints, and design's future.
+- [Lisa K. Solomon](entities/LisaKSolomon.md) — Long Now Q&A interlocutor who frames Sagmeister's discussion around hope, journalism, beauty, constraints, and design's future.
 - [Finally Something Good](entities/FinallySomethingGood.md) — Sagmeister project translating long-term progress data into artworks, objects, exhibitions, public installations, and a book.
 - [Tibor Kalman](entities/TiborKalman.md) — Designer and Sagmeister mentor used as an AI-era example of design value coming from point of view and vision.
 - [Indy Johar](entities/IndyJohar.md) — Long Now speaker and Dark Matter Labs co-founder arguing for civilizational optionality under planetary volatility.

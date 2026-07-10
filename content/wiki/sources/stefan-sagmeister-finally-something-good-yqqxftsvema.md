@@ -4,9 +4,13 @@ type: source
 tags: [podcast, long-now, design, optimism, media, data-visualization]
 sources: []
 date: 2026-03-12
-source_file: "/home/ken/repos/podcastatlas/content/episodes/Stefan Sagmeister ｜ Finally, something good. [yqQXFtSVEmA].md"
+source_file: "/home/ken/repos/podcastatlas/content/episodes/02026-sagmeister-podcast-v2 [02026-sagmeister-podcast-v2].md"
+alternate_source_files:
+  - "/home/ken/repos/podcastatlas/content/episodes/Stefan Sagmeister ｜ Finally, something good. [yqQXFtSVEmA].md"
 source_url: "https://longnow.org/talks/02026-sagmeister"
-last_updated: 2026-07-08
+audio_url: "https://podcast.longnow.org/salt/redirect/02026-sagmeister-podcast-v2.mp3"
+duration_seconds: 4129
+last_updated: 2026-07-10
 ---
 
 ## Summary
@@ -34,14 +38,18 @@ This [[LongNow]] talk presents [[StefanSagmeister]]'s argument for [[InformedOpt
 
 ## Connections
 - [[StefanSagmeister]] — speaker and designer using data, beauty, and exhibitions to argue for informed optimism.
-- [[LisaKSolomon]] — Long Now event host who frames the talk and Q&A around hope, reflection, journalism, beauty, and design's future.
+- [[RebeccaLendl]] — Long Now host introducing the podcast version around attention, catastrophe, and long-term perspective.
+- [[LisaKSolomon]] — Q&A interlocutor who frames the discussion around hope, reflection, journalism, beauty, and design's future.
 - [[LongNow]] — host context; this source adds progress communication to the earlier civilizational-optionality branch.
 - [[FinallySomethingGood]] — Sagmeister project translating progress data into artworks, objects, public installations, and a book.
 - [[InformedOptimism]], [[OptimismGap]], [[ShortTermNewsBias]], and [[ApocalypticThinking]] — core diagnosis of pessimism and doom-heavy attention.
 - [[ProgressDataVisualization]], [[BeautyInCommunication]], [[ParticipatoryExhibitions]], and [[DesignUnderConstraints]] — design method used to make long-term progress visible and memorable.
 - [[PositiveJournalism]] and [[PublicServiceJournalism]] — media branch around how reporting might make true positive developments interesting without becoming fluff.
 - [[ClimateAdaptation]] — adjacent climate theme; the source argues that long-term improvement evidence should not erase climate complexity.
-- [[HumanJudgmentUnderAI]] — adjacent AI theme; the source's design answer emphasizes point of view and judgment over tool mastery alone.
+- [[TiborKalman]] and [[HumanJudgmentUnderAI]] — adjacent AI-era design theme; the source's design answer emphasizes point of view and judgment over tool mastery alone.
 
 ## Contradictions
 - None identified. The source qualifies pessimistic media and climate-catastrophe narratives by arguing that danger and progress can both be true at different time scales.
+
+## Source Notes
+- Refreshed on 2026-07-10 from the `02026-sagmeister-podcast-v2` Markdown export. This is the same Long Now episode already represented by this page, so the ingest updated provenance and clarified the podcast host/Q&A roles instead of creating a duplicate source page.
