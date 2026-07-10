@@ -379,6 +379,10 @@
     "title": "AI Mathematician",
     "url": "/wiki/concepts/aimathematician/"
   },
+  "AIMetabolicInfrastructure": {
+    "title": "AI Metabolic Infrastructure",
+    "url": "/wiki/concepts/aimetabolicinfrastructure/"
+  },
   "AINPCSocialInfrastructure": {
     "title": "AI NPC Social Infrastructure",
     "url": "/wiki/concepts/ainpcsocialinfrastructure/"
@@ -462,6 +466,10 @@
   "AISkills": {
     "title": "AI Skills",
     "url": "/wiki/concepts/aiskills/"
+  },
+  "AISlop": {
+    "title": "AI Slop",
+    "url": "/wiki/concepts/aislop/"
   },
   "AISocialNetworks": {
     "title": "AI Social Networks",
@@ -799,6 +807,10 @@
     "title": "American Giants Museum",
     "url": "/wiki/entities/americangiantsmuseum/"
   },
+  "AmericanSportsCapitalInEuropeanFootball": {
+    "title": "American Sports Capital In European Football",
+    "url": "/wiki/concepts/americansportscapitalineuropeanfootball/"
+  },
   "Anaya": {
     "title": "Anaya / 阿那亚",
     "url": "/wiki/entities/anaya/"
@@ -938,6 +950,10 @@
   "Arkema": {
     "title": "Arkema",
     "url": "/wiki/entities/arkema/"
+  },
+  "ArsenalFC": {
+    "title": "Arsenal FC",
+    "url": "/wiki/entities/arsenalfc/"
   },
   "ArtCommerceIntegration": {
     "title": "Art Commerce Integration",
@@ -1423,6 +1439,10 @@
     "title": "ByteDance Growth System",
     "url": "/wiki/concepts/bytedancegrowthsystem/"
   },
+  "CAA": {
+    "title": "CAA",
+    "url": "/wiki/entities/caa/"
+  },
   "CAPEXOPEXSubstitution": {
     "title": "CAPEX OPEX Substitution",
     "url": "/wiki/concepts/capexopexsubstitution/"
@@ -1446,6 +1466,10 @@
   "CabinCrewWork": {
     "title": "Cabin Crew Work",
     "url": "/wiki/concepts/cabincrewwork/"
+  },
+  "CalculatingEmpires": {
+    "title": "Calculating Empires",
+    "url": "/wiki/entities/calculatingempires/"
   },
   "CampusSpeechRegulation": {
     "title": "Campus Speech Regulation",
@@ -1578,6 +1602,14 @@
   "ChatGPT": {
     "title": "ChatGPT",
     "url": "/wiki/entities/chatgpt/"
+  },
+  "ChatbotSafetyGuardrailDecay": {
+    "title": "Chatbot Safety Guardrail Decay",
+    "url": "/wiki/concepts/chatbotsafetyguardraildecay/"
+  },
+  "ChelseaFC": {
+    "title": "Chelsea FC",
+    "url": "/wiki/entities/chelseafc/"
   },
   "Chemosensation": {
     "title": "Chemosensation",
@@ -1751,6 +1783,10 @@
     "title": "Clean Break Divorce Model",
     "url": "/wiki/concepts/cleanbreakdivorcemodel/"
   },
+  "ClearlakeCapital": {
+    "title": "Clearlake Capital",
+    "url": "/wiki/entities/clearlakecapital/"
+  },
   "Clico": {
     "title": "Clico",
     "url": "/wiki/entities/clico/"
@@ -1815,9 +1851,17 @@
     "title": "Colonial Temporal Discipline",
     "url": "/wiki/concepts/colonialtemporaldiscipline/"
   },
+  "ColumbiaUniversity": {
+    "title": "Columbia University",
+    "url": "/wiki/entities/columbiauniversity/"
+  },
   "CommodityPriceExposure": {
     "title": "Commodity Price Exposure",
     "url": "/wiki/concepts/commoditypriceexposure/"
+  },
+  "CommonSenseMedia": {
+    "title": "Common Sense Media",
+    "url": "/wiki/entities/commonsensemedia/"
   },
   "CommunicationBoundarySetting": {
     "title": "Communication Boundary Setting",
@@ -2123,6 +2167,10 @@
     "title": "大琪",
     "url": "/wiki/entities/daqi/"
   },
+  "DariaGeorgievich": {
+    "title": "Daria Georgievich",
+    "url": "/wiki/entities/dariageorgievich/"
+  },
   "DarioAmodei": {
     "title": "Dario Amodei",
     "url": "/wiki/entities/darioamodei/"
@@ -2190,6 +2238,10 @@
   "Daxiong": {
     "title": "大雄",
     "url": "/wiki/entities/daxiong/"
+  },
+  "DeFactoSuperLeagueLogic": {
+    "title": "De Facto Super League Logic",
+    "url": "/wiki/concepts/defactosuperleaguelogic/"
   },
   "DeathWithDignity": {
     "title": "Death with Dignity",
@@ -2879,6 +2931,10 @@
     "title": "枫言枫语",
     "url": "/wiki/entities/fengyanfengyu/"
   },
+  "FenwaySportsGroup": {
+    "title": "Fenway Sports Group",
+    "url": "/wiki/entities/fenwaysportsgroup/"
+  },
   "Ferrari": {
     "title": "Ferrari",
     "url": "/wiki/entities/ferrari/"
@@ -2991,9 +3047,21 @@
     "title": "Football Club Control Risk",
     "url": "/wiki/concepts/footballclubcontrolrisk/"
   },
+  "FootballClubFinancialEngineering": {
+    "title": "Football Club Financial Engineering",
+    "url": "/wiki/concepts/footballclubfinancialengineering/"
+  },
+  "FootballCommercializationFanConflict": {
+    "title": "Football Commercialization Fan Conflict",
+    "url": "/wiki/concepts/footballcommercializationfanconflict/"
+  },
   "FootballContractEnforcementRisk": {
     "title": "Football Contract Enforcement Risk",
     "url": "/wiki/concepts/footballcontractenforcementrisk/"
+  },
+  "FootballTransferReceivablesFinance": {
+    "title": "Football Transfer Receivables Finance",
+    "url": "/wiki/concepts/footballtransferreceivablesfinance/"
   },
   "ForeignBankingInChina": {
     "title": "Foreign Banking In China",
@@ -3290,6 +3358,10 @@
   "Glamour": {
     "title": "Glamour",
     "url": "/wiki/entities/glamour/"
+  },
+  "GlazerFamily": {
+    "title": "Glazer Family",
+    "url": "/wiki/entities/glazerfamily/"
   },
   "GlobalProductLocalization": {
     "title": "Global Product Localization",
@@ -3803,6 +3875,10 @@
     "title": "IM Agent Interfaces",
     "url": "/wiki/concepts/imagentinterfaces/"
   },
+  "INEOS": {
+    "title": "INEOS",
+    "url": "/wiki/entities/ineos/"
+  },
   "IPOwnership": {
     "title": "IP Ownership",
     "url": "/wiki/concepts/ipownership/"
@@ -4163,6 +4239,10 @@
     "title": "Jie Dechen",
     "url": "/wiki/entities/jiedechen/"
   },
+  "JimRatcliffe": {
+    "title": "Jim Ratcliffe",
+    "url": "/wiki/entities/jimratcliffe/"
+  },
   "JimSimons": {
     "title": "Jim Simons",
     "url": "/wiki/entities/jimsimons/"
@@ -4319,6 +4399,10 @@
     "title": "Kaseya",
     "url": "/wiki/entities/kaseya/"
   },
+  "KateCrawford": {
+    "title": "Kate Crawford",
+    "url": "/wiki/entities/katecrawford/"
+  },
   "KatherineMaher": {
     "title": "Katherine Maher",
     "url": "/wiki/entities/katherinemaher/"
@@ -4371,6 +4455,10 @@
     "title": "Kenan Voice Changer",
     "url": "/wiki/entities/kenanvoicechanger/"
   },
+  "KevinKelly": {
+    "title": "Kevin Kelly",
+    "url": "/wiki/entities/kevinkelly/"
+  },
   "KimberlyBecker": {
     "title": "Kimberly Becker",
     "url": "/wiki/entities/kimberlybecker/"
@@ -4406,6 +4494,10 @@
   "KrishnaKaliannan": {
     "title": "Krishna Kaliannan",
     "url": "/wiki/entities/krishnakaliannan/"
+  },
+  "KroenkeSportsEntertainment": {
+    "title": "Kroenke Sports & Entertainment",
+    "url": "/wiki/entities/kroenkesportsentertainment/"
   },
   "Kuaishou": {
     "title": "Kuaishou",
@@ -4703,6 +4795,10 @@
     "title": "Live-Action Short Drama",
     "url": "/wiki/concepts/liveactionshortdrama/"
   },
+  "LiverpoolFC": {
+    "title": "Liverpool FC",
+    "url": "/wiki/entities/liverpoolfc/"
+  },
   "LixinAccounting": {
     "title": "立信会计",
     "url": "/wiki/entities/lixinaccounting/"
@@ -4919,6 +5015,10 @@
     "title": "Mall Based Retail Expansion",
     "url": "/wiki/concepts/mallbasedretailexpansion/"
   },
+  "ManchesterUnited": {
+    "title": "Manchester United",
+    "url": "/wiki/entities/manchesterunited/"
+  },
   "MandySuzanneWong": {
     "title": "Mandy Suzanne Wong",
     "url": "/wiki/entities/mandysuzannewong/"
@@ -4994,6 +5094,10 @@
   "MarketRegimeShift": {
     "title": "Market Regime Shift",
     "url": "/wiki/concepts/marketregimeshift/"
+  },
+  "MarketplaceTech": {
+    "title": "Marketplace Tech",
+    "url": "/wiki/entities/marketplacetech/"
   },
   "MarriageExitFriction": {
     "title": "Marriage Exit Friction",
@@ -5278,6 +5382,10 @@
   "ModelAsOperatingSystem": {
     "title": "Model As Operating System",
     "url": "/wiki/concepts/modelasoperatingsystem/"
+  },
+  "ModelCollapse": {
+    "title": "Model Collapse",
+    "url": "/wiki/concepts/modelcollapse/"
   },
   "ModelContainerStrategy": {
     "title": "Model Container Strategy",
@@ -6167,6 +6275,10 @@
     "title": "Pre-Product Selling",
     "url": "/wiki/concepts/preproductselling/"
   },
+  "PremierLeague": {
+    "title": "Premier League",
+    "url": "/wiki/entities/premierleague/"
+  },
   "PremiumEverydayBrandTension": {
     "title": "Premium-Everyday Brand Tension",
     "url": "/wiki/concepts/premiumeverydaybrandtension/"
@@ -6278,6 +6390,10 @@
   "PubMed": {
     "title": "PubMed",
     "url": "/wiki/entities/pubmed/"
+  },
+  "PublicInterestAI": {
+    "title": "Public Interest AI",
+    "url": "/wiki/concepts/publicinterestai/"
   },
   "PublicMediaEmergencyAccess": {
     "title": "Public Media Emergency Access",
@@ -6423,6 +6539,10 @@
     "title": "Rebecca Jackson",
     "url": "/wiki/entities/rebeccajackson/"
   },
+  "RebeccaLendl": {
+    "title": "Rebecca Lendl",
+    "url": "/wiki/entities/rebeccalendl/"
+  },
   "ReceivablesRisk": {
     "title": "Receivables Risk",
     "url": "/wiki/concepts/receivablesrisk/"
@@ -6494,6 +6614,10 @@
   "RelationshipLedGrowth": {
     "title": "Relationship-Led Growth",
     "url": "/wiki/concepts/relationshipledgrowth/"
+  },
+  "RelevantSports": {
+    "title": "Relevant Sports",
+    "url": "/wiki/entities/relevantsports/"
   },
   "RenNing": {
     "title": "任宁 / Ren Ning",
@@ -7267,6 +7391,10 @@
     "title": "Stablecoins",
     "url": "/wiki/concepts/stablecoins/"
   },
+  "StadiumRealEstateEconomics": {
+    "title": "Stadium Real Estate Economics",
+    "url": "/wiki/concepts/stadiumrealestateeconomics/"
+  },
   "StageAppropriateHiring": {
     "title": "Stage-Appropriate Hiring",
     "url": "/wiki/concepts/stageappropriatehiring/"
@@ -7278,6 +7406,10 @@
   "StandardChartered": {
     "title": "Standard Chartered",
     "url": "/wiki/entities/standardchartered/"
+  },
+  "StanfordUniversity": {
+    "title": "Stanford University",
+    "url": "/wiki/entities/stanforduniversity/"
   },
   "StanleyDruckenmiller": {
     "title": "Stanley Druckenmiller",
@@ -7443,6 +7575,10 @@
     "title": "Sustainable Growth Pace",
     "url": "/wiki/concepts/sustainablegrowthpace/"
   },
+  "SycophanticAICompanionRisk": {
+    "title": "Sycophantic AI Companion Risk",
+    "url": "/wiki/concepts/sycophanticaicompanionrisk/"
+  },
   "Symbian": {
     "title": "Symbian",
     "url": "/wiki/entities/symbian/"
@@ -7535,6 +7671,10 @@
     "title": "Tea Maker",
     "url": "/wiki/entities/teamaker/"
   },
+  "TeamMarketing": {
+    "title": "Team Marketing",
+    "url": "/wiki/entities/teammarketing/"
+  },
   "TechnicalAnalysisLimits": {
     "title": "Technical Analysis Limits",
     "url": "/wiki/concepts/technicalanalysislimits/"
@@ -7546,6 +7686,10 @@
   "TechnologyInstallationCycle": {
     "title": "Technology Installation Cycle",
     "url": "/wiki/concepts/technologyinstallationcycle/"
+  },
+  "TeenChatbotMentalHealthRisk": {
+    "title": "Teen Chatbot Mental Health Risk",
+    "url": "/wiki/concepts/teenchatbotmentalhealthrisk/"
   },
   "Telangana": {
     "title": "Telangana",
@@ -7698,6 +7842,10 @@
   "TocquevilleRoadTrip": {
     "title": "Tocqueville Road Trip",
     "url": "/wiki/entities/tocquevilleroadtrip/"
+  },
+  "ToddBoehly": {
+    "title": "Todd Boehly",
+    "url": "/wiki/entities/toddboehly/"
   },
   "TokenDrivenSoftware": {
     "title": "Token-Driven Software",
@@ -9019,6 +9167,10 @@
     "title": "E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地",
     "url": "/wiki/sources/e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di/"
   },
+  "e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan": {
+    "title": "E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛",
+    "url": "/wiki/sources/e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan/"
+  },
   "e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0": {
     "title": "E42 孟岩对话韦青：沉默的主角",
     "url": "/wiki/sources/e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0/"
@@ -9279,6 +9431,10 @@
     "title": "Justin's Nut Butter: Justin Gold. He Was Waiting Tables, Then...He Reinvented Peanut Butter.",
     "url": "/wiki/sources/justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b/"
   },
+  "kate-crawford-mapping-empires": {
+    "title": "Kate Crawford: Mapping Empires",
+    "url": "/wiki/sources/kate-crawford-mapping-empires/"
+  },
   "keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b": {
     "title": "Keep qualms and carry on: a decade after Brexit",
     "url": "/wiki/sources/keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b/"
@@ -9466,6 +9622,10 @@
   "ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939": {
     "title": "UGG: Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company.",
     "url": "/wiki/sources/ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939/"
+  },
+  "using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds": {
+    "title": "Using AI chatbots for mental health support poses serious risks for teens, report finds",
+    "url": "/wiki/sources/using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds/"
   },
   "vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1": {
     "title": "Vol. 160 一年多以后，再聊AI写代码Vibe Coding",

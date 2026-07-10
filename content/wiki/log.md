@@ -1795,3 +1795,11 @@ Ran lint after health passed. Deterministic checks found three orphan pages (`wi
 ## [2026-07-10] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-09 with 2,261 nodes and 21,670 edges; they found no hub stubs, eight fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-10] ingest | Indy Johar: Civilizational Optioneering
+
+Refreshed the existing Long Now source page for Indy Johar's "Civilizational Optioneering" from `/home/ken/repos/podcastatlas/content/episodes/02026-johar-podcast-v2 [02026-johar-podcast-v2].md`. The file matched the already-ingested episode, so no duplicate source page was created; provenance was updated with the new source file, alternate source file, audio URL, duration, and a source note. Existing pages for Indy Johar, Dark Matter Labs, Long Now, James Lovelock, Civilizational Optionality, Systemic Degenerative Volatility, Planetary Self-Awareness, Foundational Economies, Existutions, Outcome Accelerators, Bioregional Resilience, Doubt as Intelligence, and Climate Adaptation already covered the episode's claims. No direct contradiction found.
+
+## [2026-07-10] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used stale `graph/graph.json` data built on 2026-07-09 with 2,261 nodes and 21,670 edges while the wiki scan found 2,431 pages; they found no hub stubs, eight fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.

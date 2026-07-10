@@ -4,9 +4,13 @@ type: source
 tags: [podcast, long-now, climate, governance, systems-thinking]
 sources: []
 date: 2026-02-12
-source_file: "/home/ken/repos/podcastatlas/content/episodes/Indy Johar ｜ Civilizational Optioneering [TyEYt7R_zFU].md"
+source_file: "/home/ken/repos/podcastatlas/content/episodes/02026-johar-podcast-v2 [02026-johar-podcast-v2].md"
+alternate_source_files:
+  - "/home/ken/repos/podcastatlas/content/episodes/Indy Johar ｜ Civilizational Optioneering [TyEYt7R_zFU].md"
 source_url: "https://longnow.org/talks/02026-johar"
-last_updated: 2026-07-08
+audio_url: "https://podcast.longnow.org/salt/redirect/02026-johar-podcast-v2.mp3"
+duration_seconds: 4066
+last_updated: 2026-07-10
 ---
 
 ## Summary
@@ -46,3 +50,6 @@ This [[LongNow]] talk presents [[IndyJohar]]'s argument that long-term thinking 
 
 ## Contradictions
 - None identified. The source extends existing AI, space, governance, and ecological-economics branches by moving their shared question from capability or growth toward planetary coordination and optionality.
+
+## Source Notes
+- Refreshed on 2026-07-10 from the `02026-johar-podcast-v2` Markdown export. This is the same Long Now episode already represented by this page, so the ingest updated provenance instead of creating a duplicate source page.
