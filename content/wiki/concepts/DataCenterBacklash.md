@@ -2,7 +2,7 @@
 title: "Data Center Backlash"
 type: concept
 tags: [ai, infrastructure, local-politics]
-sources: [tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, kate-crawford-mapping-empires, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
+sources: [tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, kate-crawford-mapping-empires, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
 last_updated: 2026-07-10
 ---
 
@@ -18,6 +18,8 @@ The concept extends the wiki's AI infrastructure branch from technical continuit
 
 [[tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128]] adds the tax-incentive version. If states waive sales, electricity, or property-tax revenue to attract facilities that create limited permanent jobs, [[DataCenterTaxIncentives]] can become another reason communities question whether AI infrastructure benefits are fairly shared.
 
+[[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]] adds the financing-delay version. The episode discusses an [[Oracle]]-linked Michigan project where local rezoning pushback, a lawsuit and settlement, and utility-price concerns are tied to [[BlueOwlCapital]]'s reported withdrawal from project financing. In that frame, backlash can become part of [[DataCenterDebtRisk]], not only a civic or regulatory issue.
+
 ## Key Claims
 - AI infrastructure can become politically salient because data centers are visible, local, energy-intensive, and hard to separate from broader AI anxiety.
 - Opposition may mix concrete siting concerns with wider skepticism about technological change and concentrated tech power.
@@ -26,6 +28,7 @@ The concept extends the wiki's AI infrastructure branch from technical continuit
 - Data-center backlash can also be a response to pollution, water use, grid stress, and environmental racism rather than only to noise or building scale.
 - Higher electricity bills and perceived cost shifting can turn data-center opposition into a utility-rate and election issue.
 - Foregone public revenue and minimum-job optimization can turn data-center opposition into a tax-policy and economic-development issue.
+- Local pushback can affect capital availability when lenders or investors see permitting, rezoning, and community opposition as project-execution risk.
 
 ## Connections
 - [[AIBacklashPolitics]] - broader public-opinion frame.
@@ -37,3 +40,4 @@ The concept extends the wiki's AI infrastructure branch from technical continuit
 - [[DataCenterTaxIncentives]], [[NicholasMiller]], and [[NationalConferenceOfStateLegislatures]] - tax-policy branch added by the later Marketplace Tech episode.
 - [[UnitedStates]] - country context for the episode's data-center opposition segment.
 - [[AIMetabolicInfrastructure]] and [[XAI]] - resource and company case added by the Crawford source.
+- [[Oracle]], [[BlueOwlCapital]], and [[DataCenterDebtRisk]] - finance-linked backlash branch added by the 2025-12-19 Marketplace Tech source.

@@ -2,7 +2,7 @@
 title: "Megan McCarty-Corino"
 type: entity
 tags: [journalist, podcast, technology]
-sources: [tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, tech-20251217-1217-mp-tech-pod-128-tech-20251217-1217-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, 3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt]
+sources: [tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, tech-20251217-1217-mp-tech-pod-128-tech-20251217-1217-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, 3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt]
 last_updated: 2026-07-10
 ---
 
@@ -22,6 +22,8 @@ Her role in the wiki is mainly as interview context. The episode uses her questi
 
 [[tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]] adds McCarty-Corino as the host of an [[AISearchAdvertising]] episode with [[GarrettJohnson]]. Her questions frame AI ads around user competition, advertiser scale, [[Perplexity]]'s reported pullback, [[OpenAI]] commerce partnerships, and the shift from SEO toward [[GenerativeEngineOptimization]].
 
+[[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]] adds McCarty-Corino in the weekly Bytes format with [[AnitaRamaswamy]]. The episode frames AI's business consequences across [[MicronTechnology]] and [[HighBandwidthMemory]], [[Oracle]] and [[DataCenterDebtRisk]], local data-center opposition, and [[AISlop]] as [[MerriamWebster]]'s 2025 word-of-the-year signal.
+
 ## Connections
 - [[MarketplaceTech]] - show context.
 - [[BrittYoung]] - interview guest.
@@ -31,3 +33,4 @@ Her role in the wiki is mainly as interview context. The episode uses her questi
 - [[NicholasMiller]], [[NationalConferenceOfStateLegislatures]], and [[DataCenterTaxIncentives]] - data-center tax-policy topics added by the 2025-12-16 source.
 - [[CoreyStaley]], [[Indeed]], [[TechHiringStabilization]], and [[TechJobPostingIndex]] - tech labor-market topics added by the 2025-12-17 source.
 - [[GarrettJohnson]], [[BostonUniversity]], [[AISearchAdvertising]], and [[GenerativeEngineOptimization]] - AI search advertising topics added by the 2025-12-18 source.
+- [[AnitaRamaswamy]], [[MicronTechnology]], [[HighBandwidthMemory]], [[Oracle]], [[DataCenterDebtRisk]], and [[AISlop]] - weekly AI market and media-quality topics added by the 2025-12-19 source.

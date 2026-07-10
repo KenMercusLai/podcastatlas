@@ -1804,6 +1804,10 @@ Refreshed the existing Long Now source page for Bayo Akomolafe's "The Untimely" 
 
 Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used stale `graph/graph.json` data built on 2026-07-09 with 2,261 nodes while the wiki scan found 2,413 pages; they found no hub stubs, eight fragile bridges, and no isolated communities, but should be rerun after `build graph`. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
 
+## [2026-07-10] ingest | Bytes: Week in Review - Micron's big earnings, Oracle's data center woes and "slop" is Merriam-Webster's word of the year
+
+Added source page for a Marketplace Tech Bytes episode with Anita Ramaswamy of The Information on Micron's AI memory boom, high-bandwidth memory, consumer storage pressure, Oracle's reported OpenAI cloud deal, Oracle data-center debt risk, Blue Owl's reported project withdrawal, local data-center backlash, and AI slop becoming Merriam-Webster's 2025 word of the year. Created pages for Anita Ramaswamy, The Information, Micron Technology, SK Hynix, Blue Owl Capital, Merriam-Webster, High Bandwidth Memory, AI Hardware Supply Chain Pressure, and Data Center Debt Risk; updated overview, index, Marketplace Tech, Megan McCarty-Corino, OpenAI, Oracle, Nvidia, Samsung, Data Center Backlash, Data Center Cost Shifting, AI Slop, and Model Collapse. No direct contradiction found; the source connects AI growth to component supply, debt-financed infrastructure, local permitting risk, utility bills, and consumer frustration with synthetic media.
+
 ## [2026-07-10] ingest | Kate Crawford: Mapping Empires
 
 Added source page for a Long Now talk on AI as material infrastructure, historical empire, extraction, representational power, AI slop, model collapse, minerals, data centers, water, and public-interest AI. Created pages for Kate Crawford, Rebecca Lendl, Kevin Kelly, Calculating Empires, AI Metabolic Infrastructure, AI Slop, Model Collapse, and Public Interest AI; updated overview, index, Long Now, xAI, Data Center Backlash, Data Center Thermal Management, Jevons Paradox In AI, Critical Minerals Geopolitics, AI Literacy Against Worship, AI Content Devaluation, and AI Recognition Bias. No direct contradiction found; the source qualifies the existing AI infrastructure branch by making environmental cost, extraction, data provenance, and democratic oversight central rather than peripheral.
@@ -1879,6 +1883,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-10] ingest | The challenges of integrating ads in AI search engines
 
 Added source page for the Marketplace Tech episode with Garrett Johnson of Boston University on AI search advertising, including Perplexity's reported ad pullback, the need for advertiser scale and conversion data, OpenAI commerce partnerships with Walmart and Shopify, and the shift from SEO to generative engine optimization. Created pages for Garrett Johnson, Boston University, Walmart, and AI Search Advertising; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Perplexity, Shopify, Netflix, OpenAI, Google, Meta, Amazon, ChatGPT, Gemini, Generative Engine Optimization, AI Search Analytics, AI Discovery SEO, Search Advertising Decline, and Agentic Commerce. No direct contradiction found; the source qualifies AI monetization narratives by showing that ad-funded AI search must balance user trust, sponsored-answer design, advertiser onboarding, and fewer visible answer slots.
+
+## [2026-07-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-10] lint | Wiki health check
 

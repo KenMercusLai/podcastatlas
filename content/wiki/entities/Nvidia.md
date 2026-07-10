@@ -2,8 +2,8 @@
 title: "Nvidia"
 type: entity
 tags: [company, ai, semiconductors, investing]
-sources: [jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076]
-last_updated: 2026-07-09
+sources: [tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076]
+last_updated: 2026-07-10
 ---
 
 # Nvidia
@@ -29,6 +29,8 @@ Nvidia is discussed in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-y
 [[jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1]] adds [[Cosmos3]] as Nvidia's productized [[WorldModels]] marker for embodied AI. [[ChenZhePeter]] treats Cosmos 3 as a more open omni-world-model stack and uses Nvidia's taxonomy of Video World Model, Action-Conditioned World Model, and [[WorldActionModels]] to explain why [[WorldModelVLAFusion]] may matter for robot policies.
 
 [[ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p]] adds Nvidia as an option-selling example through [[DuanYongping]]. The episode says selling calls on an existing Nvidia position can be coherent when the holder accepts sale above a chosen price and treats premium as cost reduction rather than free income.
+
+[[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]] adds Nvidia as the AI memory-intensity reference behind [[HighBandwidthMemory]] demand. [[AnitaRamaswamy]] cites the GB200 as having 192 gigabytes of memory per chip, making Nvidia systems a driver of [[AIHardwareSupplyChainPressure]] for suppliers such as [[MicronTechnology]], [[SKHynix]], and [[Samsung]].
 
 ## Source Position
 - The episode treats Nvidia as a strong company, not as a fraud or failed business.
@@ -61,3 +63,4 @@ Nvidia is discussed in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-y
 - [[XieChen]], [[GuanglunIntelligence]], [[RoboticsSimulationEvaluation]], and [[EmbodiedAI]] — robotics simulation and physical-AI context added by episode 134.
 - [[DuanYongping]] and [[OptionSellingDiscipline]] — EP90's covered-call-style position-management example.
 - [[Cosmos3]], [[WorldModels]], [[WorldActionModels]], and [[WorldModelVLAFusion]] — embodied world-model productization added by the LateTalk source.
+- [[HighBandwidthMemory]], [[MicronTechnology]], [[SKHynix]], and [[Samsung]] — memory-supply branch added by the Marketplace Tech Bytes source.

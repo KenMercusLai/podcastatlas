@@ -339,6 +339,10 @@
     "title": "AI Hackathons",
     "url": "/wiki/concepts/aihackathons/"
   },
+  "AIHardwareSupplyChainPressure": {
+    "title": "AI Hardware Supply Chain Pressure",
+    "url": "/wiki/concepts/aihardwaresupplychainpressure/"
+  },
   "AIHealthManagement": {
     "title": "AI Health Management",
     "url": "/wiki/concepts/aihealthmanagement/"
@@ -863,6 +867,10 @@
     "title": "安徽小木匠 / Anhui Xiao Mujiang",
     "url": "/wiki/entities/anhuixiaomujiang/"
   },
+  "AnitaRamaswamy": {
+    "title": "Anita Ramaswamy",
+    "url": "/wiki/entities/anitaramaswamy/"
+  },
   "Anker2023Lab": {
     "title": "Anker 2023 Lab",
     "url": "/wiki/entities/anker2023lab/"
@@ -1346,6 +1354,10 @@
   "BlueBottleCoffee": {
     "title": "Blue Bottle Coffee / 蓝瓶子",
     "url": "/wiki/entities/bluebottlecoffee/"
+  },
+  "BlueOwlCapital": {
+    "title": "Blue Owl Capital",
+    "url": "/wiki/entities/blueowlcapital/"
   },
   "BobosOatBars": {
     "title": "Bobo's Oat Bars",
@@ -2242,6 +2254,10 @@
   "DataCenterCostShifting": {
     "title": "Data Center Cost Shifting",
     "url": "/wiki/concepts/datacentercostshifting/"
+  },
+  "DataCenterDebtRisk": {
+    "title": "Data Center Debt Risk",
+    "url": "/wiki/concepts/datacenterdebtrisk/"
   },
   "DataCenterPhysicalResilience": {
     "title": "Data Center Physical Resilience",
@@ -3742,6 +3758,10 @@
   "HiSilicon": {
     "title": "HiSilicon",
     "url": "/wiki/entities/hisilicon/"
+  },
+  "HighBandwidthMemory": {
+    "title": "High Bandwidth Memory",
+    "url": "/wiki/concepts/highbandwidthmemory/"
   },
   "HighResponsibilityDensity": {
     "title": "High Responsibility Density",
@@ -5375,6 +5395,10 @@
     "title": "Mercedes F1",
     "url": "/wiki/entities/mercedesf1/"
   },
+  "MerriamWebster": {
+    "title": "Merriam-Webster",
+    "url": "/wiki/entities/merriamwebster/"
+  },
   "Meta": {
     "title": "Meta",
     "url": "/wiki/entities/meta/"
@@ -5410,6 +5434,10 @@
   "MicoWorld": {
     "title": "Mico World",
     "url": "/wiki/entities/micoworld/"
+  },
+  "MicronTechnology": {
+    "title": "Micron Technology",
+    "url": "/wiki/entities/microntechnology/"
   },
   "Microsoft": {
     "title": "Microsoft",
@@ -7019,6 +7047,10 @@
     "title": "SBM Intelligence",
     "url": "/wiki/entities/sbmintelligence/"
   },
+  "SKHynix": {
+    "title": "SK Hynix",
+    "url": "/wiki/entities/skhynix/"
+  },
   "SKTelecom": {
     "title": "SK Telecom",
     "url": "/wiki/entities/sktelecom/"
@@ -7938,6 +7970,10 @@
   "TheContinental": {
     "title": "The Continental",
     "url": "/wiki/entities/thecontinental/"
+  },
+  "TheInformation": {
+    "title": "The Information",
+    "url": "/wiki/entities/theinformation/"
   },
   "TheIntelligence": {
     "title": "The Intelligence",
@@ -9822,6 +9858,10 @@
   "tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128": {
     "title": "The challenges of integrating ads in AI search engines",
     "url": "/wiki/sources/tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128/"
+  },
+  "tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128": {
+    "title": "Bytes: Week in Review - Micron''s big earnings, Oracle''s data center woes and \"slop\" is Merriam-Webster''s word of the year",
+    "url": "/wiki/sources/tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",
