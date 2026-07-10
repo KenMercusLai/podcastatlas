@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛](sources/e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan.md) — 硅谷101 episode on U.S. capital in global football, from Premier League ownership, Manchester United leverage, Arsenal stadium debt, Liverpool/Fenway execution, and Chelsea contract amortization to UEFA rights intermediaries, transfer finance, Super League logic, and fan conflict.
 - [142. 产品体验学日本、全球营销学韩国](sources/142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1.md) — 疯投圈 episode on Japan as product-experience benchmark, Korea as global-marketing and fan-economy benchmark, and cases including Kiyosumi-Shirakawa, Tokyo Disney, Sanrio, Pop Mart, Kyoto, inbound tourism, and China's efficiency tradeoffs.
 - [He demoted his SaaS to sell a service and 4x'd revenue in 12 months](sources/he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months.md) — The SaaS Podcast episode with Farzad Rashidi on Responna's pivot from self-serve outreach SaaS to a done-for-you AI visibility service built around outcomes, publisher relationships, and GEO execution.
 - [Peace fire: further US-Iran strikes](sources/peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf.md) — The Intelligence episode on renewed U.S.-Iran strikes, stalled Hormuz traffic, Khamenei funeral hardliners, Asian filial-piety laws, and Black Route 66 travel history at the Threate Filling Station.
@@ -526,6 +527,21 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sepp Blatter](entities/SeppBlatter.md) — Former FIFA leader used as both expansion-history precedent and corruption-crisis context.
 - [Michel Platini](entities/MichelPlatini.md) — UEFA figure whose damaged FIFA succession path helped create the opening for Infantino.
 - [Joao Havelange](entities/JoaoHavelange.md) — Earlier FIFA president associated with expanding the World Cup to 24 teams in 1982.
+- [Premier League](entities/PremierLeague.md) — English top-flight football league used as the main asset class for analyzing U.S. ownership, global rights, and elite-club commercialization.
+- [Manchester United](entities/ManchesterUnited.md) — Premier League club used as the source's leveraged-ownership and fan-conflict case under the Glazer family and Ratcliffe/INEOS partial entry.
+- [Glazer Family](entities/GlazerFamily.md) — Manchester United owners used as the episode's clearest case of leveraged acquisition, debt burden, and owner extraction.
+- [Jim Ratcliffe](entities/JimRatcliffe.md) — INEOS owner whose Manchester United minority stake is framed as both fan hope and continued financial-structuring risk.
+- [INEOS](entities/INEOS.md) — Industrial group behind Jim Ratcliffe's Manchester United stake and a possible source of more complex rebuilding finance.
+- [Arsenal FC](entities/ArsenalFC.md) — Premier League club used to analyze stadium debt, matchday-income securitization, and later Kroenke-led rebuilding.
+- [Kroenke Sports & Entertainment](entities/KroenkeSportsEntertainment.md) — U.S. sports ownership group linking Arsenal to stadium real estate, event venues, and cross-sport portfolio logic.
+- [Liverpool FC](entities/LiverpoolFC.md) — Premier League club used as the positive professional-sports-group case under Fenway Sports Group.
+- [Fenway Sports Group](entities/FenwaySportsGroup.md) — U.S. sports group whose Liverpool ownership is framed as a successful operator-led version of American football capital.
+- [Chelsea FC](entities/ChelseaFC.md) — Premier League club used as the aggressive financial-experiment case around long player contracts and amortization.
+- [Todd Boehly](entities/ToddBoehly.md) — Public-facing Chelsea ownership figure tied to the source's long-contract accounting experiment.
+- [Clearlake Capital](entities/ClearlakeCapital.md) — Private-capital participant in Chelsea ownership used to represent American financial experimentation in elite football.
+- [CAA](entities/CAA.md) — Agency connected to UEFA competition commercialization and the rights-intermediation layer of American sports capital.
+- [Relevant Sports](entities/RelevantSports.md) — U.S.-background sports company framed as displacing Team Marketing in UEFA club-competition commercial development.
+- [Team Marketing](entities/TeamMarketing.md) — Incumbent UEFA club-competition commercial partner used as contrast for newer American rights intermediaries.
 - [旧世代](entities/Jiushidai.md) — Podcast/show context for the episode on PlayStation physical-disc decline, digital ownership anxiety, and post-ownership.
 - [Sony](entities/Sony.md) — Company discussed through the source-reported move away from new PlayStation physical discs and toward digital store control.
 - [PlayStation](entities/PlayStation.md) — Sony console platform used to analyze physical-media decline, secondhand circulation, and digital ownership anxiety.
@@ -1535,6 +1551,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [K-Beauty Global Trust](concepts/KBeautyGlobalTrust.md) — Beauty-category trust mechanism combining Korean aesthetics, skincare routines, medical-aesthetic associations, social video, and celebrity taste.
 - [Housing Experience Investment Split](concepts/HousingExperienceInvestmentSplit.md) — Real-estate discipline separating a home as lived consumption from property as an illiquid investment asset.
 - [Chinese Player Overseas Arbitrage](concepts/ChinesePlayerOverseasArbitrage.md) — Thesis that European lower-tier experience could raise Chinese players' market value before returning to China's inflated football market.
+- [American Sports Capital In European Football](concepts/AmericanSportsCapitalInEuropeanFootball.md) — Frame for U.S. influence in European football through ownership, rights agencies, transfer finance, stadiums, and competition design.
+- [Football Club Financial Engineering](concepts/FootballClubFinancialEngineering.md) — Use of leverage, securitization, contract accounting, refinancing, and stake sales to reshape club value and risk.
+- [Stadium Real Estate Economics](concepts/StadiumRealEstateEconomics.md) — Treating stadiums as year-round venue, hospitality, sponsorship, and development assets rather than only matchday facilities.
+- [Football Transfer Receivables Finance](concepts/FootballTransferReceivablesFinance.md) — Financing pattern where future transfer installments become discounted cash-flow instruments for clubs and banks.
+- [De Facto Super League Logic](concepts/DeFactoSuperLeagueLogic.md) — Super League-like concentration through elite competition inventory, rights structures, and repeated club advantages without formal breakaway.
+- [Football Commercialization Fan Conflict](concepts/FootballCommercializationFanConflict.md) — Tension between clubs as local supporter institutions and clubs as global sports assets monetized through capital, rights, venues, and pricing.
 - [Football Club As Community Asset](concepts/FootballClubAsCommunityAsset.md) — Lower-tier football club frame where local identity, members, municipal politics, and emotional value weaken ordinary company-style ROI logic.
 - [Football Club Control Risk](concepts/FootballClubControlRisk.md) — Gap between formal football-club titles and actual authority over players, budgets, members, old operators, and local relationships.
 - [Football Contract Enforcement Risk](concepts/FootballContractEnforcementRisk.md) — Risk that player-rights, transfer-upside, or club-control agreements do not convert into cash because counterparties, debt, or opaque arrangements intervene.

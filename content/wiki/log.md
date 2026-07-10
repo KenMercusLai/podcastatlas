@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-10] ingest | E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛
+
+Added source page for a 硅谷101 episode on American capital in global football, from Trump/Infantino and FIFA's U.S. market dependence to Premier League ownership, Manchester United leverage, Arsenal stadium finance, Liverpool/Fenway execution, Chelsea long-contract accounting, UEFA rights intermediaries, transfer receivables finance, Super League-style concentration, and fan conflict. Created pages for Premier League, Manchester United, Glazer Family, Jim Ratcliffe, INEOS, Arsenal FC, Kroenke Sports & Entertainment, Liverpool FC, Fenway Sports Group, Chelsea FC, Todd Boehly, Clearlake Capital, CAA, Relevant Sports, Team Marketing, American Sports Capital In European Football, Football Club Financial Engineering, Stadium Real Estate Economics, Football Transfer Receivables Finance, De Facto Super League Logic, and Football Commercialization Fan Conflict; updated overview, index, Silicon Valley 101, FIFA, UEFA, Gianni Infantino, Donald Trump, United States, Sports Media Rights, Sports Entertainment Flywheel, Football Club As Community Asset, League Stakeholder Alignment, Fat League Economics, JPMorgan Chase, and Goldman Sachs. No direct contradiction found; the source extends the football-business branch by adding the ownership, finance, rights-intermediation, and fan-conflict layers behind tournament commercialization.
+
 ## [2026-07-09] ingest | Vol.264 把世界杯作为方法
 
 Added source page for a 商业就是这样 episode using the 2026 FIFA World Cup as a method for reading Chinese platform-rights competition, offline brand activation, Chinese sponsor globalization, technology partnerships, and football lifestyle consumption. Created pages for China Central Television, Migu, Hisense, Lenovo, Mengniu, Wanda Group, Yingli Green Energy, Sports Rights Growth Engine, Offline Brand Activation, Global Sports Sponsorship, and Sports Lifestyle Consumption; updated overview, index, Shangye Jiushi Zheyang, FIFA, FIFA World Cup, Xiaohongshu, Adidas, Sports Media Rights, Sports Entertainment Flywheel, Experiential Retail, Chinese Hardware Globalization, Consumer Brand Moat, and Global Product Localization. No direct contradiction found; the source complements the earlier FIFA expansion source by shifting from governance and match inventory to marketing, media distribution, sponsor trust, and lifestyle consumption.
@@ -1759,6 +1763,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-10] ingest | 142. 产品体验学日本、全球营销学韩国
 
 Added source page for a 疯投圈 episode on Japan product experience, Korea global marketing, and China's efficiency/experience tradeoff. Created pages for Kiyosumi-Shirakawa, Sanrio, Hello Kitty, Tokyo Disney Resort, Anaya, Kyoto, OLIVE YOUNG, BLACKPINK, Experience-Led Brand, Authentic Neighborhood Experience, Long-Term Place Operation, Image-First IP, Inbound Tourism Brand Discovery, and Fan Economy; updated overview, index, FengTouQuan, Japan, South Korea, China, Pop Mart, Blue Bottle Coffee, AI Resistant Experiential Consumption, Korean Culture Led Consumer Marketing, Experiential Retail, Consumer Brand Moat, Entertainment IP Flywheel, Theme Park As Media Platform, and Heritage Tourism Commercialization. No direct contradiction found; the source extends episode 137's AI-resistant experience branch by making Japan the main product-experience case and Korea the explicit global-marketing comparison.
+
+## [2026-07-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-10] lint | Wiki health check
 

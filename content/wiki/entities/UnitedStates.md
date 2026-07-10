@@ -2,8 +2,8 @@
 title: "United States"
 type: entity
 tags: [country, politics, culture, sports, geopolitics]
-sources: [marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c, trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7, trailer-tocqueville-road-trip-6a315920101389aa3d42d134, trailer-tocqueville-road-trip-6a315813780d0f7579afb892, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]
-last_updated: 2026-07-09
+sources: [marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c, trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7, trailer-tocqueville-road-trip-6a315920101389aa3d42d134, trailer-tocqueville-road-trip-6a315813780d0f7579afb892, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan]
+last_updated: 2026-07-10
 ---
 
 # United States
@@ -17,6 +17,8 @@ The [[UnitedStates]] is the central subject of [[the-250-year-experiment-america
 The page also connects earlier wiki branches that used America more indirectly. [[NATOAllianceCredibility]] and [[EuropeanDefenseAutonomy]] depend on whether U.S. command, intelligence, and military integration remain reliable; [[USIranNuclearDiplomacy]] depends on U.S. bargaining credibility; and [[Route66NostalgiaTourism]] shows how American mobility myths and roadside identity can keep cultural value alive after infrastructure loses practical utility.
 
 [[shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969]] adds the United States as a sports-business host market. The source argues that U.S. stadium infrastructure, sponsor demand, ticketing norms, resale platforms, and hospitality economics amplify the commercial value of the expanded 2026 [[FIFAWorldCup]].
+
+[[e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan]] extends the sports branch from host market to capital system. The episode treats the United States as a source of football ownership capital, sports-franchise valuation logic, stadium-real-estate playbooks, rights agencies such as [[CAA]] and [[RelevantSports]], and banks involved in [[FootballTransferReceivablesFinance]].
 
 [[fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b]] adds a disaster-recovery and intervention-responsibility case. The episode says the United States sent rescue teams, military personnel, and a vessel toward [[Venezuela]] after the earthquakes, while former officials argued that reconstruction would require a much larger commitment. Because Washington had already intervened heavily in Venezuelan politics, the source frames U.S. recovery aid as tied to stabilization and the promised [[DemocraticTransitionElection]].
 
@@ -41,6 +43,7 @@ The page also connects earlier wiki branches that used America more indirectly. 
 - [[AmericanCulturalExports]], [[Route66NostalgiaTourism]], and [[EntertainmentIPFlywheel]] - culture and media branch.
 - [[DonaldTrump]], [[NATOAllianceCredibility]], and [[USIranNuclearDiplomacy]] - existing wiki branches where U.S. leadership or policy behavior shapes international risk.
 - [[FIFAWorldCup]], [[WorldCupExpansion]], [[SportsEventTicketing]], and [[CorporateHospitalityPlatform]] - sports-business host-market branch added by the FIFA source.
+- [[AmericanSportsCapitalInEuropeanFootball]], [[PremierLeague]], [[StadiumRealEstateEconomics]], [[FootballTransferReceivablesFinance]], and [[FootballCommercializationFanConflict]] - football-capital branch added by Silicon Valley 101.
 - [[Venezuela]], [[DisasterResponseStateCapacity]], and [[DemocraticTransitionElection]] - earthquake-recovery and political-transition branch added by The Intelligence.
 - [[LatinAmerica]], [[DonroeDoctrine]], [[LatinAmericaInvestmentBoom]], [[China]], and [[CriticalMineralsGeopolitics]] - near-abroad investment and strategic-resource branch added by The Intelligence.
 - [[AIBacklashPolitics]], [[JoshHawley]], and [[DataCenterBacklash]] - AI regulation, child-safety anxiety, and data-center opposition branch added by The Intelligence.
