@@ -3323,6 +3323,10 @@
     "title": "Garfield AI",
     "url": "/wiki/entities/garfieldai/"
   },
+  "GaryMarcus": {
+    "title": "Gary Marcus",
+    "url": "/wiki/entities/garymarcus/"
+  },
   "Gemini": {
     "title": "Gemini",
     "url": "/wiki/entities/gemini/"
@@ -4570,6 +4574,10 @@
   "Kyoto": {
     "title": "Kyoto / 京都",
     "url": "/wiki/entities/kyoto/"
+  },
+  "LLMWorldModelGap": {
+    "title": "LLM World Model Gap",
+    "url": "/wiki/concepts/llmworldmodelgap/"
   },
   "LOVOT": {
     "title": "LOVOT",
@@ -9738,6 +9746,10 @@
   "tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128": {
     "title": "Bytes: Week in Review - Apple's leadership departures raises concerns over its AI future",
     "url": "/wiki/sources/tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128/"
+  },
+  "tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128": {
+    "title": "A case for AI models that understand, not just predict, the way the world works",
+    "url": "/wiki/sources/tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",

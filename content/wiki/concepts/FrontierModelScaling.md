@@ -2,8 +2,8 @@
 title: "Frontier Model Scaling"
 type: concept
 tags: [models, scaling, infrastructure]
-sources: [duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
-last_updated: 2026-07-08
+sources: [tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
+last_updated: 2026-07-10
 ---
 
 # Frontier Model Scaling
@@ -17,6 +17,8 @@ Frontier model scaling is the attempt to improve AI capability by increasing mod
 [[ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh]] adds a materials-model case. [[LuZiheng]] says [[MatterSim]] helped [[Kaiwuji]] believe that broader training could generalize across material properties, while [[MatterGen]] and diffusion-style generation point toward scalable candidate generation for [[AIMaterialsDiscovery]].
 
 [[biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1]] adds a user-facing scaling doubt. Around the releases of Claude 3.7 and [[ChatGPT]] 4.5, the hosts speculate that simply expanding data and model size may be running into visible constraints because high-quality new human text is finite.
+
+[[tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128]] adds [[GaryMarcus]]'s stronger scaling-skeptical view. He argues that many people in AI have realized that more data and compute are not delivering AGI, and that improvements after the large 2020-2023 jumps look more incremental. The source uses this as part of the motivation for [[WorldModels]] and [[LLMWorldModelGap]], while leaving a live tension with sources that caution against premature scaling-wall claims.
 
 [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]] adds a policy-facing scaling doubt. The hosts discuss scaling law, parameter size, smaller models, edge models, and AGI uncertainty while arguing that current assistant-level usefulness is already commercially important. They use [[GLM52]] to show that long-context and coding improvements can narrow perceived gaps even if top closed models remain stronger.
 
@@ -40,6 +42,7 @@ Frontier model scaling is the attempt to improve AI capability by increasing mod
 - In materials, scaling is judged by whether models can generalize across properties and reduce experiment, not only by benchmark scores.
 - Training materials models can dominate early company cost because compute and AI talent are expensive even before production scale-up.
 - User perception of a new model release can become part of the scaling debate when larger models feel more polished but not categorically different.
+- Marcus's Marketplace Tech argument treats the search for world models as a response to smaller perceived gains from pure data-and-compute scaling.
 - Scaling debates are not only technical: perceived danger can trigger [[AIExportControls]], while "good enough" open models can change user behavior even before they lead benchmarks.
 - LLM scaling may remain useful while ceasing to be the only organizing principle if physical-world prediction, action, memory, and abstraction become the bottleneck.
 - Real-world partner data can become a scaling input when a company pursues [[DecentralizedWorldModelStrategy]] rather than only centralized internet pretraining.
@@ -59,6 +62,7 @@ Frontier model scaling is the attempt to improve AI capability by increasing mod
 - [[StepFun]], [[YinQi]], [[AIPlusTerminals]], and [[LongChainAICompetition]] — foundation-model strategy case linking scaling to terminals and commercialization.
 - [[MatterSim]], [[MatterGen]], [[Kaiwuji]], and [[AIMaterialsDiscovery]] — materials-model scaling case.
 - [[ChatGPT]], [[Anthropic]], and [[DeepSeek]] — model-cycle references added by the Neihe Konghuang episode.
+- [[GaryMarcus]], [[WorldModels]], and [[LLMWorldModelGap]] — scaling-skeptical world-model framing added by Marketplace Tech.
 - [[GLM52]], [[AIExportControls]], and [[OpenSourceAIModels]] — policy and good-enough substitution case added by the Keji Luandun export-control episode.
 - [[XieSaining]], [[AMILabs]], [[RepresentationLearning]], and [[DecentralizedWorldModelStrategy]] — representation-first and real-world-data critique of LLM-centered scaling.
 - [[XieChen]], [[DataAsEducation]], [[DataRecipeCoCreation]], [[EmbodiedDataPyramid]], and [[RoboticsSimulationEvaluation]] — data-recipe and evaluation constraints added by episode 134.

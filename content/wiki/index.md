@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [A case for AI models that understand, not just predict, the way the world works](sources/tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128.md) — Marketplace Tech episode with Gary Marcus on world models, the limits of LLM-style statistical prediction, scene graphs, robotics, video prediction, causation, and why robust AI may need explicit entity/state representations.
 - [Bytes: Week in Review - Apple's leadership departures raises concerns over its AI future](sources/tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Joanna Stern on Apple leadership departures and AI talent pressure, unresolved AI hardware form factors, Warner Bros. Discovery streaming bids, subscription fatigue, and backlash to McDonald's Netherlands' AI-generated Christmas ad.
 - [The little-known regulatory bodies that can make or break AI data centers](sources/the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers.md) — Marketplace Tech episode with Scott Brennan on why state Public Utility Commissions can shape AI data-center growth through grid-upgrade approvals, rate design, upfront payments, long contracts, and protection against ratepayer cost shifting.
 - [The latest TV innovations have their critics](sources/the-latest-tv-innovations-have-their-critics.md) — Marketplace Tech episode on why modern OLED and LED TVs can make movies look jumpy, why motion smoothing creates the soap-opera effect, and why some viewers still prefer plasma displays.
@@ -241,7 +242,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on AI-chatbot risk, prosthetic access, modern TV motion, AI data-center regulation, Apple leadership, streaming consolidation, and AI advertising backlash.
+- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on world models, AI-chatbot risk, prosthetic access, modern TV motion, AI data-center regulation, Apple leadership, streaming consolidation, and AI advertising backlash.
+- [Gary Marcus](entities/GaryMarcus.md) — Cognitive scientist and NYU professor emeritus arguing in Marketplace Tech that robust AI needs world models, entity/state tracking, and causation rather than only statistical sequence prediction.
 - [Joanna Stern](entities/JoannaStern.md) — Technology columnist connecting Apple AI leadership pressure, AI hardware form factors, streaming consolidation, and AI-generated advertising backlash in the Marketplace Tech Bytes episode.
 - [John Ternus](entities/JohnTernus.md) — Apple lead engineer mentioned as a possible future CEO in the episode's Tim Cook succession and AI-era leadership discussion.
 - [Jony Ive](entities/JonyIve.md) — Former Apple designer linked to OpenAI's possible AI device work and the unresolved next-interface question.
@@ -259,7 +261,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dolby](entities/Dolby.md) — Audio-video company linked to selective motion smoothing as a compromise between stutter and the soap-opera effect.
 - [Tom Cruise](entities/TomCruise.md) — Actor referenced through a 2018 PSA warning viewers about the soap-opera effect from motion smoothing.
 - [Britt Young](entities/BrittYoung.md) — Writer and UC Berkeley lecturer grounding the prosthetics episode in lived prosthetic experience, reporting, insurance barriers, and device-classification questions.
-- [Megan McCarty-Corino](entities/MeganMcCartyCorino.md) — Marketplace Tech host framing the question of why 3D printing has not made prosthetic limbs cheap.
+- [Megan McCarty-Corino](entities/MeganMcCartyCorino.md) — Marketplace Tech host framing episodes on world models, prosthetic access, Apple/streaming/AI-ad news, and consumer consequences of technology shifts.
 - [UC Berkeley](entities/UCBerkeley.md) — Institutional affiliation for Britt Young in the Marketplace Tech prosthetics episode.
 - [Open Bionics](entities/OpenBionics.md) — British 3D-printed prosthetics firm discussed as an availability option that still faces insurance-coverage barriers.
 - [Daria Georgievich](entities/DariaGeorgievich.md) — Psychiatrist explaining why consumer chatbots are unsafe mental-health supports for teens, especially in longer conversations.
@@ -1256,7 +1258,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gemini](entities/Gemini.md) — AI assistant/search and coding surface discussed through Peak AI, Gemini CLI, product fragmentation, and assistant workflow comparison.
 - [Gemini CLI](entities/GeminiCLI.md) — Command-line AI coding tool discussed through long-context planning and model-provider tool competition.
 - [Gino Wickman](entities/GinoWickman.md) — EOS founder whose methodology and community created the ecosystem around Ninety's early product.
-- [Google](entities/Google.md) — Company behind Gemini and Android, discussed through AI product surfaces, search-platform comparison, mobile-platform strategy, and TikTok's global-incumbent competitive frame.
+- [Google](entities/Google.md) — Company behind Gemini and Android, discussed through AI product surfaces, world-model interest, search-platform comparison, mobile-platform strategy, and TikTok's global-incumbent competitive frame.
 - [Goldman Sachs](entities/GoldmanSachs.md) — Financial institution referenced in EP57 through retail ownership data, mega-cap concentration data, and bank-stock weakness.
 - [Great Harvest Bread](entities/GreatHarvestBread.md) — Early Boulder retail customer for Justin's Nut Butter.
 - [Hang Seng Tech Index](entities/HangSengTechIndex.md) — Hong Kong technology benchmark discussed through China-tech repricing, Nasdaq linkage, and high-elasticity ETF behavior.
@@ -2293,6 +2295,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Chinese Domestic Handset Waves](concepts/ChineseDomesticHandsetWaves.md) — Staged history of Chinese handset makers from licensed brands to shanzhai/turnkey phones, operator-subsidized smartphones, and AI-era terminal competition.
 - [Causal AI](concepts/CausalAI.md) — Research direction focused on intervention-grounded causal structure, causal discovery, and machine-learning systems that generalize beyond surface correlation.
 - [Causal World Models](concepts/CausalWorldModels.md) — World-model route that learns causal variables, causal structure, and action-conditioned transition dynamics for physical AI.
+- [LLM World Model Gap](concepts/LLMWorldModelGap.md) — Gap between fluent language prediction and explicit representations of entities, states, actions, affordances, facts, and causation.
 - [College Career Preparation](concepts/CollegeCareerPreparation.md) — Goal-dependent undergraduate preparation across GPA, exams, projects, internships, portfolios, and hiring readiness.
 - [College Major Choice](concepts/CollegeMajorChoice.md) — Choosing a field of study under AI and labor-market uncertainty without treating hot majors or outlier success stories as guarantees.
 - [Community-Led SaaS Growth](concepts/CommunityLedSaaSGrowth.md) — SaaS growth through practitioner communities, trusted channels, service, and word of mouth.
@@ -2476,7 +2479,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Workplace Pacing](concepts/WorkplacePacing.md) — Managing work intensity, recovery time, output visibility, and role risk so productivity stays sustainable instead of merely continuous.
 - [Workplace Relationship Boundaries](concepts/WorkplaceRelationshipBoundaries.md) — Practical separation between coworkers, friends, bosses, allies, and private-life relationships.
 - [World Action Models](concepts/WorldActionModels.md) — Intermediate robot/world-model route using video-rich action-conditioned modeling, treated as useful but incomplete without causality.
-- [World Models](concepts/WorldModels.md) — Models of physical or conceptual environments linked to embodied AI and learning examples.
+- [World Models](concepts/WorldModels.md) — Models of physical or conceptual environments linked to embodied AI, scene/state tracking, causality, learning examples, and limits of language-only prediction.
 - [Xiaohongshu Creator Monetization](concepts/XiaohongshuCreatorMonetization.md) — Platform-specific creator income model combining brand collaboration, barter, affiliate links, stores, and local services.
 - [Yen Carry Trade](concepts/YenCarryTrade.md) — Yen-funded investment strategy whose reversal can connect Japanese rates, currency moves, and global risk assets.
 - [Yield Curve Inversion](concepts/YieldCurveInversion.md) — Macro signal where short-term rates exceed long-term rates, discussed as a delayed recession and market-risk warning.

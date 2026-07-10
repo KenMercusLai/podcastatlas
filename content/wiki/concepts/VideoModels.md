@@ -2,8 +2,8 @@
 title: "Video Models"
 type: concept
 tags: [video, generative-ai, content]
-sources: [263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
-last_updated: 2026-07-08
+sources: [tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
+last_updated: 2026-07-10
 ---
 
 # Video Models
@@ -15,6 +15,8 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 [[bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10]] adds a SaaS product case through [[Revid]], an AI video creation and editing tool that [[ThibautLouisLucas]] says became [[TeaMaker]]'s most successful product.
 
 [[na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr]] adds video models as one technical route toward [[WorldModels]]. [[HuangBiwei]] treats video generation and video-rich [[WorldActionModels]] as useful inputs, but argues that rendered plausibility is not the same as causal understanding of physical variables, structures, and state transitions.
+
+[[tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128]] adds [[GaryMarcus]]'s version of that caution. Marcus says video prediction can be a step beyond language-only scaling, but pixel-level prediction still falls short when generated scenes produce physically strange outputs such as unstable extra limbs. In the wiki, this reinforces the distinction between watchable video and [[WorldModels]] that track entities, state, action, and causation.
 
 [[2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne]] adds an interactive-entertainment view. [[Xiaoning]] argues that AI short video and AI video-first formats may move faster than interactive games because generated video only has to be watchable, while games must remain stable interactive systems. The source links [[YORO]] and Seedance-like capabilities to possible interactive film/game experiments, but still treats [[AIGameIndustrialization]] as the harder layer.
 
@@ -38,6 +40,7 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 - The Keji Luandun source connects better video generation to [[IntelligenceDevaluation]] because production skill and cost structures may be repriced.
 - The Luanfanshu source adds that video-model products still need [[AIApplicationLayerMoat]] and [[VerticalWorkflowAI]] when users require reliable final output rather than impressive samples.
 - Episode 266 adds AI short drama as a production market where generation cost, creator workflow, paid traffic, and copyright control decide whether model capability becomes revenue.
+- The Marketplace Tech world-model episode adds that video prediction can remain a pixel-sequence method unless it learns stable physical structure and causal state.
 
 ## Connections
 - [[WorldModels]] — adjacent model direction for richer scene and environment representation.
@@ -46,6 +49,7 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 - [[Revid]] and [[TeaMaker]] — SaaS product and company case for AI video tooling.
 - [[ProductLedWillingnessToPay]] — pricing depends on whether video capability feels differentiated.
 - [[WorldActionModels]] and [[CausalWorldModels]] — world-model routes that absorb video data but differ in causal grounding.
+- [[GaryMarcus]] and [[LLMWorldModelGap]] — critique that plausible video prediction is not yet robust world understanding.
 - [[YORO]], [[AIInteractiveEntertainment]], and [[AIInteractiveContentPlatforms]] — interactive video and platform directions from the Youju crossover.
 - [[ByteDance]], [[Seedance]], [[AIContentProvenance]], and [[AIInteractiveEntertainment]] — Seedance 2.0 and rights-risk context added by Vol. 162 and extended by the Keji Luandun source.
 - [[Sora]], [[Meitu]], [[Jianying]], and [[AIApplicationLayerMoat]] — application-layer and workflow caution added by Luanfanshu.

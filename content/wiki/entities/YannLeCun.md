@@ -2,8 +2,8 @@
 title: "Yann LeCun"
 type: entity
 tags: [person, ai-researcher, founder]
-sources: [133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]
-last_updated: 2026-07-08
+sources: [tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42]
+last_updated: 2026-07-10
 ---
 
 # Yann LeCun
@@ -13,9 +13,12 @@ Yann LeCun appears in [[133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shij
 ## Role In The Source
 The interview uses LeCun as the central figure behind the [[JointEmbeddingPredictiveArchitecture]] and broader [[WorldModels]] route. Xie says his own path moved from questioning JEPA, to understanding it, to "becoming JEPA", meaning that he came to see it less as a single self-supervised method and more as a cognitive architecture for prediction, planning, and world understanding.
 
+[[tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128]] mentions LeCun as one of the people associated with renewed world-model work. The Marketplace Tech episode uses that mention to place his route in a broader debate over whether AI systems need explicit world representations rather than only larger statistical language models.
+
 ## Connections
 - [[XieSaining]] — collaborator and AMI co-founder in the source.
 - [[AMILabs]] — company built around the world-model route.
 - [[NYU]] and [[FAIR]] — institutional context in the interview.
 - [[JointEmbeddingPredictiveArchitecture]], [[WorldModels]], and [[SelfSupervisedLearning]] — technical direction associated with him in the source.
 - [[LanguageUserInterface]] — route he is used to qualify: language can help but should not be the whole intelligence substrate.
+- [[GaryMarcus]] and [[LLMWorldModelGap]] — public explainer context where LeCun is named as part of the world-model shift.

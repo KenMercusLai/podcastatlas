@@ -1780,6 +1780,10 @@ Added source page for a 疯投圈 episode on Japan product experience, Korea glo
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-10] ingest | A case for AI models that understand, not just predict, the way the world works
+
+Added source page for a Marketplace Tech episode with Gary Marcus on world models, LLM statistical prediction limits, scene graphs, robotics, video prediction artifacts, causation, and the argument that robust AI or AGI needs explicit entity/state/world representations. Created pages for Gary Marcus and LLM World Model Gap; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Fei-Fei Li, Yann LeCun, Google, World Models, Causal World Models, Frontier Model Scaling, Embodied AI, and Video Models. No direct contradiction found; the source creates a noted tension with existing scaling-discussion pages because Marcus treats recent incremental progress as evidence against pure scaling while other sources warn against premature scaling-wall claims.
+
 ## [2026-07-10] ingest | The little-known regulatory bodies that can make or break AI data centers
 
 Added source page for a Marketplace Tech episode with Scott Brennan on state Public Utility Commissions as AI data-center energy gatekeepers. Created pages for Scott Brennan, NYU Center on Technology Policy, Public Utility Commissions, Data Center Cost Shifting, and AI Energy Bottleneck; updated overview, index, Marketplace Tech, NYU, MaaS Infrastructure, AI Compute Continuity, Data Center Backlash, AI Metabolic Infrastructure, and AI Governance And Compliance. No direct contradiction found; the source qualifies AI infrastructure narratives by showing that compute growth depends on regulated electricity systems, grid-upgrade finance, long contracts, upfront payments, ratepayer protection, and public consent.
@@ -1839,6 +1843,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-10] ingest | The latest TV innovations have their critics
 
 Added source page for a Marketplace Tech episode on modern TV motion artifacts, OLED/LED stutter, motion smoothing, the soap-opera effect, Dolby's selective smoothing approach, and why some viewers still prefer older plasma TVs. Created pages for Rahul Banerjee, Vikrant Lal, Samuel Bretton, Ratings.com, Mahesh Balakrishnan, Dolby, Tom Cruise, TV Motion Stutter, Motion Smoothing, Soap Opera Effect, Selective Motion Smoothing, and Plasma TV Preference; updated overview, index, Marketplace Tech, and Display Ergonomics. No direct contradiction found; the source qualifies consumer-electronics upgrade narratives by showing that higher resolution and brightness can improve sports while making low-frame-rate film motion less pleasant for some viewers.
+
+## [2026-07-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-10] lint | Wiki health check
 
