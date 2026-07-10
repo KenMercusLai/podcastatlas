@@ -379,6 +379,10 @@
     "title": "AI Investment Research",
     "url": "/wiki/concepts/aiinvestmentresearch/"
   },
+  "AILaborMarketConcentration": {
+    "title": "AI Labor Market Concentration",
+    "url": "/wiki/concepts/ailabormarketconcentration/"
+  },
   "AILiteracyAgainstWorship": {
     "title": "AI Literacy Against Worship",
     "url": "/wiki/concepts/ailiteracyagainstworship/"
@@ -2007,6 +2011,10 @@
     "title": "Cooling As Public Health",
     "url": "/wiki/concepts/coolingaspublichealth/"
   },
+  "CoreyStaley": {
+    "title": "Corey Staley",
+    "url": "/wiki/entities/coreystaley/"
+  },
   "CorporateHospitalityPlatform": {
     "title": "Corporate Hospitality Platform",
     "url": "/wiki/concepts/corporatehospitalityplatform/"
@@ -2246,6 +2254,10 @@
   "DataEngineLearningLoop": {
     "title": "Data Engine Learning Loop",
     "url": "/wiki/concepts/dataenginelearningloop/"
+  },
+  "DataEngineeringDemand": {
+    "title": "Data Engineering Demand",
+    "url": "/wiki/concepts/dataengineeringdemand/"
   },
   "DataPortabilityAndSustainableTools": {
     "title": "Data Portability And Sustainable Tools",
@@ -3987,6 +3999,10 @@
     "title": "Incorruptible",
     "url": "/wiki/entities/incorruptible/"
   },
+  "Indeed": {
+    "title": "Indeed",
+    "url": "/wiki/entities/indeed/"
+  },
   "IndependentAgentVendor": {
     "title": "Independent Agent Vendor",
     "url": "/wiki/concepts/independentagentvendor/"
@@ -4966,6 +4982,10 @@
   "LowAltitudeRegulatoryRisk": {
     "title": "Low-Altitude Regulatory Risk",
     "url": "/wiki/concepts/lowaltituderegulatoryrisk/"
+  },
+  "LowFireLaborMarket": {
+    "title": "Low-Fire Labor Market",
+    "url": "/wiki/concepts/lowfirelabormarket/"
   },
   "LowPriceBrandPerception": {
     "title": "Low Price Brand Perception",
@@ -7415,6 +7435,10 @@
     "title": "Social Signal Interpretation",
     "url": "/wiki/concepts/socialsignalinterpretation/"
   },
+  "SoftwareDeveloperHiringPullback": {
+    "title": "Software Developer Hiring Pullback",
+    "url": "/wiki/concepts/softwaredeveloperhiringpullback/"
+  },
   "SoftwarePaymentCulture": {
     "title": "Software Payment Culture",
     "url": "/wiki/concepts/softwarepaymentculture/"
@@ -7826,6 +7850,14 @@
   "TeamMarketing": {
     "title": "Team Marketing",
     "url": "/wiki/entities/teammarketing/"
+  },
+  "TechHiringStabilization": {
+    "title": "Tech Hiring Stabilization",
+    "url": "/wiki/concepts/techhiringstabilization/"
+  },
+  "TechJobPostingIndex": {
+    "title": "Tech Job Posting Index",
+    "url": "/wiki/concepts/techjobpostingindex/"
   },
   "TechnicalAnalysisLimits": {
     "title": "Technical Analysis Limits",
@@ -9766,6 +9798,10 @@
   "tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128": {
     "title": "How states are competing in the data center gold rush",
     "url": "/wiki/sources/tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128/"
+  },
+  "tech-20251217-1217-mp-tech-pod-128-tech-20251217-1217-mp-tech-pod-128": {
+    "title": "Tech sector job postings on Indeed (mostly) stabilized this year",
+    "url": "/wiki/sources/tech-20251217-1217-mp-tech-pod-128-tech-20251217-1217-mp-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",

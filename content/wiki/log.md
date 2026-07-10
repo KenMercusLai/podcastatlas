@@ -1867,3 +1867,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-10] ingest | Tech sector job postings on Indeed (mostly) stabilized this year
+
+Added source page for the Marketplace Tech episode on Indeed's 2025 tech job-posting data, with tech postings stabilized at a low level, a 67.2 index against February 2020, narrow AI labor-market demand, software developer pullback, data engineering demand, and a stabilization-not-boom outlook for 2026. Created pages for Corey Staley, Indeed, Tech Hiring Stabilization, Tech Job Posting Index, AI Labor Market Concentration, Software Developer Hiring Pullback, Data Engineering Demand, and Low-Fire Labor Market; updated overview, index, Marketplace Tech, and Megan McCarty-Corino. No direct contradiction found; the source qualifies AI-boom and AI-replaced-developers narratives by separating AI-specific demand from broad tech hiring weakness.
+
+## [2026-07-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

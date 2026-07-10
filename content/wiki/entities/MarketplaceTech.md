@@ -2,13 +2,15 @@
 title: "Marketplace Tech"
 type: entity
 tags: [podcast, technology, public-radio]
-sources: [tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, 3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt, the-latest-tv-innovations-have-their-critics, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
+sources: [tech-20251217-1217-mp-tech-pod-128-tech-20251217-1217-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, 3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt, the-latest-tv-innovations-have-their-critics, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
 last_updated: 2026-07-10
 ---
 
 # Marketplace Tech
 
-Marketplace Tech is the show context for [[tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128]], [[tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128]], [[tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]], [[using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds]], [[3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt]], [[the-latest-tv-innovations-have-their-critics]], and [[the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]]. Across these sources, the show connects consumer technology narratives to AI model architecture, public-safety, healthcare, access, everyday perception, infrastructure-policy constraints, state tax policy, media markets, and synthetic-media trust rather than treating technology adoption as an isolated product story.
+Marketplace Tech is the show context for [[tech-20251217-1217-mp-tech-pod-128-tech-20251217-1217-mp-tech-pod-128]], [[tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128]], [[tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128]], [[tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]], [[using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds]], [[3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt]], [[the-latest-tv-innovations-have-their-critics]], and [[the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]]. Across these sources, the show connects consumer technology narratives to AI labor markets, AI model architecture, public-safety, healthcare, access, everyday perception, infrastructure-policy constraints, state tax policy, media markets, and synthetic-media trust rather than treating technology adoption as an isolated product story.
+
+The tech-hiring episode adds a labor-market layer through [[CoreyStaley]] and [[Indeed]]. It connects [[TechHiringStabilization]], [[TechJobPostingIndex]], [[AILaborMarketConcentration]], [[SoftwareDeveloperHiringPullback]], [[DataEngineeringDemand]], and [[LowFireLaborMarket]] to the gap between AI-specific demand and weak broad tech postings.
 
 The data-center tax incentive episode adds a state public-finance layer through [[NicholasMiller]] and the [[NationalConferenceOfStateLegislatures]]. It connects [[DataCenterTaxIncentives]] to AI capital spending, construction inputs, electricity exemptions, job thresholds, property-tax bases, and energy-policy reassessment.
 
@@ -35,4 +37,5 @@ The data-center episode moves the show into AI infrastructure policy. Through [[
 - [[JoannaStern]], [[Apple]], [[WarnerBrosDiscovery]], [[McDonaldsNetherlands]], [[StreamingConsolidation]], and [[AIGeneratedAdvertising]] - weekly technology-news branch added by the 2025-12-12 Bytes episode.
 - [[GaryMarcus]], [[WorldModels]], [[LLMWorldModelGap]], [[CausalWorldModels]], and [[VideoModels]] - world-model branch added by the 2025-12-15 episode.
 - [[NicholasMiller]], [[NationalConferenceOfStateLegislatures]], and [[DataCenterTaxIncentives]] - state tax-incentive branch added by the 2025-12-16 episode.
+- [[CoreyStaley]], [[Indeed]], [[TechHiringStabilization]], [[TechJobPostingIndex]], [[AILaborMarketConcentration]], [[SoftwareDeveloperHiringPullback]], [[DataEngineeringDemand]], and [[LowFireLaborMarket]] - tech labor-market branch added by the 2025-12-17 episode.
 - [[AIGovernanceAndCompliance]] and [[HumanJudgmentUnderAI]] - broader governance and professional-responsibility frames.
