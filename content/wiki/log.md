@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-10] ingest | How states are competing in the data center gold rush
+
+Added source page for a Marketplace Tech episode with Nicholas Miller of the National Conference of State Legislatures on state data-center tax incentives, including sales and use tax exemptions, electricity exemptions, property-tax abatements, job requirements, capital-investment thresholds, property-tax benefits, and energy-use reassessment. Created pages for Nicholas Miller, National Conference of State Legislatures, and Data Center Tax Incentives; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Public Utility Commissions, AI Energy Bottleneck, Data Center Cost Shifting, Data Center Backlash, AI Compute Continuity, MaaS Infrastructure, and AI Metabolic Infrastructure. No direct contradiction found; the source extends existing AI data-center regulation pages by adding the public-subsidy and state economic-development layer.
+
 ## [2026-07-10] ingest | Bytes: Week in Review - Apple's leadership departures raises concerns over its AI future
 
 Added source page for a Marketplace Tech Bytes episode with Joanna Stern on Apple leadership departures, AI talent competition, Tim Cook succession, OpenAI/Jony Ive AI-device speculation, Warner Bros. Discovery streaming bids, subscription fatigue, and McDonald's Netherlands pulling an AI-generated Christmas ad after backlash. Created pages for Joanna Stern, John Ternus, Jony Ive, Warner Bros. Discovery, Paramount, David Ellison, McDonald's Netherlands, AI Talent Competition, Streaming Consolidation, Subscription Fatigue, AI-Generated Advertising, and Creative Labor AI Backlash; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Apple, Tim Cook, OpenAI, Meta, Netflix, The Walt Disney Company, AI Plus Terminals, and AI Content Provenance. No direct contradiction found; the source extends existing AI interface, media distribution, and provenance branches into consumer-facing late-2025 technology news.
@@ -1843,6 +1847,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-10] ingest | The latest TV innovations have their critics
 
 Added source page for a Marketplace Tech episode on modern TV motion artifacts, OLED/LED stutter, motion smoothing, the soap-opera effect, Dolby's selective smoothing approach, and why some viewers still prefer older plasma TVs. Created pages for Rahul Banerjee, Vikrant Lal, Samuel Bretton, Ratings.com, Mahesh Balakrishnan, Dolby, Tom Cruise, TV Motion Stutter, Motion Smoothing, Soap Opera Effect, Selective Motion Smoothing, and Plasma TV Preference; updated overview, index, Marketplace Tech, and Display Ergonomics. No direct contradiction found; the source qualifies consumer-electronics upgrade narratives by showing that higher resolution and brightness can improve sports while making low-frame-rate film motion less pleasant for some viewers.
+
+## [2026-07-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-10] lint | Wiki health check
 

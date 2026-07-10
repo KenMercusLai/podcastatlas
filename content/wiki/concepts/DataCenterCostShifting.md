@@ -2,7 +2,7 @@
 title: "Data Center Cost Shifting"
 type: concept
 tags: [ai, data-centers, energy, regulation]
-sources: [the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
+sources: [tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
 last_updated: 2026-07-10
 ---
 
@@ -12,16 +12,20 @@ Data center cost shifting is the risk that utilities build grid infrastructure f
 
 The concept connects AI buildout to public finance. Data centers may create demand for new transmission, substations, generation, or grid upgrades, but the utility system spreads costs through regulated rates unless [[PublicUtilityCommissions]] require different terms. The source highlights upfront payments and long contracts as tools for assigning more of the burden to the data-center customer.
 
+[[tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128]] adds a tax-expenditure cousin to cost shifting. [[DataCenterTaxIncentives]] do not shift grid costs through utility rates, but they can shift public burden by waiving sales, electricity, or property-tax revenue that governments might otherwise collect.
+
 ## Key Claims
 - AI data-center buildout can require infrastructure that remains on the utility system even if the customer leaves or demand changes.
 - Ordinary ratepayers face risk when data-center-related costs are pooled into general utility rates.
 - Direct infrastructure payments and long contract terms can reduce cross-subsidy risk.
 - The issue is not only fairness; it also affects political legitimacy for [[MaaSInfrastructure]] and [[AIComputeContinuity]].
 - Cost shifting can intensify [[DataCenterBacklash]] when communities see AI companies gaining capacity while local bills or infrastructure pressure rise.
+- Tax incentives create a parallel public-finance question: even if ratepayers are protected, communities still need to judge whether foregone tax revenue is worth the promised jobs, property taxes, and capital investment.
 
 ## Connections
 - [[PublicUtilityCommissions]] - regulators that can shape cost allocation.
 - [[ScottBrennan]] - source expert describing the mechanisms.
 - [[AIEnergyBottleneck]] - energy demand pressure behind the cost-allocation problem.
+- [[DataCenterTaxIncentives]] - tax-policy version of public cost allocation.
 - [[AIMetabolicInfrastructure]] - broader frame for who bears AI's material costs.
 - [[AIBacklashPolitics]] and [[DataCenterBacklash]] - political response when infrastructure costs become visible.

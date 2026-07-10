@@ -2231,6 +2231,10 @@
     "title": "Data Center Physical Resilience",
     "url": "/wiki/concepts/datacenterphysicalresilience/"
   },
+  "DataCenterTaxIncentives": {
+    "title": "Data Center Tax Incentives",
+    "url": "/wiki/concepts/datacentertaxincentives/"
+  },
   "DataCenterThermalManagement": {
     "title": "Data Center Thermal Management",
     "url": "/wiki/concepts/datacenterthermalmanagement/"
@@ -5615,6 +5619,10 @@
     "title": "Nassim Taleb",
     "url": "/wiki/entities/nassimtaleb/"
   },
+  "NationalConferenceOfStateLegislatures": {
+    "title": "National Conference of State Legislatures",
+    "url": "/wiki/entities/nationalconferenceofstatelegislatures/"
+  },
   "NationalRally": {
     "title": "National Rally",
     "url": "/wiki/entities/nationalrally/"
@@ -5674,6 +5682,10 @@
   "NiDeShufang": {
     "title": "你的书房",
     "url": "/wiki/entities/nideshufang/"
+  },
+  "NicholasMiller": {
+    "title": "Nicholas Miller",
+    "url": "/wiki/entities/nicholasmiller/"
   },
   "NicholasPalam": {
     "title": "Nicholas Palam",
@@ -9750,6 +9762,10 @@
   "tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128": {
     "title": "A case for AI models that understand, not just predict, the way the world works",
     "url": "/wiki/sources/tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128/"
+  },
+  "tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128": {
+    "title": "How states are competing in the data center gold rush",
+    "url": "/wiki/sources/tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",

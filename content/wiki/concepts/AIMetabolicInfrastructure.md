@@ -2,7 +2,7 @@
 title: "AI Metabolic Infrastructure"
 type: concept
 tags: [ai, infrastructure, ecology, political-economy]
-sources: [kate-crawford-mapping-empires, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
+sources: [tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, kate-crawford-mapping-empires, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
 last_updated: 2026-07-10
 ---
 
@@ -14,11 +14,14 @@ The frame connects several existing wiki branches. [[AIComputeContinuity]] and [
 
 [[the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]] adds a utility-rate version of the same material burden. When AI data centers require grid upgrades, [[PublicUtilityCommissions]] and [[DataCenterCostShifting]] decide whether the cost is borne by data-center customers, ordinary ratepayers, or some negotiated mix.
 
+[[tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128]] adds a tax-expenditure version. [[DataCenterTaxIncentives]] show that the AI metabolism can also consume public fiscal capacity when states waive sales, electricity, or property-tax revenue to attract data-center capital spending.
+
 ## Key Claims
 - AI systems consume material resources even when their user interface looks immaterial.
 - Data extraction and mineral extraction are parallel processes: both turn shared or distant resources into private model capability.
 - Water, power, heat, and land make data centers part of local environmental politics.
 - Electricity rates and grid-upgrade finance make data centers part of public-utility politics as well as environmental politics.
+- Tax exemptions and abatements make data centers part of public-budget politics as well as infrastructure politics.
 - Short hardware cycles create a deep-time mismatch between minerals formed over geological time and chips used for only a short period.
 - Model outputs can become inputs again, making [[ModelCollapse]] a metabolic risk as well as a technical training-data risk.
 - Sustainable AI cannot be reduced to efficiency improvements if total demand rises through [[JevonsParadoxInAI]].
@@ -29,6 +32,7 @@ The frame connects several existing wiki branches. [[AIComputeContinuity]] and [
 - [[DataCenterThermalManagement]] - heat and water-control layer.
 - [[DataCenterBacklash]] - social-license and local-politics layer.
 - [[PublicUtilityCommissions]] and [[DataCenterCostShifting]] - ratepayer and utility-regulation layer.
+- [[DataCenterTaxIncentives]] - tax-expenditure and economic-development layer.
 - [[CriticalMineralsGeopolitics]] - mineral supply-chain layer.
 - [[JevonsParadoxInAI]] - demand-growth dynamic.
 - [[HumanResourceDeflationComputeInfrastructureInflation]] - adjacent economic frame where labor savings move into compute infrastructure.

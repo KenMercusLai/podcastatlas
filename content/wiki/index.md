@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How states are competing in the data center gold rush](sources/tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128.md) — Marketplace Tech episode with Nicholas Miller on state tax incentives for AI data centers, including sales and electricity exemptions, property taxes, job thresholds, capital investment, local ROI, and energy-use reassessment.
 - [A case for AI models that understand, not just predict, the way the world works](sources/tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128.md) — Marketplace Tech episode with Gary Marcus on world models, the limits of LLM-style statistical prediction, scene graphs, robotics, video prediction, causation, and why robust AI may need explicit entity/state representations.
 - [Bytes: Week in Review - Apple's leadership departures raises concerns over its AI future](sources/tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Joanna Stern on Apple leadership departures and AI talent pressure, unresolved AI hardware form factors, Warner Bros. Discovery streaming bids, subscription fatigue, and backlash to McDonald's Netherlands' AI-generated Christmas ad.
 - [The little-known regulatory bodies that can make or break AI data centers](sources/the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers.md) — Marketplace Tech episode with Scott Brennan on why state Public Utility Commissions can shape AI data-center growth through grid-upgrade approvals, rate design, upfront payments, long contracts, and protection against ratepayer cost shifting.
@@ -242,7 +243,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on world models, AI-chatbot risk, prosthetic access, modern TV motion, AI data-center regulation, Apple leadership, streaming consolidation, and AI advertising backlash.
+- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on world models, AI-chatbot risk, prosthetic access, modern TV motion, AI data-center regulation and tax incentives, Apple leadership, streaming consolidation, and AI advertising backlash.
 - [Gary Marcus](entities/GaryMarcus.md) — Cognitive scientist and NYU professor emeritus arguing in Marketplace Tech that robust AI needs world models, entity/state tracking, and causation rather than only statistical sequence prediction.
 - [Joanna Stern](entities/JoannaStern.md) — Technology columnist connecting Apple AI leadership pressure, AI hardware form factors, streaming consolidation, and AI-generated advertising backlash in the Marketplace Tech Bytes episode.
 - [John Ternus](entities/JohnTernus.md) — Apple lead engineer mentioned as a possible future CEO in the episode's Tim Cook succession and AI-era leadership discussion.
@@ -253,6 +254,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [McDonald's Netherlands](entities/McDonaldsNetherlands.md) — Brand unit that pulled an AI-generated Christmas ad after backlash, grounding the episode's AI advertising discussion.
 - [Scott Brennan](entities/ScottBrennan.md) — NYU Center on Technology Policy researcher explaining why Public Utility Commissions matter to AI data-center growth and ratepayer protection.
 - [NYU Center on Technology Policy](entities/NYUCenterOnTechnologyPolicy.md) — Institutional source for the Marketplace Tech discussion of public utility commissions as AI infrastructure gatekeepers.
+- [Nicholas Miller](entities/NicholasMiller.md) — National Conference of State Legislatures expert explaining how states use data-center tax incentives, job requirements, capital thresholds, and energy-policy conditions.
+- [National Conference of State Legislatures](entities/NationalConferenceOfStateLegislatures.md) — State-legislative policy organization supplying data on data-center incentive programs in the Marketplace Tech episode.
 - [Rahul Banerjee](entities/RahulBanerjee.md) — Modern-TV viewer who returned OLED sets and bought a used plasma TV because film motion felt more natural to him.
 - [Vikrant Lal](entities/VikrantLal.md) — Viewer whose older plasma TV preference grounds the episode's contrast between modern specs and cinematic motion feel.
 - [Samuel Bretton](entities/SamuelBretton.md) — Ratings.com representative explaining TV tradeoffs across sports, movies, clarity, brightness, and motion.
@@ -261,7 +264,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dolby](entities/Dolby.md) — Audio-video company linked to selective motion smoothing as a compromise between stutter and the soap-opera effect.
 - [Tom Cruise](entities/TomCruise.md) — Actor referenced through a 2018 PSA warning viewers about the soap-opera effect from motion smoothing.
 - [Britt Young](entities/BrittYoung.md) — Writer and UC Berkeley lecturer grounding the prosthetics episode in lived prosthetic experience, reporting, insurance barriers, and device-classification questions.
-- [Megan McCarty-Corino](entities/MeganMcCartyCorino.md) — Marketplace Tech host framing episodes on world models, prosthetic access, Apple/streaming/AI-ad news, and consumer consequences of technology shifts.
+- [Megan McCarty-Corino](entities/MeganMcCartyCorino.md) — Marketplace Tech host framing episodes on world models, data-center tax incentives, prosthetic access, Apple/streaming/AI-ad news, and consumer consequences of technology shifts.
 - [UC Berkeley](entities/UCBerkeley.md) — Institutional affiliation for Britt Young in the Marketplace Tech prosthetics episode.
 - [Open Bionics](entities/OpenBionics.md) — British 3D-printed prosthetics firm discussed as an availability option that still faces insurance-coverage barriers.
 - [Daria Georgievich](entities/DariaGeorgievich.md) — Psychiatrist explaining why consumer chatbots are unsafe mental-health supports for teens, especially in longer conversations.
@@ -1479,12 +1482,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Data Center Tax Incentives](concepts/DataCenterTaxIncentives.md) — State and local subsidies for data centers through tax exemptions, abatements, electricity treatment, job thresholds, and capital-investment requirements.
 - [AI Talent Competition](concepts/AITalentCompetition.md) — Strategic labor pressure where AI staff movement becomes a signal about company product direction, leadership readiness, and platform credibility.
 - [Streaming Consolidation](concepts/StreamingConsolidation.md) — Media-market pattern where studios, libraries, and streaming services combine or bundle, reducing consumer friction while potentially weakening competition.
 - [Subscription Fatigue](concepts/SubscriptionFatigue.md) — Consumer strain from managing too many paid services, rising prices, app switches, content searches, and churn cycles.
 - [AI-Generated Advertising](concepts/AIGeneratedAdvertising.md) — Use of generative models for public-facing brand campaigns, where disclosure, trust, labor expectations, and IP rights shape acceptance.
 - [Creative Labor AI Backlash](concepts/CreativeLaborAIBacklash.md) — Objection that arises when generative AI appears to replace, exploit, or devalue creative workers in media and marketing.
-- [Public Utility Commissions](concepts/PublicUtilityCommissions.md) — State utility regulators that can shape AI data-center buildout through rates, grid-upgrade approvals, long contracts, and upfront-payment requirements.
+- [Public Utility Commissions](concepts/PublicUtilityCommissions.md) — State utility regulators that can shape AI data-center buildout through rates, grid-upgrade approvals, long contracts, upfront-payment requirements, and coordination with broader state tax policy.
 - [Data Center Cost Shifting](concepts/DataCenterCostShifting.md) — Risk that grid infrastructure built for data centers is paid partly by ordinary electricity ratepayers unless rate design assigns costs to the data-center customer.
 - [AI Energy Bottleneck](concepts/AIEnergyBottleneck.md) — Constraint where AI growth depends on electricity supply, grid connection capacity, utility approvals, and politically acceptable infrastructure finance.
 - [TV Motion Stutter](concepts/TVMotionStutter.md) — Film-motion problem where low-frame-rate movies can look jumpy on modern OLED and LED televisions.
