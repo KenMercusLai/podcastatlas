@@ -2,8 +2,8 @@
 title: "The Walt Disney Company"
 type: entity
 tags: [company, media, entertainment, ip, theme-parks]
-sources: [the-walt-disney-company-1, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1]
-last_updated: 2026-07-09
+sources: [tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, the-walt-disney-company-1, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1]
+last_updated: 2026-07-10
 ---
 
 # The Walt Disney Company
@@ -14,6 +14,8 @@ In the wiki, Disney is the clearest case so far of an [[EntertainmentIPFlywheel]
 
 [[starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1]] adds a later-family-franchise example through [[ToyStory5]]. The episode's review uses the sequel to discuss [[ScreenTimeParenting]], showing how Disney-family IP can keep cultural relevance by translating current household technology anxiety into a familiar story world.
 
+[[tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]] adds Disney as a synthetic-media rights signal. In the source, [[JoannaStern]] says Disney's embrace of AI and permission for [[OpenAI]] to generate images or videos involving its characters makes disclosure, creative labor, and [[IPOwnership]] more central to mainstream entertainment strategy.
+
 ## Key Claims
 - Disney's advantage came less from any single film than from making characters and stories travel through many formats.
 - [[WaltDisney]] repeatedly pushed the company into new creative and technical forms, while [[RoyDisney]] made the financing and debt discipline survivable.
@@ -21,6 +23,7 @@ In the wiki, Disney is the clearest case so far of an [[EntertainmentIPFlywheel]
 - The company became more stable when it added television, merchandising, parks, and direct distribution to film production.
 - The post-Walt era shows a risk of the same system: harvesting the flywheel can mask a weakening creative core.
 - Later franchise entries can still add cultural value when they address current family tensions rather than merely repeat character recognition.
+- AI-generated uses of Disney characters can extend the IP flywheel, but they also raise [[AIContentProvenance]], creative-labor, and permission questions.
 
 ## Connections
 - [[WaltDisney]] and [[RoyDisney]] - founding and operating partnership.
@@ -28,3 +31,4 @@ In the wiki, Disney is the clearest case so far of an [[EntertainmentIPFlywheel]
 - [[ABC]], [[Disneyland]], [[WEDEnterprises]], [[BuenaVistaDistribution]], and [[WaltDisneyWorld]] - media, park, and distribution infrastructure.
 - [[EntertainmentIPFlywheel]], [[IPOwnership]], [[StrategicRerelease]], [[ThemeParkAsMediaPlatform]], [[VerticalMediaDistribution]], and [[ArtCommerceIntegration]] - concepts added by the source.
 - [[ToyStory5]] and [[ScreenTimeParenting]] - later family-technology branch added by The Intelligence.
+- [[OpenAI]], [[AIContentProvenance]], [[AIGeneratedAdvertising]], and [[CreativeLaborAIBacklash]] - synthetic-media branch added by Marketplace Tech Bytes.

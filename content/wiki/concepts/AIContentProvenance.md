@@ -2,8 +2,8 @@
 title: "AI Content Provenance"
 type: concept
 tags: [ai, provenance, trust, compliance]
-sources: [vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
-last_updated: 2026-07-07
+sources: [tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
+last_updated: 2026-07-10
 ---
 
 # AI Content Provenance
@@ -14,6 +14,8 @@ AI content provenance is the practice of marking, disclosing, or tracing synthet
 
 [[266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]] adds the entertainment-IP version. Guests describe how early AI-video experimentation with celebrity faces, classic IP characters, and recognizable styles quickly runs into likeness, [[IPOwnership]], [[Netflix]], and [[TheWaltDisneyCompany]]-style copyright boundaries.
 
+[[tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]] adds the mainstream advertising version through [[McDonaldsNetherlands]]. The source says the AI-generated Christmas ad was transparent about AI use, but still provoked backlash, showing that provenance can be necessary without being sufficient. Audiences may still object when [[AIGeneratedAdvertising]] is used by a large corporation instead of hiring creative workers, or when synthetic media blurs what was filmed versus generated.
+
 ## Key Claims
 
 - Provenance matters because generated images, personas, voices, and promotional content can be commercially legitimate when disclosed, but deceptive when users believe they are interacting with a real person or unedited evidence.
@@ -23,6 +25,7 @@ AI content provenance is the practice of marking, disclosing, or tracing synthet
 - AI provenance overlaps with [[AIImpersonationFraudRisk]] when generated media borrows trust signals from real identity, intimacy, expertise, or authenticity.
 - Provenance does not solve all audience reaction; even disclosed AI content can be ignored if it feels generic or unauthored.
 - AI short-drama production raises a commercial-rights version of provenance: teams need to know whether generated characters, faces, and IP references can be distributed and monetized.
+- Brand advertising adds a labor-and-expectation version: disclosing AI use does not fully answer whether a campaign feels trustworthy, fair, or respectful of creative work.
 
 ## Connections
 
@@ -33,3 +36,4 @@ AI content provenance is the practice of marking, disclosing, or tracing synthet
 - [[HumanJudgmentUnderAI]] — people and platforms still need to interpret provenance signals and decide what use is acceptable.
 - [[AIContentDevaluation]] and [[AICommunicationAbility]] — Vol. 164's attention and authorship trust layer.
 - [[AIShortDrama]], [[AIVideoProductionWorkflow]], [[IPOwnership]], [[Netflix]], and [[TheWaltDisneyCompany]] — entertainment-rights branch added by episode 266.
+- [[McDonaldsNetherlands]], [[AIGeneratedAdvertising]], and [[CreativeLaborAIBacklash]] — advertising and labor-trust branch added by Marketplace Tech Bytes.

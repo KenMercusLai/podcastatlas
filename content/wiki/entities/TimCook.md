@@ -2,8 +2,8 @@
 title: "Tim Cook"
 type: entity
 tags: [person, ceo, apple, governance]
-sources: [264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
-last_updated: 2026-07-08
+sources: [tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
+last_updated: 2026-07-10
 ---
 
 # Tim Cook
@@ -13,6 +13,8 @@ Tim Cook is presented in [[264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-ping
 The source contrasts Cook with [[SteveJobs]] without reducing him to a lesser product visionary. Jobs is framed as the founder-artist whose "Think Different" era created the product mythos, while Cook is framed as the CEO who made values auditable, repeatable, and enforceable across a much larger global institution.
 
 Cook's political and governance role is also central. The episode says his 2014 public coming-out, his support for the [[BusinessRoundtable]] statement, his private communication with [[DonaldTrump]] on tariffs, his public objection to the DACA cancellation, and his GDPR-era speech in the [[EuropeanUnion]] all show a pattern: business negotiation can coexist with public moral boundaries.
+
+[[tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]] adds a succession-pressure update. [[JoannaStern]] says many people expect Cook to step down at some point soon, while [[JohnTernus]] had appeared in reporting as a possible next CEO. The source connects that leadership planning to [[AITalentCompetition]] and Apple's need to show credible AI-era product direction.
 
 ## Source Position
 - Cook's "moral anchor" is not described as a replacement for profit; the source says Apple still created large shareholder value under him.
@@ -27,3 +29,4 @@ Cook's political and governance role is also central. The episode says his 2014 
 - [[ValuesAsOperationalAsset]], [[PurposeDrivenBusiness]], [[TrustAsBusinessAsset]], and [[HumanFlourishingProfit]] — adjacent business-ethics concepts.
 - [[AppleAccessibility]], [[ApplePrivacy]], and [[AppleSupplyChainResponsibility]] — main operational domains from the source.
 - [[DonaldTrump]] and [[EuropeanUnion]] — political and regulatory contexts in the episode.
+- [[JohnTernus]], [[JoannaStern]], and [[AITalentCompetition]] — succession and AI-leadership pressure added by the Marketplace Tech Bytes source.

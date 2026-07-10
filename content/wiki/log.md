@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-10] ingest | Bytes: Week in Review - Apple's leadership departures raises concerns over its AI future
+
+Added source page for a Marketplace Tech Bytes episode with Joanna Stern on Apple leadership departures, AI talent competition, Tim Cook succession, OpenAI/Jony Ive AI-device speculation, Warner Bros. Discovery streaming bids, subscription fatigue, and McDonald's Netherlands pulling an AI-generated Christmas ad after backlash. Created pages for Joanna Stern, John Ternus, Jony Ive, Warner Bros. Discovery, Paramount, David Ellison, McDonald's Netherlands, AI Talent Competition, Streaming Consolidation, Subscription Fatigue, AI-Generated Advertising, and Creative Labor AI Backlash; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Apple, Tim Cook, OpenAI, Meta, Netflix, The Walt Disney Company, AI Plus Terminals, and AI Content Provenance. No direct contradiction found; the source extends existing AI interface, media distribution, and provenance branches into consumer-facing late-2025 technology news.
+
 ## [2026-07-10] ingest | 3D printing was supposed to disrupt prosthetic costs. It hasn't.
 
 Added source page for a Marketplace Tech episode with Britt Young on why 3D printing has not made prosthetics cheap. Created pages for Britt Young, Megan McCarty-Corino, UC Berkeley, Open Bionics, 3D-Printed Prosthetics, Prosthetic Insurance Coverage, Assistive Device Classification, and Prosthetic Fitting Constraint; updated overview, index, Marketplace Tech, Health Insurance Planning, and Online Healthcare Regulatory Boundary. No direct contradiction found; the source qualifies technology-disruption narratives by showing that professional machines, fitting labor, insurance approval, legal device categories, and global logistics can dominate the price and access story.
@@ -1835,6 +1839,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-10] ingest | The latest TV innovations have their critics
 
 Added source page for a Marketplace Tech episode on modern TV motion artifacts, OLED/LED stutter, motion smoothing, the soap-opera effect, Dolby's selective smoothing approach, and why some viewers still prefer older plasma TVs. Created pages for Rahul Banerjee, Vikrant Lal, Samuel Bretton, Ratings.com, Mahesh Balakrishnan, Dolby, Tom Cruise, TV Motion Stutter, Motion Smoothing, Soap Opera Effect, Selective Motion Smoothing, and Plasma TV Preference; updated overview, index, Marketplace Tech, and Display Ergonomics. No direct contradiction found; the source qualifies consumer-electronics upgrade narratives by showing that higher resolution and brightness can improve sports while making low-frame-rate film motion less pleasant for some viewers.
+
+## [2026-07-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-10] lint | Wiki health check
 

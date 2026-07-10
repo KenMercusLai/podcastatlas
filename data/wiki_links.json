@@ -327,6 +327,10 @@
     "title": "AI Game Industrialization",
     "url": "/wiki/concepts/aigameindustrialization/"
   },
+  "AIGeneratedAdvertising": {
+    "title": "AI-Generated Advertising",
+    "url": "/wiki/concepts/aigeneratedadvertising/"
+  },
   "AIGovernanceAndCompliance": {
     "title": "AI Governance And Compliance",
     "url": "/wiki/concepts/aigovernanceandcompliance/"
@@ -498,6 +502,10 @@
   "AISuperCreators": {
     "title": "AI Super Creators",
     "url": "/wiki/concepts/aisupercreators/"
+  },
+  "AITalentCompetition": {
+    "title": "AI Talent Competition",
+    "url": "/wiki/concepts/aitalentcompetition/"
   },
   "AITranslation": {
     "title": "AI Translation",
@@ -2035,6 +2043,10 @@
     "title": "Creation As Consumption",
     "url": "/wiki/concepts/creationasconsumption/"
   },
+  "CreativeLaborAIBacklash": {
+    "title": "Creative Labor AI Backlash",
+    "url": "/wiki/concepts/creativelaboraibacklash/"
+  },
   "CreativeMaterialIndustrialization": {
     "title": "Creative Material Industrialization",
     "url": "/wiki/concepts/creativematerialindustrialization/"
@@ -2254,6 +2266,10 @@
   "DavidCameron": {
     "title": "David Cameron",
     "url": "/wiki/entities/davidcameron/"
+  },
+  "DavidEllison": {
+    "title": "David Ellison",
+    "url": "/wiki/entities/davidellison/"
   },
   "Daxiong": {
     "title": "大雄",
@@ -4287,6 +4303,10 @@
     "title": "旧世代",
     "url": "/wiki/entities/jiushidai/"
   },
+  "JoannaStern": {
+    "title": "Joanna Stern",
+    "url": "/wiki/entities/joannastern/"
+  },
   "JoaoHavelange": {
     "title": "Joao Havelange",
     "url": "/wiki/entities/joaohavelange/"
@@ -4327,6 +4347,10 @@
     "title": "John Prideaux",
     "url": "/wiki/entities/johnprideaux/"
   },
+  "JohnTernus": {
+    "title": "John Ternus",
+    "url": "/wiki/entities/johnternus/"
+  },
   "JointCustodyReform": {
     "title": "Joint Custody Reform",
     "url": "/wiki/concepts/jointcustodyreform/"
@@ -4338,6 +4362,10 @@
   "JollofIndex": {
     "title": "Jollof Index",
     "url": "/wiki/concepts/jollofindex/"
+  },
+  "JonyIve": {
+    "title": "Jony Ive",
+    "url": "/wiki/entities/jonyive/"
   },
   "JordanBardella": {
     "title": "Jordan Bardella",
@@ -5187,6 +5215,10 @@
     "title": "May Department Stores",
     "url": "/wiki/entities/maydepartmentstores/"
   },
+  "McDonaldsNetherlands": {
+    "title": "McDonald's Netherlands",
+    "url": "/wiki/entities/mcdonaldsnetherlands/"
+  },
   "McKinsey": {
     "title": "McKinsey",
     "url": "/wiki/entities/mckinsey/"
@@ -5994,6 +6026,10 @@
   "Paraguay": {
     "title": "Paraguay",
     "url": "/wiki/entities/paraguay/"
+  },
+  "Paramount": {
+    "title": "Paramount",
+    "url": "/wiki/entities/paramount/"
   },
   "ParticipatoryExhibitions": {
     "title": "Participatory Exhibitions",
@@ -7595,6 +7631,10 @@
     "title": "Streaming Author Brand",
     "url": "/wiki/concepts/streamingauthorbrand/"
   },
+  "StreamingConsolidation": {
+    "title": "Streaming Consolidation",
+    "url": "/wiki/concepts/streamingconsolidation/"
+  },
   "SuBen": {
     "title": "苏本",
     "url": "/wiki/entities/suben/"
@@ -7618,6 +7658,10 @@
   "SubjectivityAsAIAsset": {
     "title": "Subjectivity As AI Asset",
     "url": "/wiki/concepts/subjectivityasaiasset/"
+  },
+  "SubscriptionFatigue": {
+    "title": "Subscription Fatigue",
+    "url": "/wiki/concepts/subscriptionfatigue/"
   },
   "SunZhonghuai": {
     "title": "孙忠怀 / Sun Zhonghuai",
@@ -8414,6 +8458,10 @@
   "WarVisibilityStrategy": {
     "title": "War Visibility Strategy",
     "url": "/wiki/concepts/warvisibilitystrategy/"
+  },
+  "WarnerBrosDiscovery": {
+    "title": "Warner Bros. Discovery",
+    "url": "/wiki/entities/warnerbrosdiscovery/"
   },
   "WarrenBuffett": {
     "title": "Warren Buffett",
@@ -9686,6 +9734,10 @@
   "tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3": {
     "title": "探秘 Claude Code，搞懂 Agent Harness｜对谈来新璐",
     "url": "/wiki/sources/tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3/"
+  },
+  "tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128": {
+    "title": "Bytes: Week in Review - Apple's leadership departures raises concerns over its AI future",
+    "url": "/wiki/sources/tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",
