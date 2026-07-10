@@ -2447,6 +2447,10 @@
     "title": "Document Chunking",
     "url": "/wiki/concepts/documentchunking/"
   },
+  "Dolby": {
+    "title": "Dolby",
+    "url": "/wiki/entities/dolby/"
+  },
   "DollarGeneral": {
     "title": "Dollar General",
     "url": "/wiki/entities/dollargeneral/"
@@ -5007,6 +5011,10 @@
     "title": "Magnify",
     "url": "/wiki/entities/magnify/"
   },
+  "MaheshBalakrishnan": {
+    "title": "Mahesh Balakrishnan",
+    "url": "/wiki/entities/maheshbalakrishnan/"
+  },
   "Maidisen": {
     "title": "麦迪森",
     "url": "/wiki/entities/maidisen/"
@@ -5462,6 +5470,10 @@
   "MortgageApproval": {
     "title": "Mortgage Approval",
     "url": "/wiki/concepts/mortgageapproval/"
+  },
+  "MotionSmoothing": {
+    "title": "Motion Smoothing",
+    "url": "/wiki/concepts/motionsmoothing/"
   },
   "Motorola": {
     "title": "Motorola",
@@ -6159,6 +6171,10 @@
     "title": "Plantamica",
     "url": "/wiki/entities/plantamica/"
   },
+  "PlasmaTVPreference": {
+    "title": "Plasma TV Preference",
+    "url": "/wiki/concepts/plasmatvpreference/"
+  },
   "PlatformAntitrust": {
     "title": "Platform Antitrust",
     "url": "/wiki/concepts/platformantitrust/"
@@ -6547,6 +6563,10 @@
     "title": "Race Promotion Fees",
     "url": "/wiki/concepts/racepromotionfees/"
   },
+  "RahulBanerjee": {
+    "title": "Rahul Banerjee",
+    "url": "/wiki/entities/rahulbanerjee/"
+  },
   "RandomMarketNarratives": {
     "title": "Random Market Narratives",
     "url": "/wiki/concepts/randommarketnarratives/"
@@ -6554,6 +6574,10 @@
   "RansomwareBusinessContinuity": {
     "title": "Ransomware Business Continuity",
     "url": "/wiki/concepts/ransomwarebusinesscontinuity/"
+  },
+  "RatingsCom": {
+    "title": "Ratings.com",
+    "url": "/wiki/entities/ratingscom/"
   },
   "ReadingAsFrameTraining": {
     "title": "Reading As Frame Training",
@@ -6943,6 +6967,10 @@
     "title": "Samuel Beckett",
     "url": "/wiki/entities/samuelbeckett/"
   },
+  "SamuelBretton": {
+    "title": "Samuel Bretton",
+    "url": "/wiki/entities/samuelbretton/"
+  },
   "Sandunban": {
     "title": "Sandunban / 三顿半",
     "url": "/wiki/entities/sandunban/"
@@ -7022,6 +7050,10 @@
   "SeesCandies": {
     "title": "See's Candies",
     "url": "/wiki/entities/seescandies/"
+  },
+  "SelectiveMotionSmoothing": {
+    "title": "Selective Motion Smoothing",
+    "url": "/wiki/concepts/selectivemotionsmoothing/"
   },
   "SelfDirectedLearning": {
     "title": "Self-Directed Learning",
@@ -7290,6 +7322,10 @@
   "Snowdevil": {
     "title": "Snowdevil",
     "url": "/wiki/entities/snowdevil/"
+  },
+  "SoapOperaEffect": {
+    "title": "Soap Opera Effect",
+    "url": "/wiki/concepts/soapoperaeffect/"
   },
   "SocialEngineeringFraud": {
     "title": "Social Engineering Fraud",
@@ -7635,6 +7671,10 @@
     "title": "TSMC",
     "url": "/wiki/entities/tsmc/"
   },
+  "TVMotionStutter": {
+    "title": "TV Motion Stutter",
+    "url": "/wiki/concepts/tvmotionstutter/"
+  },
   "TactileSensing": {
     "title": "Tactile Sensing",
     "url": "/wiki/concepts/tactilesensing/"
@@ -7898,6 +7938,10 @@
   "TomCarter": {
     "title": "Tom Carter",
     "url": "/wiki/entities/tomcarter/"
+  },
+  "TomCruise": {
+    "title": "Tom Cruise",
+    "url": "/wiki/entities/tomcruise/"
   },
   "Tommy": {
     "title": "Tommy",
@@ -8226,6 +8270,10 @@
   "VideoPodcastAffordance": {
     "title": "Video Podcast Affordance",
     "url": "/wiki/concepts/videopodcastaffordance/"
+  },
+  "VikrantLal": {
+    "title": "Vikrant Lal",
+    "url": "/wiki/entities/vikrantlal/"
   },
   "Vipshop": {
     "title": "唯品会 / Vipshop",
@@ -9622,6 +9670,10 @@
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",
     "url": "/wiki/sources/the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad/"
+  },
+  "the-latest-tv-innovations-have-their-critics": {
+    "title": "The latest TV innovations have their critics",
+    "url": "/wiki/sources/the-latest-tv-innovations-have-their-critics/"
   },
   "the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7": {
     "title": "The Mourning Show: The Politics of Khamenei's Funeral",

@@ -1,9 +1,9 @@
 ---
 title: "Display Ergonomics"
 type: concept
-tags: [hardware, productivity, ergonomics, programming]
-sources: [zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, zhe-bannian-women-you-maile-naxie-keji-haowu-1]
-last_updated: 2026-07-08
+tags: [hardware, productivity, ergonomics, programming, television]
+sources: [zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, zhe-bannian-women-you-maile-naxie-keji-haowu-1, the-latest-tv-innovations-have-their-critics]
+last_updated: 2026-07-10
 ---
 
 # Display Ergonomics
@@ -14,6 +14,8 @@ The concept connects hardware specs to human perception. A 32-inch 2.5K display 
 
 [[zhe-bannian-women-you-maile-naxie-keji-haowu-1]] adds a purchase-example layer. One host buys a 32-inch TCL OLED monitor because ordinary OLED panels can be poor for office text, and the product claims improved text rendering; the episode still flags that this had not yet been fully tested. The same source adds a second-display example: a 10-inch touch screen dedicated to server monitoring is valuable because it keeps operational status visible without occupying the main workstation.
 
+[[the-latest-tv-innovations-have-their-critics]] expands the concept from workstation monitors to living-room televisions. It shows that high resolution, brightness, and sharpness do not settle display quality by themselves: sports can benefit from modern clarity, while low-frame-rate movies can reveal [[TVMotionStutter]], and [[MotionSmoothing]] can introduce the [[SoapOperaEffect]].
+
 ## Key Claims
 - Movies, games, and text-heavy work optimize for different display properties; productivity work does not automatically need gaming refresh-rate priorities.
 - More screen area can reduce window switching, especially when [[VibeCoding]] or AI-assisted programming requires seeing an IDE, model conversation, generated output, and documentation together.
@@ -23,6 +25,8 @@ The concept connects hardware specs to human perception. A 32-inch 2.5K display 
 - Monitor size should be judged with desk depth and head/eye movement in mind, not only diagonal inches.
 - OLED, color, and contrast do not automatically solve office readability; text rendering and real testing still matter.
 - Small persistent dashboards can be ergonomic infrastructure when they keep status visible and reduce window switching.
+- Television motion should be judged by content type: sports, movies, and prestige shows can reward different frame behavior.
+- A display can be technically superior while still feeling worse for a specific perception task, such as slow cinematic pans.
 
 ## Connections
 - [[Apple]] - Retina vocabulary and Mac external-display behavior in the source.
@@ -30,3 +34,4 @@ The concept connects hardware specs to human perception. A 32-inch 2.5K display 
 - [[HumanJudgmentUnderAI]] - the user still has to inspect generated code, diffs, and interface output, so readable displays remain part of the workflow.
 - [[PodcastAsAsynchronousMedia]] - companion episode theme about how devices shape media and work habits.
 - [[PersonalInfrastructureCostAccounting]] - display purchases should be judged by daily workflow value and monitoring visibility.
+- [[TVMotionStutter]], [[MotionSmoothing]], [[SoapOperaEffect]], [[SelectiveMotionSmoothing]], and [[PlasmaTVPreference]] - living-room motion branch added by the Marketplace Tech episode.

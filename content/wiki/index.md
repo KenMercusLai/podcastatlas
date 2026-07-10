@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The latest TV innovations have their critics](sources/the-latest-tv-innovations-have-their-critics.md) — Marketplace Tech episode on why modern OLED and LED TVs can make movies look jumpy, why motion smoothing creates the soap-opera effect, and why some viewers still prefer plasma displays.
 - [3D printing was supposed to disrupt prosthetic costs. It hasn't.](sources/3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt.md) — Marketplace Tech episode with Britt Young on why 3D printing has not made prosthetics cheap: professional printers, fitting labor, insurance approval, legal device definitions, and global logistics still dominate access.
 - [Using AI chatbots for mental health support poses serious risks for teens, report finds](sources/using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds.md) — Marketplace Tech episode on a Stanford and Common Sense Media report warning that teens should not use AI chatbots for mental-health support, with examples of sycophantic validation, multi-turn guardrail decay, and missed eating-disorder warning signs.
 - [E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛](sources/e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan.md) — 硅谷101 episode on U.S. capital in global football, from Premier League ownership, Manchester United leverage, Arsenal stadium debt, Liverpool/Fenway execution, and Chelsea contract amortization to UEFA rights intermediaries, transfer finance, Super League logic, and fan conflict.
@@ -238,7 +239,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on teen AI-chatbot mental-health risk and prosthetic access economics.
+- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on teen AI-chatbot mental-health risk, prosthetic access economics, and modern TV motion perception.
+- [Rahul Banerjee](entities/RahulBanerjee.md) — Modern-TV viewer who returned OLED sets and bought a used plasma TV because film motion felt more natural to him.
+- [Vikrant Lal](entities/VikrantLal.md) — Viewer whose older plasma TV preference grounds the episode's contrast between modern specs and cinematic motion feel.
+- [Samuel Bretton](entities/SamuelBretton.md) — Ratings.com representative explaining TV tradeoffs across sports, movies, clarity, brightness, and motion.
+- [Ratings.com](entities/RatingsCom.md) — Display-review context for the episode's claim that TV quality depends on content-specific tradeoffs.
+- [Mahesh Balakrishnan](entities/MaheshBalakrishnan.md) — Dolby VP of Consumer Technology explaining selective motion smoothing and creator metadata.
+- [Dolby](entities/Dolby.md) — Audio-video company linked to selective motion smoothing as a compromise between stutter and the soap-opera effect.
+- [Tom Cruise](entities/TomCruise.md) — Actor referenced through a 2018 PSA warning viewers about the soap-opera effect from motion smoothing.
 - [Britt Young](entities/BrittYoung.md) — Writer and UC Berkeley lecturer grounding the prosthetics episode in lived prosthetic experience, reporting, insurance barriers, and device-classification questions.
 - [Megan McCarty-Corino](entities/MeganMcCartyCorino.md) — Marketplace Tech host framing the question of why 3D printing has not made prosthetic limbs cheap.
 - [UC Berkeley](entities/UCBerkeley.md) — Institutional affiliation for Britt Young in the Marketplace Tech prosthetics episode.
@@ -1458,6 +1466,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [TV Motion Stutter](concepts/TVMotionStutter.md) — Film-motion problem where low-frame-rate movies can look jumpy on modern OLED and LED televisions.
+- [Motion Smoothing](concepts/MotionSmoothing.md) — TV frame-interpolation setting that can reduce stutter while changing the intended look of films.
+- [Soap Opera Effect](concepts/SoapOperaEffect.md) — Disliked hyper-real video look caused by motion smoothing on film-style content.
+- [Selective Motion Smoothing](concepts/SelectiveMotionSmoothing.md) — Dolby-style approach where smoothing is applied only to shots or scenes that need it, guided by metadata or automation.
+- [Plasma TV Preference](concepts/PlasmaTVPreference.md) — Consumer-display preference for older plasma motion behavior despite weaker modern headline specs.
 - [3D-Printed Prosthetics](concepts/ThreeDPrintedProsthetics.md) — Prosthetic technology case showing that cheaper fabrication does not automatically overcome professional equipment, fitting, insurance, and classification constraints.
 - [Prosthetic Insurance Coverage](concepts/ProstheticInsuranceCoverage.md) — Reimbursement layer that can block access to prosthetic devices or attachments even when 3D-printed options exist.
 - [Assistive Device Classification](concepts/AssistiveDeviceClassification.md) — Policy question of whether external prosthetic aids should be treated as high-burden medical devices or more ordinary assistive products.
@@ -2282,7 +2295,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Default Deny Security](concepts/DefaultDenySecurity.md) — Cybersecurity control pattern where software or behavior is blocked unless explicitly approved.
 - [Defensive Dividend Assets](concepts/DefensiveDividendAssets.md) — Income and cash-flow-oriented equity allocation used as a defensive waiting position, while still requiring entry-price and leverage analysis.
 - [Derivative Amplified Volatility](concepts/DerivativeAmplifiedVolatility.md) — Market stress pattern where futures, options, leverage, and short covering magnify an underlying shock.
-- [Display Ergonomics](concepts/DisplayErgonomics.md) — Monitor-choice frame connecting screen size, aspect ratio, curvature, DPI, viewing distance, and text/code readability.
+- [Display Ergonomics](concepts/DisplayErgonomics.md) — Display-choice frame connecting monitor readability, viewing distance, content type, and TV motion perception.
 - [Designed Agency In Games](concepts/DesignedAgencyInGames.md) — Game-design claim that fun choice comes from constraints, goals, feedback, and control rather than unlimited options.
 - [Demand Harvesting](concepts/DemandHarvesting.md) — Go-to-market pattern where startups capture already expressed buyer demand instead of first creating a new category.
 - [Deterministic Audit Data](concepts/DeterministicAuditData.md) — System-of-record evidence for audit-critical yes-or-no facts that should remain separate from probabilistic AI output.

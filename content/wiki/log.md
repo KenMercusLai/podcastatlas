@@ -1827,3 +1827,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-10] ingest | The latest TV innovations have their critics
+
+Added source page for a Marketplace Tech episode on modern TV motion artifacts, OLED/LED stutter, motion smoothing, the soap-opera effect, Dolby's selective smoothing approach, and why some viewers still prefer older plasma TVs. Created pages for Rahul Banerjee, Vikrant Lal, Samuel Bretton, Ratings.com, Mahesh Balakrishnan, Dolby, Tom Cruise, TV Motion Stutter, Motion Smoothing, Soap Opera Effect, Selective Motion Smoothing, and Plasma TV Preference; updated overview, index, Marketplace Tech, and Display Ergonomics. No direct contradiction found; the source qualifies consumer-electronics upgrade narratives by showing that higher resolution and brightness can improve sports while making low-frame-rate film motion less pleasant for some viewers.
+
+## [2026-07-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
