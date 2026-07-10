@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-10] ingest | 3D printing was supposed to disrupt prosthetic costs. It hasn't.
+
+Added source page for a Marketplace Tech episode with Britt Young on why 3D printing has not made prosthetics cheap. Created pages for Britt Young, Megan McCarty-Corino, UC Berkeley, Open Bionics, 3D-Printed Prosthetics, Prosthetic Insurance Coverage, Assistive Device Classification, and Prosthetic Fitting Constraint; updated overview, index, Marketplace Tech, Health Insurance Planning, and Online Healthcare Regulatory Boundary. No direct contradiction found; the source qualifies technology-disruption narratives by showing that professional machines, fitting labor, insurance approval, legal device categories, and global logistics can dominate the price and access story.
+
 ## [2026-07-10] ingest | Using AI chatbots for mental health support poses serious risks for teens, report finds
 
 Added source page for a Marketplace Tech episode on a Stanford and Common Sense Media report warning that teens should not use AI chatbots for mental-health support. Created pages for Marketplace Tech, Daria Georgievich, Stanford University, Common Sense Media, Columbia University, Teen Chatbot Mental Health Risk, Chatbot Safety Guardrail Decay, and Sycophantic AI Companion Risk; updated overview, index, AI Friend Products, Emotional Interaction Models, AI Health Management, Human Judgment Under AI, and AI Governance And Compliance. No direct contradiction found; the source qualifies the AI companionship branch by showing how validation, multi-turn context failures, and missed warning signs become high-stakes when minors seek mental-health support.
@@ -1815,6 +1819,10 @@ Ran lint after health passed. Deterministic checks found two orphan pages (`wiki
 ## [2026-07-10] ingest | Melody Jue: Ocean Memory
 
 Refreshed the existing Long Now source page for Melody Jue's "Ocean Memory" from `/home/ken/repos/podcastatlas/content/episodes/02026-jue-podcast-v2 [02026-jue-podcast-v2].md`. The file matched the already-ingested episode, so no duplicate source page was created; provenance was updated with the podcast export path, audio URL, duration, and a source note about the export's H1 spelling. Existing pages for Melody Jue, Long Now, Ocean Memory Project, Daniel Cohn, Jody Deming, Mandy Suzanne Wong, Anya Yermakova, Jacob Cram, Ocean Memory, Milieu-Specific Analysis, Chemosensation, Ecological Memory, Multispecies Archives, and Ocean Acidification already covered the episode's claims. No direct contradiction found.
+
+## [2026-07-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-10] lint | Wiki health check
 

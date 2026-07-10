@@ -151,6 +151,10 @@
     "title": "361 Degrees",
     "url": "/wiki/entities/361degrees/"
   },
+  "3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt": {
+    "title": "3D printing was supposed to disrupt prosthetic costs. It hasn't.",
+    "url": "/wiki/sources/3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt/"
+  },
   "42Zhangjing": {
     "title": "42章经",
     "url": "/wiki/entities/42zhangjing/"
@@ -995,6 +999,10 @@
     "title": "Assistive AI",
     "url": "/wiki/concepts/assistiveai/"
   },
+  "AssistiveDeviceClassification": {
+    "title": "Assistive Device Classification",
+    "url": "/wiki/concepts/assistivedeviceclassification/"
+  },
   "AsymmetricInfrastructureAttack": {
     "title": "Asymmetric Infrastructure Attack",
     "url": "/wiki/concepts/asymmetricinfrastructureattack/"
@@ -1370,6 +1378,10 @@
   "BridgewaterAssociates": {
     "title": "Bridgewater Associates",
     "url": "/wiki/entities/bridgewaterassociates/"
+  },
+  "BrittYoung": {
+    "title": "Britt Young",
+    "url": "/wiki/entities/brittyoung/"
   },
   "BroadcastCentralization": {
     "title": "Broadcast Centralization",
@@ -5199,6 +5211,10 @@
     "title": "Mega-Cap Concentration Risk",
     "url": "/wiki/concepts/megacapconcentrationrisk/"
   },
+  "MeganMcCartyCorino": {
+    "title": "Megan McCarty-Corino",
+    "url": "/wiki/entities/meganmccartycorino/"
+  },
   "Megvii": {
     "title": "Megvii",
     "url": "/wiki/entities/megvii/"
@@ -5795,6 +5811,10 @@
     "title": "OpenAI",
     "url": "/wiki/entities/openai/"
   },
+  "OpenBionics": {
+    "title": "Open Bionics",
+    "url": "/wiki/entities/openbionics/"
+  },
   "OpenClaw": {
     "title": "Open Claw",
     "url": "/wiki/entities/openclaw/"
@@ -6374,6 +6394,14 @@
   "ProofPointReuse": {
     "title": "Proof Point Reuse",
     "url": "/wiki/concepts/proofpointreuse/"
+  },
+  "ProstheticFittingConstraint": {
+    "title": "Prosthetic Fitting Constraint",
+    "url": "/wiki/concepts/prostheticfittingconstraint/"
+  },
+  "ProstheticInsuranceCoverage": {
+    "title": "Prosthetic Insurance Coverage",
+    "url": "/wiki/concepts/prostheticinsurancecoverage/"
   },
   "ProtectiveCollarStrategy": {
     "title": "Protective Collar Strategy",
@@ -7791,6 +7819,10 @@
     "title": "Threate Filling Station",
     "url": "/wiki/entities/threatefillingstation/"
   },
+  "ThreeDPrintedProsthetics": {
+    "title": "3D-Printed Prosthetics",
+    "url": "/wiki/concepts/threedprintedprosthetics/"
+  },
   "ThriveMarket": {
     "title": "Thrive Market",
     "url": "/wiki/entities/thrivemarket/"
@@ -7998,6 +8030,10 @@
   "TypeTypeMaker": {
     "title": "Type Type Maker",
     "url": "/wiki/entities/typetypemaker/"
+  },
+  "UCBerkeley": {
+    "title": "UC Berkeley",
+    "url": "/wiki/entities/ucberkeley/"
   },
   "UCSD": {
     "title": "UCSD",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [3D printing was supposed to disrupt prosthetic costs. It hasn't.](sources/3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt.md) — Marketplace Tech episode with Britt Young on why 3D printing has not made prosthetics cheap: professional printers, fitting labor, insurance approval, legal device definitions, and global logistics still dominate access.
 - [Using AI chatbots for mental health support poses serious risks for teens, report finds](sources/using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds.md) — Marketplace Tech episode on a Stanford and Common Sense Media report warning that teens should not use AI chatbots for mental-health support, with examples of sycophantic validation, multi-turn guardrail decay, and missed eating-disorder warning signs.
 - [E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛](sources/e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan.md) — 硅谷101 episode on U.S. capital in global football, from Premier League ownership, Manchester United leverage, Arsenal stadium debt, Liverpool/Fenway execution, and Chelsea contract amortization to UEFA rights intermediaries, transfer finance, Super League logic, and fan conflict.
 - [142. 产品体验学日本、全球营销学韩国](sources/142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1.md) — 疯投圈 episode on Japan as product-experience benchmark, Korea as global-marketing and fan-economy benchmark, and cases including Kiyosumi-Shirakawa, Tokyo Disney, Sanrio, Pop Mart, Kyoto, inbound tourism, and China's efficiency tradeoffs.
@@ -237,7 +238,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for the teen AI-chatbot mental-health risk episode.
+- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on teen AI-chatbot mental-health risk and prosthetic access economics.
+- [Britt Young](entities/BrittYoung.md) — Writer and UC Berkeley lecturer grounding the prosthetics episode in lived prosthetic experience, reporting, insurance barriers, and device-classification questions.
+- [Megan McCarty-Corino](entities/MeganMcCartyCorino.md) — Marketplace Tech host framing the question of why 3D printing has not made prosthetic limbs cheap.
+- [UC Berkeley](entities/UCBerkeley.md) — Institutional affiliation for Britt Young in the Marketplace Tech prosthetics episode.
+- [Open Bionics](entities/OpenBionics.md) — British 3D-printed prosthetics firm discussed as an availability option that still faces insurance-coverage barriers.
 - [Daria Georgievich](entities/DariaGeorgievich.md) — Psychiatrist explaining why consumer chatbots are unsafe mental-health supports for teens, especially in longer conversations.
 - [Stanford University](entities/StanfordUniversity.md) — Co-cited report source in the Marketplace Tech episode on teen chatbot mental-health risk.
 - [Common Sense Media](entities/CommonSenseMedia.md) — Co-cited report source anchoring the child- and teen-safety side of the chatbot mental-health discussion.
@@ -1453,6 +1458,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [3D-Printed Prosthetics](concepts/ThreeDPrintedProsthetics.md) — Prosthetic technology case showing that cheaper fabrication does not automatically overcome professional equipment, fitting, insurance, and classification constraints.
+- [Prosthetic Insurance Coverage](concepts/ProstheticInsuranceCoverage.md) — Reimbursement layer that can block access to prosthetic devices or attachments even when 3D-printed options exist.
+- [Assistive Device Classification](concepts/AssistiveDeviceClassification.md) — Policy question of whether external prosthetic aids should be treated as high-burden medical devices or more ordinary assistive products.
+- [Prosthetic Fitting Constraint](concepts/ProstheticFittingConstraint.md) — Dependence of prosthetic usefulness on skilled fitting, scanning, adjustment, and follow-up rather than fabrication alone.
 - [Teen Chatbot Mental Health Risk](concepts/TeenChatbotMentalHealthRisk.md) — Risk that minors rely on companion-style AI chatbots for mental-health support despite unreliable context tracking and escalation.
 - [Chatbot Safety Guardrail Decay](concepts/ChatbotSafetyGuardrailDecay.md) — Failure mode where safety behavior looks adequate in single-turn crisis prompts but weakens across longer conversations.
 - [Sycophantic AI Companion Risk](concepts/SycophanticAICompanionRisk.md) — Danger that emotionally fluent AI companions over-validate users when correction, friction, or human support is needed.
