@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Dr. AI will see you now](sources/tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128.md) — Marketplace Tech episode with Hassan Benchikran on patients using AI for diagnoses, treatment ideas, biopsy results, and medical decisions, and why clinicians should invite AI outputs into the visit for contextual review rather than dismissing them.
 - [Bytes: Week in Review - Micron's big earnings, Oracle's data center woes and "slop" is Merriam-Webster's word of the year](sources/tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Anita Ramaswamy of The Information on Micron's AI memory boom, high-bandwidth memory, consumer storage pressure, Oracle's reported OpenAI cloud deal and data-center debt risk, Blue Owl's reported project withdrawal, local data-center backlash, and AI slop becoming Merriam-Webster's 2025 word of the year.
 - [The challenges of integrating ads in AI search engines](sources/tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128.md) — Marketplace Tech episode with Garrett Johnson of Boston University on AI search advertising, Perplexity's ad pullback, advertiser scale, conversion data, OpenAI commerce partnerships, GEO, and winner-take-most answer slots.
 - [Tech sector job postings on Indeed (mostly) stabilized this year](sources/tech-20251217-1217-mp-tech-pod-128-tech-20251217-1217-mp-tech-pod-128.md) — Marketplace Tech episode with Corey Staley of Indeed on tech job postings stabilizing at a low level, the 67.2 posting index, narrow AI labor demand, software developer pullback, data engineering demand, and the 2026 outlook.
@@ -246,13 +247,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Hassan Benchikran](entities/HassanBenchikran.md) — San Diego pulmonary and critical/intensive care physician arguing that patients will use AI health answers and should be encouraged to bring them into appointments for contextual review.
 - [Anita Ramaswamy](entities/AnitaRamaswamy.md) — The Information columnist explaining Micron's AI memory demand, Oracle data-center debt risk, and AI slop in the Marketplace Tech Bytes episode.
 - [The Information](entities/TheInformation.md) — Technology business publication affiliation for Anita Ramaswamy in the Marketplace Tech AI market roundup.
 - [Micron Technology](entities/MicronTechnology.md) — Memory supplier used to explain high-bandwidth memory demand and consumer-storage pressure from AI data-center growth.
 - [SK Hynix](entities/SKHynix.md) — Memory supplier peer named alongside Micron and Samsung in the AI memory demand cycle.
 - [Blue Owl Capital](entities/BlueOwlCapital.md) — Capital provider named in reporting discussed by Marketplace Tech about withdrawal from an Oracle-linked Michigan data-center project.
 - [Merriam-Webster](entities/MerriamWebster.md) — Dictionary publisher whose 2025 word-of-the-year selection of "slop" grounds the episode's AI-generated content discussion.
-- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on tech hiring, world models, AI-chatbot risk, prosthetic access, modern TV motion, AI data-center regulation, tax incentives, AI search advertising, AI memory demand, data-center debt risk, and AI slop.
+- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on patient AI use, tech hiring, world models, AI-chatbot risk, prosthetic access, modern TV motion, AI data-center regulation, tax incentives, AI search advertising, AI memory demand, data-center debt risk, and AI slop.
 - [Garrett Johnson](entities/GarrettJohnson.md) — Boston University marketing professor explaining why AI search advertising depends on user growth, advertiser scale, conversion data, and sponsored-answer design.
 - [Boston University](entities/BostonUniversity.md) — University affiliation for Garrett Johnson in the Marketplace Tech episode on AI search advertising.
 - [Walmart](entities/Walmart.md) — Retail company cited as an OpenAI commerce partner whose conversion data may matter for AI search advertising and agentic commerce.
@@ -278,7 +280,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dolby](entities/Dolby.md) — Audio-video company linked to selective motion smoothing as a compromise between stutter and the soap-opera effect.
 - [Tom Cruise](entities/TomCruise.md) — Actor referenced through a 2018 PSA warning viewers about the soap-opera effect from motion smoothing.
 - [Britt Young](entities/BrittYoung.md) — Writer and UC Berkeley lecturer grounding the prosthetics episode in lived prosthetic experience, reporting, insurance barriers, and device-classification questions.
-- [Megan McCarty-Corino](entities/MeganMcCartyCorino.md) — Marketplace Tech host framing episodes on tech hiring, world models, data-center tax incentives, prosthetic access, Apple/streaming/AI-ad news, AI search advertising, AI memory demand, data-center debt risk, and AI slop.
+- [Megan McCarty-Corino](entities/MeganMcCartyCorino.md) — Marketplace Tech host framing episodes on patient AI use, tech hiring, world models, data-center tax incentives, prosthetic access, Apple/streaming/AI-ad news, AI search advertising, AI memory demand, data-center debt risk, and AI slop.
 - [UC Berkeley](entities/UCBerkeley.md) — Institutional affiliation for Britt Young in the Marketplace Tech prosthetics episode.
 - [Open Bionics](entities/OpenBionics.md) — British 3D-printed prosthetics firm discussed as an availability option that still faces insurance-coverage barriers.
 - [Daria Georgievich](entities/DariaGeorgievich.md) — Psychiatrist explaining why consumer chatbots are unsafe mental-health supports for teens, especially in longer conversations.
@@ -1496,6 +1498,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Patient AI Use](concepts/PatientAIUse.md) — Pattern where patients use large language models to interpret symptoms, results, diagnoses, treatment possibilities, or medical decisions before bringing those outputs into care.
+- [Doctor-Guided AI Interpretation](concepts/DoctorGuidedAIInterpretation.md) — Clinical practice of reviewing patient AI outputs with medical history, context, and professional responsibility rather than treating AI as an independent doctor.
 - [High Bandwidth Memory](concepts/HighBandwidthMemory.md) — Fast AI-adjacent memory category used to explain why data-center demand lifts suppliers such as Micron, SK Hynix, and Samsung.
 - [AI Hardware Supply Chain Pressure](concepts/AIHardwareSupplyChainPressure.md) — Pattern where AI data-center demand redirects component supply, product focus, and consumer pricing across memory and storage markets.
 - [Data Center Debt Risk](concepts/DataCenterDebtRisk.md) — Financial fragility from AI data-center buildouts that depend on debt, third-party developers, leases, future cloud demand, and local project execution.
@@ -1612,7 +1616,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [魏则西事件](concepts/WeiZexiIncident.md) — Search, advertising, hospital outsourcing, and treatment-claim case that pushed internet healthcare into a more cautious period.
 - [HMO Managed Care](concepts/HMOManagedCare.md) — Managed-care incentive model used to rethink internet healthcare as long-term health-risk management rather than one-off service sales.
 - [数字健共体](concepts/DigitalHealthCommunity.md) — City-level chronic-disease and health-management model associated with WeDoctor's later route.
-- [Medical AI Workflow Integration](concepts/MedicalAIWorkflowIntegration.md) — Practical medical-AI frame focused on imaging, record reading, follow-up, pharmacy review, and doctor-supervised workflows.
+- [Medical AI Workflow Integration](concepts/MedicalAIWorkflowIntegration.md) — Practical medical-AI frame focused on imaging, record reading, follow-up, pharmacy review, ambient scribe/research support, and doctor-supervised workflows.
 - [Physical AGI](concepts/PhysicalAGI.md) — general physical intelligence route where the robot brain transfers across tasks and scenes rather than optimizing one robot shell or workflow.
 - [AI Native Robotics](concepts/AINativeRobotics.md) — robotics route built around general model capability, data diversity, active agency, and product boundaries rather than traditional task-by-task robotics.
 - [Unified Robot Models](concepts/UnifiedRobotModels.md) — model route where robot action and behavior learning compound across tasks instead of stitching many narrow models together.
@@ -1838,7 +1842,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Human-Machine Amplification](concepts/HumanMachineAmplification.md) — AI-era claim that technology multiplies the user's judgment, values, volition, and weak points rather than automatically improving them.
 - [AI Literacy Against Worship](concepts/AILiteracyAgainstWorship.md) — Public AI education frame focused on limits, incentives, attention, language, and agency before tool training.
 - [Personal Health Data](concepts/PersonalHealthData.md) — Longitudinal health records, reports, wearable signals, and context treated as a durable AI-era personal asset.
-- [AI Health Management](concepts/AIHealthManagement.md) — Doctor-supervised use of AI to read long-term personal data, flag trends, and support prevention without replacing diagnosis or treatment.
+- [AI Health Management](concepts/AIHealthManagement.md) — Doctor-supervised use of AI to read long-term personal data, flag trends, review patient AI outputs, and support prevention without replacing diagnosis or treatment.
 - [Continuous Glucose Monitoring](concepts/ContinuousGlucoseMonitoring.md) — CGM device/data category used to read glucose curves and risk trends rather than isolated diagnostic points.
 - [Distribution-Out Personal Strategy](concepts/DistributionOutPersonalStrategy.md) — AI-era education and career strategy of building distinctive capability outside standardized statistical-center tasks.
 - [Model As Operating System](concepts/ModelAsOperatingSystem.md) — Thesis that frontier models may become platform infrastructure for agents, applications, work, research, and ecosystem control.
@@ -2390,7 +2394,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hong Kong Tech Repricing](concepts/HongKongTechRepricing.md) — EP57 frame for DeepSeek-driven reassessment of Hong Kong and China technology assets and their changing relationship with U.S. tech.
 - [Hong Kong Market Structure](concepts/HongKongMarketStructure.md) — E159 frame for Hong Kong equities as an optional offshore market with scarce liquidity, segmented buyers, thin ETF coverage, and IPO absorption.
 - [Human-Agent Collaboration](concepts/HumanAgentCollaboration.md) — Product-design problem of finding better ways for people and AI agents to work together beyond chat, prompt, and session interfaces.
-- [Human Judgment Under AI](concepts/HumanJudgmentUnderAI.md) — Claim that AI improves preparation and automation but cannot replace situated judgment, permission choices, or responsibility.
+- [Human Judgment Under AI](concepts/HumanJudgmentUnderAI.md) — Claim that AI improves preparation, automation, and decision organization but cannot replace situated judgment, clinical context, permission choices, or responsibility.
 - [Independent Agent Vendor](concepts/IndependentAgentVendor.md) — Proposed successor to independent software vendors, building specialized enterprise agents for workflow, industry, or role-specific work.
 - [Independent Investment Consulting](concepts/IndependentInvestmentConsulting.md) — Advice-fee model focused on portfolio design, risk explanation, and long-term decision support rather than product distribution commissions.
 - [In-Store Demos](concepts/InStoreDemos.md) — Retail sampling and storytelling sessions that help CPG products sell and generate customer-learning loops.

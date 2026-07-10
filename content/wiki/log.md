@@ -1891,3 +1891,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-10] ingest | Dr. AI will see you now
+
+Added source page for a Marketplace Tech episode with Hassan Benchikran on patient use of AI health answers, including diagnoses, treatment ideas, biopsy-result interpretation, ambient scribe/research workflows, and AI-assisted organization of high-stakes family medical decisions. Created pages for Hassan Benchikran, Patient AI Use, and Doctor-Guided AI Interpretation; updated overview, index, Marketplace Tech, Megan McCarty-Corino, AI Health Management, Medical AI Workflow Integration, and Human Judgment Under AI. No direct contradiction found; the source reinforces the wiki's healthcare-AI boundary that AI can organize information and prepare better clinical conversations, but context, diagnosis, treatment decisions, and responsibility remain with patients and qualified clinicians.
+
+## [2026-07-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
