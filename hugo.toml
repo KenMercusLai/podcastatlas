@@ -3,6 +3,7 @@ locale = 'en-us'
 title = 'Podcast Atlas'
 theme = 'hugo-xmin'
 preview_urls = false
+ignoreFiles = ['(^|/)(content/)?wiki/(index|log)\.md$']
 
 [caches]
   [caches.images]
@@ -10,6 +11,12 @@ preview_urls = false
 
 [outputs]
 page = ['html','markdown']
+
+[module]
+  [[module.mounts]]
+    source = 'content'
+    target = 'content'
+    files = ['! wiki/index.md', '! wiki/log.md']
 
 [taxonomies]
 category = 'categories'

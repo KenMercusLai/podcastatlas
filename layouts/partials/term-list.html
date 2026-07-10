@@ -1,0 +1,13 @@
+{{ if . }}
+  <ul class="term-list">
+    {{ range . }}
+      <li>
+        <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a>
+        {{ $count := int .Count }}
+        <span class="term-count">{{ $count }} page{{ if ne $count 1 }}s{{ end }}</span>
+      </li>
+    {{ end }}
+  </ul>
+{{ else }}
+  <p class="meta">No terms found.</p>
+{{ end }}

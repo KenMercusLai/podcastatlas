@@ -1,0 +1,57 @@
+{{ define "main" }}
+  {{ if eq .RelPermalink ("/wiki/" | relURL) }}
+    <h1>{{ .Title }}</h1>
+
+    {{ $overview := .Site.GetPage "/wiki/overview" }}
+    {{ $concepts := .Site.GetPage "/wiki/concepts" }}
+    {{ $entities := .Site.GetPage "/wiki/entities" }}
+    {{ $sources := .Site.GetPage "/wiki/sources" }}
+
+    <ul class="wiki-section-list">
+      {{ with $overview }}
+        <li>
+          <div>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <div class="page-meta">Living synthesis across all sources</div>
+          </div>
+          <span class="wiki-section-count">1 page</span>
+        </li>
+      {{ end }}
+      {{ with $concepts }}
+        {{ $count := len .RegularPages }}
+        <li>
+          <div>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <div class="page-meta">Concept notes and cross-source themes</div>
+          </div>
+          <span class="wiki-section-count">{{ $count }} page{{ if ne $count 1 }}s{{ end }}</span>
+        </li>
+      {{ end }}
+      {{ with $entities }}
+        {{ $count := len .RegularPages }}
+        <li>
+          <div>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <div class="page-meta">People, companies, products, places, and organizations</div>
+          </div>
+          <span class="wiki-section-count">{{ $count }} page{{ if ne $count 1 }}s{{ end }}</span>
+        </li>
+      {{ end }}
+      {{ with $sources }}
+        {{ $count := len .RegularPages }}
+        <li>
+          <div>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <div class="page-meta">Podcast source notes</div>
+          </div>
+          <span class="wiki-section-count">{{ $count }} page{{ if ne $count 1 }}s{{ end }}</span>
+        </li>
+      {{ end }}
+    </ul>
+  {{ else }}
+    <h1>{{ .Title }}</h1>
+    {{ $count := int (len .RegularPages) }}
+    <p class="count">{{ $count }} page{{ if ne $count 1 }}s{{ end }}</p>
+    {{ partial "page-list.html" .RegularPages }}
+  {{ end }}
+{{ end }}

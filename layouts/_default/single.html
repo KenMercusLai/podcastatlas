@@ -1,20 +1,40 @@
 {{ define "main" }}
-  <article>
-    <h1>{{ .Title }}</h1>
-    <div class="meta">
-      {{ with .Date }}<span>{{ .Format "2006-01-02" }}</span>{{ end }}
-      {{ with .GetTerms "show" }}
-        <span> · Show:
-          {{ range $index, $term := . }}{{ if $index }}, {{ end }}<a href="{{ $term.RelPermalink }}">{{ $term.LinkTitle }}</a>{{ end }}
-        </span>
-      {{ else }}
-        {{ with .Params.show }}<span> · Show: {{ . }}</span>{{ end }}
+  {{ if eq .Section "wiki" }}
+    <article>
+      {{ if not (findRE `(?m)^#\s+` .RawContent 1) }}
+        <h1>{{ .Title }}</h1>
       {{ end }}
-      {{ with .Params.duration }}<span> · {{ . }}s</span>{{ end }}
-      {{ with .Params.source_url }}<span> · <a href="{{ . }}" target="_blank" rel="noopener noreferrer">Source</a></span>{{ end }}
-    </div>
-    <div class="content">
-      {{ .Content }}
-    </div>
-  </article>
+      <div class="meta wiki-meta">
+        {{ with .Params.type }}<span>{{ . }}</span>{{ end }}
+        {{ with .Params.last_updated }}<span>Updated {{ time.Format "2006-01-02" . }}</span>{{ end }}
+        {{ with .GetTerms "tags" }}
+          <span>Tags:
+            {{ range $index, $term := . }}{{ if $index }}, {{ end }}<a href="{{ $term.RelPermalink }}">{{ $term.LinkTitle }}</a>{{ end }}
+          </span>
+        {{ end }}
+      </div>
+      <div class="content">
+        {{ partial "wiki-content.html" . }}
+      </div>
+    </article>
+  {{ else }}
+    <article>
+      <h1>{{ .Title }}</h1>
+      <div class="meta">
+        {{ with .Date }}<span>{{ .Format "2006-01-02" }}</span>{{ end }}
+        {{ with .GetTerms "show" }}
+          <span> · Show:
+            {{ range $index, $term := . }}{{ if $index }}, {{ end }}<a href="{{ $term.RelPermalink }}">{{ $term.LinkTitle }}</a>{{ end }}
+          </span>
+        {{ else }}
+          {{ with .Params.show }}<span> · Show: {{ . }}</span>{{ end }}
+        {{ end }}
+        {{ with .Params.duration }}<span> · {{ . }}s</span>{{ end }}
+        {{ with .Params.source_url }}<span> · <a href="{{ . }}" target="_blank" rel="noopener noreferrer">Source</a></span>{{ end }}
+      </div>
+      <div class="content">
+        {{ .Content }}
+      </div>
+    </article>
+  {{ end }}
 {{ end }}

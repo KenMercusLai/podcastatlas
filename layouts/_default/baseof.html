@@ -116,7 +116,10 @@
     }
 
     .show-list,
-    .episode-list {
+    .episode-list,
+    .page-list,
+    .term-list,
+    .wiki-section-list {
       list-style: none;
       padding: 0;
       margin: 24px 0 0;
@@ -124,7 +127,10 @@
     }
 
     .show-list li,
-    .episode-list li {
+    .episode-list li,
+    .page-list li,
+    .term-list li,
+    .wiki-section-list li {
       display: grid;
       grid-template-columns: minmax(0, 1fr) auto;
       gap: 16px;
@@ -134,21 +140,34 @@
     }
 
     .episode-list a,
-    .show-list a {
+    .show-list a,
+    .page-list a,
+    .term-list a,
+    .wiki-section-list a {
       font-weight: 650;
     }
 
     .episode-date,
-    .show-count {
+    .show-count,
+    .page-kind,
+    .term-count,
+    .wiki-section-count {
       color: var(--muted);
       white-space: nowrap;
       font-size: 0.95rem;
     }
 
-    .episode-meta {
+    .episode-meta,
+    .page-meta {
       margin-top: 4px;
       color: var(--muted);
       font-size: 0.95rem;
+    }
+
+    .wiki-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0 10px;
     }
 
     .content {
@@ -174,13 +193,19 @@
       }
 
       .show-list li,
-      .episode-list li {
+      .episode-list li,
+      .page-list li,
+      .term-list li,
+      .wiki-section-list li {
         grid-template-columns: 1fr;
         gap: 4px;
       }
 
       .episode-date,
-      .show-count {
+      .show-count,
+      .page-kind,
+      .term-count,
+      .wiki-section-count {
         white-space: normal;
       }
     }
@@ -192,6 +217,7 @@
     <nav class="site-nav" aria-label="Primary">
       <a href="{{ "/episodes/" | relURL }}">Episodes</a>
       <a href="{{ "/shows/" | relURL }}">Shows</a>
+      <a href="{{ "/wiki/" | relURL }}">Wiki</a>
     </nav>
   </header>
 

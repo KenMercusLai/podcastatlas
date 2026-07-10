@@ -1,0 +1,14 @@
+{{- $content := .RawContent -}}
+{{- $pagesByKey := hugo.Data.wiki_links | default dict -}}
+
+{{- range uniq (findRE `\[\[[^\]\n]+\]\]` $content) -}}
+  {{- $link := . -}}
+  {{- $key := replaceRE `^\[\[([^\]\n]+)\]\]$` "$1" $link -}}
+  {{- with index $pagesByKey $key -}}
+    {{- $title := replace .title `[` `\[` -}}
+    {{- $title = replace $title `]` `\]` -}}
+    {{- $content = replace $content $link (printf "[%s](%s)" $title .url) -}}
+  {{- end -}}
+{{- end -}}
+
+{{ .RenderString $content }}

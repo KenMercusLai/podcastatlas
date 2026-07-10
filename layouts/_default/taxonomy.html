@@ -2,15 +2,21 @@
   {{ if .Data.Terms }}
     {{ if eq .Data.Singular "show" }}
       <h1>Shows</h1>
+      {{ partial "show-list.html" .Data.Terms.Alphabetical }}
     {{ else }}
       <h1>{{ .Title }}</h1>
+      {{ partial "term-list.html" .Data.Terms.Alphabetical }}
     {{ end }}
-
-    {{ partial "show-list.html" .Data.Terms.Alphabetical }}
   {{ else }}
     <h1>{{ .Title }}</h1>
-    {{ $count := int (len .Pages) }}
-    <p class="count">{{ $count }} episode{{ if ne $count 1 }}s{{ end }}</p>
-    {{ partial "episode-list.html" (dict "pages" .Pages "showMeta" (ne .Data.Singular "show")) }}
+    {{ if eq .Data.Singular "show" }}
+      {{ $count := int (len .Pages) }}
+      <p class="count">{{ $count }} episode{{ if ne $count 1 }}s{{ end }}</p>
+      {{ partial "episode-list.html" (dict "pages" .Pages "showMeta" false) }}
+    {{ else }}
+      {{ $count := int (len .Pages) }}
+      <p class="count">{{ $count }} page{{ if ne $count 1 }}s{{ end }}</p>
+      {{ partial "page-list.html" .Pages }}
+    {{ end }}
   {{ end }}
 {{ end }}
