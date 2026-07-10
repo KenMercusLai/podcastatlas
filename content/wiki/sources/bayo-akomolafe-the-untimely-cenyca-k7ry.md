@@ -4,9 +4,13 @@ type: source
 tags: [podcast, long-now, time, decolonial-thought, black-studies]
 sources: []
 date: 2026-05-20
-source_file: "/home/ken/repos/podcastatlas/content/episodes/Bayo Akomolafe ｜ The Untimely [ceNyCA_K7rY].md"
+source_file: "/home/ken/repos/podcastatlas/content/episodes/02026-akomolafe-podcast-v3 [02026-akomolafe-podcast-v3].md"
+alternate_source_files:
+  - "/home/ken/repos/podcastatlas/content/episodes/Bayo Akomolafe ｜ The Untimely [ceNyCA_K7rY].md"
 source_url: "https://longnow.org/talks/02026-akomolafe"
-last_updated: 2026-07-08
+audio_url: "https://podcast.longnow.org/salt/redirect/02026-akomolafe-podcast-v3.mp3"
+duration_seconds: 4381
+last_updated: 2026-07-10
 ---
 
 ## Summary
@@ -41,3 +45,6 @@ This [[LongNow]] talk presents [[BayoAkomolafe]]'s still-forming account of [[Th
 
 ## Contradictions
 - No direct contradiction found. The source qualifies the wiki's existing long-termism branch by warning that longer horizons or alternative clocks do not automatically escape modernity's mastery logic.
+
+## Source Notes
+- Refreshed on 2026-07-10 from the `02026-akomolafe-podcast-v3` Markdown export. This is the same Long Now episode already represented by this page, so the ingest updated provenance instead of creating a duplicate source page.

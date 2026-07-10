@@ -1771,3 +1771,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-10] ingest | Bayo Akomolafe: The Untimely
+
+Refreshed the existing Long Now source page for Bayo Akomolafe's "The Untimely" from `/home/ken/repos/podcastatlas/content/episodes/02026-akomolafe-podcast-v3 [02026-akomolafe-podcast-v3].md`. The file matched the already-ingested episode, so no duplicate source page was created; provenance was updated with the new source file, audio URL, duration, and a source note. Existing pages for Bayo Akomolafe, Long Now, Eshu, Orland Bishop, Great Dismal Swamp, The Untimely, Modern Time Discipline, Yoruba Twin Cosmology, Colonial Temporal Discipline, Fugitive Temporality, Autistic Time, Ancestrality, and Attention As Weather already covered the episode's claims. No direct contradiction found.
+
+## [2026-07-10] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used stale `graph/graph.json` data built on 2026-07-09 with 2,261 nodes while the wiki scan found 2,413 pages; they found no hub stubs, eight fragile bridges, and no isolated communities, but should be rerun after `build graph`. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
