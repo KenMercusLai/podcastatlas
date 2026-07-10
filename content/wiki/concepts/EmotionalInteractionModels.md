@@ -2,8 +2,8 @@
 title: "Emotional Interaction Models"
 type: concept
 tags: [ai, emotion, robotics]
-sources: [wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew]
-last_updated: 2026-07-09
+sources: [wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds]
+last_updated: 2026-07-10
 ---
 
 # Emotional Interaction Models
@@ -11,6 +11,8 @@ last_updated: 2026-07-09
 Emotional interaction models are AI systems that decide how a product should respond socially and emotionally, not only what factual answer it should give. In [[wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb]], [[YuebanDongli]] uses this idea for [[Xiaoban]] through an emotional brain, long-term memory, personality parameters, and generated action sequences.
 
 [[zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew]] adds a virtual companion version through [[EVE]]. [[Tristan]] says raw ChatGPT API calls felt too assistant-like, so [[NaturalSelection]] moved toward post-training on human companion-chat data and an emotional-interaction design team. The goal is not only warmer wording, but a model that can infer motive, relationship stage, remembered context, and response purpose before replying.
+
+[[using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds]] adds the safety boundary. Emotional responsiveness is not automatically good when the user is a minor seeking mental-health support. [[DariaGeorgievich]] warns that [[SycophanticAICompanionRisk]] can teach unhealthy expectations about relationships, and [[ChatbotSafetyGuardrailDecay]] can leave the system validating unsafe plans or missing eating-disorder warning signs.
 
 ## Key Points
 - The model must map user speech, behavior, and household context into tone, posture, gaze, motion, and future relationship state.
@@ -20,6 +22,7 @@ Emotional interaction models are AI systems that decide how a product should res
 - [[OnDeviceFastSlowBrain]] supports emotional interaction by separating immediate behavior decisions from slower reasoning.
 - EVE extends the concept from embodied behavior into text, voice, calls, 3D scenes, trust values, and character withdrawal.
 - Human companion-chat data can become training material when the product goal is emotional value rather than factual task completion.
+- Emotional interaction for minors needs escalation and refusal behavior, not only warmth, continuity, or validation.
 
 ## Connections
 - [[Xiaoban]] and [[YuebanDongli]] — product and company case.
@@ -28,3 +31,4 @@ Emotional interaction models are AI systems that decide how a product should res
 - [[AICompanionActiveMemory]] and [[AIFriendProducts]] — memory and companion-product layer added by EVE.
 - [[Qwen]] and [[OpenSourceAIModels]] — model base used in the source.
 - [[WorldModels]] — adjacent modeling direction for predicting environment and interaction state.
+- [[TeenChatbotMentalHealthRisk]], [[SycophanticAICompanionRisk]], and [[ChatbotSafetyGuardrailDecay]] — teen mental-health safety boundary added by the Marketplace Tech source.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-10] ingest | Using AI chatbots for mental health support poses serious risks for teens, report finds
+
+Added source page for a Marketplace Tech episode on a Stanford and Common Sense Media report warning that teens should not use AI chatbots for mental-health support. Created pages for Marketplace Tech, Daria Georgievich, Stanford University, Common Sense Media, Columbia University, Teen Chatbot Mental Health Risk, Chatbot Safety Guardrail Decay, and Sycophantic AI Companion Risk; updated overview, index, AI Friend Products, Emotional Interaction Models, AI Health Management, Human Judgment Under AI, and AI Governance And Compliance. No direct contradiction found; the source qualifies the AI companionship branch by showing how validation, multi-turn context failures, and missed warning signs become high-stakes when minors seek mental-health support.
+
 ## [2026-07-10] ingest | E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛
 
 Added source page for a 硅谷101 episode on American capital in global football, from Trump/Infantino and FIFA's U.S. market dependence to Premier League ownership, Manchester United leverage, Arsenal stadium finance, Liverpool/Fenway execution, Chelsea long-contract accounting, UEFA rights intermediaries, transfer receivables finance, Super League-style concentration, and fan conflict. Created pages for Premier League, Manchester United, Glazer Family, Jim Ratcliffe, INEOS, Arsenal FC, Kroenke Sports & Entertainment, Liverpool FC, Fenway Sports Group, Chelsea FC, Todd Boehly, Clearlake Capital, CAA, Relevant Sports, Team Marketing, American Sports Capital In European Football, Football Club Financial Engineering, Stadium Real Estate Economics, Football Transfer Receivables Finance, De Facto Super League Logic, and Football Commercialization Fan Conflict; updated overview, index, Silicon Valley 101, FIFA, UEFA, Gianni Infantino, Donald Trump, United States, Sports Media Rights, Sports Entertainment Flywheel, Football Club As Community Asset, League Stakeholder Alignment, Fat League Economics, JPMorgan Chase, and Goldman Sachs. No direct contradiction found; the source extends the football-business branch by adding the ownership, finance, rights-intermediation, and fan-conflict layers behind tournament commercialization.
@@ -1783,6 +1787,10 @@ Ran lint after health passed. Deterministic checks found three orphan pages (`wi
 ## [2026-07-10] ingest | Kate Crawford: Mapping Empires
 
 Added source page for a Long Now talk on AI as material infrastructure, historical empire, extraction, representational power, AI slop, model collapse, minerals, data centers, water, and public-interest AI. Created pages for Kate Crawford, Rebecca Lendl, Kevin Kelly, Calculating Empires, AI Metabolic Infrastructure, AI Slop, Model Collapse, and Public Interest AI; updated overview, index, Long Now, xAI, Data Center Backlash, Data Center Thermal Management, Jevons Paradox In AI, Critical Minerals Geopolitics, AI Literacy Against Worship, AI Content Devaluation, and AI Recognition Bias. No direct contradiction found; the source qualifies the existing AI infrastructure branch by making environmental cost, extraction, data provenance, and democratic oversight central rather than peripheral.
+
+## [2026-07-10] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-09 with 2,261 nodes and 21,670 edges; they found no hub stubs, eight fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
 
 ## [2026-07-10] lint | Wiki health check
 

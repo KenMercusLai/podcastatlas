@@ -2,8 +2,8 @@
 title: "AI Health Management"
 type: concept
 tags: [ai, healthcare, health-management]
-sources: [ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1]
-last_updated: 2026-07-08
+sources: [ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds]
+last_updated: 2026-07-10
 ---
 
 # AI Health Management
@@ -12,12 +12,15 @@ AI health management is the episode's boundary for useful medical AI: AI can rea
 
 This frame depends on longitudinal data and clinician oversight. Hospitals often see a patient at a specific time point and judge whether indicators cross a threshold; health management asks how those indicators moved, what personal context changed, and whether a pattern deserves professional review before a clear disease state appears.
 
+[[using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds]] adds a mental-health and minor-safety boundary. The [[MarketplaceTech]] source says adults may sometimes receive limited support from chatbots, but teens should not use chatbots for mental-health support because [[ChatbotSafetyGuardrailDecay]] and [[SycophanticAICompanionRisk]] can make the system miss or validate serious warning signs.
+
 ## Key Claims
 - AI is strongest when it reads large histories, compares trends, catches omissions, and keeps up with changing medical knowledge.
 - The quality of advice depends on context; patients may not know what to provide, while trained clinicians can ask better follow-up questions and judge model output.
 - AI health management should be prevention-oriented and risk-oriented, not a substitute for clinical diagnosis.
 - Doctor-in-the-loop design is a safety feature, not a cosmetic compliance layer.
 - Commercial products should keep scope, disclosure, data ownership, and escalation paths clear because health anxiety can make users over-trust plausible AI answers.
+- Teen mental-health use needs a stricter boundary than general adult wellness support: escalation to trusted adults, clinicians, crisis resources, and regulated care matters more than conversational comfort.
 
 ## Connections
 - [[PersonalHealthData]] — data substrate for AI health management.
@@ -26,3 +29,4 @@ This frame depends on longitudinal data and clinician oversight. Hospitals often
 - [[MedicalAIMarketingRisk]] — boundary case when AI health products overclaim authority or hide incentives.
 - [[AIGovernanceAndCompliance]] — regulated-advice and safety context for medical AI systems.
 - [[ContextEngineering]] — health recommendations improve when personal context is complete and structured.
+- [[TeenChatbotMentalHealthRisk]], [[DariaGeorgievich]], and [[MarketplaceTech]] — teen mental-health chatbot boundary added by the Marketplace Tech episode.

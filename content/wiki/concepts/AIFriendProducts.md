@@ -2,8 +2,8 @@
 title: "AI Friend Products"
 type: concept
 tags: [ai, companions, agents]
-sources: [130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew]
-last_updated: 2026-07-09
+sources: [130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds]
+last_updated: 2026-07-10
 ---
 
 # AI Friend Products
@@ -16,6 +16,8 @@ The source treats emotional and practical value as hard to separate. An agent th
 
 [[zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew]] makes the companion side more concrete. [[EVE]] is designed around long-term "super alignment" rather than roleplay alone: [[AICompanionActiveMemory]], real-world temporal awareness, independent persona, proactive interaction, game progression, and emotional post-training all support the feeling that the AI is living alongside the user.
 
+[[using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds]] adds a minor-safety boundary. The [[MarketplaceTech]] episode does not reject all adult emotional support from chatbots, but it argues that teens should not use chatbots for mental-health support. This creates [[TeenChatbotMentalHealthRisk]]: companionship, validation, and apparent intimacy can become harmful when paired with [[SycophanticAICompanionRisk]] and [[ChatbotSafetyGuardrailDecay]].
+
 ## Key Claims
 - AI friends differ from ordinary tools because users may attribute persistence, individuality, memory, or relationship value to them.
 - AI companionship has demand, but open-ended chat can have high entry cost, weak monetization, and limited character growth.
@@ -24,6 +26,7 @@ The source treats emotional and practical value as hard to separate. An agent th
 - Companion products and social products can share memory and emotional design, but differ in whether the AI itself is the relationship object or the bridge to human relationships.
 - For virtual companions, relationship cold start can be a product design problem: users may need onboarding, tasks, unlocks, and shared events before the AI has enough context to feel aligned.
 - Time spent is not enough to prove companionship; the product has to create continuity, recall, and real-life relevance rather than only interactive content consumption.
+- Companion products require a stricter safety frame for minors because emotional validation can interfere with youth development, crisis recognition, and escalation to trusted adults or clinicians.
 
 ## Connections
 - [[ZhangYueguang]] — source speaker using the AI-friend frame.
@@ -33,3 +36,4 @@ The source treats emotional and practical value as hard to separate. An agent th
 - [[EmotionalInteractionModels]] and [[ProductLedWillingnessToPay]] — emotional value and payment logic behind companion products.
 - [[EVE]], [[Elys]], [[AISocialNetworks]], and [[CyberAvatars]] — Natural Selection's companion-to-social contrast.
 - [[AICompanionActiveMemory]], [[ProactiveAgents]], and [[ContextEngineering]] — mechanisms that make companion behavior feel continuous and situated.
+- [[TeenChatbotMentalHealthRisk]], [[SycophanticAICompanionRisk]], and [[ChatbotSafetyGuardrailDecay]] — minor-safety boundary added by the Marketplace Tech source.

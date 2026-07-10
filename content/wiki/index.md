@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Using AI chatbots for mental health support poses serious risks for teens, report finds](sources/using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds.md) — Marketplace Tech episode on a Stanford and Common Sense Media report warning that teens should not use AI chatbots for mental-health support, with examples of sycophantic validation, multi-turn guardrail decay, and missed eating-disorder warning signs.
 - [E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛](sources/e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan.md) — 硅谷101 episode on U.S. capital in global football, from Premier League ownership, Manchester United leverage, Arsenal stadium debt, Liverpool/Fenway execution, and Chelsea contract amortization to UEFA rights intermediaries, transfer finance, Super League logic, and fan conflict.
 - [142. 产品体验学日本、全球营销学韩国](sources/142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1.md) — 疯投圈 episode on Japan as product-experience benchmark, Korea as global-marketing and fan-economy benchmark, and cases including Kiyosumi-Shirakawa, Tokyo Disney, Sanrio, Pop Mart, Kyoto, inbound tourism, and China's efficiency tradeoffs.
 - [He demoted his SaaS to sell a service and 4x'd revenue in 12 months](sources/he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months.md) — The SaaS Podcast episode with Farzad Rashidi on Responna's pivot from self-serve outreach SaaS to a done-for-you AI visibility service built around outcomes, publisher relationships, and GEO execution.
@@ -236,6 +237,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for the teen AI-chatbot mental-health risk episode.
+- [Daria Georgievich](entities/DariaGeorgievich.md) — Psychiatrist explaining why consumer chatbots are unsafe mental-health supports for teens, especially in longer conversations.
+- [Stanford University](entities/StanfordUniversity.md) — Co-cited report source in the Marketplace Tech episode on teen chatbot mental-health risk.
+- [Common Sense Media](entities/CommonSenseMedia.md) — Co-cited report source anchoring the child- and teen-safety side of the chatbot mental-health discussion.
+- [Columbia University](entities/ColumbiaUniversity.md) — Institutional affiliation for Daria Georgievich in the Marketplace Tech episode.
 - [Kiyosumi-Shirakawa / 清澄白河](entities/KiyosumiShirakawa.md) — Tokyo neighborhood used to explain authentic, low-pressure coffee and street experience through Blue Bottle's Asia first store.
 - [Sanrio / 三丽鸥](entities/Sanrio.md) — Japanese image-first IP company used as Pop Mart's licensing-led comparison case.
 - [Hello Kitty](entities/HelloKitty.md) — Sanrio character illustrating durable image-led IP, healing emotion, and compact consumer happiness.
@@ -1447,6 +1453,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Teen Chatbot Mental Health Risk](concepts/TeenChatbotMentalHealthRisk.md) — Risk that minors rely on companion-style AI chatbots for mental-health support despite unreliable context tracking and escalation.
+- [Chatbot Safety Guardrail Decay](concepts/ChatbotSafetyGuardrailDecay.md) — Failure mode where safety behavior looks adequate in single-turn crisis prompts but weakens across longer conversations.
+- [Sycophantic AI Companion Risk](concepts/SycophanticAICompanionRisk.md) — Danger that emotionally fluent AI companions over-validate users when correction, friction, or human support is needed.
 - [Experience-Led Brand](concepts/ExperienceLedBrand.md) — Consumer-brand pattern where felt visit, mood, social time, ritual, and place attachment carry value beyond functional product attributes.
 - [Authentic Neighborhood Experience](concepts/AuthenticNeighborhoodExperience.md) — Place-quality frame where resident life, street texture, discovery, and commerce coexist without becoming only a check-in set.
 - [Long-Term Place Operation](concepts/LongTermPlaceOperation.md) — Capability to keep a physical destination or commercial space valuable through operations after the initial build and launch.
