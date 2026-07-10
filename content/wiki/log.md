@@ -1784,6 +1784,10 @@ Added source page for a 疯投圈 episode on Japan product experience, Korea glo
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-10] ingest | Trevor Blackwell on Viaweb, Robots, and Early Y Combinator
+
+Added source page for The Social Radars interview with Trevor Blackwell on Viaweb, Yahoo Store, Anybots, dynamic balancing robots, and early Y Combinator. Created pages for Trevor Blackwell, Y Combinator, Viaweb, Anybots, Paul Graham, Robert Morris, Jessica Livingston, Carolyn Levy, The Social Radars, Yahoo, Yahoo Store, Web-Based Software, Startup Infrastructure Improvisation, Dynamic Balancing Robotics, Startup Accelerator Batch Selection, and Founder-Investor Learning; updated overview, index, Boston Dynamics, Embodied AI, Physical AI, and Humanoid Robot Commercialization. No direct contradiction found; the source extends modern embodied-AI coverage backward into pre-foundation-model robotics and qualifies startup-history mythology with concrete infrastructure and operating detail.
+
 ## [2026-07-10] ingest | A case for AI models that understand, not just predict, the way the world works
 
 Added source page for a Marketplace Tech episode with Gary Marcus on world models, LLM statistical prediction limits, scene graphs, robotics, video prediction artifacts, causation, and the argument that robust AI or AGI needs explicit entity/state/world representations. Created pages for Gary Marcus and LLM World Model Gap; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Fei-Fei Li, Yann LeCun, Google, World Models, Causal World Models, Frontier Model Scaling, Embodied AI, and Video Models. No direct contradiction found; the source creates a noted tension with existing scaling-discussion pages because Marcus treats recent incremental progress as evidence against pure scaling while other sources warn against premature scaling-wall claims.
@@ -1895,6 +1899,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-10] ingest | Dr. AI will see you now
 
 Added source page for a Marketplace Tech episode with Hassan Benchikran on patient use of AI health answers, including diagnoses, treatment ideas, biopsy-result interpretation, ambient scribe/research workflows, and AI-assisted organization of high-stakes family medical decisions. Created pages for Hassan Benchikran, Patient AI Use, and Doctor-Guided AI Interpretation; updated overview, index, Marketplace Tech, Megan McCarty-Corino, AI Health Management, Medical AI Workflow Integration, and Human Judgment Under AI. No direct contradiction found; the source reinforces the wiki's healthcare-AI boundary that AI can organize information and prepare better clinical conversations, but context, diagnosis, treatment decisions, and responsibility remain with patients and qualified clinicians.
+
+## [2026-07-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-10] lint | Wiki health check
 

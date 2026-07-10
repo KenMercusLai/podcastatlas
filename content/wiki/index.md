@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Trevor Blackwell on Viaweb, Robots, and Early Y Combinator](sources/tsr-s2-trevorblackwell-v2.md) — The Social Radars episode with Trevor Blackwell on Viaweb, Yahoo Store, Anybots, dynamic balancing robots, and early Y Combinator's first applications, dinners, and Mountain View office improvisation.
 - [Dr. AI will see you now](sources/tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128.md) — Marketplace Tech episode with Hassan Benchikran on patients using AI for diagnoses, treatment ideas, biopsy results, and medical decisions, and why clinicians should invite AI outputs into the visit for contextual review rather than dismissing them.
 - [Bytes: Week in Review - Micron's big earnings, Oracle's data center woes and "slop" is Merriam-Webster's word of the year](sources/tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Anita Ramaswamy of The Information on Micron's AI memory boom, high-bandwidth memory, consumer storage pressure, Oracle's reported OpenAI cloud deal and data-center debt risk, Blue Owl's reported project withdrawal, local data-center backlash, and AI slop becoming Merriam-Webster's 2025 word of the year.
 - [The challenges of integrating ads in AI search engines](sources/tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128.md) — Marketplace Tech episode with Garrett Johnson of Boston University on AI search advertising, Perplexity's ad pullback, advertiser scale, conversion data, OpenAI commerce partnerships, GEO, and winner-take-most answer slots.
@@ -247,6 +248,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Trevor Blackwell](entities/TrevorBlackwell.md) — Viaweb engineer, Y Combinator co-founder, and Anybots founder whose episode connects early web software, startup infrastructure, and dynamic balancing robotics.
+- [Y Combinator](entities/YCombinator.md) — Startup accelerator discussed through its first Summer Founders Program, printed applications, early interviews, dinners, and Mountain View office inside Anybots space.
+- [Viaweb](entities/Viaweb.md) — Early web-commerce company where browser-based server software, live infrastructure, and Yahoo acquisition shaped later Y Combinator lessons.
+- [Anybots](entities/Anybots.md) — Trevor Blackwell's robotics company pursuing human-sized dynamically balancing robots and providing early Mountain View space for Y Combinator.
+- [Paul Graham](entities/PaulGraham.md) — Viaweb and Y Combinator co-founder in the Blackwell episode, connecting web-software demos, fundraising opacity, and the first YC program.
+- [Robert Morris](entities/RobertMorris.md) — Harvard, Viaweb, and early Y Combinator figure who connected Paul Graham with Trevor Blackwell and helped judge early applicants.
+- [Jessica Livingston](entities/JessicaLivingston.md) — The Social Radars host and Y Combinator co-founder whose recollections ground the episode's early YC office, dinner, and application stories.
+- [Carolyn Levy](entities/CarolynLevy.md) — The Social Radars host who helps frame Trevor Blackwell's role in early Y Combinator culture and startup folklore.
+- [The Social Radars](entities/TheSocialRadars.md) — Podcast/show context for the Trevor Blackwell interview on Viaweb, Anybots, and early Y Combinator.
+- [Yahoo](entities/Yahoo.md) — Acquirer of Viaweb and setting for Blackwell's small-merchant ad-buying prototype that Yahoo's large-ad-sales organization did not embrace.
+- [Yahoo Store](entities/YahooStore.md) — Post-acquisition Viaweb product context for Blackwell's small-merchant self-serve advertising prototype.
 - [Hassan Benchikran](entities/HassanBenchikran.md) — San Diego pulmonary and critical/intensive care physician arguing that patients will use AI health answers and should be encouraged to bring them into appointments for contextual review.
 - [Anita Ramaswamy](entities/AnitaRamaswamy.md) — The Information columnist explaining Micron's AI memory demand, Oracle data-center debt risk, and AI slop in the Marketplace Tech Bytes episode.
 - [The Information](entities/TheInformation.md) — Technology business publication affiliation for Anita Ramaswamy in the Marketplace Tech AI market roundup.
@@ -1498,6 +1510,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Web-Based Software](concepts/WebBasedSoftware.md) — Early server-hosted browser software model that made Viaweb feel revolutionary because fixes and features could be deployed without boxed release cycles.
+- [Startup Infrastructure Improvisation](concepts/StartupInfrastructureImprovisation.md) — Pattern where early companies keep services and institutions running through practical but risky fixes such as bogometers, fax modems, generator attempts, and unfinished offices.
+- [Dynamic Balancing Robotics](concepts/DynamicBalancingRobotics.md) — Walking-robot route focused on active balance, compliant actuation, terrain adaptation, and impact tolerance rather than only careful foot geometry.
+- [Startup Accelerator Batch Selection](concepts/StartupAcceleratorBatchSelection.md) — Early YC-style application and interview process turning founder judgment into structured batch selection.
+- [Founder-Investor Learning](concepts/FounderInvestorLearning.md) — Pattern where founders translate their own fundraising pain into investor services, advice, selection, and community design.
 - [Patient AI Use](concepts/PatientAIUse.md) — Pattern where patients use large language models to interpret symptoms, results, diagnoses, treatment possibilities, or medical decisions before bringing those outputs into care.
 - [Doctor-Guided AI Interpretation](concepts/DoctorGuidedAIInterpretation.md) — Clinical practice of reviewing patient AI outputs with medical history, context, and professional responsibility rather than treating AI as an independent doctor.
 - [High Bandwidth Memory](concepts/HighBandwidthMemory.md) — Fast AI-adjacent memory category used to explain why data-center demand lifts suppliers such as Micron, SK Hynix, and Samsung.
