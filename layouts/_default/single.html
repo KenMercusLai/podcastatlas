@@ -6,6 +6,7 @@
       {{ end }}
       <div class="meta wiki-meta">
         {{ with .Params.type }}<span>{{ . }}</span>{{ end }}
+        {{ if eq .Params.type "source" }}{{ partial "wiki-source-episode-link.html" . }}{{ end }}
         {{ with .Params.last_updated }}<span>Updated {{ time.Format "2006-01-02" . }}</span>{{ end }}
         {{ with .GetTerms "tags" }}
           <span>Tags:

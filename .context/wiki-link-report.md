@@ -4,15 +4,23 @@
 
 ## Pages
 - Overview: 1
-- Concepts: 996
-- Entities: 1225
-- Sources: 231
-- Total public pages: 2453
+- Concepts: 1006
+- Entities: 1237
+- Sources: 235
+- Total public pages: 2479
 
 ## Links
-- Wiki link references: 53198
-- Unique wiki link targets: 2450
+- Wiki link references: 53888
+- Unique wiki link targets: 2476
 - Missing targets: 0
 - Duplicate file-name targets: 0
 
+## Source Episodes
+- Source pages: 235
+- Matched episodes: 235
+- Missing source_file: 0
+- Unmatched source_file: 0
+
 All wiki links resolve to public wiki pages.
+
+All wiki source pages resolve to episode pages.
