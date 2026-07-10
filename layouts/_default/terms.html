@@ -1,9 +1,9 @@
 {{ define "main" }}
   {{ if eq .Data.Singular "show" }}
     <h1>Shows</h1>
+    {{ partial "show-list.html" .Data.Terms.Alphabetical }}
   {{ else }}
     <h1>{{ .Title }}</h1>
+    {{ partial "term-list.html" .Data.Terms.Alphabetical }}
   {{ end }}
-
-  {{ partial "show-list.html" .Data.Terms.Alphabetical }}
 {{ end }}

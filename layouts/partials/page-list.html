@@ -1,0 +1,19 @@
+{{ $pages := sort . "LinkTitle" }}
+{{ if $pages }}
+  <ul class="page-list">
+    {{ range $pages }}
+      <li>
+        <div>
+          <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+          <div class="page-meta wiki-meta">
+            {{ with .Params.type }}<span>{{ . }}</span>{{ end }}
+            {{ with .Params.last_updated }}<span>Updated {{ time.Format "2006-01-02" . }}</span>{{ end }}
+          </div>
+        </div>
+        {{ with .Section }}<span class="page-kind">{{ . }}</span>{{ end }}
+      </li>
+    {{ end }}
+  </ul>
+{{ else }}
+  <p class="meta">No pages found.</p>
+{{ end }}
