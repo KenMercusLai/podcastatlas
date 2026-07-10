@@ -14,6 +14,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 WIKI_DIR = ROOT / "content" / "wiki"
+EPISODES_DIR = ROOT / "content" / "episodes"
 CONTEXT_DIR = ROOT / ".context"
 REPORT_PATH = CONTEXT_DIR / "wiki-link-report.md"
 DATA_PATH = ROOT / "data" / "wiki_links.json"
@@ -34,6 +35,18 @@ class WikiPage:
         return self.path.relative_to(ROOT).as_posix()
 
 
+@dataclass(frozen=True)
+class SourceEpisodeReport:
+    total_sources: int
+    matched: int
+    missing_source_file: tuple[Path, ...]
+    unmatched_source_file: tuple[tuple[Path, str], ...]
+
+    @property
+    def has_errors(self) -> bool:
+        return bool(self.missing_source_file or self.unmatched_source_file)
+
+
 def split_front_matter(text: str) -> tuple[list[str], str]:
     lines = text.splitlines()
     if not lines or lines[0] not in {"---", "+++"}:
@@ -52,6 +65,22 @@ def strip_quotes(value: str) -> str:
     if len(value) >= 2 and value[0] == value[-1] and value[0] in {"'", '"'}:
         return value[1:-1]
     return value
+
+
+def read_front_matter_value(path: Path, key: str) -> str:
+    text = path.read_text(encoding="utf-8")
+    front_matter, _ = split_front_matter(text)
+    yaml_prefix = f"{key}:"
+    toml_prefix = f"{key} ="
+
+    for line in front_matter:
+        line = line.strip()
+        if line.startswith(yaml_prefix):
+            return strip_quotes(line.split(":", 1)[1])
+        if line.startswith(toml_prefix):
+            return strip_quotes(line.split("=", 1)[1])
+
+    return ""
 
 
 def read_title(path: Path) -> str:
@@ -119,6 +148,44 @@ def section_counts(pages: list[WikiPage]) -> dict[str, int]:
     for page in pages:
         counts[page.section] = counts.get(page.section, 0) + 1
     return counts
+
+
+def scan_source_episodes() -> SourceEpisodeReport:
+    source_dir = WIKI_DIR / "sources"
+    if not source_dir.exists():
+        return SourceEpisodeReport(0, 0, (), ())
+
+    episode_names = {
+        path.name
+        for path in sorted(EPISODES_DIR.glob("*.md"))
+        if not path.name.startswith("_")
+    }
+    missing_source_file: list[Path] = []
+    unmatched_source_file: list[tuple[Path, str]] = []
+    matched = 0
+    total_sources = 0
+
+    for path in sorted(source_dir.glob("*.md")):
+        if path.name.startswith("_"):
+            continue
+        total_sources += 1
+        source_file = read_front_matter_value(path, "source_file")
+        if not source_file:
+            missing_source_file.append(path)
+            continue
+
+        source_name = Path(source_file).name
+        if source_name in episode_names:
+            matched += 1
+        else:
+            unmatched_source_file.append((path, source_name))
+
+    return SourceEpisodeReport(
+        total_sources=total_sources,
+        matched=matched,
+        missing_source_file=tuple(missing_source_file),
+        unmatched_source_file=tuple(unmatched_source_file),
+    )
 
 
 def generated_index(title: str, description: str, cascade_outputs: bool = False) -> str:
@@ -192,6 +259,7 @@ def make_report(
     total_links: int,
     missing: dict[str, list[str]],
     duplicates: dict[str, list[WikiPage]],
+    source_episode_report: SourceEpisodeReport,
 ) -> str:
     counts = section_counts(pages)
     unique_targets = total_unique_link_targets()
@@ -213,6 +281,12 @@ def make_report(
         f"- Missing targets: {len(missing)}",
         f"- Duplicate file-name targets: {len(duplicates)}",
         "",
+        "## Source Episodes",
+        f"- Source pages: {source_episode_report.total_sources}",
+        f"- Matched episodes: {source_episode_report.matched}",
+        f"- Missing source_file: {len(source_episode_report.missing_source_file)}",
+        f"- Unmatched source_file: {len(source_episode_report.unmatched_source_file)}",
+        "",
     ]
 
     if duplicates:
@@ -231,8 +305,24 @@ def make_report(
                 lines.append(f"  - `{referrer}`")
         lines.append("")
 
+    if source_episode_report.missing_source_file:
+        lines.extend(["## Missing Source File Metadata", ""])
+        for path in source_episode_report.missing_source_file:
+            lines.append(f"- `{path.relative_to(ROOT).as_posix()}`")
+        lines.append("")
+
+    if source_episode_report.unmatched_source_file:
+        lines.extend(["## Unmatched Source Episodes", ""])
+        for path, source_name in source_episode_report.unmatched_source_file:
+            lines.append(f"- `{path.relative_to(ROOT).as_posix()}` -> `{source_name}`")
+        lines.append("")
+
     if not duplicates and not missing:
         lines.append("All wiki links resolve to public wiki pages.")
+        lines.append("")
+
+    if not source_episode_report.has_errors:
+        lines.append("All wiki source pages resolve to episode pages.")
         lines.append("")
 
     return "\n".join(lines)
@@ -269,8 +359,9 @@ def run(check: bool) -> int:
     duplicates = duplicate_keys(pages)
     pages_by_key = {page.key: page for page in pages}
     total_links, missing = scan_wiki_links(pages_by_key)
+    source_episode_report = scan_source_episodes()
     generated_files = expected_generated_files()
-    report = make_report(pages, total_links, missing, duplicates)
+    report = make_report(pages, total_links, missing, duplicates, source_episode_report)
     expected = {**generated_files, REPORT_PATH: report}
 
     changed: list[str] = []
@@ -292,12 +383,29 @@ def run(check: bool) -> int:
         f"sources={counts.get('sources', 0)}"
     )
     print(f"Wiki links: references={total_links}, unique_targets={total_unique_link_targets()}")
+    print(
+        "Source episodes: "
+        f"sources={source_episode_report.total_sources}, "
+        f"matched={source_episode_report.matched}, "
+        f"missing_source_file={len(source_episode_report.missing_source_file)}, "
+        f"unmatched_source_file={len(source_episode_report.unmatched_source_file)}"
+    )
 
-    errors = bool(duplicates or missing)
+    errors = bool(duplicates or missing or source_episode_report.has_errors)
     if duplicates:
         print(f"Duplicate wiki targets: {len(duplicates)}", file=sys.stderr)
     if missing:
         print(f"Missing wiki targets: {len(missing)}", file=sys.stderr)
+    if source_episode_report.missing_source_file:
+        print(
+            f"Wiki source pages missing source_file: {len(source_episode_report.missing_source_file)}",
+            file=sys.stderr,
+        )
+    if source_episode_report.unmatched_source_file:
+        print(
+            f"Wiki source pages with unmatched source_file: {len(source_episode_report.unmatched_source_file)}",
+            file=sys.stderr,
+        )
 
     if check:
         if changed:
