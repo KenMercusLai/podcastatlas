@@ -4,14 +4,14 @@
 
 ## Pages
 - Overview: 1
-- Concepts: 1012
-- Entities: 1239
-- Sources: 236
-- Total public pages: 2488
+- Concepts: 1013
+- Entities: 1242
+- Sources: 237
+- Total public pages: 2493
 
 ## Links
-- Wiki link references: 54065
-- Unique wiki link targets: 2485
+- Wiki link references: 54300
+- Unique wiki link targets: 2490
 - Missing targets: 0
 - Duplicate file-name targets: 0
 
