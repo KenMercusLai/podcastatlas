@@ -1779,3 +1779,11 @@ Refreshed the existing Long Now source page for Bayo Akomolafe's "The Untimely" 
 ## [2026-07-10] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used stale `graph/graph.json` data built on 2026-07-09 with 2,261 nodes while the wiki scan found 2,413 pages; they found no hub stubs, eight fragile bridges, and no isolated communities, but should be rerun after `build graph`. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-10] ingest | Kate Crawford: Mapping Empires
+
+Added source page for a Long Now talk on AI as material infrastructure, historical empire, extraction, representational power, AI slop, model collapse, minerals, data centers, water, and public-interest AI. Created pages for Kate Crawford, Rebecca Lendl, Kevin Kelly, Calculating Empires, AI Metabolic Infrastructure, AI Slop, Model Collapse, and Public Interest AI; updated overview, index, Long Now, xAI, Data Center Backlash, Data Center Thermal Management, Jevons Paradox In AI, Critical Minerals Geopolitics, AI Literacy Against Worship, AI Content Devaluation, and AI Recognition Bias. No direct contradiction found; the source qualifies the existing AI infrastructure branch by making environmental cost, extraction, data provenance, and democratic oversight central rather than peripheral.
+
+## [2026-07-10] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found three orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`, and `wiki/entities/TiborKalman.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-09 with 2,261 nodes and 21,670 edges; they found no hub stubs, eight fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.

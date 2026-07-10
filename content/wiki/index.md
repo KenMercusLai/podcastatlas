@@ -94,6 +94,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Mourning Show: The Politics of Khamenei's Funeral](sources/the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7.md) — The Intelligence episode on Khamenei's funeral as political theater, Iran succession uncertainty, Japan's joint-custody reform, and Route 66 nostalgia tourism.
 - [读书，就是在读一个人的 F](sources/dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1.md) — 面基 episode on AI-assisted reading, the X/F/FX framework, reading as frame training, personal knowledge ecology, AI authorship presence, and using one's own judgment when AI makes outputs abundant.
 - [Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough](sources/catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2.md) — How I Built This episode on Catalina Crunch, dietary constraint as product insight, low-sugar cereal formulation, CPG manufacturing scale-up, DTC shipping economics, Whole Foods retail breakout, packaging, and commodity exposure.
+- [Kate Crawford: Mapping Empires](sources/kate-crawford-mapping-empires.md) — Long Now talk on AI as material infrastructure, empire, extraction, representational power, AI slop, model collapse, data centers, minerals, water, and public-interest AI.
 - [Bayo Akomolafe: The Untimely](sources/bayo-akomolafe-the-untimely-cenyca-k7ry.md) — Long Now talk on the untimely, modern time discipline, Yoruba twin cosmology, colonial temporal discipline, fugitive temporality, autistic time, ancestry, and attention.
 - [Claire Isabel Webb & Nina Miolane: The Geometry of Consciousness](sources/claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk.md) — Long Now talk on neural geometry, population coding, spatial-navigation tori, Fourier spatial encoding, sleep-state geometry, AI interpretability, and consciousness measurement limits.
 - [Eric Ries: Incorruptible by Design](sources/eric-ries-incorruptible-by-design-wrgromn5peq.md) — Long Now talk on financial gravity, human-flourishing profit, steward ownership, benefit trusts, private regulatory power, AI alignment governance, and everyday agency.
@@ -727,6 +728,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Krishna Kaliannan](entities/KrishnaKaliannan.md) — Catalina Crunch founder whose diabetes, epilepsy, and keto eating shaped the product thesis.
 - [Escape My Bubble](entities/EscapeMyBubble.md) — Krishna Kaliannan's earlier Chrome extension that gained attention but lacked a clear business model.
 - [Doug Behrens](entities/DougBehrens.md) — Catalina Crunch CEO brought in as Krishna Kaliannan shifted toward nutrition focus.
+- [Kate Crawford](entities/KateCrawford.md) — Long Now speaker connecting AI to material infrastructure, extraction, representation, slop, model collapse, and public-interest governance.
+- [Rebecca Lendl](entities/RebeccaLendl.md) — Long Now host introducing Crawford's AI, power, and planetary-resource talk.
+- [Kevin Kelly](entities/KevinKelly.md) — Q&A interlocutor pressing Crawford on public AI, sovereign AI, capitalism, and beneficial AI use.
+- [Calculating Empires](entities/CalculatingEmpires.md) — Crawford's timeline and critical cartography project mapping communication, computation, classification, and control since 1500.
 - [Bayo Akomolafe](entities/BayoAkomolafe.md) — Long Now speaker developing the untimely as a decolonial critique of modern time, clock discipline, ancestry, disability, and attention.
 - [Orland Bishop](entities/OrlandBishop.md) — Interlocutor in Akomolafe's autistic-time story, challenging the imposition of neurotypical calendar discipline.
 - [Eshu](entities/Eshu.md) — Yoruba trickster figure used by Akomolafe to think decolonization from within the ship, the clock, and modernity's incompleteness.
@@ -754,7 +759,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tibor Kalman](entities/TiborKalman.md) — Designer and Sagmeister mentor used as an AI-era example of design value coming from point of view and vision.
 - [Indy Johar](entities/IndyJohar.md) — Long Now speaker and Dark Matter Labs co-founder arguing for civilizational optionality under planetary volatility.
 - [Dark Matter Labs](entities/DarkMatterLabs.md) — Organization associated with Johar's institutional-design work on governance, finance, and systems change.
-- [Long Now](entities/LongNow.md) — Long-term-thinking organization hosting talks on civilizational optioneering, informed optimism, ocean memory, institutional design, and neural geometry.
+- [Long Now](entities/LongNow.md) — Long-term-thinking organization hosting talks on AI materiality, civilizational optioneering, informed optimism, ocean memory, institutional design, and neural geometry.
 - [James Lovelock](entities/JamesLovelock.md) — Thinker referenced through Novacene to anchor the source's planetary self-awareness frame.
 - [NPR](entities/NPR.md) — Public media organization making a funding appeal around federal funding loss, local journalism, emergency access, and listener support.
 - [Katherine Maher](entities/KatherineMaher.md) — NPR CEO voicing the appeal and linking public-media funding to local reporting, rural access, and donations.
@@ -1571,6 +1576,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Presidential Memorial Culture](concepts/PresidentialMemorialCulture.md) — Presidential museums, libraries, and centers as memory institutions that can preserve civic history while giving presidents quasi-imperial aura.
 - [AI Backlash Politics](concepts/AIBacklashPolitics.md) — Electoral and regulatory politics formed by public anxiety about AI jobs, children, mental health, tech power, and speed of change.
 - [Data Center Backlash](concepts/DataCenterBacklash.md) — Local and political opposition to AI data centers over noise, power demand, building scale, and the symbolism of rapid technological change.
+- [AI Metabolic Infrastructure](concepts/AIMetabolicInfrastructure.md) — Frame treating AI as a material system that consumes data, minerals, energy, water, land, labor, and culture while producing outputs, heat, carbon, and waste.
 - [China Divorce Restrictions](concepts/ChinaDivorceRestrictions.md) — Legal, administrative, property, and censorship barriers to divorce in China, framed against population policy and women's exit costs.
 - [Marriage Exit Friction](concepts/MarriageExitFriction.md) — Policy-design problem where making divorce harder can reduce reported exits while discouraging marriage entry or trapping unhappy spouses.
 - [Cooling As Public Health](concepts/CoolingAsPublicHealth.md) — Climate-adaptation frame treating air conditioning and household cooling as heat-health infrastructure when grids decarbonize.
@@ -1821,6 +1827,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Accountability Sinks](concepts/AccountabilitySinks.md) — Systems problem where unwanted outcomes persist while responsibility for fixing them becomes hard to locate.
 - [Private Regulatory Power](concepts/PrivateRegulatoryPower.md) — Private standards, audits, and rule-setting that shape public outcomes beyond direct customers.
 - [AI Alignment Governance](concepts/AIAlignmentGovernance.md) — View that AI alignment depends on governing the people and organizations doing the alignment.
+- [Public Interest AI](concepts/PublicInterestAI.md) — Publicly accountable AI frame requiring sustainability, consent-based data, democratic oversight, and careful domain fit rather than simple replication of private AI stacks.
 - [Trust As Business Asset](concepts/TrustAsBusinessAsset.md) — Idea that trustworthy mission-driven companies create valuable trust that financial gravity can try to capture.
 - [Ocean Memory](concepts/OceanMemory.md) — Ocean-humanities frame treating seawater, ice, organisms, archives, chemistry, trauma, and cultural loss as ways the past is carried forward.
 - [Milieu-Specific Analysis](concepts/MilieuSpecificAnalysis.md) — Method asking how concepts built on land change underwater through pressure, buoyancy, orientation, saturation, smell, and sound.
@@ -2009,6 +2016,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Atomic Capability Services](concepts/AtomicCapabilityServices.md) — SaaS decomposition pattern where reliable product abilities become agent-callable and recombinable atoms.
 - [AI Communication Ability](concepts/AICommunicationAbility.md) — Clear expression, listening, prompting, and task framing as core skills for working through agents.
 - [AI Content Devaluation](concepts/AIContentDevaluation.md) — Audience and product-trust problem where cheap AI generation makes generic content or tools feel less worth attention.
+- [AI Slop](concepts/AISlop.md) — Low-effort synthetic media economy where cheap AI outputs farm attention, devalue content, enable slopaganda, and can feed future model-training problems.
 - [Offline AI Implementation](concepts/OfflineAIImplementation.md) — Pattern where useful AI requirements are discovered inside physical-world operations rather than imagined from model capability alone.
 - [AI Visual Merchandising](concepts/AIVisualMerchandising.md) — Use of generative AI to create grounded product visuals, variants, and substitution-confirmation images for retail workflows.
 - [Operational Data Capture](concepts/OperationalDataCapture.md) — Extracting business data from existing screens, printers, photos, receipts, or other work surfaces when clean APIs are unavailable.
@@ -2290,6 +2298,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Forward Deployed Engineer](concepts/ForwardDeployedEngineer.md) — Enterprise role for integrating AI into business workflows, knowledge systems, and operating processes.
 - [Frontline AI Enablement](concepts/FrontlineAIEnablement.md) — Management pattern where AI increases the judgment capacity of frontline workers instead of only centralizing decisions.
 - [Frontier Model Scaling](concepts/FrontierModelScaling.md) — Capability-scaling problem involving parameters, compute, data quality, training efficiency, and limits of simple scaling-law extrapolation.
+- [Model Collapse](concepts/ModelCollapse.md) — Training-data failure mode where repeated learning from synthetic outputs flattens diversity, erases rare patterns, and degrades model quality.
 - [Framework-Led SaaS](concepts/FrameworkLedSaaS.md) — Software built around a named methodology, expert community, or professional framework.
 - [Generative Engine Optimization](concepts/GenerativeEngineOptimization.md) — Practice of improving whether and how brands appear in AI-generated answers.
 - [Green Hushing](concepts/GreenHushing.md) — Companies doing sustainability or social-impact work while avoiding public language that creates backlash risk.

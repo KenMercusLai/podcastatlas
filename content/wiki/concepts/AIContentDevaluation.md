@@ -2,8 +2,8 @@
 title: "AI Content Devaluation"
 type: concept
 tags: [ai, content, writing, media]
-sources: [vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]
-last_updated: 2026-07-09
+sources: [vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, kate-crawford-mapping-empires]
+last_updated: 2026-07-10
 ---
 
 # AI Content Devaluation
@@ -22,6 +22,8 @@ The concept is not simply anti-AI. The episode separates low-value generated fil
 
 [[137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]] adds the knowledge-payment and experience-consumption version. [[FengTouQuan]] argues that as AI makes knowledge and content easier to discover or reproduce, paid value may move toward community, offline activity, trust, and [[AIResistantExperientialConsumption]] rather than locked-up information alone.
 
+[[kate-crawford-mapping-empires]] adds the [[AISlop]] version. [[KateCrawford]] treats low-effort synthetic media, commercial slop, satirical slop, and slopaganda as an emerging content economy that converts human culture into cheap outputs and then competes with human creative work online.
+
 ## Key Claims
 - Lower creation cost can reduce perceived scarcity, making readers or users more selective about what deserves attention.
 - "AI flavor" in short text can break trust because the audience may infer that the author outsourced the act of thinking.
@@ -35,6 +37,7 @@ The concept is not simply anti-AI. The episode separates low-value generated fil
 - A reader's own [[PersonalKnowledgeEcology]] can recover some value from generic AI-heavy content by translating it into their own context.
 - In AI short drama, low-cost production can either expand genre variety or accelerate repetitive copycat supply, depending on creator originality and platform incentives.
 - Knowledge content can be devalued without making all paid media impossible; the paid layer may shift toward community, events, source trust, and embodied experience.
+- Slop makes content devaluation infrastructural and political: cheap synthetic media can farm attention, shape propaganda, and re-enter future training data.
 
 ## Connections
 - [[AIContentProvenance]] — disclosure and traceability side of generated media.
@@ -47,3 +50,4 @@ The concept is not simply anti-AI. The episode separates low-value generated fil
 - [[AIAuthorshipPresence]], [[PersonalKnowledgeEcology]], and [[XFFXFramework]] — Mianji reading source's trust, context, and frame-extension case.
 - [[AIShortDrama]], [[ShortDramaEconomics]], and [[AIVideoProductionWorkflow]] — episode 266's short-drama homogeneity and creator-supply branch.
 - [[FengTouQuan]], [[HumanConnectionUnderAI]], and [[AIResistantExperientialConsumption]] — episode 137's community and offline-experience response to content devaluation.
+- [[AISlop]], [[ModelCollapse]], and [[AIMetabolicInfrastructure]] — Crawford's synthetic-media, training-data, and resource-cost extension.

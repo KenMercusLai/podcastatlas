@@ -2,8 +2,8 @@
 title: "AI Recognition Bias"
 type: concept
 tags: [ai, computer-vision, bias]
-sources: [ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779]
-last_updated: 2026-07-09
+sources: [ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779, kate-crawford-mapping-empires]
+last_updated: 2026-07-10
 ---
 
 # AI Recognition Bias
@@ -12,11 +12,14 @@ AI recognition bias is the failure mode where a classifier appears to recognize 
 
 The concept is a concrete computer-vision version of [[HumanJudgmentUnderAI]]. AI can accelerate identification, but field knowledge and evidence still matter when records are rare, images are ambiguous, or downstream data will enter [[CitizenScience]] records.
 
+[[kate-crawford-mapping-empires]] adds the generative-image version. [[KateCrawford]] describes red-teaming image models with her son by checking whether generated doctors, criminals, and other categories reproduce racial and gender stereotypes. This makes recognition bias part of a larger representational-power problem, not only an identification problem.
+
 ## Key Claims
 - Sparse rare-class data makes models more likely to learn spurious correlations.
 - The model's high confidence does not prove it used the same traits a domain expert would use.
 - Training data can encode photographer behavior, location bias, camera artifacts, and background conditions.
 - Recognition tools should support field observation and verification rather than replace them.
+- Bias can appear in generative outputs as stereotypes about who belongs in a role, not only in classifiers that label existing images.
 
 ## Connections
 - [[Dongniao]] - source tool example.
@@ -24,3 +27,4 @@ The concept is a concrete computer-vision version of [[HumanJudgmentUnderAI]]. A
 - [[CitizenScience]] - data quality matters when identifications become shared records.
 - [[HumanJudgmentUnderAI]] - broader verification and responsibility frame.
 - [[RepresentationLearning]] - adjacent machine-learning concept about learned abstractions.
+- [[KateCrawford]], [[AISlop]], and [[ModelCollapse]] - source and adjacent generative-media risks.

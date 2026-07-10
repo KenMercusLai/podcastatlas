@@ -2,13 +2,15 @@
 title: "Jevons Paradox In AI"
 type: concept
 tags: [ai, economics, infrastructure]
-sources: [e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf]
-last_updated: 2026-07-08
+sources: [e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, kate-crawford-mapping-empires]
+last_updated: 2026-07-10
 ---
 
 # Jevons Paradox In AI
 
 Jevons paradox in AI is the E155 argument that falling per-token cost can increase total AI consumption rather than reduce aggregate compute demand. The episode compares token efficiency to fuel efficiency: if each use becomes cheaper, people and agents may use the system more often, for more rounds, across more tasks, and inside more products.
+
+[[kate-crawford-mapping-empires]] adds the environmental version. [[KateCrawford]] argues that efficiency gains do not solve AI's resource problem if cheaper generation leads AI to be embedded into more schools, workplaces, platforms, and media workflows, increasing total energy, water, and infrastructure demand.
 
 ## Key Claims
 - Better chips, inference architecture, routing, and engineering can lower the cost of one token.
@@ -16,6 +18,7 @@ Jevons paradox in AI is the E155 argument that falling per-token cost can increa
 - Agentic workflows create non-human token demand because software agents can call models repeatedly while planning, acting, checking, and repairing.
 - Cost decline therefore does not automatically reduce demand for GPUs, power, cooling, storage, or network capacity.
 - The paradox turns efficiency gains into an infrastructure-scaling problem: the system needs cheaper tokens and more total capacity at the same time.
+- Efficiency improvements can increase total environmental burden when deployment expands faster than per-use resource demand falls.
 
 ## Connections
 - [[AIInferenceCostStructure]] — per-token and workflow-level cost pressure.
@@ -23,3 +26,4 @@ Jevons paradox in AI is the E155 argument that falling per-token cost can increa
 - [[AIInvestmentMetrics]] — token growth is a useful metric only when interpreted with cost and revenue.
 - [[AgenticWorkflow]], [[TokenDrivenSoftware]], and [[AISkills]] — usage patterns that can increase token demand.
 - [[HumanResourceDeflationComputeInfrastructureInflation]] — aggregate shift from human labor costs to compute infrastructure demand.
+- [[AIMetabolicInfrastructure]], [[DataCenterThermalManagement]], and [[DataCenterBacklash]] — ecological and local-infrastructure implications added by Crawford.
