@@ -2,8 +2,8 @@
 title: "Gemini"
 type: entity
 tags: [ai-tool, search, assistant, coding]
-sources: [google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]
-last_updated: 2026-07-09
+sources: [tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, 140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h]
+last_updated: 2026-07-10
 ---
 
 # Gemini
@@ -11,6 +11,8 @@ last_updated: 2026-07-09
 [[google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6]] adds Gemini as part of [[Google]]'s enterprise full-stack story rather than only as a consumer assistant or coding model. In this source, [[Gemini]] sits inside [[GoogleCloud]], [[TPU]], Workspace, and enterprise agent platforms, so its strategic value depends on integration, governance, workflow adoption, and model routing as much as standalone capability.
 
 Gemini appears in [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]] as an AI answer and search surface included in [[PeakAI]]'s market framing. The episode uses Gemini alongside [[ChatGPT]] and [[Perplexity]] to illustrate how buyers may discover or evaluate products through AI-mediated answers.
+
+[[tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]] adds Gemini to the [[AISearchAdvertising]] question. The episode names Google Gemini among the AI platforms whose ad rollout is shaped by user competition, while [[Google]]'s existing search-ad business makes it the incumbent benchmark for advertiser scale.
 
 [[ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa]] adds Gemini as part of the consumer-assistant comparison. One host says they tried Gemini and other assistants but kept returning to [[ChatGPT]], while another notes that Gemini's thinking behavior can affect conversational smoothness; the same source later says Gemini's coding capability may be more compelling to developers than its everyday assistant product is to ordinary users.
 
@@ -31,6 +33,7 @@ Gemini appears in [[ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing]] as 
 - [[ChatGPT]], [[Qwen]], [[Doubao]], and [[AIAssistantServiceEntry]] - consumer assistant comparison added by EP117.
 - [[AISearchAnalytics]] - category for tracking appearances, citations, and sentiment in AI answers.
 - [[GenerativeEngineOptimization]] and [[AIDiscoverySEO]] - related concepts for improving AI-mediated discoverability.
+- [[AISearchAdvertising]] - sponsored answer and advertiser-scale context added by Marketplace Tech.
 - [[GeminiCLI]], [[VibeCoding]], and [[ContextEngineering]] - coding-tool usage added by EP108.
 - [[Google]], [[AIProductFragmentation]], [[Apple]], and [[Siri]] - product and platform strategy themes added by Vol. 166.
 - [[Apple]], [[Codex]], [[ClaudeCode]], and [[IMAgentInterfaces]] - platform and browser-agent comparison added by Vol. 167.

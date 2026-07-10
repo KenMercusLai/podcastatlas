@@ -2,8 +2,8 @@
 title: "Agentic Commerce"
 type: concept
 tags: [agents, commerce, payments]
-sources: [vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
-last_updated: 2026-07-07
+sources: [vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]
+last_updated: 2026-07-10
 ---
 
 # Agentic Commerce
@@ -16,6 +16,8 @@ The concept sits between [[AgentFacingInterfaces]] and [[AgentPermissionBoundari
 
 [[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] adds the milk-tea and local-service version. The hosts argue that if [[Meituan]] opened an MCP-like ordering interface, assistants such as [[Doubao]] and [[Yuanbao]] could complete purchases while Meituan retained fulfillment. The same example shows the risk: an AI ordering flow may display only a narrow set of shops or options, so recommendation power shifts away from full-page browsing.
 
+[[tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]] adds the advertising and conversion-data layer. [[GarrettJohnson]] points to [[OpenAI]] partnerships with [[Walmart]] and [[Shopify]] as potentially useful because commerce integrations can show what users buy, not only what they ask. That makes agentic commerce a data source for [[AISearchAdvertising]] as well as a user workflow.
+
 ## Key Claims
 - Shopping is an obvious agent task because it combines search, comparison, routine preference, payment, and repeated replenishment.
 - Successful checkout is not enough; the agent also needs to respect price sensitivity, brand preference, delivery timing, substitutions, address choice, and return risk.
@@ -26,6 +28,7 @@ The concept sits between [[AgentFacingInterfaces]] and [[AgentPermissionBoundari
 - Owned service ecosystems can make commerce assistants easier to launch, but they also increase ranking, advertising, commission, and self-preference risks.
 - Open commerce protocols may work differently across markets depending on whether platforms monetize through transaction take rate, advertising, traffic retention, or direct user ownership.
 - Agentic commerce can compress choice too much; users may gain convenience while losing visibility into alternatives, sponsorship, merchant diversity, or why one option was selected.
+- Commerce integrations can become ad infrastructure when purchase, conversion, and recommendation data feed sponsored answer ranking.
 
 ## Connections
 - [[Google]], [[Meta]], and [[EuropeanUnion]] — platform-access and messaging-interface context in the source.
@@ -35,3 +38,4 @@ The concept sits between [[AgentFacingInterfaces]] and [[AgentPermissionBoundari
 - [[ChinaAgentMarketFriction]] — domestic app-ecosystem friction that may affect shopping agents.
 - [[AIAssistantServiceEntry]], [[Alibaba]], [[Qwen]], [[Taobao]], [[Fliggy]], [[Damai]], and [[Shopify]] — assistant-commerce and service-fulfillment cases added by EP117.
 - [[Meituan]], [[Doubao]], [[Yuanbao]], and [[ModelContextProtocol]] — local-service and milk-tea ordering case added by Keji Luandun.
+- [[Walmart]], [[OpenAI]], [[AISearchAdvertising]], and [[GenerativeEngineOptimization]] — conversion-data and sponsored-answer context added by Marketplace Tech.

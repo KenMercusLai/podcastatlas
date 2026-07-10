@@ -459,6 +459,10 @@
     "title": "AI Safety Narrative Backfire",
     "url": "/wiki/concepts/aisafetynarrativebackfire/"
   },
+  "AISearchAdvertising": {
+    "title": "AI Search Advertising",
+    "url": "/wiki/concepts/aisearchadvertising/"
+  },
   "AISearchAnalytics": {
     "title": "AI Search Analytics",
     "url": "/wiki/concepts/aisearchanalytics/"
@@ -1362,6 +1366,10 @@
   "BostonDynamics": {
     "title": "Boston Dynamics",
     "url": "/wiki/entities/bostondynamics/"
+  },
+  "BostonUniversity": {
+    "title": "Boston University",
+    "url": "/wiki/entities/bostonuniversity/"
   },
   "BoyuCapital": {
     "title": "Boyu Capital / 博裕资本",
@@ -3338,6 +3346,10 @@
   "GarfieldAI": {
     "title": "Garfield AI",
     "url": "/wiki/entities/garfieldai/"
+  },
+  "GarrettJohnson": {
+    "title": "Garrett Johnson",
+    "url": "/wiki/entities/garrettjohnson/"
   },
   "GaryMarcus": {
     "title": "Gary Marcus",
@@ -8431,6 +8443,10 @@
     "title": "WED Enterprises",
     "url": "/wiki/entities/wedenterprises/"
   },
+  "Walmart": {
+    "title": "Walmart",
+    "url": "/wiki/entities/walmart/"
+  },
   "WaltDisney": {
     "title": "Walt Disney",
     "url": "/wiki/entities/waltdisney/"
@@ -9802,6 +9818,10 @@
   "tech-20251217-1217-mp-tech-pod-128-tech-20251217-1217-mp-tech-pod-128": {
     "title": "Tech sector job postings on Indeed (mostly) stabilized this year",
     "url": "/wiki/sources/tech-20251217-1217-mp-tech-pod-128-tech-20251217-1217-mp-tech-pod-128/"
+  },
+  "tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128": {
+    "title": "The challenges of integrating ads in AI search engines",
+    "url": "/wiki/sources/tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",

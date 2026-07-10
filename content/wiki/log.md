@@ -1875,3 +1875,11 @@ Added source page for the Marketplace Tech episode on Indeed's 2025 tech job-pos
 ## [2026-07-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-10] ingest | The challenges of integrating ads in AI search engines
+
+Added source page for the Marketplace Tech episode with Garrett Johnson of Boston University on AI search advertising, including Perplexity's reported ad pullback, the need for advertiser scale and conversion data, OpenAI commerce partnerships with Walmart and Shopify, and the shift from SEO to generative engine optimization. Created pages for Garrett Johnson, Boston University, Walmart, and AI Search Advertising; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Perplexity, Shopify, Netflix, OpenAI, Google, Meta, Amazon, ChatGPT, Gemini, Generative Engine Optimization, AI Search Analytics, AI Discovery SEO, Search Advertising Decline, and Agentic Commerce. No direct contradiction found; the source qualifies AI monetization narratives by showing that ad-funded AI search must balance user trust, sponsored-answer design, advertiser onboarding, and fewer visible answer slots.
+
+## [2026-07-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
