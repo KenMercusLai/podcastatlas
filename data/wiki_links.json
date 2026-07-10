@@ -291,6 +291,10 @@
     "title": "AI Economic Diffusion",
     "url": "/wiki/concepts/aieconomicdiffusion/"
   },
+  "AIEnergyBottleneck": {
+    "title": "AI Energy Bottleneck",
+    "url": "/wiki/concepts/aienergybottleneck/"
+  },
   "AIEngineeringThinking": {
     "title": "AI Engineering Thinking",
     "url": "/wiki/concepts/aiengineeringthinking/"
@@ -2206,6 +2210,10 @@
   "DataCenterBacklash": {
     "title": "Data Center Backlash",
     "url": "/wiki/concepts/datacenterbacklash/"
+  },
+  "DataCenterCostShifting": {
+    "title": "Data Center Cost Shifting",
+    "url": "/wiki/concepts/datacentercostshifting/"
   },
   "DataCenterPhysicalResilience": {
     "title": "Data Center Physical Resilience",
@@ -5547,6 +5555,10 @@
     "title": "NYU",
     "url": "/wiki/entities/nyu/"
   },
+  "NYUCenterOnTechnologyPolicy": {
+    "title": "NYU Center on Technology Policy",
+    "url": "/wiki/entities/nyucenterontechnologypolicy/"
+  },
   "NanfangQuanqiu": {
     "title": "南方全球",
     "url": "/wiki/entities/nanfangquanqiu/"
@@ -6451,6 +6463,10 @@
     "title": "Public Service Journalism",
     "url": "/wiki/concepts/publicservicejournalism/"
   },
+  "PublicUtilityCommissions": {
+    "title": "Public Utility Commissions",
+    "url": "/wiki/concepts/publicutilitycommissions/"
+  },
   "PublisherRelationshipMoat": {
     "title": "Publisher Relationship Moat",
     "url": "/wiki/concepts/publisherrelationshipmoat/"
@@ -6998,6 +7014,10 @@
   "ScaleAI": {
     "title": "Scale AI",
     "url": "/wiki/entities/scaleai/"
+  },
+  "ScottBrennan": {
+    "title": "Scott Brennan",
+    "url": "/wiki/entities/scottbrennan/"
   },
   "ScottLake": {
     "title": "Scott Lake",
@@ -9674,6 +9694,10 @@
   "the-latest-tv-innovations-have-their-critics": {
     "title": "The latest TV innovations have their critics",
     "url": "/wiki/sources/the-latest-tv-innovations-have-their-critics/"
+  },
+  "the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers": {
+    "title": "The little-known regulatory bodies that can make or break AI data centers",
+    "url": "/wiki/sources/the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers/"
   },
   "the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7": {
     "title": "The Mourning Show: The Politics of Khamenei's Funeral",

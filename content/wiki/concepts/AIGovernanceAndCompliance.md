@@ -2,7 +2,7 @@
 title: "AI Governance And Compliance"
 type: concept
 tags: [ai, compliance, security, governance]
-sources: [continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, finding-product-market-fit-after-3-years-of-failed-ideas, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, eric-ries-incorruptible-by-design-wrgromn5peq, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds]
+sources: [continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, finding-product-market-fit-after-3-years-of-failed-ideas, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, eric-ries-incorruptible-by-design-wrgromn5peq, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
 last_updated: 2026-07-10
 ---
 
@@ -22,6 +22,8 @@ AI governance and compliance is the extension of governance, risk, compliance, s
 
 [[using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds]] adds the teen mental-health version. The [[MarketplaceTech]] episode treats consumer chatbots as insufficient for minors seeking emotional or clinical support, because [[ChatbotSafetyGuardrailDecay]] and [[SycophanticAICompanionRisk]] can appear in longer conversations. Governance here includes youth education, parent and clinician awareness, escalation paths, surveillance, and regulation rather than only model-output guardrails.
 
+[[the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]] adds the energy-regulation version. AI governance can include state [[PublicUtilityCommissions]], rate design, infrastructure approval, and [[DataCenterCostShifting]] when model growth depends on new power capacity and grid upgrades.
+
 ## Key Claims
 - Compliance programs must increasingly govern not only people, servers, systems, and software, but also agents and AI-related entities.
 - CISOs care about whether internal AI usage is safe, secure, and governed.
@@ -35,6 +37,7 @@ AI governance and compliance is the extension of governance, risk, compliance, s
 - Alignment governance has to include company design, ownership, mission, and accountability, not only model behavior or usage policies.
 - Legal AI governance requires citation verification, professional responsibility, and court-facing review because hallucinated authority can impose real costs on litigants and courts.
 - Teen mental-health chatbot governance requires more than a crisis-script response; systems need age-sensitive boundaries, multi-turn evaluation, and clear escalation to trusted adults or professionals.
+- AI infrastructure governance can include utility commissions and ratepayer protection when data-center buildout creates shared grid costs.
 
 ## Connections
 - [[Sprinto]] - company case.
@@ -49,3 +52,4 @@ AI governance and compliance is the extension of governance, risk, compliance, s
 - [[AIAlignmentGovernance]], [[Anthropic]], [[LongTermBenefitTrust]], and [[OpenAI]] - institutional alignment frame added by the Long Now Ries talk.
 - [[VibeLawyering]], [[LegalAIHallucination]], [[HumanInTheLoopLegalAI]], and [[GarfieldAI]] - legal-AI governance branch added by The Intelligence.
 - [[TeenChatbotMentalHealthRisk]], [[DariaGeorgievich]], [[StanfordUniversity]], and [[CommonSenseMedia]] - teen mental-health governance branch added by Marketplace Tech.
+- [[PublicUtilityCommissions]], [[ScottBrennan]], [[NYUCenterOnTechnologyPolicy]], and [[DataCenterCostShifting]] - state utility regulation branch added by Marketplace Tech.

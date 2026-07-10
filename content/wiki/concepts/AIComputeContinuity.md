@@ -2,8 +2,8 @@
 title: "AI Compute Continuity"
 type: concept
 tags: [ai, infrastructure, reliability]
-sources: [chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
-last_updated: 2026-07-09
+sources: [chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
+last_updated: 2026-07-10
 ---
 
 # AI Compute Continuity
@@ -18,6 +18,8 @@ The episode's coding-tool anecdote makes the issue concrete: when an AI coding s
 
 [[fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]] adds the social-permission version. The episode's [[DataCenterBacklash]] segment shows that compute continuity can also be constrained by local opposition to the buildings, noise, and power demand required for AI services.
 
+[[the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]] adds the regulated-grid version. Data centers may have capital and hardware, but their usable compute still depends on utility approvals, connection terms, long power contracts, and whether [[PublicUtilityCommissions]] allow grid upgrades in ways that avoid [[DataCenterCostShifting]].
+
 ## Key Claims
 - AI services depend on physical regions, power, cooling, networks, and specialized hardware rather than only model software.
 - High-density GPU facilities can be more strategically valuable and more operationally fragile than ordinary web-serving capacity.
@@ -27,6 +29,7 @@ The episode's coding-tool anecdote makes the issue concrete: when an AI coding s
 - Energy availability can cap token production even when model software and user demand are strong.
 - Thermal capacity can also cap token production: cooling loops, pumps, water treatment, and control systems decide whether dense compute can stay online under changing workload.
 - Local opposition and permitting fights can cap or delay compute buildout even when capital, chips, and cooling designs are available.
+- Utility approvals, rate design, and grid-upgrade financing can also cap or delay compute buildout.
 
 ## Connections
 - [[MaaSInfrastructure]] — platform layer that turns compute into usable model service.
@@ -35,6 +38,7 @@ The episode's coding-tool anecdote makes the issue concrete: when an AI coding s
 - [[DataCenterPhysicalResilience]] — physical facility dependence.
 - [[DataCenterThermalManagement]] — thermal and cooling layer added by the 商业就是这样 source.
 - [[DataCenterBacklash]] — local siting and public-opposition layer added by The Intelligence.
+- [[PublicUtilityCommissions]], [[AIEnergyBottleneck]], and [[DataCenterCostShifting]] — regulated-grid layer added by Marketplace Tech.
 - [[WarAwareDisasterRecovery]] — failover planning for AI workloads.
 - [[ClaudeCode]] and [[AICodingVerification]] — workflow example where tool availability and human review quality interact.
 - [[HoloAssets]], [[CAPEXOPEXSubstitution]], and [[HumanResourceDeflationComputeInfrastructureInflation]] — energy and hard-asset extension added by E155.

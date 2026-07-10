@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The little-known regulatory bodies that can make or break AI data centers](sources/the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers.md) — Marketplace Tech episode with Scott Brennan on why state Public Utility Commissions can shape AI data-center growth through grid-upgrade approvals, rate design, upfront payments, long contracts, and protection against ratepayer cost shifting.
 - [The latest TV innovations have their critics](sources/the-latest-tv-innovations-have-their-critics.md) — Marketplace Tech episode on why modern OLED and LED TVs can make movies look jumpy, why motion smoothing creates the soap-opera effect, and why some viewers still prefer plasma displays.
 - [3D printing was supposed to disrupt prosthetic costs. It hasn't.](sources/3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt.md) — Marketplace Tech episode with Britt Young on why 3D printing has not made prosthetics cheap: professional printers, fitting labor, insurance approval, legal device definitions, and global logistics still dominate access.
 - [Using AI chatbots for mental health support poses serious risks for teens, report finds](sources/using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds.md) — Marketplace Tech episode on a Stanford and Common Sense Media report warning that teens should not use AI chatbots for mental-health support, with examples of sycophantic validation, multi-turn guardrail decay, and missed eating-disorder warning signs.
@@ -239,7 +240,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
-- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on teen AI-chatbot mental-health risk, prosthetic access economics, and modern TV motion perception.
+- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on teen AI-chatbot mental-health risk, prosthetic access economics, modern TV motion perception, and AI data-center utility regulation.
+- [Scott Brennan](entities/ScottBrennan.md) — NYU Center on Technology Policy researcher explaining why Public Utility Commissions matter to AI data-center growth and ratepayer protection.
+- [NYU Center on Technology Policy](entities/NYUCenterOnTechnologyPolicy.md) — Institutional source for the Marketplace Tech discussion of public utility commissions as AI infrastructure gatekeepers.
 - [Rahul Banerjee](entities/RahulBanerjee.md) — Modern-TV viewer who returned OLED sets and bought a used plasma TV because film motion felt more natural to him.
 - [Vikrant Lal](entities/VikrantLal.md) — Viewer whose older plasma TV preference grounds the episode's contrast between modern specs and cinematic motion feel.
 - [Samuel Bretton](entities/SamuelBretton.md) — Ratings.com representative explaining TV tradeoffs across sports, movies, clarity, brightness, and motion.
@@ -925,7 +928,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fei-Fei Li](entities/FeiFeiLi.md) — AI researcher whose ImageNet problem-definition work is treated by Xie as a model for field-shaping research.
 - [Kaiming He](entities/KaimingHe.md) — AI researcher whose FAIR collaboration with Xie anchors the source's lessons on ResNeXt, self-supervision, strong baselines, and research taste.
 - [FAIR](entities/FAIR.md) — Meta research-lab context where Xie worked on representation learning, ResNeXt, self-supervision, and diffusion-transformer research.
-- [NYU](entities/NYU.md) — University context for Xie's move from FAIR toward world-model work with Yann LeCun.
+- [NYU](entities/NYU.md) — University context for Xie's world-model work and for the Center on Technology Policy source on AI data-center electricity regulation.
 - [UCSD](entities/UCSD.md) — University context for Xie's PhD path and Huang Biwei's earlier institutional background.
 - [ImageNet](entities/ImageNet.md) — Computer-vision dataset and benchmark used as the source's example of problem definition enabling scalable progress.
 - [Seedance](entities/Seedance.md) — ByteDance video model discussed as evidence that AI video is moving from mockups toward production-like media.
@@ -1466,6 +1469,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Public Utility Commissions](concepts/PublicUtilityCommissions.md) — State utility regulators that can shape AI data-center buildout through rates, grid-upgrade approvals, long contracts, and upfront-payment requirements.
+- [Data Center Cost Shifting](concepts/DataCenterCostShifting.md) — Risk that grid infrastructure built for data centers is paid partly by ordinary electricity ratepayers unless rate design assigns costs to the data-center customer.
+- [AI Energy Bottleneck](concepts/AIEnergyBottleneck.md) — Constraint where AI growth depends on electricity supply, grid connection capacity, utility approvals, and politically acceptable infrastructure finance.
 - [TV Motion Stutter](concepts/TVMotionStutter.md) — Film-motion problem where low-frame-rate movies can look jumpy on modern OLED and LED televisions.
 - [Motion Smoothing](concepts/MotionSmoothing.md) — TV frame-interpolation setting that can reduce stutter while changing the intended look of films.
 - [Soap Opera Effect](concepts/SoapOperaEffect.md) — Disliked hyper-real video look caused by motion smoothing on film-style content.
@@ -1606,8 +1612,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Iran Postwar Economic Relief](concepts/IranPostwarEconomicRelief.md) — Economic package around blockade relief, sanctions relief, asset unfreezing, and a proposed reconstruction fund after the U.S.-Iran memorandum.
 - [Presidential Memorial Culture](concepts/PresidentialMemorialCulture.md) — Presidential museums, libraries, and centers as memory institutions that can preserve civic history while giving presidents quasi-imperial aura.
 - [AI Backlash Politics](concepts/AIBacklashPolitics.md) — Electoral and regulatory politics formed by public anxiety about AI jobs, children, mental health, tech power, and speed of change.
-- [Data Center Backlash](concepts/DataCenterBacklash.md) — Local and political opposition to AI data centers over noise, power demand, building scale, and the symbolism of rapid technological change.
-- [AI Metabolic Infrastructure](concepts/AIMetabolicInfrastructure.md) — Frame treating AI as a material system that consumes data, minerals, energy, water, land, labor, and culture while producing outputs, heat, carbon, and waste.
+- [Data Center Backlash](concepts/DataCenterBacklash.md) — Local and political opposition to AI data centers over noise, power demand, bills, cost shifting, environmental burden, and rapid technological change.
+- [AI Metabolic Infrastructure](concepts/AIMetabolicInfrastructure.md) — Frame treating AI as a material system that consumes data, minerals, energy, water, land, labor, culture, and utility capacity while producing outputs, heat, carbon, and waste.
 - [China Divorce Restrictions](concepts/ChinaDivorceRestrictions.md) — Legal, administrative, property, and censorship barriers to divorce in China, framed against population policy and women's exit costs.
 - [Marriage Exit Friction](concepts/MarriageExitFriction.md) — Policy-design problem where making divorce harder can reduce reported exits while discouraging marriage entry or trapping unhappy spouses.
 - [Cooling As Public Health](concepts/CoolingAsPublicHealth.md) — Climate-adaptation frame treating air conditioning and household cooling as heat-health infrastructure when grids decarbonize.
@@ -2015,7 +2021,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Data Center Physical Resilience](concepts/DataCenterPhysicalResilience.md) — Facility-level ability for data centers to keep operating or recover when buildings, power, cooling, equipment, transport, or staff access are disrupted.
 - [Data Center Thermal Management](concepts/DataCenterThermalManagement.md) — Cooling, liquid-loop, pump, heat-exchange, water-quality, and control-system layer that keeps dense AI data centers within operating limits.
 - [War-Aware Disaster Recovery](concepts/WarAwareDisasterRecovery.md) — Cloud and business-continuity planning that treats war, drones, missiles, staff evacuation, and repeated attacks as disaster scenarios.
-- [AI Compute Continuity](concepts/AIComputeContinuity.md) — Ability to keep model APIs, coding agents, inference workloads, and GPU-backed business processes available through infrastructure disruption.
+- [AI Compute Continuity](concepts/AIComputeContinuity.md) — Ability to keep model APIs, coding agents, inference workloads, and GPU-backed business processes available through power, cooling, network, siting, and utility-regulation constraints.
 - [Regional Network Topology Risk](concepts/RegionalNetworkTopologyRisk.md) — Exposure created by where cloud regions, cable landings, exchange points, and data centers sit relative to users, chokepoints, and political conflict.
 - [Asymmetric Infrastructure Attack](concepts/AsymmetricInfrastructureAttack.md) — Risk pattern where low-cost weapons or sabotage impose high downtime, repair, or deterrence costs on expensive infrastructure.
 - [Value Investing](concepts/ValueInvesting.md) — Long-term cash-flow-oriented investing philosophy that treats valuation, safety margin, business quality, sizing, and holder behavior as one discipline.
@@ -2092,7 +2098,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Home Service Robots](concepts/HomeServiceRobots.md) — Household robots designed for useful family services such as child care support, light chores, play, and home assistance.
 - [Household Robot Data Flywheel](concepts/HouseholdRobotDataFlywheel.md) — Real-home deployment loop where household tasks, corner cases, and interaction data improve robot capability and deployment value.
 - [Consumer Robotics Full Stack](concepts/ConsumerRoboticsFullStack.md) — Self-development strategy for making home robots affordable, reliable, and integrated enough for consumer deployment.
-- [MaaS Infrastructure](concepts/MaaSInfrastructure.md) — Model-as-a-service infrastructure layer that converts model capability and compute capacity into reliable, secure, low-latency tokens through cloud, chip, power, and physical-region continuity.
+- [MaaS Infrastructure](concepts/MaaSInfrastructure.md) — Model-as-a-service infrastructure layer that converts model capability and compute capacity into reliable tokens through cloud, chips, power, cooling, regions, and utility-regulated grid access.
 - [Restaurant Experience Design](concepts/RestaurantExperienceDesign.md) — Hospitality pattern where food, room design, lighting, music, air, service, and crowd energy form the product.
 - [Concept Led Hospitality](concepts/ConceptLedHospitality.md) — Restaurant-building pattern where each venue starts from a differentiated guest promise, mood, location fit, and operating format.
 - [Restaurant Operational Fragility](concepts/RestaurantOperationalFragility.md) — Restaurant risk where small failures in labor, food, service, room comfort, or liquidity can damage reputation and cash flow.
