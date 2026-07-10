@@ -1811,3 +1811,11 @@ Refreshed the existing Long Now source page for Stefan Sagmeister's "Finally, so
 ## [2026-07-10] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used stale `graph/graph.json` data built on 2026-07-09 with 2,261 nodes and 21,670 edges while the wiki scan found 2,431 pages; they found no hub stubs, eight fragile bridges, and no isolated communities, but should be rerun after `build graph`. Semantic lint API failed because `LLM_MODEL` is unset and no provider API key variables are present; a bounded in-session semantic review found no direct contradictions or stale summaries in the orphan/source/high-risk sample reviewed. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-10] ingest | Melody Jue: Ocean Memory
+
+Refreshed the existing Long Now source page for Melody Jue's "Ocean Memory" from `/home/ken/repos/podcastatlas/content/episodes/02026-jue-podcast-v2 [02026-jue-podcast-v2].md`. The file matched the already-ingested episode, so no duplicate source page was created; provenance was updated with the podcast export path, audio URL, duration, and a source note about the export's H1 spelling. Existing pages for Melody Jue, Long Now, Ocean Memory Project, Daniel Cohn, Jody Deming, Mandy Suzanne Wong, Anya Yermakova, Jacob Cram, Ocean Memory, Milieu-Specific Analysis, Chemosensation, Ecological Memory, Multispecies Archives, and Ocean Acidification already covered the episode's claims. No direct contradiction found.
+
+## [2026-07-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

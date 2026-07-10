@@ -4,9 +4,13 @@ type: source
 tags: [podcast, long-now, ocean-humanities, environmental-memory, media-theory]
 sources: []
 date: 2026-04-09
-source_file: "/home/ken/repos/podcastatlas/content/episodes/Melody Jue ｜ Ocean Memory [wXAgwid1oeg].md"
+source_file: "/home/ken/repos/podcastatlas/content/episodes/02026-jue-podcast-v2 [02026-jue-podcast-v2].md"
+alternate_source_files:
+  - "/home/ken/repos/podcastatlas/content/episodes/Melody Jue ｜ Ocean Memory [wXAgwid1oeg].md"
 source_url: "https://longnow.org/talks/02026-jue"
-last_updated: 2026-07-08
+audio_url: "https://podcast.longnow.org/salt/redirect/02026-jue-podcast-v2.mp3"
+duration_seconds: 3791
+last_updated: 2026-07-10
 ---
 
 ## Summary
@@ -42,3 +46,7 @@ This [[LongNow]] talk presents [[MelodyJue]]'s account of [[OceanMemory]], askin
 
 ## Contradictions
 - None identified. The source expands existing climate, ecology, and Long Now material by adding ocean-specific sensory and memory frames rather than disputing prior wiki claims.
+
+## Source Notes
+- Refreshed on 2026-07-10 from the `02026-jue-podcast-v2` Markdown export. This is the same Long Now episode already represented by this page, so the ingest updated provenance instead of creating a duplicate source page.
+- The podcast export frontmatter names "Melody Jue: Ocean Memory"; its H1 omits the final "e" in Jue. The wiki keeps the speaker spelling used by the source metadata and existing Long Now page.
