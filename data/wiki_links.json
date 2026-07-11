@@ -859,6 +859,10 @@
     "title": "Andy Burnham",
     "url": "/wiki/entities/andyburnham/"
   },
+  "AndyFang": {
+    "title": "Andy Fang",
+    "url": "/wiki/entities/andyfang/"
+  },
   "AngelaRayner": {
     "title": "Angela Rayner",
     "url": "/wiki/entities/angelarayner/"
@@ -1370,6 +1374,10 @@
   "BlueOwlCapital": {
     "title": "Blue Owl Capital",
     "url": "/wiki/entities/blueowlcapital/"
+  },
+  "BobSwan": {
+    "title": "Bob Swan",
+    "url": "/wiki/entities/bobswan/"
   },
   "BobosOatBars": {
     "title": "Bobo's Oat Bars",
@@ -2179,6 +2187,10 @@
     "title": "Customer Concentration Risk",
     "url": "/wiki/concepts/customerconcentrationrisk/"
   },
+  "CustomerDiscoveryByDoingWork": {
+    "title": "Customer Discovery By Doing Work",
+    "url": "/wiki/concepts/customerdiscoverybydoingwork/"
+  },
   "CustomerPull": {
     "title": "Customer Pull",
     "url": "/wiki/concepts/customerpull/"
@@ -2567,6 +2579,10 @@
     "title": "Donroe Doctrine",
     "url": "/wiki/concepts/donroedoctrine/"
   },
+  "DoorDash": {
+    "title": "DoorDash",
+    "url": "/wiki/entities/doordash/"
+  },
   "Doubao": {
     "title": "Doubao",
     "url": "/wiki/entities/doubao/"
@@ -2626,6 +2642,10 @@
   "EBCo": {
     "title": "EB&Co",
     "url": "/wiki/entities/ebco/"
+  },
+  "EBay": {
+    "title": "eBay",
+    "url": "/wiki/entities/ebay/"
   },
   "EBird": {
     "title": "eBird",
@@ -2878,6 +2898,10 @@
   "EuropeanUnion": {
     "title": "European Union",
     "url": "/wiki/entities/europeanunion/"
+  },
+  "EvanMoore": {
+    "title": "Evan Moore",
+    "url": "/wiki/entities/evanmoore/"
   },
   "EverythingAgent": {
     "title": "Everything Agent",
@@ -3242,6 +3266,10 @@
   "FounderProductFit": {
     "title": "Founder Product Fit",
     "url": "/wiki/concepts/founderproductfit/"
+  },
+  "FounderProximity": {
+    "title": "Founder Proximity",
+    "url": "/wiki/concepts/founderproximity/"
   },
   "FounderRoleTransition": {
     "title": "Founder Role Transition",
@@ -4271,6 +4299,10 @@
     "title": "Janet Yellen",
     "url": "/wiki/entities/janetyellen/"
   },
+  "JankyMVP": {
+    "title": "Janky MVP",
+    "url": "/wiki/concepts/jankymvp/"
+  },
   "Japan": {
     "title": "Japan",
     "url": "/wiki/entities/japan/"
@@ -4426,6 +4458,10 @@
   "JohnCarmack": {
     "title": "John Carmack",
     "url": "/wiki/entities/johncarmack/"
+  },
+  "JohnDonahoe": {
+    "title": "John Donahoe",
+    "url": "/wiki/entities/johndonahoe/"
   },
   "JohnFasman": {
     "title": "John Fasman",
@@ -6131,6 +6167,10 @@
     "title": "Palantir",
     "url": "/wiki/entities/palantir/"
   },
+  "PaloAltoDelivery": {
+    "title": "PaloAltoDelivery",
+    "url": "/wiki/entities/paloaltodelivery/"
+  },
   "PanXulun": {
     "title": "潘序伦",
     "url": "/wiki/entities/panxulun/"
@@ -7683,6 +7723,10 @@
     "title": "Standard Chartered",
     "url": "/wiki/entities/standardchartered/"
   },
+  "StanfordStartupGarage": {
+    "title": "Stanford Startup Garage",
+    "url": "/wiki/entities/stanfordstartupgarage/"
+  },
   "StanfordUniversity": {
     "title": "Stanford University",
     "url": "/wiki/entities/stanforduniversity/"
@@ -7690,6 +7734,10 @@
   "StanleyDruckenmiller": {
     "title": "Stanley Druckenmiller",
     "url": "/wiki/entities/stanleydruckenmiller/"
+  },
+  "StanleyTang": {
+    "title": "Stanley Tang",
+    "url": "/wiki/entities/stanleytang/"
   },
   "StarTalentInBigCompanies": {
     "title": "Star Talent In Big Companies",
@@ -7826,6 +7874,10 @@
   "SubscriptionFatigue": {
     "title": "Subscription Fatigue",
     "url": "/wiki/concepts/subscriptionfatigue/"
+  },
+  "SuburbanDeliveryStrategy": {
+    "title": "Suburban Delivery Strategy",
+    "url": "/wiki/concepts/suburbandeliverystrategy/"
   },
   "SunZhonghuai": {
     "title": "孙忠怀 / Sun Zhonghuai",
@@ -8107,6 +8159,10 @@
     "title": "3D-Printed Prosthetics",
     "url": "/wiki/concepts/threedprintedprosthetics/"
   },
+  "ThreeSidedMarketplaceValidation": {
+    "title": "Three-Sided Marketplace Validation",
+    "url": "/wiki/concepts/threesidedmarketplacevalidation/"
+  },
   "ThriveMarket": {
     "title": "Thrive Market",
     "url": "/wiki/entities/thrivemarket/"
@@ -8206,6 +8262,10 @@
   "TongxinUOS": {
     "title": "Tongxin UOS",
     "url": "/wiki/entities/tongxinuos/"
+  },
+  "TonyXu": {
+    "title": "Tony Xu",
+    "url": "/wiki/entities/tonyxu/"
   },
   "ToolRationalitySpillover": {
     "title": "Tool Rationality Spillover",
@@ -9930,6 +9990,10 @@
   "snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d": {
     "title": "Snap judgement: Japan PM’s electoral landslide",
     "url": "/wiki/sources/snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d/"
+  },
+  "socialradarspod-tonyxu-final": {
+    "title": "Tony Xu on Building DoorDash from a Class Project into a Global Marketplace",
+    "url": "/wiki/sources/socialradarspod-tonyxu-final/"
   },
   "socialradarsseason1-tracyyoung-final-1": {
     "title": "Tracy Young on PlanGrid, TigerEye, and Building a Company Deliberately",

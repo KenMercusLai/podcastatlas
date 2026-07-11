@@ -2,7 +2,7 @@
 title: "Y Combinator"
 type: entity
 tags: [company, startup-accelerator, venture-capital]
-sources: [tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1]
+sources: [tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final]
 last_updated: 2026-07-11
 ---
 
@@ -14,6 +14,8 @@ The source emphasizes how physical and improvised the early accelerator was. App
 
 [[socialradarsseason1-tracyyoung-final-1]] adds the later YC interview pattern through [[PlanGrid]]. [[TracyYoung]] remembers bringing physical blueprints into the interview, while [[JessicaLivingston]] remembers liking the combination of domain expertise, engineering talent, an important unsexy problem, and early customers willing to pay. This extends YC from early institutional origin story into [[VerticalSaaSDomainExpertise]] and [[ConstructionBlueprintVersionControl]] as batch-selection evidence.
 
+[[socialradarspod-tonyxu-final]] adds [[DoorDash]] as a Summer 2013 marketplace-validation case. [[TonyXu]] says the team entered YC after [[PaloAltoDelivery]] had repeat Stanford-area orders, then used the batch to test whether consumers, merchants, and dashers each wanted the marketplace. This extends the YC branch from selection and domain expertise into [[ThreeSidedMarketplaceValidation]] and [[JankyMVP]] learning.
+
 ## Connections
 - [[TrevorBlackwell]], [[PaulGraham]], [[JessicaLivingston]], and [[RobertMorris]] - founding and early application-review context in the episode.
 - [[FounderInvestorLearning]] - Viaweb fundraising experience translated into investor design.
@@ -21,3 +23,4 @@ The source emphasizes how physical and improvised the early accelerator was. App
 - [[Anybots]] and [[StartupInfrastructureImprovisation]] - Mountain View office and dinner context.
 - [[TheSocialRadars]] - source show preserving YC origin stories through interviews.
 - [[TracyYoung]], [[PlanGrid]], and [[VerticalSaaSDomainExpertise]] - later YC company case added by the Young episode.
+- [[TonyXu]], [[DoorDash]], [[PaloAltoDelivery]], [[JankyMVP]], and [[ThreeSidedMarketplaceValidation]] - marketplace-validation case added by the Xu episode.

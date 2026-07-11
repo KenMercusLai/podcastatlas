@@ -1915,3 +1915,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-11] ingest | Tony Xu on Building DoorDash from a Class Project into a Global Marketplace
+
+Added source page for The Social Radars episode with Tony Xu on DoorDash's origin in Stanford Startup Garage, small-business customer discovery, PaloAltoDelivery, YC, three-sided marketplace validation, suburban delivery strategy, founder proximity, and marketplace operational complexity. Created pages for Tony Xu, DoorDash, Evan Moore, Stanley Tang, Andy Fang, PaloAltoDelivery, Stanford Startup Garage, Bob Swan, John Donahoe, eBay, Customer Discovery By Doing Work, Janky MVP, Three-Sided Marketplace Validation, Founder Proximity, and Suburban Delivery Strategy; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Y Combinator, Stanford University, Paul Graham, and Founder Product Fit. No direct contradiction found; the source extends the wiki's startup-validation branch by showing how a rough consumer test had to become a validated merchant, driver, geography, and operations system.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

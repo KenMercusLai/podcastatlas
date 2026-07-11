@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Tony Xu on Building DoorDash from a Class Project into a Global Marketplace](sources/socialradarspod-tonyxu-final.md) — The Social Radars episode with Tony Xu on DoorDash's small-business discovery, PaloAltoDelivery MVP, YC marketplace validation, suburban delivery focus, and founder proximity to customers, merchants, and dashers.
 - [Tracy Young on PlanGrid, TigerEye, and Building a Company Deliberately](sources/socialradarsseason1-tracyyoung-final-1.md) — The Social Radars episode with Tracy Young on PlanGrid's construction blueprint workflow, Antoine Hersen, Y Combinator, Autodesk, TigerEye, second-time founder judgment, values-based hiring, remote work, and founder-family support.
 - [Trevor Blackwell on Viaweb, Robots, and Early Y Combinator](sources/tsr-s2-trevorblackwell-v2.md) — The Social Radars episode with Trevor Blackwell on Viaweb, Yahoo Store, Anybots, dynamic balancing robots, and early Y Combinator's first applications, dinners, and Mountain View office improvisation.
 - [Dr. AI will see you now](sources/tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128.md) — Marketplace Tech episode with Hassan Benchikran on patients using AI for diagnoses, treatment ideas, biopsy results, and medical decisions, and why clinicians should invite AI outputs into the visit for contextual review rather than dismissing them.
@@ -249,6 +250,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Tony Xu](entities/TonyXu.md) — DoorDash founder and CEO whose episode connects small-business exposure, Stanford Startup Garage, janky MVP testing, YC, and founder proximity.
+- [DoorDash](entities/DoorDash.md) — Food-delivery marketplace built from PaloAltoDelivery, used as a case for three-sided validation, suburban delivery strategy, and operational complexity.
+- [Evan Moore](entities/EvanMoore.md) — DoorDash co-founder in the Tony Xu episode, part of the Stanford-linked founding group behind PaloAltoDelivery.
+- [Stanley Tang](entities/StanleyTang.md) — DoorDash co-founder on the undergraduate computer-science side of the founding group in the Tony Xu episode.
+- [Andy Fang](entities/AndyFang.md) — DoorDash co-founder in the Tony Xu episode, linked to the team's early customer discovery and MVP testing.
+- [PaloAltoDelivery](entities/PaloAltoDelivery.md) — Rough DoorDash predecessor launched with PDF menus, a Google Voice number, founder deliveries, and door-step payment.
+- [Stanford Startup Garage](entities/StanfordStartupGarage.md) — Stanford class context where the DoorDash founding group explored small-business problems before launching PaloAltoDelivery.
+- [Bob Swan](entities/BobSwan.md) — eBay CFO whom Tony Xu worked for before Stanford, providing pre-DoorDash business-operator context.
+- [John Donahoe](entities/JohnDonahoe.md) — eBay CEO who encouraged Tony Xu to apply to business school, especially Stanford.
+- [eBay](entities/EBay.md) — Tony Xu's pre-Stanford company context in the DoorDash founder story.
 - [Tracy Young](entities/TracyYoung.md) — PlanGrid and TigerEye co-founder whose episode connects construction workflow pain, vertical SaaS domain expertise, second-time founder operating judgment, and founder-family support.
 - [PlanGrid](entities/PlanGrid.md) — Construction-software company built around tablet-based blueprint version control and acquired by Autodesk in 2018.
 - [TigerEye](entities/TigerEye.md) — Tracy Young and Ralph Goody's post-PlanGrid enterprise-software company, used as a case for explicit values, humility-focused hiring, cross-platform architecture, and remote-first operations.
@@ -257,14 +268,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Antoine Hersen](entities/AntoineHersen.md) — PlanGrid co-founder whose illness and death shaped the founding team's early emotional intensity.
 - [Autodesk](entities/Autodesk.md) — Software company that acquired PlanGrid and became the post-exit context for Tracy Young and Ralph Goody's TigerEye reflection period.
 - [Trevor Blackwell](entities/TrevorBlackwell.md) — Viaweb engineer, Y Combinator co-founder, and Anybots founder whose episode connects early web software, startup infrastructure, and dynamic balancing robotics.
-- [Y Combinator](entities/YCombinator.md) — Startup accelerator discussed through early YC origin stories and the later PlanGrid interview, where physical demos, domain expertise, and early paid customer pain mattered.
+- [Y Combinator](entities/YCombinator.md) — Startup accelerator discussed through early YC origin stories, PlanGrid's domain-expert interview, and DoorDash's three-sided marketplace validation.
 - [Viaweb](entities/Viaweb.md) — Early web-commerce company where browser-based server software, live infrastructure, and Yahoo acquisition shaped later Y Combinator lessons.
 - [Anybots](entities/Anybots.md) — Trevor Blackwell's robotics company pursuing human-sized dynamically balancing robots and providing early Mountain View space for Y Combinator.
-- [Paul Graham](entities/PaulGraham.md) — Viaweb and Y Combinator co-founder in the Blackwell episode, connecting web-software demos, fundraising opacity, and the first YC program.
+- [Paul Graham](entities/PaulGraham.md) — Viaweb and Y Combinator co-founder in the Blackwell episode, later recalled by Jessica Livingston as describing DoorDash as an organizational work of art.
 - [Robert Morris](entities/RobertMorris.md) — Harvard, Viaweb, and early Y Combinator figure who connected Paul Graham with Trevor Blackwell and helped judge early applicants.
-- [Jessica Livingston](entities/JessicaLivingston.md) — The Social Radars host and Y Combinator co-founder whose recollections connect early YC operations with PlanGrid's domain-expert startup case.
-- [Carolyn Levy](entities/CarolynLevy.md) — The Social Radars host who helps frame both early YC/Blackwell startup folklore and Tracy Young's second-time founder lessons.
-- [The Social Radars](entities/TheSocialRadars.md) — Podcast/show context for founder interviews on Viaweb, Anybots, early Y Combinator, PlanGrid, and TigerEye.
+- [Jessica Livingston](entities/JessicaLivingston.md) — The Social Radars host and Y Combinator co-founder whose recollections connect early YC operations, PlanGrid's domain expertise, and DoorDash's operational marketplace story.
+- [Carolyn Levy](entities/CarolynLevy.md) — The Social Radars host who helps frame early YC/Blackwell startup folklore, Tracy Young's second-time founder lessons, and Tony Xu's DoorDash story.
+- [The Social Radars](entities/TheSocialRadars.md) — Podcast/show context for founder interviews on Viaweb, Anybots, early Y Combinator, PlanGrid, TigerEye, and DoorDash.
 - [Yahoo](entities/Yahoo.md) — Acquirer of Viaweb and setting for Blackwell's small-merchant ad-buying prototype that Yahoo's large-ad-sales organization did not embrace.
 - [Yahoo Store](entities/YahooStore.md) — Post-acquisition Viaweb product context for Blackwell's small-merchant self-serve advertising prototype.
 - [Hassan Benchikran](entities/HassanBenchikran.md) — San Diego pulmonary and critical/intensive care physician arguing that patients will use AI health answers and should be encouraged to bring them into appointments for contextual review.
@@ -304,7 +315,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [UC Berkeley](entities/UCBerkeley.md) — Institutional affiliation for Britt Young in the Marketplace Tech prosthetics episode.
 - [Open Bionics](entities/OpenBionics.md) — British 3D-printed prosthetics firm discussed as an availability option that still faces insurance-coverage barriers.
 - [Daria Georgievich](entities/DariaGeorgievich.md) — Psychiatrist explaining why consumer chatbots are unsafe mental-health supports for teens, especially in longer conversations.
-- [Stanford University](entities/StanfordUniversity.md) — Co-cited report source in the Marketplace Tech episode on teen chatbot mental-health risk.
+- [Stanford University](entities/StanfordUniversity.md) — University context for both the teen chatbot safety report and DoorDash's Stanford Startup Garage origin.
 - [Common Sense Media](entities/CommonSenseMedia.md) — Co-cited report source anchoring the child- and teen-safety side of the chatbot mental-health discussion.
 - [Columbia University](entities/ColumbiaUniversity.md) — Institutional affiliation for Daria Georgievich in the Marketplace Tech episode.
 - [Kiyosumi-Shirakawa / 清澄白河](entities/KiyosumiShirakawa.md) — Tokyo neighborhood used to explain authentic, low-pressure coffee and street experience through Blue Bottle's Asia first store.
@@ -1518,6 +1529,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Customer Discovery By Doing Work](concepts/CustomerDiscoveryByDoingWork.md) — Startup-learning pattern where founders help customers with real work to expose operational pain before pitching a product.
+- [Janky MVP](concepts/JankyMVP.md) — Rough MVP pattern illustrated by PaloAltoDelivery's PDF menus, phone calls, founder deliveries, and manual payment.
+- [Three-Sided Marketplace Validation](concepts/ThreeSidedMarketplaceValidation.md) — Marketplace validation pattern requiring separate proof of consumer demand, merchant participation, and worker or supplier-side willingness.
+- [Founder Proximity](concepts/FounderProximity.md) — Leadership practice of staying directly exposed to customers, workers, support issues, and operational detail as the company scales.
+- [Suburban Delivery Strategy](concepts/SuburbanDeliveryStrategy.md) — DoorDash launch-market pattern where suburbs had stronger delivery need because alternatives were thinner and routines were more constrained.
 - [Construction Blueprint Version Control](concepts/ConstructionBlueprintVersionControl.md) — Job-site coordination problem PlanGrid solved by moving expensive, bulky, frequently outdated construction drawings onto tablets.
 - [Vertical SaaS Domain Expertise](concepts/VerticalSaaSDomainExpertise.md) — Pattern where lived knowledge of a narrow industry workflow reveals valuable software opportunities outsiders may dismiss as unglamorous.
 - [Second-Time Founder Operating Judgment](concepts/SecondTimeFounderOperatingJudgment.md) — Accumulated operating judgment that lets founders design the next company more deliberately after building and exiting a prior startup.
@@ -2406,7 +2422,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder Cash Flow Constraint](concepts/FounderCashFlowConstraint.md) — Personal runway problem when a promising startup cannot yet support the founder's life.
 - [Founder Ego](concepts/FounderEgo.md) — Status-seeking founder pattern where fundraising, hiring, or public image outruns validated customer demand.
 - [Founder Identity Diversification](concepts/FounderIdentityDiversification.md) — Founder-health pattern of keeping self-worth, learning, and relationships from depending on one company or role.
-- [Founder Product Fit](concepts/FounderProductFit.md) — Match between a founding team's strengths, credibility, interests, and go-to-market abilities and the product they choose.
+- [Founder Product Fit](concepts/FounderProductFit.md) — Match between a founding team's strengths, credibility, interests, and go-to-market abilities and the product they choose, now including DoorDash's marketplace-validation case.
 - [Founder Role Transition](concepts/FounderRoleTransition.md) — Shift from founder-as-everything-operator into bounded leadership, operator partnership, board, or brand roles as a company scales.
 - [Forward Deployed Engineer](concepts/ForwardDeployedEngineer.md) — Enterprise role for integrating AI into business workflows, knowledge systems, and operating processes.
 - [Frontline AI Enablement](concepts/FrontlineAIEnablement.md) — Management pattern where AI increases the judgment capacity of frontline workers instead of only centralizing decisions.
