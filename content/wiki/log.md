@@ -1916,6 +1916,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-11] ingest | David Lieb on Bump, Google Photos, and Returning to YC
+
+Added source page for The Social Radars episode with David Lieb on Bump, Google Photos, Flock, Y Combinator, Apple, Google, Google Plus, low-frequency product risk, power-user discovery, post-acquisition founder persistence, large-company risk incentives, cancer, and returning to YC founder support. Created pages for David Lieb, Bump, Flock, Google Photos, Google Plus, Low-Frequency Low-Value Product, Power User Discovery, and Large Company Risk Incentives; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Y Combinator, Paul Graham, Google, Apple, Customer Pull, Product Led Willingness To Pay, Fast Feedback Loops, Fast Product Validation, Founder Product Fit, Post-Acquisition Founder Identity, Large Company Organizational Inertia, Validated Learning, and Founder-Investor Learning. No direct contradiction found; the source adds Lieb's perspective on Google Photos' internal path while reinforcing the wiki's startup-validation branch that adoption, user love, and funding do not replace frequency, monetization, and direct user evidence.
+
 ## [2026-07-11] ingest | Tony Xu on Building DoorDash from a Class Project into a Global Marketplace
 
 Added source page for The Social Radars episode with Tony Xu on DoorDash's origin in Stanford Startup Garage, small-business customer discovery, PaloAltoDelivery, YC, three-sided marketplace validation, suburban delivery strategy, founder proximity, and marketplace operational complexity. Created pages for Tony Xu, DoorDash, Evan Moore, Stanley Tang, Andy Fang, PaloAltoDelivery, Stanford Startup Garage, Bob Swan, John Donahoe, eBay, Customer Discovery By Doing Work, Janky MVP, Three-Sided Marketplace Validation, Founder Proximity, and Suburban Delivery Strategy; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Y Combinator, Stanford University, Paul Graham, and Founder Product Fit. No direct contradiction found; the source extends the wiki's startup-validation branch by showing how a rough consumer test had to become a validated merchant, driver, geography, and operations system.
@@ -1927,6 +1931,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-11] ingest | Paul Buchheit on Gmail, Google, FriendFeed, and Startup Judgment
 
 Added source page for The Social Radars episode with Paul Buchheit on Gmail, early Google, FriendFeed, Facebook/Meta acquisition, Y Combinator, and angel investing. Created pages for Paul Buchheit, Gmail, FriendFeed, Fast Feedback Loops, Product Launch Under Constraint, and Outlier-Driven Angel Investing; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Google, Meta, Y Combinator, Paul Graham, DoorDash, Customer Pull, Fast Product Validation, Pre-Product Selling, Product Led Willingness To Pay, Founder Product Fit, and Founder-Investor Learning. No direct contradiction found; the source self-flags the disputed FriendFeed/Facebook Like button origin claim and extends the wiki's startup-validation branch by treating fast feedback, launch constraints, costly customer signals, and founder quality as practical judgment tools.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-11] lint | Wiki health check
 

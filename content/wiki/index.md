@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [David Lieb on Bump, Google Photos, and Returning to YC](sources/socialradarspod-davidlieb-final.md) — The Social Radars episode with David Lieb on Bump's low-frequency business-model problem, power-user photo-sharing discovery, Flock, Google Photos, Google Plus conflict, large-company risk incentives, and returning to YC.
 - [Paul Buchheit on Gmail, Google, FriendFeed, and Startup Judgment](sources/socialradarspod-paulb-final.md) — The Social Radars episode with Paul Buchheit on Gmail's internal feedback loops, constrained launch, FriendFeed's social product, Facebook acquisition, YC advice, and outlier-driven angel investing.
 - [Tony Xu on Building DoorDash from a Class Project into a Global Marketplace](sources/socialradarspod-tonyxu-final.md) — The Social Radars episode with Tony Xu on DoorDash's small-business discovery, PaloAltoDelivery MVP, YC marketplace validation, suburban delivery focus, and founder proximity to customers, merchants, and dashers.
 - [Tracy Young on PlanGrid, TigerEye, and Building a Company Deliberately](sources/socialradarsseason1-tracyyoung-final-1.md) — The Social Radars episode with Tracy Young on PlanGrid's construction blueprint workflow, Antoine Hersen, Y Combinator, Autodesk, TigerEye, second-time founder judgment, values-based hiring, remote work, and founder-family support.
@@ -251,6 +252,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [David Lieb](entities/DavidLieb.md) — Bump co-founder and Google Photos product leader whose episode connects low-frequency product limits, power-user discovery, post-acquisition persistence, and YC founder support.
+- [Bump](entities/Bump.md) — Mobile contact-sharing startup with huge installs but weak usage frequency, used as the source case for low-frequency low-value product risk.
+- [Flock](entities/Flock.md) — Bump team's photo-sharing follow-on app whose failure clarified that the real product needed to live at the camera-roll layer.
+- [Google Photos](entities/GooglePhotos.md) — Google photo product that Lieb traces back to Bump power users, Flock's failed separate-app path, and an internal fight against Google Plus framing.
+- [Google Plus](entities/GooglePlus.md) — Google social product context that redirected photo work after the Bump acquisition and became the internal obstacle in Lieb's Google Photos account.
 - [Paul Buchheit](entities/PaulBuchheit.md) — Creator of Gmail, early Google employee, FriendFeed founder, former YC partner, and angel investor whose episode links fast product feedback to startup judgment.
 - [Gmail](entities/Gmail.md) — Google email product built by Paul Buchheit through internal-user feedback, large-storage differentiation, and a constrained launch after a press leak.
 - [FriendFeed](entities/FriendFeed.md) — Social-activity aggregation startup founded by Paul Buchheit after Google and later acquired by Facebook/Meta.
@@ -1533,6 +1539,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Low-Frequency Low-Value Product](concepts/LowFrequencyLowValueProduct.md) — Product/business-model failure mode where large adoption still fails to monetize because the core action is too occasional and not valuable enough per use.
+- [Power User Discovery](concepts/PowerUserDiscovery.md) — Product-research pattern where a team studies its heaviest users to find the real job and adjacent opportunity hidden by aggregate metrics.
+- [Large Company Risk Incentives](concepts/LargeCompanyRiskIncentives.md) — Organizational incentive pattern where successful companies under-launch risky products because personal downside is clearer than uncertain upside.
 - [Fast Feedback Loops](concepts/FastFeedbackLoops.md) — Product-building pattern where working versions reach real users quickly and direct user behavior drives the next change.
 - [Product Launch Under Constraint](concepts/ProductLaunchUnderConstraint.md) — Launch pattern where timing, capacity, infrastructure, or narrative constraints shape product mechanics and rollout.
 - [Outlier-Driven Angel Investing](concepts/OutlierDrivenAngelInvesting.md) — Startup-investing pattern where rare breakout companies dominate returns and founder quality outweighs investor desire for an idea.

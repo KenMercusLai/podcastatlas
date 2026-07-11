@@ -1475,6 +1475,10 @@
     "title": "Built for a Better World",
     "url": "/wiki/entities/builtforabetterworld/"
   },
+  "Bump": {
+    "title": "Bump",
+    "url": "/wiki/entities/bump/"
+  },
   "BusinessFluentDesign": {
     "title": "Business Fluent Design",
     "url": "/wiki/concepts/businessfluentdesign/"
@@ -2343,6 +2347,10 @@
     "title": "David Ellison",
     "url": "/wiki/entities/davidellison/"
   },
+  "DavidLieb": {
+    "title": "David Lieb",
+    "url": "/wiki/entities/davidlieb/"
+  },
   "Daxiong": {
     "title": "大雄",
     "url": "/wiki/entities/daxiong/"
@@ -3155,6 +3163,10 @@
     "title": "Fliggy",
     "url": "/wiki/entities/fliggy/"
   },
+  "Flock": {
+    "title": "Flock",
+    "url": "/wiki/entities/flock/"
+  },
   "Flora": {
     "title": "Flora",
     "url": "/wiki/entities/flora/"
@@ -3578,6 +3590,14 @@
   "GoogleDeepMind": {
     "title": "Google DeepMind",
     "url": "/wiki/entities/googledeepmind/"
+  },
+  "GooglePhotos": {
+    "title": "Google Photos",
+    "url": "/wiki/entities/googlephotos/"
+  },
+  "GooglePlus": {
+    "title": "Google Plus",
+    "url": "/wiki/entities/googleplus/"
   },
   "GovernmentEnterpriseProcurement": {
     "title": "Government Enterprise Procurement",
@@ -4787,6 +4807,10 @@
     "title": "Large Company Organizational Inertia",
     "url": "/wiki/concepts/largecompanyorganizationalinertia/"
   },
+  "LargeCompanyRiskIncentives": {
+    "title": "Large Company Risk Incentives",
+    "url": "/wiki/concepts/largecompanyriskincentives/"
+  },
   "LateTalk": {
     "title": "LateTalk",
     "url": "/wiki/entities/latetalk/"
@@ -5106,6 +5130,10 @@
   "LowFireLaborMarket": {
     "title": "Low-Fire Labor Market",
     "url": "/wiki/concepts/lowfirelabormarket/"
+  },
+  "LowFrequencyLowValueProduct": {
+    "title": "Low-Frequency Low-Value Product",
+    "url": "/wiki/concepts/lowfrequencylowvalueproduct/"
   },
   "LowPriceBrandPerception": {
     "title": "Low Price Brand Perception",
@@ -6546,6 +6574,10 @@
   "PostOwnership": {
     "title": "Post Ownership",
     "url": "/wiki/concepts/postownership/"
+  },
+  "PowerUserDiscovery": {
+    "title": "Power User Discovery",
+    "url": "/wiki/concepts/poweruserdiscovery/"
   },
   "PreProductSelling": {
     "title": "Pre-Product Selling",
@@ -10014,6 +10046,10 @@
   "snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d": {
     "title": "Snap judgement: Japan PM’s electoral landslide",
     "url": "/wiki/sources/snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d/"
+  },
+  "socialradarspod-davidlieb-final": {
+    "title": "David Lieb on Bump, Google Photos, and Returning to YC",
+    "url": "/wiki/sources/socialradarspod-davidlieb-final/"
   },
   "socialradarspod-paulb-final": {
     "title": "Paul Buchheit on Gmail, Google, FriendFeed, and Startup Judgment",

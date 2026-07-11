@@ -2,7 +2,7 @@
 title: "Y Combinator"
 type: entity
 tags: [company, startup-accelerator, venture-capital]
-sources: [tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
+sources: [socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
 last_updated: 2026-07-11
 ---
 
@@ -18,6 +18,8 @@ The source emphasizes how physical and improvised the early accelerator was. App
 
 [[socialradarspod-paulb-final]] adds [[PaulBuchheit]] as a later YC partner and angel investor. PB first found YC through Slashdot, offered to help [[PaulGraham]] after YC announced a Mountain View batch, and later joined because he wanted to stay close to startups without running each one himself. His advice extends YC's validation branch into [[OutlierDrivenAngelInvesting]], [[CustomerPull]], and [[PreProductSelling]]: polite interest is weak evidence, while LOIs, payment, or other customer sacrifices reveal stronger demand.
 
+[[socialradarspod-davidlieb-final]] adds [[DavidLieb]] and [[Bump]] as another YC company case. Lieb says the founders nearly skipped YC after outside advisors and VCs criticized the deal, but [[PaulGraham]] told him there was no way to prove in advance that YC would be worth it, only that it would be. The later Bump server-crash story also makes the YC alumni network tangible: the founder email list produced immediate operational help during an [[Apple]]-driven traffic spike.
+
 ## Connections
 - [[TrevorBlackwell]], [[PaulGraham]], [[JessicaLivingston]], and [[RobertMorris]] - founding and early application-review context in the episode.
 - [[FounderInvestorLearning]] - Viaweb fundraising experience translated into investor design.
@@ -27,3 +29,4 @@ The source emphasizes how physical and improvised the early accelerator was. App
 - [[TracyYoung]], [[PlanGrid]], and [[VerticalSaaSDomainExpertise]] - later YC company case added by the Young episode.
 - [[TonyXu]], [[DoorDash]], [[PaloAltoDelivery]], [[JankyMVP]], and [[ThreeSidedMarketplaceValidation]] - marketplace-validation case added by the Xu episode.
 - [[PaulBuchheit]], [[OutlierDrivenAngelInvesting]], [[CustomerPull]], and [[PreProductSelling]] - partner, angel-investing, and demand-evidence branch added by the Buchheit episode.
+- [[DavidLieb]], [[Bump]], [[LowFrequencyLowValueProduct]], and [[PowerUserDiscovery]] - mobile-consumer product case added by the Lieb episode.

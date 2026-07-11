@@ -2,8 +2,8 @@
 title: "Large Company Organizational Inertia"
 type: concept
 tags: [organizations, career, management]
-sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf]
-last_updated: 2026-07-08
+sources: [socialradarspod-davidlieb-final, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, nage-bu-chuan-xizhuang-de-chengxuyuan-chechule-guochan-caozuoxitong-ershi-nian-mishi-keji-luandun, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf]
+last_updated: 2026-07-11
 ---
 
 # Large Company Organizational Inertia
@@ -11,6 +11,8 @@ last_updated: 2026-07-08
 Large company organizational inertia is the episode's frame for how massive companies move with resources, momentum, rules, hierarchy, and replaceability. In [[ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun]], the hosts use the image of a many-thousand-person iron ball to explain why one strong individual usually cannot redirect the organization, and why the organization may prioritize order over retention.
 
 [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] adds a product-integration version through [[Google]]. The hosts think Gemini's model capability is strong, but that product entry points across apps, workspace, browser, AI studio, and demos feel fragmented, suggesting that large-company structure can diffuse product focus even when technical assets are strong.
+
+[[socialradarspod-davidlieb-final]] adds an acquired-product version through [[DavidLieb]], [[GooglePhotos]], and [[GooglePlus]]. Lieb says the Bump team arrived expecting to build a standalone photos product, but the relevant work had been reorganized into Google Plus. The source turns inertia into [[LargeCompanyRiskIncentives]]: internal mandates and downside-avoidance can make the safer organizational path overpower the product path until leadership support changes the incentive structure.
 
 [[dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun]] adds a legacy-platform version through [[Baidu]]. The hosts describe filtered feedback, late corrections, repeated late entry into validated markets, and difficulty sustaining complex new businesses after search advertising became a cash cow.
 
@@ -30,12 +32,15 @@ Large company organizational inertia is the episode's frame for how massive comp
 - Large-company scale can also be actively organized through a unifying metric, as the Huawei source argues with [[TauLaw]] and [[ConstraintDrivenEngineeringStrategy]].
 - For ordinary employees, inertia shows up as business-line disappearance, middle-platform danger, outsourced/full-time boundaries, and the discovery that the large company was not a permanent shore.
 - The same scale can provide procedural protection through compensation, welfare, and layoff process, making inertia both shelter and constraint.
+- Acquired teams can be pulled into existing product mandates even when the acquisition thesis points somewhere else.
+- Inertia can be an incentive problem as much as a competence problem: managers may avoid risky launches even when the company has the talent and technology.
 
 ## Connections
 - [[StarTalentInBigCompanies]] — individual-level pattern inside the same environment.
 - [[Alibaba]] and [[LinJunyang]] — central case discussed in the source.
 - [[HumanJudgmentUnderAI]] — professional survival still depends on judgment inside such systems.
 - [[Google]], [[Gemini]], and [[AIProductFragmentation]] — product-integration case added by Vol. 166.
+- [[DavidLieb]], [[Bump]], [[GooglePhotos]], [[GooglePlus]], and [[LargeCompanyRiskIncentives]] — acquired-product conflict added by The Social Radars.
 - [[Baidu]], [[LiYanhong]], [[LuQi]], and [[CashCowStrategicInertia]] — legacy search-platform case added by the Baidu source.
 - [[TongxinSoftware]], [[LinWei]], and [[TechnicalCultureSalesCultureTension]] — technical-community-to-enterprise-vendor case added by the domestic operating-system source.
 - [[Huawei]], [[TauLaw]], and [[HuaweiOrganizationalMethodology]] — scale-coordination case added by the Huawei source.
