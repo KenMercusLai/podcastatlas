@@ -907,6 +907,10 @@
     "title": "Antler",
     "url": "/wiki/entities/antler/"
   },
+  "AntoineHersen": {
+    "title": "Antoine Hersen",
+    "url": "/wiki/entities/antoinehersen/"
+  },
   "AntonLaGuardia": {
     "title": "Anton LaGuardia",
     "url": "/wiki/entities/antonlaguardia/"
@@ -1086,6 +1090,10 @@
   "AutocraticSuccession": {
     "title": "Autocratic Succession",
     "url": "/wiki/concepts/autocraticsuccession/"
+  },
+  "Autodesk": {
+    "title": "Autodesk",
+    "url": "/wiki/entities/autodesk/"
   },
   "AutomatedPerformanceMarketing": {
     "title": "Automated Performance Marketing",
@@ -1974,6 +1982,10 @@
   "ConstraintDrivenEngineeringStrategy": {
     "title": "Constraint Driven Engineering Strategy",
     "url": "/wiki/concepts/constraintdrivenengineeringstrategy/"
+  },
+  "ConstructionBlueprintVersionControl": {
+    "title": "Construction Blueprint Version Control",
+    "url": "/wiki/concepts/constructionblueprintversioncontrol/"
   },
   "ConsumerAMLExposure": {
     "title": "Consumer AML Exposure",
@@ -6319,6 +6331,10 @@
     "title": "Piotr Zilevsky",
     "url": "/wiki/entities/piotrzilevsky/"
   },
+  "PlanGrid": {
+    "title": "PlanGrid",
+    "url": "/wiki/entities/plangrid/"
+  },
   "PlanetMoney": {
     "title": "Planet Money",
     "url": "/wiki/entities/planetmoney/"
@@ -6735,6 +6751,10 @@
     "title": "Rahul Banerjee",
     "url": "/wiki/entities/rahulbanerjee/"
   },
+  "RalphGoody": {
+    "title": "Ralph Goody",
+    "url": "/wiki/entities/ralphgoody/"
+  },
   "RandomMarketNarratives": {
     "title": "Random Market Narratives",
     "url": "/wiki/concepts/randommarketnarratives/"
@@ -7075,6 +7095,10 @@
     "title": "Russo-Chinese Bank",
     "url": "/wiki/entities/russochinesebank/"
   },
+  "RyanSuttonGee": {
+    "title": "Ryan Sutton-Gee",
+    "url": "/wiki/entities/ryansuttongee/"
+  },
   "Ryo": {
     "title": "Ryo",
     "url": "/wiki/entities/ryo/"
@@ -7210,6 +7234,10 @@
   "SecondRenaissance": {
     "title": "Second Renaissance",
     "url": "/wiki/concepts/secondrenaissance/"
+  },
+  "SecondTimeFounderOperatingJudgment": {
+    "title": "Second-Time Founder Operating Judgment",
+    "url": "/wiki/concepts/secondtimefounderoperatingjudgment/"
   },
   "SecondhandGameEconomy": {
     "title": "Secondhand Game Economy",
@@ -8103,6 +8131,10 @@
     "title": "Tiger Brokers",
     "url": "/wiki/entities/tigerbrokers/"
   },
+  "TigerEye": {
+    "title": "TigerEye",
+    "url": "/wiki/entities/tigereye/"
+  },
   "TikTok": {
     "title": "TikTok",
     "url": "/wiki/entities/tiktok/"
@@ -8214,6 +8246,10 @@
   "TractionTools": {
     "title": "Traction Tools",
     "url": "/wiki/entities/tractiontools/"
+  },
+  "TracyYoung": {
+    "title": "Tracy Young",
+    "url": "/wiki/entities/tracyyoung/"
   },
   "TrainedIntuition": {
     "title": "Trained Intuition",
@@ -8462,6 +8498,10 @@
   "VerticalMediaDistribution": {
     "title": "Vertical Media Distribution",
     "url": "/wiki/concepts/verticalmediadistribution/"
+  },
+  "VerticalSaaSDomainExpertise": {
+    "title": "Vertical SaaS Domain Expertise",
+    "url": "/wiki/concepts/verticalsaasdomainexpertise/"
   },
   "VerticalWorkflowAI": {
     "title": "Vertical Workflow AI",
@@ -9890,6 +9930,10 @@
   "snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d": {
     "title": "Snap judgement: Japan PM’s electoral landslide",
     "url": "/wiki/sources/snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d/"
+  },
+  "socialradarsseason1-tracyyoung-final-1": {
+    "title": "Tracy Young on PlanGrid, TigerEye, and Building a Company Deliberately",
+    "url": "/wiki/sources/socialradarsseason1-tracyyoung-final-1/"
   },
   "starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1": {
     "title": "Starmergeddon: British PM resigns",

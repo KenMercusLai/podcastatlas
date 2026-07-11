@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Tracy Young on PlanGrid, TigerEye, and Building a Company Deliberately](sources/socialradarsseason1-tracyyoung-final-1.md) — The Social Radars episode with Tracy Young on PlanGrid's construction blueprint workflow, Antoine Hersen, Y Combinator, Autodesk, TigerEye, second-time founder judgment, values-based hiring, remote work, and founder-family support.
 - [Trevor Blackwell on Viaweb, Robots, and Early Y Combinator](sources/tsr-s2-trevorblackwell-v2.md) — The Social Radars episode with Trevor Blackwell on Viaweb, Yahoo Store, Anybots, dynamic balancing robots, and early Y Combinator's first applications, dinners, and Mountain View office improvisation.
 - [Dr. AI will see you now](sources/tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128.md) — Marketplace Tech episode with Hassan Benchikran on patients using AI for diagnoses, treatment ideas, biopsy results, and medical decisions, and why clinicians should invite AI outputs into the visit for contextual review rather than dismissing them.
 - [Bytes: Week in Review - Micron's big earnings, Oracle's data center woes and "slop" is Merriam-Webster's word of the year](sources/tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Anita Ramaswamy of The Information on Micron's AI memory boom, high-bandwidth memory, consumer storage pressure, Oracle's reported OpenAI cloud deal and data-center debt risk, Blue Owl's reported project withdrawal, local data-center backlash, and AI slop becoming Merriam-Webster's 2025 word of the year.
@@ -248,15 +249,22 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Tracy Young](entities/TracyYoung.md) — PlanGrid and TigerEye co-founder whose episode connects construction workflow pain, vertical SaaS domain expertise, second-time founder operating judgment, and founder-family support.
+- [PlanGrid](entities/PlanGrid.md) — Construction-software company built around tablet-based blueprint version control and acquired by Autodesk in 2018.
+- [TigerEye](entities/TigerEye.md) — Tracy Young and Ralph Goody's post-PlanGrid enterprise-software company, used as a case for explicit values, humility-focused hiring, cross-platform architecture, and remote-first operations.
+- [Ralph Goody](entities/RalphGoody.md) — PlanGrid and TigerEye co-founder whose spouse co-founding relationship with Tracy Young illustrates role-boundary and family-support constraints.
+- [Ryan Sutton-Gee](entities/RyanSuttonGee.md) — PlanGrid co-founder who pushed the founding group to build the iPad construction-documents product and later focused on fundraising.
+- [Antoine Hersen](entities/AntoineHersen.md) — PlanGrid co-founder whose illness and death shaped the founding team's early emotional intensity.
+- [Autodesk](entities/Autodesk.md) — Software company that acquired PlanGrid and became the post-exit context for Tracy Young and Ralph Goody's TigerEye reflection period.
 - [Trevor Blackwell](entities/TrevorBlackwell.md) — Viaweb engineer, Y Combinator co-founder, and Anybots founder whose episode connects early web software, startup infrastructure, and dynamic balancing robotics.
-- [Y Combinator](entities/YCombinator.md) — Startup accelerator discussed through its first Summer Founders Program, printed applications, early interviews, dinners, and Mountain View office inside Anybots space.
+- [Y Combinator](entities/YCombinator.md) — Startup accelerator discussed through early YC origin stories and the later PlanGrid interview, where physical demos, domain expertise, and early paid customer pain mattered.
 - [Viaweb](entities/Viaweb.md) — Early web-commerce company where browser-based server software, live infrastructure, and Yahoo acquisition shaped later Y Combinator lessons.
 - [Anybots](entities/Anybots.md) — Trevor Blackwell's robotics company pursuing human-sized dynamically balancing robots and providing early Mountain View space for Y Combinator.
 - [Paul Graham](entities/PaulGraham.md) — Viaweb and Y Combinator co-founder in the Blackwell episode, connecting web-software demos, fundraising opacity, and the first YC program.
 - [Robert Morris](entities/RobertMorris.md) — Harvard, Viaweb, and early Y Combinator figure who connected Paul Graham with Trevor Blackwell and helped judge early applicants.
-- [Jessica Livingston](entities/JessicaLivingston.md) — The Social Radars host and Y Combinator co-founder whose recollections ground the episode's early YC office, dinner, and application stories.
-- [Carolyn Levy](entities/CarolynLevy.md) — The Social Radars host who helps frame Trevor Blackwell's role in early Y Combinator culture and startup folklore.
-- [The Social Radars](entities/TheSocialRadars.md) — Podcast/show context for the Trevor Blackwell interview on Viaweb, Anybots, and early Y Combinator.
+- [Jessica Livingston](entities/JessicaLivingston.md) — The Social Radars host and Y Combinator co-founder whose recollections connect early YC operations with PlanGrid's domain-expert startup case.
+- [Carolyn Levy](entities/CarolynLevy.md) — The Social Radars host who helps frame both early YC/Blackwell startup folklore and Tracy Young's second-time founder lessons.
+- [The Social Radars](entities/TheSocialRadars.md) — Podcast/show context for founder interviews on Viaweb, Anybots, early Y Combinator, PlanGrid, and TigerEye.
 - [Yahoo](entities/Yahoo.md) — Acquirer of Viaweb and setting for Blackwell's small-merchant ad-buying prototype that Yahoo's large-ad-sales organization did not embrace.
 - [Yahoo Store](entities/YahooStore.md) — Post-acquisition Viaweb product context for Blackwell's small-merchant self-serve advertising prototype.
 - [Hassan Benchikran](entities/HassanBenchikran.md) — San Diego pulmonary and critical/intensive care physician arguing that patients will use AI health answers and should be encouraged to bring them into appointments for contextual review.
@@ -1510,6 +1518,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Construction Blueprint Version Control](concepts/ConstructionBlueprintVersionControl.md) — Job-site coordination problem PlanGrid solved by moving expensive, bulky, frequently outdated construction drawings onto tablets.
+- [Vertical SaaS Domain Expertise](concepts/VerticalSaaSDomainExpertise.md) — Pattern where lived knowledge of a narrow industry workflow reveals valuable software opportunities outsiders may dismiss as unglamorous.
+- [Second-Time Founder Operating Judgment](concepts/SecondTimeFounderOperatingJudgment.md) — Accumulated operating judgment that lets founders design the next company more deliberately after building and exiting a prior startup.
 - [Web-Based Software](concepts/WebBasedSoftware.md) — Early server-hosted browser software model that made Viaweb feel revolutionary because fixes and features could be deployed without boxed release cycles.
 - [Startup Infrastructure Improvisation](concepts/StartupInfrastructureImprovisation.md) — Pattern where early companies keep services and institutions running through practical but risky fixes such as bogometers, fax modems, generator attempts, and unfinished offices.
 - [Dynamic Balancing Robotics](concepts/DynamicBalancingRobotics.md) — Walking-robot route focused on active balance, compliant actuation, terrain adaptation, and impact tolerance rather than only careful foot geometry.

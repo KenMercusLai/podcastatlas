@@ -2,8 +2,8 @@
 title: "Startup Governance"
 type: concept
 tags: [startup, governance, mission, founders]
-sources: [eric-ries-on-how-founders-quietly-lose-their-company, eric-ries-incorruptible-by-design-wrgromn5peq, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e]
-last_updated: 2026-07-09
+sources: [eric-ries-on-how-founders-quietly-lose-their-company, eric-ries-incorruptible-by-design-wrgromn5peq, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, socialradarsseason1-tracyyoung-final-1]
+last_updated: 2026-07-11
 ---
 
 # Startup Governance
@@ -17,6 +17,8 @@ Startup governance is the operating system of power inside a company: charter la
 [[no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500]] adds ecommerce governance cases where control rights, investor pressure, spouse conflict, professional-manager conflict, and financial seals become operational rather than decorative. [[8848]], [[Dangdang]], [[Redbaby]], [[BabyTree]], and [[Gome]] show that fast-growing retail platforms can lose the ability to act coherently when equity, board, family, or seal control becomes contested.
 
 [[advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e]] adds an early CPG financing version through [[JajuPierogi]]. [[JeniBritton]] warns [[CaseyWhite]] that outside capital brings opinions and reduced control, while [[GuyRaz]] and Britton point toward SBA loans, bank loans, friends-and-family networks, grants, and advisors or boards as ways to add capacity without making equity the default answer.
+
+[[socialradarsseason1-tracyyoung-final-1]] adds an internal-operating version through [[TigerEye]]. [[TracyYoung]] treats values, hiring rules, role boundaries with [[RalphGoody]], and remote-work communication norms as governance choices that should be explicit before the team is large.
 
 ## Key Claims
 - Standard startup documents often leave purpose broad, which can later be interpreted through [[ShareholderPrimacy]] and investor expectations.
@@ -33,6 +35,7 @@ Startup governance is the operating system of power inside a company: charter la
 - In operating-asset acquisitions, governance starts before the deal closes: buyers need to verify that the asset actually behaves like a controllable company rather than a community institution or sponsorship obligation.
 - In ecommerce, governance failures can directly affect supplier payment, cash management, listing windows, category expansion, and whether a company can respond to platform or market shocks.
 - In CPG, governance can start before institutional capital: financing choice, advisor design, and board preparation determine how much power a founder keeps when retail growth accelerates.
+- Early-stage governance also includes the written commitments and decision rules that determine who gets hired, who gets fired, and how co-founders resolve responsibility overlap.
 
 ## Connections
 - [[EricRies]] - source of the governance frame.
@@ -49,3 +52,4 @@ Startup governance is the operating system of power inside a company: charter la
 - [[JumillaCF]], [[LiXiang]], [[TangHui]], [[FootballClubAsCommunityAsset]], and [[FootballClubControlRisk]] - cross-border football-club case where formal title and real control diverged.
 - [[8848]], [[Dangdang]], [[Redbaby]], [[BabyTree]], [[Gome]], and [[EcommercePlatformFailureModes]] - ecommerce cases where formal growth did not prevent control and governance breakdown.
 - [[JajuPierogi]], [[CaseyWhite]], [[JeniBritton]], and [[SustainableGrowthPace]] - CPG case where growth financing is treated as a founder-control decision.
+- [[TracyYoung]], [[RalphGoody]], [[TigerEye]], [[ValuesAsOperationalAsset]], and [[SecondTimeFounderOperatingJudgment]] - startup operating-governance case from The Social Radars.

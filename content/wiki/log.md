@@ -1784,6 +1784,10 @@ Added source page for a 疯投圈 episode on Japan product experience, Korea glo
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-11] ingest | Tracy Young on PlanGrid, TigerEye, and Building a Company Deliberately
+
+Added source page for The Social Radars interview with Tracy Young on PlanGrid's construction blueprint workflow, Y Combinator, Antoine Hersen, Autodesk, TigerEye, values-based hiring, cross-platform architecture, remote work, spouse co-founding, and founder-family support. Created pages for Tracy Young, PlanGrid, TigerEye, Ralph Goody, Ryan Sutton-Gee, Antoine Hersen, Autodesk, Construction Blueprint Version Control, Vertical SaaS Domain Expertise, and Second-Time Founder Operating Judgment; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Y Combinator, Founder Product Fit, Domain Expert Alignment, Values As Operational Asset, Stage-Appropriate Hiring, Founder Ego, Startup Governance, Founder Cash Flow Constraint, Family Labor Boundaries, Workplace Relationship Boundaries, and Post-Acquisition Founder Identity. No direct contradiction found; the source extends the wiki's startup coverage by showing how lived domain pain can create vertical SaaS and how second-time founder judgment becomes explicit company design.
+
 ## [2026-07-10] ingest | Trevor Blackwell on Viaweb, Robots, and Early Y Combinator
 
 Added source page for The Social Radars interview with Trevor Blackwell on Viaweb, Yahoo Store, Anybots, dynamic balancing robots, and early Y Combinator. Created pages for Trevor Blackwell, Y Combinator, Viaweb, Anybots, Paul Graham, Robert Morris, Jessica Livingston, Carolyn Levy, The Social Radars, Yahoo, Yahoo Store, Web-Based Software, Startup Infrastructure Improvisation, Dynamic Balancing Robotics, Startup Accelerator Batch Selection, and Founder-Investor Learning; updated overview, index, Boston Dynamics, Embodied AI, Physical AI, and Humanoid Robot Commercialization. No direct contradiction found; the source extends modern embodied-AI coverage backward into pre-foundation-model robotics and qualifies startup-history mythology with concrete infrastructure and operating detail.
@@ -1905,5 +1909,9 @@ Added source page for a Marketplace Tech episode with Hassan Benchikran on patie
 Ran lint. See lint-report.md for details.
 
 ## [2026-07-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
