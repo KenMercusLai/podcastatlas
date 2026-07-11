@@ -3,6 +3,7 @@
     <h1>{{ .Title }}</h1>
 
     {{ $overview := .Site.GetPage "/wiki/overview" }}
+    {{ $stats := .Site.GetPage "/wiki/stats" }}
     {{ $concepts := .Site.GetPage "/wiki/concepts" }}
     {{ $entities := .Site.GetPage "/wiki/entities" }}
     {{ $sources := .Site.GetPage "/wiki/sources" }}
@@ -15,6 +16,15 @@
             <div class="page-meta">Living synthesis across all sources</div>
           </div>
           <span class="wiki-section-count">1 page</span>
+        </li>
+      {{ end }}
+      {{ with $stats }}
+        <li>
+          <div>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <div class="page-meta">Generated page, link, and source health metrics</div>
+          </div>
+          <span class="wiki-section-count">Generated</span>
         </li>
       {{ end }}
       {{ with $concepts }}
