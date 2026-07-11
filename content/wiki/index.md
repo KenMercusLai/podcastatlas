@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Paul Buchheit on Gmail, Google, FriendFeed, and Startup Judgment](sources/socialradarspod-paulb-final.md) — The Social Radars episode with Paul Buchheit on Gmail's internal feedback loops, constrained launch, FriendFeed's social product, Facebook acquisition, YC advice, and outlier-driven angel investing.
 - [Tony Xu on Building DoorDash from a Class Project into a Global Marketplace](sources/socialradarspod-tonyxu-final.md) — The Social Radars episode with Tony Xu on DoorDash's small-business discovery, PaloAltoDelivery MVP, YC marketplace validation, suburban delivery focus, and founder proximity to customers, merchants, and dashers.
 - [Tracy Young on PlanGrid, TigerEye, and Building a Company Deliberately](sources/socialradarsseason1-tracyyoung-final-1.md) — The Social Radars episode with Tracy Young on PlanGrid's construction blueprint workflow, Antoine Hersen, Y Combinator, Autodesk, TigerEye, second-time founder judgment, values-based hiring, remote work, and founder-family support.
 - [Trevor Blackwell on Viaweb, Robots, and Early Y Combinator](sources/tsr-s2-trevorblackwell-v2.md) — The Social Radars episode with Trevor Blackwell on Viaweb, Yahoo Store, Anybots, dynamic balancing robots, and early Y Combinator's first applications, dinners, and Mountain View office improvisation.
@@ -250,6 +251,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Paul Buchheit](entities/PaulBuchheit.md) — Creator of Gmail, early Google employee, FriendFeed founder, former YC partner, and angel investor whose episode links fast product feedback to startup judgment.
+- [Gmail](entities/Gmail.md) — Google email product built by Paul Buchheit through internal-user feedback, large-storage differentiation, and a constrained launch after a press leak.
+- [FriendFeed](entities/FriendFeed.md) — Social-activity aggregation startup founded by Paul Buchheit after Google and later acquired by Facebook/Meta.
 - [Tony Xu](entities/TonyXu.md) — DoorDash founder and CEO whose episode connects small-business exposure, Stanford Startup Garage, janky MVP testing, YC, and founder proximity.
 - [DoorDash](entities/DoorDash.md) — Food-delivery marketplace built from PaloAltoDelivery, used as a case for three-sided validation, suburban delivery strategy, and operational complexity.
 - [Evan Moore](entities/EvanMoore.md) — DoorDash co-founder in the Tony Xu episode, part of the Stanford-linked founding group behind PaloAltoDelivery.
@@ -1529,6 +1533,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Fast Feedback Loops](concepts/FastFeedbackLoops.md) — Product-building pattern where working versions reach real users quickly and direct user behavior drives the next change.
+- [Product Launch Under Constraint](concepts/ProductLaunchUnderConstraint.md) — Launch pattern where timing, capacity, infrastructure, or narrative constraints shape product mechanics and rollout.
+- [Outlier-Driven Angel Investing](concepts/OutlierDrivenAngelInvesting.md) — Startup-investing pattern where rare breakout companies dominate returns and founder quality outweighs investor desire for an idea.
 - [Customer Discovery By Doing Work](concepts/CustomerDiscoveryByDoingWork.md) — Startup-learning pattern where founders help customers with real work to expose operational pain before pitching a product.
 - [Janky MVP](concepts/JankyMVP.md) — Rough MVP pattern illustrated by PaloAltoDelivery's PDF menus, phone calls, founder deliveries, and manual payment.
 - [Three-Sided Marketplace Validation](concepts/ThreeSidedMarketplaceValidation.md) — Marketplace validation pattern requiring separate proof of consumer demand, merchant participation, and worker or supplier-side willingness.

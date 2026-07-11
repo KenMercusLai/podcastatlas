@@ -3023,6 +3023,10 @@
     "title": "Farzad Rashidi",
     "url": "/wiki/entities/farzadrashidi/"
   },
+  "FastFeedbackLoops": {
+    "title": "Fast Feedback Loops",
+    "url": "/wiki/concepts/fastfeedbackloops/"
+  },
   "FastProductValidation": {
     "title": "Fast Product Validation",
     "url": "/wiki/concepts/fastproductvalidation/"
@@ -3319,6 +3323,10 @@
     "title": "Fresh-Made Ice Cream Retail",
     "url": "/wiki/concepts/freshmadeicecreamretail/"
   },
+  "FriendFeed": {
+    "title": "FriendFeed",
+    "url": "/wiki/entities/friendfeed/"
+  },
   "FromIdeaToFrontier": {
     "title": "From Idea to Frontier",
     "url": "/wiki/entities/fromideatofrontier/"
@@ -3522,6 +3530,10 @@
   "GlobalSportsSponsorship": {
     "title": "Global Sports Sponsorship",
     "url": "/wiki/concepts/globalsportssponsorship/"
+  },
+  "Gmail": {
+    "title": "Gmail",
+    "url": "/wiki/entities/gmail/"
   },
   "GoPro": {
     "title": "GoPro",
@@ -6111,6 +6123,10 @@
     "title": "Outcome-Based AI Pricing",
     "url": "/wiki/concepts/outcomebasedaipricing/"
   },
+  "OutlierDrivenAngelInvesting": {
+    "title": "Outlier-Driven Angel Investing",
+    "url": "/wiki/concepts/outlierdrivenangelinvesting/"
+  },
   "OutputQualityGates": {
     "title": "Output Quality Gates",
     "url": "/wiki/concepts/outputqualitygates/"
@@ -6214,6 +6230,10 @@
   "PatientAIUse": {
     "title": "Patient AI Use",
     "url": "/wiki/concepts/patientaiuse/"
+  },
+  "PaulBuchheit": {
+    "title": "Paul Buchheit",
+    "url": "/wiki/entities/paulbuchheit/"
   },
   "PaulGraham": {
     "title": "Paul Graham",
@@ -6594,6 +6614,10 @@
   "ProductContainer": {
     "title": "Product Container",
     "url": "/wiki/concepts/productcontainer/"
+  },
+  "ProductLaunchUnderConstraint": {
+    "title": "Product Launch Under Constraint",
+    "url": "/wiki/concepts/productlaunchunderconstraint/"
   },
   "ProductLedWillingnessToPay": {
     "title": "Product Led Willingness To Pay",
@@ -9990,6 +10014,10 @@
   "snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d": {
     "title": "Snap judgement: Japan PM’s electoral landslide",
     "url": "/wiki/sources/snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d/"
+  },
+  "socialradarspod-paulb-final": {
+    "title": "Paul Buchheit on Gmail, Google, FriendFeed, and Startup Judgment",
+    "url": "/wiki/sources/socialradarspod-paulb-final/"
   },
   "socialradarspod-tonyxu-final": {
     "title": "Tony Xu on Building DoorDash from a Class Project into a Global Marketplace",

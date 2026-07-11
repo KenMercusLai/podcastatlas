@@ -2,11 +2,13 @@
 title: "Meta"
 type: entity
 tags: [company, ai, platform]
-sources: [tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]
-last_updated: 2026-07-10
+sources: [socialradarspod-paulb-final, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]
+last_updated: 2026-07-11
 ---
 
 # Meta
+
+[[socialradarspod-paulb-final]] adds Meta through the earlier Facebook acquisition of [[FriendFeed]]. [[PaulBuchheit]] describes Facebook as an aggressive social competitor that understood the social space better than [[Google]], then recalls renegotiating the acquisition with Mark Zuckerberg after objecting to Facebook's reputation, the offer terms, and the idea of taking a job. The source uses Facebook less as a current AI platform and more as a product-culture contrast: messy, hacker-oriented, and highly competent in social distribution.
 
 [[musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz]] adds Meta through the earlier Facebook competitive response to [[TikTok]]. The episode mentions Facebook's Lasso as a direct response, but [[Vanessa]] describes it as weaker in product completeness and innovation than TikTok's short-video loop.
 
@@ -43,3 +45,4 @@ The source speculates that Meta could see [[Manus]] demand through platform or a
 - [[ByteDanceGrowthSystem]], [[LTVBasedGrowthBudgeting]], [[TikTok]], and [[AutomatedPerformanceMarketing]] — growth-benchmark and competitive-response context added by the Luanfanshu episode 7 source.
 - [[Apple]], [[OpenAI]], and [[AITalentCompetition]] — AI hiring pressure branch added by Marketplace Tech Bytes.
 - [[AISearchAdvertising]], [[Google]], and [[Amazon]] — incumbent ad-platform competition branch added by Marketplace Tech.
+- [[FriendFeed]], [[PaulBuchheit]], and [[FastFeedbackLoops]] — Facebook acquisition, social-product competition, and engineering-culture contrast added by The Social Radars.

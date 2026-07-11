@@ -1923,3 +1923,11 @@ Added source page for The Social Radars episode with Tony Xu on DoorDash's origi
 ## [2026-07-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-11] ingest | Paul Buchheit on Gmail, Google, FriendFeed, and Startup Judgment
+
+Added source page for The Social Radars episode with Paul Buchheit on Gmail, early Google, FriendFeed, Facebook/Meta acquisition, Y Combinator, and angel investing. Created pages for Paul Buchheit, Gmail, FriendFeed, Fast Feedback Loops, Product Launch Under Constraint, and Outlier-Driven Angel Investing; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Google, Meta, Y Combinator, Paul Graham, DoorDash, Customer Pull, Fast Product Validation, Pre-Product Selling, Product Led Willingness To Pay, Founder Product Fit, and Founder-Investor Learning. No direct contradiction found; the source self-flags the disputed FriendFeed/Facebook Like button origin claim and extends the wiki's startup-validation branch by treating fast feedback, launch constraints, costly customer signals, and founder quality as practical judgment tools.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

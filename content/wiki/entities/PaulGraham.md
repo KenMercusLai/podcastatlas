@@ -2,7 +2,7 @@
 title: "Paul Graham"
 type: entity
 tags: [person, startups, programming, venture-capital]
-sources: [tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final]
+sources: [tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final]
 last_updated: 2026-07-10
 ---
 
@@ -14,8 +14,11 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 
 [[socialradarspod-tonyxu-final]] adds Graham indirectly through Livingston's debrief. She recalls him describing [[DoorDash]] as an organizational work of art, a compact judgment about how much coordination and operational detail sit beneath a simple delivery interface.
 
+[[socialradarspod-paulb-final]] adds Graham through [[PaulBuchheit]]'s path into [[YCombinator]]. PB says he contacted Graham after the second YC batch was announced in Mountain View, later spoke to the batch, and eventually joined YC after Graham discouraged him from trying to buy Reddit. This extends Graham from YC's origin story into the later network that brought experienced builders into the accelerator as advisors and partners.
+
 ## Connections
 - [[TrevorBlackwell]], [[RobertMorris]], and [[JessicaLivingston]] - collaborators in the episode.
 - [[Viaweb]] and [[WebBasedSoftware]] - early company and technical model.
 - [[YCombinator]], [[FounderInvestorLearning]], and [[StartupAcceleratorBatchSelection]] - investor and accelerator context.
 - [[DoorDash]] and [[ThreeSidedMarketplaceValidation]] - marketplace-operations example added by the Tony Xu episode.
+- [[PaulBuchheit]], [[OutlierDrivenAngelInvesting]], and [[CustomerPull]] - later YC partner and angel-investing branch added by the Buchheit episode.

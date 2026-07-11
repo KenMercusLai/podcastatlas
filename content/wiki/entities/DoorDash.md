@@ -2,7 +2,7 @@
 title: "DoorDash"
 type: entity
 tags: [company, marketplace, food-delivery, local-services]
-sources: [socialradarspod-tonyxu-final]
+sources: [socialradarspod-tonyxu-final, socialradarspod-paulb-final]
 last_updated: 2026-07-11
 ---
 
@@ -14,8 +14,11 @@ The source uses DoorDash as a [[ThreeSidedMarketplaceValidation]] case. Consumer
 
 DoorDash also extends the wiki's local-services and fulfillment branch. Its early [[SuburbanDeliveryStrategy]] treated suburbs and families with young children as stronger delivery-demand pockets than dense city neighborhoods, while later scale problems around pickup queues, batching, lockers, and high-school lunch orders show the [[EcommerceFulfillmentComplexity]] behind a smooth customer app.
 
+[[socialradarspod-paulb-final]] adds DoorDash from [[PaulBuchheit]]'s investor side. PB says DoorDash was probably his most successful financial angel investment and that it appealed to him because he personally wanted food delivery in the suburbs, including the Mountain View and Los Altos area where the company started. That reinforces the DoorDash page's existing [[SuburbanDeliveryStrategy]] and [[CustomerPull]] themes from a separate investor-observer angle.
+
 ## Connections
 - [[TonyXu]], [[EvanMoore]], [[StanleyTang]], and [[AndyFang]] - founding team.
 - [[PaloAltoDelivery]], [[StanfordStartupGarage]], and [[YCombinator]] - early prototype and accelerator path.
 - [[CustomerDiscoveryByDoingWork]], [[JankyMVP]], [[ThreeSidedMarketplaceValidation]], [[FounderProximity]], and [[SuburbanDeliveryStrategy]] - concepts grounded by the episode.
 - [[InstantRetail]], [[LocalLifePlatformDependency]], and [[EcommerceFulfillmentComplexity]] - adjacent local-commerce and fulfillment concepts.
+- [[PaulBuchheit]] and [[OutlierDrivenAngelInvesting]] - angel-investor branch added by the Buchheit episode.
