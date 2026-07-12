@@ -11,20 +11,20 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 1274
-- Entities: 1669
-- Sources: 316
-- Total wiki content pages: 3260
+- Concepts: 1279
+- Entities: 1674
+- Sources: 317
+- Total wiki content pages: 3271
 
 ## Links
-- Wiki link references: 76926
-- Unique wiki link targets: 3307
-- Missing targets: 74
+- Wiki link references: 77254
+- Unique wiki link targets: 3319
+- Missing targets: 75
 - Duplicate file-name targets: 0
 
 ## Source Episodes
-- Source pages: 316
-- Matched episodes: 316
+- Source pages: 317
+- Matched episodes: 317
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -212,6 +212,16 @@ outputs: ["html"]
   - `content/wiki/overview.md`
   - `content/wiki/sources/tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128.md`
   - `content/wiki/sources/tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128.md`
+- `[[HowToAI|How to AI]]`
+  - `content/wiki/concepts/AIAssistantAugmentation.md`
+  - `content/wiki/concepts/AIHallucination.md`
+  - `content/wiki/concepts/ExpertiseAmplifiedAIUse.md`
+  - `content/wiki/concepts/HumanJudgmentUnderAI.md`
+  - `content/wiki/entities/ChristopherMims.md`
+  - `content/wiki/entities/MarketplaceTech.md`
+  - `content/wiki/entities/MeganMcCartyCorino.md`
+  - `content/wiki/overview.md`
+  - `content/wiki/sources/tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128.md`
 - `[[ImpulseWatch|Impulse]]`
   - `content/wiki/concepts/ConsumerHardwareStartupRisk.md`
   - `content/wiki/concepts/CustomerPull.md`
@@ -270,6 +280,10 @@ outputs: ["html"]
   - `content/wiki/sources/tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128.md`
   - `content/wiki/sources/tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128.md`
 - `[[MeganMcCartyCorino|Megan McCarty-Carino]]`
+  - `content/wiki/entities/ChristopherMims.md`
+  - `content/wiki/entities/MarketplaceTech.md`
+  - `content/wiki/overview.md`
+  - `content/wiki/sources/tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128.md`
   - `content/wiki/sources/tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128.md`
 - `[[MetaAI|Meta AI]]`
   - `content/wiki/concepts/AIAssistantServiceEntry.md`

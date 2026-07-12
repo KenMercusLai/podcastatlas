@@ -215,6 +215,10 @@
     "title": "AI As Tutor",
     "url": "/wiki/concepts/aiastutor/"
   },
+  "AIAssistantAugmentation": {
+    "title": "AI Assistant Augmentation",
+    "url": "/wiki/concepts/aiassistantaugmentation/"
+  },
   "AIAssistantServiceEntry": {
     "title": "AI Assistant Service Entry",
     "url": "/wiki/concepts/aiassistantserviceentry/"
@@ -394,6 +398,10 @@
   "AIHackathons": {
     "title": "AI Hackathons",
     "url": "/wiki/concepts/aihackathons/"
+  },
+  "AIHallucination": {
+    "title": "AI Hallucination",
+    "url": "/wiki/concepts/aihallucination/"
   },
   "AIHardwareSupplyChainPressure": {
     "title": "AI Hardware Supply Chain Pressure",
@@ -990,6 +998,10 @@
   "AmazonWebServices": {
     "title": "Amazon Web Services",
     "url": "/wiki/entities/amazonwebservices/"
+  },
+  "AmbientAIInterface": {
+    "title": "Ambient AI Interface",
+    "url": "/wiki/concepts/ambientaiinterface/"
   },
   "AmericaAsIdea": {
     "title": "America as Idea",
@@ -2286,6 +2298,10 @@
   "ChristopherMiller": {
     "title": "Christopher Miller",
     "url": "/wiki/entities/christophermiller/"
+  },
+  "ChristopherMims": {
+    "title": "Christopher Mims",
+    "url": "/wiki/entities/christophermims/"
   },
   "ChristyClement": {
     "title": "Christy Clement",
@@ -3803,6 +3819,10 @@
     "title": "Experiential Retail",
     "url": "/wiki/concepts/experientialretail/"
   },
+  "ExpertiseAmplifiedAIUse": {
+    "title": "Expertise-Amplified AI Use",
+    "url": "/wiki/concepts/expertiseamplifiedaiuse/"
+  },
   "ExternalityInternalization": {
     "title": "Externality Internalization",
     "url": "/wiki/concepts/externalityinternalization/"
@@ -4090,6 +4110,10 @@
   "Florida": {
     "title": "Florida",
     "url": "/wiki/entities/florida/"
+  },
+  "Flow": {
+    "title": "Flow",
+    "url": "/wiki/entities/flow/"
   },
   "FlowEnvironmentDesign": {
     "title": "Flow Environment Design",
@@ -4683,6 +4707,10 @@
     "title": "Google AI Overviews",
     "url": "/wiki/entities/googleaioverviews/"
   },
+  "GoogleCalendar": {
+    "title": "Google Calendar",
+    "url": "/wiki/entities/googlecalendar/"
+  },
   "GoogleCloud": {
     "title": "Google Cloud",
     "url": "/wiki/entities/googlecloud/"
@@ -4694,6 +4722,10 @@
   "GoogleInactiveAccountManager": {
     "title": "Google Inactive Account Manager",
     "url": "/wiki/entities/googleinactiveaccountmanager/"
+  },
+  "GooglePersonalIntelligence": {
+    "title": "Google Personal Intelligence",
+    "url": "/wiki/entities/googlepersonalintelligence/"
   },
   "GooglePhotos": {
     "title": "Google Photos",
@@ -5166,6 +5198,10 @@
   "HowIBuiltThis": {
     "title": "How I Built This",
     "url": "/wiki/entities/howibuiltthis/"
+  },
+  "HowToAI": {
+    "title": "How to AI",
+    "url": "/wiki/entities/howtoai/"
   },
   "HuGe": {
     "title": "胡戈 / Hu Ge",
@@ -7326,6 +7362,10 @@
   "MultispeciesArchives": {
     "title": "Multispecies Archives",
     "url": "/wiki/concepts/multispeciesarchives/"
+  },
+  "MundaneAIUseCases": {
+    "title": "Mundane AI Use Cases",
+    "url": "/wiki/concepts/mundaneaiusecases/"
   },
   "MusicalLy": {
     "title": "Musical.ly",
@@ -12654,6 +12694,10 @@
   "tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128": {
     "title": "Dr. AI will see you now",
     "url": "/wiki/sources/tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128/"
+  },
+  "tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128": {
+    "title": "Making the most of AI, without the hype",
+    "url": "/wiki/sources/tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128/"
   },
   "tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128": {
     "title": "Bytes: Week in Review - SpaceX and xAI merge, Nvidia and OpenAI's funding relationship and U.S. TikTok's rough start",

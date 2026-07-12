@@ -2,8 +2,8 @@
 title: "Deep Research"
 type: concept
 tags: [ai, agents, research, search]
-sources: [e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, xiangliang-moxing-gongchengshi-ai-de-yincang-pingjing-yu-xinshidai-de-xinxi-migong-4b6cf945-d64a-4dd0-95a7-cb8f11963698]
-last_updated: 2026-07-09
+sources: [tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, xiangliang-moxing-gongchengshi-ai-de-yincang-pingjing-yu-xinshidai-de-xinxi-migong-4b6cf945-d64a-4dd0-95a7-cb8f11963698]
+last_updated: 2026-07-12
 ---
 
 # Deep Research
@@ -14,6 +14,8 @@ The source treats Deep Research as part of a larger loop rather than only a user
 
 [[xiangliang-moxing-gongchengshi-ai-de-yincang-pingjing-yu-xinshidai-de-xinxi-migong-4b6cf945-d64a-4dd0-95a7-cb8f11963698]] adds the retrieval-engineering version. [[NStudent]] argues that open-ended research is hard to evaluate because the quality of a broad report depends on retrieved evidence, multi-hop search paths, expert rubrics, and synthesis standards. This connects Deep Research to [[RetrievalAugmentedGeneration]], [[RerankingModels]], and [[AISearchEvaluation]] rather than treating it as only a model-planning problem.
 
+[[tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128]] adds [[ChristopherMims]]' everyday-learning version. He uses deep research tools from major AI systems to get brief summaries of unfamiliar topics, then moves that material into [[NotebookLM]] for podcast-style explanation or document conversation. The source shows Deep Research as a front door into [[MundaneAIUseCases]], not only a frontier-agent benchmark.
+
 ## Key Claims
 - Deep Research combines search, planning, long-horizon reasoning, and synthesis.
 - Search is not a side feature; it supplies material for post-training task creation and verification.
@@ -21,6 +23,7 @@ The source treats Deep Research as part of a larger loop rather than only a user
 - Benchmark success is useful but fragile when answers can be found directly online or leak into training/evaluation.
 - Deep Research becomes more valuable when connected to [[AIVerification]] and [[RecursiveSelfImprovement]], not just report generation.
 - Deep Research quality depends on retrieval quality and relevance standards, not only on how well an agent writes the final report.
+- Deep Research can be useful as a lightweight orientation layer when paired with a user's follow-up questions and source judgment.
 
 ## Connections
 - [[Apodex]], [[DuShaolei]], [[LiBeibin]], and [[Qwen]] — company, speakers, and model context in the source.
@@ -28,3 +31,4 @@ The source treats Deep Research as part of a larger loop rather than only a user
 - [[MultiAgentCollaboration]], [[AgentHarness]], and [[PersistentAgentMemory]] — agent-system mechanisms needed for longer research tasks.
 - [[Deerflow]] — existing open-source project in the wiki that began as a Deep Research-like capability.
 - [[RetrievalAugmentedGeneration]], [[RerankingModels]], and [[AISearchEvaluation]] — retrieval and evaluation layer added by the Fuyou Tiandi vector-model episode.
+- [[ChristopherMims]], [[NotebookLM]], [[AIAssistedReading]], and [[MundaneAIUseCases]] - Marketplace Tech's practical summary-to-learning workflow.

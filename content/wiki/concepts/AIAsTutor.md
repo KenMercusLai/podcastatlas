@@ -2,7 +2,7 @@
 title: "AI As Tutor"
 type: concept
 tags: [ai, education, learning]
-sources: [tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
+sources: [tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
 last_updated: 2026-07-12
 ---
 
@@ -16,6 +16,8 @@ AI as tutor is the use of tools such as [[ChatGPT]] to personalize explanations,
 
 [[tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128]] adds [[HeatherSchwartz]]'s sequencing boundary from [[RAND]]. AI can explain a math problem or refine a draft, but tutoring becomes weaker when [[ChatGPT]] or another tool supplies the first solution before the student has tried to reason. [[FirstDraftThinking]] puts AI after the learner's initial synthesis rather than before it.
 
+[[tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128]] adds [[ChristopherMims]]' adult self-teaching version. The source describes a CEO talking with AI during a commute as a tutor and shows [[NotebookLM]] making dense documents conversational. This extends AI tutoring beyond school homework into ongoing professional and civic learning, while still depending on [[HumanJudgmentUnderAI]].
+
 ## Key Claims
 
 - AI can explain concepts in the learner's own language, background, and current knowledge frame, which can make hard courses easier to approach.
@@ -28,6 +30,7 @@ AI as tutor is the use of tools such as [[ChatGPT]] to personalize explanations,
 - In K12, AI tutoring is strongest when it normalizes confusion, diagnoses the stuck point, and sends the learner back into reasoning.
 - The answer-machine pattern is a failure mode because it can remove the practice that builds understanding.
 - AI support is more defensible after a student has produced a first draft, partial solution, hypothesis, or explicit confusion.
+- AI tutoring can also support adult learning when it turns documents, obscure topics, or commute time into a conversation the learner can question and verify.
 
 ## Connections
 
@@ -39,3 +42,4 @@ AI as tutor is the use of tools such as [[ChatGPT]] to personalize explanations,
 - [[WaterFireEducation]] and [[HumanAgencyUnderAI]] — E45's education-as-agency extension.
 - [[SelfDirectedLearning]], [[LearningExperienceDesign]], and [[AIShortcutRisk]] — Yangcong Xueyuan's K12 tutoring boundary.
 - [[FirstDraftThinking]], [[HeatherSchwartz]], and [[RAND]] - Marketplace Tech's homework and classroom sequencing boundary.
+- [[ChristopherMims]], [[NotebookLM]], [[MundaneAIUseCases]], and [[AIAssistedReading]] - Marketplace Tech's adult self-teaching and document-conversation branch.

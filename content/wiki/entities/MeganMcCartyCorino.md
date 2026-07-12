@@ -2,7 +2,7 @@
 title: "Megan McCarty-Corino"
 type: entity
 tags: [journalist, podcast, technology]
-sources: [tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, tech-20251217-1217-mp-tech-pod-128-tech-20251217-1217-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, 3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt]
+sources: [tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, tech-20251217-1217-mp-tech-pod-128-tech-20251217-1217-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, 3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt]
 last_updated: 2026-07-12
 ---
 
@@ -30,6 +30,8 @@ Her role in the wiki is mainly as interview context. The episode uses her questi
 
 [[tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128]] adds McCarty-Corino as host of an AI-chip explainer with [[ChristopherMiller]]. Her questions frame the practical distinction between [[GPU|GPUs]], [[TPU|TPUs]], training, inference, [[NeuralProcessingUnits]], and the market question of whether [[Google]] chips can threaten [[Nvidia]].
 
+[[tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128]] adds McCarty-Carino as host of a practical AI conversation with [[ChristopherMims]]. Her questions move the episode from broad hype into specific consumer behavior: when AI helps, why experts still benefit more, how [[NotebookLM]] changes document reading, and why the chatbot may become an [[AmbientAIInterface]].
+
 ## Connections
 - [[MarketplaceTech]] - show context.
 - [[Davines]], [[AIAssistedWebsiteScams]], [[FakeRetailWebsiteImpersonation]], [[SearchAdTrustGap]], and [[BrandImpersonationMonitoring]] - AI-assisted retail scam episode anchored by her reporting.
@@ -43,3 +45,4 @@ Her role in the wiki is mainly as interview context. The episode uses her questi
 - [[GarrettJohnson]], [[BostonUniversity]], [[AISearchAdvertising]], and [[GenerativeEngineOptimization]] - AI search advertising topics added by the 2025-12-18 source.
 - [[AnitaRamaswamy]], [[MicronTechnology]], [[HighBandwidthMemory]], [[Oracle]], [[DataCenterDebtRisk]], and [[AISlop]] - weekly AI market and media-quality topics added by the 2025-12-19 source.
 - [[ChristopherMiller]], [[ChipWar]], [[GPU]], [[TPU]], [[AIChipSpecialization]], and [[NeuralProcessingUnits]] - AI chip explainer topics added by the 2026-02-10 source.
+- [[ChristopherMims]], [[HowToAI|How to AI]], [[AIAssistantAugmentation]], [[NotebookLM]], and [[AmbientAIInterface]] - practical AI assistant episode topics added by the 2026-02-02 source.

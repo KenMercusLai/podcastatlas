@@ -2,7 +2,7 @@
 title: "AI Assistant Service Entry"
 type: concept
 tags: [ai, assistants, platforms, commerce]
-sources: [tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
+sources: [tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
 last_updated: 2026-07-12
 ---
 
@@ -16,6 +16,8 @@ The concept differs from generic chatbot adoption. Search replacement handles kn
 
 [[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] adds a local-commerce version. The hosts discuss [[Yuanbao]] red packets, AI milk-tea promotions, and whether [[Meituan]] could expose MCP-like ordering capability to assistants. Their example of AI-assisted milk-tea ordering shows that assistant entry can reduce browsing and transfer choice power to the assistant's recommendation logic.
 
+[[tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128]] adds a personal-productivity version through [[GooglePersonalIntelligence]]. [[ChristopherMims]] describes [[Gemini]] adding [[GoogleCalendar]] appointments from spoken instructions, which shows service entry at small scale: the assistant handles a disliked task inside an existing account rather than merely answering a question.
+
 ## Key Claims
 - The strategic question is not only whether a company has a strong model, but whether it owns enough service surfaces for the assistant to complete tasks.
 - Service entry creates stronger differentiation than generic translation or Q&A features, because ecosystem integration is harder to copy than a model wrapper.
@@ -25,6 +27,7 @@ The concept differs from generic chatbot adoption. Search replacement handles kn
 - The same platform power creates governance risk: an assistant that recommends, ranks, buys, and books can also hide advertising, commissions, discrimination, or platform preference.
 - Smaller model companies may rationally choose AI coding or vertical productivity because broad service-entry assistants need traffic, ecosystem, and operating capacity.
 - Service entry changes distribution: if the assistant gives one answer or a few options, ranking, advertising, merchant exposure, and user choice become less transparent than in a full app list.
+- Personal-productivity service entry can start with low-stakes tasks such as calendar scheduling before expanding into commerce, work, or account actions.
 
 ## Connections
 - [[Alibaba]], [[Qwen]], [[Taobao]], [[Fliggy]], [[Damai]], [[Gaode]], and [[DingTalk]] — main ecosystem case in the source.
@@ -36,3 +39,4 @@ The concept differs from generic chatbot adoption. Search replacement handles kn
 - [[PlatformDataRegulation]] and [[PlatformAntitrust]] — governance issues when assistant recommendations and fulfillment are controlled by large platforms.
 - [[ModelContextProtocol]], [[Meituan]], [[Doubao]], and [[Yuanbao]] — MCP-like local-service entry and promotion cases added by Keji Luandun.
 - [[Meta]], [[MetaAI|Meta AI]], [[RayBanSmartGlasses|Ray-Ban smart glasses]], and [[PersonalSuperintelligence]] — wearable service-entry route added by Marketplace Tech.
+- [[GooglePersonalIntelligence]], [[Gemini]], [[GoogleCalendar]], [[VoiceInteraction]], and [[MundaneAIUseCases]] - personal-productivity service entry added by Marketplace Tech.

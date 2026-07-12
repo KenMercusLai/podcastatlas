@@ -2567,3 +2567,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Making the most of AI, without the hype
+
+Added source page for the Marketplace Tech episode with Megan McCarty-Carino and Christopher Mims on How to AI, AI as assistant rather than replacement, expertise-amplified use, hallucinations, voice dictation, NotebookLM document conversation, Google Personal Intelligence calendar actions, and ambient assistant interfaces. Created pages for Christopher Mims, How to AI, Flow, Google Personal Intelligence, Google Calendar, AI Assistant Augmentation, Ambient AI Interface, Expertise-Amplified AI Use, Mundane AI Use Cases, and AI Hallucination; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Google, Gemini, NotebookLM, Android, Human Judgment Under AI, AI As Tutor, Deep Research, Voice Interaction, AI Assistant Service Entry, Human-Machine Amplification, and AI Product Fragmentation. No direct contradiction found; the source qualifies AI automation hype by arguing that useful AI remains assistant-shaped when humans preserve expertise, judgment, verification, and permission boundaries.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
