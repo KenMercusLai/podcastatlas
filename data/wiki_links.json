@@ -1203,6 +1203,10 @@
     "title": "Apple Accessibility",
     "url": "/wiki/concepts/appleaccessibility/"
   },
+  "AppleIntelligence": {
+    "title": "Apple Intelligence",
+    "url": "/wiki/entities/appleintelligence/"
+  },
   "ApplePrivacy": {
     "title": "Apple Privacy",
     "url": "/wiki/concepts/appleprivacy/"
@@ -3387,6 +3391,10 @@
     "title": "Donald Trump",
     "url": "/wiki/entities/donaldtrump/"
   },
+  "DongHongguang": {
+    "title": "Dong Hongguang / 董宏光",
+    "url": "/wiki/entities/donghongguang/"
+  },
   "Dongniao": {
     "title": "懂鸟 / Dongniao",
     "url": "/wiki/entities/dongniao/"
@@ -4858,6 +4866,10 @@
   "GuanYadi": {
     "title": "关雅迪",
     "url": "/wiki/entities/guanyadi/"
+  },
+  "GuangfanTechnology": {
+    "title": "Guangfan Technology / 光帆科技",
+    "url": "/wiki/entities/guangfantechnology/"
   },
   "GuanglunIntelligence": {
     "title": "光轮智能",
@@ -11327,6 +11339,10 @@
     "title": "Wealthfront",
     "url": "/wiki/entities/wealthfront/"
   },
+  "WearableAIAssistant": {
+    "title": "Wearable AI Assistant",
+    "url": "/wiki/concepts/wearableaiassistant/"
+  },
   "WebBasedSoftware": {
     "title": "Web-Based Software",
     "url": "/wiki/concepts/webbasedsoftware/"
@@ -13126,6 +13142,10 @@
   "women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1": {
     "title": "我们把 AI 塞进花店后，才知道AI落地有多脏",
     "url": "/wiki/sources/women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1/"
+  },
+  "wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d": {
+    "title": "WWDC 26 补上了 AI，但离真正的 AI 助手还差什么？｜ S10E15",
+    "url": "/wiki/sources/wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d/"
   },
   "xiangliang-moxing-gongchengshi-ai-de-yincang-pingjing-yu-xinshidai-de-xinxi-migong-4b6cf945-d64a-4dd0-95a7-cb8f11963698": {
     "title": "Episode 17: 向量模型工程师：AI 的隐藏瓶颈与新时代的信息迷宫",

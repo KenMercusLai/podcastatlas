@@ -2,8 +2,8 @@
 title: "OS-Level Context"
 type: concept
 tags: [agents, context, privacy, product-design]
-sources: [renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]
-last_updated: 2026-07-09
+sources: [renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]
+last_updated: 2026-07-12
 ---
 
 # OS-Level Context
@@ -16,6 +16,8 @@ OS-level context is [[Paperboy]]'s term-level bet that useful agents should lear
 
 [[268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]] adds the mobile-workbench version. The source treats phone files, screenshots, WeChat attachments, meetings, calendars, travel plans, and app groups as context that can be reorganized by [[AIFileManagement]] and used by a [[MobileAIWorkstation]].
 
+[[wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]] adds the wearable and physical-world version. [[DongHongguang]] argues that a personal assistant cannot rely only on online behavior or phone app context; earbuds, watches, cameras, microphones, and sensors can capture the user's surrounding situation at moments when the phone is not being operated.
+
 ## Key Claims
 - OS activity can support [[PersistentAgentMemory]] because it captures work behavior that users may never write down in prompts.
 - The usefulness of this context depends on compression, summarization, permission boundaries, and application-specific choices.
@@ -25,6 +27,7 @@ OS-level context is [[Paperboy]]'s term-level bet that useful agents should lear
 - Intent-triggered capture can make OS-level context higher signal than fixed-interval recording, but it may miss long conversations or feedback unless users can supplement context manually.
 - Smartphone context extends the idea beyond desktop activity: camera, microphone, files, meetings, location-like surroundings, and personal preferences can all become local signals, which makes the [[EdgeCloudAIBoundary]] and permission design more important.
 - Foldable-phone context adds a task-surface layer: the agent may need to see which document, chat, map, assistant, or calendar item is visible beside the main task.
+- Wearable context extends OS-level context from screen state into physical-world signals, but it also increases privacy and permission demands because the assistant may perceive people, places, objects, and speech around the user.
 
 ## Connections
 - [[ContextEngineering]] — broader practice of collecting and shaping useful model input.
@@ -34,3 +37,4 @@ OS-level context is [[Paperboy]]'s term-level bet that useful agents should lear
 - [[AirJelly]], [[IntentContext]], and [[PersistentAgentMemory]] — example of turning OS-level screenshots into events, entities, and memory.
 - [[SmartphoneAIHub]], [[OnDeviceAI]], and [[EdgeCloudAIBoundary]] — phone-side context and privacy branch added by S10E17.
 - [[MobileAIWorkstation]], [[AIFileManagement]], and [[XFold6]] — mobile task-context branch added by Luanfanshu 268.
+- [[WearableAIAssistant]], [[GuangfanTechnology]], and [[AgentPermissionBoundaries]] — physical-world context branch added by S10E15.

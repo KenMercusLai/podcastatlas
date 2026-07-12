@@ -2,7 +2,7 @@
 title: "AI Plus Terminals"
 type: concept
 tags: [ai, hardware, commercialization]
-sources: [tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]
+sources: [tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]
 last_updated: 2026-07-12
 ---
 
@@ -23,6 +23,8 @@ AI plus terminals is [[YinQi]]'s commercialization thesis in [[131-yin-qi-churen
 [[144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b]] adds the consumer-electronics operator version through [[AnkerInnovations]]. Instead of a foundation-model company searching for terminals, [[YangMeng]] starts from devices and argues that [[OnDeviceModelHierarchy]], [[InMemoryComputingForEdgeAI]], [[TrueSmartHome]], and local home-security models can distribute intelligence across hardware.
 
 [[ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731]] adds the mainstream smartphone version through [[Vivo]] and [[MediaTek]]. Its [[SmartphoneAIHub]] claim is that phones remain the central terminal because they combine sensors, display, local compute, private context, cloud access, and service relationships, while earbuds and glasses complement narrower moments.
+
+[[wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]] adds the [[WearableAIAssistant]] version through [[GuangfanTechnology]]. The episode argues that earbuds and watches may be better assistant edges than phones for always-on physical-world sensing, voice response, and quick service execution, while the phone can remain part of the broader device system.
 
 [[268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]] adds the mobile-workbench version through [[Vivo]]'s [[XFold6]]. The episode argues that phones may beat narrower AI devices not only by being always carried, but by holding enough context, files, meeting records, app relationships, and screen space to become a [[MobileAIWorkstation]].
 
@@ -46,6 +48,7 @@ AI plus terminals is [[YinQi]]'s commercialization thesis in [[131-yin-qi-churen
 - A phone terminal can absorb some standalone AI hardware use cases when recording, transcription, summarization, and file organization depend more on existing personal context than on a new form factor.
 - PCs and local endpoints can become memory terminals when they combine private data access, enough compute, and [[OnDeviceMemoryScheduling]] for large multimodal archives.
 - Standalone AI wearables need a clearer job than "put AI somewhere else"; otherwise the phone absorbs capture, connection, and assistant functions.
+- Wearable assistants can justify a separate terminal when the job is body-proximate context, private audio, no-hand interaction, and proactive reminders rather than another screen.
 
 ## Connections
 - [[YinQi]], [[StepFun]], and [[QianliTechnology]] — source speaker and company pair behind the thesis.
@@ -63,3 +66,4 @@ AI plus terminals is [[YinQi]]'s commercialization thesis in [[131-yin-qi-churen
 - [[XFold6]], [[MobileAIWorkstation]], [[AIFileManagement]], and [[LuoXuan]] — mobile workbench and AI-hardware comparison added by Luanfanshu 268.
 - [[CliptoAI]], [[LocalFirstMemoryLayer]], and [[OnDeviceMemoryScheduling]] — PC-side personal memory branch added by S10E20.
 - [[JonyIve]], [[OpenAI]], [[JoannaStern]], and [[SmartphoneAIHub]] — skeptical consumer-hardware branch added by Marketplace Tech Bytes.
+- [[DongHongguang]], [[GuangfanTechnology]], and [[WearableAIAssistant]] — earbuds/watch assistant route added by S10E15.

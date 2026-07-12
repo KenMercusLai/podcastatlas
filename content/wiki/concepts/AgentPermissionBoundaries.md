@@ -2,7 +2,7 @@
 title: "Agent Permission Boundaries"
 type: concept
 tags: [agents, security, governance]
-sources: [tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
+sources: [tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]
 last_updated: 2026-07-12
 ---
 
@@ -26,6 +26,8 @@ Agent permission boundaries are the practical limits that decide which tools, ac
 
 [[tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]] adds the agent-social platform version through [[MoteBook]]. [[JewelBurkeSolomon]] recommends not sending a bot there while the platform is early and insecure, after [[Wiz]] reportedly found access to sensitive information. The case shows that agent permissions should account for third-party social spaces, not only local files, coding tools, commerce, or workplace systems.
 
+[[wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]] adds the personal-assistant permission version through [[DongHongguang]] and [[GuangfanTechnology]]. The source argues that old software infrastructure often gives assistants either too little access to be useful or too much access to be safe; AI-native assistants need graduated authority, confirmation rules, and user-specific norms for messages, purchases, payments, and service calls.
+
 ## Key Claims
 - Permission design is part of the [[AgentHarness]], not an afterthought, because tool access defines what the agent can actually do.
 - Personal agents need tiered skill policies: some skills can run automatically, while others should require explicit human invocation.
@@ -42,6 +44,7 @@ Agent permission boundaries are the practical limits that decide which tools, ac
 - Local-agent experiments should start with isolated devices, limited folders, disposable accounts, and observation-only or low-impact actions before access to payment, deletion, password, or main-account authority is considered.
 - Permission design is not only about accounts and files. It can also include brand, reputation, social exposure, product principles, content standards, and the point where an agent must stop and ask the human to decide.
 - Sending an agent into a third-party social platform can expose email addresses, memory, account metadata, or other sensitive context even if the agent is only "talking."
+- Personal assistants need human-like delegation boundaries: some actions can be done directly, some need confirmation, and some should remain unavailable regardless of model confidence.
 
 ## Connections
 - [[OpenClaw]], [[JustinYan]], and [[Zili]] — source context for personal-agent safety.
@@ -57,3 +60,4 @@ Agent permission boundaries are the practical limits that decide which tools, ac
 - [[ProbabilisticSoftware]] and [[LocalAgentExecution]] — Keji Luandun safety frame for local agents whose model behavior cannot be made fully deterministic.
 - [[YuYi]], [[CangShifu]], [[OnePersonCompany]], and [[AIUsePacing]] — S10E18's red-line and review-cadence pattern for solo founders managing many agents.
 - [[MoteBook]], [[Wiz]], [[AISocialNetworks]], and [[AIGovernanceAndCompliance]] - third-party agent-social platform and security-warning case added by Marketplace Tech Bytes.
+- [[GuangfanTechnology]], [[WearableAIAssistant]], [[AIAssistantServiceEntry]], and [[ModelContextProtocol]] — S10E15's wearable and service-call permission case.

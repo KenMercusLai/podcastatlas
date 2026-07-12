@@ -2,8 +2,8 @@
 title: "Edge-Cloud AI Boundary"
 type: concept
 tags: [ai, edge-ai, cloud, privacy, systems]
-sources: [ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3]
-last_updated: 2026-07-09
+sources: [ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]
+last_updated: 2026-07-12
 ---
 
 # Edge-Cloud AI Boundary
@@ -14,6 +14,8 @@ The boundary is practical rather than ideological. Terminal-side systems are bet
 
 [[weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3]] adds a local-first memory version. [[KangHongwen]] argues that personal memory should start near the user's private files, but still use cloud services for collaboration, sharing, cross-device continuity, or fallback compute when local hardware is insufficient.
 
+[[wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]] adds a wearable-assistant version. The source treats edge-cloud design as a product split across earbuds, watches, phones, and cloud services: body-worn devices can handle sensing and immediate interaction, while cloud models and service integrations handle heavier reasoning, long-chain tasks, and fulfillment.
+
 ## Key Claims
 - Stronger cloud AI can increase edge demand because users need persistent access, capture, sensing, and interaction at the point of use.
 - Phone-side AI can protect or encrypt sensitive data before heavier cloud calls.
@@ -21,6 +23,7 @@ The boundary is practical rather than ideological. Terminal-side systems are bet
 - Image processing sits in a middle zone: simple enhancement can move local, while complex generative effects may remain cloud-heavy.
 - The boundary will shift as hardware, NPU architecture, model compression, battery, and thermal design improve.
 - For personal memory, edge-cloud design should separate private archive understanding from optional sharing and heavy-compute assistance.
+- Wearable assistants need local filtering and trigger design so always-on sensing does not turn every moment into an expensive or privacy-invasive cloud call.
 
 ## Connections
 - [[OnDeviceAI]] — edge-side implementation stack.
@@ -29,3 +32,4 @@ The boundary is practical rather than ideological. Terminal-side systems are bet
 - [[OSLevelContext]], [[ContextEngineering]], and [[AgentPermissionBoundaries]] — adjacent questions raised when local devices collect richer context and memory.
 - [[AIInferenceCostStructure]] — cloud cost pressure can make local execution strategically valuable.
 - [[LocalFirstMemoryLayer]], [[CliptoAI]], and [[OnDeviceMemoryScheduling]] — local memory case added by S10E20.
+- [[WearableAIAssistant]], [[GuangfanTechnology]], and [[AIAssistantServiceEntry]] — wearable edge and cloud-service execution case added by S10E15.

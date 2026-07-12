@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [WWDC 26 补上了 AI，但离真正的 AI 助手还差什么？｜ S10E15](sources/wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d.md) — What's Next episode with Dong Hongguang of Guangfan Technology on Apple Intelligence, Siri, wearable AI assistants, always-on context, service entry, and permission boundaries.
 - [46.这世界唯一的你：请相信那朵慢慢绽放的花](sources/46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720.md) — 蜜獾吃书 episode on 《这世界唯一的你》 / Uniquely Human, autism as lived difference, behavior-as-communication, safe environments, family support, and cure-promise risk.
 - [44.运气的诱饵：赌博成瘾，因为我们害怕自由](sources/44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308.md) — 蜜獾吃书 episode on 《运气的诱饵》, machine gambling addiction, casino/slot design, near misses, intermittent reinforcement, freedom pressure, and addictive digital-product mechanics.
 - [日谈串台｜姐妹聊天会：重启人生也是我最妖娇](sources/ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425.md) — 蜜獾吃书 and 日谈 Women's Day crossover with Hookie, 殷姐, and 秦总 on 《重启人生》, career redirection, regret integration, pet grief, mother-daughter repair, learning capacity, and female self-possession.
@@ -327,6 +328,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Dong Hongguang / 董宏光](entities/DongHongguang.md) — Guangfan Technology founder and CEO arguing that real personal AI assistants need context, wearables, service execution, and permission design beyond model capability.
+- [Guangfan Technology / 光帆科技](entities/GuangfanTechnology.md) — AI agent wearable hardware company discussed through earbuds, watches, sensors, agents, cloud-service access, and assistant product design.
+- [Apple Intelligence](entities/AppleIntelligence.md) — Apple's AI system layer evaluated as meaningful WWDC catch-up but incomplete personal-assistant infrastructure.
 - [Barry Prizant](entities/BarryPrizant.md) — Autism expert and Uniquely Human author presented by 蜜獾吃书 as reframing autistic behavior as coping, communication, and self-protection.
 - [《这世界唯一的你》 / Uniquely Human](entities/UniquelyHuman.md) — Book discussed by 蜜獾吃书 as a guide to autism, behavior-as-communication, safe environments, family support, and anti-cure-promise boundaries.
 - [北民](entities/Beimin.md) — Voice in the 蜜獾吃书 episode connecting machine gambling, near-miss effects, and mobile-game reward mechanics.
@@ -2007,6 +2011,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Wearable AI Assistant](concepts/WearableAIAssistant.md) — Personal assistant form where accepted body-worn devices provide always-on sensing, voice interaction, and low-friction service execution around a broader phone/cloud system.
 - [Autism As Human Difference](concepts/AutismAsHumanDifference.md) — Frame treating autism as a developmental and perceptual difference requiring support, respect, and accommodation rather than repair-first normalization.
 - [Behavior As Communication](concepts/BehaviorAsCommunication.md) — Care and education principle that difficult behavior may express distress, overload, fear, predictability needs, or limited communication tools.
 - [Autism Safe Environment Design](concepts/AutismSafeEnvironmentDesign.md) — Support pattern that reduces sensory, memory, and predictability threats before demanding compliance or participation.

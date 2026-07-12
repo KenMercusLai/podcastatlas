@@ -2243,6 +2243,7 @@ Added source page for The Social Radars episode with Sam Altman on Looped, the f
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -2594,6 +2595,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] ingest | 46.这世界唯一的你：请相信那朵慢慢绽放的花
 
 Added source page for the 蜜獾吃书 episode on 《这世界唯一的你》 / Uniquely Human, Barry Prizant, autism as human difference, behavior-as-communication, safe environment design, family support, and cure-promise risk. Created pages for Barry Prizant, 《这世界唯一的你》 / Uniquely Human, Autism As Human Difference, Behavior As Communication, Autism Safe Environment Design, Autism Family Support, and Autism Cure-Scam Risk; updated overview, index, 蜜獾吃书, and 秦总. No direct contradiction found; the source extends the wiki's caregiving and learning-design branches by showing that support starts with asking why behavior occurs, reducing threat, and backing families rather than forcing normalization.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | WWDC 26 补上了 AI，但离真正的 AI 助手还差什么？｜ S10E15
+
+Added source page for the What's Next episode with Dong Hongguang of Guangfan Technology on WWDC 26, Apple Intelligence, Siri, Apple's AI catch-up, wearable AI assistants, service-entry agents, physical-world context, edge-cloud design, and permission boundaries. Created pages for Dong Hongguang, Guangfan Technology, Apple Intelligence, and Wearable AI Assistant; updated overview, index, What's Next｜科技早知道, Apple, Siri, AI Plus Terminals, Smartphone AI Hub, AI Assistant Service Entry, OS-Level Context, Proactive Agents, Agent Permission Boundaries, and Edge-Cloud AI Boundary. No direct contradiction found; the source creates a strategic tension with the Smartphone AI Hub thesis by arguing that wearables may become the always-on sensing and interaction edge while phones remain part of the broader assistant system.
 
 ## [2026-07-12] lint | Wiki health check
 

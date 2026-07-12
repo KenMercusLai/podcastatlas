@@ -2,7 +2,7 @@
 title: "Apple"
 type: entity
 tags: [company, platform, ai, investing, mobile, app-store, media, governance]
-sources: [tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-ericm-v2-tsr-s4-ericm-v2, socialradarspod-davidlieb-final, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, formula-1-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, zhe-bannian-women-you-maile-naxie-keji-haowu-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
+sources: [tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-ericm-v2-tsr-s4-ericm-v2, socialradarspod-davidlieb-final, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, formula-1-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, zhe-bannian-women-you-maile-naxie-keji-haowu-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]
 last_updated: 2026-07-12
 ---
 
@@ -21,6 +21,8 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 [[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] adds an earlier and broader Apple platform frame. Recorded before WWDC 2026, the hosts use Apple news, [[Siri]] expectations, Apple Watch health features, hardware cadence, and [[AppStore]] review rules to ask whether Apple's traditional product and review tempo can absorb [[AgenticSoftware]] and dynamically generated apps.
 
 [[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] adds Apple through [[Xcode]] Agentic Coding, possible [[Gemini]] integration into [[Siri]], and new input-device rumors. The episode treats Apple as strongest where it can bind AI to developer tools, device context, and OS-level assistant surfaces, while still lagging if product timing or integration slips.
+
+[[wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]] adds a post-WWDC 26 assessment through [[DongHongguang]] of [[GuangfanTechnology]]. The source says [[AppleIntelligence]] and [[Siri]] show real platform catch-up through OS integration, privacy-oriented edge-cloud work, camera/context access, and ecosystem orchestration, but still fall short of a complete personal assistant because model strength, app/service openness, AI-native permissions, and multimodal interaction remain unresolved.
 
 [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9]] adds Apple as an investing signal because [[WarrenBuffett]] and [[BerkshireHathaway]] had reportedly reduced a large Apple position before a period of market stress. In that source, Apple is less an AI-platform case and more a highly visible large-cap holding whose selling can affect risk sentiment.
 
@@ -67,12 +69,14 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 - The David Lieb source treats Apple as an early iPhone-era platform amplifier: App Store approval, promotion, and TV advertising could turn a small app into a sudden infrastructure event.
 - The Eric Migicovsky source treats Apple as a platform and competitor: missing iPhone Bluetooth support shaped the early [[BlackBerry]] watch path, while Apple Watch later intensified [[ConsumerElectronicsLifecycle]] and [[ProductVisionDrift]] pressure on [[Pebble]].
 - The Drew Houston source treats Apple as the operating-system owner whose defaults and bundled services could turn Dropbox's beloved product into a long-term platform-pressure problem.
+- The S10E15 source treats Apple as strong in system integration and trust, but exposed if the next assistant entry point moves from phone-centered operation toward [[WearableAIAssistant|wearable, always-on assistance]].
 
 ## Connections
 - [[MacMini]], [[TechManufacturingReshoring]], and [[AIHardwareSupplyChainPressure]] - U.S. manufacturing and skilled-labor branch added by Marketplace Tech Bytes.
 - [[TimCook]], [[SteveJobs]], and [[BusinessRoundtable]] — leadership and governance context added by the 264 Luanfanshu source.
 - [[ValuesAsOperationalAsset]], [[StakeholderCapitalism]], [[AppleAccessibility]], [[ApplePrivacy]], and [[AppleSupplyChainResponsibility]] — values and operations branch added by the Cook episode.
 - [[Siri]] — Apple assistant and platform entry point discussed in the source.
+- [[AppleIntelligence]] — post-WWDC AI layer added by S10E15.
 - [[Gemini]] — possible model partner in the hosts' WWDC expectations.
 - [[AIProductFragmentation]] — contrast with Google's fragmented product experience.
 - [[ModelProviderToolCompetition]] and [[AgentFacingInterfaces]] — platform-level agents can reshape which tools users open directly.
@@ -93,3 +97,4 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 - [[Bump]], [[DavidLieb]], [[IPhone]], and [[AppStore]] — iPhone-era app approval, promotion, and acquisition context added by The Social Radars.
 - [[Pebble]], [[EricMigicovsky]], [[BlackBerry]], [[Fitbit]], [[Garmin]], [[ConsumerHardwareStartupRisk]], and [[ProductVisionDrift]] — smartwatch platform and competition context added by The Social Radars.
 - [[Dropbox]], [[DrewHouston]], [[SteveJobs]], [[IncumbentPlatformPressure]], and [[PlatformDependencyRisk]] - file-sync platform-pressure context added by The Social Radars.
+- [[DongHongguang]], [[GuangfanTechnology]], [[WearableAIAssistant]], [[SmartphoneAIHub]], and [[EdgeCloudAIBoundary]] — S10E15's AI assistant and form-factor comparison.
