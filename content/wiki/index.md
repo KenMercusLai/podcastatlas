@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [存储三巨头破万亿市值，存储超级周期何时能见顶？｜ S10E13](sources/cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1.md) — What's Next episode on AI-driven HBM/DRAM/NAND demand, memory hierarchy, storage cyclicality, capacity lock-ins, and agent-era NAND storage.
 - [49.李乌鸦来了！聊聊我们为啥爱阅读](sources/49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098.md) — 蜜獾吃书 first-anniversary episode with 李乌鸦 on reading shame, classics, family reading ecology, literary texture, and fiction as life experience.
 - [48.开市大吉：第一流的幽默讽刺](sources/48-kaishi-daji-diyiliu-de-youmo-fengci-627375908.md) — 蜜獾吃书 episode on Lao She, 《开市大吉》, humorous satire, theater etiquette, medical fraud, birth ritual conflict, and renqing workplace order.
 - [47.鸟有什么好看的：原来…丹顶鹤是秃的！](sources/47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924.md) — 蜜獾吃书 episode on 《鸟有什么好看的》, Kawakami Kazuto, birdwatching, ornithological fieldwork, island ecology, scientific sampling, invasive-species management, and evidence discipline.
@@ -1140,7 +1141,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Robert Guest](entities/RobertGuest.md) — The Intelligence panelist giving the more optimistic account of American democratic resilience, assimilation, and cultural durability.
 - [Daniel Knowles](entities/DanielKnowles.md) — The Intelligence panelist warning that Supreme Court behavior and executive-power disputes show weakening U.S. constitutional guardrails.
 - [Rebecca Jackson](entities/RebeccaJackson.md) — The Intelligence panelist emphasizing representation erosion and historical memory conflicts in the America-at-250 episode.
-- [What's Next｜科技早知道](entities/WhatsNextKejiZaozhidao.md) — Podcast/show context spanning S10E17 on AI phones, S10E18 on one-person companies and agents, and S10E19 on tactile robotics.
+- [What's Next｜科技早知道](entities/WhatsNextKejiZaozhidao.md) — Podcast/show context spanning AI phones, one-person companies, tactile robotics, AI memory, Apple AI, Google Cloud, and AI storage infrastructure.
+- [SanDisk](entities/SanDisk.md) — Storage company tied in S10E13 to High Bandwidth Flash as a NAND-derived AI memory direction.
+- [Cerebras](entities/Cerebras.md) — AI-chip company discussed through wafer-scale, SRAM-rich inference hardware as a differentiated but limited GPU alternative.
+- [ChangXin Memory / 长鑫存储](entities/ChangXinMemory.md) — Chinese DRAM company discussed as a domestic memory-capacity and possible HBM supplier signal.
+- [Yangtze Memory Technologies / 长江存储](entities/YangtzeMemoryTechnologies.md) — Chinese NAND company discussed as the domestic NAND-side counterpart to ChangXin Memory.
 - [Yu Yi](entities/YuYi.md) — AI-first practitioner in S10E18 framing agents as partners while keeping red lines around money, deletion, protocol changes, and reputation.
 - [Amazon Web Services](entities/AmazonWebServices.md) — AWS cloud and startup-support context for the From Idea to Frontier OPC accelerator discussed in S10E18.
 - [From Idea to Frontier](entities/FromIdeaToFrontier.md) — AWS accelerator program named in S10E18 as support infrastructure for Chinese-language one-person-company founders.
@@ -2317,7 +2322,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder-Investor Learning](concepts/FounderInvestorLearning.md) — Pattern where operators translate founder experience into investor services, advice, sourcing, validation, syndication, and community design.
 - [Patient AI Use](concepts/PatientAIUse.md) — Pattern where patients use large language models to interpret symptoms, results, diagnoses, treatment possibilities, or medical decisions before bringing those outputs into care.
 - [Doctor-Guided AI Interpretation](concepts/DoctorGuidedAIInterpretation.md) — Clinical practice of reviewing patient AI outputs with medical history, context, and professional responsibility rather than treating AI as an independent doctor.
-- [High Bandwidth Memory](concepts/HighBandwidthMemory.md) — Fast AI-adjacent memory category used to explain why data-center demand lifts suppliers such as Micron, SK Hynix, and Samsung.
+- [High Bandwidth Memory](concepts/HighBandwidthMemory.md) — Fast AI-adjacent memory category used to explain data-center bottlenecks, HBM supplier demand, and why alternatives do not fully replace HBM.
+- [AI Data Center Memory Hierarchy](concepts/AIDataCenterMemoryHierarchy.md) — Layered SRAM, HBM, DRAM, NAND, and hard-drive frame for AI data-center storage tradeoffs.
+- [Memory Wall](concepts/MemoryWall.md) — Bottleneck where accelerator compute grows faster than data movement, making bandwidth, latency, packaging, and memory hierarchy strategic.
+- [AI Storage Supercycle](concepts/AIStorageSupercycle.md) — AI-driven memory/storage upcycle combining DRAM, HBM, NAND, packaging, and infrastructure capacity demand while retaining cyclical risk.
+- [Storage Industry Cyclicality](concepts/StorageIndustryCyclicality.md) — Boom-bust structure of memory markets shaped by capital intensity, standardized products, lagged capacity, and inventory swings.
+- [Memory Capacity Lock-In](concepts/MemoryCapacityLockIn.md) — AI infrastructure procurement pattern where customers secure future memory and packaging supply through volume agreements, deposits, or capex participation.
+- [Agent-Era NAND Storage](concepts/AgentEraNANDStorage.md) — NAND role in long agent workflows where intermediate state, checkpoints, and recoverable inference work need to be saved.
+- [High Bandwidth Flash](concepts/HighBandwidthFlash.md) — NAND-derived high-bandwidth flash direction positioned as useful for large capacity but not a clean HBM replacement.
+- [CXL Memory Pooling](concepts/CXLMemoryPooling.md) — DRAM pooling architecture used to improve memory utilization inside AI data-center systems.
 - [AI Hardware Supply Chain Pressure](concepts/AIHardwareSupplyChainPressure.md) — Pattern where AI data-center demand redirects component supply, product focus, consumer pricing, hard-drive availability, and archive-storage access across memory and storage markets.
 - [Data Center Debt Risk](concepts/DataCenterDebtRisk.md) — Financial fragility from AI data-center buildouts that depend on debt, third-party developers, leases, future cloud demand, and local project execution.
 - [AI Search Advertising](concepts/AISearchAdvertising.md) — Sponsored placement and product-listing design for AI answer engines, where user trust, advertiser scale, conversion data, and fewer visible answer slots shape monetization.

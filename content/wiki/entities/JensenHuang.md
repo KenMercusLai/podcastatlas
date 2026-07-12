@@ -2,7 +2,7 @@
 title: "Jensen Huang"
 type: entity
 tags: [person, ai, semiconductors, investing]
-sources: [tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]
+sources: [cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]
 last_updated: 2026-07-12
 ---
 
@@ -16,12 +16,15 @@ Jensen Huang appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-
 
 [[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] adds Huang through his public response to reporting that [[Nvidia]]'s planned [[OpenAI]] investment was stalled. The episode says Huang called the report "nonsense" and said Nvidia would still make a huge OpenAI investment, while the segment also frames Nvidia as needing to balance OpenAI against other major AI customers.
 
+[[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] adds Huang as a capacity-locking operator. The source says his frequent Asia trips are interpreted as attempts to secure [[TSMC]] and memory-supplier capacity, tying Nvidia's product roadmap to [[MemoryCapacityLockIn]] and the [[AIStorageSupercycle]].
+
 ## Source Position
 - The episode does not claim insider selling alone proves a top; it uses the sales as a question investors should place next to valuation, growth expectations, and AI capex ROI.
 - Huang's selling is part of the broader [[AIEquityValuationRisk]] discussion: public markets may react badly if a hot AI stock's quarterly results or guidance fails to match the story.
 - The export-control episode uses Huang mainly as a strategic attitude reference around [[AIExportControls]], not as an investment signal.
 - Vol. 164 uses Huang mainly as an operator-strategy example around AI infrastructure and developer ecosystem formation.
 - The 2026 Marketplace Tech Bytes episode uses Huang as the public face of Nvidia's OpenAI commitment while leaving unresolved how large or strategic the final investment will be.
+- The What's Next source uses Huang as a signal that AI competition is partly fought through packaging and memory supply commitments, not only chip design.
 
 ## Connections
 - [[Nvidia]] — company context.
@@ -30,3 +33,4 @@ Jensen Huang appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-
 - [[AIExportControls]] — policy context in the later Keji Luandun source.
 - [[AIInferenceCostStructure]] and [[Nvidia]] — infrastructure context in Vol. 164.
 - [[OpenAI]] and [[StrategicAIInfrastructureDependence]] — investment and counterparty-dependence context added by Marketplace Tech.
+- [[TSMC]], [[HighBandwidthMemory]], [[MemoryCapacityLockIn]], and [[AIStorageSupercycle]] — capacity-locking context added by What's Next.

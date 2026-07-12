@@ -2,8 +2,8 @@
 title: "Jevons Paradox In AI"
 type: concept
 tags: [ai, economics, infrastructure]
-sources: [e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, kate-crawford-mapping-empires]
-last_updated: 2026-07-10
+sources: [cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, kate-crawford-mapping-empires]
+last_updated: 2026-07-12
 ---
 
 # Jevons Paradox In AI
@@ -12,6 +12,8 @@ Jevons paradox in AI is the E155 argument that falling per-token cost can increa
 
 [[kate-crawford-mapping-empires]] adds the environmental version. [[KateCrawford]] argues that efficiency gains do not solve AI's resource problem if cheaper generation leads AI to be embedded into more schools, workplaces, platforms, and media workflows, increasing total energy, water, and infrastructure demand.
 
+[[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] adds the memory-demand version. The source argues that algorithmic and memory-compression improvements do not automatically reduce total storage demand, because larger context windows, more agent steps, and more inference workloads can consume the saved capacity.
+
 ## Key Claims
 - Better chips, inference architecture, routing, and engineering can lower the cost of one token.
 - Lower cost can unlock more calls, longer contexts, deeper reasoning loops, more users, and more always-on agents.
@@ -19,6 +21,7 @@ Jevons paradox in AI is the E155 argument that falling per-token cost can increa
 - Cost decline therefore does not automatically reduce demand for GPUs, power, cooling, storage, or network capacity.
 - The paradox turns efficiency gains into an infrastructure-scaling problem: the system needs cheaper tokens and more total capacity at the same time.
 - Efficiency improvements can increase total environmental burden when deployment expands faster than per-use resource demand falls.
+- Memory efficiency can raise total demand when better utilization makes longer contexts, more agents, and more recoverable workflows practical.
 
 ## Connections
 - [[AIInferenceCostStructure]] — per-token and workflow-level cost pressure.
@@ -27,3 +30,4 @@ Jevons paradox in AI is the E155 argument that falling per-token cost can increa
 - [[AgenticWorkflow]], [[TokenDrivenSoftware]], and [[AISkills]] — usage patterns that can increase token demand.
 - [[HumanResourceDeflationComputeInfrastructureInflation]] — aggregate shift from human labor costs to compute infrastructure demand.
 - [[AIMetabolicInfrastructure]], [[DataCenterThermalManagement]], and [[DataCenterBacklash]] — ecological and local-infrastructure implications added by Crawford.
+- [[MemoryWall]], [[AIDataCenterMemoryHierarchy]], [[AgentEraNANDStorage]], and [[AIStorageSupercycle]] — memory-demand extension added by What's Next.

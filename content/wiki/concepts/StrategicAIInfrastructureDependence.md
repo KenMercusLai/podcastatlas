@@ -2,7 +2,7 @@
 title: "Strategic AI Infrastructure Dependence"
 type: concept
 tags: [ai, infrastructure, chips, cloud, strategy]
-sources: [tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]
+sources: [cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]
 last_updated: 2026-07-12
 ---
 
@@ -12,14 +12,18 @@ Strategic AI infrastructure dependence is the pattern where model companies, chi
 
 The same source says OpenAI still needs Nvidia's chips and ecosystem, while exploring leverage through internal chip development, [[GoogleCloud]], and [[TPU]] relationships. The dependence is therefore reciprocal but not exclusive. It is a bargaining structure around chips, data centers, cloud capacity, customer concentration, and investor perception.
 
+[[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] adds memory and packaging to this dependence. The source says [[Nvidia]] and other AI infrastructure buyers must secure [[TSMC]] packaging, [[HighBandwidthMemory]], DRAM, and NAND capacity, while [[Google]], [[Huawei]], and [[Alibaba]] pursue different memory-hierarchy routes that shape their bargaining position.
+
 ## Key Claims
 - Frontier AI companies need reliable compute, chips, cloud capacity, and capital before product demand can become durable revenue.
 - Chip suppliers benefit from large model-lab demand, but customer concentration can become strategic and reputational risk.
 - Model labs reduce supplier dependence by pursuing internal chips, alternate cloud providers, or non-GPU infrastructure where possible.
 - Investment headlines can matter even when the operational relationship continues, because public-market investors read partner confidence as a signal.
 - The pattern connects [[MaaSInfrastructure]], [[AIComputeContinuity]], and [[FullStackAIPlatform]] to funding strategy, not only technical architecture.
+- Memory capacity can become strategic infrastructure: companies that lock packaging, HBM, DRAM, and NAND earlier may gain a temporary product and model-serving advantage.
 
 ## Connections
 - [[Nvidia]], [[OpenAI]], and [[JensenHuang]] - central case in the source.
 - [[Anthropic]], [[Microsoft]], [[GoogleCloud]], and [[TPU]] - partner and diversification context.
 - [[MaaSInfrastructure]], [[AIComputeContinuity]], [[FullStackAIPlatform]], and [[AIIPOValuation]] - adjacent infrastructure and valuation frames.
+- [[MemoryCapacityLockIn]], [[AIStorageSupercycle]], [[HighBandwidthMemory]], [[TSMC]], [[Google]], [[Huawei]], and [[Alibaba]] - memory and packaging dependence added by What's Next.

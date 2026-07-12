@@ -2,7 +2,7 @@
 title: "AI Hardware Supply Chain Pressure"
 type: concept
 tags: [ai, semiconductors, supply-chain, infrastructure]
-sources: [tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]
+sources: [tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
 last_updated: 2026-07-12
 ---
 
@@ -14,6 +14,8 @@ AI hardware supply chain pressure is the pattern where AI data-center demand for
 
 The episode makes the consumer spillover visible. It says demand for AI memory and solid-state storage is putting pressure on consumer markets, with Micron exiting consumer drives and a Samsung drive described as rising from about $7 to $20 in recent months. That connects AI infrastructure buildout to ordinary PC builders and consumers, not only to cloud companies.
 
+[[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] adds a deeper memory-allocation mechanism. The source argues that AI server buyers are less price-sensitive than phone and PC makers, so DRAM, HBM, NAND, packaging, and supply agreements can be redirected toward infrastructure customers even before ordinary users see better AI products.
+
 [[tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128]] adds the accelerator-choice layer. [[ChristopherMiller]] frames [[GPU|GPUs]], [[TPU|TPUs]], and [[NeuralProcessingUnits]] as different points in [[AIChipSpecialization]], where speed, power consumption, flexibility, and software ecosystems shape which suppliers capture demand.
 
 ## Key Claims
@@ -24,6 +26,8 @@ The episode makes the consumer spillover visible. It says demand for AI memory a
 - Supply pressure can push smaller organizations toward cloud dependence if hyperscalers absorb more of the available storage and processing capacity.
 - Hardware bottlenecks connect to [[AIComputeContinuity]] because model services depend on durable supplies of memory, accelerators, storage, power, and facility capacity.
 - Supply pressure is not only a memory problem; it also depends on whether workloads stay on general-purpose GPUs or move toward specialized chips such as TPUs and NPUs.
+- Supply pressure can become contractual when customers use [[MemoryCapacityLockIn]] to reserve future output through deposits, long agreements, or capex participation.
+- Workarounds such as [[CXLMemoryPooling]], [[HighBandwidthFlash]], and NAND+DPU prefetching reduce bottlenecks but add their own supply chains and thermal constraints.
 
 ## Connections
 - [[HighBandwidthMemory]] - memory category that anchors the source.
@@ -34,3 +38,4 @@ The episode makes the consumer spillover visible. It says demand for AI memory a
 - [[DataCenterDebtRisk]], [[AIEnergyBottleneck]], and [[DataCenterBacklash]] - adjacent infrastructure limits beyond component supply.
 - [[AIComputeContinuity]] - reliability frame that depends on available hardware.
 - [[GPU]], [[TPU]], [[NeuralProcessingUnits]], and [[AIChipSpecialization]] - accelerator-specialization branch added by Marketplace Tech.
+- [[AIStorageSupercycle]], [[StorageIndustryCyclicality]], [[AIDataCenterMemoryHierarchy]], [[MemoryWall]], and [[MemoryCapacityLockIn]] - memory-cycle and architecture branch added by What's Next.

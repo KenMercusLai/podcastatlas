@@ -1,0 +1,25 @@
+---
+title: "AI Data Center Memory Hierarchy"
+type: concept
+tags: [ai, data-centers, semiconductors, memory]
+sources: [cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
+last_updated: 2026-07-12
+---
+
+# AI Data Center Memory Hierarchy
+
+AI Data Center Memory Hierarchy is the five-layer storage frame from [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]]. The episode orders memory and storage by distance from the processor: on-chip SRAM, [[HighBandwidthMemory]], DRAM, NAND SSDs, and hard drives.
+
+The hierarchy explains why there is no single memory substitute. Layers nearer the GPU or CPU offer higher bandwidth and lower latency at much higher cost and lower capacity; layers farther away offer cheaper capacity but slower access. The source uses this hierarchy to connect [[MemoryWall]], HBM scarcity, CXL memory pooling, NAND prefetching, and high-bandwidth flash into one system-design problem.
+
+## Key Claims
+- AI infrastructure depends on moving data through several memory layers, not only on buying more accelerators.
+- Faster and closer memory is more expensive, so system architecture decides which data belongs in SRAM, HBM, DRAM, NAND, or hard drives.
+- HBM, CXL memory pooling, NAND+DPU prefetching, and HBF solve different parts of the hierarchy rather than replacing one another.
+- The hierarchy makes [[AIHardwareSupplyChainPressure]] broader than GPUs: packaging, memory dies, NAND, hard drives, and interconnect all matter.
+
+## Connections
+- [[MemoryWall]] - bottleneck that makes hierarchy design strategic.
+- [[HighBandwidthMemory]], [[CXLMemoryPooling]], [[AgentEraNANDStorage]], and [[HighBandwidthFlash]] - specific layers and optimization routes.
+- [[Nvidia]], [[Google]], [[Cerebras]], and [[TSMC]] - companies tied to different hierarchy strategies.
+- [[AIComputeContinuity]] - operational need for enough memory and storage across the stack.

@@ -2635,3 +2635,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] ingest | 49.李乌鸦来了！聊聊我们为啥爱阅读
 
 Added source page for the 蜜獾吃书 first-anniversary episode with 李乌鸦 on reading shame, forgetting, painful books, adolescent literary desire, original-text texture, reading posture and paper, childhood book access, classics, and why fiction matters beyond utility. Created pages for 李乌鸦, Reading As Life Experience, Classic Reading Complexity, Family Reading Ecology, and Non-Instrumental Literary Reading; updated overview, index, 蜜獾吃书, 秦总, Reading As Frame Training, and Non-Instrumental Understanding. No direct contradiction found; the source complements AI-assisted reading by emphasizing reader state, bodily habit, household atmosphere, original literary texture, and experiential value that summaries cannot fully replace.
+
+## [2026-07-12] ingest | 存储三巨头破万亿市值，存储超级周期何时能见顶？｜ S10E13
+
+Added source page for the What's Next｜科技早知道 episode on AI-driven storage demand, HBM/DRAM/NAND shortages, data-center memory hierarchy, memory-wall bottlenecks, storage cyclicality, long-term capacity lock-ins, Nvidia/Google/Cerebras architecture routes, and NAND's agent-era role. Created pages for SanDisk, Cerebras, ChangXin Memory, Yangtze Memory Technologies, AI Data Center Memory Hierarchy, Memory Wall, AI Storage Supercycle, Storage Industry Cyclicality, Memory Capacity Lock-In, Agent-Era NAND Storage, High Bandwidth Flash, and CXL Memory Pooling; updated overview, index, What's Next｜科技早知道, High Bandwidth Memory, Memory Chip Shortage, AI Hardware Supply Chain Pressure, SK Hynix, Samsung, Micron Technology, Nvidia, Google, TSMC, Huawei, Xiaomi, Alibaba, Apple, Jensen Huang, AI Inference Cost Structure, Jevons Paradox In AI, AI Compute Continuity, Strategic AI Infrastructure Dependence, and Semiconductor 3D Stacking. No direct contradiction found; the source reinforces the AI hardware supply-chain branch while cautioning that AI weakens memory cyclicality rather than ending it.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
