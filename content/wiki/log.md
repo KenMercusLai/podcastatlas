@@ -2607,3 +2607,11 @@ Added source page for the What's Next episode with Dong Hongguang of Guangfan Te
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | 47.鸟有什么好看的：原来…丹顶鹤是秃的！
+
+Added source page for the 蜜獾吃书 episode on 《鸟有什么好看的》, 川上和人, birdwatching, Tokyo oceanic islands, ornithological fieldwork, volcanic island succession, scientific sampling, invasive-species management, bird dispersal, evolutionary trait interpretation, and cross-disciplinary literature search. Created pages for 川上和人, 《鸟有什么好看的》, 小笠原群岛, 西之岛, 南硫磺岛, 红头黑铃鸽, 日本树莺, 丹顶鹤, Ornithological Fieldwork, Island Ecological Succession, Scientific Sampling Discipline, Observation Before Inference, Evolutionary Trait Interpretation, Cross-Disciplinary Literature Search, Invasive Species Management, and Bird Dispersal Ecology; updated overview, index, 蜜獾吃书, Birdwatching As Attention, and Conservation Intervention. No direct contradiction found; the source complements the existing birdwatching branch by shifting from sensory attention and citizen observation toward professional fieldwork, evidence provenance, island ecology, and scientific humility.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint without saving a report file. Semantic checks were unavailable because `LLM_MODEL`/provider credentials were not configured.

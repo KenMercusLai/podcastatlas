@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [47.鸟有什么好看的：原来…丹顶鹤是秃的！](sources/47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924.md) — 蜜獾吃书 episode on 《鸟有什么好看的》, Kawakami Kazuto, birdwatching, ornithological fieldwork, island ecology, scientific sampling, invasive-species management, and evidence discipline.
 - [WWDC 26 补上了 AI，但离真正的 AI 助手还差什么？｜ S10E15](sources/wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d.md) — What's Next episode with Dong Hongguang of Guangfan Technology on Apple Intelligence, Siri, wearable AI assistants, always-on context, service entry, and permission boundaries.
 - [46.这世界唯一的你：请相信那朵慢慢绽放的花](sources/46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720.md) — 蜜獾吃书 episode on 《这世界唯一的你》 / Uniquely Human, autism as lived difference, behavior-as-communication, safe environments, family support, and cure-promise risk.
 - [44.运气的诱饵：赌博成瘾，因为我们害怕自由](sources/44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308.md) — 蜜獾吃书 episode on 《运气的诱饵》, machine gambling addiction, casino/slot design, near misses, intermittent reinforcement, freedom pressure, and addictive digital-product mechanics.
@@ -328,6 +329,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [川上和人 / Kawakami Kazuto](entities/KawakamiKazuto.md) — Japanese ornithologist and author presented through 《鸟有什么好看的》 as a humorous but rigorous guide to birds, island fieldwork, sampling, and scientific reasoning.
+- [《鸟有什么好看的》 / Birds Are Interesting](entities/BirdsAreInteresting.md) — Kawakami Kazuto book discussed by 蜜獾吃书 as an informal route into ornithology, field science, evidence discipline, and evolutionary explanation.
+- [小笠原群岛 / Ogasawara Islands](entities/OgasawaraIslands.md) — Tokyo-administered oceanic islands used by the episode as a natural laboratory for endemic birds, invasive species, volcanic disturbance, and protected-area fieldwork.
+- [西之岛 / Nishinoshima](entities/Nishinoshima.md) — Volcanic island and seabird breeding case used to show ecological succession after eruptions and lava disturbance.
+- [南硫磺岛 / Minami Ioto](entities/MinamiIoto.md) — Protected uninhabited island case showing the logistics, biosecurity, and ethics of difficult ornithological fieldwork.
+- [红头黑铃鸽](entities/RedHeadedWoodPigeon.md) — Rare Ogasawara bird used as the episode's case for feral-cat management, social acceptance, and conservation intervention.
+- [日本树莺 / Japanese Bush Warbler](entities/JapaneseBushWarbler.md) — Subspecies, taxonomy, and restoration-complication case involving goats, black rats, and possible gene-flow risk.
+- [丹顶鹤 / Red-crowned Crane](entities/RedCrownedCrane.md) — Title species whose bare red crown, not red feathers, becomes the episode's reminder that familiar symbolic birds still need close observation.
 - [Dong Hongguang / 董宏光](entities/DongHongguang.md) — Guangfan Technology founder and CEO arguing that real personal AI assistants need context, wearables, service execution, and permission design beyond model capability.
 - [Guangfan Technology / 光帆科技](entities/GuangfanTechnology.md) — AI agent wearable hardware company discussed through earbuds, watches, sensors, agents, cloud-service access, and assistant product design.
 - [Apple Intelligence](entities/AppleIntelligence.md) — Apple's AI system layer evaluated as meaningful WWDC catch-up but incomplete personal-assistant infrastructure.
@@ -340,7 +349,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Flow](entities/Flow.md) — iPhone dictation app Mims uses as a voice-first AI interface for everyday messaging.
 - [Google Personal Intelligence](entities/GooglePersonalIntelligence.md) — Gemini-linked account capability used by the source to show AI acting inside Google services such as Calendar.
 - [Google Calendar](entities/GoogleCalendar.md) — Scheduling product used as the source's example of a disliked task that account-integrated AI can reduce.
-- [蜜獾吃书](entities/MihuanChishu.md) — Podcast/show context for book and life-design discussions on life restarts, machine gambling, and autism support.
+- [蜜獾吃书](entities/MihuanChishu.md) — Podcast/show context for book and life-design discussions on life restarts, machine gambling, autism support, and bird science.
 - [日谈](entities/Ritan.md) — Crossover context for the episode bringing Hookie, 殷姐, and 秦总 together for a Women's Day life-design conversation.
 - [Hookie](entities/Hookie.md) — Host in the restart-life episode, linking life-science career redirection, pet grief, school confidence, and learning capacity.
 - [殷姐](entities/YinJie.md) — Host in the restart-life episode, linking Mexico hospitality life, recruiting regret, self-consistency, learning capacity, and non-attachment.
@@ -2011,6 +2020,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Ornithological Fieldwork](concepts/OrnithologicalFieldwork.md) — Practical bird research through field observation, listening, access planning, biosecurity, sampling, discomfort, and evidence production.
+- [Island Ecological Succession](concepts/IslandEcologicalSuccession.md) — Process by which isolated islands are colonized, disturbed, and recolonized, made concrete by Nishinoshima volcanic eruptions and seabird return.
+- [Scientific Sampling Discipline](concepts/ScientificSamplingDiscipline.md) — Research practice of collecting enough provenance-aware evidence to avoid mistaking abnormal individuals or convenient traces for general patterns.
+- [Observation Before Inference](concepts/ObservationBeforeInference.md) — Scientific reasoning discipline that lets field evidence correct attractive post hoc stories, morphology guesses, and clever but untested explanations.
+- [Evolutionary Trait Interpretation](concepts/EvolutionaryTraitInterpretation.md) — Explaining visible biological features through function, cost, signal value, history, and comparison without turning them into just-so stories.
+- [Cross-Disciplinary Literature Search](concepts/CrossDisciplinaryLiteratureSearch.md) — Research search discipline that checks adjacent fields and vocabularies before claiming novelty from one database's silence.
+- [Invasive Species Management](concepts/InvasiveSpeciesManagement.md) — Conservation work reducing introduced-species harm while balancing ecology, ethics, social acceptance, biosecurity, and post-intervention monitoring.
+- [Bird Dispersal Ecology](concepts/BirdDispersalEcology.md) — Study of birds moving organisms and biological material across habitats, illustrated by tiny snails surviving passage through bird digestion.
 - [Wearable AI Assistant](concepts/WearableAIAssistant.md) — Personal assistant form where accepted body-worn devices provide always-on sensing, voice interaction, and low-friction service execution around a broader phone/cloud system.
 - [Autism As Human Difference](concepts/AutismAsHumanDifference.md) — Frame treating autism as a developmental and perceptual difference requiring support, respect, and accommodation rather than repair-first normalization.
 - [Behavior As Communication](concepts/BehaviorAsCommunication.md) — Care and education principle that difficult behavior may express distress, overload, fear, predictability needs, or limited communication tools.
