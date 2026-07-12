@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [50.开膛手杰克结案报告：女法医的争议之作](sources/50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604.md) — 蜜獾吃书 episode on Patricia Cornwell's contested Sickert theory, Jack the Ripper, Whitechapel victims, Victorian women, forensic limits, and early criminal-investigation practice.
 - [E229｜从手工作坊到全球第一：中国动力电池逆袭史](sources/e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi.md) — 硅谷101 episode on China's power-battery rise through policy demand, local clusters, supply-chain density, manufacturing know-how, CATL/BYD/ATL, Northvolt, solid-state batteries, sodium-ion storage, dry electrodes, and recycling.
 - [一人公司的另一种可能：AI 负责经营，人类负责热爱｜英文访谈 S10E14](sources/yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7.md) — What's Next interview with Sahil Lavingia on Gumroad, AI-era OPC, minimalist entrepreneurship, support automation, sales/story, AI as operator, and public-service digitalization.
 - [存储三巨头破万亿市值，存储超级周期何时能见顶？｜ S10E13](sources/cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1.md) — What's Next episode on AI-driven HBM/DRAM/NAND demand, memory hierarchy, storage cyclicality, capacity lock-ins, and agent-era NAND storage.
@@ -334,6 +335,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Patricia Cornwell](entities/PatriciaCornwell.md) — Crime novelist and author of 《开膛手杰克结案报告》, used by the episode to examine forensic attribution without decisive proof.
+- [Walter Sickert](entities/WalterSickert.md) — British painter accused by Patricia Cornwell in her Jack the Ripper theory but treated by the episode as suspicious rather than proven.
+- [Jack the Ripper](entities/JackTheRipper.md) — Unresolved Whitechapel murder case connecting suspect mythology, victim stigma, Victorian poverty, and policing practice.
+- [《开膛手杰克结案报告》](entities/JackTheRipperCaseClosed.md) — Patricia Cornwell book that argues Walter Sickert was Jack the Ripper while exposing the limits of old forensic evidence.
+- [Mary Ann Nichols](entities/MaryAnnNichols.md) — Whitechapel victim whose biography grounds the episode's shift from murder spectacle to Victorian women's precarity.
+- [Scotland Yard](entities/ScotlandYard.md) — London policing institution used by the episode to show how early investigative failures shaped later criminal-investigation discipline.
 - [何倩然 / He Qianran](entities/HeQianran.md) — Battery investor and materials/R&D-background guest explaining China's manufacturing edge and future sodium-ion, dry-electrode, recycling, and solid-state routes.
 - [杨璐 / Yang Lu](entities/YangLu.md) — Journalist contributing BYD factory-history, Changzhou cluster, and Yibin industrial-transition reporting to the battery episode.
 - [张从志 / Zhang Congzhi](entities/ZhangCongzhi.md) — Journalist emphasizing Ten Cities Thousand Vehicles, battery consistency, and pack-level safety as foundations of China's battery rise.
@@ -2051,6 +2058,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Contested Forensic Attribution](concepts/ContestedForensicAttribution.md) — Problem of assigning responsibility from old, incomplete, contaminated, hoax-prone, or damaged evidence.
+- [Victim Stigma In True Crime](concepts/VictimStigmaInTrueCrime.md) — Pattern where media or police labels collapse victims' lives into morally loaded shorthand and hide structural danger.
+- [Victorian Women Precarity](concepts/VictorianWomenPrecarity.md) — Social-history frame for how gender, poverty, marriage, housing, workhouses, and public-space risk narrowed women's choices.
+- [Modern Criminal Investigation Formation](concepts/ModernCriminalInvestigationFormation.md) — Process by which evidence handling, medical coordination, photography, files, and search methods became more systematic through visible failures.
 - [Power Battery Industry Chain](concepts/PowerBatteryIndustryChain.md) — Full-stack battery system spanning resources, materials, cells, PACK, BMS, suppliers, local clusters, and recycling loops.
 - [Battery Manufacturing Know-How](concepts/BatteryManufacturingKnowHow.md) — Tacit process-control moat around coating, moisture, defects, yield, line debugging, and factory iteration.
 - [Battery Consistency And Safety](concepts/BatteryConsistencySafety.md) — Pack-level quality problem where cell variation, contaminants, defects, and process instability can become lifespan or thermal-risk issues.

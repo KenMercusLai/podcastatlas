@@ -2,13 +2,13 @@
 title: "蜜獾吃书"
 type: entity
 tags: [podcast, books, media]
-sources: [ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308, 46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 48-kaishi-daji-diyiliu-de-youmo-fengci-627375908, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]
+sources: [ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308, 46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 48-kaishi-daji-diyiliu-de-youmo-fengci-627375908, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604]
 last_updated: 2026-07-12
 ---
 
 # 蜜獾吃书
 
-蜜獾吃书 is the podcast/show context for [[ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425]], [[44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]], [[46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720]], [[47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924]], [[48-kaishi-daji-diyiliu-de-youmo-fengci-627375908]], and [[49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]]. In the restart-life source, [[QinZong|秦总]] introduces herself as a host of the show and joins [[Hookie]] and [[YinJie|殷姐]] for a [[Ritan|日谈]] crossover Women's Day conversation.
+蜜獾吃书 is the podcast/show context for [[ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425]], [[44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]], [[46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720]], [[47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924]], [[48-kaishi-daji-diyiliu-de-youmo-fengci-627375908]], [[49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]], and [[50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604]]. In the restart-life source, [[QinZong|秦总]] introduces herself as a host of the show and joins [[Hookie]] and [[YinJie|殷姐]] for a [[Ritan|日谈]] crossover Women's Day conversation.
 
 The episode moves the show into the wiki's life-design branch. Rather than reviewing a book directly, it uses [[BrushUpLife|《重启人生》]] as a shared cultural frame for talking about life restarts, professional choice, pet loss, mother-daughter grief, and [[FemaleSelfPossession]].
 
@@ -22,6 +22,8 @@ The episode moves the show into the wiki's life-design branch. Rather than revie
 
 [[49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]] adds the show's meta-reading branch with [[LiWuya|李乌鸦]]. Instead of discussing one book, it connects reading shame, forgetting, original-text texture, childhood access, classics, and fiction's experiential value to [[ReadingAsLifeExperience]], [[ClassicReadingComplexity]], [[FamilyReadingEcology]], and [[NonInstrumentalLiteraryReading]].
 
+[[50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604]] adds the show's true-crime and social-history branch through [[JackTheRipperCaseClosed|《开膛手杰克结案报告》]]. It connects [[PatriciaCornwell]]'s disputed accusation against [[WalterSickert]] to [[ContestedForensicAttribution]], then shifts from suspect-hunting toward [[VictimStigmaInTrueCrime]], [[VictorianWomenPrecarity]], and [[ModernCriminalInvestigationFormation]].
+
 ## Connections
 
 - [[QinZong|秦总]] - host associated with the show in several sources.
@@ -34,3 +36,5 @@ The episode moves the show into the wiki's life-design branch. Rather than revie
 - [[BirdsAreInteresting|《鸟有什么好看的》]], [[KawakamiKazuto|川上和人]], and [[OrnithologicalFieldwork]] - book, author, and natural-science branch added by the bird-science source.
 - [[LaoShe|老舍]], [[KaiShiDaJi|《开市大吉》]], and [[LaoSheSatiricalHumanism]] - literature, author, and satire branch added by the Lao She source.
 - [[LiWuya|李乌鸦]], [[ReadingAsLifeExperience]], and [[NonInstrumentalLiteraryReading]] - meta-reading branch added by the first-anniversary episode.
+- [[JackTheRipperCaseClosed|《开膛手杰克结案报告》]], [[PatriciaCornwell]], [[WalterSickert]], and [[JackTheRipper]] - true-crime branch added by the Jack the Ripper episode.
+- [[ContestedForensicAttribution]], [[VictimStigmaInTrueCrime]], [[VictorianWomenPrecarity]], and [[ModernCriminalInvestigationFormation]] - evidence and social-history concepts added by the Jack the Ripper episode.

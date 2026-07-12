@@ -2659,3 +2659,11 @@ Added source page for the 硅谷101 episode on China's power-battery rise throug
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | 50.开膛手杰克结案报告：女法医的争议之作
+
+Added source page for the 蜜獾吃书 episode on Patricia Cornwell's 《开膛手杰克结案报告》, Jack the Ripper, Walter Sickert, contested forensic evidence, victim stigma, Victorian women's precarity, and early criminal-investigation practice. Created pages for Patricia Cornwell, Walter Sickert, Jack the Ripper, 《开膛手杰克结案报告》, Mary Ann Nichols, Scotland Yard, Contested Forensic Attribution, Victim Stigma In True Crime, Victorian Women Precarity, and Modern Criminal Investigation Formation; updated overview, index, 蜜獾吃书, and Alienated Male Violence. No direct contradiction found; the source adds a historical misogyny/control frame while cautioning that psychological fit and circumstantial material do not prove suspect identity.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

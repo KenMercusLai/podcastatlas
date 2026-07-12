@@ -179,6 +179,10 @@
     "title": "49.李乌鸦来了！聊聊我们为啥爱阅读",
     "url": "/wiki/sources/49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098/"
   },
+  "50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604": {
+    "title": "50.开膛手杰克结案报告：女法医的争议之作",
+    "url": "/wiki/sources/50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604/"
+  },
   "8848": {
     "title": "8848",
     "url": "/wiki/entities/8848/"
@@ -2746,6 +2750,10 @@
   "ContentEcosystemGovernance": {
     "title": "Content Ecosystem Governance",
     "url": "/wiki/concepts/contentecosystemgovernance/"
+  },
+  "ContestedForensicAttribution": {
+    "title": "Contested Forensic Attribution",
+    "url": "/wiki/concepts/contestedforensicattribution/"
   },
   "ContextDecay": {
     "title": "Context Decay",
@@ -5787,6 +5795,14 @@
     "title": "JPMorgan Chase",
     "url": "/wiki/entities/jpmorganchase/"
   },
+  "JackTheRipper": {
+    "title": "Jack the Ripper",
+    "url": "/wiki/entities/jacktheripper/"
+  },
+  "JackTheRipperCaseClosed": {
+    "title": "《开膛手杰克结案报告》",
+    "url": "/wiki/entities/jacktherippercaseclosed/"
+  },
   "JacobCram": {
     "title": "Jacob Cram",
     "url": "/wiki/entities/jacobcram/"
@@ -7095,6 +7111,10 @@
     "title": "Martin Peterson",
     "url": "/wiki/entities/martinpeterson/"
   },
+  "MaryAnnNichols": {
+    "title": "Mary Ann Nichols",
+    "url": "/wiki/entities/maryannnichols/"
+  },
   "MarylandTransportationAuthority": {
     "title": "Maryland Transportation Authority",
     "url": "/wiki/entities/marylandtransportationauthority/"
@@ -7502,6 +7522,10 @@
   "ModelWorkflowFit": {
     "title": "Model Workflow Fit",
     "url": "/wiki/concepts/modelworkflowfit/"
+  },
+  "ModernCriminalInvestigationFormation": {
+    "title": "Modern Criminal Investigation Formation",
+    "url": "/wiki/concepts/moderncriminalinvestigationformation/"
   },
   "ModernExpressTravel": {
     "title": "Modern Express Travel",
@@ -8286,6 +8310,10 @@
   "Patreon": {
     "title": "Patreon",
     "url": "/wiki/entities/patreon/"
+  },
+  "PatriciaCornwell": {
+    "title": "Patricia Cornwell",
+    "url": "/wiki/entities/patriciacornwell/"
   },
   "PatrickCollison": {
     "title": "Patrick Collison",
@@ -9642,6 +9670,10 @@
   "ScientificSamplingDiscipline": {
     "title": "Scientific Sampling Discipline",
     "url": "/wiki/concepts/scientificsamplingdiscipline/"
+  },
+  "ScotlandYard": {
+    "title": "Scotland Yard",
+    "url": "/wiki/entities/scotlandyard/"
   },
   "ScottBrennan": {
     "title": "Scott Brennan",
@@ -11415,6 +11447,14 @@
     "title": "Vibe Song",
     "url": "/wiki/entities/vibesong/"
   },
+  "VictimStigmaInTrueCrime": {
+    "title": "Victim Stigma In True Crime",
+    "url": "/wiki/concepts/victimstigmaintruecrime/"
+  },
+  "VictorianWomenPrecarity": {
+    "title": "Victorian Women Precarity",
+    "url": "/wiki/concepts/victorianwomenprecarity/"
+  },
   "VideoMembershipModel": {
     "title": "Video Membership Model",
     "url": "/wiki/concepts/videomembershipmodel/"
@@ -11502,6 +11542,10 @@
   "WaltDisneyWorld": {
     "title": "Walt Disney World",
     "url": "/wiki/entities/waltdisneyworld/"
+  },
+  "WalterSickert": {
+    "title": "Walter Sickert",
+    "url": "/wiki/entities/waltersickert/"
   },
   "WandaGroup": {
     "title": "万达集团 / Wanda Group",
