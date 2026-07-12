@@ -3,7 +3,7 @@ title: "Nina Miolane"
 type: entity
 tags: [person, neuroscience, ai]
 sources: [claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk]
-last_updated: 2026-07-08
+last_updated: 2026-07-12
 ---
 
 # Nina Miolane
@@ -14,6 +14,8 @@ Nina Miolane is the speaker in [[claire-isabel-webb-nina-miolane-the-geometry-of
 Miolane's key move is to shift attention from isolated neurons toward [[PopulationCoding]] and [[NeuralGeometry]]. In the talk, spatial-navigation circuits and artificial networks trained on comparable tasks both show torus-shaped activity, making the [[SpatialNavigationTorus]] a test case for whether intelligent systems converge on efficient representational geometry.
 
 She is careful about the boundary between intelligence and consciousness. The source presents [[ConsciousnessMeasurement]] as an open problem where sleep-state geometry, replay, affect, and AI consciousness can be studied without claiming that a single metric decides whether a system is conscious.
+
+The refreshed podcast export also makes her engineering implication clearer: if large networks discover useful geometry through training, smaller AI systems may need those geometric principles built into their architectures when data is limited.
 
 ## Connections
 - [[ClaireIsabelWebb]] - interviewer for the Long Now conversation.

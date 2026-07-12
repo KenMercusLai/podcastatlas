@@ -4,13 +4,17 @@ type: source
 tags: [podcast, long-now, neuroscience, consciousness, ai]
 sources: []
 date: 2026-05-20
-source_file: "/home/ken/repos/podcastatlas/content/episodes/Claire Isabel Webb & Nina Miolane ｜ The Geometry of Consciousness [IUlBwKinaTk].md"
+source_file: "/home/ken/repos/podcastatlas/content/episodes/02026-webb-miolane-podcast-v2 [02026-webb-miolane-podcast-v2].md"
+alternate_source_files:
+  - "/home/ken/repos/podcastatlas/content/episodes/Claire Isabel Webb & Nina Miolane ｜ The Geometry of Consciousness [IUlBwKinaTk].md"
 source_url: "https://longnow.org/talks/02026-webb-miolane"
-last_updated: 2026-07-08
+audio_url: "https://podcast.longnow.org/salt/redirect/02026-webb-miolane-podcast-v2.mp3"
+duration_seconds: 3048
+last_updated: 2026-07-12
 ---
 
 ## Summary
-This [[LongNow]] talk has [[ClaireIsabelWebb]] interviewing [[NinaMiolane]] about a [[MathematicalTheoryOfIntelligence]] built from neural activity, geometry, and computation rather than from a yes-or-no consciousness threshold. Miolane argues that the important structure often appears at the level of [[PopulationCoding]], where high-dimensional neural activity can collapse into interpretable low-dimensional shapes. The talk's anchor example is the [[SpatialNavigationTorus]]: torus-shaped activity in biological navigation circuits and artificial networks trained on similar spatial tasks, with [[FourierSpatialEncoding]] offered as an explanatory route.
+This [[LongNow]] talk has [[ClaireIsabelWebb]] interviewing [[NinaMiolane]] about a [[MathematicalTheoryOfIntelligence]] built from neural activity, geometry, and computation rather than from a yes-or-no consciousness threshold. Miolane moves from firing-rate codes and the single-neuron doctrine toward [[PopulationCoding]], where high-dimensional neural activity can collapse into interpretable low-dimensional shapes. The talk's anchor example is the [[SpatialNavigationTorus]]: torus-shaped activity in biological navigation circuits and artificial networks trained on similar spatial tasks, with [[FourierSpatialEncoding]] offered as an explanatory route and small-data AI architectures treated as one possible application.
 
 ## Key Claims
 - [[NinaMiolane]] wants equations that explain why brains and artificial neural networks converge on common computational structures.
@@ -42,3 +46,7 @@ This [[LongNow]] talk has [[ClaireIsabelWebb]] interviewing [[NinaMiolane]] abou
 
 ## Contradictions
 - No direct contradiction found. The source qualifies broad AI-consciousness discussions by refusing a simple threshold claim and by separating measurable geometry, intelligence, affect, and consciousness.
+
+## Source Notes
+- Refreshed on 2026-07-12 from the `02026-webb-miolane-podcast-v2` Markdown export. This is the same Long Now episode already represented by this page, so the ingest updated provenance and synthesis details instead of creating a duplicate source page.
+- The export frontmatter lists the podcast audio URL and duration; the wiki keeps the Long Now talk page as `source_url` and records the audio separately.

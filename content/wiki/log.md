@@ -2583,3 +2583,11 @@ Added source page for the 蜜獾吃书 episode on 《运气的诱饵》, machine
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Claire Isabel Webb & Nina Miolane: The Geometry of Consciousness
+
+Refreshed the existing Long Now source page from `/home/ken/repos/podcastatlas/content/episodes/02026-webb-miolane-podcast-v2 [02026-webb-miolane-podcast-v2].md`, recording it as the primary source export and preserving the older title-based path as an alternate source file. Updated the source page, index, overview, Nina Miolane, and Mathematical Theory Of Intelligence to reflect the small-data/small-network architecture implication. No duplicate source page was created because this file represents the same episode already linked in the wiki. No direct contradiction found.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

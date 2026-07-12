@@ -3,7 +3,7 @@ title: "Mathematical Theory Of Intelligence"
 type: concept
 tags: [intelligence, neuroscience, ai]
 sources: [claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk]
-last_updated: 2026-07-08
+last_updated: 2026-07-12
 ---
 
 # Mathematical Theory Of Intelligence
@@ -15,6 +15,7 @@ Mathematical theory of intelligence is [[NinaMiolane]]'s term in [[claire-isabel
 - The comparison between brains and machines should happen at the level of computation and algorithm, not biological substrate.
 - [[NeuralGeometry]] offers one mathematical language for describing collective activity in high-dimensional neural systems.
 - [[SpatialNavigationTorus]] and [[FourierSpatialEncoding]] are the talk's concrete example of a geometric pattern and candidate explanation.
+- Geometric principles may become architectural priors for small networks and small data sets, rather than waiting for very large models to rediscover the same structure through scale.
 - The theory remains incomplete in more complex domains such as social behavior, affect, and [[ConsciousnessMeasurement]].
 
 ## Connections
