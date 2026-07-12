@@ -163,6 +163,10 @@
     "title": "8848",
     "url": "/wiki/entities/8848/"
   },
+  "A7A5": {
+    "title": "A7A5",
+    "url": "/wiki/entities/a7a5/"
+  },
   "ABC": {
     "title": "ABC",
     "url": "/wiki/entities/abc/"
@@ -183,6 +187,10 @@
     "title": "AI 3D Prototyping",
     "url": "/wiki/concepts/ai3dprototyping/"
   },
+  "AIAdvertisingTargeting": {
+    "title": "AI Advertising Targeting",
+    "url": "/wiki/concepts/aiadvertisingtargeting/"
+  },
   "AIAgentOverseasCommercialization": {
     "title": "AI Agent Overseas Commercialization",
     "url": "/wiki/concepts/aiagentoverseascommercialization/"
@@ -190,6 +198,10 @@
   "AIAlignmentGovernance": {
     "title": "AI Alignment Governance",
     "url": "/wiki/concepts/aialignmentgovernance/"
+  },
+  "AIAnswerSourceAttribution": {
+    "title": "AI Answer Source Attribution",
+    "url": "/wiki/concepts/aianswersourceattribution/"
   },
   "AIApplicationLayerMoat": {
     "title": "AI Application Layer Moat",
@@ -215,6 +227,14 @@
     "title": "AI Assisted Software Development Risk",
     "url": "/wiki/concepts/aiassistedsoftwaredevelopmentrisk/"
   },
+  "AIAssistedSurveyResponse": {
+    "title": "AI-Assisted Survey Response",
+    "url": "/wiki/concepts/aiassistedsurveyresponse/"
+  },
+  "AIAssistedWebsiteScams": {
+    "title": "AI-Assisted Website Scams",
+    "url": "/wiki/concepts/aiassistedwebsitescams/"
+  },
   "AIAuthorshipPresence": {
     "title": "AI Authorship Presence",
     "url": "/wiki/concepts/aiauthorshippresence/"
@@ -231,6 +251,14 @@
     "title": "AI Bubble Hedging",
     "url": "/wiki/concepts/aibubblehedging/"
   },
+  "AIChipSpecialization": {
+    "title": "AI Chip Specialization",
+    "url": "/wiki/concepts/aichipspecialization/"
+  },
+  "AICodingGuardrails": {
+    "title": "AI Coding Guardrails",
+    "url": "/wiki/concepts/aicodingguardrails/"
+  },
   "AICodingVerification": {
     "title": "AI Coding Verification",
     "url": "/wiki/concepts/aicodingverification/"
@@ -238,6 +266,10 @@
   "AIColdWar": {
     "title": "AI Cold War",
     "url": "/wiki/concepts/aicoldwar/"
+  },
+  "AICollegeSearch": {
+    "title": "AI College Search",
+    "url": "/wiki/concepts/aicollegesearch/"
   },
   "AICommercializationPressure": {
     "title": "AI Commercialization Pressure",
@@ -263,6 +295,10 @@
     "title": "AI Compute Continuity",
     "url": "/wiki/concepts/aicomputecontinuity/"
   },
+  "AIConsumerDecisionShaping": {
+    "title": "AI Consumer Decision Shaping",
+    "url": "/wiki/concepts/aiconsumerdecisionshaping/"
+  },
   "AIConsumerGrowthMetrics": {
     "title": "AI Consumer Growth Metrics",
     "url": "/wiki/concepts/aiconsumergrowthmetrics/"
@@ -271,6 +307,10 @@
     "title": "AI Content Devaluation",
     "url": "/wiki/concepts/aicontentdevaluation/"
   },
+  "AIContentLicensing": {
+    "title": "AI Content Licensing",
+    "url": "/wiki/concepts/aicontentlicensing/"
+  },
   "AIContentProvenance": {
     "title": "AI Content Provenance",
     "url": "/wiki/concepts/aicontentprovenance/"
@@ -278,6 +318,10 @@
   "AICoworkers": {
     "title": "AI Coworkers",
     "url": "/wiki/concepts/aicoworkers/"
+  },
+  "AIDataInfrastructure": {
+    "title": "AI Data Infrastructure",
+    "url": "/wiki/concepts/aidatainfrastructure/"
   },
   "AIDataMemoryInfrastructure": {
     "title": "AI Data Memory Infrastructure",
@@ -290,6 +334,14 @@
   "AIEconomicDiffusion": {
     "title": "AI Economic Diffusion",
     "url": "/wiki/concepts/aieconomicdiffusion/"
+  },
+  "AIEnabledScamIndustrialization": {
+    "title": "AI-Enabled Scam Industrialization",
+    "url": "/wiki/concepts/aienabledscamindustrialization/"
+  },
+  "AIEnabledSpam": {
+    "title": "AI-Enabled Spam",
+    "url": "/wiki/concepts/aienabledspam/"
   },
   "AIEnergyBottleneck": {
     "title": "AI Energy Bottleneck",
@@ -335,6 +387,10 @@
     "title": "AI Governance And Compliance",
     "url": "/wiki/concepts/aigovernanceandcompliance/"
   },
+  "AIGriefBots": {
+    "title": "AI Grief Bots",
+    "url": "/wiki/concepts/aigriefbots/"
+  },
   "AIHackathons": {
     "title": "AI Hackathons",
     "url": "/wiki/concepts/aihackathons/"
@@ -363,6 +419,10 @@
     "title": "AI Inference Cost Structure",
     "url": "/wiki/concepts/aiinferencecoststructure/"
   },
+  "AIInfrastructureDebtFinancing": {
+    "title": "AI Infrastructure Debt Financing",
+    "url": "/wiki/concepts/aiinfrastructuredebtfinancing/"
+  },
   "AIInteractiveContentPlatforms": {
     "title": "AI Interactive Content Platforms",
     "url": "/wiki/concepts/aiinteractivecontentplatforms/"
@@ -375,6 +435,10 @@
     "title": "AI Interpretability By AI",
     "url": "/wiki/concepts/aiinterpretabilitybyai/"
   },
+  "AIInterviewing": {
+    "title": "AI Interviewing",
+    "url": "/wiki/concepts/aiinterviewing/"
+  },
   "AIInvestmentMetrics": {
     "title": "AI Investment Metrics",
     "url": "/wiki/concepts/aiinvestmentmetrics/"
@@ -382,6 +446,10 @@
   "AIInvestmentResearch": {
     "title": "AI Investment Research",
     "url": "/wiki/concepts/aiinvestmentresearch/"
+  },
+  "AIJournalismTrust": {
+    "title": "AI Journalism Trust",
+    "url": "/wiki/concepts/aijournalismtrust/"
   },
   "AILaborMarketConcentration": {
     "title": "AI Labor Market Concentration",
@@ -447,6 +515,14 @@
     "title": "AI Programming Engine Shift",
     "url": "/wiki/concepts/aiprogrammingengineshift/"
   },
+  "AIPromptedPlaylistCuration": {
+    "title": "AI Prompted Playlist Curation",
+    "url": "/wiki/concepts/aipromptedplaylistcuration/"
+  },
+  "AIRankingReinforcement": {
+    "title": "AI Ranking Reinforcement",
+    "url": "/wiki/concepts/airankingreinforcement/"
+  },
   "AIRecognitionBias": {
     "title": "AI Recognition Bias",
     "url": "/wiki/concepts/airecognitionbias/"
@@ -458,6 +534,10 @@
   "AIResistantExperientialConsumption": {
     "title": "AI Resistant Experiential Consumption",
     "url": "/wiki/concepts/airesistantexperientialconsumption/"
+  },
+  "AIRewriteDesk": {
+    "title": "AI Rewrite Desk",
+    "url": "/wiki/concepts/airewritedesk/"
   },
   "AISafetyNarrativeBackfire": {
     "title": "AI Safety Narrative Backfire",
@@ -543,6 +623,10 @@
     "title": "AI Visual Merchandising",
     "url": "/wiki/concepts/aivisualmerchandising/"
   },
+  "AIWorkerLiteracy": {
+    "title": "AI Worker Literacy",
+    "url": "/wiki/concepts/aiworkerliteracy/"
+  },
   "AIWorkflowTriage": {
     "title": "AI Workflow Triage",
     "url": "/wiki/concepts/aiworkflowtriage/"
@@ -550,6 +634,10 @@
   "AIWorkforceMonitoring": {
     "title": "AI Workforce Monitoring",
     "url": "/wiki/concepts/aiworkforcemonitoring/"
+  },
+  "AIWrittenJournalism": {
+    "title": "AI-Written Journalism",
+    "url": "/wiki/concepts/aiwrittenjournalism/"
   },
   "AMILabs": {
     "title": "AMI Labs",
@@ -562,6 +650,14 @@
   "ANUA": {
     "title": "ANUA",
     "url": "/wiki/entities/anua/"
+  },
+  "AOL": {
+    "title": "AOL",
+    "url": "/wiki/entities/aol/"
+  },
+  "APIProductDesign": {
+    "title": "API Product Design",
+    "url": "/wiki/concepts/apiproductdesign/"
   },
   "ASBeauty": {
     "title": "AS Beauty",
@@ -587,6 +683,14 @@
     "title": "Aaron Braun",
     "url": "/wiki/entities/aaronbraun/"
   },
+  "AaronCheung": {
+    "title": "Aaron Cheung",
+    "url": "/wiki/entities/aaroncheung/"
+  },
+  "AaronSwartz": {
+    "title": "Aaron Swartz",
+    "url": "/wiki/entities/aaronswartz/"
+  },
   "AbelardoDeLaEspriella": {
     "title": "Abelardo de la Espriella",
     "url": "/wiki/entities/abelardodelaespriella/"
@@ -594,6 +698,14 @@
   "AcademicFreedom": {
     "title": "Academic Freedom",
     "url": "/wiki/concepts/academicfreedom/"
+  },
+  "Accel": {
+    "title": "Accel",
+    "url": "/wiki/entities/accel/"
+  },
+  "AcceleratedBankRuns": {
+    "title": "Accelerated Bank Runs",
+    "url": "/wiki/concepts/acceleratedbankruns/"
   },
   "AccidentalVirality": {
     "title": "Accidental Virality",
@@ -623,6 +735,22 @@
     "title": "Action Defines Identity",
     "url": "/wiki/concepts/actiondefinesidentity/"
   },
+  "AdWords": {
+    "title": "AdWords",
+    "url": "/wiki/entities/adwords/"
+  },
+  "AdamBain": {
+    "title": "Adam Bain",
+    "url": "/wiki/entities/adambain/"
+  },
+  "AdamDAngelo": {
+    "title": "Adam D'Angelo",
+    "url": "/wiki/entities/adamdangelo/"
+  },
+  "AdamGoldstein": {
+    "title": "Adam Goldstein",
+    "url": "/wiki/entities/adamgoldstein/"
+  },
   "Adao": {
     "title": "Adao",
     "url": "/wiki/entities/adao/"
@@ -639,6 +767,10 @@
     "title": "Adidas Ultra Boost",
     "url": "/wiki/entities/adidasultraboost/"
   },
+  "AdministrativeSubpoenaDataAccess": {
+    "title": "Administrative Subpoena Data Access",
+    "url": "/wiki/concepts/administrativesubpoenadataaccess/"
+  },
   "Adobe": {
     "title": "Adobe",
     "url": "/wiki/entities/adobe/"
@@ -646,6 +778,10 @@
   "AdobePhotoshop": {
     "title": "Adobe Photoshop",
     "url": "/wiki/entities/adobephotoshop/"
+  },
+  "AdoraCheung": {
+    "title": "Adora Cheung",
+    "url": "/wiki/entities/adoracheung/"
   },
   "AdrienneWeiss": {
     "title": "Adrienne Weiss",
@@ -655,6 +791,14 @@
     "title": "Advance-Fee Fraud",
     "url": "/wiki/concepts/advancefeefraud/"
   },
+  "AdvancedLocalExpressDesk": {
+    "title": "Advanced Local Express Desk",
+    "url": "/wiki/entities/advancedlocalexpressdesk/"
+  },
+  "AeroFS": {
+    "title": "AeroFS",
+    "url": "/wiki/entities/aerofs/"
+  },
   "AetherAI": {
     "title": "Aether AI",
     "url": "/wiki/entities/aetherai/"
@@ -662,6 +806,10 @@
   "Agan": {
     "title": "Agan",
     "url": "/wiki/entities/agan/"
+  },
+  "AgentData": {
+    "title": "Agent Data",
+    "url": "/wiki/concepts/agentdata/"
   },
   "AgentFacingInterfaces": {
     "title": "Agent-Facing Interfaces",
@@ -735,6 +883,10 @@
     "title": "Air New Zealand",
     "url": "/wiki/entities/airnewzealand/"
   },
+  "Airbnb": {
+    "title": "Airbnb",
+    "url": "/wiki/entities/airbnb/"
+  },
   "AirlineServiceDifferentiation": {
     "title": "Airline Service Differentiation",
     "url": "/wiki/concepts/airlineservicedifferentiation/"
@@ -751,17 +903,37 @@
     "title": "Aleph Alpha",
     "url": "/wiki/entities/alephalpha/"
   },
+  "Alerta": {
+    "title": "Alerta",
+    "url": "/wiki/entities/alerta/"
+  },
   "AlexBerman": {
     "title": "Alex Berman",
     "url": "/wiki/entities/alexberman/"
+  },
+  "AlexCheung": {
+    "title": "Alex Cheung",
+    "url": "/wiki/entities/alexcheung/"
+  },
+  "AlexKarp": {
+    "title": "Alex Karp",
+    "url": "/wiki/entities/alexkarp/"
   },
   "AlexZhu": {
     "title": "Alex Zhu",
     "url": "/wiki/entities/alexzhu/"
   },
+  "AlexandrWang": {
+    "title": "Alexandr Wang",
+    "url": "/wiki/entities/alexandrwang/"
+  },
   "AlexisDeTocqueville": {
     "title": "Alexis de Tocqueville",
     "url": "/wiki/entities/alexisdetocqueville/"
+  },
+  "AlexisOhanian": {
+    "title": "Alexis Ohanian",
+    "url": "/wiki/entities/alexisohanian/"
   },
   "AliKhamenei": {
     "title": "Ali Khamenei",
@@ -807,6 +979,10 @@
     "title": "Altimeter Capital",
     "url": "/wiki/entities/altimetercapital/"
   },
+  "AltosComputer": {
+    "title": "Altos Computer",
+    "url": "/wiki/entities/altoscomputer/"
+  },
   "Amazon": {
     "title": "Amazon",
     "url": "/wiki/entities/amazon/"
@@ -818,6 +994,10 @@
   "AmericaAsIdea": {
     "title": "America as Idea",
     "url": "/wiki/concepts/americaasidea/"
+  },
+  "AmericanArchiveOfPublicBroadcasting": {
+    "title": "American Archive of Public Broadcasting",
+    "url": "/wiki/entities/americanarchiveofpublicbroadcasting/"
   },
   "AmericanCulturalExports": {
     "title": "American Cultural Exports",
@@ -839,6 +1019,14 @@
     "title": "American Sports Capital In European Football",
     "url": "/wiki/concepts/americansportscapitalineuropeanfootball/"
   },
+  "AmjadMasad": {
+    "title": "Amjad Masad",
+    "url": "/wiki/entities/amjadmasad/"
+  },
+  "AnalogMediaPreservation": {
+    "title": "Analog Media Preservation",
+    "url": "/wiki/concepts/analogmediapreservation/"
+  },
   "Anaya": {
     "title": "Anaya / 阿那亚",
     "url": "/wiki/entities/anaya/"
@@ -846,6 +1034,10 @@
   "Ancestrality": {
     "title": "Ancestrality",
     "url": "/wiki/concepts/ancestrality/"
+  },
+  "AndreessenHorowitz": {
+    "title": "Andreessen Horowitz",
+    "url": "/wiki/entities/andreessenhorowitz/"
   },
   "AndrewGraff": {
     "title": "Andrew Graff",
@@ -855,6 +1047,14 @@
     "title": "Android",
     "url": "/wiki/entities/android/"
   },
+  "Anduril": {
+    "title": "Anduril",
+    "url": "/wiki/entities/anduril/"
+  },
+  "AndyBechtolsheim": {
+    "title": "Andy Bechtolsheim",
+    "url": "/wiki/entities/andybechtolsheim/"
+  },
   "AndyBurnham": {
     "title": "Andy Burnham",
     "url": "/wiki/entities/andyburnham/"
@@ -862,6 +1062,10 @@
   "AndyFang": {
     "title": "Andy Fang",
     "url": "/wiki/entities/andyfang/"
+  },
+  "AndyGrove": {
+    "title": "Andy Grove",
+    "url": "/wiki/entities/andygrove/"
   },
   "AngelaRayner": {
     "title": "Angela Rayner",
@@ -890,6 +1094,10 @@
   "AnneWilliams": {
     "title": "Anne Williams",
     "url": "/wiki/entities/annewilliams/"
+  },
+  "AnswerEngineOptimization": {
+    "title": "Answer Engine Optimization",
+    "url": "/wiki/concepts/answerengineoptimization/"
   },
   "Anthropic": {
     "title": "Anthropic",
@@ -991,9 +1199,25 @@
     "title": "% Arabica",
     "url": "/wiki/entities/arabica/"
   },
+  "ArashFerdowsi": {
+    "title": "Arash Ferdowsi",
+    "url": "/wiki/entities/arashferdowsi/"
+  },
+  "ArcLanguage": {
+    "title": "Arc",
+    "url": "/wiki/entities/arclanguage/"
+  },
+  "AriRedbord": {
+    "title": "Ari Redbord",
+    "url": "/wiki/entities/ariredbord/"
+  },
   "Arkema": {
     "title": "Arkema",
     "url": "/wiki/entities/arkema/"
+  },
+  "ArmandBenard": {
+    "title": "Armand Benard",
+    "url": "/wiki/entities/armandbenard/"
   },
   "ArsenalFC": {
     "title": "Arsenal FC",
@@ -1003,6 +1227,18 @@
     "title": "Art Commerce Integration",
     "url": "/wiki/concepts/artcommerceintegration/"
   },
+  "ArtX": {
+    "title": "ArtX",
+    "url": "/wiki/entities/artx/"
+  },
+  "Artemis2": {
+    "title": "Artemis 2",
+    "url": "/wiki/entities/artemis2/"
+  },
+  "ArtemisAccords": {
+    "title": "Artemis Accords",
+    "url": "/wiki/entities/artemisaccords/"
+  },
   "AsItIsPractice": {
     "title": "As It Is Practice / 如其所是",
     "url": "/wiki/concepts/asitispractice/"
@@ -1010,6 +1246,14 @@
   "AsahiGroup": {
     "title": "Asahi Group / 朝日集团",
     "url": "/wiki/entities/asahigroup/"
+  },
+  "Asana": {
+    "title": "Asana",
+    "url": "/wiki/entities/asana/"
+  },
+  "AskJeeves": {
+    "title": "Ask Jeeves",
+    "url": "/wiki/entities/askjeeves/"
   },
   "AssetAllocation": {
     "title": "Asset Allocation",
@@ -1051,6 +1295,10 @@
     "title": "Asymmetric Payoff",
     "url": "/wiki/concepts/asymmetricpayoff/"
   },
+  "AtHomePreventiveHealth": {
+    "title": "At-Home Preventive Health",
+    "url": "/wiki/concepts/athomepreventivehealth/"
+  },
   "AthleteSponsorshipStrategy": {
     "title": "Athlete Sponsorship Strategy",
     "url": "/wiki/concepts/athletesponsorshipstrategy/"
@@ -1079,6 +1327,10 @@
     "title": "Authentic Neighborhood Experience",
     "url": "/wiki/concepts/authenticneighborhoodexperience/"
   },
+  "AuthenticationLedMarketplaceTrust": {
+    "title": "Authentication-Led Marketplace Trust",
+    "url": "/wiki/concepts/authenticationledmarketplacetrust/"
+  },
   "AutisticTime": {
     "title": "Autistic Time",
     "url": "/wiki/concepts/autistictime/"
@@ -1103,6 +1355,14 @@
     "title": "Automated Performance Marketing",
     "url": "/wiki/concepts/automatedperformancemarketing/"
   },
+  "AutomaticAuctions": {
+    "title": "Automatic / Automatic Auctions",
+    "url": "/wiki/entities/automaticauctions/"
+  },
+  "AutonomousVehicleSafetyBenchmark": {
+    "title": "Autonomous Vehicle Safety Benchmark",
+    "url": "/wiki/concepts/autonomousvehiclesafetybenchmark/"
+  },
   "AveragingDown": {
     "title": "Averaging Down",
     "url": "/wiki/concepts/averagingdown/"
@@ -1126,6 +1386,14 @@
   "AxiomProver": {
     "title": "Axiom Prover",
     "url": "/wiki/entities/axiomprover/"
+  },
+  "Axios": {
+    "title": "Axios",
+    "url": "/wiki/entities/axios/"
+  },
+  "BASES": {
+    "title": "BASES",
+    "url": "/wiki/entities/bases/"
   },
   "BASF": {
     "title": "BASF",
@@ -1183,6 +1451,10 @@
     "title": "Bambu Lab / 拓竹科技",
     "url": "/wiki/entities/bambulab/"
   },
+  "BandOfAngels": {
+    "title": "Band of Angels",
+    "url": "/wiki/entities/bandofangels/"
+  },
   "Bangladesh": {
     "title": "Bangladesh",
     "url": "/wiki/entities/bangladesh/"
@@ -1239,6 +1511,10 @@
     "title": "Banking Compliance Boundaries",
     "url": "/wiki/concepts/bankingcomplianceboundaries/"
   },
+  "BankingDDoSResilience": {
+    "title": "Banking DDoS Resilience",
+    "url": "/wiki/concepts/bankingddosresilience/"
+  },
   "BankingKYCCompliance": {
     "title": "Banking KYC Compliance",
     "url": "/wiki/concepts/bankingkyccompliance/"
@@ -1287,6 +1563,14 @@
     "title": "Bee Colony Collapse",
     "url": "/wiki/concepts/beecolonycollapse/"
   },
+  "Beeper": {
+    "title": "Beeper",
+    "url": "/wiki/entities/beeper/"
+  },
+  "BehaviorChangeBabySteps": {
+    "title": "Behavior Change Baby Steps",
+    "url": "/wiki/concepts/behaviorchangebabysteps/"
+  },
   "BehavioralInvestingBiases": {
     "title": "Behavioral Investing Biases",
     "url": "/wiki/concepts/behavioralinvestingbiases/"
@@ -1294,6 +1578,14 @@
   "Beibei": {
     "title": "贝贝网 / Beibei",
     "url": "/wiki/entities/beibei/"
+  },
+  "BenParr": {
+    "title": "Ben Parr",
+    "url": "/wiki/entities/benparr/"
+  },
+  "BenSchifrin": {
+    "title": "Ben Schifrin",
+    "url": "/wiki/entities/benschifrin/"
   },
   "Benfen": {
     "title": "Benfen / 本分",
@@ -1315,6 +1607,10 @@
     "title": "Bernie Madoff",
     "url": "/wiki/entities/berniemadoff/"
   },
+  "Bertelsmann": {
+    "title": "Bertelsmann",
+    "url": "/wiki/entities/bertelsmann/"
+  },
   "BessemerVenturePartners": {
     "title": "Bessemer Venture Partners",
     "url": "/wiki/entities/bessemerventurepartners/"
@@ -1322,6 +1618,14 @@
   "BestBuy": {
     "title": "Best Buy",
     "url": "/wiki/entities/bestbuy/"
+  },
+  "BetterMarkets": {
+    "title": "Better Markets",
+    "url": "/wiki/entities/bettermarkets/"
+  },
+  "BetterPlace": {
+    "title": "Better Place",
+    "url": "/wiki/entities/betterplace/"
   },
   "BeverageCategoryConvergence": {
     "title": "Beverage Category Convergence",
@@ -1334,6 +1638,14 @@
   "BilalErdogan": {
     "title": "Bilal Erdogan",
     "url": "/wiki/entities/bilalerdogan/"
+  },
+  "BillBishop": {
+    "title": "Bill Bishop",
+    "url": "/wiki/entities/billbishop/"
+  },
+  "BillClerico": {
+    "title": "Bill Clerico",
+    "url": "/wiki/entities/billclerico/"
   },
   "BillClinton": {
     "title": "Bill Clinton",
@@ -1355,6 +1667,14 @@
     "title": "Bitcoin",
     "url": "/wiki/entities/bitcoin/"
   },
+  "BitcoinSafeHavenBehavior": {
+    "title": "Bitcoin Safe-Haven Behavior",
+    "url": "/wiki/concepts/bitcoinsafehavenbehavior/"
+  },
+  "BlackBerry": {
+    "title": "BlackBerry",
+    "url": "/wiki/entities/blackberry/"
+  },
   "BlackSwan": {
     "title": "Black Swan",
     "url": "/wiki/concepts/blackswan/"
@@ -1367,13 +1687,29 @@
     "title": "Blackstone",
     "url": "/wiki/entities/blackstone/"
   },
+  "BlakeRoss": {
+    "title": "Blake Ross",
+    "url": "/wiki/entities/blakeross/"
+  },
   "BlueBottleCoffee": {
     "title": "Blue Bottle Coffee / 蓝瓶子",
     "url": "/wiki/entities/bluebottlecoffee/"
   },
+  "BlueDot": {
+    "title": "Blue Dot",
+    "url": "/wiki/entities/bluedot/"
+  },
   "BlueOwlCapital": {
     "title": "Blue Owl Capital",
     "url": "/wiki/entities/blueowlcapital/"
+  },
+  "BoSo": {
+    "title": "BoSo",
+    "url": "/wiki/entities/boso/"
+  },
+  "BobBozeman": {
+    "title": "Bob Bozeman",
+    "url": "/wiki/entities/bobbozeman/"
   },
   "BobSwan": {
     "title": "Bob Swan",
@@ -1382,6 +1718,14 @@
   "BobosOatBars": {
     "title": "Bobo's Oat Bars",
     "url": "/wiki/entities/bobosoatbars/"
+  },
+  "Boeing": {
+    "title": "Boeing",
+    "url": "/wiki/entities/boeing/"
+  },
+  "Bookface": {
+    "title": "Bookface",
+    "url": "/wiki/entities/bookface/"
   },
   "BookingHoldings": {
     "title": "Booking Holdings",
@@ -1403,9 +1747,17 @@
     "title": "Boston University",
     "url": "/wiki/entities/bostonuniversity/"
   },
+  "BottomUpEnterpriseDistribution": {
+    "title": "Bottom-Up Enterprise Distribution",
+    "url": "/wiki/concepts/bottomupenterprisedistribution/"
+  },
   "BoyuCapital": {
     "title": "Boyu Capital / 博裕资本",
     "url": "/wiki/entities/boyucapital/"
+  },
+  "BrandImpersonationMonitoring": {
+    "title": "Brand Impersonation Monitoring",
+    "url": "/wiki/concepts/brandimpersonationmonitoring/"
   },
   "BrawnGP": {
     "title": "Brawn GP",
@@ -1427,9 +1779,21 @@
     "title": "Brexit Regulatory Dividend",
     "url": "/wiki/concepts/brexitregulatorydividend/"
   },
+  "BrianArmstrong": {
+    "title": "Brian Armstrong",
+    "url": "/wiki/entities/brianarmstrong/"
+  },
+  "BrianChesky": {
+    "title": "Brian Chesky",
+    "url": "/wiki/entities/brianchesky/"
+  },
   "BrianSmith": {
     "title": "Brian Smith",
     "url": "/wiki/entities/briansmith/"
+  },
+  "BridgeLoadCapacity": {
+    "title": "Bridge Load Capacity",
+    "url": "/wiki/concepts/bridgeloadcapacity/"
   },
   "BridgewaterAssociates": {
     "title": "Bridgewater Associates",
@@ -1446,6 +1810,10 @@
   "BroadcastInfrastructureSunset": {
     "title": "Broadcast Infrastructure Sunset",
     "url": "/wiki/concepts/broadcastinfrastructuresunset/"
+  },
+  "BrookingsInstitution": {
+    "title": "Brookings Institution",
+    "url": "/wiki/entities/brookingsinstitution/"
   },
   "Brooks": {
     "title": "Brooks",
@@ -1466,6 +1834,14 @@
   "BuildABear": {
     "title": "Build-A-Bear",
     "url": "/wiki/entities/buildabear/"
+  },
+  "BuildForYourselfFounderFit": {
+    "title": "Build For Yourself Founder Fit",
+    "url": "/wiki/concepts/buildforyourselffounderfit/"
+  },
+  "BuilderCenteredInstitutions": {
+    "title": "Builder-Centered Institutions",
+    "url": "/wiki/concepts/buildercenteredinstitutions/"
   },
   "BuildingPublic": {
     "title": "Building Public",
@@ -1499,6 +1875,10 @@
     "title": "Business Roundtable",
     "url": "/wiki/entities/businessroundtable/"
   },
+  "BuzzFeed": {
+    "title": "BuzzFeed",
+    "url": "/wiki/entities/buzzfeed/"
+  },
   "ByteDance": {
     "title": "ByteDance",
     "url": "/wiki/entities/bytedance/"
@@ -1531,6 +1911,10 @@
     "title": "CPG Manufacturing Scale-Up",
     "url": "/wiki/concepts/cpgmanufacturingscaleup/"
   },
+  "CRV": {
+    "title": "CRV",
+    "url": "/wiki/entities/crv/"
+  },
   "CVCCapitalPartners": {
     "title": "CVC Capital Partners",
     "url": "/wiki/entities/cvccapitalpartners/"
@@ -1542,6 +1926,14 @@
   "CalculatingEmpires": {
     "title": "Calculating Empires",
     "url": "/wiki/entities/calculatingempires/"
+  },
+  "California": {
+    "title": "California",
+    "url": "/wiki/entities/california/"
+  },
+  "CaliforniaDeleteAct": {
+    "title": "California Delete Act",
+    "url": "/wiki/concepts/californiadeleteact/"
   },
   "CampusSpeechRegulation": {
     "title": "Campus Speech Regulation",
@@ -1563,6 +1955,10 @@
     "title": "Cao Xudong",
     "url": "/wiki/entities/caoxudong/"
   },
+  "CapTableLiteracy": {
+    "title": "Cap Table Literacy",
+    "url": "/wiki/concepts/captableliteracy/"
+  },
   "CapabilityOverhang": {
     "title": "Capability Overhang",
     "url": "/wiki/concepts/capabilityoverhang/"
@@ -1570,6 +1966,10 @@
   "CapitalAccountInvestmentRestrictions": {
     "title": "Capital Account Investment Restrictions",
     "url": "/wiki/concepts/capitalaccountinvestmentrestrictions/"
+  },
+  "CapitalEfficientStartupBuilding": {
+    "title": "Capital Efficient Startup Building",
+    "url": "/wiki/concepts/capitalefficientstartupbuilding/"
   },
   "CapitalMarketShellStory": {
     "title": "Capital Market Shell Story",
@@ -1582,6 +1982,10 @@
   "CarbonPlateRacingShoes": {
     "title": "Carbon Plate Racing Shoes",
     "url": "/wiki/concepts/carbonplateracingshoes/"
+  },
+  "CareCompanionProgram": {
+    "title": "Care Companion Program",
+    "url": "/wiki/entities/carecompanionprogram/"
   },
   "CareerOptionality": {
     "title": "Career Optionality",
@@ -1599,6 +2003,10 @@
     "title": "Carlota Perez",
     "url": "/wiki/entities/carlotaperez/"
   },
+  "CarlyUrban": {
+    "title": "Carly Urban",
+    "url": "/wiki/entities/carlyurban/"
+  },
   "CarolineBuck": {
     "title": "Caroline Buck",
     "url": "/wiki/entities/carolinebuck/"
@@ -1607,9 +2015,25 @@
     "title": "Carolyn Levy",
     "url": "/wiki/entities/carolynlevy/"
   },
+  "Carousel": {
+    "title": "Carousel",
+    "url": "/wiki/entities/carousel/"
+  },
+  "CarrieGeorge": {
+    "title": "Carrie George",
+    "url": "/wiki/entities/carriegeorge/"
+  },
   "CarryTradeUnwind": {
     "title": "Carry Trade Unwind",
     "url": "/wiki/concepts/carrytradeunwind/"
+  },
+  "Carta": {
+    "title": "Carta",
+    "url": "/wiki/entities/carta/"
+  },
+  "Casetext": {
+    "title": "Casetext",
+    "url": "/wiki/entities/casetext/"
   },
   "CaseyWhite": {
     "title": "Casey White",
@@ -1627,6 +2051,14 @@
     "title": "Category Creation",
     "url": "/wiki/concepts/categorycreation/"
   },
+  "CategoryFocusBeforeExpansion": {
+    "title": "Category Focus Before Expansion",
+    "url": "/wiki/concepts/categoryfocusbeforeexpansion/"
+  },
+  "Caterpillar": {
+    "title": "Caterpillar",
+    "url": "/wiki/entities/caterpillar/"
+  },
   "CausalAI": {
     "title": "Causal AI",
     "url": "/wiki/concepts/causalai/"
@@ -1634,6 +2066,14 @@
   "CausalWorldModels": {
     "title": "Causal World Models",
     "url": "/wiki/concepts/causalworldmodels/"
+  },
+  "CenterForNewAmericanSecurity": {
+    "title": "Center for a New American Security",
+    "url": "/wiki/entities/centerfornewamericansecurity/"
+  },
+  "CenterForStrategicAndInternationalStudies": {
+    "title": "Center for Strategic and International Studies",
+    "url": "/wiki/entities/centerforstrategicandinternationalstudies/"
   },
   "CentralBankIndependence": {
     "title": "Central Bank Independence",
@@ -1667,6 +2107,10 @@
     "title": "Character Relationship Story Logic",
     "url": "/wiki/concepts/characterrelationshipstorylogic/"
   },
+  "CharlesHenderson": {
+    "title": "Charles Henderson",
+    "url": "/wiki/entities/charleshenderson/"
+  },
   "CharlesPonzi": {
     "title": "Charles Ponzi",
     "url": "/wiki/entities/charlesponzi/"
@@ -1674,6 +2118,10 @@
   "CharlieMunger": {
     "title": "Charlie Munger",
     "url": "/wiki/entities/charliemunger/"
+  },
+  "CharlieSporck": {
+    "title": "Charlie Sporck",
+    "url": "/wiki/entities/charliesporck/"
   },
   "ChatGPT": {
     "title": "ChatGPT",
@@ -1718,6 +2166,10 @@
   "ChengmaiTechnology": {
     "title": "Chengmai Technology",
     "url": "/wiki/entities/chengmaitechnology/"
+  },
+  "ChildOnlineCommerceSafety": {
+    "title": "Child Online Commerce Safety",
+    "url": "/wiki/concepts/childonlinecommercesafety/"
   },
   "Chile": {
     "title": "Chile",
@@ -1799,6 +2251,18 @@
     "title": "Chinese Private Airline Opening",
     "url": "/wiki/concepts/chineseprivateairlineopening/"
   },
+  "ChipWar": {
+    "title": "Chip War",
+    "url": "/wiki/entities/chipwar/"
+  },
+  "ChrisBest": {
+    "title": "Chris Best",
+    "url": "/wiki/entities/chrisbest/"
+  },
+  "ChrisQuinn": {
+    "title": "Chris Quinn",
+    "url": "/wiki/entities/chrisquinn/"
+  },
   "ChristinaMolinaro": {
     "title": "Christina Molinaro",
     "url": "/wiki/entities/christinamolinaro/"
@@ -1806,6 +2270,10 @@
   "ChristinaTosi": {
     "title": "Christina Tosi",
     "url": "/wiki/entities/christinatosi/"
+  },
+  "ChristopherMiller": {
+    "title": "Christopher Miller",
+    "url": "/wiki/entities/christophermiller/"
   },
   "ChristyClement": {
     "title": "Christy Clement",
@@ -1815,9 +2283,17 @@
     "title": "春雨医生",
     "url": "/wiki/entities/chunyudoctor/"
   },
+  "CindyMcCaffrey": {
+    "title": "Cindy McCaffrey",
+    "url": "/wiki/entities/cindymccaffrey/"
+  },
   "CircleOfCompetence": {
     "title": "Circle Of Competence",
     "url": "/wiki/concepts/circleofcompetence/"
+  },
+  "Citadel": {
+    "title": "Citadel",
+    "url": "/wiki/entities/citadel/"
   },
   "CitizenScience": {
     "title": "Citizen Science",
@@ -1835,6 +2311,10 @@
     "title": "Civil Aviation Administration of China / 中国民航总局",
     "url": "/wiki/entities/civilaviationadministrationofchina/"
   },
+  "CivilLibertiesSurveillanceRisk": {
+    "title": "Civil Liberties Surveillance Risk",
+    "url": "/wiki/concepts/civillibertiessurveillancerisk/"
+  },
   "CivilizationalOptionality": {
     "title": "Civilizational Optionality",
     "url": "/wiki/concepts/civilizationaloptionality/"
@@ -1842,6 +2322,10 @@
   "ClaireIsabelWebb": {
     "title": "Claire Isabel Webb",
     "url": "/wiki/entities/claireisabelwebb/"
+  },
+  "Claude": {
+    "title": "Claude",
+    "url": "/wiki/entities/claude/"
   },
   "ClaudeCode": {
     "title": "Claude Code",
@@ -1871,13 +2355,33 @@
     "title": "Climate Adaptation",
     "url": "/wiki/concepts/climateadaptation/"
   },
+  "ClimateStartupCommercializationGap": {
+    "title": "Climate Startup Commercialization Gap",
+    "url": "/wiki/concepts/climatestartupcommercializationgap/"
+  },
   "CliptoAI": {
     "title": "Clipto AI",
     "url": "/wiki/entities/cliptoai/"
   },
+  "CloudStoragePhysicality": {
+    "title": "Cloud Storage Physicality",
+    "url": "/wiki/concepts/cloudstoragephysicality/"
+  },
   "Cloudflare": {
     "title": "Cloudflare",
     "url": "/wiki/entities/cloudflare/"
+  },
+  "CoCounsel": {
+    "title": "Co-Counsel",
+    "url": "/wiki/entities/cocounsel/"
+  },
+  "CoFounderConflict": {
+    "title": "Co-Founder Conflict",
+    "url": "/wiki/concepts/cofounderconflict/"
+  },
+  "Coalfire": {
+    "title": "Coalfire",
+    "url": "/wiki/entities/coalfire/"
   },
   "CoastAirService": {
     "title": "Coast Air Service",
@@ -1907,9 +2411,17 @@
     "title": "Cognition",
     "url": "/wiki/entities/cognition/"
   },
+  "Coinbase": {
+    "title": "Coinbase",
+    "url": "/wiki/entities/coinbase/"
+  },
   "ColdChainCPGConstraint": {
     "title": "Cold-Chain CPG Constraint",
     "url": "/wiki/concepts/coldchaincpgconstraint/"
+  },
+  "CollabCapital": {
+    "title": "Collab Capital",
+    "url": "/wiki/entities/collabcapital/"
   },
   "CollegeCareerPreparation": {
     "title": "College Career Preparation",
@@ -1930,6 +2442,14 @@
   "ColumbiaUniversity": {
     "title": "Columbia University",
     "url": "/wiki/entities/columbiauniversity/"
+  },
+  "CommercialOffTheShelfWeaponization": {
+    "title": "Commercial Off-The-Shelf Weaponization",
+    "url": "/wiki/concepts/commercialofftheshelfweaponization/"
+  },
+  "CommodityFuturesTradingCommission": {
+    "title": "Commodity Futures Trading Commission",
+    "url": "/wiki/entities/commodityfuturestradingcommission/"
   },
   "CommodityPriceExposure": {
     "title": "Commodity Price Exposure",
@@ -1963,6 +2483,10 @@
     "title": "Compliance Automation",
     "url": "/wiki/concepts/complianceautomation/"
   },
+  "CompoundStartup": {
+    "title": "Compound Startup",
+    "url": "/wiki/concepts/compoundstartup/"
+  },
   "CompoundingGrowthFormula": {
     "title": "Compounding Growth Formula",
     "url": "/wiki/concepts/compoundinggrowthformula/"
@@ -1971,6 +2495,18 @@
     "title": "Computer Use Agent",
     "url": "/wiki/concepts/computeruseagent/"
   },
+  "ComputingEnrollmentDecline": {
+    "title": "Computing Enrollment Decline",
+    "url": "/wiki/concepts/computingenrollmentdecline/"
+  },
+  "ComputingResearchAssociation": {
+    "title": "Computing Research Association",
+    "url": "/wiki/entities/computingresearchassociation/"
+  },
+  "ComputingResearchPipeline": {
+    "title": "Computing Research Pipeline",
+    "url": "/wiki/concepts/computingresearchpipeline/"
+  },
   "ConceptLedHospitality": {
     "title": "Concept Led Hospitality",
     "url": "/wiki/concepts/conceptledhospitality/"
@@ -1978,6 +2514,10 @@
   "ConcertResidencyEconomics": {
     "title": "Concert Residency Economics",
     "url": "/wiki/concepts/concertresidencyeconomics/"
+  },
+  "CondeNast": {
+    "title": "Conde Nast",
+    "url": "/wiki/entities/condenast/"
   },
   "ConsciousnessMeasurement": {
     "title": "Consciousness Measurement",
@@ -2007,13 +2547,29 @@
     "title": "Consumer Brand Moat",
     "url": "/wiki/concepts/consumerbrandmoat/"
   },
+  "ConsumerCameraSurveillance": {
+    "title": "Consumer Camera Surveillance",
+    "url": "/wiki/concepts/consumercamerasurveillance/"
+  },
+  "ConsumerDataDeletion": {
+    "title": "Consumer Data Deletion",
+    "url": "/wiki/concepts/consumerdatadeletion/"
+  },
   "ConsumerElectronicsLifecycle": {
     "title": "Consumer Electronics Lifecycle",
     "url": "/wiki/concepts/consumerelectronicslifecycle/"
   },
+  "ConsumerHardwareStartupRisk": {
+    "title": "Consumer Hardware Startup Risk",
+    "url": "/wiki/concepts/consumerhardwarestartuprisk/"
+  },
   "ConsumerLoanRisk": {
     "title": "Consumer Loan Risk",
     "url": "/wiki/concepts/consumerloanrisk/"
+  },
+  "ConsumerReports": {
+    "title": "Consumer Reports",
+    "url": "/wiki/entities/consumerreports/"
   },
   "ConsumerRoboticsFullStack": {
     "title": "Consumer Robotics Full Stack",
@@ -2051,6 +2607,10 @@
     "title": "Contrarian Sentiment Indicators",
     "url": "/wiki/concepts/contrariansentimentindicators/"
   },
+  "ConvectiveCapital": {
+    "title": "Convective Capital",
+    "url": "/wiki/entities/convectivecapital/"
+  },
   "ConvexityExposure": {
     "title": "Convexity Exposure",
     "url": "/wiki/concepts/convexityexposure/"
@@ -2063,6 +2623,10 @@
     "title": "Cooling As Public Health",
     "url": "/wiki/concepts/coolingaspublichealth/"
   },
+  "CopyrightPlatformConflict": {
+    "title": "Copyright Platform Conflict",
+    "url": "/wiki/concepts/copyrightplatformconflict/"
+  },
   "CoreyStaley": {
     "title": "Corey Staley",
     "url": "/wiki/entities/coreystaley/"
@@ -2070,6 +2634,10 @@
   "CorporateHospitalityPlatform": {
     "title": "Corporate Hospitality Platform",
     "url": "/wiki/concepts/corporatehospitalityplatform/"
+  },
+  "CorporateOwnedStartupConstraints": {
+    "title": "Corporate-Owned Startup Constraints",
+    "url": "/wiki/concepts/corporateownedstartupconstraints/"
   },
   "Cosmos3": {
     "title": "Cosmos 3",
@@ -2086,6 +2654,10 @@
   "CottonClara": {
     "title": "Cotton Clara",
     "url": "/wiki/entities/cottonclara/"
+  },
+  "CounterDroneLayeredDefense": {
+    "title": "Counter-Drone Layered Defense",
+    "url": "/wiki/concepts/counterdronelayereddefense/"
   },
   "CouponLedTransactionGrowth": {
     "title": "Coupon-Led Transaction Growth",
@@ -2115,6 +2687,10 @@
     "title": "Creator Culture",
     "url": "/wiki/concepts/creatorculture/"
   },
+  "CreatorOwnedAudience": {
+    "title": "Creator-Owned Audience",
+    "url": "/wiki/concepts/creatorownedaudience/"
+  },
   "CreditCardDebtMechanics": {
     "title": "Credit Card Debt Mechanics",
     "url": "/wiki/concepts/creditcarddebtmechanics/"
@@ -2127,6 +2703,10 @@
     "title": "Crimea",
     "url": "/wiki/entities/crimea/"
   },
+  "CrisisStakeholderLeadership": {
+    "title": "Crisis Stakeholder Leadership",
+    "url": "/wiki/concepts/crisisstakeholderleadership/"
+  },
   "CriticalMineralsGeopolitics": {
     "title": "Critical Minerals Geopolitics",
     "url": "/wiki/concepts/criticalmineralsgeopolitics/"
@@ -2134,6 +2714,10 @@
   "CrossBorderBrokerageRegulation": {
     "title": "Cross-Border Brokerage Regulation",
     "url": "/wiki/concepts/crossborderbrokerageregulation/"
+  },
+  "CrossBorderCryptoCapitalFlight": {
+    "title": "Cross-Border Crypto Capital Flight",
+    "url": "/wiki/concepts/crossbordercryptocapitalflight/"
   },
   "CrossBorderFundTransferRisk": {
     "title": "Cross-Border Fund Transfer Risk",
@@ -2158,6 +2742,10 @@
   "Cruise": {
     "title": "Cruise",
     "url": "/wiki/entities/cruise/"
+  },
+  "CryptoConsumerConfidence": {
+    "title": "Crypto Consumer Confidence",
+    "url": "/wiki/concepts/cryptoconsumerconfidence/"
   },
   "CryptocurrencyMarketStructure": {
     "title": "Cryptocurrency Market Structure",
@@ -2203,6 +2791,14 @@
     "title": "Cyber Avatars",
     "url": "/wiki/concepts/cyberavatars/"
   },
+  "CyberDataTheftAndLeakOperations": {
+    "title": "Cyber Data Theft and Leak Operations",
+    "url": "/wiki/concepts/cyberdatatheftandleakoperations/"
+  },
+  "DADavidson": {
+    "title": "D.A. Davidson",
+    "url": "/wiki/entities/dadavidson/"
+  },
   "DJI": {
     "title": "DJI / 大疆",
     "url": "/wiki/entities/dji/"
@@ -2223,17 +2819,37 @@
     "title": "Dai Yusen / 戴雨森",
     "url": "/wiki/entities/daiyusen/"
   },
+  "DailyMail": {
+    "title": "Daily Mail",
+    "url": "/wiki/entities/dailymail/"
+  },
   "DairyQueen": {
     "title": "Dairy Queen",
     "url": "/wiki/entities/dairyqueen/"
+  },
+  "Daishen": {
+    "title": "Daishen",
+    "url": "/wiki/entities/daishen/"
+  },
+  "DaliContainerShip": {
+    "title": "Dali Container Ship",
+    "url": "/wiki/entities/dalicontainership/"
   },
   "Damai": {
     "title": "Damai",
     "url": "/wiki/entities/damai/"
   },
+  "DanAckerman": {
+    "title": "Dan Ackerman",
+    "url": "/wiki/entities/danackerman/"
+  },
   "DanDavies": {
     "title": "Dan Davies",
     "url": "/wiki/entities/dandavies/"
+  },
+  "DanLevine": {
+    "title": "Dan Levine",
+    "url": "/wiki/entities/danlevine/"
   },
   "Dangdang": {
     "title": "当当 / Dangdang",
@@ -2247,9 +2863,17 @@
     "title": "Daniel Franklin",
     "url": "/wiki/entities/danielfranklin/"
   },
+  "DanielKan": {
+    "title": "Daniel Kan",
+    "url": "/wiki/entities/danielkan/"
+  },
   "DanielKnowles": {
     "title": "Daniel Knowles",
     "url": "/wiki/entities/danielknowles/"
+  },
+  "DanielNewman": {
+    "title": "Daniel Newman",
+    "url": "/wiki/entities/danielnewman/"
   },
   "DannyJenkins": {
     "title": "Danny Jenkins",
@@ -2283,6 +2907,10 @@
     "title": "Data As Education",
     "url": "/wiki/concepts/dataaseducation/"
   },
+  "DataBrokerLoophole": {
+    "title": "Data Broker Loophole",
+    "url": "/wiki/concepts/databrokerloophole/"
+  },
   "DataCenterBacklash": {
     "title": "Data Center Backlash",
     "url": "/wiki/concepts/datacenterbacklash/"
@@ -2294,6 +2922,10 @@
   "DataCenterDebtRisk": {
     "title": "Data Center Debt Risk",
     "url": "/wiki/concepts/datacenterdebtrisk/"
+  },
+  "DataCenterOnsitePower": {
+    "title": "Data Center Onsite Power",
+    "url": "/wiki/concepts/datacenteronsitepower/"
   },
   "DataCenterPhysicalResilience": {
     "title": "Data Center Physical Resilience",
@@ -2339,9 +2971,21 @@
     "title": "Database Cloud Service Commercialization",
     "url": "/wiki/concepts/databasecloudservicecommercialization/"
   },
+  "DaveJackson": {
+    "title": "Dave Jackson",
+    "url": "/wiki/entities/davejackson/"
+  },
+  "DaveReibstein": {
+    "title": "Dave Reibstein",
+    "url": "/wiki/entities/davereibstein/"
+  },
   "DavidCameron": {
     "title": "David Cameron",
     "url": "/wiki/entities/davidcameron/"
+  },
+  "DavidCheriton": {
+    "title": "David Cheriton",
+    "url": "/wiki/entities/davidcheriton/"
   },
   "DavidEllison": {
     "title": "David Ellison",
@@ -2350,6 +2994,22 @@
   "DavidLieb": {
     "title": "David Lieb",
     "url": "/wiki/entities/davidlieb/"
+  },
+  "DavidRusenko": {
+    "title": "David Rusenko",
+    "url": "/wiki/entities/davidrusenko/"
+  },
+  "DavidSacks": {
+    "title": "David Sacks",
+    "url": "/wiki/entities/davidsacks/"
+  },
+  "DavidVictor": {
+    "title": "David Victor",
+    "url": "/wiki/entities/davidvictor/"
+  },
+  "Davines": {
+    "title": "Davines",
+    "url": "/wiki/entities/davines/"
   },
   "Daxiong": {
     "title": "大雄",
@@ -2391,6 +3051,22 @@
     "title": "Default Deny Security",
     "url": "/wiki/concepts/defaultdenysecurity/"
   },
+  "DefenseAIProcurement": {
+    "title": "Defense AI Procurement",
+    "url": "/wiki/concepts/defenseaiprocurement/"
+  },
+  "DefenseAISupplyChainRisk": {
+    "title": "Defense AI Supply Chain Risk",
+    "url": "/wiki/concepts/defenseaisupplychainrisk/"
+  },
+  "DefenseRoboticsMaintenance": {
+    "title": "Defense Robotics Maintenance",
+    "url": "/wiki/concepts/defenseroboticsmaintenance/"
+  },
+  "DefenseTechStartupProcurement": {
+    "title": "Defense Tech Startup Procurement",
+    "url": "/wiki/concepts/defensetechstartupprocurement/"
+  },
   "DefensiveDividendAssets": {
     "title": "Defensive Dividend Assets",
     "url": "/wiki/concepts/defensivedividendassets/"
@@ -2399,9 +3075,25 @@
     "title": "Delcy Rodriguez",
     "url": "/wiki/entities/delcyrodriguez/"
   },
+  "DelegatedWebResearch": {
+    "title": "Delegated Web Research",
+    "url": "/wiki/concepts/delegatedwebresearch/"
+  },
+  "DeleteRequestAndOptOutPlatform": {
+    "title": "Delete Request and Opt Out Platform",
+    "url": "/wiki/entities/deleterequestandoptoutplatform/"
+  },
+  "Delicious": {
+    "title": "Delicious",
+    "url": "/wiki/entities/delicious/"
+  },
   "DemandHarvesting": {
     "title": "Demand Harvesting",
     "url": "/wiki/concepts/demandharvesting/"
+  },
+  "DemandShockProductMarketFit": {
+    "title": "Demand Shock Product-Market Fit",
+    "url": "/wiki/concepts/demandshockproductmarketfit/"
   },
   "DemocracyInAmerica": {
     "title": "Democracy in America",
@@ -2419,6 +3111,10 @@
     "title": "Derivative Amplified Volatility",
     "url": "/wiki/concepts/derivativeamplifiedvolatility/"
   },
+  "DesignForOnePerson": {
+    "title": "Design For One Person",
+    "url": "/wiki/concepts/designforoneperson/"
+  },
   "DesignLedGrowth": {
     "title": "Design Led Growth",
     "url": "/wiki/concepts/designledgrowth/"
@@ -2434,6 +3130,10 @@
   "DeterministicAuditData": {
     "title": "Deterministic Audit Data",
     "url": "/wiki/concepts/deterministicauditdata/"
+  },
+  "DeveloperFirstPaymentInfrastructure": {
+    "title": "Developer-First Payment Infrastructure",
+    "url": "/wiki/concepts/developerfirstpaymentinfrastructure/"
   },
   "Devin": {
     "title": "Devin",
@@ -2455,6 +3155,18 @@
     "title": "Diffusion Transformers",
     "url": "/wiki/concepts/diffusiontransformers/"
   },
+  "Digg": {
+    "title": "Digg",
+    "url": "/wiki/entities/digg/"
+  },
+  "DigitalBedrock": {
+    "title": "Digital Bedrock",
+    "url": "/wiki/entities/digitalbedrock/"
+  },
+  "DigitalCommerceLiteracy": {
+    "title": "Digital Commerce Literacy",
+    "url": "/wiki/concepts/digitalcommerceliteracy/"
+  },
   "DigitalEmployees": {
     "title": "Digital Employees",
     "url": "/wiki/concepts/digitalemployees/"
@@ -2467,6 +3179,10 @@
     "title": "Digital Game Ownership Anxiety",
     "url": "/wiki/concepts/digitalgameownershipanxiety/"
   },
+  "DigitalGold": {
+    "title": "Digital Gold",
+    "url": "/wiki/concepts/digitalgold/"
+  },
   "DigitalHealthCommunity": {
     "title": "数字健共体",
     "url": "/wiki/concepts/digitalhealthcommunity/"
@@ -2475,13 +3191,29 @@
     "title": "Digital Infrastructure War Risk",
     "url": "/wiki/concepts/digitalinfrastructurewarrisk/"
   },
+  "DigitalMemorialization": {
+    "title": "Digital Memorialization",
+    "url": "/wiki/concepts/digitalmemorialization/"
+  },
+  "DigitalMusicLicensing": {
+    "title": "Digital Music Licensing",
+    "url": "/wiki/concepts/digitalmusiclicensing/"
+  },
   "DigitalNomadCommunityBuilding": {
     "title": "Digital Nomad Community Building",
     "url": "/wiki/concepts/digitalnomadcommunitybuilding/"
   },
+  "DigitalPreservation": {
+    "title": "Digital Preservation",
+    "url": "/wiki/concepts/digitalpreservation/"
+  },
   "Dimensity9500": {
     "title": "Dimensity 9500",
     "url": "/wiki/entities/dimensity9500/"
+  },
+  "DimitriDadiomov": {
+    "title": "Dimitri Dadiomov",
+    "url": "/wiki/entities/dimitridadiomov/"
   },
   "DingTalk": {
     "title": "DingTalk",
@@ -2527,6 +3259,10 @@
     "title": "Display Ergonomics",
     "url": "/wiki/concepts/displayergonomics/"
   },
+  "DistributionBeforeMonetization": {
+    "title": "Distribution Before Monetization",
+    "url": "/wiki/concepts/distributionbeforemonetization/"
+  },
   "DistributionLedProductBuilding": {
     "title": "Distribution Led Product Building",
     "url": "/wiki/concepts/distributionledproductbuilding/"
@@ -2542,6 +3278,10 @@
   "DividendDiscountModel": {
     "title": "Dividend Discount Model",
     "url": "/wiki/concepts/dividenddiscountmodel/"
+  },
+  "DoTooMuchFounderPhilosophy": {
+    "title": "Do Too Much Founder Philosophy",
+    "url": "/wiki/concepts/dotoomuchfounderphilosophy/"
   },
   "Docky": {
     "title": "Docky",
@@ -2570,6 +3310,10 @@
   "DominicWindhamGiddens": {
     "title": "Dominic Windham-Giddens",
     "url": "/wiki/entities/dominicwindhamgiddens/"
+  },
+  "DonValentine": {
+    "title": "Don Valentine",
+    "url": "/wiki/entities/donvalentine/"
   },
   "DonaldTrump": {
     "title": "Donald Trump",
@@ -2615,6 +3359,10 @@
     "title": "Douyin Lite",
     "url": "/wiki/entities/douyinlite/"
   },
+  "DraftKings": {
+    "title": "DraftKings",
+    "url": "/wiki/entities/draftkings/"
+  },
   "DragonSpacecraft": {
     "title": "Dragon Spacecraft",
     "url": "/wiki/entities/dragonspacecraft/"
@@ -2623,9 +3371,29 @@
     "title": "Drawdown Psychology",
     "url": "/wiki/concepts/drawdownpsychology/"
   },
+  "DrewHouston": {
+    "title": "Drew Houston",
+    "url": "/wiki/entities/drewhouston/"
+  },
   "DriveToSurvive": {
     "title": "Drive to Survive",
     "url": "/wiki/entities/drivetosurvive/"
+  },
+  "DroneDecoyEconomics": {
+    "title": "Drone Decoy Economics",
+    "url": "/wiki/concepts/dronedecoyeconomics/"
+  },
+  "DroneDefenseEconomics": {
+    "title": "Drone Defense Economics",
+    "url": "/wiki/concepts/dronedefenseeconomics/"
+  },
+  "Dropbox": {
+    "title": "Dropbox",
+    "url": "/wiki/entities/dropbox/"
+  },
+  "DropboxDash": {
+    "title": "Dropbox Dash",
+    "url": "/wiki/entities/dropboxdash/"
   },
   "DuShaolei": {
     "title": "Du Shaolei",
@@ -2646,6 +3414,10 @@
   "DynamicBalancingRobotics": {
     "title": "Dynamic Balancing Robotics",
     "url": "/wiki/concepts/dynamicbalancingrobotics/"
+  },
+  "EAB": {
+    "title": "EAB",
+    "url": "/wiki/entities/eab/"
   },
   "EBCo": {
     "title": "EB&Co",
@@ -2679,6 +3451,10 @@
     "title": "易趣 / EachNet",
     "url": "/wiki/entities/eachnet/"
   },
+  "EarlyFintechFraudControls": {
+    "title": "Early Fintech Fraud Controls",
+    "url": "/wiki/concepts/earlyfintechfraudcontrols/"
+  },
   "EarningsExpectationGap": {
     "title": "Earnings Expectation Gap",
     "url": "/wiki/concepts/earningsexpectationgap/"
@@ -2698,6 +3474,10 @@
   "EastStarGroup": {
     "title": "East Star Group / 东星集团",
     "url": "/wiki/entities/eaststargroup/"
+  },
+  "EchoLocker": {
+    "title": "Echo Locker",
+    "url": "/wiki/entities/echolocker/"
   },
   "EcoFlow": {
     "title": "EcoFlow / 正浩",
@@ -2719,6 +3499,10 @@
     "title": "Ecommerce Surface Metrics Risk",
     "url": "/wiki/concepts/ecommercesurfacemetricsrisk/"
   },
+  "EconomicClimateTechAdoption": {
+    "title": "Economic Climate Tech Adoption",
+    "url": "/wiki/concepts/economicclimatetechadoption/"
+  },
   "EconomistPodcasts": {
     "title": "Economist Podcasts",
     "url": "/wiki/entities/economistpodcasts/"
@@ -2727,9 +3511,17 @@
     "title": "Ed Miliband",
     "url": "/wiki/entities/edmiliband/"
   },
+  "EddyLu": {
+    "title": "Eddy Lu",
+    "url": "/wiki/entities/eddylu/"
+  },
   "EdgeCloudAIBoundary": {
     "title": "Edge-Cloud AI Boundary",
     "url": "/wiki/concepts/edgecloudaiboundary/"
+  },
+  "EdithElliott": {
+    "title": "Edith Elliott",
+    "url": "/wiki/entities/edithelliott/"
   },
   "EdouardPhilippe": {
     "title": "Edouard Philippe",
@@ -2783,6 +3575,14 @@
     "title": "Electoral Mandate",
     "url": "/wiki/concepts/electoralmandate/"
   },
+  "ElectricAir": {
+    "title": "Electric Air",
+    "url": "/wiki/entities/electricair/"
+  },
+  "ElectronicPrivacyInformationCenter": {
+    "title": "Electronic Privacy Information Center",
+    "url": "/wiki/entities/electronicprivacyinformationcenter/"
+  },
   "ElieWiesel": {
     "title": "Elie Wiesel",
     "url": "/wiki/entities/eliewiesel/"
@@ -2835,6 +3635,10 @@
     "title": "Emmanuel Macron",
     "url": "/wiki/entities/emmanuelmacron/"
   },
+  "EmmettShear": {
+    "title": "Emmett Shear",
+    "url": "/wiki/entities/emmettshear/"
+  },
   "EmotionalInteractionModels": {
     "title": "Emotional Interaction Models",
     "url": "/wiki/concepts/emotionalinteractionmodels/"
@@ -2842,6 +3646,18 @@
   "EmperorNaruhito": {
     "title": "Emperor Naruhito",
     "url": "/wiki/entities/emperornaruhito/"
+  },
+  "EmployeeEquityCommunication": {
+    "title": "Employee Equity Communication",
+    "url": "/wiki/concepts/employeeequitycommunication/"
+  },
+  "EmployeeGraph": {
+    "title": "Employee Graph",
+    "url": "/wiki/concepts/employeegraph/"
+  },
+  "EmployeeSeveranceAtShutdown": {
+    "title": "Employee Severance at Shutdown",
+    "url": "/wiki/concepts/employeeseveranceatshutdown/"
   },
   "EnergyTradingScaleAdvantage": {
     "title": "Energy Trading Scale Advantage",
@@ -2859,6 +3675,10 @@
     "title": "Enterprise Agent Store",
     "url": "/wiki/concepts/enterpriseagentstore/"
   },
+  "EnterpriseFileSync": {
+    "title": "Enterprise File Sync",
+    "url": "/wiki/concepts/enterprisefilesync/"
+  },
   "EnterpriseOwnedModels": {
     "title": "Enterprise Owned Models",
     "url": "/wiki/concepts/enterpriseownedmodels/"
@@ -2875,17 +3695,37 @@
     "title": "Entrepreneurship Infrastructure",
     "url": "/wiki/concepts/entrepreneurshipinfrastructure/"
   },
+  "EnvelopeExpansionDeployment": {
+    "title": "Envelope Expansion Deployment",
+    "url": "/wiki/concepts/envelopeexpansiondeployment/"
+  },
+  "EquityCompensationUpside": {
+    "title": "Equity Compensation Upside",
+    "url": "/wiki/concepts/equitycompensationupside/"
+  },
   "EricLiZhiqiang": {
     "title": "Eric Li Zhiqiang / 李志强",
     "url": "/wiki/entities/ericlizhiqiang/"
+  },
+  "EricMigicovsky": {
+    "title": "Eric Migicovsky",
+    "url": "/wiki/entities/ericmigicovsky/"
   },
   "EricRies": {
     "title": "Eric Ries",
     "url": "/wiki/entities/ericries/"
   },
+  "EricSchmidt": {
+    "title": "Eric Schmidt",
+    "url": "/wiki/entities/ericschmidt/"
+  },
   "Ericsson": {
     "title": "Ericsson",
     "url": "/wiki/entities/ericsson/"
+  },
+  "ErinGriffith": {
+    "title": "Erin Griffith",
+    "url": "/wiki/entities/eringriffith/"
   },
   "EscapeMyBubble": {
     "title": "Escape My Bubble",
@@ -2899,6 +3739,10 @@
     "title": "European AI Industrial Constraints",
     "url": "/wiki/concepts/europeanaiindustrialconstraints/"
   },
+  "EuropeanCommission": {
+    "title": "European Commission",
+    "url": "/wiki/entities/europeancommission/"
+  },
   "EuropeanDefenseAutonomy": {
     "title": "European Defense Autonomy",
     "url": "/wiki/concepts/europeandefenseautonomy/"
@@ -2910,6 +3754,10 @@
   "EvanMoore": {
     "title": "Evan Moore",
     "url": "/wiki/entities/evanmoore/"
+  },
+  "EventContractManipulationRisk": {
+    "title": "Event Contract Manipulation Risk",
+    "url": "/wiki/concepts/eventcontractmanipulationrisk/"
   },
   "EverythingAgent": {
     "title": "Everything Agent",
@@ -2971,9 +3819,17 @@
     "title": "FIFA World Cup",
     "url": "/wiki/entities/fifaworldcup/"
   },
+  "FINRAFoundation": {
+    "title": "FINRA Foundation",
+    "url": "/wiki/entities/finrafoundation/"
+  },
   "FOFProductDesign": {
     "title": "FOF Product Design",
     "url": "/wiki/concepts/fofproductdesign/"
+  },
+  "FTX": {
+    "title": "FTX",
+    "url": "/wiki/entities/ftx/"
   },
   "Fable5": {
     "title": "Fable 5",
@@ -2983,6 +3839,10 @@
     "title": "Fake Investment Platform Risk",
     "url": "/wiki/concepts/fakeinvestmentplatformrisk/"
   },
+  "FakeRetailWebsiteImpersonation": {
+    "title": "Fake Retail Website Impersonation",
+    "url": "/wiki/concepts/fakeretailwebsiteimpersonation/"
+  },
   "Falcon9": {
     "title": "Falcon 9",
     "url": "/wiki/entities/falcon9/"
@@ -2990,6 +3850,10 @@
   "FamilyBusinessScaling": {
     "title": "Family Business Scaling",
     "url": "/wiki/concepts/familybusinessscaling/"
+  },
+  "FamilyCaregiverTraining": {
+    "title": "Family Caregiver Training",
+    "url": "/wiki/concepts/familycaregivertraining/"
   },
   "FamilyDollar": {
     "title": "Family Dollar",
@@ -3050,6 +3914,10 @@
   "FeaturePhoneCulturalMemory": {
     "title": "Feature Phone Cultural Memory",
     "url": "/wiki/concepts/featurephoneculturalmemory/"
+  },
+  "FedNow": {
+    "title": "FedNow",
+    "url": "/wiki/entities/fednow/"
   },
   "FederalReserve": {
     "title": "Federal Reserve",
@@ -3123,9 +3991,17 @@
     "title": "Financial Gravity",
     "url": "/wiki/concepts/financialgravity/"
   },
+  "FinancialLiteracyMeasurement": {
+    "title": "Financial Literacy Measurement",
+    "url": "/wiki/concepts/financialliteracymeasurement/"
+  },
   "FinancialModelRisk": {
     "title": "Financial Model Risk",
     "url": "/wiki/concepts/financialmodelrisk/"
+  },
+  "FinancialOperationsResilience": {
+    "title": "Financial Operations Resilience",
+    "url": "/wiki/concepts/financialoperationsresilience/"
   },
   "FinancialPlatformIncentives": {
     "title": "Financial Platform Incentives",
@@ -3139,9 +4015,21 @@
     "title": "Financial Statement Analysis",
     "url": "/wiki/concepts/financialstatementanalysis/"
   },
+  "FinancialTimes": {
+    "title": "Financial Times",
+    "url": "/wiki/entities/financialtimes/"
+  },
   "Financo": {
     "title": "Financo",
     "url": "/wiki/entities/financo/"
+  },
+  "FireTechClimateResilience": {
+    "title": "Fire Tech Climate Resilience",
+    "url": "/wiki/concepts/firetechclimateresilience/"
+  },
+  "FirstDraftThinking": {
+    "title": "First Draft Thinking",
+    "url": "/wiki/concepts/firstdraftthinking/"
   },
   "FirstPrinciplesManufacturing": {
     "title": "First Principles Manufacturing",
@@ -3155,6 +4043,10 @@
     "title": "Fit For Life",
     "url": "/wiki/entities/fitforlife/"
   },
+  "Fitbit": {
+    "title": "Fitbit",
+    "url": "/wiki/entities/fitbit/"
+  },
   "FiveGRobotics": {
     "title": "5G Robotics",
     "url": "/wiki/entities/fivegrobotics/"
@@ -3167,9 +4059,17 @@
     "title": "Flock",
     "url": "/wiki/entities/flock/"
   },
+  "FlockSafety": {
+    "title": "Flock Safety",
+    "url": "/wiki/entities/flocksafety/"
+  },
   "Flora": {
     "title": "Flora",
     "url": "/wiki/entities/flora/"
+  },
+  "Florida": {
+    "title": "Florida",
+    "url": "/wiki/entities/florida/"
   },
   "FlowEnvironmentDesign": {
     "title": "Flow Environment Design",
@@ -3259,9 +4159,41 @@
     "title": "Founder Cash Flow Constraint",
     "url": "/wiki/concepts/foundercashflowconstraint/"
   },
+  "FounderControl": {
+    "title": "Founder Control",
+    "url": "/wiki/concepts/foundercontrol/"
+  },
+  "FounderCrisisMediation": {
+    "title": "Founder Crisis Mediation",
+    "url": "/wiki/concepts/foundercrisismediation/"
+  },
+  "FounderDelegationDiscipline": {
+    "title": "Founder Delegation Discipline",
+    "url": "/wiki/concepts/founderdelegationdiscipline/"
+  },
   "FounderEgo": {
     "title": "Founder Ego",
     "url": "/wiki/concepts/founderego/"
+  },
+  "FounderEquityDilution": {
+    "title": "Founder Equity Dilution",
+    "url": "/wiki/concepts/founderequitydilution/"
+  },
+  "FounderFriendlyInvestorSupport": {
+    "title": "Founder Friendly Investor Support",
+    "url": "/wiki/concepts/founderfriendlyinvestorsupport/"
+  },
+  "FounderHealthDebt": {
+    "title": "Founder Health Debt",
+    "url": "/wiki/concepts/founderhealthdebt/"
+  },
+  "FounderHonesty": {
+    "title": "Founder Honesty",
+    "url": "/wiki/concepts/founderhonesty/"
+  },
+  "FounderIdeaPivot": {
+    "title": "Founder Idea Pivot",
+    "url": "/wiki/concepts/founderideapivot/"
   },
   "FounderIdentityDiversification": {
     "title": "Founder Identity Diversification",
@@ -3271,9 +4203,25 @@
     "title": "Founder-Investor Learning",
     "url": "/wiki/concepts/founderinvestorlearning/"
   },
+  "FounderLedFunctionalOrganization": {
+    "title": "Founder-Led Functional Organization",
+    "url": "/wiki/concepts/founderledfunctionalorganization/"
+  },
+  "FounderLedSales": {
+    "title": "Founder-Led Sales",
+    "url": "/wiki/concepts/founderledsales/"
+  },
   "FounderLedSoftwareGlobalization": {
     "title": "Founder-Led Software Globalization",
     "url": "/wiki/concepts/founderledsoftwareglobalization/"
+  },
+  "FounderMode": {
+    "title": "Founder Mode",
+    "url": "/wiki/concepts/foundermode/"
+  },
+  "FounderMotivationEvolution": {
+    "title": "Founder Motivation Evolution",
+    "url": "/wiki/concepts/foundermotivationevolution/"
   },
   "FounderNarrativeReliability": {
     "title": "Founder Narrative Reliability",
@@ -3287,6 +4235,30 @@
     "title": "Founder Proximity",
     "url": "/wiki/concepts/founderproximity/"
   },
+  "FounderPsychologyOperationalRisk": {
+    "title": "Founder Psychology Operational Risk",
+    "url": "/wiki/concepts/founderpsychologyoperationalrisk/"
+  },
+  "FounderReputationRecovery": {
+    "title": "Founder Reputation Recovery",
+    "url": "/wiki/concepts/founderreputationrecovery/"
+  },
+  "FounderResilience": {
+    "title": "Founder Resilience",
+    "url": "/wiki/concepts/founderresilience/"
+  },
+  "FounderReturnCrisis": {
+    "title": "Founder Return Crisis",
+    "url": "/wiki/concepts/founderreturncrisis/"
+  },
+  "FounderRiskCalibration": {
+    "title": "Founder Risk Calibration",
+    "url": "/wiki/concepts/founderriskcalibration/"
+  },
+  "FounderRiskDeepDive": {
+    "title": "Founder Risk Deep Dive",
+    "url": "/wiki/concepts/founderriskdeepdive/"
+  },
   "FounderRoleTransition": {
     "title": "Founder Role Transition",
     "url": "/wiki/concepts/founderroletransition/"
@@ -3295,6 +4267,10 @@
     "title": "Founder Succession",
     "url": "/wiki/concepts/foundersuccession/"
   },
+  "FounderUserObsession": {
+    "title": "Founder User Obsession",
+    "url": "/wiki/concepts/founderuserobsession/"
+  },
   "FounderWorkBoundaries": {
     "title": "Founder Work Boundaries",
     "url": "/wiki/concepts/founderworkboundaries/"
@@ -3302,6 +4278,14 @@
   "FourierSpatialEncoding": {
     "title": "Fourier Spatial Encoding",
     "url": "/wiki/concepts/fourierspatialencoding/"
+  },
+  "FourthAmendmentDigitalPrivacy": {
+    "title": "Fourth Amendment Digital Privacy",
+    "url": "/wiki/concepts/fourthamendmentdigitalprivacy/"
+  },
+  "FourthAmendmentIsNotForSaleAct": {
+    "title": "Fourth Amendment is Not For Sale Act",
+    "url": "/wiki/concepts/fourthamendmentisnotforsaleact/"
   },
   "FrameworkLedSaaS": {
     "title": "Framework-Led SaaS",
@@ -3314,6 +4298,10 @@
   "FranchiseLedConsumerChainExpansion": {
     "title": "Franchise-Led Consumer Chain Expansion",
     "url": "/wiki/concepts/franchiseledconsumerchainexpansion/"
+  },
+  "FrancisScottKeyBridge": {
+    "title": "Francis Scott Key Bridge",
+    "url": "/wiki/entities/francisscottkeybridge/"
   },
   "Freda": {
     "title": "Freda / Friday",
@@ -3347,6 +4335,10 @@
     "title": "Frontier Model Access Restrictions",
     "url": "/wiki/concepts/frontiermodelaccessrestrictions/"
   },
+  "FrontierModelInflectionPivot": {
+    "title": "Frontier Model Inflection Pivot",
+    "url": "/wiki/concepts/frontiermodelinflectionpivot/"
+  },
   "FrontierModelReleaseGovernance": {
     "title": "Frontier Model Release Governance",
     "url": "/wiki/concepts/frontiermodelreleasegovernance/"
@@ -3354,6 +4346,10 @@
   "FrontierModelScaling": {
     "title": "Frontier Model Scaling",
     "url": "/wiki/concepts/frontiermodelscaling/"
+  },
+  "FrontierModelUsePolicyConflict": {
+    "title": "Frontier Model Use Policy Conflict",
+    "url": "/wiki/concepts/frontiermodelusepolicyconflict/"
   },
   "FrontierTradeSystems": {
     "title": "Frontier Trade Systems",
@@ -3367,6 +4363,10 @@
     "title": "Fugitive Temporality",
     "url": "/wiki/concepts/fugitivetemporality/"
   },
+  "FullFunnelCivicTechnology": {
+    "title": "Full-Funnel Civic Technology",
+    "url": "/wiki/concepts/fullfunnelcivictechnology/"
+  },
   "FullStackAIPlatform": {
     "title": "Full-Stack AI Platform",
     "url": "/wiki/concepts/fullstackaiplatform/"
@@ -3375,9 +4375,17 @@
     "title": "Fund Liability Matching",
     "url": "/wiki/concepts/fundliabilitymatching/"
   },
+  "FundraisingScenarioModeling": {
+    "title": "Fundraising Scenario Modeling",
+    "url": "/wiki/concepts/fundraisingscenariomodeling/"
+  },
   "FutuSecurities": {
     "title": "Futu Securities",
     "url": "/wiki/entities/futusecurities/"
+  },
+  "FutureOrientedFundraisingPitch": {
+    "title": "Future-Oriented Fundraising Pitch",
+    "url": "/wiki/concepts/futureorientedfundraisingpitch/"
   },
   "FuyouTiandi": {
     "title": "蜉蝣天地 / Fuyou Tiandi",
@@ -3395,13 +4403,29 @@
     "title": "GLM 5.2",
     "url": "/wiki/entities/glm52/"
   },
+  "GOAT": {
+    "title": "GOAT",
+    "url": "/wiki/entities/goat/"
+  },
+  "GOATClean": {
+    "title": "GOAT Clean",
+    "url": "/wiki/entities/goatclean/"
+  },
   "GOG": {
     "title": "GOG",
     "url": "/wiki/entities/gog/"
   },
+  "GPT4": {
+    "title": "GPT-4",
+    "url": "/wiki/entities/gpt4/"
+  },
   "GPT56": {
     "title": "GPT-5.6",
     "url": "/wiki/entities/gpt56/"
+  },
+  "GPU": {
+    "title": "GPU",
+    "url": "/wiki/entities/gpu/"
   },
   "GSMStandardization": {
     "title": "GSM Standardization",
@@ -3414,6 +4438,10 @@
   "Gaide": {
     "title": "盖德",
     "url": "/wiki/entities/gaide/"
+  },
+  "Galileo": {
+    "title": "Galileo",
+    "url": "/wiki/entities/galileo/"
   },
   "GamePreservation": {
     "title": "Game Preservation",
@@ -3443,13 +4471,29 @@
     "title": "Garfield AI",
     "url": "/wiki/entities/garfieldai/"
   },
+  "Garmin": {
+    "title": "Garmin",
+    "url": "/wiki/entities/garmin/"
+  },
   "GarrettJohnson": {
     "title": "Garrett Johnson",
     "url": "/wiki/entities/garrettjohnson/"
   },
+  "GarryTan": {
+    "title": "Garry Tan",
+    "url": "/wiki/entities/garrytan/"
+  },
+  "GaryGensler": {
+    "title": "Gary Gensler",
+    "url": "/wiki/entities/garygensler/"
+  },
   "GaryMarcus": {
     "title": "Gary Marcus",
     "url": "/wiki/entities/garymarcus/"
+  },
+  "GeckoRobotics": {
+    "title": "Gecko Robotics",
+    "url": "/wiki/entities/geckorobotics/"
   },
   "Gemini": {
     "title": "Gemini",
@@ -3462,6 +4506,10 @@
   "GeneralMills": {
     "title": "General Mills",
     "url": "/wiki/entities/generalmills/"
+  },
+  "GeneralMotors": {
+    "title": "General Motors",
+    "url": "/wiki/entities/generalmotors/"
   },
   "Generalist": {
     "title": "Generalist",
@@ -3515,6 +4563,14 @@
     "title": "Gift-To-Loyal-Buyer Loop",
     "url": "/wiki/concepts/gifttoloyalbuyerloop/"
   },
+  "GilLuria": {
+    "title": "Gil Luria",
+    "url": "/wiki/entities/gilluria/"
+  },
+  "GinnySpicer": {
+    "title": "Ginny Spicer",
+    "url": "/wiki/entities/ginnyspicer/"
+  },
   "GinoWickman": {
     "title": "Gino Wickman",
     "url": "/wiki/entities/ginowickman/"
@@ -3522,6 +4578,14 @@
   "GirishRedikar": {
     "title": "Girish Redikar",
     "url": "/wiki/entities/girishredikar/"
+  },
+  "GirlScoutsOfTheUSA": {
+    "title": "Girl Scouts of the USA",
+    "url": "/wiki/entities/girlscoutsoftheusa/"
+  },
+  "GitHub": {
+    "title": "GitHub",
+    "url": "/wiki/entities/github/"
   },
   "Glamour": {
     "title": "Glamour",
@@ -3546,6 +4610,10 @@
   "Gmail": {
     "title": "Gmail",
     "url": "/wiki/entities/gmail/"
+  },
+  "GoFundMe": {
+    "title": "GoFundMe",
+    "url": "/wiki/entities/gofundme/"
   },
   "GoPro": {
     "title": "GoPro",
@@ -3583,6 +4651,10 @@
     "title": "Google",
     "url": "/wiki/entities/google/"
   },
+  "GoogleAIOverviews": {
+    "title": "Google AI Overviews",
+    "url": "/wiki/entities/googleaioverviews/"
+  },
   "GoogleCloud": {
     "title": "Google Cloud",
     "url": "/wiki/entities/googlecloud/"
@@ -3591,6 +4663,10 @@
     "title": "Google DeepMind",
     "url": "/wiki/entities/googledeepmind/"
   },
+  "GoogleInactiveAccountManager": {
+    "title": "Google Inactive Account Manager",
+    "url": "/wiki/entities/googleinactiveaccountmanager/"
+  },
   "GooglePhotos": {
     "title": "Google Photos",
     "url": "/wiki/entities/googlephotos/"
@@ -3598,6 +4674,10 @@
   "GooglePlus": {
     "title": "Google Plus",
     "url": "/wiki/entities/googleplus/"
+  },
+  "GovernmentDataBrokerAccess": {
+    "title": "Government Data Broker Access",
+    "url": "/wiki/concepts/governmentdatabrokeraccess/"
   },
   "GovernmentEnterpriseProcurement": {
     "title": "Government Enterprise Procurement",
@@ -3627,9 +4707,17 @@
     "title": "Green Hushing",
     "url": "/wiki/concepts/greenhushing/"
   },
+  "GregBrockman": {
+    "title": "Greg Brockman",
+    "url": "/wiki/entities/gregbrockman/"
+  },
   "GregCarlstrom": {
     "title": "Greg Carlstrom",
     "url": "/wiki/entities/gregcarlstrom/"
+  },
+  "GregMcAdoo": {
+    "title": "Greg McAdoo",
+    "url": "/wiki/entities/gregmcadoo/"
   },
   "GrillMeSkills": {
     "title": "GrillMe Skills",
@@ -3646,6 +4734,14 @@
   "GrowthRiskControl": {
     "title": "Growth Risk Control",
     "url": "/wiki/concepts/growthriskcontrol/"
+  },
+  "GrubTonight": {
+    "title": "Grub Tonight",
+    "url": "/wiki/entities/grubtonight/"
+  },
+  "GrubWithUs": {
+    "title": "Grub With Us",
+    "url": "/wiki/entities/grubwithus/"
   },
   "Grundfos": {
     "title": "Grundfos / 格兰富",
@@ -3674,6 +4770,10 @@
   "Guigui": {
     "title": "龟龟",
     "url": "/wiki/entities/guigui/"
+  },
+  "GuillaumeCabane": {
+    "title": "Guillaume Cabane",
+    "url": "/wiki/entities/guillaumecabane/"
   },
   "GulfCooperationCouncil": {
     "title": "Gulf Cooperation Council",
@@ -3723,6 +4823,10 @@
     "title": "Haagen-Dazs",
     "url": "/wiki/entities/haagendazs/"
   },
+  "HackerNews": {
+    "title": "Hacker News",
+    "url": "/wiki/entities/hackernews/"
+  },
   "HaijinAndMaritimeSmuggling": {
     "title": "Haijin and Maritime Smuggling",
     "url": "/wiki/concepts/haijinandmaritimesmuggling/"
@@ -3738,6 +4842,10 @@
   "HaleySalmon": {
     "title": "Haley Salmon",
     "url": "/wiki/entities/haleysalmon/"
+  },
+  "HamishMcKenzie": {
+    "title": "Hamish McKenzie",
+    "url": "/wiki/entities/hamishmckenzie/"
   },
   "HanBoxiao": {
     "title": "Han Boxiao",
@@ -3775,13 +4883,29 @@
     "title": "Hard Negative Mining",
     "url": "/wiki/concepts/hardnegativemining/"
   },
+  "HardProblemMVPScoping": {
+    "title": "Hard Problem MVP Scoping",
+    "url": "/wiki/concepts/hardproblemmvpscoping/"
+  },
+  "HardTechFundraising": {
+    "title": "Hard Tech Fundraising",
+    "url": "/wiki/concepts/hardtechfundraising/"
+  },
   "HardwareCategoryDefinitionPower": {
     "title": "Hardware Category Definition Power",
     "url": "/wiki/concepts/hardwarecategorydefinitionpower/"
   },
+  "HardwareInventoryRisk": {
+    "title": "Hardware Inventory Risk",
+    "url": "/wiki/concepts/hardwareinventoryrisk/"
+  },
   "HardwareTalentSpillover": {
     "title": "Hardware Talent Spillover",
     "url": "/wiki/concepts/hardwaretalentspillover/"
+  },
+  "HarjTaggar": {
+    "title": "Harj Taggar",
+    "url": "/wiki/entities/harjtaggar/"
   },
   "HarlanCoben": {
     "title": "Harlan Coben",
@@ -3823,6 +4947,18 @@
     "title": "Healthy Baby",
     "url": "/wiki/entities/healthybaby/"
   },
+  "HeatherSchwartz": {
+    "title": "Heather Schwartz",
+    "url": "/wiki/entities/heatherschwartz/"
+  },
+  "Helion": {
+    "title": "Helion",
+    "url": "/wiki/entities/helion/"
+  },
+  "Helium3": {
+    "title": "Helium-3",
+    "url": "/wiki/concepts/helium3/"
+  },
   "HelloKitty": {
     "title": "Hello Kitty",
     "url": "/wiki/entities/hellokitty/"
@@ -3863,6 +4999,10 @@
     "title": "High Responsibility Density",
     "url": "/wiki/concepts/highresponsibilitydensity/"
   },
+  "HigherEducationAIDiscoverability": {
+    "title": "Higher Education AI Discoverability",
+    "url": "/wiki/concepts/highereducationaidiscoverability/"
+  },
   "HillaryClinton": {
     "title": "Hillary Clinton",
     "url": "/wiki/entities/hillaryclinton/"
@@ -3870,6 +5010,10 @@
   "HillhouseCapital": {
     "title": "Hillhouse Capital / 高瓴资本",
     "url": "/wiki/entities/hillhousecapital/"
+  },
+  "Hipmunk": {
+    "title": "Hipmunk",
+    "url": "/wiki/entities/hipmunk/"
   },
   "Hisense": {
     "title": "海信 / Hisense",
@@ -3898,6 +5042,10 @@
   "HomeServiceRobots": {
     "title": "Home Service Robots",
     "url": "/wiki/concepts/homeservicerobots/"
+  },
+  "Homejoy": {
+    "title": "Homejoy",
+    "url": "/wiki/entities/homejoy/"
   },
   "HomestayDifferentiation": {
     "title": "Homestay Differentiation",
@@ -4055,9 +5203,17 @@
     "title": "Humanoid Robot Marathon",
     "url": "/wiki/concepts/humanoidrobotmarathon/"
   },
+  "HummerWinblad": {
+    "title": "Hummer Winblad",
+    "url": "/wiki/entities/hummerwinblad/"
+  },
   "ICEInvestor": {
     "title": "ICE",
     "url": "/wiki/entities/iceinvestor/"
+  },
+  "IDC": {
+    "title": "IDC",
+    "url": "/wiki/entities/idc/"
   },
   "IMAgentInterfaces": {
     "title": "IM Agent Interfaces",
@@ -4111,6 +5267,10 @@
     "title": "Impermanence And No-Self",
     "url": "/wiki/concepts/impermanenceandnoself/"
   },
+  "ImpulseWatch": {
+    "title": "Impulse Watch",
+    "url": "/wiki/entities/impulsewatch/"
+  },
   "InMemoryComputingForEdgeAI": {
     "title": "In-Memory Computing For Edge AI",
     "url": "/wiki/concepts/inmemorycomputingforedgeai/"
@@ -4126,6 +5286,10 @@
   "Incorruptible": {
     "title": "Incorruptible",
     "url": "/wiki/entities/incorruptible/"
+  },
+  "IncumbentPlatformPressure": {
+    "title": "Incumbent Platform Pressure",
+    "url": "/wiki/concepts/incumbentplatformpressure/"
   },
   "Indeed": {
     "title": "Indeed",
@@ -4151,17 +5315,45 @@
     "title": "India",
     "url": "/wiki/entities/india/"
   },
+  "IndianaUniversity": {
+    "title": "Indiana University",
+    "url": "/wiki/entities/indianauniversity/"
+  },
+  "IndianaWesleyanUniversity": {
+    "title": "Indiana Wesleyan University",
+    "url": "/wiki/entities/indianawesleyanuniversity/"
+  },
+  "IndustrialControlSystemCyberRisk": {
+    "title": "Industrial Control System Cyber Risk",
+    "url": "/wiki/concepts/industrialcontrolsystemcyberrisk/"
+  },
   "IndyJohar": {
     "title": "Indy Johar",
     "url": "/wiki/entities/indyjohar/"
+  },
+  "Infogami": {
+    "title": "Infogami",
+    "url": "/wiki/entities/infogami/"
   },
   "InformedOptimism": {
     "title": "Informed Optimism",
     "url": "/wiki/concepts/informedoptimism/"
   },
+  "InitializedCapital": {
+    "title": "Initialized Capital",
+    "url": "/wiki/entities/initializedcapital/"
+  },
   "Insta360": {
     "title": "Insta360 / 影石",
     "url": "/wiki/entities/insta360/"
+  },
+  "Instagram": {
+    "title": "Instagram",
+    "url": "/wiki/entities/instagram/"
+  },
+  "Instalab": {
+    "title": "Instalab",
+    "url": "/wiki/entities/instalab/"
   },
   "InstantRetail": {
     "title": "Instant Retail",
@@ -4251,6 +5443,14 @@
     "title": "Investor Education",
     "url": "/wiki/concepts/investoreducation/"
   },
+  "InvestorReferenceChecking": {
+    "title": "Investor Reference Checking",
+    "url": "/wiki/concepts/investorreferencechecking/"
+  },
+  "InvestorRiskNarrative": {
+    "title": "Investor Risk Narrative",
+    "url": "/wiki/concepts/investorrisknarrative/"
+  },
   "InvestorSuitabilityFriction": {
     "title": "Investor Suitability Friction",
     "url": "/wiki/concepts/investorsuitabilityfriction/"
@@ -4267,9 +5467,17 @@
     "title": "Iran",
     "url": "/wiki/entities/iran/"
   },
+  "IranLinkedCyberOperations": {
+    "title": "Iran-Linked Cyber Operations",
+    "url": "/wiki/concepts/iranlinkedcyberoperations/"
+  },
   "IranPostwarEconomicRelief": {
     "title": "Iran Postwar Economic Relief",
     "url": "/wiki/concepts/iranpostwareconomicrelief/"
+  },
+  "IslamicRevolutionaryGuardCorps": {
+    "title": "Islamic Revolutionary Guard Corps",
+    "url": "/wiki/entities/islamicrevolutionaryguardcorps/"
   },
   "IslandBeeCompany": {
     "title": "Island Bee Company",
@@ -4315,9 +5523,17 @@
     "title": "Jaju Pierogi",
     "url": "/wiki/entities/jajupierogi/"
   },
+  "JakeHeller": {
+    "title": "Jake Heller",
+    "url": "/wiki/entities/jakeheller/"
+  },
   "JamaatEIslamiBangladesh": {
     "title": "Jamaat-e-Islami Bangladesh",
     "url": "/wiki/entities/jamaateislamibangladesh/"
+  },
+  "JamesDamore": {
+    "title": "James Damore",
+    "url": "/wiki/entities/jamesdamore/"
   },
   "JamesLovelock": {
     "title": "James Lovelock",
@@ -4326,6 +5542,10 @@
   "JamesMeade": {
     "title": "James Meade",
     "url": "/wiki/entities/jamesmeade/"
+  },
+  "JamieSiminoff": {
+    "title": "Jamie Siminoff",
+    "url": "/wiki/entities/jamiesiminoff/"
   },
   "JanetYellen": {
     "title": "Janet Yellen",
@@ -4359,6 +5579,14 @@
     "title": "Jean-Marie Le Pen",
     "url": "/wiki/entities/jeanmarielepen/"
   },
+  "JeffBezos": {
+    "title": "Jeff Bezos",
+    "url": "/wiki/entities/jeffbezos/"
+  },
+  "JeffUllman": {
+    "title": "Jeff Ullman",
+    "url": "/wiki/entities/jeffullman/"
+  },
   "JeffreyEpstein": {
     "title": "Jeffrey Epstein",
     "url": "/wiki/entities/jeffreyepstein/"
@@ -4379,9 +5607,17 @@
     "title": "Jeni's Splendid Ice Creams",
     "url": "/wiki/entities/jenissplendidicecreams/"
   },
+  "JenniferJesse": {
+    "title": "Jennifer Jesse",
+    "url": "/wiki/entities/jenniferjesse/"
+  },
   "JensenHuang": {
     "title": "Jensen Huang",
     "url": "/wiki/entities/jensenhuang/"
+  },
+  "JeremyScott": {
+    "title": "Jeremy Scott",
+    "url": "/wiki/entities/jeremyscott/"
   },
   "JeromePowell": {
     "title": "Jerome Powell",
@@ -4399,6 +5635,10 @@
     "title": "Jesse Livermore",
     "url": "/wiki/entities/jesselivermore/"
   },
+  "JessicaAlter": {
+    "title": "Jessica Alter",
+    "url": "/wiki/entities/jessicaalter/"
+  },
   "JessicaLivingston": {
     "title": "Jessica Livingston",
     "url": "/wiki/entities/jessicalivingston/"
@@ -4410,6 +5650,10 @@
   "JevonsParadoxInAI": {
     "title": "Jevons Paradox In AI",
     "url": "/wiki/concepts/jevonsparadoxinai/"
+  },
+  "JewelBurkeSolomon": {
+    "title": "Jewel Burke Solomon",
+    "url": "/wiki/entities/jewelburkesolomon/"
   },
   "JiQi": {
     "title": "Ji Qi",
@@ -4438,6 +5682,10 @@
   "JieDechen": {
     "title": "Jie Dechen",
     "url": "/wiki/entities/jiedechen/"
+  },
+  "JimHarkness": {
+    "title": "Jim Harkness",
+    "url": "/wiki/entities/jimharkness/"
   },
   "JimRatcliffe": {
     "title": "Jim Ratcliffe",
@@ -4475,6 +5723,10 @@
     "title": "Jody Deming",
     "url": "/wiki/entities/jodydeming/"
   },
+  "JoeGebbia": {
+    "title": "Joe Gebbia",
+    "url": "/wiki/entities/joegebbia/"
+  },
   "JoeRogan": {
     "title": "Joe Rogan",
     "url": "/wiki/entities/joerogan/"
@@ -4491,6 +5743,14 @@
     "title": "John Carmack",
     "url": "/wiki/entities/johncarmack/"
   },
+  "JohnCollison": {
+    "title": "John Collison",
+    "url": "/wiki/entities/johncollison/"
+  },
+  "JohnDoerr": {
+    "title": "John Doerr",
+    "url": "/wiki/entities/johndoerr/"
+  },
   "JohnDonahoe": {
     "title": "John Donahoe",
     "url": "/wiki/entities/johndonahoe/"
@@ -4498,6 +5758,10 @@
   "JohnFasman": {
     "title": "John Fasman",
     "url": "/wiki/entities/johnfasman/"
+  },
+  "JohnHolden": {
+    "title": "John Holden",
+    "url": "/wiki/entities/johnholden/"
   },
   "JohnIcabone": {
     "title": "John Icabone",
@@ -4527,6 +5791,10 @@
     "title": "Jollof Index",
     "url": "/wiki/concepts/jollofindex/"
   },
+  "JontayPorter": {
+    "title": "Jontay Porter",
+    "url": "/wiki/entities/jontayporter/"
+  },
   "JonyIve": {
     "title": "Jony Ive",
     "url": "/wiki/entities/jonyive/"
@@ -4543,6 +5811,10 @@
     "title": "Joseph Schumpeter",
     "url": "/wiki/entities/josephschumpeter/"
   },
+  "JoshBersin": {
+    "title": "Josh Bersin",
+    "url": "/wiki/entities/joshbersin/"
+  },
   "JoshHawley": {
     "title": "Josh Hawley",
     "url": "/wiki/entities/joshhawley/"
@@ -4551,6 +5823,10 @@
     "title": "Josh Roberts",
     "url": "/wiki/entities/joshroberts/"
   },
+  "JoshSchaeffer": {
+    "title": "Josh Schaeffer",
+    "url": "/wiki/entities/joshschaeffer/"
+  },
   "Jove": {
     "title": "Jove",
     "url": "/wiki/entities/jove/"
@@ -4558,6 +5834,10 @@
   "JoyoAmazonChina": {
     "title": "卓越网 / Amazon China",
     "url": "/wiki/entities/joyoamazonchina/"
+  },
+  "JulianWeber": {
+    "title": "Julian Weber",
+    "url": "/wiki/entities/julianweber/"
   },
   "JumeiYoupin": {
     "title": "聚美优品 / Jumei Youpin",
@@ -4574,6 +5854,14 @@
   "JustinGold": {
     "title": "Justin Gold",
     "url": "/wiki/entities/justingold/"
+  },
+  "JustinKan": {
+    "title": "Justin Kan",
+    "url": "/wiki/entities/justinkan/"
+  },
+  "JustinTV": {
+    "title": "Justin.tv",
+    "url": "/wiki/entities/justintv/"
   },
   "JustinYan": {
     "title": "Justin Yan",
@@ -4606,6 +5894,10 @@
   "Kaiwuji": {
     "title": "Kaiwuji",
     "url": "/wiki/entities/kaiwuji/"
+  },
+  "Kalshi": {
+    "title": "Kalshi",
+    "url": "/wiki/entities/kalshi/"
   },
   "KangHongwen": {
     "title": "康宏文 Henry",
@@ -4663,6 +5955,10 @@
     "title": "Kelvin Kiptum",
     "url": "/wiki/entities/kelvinkiptum/"
   },
+  "KenChenault": {
+    "title": "Ken Chenault",
+    "url": "/wiki/entities/kenchenault/"
+  },
   "KenOno": {
     "title": "Ken Ono",
     "url": "/wiki/entities/kenono/"
@@ -4674,6 +5970,18 @@
   "KevinKelly": {
     "title": "Kevin Kelly",
     "url": "/wiki/entities/kevinkelly/"
+  },
+  "Kickstarter": {
+    "title": "Kickstarter",
+    "url": "/wiki/entities/kickstarter/"
+  },
+  "KickstarterDemandShock": {
+    "title": "Kickstarter Demand Shock",
+    "url": "/wiki/concepts/kickstarterdemandshock/"
+  },
+  "Kiko": {
+    "title": "Kiko",
+    "url": "/wiki/entities/kiko/"
   },
   "KimberlyBecker": {
     "title": "Kimberly Becker",
@@ -4687,9 +5995,17 @@
     "title": "Kiyosumi-Shirakawa / 清澄白河",
     "url": "/wiki/entities/kiyosumishirakawa/"
   },
+  "KleinerPerkins": {
+    "title": "Kleiner Perkins",
+    "url": "/wiki/entities/kleinerperkins/"
+  },
   "KnowingEnough": {
     "title": "Knowing Enough",
     "url": "/wiki/concepts/knowingenough/"
+  },
+  "KnowledgeWorkFragmentation": {
+    "title": "Knowledge Work Fragmentation",
+    "url": "/wiki/concepts/knowledgeworkfragmentation/"
   },
   "Koji": {
     "title": "Koji",
@@ -4723,9 +6039,17 @@
     "title": "Kuaishou Lite",
     "url": "/wiki/entities/kuaishoulite/"
   },
+  "KulvirTaggar": {
+    "title": "Kulvir Taggar",
+    "url": "/wiki/entities/kulvirtaggar/"
+  },
   "KunNi": {
     "title": "Kun Ni",
     "url": "/wiki/entities/kunni/"
+  },
+  "KyleVogt": {
+    "title": "Kyle Vogt",
+    "url": "/wiki/entities/kylevogt/"
   },
   "KylinOS": {
     "title": "Kylin OS",
@@ -4771,6 +6095,10 @@
     "title": "Lan Shili / 兰世立",
     "url": "/wiki/entities/lanshili/"
   },
+  "LanaSwartz": {
+    "title": "Lana Swartz",
+    "url": "/wiki/entities/lanaswartz/"
+  },
   "LanceGentry": {
     "title": "Lance Gentry",
     "url": "/wiki/entities/lancegentry/"
@@ -4783,6 +6111,10 @@
     "title": "Language Agent",
     "url": "/wiki/concepts/languageagent/"
   },
+  "LanguageModelScalingBet": {
+    "title": "Language Model Scaling Bet",
+    "url": "/wiki/concepts/languagemodelscalingbet/"
+  },
   "LanguagePrecision": {
     "title": "Language Precision",
     "url": "/wiki/concepts/languageprecision/"
@@ -4790,6 +6122,10 @@
   "LanguageUserInterface": {
     "title": "Language User Interface",
     "url": "/wiki/concepts/languageuserinterface/"
+  },
+  "LannyDavis": {
+    "title": "Lanny Davis",
+    "url": "/wiki/entities/lannydavis/"
   },
   "LaoGao": {
     "title": "Lao Gao",
@@ -4810,6 +6146,10 @@
   "LargeCompanyRiskIncentives": {
     "title": "Large Company Risk Incentives",
     "url": "/wiki/concepts/largecompanyriskincentives/"
+  },
+  "LarryPage": {
+    "title": "Larry Page",
+    "url": "/wiki/entities/larrypage/"
   },
   "LateTalk": {
     "title": "LateTalk",
@@ -4847,6 +6187,10 @@
     "title": "Lean Theorem Prover",
     "url": "/wiki/entities/leantheoremprover/"
   },
+  "LeapForward": {
+    "title": "Leap Forward",
+    "url": "/wiki/entities/leapforward/"
+  },
   "LearnClaudeCode": {
     "title": "Learn Claude Code",
     "url": "/wiki/entities/learnclaudecode/"
@@ -4875,6 +6219,10 @@
     "title": "Legal AI Hallucination",
     "url": "/wiki/concepts/legalaihallucination/"
   },
+  "LegalRiskAcquirerFit": {
+    "title": "Legal Risk Acquirer Fit",
+    "url": "/wiki/concepts/legalriskacquirerfit/"
+  },
   "LeiLutai": {
     "title": "Lei Lutai / 雷履泰",
     "url": "/wiki/entities/leilutai/"
@@ -4882,6 +6230,10 @@
   "Lempire": {
     "title": "Lempire",
     "url": "/wiki/entities/lempire/"
+  },
+  "LendingHome": {
+    "title": "LendingHome",
+    "url": "/wiki/entities/lendinghome/"
   },
   "LengGanghua": {
     "title": "Leng Ganghua",
@@ -4975,6 +6327,10 @@
     "title": "Lifestyle Subsidy Creator Work",
     "url": "/wiki/concepts/lifestylesubsidycreatorwork/"
   },
+  "LightCone": {
+    "title": "Light Cone",
+    "url": "/wiki/entities/lightcone/"
+  },
   "LinJunyang": {
     "title": "Lin Junyang",
     "url": "/wiki/entities/linjunyang/"
@@ -4982,6 +6338,10 @@
   "LinWei": {
     "title": "Lin Wei",
     "url": "/wiki/entities/linwei/"
+  },
+  "LindaTodich": {
+    "title": "Linda Todich",
+    "url": "/wiki/entities/lindatodich/"
   },
   "LisaKSolomon": {
     "title": "Lisa K. Solomon",
@@ -5018,6 +6378,10 @@
   "LiveActionShortDrama": {
     "title": "Live-Action Short Drama",
     "url": "/wiki/concepts/liveactionshortdrama/"
+  },
+  "LiveCurrentMedia": {
+    "title": "Live Current Media",
+    "url": "/wiki/entities/livecurrentmedia/"
   },
   "LiverpoolFC": {
     "title": "Liverpool FC",
@@ -5059,6 +6423,10 @@
     "title": "Local Market Proof",
     "url": "/wiki/concepts/localmarketproof/"
   },
+  "LocalNewsAutomationTradeoff": {
+    "title": "Local News Automation Tradeoff",
+    "url": "/wiki/concepts/localnewsautomationtradeoff/"
+  },
   "LongChainAICompetition": {
     "title": "Long-Chain AI Competition",
     "url": "/wiki/concepts/longchainaicompetition/"
@@ -5074,6 +6442,10 @@
   "LongHorizonAI": {
     "title": "Long-Horizon AI",
     "url": "/wiki/concepts/longhorizonai/"
+  },
+  "LongLivedStartupDecisions": {
+    "title": "Long-Lived Startup Decisions",
+    "url": "/wiki/concepts/longlivedstartupdecisions/"
   },
   "LongNow": {
     "title": "Long Now",
@@ -5111,6 +6483,10 @@
     "title": "Lookalike Publisher Outreach",
     "url": "/wiki/concepts/lookalikepublisheroutreach/"
   },
+  "Looped": {
+    "title": "Looped",
+    "url": "/wiki/entities/looped/"
+  },
   "LotteryGamblingPlatformFraud": {
     "title": "Lottery Gambling Platform Fraud",
     "url": "/wiki/concepts/lotterygamblingplatformfraud/"
@@ -5126,6 +6502,10 @@
   "LowAltitudeRegulatoryRisk": {
     "title": "Low-Altitude Regulatory Risk",
     "url": "/wiki/concepts/lowaltituderegulatoryrisk/"
+  },
+  "LowCostDroneWarfare": {
+    "title": "Low-Cost Drone Warfare",
+    "url": "/wiki/concepts/lowcostdronewarfare/"
   },
   "LowFireLaborMarket": {
     "title": "Low-Fire Labor Market",
@@ -5155,6 +6535,10 @@
     "title": "乱翻书",
     "url": "/wiki/entities/luanfanshu/"
   },
+  "LucasDrone": {
+    "title": "Lucas Drone",
+    "url": "/wiki/entities/lucasdrone/"
+  },
   "LuckinCoffee": {
     "title": "Luckin Coffee / 瑞幸咖啡",
     "url": "/wiki/entities/luckincoffee/"
@@ -5162,6 +6546,18 @@
   "Lululemon": {
     "title": "Lululemon",
     "url": "/wiki/entities/lululemon/"
+  },
+  "LunarNuclearPower": {
+    "title": "Lunar Nuclear Power",
+    "url": "/wiki/concepts/lunarnuclearpower/"
+  },
+  "LunarResourceGovernance": {
+    "title": "Lunar Resource Governance",
+    "url": "/wiki/concepts/lunarresourcegovernance/"
+  },
+  "LunchMeetVHS": {
+    "title": "LunchMeet VHS",
+    "url": "/wiki/entities/lunchmeetvhs/"
   },
   "LuoFuli": {
     "title": "Luo Fuli / 罗福莉",
@@ -5191,6 +6587,10 @@
     "title": "METR",
     "url": "/wiki/entities/metr/"
   },
+  "MGX": {
+    "title": "MGX",
+    "url": "/wiki/entities/mgx/"
+  },
   "MLCoding": {
     "title": "ML Coding",
     "url": "/wiki/concepts/mlcoding/"
@@ -5210,6 +6610,10 @@
   "MaaSInfrastructure": {
     "title": "MaaS Infrastructure",
     "url": "/wiki/concepts/maasinfrastructure/"
+  },
+  "MacMini": {
+    "title": "Mac Mini",
+    "url": "/wiki/entities/macmini/"
   },
   "MacroAssetExpression": {
     "title": "Macro Asset Expression",
@@ -5235,6 +6639,10 @@
     "title": "麦迪森",
     "url": "/wiki/entities/maidisen/"
   },
+  "Mailbox": {
+    "title": "Mailbox",
+    "url": "/wiki/entities/mailbox/"
+  },
   "MaiquerGroup": {
     "title": "Maiquer Group / 麦趣尔",
     "url": "/wiki/entities/maiquergroup/"
@@ -5250,6 +6658,10 @@
   "MallBasedRetailExpansion": {
     "title": "Mall Based Retail Expansion",
     "url": "/wiki/concepts/mallbasedretailexpansion/"
+  },
+  "MamoonHamid": {
+    "title": "Mamoon Hamid",
+    "url": "/wiki/entities/mamoonhamid/"
   },
   "ManchesterUnited": {
     "title": "Manchester United",
@@ -5270,6 +6682,10 @@
   "Mannisen": {
     "title": "曼妮森",
     "url": "/wiki/entities/mannisen/"
+  },
+  "ManualOperationsDebt": {
+    "title": "Manual Operations Debt",
+    "url": "/wiki/concepts/manualoperationsdebt/"
   },
   "Manus": {
     "title": "Manus",
@@ -5295,6 +6711,10 @@
     "title": "Maria Corina Machado",
     "url": "/wiki/entities/mariacorinamachado/"
   },
+  "MariaCurie": {
+    "title": "Maria Curi",
+    "url": "/wiki/entities/mariacurie/"
+  },
   "MarineLePen": {
     "title": "Marine Le Pen",
     "url": "/wiki/entities/marinelepen/"
@@ -5307,6 +6727,10 @@
     "title": "Mark Abbott",
     "url": "/wiki/entities/markabbott/"
   },
+  "MarkAndreessen": {
+    "title": "Mark Andreessen",
+    "url": "/wiki/entities/markandreessen/"
+  },
   "MarkCuban": {
     "title": "Mark Cuban",
     "url": "/wiki/entities/markcuban/"
@@ -5315,9 +6739,17 @@
     "title": "Mark Johnson",
     "url": "/wiki/entities/markjohnson/"
   },
+  "MarkLindsay": {
+    "title": "Mark Lindsay",
+    "url": "/wiki/entities/marklindsay/"
+  },
   "MarkSpitznagel": {
     "title": "Mark Spitznagel",
     "url": "/wiki/entities/markspitznagel/"
+  },
+  "MarkZuckerberg": {
+    "title": "Mark Zuckerberg",
+    "url": "/wiki/entities/markzuckerberg/"
   },
   "MarketEfficiency": {
     "title": "Market Efficiency",
@@ -5331,6 +6763,10 @@
     "title": "Market Regime Shift",
     "url": "/wiki/concepts/marketregimeshift/"
   },
+  "MarketplaceFrictionReduction": {
+    "title": "Marketplace Friction Reduction",
+    "url": "/wiki/concepts/marketplacefrictionreduction/"
+  },
   "MarketplaceTech": {
     "title": "Marketplace Tech",
     "url": "/wiki/entities/marketplacetech/"
@@ -5342,6 +6778,10 @@
   "MartinPeterson": {
     "title": "Martin Peterson",
     "url": "/wiki/entities/martinpeterson/"
+  },
+  "MarylandTransportationAuthority": {
+    "title": "Maryland Transportation Authority",
+    "url": "/wiki/entities/marylandtransportationauthority/"
   },
   "Mas": {
     "title": "Mas",
@@ -5371,6 +6811,10 @@
     "title": "Matt Leeds",
     "url": "/wiki/entities/mattleeds/"
   },
+  "MattSchlicht": {
+    "title": "Matt Schlicht",
+    "url": "/wiki/entities/mattschlicht/"
+  },
   "MattSmith": {
     "title": "Matt Smith",
     "url": "/wiki/entities/mattsmith/"
@@ -5382,6 +6826,10 @@
   "MatterSim": {
     "title": "MatterSim",
     "url": "/wiki/entities/mattersim/"
+  },
+  "MatthewHolt": {
+    "title": "Matthew Holt",
+    "url": "/wiki/entities/matthewholt/"
   },
   "MaxineClark": {
     "title": "Maxine Clark",
@@ -5411,9 +6859,17 @@
     "title": "Medallion Fund",
     "url": "/wiki/entities/medallionfund/"
   },
+  "MediaAIRescueStrategy": {
+    "title": "Media AI Rescue Strategy",
+    "url": "/wiki/concepts/mediaairescuestrategy/"
+  },
   "MediaFormConstraint": {
     "title": "Media Form Constraint",
     "url": "/wiki/concepts/mediaformconstraint/"
+  },
+  "MediaInternetConvergence": {
+    "title": "Media Internet Convergence",
+    "url": "/wiki/concepts/mediainternetconvergence/"
   },
   "MediaTek": {
     "title": "MediaTek",
@@ -5495,6 +6951,10 @@
     "title": "Memory-Autonomy Framework",
     "url": "/wiki/concepts/memoryautonomyframework/"
   },
+  "MemoryChipShortage": {
+    "title": "Memory Chip Shortage",
+    "url": "/wiki/concepts/memorychipshortage/"
+  },
   "MengYan": {
     "title": "Meng Yan / 孟岩",
     "url": "/wiki/entities/mengyan/"
@@ -5511,6 +6971,10 @@
     "title": "Mercedes F1",
     "url": "/wiki/entities/mercedesf1/"
   },
+  "MeritExcellenceIntelligence": {
+    "title": "Merit, Excellence, and Intelligence",
+    "url": "/wiki/concepts/meritexcellenceintelligence/"
+  },
   "MerriamWebster": {
     "title": "Merriam-Webster",
     "url": "/wiki/entities/merriamwebster/"
@@ -5518,6 +6982,10 @@
   "Meta": {
     "title": "Meta",
     "url": "/wiki/entities/meta/"
+  },
+  "MetaAI": {
+    "title": "Meta AI",
+    "url": "/wiki/entities/metaai/"
   },
   "MiHoYo": {
     "title": "MiHoYo",
@@ -5527,6 +6995,10 @@
     "title": "蜜芽 / Mia",
     "url": "/wiki/entities/miaecommerce/"
   },
+  "Miami": {
+    "title": "Miami",
+    "url": "/wiki/entities/miami/"
+  },
   "Mianji": {
     "title": "面基",
     "url": "/wiki/entities/mianji/"
@@ -5534,6 +7006,14 @@
   "Miaoya": {
     "title": "妙鸭",
     "url": "/wiki/entities/miaoya/"
+  },
+  "MichaelCoppenheifer": {
+    "title": "Michael Coppenheifer",
+    "url": "/wiki/entities/michaelcoppenheifer/"
+  },
+  "MichaelSeibel": {
+    "title": "Michael Seibel",
+    "url": "/wiki/entities/michaelseibel/"
   },
   "MichelPlatini": {
     "title": "Michel Platini",
@@ -5575,6 +7055,14 @@
     "title": "咪咕 / Migu",
     "url": "/wiki/entities/migu/"
   },
+  "MikeIsaac": {
+    "title": "Mike Isaac",
+    "url": "/wiki/entities/mikeisaac/"
+  },
+  "MikeMoritz": {
+    "title": "Mike Moritz",
+    "url": "/wiki/entities/mikemoritz/"
+  },
   "MilieuSpecificAnalysis": {
     "title": "Milieu-Specific Analysis",
     "url": "/wiki/concepts/milieuspecificanalysis/"
@@ -5603,6 +7091,10 @@
     "title": "MiniMax M3",
     "url": "/wiki/entities/minimaxm3/"
   },
+  "MinistryOfIntelligenceAndSecurity": {
+    "title": "Ministry of Intelligence and Security",
+    "url": "/wiki/entities/ministryofintelligenceandsecurity/"
+  },
   "MinnanMaritimeCommercialCulture": {
     "title": "Minnan Maritime Commercial Culture",
     "url": "/wiki/concepts/minnanmaritimecommercialculture/"
@@ -5615,6 +7107,10 @@
     "title": "Mission Driven Customer Education",
     "url": "/wiki/concepts/missiondrivencustomereducation/"
   },
+  "MissionFocusedCompany": {
+    "title": "Mission-Focused Company",
+    "url": "/wiki/concepts/missionfocusedcompany/"
+  },
   "MixueBingcheng": {
     "title": "Mixue Bingcheng",
     "url": "/wiki/entities/mixuebingcheng/"
@@ -5622,6 +7118,10 @@
   "MobileAIWorkstation": {
     "title": "Mobile AI Workstation",
     "url": "/wiki/concepts/mobileaiworkstation/"
+  },
+  "MobileCarbonCapture": {
+    "title": "Mobile Carbon Capture",
+    "url": "/wiki/concepts/mobilecarboncapture/"
   },
   "MobileInternetPrehistory": {
     "title": "Mobile Internet Prehistory",
@@ -5671,9 +7171,17 @@
     "title": "Modern Time Discipline",
     "url": "/wiki/concepts/moderntimediscipline/"
   },
+  "ModernTreasury": {
+    "title": "Modern Treasury",
+    "url": "/wiki/entities/moderntreasury/"
+  },
   "MoekaIida": {
     "title": "Moeka Iida",
     "url": "/wiki/entities/moekaiida/"
+  },
+  "MoffettNathanson": {
+    "title": "MoffettNathanson",
+    "url": "/wiki/entities/moffettnathanson/"
   },
   "Mogujie": {
     "title": "蘑菇街 / Mogujie",
@@ -5687,6 +7195,10 @@
     "title": "Momo",
     "url": "/wiki/entities/momo/"
   },
+  "MondayCom": {
+    "title": "monday.com",
+    "url": "/wiki/entities/mondaycom/"
+  },
   "MonetaryPolicyLag": {
     "title": "Monetary Policy Lag",
     "url": "/wiki/concepts/monetarypolicylag/"
@@ -5695,9 +7207,25 @@
     "title": "Money Laundering Stages",
     "url": "/wiki/concepts/moneylaunderingstages/"
   },
+  "MoneyMovementInfrastructure": {
+    "title": "Money Movement Infrastructure",
+    "url": "/wiki/concepts/moneymovementinfrastructure/"
+  },
+  "Montana": {
+    "title": "Montana",
+    "url": "/wiki/entities/montana/"
+  },
+  "Moon": {
+    "title": "Moon",
+    "url": "/wiki/entities/moon/"
+  },
   "MortgageApproval": {
     "title": "Mortgage Approval",
     "url": "/wiki/concepts/mortgageapproval/"
+  },
+  "MoteBook": {
+    "title": "MoteBook",
+    "url": "/wiki/entities/motebook/"
   },
   "MotionSmoothing": {
     "title": "Motion Smoothing",
@@ -5710,6 +7238,10 @@
   "Moxt": {
     "title": "Moxt",
     "url": "/wiki/entities/moxt/"
+  },
+  "MtGox": {
+    "title": "Mt. Gox",
+    "url": "/wiki/entities/mtgox/"
   },
   "Mujian": {
     "title": "Mujian",
@@ -5783,6 +7315,10 @@
     "title": "南方全球",
     "url": "/wiki/entities/nanfangquanqiu/"
   },
+  "Napster": {
+    "title": "Napster",
+    "url": "/wiki/entities/napster/"
+  },
   "Nasdaq": {
     "title": "Nasdaq",
     "url": "/wiki/entities/nasdaq/"
@@ -5795,13 +7331,33 @@
     "title": "Nassim Taleb",
     "url": "/wiki/entities/nassimtaleb/"
   },
+  "NateBlecharczyk": {
+    "title": "Nate Blecharczyk",
+    "url": "/wiki/entities/nateblecharczyk/"
+  },
+  "NationalBasketballAssociation": {
+    "title": "National Basketball Association",
+    "url": "/wiki/entities/nationalbasketballassociation/"
+  },
   "NationalConferenceOfStateLegislatures": {
     "title": "National Conference of State Legislatures",
     "url": "/wiki/entities/nationalconferenceofstatelegislatures/"
   },
+  "NationalFinancialCapabilityStudy": {
+    "title": "National Financial Capability Study",
+    "url": "/wiki/entities/nationalfinancialcapabilitystudy/"
+  },
   "NationalRally": {
     "title": "National Rally",
     "url": "/wiki/entities/nationalrally/"
+  },
+  "NationalSemiconductor": {
+    "title": "National Semiconductor",
+    "url": "/wiki/entities/nationalsemiconductor/"
+  },
+  "NationalStudentClearinghouseResearchCenter": {
+    "title": "National Student Clearinghouse Research Center",
+    "url": "/wiki/entities/nationalstudentclearinghouseresearchcenter/"
   },
   "NaturalSelection": {
     "title": "Natural Selection / 自然选择",
@@ -5839,6 +7395,10 @@
     "title": "网易严选 / NetEase Yanxuan",
     "url": "/wiki/entities/neteaseyanxuan/"
   },
+  "Netcraft": {
+    "title": "Netcraft",
+    "url": "/wiki/entities/netcraft/"
+  },
   "Netflix": {
     "title": "Netflix",
     "url": "/wiki/entities/netflix/"
@@ -5847,6 +7407,10 @@
     "title": "Neural Geometry",
     "url": "/wiki/concepts/neuralgeometry/"
   },
+  "NeuralProcessingUnits": {
+    "title": "Neural Processing Units",
+    "url": "/wiki/concepts/neuralprocessingunits/"
+  },
   "NewBalance": {
     "title": "New Balance",
     "url": "/wiki/entities/newbalance/"
@@ -5854,6 +7418,18 @@
   "NewSpot": {
     "title": "NewSpot",
     "url": "/wiki/entities/newspot/"
+  },
+  "NewYorkTimes": {
+    "title": "New York Times",
+    "url": "/wiki/entities/newyorktimes/"
+  },
+  "NewsCorp": {
+    "title": "News Corp",
+    "url": "/wiki/entities/newscorp/"
+  },
+  "NewsroomAIAdoption": {
+    "title": "Newsroom AI Adoption",
+    "url": "/wiki/concepts/newsroomaiadoption/"
   },
   "NiDeShufang": {
     "title": "你的书房",
@@ -5870,6 +7446,14 @@
   "NicholasPelham": {
     "title": "Nicholas Pelham",
     "url": "/wiki/entities/nicholaspelham/"
+  },
+  "NickSwisher": {
+    "title": "Nick Swisher",
+    "url": "/wiki/entities/nickswisher/"
+  },
+  "NicoleTurnerLee": {
+    "title": "Nicole Turner-Lee",
+    "url": "/wiki/entities/nicoleturnerlee/"
   },
   "Nigeria": {
     "title": "Nigeria",
@@ -5923,6 +7507,18 @@
     "title": "Nonfiction Publicness",
     "url": "/wiki/concepts/nonfictionpublicness/"
   },
+  "NonprofitStartupDiscipline": {
+    "title": "Nonprofit Startup Discipline",
+    "url": "/wiki/concepts/nonprofitstartupdiscipline/"
+  },
+  "NooraHealth": {
+    "title": "Noora Health",
+    "url": "/wiki/entities/noorahealth/"
+  },
+  "NorthKorea": {
+    "title": "North Korea",
+    "url": "/wiki/entities/northkorea/"
+  },
   "NotebookLM": {
     "title": "NotebookLM",
     "url": "/wiki/entities/notebooklm/"
@@ -5946,6 +7542,10 @@
   "ObamaPresidentialCenter": {
     "title": "Obama Presidential Center",
     "url": "/wiki/entities/obamapresidentialcenter/"
+  },
+  "ObjectiveHiringAssessment": {
+    "title": "Objective Hiring Assessment",
+    "url": "/wiki/concepts/objectivehiringassessment/"
   },
   "OceanAcidification": {
     "title": "Ocean Acidification",
@@ -5991,9 +7591,17 @@
     "title": "Oliver Morton",
     "url": "/wiki/entities/olivermorton/"
   },
+  "OliviaValdez": {
+    "title": "Olivia Valdez",
+    "url": "/wiki/entities/oliviavaldez/"
+  },
   "OmerKhan": {
     "title": "Omer Khan",
     "url": "/wiki/entities/omerkhan/"
+  },
+  "OmidKordestani": {
+    "title": "Omid Kordestani",
+    "url": "/wiki/entities/omidkordestani/"
   },
   "OnDemandApps": {
     "title": "On-Demand Apps",
@@ -6063,6 +7671,14 @@
     "title": "OpenAI",
     "url": "/wiki/entities/openai/"
   },
+  "OpenAIBoardCrisis": {
+    "title": "OpenAI Board Crisis",
+    "url": "/wiki/concepts/openaiboardcrisis/"
+  },
+  "OpenAIFrontier": {
+    "title": "OpenAI Frontier",
+    "url": "/wiki/entities/openaifrontier/"
+  },
   "OpenBionics": {
     "title": "Open Bionics",
     "url": "/wiki/entities/openbionics/"
@@ -6103,6 +7719,10 @@
     "title": "Operational Data Capture",
     "url": "/wiki/concepts/operationaldatacapture/"
   },
+  "OperationalPainFounderInsight": {
+    "title": "Operational Pain Founder Insight",
+    "url": "/wiki/concepts/operationalpainfounderinsight/"
+  },
   "OperatorSubsidizedHandsets": {
     "title": "Operator-Subsidized Handsets",
     "url": "/wiki/concepts/operatorsubsidizedhandsets/"
@@ -6135,6 +7755,10 @@
     "title": "Organizational Context",
     "url": "/wiki/concepts/organizationalcontext/"
   },
+  "OrganizedAngelInvestorNetworks": {
+    "title": "Organized Angel Investor Networks",
+    "url": "/wiki/concepts/organizedangelinvestornetworks/"
+  },
   "OrlandBishop": {
     "title": "Orland Bishop",
     "url": "/wiki/entities/orlandbishop/"
@@ -6162,6 +7786,10 @@
   "Outrank": {
     "title": "Outrank",
     "url": "/wiki/entities/outrank/"
+  },
+  "OverStory": {
+    "title": "OverStory",
+    "url": "/wiki/entities/overstory/"
   },
   "OverseasChineseMutualAidNetworks": {
     "title": "Overseas Chinese Mutual Aid Networks",
@@ -6207,6 +7835,10 @@
     "title": "Packaging As Product Experience",
     "url": "/wiki/concepts/packagingasproductexperience/"
   },
+  "PageRankSearchRelevance": {
+    "title": "PageRank Search Relevance",
+    "url": "/wiki/concepts/pageranksearchrelevance/"
+  },
   "Palantir": {
     "title": "Palantir",
     "url": "/wiki/entities/palantir/"
@@ -6235,6 +7867,14 @@
     "title": "Paramount",
     "url": "/wiki/entities/paramount/"
   },
+  "PareshDave": {
+    "title": "Paresh Dave",
+    "url": "/wiki/entities/pareshdave/"
+  },
+  "ParkerConrad": {
+    "title": "Parker Conrad",
+    "url": "/wiki/entities/parkerconrad/"
+  },
   "ParticipatoryExhibitions": {
     "title": "Participatory Exhibitions",
     "url": "/wiki/concepts/participatoryexhibitions/"
@@ -6255,9 +7895,17 @@
     "title": "Patagonia",
     "url": "/wiki/entities/patagonia/"
   },
+  "PathJoy": {
+    "title": "PathJoy",
+    "url": "/wiki/entities/pathjoy/"
+  },
   "PatientAIUse": {
     "title": "Patient AI Use",
     "url": "/wiki/concepts/patientaiuse/"
+  },
+  "PatrickCollison": {
+    "title": "Patrick Collison",
+    "url": "/wiki/entities/patrickcollison/"
   },
   "PaulBuchheit": {
     "title": "Paul Buchheit",
@@ -6266,6 +7914,10 @@
   "PaulGraham": {
     "title": "Paul Graham",
     "url": "/wiki/entities/paulgraham/"
+  },
+  "PaulGross": {
+    "title": "Paul Gross",
+    "url": "/wiki/entities/paulgross/"
   },
   "PayPerClassFitnessModel": {
     "title": "Pay-Per-Class Fitness Model",
@@ -6279,13 +7931,33 @@
     "title": "Payment Led Market Selection",
     "url": "/wiki/concepts/paymentledmarketselection/"
   },
+  "PaymentsInfrastructurePivot": {
+    "title": "Payments Infrastructure Pivot",
+    "url": "/wiki/concepts/paymentsinfrastructurepivot/"
+  },
   "PeakAI": {
     "title": "Peak AI",
     "url": "/wiki/entities/peakai/"
   },
+  "Pebble": {
+    "title": "Pebble",
+    "url": "/wiki/entities/pebble/"
+  },
+  "PeerToPeerMarketplaceTrust": {
+    "title": "Peer-to-Peer Marketplace Trust",
+    "url": "/wiki/concepts/peertopeermarketplacetrust/"
+  },
+  "PeerToPeerSynchronizationRisk": {
+    "title": "Peer-to-Peer Synchronization Risk",
+    "url": "/wiki/concepts/peertopeersynchronizationrisk/"
+  },
   "PeetsCoffee": {
     "title": "Peet's Coffee",
     "url": "/wiki/entities/peetscoffee/"
+  },
+  "PejmanNozad": {
+    "title": "Pejman Nozad",
+    "url": "/wiki/entities/pejmannozad/"
   },
   "PengWenjun": {
     "title": "彭文君",
@@ -6315,6 +7987,10 @@
     "title": "Personal Credit Record",
     "url": "/wiki/concepts/personalcreditrecord/"
   },
+  "PersonalDigitalArchiving": {
+    "title": "Personal Digital Archiving",
+    "url": "/wiki/concepts/personaldigitalarchiving/"
+  },
   "PersonalHealthData": {
     "title": "Personal Health Data",
     "url": "/wiki/concepts/personalhealthdata/"
@@ -6331,6 +8007,14 @@
     "title": "Personal Security Tiering",
     "url": "/wiki/concepts/personalsecuritytiering/"
   },
+  "PersonalSuperintelligence": {
+    "title": "Personal Superintelligence",
+    "url": "/wiki/concepts/personalsuperintelligence/"
+  },
+  "PersonalizationAsSocialIdentity": {
+    "title": "Personalization As Social Identity",
+    "url": "/wiki/concepts/personalizationassocialidentity/"
+  },
   "PetTravel": {
     "title": "Pet Travel",
     "url": "/wiki/concepts/pettravel/"
@@ -6338,6 +8022,10 @@
   "Petaluma": {
     "title": "Petaluma",
     "url": "/wiki/entities/petaluma/"
+  },
+  "PeteHegseth": {
+    "title": "Pete Hegseth",
+    "url": "/wiki/entities/petehegseth/"
   },
   "PeterAndrews": {
     "title": "Peter Andrews",
@@ -6354,6 +8042,10 @@
   "PeterMandelson": {
     "title": "Peter Mandelson",
     "url": "/wiki/entities/petermandelson/"
+  },
+  "PewResearchCenter": {
+    "title": "Pew Research Center",
+    "url": "/wiki/entities/pewresearchcenter/"
   },
   "PharmaceuticalEcommerce": {
     "title": "Pharmaceutical Ecommerce",
@@ -6382,6 +8074,10 @@
   "PhysicalIntelligence": {
     "title": "Physical Intelligence",
     "url": "/wiki/entities/physicalintelligence/"
+  },
+  "PhysicalVideoMediaRevival": {
+    "title": "Physical Video Media Revival",
+    "url": "/wiki/concepts/physicalvideomediarevival/"
   },
   "PhysicalWorldDataFlywheel": {
     "title": "Physical World Data Flywheel",
@@ -6447,6 +8143,10 @@
     "title": "Platform Antitrust",
     "url": "/wiki/concepts/platformantitrust/"
   },
+  "PlatformCommunityGovernance": {
+    "title": "Platform Community Governance",
+    "url": "/wiki/concepts/platformcommunitygovernance/"
+  },
   "PlatformCompanyWorldviews": {
     "title": "Platform Company Worldviews",
     "url": "/wiki/concepts/platformcompanyworldviews/"
@@ -6467,9 +8167,17 @@
     "title": "Platform Intermediation Tax",
     "url": "/wiki/concepts/platformintermediationtax/"
   },
+  "PlatformOwnershipTransition": {
+    "title": "Platform Ownership Transition",
+    "url": "/wiki/concepts/platformownershiptransition/"
+  },
   "PlatformizedDramaProduction": {
     "title": "Platformized Drama Production",
     "url": "/wiki/concepts/platformizeddramaproduction/"
+  },
+  "Plaxo": {
+    "title": "Plaxo",
+    "url": "/wiki/entities/plaxo/"
   },
   "PlayStation": {
     "title": "PlayStation",
@@ -6547,6 +8255,10 @@
     "title": "Population Coding",
     "url": "/wiki/concepts/populationcoding/"
   },
+  "PortOfBaltimore": {
+    "title": "Port of Baltimore",
+    "url": "/wiki/entities/portofbaltimore/"
+  },
   "PortableCreatorCameras": {
     "title": "Portable Creator Cameras",
     "url": "/wiki/concepts/portablecreatorcameras/"
@@ -6571,9 +8283,17 @@
     "title": "Post-Brexit Strategic Identity",
     "url": "/wiki/concepts/postbrexitstrategicidentity/"
   },
+  "PostMortemAIConsent": {
+    "title": "Post-Mortem AI Consent",
+    "url": "/wiki/concepts/postmortemaiconsent/"
+  },
   "PostOwnership": {
     "title": "Post Ownership",
     "url": "/wiki/concepts/postownership/"
+  },
+  "Posterous": {
+    "title": "Posterous",
+    "url": "/wiki/entities/posterous/"
   },
   "PowerUserDiscovery": {
     "title": "Power User Discovery",
@@ -6583,6 +8303,18 @@
     "title": "Pre-Product Selling",
     "url": "/wiki/concepts/preproductselling/"
   },
+  "PredictionMarketEthics": {
+    "title": "Prediction Market Ethics",
+    "url": "/wiki/concepts/predictionmarketethics/"
+  },
+  "PredictionMarketIntegrityOversight": {
+    "title": "Prediction Market Integrity Oversight",
+    "url": "/wiki/concepts/predictionmarketintegrityoversight/"
+  },
+  "PredictionMarketSelfRegulation": {
+    "title": "Prediction Market Self-Regulation",
+    "url": "/wiki/concepts/predictionmarketselfregulation/"
+  },
   "PremierLeague": {
     "title": "Premier League",
     "url": "/wiki/entities/premierleague/"
@@ -6590,6 +8322,10 @@
   "PremiumEverydayBrandTension": {
     "title": "Premium-Everyday Brand Tension",
     "url": "/wiki/concepts/premiumeverydaybrandtension/"
+  },
+  "PreservationTechnicalEnvironment": {
+    "title": "Preservation Technical Environment",
+    "url": "/wiki/concepts/preservationtechnicalenvironment/"
   },
   "PresidentialConflictOfInterest": {
     "title": "Presidential Conflict Of Interest",
@@ -6599,9 +8335,21 @@
     "title": "Presidential Memorial Culture",
     "url": "/wiki/concepts/presidentialmemorialculture/"
   },
+  "PriceWarGrowth": {
+    "title": "Price War Growth",
+    "url": "/wiki/concepts/pricewargrowth/"
+  },
+  "Prim": {
+    "title": "Prim",
+    "url": "/wiki/entities/prim/"
+  },
   "PrimeBorrowerCreditRisk": {
     "title": "Prime Borrower Credit Risk",
     "url": "/wiki/concepts/primeborrowercreditrisk/"
+  },
+  "PrinceGroup": {
+    "title": "Prince Group",
+    "url": "/wiki/entities/princegroup/"
   },
   "PrinceHisahito": {
     "title": "Prince Hisahito",
@@ -6658,6 +8406,10 @@
   "ProductRoast": {
     "title": "Product Roast",
     "url": "/wiki/concepts/productroast/"
+  },
+  "ProductVisionDrift": {
+    "title": "Product Vision Drift",
+    "url": "/wiki/concepts/productvisiondrift/"
   },
   "ProductionRobotScenarioSelection": {
     "title": "Production Robot Scenario Selection",
@@ -6734,6 +8486,10 @@
   "PublisherRelationshipMoat": {
     "title": "Publisher Relationship Moat",
     "url": "/wiki/concepts/publisherrelationshipmoat/"
+  },
+  "Pulley": {
+    "title": "Pulley",
+    "url": "/wiki/entities/pulley/"
   },
   "PupuSupermarket": {
     "title": "朴朴超市 / Pupu Supermarket",
@@ -6819,13 +8575,29 @@
     "title": "QuickStone",
     "url": "/wiki/entities/quickstone/"
   },
+  "QuizParty": {
+    "title": "QuizParty",
+    "url": "/wiki/entities/quizparty/"
+  },
   "Qunar": {
     "title": "Qunar",
     "url": "/wiki/entities/qunar/"
   },
+  "Quora": {
+    "title": "Quora",
+    "url": "/wiki/entities/quora/"
+  },
   "Qwen": {
     "title": "Qwen",
     "url": "/wiki/entities/qwen/"
+  },
+  "RAND": {
+    "title": "RAND",
+    "url": "/wiki/entities/rand/"
+  },
+  "RIAA": {
+    "title": "RIAA",
+    "url": "/wiki/entities/riaa/"
   },
   "RMBExchangeRatePolicy": {
     "title": "RMB Exchange Rate Policy",
@@ -6843,13 +8615,25 @@
     "title": "Race Promotion Fees",
     "url": "/wiki/concepts/racepromotionfees/"
   },
+  "RafePilling": {
+    "title": "Rafe Pilling",
+    "url": "/wiki/entities/rafepilling/"
+  },
   "RahulBanerjee": {
     "title": "Rahul Banerjee",
     "url": "/wiki/entities/rahulbanerjee/"
   },
+  "RajivMotwani": {
+    "title": "Rajiv Motwani",
+    "url": "/wiki/entities/rajivmotwani/"
+  },
   "RalphGoody": {
     "title": "Ralph Goody",
     "url": "/wiki/entities/ralphgoody/"
+  },
+  "RamShriram": {
+    "title": "Ram Shriram",
+    "url": "/wiki/entities/ramshriram/"
   },
   "RandomMarketNarratives": {
     "title": "Random Market Narratives",
@@ -6863,6 +8647,18 @@
     "title": "Ratings.com",
     "url": "/wiki/entities/ratingscom/"
   },
+  "RayBanSmartGlasses": {
+    "title": "Ray-Ban Smart Glasses",
+    "url": "/wiki/entities/raybansmartglasses/"
+  },
+  "RaySmith": {
+    "title": "Ray Smith",
+    "url": "/wiki/entities/raysmith/"
+  },
+  "Raytheon": {
+    "title": "Raytheon",
+    "url": "/wiki/entities/raytheon/"
+  },
   "ReadingAsFrameTraining": {
     "title": "Reading As Frame Training",
     "url": "/wiki/concepts/readingasframetraining/"
@@ -6870,6 +8666,14 @@
   "RealRobotDataStrategy": {
     "title": "Real Robot Data Strategy",
     "url": "/wiki/concepts/realrobotdatastrategy/"
+  },
+  "RealWorldConnectionProducts": {
+    "title": "Real-World Connection Products",
+    "url": "/wiki/concepts/realworldconnectionproducts/"
+  },
+  "RealityLabs": {
+    "title": "Reality Labs",
+    "url": "/wiki/entities/realitylabs/"
   },
   "RebeccaJackson": {
     "title": "Rebecca Jackson",
@@ -6898,6 +8702,10 @@
   "RecordAndReplay": {
     "title": "Record and Replay",
     "url": "/wiki/concepts/recordandreplay/"
+  },
+  "RecordedMeetingAnalysis": {
+    "title": "Recorded Meeting Analysis",
+    "url": "/wiki/concepts/recordedmeetinganalysis/"
   },
   "RecruiterBox": {
     "title": "RecruiterBox",
@@ -6931,6 +8739,14 @@
     "title": "红孩子 / Redbaby",
     "url": "/wiki/entities/redbaby/"
   },
+  "Redbooth": {
+    "title": "Redbooth",
+    "url": "/wiki/entities/redbooth/"
+  },
+  "Reddit": {
+    "title": "Reddit",
+    "url": "/wiki/entities/reddit/"
+  },
   "ReferenceCheckHiring": {
     "title": "Reference-Check Hiring",
     "url": "/wiki/concepts/referencecheckhiring/"
@@ -6943,17 +8759,37 @@
     "title": "Regional Network Topology Risk",
     "url": "/wiki/concepts/regionalnetworktopologyrisk/"
   },
+  "RegulatedCryptoTrustStrategy": {
+    "title": "Regulated Crypto Trust Strategy",
+    "url": "/wiki/concepts/regulatedcryptotruststrategy/"
+  },
   "RehuLuandun": {
     "title": "热乎乱炖",
     "url": "/wiki/entities/rehuluandun/"
+  },
+  "ReidHoffman": {
+    "title": "Reid Hoffman",
+    "url": "/wiki/entities/reidhoffman/"
   },
   "RelationshipLedGrowth": {
     "title": "Relationship-Led Growth",
     "url": "/wiki/concepts/relationshipledgrowth/"
   },
+  "RelationshipLedSales": {
+    "title": "Relationship-Led Sales",
+    "url": "/wiki/concepts/relationshipledsales/"
+  },
+  "RelentlesslyResourcefulFounder": {
+    "title": "Relentlessly Resourceful Founder",
+    "url": "/wiki/concepts/relentlesslyresourcefulfounder/"
+  },
   "RelevantSports": {
     "title": "Relevant Sports",
     "url": "/wiki/entities/relevantsports/"
+  },
+  "RemoraCarbon": {
+    "title": "Remora Carbon",
+    "url": "/wiki/entities/remoracarbon/"
   },
   "RenNing": {
     "title": "任宁 / Ren Ning",
@@ -6970,6 +8806,10 @@
   "RepeatableCustomerLanguage": {
     "title": "Repeatable Customer Language",
     "url": "/wiki/concepts/repeatablecustomerlanguage/"
+  },
+  "Replit": {
+    "title": "Replit",
+    "url": "/wiki/entities/replit/"
   },
   "RepresentationLearning": {
     "title": "Representation Learning",
@@ -7063,9 +8903,25 @@
     "title": "Revlon",
     "url": "/wiki/entities/revlon/"
   },
+  "RichAberman": {
+    "title": "Rich Aberman",
+    "url": "/wiki/entities/richaberman/"
+  },
   "RickRubin": {
     "title": "Rick Rubin",
     "url": "/wiki/entities/rickrubin/"
+  },
+  "Ring": {
+    "title": "Ring",
+    "url": "/wiki/entities/ring/"
+  },
+  "RingSearchParty": {
+    "title": "Ring Search Party",
+    "url": "/wiki/entities/ringsearchparty/"
+  },
+  "Rippling": {
+    "title": "Rippling",
+    "url": "/wiki/entities/rippling/"
   },
   "Rishengchang": {
     "title": "Rishengchang / 日升昌",
@@ -7082,6 +8938,10 @@
   "RoadsideAdvertisingSpectacle": {
     "title": "Roadside Advertising Spectacle",
     "url": "/wiki/concepts/roadsideadvertisingspectacle/"
+  },
+  "RobbieMcCluskey": {
+    "title": "Robbie McCluskey",
+    "url": "/wiki/entities/robbiemccluskey/"
   },
   "RobertGuest": {
     "title": "Robert Guest",
@@ -7119,6 +8979,10 @@
     "title": "Robot Teleoperation and Remote Takeover",
     "url": "/wiki/concepts/robotteleoperationandremotetakeover/"
   },
+  "RobotaxiEconomics": {
+    "title": "Robotaxi Economics",
+    "url": "/wiki/concepts/robotaxieconomics/"
+  },
   "RoboticsSimulationEvaluation": {
     "title": "Robotics Simulation Evaluation",
     "url": "/wiki/concepts/roboticssimulationevaluation/"
@@ -7130,6 +8994,14 @@
   "RollingAI": {
     "title": "Rolling AI",
     "url": "/wiki/entities/rollingai/"
+  },
+  "RonConway": {
+    "title": "Ron Conway",
+    "url": "/wiki/entities/ronconway/"
+  },
+  "RonWyden": {
+    "title": "Ron Wyden",
+    "url": "/wiki/entities/ronwyden/"
   },
   "RongzhongGroup": {
     "title": "Rongzhong Group / 荣众集团",
@@ -7207,6 +9079,10 @@
     "title": "SBM Intelligence",
     "url": "/wiki/entities/sbmintelligence/"
   },
+  "SEC": {
+    "title": "SEC",
+    "url": "/wiki/entities/sec/"
+  },
   "SKHynix": {
     "title": "SK Hynix",
     "url": "/wiki/entities/skhynix/"
@@ -7227,6 +9103,10 @@
     "title": "STARR Restaurants",
     "url": "/wiki/entities/starrrestaurants/"
   },
+  "SVAngel": {
+    "title": "SV Angel",
+    "url": "/wiki/entities/svangel/"
+  },
   "SaaSHoldingCompany": {
     "title": "SaaS Holding Company",
     "url": "/wiki/concepts/saasholdingcompany/"
@@ -7243,13 +9123,29 @@
     "title": "Sabastian Sawe",
     "url": "/wiki/entities/sabastiansawe/"
   },
+  "SadiaPekkanen": {
+    "title": "Sadia Pekkanen",
+    "url": "/wiki/entities/sadiapekkanen/"
+  },
   "SahmRule": {
     "title": "Sahm Rule",
     "url": "/wiki/concepts/sahmrule/"
   },
+  "SalarKamangar": {
+    "title": "Salar Kamangar",
+    "url": "/wiki/entities/salarkamangar/"
+  },
   "SalesVelocity": {
     "title": "Sales Velocity",
     "url": "/wiki/concepts/salesvelocity/"
+  },
+  "SamAltman": {
+    "title": "Sam Altman",
+    "url": "/wiki/entities/samaltman/"
+  },
+  "SamBankmanFried": {
+    "title": "Sam Bankman-Fried",
+    "url": "/wiki/entities/sambankmanfried/"
   },
   "SameDev": {
     "title": "Same.Dev",
@@ -7295,6 +9191,10 @@
     "title": "Scale AI",
     "url": "/wiki/entities/scaleai/"
   },
+  "ScalingBrokenProduct": {
+    "title": "Scaling Broken Product",
+    "url": "/wiki/concepts/scalingbrokenproduct/"
+  },
   "ScottBrennan": {
     "title": "Scott Brennan",
     "url": "/wiki/entities/scottbrennan/"
@@ -7319,9 +9219,25 @@
     "title": "SeaWorld",
     "url": "/wiki/entities/seaworld/"
   },
+  "SeanFanning": {
+    "title": "Sean Fanning",
+    "url": "/wiki/entities/seanfanning/"
+  },
+  "SeanParker": {
+    "title": "Sean Parker",
+    "url": "/wiki/entities/seanparker/"
+  },
+  "SearchAdTrustGap": {
+    "title": "Search Ad Trust Gap",
+    "url": "/wiki/concepts/searchadtrustgap/"
+  },
   "SearchAdvertisingDecline": {
     "title": "Search Advertising Decline",
     "url": "/wiki/concepts/searchadvertisingdecline/"
+  },
+  "SearchQualityOperatingCadence": {
+    "title": "Search Quality Operating Cadence",
+    "url": "/wiki/concepts/searchqualityoperatingcadence/"
   },
   "SeasonalInventoryFinancing": {
     "title": "Seasonal Inventory Financing",
@@ -7367,6 +9283,10 @@
     "title": "Self-Directed Work",
     "url": "/wiki/concepts/selfdirectedwork/"
   },
+  "SelfDisruptionDiscipline": {
+    "title": "Self-Disruption Discipline",
+    "url": "/wiki/concepts/selfdisruptiondiscipline/"
+  },
   "SelfSupervisedLearning": {
     "title": "Self-Supervised Learning",
     "url": "/wiki/concepts/selfsupervisedlearning/"
@@ -7383,9 +9303,17 @@
     "title": "Semiconductor 3D Stacking",
     "url": "/wiki/concepts/semiconductor3dstacking/"
   },
+  "SemiconductorTalentGenealogy": {
+    "title": "Semiconductor Talent Genealogy",
+    "url": "/wiki/concepts/semiconductortalentgenealogy/"
+  },
   "SenseTime": {
     "title": "SenseTime",
     "url": "/wiki/entities/sensetime/"
+  },
+  "SensorDrivenInfrastructureMaintenance": {
+    "title": "Sensor-Driven Infrastructure Maintenance",
+    "url": "/wiki/concepts/sensordriveninfrastructuremaintenance/"
   },
   "SeongsuDong": {
     "title": "Seongsu-dong / 圣水洞",
@@ -7395,6 +9323,14 @@
     "title": "Sepp Blatter",
     "url": "/wiki/entities/seppblatter/"
   },
+  "SequoiaCapital": {
+    "title": "Sequoia Capital",
+    "url": "/wiki/entities/sequoiacapital/"
+  },
+  "SergeyBrin": {
+    "title": "Sergey Brin",
+    "url": "/wiki/entities/sergeybrin/"
+  },
   "ServiceAsSoftware": {
     "title": "Service As Software",
     "url": "/wiki/concepts/serviceassoftware/"
@@ -7403,6 +9339,14 @@
     "title": "Service Brand Standardization",
     "url": "/wiki/concepts/servicebrandstandardization/"
   },
+  "ServiceMarketplaceQualityControl": {
+    "title": "Service Marketplace Quality Control",
+    "url": "/wiki/concepts/servicemarketplacequalitycontrol/"
+  },
+  "ServiceNow": {
+    "title": "ServiceNow",
+    "url": "/wiki/entities/servicenow/"
+  },
   "ServiceProductization": {
     "title": "Service Productization",
     "url": "/wiki/concepts/serviceproductization/"
@@ -7410,6 +9354,10 @@
   "SeventhGeneration": {
     "title": "Seventh Generation",
     "url": "/wiki/entities/seventhgeneration/"
+  },
+  "Shahed136": {
+    "title": "Shahed 136",
+    "url": "/wiki/entities/shahed136/"
   },
   "ShallowSeaDeepSeaCategoryStrategy": {
     "title": "Shallow Sea Deep Sea Category Strategy",
@@ -7507,6 +9455,10 @@
     "title": "Shenzhen / 深圳",
     "url": "/wiki/entities/shenzhen/"
   },
+  "SherylSandberg": {
+    "title": "Sheryl Sandberg",
+    "url": "/wiki/entities/sherylsandberg/"
+  },
   "Shibo": {
     "title": "Shibo",
     "url": "/wiki/entities/shibo/"
@@ -7514,6 +9466,10 @@
   "ShiraAviono": {
     "title": "Shira Aviono",
     "url": "/wiki/entities/shiraaviono/"
+  },
+  "ShivonZilis": {
+    "title": "Shivon Zilis",
+    "url": "/wiki/entities/shivonzilis/"
   },
   "ShizilukouCrossing": {
     "title": "Shizilukou Crossing",
@@ -7563,9 +9519,17 @@
     "title": "Sidewalk Delivery Robots",
     "url": "/wiki/concepts/sidewalkdeliveryrobots/"
   },
+  "SignatureBank": {
+    "title": "Signature Bank",
+    "url": "/wiki/entities/signaturebank/"
+  },
   "SilentProtagonist": {
     "title": "Silent Protagonist",
     "url": "/wiki/concepts/silentprotagonist/"
+  },
+  "SilentPush": {
+    "title": "Silent Push",
+    "url": "/wiki/entities/silentpush/"
   },
   "SiliconCarbonGovernance": {
     "title": "Silicon Carbon Governance",
@@ -7575,13 +9539,25 @@
     "title": "硅谷101",
     "url": "/wiki/entities/siliconvalley101/"
   },
+  "SiliconValleyBank": {
+    "title": "Silicon Valley Bank",
+    "url": "/wiki/entities/siliconvalleybank/"
+  },
   "SilverDollarCredit": {
     "title": "Silver Dollar Credit",
     "url": "/wiki/concepts/silverdollarcredit/"
   },
+  "SilverLake": {
+    "title": "Silver Lake",
+    "url": "/wiki/entities/silverlake/"
+  },
   "Simon": {
     "title": "Simon",
     "url": "/wiki/entities/simon/"
+  },
+  "SimplyInsured": {
+    "title": "Simply Insured",
+    "url": "/wiki/entities/simplyinsured/"
   },
   "Singapore": {
     "title": "Singapore",
@@ -7590,6 +9566,10 @@
   "SingaporeAirlines": {
     "title": "Singapore Airlines",
     "url": "/wiki/entities/singaporeairlines/"
+  },
+  "Sinocism": {
+    "title": "Sinocism",
+    "url": "/wiki/entities/sinocism/"
   },
   "Siri": {
     "title": "Siri",
@@ -7611,6 +9591,14 @@
     "title": "Slack",
     "url": "/wiki/entities/slack/"
   },
+  "Slashdot": {
+    "title": "Slashdot",
+    "url": "/wiki/entities/slashdot/"
+  },
+  "SlowProductMarketFit": {
+    "title": "Slow Product Market Fit",
+    "url": "/wiki/concepts/slowproductmarketfit/"
+  },
   "SmartphoneAIHub": {
     "title": "Smartphone AI Hub",
     "url": "/wiki/concepts/smartphoneaihub/"
@@ -7619,9 +9607,25 @@
     "title": "Smartphone Operating System Ecosystems",
     "url": "/wiki/concepts/smartphoneoperatingsystemecosystems/"
   },
+  "SmartphoneSurveyPenalty": {
+    "title": "Smartphone Survey Penalty",
+    "url": "/wiki/concepts/smartphonesurveypenalty/"
+  },
+  "SmithVMaryland": {
+    "title": "Smith v. Maryland",
+    "url": "/wiki/concepts/smithvmaryland/"
+  },
+  "Snapchat": {
+    "title": "Snapchat",
+    "url": "/wiki/entities/snapchat/"
+  },
   "SnowWhiteAndTheSevenDwarfs": {
     "title": "Snow White and the Seven Dwarfs",
     "url": "/wiki/entities/snowwhiteandthesevendwarfs/"
+  },
+  "Snowcap": {
+    "title": "Snowcap",
+    "url": "/wiki/entities/snowcap/"
   },
   "Snowdevil": {
     "title": "Snowdevil",
@@ -7638,6 +9642,10 @@
   "SocialGraphMoat": {
     "title": "Social Graph Moat",
     "url": "/wiki/concepts/socialgraphmoat/"
+  },
+  "SocialMediaProductLiability": {
+    "title": "Social Media Product Liability",
+    "url": "/wiki/concepts/socialmediaproductliability/"
   },
   "SocialSignalInterpretation": {
     "title": "Social Signal Interpretation",
@@ -7679,9 +9687,17 @@
     "title": "Sophie Pedder",
     "url": "/wiki/entities/sophiepedder/"
   },
+  "Sophos": {
+    "title": "Sophos",
+    "url": "/wiki/entities/sophos/"
+  },
   "Sora": {
     "title": "Sora",
     "url": "/wiki/entities/sora/"
+  },
+  "SouthFloridaTechMigration": {
+    "title": "South Florida Tech Migration",
+    "url": "/wiki/concepts/southfloridatechmigration/"
   },
   "SouthKorea": {
     "title": "South Korea / 韩国",
@@ -7694,6 +9710,10 @@
   "SpaceEconomyInfrastructure": {
     "title": "Space Economy Infrastructure",
     "url": "/wiki/concepts/spaceeconomyinfrastructure/"
+  },
+  "SpaceResourceExtraction": {
+    "title": "Space Resource Extraction",
+    "url": "/wiki/concepts/spaceresourceextraction/"
   },
   "SpaceX": {
     "title": "SpaceX",
@@ -7743,6 +9763,18 @@
     "title": "Sports Rights Growth Engine",
     "url": "/wiki/concepts/sportsrightsgrowthengine/"
   },
+  "SportsbookIntegrityMonitoring": {
+    "title": "Sportsbook Integrity Monitoring",
+    "url": "/wiki/concepts/sportsbookintegritymonitoring/"
+  },
+  "Spotify": {
+    "title": "Spotify",
+    "url": "/wiki/entities/spotify/"
+  },
+  "SpotifyWrapped": {
+    "title": "Spotify Wrapped",
+    "url": "/wiki/entities/spotifywrapped/"
+  },
   "SpringAirlines": {
     "title": "Spring Airlines / 春秋航空",
     "url": "/wiki/entities/springairlines/"
@@ -7759,9 +9791,25 @@
     "title": "Sprinto",
     "url": "/wiki/entities/sprinto/"
   },
+  "Square": {
+    "title": "Square",
+    "url": "/wiki/entities/square/"
+  },
+  "SquareOnline": {
+    "title": "Square Online",
+    "url": "/wiki/entities/squareonline/"
+  },
+  "StablecoinSanctionsEvasion": {
+    "title": "Stablecoin Sanctions Evasion",
+    "url": "/wiki/concepts/stablecoinsanctionsevasion/"
+  },
   "Stablecoins": {
     "title": "Stablecoins",
     "url": "/wiki/concepts/stablecoins/"
+  },
+  "StaceyPettijohn": {
+    "title": "Stacey Pettijohn",
+    "url": "/wiki/entities/staceypettijohn/"
   },
   "StadiumRealEstateEconomics": {
     "title": "Stadium Real Estate Economics",
@@ -7782,6 +9830,10 @@
   "StanfordStartupGarage": {
     "title": "Stanford Startup Garage",
     "url": "/wiki/entities/stanfordstartupgarage/"
+  },
+  "StanfordStartupSourcing": {
+    "title": "Stanford Startup Sourcing",
+    "url": "/wiki/concepts/stanfordstartupsourcing/"
   },
   "StanfordUniversity": {
     "title": "Stanford University",
@@ -7819,13 +9871,45 @@
     "title": "Startup Accelerator Batch Selection",
     "url": "/wiki/concepts/startupacceleratorbatchselection/"
   },
+  "StartupCommunityForumBurden": {
+    "title": "Startup Community Forum Burden",
+    "url": "/wiki/concepts/startupcommunityforumburden/"
+  },
+  "StartupCommunityInfrastructure": {
+    "title": "Startup Community Infrastructure",
+    "url": "/wiki/concepts/startupcommunityinfrastructure/"
+  },
+  "StartupEssayDistribution": {
+    "title": "Startup Essay Distribution",
+    "url": "/wiki/concepts/startupessaydistribution/"
+  },
   "StartupGovernance": {
     "title": "Startup Governance",
     "url": "/wiki/concepts/startupgovernance/"
   },
+  "StartupHighBetaBet": {
+    "title": "Startup High-Beta Bet",
+    "url": "/wiki/concepts/startuphighbetabet/"
+  },
   "StartupInfrastructureImprovisation": {
     "title": "Startup Infrastructure Improvisation",
     "url": "/wiki/concepts/startupinfrastructureimprovisation/"
+  },
+  "StartupLegitimacyTransfer": {
+    "title": "Startup Legitimacy Transfer",
+    "url": "/wiki/concepts/startuplegitimacytransfer/"
+  },
+  "StartupRunwayDiscipline": {
+    "title": "Startup Runway Discipline",
+    "url": "/wiki/concepts/startuprunwaydiscipline/"
+  },
+  "StartupSchool": {
+    "title": "Startup School",
+    "url": "/wiki/entities/startupschool/"
+  },
+  "StartupTimingWindows": {
+    "title": "Startup Timing Windows",
+    "url": "/wiki/concepts/startuptimingwindows/"
   },
   "StateAdministrationForMarketRegulation": {
     "title": "State Administration for Market Regulation",
@@ -7851,9 +9935,17 @@
     "title": "StepFun",
     "url": "/wiki/entities/stepfun/"
   },
+  "StephanieHughes": {
+    "title": "Stephanie Hughes",
+    "url": "/wiki/entities/stephaniehughes/"
+  },
   "StephenStarr": {
     "title": "Stephen Starr",
     "url": "/wiki/entities/stephenstarr/"
+  },
+  "SteveHuffman": {
+    "title": "Steve Huffman",
+    "url": "/wiki/entities/stevehuffman/"
   },
   "SteveJobs": {
     "title": "Steve Jobs",
@@ -7871,6 +9963,10 @@
     "title": "Stock Tip Group Risk",
     "url": "/wiki/concepts/stocktipgrouprisk/"
   },
+  "Stoke": {
+    "title": "Stoke",
+    "url": "/wiki/entities/stoke/"
+  },
   "StopKillingGames": {
     "title": "Stop Killing Games",
     "url": "/wiki/entities/stopkillinggames/"
@@ -7887,6 +9983,18 @@
     "title": "Strait of Hormuz",
     "url": "/wiki/entities/straitofhormuz/"
   },
+  "StrategicAIInfrastructureDependence": {
+    "title": "Strategic AI Infrastructure Dependence",
+    "url": "/wiki/concepts/strategicaiinfrastructuredependence/"
+  },
+  "StrategicFocusUnderIncumbentPressure": {
+    "title": "Strategic Focus Under Incumbent Pressure",
+    "url": "/wiki/concepts/strategicfocusunderincumbentpressure/"
+  },
+  "StrategicMustWorkProductBet": {
+    "title": "Strategic Must-Work Product Bet",
+    "url": "/wiki/concepts/strategicmustworkproductbet/"
+  },
   "StrategicRerelease": {
     "title": "Strategic Rerelease",
     "url": "/wiki/concepts/strategicrerelease/"
@@ -7902,6 +10010,14 @@
   "StreamingConsolidation": {
     "title": "Streaming Consolidation",
     "url": "/wiki/concepts/streamingconsolidation/"
+  },
+  "Stripe": {
+    "title": "Stripe",
+    "url": "/wiki/entities/stripe/"
+  },
+  "StructuralHealthMonitoring": {
+    "title": "Structural Health Monitoring",
+    "url": "/wiki/concepts/structuralhealthmonitoring/"
   },
   "SuBen": {
     "title": "苏本",
@@ -7931,9 +10047,21 @@
     "title": "Subscription Fatigue",
     "url": "/wiki/concepts/subscriptionfatigue/"
   },
+  "Substack": {
+    "title": "Substack",
+    "url": "/wiki/entities/substack/"
+  },
+  "SubstackNotes": {
+    "title": "Substack Notes",
+    "url": "/wiki/entities/substacknotes/"
+  },
   "SuburbanDeliveryStrategy": {
     "title": "Suburban Delivery Strategy",
     "url": "/wiki/concepts/suburbandeliverystrategy/"
+  },
+  "SummerFoundersProgram": {
+    "title": "Summer Founders Program",
+    "url": "/wiki/entities/summerfoundersprogram/"
   },
   "SunZhonghuai": {
     "title": "孙忠怀 / Sun Zhonghuai",
@@ -7963,9 +10091,21 @@
     "title": "Supreme Court",
     "url": "/wiki/entities/supremecourt/"
   },
+  "SurveillanceAsAService": {
+    "title": "Surveillance as a Service",
+    "url": "/wiki/concepts/surveillanceasaservice/"
+  },
+  "SurveyModeEffects": {
+    "title": "Survey Mode Effects",
+    "url": "/wiki/concepts/surveymodeeffects/"
+  },
   "SusanGriffinBlack": {
     "title": "Susan Griffin-Black",
     "url": "/wiki/entities/susangriffinblack/"
+  },
+  "SusanWojcicki": {
+    "title": "Susan Wojcicki",
+    "url": "/wiki/entities/susanwojcicki/"
   },
   "Sushiro": {
     "title": "Sushiro / 寿司郎",
@@ -7983,6 +10123,10 @@
     "title": "Symbian",
     "url": "/wiki/entities/symbian/"
   },
+  "SyncReliabilityAsUX": {
+    "title": "Sync Reliability As UX",
+    "url": "/wiki/concepts/syncreliabilityasux/"
+  },
   "SystemHumanity": {
     "title": "System Humanity",
     "url": "/wiki/concepts/systemhumanity/"
@@ -7998,6 +10142,10 @@
   "TPU": {
     "title": "TPU",
     "url": "/wiki/entities/tpu/"
+  },
+  "TRMLabs": {
+    "title": "TRM Labs",
+    "url": "/wiki/entities/trmlabs/"
   },
   "TSGConsumerPartners": {
     "title": "TSG Consumer Partners",
@@ -8067,6 +10215,10 @@
     "title": "Tau Law",
     "url": "/wiki/concepts/taulaw/"
   },
+  "TaxFoundation": {
+    "title": "Tax Foundation",
+    "url": "/wiki/entities/taxfoundation/"
+  },
   "TaxiDriver": {
     "title": "Taxi Driver",
     "url": "/wiki/entities/taxidriver/"
@@ -8079,6 +10231,10 @@
     "title": "Team Marketing",
     "url": "/wiki/entities/teammarketing/"
   },
+  "TechForCampaigns": {
+    "title": "Tech for Campaigns",
+    "url": "/wiki/entities/techforcampaigns/"
+  },
   "TechHiringStabilization": {
     "title": "Tech Hiring Stabilization",
     "url": "/wiki/concepts/techhiringstabilization/"
@@ -8086,6 +10242,14 @@
   "TechJobPostingIndex": {
     "title": "Tech Job Posting Index",
     "url": "/wiki/concepts/techjobpostingindex/"
+  },
+  "TechManufacturingReshoring": {
+    "title": "Tech Manufacturing Reshoring",
+    "url": "/wiki/concepts/techmanufacturingreshoring/"
+  },
+  "TechnicalAmbitionCustomerMismatch": {
+    "title": "Technical Ambition Customer Mismatch",
+    "url": "/wiki/concepts/technicalambitioncustomermismatch/"
   },
   "TechnicalAnalysisLimits": {
     "title": "Technical Analysis Limits",
@@ -8102,6 +10266,10 @@
   "TeenChatbotMentalHealthRisk": {
     "title": "Teen Chatbot Mental Health Risk",
     "url": "/wiki/concepts/teenchatbotmentalhealthrisk/"
+  },
+  "Teespring": {
+    "title": "Teespring",
+    "url": "/wiki/entities/teespring/"
   },
   "Telangana": {
     "title": "Telangana",
@@ -8167,6 +10335,10 @@
     "title": "The Mom Test",
     "url": "/wiki/entities/themomtest/"
   },
+  "ThePlainDealer": {
+    "title": "The Plain Dealer",
+    "url": "/wiki/entities/theplaindealer/"
+  },
   "TheSaaSPodcast": {
     "title": "The SaaS Podcast",
     "url": "/wiki/entities/thesaaspodcast/"
@@ -8195,6 +10367,10 @@
     "title": "Thinking Machines Lab",
     "url": "/wiki/entities/thinkingmachineslab/"
   },
+  "ThirdPartyDoctrine": {
+    "title": "Third-Party Doctrine",
+    "url": "/wiki/concepts/thirdpartydoctrine/"
+  },
   "ThirdPartyWealthPlatformRisk": {
     "title": "Third-Party Wealth Platform Risk",
     "url": "/wiki/concepts/thirdpartywealthplatformrisk/"
@@ -8202,6 +10378,10 @@
   "ThirdTypeCompany": {
     "title": "Third Type Company",
     "url": "/wiki/concepts/thirdtypecompany/"
+  },
+  "ThomsonReuters": {
+    "title": "Thomson Reuters",
+    "url": "/wiki/entities/thomsonreuters/"
   },
   "ThreatLocker": {
     "title": "ThreatLocker",
@@ -8255,6 +10435,10 @@
     "title": "Tim Cook",
     "url": "/wiki/entities/timcook/"
   },
+  "TimDraper": {
+    "title": "Tim Draper",
+    "url": "/wiki/entities/timdraper/"
+  },
   "TimFerriss": {
     "title": "Tim Ferriss",
     "url": "/wiki/entities/timferriss/"
@@ -8302,6 +10486,10 @@
   "TomCruise": {
     "title": "Tom Cruise",
     "url": "/wiki/entities/tomcruise/"
+  },
+  "TomasHoloneck": {
+    "title": "Tomas Holoneck",
+    "url": "/wiki/entities/tomasholoneck/"
   },
   "Tommy": {
     "title": "Tommy",
@@ -8407,6 +10595,10 @@
     "title": "Trial Size Product",
     "url": "/wiki/concepts/trialsizeproduct/"
   },
+  "Triplebyte": {
+    "title": "Triplebyte",
+    "url": "/wiki/entities/triplebyte/"
+  },
   "Tristan": {
     "title": "Tristan",
     "url": "/wiki/entities/tristan/"
@@ -8423,9 +10615,25 @@
     "title": "Trust As Business Asset",
     "url": "/wiki/concepts/trustasbusinessasset/"
   },
+  "TrustBasedPhilanthropy": {
+    "title": "Trust-Based Philanthropy",
+    "url": "/wiki/concepts/trustbasedphilanthropy/"
+  },
+  "TrustHeavyInfrastructureSales": {
+    "title": "Trust-Heavy Infrastructure Sales",
+    "url": "/wiki/concepts/trustheavyinfrastructuresales/"
+  },
+  "TrustSensitiveSaaSSwitching": {
+    "title": "Trust-Sensitive SaaS Switching",
+    "url": "/wiki/concepts/trustsensitivesaasswitching/"
+  },
   "TruthSocial": {
     "title": "Truth Social",
     "url": "/wiki/entities/truthsocial/"
+  },
+  "Tucows": {
+    "title": "Tucows",
+    "url": "/wiki/entities/tucows/"
   },
   "Tudou": {
     "title": "土豆网 / Tudou",
@@ -8438,6 +10646,14 @@
   "TweetHunter": {
     "title": "Tweet Hunter",
     "url": "/wiki/entities/tweethunter/"
+  },
+  "Twitch": {
+    "title": "Twitch",
+    "url": "/wiki/entities/twitch/"
+  },
+  "Twitter": {
+    "title": "Twitter / X",
+    "url": "/wiki/entities/twitter/"
   },
   "TwoRoundPresidentialElection": {
     "title": "Two-Round Presidential Election",
@@ -8471,13 +10687,41 @@
     "title": "UNFI",
     "url": "/wiki/entities/unfi/"
   },
+  "USDepartmentOfDefense": {
+    "title": "US Department of Defense",
+    "url": "/wiki/entities/usdepartmentofdefense/"
+  },
+  "USDepartmentOfHomelandSecurity": {
+    "title": "U.S. Department of Homeland Security",
+    "url": "/wiki/entities/usdepartmentofhomelandsecurity/"
+  },
+  "USDepartmentOfLabor": {
+    "title": "U.S. Department of Labor",
+    "url": "/wiki/entities/usdepartmentoflabor/"
+  },
+  "USImmigrationAndCustomsEnforcement": {
+    "title": "U.S. Immigration and Customs Enforcement",
+    "url": "/wiki/entities/usimmigrationandcustomsenforcement/"
+  },
   "USIranNuclearDiplomacy": {
     "title": "U.S.-Iran Nuclear Diplomacy",
     "url": "/wiki/concepts/usirannucleardiplomacy/"
   },
+  "USNavy": {
+    "title": "U.S. Navy",
+    "url": "/wiki/entities/usnavy/"
+  },
+  "USNewsAndWorldReport": {
+    "title": "U.S. News and World Report",
+    "url": "/wiki/entities/usnewsandworldreport/"
+  },
   "USRecessionRisk": {
     "title": "U.S. Recession Risk",
     "url": "/wiki/concepts/usrecessionrisk/"
+  },
+  "USTikTok": {
+    "title": "U.S. TikTok",
+    "url": "/wiki/entities/ustiktok/"
   },
   "USTreasury": {
     "title": "U.S. Treasury",
@@ -8491,9 +10735,17 @@
     "title": "Ube.co",
     "url": "/wiki/entities/ubeco/"
   },
+  "UberEats": {
+    "title": "Uber Eats",
+    "url": "/wiki/entities/ubereats/"
+  },
   "Ukraine": {
     "title": "Ukraine",
     "url": "/wiki/entities/ukraine/"
+  },
+  "UltraFastDeliveryEconomics": {
+    "title": "Ultra-Fast Delivery Economics",
+    "url": "/wiki/concepts/ultrafastdeliveryeconomics/"
   },
   "Una": {
     "title": "Una",
@@ -8502,6 +10754,10 @@
   "UndergroundMoneyTransferRisk": {
     "title": "Underground Money Transfer Risk",
     "url": "/wiki/concepts/undergroundmoneytransferrisk/"
+  },
+  "UnderstandingAmericaStudy": {
+    "title": "Understanding America Study",
+    "url": "/wiki/entities/understandingamericastudy/"
   },
   "UnifiedAdPlatform": {
     "title": "Unified Ad Platform",
@@ -8531,6 +10787,10 @@
     "title": "Unitree Robotics",
     "url": "/wiki/entities/unitreerobotics/"
   },
+  "Unitronics": {
+    "title": "Unitronics",
+    "url": "/wiki/entities/unitronics/"
+  },
   "UniversaInvestments": {
     "title": "Universa Investments",
     "url": "/wiki/entities/universainvestments/"
@@ -8539,9 +10799,25 @@
     "title": "Universal Digital Agent",
     "url": "/wiki/concepts/universaldigitalagent/"
   },
+  "UniversityOfCambridge": {
+    "title": "University of Cambridge",
+    "url": "/wiki/entities/universityofcambridge/"
+  },
+  "UniversityOfSouthernCalifornia": {
+    "title": "University of Southern California",
+    "url": "/wiki/entities/universityofsoutherncalifornia/"
+  },
+  "UniversityOfVirginia": {
+    "title": "University of Virginia",
+    "url": "/wiki/entities/universityofvirginia/"
+  },
   "UniversityOpportunityDensity": {
     "title": "University Opportunity Density",
     "url": "/wiki/concepts/universityopportunitydensity/"
+  },
+  "UnscalableFounderWork": {
+    "title": "Unscalable Founder Work",
+    "url": "/wiki/concepts/unscalablefounderwork/"
   },
   "UpwardManagement": {
     "title": "Upward Management",
@@ -8554,6 +10830,10 @@
   "UrbanEcology": {
     "title": "Urban Ecology",
     "url": "/wiki/concepts/urbanecology/"
+  },
+  "UserPoweredContentPlatform": {
+    "title": "User-Powered Content Platform",
+    "url": "/wiki/concepts/userpoweredcontentplatform/"
   },
   "VMG": {
     "title": "VMG",
@@ -8603,6 +10883,14 @@
     "title": "Venezuela",
     "url": "/wiki/entities/venezuela/"
   },
+  "VentureDebtOperationalRisk": {
+    "title": "Venture Debt Operational Risk",
+    "url": "/wiki/concepts/venturedebtoperationalrisk/"
+  },
+  "VentureSyndicateOrchestration": {
+    "title": "Venture Syndicate Orchestration",
+    "url": "/wiki/concepts/venturesyndicateorchestration/"
+  },
   "VerticalAgentSaaSification": {
     "title": "Vertical Agent SaaSification",
     "url": "/wiki/concepts/verticalagentsaasification/"
@@ -8651,6 +10939,14 @@
     "title": "Video Podcast Affordance",
     "url": "/wiki/concepts/videopodcastaffordance/"
   },
+  "VideoStoreCulture": {
+    "title": "Video Store Culture",
+    "url": "/wiki/concepts/videostoreculture/"
+  },
+  "Vidiots": {
+    "title": "Vidiots",
+    "url": "/wiki/entities/vidiots/"
+  },
   "VikrantLal": {
     "title": "Vikrant Lal",
     "url": "/wiki/entities/vikrantlal/"
@@ -8666,6 +10962,10 @@
   "VisionLanguageActionModels": {
     "title": "Vision Language Action Models",
     "url": "/wiki/concepts/visionlanguageactionmodels/"
+  },
+  "VisionToRealityExecution": {
+    "title": "Vision-to-Reality Execution",
+    "url": "/wiki/concepts/visiontorealityexecution/"
   },
   "Visme": {
     "title": "Visme",
@@ -8694,6 +10994,14 @@
   "WEDEnterprises": {
     "title": "WED Enterprises",
     "url": "/wiki/entities/wedenterprises/"
+  },
+  "WIPR": {
+    "title": "WIPR",
+    "url": "/wiki/entities/wipr/"
+  },
+  "WallStreetJournal": {
+    "title": "Wall Street Journal",
+    "url": "/wiki/entities/wallstreetjournal/"
   },
   "Walmart": {
     "title": "Walmart",
@@ -8787,9 +11095,17 @@
     "title": "Warren Buffett",
     "url": "/wiki/entities/warrenbuffett/"
   },
+  "WashingtonPost": {
+    "title": "Washington Post",
+    "url": "/wiki/entities/washingtonpost/"
+  },
   "WaterFireEducation": {
     "title": "Water And Fire Education",
     "url": "/wiki/concepts/waterfireeducation/"
+  },
+  "WayfinderVentures": {
+    "title": "Wayfinder Ventures",
+    "url": "/wiki/entities/wayfinderventures/"
   },
   "Waymo": {
     "title": "Waymo",
@@ -8811,6 +11127,10 @@
     "title": "微医 / 挂号网",
     "url": "/wiki/entities/wedoctor/"
   },
+  "WePay": {
+    "title": "WePay",
+    "url": "/wiki/entities/wepay/"
+  },
   "Wealthfront": {
     "title": "Wealthfront",
     "url": "/wiki/entities/wealthfront/"
@@ -8818,6 +11138,10 @@
   "WebBasedSoftware": {
     "title": "Web-Based Software",
     "url": "/wiki/concepts/webbasedsoftware/"
+  },
+  "Weebly": {
+    "title": "Weebly",
+    "url": "/wiki/entities/weebly/"
   },
   "WeiQing": {
     "title": "Wei Qing / 韦青",
@@ -8839,6 +11163,10 @@
     "title": "Weilai Buyuan",
     "url": "/wiki/entities/weilaibuyuan/"
   },
+  "WendyLiu": {
+    "title": "Wendy Liu",
+    "url": "/wiki/entities/wendyliu/"
+  },
   "Wenxin": {
     "title": "Wenxin",
     "url": "/wiki/entities/wenxin/"
@@ -8847,9 +11175,17 @@
     "title": "Wes Streeting",
     "url": "/wiki/entities/wesstreeting/"
   },
+  "WesternDigital": {
+    "title": "Western Digital",
+    "url": "/wiki/entities/westerndigital/"
+  },
   "WetStateHumanAgency": {
     "title": "Wet-State Human Agency",
     "url": "/wiki/concepts/wetstatehumanagency/"
+  },
+  "WhartonSchool": {
+    "title": "Wharton School",
+    "url": "/wiki/entities/whartonschool/"
   },
   "WhatsNextKejiZaozhidao": {
     "title": "What's Next｜科技早知道",
@@ -8863,6 +11199,14 @@
     "title": "Whole Foods Market",
     "url": "/wiki/entities/wholefoodsmarket/"
   },
+  "WillHurd": {
+    "title": "Will Hurd",
+    "url": "/wiki/entities/willhurd/"
+  },
+  "WillaRemus": {
+    "title": "Willa Remus",
+    "url": "/wiki/entities/willaremus/"
+  },
   "Win": {
     "title": "Win",
     "url": "/wiki/entities/win/"
@@ -8875,13 +11219,33 @@
     "title": "Wink",
     "url": "/wiki/entities/wink/"
   },
+  "Wired": {
+    "title": "Wired",
+    "url": "/wiki/entities/wired/"
+  },
+  "Wiz": {
+    "title": "Wiz",
+    "url": "/wiki/entities/wiz/"
+  },
   "WolverhamptonWanderers": {
     "title": "Wolverhampton Wanderers / 狼队",
     "url": "/wiki/entities/wolverhamptonwanderers/"
   },
+  "WorkFromHomeScam": {
+    "title": "Work-From-Home Scam",
+    "url": "/wiki/concepts/workfromhomescam/"
+  },
+  "WorkplaceAITransparency": {
+    "title": "Workplace AI Transparency",
+    "url": "/wiki/concepts/workplaceaitransparency/"
+  },
   "WorkplaceCommunicationRisk": {
     "title": "Workplace Communication Risk",
     "url": "/wiki/concepts/workplacecommunicationrisk/"
+  },
+  "WorkplaceDigitalTwins": {
+    "title": "Workplace Digital Twins",
+    "url": "/wiki/concepts/workplacedigitaltwins/"
   },
   "WorkplaceHiddenRules": {
     "title": "Workplace Hidden Rules",
@@ -9191,6 +11555,10 @@
     "title": "Yin Qi",
     "url": "/wiki/entities/yinqi/"
   },
+  "YinWu": {
+    "title": "Yin Wu",
+    "url": "/wiki/entities/yinwu/"
+  },
   "YinchuanInternetHospitalPilot": {
     "title": "银川互联网医院试点",
     "url": "/wiki/concepts/yinchuaninternethospitalpilot/"
@@ -9202,6 +11570,10 @@
   "YingliGreenEnergy": {
     "title": "英利绿色能源 / Yingli Green Energy",
     "url": "/wiki/entities/yingligreenenergy/"
+  },
+  "YishanWang": {
+    "title": "Yishan Wang",
+    "url": "/wiki/entities/yishanwang/"
   },
   "Yobi": {
     "title": "Yobi",
@@ -9215,6 +11587,10 @@
     "title": "YouTube",
     "url": "/wiki/entities/youtube/"
   },
+  "YouTubeMediaDominance": {
+    "title": "YouTube Media Dominance",
+    "url": "/wiki/concepts/youtubemediadominance/"
+  },
   "Youju": {
     "title": "Youju",
     "url": "/wiki/entities/youju/"
@@ -9222,6 +11598,10 @@
   "Youku": {
     "title": "优酷 / Youku",
     "url": "/wiki/entities/youku/"
+  },
+  "YouthEntrepreneurship": {
+    "title": "Youth Entrepreneurship",
+    "url": "/wiki/concepts/youthentrepreneurship/"
   },
   "YouthFootballDevelopmentSystem": {
     "title": "Youth Football Development System",
@@ -9271,6 +11651,18 @@
     "title": "Yunnan Homestay Association",
     "url": "/wiki/entities/yunnanhomestayassociation/"
   },
+  "YuriMilner": {
+    "title": "Yuri Milner",
+    "url": "/wiki/entities/yurimilner/"
+  },
+  "YuriSagalov": {
+    "title": "Yuri Sagalov",
+    "url": "/wiki/entities/yurisagalov/"
+  },
+  "ZachEdwards": {
+    "title": "Zach Edwards",
+    "url": "/wiki/entities/zachedwards/"
+  },
   "Zed": {
     "title": "Zed",
     "url": "/wiki/entities/zed/"
@@ -9278,6 +11670,10 @@
   "Zeiss": {
     "title": "Zeiss",
     "url": "/wiki/entities/zeiss/"
+  },
+  "Zenefits": {
+    "title": "Zenefits",
+    "url": "/wiki/entities/zenefits/"
   },
   "ZeroTrustSecurity": {
     "title": "Zero Trust Security",
@@ -10047,21 +12443,73 @@
     "title": "Snap judgement: Japan PM’s electoral landslide",
     "url": "/wiki/sources/snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d/"
   },
+  "socialradars-edithelliot-v3": {
+    "title": "Edith Elliott on Noora Health, Caregivers, and Trust-Based Philanthropy",
+    "url": "/wiki/sources/socialradars-edithelliot-v3/"
+  },
+  "socialradarspod-brianarmstrong-final": {
+    "title": "Brian Armstrong on Coinbase's Origin, Crypto Regulation, FTX, and Founder Resilience",
+    "url": "/wiki/sources/socialradarspod-brianarmstrong-final/"
+  },
+  "socialradarspod-brianchesky-final": {
+    "title": "Brian Chesky on Airbnb's Origins, YC, and Reconnecting People",
+    "url": "/wiki/sources/socialradarspod-brianchesky-final/"
+  },
+  "socialradarspod-brianchesky2-final": {
+    "title": "Airbnb Part Two: Brian Chesky on YC Discipline, COVID, and Staying Founder-Led",
+    "url": "/wiki/sources/socialradarspod-brianchesky2-final/"
+  },
   "socialradarspod-davidlieb-final": {
     "title": "David Lieb on Bump, Google Photos, and Returning to YC",
     "url": "/wiki/sources/socialradarspod-davidlieb-final/"
+  },
+  "socialradarspod-emmettshear-v2": {
+    "title": "Emmett Shear on YC, Kiko, Justin.tv, Twitch, and Founder Resilience",
+    "url": "/wiki/sources/socialradarspod-emmettshear-v2/"
+  },
+  "socialradarspod-garrytan-final": {
+    "title": "Garry Tan on Returning to Y Combinator",
+    "url": "/wiki/sources/socialradarspod-garrytan-final/"
   },
   "socialradarspod-paulb-final": {
     "title": "Paul Buchheit on Gmail, Google, FriendFeed, and Startup Judgment",
     "url": "/wiki/sources/socialradarspod-paulb-final/"
   },
+  "socialradarspod-stevehuffman-final": {
+    "title": "Steve Huffman on Reddit's Origin Story, Sale, and Return",
+    "url": "/wiki/sources/socialradarspod-stevehuffman-final/"
+  },
   "socialradarspod-tonyxu-final": {
     "title": "Tony Xu on Building DoorDash from a Class Project into a Global Marketplace",
     "url": "/wiki/sources/socialradarspod-tonyxu-final/"
   },
+  "socialradarss2-billclerico-final": {
+    "title": "Bill Clerico on WePay, YC, and Fire Tech",
+    "url": "/wiki/sources/socialradarss2-billclerico-final/"
+  },
+  "socialradarss2-stripe-v2": {
+    "title": "Patrick and John Collison on Stripe's Origins, Developer Products, and Long-Term Ambition",
+    "url": "/wiki/sources/socialradarss2-stripe-v2/"
+  },
+  "socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll": {
+    "title": "Paul Graham on Viaweb, Y Combinator, and Writing",
+    "url": "/wiki/sources/socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll/"
+  },
   "socialradarsseason1-tracyyoung-final-1": {
     "title": "Tracy Young on PlanGrid, TigerEye, and Building a Company Deliberately",
     "url": "/wiki/sources/socialradarsseason1-tracyyoung-final-1/"
+  },
+  "socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final": {
+    "title": "Social Radars Season 1 Wrap-Up and Season 2 Announcement",
+    "url": "/wiki/sources/socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final/"
+  },
+  "socialradarsseason2-dimitri-final": {
+    "title": "Dimitri Dadiomov on Modern Treasury and Financial Plumbing",
+    "url": "/wiki/sources/socialradarsseason2-dimitri-final/"
+  },
+  "socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8": {
+    "title": "Parker Conrad on Zenefits, Rippling, and Building Through Crisis",
+    "url": "/wiki/sources/socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8/"
   },
   "starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1": {
     "title": "Starmergeddon: British PM resigns",
@@ -10115,6 +12563,150 @@
     "title": "Dr. AI will see you now",
     "url": "/wiki/sources/tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128/"
   },
+  "tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128": {
+    "title": "Bytes: Week in Review - SpaceX and xAI merge, Nvidia and OpenAI's funding relationship and U.S. TikTok's rough start",
+    "url": "/wiki/sources/tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128/"
+  },
+  "tech-20260209-0209-mp-tech-pod-128-tech-20260209-0209-mp-tech-pod-128": {
+    "title": "New study reveals a \\\"smartphone penalty\\\" that distorts survey results",
+    "url": "/wiki/sources/tech-20260209-0209-mp-tech-pod-128-tech-20260209-0209-mp-tech-pod-128/"
+  },
+  "tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128": {
+    "title": "TPU? GPU? What's the difference between these two chips used for AI?",
+    "url": "/wiki/sources/tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128/"
+  },
+  "tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128": {
+    "title": "Is the moon (and its resources) up for grabs?",
+    "url": "/wiki/sources/tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128/"
+  },
+  "tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128": {
+    "title": "Crypto's big growth on the books and in the shadows",
+    "url": "/wiki/sources/tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128/"
+  },
+  "tech-20260213-tech-pod-128-tech-20260213-tech-pod-128": {
+    "title": "Bytes: Week in Review - Alphabet takes on debt to pay for AI projects, the social network where humans aren't allowed, and Spotify reports record user growth",
+    "url": "/wiki/sources/tech-20260213-tech-pod-128-tech-20260213-tech-pod-128/"
+  },
+  "tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128": {
+    "title": "High-tech data centers get a powerful assist from a century-old company",
+    "url": "/wiki/sources/tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128/"
+  },
+  "tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128": {
+    "title": "Fewer students are enrolling in computer science classes and majors",
+    "url": "/wiki/sources/tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128/"
+  },
+  "tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128": {
+    "title": "Can software companies survive the AI boom?",
+    "url": "/wiki/sources/tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128/"
+  },
+  "tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128": {
+    "title": "Meta's big bet on superintelligence",
+    "url": "/wiki/sources/tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128/"
+  },
+  "tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128": {
+    "title": "Bytes: Week in Review - Google to make links more prominent, Palantir moves to Florida and Ring reportedly had plans to use Search Party for more than finding lost dogs",
+    "url": "/wiki/sources/tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128/"
+  },
+  "tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128": {
+    "title": "AI makes it easier to code websites — including ones that scam consumers",
+    "url": "/wiki/sources/tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128/"
+  },
+  "tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128": {
+    "title": "Here's how to prep for a job interview with AI",
+    "url": "/wiki/sources/tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128/"
+  },
+  "tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128": {
+    "title": "AI Meets the Search for a BA",
+    "url": "/wiki/sources/tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128/"
+  },
+  "tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128": {
+    "title": "Physical media's comeback",
+    "url": "/wiki/sources/tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128/"
+  },
+  "tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128": {
+    "title": "Bytes: Week in Review - Anthropic and the Pentagon face off, OpenAI teams up with consulting firms and Mac Mini moves to the U.S.",
+    "url": "/wiki/sources/tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128/"
+  },
+  "tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128": {
+    "title": "How government uses \\\"surveillance as a service\\\" to collect data",
+    "url": "/wiki/sources/tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128/"
+  },
+  "tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128": {
+    "title": "Digital archiving and the global memory shortage",
+    "url": "/wiki/sources/tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128/"
+  },
+  "tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128": {
+    "title": "Brands are racing to show up in AI search",
+    "url": "/wiki/sources/tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128/"
+  },
+  "tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128": {
+    "title": "Iran's cyberwar on American banks",
+    "url": "/wiki/sources/tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128/"
+  },
+  "tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128": {
+    "title": "Bytes: Week in Review - Prediction markets reel amid Iran conflict, defense contractors to drop Anthropic, and Meta's AI deal with News Corp",
+    "url": "/wiki/sources/tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128/"
+  },
+  "tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128": {
+    "title": "California's one-stop shop for data brokers to delete consumers' data",
+    "url": "/wiki/sources/tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128/"
+  },
+  "tech-20260310-0310-mp-tech-pod-128-tech-20260310-0310-mp-tech-pod-128": {
+    "title": "What do Girl Scouts get out of selling cookies online?",
+    "url": "/wiki/sources/tech-20260310-0310-mp-tech-pod-128-tech-20260310-0310-mp-tech-pod-128/"
+  },
+  "tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128": {
+    "title": "An Ohio newspaper gives AI a byline",
+    "url": "/wiki/sources/tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128/"
+  },
+  "tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128": {
+    "title": "Why Bitcoin falls short as a safe haven in geopolitical turmoil",
+    "url": "/wiki/sources/tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128/"
+  },
+  "tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128": {
+    "title": "Bytes: Week in Review - Amazon and AI, YouTube tops the media market and Meta buys an AI-only social network",
+    "url": "/wiki/sources/tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128/"
+  },
+  "tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128": {
+    "title": "How confident are crypto consumers?",
+    "url": "/wiki/sources/tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128/"
+  },
+  "tech-20260317-0317-mp-tech-pod-128-tech-20260317-0317-mp-tech-pod-128": {
+    "title": "AI-powered workplace tools keep tabs on employees",
+    "url": "/wiki/sources/tech-20260317-0317-mp-tech-pod-128-tech-20260317-0317-mp-tech-pod-128/"
+  },
+  "tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128": {
+    "title": "The ethics of using AI to immortalize the dead",
+    "url": "/wiki/sources/tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128/"
+  },
+  "tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128": {
+    "title": "How low-cost drones are used in modern military strikes",
+    "url": "/wiki/sources/tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128/"
+  },
+  "tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128": {
+    "title": "Bytes: Week in Review - Gecko's $71M contract with U.S. Navy, BuzzFeed doubts its business viability, and Amazon offers faster delivery",
+    "url": "/wiki/sources/tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128/"
+  },
+  "tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128": {
+    "title": "What do students lose when they rely on AI for homework?",
+    "url": "/wiki/sources/tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128/"
+  },
+  "tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128": {
+    "title": "U.S. regulators eye rules for prediction markets",
+    "url": "/wiki/sources/tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128/"
+  },
+  "tech-20260325-0325-mp-tech-pod-128-tech-20260325-0325-mp-tech-pod-128": {
+    "title": "Why digital archiving is more than \\\"store and ignore\\\"",
+    "url": "/wiki/sources/tech-20260325-0325-mp-tech-pod-128-tech-20260325-0325-mp-tech-pod-128/"
+  },
+  "tech-20260326-0326-mp-tech-pod-128-tech-20260326-0326-mp-tech-pod-128": {
+    "title": "The tech transforming Baltimore's Francis Scott Key Bridge",
+    "url": "/wiki/sources/tech-20260326-0326-mp-tech-pod-128-tech-20260326-0326-mp-tech-pod-128/"
+  },
+  "tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128": {
+    "title": "Bytes: Week in Review - Meta, YouTube's social media addiction case, a new AI literacy course, and Kalshi's prediction market self-regulation",
+    "url": "/wiki/sources/tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128/"
+  },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",
     "url": "/wiki/sources/the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad/"
@@ -10159,9 +12751,93 @@
     "title": "Trailer: Tocqueville Road Trip",
     "url": "/wiki/sources/trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7/"
   },
+  "tsr-ronconway-part4-v2-tsr-ronconway-part4-v2": {
+    "title": "Ron Conway on Napster, Founder Relationships, and SV Angel's Crisis Work",
+    "url": "/wiki/sources/tsr-ronconway-part4-v2-tsr-ronconway-part4-v2/"
+  },
+  "tsr-s2-adoracheung-v5": {
+    "title": "Adora Cheung on Homejoy, YC, Vote-by-Mail, and Instalab",
+    "url": "/wiki/sources/tsr-s2-adoracheung-v5/"
+  },
   "tsr-s2-trevorblackwell-v2": {
     "title": "Trevor Blackwell on Viaweb, Robots, and Early Y Combinator",
     "url": "/wiki/sources/tsr-s2-trevorblackwell-v2/"
+  },
+  "tsr-s2-wrapup-v1": {
+    "title": "The Social Radars Season 2 Wrap-Up and Season 3 Announcement",
+    "url": "/wiki/sources/tsr-s2-wrapup-v1/"
+  },
+  "tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1": {
+    "title": "David Rusenko on Weebly, Capital Efficiency, and Climate Tech",
+    "url": "/wiki/sources/tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1/"
+  },
+  "tsr-s3-eddylu-v2-tsr-s3-eddylu-v2": {
+    "title": "Eddy Lu on GOAT, Grub With Us, and Marketplace Friction",
+    "url": "/wiki/sources/tsr-s3-eddylu-v2-tsr-s3-eddylu-v2/"
+  },
+  "tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final": {
+    "title": "Kyle Vogt on Justin.tv, Twitch, Cruise, and Choosing Hard Problems",
+    "url": "/wiki/sources/tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final/"
+  },
+  "tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final": {
+    "title": "Ron Conway on National Semiconductor, Altos, and Early Angel Investing",
+    "url": "/wiki/sources/tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final/"
+  },
+  "tsr-s3-yinwu-v2-tsr-s3-yinwu-v2": {
+    "title": "Yin Wu on Pulley, Equity, and Founder Resilience",
+    "url": "/wiki/sources/tsr-s3-yinwu-v2-tsr-s3-yinwu-v2/"
+  },
+  "tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final": {
+    "title": "Yuri Sagalov on AeroFS, YC, Angel Investing, and Wayfinder Ventures",
+    "url": "/wiki/sources/tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final/"
+  },
+  "tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3": {
+    "title": "Alexandr Wang on Scale and AI Data Infrastructure",
+    "url": "/wiki/sources/tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3/"
+  },
+  "tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5": {
+    "title": "Drew Houston on Dropbox: Origin, Survival, and Reinvention",
+    "url": "/wiki/sources/tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5/"
+  },
+  "tsr-s4-ericm-v2-tsr-s4-ericm-v2": {
+    "title": "Eric Migicovsky on Pebble, Kickstarter, and Building for Yourself",
+    "url": "/wiki/sources/tsr-s4-ericm-v2-tsr-s4-ericm-v2/"
+  },
+  "tsr-s4-harj-v3-tsr-s4-harj-v3": {
+    "title": "Harj Taggar on Y Combinator, Triplebyte, and Hiring Judgment",
+    "url": "/wiki/sources/tsr-s4-harj-v3-tsr-s4-harj-v3/"
+  },
+  "tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2": {
+    "title": "Ron Conway on Google's Early History and SV Angel's Role",
+    "url": "/wiki/sources/tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2/"
+  },
+  "tsr-s4-samaltman-v4-tsr-s4-samaltman-v4": {
+    "title": "Sam Altman on YC, OpenAI, and the Meaning of Formidable",
+    "url": "/wiki/sources/tsr-s4-samaltman-v4-tsr-s4-samaltman-v4/"
+  },
+  "tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final": {
+    "title": "Founder Mode: Brian Chesky, Founder & CEO, Airbnb",
+    "url": "/wiki/sources/tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final/"
+  },
+  "tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov": {
+    "title": "Founder Mode: Chris Best, Founder & CEO, Substack",
+    "url": "/wiki/sources/tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov/"
+  },
+  "tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final": {
+    "title": "Founder Mode: Garry Tan, President & CEO, Y Combinator",
+    "url": "/wiki/sources/tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final/"
+  },
+  "tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final": {
+    "title": "Founder Mode: Jake Heller, Founder & CEO, Casetext",
+    "url": "/wiki/sources/tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final/"
+  },
+  "tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly": {
+    "title": "Founder Mode: Paul Gross, Founder & CEO of Remora Carbon",
+    "url": "/wiki/sources/tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly/"
+  },
+  "tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final": {
+    "title": "Founder Mode: Paul Graham, Founder, Y Combinator",
+    "url": "/wiki/sources/tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final/"
   },
   "ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939": {
     "title": "UGG: Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company.",
