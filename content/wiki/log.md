@@ -2651,3 +2651,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | E229｜从手工作坊到全球第一：中国动力电池逆袭史
+
+Added source page for the 硅谷101 episode on China's power-battery rise through 十城千辆, battery whitelist protection, CATL, BYD, ATL, Northvolt, Changzhou, Yibin, manufacturing know-how, consistency/safety, solid-state commercialization, sodium-ion storage, dry electrodes, and battery recycling. Created pages for He Qianran, Yang Lu, Zhang Congzhi, CATL, ATL, Northvolt, Changzhou, Yibin, Panasonic, TDK, Power Battery Industry Chain, Battery Manufacturing Know-How, Battery Consistency And Safety, Ten Cities Thousand Vehicles, Power Battery Whitelist, Local Battery Industrial Clusters, Solid-State Battery Commercialization, Sodium-Ion Battery Storage, Dry Electrode Manufacturing, and Battery Recycling Loop; updated overview, index, Silicon Valley 101, BYD, Tesla, Motorola, China, United States, Chinese Hardware Globalization, China Handset Supply Chain, and Critical Minerals Geopolitics. No direct contradiction found; the source qualifies hardware-globalization and critical-minerals branches by showing battery leadership as a policy-supported manufacturing ecosystem rather than a single invention or brand story.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

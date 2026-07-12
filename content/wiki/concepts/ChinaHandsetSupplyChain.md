@@ -1,9 +1,9 @@
 ---
 title: "China Handset Supply Chain"
 type: concept
-tags: [mobile, supply-chain, china, manufacturing]
-sources: [no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731]
-last_updated: 2026-07-09
+tags: [mobile, supply-chain, china, manufacturing, batteries]
+sources: [no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi]
+last_updated: 2026-07-12
 ---
 
 # China Handset Supply Chain
@@ -14,12 +14,15 @@ China Handset Supply Chain is the industrial base described in [[no-208-zhongguo
 
 [[ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731]] adds an AI-era cooperation layer through [[Vivo]] and [[MediaTek]]. The source shows a later stage where the supply-chain question is not only whether Chinese handset makers can assemble phones, but whether terminal vendors and chip suppliers can jointly define AI compute, NPU behavior, and system scheduling years ahead.
 
+[[e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi]] adds a comparison case from power batteries. [[BYD]]'s consumer-electronics battery work for customers such as [[Motorola]] becomes a bridge from handset-era component manufacturing into later EV batteries, while [[PowerBatteryIndustryChain]] shows a newer industrial base where policy demand and local clusters played a larger role.
+
 ## Source Position
 - [[Motorola]] and [[Nokia]] helped build factories, quality systems, engineers, and suppliers in China before losing handset dominance.
 - First-generation domestic brands such as [[BirdMobile]] and [[Kejian]] built channels and local brand experience but often lacked deep end-to-end technical ownership.
 - [[MediaTek]] and [[TurnkeyHandsetSolutions]] lowered the threshold for manufacturing, letting Shenzhen ecosystems rapidly recombine components, form factors, and distribution.
 - The source treats later smartphone success as cumulative rather than sudden: mature supply chains were inherited, recombined, and upgraded.
 - The AI-era handset layer requires deeper product-chip coupling: terminal companies need to translate user scenes into hardware requirements, while chip companies need to expose model execution and system scheduling capacity.
+- The battery episode suggests that handset-era battery demand helped some firms accumulate process knowledge before EV battery demand scaled.
 
 ## Connections
 - [[ChineseDomesticHandsetWaves]] — staged market history that uses this supply-chain base.
@@ -27,3 +30,4 @@ China Handset Supply Chain is the industrial base described in [[no-208-zhongguo
 - [[SmartphoneOperatingSystemEcosystems]] — supply chains needed software-platform access to become smartphone-era competitive.
 - [[Huawei]], [[HiSilicon]], [[TauLaw]], and [[ConstraintDrivenEngineeringStrategy]] — later semiconductor-system extension of the hardware-capability thread.
 - [[Vivo]], [[MediaTek]], [[Dimensity9500]], [[HandsetChipCoDesign]], and [[OnDeviceAI]] — AI-era co-design extension added by S10E17.
+- [[BYD]], [[Motorola]], [[PowerBatteryIndustryChain]], and [[BatteryManufacturingKnowHow]] — battery-manufacturing comparison added by E229.

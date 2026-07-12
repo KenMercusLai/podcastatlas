@@ -715,6 +715,10 @@
     "title": "A-Share Valuation Indicators",
     "url": "/wiki/concepts/asharevaluationindicators/"
   },
+  "ATL": {
+    "title": "ATL / Amperex Technology Limited",
+    "url": "/wiki/entities/atl/"
+  },
   "ATMOperations": {
     "title": "ATM Operations",
     "url": "/wiki/concepts/atmoperations/"
@@ -1631,6 +1635,18 @@
     "title": "Basic Brown Bear Factory",
     "url": "/wiki/entities/basicbrownbearfactory/"
   },
+  "BatteryConsistencySafety": {
+    "title": "Battery Consistency And Safety",
+    "url": "/wiki/concepts/batteryconsistencysafety/"
+  },
+  "BatteryManufacturingKnowHow": {
+    "title": "Battery Manufacturing Know-How",
+    "url": "/wiki/concepts/batterymanufacturingknowhow/"
+  },
+  "BatteryRecyclingLoop": {
+    "title": "Battery Recycling Loop",
+    "url": "/wiki/concepts/batteryrecyclingloop/"
+  },
   "BayoAkomolafe": {
     "title": "Bayo Akomolafe",
     "url": "/wiki/entities/bayoakomolafe/"
@@ -2011,6 +2027,10 @@
     "title": "CAPEX OPEX Substitution",
     "url": "/wiki/concepts/capexopexsubstitution/"
   },
+  "CATL": {
+    "title": "CATL / 宁德时代",
+    "url": "/wiki/entities/catl/"
+  },
   "COWZ": {
     "title": "COWZ",
     "url": "/wiki/entities/cowz/"
@@ -2214,6 +2234,10 @@
   "ChangXinMemory": {
     "title": "ChangXin Memory / 长鑫存储",
     "url": "/wiki/entities/changxinmemory/"
+  },
+  "Changzhou": {
+    "title": "Changzhou / 常州",
+    "url": "/wiki/entities/changzhou/"
   },
   "ChannelFocusExperiments": {
     "title": "Channel Focus Experiments",
@@ -3554,6 +3578,10 @@
   "DropboxPaper": {
     "title": "Dropbox Paper",
     "url": "/wiki/entities/dropboxpaper/"
+  },
+  "DryElectrodeManufacturing": {
+    "title": "Dry Electrode Manufacturing",
+    "url": "/wiki/concepts/dryelectrodemanufacturing/"
   },
   "DuShaolei": {
     "title": "Du Shaolei",
@@ -5131,6 +5159,10 @@
     "title": "Hassan Benchikran",
     "url": "/wiki/entities/hassanbenchikran/"
   },
+  "HeQianran": {
+    "title": "何倩然 / He Qianran",
+    "url": "/wiki/entities/heqianran/"
+  },
   "HeTao": {
     "title": "He Tao",
     "url": "/wiki/entities/hetao/"
@@ -6667,6 +6699,10 @@
     "title": "Local Agent Execution",
     "url": "/wiki/concepts/localagentexecution/"
   },
+  "LocalBatteryIndustrialClusters": {
+    "title": "Local Battery Industrial Clusters",
+    "url": "/wiki/concepts/localbatteryindustrialclusters/"
+  },
   "LocalFirstMemoryLayer": {
     "title": "Local-First Memory Layer",
     "url": "/wiki/concepts/localfirstmemorylayer/"
@@ -7843,6 +7879,10 @@
     "title": "North Korea",
     "url": "/wiki/entities/northkorea/"
   },
+  "Northvolt": {
+    "title": "Northvolt",
+    "url": "/wiki/entities/northvolt/"
+  },
   "NotebookLM": {
     "title": "NotebookLM",
     "url": "/wiki/entities/notebooklm/"
@@ -8186,6 +8226,10 @@
   "PanXulun": {
     "title": "潘序伦",
     "url": "/wiki/entities/panxulun/"
+  },
+  "Panasonic": {
+    "title": "Panasonic",
+    "url": "/wiki/entities/panasonic/"
   },
   "PaperWealthVsCashValue": {
     "title": "Paper Wealth Vs Cash Value",
@@ -8638,6 +8682,14 @@
   "Posterous": {
     "title": "Posterous",
     "url": "/wiki/entities/posterous/"
+  },
+  "PowerBatteryIndustryChain": {
+    "title": "Power Battery Industry Chain",
+    "url": "/wiki/concepts/powerbatteryindustrychain/"
+  },
+  "PowerBatteryWhitelist": {
+    "title": "Power Battery Whitelist",
+    "url": "/wiki/concepts/powerbatterywhitelist/"
   },
   "PowerUserDiscovery": {
     "title": "Power User Discovery",
@@ -10051,6 +10103,10 @@
     "title": "Social Signal Interpretation",
     "url": "/wiki/concepts/socialsignalinterpretation/"
   },
+  "SodiumIonBatteryStorage": {
+    "title": "Sodium-Ion Battery Storage",
+    "url": "/wiki/concepts/sodiumionbatterystorage/"
+  },
   "SoftwareDeveloperHiringPullback": {
     "title": "Software Developer Hiring Pullback",
     "url": "/wiki/concepts/softwaredeveloperhiringpullback/"
@@ -10062,6 +10118,10 @@
   "SohuVideo": {
     "title": "搜狐视频 / Sohu Video",
     "url": "/wiki/entities/sohuvideo/"
+  },
+  "SolidStateBatteryCommercialization": {
+    "title": "Solid-State Battery Commercialization",
+    "url": "/wiki/concepts/solidstatebatterycommercialization/"
   },
   "SongYuanMaritimeTradeCenter": {
     "title": "Song-Yuan Maritime Trade Center",
@@ -10539,6 +10599,10 @@
     "title": "Systemic Degenerative Volatility",
     "url": "/wiki/concepts/systemicdegenerativevolatility/"
   },
+  "TDK": {
+    "title": "TDK",
+    "url": "/wiki/entities/tdk/"
+  },
   "TPG": {
     "title": "TPG",
     "url": "/wiki/entities/tpg/"
@@ -10682,6 +10746,10 @@
   "Temu": {
     "title": "Temu",
     "url": "/wiki/entities/temu/"
+  },
+  "TenCitiesThousandVehicles": {
+    "title": "Ten Cities Thousand Vehicles",
+    "url": "/wiki/concepts/tencitiesthousandvehicles/"
   },
   "Tencent": {
     "title": "Tencent",
@@ -11903,6 +11971,10 @@
     "title": "Yang Lingfeng / 杨凌峰",
     "url": "/wiki/entities/yanglingfeng/"
   },
+  "YangLu": {
+    "title": "杨璐 / Yang Lu",
+    "url": "/wiki/entities/yanglu/"
+  },
   "YangMeng": {
     "title": "Yang Meng / 杨萌",
     "url": "/wiki/entities/yangmeng/"
@@ -11958,6 +12030,10 @@
   "YiLaoYongYi": {
     "title": "一劳永逸",
     "url": "/wiki/entities/yilaoyongyi/"
+  },
+  "Yibin": {
+    "title": "Yibin / 宜宾",
+    "url": "/wiki/entities/yibin/"
   },
   "YieldCurveInversion": {
     "title": "Yield Curve Inversion",
@@ -12118,6 +12194,10 @@
   "Zeying": {
     "title": "Zeying",
     "url": "/wiki/entities/zeying/"
+  },
+  "ZhangCongzhi": {
+    "title": "张从志 / Zhang Congzhi",
+    "url": "/wiki/entities/zhangcongzhi/"
   },
   "ZhangHaoran": {
     "title": "Zhang Haoran",
@@ -12478,6 +12558,10 @@
   "e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou": {
     "title": "E225｜SaaS业数千亿市值蒸发：AI如何变革组织架构？",
     "url": "/wiki/sources/e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou/"
+  },
+  "e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi": {
+    "title": "E229｜从手工作坊到全球第一：中国动力电池逆袭史",
+    "url": "/wiki/sources/e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi/"
   },
   "e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde": {
     "title": "E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E229｜从手工作坊到全球第一：中国动力电池逆袭史](sources/e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi.md) — 硅谷101 episode on China's power-battery rise through policy demand, local clusters, supply-chain density, manufacturing know-how, CATL/BYD/ATL, Northvolt, solid-state batteries, sodium-ion storage, dry electrodes, and recycling.
 - [一人公司的另一种可能：AI 负责经营，人类负责热爱｜英文访谈 S10E14](sources/yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7.md) — What's Next interview with Sahil Lavingia on Gumroad, AI-era OPC, minimalist entrepreneurship, support automation, sales/story, AI as operator, and public-service digitalization.
 - [存储三巨头破万亿市值，存储超级周期何时能见顶？｜ S10E13](sources/cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1.md) — What's Next episode on AI-driven HBM/DRAM/NAND demand, memory hierarchy, storage cyclicality, capacity lock-ins, and agent-era NAND storage.
 - [49.李乌鸦来了！聊聊我们为啥爱阅读](sources/49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098.md) — 蜜獾吃书 first-anniversary episode with 李乌鸦 on reading shame, classics, family reading ecology, literary texture, and fiction as life experience.
@@ -333,6 +334,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [何倩然 / He Qianran](entities/HeQianran.md) — Battery investor and materials/R&D-background guest explaining China's manufacturing edge and future sodium-ion, dry-electrode, recycling, and solid-state routes.
+- [杨璐 / Yang Lu](entities/YangLu.md) — Journalist contributing BYD factory-history, Changzhou cluster, and Yibin industrial-transition reporting to the battery episode.
+- [张从志 / Zhang Congzhi](entities/ZhangCongzhi.md) — Journalist emphasizing Ten Cities Thousand Vehicles, battery consistency, and pack-level safety as foundations of China's battery rise.
+- [CATL / 宁德时代](entities/CATL.md) — Chinese power-battery leader positioned as a beneficiary of demand creation, whitelist protection, manufacturing scale, and Yibin chain anchoring.
+- [ATL / Amperex Technology Limited](entities/ATL.md) — Early Chinese lithium-battery company used to show how licensed technology still required coating, process, and reliability know-how.
+- [Northvolt](entities/Northvolt.md) — European battery counterexample where capital, equipment, and orders did not substitute for deep manufacturing process capability.
+- [Changzhou / 常州](entities/Changzhou.md) — Yangtze River Delta battery and EV cluster case built around a four-hour industrial circle and local supply-chain matching.
+- [Yibin / 宜宾](entities/Yibin.md) — Latecomer battery city case using green power, universities, government coordination, and CATL anchoring to enter advanced manufacturing.
+- [Panasonic](entities/Panasonic.md) — Battery supplier in the episode's Tesla cylindrical-cell route comparison.
+- [TDK](entities/TDK.md) — Electronics company whose coating know-how is linked by the episode to ATL battery manufacturing.
 - [Sahil Lavingia](entities/SahilLavingia.md) — Gumroad founder used to ground AI-era OPC in sales, support, trust, automation, and public-service software tradeoffs.
 - [Gumroad](entities/Gumroad.md) — Creator-commerce company case for a VC-to-minimalist transition, small-team automation, AI support, and creator-tool go-to-market.
 - [Patreon](entities/Patreon.md) — Creator-platform counterpoint to Gumroad where sales, story, audience fit, and supporter models matter alongside software.
@@ -1053,14 +1064,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Google Cloud](entities/GoogleCloud.md) — Google enterprise cloud and AI infrastructure platform positioned through Google Cloud Next as part of Google's full-stack AI strategy.
 - [TPU](entities/TPU.md) — Google's tensor-processing-unit chip family, discussed as both a cloud-model-enterprise stack layer and a specialized AI-chip alternative to Nvidia GPUs for some workloads.
 - [Latin America](entities/LatinAmerica.md) — Regional frame connecting Trump-era investment, U.S.-China strategic competition, critical minerals, and earlier security-driven rightward politics.
-- [China](entities/China.md) — Strategic investor and rival power in the Latin lessons source's Latin America investment, factory, mining, and infrastructure frame.
+- [China](entities/China.md) — Country context spanning strategic investment, family law, football, aviation, tourism, lunar governance, and power-battery industrialization.
 - [Brazil](entities/Brazil.md) — Latin America investment case for a U.S.-backed rare-earth mine and BYD's China-linked factory presence.
 - [Chile](entities/Chile.md) — Copper and undersea-cable case in the source's Latin America strategic-minerals and infrastructure competition.
 - [Paraguay](entities/Paraguay.md) — Possible mineral-project destination in the Latin America investment boom.
 - [Nigeria](entities/Nigeria.md) — Jollof-price shock case where food inflation, diesel, roads, weather, and wages make a staple dish unaffordable.
 - [Ghana](entities/Ghana.md) — Jollof Index contrast case where lower inflation and a stronger currency cushion food prices more than in Nigeria.
 - [BBC](entities/BBC.md) — Public broadcaster whose Droitwich longwave shutdown becomes a broadcast-infrastructure and access case.
-- [BYD](entities/BYD.md) — Chinese company cited through its Brazil factory as part of the Latin America influence and investment contest.
+- [BYD](entities/BYD.md) — Chinese EV and battery company linked to Brazil manufacturing, early battery process learning, and blade-battery route design.
 - [SBM Intelligence](entities/SBMIntelligence.md) — Organization behind the Jollof Index used to compare food affordability in Nigeria and Ghana.
 - [Li Jigang / 李继刚](entities/LiJigang.md) — E45 guest whose reading, investing, prompt, Memory/Soul, and education frames ask how people keep agency under AI time compression.
 - [汉洋 / Han Yang](entities/HanYang.md) — Content creator and Fuyou Tiandi host arguing for long-form, guest-centered conversation against conclusion-driven media constraints.
@@ -1142,7 +1153,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Stop Killing Games](entities/StopKillingGames.md) — Player-rights movement referenced as context for service shutdown, deletion, and game-preservation concerns.
 - [朱宁 / Zhu Ning](entities/ZhuNing.md) — Economist and behavioral-finance scholar explaining bubble conditions, AI valuation risk, and consequence-first investing discipline.
 - [42章经](entities/42Zhangjing.md) — Podcast/show context for interviews on investing bubbles, PingCAP infrastructure, AI application pivots, and EVE-style AI companionship.
-- [United States](entities/UnitedStates.md) — Country and institutional context connecting democratic resilience, immigration, cultural exports, NATO credibility, U.S.-Iran diplomacy, Latin America investment pressure, World Cup hosting, and Venezuela recovery responsibility.
+- [United States](entities/UnitedStates.md) — Country and institutional context spanning democratic resilience, geopolitics, sports capital, frontier-model governance, and battery innovation/manufacturing gaps.
 - [Supreme Court](entities/SupremeCourt.md) — U.S. judicial institution used in the America-at-250 source as both democratic guardrail and possible executive-power precedent maker.
 - [Robert Guest](entities/RobertGuest.md) — The Intelligence panelist giving the more optimistic account of American democratic resilience, assimilation, and cultural durability.
 - [Daniel Knowles](entities/DanielKnowles.md) — The Intelligence panelist warning that Supreme Court behavior and executive-power disputes show weakening U.S. constitutional guardrails.
@@ -1452,7 +1463,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Samuel Beckett](entities/SamuelBeckett.md) — Writer whose work Beauchard backed before broader market recognition.
 - [Elie Wiesel](entities/ElieWiesel.md) — Writer whose Holocaust memoir Night Beauchard championed through early rejection.
 - [Alphabet](entities/Alphabet.md) — Hyperscaler in the episode's $660bn AI capex cluster alongside Amazon, Meta, and Microsoft.
-- [硅谷101](entities/SiliconValley101.md) — Podcast/show context for Apodex self-evolution and Bairong's enterprise-agent discussion of SaaS disruption, result pricing, and silicon-carbon governance.
+- [硅谷101](entities/SiliconValley101.md) — Podcast/show context for power batteries, football finance, running shoes, Apodex self-evolution, FDE work, and Bairong's enterprise-agent discussion.
 - [Apodex](entities/Apodex.md) — Chen Tianqiao-backed AI company in the source focused on Heavy Duty Solver and Discovery Model work rather than consumer generation products.
 - [Chen Tianqiao](entities/ChenTianqiao.md) — Strategic figure behind Apodex, described as shaping company direction and model constitution around truthfulness and hard-problem solving.
 - [Du Shaolei](entities/DuShaolei.md) — Apodex chief scientist for training and inference, discussing Deep Research, long-horizon reasoning, verification, and research taste.
@@ -1904,7 +1915,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [MiniMax](entities/MiniMax.md) — AI model company discussed through M1/M2/M3 iteration, developer workflows, scaling, domain experts, and interpretability.
 - [MiniMax M3](entities/MiniMaxM3.md) — MiniMax model discussed as a coding component inside cost-aware, multi-model AI workflows.
 - [MultiCard](entities/MultiCard.md) — AI workflow company represented by Zhang Jiayuan and used as a case for model orchestration and maintainer-led AI coding.
-- [Motorola](entities/Motorola.md) — Early mobile-phone, pager, and design-led handset leader whose StarTAC/RAZR success did not survive the smartphone ecosystem shift.
+- [Motorola](entities/Motorola.md) — Early handset leader and later BYD battery-customer signal linking handset-era component demand to battery manufacturing know-how.
 - [Mas](entities/Mas.md) — Ninety's AI companion bot built around organizational operating context.
 - [Manus](entities/Manus.md) — Agent product central to the overseas-commercialization episode and referenced elsewhere as a milestone in the agent wave.
 - [你的书房](entities/NiDeShufang.md) — Personal book-management product used as an example of paid AI features, bounded usage, data portability, app revenue, and mini-program review friction.
@@ -1975,7 +1986,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tea Maker](entities/TeaMaker.md) — Bootstrapped SaaS holding company founded by Thibaut-Louis Lucas.
 - [Tencent](entities/Tencent.md) — Chinese internet company discussed through QQ/Yuanbao, WeChat service entry, ByteDance competition, and investments in internet-healthcare platforms.
 - [Tencent Meeting](entities/TencentMeeting.md) — Tencent collaboration product used as Vol. 164's example for decomposing SaaS into agent-recombinable video, recording, storage, and interface capabilities.
-- [Tesla](entities/Tesla.md) — EV and autonomous-driving company used in EP57, Win's FSD/Robotaxi field notes, and the SpaceX source's Musk hard-tech ecosystem framing.
+- [Tesla](entities/Tesla.md) — EV, autonomous-driving, and battery-format comparison case across investing, FSD/Robotaxi field notes, Musk hard tech, and cylindrical-cell route dependence.
 - [The Mom Test](entities/TheMomTest.md) — Startup validation book referenced as a guardrail against leading customer interviews and false demand signals.
 - [The SaaS Podcast](entities/TheSaaSPodcast.md) — SaaS interview show covering founder growth, product validation, distribution, and AI-era SaaS strategy.
 - [ThreatLocker](entities/ThreatLocker.md) — Cybersecurity SaaS company built around zero trust controls, default-deny application control, and MSP-to-enterprise distribution.
@@ -2040,6 +2051,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Power Battery Industry Chain](concepts/PowerBatteryIndustryChain.md) — Full-stack battery system spanning resources, materials, cells, PACK, BMS, suppliers, local clusters, and recycling loops.
+- [Battery Manufacturing Know-How](concepts/BatteryManufacturingKnowHow.md) — Tacit process-control moat around coating, moisture, defects, yield, line debugging, and factory iteration.
+- [Battery Consistency And Safety](concepts/BatteryConsistencySafety.md) — Pack-level quality problem where cell variation, contaminants, defects, and process instability can become lifespan or thermal-risk issues.
+- [Ten Cities Thousand Vehicles](concepts/TenCitiesThousandVehicles.md) — 2009 Chinese EV program framed as early policy-created demand for domestic battery and new-energy vehicle development.
+- [Power Battery Whitelist](concepts/PowerBatteryWhitelist.md) — 2015 policy mechanism that protected subsidized Chinese EV demand for domestic battery suppliers.
+- [Local Battery Industrial Clusters](concepts/LocalBatteryIndustrialClusters.md) — City-level pattern where local governments combine funds, land, talent, power, suppliers, and chain anchors to build battery capacity.
+- [Solid-State Battery Commercialization](concepts/SolidStateBatteryCommercialization.md) — Cautionary frame for why solid-state batteries face definition, interface, safety, cost, and supply-chain bottlenecks before scale.
+- [Sodium-Ion Battery Storage](concepts/SodiumIonBatteryStorage.md) — Battery route for storage scenarios where cost, life, stability, and reduced lithium/cobalt/nickel dependence matter more than energy density.
+- [Dry Electrode Manufacturing](concepts/DryElectrodeManufacturing.md) — Alternative electrode-production route that could shift the manufacturing bottleneck away from entrenched wet-coating know-how.
+- [Battery Recycling Loop](concepts/BatteryRecyclingLoop.md) — Resource and supply-chain loop that turns used batteries into recoverable material access and reduces some critical-mineral exposure.
 - [Minimalist Entrepreneurship](concepts/MinimalistEntrepreneurship.md) — Small-company method of manual validation, customer pull, and automation after learning what people will pay for.
 - [AI As Business Operator](concepts/AIAsBusinessOperator.md) — Idea that AI can handle more payroll, finance, legal, supply-chain, support, and growth operations while humans keep craft and ownership.
 - [Public Service Digitalization](concepts/PublicServiceDigitalization.md) — Government-software problem of replacing forms, queues, phone calls, and mail with accountable public services.
@@ -2517,7 +2538,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Beverage Category Convergence](concepts/BeverageCategoryConvergence.md) — tea-drink and coffee chains moving into each other's categories through shared beverage habits and store networks.
 - [Portable Creator Cameras](concepts/PortableCreatorCameras.md) — Action, gimbal, and 360-degree cameras that serve short-video and creator workflows beyond phone-only recording.
 - [Hardware Category Definition Power](concepts/HardwareCategoryDefinitionPower.md) — Advantage of teaching the market what a hardware category is, what quality looks like, and what price is acceptable.
-- [Chinese Hardware Globalization](concepts/ChineseHardwareGlobalization.md) — Pattern where Chinese device companies globalize through newer premium categories before protectionist or security constraints fully form.
+- [Chinese Hardware Globalization](concepts/ChineseHardwareGlobalization.md) — Pattern where Chinese hardware strength travels through category leadership, brand trust, sponsorship, supply-chain depth, and policy exposure.
 - [Low-Altitude Regulatory Risk](concepts/LowAltitudeRegulatoryRisk.md) — Drone and low-altitude flight exposure created when civilian hardware is recoded through security, war, and national-policy narratives.
 - [Hardware Talent Spillover](concepts/HardwareTalentSpillover.md) — Pattern where strong hardware companies train founders and operators who later create adjacent startups.
 - [Full-Stack AI Platform](concepts/FullStackAIPlatform.md) — Strategy of competing through chips, cloud, models, product surfaces, data, tools, security, and enterprise relationships rather than model rank alone.
@@ -2525,7 +2546,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Capability Overhang](concepts/CapabilityOverhang.md) — Gap between what AI can technically do and what an organization can absorb into production workflows.
 - [Donroe Doctrine](concepts/DonroeDoctrine.md) — Episode shorthand for Trump-era U.S. pressure and near-abroad influence redirecting capital toward Latin America.
 - [Latin America Investment Boom](concepts/LatinAmericaInvestmentBoom.md) — FDI surge frame linking regional macro stability, U.S.-China competition, Trump pressure, mining, and long project timelines.
-- [Critical Minerals Geopolitics](concepts/CriticalMineralsGeopolitics.md) — Strategic-resource competition where mines, factories, supply chains, and infrastructure become instruments of state influence.
+- [Critical Minerals Geopolitics](concepts/CriticalMineralsGeopolitics.md) — Strategic-resource competition where mines, factories, battery chemistries, recycling loops, supply chains, and infrastructure become instruments of state influence.
 - [Food Inflation](concepts/FoodInflation.md) — Household cost-pressure frame showing how diesel, roads, weather, currency, and wages turn meal prices into daily economic stress.
 - [Jollof Index](concepts/JollofIndex.md) — Food-basket measure from SBM Intelligence using jollof rice ingredients to compare affordability in Nigeria and Ghana.
 - [Longwave Radio](concepts/LongwaveRadio.md) — Broadcast technology whose BBC Droitwich shutdown carries both cultural memory and remote-access implications.
@@ -3167,7 +3188,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Carry Trade Unwind](concepts/CarryTradeUnwind.md) — Forced closing of funded cross-asset positions when currency, rates, margin, or risk conditions reverse.
 - [Career Self-Rescue](concepts/CareerSelfRescue.md) — Recovery pattern where a concrete act restores agency after a low-confidence work or career state.
 - [Cash Cow Strategic Inertia](concepts/CashCowStrategicInertia.md) — Pattern where a profitable old business weakens strategic patience for necessary new bets.
-- [China Handset Supply Chain](concepts/ChinaHandsetSupplyChain.md) — Industrial base built from foreign factories, domestic brands, MediaTek solutions, Huaqiangbei, shanzhai recombination, and later AI-era handset-chip co-design.
+- [China Handset Supply Chain](concepts/ChinaHandsetSupplyChain.md) — Industrial base built from foreign factories, domestic brands, MediaTek solutions, Huaqiangbei, shanzhai recombination, battery-component learning, and later AI-era handset-chip co-design.
 - [Chinese Domestic Handset Waves](concepts/ChineseDomesticHandsetWaves.md) — Staged history of Chinese handset makers from licensed brands to shanzhai/turnkey phones, operator-subsidized smartphones, and AI-era terminal competition.
 - [Causal AI](concepts/CausalAI.md) — Research direction focused on intervention-grounded causal structure, causal discovery, and machine-learning systems that generalize beyond surface correlation.
 - [Causal World Models](concepts/CausalWorldModels.md) — World-model route that learns causal variables, causal structure, and action-conditioned transition dynamics for physical AI.

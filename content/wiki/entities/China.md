@@ -1,8 +1,8 @@
 ---
 title: "China"
 type: entity
-tags: [country, geopolitics, technology, investment, family-law, football, aviation, consumer, tourism, space]
-sources: [tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, no-203-businiao-lanshili-979295393, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
+tags: [country, geopolitics, technology, investment, family-law, football, aviation, consumer, tourism, space, manufacturing, batteries]
+sources: [tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, no-203-businiao-lanshili-979295393, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi]
 last_updated: 2026-07-12
 ---
 
@@ -26,6 +26,8 @@ In the source, China is less a domestic-policy subject than a strategic counterp
 
 [[tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128]] adds China as a lunar-race actor. The episode says China aims to land humans on the [[Moon]] by 2030 and has not signed the [[ArtemisAccords]], placing it inside [[LunarResourceGovernance]] debates over safety zones, transparency, resource access, and side-by-side operation with U.S.-led partners.
 
+[[e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi]] adds China as the main case in power-battery industrialization. The source argues that China's battery advantage came from [[TenCitiesThousandVehicles]], [[PowerBatteryWhitelist]], [[LocalBatteryIndustrialClusters]], dense suppliers, and factory-level [[BatteryManufacturingKnowHow]], with [[CATL]], [[BYD]], and [[ATL]] as central company examples.
+
 ## Connections
 - [[Bitcoin]], [[CrossBorderCryptoCapitalFlight]], and [[CapitalAccountInvestmentRestrictions]] - crypto portability and capital-control comparison added by Marketplace Tech.
 - [[LatinAmerica]] and [[LatinAmericaInvestmentBoom]] - region where Chinese investment and U.S. competition shape capital flows.
@@ -38,3 +40,4 @@ In the source, China is less a domestic-policy subject than a strategic counterp
 - [[EastStarAirlines]], [[SpringAirlines]], [[CivilAviationAdministrationOfChina]], and [[ChinesePrivateAirlineOpening]] - private-aviation branch added by the Lan Shili source.
 - [[Anaya]], [[AuthenticNeighborhoodExperience]], [[LongTermPlaceOperation]], and [[InboundTourismBrandDiscovery]] - consumer-experience and tourism branch added by FengTouQuan episode 142.
 - [[Moon]], [[ArtemisAccords]], [[Russia]], and [[LunarResourceGovernance]] - lunar diplomacy and resource-governance branch added by Marketplace Tech.
+- [[CATL]], [[BYD]], [[ATL]], [[TenCitiesThousandVehicles]], [[PowerBatteryWhitelist]], [[PowerBatteryIndustryChain]], and [[LocalBatteryIndustrialClusters]] - power-battery industrialization branch added by E229.
