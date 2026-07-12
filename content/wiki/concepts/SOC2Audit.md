@@ -2,7 +2,7 @@
 title: "SOC 2 Audit"
 type: concept
 tags: [compliance, security, saas, trust]
-sources: [tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio]
+sources: [tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly, tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio]
 last_updated: 2026-07-12
 ---
 
@@ -14,11 +14,14 @@ The source makes SOC 2 concrete through examples such as requiring two-factor em
 
 SOC 2 sits inside the wiki's broader [[ComplianceAutomation]] and [[SaaSTrustMoat]] branch. The audit matters because customer trust often depends on provable controls, not only on an engineering team's internal belief that it is secure.
 
+[[tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly]] adds the strategic identity risk around SOC 2. Christina says [[Vanta]] did not want to become only a "SOC 2 factory," even though that wedge was a strong business, so the company invested early in additional trust and security products.
+
 ## Key Claims
 - SOC 2 converts security and operating practices into auditable evidence customers can rely on.
 - The audit covers both infrastructure controls, such as access, permissions, and encryption, and people-process controls, such as roles and responsibilities.
 - Startups experience SOC 2 as painful because evidence collection can pull engineers and operators away from product work.
 - Compliance software is valuable when it turns repeated audit evidence into a structured, lower-friction workflow.
+- A strong SOC 2 wedge can validate demand while also creating a product-identity trap if the company wants to become broader trust infrastructure.
 
 ## Connections
 - [[ChristinaCacioppo]], [[Vanta]], [[DropboxPaper]], [[Segment]], and [[Front]] - source and productization context.

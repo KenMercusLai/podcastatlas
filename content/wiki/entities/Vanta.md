@@ -2,7 +2,7 @@
 title: "Vanta"
 type: entity
 tags: [company, saas, compliance, cybersecurity, trust]
-sources: [tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio]
+sources: [tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly, tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio]
 last_updated: 2026-07-12
 ---
 
@@ -14,8 +14,11 @@ The company emerged from [[SOC2Audit]] pain Christina had seen at [[Dropbox]] wh
 
 Vanta's early go-to-market also makes it a [[YCombinator]] case. The company joined YC in Winter 2018 because its likely buyers were startup founders, and Christina wanted a forcing function for learning sales. Vanta targeted two $10,000 contracts per week, reached roughly $180,000 by the end of YC, and used [[AnnualUpfrontSaaSCashFlow]] to fund conservative early hiring.
 
+[[tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly]] adds Vanta's later scale and product-identity tension. In that source, [[ChristinaCacioppo]] says Vanta had 12,000 customers, 1,000 employees, and a Series D valuation of $4.15 billion, while also saying the company deliberately invested in more products because it did not want to be known only as a "SOC 2 factory."
+
 ## Connections
 - [[ChristinaCacioppo]] - founder and CEO.
 - [[SOC2Audit]], [[ComplianceAutomation]], [[SaaSTrustMoat]], and [[TrustAsBusinessAsset]] - product category and trust context.
 - [[ManualComplianceMVP]], [[CustomerDiscoveryByDoingWork]], [[FounderLedSales]], and [[ProductLedWillingnessToPay]] - validation and selling patterns.
 - [[YCombinator]], [[Segment]], [[Front]], and [[Dropbox]] - accelerator, early customer, and problem-discovery context.
+- [[FounderMode]], [[FounderDelegationDiscipline]], and [[StageAppropriateHiring]] - founder-operating branch added by the YC offsite source.

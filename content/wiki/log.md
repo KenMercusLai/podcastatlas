@@ -2200,6 +2200,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-12] ingest | Founder Mode: Christina Cacioppo, Founder & CEO, Vanta
+
+Added source page for The Social Radars YC offsite episode on Christina Cacioppo, Vanta, founder mode as permission, delayed Series A fundraising, selective delegation, founder intuition, early engineer-management regret, and expansion beyond SOC 2. Updated overview, index, Christina Cacioppo, Vanta, The Social Radars, Y Combinator, Founder Mode, Founder Delegation Discipline, Stage-Appropriate Hiring, Manual Compliance MVP, and SOC 2 Audit. No direct contradiction found; the source reinforces Vanta's spreadsheet MVP origin while adding a later-stage operating lens around trusting internal evidence, choosing where not to delegate, and avoiding a narrow product identity.
+
 ## [2026-07-12] ingest | 日谈串台｜姐妹聊天会：重启人生也是我最妖娇
 
 Added source page for the 蜜獾吃书 and 日谈 Women's Day crossover with Hookie, 殷姐, and 秦总 on 《重启人生》, life restarts, career redirection, pet grief, mother-daughter repair, learning capacity, and female self-possession. Created pages for 蜜獾吃书, 日谈, Hookie, 殷姐, 秦总, 重启人生 / Brush Up Life, Life Restart Thought Experiment, Regret Integration, Pet Grief And Care, Mother-Daughter Reconciliation, and Female Self-Possession; updated overview, index, Learning How To Learn, Career Self-Rescue, Life Antifragility, No Better Life, and Impermanence And No-Self. No direct contradiction found; the source qualifies restart fantasies by showing that many regrets ask for understanding, presence, or integration rather than a different life.
@@ -2671,6 +2675,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] ingest | Founder Mode: Kashish Gupta, Founder and co-CEO of Hightouch
 
 Added source page for The Social Radars YC offsite episode on Kashish Gupta, Hightouch, enterprise data activation, customer evidence, enterprise-first product fit, AI marketing decisioning, founder risk-taking, and co-founder alignment. Created pages for Kashish Gupta, Hightouch, Snowflake, Databricks, David Clements, Enterprise Data Activation, Customer Evidence Strategy, Enterprise-First Product Fit, Founder Risk Taking, AI Marketing Decisioning, and Co-Founder Alignment Loop; updated overview, index, The Social Radars, Y Combinator, Founder Mode, Founder Risk Calibration, Founder-Led Sales, Segment, Spotify, and Automated Performance Marketing. No direct contradiction found; the source qualifies generic small-customer startup advice by showing an enterprise SaaS case where customer architecture and direct market context pointed toward large customers before metrics fully caught up.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-12] lint | Wiki health check
 

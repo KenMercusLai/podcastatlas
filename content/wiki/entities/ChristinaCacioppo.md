@@ -2,7 +2,7 @@
 title: "Christina Cacioppo"
 type: entity
 tags: [person, startups, enterprise-software, compliance]
-sources: [tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio]
+sources: [tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly, tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio]
 last_updated: 2026-07-12
 ---
 
@@ -14,9 +14,12 @@ The source uses Christina as a founder-path counterexample. She did not begin as
 
 Her Vanta insight came from a concrete enterprise-software bottleneck. At [[Dropbox]], the [[DropboxPaper]] team hit a launch constraint because customer contracts required security and compliance commitments. Later, customer conversations led Christina back to [[SOC2Audit]] pain, and the first Vanta-like product became a spreadsheet gap assessment before it became software.
 
+[[tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly]] adds Christina's [[FounderMode]] interpretation after Vanta had scaled. She defines founder mode as permission to run the company in a way that works for the founder and the company rather than copying generic venture advice. Her examples include waiting until roughly $10 million in revenue before raising a Series A, choosing where not to delegate, regretting the loss of an early engineer after a manager was inserted above him, and pushing Vanta beyond a narrow SOC 2 identity.
+
 ## Connections
 - [[Vanta]] - company she founded.
 - [[UnionSquareVentures]] and [[FredWilson]] - early venture-capital context and mentor advice.
 - [[Dropbox]], [[Hackpad]], and [[DropboxPaper]] - work context where compliance pain became legible.
 - [[SOC2Audit]], [[ManualComplianceMVP]], [[ComplianceAutomation]], and [[AnnualUpfrontSaaSCashFlow]] - product and business-model patterns grounded by her source.
-- [[YCombinator]], [[Segment]], and [[Front]] - accelerator and early customer context.
+- [[YCombinator]], [[Segment]], and [[Front]] - accelerator, offsite, and early customer context.
+- [[FounderMode]], [[FounderDelegationDiscipline]], and [[StageAppropriateHiring]] - operating concepts extended by her founder-mode source.

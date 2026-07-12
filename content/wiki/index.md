@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Founder Mode: Christina Cacioppo, Founder & CEO, Vanta](sources/tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly.md) — The Social Radars YC offsite episode with Christina Cacioppo on Vanta, founder mode as permission, delayed Series A fundraising, selective delegation, founder intuition, early engineer-management regret, and expanding beyond SOC 2.
 - [Founder Mode: Kashish Gupta, Founder and co-CEO of Hightouch](sources/tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly.md) — The Social Radars YC offsite episode with Kashish Gupta on Hightouch, enterprise data activation, customer evidence, enterprise-first go-to-market, AI marketing decisioning, founder risk-taking, and co-founder alignment.
 - [50.开膛手杰克结案报告：女法医的争议之作](sources/50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604.md) — 蜜獾吃书 episode on Patricia Cornwell's contested Sickert theory, Jack the Ripper, Whitechapel victims, Victorian women, forensic limits, and early criminal-investigation practice.
 - [E229｜从手工作坊到全球第一：中国动力电池逆袭史](sources/e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi.md) — 硅谷101 episode on China's power-battery rise through policy demand, local clusters, supply-chain density, manufacturing know-how, CATL/BYD/ATL, Northvolt, solid-state batteries, sodium-ion storage, dry electrodes, and recycling.
@@ -395,8 +396,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [殷姐](entities/YinJie.md) — Host in the restart-life episode, linking Mexico hospitality life, recruiting regret, self-consistency, learning capacity, and non-attachment.
 - [秦总](entities/QinZong.md) — 蜜獾吃书 host linking life restarts, machine gambling, autism support, and literary reading through book discussion and personal examples.
 - [重启人生 / Brush Up Life](entities/BrushUpLife.md) — Japanese-drama premise used by the episode as a life-restart thought experiment.
-- [Christina Cacioppo](entities/ChristinaCacioppo.md) — Vanta founder and CEO whose Social Radars episode links USV, learning to code, Dropbox compliance pain, YC, and founder-led enterprise sales.
-- [Vanta](entities/Vanta.md) — Trust-management and compliance-automation SaaS company that began from SOC 2 pain, spreadsheet gap assessments, YC sales, and annual upfront contracts.
+- [Christina Cacioppo](entities/ChristinaCacioppo.md) — Vanta founder and CEO whose Social Radars episodes link USV, learning to code, Dropbox compliance pain, YC, founder-led enterprise sales, founder mode, and selective delegation.
+- [Vanta](entities/Vanta.md) — Trust-management and compliance-automation SaaS company that began from SOC 2 pain and spreadsheet gap assessments, then expanded beyond a SOC 2-only wedge.
 - [Union Square Ventures](entities/UnionSquareVentures.md) — Venture firm where Christina Cacioppo learned founder patterns before teaching herself to code and later founding Vanta.
 - [Fred Wilson](entities/FredWilson.md) — USV partner whose online hiring post and "fake it till you make it" advice shaped Christina Cacioppo's pre-Vanta path.
 - [Hackpad](entities/Hackpad.md) — Collaborative-document team Christina Cacioppo joined at Dropbox before it became Dropbox Paper and exposed compliance-launch constraints.
