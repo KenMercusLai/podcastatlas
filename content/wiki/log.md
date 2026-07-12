@@ -2631,3 +2631,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | 49.李乌鸦来了！聊聊我们为啥爱阅读
+
+Added source page for the 蜜獾吃书 first-anniversary episode with 李乌鸦 on reading shame, forgetting, painful books, adolescent literary desire, original-text texture, reading posture and paper, childhood book access, classics, and why fiction matters beyond utility. Created pages for 李乌鸦, Reading As Life Experience, Classic Reading Complexity, Family Reading Ecology, and Non-Instrumental Literary Reading; updated overview, index, 蜜獾吃书, 秦总, Reading As Frame Training, and Non-Instrumental Understanding. No direct contradiction found; the source complements AI-assisted reading by emphasizing reader state, bodily habit, household atmosphere, original literary texture, and experiential value that summaries cannot fully replace.

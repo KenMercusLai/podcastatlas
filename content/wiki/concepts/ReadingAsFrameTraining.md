@@ -2,8 +2,8 @@
 title: "Reading As Frame Training"
 type: concept
 tags: [reading, cognition, learning]
-sources: [dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]
-last_updated: 2026-07-09
+sources: [dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]
+last_updated: 2026-07-12
 ---
 
 # Reading As Frame Training
@@ -16,6 +16,8 @@ The same frame extends to people. Friends, books, authors, and conversations are
 
 [[e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]] adds [[LiJigang]]'s frame-collection version. He treats reading, cross-disciplinary reference, and AI-assisted paper workflows as ways to gather "viewfinders" that can loosen self-attachment and reveal deeper order. AI helps extract and extend structures, but the human question is still which frame to train and how it changes one's own perception.
 
+[[49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]] adds a literary, non-AI version through [[QinZong|秦总]] and [[LiWuya|李乌鸦]]. Their discussion treats guidebooks, plot summaries, public discussion, memory failure, and original-text detail as different levels of contact with a book. The source sharpens the boundary between extracting a frame and actually entering a work's texture, making [[ReadingAsLifeExperience]] and [[ClassicReadingComplexity]] part of frame training rather than distractions from it.
+
 ## Key Claims
 
 - Remembering examples is remembering `X`; remembering conclusions is remembering `FX`; gaining a useful frame is learning `F`.
@@ -25,6 +27,7 @@ The same frame extends to people. Friends, books, authors, and conversations are
 - Difficult books can be deferred until the reader has enough context, or approached with AI to identify the starting question and frame.
 - The goal is not a universal reading schedule; people should adapt reading methods to their own life context and attention.
 - Frame collection can loosen attachment to any one viewpoint by making each perspective visible as a partial projection.
+- Literary frame training still depends on original scenes, reader timing, and embodied attention; summary can point toward a book but cannot replace its texture.
 
 ## Connections
 
@@ -35,3 +38,4 @@ The same frame extends to people. Friends, books, authors, and conversations are
 - [[HumanAgencyUnderAI]] — deciding what kind of frame to train is part of choosing how to live.
 - [[PersonalKnowledgeEcology]] — notes, shelves, and whiteboards preserve and recombine frames.
 - [[LiJigang]], [[AIAssistedReading]], [[FeedCuration]], and [[WetStateHumanAgency]] — E45's frame-collection and input-training extension.
+- [[ReadingAsLifeExperience]], [[ClassicReadingComplexity]], and [[NonInstrumentalLiteraryReading]] — literary-reading extension added by the Li Wuya episode.

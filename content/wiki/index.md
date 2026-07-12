@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [49.李乌鸦来了！聊聊我们为啥爱阅读](sources/49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098.md) — 蜜獾吃书 first-anniversary episode with 李乌鸦 on reading shame, classics, family reading ecology, literary texture, and fiction as life experience.
 - [48.开市大吉：第一流的幽默讽刺](sources/48-kaishi-daji-diyiliu-de-youmo-fengci-627375908.md) — 蜜獾吃书 episode on Lao She, 《开市大吉》, humorous satire, theater etiquette, medical fraud, birth ritual conflict, and renqing workplace order.
 - [47.鸟有什么好看的：原来…丹顶鹤是秃的！](sources/47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924.md) — 蜜獾吃书 episode on 《鸟有什么好看的》, Kawakami Kazuto, birdwatching, ornithological fieldwork, island ecology, scientific sampling, invasive-species management, and evidence discipline.
 - [WWDC 26 补上了 AI，但离真正的 AI 助手还差什么？｜ S10E15](sources/wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d.md) — What's Next episode with Dong Hongguang of Guangfan Technology on Apple Intelligence, Siri, wearable AI assistants, always-on context, service entry, and permission boundaries.
@@ -356,11 +357,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Flow](entities/Flow.md) — iPhone dictation app Mims uses as a voice-first AI interface for everyday messaging.
 - [Google Personal Intelligence](entities/GooglePersonalIntelligence.md) — Gemini-linked account capability used by the source to show AI acting inside Google services such as Calendar.
 - [Google Calendar](entities/GoogleCalendar.md) — Scheduling product used as the source's example of a disliked task that account-integrated AI can reduce.
-- [蜜獾吃书](entities/MihuanChishu.md) — Podcast/show context for book and life-design discussions on life restarts, machine gambling, autism support, and bird science.
+- [蜜獾吃书](entities/MihuanChishu.md) — Podcast/show context for book and life-design discussions on life restarts, machine gambling, autism support, bird science, satire, and reading itself.
+- [李乌鸦](entities/LiWuya.md) — Book creator and guest in the 蜜獾吃书 first-anniversary episode on reading habits, classics, shame, solitude, and non-instrumental literary value.
 - [日谈](entities/Ritan.md) — Crossover context for the episode bringing Hookie, 殷姐, and 秦总 together for a Women's Day life-design conversation.
 - [Hookie](entities/Hookie.md) — Host in the restart-life episode, linking life-science career redirection, pet grief, school confidence, and learning capacity.
 - [殷姐](entities/YinJie.md) — Host in the restart-life episode, linking Mexico hospitality life, recruiting regret, self-consistency, learning capacity, and non-attachment.
-- [秦总](entities/QinZong.md) — 蜜獾吃书 host linking life restarts, machine gambling, and autism support through book discussion and personal examples.
+- [秦总](entities/QinZong.md) — 蜜獾吃书 host linking life restarts, machine gambling, autism support, and literary reading through book discussion and personal examples.
 - [重启人生 / Brush Up Life](entities/BrushUpLife.md) — Japanese-drama premise used by the episode as a life-restart thought experiment.
 - [Christina Cacioppo](entities/ChristinaCacioppo.md) — Vanta founder and CEO whose Social Radars episode links USV, learning to code, Dropbox compliance pain, YC, and founder-led enterprise sales.
 - [Vanta](entities/Vanta.md) — Trust-management and compliance-automation SaaS company that began from SOC 2 pain, spreadsheet gap assessments, YC sales, and annual upfront contracts.
@@ -2515,6 +2517,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Long-Form Conversation](concepts/LongFormConversation.md) — Interview method where time, trust, side paths, and rough thinking reveal a person's judgment and lived experience.
 - [Media Form Constraint](concepts/MediaFormConstraint.md) — Pressure from duration, conclusions, information gain, public utility, and platform expectations that shapes what content can say.
 - [Non-Instrumental Understanding](concepts/NonInstrumentalUnderstanding.md) — Treating a topic as worth understanding even when it does not immediately produce advice, prediction, or decision utility.
+- [Non-Instrumental Literary Reading](concepts/NonInstrumentalLiteraryReading.md) — Reading fiction and classics as experience, emotional repair, and possible-life exploration rather than only extractable utility.
 - [Video Podcast Affordance](concepts/VideoPodcastAffordance.md) — Video-podcast capacity to carry gestures, bodies, images, objects, and spatial context that audio-only formats may lose.
 - [Business-Model Organization Fit](concepts/BusinessModelOrganizationFit.md) — Principle that organization mechanisms should follow business chain length, cycle, gross margin, and competition pattern rather than copy big-company rituals.
 - [Recruiting Supply Strategy](concepts/RecruitingSupplyStrategy.md) — Founder-level hiring method focused on clarifying role demand, mapping talent supply, and reaching strong candidates before interviews.
@@ -2842,6 +2845,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [X/F/FX Framework](concepts/XFFXFramework.md) — Cognitive model distinguishing the world or problem, the frame used to see it, and the visible result.
 - [AI-Assisted Reading](concepts/AIAssistedReading.md) — Reading practice that uses AI to extract structures, compare frames, surface blind spots, and lower barriers without replacing human judgment.
 - [Reading As Frame Training](concepts/ReadingAsFrameTraining.md) — Claim that reading books and talking with people trains the reader's frame rather than only collecting cases or conclusions.
+- [Reading As Life Experience](concepts/ReadingAsLifeExperience.md) — Reading as a lived practice shaped by body, memory, mood, timing, family atmosphere, and everyday materials.
+- [Classic Reading Complexity](concepts/ClassicReadingComplexity.md) — Discipline for reading classics without reducing them to reverence, cancellation, plot labels, or present-day moral shorthand.
+- [Family Reading Ecology](concepts/FamilyReadingEcology.md) — Household reading environment that shapes whether books feel ordinary, forbidden, instrumental, status-coded, or inviting.
 - [Personal Knowledge Ecology](concepts/PersonalKnowledgeEcology.md) — View of notes, shelves, whiteboards, conversations, and AI context as a living environment for thought.
 - [AI Authorship Presence](concepts/AIAuthorshipPresence.md) — Trust problem around whether the author's attention and frame are felt to be present when AI helps produce text.
 - [Human Agency Under AI](concepts/HumanAgencyUnderAI.md) — AI-era agency frame focused on why, what, what if, personal taste, and the parts of judgment that should not be delegated.

@@ -1,8 +1,8 @@
 ---
 title: "秦总"
 type: entity
-tags: [host, books, career, life-design, caregiving]
-sources: [ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308, 46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720]
+tags: [host, books, career, life-design, caregiving, reading]
+sources: [ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308, 46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]
 last_updated: 2026-07-12
 ---
 
@@ -16,6 +16,8 @@ Her life-restart answers give the source much of its emotional weight. She first
 
 [[46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720]] adds her autism-support and caregiving interpretation role. She opens from her experience tutoring Eddie, then uses [[UniquelyHuman|《这世界唯一的你》 / Uniquely Human]] and [[BarryPrizant|Barry Prizant]] to argue that difficult behavior should be understood through [[BehaviorAsCommunication]], sensory overload, memory triggers, safety, and family support rather than simple discipline.
 
+[[49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]] adds her explicit reading-philosophy role. In conversation with [[LiWuya|李乌鸦]], she treats fiction as a way to live additional possible lives, defends original literary texture against summary-only reading, and connects childhood book restriction to [[FamilyReadingEcology]] and adult literary attachment to [[NonInstrumentalLiteraryReading]].
+
 ## Connections
 
 - [[MihuanChishu|蜜獾吃书]] and [[Ritan|日谈]] - show and crossover context.
@@ -24,5 +26,7 @@ Her life-restart answers give the source much of its emotional weight. She first
 - [[RegretIntegration]] - retaining embarrassing and painful experiences.
 - [[FemaleSelfPossession]] and [[PetGriefAndCare]] - self-love and care threads.
 - [[Beimin|北民]] - conversation partner in the gambling-addiction episode.
+- [[LiWuya|李乌鸦]] - conversation partner in the first-anniversary meta-reading episode.
 - [[TheLureOfLuck|《运气的诱饵》]], [[MachineZone]], and [[PrivateActuarialism]] - book and concepts from her gambling-addiction discussion.
 - [[UniquelyHuman|《这世界唯一的你》 / Uniquely Human]], [[AutismAsHumanDifference]], [[BehaviorAsCommunication]], and [[AutismFamilySupport]] - book and concepts from her autism-support discussion.
+- [[ReadingAsLifeExperience]], [[ClassicReadingComplexity]], and [[NonInstrumentalLiteraryReading]] - reading concepts added by her conversation with Li Wuya.
