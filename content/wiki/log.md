@@ -2667,3 +2667,11 @@ Added source page for the 蜜獾吃书 episode on Patricia Cornwell's 《开膛�
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Founder Mode: Kashish Gupta, Founder and co-CEO of Hightouch
+
+Added source page for The Social Radars YC offsite episode on Kashish Gupta, Hightouch, enterprise data activation, customer evidence, enterprise-first product fit, AI marketing decisioning, founder risk-taking, and co-founder alignment. Created pages for Kashish Gupta, Hightouch, Snowflake, Databricks, David Clements, Enterprise Data Activation, Customer Evidence Strategy, Enterprise-First Product Fit, Founder Risk Taking, AI Marketing Decisioning, and Co-Founder Alignment Loop; updated overview, index, The Social Radars, Y Combinator, Founder Mode, Founder Risk Calibration, Founder-Led Sales, Segment, Spotify, and Automated Performance Marketing. No direct contradiction found; the source qualifies generic small-customer startup advice by showing an enterprise SaaS case where customer architecture and direct market context pointed toward large customers before metrics fully caught up.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

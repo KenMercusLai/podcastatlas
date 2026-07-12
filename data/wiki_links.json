@@ -499,6 +499,10 @@
     "title": "AI Literacy Against Worship",
     "url": "/wiki/concepts/ailiteracyagainstworship/"
   },
+  "AIMarketingDecisioning": {
+    "title": "AI Marketing Decisioning",
+    "url": "/wiki/concepts/aimarketingdecisioning/"
+  },
   "AIMaterialsDiscovery": {
     "title": "AI Materials Discovery",
     "url": "/wiki/concepts/aimaterialsdiscovery/"
@@ -2543,6 +2547,10 @@
     "title": "Co-Counsel",
     "url": "/wiki/entities/cocounsel/"
   },
+  "CoFounderAlignmentLoop": {
+    "title": "Co-Founder Alignment Loop",
+    "url": "/wiki/concepts/cofounderalignmentloop/"
+  },
   "CoFounderConflict": {
     "title": "Co-Founder Conflict",
     "url": "/wiki/concepts/cofounderconflict/"
@@ -2959,6 +2967,10 @@
     "title": "Customer Discovery By Doing Work",
     "url": "/wiki/concepts/customerdiscoverybydoingwork/"
   },
+  "CustomerEvidenceStrategy": {
+    "title": "Customer Evidence Strategy",
+    "url": "/wiki/concepts/customerevidencestrategy/"
+  },
   "CustomerPull": {
     "title": "Customer Pull",
     "url": "/wiki/concepts/customerpull/"
@@ -3151,6 +3163,10 @@
     "title": "Database Cloud Service Commercialization",
     "url": "/wiki/concepts/databasecloudservicecommercialization/"
   },
+  "Databricks": {
+    "title": "Databricks",
+    "url": "/wiki/entities/databricks/"
+  },
   "DaveJackson": {
     "title": "Dave Jackson",
     "url": "/wiki/entities/davejackson/"
@@ -3166,6 +3182,10 @@
   "DavidCheriton": {
     "title": "David Cheriton",
     "url": "/wiki/entities/davidcheriton/"
+  },
+  "DavidClements": {
+    "title": "David Clements",
+    "url": "/wiki/entities/davidclements/"
   },
   "DavidEllison": {
     "title": "David Ellison",
@@ -3871,9 +3891,17 @@
     "title": "Enterprise Agent Store",
     "url": "/wiki/concepts/enterpriseagentstore/"
   },
+  "EnterpriseDataActivation": {
+    "title": "Enterprise Data Activation",
+    "url": "/wiki/concepts/enterprisedataactivation/"
+  },
   "EnterpriseFileSync": {
     "title": "Enterprise File Sync",
     "url": "/wiki/concepts/enterprisefilesync/"
+  },
+  "EnterpriseFirstProductFit": {
+    "title": "Enterprise-First Product Fit",
+    "url": "/wiki/concepts/enterprisefirstproductfit/"
   },
   "EnterpriseOwnedModels": {
     "title": "Enterprise Owned Models",
@@ -4474,6 +4502,10 @@
   "FounderRiskDeepDive": {
     "title": "Founder Risk Deep Dive",
     "url": "/wiki/concepts/founderriskdeepdive/"
+  },
+  "FounderRiskTaking": {
+    "title": "Founder Risk Taking",
+    "url": "/wiki/concepts/founderrisktaking/"
   },
   "FounderRoleTransition": {
     "title": "Founder Role Transition",
@@ -5254,6 +5286,10 @@
   "HigherEducationAIDiscoverability": {
     "title": "Higher Education AI Discoverability",
     "url": "/wiki/concepts/highereducationaidiscoverability/"
+  },
+  "Hightouch": {
+    "title": "Hightouch",
+    "url": "/wiki/entities/hightouch/"
   },
   "HillaryClinton": {
     "title": "Hillary Clinton",
@@ -6202,6 +6238,10 @@
   "Kaseya": {
     "title": "Kaseya",
     "url": "/wiki/entities/kaseya/"
+  },
+  "KashishGupta": {
+    "title": "Kashish Gupta",
+    "url": "/wiki/entities/kashishgupta/"
   },
   "KateCrawford": {
     "title": "Kate Crawford",
@@ -10115,6 +10155,10 @@
     "title": "Snowdevil",
     "url": "/wiki/entities/snowdevil/"
   },
+  "Snowflake": {
+    "title": "Snowflake",
+    "url": "/wiki/entities/snowflake/"
+  },
   "SoapOperaEffect": {
     "title": "Soap Opera Effect",
     "url": "/wiki/concepts/soapoperaeffect/"
@@ -13410,6 +13454,10 @@
   "tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final": {
     "title": "Founder Mode: Jake Heller, Founder & CEO, Casetext",
     "url": "/wiki/sources/tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final/"
+  },
+  "tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly": {
+    "title": "Founder Mode: Kashish Gupta, Founder and co-CEO of Hightouch",
+    "url": "/wiki/sources/tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly/"
   },
   "tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly": {
     "title": "Founder Mode: Paul Gross, Founder & CEO of Remora Carbon",

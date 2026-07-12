@@ -2,7 +2,7 @@
 title: "Founder Mode"
 type: concept
 tags: [startups, leadership, organization-design, ai]
-sources: [tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly, tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
+sources: [tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly, tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly, tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
 last_updated: 2026-07-12
 ---
 
@@ -24,6 +24,8 @@ The source presents the COVID crisis as the forcing function that let [[Airbnb]]
 
 [[tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly]] adds [[PaulGross]]'s hard-tech version through [[RemoraCarbon]]. Gross defines his founder mode as a [[FounderRiskDeepDive]] loop: choose the company's top three risks each quarter, delegate the rest, and personally go deep where founder involvement can change technical progress, hiring, customer trust, or government affairs. The case makes founder mode less about broad presence across every team and more about selective intensity around the company's most dangerous constraints.
 
+[[tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly]] adds [[KashishGupta]]'s enterprise SaaS version through [[Hightouch]]. Gupta's founder mode is customer-grounded risk: prepare executives for direct founder intervention, write down and disclose the context the founder has, act from [[CustomerEvidenceStrategy]] when metrics lag, and take bets others cannot easily take. The case also adds [[CoFounderAlignmentLoop]] as a boundary condition: when co-founders are equals, founder mode may require months of shared discovery before the company can redirect toward a larger [[AIMarketingDecisioning]] opportunity.
+
 ## Key Claims
 - Founder mode treats leadership as presence, not absence.
 - Trusting executives does not mean giving up audit, product judgment, skip-level relationships, or direction.
@@ -37,6 +39,8 @@ The source presents the COVID crisis as the forcing function that let [[Airbnb]]
 - In Heller's version, founder mode can be necessary when a model capability jump forces a company to abandon reasonable existing work for a larger but still uncertain product direction.
 - In Best's version, founder mode can protect a [[StrategicMustWorkProductBet]] when short-term metrics are weak but the product is necessary to the company's core strategy.
 - In Gross's version, founder mode can mean learning a risky technical or commercial domain deeply enough to unblock work, hire better, and then step back once the risk is reduced.
+- In Gupta's version, founder mode can mean taking customer-grounded risks before formal metrics prove them, especially when the founder has direct market context that employees and executives lack.
+- Founder mode among co-founders needs explicit alignment work; equal founders can move faster once they have argued through the uncertain opportunity together.
 
 ## Connections
 - [[BrianChesky]] and [[Airbnb]] - primary source case.
@@ -49,3 +53,4 @@ The source presents the COVID crisis as the forcing function that let [[Airbnb]]
 - [[JakeHeller]], [[Casetext]], [[CoCounsel|Co-Counsel]], and [[FrontierModelInflectionPivot]] - legal-AI pivot case added by the Jake Heller episode.
 - [[ChrisBest]], [[Substack]], [[SubstackNotes]], [[StrategicMustWorkProductBet]], and [[CreatorOwnedAudience]] - media-network and discovery case added by the Chris Best episode.
 - [[PaulGross]], [[RemoraCarbon]], [[MobileCarbonCapture]], and [[FounderRiskDeepDive]] - hard-tech climate case added by the Paul Gross episode.
+- [[KashishGupta]], [[Hightouch]], [[CustomerEvidenceStrategy]], [[FounderRiskTaking]], [[EnterpriseFirstProductFit]], and [[CoFounderAlignmentLoop]] - enterprise SaaS case added by the Kashish Gupta episode.

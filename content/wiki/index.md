@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Founder Mode: Kashish Gupta, Founder and co-CEO of Hightouch](sources/tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly.md) — The Social Radars YC offsite episode with Kashish Gupta on Hightouch, enterprise data activation, customer evidence, enterprise-first go-to-market, AI marketing decisioning, founder risk-taking, and co-founder alignment.
 - [50.开膛手杰克结案报告：女法医的争议之作](sources/50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604.md) — 蜜獾吃书 episode on Patricia Cornwell's contested Sickert theory, Jack the Ripper, Whitechapel victims, Victorian women, forensic limits, and early criminal-investigation practice.
 - [E229｜从手工作坊到全球第一：中国动力电池逆袭史](sources/e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi.md) — 硅谷101 episode on China's power-battery rise through policy demand, local clusters, supply-chain density, manufacturing know-how, CATL/BYD/ATL, Northvolt, solid-state batteries, sodium-ion storage, dry electrodes, and recycling.
 - [一人公司的另一种可能：AI 负责经营，人类负责热爱｜英文访谈 S10E14](sources/yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7.md) — What's Next interview with Sahil Lavingia on Gumroad, AI-era OPC, minimalist entrepreneurship, support automation, sales/story, AI as operator, and public-service digitalization.
@@ -335,6 +336,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Kashish Gupta](entities/KashishGupta.md) — Hightouch founder and co-CEO whose YC offsite episode links enterprise data activation, customer evidence, founder risk-taking, and AI marketing products.
+- [Hightouch](entities/Hightouch.md) — Enterprise data and AI platform for marketers that activates governed customer data from systems such as Snowflake and Databricks without storing it itself.
+- [Snowflake](entities/Snowflake.md) — Enterprise data platform used in the Hightouch episode as a customer-data foundation for warehouse-native marketing activation.
+- [Databricks](entities/Databricks.md) — Enterprise data platform used in the Hightouch episode to frame the gap between stored customer data and production marketing workflows.
+- [David Clements](entities/DavidClements.md) — Leadership coach credited by Kashish Gupta with the idea that founders may be the only people who can afford to be wrong.
 - [Patricia Cornwell](entities/PatriciaCornwell.md) — Crime novelist and author of 《开膛手杰克结案报告》, used by the episode to examine forensic attribution without decisive proof.
 - [Walter Sickert](entities/WalterSickert.md) — British painter accused by Patricia Cornwell in her Jack the Ripper theory but treated by the episode as suspicious rather than proven.
 - [Jack the Ripper](entities/JackTheRipper.md) — Unresolved Whitechapel murder case connecting suspect mythology, victim stigma, Victorian poverty, and policing practice.
@@ -2058,6 +2064,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Enterprise Data Activation](concepts/EnterpriseDataActivation.md) — Turning governed enterprise customer data into usable sales, advertising, lifecycle marketing, and customer-communication workflows.
+- [Customer Evidence Strategy](concepts/CustomerEvidenceStrategy.md) — Startup strategy discipline of grounding product and company direction in customer statements, workflows, buying behavior, and direct market contact.
+- [Enterprise-First Product Fit](concepts/EnterpriseFirstProductFit.md) — Case where architecture, customer pain, and value proposition fit large organizations before they fit small businesses.
+- [Founder Risk Taking](concepts/FounderRiskTaking.md) — Founder-mode pattern where founders make consequential bets under incomplete data because they have context and room to absorb being wrong.
+- [AI Marketing Decisioning](concepts/AIMarketingDecisioning.md) — Use of machine learning or AI agents to choose customer-specific marketing actions, messages, and campaign improvements.
+- [Co-Founder Alignment Loop](concepts/CoFounderAlignmentLoop.md) — Process where equal founders iteratively test and refine an uncertain strategic direction until they share conviction.
 - [Contested Forensic Attribution](concepts/ContestedForensicAttribution.md) — Problem of assigning responsibility from old, incomplete, contaminated, hoax-prone, or damaged evidence.
 - [Victim Stigma In True Crime](concepts/VictimStigmaInTrueCrime.md) — Pattern where media or police labels collapse victims' lives into morally loaded shorthand and hide structural danger.
 - [Victorian Women Precarity](concepts/VictorianWomenPrecarity.md) — Social-history frame for how gender, poverty, marriage, housing, workhouses, and public-space risk narrowed women's choices.
