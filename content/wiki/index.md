@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [一人公司的另一种可能：AI 负责经营，人类负责热爱｜英文访谈 S10E14](sources/yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7.md) — What's Next interview with Sahil Lavingia on Gumroad, AI-era OPC, minimalist entrepreneurship, support automation, sales/story, AI as operator, and public-service digitalization.
 - [存储三巨头破万亿市值，存储超级周期何时能见顶？｜ S10E13](sources/cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1.md) — What's Next episode on AI-driven HBM/DRAM/NAND demand, memory hierarchy, storage cyclicality, capacity lock-ins, and agent-era NAND storage.
 - [49.李乌鸦来了！聊聊我们为啥爱阅读](sources/49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098.md) — 蜜獾吃书 first-anniversary episode with 李乌鸦 on reading shame, classics, family reading ecology, literary texture, and fiction as life experience.
 - [48.开市大吉：第一流的幽默讽刺](sources/48-kaishi-daji-diyiliu-de-youmo-fengci-627375908.md) — 蜜獾吃书 episode on Lao She, 《开市大吉》, humorous satire, theater etiquette, medical fraud, birth ritual conflict, and renqing workplace order.
@@ -332,6 +333,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Sahil Lavingia](entities/SahilLavingia.md) — Gumroad founder used to ground AI-era OPC in sales, support, trust, automation, and public-service software tradeoffs.
+- [Gumroad](entities/Gumroad.md) — Creator-commerce company case for a VC-to-minimalist transition, small-team automation, AI support, and creator-tool go-to-market.
+- [Patreon](entities/Patreon.md) — Creator-platform counterpoint to Gumroad where sales, story, audience fit, and supporter models matter alongside software.
+- [Internal Revenue Service](entities/InternalRevenueService.md) — U.S. tax agency used in the episode to frame public-service digitalization and government service constraints.
+- [Department of Government Efficiency](entities/DepartmentOfGovernmentEfficiency.md) — Government-efficiency context in the Sahil Lavingia interview, linked to IRS public-service software work.
 - [老舍 / Lao She](entities/LaoShe.md) — Chinese writer presented by 蜜獾吃书 as a humane satirist of etiquette failure, medical scams, family power, workplace renqing, and self-deception.
 - [《开市大吉》](entities/KaiShiDaJi.md) — Lao She short-story selection and title story used to discuss public-interest rhetoric, fake hospital authority, status display, and medical scam packaging.
 - [《话剧观众须知二十则》](entities/HuajuGuanzhongXuzhiErshize.md) — Lao She piece used by the episode to connect theater manners with civic audience etiquette.
@@ -2034,6 +2040,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Minimalist Entrepreneurship](concepts/MinimalistEntrepreneurship.md) — Small-company method of manual validation, customer pull, and automation after learning what people will pay for.
+- [AI As Business Operator](concepts/AIAsBusinessOperator.md) — Idea that AI can handle more payroll, finance, legal, supply-chain, support, and growth operations while humans keep craft and ownership.
+- [Public Service Digitalization](concepts/PublicServiceDigitalization.md) — Government-software problem of replacing forms, queues, phone calls, and mail with accountable public services.
+- [Customer Support Automation](concepts/CustomerSupportAutomation.md) — AI-first support pattern with human escalation for complex, trust-sensitive, or policy-heavy cases.
 - [Lao She Satirical Humanism](concepts/LaoSheSatiricalHumanism.md) — Reading of Lao She's humor as comic social criticism that still preserves sympathy for limited, pressured, self-deceiving people.
 - [Civic Audience Etiquette](concepts/CivicAudienceEtiquette.md) — Shared-setting discipline around theater, film, concerts, and public cultural spaces where conduct must fit the tacit social contract.
 - [Medical Scam Packaging](concepts/MedicalScamPackaging.md) — Pattern where medical authority is staged through slogans, status signals, emotional service, and advertising rather than real care quality.

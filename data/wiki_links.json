@@ -227,6 +227,10 @@
     "title": "AI Application Layer Moat",
     "url": "/wiki/concepts/aiapplicationlayermoat/"
   },
+  "AIAsBusinessOperator": {
+    "title": "AI As Business Operator",
+    "url": "/wiki/concepts/aiasbusinessoperator/"
+  },
   "AIAsTimeCompression": {
     "title": "AI As Time Compression",
     "url": "/wiki/concepts/aiastimecompression/"
@@ -2927,6 +2931,10 @@
     "title": "Customer Pull",
     "url": "/wiki/concepts/customerpull/"
   },
+  "CustomerSupportAutomation": {
+    "title": "Customer Support Automation",
+    "url": "/wiki/concepts/customersupportautomation/"
+  },
   "CyberAvatars": {
     "title": "Cyber Avatars",
     "url": "/wiki/concepts/cyberavatars/"
@@ -3242,6 +3250,10 @@
   "DemocraticTransitionElection": {
     "title": "Democratic Transition Election",
     "url": "/wiki/concepts/democratictransitionelection/"
+  },
+  "DepartmentOfGovernmentEfficiency": {
+    "title": "Department of Government Efficiency",
+    "url": "/wiki/entities/departmentofgovernmentefficiency/"
   },
   "DepressionDrivenInnovation": {
     "title": "Depression Driven Innovation",
@@ -4979,6 +4991,10 @@
     "title": "Guming / 古茗",
     "url": "/wiki/entities/guming/"
   },
+  "Gumroad": {
+    "title": "Gumroad",
+    "url": "/wiki/entities/gumroad/"
+  },
   "GustavoPetro": {
     "title": "Gustavo Petro",
     "url": "/wiki/entities/gustavopetro/"
@@ -5602,6 +5618,10 @@
   "IntermittentReinforcement": {
     "title": "Intermittent Reinforcement",
     "url": "/wiki/concepts/intermittentreinforcement/"
+  },
+  "InternalRevenueService": {
+    "title": "Internal Revenue Service",
+    "url": "/wiki/entities/internalrevenueservice/"
   },
   "InternalToolProductization": {
     "title": "Internal Tool Productization",
@@ -7371,6 +7391,10 @@
     "title": "MiniMax M3",
     "url": "/wiki/entities/minimaxm3/"
   },
+  "MinimalistEntrepreneurship": {
+    "title": "Minimalist Entrepreneurship",
+    "url": "/wiki/concepts/minimalistentrepreneurship/"
+  },
   "MinistryOfIntelligenceAndSecurity": {
     "title": "Ministry of Intelligence and Security",
     "url": "/wiki/entities/ministryofintelligenceandsecurity/"
@@ -8215,6 +8239,10 @@
     "title": "Patient AI Use",
     "url": "/wiki/concepts/patientaiuse/"
   },
+  "Patreon": {
+    "title": "Patreon",
+    "url": "/wiki/entities/patreon/"
+  },
   "PatrickCollison": {
     "title": "Patrick Collison",
     "url": "/wiki/entities/patrickcollison/"
@@ -8794,6 +8822,10 @@
   "PublicMediaFunding": {
     "title": "Public Media Funding",
     "url": "/wiki/concepts/publicmediafunding/"
+  },
+  "PublicServiceDigitalization": {
+    "title": "Public Service Digitalization",
+    "url": "/wiki/concepts/publicservicedigitalization/"
   },
   "PublicServiceJournalism": {
     "title": "Public Service Journalism",
@@ -9478,6 +9510,10 @@
   "SadiaPekkanen": {
     "title": "Sadia Pekkanen",
     "url": "/wiki/entities/sadiapekkanen/"
+  },
+  "SahilLavingia": {
+    "title": "Sahil Lavingia",
+    "url": "/wiki/entities/sahillavingia/"
   },
   "SahmRule": {
     "title": "Sahm Rule",
@@ -13342,6 +13378,10 @@
   "xiangliang-moxing-gongchengshi-ai-de-yincang-pingjing-yu-xinshidai-de-xinxi-migong-4b6cf945-d64a-4dd0-95a7-cb8f11963698": {
     "title": "Episode 17: 向量模型工程师：AI 的隐藏瓶颈与新时代的信息迷宫",
     "url": "/wiki/sources/xiangliang-moxing-gongchengshi-ai-de-yincang-pingjing-yu-xinshidai-de-xinxi-migong-4b6cf945-d64a-4dd0-95a7-cb8f11963698/"
+  },
+  "yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7": {
+    "title": "一人公司的另一种可能：AI 负责经营，人类负责热爱｜英文访谈 S10E14",
+    "url": "/wiki/sources/yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7/"
   },
   "yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f": {
     "title": "一个 AI 创始人的虚荣心、装，和愚昧之巅｜对谈 invoko.ai 创始人梦琪",

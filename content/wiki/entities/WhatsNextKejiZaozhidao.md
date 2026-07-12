@@ -2,11 +2,13 @@
 title: "What's Next｜科技早知道"
 type: entity
 tags: [podcast, media, ai]
-sources: [google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
+sources: [google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7]
 last_updated: 2026-07-12
 ---
 
 # What's Next｜科技早知道
+
+[[yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7]] adds the show's [[SahilLavingia]] and [[Gumroad]] branch. The episode treats [[OnePersonCompany]] as a small-company operating question rather than a literal solo endpoint: AI can reduce engineering, support, and operations workload, but [[CustomerPull]], [[FounderLedSales]], [[TrustAsBusinessAsset]], and [[HumanJudgmentUnderAI]] still decide whether a product becomes a business.
 
 [[google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6]] adds the show's Google Cloud Next branch. The episode connects [[Google]], [[GoogleCloud]], [[TPU]], [[Gemini]], and enterprise agents to the show's existing AI-work and AI-terminal discussions, with the main emphasis on [[FullStackAIPlatform]], [[EnterpriseAgentGovernance]], and [[CapabilityOverhang]].
 
@@ -23,6 +25,7 @@ What's Next｜科技早知道 is a podcast/show context for several ingested sou
 [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] adds the show's AI infrastructure and memory-market branch. The episode connects [[AIStorageSupercycle]], [[HighBandwidthMemory]], [[AIDataCenterMemoryHierarchy]], [[MemoryWall]], [[AgentEraNANDStorage]], and [[MemoryCapacityLockIn]] to the practical question of whether AI demand has changed the storage cycle.
 
 ## Connections
+- [[SahilLavingia]], [[Gumroad]], [[Patreon]], [[MinimalistEntrepreneurship]], [[CustomerSupportAutomation]], and [[AIAsBusinessOperator]] — S10E14's creator-company and tiny-team AI operating branch.
 - [[YuYi]] and [[CangShifu]] — guests in the S10E18 OPC discussion.
 - [[AmazonWebServices]] and [[FromIdeaToFrontier]] — event and accelerator context for the episode.
 - [[OnePersonCompany]], [[HumanAgentCollaboration]], and [[AIUsePacing]] — main concepts extended by the episode.

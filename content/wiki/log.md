@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-12] ingest | 一人公司的另一种可能：AI 负责经营，人类负责热爱｜英文访谈 S10E14
+
+Added source page for a What's Next｜科技早知道 interview with Sahil Lavingia on Gumroad, AI-era one-person companies, minimalist entrepreneurship, sales/story as scarce creator-tool work, AI support escalation, AI as a possible business operator, and IRS/public-service digitalization. Created pages for Sahil Lavingia, Gumroad, Patreon, Internal Revenue Service, Department of Government Efficiency, Minimalist Entrepreneurship, AI As Business Operator, Public Service Digitalization, and Customer Support Automation; updated overview, index, What's Next｜科技早知道, One-Person Company, AI Organization Design, Human Judgment Under AI, Customer Pull, Product Led Willingness To Pay, Trust As Business Asset, Founder-Led Sales, Creator-Owned Audience, and Public Interest AI. No direct contradiction found; the source reinforces earlier OPC warnings that AI lowers build cost but not sales, trust, compliance, support, or customer judgment, while adding Gumroad's concrete boundary that the practical endpoint may be a tiny team plus AI rather than one person alone.
+
 ## [2026-07-12] ingest | Why Bitcoin falls short as a safe haven in geopolitical turmoil
 
 Added source page for a Marketplace Tech episode with Stephanie Hughes and Gil Luria of D.A. Davidson on Bitcoin's safe-haven behavior during geopolitical turmoil, contrasting gold's immediate rise after U.S.-Iran escalation with Bitcoin's weaker response. Created pages for Gil Luria, D.A. Davidson, Digital Gold, Bitcoin Safe-Haven Behavior, and Cross-Border Crypto Capital Flight; updated overview, index, Marketplace Tech, Stephanie Hughes, Bitcoin, Iran, United States, China, Cryptocurrency Market Structure, Gold Monetary Anchor, Capital Account Investment Restrictions, and Virtual Asset AML Risk. No direct contradiction found; the source qualifies the digital-gold narrative by separating Bitcoin's weak immediate safe-haven behavior from its longer-run appeal as an inflation hedge, liquid alternative asset, and portable cross-border wealth-transfer tool.
@@ -2639,6 +2643,10 @@ Added source page for the 蜜獾吃书 first-anniversary episode with 李乌鸦 
 ## [2026-07-12] ingest | 存储三巨头破万亿市值，存储超级周期何时能见顶？｜ S10E13
 
 Added source page for the What's Next｜科技早知道 episode on AI-driven storage demand, HBM/DRAM/NAND shortages, data-center memory hierarchy, memory-wall bottlenecks, storage cyclicality, long-term capacity lock-ins, Nvidia/Google/Cerebras architecture routes, and NAND's agent-era role. Created pages for SanDisk, Cerebras, ChangXin Memory, Yangtze Memory Technologies, AI Data Center Memory Hierarchy, Memory Wall, AI Storage Supercycle, Storage Industry Cyclicality, Memory Capacity Lock-In, Agent-Era NAND Storage, High Bandwidth Flash, and CXL Memory Pooling; updated overview, index, What's Next｜科技早知道, High Bandwidth Memory, Memory Chip Shortage, AI Hardware Supply Chain Pressure, SK Hynix, Samsung, Micron Technology, Nvidia, Google, TSMC, Huawei, Xiaomi, Alibaba, Apple, Jensen Huang, AI Inference Cost Structure, Jevons Paradox In AI, AI Compute Continuity, Strategic AI Infrastructure Dependence, and Semiconductor 3D Stacking. No direct contradiction found; the source reinforces the AI hardware supply-chain branch while cautioning that AI weakens memory cyclicality rather than ending it.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-12] lint | Wiki health check
 
