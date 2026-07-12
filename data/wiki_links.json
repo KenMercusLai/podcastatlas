@@ -299,6 +299,10 @@
     "title": "AI Cold War",
     "url": "/wiki/concepts/aicoldwar/"
   },
+  "AICollectiveAlignment": {
+    "title": "AI Collective Alignment",
+    "url": "/wiki/concepts/aicollectivealignment/"
+  },
   "AICollegeSearch": {
     "title": "AI College Search",
     "url": "/wiki/concepts/aicollegesearch/"
@@ -2799,6 +2803,10 @@
     "title": "Conveyor Belt Sushi",
     "url": "/wiki/concepts/conveyorbeltsushi/"
   },
+  "ConwaysLawOrganizationalDesign": {
+    "title": "Conway's Law Organizational Design",
+    "url": "/wiki/concepts/conwayslaworganizationaldesign/"
+  },
   "CoolingAsPublicHealth": {
     "title": "Cooling As Public Health",
     "url": "/wiki/concepts/coolingaspublichealth/"
@@ -3174,6 +3182,10 @@
   "DaveReibstein": {
     "title": "Dave Reibstein",
     "url": "/wiki/entities/davereibstein/"
+  },
+  "DavidBlumen": {
+    "title": "David Blumen",
+    "url": "/wiki/entities/davidblumen/"
   },
   "DavidCameron": {
     "title": "David Cameron",
@@ -4402,6 +4414,10 @@
   "FounderCashFlowConstraint": {
     "title": "Founder Cash Flow Constraint",
     "url": "/wiki/concepts/foundercashflowconstraint/"
+  },
+  "FounderContextPropagation": {
+    "title": "Founder Context Propagation",
+    "url": "/wiki/concepts/foundercontextpropagation/"
   },
   "FounderControl": {
     "title": "Founder Control",
@@ -6542,6 +6558,10 @@
   "LearnClaudeCode": {
     "title": "Learn Claude Code",
     "url": "/wiki/entities/learnclaudecode/"
+  },
+  "LearningEnvironmentCenteredAITraining": {
+    "title": "Learning Environment Centered AI Training",
+    "url": "/wiki/concepts/learningenvironmentcenteredaitraining/"
   },
   "LearningExperienceDesign": {
     "title": "Learning Experience Design",
@@ -10183,6 +10203,10 @@
     "title": "Sodium-Ion Battery Storage",
     "url": "/wiki/concepts/sodiumionbatterystorage/"
   },
+  "Softmax": {
+    "title": "Softmax",
+    "url": "/wiki/entities/softmax/"
+  },
   "SoftwareDeveloperHiringPullback": {
     "title": "Software Developer Hiring Pullback",
     "url": "/wiki/concepts/softwaredeveloperhiringpullback/"
@@ -13450,6 +13474,10 @@
   "tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly": {
     "title": "Founder Mode: Christina Cacioppo, Founder & CEO, Vanta",
     "url": "/wiki/sources/tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly/"
+  },
+  "tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly": {
+    "title": "Founder Mode: Emmett Shear, Founder, Softmax & Twitch",
+    "url": "/wiki/sources/tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly/"
   },
   "tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final": {
     "title": "Founder Mode: Garry Tan, President & CEO, Y Combinator",

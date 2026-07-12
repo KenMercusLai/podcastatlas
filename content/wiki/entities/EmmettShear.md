@@ -2,7 +2,7 @@
 title: "Emmett Shear"
 type: entity
 tags: [person, startups, y-combinator, video]
-sources: [tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s2-wrapup-v1, socialradarspod-emmettshear-v2]
+sources: [tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s2-wrapup-v1, socialradarspod-emmettshear-v2]
 last_updated: 2026-07-12
 ---
 
@@ -18,9 +18,12 @@ The source also makes Shear a YC operator case. [[MichaelSeibel]] recruited him 
 
 [[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] adds the reason for that OpenAI spotlight more directly. In [[SamAltman]]'s account of the [[OpenAIBoardCrisis]], the board appointed Shear after Altman thought he was likely to return, which led Altman to announce a [[Microsoft]] AI research project before employee pressure pushed the company toward his return.
 
+[[tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly]] adds Shear's later [[Softmax]] and [[FounderMode]] account. He says the short [[OpenAI]] CEO experience pushed him toward AI alignment, then frames Softmax around whether agents can understand themselves, understand other agents, and recognize a shared "we." The same source turns his [[Twitch]] scaling lesson into [[FounderContextPropagation]]: as the company grew, Shear moved from direct work to repeating context, holding the full company model, and reshaping information flows through [[ConwaysLawOrganizationalDesign|Conway's Law]].
+
 ## Connections
-- [[Kiko]], [[JustinTV|Justin.tv]], and [[Twitch]] - company path in the source.
+- [[Kiko]], [[JustinTV|Justin.tv]], [[Twitch]], and [[Softmax]] - company path across the sources.
 - [[JustinKan]], [[MichaelSeibel]], and [[KyleVogt]] - cofounder and early-team context.
-- [[YCombinator]], [[PaulGraham]], [[JessicaLivingston]], [[CarolynLevy]], and [[OpenAI]] - accelerator, interview, and later timing context.
+- [[AdamGoldstein]], [[DavidBlumen]], [[YCombinator]], [[PaulGraham]], [[JessicaLivingston]], [[CarolynLevy]], and [[OpenAI]] - co-founder, accelerator, interview, and later timing context.
 - [[StartupRunwayDiscipline]], [[InvestorRiskNarrative]], [[FounderCashFlowConstraint]], and [[FounderProductFit]] - concepts tied to his episode.
 - [[OpenAIBoardCrisis]], [[SamAltman]], and [[Microsoft]] - interim-CEO crisis context added by the Sam Altman episode.
+- [[AICollectiveAlignment]], [[LearningEnvironmentCenteredAITraining]], [[FounderMode]], [[FounderContextPropagation]], and [[ConwaysLawOrganizationalDesign]] - Softmax and founder-mode concepts added by the YC offsite episode.

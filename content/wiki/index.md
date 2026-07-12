@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Founder Mode: Emmett Shear, Founder, Softmax & Twitch](sources/tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly.md) — The Social Radars YC offsite episode with Emmett Shear on Softmax, AI collective alignment, learning environments, Twitch founder-mode context transfer, Conway's Law, delegation boundaries, and people systems.
 - [Founder Mode: Christina Cacioppo, Founder & CEO, Vanta](sources/tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly.md) — The Social Radars YC offsite episode with Christina Cacioppo on Vanta, founder mode as permission, delayed Series A fundraising, selective delegation, founder intuition, early engineer-management regret, and expanding beyond SOC 2.
 - [Founder Mode: Kashish Gupta, Founder and co-CEO of Hightouch](sources/tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly.md) — The Social Radars YC offsite episode with Kashish Gupta on Hightouch, enterprise data activation, customer evidence, enterprise-first go-to-market, AI marketing decisioning, founder risk-taking, and co-founder alignment.
 - [50.开膛手杰克结案报告：女法医的争议之作](sources/50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604.md) — 蜜獾吃书 episode on Patricia Cornwell's contested Sickert theory, Jack the Ripper, Whitechapel victims, Victorian women, forensic limits, and early criminal-investigation practice.
@@ -337,6 +338,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Softmax](entities/Softmax.md) — Emmett Shear's AI company focused on measuring and training whether agents can recognize collective belonging and act as part of a shared "we."
+- [David Blumen](entities/DavidBlumen.md) — Softmax co-founder whose architecture proposal marks the point where Emmett Shear says the company's alignment direction became clearer.
 - [Kashish Gupta](entities/KashishGupta.md) — Hightouch founder and co-CEO whose YC offsite episode links enterprise data activation, customer evidence, founder risk-taking, and AI marketing products.
 - [Hightouch](entities/Hightouch.md) — Enterprise data and AI platform for marketers that activates governed customer data from systems such as Snowflake and Databricks without storing it itself.
 - [Snowflake](entities/Snowflake.md) — Enterprise data platform used in the Hightouch episode as a customer-data foundation for warehouse-native marketing activation.
@@ -704,7 +707,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mamoon Hamid](entities/MamoonHamid.md) — Kleiner Perkins investor who led Rippling's Series A in Conrad's account.
 - [Kleiner Perkins](entities/KleinerPerkins.md) — Venture firm tied to Rippling's Series A and Google's 1999 round, where its AOL relationship made it strategically useful.
 - [Simply Insured](entities/SimplyInsured.md) — YC batch competitor to Zenefits used in the episode to show how launch timing shaped category narrative.
-- [Emmett Shear](entities/EmmettShear.md) — Twitch co-founder whose episode links YC's first batch, Kiko, Justin.tv, runway discipline, Twitch fundraising, Amazon acquisition, returning to YC, and later OpenAI-timing context.
+- [Emmett Shear](entities/EmmettShear.md) — Twitch co-founder whose sources link YC's first batch, Kiko, Justin.tv, Twitch, Amazon, OpenAI timing, Softmax, AI collective alignment, and founder-mode context propagation.
 - [Kiko](entities/Kiko.md) — First-batch YC browser calendar startup whose failure, eBay sale, and Tucows acquisition created founder learning and cash optionality.
 - [Twitch](entities/Twitch.md) — Live-streaming company that emerged from Justin.tv, showing gaming/community pull, paying-user expansion, hard fundraising, and Amazon acquisition fit.
 - [Justin Kan](entities/JustinKan.md) — Kiko and Justin.tv cofounder whose lifecasting role made the original 24/7 live-video idea possible.
@@ -754,7 +757,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexis Ohanian](entities/AlexisOhanian.md) — Reddit co-founder whose pairing with Steve Huffman illustrates founder compatibility before the first product idea was validated.
 - [Aaron Swartz](entities/AaronSwartz.md) — Infogami founder who joined Reddit through a merger, creating early-team strain that Huffman later frames as an unresolved relationship.
 - [Hipmunk](entities/Hipmunk.md) — Steve Huffman and Adam Goldstein's travel startup, used as the second-company context that made Huffman's 2015 return to Reddit costly.
-- [Adam Goldstein](entities/AdamGoldstein.md) — Hipmunk co-founder whose M&A process and promise from Huffman make the Reddit return a founder-responsibility conflict.
+- [Adam Goldstein](entities/AdamGoldstein.md) — Hipmunk co-founder from the Reddit-return branch and source-named Softmax starter with Emmett Shear in the YC offsite episode.
 - [Conde Nast](entities/CondeNast.md) — Media company that acquired Reddit, creating stability but also startup hiring and incentive constraints.
 - [Infogami](entities/Infogami.md) — YC company associated with Aaron Swartz that merged with Reddit before Reddit's traction pulled attention away from the broader merged vision.
 - [Digg](entities/Digg.md) — Earlier and larger Reddit competitor that Huffman says gave Reddit lessons by absorbing platform heat first.
@@ -2065,6 +2068,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Collective Alignment](concepts/AICollectiveAlignment.md) — Emmett Shear's alignment frame where an agent understands itself, understands other agents, and recognizes when it belongs to a shared "we."
+- [Learning Environment Centered AI Training](concepts/LearningEnvironmentCenteredAITraining.md) — Softmax training frame that emphasizes environments, peer experiences, simulations, and feedback over architecture-only alignment.
+- [Founder Context Propagation](concepts/FounderContextPropagation.md) — Founder-mode pattern where a founder transfers company context through repetition, communication systems, examples, and shared mental models.
+- [Conway's Law Organizational Design](concepts/ConwaysLawOrganizationalDesign.md) — Product and organization-design principle where team boundaries and information flows shape product structure.
 - [Enterprise Data Activation](concepts/EnterpriseDataActivation.md) — Turning governed enterprise customer data into usable sales, advertising, lifecycle marketing, and customer-communication workflows.
 - [Customer Evidence Strategy](concepts/CustomerEvidenceStrategy.md) — Startup strategy discipline of grounding product and company direction in customer statements, workflows, buying behavior, and direct market contact.
 - [Enterprise-First Product Fit](concepts/EnterpriseFirstProductFit.md) — Case where architecture, customer pain, and value proposition fit large organizations before they fit small businesses.

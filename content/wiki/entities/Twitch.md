@@ -2,7 +2,7 @@
 title: "Twitch"
 type: entity
 tags: [company, startups, video, streaming, gaming]
-sources: [tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, socialradarspod-emmettshear-v2]
+sources: [tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, socialradarspod-emmettshear-v2]
 last_updated: 2026-07-11
 ---
 
@@ -16,7 +16,9 @@ The episode presents Twitch as a fundraising and operating-discipline case. Emme
 
 [[tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final]] adds [[KyleVogt]]'s view of the pivot. The Justin.tv founders debated mobile, gaming, and the existing product, while [[MichaelSeibel]] led Socialcam, [[EmmettShear]] led Twitch, and Vogt supported engineering across projects. Vogt says gaming had organic growth and fewer copyright problems, and that Shear called users directly to turn feature requests into a roadmap.
 
+[[tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly]] adds Twitch as a scaled [[FounderMode]] case. Shear says early Twitch leadership meant direct customer and product work, but later shifted toward weekly keynotes, repeated mental models, and company-wide [[FounderContextPropagation]] so employees could make decisions with the founder's context and their own local information. The same source connects Twitch organization design to [[ConwaysLawOrganizationalDesign|Conway's Law]]: product coherence depends on the information flows and team boundaries around the work.
+
 ## Connections
 - [[EmmettShear]], [[JustinKan]], [[MichaelSeibel]], and [[KyleVogt]] - founder and early-team context.
 - [[JustinTV|Justin.tv]], [[Amazon]], and [[BessemerVenturePartners]] - predecessor, acquirer, and investor context.
-- [[StartupRunwayDiscipline]], [[InvestorRiskNarrative]], [[CustomerPull]], [[ProductLedWillingnessToPay]], [[PostAcquisitionFounderIdentity]], and [[FounderProductFit]] - concepts connected to the sources.
+- [[StartupRunwayDiscipline]], [[InvestorRiskNarrative]], [[CustomerPull]], [[ProductLedWillingnessToPay]], [[PostAcquisitionFounderIdentity]], [[FounderProductFit]], [[FounderMode]], [[FounderContextPropagation]], and [[ConwaysLawOrganizationalDesign]] - concepts connected to the sources.

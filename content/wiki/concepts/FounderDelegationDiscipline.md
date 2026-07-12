@@ -2,7 +2,7 @@
 title: "Founder Delegation Discipline"
 type: concept
 tags: [startup, leadership, operations]
-sources: [tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final]
+sources: [tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final]
 last_updated: 2026-07-12
 ---
 
@@ -16,6 +16,8 @@ The surprising part of the source is that fewer hours did not mean lower leverag
 
 [[tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly]] adds [[ChristinaCacioppo]]'s regret-based delegation rule through [[Vanta]]. She says some delegated failures are tolerable, while others are failures the founder will deeply regret. Her example is losing a strong early engineer after a manager was placed above him even though she sensed the change would not work. The source makes delegation discipline less about delegating more or less in general and more about choosing which decisions carry founder-level regret.
 
+[[tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly]] adds [[EmmettShear]]'s context-based version. Shear says the mistake is not hiring experts or delegating to them; it is suppressing founder concerns when the founder is the person holding broader company context. His boundary is consequence: some decisions can be learning exercises, while others need to be right because the cost of a wrong call is too high.
+
 ## Key Claims
 - A founder can hurt execution by repeatedly adding new fires, even when each intervention feels individually useful.
 - Delegation requires making ownership real enough that the team can decide without waiting for founder approval.
@@ -24,10 +26,13 @@ The surprising part of the source is that fewer hours did not mean lower leverag
 - A technical founder can also bottleneck the company by doing all the important work and leaving teammates with only low-risk tasks.
 - Founder mode requires delegation discipline because direct founder attention should raise standards, not prevent others from owning meaningful work.
 - Delegation decisions should be triaged by regret: some failures teach the team, while others can permanently damage talent, trust, or company direction.
+- Delegation also needs context triage: experts can own local work, but the founder may need to intervene when broader company context changes the decision.
+- A founder should distinguish decisions that can teach from decisions whose failure would damage the company too much.
 
 ## Connections
 - [[DavidRusenko]], [[Weebly]], [[Square]], and [[SquareOnline]] - source case.
 - [[GarryTan]] and [[Posterous]] - source case for the cost of not delegating.
 - [[ChristinaCacioppo]] and [[Vanta]] - source case for selective founder involvement when delegation threatens high-regret outcomes.
+- [[EmmettShear]], [[Twitch]], [[FounderContextPropagation]], and [[ConwaysLawOrganizationalDesign]] - source case for delegation constrained by company-wide context and information flow.
 - [[FounderMode]], [[FounderLedFunctionalOrganization]], [[SecondTimeFounderOperatingJudgment]], [[StageAppropriateHiring]], and [[StartupGovernance]] - adjacent operating concepts.
 - [[OrganizationalContext]] - information and responsibility distribution inside a company.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-12] ingest | Founder Mode: Emmett Shear, Founder, Softmax & Twitch
+
+Added source page for The Social Radars YC offsite episode with Emmett Shear on Softmax, AI alignment as recognizing a shared "we," learning environments, simulations and reinforcement-learning benchmarks, Twitch founder-mode context transfer, Conway's Law, delegation boundaries, and people systems. Created pages for Softmax, David Blumen, AI Collective Alignment, Learning Environment Centered AI Training, Founder Context Propagation, and Conway's Law Organizational Design; updated overview, index, Emmett Shear, Twitch, Adam Goldstein, Y Combinator, The Social Radars, Founder Mode, Founder Delegation Discipline, AI Alignment Governance, Agent RL, and AI Organization Design. No direct contradiction found; the source extends the earlier Emmett Shear startup-history page from Kiko/Justin.tv/Twitch into a later Softmax and founder-mode account, while qualifying founder mode as context propagation and organization design rather than simple founder control.
+
 ## [2026-07-12] ingest | 一人公司的另一种可能：AI 负责经营，人类负责热爱｜英文访谈 S10E14
 
 Added source page for a What's Next｜科技早知道 interview with Sahil Lavingia on Gumroad, AI-era one-person companies, minimalist entrepreneurship, sales/story as scarce creator-tool work, AI support escalation, AI as a possible business operator, and IRS/public-service digitalization. Created pages for Sahil Lavingia, Gumroad, Patreon, Internal Revenue Service, Department of Government Efficiency, Minimalist Entrepreneurship, AI As Business Operator, Public Service Digitalization, and Customer Support Automation; updated overview, index, What's Next｜科技早知道, One-Person Company, AI Organization Design, Human Judgment Under AI, Customer Pull, Product Led Willingness To Pay, Trust As Business Asset, Founder-Led Sales, Creator-Owned Audience, and Public Interest AI. No direct contradiction found; the source reinforces earlier OPC warnings that AI lowers build cost but not sales, trust, compliance, support, or customer judgment, while adding Gumroad's concrete boundary that the practical endpoint may be a tiny team plus AI rather than one person alone.
@@ -2675,6 +2679,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] ingest | Founder Mode: Kashish Gupta, Founder and co-CEO of Hightouch
 
 Added source page for The Social Radars YC offsite episode on Kashish Gupta, Hightouch, enterprise data activation, customer evidence, enterprise-first product fit, AI marketing decisioning, founder risk-taking, and co-founder alignment. Created pages for Kashish Gupta, Hightouch, Snowflake, Databricks, David Clements, Enterprise Data Activation, Customer Evidence Strategy, Enterprise-First Product Fit, Founder Risk Taking, AI Marketing Decisioning, and Co-Founder Alignment Loop; updated overview, index, The Social Radars, Y Combinator, Founder Mode, Founder Risk Calibration, Founder-Led Sales, Segment, Spotify, and Automated Performance Marketing. No direct contradiction found; the source qualifies generic small-customer startup advice by showing an enterprise SaaS case where customer architecture and direct market context pointed toward large customers before metrics fully caught up.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-12] lint | Wiki health check
 
