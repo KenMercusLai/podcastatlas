@@ -631,6 +631,7 @@ Added source page for a Keji Luandun episode on Huawei's Tau Law, 3D chip stacki
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 ## [2026-07-07] ingest | Vol. 162 科技快乐星球44: 新模型“SOTA们”齐贺新春
 
 Added source page for a Fengyan Fengyu AI-news roundup on Xcode Agentic Coding, Codex/Claude Code/Gemini workflow fit, domestic SOTA model releases, Seedance-style video generation, ChatGPT subscription/advertising, OpenAI voice/hardware, local translation models, agentic shopping/payment, cloud-chip binding, data-center power, space compute, robotics, and AI-for-science news. Created supporting pages for Xcode, Model Workflow Fit, and Agentic Commerce; updated overview, index, Fengyan Fengyu, Justin Yan, Zili, Codex, Claude Code, Gemini, Apple, Google, OpenAI, Anthropic, Amazon, ByteDance, Model Routing Cost Control, AI Inference Cost Structure, AI Coding Verification, AI Product Fragmentation, AI Subscription Economics, Agent Permission Boundaries, MaaS Infrastructure, Video Models, World Models, AI Interactive Entertainment, and AI Plus Terminals.
@@ -2195,6 +2196,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-12] ingest | 日谈串台｜姐妹聊天会：重启人生也是我最妖娇
+
+Added source page for the 蜜獾吃书 and 日谈 Women's Day crossover with Hookie, 殷姐, and 秦总 on 《重启人生》, life restarts, career redirection, pet grief, mother-daughter repair, learning capacity, and female self-possession. Created pages for 蜜獾吃书, 日谈, Hookie, 殷姐, 秦总, 重启人生 / Brush Up Life, Life Restart Thought Experiment, Regret Integration, Pet Grief And Care, Mother-Daughter Reconciliation, and Female Self-Possession; updated overview, index, Learning How To Learn, Career Self-Rescue, Life Antifragility, No Better Life, and Impermanence And No-Self. No direct contradiction found; the source qualifies restart fantasies by showing that many regrets ask for understanding, presence, or integration rather than a different life.
+
 ## [2026-07-12] ingest | The ethics of using AI to immortalize the dead
 
 Added source page for the Marketplace Tech episode with Stephanie Hughes and Tomas Holoneck on AI grief bots, post-mortem avatars, consent after death, privacy, psychological effects on survivors, digital memorialization, and public-interest governance. Created pages for Tomas Holoneck, University of Cambridge, Google Inactive Account Manager, AI Grief Bots, Post-Mortem AI Consent, and Digital Memorialization; updated overview, index, Marketplace Tech, Stephanie Hughes, ChatGPT, Digital Preservation, Persistent Agent Memory, and Human Connection Under AI. No direct contradiction found; the source extends digital preservation from storage stewardship into consent-aware interactive memorialization and qualifies persistent memory by showing that memory used after death needs stronger consent, dignity, and deletion boundaries.
@@ -2538,6 +2543,26 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] ingest | Bytes: Week in Review - Meta, YouTube's social media addiction case, a new AI literacy course, and Kalshi's prediction market self-regulation
 
 Added source page for the Marketplace Tech Bytes episode with Stephanie Hughes and Maria Curi of Axios on a Los Angeles negligence verdict against Meta and YouTube, the U.S. Department of Labor's text-message AI literacy course, and Kalshi's new guardrails for political and sports-linked prediction markets. Created pages for Axios, U.S. Department of Labor, Snapchat, Social Media Product Liability, AI Worker Literacy, and Prediction Market Self-Regulation; updated overview, index, Marketplace Tech, Stephanie Hughes, Maria Curi, Meta, YouTube, TikTok, Kalshi, Commodity Futures Trading Commission, AI Literacy Against Worship, AI Backlash Politics, Prediction Market Integrity Oversight, Prediction Market Ethics, and Event Contract Manipulation Risk. No direct contradiction found; the source qualifies platform and government reassurance by showing that parental controls, short AI courses, and voluntary market guardrails do not fully answer design liability, job displacement, or insider-information risk.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Christina Cacioppo on Vanta, Coding, and Compliance Automation
+
+Added source page for The Social Radars episode with Christina Cacioppo on Union Square Ventures, learning to code, Dropbox Paper's SOC 2 compliance bottleneck, Vanta's spreadsheet gap assessment, YC Winter 2018, founder-led sales, $10,000 early contracts, and annual upfront SaaS cash flow. Created pages for Christina Cacioppo, Vanta, Union Square Ventures, Fred Wilson, Hackpad, Dropbox Paper, Segment, Front, SOC 2 Audit, Manual Compliance MVP, and Annual Upfront SaaS Cash Flow; updated overview, index, The Social Radars, Y Combinator, Dropbox, Stanford University, Compliance Automation, SaaS Trust Moat, Customer Discovery By Doing Work, Pre-Product Selling, Fast Product Validation, Founder-Led Sales, Product Led Willingness To Pay, Founder Cash Flow Constraint, and Self-Directed Work. No direct contradiction found; the source reinforces compliance automation while adding a founder-learning and manual-service path to trust software.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] graph | Knowledge graph rebuilt
+
+3248 nodes, 33122 edges (33122 extracted, 0 inferred).
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-12] lint | Wiki health check
 

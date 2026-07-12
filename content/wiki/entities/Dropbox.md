@@ -2,7 +2,7 @@
 title: "Dropbox"
 type: entity
 tags: [company, startups, file-sync, productivity, enterprise-software]
-sources: [tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5]
+sources: [tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5]
 last_updated: 2026-07-12
 ---
 
@@ -12,6 +12,8 @@ Dropbox is the file-sync and productivity company founded by [[DrewHouston]] and
 
 The company is a positive counterpart to the wiki's existing [[EnterpriseFileSync]] and [[PeerToPeerSynchronizationRisk]] branch. Where [[AeroFS]] shows how enterprise file sync can overfit to a hard architecture, Dropbox shows [[SyncReliabilityAsUX]] as the user-facing version of the job: people wanted to trust that files were available, backed up, shared, and recoverable without understanding the synchronization machinery.
 
+[[tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio]] adds an internal product and compliance branch through [[ChristinaCacioppo]]. She joined the [[Hackpad]] team at Dropbox as it became [[DropboxPaper]], and the Paper launch ran into customer-contract security and compliance obligations. That experience helped turn [[SOC2Audit]] pain into the later [[Vanta]] thesis.
+
 Dropbox later became a strategy case. [[SteveJobs]] warned Houston that Dropbox did not control operating-system distribution, and launches from [[Apple]], [[Google]], and [[Microsoft]] created [[IncumbentPlatformPressure]]. Houston's response was to kill [[Carousel]], [[Mailbox]], and other side bets, shift toward productivity, clean up free-storage economics, and later build [[DropboxDash]] around [[KnowledgeWorkFragmentation]].
 
 ## Connections
@@ -20,3 +22,4 @@ Dropbox later became a strategy case. [[SteveJobs]] warned Houston that Dropbox 
 - [[SyncReliabilityAsUX]], [[BottomUpEnterpriseDistribution]], [[EnterpriseFileSync]], and [[TrustHeavyInfrastructureSales]] - product, distribution, and reliability concepts.
 - [[Apple]], [[SteveJobs]], [[GooglePhotos]], [[Carousel]], [[Mailbox]], and [[StrategicFocusUnderIncumbentPressure]] - competitive and strategic-focus context.
 - [[DropboxDash]] and [[KnowledgeWorkFragmentation]] - current mission and product context in the source.
+- [[ChristinaCacioppo]], [[Hackpad]], [[DropboxPaper]], [[Vanta]], and [[SOC2Audit]] - internal product and compliance-automation origin branch added by the Christina Cacioppo episode.

@@ -2,8 +2,8 @@
 title: "Customer Discovery By Doing Work"
 type: concept
 tags: [startup, customer-discovery, operations]
-sources: [tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-tonyxu-final]
-last_updated: 2026-07-11
+sources: [tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-tonyxu-final]
+last_updated: 2026-07-12
 ---
 
 # Customer Discovery By Doing Work
@@ -20,6 +20,8 @@ The pattern matters because it exposed a delivery problem that a survey could ea
 
 [[tsr-s3-yinwu-v2-tsr-s3-yinwu-v2]] adds [[Prim]] as another service-work case. [[YinWu]] personally picked up, washed, folded, and delivered laundry for the first three months, which exposed the operational reality behind a same-day laundry promise. The episode's twist is that doing the work helped Yin learn the market but also helped her see that she lacked long-term [[FounderUserObsession]] for laundry operations.
 
+[[tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio]] adds the compliance-software version through [[ChristinaCacioppo]] and [[Vanta]]. Christina stopped building unwanted products, talked to founders, and made a [[ManualComplianceMVP]] spreadsheet for [[Segment]] before adapting it for [[Front]]. The discovery work was not only interviews; it was doing enough SOC 2 gap-assessment labor to learn which parts of the workflow could become product.
+
 ## Key Claims
 - Doing work can earn trust before the founder has a product to pitch.
 - Operational participation reveals hidden constraints, vocabulary, and tradeoffs that customers may not articulate in a formal interview.
@@ -30,6 +32,7 @@ The pattern matters because it exposed a delivery problem that a survey could ea
 - Payment, pricing, and presentation work can be discovery surfaces because they show where a transaction still depends on founder intervention.
 - Doing the service personally can reveal quality-control requirements that interviews and marketplace dashboards would miss.
 - Doing the work can also reveal a founder-fit problem: direct operational learning may show that the founder does not want to build in that domain for years.
+- In B2B compliance, doing the work can expose repeated evidence, policy, and control patterns that customers share even when they believe their company is unique.
 
 ## Connections
 - [[TonyXu]], [[DoorDash]], [[PaloAltoDelivery]], and [[StanfordStartupGarage]] - source case.
@@ -40,3 +43,4 @@ The pattern matters because it exposed a delivery problem that a survey could ea
 - [[UnscalableFounderWork]] - second Chesky episode's explicit frame for manual work before scalable systems.
 - [[AdoraCheung]], [[Homejoy]], and [[ServiceMarketplaceQualityControl]] - home-services marketplace case added by the Adora Cheung episode.
 - [[YinWu]], [[Prim]], [[FounderProductFit]], and [[FounderUserObsession]] - laundry-service case added by the Yin Wu episode.
+- [[ChristinaCacioppo]], [[Vanta]], [[SOC2Audit]], [[Segment]], [[Front]], and [[ManualComplianceMVP]] - compliance gap-assessment case added by the Christina Cacioppo episode.

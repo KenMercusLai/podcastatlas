@@ -2,8 +2,8 @@
 title: "Impermanence And No-Self"
 type: concept
 tags: [philosophy, uncertainty, practice]
-sources: [e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls]
-last_updated: 2026-07-08
+sources: [e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425]
+last_updated: 2026-07-12
 ---
 
 # Impermanence And No-Self
@@ -12,15 +12,19 @@ Impermanence and no-self is the episode's bridge from markets to practice. In [[
 
 The source uses this frame to reinterpret effort. "因上努力，果上随缘" means working on causes while recognizing that outcomes are not fully controlled. It also connects to [[NoBetterLife]]: if the mind treats investing, relationships, practice, or freedom as tools for finally reaching a better state, the improvement project itself becomes another attachment.
 
+[[ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425]] adds a lighter everyday version through [[YinJie|殷姐]]'s reading of the Diamond Sutra: enjoy the people and moments that arrive, but do not bind the heart to their permanence. Her guesthouse example turns non-attachment into hospitality practice: welcome people fully, send them off when they leave, and keep living without requiring every connection to become permanent.
+
 ## Key Claims
 - Market uncertainty becomes a concrete case of impermanence rather than only a financial problem.
 - No-self is presented as the loosening of a controlling observer, not as denial that persons or events appear.
 - Effort belongs on the cause side; outcomes remain contingent.
 - Practice cannot be reduced to another KPI for making life better.
 - Seeing attachment often requires direct contact with disappointment, loss, or repeated failure of control.
+- Non-attachment can be practiced through hospitality, friendship, and daily departures, not only through formal philosophy or market uncertainty.
 
 ## Connections
 - [[XuZhe]] — main source voice for this frame.
 - [[Antifragility]] — financial uncertainty frame that leads into the practice discussion.
 - [[NoBetterLife]] — closing life-philosophy conclusion.
 - [[LifeAntifragility]] — practical life-design layer that remains grounded without claiming control over results.
+- [[YinJie|殷姐]], [[RegretIntegration]], and [[FemaleSelfPossession]] — everyday hospitality and self-consistency extension.
