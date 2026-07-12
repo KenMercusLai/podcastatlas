@@ -8,6 +8,90 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-12] ingest | Why Bitcoin falls short as a safe haven in geopolitical turmoil
+
+Added source page for a Marketplace Tech episode with Stephanie Hughes and Gil Luria of D.A. Davidson on Bitcoin's safe-haven behavior during geopolitical turmoil, contrasting gold's immediate rise after U.S.-Iran escalation with Bitcoin's weaker response. Created pages for Gil Luria, D.A. Davidson, Digital Gold, Bitcoin Safe-Haven Behavior, and Cross-Border Crypto Capital Flight; updated overview, index, Marketplace Tech, Stephanie Hughes, Bitcoin, Iran, United States, China, Cryptocurrency Market Structure, Gold Monetary Anchor, Capital Account Investment Restrictions, and Virtual Asset AML Risk. No direct contradiction found; the source qualifies the digital-gold narrative by separating Bitcoin's weak immediate safe-haven behavior from its longer-run appeal as an inflation hedge, liquid alternative asset, and portable cross-border wealth-transfer tool.
+
+## [2026-07-12] ingest | An Ohio newspaper gives AI a byline
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes and Willa Remus on the Plain Dealer's AI use in local journalism, including transcription, lead generation, letters-to-the-editor summaries, the AI rewrite desk, and the Advanced Local Express Desk label for mostly AI-written articles. Created pages for The Plain Dealer, Chris Quinn, Willa Remus, Washington Post, Advanced Local Express Desk, Newsroom AI Adoption, AI Rewrite Desk, AI-Written Journalism, AI Journalism Trust, and Local News Automation Tradeoff; updated overview, index, Marketplace Tech, Stephanie Hughes, Local Journalism, Public Service Journalism, Human Judgment Under AI, AI Content Devaluation, AI Content Provenance, Trust As Business Asset, Creative Labor AI Backlash, and AI Workflow Triage. No direct contradiction found; the source qualifies local-news automation as a survival strategy only when it expands useful coverage without eroding verification, authorship, staff craft, and reader trust.
+
+## [2026-07-12] ingest | What do Girl Scouts get out of selling cookies online?
+
+Added source page for a Marketplace Tech episode with Stephanie Hughes and Wendy Liu of Girl Scouts of the USA on digital cookie sales, online storefronts, QR codes, email outreach, social sharing, customer follow-up, faster checkout, caregiver supervision, local delivery approval, and seasonal scarcity. Created pages for Girl Scouts of the USA, Wendy Liu, Youth Entrepreneurship, Digital Commerce Literacy, and Child Online Commerce Safety; updated overview, index, Marketplace Tech, and Stephanie Hughes. No direct contradiction found; the source qualifies direct-to-consumer sales by showing a nonprofit youth program where digital commerce is treated as supervised learning rather than only conversion or margin capture.
+
+## [2026-07-12] ingest | California's one-stop shop for data brokers to delete consumers' data
+
+Added source page for a Marketplace Tech episode with Stephanie Hughes and Nicole Turner-Lee of the Brookings Institution on California's DROP platform, the California Delete Act, consumer data deletion, data-broker limits, AI-enabled spam, identity-theft risk, and the gap left by the absence of a national privacy standard. Created pages for Nicole Turner-Lee, Brookings Institution, California, Delete Request and Opt Out Platform, Consumer Data Deletion, California Delete Act, and AI-Enabled Spam; updated overview, index, Marketplace Tech, Stephanie Hughes, Data Broker Loophole, and Platform Data Regulation. No direct contradiction found; the source complements the March 2 government-data-access episode by shifting from warrant requirements and the data broker loophole to consumer-side deletion and state implementation limits.
+
+## [2026-07-12] ingest | Bytes: Week in Review - Prediction markets reel amid Iran conflict, defense contractors to drop Anthropic, and Meta's AI deal with News Corp
+
+Added source page for the Marketplace Tech Bytes episode with Stephanie Hughes and Paresh Dave of Wired on Kalshi and Polymarket prediction-market ethics, CFTC boundaries around harmful-event contracts, Anthropic as a defense AI supply-chain risk, possible contractor migration to Google/OpenAI/xAI's Grok, and Meta's reported News Corp AI content licensing deal. Created pages for Kalshi, News Corp, Wired, Commodity Futures Trading Commission, Prediction Market Ethics, AI Content Licensing, and Defense AI Supply Chain Risk; corrected the existing Paresh Dave entity filename and wikilinks; updated overview, index, Marketplace Tech, Stephanie Hughes, Paresh Dave, Polymarket, Ali Khamenei, Anthropic, Claude, US Department of Defense, Defense AI Procurement, Palantir, Frontier Model Use Policy Conflict, Frontier Model Access Restrictions, Pete Hegseth, Dario Amodei, AI Governance And Compliance, Meta, Wall Street Journal, Open Web Traffic Decline, AI Answer Source Attribution, Publisher Relationship Moat, OpenAI, Google, xAI, and Grok. No direct contradiction found; the source updates the February 27 Anthropic/Pentagon story from possible supply-chain designation to reported restriction while noting Anthropic still reportedly lacked written designation.
+
+## [2026-07-12] ingest | Brands are racing to show up in AI search
+
+Added source page for a Marketplace Tech episode with Stephanie Hughes and Erin Griffith of the New York Times on answer engine optimization, dense factual content for chatbot discovery, early AEO/GEO startup services, AI-generated marketing fluff, Reddit and review reputation risk, OpenAI paid placement plans, and answer-engine trust. Created pages for Erin Griffith and Answer Engine Optimization; updated overview, index, Marketplace Tech, Stephanie Hughes, New York Times, OpenAI, Google, Reddit, AI Discovery SEO, Generative Engine Optimization, AI Search Advertising, and AI Content Devaluation. No direct contradiction found; the source reinforces existing AI-search visibility pages while distinguishing AEO as answer-focused, fact-density-oriented, and tightly coupled to reputation and trust.
+
+## [2026-07-12] ingest | Can software companies survive the AI boom?
+
+Added source page for a Marketplace Tech episode with Stephanie Hughes and Daniel Newman on AI pressure against traditional SaaS, the difference between vibe-coded prototypes and enterprise systems, proprietary data behind firewalls, project-management software risk, AI-agent-heavy workplaces, consumption/action/outcome pricing, natural-language interfaces, and SaaS consolidation. Created pages for Daniel Newman, monday.com, and Asana; updated overview, index, Marketplace Tech, Stephanie Hughes, AI Native SaaS Threat, SaaS Trust Moat, Outcome-Based AI Pricing, AI Governance And Compliance, AI Assisted Software Development Risk, Digital Employees, and Enterprise Agent Governance. No direct contradiction found; the source qualifies AI-native SaaS disruption by showing that enterprise replacement depends on data, compliance, governance, APIs, security, and systems-of-record trust, not interface generation alone.
+
+## [2026-07-12] ingest | Fewer students are enrolling in computer science classes and majors
+
+Added source page for a Marketplace Tech episode with Stephanie Hughes and Carrie George of the Computing Research Association on declining U.S. computer and information science enrollment, uneven shifts across computing subfields, student reactions to AI and labor-market signals, international-student declines, and long-term research-pipeline risk. Created pages for Carrie George, Computing Research Association, National Student Clearinghouse Research Center, Computing Enrollment Decline, and Computing Research Pipeline; updated overview, index, Marketplace Tech, Stephanie Hughes, College Major Choice, AI Programming Engine Shift, Tech Hiring Stabilization, AI Labor Market Concentration, Software Developer Hiring Pullback, and Data Engineering Demand. No direct contradiction found; the source qualifies the weak tech-hiring branch by showing its effect on student demand, and qualifies college-major guidance by showing that AI-era uncertainty is shifting computing enrollment toward applied, specialized, and physical-systems-oriented programs rather than eliminating computing interest.
+
+## [2026-07-12] ingest | High-tech data centers get a powerful assist from a century-old company
+
+Added source page for a Marketplace Tech episode on Caterpillar's AI data-center generator demand, grid interconnection delays, onsite natural gas power, and the power-generation backlog affecting both data-center developers and traditional backup-power customers. Created pages for Caterpillar, Dan Ackerman, David Victor, and Data Center Onsite Power; updated overview, index, Marketplace Tech, UCSD, Alphabet, AI Energy Bottleneck, AI Compute Continuity, MaaS Infrastructure, Data Center Physical Resilience, and AI Metabolic Infrastructure. No direct contradiction found; the source qualifies earlier utility-regulation and energy-bottleneck pages by showing that onsite generation can route around slow grid connections while shifting constraints to generator supply, fuel, emissions, and operations.
+
+## [2026-07-12] ingest | Bytes: Week in Review - Alphabet takes on debt to pay for AI projects, the social network where humans aren't allowed, and Spotify reports record user growth
+
+Added source page for a Marketplace Tech Bytes episode with Stephanie Hughes and Jewel Burke Solomon of Collab Capital on Alphabet's long-term debt for AI infrastructure, MoteBook as an agent-only social platform, Wiz's reported security concerns, and Spotify's growth through Wrapped and AI playlist curation. Created pages for Jewel Burke Solomon, Collab Capital, MoteBook, Wiz, Spotify, Spotify Wrapped, AI Infrastructure Debt Financing, Personalization As Social Identity, and AI Prompted Playlist Curation; updated overview, index, Marketplace Tech, Stephanie Hughes, Alphabet, Google, Data Center Debt Risk, AI Compute Continuity, MaaS Infrastructure, AI Equity Valuation Risk, AI Social Networks, Agentic Economy, Agent Permission Boundaries, Agent Identity And Authentication, and AI Governance And Compliance. No direct contradiction found; the source qualifies earlier data-center debt risk by showing a stronger-credit Alphabet borrowing case, and qualifies AI social network concepts by separating agent-only social spaces from AI-mediated human matching.
+
+## [2026-07-12] ingest | Crypto's big growth on the books and in the shadows
+
+Added source page for a Marketplace Tech episode with Stephanie Hughes and Ari Redbord of TRM Labs on illicit crypto activity, stablecoin sanctions evasion, scam networks, and AI-enabled fraud. Created pages for Ari Redbord, TRM Labs, A7A5, Prince Group, North Korea, Islamic Revolutionary Guard Corps, Stablecoin Sanctions Evasion, Work-From-Home Scam, and AI-Enabled Scam Industrialization; updated overview, index, Marketplace Tech, Stephanie Hughes, Cryptocurrency Market Structure, Stablecoins, Virtual Asset AML Risk, Anti-Money Laundering, Pig Butchering Scam, Social Engineering Fraud, Fake Investment Platform Risk, AI Impersonation Fraud Risk, Investment Fraud Red Flags, U.S. Treasury, Russia, Iran, and Venezuela. No direct contradiction found; the source extends the wiki's crypto branch by separating lawful adoption from illicit exploitation and by adding stablecoin sanctions evasion plus AI-scaled scam operations.
+
+## [2026-07-12] ingest | Ron Conway on Google's Early History and SV Angel's Role
+
+Added source page for The Social Radars episode with Ron Conway on Google's early history, SV Angel's Stanford sourcing, PageRank and relevance, Larry Page and Sergey Brin, early angels, the Kleiner Perkins/Sequoia round, AOL/Yahoo distribution, AdWords monetization, Gmail politics, YouTube/Napster legal-risk contrast, and Susan Wojcicki. Created pages for Larry Page, Sergey Brin, David Cheriton, Rajiv Motwani, Jeff Ullman, Ram Shriram, Jeff Bezos, Andy Bechtolsheim, Bob Bozeman, John Doerr, Salar Kamangar, AdWords, AOL, Ask Jeeves, Cindy McCaffrey, Omid Kordestani, Eric Schmidt, Sheryl Sandberg, Susan Wojcicki, Napster, Sean Fanning, PageRank Search Relevance, Stanford Startup Sourcing, Venture Syndicate Orchestration, Distribution Before Monetization, Search Quality Operating Cadence, and Legal Risk Acquirer Fit; updated overview, index, Ron Conway, SV Angel, Google, The Social Radars, Stanford University, Sequoia Capital, Kleiner Perkins, Mike Moritz, Yahoo, Gmail, YouTube, Warren Buffett, Semantic Search Relevance, Founder Friendly Investor Support, Outlier-Driven Angel Investing, and Founder-Investor Learning. No direct contradiction found; the source complements existing Google and Gmail material with Conway's investor-network account and should be read as the SV Angel cut of early Google history.
+
+## [2026-07-12] ingest | Drew Houston on Dropbox: Origin, Survival, and Reinvention
+
+Added source page for The Social Radars episode with Drew Houston on Dropbox's origin, YC entry, Arash Ferdowsi, sync reliability, viral and bottom-up distribution, Sequoia funding, Apple/Google/Microsoft incumbent pressure, Carousel and Mailbox, productivity focus, founder psychology, dual-class public-company control, and Dropbox Dash. Created pages for Drew Houston, Dropbox, Arash Ferdowsi, Dropbox Dash, Pejman Nozad, Mike Moritz, Carousel, Mailbox, Sync Reliability As UX, Incumbent Platform Pressure, Bottom-Up Enterprise Distribution, Strategic Focus Under Incumbent Pressure, Knowledge Work Fragmentation, and Founder Psychology Operational Risk; updated overview, index, The Social Radars, Y Combinator, Paul Graham, Trevor Blackwell, Sequoia Capital, Apple, Steve Jobs, Google, Google Photos, Microsoft, Enterprise File Sync, Trust-Heavy Infrastructure Sales, Founder Product Fit, Founder Control, Founder Motivation Evolution, Founder Resilience, Startup Community Infrastructure, Platform Dependency Risk, and Product Vision Drift. No direct contradiction found; the source qualifies the AeroFS file-sync branch by showing Dropbox as the simple, reliable, user-trusted reference product that later had to survive platform-backed competition and strategic narrowing.
+
+## [2026-07-11] ingest | David Rusenko on Weebly, Capital Efficiency, and Climate Tech
+
+Added source page for The Social Radars episode with David Rusenko on Weebly's Penn State class-project origin, YC Winter 2007, slow product-market fit, capital-efficient survival through the 2008 funding crisis, Square acquisition, founder delegation, and Leap Forward's climate-tech investing thesis. Created pages for David Rusenko, Weebly, Square, Square Online, Leap Forward, Jessica Alter, Blue Dot, Electric Air, Capital Efficient Startup Building, Slow Product Market Fit, Founder Delegation Discipline, Economic Climate Tech Adoption, Climate Startup Commercialization Gap, and Founder Friendly Investor Support; updated overview, index, The Social Radars, Y Combinator, Startup Runway Discipline, Product Led Willingness To Pay, and Climate Adaptation. No direct contradiction found; the source reinforces existing runway and willingness-to-pay patterns while showing that slow product improvement, low burn, and small paid-conversion signals can compound into a durable company.
+
+## [2026-07-11] ingest | Yin Wu on Pulley, Equity, and Founder Resilience
+
+Added source page for The Social Radars episode with Yin Wu on Startup School, repeated YC batches, Prim, Echo Locker, Microsoft, Pulley, cap table literacy, fundraising modeling, founder equity dilution, employee equity communication, founder control, trust-sensitive SaaS switching, female-founder fundraising advice, and founder resilience. Created pages for Yin Wu, Pulley, Carta, Prim, Echo Locker, Cap Table Literacy, Founder Equity Dilution, Fundraising Scenario Modeling, Employee Equity Communication, Founder Control, Trust-Sensitive SaaS Switching, Founder User Obsession, Future-Oriented Fundraising Pitch, and Founder Resilience; updated overview, index, The Social Radars, Y Combinator, Startup School, BASES, Jessica Livingston, Carolyn Levy, Microsoft, Founder Product Fit, Customer Discovery By Doing Work, Unscalable Founder Work, Operational Pain Founder Insight, Equity Compensation Upside, Trust As Business Asset, Startup Governance, Second-Time Founder Operating Judgment, Founder Motivation Evolution, and Investor Risk Narrative. No direct contradiction found; the source qualifies founder-fit and customer-discovery pages by showing that doing the work and solving one's own problem still have to become durable user obsession and founder-facing product judgment.
+
+## [2026-07-11] ingest | Ron Conway on National Semiconductor, Altos, and Early Angel Investing
+
+Added source page for The Social Radars episode with Ron Conway on his pre-SV Angel path through National Semiconductor, Altos Computer, customer relationships, equity compensation, Sequoia, Band of Angels, and the move from operator to founder-helper investor. Created pages for Ron Conway, SV Angel, National Semiconductor, Charlie Sporck, Altos Computer, Dave Jackson, Band of Angels, Don Valentine, Relationship-Led Sales, Self-Disruption Discipline, Semiconductor Talent Genealogy, Organized Angel Investor Networks, and Equity Compensation Upside; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Sequoia Capital, General Motors, Microsoft, Founder-Led Sales, Founder-Investor Learning, Startup Timing Windows, and Outlier-Driven Angel Investing. No direct contradiction found; the source extends the wiki's startup-history branch backward into pre-YC semiconductor, microcomputer, and organized angel-investor networks.
+
+## [2026-07-11] ingest | Kyle Vogt on Justin.tv, Twitch, Cruise, and Choosing Hard Problems
+
+Added source page for The Social Radars episode with Kyle Vogt on Justin.tv, Twitch, Cruise, and choosing hard technical problems. Created pages for Daniel Kan, General Motors, Hard Problem MVP Scoping, Hard Tech Fundraising, Robotaxi Economics, Autonomous Vehicle Safety Benchmark, and Envelope Expansion Deployment; updated overview, index, Kyle Vogt, Cruise, Justin.tv, Twitch, The Social Radars, Y Combinator, Jessica Livingston, Carolyn Levy, Startup Infrastructure Improvisation, Janky MVP, Investor Risk Narrative, and Founder Product Fit. No direct contradiction found; the source extends the existing Justin.tv/Twitch branch into Vogt's first-person account and adds Cruise as a hard-tech case where MVP scoping, fundraising narrative, safety benchmarking, robotaxi economics, and post-acquisition scale all mattered.
+
+## [2026-07-11] ingest | Yuri Sagalov on AeroFS, YC, Angel Investing, and Wayfinder Ventures
+
+Added source page for The Social Radars episode with Yuri Sagalov on AeroFS, YC, angel investing, and Wayfinder Ventures. Created pages for Yuri Sagalov, AeroFS, Wayfinder Ventures, Redbooth, Enterprise File Sync, Peer-to-Peer Synchronization Risk, Technical Ambition Customer Mismatch, Founder-Led Sales, and Investor Reference Checking; updated overview, index, The Social Radars, Y Combinator, Jessica Livingston, Carolyn Levy, Customer Pull, Founder Product Fit, Second-Time Founder Operating Judgment, Trust-Heavy Infrastructure Sales, Outlier-Driven Angel Investing, and Startup Community Infrastructure. No direct contradiction found; the source qualifies customer-pull and founder-product-fit pages by showing that real enterprise demand and strong engineering can still fail when the team chooses a technically elegant architecture that does not match the customer's practical job.
+
+## [2026-07-11] ingest | Adora Cheung on Homejoy, YC, Vote-by-Mail, and Instalab
+
+Added source page for The Social Radars episode with Adora Cheung on PathJoy, Homejoy, YC partner lessons, Startup School's open-access turn, 2020 vote-by-mail funnel work, and Instalab. Created pages for Adora Cheung, Homejoy, PathJoy, Instalab, Aaron Cheung, Alex Cheung, Tech for Campaigns, Mark Lindsay, Scaling Broken Product, Price War Growth, Full-Funnel Civic Technology, Founder Health Debt, At-Home Preventive Health, Service Marketplace Quality Control, and Behavior Change Baby Steps; updated overview, index, The Social Radars, Y Combinator, Jessica Livingston, Carolyn Levy, Startup School, Customer Discovery By Doing Work, Unscalable Founder Work, Manual Operations Debt, Operational Pain Founder Insight, Customer Pull, Founder Product Fit, Fast Feedback Loops, Personal Health Data, and AI Health Management. No direct contradiction found; the source reinforces the wiki's existing warning that early customer pull and founder fieldwork must be converted into retention, quality control, and durable operating systems before growth.
+
+## [2026-07-11] ingest | Patrick and John Collison on Stripe's Origins, Developer Products, and Long-Term Ambition
+
+Added source page for The Social Radars episode with Patrick and John Collison on Stripe's origins, early YC and Paul Graham connections, web-payment friction, the App Store monetization contrast, `/dev/payments`, "Slicehost for payments," API product design, financial-institution resourcefulness, and long-term company execution. Created pages for Patrick Collison, John Collison, Developer-First Payment Infrastructure, API Product Design, Vision-to-Reality Execution, and Relentlessly Resourceful Founder; updated overview, index, Stripe, The Social Radars, Y Combinator, Paul Graham, Robert Morris, Jessica Livingston, Carolyn Levy, App Store, Money Movement Infrastructure, Payments Infrastructure Pivot, Trust-Heavy Infrastructure Sales, Operational Pain Founder Insight, Entrepreneurship Infrastructure, and Founder Product Fit. No direct contradiction found; the source reinforces the fintech infrastructure branch while distinguishing Stripe's developer-first origin from WePay's later infrastructure pivot and Modern Treasury's financial-operations thesis.
+
+## [2026-07-11] ingest | Bill Clerico on WePay, YC, and Fire Tech
+
+Added source page for a The Social Radars episode with Bill Clerico on WePay's YC Summer 2009 origin, early bank and merchant-account friction, manual payments operations, university-club customer discovery, the group-payments-to-API pivot, GoFundMe-driven scale, fraud losses, JPMorgan Chase acquisition, and Convective Capital's fire-tech thesis. Created pages for Bill Clerico, Rich Aberman, WePay, Convective Capital, OverStory, GoFundMe, Stripe, Payments Infrastructure Pivot, and Fire Tech Climate Resilience; updated overview, index, The Social Radars, Y Combinator, JPMorgan Chase, Money Movement Infrastructure, Trust-Heavy Infrastructure Sales, Early Fintech Fraud Controls, Unscalable Founder Work, Janky MVP, and Climate Adaptation. No direct contradiction found; the source reinforces the wiki's regulated-fintech branch while adding a climate-resilience market analogy.
+
 ## [2026-07-10] ingest | How states are competing in the data center gold rush
 
 Added source page for a Marketplace Tech episode with Nicholas Miller of the National Conference of State Legislatures on state data-center tax incentives, including sales and use tax exemptions, electricity exemptions, property-tax abatements, job requirements, capital-investment thresholds, property-tax benefits, and energy-use reassessment. Created pages for Nicholas Miller, National Conference of State Legislatures, and Data Center Tax Incentives; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Public Utility Commissions, AI Energy Bottleneck, Data Center Cost Shifting, Data Center Backlash, AI Compute Continuity, MaaS Infrastructure, and AI Metabolic Infrastructure. No direct contradiction found; the source extends existing AI data-center regulation pages by adding the public-subsidy and state economic-development layer.
@@ -547,7 +631,6 @@ Added source page for a Keji Luandun episode on Huawei's Tau Law, 3D chip stacki
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
-
 ## [2026-07-07] ingest | Vol. 162 科技快乐星球44: 新模型“SOTA们”齐贺新春
 
 Added source page for a Fengyan Fengyu AI-news roundup on Xcode Agentic Coding, Codex/Claude Code/Gemini workflow fit, domestic SOTA model releases, Seedance-style video generation, ChatGPT subscription/advertising, OpenAI voice/hardware, local translation models, agentic shopping/payment, cloud-chip binding, data-center power, space compute, robotics, and AI-for-science news. Created supporting pages for Xcode, Model Workflow Fit, and Agentic Commerce; updated overview, index, Fengyan Fengyu, Justin Yan, Zili, Codex, Claude Code, Gemini, Apple, Google, OpenAI, Anthropic, Amazon, ByteDance, Model Routing Cost Control, AI Inference Cost Structure, AI Coding Verification, AI Product Fragmentation, AI Subscription Economics, Agent Permission Boundaries, MaaS Infrastructure, Video Models, World Models, AI Interactive Entertainment, and AI Plus Terminals.
@@ -1916,6 +1999,26 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-11] ingest | Eric Migicovsky on Pebble, Kickstarter, and Building for Yourself
+
+Added source page for The Social Radars episode with Eric Migicovsky on Pebble's personal-problem origin, BlackBerry-era Impulse, Kickstarter breakout, manufacturing in Shenzhen and Dongguan, product defects, hiring friends, inventory misses, CRV funding, Silicon Valley Bank venture debt, Fitbit sale, and Beeper as another build-for-yourself product. Created pages for Eric Migicovsky, Pebble, Beeper, Alerta, Impulse Watch, Kickstarter, BlackBerry, Fitbit, Garmin, Tim Draper, CRV, Consumer Hardware Startup Risk, Kickstarter Demand Shock, Hardware Inventory Risk, Venture Debt Operational Risk, Build For Yourself Founder Fit, and Product Vision Drift; updated overview, index, The Social Radars, Y Combinator, Paul Graham, Paul Buchheit, Yuri Milner, Silicon Valley Bank, Apple, Founder Product Fit, Founder User Obsession, Founder Motivation Evolution, Customer Pull, Hard Tech Fundraising, Startup Runway Discipline, Consumer Electronics Lifecycle, and Hardware Category Definition Power. No direct contradiction found; the source is Eric's participant postmortem and should be treated cautiously where it assigns causality for Pebble's failure.
+
+## [2026-07-11] ingest | Eddy Lu on GOAT, Grub With Us, and Marketplace Friction
+
+Added source page for The Social Radars episode with Eddy Lu on quitting jobs with Daishen, early failed businesses, cream puff stores, Grub With Us, the YC Winter 2011 experience, the pivot into GOAT, sneaker authentication, GOAT Clean, the 2015 Black Friday product-market-fit moment, category focus, and the Adam Bain customer-to-board-member story. Created pages for Eddy Lu, Daishen, GOAT, Grub With Us, Grub Tonight, GOAT Clean, Adam Bain, Marketplace Friction Reduction, Authentication-Led Marketplace Trust, Category Focus Before Expansion, and Demand Shock Product-Market Fit; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Y Combinator, Unscalable Founder Work, Relentlessly Resourceful Founder, Operational Pain Founder Insight, Founder Product Fit, Peer-to-Peer Marketplace Trust, Service Marketplace Quality Control, Scaling Broken Product, New Balance, and HOKA. No direct contradiction found; the source extends the wiki's marketplace branch by showing how a failed social dinner marketplace taught the founders to remove buyer friction, trust risk, category sprawl, and operational uncertainty in a later sneaker marketplace.
+
+## [2026-07-11] ingest | Brian Armstrong on Coinbase's Origin, Crypto Regulation, FTX, and Founder Resilience
+
+Added source page for The Social Radars episode with Brian Armstrong on Coinbase's YC origin, the wallet-to-buy-button pivot, regulated crypto trust, SEC conflict, FTX, mission-focused company culture, fintech fraud controls, and founder motivation. Created pages for Brian Armstrong, Coinbase, FTX, Sam Bankman-Fried, Gary Gensler, SEC, Silicon Valley Bank, Mt. Gox, Startup High-Beta Bet, Regulated Crypto Trust Strategy, Early Fintech Fraud Controls, Mission-Focused Company, and Founder Motivation Evolution; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Y Combinator, Bitcoin, crypto market structure, AML/KYC concepts, customer validation pages, co-founder conflict, founder-investor learning, founder-product fit, startup governance, Garry Tan, Paul Buchheit, and Airbnb. No direct contradiction found; the source adds Armstrong's participant perspective on Coinbase, regulation, FTX, and company culture while extending the wiki's startup-validation and regulated-finance branches.
+
+## [2026-07-11] ingest | Airbnb Part Two: Brian Chesky on YC Discipline, COVID, and Staying Founder-Led
+
+Added source page for The Social Radars episode with Brian Chesky on Airbnb's YC discipline, New York host fieldwork, unscalable founder work, market expansion, Sequoia market reframing, COVID crisis, stakeholder tradeoffs, emergency debt financing, layoffs, and founder-led functional reset. Created pages for Greg McAdoo, Ken Chenault, Unscalable Founder Work, Crisis Stakeholder Leadership, and Founder-Led Functional Organization; updated overview, index, Brian Chesky, Airbnb, The Social Radars, Y Combinator, Paul Graham, Sequoia Capital, Joe Gebbia, Nate Blecharczyk, Peer-to-Peer Marketplace Trust, Founder Proximity, Customer Discovery By Doing Work, Design Led Growth, Startup Accelerator Batch Selection, Startup Governance, Trust As Business Asset, Stakeholder Capitalism, Profit And Cash Flow Quality, and Large Company Organizational Inertia. No direct contradiction found; the source extends the first Airbnb episode by showing how the same YC instincts around users, focus, trust, and detail reappeared during public-company crisis and post-crisis operating design.
+
+## [2026-07-11] ingest | Garry Tan on Returning to Y Combinator
+
+Added source page for The Social Radars episode with Garry Tan on Startup School, Stanford, Microsoft, Palantir, Posterous, Y Combinator, Bookface, Initialized Capital, founder honesty, co-founder conflict, startup timing windows, and builder-centered institutions. Created pages for Garry Tan, Posterous, Initialized Capital, Startup School, Bookface, Builder-Centered Institutions, Founder Honesty, Co-Founder Conflict, Startup Timing Windows, and Startup Community Infrastructure; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Y Combinator, Palantir, Microsoft, Stanford University, Paul Graham, Founder Product Fit, Founder-Investor Learning, Fast Product Validation, Customer Pull, Large Company Organizational Inertia, and Startup Accelerator Batch Selection. No direct contradiction found; the source extends the wiki's startup branch by treating YC as a builder-centered institution and Posterous as a case where product timing, candid advice, and co-founder conflict all shaped the outcome.
+
 ## [2026-07-11] ingest | David Lieb on Bump, Google Photos, and Returning to YC
 
 Added source page for The Social Radars episode with David Lieb on Bump, Google Photos, Flock, Y Combinator, Apple, Google, Google Plus, low-frequency product risk, power-user discovery, post-acquisition founder persistence, large-company risk incentives, cancer, and returning to YC founder support. Created pages for David Lieb, Bump, Flock, Google Photos, Google Plus, Low-Frequency Low-Value Product, Power User Discovery, and Large Company Risk Incentives; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Y Combinator, Paul Graham, Google, Apple, Customer Pull, Product Led Willingness To Pay, Fast Feedback Loops, Fast Product Validation, Founder Product Fit, Post-Acquisition Founder Identity, Large Company Organizational Inertia, Validated Learning, and Founder-Investor Learning. No direct contradiction found; the source adds Lieb's perspective on Google Photos' internal path while reinforcing the wiki's startup-validation branch that adoption, user love, and funding do not replace frequency, monetization, and direct user evidence.
@@ -1937,5 +2040,505 @@ Added source page for The Social Radars episode with Paul Buchheit on Gmail, ear
 Ran lint. See lint-report.md for details.
 
 ## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] ingest | Steve Huffman on Reddit's Origin Story, Sale, and Return
+
+Added source page for The Social Radars episode with Steve Huffman on Reddit's YC pivot from a rejected mobile food-ordering idea, Digg competition, the Conde Nast sale, the Infogami/Aaron Swartz relationship strain, Hipmunk, and Huffman's 2015 return during Reddit's community crisis. Created pages for Steve Huffman, Reddit, Alexis Ohanian, Aaron Swartz, Hipmunk, Adam Goldstein, Conde Nast, Infogami, Digg, Slashdot, Delicious, Yishan Wang, Sam Altman, Founder Idea Pivot, User-Powered Content Platform, Corporate-Owned Startup Constraints, Platform Community Governance, Founder Return Crisis, and Long-Lived Startup Decisions; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Y Combinator, Paul Graham, Startup Accelerator Batch Selection, Co-Founder Conflict, Founder Product Fit, Large Company Organizational Inertia, Post-Acquisition Founder Identity, and Startup Governance. No direct contradiction found; the source extends the wiki's startup branch by showing how a founder-over-idea pivot, acquisition structure, unresolved relationships, and community governance choices can last far beyond a company's first year.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] graph | Knowledge graph rebuilt
+
+2598 nodes, 25116 edges (25116 extracted, 0 inferred).
+
+## [2026-07-11] ingest | Brian Chesky on Airbnb's Origins, YC, and Reconnecting People
+
+Added source page for The Social Radars episode with Brian Chesky on Airbnb's air-bed origin, hosting as the emotional center, peer-to-peer marketplace trust, Joe Gebbia, Nate Blecharczyk, Michael Seibel, Justin.tv, YC, cereal-box survival, New York host fieldwork, and the mission to reconnect people. Created pages for Brian Chesky, Airbnb, Joe Gebbia, Nate Blecharczyk, Michael Seibel, Justin.tv, Peer-to-Peer Marketplace Trust, Design For One Person, and Real-World Connection Products; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Y Combinator, Paul Graham, Startup Accelerator Batch Selection, Founder Product Fit, Founder Cash Flow Constraint, Founder Proximity, Customer Discovery By Doing Work, Design Led Growth, Trust As Business Asset, Fast Product Validation, and Product Led Willingness To Pay. No direct contradiction found; the source extends the wiki's startup-validation branch by showing how trust design, founder survival, and direct host/guest fieldwork made Airbnb legible before the market looked obvious.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] ingest | Paul Graham on Viaweb, Y Combinator, and Writing
+
+Added source page for The Social Radars episode with Paul Graham on Viaweb, Y Combinator, Hacker News, and writing. Created pages for Julian Weber, Hacker News, Arc, Summer Founders Program, ArtX, Sequoia Capital, Startup Essay Distribution, and Startup Community Forum Burden; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Paul Graham, Viaweb, Y Combinator, Robert Morris, Trevor Blackwell, Sam Altman, Yahoo, Yahoo Store, Reddit, Web-Based Software, Founder-Investor Learning, Startup Accelerator Batch Selection, Startup Infrastructure Improvisation, Startup Community Infrastructure, Founder Cash Flow Constraint, Post-Acquisition Founder Identity, and Large Company Organizational Inertia. No direct contradiction found; the source extends the existing Viaweb/YC cluster by giving Graham's first-person origin story and adding the essay, forum, seed-investor, and post-exit writing angles.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] ingest | Edith Elliott on Noora Health, Caregivers, and Trust-Based Philanthropy
+
+Added source page for The Social Radars episode with Edith Elliott on Noora Health, family caregiver training, YC's nonprofit track, the Care Companion Program, nonprofit startup discipline, unrestricted funding, donor trust, and trust-based philanthropy. Created pages for Edith Elliott, Noora Health, Care Companion Program, Family Caregiver Training, Nonprofit Startup Discipline, and Trust-Based Philanthropy; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Y Combinator, Stanford University, Founder Product Fit, Startup Accelerator Batch Selection, Validated Learning, Startup Governance, and Trust As Business Asset. No direct contradiction found; the source extends the wiki's startup-validation branch by showing that field evidence, caregiver behavior, outcome metrics, and unrestricted donor trust can make YC-style operating discipline useful inside nonprofit global health.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-11 with 2,598 nodes and 25,116 edges while the wiki scan found 2,624 pages; they found no hub stubs, four fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-11] ingest | Social Radars Season 1 Wrap-Up and Season 2 Announcement
+
+Added source page for the short The Social Radars Season 1 wrap-up with Jessica Livingston and Carolyn Levy. The source says the show began as an idea the previous fall, launched in March, expanded from seven planned episodes to nine, would pause for about a month to record Season 2 interviews, and would publish selected Season 1 highlights on YouTube and Twitter. Updated overview, index, The Social Radars, Jessica Livingston, and Carolyn Levy. No direct contradiction found; the source contextualizes the existing Season 1 interview cluster rather than adding a new founder, company, or concept page.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] ingest | Dimitri Dadiomov on Modern Treasury and Financial Plumbing
+
+Added source page for The Social Radars episode with Dimitri Dadiomov on Modern Treasury's origin at LendingHome, YC Summer 2018, money-movement infrastructure, trust-heavy infrastructure sales, SVB and Signature crisis response, financial-operations resilience, accelerated bank runs, founder consistency, and FedNow. Created pages for Dimitri Dadiomov, Modern Treasury, LendingHome, Better Place, FedNow, Signature Bank, BASES, Money Movement Infrastructure, Financial Operations Resilience, Accelerated Bank Runs, Trust-Heavy Infrastructure Sales, and Operational Pain Founder Insight; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Y Combinator, Silicon Valley Bank, Stanford University, Paul Graham, Customer Pull, Pre-Product Selling, Fast Product Validation, Founder Product Fit, and Trust As Business Asset. No direct contradiction found; the source extends the wiki's fintech branch from regulated crypto access into bank connectivity, reconciliation, payment operations, and crisis resilience.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] ingest | Emmett Shear on YC, Kiko, Justin.tv, Twitch, and Founder Resilience
+
+Added source page for The Social Radars episode with Emmett Shear on YC's first batch, Kiko, Justin.tv, Twitch, the 2008 runway crisis, Twitch fundraising rejections, Amazon's acquisition model, and returning to YC as a partner. Created pages for Emmett Shear, Kiko, Twitch, Justin Kan, Kyle Vogt, Tucows, Startup Runway Discipline, and Investor Risk Narrative; updated overview, index, The Social Radars, Y Combinator, Justin.tv, Michael Seibel, Paul Graham, Amazon, Bessemer Venture Partners, Startup Accelerator Batch Selection, Founder Cash Flow Constraint, Founder Product Fit, Startup Community Infrastructure, Customer Pull, Product Led Willingness To Pay, and Post-Acquisition Founder Identity. No direct contradiction found; the source grounds the prior first-batch "Twitch founders" reference and extends the wiki's startup branch with cash-cushion, runway-discipline, usage-signal, and fundraising-narrative lessons.
+
+## [2026-07-11] ingest | Parker Conrad on Zenefits, Rippling, and Building Through Crisis
+
+Added source page for The Social Radars episode with Parker Conrad on Zenefits' licensing, macro, and culture controversies, the company's real manual-operations and growth problems, his ouster and public-reputation fight, and Rippling's employee graph and compound startup strategy. Created pages for Parker Conrad, Zenefits, Rippling, David Sacks, Andreessen Horowitz, Mark Andreessen, Lanny Davis, Mamoon Hamid, Kleiner Perkins, Simply Insured, Compound Startup, Employee Graph, Manual Operations Debt, and Founder Reputation Recovery; updated overview, index, and related Social Radars, YC, host, founder, governance, and organization-context pages. No direct contradiction found; the source is Conrad's participant account and should be treated cautiously where it describes disputed motives or responsibility.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] lint | Wiki lint
+
+Ran health and lint checks. Health passed with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, four fragile bridges, and no isolated communities. Semantic lint API failed because LiteLLM was given an unqualified default model and no provider/API-key environment variables are set. No lint report file was saved.
+
+## [2026-07-11] ingest | The Social Radars Season 2 Wrap-Up and Season 3 Announcement
+
+Added source page for the short The Social Radars Season 2 wrap-up where Jessica Livingston and Carolyn Levy thank listeners, highlight the Emmett Shear, Parker Conrad, and Brian Chesky interviews, confirm Season 3 is planned, and preview more YouTube clips. Updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Emmett Shear, Parker Conrad, Brian Chesky, Airbnb, YouTube, Podcast As Asynchronous Media, Founder Reputation Recovery, and Crisis Stakeholder Leadership. No direct contradiction found; the source contextualizes already ingested Season 2 interviews rather than replacing their first-person accounts.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] ingest | Harj Taggar on Y Combinator, Triplebyte, and Hiring Judgment
+
+Added source page for The Social Radars episode with Harj Taggar on BoSo, Automatic Auctions, YC Winter 2007, early YC investor relationships, Yuri Milner's batch-wide funding offer, Triplebyte's attempt to assess engineering talent beyond credentials, the James Damore controversy, and Harj's return to YC in 2020. Created pages for Harj Taggar, Triplebyte, BoSo, Automatic / Automatic Auctions, Kulvir Taggar, Armand Benard, Guillaume Cabane, Live Current Media, Yuri Milner, James Damore, Light Cone, Startup Legitimacy Transfer, and Objective Hiring Assessment; updated overview, index, Y Combinator, The Social Radars, Jessica Livingston, Carolyn Levy, Paul Graham, Patrick Collison, John Collison, Paul Buchheit, Garry Tan, Meta, Builder-Centered Institutions, Founder-Investor Learning, Startup Community Infrastructure, and Founder Product Fit. No direct contradiction found; the source preserves Harj's participant perspective, especially around Triplebyte's diversity-hiring and Damore sections.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] ingest | Alexandr Wang on Scale and AI Data Infrastructure
+
+Added source page for The Social Radars episode with Alexandr Wang on Scale AI's YC pivot, manual data-labeling origins, autonomous-vehicle data, defense and Ukraine satellite-imagery work, generative AI resource shift, MEI culture stance, and agent data. Created pages for Alexandr Wang, Quora, Adam D'Angelo, Teespring, Accel, Dan Levine, US Department of Defense, AI Data Infrastructure, Agent Data, Merit/Excellence/Intelligence, and Do Too Much Founder Philosophy; updated Scale AI, overview, index, Data As Education, Data Engine Learning Loop, Founder Idea Pivot, Startup High-Beta Bet, Unscalable Founder Work, and Human-Agent Collaboration. No direct contradiction found; the source extends Scale from a Data Factory comparator into a first-person founder account of AI-data infrastructure becoming central as model capabilities and workflows changed.
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-11] graph | Knowledge graph rebuilt
+
+2816 nodes, 27906 edges (27906 extracted, 0 inferred).
+
+## [2026-07-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | The ethics of using AI to immortalize the dead
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes and Tomas Holoneck on AI grief bots, post-mortem avatars, consent after death, privacy, psychological effects on survivors, digital memorialization, and public-interest governance. Created pages for Tomas Holoneck, University of Cambridge, Google Inactive Account Manager, AI Grief Bots, Post-Mortem AI Consent, and Digital Memorialization; updated overview, index, Marketplace Tech, Stephanie Hughes, ChatGPT, Digital Preservation, Persistent Agent Memory, and Human Connection Under AI. No direct contradiction found; the source extends digital preservation from storage stewardship into consent-aware interactive memorialization and qualifies persistent memory by showing that memory used after death needs stronger consent, dignity, and deletion boundaries.
+
+## [2026-07-12] ingest | Digital archiving and the global memory shortage
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes and Linda Todich of Digital Bedrock on AI data-center demand, memory-chip and hard-drive shortages, Western Digital hard-drive availability, IDC's shortage framing, hyperscaler dependence, and the difference between storage and preservation. Created pages for Linda Todich, Digital Bedrock, Western Digital, IDC, Memory Chip Shortage, Digital Preservation, and Personal Digital Archiving; updated overview, index, Marketplace Tech, Stephanie Hughes, and AI Hardware Supply Chain Pressure. No direct contradiction found; the source extends AI hardware supply-chain pressure from high-bandwidth memory and consumer storage pricing into archival storage, cultural memory, and family archive stewardship.
+
+## [2026-07-12] ingest | Physical media's comeback
+
+Added source page for the Marketplace Tech episode on DVDs, Blu-rays, and VHS returning through subscription fatigue, rare-title access, collecting, video-store culture, Vidiots' nonprofit theater-backed rental model, and LunchMeet VHS's rights-backed tape reprints. Created pages for Vidiots, Robbie McCluskey, LunchMeet VHS, Josh Schaeffer, Consumer Reports, Physical Video Media Revival, Video Store Culture, and Analog Media Preservation; updated overview, index, Marketplace Tech, Subscription Fatigue, and Game Preservation. No direct contradiction found; the source extends the existing streaming-friction and game-preservation branches into physical video media.
+
+## [2026-07-12] ingest | AI Meets the Search for a BA
+
+Added source page for the Marketplace Tech episode on AI entering the college search process for students and colleges. Created pages for EAB, Jennifer Jesse, Michael Coppenheifer, Nick Swisher, Indiana Wesleyan University, U.S. News and World Report, Instagram, AI College Search, Higher Education AI Discoverability, and AI Ranking Reinforcement; updated overview, index, Marketplace Tech, Stephanie Hughes, ChatGPT, Reddit, AI Discovery SEO, Generative Engine Optimization, AI Search Analytics, College Major Choice, and College Career Preparation. No direct contradiction found; the source qualifies AI discovery optimism by showing that AI can make college search easier while reinforcing familiar ranking defaults unless students and counselors ask for fit-based alternatives.
+
+## [2026-07-12] ingest | Here's how to prep for a job interview with AI
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes and Ray Smith on AI job interviews, recorded candidate answers, automated assessments, camera-facing preparation, and "AI plus HI" as a human-in-the-loop hiring boundary. Created pages for Ray Smith, Wall Street Journal, and AI Interviewing; updated overview, index, Marketplace Tech, Stephanie Hughes, Objective Hiring Assessment, AI Hiring Arms Race, Human Judgment Under AI, and AI Governance And Compliance. No direct contradiction found; the source qualifies objective hiring assessment by showing that skill-focused AI interviews still need transparent measurement and human accountability.
+
+## [2026-07-12] ingest | Bytes: Week in Review - Google to make links more prominent, Palantir moves to Florida and Ring reportedly had plans to use Search Party for more than finding lost dogs
+
+Added source page for the Marketplace Tech Bytes episode with Stephanie Hughes and Anita Ramaswamy on Google AI Overviews link visibility, publisher traffic, European Commission scrutiny, Palantir's headquarters move to Miami, South Florida tech migration, Ring Search Party, Flock Safety backlash, and consumer camera surveillance. Created pages for Google AI Overviews, Daily Mail, European Commission, Alex Karp, Florida, Miami, Tax Foundation, ServiceNow, Citadel, Ring, Ring Search Party, Jamie Siminoff, Flock Safety, AI Answer Source Attribution, South Florida Tech Migration, and Consumer Camera Surveillance; updated overview, index, Marketplace Tech, Stephanie Hughes, Anita Ramaswamy, The Information, Google, Open Web Traffic Decline, Search Advertising Decline, Generative Engine Optimization, AI Search Advertising, Platform Antitrust, Platform Data Regulation, European Union, Palantir, Amazon, Pew Research Center, Ray-Ban Smart Glasses, and Apple Privacy. No direct contradiction found; the source qualifies AI search and GEO optimism by separating visible citations from actual publisher traffic recovery, and it keeps Flock Safety distinct from the unrelated Flock photo-sharing app.
+
+## [2026-07-12] ingest | TPU? GPU? What's the difference between these two chips used for AI?
+
+Added source page for the Marketplace Tech episode with Christopher Miller on GPUs, Google TPUs, AI chip specialization, training versus inference, edge neural processing units, and why R&D scale plus software ecosystems protect incumbents such as Nvidia and Google. Created pages for Christopher Miller, Chip War, GPU, AI Chip Specialization, and Neural Processing Units; updated overview, index, Marketplace Tech, Nvidia, Google, TPU, On-Device AI, Anthropic, OpenAI, Meta, Megan McCarty-Corino, and AI Hardware Supply Chain Pressure. No direct contradiction found; the source extends the existing TPU and AI infrastructure branches by treating TPUs as a credible specialized alternative for some workloads rather than a full replacement for general-purpose Nvidia GPUs.
+
+## [2026-07-12] ingest | Founder Mode: Chris Best, Founder & CEO, Substack
+
+Added source page for The Social Radars YC offsite episode with Chris Best on Substack, paid newsletter infrastructure, Bill Bishop and Sinocism, creator-owned audiences, the app and Substack Notes as owned-discovery bets, platform dependency on Twitter, Elon Musk's objection, and founder mode as long-term media-network conviction. Created pages for Chris Best, Substack, Hamish McKenzie, Bill Bishop, Sinocism, Twitter / X, Substack Notes, Creator-Owned Audience, and Strategic Must-Work Product Bet; updated overview, index, Founder Mode, Platform Dependency Risk, Y Combinator, The Social Radars, and Elon Musk. No direct contradiction found; the Musk/Twitter incident is preserved as Best's account rather than a complete platform-side history.
+
+## [2026-07-12] ingest | Founder Mode: Jake Heller, Founder & CEO, Casetext
+
+Added source page for The Social Radars YC offsite episode with Jake Heller on Casetext, early GPT-4 access, legal-AI workflow testing, the companywide move into Co-Counsel, board and employee persuasion, the Thomson Reuters acquisition, and founder mode under a model inflection. Created pages for Jake Heller, Casetext, Co-Counsel, Thomson Reuters, GPT-4, and Frontier Model Inflection Pivot; updated overview, index, OpenAI, Y Combinator, The Social Radars, Founder Mode, Vertical Workflow AI, AI Workflow Triage, and Legal AI Hallucination. No direct contradiction found; the source is preserved as Heller's founder account rather than an independent customer, employee, investor, or acquirer postmortem.
+
+## [2026-07-12] ingest | Sam Altman on YC, OpenAI, and the Meaning of Formidable
+
+Added source page for The Social Radars episode with Sam Altman on Looped, the first Y Combinator batch, founder risk calibration, YC presidency, OpenAI's nonprofit origins, the language-model scaling bet, ChatGPT search, and the November 2023 OpenAI board crisis. Created pages for Looped, Greg Brockman, Blake Ross, Helion, Reid Hoffman, Shivon Zilis, Will Hurd, Founder Risk Calibration, OpenAI Board Crisis, Language Model Scaling Bet, and Delegated Web Research; updated overview, index, Sam Altman, OpenAI, Y Combinator, The Social Radars, Jessica Livingston, Carolyn Levy, Paul Graham, ChatGPT, Google, Google DeepMind, Ilya Sutskever, Emmett Shear, Adam D'Angelo, Microsoft, David Sacks, Elon Musk, Ron Conway, Steve Jobs, Goldman Sachs, Sequoia Capital, Startup Governance, AI Alignment Governance, Platform Dependency Risk, and Startup Accelerator Batch Selection. No direct contradiction found; the OpenAI crisis material is preserved as Altman's first-person account and should be paired with other perspectives for disputed board intent and safety claims.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Ron Conway on Napster, Founder Relationships, and SV Angel's Crisis Work
+
+Added source page for The Social Radars bonus episode with Ron Conway on Napster, Sean Fanning, Sean Parker, Hummer Winblad, Bertelsmann, Snowcap, Plaxo, GitHub, music-industry conflict, employee severance, and SV Angel's founder-crisis work. Created pages for Sean Parker, Mark Zuckerberg, Snowcap, Plaxo, GitHub, Hummer Winblad, Bertelsmann, RIAA, Media Internet Convergence, Copyright Platform Conflict, Digital Music Licensing, Founder Crisis Mediation, and Employee Severance at Shutdown; updated overview, index, Ron Conway, SV Angel, Napster, Sean Fanning, Rajiv Motwani, Susan Wojcicki, Google, The Social Radars, Meta, Founder Friendly Investor Support, Legal Risk Acquirer Fit, Venture Syndicate Orchestration, and Distribution Before Monetization. No direct contradiction found; the Napster material is preserved as Conway's participant account and should be paired with record-label, RIAA, Hummer Winblad, Bertelsmann, and Napster management perspectives for a balanced legal history.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Founder Mode: Brian Chesky, Founder & CEO, Airbnb
+
+Added source page for The Social Radars YC offsite episode with Brian Chesky on founder mode, Airbnb's pandemic refounding, professional-manager drift, founder presence, skip-level relationships, and AI-era speed. Created pages for Founder Mode and Andy Grove; updated overview, index, Brian Chesky, Airbnb, Y Combinator, The Social Radars, Carolyn Levy, Ken Chenault, Founder-Led Functional Organization, Founder Control, and Large Company Organizational Inertia. No direct contradiction found; the source reinforces the earlier Airbnb COVID reset while making it an explicit founder-operating doctrine.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Founder Mode: Garry Tan, President & CEO, Y Combinator
+
+Added source page for The Social Radars YC offsite episode with Garry Tan on founder mode, AI-era small-team economics, YC's ambition, Posterous delegation lessons, founder accountability, and empowerment rather than absentee autonomy. Updated overview, index, Garry Tan, Posterous, Y Combinator, The Social Radars, Founder Mode, Founder Delegation Discipline, AI Startup Unit Economics, and AI Organization Design. No direct contradiction found; the source reinforces the Brian Chesky founder-mode offsite while adding a delegation and accountability boundary around founder involvement.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Founder Mode: Paul Graham, Founder, Y Combinator
+
+Added source page for The Social Radars YC offsite episode with Paul Graham on founder mode as a real but still unmapped founder-operating phenomenon, Brian Chesky's talk, micromanagement versus collaboration, vibe coding, Replit's prompt-as-source-code framing, Stoke, Paul Gross, and young-founder credibility. Created pages for Replit, Amjad Masad, Stoke, and Paul Gross; updated overview, index, Founder Mode, Vibe Coding, Founder Proximity, Paul Graham, Y Combinator, The Social Radars, Jessica Livingston, Carolyn Levy, Brian Chesky, Ron Conway, Steve Jobs, and Jony Ive. No direct contradiction found; the source reinforces the Brian Chesky and Garry Tan founder-mode offsite pages while making the concept explicitly exploratory rather than a finished doctrine.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Founder Mode: Paul Gross, Founder & CEO of Remora Carbon
+
+Added source page for The Social Radars YC offsite episode with Paul Gross on Remora Carbon, mobile carbon capture for semi trucks and locomotives, beverage-grade CO2, YC Winter 2021 prototyping, risk-focused founder mode, CO2 liquefaction, selling CO2, government affairs, and manufacturing. Created pages for Remora Carbon, Mobile Carbon Capture, and Founder Risk Deep Dive; updated overview, index, Paul Gross, Founder Mode, Y Combinator, The Social Radars, Economic Climate Tech Adoption, and Climate Startup Commercialization Gap. No direct contradiction found; Remora's technical efficiency, customer partnership, and commercialization claims are preserved as Gross's account rather than independent validation.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Bytes: Week in Review - SpaceX and xAI merge, Nvidia and OpenAI's funding relationship and U.S. TikTok's rough start
+
+Added source page for the Marketplace Tech Bytes episode with Paresh Dave on SpaceX buying xAI, Nvidia and OpenAI's reported $100 billion investment uncertainty, and the new U.S. TikTok's Oracle-linked outages and data terms. Created pages for Stephanie Hughes, Paresh Dave, U.S. TikTok, MGX, Silver Lake, Strategic AI Infrastructure Dependence, and Platform Ownership Transition; updated overview, index, Marketplace Tech, SpaceX, xAI, Starlink, Grok, Starship, Elon Musk, Nvidia, OpenAI, Jensen Huang, TikTok, ByteDance, Oracle, Space Based AI Infrastructure, and AI IPO Valuation. Flagged a dated-source tension with the later SpaceX IPO source on profitability and IPO timing.
+
+## [2026-07-12] ingest | New study reveals a "smartphone penalty" that distorts survey results
+
+Added source page for the Marketplace Tech episode with Carly Urban on smartphone survey penalty, FINRA Foundation financial-knowledge trends, the National Financial Capability Study device shift, the Understanding America Study randomized device experiment, survey fatigue, representativeness tradeoffs, and future AI-assisted survey response risk. Created pages for Carly Urban, Olivia Valdez, FINRA Foundation, National Financial Capability Study, Understanding America Study, University of Southern California, Pew Research Center, Smartphone Survey Penalty, Survey Mode Effects, Financial Literacy Measurement, and AI-Assisted Survey Response; updated overview, index, and Marketplace Tech. No direct contradiction found; the source qualifies the financial-literacy decline as partly a possible measurement artifact while preserving the access benefit of smartphone surveys.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-11 with 2,816 nodes while the wiki scan found 2,941 pages; they found no hub stubs, five fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint API failed because `LLM_MODEL` is not provider-qualified and no provider API-key variables are present. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Is the moon (and its resources) up for grabs?
+
+Added source page for the Marketplace Tech episode with Sadia Pekkanen on Artemis 2, lunar resources, space law, the Artemis Accords, China and Russia as non-signatories, safety zones, first-mover resource access, and stable lunar energy. Created pages for Sadia Pekkanen, Artemis 2, Artemis Accords, Moon, Lunar Resource Governance, Space Resource Extraction, Lunar Nuclear Power, and Helium-3; updated overview, index, Marketplace Tech, NASA, China, Russia, and Space Economy Infrastructure. No direct contradiction found; the source extends the existing space-infrastructure branch by adding lunar governance, resource-rights, and power constraints.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-11 with 2,816 nodes while the wiki scan found 2,968 pages; they found no hub stubs, five fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint API failed because `LLM_MODEL` is not provider-qualified and no provider API-key variables are present. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-11 with 2,816 nodes and found no hub stubs, five fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-11 with 2,816 nodes while the wiki scan found 2,999 pages; they found no hub stubs, five fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint API failed because no provider/model environment variables are present and the default `LLM_MODEL` fallback is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Meta's big bet on superintelligence
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes and Mike Isaac on Meta's AI spending, ad-targeting payoff, Meta AI's weaker consumer mindshare than ChatGPT, Ray-Ban smart glasses as a wearable assistant route, personal superintelligence, Meta's data advantage and privacy tension, and AI overtaking VR inside Meta's priorities. Created pages for Mike Isaac, New York Times, Meta AI, Ray-Ban Smart Glasses, Reality Labs, Personal Superintelligence, and AI Advertising Targeting; updated overview, index, and related Meta/AI strategy pages. No direct contradiction found; the source qualifies AI terminal and assistant-entry optimism by showing that distribution and data do not automatically create a default consumer AI product.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] graph | Knowledge graph rebuilt
+
+3011 nodes, 30453 edges (30453 extracted, 0 inferred).
+
+## [2026-07-12] report | Graph health report generated
+
+3011 nodes analyzed.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | AI makes it easier to code websites — including ones that scam consumers
+
+Added source page for the Marketplace Tech episode on AI-assisted scam websites, a fake Davines sponsored search result, and the way AI coding agents lower the cost of convincing brand impersonation. Created pages for Davines, Netcraft, Ginny Spicer, Coalfire, Charles Henderson, Silent Push, Zach Edwards, Lana Swartz, University of Virginia, AI-Assisted Website Scams, Fake Retail Website Impersonation, Search Ad Trust Gap, and Brand Impersonation Monitoring; updated overview, index, and related Marketplace Tech, Google, search-ad, and fraud pages. No direct contradiction found; the source qualifies AI-enabled scam industrialization by showing website production and paid search placement as another scaling path for fraud.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Bytes: Week in Review - Anthropic and the Pentagon face off, OpenAI teams up with consulting firms and Mac Mini moves to the U.S.
+
+Added source page for the Marketplace Tech Bytes episode on Pentagon pressure for broader Claude access, Anthropic's red lines around mass surveillance and autonomous weapons, OpenAI Frontier and consulting-led AI coworker adoption, and Apple's Houston Mac Mini manufacturing plan. Created pages for Claude, OpenAI Frontier, Mac Mini, Pete Hegseth, Maria Curie, Defense AI Procurement, Frontier Model Use Policy Conflict, and Tech Manufacturing Reshoring; updated overview, index, Marketplace Tech, Anthropic, US Department of Defense, Dario Amodei, OpenAI, Apple, xAI, Google, AI Coworkers, Digital Employees, Business-Led AI Transformation, Enterprise Agent Governance, AI Governance And Compliance, and Frontier Model Access Restrictions. No direct contradiction found; the source extends model-access governance from foreign-user and release-stage restrictions into domestic defense procurement, and qualifies AI coworker adoption by emphasizing workflow, governance, liability, compliance, and employee buy-in.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | How government uses "surveillance as a service" to collect data
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes and Jeremy Scott of the Electronic Privacy Information Center on DHS access to private-sector data, administrative subpoenas, government data purchases, Flock Safety license-plate-reader databases, the third-party doctrine, and legislation to close the data broker loophole. Created pages for Jeremy Scott, Electronic Privacy Information Center, U.S. Department of Homeland Security, U.S. Immigration and Customs Enforcement, Ron Wyden, Montana, Surveillance as a Service, Government Data Broker Access, Data Broker Loophole, Third-Party Doctrine, Fourth Amendment Digital Privacy, Administrative Subpoena Data Access, Civil Liberties Surveillance Risk, Smith v. Maryland, and Fourth Amendment is Not For Sale Act; updated overview, index, Marketplace Tech, Stephanie Hughes, Flock Safety, Consumer Camera Surveillance, and Platform Data Regulation. No direct contradiction found; the source extends consumer-camera surveillance into government-accessible private data infrastructure and qualifies platform data regulation by showing how privately aggregated data can become state surveillance capacity.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Iran's cyberwar on American banks
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes and Rafe Pilling of Sophos on Iran-linked cyber threats, the 2011-2013 DDoS attacks against U.S. banks, broader phishing/vulnerability-scanning/data-theft capabilities, and industrial-control risk through the Unitronics example. Created pages for Rafe Pilling, Sophos, Ministry of Intelligence and Security, Unitronics, Iran-Linked Cyber Operations, Banking DDoS Resilience, Cyber Data Theft and Leak Operations, and Industrial Control System Cyber Risk; updated overview, index, Marketplace Tech, Stephanie Hughes, Iran, IRGC, infrastructure-attack, ransomware-continuity, backup-recovery, health-data, internet-healthcare, and financial-resilience pages. No direct contradiction found; the source qualifies bank-focused cyber concern by arguing banks are likely more prepared for DDoS than health care, sensitive-data, and industrial-control targets are for intrusion, leaks, wipers, or ransomware-type disruption.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-12 with 3,011 nodes and 30,453 edges; they found no hub stubs, four fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; a bounded in-session semantic review of the script sample, orphan pages, and fragile-bridge endpoints found no direct contradictions. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Initial lint pass after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used a stale graph snapshot and were superseded by the graph rebuild and final lint pass below. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM.
+
+## [2026-07-12] graph | Knowledge graph rebuilt
+
+3150 nodes, 31977 edges (31977 extracted, 0 inferred). Rebuilt with `python tools/build_graph.py --no-infer` because the prior graph snapshot had 3011 nodes while lint scanned 3150 wiki pages.
+
+## [2026-07-12] lint | Wiki health check
+
+Final lint pass after graph refresh. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities against the refreshed graph. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-12] ingest | Bytes: Week in Review - Amazon and AI, YouTube tops the media market and Meta buys an AI-only social network
+
+Added source page for the Marketplace Tech Bytes episode with Stephanie Hughes and Jewel Burke Solomon on Amazon outages and AI coding guardrails, YouTube's revenue-led media dominance, and Meta's acquisition of the AI-only social network MoteBook. Created pages for Financial Times, MoffettNathanson, Ben Parr, Matt Schlicht, AI Coding Guardrails, and YouTube Media Dominance; updated overview, index, Marketplace Tech, Stephanie Hughes, Jewel Burke Solomon, Collab Capital, Amazon, YouTube, Alphabet, Google, Meta, MoteBook, OpenClaw, AI Social Networks, AI Talent Competition, Vibe Coding, AI Assisted Software Development Risk, AI Coding Verification, AI Governance And Compliance, and Human Judgment Under AI. No direct contradiction found; the source qualifies AI coding risk by saying Amazon denied AI-written-code involvement while still extending the need for review and deployment guardrails, and it adds an ambiguity around OpenClaw's identity that should be clarified by later sources.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified; a bounded in-session review of explicit contradiction sections found only apparent tensions already documented as non-contradictions. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-12] ingest | How confident are crypto consumers?
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes and Dave Reibstein of the Wharton School on the Consumer Cryptocurrency Confidence Index, crypto sentiment as a possible price signal, regional and age differences in optimism, and crypto being held mostly as investment rather than used as payment. Created pages for Dave Reibstein, Wharton School, and Crypto Consumer Confidence; updated overview, index, Marketplace Tech, Stephanie Hughes, Bitcoin, Bitcoin Safe-Haven Behavior, Cryptocurrency Market Structure, and Contrarian Sentiment Indicators. No direct contradiction found; the source qualifies digital-gold and safe-haven narratives by showing that many consumers still treat crypto as risky stock-like exposure or gamble money.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | AI-powered workplace tools keep tabs on employees
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes and Josh Bersin on AI workplace monitoring, including meeting recorders, email summaries, Galileo meeting analysis, workplace digital twins, productivity gains, memory/attention changes, and transparency boundaries. Created pages for Josh Bersin, Galileo, Recorded Meeting Analysis, Workplace Digital Twins, and Workplace AI Transparency; updated overview, index, Marketplace Tech, Stephanie Hughes, AI Workforce Monitoring, Digital Employees, Human Judgment Under AI, and AI Governance And Compliance. No direct contradiction found; the source extends workplace monitoring from abstract activity telemetry into concrete meeting, email, and digital-twin workflows while qualifying digital-employee claims by emphasizing transparency, human conversation, and non-punitive deployment boundaries.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-12 with 3,150 nodes and 31,977 edges; they found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is unset and no provider API key variables are present in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-12] ingest | How low-cost drones are used in modern military strikes
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes and Stacey Pettijohn of the Center for a New American Security on low-cost drones, Shahed 136-style systems, the U.S. Lucas drone, commercial component supply chains, jamming, decoys, layered counter-drone defense, and the cost mismatch between cheap attack drones and expensive interceptors. Created pages for Stacey Pettijohn, Center for a New American Security, Shahed 136, Lucas Drone, Low-Cost Drone Warfare, Commercial Off-The-Shelf Weaponization, Drone Defense Economics, Counter-Drone Layered Defense, and Drone Decoy Economics; updated overview, index, Marketplace Tech, Stephanie Hughes, Iran, Israel, Russia, Ukraine, United States, and Asymmetric Infrastructure Attack. No direct contradiction found; the source extends asymmetric infrastructure attack from physical infrastructure damage into air-defense economics and qualifies high-end weapon narratives by showing that good-enough drones can matter through volume, range, adaptation, and cost pressure.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-12 with 3,150 nodes and 31,977 edges while the wiki scan found 3,184 pages; they found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is unset and no provider API key variables are present in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-12] ingest | Bytes: Week in Review - Gecko's $71M contract with U.S. Navy, BuzzFeed doubts its business viability, and Amazon offers faster delivery
+
+Added source page for the Marketplace Tech Bytes episode with Stephanie Hughes and Anita Ramaswamy of The Information on Gecko Robotics' $71 million Navy contract, defense startup procurement, BuzzFeed's going-concern warning and AI app pivot, and Amazon's one-hour and three-hour delivery expansion. Created pages for Gecko Robotics, U.S. Navy, Anduril, Raytheon, Boeing, BuzzFeed, QuizParty, Center for Strategic and International Studies, Uber Eats, Defense Robotics Maintenance, Defense Tech Startup Procurement, Media AI Rescue Strategy, Ultra-Fast Delivery Economics, and AI Consumer Decision Shaping; updated overview, index, Marketplace Tech, Stephanie Hughes, Anita Ramaswamy, The Information, Amazon, Walmart, Palantir, DoorDash, Defense AI Procurement, Instant Retail, Ecommerce Fulfillment Complexity, AI Slop, AI Content Devaluation, and AI Commercialization Pressure. No direct contradiction found; the source extends defense AI procurement into physical maintenance robotics, qualifies AI media optimism through BuzzFeed's distressed pivot, and extends instant retail into a U.S. Amazon-Walmart competition frame.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | What do students lose when they rely on AI for homework?
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes and Heather Schwartz of RAND on student AI homework use, critical-thinking concern, first draft thinking, classroom AI-free time, and sequencing AI after the student's own first attempt. Created pages for Heather Schwartz, RAND, and First Draft Thinking; updated overview, index, Marketplace Tech, Stephanie Hughes, ChatGPT, AI As Tutor, AI Shortcut Risk, Self-Directed Learning, Learning Experience Design, Learning How To Learn, AI Use Pacing, Human Judgment Under AI, and College Career Preparation. No direct contradiction found; the source qualifies AI tutoring optimism by showing that explanation quality does not guarantee learning if AI replaces the student's initial reasoning.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | U.S. regulators eye rules for prediction markets
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes on prediction markets facing gambling-like integrity risks, using the Jontay Porter NBA betting scandal to explain sportsbook geolocation, wager tracking, integrity monitors, insider screening, and reporting. Created pages for Jontay Porter, National Basketball Association, DraftKings, Matthew Holt, Ben Schifrin, Better Markets, John Holden, Indiana University, Prediction Market Integrity Oversight, Sportsbook Integrity Monitoring, and Event Contract Manipulation Risk; updated overview, index, Marketplace Tech, Stephanie Hughes, Commodity Futures Trading Commission, Polymarket, and Prediction Market Ethics. No direct contradiction found; the source extends the earlier prediction-market ethics branch from harmful-event boundaries into operational market-integrity controls and the legal tension around sportsbook-like regulation.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Why digital archiving is more than "store and ignore"
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes and Linda Todich of Digital Bedrock on cloud files' physical roots, old LTO tapes, obsolete backup systems, "store and ignore" failure, and active migration. Created pages for WIPR, American Archive of Public Broadcasting, Cloud Storage Physicality, and Preservation Technical Environment; updated overview, index, Marketplace Tech, Stephanie Hughes, Linda Todich, Digital Bedrock, Digital Preservation, Personal Digital Archiving, and Analog Media Preservation. No direct contradiction found; the source extends the March 3 digital-preservation episode by showing that stored bits still depend on media, software, operating systems, cables, documentation, and institutional memory.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint after health passed. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-12] ingest | The tech transforming Baltimore's Francis Scott Key Bridge
+
+Added source page for the Marketplace Tech episode with Stephanie Hughes and Jim Harkness of the Maryland Transportation Authority on rebuilding Baltimore's Francis Scott Key Bridge after the Dali strike and collapse. Created pages for Jim Harkness, Maryland Transportation Authority, Francis Scott Key Bridge, Dali Container Ship, Port of Baltimore, Structural Health Monitoring, Sensor-Driven Infrastructure Maintenance, and Bridge Load Capacity; updated overview, index, Marketplace Tech, and Stephanie Hughes. No direct contradiction found; the source extends the wiki's infrastructure-resilience branch into civil engineering by showing that real-time bridge data is useful only when tied to physical access, load decisions, model comparison, and maintenance authority.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | Bytes: Week in Review - Meta, YouTube's social media addiction case, a new AI literacy course, and Kalshi's prediction market self-regulation
+
+Added source page for the Marketplace Tech Bytes episode with Stephanie Hughes and Maria Curi of Axios on a Los Angeles negligence verdict against Meta and YouTube, the U.S. Department of Labor's text-message AI literacy course, and Kalshi's new guardrails for political and sports-linked prediction markets. Created pages for Axios, U.S. Department of Labor, Snapchat, Social Media Product Liability, AI Worker Literacy, and Prediction Market Self-Regulation; updated overview, index, Marketplace Tech, Stephanie Hughes, Maria Curi, Meta, YouTube, TikTok, Kalshi, Commodity Futures Trading Commission, AI Literacy Against Worship, AI Backlash Politics, Prediction Market Integrity Oversight, Prediction Market Ethics, and Event Contract Manipulation Risk. No direct contradiction found; the source qualifies platform and government reassurance by showing that parental controls, short AI courses, and voluntary market guardrails do not fully answer design liability, job displacement, or insider-information risk.
+
+## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

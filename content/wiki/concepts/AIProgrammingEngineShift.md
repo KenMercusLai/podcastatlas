@@ -2,8 +2,8 @@
 title: "AI Programming Engine Shift"
 type: concept
 tags: [ai-coding, software-engineering, labor, culture]
-sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]
-last_updated: 2026-07-08
+sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128]
+last_updated: 2026-07-12
 ---
 
 # AI Programming Engine Shift
@@ -13,6 +13,8 @@ AI programming engine shift is the episode's metaphor that AI changes programmin
 [[zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1]] clarifies the "end of programming" interpretation. The hosts treat AI as ending a familiar style of programming rather than eliminating all programming activity, and they extend the shift into code style: terse, highly expressive code may be elegant for experienced humans but less friendly to model inspection than explicit, stepwise code.
 
 [[vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1]] adds the student-major version. The hosts avoid claiming that programming will or will not be replaced after four years, but they argue that students who find programming interesting can still learn it because it teaches how to build, inspect, maintain, and reason about systems that AI may help generate.
+
+[[tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128]] adds a U.S. enrollment signal. [[CarrieGeorge]] says traditional computer science and software engineering enrollment is down while AI, data science, cybersecurity, and computer engineering are more stable or growing, suggesting that students are translating the programming-engine shift into major-selection behavior.
 
 [[zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]] adds a personal-product version through [[GLM5]]. The host's Spring Festival experiments show the engine shift in practice: implementation gets fast enough to build websites, iOS apps, editing tools, and store tools, while deployment, platform review, operations, and vertical know-how become the remaining bottlenecks.
 
@@ -29,6 +31,7 @@ AI programming engine shift is the episode's metaphor that AI changes programmin
 - The shift does not remove [[AIEngineeringThinking]]; it raises the value of knowing what to ask for, how to test it, and when generated output is plausible but wrong.
 - The source also preserves a craft boundary: low-level programming, assembly, and esoteric languages can remain meaningful as play or self-cultivation even if they are not economically necessary.
 - For [[CollegeMajorChoice]], the shift means students should not treat "AI can code" as proof that computer science is useless, or treat current AI popularity as proof that any hot major is safe.
+- The enrollment source shows that some students are treating AI and weak software hiring as reasons to choose different computing subfields, not necessarily to leave computing entirely.
 - The shift can contribute to [[IntelligenceDevaluation]] because coding skill loses some scarcity when implementation can be bought from a model.
 - Episode 136 adds that coding is not only a programming profession issue; it is a general digital-work substrate because code can express and execute solutions.
 
@@ -41,5 +44,6 @@ AI programming engine shift is the episode's metaphor that AI changes programmin
 - [[DisplayErgonomics]] - episode 72 connects AI coding work to visible context, review surfaces, and monitor setup.
 - [[SecondRenaissance]] - cultural branch where automation frees or forces people toward broader interests and craft.
 - [[CollegeMajorChoice]], [[CollegeCareerPreparation]], and [[AIAsTutor]] - Vol. 169's student-facing version of the programming question.
+- [[ComputingEnrollmentDecline]], [[ComputingResearchPipeline]], and [[SoftwareDeveloperHiringPullback]] - Marketplace Tech's enrollment and labor-market version of the programming question.
 - [[GLM5]], [[IntelligenceDevaluation]], and [[ProductLedWillingnessToPay]] - personal-product and labor-value extension from the Keji Luandun source.
 - [[AGIThreeActs]], [[MLCoding]], [[ClaudeCode]], [[Codex]], and [[ModelAsOperatingSystem]] - strategic coding-agent extension from episode 136.

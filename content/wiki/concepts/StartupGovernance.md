@@ -2,8 +2,8 @@
 title: "Startup Governance"
 type: concept
 tags: [startup, governance, mission, founders]
-sources: [eric-ries-on-how-founders-quietly-lose-their-company, eric-ries-incorruptible-by-design-wrgromn5peq, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, socialradarsseason1-tracyyoung-final-1]
-last_updated: 2026-07-11
+sources: [tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, socialradars-edithelliot-v3, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, eric-ries-on-how-founders-quietly-lose-their-company, eric-ries-incorruptible-by-design-wrgromn5peq, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, socialradarsseason1-tracyyoung-final-1, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+last_updated: 2026-07-12
 ---
 
 # Startup Governance
@@ -19,6 +19,20 @@ Startup governance is the operating system of power inside a company: charter la
 [[advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e]] adds an early CPG financing version through [[JajuPierogi]]. [[JeniBritton]] warns [[CaseyWhite]] that outside capital brings opinions and reduced control, while [[GuyRaz]] and Britton point toward SBA loans, bank loans, friends-and-family networks, grants, and advisors or boards as ways to add capacity without making equity the default answer.
 
 [[socialradarsseason1-tracyyoung-final-1]] adds an internal-operating version through [[TigerEye]]. [[TracyYoung]] treats values, hiring rules, role boundaries with [[RalphGoody]], and remote-work communication norms as governance choices that should be explicit before the team is large.
+
+[[socialradars-edithelliot-v3]] adds a nonprofit funding version through [[NooraHealth]]. [[EdithElliott]] treats the refusal of restricted funding as an operating-governance decision, because donor-imposed use restrictions can prevent a nonprofit from paying for operations, innovating, or changing course when field reality shifts.
+
+[[socialradarspod-stevehuffman-final]] adds an acquisition-and-spinout version through [[Reddit]] and [[CondeNast|Conde Nast]]. [[SteveHuffman]] says the sale was a relief because Reddit was not yet a high-functioning company, but the corporate ownership later made hiring and startup incentives difficult. The spinout, options pool, [[YishanWang]] CEO period, and later [[SamAltman]]-led financing show governance as the structure that determines whether a young platform can recruit and act like a startup after acquisition.
+
+[[socialradarspod-brianchesky2-final]] adds a crisis-and-refounding version through [[Airbnb]]. [[BrianChesky]] frames COVID as a moment when the company had to decide why it deserved to exist, which initiatives to shut down, how to trade off guest refunds against host trust, how to finance survival, and how to reorganize afterward. The episode turns governance into [[CrisisStakeholderLeadership]] and [[FounderLedFunctionalOrganization]]: principles, board framing, cash preservation, layoffs, one roadmap, and founder review become operating power, not only legal structure.
+
+[[socialradarspod-brianarmstrong-final]] adds [[Coinbase]] as a mission-scope governance case. [[BrianArmstrong]] says the 2020 [[MissionFocusedCompany]] policy followed internal conflict and an employee walkout, and that he had not previously been clear enough about what kind of company Coinbase would be. The source treats cultural scope as operating governance: what the company will discuss, what it will optimize for, and how it handles disagreement can become as consequential as formal board or ownership structure.
+
+[[socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]] adds [[Zenefits]] as a disputed founder-transition and public-narrative governance case. [[ParkerConrad]] says real compliance and business problems became entangled with board pressure, a changed departure release, attorney-client privilege, CEO succession, attempted noncompete pressure, and crisis PR. The source shows governance as control over narrative, legal defense, and future founder optionality, not only board votes or financing terms.
+
+[[tsr-s3-yinwu-v2-tsr-s3-yinwu-v2]] adds [[Pulley]] as an early-stage equity and board-control governance case. [[YinWu]] says founders need to understand ownership, dilution, employee pools, fundraising terms, and board composition because the board is effectively the founder's boss, especially when the company is not doing well. This turns [[CapTableLiteracy]], [[FounderEquityDilution]], [[FundraisingScenarioModeling]], and [[FounderControl]] into governance work rather than administrative cleanup.
+
+[[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] adds [[SamAltman]]'s first-person account of the November 2023 [[OpenAIBoardCrisis]]. The source strengthens the existing OpenAI governance branch by adding concrete mechanics: nonprofit origins, AI-safety disagreements, loss of CEO access, employee revolt, [[Microsoft]] as fallback, board-member continuity, and Altman's later claim that a normal company structure would likely have been healthier if OpenAI had known its product and capital path.
 
 ## Key Claims
 - Standard startup documents often leave purpose broad, which can later be interpreted through [[ShareholderPrimacy]] and investor expectations.
@@ -36,6 +50,13 @@ Startup governance is the operating system of power inside a company: charter la
 - In ecommerce, governance failures can directly affect supplier payment, cash management, listing windows, category expansion, and whether a company can respond to platform or market shocks.
 - In CPG, governance can start before institutional capital: financing choice, advisor design, and board preparation determine how much power a founder keeps when retail growth accelerates.
 - Early-stage governance also includes the written commitments and decision rules that determine who gets hired, who gets fired, and how co-founders resolve responsibility overlap.
+- Nonprofit governance can include explicit funding refusal rules when restricted grants would weaken the organization's ability to learn, operate, or preserve mission focus.
+- Post-acquisition governance can either preserve or weaken startup mechanics depending on whether ownership, equity, hiring, and decision rights fit the company's stage.
+- Crisis governance has to make stakeholder tradeoffs visible and then convert the reset into clearer operating design rather than only smaller budgets.
+- Mission-scope policies are governance choices when they define which conversations and conflicts belong inside the company operating system.
+- Founder-transition governance can shape reputation, legal defense, investor trust, and whether a founder can build again after leaving.
+- Early cap-table and fundraising choices are governance choices because they shape founder motivation, employee equity capacity, investor trust, and board power before a crisis arrives.
+- Mission-sensitive AI governance can fail when board authority, employee power, partner dependence, safety interpretation, and capital needs are not aligned.
 
 ## Connections
 - [[EricRies]] - source of the governance frame.
@@ -53,3 +74,10 @@ Startup governance is the operating system of power inside a company: charter la
 - [[8848]], [[Dangdang]], [[Redbaby]], [[BabyTree]], [[Gome]], and [[EcommercePlatformFailureModes]] - ecommerce cases where formal growth did not prevent control and governance breakdown.
 - [[JajuPierogi]], [[CaseyWhite]], [[JeniBritton]], and [[SustainableGrowthPace]] - CPG case where growth financing is treated as a founder-control decision.
 - [[TracyYoung]], [[RalphGoody]], [[TigerEye]], [[ValuesAsOperationalAsset]], and [[SecondTimeFounderOperatingJudgment]] - startup operating-governance case from The Social Radars.
+- [[NooraHealth]], [[EdithElliott]], [[TrustBasedPhilanthropy]], and [[NonprofitStartupDiscipline]] - nonprofit funding-governance case from The Social Radars.
+- [[Reddit]], [[CondeNast|Conde Nast]], [[SteveHuffman]], [[YishanWang]], [[SamAltman]], and [[CorporateOwnedStartupConstraints]] - acquisition-and-spinout governance case from The Social Radars.
+- [[Airbnb]], [[BrianChesky]], [[KenChenault]], [[CrisisStakeholderLeadership]], and [[FounderLedFunctionalOrganization]] - crisis and refounding governance case from The Social Radars.
+- [[Coinbase]], [[BrianArmstrong]], [[MissionFocusedCompany]], and [[FounderMotivationEvolution]] - mission-scope governance case from The Social Radars.
+- [[ParkerConrad]], [[Zenefits]], [[Rippling]], [[DavidSacks]], and [[FounderReputationRecovery]] - disputed founder-transition and reputation-governance case from The Social Radars.
+- [[YinWu]], [[Pulley]], [[CapTableLiteracy]], [[FounderEquityDilution]], [[FundraisingScenarioModeling]], and [[FounderControl]] - founder equity and board-control governance case from The Social Radars.
+- [[OpenAIBoardCrisis]], [[SamAltman]], [[GregBrockman]], [[IlyaSutskever]], [[AdamDAngelo]], [[EmmettShear]], and [[Microsoft]] - OpenAI crisis account from The Social Radars.

@@ -2,11 +2,13 @@
 title: "Ukraine"
 type: entity
 tags: [country, geopolitics, security]
-sources: [keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]
-last_updated: 2026-07-09
+sources: [tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]
+last_updated: 2026-07-12
 ---
 
 # Ukraine
+
+[[tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128]] adds Ukraine as the conflict context for Russia's use of [[Shahed136]]-style armed drones and decoys. The episode's relevance to Ukraine is mainly defensive and economic: cheap or unarmed systems can force classification, interception, and resource-allocation choices under [[DroneDefenseEconomics]].
 
 Ukraine appears in [[continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e]] as the war context that keeps [[NATO]]'s summit from being only a budget meeting. The episode says NATO wants to recommit support for Ukraine while also managing doubts about [[DonaldTrump]], American reliability, and the possibility that [[Russia]] might test the alliance through limited or ambiguous pressure.
 
@@ -17,6 +19,7 @@ The source's Ukraine thread is operational rather than only diplomatic. [[AntonL
 [[keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b]] adds Ukraine as part of the strategic context for the [[UnitedKingdom]] after [[Brexit]]. The episode argues that the war increases the importance of European defence capacity and gives Britain one plausible area for continued relevance.
 
 ## Connections
+- [[Shahed136]], [[LowCostDroneWarfare]], [[DroneDecoyEconomics]], [[DroneDefenseEconomics]], and [[Russia]] - drone and decoy pressure branch added by Marketplace Tech.
 - [[NATO]] and [[NATOAllianceCredibility]] - alliance support and deterrence context.
 - [[Russia]] and [[RussianHybridPressure]] - adversary and grey-zone pressure context.
 - [[Crimea]], [[VolodymyrZelensky]], and [[WarVisibilityStrategy]] - deep-strike and domestic-visibility extension.

@@ -1,0 +1,20 @@
+---
+title: "New York Times"
+type: entity
+tags: [media, journalism]
+sources: [tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128]
+last_updated: 2026-07-12
+---
+
+# New York Times
+
+[[tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128]] adds the New York Times through [[ErinGriffith]]'s reporting on [[AnswerEngineOptimization]]. In this source, the organization functions as the journalism context for Griffith's explanation of why brands are publishing more dense, factual, machine-readable material so AI chatbots can describe them accurately.
+
+The New York Times enters the wiki through [[MikeIsaac]]'s affiliation in [[tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128]]. In this source, it functions as the reporting context behind Isaac's commentary on [[Meta]]'s AI spending, [[MetaAI|Meta AI]], [[AIAdvertisingTargeting]], [[RayBanSmartGlasses|Ray-Ban smart glasses]], and [[RealityLabs]].
+
+## Connections
+- [[ErinGriffith]] - reporter affiliated with the organization in the Marketplace Tech AEO episode.
+- [[AnswerEngineOptimization]], [[GenerativeEngineOptimization]], and [[AISearchAdvertising]] - AI-search visibility and trust themes Griffith discusses.
+- [[MikeIsaac]] - reporter affiliated with the organization in the Marketplace Tech episode.
+- [[MarketplaceTech]] - show that interviews Isaac.
+- [[Meta]] and [[PersonalSuperintelligence]] - main topic cluster in the source.

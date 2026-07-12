@@ -2,8 +2,8 @@
 title: "Self-Directed Learning"
 type: concept
 tags: [education, learning, ai, agency]
-sources: [167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
-last_updated: 2026-07-09
+sources: [tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
+last_updated: 2026-07-12
 ---
 
 # Self-Directed Learning
@@ -14,12 +14,15 @@ The concept connects [[LearningHowToLearn]] to K12 education. Yang argues that m
 
 AI can support self-directed learning when used through [[AIAsTutor]] and [[LearningExperienceDesign]], but it can also weaken it when students outsource the thinking step. That makes self-directed learning a practical version of [[HumanAgencyUnderAI]]: the student remains responsible for learning even when tools, teachers, and AI make the path easier to enter.
 
+[[tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128]] adds the homework version through [[HeatherSchwartz]] of [[RAND]]. If AI produces the first draft or first solution, the student may never practice the independent synthesis that self-directed learning depends on. [[FirstDraftThinking]] is therefore a practical scaffold: delay AI until the learner has generated a partial answer, question, or confusion.
+
 ## Key Claims
 - Self-directed learning is not innate; it is built through repeated experiences of successful effort.
 - Willingness, ability, tools, and belief have to reinforce each other.
 - Knowledge still matters because it trains reasoning patterns, not only because it supplies facts.
 - AI is useful when it lowers the threshold for thinking and helps a student recover from stuck points.
 - AI is harmful when it turns the learning process into answer retrieval and weakens the student's own confidence and reasoning.
+- AI-free classroom time can train self-direction by making the first attempt visible before AI support enters.
 
 ## Connections
 - [[YangcongXueyuan]] and [[YangLingfeng]] — source company and speaker.
@@ -27,3 +30,4 @@ AI can support self-directed learning when used through [[AIAsTutor]] and [[Lear
 - [[AIAsTutor]] and [[LearningExperienceDesign]] — support structures that can deepen self-directed learning.
 - [[AIShortcutRisk]], [[HumanAgencyUnderAI]], and [[HumanJudgmentUnderAI]] — failure modes and responsibility boundaries.
 - [[WaterFireEducation]] — adjacent agency-centered education frame.
+- [[FirstDraftThinking]], [[HeatherSchwartz]], and [[RAND]] - Marketplace Tech's classroom sequencing branch.

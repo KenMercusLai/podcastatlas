@@ -2,7 +2,7 @@
 title: "Pre-Product Selling"
 type: concept
 tags: [startup, validation, sales, saas]
-sources: [socialradarspod-paulb-final, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun]
+sources: [socialradarsseason2-dimitri-final, socialradarspod-paulb-final, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun]
 last_updated: 2026-07-11
 ---
 
@@ -16,6 +16,8 @@ Pre-product selling is the practice of testing whether customers will commit bef
 
 [[socialradarspod-paulb-final]] adds [[PaulBuchheit]]'s YC advice boundary. PB pushed founders to seek LOIs or other customer sacrifices because verbal encouragement is too easy; pre-product selling is useful when it forces the customer to give up money, time, reputation, switching effort, or some other scarce resource.
 
+[[socialradarsseason2-dimitri-final]] adds the critical-infrastructure version through [[ModernTreasury]]. [[DimitriDadiomov]] remembers an LOI from a company moving billions of dollars per year as meaningful validation, even though it did not immediately become a contract. The source clarifies that in [[TrustHeavyInfrastructureSales]], an LOI can be useful evidence but still sits far from production usage because bank setup, trust, and implementation take months.
+
 ## Key Claims
 - The strongest version asks customers for their top problems before pitching, reducing biased feedback from politeness or founder persuasion.
 - LOIs can show more commitment than verbal interest, but the source treats them as weaker than actual payment.
@@ -27,6 +29,7 @@ Pre-product selling is the practice of testing whether customers will commit bef
 - For OPC-style AI startups, the source treats first-customer validation as more important than registering a company before demand is known.
 - In overseas-market selection, pre-product selling can happen through field visits and buyer conversations before legal setup hardens the plan.
 - The method is strongest when the commitment costs the customer something; otherwise it can become another form of polite validation.
+- For critical infrastructure, LOIs should be read as serious but incomplete validation because trust, bank coordination, and migration work still have to happen before production use.
 
 ## Connections
 - [[PeakAI]], [[MariusMiners]], and [[Antler]] - case where the pattern supported early company formation and funding.
@@ -35,6 +38,7 @@ Pre-product selling is the practice of testing whether customers will commit bef
 - [[OnePersonCompany]] and [[AIEngineeringThinking]] - OPC case where the operator should prove demand before scaling tooling or legal structure.
 - [[PaymentLedMarketSelection]] and [[Win]] - overseas fieldwork case where market choice should be tested through real buyer contact.
 - [[PaulBuchheit]], [[CustomerPull]], and [[OutlierDrivenAngelInvesting]] - Buchheit episode branch where LOIs and other sacrifices improve demand evidence.
+- [[ModernTreasury]], [[DimitriDadiomov]], [[MoneyMovementInfrastructure]], and [[TrustHeavyInfrastructureSales]] - Dadiomov episode branch where a serious LOI preceded a long implementation path.
 - [[CustomerPull]] - demand signal the method tries to detect.
 - [[ProductLedWillingnessToPay]] - stronger payment-based version of commitment.
 - [[FounderEgo]] - risk pattern the method can counter by forcing founders to face customer behavior.

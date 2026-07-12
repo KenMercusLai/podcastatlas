@@ -2,8 +2,8 @@
 title: "Jensen Huang"
 type: entity
 tags: [person, ai, semiconductors, investing]
-sources: [ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]
-last_updated: 2026-07-07
+sources: [tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]
+last_updated: 2026-07-12
 ---
 
 # Jensen Huang
@@ -14,11 +14,14 @@ Jensen Huang appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-
 
 [[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] adds Huang as an ecosystem-learning example. The hosts emphasize his engineering background, attention to research, and early support for academic GPU use to explain why Nvidia's AI positioning looks like deliberate ecosystem construction rather than reactive trend following.
 
+[[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] adds Huang through his public response to reporting that [[Nvidia]]'s planned [[OpenAI]] investment was stalled. The episode says Huang called the report "nonsense" and said Nvidia would still make a huge OpenAI investment, while the segment also frames Nvidia as needing to balance OpenAI against other major AI customers.
+
 ## Source Position
 - The episode does not claim insider selling alone proves a top; it uses the sales as a question investors should place next to valuation, growth expectations, and AI capex ROI.
 - Huang's selling is part of the broader [[AIEquityValuationRisk]] discussion: public markets may react badly if a hot AI stock's quarterly results or guidance fails to match the story.
 - The export-control episode uses Huang mainly as a strategic attitude reference around [[AIExportControls]], not as an investment signal.
 - Vol. 164 uses Huang mainly as an operator-strategy example around AI infrastructure and developer ecosystem formation.
+- The 2026 Marketplace Tech Bytes episode uses Huang as the public face of Nvidia's OpenAI commitment while leaving unresolved how large or strategic the final investment will be.
 
 ## Connections
 - [[Nvidia]] — company context.
@@ -26,3 +29,4 @@ Jensen Huang appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-
 - [[InvestmentRiskManagement]] — investors should not build a full thesis from one signal.
 - [[AIExportControls]] — policy context in the later Keji Luandun source.
 - [[AIInferenceCostStructure]] and [[Nvidia]] — infrastructure context in Vol. 164.
+- [[OpenAI]] and [[StrategicAIInfrastructureDependence]] — investment and counterparty-dependence context added by Marketplace Tech.

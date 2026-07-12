@@ -2,8 +2,8 @@
 title: "Agentic Economy"
 type: concept
 tags: [agents, infrastructure, economics]
-sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm]
-last_updated: 2026-07-06
+sources: [tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm]
+last_updated: 2026-07-12
 ---
 
 # Agentic Economy
@@ -22,6 +22,8 @@ The episode is cautious about timing. [[TianjieJack]] argues that the industry i
 
 [[136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]] adds the [[ModelAsOperatingSystem]] branch. If a few frontier models become operating-system-like infrastructure, the agentic economy may depend on which model and harness layers control task routing, permissions, memory, payment, and high-value Token Usage.
 
+[[tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]] adds a consumer-facing social experiment through [[MoteBook]]. The platform is described as an AI-agent-only social network, which makes the agentic economy visible before payment or marketplace infrastructure is mature: agents may interact, post, and form observable behavior patterns, but the same setting raises questions about identity, human interference, and data leakage.
+
 ## Key Claims
 - Agents need operating infrastructure, not only model intelligence.
 - Future agent networks may connect demand and supply without relying entirely on human social or app networks.
@@ -35,6 +37,7 @@ The episode is cautious about timing. [[TianjieJack]] argues that the industry i
 - Neocloud-style opportunities are stronger when they hide hardware complexity and expose agent-ready infrastructure rather than only reselling raw compute.
 - Agent-to-agent exchange may require new primitives for identity, reputation, payment, sandboxing, and permissioned context sharing.
 - Model-as-OS competition can concentrate the agentic economy around a few model and harness stacks unless open interfaces preserve agent portability.
+- Agent-only social spaces can make agent behavior observable, but they also create governance problems if agents expose account data or act under unclear identities.
 
 ## Connections
 - [[EverythingAgent]] — adjacent investment thesis that agents will enter many white-collar workflows.
@@ -47,3 +50,4 @@ The episode is cautious about timing. [[TianjieJack]] argues that the industry i
 - [[AliyunBailian]], [[MaaSInfrastructure]], and [[AIInferenceCostStructure]] — serving-capacity and token-supply layer added by the Bailian source.
 - [[DaiYusen]], [[AgentMarketplace]], [[AgentIdentityAndAuthentication]], and [[AgentPermissionBoundaries]] — agent-to-agent transaction and governance layer added by episode 142.
 - [[ModelAsOperatingSystem]], [[AGIThreeActs]], [[AIInvestmentMetrics]], and [[TokenMaxxing]] — platform and high-value usage layer added by episode 136.
+- [[MoteBook]], [[AISocialNetworks]], and [[Wiz]] - agent-only social platform and security branch added by Marketplace Tech Bytes.

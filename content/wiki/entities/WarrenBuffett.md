@@ -2,8 +2,8 @@
 title: "Warren Buffett"
 type: entity
 tags: [person, investing]
-sources: [ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]
-last_updated: 2026-07-08
+sources: [tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]
+last_updated: 2026-07-12
 ---
 
 # Warren Buffett
@@ -22,6 +22,8 @@ Warren Buffett appears in [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-pu
 
 [[paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]] adds Buffett as [[ZhuNing]]'s patience and era-redemption reference. The source uses Buffett and [[CharlieMunger]] to illustrate willingness to become rich slowly, the importance of surviving without excessive leverage, and the role of broader beta such as country, education, and long economic growth in investment outcomes.
 
+[[tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2]] adds Buffett to [[Google]]'s early public-company culture. [[RonConway]] says [[SVAngel]] hosted a May 2000 event where Buffett warned many internet companies would fail, and that [[LarryPage]] and [[SergeyBrin]] later drew on Buffett-style annual letters when writing Google's IPO letter.
+
 ## Connections
 - [[JimSimons]] — contrasting investment master in the episode.
 - [[PeterLynch]] — another comparison point for fundamental investing.
@@ -35,3 +37,4 @@ Warren Buffett appears in [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-pu
 - [[OptionSellingDiscipline]] and [[OptionContractMechanics]] — EP90's options example built around willingness to own Coca-Cola at a lower effective price.
 - [[AsymmetricPayoff]] and [[ValueInvesting]] — E43's reading of Buffett-style investing through asymmetry and float.
 - [[ZhuNing]], [[BubbleNecessaryConditions]], and [[PositionSizing]] — 42章经 interview context around slow compounding, survival, and era beta.
+- [[Google]], [[LarryPage]], [[SergeyBrin]], [[RonConway]], and [[SVAngel]] — Silicon Valley event and IPO-letter context added by the Conway Part 3 episode.

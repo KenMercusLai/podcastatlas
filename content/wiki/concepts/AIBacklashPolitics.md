@@ -2,7 +2,7 @@
 title: "AI Backlash Politics"
 type: concept
 tags: [ai, politics, public-opinion]
-sources: [fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
+sources: [tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
 last_updated: 2026-07-09
 ---
 
@@ -12,13 +12,17 @@ AI backlash politics is the pattern where public anxiety about artificial intell
 
 The concept matters because it adds a legitimacy constraint to the wiki's AI synthesis. Earlier pages emphasize [[AICommercializationPressure]], model access, compute, and infrastructure; this source adds the possibility that political resistance can slow or redirect AI deployment even when capability and capital keep advancing.
 
+[[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]] adds a Marketplace Tech policy-news version. [[MariaCurie|Maria Curi]] identifies children, social media, AI chatbots, jobs, elections, and data-center impacts on electricity bills, land, and communities as the technology issues to watch, while the [[USDepartmentOfLabor|U.S. Department of Labor]] AI course shows an official "skill up" response to anxiety.
+
 ## Key Claims
 - AI fear can scramble party lines because different ideological groups can share the same unease while blaming different actors.
 - Regulation can become a campaign issue when voters see AI as a labor, child-safety, mental-health, or inequality threat.
 - Technology firms face not only product-market fit and infrastructure constraints, but also social-license constraints.
 - Redistribution of AI gains may become a mainstream political demand if ownership of AI companies creates concentrated windfalls.
+- Government AI literacy programs can reduce fear while still leaving displacement, safeguards, and infrastructure-cost politics unresolved.
 
 ## Connections
+- [[AIWorkerLiteracy]], [[USDepartmentOfLabor|U.S. Department of Labor]], and [[SocialMediaProductLiability]] - Marketplace Tech policy-news branch around workers, children, and platform accountability.
 - [[UnitedStates]] - country case for the episode's AI politics segment.
 - [[JoshHawley]] - conservative example used by the source.
 - [[DonaldTrump]] - political figure in the source's left-wing critique of AI leaders close to power.

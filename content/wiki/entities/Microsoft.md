@@ -2,8 +2,8 @@
 title: "Microsoft"
 type: entity
 tags: [company, ai, cloud, investing, mobile]
-sources: [ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0]
-last_updated: 2026-07-08
+sources: [tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarspod-garrytan-final, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0]
+last_updated: 2026-07-12
 ---
 
 # Microsoft
@@ -14,11 +14,21 @@ Microsoft appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yan
 
 [[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]] adds Microsoft through the [[OpenAI]] cloud-partnership discussion. The hosts frame the end of OpenAI's exclusive Microsoft dependency as positive for OpenAI and potentially positive for other infrastructure providers, while also showing that frontier AI economics are tied to cloud capacity, API cost, and provider bargaining power.
 
+[[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] adds Microsoft through [[SamAltman]]'s account of the [[OpenAIBoardCrisis]]. After the board appointed [[EmmettShear]], Altman announced he would join Microsoft to work on an AI research project, making Microsoft the immediate fallback path before OpenAI employees pushed for Altman's return.
+
 [[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]] adds Microsoft as a historical example inside [[DepressionDrivenInnovation]]: the episode uses companies founded in uncertain or weak periods to argue that important technology waves often begin before macro optimism is obvious.
 
 [[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]] adds Microsoft to the [[AIBubbleHedging]] cluster. The episode groups Microsoft with [[Alphabet]], [[Amazon]], and [[Meta]] in a planned $660bn AI-spending figure and uses that scale to ask whether AI capex will convert into sufficient returns.
 
 [[e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0]] adds Microsoft as an organization-transformation case through [[WeiQing]]. The episode frames Microsoft's cloud and culture turn as a [[SilentProtagonist]] story: later visible results depended on earlier internet-service, cloud, meeting-process, and learning-culture changes. It also treats Copilot-style AI adoption as behavioral transformation, where employee usage and workflow change matter more than slogans.
+
+[[socialradarspod-garrytan-final]] adds [[GarryTan]]'s early-career Microsoft account. Tan worked on Windows Mobile after college and describes the environment as demoralizing despite the salary, because stack ranking, internal fiefdoms, and thin resources made important consumer scenarios hard to move. The source extends [[LargeCompanyOrganizationalInertia]] from strategy and AI adoption into the career-level trap where comfort, spending habits, and bureaucracy can slow a builder who wants to start a company.
+
+[[tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final]] adds Microsoft through [[AltosComputer]]'s Zenix relationship. [[RonConway]] says Altos sold applications around Microsoft's Unix shell and once took a floppy disk to Microsoft for an urgent bug fix, making Microsoft part of the early microcomputer software ecosystem that preceded the PC wave Altos failed to meet.
+
+[[tsr-s3-yinwu-v2-tsr-s3-yinwu-v2]] adds Microsoft through [[EchoLocker]], [[YinWu]]'s lock-screen notification and priority-inbox product. The product was acquired by Microsoft after Yin's team restarted from [[Prim]] and went through [[YCombinator]] again in Summer 2013, making Microsoft part of her pre-[[Pulley]] founder-learning arc.
+
+[[tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5]] adds Microsoft as one of the platform incumbents tightening pressure on [[Dropbox]] through OneDrive and broader productivity-suite distribution. In [[DrewHouston]]'s account, Microsoft is part of the slow competitive squeeze that made Dropbox narrow its strategy around productivity and work use cases.
 
 ## Connections
 - [[Nvidia]] — supplier discussed through GPU and AI infrastructure demand.
@@ -29,3 +39,8 @@ Microsoft appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yan
 - [[DepressionDrivenInnovation]] and [[KondratievCycle]] — E162's long-cycle innovation context.
 - [[Alphabet]], [[Amazon]], [[Meta]], [[AIBubbleHedging]], and [[AIEquityValuationRisk]] — hyperscaler capex and valuation-risk context added by The Intelligence episode.
 - [[WeiQing]], [[SilentProtagonist]], and [[AIOrganizationDesign]] — organization-transformation and AI-adoption context added by the Wuren Zhixiao episode.
+- [[GarryTan]], [[YCombinator]], and [[LargeCompanyOrganizationalInertia]] — early-career builder contrast added by The Social Radars.
+- [[AltosComputer]], [[RonConway]], and [[SelfDisruptionDiscipline]] — early microcomputer software context added by the Conway episode.
+- [[YinWu]], [[EchoLocker]], [[Prim]], [[Pulley]], and [[SecondTimeFounderOperatingJudgment]] — mobile acquisition and repeat-founder context added by the Yin Wu episode.
+- [[OpenAI]], [[SamAltman]], [[EmmettShear]], and [[OpenAIBoardCrisis]] - crisis fallback context added by The Social Radars.
+- [[Dropbox]], [[DrewHouston]], [[IncumbentPlatformPressure]], and [[StrategicFocusUnderIncumbentPressure]] - file-sync and productivity-suite pressure added by The Social Radars.

@@ -2,7 +2,7 @@
 title: "Customer Discovery By Doing Work"
 type: concept
 tags: [startup, customer-discovery, operations]
-sources: [socialradarspod-tonyxu-final]
+sources: [tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-tonyxu-final]
 last_updated: 2026-07-11
 ---
 
@@ -12,15 +12,31 @@ Customer discovery by doing work is the pattern where founders learn by helping 
 
 The pattern matters because it exposed a delivery problem that a survey could easily miss. A macaron shop could sell more if it handled delivery, but logistics were outside the merchant's craft and capacity. That insight led from [[StanfordStartupGarage]] into [[PaloAltoDelivery]] and then DoorDash.
 
+[[socialradarspod-brianchesky-final]] adds a host-supply version through [[Airbnb]]. [[BrianChesky]] says he and [[JoeGebbia]] went to New York, visited hosts, noticed that homes were often better than their photos, and helped improve listings through photography. The founders were not only interviewing hosts; they were doing part of the work needed to make the marketplace trustworthy and bookable.
+
+[[socialradarspod-brianchesky2-final]] adds more operational detail to the same pattern. Airbnb's founders manually carried checks, handled payments before automation, helped with pricing, and built host supply city by city. The work revealed which pieces of the marketplace were operational bottlenecks and which should become product features later.
+
+[[tsr-s2-adoracheung-v5]] adds the home-services version through [[AdoraCheung]] and [[Homejoy]]. Cheung cleaned houses herself and also took cleaning jobs to learn the tools, chemicals, sequencing, pair-work, and reliability requirements behind the service. The source shows that doing the work can reveal supply quality requirements, but it also warns that field learning has to become [[ServiceMarketplaceQualityControl]] before expansion.
+
+[[tsr-s3-yinwu-v2-tsr-s3-yinwu-v2]] adds [[Prim]] as another service-work case. [[YinWu]] personally picked up, washed, folded, and delivered laundry for the first three months, which exposed the operational reality behind a same-day laundry promise. The episode's twist is that doing the work helped Yin learn the market but also helped her see that she lacked long-term [[FounderUserObsession]] for laundry operations.
+
 ## Key Claims
 - Doing work can earn trust before the founder has a product to pitch.
 - Operational participation reveals hidden constraints, vocabulary, and tradeoffs that customers may not articulate in a formal interview.
 - The method is especially useful when the buyer's problem involves physical work, staffing, logistics, or workflow interruptions.
 - Field work should still become a testable product hypothesis; in this source it led to [[JankyMVP]] testing and [[ThreeSidedMarketplaceValidation]].
 - The pattern strengthens [[FounderProductFit]] when founders discover whether they are willing to keep engaging with the unglamorous parts of the market.
+- The same pattern can apply to marketplace supply quality: doing work for suppliers can reveal why demand is blocked even when the underlying offering is good.
+- Payment, pricing, and presentation work can be discovery surfaces because they show where a transaction still depends on founder intervention.
+- Doing the service personally can reveal quality-control requirements that interviews and marketplace dashboards would miss.
+- Doing the work can also reveal a founder-fit problem: direct operational learning may show that the founder does not want to build in that domain for years.
 
 ## Connections
 - [[TonyXu]], [[DoorDash]], [[PaloAltoDelivery]], and [[StanfordStartupGarage]] - source case.
 - [[JankyMVP]] and [[ThreeSidedMarketplaceValidation]] - next validation steps.
 - [[FounderProximity]] - scaled version of staying close to customers, merchants, and dashers.
 - [[CustomerPull]], [[FastProductValidation]], and [[ValidatedLearning]] - adjacent startup-learning concepts.
+- [[BrianChesky]], [[JoeGebbia]], [[Airbnb]], [[PeerToPeerMarketplaceTrust]], and [[DesignForOnePerson]] - host-fieldwork case added by the Chesky episode.
+- [[UnscalableFounderWork]] - second Chesky episode's explicit frame for manual work before scalable systems.
+- [[AdoraCheung]], [[Homejoy]], and [[ServiceMarketplaceQualityControl]] - home-services marketplace case added by the Adora Cheung episode.
+- [[YinWu]], [[Prim]], [[FounderProductFit]], and [[FounderUserObsession]] - laundry-service case added by the Yin Wu episode.

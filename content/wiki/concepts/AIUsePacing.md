@@ -2,8 +2,8 @@
 title: "AI Use Pacing"
 type: concept
 tags: [ai, pacing, productivity, life-design]
-sources: [1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
-last_updated: 2026-07-09
+sources: [tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
+last_updated: 2026-07-12
 ---
 
 # AI Use Pacing
@@ -22,6 +22,8 @@ The concept extends [[WorkplacePacing]] into the agent era. The issue is no long
 
 [[167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]] adds the student-learning version. [[AIShortcutRisk]] is a pacing problem inside education: the learner has to use AI help slowly enough to think, recall, compare, and recover from mistakes rather than optimizing for the shortest path to an answer.
 
+[[tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128]] sharpens the timing rule through [[FirstDraftThinking]]. [[HeatherSchwartz]] argues that students should often delay AI until after they have made an initial draft or solution attempt, because the timing of help can decide whether AI supports learning or replaces it.
+
 ## Key Claims
 
 - AI can convert anxiety into activity: installing tools, trying models, and consuming tokens may feel like progress even without a clear purpose.
@@ -37,6 +39,7 @@ The concept extends [[WorkplacePacing]] into the agent era. The issue is no long
 - Pacing can mean separating exploration, execution, review, and publication windows so the human does not remain in a constant partial-attention state.
 - Pacing also means leaving the AI flow state often enough to maintain sleep, meals, body movement, and real human connection.
 - In learning, pacing means preserving enough cognitive friction for understanding while using AI to prevent discouraging failure loops.
+- In schoolwork, pacing can mean an explicit no-AI first pass before students use AI explanations or revisions.
 
 ## Connections
 
@@ -51,3 +54,4 @@ The concept extends [[WorkplacePacing]] into the agent era. The issue is no long
 - [[YuYi]], [[CangShifu]], [[HumanAgentCollaboration]], and [[OnePersonCompany]] — S10E18's solo-operator and parallel-agent pacing case.
 - [[LiJigang]], [[AIAsTimeCompression]], [[FeedCuration]], and [[WetStateHumanAgency]] — E45's high-flow AI use and body-protection case.
 - [[AIShortcutRisk]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] — education case where AI speed can undermine learning.
+- [[FirstDraftThinking]], [[HeatherSchwartz]], and [[RAND]] - homework timing boundary added by Marketplace Tech.

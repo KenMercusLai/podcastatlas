@@ -2,8 +2,8 @@
 title: "European Union"
 type: entity
 tags: [institution, europe, politics]
-sources: [keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
-last_updated: 2026-07-09
+sources: [tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
+last_updated: 2026-07-12
 ---
 
 # European Union
@@ -13,6 +13,8 @@ The European Union appears in [[biancheng-de-neiranji-shidai-neihe-konghuang-71-
 [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1]] adds the EU as a regional AI-availability example. The hosts mention that some Apple AI features are unavailable to European users, using that constraint alongside China access limits to argue that globally uniform software availability is weakening.
 
 [[264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]] adds the EU through GDPR and [[ApplePrivacy]]. The episode treats [[TimCook]]'s Brussels speech after GDPR as unusual because a U.S. technology CEO publicly praised European privacy regulation and criticized data-driven advertising practices.
+
+[[tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]] adds the EU through the [[EuropeanCommission]] investigation of [[Google]] and publisher content in [[GoogleAIOverviews|Google AI Overviews]]. This source extends the EU page from privacy and feature-availability questions into [[PlatformAntitrust]] around AI-search attribution and publisher traffic.
 
 [[keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b]] adds the EU as the institution the [[UnitedKingdom]] left through [[Brexit]]. The episode's EU frame is double-edged: leaving created some room for [[BrexitRegulatoryDividend]], but also produced [[BrexitEconomicFriction]] because exporters, importers, investors, finance, professional qualifications, and EU-facing AI firms still have to navigate the European market.
 
@@ -24,6 +26,7 @@ The European Union appears in [[biancheng-de-neiranji-shidai-neihe-konghuang-71-
 - The source connects EU fragmentation to [[EuropeanAIIndustrialConstraints]], where regulation, market size, capital appetite, and product localization costs shape startup conditions.
 - The Keji Luandun export-control source uses EU feature restrictions as part of a broader [[FrontierModelAccessRestrictions]] and regional-compliance frame.
 - The Cook episode uses GDPR as a regulatory backdrop for Apple's privacy positioning against the data-industrial complex.
+- The Marketplace Tech AI Overview episode uses the [[EuropeanCommission]] as the regulator testing whether AI-search source use and publisher traffic effects raise competition concerns.
 - The Brexit source uses EU exit to show that regulatory sovereignty can create room for experimentation while also adding trade and compliance barriers.
 - The Fear-jerker source treats Europe as an uneven but improving energy system where cooling access can become a health adaptation rather than only a moralized consumption choice.
 
@@ -34,5 +37,6 @@ The European Union appears in [[biancheng-de-neiranji-shidai-neihe-konghuang-71-
 - [[FrontierModelScaling]] and [[AICommercializationPressure]] - AI competition context against U.S. and Chinese model companies.
 - [[Apple]], [[FrontierModelAccessRestrictions]], and [[SaaSReliabilityUnderPolicyRisk]] - regional AI availability context added by the Keji Luandun export-control episode.
 - [[ApplePrivacy]], [[TimCook]], and [[PlatformDataRegulation]] - GDPR and privacy-regulation context added by the Cook episode.
+- [[EuropeanCommission]], [[Google]], [[GoogleAIOverviews|Google AI Overviews]], [[AIAnswerSourceAttribution]], and [[PlatformAntitrust]] - AI-search competition context added by Marketplace Tech.
 - [[Brexit]], [[UnitedKingdom]], [[BrexitEconomicFriction]], and [[BrexitRegulatoryDividend]] - post-exit trade and policy-freedom context.
 - [[CoolingAsPublicHealth]] and [[ClimateAdaptation]] - heat, electricity, and public-health branch added by The Intelligence.

@@ -6,6 +6,76 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bytes: Week in Review - Meta, YouTube's social media addiction case, a new AI literacy course, and Kalshi's prediction market self-regulation](sources/tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Stephanie Hughes and Maria Curi of Axios on social-media product liability, the Department of Labor's text-message AI literacy course, and Kalshi guardrails for political and sports-linked prediction markets.
+- [The tech transforming Baltimore's Francis Scott Key Bridge](sources/tech-20260326-0326-mp-tech-pod-128-tech-20260326-0326-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Jim Harkness on rebuilding Baltimore's Francis Scott Key Bridge with structural health monitoring, higher and longer cable-stayed design, heavier port-load capacity, and real-time or near-real-time maintenance data.
+- [Why digital archiving is more than "store and ignore"](sources/tech-20260325-0325-mp-tech-pod-128-tech-20260325-0325-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Linda Todich on cloud files' physical roots, LTO and backup-system obsolescence, active migration, and Digital Bedrock's recovery of WIPR recordings for the American Archive of Public Broadcasting.
+- [U.S. regulators eye rules for prediction markets](sources/tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128.md) — Marketplace Tech episode on prediction markets facing gambling-like integrity risks, the Jontay Porter NBA betting scandal, sportsbook monitoring, CFTC rulemaking, conflict-market insider information, and the legal tension around looking like sports betting.
+- [What do students lose when they rely on AI for homework?](sources/tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Heather Schwartz of RAND on student AI homework use, critical-thinking worries, first draft thinking, classroom AI-free time, and sequencing AI after the student's first attempt.
+- [Bytes: Week in Review - Gecko's $71M contract with U.S. Navy, BuzzFeed doubts its business viability, and Amazon offers faster delivery](sources/tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Stephanie Hughes and Anita Ramaswamy of The Information on Gecko Robotics' Navy contract, defense startup procurement, BuzzFeed's going-concern warning and AI apps, and Amazon's one-hour and three-hour delivery push against Walmart.
+- [How low-cost drones are used in modern military strikes](sources/tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Stacey Pettijohn of CNAS on Shahed-style low-cost drones, the U.S. Lucas drone, commercial component supply chains, counter-drone defense, jamming, decoys, and the cost mismatch between cheap attacks and expensive interceptors.
+- [The ethics of using AI to immortalize the dead](sources/tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Tomas Holoneck on AI grief bots, post-mortem avatars, consent after death, privacy, psychological effects on survivors, digital memorialization, and public-interest governance.
+- [AI-powered workplace tools keep tabs on employees](sources/tech-20260317-0317-mp-tech-pod-128-tech-20260317-0317-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Josh Bersin on AI meeting recorders, email analysis, Galileo, workplace digital twins, productivity gains, memory/attention effects, and transparency boundaries for employee monitoring.
+- [How confident are crypto consumers?](sources/tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Dave Reibstein of Wharton on the Consumer Cryptocurrency Confidence Index, crypto sentiment as a possible price signal, regional and age differences in optimism, and crypto being held mostly as investment rather than used as payment.
+- [Bytes: Week in Review - Amazon and AI, YouTube tops the media market and Meta buys an AI-only social network](sources/tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Stephanie Hughes and Jewel Burke Solomon on Amazon AI guardrails, YouTube's media dominance, Meta's MoteBook acquisition, AI talent competition, and vibe-coded products.
+- [Why Bitcoin falls short as a safe haven in geopolitical turmoil](sources/tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Gil Luria on Bitcoin's weak immediate safe-haven behavior versus gold, the digital-gold narrative, inflation and dollar-weakness hedging, 24/7 liquidity, and cross-border crypto capital flight from Iran or China.
+- [An Ohio newspaper gives AI a byline](sources/tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Willa Remus on the Plain Dealer's AI rewrite desk, AI-written local articles, newsroom survival arguments, staff unease, reader trust, and AI as a reporting aid versus writing substitute.
+- [What do Girl Scouts get out of selling cookies online?](sources/tech-20260310-0310-mp-tech-pod-128-tech-20260310-0310-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Wendy Liu on Girl Scout cookie sales moving online through sites, QR codes, email, social sharing, digital checkout, youth entrepreneurship, digital commerce literacy, and child online commerce safety.
+- [California's one-stop shop for data brokers to delete consumers' data](sources/tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Nicole Turner-Lee on California's DROP platform, the California Delete Act, consumer data deletion, data-broker limits, AI-enabled spam, and why state privacy tools remain incomplete without broader privacy rules.
+- [Bytes: Week in Review - Prediction markets reel amid Iran conflict, defense contractors to drop Anthropic, and Meta's AI deal with News Corp](sources/tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Stephanie Hughes and Paresh Dave on Kalshi and Polymarket prediction-market ethics, Anthropic as a defense AI supply-chain risk, and Meta's News Corp licensing deal.
+- [Iran's cyberwar on American banks](sources/tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Rafe Pilling of Sophos on Iran-linked cyber threats, the 2011-2013 DDoS attacks on U.S. banks, newer data theft and leak operations, industrial-control attacks, and why health care and sensitive-data holders may be more exposed than banks.
+- [Brands are racing to show up in AI search](sources/tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Erin Griffith on answer engine optimization, dense factual content for chatbot discovery, AI-generated marketing fluff, Reddit and review reputation risk, and paid AI-search placement trust concerns.
+- [Digital archiving and the global memory shortage](sources/tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Linda Todich on AI data-center demand, memory-chip and hard-drive shortages, Digital Bedrock's archive work, hyperscaler dependence, and practical personal digital preservation.
+- [How government uses "surveillance as a service" to collect data](sources/tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Jeremy Scott on DHS access to private-sector data, administrative subpoenas, data brokers, Flock Safety, the third-party doctrine, and Fourth Amendment reform.
+- [Bytes: Week in Review - Anthropic and the Pentagon face off, OpenAI teams up with consulting firms and Mac Mini moves to the U.S.](sources/tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128.md) — Marketplace Tech Bytes episode on Pentagon pressure for Claude access, Anthropic's use-policy red lines, OpenAI Frontier and consulting-led enterprise AI adoption, and Apple's U.S. Mac Mini manufacturing plan.
+- [Physical media's comeback](sources/tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128.md) — Marketplace Tech episode on DVDs, Blu-rays, and VHS having a renewed moment through subscription fatigue, Vidiots' nonprofit video-store model, LunchMeet VHS reprints, collector demand, and analog media preservation.
+- [AI Meets the Search for a BA](sources/tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128.md) — Marketplace Tech episode on students using AI for college search, campus vibe, acceptances, scholarships, and hidden-gem discovery while colleges optimize their AI visibility and fight outdated or ranker-heavy answers.
+- [Here's how to prep for a job interview with AI](sources/tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Ray Smith on AI job interviews, recorded candidate answers, automated assessments, camera-facing preparation, and the need to keep human judgment in hiring decisions.
+- [AI makes it easier to code websites - including ones that scam consumers](sources/tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Megan McCarty-Corino on AI-assisted scam websites, a fake Davines sponsored search result, brand impersonation, search-ad trust, and cybersecurity monitoring by Netcraft, Coalfire, and Silent Push.
+- [Bytes: Week in Review - Google to make links more prominent, Palantir moves to Florida and Ring reportedly had plans to use Search Party for more than finding lost dogs](sources/tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Stephanie Hughes and Anita Ramaswamy on Google AI Overviews source links and publisher traffic, Palantir's move to Miami, South Florida tech migration, Ring Search Party, Flock Safety backlash, and consumer camera surveillance.
+- [Meta's big bet on superintelligence](sources/tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Mike Isaac on Meta's AI capex, ad-targeting payoff, Meta AI's consumer-adoption gap, Ray-Ban smart glasses, personal superintelligence, privacy tension, and AI overtaking VR inside Meta's priorities.
+- [Can software companies survive the AI boom?](sources/tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Daniel Newman on AI pressure against SaaS, the gap between vibe-coded prototypes and enterprise systems, proprietary data behind firewalls, project-management software risk, agent-heavy workplaces, consumption/outcome pricing, and SaaS consolidation.
+- [Fewer students are enrolling in computer science classes and majors](sources/tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Carrie George on declining U.S. computer and information science enrollment, uneven demand across computing subfields, AI and labor-market anxiety, international-student declines, and research-pipeline risk.
+- [High-tech data centers get a powerful assist from a century-old company](sources/tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128.md) — Marketplace Tech episode on Caterpillar's natural gas generators becoming primary power for some AI data centers as grid interconnection delays push developers toward onsite electricity generation.
+- [Bytes: Week in Review - Alphabet takes on debt to pay for AI projects, the social network where humans aren't allowed, and Spotify reports record user growth](sources/tech-20260213-tech-pod-128-tech-20260213-tech-pod-128.md) — Marketplace Tech Bytes episode with Stephanie Hughes and Jewel Burke Solomon on Alphabet's long-term AI infrastructure debt, MoteBook as an agent-only social network with security concerns, and Spotify's user growth through Wrapped and AI playlist curation.
+- [Crypto's big growth on the books and in the shadows](sources/tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Ari Redbord of TRM Labs on illicit crypto activity, stablecoin sanctions evasion, A7A5, North Korea exchange attacks, pig-butchering and work-from-home scams, and AI-enabled scam industrialization.
+- [Is the moon (and its resources) up for grabs?](sources/tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128.md) — Marketplace Tech episode with Sadia Pekkanen on Artemis 2, lunar resources, space law, the Artemis Accords, China and Russia as non-signatories, safety zones, and why stable lunar energy may be the real long-term competition.
+- [TPU? GPU? What's the difference between these two chips used for AI?](sources/tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128.md) — Marketplace Tech episode with Christopher Miller on GPUs, Google TPUs, AI-chip specialization, training versus inference, edge NPUs, and why software ecosystems and R&D scale protect incumbents like Nvidia and Google.
+- [New study reveals a "smartphone penalty" that distorts survey results](sources/tech-20260209-0209-mp-tech-pod-128-tech-20260209-0209-mp-tech-pod-128.md) — Marketplace Tech episode with Carly Urban on smartphone survey penalty, FINRA Foundation financial-knowledge trends, randomized device assignment in the Understanding America Study, survey fatigue, representativeness tradeoffs, and AI/chatbot risks for knowledge measurement.
+- [Bytes: Week in Review - SpaceX and xAI merge, Nvidia and OpenAI's funding relationship and U.S. TikTok's rough start](sources/tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Paresh Dave on SpaceX buying xAI, Nvidia and OpenAI's stalled $100 billion investment relationship, and U.S. TikTok's ownership transition, Oracle-backed outages, and terms-of-service changes.
+- [Founder Mode: Paul Gross, Founder & CEO of Remora Carbon](sources/tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly.md) — The Social Radars YC offsite episode with Paul Gross on Remora Carbon, mobile carbon capture for trucks and locomotives, beverage-grade CO2, YC Winter 2021 prototyping, risk-focused founder mode, and climate hardware commercialization.
+- [Founder Mode: Chris Best, Founder & CEO, Substack](sources/tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov.md) — The Social Radars YC offsite episode with Chris Best on Substack, paid newsletter infrastructure, Bill Bishop and Sinocism, creator-owned audiences, Substack Notes, platform dependency on Twitter, Elon Musk's objection, and founder mode as long-term media-network conviction.
+- [Founder Mode: Jake Heller, Founder & CEO, Casetext](sources/tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final.md) — The Social Radars YC offsite episode with Jake Heller on Casetext, early GPT-4 access, legal-AI workflow testing, a full-company pivot into Co-Counsel, board and employee persuasion, Thomson Reuters acquisition, and founder mode under a model inflection.
+- [Founder Mode: Paul Graham, Founder, Y Combinator](sources/tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final.md) — The Social Radars YC offsite episode with Paul Graham on founder mode as an unfinished map, Brian Chesky's talk, micromanagement versus collaboration, vibe coding, Replit's prompt-as-source-code framing, Stoke, and young-founder credibility.
+- [Founder Mode: Garry Tan, President & CEO, Y Combinator](sources/tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final.md) — The Social Radars YC offsite episode with Garry Tan on founder mode, AI-era small-team economics, YC's ambition, Posterous delegation lessons, founder accountability, and empowerment rather than absentee autonomy.
+- [Founder Mode: Brian Chesky, Founder & CEO, Airbnb](sources/tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final.md) — The Social Radars YC offsite episode with Brian Chesky on founder mode, Airbnb's pandemic refounding, professional-manager drift, skip-level relationships, founder presence, and AI-era speed.
+- [Ron Conway on Napster, Founder Relationships, and SV Angel's Crisis Work](sources/tsr-ronconway-part4-v2-tsr-ronconway-part4-v2.md) — The Social Radars bonus episode with Ron Conway on Napster, Sean Fanning, Sean Parker, Hummer Winblad, Bertelsmann, Snowcap, Plaxo, GitHub, music-industry conflict, employee severance, and SV Angel's founder-crisis work.
+- [Ron Conway on Google's Early History and SV Angel's Role](sources/tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2.md) — The Social Radars episode with Ron Conway on Google, Backrub, PageRank, Stanford sourcing, Larry Page and Sergey Brin, early angels, Kleiner/Sequoia financing, AOL/Yahoo distribution, AdWords, Gmail politics, YouTube, Napster, and Susan Wojcicki.
+- [Drew Houston on Dropbox: Origin, Survival, and Reinvention](sources/tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5.md) — The Social Radars episode with Drew Houston on Dropbox's forgotten-thumb-drive origin, YC entry, Arash Ferdowsi, sync reliability, viral distribution, Sequoia seed funding, Apple/Google/Microsoft pressure, productivity focus, founder psychology, public-company control, and Dropbox Dash.
+- [Sam Altman on YC, OpenAI, and the Meaning of Formidable](sources/tsr-s4-samaltman-v4-tsr-s4-samaltman-v4.md) — The Social Radars episode with Sam Altman on Looped, YC's first batch, founder risk calibration, YC presidency, OpenAI's nonprofit origins, the language-model scaling bet, ChatGPT search, and the November 2023 OpenAI board crisis.
+- [Eric Migicovsky on Pebble, Kickstarter, and Building for Yourself](sources/tsr-s4-ericm-v2-tsr-s4-ericm-v2.md) — The Social Radars episode with Eric Migicovsky on Pebble's personal-problem origin, BlackBerry-era Impulse, Kickstarter breakout, Shenzhen manufacturing, inventory and venture-debt mistakes, product-vision drift, and Beeper as another build-for-yourself product.
+- [Alexandr Wang on Scale and AI Data Infrastructure](sources/tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3.md) — The Social Radars episode with Alexandr Wang on Scale AI's YC pivot, image and text labeling, autonomous-vehicle data, defense work, generative AI resource shift, MEI culture stance, and agent data.
+- [Harj Taggar on Y Combinator, Triplebyte, and Hiring Judgment](sources/tsr-s4-harj-v3-tsr-s4-harj-v3.md) — The Social Radars episode with Harj Taggar on BoSo, Automatic Auctions, early YC legitimacy, investor relationships, Yuri Milner's batch-wide funding offer, Triplebyte's engineering-hiring tests, James Damore, and Harj's return to YC.
+- [Eddy Lu on GOAT, Grub With Us, and Marketplace Friction](sources/tsr-s3-eddylu-v2-tsr-s3-eddylu-v2.md) — The Social Radars episode with Eddy Lu on failed early businesses, cream puff stores, Grub With Us, marketplace friction, GOAT's sneaker authentication, Black Friday product-market-fit overload, category focus, GOAT Clean, and founder scrappiness.
+- [David Rusenko on Weebly, Capital Efficiency, and Climate Tech](sources/tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1.md) — The Social Radars episode with David Rusenko on Weebly's Penn State and YC origin, slow product-market fit, capital-efficient survival through 2008, Square acquisition, founder delegation, and Leap Forward's economic climate-tech thesis.
+- [Yin Wu on Pulley, Equity, and Founder Resilience](sources/tsr-s3-yinwu-v2-tsr-s3-yinwu-v2.md) — The Social Radars episode with Yin Wu on Startup School, repeated YC batches, Prim, Echo Locker, Pulley, cap table literacy, fundraising modeling, founder equity dilution, trust-sensitive SaaS switching, female-founder fundraising advice, and founder resilience.
+- [Ron Conway on National Semiconductor, Altos, and Early Angel Investing](sources/tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final.md) — The Social Radars episode with Ron Conway on National Semiconductor, customer relationships, equity, Altos Computer's microcomputer rise and PC-wave miss, Sequoia, Band of Angels, and his shift from operator to founder-helper investor.
+- [Kyle Vogt on Justin.tv, Twitch, Cruise, and Choosing Hard Problems](sources/tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final.md) — The Social Radars episode with Kyle Vogt on Justin.tv's live-streaming backpack, Twitch's gaming pivot, Cruise's self-driving MVP, hard-tech fundraising, robotaxi economics, safety benchmarking, and the General Motors acquisition.
+- [Yuri Sagalov on AeroFS, YC, Angel Investing, and Wayfinder Ventures](sources/tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final.md) — The Social Radars episode with Yuri Sagalov on AeroFS's enterprise file-sync opportunity, peer-to-peer synchronization risk, the Redbooth merger, YC, angel investing, founder-led sales, investor reference checking, and Wayfinder Ventures.
+- [The Social Radars Season 2 Wrap-Up and Season 3 Announcement](sources/tsr-s2-wrapup-v1.md) — Short Social Radars update where Jessica Livingston and Carolyn Levy close Season 2, highlight Emmett Shear, Parker Conrad, and Brian Chesky moments, thank a large listener audience, preview Season 3, and plan more YouTube clips.
+- [Adora Cheung on Homejoy, YC, Vote-by-Mail, and Instalab](sources/tsr-s2-adoracheung-v5.md) — The Social Radars episode with Adora Cheung on PathJoy, Homejoy's over-scaling and price-war failure, YC partner lessons, Startup School's open-access turn, vote-by-mail funnel work, and Instalab's founder-health and at-home testing thesis.
+- [Parker Conrad on Zenefits, Rippling, and Building Through Crisis](sources/socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8.md) — The Social Radars episode with Parker Conrad on Zenefits' public collapse, regulatory and media disputes, manual operations debt, Rippling's employee graph, compound startup strategy, founder dogfooding, and B2B AI context.
+- [Emmett Shear on YC, Kiko, Justin.tv, Twitch, and Founder Resilience](sources/socialradarspod-emmettshear-v2.md) — The Social Radars episode with Emmett Shear on YC's first batch, Kiko, Justin.tv, Twitch, the 2008 runway crisis, Twitch fundraising rejections, Amazon's acquisition model, and returning to YC as a partner.
+- [Patrick and John Collison on Stripe's Origins, Developer Products, and Long-Term Ambition](sources/socialradarss2-stripe-v2.md) — The Social Radars episode with Stripe's co-founders on teenage programming, early YC ties, web-payment friction, App Store monetization contrast, `/dev/payments`, API product design, and long-term company execution.
+- [Bill Clerico on WePay, YC, and Fire Tech](sources/socialradarss2-billclerico-final.md) — The Social Radars episode with Bill Clerico on WePay's YC Summer 2009 origin, group-payments-to-API pivot, early bank friction, fraud losses, JPMorgan Chase acquisition, and Convective Capital's fire-tech thesis.
+- [Dimitri Dadiomov on Modern Treasury and Financial Plumbing](sources/socialradarsseason2-dimitri-final.md) — The Social Radars episode with Dimitri Dadiomov on Modern Treasury's origin at LendingHome, money-movement infrastructure, trust-heavy infrastructure sales, SVB crisis response, financial-operations resilience, accelerated bank runs, and FedNow.
+- [Brian Armstrong on Coinbase's Origin, Crypto Regulation, FTX, and Founder Resilience](sources/socialradarspod-brianarmstrong-final.md) — The Social Radars episode with Brian Armstrong on Coinbase's YC origin, the wallet-to-buy-button pivot, crypto compliance, SEC conflict, FTX, mission-focused company culture, fraud controls, and founder motivation.
+- [Airbnb Part Two: Brian Chesky on YC Discipline, COVID, and Staying Founder-Led](sources/socialradarspod-brianchesky2-final.md) — The Social Radars episode with Brian Chesky on Airbnb's YC discipline, New York host fieldwork, market expansion, COVID crisis, stakeholder tradeoffs, emergency financing, layoffs, and founder-led functional reset.
+- [Social Radars Season 1 Wrap-Up and Season 2 Announcement](sources/socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final.md) — Short Social Radars update where Jessica Livingston and Carolyn Levy close Season 1, explain that seven planned episodes became nine, announce a roughly month-long recording break before Season 2, and preview selected video highlights on YouTube and Twitter.
+- [Edith Elliott on Noora Health, Caregivers, and Trust-Based Philanthropy](sources/socialradars-edithelliot-v3.md) — The Social Radars episode with Edith Elliott on Noora Health, family caregiver training, YC's nonprofit track, nonprofit startup discipline, unrestricted funding, donor trust, and the Care Companion Program.
+- [Paul Graham on Viaweb, Y Combinator, and Writing](sources/socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll.md) — The Social Radars episode with Paul Graham on Viaweb's browser-software origin, Julian Weber's early investment, Y Combinator's first batch, Hacker News, and Graham's shift from painting back to writing.
+- [Brian Chesky on Airbnb's Origins, YC, and Reconnecting People](sources/socialradarspod-brianchesky-final.md) — The Social Radars episode with Brian Chesky on Airbnb's air-bed origin, marketplace trust design, Joe Gebbia, Nate Blecharczyk, Michael Seibel, YC, cereal-box survival, New York host fieldwork, and the mission to reconnect people.
+- [Steve Huffman on Reddit's Origin Story, Sale, and Return](sources/socialradarspod-stevehuffman-final.md) — The Social Radars episode with Steve Huffman on Reddit's YC pivot, Digg competition, Conde Nast sale, Infogami/Aaron Swartz strain, Hipmunk, and his 2015 return during a platform community crisis.
+- [Garry Tan on Returning to Y Combinator](sources/socialradarspod-garrytan-final.md) — The Social Radars episode with Garry Tan on Startup School, Stanford, Microsoft, Palantir, Posterous, YC, Bookface, Initialized Capital, founder honesty, co-founder conflict, and builder-centered institutions.
 - [David Lieb on Bump, Google Photos, and Returning to YC](sources/socialradarspod-davidlieb-final.md) — The Social Radars episode with David Lieb on Bump's low-frequency business-model problem, power-user photo-sharing discovery, Flock, Google Photos, Google Plus conflict, large-company risk incentives, and returning to YC.
 - [Paul Buchheit on Gmail, Google, FriendFeed, and Startup Judgment](sources/socialradarspod-paulb-final.md) — The Social Radars episode with Paul Buchheit on Gmail's internal feedback loops, constrained launch, FriendFeed's social product, Facebook acquisition, YC advice, and outlier-driven angel investing.
 - [Tony Xu on Building DoorDash from a Class Project into a Global Marketplace](sources/socialradarspod-tonyxu-final.md) — The Social Radars episode with Tony Xu on DoorDash's small-business discovery, PaloAltoDelivery MVP, YC marketplace validation, suburban delivery focus, and founder proximity to customers, merchants, and dashers.
@@ -252,13 +322,376 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Axios](entities/Axios.md) — News organization represented by Maria Curi in the Marketplace Tech Bytes episode on social media liability, AI worker literacy, and prediction-market guardrails.
+- [U.S. Department of Labor](entities/USDepartmentOfLabor.md) — Agency introducing the text-message AI literacy course used by the episode to frame worker AI readiness and displacement anxiety.
+- [Snapchat](entities/Snapchat.md) — Youth-facing social platform named as a possible later target in the social-media product-liability litigation wave.
+- [Jim Harkness](entities/JimHarkness.md) — Maryland Transportation Authority chief engineer explaining the Key Bridge rebuild, structural health monitoring, and load-performance data.
+- [Maryland Transportation Authority](entities/MarylandTransportationAuthority.md) — Agency context for rebuilding the Francis Scott Key Bridge with monitoring, access, and heavier-load expectations.
+- [Francis Scott Key Bridge](entities/FrancisScottKeyBridge.md) — Baltimore bridge being rebuilt after the Dali strike, now tied to structural health monitoring and port-freight load capacity.
+- [Dali Container Ship](entities/DaliContainerShip.md) — Container ship whose strike on the Francis Scott Key Bridge triggered the rebuild discussed by Marketplace Tech.
+- [Port of Baltimore](entities/PortOfBaltimore.md) — Freight context for the Key Bridge rebuild and its heavier-load design requirements.
+- [WIPR](entities/WIPR.md) — Puerto Rican public broadcaster whose recovered 1950s-1980s radio recordings ground the source's preservation technical environment case.
+- [American Archive of Public Broadcasting](entities/AmericanArchiveOfPublicBroadcasting.md) — Public archive where recovered WIPR recordings became accessible after Digital Bedrock restored old LTO backups.
+- [Jontay Porter](entities/JontayPorter.md) — NBA player whose 2024 betting scandal grounds the episode's comparison between sportsbook monitoring and prediction-market integrity.
+- [National Basketball Association](entities/NationalBasketballAssociation.md) — League context for the Porter betting scandal and the source's sports-integrity comparison.
+- [DraftKings](entities/DraftKings.md) — Sportsbook named in the Porter case as part of the trackable wager-data environment.
+- [Matthew Holt](entities/MatthewHolt.md) — Sports-betting integrity expert explaining suspicious wager patterns and licensed sportsbook monitoring.
+- [Ben Schifrin](entities/BenSchifrin.md) — Better Markets expert framing prediction markets as a regulatory mismatch for the CFTC when event contracts create corruption risk.
+- [Better Markets](entities/BetterMarkets.md) — Financial-regulation policy organization represented by Ben Schifrin in the prediction-market oversight discussion.
+- [John Holden](entities/JohnHolden.md) — Indiana University expert explaining prediction-market business incentives, sportsbook-like controls, and gambling-law tension.
+- [Indiana University](entities/IndianaUniversity.md) — John Holden's affiliation in the Marketplace Tech episode on prediction-market regulation.
+- [Heather Schwartz](entities/HeatherSchwartz.md) — RAND researcher explaining student AI homework use, critical-thinking concerns, first draft thinking, and classroom AI-free time.
+- [RAND](entities/RAND.md) — Research organization whose cited study grounds the Marketplace Tech episode on student AI homework use and critical-thinking concern.
+- [Gecko Robotics](entities/GeckoRobotics.md) — Pittsburgh robotics startup whose $71M Navy contract grounds the defense robotics maintenance and defense tech startup procurement branch.
+- [U.S. Navy](entities/USNavy.md) — Military customer for Gecko Robotics' ship-inspection contract, tied to ship readiness, repair delays, and industrial-capacity concerns.
+- [Anduril](entities/Anduril.md) — Defense startup cited as another large-contract example of newer technology companies gaining ground in military procurement.
+- [Raytheon](entities/Raytheon.md) — Legacy defense contractor example used to frame startup pressure on traditional vendors.
+- [Boeing](entities/Boeing.md) — Legacy aerospace and defense contractor example used to frame startup pressure on traditional vendors.
+- [BuzzFeed](entities/BuzzFeed.md) — Media company whose going-concern warning and AI app pivot ground the media AI rescue strategy branch.
+- [QuizParty](entities/QuizParty.md) — BuzzFeed quiz app named as part of its AI games, quizzes, and interactive-product strategy.
+- [Center for Strategic and International Studies](entities/CenterForStrategicAndInternationalStudies.md) — Think tank cited for the shipbuilding-capacity comparison in the Gecko/Navy discussion.
+- [Uber Eats](entities/UberEats.md) — Delivery app comparison for consumer willingness to pay for Amazon's ultra-fast delivery.
+- [Stacey Pettijohn](entities/StaceyPettijohn.md) — CNAS expert explaining low-cost drone warfare, Shahed-style systems, the Lucas drone, commercial component supply chains, and counter-drone economics.
+- [Center for a New American Security](entities/CenterForNewAmericanSecurity.md) — Defense think tank affiliation for Stacey Pettijohn in the Marketplace Tech episode on low-cost drones and counter-drone strategy.
+- [Shahed 136](entities/Shahed136.md) — Iranian one-way attack drone used as the reference case for cheap, commercial-component, long-range drone warfare.
+- [Lucas Drone](entities/LucasDrone.md) — U.S. low-cost uncrewed system described as reverse-engineered from the Shahed 136 with shorter range and smaller payload.
+- [Tomas Holoneck](entities/TomasHoloneck.md) — University of Cambridge researcher interviewed by Marketplace Tech about AI grief bots, post-mortem consent, privacy, dignity, and digital memorialization.
+- [University of Cambridge](entities/UniversityOfCambridge.md) — Academic affiliation for Tomas Holoneck in the Marketplace Tech episode on post-mortem AI avatars and grief-bot ethics.
+- [Google Inactive Account Manager](entities/GoogleInactiveAccountManager.md) — Google account feature used in the grief-bot episode as an example of deletion and inactivity planning for digital remains.
+- [Josh Bersin](entities/JoshBersin.md) — HR industry analyst and consultant explaining AI meeting analysis, workplace digital twins, productivity gains, and the need for transparent employee monitoring boundaries.
+- [Galileo](entities/Galileo.md) — Workplace AI tool described by Josh Bersin as analyzing recorded meetings and answering open-ended questions about topics, participation, and skills.
+- [Dave Reibstein](entities/DaveReibstein.md) — Wharton marketing professor explaining the Consumer Cryptocurrency Confidence Index, crypto sentiment, and why many consumers treat crypto as risky investment exposure rather than everyday money.
+- [Wharton School](entities/WhartonSchool.md) — Business school behind the Consumer Cryptocurrency Confidence Index discussed in the Marketplace Tech crypto-confidence episode.
+- [Financial Times](entities/FinancialTimes.md) — Business-news organization whose Amazon outage reporting triggers the source's AI coding guardrails discussion.
+- [MoffettNathanson](entities/MoffettNathanson.md) — Research firm whose YouTube revenue report grounds the source's media-dominance discussion.
+- [Ben Parr](entities/BenParr.md) — MoteBook creator reportedly joining Meta through the AI-only social network acquisition.
+- [Matt Schlicht](entities/MattSchlicht.md) — MoteBook creator reportedly joining Meta through the AI-only social network acquisition.
+- [Gil Luria](entities/GilLuria.md) — D.A. Davidson technology research analyst explaining Bitcoin's volatility, digital-gold narrative, inflation hedge case, and cross-border crisis utility.
+- [D.A. Davidson](entities/DADavidson.md) — Financial-services firm affiliation for Gil Luria in the Marketplace Tech Bitcoin safe-haven episode.
+- [The Plain Dealer](entities/ThePlainDealer.md) — Cleveland newspaper used as the source's case for AI-assisted local-news production and AI-written articles.
+- [Chris Quinn](entities/ChrisQuinn.md) — Plain Dealer editor arguing that AI can help local journalism survive and put reporters back into the field.
+- [Willa Remus](entities/WillaRemus.md) — Washington Post technology reporter explaining the Plain Dealer's AI workflows and reader-trust risks.
+- [Washington Post](entities/WashingtonPost.md) — Media organization represented by Willa Remus in the Marketplace Tech episode on AI in local journalism.
+- [Advanced Local Express Desk](entities/AdvancedLocalExpressDesk.md) — Plain Dealer label or byline associated with mostly AI-written stories from the AI rewrite desk.
+- [Girl Scouts of the USA](entities/GirlScoutsOfTheUSA.md) — Youth nonprofit using cookie sales as a supervised entrepreneurship and digital commerce literacy program.
+- [Wendy Liu](entities/WendyLiu.md) — Girl Scouts of the USA chief revenue officer explaining digital cookie sales, girl-led learning, platform feedback, and online safety.
+- [Nicole Turner-Lee](entities/NicoleTurnerLee.md) — Brookings Institution expert explaining California's DROP platform as useful but incomplete consumer privacy agency over broker-held data.
+- [Brookings Institution](entities/BrookingsInstitution.md) — Policy institution represented by Nicole Turner-Lee in the Marketplace Tech discussion of data brokers and state privacy tools.
+- [California](entities/California.md) — State privacy-law case launching DROP under the California Delete Act as a consumer-side complement to warrant-focused data-broker reforms.
+- [Delete Request and Opt Out Platform](entities/DeleteRequestAndOptOutPlatform.md) — California's DROP tool for residents to request deletion of personal information from registered data brokers.
+- [Kalshi](entities/Kalshi.md) — Prediction-market platform used by Marketplace Tech to examine harmful-event wagers, Khamenei-related market resolution, CFTC rules, market-integrity risk, and self-regulatory guardrails.
+- [News Corp](entities/NewsCorp.md) — Media company whose reported Meta licensing deal grounds the wiki's AI content licensing and publisher traffic-loss branch.
+- [Wired](entities/Wired.md) — Technology publication affiliation for Paresh Dave in Marketplace Tech Bytes episodes on AI infrastructure, prediction markets, defense AI, and media licensing.
+- [Commodity Futures Trading Commission](entities/CommodityFuturesTradingCommission.md) — U.S. markets regulator whose event-contract rules, integrity questions, and federal-state boundary shape the prediction-market ethics discussion.
+- [Rafe Pilling](entities/RafePilling.md) — Sophos cybersecurity expert explaining Iran-linked cyber operations, the 2011-2013 DDoS attacks on U.S. banks, and why sensitive-data and industrial-control targets may worry him more than banks.
+- [Sophos](entities/Sophos.md) — Cybersecurity company represented by Rafe Pilling in the Marketplace Tech episode on Iran-linked cyber threats.
+- [Ministry of Intelligence and Security](entities/MinistryOfIntelligenceAndSecurity.md) — Iranian state sponsor named alongside the IRGC in the episode's account of Iran-linked cyber operations.
+- [Unitronics](entities/Unitronics.md) — Industrial-control systems company cited through a 2023 attack affecting water-treatment facilities near Pittsburgh.
+- [Erin Griffith](entities/ErinGriffith.md) — New York Times reporter interviewed by Marketplace Tech about answer engine optimization, brand visibility in chatbots, AI-generated marketing fluff, and trust risks around paid answer placement.
+- [Linda Todich](entities/LindaTodich.md) — Digital Bedrock archivist and CEO explaining storage scarcity, cloud physicality, technical obsolescence, and recovery work in digital preservation.
+- [Digital Bedrock](entities/DigitalBedrock.md) — Archive-preservation company used as the Marketplace Tech case for storage scarcity and legacy-media recovery.
+- [Western Digital](entities/WesternDigital.md) — Storage company cited as largely sold out of hard drives for the year amid the memory and storage shortage.
+- [IDC](entities/IDC.md) — Market-intelligence firm cited for the claim that data-center demand has helped drive up prices and an unprecedented memory-chip shortage.
+- [Jeremy Scott](entities/JeremyScott.md) — EPIC Surveillance Oversight Program expert explaining DHS access to private-sector data, administrative subpoenas, data brokers, and surveillance-as-a-service systems.
+- [Electronic Privacy Information Center](entities/ElectronicPrivacyInformationCenter.md) — Privacy and civil-liberties organization represented by Jeremy Scott in the Marketplace Tech surveillance-data episode.
+- [U.S. Department of Homeland Security](entities/USDepartmentOfHomelandSecurity.md) — Agency at the center of the Marketplace Tech discussion of lawsuits, private-sector data access, administrative subpoenas, data brokers, and surveillance tools.
+- [U.S. Immigration and Customs Enforcement](entities/USImmigrationAndCustomsEnforcement.md) — DHS-linked enforcement agency named in the surveillance-as-a-service discussion, kept distinct from the unrelated ICE investor page.
+- [Ron Wyden](entities/RonWyden.md) — Senator associated with the federal Fourth Amendment is Not For Sale Act referenced in the data broker loophole episode.
+- [Montana](entities/Montana.md) — State cited for passing a law requiring warrants for government data purchases that would otherwise exploit the data broker loophole.
+- [Claude](entities/Claude.md) — Anthropic model at the center of the Marketplace Tech Bytes dispute over Pentagon classified use, acceptable-use limits, and defense procurement leverage.
+- [OpenAI Frontier](entities/OpenAIFrontier.md) — OpenAI business platform for building and managing AI coworkers, framed through consulting-led enterprise adoption.
+- [Mac Mini](entities/MacMini.md) — Apple desktop Mac used in the episode as a concrete but limited U.S. manufacturing reshoring case.
+- [Pete Hegseth](entities/PeteHegseth.md) — Defense secretary reportedly pressing Anthropic for broader Pentagon access to Claude.
+- [Maria Curi](entities/MariaCurie.md) — Axios analyst explaining Marketplace Tech policy stories on social-media liability, worker AI literacy, prediction markets, defense AI, enterprise AI, and Apple's Houston Mac Mini plan.
+- [Vidiots](entities/Vidiots.md) — Los Angeles nonprofit video store and restored-theater case for renewed physical video rental.
+- [Robbie McCluskey](entities/RobbieMcCluskey.md) — Vidiots store director explaining the store's 1985 origin, 2017 closure, 2023 nonprofit reopening, and rental growth.
+- [LunchMeet VHS](entities/LunchMeetVHS.md) — North Carolina VHS reprint and magazine business preserving tape-only films and video-store culture.
+- [Josh Schaeffer](entities/JoshSchaeffer.md) — LunchMeet VHS operator who frames VHS and video-store culture as social history worth preserving.
+- [Consumer Reports](entities/ConsumerReports.md) — Survey source cited for continued U.S. DVD, Blu-ray, and VHS viewing.
+- [EAB](entities/EAB.md) — Education company whose survey grounds the episode's claim that about half of college-bound high schoolers use AI tools during college search.
+- [Jennifer Jesse](entities/JenniferJesse.md) — College consultant describing students' AI-assisted school lists and the need to push beyond familiar ranking defaults.
+- [Michael Coppenheifer](entities/MichaelCoppenheifer.md) — Marketplace Tech speaker connecting student AI use for campus vibe and offer comparison to colleges' need to monitor AI descriptions.
+- [Nick Swisher](entities/NickSwisher.md) — Indiana Wesleyan University speaker explaining AI-era higher-education marketing and conversational FAQ strategy.
+- [Indiana Wesleyan University](entities/IndianaWesleyanUniversity.md) — Higher-education case spending on AI discoverability and adding FAQ content for prospective student questions.
+- [U.S. News and World Report](entities/USNewsAndWorldReport.md) — Ranking reference used in the college-search episode to show how AI can reinforce familiar school lists.
+- [Instagram](entities/Instagram.md) — Social platform used as a campus-vibe input when students ask AI tools to summarize college culture signals.
+- [Ray Smith](entities/RaySmith.md) — Wall Street Journal workplace reporter interviewed by Marketplace Tech about AI job interviews, candidate experience, automated assessments, and human-in-the-loop hiring.
+- [Wall Street Journal](entities/WallStreetJournal.md) — Media organization entering the wiki through Ray Smith's Marketplace Tech commentary on AI interviewing and hiring automation.
+- [Davines](entities/Davines.md) — Hair-care brand used as the Marketplace Tech case for a fake sponsored shopping result and AI-assisted retail website impersonation.
+- [Netcraft](entities/Netcraft.md) — Cybersecurity company cited for identifying AI-generated websites impersonating brands.
+- [Ginny Spicer](entities/GinnySpicer.md) — Netcraft speaker explaining why AI-generated impersonation sites can look legitimate to ordinary consumers.
+- [Coalfire](entities/Coalfire.md) — Cybersecurity company represented by Charles Henderson in the Marketplace Tech episode on AI-assisted scam websites.
+- [Charles Henderson](entities/CharlesHenderson.md) — Coalfire expert framing AI scam websites as a cost, speed, and scale change rather than a new fraud category.
+- [Silent Push](entities/SilentPush.md) — Threat-intelligence company represented by Zach Edwards in the episode on smaller brands facing impostor sites.
+- [Zach Edwards](entities/ZachEdwards.md) — Silent Push speaker connecting AI-assisted fake-site production to brand monitoring and search-ad abuse.
+- [Lana Swartz](entities/LanaSwartz.md) — University of Virginia scholar framing AI infrastructure as a broader recalibration of online trust signals.
+- [University of Virginia](entities/UniversityOfVirginia.md) — Affiliation for Lana Swartz in the Marketplace Tech discussion of AI, scams, and trust signals.
+- [Google AI Overviews](entities/GoogleAIOverviews.md) — Google's AI-generated search-summary product, now tied in the wiki to source attribution, publisher traffic loss, and regulatory pressure.
+- [Daily Mail](entities/DailyMail.md) — Publisher example used to show AI Overview click-through losses and the economic stakes of AI answer attribution.
+- [European Commission](entities/EuropeanCommission.md) — EU regulator investigating Google over possible competition issues around digital publisher content and AI search.
+- [Alex Karp](entities/AlexKarp.md) — Palantir leader whose Silicon Valley critique helps frame the company's Miami headquarters move as cultural and political signaling.
+- [Florida](entities/Florida.md) — State context for Palantir's Miami headquarters move and South Florida's perceived tax, regulatory, and political pull.
+- [Miami](entities/Miami.md) — City destination for Palantir's announced headquarters move and anchor for the South Florida tech migration branch.
+- [Tax Foundation](entities/TaxFoundation.md) — Tax-policy organization cited to complicate a simple tax-only explanation of Palantir's headquarters move.
+- [ServiceNow](entities/ServiceNow.md) — Enterprise software company cited as adding South Florida office space in the same relocation narrative.
+- [Citadel](entities/Citadel.md) — Finance-company precedent for headquarters movement to Miami in the South Florida business-geography discussion.
+- [Ring](entities/Ring.md) — Amazon-owned video doorbell and camera company discussed through Search Party, law-enforcement relationships, and surveillance backlash.
+- [Ring Search Party](entities/RingSearchParty.md) — Ring AI feature for finding lost dogs that raised broader connected-camera surveillance concerns.
+- [Jamie Siminoff](entities/JamieSiminoff.md) — Ring founder tied to the reported broader crime-reduction ambition behind Search Party.
+- [Flock Safety](entities/FlockSafety.md) — Public-safety camera company whose planned Ring partnership was canceled after Search Party backlash.
+- [Mike Isaac](entities/MikeIsaac.md) — New York Times reporter interviewed by Marketplace Tech about Meta's AI spending, ad business, consumer-assistant gap, smart glasses, and VR priority shift.
+- [New York Times](entities/NewYorkTimes.md) — Media organization entering the wiki through Mike Isaac's Marketplace Tech commentary on Meta's AI strategy.
+- [Meta AI](entities/MetaAI.md) — Meta's consumer AI assistant, discussed as less prominent than ChatGPT and in need of differentiation through personal superintelligence.
+- [Ray-Ban Smart Glasses](entities/RayBanSmartGlasses.md) — Meta wearable hardware route for putting AI assistance into object recognition, directions, recipes, and other daily contexts.
+- [Reality Labs](entities/RealityLabs.md) — Meta's VR/AR division, used in the source to show AI overtaking VR as the company's more urgent priority.
+- [Daniel Newman](entities/DanielNewman.md) — Marketplace Tech guest explaining why AI-generated prototypes threaten some SaaS categories but do not automatically replace governed enterprise systems.
+- [monday.com](entities/MondayCom.md) — Project-management SaaS example named in the Marketplace Tech episode on AI pressure against traditional software companies.
+- [Asana](entities/Asana.md) — Project-management SaaS example named in the Marketplace Tech episode on AI pressure against traditional software companies.
+- [Carrie George](entities/CarrieGeorge.md) — Computing Research Association expert interviewed by Marketplace Tech about the uneven decline in U.S. computing enrollment.
+- [Computing Research Association](entities/ComputingResearchAssociation.md) — Organization represented by Carrie George in the Marketplace Tech episode on computing enrollment and research-pipeline risk.
+- [National Student Clearinghouse Research Center](entities/NationalStudentClearinghouseResearchCenter.md) — Enrollment-data source cited for the reported decline in U.S. computer and information science enrollment.
+- [Caterpillar](entities/Caterpillar.md) — Industrial company whose natural gas generators are framed as an AI data-center power bottleneck and backlog case.
+- [Dan Ackerman](entities/DanAckerman.md) — Commentator in the Marketplace Tech episode explaining Caterpillar generator demand from AI data centers.
+- [David Victor](entities/DavidVictor.md) — UCSD public policy professor framing data-center development as a speed-driven energy arms race.
+- [Jewel Burke Solomon](entities/JewelBurkeSolomon.md) — Collab Capital guest on Marketplace Tech Bytes explaining Alphabet's AI infrastructure borrowing, MoteBook's agent-social security risk, and Spotify's Wrapped-driven growth.
+- [Collab Capital](entities/CollabCapital.md) — Investment firm affiliation for Jewel Burke Solomon in the Marketplace Tech Bytes episode.
+- [MoteBook](entities/MoteBook.md) — AI-agent-only social platform discussed as a Reddit-like agent internet experiment with security and identity risks.
+- [Wiz](entities/Wiz.md) — Cloud security platform whose reported MoteBook review raised sensitive-information exposure concerns.
+- [Spotify](entities/Spotify.md) — Audio-streaming platform discussed through fourth-quarter user growth, Wrapped engagement, and AI-assisted playlist curation.
+- [Spotify Wrapped](entities/SpotifyWrapped.md) — Spotify's year-end listening recap feature, treated as a personalization and social-sharing growth engine.
+- [Ari Redbord](entities/AriRedbord.md) — TRM Labs expert interviewed by Marketplace Tech about crypto crime, stablecoin sanctions evasion, scam networks, and AI-enabled fraud.
+- [TRM Labs](entities/TRMLabs.md) — Crypto-compliance and blockchain-intelligence company whose report grounds the Marketplace Tech episode on illicit crypto activity.
+- [A7A5](entities/A7A5.md) — Russia-related stablecoin identified in the Marketplace Tech episode as a major driver of sanctions-related illicit crypto activity in 2025.
+- [Prince Group](entities/PrinceGroup.md) — Cambodia-based scam network cited as a sanctions and targeted-enforcement case in the Marketplace Tech crypto-crime episode.
+- [North Korea](entities/NorthKorea.md) — State actor now tied in the wiki to crypto-exchange attacks and remote-work identity-fraud risk.
+- [Islamic Revolutionary Guard Corps](entities/IslamicRevolutionaryGuardCorps.md) — Iranian organization connected by Marketplace Tech to alleged crypto-exchange laundering, sanctions evasion, and Iran-linked cyber operations.
+- [Sadia Pekkanen](entities/SadiaPekkanen.md) — Space-policy expert interviewed by Marketplace Tech about lunar resources, the Artemis Accords, and the distinction between territorial ownership and resource use.
+- [Artemis 2](entities/Artemis2.md) — NASA mission framed by Marketplace Tech as a milestone inside the wider push toward sustained lunar presence.
+- [Artemis Accords](entities/ArtemisAccords.md) — U.S.-led nonbinding space-exploration principles discussed as a starting point for lunar safety zones, transparency, and resource governance.
+- [Moon](entities/Moon.md) — Lunar destination where the wiki now tracks Artemis 2, resource extraction, governance, and stable-energy questions.
+- [Christopher Miller](entities/ChristopherMiller.md) — Chip War author interviewed by Marketplace Tech about GPUs, Google TPUs, chip specialization, AI workloads, and semiconductor ecosystem concentration.
+- [Chip War](entities/ChipWar.md) — Christopher Miller book cited as context for the Marketplace Tech explanation of AI chip competition.
+- [GPU](entities/GPU.md) — General-purpose accelerator category contrasted with Google TPUs in the Marketplace Tech AI-chip explainer.
+- [Carly Urban](entities/CarlyUrban.md) — Economist interviewed by Marketplace Tech about smartphone effects on financial-knowledge surveys and randomized evidence for a survey-device penalty.
+- [Olivia Valdez](entities/OliviaValdez.md) — Experimental psychologist co-author whose phone-attention hypothesis helped frame the smartphone survey penalty study.
+- [FINRA Foundation](entities/FINRAFoundation.md) — Organization behind the financial-knowledge survey trend discussed as showing a 15% decline from 2009 to 2021.
+- [National Financial Capability Study](entities/NationalFinancialCapabilityStudy.md) — Repeated financial-literacy survey where smartphone completion rose from none in 2009 to 55% in 2021.
+- [Understanding America Study](entities/UnderstandingAmericaStudy.md) — USC-run panel used to randomize respondents into smartphone and non-smartphone survey modes.
+- [University of Southern California](entities/UniversityOfSouthernCalifornia.md) — Institution running the Understanding America Study panel used in the smartphone survey experiment.
+- [Pew Research Center](entities/PewResearchCenter.md) — Research organization whose smartphone-adoption estimates contextualize the shift toward mobile survey-taking.
+- [Stephanie Hughes](entities/StephanieHughes.md) — Marketplace Tech host framing episodes on infrastructure monitoring, AI grief bots, workplace monitoring, crypto confidence, local-news AI, privacy, cyber risk, scams, and weekly tech news.
+- [Paresh Dave](entities/PareshDave.md) — Wired senior writer whose Marketplace Tech analysis connects prediction markets, defense AI procurement, media licensing, SpaceX/xAI, Nvidia/OpenAI, and U.S. TikTok.
+- [U.S. TikTok](entities/USTikTok.md) — New American version of TikTok discussed through investor ownership, Oracle infrastructure, early outages, and data-collection terms.
+- [MGX](entities/MGX.md) — Investor named in the joint venture behind U.S. TikTok.
+- [Silver Lake](entities/SilverLake.md) — Technology investment firm named in the joint venture behind U.S. TikTok.
+- [Remora Carbon](entities/RemoraCarbon.md) — Climate hardware company building retrofit systems for semi trucks and locomotives to capture exhaust CO2 and purify it into beverage-grade CO2.
+- [Chris Best](entities/ChrisBest.md) — Substack founder and CEO whose YC offsite episode links broken media incentives, paid newsletters, owned discovery, Substack Notes, and founder-mode persistence.
+- [Substack](entities/Substack.md) — Creator-media platform that began with paid newsletter infrastructure and later pushed toward owned discovery through the app and Substack Notes.
+- [Hamish McKenzie](entities/HamishMcKenzie.md) — Substack co-founder who pushed Chris Best from internet-media critique toward the practical question of what should be built.
+- [Bill Bishop](entities/BillBishop.md) — Sinocism writer and Substack's first real user case, whose paid newsletter launch created the early YC proof point in Best's account.
+- [Sinocism](entities/Sinocism.md) — China-focused newsletter by Bill Bishop that became Substack's first real paid-newsletter customer case.
+- [Twitter / X](entities/Twitter.md) — Social platform and distribution gatekeeper tied to Substack's discovery dependence, FriendFeed's social-web context, and Best's account of the Musk-era Substack conflict.
+- [Substack Notes](entities/SubstackNotes.md) — Substack short-form feed and discovery product that Best frames as a strategically necessary product despite weak early traction.
+- [Jake Heller](entities/JakeHeller.md) — Casetext founder and CEO whose YC offsite episode links legal-tech frustration, early GPT-4 access, founder-mode persuasion, Co-Counsel, and the Thomson Reuters acquisition.
+- [Casetext](entities/Casetext.md) — Legal-tech company that used early GPT-4 access to pivot from a long legal-search and workflow grind into Co-Counsel and a Thomson Reuters acquisition.
+- [Co-Counsel](entities/CoCounsel.md) — Casetext legal AI product built after early GPT-4 workflow testing and later distributed through Thomson Reuters.
+- [Thomson Reuters](entities/ThomsonReuters.md) — Professional information and workflow company that acquired Casetext for $650 million in the source's account.
+- [GPT-4](entities/GPT4.md) — OpenAI frontier model whose early unreleased version triggered Casetext's legal-AI pivot in Jake Heller's account.
+- [Drew Houston](entities/DrewHouston.md) — Dropbox founder and CEO whose Social Radars episode links personal file-sync pain, YC persistence, incumbent pressure, strategic focus, founder psychology, and Dropbox Dash.
+- [Dropbox](entities/Dropbox.md) — File-sync and productivity company built around reliable sync, simple design, viral sharing, bottom-up enterprise spread, and later knowledge-work organization.
+- [Arash Ferdowsi](entities/ArashFerdowsi.md) — Dropbox co-founder introduced to Drew Houston by Kyle Vogt before YC, helping turn the demo into a fundable company.
+- [Dropbox Dash](entities/DropboxDash.md) — Dropbox product for searching and organizing work information scattered across files, tabs, and workplace apps.
+- [Pejman Nozad](entities/PejmanNozad.md) — Investor who connected Dropbox from YC Demo Day momentum into Sequoia's seed-round process.
+- [Mike Moritz](entities/MikeMoritz.md) — Sequoia investor who met Dropbox early and appears in the episode's fast seed-round story.
+- [Carousel](entities/Carousel.md) — Dropbox photo-sharing product killed during the company's productivity refocus after Google Photos clarified incumbent pressure.
+- [Mailbox](entities/Mailbox.md) — Dropbox-acquired email product later killed as part of the company's strategic focus under platform pressure.
+- [Looped](entities/Looped.md) — Sam Altman's first startup as described in the source, used as a case in YC first-batch formation, carrier dependency, and founder business training.
+- [Greg Brockman](entities/GregBrockman.md) — OpenAI leader named in the Social Radars episode as removed alongside Sam Altman during the November 2023 board crisis.
+- [Blake Ross](entities/BlakeRoss.md) — Stanford neighbor whose Facebook post led Sam Altman to the Summer Founders Program.
+- [Helion](entities/Helion.md) — Private fusion company Altman cites as an example of his active hard-tech recruiting while YC president.
+- [Reid Hoffman](entities/ReidHoffman.md) — Former OpenAI board member Altman names in his board-composition lesson from the 2023 crisis.
+- [Shivon Zilis](entities/ShivonZilis.md) — Former OpenAI board member Altman names when discussing board continuity and the 2023 crisis.
+- [Will Hurd](entities/WillHurd.md) — Former OpenAI board member Altman names as part of the board-continuity lesson from the 2023 crisis.
+- [Eric Migicovsky](entities/EricMigicovsky.md) — Pebble and Beeper founder whose Social Radars episode links personal-product insight, YC, Kickstarter, hardware execution, inventory risk, venture debt, and product vision drift.
+- [Pebble](entities/Pebble.md) — Smartwatch company that broke out through Kickstarter, shipped millions of watches, and later became a hardware startup postmortem around manufacturing, inventory, debt, and vision.
+- [Beeper](entities/Beeper.md) — Eric Migicovsky's universal-chat app, introduced in the episode as another product he built because he wanted it himself.
+- [Alerta](entities/Alerta.md) — Early company name behind Eric Migicovsky's pre-Pebble BlackBerry watch effort.
+- [Impulse Watch](entities/ImpulseWatch.md) — Early BlackBerry-oriented watch product that foreshadowed Pebble's notification insight and hardware/platform risks.
+- [Kickstarter](entities/Kickstarter.md) — Crowdfunding platform that turned Pebble's investor-rejected smartwatch into a $10 million preorder campaign and manufacturing obligation.
+- [BlackBerry](entities/BlackBerry.md) — Mobile platform whose Bluetooth accessory APIs made Eric Migicovsky's early watch possible before the market shifted toward iPhone.
+- [Fitbit](entities/Fitbit.md) — Wearables company that competed with Pebble in health and fitness and later acquired pieces of the company.
+- [Garmin](entities/Garmin.md) — Wearables and fitness company named as part of the competitive pressure that pulled Pebble toward health features.
+- [Tim Draper](entities/TimDraper.md) — Investor in Eric Migicovsky's early post-Demo-Day hardware company before Pebble's Kickstarter breakout.
+- [CRV](entities/CRV.md) — Venture firm whose Pebble investment marks the shift from crowdfunding breakout to venture-backed hardware scaling.
+- [Alexandr Wang](entities/AlexandrWang.md) — Scale AI founder and CEO whose Social Radars episode links YC, early manual labeling, autonomous-vehicle data, defense work, generative AI data, and agent data.
+- [Quora](entities/Quora.md) — Gap-year work context for Alexandr Wang before MIT and Scale AI.
+- [Adam D'Angelo](entities/AdamDAngelo.md) — Quora executive who advised Alexandr Wang to attend at least some college before founding Scale.
+- [Teespring](entities/Teespring.md) — Early Scale AI customer whose T-shirt categorization work Wang handled manually.
+- [Accel](entities/Accel.md) — Venture firm represented by Dan Levine's pre-Demo-Day funding offer to Scale AI.
+- [Dan Levine](entities/DanLevine.md) — Accel investor who offered to fund Scale AI before YC Demo Day.
+- [US Department of Defense](entities/USDepartmentOfDefense.md) — Government customer context for Scale AI's 2020 defense and Ukraine satellite-imagery work.
+- [Harj Taggar](entities/HarjTaggar.md) — YC Winter 2007 founder, early YC investor-relations operator, Triplebyte founder, and later YC partner.
+- [Triplebyte](entities/Triplebyte.md) — Engineering-hiring company built around direct skill assessment beyond credentials, used as a case in the limits of objective hiring prediction.
+- [BoSo](entities/BoSo.md) — Harj and Kulvir Taggar's YC Winter 2007 student marketplace idea before the shift into Automatic Auctions.
+- [Automatic / Automatic Auctions](entities/AutomaticAuctions.md) — Post-BoSo seller-tools company that raised after YC and chose Live Current Media's acquisition offer over Facebook stock.
+- [Kulvir Taggar](entities/KulvirTaggar.md) — Harj Taggar's cousin and co-founder through BoSo and Automatic Auctions.
+- [Armand Benard](entities/ArmandBenard.md) — Triplebyte co-founder in the Harj Taggar episode.
+- [Guillaume Cabane](entities/GuillaumeCabane.md) — Triplebyte co-founder in the Harj Taggar episode.
+- [Live Current Media](entities/LiveCurrentMedia.md) — Acquirer of Automatic Auctions in Harj Taggar's account.
+- [Yuri Milner](entities/YuriMilner.md) — Investor whose offer to fund every YC startup marked a major investor-access shift in Harj Taggar's account.
+- [James Damore](entities/JamesDamore.md) — Controversial Triplebyte candidate case used to examine the governance limits of technical hiring tests.
+- [Light Cone](entities/LightCone.md) — YC-partner podcast mentioned by Harj Taggar as reflecting how YC partners talk about startups.
+- [Eddy Lu](entities/EddyLu.md) — GOAT co-founder and CEO whose episode links Grub With Us, marketplace friction, sneaker authentication, Black Friday overload, and founder scrappiness.
+- [Daishen](entities/Daishen.md) — Eddy Lu's co-founder whose sneaker enthusiasm and fake-sneaker purchase helped turn GOAT into an authentication-led marketplace.
+- [GOAT](entities/GOAT.md) — Sneaker and apparel marketplace built around authentication, consolidated listings, quality control, used-sneaker access, and category focus.
+- [Grub With Us](entities/GrubWithUs.md) — Group-dinner marketplace from Eddy Lu and Daishen that reached YC but failed because participation involved too much logistical and social friction.
+- [Grub Tonight](entities/GrubTonight.md) — Same-day dinner attempt that reduced timing friction but did not solve the deeper social and logistical barriers in Grub With Us.
+- [GOAT Clean](entities/GOATClean.md) — GOAT used-sneaker refurbishment service for cleaning, deodorizing, and touching up used sneakers.
+- [Adam Bain](entities/AdamBain.md) — Early GOAT customer who became the company's first independent board member after a high-touch sneaker-sourcing story.
+- [David Rusenko](entities/DavidRusenko.md) — Weebly co-founder and Leap Forward founder whose episode links YC Winter 2007, slow PMF, capital efficiency, Square, delegation, and climate-tech investing.
+- [Weebly](entities/Weebly.md) — Drag-and-drop website builder that began as a Penn State class project, entered YC Winter 2007, survived the 2008 downturn, and was acquired by Square.
+- [Square](entities/Square.md) — Commerce and payments company that acquired Weebly in 2018 and used its codebase as the underpinnings of Square Online.
+- [Square Online](entities/SquareOnline.md) — Commerce website product whose source lineage runs through Weebly after the Square acquisition.
+- [Leap Forward](entities/LeapForward.md) — David Rusenko's climate-focused fund backing economically compelling climate-tech companies.
+- [Jessica Alter](entities/JessicaAlter.md) — Leap Forward venture partner whose go-to-market background complements Rusenko's engineering and product-founder experience.
+- [Blue Dot](entities/BlueDot.md) — Leap Forward portfolio company offering EV charging rewards and fleet charging reimbursement workflows.
+- [Electric Air](entities/ElectricAir.md) — Leap Forward portfolio company building a residential heat-pump contracting model around lower installation cost.
+- [Yin Wu](entities/YinWu.md) — Pulley founder and CEO whose episode links Stanford Startup School, repeated YC pivots, Prim, Echo Locker, Microsoft, founder user obsession, cap table literacy, and founder resilience.
+- [Pulley](entities/Pulley.md) — Founder-focused equity and cap-table software company built around cap table visibility, fundraising modeling, offer letters, compliant issuance, founder control, and trust.
+- [Carta](entities/Carta.md) — Cap-table management incumbent contrasted with Pulley through founder access, late-stage workflow focus, and trust-sensitive switching after privacy and secondary-sale concerns.
+- [Prim](entities/Prim.md) — Yin Wu's same-day laundry delivery startup used as a case in doing the work, local-service operations, and the limit of solving one's own problem without durable user obsession.
+- [Echo Locker](entities/EchoLocker.md) — Lock-screen notification and priority-inbox product Yin Wu restarted around in YC Summer 2013 before Microsoft acquired it.
+- [Ron Conway](entities/RonConway.md) — Silicon Valley operator and investor whose Social Radars episodes trace National Semiconductor, Altos, Band of Angels, SV Angel, Google financing, and founder-helper investing.
+- [SV Angel](entities/SVAngel.md) — Ron Conway's investment firm, expanded through the Google episode as a case in Stanford sourcing, venture syndication, distribution help, and founder-friendly support.
+- [Larry Page](entities/LarryPage.md) — Google co-founder whose Conway Part 3 story links PageRank, search-quality metrics, hiring rigor, and distribution-aware financing.
+- [Sergey Brin](entities/SergeyBrin.md) — Google co-founder whose Conway Part 3 story links PageRank, the Kleiner/Sequoia round, and Gmail-era political translation.
+- [David Cheriton](entities/DavidCheriton.md) — Stanford professor and early Google backer who introduced Ron Conway to Backrub and made PageRank/relevance legible.
+- [Rajiv Motwani](entities/RajivMotwani.md) — Stanford professor close to Larry Page and Sergey Brin, part of the research and sourcing network behind early Google.
+- [Jeff Ullman](entities/JeffUllman.md) — Stanford professor named in the early Google research context around Page, Brin, and Motwani.
+- [Ram Shriram](entities/RamShriram.md) — Early Google investor who worked with Ron Conway to get Kleiner Perkins and Sequoia into the same financing.
+- [Jeff Bezos](entities/JeffBezos.md) — Early Google angel investor named in Ron Conway's account, currently a supporting node until an Amazon-specific source expands him.
+- [Andy Bechtolsheim](entities/AndyBechtolsheim.md) — Early Google angel investor whose $100,000 check is part of Conway's company-formation account.
+- [Bob Bozeman](entities/BobBozeman.md) — Angel Investors One partner who validated Google's search quality for Ron Conway during the 165 University Avenue visit.
+- [John Doerr](entities/JohnDoerr.md) — Kleiner Perkins investor wanted by Google's founders for the 1999 round and AOL distribution access.
+- [Salar Kamangar](entities/SalarKamangar.md) — Early Google operator credited by Ron Conway with the AdWords strategy that monetized search usage.
+- [AdWords](entities/AdWords.md) — Google advertising product presented in Conway Part 3 as the monetization bridge after search relevance and distribution.
+- [AOL](entities/AOL.md) — Pre-Google internet/search company and desired distribution partner behind Google's interest in Kleiner Perkins.
+- [Ask Jeeves](entities/AskJeeves.md) — Pre-Google search company used in Conway's account to show the crowded but relevance-poor search market.
+- [Cindy McCaffrey](entities/CindyMcCaffrey.md) — Google's first VP of marketing, introduced by SV Angel according to Ron Conway.
+- [Omid Kordestani](entities/OmidKordestani.md) — Early Google business-side leader whom Conway says SV Angel helped during the company-building phase.
+- [Eric Schmidt](entities/EricSchmidt.md) — Google CEO hire named in Conway's account as part of the company's post-financing governance and scaling path.
+- [Sheryl Sandberg](entities/SherylSandberg.md) — Google executive in Conway's account of the funding round that AdWords revenue made unnecessary.
+- [Susan Wojcicki](entities/SusanWojcicki.md) — Google garage host, search-metrics artifact preserver, and YouTube leader remembered in Conway Part 3.
+- [Napster](entities/Napster.md) — File-sharing company contrasted with Google and YouTube as a legal-risk cautionary case.
+- [Sean Fanning](entities/SeanFanning.md) — Napster founder whom Larry Page and Sergey Brin wanted to meet while Google was still small.
+- [Sean Parker](entities/SeanParker.md) — Napster co-builder and later Plaxo/Facebook connector in Conway's account of long founder relationships.
+- [Mark Zuckerberg](entities/MarkZuckerberg.md) — Facebook/Meta founder connected to Conway through Sean Parker and later Silicon Valley infrastructure coordination.
+- [Snowcap](entities/Snowcap.md) — Sean Fanning's post-Napster digital-music licensing attempt backed by Ron Conway and SV Angel.
+- [Plaxo](entities/Plaxo.md) — Sean Parker's post-Napster online-address-book company and bridge into the later Facebook relationship network.
+- [GitHub](entities/GitHub.md) — Developer infrastructure company introduced to Ron Conway by Sean Fanning after their Napster and Snowcap work.
+- [Hummer Winblad](entities/HummerWinblad.md) — Venture firm whose risky Napster financing became a Conway founder-crisis mediation case.
+- [Bertelsmann](entities/Bertelsmann.md) — Media company whose Napster investment created the funding-day crisis that led toward Snowcap.
+- [RIAA](entities/RIAA.md) — Music-industry trade association central to Napster's copyright conflict and later licensing-repair attempts.
+- [National Semiconductor](entities/NationalSemiconductor.md) — Conway's first Silicon Valley employer and a source case for semiconductor sales culture, equity compensation, customer relationships, and talent genealogy.
+- [Charlie Sporck](entities/CharlieSporck.md) — National Semiconductor CEO in Conway's account, representing the intense semiconductor operating culture that shaped early Silicon Valley talent.
+- [Altos Computer](entities/AltosComputer.md) — Early microcomputer company where Conway led sales and marketing, built distribution, reached an IPO, and later learned the cost of missing the PC wave.
+- [Dave Jackson](entities/DaveJackson.md) — Altos Computer founder who recruited Conway through National Semiconductor colleagues and built the company through the microcomputer timing window.
+- [Band of Angels](entities/BandOfAngels.md) — Early Bay Area angel-investor group of retired semiconductor executives that Conway says organized founder pitches and individual checks.
+- [Don Valentine](entities/DonValentine.md) — Sequoia Capital investor tied to Altos's board and IPO, later encouraging Conway to observe boards and try investing.
+- [Daniel Kan](entities/DanielKan.md) — Cruise co-founder added by Kyle Vogt after the company began as a solo-founded self-driving startup.
+- [General Motors](entities/GeneralMotors.md) — Automaker that acquired Cruise to pair startup autonomy work with capital, manufacturing, and vehicle-scaling capacity.
+- [Yuri Sagalov](entities/YuriSagalov.md) — AeroFS co-founder, YC visiting-partner alumnus, angel investor, and Wayfinder Ventures founder whose episode links technical-founder postmortem, founder-led sales, and investor judgment.
+- [AeroFS](entities/AeroFS.md) — YC Summer 2010 enterprise file-sync startup used as a case in technical ambition, peer-to-peer synchronization risk, enterprise demand, and market-timing pressure.
+- [Wayfinder Ventures](entities/WayfinderVentures.md) — Yuri Sagalov's B2B-focused investment firm, connected to founder-led sales, investor reference checking, and founder-investor learning.
+- [Redbooth](entities/Redbooth.md) — Project-management company that merged with AeroFS, used in the Yuri Sagalov episode as a founder-responsibility and wind-down context.
+- [Adora Cheung](entities/AdoraCheung.md) — Homejoy founder, former YC partner, vote-by-mail project operator, and Instalab founder.
+- [Homejoy](entities/Homejoy.md) — Home-services marketplace used as a cautionary case in scaling before retention and service quality held.
+- [PathJoy](entities/PathJoy.md) — Adora and Aaron Cheung's early services-marketplace company before the Homejoy pivot.
+- [Instalab](entities/Instalab.md) — Adora Cheung's at-home blood testing and preventive-health company.
+- [Aaron Cheung](entities/AaronCheung.md) — Adora Cheung's brother and Homejoy co-founder, associated with acquisition and funnel work.
+- [Alex Cheung](entities/AlexCheung.md) — Adora Cheung's brother and Instalab co-founder.
+- [Tech for Campaigns](entities/TechForCampaigns.md) — civic-tech organization connected to Adora Cheung's 2020 vote-by-mail work.
+- [Mark Lindsay](entities/MarkLindsay.md) — technical lead recruited for the vote-by-mail project discussed in the Adora Cheung episode.
+- [Parker Conrad](entities/ParkerConrad.md) — Founder of Zenefits and Rippling whose Social Radars episode and Season 2 wrap-up link regulatory crisis, public narrative, and software-first rebuilding.
+- [Zenefits](entities/Zenefits.md) — HR, payroll, benefits, and insurance startup used as a cautionary case for manual operations debt and governance narrative risk.
+- [Rippling](entities/Rippling.md) — Business-software company built around an employee graph, compound startup strategy, and automation-first operating discipline.
+- [David Sacks](entities/DavidSacks.md) — Zenefits CEO successor in Conrad's account of the compliance, media, and responsibility dispute.
+- [Andreessen Horowitz](entities/AndreessenHorowitz.md) — Venture firm appearing in Conrad's account through the network intervention that stopped orchestrated attacks.
+- [Mark Andreessen](entities/MarkAndreessen.md) — Andreessen Horowitz co-founder named in Conrad's account of the YC-network intervention.
+- [Lanny Davis](entities/LannyDavis.md) — Crisis-communications figure Conrad says was involved in aggressive post-Zenefits media pressure.
+- [Mamoon Hamid](entities/MamoonHamid.md) — Kleiner Perkins investor who led Rippling's Series A in Conrad's account.
+- [Kleiner Perkins](entities/KleinerPerkins.md) — Venture firm tied to Rippling's Series A and Google's 1999 round, where its AOL relationship made it strategically useful.
+- [Simply Insured](entities/SimplyInsured.md) — YC batch competitor to Zenefits used in the episode to show how launch timing shaped category narrative.
+- [Emmett Shear](entities/EmmettShear.md) — Twitch co-founder whose episode links YC's first batch, Kiko, Justin.tv, runway discipline, Twitch fundraising, Amazon acquisition, returning to YC, and later OpenAI-timing context.
+- [Kiko](entities/Kiko.md) — First-batch YC browser calendar startup whose failure, eBay sale, and Tucows acquisition created founder learning and cash optionality.
+- [Twitch](entities/Twitch.md) — Live-streaming company that emerged from Justin.tv, showing gaming/community pull, paying-user expansion, hard fundraising, and Amazon acquisition fit.
+- [Justin Kan](entities/JustinKan.md) — Kiko and Justin.tv cofounder whose lifecasting role made the original 24/7 live-video idea possible.
+- [Kyle Vogt](entities/KyleVogt.md) — Justin.tv technical cofounder and Cruise founder whose episode links live-video infrastructure, Twitch, self-driving MVP scoping, robotaxi economics, safety benchmarking, and hard-tech founder stamina.
+- [Tucows](entities/Tucows.md) — Buyer of Kiko in the source, turning a failed calendar startup into useful founder cash and learning.
+- [Patrick Collison](entities/PatrickCollison.md) — Stripe co-founder whose episode links teenage Lisp/Paul Graham contact, web-payment frustration, developer-first payment infrastructure, and vision-to-reality execution.
+- [John Collison](entities/JohnCollison.md) — Stripe co-founder whose episode links early startup-world entry, `/dev/payments`, web-payment friction, founder alignment, and API product design.
+- [Bill Clerico](entities/BillClerico.md) — WePay co-founder and former CEO whose episode links YC, early payments friction, fraud controls, JPMorgan acquisition, and post-WePay fire-tech investing.
+- [WePay](entities/WePay.md) — Payments company that moved from group payments to API infrastructure before JPMorgan Chase acquired it.
+- [Rich Aberman](entities/RichAberman.md) — WePay co-founder whose bachelor-party collection problem sparked the original group-payments idea.
+- [Convective Capital](entities/ConvectiveCapital.md) — Bill Clerico's fire-tech investment firm focused on wildfire resilience, utilities, insurers, agencies, and climate adaptation.
+- [OverStory](entities/OverStory.md) — Convective Capital portfolio company using satellite imagery to help utilities monitor vegetation risk around power lines.
+- [GoFundMe](entities/GoFundMe.md) — Fundraising platform cited as an early WePay API customer whose growth exposed payments fraud and scaling pressure.
+- [Stripe](entities/Stripe.md) — Payments infrastructure company whose direct source covers developer-first payment APIs, `/dev/payments`, documentation, financial-institution trust, and long-term ambition.
+- [Dimitri Dadiomov](entities/DimitriDadiomov.md) — Modern Treasury co-founder and CEO whose episode links LendingHome payment pain, YC, bank trust, SVB crisis response, and financial-operations resilience.
+- [Modern Treasury](entities/ModernTreasury.md) — Fintech infrastructure company built around bank connectivity, payment initiation, reconciliation, and money-movement workflows.
+- [LendingHome](entities/LendingHome.md) — Mortgage and renovation-loan marketplace where payment volume exposed the operational pain behind Modern Treasury.
+- [Better Place](entities/BetterPlace.md) — Earlier startup-scaling experience in Dimitri Dadiomov's background before Modern Treasury.
+- [FedNow](entities/FedNow.md) — U.S. real-time payment rail discussed as a faster infrastructure layer that still needs bank and software coordination.
+- [Signature Bank](entities/SignatureBank.md) — Bank receivership case paired with Silicon Valley Bank in Modern Treasury's crisis-response account.
+- [BASES](entities/BASES.md) — Stanford entrepreneurship group that connected Dimitri Dadiomov with Jessica Livingston and early YC Startup School work.
+- [Brian Armstrong](entities/BrianArmstrong.md) — Coinbase co-founder and CEO whose episode connects Bitcoin curiosity, Airbnb payments, YC validation, compliance, fraud controls, mission focus, and founder motivation.
+- [Coinbase](entities/Coinbase.md) — Crypto wallet and exchange company used as a case for YC high-beta selection, buy-button product-market fit, regulated crypto trust, and early fintech fraud controls.
+- [FTX](entities/FTX.md) — Collapsed crypto exchange used in the Armstrong episode as a reputational shock and trust-structure contrast with Coinbase.
+- [Sam Bankman-Fried](entities/SamBankmanFried.md) — FTX founder discussed by Armstrong as a rapid-status crypto founder whose media rise, spending signals, and collapse became a cautionary case.
+- [Gary Gensler](entities/GaryGensler.md) — SEC chair discussed through Armstrong's view of Coinbase's crypto regulatory dispute.
+- [SEC](entities/SEC.md) — U.S. securities regulator appearing in the Coinbase source as the enforcement and regulatory-clarity counterparty.
+- [Silicon Valley Bank](entities/SiliconValleyBank.md) — Startup bank appearing first as Coinbase's AML forcing function and later as Modern Treasury's crisis-resilience case.
+- [Mt. Gox](entities/MtGox.md) — Early Bitcoin exchange where Armstrong bought Bitcoin before Coinbase, used as a marker of rough early crypto access.
+- [Julian Weber](entities/JulianWeber.md) — Early Viaweb investor whose $10,000 check, legal work, and board role became a practical template for founder-friendly seed investing.
+- [Hacker News](entities/HackerNews.md) — Paul Graham-started online forum that helped Y Combinator while also creating persistent community-governance stress.
+- [Arc](entities/ArcLanguage.md) — Paul Graham's Lisp dialect that followed an unrealized browser-based development-platform idea after Viaweb.
+- [Summer Founders Program](entities/SummerFoundersProgram.md) — First Y Combinator program, initially a summer experiment that became the batch model.
+- [ArtX](entities/ArtX.md) — Failed online art-gallery software idea whose website-generator work became the base for Viaweb.
+- [Sequoia Capital](entities/SequoiaCapital.md) — Venture firm linked to YC validation, Altos, Airbnb, Dropbox, and Google's 1999 round through Yahoo distribution access.
+- [Greg McAdoo](entities/GregMcAdoo.md) — Sequoia Capital investor who helped reframe Airbnb from an air-bed idea into a broader vacation-rental and lodging marketplace opportunity.
+- [Brian Chesky](entities/BrianChesky.md) — Airbnb co-founder and CEO whose episodes and Season 2 wrap-up context connect hosting, design school, YC survival, founder fieldwork, COVID crisis leadership, founder-led operating design, and founder mode.
+- [Airbnb](entities/Airbnb.md) — Peer-to-peer lodging and hospitality marketplace that began as AirBed & Breakfast and became a source case for marketplace trust design, crisis stakeholder tradeoffs, Season 2 highlight status, founder-led reset, and founder mode.
+- [Ken Chenault](entities/KenChenault.md) — Airbnb board member in the COVID crisis story who helped frame the travel collapse as an existential threat.
+- [Andy Grove](entities/AndyGrove.md) — Management and semiconductor leader cited by Brian Chesky for the idea that crises define great companies.
+- [Joe Gebbia](entities/JoeGebbia.md) — Airbnb co-founder whose design-school relationship with Brian Chesky, first hosting experiment, cereal-box survival move, and New York host visits shaped the origin story.
+- [Nate Blecharczyk](entities/NateBlecharczyk.md) — Airbnb technical co-founder who helped turn the hosting insight into a working booking site and joined the team through the YC decision.
+- [Michael Seibel](entities/MichaelSeibel.md) — Justin.tv cofounder and later YC leader whose wiki role now spans Airbnb introductions and recruiting Emmett Shear back to YC.
+- [Justin.tv](entities/JustinTV.md) — YC-linked live-video startup whose lifecasting experiment, 2008 runway discipline, and video infrastructure helped produce Twitch.
+- [Steve Huffman](entities/SteveHuffman.md) — Reddit co-founder and CEO whose episode connects YC's founder-over-idea pivot, the Conde Nast sale, Hipmunk, and his 2015 return during Reddit's community crisis.
+- [Reddit](entities/Reddit.md) — User-powered content and community platform born from a YC pivot, shaped by Delicious/Slashdot influences, Digg competition, Conde Nast ownership, and later platform governance crises.
+- [Alexis Ohanian](entities/AlexisOhanian.md) — Reddit co-founder whose pairing with Steve Huffman illustrates founder compatibility before the first product idea was validated.
+- [Aaron Swartz](entities/AaronSwartz.md) — Infogami founder who joined Reddit through a merger, creating early-team strain that Huffman later frames as an unresolved relationship.
+- [Hipmunk](entities/Hipmunk.md) — Steve Huffman and Adam Goldstein's travel startup, used as the second-company context that made Huffman's 2015 return to Reddit costly.
+- [Adam Goldstein](entities/AdamGoldstein.md) — Hipmunk co-founder whose M&A process and promise from Huffman make the Reddit return a founder-responsibility conflict.
+- [Conde Nast](entities/CondeNast.md) — Media company that acquired Reddit, creating stability but also startup hiring and incentive constraints.
+- [Infogami](entities/Infogami.md) — YC company associated with Aaron Swartz that merged with Reddit before Reddit's traction pulled attention away from the broader merged vision.
+- [Digg](entities/Digg.md) — Earlier and larger Reddit competitor that Huffman says gave Reddit lessons by absorbing platform heat first.
+- [Slashdot](entities/Slashdot.md) — Early technical news and comment community that influenced Reddit and also surfaced YC to Paul Buchheit.
+- [Delicious](entities/Delicious.md) — Social bookmarking site whose Popular page helped inspire Reddit's dynamic user-powered link list.
+- [Yishan Wang](entities/YishanWang.md) — Reddit CEO in the post-Conde Nast spinout period when the company regained more startup-like hiring and incentive structure.
+- [Sam Altman](entities/SamAltman.md) — Startup investor in the Reddit episode, linked to Reddit's Series B and the 2015 push for Huffman to return.
+- [Garry Tan](entities/GarryTan.md) — YC president and CEO whose episodes connect Stanford, Microsoft, Palantir, Posterous, Initialized Capital, Bookface, founder honesty, co-founder conflict, founder mode, and AI-era small-team economics.
+- [Posterous](entities/Posterous.md) — Garry Tan's YC-backed blogging startup, used as a case for iPhone-era timing, launch support, Instagram competition, co-founder conflict, and founder delegation failure.
+- [Initialized Capital](entities/InitializedCapital.md) — Venture firm Garry Tan began from the YC orbit, extending founder-investor learning beyond the seed-stage accelerator model.
+- [Startup School](entities/StartupSchool.md) — YC-linked startup event that helped push Garry Tan toward applying to YC by making the builder community visible.
+- [Bookface](entities/Bookface.md) — YC community software designed by Garry Tan to preserve founder identity, trust, and shared memory as batches scaled.
 - [David Lieb](entities/DavidLieb.md) — Bump co-founder and Google Photos product leader whose episode connects low-frequency product limits, power-user discovery, post-acquisition persistence, and YC founder support.
 - [Bump](entities/Bump.md) — Mobile contact-sharing startup with huge installs but weak usage frequency, used as the source case for low-frequency low-value product risk.
 - [Flock](entities/Flock.md) — Bump team's photo-sharing follow-on app whose failure clarified that the real product needed to live at the camera-roll layer.
 - [Google Photos](entities/GooglePhotos.md) — Google photo product that Lieb traces back to Bump power users, Flock's failed separate-app path, and an internal fight against Google Plus framing.
 - [Google Plus](entities/GooglePlus.md) — Google social product context that redirected photo work after the Bump acquisition and became the internal obstacle in Lieb's Google Photos account.
 - [Paul Buchheit](entities/PaulBuchheit.md) — Creator of Gmail, early Google employee, FriendFeed founder, former YC partner, and angel investor whose episode links fast product feedback to startup judgment.
-- [Gmail](entities/Gmail.md) — Google email product built by Paul Buchheit through internal-user feedback, large-storage differentiation, and a constrained launch after a press leak.
+- [Gmail](entities/Gmail.md) — Google email product built by Paul Buchheit through internal feedback and later appearing in Conway's IPO-period privacy/political story.
 - [FriendFeed](entities/FriendFeed.md) — Social-activity aggregation startup founded by Paul Buchheit after Google and later acquired by Facebook/Meta.
 - [Tony Xu](entities/TonyXu.md) — DoorDash founder and CEO whose episode connects small-business exposure, Stanford Startup Garage, janky MVP testing, YC, and founder proximity.
 - [DoorDash](entities/DoorDash.md) — Food-delivery marketplace built from PaloAltoDelivery, used as a case for three-sided validation, suburban delivery strategy, and operational complexity.
@@ -278,15 +711,22 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Antoine Hersen](entities/AntoineHersen.md) — PlanGrid co-founder whose illness and death shaped the founding team's early emotional intensity.
 - [Autodesk](entities/Autodesk.md) — Software company that acquired PlanGrid and became the post-exit context for Tracy Young and Ralph Goody's TigerEye reflection period.
 - [Trevor Blackwell](entities/TrevorBlackwell.md) — Viaweb engineer, Y Combinator co-founder, and Anybots founder whose episode connects early web software, startup infrastructure, and dynamic balancing robotics.
-- [Y Combinator](entities/YCombinator.md) — Startup accelerator discussed through early YC origin stories, PlanGrid's domain-expert interview, and DoorDash's three-sided marketplace validation.
+- [Y Combinator](entities/YCombinator.md) — Startup accelerator discussed through early origin stories, first-batch learning, founder-over-idea pivots, nonprofit and marketplace cases, trust-heavy infrastructure validation, founder mode, and AI-era small-team economics.
 - [Viaweb](entities/Viaweb.md) — Early web-commerce company where browser-based server software, live infrastructure, and Yahoo acquisition shaped later Y Combinator lessons.
 - [Anybots](entities/Anybots.md) — Trevor Blackwell's robotics company pursuing human-sized dynamically balancing robots and providing early Mountain View space for Y Combinator.
-- [Paul Graham](entities/PaulGraham.md) — Viaweb and Y Combinator co-founder in the Blackwell episode, later recalled by Jessica Livingston as describing DoorDash as an organizational work of art.
+- [Paul Graham](entities/PaulGraham.md) — Viaweb and Y Combinator co-founder whose source appearances include the Reddit train-call pivot, early YC design, and later product/startup judgment.
+- [Replit](entities/Replit.md) — Developer-tool company used in Paul Graham's YC offsite episode to frame vibe coding as English instructions functioning like source code.
+- [Amjad Masad](entities/AmjadMasad.md) — Replit figure whose AI-coding demo gave Graham the source-code/object-code framing for vibe coding.
+- [Stoke](entities/Stoke.md) — YC company praised by Graham as a low-key hard-engineering execution case at the Founder Mode Retreat.
+- [Paul Gross](entities/PaulGross.md) — Remora Carbon founder and CEO whose YC offsite episodes connect young-founder credibility, mobile carbon capture, and risk-focused founder mode.
 - [Robert Morris](entities/RobertMorris.md) — Harvard, Viaweb, and early Y Combinator figure who connected Paul Graham with Trevor Blackwell and helped judge early applicants.
-- [Jessica Livingston](entities/JessicaLivingston.md) — The Social Radars host and Y Combinator co-founder whose recollections connect early YC operations, PlanGrid's domain expertise, and DoorDash's operational marketplace story.
-- [Carolyn Levy](entities/CarolynLevy.md) — The Social Radars host who helps frame early YC/Blackwell startup folklore, Tracy Young's second-time founder lessons, and Tony Xu's DoorDash story.
-- [The Social Radars](entities/TheSocialRadars.md) — Podcast/show context for founder interviews on Viaweb, Anybots, early Y Combinator, PlanGrid, TigerEye, and DoorDash.
-- [Yahoo](entities/Yahoo.md) — Acquirer of Viaweb and setting for Blackwell's small-merchant ad-buying prototype that Yahoo's large-ad-sales organization did not embrace.
+- [Jessica Livingston](entities/JessicaLivingston.md) — The Social Radars host and Y Combinator co-founder whose recollections connect early YC operations, founder interviews, DoorDash, Modern Treasury, and Season 1/Season 2 wrap-up context.
+- [Carolyn Levy](entities/CarolynLevy.md) — The Social Radars host who helps frame founder interviews across Noora Health, Reddit, DoorDash, Modern Treasury, YC history, and Season 1/Season 2 wrap-up context.
+- [The Social Radars](entities/TheSocialRadars.md) — Podcast/show context for founder interviews on Noora Health, Reddit, Viaweb, early YC, Airbnb/Garry Tan founder mode, PlanGrid, DoorDash, Gmail, Bump, Coinbase, Modern Treasury, Stripe, Kiko, Justin.tv, Twitch, and season wrap-ups.
+- [Edith Elliott](entities/EdithElliott.md) — Noora Health co-founder and CEO connecting family caregiver training, nonprofit startup discipline, YC's nonprofit track, and trust-based philanthropy.
+- [Noora Health](entities/NooraHealth.md) — Nonprofit startup training family caregivers through the Care Companion Program across maternal, newborn, surgical, and other health contexts.
+- [Care Companion Program](entities/CareCompanionProgram.md) — Noora Health's in-country caregiver-training program turning family presence into practical patient-support capability.
+- [Yahoo](entities/Yahoo.md) — Acquirer of Viaweb and desired early Google distribution partner behind the founders' interest in Sequoia.
 - [Yahoo Store](entities/YahooStore.md) — Post-acquisition Viaweb product context for Blackwell's small-merchant self-serve advertising prototype.
 - [Hassan Benchikran](entities/HassanBenchikran.md) — San Diego pulmonary and critical/intensive care physician arguing that patients will use AI health answers and should be encouraged to bring them into appointments for contextual review.
 - [Anita Ramaswamy](entities/AnitaRamaswamy.md) — The Information columnist explaining Micron's AI memory demand, Oracle data-center debt risk, and AI slop in the Marketplace Tech Bytes episode.
@@ -295,7 +735,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [SK Hynix](entities/SKHynix.md) — Memory supplier peer named alongside Micron and Samsung in the AI memory demand cycle.
 - [Blue Owl Capital](entities/BlueOwlCapital.md) — Capital provider named in reporting discussed by Marketplace Tech about withdrawal from an Oracle-linked Michigan data-center project.
 - [Merriam-Webster](entities/MerriamWebster.md) — Dictionary publisher whose 2025 word-of-the-year selection of "slop" grounds the episode's AI-generated content discussion.
-- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on patient AI use, tech hiring, world models, AI-chatbot risk, prosthetic access, modern TV motion, AI data-center regulation, tax incentives, AI search advertising, AI memory demand, data-center debt risk, and AI slop.
+- [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on bridge monitoring, AI grief bots, workplace AI, crypto confidence, privacy, cyber risk, AI chips, patient AI use, tech hiring, world models, data centers, digital archiving, and AI slop.
 - [Garrett Johnson](entities/GarrettJohnson.md) — Boston University marketing professor explaining why AI search advertising depends on user growth, advertiser scale, conversion data, and sponsored-answer design.
 - [Boston University](entities/BostonUniversity.md) — University affiliation for Garrett Johnson in the Marketplace Tech episode on AI search advertising.
 - [Walmart](entities/Walmart.md) — Retail company cited as an OpenAI commerce partner whose conversion data may matter for AI search advertising and agentic commerce.
@@ -321,11 +761,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dolby](entities/Dolby.md) — Audio-video company linked to selective motion smoothing as a compromise between stutter and the soap-opera effect.
 - [Tom Cruise](entities/TomCruise.md) — Actor referenced through a 2018 PSA warning viewers about the soap-opera effect from motion smoothing.
 - [Britt Young](entities/BrittYoung.md) — Writer and UC Berkeley lecturer grounding the prosthetics episode in lived prosthetic experience, reporting, insurance barriers, and device-classification questions.
-- [Megan McCarty-Corino](entities/MeganMcCartyCorino.md) — Marketplace Tech host framing episodes on patient AI use, tech hiring, world models, data-center tax incentives, prosthetic access, Apple/streaming/AI-ad news, AI search advertising, AI memory demand, data-center debt risk, and AI slop.
+- [Megan McCarty-Corino](entities/MeganMcCartyCorino.md) — Marketplace Tech host/reporter framing episodes on AI scam websites, patient AI use, tech hiring, world models, data-center tax incentives, prosthetic access, AI search advertising, data-center debt risk, and AI slop.
 - [UC Berkeley](entities/UCBerkeley.md) — Institutional affiliation for Britt Young in the Marketplace Tech prosthetics episode.
 - [Open Bionics](entities/OpenBionics.md) — British 3D-printed prosthetics firm discussed as an availability option that still faces insurance-coverage barriers.
 - [Daria Georgievich](entities/DariaGeorgievich.md) — Psychiatrist explaining why consumer chatbots are unsafe mental-health supports for teens, especially in longer conversations.
-- [Stanford University](entities/StanfordUniversity.md) — University context for both the teen chatbot safety report and DoorDash's Stanford Startup Garage origin.
+- [Stanford University](entities/StanfordUniversity.md) — University context for Google research/sourcing, DoorDash, Garry Tan, Noora Health, Modern Treasury, and teen chatbot safety.
 - [Common Sense Media](entities/CommonSenseMedia.md) — Co-cited report source anchoring the child- and teen-safety side of the chatbot mental-health discussion.
 - [Columbia University](entities/ColumbiaUniversity.md) — Institutional affiliation for Daria Georgievich in the Marketplace Tech episode.
 - [Kiyosumi-Shirakawa / 清澄白河](entities/KiyosumiShirakawa.md) — Tokyo neighborhood used to explain authentic, low-pressure coffee and street experience through Blue Bottle's Asia first store.
@@ -554,7 +994,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bambu Lab / 拓竹科技](entities/BambuLab.md) — DJI-alumni hardware company example used to explain hardware talent spillover.
 - [EcoFlow / 正浩](entities/EcoFlow.md) — DJI-alumni portable-energy company example and category-expansion contrast.
 - [Google Cloud](entities/GoogleCloud.md) — Google enterprise cloud and AI infrastructure platform positioned through Google Cloud Next as part of Google's full-stack AI strategy.
-- [TPU](entities/TPU.md) — Google's AI chip family, discussed as a training and inference infrastructure layer inside Google's cloud-model-enterprise stack.
+- [TPU](entities/TPU.md) — Google's tensor-processing-unit chip family, discussed as both a cloud-model-enterprise stack layer and a specialized AI-chip alternative to Nvidia GPUs for some workloads.
 - [Latin America](entities/LatinAmerica.md) — Regional frame connecting Trump-era investment, U.S.-China strategic competition, critical minerals, and earlier security-driven rightward politics.
 - [China](entities/China.md) — Strategic investor and rival power in the Latin lessons source's Latin America investment, factory, mining, and infrastructure frame.
 - [Brazil](entities/Brazil.md) — Latin America investment case for a U.S.-backed rare-earth mine and BYD's China-linked factory presence.
@@ -711,7 +1151,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刚刚好影视 / Gangganghao Yingshi](entities/GangganghaoYingshi.md) — Live-action short-drama company contrasted with Rixin Yiy through higher-budget, story-led, single-project production.
 - [苏太太高调离婚了 / Su Taitai Gaodiao Lihunle](entities/SuTaitaiGaodiaoLihunle.md) — Live-action short-drama work used as an episode 269 example of completion, immersion, and story-driven free-platform performance.
 - [甄千金他是学霸 / Zhen Qianjin Ta Shi Xueba](entities/ZhenQianjinTaShiXueba.md) — Live-action short-drama example used to explain why changed character relationships change motivation and story events.
-- [YouTube](entities/YouTube.md) — Overseas video distribution surface for Chinese short dramas in episode 266's publishing and localization discussion.
+- [YouTube](entities/YouTube.md) — Video platform discussed through social-media product liability, media dominance, short-drama distribution, Social Radars clips, and Google's acquisition as legal-risk acquirer fit.
 - [Israel](entities/Israel.md) — Country actor whose conflict with Hezbollah in Lebanon could imperil the episode's wider U.S.-Iran diplomacy frame.
 - [Lebanon](entities/Lebanon.md) — Country context for the ceasefire clause, Hezbollah capacity, and enforcement problem in the Iran-deal segment.
 - [Hezbollah](entities/Hezbollah.md) — Armed movement whose southern-Lebanon capacity drives Israel's skepticism about a ceasefire.
@@ -921,7 +1361,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lithuania](entities/Lithuania.md) — Baltic security case where German deployment and American force uncertainty make NATO credibility visible.
 - [Ali Khamenei](entities/AliKhamenei.md) — Iranian supreme-leader figure whose funeral is framed by The Intelligence as religious rite, regime display, and succession test.
 - [Mujtaba Khamenei](entities/MujtabaKhamenei.md) — Khamenei son described by the episode as supposed successor whose absence creates command uncertainty.
-- [Iran](entities/Iran.md) — Country context for U.S.-Iran diplomacy, Strait of Hormuz bargaining, Khamenei's funeral, succession uncertainty, and digital-infrastructure war risk.
+- [Iran](entities/Iran.md) — Country context for U.S.-Iran diplomacy, Strait of Hormuz bargaining, Khamenei's funeral, succession uncertainty, digital-infrastructure war risk, and state-linked cyber operations.
 - [Strait of Hormuz](entities/StraitOfHormuz.md) — Shipping chokepoint tied to the episode's U.S.-Iran deal terms and later Iran ceasefire bargaining.
 - [Japan](entities/Japan.md) — Country context for legal and political sources plus FengTouQuan's product-experience, tourism, neighborhood, theme-park, and Sanrio comparison.
 - [Route 66](entities/Route66.md) — American highway treated as a centenary symbol of migration, car culture, decommissioned infrastructure, Old West performance, and nostalgia tourism.
@@ -972,7 +1412,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [NASA](entities/NASA.md) — U.S. space agency framed as SpaceX's knowledge, standards, and commercial-procurement foundation.
 - [谢晨](entities/XieChen.md) — Guanglun Intelligence founder and CEO framing AI data as education and robotics simulation as core embodied-AI infrastructure.
 - [光轮智能](entities/GuanglunIntelligence.md) — Robotics simulation and data-engine company building environments, evaluation, and recipe loops for embodied AI.
-- [Cruise](entities/Cruise.md) — Autonomous-driving company where Xie Chen validated simulation and synthetic data as useful training infrastructure.
+- [Cruise](entities/Cruise.md) — Autonomous-driving company used as both Kyle Vogt's hard-tech startup case and Xie Chen's later simulation/data infrastructure reference.
 - [Scale AI](entities/ScaleAI.md) — Industrial AI data company used as the episode's Data Factory comparator before data-engine learning loops.
 - [Unitree Robotics](entities/UnitreeRobotics.md) — Robot-body company used as an example of clear hardware-layer focus in the embodied-AI ecosystem.
 - [Zhiyuan Robotics](entities/ZhiyuanRobotics.md) — Robot company cited for commercialization and mass-production capability in China's embodied-AI landscape.
@@ -1083,7 +1523,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [PGP](entities/PGP.md) — Cryptography software used as a historical analogy for why intangible software export controls can fail.
 - [Fable 5](entities/Fable5.md) — AI model/product discussed through one-shot coding, planning, review triage, quota pressure, and token-driven product imagination.
 - [GrillMe Skills](entities/GrillMeSkills.md) — Matpaco skill workflow contrasted with Superpowers as a lighter manual path for requirement questioning, specs, ADRs, PRDs, and issue decomposition.
-- [Meta](entities/Meta.md) — Platform company discussed through Facebook's TikTok response, the Manus acquisition claim, AI capex, FAIR research, and model/platform firms buying agent application layers.
+- [Meta](entities/Meta.md) — Platform company discussed through social-media product liability, Facebook's TikTok response, the Manus acquisition claim, AI capex, FAIR research, and model/platform firms buying agent application layers.
 - [OpenManus](entities/OpenManus.md) — Agent project referenced as evidence that Manus-like task execution, local browser operation, and workflow automation were becoming easier to reproduce.
 - [Tongxin Software](entities/TongxinSoftware.md) — Domestic operating-system company used by the episode to connect Deepin's community lineage with Xinchuang government-enterprise delivery and management culture.
 - [Tongxin UOS](entities/TongxinUOS.md) — Commercial operating-system product connected to Deepin and the Xinchuang market.
@@ -1202,7 +1642,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Buena Vista Distribution](entities/BuenaVistaDistribution.md) — Disney distribution arm that reduced reliance on outside film distributors.
 - [大琪](entities/Daqi.md) — Independent designer connecting Alibaba, Lazada, TikTok, Product Roast, landing-page conversion, and design-led growth.
 - [Lazada](entities/Lazada.md) — Southeast Asian ecommerce company used through Daqi's design-team experience and cross-cultural product-design lessons.
-- [TikTok](entities/TikTok.md) — Global short-video platform formed from Musical.ly plus ByteDance systems, linked to creator tools, recommendation, safety, localization, design practice, and regulatory stress.
+- [TikTok](entities/TikTok.md) — Global short-video platform formed from Musical.ly plus ByteDance systems, linked to creator tools, recommendation, safety, localization, design practice, regulatory stress, and possible social-media liability pressure.
 - [Maxine Clark](entities/MaxineClark.md) — Build-A-Bear founder and former retail executive connecting customer empathy, child-centered design, mall retail, and succession.
 - [Build-A-Bear](entities/BuildABear.md) — Make-your-own stuffed animal retailer built around customer co-creation, mall expansion, brand ritual, and experiential retail.
 - [May Department Stores](entities/MayDepartmentStores.md) — Retail company where Maxine Clark developed merchandising, operations, and executive experience before Build-A-Bear.
@@ -1287,7 +1727,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Caroline Buck](entities/CarolineBuck.md) — Petaluma founder asking how to explain plant-based dog food without triggering backlash.
 - [Character AI](entities/CharacterAI.md) — Character-chat product referenced as an AI-as-interaction-object example, companion-chat commercialization caution, and EVE contrast case.
 - [China Securities Regulatory Commission](entities/ChinaSecuritiesRegulatoryCommission.md) — Chinese securities regulator discussed through A-share supervision, market warnings, price limits, and off-market financing cleanup.
-- [ChatGPT](entities/ChatGPT.md) — AI assistant/search surface monitored by Peak AI and discussed through memory, mobile use, design work, and remote-agent control.
+- [ChatGPT](entities/ChatGPT.md) — AI assistant/search surface discussed through search, memory, mobile use, design work, remote-agent control, and post-mortem simulation risk.
 - [Chen Jingchu](entities/ChenJingchu.md) — Serial builder and hackathon contestant arguing that building public is an AI-era product and distribution lever.
 - [Christina Molinaro](entities/ChristinaMolinaro.md) — 25 & Pine founder discussing viral social growth and repeatable customer acquisition.
 - [Claude Code](entities/ClaudeCode.md) — Agentic coding tool used for workflow-oriented AI use, implementation, review loops, and external Skills.
@@ -1318,7 +1758,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gemini](entities/Gemini.md) — AI assistant/search and coding surface discussed through Peak AI, Gemini CLI, product fragmentation, and assistant workflow comparison.
 - [Gemini CLI](entities/GeminiCLI.md) — Command-line AI coding tool discussed through long-context planning and model-provider tool competition.
 - [Gino Wickman](entities/GinoWickman.md) — EOS founder whose methodology and community created the ecosystem around Ninety's early product.
-- [Google](entities/Google.md) — Company behind Gemini and Android, discussed through AI product surfaces, world-model interest, search-platform comparison, mobile-platform strategy, and TikTok's global-incumbent competitive frame.
+- [Google](entities/Google.md) — Search, ads, mobile, cloud, and AI company now grounded by early PageRank, distribution, AdWords, Gmail, AI search, TPUs, and sponsored-result trust risk.
 - [Goldman Sachs](entities/GoldmanSachs.md) — Financial institution referenced in EP57 through retail ownership data, mega-cap concentration data, and bank-stock weakness.
 - [Great Harvest Bread](entities/GreatHarvestBread.md) — Early Boulder retail customer for Justin's Nut Butter.
 - [Hang Seng Tech Index](entities/HangSengTechIndex.md) — Hong Kong technology benchmark discussed through China-tech repricing, Nasdaq linkage, and high-elasticity ETF behavior.
@@ -1493,7 +1933,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Vibe Song](entities/VibeSong.md) — Online vibe-coding competition platform prototype that turns hackathon building into a public participatory format.
 - [VMG](entities/VMG.md) — Investment group that backed Justin's Nut Butter with growth capital around 2012.
 - [Wang Dafu](entities/WangDafu.md) — Keji Luandun participant contributing operations, data-work, scripting, and business-logic optimization examples.
-- [Warren Buffett](entities/WarrenBuffett.md) — Long-term value investor discussed through contrast with Jim Simons, Berkshire's cash and Apple reduction, and consumer-brand cases with Charlie Munger.
+- [Warren Buffett](entities/WarrenBuffett.md) — Long-term value investor discussed through public-market discipline, Munger cases, and Conway's account of Google's IPO-letter influence.
 - [吴涛](entities/WuTao.md) — Neihe Konghuang host connecting Japanese learning, cloud consulting, AI coding, low-level programming craft, campus radio, and monitor physics.
 - [WeChat](entities/WeChat.md) — Platform discussed as a possible high-context environment for agent products in China.
 - [微信读书](entities/WeChatReading.md) — Reading and notes product used as a non-coding Skill target for personal knowledge workflows.
@@ -1539,13 +1979,242 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Social Media Product Liability](concepts/SocialMediaProductLiability.md) — Legal frame treating addictive or harmful social-platform features as product-design choices rather than only speech or hosting.
+- [AI Worker Literacy](concepts/AIWorkerLiteracy.md) — Worker-facing AI readiness frame that gives basic tool fluency while leaving displacement, safeguards, and productivity-gain distribution unresolved.
+- [Prediction Market Self-Regulation](concepts/PredictionMarketSelfRegulation.md) — Platform-led guardrail strategy for blocking prohibited traders or insider-informed event-market activity before external rules arrive.
+- [Structural Health Monitoring](concepts/StructuralHealthMonitoring.md) — Sensor and data layer for tracking how critical structure members perform, grounded by the Key Bridge rebuild.
+- [Sensor-Driven Infrastructure Maintenance](concepts/SensorDrivenInfrastructureMaintenance.md) — Maintenance pattern where sensors, engineering models, inspection access, and operating policy shape public-infrastructure upkeep.
+- [Bridge Load Capacity](concepts/BridgeLoadCapacity.md) — Practical ability of a bridge to carry commuter and freight loads, tied by the source to port operations and monitoring data.
+- [Cloud Storage Physicality](concepts/CloudStoragePhysicality.md) — Claim that cloud files rest on finite-lived physical media, data-center operations, account custody, and migration.
+- [Preservation Technical Environment](concepts/PreservationTechnicalEnvironment.md) — Hardware, software, operating-system, cable, documentation, and institutional-memory layer needed to make old digital archives readable.
+- [Prediction Market Integrity Oversight](concepts/PredictionMarketIntegrityOversight.md) — Control problem for event markets involving manipulation, insider knowledge, non-public information, sportsbook-like monitoring, and platform guardrails.
+- [Sportsbook Integrity Monitoring](concepts/SportsbookIntegrityMonitoring.md) — Licensed sports-betting oversight system using wager tracking, geolocation, integrity monitors, insider screening, and reporting duties.
+- [Event Contract Manipulation Risk](concepts/EventContractManipulationRisk.md) — Risk that a tradable event can be influenced or privately known by a participant, official, athlete, campaign, military insider, or other non-public actor.
+- [First Draft Thinking](concepts/FirstDraftThinking.md) — Protected initial synthesis, draft, or solution attempt students should make before AI help enters the learning process.
+- [Defense Robotics Maintenance](concepts/DefenseRoboticsMaintenance.md) — Use of robots, drones, sensors, and AI models to inspect, repair, or predict defects in military systems and infrastructure.
+- [Defense Tech Startup Procurement](concepts/DefenseTechStartupProcurement.md) — Military procurement pattern where newer technology companies win work traditionally associated with legacy defense contractors.
+- [Media AI Rescue Strategy](concepts/MediaAIRescueStrategy.md) — Attempt to use AI games, quizzes, personalization, or interactive content to compensate for a weakened media business model.
+- [Ultra-Fast Delivery Economics](concepts/UltraFastDeliveryEconomics.md) — Cost, pricing, inventory, routing, and expectation-setting problem behind one-hour or near-immediate delivery.
+- [AI Consumer Decision Shaping](concepts/AIConsumerDecisionShaping.md) — Recommendation and fulfillment loop where AI helps influence what consumers notice, want, and buy.
+- [Low-Cost Drone Warfare](concepts/LowCostDroneWarfare.md) — Warfare pattern where cheap, numerous, adaptable drones create strategic effects through range, volume, attrition, and defensive cost pressure.
+- [Commercial Off-The-Shelf Weaponization](concepts/CommercialOffTheShelfWeaponization.md) — Conversion of ordinary commercial parts, materials, electronics, and control links into useful military systems.
+- [Drone Defense Economics](concepts/DroneDefenseEconomics.md) — Cost and scarcity problem where cheap drones force defenders to spend expensive interceptors, attention, and short-range defense capacity.
+- [Counter-Drone Layered Defense](concepts/CounterDroneLayeredDefense.md) — Multi-layer defense approach using jamming, sensors, classification, short-range interceptors, and cost discipline against adaptive drone threats.
+- [Drone Decoy Economics](concepts/DroneDecoyEconomics.md) — Use of cheap or unarmed drone-like systems to force costly, fast, and imperfect defensive decisions.
+- [AI Grief Bots](concepts/AIGriefBots.md) — Post-mortem AI avatars or conversation-like simulations of deceased people, raising consent, dignity, privacy, grief, and access questions.
+- [Post-Mortem AI Consent](concepts/PostMortemAIConsent.md) — Boundary for whether and how a deceased person's data, likeness, style, or private communications may become an AI representation.
+- [Digital Memorialization](concepts/DigitalMemorialization.md) — Preservation or representation of people, memories, and testimony through digital systems after death, especially when AI makes them interactive.
+- [Recorded Meeting Analysis](concepts/RecordedMeetingAnalysis.md) — Workplace AI pattern where meetings are recorded, summarized, indexed by speaker/topic, and queried later as organizational context or employee evidence.
+- [Workplace Digital Twins](concepts/WorkplaceDigitalTwins.md) — Person-specific workplace AI representations built from email, documents, recorded meetings, collaborators, and communication style.
+- [Workplace AI Transparency](concepts/WorkplaceAITransparency.md) — Governance norm that workers should know when AI systems record, summarize, analyze, or monitor work activity.
+- [Crypto Consumer Confidence](concepts/CryptoConsumerConfidence.md) — Survey and behavioral-market frame for how consumer confidence, demographics, regional attitudes, and payment habits interact with cryptocurrency prices and adoption.
+- [AI Coding Guardrails](concepts/AICodingGuardrails.md) — Review, control, and deployment practices for keeping AI-assisted engineering work from becoming production risk.
+- [YouTube Media Dominance](concepts/YouTubeMediaDominance.md) — YouTube's platform position across creator content, TV, Shorts, ads, subscriptions, Alphabet data, and AI creator tools.
+- [Digital Gold](concepts/DigitalGold.md) — Claim that Bitcoin can play a gold-like monetary role through capped supply, government independence, divisibility, and global transferability.
+- [Bitcoin Safe-Haven Behavior](concepts/BitcoinSafeHavenBehavior.md) — Question of whether Bitcoin actually attracts protective demand during shocks rather than only carrying a digital-gold narrative.
+- [Cross-Border Crypto Capital Flight](concepts/CrossBorderCryptoCapitalFlight.md) — Use of crypto assets such as Bitcoin to move wealth across borders during instability, currency pressure, sanctions, or capital controls.
+- [Newsroom AI Adoption](concepts/NewsroomAIAdoption.md) — Use of AI across newsroom transcription, lead generation, summarization, document review, and article drafting workflows.
+- [AI Rewrite Desk](concepts/AIRewriteDesk.md) — Workflow where reporters' notes are turned into articles by an editor prompting AI.
+- [AI-Written Journalism](concepts/AIWrittenJournalism.md) — Published news copy substantially drafted by AI rather than by a human reporter.
+- [AI Journalism Trust](concepts/AIJournalismTrust.md) — Reader-confidence problem around AI-written or AI-assisted journalism, beyond disclosure alone.
+- [Local News Automation Tradeoff](concepts/LocalNewsAutomationTradeoff.md) — Question of whether basic AI-assisted local coverage is preferable to no coverage, and when that becomes cost-cutting.
+- [Youth Entrepreneurship](concepts/YouthEntrepreneurship.md) — Supervised youth commercial activity used to teach goals, communication, customer follow-up, money purpose, and responsibility.
+- [Digital Commerce Literacy](concepts/DigitalCommerceLiteracy.md) — Practical skill of using online sales tools while understanding message, channel, follow-up, checkout, safety, and trust.
+- [Child Online Commerce Safety](concepts/ChildOnlineCommerceSafety.md) — Safety boundary for minors using digital tools to sell, fundraise, contact customers, or bridge online ordering into offline delivery.
+- [Consumer Data Deletion](concepts/ConsumerDataDeletion.md) — Consumer privacy mechanism for requesting removal of broker-held personal information, framed as harm reduction rather than total erasure.
+- [California Delete Act](concepts/CaliforniaDeleteAct.md) — 2023 California law mandating DROP and turning data-broker deletion rights into a centralized state workflow.
+- [AI-Enabled Spam](concepts/AIEnabledSpam.md) — Unwanted outreach made more scalable, adaptive, or ambiguous by AI, only partly mitigated by data-broker deletion.
+- [Prediction Market Ethics](concepts/PredictionMarketEthics.md) — Boundary problem for event markets that may aggregate information while monetizing harmful outcomes or inviting insider-informed trading.
+- [AI Content Licensing](concepts/AIContentLicensing.md) — AI-company payments to publishers or content owners for current information, archives, training data, grounding, attribution, or answer visibility.
+- [Defense AI Supply Chain Risk](concepts/DefenseAISupplyChainRisk.md) — Contractor and procurement risk created when a defense customer treats an AI vendor, model, or integration as unacceptable for critical military systems.
+- [Iran-Linked Cyber Operations](concepts/IranLinkedCyberOperations.md) — State-linked cyber activity described as evolving from DDoS and website defacement toward phishing, vulnerability scanning, data theft, leaks, and industrial-control targeting.
+- [Banking DDoS Resilience](concepts/BankingDDoSResilience.md) — Bank preparedness against denial-of-service campaigns that overwhelm public websites while preserving legitimate customer access.
+- [Cyber Data Theft and Leak Operations](concepts/CyberDataTheftAndLeakOperations.md) — Intrusion pattern where stolen data is released or amplified to spread uncertainty, damage credibility, or expose sensitive records.
+- [Industrial Control System Cyber Risk](concepts/IndustrialControlSystemCyberRisk.md) — Cyber risk to systems that control physical infrastructure, grounded by the Unitronics water-treatment example.
+- [Answer Engine Optimization](concepts/AnswerEngineOptimization.md) — Practice of making brands, products, institutions, or services discoverable and accurately represented in chatbot answers through dense factual public information.
+- [Memory Chip Shortage](concepts/MemoryChipShortage.md) — AI-data-center-driven shortage pattern affecting memory prices, hard-drive availability, consumer devices, archives, and personal storage.
+- [Digital Preservation](concepts/DigitalPreservation.md) — Active stewardship needed to keep digital materials findable and usable across storage scarcity, cloud physicality, obsolete technical environments, and consent-aware memorialization.
+- [Personal Digital Archiving](concepts/PersonalDigitalArchiving.md) — Household preservation practice involving cloud-account documentation, multiple copies, migration, readable exports, and file checking.
+- [Surveillance as a Service](concepts/SurveillanceAsAService.md) — Vendor model where private companies build surveillance infrastructure, aggregate data, and sell searchable access or analysis tools to law enforcement.
+- [Government Data Broker Access](concepts/GovernmentDataBrokerAccess.md) — Practice of government agencies obtaining commercially collected data from brokers or private surveillance vendors.
+- [Data Broker Loophole](concepts/DataBrokerLoophole.md) — Policy gap where government agencies can buy information they would need a warrant to collect directly.
+- [Third-Party Doctrine](concepts/ThirdPartyDoctrine.md) — Legal principle that people can lose some privacy interests in information shared with private third parties.
+- [Fourth Amendment Digital Privacy](concepts/FourthAmendmentDigitalPrivacy.md) — Problem of applying search-and-seizure protections to digital data held by private companies.
+- [Administrative Subpoena Data Access](concepts/AdministrativeSubpoenaDataAccess.md) — Route where agencies compel company or institutional records without the same judicial oversight as a warrant.
+- [Civil Liberties Surveillance Risk](concepts/CivilLibertiesSurveillanceRisk.md) — Risk that searchable, outsourced, large-scale surveillance chills speech, association, and democratic participation.
+- [Smith v. Maryland](concepts/SmithVMaryland.md) — Precedent named in the episode as the legal anchor for third-party doctrine in digital privacy debates.
+- [Fourth Amendment is Not For Sale Act](concepts/FourthAmendmentIsNotForSaleAct.md) — Federal bill referenced as the model for closing the data broker loophole through warrant requirements.
+- [Defense AI Procurement](concepts/DefenseAIProcurement.md) — Buying, deploying, and governing AI systems for military and national-security work, grounded by the Claude-Pentagon dispute.
+- [Frontier Model Use Policy Conflict](concepts/FrontierModelUsePolicyConflict.md) — Mismatch between a model provider's acceptable-use policy and a powerful customer's desired lawful-use scope.
+- [Tech Manufacturing Reshoring](concepts/TechManufacturingReshoring.md) — Attempts to move hardware production or advanced-manufacturing capability back into the U.S., grounded by Apple's Houston Mac Mini plan.
+- [Physical Video Media Revival](concepts/PhysicalVideoMediaRevival.md) — Renewed interest in DVDs, Blu-rays, and VHS as a response to streaming fragmentation, collecting, rare-title access, and preservation.
+- [Video Store Culture](concepts/VideoStoreCulture.md) — Social and discovery layer of browsing shelves, renting physical copies, talking with staff, and encountering movies in shared retail space.
+- [Analog Media Preservation](concepts/AnalogMediaPreservation.md) — Preserving media works and context through physical or analog formats, including analog-to-digital recovery when old digital copies become hard to read.
+- [AI College Search](concepts/AICollegeSearch.md) — Student-facing pattern where prospective students use AI tools to build school lists, assess campus vibe, and compare acceptances or scholarships.
+- [Higher Education AI Discoverability](concepts/HigherEducationAIDiscoverability.md) — College marketing and information-quality practice of making schools accurately visible in AI answer surfaces.
+- [AI Ranking Reinforcement](concepts/AIRankingReinforcement.md) — Failure mode where conversational AI repeats familiar ranked options instead of surfacing fit-based alternatives.
+- [AI Interviewing](concepts/AIInterviewing.md) — Hiring automation pattern where AI systems ask interview questions, collect recorded answers, and generate assessments that still require human review and governance.
+- [AI-Assisted Website Scams](concepts/AIAssistedWebsiteScams.md) — Fraudulent websites made cheaper, faster, or more convincing through AI coding agents, generated copy, and automated site production.
+- [Fake Retail Website Impersonation](concepts/FakeRetailWebsiteImpersonation.md) — Scam pattern where a fraudulent e-commerce site imitates the official store, catalog, or brand surface of a legitimate retailer.
+- [Search Ad Trust Gap](concepts/SearchAdTrustGap.md) — Mismatch between how trustworthy sponsored search placement feels to users and what paid placement actually proves.
+- [Brand Impersonation Monitoring](concepts/BrandImpersonationMonitoring.md) — Operational need for brands to find, verify, and respond to fake domains, ads, storefronts, and other impersonation surfaces.
+- [AI Answer Source Attribution](concepts/AIAnswerSourceAttribution.md) — Source-visibility, trust, traffic, and regulation problem created when AI search answers summarize publisher material.
+- [South Florida Tech Migration](concepts/SouthFloridaTechMigration.md) — Business-geography pattern where Miami and nearby Florida markets attract technology and finance firms through taxes, regulation, politics, and symbolism.
+- [Consumer Camera Surveillance](concepts/ConsumerCameraSurveillance.md) — Privacy and governance problem created when consumer camera devices become searchable AI-enabled neighborhood networks.
+- [Personal Superintelligence](concepts/PersonalSuperintelligence.md) — Meta's proposed personalized assistant strategy combining user data, Meta AI, app distribution, and wearable hardware.
+- [AI Advertising Targeting](concepts/AIAdvertisingTargeting.md) — Use of AI to improve ad matching, timing, prediction, and monetization inside platform advertising businesses.
+- [Computing Enrollment Decline](concepts/ComputingEnrollmentDecline.md) — Reported fall in U.S. computer and information science enrollment, with students shifting away from traditional CS toward applied computing subfields.
+- [Computing Research Pipeline](concepts/ComputingResearchPipeline.md) — Path from undergraduate computing study into graduate programs, university research, and industry research capacity.
+- [Data Center Onsite Power](concepts/DataCenterOnsitePower.md) — Pattern where data-center developers generate electricity at or near the facility, often to move faster than grid interconnection queues allow.
+- [AI Infrastructure Debt Financing](concepts/AIInfrastructureDebtFinancing.md) — Use of long-term debt, bonds, and capital-market confidence to fund AI data centers and infrastructure buildout.
+- [Personalization As Social Identity](concepts/PersonalizationAsSocialIdentity.md) — Product pattern where private usage data becomes a shareable statement about taste, status, mood, or belonging.
+- [AI Prompted Playlist Curation](concepts/AIPromptedPlaylistCuration.md) — Use of natural-language prompts to generate or refine music playlists as a consumer AI curation layer.
+- [Stablecoin Sanctions Evasion](concepts/StablecoinSanctionsEvasion.md) — Dual-use risk where stablecoin rails move value outside traditional banking channels and complicate sanctions enforcement.
+- [Work-From-Home Scam](concepts/WorkFromHomeScam.md) — Fake task or gig-work platform scam using fabricated earnings balances and withdrawal fees, deposits, or taxes.
+- [AI-Enabled Scam Industrialization](concepts/AIEnabledScamIndustrialization.md) — Use of AI to scale scam outreach, personalize narratives, and strengthen deepfake or cloned-audio fraud.
+- [Lunar Resource Governance](concepts/LunarResourceGovernance.md) — Rule-making problem of using lunar resources and operating safely on the Moon without claiming territory.
+- [Space Resource Extraction](concepts/SpaceResourceExtraction.md) — Commercial-use distinction where extracted space resources may be owned even though celestial territory cannot be claimed.
+- [Lunar Nuclear Power](concepts/LunarNuclearPower.md) — Stable-energy constraint for sustained lunar bases, research stations, and commercial activity.
+- [Helium-3](concepts/Helium3.md) — Possible lunar resource mentioned as a speculative input to safer nuclear-energy systems.
+- [AI Chip Specialization](concepts/AIChipSpecialization.md) — Tradeoff where AI chips tuned for narrower workloads can improve speed and power use while losing general-purpose flexibility.
+- [Neural Processing Units](concepts/NeuralProcessingUnits.md) — Device-side AI accelerators that bring specialized model execution into PCs, phones, cars, robots, and industrial equipment.
+- [Smartphone Survey Penalty](concepts/SmartphoneSurveyPenalty.md) — Device-linked drop in survey knowledge-question performance when respondents answer on phones rather than desktops, laptops, or tablets.
+- [Survey Mode Effects](concepts/SurveyModeEffects.md) — Measurement shifts caused by how respondents answer a survey, including device type, fatigue, effort, and mobile response rates.
+- [Financial Literacy Measurement](concepts/FinancialLiteracyMeasurement.md) — Survey-design problem of measuring personal-finance knowledge across time and countries without confusing knowledge change with device effects.
+- [AI-Assisted Survey Response](concepts/AIAssistedSurveyResponse.md) — Risk that respondents use chatbots or AI tools during surveys, blurring knowledge measurement, lookup behavior, and effort.
+- [Strategic AI Infrastructure Dependence](concepts/StrategicAIInfrastructureDependence.md) — Pattern where model labs, chip suppliers, and cloud providers need one another's scale while hedging single-counterparty dependence.
+- [Platform Ownership Transition](concepts/PlatformOwnershipTransition.md) — Risk pattern where a consumer platform's ownership, infrastructure, legal terms, and data practices change beneath a familiar product surface.
+- [Mobile Carbon Capture](concepts/MobileCarbonCapture.md) — Climate hardware pattern of capturing CO2 from moving freight vehicles and turning it into a usable product under demanding retrofit constraints.
+- [Founder Risk Deep Dive](concepts/FounderRiskDeepDive.md) — Founder-mode pattern of delegating broadly while going deep on the company's few highest technical, commercial, or organizational risks.
+- [Creator-Owned Audience](concepts/CreatorOwnedAudience.md) — Media pattern where creators build direct reader or listener relationships through email, subscriptions, and payment while still needing discovery.
+- [Strategic Must-Work Product Bet](concepts/StrategicMustWorkProductBet.md) — Product strategy distinction for features a company decides must work because the core thesis depends on them, illustrated by Substack Notes.
+- [Frontier Model Inflection Pivot](concepts/FrontierModelInflectionPivot.md) — Company-level strategic reset triggered when a frontier model capability jump makes previously impractical workflows suddenly plausible.
+- [Sync Reliability As UX](concepts/SyncReliabilityAsUX.md) — Product principle where hard sync, backup, recovery, and status behavior become valuable only when users can trust them without understanding the machinery.
+- [Incumbent Platform Pressure](concepts/IncumbentPlatformPressure.md) — Competitive squeeze created when platform companies can copy, bundle, subsidize, or preinstall a startup's product category.
+- [Bottom-Up Enterprise Distribution](concepts/BottomUpEnterpriseDistribution.md) — Enterprise adoption path where individual users and teams spread a tool before formal purchasing catches up.
+- [Strategic Focus Under Incumbent Pressure](concepts/StrategicFocusUnderIncumbentPressure.md) — Operating discipline of killing plausible adjacent bets and narrowing strategy when larger competitors subsidize or bundle nearby products.
+- [Knowledge Work Fragmentation](concepts/KnowledgeWorkFragmentation.md) — Workplace problem of information scattered across files, tabs, messages, apps, and ad hoc organization systems.
+- [Founder Psychology Operational Risk](concepts/FounderPsychologyOperationalRisk.md) — Risk that a company inherits a founder's unresolved blind spots and overused strengths as operating defaults.
+- [Founder Risk Calibration](concepts/FounderRiskCalibration.md) — Founder judgment pattern where a socially risky-looking choice can be rational once downside, upside, learning, and life trajectory are weighed correctly.
+- [OpenAI Board Crisis](concepts/OpenAIBoardCrisis.md) — November 2023 OpenAI governance crisis involving Altman's removal, employee revolt, Microsoft fallback, and board-composition lessons.
+- [Language Model Scaling Bet](concepts/LanguageModelScalingBet.md) — Research-strategy choice to concentrate compute and organizational belief behind scaled language models after a more efficient architecture appeared.
+- [Delegated Web Research](concepts/DelegatedWebResearch.md) — AI search pattern where a system performs long-running research and synthesis rather than returning a quick answer or ranked links.
+- [Consumer Hardware Startup Risk](concepts/ConsumerHardwareStartupRisk.md) — Operating risk in hardware startups where platforms, manufacturing, quality, support, inventory, and financing must align before software-style iteration can catch up.
+- [Kickstarter Demand Shock](concepts/KickstarterDemandShock.md) — Crowdfunding pattern where unexpectedly strong preorder demand validates pull while creating immediate delivery and support obligations.
+- [Hardware Inventory Risk](concepts/HardwareInventoryRisk.md) — Startup operating risk where physical units require cash, forecasts, storage, and discount decisions before demand fully converts.
+- [Venture Debt Operational Risk](concepts/VentureDebtOperationalRisk.md) — Risk that debt used for startup operations reduces flexibility through repayment, covenants, and cash-balance requirements.
+- [Build For Yourself Founder Fit](concepts/BuildForYourselfFounderFit.md) — Founder-product-fit pattern where the strongest initial insight comes from a tool the founder personally wants to use.
+- [Product Vision Drift](concepts/ProductVisionDrift.md) — Failure pattern where a company keeps pursuing adjacent product directions after its first promise but loses a durable explanation of what it is for.
+- [AI Data Infrastructure](concepts/AIDataInfrastructure.md) — Systems, labor, quality control, feedback, and expert task data that make AI model training and improvement possible.
+- [Agent Data](concepts/AgentData.md) — Process data about how people think, gather information, check constraints, and act while completing tasks.
+- [Merit, Excellence, and Intelligence](concepts/MeritExcellenceIntelligence.md) — Scale AI's source-described culture and hiring stance around meritocracy, excellence, talent, and diversity debates.
+- [Do Too Much Founder Philosophy](concepts/DoTooMuchFounderPhilosophy.md) — Alexandr Wang's founder response pattern for overreacting deliberately to major technology shifts.
+- [Startup Legitimacy Transfer](concepts/StartupLegitimacyTransfer.md) — Pattern where an accelerator, investor, or institution lends credibility, ambition, and access to founders before ordinary traction exists.
+- [Objective Hiring Assessment](concepts/ObjectiveHiringAssessment.md) — Hiring model that uses direct skill evidence beyond credentials while still facing team-fit, culture, values, and prediction limits.
+- [Marketplace Friction Reduction](concepts/MarketplaceFrictionReduction.md) — Marketplace product discipline of removing practical, emotional, trust, and decision burdens that block participant behavior.
+- [Authentication-Led Marketplace Trust](concepts/AuthenticationLedMarketplaceTrust.md) — Trust pattern where expert inspection, audits, and platform accountability make buyers comfortable with hard-to-verify resale goods.
+- [Category Focus Before Expansion](concepts/CategoryFocusBeforeExpansion.md) — Startup sequencing discipline of going deep in one category, geography, or use case before broadening the company surface area.
+- [Demand Shock Product-Market Fit](concepts/DemandShockProductMarketFit.md) — Breakout pattern where sudden demand overwhelms operations but retention and repeat buying reveal real product-market fit.
+- [Capital Efficient Startup Building](concepts/CapitalEfficientStartupBuilding.md) — Startup operating pattern where careful burn, revenue learning, and survival time preserve ownership and optionality.
+- [Slow Product Market Fit](concepts/SlowProductMarketFit.md) — PMF pattern where years of product improvement, survival, and word-of-mouth compounding precede clear breakout metrics.
+- [Founder Delegation Discipline](concepts/FounderDelegationDiscipline.md) — Leadership habit of reducing founder bottlenecks, preserving thinking time, and turning founder attention into real team ownership.
+- [Economic Climate Tech Adoption](concepts/EconomicClimateTechAdoption.md) — Climate-tech adoption pattern where cheaper, better, or more useful products win through customer self-interest as well as emissions benefit.
+- [Climate Startup Commercialization Gap](concepts/ClimateStartupCommercializationGap.md) — Passage from prototype or bench-scale proof to first commercial deployment where capital needs, unit economics, and operations become decisive.
+- [Founder Friendly Investor Support](concepts/FounderFriendlyInvestorSupport.md) — Investor behavior pattern where grounded help can include coaching, financing, distribution, recruiting, and external translation.
+- [Cap Table Literacy](concepts/CapTableLiteracy.md) — Founder ability to understand ownership, dilution, employee pools, investor rights, and control before financing and hiring decisions become irreversible.
+- [Founder Equity Dilution](concepts/FounderEquityDilution.md) — Ownership reduction from co-founders, advisors, accelerators, early investors, option pools, and later rounds, with consequences for motivation and fundraising.
+- [Fundraising Scenario Modeling](concepts/FundraisingScenarioModeling.md) — Practice of modeling SAFEs, pro rata rights, MFNs, valuation, employee pools, dilution, and control before founders sign financing documents.
+- [Employee Equity Communication](concepts/EmployeeEquityCommunication.md) — Founder discipline of explaining startup equity, offer letters, upside, and risk clearly enough for recruits and employees to make informed decisions.
+- [Founder Control](concepts/FounderControl.md) — Practical ability of founders to retain enough ownership, board influence, and governance clarity to lead through strong and weak company conditions.
+- [Trust-Sensitive SaaS Switching](concepts/TrustSensitiveSaaSSwitching.md) — Pattern where trust, privacy, or control incidents make customers willing to endure SaaS migration pain.
+- [Founder User Obsession](concepts/FounderUserObsession.md) — Durable desire to spend years serving a specific user, beyond merely solving one's own initial problem.
+- [Future-Oriented Fundraising Pitch](concepts/FutureOrientedFundraisingPitch.md) — Fundraising narrative discipline of making the company's future scale legible while staying grounded in current customer evidence.
+- [Founder Resilience](concepts/FounderResilience.md) — Practical ability to keep learning, rebuilding, selling, and serving customers through repeated setbacks without confusing persistence with denial.
+- [Relationship-Led Sales](concepts/RelationshipLedSales.md) — Sales pattern where authentic customer trust and technical delivery reinforce each other in competitive markets.
+- [Self-Disruption Discipline](concepts/SelfDisruptionDiscipline.md) — Operating habit of treating the next platform shift as a threat even after winning the previous disruption wave.
+- [Semiconductor Talent Genealogy](concepts/SemiconductorTalentGenealogy.md) — Silicon Valley talent-transfer pattern where semiconductor operators carried technical, sales, equity, and management norms into hardware, software, and later AI layers.
+- [Organized Angel Investor Networks](concepts/OrganizedAngelInvestorNetworks.md) — Early-stage investing structure where recurring meetings, trusted operators, founder pitches, and individual checks make angel investing repeatable.
+- [Equity Compensation Upside](concepts/EquityCompensationUpside.md) — Startup and technology-company compensation pattern where employee ownership can create major upside when timing and company trajectory align.
+- [PageRank Search Relevance](concepts/PageRankSearchRelevance.md) — Historical Google search-quality breakthrough where link-based ranking made relevance visibly better in a crowded search market.
+- [Stanford Startup Sourcing](concepts/StanfordStartupSourcing.md) — Investor practice of building trusted Stanford professor relationships to discover technical startups before ordinary deal channels.
+- [Venture Syndicate Orchestration](concepts/VentureSyndicateOrchestration.md) — Fundraising pattern where founders and trusted intermediaries assemble investors for strategic distribution and credibility, not only capital.
+- [Distribution Before Monetization](concepts/DistributionBeforeMonetization.md) — Startup sequence where product value and distribution access justify financing before a clear revenue model emerges.
+- [Search Quality Operating Cadence](concepts/SearchQualityOperatingCadence.md) — Product-operating pattern where search counts, failed queries, and founder review make relevance improvement daily work.
+- [Legal Risk Acquirer Fit](concepts/LegalRiskAcquirerFit.md) — Acquisition pattern where the right buyer can absorb legal exposure that might overwhelm an independent media or platform startup.
+- [Media Internet Convergence](concepts/MediaInternetConvergence.md) — SV Angel investment thesis that consumer media, entertainment relationships, and internet distribution would merge into startup opportunity.
+- [Copyright Platform Conflict](concepts/CopyrightPlatformConflict.md) — Collision between new platform user behavior and rights holders' legal/economic control, grounded by Napster.
+- [Digital Music Licensing](concepts/DigitalMusicLicensing.md) — Rights, registry, compensation, and label-alignment problem behind legal online music distribution.
+- [Founder Crisis Mediation](concepts/FounderCrisisMediation.md) — Investor-support pattern for compressed founder, financing, management, legal, and narrative crises.
+- [Employee Severance at Shutdown](concepts/EmployeeSeveranceAtShutdown.md) — Startup shutdown principle that remaining cash should protect employees rather than defaulting to lawsuits or insiders.
+- [Hard Problem MVP Scoping](concepts/HardProblemMVPScoping.md) — Startup pattern of reducing an enormous technical problem into a narrow first wedge that creates learning, credibility, and de-risking.
+- [Hard Tech Fundraising](concepts/HardTechFundraising.md) — Fundraising pattern for capital-intensive, technically difficult startups that need a credible de-risking path before software-style traction exists.
+- [Robotaxi Economics](concepts/RobotaxiEconomics.md) — Autonomous-mobility business logic where removing the driver changes ride-hailing economics but requires density, operations, safety, capital, and public trust.
+- [Autonomous Vehicle Safety Benchmark](concepts/AutonomousVehicleSafetyBenchmark.md) — Practice of comparing a self-driving system to human-driver performance before deployment when no simple regulatory checklist exists.
+- [Envelope Expansion Deployment](concepts/EnvelopeExpansionDeployment.md) — Rollout pattern of expanding a robot or autonomous system from narrow controlled conditions toward harder real-world operating envelopes.
+- [Enterprise File Sync](concepts/EnterpriseFileSync.md) — Enterprise collaboration and file-sharing category where customers want consumer-grade usability plus security, data control, and reliability.
+- [Peer-to-Peer Synchronization Risk](concepts/PeerToPeerSynchronizationRisk.md) — Product and reliability risk created when decentralized synchronization must behave like a simple centralized cloud service.
+- [Technical Ambition Customer Mismatch](concepts/TechnicalAmbitionCustomerMismatch.md) — Startup failure mode where founders pursue a hard technical problem that differs from the customer's urgent job.
+- [Founder-Led Sales](concepts/FounderLedSales.md) — Early B2B pattern where founders personally sell, learn, and convert customer conversations into product and company direction.
+- [Investor Reference Checking](concepts/InvestorReferenceChecking.md) — Founder practice of evaluating investors through references, including difficult portfolio outcomes, before accepting a long-term partner.
+- [Scaling Broken Product](concepts/ScalingBrokenProduct.md) — Failure pattern where a startup keeps expanding before retention, product quality, and operations are strong enough.
+- [Price War Growth](concepts/PriceWarGrowth.md) — Discount-driven acquisition before repeat behavior and unit economics can support the subsidy.
+- [Full-Funnel Civic Technology](concepts/FullFunnelCivicTechnology.md) — Civic-tech measurement that follows users through to completed participation, not only clicks or signups.
+- [Founder Health Debt](concepts/FounderHealthDebt.md) — Startup-health analogy for accumulated physical problems caused by deferred self-care.
+- [At-Home Preventive Health](concepts/AtHomePreventiveHealth.md) — Service model that brings testing and measurements to busy people and creates repeat feedback loops.
+- [Service Marketplace Quality Control](concepts/ServiceMarketplaceQualityControl.md) — Operational challenge of standardizing human-delivered marketplace services.
+- [Behavior Change Baby Steps](concepts/BehaviorChangeBabySteps.md) — Product-design pattern of turning health feedback into small changes that fit existing routines.
+- [Compound Startup](concepts/CompoundStartup.md) — Rippling's strategy of building many interoperable products on a shared employee-data and workflow foundation.
+- [Employee Graph](concepts/EmployeeGraph.md) — Rippling's shared model of employees, roles, departments, locations, relationships, and system access used across business software.
+- [Manual Operations Debt](concepts/ManualOperationsDebt.md) — Scaling burden created when manual workarounds grow faster than automation, controls, and reliable product systems.
+- [Founder Reputation Recovery](concepts/FounderReputationRecovery.md) — Rebuilding founder trust and agency after public failure or disputed scandal while preserving accountability for real mistakes, reinforced by the Parker Conrad Season 2 highlight.
+- [Startup Runway Discipline](concepts/StartupRunwayDiscipline.md) — Operating pattern of making burn, runway, revenue, cost structure, and survival assumptions explicit before a startup runs out of time.
+- [Investor Risk Narrative](concepts/InvestorRiskNarrative.md) — Fundraising discipline of naming real startup risks while making upside and de-risking paths legible enough for investors to underwrite.
+- [Developer-First Payment Infrastructure](concepts/DeveloperFirstPaymentInfrastructure.md) — Stripe's original thesis of making payment acceptance instant, programmable, and developer-friendly rather than a slow merchant-account project.
+- [API Product Design](concepts/APIProductDesign.md) — Product discipline of treating an API, documentation, examples, onboarding, and developer trust as the main user experience.
+- [Vision-to-Reality Execution](concepts/VisionToRealityExecution.md) — Scaling-company challenge of turning a broad vision into real products, systems, organizations, and durable execution.
+- [Relentlessly Resourceful Founder](concepts/RelentlesslyResourcefulFounder.md) — Founder pattern where practical sequencing, product clarity, and social strategy overcome early trust and status barriers.
+- [Payments Infrastructure Pivot](concepts/PaymentsInfrastructurePivot.md) — WePay's move from low-frequency group payments into API payments infrastructure after customer requests, fraud pressure, and monetization limits.
+- [Fire Tech Climate Resilience](concepts/FireTechClimateResilience.md) — Wildfire-focused climate-resilience startup market spanning detection, suppression, vegetation management, utilities, insurance, home hardening, and filtration.
+- [Money Movement Infrastructure](concepts/MoneyMovementInfrastructure.md) — Hidden fintech layer for bank connectivity, payment instructions, statements, reconciliation, exceptions, and faster payment-rail adoption.
+- [Financial Operations Resilience](concepts/FinancialOperationsResilience.md) — Ability to keep payments, payroll, collections, and reconciliation operating when a bank or payment workflow fails.
+- [Accelerated Bank Runs](concepts/AcceleratedBankRuns.md) — Bank-run risk accelerated by texts, social media, mobile banking, and online transfers.
+- [Trust-Heavy Infrastructure Sales](concepts/TrustHeavyInfrastructureSales.md) — Sales pattern where critical-infrastructure buyers need trust, bank coordination, implementation, and time before usage metrics appear.
+- [Operational Pain Founder Insight](concepts/OperationalPainFounderInsight.md) — Startup insight pattern where founders productize a painful, repeated, unglamorous workflow they lived through directly.
+- [Startup High-Beta Bet](concepts/StartupHighBetaBet.md) — YC selection frame for companies with high failure probability but unusually large upside, added through Coinbase.
+- [Regulated Crypto Trust Strategy](concepts/RegulatedCryptoTrustStrategy.md) — Treating compliance, banking access, licenses, reserves, and regulator engagement as core crypto product strategy.
+- [Early Fintech Fraud Controls](concepts/EarlyFintechFraudControls.md) — Operational fraud controls needed before low-margin financial products are overwhelmed by abuse.
+- [Mission-Focused Company](concepts/MissionFocusedCompany.md) — Governance stance that explicitly narrows workplace focus to company mission and product.
+- [Founder Motivation Evolution](concepts/FounderMotivationEvolution.md) — Shift from proving oneself and fear-based drive toward durable motivation based on learning, joy, fulfillment, and responsibility.
+- [Startup Essay Distribution](concepts/StartupEssayDistribution.md) — Founder-audience pattern where useful startup essays make an institution legible and attract aligned builders before conventional brand proof exists.
+- [Startup Community Forum Burden](concepts/StartupCommunityForumBurden.md) — Operating cost of running an open founder or hacker forum, where distribution value comes with moderation and governance stress.
+- [Peer-to-Peer Marketplace Trust](concepts/PeerToPeerMarketplaceTrust.md) — Product-design problem of making stranger-to-stranger transactions feel safe through profiles, reciprocal reviews, payment handling, and reputation.
+- [Design For One Person](concepts/DesignForOnePerson.md) — Product-design method where founders perfect one concrete user's experience before trying to generalize to a broad market.
+- [Real-World Connection Products](concepts/RealWorldConnectionProducts.md) — Product pattern that deliberately turns convenience, hosting, place, or community back into human connection rather than isolated consumption.
+- [Unscalable Founder Work](concepts/UnscalableFounderWork.md) — Early-stage practice of doing manual, non-repeatable work to learn which product, trust, payment, and operations systems should later scale.
+- [Crisis Stakeholder Leadership](concepts/CrisisStakeholderLeadership.md) — Leadership pattern for making urgent crisis decisions while keeping customers, suppliers, employees, investors, and company survival visible, reinforced by the Brian Chesky Season 2 highlight.
+- [Founder-Led Functional Organization](concepts/FounderLedFunctionalOrganization.md) — Operating model where a scaling company uses functions, one roadmap, and direct founder review to preserve product coherence after drift or crisis.
+- [Founder Mode](concepts/FounderMode.md) — Scaling-company leadership doctrine where founders preserve direction through presence, product judgment, accountability, delegation, and small aligned teams rather than professional-manager absence.
+- [Founder Idea Pivot](concepts/FounderIdeaPivot.md) — Early-stage pattern where the team is more promising than the first idea, illustrated by YC rejecting Huffman and Ohanian's food-ordering idea but calling them back for Reddit.
+- [User-Powered Content Platform](concepts/UserPoweredContentPlatform.md) — Platform pattern where users submit, rank, and discuss content, turning participant behavior into the main content surface.
+- [Corporate-Owned Startup Constraints](concepts/CorporateOwnedStartupConstraints.md) — Operating limits that appear when an acquired startup needs equity incentives and speed but sits inside a larger corporate parent.
+- [Platform Community Governance](concepts/PlatformCommunityGovernance.md) — Moderation, legitimacy, and trust problem of managing a user-powered platform whose communities and moderators can shape product survival.
+- [Founder Return Crisis](concepts/FounderReturnCrisis.md) — Crisis pattern where a company asks an earlier founder to return because product memory and legitimacy matter to stabilization.
+- [Long-Lived Startup Decisions](concepts/LongLivedStartupDecisions.md) — Early technical, ownership, and relationship choices that keep shaping a startup for years or decades.
+- [Builder-Centered Institutions](concepts/BuilderCenteredInstitutions.md) — Institutional pattern where capital, status, advice, and community are organized around people actively building products and companies.
+- [Founder Honesty](concepts/FounderHonesty.md) — Founder-support stance that favors candid, trust-based critique over flattering founders or disappearing when problems appear.
+- [Co-Founder Conflict](concepts/CoFounderConflict.md) — Startup risk where unresolved founder or early-team disagreement damages product response, leadership, relationships, and founder health.
+- [Startup Timing Windows](concepts/StartupTimingWindows.md) — Temporary openings created by platform shifts, market conditions, or workflow gaps that can create and later close startup opportunities.
+- [Startup Community Infrastructure](concepts/StartupCommunityInfrastructure.md) — Software, events, lists, rituals, and trust systems that let founder communities keep working as they scale.
 - [Low-Frequency Low-Value Product](concepts/LowFrequencyLowValueProduct.md) — Product/business-model failure mode where large adoption still fails to monetize because the core action is too occasional and not valuable enough per use.
 - [Power User Discovery](concepts/PowerUserDiscovery.md) — Product-research pattern where a team studies its heaviest users to find the real job and adjacent opportunity hidden by aggregate metrics.
 - [Large Company Risk Incentives](concepts/LargeCompanyRiskIncentives.md) — Organizational incentive pattern where successful companies under-launch risky products because personal downside is clearer than uncertain upside.
 - [Fast Feedback Loops](concepts/FastFeedbackLoops.md) — Product-building pattern where working versions reach real users quickly and direct user behavior drives the next change.
 - [Product Launch Under Constraint](concepts/ProductLaunchUnderConstraint.md) — Launch pattern where timing, capacity, infrastructure, or narrative constraints shape product mechanics and rollout.
-- [Outlier-Driven Angel Investing](concepts/OutlierDrivenAngelInvesting.md) — Startup-investing pattern where rare breakout companies dominate returns and founder quality outweighs investor desire for an idea.
+- [Outlier-Driven Angel Investing](concepts/OutlierDrivenAngelInvesting.md) — Startup-investing pattern where rare breakouts dominate returns and investors may actively help sourcing, validation, financing, and distribution.
 - [Customer Discovery By Doing Work](concepts/CustomerDiscoveryByDoingWork.md) — Startup-learning pattern where founders help customers with real work to expose operational pain before pitching a product.
+- [Family Caregiver Training](concepts/FamilyCaregiverTraining.md) — Health intervention pattern where hospitals train present, motivated family members to support patients safely between formal clinical encounters.
+- [Nonprofit Startup Discipline](concepts/NonprofitStartupDiscipline.md) — Applying startup habits such as focus, metrics, concise storytelling, and milestone learning to nonprofit execution.
+- [Trust-Based Philanthropy](concepts/TrustBasedPhilanthropy.md) — Donor model built around unrestricted funding, shared metrics, and trusting nonprofits as operating experts rather than controlling every expense.
 - [Janky MVP](concepts/JankyMVP.md) — Rough MVP pattern illustrated by PaloAltoDelivery's PDF menus, phone calls, founder deliveries, and manual payment.
 - [Three-Sided Marketplace Validation](concepts/ThreeSidedMarketplaceValidation.md) — Marketplace validation pattern requiring separate proof of consumer demand, merchant participation, and worker or supplier-side willingness.
 - [Founder Proximity](concepts/FounderProximity.md) — Leadership practice of staying directly exposed to customers, workers, support issues, and operational detail as the company scales.
@@ -1556,12 +2225,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Web-Based Software](concepts/WebBasedSoftware.md) — Early server-hosted browser software model that made Viaweb feel revolutionary because fixes and features could be deployed without boxed release cycles.
 - [Startup Infrastructure Improvisation](concepts/StartupInfrastructureImprovisation.md) — Pattern where early companies keep services and institutions running through practical but risky fixes such as bogometers, fax modems, generator attempts, and unfinished offices.
 - [Dynamic Balancing Robotics](concepts/DynamicBalancingRobotics.md) — Walking-robot route focused on active balance, compliant actuation, terrain adaptation, and impact tolerance rather than only careful foot geometry.
-- [Startup Accelerator Batch Selection](concepts/StartupAcceleratorBatchSelection.md) — Early YC-style application and interview process turning founder judgment into structured batch selection.
-- [Founder-Investor Learning](concepts/FounderInvestorLearning.md) — Pattern where founders translate their own fundraising pain into investor services, advice, selection, and community design.
+- [Startup Accelerator Batch Selection](concepts/StartupAcceleratorBatchSelection.md) — Early YC-style application and interview process turning founder judgment into structured batch selection, including founder-versus-idea calls.
+- [Founder-Investor Learning](concepts/FounderInvestorLearning.md) — Pattern where operators translate founder experience into investor services, advice, sourcing, validation, syndication, and community design.
 - [Patient AI Use](concepts/PatientAIUse.md) — Pattern where patients use large language models to interpret symptoms, results, diagnoses, treatment possibilities, or medical decisions before bringing those outputs into care.
 - [Doctor-Guided AI Interpretation](concepts/DoctorGuidedAIInterpretation.md) — Clinical practice of reviewing patient AI outputs with medical history, context, and professional responsibility rather than treating AI as an independent doctor.
 - [High Bandwidth Memory](concepts/HighBandwidthMemory.md) — Fast AI-adjacent memory category used to explain why data-center demand lifts suppliers such as Micron, SK Hynix, and Samsung.
-- [AI Hardware Supply Chain Pressure](concepts/AIHardwareSupplyChainPressure.md) — Pattern where AI data-center demand redirects component supply, product focus, and consumer pricing across memory and storage markets.
+- [AI Hardware Supply Chain Pressure](concepts/AIHardwareSupplyChainPressure.md) — Pattern where AI data-center demand redirects component supply, product focus, consumer pricing, hard-drive availability, and archive-storage access across memory and storage markets.
 - [Data Center Debt Risk](concepts/DataCenterDebtRisk.md) — Financial fragility from AI data-center buildouts that depend on debt, third-party developers, leases, future cloud demand, and local project execution.
 - [AI Search Advertising](concepts/AISearchAdvertising.md) — Sponsored placement and product-listing design for AI answer engines, where user trust, advertiser scale, conversion data, and fewer visible answer slots shape monetization.
 - [Tech Hiring Stabilization](concepts/TechHiringStabilization.md) — Labor-market pattern where tech postings stop falling but remain far below a prior baseline rather than recovering into a hiring boom.
@@ -1683,7 +2352,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Robot Active Use Metrics](concepts/RobotActiveUseMetrics.md) — robotics adoption metric discipline focused on active rate and repeated real-world use rather than shipments or demos.
 - [Vector Model Engineering](concepts/VectorModelEngineering.md) — Practice of training and evaluating embedding, recall, ranking, and retrieval models that remain necessary beneath GPT-style AI systems.
 - [Retrieval-Augmented Generation](concepts/RetrievalAugmentedGeneration.md) — Pattern and enterprise pipeline for grounding language-model answers in retrieved external knowledge.
-- [Semantic Search Relevance](concepts/SemanticSearchRelevance.md) — Task-specific definition of what counts as a useful retrieval match across FAQ, search, clustering, and domain workflows.
+- [Semantic Search Relevance](concepts/SemanticSearchRelevance.md) — Task-specific definition of useful retrieval, now linked to both AI/vector search and Google's historical PageRank relevance breakthrough.
 - [Document Chunking](concepts/DocumentChunking.md) — RAG design problem of splitting source material into retrieval units without destroying semantic, layout, or argument structure.
 - [Reranking Models](concepts/RerankingModels.md) — Second-stage retrieval models that rescore recalled candidates before evidence is passed to a language model.
 - [Hard Negative Mining](concepts/HardNegativeMining.md) — Training-data practice of using close-but-wrong examples so retrieval models learn domain-specific distinctions.
@@ -1718,7 +2387,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Central Bank Independence](concepts/CentralBankIndependence.md) — Monetary-governance principle that central-bank policy should resist short-term political pressure while still being judged by later outcomes.
 - [Iran Postwar Economic Relief](concepts/IranPostwarEconomicRelief.md) — Economic package around blockade relief, sanctions relief, asset unfreezing, and a proposed reconstruction fund after the U.S.-Iran memorandum.
 - [Presidential Memorial Culture](concepts/PresidentialMemorialCulture.md) — Presidential museums, libraries, and centers as memory institutions that can preserve civic history while giving presidents quasi-imperial aura.
-- [AI Backlash Politics](concepts/AIBacklashPolitics.md) — Electoral and regulatory politics formed by public anxiety about AI jobs, children, mental health, tech power, and speed of change.
+- [AI Backlash Politics](concepts/AIBacklashPolitics.md) — Electoral and regulatory politics formed by public anxiety about AI jobs, children, mental health, data centers, tech power, and speed of change.
 - [Data Center Backlash](concepts/DataCenterBacklash.md) — Local and political opposition to AI data centers over noise, power demand, bills, cost shifting, environmental burden, and rapid technological change.
 - [AI Metabolic Infrastructure](concepts/AIMetabolicInfrastructure.md) — Frame treating AI as a material system that consumes data, minerals, energy, water, land, labor, culture, and utility capacity while producing outputs, heat, carbon, and waste.
 - [China Divorce Restrictions](concepts/ChinaDivorceRestrictions.md) — Legal, administrative, property, and censorship barriers to divorce in China, framed against population policy and women's exit costs.
@@ -1900,7 +2569,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Want Can Should May Framework](concepts/WantCanShouldMayFramework.md) — Engineering judgment frame that asks what people want, can do, should do, and may or are ready to do before building.
 - [Attention Industrialization](concepts/AttentionIndustrialization.md) — Platform and AI risk where algorithmic feeds and free services become industrialized mental food that captures attention.
 - [Human-Machine Amplification](concepts/HumanMachineAmplification.md) — AI-era claim that technology multiplies the user's judgment, values, volition, and weak points rather than automatically improving them.
-- [AI Literacy Against Worship](concepts/AILiteracyAgainstWorship.md) — Public AI education frame focused on limits, incentives, attention, language, and agency before tool training.
+- [AI Literacy Against Worship](concepts/AILiteracyAgainstWorship.md) — Public AI education frame focused on limits, incentives, attention, language, labor context, and agency before tool training.
 - [Personal Health Data](concepts/PersonalHealthData.md) — Longitudinal health records, reports, wearable signals, and context treated as a durable AI-era personal asset.
 - [AI Health Management](concepts/AIHealthManagement.md) — Doctor-supervised use of AI to read long-term personal data, flag trends, review patient AI outputs, and support prevention without replacing diagnosis or treatment.
 - [Continuous Glucose Monitoring](concepts/ContinuousGlucoseMonitoring.md) — CGM device/data category used to read glucose curves and risk trends rather than isolated diagnostic points.
@@ -1923,7 +2592,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Humanoid Robot Commercialization](concepts/HumanoidRobotCommercialization.md) — Challenge of turning human-like general robots into reliable, affordable, useful products across homes, work, elder care, and other physical environments.
 - [Token Maxxing](concepts/TokenMaxxing.md) — AI usage-growth frame that separates gross token volume from token-per-task, dollar-per-token, reasoning-token cost, model quality, and business outcome.
 - [AI Economic Diffusion](concepts/AIEconomicDiffusion.md) — Gap between model capability becoming available and organizations redesigning workflows, software, roles, and incentives enough to convert AI into productivity.
-- [Human Connection Under AI](concepts/HumanConnectionUnderAI.md) — Claim that as AI automates more informational exchange, human conversation becomes more valuable for emotional connection, shared experience, trust, and sincerity.
+- [Human Connection Under AI](concepts/HumanConnectionUnderAI.md) — Claim that as AI automates informational exchange, human connection becomes more valuable and more consent-sensitive in community, grief, and memory contexts.
 - [Language Agent](concepts/LanguageAgent.md) — Post-ChatGPT agent paradigm where language scaffolds perception, reasoning, planning, tool use, and action.
 - [OpenClaw Moment](concepts/OpenClawMoment.md) — Interaction-form shock where OpenClaw made permissioned, always-on, personal agents newly legible.
 - [Universal Digital Agent](concepts/UniversalDigitalAgent.md) — Convergence target where web, desktop, mobile, coding, and computer-use agent boundaries dissolve across digital tasks.
@@ -2303,7 +2972,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Local Agent Execution](concepts/LocalAgentExecution.md) — Agent execution against local files, apps, devices, and desktop workflows, with strong value and permission tradeoffs.
 - [Proof Point Reuse](concepts/ProofPointReuse.md) — Marketing practice of turning PR, UGC, validation, testimonials, reorders, and science into repeated proof across channels.
 - [Private Label Brand Risk](concepts/PrivateLabelBrandRisk.md) — CPG risk where retailer-owned volume can weaken margin, brand memory, and category ownership.
-- [AI Startup Unit Economics](concepts/AIStartupUnitEconomics.md) — AI founder checklist tying demand to marginal model cost, experience quality, payment tolerance, market ceiling, and survival runway.
+- [AI Startup Unit Economics](concepts/AIStartupUnitEconomics.md) — AI founder checklist tying demand to marginal model cost, experience quality, payment tolerance, headcount leverage, market ceiling, and survival runway.
 - [Cross-Cultural User Research](concepts/CrossCulturalUserResearch.md) — Product research practice for studying language, culture, identity, payment, and design-execution differences across markets.
 - [Middle East Social Game Growth](concepts/MiddleEastSocialGameGrowth.md) — Localized game-social growth pattern combining atmosphere supply, high-value users, anonymity, acquisition, and paid gifts.
 - [Lifestyle Cost Rationalization](concepts/LifestyleCostRationalization.md) — Practice of preserving comfort and purpose while replacing status-heavy purchases with lower-cost variants.
@@ -2336,7 +3005,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Materials Discovery](concepts/AIMaterialsDiscovery.md) — AI-for-science workflow for generating, predicting, validating, scaling, and commercializing new materials.
 - [AI Native SaaS Threat](concepts/AINativeSaaSThreat.md) — Risk that AI-native entrants challenge incumbent SaaS products built before AI became core to workflows.
 - [AI NPC Social Infrastructure](concepts/AINPCSocialInfrastructure.md) — Use of AI NPCs as hosts, social participants, and atmosphere regulators inside multiplayer scenes.
-- [AI Organization Design](concepts/AIOrganizationDesign.md) — Organizational problem of combining high talent density, coordination, research vitality, and result accountability in AI companies.
+- [AI Organization Design](concepts/AIOrganizationDesign.md) — Organizational problem of combining high talent density, agent leverage, coordination, research vitality, and result accountability in AI companies.
 - [AI Plus Terminals](concepts/AIPlusTerminals.md) — Commercialization thesis linking models, software, hardware carriers, users, physical-world data, and mainstream phone entry points.
 - [AI Product Fragmentation](concepts/AIProductFragmentation.md) — Gap between strong model capability and a coherent product entry point across assistant, browser, search, workspace, and platform surfaces.
 - [AI Programming Engine Shift](concepts/AIProgrammingEngineShift.md) — View that AI changes programming like an engine changes manual work, shifting value toward framing, testing, and judgment.
@@ -2401,7 +3070,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cross-Border Fund Transfer Risk](concepts/CrossBorderFundTransferRisk.md) — Compliance, foreign-exchange, data, and account-safety risk created when funds move across jurisdictions and counterparties.
 - [Creation As Consumption](concepts/CreationAsConsumption.md) — Product-design idea that making with AI can itself be an entertainment experience.
 - [Customer Concentration Risk](concepts/CustomerConcentrationRisk.md) — SaaS risk where one large customer can distort roadmap, mission, or validation signals.
-- [Customer Pull](concepts/CustomerPull.md) — Demand signal where users return, follow up, refer others, pay, or act after clearer product and landing-page communication.
+- [Customer Pull](concepts/CustomerPull.md) — Demand signal where users return, follow up, refer, pay, sign LOIs, tolerate migration work, or otherwise act beyond polite interest.
 - [Cryptocurrency Market Structure](concepts/CryptocurrencyMarketStructure.md) — Crypto-market features such as 24-hour trading, retail flows, and exchange fragmentation that create quant opportunities and risk.
 - [Currency Risk](concepts/CurrencyRisk.md) — Risk that exchange-rate moves change an investor's final return after converting back to their home currency.
 - [Data Portability And Sustainable Tools](concepts/DataPortabilityAndSustainableTools.md) — Product trust pattern based on exportability, local data, maintained tools, and durable personal knowledge assets.
@@ -2425,7 +3094,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Everything Agent](concepts/EverythingAgent.md) — Investment thesis that agents will enter many white-collar workflows and need supporting infrastructure.
 - [Family Protection Insurance Planning](concepts/FamilyProtectionInsurancePlanning.md) — Household insurance planning based on income earners, dependents, debts, and finite responsibility windows.
 - [Family World Simulator](concepts/FamilyWorldSimulator.md) — Simulated household interaction environment for training and testing companion robot behavior.
-- [Fast Product Validation](concepts/FastProductValidation.md) — Startup process for testing product demand through rapid experiments, revenue, retention, recurring use, and design changes measured against user behavior.
+- [Fast Product Validation](concepts/FastProductValidation.md) — Startup process for testing product demand through rapid experiments, revenue, retention, LOIs, deployment work, and user behavior.
 - [Feature Phone Cultural Memory](concepts/FeaturePhoneCulturalMemory.md) — User-memory layer around pagers, SMS, Nokia tones, ringtone entry, removable batteries, universal chargers, and shanzhai features.
 - [Finance Career Portability](concepts/FinanceCareerPortability.md) — Transfer of finance-industry communication, sales, customer, risk, and service skills into other roles, institutions, or sectors.
 - [Financial AI Agents](concepts/FinancialAIAgents.md) — Compliance-bounded financial AI systems that filter information, explain context, and provide companionship without direct investment advice.
@@ -2438,7 +3107,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder Cash Flow Constraint](concepts/FounderCashFlowConstraint.md) — Personal runway problem when a promising startup cannot yet support the founder's life.
 - [Founder Ego](concepts/FounderEgo.md) — Status-seeking founder pattern where fundraising, hiring, or public image outruns validated customer demand.
 - [Founder Identity Diversification](concepts/FounderIdentityDiversification.md) — Founder-health pattern of keeping self-worth, learning, and relationships from depending on one company or role.
-- [Founder Product Fit](concepts/FounderProductFit.md) — Match between a founding team's strengths, credibility, interests, and go-to-market abilities and the product they choose, now including DoorDash's marketplace-validation case.
+- [Founder Product Fit](concepts/FounderProductFit.md) — Match between a founding team's strengths, credibility, interests, lived operational pain, and go-to-market abilities and the product they choose.
 - [Founder Role Transition](concepts/FounderRoleTransition.md) — Shift from founder-as-everything-operator into bounded leadership, operator partnership, board, or brand roles as a company scales.
 - [Forward Deployed Engineer](concepts/ForwardDeployedEngineer.md) — Enterprise role for integrating AI into business workflows, knowledge systems, and operating processes.
 - [Frontline AI Enablement](concepts/FrontlineAIEnablement.md) — Management pattern where AI increases the judgment capacity of frontline workers instead of only centralizing decisions.
@@ -2468,7 +3137,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Investment Risk Management](concepts/InvestmentRiskManagement.md) — Position sizing, diversification, leverage control, automated rules, and emotional discipline for surviving uncertainty.
 - [Investor Education](concepts/InvestorEducation.md) — Work of making financial customers understand product structure, downside risk, liquidity, incentives, and the difference between disclosure and comprehension.
 - [Large Company Open Source Strategy](concepts/LargeCompanyOpenSourceStrategy.md) — Strategic use of open source by large companies and the tension between influence and internal value capture.
-- [Large Company Organizational Inertia](concepts/LargeCompanyOrganizationalInertia.md) — Big-company dynamic where resources and momentum amplify work but rules and scale reduce individual leverage.
+- [Large Company Organizational Inertia](concepts/LargeCompanyOrganizationalInertia.md) — Big-company dynamic where resources and momentum amplify work but rules, scale, corporate ownership, and incentives reduce startup-like leverage.
 - [Learning How To Learn](concepts/LearningHowToLearn.md) — Durable meta-skill for improving study, practice, communication, and AI use across changing majors and careers.
 - [Leverage-Driven Bull Market](concepts/LeverageDrivenBullMarket.md) — Rally pattern where margin finance, off-market financing, or borrowed money amplifies gains and later forced selling.
 - [Lifestyle Subsidy Creator Work](concepts/LifestyleSubsidyCreatorWork.md) — Creator work that lowers living costs or expands experiences without necessarily replacing a main income.
@@ -2505,12 +3174,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Passive Investing](concepts/PassiveInvesting.md) — Broad ETF and index-fund investing recommended for most ordinary investors as a low-friction alternative to active trading.
 - [Passenger Complaint Handling](concepts/PassengerComplaintHandling.md) — Real-time service work that separates facts, emotion, safety, privacy, and incentives in passenger disputes.
 - [Payment Led Market Selection](concepts/PaymentLedMarketSelection.md) — Choosing a target market by where demand, trust, payment willingness, and collection paths are strongest.
-- [Persistent Agent Memory](concepts/PersistentAgentMemory.md) — Durable user and work memory that lets agents retain context, taste, relationship boundaries, and recent activity across sessions.
+- [Persistent Agent Memory](concepts/PersistentAgentMemory.md) — Durable user and work memory that lets agents retain context while raising portability, boundary, and post-mortem consent questions.
 - [PHS Xiaolingtong](concepts/PHSXiaolingtong.md) — Low-cost PHS wireless local-phone service that gave many Chinese users transitional mobile-like access before mainstream mobile affordability.
-- [Podcast As Asynchronous Media](concepts/PodcastAsAsynchronousMedia.md) — Recorded-audio media form whose value comes from shifting listening into idle-ear contexts while losing live-radio immediacy.
+- [Podcast As Asynchronous Media](concepts/PodcastAsAsynchronousMedia.md) — Recorded-audio media form whose value comes from shifted listening, cumulative archives, listener feedback, and clip distribution while losing live-radio immediacy.
 - [Policy-Driven Market Rally](concepts/PolicyDrivenMarketRally.md) — Equity rally pattern where official policy, liquidity, or regulation shifts ignite prices before fundamentals are proven.
-- [Post-Acquisition Founder Identity](concepts/PostAcquisitionFounderIdentity.md) — Personal and governance problem of what a founder becomes after selling a company, especially when the brand carries founder values.
-- [Pre-Product Selling](concepts/PreProductSelling.md) — Selling-first validation pattern using conversations, LOIs, trials, and prototypes before full production code exists.
+- [Post-Acquisition Founder Identity](concepts/PostAcquisitionFounderIdentity.md) — Personal and governance problem of what a founder becomes after selling a company, including cases where crisis pulls the founder back.
+- [Pre-Product Selling](concepts/PreProductSelling.md) — Selling-first validation pattern using conversations, LOIs, trials, prototypes, and customer sacrifices before full production use exists.
 - [Proactive Agents](concepts/ProactiveAgents.md) — Agents that use context and memory to help before the user fully specifies a task, while still requiring permission and review design.
 - [Product Led Willingness To Pay](concepts/ProductLedWillingnessToPay.md) — Claim that users pay when product value is clear, differentiated, stable, trustworthy, communicated in a concrete user scenario, and matched with a market willing to pay.
 - [Promotion Expectation Management](concepts/PromotionExpectationManagement.md) — Making advancement goals, evidence, timing, and manager sponsorship explicit before formal review windows.
@@ -2547,7 +3216,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Star Talent In Big Companies](concepts/StarTalentInBigCompanies.md) — Pattern where high-profile technical talent and large organizations need each other but often misalign.
 - [Stablecoins](concepts/Stablecoins.md) — Crypto-dollar infrastructure discussed through payment demand, Treasury demand, issuer risk, and regulation.
 - [Stop-Loss Discipline](concepts/StopLossDiscipline.md) — Rule-based loss control that exits invalidated trades instead of extending losses through hope or delay.
-- [Startup Governance](concepts/StartupGovernance.md) — Founder protection system spanning mission, charter language, board design, real power, and cultural commitments.
+- [Startup Governance](concepts/StartupGovernance.md) — Founder protection and control system spanning mission, ownership, board design, post-acquisition structure, real power, and cultural commitments.
 - [Subagent Workflow](concepts/SubagentWorkflow.md) — Agentic pattern that delegates heavy or adversarial work to background agents and integrates their outputs.
 - [Sustainable Growth Pace](concepts/SustainableGrowthPace.md) — Choosing a company growth speed that employees, operations, mission, and management capacity can absorb.
 - [Task As A Service](concepts/TaskAsAService.md) — Shift from operating visible apps toward delegated task completion through AI and agent-callable surfaces.

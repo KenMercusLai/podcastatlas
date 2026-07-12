@@ -2,13 +2,15 @@
 title: "Human-Agent Collaboration"
 type: concept
 tags: [agents, collaboration, product-design]
-sources: [1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
-last_updated: 2026-07-08
+sources: [tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
+last_updated: 2026-07-11
 ---
 
 # Human-Agent Collaboration
 
 Human-agent collaboration is the product-design problem at the center of [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o]]. [[Paperboy]] argues that today's chat boxes, prompts, project sessions, and one-to-one agent conversations are not yet the best way for people and agents to work together. The source frames the better form as still undiscovered, but points toward [[OSLevelContext]], [[PersistentAgentMemory]], [[ProactiveAgents]], and interfaces that sit inside existing work behavior.
+
+[[tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3]] adds the data-supply side through [[AlexandrWang]] and [[ScaleAI]]. Wang expects a long period of human-AI symbiosis because models will still hallucinate, get stuck, and need domain experts; he argues that useful agents need [[AgentData]] showing how humans think, gather information, check constraints, and act while completing tasks.
 
 [[vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]] adds the hobbyist personal-agent version. [[JustinYan]]'s [[OpenClaw]]-inspired agent collaborates through Telegram, reminders, daily prompts, health reports, and service checks, making collaboration feel less like a single chat session and more like a maintained relationship with configured tools and permissions.
 
@@ -46,9 +48,11 @@ Human-agent collaboration is the product-design problem at the center of [[renle
 - Social collaboration introduces another handoff problem: the agent may initiate or filter interactions, but humans still need control over authenticity, consent, and relationship boundaries.
 - Human-agent collaboration should not be evaluated only by how much information is exchanged; AI may make emotional and relational value more visible by automating informational talk.
 - The partner/tool distinction creates different product requirements: partner-like agents need memory, values, pushback, and onboarding, while tool-like agents need state inspection, deterministic handoffs, review points, and permission controls.
+- The data needed for better agents includes examples of human process, not just final task outputs.
 
 ## Connections
 - [[AgenticWorkflow]] — practical workflow pattern that human-agent collaboration extends.
+- [[ScaleAI]], [[AlexandrWang]], and [[AgentData]] — agent-era data supply and human-in-the-loop argument added by the Scale episode.
 - [[ContextEngineering]] — supplies the personal and organizational context needed for collaboration.
 - [[AgentFacingInterfaces]] — software surfaces agents need to act on the user's behalf.
 - [[DigitalEmployees]] — enterprise form of agent collaboration with role, management, and responsibility boundaries.

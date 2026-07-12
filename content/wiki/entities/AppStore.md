@@ -2,8 +2,8 @@
 title: "App Store"
 type: entity
 tags: [platform, mobile, distribution, app-store]
-sources: [ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
-last_updated: 2026-07-08
+sources: [socialradarss2-stripe-v2, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
+last_updated: 2026-07-11
 ---
 
 # App Store
@@ -11,6 +11,8 @@ last_updated: 2026-07-08
 App Store is [[Apple]]'s mobile-app marketplace and the platform context for [[ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug]]. In the episode, [[Una]] treats it as a closed search-and-discovery system where developers can influence metadata, screenshots, conversion, ratings, and paid search, but cannot fully observe keyword-level attribution.
 
 [[264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]] adds App Store through [[ApplePrivacy]]. The episode treats App Tracking Transparency as a platform-policy expression of [[TimCook]]'s view that users should not be treated as products, even when that stance damages ad-driven platforms such as [[Meta]].
+
+[[socialradarss2-stripe-v2]] adds App Store as a monetization contrast in the origin of [[Stripe]]. [[PatrickCollison]] says an offline Wikipedia iPhone app made more revenue than the Collisons' earlier startup, showing how much easier app-store payment could be than web payment. That contrast helped make [[DeveloperFirstPaymentInfrastructure]] feel like a startup opportunity.
 
 The source distinguishes App Store growth from open web SEO. Store metadata fields, especially title, subtitle, keyword field, description, screenshots, ratings, and reviews, help the platform understand and rank an app, while App Store Connect gives overall exposure, page-view, conversion, and download data rather than exact keyword-to-download mapping.
 
@@ -31,6 +33,7 @@ The source distinguishes App Store growth from open web SEO. Store metadata fiel
 - Commitment subscriptions can reduce purchase friction, but the platform and developer must make the remaining obligation clear enough that monthly billing does not become a consumer-trust trap.
 - Dynamic generated apps make review harder because the risky behavior may appear only after the user asks the agent to create something.
 - ATT shows App Store policy as values infrastructure: privacy choices can be enforced at app launch, not only described in privacy pages.
+- App-store payment ease can reveal infrastructure gaps on the open web when developers can monetize inside the store but struggle to charge for web software.
 
 ## Connections
 
@@ -44,3 +47,4 @@ The source distinguishes App Store growth from open web SEO. Store metadata fiel
 - [[OnePersonCompany]], [[SoftwarePaymentCulture]], and [[ProductLedWillingnessToPay]] — OPC source where AI app abundance does not automatically create customer payment.
 - [[AISubscriptionEconomics]], [[MedicalAIMarketingRisk]], and [[AppStoreOptimization]] — subscription and health-marketing trust themes added by Vol. 167.
 - [[AgenticSoftware]], [[OnDemandApps]], and [[VibeCoding]] — generated-app review themes added by Vol. 164.
+- [[Stripe]], [[PatrickCollison]], [[JohnCollison]], and [[DeveloperFirstPaymentInfrastructure]] — App Store monetization contrast added by the Collison episode.

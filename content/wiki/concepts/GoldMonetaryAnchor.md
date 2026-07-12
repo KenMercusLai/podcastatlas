@@ -2,13 +2,15 @@
 title: "Gold Monetary Anchor"
 type: concept
 tags: [macro, gold, monetary-system, investing]
-sources: [e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]
-last_updated: 2026-07-08
+sources: [tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]
+last_updated: 2026-07-12
 ---
 
 # Gold Monetary Anchor
 
 Gold monetary anchor is the episode's frame for analyzing gold as more than an inflation hedge. In [[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]], the guest argues that the current gold context should be compared with periods of large debt, dominant-country transition, and monetary-system change, not only with the 1970s.
+
+[[tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128]] adds a direct contrast with [[Bitcoin]]. The [[MarketplaceTech]] episode says gold rose after news that the [[UnitedStates]] attacked [[Iran]], while Bitcoin did not make the same immediate safe-haven move. That contrast makes gold the benchmark for [[BitcoinSafeHavenBehavior]] and shows why [[DigitalGold]] remains a claim to be tested rather than assumed.
 
 The source also connects gold to [[RiskParity]] and multi-asset strategy. If a strategy is trying to earn from monetary expansion across asset classes, gold matters because it sits close to central-bank assets, currency credibility, and the question of what anchors money when debt and geopolitical trust are under pressure.
 
@@ -22,6 +24,7 @@ The source also connects gold to [[RiskParity]] and multi-asset strategy. If a s
 - Gold can become a volatile hedge when its own recent price action has already attracted crowded or momentum-driven demand.
 
 ## Connections
+- [[Bitcoin]], [[DigitalGold]], and [[BitcoinSafeHavenBehavior]] - March 12 Marketplace Tech comparison between gold and Bitcoin under Iran-crisis stress.
 - [[RiskParity]] — multi-asset strategy context where gold can be one recipient of liquidity or monetary trust demand.
 - [[HoloAssets]] — adjacent hard-asset frame from the AI-infrastructure and investing branch.
 - [[USTreasury]], [[FederalReserve]], and [[CurrencyRisk]] — monetary-system context.

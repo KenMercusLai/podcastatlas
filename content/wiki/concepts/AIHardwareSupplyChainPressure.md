@@ -2,25 +2,35 @@
 title: "AI Hardware Supply Chain Pressure"
 type: concept
 tags: [ai, semiconductors, supply-chain, infrastructure]
-sources: [tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]
-last_updated: 2026-07-10
+sources: [tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]
+last_updated: 2026-07-12
 ---
 
 # AI Hardware Supply Chain Pressure
 
 AI hardware supply chain pressure is the pattern where AI data-center demand for chips, memory, storage, power, and facilities redirects supply, pricing, and product priorities across adjacent markets. [[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]] adds the memory version of this pattern through [[MicronTechnology]], [[HighBandwidthMemory]], [[SKHynix]], and [[Samsung]].
 
+[[tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128]] extends the concept from AI memory suppliers into [[MemoryChipShortage]], hard-drive availability, and preservation work. [[IDC]] is cited on data-center demand driving prices and shortage conditions, while [[WesternDigital]] is used as evidence that hard-drive supply can tighten enough to affect [[DigitalPreservation]] and [[PersonalDigitalArchiving]].
+
 The episode makes the consumer spillover visible. It says demand for AI memory and solid-state storage is putting pressure on consumer markets, with Micron exiting consumer drives and a Samsung drive described as rising from about $7 to $20 in recent months. That connects AI infrastructure buildout to ordinary PC builders and consumers, not only to cloud companies.
+
+[[tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128]] adds the accelerator-choice layer. [[ChristopherMiller]] frames [[GPU|GPUs]], [[TPU|TPUs]], and [[NeuralProcessingUnits]] as different points in [[AIChipSpecialization]], where speed, power consumption, flexibility, and software ecosystems shape which suppliers capture demand.
 
 ## Key Claims
 - AI demand can reprice components that consumers previously treated as ordinary PC or storage parts.
 - Supply-chain pressure can appear before end users see better AI products, because suppliers respond first to data-center demand.
 - The same AI boom can help semiconductor suppliers while worsening affordability or availability for consumer hardware buyers.
+- AI demand can also affect archive work when hard drives and storage media become scarce or expensive.
+- Supply pressure can push smaller organizations toward cloud dependence if hyperscalers absorb more of the available storage and processing capacity.
 - Hardware bottlenecks connect to [[AIComputeContinuity]] because model services depend on durable supplies of memory, accelerators, storage, power, and facility capacity.
+- Supply pressure is not only a memory problem; it also depends on whether workloads stay on general-purpose GPUs or move toward specialized chips such as TPUs and NPUs.
 
 ## Connections
 - [[HighBandwidthMemory]] - memory category that anchors the source.
 - [[MicronTechnology]], [[SKHynix]], and [[Samsung]] - suppliers named in the episode.
+- [[IDC]], [[WesternDigital]], and [[MemoryChipShortage]] - market and hard-drive availability branch added by the March 3, 2026 Marketplace Tech episode.
+- [[DigitalPreservation]] and [[PersonalDigitalArchiving]] - archival spillovers from AI-driven storage pressure.
 - [[Nvidia]] - AI accelerator context for memory intensity.
 - [[DataCenterDebtRisk]], [[AIEnergyBottleneck]], and [[DataCenterBacklash]] - adjacent infrastructure limits beyond component supply.
 - [[AIComputeContinuity]] - reliability frame that depends on available hardware.
+- [[GPU]], [[TPU]], [[NeuralProcessingUnits]], and [[AIChipSpecialization]] - accelerator-specialization branch added by Marketplace Tech.

@@ -2,8 +2,8 @@
 title: "Generative Engine Optimization"
 type: concept
 tags: [ai, seo, marketing, distribution]
-sources: [ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]
-last_updated: 2026-07-10
+sources: [tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]
+last_updated: 2026-07-12
 ---
 
 # Generative Engine Optimization
@@ -16,6 +16,12 @@ Generative engine optimization, or GEO, is the practice of improving whether and
 
 [[tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]] adds the paid-placement boundary through [[AISearchAdvertising]]. [[GarrettJohnson]] says businesses are shifting from ranking in search results to being mentioned in AI chat responses, but the same compressed answer surface may also contain sponsored placements. That makes GEO partly a visibility discipline and partly a precursor to a new ad market.
 
+[[tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]] adds the publisher-cost side through [[GoogleAIOverviews|Google AI Overviews]]. More visible source links may help users verify an answer, but the episode says publisher traffic may remain far below classic search levels. That means GEO cannot be treated only as "get cited"; the value of a citation depends on whether it produces visits, trust, transactions, or durable brand memory.
+
+[[tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128]] adds [[HigherEducationAIDiscoverability]]. [[NickSwisher]] says [[IndianaWesleyanUniversity]] is adding FAQ content and spending materially on AI-influencing work because students now ask AI systems conversational questions about schools, degrees, career prospects, and fit.
+
+[[tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128]] adds the AEO naming and content-quality distinction through [[ErinGriffith]]. The episode says brands are learning that chatbot visibility may require dense facts, manuals, studies, and product details rather than generic marketing copy. It also adds the reputation-management edge case: answer engines may surface negative [[Reddit]] posts or reviews unless brands create better factual context elsewhere.
+
 ## Key Claims
 - GEO starts with deciding whether AI search matters for a product's customers.
 - A practical first step is to test likely buyer prompts in AI tools and inspect the sources that answers use.
@@ -27,6 +33,10 @@ Generative engine optimization, or GEO, is the practice of improving whether and
 - Users should treat a single synthesized AI answer as a starting point for verification, especially when the topic is current, commercial, or easy to manipulate.
 - Responna adds that GEO can require off-page execution, not only owned-site optimization or measurement dashboards.
 - The Marketplace Tech AI-search advertising episode adds that organic mention and sponsored placement may compete inside a much smaller answer surface than classic search results.
+- The Marketplace Tech AI Overview episode adds that cited sources may still lose traffic when the answer itself satisfies the query.
+- The Marketplace Tech college-search episode adds that GEO-like work can become a higher-education marketing expense, where accuracy and fit matter as much as being mentioned.
+- The Marketplace Tech AEO episode adds that answer engines may reward hard facts over narrative hooks, making factual density a practical optimization variable.
+- GEO/AEO can fail when teams use AI-generated filler instead of verifiable information that answers user questions.
 
 ## Connections
 - [[AISearchAnalytics]] - measurement category that shows where a brand appears.
@@ -38,3 +48,6 @@ Generative engine optimization, or GEO, is the practice of improving whether and
 - [[AIDiscoverySEO]], [[AIContentDevaluation]], and [[HumanJudgmentUnderAI]] - discovery, pollution, and verification themes added by Vol. 160.
 - [[Responna]], [[AIVisibilityService]], [[LookalikePublisherOutreach]], and [[PublisherRelationshipMoat]] - done-for-you AI visibility method added by the Responna episode.
 - [[AISearchAdvertising]], [[GarrettJohnson]], and [[MarketplaceTech]] - paid-placement and answer-slot design boundary added by the Marketplace Tech episode.
+- [[GoogleAIOverviews|Google AI Overviews]], [[AIAnswerSourceAttribution]], [[DailyMail]], and [[OpenWebTrafficDecline]] - publisher-attribution and traffic-risk branch added by Marketplace Tech Bytes.
+- [[HigherEducationAIDiscoverability]], [[AICollegeSearch]], [[NickSwisher]], and [[IndianaWesleyanUniversity]] - college-search visibility branch added by Marketplace Tech.
+- [[AnswerEngineOptimization]], [[ErinGriffith]], [[Reddit]], and [[AIContentDevaluation]] - AEO naming, reputation, and generated-fluff branch added by Marketplace Tech.

@@ -2,8 +2,8 @@
 title: "MaaS Infrastructure"
 type: concept
 tags: [ai, infrastructure, maas]
-sources: [tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
-last_updated: 2026-07-10
+sources: [tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
+last_updated: 2026-07-12
 ---
 
 # MaaS Infrastructure
@@ -26,6 +26,10 @@ The concept extends [[AIInferenceCostStructure]]. Cost structure explains why to
 
 [[tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128]] adds the tax-incentive layer. [[DataCenterTaxIncentives]] can lower the upfront and operating costs of the data centers that supply MaaS capacity, but they also make token infrastructure dependent on state economic-development politics, job thresholds, property-tax expectations, and energy-use reviews.
 
+[[tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]] adds the corporate-debt layer. [[Alphabet]]'s long-term AI borrowing shows that MaaS capacity is not only an engineering and utility problem; it is also a capital-structure problem where data-center buildout, credit-market confidence, and future AI demand have to line up over long horizons.
+
+[[tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128]] adds the onsite-power layer. If data-center operators cannot get grid interconnection quickly enough, MaaS capacity may depend on [[DataCenterOnsitePower]] from generators as well as cloud software, chips, cooling, and financing.
+
 ## Key Claims
 
 - Token count is a weak standalone metric because embedding, small-model, and deep-reasoning tokens have different cost and value.
@@ -42,6 +46,8 @@ The concept extends [[AIInferenceCostStructure]]. Cost structure explains why to
 - Vertical cloud-chip-model integration can make MaaS infrastructure more defensible when enterprise customers need stable capacity, model choice, cost control, and governance.
 - MaaS infrastructure can become a utility-regulation problem when data-center power demand requires grid upgrades and long-term rate commitments.
 - MaaS infrastructure can also become a tax-policy problem when states subsidize data-center capital spending or electricity consumption to attract AI capacity.
+- MaaS infrastructure can become a debt-financing problem when long-lived AI capacity requires bonds, data-center commitments, and investor confidence before usage returns are fully visible.
+- MaaS infrastructure can become an onsite-power problem when speed to deployment depends on natural gas generators and industrial supply chains.
 
 ## Connections
 
@@ -56,5 +62,7 @@ The concept extends [[AIInferenceCostStructure]]. Cost structure explains why to
 - [[DataCenterThermalManagement]], [[Grundfos]], and [[HenanSmartSupercomputingCenter]] — thermal and prefabricated cooling layer added by the 商业就是这样 source.
 - [[PublicUtilityCommissions]], [[AIEnergyBottleneck]], and [[DataCenterCostShifting]] — utility-regulation and ratepayer layer added by Marketplace Tech.
 - [[DataCenterTaxIncentives]], [[NationalConferenceOfStateLegislatures]], and [[NicholasMiller]] — state subsidy and economic-development layer added by the later Marketplace Tech episode.
+- [[Alphabet]], [[AIInfrastructureDebtFinancing]], and [[DataCenterDebtRisk]] - capital-structure layer added by the February 13 Marketplace Tech Bytes episode.
+- [[DataCenterOnsitePower]], [[Caterpillar]], and [[AIEnergyBottleneck]] - generator and onsite-energy layer added by the February 16 Marketplace Tech episode.
 - [[AIInvestmentMetrics]], [[CAPEXOPEXSubstitution]], [[JevonsParadoxInAI]], and [[HoloAssets]] — E155's business-flywheel and hard-asset extension.
 - [[GoogleCloud]], [[TPU]], [[Gemini]], and [[FullStackAIPlatform]] — cloud-chip-model integration added by the Google Cloud Next source.

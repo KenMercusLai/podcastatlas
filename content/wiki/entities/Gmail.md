@@ -2,7 +2,7 @@
 title: "Gmail"
 type: entity
 tags: [product, email, google]
-sources: [socialradarspod-paulb-final]
+sources: [tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, socialradarspod-paulb-final]
 last_updated: 2026-07-11
 ---
 
@@ -14,9 +14,12 @@ The source makes Gmail a product-development case. PB converted his own mailbox 
 
 Gmail also becomes a [[ProductLaunchUnderConstraint]] case. A New York Times leak forced a rushed April 1 launch while DNS and account creation were not ready, capacity covered only roughly ten thousand users, and the invite system existed mainly to prevent collapse before it became a viral-growth story. Its one-gigabyte storage offer differentiated the product, but it also forced extra durability work because email could not tolerate search-index-style data loss.
 
+[[tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2]] adds the IPO-period political controversy around Gmail. [[RonConway]] says privacy concerns from a California legislator created risk during Google's quiet period, and that [[SergeyBrin]] asked him for help. Conway helped bring in Jackie Speier to oppose the bill and redirected the meeting toward practical product discussion when Brin's visionary explanation risked reinforcing the wrong political story.
+
 ## Connections
 - [[PaulBuchheit]] - creator and source narrator.
 - [[Google]] - company and infrastructure context.
 - [[FastFeedbackLoops]] - internal-user feedback and happiness-survey process.
 - [[ProductLaunchUnderConstraint]] - leak, launch timing, capacity, and invite-system framing.
 - [[CustomerPull]] and [[ProductLedWillingnessToPay]] - Gmail's early enthusiastic users, especially reporters with tiny workplace quotas, showed demand for much larger email storage.
+- [[RonConway]], [[SergeyBrin]], and [[FounderFriendlyInvestorSupport]] - IPO-period political translation added by the Conway Part 3 episode.

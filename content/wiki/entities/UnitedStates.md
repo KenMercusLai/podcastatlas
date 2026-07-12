@@ -1,12 +1,16 @@
 ---
 title: "United States"
 type: entity
-tags: [country, politics, culture, sports, geopolitics]
-sources: [marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c, trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7, trailer-tocqueville-road-trip-6a315920101389aa3d42d134, trailer-tocqueville-road-trip-6a315813780d0f7579afb892, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan]
-last_updated: 2026-07-10
+tags: [country, politics, culture, sports, geopolitics, space]
+sources: [tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c, trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7, trailer-tocqueville-road-trip-6a315920101389aa3d42d134, trailer-tocqueville-road-trip-6a315813780d0f7579afb892, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan]
+last_updated: 2026-07-12
 ---
 
 # United States
+
+[[tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128]] adds the United States to the low-cost drone warfare branch through the [[LucasDrone]]. [[StaceyPettijohn]] describes Lucas as a U.S. low-cost uncrewed system essentially reverse-engineered from the Iranian [[Shahed136]], showing that the United States is also responding to [[LowCostDroneWarfare]] with cheaper, good-enough platforms rather than only exquisite high-end weapons.
+
+[[tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128]] adds a market-reaction angle to the U.S.-Iran branch. The [[MarketplaceTech]] episode says gold rose after news that the United States attacked [[Iran]], while [[Bitcoin]] did not show the same immediate flight-to-safety response; [[GilLuria]] then connects possible later Bitcoin demand to war-driven inflation, dollar weakness, and [[CrossBorderCryptoCapitalFlight]].
 
 The [[UnitedStates]] is the central subject of [[the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad]], where [[TheIntelligence]] treats the country's 250th birthday as a test of democracy, immigration, historical memory, and cultural power. The episode frames America as both resilient and fragile: constitutional institutions, labor-market assimilation, and cultural energy remain strong, while polarization, voting-rights erosion, harsh immigration enforcement, and executive-power expansion put pressure on the republic.
 
@@ -34,7 +38,11 @@ The page also connects earlier wiki branches that used America more indirectly. 
 
 [[marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c]] adds a Route 66 commercial-history case. The [[AmericanGiantsMuseum]] segment treats fiberglass roadside figures, service-station reuse, and [[RoadsideAdvertisingSpectacle]] as evidence that American roadside commerce became cultural memory as [[Route66]] shifted from transport utility to nostalgia travel.
 
+[[tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128]] adds the United States as the diplomatic center of the [[ArtemisAccords]], a U.S.-led framework for lunar exploration rules. Through [[NASA]] and [[Artemis2]], the source places the United States inside [[LunarResourceGovernance]] debates over safety zones, commercial [[SpaceResourceExtraction]], and how to operate near [[China]] and [[Russia]] on the [[Moon]].
+
 ## Connections
+- [[LucasDrone]], [[Shahed136]], [[LowCostDroneWarfare]], [[CommercialOffTheShelfWeaponization]], and [[DroneDefenseEconomics]] - low-cost drone warfare branch added by Marketplace Tech.
+- [[Bitcoin]], [[GoldMonetaryAnchor]], [[BitcoinSafeHavenBehavior]], and [[CrossBorderCryptoCapitalFlight]] - market-reaction and dollar/inflation branch added by Marketplace Tech.
 - [[AmericanDemocraticResilience]], [[ExecutivePowerPrecedent]], and [[SupremeCourt]] - institutional and constitutional guardrail branch.
 - [[BarackObama]] and [[DonaldTrump]] - America-at-250 political sequence from post-crisis hope to backlash, January 6th, and Trump's return.
 - [[AlexisDeTocqueville]], [[DemocracyInAmerica]], [[TocquevilleRoadTrip]], and [[AmericaAsIdea]] - historical lens and symbolic-democracy branch added by the trailer.
@@ -51,3 +59,4 @@ The page also connects earlier wiki branches that used America more indirectly. 
 - [[IranPostwarEconomicRelief]], [[ObamaPresidentialCenter]], and [[PresidentialMemorialCulture]] - diplomacy and presidential-memory branches added by The Intelligence.
 - [[AmericanGiantsMuseum]], [[RoadsideAdvertisingSpectacle]], and [[Route66NostalgiaTourism]] - roadside advertising and American commercial-memory branch added by The Intelligence.
 - [[BlackTravelInfrastructure]], [[GreenBook]], and [[ThreateFillingStation]] - segregation-era travel-safety branch added by the Peace fire episode.
+- [[NASA]], [[Artemis2]], [[ArtemisAccords]], [[Moon]], and [[LunarResourceGovernance]] - U.S.-led lunar governance branch added by Marketplace Tech.

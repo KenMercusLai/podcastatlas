@@ -2,8 +2,8 @@
 title: "AI As Tutor"
 type: concept
 tags: [ai, education, learning]
-sources: [vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
-last_updated: 2026-07-09
+sources: [tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
+last_updated: 2026-07-12
 ---
 
 # AI As Tutor
@@ -13,6 +13,8 @@ AI as tutor is the use of tools such as [[ChatGPT]] to personalize explanations,
 [[e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]] adds the [[WaterFireEducation]] version. AI tutoring is most valuable when it helps find and kindle the learner's own questions, will, and talent, not only when it pours more material into the student faster.
 
 [[167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]] adds [[YangcongXueyuan]]'s K12 version. AI tutoring should use context, learning history, memory, and emotional state to support a blocked step, but [[YangLingfeng]] warns that current large models still struggle to teach system-two school knowledge from scratch and can create [[AIShortcutRisk]] if they simply hand over answers.
+
+[[tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128]] adds [[HeatherSchwartz]]'s sequencing boundary from [[RAND]]. AI can explain a math problem or refine a draft, but tutoring becomes weaker when [[ChatGPT]] or another tool supplies the first solution before the student has tried to reason. [[FirstDraftThinking]] puts AI after the learner's initial synthesis rather than before it.
 
 ## Key Claims
 
@@ -25,6 +27,7 @@ AI as tutor is the use of tools such as [[ChatGPT]] to personalize explanations,
 - AI tutoring can support "fire" education when it helps a learner explore curiosity and agency rather than only optimize answer throughput.
 - In K12, AI tutoring is strongest when it normalizes confusion, diagnoses the stuck point, and sends the learner back into reasoning.
 - The answer-machine pattern is a failure mode because it can remove the practice that builds understanding.
+- AI support is more defensible after a student has produced a first draft, partial solution, hypothesis, or explicit confusion.
 
 ## Connections
 
@@ -35,3 +38,4 @@ AI as tutor is the use of tools such as [[ChatGPT]] to personalize explanations,
 - [[AIProgrammingEngineShift]] and [[AIEngineeringThinking]] — programming examples where AI assistance still requires system understanding.
 - [[WaterFireEducation]] and [[HumanAgencyUnderAI]] — E45's education-as-agency extension.
 - [[SelfDirectedLearning]], [[LearningExperienceDesign]], and [[AIShortcutRisk]] — Yangcong Xueyuan's K12 tutoring boundary.
+- [[FirstDraftThinking]], [[HeatherSchwartz]], and [[RAND]] - Marketplace Tech's homework and classroom sequencing boundary.

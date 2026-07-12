@@ -1,12 +1,18 @@
 ---
 title: "Amazon"
 type: entity
-tags: [company, ai, cloud, investing, media, security]
-sources: [tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d, shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500]
-last_updated: 2026-07-10
+tags: [company, ai, cloud, investing, media, security, startups]
+sources: [tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, socialradarspod-emmettshear-v2, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d, shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500]
+last_updated: 2026-07-12
 ---
 
 # Amazon
+
+[[tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128]] adds Amazon's ultra-fast delivery push. The episode says Amazon announced one-hour delivery in hundreds of U.S. cities and three-hour delivery in more than 2,000 places for supercenter-like goods, with non-Prime customers paying about $20 for one-hour delivery. [[AnitaRamaswamy]] frames the move as direct competition with [[Walmart]], a continuation of consumer willingness to pay for convenience through [[UberEats|Uber Eats]] and [[DoorDash]], and a case where AI can help both fulfillment and recommendations.
+
+[[tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128]] adds Amazon as the company case behind [[AICodingGuardrails]]. The episode says the [[FinancialTimes|Financial Times]] reported that Amazon engineers met about recent website outages, including incidents discussed in relation to AI use; Amazon told the show that only one discussed incident was AI-related and that none involved AI-written code. [[JewelBurkeSolomon]] uses the story to argue that AI coding and deployment workflows need review, controls, and uptime-oriented oversight.
+
+[[socialradarspod-emmettshear-v2]] adds Amazon as the acquirer of [[Twitch]]. [[EmmettShear]] describes Amazon as a good acquirer for founders who want to keep running their company, because its decentralized model can let acquired businesses preserve brand, management, and operating independence. In this source, Amazon is therefore a [[PostAcquisitionFounderIdentity]] case as much as a media or cloud company.
 
 Amazon appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj]] as one of the large cloud buyers whose AI-infrastructure budget helps shape [[Nvidia]] demand. The episode groups Amazon with [[Microsoft]] and [[Google]] to make a customer-concentration and capex-cycle point rather than a detailed Amazon thesis.
 
@@ -30,8 +36,13 @@ Amazon appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfan
 
 [[tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]] adds Amazon as an incumbent advertising competitor for [[AISearchAdvertising]]. [[GarrettJohnson]] groups Amazon with [[Google]] and [[Meta]] as mature platforms that already have advertiser relationships, targeting systems, and conversion expectations, making the AI-search ad market harder for new entrants.
 
+[[tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]] adds Amazon through [[Ring]], its video doorbell and camera subsidiary. The episode uses [[RingSearchParty|Ring Search Party]] to show how an AI-enabled consumer safety feature can raise [[ConsumerCameraSurveillance]] concerns when connected-camera networks, law-enforcement relationships, and partnerships such as [[FlockSafety]] enter the story.
+
 ## Connections
 - [[Nvidia]] — supplier whose growth expectations depend on large AI customers.
+- [[Walmart]], [[UberEats|Uber Eats]], [[DoorDash]], [[InstantRetail]], [[EcommerceFulfillmentComplexity]], [[UltraFastDeliveryEconomics]], and [[AIConsumerDecisionShaping]] - ultra-fast delivery branch added by the 2026-03-20 Marketplace Tech Bytes episode.
+- [[FinancialTimes|Financial Times]], [[AICodingGuardrails]], [[AICodingVerification]], and [[AIAssistedSoftwareDevelopmentRisk]] — AI-related outage and software-delivery governance branch added by Marketplace Tech Bytes.
+- [[Twitch]], [[EmmettShear]], and [[PostAcquisitionFounderIdentity]] — founder-friendly acquisition case added by The Social Radars.
 - [[Microsoft]] and [[Google]] — peer hyperscalers in the episode's discussion.
 - [[AIEquityValuationRisk]] — valuation risk from assuming current AI capex continues smoothly.
 - [[MelaniaTrump]] and [[PoliticalIdentityPremium]] — EP77's media-contract branch.
@@ -44,3 +55,4 @@ Amazon appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfan
 - [[WeiXiaokang]], [[Google]], and [[BusinessModelOrganizationFit]] — organization-model comparison added by the 42章经 episode.
 - [[JoyoAmazonChina]], [[Dangdang]], and [[ChineseEcommercePlatformHistory]] — China ecommerce branch added by Banlatte episode 200.
 - [[AISearchAdvertising]], [[Google]], and [[Meta]] — incumbent ad-platform competition context added by Marketplace Tech.
+- [[Ring]], [[RingSearchParty|Ring Search Party]], [[JamieSiminoff]], [[FlockSafety]], and [[ConsumerCameraSurveillance]] - smart-camera and surveillance branch added by Marketplace Tech Bytes.

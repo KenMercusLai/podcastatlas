@@ -2,8 +2,8 @@
 title: "AI Discovery SEO"
 type: concept
 tags: [ai, seo, distribution]
-sources: [bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]
-last_updated: 2026-07-10
+sources: [tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86, vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1, he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]
+last_updated: 2026-07-12
 ---
 
 # AI Discovery SEO
@@ -20,6 +20,10 @@ AI discovery SEO is the idea that products still need strong public web presence
 
 [[tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]] adds the paid counterpart: once AI answer surfaces become monetized, discovery may involve both organic mention through [[GenerativeEngineOptimization]] and sponsored placement through [[AISearchAdvertising]]. The same compressed answer format makes ranking, mention, and ad labeling harder to separate than on a traditional search page.
 
+[[tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128]] adds a higher-education version through [[AICollegeSearch]] and [[HigherEducationAIDiscoverability]]. Colleges now have to understand how AI tools describe them to prospective students, update public information so answers do not go stale, and create natural-language pages or FAQs that match the questions students actually ask.
+
+[[tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128]] adds [[AnswerEngineOptimization]] as the brand-marketing version. [[ErinGriffith]] says chatbots reward dense, specific, factual information more than human-facing stories and hooks, so companies are publishing manuals, studies, product details, and other high-information material to shape how AI systems answer user questions.
+
 ## Key Claims
 - AI discovery does not remove the importance of public web signals; it may make those signals matter in new interfaces.
 - SEO captures users who already show intent, making it a reusable channel inside [[DistributionLedProductBuilding]].
@@ -32,6 +36,9 @@ AI discovery SEO is the idea that products still need strong public web presence
 - Products and publishers need to understand whether their audience is finding them through classic search results, AI synthesized answers, or the sources behind those answers.
 - Off-page AI discovery can become a supply problem: brands may need credible third-party publishers to describe and recommend them.
 - Paid AI-search placement can sit next to organic AI discovery, so brands and users need to distinguish earned mention, retrieved citation, and sponsored recommendation.
+- Universities face the same visibility problem when students ask AI tools about programs, campus culture, scholarships, and career outcomes.
+- AI discovery can reinforce rankings or familiar brands if the answer surface leans on highly visible sources rather than fit-specific evidence.
+- Brand AEO depends on factual density and answer usefulness, not just more pages or AI-generated marketing copy.
 
 ## Connections
 - [[Outrank]] - product example.
@@ -45,3 +52,5 @@ AI discovery SEO is the idea that products still need strong public web presence
 - [[GenerativeEngineOptimization]], [[AIContentDevaluation]], and [[HumanJudgmentUnderAI]] - Vol. 160's AI-search optimization and verification-risk layer.
 - [[Responna]], [[AIVisibilityService]], [[LookalikePublisherOutreach]], and [[PublisherRelationshipMoat]] - off-page AI visibility branch.
 - [[AISearchAdvertising]], [[GarrettJohnson]], and [[MarketplaceTech]] - paid AI-search placement boundary.
+- [[AICollegeSearch]], [[HigherEducationAIDiscoverability]], [[IndianaWesleyanUniversity]], and [[AIRankingReinforcement]] - higher-education discoverability branch added by Marketplace Tech.
+- [[AnswerEngineOptimization]], [[ErinGriffith]], [[Reddit]], and [[TrustAsBusinessAsset]] - brand AEO, reputation, and answer-integrity branch added by Marketplace Tech.

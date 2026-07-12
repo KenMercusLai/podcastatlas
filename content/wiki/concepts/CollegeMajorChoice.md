@@ -2,8 +2,8 @@
 title: "College Major Choice"
 type: concept
 tags: [education, career, ai]
-sources: [vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1]
-last_updated: 2026-07-08
+sources: [tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128]
+last_updated: 2026-07-12
 ---
 
 # College Major Choice
@@ -11,6 +11,10 @@ last_updated: 2026-07-08
 College major choice is the episode's frame for choosing a field of study under uncertainty rather than optimizing only for a currently hot job title. In [[vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1]], [[JustinYan]] and [[Zili]] treat gaokao volunteer filling as a serious but revisable decision that interacts with school resources, city context, family expectations, income needs, personal interest, and AI-driven change.
 
 [[ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1]] adds [[JiangXun]]'s parent-and-author perspective. Because many students do not yet know what they like, the episode argues that curiosity and real-world exposure should be cultivated before the application deadline, while [[DistributionOutPersonalStrategy]] warns against choosing only the most standardized path.
+
+[[tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128]] adds a U.S. computing-enrollment case. [[CarrieGeorge]] says students are responding to AI and labor-market signals by moving away from traditional computer science, software engineering, and information systems while computer engineering, data science, cybersecurity, and AI-related programs remain stable or grow.
+
+[[tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128]] adds the search-process layer. [[AICollegeSearch]] can help students compare programs, scholarships, campus vibe, and outcomes, but [[AIRankingReinforcement]] means AI-generated lists may overrepresent familiar ranked schools unless the student or counselor asks for fit-based alternatives.
 
 ## Key Claims
 
@@ -22,6 +26,8 @@ College major choice is the episode's frame for choosing a field of study under 
 - Exceptional cases can inspire, but gifted outliers should not become ordinary templates for choosing a major.
 - The most durable advice is to choose a direction where ability, interest, responsibility, and realistic opportunity can reinforce each other.
 - Interest is not always obvious on demand; students need earlier exposure to real work, experiments, and adults' professional lives to discover what can sustain effort.
+- The computing-enrollment source shows major choice as a live market signal: students may preserve interest in computing while shifting toward subfields they perceive as more applied, specialized, or protected from entry-level software disruption.
+- AI can help collect college and program information, but it can also make existing ranking defaults feel like personalized advice.
 
 ## Connections
 
@@ -31,3 +37,5 @@ College major choice is the episode's frame for choosing a field of study under 
 - [[GraduationAnxiety]] — later pressure that can be reduced when students use college years deliberately.
 - [[HumanJudgmentUnderAI]] — AI can inform the decision, but students still own the tradeoffs.
 - [[FifthDimension]] and [[DistributionOutPersonalStrategy]] — added frame for choosing under AI uncertainty without becoming a standardized person.
+- [[ComputingEnrollmentDecline]], [[ComputingResearchPipeline]], [[TechHiringStabilization]], and [[SoftwareDeveloperHiringPullback]] — U.S. computing case where labor-market expectations feed back into enrollment.
+- [[AICollegeSearch]], [[HigherEducationAIDiscoverability]], and [[AIRankingReinforcement]] — AI-mediated college-search layer added by Marketplace Tech.

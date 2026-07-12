@@ -2,8 +2,8 @@
 title: "AI Content Provenance"
 type: concept
 tags: [ai, provenance, trust, compliance]
-sources: [tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
-last_updated: 2026-07-10
+sources: [tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
+last_updated: 2026-07-12
 ---
 
 # AI Content Provenance
@@ -16,6 +16,8 @@ AI content provenance is the practice of marking, disclosing, or tracing synthet
 
 [[tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]] adds the mainstream advertising version through [[McDonaldsNetherlands]]. The source says the AI-generated Christmas ad was transparent about AI use, but still provoked backlash, showing that provenance can be necessary without being sufficient. Audiences may still object when [[AIGeneratedAdvertising]] is used by a large corporation instead of hiring creative workers, or when synthetic media blurs what was filmed versus generated.
 
+[[tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128]] adds the newsroom byline version through [[ThePlainDealer|the Plain Dealer]]'s [[AdvancedLocalExpressDesk]]. The label makes mostly AI-written articles more visible, but the episode shows that provenance is only the first layer: readers and journalists still ask whether enough reporting, editing, verification, and human responsibility sit behind the disclosed AI use.
+
 ## Key Claims
 
 - Provenance matters because generated images, personas, voices, and promotional content can be commercially legitimate when disclosed, but deceptive when users believe they are interacting with a real person or unedited evidence.
@@ -26,6 +28,7 @@ AI content provenance is the practice of marking, disclosing, or tracing synthet
 - Provenance does not solve all audience reaction; even disclosed AI content can be ignored if it feels generic or unauthored.
 - AI short-drama production raises a commercial-rights version of provenance: teams need to know whether generated characters, faces, and IP references can be distributed and monetized.
 - Brand advertising adds a labor-and-expectation version: disclosing AI use does not fully answer whether a campaign feels trustworthy, fair, or respectful of creative work.
+- Newsroom bylines and labels can disclose AI use, but provenance does not automatically solve [[AIJournalismTrust]] when the concern is quality, care, or accountability.
 
 ## Connections
 
@@ -37,3 +40,4 @@ AI content provenance is the practice of marking, disclosing, or tracing synthet
 - [[AIContentDevaluation]] and [[AICommunicationAbility]] — Vol. 164's attention and authorship trust layer.
 - [[AIShortDrama]], [[AIVideoProductionWorkflow]], [[IPOwnership]], [[Netflix]], and [[TheWaltDisneyCompany]] — entertainment-rights branch added by episode 266.
 - [[McDonaldsNetherlands]], [[AIGeneratedAdvertising]], and [[CreativeLaborAIBacklash]] — advertising and labor-trust branch added by Marketplace Tech Bytes.
+- [[AdvancedLocalExpressDesk]], [[AIWrittenJournalism]], [[AIRewriteDesk]], and [[AIJournalismTrust]] — newsroom disclosure and reader-trust branch added by Marketplace Tech.

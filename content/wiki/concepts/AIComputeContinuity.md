@@ -2,8 +2,8 @@
 title: "AI Compute Continuity"
 type: concept
 tags: [ai, infrastructure, reliability]
-sources: [tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
-last_updated: 2026-07-10
+sources: [tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
+last_updated: 2026-07-12
 ---
 
 # AI Compute Continuity
@@ -22,6 +22,10 @@ The episode's coding-tool anecdote makes the issue concrete: when an AI coding s
 
 [[tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128]] adds the state-incentive version. [[DataCenterTaxIncentives]] can accelerate where compute capacity is built by reducing upfront and electricity costs, but they also expose AI compute continuity to tax-policy review, job requirements, capital thresholds, and energy-use politics.
 
+[[tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]] adds the long-term finance version through [[Alphabet]]. If model services require sustained data-center and AI infrastructure buildout, compute continuity depends not only on chips, power, cooling, and permitting, but also on whether companies can finance capacity over many years without undermining flexibility or investor confidence.
+
+[[tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128]] adds the onsite-power version through [[Caterpillar]]. If data centers cannot wait years for grid interconnection, [[DataCenterOnsitePower]] can bring capacity online faster, but compute continuity then depends on natural gas engines, generator supply, fuel logistics, and maintenance capacity.
+
 ## Key Claims
 - AI services depend on physical regions, power, cooling, networks, and specialized hardware rather than only model software.
 - High-density GPU facilities can be more strategically valuable and more operationally fragile than ordinary web-serving capacity.
@@ -33,6 +37,8 @@ The episode's coding-tool anecdote makes the issue concrete: when an AI coding s
 - Local opposition and permitting fights can cap or delay compute buildout even when capital, chips, and cooling designs are available.
 - Utility approvals, rate design, and grid-upgrade financing can also cap or delay compute buildout.
 - State tax incentives can accelerate compute buildout, but electricity exemptions and public subsidy reviews can become constraints when power demand rises.
+- Long-duration borrowing can support compute continuity when it funds capacity, but it also ties continuity to credit-market confidence and future AI returns.
+- Onsite generator power can accelerate data-center deployment, but it creates another continuity dependency on industrial equipment, fuel, emissions tolerance, and service capacity.
 
 ## Connections
 - [[MaaSInfrastructure]] — platform layer that turns compute into usable model service.
@@ -43,6 +49,8 @@ The episode's coding-tool anecdote makes the issue concrete: when an AI coding s
 - [[DataCenterBacklash]] — local siting and public-opposition layer added by The Intelligence.
 - [[PublicUtilityCommissions]], [[AIEnergyBottleneck]], and [[DataCenterCostShifting]] — regulated-grid layer added by Marketplace Tech.
 - [[DataCenterTaxIncentives]], [[NicholasMiller]], and [[NationalConferenceOfStateLegislatures]] — state tax-policy layer added by the later Marketplace Tech episode.
+- [[Alphabet]], [[AIInfrastructureDebtFinancing]], [[DataCenterDebtRisk]], and [[AIEquityValuationRisk]] - long-term financing layer added by the February 13 Marketplace Tech Bytes episode.
+- [[DataCenterOnsitePower]], [[Caterpillar]], [[DanAckerman]], and [[DavidVictor]] - onsite power and generator-backlog layer added by the February 16 Marketplace Tech episode.
 - [[WarAwareDisasterRecovery]] — failover planning for AI workloads.
 - [[ClaudeCode]] and [[AICodingVerification]] — workflow example where tool availability and human review quality interact.
 - [[HoloAssets]], [[CAPEXOPEXSubstitution]], and [[HumanResourceDeflationComputeInfrastructureInflation]] — energy and hard-asset extension added by E155.

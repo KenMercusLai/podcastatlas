@@ -2,11 +2,13 @@
 title: "Open Claw"
 type: entity
 tags: [agent, ecosystem, china]
-sources: [e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, zhe-bannian-women-you-maile-naxie-keji-haowu-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, 139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no]
-last_updated: 2026-07-08
+sources: [tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, zhe-bannian-women-you-maile-naxie-keji-haowu-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, 139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no]
+last_updated: 2026-07-12
 ---
 
 # Open Claw
+
+[[tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128]] uses the OpenClaw name in a different source context: [[JewelBurkeSolomon]] says the founder of OpenClaw, described in the episode as the parent to [[MoteBook]], had been acquihired by [[OpenAI]] a few weeks before [[Meta]] acquired MoteBook. This may refer to the same project or to a naming collision; the source is recorded as an ambiguity rather than merged into the existing OpenClaw synthesis as settled fact.
 
 Open Claw is discussed together with [[OpenCloud]] in [[dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]] as part of the domestic agent wave that made Chinese users feel agents could keep working through accessible interaction surfaces. The source uses the OpenCloud/OpenClaw phenomenon to explain why memory, skills, and reliable harnesses suddenly became visible product concerns.
 
@@ -35,6 +37,7 @@ Open Claw is discussed together with [[OpenCloud]] in [[dang-women-zai-taolun-ha
 [[139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no]] adds a technical-history interpretation through [[SuYu]]. He calls the public shift an [[OpenClawMoment]]: not necessarily a new agent algorithm, but an interaction-form shock where permissions, always-on operation, personal context, and reachability made [[LanguageAgent]] and [[ComputerUseAgent]] capability newly legible.
 
 ## Source Position
+- The Marketplace Tech Bytes source creates an identity ambiguity by describing OpenClaw as MoteBook's parent and linking its founder to an OpenAI acquihire; existing wiki sources primarily describe OpenClaw as a Chinese personal-agent product.
 - The source treats Open Claw as an early adoption context rather than the final agent form.
 - Memory instability is presented as a pain point that helped [[HermesAgent]] attract attention.
 - The episode summarizes the core OpenCloud/OpenClaw expectation as an agent that is reachable, collaborative, and becomes more familiar with the user over time.
@@ -52,6 +55,7 @@ Open Claw is discussed together with [[OpenCloud]] in [[dang-women-zai-taolun-ha
 
 ## Connections
 - [[OpenCloud]] — paired domestic agent phenomenon in the source.
+- [[MoteBook]], [[Meta]], [[OpenAI]], and [[AITalentCompetition]] — source-specific parent/acquihire ambiguity added by Marketplace Tech Bytes.
 - [[HermesAgent]] — agent framework positioned as a response to memory and workflow problems.
 - [[PersistentAgentMemory]], [[AISkills]], and [[AgenticWorkflow]] — concepts surfaced through the OpenCloud/OpenClaw wave.
 - [[AgentFacingInterfaces]] — interface layer that made agent use more accessible.

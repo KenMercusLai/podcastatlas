@@ -2,13 +2,15 @@
 title: "Capital Account Investment Restrictions"
 type: concept
 tags: [foreign-exchange, investing, compliance, china]
-sources: [ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1]
-last_updated: 2026-07-07
+sources: [tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1]
+last_updated: 2026-07-12
 ---
 
 # Capital Account Investment Restrictions
 
 Capital account investment restrictions are the boundary between ordinary personal foreign-exchange use and investment activity that has not been broadly opened for mainland individuals. [[ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs]] uses the personal USD 50,000 convenience purchase quota to explain why funding overseas stock accounts with money declared for travel or study can become a compliance problem.
+
+[[tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128]] adds a crypto workaround reference through [[GilLuria]]'s comparison with [[China]]. The episode says people have used [[Bitcoin]] to get around restrictions on moving capital out of the country, making [[CrossBorderCryptoCapitalFlight]] an adjacent but riskier route around the same boundary.
 
 [[opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1]] adds an entrepreneurship version. The hosts warn that opening an overseas company or account is not the core problem; a solo founder still has to understand what the account is for, how funds leave, how profits return, and whether tax, residence, source-of-funds, and declared purpose remain consistent.
 
@@ -22,6 +24,7 @@ Capital account investment restrictions are the boundary between ordinary person
 
 ## Connections
 - [[StateAdministrationOfForeignExchange]] — regulator tied to personal FX use and quota enforcement.
+- [[Bitcoin]], [[China]], and [[CrossBorderCryptoCapitalFlight]] - crypto portability comparison added by Marketplace Tech.
 - [[CrossBorderBrokerageRegulation]] — brokerage cleanup depends on this funding boundary.
 - [[CrossBorderFundTransferRisk]] and [[UndergroundMoneyTransferRisk]] — attempts to work around the boundary can create account and AML exposure.
 - [[OverseasInsuranceRisk]] — Hong Kong insurance appears as a related capital-outflow behavior after the 811 period.
