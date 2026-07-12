@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [46.这世界唯一的你：请相信那朵慢慢绽放的花](sources/46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720.md) — 蜜獾吃书 episode on 《这世界唯一的你》 / Uniquely Human, autism as lived difference, behavior-as-communication, safe environments, family support, and cure-promise risk.
 - [44.运气的诱饵：赌博成瘾，因为我们害怕自由](sources/44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308.md) — 蜜獾吃书 episode on 《运气的诱饵》, machine gambling addiction, casino/slot design, near misses, intermittent reinforcement, freedom pressure, and addictive digital-product mechanics.
 - [日谈串台｜姐妹聊天会：重启人生也是我最妖娇](sources/ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425.md) — 蜜獾吃书 and 日谈 Women's Day crossover with Hookie, 殷姐, and 秦总 on 《重启人生》, career redirection, regret integration, pet grief, mother-daughter repair, learning capacity, and female self-possession.
 - [Bytes: Week in Review - Meta, YouTube's social media addiction case, a new AI literacy course, and Kalshi's prediction market self-regulation](sources/tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Stephanie Hughes and Maria Curi of Axios on social-media product liability, the Department of Labor's text-message AI literacy course, and Kalshi guardrails for political and sports-linked prediction markets.
@@ -326,6 +327,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Barry Prizant](entities/BarryPrizant.md) — Autism expert and Uniquely Human author presented by 蜜獾吃书 as reframing autistic behavior as coping, communication, and self-protection.
+- [《这世界唯一的你》 / Uniquely Human](entities/UniquelyHuman.md) — Book discussed by 蜜獾吃书 as a guide to autism, behavior-as-communication, safe environments, family support, and anti-cure-promise boundaries.
 - [北民](entities/Beimin.md) — Voice in the 蜜獾吃书 episode connecting machine gambling, near-miss effects, and mobile-game reward mechanics.
 - [《运气的诱饵》](entities/TheLureOfLuck.md) — Book discussed by 蜜獾吃书 as an anthropological and philosophical account of machine gambling, agency suspension, and addiction design.
 - [Christopher Mims](entities/ChristopherMims.md) — Technology writer and How to AI author who frames AI as an assistant best used with expertise, judgment, and mundane task selection.
@@ -333,11 +336,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Flow](entities/Flow.md) — iPhone dictation app Mims uses as a voice-first AI interface for everyday messaging.
 - [Google Personal Intelligence](entities/GooglePersonalIntelligence.md) — Gemini-linked account capability used by the source to show AI acting inside Google services such as Calendar.
 - [Google Calendar](entities/GoogleCalendar.md) — Scheduling product used as the source's example of a disliked task that account-integrated AI can reduce.
-- [蜜獾吃书](entities/MihuanChishu.md) — Podcast/show context for the Women's Day crossover on life restarts, regret, pets, mother-daughter grief, and female self-possession.
+- [蜜獾吃书](entities/MihuanChishu.md) — Podcast/show context for book and life-design discussions on life restarts, machine gambling, and autism support.
 - [日谈](entities/Ritan.md) — Crossover context for the episode bringing Hookie, 殷姐, and 秦总 together for a Women's Day life-design conversation.
 - [Hookie](entities/Hookie.md) — Host in the restart-life episode, linking life-science career redirection, pet grief, school confidence, and learning capacity.
 - [殷姐](entities/YinJie.md) — Host in the restart-life episode, linking Mexico hospitality life, recruiting regret, self-consistency, learning capacity, and non-attachment.
-- [秦总](entities/QinZong.md) — 蜜獾吃书 host in the restart-life episode, linking career exits, high-school embarrassment, mother loss, and love as human capacity.
+- [秦总](entities/QinZong.md) — 蜜獾吃书 host linking life restarts, machine gambling, and autism support through book discussion and personal examples.
 - [重启人生 / Brush Up Life](entities/BrushUpLife.md) — Japanese-drama premise used by the episode as a life-restart thought experiment.
 - [Christina Cacioppo](entities/ChristinaCacioppo.md) — Vanta founder and CEO whose Social Radars episode links USV, learning to code, Dropbox compliance pain, YC, and founder-led enterprise sales.
 - [Vanta](entities/Vanta.md) — Trust-management and compliance-automation SaaS company that began from SOC 2 pain, spreadsheet gap assessments, YC sales, and annual upfront contracts.
@@ -2004,6 +2007,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Autism As Human Difference](concepts/AutismAsHumanDifference.md) — Frame treating autism as a developmental and perceptual difference requiring support, respect, and accommodation rather than repair-first normalization.
+- [Behavior As Communication](concepts/BehaviorAsCommunication.md) — Care and education principle that difficult behavior may express distress, overload, fear, predictability needs, or limited communication tools.
+- [Autism Safe Environment Design](concepts/AutismSafeEnvironmentDesign.md) — Support pattern that reduces sensory, memory, and predictability threats before demanding compliance or participation.
+- [Autism Family Support](concepts/AutismFamilySupport.md) — Social support layer for parents and siblings facing diagnosis anxiety, public misunderstanding, school friction, and long-term care pressure.
+- [Autism Cure-Scam Risk](concepts/AutismCureScamRisk.md) — Warning that promises to cure autism exploit family fear and distract from grounded support, accommodation, and capability building.
 - [Machine Gambling Addiction](concepts/MachineGamblingAddiction.md) — Compulsive slot-machine/video-poker-style play produced by fast, solitary, low-friction human-machine reward loops.
 - [Addictive Interaction Design](concepts/AddictiveInteractionDesign.md) — Interface, pacing, reward, data, and friction-removal pattern that keeps users engaged beyond reflective intention.
 - [Machine Zone](concepts/MachineZone.md) — Dissociated gambling-machine state where time, money, body signals, social obligation, and self-judgment are suspended.

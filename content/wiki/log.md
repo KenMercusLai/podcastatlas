@@ -2243,7 +2243,6 @@ Added source page for The Social Radars episode with Sam Altman on Looped, the f
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
-
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -2587,6 +2586,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] ingest | Claire Isabel Webb & Nina Miolane: The Geometry of Consciousness
 
 Refreshed the existing Long Now source page from `/home/ken/repos/podcastatlas/content/episodes/02026-webb-miolane-podcast-v2 [02026-webb-miolane-podcast-v2].md`, recording it as the primary source export and preserving the older title-based path as an alternate source file. Updated the source page, index, overview, Nina Miolane, and Mathematical Theory Of Intelligence to reflect the small-data/small-network architecture implication. No duplicate source page was created because this file represents the same episode already linked in the wiki. No direct contradiction found.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | 46.这世界唯一的你：请相信那朵慢慢绽放的花
+
+Added source page for the 蜜獾吃书 episode on 《这世界唯一的你》 / Uniquely Human, Barry Prizant, autism as human difference, behavior-as-communication, safe environment design, family support, and cure-promise risk. Created pages for Barry Prizant, 《这世界唯一的你》 / Uniquely Human, Autism As Human Difference, Behavior As Communication, Autism Safe Environment Design, Autism Family Support, and Autism Cure-Scam Risk; updated overview, index, 蜜獾吃书, and 秦总. No direct contradiction found; the source extends the wiki's caregiving and learning-design branches by showing that support starts with asking why behavior occurs, reducing threat, and backing families rather than forcing normalization.
 
 ## [2026-07-12] lint | Wiki health check
 
