@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Founder Mode: Sajith Wickramasekara, Founder & CEO, Benchling](sources/tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio.md) — The Social Radars YC offsite episode with Sajith Wickramasekara on Benchling, life-sciences workflow software, YC Summer 2012, founder mode as ownership, customer proximity, executive fit, and senior-leader customer contact.
 - [Founder Mode: Emmett Shear, Founder, Softmax & Twitch](sources/tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly.md) — The Social Radars YC offsite episode with Emmett Shear on Softmax, AI collective alignment, learning environments, Twitch founder-mode context transfer, Conway's Law, delegation boundaries, and people systems.
 - [Founder Mode: Christina Cacioppo, Founder & CEO, Vanta](sources/tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly.md) — The Social Radars YC offsite episode with Christina Cacioppo on Vanta, founder mode as permission, delayed Series A fundraising, selective delegation, founder intuition, early engineer-management regret, and expanding beyond SOC 2.
 - [Founder Mode: Kashish Gupta, Founder and co-CEO of Hightouch](sources/tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly.md) — The Social Radars YC offsite episode with Kashish Gupta on Hightouch, enterprise data activation, customer evidence, enterprise-first go-to-market, AI marketing decisioning, founder risk-taking, and co-founder alignment.
@@ -338,6 +339,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Sajith Wickramasekara](entities/SajithWickramasekara.md) — Benchling co-founder and CEO whose YC offsite episode defines founder mode as ownership, customer proximity, standards, and faster executive-fit judgment.
+- [Benchling](entities/Benchling.md) — Life-sciences workflow software company serving scientists across universities, biotech, and pharma, used as a founder-mode case about customer contact and executive fit.
+- [MIT](entities/MIT.md) — University context where Sajith Wickramasekara's computer-science and biology-lab exposure led to the Benchling workflow insight.
 - [Softmax](entities/Softmax.md) — Emmett Shear's AI company focused on measuring and training whether agents can recognize collective belonging and act as part of a shared "we."
 - [David Blumen](entities/DavidBlumen.md) — Softmax co-founder whose architecture proposal marks the point where Emmett Shear says the company's alignment direction became clearer.
 - [Kashish Gupta](entities/KashishGupta.md) — Hightouch founder and co-CEO whose YC offsite episode links enterprise data activation, customer evidence, founder risk-taking, and AI marketing products.
@@ -2068,6 +2072,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Life Sciences Workflow Software](concepts/LifeSciencesWorkflowSoftware.md) — Scientific-workflow software category for experiment design, data capture, analysis, and collaboration across university, biotech, and pharma work.
 - [AI Collective Alignment](concepts/AICollectiveAlignment.md) — Emmett Shear's alignment frame where an agent understands itself, understands other agents, and recognizes when it belongs to a shared "we."
 - [Learning Environment Centered AI Training](concepts/LearningEnvironmentCenteredAITraining.md) — Softmax training frame that emphasizes environments, peer experiences, simulations, and feedback over architecture-only alignment.
 - [Founder Context Propagation](concepts/FounderContextPropagation.md) — Founder-mode pattern where a founder transfers company context through repetition, communication systems, examples, and shared mental models.

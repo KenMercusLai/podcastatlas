@@ -2,7 +2,7 @@
 title: "Stage-Appropriate Hiring"
 type: concept
 tags: [startups, hiring, management]
-sources: [tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly, community-led-saas-growth-how-ninety-hit-44m-arr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud, socialradarsseason1-tracyyoung-final-1]
+sources: [tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly, community-led-saas-growth-how-ninety-hit-44m-arr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud, socialradarsseason1-tracyyoung-final-1]
 last_updated: 2026-07-12
 ---
 
@@ -26,6 +26,8 @@ Stage-appropriate hiring is the principle that leaders and executives must fit t
 
 [[tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly]] adds a management-layer version through [[ChristinaCacioppo]] and [[Vanta]]. Christina says she lost an excellent early engineer after a manager was placed above him, even though she had a gut sense the change would not work. The source makes stage fit apply not only to hiring new executives but also to when management layers are inserted over early builders whose trust, autonomy, or fit may be damaged.
 
+[[tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio]] adds an executive-fit version through [[SajithWickramasekara]] and [[Benchling]]. Sajith says founders often know within 30 to 60 days whether a senior leader will work, but can postpone action by hoping coaching will override the playbook that made the executive successful somewhere else. The source makes stage fit a real-time founder judgment problem: the question is not whether the executive is capable, but whether their habits fit the company's current customer, product, and culture needs.
+
 ## Key Claims
 - Capital can make a company move faster before its operating system is ready for the people it hires.
 - Executives from later-stage environments may bring useful experience but still misfit an earlier-stage company's ambiguity, pace, or culture.
@@ -41,6 +43,8 @@ Stage-appropriate hiring is the principle that leaders and executives must fit t
 - Early startup stage fit includes process restraint: performance, levels, and promotion systems can become distracting status games if introduced before the organization needs them.
 - Second-time founders may get better applicant flow, but the operating gain comes from knowing which traits and values damaged the previous company and making those filters explicit earlier.
 - Adding management above strong early employees can be a stage-fit mistake when the layer weakens trust or autonomy before the organization actually needs it.
+- Founders may recognize executive misfit quickly, but delaying action can let inherited playbooks reshape the company.
+- Executive fit should be judged against the current company's customer contact, operating pace, and cultural standards rather than against resume quality alone.
 
 ## Connections
 - [[Ninety]] and [[MarkAbbott]] — source case.
@@ -54,3 +58,4 @@ Stage-appropriate hiring is the principle that leaders and executives must fit t
 - [[WeiXiaokang]], [[RecruitingSupplyStrategy]], [[ReferenceCheckHiring]], and [[BusinessModelOrganizationFit]] — recruiting and organization-fit case added by the 42章经 episode.
 - [[TracyYoung]], [[PlanGrid]], [[TigerEye]], [[ValuesAsOperationalAsset]], and [[SecondTimeFounderOperatingJudgment]] - second-time founder hiring case from The Social Radars.
 - [[ChristinaCacioppo]], [[Vanta]], [[FounderMode]], and [[FounderDelegationDiscipline]] - management-layer regret case from the Christina Cacioppo founder-mode source.
+- [[SajithWickramasekara]], [[Benchling]], [[FounderMode]], and [[FounderProximity]] - senior-executive fit and customer-contact case from the Benchling founder-mode source.

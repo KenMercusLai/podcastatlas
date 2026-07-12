@@ -1707,6 +1707,10 @@
     "title": "Ben Schifrin",
     "url": "/wiki/entities/benschifrin/"
   },
+  "Benchling": {
+    "title": "Benchling",
+    "url": "/wiki/entities/benchling/"
+  },
   "Benfen": {
     "title": "Benfen / 本分",
     "url": "/wiki/concepts/benfen/"
@@ -6695,6 +6699,10 @@
     "title": "Life Restart Thought Experiment",
     "url": "/wiki/concepts/liferestartthoughtexperiment/"
   },
+  "LifeSciencesWorkflowSoftware": {
+    "title": "Life Sciences Workflow Software",
+    "url": "/wiki/concepts/lifesciencesworkflowsoftware/"
+  },
   "LifestyleCostRationalization": {
     "title": "Lifestyle Cost Rationalization",
     "url": "/wiki/concepts/lifestylecostrationalization/"
@@ -6970,6 +6978,10 @@
   "MGX": {
     "title": "MGX",
     "url": "/wiki/entities/mgx/"
+  },
+  "MIT": {
+    "title": "MIT",
+    "url": "/wiki/entities/mit/"
   },
   "MLCoding": {
     "title": "ML Coding",
@@ -9658,6 +9670,10 @@
   "SahmRule": {
     "title": "Sahm Rule",
     "url": "/wiki/concepts/sahmrule/"
+  },
+  "SajithWickramasekara": {
+    "title": "Sajith Wickramasekara",
+    "url": "/wiki/entities/sajithwickramasekara/"
   },
   "SalarKamangar": {
     "title": "Salar Kamangar",
@@ -13498,6 +13514,10 @@
   "tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final": {
     "title": "Founder Mode: Paul Graham, Founder, Y Combinator",
     "url": "/wiki/sources/tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final/"
+  },
+  "tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio": {
+    "title": "Founder Mode: Sajith Wickramasekara, Founder & CEO, Benchling",
+    "url": "/wiki/sources/tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio/"
   },
   "ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939": {
     "title": "UGG: Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company.",

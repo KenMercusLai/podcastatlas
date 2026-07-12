@@ -2204,6 +2204,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-12] ingest | Founder Mode: Sajith Wickramasekara, Founder & CEO, Benchling
+
+Added source page for The Social Radars YC offsite episode on Sajith Wickramasekara, Benchling, life-sciences workflow software, YC Summer 2012, founder mode as ownership, customer proximity, senior-executive customer contact, and executive-fit judgment. Created pages for Sajith Wickramasekara, Benchling, MIT, and Life Sciences Workflow Software; updated overview, index, The Social Radars, Y Combinator, Paul Graham, Founder Mode, Founder Proximity, Founder Delegation Discipline, Stage-Appropriate Hiring, and Vertical SaaS Domain Expertise. No direct contradiction found; the source qualifies founder mode by showing that layers and senior leaders can coexist with founder-led standards only if customer reality and executive fit remain actively modeled.
+
 ## [2026-07-12] ingest | Founder Mode: Christina Cacioppo, Founder & CEO, Vanta
 
 Added source page for The Social Radars YC offsite episode on Christina Cacioppo, Vanta, founder mode as permission, delayed Series A fundraising, selective delegation, founder intuition, early engineer-management regret, and expansion beyond SOC 2. Updated overview, index, Christina Cacioppo, Vanta, The Social Radars, Y Combinator, Founder Mode, Founder Delegation Discipline, Stage-Appropriate Hiring, Manual Compliance MVP, and SOC 2 Audit. No direct contradiction found; the source reinforces Vanta's spreadsheet MVP origin while adding a later-stage operating lens around trusting internal evidence, choosing where not to delegate, and avoiding a narrow product identity.
@@ -2691,3 +2695,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran health and lint checks. Health passed with no empty/stub files, index drift, or source-log coverage gaps. After refreshing the graph without semantic inference, deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is unset and no provider API-key variables are present. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-12] graph | Knowledge graph rebuilt
+
+3408 nodes, 34723 edges (34723 extracted, 0 inferred).
