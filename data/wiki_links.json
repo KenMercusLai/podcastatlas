@@ -171,6 +171,10 @@
     "title": "47.鸟有什么好看的：原来…丹顶鹤是秃的！",
     "url": "/wiki/sources/47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924/"
   },
+  "48-kaishi-daji-diyiliu-de-youmo-fengci-627375908": {
+    "title": "48.开市大吉：第一流的幽默讽刺",
+    "url": "/wiki/sources/48-kaishi-daji-diyiliu-de-youmo-fengci-627375908/"
+  },
   "8848": {
     "title": "8848",
     "url": "/wiki/entities/8848/"
@@ -1575,6 +1579,10 @@
     "title": "半拿铁",
     "url": "/wiki/entities/banlatte/"
   },
+  "BaoSun": {
+    "title": "《抱孙》",
+    "url": "/wiki/entities/baosun/"
+  },
   "BaofengYingyin": {
     "title": "暴风影音 / Baofeng Yingyin",
     "url": "/wiki/entities/baofengyingyin/"
@@ -1735,6 +1743,10 @@
     "title": "Birdwatching As Attention",
     "url": "/wiki/concepts/birdwatchingasattention/"
   },
+  "BirthRitualMedicalConflict": {
+    "title": "Birth Ritual Medical Conflict",
+    "url": "/wiki/concepts/birthritualmedicalconflict/"
+  },
   "Bitcoin": {
     "title": "Bitcoin",
     "url": "/wiki/entities/bitcoin/"
@@ -1894,6 +1906,10 @@
   "BrushUpLife": {
     "title": "重启人生 / Brush Up Life",
     "url": "/wiki/entities/brushuplife/"
+  },
+  "BuChengWenTiDeWenTi": {
+    "title": "《不成问题的问题》",
+    "url": "/wiki/entities/buchengwentidewenti/"
   },
   "BubbleNecessaryConditions": {
     "title": "Bubble Necessary Conditions",
@@ -2390,6 +2406,10 @@
   "CityInTheCity": {
     "title": "城中之城",
     "url": "/wiki/entities/cityinthecity/"
+  },
+  "CivicAudienceEtiquette": {
+    "title": "Civic Audience Etiquette",
+    "url": "/wiki/concepts/civicaudienceetiquette/"
   },
   "CivilAviationAdministrationOfChina": {
     "title": "Civil Aviation Administration of China / 中国民航总局",
@@ -5279,6 +5299,10 @@
     "title": "胡戈 / Hu Ge",
     "url": "/wiki/entities/huge/"
   },
+  "HuajuGuanzhongXuzhiErshize": {
+    "title": "《话剧观众须知二十则》",
+    "url": "/wiki/entities/huajuguanzhongxuzhiershize/"
+  },
   "HuangBiwei": {
     "title": "Huang Biwei",
     "url": "/wiki/entities/huangbiwei/"
@@ -6043,6 +6067,10 @@
     "title": "K Computer",
     "url": "/wiki/entities/kcomputer/"
   },
+  "KaiShiDaJi": {
+    "title": "《开市大吉》",
+    "url": "/wiki/entities/kaishidaji/"
+  },
   "KaimingHe": {
     "title": "Kaiming He",
     "url": "/wiki/entities/kaiminghe/"
@@ -6298,6 +6326,14 @@
   "LaoMai": {
     "title": "老麦",
     "url": "/wiki/entities/laomai/"
+  },
+  "LaoShe": {
+    "title": "老舍 / Lao She",
+    "url": "/wiki/entities/laoshe/"
+  },
+  "LaoSheSatiricalHumanism": {
+    "title": "Lao She Satirical Humanism",
+    "url": "/wiki/concepts/laoshesatiricalhumanism/"
   },
   "LargeCompanyOpenSourceStrategy": {
     "title": "Large Company Open Source Strategy",
@@ -7070,6 +7106,10 @@
   "MedicalPlatformTrustCrisis": {
     "title": "Medical Platform Trust Crisis",
     "url": "/wiki/concepts/medicalplatformtrustcrisis/"
+  },
+  "MedicalScamPackaging": {
+    "title": "Medical Scam Packaging",
+    "url": "/wiki/concepts/medicalscampackaging/"
   },
   "MegaCapConcentrationRisk": {
     "title": "Mega-Cap Concentration Risk",
@@ -9042,6 +9082,10 @@
   "RenaissanceTechnologies": {
     "title": "Renaissance Technologies",
     "url": "/wiki/entities/renaissancetechnologies/"
+  },
+  "RenqingOrder": {
+    "title": "Renqing Order",
+    "url": "/wiki/concepts/renqingorder/"
   },
   "RepeatableCustomerLanguage": {
     "title": "Repeatable Customer Language",
@@ -11862,6 +11906,10 @@
   "YorubaTwinCosmology": {
     "title": "Yoruba Twin Cosmology",
     "url": "/wiki/concepts/yorubatwincosmology/"
+  },
+  "YouShengDianYing": {
+    "title": "《有声电影》",
+    "url": "/wiki/entities/youshengdianying/"
   },
   "YouTube": {
     "title": "YouTube",

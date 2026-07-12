@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [48.开市大吉：第一流的幽默讽刺](sources/48-kaishi-daji-diyiliu-de-youmo-fengci-627375908.md) — 蜜獾吃书 episode on Lao She, 《开市大吉》, humorous satire, theater etiquette, medical fraud, birth ritual conflict, and renqing workplace order.
 - [47.鸟有什么好看的：原来…丹顶鹤是秃的！](sources/47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924.md) — 蜜獾吃书 episode on 《鸟有什么好看的》, Kawakami Kazuto, birdwatching, ornithological fieldwork, island ecology, scientific sampling, invasive-species management, and evidence discipline.
 - [WWDC 26 补上了 AI，但离真正的 AI 助手还差什么？｜ S10E15](sources/wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d.md) — What's Next episode with Dong Hongguang of Guangfan Technology on Apple Intelligence, Siri, wearable AI assistants, always-on context, service entry, and permission boundaries.
 - [46.这世界唯一的你：请相信那朵慢慢绽放的花](sources/46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720.md) — 蜜獾吃书 episode on 《这世界唯一的你》 / Uniquely Human, autism as lived difference, behavior-as-communication, safe environments, family support, and cure-promise risk.
@@ -329,6 +330,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [老舍 / Lao She](entities/LaoShe.md) — Chinese writer presented by 蜜獾吃书 as a humane satirist of etiquette failure, medical scams, family power, workplace renqing, and self-deception.
+- [《开市大吉》](entities/KaiShiDaJi.md) — Lao She short-story selection and title story used to discuss public-interest rhetoric, fake hospital authority, status display, and medical scam packaging.
+- [《话剧观众须知二十则》](entities/HuajuGuanzhongXuzhiErshize.md) — Lao She piece used by the episode to connect theater manners with civic audience etiquette.
+- [《有声电影》](entities/YouShengDianYing.md) — Lao She story used as a comic case of experience being displaced by theory, logistics, and distracted audience behavior.
+- [《抱孙》](entities/BaoSun.md) — Lao She story grounding the episode's discussion of grandson obsession, postpartum ritual, family authority, and medical conflict.
+- [《不成问题的问题》](entities/BuChengWenTiDeWenTi.md) — Lao She story grounding the episode's discussion of Ding Woyuan, You Daxing, renqing order, and failed professional reform.
 - [川上和人 / Kawakami Kazuto](entities/KawakamiKazuto.md) — Japanese ornithologist and author presented through 《鸟有什么好看的》 as a humorous but rigorous guide to birds, island fieldwork, sampling, and scientific reasoning.
 - [《鸟有什么好看的》 / Birds Are Interesting](entities/BirdsAreInteresting.md) — Kawakami Kazuto book discussed by 蜜獾吃书 as an informal route into ornithology, field science, evidence discipline, and evolutionary explanation.
 - [小笠原群岛 / Ogasawara Islands](entities/OgasawaraIslands.md) — Tokyo-administered oceanic islands used by the episode as a natural laboratory for endemic birds, invasive species, volcanic disturbance, and protected-area fieldwork.
@@ -2020,6 +2027,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Lao She Satirical Humanism](concepts/LaoSheSatiricalHumanism.md) — Reading of Lao She's humor as comic social criticism that still preserves sympathy for limited, pressured, self-deceiving people.
+- [Civic Audience Etiquette](concepts/CivicAudienceEtiquette.md) — Shared-setting discipline around theater, film, concerts, and public cultural spaces where conduct must fit the tacit social contract.
+- [Medical Scam Packaging](concepts/MedicalScamPackaging.md) — Pattern where medical authority is staged through slogans, status signals, emotional service, and advertising rather than real care quality.
+- [Birth Ritual Medical Conflict](concepts/BirthRitualMedicalConflict.md) — Family and childbirth pattern where ritual, grandson preference, face, and medical mistrust can override patient welfare and clinical judgment.
+- [Renqing Order](concepts/RenqingOrder.md) — Informal organization order built from favors, comfort, reciprocal tolerance, and face maintenance, made visible by 《不成问题的问题》.
 - [Ornithological Fieldwork](concepts/OrnithologicalFieldwork.md) — Practical bird research through field observation, listening, access planning, biosecurity, sampling, discomfort, and evidence production.
 - [Island Ecological Succession](concepts/IslandEcologicalSuccession.md) — Process by which isolated islands are colonized, disturbed, and recolonized, made concrete by Nishinoshima volcanic eruptions and seabird return.
 - [Scientific Sampling Discipline](concepts/ScientificSamplingDiscipline.md) — Research practice of collecting enough provenance-aware evidence to avoid mistaking abnormal individuals or convenient traces for general patterns.
