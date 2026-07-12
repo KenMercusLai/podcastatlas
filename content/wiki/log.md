@@ -2575,3 +2575,11 @@ Added source page for the Marketplace Tech episode with Megan McCarty-Carino and
 ## [2026-07-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-12] ingest | 44.运气的诱饵：赌博成瘾，因为我们害怕自由
+
+Added source page for the 蜜獾吃书 episode on 《运气的诱饵》, machine gambling addiction, slot-machine and video-poker design, near-miss effects, intermittent reinforcement, casino space, data-driven retention, and the pressure of modern freedom/choice. Created pages for 北民, 《运气的诱饵》, Machine Gambling Addiction, Addictive Interaction Design, Machine Zone, Private Actuarialism, Near-Miss Design, and Intermittent Reinforcement; updated overview, index, 蜜獾吃书, 秦总, Lottery Gambling Platform Fraud, Designed Agency In Games, and Flow Environment Design. No direct contradiction found; the source separates transparent-but-addictive machine design from fraud and connects casino mechanics to broader digital-product reward loops.
+
+## [2026-07-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

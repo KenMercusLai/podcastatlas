@@ -159,6 +159,10 @@
     "title": "42章经",
     "url": "/wiki/entities/42zhangjing/"
   },
+  "44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308": {
+    "title": "44.运气的诱饵：赌博成瘾，因为我们害怕自由",
+    "url": "/wiki/sources/44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308/"
+  },
   "8848": {
     "title": "8848",
     "url": "/wiki/entities/8848/"
@@ -762,6 +766,10 @@
   "Adao": {
     "title": "Adao",
     "url": "/wiki/entities/adao/"
+  },
+  "AddictiveInteractionDesign": {
+    "title": "Addictive Interaction Design",
+    "url": "/wiki/concepts/addictiveinteractiondesign/"
   },
   "Adidas": {
     "title": "Adidas",
@@ -1594,6 +1602,10 @@
   "Beibei": {
     "title": "贝贝网 / Beibei",
     "url": "/wiki/entities/beibei/"
+  },
+  "Beimin": {
+    "title": "北民",
+    "url": "/wiki/entities/beimin/"
   },
   "BenParr": {
     "title": "Ben Parr",
@@ -5463,6 +5475,10 @@
     "title": "Interleaved Thinking",
     "url": "/wiki/concepts/interleavedthinking/"
   },
+  "IntermittentReinforcement": {
+    "title": "Intermittent Reinforcement",
+    "url": "/wiki/concepts/intermittentreinforcement/"
+  },
   "InternalToolProductization": {
     "title": "Internal Tool Productization",
     "url": "/wiki/concepts/internaltoolproductization/"
@@ -6691,6 +6707,14 @@
     "title": "Mac Mini",
     "url": "/wiki/entities/macmini/"
   },
+  "MachineGamblingAddiction": {
+    "title": "Machine Gambling Addiction",
+    "url": "/wiki/concepts/machinegamblingaddiction/"
+  },
+  "MachineZone": {
+    "title": "Machine Zone",
+    "url": "/wiki/concepts/machinezone/"
+  },
   "MacroAssetExpression": {
     "title": "Macro Asset Expression",
     "url": "/wiki/concepts/macroassetexpression/"
@@ -7458,6 +7482,10 @@
   "NatureWriting": {
     "title": "Nature Writing",
     "url": "/wiki/concepts/naturewriting/"
+  },
+  "NearMissDesign": {
+    "title": "Near-Miss Design",
+    "url": "/wiki/concepts/nearmissdesign/"
   },
   "NeihanDuanzi": {
     "title": "Neihan Duanzi",
@@ -8458,6 +8486,10 @@
   "PrincipleTech": {
     "title": "原则科技",
     "url": "/wiki/entities/principletech/"
+  },
+  "PrivateActuarialism": {
+    "title": "Private Actuarialism",
+    "url": "/wiki/concepts/privateactuarialism/"
   },
   "PrivateAirlineFailureModes": {
     "title": "Private Airline Failure Modes",
@@ -10446,6 +10478,10 @@
   "TheIntelligence": {
     "title": "The Intelligence",
     "url": "/wiki/entities/theintelligence/"
+  },
+  "TheLureOfLuck": {
+    "title": "《运气的诱饵》",
+    "url": "/wiki/entities/thelureofluck/"
   },
   "TheMomTest": {
     "title": "The Mom Test",
