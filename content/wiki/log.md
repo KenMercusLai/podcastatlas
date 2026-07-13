@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-14] ingest | 159.要精明，要善良，要解决问题
+
+Added source page for the 蜜獾吃书 episode on 《事已至此，走保险》, 阿健's insurance claims work, claims information asymmetry, professional claims assistance, discretionary payment, complaint pressure, insurance claims scalping, catastrophe claims, and child third-party liability. Created pages for 《事已至此，走保险》, 阿健, 小雨伞, Insurance Claims Handling, Insurance Claims Information Asymmetry, Insurance Claims Assistance Platforms, Discretionary Insurance Payment, Insurance Complaint Pressure, Insurance Claims Scalping, Catastrophe Insurance Claims, and Child Third-Party Liability Insurance; updated overview, index, 蜜獾吃书, Insurance Risk Transfer, Health Insurance Planning, and Insurance Sales Trust. No direct contradiction found; the source extends prior insurance-planning pages from choosing policies into proving, negotiating, and settling claims after a loss.
+
 ## [2026-07-14] ingest | 158.全员名侦探：推理薯片来一包！
 
 Added source page for the 蜜獾吃书 episode on 《全员嫌疑人》 and 《全员名侦探》 as light puzzle-forward detective fiction. Created pages for 《全员嫌疑人》, 《全员名侦探》, 推理薯片, 华生力, and 暴风雪山庄; updated overview, index, 蜜獾吃书, and Non-Instrumental Literary Reading. No direct contradiction found; the source complements existing literature pages by adding a puzzle-entertainment branch where bounded suspects, wrong theories, reversals, and final answers are the main reading pleasure.
@@ -2735,6 +2739,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-14] ingest | 157.吹牛大王历险记：叔本华、扒马褂和超级英雄
 
 Added source page for the 蜜獾吃书 episode on 《吹牛大王历险记》, 敏锡豪森男爵, Rudolf Erich Raspe, 《扒马褂》, tall-tale tradition, absurd rationality, Munchausen self-bootstrapping, adult satire in children's classics, and superhero continuity. Created pages for 《吹牛大王历险记》, 敏锡豪森男爵, Rudolf Erich Raspe, 《扒马褂》, Arthur Schopenhauer, Friedrich Nietzsche, Ludwig Wittgenstein, Karl Popper, Tall-Tale Tradition, Absurd Rationality, Munchausen Self-Bootstrapping, Adult Satire In Children's Classics, and Superhero Tall-Tale Continuity; updated overview, index, 蜜獾吃书, Classic Reading Complexity, and Non-Instrumental Literary Reading. No direct contradiction found; the source extends the wiki's literature branch by showing how a familiar childhood text can operate as folklore, political satire, philosophical metaphor, and a modern heroic-fantasy ancestor.
+
+## [2026-07-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-14] lint | Wiki health check
 

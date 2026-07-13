@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [159.要精明，要善良，要解决问题](sources/159-yao-jingming-yao-shanliang-yao-jiejue-wenti-931818201.md) — 蜜獾吃书 episode on 《事已至此，走保险》, 阿健's insurance claims stories, claims information asymmetry, discretionary payment, complaint pressure, claims scalping, catastrophe claims, and child third-party liability.
 - [158.全员名侦探：推理薯片来一包！](sources/158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122.md) — 蜜獾吃书 episode on 《全员嫌疑人》, 《全员名侦探》, 推理薯片, 华生力, closed-circle mystery cases, wrong-theory comedy, and puzzle-first detective-fiction pleasure.
 - [【脱口秀的小佳】蜉蝣直上：可能会飞，迎着天光](sources/tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655.md) — 蜜獾吃书 episode with stand-up comedian 小佳 on 《蜉蝣直上》, mayfly life imagery, Minnan family writing, father-son resentment, women in ordinary life, stage versus prose, review pressure, sales anxiety, and stepping back toward theater.
 - [157.吹牛大王历险记：叔本华、扒马褂和超级英雄](sources/157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703.md) — 蜜獾吃书 episode on 《吹牛大王历险记》 as tall-tale tradition, absurd rationality, political satire, Munchausen self-bootstrapping, and a bridge to superhero fantasy.
@@ -345,6 +346,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《事已至此，走保险》](entities/ShiYiZhiCiZouBaoxian.md) — Insurance nonfiction book discussed by 蜜獾吃书 through claims stories, evidence, discretion, complaint pressure, and risk-transfer execution.
+- [阿健](entities/AJianInsuranceWriter.md) — Former insurance claims worker and author whose cases ground episode 159's claims-handling, discretionary-payment, and anti-scalping themes.
+- [小雨伞](entities/XiaoyusanInsurance.md) — Insurance service platform used by episode 159 to discuss consultation and claims assistance under platform-trust constraints.
 - [《全员嫌疑人》](entities/QuanYuanXianYiRen.md) — Mystery collection discussed by 蜜獾吃书 as puzzle-first, closed-circle fiction built around seven stories, a wrapper mystery, and 小何's 华生力.
 - [《全员名侦探》](entities/QuanYuanMingZhenTan.md) — Sequel or companion mystery book discussed as extending the same ensemble-detective, 华生力-driven puzzle mode.
 - [小佳](entities/Xiaojia.md) — Stand-up comedian and author whose 蜜獾吃书 episode links 《蜉蝣直上》, Minnan family memory, stage self-narration, and creator evaluation pressure.
@@ -424,7 +428,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Flow](entities/Flow.md) — iPhone dictation app Mims uses as a voice-first AI interface for everyday messaging.
 - [Google Personal Intelligence](entities/GooglePersonalIntelligence.md) — Gemini-linked account capability used by the source to show AI acting inside Google services such as Calendar.
 - [Google Calendar](entities/GoogleCalendar.md) — Scheduling product used as the source's example of a disliked task that account-integrated AI can reduce.
-- [蜜獾吃书](entities/MihuanChishu.md) — Podcast/show context for book and life-design discussions on life restarts, machine gambling, autism support, bird science, satire, puzzle mystery, and reading itself.
+- [蜜獾吃书](entities/MihuanChishu.md) — Podcast/show context for book and life-design discussions on life restarts, machine gambling, autism support, bird science, satire, puzzle mystery, insurance claims, and reading itself.
 - [李乌鸦](entities/LiWuya.md) — Book creator and guest in the 蜜獾吃书 first-anniversary episode on reading habits, classics, shame, solitude, and non-instrumental literary value.
 - [日谈](entities/Ritan.md) — Crossover context for the episode bringing Hookie, 殷姐, and 秦总 together for a Women's Day life-design conversation.
 - [Hookie](entities/Hookie.md) — Host in the restart-life episode, linking life-science career redirection, pet grief, school confidence, and learning capacity.
@@ -2100,6 +2104,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Insurance Claims Handling](concepts/InsuranceClaimsHandling.md) — Claims-stage process that turns insured events into covered, denied, discretionary, or negotiated payments through facts, evidence, policy terms, and settlement judgment.
+- [Insurance Claims Information Asymmetry](concepts/InsuranceClaimsInformationAsymmetry.md) — Gap between claimants, insurers, adjusters, platforms, and intermediaries around policy triggers, evidence, incentives, and claim strategy.
+- [Insurance Claims Assistance Platforms](concepts/InsuranceClaimsAssistancePlatforms.md) — Third-party services that help policyholders interpret terms, assemble claim evidence, and communicate with insurers after a loss.
+- [Discretionary Insurance Payment](concepts/DiscretionaryInsurancePayment.md) — Special approval or flexible settlement in insurance claims when evidence and necessity justify payment beyond a strict literal reading.
+- [Insurance Complaint Pressure](concepts/InsuranceComplaintPressure.md) — Settlement leverage created by consumer complaints, regulator pressure, media, or court action in insurance disputes.
+- [Insurance Claims Scalping](concepts/InsuranceClaimsScalping.md) — 保险黄牛 pattern where outside actors exploit claims disputes, complaint pressure, and claimant information gaps for inflated or fraudulent payouts.
+- [Catastrophe Insurance Claims](concepts/CatastropheInsuranceClaims.md) — Disaster-claims process where floods, earthquakes, and typhoons require fast evidence handling, green channels, and business-recovery logic.
+- [Child Third-Party Liability Insurance](concepts/ChildThirdPartyLiabilityInsurance.md) — "熊孩子险" understood as minor-focused third-party accidental-liability coverage, not protection for intentional harm.
 - [推理薯片 / Puzzle-Snack Mystery](concepts/PuzzleSnackMystery.md) — Light detective-fiction frame where clues, wrong theories, reversals, and answers provide compact puzzle pleasure without requiring realist or prestigious literary ambition.
 - [华生力 / Watson Power](concepts/WatsonPower.md) — Narrative device where 小何's presence makes nearby people temporarily reason like detectives, turning closed cases into ensemble deduction games.
 - [暴风雪山庄 / Closed-Circle Mystery](concepts/ClosedCircleMystery.md) — Mystery structure where isolation limits the suspect pool and makes clues, alibis, and competing theories playable.
