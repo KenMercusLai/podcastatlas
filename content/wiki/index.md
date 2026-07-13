@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [157.吹牛大王历险记：叔本华、扒马褂和超级英雄](sources/157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703.md) — 蜜獾吃书 episode on 《吹牛大王历险记》 as tall-tale tradition, absurd rationality, political satire, Munchausen self-bootstrapping, and a bridge to superhero fantasy.
 - [156.一个阿富汗女人的来信: 纸上的光，和出版背后的故事](sources/156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198.md) — 蜜獾吃书 episode with 有光 editor 安琪 on 哈迪亚·海达里's 《一个阿富汗女人的来信》, Afghan women's first-person writing, protection as control, war's gendered civilian harm, Persian-Chinese translation, royalties, cover ethics, and editing as cultural project management.
 - [154.我的名字叫红：用一千零一夜的心跳完成这场谋杀(下）](sources/154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400.md) — 蜜獾吃书 episode on Orhan Pamuk's 《我的名字叫红》, Ottoman miniature painting, Frankish portrait pressure, style/signature, blindness, multi-perspective narration, and the murder clue of the cracked-nostril horse.
 - [The Social Radars Season Five Update](sources/tsr-s5-catchup2-v1-tsr-s5-catchup2-v1.md) — Short Social Radars update where Jessica Livingston and Carolyn Levy preview Season Five, announce Substack and full-episode YouTube distribution, highlight Tyler Schultz and Ron Conway archive entry points, and explain the Founder Mode side series.
@@ -342,6 +343,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《吹牛大王历险记》 / Adventures of Baron Munchausen](entities/AdventuresOfBaronMunchausen.md) — Tall-tale text reread by 蜜獾吃书 through absurd rationality, adult satire, philosophical self-bootstrapping, and superhero continuity.
+- [敏锡豪森男爵 / Baron Munchausen](entities/MunchausenBaron.md) — Historical and fictional figure whose impossible adventures become the episode's anchor for tall tales, self-rescue, and heroic exaggeration.
+- [Rudolf Erich Raspe](entities/RudolfErichRaspe.md) — Early writer of the Munchausen stories, presented as a scholar and fraudster whose life complicates the boundary between knowledge and trickery.
+- [《扒马褂》](entities/BaMaGua.md) — Chinese crosstalk comparison for structured comic boasting and tall-tale explanation.
+- [Arthur Schopenhauer / 叔本华](entities/ArthurSchopenhauer.md) — Philosopher linked by the episode to the Munchausen self-rescue motif and the limits of reason.
+- [Friedrich Nietzsche / 尼采](entities/FriedrichNietzsche.md) — Philosopher the episode places in the Munchausen self-bootstrapping cluster around self-grounding.
+- [Ludwig Wittgenstein / 维特根斯坦](entities/LudwigWittgenstein.md) — Philosopher linked by the episode to language's difficulty explaining the world from within the world.
+- [Karl Popper / 卡尔·波普尔](entities/KarlPopper.md) — Philosopher linked by the episode to justification problems summarized as circle, regress, or arbitrary stop.
 - [哈迪亚·海达里](entities/HadiyaHaidari.md) — Afghan woman author whose Persian stories in 《一个阿富汗女人的来信》 ground the episode's first-person writing, constrained agency, and publication-as-support themes.
 - [《一个阿富汗女人的来信》](entities/YiGeAfuhanNvrenDeLaixin.md) — Book of stories by 哈迪亚·海达里 discussed as rare Afghan women's first-person literary testimony and as a publishing project with material stakes.
 - [安琪](entities/AnQi.md) — 有光 editor-in-chief whose acquisition, royalty, translation, cover, review, production, and marketing work makes the publishing process visible.
@@ -2085,6 +2094,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Tall-Tale Tradition](concepts/TallTaleTradition.md) — Cross-cultural story pattern where impossible exploits are told with comic confidence and enough internal logic to become satisfying.
+- [Absurd Rationality](concepts/AbsurdRationality.md) — Narrative logic where impossible events still unfold through procedural, locally rational explanation.
+- [Munchausen Self-Bootstrapping](concepts/MunchausenSelfBootstrapping.md) — Motif of impossible self-rescue used as a metaphor for booting, circular justification, and self-grounding.
+- [Adult Satire In Children's Classics](concepts/AdultSatiricalChildrensClassics.md) — Rereading frame where works remembered as children's literature retain adult political and philosophical satire.
+- [Superhero Tall-Tale Continuity](concepts/SuperheroTallTaleContinuity.md) — Claim that superhero fantasy continues tall-tale exaggerations of human agency, power, escape, and desire.
 - [Afghan Women First-Person Writing](concepts/AfghanWomenFirstPersonWriting.md) — Literary and documentary frame for Afghan women writing from inside their own language, family, war, shame, and daily danger rather than through outside observation.
 - [War Gendered Civilian Harm](concepts/WarGenderedCivilianHarm.md) — How war's consequences reach households through widowhood, child care, poverty, reputation, mobility, and gendered dependency.
 - [Protection As Control](concepts/ProtectionAsControl.md) — Pattern where safety language justifies restrictions on movement, speech, clothing, sight, study, and public presence.

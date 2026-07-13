@@ -107,6 +107,10 @@
     "title": "156.一个阿富汗女人的来信: 纸上的光，和出版背后的故事",
     "url": "/wiki/sources/156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198/"
   },
+  "157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703": {
+    "title": "157.吹牛大王历险记：叔本华、扒马褂和超级英雄",
+    "url": "/wiki/sources/157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703/"
+  },
   "166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1": {
     "title": "166: 许华哲再次具身创业：不想错过最大的西瓜",
     "url": "/wiki/sources/166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1/"
@@ -759,6 +763,10 @@
     "title": "Abelardo de la Espriella",
     "url": "/wiki/entities/abelardodelaespriella/"
   },
+  "AbsurdRationality": {
+    "title": "Absurd Rationality",
+    "url": "/wiki/concepts/absurdrationality/"
+  },
   "AcademicFreedom": {
     "title": "Academic Freedom",
     "url": "/wiki/concepts/academicfreedom/"
@@ -855,6 +863,10 @@
     "title": "Adrienne Weiss",
     "url": "/wiki/entities/adrienneweiss/"
   },
+  "AdultSatiricalChildrensClassics": {
+    "title": "Adult Satire In Children's Classics",
+    "url": "/wiki/concepts/adultsatiricalchildrensclassics/"
+  },
   "AdvanceFeeFraud": {
     "title": "Advance-Fee Fraud",
     "url": "/wiki/concepts/advancefeefraud/"
@@ -862,6 +874,10 @@
   "AdvancedLocalExpressDesk": {
     "title": "Advanced Local Express Desk",
     "url": "/wiki/entities/advancedlocalexpressdesk/"
+  },
+  "AdventuresOfBaronMunchausen": {
+    "title": "《吹牛大王历险记》 / Adventures of Baron Munchausen",
+    "url": "/wiki/entities/adventuresofbaronmunchausen/"
   },
   "AeroFS": {
     "title": "AeroFS",
@@ -1335,6 +1351,10 @@
     "title": "Artemis Accords",
     "url": "/wiki/entities/artemisaccords/"
   },
+  "ArthurSchopenhauer": {
+    "title": "Arthur Schopenhauer / 叔本华",
+    "url": "/wiki/entities/arthurschopenhauer/"
+  },
   "AsItIsPractice": {
     "title": "As It Is Practice / 如其所是",
     "url": "/wiki/concepts/asitispractice/"
@@ -1534,6 +1554,10 @@
   "BYD": {
     "title": "BYD",
     "url": "/wiki/entities/byd/"
+  },
+  "BaMaGua": {
+    "title": "《扒马褂》",
+    "url": "/wiki/entities/bamagua/"
   },
   "BabyTree": {
     "title": "宝宝树 / BabyTree",
@@ -4627,6 +4651,10 @@
     "title": "Fresh-Made Ice Cream Retail",
     "url": "/wiki/concepts/freshmadeicecreamretail/"
   },
+  "FriedrichNietzsche": {
+    "title": "Friedrich Nietzsche / 尼采",
+    "url": "/wiki/entities/friedrichnietzsche/"
+  },
   "FriendFeed": {
     "title": "FriendFeed",
     "url": "/wiki/entities/friendfeed/"
@@ -6295,6 +6323,10 @@
     "title": "康宏文 Henry",
     "url": "/wiki/entities/kanghongwen/"
   },
+  "KarlPopper": {
+    "title": "Karl Popper / 卡尔·波普尔",
+    "url": "/wiki/entities/karlpopper/"
+  },
   "Kaseya": {
     "title": "Kaseya",
     "url": "/wiki/entities/kaseya/"
@@ -6974,6 +7006,10 @@
   "LuckinCoffee": {
     "title": "Luckin Coffee / 瑞幸咖啡",
     "url": "/wiki/entities/luckincoffee/"
+  },
+  "LudwigWittgenstein": {
+    "title": "Ludwig Wittgenstein / 维特根斯坦",
+    "url": "/wiki/entities/ludwigwittgenstein/"
   },
   "Lululemon": {
     "title": "Lululemon",
@@ -7766,6 +7802,14 @@
   "MultispeciesArchives": {
     "title": "Multispecies Archives",
     "url": "/wiki/concepts/multispeciesarchives/"
+  },
+  "MunchausenBaron": {
+    "title": "敏锡豪森男爵 / Baron Munchausen",
+    "url": "/wiki/entities/munchausenbaron/"
+  },
+  "MunchausenSelfBootstrapping": {
+    "title": "Munchausen Self-Bootstrapping",
+    "url": "/wiki/concepts/munchausenselfbootstrapping/"
   },
   "MundaneAIUseCases": {
     "title": "Mundane AI Use Cases",
@@ -9643,6 +9687,10 @@
     "title": "Rudi's Organic Bakery",
     "url": "/wiki/entities/rudisorganicbakery/"
   },
+  "RudolfErichRaspe": {
+    "title": "Rudolf Erich Raspe",
+    "url": "/wiki/entities/rudolferichraspe/"
+  },
   "RuminationVsReflection": {
     "title": "Rumination Vs Reflection",
     "url": "/wiki/concepts/ruminationvsreflection/"
@@ -10735,6 +10783,10 @@
     "title": "Supercritical Foam Midsole",
     "url": "/wiki/concepts/supercriticalfoammidsole/"
   },
+  "SuperheroTallTaleContinuity": {
+    "title": "Superhero Tall-Tale Continuity",
+    "url": "/wiki/concepts/superherotalltalecontinuity/"
+  },
   "Superpowers": {
     "title": "Superpowers",
     "url": "/wiki/entities/superpowers/"
@@ -10830,6 +10882,10 @@
   "TakaichiSanae": {
     "title": "Takaichi Sanae",
     "url": "/wiki/entities/takaichisanae/"
+  },
+  "TallTaleTradition": {
+    "title": "Tall-Tale Tradition",
+    "url": "/wiki/concepts/talltaletradition/"
   },
   "TangHaocheng": {
     "title": "Tang Haocheng",
