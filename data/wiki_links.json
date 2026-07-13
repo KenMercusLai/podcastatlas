@@ -111,6 +111,10 @@
     "title": "157.吹牛大王历险记：叔本华、扒马褂和超级英雄",
     "url": "/wiki/sources/157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703/"
   },
+  "158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122": {
+    "title": "158.全员名侦探：推理薯片来一包！",
+    "url": "/wiki/sources/158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122/"
+  },
   "166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1": {
     "title": "166: 许华哲再次具身创业：不想错过最大的西瓜",
     "url": "/wiki/sources/166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1/"
@@ -2590,6 +2594,10 @@
   "CliptoAI": {
     "title": "Clipto AI",
     "url": "/wiki/entities/cliptoai/"
+  },
+  "ClosedCircleMystery": {
+    "title": "暴风雪山庄 / Closed-Circle Mystery",
+    "url": "/wiki/concepts/closedcirclemystery/"
   },
   "CloudStoragePhysicality": {
     "title": "Cloud Storage Physicality",
@@ -9131,6 +9139,10 @@
     "title": "Putnam Competition",
     "url": "/wiki/entities/putnamcompetition/"
   },
+  "PuzzleSnackMystery": {
+    "title": "推理薯片 / Puzzle-Snack Mystery",
+    "url": "/wiki/concepts/puzzlesnackmystery/"
+  },
   "Pyramiding": {
     "title": "Pyramiding",
     "url": "/wiki/concepts/pyramiding/"
@@ -9186,6 +9198,14 @@
   "QuToutiao": {
     "title": "QuToutiao",
     "url": "/wiki/entities/qutoutiao/"
+  },
+  "QuanYuanMingZhenTan": {
+    "title": "《全员名侦探》",
+    "url": "/wiki/entities/quanyuanmingzhentan/"
+  },
+  "QuanYuanXianYiRen": {
+    "title": "《全员嫌疑人》",
+    "url": "/wiki/entities/quanyuanxianyiren/"
   },
   "QuantitativeInvesting": {
     "title": "Quantitative Investing",
@@ -11874,6 +11894,10 @@
   "WaterFireEducation": {
     "title": "Water And Fire Education",
     "url": "/wiki/concepts/waterfireeducation/"
+  },
+  "WatsonPower": {
+    "title": "华生力 / Watson Power",
+    "url": "/wiki/concepts/watsonpower/"
   },
   "WayfinderVentures": {
     "title": "Wayfinder Ventures",
