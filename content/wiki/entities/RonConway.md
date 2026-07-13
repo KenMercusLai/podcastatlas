@@ -2,7 +2,7 @@
 title: "Ron Conway"
 type: entity
 tags: [person, startups, venture-capital, silicon-valley]
-sources: [tsr-ronconway-part4-v2-tsr-ronconway-part4-v2, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
+sources: [tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tsr-ronconway-part4-v2-tsr-ronconway-part4-v2, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
 last_updated: 2026-07-12
 ---
 
@@ -24,6 +24,8 @@ At Altos, Conway joined an extremely early-stage company, received 2% equity, he
 
 [[tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]] adds Conway as the person who encouraged [[BrianChesky]] to attend the YC Founder Mode Retreat, where Chesky's unscheduled talk became the trigger for the wider [[FounderMode]] discussion.
 
+[[tsr-s5-catchup2-v1-tsr-s5-catchup2-v1]] adds show-level framing for the Conway series. [[JessicaLivingston]] and [[CarolynLevy]] describe it as an ongoing, chapter-by-chapter oral history that Conway is doing instead of writing an autobiography, and they use it as one of the [[TheSocialRadars]] archive entry points for Season Five listeners.
+
 ## Connections
 - [[NationalSemiconductor]], [[CharlieSporck]], and [[RelationshipLedSales]] - first Silicon Valley operating apprenticeship.
 - [[AltosComputer]], [[DaveJackson]], [[SequoiaCapital]], [[DonValentine]], and [[SelfDisruptionDiscipline]] - microcomputer company-building and missed platform shift.
@@ -36,3 +38,4 @@ At Altos, Conway joined an extremely early-stage company, received 2% equity, he
 - [[TheSocialRadars]], [[JessicaLivingston]], and [[CarolynLevy]] - interview context.
 - [[SamAltman]], [[SiliconValleyBank]], and [[StartupGovernance]] - crisis-response reference added by the Sam Altman episode.
 - [[BrianChesky]], [[PaulGraham]], and [[FounderMode]] - YC offsite context added by the Paul Graham source.
+- [[tsr-s5-catchup2-v1-tsr-s5-catchup2-v1]], [[TheSocialRadars]], and [[PodcastAsAsynchronousMedia]] - continuing-series and archive-entry framing from the Season Five update.

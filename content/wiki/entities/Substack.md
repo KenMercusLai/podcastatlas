@@ -2,7 +2,7 @@
 title: "Substack"
 type: entity
 tags: [company, media, creator-platform]
-sources: [tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov]
+sources: [tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov]
 last_updated: 2026-07-12
 ---
 
@@ -16,6 +16,8 @@ Substack's later strategic problem was discovery. Writers could host and charge 
 
 The episode makes Substack a [[FounderMode]] and [[StrategicMustWorkProductBet]] case. Best says Notes looked weak for roughly two years, but the company kept working because it believed owned discovery was essential to its larger mission: creating a new economic engine for culture through [[CreatorOwnedAudience]].
 
+[[tsr-s5-catchup2-v1-tsr-s5-catchup2-v1]] adds Substack as a distribution surface for [[TheSocialRadars]] Season Five. The source does not detail the Substack setup, but it extends Substack beyond the Chris Best founder-mode case into podcast audience relationship, archive discovery, and show updates.
+
 ## Connections
 - [[ChrisBest]] and [[HamishMcKenzie]] - founder and co-founder context from the source.
 - [[BillBishop]] and [[Sinocism]] - first customer and publication case.
@@ -23,3 +25,4 @@ The episode makes Substack a [[FounderMode]] and [[StrategicMustWorkProductBet]]
 - [[CreatorOwnedAudience]] and [[PlatformDependencyRisk]] - creator-economy and distribution-risk concepts.
 - [[Twitter]] and [[ElonMusk]] - external platform and conflict case in Best's account.
 - [[YCombinator]] and [[TheSocialRadars]] - source and startup-history context.
+- [[PodcastAsAsynchronousMedia]] - media archive and audience-relationship context from the Season Five update.

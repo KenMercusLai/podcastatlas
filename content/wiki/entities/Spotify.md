@@ -2,7 +2,7 @@
 title: "Spotify"
 type: entity
 tags: [company, music, streaming, consumer-platform]
-sources: [tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]
+sources: [tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]
 last_updated: 2026-07-12
 ---
 
@@ -14,6 +14,8 @@ The episode uses Spotify as a consumer-platform case where growth comes partly f
 
 [[tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly]] adds Spotify as one of [[Hightouch]]'s named large B2C customer examples. In that source, Spotify helps illustrate why [[EnterpriseDataActivation]] matters for brands with large customer datasets and marketing workflows.
 
+[[tsr-s5-catchup2-v1-tsr-s5-catchup2-v1]] adds Spotify as a podcast review surface for [[TheSocialRadars]]. The Season Five update asks listeners to rate and review the show there, making Spotify part of the show's audience-feedback loop rather than a new music-streaming product case.
+
 ## Connections
 - [[MarketplaceTech]], [[StephanieHughes]], and [[JewelBurkeSolomon]] - episode context.
 - [[SpotifyWrapped]] - year-end listening recap feature credited with driving engagement.
@@ -21,3 +23,4 @@ The episode uses Spotify as a consumer-platform case where growth comes partly f
 - [[AIPromptedPlaylistCuration]] - AI-assisted curation route discussed as a future product direction.
 - [[FeedCuration]] - adjacent user-side practice of shaping media and information inputs.
 - [[Hightouch]] and [[EnterpriseDataActivation]] - enterprise marketing-data context added by the Kashish Gupta episode.
+- [[TheSocialRadars]] and [[PodcastAsAsynchronousMedia]] - podcast review and archive context added by the Season Five update.

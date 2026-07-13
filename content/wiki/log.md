@@ -2703,3 +2703,7 @@ Ran health and lint checks. Health passed with no empty/stub files, index drift,
 ## [2026-07-12] graph | Knowledge graph rebuilt
 
 3408 nodes, 34723 edges (34723 extracted, 0 inferred).
+
+## [2026-07-12] ingest | The Social Radars Season Five Update
+
+Added source page for the short The Social Radars Season Five update on the show's refreshed presentation, Substack launch, full-episode YouTube distribution, archive highlights around Tyler Schultz and Ron Conway, and the Founder Mode side series. Created Tyler Schultz; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Ron Conway, Substack, YouTube, Spotify, Apple, Founder Mode, Podcast As Asynchronous Media, and Video Podcast Affordance. No direct contradiction found; the source extends the Season 2 YouTube-clips plan into full-episode video distribution and treats the December 23, 2025 "next couple of weeks" launch timing as source-relative rather than a current promise.

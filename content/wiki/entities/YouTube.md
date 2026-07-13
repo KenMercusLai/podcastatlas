@@ -2,7 +2,7 @@
 title: "YouTube"
 type: entity
 tags: [company, video, platform, distribution]
-sources: [tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s2-wrapup-v1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
+sources: [tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s2-wrapup-v1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
 last_updated: 2026-07-12
 ---
 
@@ -16,6 +16,8 @@ YouTube appears in [[266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgz
 
 [[tsr-s2-wrapup-v1]] adds YouTube as a clip-distribution surface for [[TheSocialRadars]]. [[JessicaLivingston]] and [[CarolynLevy]] say they plan to get more video clips out for Season 3, making YouTube a supplement to the podcast archive rather than the primary source format.
 
+[[tsr-s5-catchup2-v1-tsr-s5-catchup2-v1]] updates that posture for Season Five: the hosts say full podcast episodes will be released on YouTube, not only clips. The source makes YouTube part of the show's main distribution expansion while still preserving the audio-podcast and archive context.
+
 The episode's forward-looking claim is that pure overseas distribution may become less defensible as AI subtitles, translation, and dubbing improve. Distributors may need to provide deeper value through [[AIVideoProductionWorkflow]], IP sourcing, creator services, platform communication, and packaging rather than only uploading and localizing files.
 
 [[tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2]] adds YouTube through [[RonConway]]'s [[Google]] relationship and media/internet convergence thesis. Conway says YouTube faced lawsuits and that selling to Google helped it avoid [[Napster]]'s fate, making the acquisition a case in [[LegalRiskAcquirerFit]]. The source also remembers [[SusanWojcicki]] as a key builder and later leader of YouTube.
@@ -24,6 +26,7 @@ The episode's forward-looking claim is that pure overseas distribution may becom
 - [[Meta]], [[SocialMediaProductLiability]], [[TikTok]], and [[Snapchat]] - platform-liability and youth mental-health litigation branch added by Marketplace Tech.
 - [[WangXiaoshu]] — guest describing the distribution experience.
 - [[TheSocialRadars]], [[JessicaLivingston]], and [[CarolynLevy]] — podcast and hosts planning more video clips.
+- [[VideoPodcastAffordance]] — full-episode video context added by the Season Five update.
 - [[MoffettNathanson]], [[YouTubeMediaDominance]], [[Alphabet]], and [[AIAdvertisingTargeting]] — Marketplace Tech report frame around revenue, ecosystem leverage, and targeting.
 - [[AIShortDrama]] — content category being distributed.
 - [[AIVideoProductionWorkflow]] — workflow and localization services that may replace pure distribution value.

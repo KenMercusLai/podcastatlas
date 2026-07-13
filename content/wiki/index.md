@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Social Radars Season Five Update](sources/tsr-s5-catchup2-v1-tsr-s5-catchup2-v1.md) — Short Social Radars update where Jessica Livingston and Carolyn Levy preview Season Five, announce Substack and full-episode YouTube distribution, highlight Tyler Schultz and Ron Conway archive entry points, and explain the Founder Mode side series.
 - [Founder Mode: Sajith Wickramasekara, Founder & CEO, Benchling](sources/tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio.md) — The Social Radars YC offsite episode with Sajith Wickramasekara on Benchling, life-sciences workflow software, YC Summer 2012, founder mode as ownership, customer proximity, executive fit, and senior-leader customer contact.
 - [Founder Mode: Emmett Shear, Founder, Softmax & Twitch](sources/tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly.md) — The Social Radars YC offsite episode with Emmett Shear on Softmax, AI collective alignment, learning environments, Twitch founder-mode context transfer, Conway's Law, delegation boundaries, and people systems.
 - [Founder Mode: Christina Cacioppo, Founder & CEO, Vanta](sources/tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly.md) — The Social Radars YC offsite episode with Christina Cacioppo on Vanta, founder mode as permission, delayed Series A fundraising, selective delegation, founder intuition, early engineer-management regret, and expanding beyond SOC 2.
@@ -339,6 +340,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Tyler Schultz](entities/TylerSchultz.md) — Social Radars archive-highlight guest mentioned in the Season Five update as a listener-favorite double episode.
 - [Sajith Wickramasekara](entities/SajithWickramasekara.md) — Benchling co-founder and CEO whose YC offsite episode defines founder mode as ownership, customer proximity, standards, and faster executive-fit judgment.
 - [Benchling](entities/Benchling.md) — Life-sciences workflow software company serving scientists across universities, biotech, and pharma, used as a founder-mode case about customer contact and executive fit.
 - [MIT](entities/MIT.md) — University context where Sajith Wickramasekara's computer-science and biology-lab exposure led to the Benchling workflow insight.
