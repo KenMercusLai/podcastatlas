@@ -2,7 +2,7 @@
 title: "Non-Instrumental Literary Reading"
 type: concept
 tags: [reading, literature, fiction, attention]
-sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703]
+sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655]
 last_updated: 2026-07-14
 ---
 
@@ -15,6 +15,8 @@ This concept specializes [[NonInstrumentalUnderstanding]] for literature. It als
 [[156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198]] adds a witness-and-support version. Reading [[YiGeAfuhanNvrenDeLaixin|《一个阿富汗女人的来信》]] is not only extracting information about [[Afghanistan]]; it is encountering [[AfghanWomenFirstPersonWriting]] and, through buying, reviewing, and discussing the book, participating in [[LiteraryPublishingAsMaterialSupport]] for a living author.
 
 [[157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703]] adds a rereading version. [[AdventuresOfBaronMunchausen|《吹牛大王历险记》]] may be remembered as childhood absurdity, but the episode shows how returning to it as an adult reveals [[TallTaleTradition]], [[AbsurdRationality]], political satire, philosophical metaphor, and [[SuperheroTallTaleContinuity]].
+
+[[tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655]] adds a contemporary nonfiction version. [[FuyouZhishang|《蜉蝣直上》]] is valuable in the episode not as celebrity trivia about [[Xiaojia|小佳]], but as an encounter with family ambiguity, Minnan custom, ordinary women, grief, and the pressure of being seen.
 
 ## Key Claims
 - Fiction can be valuable because it lets a reader experience lives, worlds, and moral situations they could not otherwise enter.
@@ -31,3 +33,4 @@ This concept specializes [[NonInstrumentalUnderstanding]] for literature. It als
 - [[HumanAgencyUnderAI]] - choosing where to spend one's own attention remains part of agency even when summaries are available.
 - [[AfghanWomenFirstPersonWriting]] and [[LiteraryPublishingAsMaterialSupport]] - episode 156's extension from literary experience into witness and material support.
 - [[AdultSatiricalChildrensClassics]], [[TallTaleTradition]], and [[AbsurdRationality]] - episode 157's extension from childhood memory into adult rereading.
+- [[FuyouZhishang|《蜉蝣直上》]], [[MinnanFamilyWriting]], and [[StandUpAsSelfNarration]] - 小佳 episode extension from performer identity into prose encounter.

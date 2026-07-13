@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [【脱口秀的小佳】蜉蝣直上：可能会飞，迎着天光](sources/tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655.md) — 蜜獾吃书 episode with stand-up comedian 小佳 on 《蜉蝣直上》, mayfly life imagery, Minnan family writing, father-son resentment, women in ordinary life, stage versus prose, review pressure, sales anxiety, and stepping back toward theater.
 - [157.吹牛大王历险记：叔本华、扒马褂和超级英雄](sources/157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703.md) — 蜜獾吃书 episode on 《吹牛大王历险记》 as tall-tale tradition, absurd rationality, political satire, Munchausen self-bootstrapping, and a bridge to superhero fantasy.
 - [156.一个阿富汗女人的来信: 纸上的光，和出版背后的故事](sources/156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198.md) — 蜜獾吃书 episode with 有光 editor 安琪 on 哈迪亚·海达里's 《一个阿富汗女人的来信》, Afghan women's first-person writing, protection as control, war's gendered civilian harm, Persian-Chinese translation, royalties, cover ethics, and editing as cultural project management.
 - [154.我的名字叫红：用一千零一夜的心跳完成这场谋杀(下）](sources/154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400.md) — 蜜獾吃书 episode on Orhan Pamuk's 《我的名字叫红》, Ottoman miniature painting, Frankish portrait pressure, style/signature, blindness, multi-perspective narration, and the murder clue of the cracked-nostril horse.
@@ -343,6 +344,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [小佳](entities/Xiaojia.md) — Stand-up comedian and author whose 蜜獾吃书 episode links 《蜉蝣直上》, Minnan family memory, stage self-narration, and creator evaluation pressure.
+- [《蜉蝣直上》](entities/FuyouZhishang.md) — 小佳's first book, discussed as a mayfly-framed, Minnan-inflected group portrait rather than a simple celebrity memoir.
 - [《吹牛大王历险记》 / Adventures of Baron Munchausen](entities/AdventuresOfBaronMunchausen.md) — Tall-tale text reread by 蜜獾吃书 through absurd rationality, adult satire, philosophical self-bootstrapping, and superhero continuity.
 - [敏锡豪森男爵 / Baron Munchausen](entities/MunchausenBaron.md) — Historical and fictional figure whose impossible adventures become the episode's anchor for tall tales, self-rescue, and heroic exaggeration.
 - [Rudolf Erich Raspe](entities/RudolfErichRaspe.md) — Early writer of the Munchausen stories, presented as a scholar and fraudster whose life complicates the boundary between knowledge and trickery.
@@ -2094,6 +2097,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Stand-Up As Self-Narration](concepts/StandUpAsSelfNarration.md) — Performance-writing frame where stand-up places the creator visibly in front of life material while prose can let the work stand ahead of the persona.
+- [Creator Evaluation Pressure](concepts/CreatorEvaluationPressure.md) — Reviews, hot searches, sales numbers, program attention, and public scoring as psychological and career pressure on creators.
+- [Minnan Family Writing](concepts/MinnanFamilyWriting.md) — Literary frame for using Minnan small-town family, funeral custom, gender roles, neighbors, and ordinary kinship to write complex people.
 - [Tall-Tale Tradition](concepts/TallTaleTradition.md) — Cross-cultural story pattern where impossible exploits are told with comic confidence and enough internal logic to become satisfying.
 - [Absurd Rationality](concepts/AbsurdRationality.md) — Narrative logic where impossible events still unfold through procedural, locally rational explanation.
 - [Munchausen Self-Bootstrapping](concepts/MunchausenSelfBootstrapping.md) — Motif of impossible self-rescue used as a metaphor for booting, circular justification, and self-grounding.

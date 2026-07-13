@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-14] ingest | 【脱口秀的小佳】蜉蝣直上：可能会飞，迎着天光
+
+Added source page for the 蜜獾吃书 episode with 小佳 on 《蜉蝣直上》, mayfly life imagery, Minnan family writing, father-son resentment, death and funeral custom, women characters, stage versus prose, review and hot-search anxiety, book sales pressure, and stepping back from televised stand-up toward theater. Created pages for 小佳, 《蜉蝣直上》, Stand-Up As Self-Narration, Creator Evaluation Pressure, and Minnan Family Writing; updated overview, index, 蜜獾吃书, Reading As Life Experience, Non-Instrumental Literary Reading, and Female Self-Possession. No direct contradiction found; the source complements existing 蜜獾吃书 literature pages by moving from classics and translation into contemporary nonfiction and creator psychology.
+
 ## [2026-07-12] ingest | Founder Mode: Emmett Shear, Founder, Softmax & Twitch
 
 Added source page for The Social Radars YC offsite episode with Emmett Shear on Softmax, AI alignment as recognizing a shared "we," learning environments, simulations and reinforcement-learning benchmarks, Twitch founder-mode context transfer, Conway's Law, delegation boundaries, and people systems. Created pages for Softmax, David Blumen, AI Collective Alignment, Learning Environment Centered AI Training, Founder Context Propagation, and Conway's Law Organizational Design; updated overview, index, Emmett Shear, Twitch, Adam Goldstein, Y Combinator, The Social Radars, Founder Mode, Founder Delegation Discipline, AI Alignment Governance, Agent RL, and AI Organization Design. No direct contradiction found; the source extends the earlier Emmett Shear startup-history page from Kiko/Justin.tv/Twitch into a later Softmax and founder-mode account, while qualifying founder mode as context propagation and organization design rather than simple founder control.
@@ -2727,6 +2731,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-14] ingest | 157.吹牛大王历险记：叔本华、扒马褂和超级英雄
 
 Added source page for the 蜜獾吃书 episode on 《吹牛大王历险记》, 敏锡豪森男爵, Rudolf Erich Raspe, 《扒马褂》, tall-tale tradition, absurd rationality, Munchausen self-bootstrapping, adult satire in children's classics, and superhero continuity. Created pages for 《吹牛大王历险记》, 敏锡豪森男爵, Rudolf Erich Raspe, 《扒马褂》, Arthur Schopenhauer, Friedrich Nietzsche, Ludwig Wittgenstein, Karl Popper, Tall-Tale Tradition, Absurd Rationality, Munchausen Self-Bootstrapping, Adult Satire In Children's Classics, and Superhero Tall-Tale Continuity; updated overview, index, 蜜獾吃书, Classic Reading Complexity, and Non-Instrumental Literary Reading. No direct contradiction found; the source extends the wiki's literature branch by showing how a familiar childhood text can operate as folklore, political satire, philosophical metaphor, and a modern heroic-fantasy ancestor.
+
+## [2026-07-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-14] lint | Wiki health check
 

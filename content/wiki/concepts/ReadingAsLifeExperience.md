@@ -2,8 +2,8 @@
 title: "Reading As Life Experience"
 type: concept
 tags: [reading, literature, attention, life-practice]
-sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]
-last_updated: 2026-07-12
+sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655]
+last_updated: 2026-07-14
 ---
 
 # Reading As Life Experience
@@ -11,6 +11,8 @@ last_updated: 2026-07-12
 Reading as life experience is the view that reading is not only information transfer, frame extraction, or cultural capital, but a lived practice shaped by body, memory, mood, timing, family, and daily objects. In [[49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]], [[QinZong|秦总]] and [[LiWuya|李乌鸦]] discuss reading through embarrassment, forgetting, posture, paper, drinking, childhood prohibition, and the books one dares or does not dare to enter.
 
 This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A book can train a frame, but whether it reaches the reader depends on how it is held, where it is read, whether the reader is emotionally ready, and what surrounding household or social atmosphere has made books feel like permission, display, burden, or refuge.
+
+[[tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655]] adds the writer-facing version through [[Xiaojia|小佳]]'s [[FuyouZhishang|《蜉蝣直上》]]. Here reading life experience means encountering family, death, region, ordinary people, and creator vulnerability in prose, not only extracting information about the comedian's career.
 
 ## Key Claims
 - Reading includes bodily and material conditions: paper weight, binding, posture, fatigue, and surroundings can change whether a book is actually read.
@@ -25,3 +27,4 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 - [[FamilyReadingEcology]] - household book atmosphere is one condition of reading as life practice.
 - [[NonInstrumentalLiteraryReading]] - fiction's value often appears as experience rather than usable information.
 - [[PersonalKnowledgeEcology]] - books become part of a person's long-term environment for thought.
+- [[FuyouZhishang|《蜉蝣直上》]] and [[MinnanFamilyWriting]] - later source extension into contemporary nonfiction, family memory, and regional texture.

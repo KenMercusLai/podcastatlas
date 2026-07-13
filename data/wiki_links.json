@@ -2927,6 +2927,10 @@
     "title": "Creator Culture",
     "url": "/wiki/concepts/creatorculture/"
   },
+  "CreatorEvaluationPressure": {
+    "title": "Creator Evaluation Pressure",
+    "url": "/wiki/concepts/creatorevaluationpressure/"
+  },
   "CreatorOwnedAudience": {
     "title": "Creator-Owned Audience",
     "url": "/wiki/concepts/creatorownedaudience/"
@@ -4726,6 +4730,10 @@
   "FuyouTiandi": {
     "title": "蜉蝣天地 / Fuyou Tiandi",
     "url": "/wiki/entities/fuyoutiandi/"
+  },
+  "FuyouZhishang": {
+    "title": "《蜉蝣直上》",
+    "url": "/wiki/entities/fuyouzhishang/"
   },
   "GECAS": {
     "title": "GECAS",
@@ -7610,6 +7618,10 @@
   "MinistryOfIntelligenceAndSecurity": {
     "title": "Ministry of Intelligence and Security",
     "url": "/wiki/entities/ministryofintelligenceandsecurity/"
+  },
+  "MinnanFamilyWriting": {
+    "title": "Minnan Family Writing",
+    "url": "/wiki/concepts/minnanfamilywriting/"
   },
   "MinnanMaritimeCommercialCulture": {
     "title": "Minnan Maritime Commercial Culture",
@@ -10519,6 +10531,10 @@
     "title": "Stakeholder Capitalism",
     "url": "/wiki/concepts/stakeholdercapitalism/"
   },
+  "StandUpAsSelfNarration": {
+    "title": "Stand-Up As Self-Narration",
+    "url": "/wiki/concepts/standupasselfnarration/"
+  },
   "StandardChartered": {
     "title": "Standard Chartered",
     "url": "/wiki/entities/standardchartered/"
@@ -12135,6 +12151,10 @@
     "title": "Xiaohongshu Hackathon Peak Competition",
     "url": "/wiki/entities/xiaohongshuhackathonpeakcompetition/"
   },
+  "Xiaojia": {
+    "title": "小佳",
+    "url": "/wiki/entities/xiaojia/"
+  },
   "Xiaomi": {
     "title": "Xiaomi",
     "url": "/wiki/entities/xiaomi/"
@@ -13674,6 +13694,10 @@
   "tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio": {
     "title": "Founder Mode: Sajith Wickramasekara, Founder & CEO, Benchling",
     "url": "/wiki/sources/tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio/"
+  },
+  "tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655": {
+    "title": "【脱口秀的小佳】蜉蝣直上：可能会飞，迎着天光",
+    "url": "/wiki/sources/tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655/"
   },
   "ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939": {
     "title": "UGG: Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company.",
