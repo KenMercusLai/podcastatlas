@@ -2,8 +2,8 @@
 title: "蜜獾吃书"
 type: entity
 tags: [podcast, books, media]
-sources: [ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308, 46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 48-kaishi-daji-diyiliu-de-youmo-fengci-627375908, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604]
-last_updated: 2026-07-12
+sources: [ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308, 46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 48-kaishi-daji-diyiliu-de-youmo-fengci-627375908, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604, 154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400]
+last_updated: 2026-07-13
 ---
 
 # 蜜獾吃书
@@ -24,6 +24,8 @@ The episode moves the show into the wiki's life-design branch. Rather than revie
 
 [[50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604]] adds the show's true-crime and social-history branch through [[JackTheRipperCaseClosed|《开膛手杰克结案报告》]]. It connects [[PatriciaCornwell]]'s disputed accusation against [[WalterSickert]] to [[ContestedForensicAttribution]], then shifts from suspect-hunting toward [[VictimStigmaInTrueCrime]], [[VictorianWomenPrecarity]], and [[ModernCriminalInvestigationFormation]].
 
+[[154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400]] adds the show's Turkish-literature and art-history branch through [[OrhanPamuk|奥尔罕·帕慕克]] and [[MyNameIsRed|《我的名字叫红》]]. It connects murder mystery to [[OttomanMiniaturePainting]], [[FrankishPortraiturePressure]], [[MiniatureStyleSignatureTension]], [[BlindnessMemoryArtIdeal]], [[MultiPerspectiveMurderNarration]], and [[SecularHappinessAgainstIdeology]].
+
 ## Connections
 
 - [[QinZong|秦总]] - host associated with the show in several sources.
@@ -38,3 +40,4 @@ The episode moves the show into the wiki's life-design branch. Rather than revie
 - [[LiWuya|李乌鸦]], [[ReadingAsLifeExperience]], and [[NonInstrumentalLiteraryReading]] - meta-reading branch added by the first-anniversary episode.
 - [[JackTheRipperCaseClosed|《开膛手杰克结案报告》]], [[PatriciaCornwell]], [[WalterSickert]], and [[JackTheRipper]] - true-crime branch added by the Jack the Ripper episode.
 - [[ContestedForensicAttribution]], [[VictimStigmaInTrueCrime]], [[VictorianWomenPrecarity]], and [[ModernCriminalInvestigationFormation]] - evidence and social-history concepts added by the Jack the Ripper episode.
+- [[OrhanPamuk|奥尔罕·帕慕克]], [[MyNameIsRed|《我的名字叫红》]], [[OttomanMiniaturePainting]], and [[MultiPerspectiveMurderNarration]] - Turkish-literature and art-history branch added by the Pamuk episode.

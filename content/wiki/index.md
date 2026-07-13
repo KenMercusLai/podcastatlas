@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [154.我的名字叫红：用一千零一夜的心跳完成这场谋杀(下）](sources/154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400.md) — 蜜獾吃书 episode on Orhan Pamuk's 《我的名字叫红》, Ottoman miniature painting, Frankish portrait pressure, style/signature, blindness, multi-perspective narration, and the murder clue of the cracked-nostril horse.
 - [The Social Radars Season Five Update](sources/tsr-s5-catchup2-v1-tsr-s5-catchup2-v1.md) — Short Social Radars update where Jessica Livingston and Carolyn Levy preview Season Five, announce Substack and full-episode YouTube distribution, highlight Tyler Schultz and Ron Conway archive entry points, and explain the Founder Mode side series.
 - [Founder Mode: Sajith Wickramasekara, Founder & CEO, Benchling](sources/tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio.md) — The Social Radars YC offsite episode with Sajith Wickramasekara on Benchling, life-sciences workflow software, YC Summer 2012, founder mode as ownership, customer proximity, executive fit, and senior-leader customer contact.
 - [Founder Mode: Emmett Shear, Founder, Softmax & Twitch](sources/tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly.md) — The Social Radars YC offsite episode with Emmett Shear on Softmax, AI collective alignment, learning environments, Twitch founder-mode context transfer, Conway's Law, delegation boundaries, and people systems.
@@ -340,6 +341,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [奥尔罕·帕慕克 / Orhan Pamuk](entities/OrhanPamuk.md) — Turkish novelist whose 《我的名字叫红》 lets 蜜獾吃书 connect murder mystery, miniature painting, cultural identity, and narrative perspective.
+- [《我的名字叫红》 / My Name Is Red](entities/MyNameIsRed.md) — Orhan Pamuk novel discussed as a murder mystery built from Ottoman miniature art, portrait pressure, memory, style, and Shekure's worldly survival.
 - [Tyler Schultz](entities/TylerSchultz.md) — Social Radars archive-highlight guest mentioned in the Season Five update as a listener-favorite double episode.
 - [Sajith Wickramasekara](entities/SajithWickramasekara.md) — Benchling co-founder and CEO whose YC offsite episode defines founder mode as ownership, customer proximity, standards, and faster executive-fit judgment.
 - [Benchling](entities/Benchling.md) — Life-sciences workflow software company serving scientists across universities, biotech, and pharma, used as a founder-mode case about customer contact and executive fit.
@@ -2074,6 +2077,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Ottoman Miniature Painting](concepts/OttomanMiniaturePainting.md) — Art tradition in 《我的名字叫红》 where inherited forms, memory, divine perspective, and workshop lineage shape both aesthetics and murder evidence.
+- [Frankish Portraiture Pressure](concepts/FrankishPortraiturePressure.md) — Western-style portrait and perspective pressure that destabilizes the Ottoman workshop and secret-book plot in the Pamuk episode.
+- [Miniature Style-Signature Tension](concepts/MiniatureStyleSignatureTension.md) — Conflict between anonymous inherited mastery and individual artistic mark, turning style into both identity and clue.
+- [Blindness-Memory Art Ideal](concepts/BlindnessMemoryArtIdeal.md) — Miniature-painting ideal where mastery means drawing from memory and tradition rather than ordinary sight.
+- [Multi-Perspective Murder Narration](concepts/MultiPerspectiveMurderNarration.md) — Narrative method in which many voices, images, colors, objects, and the murderer make viewpoint part of the mystery.
+- [Secular Happiness Against Ideology](concepts/SecularHappinessAgainstIdeology.md) — Literary frame for ordinary safety, marriage, children, and worldly happiness persisting inside grand art and identity conflicts.
 - [Life Sciences Workflow Software](concepts/LifeSciencesWorkflowSoftware.md) — Scientific-workflow software category for experiment design, data capture, analysis, and collaboration across university, biotech, and pharma work.
 - [AI Collective Alignment](concepts/AICollectiveAlignment.md) — Emmett Shear's alignment frame where an agent understands itself, understands other agents, and recognizes when it belongs to a shared "we."
 - [Learning Environment Centered AI Training](concepts/LearningEnvironmentCenteredAITraining.md) — Softmax training frame that emphasizes environments, peer experiences, simulations, and feedback over architecture-only alignment.

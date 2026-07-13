@@ -2707,3 +2707,11 @@ Ran health and lint checks. Health passed with no empty/stub files, index drift,
 ## [2026-07-12] ingest | The Social Radars Season Five Update
 
 Added source page for the short The Social Radars Season Five update on the show's refreshed presentation, Substack launch, full-episode YouTube distribution, archive highlights around Tyler Schultz and Ron Conway, and the Founder Mode side series. Created Tyler Schultz; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Ron Conway, Substack, YouTube, Spotify, Apple, Founder Mode, Podcast As Asynchronous Media, and Video Podcast Affordance. No direct contradiction found; the source extends the Season 2 YouTube-clips plan into full-episode video distribution and treats the December 23, 2025 "next couple of weeks" launch timing as source-relative rather than a current promise.
+
+## [2026-07-13] ingest | 154.我的名字叫红：用一千零一夜的心跳完成这场谋杀(下）
+
+Added source page for the 蜜獾吃书 episode on Orhan Pamuk's 《我的名字叫红》, covering the second-half murder investigation, Shekure's remarriage and survival strategy, Master Osman's three questions, the cracked-nostril horse clue, Olive's confession and self-portrait, the coffeehouse violence, and the decline of Ottoman miniature painting. Created pages for Orhan Pamuk, 《我的名字叫红》, Ottoman Miniature Painting, Frankish Portraiture Pressure, Miniature Style-Signature Tension, Blindness-Memory Art Ideal, Multi-Perspective Murder Narration, and Secular Happiness Against Ideology; updated overview, index, and 蜜獾吃书. No direct contradiction found; the source extends the wiki's literature branch by showing a novel where murder mystery, image theory, cultural identity, multi-voice narration, and everyday survival are inseparable.
+
+## [2026-07-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
