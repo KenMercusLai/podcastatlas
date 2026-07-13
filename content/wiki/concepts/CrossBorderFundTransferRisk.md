@@ -2,8 +2,8 @@
 title: "Cross-Border Fund Transfer Risk"
 type: concept
 tags: [finance, banking, compliance, foreign-exchange, aml]
-sources: [ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1]
-last_updated: 2026-07-07
+sources: [ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198]
+last_updated: 2026-07-14
 ---
 
 # Cross-Border Fund Transfer Risk
@@ -11,6 +11,8 @@ last_updated: 2026-07-07
 Cross-border fund transfer risk is the compliance, foreign-exchange, data, and account-safety risk created when money moves across jurisdictions, currencies, banks, and counterparties. [[ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg]] shows this through foreign-bank account opening, data localization, and witness account boundaries; [[ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr]] adds the AML layer around offshore accounts, personal foreign-exchange quotas, false trade documents, and overseas platforms. [[ep89-haiwai-quanshang-da-dizhen-kuajing-touzi-xinshidai-li8ya-r5cpz3sifdjby73vh9-rxs]] makes the overseas brokerage version explicit: the key question is whether the money going into a securities account left the mainland through a lawful purpose and consistent identity.
 
 [[opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1]] adds the overseas-entrepreneurship version. The hosts say that registering a foreign company or opening an overseas account can create follow-on questions about tax filings, residency proof, account eligibility, funding purpose, revenue collection, and how profits lawfully return, especially when a founder starts from a small solo business rather than an established operating structure.
+
+[[156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198]] adds an author-support version. [[AnQi|安琪]] describes attempts to send advance royalties to [[HadiyaHaidari|哈迪亚·海达里]] while the author was displaced in Pakistan; account availability, recipient identity, sanctions-like screening, bank returns, and private transfer workarounds turned payment into a concrete obstacle inside [[LiteraryPublishingAsMaterialSupport]].
 
 ## Key Claims
 - Cross-border movement increases tracing difficulty because banking rules, customer data, legal process, currency conversion, and jurisdiction differ across locations.
@@ -21,6 +23,7 @@ Cross-border fund transfer risk is the compliance, foreign-exchange, data, and a
 - Personal convenience FX quota use becomes risky when the declared purpose is travel, study, or consumption but the actual destination is an overseas brokerage account.
 - Brokerage-account funding has to make identity, residence, tax status, source of funds, and investment location cohere rather than treating the transfer as a purely technical bank operation.
 - Overseas company setup has to be tied to a real operating purpose; otherwise account access, source-of-funds explanations, and later profit return can become the actual bottleneck.
+- Even legitimate humanitarian or author-support payments can run into account, jurisdiction, and screening constraints when the recipient is displaced and lacks a stable personal banking channel.
 
 ## Connections
 - [[AntiMoneyLaundering]] — AML and foreign-exchange controls intersect in cross-border flows.
@@ -32,3 +35,4 @@ Cross-border fund transfer risk is the compliance, foreign-exchange, data, and a
 - [[CrossBorderBrokerageRegulation]] and [[CapitalAccountInvestmentRestrictions]] — EP89's brokerage-specific funding-risk frame.
 - [[HongKongStockConnect]], [[QDIIAllocation]], and [[CrossBorderWealthManagementConnect]] — compliant routes designed to reduce informal transfer pressure.
 - [[OnePersonCompany]] — entrepreneurship context where overseas setup can increase rather than reduce operating complexity.
+- [[LiteraryPublishingAsMaterialSupport]], [[AnQi|安琪]], and [[HadiyaHaidari|哈迪亚·海达里]] — author-royalty payment case added by the Afghanistan publishing source.

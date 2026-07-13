@@ -103,6 +103,10 @@
     "title": "154.我的名字叫红：用一千零一夜的心跳完成这场谋杀(下）",
     "url": "/wiki/sources/154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400/"
   },
+  "156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198": {
+    "title": "156.一个阿富汗女人的来信: 纸上的光，和出版背后的故事",
+    "url": "/wiki/sources/156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198/"
+  },
   "166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1": {
     "title": "166: 许华哲再次具身创业：不想错过最大的西瓜",
     "url": "/wiki/sources/166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1/"
@@ -867,6 +871,14 @@
     "title": "Aether AI",
     "url": "/wiki/entities/aetherai/"
   },
+  "AfghanWomenFirstPersonWriting": {
+    "title": "Afghan Women First-Person Writing",
+    "url": "/wiki/concepts/afghanwomenfirstpersonwriting/"
+  },
+  "Afghanistan": {
+    "title": "Afghanistan",
+    "url": "/wiki/entities/afghanistan/"
+  },
   "Agan": {
     "title": "Agan",
     "url": "/wiki/entities/agan/"
@@ -1094,6 +1106,10 @@
   "AmjadMasad": {
     "title": "Amjad Masad",
     "url": "/wiki/entities/amjadmasad/"
+  },
+  "AnQi": {
+    "title": "安琪",
+    "url": "/wiki/entities/anqi/"
   },
   "AnalogMediaPreservation": {
     "title": "Analog Media Preservation",
@@ -3763,6 +3779,10 @@
     "title": "Edith Elliott",
     "url": "/wiki/entities/edithelliott/"
   },
+  "EditorAsCulturalProjectManager": {
+    "title": "Editor As Cultural Project Manager",
+    "url": "/wiki/concepts/editorasculturalprojectmanager/"
+  },
   "EdouardPhilippe": {
     "title": "Edouard Philippe",
     "url": "/wiki/entities/edouardphilippe/"
@@ -5135,6 +5155,10 @@
     "title": "Hackpad",
     "url": "/wiki/entities/hackpad/"
   },
+  "HadiyaHaidari": {
+    "title": "哈迪亚·海达里",
+    "url": "/wiki/entities/hadiyahaidari/"
+  },
   "HaijinAndMaritimeSmuggling": {
     "title": "Haijin and Maritime Smuggling",
     "url": "/wiki/concepts/haijinandmaritimesmuggling/"
@@ -5398,6 +5422,10 @@
   "HongLetong": {
     "title": "Hong Letong / 洪乐潼",
     "url": "/wiki/entities/hongletong/"
+  },
+  "HongWeilin": {
+    "title": "洪蔚琳",
+    "url": "/wiki/entities/hongweilin/"
   },
   "Hongguo": {
     "title": "红果",
@@ -6754,6 +6782,10 @@
   "LiteraryAgentJudgment": {
     "title": "Literary Agent Judgment",
     "url": "/wiki/concepts/literaryagentjudgment/"
+  },
+  "LiteraryPublishingAsMaterialSupport": {
+    "title": "Literary Publishing As Material Support",
+    "url": "/wiki/concepts/literarypublishingasmaterialsupport/"
   },
   "Lithuania": {
     "title": "Lithuania",
@@ -8979,6 +9011,10 @@
     "title": "Prosthetic Insurance Coverage",
     "url": "/wiki/concepts/prostheticinsurancecoverage/"
   },
+  "ProtectionAsControl": {
+    "title": "Protection As Control",
+    "url": "/wiki/concepts/protectionascontrol/"
+  },
   "ProtectiveCollarStrategy": {
     "title": "Protective Collar Strategy",
     "url": "/wiki/concepts/protectivecollarstrategy/"
@@ -11191,6 +11227,10 @@
     "title": "Training Compute Allocation",
     "url": "/wiki/concepts/trainingcomputeallocation/"
   },
+  "TranslationPublishingWorkflow": {
+    "title": "Translation Publishing Workflow",
+    "url": "/wiki/concepts/translationpublishingworkflow/"
+  },
   "TravelBookingHiddenFees": {
     "title": "Travel Booking Hidden Fees",
     "url": "/wiki/concepts/travelbookinghiddenfees/"
@@ -11735,6 +11775,10 @@
     "title": "War-Aware Disaster Recovery",
     "url": "/wiki/concepts/warawaredisasterrecovery/"
   },
+  "WarGenderedCivilianHarm": {
+    "title": "War Gendered Civilian Harm",
+    "url": "/wiki/concepts/wargenderedcivilianharm/"
+  },
   "WarOfFaith": {
     "title": "追风者",
     "url": "/wiki/entities/waroffaith/"
@@ -12195,6 +12239,10 @@
     "title": "Yeren Xiansheng",
     "url": "/wiki/entities/yerenxiansheng/"
   },
+  "YiGeAfuhanNvrenDeLaixin": {
+    "title": "《一个阿富汗女人的来信》",
+    "url": "/wiki/entities/yigeafuhannvrendelaixin/"
+  },
   "YiLaoYongYi": {
     "title": "一劳永逸",
     "url": "/wiki/entities/yilaoyongyi/"
@@ -12270,6 +12318,10 @@
   "YouTubeMediaDominance": {
     "title": "YouTube Media Dominance",
     "url": "/wiki/concepts/youtubemediadominance/"
+  },
+  "YouguangPublishing": {
+    "title": "有光",
+    "url": "/wiki/entities/youguangpublishing/"
   },
   "Youju": {
     "title": "Youju",
@@ -12458,6 +12510,10 @@
   "ZhengkeFund": {
     "title": "ZhenFund",
     "url": "/wiki/entities/zhengkefund/"
+  },
+  "ZhengmianLianjie": {
+    "title": "正面连接",
+    "url": "/wiki/entities/zhengmianlianjie/"
   },
   "ZhipuAI": {
     "title": "Zhipu AI",

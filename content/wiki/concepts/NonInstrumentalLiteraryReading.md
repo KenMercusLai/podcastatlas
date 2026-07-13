@@ -2,8 +2,8 @@
 title: "Non-Instrumental Literary Reading"
 type: concept
 tags: [reading, literature, fiction, attention]
-sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]
-last_updated: 2026-07-12
+sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198]
+last_updated: 2026-07-14
 ---
 
 # Non-Instrumental Literary Reading
@@ -11,6 +11,8 @@ last_updated: 2026-07-12
 Non-instrumental literary reading is the refusal to judge fiction and literary classics only by immediate knowledge gain, productivity, or visible output. In [[49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]], [[QinZong|秦总]] and [[LiWuya|李乌鸦]] compare reading to travel, emotional repair, solitude, and living additional possible lives. The claim is not that literature is useless, but that its usefulness often arrives through experience rather than extractable points.
 
 This concept specializes [[NonInstrumentalUnderstanding]] for literature. It also complements [[ReadingAsFrameTraining]]: a reader may gain a frame from a novel, but the novel's value is not exhausted by the frame. It includes entering other lives, feeling the world become bearable again, and learning what kind of attention the reader wants to keep.
+
+[[156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198]] adds a witness-and-support version. Reading [[YiGeAfuhanNvrenDeLaixin|《一个阿富汗女人的来信》]] is not only extracting information about [[Afghanistan]]; it is encountering [[AfghanWomenFirstPersonWriting]] and, through buying, reviewing, and discussing the book, participating in [[LiteraryPublishingAsMaterialSupport]] for a living author.
 
 ## Key Claims
 - Fiction can be valuable because it lets a reader experience lives, worlds, and moral situations they could not otherwise enter.
@@ -25,3 +27,4 @@ This concept specializes [[NonInstrumentalUnderstanding]] for literature. It als
 - [[ClassicReadingComplexity]] - classics often require non-instrumental patience before their value is visible.
 - [[PersonalKnowledgeEcology]] - literary experiences can become part of a reader's long-term thought environment.
 - [[HumanAgencyUnderAI]] - choosing where to spend one's own attention remains part of agency even when summaries are available.
+- [[AfghanWomenFirstPersonWriting]] and [[LiteraryPublishingAsMaterialSupport]] - episode 156's extension from literary experience into witness and material support.

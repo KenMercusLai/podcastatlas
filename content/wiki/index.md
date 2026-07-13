@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [156.一个阿富汗女人的来信: 纸上的光，和出版背后的故事](sources/156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198.md) — 蜜獾吃书 episode with 有光 editor 安琪 on 哈迪亚·海达里's 《一个阿富汗女人的来信》, Afghan women's first-person writing, protection as control, war's gendered civilian harm, Persian-Chinese translation, royalties, cover ethics, and editing as cultural project management.
 - [154.我的名字叫红：用一千零一夜的心跳完成这场谋杀(下）](sources/154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400.md) — 蜜獾吃书 episode on Orhan Pamuk's 《我的名字叫红》, Ottoman miniature painting, Frankish portrait pressure, style/signature, blindness, multi-perspective narration, and the murder clue of the cracked-nostril horse.
 - [The Social Radars Season Five Update](sources/tsr-s5-catchup2-v1-tsr-s5-catchup2-v1.md) — Short Social Radars update where Jessica Livingston and Carolyn Levy preview Season Five, announce Substack and full-episode YouTube distribution, highlight Tyler Schultz and Ron Conway archive entry points, and explain the Founder Mode side series.
 - [Founder Mode: Sajith Wickramasekara, Founder & CEO, Benchling](sources/tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio.md) — The Social Radars YC offsite episode with Sajith Wickramasekara on Benchling, life-sciences workflow software, YC Summer 2012, founder mode as ownership, customer proximity, executive fit, and senior-leader customer contact.
@@ -341,6 +342,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [哈迪亚·海达里](entities/HadiyaHaidari.md) — Afghan woman author whose Persian stories in 《一个阿富汗女人的来信》 ground the episode's first-person writing, constrained agency, and publication-as-support themes.
+- [《一个阿富汗女人的来信》](entities/YiGeAfuhanNvrenDeLaixin.md) — Book of stories by 哈迪亚·海达里 discussed as rare Afghan women's first-person literary testimony and as a publishing project with material stakes.
+- [安琪](entities/AnQi.md) — 有光 editor-in-chief whose acquisition, royalty, translation, cover, review, production, and marketing work makes the publishing process visible.
+- [有光](entities/YouguangPublishing.md) — Publishing brand that brought 《一个阿富汗女人的来信》 to Chinese readers and coordinated author support, translation, production, and sales.
+- [洪蔚琳](entities/HongWeilin.md) — Journalist whose 正面连接 article introduced 哈迪亚·海达里's story and became the route through which the editor contacted the author.
+- [正面连接](entities/ZhengmianLianjie.md) — Media/reporting context for the article that led from Afghan women's testimony to the later Chinese book project.
+- [Afghanistan](entities/Afghanistan.md) — Country context for the episode's discussion of war, regime change, women's education, public restriction, and daily coercion.
 - [奥尔罕·帕慕克 / Orhan Pamuk](entities/OrhanPamuk.md) — Turkish novelist whose 《我的名字叫红》 lets 蜜獾吃书 connect murder mystery, miniature painting, cultural identity, and narrative perspective.
 - [《我的名字叫红》 / My Name Is Red](entities/MyNameIsRed.md) — Orhan Pamuk novel discussed as a murder mystery built from Ottoman miniature art, portrait pressure, memory, style, and Shekure's worldly survival.
 - [Tyler Schultz](entities/TylerSchultz.md) — Social Radars archive-highlight guest mentioned in the Season Five update as a listener-favorite double episode.
@@ -2077,6 +2085,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Afghan Women First-Person Writing](concepts/AfghanWomenFirstPersonWriting.md) — Literary and documentary frame for Afghan women writing from inside their own language, family, war, shame, and daily danger rather than through outside observation.
+- [War Gendered Civilian Harm](concepts/WarGenderedCivilianHarm.md) — How war's consequences reach households through widowhood, child care, poverty, reputation, mobility, and gendered dependency.
+- [Protection As Control](concepts/ProtectionAsControl.md) — Pattern where safety language justifies restrictions on movement, speech, clothing, sight, study, and public presence.
+- [Literary Publishing As Material Support](concepts/LiteraryPublishingAsMaterialSupport.md) — Publishing a book as practical author support through royalties, visibility, reader attention, and continued sales.
+- [Translation Publishing Workflow](concepts/TranslationPublishingWorkflow.md) — Practical chain for turning a sensitive Persian manuscript into a Chinese book through translator sourcing, editing, review, cover, production, and market fit.
+- [Editor As Cultural Project Manager](concepts/EditorAsCulturalProjectManager.md) — Editing as literary judgment plus author contact, payment, translation, design, production, marketing, and sales execution.
 - [Ottoman Miniature Painting](concepts/OttomanMiniaturePainting.md) — Art tradition in 《我的名字叫红》 where inherited forms, memory, divine perspective, and workshop lineage shape both aesthetics and murder evidence.
 - [Frankish Portraiture Pressure](concepts/FrankishPortraiturePressure.md) — Western-style portrait and perspective pressure that destabilizes the Ottoman workshop and secret-book plot in the Pamuk episode.
 - [Miniature Style-Signature Tension](concepts/MiniatureStyleSignatureTension.md) — Conflict between anonymous inherited mastery and individual artistic mark, turning style into both identity and clue.
