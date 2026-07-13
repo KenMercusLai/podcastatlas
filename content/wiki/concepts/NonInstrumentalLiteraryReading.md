@@ -2,7 +2,7 @@
 title: "Non-Instrumental Literary Reading"
 type: concept
 tags: [reading, literature, fiction, attention]
-sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655]
+sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
 last_updated: 2026-07-14
 ---
 
@@ -20,12 +20,15 @@ This concept specializes [[NonInstrumentalUnderstanding]] for literature. It als
 
 [[tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655]] adds a contemporary nonfiction version. [[FuyouZhishang|《蜉蝣直上》]] is valuable in the episode not as celebrity trivia about [[Xiaojia|小佳]], but as an encounter with family ambiguity, Minnan custom, ordinary women, grief, and the pressure of being seen.
 
+[[160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]] adds an education-resistance version through [[Matilda|《马蒂尔达》]] and [[ExcellentSheep|《优秀的绵羊》 / Excellent Sheep]]. Literature matters here because it can restore feeling, make unfair authority visible, and resist [[RedPenLogic]] rather than only serving as material for grades, resumes, or information extraction.
+
 ## Key Claims
 - Fiction can be valuable because it lets a reader experience lives, worlds, and moral situations they could not otherwise enter.
 - A book that leaves no clean takeaway can still have been a meaningful experience.
 - Reading "bad fit" books is not pure waste; it can clarify taste, state, and relation to a tradition.
 - Literature can repair a reader's relation to people and the world by making goodness, idealism, or suffering perceptible.
 - Calculating every book by time, money, and return can erase the very experiential layer that makes literature distinct.
+- Literature can protect agency when it gives young readers language for feeling, refusal, and unfair authority outside the scoring system.
 
 ## Connections
 - [[NonInstrumentalUnderstanding]] - broader concept for knowledge that is not immediately utility-driven.
@@ -37,3 +40,4 @@ This concept specializes [[NonInstrumentalUnderstanding]] for literature. It als
 - [[AdultSatiricalChildrensClassics]], [[TallTaleTradition]], and [[AbsurdRationality]] - episode 157's extension from childhood memory into adult rereading.
 - [[PuzzleSnackMystery|推理薯片]], [[WatsonPower|华生力]], and [[ClosedCircleMystery|暴风雪山庄]] - episode 158's extension into light puzzle-entertainment reading.
 - [[FuyouZhishang|《蜉蝣直上》]], [[MinnanFamilyWriting]], and [[StandUpAsSelfNarration]] - 小佳 episode extension from performer identity into prose encounter.
+- [[Matilda|《马蒂尔达》]], [[AntiAuthoritarianEducation]], and [[RedPenLogic]] - episode 160's extension into literature as resistance to score-centered education.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-14] ingest | 160.优秀的绵羊：请把说“不”的权利还给我
+
+Added source page for the 蜜獾吃书 episode on 《优秀的绵羊》, 《马蒂尔达》, education pressure, red pen logic, youth mental health, helicopter parenting, Ivy League meritocracy, and the right to say no. Created pages for 《优秀的绵羊》 / Excellent Sheep, William Deresiewicz, 《马蒂尔达》 / Matilda, Anti-Authoritarian Education, Red Pen Logic, Achievement Pressure Mental Health, Ivy League Meritocracy, and Helicopter Parenting; updated overview, index, 蜜獾吃书, Stanford University, Non-Instrumental Literary Reading, Reading As Life Experience, College Major Choice, and Water And Fire Education. No direct contradiction found; the source extends the wiki's education branch by showing how elite credentials and family optimization can become internal scoring systems rather than agency-building education.
+
 ## [2026-07-14] ingest | 159.要精明，要善良，要解决问题
 
 Added source page for the 蜜獾吃书 episode on 《事已至此，走保险》, 阿健's insurance claims work, claims information asymmetry, professional claims assistance, discretionary payment, complaint pressure, insurance claims scalping, catastrophe claims, and child third-party liability. Created pages for 《事已至此，走保险》, 阿健, 小雨伞, Insurance Claims Handling, Insurance Claims Information Asymmetry, Insurance Claims Assistance Platforms, Discretionary Insurance Payment, Insurance Complaint Pressure, Insurance Claims Scalping, Catastrophe Insurance Claims, and Child Third-Party Liability Insurance; updated overview, index, 蜜獾吃书, Insurance Risk Transfer, Health Insurance Planning, and Insurance Sales Trust. No direct contradiction found; the source extends prior insurance-planning pages from choosing policies into proving, negotiating, and settling claims after a loss.
@@ -2755,3 +2759,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-14] report | lint run clarification
+
+Latest lint run completed after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-12 with 3,408 nodes while the wiki scan found 3,480 pages; they found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified. No `wiki/lint-report.md` file was saved.

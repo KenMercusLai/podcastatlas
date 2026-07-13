@@ -2,13 +2,15 @@
 title: "College Career Preparation"
 type: concept
 tags: [education, career, work]
-sources: [tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources: [tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
+last_updated: 2026-07-14
 ---
 
 # College Career Preparation
 
 College career preparation is the episode's goal-dependent way to allocate undergraduate effort across grades, exams, projects, internships, portfolios, and hiring readiness. In [[vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1]], the hosts argue that gaokao is only the beginning: students still need to decide whether they are aiming for graduate school, baoyan, civil-service exams, direct employment, entrepreneurship, or creative work, then build evidence for that path.
+
+[[160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]] adds a psychological boundary to this preparation frame. The source warns that certificates, resumes, graduate exams, civil-service exams, and carefully planned "safe" paths can become [[RedPenLogic]] when preparation is driven by fear of being marked down rather than by capability, curiosity, or realistic agency.
 
 [[vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]] adds an AI-disruption angle. [[WangJunyu]] and [[JustinYan]] note that some first-job tasks may be compressed by [[VibeCoding]], while students can also build apps and projects earlier than before. The preparation question therefore shifts from only finding an entry-level slot to building enough foundation, taste, and project evidence to judge and direct AI output.
 
@@ -31,6 +33,7 @@ College career preparation is the episode's goal-dependent way to allocate under
 - When enrollment shifts away from traditional CS, preparation should not only mean choosing a different label; students still need practical evidence, technical foundations, and enough labor-market literacy to understand why a subfield is attractive.
 - AI can support college and career-path comparison before enrollment, but students still need to verify whether summarized offers, outcomes, and campus signals match their actual goals.
 - Students also need protected practice doing first drafts and first solutions because future work requires internalized reasoning, not only access to good explanations.
+- Career preparation becomes brittle when every activity is chosen for resume value and no space remains for discovery, risk, rest, or non-instrumental learning.
 
 ## Connections
 
@@ -43,3 +46,4 @@ College career preparation is the episode's goal-dependent way to allocate under
 - [[ComputingEnrollmentDecline]] and [[ComputingResearchPipeline]] — education-system signals that connect individual preparation to long-term workforce capacity.
 - [[AICollegeSearch]], [[HigherEducationAIDiscoverability]], and [[AIRankingReinforcement]] — AI-mediated college-choice and offer-comparison layer added by Marketplace Tech.
 - [[FirstDraftThinking]], [[AIShortcutRisk]], [[HeatherSchwartz]], and [[RAND]] - homework-to-workforce reasoning branch added by Marketplace Tech.
+- [[RedPenLogic]], [[AchievementPressureMentalHealth]], and [[AntiAuthoritarianEducation]] - episode 160's boundary against turning preparation into total self-surveillance.

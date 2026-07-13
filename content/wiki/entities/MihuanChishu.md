@@ -2,7 +2,7 @@
 title: "蜜獾吃书"
 type: entity
 tags: [podcast, books, media]
-sources: [ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308, 46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 48-kaishi-daji-diyiliu-de-youmo-fengci-627375908, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604, 154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 159-yao-jingming-yao-shanliang-yao-jiejue-wenti-931818201]
+sources: [ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308, 46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 48-kaishi-daji-diyiliu-de-youmo-fengci-627375908, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604, 154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 159-yao-jingming-yao-shanliang-yao-jiejue-wenti-931818201, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
 last_updated: 2026-07-14
 ---
 
@@ -36,6 +36,8 @@ The episode moves the show into the wiki's life-design branch. Rather than revie
 
 [[159-yao-jingming-yao-shanliang-yao-jiejue-wenti-931818201]] adds the show's insurance-nonfiction branch through [[ShiYiZhiCiZouBaoxian|《事已至此，走保险》]] and [[AJianInsuranceWriter|阿健]]. It connects claims stories to [[InsuranceClaimsHandling]], [[InsuranceClaimsInformationAsymmetry]], [[InsuranceClaimsAssistancePlatforms]], [[DiscretionaryInsurancePayment]], [[InsuranceComplaintPressure]], [[InsuranceClaimsScalping]], [[CatastropheInsuranceClaims]], and [[ChildThirdPartyLiabilityInsurance]].
 
+[[160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]] adds the show's education-pressure and youth-agency branch through [[ExcellentSheep|《优秀的绵羊》 / Excellent Sheep]] and [[Matilda|《马蒂尔达》]]. It connects elite-student anxiety, Chinese family education pressure, U.S. admissions history, literature as emotional education, and the right to say no to [[AntiAuthoritarianEducation]], [[RedPenLogic]], [[AchievementPressureMentalHealth]], [[IvyLeagueMeritocracy]], and [[HelicopterParenting]].
+
 ## Connections
 
 - [[QinZong|秦总]] - host associated with the show in several sources.
@@ -56,3 +58,4 @@ The episode moves the show into the wiki's life-design branch. Rather than revie
 - [[QuanYuanXianYiRen|《全员嫌疑人》]], [[QuanYuanMingZhenTan|《全员名侦探》]], [[PuzzleSnackMystery|推理薯片]], [[WatsonPower|华生力]], and [[ClosedCircleMystery|暴风雪山庄]] - puzzle-mystery branch added by episode 158.
 - [[Xiaojia|小佳]], [[FuyouZhishang|《蜉蝣直上》]], [[StandUpAsSelfNarration]], [[MinnanFamilyWriting]], and [[CreatorEvaluationPressure]] - contemporary nonfiction and creator-psychology branch added by the 小佳 episode.
 - [[ShiYiZhiCiZouBaoxian|《事已至此，走保险》]], [[AJianInsuranceWriter|阿健]], [[InsuranceClaimsHandling]], and [[InsuranceClaimsInformationAsymmetry]] - insurance-claims nonfiction branch added by episode 159.
+- [[ExcellentSheep|《优秀的绵羊》 / Excellent Sheep]], [[WilliamDeresiewicz]], [[Matilda|《马蒂尔达》]], [[RedPenLogic]], and [[AntiAuthoritarianEducation]] - education-pressure and youth-agency branch added by episode 160.

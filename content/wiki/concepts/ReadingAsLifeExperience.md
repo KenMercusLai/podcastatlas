@@ -2,7 +2,7 @@
 title: "Reading As Life Experience"
 type: concept
 tags: [reading, literature, attention, life-practice]
-sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655]
+sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
 last_updated: 2026-07-14
 ---
 
@@ -14,12 +14,15 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 
 [[tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655]] adds the writer-facing version through [[Xiaojia|小佳]]'s [[FuyouZhishang|《蜉蝣直上》]]. Here reading life experience means encountering family, death, region, ordinary people, and creator vulnerability in prose, not only extracting information about the comedian's career.
 
+[[160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]] adds the child-and-student version through [[Matilda|《马蒂尔达》]]. Reading becomes part of life experience because it can give a child emotional language, a model of resistance, and a way to notice that adults and institutions may be wrong.
+
 ## Key Claims
 - Reading includes bodily and material conditions: paper weight, binding, posture, fatigue, and surroundings can change whether a book is actually read.
 - Reading includes timing: a painful or demanding book can be deferred without losing its legitimacy.
 - Reading includes forgetting and return; summaries, public discussion, and re-reading can reopen a book rather than simply prove failure.
 - Reading can be a form of self-preservation when it lets a person connect with the world while retaining solitude.
 - Treating books only as output, taste signal, or efficiency project misses why reading survives as a life habit.
+- Reading can help a young person sense unfairness and possibility before they can articulate a formal plan.
 
 ## Connections
 - [[QinZong|秦总]] and [[LiWuya|李乌鸦]] - source voices.
@@ -28,3 +31,4 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 - [[NonInstrumentalLiteraryReading]] - fiction's value often appears as experience rather than usable information.
 - [[PersonalKnowledgeEcology]] - books become part of a person's long-term environment for thought.
 - [[FuyouZhishang|《蜉蝣直上》]] and [[MinnanFamilyWriting]] - later source extension into contemporary nonfiction, family memory, and regional texture.
+- [[Matilda|《马蒂尔达》]] and [[AntiAuthoritarianEducation]] - later source extension into children's literature as agency formation.

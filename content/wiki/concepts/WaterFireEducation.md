@@ -2,8 +2,8 @@
 title: "Water And Fire Education"
 type: concept
 tags: [education, ai, agency, learning]
-sources: [e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
-last_updated: 2026-07-09
+sources: [e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
+last_updated: 2026-07-14
 ---
 
 # Water And Fire Education
@@ -14,6 +14,8 @@ The episode does not pretend the current school system disappears immediately. L
 
 [[167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]] adds a more institution-facing K12 version through [[YangLingfeng]]. The "fire" cannot be assumed to appear just because AI is available; many students need [[LearningExperienceDesign]], teachers, schools, and confidence loops to build [[SelfDirectedLearning]] before personalized AI becomes agency rather than shortcut.
 
+[[160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]] adds the negative case for water-only education. [[RedPenLogic]], [[HelicopterParenting]], and [[AchievementPressureMentalHealth]] show what happens when education is reduced to filling, ranking, and correcting: the student may perform well while losing the right to say no and the ability to know what they want.
+
 This makes AI education less about replacing teachers with answer machines and more about individualized exploration. If standard career paths become less reliable under AI, education must help people discover what they care about, how they learn, and how to keep agency when old ladders weaken.
 
 ## Key Claims
@@ -23,6 +25,7 @@ This makes AI education less about replacing teachers with answer machines and m
 - Existing institutions still matter, so parallel practice may be more realistic than immediate replacement.
 - Fire education depends on [[LearningHowToLearn]], self-observation, and sustained practice, not only novelty or entertainment.
 - AI-era fire still needs scaffolding: poorly designed AI can bypass the student's own effort instead of building agency.
+- The absence of fire can be visible even among elite students: external success may coexist with fear, loneliness, and weak self-direction.
 
 ## Connections
 - [[AIAsTutor]] — AI can individualize explanation when the learner remains active.
@@ -32,3 +35,4 @@ This makes AI education less about replacing teachers with answer machines and m
 - [[AIAssistedReading]] and [[ReadingAsFrameTraining]] — reading methods that can support self-directed fire education.
 - [[WetStateHumanAgency]] — inner will and desire are treated as educational material, not noise.
 - [[YangcongXueyuan]], [[SelfDirectedLearning]], [[LearningExperienceDesign]], and [[AIShortcutRisk]] — K12 product and classroom extension.
+- [[ExcellentSheep|《优秀的绵羊》 / Excellent Sheep]], [[RedPenLogic]], [[AntiAuthoritarianEducation]], and [[HelicopterParenting]] — episode 160's warning about score-only education.

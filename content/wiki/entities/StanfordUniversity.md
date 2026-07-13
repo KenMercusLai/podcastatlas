@@ -2,7 +2,7 @@
 title: "Stanford University"
 type: entity
 tags: [university, research, ai, startups]
-sources: [tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-garrytan-final, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, socialradarspod-tonyxu-final]
+sources: [tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-garrytan-final, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, socialradarspod-tonyxu-final, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
 last_updated: 2026-07-12
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-12
 Stanford University is cited in [[using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds]] as one of the report sources behind the episode's discussion of [[TeenChatbotMentalHealthRisk]]. The episode pairs Stanford with [[CommonSenseMedia]] in describing findings about teen AI-chatbot companionship and mental-health support risk.
 
 In this wiki branch, Stanford's first role was institutional rather than biographical: the report source uses it to move AI companion discussion toward minors, professional care boundaries, and [[AIGovernanceAndCompliance]].
+
+[[160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]] adds Stanford as an elite-education mental-health reference through "Stanford Duck Syndrome." In that source, the image of students appearing calm above the water while paddling frantically below it becomes part of [[AchievementPressureMentalHealth]] and the critique of [[IvyLeagueMeritocracy]]: prestige can hide distress as easily as it signals opportunity.
 
 [[socialradarspod-tonyxu-final]] adds Stanford as the educational and startup context for [[DoorDash]]. [[TonyXu]] entered Stanford business school after [[JohnDonahoe]] encouraged him to apply, then worked with [[EvanMoore]], [[StanleyTang]], and [[AndyFang]] in [[StanfordStartupGarage]] before launching [[PaloAltoDelivery]].
 
@@ -29,6 +31,7 @@ In this wiki branch, Stanford's first role was institutional rather than biograp
 - [[DariaGeorgievich]] - expert interviewed about chatbot testing.
 - [[MarketplaceTech]] - show that discussed the report.
 - [[TeenChatbotMentalHealthRisk]] and [[ChatbotSafetyGuardrailDecay]] - concepts grounded by the report discussion.
+- [[AchievementPressureMentalHealth]], [[IvyLeagueMeritocracy]], and [[ExcellentSheep|《优秀的绵羊》 / Excellent Sheep]] - elite-education pressure branch added by 蜜獾吃书 episode 160.
 - [[TonyXu]], [[DoorDash]], [[StanfordStartupGarage]], and [[PaloAltoDelivery]] - startup branch added by The Social Radars.
 - [[GarryTan]], [[YCombinator]], [[StartupSchool]], and [[BuilderCenteredInstitutions]] - founder-formation branch added by the Tan episode.
 - [[ChristinaCacioppo]], [[UnionSquareVentures]], [[Dropbox]], and [[Vanta]] - founder-formation path added by the Christina Cacioppo episode.

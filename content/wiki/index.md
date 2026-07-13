@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [160.优秀的绵羊：请把说“不”的权利还给我](sources/160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014.md) — 蜜獾吃书 episode on 《优秀的绵羊》, 《马蒂尔达》, education pressure, red pen logic, youth mental health, helicopter parenting, Ivy League meritocracy, and restoring the right to say no.
 - [159.要精明，要善良，要解决问题](sources/159-yao-jingming-yao-shanliang-yao-jiejue-wenti-931818201.md) — 蜜獾吃书 episode on 《事已至此，走保险》, 阿健's insurance claims stories, claims information asymmetry, discretionary payment, complaint pressure, claims scalping, catastrophe claims, and child third-party liability.
 - [158.全员名侦探：推理薯片来一包！](sources/158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122.md) — 蜜獾吃书 episode on 《全员嫌疑人》, 《全员名侦探》, 推理薯片, 华生力, closed-circle mystery cases, wrong-theory comedy, and puzzle-first detective-fiction pleasure.
 - [【脱口秀的小佳】蜉蝣直上：可能会飞，迎着天光](sources/tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655.md) — 蜜獾吃书 episode with stand-up comedian 小佳 on 《蜉蝣直上》, mayfly life imagery, Minnan family writing, father-son resentment, women in ordinary life, stage versus prose, review pressure, sales anxiety, and stepping back toward theater.
@@ -346,6 +347,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《优秀的绵羊》 / Excellent Sheep](entities/ExcellentSheep.md) — William Deresiewicz book used by episode 160 to critique elite education, compliant achievement, credential anxiety, and high-performing students losing autonomy.
+- [William Deresiewicz](entities/WilliamDeresiewicz.md) — Author of 《优秀的绵羊》, used by episode 160 as the critic diagnosing elite education's approval-seeking and anti-autonomy effects.
+- [《马蒂尔达》 / Matilda](entities/Matilda.md) — Roald Dahl story and musical frame used by episode 160 to connect children's reading, resistance to unfair authority, and the right to say no.
 - [《事已至此，走保险》](entities/ShiYiZhiCiZouBaoxian.md) — Insurance nonfiction book discussed by 蜜獾吃书 through claims stories, evidence, discretion, complaint pressure, and risk-transfer execution.
 - [阿健](entities/AJianInsuranceWriter.md) — Former insurance claims worker and author whose cases ground episode 159's claims-handling, discretionary-payment, and anti-scalping themes.
 - [小雨伞](entities/XiaoyusanInsurance.md) — Insurance service platform used by episode 159 to discuss consultation and claims assistance under platform-trust constraints.
@@ -2104,6 +2108,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Anti-Authoritarian Education](concepts/AntiAuthoritarianEducation.md) — Education frame from episode 160 that preserves children's ability to say no to unreasonable authority instead of only training compliance.
+- [Red Pen Logic](concepts/RedPenLogic.md) — Internalized scoring habit from episode 160 where people judge themselves, books, views, and life paths as if waiting for a teacher's mark.
+- [Achievement Pressure Mental Health](concepts/AchievementPressureMentalHealth.md) — Youth mental-health risk created when school, family, and status competition become a narrow success-or-shame system.
+- [Ivy League Meritocracy](concepts/IvyLeagueMeritocracy.md) — Episode 160's history of elite U.S. admissions, SAT-style merit, rankings, extracurricular inflation, and status reproduction.
+- [Helicopter Parenting](concepts/HelicopterParenting.md) — Parenting pattern where constant oversight, planning, praise, or pressure turns the child into the parent's project.
 - [Insurance Claims Handling](concepts/InsuranceClaimsHandling.md) — Claims-stage process that turns insured events into covered, denied, discretionary, or negotiated payments through facts, evidence, policy terms, and settlement judgment.
 - [Insurance Claims Information Asymmetry](concepts/InsuranceClaimsInformationAsymmetry.md) — Gap between claimants, insurers, adjusters, platforms, and intermediaries around policy triggers, evidence, incentives, and claim strategy.
 - [Insurance Claims Assistance Platforms](concepts/InsuranceClaimsAssistancePlatforms.md) — Third-party services that help policyholders interpret terms, assemble claim evidence, and communicate with insurers after a loss.
