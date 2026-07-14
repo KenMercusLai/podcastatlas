@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-15] ingest | 168.放学后的小巷：致青春，致那年的友谊【日常推理强势回归！！】
+
+Added source page for the 蜜獾吃书 episode on 钟声离《放学后的小巷》, Chinese daily-life mystery, the first story "不加香菜", tofu-pudding and bicycle clues, adolescent poverty, self-respect, youth friendship, and school-area memory. Created pages for 《放学后的小巷》, 钟声离, 阿里（《放学后的小巷》）, 严良（《放学后的小巷》）, 孟同学（《放学后的小巷》）, Daily-Life Mystery, Dignity-Protecting Deduction, School-Area Memory Ecology, and Chinese Mystery Publishing Ecology; updated overview, index, 蜜獾吃书, 秦总, 北明 / 北民, Puzzle-Snack Mystery, Observation Before Inference, Childhood Reading Ecology, Reading As Life Experience, and Non-Instrumental Literary Reading. No direct contradiction found; the source complements the existing puzzle-mystery branch by showing deduction as a way to notice and protect ordinary dignity.
+
 ## [2026-07-15] ingest | 【闲聊】想送赵露思一本短歌集--编辑推书,无所不用其极！
 
 Added source page for the 蜜獾吃书 × 有问题呀 crossover on 赵露思, 石川啄木, 《短歌是我悲伤的玩具》, editor book promotion, 活人感, internet moral trial, and the cultural pattern where admitting error feels like humiliation. Created pages for Zhao Lusi, Ishikawa Takuboku, 《短歌是我悲伤的玩具》, Han Zhao, 超哥, 有问题呀, Tanka As Everyday Expression, Live Human Feeling, Internet Moral Trial, and Recognition As Humiliation; updated overview, index, and related reading, poetry, creator-pressure, and communication-boundary pages. No direct contradiction found; celebrity-discourse claims are kept source-scoped because the episode itself treats the underlying public information as incomplete and mediated.
@@ -3296,6 +3300,10 @@ Ran lint after health passed. Deterministic checks scanned 4,290 pages and found
 ## [2026-07-15] ingest | 167.命若朝霜：为什么红楼梦不需要悼明？
 
 Added source page for the 蜜獾吃书 episode using 《命若朝霜》 to argue that 《红楼梦》 does not need a 悼明/反清复明 hidden code to be politically serious. Created pages for 《命若朝霜》, 贾母, 贾府, 龄官, Red Chamber Legal Reading, Mourning Ming Reading, Qing Gender Legal Order, Qing Female Inheritance Constraint, Low-Status Registry, Household Troupe Status Boundary, and Confiscation And Female Fate; updated overview, index, 蜜獾吃书, Red Chamber character pages, Suo Yin Reading, Interpretation And Overinterpretation, Classic Reading Complexity, and Female Self-Possession. No direct contradiction found; the source narrows the wiki's existing Red Chamber branch by contrasting evidence-bound legal/social reading with totalizing dynastic-code interpretation.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-15] lint | Wiki health check
 

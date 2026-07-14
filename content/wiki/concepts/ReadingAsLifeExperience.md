@@ -2,7 +2,7 @@
 title: "Reading As Life Experience"
 type: concept
 tags: [reading, literature, attention, life-practice]
-sources: [xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
+sources: [168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
 last_updated: 2026-07-15
 ---
 
@@ -36,6 +36,8 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 
 [[xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770]] adds a short-form emotional version through [[DuanGeShiWoBeishangDeWanju|《短歌是我悲伤的玩具》]]. Reading [[IshikawaTakuboku|石川啄木]] becomes life experience when a listener recognizes a commute, debt, small competitiveness, downhill feeling, or public vulnerability in a few lines rather than in a full explanatory argument.
 
+[[168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535]] adds a school-memory mystery version through [[FangxuehouDeXiaoxiang|《放学后的小巷》]]. The source moves from a [[DailyLifeMystery|日常推理]] plot into QinZong's own memories of transfer grief, friends, used bookstores, arcades, hidden reading, coupon mistakes, and collecting bottles, making the book's alley part of [[SchoolAreaMemoryEcology|放学后记忆生态]] rather than only a fictional setting.
+
 ## Key Claims
 - Reading includes bodily and material conditions: paper weight, binding, posture, fatigue, and surroundings can change whether a book is actually read.
 - Reading includes timing: a painful or demanding book can be deferred without losing its legitimacy.
@@ -52,6 +54,7 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 - A reading project can need rest, place, and household maintenance because books become usable through ordinary life conditions, not only through willpower.
 - Place-based fiction can carry food safety, ecology, transport, and bodily memory into reading, making local knowledge part of literary experience.
 - Very short poems can become life experience when they give a reader language for a day that had felt too small, ugly, or ordinary to write down.
+- A mystery can become life experience when its clues reopen concrete adolescent memories of food, money, school routes, status objects, and friendship.
 
 ## Connections
 - [[QinZong|秦总]] and [[LiWuya|李乌鸦]] - source voices.
@@ -70,3 +73,4 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 - [[RestorativeCreativePacing]] and [[StoryBasedEmpathy]] - holiday episode extension into reading environment, rest, and story-centered understanding.
 - [[Cangcheng|《苍城》]], [[PlaceBasedFiction]], [[YunnanWildMushroomCulture]], and [[NatureContactSelfPerception]] - episode 150 extension into place, food, mountain life, and fiction.
 - [[TankaEverydayExpression]], [[IshikawaTakuboku|石川啄木]], and [[LiveHumanFeeling]] - short-song and public-vulnerability extension.
+- [[FangxuehouDeXiaoxiang|《放学后的小巷》]], [[DailyLifeMystery|日常推理]], and [[SchoolAreaMemoryEcology|放学后记忆生态]] - episode 168's school-memory mystery extension.

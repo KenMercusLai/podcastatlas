@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [168.放学后的小巷：致青春，致那年的友谊【日常推理强势回归！！】](sources/168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535.md) — 蜜獾吃书 episode on 钟声离《放学后的小巷》, 日常推理, a tofu-pudding and bicycle clue chain, youth friendship, poverty, dignity protection, and school-area memory.
 - [167.命若朝霜：为什么红楼梦不需要悼明？](sources/167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324.md) — 蜜獾吃书 episode using 《命若朝霜》 to read 《红楼梦》 through Qing law, inheritance, marriage procedure, low-status performers, confiscation, and why the novel does not need a 悼明 code to be politically serious.
 - [【闲聊】想送赵露思一本短歌集--编辑推书,无所不用其极！](sources/xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770.md) — 蜜獾吃书 × 有问题呀 crossover using 赵露思, 石川啄木, 《短歌是我悲伤的玩具》, 活人感, and internet moral trial to connect poetry, publishing, celebrity vulnerability, and public-expression boundaries.
 - [152.夜色如水话七夕，牛郎原本是保安？【民俗学系列填坑啦】](sources/152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062.md) — 蜜獾吃书 episode on 七夕, 牛郎织女, 乞巧, the Swan Maiden motif, star lore, Song urban festival objects, 刘宗迪《七夕》, and cross-cultural folklore transmission.
@@ -415,6 +416,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《放学后的小巷》](entities/FangxuehouDeXiaoxiang.md) — 钟声离 daily-life mystery collection discussed through a school-side alley, tofu-pudding clues, youth friendship, poverty, and dignity-protecting deduction.
+- [钟声离](entities/ZhongShengli.md) — Author of 《放学后的小巷》, used by episode 168 as a contemporary Chinese daily-life mystery case that reaches beyond the genre's small circle.
+- [阿里（《放学后的小巷》）](entities/AliFangxuehou.md) — Student protagonist whose attention to tofu pudding, bicycle parts, and friend behavior turns deduction into protection rather than exposure.
+- [严良（《放学后的小巷》）](entities/YanLiangFangxuehou.md) — High-performing student whose hidden family pressure and self-respect become the emotional center of the first story's mystery.
+- [孟同学（《放学后的小巷》）](entities/MengTongxueFangxuehou.md) — Friend whose modified bicycle supplies the mechanical clue that 阿里 manages carefully to protect 严良.
 - [Zhao Lusi / 赵露思](entities/ZhaoLusi.md) — Actor/public-figure case used by the episode to discuss 活人感, celebrity vulnerability, and online judgment under incomplete information.
 - [Ishikawa Takuboku / 石川啄木](entities/IshikawaTakuboku.md) — Japanese poet read through short songs that capture fatigue, resentment, tenderness, politics, and ordinary life moments.
 - [《短歌是我悲伤的玩具》](entities/DuanGeShiWoBeishangDeWanju.md) — New Takuboku collection promoted in the episode as emotional language for sensitive, exhausted, and publicly judged readers.
@@ -2589,6 +2595,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [日常推理 / Daily-Life Mystery](concepts/DailyLifeMystery.md) — Mystery mode where small everyday anomalies reveal character, relationship, and hidden pressure rather than spectacular crime alone.
+- [体面保护式推理 / Dignity-Protecting Deduction](concepts/DignityProtectingDeduction.md) — Pattern where a solver completes the deduction by preserving another person's dignity instead of staging public exposure.
+- [放学后记忆生态 / School-Area Memory Ecology](concepts/SchoolAreaMemoryEcology.md) — School-side environment of snacks, bookstores, arcades, transit cards, bikes, secret reading, and adolescent freedom.
+- [国产推理出版生态 / Chinese Mystery Publishing Ecology](concepts/ChineseMysteryPublishingEcology.md) — Publishing, awards, pay, adaptation, and readership context that shapes whether Chinese mystery breaks past small-circle genre audiences.
 - [Tanka As Everyday Expression](concepts/TankaEverydayExpression.md) — Episode frame for short songs as a compact way to write ordinary fatigue, resentment, embarrassment, tenderness, and daily moments.
 - [活人感 / Live Human Feeling](concepts/LiveHumanFeeling.md) — Public-expression concept where rough, imperfect, bounded realness resists fully managed persona without requiring absolute authenticity.
 - [Internet Moral Trial / 互联网审判](concepts/InternetMoralTrial.md) — Pattern where partial online information becomes whole-person condemnation, especially around public figures and creators.

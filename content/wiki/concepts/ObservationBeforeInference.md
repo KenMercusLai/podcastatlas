@@ -2,7 +2,7 @@
 title: "Observation Before Inference"
 type: concept
 tags: [science, reasoning, evidence, fieldwork]
-sources: [185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]
+sources: [168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]
 last_updated: 2026-07-15
 ---
 
@@ -26,6 +26,8 @@ The concept is adjacent to [[BirdwatchingAsAttention]], but it is more explicitl
 
 [[185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]] adds the explicit UFO and pseudoscience version. The episode treats sightings, abduction testimony, blacked-out files, crop-circle patterns, and strange astronomical signals as observations that must be separated from premature alien, miracle, or cover-up interpretations.
 
+[[168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535]] adds a [[DailyLifeMystery|日常推理]] version through [[AliFangxuehou|阿里]]'s reading of tofu pudding and bicycle clues. He has to rule out ordinary explanations for missing cilantro, compare the gear shifter to the wheel set, and separate a partial theft theory from the deeper family-pressure explanation before acting.
+
 ## Key Claims
 - A plausible story is not evidence.
 - Morphology can suggest habits, but external appearance alone can mislead.
@@ -38,6 +40,7 @@ The concept is adjacent to [[BirdwatchingAsAttention]], but it is more explicitl
 - Travel narration can still practice evidence discipline when it distinguishes myth, site interpretation, etymology, and ecological speculation.
 - Effort becomes more productive when the person first improves what they can notice and distinguish.
 - A strange observation can deserve attention without earning the most dramatic explanation; [[ScientificSkepticism]] asks what would count as independent evidence or disconfirmation.
+- Everyday social inference needs the same guardrail: a compassionate explanation should still be grounded in observed routines, checked alternatives, and clue fit.
 
 ## Connections
 - [[BirdwatchingAsAttention]] - attention as the entry point.
@@ -50,3 +53,4 @@ The concept is adjacent to [[BirdwatchingAsAttention]], but it is more explicitl
 - [[Crete]], [[GreekMythology]], [[MinoanCivilization]], and [[IslandExtinctionAfterHumanArrival]] - episode 59's extension into myth, archaeology, etymology, and island natural history.
 - [[LionelMessi]], [[WuQingyuan]], [[AlphaGo]], and [[LuckAsInformationBandwidth]] - episode 172's perception-before-action extension.
 - [[ScientificSkepticism]], [[EvidenceOverTestimony]], [[MemoryContaminationRisk]], [[CTA102]], and [[CropCircleDebunking]] - episode 185's claim-evaluation extension.
+- [[DailyLifeMystery|日常推理]], [[AliFangxuehou|阿里]], and [[DignityProtectingDeduction|体面保护式推理]] - episode 168's ordinary-clue and friendship-protection extension.

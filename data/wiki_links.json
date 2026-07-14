@@ -171,6 +171,10 @@
     "title": "167: 洋葱学园杨临风：用AI制造捷径，是在杀死真学习",
     "url": "/wiki/sources/167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1/"
   },
+  "168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535": {
+    "title": "168.放学后的小巷：致青春，致那年的友谊【日常推理强势回归！！】",
+    "url": "/wiki/sources/168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535/"
+  },
   "171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962": {
     "title": "171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感",
     "url": "/wiki/sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962/"
@@ -1370,6 +1374,10 @@
   "AlgorithmicLabeling": {
     "title": "Algorithmic Labeling",
     "url": "/wiki/concepts/algorithmiclabeling/"
+  },
+  "AliFangxuehou": {
+    "title": "阿里（《放学后的小巷》）",
+    "url": "/wiki/entities/alifangxuehou/"
   },
   "AliKhamenei": {
     "title": "Ali Khamenei",
@@ -3171,6 +3179,10 @@
     "title": "Chinese Model Liberal Arts Constraint",
     "url": "/wiki/concepts/chinesemodelliberalartsconstraint/"
   },
+  "ChineseMysteryPublishingEcology": {
+    "title": "国产推理出版生态 / Chinese Mystery Publishing Ecology",
+    "url": "/wiki/concepts/chinesemysterypublishingecology/"
+  },
   "ChinesePlayerOverseasArbitrage": {
     "title": "Chinese Player Overseas Arbitrage",
     "url": "/wiki/concepts/chineseplayeroverseasarbitrage/"
@@ -3931,6 +3943,10 @@
     "title": "Dai Yusen / 戴雨森",
     "url": "/wiki/entities/daiyusen/"
   },
+  "DailyLifeMystery": {
+    "title": "日常推理 / Daily-Life Mystery",
+    "url": "/wiki/concepts/dailylifemystery/"
+  },
   "DailyMail": {
     "title": "Daily Mail",
     "url": "/wiki/entities/dailymail/"
@@ -4366,6 +4382,10 @@
   "DigitalPreservation": {
     "title": "Digital Preservation",
     "url": "/wiki/concepts/digitalpreservation/"
+  },
+  "DignityProtectingDeduction": {
+    "title": "体面保护式推理 / Dignity-Protecting Deduction",
+    "url": "/wiki/concepts/dignityprotectingdeduction/"
   },
   "DimensionalAllegory": {
     "title": "Dimensional Allegory",
@@ -5274,6 +5294,10 @@
   "FanMin": {
     "title": "Fan Min",
     "url": "/wiki/entities/fanmin/"
+  },
+  "FangxuehouDeXiaoxiang": {
+    "title": "《放学后的小巷》",
+    "url": "/wiki/entities/fangxuehoudexiaoxiang/"
   },
   "FanqieNovel": {
     "title": "番茄小说 / Fanqie Novel",
@@ -9547,6 +9571,10 @@
     "title": "孟婆",
     "url": "/wiki/entities/mengpo/"
   },
+  "MengTongxueFangxuehou": {
+    "title": "孟同学（《放学后的小巷》）",
+    "url": "/wiki/entities/mengtongxuefangxuehou/"
+  },
   "MengYan": {
     "title": "Meng Yan / 孟岩",
     "url": "/wiki/entities/mengyan/"
@@ -12522,6 +12550,10 @@
   "ScalingBrokenProduct": {
     "title": "Scaling Broken Product",
     "url": "/wiki/concepts/scalingbrokenproduct/"
+  },
+  "SchoolAreaMemoryEcology": {
+    "title": "放学后记忆生态 / School-Area Memory Ecology",
+    "url": "/wiki/concepts/schoolareamemoryecology/"
   },
   "ScienceCommunicationDisadvantage": {
     "title": "Science Communication Disadvantage",
@@ -15499,6 +15531,10 @@
     "title": "Yan Junjie",
     "url": "/wiki/entities/yanjunjie/"
   },
+  "YanLiangFangxuehou": {
+    "title": "严良（《放学后的小巷》）",
+    "url": "/wiki/entities/yanliangfangxuehou/"
+  },
   "YangLingfeng": {
     "title": "Yang Lingfeng / 杨凌峰",
     "url": "/wiki/entities/yanglingfeng/"
@@ -15906,6 +15942,10 @@
   "ZhongKui": {
     "title": "钟馗",
     "url": "/wiki/entities/zhongkui/"
+  },
+  "ZhongShengli": {
+    "title": "钟声离",
+    "url": "/wiki/entities/zhongshengli/"
   },
   "ZhongXuegao": {
     "title": "Zhong Xuegao",
