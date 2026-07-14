@@ -2,7 +2,7 @@
 title: "Career Shore Myth"
 type: concept
 tags: [career, workplace, stability, big-company]
-sources: [da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
+sources: [da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
 last_updated: 2026-07-15
 ---
 
@@ -14,6 +14,8 @@ The concept does not say people should avoid large companies. It says the expect
 
 [[sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]] adds the civil-service and graduate-exam version through [[QianJing|钱静]]. The source does not dismiss public-sector work; it asks whether the person actually fits the role, pressure, team coordination, and value-exchange logic. Stability comes less from occupying a supposedly safe seat than from continuously creating value and knowing why one is on that track.
 
+[[vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]] adds the social-clock failure version. [[FuYu|傅宇]] describes students planning GPA, internships, and "上岸" earlier while parents also notice that strong credentials can lead to disappointing work. The episode's [[HikikomoriStrategicRetreat]] frame treats pausing as a possible response when the promised shore no longer feels credible.
+
 ## Key Claims
 
 - "上岸" is dangerous when it turns a temporary system into a promised life destination.
@@ -22,6 +24,7 @@ The concept does not say people should avoid large companies. It says the expect
 - Career planning becomes more realistic when people hold big-company work as a stage, not as a final identity.
 - The myth is especially tempting for people who climbed through education, migration, and family sacrifice because the large company can look like proof that the climb is complete.
 - Exiting a large company does not automatically mean freedom, but it can reveal which forms of autonomy, income, family support, and self-directed work remain possible.
+- Vol.102 adds that "上岸" pressure can start earlier when students internalize weak opportunity conditions before graduation.
 
 ## Connections
 
@@ -33,3 +36,4 @@ The concept does not say people should avoid large companies. It says the expect
 - [[GraduationAnxiety]] — earlier career stage where the search for a stable shore can begin.
 - [[QianJing|钱静]], [[ObjectiveSelfOwnership]], and [[ActionAgainstAnxiety]] - civil-service and exam-pressure extension.
 - [[ImperialExaminationAsOnlyExit]] - older credential-monopoly analogue.
+- [[GraduationAnxiety]], [[HikikomoriStrategicRetreat]], and [[YouthHappinessAfterGrowth]] - vol.102's social-clock and strategic-pause extension.

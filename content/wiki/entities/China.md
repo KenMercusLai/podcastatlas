@@ -1,9 +1,9 @@
 ---
 title: "China"
 type: entity
-tags: [country, geopolitics, technology, investment, family-law, football, aviation, consumer, tourism, space, manufacturing, batteries, disaster-history]
-sources: [65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, no-203-businiao-lanshili-979295393, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
-last_updated: 2026-07-14
+tags: [country, geopolitics, technology, investment, family-law, football, aviation, consumer, tourism, space, manufacturing, batteries, disaster-history, youth]
+sources: [65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, no-203-businiao-lanshili-979295393, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
+last_updated: 2026-07-15
 ---
 
 # China
@@ -32,6 +32,8 @@ In the source, China is less a domestic-policy subject than a strategic counterp
 
 [[vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]] adds China as a trade and industrial-competition reference inside the Trump 2.0 policy discussion. The episode argues that once U.S. hawks frame trade deficits, offshoring, and manufacturing loss as [[SupplyChainSovereignty]] and defense-industrial problems, China becomes harder to engage through ordinary business logic alone.
 
+[[vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]] adds China as the comparison side of a Japan-youth discussion. The episode uses Chinese university confidence surveys, mortgage prepayment, social-media labels, and "上岸" pressure to connect [[MacroNarrativeAnxiety]], [[GraduationAnxiety]], [[CareerShoreMyth]], [[HouseholdBalanceSheetRepair]], and [[AlgorithmicLabeling]] to [[YouthHappinessAfterGrowth]].
+
 ## Connections
 - [[YangtzeRiver]], [[HanRiver]], [[Hubei]], [[Wuhan]], [[Hankou]], and [[Gaoyou]] - disaster-history geography added by episode 65.
 - [[NationalistGovernment]], [[SongZiwen]], [[WuLiande]], [[JohnHopeSimpson]], and [[ChinaInternationalFamineReliefCommission]] - Republican-era relief network added by episode 65.
@@ -49,3 +51,4 @@ In the source, China is less a domestic-policy subject than a strategic counterp
 - [[Moon]], [[ArtemisAccords]], [[Russia]], and [[LunarResourceGovernance]] - lunar diplomacy and resource-governance branch added by Marketplace Tech.
 - [[CATL]], [[BYD]], [[ATL]], [[TenCitiesThousandVehicles]], [[PowerBatteryWhitelist]], [[PowerBatteryIndustryChain]], and [[LocalBatteryIndustrialClusters]] - power-battery industrialization branch added by E229.
 - [[UnitedStates]], [[PeterNavarro]], [[TradeReciprocityProtectionism]], [[SupplyChainSovereignty]], and [[AmericanProtectionistTradition]] - Trump 2.0 trade-policy branch added by Qizhulou Yan Binke.
+- [[MacroNarrativeAnxiety]], [[GraduationAnxiety]], [[CareerShoreMyth]], [[HouseholdBalanceSheetRepair]], and [[AlgorithmicLabeling]] - youth, household, and information-environment branch added by Qizhulou vol.102.

@@ -2,8 +2,8 @@
 title: "Attention Industrialization"
 type: concept
 tags: [attention, media, ai, platforms]
-sources: [e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]
-last_updated: 2026-07-09
+sources: [e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
+last_updated: 2026-07-15
 ---
 
 # Attention Industrialization
@@ -14,6 +14,8 @@ The concept connects platform incentives to AI risk. The danger is not only that
 
 [[e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]] adds the practice response through [[FeedCuration]]. [[LiJigang]] limits WeChat contacts, public accounts, RSS feeds, and daily inputs to increase signal density. The episode treats constraint as freedom: reducing intake can protect the person's capacity to see, think, and connect.
 
+[[vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]] adds the social-label version through [[AlgorithmicLabeling]]. The source argues that platforms reward simple, emotional, binary categories, so young people may start interpreting classmates, roommates, and gender debates through labels before slower understanding can happen.
+
 ## Key Claims
 - "Free" algorithmic services often carry a hidden price in attention and behavioral shaping.
 - Industrialized mental food can be abundant while still being low quality.
@@ -21,6 +23,7 @@ The concept connects platform incentives to AI risk. The danger is not only that
 - Good AI use requires attention hygiene, not only stronger tools.
 - Public or educational AI infrastructure has a different social meaning from commercial services that directly target the brain and attention.
 - Feed curation is an active countermeasure: users can design input constraints before industrialized attention systems shape them by default.
+- Vol.102 adds that industrialized attention can harm relationships by making social labels easier to consume than complex people.
 
 ## Connections
 - [[AIUsePacing]] — individual discipline for limiting AI-created work and information consumption.
@@ -29,3 +32,4 @@ The concept connects platform incentives to AI risk. The danger is not only that
 - [[LanguagePrecision]] — words and symbols help decide what people notice and how they interpret it.
 - [[AILiteracyAgainstWorship]] — education should teach people to resist capture before tool optimization.
 - [[FeedCuration]] and [[WetStateHumanAgency]] — E45's input-governance and self-presence extension.
+- [[AlgorithmicLabeling]], [[EmpathyBoundaries]], and [[SocialTrustAndHappiness]] - vol.102's social-relationship extension.

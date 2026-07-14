@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [vol.102.熬过就业冰河期的日本年轻人，去哪里寻找幸福感？](sources/vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn.md) — 起朱楼宴宾客 crossover with 轻刀快马 on Japan's employment ice age, NISA, inflation, social trust, micro-happiness, hidden youth, algorithmic labeling, empathy boundaries, and young people's search for happiness after growth confidence weakens.
 - [vol.101.既安全、收益又高、流动性还好的投资到底存在吗？](sources/vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg.md) — 起朱楼宴宾客 episode on the return-safety-liquidity investment impossible triangle, Yu'e Bao, liquidity management, safety as volatility versus permanent loss, scarcity premiums, and portfolio-level asset allocation.
 - [186.让你笑到头掉仍不忘思考，伟大的《消逝世界漫游指南》](sources/186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210.md) — 蜜獾吃书 episode on Douglas Adams and Mark Carwardine's 《消逝世界漫游指南》, using British humor, travel absurdity, and field observation to examine endangered species, conservation failure, tourism spectacle, functional extinction, and the human role as both destroyer and repair agent.
 - [185.魔鬼出没的世界：关于阴谋论、UFO与科学精神](sources/185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368.md) — 蜜獾吃书 episode on Carl Sagan, 《魔鬼出没的世界》, UFO culture, alien abduction narratives, crop circles, pseudoscience fraud, scientific skepticism, and evidence discipline.
@@ -401,6 +402,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [傅宇 / Fu Yu](entities/FuYu.md) — 起朱楼宴宾客-side speaker in vol.102, connecting youth surveys, household balance-sheet repair, education pressure, and happiness after weakening personal-future confidence.
+- [大老师 / Dalaoshi](entities/Dalaoshi.md) — 轻刀快马-side speaker in vol.102, using Japan-based observations on NISA, company belonging, hidden youth, and everyday calm to compare happiness paths.
+- [轻刀快马 / Qingdao Kuaima](entities/QingdaoKuaima.md) — Podcast crossover partner for vol.102, represented through Japan-side examples and youth/social-trust discussion.
+- [《完美的日子》 / Perfect Days](entities/PerfectDays.md) — Film example used by vol.102 to discuss ordered daily life, artisanal attention, and calm after expansion narratives fade.
+- [《0.5 的男人》 / 0.5 no Otoko](entities/ZeroPointFiveNoOtoko.md) — Japanese drama used by vol.102 to discuss hidden youth, NEET-like withdrawal, and de-stigmatizing strategic retreat.
 - [Yu'e Bao / 余额宝](entities/YueBao.md) — Product case for how yield, payment-linked liquidity, perceived safety, and the interest-rate environment can make an asset's attractiveness change over time.
 - [《消逝世界漫游指南》 / Last Chance to See](entities/LastChanceToSee.md) — Douglas Adams and Mark Carwardine endangered-species travel book read as humorous conservation writing and last-chance ecological witnessing.
 - [Douglas Adams / 道格拉斯·亚当斯](entities/DouglasAdams.md) — Author whose comedy, science imagination, and self-mocking travel voice make endangered-species writing funny without making extinction trivial.
@@ -2500,6 +2506,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [NISA](concepts/NISA.md) — Japanese tax-advantaged investment-account frame used by vol.102 to discuss inflation, retirement pressure, market distrust, and the attention cost of household investing.
+- [Japanese Lost Decades](concepts/JapaneseLostDecades.md) — Post-bubble low-growth frame used by vol.102 to connect confidence loss, employment ice age memory, and post-growth happiness.
+- [Employment Ice Age Generation](concepts/EmploymentIceAgeGeneration.md) — Japanese cohort frame for weaker labor-market entry, lower asset accumulation, retirement pressure, and de-stigmatized stalled lives.
+- [Household Balance-Sheet Repair](concepts/HouseholdBalanceSheetRepair.md) — Private deleveraging frame where debt repayment buys certainty for households while potentially weakening aggregate demand.
+- [Youth Happiness After Growth](concepts/YouthHappinessAfterGrowth.md) — Synthesis for how young people look for happiness when macro growth, upward mobility, and older education promises feel less reliable.
+- [Social Trust And Happiness](concepts/SocialTrustAndHappiness.md) — Happiness frame linking income and employment to family/friend support, clubs, interest groups, companions, and social trust.
+- [Micro-Happiness](concepts/MicroHappiness.md) — Small, concrete happiness moments that become anchors when ambient pessimism and macro uncertainty rise.
+- [Hikikomori Strategic Retreat](concepts/HikikomoriStrategicRetreat.md) — Vol.102 frame for hidden youth and paused social clocks as possible low-energy self-protection after tactical optimization fails.
+- [Artisanal Attention](concepts/ArtisanalAttention.md) — Focused, long-term practice or routine that creates order and happiness when outward achievement narratives weaken.
+- [Algorithmic Labeling](concepts/AlgorithmicLabeling.md) — Social-media pattern where complex people are compressed into class, gender, or identity tags that spill into offline relationships.
+- [Empathy Boundaries](concepts/EmpathyBoundaries.md) — Boundary-aware empathy frame where understanding another person's logic does not require unlimited acceptance or self-erasure.
 - [Investment Impossible Triangle](concepts/InvestmentImpossibleTriangle.md) — Investing framework that treats high return, high safety, and high liquidity as a tradeoff unless hidden risk, fraud, or scarcity explains the exception.
 - [Investment Liquidity Tradeoff](concepts/InvestmentLiquidityTradeoff.md) — Liquidity planning frame for when easy exit helps, when it harms long-term behavior, and how locked products, ladders, or allocation manage cash needs.
 - [Asset Scarcity Premium](concepts/AssetScarcityPremium.md) — Fourth-attribute frame where regulatory windows, capacity limits, finite supply, or access scarcity may temporarily improve an asset's return-safety-liquidity balance.

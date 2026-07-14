@@ -3188,3 +3188,11 @@ Added source page for the 起朱楼宴宾客 episode on the return-safety-liquid
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-15] ingest | vol.102.熬过就业冰河期的日本年轻人，去哪里寻找幸福感？
+
+Added source page for the 起朱楼宴宾客 crossover with 轻刀快马 on Japan's employment ice age generation, NISA, inflation, household balance-sheet repair, youth confidence, social trust, micro-happiness, hidden youth, algorithmic labeling, empathy boundaries, and happiness after growth expectations weaken. Created pages for 傅宇, 大老师, 轻刀快马, 《完美的日子》, 《0.5 的男人》, NISA, Japanese Lost Decades, Employment Ice Age Generation, Household Balance-Sheet Repair, Youth Happiness After Growth, Social Trust And Happiness, Micro-Happiness, Hikikomori Strategic Retreat, Artisanal Attention, Algorithmic Labeling, and Empathy Boundaries; updated overview, index, 起朱楼宴宾客, Japan, China, Macro Narrative Anxiety, Career Shore Myth, Graduation Anxiety, Achievement Pressure Mental Health, Empathy As Aesthetic Capacity, Attention Industrialization, Information Overload Knowledge Trap, and Rumination Vs Reflection. No direct contradiction found; the source complements the wiki's existing investment, education-pressure, and macro-anxiety branches by tying economic confidence and social trust to everyday sources of happiness.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

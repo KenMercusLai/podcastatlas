@@ -1331,6 +1331,10 @@
     "title": "Alfred Hitchcock / 希区柯克",
     "url": "/wiki/entities/alfredhitchcock/"
   },
+  "AlgorithmicLabeling": {
+    "title": "Algorithmic Labeling",
+    "url": "/wiki/concepts/algorithmiclabeling/"
+  },
   "AliKhamenei": {
     "title": "Ali Khamenei",
     "url": "/wiki/entities/alikhamenei/"
@@ -1778,6 +1782,10 @@
   "ArthurSchopenhauer": {
     "title": "Arthur Schopenhauer / 叔本华",
     "url": "/wiki/entities/arthurschopenhauer/"
+  },
+  "ArtisanalAttention": {
+    "title": "Artisanal Attention",
+    "url": "/wiki/concepts/artisanalattention/"
   },
   "ArtisticAchievementMoralAccountability": {
     "title": "Artistic Achievement Moral Accountability",
@@ -3835,6 +3843,10 @@
     "title": "Daishen",
     "url": "/wiki/entities/daishen/"
   },
+  "Dalaoshi": {
+    "title": "大老师 / Dalaoshi",
+    "url": "/wiki/entities/dalaoshi/"
+  },
   "DaliContainerShip": {
     "title": "Dali Container Ship",
     "url": "/wiki/entities/dalicontainership/"
@@ -4803,6 +4815,10 @@
     "title": "Empathy As Aesthetic Capacity",
     "url": "/wiki/concepts/empathyasaestheticcapacity/"
   },
+  "EmpathyBoundaries": {
+    "title": "Empathy Boundaries",
+    "url": "/wiki/concepts/empathyboundaries/"
+  },
   "EmpathyCircleExpansion": {
     "title": "Empathy Circle Expansion",
     "url": "/wiki/concepts/empathycircleexpansion/"
@@ -4822,6 +4838,10 @@
   "EmployeeSeveranceAtShutdown": {
     "title": "Employee Severance at Shutdown",
     "url": "/wiki/concepts/employeeseveranceatshutdown/"
+  },
+  "EmploymentIceAgeGeneration": {
+    "title": "Employment Ice Age Generation",
+    "url": "/wiki/concepts/employmenticeagegeneration/"
   },
   "EnergyTradingScaleAdvantage": {
     "title": "Energy Trading Scale Advantage",
@@ -5731,6 +5751,10 @@
     "title": "Frontline AI Enablement",
     "url": "/wiki/concepts/frontlineaienablement/"
   },
+  "FuYu": {
+    "title": "傅宇 / Fu Yu",
+    "url": "/wiki/entities/fuyu/"
+  },
   "FugitiveTemporality": {
     "title": "Fugitive Temporality",
     "url": "/wiki/concepts/fugitivetemporality/"
@@ -6591,6 +6615,10 @@
     "title": "Hightouch",
     "url": "/wiki/entities/hightouch/"
   },
+  "HikikomoriStrategicRetreat": {
+    "title": "Hikikomori Strategic Retreat",
+    "url": "/wiki/concepts/hikikomoristrategicretreat/"
+  },
   "HillaryClinton": {
     "title": "Hillary Clinton",
     "url": "/wiki/entities/hillaryclinton/"
@@ -6734,6 +6762,10 @@
   "HouseOfMedici": {
     "title": "House of Medici / 美第奇家族",
     "url": "/wiki/entities/houseofmedici/"
+  },
+  "HouseholdBalanceSheetRepair": {
+    "title": "Household Balance-Sheet Repair",
+    "url": "/wiki/concepts/householdbalancesheetrepair/"
   },
   "HouseholdRobotDataFlywheel": {
     "title": "Household Robot Data Flywheel",
@@ -7338,6 +7370,10 @@
   "JapaneseImperialSuccession": {
     "title": "Japanese Imperial Succession",
     "url": "/wiki/concepts/japaneseimperialsuccession/"
+  },
+  "JapaneseLostDecades": {
+    "title": "Japanese Lost Decades",
+    "url": "/wiki/concepts/japaneselostdecades/"
   },
   "JaredKushner": {
     "title": "Jared Kushner",
@@ -9263,6 +9299,10 @@
     "title": "Mico World",
     "url": "/wiki/entities/micoworld/"
   },
+  "MicroHappiness": {
+    "title": "Micro-Happiness",
+    "url": "/wiki/concepts/microhappiness/"
+  },
   "MicronTechnology": {
     "title": "Micron Technology",
     "url": "/wiki/entities/microntechnology/"
@@ -9654,6 +9694,10 @@
   "NATOAllianceCredibility": {
     "title": "NATO Alliance Credibility",
     "url": "/wiki/concepts/natoalliancecredibility/"
+  },
+  "NISA": {
+    "title": "NISA",
+    "url": "/wiki/concepts/nisa/"
   },
   "NPR": {
     "title": "NPR",
@@ -10503,6 +10547,10 @@
     "title": "People's Bank of China",
     "url": "/wiki/entities/peoplesbankofchina/"
   },
+  "PerfectDays": {
+    "title": "《完美的日子》 / Perfect Days",
+    "url": "/wiki/entities/perfectdays/"
+  },
   "PerformanceFootwearMarket": {
     "title": "Performance Footwear Market",
     "url": "/wiki/concepts/performancefootwearmarket/"
@@ -11206,6 +11254,10 @@
   "QingdaoClipperYacht": {
     "title": "青岛号",
     "url": "/wiki/entities/qingdaoclipperyacht/"
+  },
+  "QingdaoKuaima": {
+    "title": "轻刀快马 / Qingdao Kuaima",
+    "url": "/wiki/entities/qingdaokuaima/"
   },
   "QishuiMusic": {
     "title": "汽水音乐 / Qishui Music",
@@ -12598,6 +12650,10 @@
   "SocialSignalInterpretation": {
     "title": "Social Signal Interpretation",
     "url": "/wiki/concepts/socialsignalinterpretation/"
+  },
+  "SocialTrustAndHappiness": {
+    "title": "Social Trust And Happiness",
+    "url": "/wiki/concepts/socialtrustandhappiness/"
   },
   "SodiumIonBatteryStorage": {
     "title": "Sodium-Ion Battery Storage",
@@ -15099,6 +15155,10 @@
     "title": "Youth Football Development System",
     "url": "/wiki/concepts/youthfootballdevelopmentsystem/"
   },
+  "YouthHappinessAfterGrowth": {
+    "title": "Youth Happiness After Growth",
+    "url": "/wiki/concepts/youthhappinessaftergrowth/"
+  },
   "YouyouAgent": {
     "title": "Youyou Agent",
     "url": "/wiki/entities/youyouagent/"
@@ -15178,6 +15238,10 @@
   "Zenefits": {
     "title": "Zenefits",
     "url": "/wiki/entities/zenefits/"
+  },
+  "ZeroPointFiveNoOtoko": {
+    "title": "《0.5 的男人》 / 0.5 no Otoko",
+    "url": "/wiki/entities/zeropointfivenootoko/"
   },
   "ZeroTrustSecurity": {
     "title": "Zero Trust Security",
@@ -16462,6 +16526,10 @@
   "vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg": {
     "title": "vol.101.既安全、收益又高、流动性还好的投资到底存在吗？",
     "url": "/wiki/sources/vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg/"
+  },
+  "vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn": {
+    "title": "vol.102.熬过就业冰河期的日本年轻人，去哪里寻找幸福感？",
+    "url": "/wiki/sources/vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn/"
   },
   "vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu": {
     "title": "Vol.113 从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络",

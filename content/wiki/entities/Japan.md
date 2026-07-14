@@ -1,9 +1,9 @@
 ---
 title: "Japan"
 type: entity
-tags: [country, politics, law, society, consumer, tourism]
-sources: [missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
-last_updated: 2026-07-10
+tags: [country, politics, law, society, consumer, tourism, economy, youth]
+sources: [missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
+last_updated: 2026-07-15
 ---
 
 # Japan
@@ -18,6 +18,8 @@ Japan also appears in [[snap-judgement-japan-pms-electoral-landslide-6989c0fc61b
 
 [[142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]] adds Japan as a consumer-experience benchmark. [[FengTouQuan]] uses [[KiyosumiShirakawa]], [[BlueBottleCoffee]], [[Kyoto]], [[TokyoDisneyResort]], and [[Sanrio]] to describe Japan as slower, more healing, less aggressively marketed, and stronger at [[ExperienceLedBrand]], [[AuthenticNeighborhoodExperience]], and [[LongTermPlaceOperation]] than China-style high-efficiency consumer infrastructure.
 
+[[vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]] adds Japan as a low-growth youth-happiness mirror. [[QizhulouYanBinke|起朱楼宴宾客]] and [[QingdaoKuaima|轻刀快马]] connect [[JapaneseLostDecades]], [[EmploymentIceAgeGeneration]], inflation, [[NISA]], company-belonging change, hidden youth, and [[PerfectDays|《完美的日子》]] to the search for [[YouthHappinessAfterGrowth]], [[SocialTrustAndHappiness]], and [[ArtisanalAttention]].
+
 ## Connections
 - [[JointCustodyReform]] - family-law change from the newer source.
 - [[CleanBreakDivorceModel]] - social norm the custody reform challenges.
@@ -28,4 +30,6 @@ Japan also appears in [[snap-judgement-japan-pms-electoral-landslide-6989c0fc61b
 - [[FilialPietyLaws]] and [[ElderCareStateCapacity]] - elder-care comparison branch added by the Peace fire episode.
 - [[KiyosumiShirakawa]], [[Kyoto]], [[TokyoDisneyResort]], and [[Sanrio]] - consumer-experience and tourism branch added by FengTouQuan episode 142.
 - [[ExperienceLedBrand]], [[AuthenticNeighborhoodExperience]], [[LongTermPlaceOperation]], and [[ImageFirstIP]] - Japan-side concepts added by the consumer comparison source.
+- [[JapaneseLostDecades]], [[EmploymentIceAgeGeneration]], [[NISA]], and [[HikikomoriStrategicRetreat]] - low-growth, investing, and youth-pressure branch added by vol.102.
+- [[YouthHappinessAfterGrowth]], [[SocialTrustAndHappiness]], [[MicroHappiness]], and [[ArtisanalAttention]] - happiness branch added by vol.102.
 - [[TheIntelligence]] - source podcast context.

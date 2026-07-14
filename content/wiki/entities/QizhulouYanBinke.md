@@ -2,7 +2,7 @@
 title: "起朱楼宴宾客 / Qizhulou Yan Binke"
 type: entity
 tags: [podcast, politics, business, investing]
-sources: [vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg]
+sources: [vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
 last_updated: 2026-07-15
 ---
 
@@ -14,8 +14,12 @@ The episode is explicitly cautious about expertise. It presents the discussion a
 
 [[vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg]] adds the show's personal-finance and asset-allocation side. The episode uses [[YueBao|余额宝]], household liquidity, product lockups, diversification, and scarcity to explain [[InvestmentImpossibleTriangle]], [[InvestmentLiquidityTradeoff]], [[AssetScarcityPremium]], and portfolio-level [[AssetAllocation]] for ordinary investors.
 
+[[vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]] adds the show's youth, confidence, and social-trust side through a crossover with [[QingdaoKuaima|轻刀快马]]. [[FuYu|傅宇]] connects Japanese inflation, [[NISA]], [[EmploymentIceAgeGeneration|employment ice age]] pressure, [[HouseholdBalanceSheetRepair]], and Chinese youth surveys to [[YouthHappinessAfterGrowth]], [[SocialTrustAndHappiness]], and [[HikikomoriStrategicRetreat]].
+
 ## Connections
 - [[DonaldTrump]], [[Project2025]], and [[TrumpismInstitutionalization]] — main subject of the ingested episode.
 - [[AdministrativeStateDismantling]], [[MeritBasedImmigrationFilter]], and [[TradeReciprocityProtectionism]] — policy themes developed by the source.
 - [[UnitedStates]] — national context for the episode.
 - [[InvestmentImpossibleTriangle]], [[InvestmentLiquidityTradeoff]], and [[AssetScarcityPremium]] — investing framework added by the vol.101 source.
+- [[QingdaoKuaima|轻刀快马]], [[FuYu|傅宇]], and [[Dalaoshi|大老师]] — crossover and speaker context for vol.102.
+- [[NISA]], [[JapaneseLostDecades]], [[YouthHappinessAfterGrowth]], and [[SocialTrustAndHappiness]] — Japan/youth happiness branch added by vol.102.

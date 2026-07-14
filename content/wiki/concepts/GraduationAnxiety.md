@@ -2,8 +2,8 @@
 title: "Graduation Anxiety"
 type: concept
 tags: [career, education, work]
-sources: [ep36-di-yi-pi-you-biye-jiaolv-de-00-hou-kaishi-xuehui-yong-shixi-yinzhen-zhike-lj5s97tbtj2gly7oppujgsv3cgk8, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1]
-last_updated: 2026-07-07
+sources: [ep36-di-yi-pi-you-biye-jiaolv-de-00-hou-kaishi-xuehui-yong-shixi-yinzhen-zhike-lj5s97tbtj2gly7oppujgsv3cgk8, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
+last_updated: 2026-07-15
 ---
 
 # Graduation Anxiety
@@ -12,12 +12,15 @@ Graduation anxiety is the pressure students feel when school is ending, labor-ma
 
 [[vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1]] extends the anxiety earlier, into the moment just after gaokao. AI makes students and parents worry about whether majors, programming, internships, graduate school, or civil-service exams will still make sense four years later, but the hosts treat university as a buffer period for [[LearningHowToLearn]] and [[CollegeCareerPreparation]] rather than a period to predict everything upfront.
 
+[[vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]] adds a confidence-data version. [[FuYu|傅宇]] says survey work already showed a split by 2020: confidence in national development remained stronger than confidence in personal development. The source links that split to students planning GPA, internships, and "上岸" pathways earlier while feeling that individual effort may no longer return what older education narratives promised.
+
 ## Key Claims
 - The episode treats internship accumulation as both a labor-market response and an emotional regulation strategy.
 - Competition, peer comparison, resume gaps, and unclear direction can make work feel safer than reflection.
 - Graduate school, civil-service exams, gap years, and repeated internships can all function as different ways of managing risk under uncertainty.
 - Anxiety relief is not the same as direction; the episode warns that work can become "drink poison to quench thirst" if it only numbs the pressure.
 - AI anxiety can begin before college, but trying to forecast the whole market is weaker than building adaptable skills and evidence during the undergraduate years.
+- Vol.102 adds that graduation anxiety can start before graduation as a loss of personal-future confidence, not only as a resume-timing problem.
 
 ## Connections
 - [[InternshipAsCareerExploration]] — more deliberate alternative to anxious accumulation.
@@ -25,3 +28,4 @@ Graduation anxiety is the pressure students feel when school is ending, labor-ma
 - [[WorkplaceHiddenRules]] — anxiety often grows when students enter organizations without knowing implicit norms.
 - [[Shuixian]] and [[Mannisen]] — speaker perspectives that define the tension.
 - [[CollegeMajorChoice]], [[CollegeCareerPreparation]], and [[LearningHowToLearn]] — Vol. 169's earlier source of anxiety and response.
+- [[MacroNarrativeAnxiety]], [[CareerShoreMyth]], [[AchievementPressureMentalHealth]], and [[YouthHappinessAfterGrowth]] — vol.102's confidence, effort, and life-route extension.
