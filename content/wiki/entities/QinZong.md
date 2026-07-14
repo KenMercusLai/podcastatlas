@@ -2,8 +2,8 @@
 title: "秦总"
 type: entity
 tags: [host, books, career, life-design, caregiving, reading, publishing]
-sources: [40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308, 46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010]
-last_updated: 2026-07-14
+sources: [40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308, 46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010]
+last_updated: 2026-07-15
 ---
 
 # 秦总
@@ -28,6 +28,8 @@ Her life-restart answers give the source much of its emotional weight. She first
 
 [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]] adds her literary-gossip and author-biography discussion role with [[Beimin|北民]]. The episode treats gossip as entertaining but source-limited material, using [[LiteraryGossipAsContext]], [[AuthorMythDeflation]], and [[OccultPseudoscienceLiteraryModernity]] to make canonical writers feel historically embodied without turning anecdote into total explanation.
 
+[[82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589]] continues that role in the second great-writer gossip installment. QinZong helps move through Byron, Balzac, Poe, Christie, and London while keeping the episode's lighter tone tied to [[LiteraryGossipAsContext]] and [[AuthorMythDeflation]].
+
 ## Connections
 
 - [[MihuanChishu|蜜獾吃书]] and [[Ritan|日谈]] - show and crossover context.
@@ -45,3 +47,4 @@ Her life-restart answers give the source much of its emotional weight. She first
 - [[AnQi|安琪]], [[HadiyaHaidari|哈迪亚·海达里]], [[AfghanWomenFirstPersonWriting]], and [[LiteraryPublishingAsMaterialSupport]] - episode 156's women-writing and publishing branch.
 - [[Ajiao|阿娇 / 柱子哥]], [[HadiyaRescueEvent|哈迪亚营救事件]], [[PublicIllnessWriting]], and [[HospiceCare]] - episode 184's rescue, illness-writing, and death-facing branch.
 - [[LiteraryGossipAsContext]], [[AuthorMythDeflation]], and [[OccultPseudoscienceLiteraryModernity]] - episode 60's author-biography and great-writer gossip branch.
+- [[82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589]], [[LordByron]], [[AgathaChristie]], and [[JackLondon]] - second great-writer gossip branch.

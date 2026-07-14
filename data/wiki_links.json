@@ -327,6 +327,10 @@
     "title": "74.全球上瘾：啊，咖啡！我黑色的阿波罗！",
     "url": "/wiki/sources/74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763/"
   },
+  "82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589": {
+    "title": "82.闲聊伟大作家的八卦（第二弹）",
+    "url": "/wiki/sources/82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589/"
+  },
   "8848": {
     "title": "8848",
     "url": "/wiki/entities/8848/"
@@ -959,6 +963,10 @@
     "title": "AdWords",
     "url": "/wiki/entities/adwords/"
   },
+  "AdaLovelace": {
+    "title": "Ada Lovelace / 艾达·洛夫莱斯",
+    "url": "/wiki/entities/adalovelace/"
+  },
   "AdamBain": {
     "title": "Adam Bain",
     "url": "/wiki/entities/adambain/"
@@ -1086,6 +1094,10 @@
   "Agan": {
     "title": "Agan",
     "url": "/wiki/entities/agan/"
+  },
+  "AgathaChristie": {
+    "title": "Agatha Christie / 阿加莎·克里斯蒂",
+    "url": "/wiki/entities/agathachristie/"
   },
   "AgentData": {
     "title": "Agent Data",
@@ -4371,6 +4383,10 @@
     "title": "Eddy Lu",
     "url": "/wiki/entities/eddylu/"
   },
+  "EdgarAllanPoe": {
+    "title": "Edgar Allan Poe / 爱伦·坡",
+    "url": "/wiki/entities/edgarallanpoe/"
+  },
   "EdgeCloudAIBoundary": {
     "title": "Edge-Cloud AI Boundary",
     "url": "/wiki/concepts/edgecloudaiboundary/"
@@ -6299,6 +6315,10 @@
     "title": "Honor",
     "url": "/wiki/entities/honor/"
   },
+  "HonoreDeBalzac": {
+    "title": "Honore de Balzac / 巴尔扎克",
+    "url": "/wiki/entities/honoredebalzac/"
+  },
   "Hookie": {
     "title": "Hookie",
     "url": "/wiki/entities/hookie/"
@@ -6835,6 +6855,10 @@
     "title": "J.R.R. Tolkien / 托尔金",
     "url": "/wiki/entities/jrrtolkien/"
   },
+  "JackLondon": {
+    "title": "Jack London / 杰克·伦敦",
+    "url": "/wiki/entities/jacklondon/"
+  },
   "JackTheRipper": {
     "title": "Jack the Ripper",
     "url": "/wiki/entities/jacktheripper/"
@@ -7122,6 +7146,10 @@
   "JohnPhillips": {
     "title": "John Phillips",
     "url": "/wiki/entities/johnphillips/"
+  },
+  "JohnPolidori": {
+    "title": "John Polidori / 约翰·波利多里",
+    "url": "/wiki/entities/johnpolidori/"
   },
   "JohnPrideaux": {
     "title": "John Prideaux",
@@ -8003,6 +8031,10 @@
     "title": "Looped",
     "url": "/wiki/entities/looped/"
   },
+  "LordByron": {
+    "title": "Lord Byron / 拜伦",
+    "url": "/wiki/entities/lordbyron/"
+  },
   "LordOfLight": {
     "title": "《光明王》 / Lord of Light",
     "url": "/wiki/entities/lordoflight/"
@@ -8374,6 +8406,10 @@
   "MaryAnnNichols": {
     "title": "Mary Ann Nichols",
     "url": "/wiki/entities/maryannnichols/"
+  },
+  "MaryShelley": {
+    "title": "Mary Shelley / 玛丽·雪莱",
+    "url": "/wiki/entities/maryshelley/"
   },
   "MarylandTransportationAuthority": {
     "title": "Maryland Transportation Authority",
@@ -11166,6 +11202,10 @@
   "SahmRule": {
     "title": "Sahm Rule",
     "url": "/wiki/concepts/sahmrule/"
+  },
+  "SainteBeuve": {
+    "title": "Sainte-Beuve / 圣伯夫",
+    "url": "/wiki/entities/saintebeuve/"
   },
   "SajithWickramasekara": {
     "title": "Sajith Wickramasekara",

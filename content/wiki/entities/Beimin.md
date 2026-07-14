@@ -2,8 +2,8 @@
 title: "北明 / 北民"
 type: entity
 tags: [host, podcast, books]
-sources: [42-anduo-fengqi-yu-qingping-zhi-mo-616391638, jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]
-last_updated: 2026-07-14
+sources: [42-anduo-fengqi-yu-qingping-zhi-mo-616391638, jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]
+last_updated: 2026-07-15
 ---
 
 # 北明 / 北民
@@ -18,6 +18,8 @@ In this source, 北民 helps extend the discussion from casinos into online game
 
 In episode 60, his role is part of the show's literary-biographical mode. The conversation uses [[LiteraryGossipAsContext]] to keep anecdotes entertaining but limited, while [[AuthorMythDeflation]] and [[OccultPseudoscienceLiteraryModernity]] capture the recurring patterns around flawed writers, spiritualism, phrenology, and occult practice.
 
+[[82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589]] continues that literary-biographical mode. His co-host role helps carry the second installment from [[LordByron|Lord Byron / 拜伦]] and [[HonoreDeBalzac|Honore de Balzac / 巴尔扎克]] through [[EdgarAllanPoe|Edgar Allan Poe / 爱伦·坡]], [[AgathaChristie|Agatha Christie / 阿加莎·克里斯蒂]], and [[JackLondon|Jack London / 杰克·伦敦]].
+
 [[63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972]] adds the 北明 spelling in a female-midlife episode. His main contribution is the empathy formulation behind [[EmpathyAsAestheticCapacity]]: if a person does not understand others, they only live their own one life, while understanding others makes life wider and richer.
 
 ## Connections
@@ -26,4 +28,5 @@ In episode 60, his role is part of the show's literary-biographical mode. The co
 - [[QinZong|秦总]] - co-discussion voice in the episode.
 - [[MachineGamblingAddiction]], [[NearMissDesign]], and [[AddictiveInteractionDesign]] - concepts the episode uses to connect casino machines with digital products.
 - [[LiteraryGossipAsContext]], [[AuthorMythDeflation]], and [[OccultPseudoscienceLiteraryModernity]] - concepts added by the great-writer gossip episode.
+- [[82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589]] - second great-writer gossip installment.
 - [[EmpathyAsAestheticCapacity]] and [[MidlifeAsGift]] - episode 63's empathy and age-reflection branch.

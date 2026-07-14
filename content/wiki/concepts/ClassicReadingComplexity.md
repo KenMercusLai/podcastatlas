@@ -2,7 +2,7 @@
 title: "Classic Reading Complexity"
 type: concept
 tags: [literature, classics, reading, judgment]
-sources: [40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 73-xujing-qitan-kongbu-youmo-zuihaode-kesulu-675865061]
+sources: [40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 73-xujing-qitan-kongbu-youmo-zuihaode-kesulu-675865061]
 last_updated: 2026-07-15
 ---
 
@@ -30,6 +30,8 @@ The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryR
 
 [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]] adds an author-biography version. The source does not read one classic closely; instead, it shows why reading old or famous works also requires discipline around author image. [[LiteraryGossipAsContext]] can enrich historical feel, while [[AuthorMythDeflation]] keeps writers from becoming saintly monuments or single-scandal caricatures.
 
+[[82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589]] continues that author-biography version with a stronger emphasis on public reputation after death, commercial writing economies, gendered biography, and political contradiction. The episode's Byron, Balzac, Poe, Christie, and London cases all require the reader to keep literary influence, anecdotal uncertainty, and moral judgment distinct.
+
 [[107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]] adds a film-director version. The episode's director gossip asks viewers to keep artistic influence, collaborator labor, set hierarchy, political propaganda, and moral responsibility visible at the same time. [[FilmGossipAsContext]], [[DirectorMythDeflation]], and [[ArtisticAchievementMoralAccountability]] become cinema-side counterparts to the literary biography branch.
 
 [[64-bawangbieji-fengmo-yu-chenghuo-656094350]] adds a modern-film classic version through [[FarewellMyConcubine|《霸王别姬》]]. The episode resists reducing the film to one political allegory, one love triangle, or one slogan about art; it keeps troupe violence, gender performance, opera form, occupation, courtroom speech, public betrayal, and adaptation ending choices in view together.
@@ -45,6 +47,7 @@ The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryR
 - A textbook excerpt can be a useful entry point while still hiding the larger structure and social diagnosis of the full work.
 - A detective shell can hide a deeper interpretive problem: the reader needs plot attention and skepticism toward over-neat symbolic patterning at the same time.
 - Author biography can inform classic reading, but gossip should not replace source uncertainty, textual attention, or historical context.
+- A writer's politics may be internally contradictory; class radicalism, racial prejudice, gendered reputation, and literary influence need separate judgment.
 - Film-director biography can inform film classic reading, but set power, collaborator labor, and propaganda politics must remain source-scoped rather than collapsing into either worship or dismissal.
 - A modern canonical film can require the same complexity discipline as a literary classic: plot, performance, politics, adaptation, and biography should not collapse into one portable interpretation.
 - Moving from stories to abstract classics or political theory requires keeping concrete human experience visible.
@@ -65,6 +68,7 @@ The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryR
 - [[RulinWaishi|《儒林外史》]], [[WanErDuoFeng|婉而多讽]], and [[SatiricalGroupPortrait]] - episode 58's extension into classical Chinese satire and examination society.
 - [[JourneyToTheWest|《西游记》]], [[AccretiveTextFormation]], [[MythicSourceLayering]], and [[SuoYinReading]] - episode 43's extension into Chinese-classic textual formation, monster source histories, and cautious hidden-code interpretation.
 - [[LiteraryGossipAsContext]], [[AuthorMythDeflation]], and [[OccultPseudoscienceLiteraryModernity]] - episode 60's extension into author lives, reputation, and period belief systems.
+- [[82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589]], [[LordByron]], [[AgathaChristie]], and [[JackLondon]] - second author-biography extension into reputation, gendered biography, and political contradiction.
 - [[FilmGossipAsContext]], [[DirectorMythDeflation]], and [[ArtisticAchievementMoralAccountability]] - episode 107's extension into director lives, set hierarchy, and moral accountability.
 - [[FarewellMyConcubine|《霸王别姬》]], [[RoleLifeCollapse]], [[CoercedDenunciation]], and [[AdaptationEndingEthics]] - episode 64's extension into modern film classic interpretation.
 - [[StoryBasedEmpathy]], [[FrancisFukuyama|Francis Fukuyama / 福山]], and [[IdentityPoliticsBook|《身份政治》]] - holiday episode bridge from story-centered reading toward abstract political-theory topics.

@@ -3036,3 +3036,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-15] ingest | 82.闲聊伟大作家的八卦（第二弹）
+
+Added source page for the 蜜獾吃书 episode continuing the great-writer gossip series through Lord Byron, Honore de Balzac, Edgar Allan Poe, Agatha Christie, and Jack London. Created pages for Byron, Balzac, Sainte-Beuve, Poe, Christie, London, Ada Lovelace, Mary Shelley, and John Polidori; updated overview, index, 蜜獾吃书, QinZong, Beimin, Literary Gossip As Context, Author Myth Deflation, and Classic Reading Complexity. No direct contradiction found; severe or uncertain claims are kept as episode-attributed literary gossip rather than settled biography.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

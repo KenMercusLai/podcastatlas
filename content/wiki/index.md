@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [82.闲聊伟大作家的八卦（第二弹）](sources/82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589.md) — 蜜獾吃书 episode continuing literary gossip through Byron, Balzac, Poe, Agatha Christie, Jack London, author myth deflation, gendered biography, and political contradiction.
 - [74.全球上瘾：啊，咖啡！我黑色的阿波罗！](sources/74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763.md) — 蜜獾吃书 episode on coffee as material history, public drink, coffeehouse public sphere, Enlightenment sociability, French monopoly politics, industrial efficiency, speculation, and Brazil overproduction.
 - [73.虚境奇谭：恐怖+幽默=最好的克苏鲁](sources/73-xujing-qitan-kongbu-youmo-zuihaode-kesulu-675865061.md) — 蜜獾吃书 episode on Clark Ashton Smith, 《虚境奇谭》, Cthulhu Mythos, cosmic horror, Weird Tales, Smith's story worlds, anti-anthropocentric satire, and horror-humor weird fiction.
 - [72.君主论：读它是一场危险的冒险](sources/72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837.md) — 蜜獾吃书 episode on Machiavelli, 《君主论》, Florentine republican context, political realism, virtù and fortune, Legalist comparisons, Borgia, and the moral limits of good intentions.
@@ -382,6 +383,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Lord Byron / 拜伦](entities/LordByron.md) — Romantic poet used by episode 82 to test heroic literary celebrity against scandal, exile, death, memorial management, and genre afterlives.
+- [Honore de Balzac / 巴尔扎克](entities/HonoreDeBalzac.md) — French novelist presented through appetite, coffee, debt, entrepreneurial failure, literary rivalry, and social-fiction ambition.
+- [Sainte-Beuve / 圣伯夫](entities/SainteBeuve.md) — French critic whose rivalry with Balzac shows literary reputation forming through reviews, salons, hostility, and belated recognition.
+- [Edgar Allan Poe / 爱伦·坡](entities/EdgarAllanPoe.md) — Horror and detective-fiction founder framed through poverty, unstable biography, ambiguous death, hostile posthumous editing, and memorial ritual.
+- [Agatha Christie / 阿加莎·克里斯蒂](entities/AgathaChristie.md) — Detective novelist whose episode 82 treatment links disappearance, marriage, poisoning knowledge, dictation, commercial success, and gendered author biography.
+- [Jack London / 杰克·伦敦](entities/JackLondon.md) — Socialist writer whose episode 82 treatment foregrounds the contradiction between radical class identity and racist anti-Asian politics.
+- [Ada Lovelace / 艾达·洛夫莱斯](entities/AdaLovelace.md) — Byron's daughter, discussed in episode 82 as an early programming figure and a bridge from literary biography to gendered computing history.
+- [Mary Shelley / 玛丽·雪莱](entities/MaryShelley.md) — Writer whose Frankenstein origin anecdote appears through the Swiss ghost-story gathering around Byron.
+- [John Polidori / 约翰·波利多里](entities/JohnPolidori.md) — Byron's doctor and early vampire-fiction figure used by episode 82 to connect Byronic persona with gothic genre afterlife.
 - [Coffee / 咖啡](entities/Coffee.md) — Commodity and drink connecting coffee material history, coffeehouse publicness, modern work habits, China chain-coffee competition, and coffee-related CPG cases.
 - [《全球上瘾》](entities/QuanqiuShangyin.md) — Coffee-centered material-history book discussed by episode 74 as a mythic commodity narrative with a noted 1934-era limitation around colonial labor.
 - [Ottoman Empire / 奥斯曼帝国](entities/OttomanEmpire.md) — Empire context linking Arab/Ottoman coffee culture, European coffee transmission, coffeehouse publicness, and existing Ottoman art-history branches.
