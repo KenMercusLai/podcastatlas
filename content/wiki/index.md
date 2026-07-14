@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [184.真实于我有万钧之重：欢迎侠女阿娇](sources/184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010.md) — 蜜獾吃书 episode with 阿娇/柱子哥 on the Hadiya rescue, overseas work, cancer and death writing, hospice care, professional dignity, and truthful whole-process cancer documentation.
 - [147. 非洲神话：腋毛创世, 土狼下蛋及哪吒的另一版本](sources/147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004.md) — 蜜獾吃书 episode on sub-Saharan African mythology, oral literature, creation stories, the Mwindo epic, marriage-origin tales, Anansi, and trickster ambivalence.
 - [107.闲聊伟大导演们的八卦（第一弹）](sources/107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818.md) — 蜜獾吃书 episode using director gossip to discuss Chaplin, Hitchcock, Walt Disney, Riefenstahl, film-set power, propaganda aesthetics, moral accountability, and early women film pioneers.
 - [42.安多：风起于青萍之末](sources/42-anduo-fengqi-yu-qingping-zhi-mo-616391638.md) — 蜜獾吃书 episode on Andor, Star Wars, everyday imperial control, prison labor, ordinary rebellion, and the ethics of sacrificing others.
@@ -376,6 +377,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [阿娇 / 柱子哥](entities/Ajiao.md) — Writer, overseas-work professional, and public cancer narrator who connects rescue action, illness writing, professional dignity, and death-facing public expression.
+- [《我还想看见》](entities/WoHaiXiangKanjian.md) — Ajiao's book discussed as a dated self-record, illness narrative, and broader portrait beyond the anti-cancer blogger label.
+- [哈迪亚营救事件](entities/HadiyaRescueEvent.md) — Emergency rescue thread where QinZong, AnQi, Ajiao, and others coordinated help after Hadiya Haidari's family faced detention and deportation risk in Pakistan.
+- [Pakistan](entities/Pakistan.md) — Displacement, banking, detention, and deportation-risk setting in the Hadiya Haidari publication and rescue thread.
 - [丰都大帝](entities/FengduDadi.md) — Underworld ruler used by episode 136 to show how ghost-country, Daoist, Fengdu, paperwork, and death-administration traditions layer together.
 - [东岳大帝](entities/DongyueDadi.md) — Taishan-linked life-and-death ruler used by episode 136 as an older sacred-mountain branch of afterlife authority.
 - [阎罗王](entities/YanluoWang.md) — Localized Yama/Yanluo death judge connecting Buddhist afterlife material with Chinese clear-official moral judgment.
@@ -2314,6 +2319,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Public Illness Writing](concepts/PublicIllnessWriting.md) — Ajiao's frame for making illness, bodily decline, hospice, patients, elders, and death publicly speakable without reducing the writer to inspiration.
+- [Whole-Process Cancer Documentation](concepts/WholeProcessCancerDocumentation.md) — Ajiao's "养成系" ambition to record cancer from diagnosis through recurrence, deterioration, and death, including negative states.
+- [安宁疗护 / Hospice Care](concepts/HospiceCare.md) — End-of-life care and death-quality frame introduced through Ajiao's discussion of late-stage cancer and public illness writing.
+- [Meaning Through Experience](concepts/MeaningThroughExperience.md) — Ajiao's view that life meaning is made through experience, presence, self-narration, and action inside limited time.
+- [Professional Dignity Beyond Patient Identity](concepts/ProfessionalDignityBeyondPatientIdentity.md) — Boundary against evaluating a sick person only through sympathy rather than professional craft, expertise, and judgment.
+- [Overseas Identity Reset](concepts/OverseasIdentityReset.md) — Pattern where working abroad lets a person loosen domestic labels and names, while remaining tied to risk and loneliness.
+- [Unprotected Overseas Work](concepts/UnprotectedOverseasWork.md) — Overseas-work pattern where autonomy comes without the representative office, HR, colleagues, or emergency support of a large organization.
 - [Chinese Folk Religion Layering](concepts/ChineseFolkReligionLayering.md) — Multi-source folk-religion pattern where ritual, Daoist registers, Buddhist afterlife ideas, local cults, literature, and oral variants coexist without one standard doctrine.
 - [Underworld Bureaucracy](concepts/UnderworldBureaucracy.md) — Afterlife model of offices, seals, reports, judges, local gods, and procedures, developed through episode 136's Chinese ghost-and-deity map.
 - [Afterlife Moral Accounting](concepts/AfterlifeMoralAccounting.md) — Supernatural ledger of ordinary conduct, punishments, clean-official judgment, and social order in episode 136's hell stories.
