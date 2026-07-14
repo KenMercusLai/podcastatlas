@@ -2,7 +2,7 @@
 title: "Empathy Circle Expansion"
 type: concept
 tags: [empathy, ethics, animal-welfare, social-norms]
-sources: [jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065, 176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]
+sources: [186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210, jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065, 176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]
 last_updated: 2026-07-15
 ---
 
@@ -20,6 +20,8 @@ The concept appears when the episode contrasts empathy with pity, criticizes col
 
 [[176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]] adds a meat-eater's version through [[FoodAnimalWelfare]]. The episode argues that continuing to eat meat does not require mocking or ignoring farm-animal suffering, and that empathy should also include the workers who absorb the killing, confinement, and handling burden on behalf of consumers.
 
+[[186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210]] adds an endangered-wildlife version through [[LastChanceToSee|《消逝世界漫游指南》]]. The episode makes empathy less sentimental by placing the [[AyeAye|aye-aye]], [[KomodoDragon|Komodo dragon]], [[MountainGorilla|mountain gorilla]], [[NorthernWhiteRhinoceros|northern white rhinoceros]], [[Baiji|baiji]], and [[Kakapo|kakapo]] inside travel systems, markets, bureaucracy, tourism, and conservation work.
+
 ## Key Claims
 - Empathy differs from pity because it asks a person to understand and respond rather than merely look down from safety.
 - Othering reduces the ability to perceive pain as morally relevant.
@@ -29,6 +31,7 @@ The concept appears when the episode contrasts empathy with pity, criticizes col
 - Stories can widen the empathy circle when they make distant or unlike people concrete enough to understand.
 - The treatment of beings who cannot explain, bargain, or retaliate is a sharper empathy test than declared moral identity.
 - Practical empathy can be proportional: people with limited budgets can avoid moral self-punishment while still supporting clearer welfare information and less cruel practices when possible.
+- Endangered-wildlife empathy should notice species, habitats, scientists, local people, tourists, and institutions together rather than treating animals as isolated symbols.
 
 ## Connections
 - [[AnimalWelfareAsPublicHealth]] - public-health application of the moral frame.
@@ -40,3 +43,4 @@ The concept appears when the episode contrasts empathy with pity, criticizes col
 - [[EmpathyAsAestheticCapacity]], [[MidlifeAsGift]], and [[ReadingAsLifeExperience]] - episode 63's extension into age, literature, and interpersonal understanding.
 - [[StoryBasedEmpathy]] and [[NonInstrumentalLiteraryReading]] - holiday episode extension into literature as an empathy-expansion practice.
 - [[EvilAsResponsibilityFailure]], [[Brenin|布列宁]], and [[CivilizationAsDeception]] - Rowlands source extension around helplessness, responsibility, and civilized excuses.
+- [[LastChanceToSee|《消逝世界漫游指南》]], [[LastChanceEcologicalWitnessing]], [[WildlifeTourismSpectacle]], [[FunctionalExtinction]], and [[ConservationIntervention]] - endangered-wildlife extension added by episode 186.

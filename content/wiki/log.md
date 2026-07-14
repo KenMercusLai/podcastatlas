@@ -3041,6 +3041,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-15] ingest | 186.让你笑到头掉仍不忘思考，伟大的《消逝世界漫游指南》
+
+Added source page for the 蜜獾吃书 episode on Douglas Adams and Mark Carwardine's 《消逝世界漫游指南》 / Last Chance to See, covering the aye-aye, Komodo dragon, mountain gorilla, northern white rhinoceros, baiji, kakapo, British humor, field travel, wildlife tourism spectacle, functional extinction, conservation publicity, and human responsibility as both destroyer and repair agent. Created pages for Last Chance to See, Douglas Adams, Mark Carwardine, Richard Dawkins, the six focal species, Madagascar, Komodo Island, the Democratic Republic of the Congo, New Zealand, Zhou Kaiya, Humorous Conservation Writing, Last-Chance Ecological Witnessing, Wildlife Tourism Spectacle, Functional Extinction, and Conservation Publicity Gap; updated overview, index, 蜜獾吃书, BBC, Yangtze River, Conservation Intervention, Island Extinction After Human Arrival, Invasive Species Management, Nature Writing, Anti-Anthropocentric Satire, and Empathy Circle Expansion. No direct contradiction found; the source extends the wiki's natural-history, animal-welfare, and literary-satire branches from companion/farm animals and field observation into endangered wildlife and conservation systems.
+
 ## [2026-07-15] ingest | 182.抓一把风洗洗脸，滚到泥巴里去写诗！｜ 和树才聊童诗
 
 Added source page for the 蜜獾吃书 episode with 树才 on children's poetry, child poetic expression, modern Chinese poetry education, writing poetry as play, emotional release, parent-child understanding, screen-time attention, and mother tongue awareness. Created pages for 树才, 《写诗真好玩》, Child Poetic Expression, Poetry Education As Play, Modern Poetry For Children, Poetry As Emotional Release, and Mother Tongue Awareness; updated overview, index, 蜜獾吃书, Childhood Reading Ecology, Children's Literature Complexity, Anti-Authoritarian Education, Non-Instrumental Literary Reading, and Screen-Time Parenting. No direct contradiction found; the source complements the wiki's childhood reading and education-pressure branches by shifting from what children read to how they speak and write before adult scoring intervenes.
@@ -3168,6 +3172,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint after health passed. Structural checks scanned 4,095 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-12 with 3,408 nodes and 34,723 edges, so graph findings may lag the latest wiki pages. The graph pass found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint did not complete because LiteLLM was configured with the unqualified default model `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-15] lint | Wiki health check
 

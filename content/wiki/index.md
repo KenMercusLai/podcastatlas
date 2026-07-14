@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [186.让你笑到头掉仍不忘思考，伟大的《消逝世界漫游指南》](sources/186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210.md) — 蜜獾吃书 episode on Douglas Adams and Mark Carwardine's 《消逝世界漫游指南》, using British humor, travel absurdity, and field observation to examine endangered species, conservation failure, tourism spectacle, functional extinction, and the human role as both destroyer and repair agent.
 - [185.魔鬼出没的世界：关于阴谋论、UFO与科学精神](sources/185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368.md) — 蜜獾吃书 episode on Carl Sagan, 《魔鬼出没的世界》, UFO culture, alien abduction narratives, crop circles, pseudoscience fraud, scientific skepticism, and evidence discipline.
 - [183.李商隐和红楼梦：偏僻性乖张，那管世人诽谤！](sources/183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260.md) — 蜜獾吃书 episode defending Li Shangyin and tracing Li-Shangyin imagery, love poetry, political pressure, and intertextual echoes inside 《红楼梦》.
 - [182.抓一把风洗洗脸，滚到泥巴里去写诗！｜ 和树才聊童诗](sources/182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792.md) — 蜜獾吃书 episode with 树才 on children's poetry, child poetic expression, modern poetry education, writing as play, emotional release, screen-time attention, and mother tongue awareness.
@@ -399,6 +400,21 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《消逝世界漫游指南》 / Last Chance to See](entities/LastChanceToSee.md) — Douglas Adams and Mark Carwardine endangered-species travel book read as humorous conservation writing and last-chance ecological witnessing.
+- [Douglas Adams / 道格拉斯·亚当斯](entities/DouglasAdams.md) — Author whose comedy, science imagination, and self-mocking travel voice make endangered-species writing funny without making extinction trivial.
+- [Mark Carwardine / 马克·卡沃丁](entities/MarkCarwardine.md) — Zoologist and conservation broadcaster paired with Douglas Adams in 《消逝世界漫游指南》.
+- [Richard Dawkins / 理查德·道金斯](entities/RichardDawkins.md) — Public-science writer whose preface frames Adams's scientific humor and loss in episode 186.
+- [Aye-Aye / 爱爱狐猴](entities/AyeAye.md) — Madagascar lemur used by episode 186 to show the refuge paradox after human arrival.
+- [Komodo Dragon / 科莫多巨蜥](entities/KomodoDragon.md) — Indonesian reptile whose staged tourist feeding becomes episode 186's wildlife-spectacle case.
+- [Mountain Gorilla / 山地大猩猩](entities/MountainGorilla.md) — Primate whose close encounter with Adams anchors episode 186's field-observation and empathy moment.
+- [Northern White Rhinoceros / 北部白犀牛](entities/NorthernWhiteRhinoceros.md) — Subspecies used by episode 186 to explain functional extinction and last-chance witnessing.
+- [Baiji / 白鱀豚](entities/Baiji.md) — Yangtze river dolphin whose publicity-rich absence becomes episode 186's conservation-publicity gap.
+- [Kakapo / 宵鹦鹉](entities/Kakapo.md) — New Zealand night parrot used by episode 186 to show island vulnerability and successful intensive conservation.
+- [Madagascar / 马达加斯加](entities/Madagascar.md) — Island setting for the aye-aye section and a refuge-paradox case.
+- [Komodo Island / 科莫多岛](entities/KomodoIsland.md) — Tourism and conservation setting for the Komodo dragon section.
+- [Democratic Republic of the Congo / 刚果民主共和国](entities/DemocraticRepublicOfCongo.md) — Former-Zaire setting connecting mountain gorillas, northern white rhinos, colonial history, and conservation under unstable institutions.
+- [New Zealand / 新西兰](entities/NewZealand.md) — Island ecology setting for the kakapo recovery story.
+- [周开亚 / Zhou Kaiya](entities/ZhouKaiya.md) — Nanjing University scientist contacted in episode 186's baiji search.
 - [李商隐 / Li Shangyin](entities/LiShangyin.md) — Late-Tang poet defended by episode 183 as politically aware, emotionally serious, technically exacting, and central to later Red Chamber intertext.
 - [《红楼梦》 / Dream of the Red Chamber](entities/HongLouMeng.md) — Chinese classic read by episode 183 through Li Shangyin's poetry, Daiyu, Xiangling, Baochai, Baoyu, and Zhiyanzhai commentary.
 - [曹雪芹 / Cao Xueqin](entities/CaoXueqin.md) — Authorial center for 《红楼梦》 in the source's evidence-bound Li Shangyin intertext argument.
@@ -2482,6 +2498,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Humorous Conservation Writing](concepts/HumorousConservationWriting.md) — Conservation prose mode where comedy, travel failure, self-mockery, and scientific observation make extinction readable without softening it.
+- [Last-Chance Ecological Witnessing](concepts/LastChanceEcologicalWitnessing.md) — Seeing endangered species with the knowledge that the encounter may be close to the end of their living history.
+- [Wildlife Tourism Spectacle](concepts/WildlifeTourismSpectacle.md) — Pattern where rare or dangerous animals become staged visitor attractions even inside conservation contexts.
+- [Functional Extinction](concepts/FunctionalExtinction.md) — Condition where surviving individuals remain but a population no longer has ordinary reproductive continuity.
+- [Conservation Publicity Gap](concepts/ConservationPublicityGap.md) — Mismatch between symbolic attention to a species and the practical conditions needed for survival.
 - [Late Tang Political Poetics](concepts/LateTangPoliticalPoetics.md) — Frame for reading Li Shangyin's allusion, opacity, and satire against factional danger, office-seeking, and late-Tang political pressure.
 - [Love Poetry Modernity](concepts/LovePoetryModernity.md) — Episode 183 claim that Li Shangyin's love poems feel modern because they express longing, delay, and loss indirectly.
 - [Classical Poetic Intertextuality](concepts/ClassicalPoeticIntertextuality.md) — Method for tracing how older poems enter later works through quotation, image clusters, character taste, and commentary.
