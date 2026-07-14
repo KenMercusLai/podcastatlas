@@ -159,6 +159,10 @@
     "title": "172.好运是什么？为啥说总避雷会败好运？",
     "url": "/wiki/sources/172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860/"
   },
+  "173-tanhe-ruhe-bamian-yiwei-zongtong-963141809": {
+    "title": "173.弹劾：如何罢免一位总统",
+    "url": "/wiki/sources/173-tanhe-ruhe-bamian-yiwei-zongtong-963141809/"
+  },
   "184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010": {
     "title": "184.真实于我有万钧之重：欢迎侠女阿娇",
     "url": "/wiki/sources/184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010/"
@@ -1255,6 +1259,10 @@
     "title": "Alex Zhu",
     "url": "/wiki/entities/alexzhu/"
   },
+  "AlexanderHamilton": {
+    "title": "Alexander Hamilton",
+    "url": "/wiki/entities/alexanderhamilton/"
+  },
   "AlexandrWang": {
     "title": "Alexandr Wang",
     "url": "/wiki/entities/alexandrwang/"
@@ -1414,6 +1422,10 @@
   "AndrewGraff": {
     "title": "Andrew Graff",
     "url": "/wiki/entities/andrewgraff/"
+  },
+  "AndrewJohnson": {
+    "title": "Andrew Johnson",
+    "url": "/wiki/entities/andrewjohnson/"
   },
   "Android": {
     "title": "Android",
@@ -2651,6 +2663,10 @@
     "title": "Cash Cow Strategic Inertia",
     "url": "/wiki/concepts/cashcowstrategicinertia/"
   },
+  "CassSunstein": {
+    "title": "Cass Sunstein",
+    "url": "/wiki/entities/casssunstein/"
+  },
   "CassianAndor": {
     "title": "Cassian Andor",
     "url": "/wiki/entities/cassianandor/"
@@ -3286,6 +3302,10 @@
   "ConspiracyTheoryPatternSeeking": {
     "title": "Conspiracy Theory Pattern Seeking",
     "url": "/wiki/concepts/conspiracytheorypatternseeking/"
+  },
+  "ConstitutionalRobustness": {
+    "title": "Constitutional Robustness",
+    "url": "/wiki/concepts/constitutionalrobustness/"
   },
   "ConstraintDrivenEngineeringStrategy": {
     "title": "Constraint Driven Engineering Strategy",
@@ -6275,6 +6295,10 @@
     "title": "High Bandwidth Memory",
     "url": "/wiki/concepts/highbandwidthmemory/"
   },
+  "HighCrimesAndMisdemeanors": {
+    "title": "High Crimes And Misdemeanors",
+    "url": "/wiki/concepts/highcrimesandmisdemeanors/"
+  },
   "HighResponsibilityDensity": {
     "title": "High Responsibility Density",
     "url": "/wiki/concepts/highresponsibilitydensity/"
@@ -6594,6 +6618,10 @@
   "ImmigrationBacklashCycle": {
     "title": "Immigration Backlash Cycle",
     "url": "/wiki/concepts/immigrationbacklashcycle/"
+  },
+  "ImpeachmentBook": {
+    "title": "《弹劾》 / Impeachment: A Citizen's Guide",
+    "url": "/wiki/entities/impeachmentbook/"
   },
   "ImperialExaminationAsOnlyExit": {
     "title": "Imperial Examination As Only Exit",
@@ -9855,6 +9883,10 @@
     "title": "Parker Conrad",
     "url": "/wiki/entities/parkerconrad/"
   },
+  "ParliamentarySystem": {
+    "title": "Parliamentary System",
+    "url": "/wiki/concepts/parliamentarysystem/"
+  },
   "ParticipatoryExhibitions": {
     "title": "Participatory Exhibitions",
     "url": "/wiki/concepts/participatoryexhibitions/"
@@ -10371,9 +10403,17 @@
     "title": "Presidential Conflict Of Interest",
     "url": "/wiki/concepts/presidentialconflictofinterest/"
   },
+  "PresidentialImpeachment": {
+    "title": "Presidential Impeachment",
+    "url": "/wiki/concepts/presidentialimpeachment/"
+  },
   "PresidentialMemorialCulture": {
     "title": "Presidential Memorial Culture",
     "url": "/wiki/concepts/presidentialmemorialculture/"
+  },
+  "PresidentialSystem": {
+    "title": "Presidential System",
+    "url": "/wiki/concepts/presidentialsystem/"
   },
   "PriceWarGrowth": {
     "title": "Price War Growth",
@@ -11063,6 +11103,10 @@
     "title": "Rich Aberman",
     "url": "/wiki/entities/richaberman/"
   },
+  "RichardNixon": {
+    "title": "Richard Nixon",
+    "url": "/wiki/entities/richardnixon/"
+  },
   "RichardWiseman": {
     "title": "Richard Wiseman",
     "url": "/wiki/entities/richardwiseman/"
@@ -11578,6 +11622,10 @@
   "SeongsuDong": {
     "title": "Seongsu-dong / 圣水洞",
     "url": "/wiki/entities/seongsudong/"
+  },
+  "SeparationOfPowers": {
+    "title": "Separation Of Powers",
+    "url": "/wiki/concepts/separationofpowers/"
   },
   "SeppBlatter": {
     "title": "Sepp Blatter",
@@ -13171,6 +13219,10 @@
     "title": "Tweet Hunter",
     "url": "/wiki/entities/tweethunter/"
   },
+  "TwentyFifthAmendment": {
+    "title": "Twenty-Fifth Amendment",
+    "url": "/wiki/concepts/twentyfifthamendment/"
+  },
   "Twitch": {
     "title": "Twitch",
     "url": "/wiki/entities/twitch/"
@@ -13326,6 +13378,10 @@
   "UnitedStates": {
     "title": "United States",
     "url": "/wiki/entities/unitedstates/"
+  },
+  "UnitedStatesConstitution": {
+    "title": "United States Constitution",
+    "url": "/wiki/entities/unitedstatesconstitution/"
   },
   "UnitreeRobotics": {
     "title": "Unitree Robotics",

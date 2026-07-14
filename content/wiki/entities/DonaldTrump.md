@@ -2,8 +2,8 @@
 title: "Donald Trump"
 type: entity
 tags: [person, politics, macro, investing, sports]
-sources: [latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
-last_updated: 2026-07-14
+sources: [173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
+last_updated: 2026-07-15
 ---
 
 # Donald Trump
@@ -38,6 +38,8 @@ Donald Trump appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-
 
 [[vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]] adds Trump as the center of a policy-institutionalization story. The [[QizhulouYanBinke|起朱楼宴宾客]] episode argues that Trump 2.0 should be read through [[Project2025]], [[MandateForLeadership2025]], [[HeritageFoundation]], [[AmericaFirstPolicyInstitute]], [[ConservativePartnershipInstitute]], and [[NewRightPolicyNetwork]] capacity rather than only through Trump's personal rhetoric.
 
+[[173-tanhe-ruhe-bamian-yiwei-zongtong-963141809]] adds Trump to the explicit [[PresidentialImpeachment]] branch. The [[MihuanChishu|蜜獾吃书]] episode opens from his two impeachments, the later political use of impeachment inquiries, and post-January-6 calls around the [[TwentyFifthAmendment]], then uses Trump as the modern case where legal standards, party loyalty, media attention, and populist mobilization become hard to separate.
+
 ## Source Position
 - The source treats Trump less as a biography subject and more as a market-policy variable.
 - [[LaoMai]] argues that this term differs from Trump's earlier term because the inherited environment includes higher debt, inflation pressure, and stretched equity valuation.
@@ -58,6 +60,7 @@ Donald Trump appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-
 - The Peace fire source treats Trump as the public marker of ceasefire collapse in a negotiation where military escalation and diplomacy remain entangled.
 - The Silicon Valley 101 source treats Trump as a host-market political access point for [[FIFA]], connecting presidential attention to [[AmericanSportsCapitalInEuropeanFootball]].
 - The Qizhulou Yan Binke source treats Trump as the object of [[TrumpismInstitutionalization]]: organizations, transition documents, personnel pipelines, and policy packages make the second-term agenda more prepared than the 2016 outsider campaign.
+- The impeachment source treats Trump as the contemporary stress case for [[PresidentialImpeachment]], where constitutional-remedy logic collides with party incentives and attention politics.
 
 ## Connections
 - [[FederalReserve]] and [[JeromePowell]] — policy actors whose communication and rate path are framed as interacting with Trump-era fiscal and tariff pressure.
@@ -78,3 +81,4 @@ Donald Trump appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-
 - [[NicholasPelham]], [[StraitOfHormuz]], and [[GulfStabilityRisk]] — ceasefire-collapse and regional-spillover branch added by the Peace fire episode.
 - [[FIFA]], [[GianniInfantino]], [[UnitedStates]], [[FIFAWorldCup]], and [[AmericanSportsCapitalInEuropeanFootball]] — sports-governance and host-market branch added by Silicon Valley 101.
 - [[Project2025]], [[HeritageFoundation]], [[AmericaFirstPolicyInstitute]], [[ConservativePartnershipInstitute]], [[AdministrativeStateDismantling]], [[MeritBasedImmigrationFilter]], and [[TradeReciprocityProtectionism]] — policy-network and governing-agenda branch added by Qizhulou Yan Binke.
+- [[PresidentialImpeachment]], [[HighCrimesAndMisdemeanors]], [[TwentyFifthAmendment]], and [[ConstitutionalRobustness]] — constitutional-remedy branch added by 蜜獾吃书.

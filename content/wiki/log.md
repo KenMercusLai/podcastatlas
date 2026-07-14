@@ -3076,3 +3076,11 @@ Added source page for the 蜜獾吃书 episode on luck as information bandwidth,
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-15] ingest | 173.弹劾：如何罢免一位总统
+
+Added source page for the 蜜獾吃书 episode on U.S. presidential impeachment, Cass Sunstein's 《弹劾》, presidential versus parliamentary systems, separation of powers, high crimes and misdemeanors, Andrew Johnson, Richard Nixon, Bill Clinton, Donald Trump, the 25th Amendment, and constitutional robustness. Created pages for Cass Sunstein, 《弹劾》 / Impeachment: A Citizen's Guide, United States Constitution, Alexander Hamilton, Andrew Johnson, Richard Nixon, Presidential Impeachment, Twenty-Fifth Amendment, Presidential System, Parliamentary System, Separation Of Powers, High Crimes And Misdemeanors, and Constitutional Robustness; updated overview, index, 蜜獾吃书, United States, Supreme Court, Bill Clinton, George W. Bush, Donald Trump, American Democratic Resilience, Executive Power Precedent, and Presidential Conflict Of Interest. No direct contradiction found; the source complements the wiki's U.S. democratic-resilience branch by adding formal repair mechanisms and qualifies presidential conflict analysis by distinguishing misconduct from impeachable constitutional betrayal.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

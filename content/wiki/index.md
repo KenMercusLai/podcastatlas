@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [173.弹劾：如何罢免一位总统](sources/173-tanhe-ruhe-bamian-yiwei-zongtong-963141809.md) — 蜜獾吃书 episode using Cass Sunstein to explain U.S. presidential impeachment, high crimes and misdemeanors, the 25th Amendment, presidential-vs-parliamentary design, and constitutional robustness.
 - [172.好运是什么？为啥说总避雷会败好运？](sources/172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860.md) — 蜜獾吃书 episode reframing luck as information bandwidth, low-cost experimentation, survivable risk, weak ties, positive expectation, and the hidden opportunity cost of always "避雷".
 - [153.我的名字叫红：用一千零一夜的心跳完成这场谋杀(上）](sources/153-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-shang-917670296.md) — 蜜獾吃书 episode opening the Pamuk two-parter with Istanbul, Persian and Ottoman miniature painting, Sufi image legitimacy, divine perspective, Frankish portrait pressure, style as trace, and the story setup through Black and Shekure's reunion.
 - [sp.02 我有自己的宇宙：如何在混沌中做个清醒的行动派](sources/sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778.md) — 蜜獾吃书 episode with 钱静 on 《我有自己的宇宙》, 中庸我, 避坑内容, career and civil-service anxiety, workplace conflict, original-family independence, macro narrative anxiety, and action against anxiety.
@@ -1493,7 +1494,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [朱宁 / Zhu Ning](entities/ZhuNing.md) — Economist and behavioral-finance scholar explaining bubble conditions, AI valuation risk, and consequence-first investing discipline.
 - [42章经](entities/42Zhangjing.md) — Podcast/show context for interviews on investing bubbles, PingCAP infrastructure, AI application pivots, and EVE-style AI companionship.
 - [United States](entities/UnitedStates.md) — Country and institutional context spanning democratic resilience, geopolitics, sports capital, frontier-model governance, and battery innovation/manufacturing gaps.
+- [United States Constitution](entities/UnitedStatesConstitution.md) — Constitutional document treated as patched institutional code behind impeachment, separation of powers, and the 25th Amendment.
 - [Supreme Court](entities/SupremeCourt.md) — U.S. judicial institution used in the America-at-250 source as both democratic guardrail and possible executive-power precedent maker.
+- [Cass Sunstein](entities/CassSunstein.md) — Legal scholar whose impeachment framework treats removal as constitutional repair rather than ordinary punishment or partisan dissatisfaction.
+- [《弹劾》 / Impeachment: A Citizen's Guide](entities/ImpeachmentBook.md) — Sunstein book used by the episode to define impeachment around office abuse, public trust, and constitutional order.
+- [Alexander Hamilton](entities/AlexanderHamilton.md) — Founding-era figure used to explain the case for a strong but removable single executive.
+- [Andrew Johnson](entities/AndrewJohnson.md) — First impeached U.S. president, used as a historical case for legal charges amid wider constitutional-political conflict.
+- [Richard Nixon](entities/RichardNixon.md) — President whose resignation before conviction illustrates impeachment's deterrent and signaling function.
 - [Robert Guest](entities/RobertGuest.md) — The Intelligence panelist giving the more optimistic account of American democratic resilience, assimilation, and cultural durability.
 - [Daniel Knowles](entities/DanielKnowles.md) — The Intelligence panelist warning that Supreme Court behavior and executive-power disputes show weakening U.S. constitutional guardrails.
 - [Rebecca Jackson](entities/RebeccaJackson.md) — The Intelligence panelist emphasizing representation erosion and historical memory conflicts in the America-at-250 episode.
@@ -3196,6 +3203,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bubble Necessary Conditions](concepts/BubbleNecessaryConditions.md) — Zhu Ning's four warning ingredients for bubbles: new technology or concept, loose liquidity, policy support, and inexperienced investors.
 - [American Democratic Resilience](concepts/AmericanDemocraticResilience.md) — Question of whether U.S. institutions, elections, civic culture, historical memory, and civil society can survive polarization and executive pressure.
 - [Executive Power Precedent](concepts/ExecutivePowerPrecedent.md) — Risk that temporary presidential power claims become durable legal tools for later administrations.
+- [Presidential System](concepts/PresidentialSystem.md) — Executive-government design where a separately elected president gains stability and energy but requires exceptional correction mechanisms.
+- [Parliamentary System](concepts/ParliamentarySystem.md) — Government design where cabinets depend on legislative confidence, clarifying what U.S. impeachment is not.
+- [Separation Of Powers](concepts/SeparationOfPowers.md) — U.S. constitutional structure that makes impeachment a cross-branch emergency check rather than ordinary legislative removal.
+- [Presidential Impeachment](concepts/PresidentialImpeachment.md) — Constitutional process for removing or disqualifying a president when misconduct threatens public trust or constitutional order.
+- [High Crimes And Misdemeanors](concepts/HighCrimesAndMisdemeanors.md) — Ambiguous impeachment standard centered on high office, public trust, abuse of power, and constitutional stakes.
+- [Twenty-Fifth Amendment](concepts/TwentyFifthAmendment.md) — Incapacity mechanism distinct from impeachment, allowing temporary or contested transfer of presidential power.
+- [Constitutional Robustness](concepts/ConstitutionalRobustness.md) — Idea that mature constitutional systems matter because they can correct, restart, and survive failure without routine collapse.
 - [Historical Memory Contest](concepts/HistoricalMemoryContest.md) — Struggle over whether slavery, racial terror, and other painful history are confronted or sanitized through schools, museums, and official narrative.
 - [Immigration Backlash Cycle](concepts/ImmigrationBacklashCycle.md) — Recurring immigration-politics pattern of openness, anxiety, restriction, and reopening, with U.S. history and a British post-Brexit variant.
 - [Assimilation Capacity](concepts/AssimilationCapacity.md) — Society's ability to integrate newcomers through work, culture, community, and national belonging.

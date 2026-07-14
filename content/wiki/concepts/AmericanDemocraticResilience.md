@@ -2,8 +2,8 @@
 title: "American Democratic Resilience"
 type: concept
 tags: [politics, democracy, institutions]
-sources: [gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c, trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7, trailer-tocqueville-road-trip-6a315920101389aa3d42d134, trailer-tocqueville-road-trip-6a315813780d0f7579afb892, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
-last_updated: 2026-07-14
+sources: [173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c, trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7, trailer-tocqueville-road-trip-6a315920101389aa3d42d134, trailer-tocqueville-road-trip-6a315813780d0f7579afb892, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
+last_updated: 2026-07-15
 ---
 
 # American Democratic Resilience
@@ -22,6 +22,8 @@ The concept is deliberately mixed. Resilience does not mean the system is health
 
 [[vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]] adds a preparation-capacity version of the same test. The episode suggests that [[Project2025]], personnel databases, training, and [[NewRightPolicyNetwork]] institutions may make Trump-era executive pressure more systematic than a personality-centered reading would imply.
 
+[[173-tanhe-ruhe-bamian-yiwei-zongtong-963141809]] adds a constitutional-remedy version of resilience. It argues that [[PresidentialImpeachment]], the [[TwentyFifthAmendment]], and [[SeparationOfPowers]] matter because democratic systems need ways to correct presidential abuse or incapacity without collapsing ordinary government into constant partisan removal.
+
 ## Key Claims
 - Democratic resilience is tested by both formal rules and informal norms.
 - Historical comparison can be part of resilience analysis: if Tocqueville's America has become unrecognizable, that is itself evidence of civic change.
@@ -33,6 +35,7 @@ The concept is deliberately mixed. Resilience does not mean the system is health
 - AI backlash adds a newer resilience test: democratic politics has to handle both real technological risk and generalized fear without reducing governance to donor fights or panic.
 - Presidential memorial culture adds a symbolic resilience test: a republic needs memory institutions without encouraging presidents to see themselves as rulers.
 - Trump 2.0 preparation adds an organizational resilience test: institutions face not only charismatic pressure but also prebuilt policy and staffing systems.
+- Impeachment and the 25th Amendment add a repair-capacity test: institutions must remove or bypass a failed president only under standards strong enough to avoid routine factional use.
 
 ## Connections
 - [[UnitedStates]], [[SupremeCourt]], [[RobertGuest]], [[DanielKnowles]], and [[RebeccaJackson]] - source actors and institutional frame.
@@ -44,3 +47,4 @@ The concept is deliberately mixed. Resilience does not mean the system is health
 - [[HistoricalMemoryContest]] - memory and civic-education branch.
 - [[DemocraticTransitionElection]], [[ElectoralMandate]], and [[PublicServiceJournalism]] - adjacent democracy concepts already in the wiki.
 - [[Project2025]], [[TrumpismInstitutionalization]], [[NewRightPolicyNetwork]], and [[AdministrativeStateDismantling]] - preparation-capacity branch added by Qizhulou Yan Binke.
+- [[PresidentialImpeachment]], [[TwentyFifthAmendment]], [[SeparationOfPowers]], and [[ConstitutionalRobustness]] - constitutional-remedy branch added by 蜜獾吃书.
