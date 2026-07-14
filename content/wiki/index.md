@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [73.虚境奇谭：恐怖+幽默=最好的克苏鲁](sources/73-xujing-qitan-kongbu-youmo-zuihaode-kesulu-675865061.md) — 蜜獾吃书 episode on Clark Ashton Smith, 《虚境奇谭》, Cthulhu Mythos, cosmic horror, Weird Tales, Smith's story worlds, anti-anthropocentric satire, and horror-humor weird fiction.
 - [72.君主论：读它是一场危险的冒险](sources/72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837.md) — 蜜獾吃书 episode on Machiavelli, 《君主论》, Florentine republican context, political realism, virtù and fortune, Legalist comparisons, Borgia, and the moral limits of good intentions.
 - [71.美妆帝国蝴蝶牌：言情小说家的国货创业往事](sources/71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384.md) — 蜜獾吃书 episode on Chen Diexian, Butterfly Brand, Republican-era cosmetics, household chemistry, national-goods branding, vernacular industrialism, and light-industry modernity.
 - [Vol.113 从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络](sources/vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu.md) — 起朱楼宴宾客 episode on Project 2025, Heritage Foundation, AFPI, CPI, Trumpism institutionalization, administrative-state dismantling, immigration, Fed critique, education, trade reciprocity, and American protectionism.
@@ -380,6 +381,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Clark Ashton Smith / C.A.史密斯](entities/ClarkAshtonSmith.md) — Weird-fiction writer presented by episode 73 as the poetic, ornate, comic, and anti-anthropocentric "literary ceiling" of the early Cthulhu field.
+- [《虚境奇谭》](entities/XujingQitan.md) — Clark Ashton Smith book used by episode 73 to introduce his horror, humor, ornate prose, Cthulhu connections, and invented story worlds.
+- [H. P. Lovecraft / 洛夫克拉夫特](entities/HPLovecraft.md) — Founding Cthulhu figure used by episode 73 to define cosmic horror and contrast Smith's more poetic, legendary, and comic mode.
+- [August Derleth / 阿古斯特·德雷斯](entities/AugustDerleth.md) — Early Cthulhu-system figure used by episode 73 to distinguish founding, literary style, and later mythos systematization.
+- [Weird Tales / 诡丽幻谭](entities/WeirdTales.md) — Pulp-magazine context for episode 73's discussion of Smith, editorial constraints, story rejection, and weird-fiction publication.
+- [《深谷住民》 / The Vaults of Yoh-Vombis](entities/TheVaultsOfYohVombis.md) — Smith story read by episode 73 as a greed-driven Martian descent into cosmic horror and bodily helplessness.
+- [《七咒赋》 / The Seven Geases](entities/SevenGeases.md) — Smith story read by episode 73 as a deadpan horror-comedy of unwanted human sacrifice and cosmic demotion.
+- [Eibon / 伊波恩](entities/Eibon.md) — Smith sorcerer figure whose Saturn escape shows the comic-adventurous side of the Cthulhu branch in episode 73.
+- [Tsathoggua / 萨托古雅](entities/Tsathoggua.md) — Smith mythos being used by episode 73 to show both cosmic threat and comic practical refusal.
+- [《通往土星之门》 / The Door to Saturn](entities/TheDoorToSaturn.md) — Smith story thread where Eibon's escape turns persecution, alien social norms, and prophecy into horror-humor weird fiction.
+- [《前往斯法诺莫埃的旅途》 / The Journey to Sfanomoë](entities/TheJourneyToSfanomoe.md) — Poseidonis story used by episode 73 to connect Smith's lost-world fantasy with alien travel and transformation.
 - [《君主论》 / The Prince](entities/ThePrince.md) — Machiavelli's political manual read by episode 72 as a dangerous but clarifying text about power, order, fear, fortune, and political technique.
 - [《论李维》 / Discourses on Livy](entities/DiscoursesOnLivy.md) — Machiavelli's republican text used by episode 72 to complicate the idea that he was simply an adviser to tyrants.
 - [Florentine Republic / 佛罗伦萨共和国](entities/FlorentineRepublic.md) — Machiavelli's republican service context, connecting Florence, military organization, mercenary risk, and the fall back to Medici power.
@@ -2346,6 +2358,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Cthulhu Mythos / 克苏鲁神话](concepts/CthulhuMythos.md) — Open, shared weird-fiction field built through Lovecraft, Smith, Derleth, magazine networks, cosmic horror, and later systematization.
+- [Cosmic Horror](concepts/CosmicHorror.md) — Horror of unknown age, scale, depth, and nonhuman priority, extended by episode 73 from dread into Smith's ornate and comic cosmic demotion.
+- [Weird Fiction](concepts/WeirdFiction.md) — Boundary-crossing literary field where horror, fantasy, occult texture, satire, antiquity, and speculative travel mix.
+- [Open Shared Mythos](concepts/OpenSharedMythos.md) — Literary-network model where shared beings, books, names, and settings accumulate without becoming a closed franchise canon.
+- [Clark Ashton Smith Story Worlds](concepts/SmithStoryWorlds.md) — Smith's Hyperborea, Averoigne, Zothique, and Poseidonis settings as engines for myth, decadence, magic, satire, and cosmic displacement.
+- [Horror-Humor Weird Fiction](concepts/HorrorHumorWeirdFiction.md) — Smith pattern where terrible supernatural premises become funny through deadpan practical logic without losing horror.
+- [Anti-Anthropocentric Satire](concepts/AntiAnthropocentricSatire.md) — Satirical cosmic demotion of human greed, doctrine, rationality, and self-importance under older or alien systems.
 - [Machiavellian Realism](concepts/MachiavellianRealism.md) — Political-realist frame where judgment begins from actual power, institutions, fear, fortune, and human unreliability rather than moral self-description.
 - [Non-Moral Political Analysis](concepts/NonMoralPoliticalAnalysis.md) — Episode 72's distinction between analyzing political reality before moral judgment and simply recommending immoral action.
 - [Virtù And Fortuna Political Agency](concepts/VirtuFortunaPoliticalAgency.md) — Machiavellian frame for capacity, judgment, timing, and action struggling with fortune and contingency.

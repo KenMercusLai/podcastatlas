@@ -2,8 +2,8 @@
 title: "Absurd Rationality"
 type: concept
 tags: [literature, humor, reasoning, fantasy]
-sources: [157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112]
-last_updated: 2026-07-14
+sources: [157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112, 73-xujing-qitan-kongbu-youmo-zuihaode-kesulu-675865061]
+last_updated: 2026-07-15
 ---
 
 # Absurd Rationality
@@ -16,12 +16,15 @@ The point is not that the stories are irrational. Their humor depends on local r
 
 [[45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112]] adds the [[StanislawLem|斯坦尼斯拉夫·莱姆]] version through [[TheCyberiad|《机器人大师》 / The Cyberiad]]. Machines create only N-things, defend 2 + 2 = 7, write superior poems, amplify probability dragons, and bury a pirate in true facts. The local logic is precise; the comedy comes from watching that precision collide with language, politics, prestige, and weak human judgment.
 
+[[73-xujing-qitan-kongbu-youmo-zuihaode-kesulu-675865061]] adds a weird-fiction version through [[ClarkAshtonSmith|Clark Ashton Smith / C.A.史密斯]]. In [[SevenGeases|《七咒赋》]], supernatural beings refuse or transfer a cursed human for practical reasons; in [[TheDoorToSaturn|《通往土星之门》]], exile, alien body norms, and mistaken prophecy are handled with almost administrative calm. The impossible premise remains frightening, but the comedy comes from local procedural sense inside cosmic absurdity.
+
 ## Key Claims
 - Absurd stories can be rule-governed even when their base premise is impossible.
 - Procedural detail makes fantasy feel sharper than random nonsense.
 - This logic lets children's adventure, satire, folk humor, and philosophy share the same image pool.
 - The form can challenge Enlightenment confidence in pure reason without simply rejecting reason.
 - Lem's machine fables add a cybernetic version: the system can be formally coherent while the goal, command, or social use remains absurd.
+- Smith's weird-fiction stories add a cosmic-supernatural version: old gods and alien societies can behave with practical logic that makes human importance look absurd.
 
 ## Connections
 - [[TallTaleTradition]] - broader story form.
@@ -30,3 +33,4 @@ The point is not that the stories are irrational. Their humor depends on local r
 - [[MunchausenSelfBootstrapping]] - philosophical version of absurd self-rescue.
 - [[LaputaFlyingIsland|Laputa / 飞岛国]] and [[TechnocraticDominationSatire]] - Swiftian version where procedural rationality becomes technical and political danger.
 - [[TheCyberiad|《机器人大师》 / The Cyberiad]], [[CyberneticMachineSatire]], and [[ScienceFictionRealism]] - Lem branch added by episode 45.
+- [[SevenGeases|《七咒赋》]], [[TheDoorToSaturn|《通往土星之门》]], [[HorrorHumorWeirdFiction]], and [[AntiAnthropocentricSatire]] - Smith branch added by episode 73.

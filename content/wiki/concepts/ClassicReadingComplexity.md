@@ -2,8 +2,8 @@
 title: "Classic Reading Complexity"
 type: concept
 tags: [literature, classics, reading, judgment]
-sources: [40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
-last_updated: 2026-07-14
+sources: [40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 73-xujing-qitan-kongbu-youmo-zuihaode-kesulu-675865061]
+last_updated: 2026-07-15
 ---
 
 # Classic Reading Complexity
@@ -34,6 +34,8 @@ The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryR
 
 [[64-bawangbieji-fengmo-yu-chenghuo-656094350]] adds a modern-film classic version through [[FarewellMyConcubine|《霸王别姬》]]. The episode resists reducing the film to one political allegory, one love triangle, or one slogan about art; it keeps troupe violence, gender performance, opera form, occupation, courtroom speech, public betrayal, and adaptation ending choices in view together.
 
+[[73-xujing-qitan-kongbu-youmo-zuihaode-kesulu-675865061]] adds a weird-fiction classic version through [[ClarkAshtonSmith|Clark Ashton Smith / C.A.史密斯]] and [[XujingQitan|《虚境奇谭》]]. The episode resists reducing Smith to generic Cthulhu monsters: it keeps [[CthulhuMythos]], [[CosmicHorror]], [[WeirdFiction]], ornate language, translated texture, [[HorrorHumorWeirdFiction]], and [[AntiAnthropocentricSatire]] in view together.
+
 ## Key Claims
 - A classic can be historically important without being a modern ethical guide.
 - A reader can reject a work's values while still learning from its scenes, style, technique, or historical world.
@@ -48,6 +50,7 @@ The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryR
 - Moving from stories to abstract classics or political theory requires keeping concrete human experience visible.
 - A short speculative classic can carry mathematics, social satire, theology, and publishing history at once; treating it as only a clever dimension lesson loses the work's pressure.
 - A culturally familiar classic can require returning from adaptation memory to source layers: authorship, folklore, religious imagery, earlier variants, and uncertain political allusion may all be part of the reading problem.
+- A pulp or weird-fiction classic can require attention to language, publication context, mythos sharing, and humor; plot summary alone may miss the literary effect.
 
 ## Connections
 - [[ReadingAsLifeExperience]] - reader state affects when classics become available or unbearable.
@@ -66,3 +69,4 @@ The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryR
 - [[FarewellMyConcubine|《霸王别姬》]], [[RoleLifeCollapse]], [[CoercedDenunciation]], and [[AdaptationEndingEthics]] - episode 64's extension into modern film classic interpretation.
 - [[StoryBasedEmpathy]], [[FrancisFukuyama|Francis Fukuyama / 福山]], and [[IdentityPoliticsBook|《身份政治》]] - holiday episode bridge from story-centered reading toward abstract political-theory topics.
 - [[Flatland|《平面国》 / Flatland]], [[DimensionalAllegory]], and [[ReadingAsDimensionalExpansion]] - episode 40's extension into mathematical science-fiction and perspective-changing reading.
+- [[ClarkAshtonSmith|Clark Ashton Smith / C.A.史密斯]], [[XujingQitan|《虚境奇谭》]], [[CthulhuMythos]], [[HorrorHumorWeirdFiction]], and [[AntiAnthropocentricSatire]] - episode 73's extension into weird-fiction classics and cosmic-humorous satire.

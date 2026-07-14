@@ -319,6 +319,10 @@
     "title": "72.君主论：读它是一场危险的冒险",
     "url": "/wiki/sources/72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837/"
   },
+  "73-xujing-qitan-kongbu-youmo-zuihaode-kesulu-675865061": {
+    "title": "73.虚境奇谭：恐怖+幽默=最好的克苏鲁",
+    "url": "/wiki/sources/73-xujing-qitan-kongbu-youmo-zuihaode-kesulu-675865061/"
+  },
   "8848": {
     "title": "8848",
     "url": "/wiki/entities/8848/"
@@ -1455,6 +1459,10 @@
     "title": "Anthropic",
     "url": "/wiki/entities/anthropic/"
   },
+  "AntiAnthropocentricSatire": {
+    "title": "Anti-Anthropocentric Satire",
+    "url": "/wiki/concepts/antianthropocentricsatire/"
+  },
   "AntiAuthoritarianEducation": {
     "title": "Anti-Authoritarian Education",
     "url": "/wiki/concepts/antiauthoritarianeducation/"
@@ -1714,6 +1722,10 @@
   "AuditOpinionRisk": {
     "title": "Audit Opinion Risk",
     "url": "/wiki/concepts/auditopinionrisk/"
+  },
+  "AugustDerleth": {
+    "title": "August Derleth / 阿古斯特·德雷斯",
+    "url": "/wiki/entities/augustderleth/"
   },
   "AuthenticNeighborhoodExperience": {
     "title": "Authentic Neighborhood Experience",
@@ -2951,6 +2963,10 @@
     "title": "Claire Isabel Webb",
     "url": "/wiki/entities/claireisabelwebb/"
   },
+  "ClarkAshtonSmith": {
+    "title": "Clark Ashton Smith / C.A.史密斯",
+    "url": "/wiki/entities/clarkashtonsmith/"
+  },
   "ClarksonsFarm": {
     "title": "《克拉克森的农场》 / Clarkson's Farm",
     "url": "/wiki/entities/clarksonsfarm/"
@@ -3315,6 +3331,10 @@
     "title": "Corporate-Owned Startup Constraints",
     "url": "/wiki/concepts/corporateownedstartupconstraints/"
   },
+  "CosmicHorror": {
+    "title": "Cosmic Horror",
+    "url": "/wiki/concepts/cosmichorror/"
+  },
   "Cosmos3": {
     "title": "Cosmos 3",
     "url": "/wiki/entities/cosmos3/"
@@ -3450,6 +3470,10 @@
   "CryptocurrencyMarketStructure": {
     "title": "Cryptocurrency Market Structure",
     "url": "/wiki/concepts/cryptocurrencymarketstructure/"
+  },
+  "CthulhuMythos": {
+    "title": "Cthulhu Mythos / 克苏鲁神话",
+    "url": "/wiki/concepts/cthulhumythos/"
   },
   "Ctrip": {
     "title": "Ctrip / Trip.com Group",
@@ -4370,6 +4394,10 @@
   "EfficientFrontier": {
     "title": "Efficient Frontier",
     "url": "/wiki/concepts/efficientfrontier/"
+  },
+  "Eibon": {
+    "title": "Eibon / 伊波恩",
+    "url": "/wiki/entities/eibon/"
   },
   "EkremImamoglu": {
     "title": "Ekrem Imamoglu",
@@ -5899,6 +5927,10 @@
     "title": "HOKA",
     "url": "/wiki/entities/hoka/"
   },
+  "HPLovecraft": {
+    "title": "H. P. Lovecraft / 洛夫克拉夫特",
+    "url": "/wiki/entities/hplovecraft/"
+  },
   "HSBC": {
     "title": "HSBC",
     "url": "/wiki/entities/hsbc/"
@@ -6258,6 +6290,10 @@
   "Hormel": {
     "title": "Hormel",
     "url": "/wiki/entities/hormel/"
+  },
+  "HorrorHumorWeirdFiction": {
+    "title": "Horror-Humor Weird Fiction",
+    "url": "/wiki/concepts/horrorhumorweirdfiction/"
   },
   "HospiceCare": {
     "title": "安宁疗护 / Hospice Care",
@@ -9411,6 +9447,10 @@
     "title": "OpenManus",
     "url": "/wiki/entities/openmanus/"
   },
+  "OpenSharedMythos": {
+    "title": "Open Shared Mythos",
+    "url": "/wiki/concepts/opensharedmythos/"
+  },
   "OpenSourceAIModels": {
     "title": "Open Source AI Models",
     "url": "/wiki/concepts/opensourceaimodels/"
@@ -11371,6 +11411,10 @@
     "title": "Service Productization",
     "url": "/wiki/concepts/serviceproductization/"
   },
+  "SevenGeases": {
+    "title": "《七咒赋》 / The Seven Geases",
+    "url": "/wiki/entities/sevengeases/"
+  },
   "SeventhGeneration": {
     "title": "Seventh Generation",
     "url": "/wiki/entities/seventhgeneration/"
@@ -11670,6 +11714,10 @@
   "SmartphoneSurveyPenalty": {
     "title": "Smartphone Survey Penalty",
     "url": "/wiki/concepts/smartphonesurveypenalty/"
+  },
+  "SmithStoryWorlds": {
+    "title": "Clark Ashton Smith Story Worlds",
+    "url": "/wiki/concepts/smithstoryworlds/"
   },
   "SmithVMaryland": {
     "title": "Smith v. Maryland",
@@ -12495,6 +12543,10 @@
     "title": "《机器人大师》 / The Cyberiad",
     "url": "/wiki/entities/thecyberiad/"
   },
+  "TheDoorToSaturn": {
+    "title": "《通往土星之门》 / The Door to Saturn",
+    "url": "/wiki/entities/thedoortosaturn/"
+  },
   "TheEconomicWayOfThinking": {
     "title": "《经济学的思维方式》 / The Economic Way of Thinking",
     "url": "/wiki/entities/theeconomicwayofthinking/"
@@ -12510,6 +12562,10 @@
   "TheIntelligence": {
     "title": "The Intelligence",
     "url": "/wiki/entities/theintelligence/"
+  },
+  "TheJourneyToSfanomoe": {
+    "title": "《前往斯法诺莫埃的旅途》 / The Journey to Sfanomoë",
+    "url": "/wiki/entities/thejourneytosfanomoe/"
   },
   "TheLittleMermaid": {
     "title": "《海的女儿》 / The Little Mermaid",
@@ -12550,6 +12606,10 @@
   "TheUntimely": {
     "title": "The Untimely",
     "url": "/wiki/concepts/theuntimely/"
+  },
+  "TheVaultsOfYohVombis": {
+    "title": "《深谷住民》 / The Vaults of Yoh-Vombis",
+    "url": "/wiki/entities/thevaultsofyohvombis/"
   },
   "TheWaltDisneyCompany": {
     "title": "The Walt Disney Company",
@@ -12874,6 +12934,10 @@
   "TruthSocial": {
     "title": "Truth Social",
     "url": "/wiki/entities/truthsocial/"
+  },
+  "Tsathoggua": {
+    "title": "Tsathoggua / 萨托古雅",
+    "url": "/wiki/entities/tsathoggua/"
   },
   "Tucows": {
     "title": "Tucows",
@@ -13503,6 +13567,14 @@
     "title": "Weilai Buyuan",
     "url": "/wiki/entities/weilaibuyuan/"
   },
+  "WeirdFiction": {
+    "title": "Weird Fiction",
+    "url": "/wiki/concepts/weirdfiction/"
+  },
+  "WeirdTales": {
+    "title": "Weird Tales / 诡丽幻谭",
+    "url": "/wiki/entities/weirdtales/"
+  },
   "WendyLiu": {
     "title": "Wendy Liu",
     "url": "/wiki/entities/wendyliu/"
@@ -13850,6 +13922,10 @@
   "Xuanzang": {
     "title": "玄奘",
     "url": "/wiki/entities/xuanzang/"
+  },
+  "XujingQitan": {
+    "title": "《虚境奇谭》",
+    "url": "/wiki/entities/xujingqitan/"
   },
   "XunweiShunde": {
     "title": "寻味顺德",
