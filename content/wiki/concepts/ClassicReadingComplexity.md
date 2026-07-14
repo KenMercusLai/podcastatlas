@@ -2,7 +2,7 @@
 title: "Classic Reading Complexity"
 type: concept
 tags: [literature, classics, reading, judgment]
-sources: [177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 73-xujing-qitan-kongbu-youmo-zuihaode-kesulu-675865061]
+sources: [179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 73-xujing-qitan-kongbu-youmo-zuihaode-kesulu-675865061]
 last_updated: 2026-07-15
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-15
 Classic reading complexity is the discipline of reading old or canonical works without reducing them to reverence, rejection, plot labels, or present-day moral shorthand. In [[49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]], [[QinZong|秦总]] and [[LiWuya|李乌鸦]] move from 《傲慢与偏见》, 《红与黑》, 《小妇人》, 《小美人鱼》, 《牛虻》, 《钢铁是怎样炼成的》, 《三个火枪手》, and 《九三年》 toward a broader argument: classics may contain outdated values, but they also preserve scene texture, craft, historical information, and durable human questions.
 
 The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryReading]]. Fast summaries and online labels can be useful entry points, but they also make it easy to replace a work's felt complexity with a portable judgment. Classic reading asks the reader to keep personal dislike, historical critique, literary craft, and original textual detail separate enough to think.
+
+[[179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805]] adds [[AliceInWonderland|《爱丽丝梦游仙境》]] as a childhood-classic case whose difficulty is easy to underestimate. The episode asks readers to keep [[LewisCarroll|Lewis Carroll / 刘易斯·卡罗尔]]'s [[NonsenseLogic]], [[WonderlandLanguageGames]], [[DreamLogicNarrative]], [[RuleShiftingMathematics]], and [[SizeChangeIdentity]] visible rather than reducing the book to a strange plot or a childhood memory.
 
 [[177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]] adds childhood-memory complexity. The episode treats children's classics, red books, comics, world-history picture books, fairy tales, and early internet literature as works whose later value cannot be judged only by whether their original ideology, science, or moral framing remains correct. The reading problem is to recover what the child actually encountered while also marking what adulthood can now criticize.
 
@@ -59,10 +61,12 @@ The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryR
 - A culturally familiar classic can require returning from adaptation memory to source layers: authorship, folklore, religious imagery, earlier variants, and uncertain political allusion may all be part of the reading problem.
 - A pulp or weird-fiction classic can require attention to language, publication context, mythos sharing, and humor; plot summary alone may miss the literary effect.
 - A morally uncomfortable film classic can require [[MoralSuspensionInArtReading]]: dislike and critique can remain, but quick labels should not replace attention to form, history, and character pressure.
+- A familiar children's classic can hide mathematical, linguistic, dream-structural, and biographical complexity under a surface of playful nonsense.
 
 ## Connections
 - [[ReadingAsLifeExperience]] - reader state affects when classics become available or unbearable.
 - [[NonInstrumentalLiteraryReading]] - classics need not justify themselves only by direct utility.
+- [[AliceInWonderland]], [[NonsenseLogic]], [[WonderlandLanguageGames]], [[DreamLogicNarrative]], and [[RuleShiftingMathematics]] - episode 179's extension into Alice as a rule-shifting childhood classic.
 - [[ReadingAsFrameTraining]] - classics expose older frames and let the reader compare them with their own.
 - [[NonInstrumentalUnderstanding]] - understanding an old work can matter before it becomes advice or decision support.
 - [[AdultSatiricalChildrensClassics]] - specific rereading frame for works remembered as children's literature.

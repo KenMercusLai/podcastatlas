@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [179.爱丽丝梦游仙境：世界多荒诞，我也是自己的主宰（上）](sources/179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805.md) — 蜜獾吃书 episode on 《爱丽丝梦游仙境》, Lewis Carroll, nonsense logic, language games, dream narrative, rule-shifting mathematics, size-change identity, and cautious handling of the Alice Liddell controversy.
 - [178.母权论：伟大的错误or深刻的洞见？母权社会存在过吗？](sources/178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368.md) — 蜜獾吃书 episode on Bachofen's 《母权论》, the matriarchy question, matrilineal/matrilocal/matriarchal distinctions, myth as evidence, goddess-proof overreach, Japanese and Minoan examples, monogamy, and gendered power as uncertainty-cost distribution.
 - [177.小时候的书，怎么就那么好看！](sources/177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036.md) — 蜜獾吃书 episode on childhood reading ecology, Zheng Yuanjie, children's-literature complexity, science adventure, girl-centered fiction, pseudoscience literacy, and publishing risk avoidance.
 - [176.为什么越是吃肉，越要关注动物福利？](sources/176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722.md) — 蜜獾吃书 episode with 猪哥/猪场严选 on food-animal welfare, livestock-worker moral injury, slaughter methods, welfare labeling, pork and egg misconceptions, and practical consumer feedback.
@@ -393,6 +394,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Alice's Adventures in Wonderland / 爱丽丝梦游仙境](entities/AliceInWonderland.md) — Carroll's classic treated by episode 179 as nonsense logic, language play, dream narrative, mathematical rule-shifting, and anti-didactic children's literature.
+- [Lewis Carroll / 刘易斯·卡罗尔](entities/LewisCarroll.md) — Oxford mathematics lecturer and author of Alice, discussed through language play, mathematics, and cautious biography.
+- [Alice Liddell / 爱丽丝·利德尔](entities/AliceLiddell.md) — Real child associated with Alice's origin story and later evidence-bounded Carroll controversy.
+- [Alice / 爱丽丝](entities/AliceWonderlandCharacter.md) — Wonderland protagonist whose changing body and self-testing ground the episode's size-change identity frame.
+- [White Rabbit / 白兔](entities/WhiteRabbit.md) — Time-pressure portal figure whose watch, lateness, fan, and gloves pull Alice into Wonderland's unstable order.
+- [Cheshire Cat / 柴郡猫](entities/CheshireCat.md) — Wonderland character used to show how idiom, grin, and period language become character design and translation trouble.
+- [Blue Caterpillar / 蓝色毛毛虫](entities/BlueCaterpillar.md) — Hookah-smoking figure whose "who are you" question and mushroom advice focus identity and feedback regulation.
 - [Johann Jakob Bachofen](entities/JohannJakobBachofen.md) — Jurist and classical scholar whose 《母权论》 is treated as a disputed but influential challenge to patriarchal-eternity assumptions.
 - [《母权论》 / Mother Right](entities/MotherRight.md) — Bachofen's 1861 book used by episode 178 to examine mother-right, myth, kinship, inheritance, and modern caution about matriarchy claims.
 - [Lewis Henry Morgan](entities/LewisHenryMorgan.md) — 19th-century anthropology figure connected to Bachofen and later debates over kinship and patriarchal historical contingency.
@@ -2437,6 +2445,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Nonsense Logic](concepts/NonsenseLogic.md) — Episode 179 frame for rule-governed absurdity in Wonderland rather than random weirdness.
+- [Wonderland Language Games](concepts/WonderlandLanguageGames.md) — Puns, homophones, idioms, nursery-rhyme parody, typography, and miscommunication that make Alice hard to translate.
+- [Dream Logic Narrative](concepts/DreamLogicNarrative.md) — Narrative movement by association, transformation, and emotional continuity rather than conventional plot causality.
+- [Size Change Identity](concepts/SizeChangeIdentity.md) — Alice's changing body as an identity, access, and self-command problem.
+- [Rule-Shifting Mathematics](concepts/RuleShiftingMathematics.md) — Carroll/Alice frame where arithmetic, geometry, scale, and coordinates change under the reader.
+- [Victorian Anti-Didactic Children's Literature](concepts/VictorianAntiDidacticChildrensLiterature.md) — Reading Alice as a child-delighting reversal of moralizing children's books.
+- [Feedback Regulation As Self-Adjustment](concepts/FeedbackRegulationAsSelfAdjustment.md) — Mushroom-sequence frame for testing, overshoot, correction, and convergence toward workable scale.
 - [Matriarchy Question](concepts/MatriarchyQuestion.md) — Episode 178 frame for asking what mother-right can reveal even when universal ancient matriarchy remains unproven.
 - [Kinship Power Distinction](concepts/KinshipPowerDistinction.md) — Guardrail separating matrilineal descent, matrilocal residence, and actual female political or resource power.
 - [Myth As Historical Evidence](concepts/MythAsHistoricalEvidence.md) — Bachofen method where myths can expose social memory and legal anxieties but need support before becoming historical claims.

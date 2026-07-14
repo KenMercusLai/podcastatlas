@@ -2,7 +2,7 @@
 title: "Non-Instrumental Literary Reading"
 type: concept
 tags: [reading, literature, fiction, attention]
-sources: [177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
+sources: [179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
 last_updated: 2026-07-15
 ---
 
@@ -13,6 +13,8 @@ Non-instrumental literary reading is the refusal to judge fiction and literary c
 This concept specializes [[NonInstrumentalUnderstanding]] for literature. It also complements [[ReadingAsFrameTraining]]: a reader may gain a frame from a novel, but the novel's value is not exhausted by the frame. It includes entering other lives, feeling the world become bearable again, and learning what kind of attention the reader wants to keep.
 
 [[177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]] adds the childhood version. The episode rejects the claim that reading only counts when it first forms a tidy system; childhood books work non-instrumentally when they leave fear, delight, rebellion, world history, gender possibility, natural wonder, and even later-corrected wrong ideas inside the reader.
+
+[[179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805]] adds a close-rereading version through [[AliceInWonderland|《爱丽丝梦游仙境》]]. The episode's value is not a plot summary of Wonderland, but the experience of letting [[AliceWonderlandCharacter|Alice / 爱丽丝]]'s changing body, failed lessons, language confusions, and dream movement make childhood reading strange again.
 
 [[jiaqi-moyu-geng-jiankang-574391976]] adds the show's explicit method statement through [[StoryBasedEmpathy]]. The episode argues that literature matters because concrete stories can reach emotions and social complexity that direct doctrine often cannot, making reading useful without reducing it to advice, summary, or argument victory.
 
@@ -65,11 +67,13 @@ This concept specializes [[NonInstrumentalUnderstanding]] for literature. It als
 - Literature can justify a show format because its value is often the slow expansion of empathy rather than a concise takeaway.
 - A science-fiction classic can be non-instrumental when its dimensional thought experiment changes how sight, authority, and social order feel before it offers any lesson.
 - A mythic classic can be non-instrumental when rereading makes familiar characters feel historically, religiously, and folklorically layered rather than merely useful as plot memories.
+- A nonsense classic can be non-instrumental when its value lies in experiencing unstable language, body, time, and rules rather than extracting a moral.
 
 ## Connections
 - [[NonInstrumentalUnderstanding]] - broader concept for knowledge that is not immediately utility-driven.
 - [[ReadingAsLifeExperience]] - lived reading is the medium through which non-instrumental value appears.
 - [[ClassicReadingComplexity]] - classics often require non-instrumental patience before their value is visible.
+- [[AliceInWonderland]], [[DreamLogicNarrative]], [[SizeChangeIdentity]], and [[WonderlandLanguageGames]] - episode 179's extension into Alice as experiential nonsense reading.
 - [[PersonalKnowledgeEcology]] - literary experiences can become part of a reader's long-term thought environment.
 - [[HumanAgencyUnderAI]] - choosing where to spend one's own attention remains part of agency even when summaries are available.
 - [[AfghanWomenFirstPersonWriting]] and [[LiteraryPublishingAsMaterialSupport]] - episode 156's extension from literary experience into witness and material support.

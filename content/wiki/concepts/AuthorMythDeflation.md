@@ -2,7 +2,7 @@
 title: "Author Myth Deflation"
 type: concept
 tags: [literature, biography, canon, interpretation]
-sources: [60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
+sources: [179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
 last_updated: 2026-07-15
 ---
 
@@ -18,6 +18,8 @@ The episode's value is partly emotional. By showing canonical writers as embodie
 
 [[107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]] extends the same method into cinema through [[DirectorMythDeflation]]. The director version adds collective labor, set hierarchy, actress treatment, propaganda service, and forgotten women filmmakers to the broader problem of how cultural canons turn complicated artists into clean monuments.
 
+[[179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805]] adds a more severe evidence-discipline case through [[LewisCarroll|Lewis Carroll / 刘易斯·卡罗尔]]. The episode deflates a harmless-genius image by discussing child photography and the [[AliceLiddell|Alice Liddell / 爱丽丝·利德尔]] controversy, but it also refuses to turn uncertain historical materials into a conclusive accusation.
+
 ## Key Claims
 - Great literary talent does not imply good politics, stable judgment, domestic kindness, or personal elegance.
 - Deflating an author myth should widen interpretation, not replace one simple image with another.
@@ -27,9 +29,11 @@ The episode's value is partly emotional. By showing canonical writers as embodie
 - A writer can be progressive in one register and reactionary in another; political self-description is not enough to settle moral judgment.
 - Gender changes author biography: a woman's career can be narratively crowded by marriage, husbands, disappearance, and domestic framing in ways male scandals are not.
 - The same deflation method can travel from literature into film, but directing adds production power and collaborator erasure.
+- Deflating an author myth should keep evidentiary standards visible most strongly when allegations involve children, sexuality, memory, and historical context.
 
 ## Connections
 - [[LiteraryGossipAsContext]] - method for handling biographical anecdotes with uncertainty.
+- [[LewisCarroll]], [[AliceLiddell]], and [[AliceInWonderland]] - episode 179 case where author myth deflation requires caution rather than certainty.
 - [[ClassicReadingComplexity]] - reading old works without reverence or rejection alone.
 - [[OscarWilde]], [[LeoTolstoy]], [[HenryDavidThoreau]], [[LouisaMayAlcott]], [[VirginiaWoolf]], [[WBYeats]], and [[JRRTolkien]] - main examples.
 - [[LordByron]], [[HonoreDeBalzac]], [[EdgarAllanPoe]], [[AgathaChristie]], and [[JackLondon]] - second-installment examples.

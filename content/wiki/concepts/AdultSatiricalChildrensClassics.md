@@ -2,8 +2,8 @@
 title: "Adult Satire In Children's Classics"
 type: concept
 tags: [literature, satire, childhood, classics]
-sources: [157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
-last_updated: 2026-07-14
+sources: [179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
+last_updated: 2026-07-15
 ---
 
 # Adult Satire In Children's Classics
@@ -16,14 +16,18 @@ The source's core claim is that adult readers can see layers that child readers 
 
 [[55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]] adds [[HansChristianAndersen|安徒生]] as a fairy-tale case that is not only satire. 《屎壳郎》 supplies status satire, but the episode broadens the frame toward [[AdultFairyTaleReading]]: children's classics can also carry death, shame, toy tragedy, translation choices, faith, and spiritual longing.
 
+[[179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805]] adds [[AliceInWonderland|《爱丽丝梦游仙境》]] as an anti-didactic and nonsense case. The episode is less focused on overt political satire than on how adult rereading reveals [[WonderlandLanguageGames]], [[RuleShiftingMathematics]], [[DreamLogicNarrative]], [[SizeChangeIdentity]], and procedure comedy inside a book remembered as whimsical childhood fantasy.
+
 ## Key Claims
 - A book's later children's-market position does not exhaust its original or adult meaning.
 - Fantasy voyages can make empire, governance, science, and violence easier to satirize.
 - Rereading childhood texts can expose how political and philosophical questions were hidden inside memorable scenes.
 - This frame extends [[ClassicReadingComplexity]] because a familiar classic may need a second adult reading rather than only nostalgia.
 - Some childhood classics are adult not because they are satirical in every scene, but because they preserve loneliness, mortality, desire, and belief without condescending to children.
+- Some childhood classics are adult because their nonsense preserves language theory, mathematics, identity pressure, and social-procedure satire without becoming didactic.
 
 ## Connections
+- [[AliceInWonderland]], [[NonsenseLogic]], [[WonderlandLanguageGames]], and [[RuleShiftingMathematics]] - Alice extension added by episode 179.
 - [[AdventuresOfBaronMunchausen|《吹牛大王历险记》]] - main source example.
 - [[GulliversTravels|《格列佛游记》 / Gulliver's Travels]] - episode 51's source example for English political satire under a childhood-classic surface.
 - [[TallTaleTradition]] and [[AbsurdRationality]] - literary mechanics behind the satire.

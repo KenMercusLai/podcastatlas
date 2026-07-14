@@ -2,7 +2,7 @@
 title: "Literary Gossip As Context"
 type: concept
 tags: [literature, biography, interpretation, uncertainty]
-sources: [60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
+sources: [179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
 last_updated: 2026-07-15
 ---
 
@@ -18,6 +18,8 @@ The source's practical rule is source discipline. Gossip can reveal why [[OscarW
 
 [[107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]] creates the adjacent [[FilmGossipAsContext]] branch. The shared rule is uncertainty, but the film version shifts attention from author lives to sets, studios, collaborators, actress treatment, political propaganda, and the gendered memory of who counts as a director.
 
+[[179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805]] adds [[LewisCarroll|Lewis Carroll / 刘易斯·卡罗尔]] and [[AliceLiddell|Alice Liddell / 爱丽丝·利德尔]] as a cautionary case. The episode discusses child photography, later suspicion, period context, Liddell's later memories, and modern ethical limits, while explicitly warning that speculation should not be treated as fact.
+
 ## Key Claims
 - Author anecdotes can help readers remember historical context, publishing context, and public reputation.
 - Gossip must be source-scoped because biography is often partial, interested, secondhand, or contested.
@@ -26,8 +28,10 @@ The source's practical rule is source discipline. Gossip can reveal why [[OscarW
 - Literary history includes bodies, illnesses, households, friendships, politics, and memorials as well as texts.
 - Repeated gossip installments should accumulate context, not loosen attribution standards; severe claims about sexuality, racism, death, or authorship need especially visible source boundaries.
 - In film, gossip often points to production power and collaborator memory, not just personal eccentricity.
+- When author gossip involves children and possible sexualized interpretation, uncertainty, period context, present-day ethical judgment, and source limits must all remain explicit.
 
 ## Connections
+- [[179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805]], [[LewisCarroll]], and [[AliceLiddell]] - Alice episode's evidence-bounded author-biography case.
 - [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]] - source episode.
 - [[82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589]] - second great-writer gossip installment.
 - [[AuthorMythDeflation]] - related concept for pulling great writers down from saintly images.
