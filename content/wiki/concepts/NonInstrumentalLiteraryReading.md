@@ -2,7 +2,7 @@
 title: "Non-Instrumental Literary Reading"
 type: concept
 tags: [reading, literature, fiction, attention]
-sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
+sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
 last_updated: 2026-07-14
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-14
 Non-instrumental literary reading is the refusal to judge fiction and literary classics only by immediate knowledge gain, productivity, or visible output. In [[49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]], [[QinZong|秦总]] and [[LiWuya|李乌鸦]] compare reading to travel, emotional repair, solitude, and living additional possible lives. The claim is not that literature is useless, but that its usefulness often arrives through experience rather than extractable points.
 
 This concept specializes [[NonInstrumentalUnderstanding]] for literature. It also complements [[ReadingAsFrameTraining]]: a reader may gain a frame from a novel, but the novel's value is not exhausted by the frame. It includes entering other lives, feeling the world become bearable again, and learning what kind of attention the reader wants to keep.
+
+[[03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687]] adds a theological science-fiction version through [[CanticleForLeibowitz|《莱博维茨的赞歌》 / A Canticle for Leibowitz]]. The source treats a difficult classic as valuable because it lets readers inhabit civilizational time, religious ambiguity, scientific rediscovery, pain, guilt, and renewal rather than reducing the book to a post-apocalyptic plot summary.
 
 [[156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198]] adds a witness-and-support version. Reading [[YiGeAfuhanNvrenDeLaixin|《一个阿富汗女人的来信》]] is not only extracting information about [[Afghanistan]]; it is encountering [[AfghanWomenFirstPersonWriting]] and, through buying, reviewing, and discussing the book, participating in [[LiteraryPublishingAsMaterialSupport]] for a living author.
 
@@ -29,6 +31,7 @@ This concept specializes [[NonInstrumentalUnderstanding]] for literature. It als
 - Literature can repair a reader's relation to people and the world by making goodness, idealism, or suffering perceptible.
 - Calculating every book by time, money, and return can erase the very experiential layer that makes literature distinct.
 - Literature can protect agency when it gives young readers language for feeling, refusal, and unfair authority outside the scoring system.
+- Difficult speculative fiction can make moral and civilizational questions available as experience before they become policy, doctrine, or argument.
 
 ## Connections
 - [[NonInstrumentalUnderstanding]] - broader concept for knowledge that is not immediately utility-driven.
@@ -41,3 +44,4 @@ This concept specializes [[NonInstrumentalUnderstanding]] for literature. It als
 - [[PuzzleSnackMystery|推理薯片]], [[WatsonPower|华生力]], and [[ClosedCircleMystery|暴风雪山庄]] - episode 158's extension into light puzzle-entertainment reading.
 - [[FuyouZhishang|《蜉蝣直上》]], [[MinnanFamilyWriting]], and [[StandUpAsSelfNarration]] - 小佳 episode extension from performer identity into prose encounter.
 - [[Matilda|《马蒂尔达》]], [[AntiAuthoritarianEducation]], and [[RedPenLogic]] - episode 160's extension into literature as resistance to score-centered education.
+- [[CanticleForLeibowitz|《莱博维茨的赞歌》 / A Canticle for Leibowitz]], [[ApocalypticLiterarySymbolism]], and [[PainAndMoralResponsibility]] - episode 03's extension into religious science fiction and civilizational moral inquiry.

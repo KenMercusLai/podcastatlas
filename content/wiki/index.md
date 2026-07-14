@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [03.莱博维茨的赞歌：要有光，哪怕废土之上](sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687.md) — 蜜獾吃书 episode on 《莱博维茨的赞歌》, post-apocalyptic fiction, nuclear self-destruction, civilization preservation, science/religion tension, moral responsibility, and Walter M. Miller Jr.'s Monte Cassino trauma.
 - [160.优秀的绵羊：请把说“不”的权利还给我](sources/160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014.md) — 蜜獾吃书 episode on 《优秀的绵羊》, 《马蒂尔达》, education pressure, red pen logic, youth mental health, helicopter parenting, Ivy League meritocracy, and restoring the right to say no.
 - [159.要精明，要善良，要解决问题](sources/159-yao-jingming-yao-shanliang-yao-jiejue-wenti-931818201.md) — 蜜獾吃书 episode on 《事已至此，走保险》, 阿健's insurance claims stories, claims information asymmetry, discretionary payment, complaint pressure, claims scalping, catastrophe claims, and child third-party liability.
 - [158.全员名侦探：推理薯片来一包！](sources/158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122.md) — 蜜獾吃书 episode on 《全员嫌疑人》, 《全员名侦探》, 推理薯片, 华生力, closed-circle mystery cases, wrong-theory comedy, and puzzle-first detective-fiction pleasure.
@@ -348,6 +349,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《莱博维茨的赞歌》 / A Canticle for Leibowitz](entities/CanticleForLeibowitz.md) — Walter M. Miller Jr. novel read by 蜜獾吃书 as a post-apocalyptic meditation on preserved knowledge, faith, science, and repeated human self-destruction.
+- [Walter M. Miller Jr.](entities/WalterMMillerJr.md) — Author whose wartime experience around Monte Cassino is used by the episode to ground the novel's religious and civilizational guilt.
+- [《辐射》 / Fallout](entities/Fallout.md) — Post-apocalyptic game series cited by the episode as an afterlife of the wasteland and religious-symbolic tradition associated with 《莱博维茨的赞歌》.
+- [《启示录》 / Book of Revelation](entities/BookOfRevelation.md) — Biblical text supplying the episode's apocalypse, judgment, fire, beast, and final-renewal vocabulary for reading nuclear wasteland fiction.
+- [卡西诺修道院 / Abbey of Monte Cassino](entities/AbbeyOfMonteCassino.md) — Ancient monastery whose World War II bombing is presented as a formative trauma behind Miller's novel.
 - [《优秀的绵羊》 / Excellent Sheep](entities/ExcellentSheep.md) — William Deresiewicz book used by episode 160 to critique elite education, compliant achievement, credential anxiety, and high-performing students losing autonomy.
 - [William Deresiewicz](entities/WilliamDeresiewicz.md) — Author of 《优秀的绵羊》, used by episode 160 as the critic diagnosing elite education's approval-seeking and anti-autonomy effects.
 - [《马蒂尔达》 / Matilda](entities/Matilda.md) — Roald Dahl story and musical frame used by episode 160 to connect children's reading, resistance to unfair authority, and the right to say no.
@@ -435,7 +441,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Flow](entities/Flow.md) — iPhone dictation app Mims uses as a voice-first AI interface for everyday messaging.
 - [Google Personal Intelligence](entities/GooglePersonalIntelligence.md) — Gemini-linked account capability used by the source to show AI acting inside Google services such as Calendar.
 - [Google Calendar](entities/GoogleCalendar.md) — Scheduling product used as the source's example of a disliked task that account-integrated AI can reduce.
-- [蜜獾吃书](entities/MihuanChishu.md) — Podcast/show context for book and life-design discussions on life restarts, machine gambling, autism support, bird science, satire, puzzle mystery, insurance claims, and reading itself.
+- [蜜獾吃书](entities/MihuanChishu.md) — Podcast/show context for book and life-design discussions on post-apocalyptic science fiction, machine gambling, autism support, bird science, satire, puzzle mystery, insurance claims, education pressure, and reading itself.
 - [李乌鸦](entities/LiWuya.md) — Book creator and guest in the 蜜獾吃书 first-anniversary episode on reading habits, classics, shame, solitude, and non-instrumental literary value.
 - [日谈](entities/Ritan.md) — Crossover context for the episode bringing Hookie, 殷姐, and 秦总 together for a Women's Day life-design conversation.
 - [Hookie](entities/Hookie.md) — Host in the restart-life episode, linking life-science career redirection, pet grief, school confidence, and learning capacity.
@@ -2111,6 +2117,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Post-Apocalyptic Civilization Preservation](concepts/PostApocalypticCivilizationPreservation.md) — Fictional and institutional pattern where survivors preserve knowledge through collapse even when they no longer understand what they are guarding.
+- [Science-Religion Civilization Tension](concepts/ScienceReligionCivilizationTension.md) — Episode 03's reading of science and religion as co-preservers and co-misreaders of truth rather than simple enemies.
+- [Civilizational Self-Destruction Cycle](concepts/CivilizationalSelfDestructionCycle.md) — Pattern in which human societies repeatedly rebuild knowledge and power only to recreate conditions for nuclear or technological self-destruction.
+- [Pain And Moral Responsibility](concepts/PainAndMoralResponsibility.md) — Moral frame from the novel's euthanasia debate, separating the reduction of suffering from responsibility for war, courage, and meaning.
+- [Apocalyptic Literary Symbolism](concepts/ApocalypticLiterarySymbolism.md) — Literary use of Revelation, Lazarus, Lucifer, light, water, relics, and new creation to make nuclear wasteland fiction morally legible.
+- [Great Filter](concepts/GreatFilter.md) — Civilizational-risk frame the episode uses to ask whether technological civilizations tend to destroy themselves after gaining catastrophic power.
 - [Anti-Authoritarian Education](concepts/AntiAuthoritarianEducation.md) — Education frame from episode 160 that preserves children's ability to say no to unreasonable authority instead of only training compliance.
 - [Red Pen Logic](concepts/RedPenLogic.md) — Internalized scoring habit from episode 160 where people judge themselves, books, views, and life paths as if waiting for a teacher's mark.
 - [Achievement Pressure Mental Health](concepts/AchievementPressureMentalHealth.md) — Youth mental-health risk created when school, family, and status competition become a narrow success-or-shame system.
@@ -2675,7 +2687,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Long-Form Conversation](concepts/LongFormConversation.md) — Interview method where time, trust, side paths, and rough thinking reveal a person's judgment and lived experience.
 - [Media Form Constraint](concepts/MediaFormConstraint.md) — Pressure from duration, conclusions, information gain, public utility, and platform expectations that shapes what content can say.
 - [Non-Instrumental Understanding](concepts/NonInstrumentalUnderstanding.md) — Treating a topic as worth understanding even when it does not immediately produce advice, prediction, or decision utility.
-- [Non-Instrumental Literary Reading](concepts/NonInstrumentalLiteraryReading.md) — Reading fiction and classics as experience, emotional repair, and possible-life exploration rather than only extractable utility.
+- [Non-Instrumental Literary Reading](concepts/NonInstrumentalLiteraryReading.md) — Reading fiction and classics as experience, emotional repair, possible-life exploration, and moral inquiry rather than only extractable utility.
 - [Video Podcast Affordance](concepts/VideoPodcastAffordance.md) — Video-podcast capacity to carry gestures, bodies, images, objects, and spatial context that audio-only formats may lose.
 - [Business-Model Organization Fit](concepts/BusinessModelOrganizationFit.md) — Principle that organization mechanisms should follow business chain length, cycle, gross margin, and competition pattern rather than copy big-company rituals.
 - [Recruiting Supply Strategy](concepts/RecruitingSupplyStrategy.md) — Founder-level hiring method focused on clarifying role demand, mapping talent supply, and reaching strong candidates before interviews.
@@ -2901,10 +2913,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Short-Term News Bias](concepts/ShortTermNewsBias.md) — Media and attention pattern where sudden bad events dominate over slow improvements.
 - [Positive Journalism](concepts/PositiveJournalism.md) — Craft challenge of making true positive developments serious, interesting, and useful rather than fluffy.
 - [Beauty in Communication](concepts/BeautyInCommunication.md) — Design idea that true information often needs aesthetic force to be noticed, remembered, and discussed.
-- [Apocalyptic Thinking](concepts/ApocalypticThinking.md) — Doom-oriented belief pattern that can paralyze action when crisis awareness turns into fatalism.
+- [Apocalyptic Thinking](concepts/ApocalypticThinking.md) — Doom-oriented belief pattern that can paralyze action, qualified by literary apocalypse as a frame for responsibility and renewal.
 - [Participatory Exhibitions](concepts/ParticipatoryExhibitions.md) — Exhibition format where visitors discover, act, discuss, and physically engage with the work.
 - [Design Under Constraints](concepts/DesignUnderConstraints.md) — Design practice of using budgets, briefs, existing spaces, materials, labels, and production limits as part of the solution.
-- [Civilizational Optionality](concepts/CivilizationalOptionality.md) — Long-term resilience frame focused on preserving and expanding possible futures for human, machine, and ecological systems.
+- [Civilizational Optionality](concepts/CivilizationalOptionality.md) — Long-term resilience frame focused on preserving and expanding possible futures, from planetary regeneration to emergency preservation after catastrophe.
 - [Systemic Degenerative Volatility](concepts/SystemicDegenerativeVolatility.md) — Cascading risk condition where climate, ecology, geopolitics, food, energy, and technology shocks interact.
 - [Planetary Self-Awareness](concepts/PlanetarySelfAwareness.md) — Frame for Earth becoming able to perceive and act on itself through human, machine, and ecological systems.
 - [Foundational Economies](concepts/FoundationalEconomies.md) — Nutrition, shelter, energy, soil, water, biointegrity, and cognitive security as democratic and civilizational capacities.
@@ -3003,7 +3015,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [X/F/FX Framework](concepts/XFFXFramework.md) — Cognitive model distinguishing the world or problem, the frame used to see it, and the visible result.
 - [AI-Assisted Reading](concepts/AIAssistedReading.md) — Reading practice that uses AI to extract structures, compare frames, surface blind spots, and lower barriers without replacing human judgment.
 - [Reading As Frame Training](concepts/ReadingAsFrameTraining.md) — Claim that reading books and talking with people trains the reader's frame rather than only collecting cases or conclusions.
-- [Reading As Life Experience](concepts/ReadingAsLifeExperience.md) — Reading as a lived practice shaped by body, memory, mood, timing, family atmosphere, and everyday materials.
+- [Reading As Life Experience](concepts/ReadingAsLifeExperience.md) — Reading as a lived practice shaped by body, memory, mood, timing, family atmosphere, everyday materials, and difficult moral imagination.
 - [Classic Reading Complexity](concepts/ClassicReadingComplexity.md) — Discipline for reading classics without reducing them to reverence, cancellation, plot labels, or present-day moral shorthand.
 - [Family Reading Ecology](concepts/FamilyReadingEcology.md) — Household reading environment that shapes whether books feel ordinary, forbidden, instrumental, status-coded, or inviting.
 - [Personal Knowledge Ecology](concepts/PersonalKnowledgeEcology.md) — View of notes, shelves, whiteboards, conversations, and AI context as a living environment for thought.

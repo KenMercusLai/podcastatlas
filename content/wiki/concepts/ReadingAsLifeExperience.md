@@ -2,7 +2,7 @@
 title: "Reading As Life Experience"
 type: concept
 tags: [reading, literature, attention, life-practice]
-sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
+sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
 last_updated: 2026-07-14
 ---
 
@@ -16,6 +16,8 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 
 [[160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]] adds the child-and-student version through [[Matilda|《马蒂尔达》]]. Reading becomes part of life experience because it can give a child emotional language, a model of resistance, and a way to notice that adults and institutions may be wrong.
 
+[[03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687]] adds a civilizational-time version through [[CanticleForLeibowitz|《莱博维茨的赞歌》 / A Canticle for Leibowitz]]. The episode shows reading as a way to live with religious symbols, nuclear fear, historical guilt, and moral difficulty without flattening them into a single lesson.
+
 ## Key Claims
 - Reading includes bodily and material conditions: paper weight, binding, posture, fatigue, and surroundings can change whether a book is actually read.
 - Reading includes timing: a painful or demanding book can be deferred without losing its legitimacy.
@@ -23,6 +25,7 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 - Reading can be a form of self-preservation when it lets a person connect with the world while retaining solitude.
 - Treating books only as output, taste signal, or efficiency project misses why reading survives as a life habit.
 - Reading can help a young person sense unfairness and possibility before they can articulate a formal plan.
+- Reading can let a person imaginatively experience centuries of collapse, preservation, rediscovery, and renewal as more than abstract history.
 
 ## Connections
 - [[QinZong|秦总]] and [[LiWuya|李乌鸦]] - source voices.
@@ -32,3 +35,4 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 - [[PersonalKnowledgeEcology]] - books become part of a person's long-term environment for thought.
 - [[FuyouZhishang|《蜉蝣直上》]] and [[MinnanFamilyWriting]] - later source extension into contemporary nonfiction, family memory, and regional texture.
 - [[Matilda|《马蒂尔达》]] and [[AntiAuthoritarianEducation]] - later source extension into children's literature as agency formation.
+- [[CanticleForLeibowitz|《莱博维茨的赞歌》 / A Canticle for Leibowitz]], [[PostApocalypticCivilizationPreservation]], and [[ApocalypticLiterarySymbolism]] - source extension into civilizational and religious science-fiction reading.

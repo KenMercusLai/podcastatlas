@@ -1,4 +1,8 @@
 {
+  "03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687": {
+    "title": "03.莱博维茨的赞歌：要有光，哪怕废土之上",
+    "url": "/wiki/sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687/"
+  },
   "1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6": {
     "title": "1 人公司，扛 5 个人的活，还要管 50 个 Agents？｜S10E18",
     "url": "/wiki/sources/1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6/"
@@ -775,6 +779,10 @@
     "title": "Aaron Swartz",
     "url": "/wiki/entities/aaronswartz/"
   },
+  "AbbeyOfMonteCassino": {
+    "title": "卡西诺修道院 / Abbey of Monte Cassino",
+    "url": "/wiki/entities/abbeyofmontecassino/"
+  },
   "AbelardoDeLaEspriella": {
     "title": "Abelardo de la Espriella",
     "url": "/wiki/entities/abelardodelaespriella/"
@@ -1274,6 +1282,10 @@
   "ApexDigital": {
     "title": "APEX Digital",
     "url": "/wiki/entities/apexdigital/"
+  },
+  "ApocalypticLiterarySymbolism": {
+    "title": "Apocalyptic Literary Symbolism",
+    "url": "/wiki/concepts/apocalypticliterarysymbolism/"
   },
   "ApocalypticThinking": {
     "title": "Apocalyptic Thinking",
@@ -1939,6 +1951,10 @@
     "title": "Boeing",
     "url": "/wiki/entities/boeing/"
   },
+  "BookOfRevelation": {
+    "title": "《启示录》 / Book of Revelation",
+    "url": "/wiki/entities/bookofrevelation/"
+  },
   "Bookface": {
     "title": "Bookface",
     "url": "/wiki/entities/bookface/"
@@ -2186,6 +2202,10 @@
   "CangShifu": {
     "title": "Cang Shifu",
     "url": "/wiki/entities/cangshifu/"
+  },
+  "CanticleForLeibowitz": {
+    "title": "《莱博维茨的赞歌》 / A Canticle for Leibowitz",
+    "url": "/wiki/entities/canticleforleibowitz/"
   },
   "CaoXudong": {
     "title": "Cao Xudong",
@@ -2586,6 +2606,10 @@
   "CivilizationalOptionality": {
     "title": "Civilizational Optionality",
     "url": "/wiki/concepts/civilizationaloptionality/"
+  },
+  "CivilizationalSelfDestructionCycle": {
+    "title": "Civilizational Self-Destruction Cycle",
+    "url": "/wiki/concepts/civilizationalselfdestructioncycle/"
   },
   "ClaireIsabelWebb": {
     "title": "Claire Isabel Webb",
@@ -4207,6 +4231,10 @@
     "title": "Falcon 9",
     "url": "/wiki/entities/falcon9/"
   },
+  "Fallout": {
+    "title": "《辐射》 / Fallout",
+    "url": "/wiki/entities/fallout/"
+  },
   "FamilyBusinessScaling": {
     "title": "Family Business Scaling",
     "url": "/wiki/concepts/familybusinessscaling/"
@@ -5102,6 +5130,10 @@
   "GreatDismalSwamp": {
     "title": "Great Dismal Swamp",
     "url": "/wiki/entities/greatdismalswamp/"
+  },
+  "GreatFilter": {
+    "title": "Great Filter",
+    "url": "/wiki/concepts/greatfilter/"
   },
   "GreatHarvestBread": {
     "title": "Great Harvest Bread",
@@ -8527,6 +8559,10 @@
     "title": "PageRank Search Relevance",
     "url": "/wiki/concepts/pageranksearchrelevance/"
   },
+  "PainAndMoralResponsibility": {
+    "title": "Pain And Moral Responsibility",
+    "url": "/wiki/concepts/painandmoralresponsibility/"
+  },
   "Palantir": {
     "title": "Palantir",
     "url": "/wiki/entities/palantir/"
@@ -8978,6 +9014,10 @@
   "PostAcquisitionFounderIdentity": {
     "title": "Post-Acquisition Founder Identity",
     "url": "/wiki/concepts/postacquisitionfounderidentity/"
+  },
+  "PostApocalypticCivilizationPreservation": {
+    "title": "Post-Apocalyptic Civilization Preservation",
+    "url": "/wiki/concepts/postapocalypticcivilizationpreservation/"
   },
   "PostBrexitImmigrationPolitics": {
     "title": "Post-Brexit Immigration Politics",
@@ -9982,6 +10022,10 @@
   "ScalingBrokenProduct": {
     "title": "Scaling Broken Product",
     "url": "/wiki/concepts/scalingbrokenproduct/"
+  },
+  "ScienceReligionCivilizationTension": {
+    "title": "Science-Religion Civilization Tension",
+    "url": "/wiki/concepts/sciencereligioncivilizationtension/"
   },
   "ScientificSamplingDiscipline": {
     "title": "Scientific Sampling Discipline",
@@ -11894,6 +11938,10 @@
   "WaltDisneyWorld": {
     "title": "Walt Disney World",
     "url": "/wiki/entities/waltdisneyworld/"
+  },
+  "WalterMMillerJr": {
+    "title": "Walter M. Miller Jr.",
+    "url": "/wiki/entities/waltermmillerjr/"
   },
   "WalterSickert": {
     "title": "Walter Sickert",
