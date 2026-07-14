@@ -3060,3 +3060,11 @@ Added source page for the 蜜獾吃书 episode with 钱静 on 《我有自己的
 ## [2026-07-15] lint | Wiki health check
 
 Ran health and lint checks. Health passed with no empty/stub files, index drift, or source-log coverage gaps across 3,932 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is unset and no provider API-key variables are present. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-15] ingest | 153.我的名字叫红：用一千零一夜的心跳完成这场谋杀(上）
+
+Added source page for the 蜜獾吃书 upper episode on Orhan Pamuk's 《我的名字叫红》, Istanbul, Persian and Ottoman miniature painting, Sufi image legitimacy, divine perspective aesthetics, Frankish portrait pressure, style as trace, multi-perspective narration, and the Hüsrev/Shirin story setup. Created pages for Istanbul, Persian Miniature Painting, Sufi Image Legitimacy, Divine Perspective Aesthetics, Borderland Cultural Identity, and Story-Within-Story Narration; updated overview, index, 蜜獾吃书, Ottoman Empire, Orhan Pamuk, My Name Is Red, Ottoman Miniature Painting, Frankish Portraiture Pressure, Miniature Style-Signature Tension, Blindness-Memory Art Ideal, and Multi-Perspective Murder Narration. No direct contradiction found; the source complements the already-ingested lower episode by supplying the historical, religious, and narrative setup before the later investigation and ending.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

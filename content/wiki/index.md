@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [153.我的名字叫红：用一千零一夜的心跳完成这场谋杀(上）](sources/153-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-shang-917670296.md) — 蜜獾吃书 episode opening the Pamuk two-parter with Istanbul, Persian and Ottoman miniature painting, Sufi image legitimacy, divine perspective, Frankish portrait pressure, style as trace, and the story setup through Black and Shekure's reunion.
 - [sp.02 我有自己的宇宙：如何在混沌中做个清醒的行动派](sources/sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778.md) — 蜜獾吃书 episode with 钱静 on 《我有自己的宇宙》, 中庸我, 避坑内容, career and civil-service anxiety, workplace conflict, original-family independence, macro narrative anxiety, and action against anxiety.
 - [108.祖与占：爱与不爱，巴黎就在那里（耸肩）](sources/108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905.md) — 蜜獾吃书 episode on 《祖与占》 / Jules and Jim, Truffaut, Roche, French New Wave, triangle intimacy, gendered freedom, war rupture, and suspending crude moral judgment.
 - [82.闲聊伟大作家的八卦（第二弹）](sources/82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589.md) — 蜜獾吃书 episode continuing literary gossip through Byron, Balzac, Poe, Agatha Christie, Jack London, author myth deflation, gendered biography, and political contradiction.
@@ -385,6 +386,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Istanbul / 伊斯坦布尔](entities/Istanbul.md) — Pamuk city context for 《我的名字叫红》, linking East-West borderland identity, Ottoman court culture, religious pressure, and Black's return.
 - [钱静](entities/QianJing.md) — Workplace-psychology researcher and author using 中庸我, objective self-ownership, and action against anxiety to answer career, family, and selfhood dilemmas.
 - [《我有自己的宇宙》](entities/WoYouZijiDeYuzhou.md) — 钱静 book discussed by 蜜獾吃书 as a practical psychology guide to becoming clearer and more self-directed inside disorder.
 - [Francois Truffaut / 特吕弗](entities/FrancoisTruffaut.md) — French New Wave director whose 《祖与占》 adaptation turns Roche's compressed autobiographical novel into formally light but emotionally severe cinema.
@@ -2382,6 +2384,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Persian Miniature Painting](concepts/PersianMiniaturePainting.md) — Inherited manuscript-painting lineage behind the Pamuk episode's Ottoman miniature tradition, including story images, master forms, and cross-cultural influence.
+- [Sufi Image Legitimacy](concepts/SufiImageLegitimacy.md) — Religious defense for miniature image-making as a vehicle of divine vision, while remaining vulnerable to charges of vanity or idolatry.
+- [Divine Perspective Aesthetics](concepts/DivinePerspectiveAesthetics.md) — Miniature-painting ideal of showing the world beyond one human optical viewpoint, contrasted with Renaissance perspective and portrait likeness.
+- [Borderland Cultural Identity](concepts/BorderlandCulturalIdentity.md) — Identity pattern where Istanbul, Pamuk, and 《我的名字叫红》 are defined by pressure between East/West, old/new, religion/secularity, and local/foreign forms.
+- [Story-Within-Story Narration](concepts/StoryWithinStoryNarration.md) — Narrative technique where embedded tales and images such as Hüsrev and Shirin become part of the murder plot and coded communication.
 - [Zhongyong Self](concepts/ZhongyongSelf.md) — 钱静's 中庸我 concept: a selfhood pattern balancing relational life with recognized selfhood rather than disappearing into consensus.
 - [Internet Risk-Avoidance Trap](concepts/InternetRiskAvoidanceTrap.md) — Pattern where 避坑/避雷 content edits partial truth into anxiety and substitutes cautionary consensus for personal judgment.
 - [Objective Self-Ownership](concepts/ObjectiveSelfOwnership.md) — Practice of recognizing one's actual conditions without turning them into shame, excuse, or disqualification.
