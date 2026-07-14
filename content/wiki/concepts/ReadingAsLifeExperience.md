@@ -2,7 +2,7 @@
 title: "Reading As Life Experience"
 type: concept
 tags: [reading, literature, attention, life-practice]
-sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
+sources: [63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
 last_updated: 2026-07-14
 ---
 
@@ -22,6 +22,8 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 
 [[55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]] adds a childhood-return version through [[HansChristianAndersen|安徒生]]. The source emphasizes that a story such as 《鹳鸟》 can become clearer only after adult experiences of mockery or exclusion, while 《铜猪》 shows how childhood reading can shape later travel, art memory, and the desire to see a real place.
 
+[[63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972]] adds a midlife-fiction version through [[KakutaMitsuyo|角田光代]]'s [[ThirtySeven|《37》]]. The episode uses 小华's marriage refusal, career fork, and late understanding of her mother's cake not as abstract advice but as a way to inhabit adult uncertainty, regret, and [[EmpathyAsAestheticCapacity]].
+
 ## Key Claims
 - Reading includes bodily and material conditions: paper weight, binding, posture, fatigue, and surroundings can change whether a book is actually read.
 - Reading includes timing: a painful or demanding book can be deferred without losing its legitimacy.
@@ -32,6 +34,7 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 - Reading can help a young person sense unfairness and possibility before they can articulate a formal plan.
 - Reading can let a person imaginatively experience centuries of collapse, preservation, rediscovery, and renewal as more than abstract history.
 - Reading can leave dormant emotional material that becomes intelligible only when later life supplies the missing experience.
+- Fiction can model unresolved adult choice without forcing the reader into a clean moral, making uncertainty itself part of the reading experience.
 
 ## Connections
 - [[QinZong|秦总]] and [[LiWuya|李乌鸦]] - source voices.
@@ -44,3 +47,4 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 - [[Matilda|《马蒂尔达》]] and [[AntiAuthoritarianEducation]] - later source extension into children's literature as agency formation.
 - [[CanticleForLeibowitz|《莱博维茨的赞歌》 / A Canticle for Leibowitz]], [[PostApocalypticCivilizationPreservation]], and [[ApocalypticLiterarySymbolism]] - source extension into civilizational and religious science-fiction reading.
 - [[HansChristianAndersen|安徒生]], [[AdultFairyTaleReading]], and [[FairyTaleDeathAndSpirituality]] - episode 55's extension into childhood fairy tales that reopen through adult experience.
+- [[KakutaMitsuyo|角田光代]], [[ThirtySeven|《37》]], [[MidlifeAsGift]], and [[EmpathyAsAestheticCapacity]] - episode 63's extension into midlife fiction and adult ambivalence.

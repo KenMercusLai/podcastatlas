@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [63.我的30+下半程，答案若隐若现](sources/63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972.md) — 蜜獾吃书 episode on female midlife, gendered age anxiety, marriage pressure, career self-rescue, 角田光代's 《37》, information-gap anxiety, and empathy as age's gift.
 - [62.克拉克森的农场：想不到你是这样的小羊肖恩](sources/62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260.md) — 蜜獾吃书 episode on Clarkson's Farm, Jeremy Clarkson's farm-learning failures, machinery, sheep, pigs, bees, woodland, floods, environmental tradeoffs, and garden birdwatching.
 - [61.自从拥有经济学的思维方式，人生都变简单了！](sources/61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353.md) — 蜜獾吃书 episode with 梁杰 on Paul Heyne's 《经济学的思维方式》, ordinary-reader economics, cost-benefit thinking, opportunity cost, marginal analysis, market coordination, dispersed information, comparative advantage, and subjective value.
 - [60.闲聊伟大作家们的八卦（第一弹）](sources/60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204.md) — 蜜獾吃书 episode using literary gossip to demythologize Wilde, Whitman, Conan Doyle, Tolstoy, Thoreau, Alcott, Woolf, Yeats, Tolkien, and the messy relation between author lives and canonical works.
@@ -517,7 +518,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Apple Intelligence](entities/AppleIntelligence.md) — Apple's AI system layer evaluated as meaningful WWDC catch-up but incomplete personal-assistant infrastructure.
 - [Barry Prizant](entities/BarryPrizant.md) — Autism expert and Uniquely Human author presented by 蜜獾吃书 as reframing autistic behavior as coping, communication, and self-protection.
 - [《这世界唯一的你》 / Uniquely Human](entities/UniquelyHuman.md) — Book discussed by 蜜獾吃书 as a guide to autism, behavior-as-communication, safe environments, family support, and anti-cure-promise boundaries.
-- [北民](entities/Beimin.md) — Voice in 蜜獾吃书 episodes connecting machine gambling and mobile-game reward mechanics, then literary gossip around great writers.
+- [北明 / 北民](entities/Beimin.md) — Voice in 蜜獾吃书 episodes connecting machine gambling, literary gossip, and the empathy frame in the female-midlife episode.
 - [《运气的诱饵》](entities/TheLureOfLuck.md) — Book discussed by 蜜獾吃书 as an anthropological and philosophical account of machine gambling, agency suspension, and addiction design.
 - [Christopher Mims](entities/ChristopherMims.md) — Technology writer and How to AI author who frames AI as an assistant best used with expertise, judgment, and mundane task selection.
 - [How to AI](entities/HowToAI.md) — Christopher Mims book discussed by Marketplace Tech as a practical manual for using AI without treating it as a replacement for human expertise.
@@ -530,6 +531,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam Smith / 亚当·斯密](entities/AdamSmith.md) — Economist and philosopher used by episode 61 to introduce invisible-hand style market coordination and moral concern in economics.
 - [Friedrich Hayek / 哈耶克](entities/FriedrichHayek.md) — Economist used by episode 61 to frame dispersed information, planning limits, and market coordination.
 - [蜜獾吃书](entities/MihuanChishu.md) — Podcast/show context for book, travel, language, natural-history, life-design, and literary-biography discussions across reading, satire, fairy tales, writer gossip, and release-cadence housekeeping.
+- [角田光代 / Mitsuyo Kakuta](entities/KakutaMitsuyo.md) — Japanese author whose novel 《37》 is used by episode 63 to think through midlife, marriage refusal, career divergence, and adult uncertainty.
+- [《37》](entities/ThirtySeven.md) — Kakuta Mitsuyo novel used by episode 63 as a midlife mirror for unmarried life, career forks, mother-daughter understanding, and unresolved choice.
 - [李乌鸦](entities/LiWuya.md) — Book creator and guest in the 蜜獾吃书 first-anniversary episode on reading habits, classics, shame, solitude, and non-instrumental literary value.
 - [日谈](entities/Ritan.md) — Crossover context for the episode bringing Hookie, 殷姐, and 秦总 together for a Women's Day life-design conversation.
 - [Hookie](entities/Hookie.md) — Host in the restart-life episode, linking life-science career redirection, pet grief, school confidence, and learning capacity.
@@ -2233,6 +2236,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Domestic Violence Pet Coercion](concepts/DomesticViolencePetCoercion.md) — Abuse pattern where a perpetrator harms or threatens household animals to control a victim.
 - [Animal Abuse Violence Link](concepts/AnimalAbuseViolenceLink.md) — Warning that cruelty toward animals can train, reveal, or normalize domination, desensitization, and wider violence.
 - [Empathy Circle Expansion](concepts/EmpathyCircleExpansion.md) — Moral frame for widening the range of beings whose pain matters and resisting othering as a habit of violence.
+- [Empathy As Aesthetic Capacity](concepts/EmpathyAsAestheticCapacity.md) — Episode 63 frame that understanding others makes life perceptually richer, not only morally better.
+- [Gendered Age Anxiety](concepts/GenderedAgeAnxiety.md) — Frame for age panic produced by youth, beauty, marriage, and social-evaluation timelines placed on women.
+- [Midlife As Gift](concepts/MidlifeAsGift.md) — Reframing of midlife as steadier judgment, clearer expression, tolerable uncertainty, and deeper empathy.
+- [Information Gap Anxiety](concepts/InformationGapAnxiety.md) — Self-improvement comparison pressure created when learning is framed as closing a threatening hidden advantage.
 - [Adult Fairy-Tale Reading](concepts/AdultFairyTaleReading.md) — Rereading fairy tales as all-ages literature carrying social humiliation, loneliness, death, love, satire, and spiritual aspiration.
 - [Fairy-Tale Death And Spirituality](concepts/FairyTaleDeathAndSpirituality.md) — Frame for children's literature confronting mortality, sacrifice, goodness, and transcendence without condescending to children.
 - [Adaptation Original-Text Confusion](concepts/AdaptationOriginalTextConfusion.md) — Pattern where a famous adaptation overwrites public memory of the literary original's design, plot, or moral structure.

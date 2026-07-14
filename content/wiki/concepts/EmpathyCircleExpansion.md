@@ -2,7 +2,7 @@
 title: "Empathy Circle Expansion"
 type: concept
 tags: [empathy, ethics, animal-welfare, social-norms]
-sources: [56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301]
+sources: [63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301]
 last_updated: 2026-07-14
 ---
 
@@ -12,11 +12,14 @@ Empathy circle expansion is the episode's moral frame for widening the range of 
 
 The concept appears when the episode contrasts empathy with pity, criticizes coldness disguised as rationality, and links animal othering to historical patterns where people reduce slaves, enemies, or lower-status groups to beings outside the circle of concern.
 
+[[63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972]] adds an interpersonal and aesthetic version through [[EmpathyAsAestheticCapacity]]. Rather than asking only who deserves concern, the episode argues that understanding others enlarges life itself: a person who cannot enter another perspective only lives inside their own narrow experience.
+
 ## Key Claims
 - Empathy differs from pity because it asks a person to understand and respond rather than merely look down from safety.
 - Othering reduces the ability to perceive pain as morally relevant.
 - Expanding concern to animals does not require denying human needs; it does require rejecting needless suffering as entertainment or entitlement.
 - A society's treatment of weak or dependent beings can train habits that later affect human relationships too.
+- Empathy can also be an aesthetic and experiential capacity because it makes more lives, contexts, and forms of care perceptible.
 
 ## Connections
 - [[AnimalWelfareAsPublicHealth]] - public-health application of the moral frame.
@@ -24,3 +27,4 @@ The concept appears when the episode contrasts empathy with pity, criticizes col
 - [[CompanionAnimalHealth]] - everyday relationship version of cross-species empathy.
 - [[FixedHumanNaturePolitics]] - adjacent political-theory warning against collapsing beings into fixed categories.
 - [[PureRationalityTrap]] - adjacent warning against reason stripped of affection and mercy.
+- [[EmpathyAsAestheticCapacity]], [[MidlifeAsGift]], and [[ReadingAsLifeExperience]] - episode 63's extension into age, literature, and interpersonal understanding.

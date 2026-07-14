@@ -2,8 +2,8 @@
 title: "Career Self-Rescue"
 type: concept
 tags: [career, work, mental-health, life-design]
-sources: [ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956]
-last_updated: 2026-07-12
+sources: [63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956]
+last_updated: 2026-07-14
 ---
 
 # Career Self-Rescue
@@ -18,6 +18,8 @@ The episode's version is physical and trackable: distance, danger, fatigue, rout
 
 [[52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956]] adds a less decisive early-career version through [[TakagiNaoko|高木直子]]. Her recovery from low-confidence creative work is not one dramatic exit; it is the accumulation of cold calls, part-time jobs, mistakes, web diary posts, and [[EverydayAutobiographicalComics]] until ordinary life becomes publishable work.
 
+[[63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972]] adds a midlife retrospective version. The host remembers a prestigious, politically and culturally central job that looked enviable from the outside but felt useless, uninspiring, and wasteful from the inside. The rescue is not framed as a perfect career plan; it is the later ability to enjoy a less glamorous life because value and fit have become more important than external admiration.
+
 ## Key Claims
 
 - A career low point can involve not only job dissatisfaction but loss of deservedness, confidence, and felt agency.
@@ -27,6 +29,7 @@ The episode's version is physical and trackable: distance, danger, fatigue, rout
 - Self-rescue can also be narrative and craft-based: making sense of a layoff, turning it into public writing, and rebuilding a role outside the original hierarchy.
 - Career self-rescue can be interpretive before it is external: understanding why a path felt narrow or false may be the first recovered form of agency.
 - Self-rescue can be incremental: a person may keep enough contact with the desired work through small public traces before a recognizable career opening appears.
+- External prestige can delay self-rescue because other people keep confirming the role's status even when the person living inside it feels empty.
 
 ## Connections
 
@@ -38,3 +41,4 @@ The episode's version is physical and trackable: distance, danger, fatigue, rout
 - [[XiaoMan]], [[LayoffBuffer]], and [[NonfictionPublicness]] — writing-based self-rescue case from the Mianji source.
 - [[QinZong|秦总]], [[Hookie]], [[YinJie|殷姐]], [[LifeRestartThoughtExperiment]], and [[FemaleSelfPossession]] — restart-life source cases.
 - [[TakagiNaoko|高木直子]], [[EverydayAutobiographicalComics]], and [[OrdinaryHardshipNarrative]] — episode 52's incremental creative-work case.
+- [[GenderedAgeAnxiety]], [[MidlifeAsGift]], and [[FemaleSelfPossession]] — episode 63's midlife and status-exit extension.
