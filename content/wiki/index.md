@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [172.好运是什么？为啥说总避雷会败好运？](sources/172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860.md) — 蜜獾吃书 episode reframing luck as information bandwidth, low-cost experimentation, survivable risk, weak ties, positive expectation, and the hidden opportunity cost of always "避雷".
 - [153.我的名字叫红：用一千零一夜的心跳完成这场谋杀(上）](sources/153-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-shang-917670296.md) — 蜜獾吃书 episode opening the Pamuk two-parter with Istanbul, Persian and Ottoman miniature painting, Sufi image legitimacy, divine perspective, Frankish portrait pressure, style as trace, and the story setup through Black and Shekure's reunion.
 - [sp.02 我有自己的宇宙：如何在混沌中做个清醒的行动派](sources/sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778.md) — 蜜獾吃书 episode with 钱静 on 《我有自己的宇宙》, 中庸我, 避坑内容, career and civil-service anxiety, workplace conflict, original-family independence, macro narrative anxiety, and action against anxiety.
 - [108.祖与占：爱与不爱，巴黎就在那里（耸肩）](sources/108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905.md) — 蜜獾吃书 episode on 《祖与占》 / Jules and Jim, Truffaut, Roche, French New Wave, triangle intimacy, gendered freedom, war rupture, and suspending crude moral judgment.
@@ -386,6 +387,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《好运》](entities/GoodLuckBook.md) — Book that inspires episode 172 while being treated as imperfect but useful material rather than a fully endorsed authority.
+- [Richard Wiseman](entities/RichardWiseman.md) — Psychologist referenced through luck research and the newspaper experiment, used by episode 172 to frame luck as attention and behavior.
+- [Lionel Messi](entities/LionelMessi.md) — Football example in episode 172 for reading a complex field before acting, not merely taking more visible action.
+- [吴清源](entities/WuQingyuan.md) — Go example in episode 172 for frame-shifting perception later compared with AlphaGo-style analysis.
+- [AlphaGo](entities/AlphaGo.md) — AI Go system used in episode 172 as a comparison point for moves that become legible under a different analysis frame.
 - [Istanbul / 伊斯坦布尔](entities/Istanbul.md) — Pamuk city context for 《我的名字叫红》, linking East-West borderland identity, Ottoman court culture, religious pressure, and Black's return.
 - [钱静](entities/QianJing.md) — Workplace-psychology researcher and author using 中庸我, objective self-ownership, and action against anxiety to answer career, family, and selfhood dilemmas.
 - [《我有自己的宇宙》](entities/WoYouZijiDeYuzhou.md) — 钱静 book discussed by 蜜獾吃书 as a practical psychology guide to becoming clearer and more self-directed inside disorder.
@@ -2384,6 +2390,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Luck As Information Bandwidth](concepts/LuckAsInformationBandwidth.md) — Episode 172 synthesis that luck improves when attention, environment, weak ties, and survivable action increase useful information flow.
+- [Information Entropy As Opportunity](concepts/InformationEntropyAsOpportunity.md) — Frame where unfamiliar or unstable settings can contain opportunity when failure cost is bounded and attention can turn disorder into usable order.
+- [Availability Heuristic](concepts/AvailabilityHeuristic.md) — Cognitive shortcut where vivid memories or warning posts distort perceived probability and can narrow opportunity.
+- [Low-Cost Experimentation](concepts/LowCostExperimentation.md) — Bounded trial practice for widening luck exposure without all-in risk.
+- [Weak-Tie Opportunity](concepts/WeakTieOpportunity.md) — Opportunity pattern where loose social links carry nonredundant information into careers, publishing, business, and creative work.
+- [Positive Expectation Training](concepts/PositiveExpectationTraining.md) — Habit and attention practice for noticing good events, reducing fear-based filtering, and making small action easier.
 - [Persian Miniature Painting](concepts/PersianMiniaturePainting.md) — Inherited manuscript-painting lineage behind the Pamuk episode's Ottoman miniature tradition, including story images, master forms, and cross-cultural influence.
 - [Sufi Image Legitimacy](concepts/SufiImageLegitimacy.md) — Religious defense for miniature image-making as a vehicle of divine vision, while remaining vulnerable to charges of vanity or idolatry.
 - [Divine Perspective Aesthetics](concepts/DivinePerspectiveAesthetics.md) — Miniature-painting ideal of showing the world beyond one human optical viewpoint, contrasted with Renaissance perspective and portrait likeness.

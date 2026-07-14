@@ -2,11 +2,13 @@
 title: "北明 / 北民"
 type: entity
 tags: [host, podcast, books]
-sources: [42-anduo-fengqi-yu-qingping-zhi-mo-616391638, jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]
+sources: [172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 42-anduo-fengqi-yu-qingping-zhi-mo-616391638, jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]
 last_updated: 2026-07-15
 ---
 
 # 北明 / 北民
+
+[[172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860]] adds 北明's role in the luck episode's weak-link chain. QinZong frames meeting him after her publishing work around Carl Sagan-related books as one example of how [[WeakTieOpportunity]] and broad signal bandwidth can create later collaboration.
 
 [[42-anduo-fengqi-yu-qingping-zhi-mo-616391638]] adds 北明's role as host of a [[MihuanChishu|蜜獾吃书]] discussion of [[Andor|《安多》 / Andor]]. In this source he frames the episode around [[StarWars|Star Wars]] background, [[RogueOne|《侠盗一号》 / Rogue One]], [[CassianAndor]]'s prequel problem, and the series' move from heroic family legend toward [[OrdinaryPeopleResistance]] and [[AntiHeroicResistanceNarrative]].
 
@@ -30,3 +32,4 @@ In episode 60, his role is part of the show's literary-biographical mode. The co
 - [[LiteraryGossipAsContext]], [[AuthorMythDeflation]], and [[OccultPseudoscienceLiteraryModernity]] - concepts added by the great-writer gossip episode.
 - [[82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589]] - second great-writer gossip installment.
 - [[EmpathyAsAestheticCapacity]] and [[MidlifeAsGift]] - episode 63's empathy and age-reflection branch.
+- [[WeakTieOpportunity]] and [[LuckAsInformationBandwidth]] - episode 172's luck and connection-chain frame.

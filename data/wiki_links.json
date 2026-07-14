@@ -155,6 +155,10 @@
     "title": "167: 洋葱学园杨临风：用AI制造捷径，是在杀死真学习",
     "url": "/wiki/sources/167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1/"
   },
+  "172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860": {
+    "title": "172.好运是什么？为啥说总避雷会败好运？",
+    "url": "/wiki/sources/172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860/"
+  },
   "184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010": {
     "title": "184.真实于我有万钧之重：欢迎侠女阿娇",
     "url": "/wiki/sources/184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010/"
@@ -1303,6 +1307,10 @@
     "title": "AlphaGeometry",
     "url": "/wiki/entities/alphageometry/"
   },
+  "AlphaGo": {
+    "title": "AlphaGo",
+    "url": "/wiki/entities/alphago/"
+  },
   "AlphaProof": {
     "title": "AlphaProof",
     "url": "/wiki/entities/alphaproof/"
@@ -1826,6 +1834,10 @@
   "AutonomousVehicleSafetyBenchmark": {
     "title": "Autonomous Vehicle Safety Benchmark",
     "url": "/wiki/concepts/autonomousvehiclesafetybenchmark/"
+  },
+  "AvailabilityHeuristic": {
+    "title": "Availability Heuristic",
+    "url": "/wiki/concepts/availabilityheuristic/"
   },
   "AveragingDown": {
     "title": "Averaging Down",
@@ -5807,6 +5819,10 @@
     "title": "Good Intentions Political Limits",
     "url": "/wiki/concepts/goodintentionspoliticallimits/"
   },
+  "GoodLuckBook": {
+    "title": "《好运》",
+    "url": "/wiki/entities/goodluckbook/"
+  },
   "Google": {
     "title": "Google",
     "url": "/wiki/entities/google/"
@@ -6658,6 +6674,10 @@
   "Infogami": {
     "title": "Infogami",
     "url": "/wiki/entities/infogami/"
+  },
+  "InformationEntropyAsOpportunity": {
+    "title": "Information Entropy As Opportunity",
+    "url": "/wiki/concepts/informationentropyasopportunity/"
   },
   "InformationGapAnxiety": {
     "title": "Information Gap Anxiety",
@@ -7923,6 +7943,10 @@
     "title": "Linda Todich",
     "url": "/wiki/entities/lindatodich/"
   },
+  "LionelMessi": {
+    "title": "Lionel Messi",
+    "url": "/wiki/entities/lionelmessi/"
+  },
   "LisaKSolomon": {
     "title": "Lisa K. Solomon",
     "url": "/wiki/entities/lisaksolomon/"
@@ -8131,6 +8155,10 @@
     "title": "Low-Cost Drone Warfare",
     "url": "/wiki/concepts/lowcostdronewarfare/"
   },
+  "LowCostExperimentation": {
+    "title": "Low-Cost Experimentation",
+    "url": "/wiki/concepts/lowcostexperimentation/"
+  },
   "LowFireLaborMarket": {
     "title": "Low-Fire Labor Market",
     "url": "/wiki/concepts/lowfirelabormarket/"
@@ -8174,6 +8202,10 @@
   "LucasDrone": {
     "title": "Lucas Drone",
     "url": "/wiki/entities/lucasdrone/"
+  },
+  "LuckAsInformationBandwidth": {
+    "title": "Luck As Information Bandwidth",
+    "url": "/wiki/concepts/luckasinformationbandwidth/"
   },
   "LuckinCoffee": {
     "title": "Luckin Coffee / 瑞幸咖啡",
@@ -10255,6 +10287,10 @@
     "title": "Position Sizing",
     "url": "/wiki/concepts/positionsizing/"
   },
+  "PositiveExpectationTraining": {
+    "title": "Positive Expectation Training",
+    "url": "/wiki/concepts/positiveexpectationtraining/"
+  },
   "PositiveJournalism": {
     "title": "Positive Journalism",
     "url": "/wiki/concepts/positivejournalism/"
@@ -11026,6 +11062,10 @@
   "RichAberman": {
     "title": "Rich Aberman",
     "url": "/wiki/entities/richaberman/"
+  },
+  "RichardWiseman": {
+    "title": "Richard Wiseman",
+    "url": "/wiki/entities/richardwiseman/"
   },
   "RickRubin": {
     "title": "Rick Rubin",
@@ -13707,6 +13747,10 @@
     "title": "WePay",
     "url": "/wiki/entities/wepay/"
   },
+  "WeakTieOpportunity": {
+    "title": "Weak-Tie Opportunity",
+    "url": "/wiki/concepts/weaktieopportunity/"
+  },
   "Wealthfront": {
     "title": "Wealthfront",
     "url": "/wiki/entities/wealthfront/"
@@ -13910,6 +13954,10 @@
   "WuLiande": {
     "title": "Wu Liande / 伍连德",
     "url": "/wiki/entities/wuliande/"
+  },
+  "WuQingyuan": {
+    "title": "吴清源",
+    "url": "/wiki/entities/wuqingyuan/"
   },
   "WuTao": {
     "title": "吴涛",

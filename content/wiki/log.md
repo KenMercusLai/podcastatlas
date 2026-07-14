@@ -3068,3 +3068,11 @@ Added source page for the 蜜獾吃书 upper episode on Orhan Pamuk's 《我的�
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-15] ingest | 172.好运是什么？为啥说总避雷会败好运？
+
+Added source page for the 蜜獾吃书 episode on luck as information bandwidth, "避雷" as both warning and opportunity cost, Richard Wiseman's luck research, availability heuristic, information entropy, low-cost experimentation, weak ties, barbell strategy, positive expectation, and publishing/sports/Go examples. Created pages for 《好运》, Richard Wiseman, Lionel Messi, 吴清源, AlphaGo, Luck As Information Bandwidth, Information Entropy As Opportunity, Availability Heuristic, Low-Cost Experimentation, Weak-Tie Opportunity, and Positive Expectation Training; updated overview, index, 蜜獾吃书, 秦总, 北明/北民, 安琪, 有光, Nassim Taleb, Internet Risk-Avoidance Trap, Action Against Anxiety, Barbell Strategy, Asymmetric Payoff, Life Antifragility, and Observation Before Inference. No direct contradiction found; the source complements the wiki's existing anti-"避雷" and antifragility branches by distinguishing bounded uncertainty exposure from all-in or addictive randomness.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

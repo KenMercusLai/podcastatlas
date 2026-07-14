@@ -2,7 +2,7 @@
 title: "Life Antifragility"
 type: concept
 tags: [life-design, risk, uncertainty]
-sources: [e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
+sources: [172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
 last_updated: 2026-07-15
 ---
 
@@ -16,6 +16,8 @@ The source gives two sides of the concept. The defensive side closes ruin risks 
 
 [[sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]] adds a small-practice version. In response to [[MacroNarrativeAnxiety]], the episode values activities with concrete feedback, such as plants, cooking, housework, baking, and studying a specific thing, because they keep a person in contact with changeable reality while larger conditions remain uncertain.
 
+[[172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860]] adds a luck version built around remaining in the game. The episode argues that "好运" requires enough internal stability to meet external randomness, so antifragile life design means increasing attempts and information exposure while refusing all-in choices that remove the next sample.
+
 ## Key Claims
 - Health can be a dominant life-risk factor because pain or injury changes everyday freedom immediately.
 - Bad relationships, wrong collaborators, and draining work environments can become negative life black swans.
@@ -24,6 +26,7 @@ The source gives two sides of the concept. The defensive side closes ruin risks 
 - Life antifragility still sits under [[NoBetterLife]]: upside exposure should not become a fantasy of final rescue.
 - A life can become stronger around mistakes and losses without pretending those shocks were desirable or fully redeemed.
 - Small practices can provide antifragile contact with the world when macro narratives make agency feel too abstract.
+- Luck-oriented antifragility increases contact with uncertainty through [[LowCostExperimentation]] and [[WeakTieOpportunity]] while protecting the stable base.
 
 ## Connections
 - [[Antifragility]], [[BlackSwan]], and [[FatTailRisk]] — market ideas translated into life design.
@@ -32,3 +35,4 @@ The source gives two sides of the concept. The defensive side closes ruin risks 
 - [[ImpermanenceAndNoSelf]] and [[NoBetterLife]] — practice and philosophy boundaries around life design.
 - [[RegretIntegration]], [[PetGriefAndCare]], and [[MotherDaughterReconciliation]] — retrospective life-growth cases from the restart episode.
 - [[MacroNarrativeAnxiety]], [[ActionAgainstAnxiety]], and [[ObjectiveSelfOwnership]] - sp.02's practical anxiety and agency extension.
+- [[LuckAsInformationBandwidth]], [[PositiveExpectationTraining]], and [[BarbellStrategy]] - episode 172's luck and survivable-exposure branch.
