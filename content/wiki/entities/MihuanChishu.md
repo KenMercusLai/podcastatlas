@@ -8,6 +8,8 @@ last_updated: 2026-07-14
 
 # 蜜獾吃书
 
+[[72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]] adds the show's Machiavelli and political-realism branch through [[ThePrince|《君主论》 / The Prince]] and [[NiccoloMachiavelli|Niccolo Machiavelli / 马基雅维利]]. It connects Renaissance Florence, the [[FlorentineRepublic|Florentine Republic / 佛罗伦萨共和国]], the [[HouseOfMedici|House of Medici / 美第奇家族]], [[GirolamoSavonarola|Savonarola]], [[CesareBorgia|Cesare Borgia / 凯撒·波吉亚]], and Legalist comparison figures [[HanFei|Han Fei / 韩非]] and [[ShangYang|Shang Yang / 商鞅]] to [[MachiavellianRealism]], [[NonMoralPoliticalAnalysis]], [[VirtuFortunaPoliticalAgency]], [[CrueltyUsedWell]], [[LegalistMachiavelliComparison]], and [[GoodIntentionsPoliticalLimits]].
+
 [[71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384]] adds the show's Republican-era consumer-industry branch through [[ChenDiexian|陈迭仙]], [[LinYuqin|林玉沁]], [[ButterflyBrand|蝴蝶牌]], [[JiatingGongyeshe|家庭工业社]], and [[NushiShijie|《女子世界》]]. It connects popular fiction, household chemistry, cosmetics recipes, advertising, trademark control, wartime factory migration, and [[NationalGoodsBranding]] to [[VernacularIndustrialism]], giving the show's literature/history mode a concrete light-industrial modernization case.
 
 [[147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004]] adds the show's sub-Saharan mythology and oral-folklore branch through [[AfricanMythology]]. It connects [[MawuLisa|Mawu-Lisa]], [[Obatala]], the [[MwindoEpic|Mwindo epic]], [[Anansi]], [[AfricanOralLiterature]], and [[TricksterAmbivalence]] to the show's existing interest in myth variants, story-based understanding, and old tales that do not reduce to clean morals.

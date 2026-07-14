@@ -2,7 +2,7 @@
 title: "Fixed Human Nature Politics"
 type: concept
 tags: [political-theory, human-nature, literature, identity]
-sources: [51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]
+sources: [51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]
 last_updated: 2026-07-14
 ---
 
@@ -16,12 +16,15 @@ The concept does not deny human vice. It names the danger of making vice, nature
 
 [[39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]] extends the concept through [[CivilizationAsDeception]]. Its Rowlands reading also begins from a harsh account of the human animal, but it complicates fixed human exceptionalism by contrasting human social calculation with wolf directness, loyalty, and refusal to bully the weak.
 
+[[72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]] refines the Machiavelli side of the concept. The episode agrees that [[NiccoloMachiavelli|Machiavelli]] works from a severe account of human unreliability, especially around love, fear, crowds, nobles, mercenaries, and fortune. But it does not reduce him to a doctrine of fixed badness: [[MachiavellianRealism]] is treated as a way to see political reality before moral consolation, while [[GoodIntentionsPoliticalLimits]] preserves the need for conscience and responsibility.
+
 ## Key Claims
 - Political systems can become self-limiting when they assume human nature is fixed and bad.
 - A label can help describe a person, but it becomes harmful when it becomes the person's whole essence.
 - Swift's satire attacks human vice while still keeping open the possibility that humans should be formed, educated, or warned.
 - [[PureRationalityTrap]] is a mirror danger: escaping fixed badness by fixed rational purity can also dehumanize.
 - Species labels can become morally misleading when "civilized human" and "wild animal" obscure actual conduct toward vulnerable beings.
+- Machiavellian realism can begin from human unreliability without requiring readers to believe every person is permanently evil or that cruelty is morally solved by effectiveness.
 
 ## Connections
 - [[ThomasHobbes]] and [[NiccoloMachiavelli]] - political-theory references used by the episode.
@@ -30,3 +33,4 @@ The concept does not deny human vice. It names the danger of making vice, nature
 - [[ScaleReversalSatire]] - formal device that destabilizes fixed self-knowledge.
 - [[ActionDefinesIdentity]] - adjacent wiki concept where identity is shown through lived action rather than only a label.
 - [[CivilizationAsDeception]] and [[AnimalIntelligenceModes]] - animal-philosophy extension from the Rowlands source.
+- [[MachiavellianRealism]], [[NonMoralPoliticalAnalysis]], and [[GoodIntentionsPoliticalLimits]] - episode 72's refinement of the Machiavelli branch.

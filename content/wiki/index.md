@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [72.君主论：读它是一场危险的冒险](sources/72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837.md) — 蜜獾吃书 episode on Machiavelli, 《君主论》, Florentine republican context, political realism, virtù and fortune, Legalist comparisons, Borgia, and the moral limits of good intentions.
 - [71.美妆帝国蝴蝶牌：言情小说家的国货创业往事](sources/71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384.md) — 蜜獾吃书 episode on Chen Diexian, Butterfly Brand, Republican-era cosmetics, household chemistry, national-goods branding, vernacular industrialism, and light-industry modernity.
 - [Vol.113 从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络](sources/vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu.md) — 起朱楼宴宾客 episode on Project 2025, Heritage Foundation, AFPI, CPI, Trumpism institutionalization, administrative-state dismantling, immigration, Fed critique, education, trade reciprocity, and American protectionism.
 - [184.真实于我有万钧之重：欢迎侠女阿娇](sources/184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010.md) — 蜜獾吃书 episode with 阿娇/柱子哥 on the Hadiya rescue, overseas work, cancer and death writing, hospice care, professional dignity, and truthful whole-process cancer documentation.
@@ -379,6 +380,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《君主论》 / The Prince](entities/ThePrince.md) — Machiavelli's political manual read by episode 72 as a dangerous but clarifying text about power, order, fear, fortune, and political technique.
+- [《论李维》 / Discourses on Livy](entities/DiscoursesOnLivy.md) — Machiavelli's republican text used by episode 72 to complicate the idea that he was simply an adviser to tyrants.
+- [Florentine Republic / 佛罗伦萨共和国](entities/FlorentineRepublic.md) — Machiavelli's republican service context, connecting Florence, military organization, mercenary risk, and the fall back to Medici power.
+- [House of Medici / 美第奇家族](entities/HouseOfMedici.md) — Renaissance Florentine family whose patronage, violence, return, and rule frame Machiavelli's exile and The Prince.
+- [Girolamo Savonarola / 萨沃纳罗拉](entities/GirolamoSavonarola.md) — Religious-political ruler of Florence used by episode 72 to show moral zeal, popular belief, and unstable political authority.
+- [Cesare Borgia / 凯撒·波吉亚](entities/CesareBorgia.md) — Renaissance power-seeker used by episode 72 as Machiavelli's vivid case for political capacity and controlled cruelty.
+- [Han Fei / 韩非](entities/HanFei.md) — Legalist comparison figure used by episode 72 to test but limit the "Western Han Fei" reading of Machiavelli.
+- [Shang Yang / 商鞅](entities/ShangYang.md) — Legalist comparison figure used by episode 72 to distinguish Machiavelli from ruler-technique and weak-people doctrines.
 - [陈迭仙](entities/ChenDiexian.md) — Republican-era writer, publisher, amateur chemist, advertiser, and entrepreneur behind 蝴蝶牌 and 家庭工业社.
 - [林玉沁](entities/LinYuqin.md) — Scholar whose research links Chen Diexian, cosmetics formulas, mass media, emotion history, and Chinese light-industrial modernity.
 - [蝴蝶牌](entities/ButterflyBrand.md) — Chen Diexian's tooth-powder and cosmetics brand, combining beauty imagery, trademark strategy, national-goods rhetoric, and consumer trust.
@@ -2337,6 +2346,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Machiavellian Realism](concepts/MachiavellianRealism.md) — Political-realist frame where judgment begins from actual power, institutions, fear, fortune, and human unreliability rather than moral self-description.
+- [Non-Moral Political Analysis](concepts/NonMoralPoliticalAnalysis.md) — Episode 72's distinction between analyzing political reality before moral judgment and simply recommending immoral action.
+- [Virtù And Fortuna Political Agency](concepts/VirtuFortunaPoliticalAgency.md) — Machiavellian frame for capacity, judgment, timing, and action struggling with fortune and contingency.
+- [Cruelty Used Well](concepts/CrueltyUsedWell.md) — Dangerous Machiavellian idea that political violence, if used at all, should be limited, fast, and ordered toward stability rather than repeated terror.
+- [Legalist-Machiavelli Comparison](concepts/LegalistMachiavelliComparison.md) — Comparative frame that uses Han Fei and Shang Yang while resisting a reduction of Machiavelli to Chinese Legalism or 厚黑学.
+- [Good Intentions Political Limits](concepts/GoodIntentionsPoliticalLimits.md) — Ethical frame that sincere goodness does not automatically produce good political outcomes, while conscience still matters.
 - [Vernacular Industrialism](concepts/VernacularIndustrialism.md) — Practical industrial learning through tinkering, imitation, local materials, recipes, reverse engineering, and small daily-use products.
 - [National Goods Branding](concepts/NationalGoodsBranding.md) — Use of 国货 language to connect patriotic consumption, industrial capability, local tradition, and brand competition.
 - [Trumpism Institutionalization](concepts/TrumpismInstitutionalization.md) — Turning Trump-era slogans, personnel, documents, training, and think-tank networks into durable governing machinery.

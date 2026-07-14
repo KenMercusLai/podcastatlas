@@ -315,6 +315,10 @@
     "title": "71.美妆帝国蝴蝶牌：言情小说家的国货创业往事",
     "url": "/wiki/sources/71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384/"
   },
+  "72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837": {
+    "title": "72.君主论：读它是一场危险的冒险",
+    "url": "/wiki/sources/72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837/"
+  },
   "8848": {
     "title": "8848",
     "url": "/wiki/entities/8848/"
@@ -2635,6 +2639,10 @@
     "title": "Cerebras",
     "url": "/wiki/entities/cerebras/"
   },
+  "CesareBorgia": {
+    "title": "Cesare Borgia / 凯撒·波吉亚",
+    "url": "/wiki/entities/cesareborgia/"
+  },
   "ChainRestaurantStandardization": {
     "title": "Chain Restaurant Standardization",
     "url": "/wiki/concepts/chainrestaurantstandardization/"
@@ -3427,6 +3435,10 @@
     "title": "Cross-Project Cash Transfer",
     "url": "/wiki/concepts/crossprojectcashtransfer/"
   },
+  "CrueltyUsedWell": {
+    "title": "Cruelty Used Well",
+    "url": "/wiki/concepts/crueltyusedwell/"
+  },
   "Cruise": {
     "title": "Cruise",
     "url": "/wiki/entities/cruise/"
@@ -3982,6 +3994,10 @@
   "DisasterSensoryHistory": {
     "title": "Disaster Sensory History",
     "url": "/wiki/concepts/disastersensoryhistory/"
+  },
+  "DiscoursesOnLivy": {
+    "title": "《论李维》 / Discourses on Livy",
+    "url": "/wiki/entities/discoursesonlivy/"
   },
   "DiscoveryModel": {
     "title": "Discovery Model",
@@ -4999,6 +5015,10 @@
     "title": "Flora",
     "url": "/wiki/entities/flora/"
   },
+  "FlorentineRepublic": {
+    "title": "Florentine Republic / 佛罗伦萨共和国",
+    "url": "/wiki/entities/florentinerepublic/"
+  },
   "Florida": {
     "title": "Florida",
     "url": "/wiki/entities/florida/"
@@ -5599,6 +5619,10 @@
     "title": "Girl Scouts of the USA",
     "url": "/wiki/entities/girlscoutsoftheusa/"
   },
+  "GirolamoSavonarola": {
+    "title": "Girolamo Savonarola / 萨沃纳罗拉",
+    "url": "/wiki/entities/girolamosavonarola/"
+  },
   "GitHub": {
     "title": "GitHub",
     "url": "/wiki/entities/github/"
@@ -5670,6 +5694,10 @@
   "GoodCompanyGoodStock": {
     "title": "Good Company Vs Good Stock",
     "url": "/wiki/concepts/goodcompanygoodstock/"
+  },
+  "GoodIntentionsPoliticalLimits": {
+    "title": "Good Intentions Political Limits",
+    "url": "/wiki/concepts/goodintentionspoliticallimits/"
   },
   "Google": {
     "title": "Google",
@@ -5922,6 +5950,10 @@
   "HanBoxiao": {
     "title": "Han Boxiao",
     "url": "/wiki/entities/hanboxiao/"
+  },
+  "HanFei": {
+    "title": "Han Fei / 韩非",
+    "url": "/wiki/entities/hanfei/"
   },
   "HanRiver": {
     "title": "Han River / 汉江",
@@ -6246,6 +6278,10 @@
   "HouChao": {
     "title": "侯超 / Hou Chao",
     "url": "/wiki/entities/houchao/"
+  },
+  "HouseOfMedici": {
+    "title": "House of Medici / 美第奇家族",
+    "url": "/wiki/entities/houseofmedici/"
   },
   "HouseholdRobotDataFlywheel": {
     "title": "Household Robot Data Flywheel",
@@ -7571,6 +7607,10 @@
     "title": "Legal Risk Acquirer Fit",
     "url": "/wiki/concepts/legalriskacquirerfit/"
   },
+  "LegalistMachiavelliComparison": {
+    "title": "Legalist-Machiavelli Comparison",
+    "url": "/wiki/concepts/legalistmachiavellicomparison/"
+  },
   "LeiLutai": {
     "title": "Lei Lutai / 雷履泰",
     "url": "/wiki/entities/leilutai/"
@@ -8070,6 +8110,10 @@
   "MacMini": {
     "title": "Mac Mini",
     "url": "/wiki/entities/macmini/"
+  },
+  "MachiavellianRealism": {
+    "title": "Machiavellian Realism",
+    "url": "/wiki/concepts/machiavellianrealism/"
   },
   "MachineCreativityThreat": {
     "title": "Machine Creativity Threat",
@@ -9142,6 +9186,10 @@
   "NonInstrumentalUnderstanding": {
     "title": "Non-Instrumental Understanding",
     "url": "/wiki/concepts/noninstrumentalunderstanding/"
+  },
+  "NonMoralPoliticalAnalysis": {
+    "title": "Non-Moral Political Analysis",
+    "url": "/wiki/concepts/nonmoralpoliticalanalysis/"
   },
   "NonfictionPublicness": {
     "title": "Nonfiction Publicness",
@@ -11347,6 +11395,10 @@
     "title": "山东鲁能足校 / Shandong Luneng Football School",
     "url": "/wiki/entities/shandonglunengfootballschool/"
   },
+  "ShangYang": {
+    "title": "Shang Yang / 商鞅",
+    "url": "/wiki/entities/shangyang/"
+  },
   "ShanghaiForeignBanks": {
     "title": "Shanghai Foreign Banks",
     "url": "/wiki/concepts/shanghaiforeignbanks/"
@@ -12483,6 +12535,10 @@
     "title": "The Plain Dealer",
     "url": "/wiki/entities/theplaindealer/"
   },
+  "ThePrince": {
+    "title": "《君主论》 / The Prince",
+    "url": "/wiki/entities/theprince/"
+  },
   "TheSaaSPodcast": {
     "title": "The SaaS Podcast",
     "url": "/wiki/entities/thesaaspodcast/"
@@ -13190,6 +13246,10 @@
   "VirginiaWoolf": {
     "title": "Virginia Woolf / 弗吉尼亚·伍尔夫",
     "url": "/wiki/entities/virginiawoolf/"
+  },
+  "VirtuFortunaPoliticalAgency": {
+    "title": "Virtù And Fortuna Political Agency",
+    "url": "/wiki/concepts/virtufortunapoliticalagency/"
   },
   "VirtualAssetAMLRisk": {
     "title": "Virtual Asset AML Risk",

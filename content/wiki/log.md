@@ -2804,6 +2804,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-14] ingest | 72.君主论：读它是一场危险的冒险
+
+Added source page for the 蜜獾吃书 episode on Machiavelli and 《君主论》, covering Renaissance Florence, the Florentine Republic, the Medici return, Savonarola, Cesare Borgia, republican tension with 《论李维》, virtù and fortune, political realism, non-moral political analysis, controlled cruelty, Legalist comparison with Han Fei and Shang Yang, and the moral limits of good intentions. Created pages for 《君主论》 / The Prince, 《论李维》 / Discourses on Livy, Florentine Republic, House of Medici, Girolamo Savonarola, Cesare Borgia, Han Fei, Shang Yang, Machiavellian Realism, Non-Moral Political Analysis, Virtù And Fortuna Political Agency, Cruelty Used Well, Legalist-Machiavelli Comparison, and Good Intentions Political Limits; updated overview, index, 蜜獾吃书, Niccolo Machiavelli, and Fixed Human Nature Politics. No direct contradiction found; the source qualifies the earlier Machiavelli-as-fixed-human-badness frame by treating his realism as a dangerous but not purely immoral method for seeing political reality.
+
 ## [2026-07-14] report | lint run clarification
 
 Latest lint run completed after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-12 with 3,408 nodes while the wiki scan found 3,480 pages; they found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified. No `wiki/lint-report.md` file was saved.
@@ -3010,5 +3014,9 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 
 ## [2026-07-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
