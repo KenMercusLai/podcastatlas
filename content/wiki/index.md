@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [175.女性卫生用品的社会史：比想象中更精彩！](sources/175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044.md) — 蜜獾吃书 episode on the social history of menstrual products, menstrual stigma, Anne sanitary napkins, commercial menstrual education, public access, period poverty, and sanitary-product consumer history.
 - [174.读笛卡尔，是件大事](sources/174-du-dikaer-shi-jian-dashi-966856702.md) — 蜜獾吃书 episode on Rene Descartes, 《谈谈方法》, methodic doubt, 我思故我在, Cartesian dualism, Princess Elisabeth's objections, rationalist method, and AI-era thinking versus calculation.
 - [173.弹劾：如何罢免一位总统](sources/173-tanhe-ruhe-bamian-yiwei-zongtong-963141809.md) — 蜜獾吃书 episode using Cass Sunstein to explain U.S. presidential impeachment, high crimes and misdemeanors, the 25th Amendment, presidential-vs-parliamentary design, and constitutional robustness.
 - [172.好运是什么？为啥说总避雷会败好运？](sources/172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860.md) — 蜜獾吃书 episode reframing luck as information bandwidth, low-cost experimentation, survivable risk, weak ties, positive expectation, and the hidden opportunity cost of always "避雷".
@@ -389,6 +390,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《女性卫生用品的社会史》](entities/JoseiEiseiYouhinNoShakaishi.md) — Tanaka Hikari book used by episode 175 to frame menstrual products as gendered material and social history.
+- [田中光](entities/TanakaHikari.md) — Japanese scholar whose book anchors the episode's discussion of sanitary products, stigma, and public menstrual knowledge.
+- [板井太子](entities/ItaiTaeko.md) — Founder figure behind Anne sanitary napkins, presented as a female user-insight case in postwar Japan.
+- [安妮卫生巾 / Anne](entities/AnneSanitaryNapkin.md) — Japanese sanitary-pad brand that used naming, packaging, samples, and school education to make menstruation more speakable.
+- [森布一](entities/MoriBuichi.md) — Mitsumi Electric executive who backed the Anne sanitary napkin project when other executives treated it as shameful.
+- [杜继彦](entities/DuJiyan.md) — Anne public-relations lead whose field research shows both sincere male empathy and its product-design limits.
+- [三美电机](entities/MitsumiElectric.md) — Corporate backer around Anne sanitary napkins in the episode's Japan product-history account.
+- [尤妮佳 / Unicharm](entities/Unicharm.md) — Japanese sanitary-products company and Sofy maker used as the later competitor that overtook Anne.
+- [Kimberly-Clark](entities/KimberlyClark.md) — U.S. consumer-products company appearing through the early disposable sanitary-pad history behind Kotex.
+- [Kotex / 高洁丝](entities/Kotex.md) — Early disposable sanitary-pad brand used as the U.S. comparison point for Japan's later Anne launch.
+- [恒安集团](entities/HenganGroup.md) — Chinese sanitary-products company mentioned through its imported Japanese production line and later 安乐 brand.
+- [安乐](entities/Anerle.md) — Chinese sanitary-pad brand mentioned as a future research anchor for China's under-documented product history.
 - [Rene Descartes / 笛卡尔](entities/ReneDescartes.md) — Early modern philosopher introduced through methodic doubt, cogito, rationalist method, mind-body questions, and new science under religious pressure.
 - [Discourse on Method / 《谈谈方法》](entities/DiscourseOnMethod.md) — Descartes text used by episode 174 as the accessible entry point into doubt, clear foundations, and rationalist reconstruction.
 - [Meditations on First Philosophy / 《第一哲学的沉思》](entities/MeditationsOnFirstPhilosophy.md) — Harder Descartes text named in episode 174 as part of the deeper doubt, certainty, God, and mind-body corpus.
@@ -2406,6 +2419,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Menstrual Product Social History](concepts/MenstrualProductSocialHistory.md) — Frame for reading sanitary pads, tampons, menstrual cups, belts, cotton, packaging, and disposal as gendered social infrastructure.
+- [Menstrual Stigma](concepts/MenstrualStigma.md) — Pattern where menstruation is treated as dirty, dangerous, shameful, unlucky, or unspeakable, shaping knowledge and access.
+- [Gendered Medicalization](concepts/GenderedMedicalization.md) — Medical-language pattern where bodily knowledge improves while women's menstruation is also pathologized or used to restrict activity.
+- [Commercial Menstrual Education](concepts/CommercialMenstrualEducation.md) — Brand, advertising, sample, booklet, and school-channel education that teaches menstruation while creating product demand.
+- [Menstrual Public Infrastructure](concepts/MenstrualPublicInfrastructure.md) — Public access frame for menstrual products in transit, schools, toilets, retail, standards, taxes, and disposal systems.
+- [Period Poverty](concepts/PeriodPoverty.md) — Access problem where recurring menstrual-product costs, stigma, and safety concerns burden low-income users.
+- [Toxic Shock Syndrome Risk](concepts/ToxicShockSyndromeRisk.md) — Product-safety and trust frame around tampon use, historical TSS controversies, and risk communication.
 - [Methodic Doubt](concepts/MethodicDoubt.md) — Cartesian procedure of doubting what can be doubted to clear inherited prejudice and find a secure starting point.
 - [Cogito Ergo Sum / 我思故我在](concepts/CogitoErgoSum.md) — Descartes's first certainty in episode 174, where the act of doubting proves the presence of a thinking subject.
 - [Cartesian Dualism](concepts/CartesianDualism.md) — Mind/body split that episode 174 complicates through substance, extension, Elisabeth's objections, and mind-body union.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-15] ingest | 175.女性卫生用品的社会史：比想象中更精彩！
+
+Added source page for the 蜜獾吃书 episode on 《女性卫生用品的社会史》, menstrual stigma, Japanese sanitary-product history, Anne sanitary napkins, commercial menstrual education, public access, period poverty, tampon safety memory, and the under-documented Chinese sanitary-product branch. Created pages for 《女性卫生用品的社会史》, 田中光, 板井太子, 安妮卫生巾, 森布一, 杜继彦, 三美电机, 尤妮佳 / Unicharm, Kimberly-Clark, Kotex / 高洁丝, 恒安集团, 安乐, Menstrual Product Social History, Menstrual Stigma, Gendered Medicalization, Commercial Menstrual Education, Menstrual Public Infrastructure, Period Poverty, and Toxic Shock Syndrome Risk; updated overview, index, 蜜獾吃书, Material History Narrative, Consumer Brand Moat, Packaging As Product Experience, Protection As Control, and Female Self-Possession. No direct contradiction found; the source adds a data-gap note that Chinese sanitary-product history needs stronger dedicated sources.
+
 ## [2026-07-15] ingest | 174.读笛卡尔，是件大事
 
 Added source page for the 蜜獾吃书 episode on Rene Descartes, 《谈谈方法》, methodic doubt, 我思故我在, rationalist method, Cartesian dualism, Princess Elisabeth's mind-body objections, and AI-era thinking versus calculation. Created pages for Rene Descartes, Discourse on Method, Meditations on First Philosophy, Principles of Philosophy, Princess Elisabeth of Bohemia, Queen Christina of Sweden, Isaac Beeckman, Galileo Galilei, Methodic Doubt, Cogito Ergo Sum, Cartesian Dualism, Rationalist Method, Mind-Body Union, Substance And Extension, and Computing Versus Thinking; updated overview, index, 蜜獾吃书, Rational Humility, Human Agency Under AI, Human Judgment Under AI, and Science-Religion Civilization Tension. No direct contradiction found; the source complements rational humility by showing doubt as a route to a starting point, while keeping downstream claims open to interpretation and correction.
@@ -3084,6 +3088,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-15] ingest | 173.弹劾：如何罢免一位总统
 
 Added source page for the 蜜獾吃书 episode on U.S. presidential impeachment, Cass Sunstein's 《弹劾》, presidential versus parliamentary systems, separation of powers, high crimes and misdemeanors, Andrew Johnson, Richard Nixon, Bill Clinton, Donald Trump, the 25th Amendment, and constitutional robustness. Created pages for Cass Sunstein, 《弹劾》 / Impeachment: A Citizen's Guide, United States Constitution, Alexander Hamilton, Andrew Johnson, Richard Nixon, Presidential Impeachment, Twenty-Fifth Amendment, Presidential System, Parliamentary System, Separation Of Powers, High Crimes And Misdemeanors, and Constitutional Robustness; updated overview, index, 蜜獾吃书, United States, Supreme Court, Bill Clinton, George W. Bush, Donald Trump, American Democratic Resilience, Executive Power Precedent, and Presidential Conflict Of Interest. No direct contradiction found; the source complements the wiki's U.S. democratic-resilience branch by adding formal repair mechanisms and qualifies presidential conflict analysis by distinguishing misconduct from impeachable constitutional betrayal.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-15] lint | Wiki health check
 

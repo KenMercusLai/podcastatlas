@@ -2,7 +2,7 @@
 title: "Female Self-Possession"
 type: concept
 tags: [women, agency, life-design, self-knowledge]
-sources: [63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038, 184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
+sources: [63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038, 184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
 last_updated: 2026-07-15
 ---
 
@@ -24,6 +24,8 @@ The three hosts show different versions. [[YinJie|殷姐]] is satisfied with the
 
 [[sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]] adds a practical selfhood vocabulary through [[QianJing|钱静]]'s [[ZhongyongSelf]]. The source is not women-only, but it reinforces this page by legitimizing ambition as a neutral word and insisting that self-possession has to survive real labor, family entanglement, workplace hierarchy, and public judgment rather than remaining a private feeling.
 
+[[175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]] adds a bodily-infrastructure version through [[MenstrualProductSocialHistory]]. Here self-possession depends partly on having words, products, school knowledge, public access, and non-shaming purchase routes for menstruation; [[ItaiTaeko|板井太子]]'s work on [[AnneSanitaryNapkin|安妮卫生巾]] shows agency embedded in product design and public education, not only in personal attitude.
+
 ## Key Claims
 
 - Self-possession is not the absence of pain or dependency; it is the ability to keep recognizing oneself inside pain, work, family, love, and social expectation.
@@ -32,6 +34,7 @@ The three hosts show different versions. [[YinJie|殷姐]] is satisfied with the
 - Learning capacity and supportive female friendship help turn self-affirmation from a slogan into a practical way of living.
 - Midlife self-possession can be steadier than youthful confidence because it is built from mistakes, disillusionment, and repeated survival of uncertainty.
 - Ambition does not negate self-possession; when grounded in [[ObjectiveSelfOwnership]] and action, wanting more can be part of recognizing the self rather than betraying it.
+- Bodily self-possession requires material conditions: accurate knowledge, usable products, public access, and freedom from shame around basic needs.
 
 ## Connections
 
@@ -46,3 +49,4 @@ The three hosts show different versions. [[YinJie|殷姐]] is satisfied with the
 - [[ShiJianqiao]], [[FilialRevengePublicSympathy]], and [[GenderedNationalistHeroism]] - Republican-era extension where female agency is inseparable from violence, public sympathy, and state politics.
 - [[Ajiao|阿娇 / 柱子哥]], [[ProfessionalDignityBeyondPatientIdentity]], and [[PublicIllnessWriting]] - late-illness extension where agency includes truthful self-recording and refusal of reductive sympathy.
 - [[QianJing|钱静]], [[ZhongyongSelf]], [[ObjectiveSelfOwnership]], and [[ActionAgainstAnxiety]] - practical psychology extension around ambition, work, family, and real-world self-practice.
+- [[MenstrualProductSocialHistory]], [[MenstrualStigma]], [[ItaiTaeko|板井太子]], and [[AnneSanitaryNapkin|安妮卫生巾]] - bodily-infrastructure extension from episode 175.

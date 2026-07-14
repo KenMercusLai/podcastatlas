@@ -2,8 +2,8 @@
 title: "Protection As Control"
 type: concept
 tags: [gender, power, freedom, social-control]
-sources: [40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198]
-last_updated: 2026-07-14
+sources: [40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
+last_updated: 2026-07-15
 ---
 
 # Protection As Control
@@ -14,12 +14,15 @@ The source's central image is "笼子里的金丝雀": food and water can be off
 
 [[40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366]] adds a literary-satirical version through [[Flatland|《平面国》 / Flatland]]. Women are framed as dangerous line segments because they are hard to see head-on and have sharp endpoints; the society then uses that danger claim to justify controlled entrances, required sound, regulated movement, and male accompaniment.
 
+[[175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]] adds a bodily-taboo version through [[MenstrualStigma]] and [[GenderedMedicalization]]. Menstrual huts, pollution myths, family concealment, and excessive "经期调养" restrictions show how care, purity, and health language can limit movement, work, bathing, travel, reading, and public speech.
+
 ## Key Claims
 - Protection language can hide the fact that the protected person loses decision-making power.
 - Control becomes stronger when it is attached to family honor, religious authority, public danger, or social reputation.
 - The pattern works through ordinary details: where someone may look, speak, travel, teach, listen, or stand.
 - Naming the pattern helps avoid mistaking survival accommodations for consent.
 - Satire can expose the pattern by making protective regulation look absurdly technical and geometric.
+- Bodily protection language becomes controlling when it blocks ordinary participation instead of expanding safe choices.
 
 ## Connections
 - [[Afghanistan]] - source setting.
@@ -28,3 +31,4 @@ The source's central image is "笼子里的金丝雀": food and water can be off
 - [[WarGenderedCivilianHarm]] - insecurity and war intensify control justified as protection.
 - [[FemaleSelfPossession]] - agency concept that the source qualifies under coercive conditions.
 - [[Flatland|《平面国》 / Flatland]], [[GeometricSocialHierarchy]], and [[AuthorCharacterSeparation]] - episode 40's literary extension.
+- [[MenstrualStigma]], [[GenderedMedicalization]], and [[MenstrualPublicInfrastructure]] - episode 175's bodily and public-access extension.
