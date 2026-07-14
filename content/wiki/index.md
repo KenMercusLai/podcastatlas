@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [61.自从拥有经济学的思维方式，人生都变简单了！](sources/61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353.md) — 蜜獾吃书 episode with 梁杰 on Paul Heyne's 《经济学的思维方式》, ordinary-reader economics, cost-benefit thinking, opportunity cost, marginal analysis, market coordination, dispersed information, comparative advantage, and subjective value.
 - [60.闲聊伟大作家们的八卦（第一弹）](sources/60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204.md) — 蜜獾吃书 episode using literary gossip to demythologize Wilde, Whitman, Conan Doyle, Tolstoy, Thoreau, Alcott, Woolf, Yeats, Tolkien, and the messy relation between author lives and canonical works.
 - [59.克里特岛：阳光、海龟、神话和二战战场](sources/59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469.md) — 蜜獾吃书 episode using Crete to connect Greek mythology, Minoan archaeology, Knossos, the Battle of Crete, sea-turtle conservation, and island extinction after human arrival.
 - [更新时间变动通知](sources/gengxin-shijian-biandong-tongzhi-644387724.md) — 蜜獾吃书 short notice announcing a move from Wednesday morning releases to Saturday 10 p.m., framed as schedule positioning, production slack, and listener-interaction housekeeping.
@@ -519,6 +520,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Flow](entities/Flow.md) — iPhone dictation app Mims uses as a voice-first AI interface for everyday messaging.
 - [Google Personal Intelligence](entities/GooglePersonalIntelligence.md) — Gemini-linked account capability used by the source to show AI acting inside Google services such as Calendar.
 - [Google Calendar](entities/GoogleCalendar.md) — Scheduling product used as the source's example of a disliked task that account-integrated AI can reduce.
+- [梁杰](entities/LiangJie.md) — Economics teacher and guest explaining Paul Heyne's 《经济学的思维方式》 as a practical framework for ordinary readers.
+- [Paul Heyne / 保罗·海恩](entities/PaulHeyne.md) — Economist and original author of The Economic Way of Thinking, used by episode 61 as a model of general-reader economics pedagogy.
+- [《经济学的思维方式》 / The Economic Way of Thinking](entities/TheEconomicWayOfThinking.md) — Paul Heyne economics book discussed by 蜜獾吃书 as a formula-light route into costs, value, coordination, and life decisions.
+- [Adam Smith / 亚当·斯密](entities/AdamSmith.md) — Economist and philosopher used by episode 61 to introduce invisible-hand style market coordination and moral concern in economics.
+- [Friedrich Hayek / 哈耶克](entities/FriedrichHayek.md) — Economist used by episode 61 to frame dispersed information, planning limits, and market coordination.
 - [蜜獾吃书](entities/MihuanChishu.md) — Podcast/show context for book, travel, language, natural-history, life-design, and literary-biography discussions across reading, satire, fairy tales, writer gossip, and release-cadence housekeeping.
 - [李乌鸦](entities/LiWuya.md) — Book creator and guest in the 蜜獾吃书 first-anniversary episode on reading habits, classics, shame, solitude, and non-instrumental literary value.
 - [日谈](entities/Ritan.md) — Crossover context for the episode bringing Hookie, 殷姐, and 秦总 together for a Women's Day life-design conversation.
@@ -2195,6 +2201,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Economic Way Of Thinking](concepts/EconomicWayOfThinking.md) — Reasoning style that uses economics to notice order, tradeoffs, costs, incentives, dispersed information, cooperation, and subjective value.
+- [Cost-Benefit Thinking](concepts/CostBenefitThinking.md) — Decision discipline for evaluating expected gains against money, time, energy, alternatives, and side effects.
+- [Opportunity Cost](concepts/OpportunityCost.md) — Value of the best alternative given up by choosing one path over another.
+- [Marginal Analysis](concepts/MarginalAnalysis.md) — Habit of evaluating what one more unit of time, work, attention, or action is worth in context.
+- [Market Coordination](concepts/MarketCoordination.md) — How decentralized exchange can coordinate many people with different goals, skills, information, and preferences.
+- [Dispersed Information Problem](concepts/DispersedInformationProblem.md) — Planning and decision problem created when relevant knowledge is local, tacit, changing, and unevenly distributed.
+- [Comparative Advantage](concepts/ComparativeAdvantage.md) — Cooperation logic where exchange can benefit both sides because opportunity costs differ.
+- [Subjective Value](concepts/SubjectiveValue.md) — Pricing and consumption frame where willingness to pay depends on meaning, scarcity, timing, identity, and preference rather than input cost alone.
 - [Literary Gossip As Context](concepts/LiteraryGossipAsContext.md) — Using writer anecdotes, scandal, habits, and relationships as literary-history context while keeping uncertainty and source limits visible.
 - [Author Myth Deflation](concepts/AuthorMythDeflation.md) — Reading canonical writers as brilliant but embodied, flawed, political, domestic, ridiculous, or harmful rather than saintly icons.
 - [Occult And Pseudoscience In Literary Modernity](concepts/OccultPseudoscienceLiteraryModernity.md) — Frame for literary lives entangled with phrenology, spiritualism, fairy photographs, astrology, seances, and occult organizations.

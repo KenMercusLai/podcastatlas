@@ -2,7 +2,7 @@
 title: "Learning How To Learn"
 type: concept
 tags: [learning, education, ai]
-sources: [tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425]
+sources: [tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
 last_updated: 2026-07-12
 ---
 
@@ -22,6 +22,8 @@ Learning how to learn is the source's core durable skill across majors, professi
 
 [[ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425]] adds an adult-life version through [[YinJie|殷姐]]. Learning how to learn is the portable capacity that lets her adapt after formal schooling and a single auditing job: she uses it to learn Spanish, communicate with renovation workers, run hospitality work in Mexico, and remain able to choose again without needing a fixed institutional path.
 
+[[61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]] adds an ordinary-reader economics version through [[TheEconomicWayOfThinking|《经济学的思维方式》 / The Economic Way of Thinking]]. The episode argues that learning economics does not have to begin with formulas; it can begin with a transferable frame for noticing [[OpportunityCost]], [[MarginalAnalysis]], [[MarketCoordination]], and [[SubjectiveValue]] in everyday choices.
+
 ## Key Claims
 
 - The important skill is not only repeating actions, but learning how to improve the way one trains, studies, asks, builds, and reflects.
@@ -36,6 +38,7 @@ Learning how to learn is the source's core durable skill across majors, professi
 - AI-era K12 learning still needs knowledge, effort, and confidence loops because students build judgment by working through concepts, not only by receiving correct answers.
 - AI-era learning includes knowing when not to ask AI yet, especially before the first draft, first solution, or first explanation attempt.
 - Learning how to learn also includes adult relocation, language, care, hospitality, and practical coordination after the original major or job no longer defines the path.
+- Learning how to learn can mean acquiring a discipline's way of seeing before mastering its formal apparatus.
 
 ## Connections
 
@@ -50,3 +53,4 @@ Learning how to learn is the source's core durable skill across majors, professi
 - [[SelfDirectedLearning]], [[LearningExperienceDesign]], and [[AIShortcutRisk]] — Yangcong Xueyuan's K12 learning-product extension.
 - [[FirstDraftThinking]], [[HeatherSchwartz]], and [[RAND]] - Marketplace Tech's first-attempt learning extension.
 - [[YinJie|殷姐]], [[FemaleSelfPossession]], and [[LifeRestartThoughtExperiment]] - adult-life and relocation case.
+- [[TheEconomicWayOfThinking|《经济学的思维方式》 / The Economic Way of Thinking]], [[EconomicWayOfThinking]], and [[OpportunityCost]] - ordinary-reader economics extension.

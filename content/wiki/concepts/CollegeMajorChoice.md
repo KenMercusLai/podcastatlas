@@ -2,7 +2,7 @@
 title: "College Major Choice"
 type: concept
 tags: [education, career, ai]
-sources: [tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
+sources: [tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
 last_updated: 2026-07-14
 ---
 
@@ -18,6 +18,8 @@ College major choice is the episode's frame for choosing a field of study under 
 
 [[tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128]] adds the search-process layer. [[AICollegeSearch]] can help students compare programs, scholarships, campus vibe, and outcomes, but [[AIRankingReinforcement]] means AI-generated lists may overrepresent familiar ranked schools unless the student or counselor asks for fit-based alternatives.
 
+[[61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]] adds the [[OpportunityCost]] lens. Choosing a major or career-preparation path is not only picking the option with the best label; it means giving up other uses of time, internships, exams, cities, money, and attention, so [[CostBenefitThinking]] and [[MarginalAnalysis]] can make the tradeoff more explicit.
+
 ## Key Claims
 
 - A major can shape four years of courses, peers, projects, and recruiting access, but it is not an irreversible verdict on the rest of life.
@@ -31,6 +33,7 @@ College major choice is the episode's frame for choosing a field of study under 
 - The computing-enrollment source shows major choice as a live market signal: students may preserve interest in computing while shifting toward subfields they perceive as more applied, specialized, or protected from entry-level software disruption.
 - AI can help collect college and program information, but it can also make existing ranking defaults feel like personalized advice.
 - Status pressure can distort major choice when the student is optimizing for family reassurance, ranking labels, or fear of failure rather than a defensible direction.
+- Opportunity cost makes major choice more honest: keeping every future open is itself a costly strategy when time and attention are limited.
 
 ## Connections
 
@@ -43,3 +46,4 @@ College major choice is the episode's frame for choosing a field of study under 
 - [[ComputingEnrollmentDecline]], [[ComputingResearchPipeline]], [[TechHiringStabilization]], and [[SoftwareDeveloperHiringPullback]] — U.S. computing case where labor-market expectations feed back into enrollment.
 - [[AICollegeSearch]], [[HigherEducationAIDiscoverability]], and [[AIRankingReinforcement]] — AI-mediated college-search layer added by Marketplace Tech.
 - [[RedPenLogic]], [[AchievementPressureMentalHealth]], and [[IvyLeagueMeritocracy]] — episode 160's warning that education choices can become identity scoring.
+- [[OpportunityCost]], [[CostBenefitThinking]], and [[MarginalAnalysis]] — episode 61's economic-thinking tools for choosing under finite time and imperfect information.

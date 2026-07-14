@@ -251,6 +251,10 @@
     "title": "60.闲聊伟大作家们的八卦（第一弹）",
     "url": "/wiki/sources/60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204/"
   },
+  "61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353": {
+    "title": "61.自从拥有经济学的思维方式，人生都变简单了！",
+    "url": "/wiki/sources/61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353/"
+  },
   "8848": {
     "title": "8848",
     "url": "/wiki/entities/8848/"
@@ -890,6 +894,10 @@
   "AdamGoldstein": {
     "title": "Adam Goldstein",
     "url": "/wiki/entities/adamgoldstein/"
+  },
+  "AdamSmith": {
+    "title": "Adam Smith / 亚当·斯密",
+    "url": "/wiki/entities/adamsmith/"
   },
   "Adao": {
     "title": "Adao",
@@ -2911,6 +2919,10 @@
     "title": "Company Game Difficulty Strategy",
     "url": "/wiki/concepts/companygamedifficultystrategy/"
   },
+  "ComparativeAdvantage": {
+    "title": "Comparative Advantage",
+    "url": "/wiki/concepts/comparativeadvantage/"
+  },
   "ComplianceAutomation": {
     "title": "Compliance Automation",
     "url": "/wiki/concepts/complianceautomation/"
@@ -3086,6 +3098,10 @@
   "Cosmos3": {
     "title": "Cosmos 3",
     "url": "/wiki/entities/cosmos3/"
+  },
+  "CostBenefitThinking": {
+    "title": "Cost-Benefit Thinking",
+    "url": "/wiki/concepts/costbenefitthinking/"
   },
   "CostCapEconomics": {
     "title": "Cost Cap Economics",
@@ -3739,6 +3755,10 @@
     "title": "Disneyland",
     "url": "/wiki/entities/disneyland/"
   },
+  "DispersedInformationProblem": {
+    "title": "Dispersed Information Problem",
+    "url": "/wiki/concepts/dispersedinformationproblem/"
+  },
   "DisplayErgonomics": {
     "title": "Display Ergonomics",
     "url": "/wiki/concepts/displayergonomics/"
@@ -4014,6 +4034,10 @@
   "EconomicClimateTechAdoption": {
     "title": "Economic Climate Tech Adoption",
     "url": "/wiki/concepts/economicclimatetechadoption/"
+  },
+  "EconomicWayOfThinking": {
+    "title": "Economic Way Of Thinking",
+    "url": "/wiki/concepts/economicwayofthinking/"
   },
   "EconomistPodcasts": {
     "title": "Economist Podcasts",
@@ -4926,6 +4950,10 @@
   "FreshMadeIceCreamRetail": {
     "title": "Fresh-Made Ice Cream Retail",
     "url": "/wiki/concepts/freshmadeicecreamretail/"
+  },
+  "FriedrichHayek": {
+    "title": "Friedrich Hayek / 哈耶克",
+    "url": "/wiki/entities/friedrichhayek/"
   },
   "FriedrichNietzsche": {
     "title": "Friedrich Nietzsche / 尼采",
@@ -7175,6 +7203,10 @@
     "title": "Liang Jianzhang",
     "url": "/wiki/entities/liangjianzhang/"
   },
+  "LiangJie": {
+    "title": "梁杰",
+    "url": "/wiki/entities/liangjie/"
+  },
   "LiaoJieyuan": {
     "title": "廖杰远",
     "url": "/wiki/entities/liaojieyuan/"
@@ -7635,6 +7667,10 @@
     "title": "Margin Of Safety",
     "url": "/wiki/concepts/marginofsafety/"
   },
+  "MarginalAnalysis": {
+    "title": "Marginal Analysis",
+    "url": "/wiki/concepts/marginalanalysis/"
+  },
   "MariaCorinaMachado": {
     "title": "Maria Corina Machado",
     "url": "/wiki/entities/mariacorinamachado/"
@@ -7678,6 +7714,10 @@
   "MarkZuckerberg": {
     "title": "Mark Zuckerberg",
     "url": "/wiki/entities/markzuckerberg/"
+  },
+  "MarketCoordination": {
+    "title": "Market Coordination",
+    "url": "/wiki/concepts/marketcoordination/"
   },
   "MarketEfficiency": {
     "title": "Market Efficiency",
@@ -8763,6 +8803,10 @@
     "title": "Operator-Subsidized Handsets",
     "url": "/wiki/concepts/operatorsubsidizedhandsets/"
   },
+  "OpportunityCost": {
+    "title": "Opportunity Cost",
+    "url": "/wiki/concepts/opportunitycost/"
+  },
   "OpticalTactileSensing": {
     "title": "Optical Tactile Sensing",
     "url": "/wiki/concepts/opticaltactilesensing/"
@@ -8998,6 +9042,10 @@
   "PaulGross": {
     "title": "Paul Gross",
     "url": "/wiki/entities/paulgross/"
+  },
+  "PaulHeyne": {
+    "title": "Paul Heyne / 保罗·海恩",
+    "url": "/wiki/entities/paulheyne/"
   },
   "PayPerClassFitnessModel": {
     "title": "Pay-Per-Class Fitness Model",
@@ -11327,6 +11375,10 @@
     "title": "Subculture Led Marketing",
     "url": "/wiki/concepts/subcultureledmarketing/"
   },
+  "SubjectiveValue": {
+    "title": "Subjective Value",
+    "url": "/wiki/concepts/subjectivevalue/"
+  },
   "SubjectivityAsAIAsset": {
     "title": "Subjectivity As AI Asset",
     "url": "/wiki/concepts/subjectivityasaiasset/"
@@ -11638,6 +11690,10 @@
   "TheContinental": {
     "title": "The Continental",
     "url": "/wiki/entities/thecontinental/"
+  },
+  "TheEconomicWayOfThinking": {
+    "title": "《经济学的思维方式》 / The Economic Way of Thinking",
+    "url": "/wiki/entities/theeconomicwayofthinking/"
   },
   "TheInformation": {
     "title": "The Information",
