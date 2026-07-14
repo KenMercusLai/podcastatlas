@@ -2,8 +2,8 @@
 title: "Human Agency Under AI"
 type: concept
 tags: [ai, agency, life-design, work]
-sources: [142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
-last_updated: 2026-07-09
+sources: [174-du-dikaer-shi-jian-dashi-966856702, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
+last_updated: 2026-07-15
 ---
 
 # Human Agency Under AI
@@ -21,6 +21,8 @@ The concept complements [[HumanJudgmentUnderAI]]. Judgment asks whether a result
 [[e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0]] adds [[WeiQing]]'s humanistic engineering version. His [[WantCanShouldMayFramework]] makes agency prior to capability: people must decide what they want, what should be done, and what context permits before AI speed turns every possibility into a task. His personal-agent discussion also treats agency as a value-filtering problem rather than a generic productivity problem.
 
 [[e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask]] adds [[LiJigang]]'s "人何以自处" version. If [[AIAsTimeCompression]] lets models absorb more dry brain work, agency shifts toward [[WetStateHumanAgency]]: intention, heart power, taste, body, offline connection, and the ability to ask whether a thought comes from "I am" or from social machinery.
+
+[[174-du-dikaer-shi-jian-dashi-966856702]] adds a philosophical foundation version through [[ReneDescartes|Descartes]]. The episode uses [[MethodicDoubt]] and [[CogitoErgoSum|我思故我在]] to argue that the person still needs an owned starting point for thought; its AI-era extension becomes [[ComputingVersusThinking]], the distinction between machine calculation and human responsibility for thinking.
 
 [[167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]] adds [[YangLingfeng]]'s K12 version. [[SelfDirectedLearning]] is agency before adulthood: students need willingness, ability, tools, belief, and an environment that helps them take responsibility for learning instead of letting AI or teachers complete the thinking loop for them.
 
@@ -42,9 +44,11 @@ The concept complements [[HumanJudgmentUnderAI]]. Judgment asks whether a result
 - Personal agents should represent the user's values and attention choices, not simply copy platform incentives.
 - If AI absorbs more brain work, agency depends on preserving heart power, embodied rhythm, feed choice, and value direction rather than passively relaying model output.
 - Student agency means learning to take responsibility for understanding while still receiving enough teacher, product, and AI support to avoid repeated failure.
+- AI-era agency also depends on distinguishing calculation from an owned act of thinking.
 
 ## Connections
 
+- [[ReneDescartes]], [[MethodicDoubt]], [[CogitoErgoSum]], and [[ComputingVersusThinking]] - episode 174's philosophical foundation for AI-era agency.
 - [[AIUsePacing]] — agency becomes practical only when users resist unlimited optimization and token consumption.
 - [[ActionDefinesIdentity]] — adjacent life-design claim that repeated choices under real conditions reveal identity.
 - [[SelfDirectedWork]] — ownership and recognized purpose change how people relate to work.

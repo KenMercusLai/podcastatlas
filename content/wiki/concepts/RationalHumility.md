@@ -2,8 +2,8 @@
 title: "Rational Humility"
 type: concept
 tags: [reasoning, science, evidence, epistemology]
-sources: [40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
-last_updated: 2026-07-14
+sources: [174-du-dikaer-shi-jian-dashi-966856702, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
+last_updated: 2026-07-15
 ---
 
 # Rational Humility
@@ -11,6 +11,8 @@ last_updated: 2026-07-14
 Rational humility is the discipline of using reason without pretending that inference has become certainty. [[54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699]] adds the concept through [[WilliamOfBaskerville|巴斯克维尔的威廉 / William of Baskerville]], who represents observation, experiment, and skepticism but still admits that some of his apparently brilliant deductions were guesses that happened to land near the truth.
 
 The episode treats this as Eco's correction to detective and scientific arrogance. Reason is still necessary; the problem is the posture that turns reason into an infallible closed system. Scientific thinking advances through conjecture, testing, failed guesses, and correction, which makes humility part of the method rather than an apology for it.
+
+[[174-du-dikaer-shi-jian-dashi-966856702]] adds a Cartesian boundary case. [[ReneDescartes|Descartes]] uses [[MethodicDoubt]] to find [[CogitoErgoSum|我思故我在]] as a secure starting point, not to license certainty about every later inference. The episode therefore strengthens rational humility by separating a foundation for thinking from overconfidence in whatever system is built after that foundation.
 
 [[61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]] adds an economics version through the "one-handed economist" joke. The source argues that economists often say "on the one hand, on the other hand" because policy and life choices involve [[CostBenefitThinking]], [[OpportunityCost]], incentives, and side effects. Refusing a single simple answer can therefore be a discipline rather than evasion.
 
@@ -23,8 +25,10 @@ The episode treats this as Eco's correction to detective and scientific arroganc
 - Rational humility resists both anti-rationalism and rationalist overconfidence.
 - Economic rationality also needs humility because a clean recommendation can hide who pays the cost, what information is missing, and which alternatives are being abandoned.
 - Higher understanding should not turn into final-authority posture, because the next unimagined frame may still exist.
+- Cartesian doubt can give a starting point without making all downstream reasoning immune to criticism.
 
 ## Connections
+- [[ReneDescartes]], [[MethodicDoubt]], [[CogitoErgoSum]], and [[RationalistMethod]] - Descartes branch that clarifies foundation-seeking versus total certainty.
 - [[WilliamOfBaskerville|巴斯克维尔的威廉 / William of Baskerville]] - character used by the episode to show reason's power and limits.
 - [[InterpretationAndOverinterpretation]] - problem rational humility helps constrain.
 - [[ObservationBeforeInference]] - methodological neighbor.

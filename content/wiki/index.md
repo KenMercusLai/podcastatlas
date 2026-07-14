@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [174.读笛卡尔，是件大事](sources/174-du-dikaer-shi-jian-dashi-966856702.md) — 蜜獾吃书 episode on Rene Descartes, 《谈谈方法》, methodic doubt, 我思故我在, Cartesian dualism, Princess Elisabeth's objections, rationalist method, and AI-era thinking versus calculation.
 - [173.弹劾：如何罢免一位总统](sources/173-tanhe-ruhe-bamian-yiwei-zongtong-963141809.md) — 蜜獾吃书 episode using Cass Sunstein to explain U.S. presidential impeachment, high crimes and misdemeanors, the 25th Amendment, presidential-vs-parliamentary design, and constitutional robustness.
 - [172.好运是什么？为啥说总避雷会败好运？](sources/172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860.md) — 蜜獾吃书 episode reframing luck as information bandwidth, low-cost experimentation, survivable risk, weak ties, positive expectation, and the hidden opportunity cost of always "避雷".
 - [153.我的名字叫红：用一千零一夜的心跳完成这场谋杀(上）](sources/153-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-shang-917670296.md) — 蜜獾吃书 episode opening the Pamuk two-parter with Istanbul, Persian and Ottoman miniature painting, Sufi image legitimacy, divine perspective, Frankish portrait pressure, style as trace, and the story setup through Black and Shekure's reunion.
@@ -388,6 +389,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Rene Descartes / 笛卡尔](entities/ReneDescartes.md) — Early modern philosopher introduced through methodic doubt, cogito, rationalist method, mind-body questions, and new science under religious pressure.
+- [Discourse on Method / 《谈谈方法》](entities/DiscourseOnMethod.md) — Descartes text used by episode 174 as the accessible entry point into doubt, clear foundations, and rationalist reconstruction.
+- [Meditations on First Philosophy / 《第一哲学的沉思》](entities/MeditationsOnFirstPhilosophy.md) — Harder Descartes text named in episode 174 as part of the deeper doubt, certainty, God, and mind-body corpus.
+- [Principles of Philosophy / 《哲学原理》](entities/PrinciplesOfPhilosophy.md) — Descartes work tied in episode 174 to Princess Elisabeth and the systematic vocabulary of substance, extension, and knowledge.
+- [Princess Elisabeth of Bohemia / 波西米亚公主伊丽莎白](entities/PrincessElisabethOfBohemia.md) — Descartes correspondent whose objections sharpen the episode's treatment of mind-body interaction and union.
+- [Queen Christina of Sweden / 瑞典女王克里斯蒂娜](entities/QueenChristinaOfSweden.md) — Swedish royal patron whose court invitation frames Descartes's final months and clarifies the distinction from Princess Elisabeth.
+- [Isaac Beeckman / 贝克曼](entities/IsaacBeeckman.md) — Mathematician and scientific interlocutor used by episode 174 to connect Descartes's biography to mathematics, physics, and unified knowledge.
+- [Galileo Galilei / 伽利略](entities/GalileoGalilei.md) — Scientific-revolution figure whose 1633 trial gives episode 174 its science/religion cautionary background.
 - [《好运》](entities/GoodLuckBook.md) — Book that inspires episode 172 while being treated as imperfect but useful material rather than a fully endorsed authority.
 - [Richard Wiseman](entities/RichardWiseman.md) — Psychologist referenced through luck research and the newspaper experiment, used by episode 172 to frame luck as attention and behavior.
 - [Lionel Messi](entities/LionelMessi.md) — Football example in episode 172 for reading a complex field before acting, not merely taking more visible action.
@@ -2397,6 +2406,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Methodic Doubt](concepts/MethodicDoubt.md) — Cartesian procedure of doubting what can be doubted to clear inherited prejudice and find a secure starting point.
+- [Cogito Ergo Sum / 我思故我在](concepts/CogitoErgoSum.md) — Descartes's first certainty in episode 174, where the act of doubting proves the presence of a thinking subject.
+- [Cartesian Dualism](concepts/CartesianDualism.md) — Mind/body split that episode 174 complicates through substance, extension, Elisabeth's objections, and mind-body union.
+- [Rationalist Method](concepts/RationalistMethod.md) — Descartes-style reasoning from clear intuition and deduction, contrasted with empirical induction while remaining relevant to science and life practice.
+- [Mind-Body Union](concepts/MindBodyUnion.md) — Corrective to crude Cartesian dualism in episode 174, emphasizing the joined human being rather than a soul simply inside a machine.
+- [Substance And Extension](concepts/SubstanceAndExtension.md) — Descartes vocabulary for underlying substance and spatially measurable matter, used to explain his metaphysics and science link.
+- [Computing Versus Thinking](concepts/ComputingVersusThinking.md) — AI-era extension of Descartes asking whether calculation, prediction, and output production equal reflective human thought.
 - [Luck As Information Bandwidth](concepts/LuckAsInformationBandwidth.md) — Episode 172 synthesis that luck improves when attention, environment, weak ties, and survivable action increase useful information flow.
 - [Information Entropy As Opportunity](concepts/InformationEntropyAsOpportunity.md) — Frame where unfamiliar or unstable settings can contain opportunity when failure cost is bounded and attention can turn disorder into usable order.
 - [Availability Heuristic](concepts/AvailabilityHeuristic.md) — Cognitive shortcut where vivid memories or warning posts distort perceived probability and can narrow opportunity.

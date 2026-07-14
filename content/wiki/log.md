@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-15] ingest | 174.读笛卡尔，是件大事
+
+Added source page for the 蜜獾吃书 episode on Rene Descartes, 《谈谈方法》, methodic doubt, 我思故我在, rationalist method, Cartesian dualism, Princess Elisabeth's mind-body objections, and AI-era thinking versus calculation. Created pages for Rene Descartes, Discourse on Method, Meditations on First Philosophy, Principles of Philosophy, Princess Elisabeth of Bohemia, Queen Christina of Sweden, Isaac Beeckman, Galileo Galilei, Methodic Doubt, Cogito Ergo Sum, Cartesian Dualism, Rationalist Method, Mind-Body Union, Substance And Extension, and Computing Versus Thinking; updated overview, index, 蜜獾吃书, Rational Humility, Human Agency Under AI, Human Judgment Under AI, and Science-Religion Civilization Tension. No direct contradiction found; the source complements rational humility by showing doubt as a route to a starting point, while keeping downstream claims open to interpretation and correction.
+
 ## [2026-07-14] ingest | 43.西游记：咄！你是什么妖精！
 
 Added source page for the 蜜獾吃书 episode on 《西游记》 as an accretive Chinese classic shaped by television memory, authorship debates, religious imagery, folklore, and monster source histories. Created pages for 《西游记》, 吴承恩, 丘处机, 杨慎, 玄奘, 孙悟空, 猪八戒, 沙和尚, 哈努曼 / Hanuman, 无支祁, 迦楼罗 / 大鹏鸟 / Garuda, 《西游妖物志》, Accretive Text Formation, 索隐式阅读 / Suo Yin Reading, and Mythic Source Layering; updated overview, index, 蜜獾吃书, Classic Reading Complexity, Adaptation Original-Text Confusion, Interpretation And Overinterpretation, and Non-Instrumental Literary Reading. No direct contradiction found; the source explicitly treats many authorship and hidden-political readings as suggestive rather than settled.
@@ -3080,6 +3084,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-15] ingest | 173.弹劾：如何罢免一位总统
 
 Added source page for the 蜜獾吃书 episode on U.S. presidential impeachment, Cass Sunstein's 《弹劾》, presidential versus parliamentary systems, separation of powers, high crimes and misdemeanors, Andrew Johnson, Richard Nixon, Bill Clinton, Donald Trump, the 25th Amendment, and constitutional robustness. Created pages for Cass Sunstein, 《弹劾》 / Impeachment: A Citizen's Guide, United States Constitution, Alexander Hamilton, Andrew Johnson, Richard Nixon, Presidential Impeachment, Twenty-Fifth Amendment, Presidential System, Parliamentary System, Separation Of Powers, High Crimes And Misdemeanors, and Constitutional Robustness; updated overview, index, 蜜獾吃书, United States, Supreme Court, Bill Clinton, George W. Bush, Donald Trump, American Democratic Resilience, Executive Power Precedent, and Presidential Conflict Of Interest. No direct contradiction found; the source complements the wiki's U.S. democratic-resilience branch by adding formal repair mechanisms and qualifies presidential conflict analysis by distinguishing misconduct from impeachable constitutional betrayal.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-15] lint | Wiki health check
 

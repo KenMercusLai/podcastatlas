@@ -163,6 +163,10 @@
     "title": "173.弹劾：如何罢免一位总统",
     "url": "/wiki/sources/173-tanhe-ruhe-bamian-yiwei-zongtong-963141809/"
   },
+  "174-du-dikaer-shi-jian-dashi-966856702": {
+    "title": "174.读笛卡尔，是件大事",
+    "url": "/wiki/sources/174-du-dikaer-shi-jian-dashi-966856702/"
+  },
   "184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010": {
     "title": "184.真实于我有万钧之重：欢迎侠女阿娇",
     "url": "/wiki/sources/184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010/"
@@ -2651,6 +2655,10 @@
     "title": "Carta",
     "url": "/wiki/entities/carta/"
   },
+  "CartesianDualism": {
+    "title": "Cartesian Dualism",
+    "url": "/wiki/concepts/cartesiandualism/"
+  },
   "Casetext": {
     "title": "Casetext",
     "url": "/wiki/entities/casetext/"
@@ -3159,6 +3167,10 @@
     "title": "Coffeehouse Public Sphere",
     "url": "/wiki/concepts/coffeehousepublicsphere/"
   },
+  "CogitoErgoSum": {
+    "title": "Cogito Ergo Sum / 我思故我在",
+    "url": "/wiki/concepts/cogitoergosum/"
+  },
   "Cognition": {
     "title": "Cognition",
     "url": "/wiki/entities/cognition/"
@@ -3270,6 +3282,10 @@
   "ComputingResearchPipeline": {
     "title": "Computing Research Pipeline",
     "url": "/wiki/concepts/computingresearchpipeline/"
+  },
+  "ComputingVersusThinking": {
+    "title": "Computing Versus Thinking",
+    "url": "/wiki/concepts/computingversusthinking/"
   },
   "ConceptLedHospitality": {
     "title": "Concept Led Hospitality",
@@ -4110,6 +4126,10 @@
   "DisasterSensoryHistory": {
     "title": "Disaster Sensory History",
     "url": "/wiki/concepts/disastersensoryhistory/"
+  },
+  "DiscourseOnMethod": {
+    "title": "Discourse on Method / 《谈谈方法》",
+    "url": "/wiki/entities/discourseonmethod/"
   },
   "DiscoursesOnLivy": {
     "title": "《论李维》 / Discourses on Livy",
@@ -5587,6 +5607,10 @@
     "title": "Galileo",
     "url": "/wiki/entities/galileo/"
   },
+  "GalileoGalilei": {
+    "title": "Galileo Galilei / 伽利略",
+    "url": "/wiki/entities/galileogalilei/"
+  },
   "GamePreservation": {
     "title": "Game Preservation",
     "url": "/wiki/concepts/gamepreservation/"
@@ -6898,6 +6922,10 @@
   "IranPostwarEconomicRelief": {
     "title": "Iran Postwar Economic Relief",
     "url": "/wiki/concepts/iranpostwareconomicrelief/"
+  },
+  "IsaacBeeckman": {
+    "title": "Isaac Beeckman / 贝克曼",
+    "url": "/wiki/entities/isaacbeeckman/"
   },
   "IslamicRevolutionaryGuardCorps": {
     "title": "Islamic Revolutionary Guard Corps",
@@ -8675,6 +8703,10 @@
     "title": "Medical Scam Packaging",
     "url": "/wiki/concepts/medicalscampackaging/"
   },
+  "MeditationsOnFirstPhilosophy": {
+    "title": "Meditations on First Philosophy / 《第一哲学的沉思》",
+    "url": "/wiki/entities/meditationsonfirstphilosophy/"
+  },
   "MegaCapConcentrationRisk": {
     "title": "Mega-Cap Concentration Risk",
     "url": "/wiki/concepts/megacapconcentrationrisk/"
@@ -8787,6 +8819,10 @@
     "title": "Meta AI",
     "url": "/wiki/entities/metaai/"
   },
+  "MethodicDoubt": {
+    "title": "Methodic Doubt",
+    "url": "/wiki/concepts/methodicdoubt/"
+  },
   "MiHoYo": {
     "title": "MiHoYo",
     "url": "/wiki/entities/mihoyo/"
@@ -8886,6 +8922,10 @@
   "MinamiIoto": {
     "title": "南硫磺岛 / Minami Ioto",
     "url": "/wiki/entities/minamiioto/"
+  },
+  "MindBodyUnion": {
+    "title": "Mind-Body Union",
+    "url": "/wiki/concepts/mindbodyunion/"
   },
   "Minghao": {
     "title": "明浩",
@@ -10439,9 +10479,17 @@
     "title": "Princess Aiko",
     "url": "/wiki/entities/princessaiko/"
   },
+  "PrincessElisabethOfBohemia": {
+    "title": "Princess Elisabeth of Bohemia / 波西米亚公主伊丽莎白",
+    "url": "/wiki/entities/princesselisabethofbohemia/"
+  },
   "PrincipleTech": {
     "title": "原则科技",
     "url": "/wiki/entities/principletech/"
+  },
+  "PrinciplesOfPhilosophy": {
+    "title": "Principles of Philosophy / 《哲学原理》",
+    "url": "/wiki/entities/principlesofphilosophy/"
   },
   "PrivateActuarialism": {
     "title": "Private Actuarialism",
@@ -10719,6 +10767,10 @@
     "title": "Quark",
     "url": "/wiki/entities/quark/"
   },
+  "QueenChristinaOfSweden": {
+    "title": "Queen Christina of Sweden / 瑞典女王克里斯蒂娜",
+    "url": "/wiki/entities/queenchristinaofsweden/"
+  },
   "QuickStone": {
     "title": "QuickStone",
     "url": "/wiki/entities/quickstone/"
@@ -10798,6 +10850,10 @@
   "RationalHumility": {
     "title": "Rational Humility",
     "url": "/wiki/concepts/rationalhumility/"
+  },
+  "RationalistMethod": {
+    "title": "Rationalist Method",
+    "url": "/wiki/concepts/rationalistmethod/"
   },
   "RayBanSmartGlasses": {
     "title": "Ray-Ban Smart Glasses",
@@ -10986,6 +11042,10 @@
   "RenaissanceTechnologies": {
     "title": "Renaissance Technologies",
     "url": "/wiki/entities/renaissancetechnologies/"
+  },
+  "ReneDescartes": {
+    "title": "Rene Descartes / 笛卡尔",
+    "url": "/wiki/entities/renedescartes/"
   },
   "RenqingOrder": {
     "title": "Renqing Order",
@@ -12470,6 +12530,10 @@
   "SubstackNotes": {
     "title": "Substack Notes",
     "url": "/wiki/entities/substacknotes/"
+  },
+  "SubstanceAndExtension": {
+    "title": "Substance And Extension",
+    "url": "/wiki/concepts/substanceandextension/"
   },
   "SuburbanDeliveryStrategy": {
     "title": "Suburban Delivery Strategy",
