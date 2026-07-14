@@ -33,6 +33,7 @@ sources:
   - 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1
   - vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg
   - vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl
+  - vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90
 last_updated: 2026-07-15
 ---
 
@@ -43,6 +44,8 @@ Investment risk management is the practical bridge from market uncertainty to or
 [[e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc]] adds the Kelly-sizing version: long-term return depends on [[InvestmentEdge]], [[PositionSizing]], opportunity density, and time working together. It turns [[KellyCriterion]] into a practical warning that a positive-expectation strategy can still fail if the investor overbets, uses leverage, adds without new evidence, or cannot survive the path of losses.
 
 [[e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy]] adds the Hong Kong market-structure version: risk management must account for optional offshore flows, liquidity segmentation, ETF gaps, IPO absorption, factor drawdowns, and the difference between volatility assets and long-term cash-generating assets.
+
+[[vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]] adds the Hong Kong retail-stock-picking survival version: risk management must begin before the buy order with old-thousand-stock avoidance, management-alignment checks, sell-side incentive skepticism, liquidity-exit sizing, and willingness to use [[StopLossDiscipline]] when a thesis breaks.
 
 [[e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc]] adds the multi-asset product version: risk management includes the client's maximum drawdown, path volatility, product comprehension, [[AssetCorrelation]], and whether tactical macro views stay inside a defined allocation sleeve.
 
@@ -89,6 +92,8 @@ Investment risk management is the practical bridge from market uncertainty to or
 - Adding to a position should follow favorable evidence through [[Pyramiding]], not the emotional desire to rescue a losing trade through [[AveragingDown]].
 - Broad-index investing still needs [[IndexReentryDiscipline]] when the [[SP500]] and [[NasdaqComposite]] remain expensive or technically weak.
 - Hong Kong index and fund investing needs [[HongKongMarketStructure]] awareness because low valuation, high beta, or high dividend yield can still produce long drawdowns without liquidity, catalysts, or rebalancing.
+- Individual Hong Kong stock investing adds stricter hazards: [[HongKongPennyStockRisk]], [[HongKongLiquidityExitRisk]], [[ManagementShareholderAlignmentRisk]], and [[SellSideResearchIncentives]] can each overwhelm a superficially cheap valuation.
+- Hong Kong opportunity patterns such as [[AHShareDiscountRepricing]], [[HongKongIPOLiquidityPath]], and [[HongKongTripleRerating]] still need catalysts, right-side evidence, liquidity, and exit discipline rather than just a good story.
 - Multi-asset FOF investing needs [[EfficientFrontier]] discipline because adding assets only helps if expected return, volatility, and [[AssetCorrelation]] improve the whole portfolio.
 - Return, safety, and liquidity claims should be tested together through [[InvestmentImpossibleTriangle]]; if all three seem excellent, the investor should look for hidden risk, a time-limited scarcity window, or fraud.
 - Value investing needs [[MarginOfSafety]] because a low valuation, attractive dividend, or good story is not enough if pessimistic assumptions can still produce permanent loss.
@@ -176,3 +181,4 @@ Investment risk management is the practical bridge from market uncertainty to or
 - [[ICEInvestor]], [[GoodCompanyGoodStock]], [[EarningsGrowthAcceleration]], [[InvestmentCatalyst]], [[AICompressedInvestmentResearchAdvantage]], [[PopMart]], and [[Pinduoduo]] — FengTouQuan episode 139's stock-picking suitability extension.
 - [[HousingExperienceInvestmentSplit]], [[HongKong]], [[Shenzhen]], and [[Guangzhou]] — FengTouQuan episode 137's housing-as-experience versus housing-as-investment extension.
 - [[HumanRiskOverride]], [[ShortTermStatisticalArbitrage]], [[QuantitativeDataMoat]], [[AlphaDecay]], [[RenaissanceTechnologies]], and [[MedallionFund]] — vol.103's professional-quant survival extension.
+- [[HongKongRetailInvestorSurvival]], [[HongKongPennyStockRisk]], [[HongKongLiquidityExitRisk]], [[ManagementShareholderAlignmentRisk]], [[SellSideResearchIncentives]], [[AHShareDiscountRepricing]], [[HongKongIPOLiquidityPath]], and [[HongKongTripleRerating]] — vol.104's Hong Kong retail-stock-picking survival cluster.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [vol.104.普通人港股完全生存指南 | 串台三点下班](sources/vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90.md) — 起朱楼宴宾客 crossover with 三点下班 on Hong Kong retail-investor survival, old-thousand stocks, liquidity exit risk, AH discounts, dividend assets, sell-side incentives, IPO liquidity paths, and why ordinary investors should usually prefer funds or large liquid leaders.
 - [vol.103.文艺复兴科技西蒙斯的封神之路：是量化之王，更是洞察人性的大师](sources/vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl.md) — 起朱楼宴宾客 episode on Jim Simons, Renaissance Technologies, Medallion Fund, data moats, short-horizon quant trading, alpha decay, LTCM comparison, and the human risk override behind machine-led investing.
 - [vol.102.熬过就业冰河期的日本年轻人，去哪里寻找幸福感？](sources/vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn.md) — 起朱楼宴宾客 crossover with 轻刀快马 on Japan's employment ice age, NISA, inflation, social trust, micro-happiness, hidden youth, algorithmic labeling, empathy boundaries, and young people's search for happiness after growth confidence weakens.
 - [vol.101.既安全、收益又高、流动性还好的投资到底存在吗？](sources/vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg.md) — 起朱楼宴宾客 episode on the return-safety-liquidity investment impossible triangle, Yu'e Bao, liquidity management, safety as volatility versus permanent loss, scarcity premiums, and portfolio-level asset allocation.
@@ -403,6 +404,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [大卫翁 / David Weng](entities/DavidWeng.md) — 起朱楼宴宾客 host and vol.104 speaker connecting institutional allocation, AH discount trades, renewable-power rerating, and Hong Kong retail survival.
+- [三点下班 / San Dian Xiaban](entities/SanDianXiaban.md) — Podcast crossover partner for vol.104, represented through 浩哥's Hong Kong stock-picking and survival discussion.
+- [浩哥 / Haoge](entities/Haoge.md) — 三点下班 speaker in vol.104, contributing retail Hong Kong investing cases around early wins, illiquid losses, IPO paths, and fast stop-loss discipline.
+- [China Mobile / 中国移动](entities/ChinaMobile.md) — Hong Kong-listed telecom SOE used in vol.104 as a sanction-driven mispricing and high-dividend example.
+- [CNOOC / 中国海油](entities/CNOOC.md) — State-owned energy company used in vol.104 as a positive high-dividend and shareholder-alignment example.
+- [China Shenhua / 中国神华](entities/ChinaShenhua.md) — State-owned energy company used in vol.104 as a Hong Kong dividend and cash-return example.
+- [China Southern Airlines / 南方航空](entities/ChinaSouthernAirlines.md) — Airline case for vol.104's AH share discount repricing discussion.
+- [Datang Renewable Power / 大唐新能源](entities/DatangRenewablePower.md) — Renewable-power operator used in vol.104 as a depressed-PB valuation-repair case.
+- [Longyuan Power / 龙源电力](entities/LongyuanPower.md) — Renewable-power operator paired with 大唐新能源 in vol.104's subsidy-pessimism and rerating discussion.
+- [Lao Pu Gold / 老铺黄金](entities/LaoPuGold.md) — Hong Kong IPO example used in vol.104 to illustrate the new-stock liquidity path.
+- [Beijing Enterprises / 北京控股](entities/BeijingEnterprises.md) — Hong Kong-listed company used in vol.104 as a management and dividend-expectation cautionary case.
 - [Leonard Baum](entities/LeonardBaum.md) — Early Jim Simons collaborator in the Money Metrics period, used by vol.103 to show how thesis, timing, drawdown, and risk agreements can collide.
 - [James Ax](entities/JamesAx.md) — Mathematician who helped move Renaissance from mixed judgment toward systematic signal search and semi-automated trading infrastructure.
 - [Sandor Straus](entities/SandorStraus.md) — Data builder whose market-record collection and cleaning anchor vol.103's quantitative data moat.
@@ -2514,6 +2526,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Hong Kong Retail Investor Survival](concepts/HongKongRetailInvestorSurvival.md) — Practical checklist for ordinary Hong Kong stock pickers covering penny-stock risk, exit liquidity, management alignment, sell-side incentives, and stop-loss discipline.
+- [Hong Kong Penny Stock Risk](concepts/HongKongPennyStockRisk.md) — Low-price and old-thousand-stock risk in Hong Kong, including confusing names, shell stories, liquidity gaps, and hostile capital operations.
+- [Hong Kong Liquidity Exit Risk](concepts/HongKongLiquidityExitRisk.md) — Risk that a Hong Kong stock position cannot be exited at tolerable price because turnover and market depth are too thin.
+- [AH Share Discount Repricing](concepts/AHShareDiscountRepricing.md) — Opportunity pattern where A-share and H-share pricing gaps narrow after access, flow, or catalyst changes.
+- [Sell-Side Research Incentives](concepts/SellSideResearchIncentives.md) — Broker and investment-bank research incentive structure that makes reports useful inputs but unsafe as final investment authority.
+- [Management Shareholder Alignment Risk](concepts/ManagementShareholderAlignmentRisk.md) — Governance risk that management or controlling shareholders control assets without delivering value to minority public investors.
+- [Hong Kong IPO Liquidity Path](concepts/HongKongIPOLiquidityPath.md) — "New stock three-step" pattern from low initial attention to specialist buying and later Stock Connect or public-fund liquidity.
+- [Hong Kong Triple Rerating](concepts/HongKongTripleRerating.md) — Hong Kong stock pattern where valuation, liquidity, and business performance improve together, creating upside but also promotion risk.
 - [Quantitative Data Moat](concepts/QuantitativeDataMoat.md) — Quant-finance advantage from long, clean, proprietary, structured market data that can support weak-signal discovery without guaranteeing alpha.
 - [Short-Term Statistical Arbitrage](concepts/ShortTermStatisticalArbitrage.md) — Medallion-style repeated short-horizon trading where tiny edges depend on costs, market impact, sizing, and clean data.
 - [Human Risk Override](concepts/HumanRiskOverride.md) — Explicit human authority to reduce model-driven exposure when liquidity, leverage, or market-regime danger threatens survival.

@@ -3204,3 +3204,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-15] ingest | vol.104.普通人港股完全生存指南 | 串台三点下班
+
+Added source page for the 起朱楼宴宾客 crossover with 三点下班 on ordinary-investor Hong Kong stock survival, including old-thousand stocks, penny-stock risk, liquidity exits, management alignment, sell-side research incentives, AH discount repricing, dividend assets, IPO liquidity paths, and triple rerating. Created pages for 大卫翁, 三点下班, 浩哥, China Mobile, CNOOC, China Shenhua, China Southern Airlines, Datang Renewable Power, Longyuan Power, Lao Pu Gold, Beijing Enterprises, Hong Kong Retail Investor Survival, Hong Kong Penny Stock Risk, Hong Kong Liquidity Exit Risk, AH Share Discount Repricing, Sell-Side Research Incentives, Management Shareholder Alignment Risk, Hong Kong IPO Liquidity Path, and Hong Kong Triple Rerating; updated overview, index, 起朱楼宴宾客, Hong Kong, Alibaba, Tencent, Hong Kong Market Structure, Hong Kong Stock Connect, Defensive Dividend Assets, Value Trap, Stop-Loss Discipline, Investment Liquidity Tradeoff, and Investment Risk Management. No direct contradiction found; the source complements the existing Hong Kong market-structure branch with first-person retail cases and a risk-first survival checklist.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
