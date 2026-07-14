@@ -2,8 +2,8 @@
 title: "Behavioral Investing Biases"
 type: concept
 tags: [investing, psychology, behavior]
-sources: [ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn, ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm, ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1]
-last_updated: 2026-07-09
+sources: [ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn, ep64-touzi-lushang-caikeng-wushu-rujin-de-wo-daoqiangburu-lub3eh1mndj9oajs8ps3xuvoirtm, ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg]
+last_updated: 2026-07-15
 ---
 
 # Behavioral Investing Biases
@@ -19,6 +19,8 @@ The concept overlaps with [[RetailBullMarketPsychology]] and [[RetailInvestorCro
 [[e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e]] adds the profit-retention version. In a hot A-share market, investors can anchor to index points, compare dividend assets with faster growth stocks, treat floating gains as owned money, and become trapped between regret over selling early and fear of losing gains.
 
 [[139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1]] adds the suitability version through [[ICEInvestor]]. If a person is not behaviorally suited to short-term trading or active stock picking, more information and better AI summaries may simply create more confident mistakes. Avoiding an unsuitable game can be part of disciplined investing rather than a failure to learn.
+
+[[vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg]] adds the liquidity version. The episode argues that stocks, funds, and other liquid assets can be too easy to sell or repurpose, so the investor may need an [[InvestmentLiquidityTradeoff]] plan to keep long-term money from being interrupted by short-term fear, excitement, or household spending pressure.
 
 ## Key Claims
 - Loss aversion can make investors take small gains quickly while holding or adding to losing positions.
@@ -37,6 +39,7 @@ The concept overlaps with [[RetailBullMarketPsychology]] and [[RetailInvestorCro
 - Zhu Ning adds overconfidence, recent-trend extrapolation, and herding as the recurring psychological substrate behind [[BubbleNecessaryConditions]].
 - AI tools can reduce information friction while still reinforcing confirmation bias if the investor asks them to rationalize a desired trade.
 - Self-knowledge is a behavioral control: an investor should know whether their temperament fits short-term trading, long-horizon holding, or no active stock picking at all.
+- Liquidity can amplify bias when easy redemption makes it painless to abandon a long-term plan during volatility or excitement.
 
 ## Connections
 - [[InvestmentRiskManagement]] — discipline layer needed to contain bias.
@@ -50,3 +53,4 @@ The concept overlaps with [[RetailBullMarketPsychology]] and [[RetailInvestorCro
 - [[AShareValuationIndicators]], [[DrawdownPsychology]], and [[PaperWealthVsCashValue]] — E145's hot-market and unrealized-gain extension.
 - [[ZhuNing]], [[BubbleNecessaryConditions]], [[AIInvestmentResearch]], and [[SpeculativeBubblePsychology]] — 42章经 interview extension around bubble psychology and AI-assisted investor overconfidence.
 - [[ICEInvestor]], [[AICompressedInvestmentResearchAdvantage]], [[InvestmentRiskManagement]], and [[CircleOfCompetence]] — FengTouQuan episode 139's suitability and AI-compression extension.
+- [[InvestmentLiquidityTradeoff]], [[InvestmentImpossibleTriangle]], and [[AssetAllocation]] — vol.101's liquidity-as-behavior-control extension.

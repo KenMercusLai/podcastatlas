@@ -3180,3 +3180,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-15] ingest | vol.101.既安全、收益又高、流动性还好的投资到底存在吗？
+
+Added source page for the 起朱楼宴宾客 episode on the return-safety-liquidity investment impossible triangle, Yu'e Bao, liquidity management, safety as volatility versus permanent loss, asset scarcity, and portfolio-level allocation. Created pages for Yu'e Bao / 余额宝, Investment Impossible Triangle, Investment Liquidity Tradeoff, and Asset Scarcity Premium; updated overview, index, 起朱楼宴宾客, Asset Allocation, Investment Risk Management, Behavioral Investing Biases, Fund Liability Matching, Savings-Style Insurance, Medallion Fund, Bitcoin, and Ponzi Scheme. No direct contradiction found; the source complements the wiki's existing efficient-frontier and value-investing branches by adding a simpler household-facing test for whether an asset's apparent return, safety, and liquidity can actually coexist.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,13 +2,15 @@
 title: "Fund Liability Matching"
 type: concept
 tags: [investing, asset-management, funds, investor-behavior]
-sources: [e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy]
-last_updated: 2026-07-08
+sources: [e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg]
+last_updated: 2026-07-15
 ---
 
 # Fund Liability Matching
 
 Fund liability matching is the asset-management problem of aligning a fund's asset strategy with the duration, volatility tolerance, liquidity needs, product understanding, and behavior of its holders. [[e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf]] argues that a fund manager succeeds only when holders can actually stay long enough and understand enough to earn the strategy's return.
+
+[[vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg]] adds the household version of the same logic. Even outside public funds, investors need to know which money is short-term, which money can be locked or smoothed through [[InvestmentLiquidityTradeoff]], and which assets require long holding periods before their expected return is behaviorally earnable.
 
 ## Key Claims
 - The liability side is unstable because investors often discover their real preferences only after performance, rankings, volatility, or market narratives change.
@@ -17,6 +19,7 @@ Fund liability matching is the asset-management problem of aligning a fund's ass
 - Public funds face subscriptions, redemptions, rankings, and client expectations that shape how long-horizon ideas can be implemented.
 - [[e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc]] adds the product-design version: target return, drawdown, volatility, transparency, and capital duration should be reverse-engineered before allocation.
 - [[e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy]] adds the market-specific version: dividend or Hong Kong strategies fit different liability structures depending on whether the capital can tolerate long drawdowns.
+- Vol.101 adds that household asset allocation should separate money needed for near-term liquidity from money that can tolerate lockups, volatility, or delayed return.
 
 ## Connections
 - [[InvestorEducation]] — client understanding and suitability layer.
@@ -24,3 +27,4 @@ Fund liability matching is the asset-management problem of aligning a fund's ass
 - [[InvestmentRiskManagement]] — drawdown, liquidity, and behavior control.
 - [[DefensiveDividendAssets]] — asset type whose holdability depends on capital duration.
 - [[ValueInvesting]] — long-horizon strategy that can fail at the holder level if capital leaves too early.
+- [[InvestmentLiquidityTradeoff]], [[InvestmentImpossibleTriangle]], and [[AssetAllocation]] — household liquidity and asset-attribute extension from vol.101.

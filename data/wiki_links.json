@@ -1811,6 +1811,10 @@
     "title": "Asset-Light Vs Heavy-Asset Models",
     "url": "/wiki/concepts/assetlightvsheavyassetmodels/"
   },
+  "AssetScarcityPremium": {
+    "title": "Asset Scarcity Premium",
+    "url": "/wiki/concepts/assetscarcitypremium/"
+  },
   "AssimilationCapacity": {
     "title": "Assimilation Capacity",
     "url": "/wiki/concepts/assimilationcapacity/"
@@ -7150,6 +7154,14 @@
   "InvestmentFraudRedFlags": {
     "title": "Investment Fraud Red Flags",
     "url": "/wiki/concepts/investmentfraudredflags/"
+  },
+  "InvestmentImpossibleTriangle": {
+    "title": "Investment Impossible Triangle",
+    "url": "/wiki/concepts/investmentimpossibletriangle/"
+  },
+  "InvestmentLiquidityTradeoff": {
+    "title": "Investment Liquidity Tradeoff",
+    "url": "/wiki/concepts/investmentliquiditytradeoff/"
   },
   "InvestmentRiskManagement": {
     "title": "Investment Risk Management",
@@ -15119,6 +15131,10 @@
     "title": "原因",
     "url": "/wiki/entities/yuanyin/"
   },
+  "YueBao": {
+    "title": "Yu'e Bao / 余额宝",
+    "url": "/wiki/entities/yuebao/"
+  },
   "YuebanDongli": {
     "title": "Yueban Dongli",
     "url": "/wiki/entities/yuebandongli/"
@@ -16442,6 +16458,10 @@
   "using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds": {
     "title": "Using AI chatbots for mental health support poses serious risks for teens, report finds",
     "url": "/wiki/sources/using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds/"
+  },
+  "vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg": {
+    "title": "vol.101.既安全、收益又高、流动性还好的投资到底存在吗？",
+    "url": "/wiki/sources/vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg/"
   },
   "vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu": {
     "title": "Vol.113 从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络",

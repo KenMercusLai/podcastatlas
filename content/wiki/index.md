@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [vol.101.既安全、收益又高、流动性还好的投资到底存在吗？](sources/vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg.md) — 起朱楼宴宾客 episode on the return-safety-liquidity investment impossible triangle, Yu'e Bao, liquidity management, safety as volatility versus permanent loss, scarcity premiums, and portfolio-level asset allocation.
 - [186.让你笑到头掉仍不忘思考，伟大的《消逝世界漫游指南》](sources/186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210.md) — 蜜獾吃书 episode on Douglas Adams and Mark Carwardine's 《消逝世界漫游指南》, using British humor, travel absurdity, and field observation to examine endangered species, conservation failure, tourism spectacle, functional extinction, and the human role as both destroyer and repair agent.
 - [185.魔鬼出没的世界：关于阴谋论、UFO与科学精神](sources/185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368.md) — 蜜獾吃书 episode on Carl Sagan, 《魔鬼出没的世界》, UFO culture, alien abduction narratives, crop circles, pseudoscience fraud, scientific skepticism, and evidence discipline.
 - [183.李商隐和红楼梦：偏僻性乖张，那管世人诽谤！](sources/183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260.md) — 蜜獾吃书 episode defending Li Shangyin and tracing Li-Shangyin imagery, love poetry, political pressure, and intertextual echoes inside 《红楼梦》.
@@ -400,6 +401,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Yu'e Bao / 余额宝](entities/YueBao.md) — Product case for how yield, payment-linked liquidity, perceived safety, and the interest-rate environment can make an asset's attractiveness change over time.
 - [《消逝世界漫游指南》 / Last Chance to See](entities/LastChanceToSee.md) — Douglas Adams and Mark Carwardine endangered-species travel book read as humorous conservation writing and last-chance ecological witnessing.
 - [Douglas Adams / 道格拉斯·亚当斯](entities/DouglasAdams.md) — Author whose comedy, science imagination, and self-mocking travel voice make endangered-species writing funny without making extinction trivial.
 - [Mark Carwardine / 马克·卡沃丁](entities/MarkCarwardine.md) — Zoologist and conservation broadcaster paired with Douglas Adams in 《消逝世界漫游指南》.
@@ -2498,6 +2500,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Investment Impossible Triangle](concepts/InvestmentImpossibleTriangle.md) — Investing framework that treats high return, high safety, and high liquidity as a tradeoff unless hidden risk, fraud, or scarcity explains the exception.
+- [Investment Liquidity Tradeoff](concepts/InvestmentLiquidityTradeoff.md) — Liquidity planning frame for when easy exit helps, when it harms long-term behavior, and how locked products, ladders, or allocation manage cash needs.
+- [Asset Scarcity Premium](concepts/AssetScarcityPremium.md) — Fourth-attribute frame where regulatory windows, capacity limits, finite supply, or access scarcity may temporarily improve an asset's return-safety-liquidity balance.
 - [Humorous Conservation Writing](concepts/HumorousConservationWriting.md) — Conservation prose mode where comedy, travel failure, self-mockery, and scientific observation make extinction readable without softening it.
 - [Last-Chance Ecological Witnessing](concepts/LastChanceEcologicalWitnessing.md) — Seeing endangered species with the knowledge that the encounter may be close to the end of their living history.
 - [Wildlife Tourism Spectacle](concepts/WildlifeTourismSpectacle.md) — Pattern where rare or dangerous animals become staged visitor attractions even inside conservation contexts.
