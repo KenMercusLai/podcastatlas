@@ -2,7 +2,7 @@
 title: "Reading As Life Experience"
 type: concept
 tags: [reading, literature, attention, life-practice]
-sources: [177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
+sources: [150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
 last_updated: 2026-07-15
 ---
 
@@ -32,6 +32,8 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 
 [[108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905]] adds a morally difficult film-rewatching version through [[JulesAndJim|《祖与占》]]. The episode treats bridge running, the South France house, the Seine jump, the postwar hut, and the broken-bridge ending as scenes whose value comes from re-entering rhythm, mood, discomfort, and [[MoralSuspensionInArtReading]] rather than learning the plot once.
 
+[[150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165]] adds a place-and-food version through [[ACuo|阿错]]'s [[Cangcheng|《苍城》]]. Reading life experience here includes the reader's and writer's contact with [[Yunnan|云南]] mushrooms, mountain paths, [[TeaHorseRoad|茶马古道]] transport memory, and [[NatureContactSelfPerception]], so literature becomes a way of carrying lived ecological and regional knowledge rather than only plot.
+
 ## Key Claims
 - Reading includes bodily and material conditions: paper weight, binding, posture, fatigue, and surroundings can change whether a book is actually read.
 - Reading includes timing: a painful or demanding book can be deferred without losing its legitimacy.
@@ -46,6 +48,7 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 - Rewatching or rereading can deepen rather than spoil a work when the experience depends on performance, recognition, and layered interpretation rather than plot surprise.
 - Rewatching can also clarify moral discomfort: a film may become more useful when the viewer can revisit its form and emotional sequence without rushing to settle judgment.
 - A reading project can need rest, place, and household maintenance because books become usable through ordinary life conditions, not only through willpower.
+- Place-based fiction can carry food safety, ecology, transport, and bodily memory into reading, making local knowledge part of literary experience.
 
 ## Connections
 - [[QinZong|秦总]] and [[LiWuya|李乌鸦]] - source voices.
@@ -62,3 +65,4 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 - [[FarewellMyConcubine|《霸王别姬》]], [[RoleLifeCollapse]], and [[ArtDignityUnderPoliticalPressure]] - episode 64's extension into film rewatching and performance as lived interpretation.
 - [[JulesAndJim|《祖与占》]], [[FrenchNewWave]], and [[MoralSuspensionInArtReading]] - episode 108's extension into film rewatching as rhythm, discomfort, and judgment discipline.
 - [[RestorativeCreativePacing]] and [[StoryBasedEmpathy]] - holiday episode extension into reading environment, rest, and story-centered understanding.
+- [[Cangcheng|《苍城》]], [[PlaceBasedFiction]], [[YunnanWildMushroomCulture]], and [[NatureContactSelfPerception]] - episode 150 extension into place, food, mountain life, and fiction.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [150.吃菌！和阿错聊云南的鸡枞、松茸、见手青](sources/150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165.md) — 蜜獾吃书 episode with 阿错 on Yunnan mushroom season, wild-mushroom food safety, chicken termite mushroom, matsutake, jianshouqing, ganba mushroom, foraging ethics, 《苍城》, the Tea Horse Road, and nature contact.
 - [171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感](sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962.md) — 蜜獾吃书 episode using the zodiac horse to connect religion, mythology, domestication, war, trade, language, 大理甲马, 马疗, and Elden Ring-style pop-cultural motif afterlives.
 - [vol.109. FOF派VS指数派，关于个人养老金账户该配什么的一场辩论](sources/vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x.md) — 起朱楼宴宾客 episode on personal pension accounts, index funds versus FOF, target-date funds, tax-preferred long-term contribution discipline, and retirement-account portfolio suitability.
 - [vol.108.日本五大综合商社：重返舞台中央](sources/vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq.md) — 起朱楼宴宾客 episode on Japanese sogo shosha, the five major trading companies, keiretsu, business investment, low-equity commercial rights, and why deglobalization may restore intermediary value.
@@ -410,6 +411,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [李飘 / Li Piao](entities/LiPiao.md) — 蜜獾吃书 host in episode 150, steering the Yunnan mushroom conversation across food safety, tourism, 《苍城》, and nature contact.
+- [阿错 / Acuo](entities/ACuo.md) — Yunnan writer and author of 《苍城》, grounding episode 150 in local mushroom knowledge, mountain customs, Tea Horse Road memory, and place-based fiction.
+- [《苍城》](entities/Cangcheng.md) — 阿错 novel discussed through Yunnan fungi, altered perception, horse transport, women muleteers, Lijiang memory, and morally complex characters.
+- [Yunnan / 云南](entities/Yunnan.md) — Province framed by episode 150 as ecological, culinary, literary, and mountain-life context rather than only a tourism image.
+- [Dali, Yunnan / 大理](entities/DaliYunnan.md) — Yunnan place in the 蜜獾吃书 branch, tied to Dali life, plant abundance, mushroom eating, reading rhythm, and nature contact.
+- [Lijiang / 丽江](entities/Lijiang.md) — Yunnan city connected by episode 150 to the Tea Horse Road, horse/mule transport memory, and 《苍城》's local imagination.
+- [Tea Horse Road / 茶马古道](entities/TeaHorseRoad.md) — Historical Yunnan transport and trade route linking horse infrastructure to Cangcheng's muleteer and local-labor material.
+- [鸡枞 / Jizong](entities/Jizong.md) — 阿错's favored Yunnan mushroom, treated through sweetness, tenderness, termite-nest ecology, and recurring foraging boundaries.
+- [Matsutake / 松茸](entities/Matsutake.md) — Strong-smelling Yunnan mushroom used by episode 150 to contrast local taste, export price, adult-acquired appreciation, and over-harvesting pressure.
+- [见手青 / Jianshouqing](entities/Jianshouqing.md) — Risky blue-staining mushroom group used by episode 150 to push back against hallucination jokes and foreground wild-mushroom food safety.
+- [干巴菌 / Ganba Mushroom](entities/GanbaMushroom.md) — High-status Yunnan mushroom discussed through aroma, cleaning labor, price, fried-rice use, and sensory specificity.
 - [Horse / 马](entities/Horse.md) — Central animal in episode 171, linking practical mobility, war, trade, domestication, religious imagery, therapy, language, and modern symbolic afterlives.
 - [Guanyin / 观音](entities/Guanyin.md) — Deity figure used by episode 171 to anchor Buddhist horse imagery and the Horse-Head Guanyin association.
 - [Horse-Head Guanyin / 马头观音](entities/HorseHeadGuanyin.md) — Wrathful horse-linked Guanyin form used by episode 171 to show how horse symbolism becomes protective religious iconography.
@@ -2556,6 +2568,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Yunnan Wild Mushroom Culture](concepts/YunnanWildMushroomCulture.md) — Episode 150 frame for seasonal mushroom eating as a system of taste, safety, local names, household rules, ecology, price, and local knowledge.
+- [Wild Mushroom Food Safety](concepts/WildMushroomFoodSafety.md) — Safety frame from episode 150 warning against romanticizing mushroom poisoning as harmless hallucination or internet entertainment.
+- [Foraging Ethics](concepts/ForagingEthics.md) — Boundary around gathering from mountains and mushroom habitats without damaging recurring resources, nests, hives, or local ecosystems.
+- [Place-Based Fiction](concepts/PlaceBasedFiction.md) — Literary frame where food, terrain, transport, labor, and local memory shape plot and character rather than serving as decoration.
+- [Nature Contact And Self-Perception](concepts/NatureContactSelfPerception.md) — Episode 150 idea that mountains, trees, plants, and direct natural contact can make a person feel small and vividly alive.
 - [Horse Cultural Symbolism](concepts/HorseCulturalSymbolism.md) — Episode 171 frame for how horses retain meanings of courage, speed, loyalty, freedom, authority, rescue, and ritual passage after everyday horse dependence declines.
 - [Horse Religious Mythology](concepts/HorseReligiousMythology.md) — Cross-religious pattern from episode 171 where horses become sacred messengers, divine mounts, rescuers, omens, and apocalyptic signs.
 - [Horse As Civilizational Infrastructure](concepts/HorseAsCivilizationalInfrastructure.md) — Episode 171 historical frame for horses as mobility infrastructure behind war, trade, pastoral movement, state capacity, and Eurasian exchange.

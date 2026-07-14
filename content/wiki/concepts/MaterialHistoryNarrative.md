@@ -2,7 +2,7 @@
 title: "Material History Narrative"
 type: concept
 tags: [history, commodities, narrative, material-culture]
-sources: [74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, 71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
+sources: [150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, 71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
 last_updated: 2026-07-15
 ---
 
@@ -16,12 +16,15 @@ The concept is useful because it keeps scale changes visible. A material object 
 
 [[71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384]] gives a smaller industrial version through [[ButterflyBrand|蝴蝶牌]] and [[VernacularIndustrialism]]. Household chemistry, recipes, advertising, local materials, and national-goods branding show that everyday products can carry modernization without looking like heavy industry.
 
+[[150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165]] adds a seasonal food-ecology version through [[YunnanWildMushroomCulture]]. [[Jizong|鸡枞]], [[Matsutake|松茸]], [[Jianshouqing|见手青]], and [[GanbaMushroom|干巴菌]] reveal how taste, local names, storage, restaurant markup, export demand, household safety rules, and habitat limits make a food material historically and socially legible.
+
 ## Key Claims
 - Everyday substances can reveal political economy, sensory habit, social space, and state power.
 - A strong material-history narrative must connect consumption with production, labor, transport, taxation, and inequality.
 - Making an object a protagonist is analytically useful only if the narrative does not hide human institutions behind the object's charisma.
 - The frame connects with [[StoryBasedEmpathy]] because concrete things often make abstract historical forces easier to inhabit.
 - Gendered material histories have to ask who can safely buy, name, carry, dispose of, and trust the object.
+- Perishable wild foods add safety and habitat questions to material history: the object cannot be separated from identification, season, gathering practice, and ecological renewal.
 
 ## Connections
 - [[Coffee|Coffee / 咖啡]] and [[QuanqiuShangyin|《全球上瘾》]] - source case for a commodity as protagonist.
@@ -29,3 +32,4 @@ The concept is useful because it keeps scale changes visible. A material object 
 - [[MenstrualProductSocialHistory]], [[MenstrualStigma]], and [[MenstrualPublicInfrastructure]] - sanitary-product branch added by episode 175.
 - [[ButterflyBrand]], [[VernacularIndustrialism]], and [[NationalGoodsBranding]] - adjacent everyday-product modernization branch.
 - [[LongDistanceTradeFriction]] and [[CommodityPriceExposure]] - economic mechanics often exposed by material histories.
+- [[YunnanWildMushroomCulture]], [[WildMushroomFoodSafety]], and [[ForagingEthics]] - wild-food extension added by episode 150.

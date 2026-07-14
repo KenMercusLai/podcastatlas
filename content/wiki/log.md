@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-15] ingest | 150.吃菌！和阿错聊云南的鸡枞、松茸、见手青
+
+Added source page for the 蜜獾吃书 episode with 阿错 on Yunnan mushroom season, wild-mushroom food safety, chicken termite mushroom, matsutake, jianshouqing, ganba mushroom, foraging ethics, 《苍城》, Tea Horse Road transport memory, and nature contact. Created pages for 李飘, 阿错, 《苍城》, Yunnan, Dali (Yunnan), Lijiang, Tea Horse Road, 鸡枞, Matsutake, 见手青, 干巴菌, Yunnan Wild Mushroom Culture, Wild Mushroom Food Safety, Foraging Ethics, Place-Based Fiction, and Nature Contact And Self-Perception; updated overview, index, 蜜獾吃书, Reading As Life Experience, Material History Narrative, Nature Writing, and Horse As Civilizational Infrastructure. No direct contradiction found; noted an internal metadata/body name mismatch around 阿措/阿错 and followed the body title.
+
 ## [2026-07-15] ingest | 179.爱丽丝梦游仙境：世界多荒诞，我也是自己的主宰（上）
 
 Added source page for the 蜜獾吃书 episode on 《爱丽丝梦游仙境》, Lewis Carroll, Alice Liddell, Alice, the White Rabbit, the Cheshire Cat, and the Blue Caterpillar. Created pages for Nonsense Logic, Wonderland Language Games, Dream Logic Narrative, Size Change Identity, Rule-Shifting Mathematics, Victorian Anti-Didactic Children's Literature, and Feedback Regulation As Self-Adjustment; updated overview, index, 蜜獾吃书, Classic Reading Complexity, Non-Instrumental Literary Reading, Children's Literature Complexity, Adult Satire In Children's Classics, Absurd Rationality, Female Self-Possession, Literary Gossip As Context, and Author Myth Deflation. No direct contradiction found; the source extends the childhood-classic branch while keeping Carroll-related biographical controversy evidence-bounded.
@@ -3256,6 +3260,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-15] ingest | 171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感
 
 Added source page for the 蜜獾吃书 zodiac-horse episode on horses as religious image, war and transport infrastructure, domesticated animal, language root, folk-print courier, therapy partner, and pop-cultural motif. Created pages for Horse / 马, Guanyin / 观音, Horse-Head Guanyin / 马头观音, Longma / 龙马, Elden Ring / 艾尔登法环, Bucephalus / 布西法拉斯, Roald Dahl, Dali Jia Ma / 大理甲马, Horse Cultural Symbolism, Horse Religious Mythology, Horse As Civilizational Infrastructure, Horse Domestication History, and Story Motif Transmission; updated overview, index, 蜜獾吃书, Matilda, Animal-Assisted Therapy, Mythic Source Layering, Myth As Historical Evidence, Greek Mythology, and Chinese Character Evidence Discipline. No direct contradiction found; the source complements existing animal-care, folk-religion, mythology, and language-evidence branches by showing how one animal can remain culturally powerful after its practical infrastructure role declines.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-15] lint | Wiki health check
 
