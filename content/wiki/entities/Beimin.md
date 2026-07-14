@@ -2,11 +2,13 @@
 title: "北明 / 北民"
 type: entity
 tags: [host, podcast, books]
-sources: [177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 42-anduo-fengqi-yu-qingping-zhi-mo-616391638, jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]
+sources: [178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 42-anduo-fengqi-yu-qingping-zhi-mo-616391638, jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]
 last_updated: 2026-07-15
 ---
 
 # 北明 / 北民
+
+[[178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368]] adds 北明/北冥's comparative-history role. He contributes examples around [[Himiko]], Japanese visiting marriage, [[MinoanCivilization]], and historical contingency, helping the episode keep [[MatriarchyQuestion]] open while preserving caution about evidence and exploitation.
 
 [[177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]] adds 北明's childhood science and skepticism memory. He recalls [[HalAndRogerAdventures|《哈尔罗杰历险记》]], natural-history adventure, clouds, Fabre, and [[TheDemonHauntedWorld|《魔鬼出没的世界》]], making him a key voice for [[ChildhoodScienceReading]] and [[ScienceOptimismAndPseudoscience]] inside the episode's wider [[ChildhoodReadingEcology]].
 

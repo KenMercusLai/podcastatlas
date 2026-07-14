@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-15] ingest | 178.母权论：伟大的错误or深刻的洞见？母权社会存在过吗？
+
+Added source page for the 蜜獾吃书 episode on Bachofen's 《母权论》, the matriarchy question, mother-right versus father-right, matrilineal/matrilocal/matriarchal distinctions, myth as evidence, goddess-proof overreach, Mosuo and Japanese examples, Minoan caution, Pinker comparison, monogamy, and gendered uncertainty-cost distribution. Created pages for Johann Jakob Bachofen, 《母权论》 / Mother Right, Lewis Henry Morgan, Friedrich Engels, Henry Maine, Mosuo, Himiko, Steven Pinker, 《人性中的善良天使》 / The Better Angels of Our Nature, Matriarchy Question, Kinship Power Distinction, Myth As Historical Evidence, Mother Goddess Evidence Leap, Female Civilizing Power, Gender Power And Uncertainty Cost, and Monogamy As Stability Structure; updated overview, index, 蜜獾吃书, 秦总, 北明 / 北民, Greek Mythology, Minoan Civilization, Mythic Source Layering, and Female Self-Possession. No direct contradiction found; the source extends the wiki's gender and myth branches by treating mother-right as a disciplined historical question rather than proof of ancient female rule.
+
 ## [2026-07-15] ingest | 177.小时候的书，怎么就那么好看！
 
 Added source page for the 蜜獾吃书 episode on childhood reading ecology, anti-system reading, 郑渊洁, children's-literature complexity, girl-centered fiction, science adventure, 《海尔兄弟》, Carl Sagan, pseudoscience literacy, early internet writing, and current publishing risk avoidance. Created pages for 郑渊洁, 《哈尔罗杰历险记》, 《海尔兄弟》, Carl Sagan, 《魔鬼出没的世界》, Childhood Reading Ecology, Children's Literature Complexity, Childhood Science Reading, Science Optimism And Pseudoscience, and Creative Risk-Avoidance Culture; updated overview, index, 蜜獾吃书, 秦总, 北明 / 北民, Reading As Life Experience, Family Reading Ecology, Non-Instrumental Literary Reading, Classic Reading Complexity, Anti-Authoritarian Education, Female Self-Possession, Internet Risk-Avoidance Trap, Occult And Pseudoscience In Literary Modernity, and Observation Before Inference. No direct contradiction found; the source extends earlier reading pages by showing messy childhood reading as formative before explicit frameworks.
@@ -3116,3 +3120,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-12 with 3,408 nodes and 34,723 edges while the wiki scan found 4,035 pages; findings are therefore stale signals until `build graph` is rerun. The stale graph found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider key variables are present in the environment; a bounded in-session review of the orphan pages and fragile-bridge endpoints found no direct contradiction. Report returned in-session; `wiki/lint-report.md` was not saved.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [178.母权论：伟大的错误or深刻的洞见？母权社会存在过吗？](sources/178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368.md) — 蜜獾吃书 episode on Bachofen's 《母权论》, the matriarchy question, matrilineal/matrilocal/matriarchal distinctions, myth as evidence, goddess-proof overreach, Japanese and Minoan examples, monogamy, and gendered power as uncertainty-cost distribution.
 - [177.小时候的书，怎么就那么好看！](sources/177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036.md) — 蜜獾吃书 episode on childhood reading ecology, Zheng Yuanjie, children's-literature complexity, science adventure, girl-centered fiction, pseudoscience literacy, and publishing risk avoidance.
 - [176.为什么越是吃肉，越要关注动物福利？](sources/176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722.md) — 蜜獾吃书 episode with 猪哥/猪场严选 on food-animal welfare, livestock-worker moral injury, slaughter methods, welfare labeling, pork and egg misconceptions, and practical consumer feedback.
 - [175.女性卫生用品的社会史：比想象中更精彩！](sources/175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044.md) — 蜜獾吃书 episode on the social history of menstrual products, menstrual stigma, Anne sanitary napkins, commercial menstrual education, public access, period poverty, and sanitary-product consumer history.
@@ -392,6 +393,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Johann Jakob Bachofen](entities/JohannJakobBachofen.md) — Jurist and classical scholar whose 《母权论》 is treated as a disputed but influential challenge to patriarchal-eternity assumptions.
+- [《母权论》 / Mother Right](entities/MotherRight.md) — Bachofen's 1861 book used by episode 178 to examine mother-right, myth, kinship, inheritance, and modern caution about matriarchy claims.
+- [Lewis Henry Morgan](entities/LewisHenryMorgan.md) — 19th-century anthropology figure connected to Bachofen and later debates over kinship and patriarchal historical contingency.
+- [Friedrich Engels](entities/FriedrichEngels.md) — Later social-theory figure named through the Bachofen/Morgan reception line around family, property, kinship, and women's status.
+- [Henry Maine](entities/HenryMaine.md) — Legal-history foil for patriarchal-eternity assumptions that Bachofen's mother-right frame challenged.
+- [Mosuo](entities/Mosuo.md) — Kinship case used to show why matriliny or matrilocality should not be simplified into political matriarchy.
+- [Himiko](entities/Himiko.md) — Early Japanese female ruler example used cautiously in the episode's discussion of female political authority and matriarchy evidence.
+- [Steven Pinker](entities/StevenPinker.md) — Modern violence-and-civilization comparison point used against Bachofen's mythic method.
+- [《人性中的善良天使》 / The Better Angels of Our Nature](entities/TheBetterAngelsOfOurNature.md) — Pinker book invoked to contrast statistical/psychological violence arguments with Bachofen's mother-right mythology.
 - [郑渊洁](entities/ZhengYuanjie.md) — Children's author used by episode 177 to connect anti-authoritarian reading, social complexity, Luxixi, Pipilu, Shuke/Beta, and copyright awareness.
 - [《哈尔罗杰历险记》](entities/HalAndRogerAdventures.md) — Science-adventure series remembered by 北明 as a childhood route into natural history, geography, and explanation.
 - [《海尔兄弟》](entities/HaierBrothers.md) — Chinese science-animation series treated as a global-view and popular-science artifact in childhood media.
@@ -2427,6 +2437,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Matriarchy Question](concepts/MatriarchyQuestion.md) — Episode 178 frame for asking what mother-right can reveal even when universal ancient matriarchy remains unproven.
+- [Kinship Power Distinction](concepts/KinshipPowerDistinction.md) — Guardrail separating matrilineal descent, matrilocal residence, and actual female political or resource power.
+- [Myth As Historical Evidence](concepts/MythAsHistoricalEvidence.md) — Bachofen method where myths can expose social memory and legal anxieties but need support before becoming historical claims.
+- [Mother Goddess Evidence Leap](concepts/MotherGoddessEvidenceLeap.md) — Warning against jumping from female figurines or goddess worship to proof of female rule.
+- [Female Civilizing Power](concepts/FemaleCivilizingPower.md) — Cautious frame for women’s voice, care, and lower violence without assuming natural female gentleness or proven ancient matriarchy.
+- [Gender Power And Uncertainty Cost](concepts/GenderPowerAndUncertaintyCost.md) — Episode 178 closing concept: gender justice depends on who bears bodily, family, economic, and social uncertainty and who controls resources.
+- [Monogamy As Stability Structure](concepts/MonogamyAsStabilityStructure.md) — Pragmatic account of monogamy as a stabilizer for childrearing, inheritance, competition, and conflict, not as automatic justice.
 - [Childhood Reading Ecology](concepts/ChildhoodReadingEcology.md) — Mixed childhood environment of books, magazines, comics, science media, family access, television, and internet writing before a tidy reading system exists.
 - [Children's Literature Complexity](concepts/ChildrensLiteratureComplexity.md) — Frame for children's works as serious, contradictory, socially aware, frightening, funny, and not reducible to safe morals.
 - [Childhood Science Reading](concepts/ChildhoodScienceReading.md) — Science learning through adventure, nature, animation, comics, geography, questions, and wonder rather than formal class alone.

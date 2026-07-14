@@ -2,8 +2,8 @@
 title: "Minoan Civilization"
 type: entity
 tags: [civilization, archaeology, Crete, Bronze-Age, art]
-sources: [59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]
-last_updated: 2026-07-14
+sources: [178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]
+last_updated: 2026-07-15
 ---
 
 # Minoan Civilization
@@ -11,6 +11,8 @@ last_updated: 2026-07-14
 Minoan civilization is the Bronze Age Cretan civilization discussed in [[59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]]. The episode places it before and upstream of Mycenaean Greece in the Aegean timeline, then uses [[KnossosPalace]] and the Heraklion Archaeological Museum to make the civilization concrete through architecture, drainage, storage rooms, frescoes, seals, goldwork, ceramics, bull imagery, marine motifs, and Linear A.
 
 The episode presents the civilization with two kinds of caution. It draws a strong connection between Minoan bull imagery and later [[GreekMythology]] around Minos, the Minotaur, and the labyrinth, but it does not treat the myths as simple historical records. It also notes claims about peacefulness, goddess worship, women's public presence, and possible human sacrifice as interpretations that depend on fragmentary archaeological evidence.
+
+[[178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368]] revisits that caution through the [[MatriarchyQuestion]]. 北明 mentions Minoan civilization as a possible mother-centered or matrilineal case, while the hosts stress that peacefulness, female imagery, goddess worship, and women's public presence still do not prove political matriarchy without stronger evidence.
 
 ## Key Claims
 - Minoan material culture gives [[Crete]] a role beyond myth by showing an early complex Aegean society.

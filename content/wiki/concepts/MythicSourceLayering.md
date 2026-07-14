@@ -2,13 +2,15 @@
 title: "Mythic Source Layering"
 type: concept
 tags: [mythology, folklore, literature, religion]
-sources: [43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 136-chunri-mingmei-liaoliao-guishen-827911486, 147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004]
-last_updated: 2026-07-14
+sources: [178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 136-chunri-mingmei-liaoliao-guishen-827911486, 147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004]
+last_updated: 2026-07-15
 ---
 
 # Mythic Source Layering
 
 Mythic source layering is the way a literary figure gathers multiple religious, folkloric, regional, and textual origins rather than descending from one clean prototype. In [[43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]], [[MihuanChishu|蜜獾吃书]] applies this to [[JourneyToTheWest|《西游记》]] by reading monsters and companions through Buddhist iconography, Daoist terms, Indian epic material, Chinese water-monster lore, zaju, oral stories, and folk belief.
+
+[[178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368]] adds a stronger evidence-method caution through [[JohannJakobBachofen]] and [[MotherRight|《母权论》 / Mother Right]]. Bachofen's myth reading shows that layered stories can carry kinship and law questions, but it also demonstrates why [[MythAsHistoricalEvidence]] needs support before it becomes a claim about real social structure.
 
 The clearest case is [[SunWukong|孙悟空]]. The episode compares him with [[Hanuman|哈努曼]] but also brings in [[Wuzhiqi|无支祁]], Shi Pantuo, earlier monkey-demon stories, and Daoist vocabulary. [[ZhuBajie|猪八戒]], [[ShaWujing|沙和尚]], and [[Garuda|迦楼罗 / 大鹏鸟]] show the same pattern at different scales: comic body, karmic crossing, divine patronage, and religious image can all survive inside adventure narrative.
 

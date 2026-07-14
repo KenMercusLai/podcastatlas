@@ -2,8 +2,8 @@
 title: "Greek Mythology"
 type: concept
 tags: [mythology, literature, Greece, interpretation]
-sources: [59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]
-last_updated: 2026-07-14
+sources: [178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]
+last_updated: 2026-07-15
 ---
 
 # Greek Mythology
@@ -11,6 +11,8 @@ last_updated: 2026-07-14
 Greek mythology enters the wiki through [[59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]], where [[MihuanChishu|蜜獾吃书]] uses [[Crete]] as a dense mythic setting. The episode moves through Zeus hidden in a Cretan cave, Europa carried away by the bull, Minos, Pasiphae, the Minotaur, Daedalus, Icarus, Theseus, Ariadne, Dionysus, the Aegean Sea naming story, and later Theseus variants.
 
 The episode treats myth as cultural logic rather than literal evidence. Bull worship, palace complexity, island geography, and Aegean political memory help myths feel attached to [[MinoanCivilization]] and [[KnossosPalace]], but the source repeatedly separates story resonance from strict historical reconstruction.
+
+[[178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368]] adds a [[JohannJakobBachofen]] layer. In that episode, Greek and classical myths around Athena, Orestes, Demeter, Dionysus, Amazons, Lycia, and related stories become evidence Bachofen reads for mother-right to father-right transitions. The page's older caution still applies: this is useful [[MythAsHistoricalEvidence]] but not direct proof of ancient matriarchy.
 
 ## Key Claims
 - Myths can preserve place associations and recurring motifs without being reliable event records.
