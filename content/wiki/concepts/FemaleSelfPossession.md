@@ -2,7 +2,7 @@
 title: "Female Self-Possession"
 type: concept
 tags: [women, agency, life-design, self-knowledge]
-sources: [181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038, 184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
+sources: [167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038, 184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
 last_updated: 2026-07-15
 ---
 
@@ -28,6 +28,8 @@ The three hosts show different versions. [[YinJie|殷姐]] is satisfied with the
 
 [[175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]] adds a bodily-infrastructure version through [[MenstrualProductSocialHistory]]. Here self-possession depends partly on having words, products, school knowledge, public access, and non-shaming purchase routes for menstruation; [[ItaiTaeko|板井太子]]'s work on [[AnneSanitaryNapkin|安妮卫生巾]] shows agency embedded in product design and public education, not only in personal attitude.
 
+[[167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324]] adds a historical negative case through [[HongLouMeng|《红楼梦》]]. [[LinDaiyu|林黛玉]], [[Lingguan|龄官]], and the threatened women of the [[JiaFamilyHousehold|贾府]] show how self-possession can be structurally denied by [[QingGenderLegalOrder|marriage law]], [[QingFemaleInheritanceConstraint|inheritance limits]], [[LowStatusRegistry|status hierarchy]], and [[ConfiscationAndFemaleFate|confiscation]] even when a person has feeling, talent, or moral clarity.
+
 [[177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]] adds a childhood-reading version. QinZong's memories of Matilda, Alice, Pippi Longstocking, Anne of Green Gables, Luxixi, magical girls, and other girl-centered works show self-possession forming before explicit feminist vocabulary: a girl reader can meet clever, angry, strange, brave, magical, disobedient, or self-directed female figures often enough that female agency feels ordinary rather than exceptional.
 
 [[179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805]] turns that Alice reference into a dedicated case. [[AliceWonderlandCharacter|Alice / 爱丽丝]] is not powerful in a stable world; her self-possession appears through testing, correcting, apologizing, questioning, and continuing to act when body scale, memory, language, and authority keep changing.
@@ -45,6 +47,7 @@ The three hosts show different versions. [[YinJie|殷姐]] is satisfied with the
 - Midlife self-possession can be steadier than youthful confidence because it is built from mistakes, disillusionment, and repeated survival of uncertainty.
 - Ambition does not negate self-possession; when grounded in [[ObjectiveSelfOwnership]] and action, wanting more can be part of recognizing the self rather than betraying it.
 - Bodily self-possession requires material conditions: accurate knowledge, usable products, public access, and freedom from shame around basic needs.
+- In historical legal settings, self-possession may fail because law treats women as dependents, property, status bearers, or collateral punishment rather than full legal actors.
 - A girl character's self-command can appear inside confusion: Alice's agency comes from continuing to test and adjust rather than already knowing the rules.
 - Self-possession can include the refusal to grant false authority its preferred frame.
 - Trauma can make self-possession start with recognizing that pleasing others was a survival strategy rather than the self's true shape.
@@ -64,4 +67,5 @@ The three hosts show different versions. [[YinJie|殷姐]] is satisfied with the
 - [[Ajiao|阿娇 / 柱子哥]], [[ProfessionalDignityBeyondPatientIdentity]], and [[PublicIllnessWriting]] - late-illness extension where agency includes truthful self-recording and refusal of reductive sympathy.
 - [[QianJing|钱静]], [[ZhongyongSelf]], [[ObjectiveSelfOwnership]], and [[ActionAgainstAnxiety]] - practical psychology extension around ambition, work, family, and real-world self-practice.
 - [[MenstrualProductSocialHistory]], [[MenstrualStigma]], [[ItaiTaeko|板井太子]], and [[AnneSanitaryNapkin|安妮卫生巾]] - bodily-infrastructure extension from episode 175.
+- [[HongLouMeng|《红楼梦》]], [[QingGenderLegalOrder]], [[QingFemaleInheritanceConstraint]], [[LowStatusRegistry]], and [[ConfiscationAndFemaleFate]] - episode 167's historical constraint case.
 - [[FawnResponse]], [[ComplexTraumaRecognition]], and [[UnfawningBoundaryPractice]] - episode 181's trauma-response extension.

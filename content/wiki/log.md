@@ -3292,3 +3292,11 @@ Ran lint after health passed. Deterministic checks scanned 4,279 pages and found
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 4,290 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Cached `graph/graph.json` is stale (`built=2026-07-12`, 3,408 nodes), so a read-only current wikilink graph recompute was also run: 64,250 extracted edges, no hub stubs, one fragile bridge, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-15] ingest | 167.命若朝霜：为什么红楼梦不需要悼明？
+
+Added source page for the 蜜獾吃书 episode using 《命若朝霜》 to argue that 《红楼梦》 does not need a 悼明/反清复明 hidden code to be politically serious. Created pages for 《命若朝霜》, 贾母, 贾府, 龄官, Red Chamber Legal Reading, Mourning Ming Reading, Qing Gender Legal Order, Qing Female Inheritance Constraint, Low-Status Registry, Household Troupe Status Boundary, and Confiscation And Female Fate; updated overview, index, 蜜獾吃书, Red Chamber character pages, Suo Yin Reading, Interpretation And Overinterpretation, Classic Reading Complexity, and Female Self-Possession. No direct contradiction found; the source narrows the wiki's existing Red Chamber branch by contrasting evidence-bound legal/social reading with totalizing dynastic-code interpretation.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

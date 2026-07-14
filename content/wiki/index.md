@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [167.命若朝霜：为什么红楼梦不需要悼明？](sources/167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324.md) — 蜜獾吃书 episode using 《命若朝霜》 to read 《红楼梦》 through Qing law, inheritance, marriage procedure, low-status performers, confiscation, and why the novel does not need a 悼明 code to be politically serious.
 - [【闲聊】想送赵露思一本短歌集--编辑推书,无所不用其极！](sources/xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770.md) — 蜜獾吃书 × 有问题呀 crossover using 赵露思, 石川啄木, 《短歌是我悲伤的玩具》, 活人感, and internet moral trial to connect poetry, publishing, celebrity vulnerability, and public-expression boundaries.
 - [152.夜色如水话七夕，牛郎原本是保安？【民俗学系列填坑啦】](sources/152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062.md) — 蜜獾吃书 episode on 七夕, 牛郎织女, 乞巧, the Swan Maiden motif, star lore, Song urban festival objects, 刘宗迪《七夕》, and cross-cultural folklore transmission.
 - [151.早安,怪物：祝你战胜恐惧，祝你获得康复](sources/151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286.md) — 蜜獾吃书 episode on 《早安，怪物》, Catherine Gildiner, psychotherapy, complex trauma, parentification, trauma numbing, Indigenous residential-school trauma, shame-based identity, therapeutic boundaries, and countertransference risk.
@@ -509,6 +510,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [薛宝钗 / Xue Baochai](entities/XueBaochai.md) — Red Chamber figure linked through Xiangling's identification of a Li Shangyin line involving 宝钗.
 - [香菱 / Xiangling](entities/Xiangling.md) — Red Chamber poetry learner whose moon poem and source-spotting help anchor the Li Shangyin intertext branch.
 - [脂砚斋 / Zhiyanzhai](entities/Zhiyanzhai.md) — Red Chamber commentator whose 西昆体 note supports the episode's Li Shangyin reading while requiring caution.
+- [《命若朝霜》 / Ming Ruo Zhao Shuang](entities/MingRuoZhaoShuang.md) — Book used by episode 167 as a legal-history entry into 《红楼梦》 inheritance, marriage, performer status, and confiscation.
+- [贾母 / Jia Mu](entities/JiaMu.md) — Red Chamber matriarch read by episode 167 as protecting Daiyu's inheritance and marriage prospects rather than betraying her through the later “掉包计” plot.
+- [贾府 / Jia Family Household](entities/JiaFamilyHousehold.md) — Red Chamber aristocratic household whose inheritance management, household troupe, examination pressure, and confiscation risk ground episode 167's legal reading.
+- [龄官 / Lingguan](entities/Lingguan.md) — Red Chamber household actress whose status, name erasure, and blocked love anchor episode 167's low-status performer analysis.
 - [树才](entities/ShuCai.md) — Poet, French translator, poetry researcher, and children's poetry educator who frames童诗 as protected child expression rather than miniature literary achievement.
 - [《写诗真好玩》](entities/WritingPoetryIsFun.md) — 树才 children's poetry-writing book whose title captures the episode's play-first approach to writing poetry.
 - [《讨好反应》 / Fawning](entities/Fawning.md) — Ingrid Clayton book used by episode 181 to frame fawning as a trauma response rather than personality weakness or ordinary helpfulness.
@@ -2659,6 +2664,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Love Poetry Modernity](concepts/LovePoetryModernity.md) — Episode 183 claim that Li Shangyin's love poems feel modern because they express longing, delay, and loss indirectly.
 - [Classical Poetic Intertextuality](concepts/ClassicalPoeticIntertextuality.md) — Method for tracing how older poems enter later works through quotation, image clusters, character taste, and commentary.
 - [玉溪一脉入红楼 / Yuxi Into Honglou](concepts/YuxiIntoHonglou.md) — Source-scoped thesis that Li Shangyin's 玉溪 poetics enter 《红楼梦》 through Daiyu, flowers, moon, allusion, and 西昆体 commentary.
+- [红楼法律阅读 / Red Chamber Legal Reading](concepts/RedChamberLegalReading.md) — Episode 167 method for reading 《红楼梦》 through Qing law, inheritance, marriage, performer status, and confiscation rather than totalizing dynastic code.
+- [悼明读法 / Mourning Ming Reading](concepts/MourningMingReading.md) — Red Chamber interpretive tradition criticized by episode 167 when it flattens the novel into anti-Qing restoration allegory.
+- [清代性别法律秩序 / Qing Gender Legal Order](concepts/QingGenderLegalOrder.md) — Frame for how Qing-era marriage, chastity, status, and punishment structures make Red Chamber intimacy legally dangerous.
+- [清代女性继承限制 / Qing Female Inheritance Constraint](concepts/QingFemaleInheritanceConstraint.md) — Episode 167 frame for why Daiyu's inheritance and survival are precarious under daughterhood, lineage, and heirship rules.
+- [贱籍身份 / Low-Status Registry](concepts/LowStatusRegistry.md) — Legal-status frame for Red Chamber performers, servants, marriage limits, name control, and humiliation.
+- [家班身份边界 / Household Troupe Status Boundary](concepts/HouseholdTroupeStatusBoundary.md) — Episode 167 frame for how the Jia household's actresses reveal the edge of Grand View Garden sociability.
+- [抄家籍没与女性命运 / Confiscation And Female Fate](concepts/ConfiscationAndFemaleFate.md) — Frame for how political or economic punishment can turn household women and dependents into seized, sold, exiled, or enslaved property.
 - [Child Poetic Expression](concepts/ChildPoeticExpression.md) — Children's capacity to turn sensory contact, bodily feeling, emotion, and imagination into poetic language before adult utility and scoring take over.
 - [Poetry Education As Play](concepts/PoetryEducationAsPlay.md) — Teaching stance that uses questions, praise, sensory contact, and play to keep poetry from becoming another assignment or achievement project.
 - [Modern Poetry For Children](concepts/ModernPoetryForChildren.md) — 树才's rationale for having children write in modern Chinese rather than primarily imitating classical regulated verse.

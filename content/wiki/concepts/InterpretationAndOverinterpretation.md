@@ -2,7 +2,7 @@
 title: "Interpretation And Overinterpretation"
 type: concept
 tags: [interpretation, literature, reasoning, semiotics]
-sources: [183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
+sources: [167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
 last_updated: 2026-07-15
 ---
 
@@ -20,6 +20,8 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 
 [[183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260]] adds an intertextual version through [[LiShangyin|李商隐]] and [[HongLouMeng|《红楼梦》]]. The source's [[YuxiIntoHonglou]] argument is strongest where it uses direct quotations, repeated imagery, and explicit commentary; it is more speculative when it depends on psychological affinity, author-name echoes, or broad historical analogy.
 
+[[167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324]] adds a Red Chamber political-reading version. The source criticizes [[MourningMingReading|悼明读法]] when it turns the novel into a single dynastic code, because that move can make law, inheritance, women's suffering, low-status performers, and confiscation feel secondary even when those are the most concrete forms of power in the text.
+
 ## Key Claims
 - Interpretation is necessary because signs do not explain themselves.
 - Overinterpretation begins when a reader treats an attractive pattern as proof before checking evidence, context, and alternative explanations.
@@ -29,6 +31,7 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 - In writing-system interpretation, overinterpretation can begin when a modern character component is treated as direct proof of ancient meaning.
 - In political-allusive reading, overinterpretation can begin when a plausible censorship context makes every odd detail look like a precise historical cipher.
 - In intertextual reading, overinterpretation can begin when atmosphere, shared imagery, and loose resemblance are given the same status as direct citation or repeated textual evidence.
+- In dynasty-centered reading, overinterpretation can begin when "political seriousness" is equated with empire and loyalism while concrete social institutions are treated as lesser evidence.
 
 ## Connections
 - [[SemioticDetectiveFiction]] - mystery form where the boundary becomes part of the plot.
@@ -42,3 +45,4 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 - [[FolkCharacterEtymologyRisk]], [[CharacterFormEvolution]], and [[ChineseCharacterEvidenceDiscipline]] - episode 57's extension into Chinese-character signs and unsupported拆字.
 - [[SuoYinReading]], [[JourneyToTheWest|《西游记》]], and [[YangShen|杨慎]] - episode 43's extension into hidden-political literary interpretation.
 - [[ClassicalPoeticIntertextuality]], [[YuxiIntoHonglou]], [[LiShangyin|李商隐]], and [[HongLouMeng|《红楼梦》]] - episode 183's extension into poetry-novel intertext and confidence grading.
+- [[MourningMingReading]], [[RedChamberLegalReading]], [[QingFemaleInheritanceConstraint]], and [[ConfiscationAndFemaleFate]] - episode 167's extension into Red Chamber dynastic-code critique and legal evidence.
