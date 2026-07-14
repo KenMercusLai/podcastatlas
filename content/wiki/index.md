@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [65.龙王之怒：1931年的长江洪水](sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922.md) — 蜜獾吃书 episode on the 1931 Yangtze flood, Wuhan/Hankou, wetland loss, dike risk transfer, famine, war, folk religion, relief mismatch, and disaster history.
 - [64.霸王别姬：疯魔与成活](sources/64-bawangbieji-fengmo-yu-chenghuo-656094350.md) — 蜜獾吃书 episode on 《霸王别姬》, 芦苇, 陈凯歌, 《封神》, Cheng Dieyi, Duan Xiaolou, Juxian, role-life collapse, troupe discipline, gender performance, art dignity, coerced denunciation, and film/novel ending ethics.
 - [63.我的30+下半程，答案若隐若现](sources/63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972.md) — 蜜獾吃书 episode on female midlife, gendered age anxiety, marriage pressure, career self-rescue, 角田光代's 《37》, information-gap anxiety, and empathy as age's gift.
 - [62.克拉克森的农场：想不到你是这样的小羊肖恩](sources/62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260.md) — 蜜獾吃书 episode on Clarkson's Farm, Jeremy Clarkson's farm-learning failures, machinery, sheep, pigs, bees, woodland, floods, environmental tradeoffs, and garden birdwatching.
@@ -365,6 +366,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《龙王之怒：1931年长江水灾》](entities/LongwangZhinu1931ChangjiangShuizai.md) — Book discussed by episode 65 as a disaster-history account of the 1931 Yangtze flood.
+- [Yangtze River / 长江](entities/YangtzeRiver.md) — Main river system in episode 65's floodplain, Wuhan, wetland, and levee-risk account.
+- [Han River / 汉江](entities/HanRiver.md) — River paired with the Yangtze in the Wuhan/Hankou flood-geography case.
+- [Hankou / 汉口](entities/Hankou.md) — Wuhan urban district used by episode 65 to show modern urban disaster risk during the 1931 flood.
+- [Gaoyou / 高邮](entities/Gaoyou.md) — Local 1931 flood disaster scene where the episode highlights nighttime wall collapse and religious explanation.
+- [Dongting Lake / 洞庭湖](entities/DongtingLake.md) — Lake and risk-distribution node in the episode's levee, opening, and flood-control politics.
+- [Yunmengze / 云梦泽](entities/Yunmengze.md) — Ancient wetland invoked by episode 65 as a flood-buffer and wetland-adaptation contrast.
+- [Nationalist Government / 国民政府](entities/NationalistGovernment.md) — Republican-era state actor in episode 65's anti-superstition, war, public-health, and flood-relief account.
+- [China International Famine Relief Commission / 华洋义赈会](entities/ChinaInternationalFamineReliefCommission.md) — Major civil charity organization in the 1931 flood relief network.
+- [Wu Liande / 伍连德](entities/WuLiande.md) — Public-health expert linked by episode 65 to cholera investigation and disease response after the flood.
+- [John Hope Simpson](entities/JohnHopeSimpson.md) — British expert in episode 65's flood relief and refugee-movement discussion.
 - [《霸王别姬》 / Farewell My Concubine](entities/FarewellMyConcubine.md) — Film read by episode 64 through Peking-opera role formation, love, betrayal, art dignity, political pressure, and adaptation ending contrast.
 - [芦苇 / Lu Wei](entities/LuWeiScreenwriter.md) — Screenwriter figure linking 《封神》 and 《霸王别姬》 in episode 64's discussion of tyranny, public confession, and historical pressure.
 - [陈凯歌 / Chen Kaige](entities/ChenKaige.md) — Director of 《霸王别姬》, discussed through actor control, performance, father-son resonance, and historical trauma.
@@ -2217,6 +2229,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Natural Hazard As Social Disaster](concepts/NaturalHazardSocialDisaster.md) — Disaster-history frame where floods become catastrophe through settlement, infrastructure, war, markets, disease, belief, and relief systems.
+- [Wetland Adaptation](concepts/WetlandAdaptation.md) — Living with seasonal water through mobility, wetlands, boats, and local ecological practice rather than only fixed defenses.
+- [Flood Control Risk Transfer](concepts/FloodControlRiskTransfer.md) — Pattern where dikes, breaches, openings, and diversions protect one place by shifting water or maintenance burden elsewhere.
+- [Modern Urban Disaster Risk](concepts/ModernUrbanDisasterRisk.md) — Frame for modern city infrastructure becoming a hazard multiplier during flood, fire, disease, crowding, and market breakdown.
+- [Famine Entitlement Failure](concepts/FamineEntitlementFailure.md) — Hunger pattern where lost harvests, wages, credit, animals, and exchange rights matter as much as aggregate food supply.
+- [War-Disaster Compounding](concepts/WarDisasterCompounding.md) — Pattern where armed conflict worsens disaster by consuming resources, moving populations, spreading disease, and weakening relief.
+- [Folk Religion Disaster Politics](concepts/FolkReligionDisasterPolitics.md) — Role of ritual, temples, anti-superstition campaigns, deity punishment, and public protest in disaster explanation and accountability.
+- [Disaster Relief Mismatch](concepts/DisasterReliefMismatch.md) — Gap between what relief systems supply and what survivors can use, need, trust, or accept.
+- [Disaster Sensory History](concepts/DisasterSensoryHistory.md) — Reading disaster through sights, sounds, smells, bodies, rituals, and memory as well as statistics.
 - [Role-Life Collapse](concepts/RoleLifeCollapse.md) — Pattern where performed role, identity, love, body, and survival strategy become inseparable, added through 《霸王别姬》.
 - [Troupe Discipline As Identity Formation](concepts/TroupeDisciplineAsIdentityFormation.md) — Frame for artistic apprenticeship remaking children through bodily control, punishment, and submission.
 - [Gender Performance And Trauma](concepts/GenderPerformanceAndTrauma.md) — Pattern where gendered role performance is formed through coercion, pain, and social demand.

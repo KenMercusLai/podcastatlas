@@ -2,7 +2,7 @@
 title: "Disaster Response State Capacity"
 type: concept
 tags: [governance, disaster-response, politics, state-capacity]
-sources: [fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301]
+sources: [65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301]
 last_updated: 2026-07-14
 ---
 
@@ -12,6 +12,8 @@ Disaster response state capacity is the ability of a government to turn warning,
 
 The concept matters because natural disasters quickly become legitimacy tests. If citizens believe the state cannot rescue survivors or distribute aid fairly, the event can intensify anger at the regime, create openings for opposition actors, and force outside powers such as the [[UnitedStates]] to decide how much responsibility they have for recovery.
 
+[[65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922]] adds a historical flood-relief version through the 1931 [[YangtzeRiver|Yangtze]] disaster. [[NationalistGovernment]] officials, [[SongZiwen]], [[WuLiande]], [[JohnHopeSimpson]], and the [[ChinaInternationalFamineReliefCommission]] show that capacity is not only mobilization; relief also has to match food practices, disease exposure, debt, labor rules, shelter conditions, and survivor trust.
+
 [[56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301]] adds a household-attachment version through [[PetInclusiveDisasterResponse]]. The episode's Hurricane Katrina discussion argues that evacuation capacity can fail when rescue systems ignore companion animals: people may refuse to leave, suffer acute separation trauma, or lose a stabilizing relationship during recovery.
 
 ## Key Claims
@@ -20,8 +22,12 @@ The concept matters because natural disasters quickly become legitimacy tests. I
 - Aid distribution can become regime image management when elections or transition timetables are already contested.
 - External intervention can create recovery responsibility if the outside power has already shaped the country's political settlement.
 - Effective evacuation can require planning for animals, transport, shelter, and reunification because human compliance and recovery may depend on household attachments.
+- Flood relief can fail even with visible mobilization when food, medicine, labor rules, camp design, and debt instruments do not match survivor conditions.
+- Disease control after flood depends on water, fuel, crowding, migration, vaccination acceptance, and credible field knowledge.
 
 ## Connections
+- [[NationalistGovernment]], [[SongZiwen]], [[WuLiande]], [[JohnHopeSimpson]], and [[ChinaInternationalFamineReliefCommission]] - 1931 flood response branch.
+- [[NaturalHazardSocialDisaster]], [[DisasterReliefMismatch]], [[FamineEntitlementFailure]], and [[WarDisasterCompounding]] - historical-disaster concepts added by episode 65.
 - [[Venezuela]], [[DelcyRodriguez]], and [[MariaCorinaMachado]] — disaster and political-transition case.
 - [[UnitedStates]] — external actor whose recovery role is questioned by the episode.
 - [[DemocraticTransitionElection]] — transition process that the disaster may delay or reshape.

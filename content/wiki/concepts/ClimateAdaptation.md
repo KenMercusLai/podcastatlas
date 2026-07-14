@@ -2,7 +2,7 @@
 title: "Climate Adaptation"
 type: concept
 tags: [climate, resilience, governance]
-sources: [tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, socialradarss2-billclerico-final, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, indy-johar-civilizational-optioneering-tyeyt7r-zfu, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
+sources: [65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, socialradarss2-billclerico-final, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, indy-johar-civilizational-optioneering-tyeyt7r-zfu, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
 last_updated: 2026-07-08
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-08
 Climate adaptation is the practical adjustment to climate-driven instability discussed in [[indy-johar-civilizational-optioneering-tyeyt7r-zfu]]. [[IndyJohar]] treats adaptation as broader than defensive hardening: extreme heat, glacier instability, food and energy disruption, sleep loss, domestic violence risk, road maintenance, infrastructure failure, and cognitive effects all become governance and coordination problems.
 
 The source's contribution is to connect climate adaptation to [[CivilizationalOptionality]]. Adaptation is not only surviving a hotter or more unstable world; it is protecting the social, ecological, and institutional capacity to keep multiple futures open.
+
+[[65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922]] adds a historical water-adaptation warning through [[WetlandAdaptation]] and the 1931 [[YangtzeRiver|Yangtze]] flood. The episode shows that adaptation can be lost when flexible wetland life gives way to fixed agriculture, dikes, dense cities, and infrastructure that need constant maintenance under changing water conditions.
 
 [[missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3]] adds a near-term shock case through [[ElNinoClimateRisk]]. The episode frames a potentially strong [[ElNino]] as more dangerous because it arrives on top of global warming and existing food insecurity, making drought-tolerant seeds, fodder storage, and water supplies practical adaptation measures.
 
@@ -28,6 +30,8 @@ The source's contribution is to connect climate adaptation to [[CivilizationalOp
 - Cooling access can be climate adaptation when heat risk is high and electricity is decarbonizing, but it still depends on pricing, efficiency, and grid planning.
 - Wildfire adaptation needs technology, institutions, and business models that can work with conservative buyers such as utilities, fire agencies, and insurers.
 - Climate adoption accelerates when the buyer's practical economics align with the climate benefit.
+- Water adaptation can include preserving wetland buffers and mobility, not only building stronger defenses.
+- Hard infrastructure can become maladaptive when it increases settlement density without maintaining ecological overflow capacity.
 
 ## Connections
 - [[SystemicDegenerativeVolatility]] — climate risk as part of a wider cascade.
@@ -38,3 +42,4 @@ The source's contribution is to connect climate adaptation to [[CivilizationalOp
 - [[CoolingAsPublicHealth]] — air-conditioning and household cooling branch added by The Intelligence.
 - [[FireTechClimateResilience]], [[ConvectiveCapital]], and [[OverStory]] — wildfire resilience branch added by The Social Radars.
 - [[LeapForward]], [[EconomicClimateTechAdoption]], [[BlueDot]], and [[ElectricAir]] - climate-tech adoption branch added by The Social Radars.
+- [[WetlandAdaptation]], [[FloodControlRiskTransfer]], [[NaturalHazardSocialDisaster]], and [[YangtzeRiver]] - historical flood-adaptation branch added by episode 65.
