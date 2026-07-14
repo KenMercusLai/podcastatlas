@@ -2,7 +2,7 @@
 title: "Non-Instrumental Literary Reading"
 type: concept
 tags: [reading, literature, fiction, attention]
-sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
+sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
 last_updated: 2026-07-14
 ---
 
@@ -20,6 +20,8 @@ This concept specializes [[NonInstrumentalUnderstanding]] for literature. It als
 
 [[158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122]] adds an entertainment version. The episode's [[PuzzleSnackMystery|推理薯片]] frame says light detective fiction can be worth reading for the compact pleasure of clues, wrong theories, reversals, and answers, even when it is not trying to be realist, socially deep, or stylistically grand.
 
+[[58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859]] adds a classical-satire version through [[RulinWaishi|《儒林外史》]]. The value of reading the full work is not only to collect the lesson that 科举 was bad; it is to inhabit a whole [[SatiricalGroupPortrait]] where failed scholars, petty gentry, ideal figures, women, artists, and city eccentrics reveal how a status system feels from inside.
+
 [[tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655]] adds a contemporary nonfiction version. [[FuyouZhishang|《蜉蝣直上》]] is valuable in the episode not as celebrity trivia about [[Xiaojia|小佳]], but as an encounter with family ambiguity, Minnan custom, ordinary women, grief, and the pressure of being seen.
 
 [[160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]] adds an education-resistance version through [[Matilda|《马蒂尔达》]] and [[ExcellentSheep|《优秀的绵羊》 / Excellent Sheep]]. Literature matters here because it can restore feeling, make unfair authority visible, and resist [[RedPenLogic]] rather than only serving as material for grades, resumes, or information extraction.
@@ -32,6 +34,7 @@ This concept specializes [[NonInstrumentalUnderstanding]] for literature. It als
 - Calculating every book by time, money, and return can erase the very experiential layer that makes literature distinct.
 - Literature can protect agency when it gives young readers language for feeling, refusal, and unfair authority outside the scoring system.
 - Difficult speculative fiction can make moral and civilizational questions available as experience before they become policy, doctrine, or argument.
+- Satire can make institutional life perceptible by letting readers live with many partial characters rather than extracting a single moral label.
 
 ## Connections
 - [[NonInstrumentalUnderstanding]] - broader concept for knowledge that is not immediately utility-driven.
@@ -42,6 +45,7 @@ This concept specializes [[NonInstrumentalUnderstanding]] for literature. It als
 - [[AfghanWomenFirstPersonWriting]] and [[LiteraryPublishingAsMaterialSupport]] - episode 156's extension from literary experience into witness and material support.
 - [[AdultSatiricalChildrensClassics]], [[TallTaleTradition]], and [[AbsurdRationality]] - episode 157's extension from childhood memory into adult rereading.
 - [[PuzzleSnackMystery|推理薯片]], [[WatsonPower|华生力]], and [[ClosedCircleMystery|暴风雪山庄]] - episode 158's extension into light puzzle-entertainment reading.
+- [[RulinWaishi|《儒林外史》]], [[ImperialExaminationAsOnlyExit]], and [[SatiricalGroupPortrait]] - episode 58's extension into classical satire as lived institutional perception.
 - [[FuyouZhishang|《蜉蝣直上》]], [[MinnanFamilyWriting]], and [[StandUpAsSelfNarration]] - 小佳 episode extension from performer identity into prose encounter.
 - [[Matilda|《马蒂尔达》]], [[AntiAuthoritarianEducation]], and [[RedPenLogic]] - episode 160's extension into literature as resistance to score-centered education.
 - [[CanticleForLeibowitz|《莱博维茨的赞歌》 / A Canticle for Leibowitz]], [[ApocalypticLiterarySymbolism]], and [[PainAndMoralResponsibility]] - episode 03's extension into religious science fiction and civilizational moral inquiry.

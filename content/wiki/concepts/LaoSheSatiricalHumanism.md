@@ -2,7 +2,7 @@
 title: "Lao She Satirical Humanism"
 type: concept
 tags: [literature, satire, social-criticism, humanism]
-sources: [48-kaishi-daji-diyiliu-de-youmo-fengci-627375908]
+sources: [48-kaishi-daji-diyiliu-de-youmo-fengci-627375908, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859]
 last_updated: 2026-07-12
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-12
 Lao She satirical humanism is the reading frame added by [[48-kaishi-daji-diyiliu-de-youmo-fengci-627375908]]. The source argues that [[LaoShe|老舍]]'s humor works because it sees human weakness clearly without flattening characters into pure villains. People are vain, noisy, credulous, controlling, flattering, self-protective, or corrupt, but they are also trapped in customs, incentives, fears, and social expectations.
 
 The concept matters because the episode keeps turning comic scenes into a sigh. Theater manners, a fake hospital, childbirth ritual, and farm management all begin as jokes, then become examples of social mechanisms that still feel current.
+
+[[58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859]] adds a classical contrast through [[RulinWaishi|《儒林外史》]]. [[WuJingzi|吴敬梓]]'s [[WanErDuoFeng|婉而多讽]] is not Lao She's style, but it reinforces the same broader point: strong satire can expose social machinery through concrete scenes while preserving complex differences among fools, predators, compromisers, and ideal figures.
 
 ## Key Claims
 - Satire can criticize conduct while still preserving curiosity about why people behave that way.
@@ -22,4 +24,5 @@ The concept matters because the episode keeps turning comic scenes into a sigh. 
 - [[LaoShe|老舍]] and [[KaiShiDaJi|《开市大吉》]] - author and selection.
 - [[HuajuGuanzhongXuzhiErshize|《话剧观众须知二十则》]], [[YouShengDianYing|《有声电影》]], [[BaoSun|《抱孙》]], and [[BuChengWenTiDeWenTi|《不成问题的问题》]] - story cases.
 - [[CivicAudienceEtiquette]], [[MedicalScamPackaging]], [[BirthRitualMedicalConflict]], and [[RenqingOrder]] - mechanisms surfaced through satire.
+- [[RulinWaishi|《儒林外史》]], [[WanErDuoFeng|婉而多讽]], and [[SatiricalGroupPortrait]] - classical satire contrast added by episode 58.
 - [[NonInstrumentalUnderstanding]] - adjacent wiki theme where understanding a world is valuable even before it becomes advice.

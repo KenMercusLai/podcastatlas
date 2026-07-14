@@ -2779,3 +2779,11 @@ Ran lint after health passed. Health found no empty/stub files, index drift, or 
 ## [2026-07-14] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint scanned 3,498 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-12 with 3,408 nodes and 34,723 edges; they found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified. No `wiki/lint-report.md` file was saved.
+
+## [2026-07-14] ingest | 58.儒林外史：假如考公成了唯一出路
+
+Added source page for the 蜜獾吃书 episode on 《儒林外史》, 吴敬梓, 范进, 周进, 杜少卿, 王冕, imperial-exam status order, 婉而多讽, and group-portrait satire. Created pages for 《儒林外史》, 吴敬梓, 鲁迅, 范进, 周进, 杜少卿, 王冕, Imperial Examination As Only Exit, 婉而多讽 / Gentle And Layered Satire, and Satirical Group Portrait; updated overview, index, 蜜獾吃书, Classic Reading Complexity, Non-Instrumental Literary Reading, and Lao She Satirical Humanism. No direct contradiction found; the source extends the literature branch by showing how a canonical comic excerpt becomes a larger diagnosis of credential monopoly, official power, cultural narrowing, and alternative dignity outside the examination order.
+
+## [2026-07-14] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint scanned 3,509 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified. No `wiki/lint-report.md` file was saved.

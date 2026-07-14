@@ -211,6 +211,10 @@
     "title": "50.开膛手杰克结案报告：女法医的争议之作",
     "url": "/wiki/sources/50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604/"
   },
+  "58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859": {
+    "title": "58.儒林外史：假如考公成了唯一出路",
+    "url": "/wiki/sources/58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859/"
+  },
   "8848": {
     "title": "8848",
     "url": "/wiki/entities/8848/"
@@ -3759,6 +3763,10 @@
     "title": "Du Shaolei",
     "url": "/wiki/entities/dushaolei/"
   },
+  "DuShaoqing": {
+    "title": "杜少卿",
+    "url": "/wiki/entities/dushaoqing/"
+  },
   "DuanYongping": {
     "title": "Duan Yongping",
     "url": "/wiki/entities/duanyongping/"
@@ -4266,6 +4274,10 @@
   "FanEconomy": {
     "title": "Fan Economy",
     "url": "/wiki/concepts/faneconomy/"
+  },
+  "FanJin": {
+    "title": "范进",
+    "url": "/wiki/entities/fanjin/"
   },
   "FanMin": {
     "title": "Fan Min",
@@ -5751,6 +5763,10 @@
     "title": "Immigration Backlash Cycle",
     "url": "/wiki/concepts/immigrationbacklashcycle/"
   },
+  "ImperialExaminationAsOnlyExit": {
+    "title": "Imperial Examination As Only Exit",
+    "url": "/wiki/concepts/imperialexaminationasonlyexit/"
+  },
   "ImpermanenceAndNoSelf": {
     "title": "Impermanence And No-Self",
     "url": "/wiki/concepts/impermanenceandnoself/"
@@ -7118,6 +7134,10 @@
   "LuQi": {
     "title": "Lu Qi",
     "url": "/wiki/entities/luqi/"
+  },
+  "LuXun": {
+    "title": "鲁迅",
+    "url": "/wiki/entities/luxun/"
   },
   "LuZhengyu": {
     "title": "卢正雨 / Lu Zhengyu",
@@ -9855,6 +9875,10 @@
     "title": "Rudolf Erich Raspe",
     "url": "/wiki/entities/rudolferichraspe/"
   },
+  "RulinWaishi": {
+    "title": "《儒林外史》",
+    "url": "/wiki/entities/rulinwaishi/"
+  },
   "RuminationVsReflection": {
     "title": "Rumination Vs Reflection",
     "url": "/wiki/concepts/ruminationvsreflection/"
@@ -10002,6 +10026,10 @@
   "SashaNauta": {
     "title": "Sasha Nauta",
     "url": "/wiki/entities/sashanauta/"
+  },
+  "SatiricalGroupPortrait": {
+    "title": "Satirical Group Portrait",
+    "url": "/wiki/concepts/satiricalgroupportrait/"
   },
   "Saucony": {
     "title": "Saucony",
@@ -11947,6 +11975,10 @@
     "title": "Walter Sickert",
     "url": "/wiki/entities/waltersickert/"
   },
+  "WanErDuoFeng": {
+    "title": "婉而多讽 / Gentle And Layered Satire",
+    "url": "/wiki/concepts/wanerduofeng/"
+  },
   "WandaGroup": {
     "title": "万达集团 / Wanda Group",
     "url": "/wiki/entities/wandagroup/"
@@ -11970,6 +12002,10 @@
   "WangJunyu": {
     "title": "王俊玉",
     "url": "/wiki/entities/wangjunyu/"
+  },
+  "WangMian": {
+    "title": "王冕",
+    "url": "/wiki/entities/wangmian/"
   },
   "WangShengli": {
     "title": "Wang Shengli",
@@ -12230,6 +12266,10 @@
   "WuHai": {
     "title": "Wu Hai",
     "url": "/wiki/entities/wuhai/"
+  },
+  "WuJingzi": {
+    "title": "吴敬梓",
+    "url": "/wiki/entities/wujingzi/"
   },
   "WuTao": {
     "title": "吴涛",
@@ -12782,6 +12822,10 @@
   "ZhongzhiGroup": {
     "title": "中植集团",
     "url": "/wiki/entities/zhongzhigroup/"
+  },
+  "ZhouJin": {
+    "title": "周进",
+    "url": "/wiki/entities/zhoujin/"
   },
   "ZhouJintao": {
     "title": "周金涛",
