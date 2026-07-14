@@ -2,7 +2,7 @@
 title: "Adult Satire In Children's Classics"
 type: concept
 tags: [literature, satire, childhood, classics]
-sources: [157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703]
+sources: [157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320]
 last_updated: 2026-07-14
 ---
 
@@ -12,6 +12,8 @@ Adult satire in children's classics is the rereading frame where works commonly 
 
 The source's core claim is that adult readers can see layers that child readers may miss: colonial imagination, desire management through soft candy, anti-tyrant fantasy, the limits of pure reason, and the way impossible voyages make social order look arbitrary.
 
+[[51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320]] adds [[GulliversTravels|《格列佛游记》 / Gulliver's Travels]] as a stronger political-satire case. The episode argues that many readers remember only Lilliput and Brobdingnag as childhood spectacle, while the full work uses [[ScaleReversalSatire]], [[TechnocraticDominationSatire]], [[PureRationalityTrap]], and [[AuthorCharacterSeparation]] to ask adult questions about party conflict, religious war, technological rule, and what happens when reason becomes inhuman.
+
 ## Key Claims
 - A book's later children's-market position does not exhaust its original or adult meaning.
 - Fantasy voyages can make empire, governance, science, and violence easier to satirize.
@@ -20,6 +22,8 @@ The source's core claim is that adult readers can see layers that child readers 
 
 ## Connections
 - [[AdventuresOfBaronMunchausen|《吹牛大王历险记》]] - main source example.
+- [[GulliversTravels|《格列佛游记》 / Gulliver's Travels]] - episode 51's source example for English political satire under a childhood-classic surface.
 - [[TallTaleTradition]] and [[AbsurdRationality]] - literary mechanics behind the satire.
+- [[ScaleReversalSatire]], [[TechnocraticDominationSatire]], and [[PureRationalityTrap]] - Gulliver-specific adult layers.
 - [[ClassicReadingComplexity]] - adjacent concept for rereading canonical or familiar works without flattening them.
 - [[NonInstrumentalLiteraryReading]] - reading value that appears through experience and rereading rather than extraction only.

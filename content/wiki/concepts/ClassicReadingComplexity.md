@@ -2,7 +2,7 @@
 title: "Classic Reading Complexity"
 type: concept
 tags: [literature, classics, reading, judgment]
-sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703]
+sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320]
 last_updated: 2026-07-14
 ---
 
@@ -13,6 +13,8 @@ Classic reading complexity is the discipline of reading old or canonical works w
 The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryReading]]. Fast summaries and online labels can be useful entry points, but they also make it easy to replace a work's felt complexity with a portable judgment. Classic reading asks the reader to keep personal dislike, historical critique, literary craft, and original textual detail separate enough to think.
 
 [[154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400]] adds a metafictional version through [[MyNameIsRed|《我的名字叫红》]], where murder, art theory, religious pressure, and worldly survival cannot be separated. [[157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703]] adds a childhood-classic version through [[AdventuresOfBaronMunchausen|《吹牛大王历险记》]], showing that apparent nonsense can preserve [[AdultSatiricalChildrensClassics|adult satire]], [[AbsurdRationality]], and philosophical afterlives.
+
+[[51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320]] adds [[GulliversTravels|《格列佛游记》 / Gulliver's Travels]] as a classic often flattened by childhood memory. The source asks the reader to keep adventure spectacle, scatological humor, political satire, [[TechnocraticDominationSatire]], [[PureRationalityTrap]], and [[AuthorCharacterSeparation]] in view at the same time rather than treating the book as either a children's story or a simple anti-human manifesto.
 
 [[58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859]] adds a school-canon version through [[RulinWaishi|《儒林外史》]]. A reader may remember only [[FanJin|范进]] passing the exam as a funny textbook excerpt, but the episode asks for a fuller reading of [[WuJingzi|吴敬梓]]'s [[SatiricalGroupPortrait]], [[WanErDuoFeng|婉而多讽]], and critique of [[ImperialExaminationAsOnlyExit]]. The classic therefore cannot be reduced to "批判科举"; it also contains structural narration, mixed character judgment, and alternative models of dignity.
 
@@ -31,4 +33,5 @@ The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryR
 - [[NonInstrumentalUnderstanding]] - understanding an old work can matter before it becomes advice or decision support.
 - [[AdultSatiricalChildrensClassics]] - specific rereading frame for works remembered as children's literature.
 - [[AbsurdRationality]] - example of literary complexity inside apparently childish impossibility.
+- [[GulliversTravels|《格列佛游记》]], [[ScaleReversalSatire]], [[TechnocraticDominationSatire]], and [[PureRationalityTrap]] - episode 51's extension into Swiftian political satire.
 - [[RulinWaishi|《儒林外史》]], [[WanErDuoFeng|婉而多讽]], and [[SatiricalGroupPortrait]] - episode 58's extension into classical Chinese satire and examination society.

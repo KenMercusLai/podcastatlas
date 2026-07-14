@@ -2,7 +2,7 @@
 title: "Non-Instrumental Literary Reading"
 type: concept
 tags: [reading, literature, fiction, attention]
-sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
+sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320]
 last_updated: 2026-07-14
 ---
 
@@ -17,6 +17,8 @@ This concept specializes [[NonInstrumentalUnderstanding]] for literature. It als
 [[156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198]] adds a witness-and-support version. Reading [[YiGeAfuhanNvrenDeLaixin|《一个阿富汗女人的来信》]] is not only extracting information about [[Afghanistan]]; it is encountering [[AfghanWomenFirstPersonWriting]] and, through buying, reviewing, and discussing the book, participating in [[LiteraryPublishingAsMaterialSupport]] for a living author.
 
 [[157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703]] adds a rereading version. [[AdventuresOfBaronMunchausen|《吹牛大王历险记》]] may be remembered as childhood absurdity, but the episode shows how returning to it as an adult reveals [[TallTaleTradition]], [[AbsurdRationality]], political satire, philosophical metaphor, and [[SuperheroTallTaleContinuity]].
+
+[[51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320]] adds a disorienting-satire version through [[GulliversTravels|《格列佛游记》 / Gulliver's Travels]]. Reading the novel matters because the experience of moving through Lilliput, Brobdingnag, [[LaputaFlyingIsland|Laputa]], and the [[Houyhnhnms|慧骃]] changes how human bodies, institutions, technologies, and reason feel. The episode's "entertainment" frame makes literature a way of leaving ordinary scale so the reader can return with less self-flattery.
 
 [[158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122]] adds an entertainment version. The episode's [[PuzzleSnackMystery|推理薯片]] frame says light detective fiction can be worth reading for the compact pleasure of clues, wrong theories, reversals, and answers, even when it is not trying to be realist, socially deep, or stylistically grand.
 
@@ -44,6 +46,7 @@ This concept specializes [[NonInstrumentalUnderstanding]] for literature. It als
 - [[HumanAgencyUnderAI]] - choosing where to spend one's own attention remains part of agency even when summaries are available.
 - [[AfghanWomenFirstPersonWriting]] and [[LiteraryPublishingAsMaterialSupport]] - episode 156's extension from literary experience into witness and material support.
 - [[AdultSatiricalChildrensClassics]], [[TallTaleTradition]], and [[AbsurdRationality]] - episode 157's extension from childhood memory into adult rereading.
+- [[GulliversTravels|《格列佛游记》]], [[ScaleReversalSatire]], [[TechnocraticDominationSatire]], and [[PureRationalityTrap]] - episode 51's extension into Swiftian political and philosophical disorientation.
 - [[PuzzleSnackMystery|推理薯片]], [[WatsonPower|华生力]], and [[ClosedCircleMystery|暴风雪山庄]] - episode 158's extension into light puzzle-entertainment reading.
 - [[RulinWaishi|《儒林外史》]], [[ImperialExaminationAsOnlyExit]], and [[SatiricalGroupPortrait]] - episode 58's extension into classical satire as lived institutional perception.
 - [[FuyouZhishang|《蜉蝣直上》]], [[MinnanFamilyWriting]], and [[StandUpAsSelfNarration]] - 小佳 episode extension from performer identity into prose encounter.
