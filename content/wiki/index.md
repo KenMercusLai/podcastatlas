@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [更新时间变动通知](sources/gengxin-shijian-biandong-tongzhi-644387724.md) — 蜜獾吃书 short notice announcing a move from Wednesday morning releases to Saturday 10 p.m., framed as schedule positioning, production slack, and listener-interaction housekeeping.
 - [57.说解汉字：屎尿屁为啥是“尸”字头？](sources/57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319.md) — 蜜獾吃书 episode on Chinese-character origins, oracle-bone evidence, folk拆字 risks, 《说文解字》 limits, and why "尸" in 屎尿屁 points to body posture rather than corpses.
 - [56.伴生：世界破破烂烂，小动物缝缝补补](sources/56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301.md) — 蜜獾吃书 episode on 《伴生》, Aysha Akhtar, companion animals, trauma recovery, disaster evacuation, domestic violence, animal-assisted therapy, animal cruelty, empathy, and animal welfare as public health.
 - [55.安徒生童话：海的女儿和不灭的灵魂](sources/55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306.md) — 蜜獾吃书 episode rereading Andersen as adult fairy-tale literature through satire, death, children as serious readers, 《海的女儿》, immortal soul, Ye Junjian's translation, and Disney adaptation debates.
@@ -497,7 +498,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Flow](entities/Flow.md) — iPhone dictation app Mims uses as a voice-first AI interface for everyday messaging.
 - [Google Personal Intelligence](entities/GooglePersonalIntelligence.md) — Gemini-linked account capability used by the source to show AI acting inside Google services such as Calendar.
 - [Google Calendar](entities/GoogleCalendar.md) — Scheduling product used as the source's example of a disliked task that account-integrated AI can reduce.
-- [蜜獾吃书](entities/MihuanChishu.md) — Podcast/show context for book and life-design discussions on everyday comics, post-apocalyptic science fiction, Swift, satire, machine gambling, autism support, bird science, puzzle mystery, insurance claims, education pressure, and reading itself.
+- [蜜獾吃书](entities/MihuanChishu.md) — Podcast/show context for book and life-design discussions on everyday comics, post-apocalyptic science fiction, Swift, satire, machine gambling, autism support, bird science, puzzle mystery, insurance claims, education pressure, reading itself, and release-cadence housekeeping.
 - [李乌鸦](entities/LiWuya.md) — Book creator and guest in the 蜜獾吃书 first-anniversary episode on reading habits, classics, shame, solitude, and non-instrumental literary value.
 - [日谈](entities/Ritan.md) — Crossover context for the episode bringing Hookie, 殷姐, and 秦总 together for a Women's Day life-design conversation.
 - [Hookie](entities/Hookie.md) — Host in the restart-life episode, linking life-science career redirection, pet grief, school confidence, and learning capacity.
@@ -3535,6 +3536,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Persistent Agent Memory](concepts/PersistentAgentMemory.md) — Durable user and work memory that lets agents retain context while raising portability, boundary, and post-mortem consent questions.
 - [PHS Xiaolingtong](concepts/PHSXiaolingtong.md) — Low-cost PHS wireless local-phone service that gave many Chinese users transitional mobile-like access before mainstream mobile affordability.
 - [Podcast As Asynchronous Media](concepts/PodcastAsAsynchronousMedia.md) — Recorded-audio media form whose value comes from shifted listening, cumulative archives, listener feedback, and clip distribution while losing live-radio immediacy.
+- [Podcast Release Cadence](concepts/PodcastReleaseCadence.md) — Scheduling layer of a podcast where release time, audience expectation, crowded update windows, and production slack interact.
 - [Policy-Driven Market Rally](concepts/PolicyDrivenMarketRally.md) — Equity rally pattern where official policy, liquidity, or regulation shifts ignite prices before fundamentals are proven.
 - [Post-Acquisition Founder Identity](concepts/PostAcquisitionFounderIdentity.md) — Personal and governance problem of what a founder becomes after selling a company, including cases where crisis pulls the founder back.
 - [Pre-Product Selling](concepts/PreProductSelling.md) — Selling-first validation pattern using conversations, LOIs, trials, prototypes, and customer sacrifices before full production use exists.

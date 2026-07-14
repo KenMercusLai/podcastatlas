@@ -2847,3 +2847,11 @@ Added source page for the 蜜獾吃书 episode on Chinese-character origins, ora
 ## [2026-07-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-14] ingest | 更新时间变动通知
+
+Added source page for the short 蜜獾吃书 update notice announcing a release-cadence change from Wednesday morning to Saturday 10 p.m. Created Podcast Release Cadence; updated overview, index, 蜜獾吃书, and Podcast As Asynchronous Media. No direct contradiction found; the source metadata says 蜜獾吃书 while the body summary names 《海滨之声》, so this ingest preserves that as a source-local naming note rather than creating a new show entity.
+
+## [2026-07-14] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint scanned 3,596 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-12 with 3,408 nodes and 34,723 edges; they found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified. No `wiki/lint-report.md` file was saved.
