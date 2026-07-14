@@ -2,11 +2,13 @@
 title: "北明 / 北民"
 type: entity
 tags: [host, podcast, books]
-sources: [jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]
+sources: [42-anduo-fengqi-yu-qingping-zhi-mo-616391638, jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]
 last_updated: 2026-07-14
 ---
 
 # 北明 / 北民
+
+[[42-anduo-fengqi-yu-qingping-zhi-mo-616391638]] adds 北明's role as host of a [[MihuanChishu|蜜獾吃书]] discussion of [[Andor|《安多》 / Andor]]. In this source he frames the episode around [[StarWars|Star Wars]] background, [[RogueOne|《侠盗一号》 / Rogue One]], [[CassianAndor]]'s prequel problem, and the series' move from heroic family legend toward [[OrdinaryPeopleResistance]] and [[AntiHeroicResistanceNarrative]].
 
 [[jiaqi-moyu-geng-jiankang-574391976]] adds 北明's holiday-preview role. In the episode he says the Chinese edition of [[TheGreenPlanet|《绿色星球》]] has moved through his translation work, uses Dali plant walks to mention plant counting, memory-like behavior, and communication-like mechanisms, and previews future [[RogerZelazny|罗杰·泽拉兹尼]] discussion through a translated short-story collection and [[LordOfLight|《光明王》]].
 

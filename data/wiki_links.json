@@ -195,6 +195,10 @@
     "title": "41.施剑翘复仇案：超越哈贝马斯的情与法",
     "url": "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
   },
+  "42-anduo-fengqi-yu-qingping-zhi-mo-616391638": {
+    "title": "42.安多：风起于青萍之末",
+    "url": "/wiki/sources/42-anduo-fengqi-yu-qingping-zhi-mo-616391638/"
+  },
   "42Zhangjing": {
     "title": "42章经",
     "url": "/wiki/entities/42zhangjing/"
@@ -1123,6 +1127,10 @@
     "title": "Alan Newman",
     "url": "/wiki/entities/alannewman/"
   },
+  "Aldhani": {
+    "title": "Aldhani",
+    "url": "/wiki/entities/aldhani/"
+  },
   "AleisterCrowley": {
     "title": "Aleister Crowley / 阿莱斯特·克劳利",
     "url": "/wiki/entities/aleistercrowley/"
@@ -1271,6 +1279,10 @@
     "title": "Ancestrality",
     "url": "/wiki/concepts/ancestrality/"
   },
+  "Andor": {
+    "title": "《安多》 / Andor",
+    "url": "/wiki/entities/andor/"
+  },
   "AndreessenHorowitz": {
     "title": "Andreessen Horowitz",
     "url": "/wiki/entities/andreessenhorowitz/"
@@ -1370,6 +1382,10 @@
   "AntiDetectiveFiction": {
     "title": "Anti-Detective Fiction",
     "url": "/wiki/concepts/antidetectivefiction/"
+  },
+  "AntiHeroicResistanceNarrative": {
+    "title": "Anti-Heroic Resistance Narrative",
+    "url": "/wiki/concepts/antiheroicresistancenarrative/"
   },
   "AntiMoneyLaundering": {
     "title": "Anti-Money Laundering",
@@ -1959,6 +1975,10 @@
     "title": "Benfen / 本分",
     "url": "/wiki/concepts/benfen/"
   },
+  "BengdiBanzhang": {
+    "title": "蹦迪班长",
+    "url": "/wiki/entities/bengdibanzhang/"
+  },
   "BerkshireHathaway": {
     "title": "Berkshire Hathaway",
     "url": "/wiki/entities/berkshirehathaway/"
@@ -2411,6 +2431,10 @@
     "title": "Carbon Plate Racing Shoes",
     "url": "/wiki/concepts/carbonplateracingshoes/"
   },
+  "CarceralLaborGovernance": {
+    "title": "Carceral Labor Governance",
+    "url": "/wiki/concepts/carcerallaborgovernance/"
+  },
   "CareCompanionProgram": {
     "title": "Care Companion Program",
     "url": "/wiki/entities/carecompanionprogram/"
@@ -2470,6 +2494,10 @@
   "CashCowStrategicInertia": {
     "title": "Cash Cow Strategic Inertia",
     "url": "/wiki/concepts/cashcowstrategicinertia/"
+  },
+  "CassianAndor": {
+    "title": "Cassian Andor",
+    "url": "/wiki/entities/cassianandor/"
   },
   "CatalinaCrunch": {
     "title": "Catalina Crunch",
@@ -4543,6 +4571,10 @@
     "title": "《辐射》 / Fallout",
     "url": "/wiki/entities/fallout/"
   },
+  "FalseChoiceGovernance": {
+    "title": "False Choice Governance",
+    "url": "/wiki/concepts/falsechoicegovernance/"
+  },
   "FamilyBusinessScaling": {
     "title": "Family Business Scaling",
     "url": "/wiki/concepts/familybusinessscaling/"
@@ -4678,6 +4710,10 @@
   "Ferrari": {
     "title": "Ferrari",
     "url": "/wiki/entities/ferrari/"
+  },
+  "Ferrix": {
+    "title": "Ferrix",
+    "url": "/wiki/entities/ferrix/"
   },
   "FifthDimension": {
     "title": "The Fifth Dimension / 第五维度",
@@ -5238,6 +5274,10 @@
   "Gaide": {
     "title": "盖德",
     "url": "/wiki/entities/gaide/"
+  },
+  "GalacticEmpire": {
+    "title": "Galactic Empire",
+    "url": "/wiki/entities/galacticempire/"
   },
   "Galileo": {
     "title": "Galileo",
@@ -6315,6 +6355,10 @@
     "title": "Instant Retail",
     "url": "/wiki/concepts/instantretail/"
   },
+  "InstitutionalOvercompliance": {
+    "title": "Institutional Overcompliance",
+    "url": "/wiki/concepts/institutionalovercompliance/"
+  },
   "InsuranceClaimsAssistancePlatforms": {
     "title": "Insurance Claims Assistance Platforms",
     "url": "/wiki/concepts/insuranceclaimsassistanceplatforms/"
@@ -7071,6 +7115,10 @@
     "title": "Kimi",
     "url": "/wiki/entities/kimi/"
   },
+  "KinoLoy": {
+    "title": "Kino Loy",
+    "url": "/wiki/entities/kinoloy/"
+  },
   "KiyosumiShirakawa": {
     "title": "Kiyosumi-Shirakawa / 清澄白河",
     "url": "/wiki/entities/kiyosumishirakawa/"
@@ -7759,6 +7807,10 @@
     "title": "芦笋提词器",
     "url": "/wiki/entities/lusunteleprompter/"
   },
+  "LuthenRael": {
+    "title": "Luthen Rael",
+    "url": "/wiki/entities/luthenrael/"
+  },
   "LutherOklahoma": {
     "title": "Luther, Oklahoma",
     "url": "/wiki/entities/lutheroklahoma/"
@@ -7802,6 +7854,10 @@
   "MaaSInfrastructure": {
     "title": "MaaS Infrastructure",
     "url": "/wiki/concepts/maasinfrastructure/"
+  },
+  "MaarvaAndor": {
+    "title": "Maarva Andor",
+    "url": "/wiki/entities/maarvaandor/"
   },
   "MacMini": {
     "title": "Mac Mini",
@@ -7890,6 +7946,10 @@
   "ManualOperationsDebt": {
     "title": "Manual Operations Debt",
     "url": "/wiki/concepts/manualoperationsdebt/"
+  },
+  "ManufacturedPrisonerDilemma": {
+    "title": "Manufactured Prisoner Dilemma",
+    "url": "/wiki/concepts/manufacturedprisonerdilemma/"
   },
   "Manus": {
     "title": "Manus",
@@ -8467,6 +8527,10 @@
     "title": "Momo",
     "url": "/wiki/entities/momo/"
   },
+  "MonMothma": {
+    "title": "Mon Mothma",
+    "url": "/wiki/entities/monmothma/"
+  },
   "MondayCom": {
     "title": "monday.com",
     "url": "/wiki/entities/mondaycom/"
@@ -8618,6 +8682,10 @@
   "Napster": {
     "title": "Napster",
     "url": "/wiki/entities/napster/"
+  },
+  "NarkinaFive": {
+    "title": "Narkina Five",
+    "url": "/wiki/entities/narkinafive/"
   },
   "Nasdaq": {
     "title": "Nasdaq",
@@ -9098,6 +9166,10 @@
   "OrdinaryHardshipNarrative": {
     "title": "Ordinary Hardship Narrative",
     "url": "/wiki/concepts/ordinaryhardshipnarrative/"
+  },
+  "OrdinaryPeopleResistance": {
+    "title": "Ordinary People Resistance",
+    "url": "/wiki/concepts/ordinarypeopleresistance/"
   },
   "OrganizationalContext": {
     "title": "Organizational Context",
@@ -10159,6 +10231,10 @@
     "title": "Rebecca Lendl",
     "url": "/wiki/entities/rebeccalendl/"
   },
+  "RebelAlliance": {
+    "title": "Rebel Alliance",
+    "url": "/wiki/entities/rebelalliance/"
+  },
   "ReceivablesRisk": {
     "title": "Receivables Risk",
     "url": "/wiki/concepts/receivablesrisk/"
@@ -10499,6 +10575,10 @@
     "title": "Roger Zelazny / 罗杰·泽拉兹尼",
     "url": "/wiki/entities/rogerzelazny/"
   },
+  "RogueOne": {
+    "title": "《侠盗一号》 / Rogue One",
+    "url": "/wiki/entities/rogueone/"
+  },
   "Roi": {
     "title": "Roi",
     "url": "/wiki/entities/roi/"
@@ -10655,6 +10735,10 @@
     "title": "Sabastian Sawe",
     "url": "/wiki/entities/sabastiansawe/"
   },
+  "SacrificingOthersEthics": {
+    "title": "Sacrificing Others Ethics",
+    "url": "/wiki/concepts/sacrificingothersethics/"
+  },
   "SadiaPekkanen": {
     "title": "Sadia Pekkanen",
     "url": "/wiki/entities/sadiapekkanen/"
@@ -10734,6 +10818,10 @@
   "SavingsStyleInsurance": {
     "title": "Savings-Style Insurance",
     "url": "/wiki/concepts/savingsstyleinsurance/"
+  },
+  "SawGerrera": {
+    "title": "Saw Gerrera",
+    "url": "/wiki/entities/sawgerrera/"
   },
   "ScaleAI": {
     "title": "Scale AI",
@@ -11491,6 +11579,10 @@
     "title": "Star Talent In Big Companies",
     "url": "/wiki/concepts/startalentinbigcompanies/"
   },
+  "StarWars": {
+    "title": "Star Wars",
+    "url": "/wiki/entities/starwars/"
+  },
   "Starbucks": {
     "title": "Starbucks",
     "url": "/wiki/entities/starbucks/"
@@ -11794,6 +11886,10 @@
   "SyncReliabilityAsUX": {
     "title": "Sync Reliability As UX",
     "url": "/wiki/concepts/syncreliabilityasux/"
+  },
+  "SyrilKarn": {
+    "title": "Syril Karn",
+    "url": "/wiki/entities/syrilkarn/"
   },
   "SystemHumanity": {
     "title": "System Humanity",
@@ -12234,6 +12330,10 @@
   "TongxinUOS": {
     "title": "Tongxin UOS",
     "url": "/wiki/entities/tongxinuos/"
+  },
+  "TonyGilroy": {
+    "title": "Tony Gilroy",
+    "url": "/wiki/entities/tonygilroy/"
   },
   "TonyXu": {
     "title": "Tony Xu",
@@ -13694,6 +13794,10 @@
   "ZhouJintao": {
     "title": "周金涛",
     "url": "/wiki/entities/zhoujintao/"
+  },
+  "ZhouMing": {
+    "title": "周明",
+    "url": "/wiki/entities/zhouming/"
   },
   "ZhuNing": {
     "title": "朱宁 / Zhu Ning",

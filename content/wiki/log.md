@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-14] ingest | 42.安多：风起于青萍之末
+
+Added source page for the 蜜獾吃书 episode on 《安多》 / Andor, Star Wars, Rogue One, Tony Gilroy, Cassian Andor, the Galactic Empire, the Rebel Alliance, Mon Mothma, Luthen Rael, Saw Gerrera, Syril Karn, Kino Loy, Maarva Andor, Ferrix, Aldhani, and Narkina Five. Created pages for the main Andor/Star Wars entity cluster and concepts around false-choice governance, institutional overcompliance, manufactured prisoner dilemmas, carceral labor governance, ordinary people resistance, sacrificing others ethics, and anti-heroic resistance narrative; updated overview, index, 蜜獾吃书, and 北明 / 北民. No direct contradiction found; the source is stored as interpretive media criticism rather than standalone political theory.
+
 ## [2026-07-14] ingest | 54.玫瑰的名字（下）：真与假，正与邪，诠释与过度诠释
 
 Added source page for the 蜜獾吃书 episode completing 翁贝托·艾柯's 《玫瑰的名字》 through the poisoned Aristotle text, Jorge's hidden control of the library, false Revelation patterning, anti-detective structure, rational humility, conspiracy-style overinterpretation, laughter as resistance to authority, Bernard Gui's political show trial, and the Avignon Papacy background. Created pages for 亚里士多德《诗学》第二卷 / Aristotle's Poetics Book II, 贝尔纳 / Bernard Gui, 阿维尼翁教廷 / Avignon Papacy, Anti-Detective Fiction, Conspiracy Theory Pattern Seeking, Rational Humility, and Political Show Trial; updated overview, index, 蜜獾吃书, 《玫瑰的名字》, Umberto Eco, William of Baskerville, Adso of Melk, Jorge of Burgos, Interpretation And Overinterpretation, Semiotic Detective Fiction, Knowledge Monopoly, Laughter Against Authority, Book of Revelation, Apocalyptic Literary Symbolism, Observation Before Inference, and Closed-Circle Mystery. No direct contradiction found; the source qualifies episode 53 by showing that the apparent Revelation murder pattern is an in-story trap for overinterpretation rather than the true causal design.
@@ -2940,3 +2944,7 @@ Added source page for the 蜜獾吃书 episode on the Shi Jianqiao revenge case,
 ## [2026-07-14] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 3,728 pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

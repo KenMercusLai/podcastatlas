@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [42.安多：风起于青萍之末](sources/42-anduo-fengqi-yu-qingping-zhi-mo-616391638.md) — 蜜獾吃书 episode on Andor, Star Wars, everyday imperial control, prison labor, ordinary rebellion, and the ethics of sacrificing others.
 - [41.施剑翘复仇案：超越哈贝马斯的情与法](sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038.md) — 蜜獾吃书 episode on the Shi Jianqiao revenge case, Sun Chuanfang, filial revenge, sensational Republican-era media, public opinion, judicial independence, special pardon politics, and gendered nationalist heroism.
 - [40.平面国：禁止染色/女人危险/向上不是向北！](sources/40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366.md) — 蜜獾吃书 episode with 秦总 and translator 菲比 on 《平面国》 / Flatland, dimensional allegory, geometric gender/class hierarchy, color as identity disruption, and reading as perspective expansion.
 - [39.哲学家与狼：在朗格多克永恒的夏天](sources/39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065.md) — 蜜獾吃书 episode on 《哲学家与狼》, Mark Rowlands, Brenin, wolf/dog/human intelligence, civilization as deception, evil as responsibility failure, loyalty beyond contract, companion illness, death, and the Languedoc summer.
@@ -370,6 +371,24 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [周明](entities/ZhouMing.md) — Editor and episode 42 guest reading Andor through imperial governance, Star Wars political texture, and false-choice control.
+- [蹦迪班长](entities/BengdiBanzhang.md) — Public-account writer and episode 42 guest connecting Andor with 2022-era freedom, ordinary courage, and anti-heroic resistance.
+- [《安多》 / Andor](entities/Andor.md) — Star Wars television series read by episode 42 as a political prequel about imperial bureaucracy, prison labor, community revolt, and moral compromise.
+- [Star Wars](entities/StarWars.md) — Franchise background for episode 42's contrast between Skywalker-family hero narrative and Andor's ordinary resistance story.
+- [《侠盗一号》 / Rogue One](entities/RogueOne.md) — Star Wars film endpoint that makes Andor's prequel tension depend on Cassian's moral formation rather than survival suspense.
+- [Tony Gilroy](entities/TonyGilroy.md) — Creator figure praised by episode 42 for turning bureaucracy, intelligence work, prison, and political compromise into genre drama.
+- [Cassian Andor](entities/CassianAndor.md) — Marginal survivor whose movement toward rebellion anchors episode 42's reading of Andor as anti-heroic resistance.
+- [Galactic Empire](entities/GalacticEmpire.md) — Fictional state analyzed in episode 42 as bureaucracy, police, prison labor, cultural replacement, and everyday oppression.
+- [Rebel Alliance](entities/RebelAlliance.md) — Anti-imperial force treated by episode 42 as fragmented, necessary, and morally compromised rather than pure legend.
+- [Mon Mothma](entities/MonMothma.md) — Political resistance figure whose finances, family, and public identity show rebellion's noncombat costs.
+- [Luthen Rael](entities/LuthenRael.md) — Hidden rebel organizer whose intelligence choices make episode 42's ethics of sacrificing others concrete.
+- [Saw Gerrera](entities/SawGerrera.md) — Rebel faction figure used by episode 42 to expose ideological fragmentation and greater-good sacrifice language.
+- [Syril Karn](entities/SyrilKarn.md) — Zealous order-seeker whose overcompliance escalates imperial violence in episode 42's Andor reading.
+- [Kino Loy](entities/KinoLoy.md) — Narkina Five work-group leader whose prison awakening shows ordinary courage after institutional promises collapse.
+- [Maarva Andor](entities/MaarvaAndor.md) — Ferrix mother figure whose funeral message turns grief and anti-imperial clarity into community resistance.
+- [Ferrix](entities/Ferrix.md) — Strong-tie community setting where episode 42 locates ordinary people resistance outside Cassian's direct leadership.
+- [Aldhani](entities/Aldhani.md) — Andor setting used by episode 42 to analyze imperial replacement of local pilgrimage through false-choice governance.
+- [Narkina Five](entities/NarkinaFive.md) — Prison-labor setting used by episode 42 to analyze carceral labor governance and manufactured competition.
 - [Shi Jianqiao / 施剑翘](entities/ShiJianqiao.md) — Central actor in the 1935 revenge case, read through filial revenge, media staging, courtroom performance, pardon, and later patriotic self-rewriting.
 - [Sun Chuanfang / 孙传芳](entities/SunChuanfang.md) — Warlord killed by Shi Jianqiao, whose prior execution and humiliation of Shi Congbin shaped the case's public morality.
 - [Shi Congbin / 施从斌](entities/ShiCongbin.md) — Shi Jianqiao's father, whose execution and head-display became the emotional basis of the revenge claim.
@@ -2253,6 +2272,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [False Choice Governance](concepts/FalseChoiceGovernance.md) — Pattern where power leaves apparent options while removing the option people actually value, developed through Andor's Aldhani arc.
+- [Institutional Overcompliance](concepts/InstitutionalOvercompliance.md) — Pattern where zealous functionaries intensify authority beyond immediate need, crystallized through Syril Karn.
+- [Manufactured Prisoner Dilemma](concepts/ManufacturedPrisonerDilemma.md) — Artificial competition structure that makes people under shared domination distrust and sacrifice one another.
+- [Carceral Labor Governance](concepts/CarceralLaborGovernance.md) — Use of imprisonment, routine, bodily control, and productivity systems to turn captives into reliable labor.
+- [Ordinary People Resistance](concepts/OrdinaryPeopleResistance.md) — Resistance emerging from non-heroic people whose daily life has been squeezed until action becomes necessary.
+- [Sacrificing Others Ethics](concepts/SacrificingOthersEthics.md) — Moral problem of deciding that someone else must bear the cost of a larger cause.
+- [Anti-Heroic Resistance Narrative](concepts/AntiHeroicResistanceNarrative.md) — Story frame where resistance is distributed across ordinary people, communities, institutions, and compromised organizers rather than a chosen hero.
 - [Shi Jianqiao Revenge Case](concepts/ShiJianqiaoRevengeCase.md) — Event cluster around the 1935 assassination, trial, public sympathy, media remaking, and pardon.
 - [Sensational Media Public Sphere](concepts/SensationalMediaPublicSphere.md) — Popular crime news, theater, fiction, melodrama, and gossip as politically meaningful publicness beyond narrow rational debate.
 - [Private Revenge And Modern Law](concepts/PrivateRevengeModernLaw.md) — Conflict between filial/private vengeance and the modern state's claim over punishment and legal order.
