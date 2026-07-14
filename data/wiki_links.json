@@ -1231,6 +1231,10 @@
     "title": "Anna Kerr",
     "url": "/wiki/entities/annakerr/"
   },
+  "AnneBoden": {
+    "title": "Anne Boden",
+    "url": "/wiki/entities/anneboden/"
+  },
   "AnneWilliams": {
     "title": "Anne Williams",
     "url": "/wiki/entities/annewilliams/"
@@ -1698,6 +1702,10 @@
   "BankingKYCCompliance": {
     "title": "Banking KYC Compliance",
     "url": "/wiki/concepts/bankingkyccompliance/"
+  },
+  "BankingProductDelight": {
+    "title": "Banking Product Delight",
+    "url": "/wiki/concepts/bankingproductdelight/"
   },
   "Banlatte": {
     "title": "半拿铁",
@@ -4431,6 +4439,10 @@
     "title": "Financo",
     "url": "/wiki/entities/financo/"
   },
+  "FintechRegulatoryWindow": {
+    "title": "Fintech Regulatory Window",
+    "url": "/wiki/concepts/fintechregulatorywindow/"
+  },
   "FireTechClimateResilience": {
     "title": "Fire Tech Climate Resilience",
     "url": "/wiki/concepts/firetechclimateresilience/"
@@ -4566,6 +4578,10 @@
   "FoundationalEconomies": {
     "title": "Foundational Economies",
     "url": "/wiki/concepts/foundationaleconomies/"
+  },
+  "FounderAgreementDocumentation": {
+    "title": "Founder Agreement Documentation",
+    "url": "/wiki/concepts/founderagreementdocumentation/"
   },
   "FounderCashFlowConstraint": {
     "title": "Founder Cash Flow Constraint",
@@ -5051,6 +5067,10 @@
     "title": "Gmail",
     "url": "/wiki/entities/gmail/"
   },
+  "GoCardless": {
+    "title": "GoCardless",
+    "url": "/wiki/entities/gocardless/"
+  },
   "GoFundMe": {
     "title": "GoFundMe",
     "url": "/wiki/entities/gofundme/"
@@ -5178,6 +5198,10 @@
   "Grok": {
     "title": "Grok",
     "url": "/wiki/entities/grok/"
+  },
+  "Grouper": {
+    "title": "Grouper",
+    "url": "/wiki/entities/grouper/"
   },
   "GrowthROILayers": {
     "title": "Growth ROI Layers",
@@ -5774,6 +5798,10 @@
   "ImpulseWatch": {
     "title": "Impulse Watch",
     "url": "/wiki/entities/impulsewatch/"
+  },
+  "InHouseBankingSoftware": {
+    "title": "In-House Banking Software",
+    "url": "/wiki/concepts/inhousebankingsoftware/"
   },
   "InMemoryComputingForEdgeAI": {
     "title": "In-Memory Computing For Edge AI",
@@ -7895,6 +7923,10 @@
     "title": "Montana",
     "url": "/wiki/entities/montana/"
   },
+  "Monzo": {
+    "title": "Monzo",
+    "url": "/wiki/entities/monzo/"
+  },
   "Moon": {
     "title": "Moon",
     "url": "/wiki/entities/moon/"
@@ -8634,6 +8666,10 @@
   "PassengerComplaintHandling": {
     "title": "Passenger Complaint Handling",
     "url": "/wiki/concepts/passengercomplainthandling/"
+  },
+  "PassionCapital": {
+    "title": "Passion Capital",
+    "url": "/wiki/entities/passioncapital/"
   },
   "PassiveInvesting": {
     "title": "Passive Investing",
@@ -9582,6 +9618,10 @@
   "RegulatedCryptoTrustStrategy": {
     "title": "Regulated Crypto Trust Strategy",
     "url": "/wiki/concepts/regulatedcryptotruststrategy/"
+  },
+  "RegulatedFintechCapitalPressure": {
+    "title": "Regulated Fintech Capital Pressure",
+    "url": "/wiki/concepts/regulatedfintechcapitalpressure/"
   },
   "RehuLuandun": {
     "title": "热乎乱炖",
@@ -10755,6 +10795,10 @@
     "title": "Starbucks",
     "url": "/wiki/entities/starbucks/"
   },
+  "StarlingBank": {
+    "title": "Starling Bank",
+    "url": "/wiki/entities/starlingbank/"
+  },
   "Starlink": {
     "title": "Starlink",
     "url": "/wiki/entities/starlink/"
@@ -10778,6 +10822,10 @@
   "StartupCommunityInfrastructure": {
     "title": "Startup Community Infrastructure",
     "url": "/wiki/concepts/startupcommunityinfrastructure/"
+  },
+  "StartupEcosystemOptimism": {
+    "title": "Startup Ecosystem Optimism",
+    "url": "/wiki/concepts/startupecosystemoptimism/"
   },
   "StartupEssayDistribution": {
     "title": "Startup Essay Distribution",
@@ -11058,6 +11106,10 @@
   "TRMLabs": {
     "title": "TRM Labs",
     "url": "/wiki/entities/trmlabs/"
+  },
+  "TSAnil": {
+    "title": "TS Anil",
+    "url": "/wiki/entities/tsanil/"
   },
   "TSGConsumerPartners": {
     "title": "TSG Consumer Partners",
@@ -11402,6 +11454,10 @@
   "TokyoDisneyResort": {
     "title": "Tokyo Disney Resort / 东京迪士尼",
     "url": "/wiki/entities/tokyodisneyresort/"
+  },
+  "TomBlomfield": {
+    "title": "Tom Blomfield",
+    "url": "/wiki/entities/tomblomfield/"
   },
   "TomCarter": {
     "title": "Tom Carter",
@@ -11950,6 +12006,10 @@
   "WIPR": {
     "title": "WIPR",
     "url": "/wiki/entities/wipr/"
+  },
+  "WaitlistInvitationGrowth": {
+    "title": "Waitlist Invitation Growth",
+    "url": "/wiki/concepts/waitlistinvitationgrowth/"
   },
   "WallStreetJournal": {
     "title": "Wall Street Journal",
@@ -13874,6 +13934,10 @@
   "tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio": {
     "title": "Christina Cacioppo on Vanta, Coding, and Compliance Automation",
     "url": "/wiki/sources/tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio/"
+  },
+  "tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio": {
+    "title": "Tom Blomfield on Monzo, YC, and Founder Lessons",
+    "url": "/wiki/sources/tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio/"
   },
   "tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final": {
     "title": "Founder Mode: Brian Chesky, Founder & CEO, Airbnb",

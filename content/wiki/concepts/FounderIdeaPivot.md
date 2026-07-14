@@ -2,8 +2,8 @@
 title: "Founder Idea Pivot"
 type: concept
 tags: [startup, y-combinator, validation]
-sources: [tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3, socialradarspod-stevehuffman-final]
-last_updated: 2026-07-11
+sources: [tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3, socialradarspod-stevehuffman-final, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
+last_updated: 2026-07-14
 ---
 
 # Founder Idea Pivot
@@ -14,15 +14,19 @@ The concept matters because it separates founder judgment from idea attachment. 
 
 [[tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3]] adds a founder-driven version through [[AlexandrWang]] and [[ScaleAI]]. The team applied to YC with a doctor-booking app, realized during the batch that the appointment volume required for Demo Day was unrealistic, and pivoted back to the data-for-AI idea they had initially dismissed as too small.
 
+[[tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]] adds [[GoCardless]] as a customer-pull infrastructure version. [[TomBlomfield]] says the team entered [[YCombinator]] with a bill-splitting product, saw weak traction, and pivoted when businesses cared more about the bank-payment access underneath it.
+
 ## Key Claims
 - A weak first idea does not necessarily imply a weak founding team.
 - Founder idea pivots require both sides to move: investors or advisors must be willing to keep the founders, and founders must be willing to abandon sunk-cost identity.
 - The pivot is strongest when the new idea fits a real founder behavior or taste, as Reddit fit Huffman's [[Slashdot]] and link-community habits.
 - Early selection systems such as [[StartupAcceleratorBatchSelection]] need room to revise judgments when the team signal and idea signal diverge.
 - A pivot can also mean returning to a previously rejected idea once customer math, market timing, or technical context changes.
+- A pivot can move downward into infrastructure when the original product is weak but exposes access to a valuable operational layer.
 
 ## Connections
 - [[SteveHuffman]], [[AlexisOhanian]], [[Reddit]], [[YCombinator]], and [[PaulGraham]] - source case.
 - [[AlexandrWang]], [[ScaleAI]], and [[AIDataInfrastructure]] - Scale case where the YC idea changed from doctor booking to data for AI.
+- [[GoCardless]], [[TomBlomfield]], [[PaymentsInfrastructurePivot]], and [[MoneyMovementInfrastructure]] - direct-debit infrastructure pivot added by the Tom Blomfield source.
 - [[FounderProductFit]], [[FastProductValidation]], and [[CustomerPull]] - adjacent validation concepts.
 - [[UserPoweredContentPlatform]] - the product direction that replaced the mobile food idea.

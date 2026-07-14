@@ -2787,3 +2787,11 @@ Added source page for the 蜜獾吃书 episode on 《儒林外史》, 吴敬梓,
 ## [2026-07-14] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint scanned 3,509 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified. No `wiki/lint-report.md` file was saved.
+
+## [2026-07-14] ingest | Tom Blomfield on Monzo, YC, and Founder Lessons
+
+Added source page for The Social Radars episode with Tom Blomfield on GoCardless, Grouper, Starling Bank, Monzo, and his later Y Combinator partner role. Created pages for Tom Blomfield, Monzo, GoCardless, Starling Bank, Anne Boden, Grouper, TS Anil, Passion Capital, Founder Agreement Documentation, Fintech Regulatory Window, In-House Banking Software, Banking Product Delight, Waitlist Invitation Growth, Regulated Fintech Capital Pressure, and Startup Ecosystem Optimism; updated overview, index, The Social Radars, Y Combinator, Harj Taggar, Kulvir Taggar, BoSo, Bill Clerico, WePay, Accel, McKinsey, Early Fintech Fraud Controls, Payments Infrastructure Pivot, Money Movement Infrastructure, Trust-Heavy Infrastructure Sales, Founder Health Debt, Co-Founder Conflict, Startup Runway Discipline, Founder Succession, Founder Role Transition, Founder Idea Pivot, and Startup Community Infrastructure. No direct contradiction found; the source extends existing payments and founder-governance branches while preserving the Starling conflict as Tom's source-perspective account rather than a settled third-party finding.
+
+## [2026-07-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,8 +2,8 @@
 title: "Startup Community Infrastructure"
 type: concept
 tags: [startups, community, software, venture-capital]
-sources: [tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-harj-v3-tsr-s4-harj-v3, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, socialradarspod-emmettshear-v2, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-garrytan-final]
-last_updated: 2026-07-12
+sources: [tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-harj-v3-tsr-s4-harj-v3, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, socialradarspod-emmettshear-v2, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-garrytan-final, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
+last_updated: 2026-07-14
 ---
 
 # Startup Community Infrastructure
@@ -20,6 +20,8 @@ Startup community infrastructure is the set of software, rituals, lists, events,
 
 [[tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5]] adds the [[Dropbox]] version through [[DrewHouston]]'s early YC orbit. Houston describes wanting into the YC peer group before Dropbox was accepted, using informal paths to get feedback, and then living in the Y Scraper ecosystem with companies such as Justin.tv, Scribd, Weebly, and Reddit. The episode shows community infrastructure as motivation, feedback, housing, peer pressure, and ambient startup belief.
 
+[[tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]] adds [[TomBlomfield]]'s Summer 2011 [[YCombinator]] version. Tom says being surrounded by strong founders was the batch's biggest value for [[GoCardless]] because it gave the team a benchmark and made weak bill-splitting traction harder to ignore. His later return as a YC partner shows the same community becoming an institution where experienced founders help newer ones.
+
 The source's clearest case is Bookface. [[GarryTan]] says YC needed it because larger batches meant founders no longer knew everyone and because outsiders sometimes represented themselves as YC companies. A community tool became infrastructure when it preserved identity, access, memory, and founder-to-founder help at a scale where informal recognition no longer worked.
 
 ## Key Claims
@@ -32,6 +34,7 @@ The source's clearest case is Bookface. [[GarryTan]] says YC needed it because l
 - Batch community can later become investor trust, deal flow, and long-term professional support, not only friendship during the program.
 - Investor relationships become community infrastructure when they make broad startup access repeatable rather than dependent on one founder's personal network.
 - Founder community can exert pull before acceptance: wanting into the peer environment can motivate persistence, side-door feedback seeking, and eventual batch participation.
+- Community can also create honest comparison pressure: seeing stronger founders can force a team to abandon a weak idea sooner.
 
 ## Connections
 - [[HackerNews]], [[Bookface]], [[StartupSchool]], [[YCombinator]], and [[GarryTan]] - source cases.
@@ -39,6 +42,7 @@ The source's clearest case is Bookface. [[GarryTan]] says YC needed it because l
 - [[YuriSagalov]], [[AeroFS]], [[WayfinderVentures]], and [[YCombinator]] - Summer 2010 batch and later investor-network case.
 - [[HarjTaggar]], [[YuriMilner]], [[StartupLegitimacyTransfer]], and [[FounderInvestorLearning]] - investor-relations layer added by the Harj Taggar episode.
 - [[DrewHouston]], [[Dropbox]], [[ArashFerdowsi]], [[HackerNews]], and [[YCombinator]] - early YC-orbit and Y Scraper case added by the Drew Houston episode.
+- [[TomBlomfield]], [[GoCardless]], [[FounderIdeaPivot]], and [[YCombinator]] - Summer 2011 peer-benchmark and later partner case.
 - [[BuilderCenteredInstitutions]] and [[FounderInvestorLearning]] - institutional concepts connected to community design.
 - [[StartupAcceleratorBatchSelection]] - batch structure that creates the scaling problem.
 - [[StartupCommunityForumBurden]] and [[StartupEssayDistribution]] - open community cost and lower-governance distribution layer.

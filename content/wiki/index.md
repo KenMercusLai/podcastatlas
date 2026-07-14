@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Tom Blomfield on Monzo, YC, and Founder Lessons](sources/tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio.md) — The Social Radars episode with Tom Blomfield on GoCardless, Starling, Monzo, YC, in-house banking software, fraud response, funding crisis, burnout, succession, and ecosystem optimism.
 - [58.儒林外史：假如考公成了唯一出路](sources/58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859.md) — 蜜獾吃书 episode on 《儒林外史》, Wu Jingzi's gentle satire, Fan Jin and Zhou Jin, imperial-exam status hierarchy, group-portrait structure, and alternatives to credential-centered life.
 - [03.莱博维茨的赞歌：要有光，哪怕废土之上](sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687.md) — 蜜獾吃书 episode on 《莱博维茨的赞歌》, post-apocalyptic fiction, nuclear self-destruction, civilization preservation, science/religion tension, moral responsibility, and Walter M. Miller Jr.'s Monte Cassino trauma.
 - [160.优秀的绵羊：请把说“不”的权利还给我](sources/160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014.md) — 蜜獾吃书 episode on 《优秀的绵羊》, 《马蒂尔达》, education pressure, red pen logic, youth mental health, helicopter parenting, Ivy League meritocracy, and restoring the right to say no.
@@ -350,6 +351,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Tom Blomfield](entities/TomBlomfield.md) — Monzo co-founder, former CEO, and YC partner whose Social Radars episode links GoCardless, Starling, Monzo, founder agreements, fintech capital pressure, burnout, and ecosystem optimism.
+- [Monzo](entities/Monzo.md) — UK digital bank used as a case in in-house banking software, product delight, waitlist invitation growth, fraud response, regulatory capital pressure, and founder succession.
+- [GoCardless](entities/GoCardless.md) — YC Summer 2011 fintech company that pivoted from bill splitting toward B2B direct-debit infrastructure.
+- [Starling Bank](entities/StarlingBank.md) — Digital bank effort whose early conflict in Tom Blomfield's account became a founder-agreement and governance warning before Monzo began.
+- [Anne Boden](entities/AnneBoden.md) — Starling Bank founder figure in Tom Blomfield's account of informal agreements, authority conflict, and the Starling-to-Monzo split.
+- [Grouper](entities/Grouper.md) — Group-dating startup Tom Blomfield joined between GoCardless and Starling, used as a fast-growth but weak-repeat-usage product-fit caution.
+- [TS Anil](entities/TSAnil.md) — Monzo CEO successor after Tom Blomfield stepped away during the company's funding and burnout crisis.
+- [Passion Capital](entities/PassionCapital.md) — London venture investor named as part of GoCardless's post-YC financing alongside Accel.
 - [《儒林外史》](entities/RulinWaishi.md) — Qing-dynasty satirical novel read by 蜜獾吃书 as a group portrait of scholars, gentry, examination pressure, official status, and alternative forms of dignity.
 - [吴敬梓](entities/WuJingzi.md) — Author of 《儒林外史》, treated by the episode as an observer whose indirect satire exposes scholar society without simple denunciation.
 - [鲁迅](entities/LuXun.md) — Writer and critic whose praise frames the episode's account of 《儒林外史》 as a high point in Chinese satirical fiction.
@@ -2125,6 +2134,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Founder Agreement Documentation](concepts/FounderAgreementDocumentation.md) — Discipline of writing equity, role, authority, cash contribution, and company-formation promises before founder trust is tested by pressure.
+- [Fintech Regulatory Window](concepts/FintechRegulatoryWindow.md) — Period when rails, regulators, capital, and incumbent distrust align enough for new financial startups to enter banking or payments markets.
+- [In-House Banking Software](concepts/InHouseBankingSoftware.md) — Building banking, fraud, customer, and operational systems internally so product experience and risk response can move faster.
+- [Banking Product Delight](concepts/BankingProductDelight.md) — User trust and enthusiasm created when financial products make everyday money activity clearer, faster, and more human.
+- [Waitlist Invitation Growth](concepts/WaitlistInvitationGrowth.md) — Launch pattern where queue scarcity and invite privileges turn early access into user-driven distribution.
+- [Regulated Fintech Capital Pressure](concepts/RegulatedFintechCapitalPressure.md) — Funding burden created when financial startups must absorb licensing, compliance, fraud, support, and operating losses before maturity.
+- [Startup Ecosystem Optimism](concepts/StartupEcosystemOptimism.md) — Cultural belief that ambitious builders can create new value rather than only compete for fixed status.
 - [Imperial Examination As Only Exit](concepts/ImperialExaminationAsOnlyExit.md) — Pattern where one credential path monopolizes dignity, livelihood, marriage prospects, family standing, and official power.
 - [婉而多讽 / Gentle And Layered Satire](concepts/WanErDuoFeng.md) — Satirical style associated with 《儒林外史》, where indirect scene detail lets the reader infer institutional and moral criticism.
 - [Satirical Group Portrait](concepts/SatiricalGroupPortrait.md) — Narrative form where many partial lives and recurring figures accumulate into a map of a whole social field.

@@ -88,6 +88,8 @@ The source emphasizes how physical and improvised the early accelerator was. App
 
 [[tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio]] adds [[ChristinaCacioppo]] and [[Vanta]] as a Winter 2018 YC case. Christina chose YC because Vanta sold to startup founders and she wanted a supportive environment for learning sales. The batch turned compliance software into weekly accountability: pick a metric, sell two roughly $10,000 contracts per week, and use YC founder access to reach companies large enough to need [[SOC2Audit]].
 
+[[tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]] adds [[TomBlomfield]] as both a Summer 2011 founder and a later partner. For [[GoCardless]], Tom says YC's biggest value was the founder peer benchmark: strong batchmates made the team's weak bill-splitting traction obvious and helped force the pivot toward B2B direct-debit infrastructure. The later Monzo and partner sections extend YC into [[FounderRoleTransition]]: after [[Monzo]] and angel investing, Tom returned to help founders inside an institution that could carry legal, finance, and operational support.
+
 ## Connections
 - [[TrevorBlackwell]], [[PaulGraham]], [[JessicaLivingston]], and [[RobertMorris]] - founding and early application-review context in the episode.
 - [[JulianWeber]], [[SummerFoundersProgram]], [[HackerNews]], and [[StartupEssayDistribution]] - Graham episode context for the investor template, first program, community, and deal flow.
@@ -122,6 +124,7 @@ The source emphasizes how physical and improvised the early accelerator was. App
 - [[SamAltman]], [[Looped]], [[BlakeRoss]], [[FounderRiskCalibration]], [[Helion]], and [[FounderReputationRecovery]] - first-batch and YC-president account added by the Sam Altman episode.
 - [[DrewHouston]], [[Dropbox]], [[ArashFerdowsi]], [[TrevorBlackwell]], [[HackerNews]], and [[SyncReliabilityAsUX]] - Summer 2007 file-sync case added by the Drew Houston episode.
 - [[ChristinaCacioppo]], [[Vanta]], [[SOC2Audit]], [[ManualComplianceMVP]], [[FounderLedSales]], and [[AnnualUpfrontSaaSCashFlow]] - Winter 2018 compliance-automation case added by the Christina Cacioppo episode.
+- [[TomBlomfield]], [[GoCardless]], [[Monzo]], [[FounderIdeaPivot]], [[PaymentsInfrastructurePivot]], and [[StartupEcosystemOptimism]] - Summer 2011 founder and later YC partner case added by the Tom Blomfield episode.
 - [[Replit]], [[AmjadMasad]], [[Stoke]], [[PaulGross]], and [[VibeCoding]] - YC offsite branch added by the Paul Graham founder-mode source.
 - [[JakeHeller]], [[Casetext]], [[CoCounsel|Co-Counsel]], [[ThomsonReuters|Thomson Reuters]], and [[FrontierModelInflectionPivot]] - legal-AI founder-mode branch added by the Jake Heller source.
 - [[ChrisBest]], [[Substack]], [[BillBishop]], [[Sinocism]], [[SubstackNotes]], and [[StrategicMustWorkProductBet]] - creator-media founder-mode branch added by the Chris Best source.

@@ -2,8 +2,8 @@
 title: "Early Fintech Fraud Controls"
 type: concept
 tags: [fintech, fraud, startups, risk, compliance]
-sources: [socialradarspod-brianarmstrong-final, socialradarss2-billclerico-final]
-last_updated: 2026-07-11
+sources: [socialradarspod-brianarmstrong-final, socialradarss2-billclerico-final, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
+last_updated: 2026-07-14
 ---
 
 # Early Fintech Fraud Controls
@@ -14,15 +14,19 @@ The source treats fraud prevention as product infrastructure. Coinbase had to ma
 
 [[socialradarss2-billclerico-final]] adds the [[WePay]] version. [[BillClerico]] says the company initially reviewed transactions manually, but growth from [[GoFundMe]] and other API customers made that impossible. One fraud wave cost WePay about $500,000 in seven days, forcing the team to add automated review and bring in experienced risk talent.
 
+[[tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]] adds the [[Monzo]] banking version. [[TomBlomfield]] says any company handling money will face fraud, from stolen cards and ATM schemes to money laundering. Monzo's [[InHouseBankingSoftware]] let the team respond to new fraud patterns in about 24 hours, and an internal machine-learning system reportedly reduced fraud by about 99.5%.
+
 ## Key Claims
 - Fraud is existential for low-margin payment products because losses can compound faster than legitimate fee revenue.
 - Early risk systems can become a product advantage when they let the company offer higher limits or more reliable access.
 - Fraud controls need both technical signals and organizational checks, especially around support access and refund authority.
 - Financial startups often learn controls after near misses; the strategic question is whether the company survives long enough to institutionalize them.
 - Fraud controls become more urgent when a company pivots from a contained consumer product to infrastructure used by other high-growth platforms.
+- In-house control over banking systems can turn fraud response speed into a product and risk advantage.
 
 ## Connections
 - [[Coinbase]], [[BrianArmstrong]], [[Bitcoin]], and [[RegulatedCryptoTrustStrategy]] - source case.
 - [[WePay]], [[BillClerico]], [[GoFundMe]], and [[PaymentsInfrastructurePivot]] - payments-API case added by the Clerico episode.
+- [[Monzo]], [[TomBlomfield]], [[InHouseBankingSoftware]], and [[RegulatedFintechCapitalPressure]] - banking fraud-control case added by the Tom Blomfield episode.
 - [[AntiMoneyLaundering]], [[BankingKYCCompliance]], and [[AccountMisuseRisk]] - adjacent financial-risk concepts.
 - [[StartupGovernance]] and [[TrustAsBusinessAsset]] - control and trust context.

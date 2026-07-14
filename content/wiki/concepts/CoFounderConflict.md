@@ -2,8 +2,8 @@
 title: "Co-Founder Conflict"
 type: concept
 tags: [startups, founders, leadership, psychology]
-sources: [socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-brianarmstrong-final]
-last_updated: 2026-07-11
+sources: [socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-brianarmstrong-final, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
+last_updated: 2026-07-14
 ---
 
 # Co-Founder Conflict
@@ -16,6 +16,8 @@ The source is unusually explicit about the health cost. Tan describes the confli
 
 [[socialradarspod-brianarmstrong-final]] adds a faster-resolution version through [[BrianArmstrong]] and [[Coinbase]]. Armstrong applied to [[YCombinator]] with a hastily matched co-founder, then saw red flags and ended the relationship before incorporation and fundraising. [[PaulBuchheit]] advised that an early breakup would be easier than waiting until the company had more legal and financial entanglement.
 
+[[tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]] adds a disputed founding-relationship version through [[TomBlomfield]], [[AnneBoden]], and [[StarlingBank]]. Tom says informal equity expectations, personal cash support, firings, and volatile negotiations made the relationship untenable before most of the team regrouped to form [[Monzo]]. The case overlaps with [[FounderAgreementDocumentation]] because conflict becomes harder to resolve when roles and ownership are not written clearly.
+
 ## Key Claims
 - Co-founder harmony is not the same as co-founder health; avoiding hard conversations can hide unresolved strategic disagreement.
 - Conflict can become a product risk when founders cannot agree on what the market evidence means.
@@ -24,6 +26,7 @@ The source is unusually explicit about the health cost. Tan describes the confli
 - Early-team conflict can be made worse when one product has traction and the other side of a merger loses attention.
 - Avoided reconciliation can become part of a founder's long-term memory of the company, even after the company survives.
 - An early co-founder breakup can be a healthier outcome when the mismatch is visible before incorporation, fundraising, and equity commitments harden the relationship.
+- Conflict around a founding effort becomes more damaging when paperwork, cash contributions, and authority are ambiguous.
 
 ## Connections
 - [[GarryTan]] and [[Posterous]] - source case.
@@ -32,3 +35,4 @@ The source is unusually explicit about the health cost. Tan describes the confli
 - [[StartupTimingWindows]] - product timing pressure that made the disagreement harder.
 - [[LongLivedStartupDecisions]] - relationship consequences that can outlast the initial startup moment.
 - [[BrianArmstrong]], [[Coinbase]], and [[PaulBuchheit]] - early co-founder mismatch case added by the Armstrong episode.
+- [[TomBlomfield]], [[AnneBoden]], [[StarlingBank]], [[Monzo]], and [[FounderAgreementDocumentation]] - disputed founding-relationship case added by the Tom Blomfield episode.

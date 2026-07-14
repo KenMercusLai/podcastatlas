@@ -2,8 +2,8 @@
 title: "Startup Runway Discipline"
 type: concept
 tags: [startup, finance, operations, crisis]
-sources: [tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, socialradarspod-emmettshear-v2]
-last_updated: 2026-07-11
+sources: [tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, socialradarspod-emmettshear-v2, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
+last_updated: 2026-07-14
 ---
 
 # Startup Runway Discipline
@@ -16,6 +16,8 @@ The concept differs from generic frugality. In the Justin.tv case, discipline me
 
 [[tsr-s4-ericm-v2-tsr-s4-ericm-v2]] adds [[Pebble]] as a hardware version where runway discipline also includes inventory and debt structure. [[EricMigicovsky]] says the company had low burn and little fear when it was down to roughly $50,000 to $60,000 plus unsold inventory, but later venture debt covenants, excess stock, layoffs, and product deadlines made cash management much less flexible.
 
+[[tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]] adds [[Monzo]] as a regulated-bank version. [[TomBlomfield]] says Monzo was losing about $100 million a year before a COVID-era financing was pulled shortly before signing, forcing existing investors to fund the company at a discounted valuation. The case adds [[RegulatedFintechCapitalPressure]]: a bank's runway problem includes licensing, customer trust, fraud controls, and regulatory obligations.
+
 ## Key Claims
 - Runway discipline starts when founders can name the burn rate, runway, revenue levers, and operational assumptions in plain language.
 - A funding crisis can force better company learning if it makes the team connect product usage, monetization, expenses, and survival rather than treating fundraising as the only answer.
@@ -24,6 +26,7 @@ The concept differs from generic frugality. In the Justin.tv case, discipline me
 - Runway discipline complements [[FounderCashFlowConstraint]]: founder savings can buy early time, but company-level survival eventually needs revenue, cost control, or credible financing.
 - Revenue experiments and bill prioritization can turn an external funding crisis into a forced path toward cash-flow positive survival.
 - Hardware runway discipline has to count inventory, production commitments, support costs, and debt covenants, not only payroll burn and cash balance.
+- Regulated-fintech runway discipline has to count licensing delay, fraud losses, compliance, customer balances, and trust obligations alongside ordinary burn.
 
 ## Connections
 - [[JustinTV|Justin.tv]], [[Twitch]], [[EmmettShear]], [[JustinKan]], [[MichaelSeibel]], and [[KyleVogt]] - source case and team context.
@@ -31,3 +34,4 @@ The concept differs from generic frugality. In the Justin.tv case, discipline me
 - [[FounderCashFlowConstraint]], [[ProductLedWillingnessToPay]], [[CustomerPull]], and [[StartupGovernance]] - adjacent startup survival and operating concepts.
 - [[InvestorRiskNarrative]] - fundraising counterpart once the company has real metrics but still needs investors to understand upside.
 - [[Pebble]], [[HardwareInventoryRisk]], [[VentureDebtOperationalRisk]], and [[ConsumerHardwareStartupRisk]] - hardware runway branch added by the Eric Migicovsky episode.
+- [[Monzo]], [[TomBlomfield]], [[RegulatedFintechCapitalPressure]], and [[FounderHealthDebt]] - regulated-bank funding crisis branch.

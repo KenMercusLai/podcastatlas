@@ -2,8 +2,8 @@
 title: "Money Movement Infrastructure"
 type: concept
 tags: [fintech, payments, infrastructure]
-sources: [socialradarsseason2-dimitri-final, socialradarss2-billclerico-final, socialradarss2-stripe-v2]
-last_updated: 2026-07-11
+sources: [socialradarsseason2-dimitri-final, socialradarss2-billclerico-final, socialradarss2-stripe-v2, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
+last_updated: 2026-07-14
 ---
 
 # Money Movement Infrastructure
@@ -16,6 +16,8 @@ The concept matters because payment movement is not just a button in a product. 
 
 [[socialradarss2-stripe-v2]] adds [[Stripe]] as the developer-first payment-acceptance version. [[PatrickCollison]] and [[JohnCollison]] saw that app-store monetization was easier than web payments and built a programmable API surface for charging money online. This sharpens the concept boundary: Stripe's origin is about developer access to payment acceptance, while [[ModernTreasury]] emphasizes bank instructions, reconciliation, and financial-operations state.
 
+[[tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]] adds [[GoCardless]] as a direct-debit access case. [[TomBlomfield]] says customer interest in the bank-payment access behind a bill-splitting idea pushed the company toward B2B direct-debit infrastructure, placing GoCardless between consumer payment UX and deeper bank-rail coordination.
+
 ## Key Claims
 - Payment infrastructure becomes visible when manual bank portals, spreadsheets, statements, and team handoffs stop keeping up with transaction volume.
 - The user-facing payment action depends on bank connectivity, payment instructions, reconciliation, exception handling, and operational visibility.
@@ -23,11 +25,13 @@ The concept matters because payment movement is not just a button in a product. 
 - New payment rails can increase the need for software because faster settlement raises expectations for reliability, monitoring, and fallback behavior.
 - A consumer payments product can reveal an infrastructure business when other companies repeatedly ask for the underlying banking, fraud, and payment-operations layer.
 - Developer-first payment infrastructure can make money movement feel like software setup even when regulation, bank relationships, and risk controls remain underneath.
+- Direct-debit infrastructure can emerge when customers value reliable access to bank-payment rails more than the original consumer-facing payment product.
 
 ## Connections
 - [[ModernTreasury]], [[DimitriDadiomov]], and [[LendingHome]] - source company, founder, and origin pain.
 - [[WePay]], [[BillClerico]], [[RichAberman]], and [[GoFundMe]] - earlier payments-infrastructure pivot case.
 - [[Stripe]], [[PatrickCollison]], [[JohnCollison]], and [[DeveloperFirstPaymentInfrastructure]] - developer-first payment acceptance case.
+- [[GoCardless]], [[TomBlomfield]], and [[FintechRegulatoryWindow]] - direct-debit branch added by the Tom Blomfield source.
 - [[TrustHeavyInfrastructureSales]] - sales and adoption pattern for critical systems.
 - [[FinancialOperationsResilience]] and [[AcceleratedBankRuns]] - resilience concepts connected to banking operations.
 - [[FedNow]] - payment-rail future discussed in the source.

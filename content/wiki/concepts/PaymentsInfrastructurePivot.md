@@ -2,8 +2,8 @@
 title: "Payments Infrastructure Pivot"
 type: concept
 tags: [fintech, payments, startups, infrastructure, strategy]
-sources: [socialradarss2-billclerico-final, socialradarss2-stripe-v2]
-last_updated: 2026-07-11
+sources: [socialradarss2-billclerico-final, socialradarss2-stripe-v2, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
+last_updated: 2026-07-14
 ---
 
 # Payments Infrastructure Pivot
@@ -16,12 +16,15 @@ The episode's warning is about execution speed. Clerico says WePay changed gradu
 
 [[socialradarss2-stripe-v2]] sharpens the comparison by showing [[Stripe]] starting closer to the infrastructure thesis. The Collisons' "Slicehost for payments" framing treated developer setup, API control, and online payment acceptance as the product from the beginning, whereas [[WePay]] had to migrate there after weak consumer frequency and repeated platform requests exposed the deeper opportunity.
 
+[[tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]] adds [[GoCardless]] as a UK direct-debit version. [[TomBlomfield]] says the team began with a group bill-splitting idea, ignored [[BillClerico]]'s warning that bill splitting was bad, and then used [[YCombinator]] pressure plus customer interest in bank-payment access to pivot toward B2B payments infrastructure.
+
 ## Key Claims
 - A payments product can have real utility but still fail as a venture-scale consumer business if frequency and monetization are weak.
 - Repeated requests from other companies for operational help can reveal that the infrastructure beneath the product is more valuable than the original user-facing app.
 - Fraud, bank access, customer support, and reliability are not side issues in payments; they are core product infrastructure.
 - A strategic pivot in regulated infrastructure has to change positioning, staffing, risk systems, customer promises, and operational expectations together.
 - Stripe's origin shows the non-pivot version of the same market: a company can start directly from the developer infrastructure layer if the founders identify payment acceptance as the product surface early enough.
+- GoCardless shows that the pivot can also move from consumer bill splitting into direct-debit infrastructure when the banking access beneath the product is what customers actually want.
 
 ## Connections
 - [[WePay]], [[BillClerico]], and [[RichAberman]] - source company and founders.
@@ -30,3 +33,4 @@ The episode's warning is about execution speed. Clerico says WePay changed gradu
 - [[CustomerPull]], [[JankyMVP]], and [[UnscalableFounderWork]] - validation and manual-operating patterns that preceded the pivot.
 - [[ModernTreasury]] - later fintech infrastructure case in the wiki with a cleaner money-movement thesis from the start.
 - [[Stripe]], [[PatrickCollison]], [[JohnCollison]], and [[DeveloperFirstPaymentInfrastructure]] - comparison case where the infrastructure thesis was present at origin.
+- [[GoCardless]], [[TomBlomfield]], [[BillClerico]], and [[FintechRegulatoryWindow]] - direct-debit infrastructure pivot added by the Tom Blomfield source.
