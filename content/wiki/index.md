@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [vol.109. FOF派VS指数派，关于个人养老金账户该配什么的一场辩论](sources/vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x.md) — 起朱楼宴宾客 episode on personal pension accounts, index funds versus FOF, target-date funds, tax-preferred long-term contribution discipline, and retirement-account portfolio suitability.
 - [vol.108.日本五大综合商社：重返舞台中央](sources/vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq.md) — 起朱楼宴宾客 episode on Japanese sogo shosha, the five major trading companies, keiretsu, business investment, low-equity commercial rights, and why deglobalization may restore intermediary value.
 - [vol.107.85后提问95后：如果事情不需要做选择，那我就装尸体旁观](sources/vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa.md) — 起朱楼宴宾客 episode with 大卫翁 and Siri on 95后 attention boundaries, youth "corpse mode", work-life separation, controllable life anchors, finance-career judgment, and relationship optionality.
 - [vol.106.迪拜，真的遍地是黄金？](sources/vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8.md) — 起朱楼宴宾客 episode on Dubai and Abu Dhabi as business, capital-flow, real-estate, golden-visa, crypto, high-end-service, and Chinese outbound-market opportunity cases, with strong due-diligence caveats.
@@ -408,6 +409,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [蒋华安 / Jiang Huaan](entities/JiangHuaan.md) — Vol.109 guest arguing that personal pension account products should be chosen by retirement horizon, risk fit, allocation discipline, and institutional quality rather than simple FOF-versus-index labels.
 - [Mitsubishi Corporation / 三菱商事](entities/MitsubishiCorporation.md) — Japanese sogo shosha used by vol.108 as a food-supply-chain and keiretsu-linked trading-company infrastructure case.
 - [Mitsui & Co. / 三井物产](entities/MitsuiAndCo.md) — Japanese sogo shosha used by vol.108 to explain steel-chain integration, metals/energy diversification, and commercial information networks.
 - [Itochu / 伊藤忠商事](entities/Itochu.md) — Japanese sogo shosha with textile and retail roots, China-trade history, sanpo-yoshi ethics, and the FamilyMart integration case.
@@ -2545,6 +2547,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Personal Pension Account / 个人养老金账户](concepts/PersonalPensionAccount.md) — Tax-preferred retirement-account wrapper where product choice must fit retirement date, contribution rhythm, risk tolerance, and long-term holding discipline.
+- [Target-Date Fund / 目标日期基金](concepts/TargetDateFund.md) — Retirement-year fund structure that uses a glide path to adjust equity risk as the target retirement date approaches.
 - [Japanese Sogo Shosha / 日本综合商社](concepts/JapaneseSogoShosha.md) — Japanese general trading-company model combining trade, financing, information, logistics, investment, global offices, and long-term supply-chain relationships.
 - [Keiretsu Business Groups / 系列](concepts/KeiretsuBusinessGroups.md) — Japanese business-group networks of banks, trading companies, manufacturers, insurers, cross-shareholding, and long-term relationships.
 - [Trading Company Investment Model](concepts/TradingCompanyInvestmentModel.md) — Shift from pure trade margin to business investment, supply-chain coordination, commercial access, and stable operating returns.

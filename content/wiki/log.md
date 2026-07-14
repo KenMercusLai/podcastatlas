@@ -3244,3 +3244,11 @@ Added source page for the 起朱楼宴宾客 episode on Japanese sogo shosha, th
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 4,225 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider key variables are present in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-15] ingest | vol.109. FOF派VS指数派，关于个人养老金账户该配什么的一场辩论
+
+Added source page for the 起朱楼宴宾客 episode on personal pension accounts, index funds versus FOF, target-date funds, contribution discipline, retirement-horizon allocation, and choosing pension products by investor fit rather than product-camp identity. Created pages for 蒋华安, Personal Pension Account, and Target-Date Fund; updated overview, index, 起朱楼宴宾客, FOF Product Design, Asset Allocation, Passive Investing, Portfolio Suitability, Investment Risk Management, and Drawdown Psychology. No direct contradiction found; the source complements vol.105's portfolio-suitability branch and E158's FOF product-design branch by applying them to tax-preferred retirement accounts.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

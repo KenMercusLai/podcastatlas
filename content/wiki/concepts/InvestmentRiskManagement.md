@@ -35,6 +35,7 @@ sources:
   - vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl
   - vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90
   - vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe
+  - vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x
 last_updated: 2026-07-15
 ---
 
@@ -49,6 +50,8 @@ Investment risk management is the practical bridge from market uncertainty to or
 [[vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]] adds the Hong Kong retail-stock-picking survival version: risk management must begin before the buy order with old-thousand-stock avoidance, management-alignment checks, sell-side incentive skepticism, liquidity-exit sizing, and willingness to use [[StopLossDiscipline]] when a thesis breaks.
 
 [[vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]] adds the portfolio-suitability version: risk management means matching the portfolio to both the market environment and the investor's own goals, [[CircleOfCompetence]], liquidity needs, and sleep-at-night boundary. It also adds [[InvestmentCooldownDiscipline]] as a concrete process for slowing large decisions and limiting turnover before short-term news becomes a portfolio rebuild.
+
+[[vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x]] adds the pension-account version: risk management inside a [[PersonalPensionAccount|个人养老金账户]] means matching tax benefit, contribution rhythm, retirement date, product type, and drawdown holdability. The source treats low-fee index funds, FOF, and [[TargetDateFund|target-date funds]] as different risk paths rather than as universally ranked products.
 
 [[e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc]] adds the multi-asset product version: risk management includes the client's maximum drawdown, path volatility, product comprehension, [[AssetCorrelation]], and whether tactical macro views stay inside a defined allocation sleeve.
 
@@ -150,6 +153,7 @@ Investment risk management is the practical bridge from market uncertainty to or
 - Portfolio suitability is itself risk management: an asset can be reasonable in abstract but wrong for a person whose goal, liquidity need, competence boundary, or drawdown tolerance does not fit.
 - Large allocation changes should require friction through [[InvestmentCooldownDiscipline]], especially when the trigger is a social-media headline or a sudden macro narrative.
 - [[AdaptivePortfolioDesign]] favors diverse and liquid enough structures over repeated all-in or all-out regime calls by ordinary investors.
+- Pension-account risk management should evaluate whether the investor can hold direct [[PassiveInvesting|index beta]] or needs FOF and [[TargetDateFund|target-date]] discipline to stay aligned with retirement goals.
 
 ## Connections
 - [[JimSimons]] — source's voice for the principle.
@@ -189,3 +193,4 @@ Investment risk management is the practical bridge from market uncertainty to or
 - [[HumanRiskOverride]], [[ShortTermStatisticalArbitrage]], [[QuantitativeDataMoat]], [[AlphaDecay]], [[RenaissanceTechnologies]], and [[MedallionFund]] — vol.103's professional-quant survival extension.
 - [[HongKongRetailInvestorSurvival]], [[HongKongPennyStockRisk]], [[HongKongLiquidityExitRisk]], [[ManagementShareholderAlignmentRisk]], [[SellSideResearchIncentives]], [[AHShareDiscountRepricing]], [[HongKongIPOLiquidityPath]], and [[HongKongTripleRerating]] — vol.104's Hong Kong retail-stock-picking survival cluster.
 - [[PortfolioSuitability]], [[AdaptivePortfolioDesign]], [[InvestmentCooldownDiscipline]], and [[CircleOfCompetence]] — vol.105's portfolio-fit, liquidity, and behavioral-process cluster.
+- [[PersonalPensionAccount|个人养老金账户]], [[TargetDateFund|目标日期基金]], [[FOFProductDesign]], and [[PassiveInvesting]] — vol.109's pension-account risk and product-choice cluster.

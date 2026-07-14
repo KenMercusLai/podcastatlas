@@ -2,8 +2,8 @@
 title: "Passive Investing"
 type: concept
 tags: [investing, index-funds]
-sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]
-last_updated: 2026-07-09
+sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x]
+last_updated: 2026-07-15
 ---
 
 # Passive Investing
@@ -15,6 +15,8 @@ Passive investing is the episode's main recommendation for ordinary investors wh
 [[e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc]] reframes passive investing through [[InvestmentEdge]]: the strongest feature of index investing may be that it begins by admitting the investor has no special edge. The source still requires checking whether the chosen index has durable beta, valuation support, and a tolerable holding path.
 
 [[e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc]] adds the portfolio-construction version. It starts from a simple [[SixtyFortyPortfolio]] and then asks whether factor or asset substitutions such as [[FreeCashFlowIndexing]] improve the [[EfficientFrontier]] through higher expected return or lower [[AssetCorrelation]].
+
+[[vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x]] adds the pension-account version. Index funds entering the [[PersonalPensionAccount|个人养老金账户]] product list gives investors a low-fee and relatively transparent route, but the episode stresses that direct index exposure still requires the investor to understand and hold market beta; passive tools can also sit underneath a [[FOFProductDesign|FOF]] or [[TargetDateFund|target-date]] structure.
 
 [[e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy]] adds the Hong Kong exception case. It argues that some Hong Kong ETF products are better understood as volatility and elasticity tools than as full passive substitutes for broad, diversified long-term exposure because [[HongKongMarketStructure]] has thinner ETF coverage, more segmented liquidity, and sharper drawdown paths.
 
@@ -39,6 +41,7 @@ Passive investing is the episode's main recommendation for ordinary investors wh
 - E144 adds that index-like exposure can be a mechanical way to stay exposed to winners that were not identifiable in advance.
 - E43 adds that broad passive exposure is a humble response to fat tails: it captures some upside concentration without requiring professional [[TailRiskHedging]].
 - The SpaceX segment adds that passive investing can inherit single-name IPO and valuation risk through benchmark inclusion.
+- Vol.109 adds that in pension accounts, low fees and transparency are advantages but do not remove the need for retirement-horizon allocation and drawdown holdability.
 
 ## Connections
 - [[InvestmentRiskManagement]] — practical reason for favoring broad, automated exposure.
@@ -52,3 +55,4 @@ Passive investing is the episode's main recommendation for ordinary investors wh
 - [[HangSengTechIndex]] and [[HongKongMarketStructure]] — E159's warning that Hong Kong ETFs may function more as tactical beta tools than core passive holdings.
 - [[DiversificationAlpha]] and [[NoPredictionTrading]] — E144's reason broad exposure can reduce dependence on winner prediction.
 - [[MengYan]], [[FatTailRisk]], and [[TailRiskHedging]] — E43's ordinary-investor interpretation of fat-tail return concentration.
+- [[PersonalPensionAccount|个人养老金账户]], [[TargetDateFund|目标日期基金]], and [[FOFProductDesign]] — vol.109's pension-account comparison between direct beta and managed allocation products.
