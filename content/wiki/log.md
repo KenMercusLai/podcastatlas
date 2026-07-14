@@ -3045,6 +3045,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-15] ingest | 151.早安,怪物：祝你战胜恐惧，祝你获得康复
+
+Added source page for the 蜜獾吃书 episode on Catherine Gildiner's 《早安，怪物》, psychotherapy, complex trauma, parentification, trauma numbing, Indigenous residential-school trauma, shame-based self-concept, therapeutic boundaries, and countertransference risk. Created pages for 《早安，怪物》 / Good Morning, Monster, Catherine Gildiner, Parentification, Trauma Numbing, Shame-Based Self-Concept, Therapy Relationship And Boundaries, Countertransference Boundary Risk, and Indigenous Residential School Trauma; updated overview, index, 蜜獾吃书, Complex Trauma Recognition, Traumatic Attachment, and Unfawning Boundary Practice. No direct contradiction found; source-level illness symbolism was kept as interpretation rather than medical causality.
+
 ## [2026-07-15] ingest | vol.103.文艺复兴科技西蒙斯的封神之路：是量化之王，更是洞察人性的大师
 
 Added source page for the 起朱楼宴宾客 episode on Jim Simons, Renaissance Technologies, Medallion Fund, Money Metrics, data collection, short-horizon quant trading, single-model integration, IBM speech-recognition hires, LTCM comparison, alpha decay, and human risk override. Created pages for Leonard Baum, James Ax, Sandor Straus, Elwyn Berlekamp, Henry Laufer, Peter Brown, Robert Mercer, Quantitative Data Moat, Short-Term Statistical Arbitrage, Human Risk Override, and Alpha Decay; updated overview, index, 起朱楼宴宾客, Jim Simons, Renaissance Technologies, Medallion Fund, Long-Term Capital Management, Quantitative Investing, Investment Risk Management, Market Efficiency, Financial Model Risk, and Kelly Criterion. No direct contradiction found; the source complements EP88 by replacing the fictional interview/practical-advice angle with a historical and organizational account of how Renaissance's machine depended on data, talent, execution, capacity limits, and human risk judgment.
@@ -3268,3 +3272,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 4,269 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.

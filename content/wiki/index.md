@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [151.早安,怪物：祝你战胜恐惧，祝你获得康复](sources/151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286.md) — 蜜獾吃书 episode on 《早安，怪物》, Catherine Gildiner, psychotherapy, complex trauma, parentification, trauma numbing, Indigenous residential-school trauma, shame-based identity, therapeutic boundaries, and countertransference risk.
 - [150.吃菌！和阿错聊云南的鸡枞、松茸、见手青](sources/150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165.md) — 蜜獾吃书 episode with 阿错 on Yunnan mushroom season, wild-mushroom food safety, chicken termite mushroom, matsutake, jianshouqing, ganba mushroom, foraging ethics, 《苍城》, the Tea Horse Road, and nature contact.
 - [171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感](sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962.md) — 蜜獾吃书 episode using the zodiac horse to connect religion, mythology, domestication, war, trade, language, 大理甲马, 马疗, and Elden Ring-style pop-cultural motif afterlives.
 - [vol.109. FOF派VS指数派，关于个人养老金账户该配什么的一场辩论](sources/vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x.md) — 起朱楼宴宾客 episode on personal pension accounts, index funds versus FOF, target-date funds, tax-preferred long-term contribution discipline, and retirement-account portfolio suitability.
@@ -411,6 +412,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《早安，怪物》 / Good Morning, Monster](entities/GoodMorningMonster.md) — Catherine Gildiner psychotherapy memoir used by episode 151 to connect complex trauma, shame identity, recovery, and clinical-boundary reflection.
+- [Catherine Gildiner](entities/CatherineGildiner.md) — Canadian psychotherapist and author of 《早安，怪物》, discussed through case reconstruction, therapeutic intimacy, countertransference, and boundary repair.
 - [李飘 / Li Piao](entities/LiPiao.md) — 蜜獾吃书 host in episode 150, steering the Yunnan mushroom conversation across food safety, tourism, 《苍城》, and nature contact.
 - [阿错 / Acuo](entities/ACuo.md) — Yunnan writer and author of 《苍城》, grounding episode 150 in local mushroom knowledge, mountain customs, Tea Horse Road memory, and place-based fiction.
 - [《苍城》](entities/Cangcheng.md) — 阿错 novel discussed through Yunnan fungi, altered perception, horse transport, women muleteers, Lijiang memory, and morally complex characters.
@@ -2568,6 +2571,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Parentification / 亲职化](concepts/Parentification.md) — Childhood pattern where a child is forced into adult caregiving or survival responsibility, grounding Laura's shame and later over-rescuing in episode 151.
+- [Trauma Numbing](concepts/TraumaNumbing.md) — Survival state where functioning continues by blocking grief, fear, anger, or bodily distress, visible in Laura and Danny's cases.
+- [Shame-Based Self-Concept](concepts/ShameBasedSelfConcept.md) — Pattern where injury and need become interpreted as proof that the self is bad, monstrous, or undeserving of care.
+- [Therapy Relationship And Boundaries](concepts/TherapyRelationshipAndBoundaries.md) — Clinical frame for how trust, care, setting, pacing, and role limits protect trauma therapy.
+- [Countertransference Boundary Risk](concepts/CountertransferenceBoundaryRisk.md) — Risk that a therapist's own emotional history bends treatment decisions, made explicit by Gildiner's Madeline case.
+- [Indigenous Residential School Trauma](concepts/IndigenousResidentialSchoolTrauma.md) — Trauma frame for forced family separation, language punishment, abuse, and cultural rupture in colonial schooling systems.
 - [Yunnan Wild Mushroom Culture](concepts/YunnanWildMushroomCulture.md) — Episode 150 frame for seasonal mushroom eating as a system of taste, safety, local names, household rules, ecology, price, and local knowledge.
 - [Wild Mushroom Food Safety](concepts/WildMushroomFoodSafety.md) — Safety frame from episode 150 warning against romanticizing mushroom poisoning as harmless hallucination or internet entertainment.
 - [Foraging Ethics](concepts/ForagingEthics.md) — Boundary around gathering from mountains and mushroom habitats without damaging recurring resources, nests, hives, or local ecosystems.
