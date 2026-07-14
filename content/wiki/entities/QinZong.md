@@ -1,8 +1,8 @@
 ---
 title: "秦总"
 type: entity
-tags: [host, books, career, life-design, caregiving, reading, publishing]
-sources: [172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308, 46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
+tags: [host, books, career, life-design, caregiving, reading, publishing, animal-welfare]
+sources: [176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308, 46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
 last_updated: 2026-07-15
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-15
 秦总 is a [[MihuanChishu|蜜獾吃书]] host and one of the three voices in [[ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425]]. In the episode, she says she has worked in overseas engineering, a state-system role, and editing before arriving at her current media/book context.
 
 Her life-restart answers give the source much of its emotional weight. She first names a high-school "Lemon Tree" performance embarrassment, then later connects her childhood loss of her mother to a long wish to have a daughter and a missed chance to walk with her mother before her death. By the end, she reframes the episode around love as a human capacity: loving others, oneself, the world, and pets.
+
+[[176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]] adds QinZong's animal-welfare interviewer role. She frames the episode around the tension between liking animals, eating meat, and retaining "不忍之心", then guides [[ZhuGe|猪哥 / 猪场严选]] toward practical links among [[FoodAnimalWelfare]], [[LivestockWorkerMoralInjury]], [[SlaughterWelfare]], and consumer choice.
 
 [[172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860]] adds QinZong's luck-and-action framework. She uses her own path from overseas engineering into editing, Carl Sagan-related books, and meeting [[Beimin|北明]] to illustrate [[LuckAsInformationBandwidth]], while also turning "避雷" posts, publishing projects, and small daily changes into examples of [[LowCostExperimentation]] and [[WeakTieOpportunity]].
 
@@ -37,6 +39,7 @@ Her life-restart answers give the source much of its emotional weight. She first
 ## Connections
 
 - [[MihuanChishu|蜜獾吃书]] and [[Ritan|日谈]] - show and crossover context.
+- [[176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]], [[ZhuGe|猪哥 / 猪场严选]], and [[FoodAnimalWelfare]] - animal-welfare interview branch.
 - [[Flatland|《平面国》 / Flatland]], [[FeiBi|菲比]], and [[DimensionalAllegory]] - episode 40's editor/translator conversation around dimensional satire.
 - [[Hookie]] and [[YinJie|殷姐]] - conversation partners.
 - [[MotherDaughterReconciliation]] - mother-loss and becoming-oneself thread.

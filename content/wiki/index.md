@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [176.为什么越是吃肉，越要关注动物福利？](sources/176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722.md) — 蜜獾吃书 episode with 猪哥/猪场严选 on food-animal welfare, livestock-worker moral injury, slaughter methods, welfare labeling, pork and egg misconceptions, and practical consumer feedback.
 - [175.女性卫生用品的社会史：比想象中更精彩！](sources/175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044.md) — 蜜獾吃书 episode on the social history of menstrual products, menstrual stigma, Anne sanitary napkins, commercial menstrual education, public access, period poverty, and sanitary-product consumer history.
 - [174.读笛卡尔，是件大事](sources/174-du-dikaer-shi-jian-dashi-966856702.md) — 蜜獾吃书 episode on Rene Descartes, 《谈谈方法》, methodic doubt, 我思故我在, Cartesian dualism, Princess Elisabeth's objections, rationalist method, and AI-era thinking versus calculation.
 - [173.弹劾：如何罢免一位总统](sources/173-tanhe-ruhe-bamian-yiwei-zongtong-963141809.md) — 蜜獾吃书 episode using Cass Sunstein to explain U.S. presidential impeachment, high crimes and misdemeanors, the 25th Amendment, presidential-vs-parliamentary design, and constitutional robustness.
@@ -390,6 +391,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [猪哥 / 猪场严选](entities/ZhuGe.md) — Pork-industry insider and creator from episode 176 who links animal welfare, slaughter methods, consumer education, and livestock-worker moral injury.
 - [《女性卫生用品的社会史》](entities/JoseiEiseiYouhinNoShakaishi.md) — Tanaka Hikari book used by episode 175 to frame menstrual products as gendered material and social history.
 - [田中光](entities/TanakaHikari.md) — Japanese scholar whose book anchors the episode's discussion of sanitary products, stigma, and public menstrual knowledge.
 - [板井太子](entities/ItaiTaeko.md) — Founder figure behind Anne sanitary napkins, presented as a female user-insight case in postwar Japan.
@@ -2419,6 +2421,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Food Animal Welfare](concepts/FoodAnimalWelfare.md) — Harm-reduction frame for animals raised for meat, eggs, and food products inside real affordability, labor, welfare, and consumer constraints.
+- [Livestock Worker Moral Injury](concepts/LivestockWorkerMoralInjury.md) — Psychological and ethical strain on farm, transport, euthanasia, and slaughter workers who must harm animals they also care for.
+- [Slaughter Welfare](concepts/SlaughterWelfare.md) — Reducing fear, pain, rough handling, and worker burden at the point where food animals are killed.
+- [Animal Welfare Product Labeling](concepts/AnimalWelfareProductLabeling.md) — Consumer-facing disclosure of slaughter method, housing, egg size, or other welfare-relevant production details.
 - [Menstrual Product Social History](concepts/MenstrualProductSocialHistory.md) — Frame for reading sanitary pads, tampons, menstrual cups, belts, cotton, packaging, and disposal as gendered social infrastructure.
 - [Menstrual Stigma](concepts/MenstrualStigma.md) — Pattern where menstruation is treated as dirty, dangerous, shameful, unlucky, or unspeakable, shaping knowledge and access.
 - [Gendered Medicalization](concepts/GenderedMedicalization.md) — Medical-language pattern where bodily knowledge improves while women's menstruation is also pathologized or used to restrict activity.

@@ -171,6 +171,10 @@
     "title": "175.女性卫生用品的社会史：比想象中更精彩！",
     "url": "/wiki/sources/175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044/"
   },
+  "176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722": {
+    "title": "176.为什么越是吃肉，越要关注动物福利？",
+    "url": "/wiki/sources/176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722/"
+  },
   "184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010": {
     "title": "184.真实于我有万钧之重：欢迎侠女阿娇",
     "url": "/wiki/sources/184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010/"
@@ -1486,6 +1490,10 @@
   "AnimalWelfareAsPublicHealth": {
     "title": "Animal Welfare As Public Health",
     "url": "/wiki/concepts/animalwelfareaspublichealth/"
+  },
+  "AnimalWelfareProductLabeling": {
+    "title": "Animal Welfare Product Labeling",
+    "url": "/wiki/concepts/animalwelfareproductlabeling/"
   },
   "AnitaRamaswamy": {
     "title": "Anita Ramaswamy",
@@ -5215,6 +5223,10 @@
     "title": "Folk Religion Disaster Politics",
     "url": "/wiki/concepts/folkreligiondisasterpolitics/"
   },
+  "FoodAnimalWelfare": {
+    "title": "Food Animal Welfare",
+    "url": "/wiki/concepts/foodanimalwelfare/"
+  },
   "FoodInflation": {
     "title": "Food Inflation",
     "url": "/wiki/concepts/foodinflation/"
@@ -8106,6 +8118,10 @@
   "LivestockCareEconomics": {
     "title": "Livestock Care Economics",
     "url": "/wiki/concepts/livestockcareeconomics/"
+  },
+  "LivestockWorkerMoralInjury": {
+    "title": "Livestock Worker Moral Injury",
+    "url": "/wiki/concepts/livestockworkermoralinjury/"
   },
   "LixinAccounting": {
     "title": "立信会计",
@@ -12075,6 +12091,10 @@
     "title": "Slashdot",
     "url": "/wiki/entities/slashdot/"
   },
+  "SlaughterWelfare": {
+    "title": "Slaughter Welfare",
+    "url": "/wiki/concepts/slaughterwelfare/"
+  },
   "SlowProductMarketFit": {
     "title": "Slow Product Market Fit",
     "url": "/wiki/concepts/slowproductmarketfit/"
@@ -14778,6 +14798,10 @@
   "ZhuBajie": {
     "title": "猪八戒",
     "url": "/wiki/entities/zhubajie/"
+  },
+  "ZhuGe": {
+    "title": "猪哥 / 猪场严选",
+    "url": "/wiki/entities/zhuge/"
   },
   "ZhuNing": {
     "title": "朱宁 / Zhu Ning",

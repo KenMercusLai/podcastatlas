@@ -2,8 +2,8 @@
 title: "Xiaohongshu"
 type: entity
 tags: [platform, social-media, community]
-sources: [63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7lsklr3vmtbc4l-p, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, vol-264-ba-shijiebei-zuowei-fangfa-999416048]
-last_updated: 2026-07-14
+sources: [63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7lsklr3vmtbc4l-p, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500, vol-264-ba-shijiebei-zuowei-fangfa-999416048, 176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]
+last_updated: 2026-07-15
 ---
 
 # Xiaohongshu
@@ -28,6 +28,8 @@ The source frames Xiaohongshu less as a conventional startup demo day host and m
 
 [[vol-264-ba-shijiebei-zuowei-fangfa-999416048]] adds Xiaohongshu as a 2026 [[FIFAWorldCup]] rights buyer alongside [[Migu]]. The episode interprets this as a possible [[SportsRightsGrowthEngine]] move: live rights, clips, secondary creation, and football memes may help the platform broaden male participation, lift daily activity, and show growth capacity.
 
+[[176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]] adds Xiaohongshu as an applied food-system education surface through [[ZhuGe|猪哥 / 猪场严选]]. The episode presents the platform as where a livestock-industry insider can explain pork, [[FoodAnimalWelfare]], [[AnimalWelfareProductLabeling]], and consumer misconceptions in a more public-facing style than ordinary industry communication.
+
 ## Connections
 - [[XiaohongshuHackathonPeakCompetition]] — event organized around AI-era builders.
 - [[ProductContainer]], [[Douyin]], and [[TikTok]] — container-fit comparison added by the Musical.ly/TikTok source.
@@ -42,4 +44,5 @@ The source frames Xiaohongshu less as a conventional startup demo day host and m
 - [[TourismTrafficMismatch]] and [[CityCommercialObservation]] — city-commerce layer added by the anniversary source.
 - [[NetEaseKaola]], [[Yangmatou]], [[ChineseEcommercePlatformHistory]], and [[PlatformDependencyRisk]] — cross-border and content-commerce context added by Banlatte episode 200.
 - [[FIFAWorldCup]], [[ChinaCentralTelevision]], [[Migu]], and [[SportsRightsGrowthEngine]] — World Cup rights and platform-growth extension added by Vol.264.
+- [[ZhuGe|猪哥 / 猪场严选]], [[FoodAnimalWelfare]], and [[AnimalWelfareProductLabeling]] — food-system education extension added by episode 176.
 - [[InformationGapAnxiety]] — self-improvement comparison pressure added by episode 63.

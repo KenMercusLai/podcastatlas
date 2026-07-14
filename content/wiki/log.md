@@ -3100,3 +3100,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-15] ingest | 176.为什么越是吃肉，越要关注动物福利？
+
+Added source page for the 蜜獾吃书 episode with 猪哥/猪场严选 on food-animal welfare, meat-eater responsibility, livestock-worker moral injury, slaughter and euthanasia methods, welfare product labeling, pork and egg consumer misconceptions, and practical consumer feedback. Created pages for 猪哥/猪场严选, Food Animal Welfare, Livestock Worker Moral Injury, Slaughter Welfare, and Animal Welfare Product Labeling; updated overview, index, 蜜獾吃书, 秦总, Xiaohongshu, Animal Welfare As Public Health, Livestock Care Economics, Agricultural Systems Reality, and Empathy Circle Expansion. No direct contradiction found; the source extends companion-animal and farm-system pages into Chinese food-animal production while flagging unsupported animal-welfare claims as a trust risk.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

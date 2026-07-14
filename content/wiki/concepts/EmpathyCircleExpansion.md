@@ -2,8 +2,8 @@
 title: "Empathy Circle Expansion"
 type: concept
 tags: [empathy, ethics, animal-welfare, social-norms]
-sources: [jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]
-last_updated: 2026-07-14
+sources: [jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065, 176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]
+last_updated: 2026-07-15
 ---
 
 # Empathy Circle Expansion
@@ -18,6 +18,8 @@ The concept appears when the episode contrasts empathy with pity, criticizes col
 
 [[39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]] adds a weaker-being test through [[Brenin|布列宁]] and [[EvilAsResponsibilityFailure]]. The source contrasts human cruelty toward laboratory dogs and abused children with the wolf's refusal to bully smaller animals, making empathy less a sentiment than a discipline of noticing who is helpless and who is responsible.
 
+[[176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]] adds a meat-eater's version through [[FoodAnimalWelfare]]. The episode argues that continuing to eat meat does not require mocking or ignoring farm-animal suffering, and that empathy should also include the workers who absorb the killing, confinement, and handling burden on behalf of consumers.
+
 ## Key Claims
 - Empathy differs from pity because it asks a person to understand and respond rather than merely look down from safety.
 - Othering reduces the ability to perceive pain as morally relevant.
@@ -26,11 +28,13 @@ The concept appears when the episode contrasts empathy with pity, criticizes col
 - Empathy can also be an aesthetic and experiential capacity because it makes more lives, contexts, and forms of care perceptible.
 - Stories can widen the empathy circle when they make distant or unlike people concrete enough to understand.
 - The treatment of beings who cannot explain, bargain, or retaliate is a sharper empathy test than declared moral identity.
+- Practical empathy can be proportional: people with limited budgets can avoid moral self-punishment while still supporting clearer welfare information and less cruel practices when possible.
 
 ## Connections
 - [[AnimalWelfareAsPublicHealth]] - public-health application of the moral frame.
 - [[AnimalAbuseViolenceLink]] - failure mode when empathy is broken or mocked.
 - [[CompanionAnimalHealth]] - everyday relationship version of cross-species empathy.
+- [[FoodAnimalWelfare]] and [[LivestockWorkerMoralInjury]] - meat-eating and industry-worker extension added by episode 176.
 - [[FixedHumanNaturePolitics]] - adjacent political-theory warning against collapsing beings into fixed categories.
 - [[PureRationalityTrap]] - adjacent warning against reason stripped of affection and mercy.
 - [[EmpathyAsAestheticCapacity]], [[MidlifeAsGift]], and [[ReadingAsLifeExperience]] - episode 63's extension into age, literature, and interpersonal understanding.

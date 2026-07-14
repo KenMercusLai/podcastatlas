@@ -2,8 +2,8 @@
 title: "Animal Welfare As Public Health"
 type: concept
 tags: [animal-welfare, public-health, empathy, violence-prevention]
-sources: [56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301]
-last_updated: 2026-07-14
+sources: [56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301, 176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]
+last_updated: 2026-07-15
 ---
 
 # Animal Welfare As Public Health
@@ -12,11 +12,14 @@ Animal welfare as public health is the claim in [[56-bansheng-shijie-popolanlan-
 
 The concept has two sides. [[CompanionAnimalHealth]] shows how animals support people through care, attachment, responsibility, touch, and nonjudgmental presence. [[AnimalAbuseViolenceLink]] shows the opposite: cruelty can train domination, break empathy, and create social permission for enjoying another being's pain.
 
+[[176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]] extends the concept from companion animals into [[FoodAnimalWelfare]]. The episode argues that farm-animal welfare also has public-health dimensions because slaughter, confinement, euthanasia, rough handling, food trust, antibiotic use, and [[LivestockWorkerMoralInjury]] can affect workers, consumers, and environmental exposure.
+
 ## Key Claims
 - Human and animal well-being can be intertwined enough that separating them produces worse human outcomes.
 - Disaster evacuation, domestic-violence shelters, child therapy, PTSD support, homelessness services, and criminal-risk assessment can all become animal-welfare contexts.
 - The public-health case does not require every person to love animals; it requires a norm against needless cruelty and spectacle.
 - Reducing animal suffering can be treated as social harm reduction even where human use of animals has not ended.
+- Food-animal welfare can also be public health when low-welfare systems transfer psychological, environmental, and food-quality costs to humans.
 
 ## Connections
 - [[OurSymphonyWithAnimals|《伴生》 / Our Symphony with Animals]] and [[AyshaAkhtar|Aysha Akhtar / 阿依莎·阿赫塔]] - source book and author.
@@ -25,3 +28,4 @@ The concept has two sides. [[CompanionAnimalHealth]] shows how animals support p
 - [[PetInclusiveDisasterResponse]] and [[DomesticViolencePetCoercion]] - public-system cases.
 - [[AnimalAbuseViolenceLink]] and [[EmpathyCircleExpansion]] - violence-prevention and moral-circle side.
 - [[CaptiveWhaleSanctuary]] - adjacent animal-welfare concept around captive wild animals rather than companion animals.
+- [[FoodAnimalWelfare]], [[SlaughterWelfare]], and [[LivestockWorkerMoralInjury]] - farmed-animal extension added by episode 176.
