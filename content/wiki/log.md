@@ -3276,3 +3276,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 4,269 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-15] ingest | 152.夜色如水话七夕，牛郎原本是保安？【民俗学系列填坑啦】
+
+Added source page for the 蜜獾吃书 episode on 七夕, 牛郎织女, star lore, 乞巧, book and clothing airing, Song urban festival objects, 刘宗迪《七夕》, and cross-cultural folklore transmission. Created pages for Qixi / 七夕, Cowherd and Weaver Girl / 牛郎织女, Liu Zongdi / 刘宗迪, 《七夕》, 《东京梦华录》, Qixi Festival Layering, Swan Maiden Motif, Qiqiao Ritual Practice, and Qixi Cross-Cultural Transmission; updated overview, index, 蜜獾吃书, Story Motif Transmission, Mythic Source Layering, Myth As Historical Evidence, Chinese Folk Religion Layering, Material History Narrative, Guangzhou, and Quanzhou. No direct contradiction found; the source complements the wiki's existing mythology and folk-religion branches by showing how a familiar festival can accumulate star observation, gendered labor, ritual objects, local worship, romance, and exchange history without reducing tradition to a single origin.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 4,279 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.

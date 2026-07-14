@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [152.夜色如水话七夕，牛郎原本是保安？【民俗学系列填坑啦】](sources/152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062.md) — 蜜獾吃书 episode on 七夕, 牛郎织女, 乞巧, the Swan Maiden motif, star lore, Song urban festival objects, 刘宗迪《七夕》, and cross-cultural folklore transmission.
 - [151.早安,怪物：祝你战胜恐惧，祝你获得康复](sources/151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286.md) — 蜜獾吃书 episode on 《早安，怪物》, Catherine Gildiner, psychotherapy, complex trauma, parentification, trauma numbing, Indigenous residential-school trauma, shame-based identity, therapeutic boundaries, and countertransference risk.
 - [150.吃菌！和阿错聊云南的鸡枞、松茸、见手青](sources/150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165.md) — 蜜獾吃书 episode with 阿错 on Yunnan mushroom season, wild-mushroom food safety, chicken termite mushroom, matsutake, jianshouqing, ganba mushroom, foraging ethics, 《苍城》, the Tea Horse Road, and nature contact.
 - [171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感](sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962.md) — 蜜獾吃书 episode using the zodiac horse to connect religion, mythology, domestication, war, trade, language, 大理甲马, 马疗, and Elden Ring-style pop-cultural motif afterlives.
@@ -412,6 +413,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Qixi / 七夕](entities/QixiFestival.md) — Lunar seventh-day festival read by episode 152 as a layered system of star lore, 乞巧, book airing, urban markets, local worship, romance, and cross-cultural exchange.
+- [Cowherd and Weaver Girl / 牛郎织女](entities/CowherdAndWeaverGirl.md) — Qixi legend treated by episode 152 as a composite of star-crossed astronomy and the wider hidden-garment Swan Maiden motif.
+- [Liu Zongdi / 刘宗迪](entities/LiuZongdi.md) — Folklore scholar whose 《七夕》 supplies episode 152's broad comparative and cross-cultural transmission frame.
+- [《七夕》 / Qixi](entities/QixiBook.md) — Liu Zongdi book used by episode 152 to connect Qixi to astronomy, ritual objects, maritime exchange, and contested origin hypotheses.
+- [《东京梦华录》](entities/TokyoMenghuaLu.md) — Song urban-custom text used by episode 152 for Qixi markets, toys, seedling displays, and 摩侯罗 festival objects.
 - [《早安，怪物》 / Good Morning, Monster](entities/GoodMorningMonster.md) — Catherine Gildiner psychotherapy memoir used by episode 151 to connect complex trauma, shame identity, recovery, and clinical-boundary reflection.
 - [Catherine Gildiner](entities/CatherineGildiner.md) — Canadian psychotherapist and author of 《早安，怪物》, discussed through case reconstruction, therapeutic intimacy, countertransference, and boundary repair.
 - [李飘 / Li Piao](entities/LiPiao.md) — 蜜獾吃书 host in episode 150, steering the Yunnan mushroom conversation across food safety, tourism, 《苍城》, and nature contact.
@@ -2571,6 +2577,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Qixi Festival Layering](concepts/QixiFestivalLayering.md) — Episode 152 frame for reading 七夕 as accumulated star lore, agriculture, 乞巧, book airing, Daoist ascent, urban commerce, local worship, romance, and exchange.
+- [Swan Maiden Motif](concepts/SwanMaidenMotif.md) — Cross-cultural hidden-garment marriage motif used by episode 152 to separate later 牛郎织女 plot layers from older star lore.
+- [Qiqiao Ritual Practice](concepts/QiqiaoRitualPractice.md) — 七夕 skill-seeking ritual layer involving needles, water, offerings, spiders, textile labor, and gendered aspiration.
+- [Qixi Cross-Cultural Transmission](concepts/QixiCrossCulturalTransmission.md) — Source-scoped hypothesis that Qixi stories, objects, and local customs were shaped by trade, migration, borrowing, and reinterpretation.
 - [Parentification / 亲职化](concepts/Parentification.md) — Childhood pattern where a child is forced into adult caregiving or survival responsibility, grounding Laura's shame and later over-rescuing in episode 151.
 - [Trauma Numbing](concepts/TraumaNumbing.md) — Survival state where functioning continues by blocking grief, fear, anger, or bodily distress, visible in Laura and Danny's cases.
 - [Shame-Based Self-Concept](concepts/ShameBasedSelfConcept.md) — Pattern where injury and need become interpreted as proof that the self is bad, monstrous, or undeserving of care.

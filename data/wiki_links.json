@@ -127,6 +127,10 @@
     "title": "151.早安,怪物：祝你战胜恐惧，祝你获得康复",
     "url": "/wiki/sources/151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286/"
   },
+  "152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062": {
+    "title": "152.夜色如水话七夕，牛郎原本是保安？【民俗学系列填坑啦】",
+    "url": "/wiki/sources/152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062/"
+  },
   "153-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-shang-917670296": {
     "title": "153.我的名字叫红：用一千零一夜的心跳完成这场谋杀(上）",
     "url": "/wiki/sources/153-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-shang-917670296/"
@@ -3710,6 +3714,10 @@
   "CouponLedTransactionGrowth": {
     "title": "Coupon-Led Transaction Growth",
     "url": "/wiki/concepts/couponledtransactiongrowth/"
+  },
+  "CowherdAndWeaverGirl": {
+    "title": "Cowherd and Weaver Girl / 牛郎织女",
+    "url": "/wiki/entities/cowherdandweavergirl/"
   },
   "CoyoteGame": {
     "title": "Coyote",
@@ -8687,6 +8695,10 @@
     "title": "Liu Wenhuan",
     "url": "/wiki/entities/liuwenhuan/"
   },
+  "LiuZongdi": {
+    "title": "Liu Zongdi / 刘宗迪",
+    "url": "/wiki/entities/liuzongdi/"
+  },
   "LiveActionShortDrama": {
     "title": "Live-Action Short Drama",
     "url": "/wiki/concepts/liveactionshortdrama/"
@@ -11571,6 +11583,10 @@
     "title": "轻刀快马 / Qingdao Kuaima",
     "url": "/wiki/entities/qingdaokuaima/"
   },
+  "QiqiaoRitualPractice": {
+    "title": "Qiqiao Ritual Practice",
+    "url": "/wiki/concepts/qiqiaoritualpractice/"
+  },
   "QishuiMusic": {
     "title": "汽水音乐 / Qishui Music",
     "url": "/wiki/entities/qishuimusic/"
@@ -11578,6 +11594,22 @@
   "QiuChuji": {
     "title": "丘处机",
     "url": "/wiki/entities/qiuchuji/"
+  },
+  "QixiBook": {
+    "title": "《七夕》 / Qixi",
+    "url": "/wiki/entities/qixibook/"
+  },
+  "QixiCrossCulturalTransmission": {
+    "title": "Qixi Cross-Cultural Transmission",
+    "url": "/wiki/concepts/qixicrossculturaltransmission/"
+  },
+  "QixiFestival": {
+    "title": "Qixi / 七夕",
+    "url": "/wiki/entities/qixifestival/"
+  },
+  "QixiFestivalLayering": {
+    "title": "Qixi Festival Layering",
+    "url": "/wiki/concepts/qixifestivallayering/"
   },
   "QizhulouYanBinke": {
     "title": "起朱楼宴宾客 / Qizhulou Yan Binke",
@@ -13587,6 +13619,10 @@
     "title": "Sustainable Growth Pace",
     "url": "/wiki/concepts/sustainablegrowthpace/"
   },
+  "SwanMaidenMotif": {
+    "title": "Swan Maiden Motif",
+    "url": "/wiki/concepts/swanmaidenmotif/"
+  },
   "SycophanticAICompanionRisk": {
     "title": "Sycophantic AI Companion Risk",
     "url": "/wiki/concepts/sycophanticaicompanionrisk/"
@@ -14074,6 +14110,10 @@
   "TokyoDisneyResort": {
     "title": "Tokyo Disney Resort / 东京迪士尼",
     "url": "/wiki/entities/tokyodisneyresort/"
+  },
+  "TokyoMenghuaLu": {
+    "title": "《东京梦华录》",
+    "url": "/wiki/entities/tokyomenghualu/"
   },
   "TomBlomfield": {
     "title": "Tom Blomfield",
