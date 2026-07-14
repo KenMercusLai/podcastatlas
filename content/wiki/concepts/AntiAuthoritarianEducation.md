@@ -2,7 +2,7 @@
 title: "Anti-Authoritarian Education"
 type: concept
 tags: [education, agency, children, parenting]
-sources: [181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
+sources: [182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
 last_updated: 2026-07-15
 ---
 
@@ -16,6 +16,8 @@ This does not mean rejecting all study, discipline, or adult guidance. The episo
 
 [[181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261]] adds a trauma boundary version. The right to say no is not only a pedagogical ideal; for people organized by [[FawnResponse|fawning]], refusal has to be relearned after authority, family, school, or intimate partners made compliance feel safer than self-trust.
 
+[[182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792]] adds a poetry version. [[ShuCai|树才]] says children's poems can include anger at parents, hatred of homework, mischief, bodily humor, and other feelings that ordinary adult authority may mark as improper. Poetry becomes anti-authoritarian when it lets the child discover an expressible self before being corrected into obedience or display.
+
 ## Key Claims
 - The right to say no is educational, not merely rebellious; it protects judgment, dignity, and self-trust.
 - Adults can harm children by treating obedience, resume building, and risk avoidance as the whole meaning of care.
@@ -23,6 +25,7 @@ This does not mean rejecting all study, discipline, or adult guidance. The episo
 - [[HelicopterParenting]] and [[RedPenLogic]] erode anti-authoritarian education because children learn to anticipate judgment before acting or feeling.
 - Anti-authoritarian education aligns with [[WaterFireEducation]] when both prioritize agency, curiosity, and inner direction over container-filling and exam output.
 - Trauma can make anti-authoritarian education bodily difficult: saying no may first feel like danger rather than freedom.
+- Poetry can support anti-authoritarian education when it gives children permission to speak feelings that would otherwise be hidden from adult approval systems.
 
 ## Connections
 - [[Matilda|《马蒂尔达》]] - narrative anchor for child resistance.
@@ -31,3 +34,4 @@ This does not mean rejecting all study, discipline, or adult guidance. The episo
 - [[WaterFireEducation]], [[LearningHowToLearn]], and [[SelfDirectedLearning]] - adjacent education concepts focused on agency.
 - [[CommunicationBoundarySetting]] and [[HumanAgencyUnderAI]] - broader boundary and agency frames in the wiki.
 - [[FawnResponse]], [[FourFTraumaResponse]], and [[UnfawningBoundaryPractice]] - trauma-response extension from episode 181.
+- [[PoetryAsEmotionalRelease]] and [[PoetryEducationAsPlay]] - poetry-writing extension from episode 182.

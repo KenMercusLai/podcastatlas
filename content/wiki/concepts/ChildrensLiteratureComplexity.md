@@ -2,7 +2,7 @@
 title: "Children's Literature Complexity"
 type: concept
 tags: [childrens-literature, reading, literature, education]
-sources: [180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]
+sources: [182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792, 180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]
 last_updated: 2026-07-15
 ---
 
@@ -16,6 +16,8 @@ The concept grows out of examples including [[ZhengYuanjie|郑渊洁]], 《儿�
 
 [[180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611]] extends the Alice case by showing that children's literature can also stage unstable games, bad trials, arbitrary rulers, and cross-cultural otherworld portals while preserving a child's capacity to judge.
 
+[[182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792]] adds the child-as-writer version. Through [[ShuCai|树才]]'s account of童诗, the concept shifts from complex books for children to complex language by children: a child's poem may contain anger, cognition, philosophy, humor, and exact sensory perception rather than only charm.
+
 ## Key Claims
 - Children's literature can show social reality without resolving it into a comforting lesson.
 - A book can fail at propaganda while succeeding through vivid detail, sympathy, or craft.
@@ -24,6 +26,7 @@ The concept grows out of examples including [[ZhengYuanjie|郑渊洁]], 《儿�
 - Complex children's books can support [[AntiAuthoritarianEducation]] by letting children sense that authority, adults, and official morals are not always right.
 - Anti-didactic children's literature can still be intellectually dense; pleasure, wordplay, and bodily fantasy can carry serious questions without preaching.
 - A child protagonist can model agency by asking better questions than the authority figures around her.
+- Children's own poems can be serious literary evidence of perception and thought, not only cute byproducts of childhood.
 
 ## Connections
 - [[AliceInWonderland]], [[LewisCarroll]], [[VictorianAntiDidacticChildrensLiterature]], and [[ArbitraryAuthorityProcedure]] - Alice branch added by episodes 179 and 180.
@@ -34,3 +37,4 @@ The concept grows out of examples including [[ZhengYuanjie|郑渊洁]], 《儿�
 - [[ClassicReadingComplexity]] - adult discipline for rereading childhood and canonical works without flattening them.
 - [[AdultFairyTaleReading]] and [[AdultSatiricalChildrensClassics]] - neighboring rereading concepts.
 - [[FemaleSelfPossession]] - girl-centered works as a route into self-command.
+- [[ChildPoeticExpression]], [[PoetryEducationAsPlay]], and [[PoetryAsEmotionalRelease]] - episode 182's child-as-writer extension.

@@ -3041,6 +3041,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-15] ingest | 182.抓一把风洗洗脸，滚到泥巴里去写诗！｜ 和树才聊童诗
+
+Added source page for the 蜜獾吃书 episode with 树才 on children's poetry, child poetic expression, modern Chinese poetry education, writing poetry as play, emotional release, parent-child understanding, screen-time attention, and mother tongue awareness. Created pages for 树才, 《写诗真好玩》, Child Poetic Expression, Poetry Education As Play, Modern Poetry For Children, Poetry As Emotional Release, and Mother Tongue Awareness; updated overview, index, 蜜獾吃书, Childhood Reading Ecology, Children's Literature Complexity, Anti-Authoritarian Education, Non-Instrumental Literary Reading, and Screen-Time Parenting. No direct contradiction found; the source complements the wiki's childhood reading and education-pressure branches by shifting from what children read to how they speak and write before adult scoring intervenes.
+
 ## [2026-07-15] ingest | 74.全球上瘾：啊，咖啡！我黑色的阿波罗！
 
 Added source page for the 蜜獾吃书 episode on 《全球上瘾》, coffee material history, Arab/Ottoman coffee controversy, Paris coffeehouses, French monopoly politics, industrial and military coffee use, speculation, Brazil overproduction, and the source book's 1934-era limits around colonial labor. Created pages for Coffee / 咖啡, 《全球上瘾》, Ottoman Empire, Material History Narrative, Caffeinated Modernity, Coffeehouse Public Sphere, and Coffee Commodity Politics; updated overview, index, 蜜獾吃书, France, Brazil, and Commodity Price Exposure. No direct contradiction found; the source extends the wiki's modern coffee-chain branch backward into public space, state control, global trade, and commodity-price risk.
@@ -3144,6 +3148,10 @@ Ran lint after health passed. Deterministic checks scanned 4,065 pages and found
 ## [2026-07-15] ingest | 181.讨好并非你的性格，坚持这么久，辛苦了
 
 Added source page for the 蜜獾吃书 episode on 《讨好反应》 / Fawning, fawning as a trauma response, 4F survival mechanisms, complex trauma recognition, high-functioning people-pleasing, traumatic attachment, intermittent reinforcement in abusive relationships, and unfawning boundary practice. Created pages for 《讨好反应》 / Fawning, Ingrid Clayton, Pete Walker, Fawn Response, 4F Trauma Response, Complex Trauma Recognition, Traumatic Attachment, and Unfawning Boundary Practice; updated overview, index, 蜜獾吃书, 秦总, 北明/北民, Intermittent Reinforcement, Communication Boundary Setting, Achievement Pressure Mental Health, Red Pen Logic, Anti-Authoritarian Education, Objective Self-Ownership, Action Against Anxiety, and Female Self-Possession. No direct contradiction found; the source complements the wiki's existing education-pressure and self-possession branches by explaining how external scoring, family insecurity, and authority dependence can become body-level survival responses.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-15] lint | Wiki health check
 

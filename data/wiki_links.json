@@ -195,6 +195,10 @@
     "title": "181.讨好并非你的性格，坚持这么久，辛苦了",
     "url": "/wiki/sources/181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261/"
   },
+  "182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792": {
+    "title": "182.抓一把风洗洗脸，滚到泥巴里去写诗！｜ 和树才聊童诗",
+    "url": "/wiki/sources/182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792/"
+  },
   "184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010": {
     "title": "184.真实于我有万钧之重：欢迎侠女阿娇",
     "url": "/wiki/sources/184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010/"
@@ -2926,6 +2930,10 @@
   "ChildOnlineCommerceSafety": {
     "title": "Child Online Commerce Safety",
     "url": "/wiki/concepts/childonlinecommercesafety/"
+  },
+  "ChildPoeticExpression": {
+    "title": "Child Poetic Expression",
+    "url": "/wiki/concepts/childpoeticexpression/"
   },
   "ChildThirdPartyLiabilityInsurance": {
     "title": "Child Third-Party Liability Insurance",
@@ -9279,6 +9287,10 @@
     "title": "Modern Express Travel",
     "url": "/wiki/entities/modernexpresstravel/"
   },
+  "ModernPoetryForChildren": {
+    "title": "Modern Poetry For Children",
+    "url": "/wiki/concepts/modernpoetryforchildren/"
+  },
   "ModernTimeDiscipline": {
     "title": "Modern Time Discipline",
     "url": "/wiki/concepts/moderntimediscipline/"
@@ -9378,6 +9390,10 @@
   "MotherRight": {
     "title": "《母权论》 / Mother Right",
     "url": "/wiki/entities/motherright/"
+  },
+  "MotherTongueAwareness": {
+    "title": "Mother Tongue Awareness",
+    "url": "/wiki/concepts/mothertongueawareness/"
   },
   "MotionSmoothing": {
     "title": "Motion Smoothing",
@@ -10566,6 +10582,14 @@
   "Podwise": {
     "title": "Podwise",
     "url": "/wiki/entities/podwise/"
+  },
+  "PoetryAsEmotionalRelease": {
+    "title": "Poetry As Emotional Release",
+    "url": "/wiki/concepts/poetryasemotionalrelease/"
+  },
+  "PoetryEducationAsPlay": {
+    "title": "Poetry Education As Play",
+    "url": "/wiki/concepts/poetryeducationasplay/"
   },
   "PokeRobotics": {
     "title": "Poke Robotics",
@@ -12198,6 +12222,10 @@
   "ShortVideoCreationTools": {
     "title": "Short-Video Creation Tools",
     "url": "/wiki/concepts/shortvideocreationtools/"
+  },
+  "ShuCai": {
+    "title": "树才",
+    "url": "/wiki/entities/shucai/"
   },
   "Shubo": {
     "title": "Shubo",
@@ -14422,6 +14450,10 @@
   "WorldModels": {
     "title": "World Models",
     "url": "/wiki/concepts/worldmodels/"
+  },
+  "WritingPoetryIsFun": {
+    "title": "《写诗真好玩》",
+    "url": "/wiki/entities/writingpoetryisfun/"
   },
   "WuChengen": {
     "title": "吴承恩",

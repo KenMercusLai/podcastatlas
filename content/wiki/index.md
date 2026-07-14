@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [182.抓一把风洗洗脸，滚到泥巴里去写诗！｜ 和树才聊童诗](sources/182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792.md) — 蜜獾吃书 episode with 树才 on children's poetry, child poetic expression, modern poetry education, writing as play, emotional release, screen-time attention, and mother tongue awareness.
 - [181.讨好并非你的性格，坚持这么久，辛苦了](sources/181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261.md) — 蜜獾吃书 episode on 《讨好反应》, fawning as a trauma response, 4F survival mechanisms, complex trauma, traumatic attachment, high-functioning people-pleasing, boundaries, and desensitizing from external judgment.
 - [180.爱丽丝梦游仙境：世界多荒诞，我也是自己的主宰（下）](sources/180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611.md) — 蜜獾吃书 lower-half episode on 《爱丽丝梦游仙境》, Cheshire Cat, mad tea party, Queen of Hearts, chaotic croquet, absurd trial procedure, Alice's final self-command, otherworld portals, and Wonderland's rule-governed nonsense.
 - [179.爱丽丝梦游仙境：世界多荒诞，我也是自己的主宰（上）](sources/179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805.md) — 蜜獾吃书 episode on 《爱丽丝梦游仙境》, Lewis Carroll, nonsense logic, language games, dream narrative, rule-shifting mathematics, size-change identity, and cautious handling of the Alice Liddell controversy.
@@ -396,6 +397,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [树才](entities/ShuCai.md) — Poet, French translator, poetry researcher, and children's poetry educator who frames童诗 as protected child expression rather than miniature literary achievement.
+- [《写诗真好玩》](entities/WritingPoetryIsFun.md) — 树才 children's poetry-writing book whose title captures the episode's play-first approach to writing poetry.
 - [《讨好反应》 / Fawning](entities/Fawning.md) — Ingrid Clayton book used by episode 181 to frame fawning as a trauma response rather than personality weakness or ordinary helpfulness.
 - [Ingrid Clayton](entities/IngridClayton.md) — Psychologist and author whose book and autobiographical case ground episode 181's discussion of fawning, complex trauma, and boundaries.
 - [Pete Walker](entities/PeteWalker.md) — Trauma writer cited by episode 181 for the 4F response vocabulary of fight, flight, freeze, and fawn.
@@ -2461,6 +2464,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Child Poetic Expression](concepts/ChildPoeticExpression.md) — Children's capacity to turn sensory contact, bodily feeling, emotion, and imagination into poetic language before adult utility and scoring take over.
+- [Poetry Education As Play](concepts/PoetryEducationAsPlay.md) — Teaching stance that uses questions, praise, sensory contact, and play to keep poetry from becoming another assignment or achievement project.
+- [Modern Poetry For Children](concepts/ModernPoetryForChildren.md) — 树才's rationale for having children write in modern Chinese rather than primarily imitating classical regulated verse.
+- [Poetry As Emotional Release](concepts/PoetryAsEmotionalRelease.md) — Frame for poetry as a way children can express anger, complaint, humor, and inner speech so adults can understand them better.
+- [Mother Tongue Awareness](concepts/MotherTongueAwareness.md) — Language-consciousness frame linking dialect, Mandarin, French, poetry, translation, and respect for one's own and others' mother tongues.
 - [Fawn Response](concepts/FawnResponse.md) — Episode 181 frame for appeasing, managing, or over-attuning to threat as a survival response rather than a fixed personality trait.
 - [4F Trauma Response](concepts/FourFTraumaResponse.md) — Fight, flight, freeze, and fawn framework used by episode 181 to locate fawning inside body-level survival mechanisms.
 - [Complex Trauma Recognition](concepts/ComplexTraumaRecognition.md) — Episode 181 practice of seeing repeated hidden relational harm as real injury even when outward life looks successful or respectable.
