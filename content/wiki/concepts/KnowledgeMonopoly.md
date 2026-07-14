@@ -2,7 +2,7 @@
 title: "Knowledge Monopoly"
 type: concept
 tags: [knowledge, institutions, power, literature]
-sources: [53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699]
+sources: [40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699]
 last_updated: 2026-07-14
 ---
 
@@ -14,12 +14,15 @@ In the episode, the abbey's library is rich in classical, pagan, multilingual, a
 
 [[54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699]] shows the monopoly's endpoint. [[JorgeOfBurgos|Jorge]] has used hidden appointments, library secrets, and fear to govern the abbey for decades, and [[AristotlePoeticsBookTwo|亚里士多德《诗学》第二卷]] becomes physically lethal because access is secret rather than accountable. The library fire makes the monopoly self-defeating: preservation through absolute control becomes destruction.
 
+[[40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366]] adds a Flatland version. After color threatens social recognition, ruling circles suppress not only the movement but also color language and memory; after the square learns about higher dimensions, the political order treats dimensional knowledge as dangerous. The source therefore extends knowledge monopoly from books and libraries into forbidden perceptual categories.
+
 ## Key Claims
 - Restricting knowledge can be defended as preservation, safety, or spiritual protection while also consolidating authority.
 - Catalogues, languages, architecture, and access rules can be as important as book ownership itself.
 - A knowledge monopoly turns interpretation into hierarchy: some people may read and decide, while others must accept mediated truth.
 - Detective investigation becomes politically difficult when evidence is inside a controlled knowledge institution.
 - Knowledge control can turn preservation into loss when the institution values secrecy above shared responsibility.
+- A regime can monopolize knowledge by making certain words, colors, or directions unsayable, not only by locking away texts.
 
 ## Connections
 - [[TheNameOfTheRose|《玫瑰的名字》 / The Name of the Rose]] - source case.
@@ -30,3 +33,4 @@ In the episode, the abbey's library is rich in classical, pagan, multilingual, a
 - [[LaughterAgainstAuthority]] - the hidden book and debate over comedy show knowledge control extending into emotion and doctrine.
 - [[AristotlePoeticsBookTwo|亚里士多德《诗学》第二卷 / Aristotle's Poetics Book II]] - forbidden text at the center of the lower-half source.
 - [[PostApocalypticCivilizationPreservation]] - adjacent monastic preservation concept with a different emphasis on survival through collapse.
+- [[Flatland|《平面国》 / Flatland]], [[ColorAsIdentityDisruption]], and [[DimensionalAllegory]] - episode 40's extension into forbidden visual and dimensional categories.

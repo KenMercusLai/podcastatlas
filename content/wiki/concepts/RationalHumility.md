@@ -2,7 +2,7 @@
 title: "Rational Humility"
 type: concept
 tags: [reasoning, science, evidence, epistemology]
-sources: [54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
+sources: [40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
 last_updated: 2026-07-14
 ---
 
@@ -14,12 +14,15 @@ The episode treats this as Eco's correction to detective and scientific arroganc
 
 [[61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]] adds an economics version through the "one-handed economist" joke. The source argues that economists often say "on the one hand, on the other hand" because policy and life choices involve [[CostBenefitThinking]], [[OpportunityCost]], incentives, and side effects. Refusing a single simple answer can therefore be a discipline rather than evasion.
 
+[[40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366]] adds a dimensional version through [[Flatland|《平面国》 / Flatland]]. The square can see line-land's limits only after standing above it, yet he initially rejects the sphere's explanation of "up"; the sphere then rejects the square's question about still higher dimensions. The episode uses this ladder to show how easily a mind mistakes its current frame for the final frame.
+
 ## Key Claims
 - Guessing is not the enemy of reason when guesses remain open to correction.
 - A good explanation must survive evidence, chronology, and rival hypotheses, not only feel elegant.
 - [[ObservationBeforeInference]] needs humility because even careful observers can make attractive post hoc stories.
 - Rational humility resists both anti-rationalism and rationalist overconfidence.
 - Economic rationality also needs humility because a clean recommendation can hide who pays the cost, what information is missing, and which alternatives are being abandoned.
+- Higher understanding should not turn into final-authority posture, because the next unimagined frame may still exist.
 
 ## Connections
 - [[WilliamOfBaskerville|巴斯克维尔的威廉 / William of Baskerville]] - character used by the episode to show reason's power and limits.
@@ -28,3 +31,4 @@ The episode treats this as Eco's correction to detective and scientific arroganc
 - [[AntiDetectiveFiction]] - genre form that punctures detective omniscience.
 - [[ConspiracyTheoryPatternSeeking]] - failure mode when pattern pleasure outruns evidence.
 - [[EconomicWayOfThinking]], [[CostBenefitThinking]], and [[OpportunityCost]] - economics extension of humble multi-sided reasoning.
+- [[Flatland|《平面国》 / Flatland]], [[DimensionalAllegory]], and [[ReadingAsDimensionalExpansion]] - episode 40's dimensional extension.

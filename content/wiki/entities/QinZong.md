@@ -2,7 +2,7 @@
 title: "秦总"
 type: entity
 tags: [host, books, career, life-design, caregiving, reading, publishing]
-sources: [60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308, 46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198]
+sources: [40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308, 46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198]
 last_updated: 2026-07-14
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-14
 秦总 is a [[MihuanChishu|蜜獾吃书]] host and one of the three voices in [[ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425]]. In the episode, she says she has worked in overseas engineering, a state-system role, and editing before arriving at her current media/book context.
 
 Her life-restart answers give the source much of its emotional weight. She first names a high-school "Lemon Tree" performance embarrassment, then later connects her childhood loss of her mother to a long wish to have a daughter and a missed chance to walk with her mother before her death. By the end, she reframes the episode around love as a human capacity: loving others, oneself, the world, and pets.
+
+[[40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366]] adds her editor-and-host role around [[Flatland|《平面国》 / Flatland]]. With translator [[FeiBi|菲比]], she moves from publication constraints and marketing difficulty into [[DimensionalAllegory]], [[GeometricSocialHierarchy]], [[ColorAsIdentityDisruption]], and the idea that reading can be [[ReadingAsDimensionalExpansion|dimensional expansion]].
 
 [[44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]] adds her book-summary and interpretation role. She opens from a personal memory of staying overnight in European casinos while traveling cheaply, then uses [[TheLureOfLuck|《运气的诱饵》]] to explain why [[MachineGamblingAddiction]] is less about heroic risk-taking and more about machine-paced suspension of money, time, agency, and responsibility.
 
@@ -27,6 +29,7 @@ Her life-restart answers give the source much of its emotional weight. She first
 ## Connections
 
 - [[MihuanChishu|蜜獾吃书]] and [[Ritan|日谈]] - show and crossover context.
+- [[Flatland|《平面国》 / Flatland]], [[FeiBi|菲比]], and [[DimensionalAllegory]] - episode 40's editor/translator conversation around dimensional satire.
 - [[Hookie]] and [[YinJie|殷姐]] - conversation partners.
 - [[MotherDaughterReconciliation]] - mother-loss and becoming-oneself thread.
 - [[RegretIntegration]] - retaining embarrassing and painful experiences.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [40.平面国：禁止染色/女人危险/向上不是向北！](sources/40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366.md) — 蜜獾吃书 episode with 秦总 and translator 菲比 on 《平面国》 / Flatland, dimensional allegory, geometric gender/class hierarchy, color as identity disruption, and reading as perspective expansion.
 - [39.哲学家与狼：在朗格多克永恒的夏天](sources/39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065.md) — 蜜獾吃书 episode on 《哲学家与狼》, Mark Rowlands, Brenin, wolf/dog/human intelligence, civilization as deception, evil as responsibility failure, loyalty beyond contract, companion illness, death, and the Languedoc summer.
 - [假期摸鱼更健康](sources/jiaqi-moyu-geng-jiankang-574391976.md) — 蜜獾吃书 holiday interval on Dali life, restorative "moyu", the show's first half-year, story-based empathy, and future topics including 《盛世的崩塌》, 《绿色星球》, Zelazny, and Fukuyama.
 - [65.龙王之怒：1931年的长江洪水](sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922.md) — 蜜獾吃书 episode on the 1931 Yangtze flood, Wuhan/Hankou, wetland loss, dike risk transfer, famine, war, folk religion, relief mismatch, and disaster history.
@@ -368,6 +369,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《平面国》 / Flatland](entities/Flatland.md) — Edwin Abbott classic read by episode 40 as mathematical science fiction, social satire, dimensional allegory, and a publishing/translation case.
+- [Edwin A. Abbott / 爱德温·爱伯特](entities/EdwinAbbott.md) — Author of 《平面国》, framed by episode 40 through mathematics, theology, satire, and author-character separation.
+- [菲比](entities/FeiBi.md) — Translator and episode 40 guest discussing 《平面国》 with 秦总 through text, author background, publication, and reading access.
 - [郭静龙](entities/GuoJinglong.md) — Author of 《盛世的崩塌》, previewed by 蜜獾吃书 as a possible future Dali guest.
 - [《盛世的崩塌》](entities/ShengshiDeBengta.md) — Tang-history book previewed as a possible future episode on An Lushan Rebellion-era politics, literature, Nanzhao conflict, and ordinary life.
 - [《绿色星球》](entities/TheGreenPlanet.md) — BBC plant-world documentary/book topic previewed through Beimin's Chinese translation work and plant behavior examples.
@@ -2242,6 +2246,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Dimensional Allegory](concepts/DimensionalAllegory.md) — Literary use of geometric dimensions to make cognition, authority, theology, and social order visible.
+- [Geometric Social Hierarchy](concepts/GeometricSocialHierarchy.md) — Flatland frame where shape encodes gender, class, danger, status recognition, and social control.
+- [Color As Identity Disruption](concepts/ColorAsIdentityDisruption.md) — Pattern where dye/color threatens a status order built on visual recognition and provokes repression and language control.
+- [Reading As Dimensional Expansion](concepts/ReadingAsDimensionalExpansion.md) — Reading frame where literature gives low-cost access to other perceptual and social worlds.
 - [Story-Based Empathy](concepts/StoryBasedEmpathy.md) — Reading-method frame where stories enlarge understanding by preserving concrete lives, motives, and feelings better than abstract doctrine alone.
 - [Restorative Creative Pacing](concepts/RestorativeCreativePacing.md) — Creative-work rhythm where rest, light episodes, reading retreats, and environmental reset sustain a podcast or literary project.
 - [Natural Hazard As Social Disaster](concepts/NaturalHazardSocialDisaster.md) — Disaster-history frame where floods become catastrophe through settlement, infrastructure, war, markets, disease, belief, and relief systems.

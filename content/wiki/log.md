@@ -2924,3 +2924,11 @@ Added source page for the 蜜獾吃书 episode on 《哲学家与狼》, Mark Ro
 ## [2026-07-14] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found two fragile bridges and no hub stubs or isolated communities. Semantic lint failed because no provider-qualified LiteLLM model/API key is configured. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-14] ingest | 40.平面国：禁止染色/女人危险/向上不是向北！
+
+Added source page for the 蜜獾吃书 episode with 秦总 and translator 菲比 on 《平面国》 / Flatland, dimensional allegory, geometric gender/class hierarchy, color as identity disruption, and reading as perspective expansion. Created pages for 《平面国》 / Flatland, Edwin A. Abbott / 爱德温·爱伯特, 菲比, Dimensional Allegory, Geometric Social Hierarchy, Color As Identity Disruption, and Reading As Dimensional Expansion; updated overview, index, 蜜獾吃书, 秦总, Author-Character Separation, Protection As Control, Knowledge Monopoly, Rational Humility, Classic Reading Complexity, and Non-Instrumental Literary Reading. No direct contradiction found; the source's political, gender, theological, and publishing claims are kept as source-scoped episode readings.
+
+## [2026-07-14] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 3,714 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.

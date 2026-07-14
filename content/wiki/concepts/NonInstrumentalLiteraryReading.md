@@ -2,7 +2,7 @@
 title: "Non-Instrumental Literary Reading"
 type: concept
 tags: [reading, literature, fiction, attention]
-sources: [jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
+sources: [40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
 last_updated: 2026-07-14
 ---
 
@@ -15,6 +15,8 @@ This concept specializes [[NonInstrumentalUnderstanding]] for literature. It als
 [[jiaqi-moyu-geng-jiankang-574391976]] adds the show's explicit method statement through [[StoryBasedEmpathy]]. The episode argues that literature matters because concrete stories can reach emotions and social complexity that direct doctrine often cannot, making reading useful without reducing it to advice, summary, or argument victory.
 
 [[03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687]] adds a theological science-fiction version through [[CanticleForLeibowitz|《莱博维茨的赞歌》 / A Canticle for Leibowitz]]. The source treats a difficult classic as valuable because it lets readers inhabit civilizational time, religious ambiguity, scientific rediscovery, pain, guilt, and renewal rather than reducing the book to a post-apocalyptic plot summary.
+
+[[40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366]] adds [[ReadingAsDimensionalExpansion]] through [[Flatland|《平面国》 / Flatland]]. The episode says the book matters because it lets readers feel what it is like to be trapped in a coordinate system, confronted by a higher-dimensional explanation, and forced to reconsider the borders of ordinary sight, law, and authority.
 
 [[156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198]] adds a witness-and-support version. Reading [[YiGeAfuhanNvrenDeLaixin|《一个阿富汗女人的来信》]] is not only extracting information about [[Afghanistan]]; it is encountering [[AfghanWomenFirstPersonWriting]] and, through buying, reviewing, and discussing the book, participating in [[LiteraryPublishingAsMaterialSupport]] for a living author.
 
@@ -54,6 +56,7 @@ This concept specializes [[NonInstrumentalUnderstanding]] for literature. It als
 - Literary biography can be non-instrumental when it restores historical texture and human complexity rather than producing a clean moral score.
 - A film or opera-centered work can be non-instrumental when repeated viewing reveals performance pressure, bodily memory, and moral ambiguity rather than delivering a transferable lesson.
 - Literature can justify a show format because its value is often the slow expansion of empathy rather than a concise takeaway.
+- A science-fiction classic can be non-instrumental when its dimensional thought experiment changes how sight, authority, and social order feel before it offers any lesson.
 
 ## Connections
 - [[NonInstrumentalUnderstanding]] - broader concept for knowledge that is not immediately utility-driven.
@@ -72,6 +75,7 @@ This concept specializes [[NonInstrumentalUnderstanding]] for literature. It als
 - [[FuyouZhishang|《蜉蝣直上》]], [[MinnanFamilyWriting]], and [[StandUpAsSelfNarration]] - 小佳 episode extension from performer identity into prose encounter.
 - [[Matilda|《马蒂尔达》]], [[AntiAuthoritarianEducation]], and [[RedPenLogic]] - episode 160's extension into literature as resistance to score-centered education.
 - [[CanticleForLeibowitz|《莱博维茨的赞歌》 / A Canticle for Leibowitz]], [[ApocalypticLiterarySymbolism]], and [[PainAndMoralResponsibility]] - episode 03's extension into religious science fiction and civilizational moral inquiry.
+- [[Flatland|《平面国》 / Flatland]], [[DimensionalAllegory]], and [[ReadingAsDimensionalExpansion]] - episode 40's extension into dimensional science fiction as perspective-expanding experience.
 - [[LiteraryGossipAsContext]], [[AuthorMythDeflation]], and [[OccultPseudoscienceLiteraryModernity]] - episode 60's extension into author lives, gossip, and belief systems as literary experience.
 - [[FarewellMyConcubine|《霸王别姬》]], [[RoleLifeCollapse]], [[GenderPerformanceAndTrauma]], and [[ArtDignityUnderPoliticalPressure]] - episode 64's extension into film, opera, and performance as literary experience.
 - [[StoryBasedEmpathy]] - holiday episode extension that names concrete stories as the show's answer to over-abstract argument.

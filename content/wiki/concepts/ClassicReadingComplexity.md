@@ -2,7 +2,7 @@
 title: "Classic Reading Complexity"
 type: concept
 tags: [literature, classics, reading, judgment]
-sources: [jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
+sources: [40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
 last_updated: 2026-07-14
 ---
 
@@ -19,6 +19,8 @@ The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryR
 [[51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320]] adds [[GulliversTravels|《格列佛游记》 / Gulliver's Travels]] as a classic often flattened by childhood memory. The source asks the reader to keep adventure spectacle, scatological humor, political satire, [[TechnocraticDominationSatire]], [[PureRationalityTrap]], and [[AuthorCharacterSeparation]] in view at the same time rather than treating the book as either a children's story or a simple anti-human manifesto.
 
 [[55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]] adds [[HansChristianAndersen|安徒生]] and [[TheLittleMermaid|《海的女儿》]] as a fairy-tale version of the same problem. The source argues that a phrase like "恋爱脑" or a Disney-shaped memory of Ariel can name a reaction but cannot replace attention to Andersen's original structure: social marginality, death, bodily pain, freedom, translation, faith, and the desire for an immortal soul.
+
+[[40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366]] adds [[Flatland|《平面国》 / Flatland]] as a compact mathematical science-fiction classic that is easy to flatten if it is treated only as a dimension explainer. The source asks readers to hold [[DimensionalAllegory]], [[GeometricSocialHierarchy]], [[ColorAsIdentityDisruption]], author/narrator distance, and publishing history together.
 
 [[53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184]] adds [[TheNameOfTheRose|《玫瑰的名字》 / The Name of the Rose]] as a difficult modern classic whose detective plot cannot be separated from theology, medieval politics, library power, and [[SemioticDetectiveFiction]]. The source makes complexity a problem of interpretation itself: a reader must follow the murders while also noticing when signs, prophecies, and symbols are being overread.
 
@@ -39,6 +41,7 @@ The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryR
 - Author biography can inform classic reading, but gossip should not replace source uncertainty, textual attention, or historical context.
 - A modern canonical film can require the same complexity discipline as a literary classic: plot, performance, politics, adaptation, and biography should not collapse into one portable interpretation.
 - Moving from stories to abstract classics or political theory requires keeping concrete human experience visible.
+- A short speculative classic can carry mathematics, social satire, theology, and publishing history at once; treating it as only a clever dimension lesson loses the work's pressure.
 
 ## Connections
 - [[ReadingAsLifeExperience]] - reader state affects when classics become available or unbearable.
@@ -54,3 +57,4 @@ The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryR
 - [[LiteraryGossipAsContext]], [[AuthorMythDeflation]], and [[OccultPseudoscienceLiteraryModernity]] - episode 60's extension into author lives, reputation, and period belief systems.
 - [[FarewellMyConcubine|《霸王别姬》]], [[RoleLifeCollapse]], [[CoercedDenunciation]], and [[AdaptationEndingEthics]] - episode 64's extension into modern film classic interpretation.
 - [[StoryBasedEmpathy]], [[FrancisFukuyama|Francis Fukuyama / 福山]], and [[IdentityPoliticsBook|《身份政治》]] - holiday episode bridge from story-centered reading toward abstract political-theory topics.
+- [[Flatland|《平面国》 / Flatland]], [[DimensionalAllegory]], and [[ReadingAsDimensionalExpansion]] - episode 40's extension into mathematical science-fiction and perspective-changing reading.
