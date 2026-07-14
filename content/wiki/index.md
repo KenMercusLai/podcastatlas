@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [147. 非洲神话：腋毛创世, 土狼下蛋及哪吒的另一版本](sources/147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004.md) — 蜜獾吃书 episode on sub-Saharan African mythology, oral literature, creation stories, the Mwindo epic, marriage-origin tales, Anansi, and trickster ambivalence.
 - [107.闲聊伟大导演们的八卦（第一弹）](sources/107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818.md) — 蜜獾吃书 episode using director gossip to discuss Chaplin, Hitchcock, Walt Disney, Riefenstahl, film-set power, propaganda aesthetics, moral accountability, and early women film pioneers.
 - [42.安多：风起于青萍之末](sources/42-anduo-fengqi-yu-qingping-zhi-mo-616391638.md) — 蜜獾吃书 episode on Andor, Star Wars, everyday imperial control, prison labor, ordinary rebellion, and the ethics of sacrificing others.
 - [41.施剑翘复仇案：超越哈贝马斯的情与法](sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038.md) — 蜜獾吃书 episode on the Shi Jianqiao revenge case, Sun Chuanfang, filial revenge, sensational Republican-era media, public opinion, judicial independence, special pardon politics, and gendered nationalist heroism.
@@ -632,6 +633,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam Smith / 亚当·斯密](entities/AdamSmith.md) — Economist and philosopher used by episode 61 to introduce invisible-hand style market coordination and moral concern in economics.
 - [Friedrich Hayek / 哈耶克](entities/FriedrichHayek.md) — Economist used by episode 61 to frame dispersed information, planning limits, and market coordination.
 - [蜜獾吃书](entities/MihuanChishu.md) — Podcast/show context for book, travel, language, natural-history, life-design, and literary-biography discussions across reading, satire, fairy tales, writer gossip, and release-cadence housekeeping.
+- [Anansi](entities/Anansi.md) — West African spider trickster presented by episode 147 as a helper, deceiver, story-acquirer, and morally ambivalent figure.
+- [Mawu-Lisa](entities/MawuLisa.md) — West African creator figure cluster used by episode 147 to show serpent, landscape, gold, and variant creation imagery.
+- [Obatala](entities/Obatala.md) — Yoruba creator figure in episode 147's soil, hen, palm-tree, land-making, and clay-human creation story.
+- [Mwindo Epic](entities/MwindoEpic.md) — Central African oral heroic epic discussed by episode 147 through child heroism, succession conflict, underworld pursuit, reconciliation, and animal respect.
 - [角田光代 / Mitsuyo Kakuta](entities/KakutaMitsuyo.md) — Japanese author whose novel 《37》 is used by episode 63 to think through midlife, marriage refusal, career divergence, and adult uncertainty.
 - [《37》](entities/ThirtySeven.md) — Kakuta Mitsuyo novel used by episode 63 as a midlife mirror for unmarried life, career forks, mother-daughter understanding, and unresolved choice.
 - [李乌鸦](entities/LiWuya.md) — Book creator and guest in the 蜜獾吃书 first-anniversary episode on reading habits, classics, shame, solitude, and non-instrumental literary value.
@@ -2338,6 +2343,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Color As Identity Disruption](concepts/ColorAsIdentityDisruption.md) — Pattern where dye/color threatens a status order built on visual recognition and provokes repression and language control.
 - [Reading As Dimensional Expansion](concepts/ReadingAsDimensionalExpansion.md) — Reading frame where literature gives low-cost access to other perceptual and social worlds.
 - [Story-Based Empathy](concepts/StoryBasedEmpathy.md) — Reading-method frame where stories enlarge understanding by preserving concrete lives, motives, and feelings better than abstract doctrine alone.
+- [African Mythology](concepts/AfricanMythology.md) — Sub-Saharan mythology frame from episode 147 connecting creation, oral epic, marriage tales, resource legends, animals, and tricksters.
+- [African Oral Literature](concepts/AfricanOralLiterature.md) — Oral-story transmission frame for episode 147's collected tales, performance contexts, variants, and story-ownership themes.
+- [Trickster Ambivalence](concepts/TricksterAmbivalence.md) — Folklore pattern where cunning figures such as Anansi help, deceive, solve scarcity, and commit cruelty without becoming morally clean.
 - [Restorative Creative Pacing](concepts/RestorativeCreativePacing.md) — Creative-work rhythm where rest, light episodes, reading retreats, and environmental reset sustain a podcast or literary project.
 - [Natural Hazard As Social Disaster](concepts/NaturalHazardSocialDisaster.md) — Disaster-history frame where floods become catastrophe through settlement, infrastructure, war, markets, disease, belief, and relief systems.
 - [Wetland Adaptation](concepts/WetlandAdaptation.md) — Living with seasonal water through mobility, wetlands, boats, and local ecological practice rather than only fixed defenses.

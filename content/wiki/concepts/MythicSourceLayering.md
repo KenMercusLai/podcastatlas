@@ -2,7 +2,7 @@
 title: "Mythic Source Layering"
 type: concept
 tags: [mythology, folklore, literature, religion]
-sources: [43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 136-chunri-mingmei-liaoliao-guishen-827911486]
+sources: [43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 136-chunri-mingmei-liaoliao-guishen-827911486, 147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004]
 last_updated: 2026-07-14
 ---
 
@@ -14,6 +14,8 @@ The clearest case is [[SunWukong|孙悟空]]. The episode compares him with [[Ha
 
 [[136-chunri-mingmei-liaoliao-guishen-827911486]] extends the same pattern from literary characters to the wider ghost-and-deity field. [[FengduDadi|丰都大帝]], [[DongyueDadi|东岳大帝]], [[YanluoWang|阎罗王]], [[MengPo|孟婆]], and [[ZhongKui|钟馗]] each gather several ritual, textual, regional, and image-based explanations rather than one clean origin. This broader version is tracked as [[ChineseFolkReligionLayering]].
 
+[[147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004]] adds a cross-cultural oral-mythology case through [[AfricanMythology]]. The episode compares [[MawuLisa|Mawu-Lisa]], [[Obatala]], the [[MwindoEpic|Mwindo epic]], animal tales, and [[Anansi]] with Chinese, Greek, Norse, Biblical, and fairy-tale motifs, but treats resemblance as an orientation tool rather than proof of one direct source.
+
 ## Key Claims
 - A mythic character can have many source affinities without one source being the entire origin.
 - Cross-cultural resemblance is evidence for comparison, not automatic proof of borrowing.
@@ -21,6 +23,7 @@ The clearest case is [[SunWukong|孙悟空]]. The episode compares him with [[Ha
 - Monster genealogies can expose social and institutional satire, especially when divine backing changes punishment.
 - Mythic layering complements [[AccretiveTextFormation]] by explaining how the character level preserves older material.
 - The same layering logic can apply beyond a single literary work to a whole folk-religion field.
+- Oral mythology makes variants especially important because performance, collection, translation, and regional memory all shape the version being discussed.
 
 ## Connections
 - [[JourneyToTheWest|《西游记》]] - central source case.
@@ -30,3 +33,4 @@ The clearest case is [[SunWukong|孙悟空]]. The episode compares him with [[Ha
 - [[AccretiveTextFormation]] - broader textual-history frame.
 - [[GreekMythology]] and [[AdultFairyTaleReading]] - adjacent wiki concepts where old stories are treated as culturally layered rather than merely literal.
 - [[ChineseFolkReligionLayering]] - broader folk-belief version added by episode 136.
+- [[AfricanMythology]], [[AfricanOralLiterature]], and [[TricksterAmbivalence]] - African mythology and oral-story version added by episode 147.

@@ -111,6 +111,10 @@
     "title": "145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？",
     "url": "/wiki/sources/145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou/"
   },
+  "147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004": {
+    "title": "147. 非洲神话：腋毛创世, 土狼下蛋及哪吒的另一版本",
+    "url": "/wiki/sources/147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004/"
+  },
   "154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400": {
     "title": "154.我的名字叫红：用一千零一夜的心跳完成这场谋杀(下）",
     "url": "/wiki/sources/154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400/"
@@ -1043,6 +1047,14 @@
     "title": "Afghanistan",
     "url": "/wiki/entities/afghanistan/"
   },
+  "AfricanMythology": {
+    "title": "African Mythology",
+    "url": "/wiki/concepts/africanmythology/"
+  },
+  "AfricanOralLiterature": {
+    "title": "African Oral Literature",
+    "url": "/wiki/concepts/africanoralliterature/"
+  },
   "AfterlifeMoralAccounting": {
     "title": "Afterlife Moral Accounting",
     "url": "/wiki/concepts/afterlifemoralaccounting/"
@@ -1302,6 +1314,10 @@
   "AnalogMediaPreservation": {
     "title": "Analog Media Preservation",
     "url": "/wiki/concepts/analogmediapreservation/"
+  },
+  "Anansi": {
+    "title": "Anansi",
+    "url": "/wiki/entities/anansi/"
   },
   "Anaya": {
     "title": "Anaya / 阿那亚",
@@ -8239,6 +8255,10 @@
     "title": "Matthew Holt",
     "url": "/wiki/entities/matthewholt/"
   },
+  "MawuLisa": {
+    "title": "Mawu-Lisa",
+    "url": "/wiki/entities/mawulisa/"
+  },
   "MaxineClark": {
     "title": "Maxine Clark",
     "url": "/wiki/entities/maxineclark/"
@@ -8767,6 +8787,10 @@
     "title": "Musical.ly",
     "url": "/wiki/entities/musically/"
   },
+  "MwindoEpic": {
+    "title": "Mwindo Epic",
+    "url": "/wiki/entities/mwindoepic/"
+  },
   "MyNameIsRed": {
     "title": "《我的名字叫红》 / My Name Is Red",
     "url": "/wiki/entities/mynameisred/"
@@ -9070,6 +9094,10 @@
   "ObamaPresidentialCenter": {
     "title": "Obama Presidential Center",
     "url": "/wiki/entities/obamapresidentialcenter/"
+  },
+  "Obatala": {
+    "title": "Obatala",
+    "url": "/wiki/entities/obatala/"
   },
   "ObjectiveHiringAssessment": {
     "title": "Objective Hiring Assessment",
@@ -12598,6 +12626,10 @@
   "TrialSizeProduct": {
     "title": "Trial Size Product",
     "url": "/wiki/concepts/trialsizeproduct/"
+  },
+  "TricksterAmbivalence": {
+    "title": "Trickster Ambivalence",
+    "url": "/wiki/concepts/tricksterambivalence/"
   },
   "Triplebyte": {
     "title": "Triplebyte",
