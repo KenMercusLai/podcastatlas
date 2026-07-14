@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [71.美妆帝国蝴蝶牌：言情小说家的国货创业往事](sources/71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384.md) — 蜜獾吃书 episode on Chen Diexian, Butterfly Brand, Republican-era cosmetics, household chemistry, national-goods branding, vernacular industrialism, and light-industry modernity.
 - [Vol.113 从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络](sources/vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu.md) — 起朱楼宴宾客 episode on Project 2025, Heritage Foundation, AFPI, CPI, Trumpism institutionalization, administrative-state dismantling, immigration, Fed critique, education, trade reciprocity, and American protectionism.
 - [184.真实于我有万钧之重：欢迎侠女阿娇](sources/184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010.md) — 蜜獾吃书 episode with 阿娇/柱子哥 on the Hadiya rescue, overseas work, cancer and death writing, hospice care, professional dignity, and truthful whole-process cancer documentation.
 - [147. 非洲神话：腋毛创世, 土狼下蛋及哪吒的另一版本](sources/147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004.md) — 蜜獾吃书 episode on sub-Saharan African mythology, oral literature, creation stories, the Mwindo epic, marriage-origin tales, Anansi, and trickster ambivalence.
@@ -378,6 +379,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [陈迭仙](entities/ChenDiexian.md) — Republican-era writer, publisher, amateur chemist, advertiser, and entrepreneur behind 蝴蝶牌 and 家庭工业社.
+- [林玉沁](entities/LinYuqin.md) — Scholar whose research links Chen Diexian, cosmetics formulas, mass media, emotion history, and Chinese light-industrial modernity.
+- [蝴蝶牌](entities/ButterflyBrand.md) — Chen Diexian's tooth-powder and cosmetics brand, combining beauty imagery, trademark strategy, national-goods rhetoric, and consumer trust.
+- [家庭工业社](entities/JiatingGongyeshe.md) — Light-industrial company founded by Chen Diexian, growing from tooth powder into cosmetics, packaging, raw materials, and wartime factory migration.
+- [《女子世界》](entities/NushiShijie.md) — Women's magazine context for Chen Diexian's cosmetics-formula column and household-chemistry authority building.
 - [起朱楼宴宾客 / Qizhulou Yan Binke](entities/QizhulouYanBinke.md) — Podcast show represented by the Trump 2.0 policy-network episode, using long-form reading notes to connect policy documents, think tanks, and ideological history.
 - [Project 2025](entities/Project2025.md) — Heritage-linked conservative transition project treated as a personnel, training, document, and governing-architecture effort to institutionalize Trumpism.
 - [Mandate for Leadership 2025](entities/MandateForLeadership2025.md) — Project 2025 policy-document layer with department-level recommendations, transition planning, and conservative administrative-state critique.
@@ -2331,6 +2337,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Vernacular Industrialism](concepts/VernacularIndustrialism.md) — Practical industrial learning through tinkering, imitation, local materials, recipes, reverse engineering, and small daily-use products.
+- [National Goods Branding](concepts/NationalGoodsBranding.md) — Use of 国货 language to connect patriotic consumption, industrial capability, local tradition, and brand competition.
 - [Trumpism Institutionalization](concepts/TrumpismInstitutionalization.md) — Turning Trump-era slogans, personnel, documents, training, and think-tank networks into durable governing machinery.
 - [New Right Policy Network](concepts/NewRightPolicyNetwork.md) — Conservative institutional ecosystem connecting think tanks, former officials, youth staffers, and policy language beyond one campaign.
 - [Administrative State Dismantling](concepts/AdministrativeStateDismantling.md) — Conservative project to weaken, relocate, split, or politically control federal agencies portrayed as unaccountable delegated power.

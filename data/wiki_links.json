@@ -311,6 +311,10 @@
     "title": "65.龙王之怒：1931年的长江洪水",
     "url": "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
   },
+  "71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384": {
+    "title": "71.美妆帝国蝴蝶牌：言情小说家的国货创业往事",
+    "url": "/wiki/sources/71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384/"
+  },
   "8848": {
     "title": "8848",
     "url": "/wiki/entities/8848/"
@@ -2379,6 +2383,10 @@
     "title": "Business Roundtable",
     "url": "/wiki/entities/businessroundtable/"
   },
+  "ButterflyBrand": {
+    "title": "蝴蝶牌",
+    "url": "/wiki/entities/butterflybrand/"
+  },
   "BuzzFeed": {
     "title": "BuzzFeed",
     "url": "/wiki/entities/buzzfeed/"
@@ -2698,6 +2706,10 @@
   "ChenCongzhou": {
     "title": "Chen Congzhou / 陈从周",
     "url": "/wiki/entities/chencongzhou/"
+  },
+  "ChenDiexian": {
+    "title": "陈迭仙",
+    "url": "/wiki/entities/chendiexian/"
   },
   "ChenJiageng": {
     "title": "Chen Jiageng / 陈嘉庚",
@@ -6919,6 +6931,10 @@
     "title": "叫兽易小星 / Jiaoshou Yi Xiaoxing",
     "url": "/wiki/entities/jiaoshouyixiaoxing/"
   },
+  "JiatingGongyeshe": {
+    "title": "家庭工业社",
+    "url": "/wiki/entities/jiatinggongyeshe/"
+  },
   "JieDechen": {
     "title": "Jie Dechen",
     "url": "/wiki/entities/jiedechen/"
@@ -7706,6 +7722,10 @@
   "LinWei": {
     "title": "Lin Wei",
     "url": "/wiki/entities/linwei/"
+  },
+  "LinYuqin": {
+    "title": "林玉沁",
+    "url": "/wiki/entities/linyuqin/"
   },
   "LindaTodich": {
     "title": "Linda Todich",
@@ -8935,6 +8955,10 @@
     "title": "National Financial Capability Study",
     "url": "/wiki/entities/nationalfinancialcapabilitystudy/"
   },
+  "NationalGoodsBranding": {
+    "title": "National Goods Branding",
+    "url": "/wiki/concepts/nationalgoodsbranding/"
+  },
   "NationalRally": {
     "title": "National Rally",
     "url": "/wiki/entities/nationalrally/"
@@ -9146,6 +9170,10 @@
   "NovoNordisk": {
     "title": "Novo Nordisk",
     "url": "/wiki/entities/novonordisk/"
+  },
+  "NushiShijie": {
+    "title": "《女子世界》",
+    "url": "/wiki/entities/nushishijie/"
   },
   "Nvidia": {
     "title": "Nvidia",
@@ -13082,6 +13110,10 @@
   "VentureSyndicateOrchestration": {
     "title": "Venture Syndicate Orchestration",
     "url": "/wiki/concepts/venturesyndicateorchestration/"
+  },
+  "VernacularIndustrialism": {
+    "title": "Vernacular Industrialism",
+    "url": "/wiki/concepts/vernacularindustrialism/"
   },
   "VerticalAgentSaaSification": {
     "title": "Vertical Agent SaaSification",
