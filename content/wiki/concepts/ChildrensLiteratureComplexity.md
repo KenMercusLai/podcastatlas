@@ -2,7 +2,7 @@
 title: "Children's Literature Complexity"
 type: concept
 tags: [childrens-literature, reading, literature, education]
-sources: [179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]
+sources: [180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]
 last_updated: 2026-07-15
 ---
 
@@ -14,6 +14,8 @@ The concept grows out of examples including [[ZhengYuanjie|郑渊洁]], 《儿�
 
 [[179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805]] adds [[AliceInWonderland|《爱丽丝梦游仙境》]] as a canonical example. The episode shows that a children's book can be funny, dreamlike, and anti-didactic while also carrying [[NonsenseLogic]], [[WonderlandLanguageGames]], [[RuleShiftingMathematics]], [[SizeChangeIdentity]], and adult rereading pressure.
 
+[[180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611]] extends the Alice case by showing that children's literature can also stage unstable games, bad trials, arbitrary rulers, and cross-cultural otherworld portals while preserving a child's capacity to judge.
+
 ## Key Claims
 - Children's literature can show social reality without resolving it into a comforting lesson.
 - A book can fail at propaganda while succeeding through vivid detail, sympathy, or craft.
@@ -21,9 +23,10 @@ The concept grows out of examples including [[ZhengYuanjie|郑渊洁]], 《儿�
 - The value of a children's work is not exhausted by whether it is now ideologically correct.
 - Complex children's books can support [[AntiAuthoritarianEducation]] by letting children sense that authority, adults, and official morals are not always right.
 - Anti-didactic children's literature can still be intellectually dense; pleasure, wordplay, and bodily fantasy can carry serious questions without preaching.
+- A child protagonist can model agency by asking better questions than the authority figures around her.
 
 ## Connections
-- [[AliceInWonderland]], [[LewisCarroll]], and [[VictorianAntiDidacticChildrensLiterature]] - Alice branch added by episode 179.
+- [[AliceInWonderland]], [[LewisCarroll]], [[VictorianAntiDidacticChildrensLiterature]], and [[ArbitraryAuthorityProcedure]] - Alice branch added by episodes 179 and 180.
 - [[ZhengYuanjie|郑渊洁]] - central author case.
 - [[ChildhoodReadingEcology]] - environment where complex children's books circulate.
 - [[AntiAuthoritarianEducation]] - children's agency and refusal.

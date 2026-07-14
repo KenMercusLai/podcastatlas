@@ -2,7 +2,7 @@
 title: "《平面国》 / Flatland"
 type: entity
 tags: [book, literature, science-fiction, satire, geometry, classics]
-sources: [40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366]
+sources: [180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366]
 last_updated: 2026-07-14
 ---
 
@@ -12,15 +12,19 @@ last_updated: 2026-07-14
 
 The book's importance in the source comes from its layered design. A square narrator lives inside a two-dimensional society where women are line segments, lower classes are sharper or less regular figures, high-status circles govern perception, and color threatens to break visible class distinction. The later encounters with line-land, sphere-land, and point-land turn that social satire into [[DimensionalAllegory]] about how every being may mistake its own perceptual frame for reality.
 
+[[180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611]] reuses Flatland as a comparison for the [[CheshireCat|Cheshire Cat / 柴郡猫]] and high-dimensional perception. The episode suggests that appearing, disappearing, and knowing more than lower-dimensional beings can be read through the same perspective-shift logic that made Flatland useful in the earlier source.
+
 ## Key Claims
 - The work is accessible because its geometric premise is simple, but the episode argues that its implications reach gender, class, politics, theology, and cognition.
 - Flatland's misogyny and class logic should be read through [[AuthorCharacterSeparation]]: the narrator's prejudice is part of the satirical structure.
 - The color/dye episode matters because it makes appearance, status recognition, state violence, and language control part of the same political mechanism.
 - The square's imprisonment after seeing higher dimensions turns discovery into a conflict with authority, not only a private intellectual breakthrough.
+- The Alice comparison extends Flatland's dimensional lesson into [[RuleShiftingMathematics]] and [[NonsenseLogic]].
 
 ## Connections
 - [[EdwinAbbott|Edwin A. Abbott / 爱德温·爱伯特]] - author.
 - [[FeiBi|菲比]] - translator discussed in the episode.
 - [[DimensionalAllegory]], [[GeometricSocialHierarchy]], and [[ColorAsIdentityDisruption]] - main concepts this book anchors in the wiki.
+- [[CheshireCat]], [[RuleShiftingMathematics]], and [[NonsenseLogic]] - Alice comparison added by episode 180.
 - [[ReadingAsDimensionalExpansion]] - the episode's closing frame for why reading this kind of book can enlarge perception.
 - [[ClassicReadingComplexity]] and [[NonInstrumentalLiteraryReading]] - adjacent reading frames for approaching the book beyond summary or utility.

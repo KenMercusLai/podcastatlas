@@ -2,7 +2,7 @@
 title: "Adult Satire In Children's Classics"
 type: concept
 tags: [literature, satire, childhood, classics]
-sources: [179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
+sources: [180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
 last_updated: 2026-07-15
 ---
 
@@ -18,6 +18,8 @@ The source's core claim is that adult readers can see layers that child readers 
 
 [[179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805]] adds [[AliceInWonderland|《爱丽丝梦游仙境》]] as an anti-didactic and nonsense case. The episode is less focused on overt political satire than on how adult rereading reveals [[WonderlandLanguageGames]], [[RuleShiftingMathematics]], [[DreamLogicNarrative]], [[SizeChangeIdentity]], and procedure comedy inside a book remembered as whimsical childhood fantasy.
 
+[[180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611]] adds the lower-half authority version of the same Alice case. The Queen's croquet game and trial show that a children's classic can contain satire of courts, rules, evidence, monarchy, and procedure without becoming a conventional political allegory.
+
 ## Key Claims
 - A book's later children's-market position does not exhaust its original or adult meaning.
 - Fantasy voyages can make empire, governance, science, and violence easier to satirize.
@@ -25,9 +27,10 @@ The source's core claim is that adult readers can see layers that child readers 
 - This frame extends [[ClassicReadingComplexity]] because a familiar classic may need a second adult reading rather than only nostalgia.
 - Some childhood classics are adult not because they are satirical in every scene, but because they preserve loneliness, mortality, desire, and belief without condescending to children.
 - Some childhood classics are adult because their nonsense preserves language theory, mathematics, identity pressure, and social-procedure satire without becoming didactic.
+- The Alice trial scenes show how a child-facing fantasy can make legal procedure absurd while still letting a child protagonist reason more clearly than adults.
 
 ## Connections
-- [[AliceInWonderland]], [[NonsenseLogic]], [[WonderlandLanguageGames]], and [[RuleShiftingMathematics]] - Alice extension added by episode 179.
+- [[AliceInWonderland]], [[NonsenseLogic]], [[WonderlandLanguageGames]], [[RuleShiftingMathematics]], and [[ArbitraryAuthorityProcedure]] - Alice extension added by episodes 179 and 180.
 - [[AdventuresOfBaronMunchausen|《吹牛大王历险记》]] - main source example.
 - [[GulliversTravels|《格列佛游记》 / Gulliver's Travels]] - episode 51's source example for English political satire under a childhood-classic surface.
 - [[TallTaleTradition]] and [[AbsurdRationality]] - literary mechanics behind the satire.

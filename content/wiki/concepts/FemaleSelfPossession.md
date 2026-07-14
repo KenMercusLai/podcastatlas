@@ -2,7 +2,7 @@
 title: "Female Self-Possession"
 type: concept
 tags: [women, agency, life-design, self-knowledge]
-sources: [179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038, 184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
+sources: [180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038, 184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
 last_updated: 2026-07-15
 ---
 
@@ -32,6 +32,8 @@ The three hosts show different versions. [[YinJie|殷姐]] is satisfied with the
 
 [[179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805]] turns that Alice reference into a dedicated case. [[AliceWonderlandCharacter|Alice / 爱丽丝]] is not powerful in a stable world; her self-possession appears through testing, correcting, apologizing, questioning, and continuing to act when body scale, memory, language, and authority keep changing.
 
+[[180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611]] completes the Alice case through the trial and waking scene. Alice's self-possession becomes explicit when she stops treating the Queen's court as naturally authoritative, points out the failure of evidence, and finally names the cards as cards.
+
 ## Key Claims
 
 - Self-possession is not the absence of pain or dependency; it is the ability to keep recognizing oneself inside pain, work, family, love, and social expectation.
@@ -42,10 +44,11 @@ The three hosts show different versions. [[YinJie|殷姐]] is satisfied with the
 - Ambition does not negate self-possession; when grounded in [[ObjectiveSelfOwnership]] and action, wanting more can be part of recognizing the self rather than betraying it.
 - Bodily self-possession requires material conditions: accurate knowledge, usable products, public access, and freedom from shame around basic needs.
 - A girl character's self-command can appear inside confusion: Alice's agency comes from continuing to test and adjust rather than already knowing the rules.
+- Self-possession can include the refusal to grant false authority its preferred frame.
 
 ## Connections
 
-- [[AliceWonderlandCharacter]], [[SizeChangeIdentity]], and [[FeedbackRegulationAsSelfAdjustment]] - episode 179's Alice-specific extension.
+- [[AliceWonderlandCharacter]], [[SizeChangeIdentity]], [[FeedbackRegulationAsSelfAdjustment]], and [[ArbitraryAuthorityProcedure]] - Alice-specific extension across episodes 179 and 180.
 - [[Hookie]], [[YinJie|殷姐]], and [[QinZong|秦总]] - three source cases.
 - [[RegretIntegration]] - emotional basis for self-possession.
 - [[GenderedAgeAnxiety]], [[MidlifeAsGift]], and [[InformationGapAnxiety]] - age, comparison, and self-improvement pressure added by episode 63.
