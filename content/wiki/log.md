@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-15] ingest | 【闲聊】想送赵露思一本短歌集--编辑推书,无所不用其极！
+
+Added source page for the 蜜獾吃书 × 有问题呀 crossover on 赵露思, 石川啄木, 《短歌是我悲伤的玩具》, editor book promotion, 活人感, internet moral trial, and the cultural pattern where admitting error feels like humiliation. Created pages for Zhao Lusi, Ishikawa Takuboku, 《短歌是我悲伤的玩具》, Han Zhao, 超哥, 有问题呀, Tanka As Everyday Expression, Live Human Feeling, Internet Moral Trial, and Recognition As Humiliation; updated overview, index, and related reading, poetry, creator-pressure, and communication-boundary pages. No direct contradiction found; celebrity-discourse claims are kept source-scoped because the episode itself treats the underlying public information as incomplete and mediated.
+
 ## [2026-07-15] ingest | 150.吃菌！和阿错聊云南的鸡枞、松茸、见手青
 
 Added source page for the 蜜獾吃书 episode with 阿错 on Yunnan mushroom season, wild-mushroom food safety, chicken termite mushroom, matsutake, jianshouqing, ganba mushroom, foraging ethics, 《苍城》, Tea Horse Road transport memory, and nature contact. Created pages for 李飘, 阿错, 《苍城》, Yunnan, Dali (Yunnan), Lijiang, Tea Horse Road, 鸡枞, Matsutake, 见手青, 干巴菌, Yunnan Wild Mushroom Culture, Wild Mushroom Food Safety, Foraging Ethics, Place-Based Fiction, and Nature Contact And Self-Perception; updated overview, index, 蜜獾吃书, Reading As Life Experience, Material History Narrative, Nature Writing, and Horse As Civilizational Infrastructure. No direct contradiction found; noted an internal metadata/body name mismatch around 阿措/阿错 and followed the body title.
@@ -3284,3 +3288,7 @@ Added source page for the 蜜獾吃书 episode on 七夕, 牛郎织女, star lor
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 4,279 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 4,290 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Cached `graph/graph.json` is stale (`built=2026-07-12`, 3,408 nodes), so a read-only current wikilink graph recompute was also run: 64,250 extracted edges, no hub stubs, one fragile bridge, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.

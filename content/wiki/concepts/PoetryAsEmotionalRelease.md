@@ -2,7 +2,7 @@
 title: "Poetry As Emotional Release"
 type: concept
 tags: [poetry, emotion, children, parenting, mental-health]
-sources: [182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792]
+sources: [xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792]
 last_updated: 2026-07-15
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-15
 Poetry as emotional release is the episode's claim that poetry can let children express anger, complaint, mischief, bodily humor, fear, and tenderness without first making those feelings acceptable to adults. In [[182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792]], [[ShuCai|树才]] says poetry is democratic and generous enough to hold a child's dislike of homework, frustration with parents, or strange joke.
 
 The concept connects expression to care. When a child writes a poem, adults may see inner speech that would otherwise stay hidden. The source argues that expression can relieve accumulated bad feeling and help parents understand children more concretely; understanding becomes part of love rather than a vague adult intention.
+
+[[xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770]] adds an adult and public-facing version through [[IshikawaTakuboku|石川啄木]] and [[TankaEverydayExpression]]. Here poetry releases not only children's anger but also adult fatigue, debt shame, self-mockery, resentment, and the small humiliations that people may be too embarrassed to state directly.
 
 ## Key Claims
 - Poetry permits feelings that ordinary discipline may suppress.
@@ -26,3 +28,4 @@ The concept connects expression to care. When a child writes a poem, adults may 
 - [[AchievementPressureMentalHealth]] and [[RedPenLogic]] - adjacent pressure systems that poetry can counter when it is not scored.
 - [[CommunicationBoundarySetting]] - broader frame for expression, limits, and relationship clarity.
 - [[HelicopterParenting]] - family-control pattern the source implicitly resists.
+- [[TankaEverydayExpression]], [[IshikawaTakuboku|石川啄木]], and [[DuanGeShiWoBeishangDeWanju|《短歌是我悲伤的玩具》]] - adult short-song extension.

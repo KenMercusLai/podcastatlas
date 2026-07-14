@@ -1,14 +1,16 @@
 ---
 title: "李乌鸦"
 type: entity
-tags: [creator, books, reading]
-sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]
-last_updated: 2026-07-12
+tags: [creator, books, reading, internet-culture]
+sources: [xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]
+last_updated: 2026-07-15
 ---
 
 # 李乌鸦
 
 李乌鸦 is the guest in [[49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]], a first-anniversary [[MihuanChishu|蜜獾吃书]] conversation with [[QinZong|秦总]] about reading habits, classics, shame, memory, childhood access to books, and why literature matters. The source presents her as a B-site book creator whose audience and tone overlap with the show.
+
+[[xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770]] adds LiWuya's public-expression and internet-judgment role. She recalls being attacked after saying she hoped [[ZhaoLusi|赵露思]] would recover, turning the episode from celebrity news toward [[InternetMoralTrial]] and the way ordinary sympathetic speech can also become a target.
 
 Her role is not to supply a single book thesis. She brings a reader's self-account: books can be forgotten and later recovered, some painful books can be deferred until the reader is ready, reading can keep a person connected to the world while preserving solitude, and reading habits can persist even during years with very few finished books.
 
@@ -24,3 +26,4 @@ Her role is not to supply a single book thesis. She brings a reader's self-accou
 - [[FamilyReadingEcology]] - childhood access to books and parental judgments shape her reading background.
 - [[NonInstrumentalLiteraryReading]] - she defends reading without forcing every book into a measurable payoff.
 - [[ClassicReadingComplexity]] - her questions push the episode toward how readers should handle classics, outdated values, and personal dislike.
+- [[ZhaoLusi|赵露思]], [[LiveHumanFeeling]], and [[InternetMoralTrial]] - crossover episode branch on public sympathy, celebrity discourse, and online attack.

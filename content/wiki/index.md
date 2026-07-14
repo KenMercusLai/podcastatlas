@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [【闲聊】想送赵露思一本短歌集--编辑推书,无所不用其极！](sources/xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770.md) — 蜜獾吃书 × 有问题呀 crossover using 赵露思, 石川啄木, 《短歌是我悲伤的玩具》, 活人感, and internet moral trial to connect poetry, publishing, celebrity vulnerability, and public-expression boundaries.
 - [152.夜色如水话七夕，牛郎原本是保安？【民俗学系列填坑啦】](sources/152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062.md) — 蜜獾吃书 episode on 七夕, 牛郎织女, 乞巧, the Swan Maiden motif, star lore, Song urban festival objects, 刘宗迪《七夕》, and cross-cultural folklore transmission.
 - [151.早安,怪物：祝你战胜恐惧，祝你获得康复](sources/151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286.md) — 蜜獾吃书 episode on 《早安，怪物》, Catherine Gildiner, psychotherapy, complex trauma, parentification, trauma numbing, Indigenous residential-school trauma, shame-based identity, therapeutic boundaries, and countertransference risk.
 - [150.吃菌！和阿错聊云南的鸡枞、松茸、见手青](sources/150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165.md) — 蜜獾吃书 episode with 阿错 on Yunnan mushroom season, wild-mushroom food safety, chicken termite mushroom, matsutake, jianshouqing, ganba mushroom, foraging ethics, 《苍城》, the Tea Horse Road, and nature contact.
@@ -413,6 +414,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Zhao Lusi / 赵露思](entities/ZhaoLusi.md) — Actor/public-figure case used by the episode to discuss 活人感, celebrity vulnerability, and online judgment under incomplete information.
+- [Ishikawa Takuboku / 石川啄木](entities/IshikawaTakuboku.md) — Japanese poet read through short songs that capture fatigue, resentment, tenderness, politics, and ordinary life moments.
+- [《短歌是我悲伤的玩具》](entities/DuanGeShiWoBeishangDeWanju.md) — New Takuboku collection promoted in the episode as emotional language for sensitive, exhausted, and publicly judged readers.
+- [Han Zhao / 韩昭](entities/HanZhao.md) — Translator of 《短歌是我悲伤的玩具》 and independent-bookstore operator named by the source.
+- [超哥](entities/ChaoGe.md) — 有问题呀 voice in the crossover, bringing a partly outsider view of Zhao Lusi discourse and a reader response to Takuboku.
+- [有问题呀](entities/YouWenTiYa.md) — Crossover podcast context for the episode with 蜜獾吃书.
 - [Qixi / 七夕](entities/QixiFestival.md) — Lunar seventh-day festival read by episode 152 as a layered system of star lore, 乞巧, book airing, urban markets, local worship, romance, and cross-cultural exchange.
 - [Cowherd and Weaver Girl / 牛郎织女](entities/CowherdAndWeaverGirl.md) — Qixi legend treated by episode 152 as a composite of star-crossed astronomy and the wider hidden-garment Swan Maiden motif.
 - [Liu Zongdi / 刘宗迪](entities/LiuZongdi.md) — Folklore scholar whose 《七夕》 supplies episode 152's broad comparative and cross-cultural transmission frame.
@@ -2577,6 +2584,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Tanka As Everyday Expression](concepts/TankaEverydayExpression.md) — Episode frame for short songs as a compact way to write ordinary fatigue, resentment, embarrassment, tenderness, and daily moments.
+- [活人感 / Live Human Feeling](concepts/LiveHumanFeeling.md) — Public-expression concept where rough, imperfect, bounded realness resists fully managed persona without requiring absolute authenticity.
+- [Internet Moral Trial / 互联网审判](concepts/InternetMoralTrial.md) — Pattern where partial online information becomes whole-person condemnation, especially around public figures and creators.
+- [Recognition As Humiliation](concepts/RecognitionAsHumiliation.md) — Cultural pattern where admitting error feels like degradation, making apology and proportional correction harder.
 - [Qixi Festival Layering](concepts/QixiFestivalLayering.md) — Episode 152 frame for reading 七夕 as accumulated star lore, agriculture, 乞巧, book airing, Daoist ascent, urban commerce, local worship, romance, and exchange.
 - [Swan Maiden Motif](concepts/SwanMaidenMotif.md) — Cross-cultural hidden-garment marriage motif used by episode 152 to separate later 牛郎织女 plot layers from older star lore.
 - [Qiqiao Ritual Practice](concepts/QiqiaoRitualPractice.md) — 七夕 skill-seeking ritual layer involving needles, water, offerings, spiders, textile labor, and gendered aspiration.
