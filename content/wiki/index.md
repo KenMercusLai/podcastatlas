@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [vol.105.如何判断一个投资组合是否适合自己？](sources/vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe.md) — 起朱楼宴宾客 episode on portfolio suitability, adaptive allocation, personal goals, competence boundaries, drawdown tolerance, liquidity, and cooldown rules for ordinary investors.
 - [vol.104.普通人港股完全生存指南 | 串台三点下班](sources/vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90.md) — 起朱楼宴宾客 crossover with 三点下班 on Hong Kong retail-investor survival, old-thousand stocks, liquidity exit risk, AH discounts, dividend assets, sell-side incentives, IPO liquidity paths, and why ordinary investors should usually prefer funds or large liquid leaders.
 - [vol.103.文艺复兴科技西蒙斯的封神之路：是量化之王，更是洞察人性的大师](sources/vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl.md) — 起朱楼宴宾客 episode on Jim Simons, Renaissance Technologies, Medallion Fund, data moats, short-horizon quant trading, alpha decay, LTCM comparison, and the human risk override behind machine-led investing.
 - [vol.102.熬过就业冰河期的日本年轻人，去哪里寻找幸福感？](sources/vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn.md) — 起朱楼宴宾客 crossover with 轻刀快马 on Japan's employment ice age, NISA, inflation, social trust, micro-happiness, hidden youth, algorithmic labeling, empathy boundaries, and young people's search for happiness after growth confidence weakens.
@@ -404,6 +405,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [红色火箭 / Hongse Huojian](entities/HongseHuojianIndexTool.md) — Index-investing mini-program mentioned by vol.105 as a ChinaAMC-affiliated tool for observing, comparing, and selecting indices.
+- [华夏基金 / ChinaAMC](entities/ChinaAMC.md) — Fund-management company context for vol.105's opening mention of the 红色火箭 index-investing tool.
+- [时雷 / Shi Lei](entities/ShiLei.md) — Asset-allocation commentator referenced by vol.105 for complex adaptive systems and localizing Bridgewater-style all-weather thinking.
+- [十分吸引 / Shifen Xiyin](entities/ShifenXiyin.md) — Shi Lei's podcast, referenced by vol.105 as a more technical allocation discussion source.
 - [大卫翁 / David Weng](entities/DavidWeng.md) — 起朱楼宴宾客 host and vol.104 speaker connecting institutional allocation, AH discount trades, renewable-power rerating, and Hong Kong retail survival.
 - [三点下班 / San Dian Xiaban](entities/SanDianXiaban.md) — Podcast crossover partner for vol.104, represented through 浩哥's Hong Kong stock-picking and survival discussion.
 - [浩哥 / Haoge](entities/Haoge.md) — 三点下班 speaker in vol.104, contributing retail Hong Kong investing cases around early wins, illiquid losses, IPO paths, and fast stop-loss discipline.
@@ -567,7 +572,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [蝴蝶牌](entities/ButterflyBrand.md) — Chen Diexian's tooth-powder and cosmetics brand, combining beauty imagery, trademark strategy, national-goods rhetoric, and consumer trust.
 - [家庭工业社](entities/JiatingGongyeshe.md) — Light-industrial company founded by Chen Diexian, growing from tooth powder into cosmetics, packaging, raw materials, and wartime factory migration.
 - [《女子世界》](entities/NushiShijie.md) — Women's magazine context for Chen Diexian's cosmetics-formula column and household-chemistry authority building.
-- [起朱楼宴宾客 / Qizhulou Yan Binke](entities/QizhulouYanBinke.md) — Podcast show represented by the Trump 2.0 policy-network episode, using long-form reading notes to connect policy documents, think tanks, and ideological history.
+- [起朱楼宴宾客 / Qizhulou Yan Binke](entities/QizhulouYanBinke.md) — Podcast show represented across Trump-policy, asset-allocation, Japan-youth, quant-history, Hong Kong investing, and portfolio-suitability episodes.
 - [Project 2025](entities/Project2025.md) — Heritage-linked conservative transition project treated as a personnel, training, document, and governing-architecture effort to institutionalize Trumpism.
 - [Mandate for Leadership 2025](entities/MandateForLeadership2025.md) — Project 2025 policy-document layer with department-level recommendations, transition planning, and conservative administrative-state critique.
 - [Heritage Foundation](entities/HeritageFoundation.md) — Conservative think tank behind Project 2025 and the Mandate for Leadership tradition discussed as governing handoff infrastructure.
@@ -2526,6 +2531,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Portfolio Suitability](concepts/PortfolioSuitability.md) — Investor-side test for whether a portfolio fits the person's goals, competence boundary, risk tolerance, and liquidity needs.
+- [Adaptive Portfolio Design](concepts/AdaptivePortfolioDesign.md) — Portfolio-design frame that favors diversification, liquidity, and adjustment room over frequent high-conviction regime calls.
+- [Investment Cooldown Discipline](concepts/InvestmentCooldownDiscipline.md) — Behavioral rule system that forces waiting periods and turnover caps before large investment decisions.
 - [Hong Kong Retail Investor Survival](concepts/HongKongRetailInvestorSurvival.md) — Practical checklist for ordinary Hong Kong stock pickers covering penny-stock risk, exit liquidity, management alignment, sell-side incentives, and stop-loss discipline.
 - [Hong Kong Penny Stock Risk](concepts/HongKongPennyStockRisk.md) — Low-price and old-thousand-stock risk in Hong Kong, including confusing names, shell stories, liquidity gaps, and hostile capital operations.
 - [Hong Kong Liquidity Exit Risk](concepts/HongKongLiquidityExitRisk.md) — Risk that a Hong Kong stock position cannot be exited at tolerable price because turnover and market depth are too thin.

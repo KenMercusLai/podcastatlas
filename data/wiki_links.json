@@ -1071,6 +1071,10 @@
     "title": "Adaptation Original-Text Confusion",
     "url": "/wiki/concepts/adaptationoriginaltextconfusion/"
   },
+  "AdaptivePortfolioDesign": {
+    "title": "Adaptive Portfolio Design",
+    "url": "/wiki/concepts/adaptiveportfoliodesign/"
+  },
   "AddictiveInteractionDesign": {
     "title": "Addictive Interaction Design",
     "url": "/wiki/concepts/addictiveinteractiondesign/"
@@ -3030,6 +3034,10 @@
   "China": {
     "title": "China",
     "url": "/wiki/entities/china/"
+  },
+  "ChinaAMC": {
+    "title": "华夏基金 / ChinaAMC",
+    "url": "/wiki/entities/chinaamc/"
   },
   "ChinaAgentMarketFriction": {
     "title": "China Agent Market Friction",
@@ -6783,6 +6791,10 @@
     "title": "红果",
     "url": "/wiki/entities/hongguo/"
   },
+  "HongseHuojianIndexTool": {
+    "title": "红色火箭 / Hongse Huojian",
+    "url": "/wiki/entities/hongsehuojianindextool/"
+  },
   "Honor": {
     "title": "Honor",
     "url": "/wiki/entities/honor/"
@@ -7242,6 +7254,10 @@
   "InvestmentCatalyst": {
     "title": "Investment Catalyst",
     "url": "/wiki/concepts/investmentcatalyst/"
+  },
+  "InvestmentCooldownDiscipline": {
+    "title": "Investment Cooldown Discipline",
+    "url": "/wiki/concepts/investmentcooldowndiscipline/"
   },
   "InvestmentDecisionLogging": {
     "title": "Investment Decision Logging",
@@ -10979,6 +10995,10 @@
     "title": "Portable Creator Cameras",
     "url": "/wiki/concepts/portablecreatorcameras/"
   },
+  "PortfolioSuitability": {
+    "title": "Portfolio Suitability",
+    "url": "/wiki/concepts/portfoliosuitability/"
+  },
   "PositionSizing": {
     "title": "Position Sizing",
     "url": "/wiki/concepts/positionsizing/"
@@ -12543,6 +12563,10 @@
     "title": "Shi Jianqiao Revenge Case",
     "url": "/wiki/concepts/shijianqiaorevengecase/"
   },
+  "ShiLei": {
+    "title": "时雷 / Shi Lei",
+    "url": "/wiki/entities/shilei/"
+  },
   "ShiYiZhiCiZouBaoxian": {
     "title": "《事已至此，走保险》",
     "url": "/wiki/entities/shiyizhicizoubaoxian/"
@@ -12550,6 +12574,10 @@
   "Shibo": {
     "title": "Shibo",
     "url": "/wiki/entities/shibo/"
+  },
+  "ShifenXiyin": {
+    "title": "十分吸引 / Shifen Xiyin",
+    "url": "/wiki/entities/shifenxiyin/"
   },
   "ShiraAviono": {
     "title": "Shira Aviono",
@@ -16658,6 +16686,10 @@
   "vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90": {
     "title": "vol.104.普通人港股完全生存指南 | 串台三点下班",
     "url": "/wiki/sources/vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90/"
+  },
+  "vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe": {
+    "title": "vol.105.如何判断一个投资组合是否适合自己？",
+    "url": "/wiki/sources/vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe/"
   },
   "vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu": {
     "title": "Vol.113 从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络",

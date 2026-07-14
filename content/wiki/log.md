@@ -3209,6 +3209,14 @@ Ran lint. See lint-report.md for details.
 
 Added source page for the 起朱楼宴宾客 crossover with 三点下班 on ordinary-investor Hong Kong stock survival, including old-thousand stocks, penny-stock risk, liquidity exits, management alignment, sell-side research incentives, AH discount repricing, dividend assets, IPO liquidity paths, and triple rerating. Created pages for 大卫翁, 三点下班, 浩哥, China Mobile, CNOOC, China Shenhua, China Southern Airlines, Datang Renewable Power, Longyuan Power, Lao Pu Gold, Beijing Enterprises, Hong Kong Retail Investor Survival, Hong Kong Penny Stock Risk, Hong Kong Liquidity Exit Risk, AH Share Discount Repricing, Sell-Side Research Incentives, Management Shareholder Alignment Risk, Hong Kong IPO Liquidity Path, and Hong Kong Triple Rerating; updated overview, index, 起朱楼宴宾客, Hong Kong, Alibaba, Tencent, Hong Kong Market Structure, Hong Kong Stock Connect, Defensive Dividend Assets, Value Trap, Stop-Loss Discipline, Investment Liquidity Tradeoff, and Investment Risk Management. No direct contradiction found; the source complements the existing Hong Kong market-structure branch with first-person retail cases and a risk-first survival checklist.
 
+## [2026-07-15] ingest | vol.105.如何判断一个投资组合是否适合自己？
+
+Added source page for the 起朱楼宴宾客 episode on portfolio suitability, adaptive portfolio design, personal investment goals, competence boundaries, risk tolerance, liquidity, and cooldown discipline. Created pages for 红色火箭, 华夏基金, 时雷, 十分吸引, Portfolio Suitability, Adaptive Portfolio Design, and Investment Cooldown Discipline; updated overview, index, 起朱楼宴宾客, Asset Allocation, Investment Risk Management, Investment Liquidity Tradeoff, Position Sizing, Behavioral Investing Biases, Drawdown Psychology, and Circle Of Competence. No direct contradiction found; the source complements vol.101's asset-attribute test by adding a whole-portfolio fit test across external market adaptability and internal personal constraints.
+
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint after health passed. Structural checks scanned 4,200 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` and found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint did not complete because LiteLLM was configured with the unqualified default model `claude-3-5-sonnet-latest` and no provider credentials were present in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.

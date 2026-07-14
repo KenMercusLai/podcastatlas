@@ -2,7 +2,7 @@
 title: "起朱楼宴宾客 / Qizhulou Yan Binke"
 type: entity
 tags: [podcast, politics, business, investing]
-sources: [vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]
+sources: [vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]
 last_updated: 2026-07-15
 ---
 
@@ -20,6 +20,8 @@ The episode is explicitly cautious about expertise. It presents the discussion a
 
 [[vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]] adds the show's Hong Kong retail-investing survival side through a crossover with [[SanDianXiaban|三点下班]]. [[DavidWeng|大卫翁]] and [[Haoge|浩哥]] use personal wins, losses, AH discounts, dividend assets, IPO attention paths, and old-thousand-stock warnings to connect ordinary-investor behavior to [[HongKongMarketStructure]].
 
+[[vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]] continues the asset-allocation series by asking how ordinary investors can tell whether a portfolio fits them. It adds [[PortfolioSuitability]], [[AdaptivePortfolioDesign]], and [[InvestmentCooldownDiscipline]] while using [[HongseHuojianIndexTool|红色火箭]], [[ChinaAMC|华夏基金]], [[ShiLei|时雷]], and [[ShifenXiyin|十分吸引]] as source-scoped references around index tools and more technical allocation thinking.
+
 ## Connections
 - [[DonaldTrump]], [[Project2025]], and [[TrumpismInstitutionalization]] — main subject of the ingested episode.
 - [[AdministrativeStateDismantling]], [[MeritBasedImmigrationFilter]], and [[TradeReciprocityProtectionism]] — policy themes developed by the source.
@@ -30,3 +32,5 @@ The episode is explicitly cautious about expertise. It presents the discussion a
 - [[JimSimons]], [[RenaissanceTechnologies]], [[MedallionFund]], [[QuantitativeDataMoat]], and [[HumanRiskOverride]] — quant-history branch added by vol.103.
 - [[SanDianXiaban|三点下班]], [[DavidWeng|大卫翁]], and [[Haoge|浩哥]] — crossover and speaker context for vol.104.
 - [[HongKongRetailInvestorSurvival]], [[HongKongPennyStockRisk]], [[HongKongLiquidityExitRisk]], and [[AHShareDiscountRepricing]] — Hong Kong investing branch added by vol.104.
+- [[PortfolioSuitability]], [[AdaptivePortfolioDesign]], and [[InvestmentCooldownDiscipline]] — vol.105's household-facing portfolio-fit and behavior-control branch.
+- [[HongseHuojianIndexTool|红色火箭]], [[ChinaAMC|华夏基金]], [[ShiLei|时雷]], and [[ShifenXiyin|十分吸引]] — tool and speaker references from vol.105.

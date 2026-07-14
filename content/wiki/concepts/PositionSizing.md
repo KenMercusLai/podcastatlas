@@ -2,8 +2,8 @@
 title: "Position Sizing"
 type: concept
 tags: [investing, trading, risk]
-sources: [e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]
-last_updated: 2026-07-08
+sources: [e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]
+last_updated: 2026-07-15
 ---
 
 # Position Sizing
@@ -15,6 +15,8 @@ Position sizing is the capital-allocation decision that connects an investor's e
 [[e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf]] adds the long-only value-investing version: position size expresses the intersection of business-quality conviction and price protection. A 10% position should require a strong [[MarginOfSafety]] and low permanent-loss probability, a 5% position can reflect either quality with weaker valuation protection or flaws offset by cheapness, and smaller positions can keep uncertain companies under live research.
 
 [[paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]] adds [[ZhuNing]]'s consequence-based version. When investors cannot know whether AI or another hot market is in a bubble, the sizing question becomes more useful than the prediction question: what happens if the position doubles, and what happens if it falls sharply.
+
+[[vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]] adds the cooldown version through [[InvestmentCooldownDiscipline]]. The host's personal rule ties decision size to waiting time: larger allocations require longer cooling-off periods, and monthly investment actions are capped to prevent repeated large portfolio rewrites.
 
 ## Key Claims
 - The episode treats position size as one multiplier in [[CompoundingGrowthFormula]], alongside [[InvestmentEdge]], opportunity density, and time.
@@ -28,6 +30,7 @@ Position sizing is the capital-allocation decision that connects an investor's e
 - Position sizing is linked to [[StopLossDiscipline]]: a larger or added position needs a clearer invalidation point and a faster exit when wrong.
 - Zhu Ning's frame makes personal consequence part of sizing: a technically identical trade can deserve different size depending on income, liquidity needs, age, obligations, and ability to recover.
 - In potential bubbles, sizing should respond to warning conditions without pretending to know the exact top.
+- Vol.105 adds that larger decisions should require more time, clearer purpose, and more resistance to social-media urgency before execution.
 
 ## Connections
 - [[KellyCriterion]] — formal repeated-game sizing rule.
@@ -38,3 +41,4 @@ Position sizing is the capital-allocation decision that connects an investor's e
 - [[PassiveInvesting]] — alternative for investors who do not have enough edge to justify active sizing decisions.
 - [[MarginOfSafety]], [[BusinessMoat]], and [[ValueTrap]] — E160's quality, price-protection, and cheapness-failure inputs to sizing.
 - [[ZhuNing]], [[BubbleNecessaryConditions]], and [[AIEquityValuationRisk]] — 42章经 interview extension around bubble uncertainty and personal risk capacity.
+- [[InvestmentCooldownDiscipline]] and [[PortfolioSuitability]] — vol.105's size-linked waiting-period and personal-fit extension.

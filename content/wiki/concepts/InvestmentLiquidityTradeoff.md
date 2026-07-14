@@ -2,7 +2,7 @@
 title: "Investment Liquidity Tradeoff"
 type: concept
 tags: [investing, liquidity, behavior, personal-finance]
-sources: [vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]
+sources: [vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]
 last_updated: 2026-07-15
 ---
 
@@ -14,6 +14,8 @@ The episode gives three management routes. One is to buy products that lock liqu
 
 [[vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]] adds the single-stock exit version. In Hong Kong small caps, liquidity is not only about household cash planning; it determines whether an investor can sell without pushing the price down, especially during errors, forced selling, or market stress.
 
+[[vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]] adds the adaptability version. Liquidity should be sufficient for emergency needs and portfolio adjustment, but not so unconstrained that every headline triggers a large trade. The source warns that oversized long lockups in private funds, closed-end funds, insurance products, or long-duration bonds can make [[AdaptivePortfolioDesign]] impossible when the market environment changes.
+
 ## Key Claims
 - Liquidity is an asset attribute, not a free good.
 - Long-term return often requires using long-duration money rather than money needed for uncertain near-term spending.
@@ -24,6 +26,7 @@ The episode gives three management routes. One is to buy products that lock liqu
 - Volatile equity assets may require self-imposed holding periods to make their long-term return distribution tolerable.
 - Default-prone or tail-risk assets require diversification because time alone does not solve single-name failure.
 - Vol.104 adds that low-liquidity individual stocks require smaller sizing and faster thesis review because the exit itself can become the loss source.
+- Vol.105 adds that liquidity must preserve both household readiness and portfolio adaptability; too much lockup can be as damaging as too much trading freedom.
 
 ## Connections
 - [[InvestmentImpossibleTriangle]] — liquidity is one corner of the return-safety-liquidity tradeoff.
@@ -33,3 +36,4 @@ The episode gives three management routes. One is to buy products that lock liqu
 - [[BehavioralInvestingBiases]] and [[DrawdownPsychology]] — behavioral reasons liquidity can harm realized returns.
 - [[HousingExperienceInvestmentSplit]] — adjacent real-estate distinction between lived use and investment liquidity.
 - [[HongKongLiquidityExitRisk]] and [[HongKongMarketStructure]] — single-stock and Hong Kong market-structure extension from vol.104.
+- [[AdaptivePortfolioDesign]], [[InvestmentCooldownDiscipline]], and [[PortfolioSuitability]] — vol.105's balance between adjustment room and self-imposed behavioral friction.

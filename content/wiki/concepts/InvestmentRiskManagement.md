@@ -34,6 +34,7 @@ sources:
   - vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg
   - vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl
   - vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90
+  - vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe
 last_updated: 2026-07-15
 ---
 
@@ -46,6 +47,8 @@ Investment risk management is the practical bridge from market uncertainty to or
 [[e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy]] adds the Hong Kong market-structure version: risk management must account for optional offshore flows, liquidity segmentation, ETF gaps, IPO absorption, factor drawdowns, and the difference between volatility assets and long-term cash-generating assets.
 
 [[vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90]] adds the Hong Kong retail-stock-picking survival version: risk management must begin before the buy order with old-thousand-stock avoidance, management-alignment checks, sell-side incentive skepticism, liquidity-exit sizing, and willingness to use [[StopLossDiscipline]] when a thesis breaks.
+
+[[vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]] adds the portfolio-suitability version: risk management means matching the portfolio to both the market environment and the investor's own goals, [[CircleOfCompetence]], liquidity needs, and sleep-at-night boundary. It also adds [[InvestmentCooldownDiscipline]] as a concrete process for slowing large decisions and limiting turnover before short-term news becomes a portfolio rebuild.
 
 [[e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc]] adds the multi-asset product version: risk management includes the client's maximum drawdown, path volatility, product comprehension, [[AssetCorrelation]], and whether tactical macro views stay inside a defined allocation sleeve.
 
@@ -144,6 +147,9 @@ Investment risk management is the practical bridge from market uncertainty to or
 - A stock thesis should name its time horizon, return source, expected catalyst, and behavioral burden before it deserves size.
 - Active stock picking is optional; refusing an unsuitable game can be a legitimate risk-control decision.
 - Real estate risk management starts by asking whether the property is a consumed living experience or an investable asset, then testing liquidity, leverage, divisibility, supply, rent, and exit demand.
+- Portfolio suitability is itself risk management: an asset can be reasonable in abstract but wrong for a person whose goal, liquidity need, competence boundary, or drawdown tolerance does not fit.
+- Large allocation changes should require friction through [[InvestmentCooldownDiscipline]], especially when the trigger is a social-media headline or a sudden macro narrative.
+- [[AdaptivePortfolioDesign]] favors diverse and liquid enough structures over repeated all-in or all-out regime calls by ordinary investors.
 
 ## Connections
 - [[JimSimons]] — source's voice for the principle.
@@ -182,3 +188,4 @@ Investment risk management is the practical bridge from market uncertainty to or
 - [[HousingExperienceInvestmentSplit]], [[HongKong]], [[Shenzhen]], and [[Guangzhou]] — FengTouQuan episode 137's housing-as-experience versus housing-as-investment extension.
 - [[HumanRiskOverride]], [[ShortTermStatisticalArbitrage]], [[QuantitativeDataMoat]], [[AlphaDecay]], [[RenaissanceTechnologies]], and [[MedallionFund]] — vol.103's professional-quant survival extension.
 - [[HongKongRetailInvestorSurvival]], [[HongKongPennyStockRisk]], [[HongKongLiquidityExitRisk]], [[ManagementShareholderAlignmentRisk]], [[SellSideResearchIncentives]], [[AHShareDiscountRepricing]], [[HongKongIPOLiquidityPath]], and [[HongKongTripleRerating]] — vol.104's Hong Kong retail-stock-picking survival cluster.
+- [[PortfolioSuitability]], [[AdaptivePortfolioDesign]], [[InvestmentCooldownDiscipline]], and [[CircleOfCompetence]] — vol.105's portfolio-fit, liquidity, and behavioral-process cluster.
