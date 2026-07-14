@@ -2,7 +2,7 @@
 title: "Author Myth Deflation"
 type: concept
 tags: [literature, biography, canon, interpretation]
-sources: [179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
+sources: [183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
 last_updated: 2026-07-15
 ---
 
@@ -15,6 +15,8 @@ Author myth deflation is the practice of bringing canonical writers down from a 
 The concept differs from cancellation or debunking. It asks the reader to preserve complexity: [[LeoTolstoy|Leo Tolstoy / 托尔斯泰]]'s moral seriousness does not erase the cost to [[SophiaTolstaya|Sophia Tolstaya / 索菲亚]], [[WBYeats|W. B. Yeats / 叶芝]]'s poetry does not erase occult and fascist entanglements, and [[JRRTolkien|J.R.R. Tolkien / 托尔金]]'s anti-Nazi exchange does not remove ordinary prejudice or eccentricity.
 
 The episode's value is partly emotional. By showing canonical writers as embodied and flawed, it makes [[ClassicReadingComplexity]] less reverential and [[NonInstrumentalLiteraryReading]] less museum-like: readers can approach works as made by complicated people rather than icons.
+
+[[183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260]] adds a reputation-defense variant through [[LiShangyin|李商隐]]. The source is less interested in scandal than in undoing an inherited negative myth: charges of betrayal, erotic frivolity, or empty obscurity are treated as later simplifications that need to be tested against poems, politics, family pressure, and evidence.
 
 [[107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]] extends the same method into cinema through [[DirectorMythDeflation]]. The director version adds collective labor, set hierarchy, actress treatment, propaganda service, and forgotten women filmmakers to the broader problem of how cultural canons turn complicated artists into clean monuments.
 
@@ -30,6 +32,7 @@ The episode's value is partly emotional. By showing canonical writers as embodie
 - Gender changes author biography: a woman's career can be narratively crowded by marriage, husbands, disappearance, and domestic framing in ways male scandals are not.
 - The same deflation method can travel from literature into film, but directing adds production power and collaborator erasure.
 - Deflating an author myth should keep evidentiary standards visible most strongly when allegations involve children, sexuality, memory, and historical context.
+- A negative author myth may need deflation too: inherited moral denunciation should be source-checked rather than repeated as biographical fact.
 
 ## Connections
 - [[LiteraryGossipAsContext]] - method for handling biographical anecdotes with uncertainty.
@@ -40,3 +43,4 @@ The episode's value is partly emotional. By showing canonical writers as embodie
 - [[SophiaTolstaya]] - hidden labor and domestic cost case.
 - [[LittleWomen]] and [[SherlockHolmes]] - works whose public image diverges from author preference.
 - [[DirectorMythDeflation]], [[FilmGossipAsContext]], and [[ArtisticAchievementMoralAccountability]] - film extension added by the director-gossip source.
+- [[LiShangyin|李商隐]], [[LateTangPoliticalPoetics]], and [[LovePoetryModernity]] - episode 183's reputation-defense variant.

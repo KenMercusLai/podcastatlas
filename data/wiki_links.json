@@ -199,6 +199,10 @@
     "title": "182.抓一把风洗洗脸，滚到泥巴里去写诗！｜ 和树才聊童诗",
     "url": "/wiki/sources/182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792/"
   },
+  "183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260": {
+    "title": "183.李商隐和红楼梦：偏僻性乖张，那管世人诽谤！",
+    "url": "/wiki/sources/183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260/"
+  },
   "184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010": {
     "title": "184.真实于我有万钧之重：欢迎侠女阿娇",
     "url": "/wiki/sources/184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010/"
@@ -2639,6 +2643,10 @@
     "title": "Cao Xudong",
     "url": "/wiki/entities/caoxudong/"
   },
+  "CaoXueqin": {
+    "title": "曹雪芹 / Cao Xueqin",
+    "url": "/wiki/entities/caoxueqin/"
+  },
   "CapTableLiteracy": {
     "title": "Cap Table Literacy",
     "url": "/wiki/concepts/captableliteracy/"
@@ -3146,6 +3154,10 @@
   "ClassicReadingComplexity": {
     "title": "Classic Reading Complexity",
     "url": "/wiki/concepts/classicreadingcomplexity/"
+  },
+  "ClassicalPoeticIntertextuality": {
+    "title": "Classical Poetic Intertextuality",
+    "url": "/wiki/concepts/classicalpoeticintertextuality/"
   },
   "Claude": {
     "title": "Claude",
@@ -6587,6 +6599,10 @@
     "title": "Hong Letong / 洪乐潼",
     "url": "/wiki/entities/hongletong/"
   },
+  "HongLouMeng": {
+    "title": "《红楼梦》 / Dream of the Red Chamber",
+    "url": "/wiki/entities/hongloumeng/"
+  },
   "HongTaoPoliticalTheory": {
     "title": "洪涛",
     "url": "/wiki/entities/hongtaopoliticaltheory/"
@@ -7339,6 +7355,10 @@
     "title": "Ji Qi",
     "url": "/wiki/entities/jiqi/"
   },
+  "JiaBaoyu": {
+    "title": "贾宝玉 / Jia Baoyu",
+    "url": "/wiki/entities/jiabaoyu/"
+  },
   "JiaguwenDeGushi": {
     "title": "《甲骨文的故事》",
     "url": "/wiki/entities/jiaguwendegushi/"
@@ -7963,6 +7983,10 @@
     "title": "LateTalk",
     "url": "/wiki/entities/latetalk/"
   },
+  "LateTangPoliticalPoetics": {
+    "title": "Late Tang Political Poetics",
+    "url": "/wiki/concepts/latetangpoliticalpoetics/"
+  },
   "LatinAmerica": {
     "title": "Latin America",
     "url": "/wiki/entities/latinamerica/"
@@ -8119,6 +8143,10 @@
     "title": "Li Pengcheng",
     "url": "/wiki/entities/lipengcheng/"
   },
+  "LiShangyin": {
+    "title": "李商隐 / Li Shangyin",
+    "url": "/wiki/entities/lishangyin/"
+  },
   "LiShoukui": {
     "title": "李守奎",
     "url": "/wiki/entities/lishoukui/"
@@ -8194,6 +8222,10 @@
   "LightCone": {
     "title": "Light Cone",
     "url": "/wiki/entities/lightcone/"
+  },
+  "LinDaiyu": {
+    "title": "林黛玉 / Lin Daiyu",
+    "url": "/wiki/entities/lindaiyu/"
   },
   "LinJunyang": {
     "title": "Lin Junyang",
@@ -8418,6 +8450,10 @@
   "LouisaMayAlcott": {
     "title": "Louisa May Alcott / 奥尔科特",
     "url": "/wiki/entities/louisamayalcott/"
+  },
+  "LovePoetryModernity": {
+    "title": "Love Poetry Modernity",
+    "url": "/wiki/concepts/lovepoetrymodernity/"
   },
   "LowAltitudeRegulatoryRisk": {
     "title": "Low-Altitude Regulatory Risk",
@@ -14535,6 +14571,10 @@
     "title": "Xcode",
     "url": "/wiki/entities/xcode/"
   },
+  "Xiangling": {
+    "title": "香菱 / Xiangling",
+    "url": "/wiki/entities/xiangling/"
+  },
   "XiaoE": {
     "title": "Xiao'e",
     "url": "/wiki/entities/xiaoe/"
@@ -14666,6 +14706,10 @@
   "Xuanzang": {
     "title": "玄奘",
     "url": "/wiki/entities/xuanzang/"
+  },
+  "XueBaochai": {
+    "title": "薛宝钗 / Xue Baochai",
+    "url": "/wiki/entities/xuebaochai/"
   },
   "XujingQitan": {
     "title": "《虚境奇谭》",
@@ -14931,6 +14975,10 @@
     "title": "Yuri Sagalov",
     "url": "/wiki/entities/yurisagalov/"
   },
+  "YuxiIntoHonglou": {
+    "title": "玉溪一脉入红楼 / Yuxi Into Honglou",
+    "url": "/wiki/concepts/yuxiintohonglou/"
+  },
   "ZachEdwards": {
     "title": "Zach Edwards",
     "url": "/wiki/entities/zachedwards/"
@@ -15062,6 +15110,10 @@
   "ZhipuAI": {
     "title": "Zhipu AI",
     "url": "/wiki/entities/zhipuai/"
+  },
+  "Zhiyanzhai": {
+    "title": "脂砚斋 / Zhiyanzhai",
+    "url": "/wiki/entities/zhiyanzhai/"
   },
   "ZhiyuanRobotics": {
     "title": "Zhiyuan Robotics",

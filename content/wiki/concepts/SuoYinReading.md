@@ -2,8 +2,8 @@
 title: "索隐式阅读 / Suo Yin Reading"
 type: concept
 tags: [literature, interpretation, evidence, politics]
-sources: [43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
-last_updated: 2026-07-14
+sources: [183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
+last_updated: 2026-07-15
 ---
 
 # 索隐式阅读 / Suo Yin Reading
@@ -12,12 +12,15 @@ last_updated: 2026-07-14
 
 The episode keeps the mode productive but bounded. It enjoys examples such as Huangmei Laofu as Yan Song or turtle-snake generals as Shen Lian and Yang Jisheng, yet repeatedly warns that many identifications are speculative. That makes the concept a literary counterpart to [[InterpretationAndOverinterpretation]] and [[RationalHumility]].
 
+[[183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260]] adds a softer intertextual cousin through [[YuxiIntoHonglou]]. The episode does not mainly decode hidden political persons; it tracks how [[LiShangyin|李商隐]] may enter [[HongLouMeng|《红楼梦》]] through imagery, quotation, name echo, and character taste. It therefore shows a nearby risk: intertextual richness can become overclaim if every resemblance is treated as intentional proof.
+
 ## Key Claims
 - Hidden-code readings can help readers notice strange details that a plot summary would ignore.
 - Political danger and censorship can make indirect writing plausible, especially in imperial settings.
 - A plausible background does not prove every individual identification.
 - Suo Yin reading becomes risky when resemblance, timing, and desire for hidden order are treated as decisive evidence.
 - The best use of the mode is exploratory: it opens questions, then submits them to evidence, context, and alternative explanations.
+- Intertextual reading has the same confidence problem: direct quotation, repeated image clusters, and loose atmosphere should not be assigned the same evidentiary weight.
 
 ## Connections
 - [[JourneyToTheWest|《西游记》]] - source case.
@@ -26,3 +29,4 @@ The episode keeps the mode productive but bounded. It enjoys examples such as Hu
 - [[InterpretationAndOverinterpretation]] - broader boundary problem.
 - [[RationalHumility]] - discipline needed when a pattern feels elegant but uncertain.
 - [[ClassicReadingComplexity]] - broader reading practice that can hold suggestive but unproven readings without flattening the work.
+- [[YuxiIntoHonglou]], [[ClassicalPoeticIntertextuality]], [[LiShangyin|李商隐]], and [[HongLouMeng|《红楼梦》]] - episode 183's intertextual cousin to hidden-code reading.

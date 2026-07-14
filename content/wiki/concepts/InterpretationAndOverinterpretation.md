@@ -2,8 +2,8 @@
 title: "Interpretation And Overinterpretation"
 type: concept
 tags: [interpretation, literature, reasoning, semiotics]
-sources: [53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
-last_updated: 2026-07-14
+sources: [183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
+last_updated: 2026-07-15
 ---
 
 # Interpretation And Overinterpretation
@@ -18,6 +18,8 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 
 [[43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]] adds [[SuoYinReading|索隐式阅读]] through [[JourneyToTheWest|《西游记》]]. The episode enjoys hidden-political readings of monsters and divine officials, especially around the [[YangShen|杨慎]] attribution theory, but it repeatedly marks those readings as suggestive rather than proven. This makes overinterpretation a matter of literary pleasure and evidence discipline at once.
 
+[[183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260]] adds an intertextual version through [[LiShangyin|李商隐]] and [[HongLouMeng|《红楼梦》]]. The source's [[YuxiIntoHonglou]] argument is strongest where it uses direct quotations, repeated imagery, and explicit commentary; it is more speculative when it depends on psychological affinity, author-name echoes, or broad historical analogy.
+
 ## Key Claims
 - Interpretation is necessary because signs do not explain themselves.
 - Overinterpretation begins when a reader treats an attractive pattern as proof before checking evidence, context, and alternative explanations.
@@ -26,6 +28,7 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 - Overinterpretation often survives by making coincidence, partial truth, and manipulation look like a single hidden design.
 - In writing-system interpretation, overinterpretation can begin when a modern character component is treated as direct proof of ancient meaning.
 - In political-allusive reading, overinterpretation can begin when a plausible censorship context makes every odd detail look like a precise historical cipher.
+- In intertextual reading, overinterpretation can begin when atmosphere, shared imagery, and loose resemblance are given the same status as direct citation or repeated textual evidence.
 
 ## Connections
 - [[SemioticDetectiveFiction]] - mystery form where the boundary becomes part of the plot.
@@ -38,3 +41,4 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 - [[AuthorCharacterSeparation]] - adjacent interpretive discipline for not collapsing one voice into the whole work's doctrine.
 - [[FolkCharacterEtymologyRisk]], [[CharacterFormEvolution]], and [[ChineseCharacterEvidenceDiscipline]] - episode 57's extension into Chinese-character signs and unsupported拆字.
 - [[SuoYinReading]], [[JourneyToTheWest|《西游记》]], and [[YangShen|杨慎]] - episode 43's extension into hidden-political literary interpretation.
+- [[ClassicalPoeticIntertextuality]], [[YuxiIntoHonglou]], [[LiShangyin|李商隐]], and [[HongLouMeng|《红楼梦》]] - episode 183's extension into poetry-novel intertext and confidence grading.
