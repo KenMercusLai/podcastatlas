@@ -2839,3 +2839,11 @@ Added source page for the 蜜獾吃书 episode on 《伴生》 / Our Symphony wi
 ## [2026-07-14] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint scanned 3,580 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-12 with 3,408 nodes and 34,723 edges; they found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified. No `wiki/lint-report.md` file was saved.
+
+## [2026-07-14] ingest | 57.说解汉字：屎尿屁为啥是“尸”字头？
+
+Added source page for the 蜜獾吃书 episode on Chinese-character origins, oracle-bone evidence, folk拆字 risks, 《说文解字》 limits, and the "尸" component in 屎尿屁. Created pages for 《说解汉字150讲》, 《甲骨文的故事》, 李守奎, 董作斌, 董敏, 《说文解字》, 许慎, Ferdinand de Saussure / 索绪尔, Chinese Character Evidence Discipline, Character Form Evolution, Folk Character Etymology Risk, Hanzi Transdialectal Function, and Script As Social History; updated overview, index, 蜜獾吃书, 鲁迅, Observation Before Inference, and Interpretation And Overinterpretation. No direct contradiction found; the source extends the evidence-discipline branch by showing that character interpretation should follow documented form history before turning written signs into cultural stories.
+
+## [2026-07-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

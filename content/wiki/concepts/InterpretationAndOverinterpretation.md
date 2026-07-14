@@ -2,7 +2,7 @@
 title: "Interpretation And Overinterpretation"
 type: concept
 tags: [interpretation, literature, reasoning, semiotics]
-sources: [53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699]
+sources: [53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319]
 last_updated: 2026-07-14
 ---
 
@@ -14,12 +14,15 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 
 [[54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699]] makes the boundary explicit in the ending. The apparent [[BookOfRevelation|Revelation]] sequence gives the deaths a beautiful order, but the actual chain runs through poison, stolen access, jealousy, political pressure, and [[JorgeOfBurgos|Jorge]]'s opportunistic manipulation. The episode connects this to [[ConspiracyTheoryPatternSeeking]]: overinterpretation is seductive because it makes the interpreter feel that they see a hidden order others miss.
 
+[[57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319]] adds a non-literary sign system through Chinese characters. Folk拆字 can make a modern glyph feel self-explanatory, but the episode argues that character interpretation needs [[CharacterFormEvolution]] and [[ChineseCharacterEvidenceDiscipline]] before it becomes more than a memorable story.
+
 ## Key Claims
 - Interpretation is necessary because signs do not explain themselves.
 - Overinterpretation begins when a reader treats an attractive pattern as proof before checking evidence, context, and alternative explanations.
 - Fear and authority can make overinterpretation socially powerful: a doubtful sign can become accusation, doctrine, or punishment.
 - Good interpretation requires humility about probability, missing evidence, genre convention, and one's own desire for meaning.
 - Overinterpretation often survives by making coincidence, partial truth, and manipulation look like a single hidden design.
+- In writing-system interpretation, overinterpretation can begin when a modern character component is treated as direct proof of ancient meaning.
 
 ## Connections
 - [[SemioticDetectiveFiction]] - mystery form where the boundary becomes part of the plot.
@@ -30,3 +33,4 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 - [[ConspiracyTheoryPatternSeeking]], [[RationalHumility]], and [[AntiDetectiveFiction]] - lower-half concepts that make the boundary more explicit.
 - [[ClassicReadingComplexity]] - broader literary discipline of resisting flat or premature readings.
 - [[AuthorCharacterSeparation]] - adjacent interpretive discipline for not collapsing one voice into the whole work's doctrine.
+- [[FolkCharacterEtymologyRisk]], [[CharacterFormEvolution]], and [[ChineseCharacterEvidenceDiscipline]] - episode 57's extension into Chinese-character signs and unsupported拆字.

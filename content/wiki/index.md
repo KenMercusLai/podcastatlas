@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [57.说解汉字：屎尿屁为啥是“尸”字头？](sources/57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319.md) — 蜜獾吃书 episode on Chinese-character origins, oracle-bone evidence, folk拆字 risks, 《说文解字》 limits, and why "尸" in 屎尿屁 points to body posture rather than corpses.
 - [56.伴生：世界破破烂烂，小动物缝缝补补](sources/56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301.md) — 蜜獾吃书 episode on 《伴生》, Aysha Akhtar, companion animals, trauma recovery, disaster evacuation, domestic violence, animal-assisted therapy, animal cruelty, empathy, and animal welfare as public health.
 - [55.安徒生童话：海的女儿和不灭的灵魂](sources/55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306.md) — 蜜獾吃书 episode rereading Andersen as adult fairy-tale literature through satire, death, children as serious readers, 《海的女儿》, immortal soul, Ye Junjian's translation, and Disney adaptation debates.
 - [54.玫瑰的名字（下）：真与假，正与邪，诠释与过度诠释](sources/54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699.md) — 蜜獾吃书 episode completing 《玫瑰的名字》 through the poisoned Aristotle text, Jorge's knowledge control, false Revelation patterning, anti-detective structure, conspiracy-style overinterpretation, laughter, and political show trial.
@@ -357,6 +358,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《说解汉字150讲》](entities/ShuojieHanzi150Jiang.md) — Li Shoukui book used by 蜜獾吃书 as an accessible guide to evidence-bound Chinese-character form history.
+- [《甲骨文的故事》](entities/JiaguwenDeGushi.md) — Oracle-bone-script book used by episode 57 to ground character explanations in early written evidence.
+- [李守奎](entities/LiShoukui.md) — Scholar named as the author of 《说解汉字150讲》, the episode's main modern reference for Chinese-character interpretation.
+- [董作斌](entities/DongZuobin.md) — Oracle-bone-script scholar named through 《甲骨文的故事》 in the Chinese-character evidence episode.
+- [董敏](entities/DongMin.md) — Co-named author of 《甲骨文的故事》 in the episode's oracle-bone-script reference context.
+- [《说文解字》](entities/ShuowenJiezi.md) — Classical Chinese-character dictionary treated as foundational but corrigible in light of later excavated evidence.
+- [许慎](entities/XuShen.md) — Authorial figure behind 《说文解字》, used by the source to show why authority and evidence must be separated.
+- [Ferdinand de Saussure / 索绪尔](entities/FerdinandDeSaussure.md) — Linguist cited by episode 57 for distinguishing language and writing as different systems.
 - [《伴生》 / Our Symphony with Animals](entities/OurSymphonyWithAnimals.md) — Aysha Akhtar book discussed by 蜜獾吃书 as a memoir, medicine, animal-ethics, and public-health argument about human-animal well-being.
 - [Aysha Akhtar / 阿依莎·阿赫塔](entities/AyshaAkhtar.md) — Physician and animal-ethics author whose 《伴生》 connects personal trauma, companion animals, public health, and animal-cruelty violence risk.
 - [安徒生 / Hans Christian Andersen](entities/HansChristianAndersen.md) — Danish fairy-tale writer read by 蜜獾吃书 as an all-ages author of satire, sorrow, death, marginality, and spiritual longing.
@@ -2164,6 +2173,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Chinese Character Evidence Discipline](concepts/ChineseCharacterEvidenceDiscipline.md) — Practice of explaining Chinese characters through attested historical forms and scholarly uncertainty rather than modern visual association alone.
+- [Character Form Evolution](concepts/CharacterFormEvolution.md) — Pattern where Chinese characters change across oracle-bone, bronze, seal, clerical, traditional, simplified, and modern forms.
+- [Folk Character Etymology Risk](concepts/FolkCharacterEtymologyRisk.md) — Error pattern where memorable modern拆字 stories are mistaken for historical character evidence.
+- [Hanzi Transdialectal Function](concepts/HanziTransdialectalFunction.md) — Function of Chinese characters as a written layer that can maintain communication across different pronunciations and speech varieties.
+- [Script As Social History](concepts/ScriptAsSocialHistory.md) — Frame for reading character forms as evidence of posture, labor, ritual, childbirth, punishment, animals, and everyday social life when grounded in form history.
 - [Animal Welfare As Public Health](concepts/AnimalWelfareAsPublicHealth.md) — Frame that animal welfare belongs inside health, trauma recovery, disaster response, domestic-violence safety, and violence-prevention systems.
 - [Companion Animal Health](concepts/CompanionAnimalHealth.md) — Pattern where companion animals support human mental, social, and physiological well-being through attachment, responsibility, touch, and nonjudgmental presence.
 - [Animal-Assisted Therapy](concepts/AnimalAssistedTherapy.md) — Use of animals to support trauma expression, emotional regulation, court testimony, PTSD care, and safer communication.

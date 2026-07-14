@@ -235,6 +235,10 @@
     "title": "56.伴生：世界破破烂烂，小动物缝缝补补",
     "url": "/wiki/sources/56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301/"
   },
+  "57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319": {
+    "title": "57.说解汉字：屎尿屁为啥是“尸”字头？",
+    "url": "/wiki/sources/57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319/"
+  },
   "58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859": {
     "title": "58.儒林外史：假如考公成了唯一出路",
     "url": "/wiki/sources/58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859/"
@@ -2459,6 +2463,10 @@
     "title": "Character AI",
     "url": "/wiki/entities/characterai/"
   },
+  "CharacterFormEvolution": {
+    "title": "Character Form Evolution",
+    "url": "/wiki/concepts/characterformevolution/"
+  },
   "CharacterRelationshipStoryLogic": {
     "title": "Character Relationship Story Logic",
     "url": "/wiki/concepts/characterrelationshipstorylogic/"
@@ -2574,6 +2582,10 @@
   "ChinaUnicom": {
     "title": "China Unicom",
     "url": "/wiki/entities/chinaunicom/"
+  },
+  "ChineseCharacterEvidenceDiscipline": {
+    "title": "Chinese Character Evidence Discipline",
+    "url": "/wiki/concepts/chinesecharacterevidencediscipline/"
   },
   "ChineseCrestedTern": {
     "title": "中华凤头燕鸥 / Chinese Crested Tern",
@@ -3767,6 +3779,14 @@
     "title": "Dong Hongguang / 董宏光",
     "url": "/wiki/entities/donghongguang/"
   },
+  "DongMin": {
+    "title": "董敏",
+    "url": "/wiki/entities/dongmin/"
+  },
+  "DongZuobin": {
+    "title": "董作斌",
+    "url": "/wiki/entities/dongzuobin/"
+  },
   "Dongniao": {
     "title": "懂鸟 / Dongniao",
     "url": "/wiki/entities/dongniao/"
@@ -4459,6 +4479,10 @@
     "title": "Fenway Sports Group",
     "url": "/wiki/entities/fenwaysportsgroup/"
   },
+  "FerdinandDeSaussure": {
+    "title": "Ferdinand de Saussure / 索绪尔",
+    "url": "/wiki/entities/ferdinanddesaussure/"
+  },
   "Ferrari": {
     "title": "Ferrari",
     "url": "/wiki/entities/ferrari/"
@@ -4606,6 +4630,10 @@
   "FoldablePhoneProductivity": {
     "title": "Foldable Phone Productivity",
     "url": "/wiki/concepts/foldablephoneproductivity/"
+  },
+  "FolkCharacterEtymologyRisk": {
+    "title": "Folk Character Etymology Risk",
+    "url": "/wiki/concepts/folkcharacteretymologyrisk/"
   },
   "FoodInflation": {
     "title": "Food Inflation",
@@ -5470,6 +5498,10 @@
   "HantingHotel": {
     "title": "Hanting Hotel",
     "url": "/wiki/entities/hantinghotel/"
+  },
+  "HanziTransdialectalFunction": {
+    "title": "Hanzi Transdialectal Function",
+    "url": "/wiki/concepts/hanzitransdialectalfunction/"
   },
   "Haoda": {
     "title": "豪大",
@@ -6375,6 +6407,10 @@
     "title": "Ji Qi",
     "url": "/wiki/entities/jiqi/"
   },
+  "JiaguwenDeGushi": {
+    "title": "《甲骨文的故事》",
+    "url": "/wiki/entities/jiaguwendegushi/"
+  },
   "JiangXiaoyu": {
     "title": "江小鱼",
     "url": "/wiki/entities/jiangxiaoyu/"
@@ -7050,6 +7086,10 @@
   "LiPengcheng": {
     "title": "Li Pengcheng",
     "url": "/wiki/entities/lipengcheng/"
+  },
+  "LiShoukui": {
+    "title": "李守奎",
+    "url": "/wiki/entities/lishoukui/"
   },
   "LiTiantian": {
     "title": "李天天",
@@ -10303,6 +10343,10 @@
     "title": "Screen-Time Parenting",
     "url": "/wiki/concepts/screentimeparenting/"
   },
+  "ScriptAsSocialHistory": {
+    "title": "Script As Social History",
+    "url": "/wiki/concepts/scriptassocialhistory/"
+  },
   "SeaLifeTrust": {
     "title": "Sea Life Trust",
     "url": "/wiki/entities/sealifetrust/"
@@ -10618,6 +10662,14 @@
   "Shunde": {
     "title": "Shunde / 顺德",
     "url": "/wiki/entities/shunde/"
+  },
+  "ShuojieHanzi150Jiang": {
+    "title": "《说解汉字150讲》",
+    "url": "/wiki/entities/shuojiehanzi150jiang/"
+  },
+  "ShuowenJiezi": {
+    "title": "《说文解字》",
+    "url": "/wiki/entities/shuowenjiezi/"
   },
   "SichuanChanghong": {
     "title": "Sichuan Changhong",
@@ -12706,6 +12758,10 @@
   "XuHuazhe": {
     "title": "Xu Huazhe",
     "url": "/wiki/entities/xuhuazhe/"
+  },
+  "XuShen": {
+    "title": "许慎",
+    "url": "/wiki/entities/xushen/"
   },
   "XuTao": {
     "title": "徐涛",

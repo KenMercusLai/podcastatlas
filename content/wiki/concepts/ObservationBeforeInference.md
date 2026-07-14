@@ -2,7 +2,7 @@
 title: "Observation Before Inference"
 type: concept
 tags: [science, reasoning, evidence, fieldwork]
-sources: [47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699]
+sources: [47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319]
 last_updated: 2026-07-14
 ---
 
@@ -16,6 +16,8 @@ The concept is adjacent to [[BirdwatchingAsAttention]], but it is more explicitl
 
 [[54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699]] adds the correction stage: William's Revelation theory is elegant but not fully grounded. The episode uses his partial failure to define [[RationalHumility]] as part of evidence discipline rather than a retreat from reason.
 
+[[57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319]] adds a language-history version. The source argues that Chinese-character interpretation should begin from documented forms, including oracle-bone script, bronze inscriptions, seal script, and clerical script, before producing a meaning story. That makes [[ChineseCharacterEvidenceDiscipline]] a script-specific case of observation before inference.
+
 ## Key Claims
 - A plausible story is not evidence.
 - Morphology can suggest habits, but external appearance alone can mislead.
@@ -24,6 +26,7 @@ The concept is adjacent to [[BirdwatchingAsAttention]], but it is more explicitl
 - Scientific humility includes noticing when one's own explanation is only a post hoc story.
 - Literary deduction has the same risk: a clever pattern can be useful only if it stays accountable to traces, context, and probability.
 - Correction is part of method: a failed or lucky conjecture should be marked as such rather than converted into certainty.
+- For character explanation, a modern glyph is not enough; the interpreter needs a historical form sequence before making an etymological claim.
 
 ## Connections
 - [[BirdwatchingAsAttention]] - attention as the entry point.
@@ -32,3 +35,4 @@ The concept is adjacent to [[BirdwatchingAsAttention]], but it is more explicitl
 - [[EvolutionaryTraitInterpretation]] - traits need history and evidence before explanation.
 - [[RedCrownedCrane|丹顶鹤]] - basic observation overturning a cultural image.
 - [[WilliamOfBaskerville|巴斯克维尔的威廉]], [[SemioticDetectiveFiction]], [[InterpretationAndOverinterpretation]], and [[RationalHumility]] - the Rose episodes' extension into detective reasoning and false-sign risk.
+- [[ChineseCharacterEvidenceDiscipline]], [[CharacterFormEvolution]], and [[FolkCharacterEtymologyRisk]] - episode 57's extension into evidence-bound Chinese-character interpretation.
