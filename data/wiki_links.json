@@ -155,6 +155,10 @@
     "title": "167: 洋葱学园杨临风：用AI制造捷径，是在杀死真学习",
     "url": "/wiki/sources/167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1/"
   },
+  "171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962": {
+    "title": "171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感",
+    "url": "/wiki/sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962/"
+  },
   "172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860": {
     "title": "172.好运是什么？为啥说总避雷会败好运？",
     "url": "/wiki/sources/172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860/"
@@ -2547,6 +2551,10 @@
     "title": "Bubble Necessary Conditions",
     "url": "/wiki/concepts/bubblenecessaryconditions/"
   },
+  "Bucephalus": {
+    "title": "Bucephalus / 布西法拉斯",
+    "url": "/wiki/entities/bucephalus/"
+  },
   "Budokan": {
     "title": "Budokan",
     "url": "/wiki/entities/budokan/"
@@ -3899,6 +3907,10 @@
     "title": "Dali Container Ship",
     "url": "/wiki/entities/dalicontainership/"
   },
+  "DaliJiaMa": {
+    "title": "Dali Jia Ma / 大理甲马",
+    "url": "/wiki/entities/dalijiama/"
+  },
   "Damai": {
     "title": "Damai",
     "url": "/wiki/entities/damai/"
@@ -4802,6 +4814,10 @@
   "ElNinoClimateRisk": {
     "title": "El Nino Climate Risk",
     "url": "/wiki/concepts/elninoclimaterisk/"
+  },
+  "EldenRing": {
+    "title": "Elden Ring / 艾尔登法环",
+    "url": "/wiki/entities/eldenring/"
   },
   "ElderCareStateCapacity": {
     "title": "Elder Care State Capacity",
@@ -6355,6 +6371,10 @@
     "title": "Guangzhou / 广州",
     "url": "/wiki/entities/guangzhou/"
   },
+  "Guanyin": {
+    "title": "Guanyin / 观音",
+    "url": "/wiki/entities/guanyin/"
+  },
   "Guigui": {
     "title": "龟龟",
     "url": "/wiki/entities/guigui/"
@@ -6854,6 +6874,30 @@
   "HorrorHumorWeirdFiction": {
     "title": "Horror-Humor Weird Fiction",
     "url": "/wiki/concepts/horrorhumorweirdfiction/"
+  },
+  "Horse": {
+    "title": "Horse / 马",
+    "url": "/wiki/entities/horse/"
+  },
+  "HorseAsCivilizationalInfrastructure": {
+    "title": "Horse As Civilizational Infrastructure",
+    "url": "/wiki/concepts/horseascivilizationalinfrastructure/"
+  },
+  "HorseCulturalSymbolism": {
+    "title": "Horse Cultural Symbolism",
+    "url": "/wiki/concepts/horseculturalsymbolism/"
+  },
+  "HorseDomesticationHistory": {
+    "title": "Horse Domestication History",
+    "url": "/wiki/concepts/horsedomesticationhistory/"
+  },
+  "HorseHeadGuanyin": {
+    "title": "Horse-Head Guanyin / 马头观音",
+    "url": "/wiki/entities/horseheadguanyin/"
+  },
+  "HorseReligiousMythology": {
+    "title": "Horse Religious Mythology",
+    "url": "/wiki/concepts/horsereligiousmythology/"
   },
   "HospiceCare": {
     "title": "安宁疗护 / Hospice Care",
@@ -8702,6 +8746,10 @@
   "Longbridge": {
     "title": "Longbridge",
     "url": "/wiki/entities/longbridge/"
+  },
+  "Longma": {
+    "title": "Longma / 龙马",
+    "url": "/wiki/entities/longma/"
   },
   "LongwangZhinu1931ChangjiangShuizai": {
     "title": "《龙王之怒：1931年长江水灾》",
@@ -11951,6 +11999,10 @@
     "title": "Roadside Advertising Spectacle",
     "url": "/wiki/concepts/roadsideadvertisingspectacle/"
   },
+  "RoaldDahl": {
+    "title": "Roald Dahl / 罗尔德·达尔",
+    "url": "/wiki/entities/roalddahl/"
+  },
   "RobbieMcCluskey": {
     "title": "Robbie McCluskey",
     "url": "/wiki/entities/robbiemccluskey/"
@@ -13274,6 +13326,10 @@
   "StoryLedConsumerBranding": {
     "title": "Story Led Consumer Branding",
     "url": "/wiki/concepts/storyledconsumerbranding/"
+  },
+  "StoryMotifTransmission": {
+    "title": "Story Motif Transmission",
+    "url": "/wiki/concepts/storymotiftransmission/"
   },
   "StoryWithinStoryNarration": {
     "title": "Story-Within-Story Narration",

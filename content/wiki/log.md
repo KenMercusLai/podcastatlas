@@ -3252,3 +3252,11 @@ Added source page for the 起朱楼宴宾客 episode on personal pension account
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-15] ingest | 171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感
+
+Added source page for the 蜜獾吃书 zodiac-horse episode on horses as religious image, war and transport infrastructure, domesticated animal, language root, folk-print courier, therapy partner, and pop-cultural motif. Created pages for Horse / 马, Guanyin / 观音, Horse-Head Guanyin / 马头观音, Longma / 龙马, Elden Ring / 艾尔登法环, Bucephalus / 布西法拉斯, Roald Dahl, Dali Jia Ma / 大理甲马, Horse Cultural Symbolism, Horse Religious Mythology, Horse As Civilizational Infrastructure, Horse Domestication History, and Story Motif Transmission; updated overview, index, 蜜獾吃书, Matilda, Animal-Assisted Therapy, Mythic Source Layering, Myth As Historical Evidence, Greek Mythology, and Chinese Character Evidence Discipline. No direct contradiction found; the source complements existing animal-care, folk-religion, mythology, and language-evidence branches by showing how one animal can remain culturally powerful after its practical infrastructure role declines.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

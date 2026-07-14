@@ -2,13 +2,15 @@
 title: "Chinese Character Evidence Discipline"
 type: concept
 tags: [language, chinese-characters, evidence, paleography]
-sources: [57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319]
-last_updated: 2026-07-14
+sources: [171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319]
+last_updated: 2026-07-15
 ---
 
 # Chinese Character Evidence Discipline
 
 Chinese character evidence discipline is the practice of explaining a character through attested historical forms, source comparison, and scholarly uncertainty rather than through present-day visual association alone. [[57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319]] adds the concept through a [[MihuanChishu|蜜獾吃书]] episode on why "屎、尿、屁" use the "尸" component.
+
+[[171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962]] adds the "马" branch. The episode discusses "马" as a pictographic graph, horse-radical characters such as 驾, 驶, 御, 驰, 驱, 驻, 骤, 骗, 骚, 骇, and 骄, and the semantic drift of "骗" from mounting-related motion toward deception. It extends the page's evidence discipline by tying form, animal behavior, transport, and later abstract meanings together without relying only on modern拆字.
 
 The episode's core move is methodological. It uses [[ShuojieHanzi150Jiang|《说解汉字150讲》]], [[JiaguwenDeGushi|《甲骨文的故事》]], and [[ShuowenJiezi|《说文解字》]] to argue that explanation should move through [[CharacterFormEvolution]]: oracle-bone script, bronze inscriptions, seal script, clerical script, and modern forms can each preserve or distort earlier meaning. That makes the concept a language-specific version of [[ObservationBeforeInference]].
 

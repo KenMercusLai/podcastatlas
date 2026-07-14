@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [171.闲聊十二生肖之马：观音大士的兴趣爱好,及老头环角色的灵感](sources/171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962.md) — 蜜獾吃书 episode using the zodiac horse to connect religion, mythology, domestication, war, trade, language, 大理甲马, 马疗, and Elden Ring-style pop-cultural motif afterlives.
 - [vol.109. FOF派VS指数派，关于个人养老金账户该配什么的一场辩论](sources/vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x.md) — 起朱楼宴宾客 episode on personal pension accounts, index funds versus FOF, target-date funds, tax-preferred long-term contribution discipline, and retirement-account portfolio suitability.
 - [vol.108.日本五大综合商社：重返舞台中央](sources/vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq.md) — 起朱楼宴宾客 episode on Japanese sogo shosha, the five major trading companies, keiretsu, business investment, low-equity commercial rights, and why deglobalization may restore intermediary value.
 - [vol.107.85后提问95后：如果事情不需要做选择，那我就装尸体旁观](sources/vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa.md) — 起朱楼宴宾客 episode with 大卫翁 and Siri on 95后 attention boundaries, youth "corpse mode", work-life separation, controllable life anchors, finance-career judgment, and relationship optionality.
@@ -409,6 +410,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Horse / 马](entities/Horse.md) — Central animal in episode 171, linking practical mobility, war, trade, domestication, religious imagery, therapy, language, and modern symbolic afterlives.
+- [Guanyin / 观音](entities/Guanyin.md) — Deity figure used by episode 171 to anchor Buddhist horse imagery and the Horse-Head Guanyin association.
+- [Horse-Head Guanyin / 马头观音](entities/HorseHeadGuanyin.md) — Wrathful horse-linked Guanyin form used by episode 171 to show how horse symbolism becomes protective religious iconography.
+- [Longma / 龙马](entities/Longma.md) — Dragon-horse figure used by episode 171 for Hetu, omen, and Chinese civilizational-origin symbolism.
+- [Elden Ring / 艾尔登法环](entities/EldenRing.md) — Fantasy game discussed by episode 171 through possible horned-mount inspiration from Bucephalus and mythic animal-name layering.
+- [Bucephalus / 布西法拉斯](entities/Bucephalus.md) — Alexander's famous horse, used by episode 171 as a named-mount and "ox-head" clue connecting ancient horse culture to modern fantasy design.
+- [Roald Dahl / 罗尔德·达尔](entities/RoaldDahl.md) — Author of Matilda, introduced by episode 171 through the musical's courage-and-resistance framing.
+- [Dali Jia Ma / 大理甲马](entities/DaliJiaMa.md) — Folk print and ritual-courier image practice used by episode 171 to connect horse speed, passage rights, and living folk design.
 - [蒋华安 / Jiang Huaan](entities/JiangHuaan.md) — Vol.109 guest arguing that personal pension account products should be chosen by retirement horizon, risk fit, allocation discipline, and institutional quality rather than simple FOF-versus-index labels.
 - [Mitsubishi Corporation / 三菱商事](entities/MitsubishiCorporation.md) — Japanese sogo shosha used by vol.108 as a food-supply-chain and keiretsu-linked trading-company infrastructure case.
 - [Mitsui & Co. / 三井物产](entities/MitsuiAndCo.md) — Japanese sogo shosha used by vol.108 to explain steel-chain integration, metals/energy diversification, and commercial information networks.
@@ -2547,6 +2556,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Horse Cultural Symbolism](concepts/HorseCulturalSymbolism.md) — Episode 171 frame for how horses retain meanings of courage, speed, loyalty, freedom, authority, rescue, and ritual passage after everyday horse dependence declines.
+- [Horse Religious Mythology](concepts/HorseReligiousMythology.md) — Cross-religious pattern from episode 171 where horses become sacred messengers, divine mounts, rescuers, omens, and apocalyptic signs.
+- [Horse As Civilizational Infrastructure](concepts/HorseAsCivilizationalInfrastructure.md) — Episode 171 historical frame for horses as mobility infrastructure behind war, trade, pastoral movement, state capacity, and Eurasian exchange.
+- [Horse Domestication History](concepts/HorseDomesticationHistory.md) — Episode 171 natural-history layer connecting horse evolution, grassland adaptation, Central Asian domestication, burden, milk, meat, riding, and chariots.
+- [Story Motif Transmission](concepts/StoryMotifTransmission.md) — Folklore method from episode 171 for reading recurring motifs as portable patterns shaped by borrowing, reinvention, contact, and retrospective tradition-making.
 - [Personal Pension Account / 个人养老金账户](concepts/PersonalPensionAccount.md) — Tax-preferred retirement-account wrapper where product choice must fit retirement date, contribution rhythm, risk tolerance, and long-term holding discipline.
 - [Target-Date Fund / 目标日期基金](concepts/TargetDateFund.md) — Retirement-year fund structure that uses a glide path to adjust equity risk as the target retirement date approaches.
 - [Japanese Sogo Shosha / 日本综合商社](concepts/JapaneseSogoShosha.md) — Japanese general trading-company model combining trade, financing, information, logistics, investment, global offices, and long-term supply-chain relationships.
