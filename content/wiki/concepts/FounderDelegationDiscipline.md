@@ -2,8 +2,8 @@
 title: "Founder Delegation Discipline"
 type: concept
 tags: [startup, leadership, operations]
-sources: [tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final]
-last_updated: 2026-07-12
+sources: [tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio, tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final]
+last_updated: 2026-07-14
 ---
 
 # Founder Delegation Discipline
@@ -20,6 +20,8 @@ The surprising part of the source is that fewer hours did not mean lower leverag
 
 [[tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio]] adds [[SajithWickramasekara]]'s customer-contact boundary through [[Benchling]]. Sajith does not argue for a flat company; he says Benchling has layers and senior leaders. His delegation rule is that leaders cannot outsource customer understanding to a machine below them, because executives who do not talk to customers weaken the founder's ability to trust their judgment.
 
+[[tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio]] adds [[JenHerbach]]'s science-team accountability boundary through [[AdventrisPharmaceuticals]]. Jen did not respond to slow scientific progress by taking every task away from the team; she moved closer to the daily work, required end-of-day standups, and let the accountability shift reveal who could operate at the needed pace.
+
 ## Key Claims
 - A founder can hurt execution by repeatedly adding new fires, even when each intervention feels individually useful.
 - Delegation requires making ownership real enough that the team can decide without waiting for founder approval.
@@ -32,6 +34,7 @@ The surprising part of the source is that fewer hours did not mean lower leverag
 - A founder should distinguish decisions that can teach from decisions whose failure would damage the company too much.
 - Delegating customer-facing functions does not remove the need for senior leaders to hear customers directly.
 - Leaders who inherit successful prior-company habits may still need founder challenge when those habits disconnect them from the current company's customers.
+- Delegating scientific work does not remove the founder's responsibility to understand pace, blockers, and team fit when the company's core risk is technical execution.
 
 ## Connections
 - [[DavidRusenko]], [[Weebly]], [[Square]], and [[SquareOnline]] - source case.
@@ -39,5 +42,6 @@ The surprising part of the source is that fewer hours did not mean lower leverag
 - [[ChristinaCacioppo]] and [[Vanta]] - source case for selective founder involvement when delegation threatens high-regret outcomes.
 - [[EmmettShear]], [[Twitch]], [[FounderContextPropagation]], and [[ConwaysLawOrganizationalDesign]] - source case for delegation constrained by company-wide context and information flow.
 - [[SajithWickramasekara]], [[Benchling]], [[FounderProximity]], and [[StageAppropriateHiring]] - source case for delegation that preserves direct executive customer contact.
+- [[JenHerbach]], [[AdventrisPharmaceuticals]], [[CancerVaccinePlatform]], and [[BiotechFounderControl]] - source case for delegation that preserves scientific accountability without turning the founder into the only scientist.
 - [[FounderMode]], [[FounderLedFunctionalOrganization]], [[SecondTimeFounderOperatingJudgment]], [[StageAppropriateHiring]], and [[StartupGovernance]] - adjacent operating concepts.
 - [[OrganizationalContext]] - information and responsibility distribution inside a company.

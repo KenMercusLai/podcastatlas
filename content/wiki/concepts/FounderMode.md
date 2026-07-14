@@ -2,8 +2,8 @@
 title: "Founder Mode"
 type: concept
 tags: [startups, leadership, organization-design, ai]
-sources: [tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly, tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly, tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly, tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
-last_updated: 2026-07-12
+sources: [tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio, tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly, tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly, tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly, tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
+last_updated: 2026-07-14
 ---
 
 # Founder Mode
@@ -32,6 +32,8 @@ The source presents the COVID crisis as the forcing function that let [[Airbnb]]
 
 [[tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio]] adds [[SajithWickramasekara]]'s Benchling version. Sajith defines founder mode as ownership: caring about details, treating small lapses as cultural standards, staying close to customers, and modeling the behavior expected from senior leaders. The case makes [[FounderProximity]] and [[StageAppropriateHiring]] central to founder mode because Benchling's scaling problems came from leaders becoming too disconnected from customers and from waiting too long to act when imported executive playbooks did not fit.
 
+[[tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio]] adds [[JenHerbach]]'s biotech version through [[AdventrisPharmaceuticals]]. Her founder mode began when [[BrianChesky]]'s talk made her question the assumption that a business-side founder should stay out of daily lab science. She moved closer to the work, created daily end-of-day standups, and accepted team changes as accountability rose. The case also adds [[BiotechFounderControl]]: founder involvement in the science mattered because SAFEs and no investor board seats preserved authority to reject scientific advice the team believed was wrong.
+
 [[tsr-s5-catchup2-v1-tsr-s5-catchup2-v1]] adds the format context around the concept. [[JessicaLivingston]] and [[CarolynLevy]] describe Founder Mode as a shorter-form [[TheSocialRadars]] interview series about moments when founders had to go into founder mode or define what the phrase means to them. The source does not change the doctrine, but it explains why a cluster of YC offsite founder-mode sources arrived as a side series before the main Season Five launch.
 
 ## Key Claims
@@ -59,6 +61,8 @@ The source presents the COVID crisis as the forcing function that let [[Airbnb]]
 - In Sajith Wickramasekara's version, founder mode is an ownership mentality expressed through visible standards, customer contact, and willingness to challenge inherited management playbooks.
 - Senior leaders can exist inside founder mode, but customer contact cannot become something only lower layers do.
 - Founder intuition about executive fit has to be acted on before rationalized misfit becomes company drift.
+- In Jen Herbach's version, founder mode can mean a non-lab CEO getting close enough to scientific execution to raise accountability and improve team fit.
+- Founder mode can depend on formal governance: close founder involvement has less force if investor board control can override the scientific strategy.
 - The Founder Mode series is a shorter-form interview format, not only a single essay or doctrine, and its value is partly comparative: different founders define the same term through different operating moments.
 
 ## Connections
@@ -76,4 +80,5 @@ The source presents the COVID crisis as the forcing function that let [[Airbnb]]
 - [[ChristinaCacioppo]], [[Vanta]], [[SOC2Audit]], [[ManualComplianceMVP]], [[FounderDelegationDiscipline]], and [[StageAppropriateHiring]] - compliance SaaS case added by the Christina Cacioppo founder-mode episode.
 - [[EmmettShear]], [[Twitch]], [[Softmax]], [[FounderContextPropagation]], [[ConwaysLawOrganizationalDesign]], and [[AICollectiveAlignment]] - context-transfer, organization-design, and alignment case added by the Emmett Shear founder-mode episode.
 - [[SajithWickramasekara]], [[Benchling]], [[LifeSciencesWorkflowSoftware]], [[FounderProximity]], and [[StageAppropriateHiring]] - life-sciences SaaS founder-mode case added by the Sajith Wickramasekara episode.
+- [[JenHerbach]], [[AdventrisPharmaceuticals]], [[CancerVaccinePlatform]], [[KRASOncologyTarget]], and [[BiotechFounderControl]] - biotech founder-mode case added by the Jen Herbach episode.
 - [[tsr-s5-catchup2-v1-tsr-s5-catchup2-v1]] - show-level context for why the founder-mode interviews appeared as a side series before Season Five.

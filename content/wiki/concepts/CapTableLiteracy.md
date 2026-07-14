@@ -2,8 +2,8 @@
 title: "Cap Table Literacy"
 type: concept
 tags: [startups, equity, governance, fundraising]
-sources: [tsr-s3-yinwu-v2-tsr-s3-yinwu-v2]
-last_updated: 2026-07-11
+sources: [tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2]
+last_updated: 2026-07-14
 ---
 
 # Cap Table Literacy
@@ -12,13 +12,17 @@ Cap table literacy is the founder's ability to understand who owns the company, 
 
 Yin says many early founders she onboarded could not accurately answer how much of their company they owned. The episode treats that gap as strategic, not clerical: a founder who misunderstands the cap table may misprice a fundraise, overpromise equity to employees, or discover too late that early advisors, accelerators, friends-and-family checks, and co-founders changed the company's ownership structure.
 
+[[tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio]] adds a board-control example through [[JenHerbach]] and [[AdventrisPharmaceuticals]]. Herbach says [[YCombinator]] advice to use SAFEs and reject an investor board seat initially seemed abstract, but later mattered when an investor disagreed with the company's scientific strategy. The source connects cap-table literacy to [[BiotechFounderControl]]: financing instruments and board seats can decide whether a founder can keep product and science judgment actionable.
+
 ## Key Claims
 - Cap table knowledge is a founder decision tool, not only a legal or finance artifact.
 - Ownership, dilution, employee pools, investor rights, and board control should be understood before high-stakes fundraising or hiring moments.
 - Better cap table literacy supports [[FounderEquityDilution]], [[FundraisingScenarioModeling]], [[EmployeeEquityCommunication]], and [[FounderControl]].
 - The concept links equity upside to governance: the same ownership system that motivates employees can weaken founders if it is poorly understood.
+- SAFE and board-seat choices can matter later even when they seem secondary at the moment of fundraising.
 
 ## Connections
 - [[Pulley]] and [[YinWu]] - source case.
 - [[FounderEquityDilution]], [[FundraisingScenarioModeling]], [[EmployeeEquityCommunication]], and [[FounderControl]] - adjacent concepts added by the source.
 - [[StartupGovernance]], [[EquityCompensationUpside]], and [[TrustAsBusinessAsset]] - existing governance, compensation, and trust frames.
+- [[JenHerbach]], [[AdventrisPharmaceuticals]], and [[BiotechFounderControl]] - board-control case added by the Jen Herbach source.

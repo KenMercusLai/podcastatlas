@@ -895,6 +895,10 @@
     "title": "Advanced Local Express Desk",
     "url": "/wiki/entities/advancedlocalexpressdesk/"
   },
+  "AdventrisPharmaceuticals": {
+    "title": "Adventris Pharmaceuticals",
+    "url": "/wiki/entities/adventrispharmaceuticals/"
+  },
   "AdventuresOfBaronMunchausen": {
     "title": "《吹牛大王历险记》 / Adventures of Baron Munchausen",
     "url": "/wiki/entities/adventuresofbaronmunchausen/"
@@ -1847,6 +1851,10 @@
     "title": "Bioregional Resilience",
     "url": "/wiki/concepts/bioregionalresilience/"
   },
+  "BiotechFounderControl": {
+    "title": "Biotech Founder Control",
+    "url": "/wiki/concepts/biotechfoundercontrol/"
+  },
   "BirdDispersalEcology": {
     "title": "Bird Dispersal Ecology",
     "url": "/wiki/concepts/birddispersalecology/"
@@ -2162,6 +2170,10 @@
   "CampusSpeechRegulation": {
     "title": "Campus Speech Regulation",
     "url": "/wiki/concepts/campusspeechregulation/"
+  },
+  "CancerVaccinePlatform": {
+    "title": "Cancer Vaccine Platform",
+    "url": "/wiki/concepts/cancervaccineplatform/"
   },
   "CandidateIdentityFraud": {
     "title": "Candidate Identity Fraud",
@@ -6091,6 +6103,10 @@
     "title": "Jeffrey Hollender",
     "url": "/wiki/entities/jeffreyhollender/"
   },
+  "JenHerbach": {
+    "title": "Jen Herbach",
+    "url": "/wiki/entities/jenherbach/"
+  },
   "JenWhite": {
     "title": "Jen White",
     "url": "/wiki/entities/jenwhite/"
@@ -6378,6 +6394,10 @@
   "KComputer": {
     "title": "K Computer",
     "url": "/wiki/entities/kcomputer/"
+  },
+  "KRASOncologyTarget": {
+    "title": "KRAS Oncology Target",
+    "url": "/wiki/concepts/krasoncologytarget/"
   },
   "KaiShiDaJi": {
     "title": "《开市大吉》",
@@ -13786,6 +13806,10 @@
   "tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final": {
     "title": "Founder Mode: Jake Heller, Founder & CEO, Casetext",
     "url": "/wiki/sources/tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final/"
+  },
+  "tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio": {
+    "title": "Founder Mode: Jen Herbach, Founder & CEO, Adventris Pharmaceuticals",
+    "url": "/wiki/sources/tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio/"
   },
   "tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly": {
     "title": "Founder Mode: Kashish Gupta, Founder and co-CEO of Hightouch",

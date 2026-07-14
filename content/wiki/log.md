@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-14] ingest | Founder Mode: Jen Herbach, Founder & CEO, Adventris Pharmaceuticals
+
+Added source page for The Social Radars YC offsite episode with Jen Herbach on Adventris Pharmaceuticals, cancer vaccines, KRAS, localized pancreatic cancer, IND timing, founder mode in lab science, daily standups, SAFEs, and board control. Created pages for Jen Herbach, Adventris Pharmaceuticals, Cancer Vaccine Platform, KRAS Oncology Target, and Biotech Founder Control; updated overview, index, The Social Radars, Y Combinator, Founder Mode, Founder Proximity, Founder Delegation Discipline, Startup Governance, Founder Control, and Cap Table Literacy. No existing wiki contradiction found; the source adds an internal naming note because the metadata title says Adventris Pharmaceuticals while the body repeatedly spells the company "Adventress."
+
 ## [2026-07-14] ingest | 160.优秀的绵羊：请把说“不”的权利还给我
 
 Added source page for the 蜜獾吃书 episode on 《优秀的绵羊》, 《马蒂尔达》, education pressure, red pen logic, youth mental health, helicopter parenting, Ivy League meritocracy, and the right to say no. Created pages for 《优秀的绵羊》 / Excellent Sheep, William Deresiewicz, 《马蒂尔达》 / Matilda, Anti-Authoritarian Education, Red Pen Logic, Achievement Pressure Mental Health, Ivy League Meritocracy, and Helicopter Parenting; updated overview, index, 蜜獾吃书, Stanford University, Non-Instrumental Literary Reading, Reading As Life Experience, College Major Choice, and Water And Fire Education. No direct contradiction found; the source extends the wiki's education branch by showing how elite credentials and family optimization can become internal scoring systems rather than agency-building education.
@@ -2763,3 +2767,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-14] report | lint run clarification
 
 Latest lint run completed after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-12 with 3,408 nodes while the wiki scan found 3,480 pages; they found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified. No `wiki/lint-report.md` file was saved.
+
+## [2026-07-14] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-12 with 3,408 nodes and 34,723 edges while the wiki scan found 3,486 pages; they found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified and no provider model/key environment variables are set. A bounded in-session review found no unresolved contradiction in the flagged orphan pages, fragile-bridge endpoints, and newest ingest; the newest ingest preserves an Adventris/Adventress source-name inconsistency as a data-quality note. No `wiki/lint-report.md` file was saved.
