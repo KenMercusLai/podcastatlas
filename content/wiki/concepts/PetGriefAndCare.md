@@ -2,7 +2,7 @@
 title: "Pet Grief And Care"
 type: concept
 tags: [grief, care, pets, relationships]
-sources: [ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301]
+sources: [ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]
 last_updated: 2026-07-14
 ---
 
@@ -14,6 +14,8 @@ The source treats animal companionship as emotionally serious without turning it
 
 [[56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301]] extends the concept from grief after loss into the health and safety role of living animals. Through [[OurSymphonyWithAnimals|《伴生》 / Our Symphony with Animals]], the episode treats companion animals as family, emotional regulation, responsibility, and survival infrastructure in trauma, illness, homelessness, disaster, and abuse contexts.
 
+[[39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]] adds the long-care and farewell version through [[Brenin|布列宁]]. [[MarkRowlands|Mark Rowlands / 马克·罗兰兹]] must treat Brenin's infection even when the wolf experiences care as torture, later choose not to pursue further invasive treatment after cancer returns, decide when pain has become unnecessary, and make burial and memory out of the stone cairn in [[Languedoc|朗格多克]].
+
 ## Key Claims
 
 - Pet loss can remain tied to ordinary routines because missed care tasks become emotionally charged after the fact.
@@ -21,6 +23,7 @@ The source treats animal companionship as emotionally serious without turning it
 - People often need meaning-making stories around animal death or disappearance because the relationship crosses language and explanation gaps.
 - Care can include responsibility and release at the same time: doing what is possible while recognizing that animals also exceed human control.
 - The living bond matters before loss too: animal care can give people a reason to survive, leave danger, evacuate safely, or speak about trauma.
+- End-of-life care can require painful agency: continuing treatment, stopping treatment, choosing euthanasia, and making meaning after burial are all forms of care.
 
 ## Connections
 
@@ -30,4 +33,5 @@ The source treats animal companionship as emotionally serious without turning it
 - [[LifeRestartThoughtExperiment]] - prompt that surfaces the Lily regret.
 - [[CompanionAnimalHealth]] - later source extension into animal companionship as mental, social, and bodily support.
 - [[PetInclusiveDisasterResponse]] and [[DomesticViolencePetCoercion]] - cases where care for animals changes human safety decisions.
+- [[Brenin|布列宁]], [[LoyaltyBeyondContract]], and [[PresentMomentAgainstDeath]] - long companion bond, final illness, and mortality branch added by the Rowlands source.
 - [[AIGriefBots]] and [[DigitalMemorialization]] - adjacent but technologically different grief branch already in the wiki.

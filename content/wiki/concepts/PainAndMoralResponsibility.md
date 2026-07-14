@@ -2,7 +2,7 @@
 title: "Pain And Moral Responsibility"
 type: concept
 tags: [ethics, suffering, war, literature]
-sources: [03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687]
+sources: [03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]
 last_updated: 2026-07-14
 ---
 
@@ -12,11 +12,14 @@ Pain and moral responsibility is the ethical frame the episode draws from the th
 
 The concept is not a general policy conclusion about euthanasia. In this source, the force of the scene comes from political responsibility: the same war-making order that produces mass suffering then offers "humane" death as relief. That makes pain reduction ethically necessary but insufficient unless it is joined to responsibility for the violence that caused the pain.
 
+[[39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]] adds an intimate companion-care version through [[Brenin|布列宁]]'s illness. [[MarkRowlands|Mark Rowlands / 马克·罗兰兹]] must inflict painful treatment while hoping it will save the wolf, then later decide not to prolong invasive treatment when cancer returns and pain no longer serves recovery.
+
 ## Key Claims
 - Reducing suffering matters, but it cannot substitute for asking who caused the suffering.
 - Official humanitarian language can become morally evasive when it arrives after preventable political violence.
 - The novel contrasts rule-following, mercy, courage, institutional power, and individual helplessness without resolving them neatly.
 - Rachel's final scene keeps moral responsibility connected to renewal rather than only to endurance.
+- Care can require causing short-term pain, but that makes responsibility and judgment more demanding rather than easier.
 
 ## Connections
 - [[CanticleForLeibowitz|《莱博维茨的赞歌》 / A Canticle for Leibowitz]] - source case.
@@ -24,3 +27,5 @@ The concept is not a general policy conclusion about euthanasia. In this source,
 - [[ScienceReligionCivilizationTension]] - moral disagreement between secular medical relief and religious responsibility.
 - [[ApocalypticLiterarySymbolism]] - Rachel and final-prayer imagery that complicates the suffering debate.
 - [[NonInstrumentalLiteraryReading]] - the ethical difficulty is part of the novel's reading value.
+- [[PetGriefAndCare]] and [[PresentMomentAgainstDeath]] - companion-animal illness, euthanasia, and mortality extension.
+- [[EvilAsResponsibilityFailure]] - neighboring frame where causing pain becomes evil when responsibility to the helpless fails.

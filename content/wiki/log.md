@@ -2916,3 +2916,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-14] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found two fragile bridges and no hub stubs or isolated communities. Semantic lint failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-14] ingest | 39.哲学家与狼：在朗格多克永恒的夏天
+
+Added source page for the 蜜獾吃书 episode on 《哲学家与狼》, Mark Rowlands, Brenin, wolf/dog/human intelligence, civilization as deception, evil as responsibility failure, loyalty beyond contract, companion illness, euthanasia, death, and the Languedoc summer. Created pages for Mark Rowlands / 马克·罗兰兹, 《哲学家与狼》 / The Philosopher and the Wolf, Brenin / 布列宁, Languedoc / 朗格多克, Animal Intelligence Modes, Civilization As Deception, Evil As Responsibility Failure, Loyalty Beyond Contract, and Present Moment Against Death; updated overview, index, 蜜獾吃书, Companion Animal Health, Animal Abuse Violence Link, Pet Grief And Care, Empathy Circle Expansion, Pain And Moral Responsibility, Fixed Human Nature Politics, and Thomas Hobbes. No direct contradiction found; the source's animal-cognition and civilization claims are kept as Rowlands/episode interpretations rather than general ethology consensus.
+
+## [2026-07-14] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found two fragile bridges and no hub stubs or isolated communities. Semantic lint failed because no provider-qualified LiteLLM model/API key is configured. Report returned in-session; `wiki/lint-report.md` was not saved.

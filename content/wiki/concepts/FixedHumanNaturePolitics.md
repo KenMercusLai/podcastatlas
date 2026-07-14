@@ -2,7 +2,7 @@
 title: "Fixed Human Nature Politics"
 type: concept
 tags: [political-theory, human-nature, literature, identity]
-sources: [51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320]
+sources: [51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]
 last_updated: 2026-07-14
 ---
 
@@ -14,11 +14,14 @@ The source contrasts this with an older political idea that people can be formed
 
 The concept does not deny human vice. It names the danger of making vice, nature, species, class, or identity so fixed that politics stops asking how people might become better.
 
+[[39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]] extends the concept through [[CivilizationAsDeception]]. Its Rowlands reading also begins from a harsh account of the human animal, but it complicates fixed human exceptionalism by contrasting human social calculation with wolf directness, loyalty, and refusal to bully the weak.
+
 ## Key Claims
 - Political systems can become self-limiting when they assume human nature is fixed and bad.
 - A label can help describe a person, but it becomes harmful when it becomes the person's whole essence.
 - Swift's satire attacks human vice while still keeping open the possibility that humans should be formed, educated, or warned.
 - [[PureRationalityTrap]] is a mirror danger: escaping fixed badness by fixed rational purity can also dehumanize.
+- Species labels can become morally misleading when "civilized human" and "wild animal" obscure actual conduct toward vulnerable beings.
 
 ## Connections
 - [[ThomasHobbes]] and [[NiccoloMachiavelli]] - political-theory references used by the episode.
@@ -26,3 +29,4 @@ The concept does not deny human vice. It names the danger of making vice, nature
 - [[PureRationalityTrap]] - rationalist mirror image of fixed vice.
 - [[ScaleReversalSatire]] - formal device that destabilizes fixed self-knowledge.
 - [[ActionDefinesIdentity]] - adjacent wiki concept where identity is shown through lived action rather than only a label.
+- [[CivilizationAsDeception]] and [[AnimalIntelligenceModes]] - animal-philosophy extension from the Rowlands source.

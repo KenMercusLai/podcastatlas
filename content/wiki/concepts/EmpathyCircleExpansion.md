@@ -2,7 +2,7 @@
 title: "Empathy Circle Expansion"
 type: concept
 tags: [empathy, ethics, animal-welfare, social-norms]
-sources: [jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301]
+sources: [jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]
 last_updated: 2026-07-14
 ---
 
@@ -16,6 +16,8 @@ The concept appears when the episode contrasts empathy with pity, criticizes col
 
 [[jiaqi-moyu-geng-jiankang-574391976]] adds a literature-method version through [[StoryBasedEmpathy]]. Here the empathy circle is widened not by a direct moral command, but by repeated contact with stories that make unfamiliar lives, feelings, and constraints imaginable.
 
+[[39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]] adds a weaker-being test through [[Brenin|布列宁]] and [[EvilAsResponsibilityFailure]]. The source contrasts human cruelty toward laboratory dogs and abused children with the wolf's refusal to bully smaller animals, making empathy less a sentiment than a discipline of noticing who is helpless and who is responsible.
+
 ## Key Claims
 - Empathy differs from pity because it asks a person to understand and respond rather than merely look down from safety.
 - Othering reduces the ability to perceive pain as morally relevant.
@@ -23,6 +25,7 @@ The concept appears when the episode contrasts empathy with pity, criticizes col
 - A society's treatment of weak or dependent beings can train habits that later affect human relationships too.
 - Empathy can also be an aesthetic and experiential capacity because it makes more lives, contexts, and forms of care perceptible.
 - Stories can widen the empathy circle when they make distant or unlike people concrete enough to understand.
+- The treatment of beings who cannot explain, bargain, or retaliate is a sharper empathy test than declared moral identity.
 
 ## Connections
 - [[AnimalWelfareAsPublicHealth]] - public-health application of the moral frame.
@@ -32,3 +35,4 @@ The concept appears when the episode contrasts empathy with pity, criticizes col
 - [[PureRationalityTrap]] - adjacent warning against reason stripped of affection and mercy.
 - [[EmpathyAsAestheticCapacity]], [[MidlifeAsGift]], and [[ReadingAsLifeExperience]] - episode 63's extension into age, literature, and interpersonal understanding.
 - [[StoryBasedEmpathy]] and [[NonInstrumentalLiteraryReading]] - holiday episode extension into literature as an empathy-expansion practice.
+- [[EvilAsResponsibilityFailure]], [[Brenin|布列宁]], and [[CivilizationAsDeception]] - Rowlands source extension around helplessness, responsibility, and civilized excuses.

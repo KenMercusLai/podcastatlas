@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [39.哲学家与狼：在朗格多克永恒的夏天](sources/39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065.md) — 蜜獾吃书 episode on 《哲学家与狼》, Mark Rowlands, Brenin, wolf/dog/human intelligence, civilization as deception, evil as responsibility failure, loyalty beyond contract, companion illness, death, and the Languedoc summer.
 - [假期摸鱼更健康](sources/jiaqi-moyu-geng-jiankang-574391976.md) — 蜜獾吃书 holiday interval on Dali life, restorative "moyu", the show's first half-year, story-based empathy, and future topics including 《盛世的崩塌》, 《绿色星球》, Zelazny, and Fukuyama.
 - [65.龙王之怒：1931年的长江洪水](sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922.md) — 蜜獾吃书 episode on the 1931 Yangtze flood, Wuhan/Hankou, wetland loss, dike risk transfer, famine, war, folk religion, relief mismatch, and disaster history.
 - [64.霸王别姬：疯魔与成活](sources/64-bawangbieji-fengmo-yu-chenghuo-656094350.md) — 蜜獾吃书 episode on 《霸王别姬》, 芦苇, 陈凯歌, 《封神》, Cheng Dieyi, Duan Xiaolou, Juxian, role-life collapse, troupe discipline, gender performance, art dignity, coerced denunciation, and film/novel ending ethics.
@@ -423,6 +424,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《说文解字》](entities/ShuowenJiezi.md) — Classical Chinese-character dictionary treated as foundational but corrigible in light of later excavated evidence.
 - [许慎](entities/XuShen.md) — Authorial figure behind 《说文解字》, used by the source to show why authority and evidence must be separated.
 - [Ferdinand de Saussure / 索绪尔](entities/FerdinandDeSaussure.md) — Linguist cited by episode 57 for distinguishing language and writing as different systems.
+- [Mark Rowlands / 马克·罗兰兹](entities/MarkRowlands.md) — Philosopher-author whose life with the wolf Brenin anchors the 蜜獾吃书 episode on animal intelligence, civilization, loyalty, care, and death.
+- [《哲学家与狼》 / The Philosopher and the Wolf](entities/ThePhilosopherAndTheWolf.md) — Rowlands memoir-philosophy book used to reflect on wolf, dog, and human ways of living.
+- [Brenin / 布列宁](entities/Brenin.md) — Wolf companion whose behavior, illness, death, and final Languedoc summer become the episode's philosophical evidence.
+- [Languedoc / 朗格多克](entities/Languedoc.md) — Southern French setting where Brenin's final repeated daily routine becomes the source's mortality image.
 - [《伴生》 / Our Symphony with Animals](entities/OurSymphonyWithAnimals.md) — Aysha Akhtar book discussed by 蜜獾吃书 as a memoir, medicine, animal-ethics, and public-health argument about human-animal well-being.
 - [Aysha Akhtar / 阿依莎·阿赫塔](entities/AyshaAkhtar.md) — Physician and animal-ethics author whose 《伴生》 connects personal trauma, companion animals, public health, and animal-cruelty violence risk.
 - [安徒生 / Hans Christian Andersen](entities/HansChristianAndersen.md) — Danish fairy-tale writer read by 蜜獾吃书 as an all-ages author of satire, sorrow, death, marginality, and spiritual longing.
@@ -2282,6 +2287,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Domestic Violence Pet Coercion](concepts/DomesticViolencePetCoercion.md) — Abuse pattern where a perpetrator harms or threatens household animals to control a victim.
 - [Animal Abuse Violence Link](concepts/AnimalAbuseViolenceLink.md) — Warning that cruelty toward animals can train, reveal, or normalize domination, desensitization, and wider violence.
 - [Empathy Circle Expansion](concepts/EmpathyCircleExpansion.md) — Moral frame for widening the range of beings whose pain matters and resisting othering as a habit of violence.
+- [Animal Intelligence Modes](concepts/AnimalIntelligenceModes.md) — Wolf, dog, and human cognition contrast around mechanical problem-solving, social reading, embodied context, and deception.
+- [Civilization As Deception](concepts/CivilizationAsDeception.md) — Rowlands-source critique that human civilization includes lying, alliance, status calculation, and institutional cover as well as reason and art.
+- [Evil As Responsibility Failure](concepts/EvilAsResponsibilityFailure.md) — Ethics frame where evil lies in failing to protect helpless beings and failing to examine one's excuses or institutional role.
+- [Loyalty Beyond Contract](concepts/LoyaltyBeyondContract.md) — Companion-obligation frame that exceeds fairness, exchange, universal calculation, and Hobbesian contract.
+- [Present Moment Against Death](concepts/PresentMomentAgainstDeath.md) — Mortality frame where animal present-tense life contrasts with human future projects that death interrupts.
 - [Empathy As Aesthetic Capacity](concepts/EmpathyAsAestheticCapacity.md) — Episode 63 frame that understanding others makes life perceptually richer, not only morally better.
 - [Gendered Age Anxiety](concepts/GenderedAgeAnxiety.md) — Frame for age panic produced by youth, beauty, marriage, and social-evaluation timelines placed on women.
 - [Midlife As Gift](concepts/MidlifeAsGift.md) — Reframing of midlife as steadier judgment, clearer expression, tolerable uncertainty, and deeper empathy.
