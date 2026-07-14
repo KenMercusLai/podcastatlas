@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [74.全球上瘾：啊，咖啡！我黑色的阿波罗！](sources/74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763.md) — 蜜獾吃书 episode on coffee as material history, public drink, coffeehouse public sphere, Enlightenment sociability, French monopoly politics, industrial efficiency, speculation, and Brazil overproduction.
 - [73.虚境奇谭：恐怖+幽默=最好的克苏鲁](sources/73-xujing-qitan-kongbu-youmo-zuihaode-kesulu-675865061.md) — 蜜獾吃书 episode on Clark Ashton Smith, 《虚境奇谭》, Cthulhu Mythos, cosmic horror, Weird Tales, Smith's story worlds, anti-anthropocentric satire, and horror-humor weird fiction.
 - [72.君主论：读它是一场危险的冒险](sources/72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837.md) — 蜜獾吃书 episode on Machiavelli, 《君主论》, Florentine republican context, political realism, virtù and fortune, Legalist comparisons, Borgia, and the moral limits of good intentions.
 - [71.美妆帝国蝴蝶牌：言情小说家的国货创业往事](sources/71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384.md) — 蜜獾吃书 episode on Chen Diexian, Butterfly Brand, Republican-era cosmetics, household chemistry, national-goods branding, vernacular industrialism, and light-industry modernity.
@@ -381,6 +382,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Coffee / 咖啡](entities/Coffee.md) — Commodity and drink connecting coffee material history, coffeehouse publicness, modern work habits, China chain-coffee competition, and coffee-related CPG cases.
+- [《全球上瘾》](entities/QuanqiuShangyin.md) — Coffee-centered material-history book discussed by episode 74 as a mythic commodity narrative with a noted 1934-era limitation around colonial labor.
+- [Ottoman Empire / 奥斯曼帝国](entities/OttomanEmpire.md) — Empire context linking Arab/Ottoman coffee culture, European coffee transmission, coffeehouse publicness, and existing Ottoman art-history branches.
 - [Clark Ashton Smith / C.A.史密斯](entities/ClarkAshtonSmith.md) — Weird-fiction writer presented by episode 73 as the poetic, ornate, comic, and anti-anthropocentric "literary ceiling" of the early Cthulhu field.
 - [《虚境奇谭》](entities/XujingQitan.md) — Clark Ashton Smith book used by episode 73 to introduce his horror, humor, ornate prose, Cthulhu connections, and invented story worlds.
 - [H. P. Lovecraft / 洛夫克拉夫特](entities/HPLovecraft.md) — Founding Cthulhu figure used by episode 73 to define cosmic horror and contrast Smith's more poetic, legendary, and comic mode.
@@ -2358,6 +2362,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Material History Narrative](concepts/MaterialHistoryNarrative.md) — Historical frame that uses commodities and everyday products such as coffee or cosmetics to expose trade, labor, public space, state power, and modernization.
+- [Caffeinated Modernity](concepts/CaffeinatedModernity.md) — Coffee as wakefulness, anti-alcohol contrast, rational-public symbolism, workplace endurance, and a source-scoped support for modern social rhythms.
+- [Coffeehouse Public Sphere](concepts/CoffeehousePublicSphere.md) — Semi-public coffeehouse space where alert conversation, literature, theater talk, gossip, criticism, taxation, and surveillance develop together.
+- [Coffee Commodity Politics](concepts/CoffeeCommodityPolitics.md) — Coffee's state, trade, monopoly, speculation, producer-protection, localization, and institutional-ownership layer.
 - [Cthulhu Mythos / 克苏鲁神话](concepts/CthulhuMythos.md) — Open, shared weird-fiction field built through Lovecraft, Smith, Derleth, magazine networks, cosmic horror, and later systematization.
 - [Cosmic Horror](concepts/CosmicHorror.md) — Horror of unknown age, scale, depth, and nonhuman priority, extended by episode 73 from dread into Smith's ornate and comic cosmic demotion.
 - [Weird Fiction](concepts/WeirdFiction.md) — Boundary-crossing literary field where horror, fantasy, occult texture, satire, antiquity, and speculative travel mix.

@@ -323,6 +323,10 @@
     "title": "73.虚境奇谭：恐怖+幽默=最好的克苏鲁",
     "url": "/wiki/sources/73-xujing-qitan-kongbu-youmo-zuihaode-kesulu-675865061/"
   },
+  "74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763": {
+    "title": "74.全球上瘾：啊，咖啡！我黑色的阿波罗！",
+    "url": "/wiki/sources/74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763/"
+  },
   "8848": {
     "title": "8848",
     "url": "/wiki/entities/8848/"
@@ -2463,6 +2467,10 @@
     "title": "Cabin Crew Work",
     "url": "/wiki/concepts/cabincrewwork/"
   },
+  "CaffeinatedModernity": {
+    "title": "Caffeinated Modernity",
+    "url": "/wiki/concepts/caffeinatedmodernity/"
+  },
   "CalculatingEmpires": {
     "title": "Calculating Empires",
     "url": "/wiki/entities/calculatingempires/"
@@ -3063,6 +3071,10 @@
     "title": "Coerced Denunciation",
     "url": "/wiki/concepts/coerceddenunciation/"
   },
+  "Coffee": {
+    "title": "Coffee / 咖啡",
+    "url": "/wiki/entities/coffee/"
+  },
   "CoffeeChainInstitutionalization": {
     "title": "Coffee Chain Institutionalization",
     "url": "/wiki/concepts/coffeechaininstitutionalization/"
@@ -3070,6 +3082,14 @@
   "CoffeeChainLocalization": {
     "title": "Coffee Chain Localization",
     "url": "/wiki/concepts/coffeechainlocalization/"
+  },
+  "CoffeeCommodityPolitics": {
+    "title": "Coffee Commodity Politics",
+    "url": "/wiki/concepts/coffeecommoditypolitics/"
+  },
+  "CoffeehousePublicSphere": {
+    "title": "Coffeehouse Public Sphere",
+    "url": "/wiki/concepts/coffeehousepublicsphere/"
   },
   "Cognition": {
     "title": "Cognition",
@@ -8363,6 +8383,10 @@
     "title": "Mas",
     "url": "/wiki/entities/mas/"
   },
+  "MaterialHistoryNarrative": {
+    "title": "Material History Narrative",
+    "url": "/wiki/concepts/materialhistorynarrative/"
+  },
   "MaterialsPipelineCompany": {
     "title": "Materials Pipeline Company",
     "url": "/wiki/concepts/materialspipelinecompany/"
@@ -9543,6 +9567,10 @@
     "title": "Oswald the Lucky Rabbit",
     "url": "/wiki/entities/oswaldtheluckyrabbit/"
   },
+  "OttomanEmpire": {
+    "title": "Ottoman Empire / 奥斯曼帝国",
+    "url": "/wiki/entities/ottomanempire/"
+  },
   "OttomanMiniaturePainting": {
     "title": "Ottoman Miniature Painting",
     "url": "/wiki/concepts/ottomanminiaturepainting/"
@@ -10470,6 +10498,10 @@
   "QuanYuanXianYiRen": {
     "title": "《全员嫌疑人》",
     "url": "/wiki/entities/quanyuanxianyiren/"
+  },
+  "QuanqiuShangyin": {
+    "title": "《全球上瘾》",
+    "url": "/wiki/entities/quanqiushangyin/"
   },
   "QuantitativeInvesting": {
     "title": "Quantitative Investing",

@@ -3021,9 +3021,17 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-15] ingest | 74.全球上瘾：啊，咖啡！我黑色的阿波罗！
+
+Added source page for the 蜜獾吃书 episode on 《全球上瘾》, coffee material history, Arab/Ottoman coffee controversy, Paris coffeehouses, French monopoly politics, industrial and military coffee use, speculation, Brazil overproduction, and the source book's 1934-era limits around colonial labor. Created pages for Coffee / 咖啡, 《全球上瘾》, Ottoman Empire, Material History Narrative, Caffeinated Modernity, Coffeehouse Public Sphere, and Coffee Commodity Politics; updated overview, index, 蜜獾吃书, France, Brazil, and Commodity Price Exposure. No direct contradiction found; the source extends the wiki's modern coffee-chain branch backward into public space, state control, global trade, and commodity-price risk.
+
 ## [2026-07-15] ingest | 73.虚境奇谭：恐怖+幽默=最好的克苏鲁
 
 Added source page for the 蜜獾吃书 episode on Clark Ashton Smith, 《虚境奇谭》, Cthulhu Mythos, cosmic horror, Weird Tales, Smith's story worlds, and horror-humor weird fiction. Created pages for Clark Ashton Smith, 《虚境奇谭》, H. P. Lovecraft, August Derleth, Weird Tales, 《深谷住民》, 《七咒赋》, Eibon, Tsathoggua, 《通往土星之门》, 《前往斯法诺莫埃的旅途》, Cthulhu Mythos, Cosmic Horror, Weird Fiction, Open Shared Mythos, Clark Ashton Smith Story Worlds, Horror-Humor Weird Fiction, and Anti-Anthropocentric Satire; updated overview, index, 蜜獾吃书, Absurd Rationality, and Classic Reading Complexity. No direct contradiction found; the source qualifies the wiki's literary and speculative-fiction branches by showing how cosmic horror can work through ornate language, black humor, and anti-human-center satire rather than monster terror alone.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-15] lint | Wiki health check
 
