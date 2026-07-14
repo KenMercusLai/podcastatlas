@@ -3044,3 +3044,11 @@ Added source page for the 蜜獾吃书 episode continuing the great-writer gossi
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-15] ingest | 108.祖与占：爱与不爱，巴黎就在那里（耸肩）
+
+Added source page for the 蜜獾吃书 episode on 《祖与占》 / Jules and Jim, Francois Truffaut, Henri-Pierre Roche, French New Wave form, triangle intimacy, gendered freedom, wartime rupture, and suspending crude moral judgment before interpretation. Created pages for Francois Truffaut, Henri-Pierre Roche, 《祖与占》 / Jules and Jim, Catherine / 凯瑟琳, Jules / 祖, Jim / 占, French New Wave, Auteur Theory, Moral Suspension In Art Reading, Triangle Intimacy Ethics, Gendered Freedom Against Order, and War And Intimacy Breakdown; updated overview, index, 蜜獾吃书, France, Classic Reading Complexity, Non-Instrumental Literary Reading, and Reading As Life Experience. No direct contradiction found; the source extends the wiki's film-reading branch by making intimate disorder, gendered freedom, war, and aesthetic discomfort a case for judgment after close attention rather than quick approval or condemnation.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

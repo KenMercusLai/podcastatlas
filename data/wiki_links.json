@@ -15,6 +15,10 @@
     "title": "107.闲聊伟大导演们的八卦（第一弹）",
     "url": "/wiki/sources/107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818/"
   },
+  "108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905": {
+    "title": "108.祖与占：爱与不爱，巴黎就在那里（耸肩）",
+    "url": "/wiki/sources/108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905/"
+  },
   "130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi": {
     "title": "130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏",
     "url": "/wiki/sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi/"
@@ -1743,6 +1747,10 @@
     "title": "August Derleth / 阿古斯特·德雷斯",
     "url": "/wiki/entities/augustderleth/"
   },
+  "AuteurTheory": {
+    "title": "Auteur Theory",
+    "url": "/wiki/concepts/auteurtheory/"
+  },
   "AuthenticNeighborhoodExperience": {
     "title": "Authentic Neighborhood Experience",
     "url": "/wiki/concepts/authenticneighborhoodexperience/"
@@ -2638,6 +2646,10 @@
   "Caterpillar": {
     "title": "Caterpillar",
     "url": "/wiki/entities/caterpillar/"
+  },
+  "CatherineJulesAndJim": {
+    "title": "Catherine / 凯瑟琳",
+    "url": "/wiki/entities/catherinejulesandjim/"
   },
   "CausalAI": {
     "title": "Causal AI",
@@ -5347,6 +5359,10 @@
     "title": "Francis Scott Key Bridge",
     "url": "/wiki/entities/francisscottkeybridge/"
   },
+  "FrancoisTruffaut": {
+    "title": "Francois Truffaut / 特吕弗",
+    "url": "/wiki/entities/francoistruffaut/"
+  },
   "FrankishPortraiturePressure": {
     "title": "Frankish Portraiture Pressure",
     "url": "/wiki/concepts/frankishportraiturepressure/"
@@ -5366,6 +5382,10 @@
   "FreitBarefoot": {
     "title": "Freit Barefoot",
     "url": "/wiki/entities/freitbarefoot/"
+  },
+  "FrenchNewWave": {
+    "title": "French New Wave / 法国新浪潮",
+    "url": "/wiki/concepts/frenchnewwave/"
   },
   "FreshGroceryEcommerceEconomics": {
     "title": "Fresh Grocery Ecommerce Economics",
@@ -5590,6 +5610,10 @@
   "GenderedAgeAnxiety": {
     "title": "Gendered Age Anxiety",
     "url": "/wiki/concepts/genderedageanxiety/"
+  },
+  "GenderedFreedomAgainstOrder": {
+    "title": "Gendered Freedom Against Order",
+    "url": "/wiki/concepts/genderedfreedomagainstorder/"
   },
   "GenderedNationalistHeroism": {
     "title": "Gendered Nationalist Heroism",
@@ -6174,6 +6198,10 @@
   "HenanSmartSupercomputingCenter": {
     "title": "河南智能超算中心 / Henan Smart Supercomputing Center",
     "url": "/wiki/entities/henansmartsupercomputingcenter/"
+  },
+  "HenriPierreRoche": {
+    "title": "Henri-Pierre Roche / 亨利-皮埃尔·罗什",
+    "url": "/wiki/entities/henripierreroche/"
   },
   "HenryDavidThoreau": {
     "title": "Henry David Thoreau / 梭罗",
@@ -7059,6 +7087,10 @@
     "title": "Jim Harkness",
     "url": "/wiki/entities/jimharkness/"
   },
+  "JimJulesAndJim": {
+    "title": "Jim / 占",
+    "url": "/wiki/entities/jimjulesandjim/"
+  },
   "JimRatcliffe": {
     "title": "Jim Ratcliffe",
     "url": "/wiki/entities/jimratcliffe/"
@@ -7230,6 +7262,14 @@
   "JudicialIndependencePublicOpinion": {
     "title": "Judicial Independence And Public Opinion",
     "url": "/wiki/concepts/judicialindependencepublicopinion/"
+  },
+  "JulesAndJim": {
+    "title": "《祖与占》 / Jules and Jim",
+    "url": "/wiki/entities/julesandjim/"
+  },
+  "JulesJulesAndJim": {
+    "title": "Jules / 祖",
+    "url": "/wiki/entities/julesjulesandjim/"
   },
   "JulianWeber": {
     "title": "Julian Weber",
@@ -8930,6 +8970,10 @@
   "Moon": {
     "title": "Moon",
     "url": "/wiki/entities/moon/"
+  },
+  "MoralSuspensionInArtReading": {
+    "title": "Moral Suspension In Art Reading",
+    "url": "/wiki/concepts/moralsuspensioninartreading/"
   },
   "MortgageApproval": {
     "title": "Mortgage Approval",
@@ -12951,6 +12995,10 @@
     "title": "Trial Size Product",
     "url": "/wiki/concepts/trialsizeproduct/"
   },
+  "TriangleIntimacyEthics": {
+    "title": "Triangle Intimacy Ethics",
+    "url": "/wiki/concepts/triangleintimacyethics/"
+  },
   "TricksterAmbivalence": {
     "title": "Trickster Ambivalence",
     "url": "/wiki/concepts/tricksterambivalence/"
@@ -13534,6 +13582,10 @@
   "WantCanShouldMayFramework": {
     "title": "Want Can Should May Framework",
     "url": "/wiki/concepts/wantcanshouldmayframework/"
+  },
+  "WarAndIntimacyBreakdown": {
+    "title": "War And Intimacy Breakdown",
+    "url": "/wiki/concepts/warandintimacybreakdown/"
   },
   "WarAwareDisasterRecovery": {
     "title": "War-Aware Disaster Recovery",

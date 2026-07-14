@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [108.祖与占：爱与不爱，巴黎就在那里（耸肩）](sources/108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905.md) — 蜜獾吃书 episode on 《祖与占》 / Jules and Jim, Truffaut, Roche, French New Wave, triangle intimacy, gendered freedom, war rupture, and suspending crude moral judgment.
 - [82.闲聊伟大作家的八卦（第二弹）](sources/82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589.md) — 蜜獾吃书 episode continuing literary gossip through Byron, Balzac, Poe, Agatha Christie, Jack London, author myth deflation, gendered biography, and political contradiction.
 - [74.全球上瘾：啊，咖啡！我黑色的阿波罗！](sources/74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763.md) — 蜜獾吃书 episode on coffee as material history, public drink, coffeehouse public sphere, Enlightenment sociability, French monopoly politics, industrial efficiency, speculation, and Brazil overproduction.
 - [73.虚境奇谭：恐怖+幽默=最好的克苏鲁](sources/73-xujing-qitan-kongbu-youmo-zuihaode-kesulu-675865061.md) — 蜜獾吃书 episode on Clark Ashton Smith, 《虚境奇谭》, Cthulhu Mythos, cosmic horror, Weird Tales, Smith's story worlds, anti-anthropocentric satire, and horror-humor weird fiction.
@@ -383,6 +384,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Francois Truffaut / 特吕弗](entities/FrancoisTruffaut.md) — French New Wave director whose 《祖与占》 adaptation turns Roche's compressed autobiographical novel into formally light but emotionally severe cinema.
+- [Henri-Pierre Roche / 亨利-皮埃尔·罗什](entities/HenriPierreRoche.md) — Author of 《祖与占》, presented as an elderly autobiographical novelist whose short, telegraphic prose suited Truffaut's New Wave film style.
+- [《祖与占》 / Jules and Jim](entities/JulesAndJim.md) — Film and novel used by episode 108 to examine French New Wave form, triangle intimacy, gendered freedom, war rupture, and moral judgment.
+- [Catherine / 凯瑟琳](entities/CatherineJulesAndJim.md) — Central woman in 《祖与占》, read as graceful, dangerous, maternal, freedom-seeking, and impossible to reduce to heroine or villain.
+- [Jules / 祖](entities/JulesJulesAndJim.md) — German friend and husband figure in 《祖与占》 whose arc moves from possessiveness toward love separated from ownership.
+- [Jim / 占](entities/JimJulesAndJim.md) — French friend and lover figure in 《祖与占》 caught between loyalty, desire, withdrawal, and Catherine's final destructive pull.
 - [Lord Byron / 拜伦](entities/LordByron.md) — Romantic poet used by episode 82 to test heroic literary celebrity against scandal, exile, death, memorial management, and genre afterlives.
 - [Honore de Balzac / 巴尔扎克](entities/HonoreDeBalzac.md) — French novelist presented through appetite, coffee, debt, entrepreneurial failure, literary rivalry, and social-fiction ambition.
 - [Sainte-Beuve / 圣伯夫](entities/SainteBeuve.md) — French critic whose rivalry with Balzac shows literary reputation forming through reviews, salons, hostility, and belated recognition.
@@ -2372,6 +2379,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [French New Wave / 法国新浪潮](concepts/FrenchNewWave.md) — Film movement context for Truffaut and 《祖与占》, where authorial style, movement, discontinuity, and compressed narration carry moral complexity.
+- [Auteur Theory](concepts/AuteurTheory.md) — Film-authorship frame used to read Truffaut's adaptation as a shaped cinematic work rather than a passive transfer from Roche's novel.
+- [Moral Suspension In Art Reading](concepts/MoralSuspensionInArtReading.md) — Temporary discipline of delaying quick approval or condemnation so morally uncomfortable art can first be understood.
+- [Triangle Intimacy Ethics](concepts/TriangleIntimacyEthics.md) — Reading frame for three-person intimacy that resists reducing desire, friendship, family performance, jealousy, and dependency to a simple love-triangle label.
+- [Gendered Freedom Against Order](concepts/GenderedFreedomAgainstOrder.md) — Pattern where a woman reaches toward freedom while available social forms still translate her through wifehood, motherhood, sexual judgment, attention, and danger.
+- [War And Intimacy Breakdown](concepts/WarAndIntimacyBreakdown.md) — Pattern where war damages private relationships through broken time, national division, altered order, and failed return to prewar freedom.
 - [Material History Narrative](concepts/MaterialHistoryNarrative.md) — Historical frame that uses commodities and everyday products such as coffee or cosmetics to expose trade, labor, public space, state power, and modernization.
 - [Caffeinated Modernity](concepts/CaffeinatedModernity.md) — Coffee as wakefulness, anti-alcohol contrast, rational-public symbolism, workplace endurance, and a source-scoped support for modern social rhythms.
 - [Coffeehouse Public Sphere](concepts/CoffeehousePublicSphere.md) — Semi-public coffeehouse space where alert conversation, literature, theater talk, gossip, criticism, taxation, and surveillance develop together.

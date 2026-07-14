@@ -1,8 +1,8 @@
 ---
 title: "France"
 type: entity
-tags: [country, politics, europe, coffee]
-sources: [marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]
+tags: [country, politics, europe, coffee, film, culture]
+sources: [108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]
 last_updated: 2026-07-15
 ---
 
@@ -14,9 +14,12 @@ The source presents the field as crowded: [[EmmanuelMacron]] cannot be the same 
 
 [[74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]] adds an earlier French-history branch through [[Coffee|coffee / 咖啡]]. In that episode, Marseille's medical and trade controversies, Ottoman elite diplomacy in Paris, the rise of Paris coffeehouses, and royal attempts to monopolize and tax coffee make France a key setting for [[CoffeehousePublicSphere]] and [[CoffeeCommodityPolitics]].
 
+[[108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905]] adds a French culture and cinema branch through [[JulesAndJim|《祖与占》]], [[FrancoisTruffaut|Francois Truffaut]], and the [[FrenchNewWave|French New Wave]]. The episode uses Paris, the 2024 Olympic opening-ceremony controversy, and the film's bridge-running image to frame France as a setting where cultural self-image, artistic rebellion, sexual morality, and political argument collide.
+
 ## Connections
 - [[MarineLePen]] and [[NationalRally]] - central French political actors in the source.
 - [[JordanBardella]] - party successor or substitute figure affected by Le Pen's return.
 - [[FarRightNormalization]] - party-reputation project tied to French electoral viability.
 - [[TwoRoundPresidentialElection]] and [[ElectoralIneligibilityPenalty]] - electoral-system and legal eligibility frames.
 - [[Coffee]], [[CoffeehousePublicSphere]], and [[CoffeeCommodityPolitics]] - historical branch added by the coffee material-history source.
+- [[JulesAndJim|《祖与占》]], [[FrancoisTruffaut]], and [[FrenchNewWave]] - film and cultural-rebellion branch added by episode 108.
