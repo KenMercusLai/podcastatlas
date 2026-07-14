@@ -2,7 +2,7 @@
 title: "The Walt Disney Company"
 type: entity
 tags: [company, media, entertainment, ip, theme-parks]
-sources: [tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, the-walt-disney-company-1, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1]
+sources: [tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, the-walt-disney-company-1, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
 last_updated: 2026-07-10
 ---
 
@@ -16,6 +16,8 @@ In the wiki, Disney is the clearest case so far of an [[EntertainmentIPFlywheel]
 
 [[tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]] adds Disney as a synthetic-media rights signal. In the source, [[JoannaStern]] says Disney's embrace of AI and permission for [[OpenAI]] to generate images or videos involving its characters makes disclosure, creative labor, and [[IPOwnership]] more central to mainstream entertainment strategy.
 
+[[55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]] adds Disney as an adaptation-memory case through [[TheLittleMermaid|《海的女儿》 / The Little Mermaid]]. The episode argues that the 1989 animated Ariel and later live-action debate can make viewers mistake Disney's romance-centered character image for [[HansChristianAndersen|Andersen]]'s original, turning Disney into a case for [[AdaptationOriginalTextConfusion]] as well as an [[EntertainmentIPFlywheel]].
+
 ## Key Claims
 - Disney's advantage came less from any single film than from making characters and stories travel through many formats.
 - [[WaltDisney]] repeatedly pushed the company into new creative and technical forms, while [[RoyDisney]] made the financing and debt discipline survivable.
@@ -24,6 +26,7 @@ In the wiki, Disney is the clearest case so far of an [[EntertainmentIPFlywheel]
 - The post-Walt era shows a risk of the same system: harvesting the flywheel can mask a weakening creative core.
 - Later franchise entries can still add cultural value when they address current family tensions rather than merely repeat character recognition.
 - AI-generated uses of Disney characters can extend the IP flywheel, but they also raise [[AIContentProvenance]], creative-labor, and permission questions.
+- A strong Disney adaptation can become the public's remembered "original," which gives the company cultural power but can also distort source-text debates.
 
 ## Connections
 - [[WaltDisney]] and [[RoyDisney]] - founding and operating partnership.
@@ -32,3 +35,4 @@ In the wiki, Disney is the clearest case so far of an [[EntertainmentIPFlywheel]
 - [[EntertainmentIPFlywheel]], [[IPOwnership]], [[StrategicRerelease]], [[ThemeParkAsMediaPlatform]], [[VerticalMediaDistribution]], and [[ArtCommerceIntegration]] - concepts added by the source.
 - [[ToyStory5]] and [[ScreenTimeParenting]] - later family-technology branch added by The Intelligence.
 - [[OpenAI]], [[AIContentProvenance]], [[AIGeneratedAdvertising]], and [[CreativeLaborAIBacklash]] - synthetic-media branch added by Marketplace Tech Bytes.
+- [[TheLittleMermaid|《海的女儿》]], [[HansChristianAndersen|安徒生]], and [[AdaptationOriginalTextConfusion]] - adaptation-memory branch added by the Andersen source.

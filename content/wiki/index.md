@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [55.安徒生童话：海的女儿和不灭的灵魂](sources/55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306.md) — 蜜獾吃书 episode rereading Andersen as adult fairy-tale literature through satire, death, children as serious readers, 《海的女儿》, immortal soul, Ye Junjian's translation, and Disney adaptation debates.
 - [54.玫瑰的名字（下）：真与假，正与邪，诠释与过度诠释](sources/54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699.md) — 蜜獾吃书 episode completing 《玫瑰的名字》 through the poisoned Aristotle text, Jorge's knowledge control, false Revelation patterning, anti-detective structure, conspiracy-style overinterpretation, laughter, and political show trial.
 - [53.玫瑰的名字（上）：真与假，正与邪，诠释与过度诠释](sources/53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184.md) — 蜜獾吃书 episode on 《玫瑰的名字》 as medieval mystery, semiotic detective fiction, knowledge monopoly, laughter against authority, Revelation symbolism, and interpretation versus overinterpretation.
 - [52.好爱高木直子！献给正在打拼的你](sources/52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956.md) — 蜜獾吃书 episode on 高木直子, everyday autobiographical comics, Tokyo drift, part-time work, ordinary hardship, food, family, travel, and local Japan festivals.
@@ -355,6 +356,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [安徒生 / Hans Christian Andersen](entities/HansChristianAndersen.md) — Danish fairy-tale writer read by 蜜獾吃书 as an all-ages author of satire, sorrow, death, marginality, and spiritual longing.
+- [《海的女儿》 / The Little Mermaid](entities/TheLittleMermaid.md) — Andersen tale read beyond "恋爱脑" as a story of freedom, human life, bodily pain, immortal soul, and later Disney adaptation confusion.
+- [叶君健 / Ye Junjian](entities/YeJunjian.md) — Andersen translator whose title "海的女儿" is treated as shaping the Chinese reading of the tale.
 - [翁贝托·艾柯 / Umberto Eco](entities/UmbertoEco.md) — Author of 《玫瑰的名字》, presented by 蜜獾吃书 as a novelist, semiotic thinker, medieval scholar, and public intellectual whose plot structures carry theory.
 - [《玫瑰的名字》 / The Name of the Rose](entities/TheNameOfTheRose.md) — Eco novel read as a medieval murder mystery about signs, forbidden knowledge, laughter, theological authority, and overinterpretation.
 - [巴斯克维尔的威廉 / William of Baskerville](entities/WilliamOfBaskerville.md) — Franciscan investigator in 《玫瑰的名字》 whose Sherlock-like observation and Ockham-like parsimony model disciplined inference.
@@ -2157,6 +2161,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Adult Fairy-Tale Reading](concepts/AdultFairyTaleReading.md) — Rereading fairy tales as all-ages literature carrying social humiliation, loneliness, death, love, satire, and spiritual aspiration.
+- [Fairy-Tale Death And Spirituality](concepts/FairyTaleDeathAndSpirituality.md) — Frame for children's literature confronting mortality, sacrifice, goodness, and transcendence without condescending to children.
+- [Adaptation Original-Text Confusion](concepts/AdaptationOriginalTextConfusion.md) — Pattern where a famous adaptation overwrites public memory of the literary original's design, plot, or moral structure.
 - [Semiotic Detective Fiction](concepts/SemioticDetectiveFiction.md) — Mystery form where clues are signs whose meaning, reliability, and overinterpretation become part of the story's argument.
 - [Interpretation And Overinterpretation](concepts/InterpretationAndOverinterpretation.md) — Boundary problem between reading signs carefully and forcing signs to say more than evidence supports.
 - [Knowledge Monopoly](concepts/KnowledgeMonopoly.md) — Institutional control over who may access, classify, read, copy, or interpret knowledge.

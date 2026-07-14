@@ -2,7 +2,7 @@
 title: "Classic Reading Complexity"
 type: concept
 tags: [literature, classics, reading, judgment]
-sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184]
+sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
 last_updated: 2026-07-14
 ---
 
@@ -15,6 +15,8 @@ The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryR
 [[154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400]] adds a metafictional version through [[MyNameIsRed|《我的名字叫红》]], where murder, art theory, religious pressure, and worldly survival cannot be separated. [[157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703]] adds a childhood-classic version through [[AdventuresOfBaronMunchausen|《吹牛大王历险记》]], showing that apparent nonsense can preserve [[AdultSatiricalChildrensClassics|adult satire]], [[AbsurdRationality]], and philosophical afterlives.
 
 [[51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320]] adds [[GulliversTravels|《格列佛游记》 / Gulliver's Travels]] as a classic often flattened by childhood memory. The source asks the reader to keep adventure spectacle, scatological humor, political satire, [[TechnocraticDominationSatire]], [[PureRationalityTrap]], and [[AuthorCharacterSeparation]] in view at the same time rather than treating the book as either a children's story or a simple anti-human manifesto.
+
+[[55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]] adds [[HansChristianAndersen|安徒生]] and [[TheLittleMermaid|《海的女儿》]] as a fairy-tale version of the same problem. The source argues that a phrase like "恋爱脑" or a Disney-shaped memory of Ariel can name a reaction but cannot replace attention to Andersen's original structure: social marginality, death, bodily pain, freedom, translation, faith, and the desire for an immortal soul.
 
 [[53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184]] adds [[TheNameOfTheRose|《玫瑰的名字》 / The Name of the Rose]] as a difficult modern classic whose detective plot cannot be separated from theology, medieval politics, library power, and [[SemioticDetectiveFiction]]. The source makes complexity a problem of interpretation itself: a reader must follow the murders while also noticing when signs, prophecies, and symbols are being overread.
 
@@ -37,5 +39,6 @@ The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryR
 - [[AdultSatiricalChildrensClassics]] - specific rereading frame for works remembered as children's literature.
 - [[AbsurdRationality]] - example of literary complexity inside apparently childish impossibility.
 - [[GulliversTravels|《格列佛游记》]], [[ScaleReversalSatire]], [[TechnocraticDominationSatire]], and [[PureRationalityTrap]] - episode 51's extension into Swiftian political satire.
+- [[HansChristianAndersen|安徒生]], [[TheLittleMermaid|《海的女儿》]], [[AdultFairyTaleReading]], and [[AdaptationOriginalTextConfusion]] - episode 55's extension into fairy tales, translation, and adaptation memory.
 - [[TheNameOfTheRose|《玫瑰的名字》]], [[UmbertoEco|翁贝托·艾柯]], [[SemioticDetectiveFiction]], and [[InterpretationAndOverinterpretation]] - episode 53's extension into semiotic and theological mystery.
 - [[RulinWaishi|《儒林外史》]], [[WanErDuoFeng|婉而多讽]], and [[SatiricalGroupPortrait]] - episode 58's extension into classical Chinese satire and examination society.
