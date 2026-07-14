@@ -3220,3 +3220,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint after health passed. Structural checks scanned 4,200 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` and found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint did not complete because LiteLLM was configured with the unqualified default model `claude-3-5-sonnet-latest` and no provider credentials were present in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-15] ingest | vol.106.迪拜，真的遍地是黄金？
+
+Added source page for the 起朱楼宴宾客 episode on Dubai and Abu Dhabi as business, capital-flow, real-estate, golden-visa, crypto, high-end-service, and Chinese outbound-market opportunity cases. Created pages for Dubai, Abu Dhabi, Ricky, Dubai Business Hub Model, Dubai Golden Visa Residency, and Dubai Real Estate Market; updated overview, index, 起朱楼宴宾客, 大卫翁, United Arab Emirates, Gulf Stability Risk, and Gulf Strategic Diversification. No direct contradiction found; the source complements the existing Gulf stability branch by adding a short-field-report optimistic Dubai view while keeping investment and residency claims source-scoped.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

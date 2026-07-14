@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [vol.106.迪拜，真的遍地是黄金？](sources/vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8.md) — 起朱楼宴宾客 episode on Dubai and Abu Dhabi as business, capital-flow, real-estate, golden-visa, crypto, high-end-service, and Chinese outbound-market opportunity cases, with strong due-diligence caveats.
 - [vol.105.如何判断一个投资组合是否适合自己？](sources/vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe.md) — 起朱楼宴宾客 episode on portfolio suitability, adaptive allocation, personal goals, competence boundaries, drawdown tolerance, liquidity, and cooldown rules for ordinary investors.
 - [vol.104.普通人港股完全生存指南 | 串台三点下班](sources/vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90.md) — 起朱楼宴宾客 crossover with 三点下班 on Hong Kong retail-investor survival, old-thousand stocks, liquidity exit risk, AH discounts, dividend assets, sell-side incentives, IPO liquidity paths, and why ordinary investors should usually prefer funds or large liquid leaders.
 - [vol.103.文艺复兴科技西蒙斯的封神之路：是量化之王，更是洞察人性的大师](sources/vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl.md) — 起朱楼宴宾客 episode on Jim Simons, Renaissance Technologies, Medallion Fund, data moats, short-horizon quant trading, alpha decay, LTCM comparison, and the human risk override behind machine-led investing.
@@ -405,11 +406,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Dubai / 迪拜](entities/Dubai.md) — UAE commercial hub discussed by vol.106 through low tax, international population flow, property demand, crypto services, logistics, and due-diligence risk.
+- [Abu Dhabi / 阿布扎比](entities/AbuDhabi.md) — UAE capital and oil/resource center contrasted with Dubai's commercial and private-capital-facing model in vol.106.
+- [Ricky](entities/Ricky.md) — Finance-oriented vol.106 guest whose two-week Dubai and Abu Dhabi field report supplies the episode's opportunity and caveat frame.
 - [红色火箭 / Hongse Huojian](entities/HongseHuojianIndexTool.md) — Index-investing mini-program mentioned by vol.105 as a ChinaAMC-affiliated tool for observing, comparing, and selecting indices.
 - [华夏基金 / ChinaAMC](entities/ChinaAMC.md) — Fund-management company context for vol.105's opening mention of the 红色火箭 index-investing tool.
 - [时雷 / Shi Lei](entities/ShiLei.md) — Asset-allocation commentator referenced by vol.105 for complex adaptive systems and localizing Bridgewater-style all-weather thinking.
 - [十分吸引 / Shifen Xiyin](entities/ShifenXiyin.md) — Shi Lei's podcast, referenced by vol.105 as a more technical allocation discussion source.
-- [大卫翁 / David Weng](entities/DavidWeng.md) — 起朱楼宴宾客 host and vol.104 speaker connecting institutional allocation, AH discount trades, renewable-power rerating, and Hong Kong retail survival.
+- [大卫翁 / David Weng](entities/DavidWeng.md) — 起朱楼宴宾客 host connecting Hong Kong retail-investing survival in vol.104 and Dubai field-report questions in vol.106.
 - [三点下班 / San Dian Xiaban](entities/SanDianXiaban.md) — Podcast crossover partner for vol.104, represented through 浩哥's Hong Kong stock-picking and survival discussion.
 - [浩哥 / Haoge](entities/Haoge.md) — 三点下班 speaker in vol.104, contributing retail Hong Kong investing cases around early wins, illiquid losses, IPO paths, and fast stop-loss discipline.
 - [China Mobile / 中国移动](entities/ChinaMobile.md) — Hong Kong-listed telecom SOE used in vol.104 as a sanction-driven mispricing and high-dividend example.
@@ -572,7 +576,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [蝴蝶牌](entities/ButterflyBrand.md) — Chen Diexian's tooth-powder and cosmetics brand, combining beauty imagery, trademark strategy, national-goods rhetoric, and consumer trust.
 - [家庭工业社](entities/JiatingGongyeshe.md) — Light-industrial company founded by Chen Diexian, growing from tooth powder into cosmetics, packaging, raw materials, and wartime factory migration.
 - [《女子世界》](entities/NushiShijie.md) — Women's magazine context for Chen Diexian's cosmetics-formula column and household-chemistry authority building.
-- [起朱楼宴宾客 / Qizhulou Yan Binke](entities/QizhulouYanBinke.md) — Podcast show represented across Trump-policy, asset-allocation, Japan-youth, quant-history, Hong Kong investing, and portfolio-suitability episodes.
+- [起朱楼宴宾客 / Qizhulou Yan Binke](entities/QizhulouYanBinke.md) — Podcast show represented across Trump-policy, asset-allocation, Japan-youth, quant-history, Hong Kong investing, portfolio-suitability, and Dubai-opportunity episodes.
 - [Project 2025](entities/Project2025.md) — Heritage-linked conservative transition project treated as a personnel, training, document, and governing-architecture effort to institutionalize Trumpism.
 - [Mandate for Leadership 2025](entities/MandateForLeadership2025.md) — Project 2025 policy-document layer with department-level recommendations, transition planning, and conservative administrative-state critique.
 - [Heritage Foundation](entities/HeritageFoundation.md) — Conservative think tank behind Project 2025 and the Mandate for Leadership tradition discussed as governing handoff infrastructure.
@@ -1580,7 +1584,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Georgia Banjo](entities/GeorgiaBanjo.md) — The Intelligence participant analyzing AI as a possible but limited post-Brexit regulatory opportunity for Britain.
 - [Greg Carlstrom](entities/GregCarlstrom.md) — The Intelligence analyst explaining Gulf stability risk, uneven Gulf readiness, and possible strategic-investment shifts after the Iran war.
 - [Gulf Cooperation Council](entities/GulfCooperationCouncil.md) — Regional Gulf frame where confidence, security, finance, logistics, aviation, sovereign wealth, and expatriate business life interact.
-- [United Arab Emirates](entities/UnitedArabEmirates.md) — Gulf state presented as comparatively better placed after the Iran war because of fiscal strength, expatriate confidence, and Hormuz-bypass planning.
+- [United Arab Emirates](entities/UnitedArabEmirates.md) — Gulf state connected to fiscal resilience, expatriate confidence, Dubai's business hub model, and Abu Dhabi's oil-backed capital role.
 - [Bahrain](entities/Bahrain.md) — Gulf state presented as more exposed after the Iran war because of debt, limited reserves, and dependence on outside support.
 - [Economist Podcasts](entities/EconomistPodcasts.md) — Economist audio context for Tocqueville Road Trip and The Intelligence branches on Latin America investment, Gulf stability, Brexit, and adjacent Economist podcast sources.
 - [Tocqueville Road Trip](entities/TocquevilleRoadTrip.md) — Economist podcast series retracing Tocqueville's U.S. journey to ask whether Democracy in America still explains the country.
@@ -2531,6 +2535,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Dubai Business Hub Model](concepts/DubaiBusinessHubModel.md) — Low-tax, open, internationally staffed city-hub model combining capital, immigration, logistics, branding, services, compliance cleanup, and confidence risk.
+- [Dubai Golden Visa Residency](concepts/DubaiGoldenVisaResidency.md) — Episode-reported residency frame linking Dubai property, company setup, or talent status to practical banking, ID, insurance, and recurring-base benefits.
+- [Dubai Real Estate Market](concepts/DubaiRealEstateMarket.md) — Dubai property market frame around high rents, off-plan sales, international buyers, residency-linked demand, supply uncertainty, and foreign-currency risk.
 - [Portfolio Suitability](concepts/PortfolioSuitability.md) — Investor-side test for whether a portfolio fits the person's goals, competence boundary, risk tolerance, and liquidity needs.
 - [Adaptive Portfolio Design](concepts/AdaptivePortfolioDesign.md) — Portfolio-design frame that favors diversification, liquidity, and adjustment room over frequent high-conviction regime calls.
 - [Investment Cooldown Discipline](concepts/InvestmentCooldownDiscipline.md) — Behavioral rule system that forces waiting periods and turnover caps before large investment decisions.
@@ -3410,8 +3417,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Brexit Regulatory Dividend](concepts/BrexitRegulatoryDividend.md) — Hoped-for post-EU policy freedom that produced narrow flexibility but not the broad Singapore-on-Thames deregulation payoff.
 - [Post-Brexit Immigration Politics](concepts/PostBrexitImmigrationPolitics.md) — Tension between take-back-control migration rhetoric and later non-EU migration growth under Britain's post-Brexit system.
 - [Post-Brexit Strategic Identity](concepts/PostBrexitStrategicIdentity.md) — Question of what Britain is for after losing its EU bridge role, with AI, finance, farming, services, and defence as possible answers.
-- [Gulf Stability Risk](concepts/GulfStabilityRisk.md) — Risk that war or unresolved diplomacy weakens the confidence behind Gulf finance, logistics, aviation, sovereign wealth, and expatriate business.
-- [Gulf Strategic Diversification](concepts/GulfStrategicDiversification.md) — Post-war Gulf investment shift toward defense, ports, pipelines, food security, and other resilience infrastructure.
+- [Gulf Stability Risk](concepts/GulfStabilityRisk.md) — Risk that war or unresolved diplomacy weakens the confidence behind Gulf finance, logistics, aviation, sovereign wealth, expatriate business, and Dubai safe-haven demand.
+- [Gulf Strategic Diversification](concepts/GulfStrategicDiversification.md) — Gulf investment shift toward resilience infrastructure, post-oil sectors, services, logistics, finance, advanced manufacturing, and commercial hubs.
 - [Plant Acoustic Signaling](concepts/PlantAcousticSignaling.md) — Plant sensing and sound-production frame where vibrations, ultrasonic stress signals, and microphones could inform crop monitoring and defenses.
 - [Democracy in America](concepts/DemocracyInAmerica.md) — Tocqueville text used as a historical benchmark for judging whether the United States still resembles its democratic self-description.
 - [America as Idea](concepts/AmericaAsIdea.md) — Frame that treats the United States as a democratic promise and global symbol rather than only a country or government.

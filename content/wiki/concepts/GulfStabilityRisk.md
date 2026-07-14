@@ -2,8 +2,8 @@
 title: "Gulf Stability Risk"
 type: concept
 tags: [geopolitics, economy, risk]
-sources: [gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]
-last_updated: 2026-07-09
+sources: [gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8]
+last_updated: 2026-07-15
 ---
 
 # Gulf Stability Risk
@@ -16,6 +16,8 @@ The source also makes the risk uneven. [[UnitedArabEmirates]] is presented as be
 
 [[peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]] adds the immediate-waterway version. The episode says oil prices jumped and [[StraitOfHormuz]] traffic stalled after renewed strikes, while [[NicholasPelham]] says Gulf states are alarmed because they supported the U.S.-Iran memorandum and rely on the same waterways now being used as leverage.
 
+[[vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8]] adds the city-opportunity version through [[Dubai]]. [[Ricky]] presents Dubai as a beneficiary of regional capital flight, expatriate mobility, and demand for a safe business base, but that optimistic safe-haven story still depends on the same confidence layer this concept tracks.
+
 ## Connections
 - [[GulfCooperationCouncil]] and [[GregCarlstrom]] - regional frame and analyst.
 - [[UnitedArabEmirates]] and [[Bahrain]] - contrasting resilience cases.
@@ -23,3 +25,4 @@ The source also makes the risk uneven. [[UnitedArabEmirates]] is presented as be
 - [[GulfStrategicDiversification]] - possible policy response to higher risk.
 - [[RegionalNetworkTopologyRisk]] and [[DigitalInfrastructureWarRisk]] - adjacent infrastructure-risk concepts where regional concentration and geopolitical exposure matter.
 - [[NicholasPelham]] - contributor explaining the renewed-strikes alarm.
+- [[Dubai]], [[DubaiBusinessHubModel]], and [[DubaiRealEstateMarket]] - city-level safe-haven and property-demand branch added by vol.106.

@@ -2,8 +2,8 @@
 title: "Gulf Strategic Diversification"
 type: concept
 tags: [geopolitics, infrastructure, economic-development]
-sources: [gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6]
-last_updated: 2026-07-09
+sources: [gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8]
+last_updated: 2026-07-15
 ---
 
 # Gulf Strategic Diversification
@@ -14,8 +14,11 @@ The concept sharpens the wiki's geopolitics-and-infrastructure branch. Diversifi
 
 The source is cautious about political unity. It suggests investment priorities may shift, but [[GregCarlstrom]] doubts that Gulf states will become much more unified against [[Iran]] simply because they share exposure.
 
+[[vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8]] adds the commercial and post-oil version through [[Dubai]] and [[AbuDhabi|Abu Dhabi]]. [[Ricky]] says Gulf states know oil will not last forever, so finance, tourism, crypto services, logistics, advanced manufacturing, renewable energy, and high-end professional services become part of the diversification agenda, even if full industrial-chain formation may take many years.
+
 ## Connections
 - [[GulfCooperationCouncil]] - regional development frame.
 - [[GulfStabilityRisk]] - risk pressure behind the investment shift.
 - [[UnitedArabEmirates]], [[Bahrain]], and [[StraitOfHormuz]] - readiness, exposure, and chokepoint context.
 - [[RegionalNetworkTopologyRisk]], [[WarAwareDisasterRecovery]], and [[DataCenterPhysicalResilience]] - adjacent resilience concepts from digital-infrastructure conflict analysis.
+- [[Dubai]], [[AbuDhabi|Abu Dhabi]], and [[DubaiBusinessHubModel]] - city-level commercial diversification branch added by vol.106.
