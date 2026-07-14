@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [177.小时候的书，怎么就那么好看！](sources/177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036.md) — 蜜獾吃书 episode on childhood reading ecology, Zheng Yuanjie, children's-literature complexity, science adventure, girl-centered fiction, pseudoscience literacy, and publishing risk avoidance.
 - [176.为什么越是吃肉，越要关注动物福利？](sources/176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722.md) — 蜜獾吃书 episode with 猪哥/猪场严选 on food-animal welfare, livestock-worker moral injury, slaughter methods, welfare labeling, pork and egg misconceptions, and practical consumer feedback.
 - [175.女性卫生用品的社会史：比想象中更精彩！](sources/175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044.md) — 蜜獾吃书 episode on the social history of menstrual products, menstrual stigma, Anne sanitary napkins, commercial menstrual education, public access, period poverty, and sanitary-product consumer history.
 - [174.读笛卡尔，是件大事](sources/174-du-dikaer-shi-jian-dashi-966856702.md) — 蜜獾吃书 episode on Rene Descartes, 《谈谈方法》, methodic doubt, 我思故我在, Cartesian dualism, Princess Elisabeth's objections, rationalist method, and AI-era thinking versus calculation.
@@ -391,6 +392,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [郑渊洁](entities/ZhengYuanjie.md) — Children's author used by episode 177 to connect anti-authoritarian reading, social complexity, Luxixi, Pipilu, Shuke/Beta, and copyright awareness.
+- [《哈尔罗杰历险记》](entities/HalAndRogerAdventures.md) — Science-adventure series remembered by 北明 as a childhood route into natural history, geography, and explanation.
+- [《海尔兄弟》](entities/HaierBrothers.md) — Chinese science-animation series treated as a global-view and popular-science artifact in childhood media.
+- [Carl Sagan](entities/CarlSagan.md) — Public-science and skepticism anchor linked by episode 177 to childhood science curiosity and pseudoscience literacy.
+- [《魔鬼出没的世界》 / The Demon-Haunted World](entities/TheDemonHauntedWorld.md) — Sagan book used as the episode's skeptical counterweight to UFO, qigong, crystal-skull, and unsolved-mystery culture.
 - [猪哥 / 猪场严选](entities/ZhuGe.md) — Pork-industry insider and creator from episode 176 who links animal welfare, slaughter methods, consumer education, and livestock-worker moral injury.
 - [《女性卫生用品的社会史》](entities/JoseiEiseiYouhinNoShakaishi.md) — Tanaka Hikari book used by episode 175 to frame menstrual products as gendered material and social history.
 - [田中光](entities/TanakaHikari.md) — Japanese scholar whose book anchors the episode's discussion of sanitary products, stigma, and public menstrual knowledge.
@@ -2421,6 +2427,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Childhood Reading Ecology](concepts/ChildhoodReadingEcology.md) — Mixed childhood environment of books, magazines, comics, science media, family access, television, and internet writing before a tidy reading system exists.
+- [Children's Literature Complexity](concepts/ChildrensLiteratureComplexity.md) — Frame for children's works as serious, contradictory, socially aware, frightening, funny, and not reducible to safe morals.
+- [Childhood Science Reading](concepts/ChildhoodScienceReading.md) — Science learning through adventure, nature, animation, comics, geography, questions, and wonder rather than formal class alone.
+- [Science Optimism And Pseudoscience](concepts/ScienceOptimismAndPseudoscience.md) — Mixed media environment where science enthusiasm coexists with UFOs, qigong, crystal skulls, apocalypse speculation, and other doubtful claims.
+- [Creative Risk-Avoidance Culture](concepts/CreativeRiskAvoidanceCulture.md) — Publishing and review culture where over-scanning for faults can narrow entertainment, complexity, experimentation, and creator confidence.
 - [Food Animal Welfare](concepts/FoodAnimalWelfare.md) — Harm-reduction frame for animals raised for meat, eggs, and food products inside real affordability, labor, welfare, and consumer constraints.
 - [Livestock Worker Moral Injury](concepts/LivestockWorkerMoralInjury.md) — Psychological and ethical strain on farm, transport, euthanasia, and slaughter workers who must harm animals they also care for.
 - [Slaughter Welfare](concepts/SlaughterWelfare.md) — Reducing fear, pain, rough handling, and worker burden at the point where food animals are killed.

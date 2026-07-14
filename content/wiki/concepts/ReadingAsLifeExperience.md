@@ -2,7 +2,7 @@
 title: "Reading As Life Experience"
 type: concept
 tags: [reading, literature, attention, life-practice]
-sources: [108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
+sources: [177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
 last_updated: 2026-07-15
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-15
 Reading as life experience is the view that reading is not only information transfer, frame extraction, or cultural capital, but a lived practice shaped by body, memory, mood, timing, family, and daily objects. In [[49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]], [[QinZong|秦总]] and [[LiWuya|李乌鸦]] discuss reading through embarrassment, forgetting, posture, paper, drinking, childhood prohibition, and the books one dares or does not dare to enter.
 
 This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A book can train a frame, but whether it reaches the reader depends on how it is held, where it is read, whether the reader is emotionally ready, and what surrounding household or social atmosphere has made books feel like permission, display, burden, or refuge.
+
+[[177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]] adds the childhood-abundance version. [[QinZong|秦总]] and [[Beimin|北明]] do not present childhood books as a clean curriculum; they present them as remembered texture, shock, pleasure, pictures, titles, arguments, stray facts, and moods that later become part of judgment. This makes [[ChildhoodReadingEcology]] a developmental branch of reading as life experience.
 
 [[jiaqi-moyu-geng-jiankang-574391976]] adds a production-life version. The hosts' Dali move, healthier rhythm, holiday reading retreat, and book-sorting work show that reading is not only a mental act; it depends on environment, body, domestic order, and protected time. The same episode turns this lived condition into [[RestorativeCreativePacing]] for the show.
 

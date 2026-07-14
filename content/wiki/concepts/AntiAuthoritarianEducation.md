@@ -2,8 +2,8 @@
 title: "Anti-Authoritarian Education"
 type: concept
 tags: [education, agency, children, parenting]
-sources: [160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
-last_updated: 2026-07-14
+sources: [177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
+last_updated: 2026-07-15
 ---
 
 # Anti-Authoritarian Education
@@ -11,6 +11,8 @@ last_updated: 2026-07-14
 Anti-authoritarian education is the episode's claim that children and young adults need the right to say no to unreasonable authority, not only the ability to satisfy parents, teachers, rankings, and employers. In [[160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]], [[Matilda|《马蒂尔达》]] supplies the narrative image: a child can recognize coercion, use reading and imagination as strength, and resist a system that mistakes control for care.
 
 This does not mean rejecting all study, discipline, or adult guidance. The episode's sharper distinction is between guidance that helps a person become more alive and control that produces [[ExcellentSheep|excellent sheep]]: compliant, anxious, high-performing people who keep waiting to be scored.
+
+[[177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]] adds a childhood-reading source for the same idea. [[ZhengYuanjie|郑渊洁]], Luxixi in 《罐头小人》, and other childhood works show children encountering adults, rules, school systems, and official correctness as things that can be questioned. The episode broadens anti-authoritarian education from an explicit school critique into the subtler formation that comes from complex, funny, unruly books.
 
 ## Key Claims
 - The right to say no is educational, not merely rebellious; it protects judgment, dignity, and self-trust.

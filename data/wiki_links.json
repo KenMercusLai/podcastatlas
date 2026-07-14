@@ -175,6 +175,10 @@
     "title": "176.为什么越是吃肉，越要关注动物福利？",
     "url": "/wiki/sources/176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722/"
   },
+  "177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036": {
+    "title": "177.小时候的书，怎么就那么好看！",
+    "url": "/wiki/sources/177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036/"
+  },
   "184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010": {
     "title": "184.真实于我有万钧之重：欢迎侠女阿娇",
     "url": "/wiki/sources/184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010/"
@@ -2643,6 +2647,10 @@
     "title": "Career Shore Myth",
     "url": "/wiki/concepts/careershoremyth/"
   },
+  "CarlSagan": {
+    "title": "Carl Sagan",
+    "url": "/wiki/entities/carlsagan/"
+  },
   "CarlotaPerez": {
     "title": "Carlota Perez",
     "url": "/wiki/entities/carlotaperez/"
@@ -2882,6 +2890,18 @@
   "ChildThirdPartyLiabilityInsurance": {
     "title": "Child Third-Party Liability Insurance",
     "url": "/wiki/concepts/childthirdpartyliabilityinsurance/"
+  },
+  "ChildhoodReadingEcology": {
+    "title": "Childhood Reading Ecology",
+    "url": "/wiki/concepts/childhoodreadingecology/"
+  },
+  "ChildhoodScienceReading": {
+    "title": "Childhood Science Reading",
+    "url": "/wiki/concepts/childhoodsciencereading/"
+  },
+  "ChildrensLiteratureComplexity": {
+    "title": "Children's Literature Complexity",
+    "url": "/wiki/concepts/childrensliteraturecomplexity/"
   },
   "Chile": {
     "title": "Chile",
@@ -3518,6 +3538,10 @@
   "CreativeMaterialIndustrialization": {
     "title": "Creative Material Industrialization",
     "url": "/wiki/concepts/creativematerialindustrialization/"
+  },
+  "CreativeRiskAvoidanceCulture": {
+    "title": "Creative Risk-Avoidance Culture",
+    "url": "/wiki/concepts/creativeriskavoidanceculture/"
   },
   "CreatorCulture": {
     "title": "Creator Culture",
@@ -6135,6 +6159,10 @@
     "title": "哈迪亚营救事件",
     "url": "/wiki/entities/hadiyarescueevent/"
   },
+  "HaierBrothers": {
+    "title": "《海尔兄弟》",
+    "url": "/wiki/entities/haierbrothers/"
+  },
   "HaijinAndMaritimeSmuggling": {
     "title": "Haijin and Maritime Smuggling",
     "url": "/wiki/concepts/haijinandmaritimesmuggling/"
@@ -6146,6 +6174,10 @@
   "HakanFidan": {
     "title": "Hakan Fidan",
     "url": "/wiki/entities/hakanfidan/"
+  },
+  "HalAndRogerAdventures": {
+    "title": "《哈尔罗杰历险记》",
+    "url": "/wiki/entities/halandrogeradventures/"
   },
   "HaleySalmon": {
     "title": "Haley Salmon",
@@ -11611,6 +11643,10 @@
     "title": "Science Fiction Realism",
     "url": "/wiki/concepts/sciencefictionrealism/"
   },
+  "ScienceOptimismAndPseudoscience": {
+    "title": "Science Optimism And Pseudoscience",
+    "url": "/wiki/concepts/scienceoptimismandpseudoscience/"
+  },
   "ScienceReligionCivilizationTension": {
     "title": "Science-Religion Civilization Tension",
     "url": "/wiki/concepts/sciencereligioncivilizationtension/"
@@ -12954,6 +12990,10 @@
   "TheCyberiad": {
     "title": "《机器人大师》 / The Cyberiad",
     "url": "/wiki/entities/thecyberiad/"
+  },
+  "TheDemonHauntedWorld": {
+    "title": "《魔鬼出没的世界》 / The Demon-Haunted World",
+    "url": "/wiki/entities/thedemonhauntedworld/"
   },
   "TheDoorToSaturn": {
     "title": "《通往土星之门》 / The Door to Saturn",
@@ -14746,6 +14786,10 @@
   "ZhengYou": {
     "title": "郑游",
     "url": "/wiki/entities/zhengyou/"
+  },
+  "ZhengYuanjie": {
+    "title": "郑渊洁",
+    "url": "/wiki/entities/zhengyuanjie/"
   },
   "ZhengZhilong": {
     "title": "Zheng Zhilong / 郑芝龙",

@@ -2,7 +2,7 @@
 title: "Observation Before Inference"
 type: concept
 tags: [science, reasoning, evidence, fieldwork]
-sources: [172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]
+sources: [177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]
 last_updated: 2026-07-15
 ---
 
@@ -21,6 +21,8 @@ The concept is adjacent to [[BirdwatchingAsAttention]], but it is more explicitl
 [[59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]] adds a travel-history version through [[Crete]]. The episode separates [[GreekMythology]] from archaeology, marks some Minoan social claims as interpretive, treats etymology and local pronunciation as uncertain, and flags the Cyclops/mammoth-skull explanation as a story that needs caution rather than automatic belief.
 
 [[172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860]] adds a life-design version through the phrase "努力前先睁眼". The source uses [[LionelMessi]], [[WuQingyuan]], and [[AlphaGo]] to argue that effective effort begins with higher-quality perception of the field, not only more force or more repetition.
+
+[[177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]] adds a childhood science and skepticism version. The episode's movement from [[ChildhoodScienceReading]] to [[ScienceOptimismAndPseudoscience]], [[CarlSagan|Carl Sagan]], and [[TheDemonHauntedWorld|《魔鬼出没的世界》]] shows how curiosity has to become evidence discipline: a good mystery invites looking, but not every attractive explanation deserves belief.
 
 ## Key Claims
 - A plausible story is not evidence.

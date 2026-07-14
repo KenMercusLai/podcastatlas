@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-15] ingest | 177.小时候的书，怎么就那么好看！
+
+Added source page for the 蜜獾吃书 episode on childhood reading ecology, anti-system reading, 郑渊洁, children's-literature complexity, girl-centered fiction, science adventure, 《海尔兄弟》, Carl Sagan, pseudoscience literacy, early internet writing, and current publishing risk avoidance. Created pages for 郑渊洁, 《哈尔罗杰历险记》, 《海尔兄弟》, Carl Sagan, 《魔鬼出没的世界》, Childhood Reading Ecology, Children's Literature Complexity, Childhood Science Reading, Science Optimism And Pseudoscience, and Creative Risk-Avoidance Culture; updated overview, index, 蜜獾吃书, 秦总, 北明 / 北民, Reading As Life Experience, Family Reading Ecology, Non-Instrumental Literary Reading, Classic Reading Complexity, Anti-Authoritarian Education, Female Self-Possession, Internet Risk-Avoidance Trap, Occult And Pseudoscience In Literary Modernity, and Observation Before Inference. No direct contradiction found; the source extends earlier reading pages by showing messy childhood reading as formative before explicit frameworks.
+
 ## [2026-07-15] ingest | 175.女性卫生用品的社会史：比想象中更精彩！
 
 Added source page for the 蜜獾吃书 episode on 《女性卫生用品的社会史》, menstrual stigma, Japanese sanitary-product history, Anne sanitary napkins, commercial menstrual education, public access, period poverty, tampon safety memory, and the under-documented Chinese sanitary-product branch. Created pages for 《女性卫生用品的社会史》, 田中光, 板井太子, 安妮卫生巾, 森布一, 杜继彦, 三美电机, 尤妮佳 / Unicharm, Kimberly-Clark, Kotex / 高洁丝, 恒安集团, 安乐, Menstrual Product Social History, Menstrual Stigma, Gendered Medicalization, Commercial Menstrual Education, Menstrual Public Infrastructure, Period Poverty, and Toxic Shock Syndrome Risk; updated overview, index, 蜜獾吃书, Material History Narrative, Consumer Brand Moat, Packaging As Product Experience, Protection As Control, and Female Self-Possession. No direct contradiction found; the source adds a data-gap note that Chinese sanitary-product history needs stronger dedicated sources.
@@ -3104,6 +3108,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-15] ingest | 176.为什么越是吃肉，越要关注动物福利？
 
 Added source page for the 蜜獾吃书 episode with 猪哥/猪场严选 on food-animal welfare, meat-eater responsibility, livestock-worker moral injury, slaughter and euthanasia methods, welfare product labeling, pork and egg consumer misconceptions, and practical consumer feedback. Created pages for 猪哥/猪场严选, Food Animal Welfare, Livestock Worker Moral Injury, Slaughter Welfare, and Animal Welfare Product Labeling; updated overview, index, 蜜獾吃书, 秦总, Xiaohongshu, Animal Welfare As Public Health, Livestock Care Economics, Agricultural Systems Reality, and Empathy Circle Expansion. No direct contradiction found; the source extends companion-animal and farm-system pages into Chinese food-animal production while flagging unsupported animal-welfare claims as a trust risk.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-15] lint | Wiki health check
 

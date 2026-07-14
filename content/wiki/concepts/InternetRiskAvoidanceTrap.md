@@ -2,7 +2,7 @@
 title: "Internet Risk-Avoidance Trap"
 type: concept
 tags: [internet, social-media, anxiety, decision-making, self-knowledge]
-sources: [172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
+sources: [177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
 last_updated: 2026-07-15
 ---
 
@@ -13,6 +13,8 @@ Internet risk-avoidance trap is the episode's critique of "避坑" and "避雷" 
 The source does not say that all warnings are false. Its sharper claim is about editing: many points can be true in isolation, yet the assembled picture can still manufacture anxiety, information cocoons, and avoidance. In that state, avoiding other people's pits is mistaken for choosing one's own road.
 
 [[172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860]] adds the opportunity-cost version. The episode says "避雷帖" can be useful warning data, but automatic avoidance may prevent direct judgment, erase low-cost experiments, and hide business or creative openings inside other people's complaints.
+
+[[177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]] adds the cultural-production version through [[CreativeRiskAvoidanceCulture]]. QinZong's publishing critique suggests that when readers and creators over-index on avoiding errors, offense, or bad reviews, the whole reading ecology can become less entertaining, less various, and less tolerant of complexity.
 
 ## Key Claims
 - "Breaking information gaps" can create a new information cocoon if the content rewards fear more than judgment.
