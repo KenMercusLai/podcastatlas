@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [60.闲聊伟大作家们的八卦（第一弹）](sources/60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204.md) — 蜜獾吃书 episode using literary gossip to demythologize Wilde, Whitman, Conan Doyle, Tolstoy, Thoreau, Alcott, Woolf, Yeats, Tolkien, and the messy relation between author lives and canonical works.
 - [59.克里特岛：阳光、海龟、神话和二战战场](sources/59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469.md) — 蜜獾吃书 episode using Crete to connect Greek mythology, Minoan archaeology, Knossos, the Battle of Crete, sea-turtle conservation, and island extinction after human arrival.
 - [更新时间变动通知](sources/gengxin-shijian-biandong-tongzhi-644387724.md) — 蜜獾吃书 short notice announcing a move from Wednesday morning releases to Saturday 10 p.m., framed as schedule positioning, production slack, and listener-interaction housekeeping.
 - [57.说解汉字：屎尿屁为啥是“尸”字头？](sources/57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319.md) — 蜜獾吃书 episode on Chinese-character origins, oracle-bone evidence, folk拆字 risks, 《说文解字》 limits, and why "尸" in 屎尿屁 points to body posture rather than corpses.
@@ -360,6 +361,21 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Oscar Wilde / 王尔德](entities/OscarWilde.md) — Writer used by episode 60 to connect aesthetic self-fashioning, sexual persecution, bodily suffering, and posthumous reputation change.
+- [Walt Whitman / 惠特曼](entities/WaltWhitman.md) — Poet used by episode 60 to connect sexuality, self-mythology, phrenology, brain donation, and author-image uncertainty.
+- [Arthur Conan Doyle / 柯南道尔](entities/ArthurConanDoyle.md) — Sherlock Holmes creator whose failed medical practice, unwanted detective fame, and spiritualist belief anchor episode 60's rationality-versus-belief contrast.
+- [Sherlock Holmes / 福尔摩斯](entities/SherlockHolmes.md) — Doyle's detective character, discussed as a reader-owned publishing phenomenon and visual image shaped by serial culture and illustrators.
+- [Leo Tolstoy / 托尔斯泰](entities/LeoTolstoy.md) — Writer used by episode 60 to connect moral transformation, war guilt, religious radicalism, marriage conflict, and author myth deflation.
+- [Sophia Tolstaya / 索菲亚](entities/SophiaTolstaya.md) — Tolstoy's wife and manuscript collaborator, foregrounded as domestic and copyist labor behind Tolstoy's literary and moral life.
+- [Henry David Thoreau / 梭罗](entities/HenryDavidThoreau.md) — Writer reframed away from pastoral self-help toward civil disobedience, stubborn refusal, family industrial support, and messy biography.
+- [Louisa May Alcott / 奥尔科特](entities/LouisaMayAlcott.md) — Writer whose public association with Little Women is complicated by episode 60's account of darker preferred writing and commissioned children's fiction.
+- [Little Women / 小妇人](entities/LittleWomen.md) — Alcott classic used as an author-image case where the public-defining work may not match the author's own taste.
+- [Virginia Woolf / 弗吉尼亚·伍尔夫](entities/VirginiaWoolf.md) — Modernist writer presented through both trauma and prankster energy, resisting a single tragic-author image.
+- [W. B. Yeats / 叶芝](entities/WBYeats.md) — Poet used by episode 60 to connect romantic image, occult practice, Golden Dawn, bad politics, automatic writing, and late-life desire.
+- [Golden Dawn / 金色黎明](entities/GoldenDawn.md) — Occult organization connecting Yeats, Crowley, ritual practice, and the literary-occult branch of episode 60.
+- [Aleister Crowley / 阿莱斯特·克劳利](entities/AleisterCrowley.md) — Occult figure whose rivalry with Yeats makes episode 60's Golden Dawn segment a literary-biographical case.
+- [J.R.R. Tolkien / 托尔金](entities/JRRTolkien.md) — Fantasy writer framed through anti-Nazi reply, English myth-making, philology, anti-modern quirks, and friendship with C. S. Lewis.
+- [C. S. Lewis / C.S. 刘易斯](entities/CSLewis.md) — Tolkien's friend and literary counterpart, used by episode 60 to show admiration and artistic criticism coexisting.
 - [Crete](entities/Crete.md) — Mediterranean island used by episode 59 as a layered setting for mythology, Minoan archaeology, World War II memory, sea-turtle observation, and island extinction.
 - [Minoan Civilization](entities/MinoanCivilization.md) — Bronze Age Cretan civilization discussed through Knossos, bull imagery, palace systems, art, Linear A, and cautious archaeological interpretation.
 - [Knossos Palace](entities/KnossosPalace.md) — Major Minoan site near Heraklion whose palace layout, infrastructure, frescoes, and museum context anchor the episode's archaeology layer.
@@ -496,19 +512,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Apple Intelligence](entities/AppleIntelligence.md) — Apple's AI system layer evaluated as meaningful WWDC catch-up but incomplete personal-assistant infrastructure.
 - [Barry Prizant](entities/BarryPrizant.md) — Autism expert and Uniquely Human author presented by 蜜獾吃书 as reframing autistic behavior as coping, communication, and self-protection.
 - [《这世界唯一的你》 / Uniquely Human](entities/UniquelyHuman.md) — Book discussed by 蜜獾吃书 as a guide to autism, behavior-as-communication, safe environments, family support, and anti-cure-promise boundaries.
-- [北民](entities/Beimin.md) — Voice in the 蜜獾吃书 episode connecting machine gambling, near-miss effects, and mobile-game reward mechanics.
+- [北民](entities/Beimin.md) — Voice in 蜜獾吃书 episodes connecting machine gambling and mobile-game reward mechanics, then literary gossip around great writers.
 - [《运气的诱饵》](entities/TheLureOfLuck.md) — Book discussed by 蜜獾吃书 as an anthropological and philosophical account of machine gambling, agency suspension, and addiction design.
 - [Christopher Mims](entities/ChristopherMims.md) — Technology writer and How to AI author who frames AI as an assistant best used with expertise, judgment, and mundane task selection.
 - [How to AI](entities/HowToAI.md) — Christopher Mims book discussed by Marketplace Tech as a practical manual for using AI without treating it as a replacement for human expertise.
 - [Flow](entities/Flow.md) — iPhone dictation app Mims uses as a voice-first AI interface for everyday messaging.
 - [Google Personal Intelligence](entities/GooglePersonalIntelligence.md) — Gemini-linked account capability used by the source to show AI acting inside Google services such as Calendar.
 - [Google Calendar](entities/GoogleCalendar.md) — Scheduling product used as the source's example of a disliked task that account-integrated AI can reduce.
-- [蜜獾吃书](entities/MihuanChishu.md) — Podcast/show context for book and life-design discussions on everyday comics, post-apocalyptic science fiction, Swift, satire, machine gambling, autism support, bird science, puzzle mystery, insurance claims, education pressure, reading itself, and release-cadence housekeeping.
+- [蜜獾吃书](entities/MihuanChishu.md) — Podcast/show context for book, travel, language, natural-history, life-design, and literary-biography discussions across reading, satire, fairy tales, writer gossip, and release-cadence housekeeping.
 - [李乌鸦](entities/LiWuya.md) — Book creator and guest in the 蜜獾吃书 first-anniversary episode on reading habits, classics, shame, solitude, and non-instrumental literary value.
 - [日谈](entities/Ritan.md) — Crossover context for the episode bringing Hookie, 殷姐, and 秦总 together for a Women's Day life-design conversation.
 - [Hookie](entities/Hookie.md) — Host in the restart-life episode, linking life-science career redirection, pet grief, school confidence, and learning capacity.
 - [殷姐](entities/YinJie.md) — Host in the restart-life episode, linking Mexico hospitality life, recruiting regret, self-consistency, learning capacity, and non-attachment.
-- [秦总](entities/QinZong.md) — 蜜獾吃书 host linking life restarts, ordinary hardship, machine gambling, autism support, and literary reading through book discussion and personal examples.
+- [秦总](entities/QinZong.md) — 蜜獾吃书 host linking life restarts, ordinary hardship, machine gambling, autism support, literary reading, publishing, and writer-gossip discussion.
 - [重启人生 / Brush Up Life](entities/BrushUpLife.md) — Japanese-drama premise used by the episode as a life-restart thought experiment.
 - [Christina Cacioppo](entities/ChristinaCacioppo.md) — Vanta founder and CEO whose Social Radars episodes link USV, learning to code, Dropbox compliance pain, YC, founder-led enterprise sales, founder mode, and selective delegation.
 - [Vanta](entities/Vanta.md) — Trust-management and compliance-automation SaaS company that began from SOC 2 pain and spreadsheet gap assessments, then expanded beyond a SOC 2-only wedge.
@@ -2179,6 +2195,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Literary Gossip As Context](concepts/LiteraryGossipAsContext.md) — Using writer anecdotes, scandal, habits, and relationships as literary-history context while keeping uncertainty and source limits visible.
+- [Author Myth Deflation](concepts/AuthorMythDeflation.md) — Reading canonical writers as brilliant but embodied, flawed, political, domestic, ridiculous, or harmful rather than saintly icons.
+- [Occult And Pseudoscience In Literary Modernity](concepts/OccultPseudoscienceLiteraryModernity.md) — Frame for literary lives entangled with phrenology, spiritualism, fairy photographs, astrology, seances, and occult organizations.
 - [Greek Mythology](concepts/GreekMythology.md) — Mythic frame for Crete stories around Zeus, Europa, Minos, the Minotaur, Daedalus, Icarus, Theseus, Ariadne, and recurring story variants.
 - [Island Extinction After Human Arrival](concepts/IslandExtinctionAfterHumanArrival.md) — Island-ecology pattern where human arrival, hunting, habitat change, or introduced pressures can eliminate island-adapted animals.
 - [Chinese Character Evidence Discipline](concepts/ChineseCharacterEvidenceDiscipline.md) — Practice of explaining Chinese characters through attested historical forms and scholarly uncertainty rather than modern visual association alone.

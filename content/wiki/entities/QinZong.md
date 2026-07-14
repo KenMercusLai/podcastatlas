@@ -2,7 +2,7 @@
 title: "秦总"
 type: entity
 tags: [host, books, career, life-design, caregiving, reading, publishing]
-sources: [ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308, 46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198]
+sources: [60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308, 46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198]
 last_updated: 2026-07-14
 ---
 
@@ -22,6 +22,8 @@ Her life-restart answers give the source much of its emotional weight. She first
 
 [[156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198]] adds her role as interviewer and interpretive reader of [[YiGeAfuhanNvrenDeLaixin|《一个阿富汗女人的来信》]]. With [[AnQi|安琪]], she moves from book recommendation into [[AfghanWomenFirstPersonWriting]], [[ProtectionAsControl]], [[WarGenderedCivilianHarm]], and the publishing work needed for [[HadiyaHaidari|哈迪亚·海达里]]'s voice to reach Chinese readers.
 
+[[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]] adds her literary-gossip and author-biography discussion role with [[Beimin|北民]]. The episode treats gossip as entertaining but source-limited material, using [[LiteraryGossipAsContext]], [[AuthorMythDeflation]], and [[OccultPseudoscienceLiteraryModernity]] to make canonical writers feel historically embodied without turning anecdote into total explanation.
+
 ## Connections
 
 - [[MihuanChishu|蜜獾吃书]] and [[Ritan|日谈]] - show and crossover context.
@@ -36,3 +38,4 @@ Her life-restart answers give the source much of its emotional weight. She first
 - [[UniquelyHuman|《这世界唯一的你》 / Uniquely Human]], [[AutismAsHumanDifference]], [[BehaviorAsCommunication]], and [[AutismFamilySupport]] - book and concepts from her autism-support discussion.
 - [[ReadingAsLifeExperience]], [[ClassicReadingComplexity]], and [[NonInstrumentalLiteraryReading]] - reading concepts added by her conversation with Li Wuya.
 - [[AnQi|安琪]], [[HadiyaHaidari|哈迪亚·海达里]], [[AfghanWomenFirstPersonWriting]], and [[LiteraryPublishingAsMaterialSupport]] - episode 156's women-writing and publishing branch.
+- [[LiteraryGossipAsContext]], [[AuthorMythDeflation]], and [[OccultPseudoscienceLiteraryModernity]] - episode 60's author-biography and great-writer gossip branch.
