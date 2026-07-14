@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [vol.107.85后提问95后：如果事情不需要做选择，那我就装尸体旁观](sources/vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa.md) — 起朱楼宴宾客 episode with 大卫翁 and Siri on 95后 attention boundaries, youth "corpse mode", work-life separation, controllable life anchors, finance-career judgment, and relationship optionality.
 - [vol.106.迪拜，真的遍地是黄金？](sources/vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8.md) — 起朱楼宴宾客 episode on Dubai and Abu Dhabi as business, capital-flow, real-estate, golden-visa, crypto, high-end-service, and Chinese outbound-market opportunity cases, with strong due-diligence caveats.
 - [vol.105.如何判断一个投资组合是否适合自己？](sources/vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe.md) — 起朱楼宴宾客 episode on portfolio suitability, adaptive allocation, personal goals, competence boundaries, drawdown tolerance, liquidity, and cooldown rules for ordinary investors.
 - [vol.104.普通人港股完全生存指南 | 串台三点下班](sources/vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90.md) — 起朱楼宴宾客 crossover with 三点下班 on Hong Kong retail-investor survival, old-thousand stocks, liquidity exit risk, AH discounts, dividend assets, sell-side incentives, IPO liquidity paths, and why ordinary investors should usually prefer funds or large liquid leaders.
@@ -406,6 +407,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Siri (起朱楼宴宾客)](entities/SiriQizhulou.md) — 95后 speaker in vol.107, explaining youth "corpse mode", choice-triggered attention, controllable life anchors, and relationship optionality.
 - [Dubai / 迪拜](entities/Dubai.md) — UAE commercial hub discussed by vol.106 through low tax, international population flow, property demand, crypto services, logistics, and due-diligence risk.
 - [Abu Dhabi / 阿布扎比](entities/AbuDhabi.md) — UAE capital and oil/resource center contrasted with Dubai's commercial and private-capital-facing model in vol.106.
 - [Ricky](entities/Ricky.md) — Finance-oriented vol.106 guest whose two-week Dubai and Abu Dhabi field report supplies the episode's opportunity and caveat frame.
@@ -413,7 +415,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [华夏基金 / ChinaAMC](entities/ChinaAMC.md) — Fund-management company context for vol.105's opening mention of the 红色火箭 index-investing tool.
 - [时雷 / Shi Lei](entities/ShiLei.md) — Asset-allocation commentator referenced by vol.105 for complex adaptive systems and localizing Bridgewater-style all-weather thinking.
 - [十分吸引 / Shifen Xiyin](entities/ShifenXiyin.md) — Shi Lei's podcast, referenced by vol.105 as a more technical allocation discussion source.
-- [大卫翁 / David Weng](entities/DavidWeng.md) — 起朱楼宴宾客 host connecting Hong Kong retail-investing survival in vol.104 and Dubai field-report questions in vol.106.
+- [大卫翁 / David Weng](entities/DavidWeng.md) — 起朱楼宴宾客 host connecting Hong Kong retail-investing survival in vol.104, Dubai field-report questions in vol.106, and 95后 generational questions in vol.107.
 - [三点下班 / San Dian Xiaban](entities/SanDianXiaban.md) — Podcast crossover partner for vol.104, represented through 浩哥's Hong Kong stock-picking and survival discussion.
 - [浩哥 / Haoge](entities/Haoge.md) — 三点下班 speaker in vol.104, contributing retail Hong Kong investing cases around early wins, illiquid losses, IPO paths, and fast stop-loss discipline.
 - [China Mobile / 中国移动](entities/ChinaMobile.md) — Hong Kong-listed telecom SOE used in vol.104 as a sanction-driven mispricing and high-dividend example.
@@ -576,7 +578,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [蝴蝶牌](entities/ButterflyBrand.md) — Chen Diexian's tooth-powder and cosmetics brand, combining beauty imagery, trademark strategy, national-goods rhetoric, and consumer trust.
 - [家庭工业社](entities/JiatingGongyeshe.md) — Light-industrial company founded by Chen Diexian, growing from tooth powder into cosmetics, packaging, raw materials, and wartime factory migration.
 - [《女子世界》](entities/NushiShijie.md) — Women's magazine context for Chen Diexian's cosmetics-formula column and household-chemistry authority building.
-- [起朱楼宴宾客 / Qizhulou Yan Binke](entities/QizhulouYanBinke.md) — Podcast show represented across Trump-policy, asset-allocation, Japan-youth, quant-history, Hong Kong investing, portfolio-suitability, and Dubai-opportunity episodes.
+- [起朱楼宴宾客 / Qizhulou Yan Binke](entities/QizhulouYanBinke.md) — Podcast show represented across Trump-policy, asset-allocation, Japan-youth, quant-history, Hong Kong investing, portfolio-suitability, Dubai-opportunity, and youth-generational-dialogue episodes.
 - [Project 2025](entities/Project2025.md) — Heritage-linked conservative transition project treated as a personnel, training, document, and governing-architecture effort to institutionalize Trumpism.
 - [Mandate for Leadership 2025](entities/MandateForLeadership2025.md) — Project 2025 policy-document layer with department-level recommendations, transition planning, and conservative administrative-state critique.
 - [Heritage Foundation](entities/HeritageFoundation.md) — Conservative think tank behind Project 2025 and the Mandate for Leadership tradition discussed as governing handoff infrastructure.
@@ -2535,6 +2537,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Choice-Triggered Attention Boundary](concepts/ChoiceTriggeredAttentionBoundary.md) — Vol.107 frame for why youth attention rises when a present choice or near-term action is required, and drops when macro topics offer little action space.
+- [Controllable Life Anchors](concepts/ControllableLifeAnchors.md) — Repeatable practices such as baking, deep reading, travel, and exercise that restore feedback and calm when work, status, or macro narratives feel unstable.
+- [Relationship Optionality](concepts/RelationshipOptionality.md) — Vol.107 frame for romance, marriage, and childbirth as optional choices shaped by negative lists, reversibility, gendered choice expansion, and relationship costs.
 - [Dubai Business Hub Model](concepts/DubaiBusinessHubModel.md) — Low-tax, open, internationally staffed city-hub model combining capital, immigration, logistics, branding, services, compliance cleanup, and confidence risk.
 - [Dubai Golden Visa Residency](concepts/DubaiGoldenVisaResidency.md) — Episode-reported residency frame linking Dubai property, company setup, or talent status to practical banking, ID, insurance, and recurring-base benefits.
 - [Dubai Real Estate Market](concepts/DubaiRealEstateMarket.md) — Dubai property market frame around high rents, off-plan sales, international buyers, residency-linked demand, supply uncertainty, and foreign-currency risk.

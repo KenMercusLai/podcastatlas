@@ -3228,3 +3228,11 @@ Added source page for the 起朱楼宴宾客 episode on Dubai and Abu Dhabi as b
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-15] ingest | vol.107.85后提问95后：如果事情不需要做选择，那我就装尸体旁观
+
+Added source page for the 起朱楼宴宾客 episode where 大卫翁 asks Siri about 95后 attention boundaries, youth "尸体" passivity, work-life separation, finance-career judgment, controllable life anchors, and relationship optionality. Created pages for Siri (起朱楼宴宾客), Choice-Triggered Attention Boundary, Controllable Life Anchors, and Relationship Optionality; updated overview, index, 起朱楼宴宾客, 大卫翁, Youth Happiness After Growth, Macro Narrative Anxiety, Micro-Happiness, and Achievement Pressure Mental Health. No direct contradiction found; the source complements vol.102's youth-happiness branch by adding a China-side, choice-triggered account of when young people attend, act, or remain observers.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

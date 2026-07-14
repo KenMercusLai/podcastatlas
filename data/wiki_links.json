@@ -3143,6 +3143,10 @@
     "title": "Chip War",
     "url": "/wiki/entities/chipwar/"
   },
+  "ChoiceTriggeredAttentionBoundary": {
+    "title": "Choice-Triggered Attention Boundary",
+    "url": "/wiki/concepts/choicetriggeredattentionboundary/"
+  },
   "ChrisBest": {
     "title": "Chris Best",
     "url": "/wiki/entities/chrisbest/"
@@ -3602,6 +3606,10 @@
   "ContrarianSentimentIndicators": {
     "title": "Contrarian Sentiment Indicators",
     "url": "/wiki/concepts/contrariansentimentindicators/"
+  },
+  "ControllableLifeAnchors": {
+    "title": "Controllable Life Anchors",
+    "url": "/wiki/concepts/controllablelifeanchors/"
   },
   "ConvectiveCapital": {
     "title": "Convective Capital",
@@ -11699,6 +11707,10 @@
     "title": "Relationship-Led Sales",
     "url": "/wiki/concepts/relationshipledsales/"
   },
+  "RelationshipOptionality": {
+    "title": "Relationship Optionality",
+    "url": "/wiki/concepts/relationshipoptionality/"
+  },
   "RelentlesslyResourcefulFounder": {
     "title": "Relentlessly Resourceful Founder",
     "url": "/wiki/concepts/relentlesslyresourcefulfounder/"
@@ -12730,6 +12742,10 @@
   "Siri": {
     "title": "Siri",
     "url": "/wiki/entities/siri/"
+  },
+  "SiriQizhulou": {
+    "title": "Siri (起朱楼宴宾客)",
+    "url": "/wiki/entities/siriqizhulou/"
   },
   "SixtyFortyPortfolio": {
     "title": "60/40 Portfolio",
@@ -16718,6 +16734,10 @@
   "vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8": {
     "title": "vol.106.迪拜，真的遍地是黄金？",
     "url": "/wiki/sources/vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8/"
+  },
+  "vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa": {
+    "title": "vol.107.85后提问95后：如果事情不需要做选择，那我就装尸体旁观",
+    "url": "/wiki/sources/vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa/"
   },
   "vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu": {
     "title": "Vol.113 从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络",
