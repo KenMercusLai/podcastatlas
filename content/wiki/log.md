@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-14] ingest | 54.玫瑰的名字（下）：真与假，正与邪，诠释与过度诠释
+
+Added source page for the 蜜獾吃书 episode completing 翁贝托·艾柯's 《玫瑰的名字》 through the poisoned Aristotle text, Jorge's hidden control of the library, false Revelation patterning, anti-detective structure, rational humility, conspiracy-style overinterpretation, laughter as resistance to authority, Bernard Gui's political show trial, and the Avignon Papacy background. Created pages for 亚里士多德《诗学》第二卷 / Aristotle's Poetics Book II, 贝尔纳 / Bernard Gui, 阿维尼翁教廷 / Avignon Papacy, Anti-Detective Fiction, Conspiracy Theory Pattern Seeking, Rational Humility, and Political Show Trial; updated overview, index, 蜜獾吃书, 《玫瑰的名字》, Umberto Eco, William of Baskerville, Adso of Melk, Jorge of Burgos, Interpretation And Overinterpretation, Semiotic Detective Fiction, Knowledge Monopoly, Laughter Against Authority, Book of Revelation, Apocalyptic Literary Symbolism, Observation Before Inference, and Closed-Circle Mystery. No direct contradiction found; the source qualifies episode 53 by showing that the apparent Revelation murder pattern is an in-story trap for overinterpretation rather than the true causal design.
+
 ## [2026-07-14] ingest | 53.玫瑰的名字（上）：真与假，正与邪，诠释与过度诠释
 
 Added source page for the 蜜獾吃书 episode on 翁贝托·艾柯's 《玫瑰的名字》, medieval mystery, semiotic detective fiction, interpretation and overinterpretation, forbidden library knowledge control, laughter against authority, Revelation symbolism, William of Baskerville, Adso, and Jorge of Burgos. Created pages for 《玫瑰的名字》 / The Name of the Rose, Umberto Eco, William of Baskerville, Adso of Melk, Jorge of Burgos, Semiotic Detective Fiction, Interpretation And Overinterpretation, Knowledge Monopoly, and Laughter Against Authority; updated overview, index, 蜜獾吃书, Classic Reading Complexity, Non-Instrumental Literary Reading, Closed-Circle Mystery, Observation Before Inference, Apocalyptic Literary Symbolism, and Book of Revelation. No direct contradiction found; the source extends the wiki's literary-mystery branch by showing a case where clues, symbols, books, doctrine, and laughter make the act of interpretation itself dangerous.
@@ -2815,6 +2819,10 @@ Added source page for the 蜜獾吃书 episode on 高木直子, everyday autobio
 ## [2026-07-14] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint scanned 3,545 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-12 with 3,408 nodes and 34,723 edges while the wiki scan found 3,545 pages; they found no hub stubs, two fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified. No `wiki/lint-report.md` file was saved.
+
+## [2026-07-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-14] lint | Wiki health check
 

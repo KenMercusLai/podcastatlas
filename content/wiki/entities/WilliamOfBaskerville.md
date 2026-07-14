@@ -2,7 +2,7 @@
 title: "巴斯克维尔的威廉 / William of Baskerville"
 type: entity
 tags: [fictional-character, detective-fiction, literature, reasoning]
-sources: [53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184]
+sources: [53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699]
 last_updated: 2026-07-14
 ---
 
@@ -12,6 +12,8 @@ last_updated: 2026-07-14
 
 The source also makes William more than a genre detective. His Franciscan poverty, Ockham-like parsimony, interest in Roger Bacon, respect for experimental knowledge, and defense of laughter place him against the abbey's fear-driven authority. He embodies [[ObservationBeforeInference]] when his reasoning is disciplined by traces and probability, and [[InterpretationAndOverinterpretation]] when he warns that apparent signs may not be meaningful.
 
+[[54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699]] complicates William by making his failure part of the argument. He finds the entrance to the "finis Africae" and confronts [[JorgeOfBurgos|Jorge]], yet his [[BookOfRevelation|Revelation]] theory turns out to be a partly false pattern. The episode uses this to make him a figure of [[RationalHumility]] rather than detective omniscience.
+
 ## Connections
 - [[TheNameOfTheRose|《玫瑰的名字》 / The Name of the Rose]] - novel where he investigates the abbey deaths.
 - [[UmbertoEco|翁贝托·艾柯 / Umberto Eco]] - author who builds the character from detective and intellectual traditions.
@@ -19,4 +21,5 @@ The source also makes William more than a genre detective. His Franciscan povert
 - [[JorgeOfBurgos|豪尔赫 / Jorge of Burgos]] - anti-laughter antagonist in the episode's thematic conflict.
 - [[SemioticDetectiveFiction]] - genre frame where William's investigation becomes an inquiry into signs.
 - [[ObservationBeforeInference]] - reasoning discipline he illustrates and complicates.
+- [[RationalHumility]] and [[AntiDetectiveFiction]] - concepts added by the lower-half resolution.
 - [[LaughterAgainstAuthority]] and [[KnowledgeMonopoly]] - conflicts he confronts inside the monastery.

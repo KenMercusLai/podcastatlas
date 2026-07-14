@@ -223,6 +223,10 @@
     "title": "53.玫瑰的名字（上）：真与假，正与邪，诠释与过度诠释",
     "url": "/wiki/sources/53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184/"
   },
+  "54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699": {
+    "title": "54.玫瑰的名字（下）：真与假，正与邪，诠释与过度诠释",
+    "url": "/wiki/sources/54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699/"
+  },
   "58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859": {
     "title": "58.儒林外史：假如考公成了唯一出路",
     "url": "/wiki/sources/58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859/"
@@ -1271,6 +1275,10 @@
     "title": "Anti-Authoritarian Education",
     "url": "/wiki/concepts/antiauthoritarianeducation/"
   },
+  "AntiDetectiveFiction": {
+    "title": "Anti-Detective Fiction",
+    "url": "/wiki/concepts/antidetectivefiction/"
+  },
   "AntiMoneyLaundering": {
     "title": "Anti-Money Laundering",
     "url": "/wiki/concepts/antimoneylaundering/"
@@ -1386,6 +1394,10 @@
   "AriRedbord": {
     "title": "Ari Redbord",
     "url": "/wiki/entities/ariredbord/"
+  },
+  "AristotlePoeticsBookTwo": {
+    "title": "亚里士多德《诗学》第二卷 / Aristotle's Poetics Book II",
+    "url": "/wiki/entities/aristotlepoeticsbooktwo/"
   },
   "Arkema": {
     "title": "Arkema",
@@ -1574,6 +1586,10 @@
   "AviationSafetyRules": {
     "title": "Aviation Safety Rules",
     "url": "/wiki/concepts/aviationsafetyrules/"
+  },
+  "AvignonPapacy": {
+    "title": "阿维尼翁教廷 / Avignon Papacy",
+    "url": "/wiki/entities/avignonpapacy/"
   },
   "AwamiLeague": {
     "title": "Awami League",
@@ -1834,6 +1850,10 @@
   "BerkshireHathaway": {
     "title": "Berkshire Hathaway",
     "url": "/wiki/entities/berkshirehathaway/"
+  },
+  "BernardGui": {
+    "title": "贝尔纳 / Bernard Gui",
+    "url": "/wiki/entities/bernardgui/"
   },
   "BernardMandeville": {
     "title": "Bernard Mandeville",
@@ -2866,6 +2886,10 @@
   "ConservativePartyUK": {
     "title": "Conservative Party (UK)",
     "url": "/wiki/entities/conservativepartyuk/"
+  },
+  "ConspiracyTheoryPatternSeeking": {
+    "title": "Conspiracy Theory Pattern Seeking",
+    "url": "/wiki/concepts/conspiracytheorypatternseeking/"
   },
   "ConstraintDrivenEngineeringStrategy": {
     "title": "Constraint Driven Engineering Strategy",
@@ -9111,6 +9135,10 @@
     "title": "Political Meme Stock",
     "url": "/wiki/concepts/politicalmemestock/"
   },
+  "PoliticalShowTrial": {
+    "title": "Political Show Trial",
+    "url": "/wiki/concepts/politicalshowtrial/"
+  },
   "PollinationServiceMarket": {
     "title": "Pollination Service Market",
     "url": "/wiki/concepts/pollinationservicemarket/"
@@ -9570,6 +9598,10 @@
   "RatingsCom": {
     "title": "Ratings.com",
     "url": "/wiki/entities/ratingscom/"
+  },
+  "RationalHumility": {
+    "title": "Rational Humility",
+    "url": "/wiki/concepts/rationalhumility/"
   },
   "RayBanSmartGlasses": {
     "title": "Ray-Ban Smart Glasses",

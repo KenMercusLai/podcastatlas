@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [54.玫瑰的名字（下）：真与假，正与邪，诠释与过度诠释](sources/54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699.md) — 蜜獾吃书 episode completing 《玫瑰的名字》 through the poisoned Aristotle text, Jorge's knowledge control, false Revelation patterning, anti-detective structure, conspiracy-style overinterpretation, laughter, and political show trial.
 - [53.玫瑰的名字（上）：真与假，正与邪，诠释与过度诠释](sources/53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184.md) — 蜜獾吃书 episode on 《玫瑰的名字》 as medieval mystery, semiotic detective fiction, knowledge monopoly, laughter against authority, Revelation symbolism, and interpretation versus overinterpretation.
 - [52.好爱高木直子！献给正在打拼的你](sources/52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956.md) — 蜜獾吃书 episode on 高木直子, everyday autobiographical comics, Tokyo drift, part-time work, ordinary hardship, food, family, travel, and local Japan festivals.
 - [51.厌世？反人类？童话故事？…格列佛游记可深了去了](sources/51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320.md) — 蜜獾吃书 episode on 《格列佛游记》 as political satire, scale reversal, Swift's misanthropy question, Laputa's technical domination, Houyhnhnm pure rationality, and author-character separation.
@@ -359,6 +360,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [巴斯克维尔的威廉 / William of Baskerville](entities/WilliamOfBaskerville.md) — Franciscan investigator in 《玫瑰的名字》 whose Sherlock-like observation and Ockham-like parsimony model disciplined inference.
 - [阿德索 / Adso of Melk](entities/AdsoOfMelk.md) — Young monk and Watson-like witness in 《玫瑰的名字》, making the abbey's theological and semiotic pressures bodily and experiential.
 - [豪尔赫 / Jorge of Burgos](entities/JorgeOfBurgos.md) — Blind elder monk in 《玫瑰的名字》 whose anti-laughter stance anchors the source's authority conflict.
+- [亚里士多德《诗学》第二卷 / Aristotle's Poetics Book II](entities/AristotlePoeticsBookTwo.md) — Lost or imagined comedy text in 《玫瑰的名字》 whose poisoned pages connect laughter, philosophical authority, and knowledge monopoly.
+- [贝尔纳 / Bernard Gui](entities/BernardGui.md) — Inquisitor figure in 《玫瑰的名字》 who turns weak evidence, torture, and confession into politically useful judgment.
+- [阿维尼翁教廷 / Avignon Papacy](entities/AvignonPapacy.md) — Medieval papal-political background that makes the abbey negotiations and inquisitorial trial politically exploitable.
 - [高木直子 / Takagi Naoko](entities/TakagiNaoko.md) — Japanese illustrator and comic essayist whose 蜜獾吃书 episode connects everyday autobiographical comics, Tokyo drift, ordinary hardship, food, family, and local Japan travel.
 - [《格列佛游记》 / Gulliver's Travels](entities/GulliversTravels.md) — Swift novel read by 蜜獾吃书 as adult political satire across Lilliput, Brobdingnag, Laputa, and the Houyhnhnms.
 - [Jonathan Swift / 乔纳森·斯威夫特](entities/JonathanSwift.md) — Author of 《格列佛游记》, treated as a satirist whose disgust at human vice is read as warning rather than simple anti-human doctrine.
@@ -2157,6 +2161,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Interpretation And Overinterpretation](concepts/InterpretationAndOverinterpretation.md) — Boundary problem between reading signs carefully and forcing signs to say more than evidence supports.
 - [Knowledge Monopoly](concepts/KnowledgeMonopoly.md) — Institutional control over who may access, classify, read, copy, or interpret knowledge.
 - [Laughter Against Authority](concepts/LaughterAgainstAuthority.md) — Literary idea that comedy and grotesque images can weaken fear-based power by making authority appear contingent or absurd.
+- [Anti-Detective Fiction](concepts/AntiDetectiveFiction.md) — Detective fiction that uses clues and solution while undercutting the fantasy of clean rational closure.
+- [Conspiracy Theory Pattern Seeking](concepts/ConspiracyTheoryPatternSeeking.md) — Overinterpretive habit of preferring hidden, complex, totalizing explanations because they feel meaningful and superior.
+- [Rational Humility](concepts/RationalHumility.md) — Reasoning discipline that keeps conjecture open to evidence, correction, and rival explanations.
+- [Political Show Trial](concepts/PoliticalShowTrial.md) — Proceeding where producing a public, politically useful result matters more than truth-finding.
 - [Everyday Autobiographical Comics](concepts/EverydayAutobiographicalComics.md) — Diary-like illustrated life-writing where ordinary rooms, meals, jobs, travel, family, and small embarrassments become reader recognition.
 - [Ordinary Hardship Narrative](concepts/OrdinaryHardshipNarrative.md) — Life-writing pattern that preserves non-heroic struggle as recognizable experience rather than turning it into a clean success story.
 - [Scale Reversal Satire](concepts/ScaleReversalSatire.md) — Literary device in 《格列佛游记》 where changing size and distance destabilizes human pride, politics, bodies, and civilization.
