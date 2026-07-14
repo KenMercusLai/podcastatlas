@@ -51,6 +51,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [47.鸟有什么好看的：原来…丹顶鹤是秃的！](sources/47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924.md) — 蜜獾吃书 episode on 《鸟有什么好看的》, Kawakami Kazuto, birdwatching, ornithological fieldwork, island ecology, scientific sampling, invasive-species management, and evidence discipline.
 - [WWDC 26 补上了 AI，但离真正的 AI 助手还差什么？｜ S10E15](sources/wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d.md) — What's Next episode with Dong Hongguang of Guangfan Technology on Apple Intelligence, Siri, wearable AI assistants, always-on context, service entry, and permission boundaries.
 - [46.这世界唯一的你：请相信那朵慢慢绽放的花](sources/46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720.md) — 蜜獾吃书 episode on 《这世界唯一的你》 / Uniquely Human, autism as lived difference, behavior-as-communication, safe environments, family support, and cure-promise risk.
+- [45.机器人大师：多希望莱姆能评价一下ChatGPT啊！](sources/45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112.md) — 蜜獾吃书 episode on Stanislaw Lem, 《机器人大师》, ChatGPT-era AI anxiety, machine creativity, cybernetic satire, information overload, truth under coercion, and science-fiction realism.
 - [44.运气的诱饵：赌博成瘾，因为我们害怕自由](sources/44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308.md) — 蜜獾吃书 episode on 《运气的诱饵》, machine gambling addiction, casino/slot design, near misses, intermittent reinforcement, freedom pressure, and addictive digital-product mechanics.
 - [43.西游记：咄！你是什么妖精！](sources/43-xiyouji-duo-ni-shi-shenme-yaojing-618154182.md) — 蜜獾吃书 episode rereading 《西游记》 through authorship debates, television memory, mythic character source layers, Buddhist/Daoist/folk imagery, and cautious 索隐 interpretation.
 - [日谈串台｜姐妹聊天会：重启人生也是我最妖娇](sources/ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425.md) — 蜜獾吃书 and 日谈 Women's Day crossover with Hookie, 殷姐, and 秦总 on 《重启人生》, career redirection, regret integration, pet grief, mother-daughter repair, learning capacity, and female self-possession.
@@ -495,6 +496,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [洪涛](entities/HongTaoPoliticalTheory.md) — Scholar whose 《格列佛游记与古今政治》 frames the episode's political reading of Swift beyond simple misanthropy.
 - [Thomas Hobbes / 托马斯·霍布斯](entities/ThomasHobbes.md) — Political philosopher used by the episode to connect Leviathan-style sovereignty and fixed-human-nature politics to Swift's satire.
 - [Niccolo Machiavelli / 马基雅维利](entities/NiccoloMachiavelli.md) — Political theorist used by the episode as part of the modern politics frame around fixed human badness.
+- [斯坦尼斯拉夫·莱姆 / Stanislaw Lem](entities/StanislawLem.md) — Author read by 蜜獾吃书 through cybernetic machine satire, ChatGPT-era AI anxiety, and science-fiction realism.
+- [《机器人大师》 / The Cyberiad](entities/TheCyberiad.md) — Lem story cycle about Trurl and Klapaucius, used to discuss machine creativity, information overload, truth, and technical satire.
+- [《索拉里斯星》 / Solaris](entities/Solaris.md) — Better-known Lem work used as a contrast to the more comic and satirical 《机器人大师》.
+- [特鲁勒 / Trurl](entities/Trurl.md) — Lem's fictional machine constructor whose inventions drive several 《机器人大师》 stories.
+- [克拉帕沃丘斯 / Klapaucius](entities/Klapaucius.md) — Trurl's rival and co-adventurer in 《机器人大师》.
 - [Tom Blomfield](entities/TomBlomfield.md) — Monzo co-founder, former CEO, and YC partner whose Social Radars episode links GoCardless, Starling, Monzo, founder agreements, fintech capital pressure, burnout, and ecosystem optimism.
 - [Monzo](entities/Monzo.md) — UK digital bank used as a case in in-house banking software, product delight, waitlist invitation growth, fraud response, regulatory capital pressure, and founder succession.
 - [GoCardless](entities/GoCardless.md) — YC Summer 2011 fintech company that pivoted from bill splitting toward B2B direct-debit infrastructure.
@@ -2415,6 +2421,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Minnan Family Writing](concepts/MinnanFamilyWriting.md) — Literary frame for using Minnan small-town family, funeral custom, gender roles, neighbors, and ordinary kinship to write complex people.
 - [Tall-Tale Tradition](concepts/TallTaleTradition.md) — Cross-cultural story pattern where impossible exploits are told with comic confidence and enough internal logic to become satisfying.
 - [Absurd Rationality](concepts/AbsurdRationality.md) — Narrative logic where impossible events still unfold through procedural, locally rational explanation.
+- [Cybernetic Machine Satire](concepts/CyberneticMachineSatire.md) — Lem-style machine fable where literal technical systems expose bad commands, weak judgment, and social absurdity.
+- [Truth Against Absurd Power](concepts/TruthAgainstAbsurdPower.md) — Lem-derived fable of insisting on truth when force demands acceptance of an obviously false claim.
+- [Machine Creativity Threat](concepts/MachineCreativityThreat.md) — Anxiety that machine-generated creative work changes status, authorship, labor, and supply in prestige domains.
+- [Information Overload Knowledge Trap](concepts/InformationOverloadKnowledgeTrap.md) — Problem where true facts become useless or harmful without question choice, interpretation, and judgment.
+- [Science Fiction Realism](concepts/ScienceFictionRealism.md) — Mode where impossible speculative machinery reveals durable social mechanisms and human patterns.
 - [Munchausen Self-Bootstrapping](concepts/MunchausenSelfBootstrapping.md) — Motif of impossible self-rescue used as a metaphor for booting, circular justification, and self-grounding.
 - [Adult Satire In Children's Classics](concepts/AdultSatiricalChildrensClassics.md) — Rereading frame where works remembered as children's literature retain adult political and philosophical satire.
 - [Superhero Tall-Tale Continuity](concepts/SuperheroTallTaleContinuity.md) — Claim that superhero fantasy continues tall-tale exaggerations of human agency, power, escape, and desire.

@@ -211,6 +211,10 @@
     "title": "44.运气的诱饵：赌博成瘾，因为我们害怕自由",
     "url": "/wiki/sources/44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308/"
   },
+  "45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112": {
+    "title": "45.机器人大师：多希望莱姆能评价一下ChatGPT啊！",
+    "url": "/wiki/sources/45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112/"
+  },
   "46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720": {
     "title": "46.这世界唯一的你：请相信那朵慢慢绽放的花",
     "url": "/wiki/sources/46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720/"
@@ -3395,6 +3399,10 @@
     "title": "Cyber Data Theft and Leak Operations",
     "url": "/wiki/concepts/cyberdatatheftandleakoperations/"
   },
+  "CyberneticMachineSatire": {
+    "title": "Cybernetic Machine Satire",
+    "url": "/wiki/concepts/cyberneticmachinesatire/"
+  },
   "DADavidson": {
     "title": "D.A. Davidson",
     "url": "/wiki/entities/dadavidson/"
@@ -6347,6 +6355,10 @@
     "title": "Information Gap Anxiety",
     "url": "/wiki/concepts/informationgapanxiety/"
   },
+  "InformationOverloadKnowledgeTrap": {
+    "title": "Information Overload Knowledge Trap",
+    "url": "/wiki/concepts/informationoverloadknowledgetrap/"
+  },
   "InformedOptimism": {
     "title": "Informed Optimism",
     "url": "/wiki/concepts/informedoptimism/"
@@ -7143,6 +7155,10 @@
     "title": "Kiyosumi-Shirakawa / 清澄白河",
     "url": "/wiki/entities/kiyosumishirakawa/"
   },
+  "Klapaucius": {
+    "title": "克拉帕沃丘斯 / Klapaucius",
+    "url": "/wiki/entities/klapaucius/"
+  },
   "KleinerPerkins": {
     "title": "Kleiner Perkins",
     "url": "/wiki/entities/kleinerperkins/"
@@ -7882,6 +7898,10 @@
   "MacMini": {
     "title": "Mac Mini",
     "url": "/wiki/entities/macmini/"
+  },
+  "MachineCreativityThreat": {
+    "title": "Machine Creativity Threat",
+    "url": "/wiki/concepts/machinecreativitythreat/"
   },
   "MachineGamblingAddiction": {
     "title": "Machine Gambling Addiction",
@@ -10863,6 +10883,10 @@
     "title": "Scaling Broken Product",
     "url": "/wiki/concepts/scalingbrokenproduct/"
   },
+  "ScienceFictionRealism": {
+    "title": "Science Fiction Realism",
+    "url": "/wiki/concepts/sciencefictionrealism/"
+  },
   "ScienceReligionCivilizationTension": {
     "title": "Science-Religion Civilization Tension",
     "url": "/wiki/concepts/sciencereligioncivilizationtension/"
@@ -11411,6 +11435,10 @@
     "title": "搜狐视频 / Sohu Video",
     "url": "/wiki/entities/sohuvideo/"
   },
+  "Solaris": {
+    "title": "《索拉里斯星》 / Solaris",
+    "url": "/wiki/entities/solaris/"
+  },
   "SolidStateBatteryCommercialization": {
     "title": "Solid-State Battery Commercialization",
     "url": "/wiki/concepts/solidstatebatterycommercialization/"
@@ -11598,6 +11626,10 @@
   "StanfordUniversity": {
     "title": "Stanford University",
     "url": "/wiki/entities/stanforduniversity/"
+  },
+  "StanislawLem": {
+    "title": "斯坦尼斯拉夫·莱姆 / Stanislaw Lem",
+    "url": "/wiki/entities/stanislawlem/"
   },
   "StanleyDruckenmiller": {
     "title": "Stanley Druckenmiller",
@@ -12151,6 +12183,10 @@
     "title": "The Continental",
     "url": "/wiki/entities/thecontinental/"
   },
+  "TheCyberiad": {
+    "title": "《机器人大师》 / The Cyberiad",
+    "url": "/wiki/entities/thecyberiad/"
+  },
   "TheEconomicWayOfThinking": {
     "title": "《经济学的思维方式》 / The Economic Way of Thinking",
     "url": "/wiki/entities/theeconomicwayofthinking/"
@@ -12487,6 +12523,10 @@
     "title": "Trump Media And Technology Group",
     "url": "/wiki/entities/trumpmediaandtechnologygroup/"
   },
+  "Trurl": {
+    "title": "特鲁勒 / Trurl",
+    "url": "/wiki/entities/trurl/"
+  },
   "TrustAsBusinessAsset": {
     "title": "Trust As Business Asset",
     "url": "/wiki/concepts/trustasbusinessasset/"
@@ -12502,6 +12542,10 @@
   "TrustSensitiveSaaSSwitching": {
     "title": "Trust-Sensitive SaaS Switching",
     "url": "/wiki/concepts/trustsensitivesaasswitching/"
+  },
+  "TruthAgainstAbsurdPower": {
+    "title": "Truth Against Absurd Power",
+    "url": "/wiki/concepts/truthagainstabsurdpower/"
   },
   "TruthSocial": {
     "title": "Truth Social",
