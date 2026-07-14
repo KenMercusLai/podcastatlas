@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.113 从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络](sources/vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu.md) — 起朱楼宴宾客 episode on Project 2025, Heritage Foundation, AFPI, CPI, Trumpism institutionalization, administrative-state dismantling, immigration, Fed critique, education, trade reciprocity, and American protectionism.
 - [184.真实于我有万钧之重：欢迎侠女阿娇](sources/184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010.md) — 蜜獾吃书 episode with 阿娇/柱子哥 on the Hadiya rescue, overseas work, cancer and death writing, hospice care, professional dignity, and truthful whole-process cancer documentation.
 - [147. 非洲神话：腋毛创世, 土狼下蛋及哪吒的另一版本](sources/147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004.md) — 蜜獾吃书 episode on sub-Saharan African mythology, oral literature, creation stories, the Mwindo epic, marriage-origin tales, Anansi, and trickster ambivalence.
 - [107.闲聊伟大导演们的八卦（第一弹）](sources/107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818.md) — 蜜獾吃书 episode using director gossip to discuss Chaplin, Hitchcock, Walt Disney, Riefenstahl, film-set power, propaganda aesthetics, moral accountability, and early women film pioneers.
@@ -377,6 +378,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [起朱楼宴宾客 / Qizhulou Yan Binke](entities/QizhulouYanBinke.md) — Podcast show represented by the Trump 2.0 policy-network episode, using long-form reading notes to connect policy documents, think tanks, and ideological history.
+- [Project 2025](entities/Project2025.md) — Heritage-linked conservative transition project treated as a personnel, training, document, and governing-architecture effort to institutionalize Trumpism.
+- [Mandate for Leadership 2025](entities/MandateForLeadership2025.md) — Project 2025 policy-document layer with department-level recommendations, transition planning, and conservative administrative-state critique.
+- [Heritage Foundation](entities/HeritageFoundation.md) — Conservative think tank behind Project 2025 and the Mandate for Leadership tradition discussed as governing handoff infrastructure.
+- [America First Policy Institute](entities/AmericaFirstPolicyInstitute.md) — Trump-aligned think tank whose agenda supplies more implementation-oriented language on inflation, immigration, supply chains, and reciprocal trade.
+- [Conservative Partnership Institute](entities/ConservativePartnershipInstitute.md) — Post-2020 conservative organizational base connecting former Trump officials, staffers, and new-right institution building.
+- [American Moment](entities/AmericanMoment.md) — New-right youth-staffing and culture-building organization used by the episode to show personnel continuity beyond one Trump term.
+- [Republican Party](entities/RepublicanParty.md) — U.S. party represented by its 2024 platform, compared with Project 2025 and AFPI as compressed campaign-language policy.
+- [Peter Navarro](entities/PeterNavarro.md) — Trump trade-policy figure used by the episode to explain tariff support through manufacturing, wages, defense industry, and supply-chain security.
+- [William McKinley](entities/WilliamMcKinley.md) — Historical U.S. president used as an analogy for high tariffs, gold-standard discipline, industrial protection, and domestic-market leverage.
+- [Department of Education](entities/DepartmentOfEducation.md) — U.S. federal education agency treated as a central institutional target of Project 2025 and the Republican platform.
 - [阿娇 / 柱子哥](entities/Ajiao.md) — Writer, overseas-work professional, and public cancer narrator who connects rescue action, illness writing, professional dignity, and death-facing public expression.
 - [《我还想看见》](entities/WoHaiXiangKanjian.md) — Ajiao's book discussed as a dated self-record, illness narrative, and broader portrait beyond the anti-cancer blogger label.
 - [哈迪亚营救事件](entities/HadiyaRescueEvent.md) — Emergency rescue thread where QinZong, AnQi, Ajiao, and others coordinated help after Hadiya Haidari's family faced detention and deportation risk in Pakistan.
@@ -2319,6 +2331,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Trumpism Institutionalization](concepts/TrumpismInstitutionalization.md) — Turning Trump-era slogans, personnel, documents, training, and think-tank networks into durable governing machinery.
+- [New Right Policy Network](concepts/NewRightPolicyNetwork.md) — Conservative institutional ecosystem connecting think tanks, former officials, youth staffers, and policy language beyond one campaign.
+- [Administrative State Dismantling](concepts/AdministrativeStateDismantling.md) — Conservative project to weaken, relocate, split, or politically control federal agencies portrayed as unaccountable delegated power.
+- [Federal Government Weaponization Narrative](concepts/FederalGovernmentWeaponizationNarrative.md) — Republican claim that federal institutions are used against Trump and conservatives, supporting stronger political control of agencies.
+- [Education Department Abolition](concepts/EducationDepartmentAbolition.md) — Proposal to eliminate the federal Department of Education and return authority to states, families, and school-choice mechanisms.
+- [Merit-Based Immigration Filter](concepts/MeritBasedImmigrationFilter.md) — Selective immigration frame that pairs harsh illegal-immigration enforcement with openness to skilled or economically valuable migrants.
+- [Supply Chain Sovereignty](concepts/SupplyChainSovereignty.md) — Policy idea that domestic workers, allies, energy supply, and strategic inputs should reduce vulnerable foreign production dependence.
+- [Trade Reciprocity Protectionism](concepts/TradeReciprocityProtectionism.md) — Tariff frame where reciprocal treatment and industrial restoration justify protectionism as fairness rather than only import taxation.
+- [American Protectionist Tradition](concepts/AmericanProtectionistTradition.md) — Historical tariff and industrial-policy lineage linking Hamilton, Carey, McKinley, domestic-market leverage, and Trump-era trade politics.
 - [Public Illness Writing](concepts/PublicIllnessWriting.md) — Ajiao's frame for making illness, bodily decline, hospice, patients, elders, and death publicly speakable without reducing the writer to inspiration.
 - [Whole-Process Cancer Documentation](concepts/WholeProcessCancerDocumentation.md) — Ajiao's "养成系" ambition to record cancer from diagnosis through recurrence, deterioration, and death, including negative states.
 - [安宁疗护 / Hospice Care](concepts/HospiceCare.md) — End-of-life care and death-quality frame introduced through Ajiao's discussion of late-stage cancer and public illness writing.

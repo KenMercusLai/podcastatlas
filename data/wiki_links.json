@@ -987,6 +987,10 @@
     "title": "Adidas Ultra Boost",
     "url": "/wiki/entities/adidasultraboost/"
   },
+  "AdministrativeStateDismantling": {
+    "title": "Administrative State Dismantling",
+    "url": "/wiki/concepts/administrativestatedismantling/"
+  },
   "AdministrativeSubpoenaDataAccess": {
     "title": "Administrative Subpoena Data Access",
     "url": "/wiki/concepts/administrativesubpoenadataaccess/"
@@ -1287,6 +1291,10 @@
     "title": "America as Idea",
     "url": "/wiki/concepts/americaasidea/"
   },
+  "AmericaFirstPolicyInstitute": {
+    "title": "America First Policy Institute",
+    "url": "/wiki/entities/americafirstpolicyinstitute/"
+  },
   "AmericanArchiveOfPublicBroadcasting": {
     "title": "American Archive of Public Broadcasting",
     "url": "/wiki/entities/americanarchiveofpublicbroadcasting/"
@@ -1306,6 +1314,14 @@
   "AmericanGiantsMuseum": {
     "title": "American Giants Museum",
     "url": "/wiki/entities/americangiantsmuseum/"
+  },
+  "AmericanMoment": {
+    "title": "American Moment",
+    "url": "/wiki/entities/americanmoment/"
+  },
+  "AmericanProtectionistTradition": {
+    "title": "American Protectionist Tradition",
+    "url": "/wiki/concepts/americanprotectionisttradition/"
   },
   "AmericanSportsCapitalInEuropeanFootball": {
     "title": "American Sports Capital In European Football",
@@ -3151,6 +3167,10 @@
     "title": "Conservation Intervention",
     "url": "/wiki/concepts/conservationintervention/"
   },
+  "ConservativePartnershipInstitute": {
+    "title": "Conservative Partnership Institute",
+    "url": "/wiki/entities/conservativepartnershipinstitute/"
+  },
   "ConservativePartyUK": {
     "title": "Conservative Party (UK)",
     "url": "/wiki/entities/conservativepartyuk/"
@@ -3783,6 +3803,10 @@
     "title": "Democratic Transition Election",
     "url": "/wiki/concepts/democratictransitionelection/"
   },
+  "DepartmentOfEducation": {
+    "title": "Department of Education",
+    "url": "/wiki/entities/departmentofeducation/"
+  },
   "DepartmentOfGovernmentEfficiency": {
     "title": "Department of Government Efficiency",
     "url": "/wiki/entities/departmentofgovernmentefficiency/"
@@ -4291,6 +4315,10 @@
     "title": "Edouard Philippe",
     "url": "/wiki/entities/edouardphilippe/"
   },
+  "EducationDepartmentAbolition": {
+    "title": "Education Department Abolition",
+    "url": "/wiki/concepts/educationdepartmentabolition/"
+  },
   "EducationTechnologyFairness": {
     "title": "Education Technology Fairness",
     "url": "/wiki/concepts/educationtechnologyfairness/"
@@ -4754,6 +4782,10 @@
   "FedNow": {
     "title": "FedNow",
     "url": "/wiki/entities/fednow/"
+  },
+  "FederalGovernmentWeaponizationNarrative": {
+    "title": "Federal Government Weaponization Narrative",
+    "url": "/wiki/concepts/federalgovernmentweaponizationnarrative/"
   },
   "FederalReserve": {
     "title": "Federal Reserve",
@@ -6038,6 +6070,10 @@
   "HenryYin": {
     "title": "Henry Yin",
     "url": "/wiki/entities/henryyin/"
+  },
+  "HeritageFoundation": {
+    "title": "Heritage Foundation",
+    "url": "/wiki/entities/heritagefoundation/"
   },
   "HeritageTourismCommercialization": {
     "title": "Heritage Tourism Commercialization",
@@ -8079,6 +8115,10 @@
     "title": "Manchester United",
     "url": "/wiki/entities/manchesterunited/"
   },
+  "MandateForLeadership2025": {
+    "title": "Mandate for Leadership 2025",
+    "url": "/wiki/entities/mandateforleadership2025/"
+  },
   "MandySuzanneWong": {
     "title": "Mandy Suzanne Wong",
     "url": "/wiki/entities/mandysuzannewong/"
@@ -8434,6 +8474,10 @@
   "MercedesF1": {
     "title": "Mercedes F1",
     "url": "/wiki/entities/mercedesf1/"
+  },
+  "MeritBasedImmigrationFilter": {
+    "title": "Merit-Based Immigration Filter",
+    "url": "/wiki/concepts/meritbasedimmigrationfilter/"
   },
   "MeritExcellenceIntelligence": {
     "title": "Merit, Excellence, and Intelligence",
@@ -8970,6 +9014,10 @@
   "NewBalance": {
     "title": "New Balance",
     "url": "/wiki/entities/newbalance/"
+  },
+  "NewRightPolicyNetwork": {
+    "title": "New Right Policy Network",
+    "url": "/wiki/concepts/newrightpolicynetwork/"
   },
   "NewSpot": {
     "title": "NewSpot",
@@ -9707,6 +9755,10 @@
     "title": "Peter Mandelson",
     "url": "/wiki/entities/petermandelson/"
   },
+  "PeterNavarro": {
+    "title": "Peter Navarro",
+    "url": "/wiki/entities/peternavarro/"
+  },
   "PewResearchCenter": {
     "title": "Pew Research Center",
     "url": "/wiki/entities/pewresearchcenter/"
@@ -10123,6 +10175,10 @@
     "title": "Progress Data Visualization",
     "url": "/wiki/concepts/progressdatavisualization/"
   },
+  "Project2025": {
+    "title": "Project 2025",
+    "url": "/wiki/entities/project2025/"
+  },
   "ProjectGlassfin": {
     "title": "Project Glassfin",
     "url": "/wiki/entities/projectglassfin/"
@@ -10282,6 +10338,10 @@
   "QiuChuji": {
     "title": "丘处机",
     "url": "/wiki/entities/qiuchuji/"
+  },
+  "QizhulouYanBinke": {
+    "title": "起朱楼宴宾客 / Qizhulou Yan Binke",
+    "url": "/wiki/entities/qizhulouyanbinke/"
   },
   "QuToutiao": {
     "title": "QuToutiao",
@@ -10598,6 +10658,10 @@
   "RepublicanChinaBankingSystem": {
     "title": "Republican China Banking System",
     "url": "/wiki/concepts/republicanchinabankingsystem/"
+  },
+  "RepublicanParty": {
+    "title": "Republican Party",
+    "url": "/wiki/entities/republicanparty/"
   },
   "RerankingModels": {
     "title": "Reranking Models",
@@ -12075,6 +12139,10 @@
     "title": "Superpowers",
     "url": "/wiki/entities/superpowers/"
   },
+  "SupplyChainSovereignty": {
+    "title": "Supply Chain Sovereignty",
+    "url": "/wiki/concepts/supplychainsovereignty/"
+  },
   "SupremeCourt": {
     "title": "Supreme Court",
     "url": "/wiki/entities/supremecourt/"
@@ -12619,6 +12687,10 @@
     "title": "Tracy Young",
     "url": "/wiki/entities/tracyyoung/"
   },
+  "TradeReciprocityProtectionism": {
+    "title": "Trade Reciprocity Protectionism",
+    "url": "/wiki/concepts/tradereciprocityprotectionism/"
+  },
   "TrainedIntuition": {
     "title": "Trained Intuition",
     "url": "/wiki/concepts/trainedintuition/"
@@ -12686,6 +12758,10 @@
   "TrumpMediaAndTechnologyGroup": {
     "title": "Trump Media And Technology Group",
     "url": "/wiki/entities/trumpmediaandtechnologygroup/"
+  },
+  "TrumpismInstitutionalization": {
+    "title": "Trumpism Institutionalization",
+    "url": "/wiki/concepts/trumpisminstitutionalization/"
   },
   "Trurl": {
     "title": "特鲁勒 / Trurl",
@@ -13390,6 +13466,10 @@
   "WilliamDeresiewicz": {
     "title": "William Deresiewicz",
     "url": "/wiki/entities/williamderesiewicz/"
+  },
+  "WilliamMcKinley": {
+    "title": "William McKinley",
+    "url": "/wiki/entities/williammckinley/"
   },
   "WilliamOfBaskerville": {
     "title": "巴斯克维尔的威廉 / William of Baskerville",
@@ -15210,6 +15290,10 @@
   "using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds": {
     "title": "Using AI chatbots for mental health support poses serious risks for teens, report finds",
     "url": "/wiki/sources/using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds/"
+  },
+  "vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu": {
+    "title": "Vol.113 从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络",
+    "url": "/wiki/sources/vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu/"
   },
   "vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1": {
     "title": "Vol. 160 一年多以后，再聊AI写代码Vibe Coding",

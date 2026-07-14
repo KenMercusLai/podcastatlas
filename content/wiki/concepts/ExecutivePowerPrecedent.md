@@ -2,8 +2,8 @@
 title: "Executive Power Precedent"
 type: concept
 tags: [politics, law, governance]
-sources: [gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad]
-last_updated: 2026-07-09
+sources: [gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
+last_updated: 2026-07-14
 ---
 
 # Executive Power Precedent
@@ -16,6 +16,8 @@ The concept matters because constitutional damage can be cumulative. [[RobertGue
 
 [[coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b]] adds a symbolic version through [[PresidentialMemorialCulture]]. The episode argues that memorial institutions can give presidents a quasi-imperial aura, which matters because legal authority and public symbolism can reinforce each other.
 
+[[vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]] adds the operational version through [[AdministrativeStateDismantling]]. The episode says Project 2025-style reforms are framed as restoring accountability, but they can also create stronger presidential control over career bureaucracies and independent institutions.
+
 ## Key Claims
 - A temporary political style can create legal tools that future presidents use more competently.
 - Court-sanctioned executive power can outlast the president who first benefits from it.
@@ -23,6 +25,7 @@ The concept matters because constitutional damage can be cumulative. [[RobertGue
 - Democratic resilience depends on whether future actors treat precedents as limits, permissions, or weapons.
 - Repeated crises can normalize extraordinary claims rather than resolving them after one election cycle.
 - Presidential symbolism can make expanded authority feel more natural even when formal rules do not change.
+- Administrative reform can become executive-power precedent when the next administration inherits a more politically controlled bureaucracy.
 
 ## Connections
 - [[DonaldTrump]], [[SupremeCourt]], [[RobertGuest]], [[DanielKnowles]], and [[RebeccaJackson]] - source actors in the debate.
@@ -30,3 +33,4 @@ The concept matters because constitutional damage can be cumulative. [[RobertGue
 - [[PresidentialMemorialCulture]] and [[ObamaPresidentialCenter]] - symbolic-elevation branch.
 - [[PresidentialConflictOfInterest]] - adjacent Trump-era governance-risk concept.
 - [[NATOAllianceCredibility]] and [[USIranNuclearDiplomacy]] - branches where executive behavior can affect international trust.
+- [[Project2025]], [[AdministrativeStateDismantling]], and [[FederalGovernmentWeaponizationNarrative]] - operational Trump 2.0 governance branch added by Qizhulou Yan Binke.

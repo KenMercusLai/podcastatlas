@@ -2,8 +2,8 @@
 title: "Gold Monetary Anchor"
 type: concept
 tags: [macro, gold, monetary-system, investing]
-sources: [tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]
-last_updated: 2026-07-12
+sources: [tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
+last_updated: 2026-07-14
 ---
 
 # Gold Monetary Anchor
@@ -16,12 +16,15 @@ The source also connects gold to [[RiskParity]] and multi-asset strategy. If a s
 
 [[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]] adds the tactical hedge caution. Gold is described as a time-honored hedge against chaos, but the episode notes that a strong bull run and a sharp one-day drop make it less obviously stable for investors trying to hedge an AI-equity bubble after the move has already become crowded.
 
+[[vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]] adds a policy-history angle. In its discussion of [[Project2025]] and [[WilliamMcKinley]], gold-standard or gold-adjacent monetary discipline appears as an imagined check on money creation, even though the episode treats full return to that system or abolition of the [[FederalReserve]] as unlikely and risky.
+
 ## Key Claims
 - Gold should be analyzed through monetary-system credibility, debt, central-bank balance sheets, and geopolitical order, not only through CPI.
 - Its role in a portfolio depends on [[AssetCorrelation]] and the specific macro regime.
 - Gold can be part of [[MacroAssetExpression]] when the thesis concerns currency trust, fiscal pressure, or sovereign-credit change.
 - Gold's investment role complements but does not replace [[TreasuryDurationRisk]], [[CurrencyRisk]], and broader [[InvestmentRiskManagement]].
 - Gold can become a volatile hedge when its own recent price action has already attracted crowded or momentum-driven demand.
+- Gold-standard nostalgia can function as a political argument for monetary discipline even when the practical institutional path is unclear.
 
 ## Connections
 - [[Bitcoin]], [[DigitalGold]], and [[BitcoinSafeHavenBehavior]] - March 12 Marketplace Tech comparison between gold and Bitcoin under Iran-crisis stress.
@@ -31,3 +34,4 @@ The source also connects gold to [[RiskParity]] and multi-asset strategy. If a s
 - [[AssetAllocation]] and [[EfficientFrontier]] — portfolio discipline for deciding whether gold improves the whole allocation.
 - [[SilverDollarCredit]] and [[CurrencyCredit]] — historical money-trust concepts already represented in the wiki.
 - [[AIBubbleHedging]] — tactical context where gold's safe-haven role is weighed against recent volatility.
+- [[Project2025]], [[FederalReserve]], [[CentralBankIndependence]], and [[WilliamMcKinley]] — policy-history branch added by Qizhulou Yan Binke.

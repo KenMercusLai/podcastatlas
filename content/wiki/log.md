@@ -2764,6 +2764,10 @@ Added source page for the 蜜獾吃书 episode with 有光 editor 安琪 on 哈�
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-14] ingest | Vol.113 从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络
+
+Added source page for the 起朱楼宴宾客 episode on Trump 2.0 policy infrastructure, Project 2025, Heritage Foundation, AFPI, CPI, administrative-state dismantling, immigration sorting, Fed critique, education-department abolition, trade reciprocity, and American protectionism. Created pages for 起朱楼宴宾客, Project 2025, Mandate for Leadership 2025, Heritage Foundation, America First Policy Institute, Conservative Partnership Institute, American Moment, Republican Party, Peter Navarro, William McKinley, Department of Education, Trumpism Institutionalization, New Right Policy Network, Administrative State Dismantling, Federal Government Weaponization Narrative, Education Department Abolition, Merit-Based Immigration Filter, Supply Chain Sovereignty, Trade Reciprocity Protectionism, and American Protectionist Tradition; updated overview, index, Donald Trump, United States, JD Vance, Federal Reserve, Central Bank Independence, Gold Monetary Anchor, Immigration Backlash Cycle, Executive Power Precedent, Department of Government Efficiency, China, and American Democratic Resilience. No direct contradiction found; the source itself highlights internal policy tensions around deportation versus inflation, tax cuts versus deficits, and anti-bureaucracy rhetoric versus stronger presidential control.
+
 ## [2026-07-14] ingest | 184.真实于我有万钧之重：欢迎侠女阿娇
 
 Added source page for the 蜜獾吃书 episode with 阿娇/柱子哥 on the Hadiya rescue, overseas work, late-stage cancer, public illness writing, hospice care, professional dignity, and whole-process cancer documentation. Created pages for Ajiao, 《我还想看见》, the Hadiya rescue event, Pakistan, Public Illness Writing, Whole-Process Cancer Documentation, Hospice Care, Meaning Through Experience, Professional Dignity Beyond Patient Identity, Overseas Identity Reset, and Unprotected Overseas Work; updated overview, index, QinZong, Hadiya Haidari, Female Self-Possession, Literary Publishing As Material Support, and Present Moment Against Death. No direct contradiction found.
@@ -2988,6 +2992,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-14] ingest | 147. 非洲神话：腋毛创世, 土狼下蛋及哪吒的另一版本
 
 Added source page for the 蜜獾吃书 episode on sub-Saharan African mythology, oral literature, creation stories, the Mwindo epic, marriage-origin tales, resource-sacrifice legends, and Anansi. Created pages for African Mythology, African Oral Literature, Trickster Ambivalence, Anansi, Mawu-Lisa, Obatala, and the Mwindo Epic; updated overview, index, 蜜獾吃书, Mythic Source Layering, and Story-Based Empathy. No direct contradiction found; variant differences across oral traditions are kept as source-scoped mythology and transmission evidence rather than forced into one canonical account.
+
+## [2026-07-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-14] lint | Wiki health check
 

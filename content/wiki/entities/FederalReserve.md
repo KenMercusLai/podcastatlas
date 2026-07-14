@@ -2,8 +2,8 @@
 title: "Federal Reserve"
 type: entity
 tags: [institution, central-bank, macro]
-sources: [ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]
-last_updated: 2026-07-09
+sources: [ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
+last_updated: 2026-07-14
 ---
 
 # Federal Reserve
@@ -16,6 +16,8 @@ The Federal Reserve appears in [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-d
 
 [[far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]] adds a historical leadership and reputation layer through [[AlanGreenspan]]. The episode credits Greenspan with defending [[CentralBankIndependence]], responding to Black Monday in 1987, and steering the 1990s boom, while also saying later crashes, the jobless recovery, housing excess, and the global financial crisis forced a reassessment of his judgment.
 
+[[vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]] adds a conservative institutional-critique layer. The episode says [[Project2025]]'s Fed chapter blames the Federal Reserve for inflation and recession cycles, proposes at minimum narrowing the Fed mandate toward price stability, and notes more radical free-banking ideas that would move money and interest rates closer to market discipline and [[GoldMonetaryAnchor]] logic.
+
 ## Source Position
 - Market expectations for Fed cuts are treated as unstable, moving from modest cuts toward larger or even emergency-cut speculation during stress.
 - The speakers argue that a cut can be interpreted as a negative signal if investors believe the Fed has seen a deeper problem.
@@ -25,6 +27,7 @@ The Federal Reserve appears in [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-d
 - The source connects Fed cuts to [[TreasuryDurationRisk]]: lower rates may help bonds, but long-end supply and currency effects still matter.
 - EP57 adds that Fed communication can become a timing risk for [[IndexReentryDiscipline]] when investors are waiting for evidence that volatility has cooled.
 - The Greenspan segment adds that Fed credibility depends on independence, data interpretation, and later judgment of whether policy missed a changing market regime.
+- The Qizhulou Yan Binke source adds that anti-Fed arguments can become part of [[AdministrativeStateDismantling]], even though the episode doubts that abolishing the Fed is a likely near-term outcome.
 
 ## Connections
 - [[BankOfJapan]] — policy divergence with Japan is central to the episode's chain of events.
@@ -34,3 +37,4 @@ The Federal Reserve appears in [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-d
 - [[USRecessionRisk]], [[SahmRule]], [[USTreasury]], and [[TreasuryDurationRisk]] — additional EP39 contexts for rate-cut expectations.
 - [[DonaldTrump]], [[JeromePowell]], [[MarketRegimeShift]], and [[IndexReentryDiscipline]] — EP57's policy-volatility and reentry context.
 - [[AlanGreenspan]] and [[CentralBankIndependence]] — historical Fed-leadership and institutional-autonomy context.
+- [[Project2025]], [[AdministrativeStateDismantling]], and [[GoldMonetaryAnchor]] — conservative critique and monetary-system branch added by Qizhulou Yan Binke.
