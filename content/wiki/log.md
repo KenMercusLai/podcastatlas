@@ -2973,3 +2973,11 @@ Added source page for the 蜜獾吃书 episode on director gossip, Chaplin, Hitc
 ## [2026-07-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-14] ingest | 136. 春日明媚，聊聊鬼神
+
+Added source page for the 蜜獾吃书 episode on Chinese folk ghost-and-deity belief, Qingming ancestor ritual, underworld bureaucracy, Fengdu/Dongyue/Yanluo death rulers, ten hell courts, city gods, land gods, Meng Po, Zhong Kui, 《西游记》, and 《聊斋志异》. Created pages for 丰都大帝, 东岳大帝, 阎罗王, 十殿阎罗, 城隍, 土地, 孟婆, 钟馗, 《聊斋志异》, Chinese Folk Religion Layering, Underworld Bureaucracy, Afterlife Moral Accounting, and Local Deity Governance; updated overview, index, 蜜獾吃书, 《西游记》, Mythic Source Layering, and Folk Religion Disaster Politics. No direct contradiction found; internal inconsistencies among folk-belief variants are treated as the source's main point rather than as wiki conflicts.
+
+## [2026-07-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

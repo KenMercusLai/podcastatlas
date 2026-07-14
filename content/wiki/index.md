@@ -168,6 +168,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Episode 18: 感官放大世界：和任宁聊观鸟、自然与自由](sources/ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779.md) — Fuyou Tiandi episode with Ren Ning on birdwatching, citizen science, tern conservation, urban ecology, nature writing, AI bird-recognition bias, and freedom through sensory attention.
 - [Trailer: Tocqueville Road Trip](sources/trailer-tocqueville-road-trip-6a315813780d0f7579afb892.md) — Economist Podcasts trailer from the Boss Class Acast feed, duplicating the Tocqueville Road Trip setup around Alexis de Tocqueville, Democracy in America, and America as a democratic idea.
 - [137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费](sources/137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1.md) — 疯投圈 episode on AI-resistant experience consumption, Shunde food tourism, Zhuroupo, Korean culture-led consumer marketing, Seongsu-dong, K-Beauty, beverage competition in Korea, and separating housing experience from real-estate investment.
+- [136. 春日明媚，聊聊鬼神](sources/136-chunri-mingmei-liaoliao-guishen-827911486.md) — 蜜獾吃书 episode on Chinese folk ghost-and-deity belief, Qingming ancestor ritual, underworld bureaucracy, Fengdu/Dongyue/Yanluo rulers, Chenghuang/Tudi local gods, Meng Po, Zhong Kui, Journey to the West, Liaozhai, and moral accounting in afterlife stories.
 - [Vol.262 去西班牙买足球俱乐部，一场荒诞的商业冒险](sources/vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191.md) — 商业就是这样 episode with Li Xiang on buying Jumilla CF, Chinese-player overseas arbitrage, lower-tier club control risk, contract enforcement, youth-football systems, and stop-loss lessons after a failed football investment.
 - [Roaring trades: oil majors' secret success story](sources/roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674.md) — The Intelligence episode on European oil majors' hidden trading profits, U.S. frontier-model release controls, and concert tours concentrating into long city residencies.
 - [Far Crimea: war comes to Russia's door](sources/far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658.md) — The Intelligence episode on Ukraine's strikes on Crimea and Russia, SpaceX's IPO and index exposure, and Alan Greenspan's Federal Reserve legacy.
@@ -374,6 +375,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [丰都大帝](entities/FengduDadi.md) — Underworld ruler used by episode 136 to show how ghost-country, Daoist, Fengdu, paperwork, and death-administration traditions layer together.
+- [东岳大帝](entities/DongyueDadi.md) — Taishan-linked life-and-death ruler used by episode 136 as an older sacred-mountain branch of afterlife authority.
+- [阎罗王](entities/YanluoWang.md) — Localized Yama/Yanluo death judge connecting Buddhist afterlife material with Chinese clear-official moral judgment.
+- [十殿阎罗](entities/TenKingsOfHell.md) — Ten-court hell-judge system used by episode 136 to organize judgment, punishment, reports, and rebirth.
+- [城隍](entities/Chenghuang.md) — City-god office read by episode 136 as local divine administration, underworld mayoralty, and civic moral memory.
+- [土地](entities/Tudigong.md) — Intimate local land-god office in episode 136, handling neighborhood-scale protection, reporting, and death registration.
+- [孟婆](entities/MengPo.md) — Underworld figure whose soup of forgetting explains rebirth without previous-life memory in episode 136.
+- [钟馗](entities/ZhongKui.md) — Ghost-quelling figure in episode 136, shaped by image culture, Tang court legend, and possible tool etymology.
+- [《聊斋志异》](entities/LiaozhaiZhiyi.md) — Ghost-story collection used by episode 136 to show underworld offices as examinations, appointments, favors, and moral tests.
 - [Charlie Chaplin / 卓别林](entities/CharlieChaplin.md) — Film director and actor used by episode 107 to separate artistic stature and political persecution from private moral reliability.
 - [Alfred Hitchcock / 希区柯克](entities/AlfredHitchcock.md) — Suspense director discussed by episode 107 through fear, set control, actress treatment, pranks, and director myth deflation.
 - [Leni Riefenstahl / 莱妮·里芬斯塔尔](entities/LeniRiefenstahl.md) — German director used by episode 107 to connect technical film influence with Nazi propaganda, coerced labor, and moral accountability.
@@ -2299,6 +2309,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Chinese Folk Religion Layering](concepts/ChineseFolkReligionLayering.md) — Multi-source folk-religion pattern where ritual, Daoist registers, Buddhist afterlife ideas, local cults, literature, and oral variants coexist without one standard doctrine.
+- [Underworld Bureaucracy](concepts/UnderworldBureaucracy.md) — Afterlife model of offices, seals, reports, judges, local gods, and procedures, developed through episode 136's Chinese ghost-and-deity map.
+- [Afterlife Moral Accounting](concepts/AfterlifeMoralAccounting.md) — Supernatural ledger of ordinary conduct, punishments, clean-official judgment, and social order in episode 136's hell stories.
+- [Local Deity Governance](concepts/LocalDeityGovernance.md) — Folk-religion pattern where city gods and land gods act as territorial administrators, neighborhood protectors, and moral record-keepers.
 - [Film Gossip As Context](concepts/FilmGossipAsContext.md) — Use of director anecdotes, scandals, rumors, and habits as source-scoped entry points into film history, production power, and memory.
 - [Director Myth Deflation](concepts/DirectorMythDeflation.md) — Practice of bringing celebrated directors down from pure-genius images without reducing film history to scandal alone.
 - [Film Set Power And Abuse](concepts/FilmSetPowerAndAbuse.md) — Production-side pattern where creative authority, scheduling pressure, money, and career control can turn into fear, coercion, or exploitation.
