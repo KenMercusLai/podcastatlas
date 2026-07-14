@@ -2,7 +2,7 @@
 title: "Author Myth Deflation"
 type: concept
 tags: [literature, biography, canon, interpretation]
-sources: [60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]
+sources: [60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
 last_updated: 2026-07-14
 ---
 
@@ -14,12 +14,15 @@ The concept differs from cancellation or debunking. It asks the reader to preser
 
 The episode's value is partly emotional. By showing canonical writers as embodied and flawed, it makes [[ClassicReadingComplexity]] less reverential and [[NonInstrumentalLiteraryReading]] less museum-like: readers can approach works as made by complicated people rather than icons.
 
+[[107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]] extends the same method into cinema through [[DirectorMythDeflation]]. The director version adds collective labor, set hierarchy, actress treatment, propaganda service, and forgotten women filmmakers to the broader problem of how cultural canons turn complicated artists into clean monuments.
+
 ## Key Claims
 - Great literary talent does not imply good politics, stable judgment, domestic kindness, or personal elegance.
 - Deflating an author myth should widen interpretation, not replace one simple image with another.
 - The author's life can expose hidden labor, social cost, law, sexuality, illness, or publishing pressure around a work.
 - Canonical status often turns messy lives into clean legends after death.
 - A humane literary culture can admire work while keeping author flaws visible.
+- The same deflation method can travel from literature into film, but directing adds production power and collaborator erasure.
 
 ## Connections
 - [[LiteraryGossipAsContext]] - method for handling biographical anecdotes with uncertainty.
@@ -27,3 +30,4 @@ The episode's value is partly emotional. By showing canonical writers as embodie
 - [[OscarWilde]], [[LeoTolstoy]], [[HenryDavidThoreau]], [[LouisaMayAlcott]], [[VirginiaWoolf]], [[WBYeats]], and [[JRRTolkien]] - main examples.
 - [[SophiaTolstaya]] - hidden labor and domestic cost case.
 - [[LittleWomen]] and [[SherlockHolmes]] - works whose public image diverges from author preference.
+- [[DirectorMythDeflation]], [[FilmGossipAsContext]], and [[ArtisticAchievementMoralAccountability]] - film extension added by the director-gossip source.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [107.闲聊伟大导演们的八卦（第一弹）](sources/107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818.md) — 蜜獾吃书 episode using director gossip to discuss Chaplin, Hitchcock, Walt Disney, Riefenstahl, film-set power, propaganda aesthetics, moral accountability, and early women film pioneers.
 - [42.安多：风起于青萍之末](sources/42-anduo-fengqi-yu-qingping-zhi-mo-616391638.md) — 蜜獾吃书 episode on Andor, Star Wars, everyday imperial control, prison labor, ordinary rebellion, and the ethics of sacrificing others.
 - [41.施剑翘复仇案：超越哈贝马斯的情与法](sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038.md) — 蜜獾吃书 episode on the Shi Jianqiao revenge case, Sun Chuanfang, filial revenge, sensational Republican-era media, public opinion, judicial independence, special pardon politics, and gendered nationalist heroism.
 - [40.平面国：禁止染色/女人危险/向上不是向北！](sources/40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366.md) — 蜜獾吃书 episode with 秦总 and translator 菲比 on 《平面国》 / Flatland, dimensional allegory, geometric gender/class hierarchy, color as identity disruption, and reading as perspective expansion.
@@ -373,6 +374,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Charlie Chaplin / 卓别林](entities/CharlieChaplin.md) — Film director and actor used by episode 107 to separate artistic stature and political persecution from private moral reliability.
+- [Alfred Hitchcock / 希区柯克](entities/AlfredHitchcock.md) — Suspense director discussed by episode 107 through fear, set control, actress treatment, pranks, and director myth deflation.
+- [Leni Riefenstahl / 莱妮·里芬斯塔尔](entities/LeniRiefenstahl.md) — German director used by episode 107 to connect technical film influence with Nazi propaganda, coerced labor, and moral accountability.
+- [Alice Guy-Blache / 艾丽斯·盖-布兰奇](entities/AliceGuyBlache.md) — Early woman film director highlighted by episode 107 as a pre-Hollywood cinema pioneer whose work complicates male-only film-history memory.
+- [Lois Weber / 洛伊斯·韦伯](entities/LoisWeber.md) — Early woman director discussed by episode 107 for long-form narrative work and social-issue filmmaking.
+- [Dorothy Arzner / 多罗西·阿兹娜](entities/DorothyArzner.md) — Hollywood woman and lesbian director used by episode 107 to recover women and queer filmmakers inside early studio history.
+- [Ida Lupino / 艾达·卢皮诺](entities/IdaLupino.md) — Actor-director and television director used by episode 107 to show women sustaining directing careers across film and TV boundaries.
 - [周明](entities/ZhouMing.md) — Editor and episode 42 guest reading Andor through imperial governance, Star Wars political texture, and false-choice control.
 - [蹦迪班长](entities/BengdiBanzhang.md) — Public-account writer and episode 42 guest connecting Andor with 2022-era freedom, ordinary courage, and anti-heroic resistance.
 - [《安多》 / Andor](entities/Andor.md) — Star Wars television series read by episode 42 as a political prequel about imperial bureaucracy, prison labor, community revolt, and moral compromise.
@@ -2291,6 +2299,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Film Gossip As Context](concepts/FilmGossipAsContext.md) — Use of director anecdotes, scandals, rumors, and habits as source-scoped entry points into film history, production power, and memory.
+- [Director Myth Deflation](concepts/DirectorMythDeflation.md) — Practice of bringing celebrated directors down from pure-genius images without reducing film history to scandal alone.
+- [Film Set Power And Abuse](concepts/FilmSetPowerAndAbuse.md) — Production-side pattern where creative authority, scheduling pressure, money, and career control can turn into fear, coercion, or exploitation.
+- [Artistic Achievement Moral Accountability](concepts/ArtisticAchievementMoralAccountability.md) — Judgment frame that artistic greatness or technical influence cannot automatically cancel personal harm or political responsibility.
+- [Propaganda Aesthetics](concepts/PropagandaAesthetics.md) — Problem of technically powerful art that makes political domination beautiful, heroic, and emotionally persuasive.
+- [Early Women Film Pioneers](concepts/EarlyWomenFilmPioneers.md) — Corrective film-history branch recovering women directors active from cinema's early decades.
 - [False Choice Governance](concepts/FalseChoiceGovernance.md) — Pattern where power leaves apparent options while removing the option people actually value, developed through Andor's Aldhani arc.
 - [Institutional Overcompliance](concepts/InstitutionalOvercompliance.md) — Pattern where zealous functionaries intensify authority beyond immediate need, crystallized through Syril Karn.
 - [Manufactured Prisoner Dilemma](concepts/ManufacturedPrisonerDilemma.md) — Artificial competition structure that makes people under shared domination distrust and sacrifice one another.
