@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [53.玫瑰的名字（上）：真与假，正与邪，诠释与过度诠释](sources/53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184.md) — 蜜獾吃书 episode on 《玫瑰的名字》 as medieval mystery, semiotic detective fiction, knowledge monopoly, laughter against authority, Revelation symbolism, and interpretation versus overinterpretation.
 - [52.好爱高木直子！献给正在打拼的你](sources/52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956.md) — 蜜獾吃书 episode on 高木直子, everyday autobiographical comics, Tokyo drift, part-time work, ordinary hardship, food, family, travel, and local Japan festivals.
 - [51.厌世？反人类？童话故事？…格列佛游记可深了去了](sources/51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320.md) — 蜜獾吃书 episode on 《格列佛游记》 as political satire, scale reversal, Swift's misanthropy question, Laputa's technical domination, Houyhnhnm pure rationality, and author-character separation.
 - [Tom Blomfield on Monzo, YC, and Founder Lessons](sources/tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio.md) — The Social Radars episode with Tom Blomfield on GoCardless, Starling, Monzo, YC, in-house banking software, fraud response, funding crisis, burnout, succession, and ecosystem optimism.
@@ -353,6 +354,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [翁贝托·艾柯 / Umberto Eco](entities/UmbertoEco.md) — Author of 《玫瑰的名字》, presented by 蜜獾吃书 as a novelist, semiotic thinker, medieval scholar, and public intellectual whose plot structures carry theory.
+- [《玫瑰的名字》 / The Name of the Rose](entities/TheNameOfTheRose.md) — Eco novel read as a medieval murder mystery about signs, forbidden knowledge, laughter, theological authority, and overinterpretation.
+- [巴斯克维尔的威廉 / William of Baskerville](entities/WilliamOfBaskerville.md) — Franciscan investigator in 《玫瑰的名字》 whose Sherlock-like observation and Ockham-like parsimony model disciplined inference.
+- [阿德索 / Adso of Melk](entities/AdsoOfMelk.md) — Young monk and Watson-like witness in 《玫瑰的名字》, making the abbey's theological and semiotic pressures bodily and experiential.
+- [豪尔赫 / Jorge of Burgos](entities/JorgeOfBurgos.md) — Blind elder monk in 《玫瑰的名字》 whose anti-laughter stance anchors the source's authority conflict.
 - [高木直子 / Takagi Naoko](entities/TakagiNaoko.md) — Japanese illustrator and comic essayist whose 蜜獾吃书 episode connects everyday autobiographical comics, Tokyo drift, ordinary hardship, food, family, and local Japan travel.
 - [《格列佛游记》 / Gulliver's Travels](entities/GulliversTravels.md) — Swift novel read by 蜜獾吃书 as adult political satire across Lilliput, Brobdingnag, Laputa, and the Houyhnhnms.
 - [Jonathan Swift / 乔纳森·斯威夫特](entities/JonathanSwift.md) — Author of 《格列佛游记》, treated as a satirist whose disgust at human vice is read as warning rather than simple anti-human doctrine.
@@ -2147,6 +2153,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Semiotic Detective Fiction](concepts/SemioticDetectiveFiction.md) — Mystery form where clues are signs whose meaning, reliability, and overinterpretation become part of the story's argument.
+- [Interpretation And Overinterpretation](concepts/InterpretationAndOverinterpretation.md) — Boundary problem between reading signs carefully and forcing signs to say more than evidence supports.
+- [Knowledge Monopoly](concepts/KnowledgeMonopoly.md) — Institutional control over who may access, classify, read, copy, or interpret knowledge.
+- [Laughter Against Authority](concepts/LaughterAgainstAuthority.md) — Literary idea that comedy and grotesque images can weaken fear-based power by making authority appear contingent or absurd.
 - [Everyday Autobiographical Comics](concepts/EverydayAutobiographicalComics.md) — Diary-like illustrated life-writing where ordinary rooms, meals, jobs, travel, family, and small embarrassments become reader recognition.
 - [Ordinary Hardship Narrative](concepts/OrdinaryHardshipNarrative.md) — Life-writing pattern that preserves non-heroic struggle as recognizable experience rather than turning it into a clean success story.
 - [Scale Reversal Satire](concepts/ScaleReversalSatire.md) — Literary device in 《格列佛游记》 where changing size and distance destabilizes human pride, politics, bodies, and civilization.

@@ -2,7 +2,7 @@
 title: "Classic Reading Complexity"
 type: concept
 tags: [literature, classics, reading, judgment]
-sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320]
+sources: [49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184]
 last_updated: 2026-07-14
 ---
 
@@ -16,6 +16,8 @@ The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryR
 
 [[51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320]] adds [[GulliversTravels|《格列佛游记》 / Gulliver's Travels]] as a classic often flattened by childhood memory. The source asks the reader to keep adventure spectacle, scatological humor, political satire, [[TechnocraticDominationSatire]], [[PureRationalityTrap]], and [[AuthorCharacterSeparation]] in view at the same time rather than treating the book as either a children's story or a simple anti-human manifesto.
 
+[[53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184]] adds [[TheNameOfTheRose|《玫瑰的名字》 / The Name of the Rose]] as a difficult modern classic whose detective plot cannot be separated from theology, medieval politics, library power, and [[SemioticDetectiveFiction]]. The source makes complexity a problem of interpretation itself: a reader must follow the murders while also noticing when signs, prophecies, and symbols are being overread.
+
 [[58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859]] adds a school-canon version through [[RulinWaishi|《儒林外史》]]. A reader may remember only [[FanJin|范进]] passing the exam as a funny textbook excerpt, but the episode asks for a fuller reading of [[WuJingzi|吴敬梓]]'s [[SatiricalGroupPortrait]], [[WanErDuoFeng|婉而多讽]], and critique of [[ImperialExaminationAsOnlyExit]]. The classic therefore cannot be reduced to "批判科举"; it also contains structural narration, mixed character judgment, and alternative models of dignity.
 
 ## Key Claims
@@ -25,6 +27,7 @@ The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryR
 - Present-day labels like "渣男" or "恋爱脑" can name a reaction but should not be mistaken for a full reading.
 - Different ages and life states change what a classic can give the reader.
 - A textbook excerpt can be a useful entry point while still hiding the larger structure and social diagnosis of the full work.
+- A detective shell can hide a deeper interpretive problem: the reader needs plot attention and skepticism toward over-neat symbolic patterning at the same time.
 
 ## Connections
 - [[ReadingAsLifeExperience]] - reader state affects when classics become available or unbearable.
@@ -34,4 +37,5 @@ The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryR
 - [[AdultSatiricalChildrensClassics]] - specific rereading frame for works remembered as children's literature.
 - [[AbsurdRationality]] - example of literary complexity inside apparently childish impossibility.
 - [[GulliversTravels|《格列佛游记》]], [[ScaleReversalSatire]], [[TechnocraticDominationSatire]], and [[PureRationalityTrap]] - episode 51's extension into Swiftian political satire.
+- [[TheNameOfTheRose|《玫瑰的名字》]], [[UmbertoEco|翁贝托·艾柯]], [[SemioticDetectiveFiction]], and [[InterpretationAndOverinterpretation]] - episode 53's extension into semiotic and theological mystery.
 - [[RulinWaishi|《儒林外史》]], [[WanErDuoFeng|婉而多讽]], and [[SatiricalGroupPortrait]] - episode 58's extension into classical Chinese satire and examination society.
