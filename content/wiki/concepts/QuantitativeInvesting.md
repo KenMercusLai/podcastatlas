@@ -2,8 +2,8 @@
 title: "Quantitative Investing"
 type: concept
 tags: [investing, quantitative-finance]
-sources: [ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0]
-last_updated: 2026-07-08
+sources: [ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl]
+last_updated: 2026-07-15
 ---
 
 # Quantitative Investing
@@ -16,6 +16,8 @@ Quantitative investing is the episode's nameable method behind [[JimSimons]], [[
 
 [[ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p]] adds the cautionary [[LongTermCapitalManagement]] case. It shows that mathematical sophistication and convergence logic do not remove [[FinancialModelRisk]] when leverage, liquidity, and [[MarketRegimeShift]] overwhelm model assumptions.
 
+[[vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl]] adds the organizational-history version. [[RenaissanceTechnologies]] becomes a sequence of data, signal, execution, integration, and risk-control advances: [[SandorStraus]]'s [[QuantitativeDataMoat]], [[ElwynBerlekamp]]'s [[ShortTermStatisticalArbitrage]], [[HenryLaufer]]'s single-model integration, and [[HumanRiskOverride]] around crisis exposure.
+
 ## Key Claims
 - The method is less about understanding business stories and more about detecting patterns in time-series data.
 - A small edge can matter if it is real, repeatable, low-correlation, and traded many times.
@@ -25,6 +27,8 @@ Quantitative investing is the episode's nameable method behind [[JimSimons]], [[
 - Opportunity density is one reason small edges can compound, but only if execution, costs, and [[PositionSizing]] do not erase the signal.
 - Quant tools can help a discretionary trader screen or execute, especially when human state is poor, but they still need rules and review.
 - Model-driven strategies need liquidity and leverage controls because being theoretically hedged is not the same as being able to survive stress.
+- The strongest quant case in the wiki is organizational as much as mathematical: data cleaning, transaction-cost modeling, talent incentives, and [[HumanRiskOverride]] matter alongside signals.
+- [[AlphaDecay]] means a discovered edge must be monitored and replaced when crowding, publication, or regime change erodes it.
 - E144 adds that backtested signal combinations need complete entry and exit definitions; a signal alone is not a strategy.
 - Random experiments and generated narratives are useful checks against confusing statistical appearance with causal explanation.
 
@@ -36,3 +40,4 @@ Quantitative investing is the episode's nameable method behind [[JimSimons]], [[
 - [[CompoundingGrowthFormula]], [[InvestmentEdge]], and [[KellyCriterion]] — E153's sizing and repetition frame for small statistical edges.
 - [[LongTermCapitalManagement]] and [[FinancialModelRisk]] — EP90's model-risk extension.
 - [[NoPredictionTrading]], [[RandomMarketNarratives]], and [[DiversificationAlpha]] — E144's trend-signal, narrative, and diversification extensions.
+- [[QuantitativeDataMoat]], [[ShortTermStatisticalArbitrage]], [[HumanRiskOverride]], and [[AlphaDecay]] — vol.103's historical and organizational extensions.

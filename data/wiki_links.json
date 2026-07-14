@@ -1379,6 +1379,10 @@
     "title": "Alo Yoga",
     "url": "/wiki/entities/aloyoga/"
   },
+  "AlphaDecay": {
+    "title": "Alpha Decay",
+    "url": "/wiki/concepts/alphadecay/"
+  },
   "AlphaEast": {
     "title": "AlphaEast",
     "url": "/wiki/entities/alphaeast/"
@@ -4767,6 +4771,10 @@
     "title": "Elong",
     "url": "/wiki/entities/elong/"
   },
+  "ElwynBerlekamp": {
+    "title": "Elwyn Berlekamp",
+    "url": "/wiki/entities/elwynberlekamp/"
+  },
   "Elys": {
     "title": "Elys",
     "url": "/wiki/entities/elys/"
@@ -6563,6 +6571,10 @@
     "title": "Henry David Thoreau / 梭罗",
     "url": "/wiki/entities/henrydavidthoreau/"
   },
+  "HenryLaufer": {
+    "title": "Henry Laufer",
+    "url": "/wiki/entities/henrylaufer/"
+  },
   "HenryMaine": {
     "title": "Henry Maine",
     "url": "/wiki/entities/henrymaine/"
@@ -6862,6 +6874,10 @@
   "HumanResourceDeflationComputeInfrastructureInflation": {
     "title": "Human Resource Deflation Compute Infrastructure Inflation",
     "url": "/wiki/concepts/humanresourcedeflationcomputeinfrastructureinflation/"
+  },
+  "HumanRiskOverride": {
+    "title": "Human Risk Override",
+    "url": "/wiki/concepts/humanriskoverride/"
   },
   "HumanoidRobotCommercialization": {
     "title": "Humanoid Robot Commercialization",
@@ -7330,6 +7346,10 @@
   "JamaatEIslamiBangladesh": {
     "title": "Jamaat-e-Islami Bangladesh",
     "url": "/wiki/entities/jamaateislamibangladesh/"
+  },
+  "JamesAx": {
+    "title": "James Ax",
+    "url": "/wiki/entities/jamesax/"
   },
   "JamesDamore": {
     "title": "James Damore",
@@ -8238,6 +8258,10 @@
   "LeoTolstoy": {
     "title": "Leo Tolstoy / 托尔斯泰",
     "url": "/wiki/entities/leotolstoy/"
+  },
+  "LeonardBaum": {
+    "title": "Leonard Baum",
+    "url": "/wiki/entities/leonardbaum/"
   },
   "LeverageDrivenBullMarket": {
     "title": "Leverage-Driven Bull Market",
@@ -10631,6 +10655,10 @@
     "title": "Peter Andrews",
     "url": "/wiki/entities/peterandrews/"
   },
+  "PeterBrown": {
+    "title": "Peter Brown",
+    "url": "/wiki/entities/peterbrown/"
+  },
   "PeterBurns": {
     "title": "Peter Burns",
     "url": "/wiki/entities/peterburns/"
@@ -11287,6 +11315,10 @@
     "title": "《全球上瘾》",
     "url": "/wiki/entities/quanqiushangyin/"
   },
+  "QuantitativeDataMoat": {
+    "title": "Quantitative Data Moat",
+    "url": "/wiki/concepts/quantitativedatamoat/"
+  },
   "QuantitativeInvesting": {
     "title": "Quantitative Investing",
     "url": "/wiki/concepts/quantitativeinvesting/"
@@ -11759,6 +11791,10 @@
     "title": "Robert Guest",
     "url": "/wiki/entities/robertguest/"
   },
+  "RobertMercer": {
+    "title": "Robert Mercer",
+    "url": "/wiki/entities/robertmercer/"
+  },
   "RobertMorris": {
     "title": "Robert Morris",
     "url": "/wiki/entities/robertmorris/"
@@ -12030,6 +12066,10 @@
   "SanDisk": {
     "title": "SanDisk",
     "url": "/wiki/entities/sandisk/"
+  },
+  "SandorStraus": {
+    "title": "Sandor Straus",
+    "url": "/wiki/entities/sandorstraus/"
   },
   "Sandunban": {
     "title": "Sandunban / 三顿半",
@@ -12466,6 +12506,10 @@
   "ShortTermNewsBias": {
     "title": "Short-Term News Bias",
     "url": "/wiki/concepts/shorttermnewsbias/"
+  },
+  "ShortTermStatisticalArbitrage": {
+    "title": "Short-Term Statistical Arbitrage",
+    "url": "/wiki/concepts/shorttermstatisticalarbitrage/"
   },
   "ShortVideoCreationTools": {
     "title": "Short-Video Creation Tools",
@@ -16530,6 +16574,10 @@
   "vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn": {
     "title": "vol.102.熬过就业冰河期的日本年轻人，去哪里寻找幸福感？",
     "url": "/wiki/sources/vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn/"
+  },
+  "vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl": {
+    "title": "vol.103.文艺复兴科技西蒙斯的封神之路：是量化之王，更是洞察人性的大师",
+    "url": "/wiki/sources/vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl/"
   },
   "vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu": {
     "title": "Vol.113 从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络",

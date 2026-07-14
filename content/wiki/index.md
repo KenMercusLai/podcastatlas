@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [vol.103.文艺复兴科技西蒙斯的封神之路：是量化之王，更是洞察人性的大师](sources/vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl.md) — 起朱楼宴宾客 episode on Jim Simons, Renaissance Technologies, Medallion Fund, data moats, short-horizon quant trading, alpha decay, LTCM comparison, and the human risk override behind machine-led investing.
 - [vol.102.熬过就业冰河期的日本年轻人，去哪里寻找幸福感？](sources/vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn.md) — 起朱楼宴宾客 crossover with 轻刀快马 on Japan's employment ice age, NISA, inflation, social trust, micro-happiness, hidden youth, algorithmic labeling, empathy boundaries, and young people's search for happiness after growth confidence weakens.
 - [vol.101.既安全、收益又高、流动性还好的投资到底存在吗？](sources/vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg.md) — 起朱楼宴宾客 episode on the return-safety-liquidity investment impossible triangle, Yu'e Bao, liquidity management, safety as volatility versus permanent loss, scarcity premiums, and portfolio-level asset allocation.
 - [186.让你笑到头掉仍不忘思考，伟大的《消逝世界漫游指南》](sources/186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210.md) — 蜜獾吃书 episode on Douglas Adams and Mark Carwardine's 《消逝世界漫游指南》, using British humor, travel absurdity, and field observation to examine endangered species, conservation failure, tourism spectacle, functional extinction, and the human role as both destroyer and repair agent.
@@ -402,6 +403,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Leonard Baum](entities/LeonardBaum.md) — Early Jim Simons collaborator in the Money Metrics period, used by vol.103 to show how thesis, timing, drawdown, and risk agreements can collide.
+- [James Ax](entities/JamesAx.md) — Mathematician who helped move Renaissance from mixed judgment toward systematic signal search and semi-automated trading infrastructure.
+- [Sandor Straus](entities/SandorStraus.md) — Data builder whose market-record collection and cleaning anchor vol.103's quantitative data moat.
+- [Elwyn Berlekamp](entities/ElwynBerlekamp.md) — Mathematician who pushed Medallion toward short-horizon repeated trading, cost modeling, and Kelly-style sizing.
+- [Henry Laufer](entities/HenryLaufer.md) — Renaissance figure associated with integrating many signals and markets into a single model.
+- [Peter Brown](entities/PeterBrown.md) — IBM speech-recognition researcher recruited into Renaissance for stock-market modeling.
+- [Robert Mercer](entities/RobertMercer.md) — IBM speech-recognition researcher paired with Peter Brown in Renaissance's stock-modeling expansion.
 - [傅宇 / Fu Yu](entities/FuYu.md) — 起朱楼宴宾客-side speaker in vol.102, connecting youth surveys, household balance-sheet repair, education pressure, and happiness after weakening personal-future confidence.
 - [大老师 / Dalaoshi](entities/Dalaoshi.md) — 轻刀快马-side speaker in vol.102, using Japan-based observations on NISA, company belonging, hidden youth, and everyday calm to compare happiness paths.
 - [轻刀快马 / Qingdao Kuaima](entities/QingdaoKuaima.md) — Podcast crossover partner for vol.102, represented through Japan-side examples and youth/social-trust discussion.
@@ -2506,6 +2514,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Quantitative Data Moat](concepts/QuantitativeDataMoat.md) — Quant-finance advantage from long, clean, proprietary, structured market data that can support weak-signal discovery without guaranteeing alpha.
+- [Short-Term Statistical Arbitrage](concepts/ShortTermStatisticalArbitrage.md) — Medallion-style repeated short-horizon trading where tiny edges depend on costs, market impact, sizing, and clean data.
+- [Human Risk Override](concepts/HumanRiskOverride.md) — Explicit human authority to reduce model-driven exposure when liquidity, leverage, or market-regime danger threatens survival.
+- [Alpha Decay](concepts/AlphaDecay.md) — Erosion of trading signals after discovery, crowding, copying, or regime change.
 - [NISA](concepts/NISA.md) — Japanese tax-advantaged investment-account frame used by vol.102 to discuss inflation, retirement pressure, market distrust, and the attention cost of household investing.
 - [Japanese Lost Decades](concepts/JapaneseLostDecades.md) — Post-bubble low-growth frame used by vol.102 to connect confidence loss, employment ice age memory, and post-growth happiness.
 - [Employment Ice Age Generation](concepts/EmploymentIceAgeGeneration.md) — Japanese cohort frame for weaker labor-market entry, lower asset accumulation, retirement pressure, and de-stigmatized stalled lives.

@@ -32,6 +32,7 @@ sources:
   - 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1
   - 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1
   - vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg
+  - vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl
 last_updated: 2026-07-15
 ---
 
@@ -46,6 +47,8 @@ Investment risk management is the practical bridge from market uncertainty to or
 [[e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc]] adds the multi-asset product version: risk management includes the client's maximum drawdown, path volatility, product comprehension, [[AssetCorrelation]], and whether tactical macro views stay inside a defined allocation sleeve.
 
 [[vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg]] adds the asset-attribute version: risk management starts by asking whether an asset's return, safety, and liquidity claims can all be true at once. It distinguishes price volatility from permanent-loss risk, treats excessive liquidity as a possible behavior problem through [[InvestmentLiquidityTradeoff]], and treats too-perfect return claims as a reason to check [[PonziScheme]] or [[AssetScarcityPremium]] before investing.
+
+[[vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl]] adds the professional-quant survival version: a model can be useful and still need [[HumanRiskOverride]] when liquidity, leverage, or market-state risk rises. The source contrasts [[MedallionFund]] survival with [[LongTermCapitalManagement]] failure to show that fear, de-risking, short exposure windows, and model discipline can belong inside the same [[QuantitativeInvesting]] system.
 
 [[e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf]] adds the value-investing version: the central risk is permanent capital loss, so quoted volatility and drawdown matter mainly through whether the investor has paid with [[MarginOfSafety]], sized the position correctly, and matched the strategy to holder behavior through [[FundLiabilityMatching]].
 
@@ -91,6 +94,8 @@ Investment risk management is the practical bridge from market uncertainty to or
 - Value investing needs [[MarginOfSafety]] because a low valuation, attractive dividend, or good story is not enough if pessimistic assumptions can still produce permanent loss.
 - Risk-parity and macro products need liquidity-crisis awareness because assets that diversify in normal periods can become correlated when investors are forced to reduce risk.
 - [[FundLiabilityMatching]] is part of risk management because a correct long-term thesis can fail for fund holders who redeem before the thesis has time to work.
+- [[HumanRiskOverride]] matters when model output has not yet captured liquidity, leverage, or regime stress; cutting exposure can preserve the repeated game.
+- [[ShortTermStatisticalArbitrage]] still needs risk controls because higher trade frequency can reduce thesis risk while increasing cost, leverage, and execution sensitivity.
 - [[DefensiveDividendAssets]] can be useful waiting positions, but dividends, banks, and income assets still require leverage and entry-price analysis.
 - [[AIBubbleHedging]] requires separating technology truth from stock price, then choosing hedges that fit the actual shock rather than assuming one safe haven always works.
 - [[RetailInvestorCrowding]] and [[ContrarianSentimentIndicators]] should inform sizing and patience rather than become simplistic market-timing rules.
@@ -170,3 +175,4 @@ Investment risk management is the practical bridge from market uncertainty to or
 - [[ZhuNing]], [[BubbleNecessaryConditions]], [[AIEquityValuationRisk]], [[PositionSizing]], and [[BehavioralInvestingBiases]] — 42章经 interview extension around consequence-first investing and bubble uncertainty.
 - [[ICEInvestor]], [[GoodCompanyGoodStock]], [[EarningsGrowthAcceleration]], [[InvestmentCatalyst]], [[AICompressedInvestmentResearchAdvantage]], [[PopMart]], and [[Pinduoduo]] — FengTouQuan episode 139's stock-picking suitability extension.
 - [[HousingExperienceInvestmentSplit]], [[HongKong]], [[Shenzhen]], and [[Guangzhou]] — FengTouQuan episode 137's housing-as-experience versus housing-as-investment extension.
+- [[HumanRiskOverride]], [[ShortTermStatisticalArbitrage]], [[QuantitativeDataMoat]], [[AlphaDecay]], [[RenaissanceTechnologies]], and [[MedallionFund]] — vol.103's professional-quant survival extension.

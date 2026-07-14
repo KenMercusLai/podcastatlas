@@ -3041,6 +3041,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-15] ingest | vol.103.文艺复兴科技西蒙斯的封神之路：是量化之王，更是洞察人性的大师
+
+Added source page for the 起朱楼宴宾客 episode on Jim Simons, Renaissance Technologies, Medallion Fund, Money Metrics, data collection, short-horizon quant trading, single-model integration, IBM speech-recognition hires, LTCM comparison, alpha decay, and human risk override. Created pages for Leonard Baum, James Ax, Sandor Straus, Elwyn Berlekamp, Henry Laufer, Peter Brown, Robert Mercer, Quantitative Data Moat, Short-Term Statistical Arbitrage, Human Risk Override, and Alpha Decay; updated overview, index, 起朱楼宴宾客, Jim Simons, Renaissance Technologies, Medallion Fund, Long-Term Capital Management, Quantitative Investing, Investment Risk Management, Market Efficiency, Financial Model Risk, and Kelly Criterion. No direct contradiction found; the source complements EP88 by replacing the fictional interview/practical-advice angle with a historical and organizational account of how Renaissance's machine depended on data, talent, execution, capacity limits, and human risk judgment.
+
 ## [2026-07-15] ingest | 186.让你笑到头掉仍不忘思考，伟大的《消逝世界漫游指南》
 
 Added source page for the 蜜獾吃书 episode on Douglas Adams and Mark Carwardine's 《消逝世界漫游指南》 / Last Chance to See, covering the aye-aye, Komodo dragon, mountain gorilla, northern white rhinoceros, baiji, kakapo, British humor, field travel, wildlife tourism spectacle, functional extinction, conservation publicity, and human responsibility as both destroyer and repair agent. Created pages for Last Chance to See, Douglas Adams, Mark Carwardine, Richard Dawkins, the six focal species, Madagascar, Komodo Island, the Democratic Republic of the Congo, New Zealand, Zhou Kaiya, Humorous Conservation Writing, Last-Chance Ecological Witnessing, Wildlife Tourism Spectacle, Functional Extinction, and Conservation Publicity Gap; updated overview, index, 蜜獾吃书, BBC, Yangtze River, Conservation Intervention, Island Extinction After Human Arrival, Invasive Species Management, Nature Writing, Anti-Anthropocentric Satire, and Empathy Circle Expansion. No direct contradiction found; the source extends the wiki's natural-history, animal-welfare, and literary-satire branches from companion/farm animals and field observation into endangered wildlife and conservation systems.
@@ -3192,6 +3196,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-15] ingest | vol.102.熬过就业冰河期的日本年轻人，去哪里寻找幸福感？
 
 Added source page for the 起朱楼宴宾客 crossover with 轻刀快马 on Japan's employment ice age generation, NISA, inflation, household balance-sheet repair, youth confidence, social trust, micro-happiness, hidden youth, algorithmic labeling, empathy boundaries, and happiness after growth expectations weaken. Created pages for 傅宇, 大老师, 轻刀快马, 《完美的日子》, 《0.5 的男人》, NISA, Japanese Lost Decades, Employment Ice Age Generation, Household Balance-Sheet Repair, Youth Happiness After Growth, Social Trust And Happiness, Micro-Happiness, Hikikomori Strategic Retreat, Artisanal Attention, Algorithmic Labeling, and Empathy Boundaries; updated overview, index, 起朱楼宴宾客, Japan, China, Macro Narrative Anxiety, Career Shore Myth, Graduation Anxiety, Achievement Pressure Mental Health, Empathy As Aesthetic Capacity, Attention Industrialization, Information Overload Knowledge Trap, and Rumination Vs Reflection. No direct contradiction found; the source complements the wiki's existing investment, education-pressure, and macro-anxiety branches by tying economic confidence and social trust to everyday sources of happiness.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-15] lint | Wiki health check
 
