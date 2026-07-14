@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-14] ingest | 43.西游记：咄！你是什么妖精！
+
+Added source page for the 蜜獾吃书 episode on 《西游记》 as an accretive Chinese classic shaped by television memory, authorship debates, religious imagery, folklore, and monster source histories. Created pages for 《西游记》, 吴承恩, 丘处机, 杨慎, 玄奘, 孙悟空, 猪八戒, 沙和尚, 哈努曼 / Hanuman, 无支祁, 迦楼罗 / 大鹏鸟 / Garuda, 《西游妖物志》, Accretive Text Formation, 索隐式阅读 / Suo Yin Reading, and Mythic Source Layering; updated overview, index, 蜜獾吃书, Classic Reading Complexity, Adaptation Original-Text Confusion, Interpretation And Overinterpretation, and Non-Instrumental Literary Reading. No direct contradiction found; the source explicitly treats many authorship and hidden-political readings as suggestive rather than settled.
+
 ## [2026-07-14] ingest | 42.安多：风起于青萍之末
 
 Added source page for the 蜜獾吃书 episode on 《安多》 / Andor, Star Wars, Rogue One, Tony Gilroy, Cassian Andor, the Galactic Empire, the Rebel Alliance, Mon Mothma, Luthen Rael, Saw Gerrera, Syril Karn, Kino Loy, Maarva Andor, Ferrix, Aldhani, and Narkina Five. Created pages for the main Andor/Star Wars entity cluster and concepts around false-choice governance, institutional overcompliance, manufactured prisoner dilemmas, carceral labor governance, ordinary people resistance, sacrificing others ethics, and anti-heroic resistance narrative; updated overview, index, 蜜獾吃书, and 北明 / 北民. No direct contradiction found; the source is stored as interpretive media criticism rather than standalone political theory.
@@ -2948,3 +2952,7 @@ Ran lint after health passed. Health found no empty/stub files, index drift, or 
 ## [2026-07-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-14] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 3,770 pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Existing graph data was stale (`graph/graph.json` built 2026-07-12 with 3,408 nodes vs 3,770 current wiki pages); graph-aware lint still reported no hub stubs, two fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified, so a targeted in-session semantic pass was performed. Report returned in-session; `wiki/lint-report.md` was not saved.

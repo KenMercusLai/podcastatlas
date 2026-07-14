@@ -203,6 +203,10 @@
     "title": "42章经",
     "url": "/wiki/entities/42zhangjing/"
   },
+  "43-xiyouji-duo-ni-shi-shenme-yaojing-618154182": {
+    "title": "43.西游记：咄！你是什么妖精！",
+    "url": "/wiki/sources/43-xiyouji-duo-ni-shi-shenme-yaojing-618154182/"
+  },
   "44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308": {
     "title": "44.运气的诱饵：赌博成瘾，因为我们害怕自由",
     "url": "/wiki/sources/44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308/"
@@ -898,6 +902,10 @@
   "AccountingRedFlags": {
     "title": "Accounting Red Flags",
     "url": "/wiki/concepts/accountingredflags/"
+  },
+  "AccretiveTextFormation": {
+    "title": "Accretive Text Formation",
+    "url": "/wiki/concepts/accretivetextformation/"
   },
   "AchievementPressureMentalHealth": {
     "title": "Achievement Pressure Mental Health",
@@ -5327,6 +5335,10 @@
     "title": "Garry Tan",
     "url": "/wiki/entities/garrytan/"
   },
+  "Garuda": {
+    "title": "迦楼罗 / 大鹏鸟 / Garuda",
+    "url": "/wiki/entities/garuda/"
+  },
   "GaryGensler": {
     "title": "Gary Gensler",
     "url": "/wiki/entities/garygensler/"
@@ -5794,6 +5806,10 @@
   "HantingHotel": {
     "title": "Hanting Hotel",
     "url": "/wiki/entities/hantinghotel/"
+  },
+  "Hanuman": {
+    "title": "哈努曼 / Hanuman",
+    "url": "/wiki/entities/hanuman/"
   },
   "HanziTransdialectalFunction": {
     "title": "Hanzi Transdialectal Function",
@@ -6914,6 +6930,10 @@
   "JoshSchaeffer": {
     "title": "Josh Schaeffer",
     "url": "/wiki/entities/joshschaeffer/"
+  },
+  "JourneyToTheWest": {
+    "title": "《西游记》",
+    "url": "/wiki/entities/journeytothewest/"
   },
   "Jove": {
     "title": "Jove",
@@ -8647,6 +8667,10 @@
     "title": "Mycontext",
     "url": "/wiki/entities/mycontext/"
   },
+  "MythicSourceLayering": {
+    "title": "Mythic Source Layering",
+    "url": "/wiki/concepts/mythicsourcelayering/"
+  },
   "NASA": {
     "title": "NASA",
     "url": "/wiki/entities/nasa/"
@@ -10079,6 +10103,10 @@
     "title": "汽水音乐 / Qishui Music",
     "url": "/wiki/entities/qishuimusic/"
   },
+  "QiuChuji": {
+    "title": "丘处机",
+    "url": "/wiki/entities/qiuchuji/"
+  },
   "QuToutiao": {
     "title": "QuToutiao",
     "url": "/wiki/entities/qutoutiao/"
@@ -11027,6 +11055,10 @@
     "title": "Seventh Generation",
     "url": "/wiki/entities/seventhgeneration/"
   },
+  "ShaWujing": {
+    "title": "沙和尚",
+    "url": "/wiki/entities/shawujing/"
+  },
   "Shahed136": {
     "title": "Shahed 136",
     "url": "/wiki/entities/shahed136/"
@@ -11819,6 +11851,10 @@
     "title": "Sun Chuanfang / 孙传芳",
     "url": "/wiki/entities/sunchuanfang/"
   },
+  "SunWukong": {
+    "title": "孙悟空",
+    "url": "/wiki/entities/sunwukong/"
+  },
   "SunZhonghuai": {
     "title": "孙忠怀 / Sun Zhonghuai",
     "url": "/wiki/entities/sunzhonghuai/"
@@ -11826,6 +11862,10 @@
   "Suning": {
     "title": "苏宁 / Suning",
     "url": "/wiki/entities/suning/"
+  },
+  "SuoYinReading": {
+    "title": "索隐式阅读 / Suo Yin Reading",
+    "url": "/wiki/concepts/suoyinreading/"
   },
   "SuperDry": {
     "title": "Super Dry",
@@ -13203,6 +13243,10 @@
     "title": "World Models",
     "url": "/wiki/concepts/worldmodels/"
   },
+  "WuChengen": {
+    "title": "吴承恩",
+    "url": "/wiki/entities/wuchengen/"
+  },
   "WuHai": {
     "title": "Wu Hai",
     "url": "/wiki/entities/wuhai/"
@@ -13238,6 +13282,10 @@
   "WurenZhixiao": {
     "title": "无人知晓",
     "url": "/wiki/entities/wurenzhixiao/"
+  },
+  "Wuzhiqi": {
+    "title": "无支祁",
+    "url": "/wiki/entities/wuzhiqi/"
   },
   "XAI": {
     "title": "xAI",
@@ -13367,6 +13415,10 @@
     "title": "Xiu Life / 秀生活",
     "url": "/wiki/entities/xiulife/"
   },
+  "XiyouYaowuzhi": {
+    "title": "《西游妖物志》",
+    "url": "/wiki/entities/xiyouyaowuzhi/"
+  },
   "Xtep": {
     "title": "Xtep",
     "url": "/wiki/entities/xtep/"
@@ -13394,6 +13446,10 @@
   "XuZhe": {
     "title": "Xu Zhe / 许哲",
     "url": "/wiki/entities/xuzhe/"
+  },
+  "Xuanzang": {
+    "title": "玄奘",
+    "url": "/wiki/entities/xuanzang/"
   },
   "XunweiShunde": {
     "title": "寻味顺德",
@@ -13434,6 +13490,10 @@
   "YangMeng": {
     "title": "Yang Meng / 杨萌",
     "url": "/wiki/entities/yangmeng/"
+  },
+  "YangShen": {
+    "title": "杨慎",
+    "url": "/wiki/entities/yangshen/"
   },
   "YangYuJiaozi": {
     "title": "杨宇 / 饺子 / Yang Yu",
@@ -13798,6 +13858,10 @@
   "ZhouMing": {
     "title": "周明",
     "url": "/wiki/entities/zhouming/"
+  },
+  "ZhuBajie": {
+    "title": "猪八戒",
+    "url": "/wiki/entities/zhubajie/"
   },
   "ZhuNing": {
     "title": "朱宁 / Zhu Ning",

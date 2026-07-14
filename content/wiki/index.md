@@ -52,6 +52,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [WWDC 26 补上了 AI，但离真正的 AI 助手还差什么？｜ S10E15](sources/wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d.md) — What's Next episode with Dong Hongguang of Guangfan Technology on Apple Intelligence, Siri, wearable AI assistants, always-on context, service entry, and permission boundaries.
 - [46.这世界唯一的你：请相信那朵慢慢绽放的花](sources/46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720.md) — 蜜獾吃书 episode on 《这世界唯一的你》 / Uniquely Human, autism as lived difference, behavior-as-communication, safe environments, family support, and cure-promise risk.
 - [44.运气的诱饵：赌博成瘾，因为我们害怕自由](sources/44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308.md) — 蜜獾吃书 episode on 《运气的诱饵》, machine gambling addiction, casino/slot design, near misses, intermittent reinforcement, freedom pressure, and addictive digital-product mechanics.
+- [43.西游记：咄！你是什么妖精！](sources/43-xiyouji-duo-ni-shi-shenme-yaojing-618154182.md) — 蜜獾吃书 episode rereading 《西游记》 through authorship debates, television memory, mythic character source layers, Buddhist/Daoist/folk imagery, and cautious 索隐 interpretation.
 - [日谈串台｜姐妹聊天会：重启人生也是我最妖娇](sources/ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425.md) — 蜜獾吃书 and 日谈 Women's Day crossover with Hookie, 殷姐, and 秦总 on 《重启人生》, career redirection, regret integration, pet grief, mother-daughter repair, learning capacity, and female self-possession.
 - [Bytes: Week in Review - Meta, YouTube's social media addiction case, a new AI literacy course, and Kalshi's prediction market self-regulation](sources/tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Stephanie Hughes and Maria Curi of Axios on social-media product liability, the Department of Labor's text-message AI literacy course, and Kalshi guardrails for political and sports-linked prediction markets.
 - [The tech transforming Baltimore's Francis Scott Key Bridge](sources/tech-20260326-0326-mp-tech-pod-128-tech-20260326-0326-mp-tech-pod-128.md) — Marketplace Tech episode with Stephanie Hughes and Jim Harkness on rebuilding Baltimore's Francis Scott Key Bridge with structural health monitoring, higher and longer cable-stayed design, heavier port-load capacity, and real-time or near-real-time maintenance data.
@@ -389,6 +390,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ferrix](entities/Ferrix.md) — Strong-tie community setting where episode 42 locates ordinary people resistance outside Cassian's direct leadership.
 - [Aldhani](entities/Aldhani.md) — Andor setting used by episode 42 to analyze imperial replacement of local pilgrimage through false-choice governance.
 - [Narkina Five](entities/NarkinaFive.md) — Prison-labor setting used by episode 42 to analyze carceral labor governance and manufactured competition.
+- [《西游记》](entities/JourneyToTheWest.md) — Chinese classic reread by episode 43 as an accretive text shaped by pilgrimage history, religious imagery, folklore, drama, authorship debates, and television memory.
+- [吴承恩](entities/WuChengen.md) — Conventional author attribution for 《西游记》, treated by episode 43 as one pole in a larger authorship and textual-history problem.
+- [丘处机](entities/QiuChuji.md) — Daoist attribution candidate for 《西游记》, used by episode 43 to show how religious traces can invite but not prove authorship claims.
+- [杨慎](entities/YangShen.md) — Speculative 《西游记》 attribution figure whose exile and Ming-political context make 索隐 readings attractive but uncertain.
+- [玄奘](entities/Xuanzang.md) — Historical pilgrimage figure behind the取经 tradition, used by episode 43 to separate travel history from later literary layering.
+- [孙悟空](entities/SunWukong.md) — Composite Journey to the West character read through Hanuman, Wuzhiqi, monkey-demon stories, Shi Pantuo, and Daoist vocabulary.
+- [猪八戒](entities/ZhuBajie.md) — Journey to the West companion reread by episode 43 as more than an accidental pig rebirth, with later and mixed religious-source layers.
+- [沙和尚](entities/ShaWujing.md) — Journey to the West companion linked by episode 43 to deep-sand deity traditions, nine skulls, karma, and ritual crossing.
+- [哈努曼 / Hanuman](entities/Hanuman.md) — Indian epic figure compared with Sun Wukong as one possible source layer rather than a sole origin.
+- [无支祁](entities/Wuzhiqi.md) — Huai River water-monster/deity figure used by episode 43 as a local Chinese source layer for Sun Wukong.
+- [迦楼罗 / 大鹏鸟 / Garuda](entities/Garuda.md) — Mythic bird figure used by episode 43 to explain the Lion Camel Ridge大鹏 and the power of divine patronage.
+- [《西游妖物志》](entities/XiyouYaowuzhi.md) — Secondary book recommended by episode 43 for tracing Journey to the West monsters and character source histories.
 - [Shi Jianqiao / 施剑翘](entities/ShiJianqiao.md) — Central actor in the 1935 revenge case, read through filial revenge, media staging, courtroom performance, pardon, and later patriotic self-rewriting.
 - [Sun Chuanfang / 孙传芳](entities/SunChuanfang.md) — Warlord killed by Shi Jianqiao, whose prior execution and humiliation of Shi Congbin shaped the case's public morality.
 - [Shi Congbin / 施从斌](entities/ShiCongbin.md) — Shi Jianqiao's father, whose execution and head-display became the emotional basis of the revenge claim.
@@ -2347,6 +2360,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adult Fairy-Tale Reading](concepts/AdultFairyTaleReading.md) — Rereading fairy tales as all-ages literature carrying social humiliation, loneliness, death, love, satire, and spiritual aspiration.
 - [Fairy-Tale Death And Spirituality](concepts/FairyTaleDeathAndSpirituality.md) — Frame for children's literature confronting mortality, sacrifice, goodness, and transcendence without condescending to children.
 - [Adaptation Original-Text Confusion](concepts/AdaptationOriginalTextConfusion.md) — Pattern where a famous adaptation overwrites public memory of the literary original's design, plot, or moral structure.
+- [Accretive Text Formation](concepts/AccretiveTextFormation.md) — Textual-history pattern where a classic forms through layered sources, variants, religious imagery, authorship claims, and later organization.
+- [索隐式阅读 / Suo Yin Reading](concepts/SuoYinReading.md) — Interpretive mode that treats literary details as hidden historical or political ciphers while requiring evidence discipline.
+- [Mythic Source Layering](concepts/MythicSourceLayering.md) — Character-formation pattern where religious, folkloric, regional, and textual motifs accumulate inside one literary figure.
 - [Semiotic Detective Fiction](concepts/SemioticDetectiveFiction.md) — Mystery form where clues are signs whose meaning, reliability, and overinterpretation become part of the story's argument.
 - [Interpretation And Overinterpretation](concepts/InterpretationAndOverinterpretation.md) — Boundary problem between reading signs carefully and forcing signs to say more than evidence supports.
 - [Knowledge Monopoly](concepts/KnowledgeMonopoly.md) — Institutional control over who may access, classify, read, copy, or interpret knowledge.

@@ -2,7 +2,7 @@
 title: "Classic Reading Complexity"
 type: concept
 tags: [literature, classics, reading, judgment]
-sources: [40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
+sources: [40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
 last_updated: 2026-07-14
 ---
 
@@ -26,6 +26,8 @@ The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryR
 
 [[58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859]] adds a school-canon version through [[RulinWaishi|《儒林外史》]]. A reader may remember only [[FanJin|范进]] passing the exam as a funny textbook excerpt, but the episode asks for a fuller reading of [[WuJingzi|吴敬梓]]'s [[SatiricalGroupPortrait]], [[WanErDuoFeng|婉而多讽]], and critique of [[ImperialExaminationAsOnlyExit]]. The classic therefore cannot be reduced to "批判科举"; it also contains structural narration, mixed character judgment, and alternative models of dignity.
 
+[[43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]] adds [[JourneyToTheWest|《西游记》]] as a childhood-television-memory version of the same discipline. The episode argues that knowing the plot or TV images does not mean reading the novel: authorship uncertainty, [[AccretiveTextFormation]], [[MythicSourceLayering]], and [[SuoYinReading]] all show how a familiar classic can hide source history, religious iconography, folklore, jokes, and speculative political allusion.
+
 [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]] adds an author-biography version. The source does not read one classic closely; instead, it shows why reading old or famous works also requires discipline around author image. [[LiteraryGossipAsContext]] can enrich historical feel, while [[AuthorMythDeflation]] keeps writers from becoming saintly monuments or single-scandal caricatures.
 
 [[64-bawangbieji-fengmo-yu-chenghuo-656094350]] adds a modern-film classic version through [[FarewellMyConcubine|《霸王别姬》]]. The episode resists reducing the film to one political allegory, one love triangle, or one slogan about art; it keeps troupe violence, gender performance, opera form, occupation, courtroom speech, public betrayal, and adaptation ending choices in view together.
@@ -42,6 +44,7 @@ The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryR
 - A modern canonical film can require the same complexity discipline as a literary classic: plot, performance, politics, adaptation, and biography should not collapse into one portable interpretation.
 - Moving from stories to abstract classics or political theory requires keeping concrete human experience visible.
 - A short speculative classic can carry mathematics, social satire, theology, and publishing history at once; treating it as only a clever dimension lesson loses the work's pressure.
+- A culturally familiar classic can require returning from adaptation memory to source layers: authorship, folklore, religious imagery, earlier variants, and uncertain political allusion may all be part of the reading problem.
 
 ## Connections
 - [[ReadingAsLifeExperience]] - reader state affects when classics become available or unbearable.
@@ -54,6 +57,7 @@ The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryR
 - [[HansChristianAndersen|安徒生]], [[TheLittleMermaid|《海的女儿》]], [[AdultFairyTaleReading]], and [[AdaptationOriginalTextConfusion]] - episode 55's extension into fairy tales, translation, and adaptation memory.
 - [[TheNameOfTheRose|《玫瑰的名字》]], [[UmbertoEco|翁贝托·艾柯]], [[SemioticDetectiveFiction]], and [[InterpretationAndOverinterpretation]] - episode 53's extension into semiotic and theological mystery.
 - [[RulinWaishi|《儒林外史》]], [[WanErDuoFeng|婉而多讽]], and [[SatiricalGroupPortrait]] - episode 58's extension into classical Chinese satire and examination society.
+- [[JourneyToTheWest|《西游记》]], [[AccretiveTextFormation]], [[MythicSourceLayering]], and [[SuoYinReading]] - episode 43's extension into Chinese-classic textual formation, monster source histories, and cautious hidden-code interpretation.
 - [[LiteraryGossipAsContext]], [[AuthorMythDeflation]], and [[OccultPseudoscienceLiteraryModernity]] - episode 60's extension into author lives, reputation, and period belief systems.
 - [[FarewellMyConcubine|《霸王别姬》]], [[RoleLifeCollapse]], [[CoercedDenunciation]], and [[AdaptationEndingEthics]] - episode 64's extension into modern film classic interpretation.
 - [[StoryBasedEmpathy]], [[FrancisFukuyama|Francis Fukuyama / 福山]], and [[IdentityPoliticsBook|《身份政治》]] - holiday episode bridge from story-centered reading toward abstract political-theory topics.

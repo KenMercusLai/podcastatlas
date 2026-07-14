@@ -2,7 +2,7 @@
 title: "Non-Instrumental Literary Reading"
 type: concept
 tags: [reading, literature, fiction, attention]
-sources: [40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
+sources: [40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
 last_updated: 2026-07-14
 ---
 
@@ -34,6 +34,8 @@ This concept specializes [[NonInstrumentalUnderstanding]] for literature. It als
 
 [[58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859]] adds a classical-satire version through [[RulinWaishi|《儒林外史》]]. The value of reading the full work is not only to collect the lesson that 科举 was bad; it is to inhabit a whole [[SatiricalGroupPortrait]] where failed scholars, petty gentry, ideal figures, women, artists, and city eccentrics reveal how a status system feels from inside.
 
+[[43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]] adds a mythic-classic version through [[JourneyToTheWest|《西游记》]]. The episode's value is not a new plot summary; it is the experience of seeing a familiar adventure become strange again through [[AccretiveTextFormation]], [[MythicSourceLayering]], television-memory distance, and the disciplined uncertainty of [[SuoYinReading]].
+
 [[tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655]] adds a contemporary nonfiction version. [[FuyouZhishang|《蜉蝣直上》]] is valuable in the episode not as celebrity trivia about [[Xiaojia|小佳]], but as an encounter with family ambiguity, Minnan custom, ordinary women, grief, and the pressure of being seen.
 
 [[160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]] adds an education-resistance version through [[Matilda|《马蒂尔达》]] and [[ExcellentSheep|《优秀的绵羊》 / Excellent Sheep]]. Literature matters here because it can restore feeling, make unfair authority visible, and resist [[RedPenLogic]] rather than only serving as material for grades, resumes, or information extraction.
@@ -57,6 +59,7 @@ This concept specializes [[NonInstrumentalUnderstanding]] for literature. It als
 - A film or opera-centered work can be non-instrumental when repeated viewing reveals performance pressure, bodily memory, and moral ambiguity rather than delivering a transferable lesson.
 - Literature can justify a show format because its value is often the slow expansion of empathy rather than a concise takeaway.
 - A science-fiction classic can be non-instrumental when its dimensional thought experiment changes how sight, authority, and social order feel before it offers any lesson.
+- A mythic classic can be non-instrumental when rereading makes familiar characters feel historically, religiously, and folklorically layered rather than merely useful as plot memories.
 
 ## Connections
 - [[NonInstrumentalUnderstanding]] - broader concept for knowledge that is not immediately utility-driven.
@@ -72,6 +75,7 @@ This concept specializes [[NonInstrumentalUnderstanding]] for literature. It als
 - [[TheNameOfTheRose|《玫瑰的名字》]], [[SemioticDetectiveFiction]], [[InterpretationAndOverinterpretation]], and [[KnowledgeMonopoly]] - episode 53's extension into difficult mystery and interpretive uncertainty.
 - [[PuzzleSnackMystery|推理薯片]], [[WatsonPower|华生力]], and [[ClosedCircleMystery|暴风雪山庄]] - episode 158's extension into light puzzle-entertainment reading.
 - [[RulinWaishi|《儒林外史》]], [[ImperialExaminationAsOnlyExit]], and [[SatiricalGroupPortrait]] - episode 58's extension into classical satire as lived institutional perception.
+- [[JourneyToTheWest|《西游记》]], [[AccretiveTextFormation]], [[MythicSourceLayering]], and [[SuoYinReading]] - episode 43's extension into mythic-classic rereading.
 - [[FuyouZhishang|《蜉蝣直上》]], [[MinnanFamilyWriting]], and [[StandUpAsSelfNarration]] - 小佳 episode extension from performer identity into prose encounter.
 - [[Matilda|《马蒂尔达》]], [[AntiAuthoritarianEducation]], and [[RedPenLogic]] - episode 160's extension into literature as resistance to score-centered education.
 - [[CanticleForLeibowitz|《莱博维茨的赞歌》 / A Canticle for Leibowitz]], [[ApocalypticLiterarySymbolism]], and [[PainAndMoralResponsibility]] - episode 03's extension into religious science fiction and civilizational moral inquiry.
