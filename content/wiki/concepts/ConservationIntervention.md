@@ -2,7 +2,7 @@
 title: "Conservation Intervention"
 type: concept
 tags: [conservation, ecology, wildlife]
-sources: [ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924]
+sources: [ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]
 last_updated: 2026-07-12
 ---
 
@@ -14,6 +14,8 @@ The concept carries a built-in tension. The episode contrasts the worry that hum
 
 [[47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924]] adds an island-management version through [[RedHeadedWoodPigeon|红头黑铃鸽]], [[JapaneseBushWarbler|日本树莺]], and [[OgasawaraIslands|小笠原群岛]] cases. It shows that intervention can mean feral-cat capture and adoption, goat and rat removal, strict protected-island biosecurity, or monitoring gene-flow risk after a population returns.
 
+[[59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]] adds a visitor-facing version through [[Crete]] sea-turtle signs, harbor observation, and donation-ready conservation organizations. The episode keeps the intervention small but meaningful: a tourist's beach experience becomes a reminder that visible protection signs exist because human recreation and animal nesting share the same shoreline.
+
 ## Key Claims
 - Active protection can be justified when human disturbance or species decline has already changed the baseline.
 - Good intervention begins with learning what the species needs rather than projecting human ideas of scenery or convenience.
@@ -22,6 +24,7 @@ The concept carries a built-in tension. The episode contrasts the worry that hum
 - The risk of unintended consequences argues for humility and feedback, not for automatic inaction.
 - Social acceptance can determine which intervention path is viable, especially when charismatic invasive animals are involved.
 - Removing one pressure may expose another, so intervention must track recovery after the first repair.
+- Visitor-facing signs and donation routes can turn tourism into low-friction awareness when nesting or feeding habitat overlaps with leisure space.
 
 ## Connections
 - [[ChineseCrestedTern]] - source species case.
@@ -30,3 +33,4 @@ The concept carries a built-in tension. The episode contrasts the worry that hum
 - [[UrbanEcology]] - habitat management also applies to city and wetland spaces.
 - [[HumanJudgmentUnderAI]] - adjacent broader frame: action still needs accountable judgment under uncertainty.
 - [[InvasiveSpeciesManagement]], [[RedHeadedWoodPigeon|红头黑铃鸽]], and [[JapaneseBushWarbler|日本树莺]] - island cases added by the bird-science episode.
+- [[Crete]] and [[IslandExtinctionAfterHumanArrival]] - travel-facing and historical island-ecology extension from episode 59.

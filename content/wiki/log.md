@@ -2855,3 +2855,11 @@ Added source page for the short 蜜獾吃书 update notice announcing a release-
 ## [2026-07-14] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint scanned 3,596 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-12 with 3,408 nodes and 34,723 edges; they found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified. No `wiki/lint-report.md` file was saved.
+
+## [2026-07-14] ingest | 59.克里特岛：阳光、海龟、神话和二战战场
+
+Added source page for the 蜜獾吃书 episode on Crete as a travel, mythology, archaeology, World War II, and island-ecology case. Created pages for Crete, Minoan Civilization, Knossos Palace, Battle of Crete, Greek Mythology, and Island Extinction After Human Arrival; updated overview, index, 蜜獾吃书, Conservation Intervention, Island Ecological Succession, and Observation Before Inference. No direct contradiction found; the source extends the show's natural-history and evidence-discipline branches by showing how travel narration can distinguish myth, archaeology, war memory, living conservation, and extinction history.
+
+## [2026-07-14] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint scanned 3,603 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-12 with 3,408 nodes and 34,723 edges while the wiki scan found 3,603 pages; they found no hub stubs, two fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified. No `wiki/lint-report.md` file was saved.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [59.克里特岛：阳光、海龟、神话和二战战场](sources/59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469.md) — 蜜獾吃书 episode using Crete to connect Greek mythology, Minoan archaeology, Knossos, the Battle of Crete, sea-turtle conservation, and island extinction after human arrival.
 - [更新时间变动通知](sources/gengxin-shijian-biandong-tongzhi-644387724.md) — 蜜獾吃书 short notice announcing a move from Wednesday morning releases to Saturday 10 p.m., framed as schedule positioning, production slack, and listener-interaction housekeeping.
 - [57.说解汉字：屎尿屁为啥是“尸”字头？](sources/57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319.md) — 蜜獾吃书 episode on Chinese-character origins, oracle-bone evidence, folk拆字 risks, 《说文解字》 limits, and why "尸" in 屎尿屁 points to body posture rather than corpses.
 - [56.伴生：世界破破烂烂，小动物缝缝补补](sources/56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301.md) — 蜜獾吃书 episode on 《伴生》, Aysha Akhtar, companion animals, trauma recovery, disaster evacuation, domestic violence, animal-assisted therapy, animal cruelty, empathy, and animal welfare as public health.
@@ -359,6 +360,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Crete](entities/Crete.md) — Mediterranean island used by episode 59 as a layered setting for mythology, Minoan archaeology, World War II memory, sea-turtle observation, and island extinction.
+- [Minoan Civilization](entities/MinoanCivilization.md) — Bronze Age Cretan civilization discussed through Knossos, bull imagery, palace systems, art, Linear A, and cautious archaeological interpretation.
+- [Knossos Palace](entities/KnossosPalace.md) — Major Minoan site near Heraklion whose palace layout, infrastructure, frescoes, and museum context anchor the episode's archaeology layer.
+- [Battle of Crete](entities/BattleOfCrete.md) — World War II campaign framed through airborne invasion, intelligence limits, occupation, local resistance, tunnels, and Allied evacuation memory.
 - [《说解汉字150讲》](entities/ShuojieHanzi150Jiang.md) — Li Shoukui book used by 蜜獾吃书 as an accessible guide to evidence-bound Chinese-character form history.
 - [《甲骨文的故事》](entities/JiaguwenDeGushi.md) — Oracle-bone-script book used by episode 57 to ground character explanations in early written evidence.
 - [李守奎](entities/LiShoukui.md) — Scholar named as the author of 《说解汉字150讲》, the episode's main modern reference for Chinese-character interpretation.
@@ -2174,6 +2179,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Greek Mythology](concepts/GreekMythology.md) — Mythic frame for Crete stories around Zeus, Europa, Minos, the Minotaur, Daedalus, Icarus, Theseus, Ariadne, and recurring story variants.
+- [Island Extinction After Human Arrival](concepts/IslandExtinctionAfterHumanArrival.md) — Island-ecology pattern where human arrival, hunting, habitat change, or introduced pressures can eliminate island-adapted animals.
 - [Chinese Character Evidence Discipline](concepts/ChineseCharacterEvidenceDiscipline.md) — Practice of explaining Chinese characters through attested historical forms and scholarly uncertainty rather than modern visual association alone.
 - [Character Form Evolution](concepts/CharacterFormEvolution.md) — Pattern where Chinese characters change across oracle-bone, bronze, seal, clerical, traditional, simplified, and modern forms.
 - [Folk Character Etymology Risk](concepts/FolkCharacterEtymologyRisk.md) — Error pattern where memorable modern拆字 stories are mistaken for historical character evidence.

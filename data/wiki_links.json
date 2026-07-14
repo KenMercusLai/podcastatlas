@@ -243,6 +243,10 @@
     "title": "58.儒林外史：假如考公成了唯一出路",
     "url": "/wiki/sources/58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859/"
   },
+  "59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469": {
+    "title": "59.克里特岛：阳光、海龟、神话和二战战场",
+    "url": "/wiki/sources/59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469/"
+  },
   "8848": {
     "title": "8848",
     "url": "/wiki/entities/8848/"
@@ -1827,6 +1831,10 @@
     "title": "Battery Recycling Loop",
     "url": "/wiki/concepts/batteryrecyclingloop/"
   },
+  "BattleOfCrete": {
+    "title": "Battle of Crete",
+    "url": "/wiki/entities/battleofcrete/"
+  },
   "BayoAkomolafe": {
     "title": "Bayo Akomolafe",
     "url": "/wiki/entities/bayoakomolafe/"
@@ -3118,6 +3126,10 @@
   "Cresta": {
     "title": "Cresta",
     "url": "/wiki/entities/cresta/"
+  },
+  "Crete": {
+    "title": "Crete",
+    "url": "/wiki/entities/crete/"
   },
   "Crimea": {
     "title": "Crimea",
@@ -5303,6 +5315,10 @@
     "title": "Great Harvest Bread",
     "url": "/wiki/entities/greatharvestbread/"
   },
+  "GreekMythology": {
+    "title": "Greek Mythology",
+    "url": "/wiki/concepts/greekmythology/"
+  },
   "GreenBook": {
     "title": "The Green Book",
     "url": "/wiki/entities/greenbook/"
@@ -6211,6 +6227,10 @@
     "title": "Island Ecological Succession",
     "url": "/wiki/concepts/islandecologicalsuccession/"
   },
+  "IslandExtinctionAfterHumanArrival": {
+    "title": "Island Extinction After Human Arrival",
+    "url": "/wiki/concepts/islandextinctionafterhumanarrival/"
+  },
   "Israel": {
     "title": "Israel",
     "url": "/wiki/entities/israel/"
@@ -6778,6 +6798,10 @@
   "KleinerPerkins": {
     "title": "Kleiner Perkins",
     "url": "/wiki/entities/kleinerperkins/"
+  },
+  "KnossosPalace": {
+    "title": "Knossos Palace",
+    "url": "/wiki/entities/knossospalace/"
   },
   "KnowingEnough": {
     "title": "Knowing Enough",
@@ -7994,6 +8018,10 @@
   "MinnanMaritimeCommercialCulture": {
     "title": "Minnan Maritime Commercial Culture",
     "url": "/wiki/concepts/minnanmaritimecommercialculture/"
+  },
+  "MinoanCivilization": {
+    "title": "Minoan Civilization",
+    "url": "/wiki/entities/minoancivilization/"
   },
   "Missfresh": {
     "title": "每日优鲜 / Missfresh",
