@@ -2,11 +2,13 @@
 title: "北明 / 北民"
 type: entity
 tags: [host, podcast, books]
-sources: [181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 42-anduo-fengqi-yu-qingping-zhi-mo-616391638, jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]
+sources: [185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 42-anduo-fengqi-yu-qingping-zhi-mo-616391638, jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]
 last_updated: 2026-07-15
 ---
 
 # 北明 / 北民
+
+[[185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]] adds 北明's translator and public-skepticism role around [[TheDemonHauntedWorld|《魔鬼出没的世界》]]. He helps move the episode from childhood UFO and pseudoscience memory into [[ScientificSkepticism]], [[ScientificSelfCorrection]], [[EvidenceOverTestimony]], [[AlienAbductionNarrative]], [[CropCircleDebunking]], and [[AIInformationPollution]], while preserving Sagan's refusal to confuse skepticism with contempt.
 
 [[178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368]] adds 北明/北冥's comparative-history role. He contributes examples around [[Himiko]], Japanese visiting marriage, [[MinoanCivilization]], and historical contingency, helping the episode keep [[MatriarchyQuestion]] open while preserving caution about evidence and exploitation.
 
@@ -39,3 +41,4 @@ In episode 60, his role is part of the show's literary-biographical mode. The co
 - [[82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589]] - second great-writer gossip installment.
 - [[EmpathyAsAestheticCapacity]] and [[MidlifeAsGift]] - episode 63's empathy and age-reflection branch.
 - [[WeakTieOpportunity]] and [[LuckAsInformationBandwidth]] - episode 172's luck and connection-chain frame.
+- [[ScientificSkepticism]], [[TheDemonHauntedWorld|《魔鬼出没的世界》]], and [[UFOConspiracyCulture]] - episode 185's Sagan, UFO, and pseudoscience branch.

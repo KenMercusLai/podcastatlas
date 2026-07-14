@@ -2,8 +2,8 @@
 title: "Conspiracy Theory Pattern Seeking"
 type: concept
 tags: [reasoning, interpretation, media-literacy, psychology]
-sources: [54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699]
-last_updated: 2026-07-14
+sources: [185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699]
+last_updated: 2026-07-15
 ---
 
 # Conspiracy Theory Pattern Seeking
@@ -12,15 +12,19 @@ Conspiracy theory pattern seeking is the habit of preferring hidden, complex, to
 
 The episode argues that [[WilliamOfBaskerville|巴斯克维尔的威廉 / William of Baskerville]], the reader, and the abbey community are all tempted by the [[BookOfRevelation|Revelation]] sequence because it makes scattered deaths feel like a secret order. The same temptation appears in conspiracy thinking: the interpreter gains a feeling of superiority by seeing a pattern that others supposedly miss.
 
+[[185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]] moves the concept from Eco's literary trap into UFO and pseudoscience media. [[RoswellIncident]], [[Area51]], blacked-out documents, [[Majestic12Documents]], [[CropCircleDebunking]], and [[TheXFiles]] show how secrecy, fragments, and narrative pleasure can turn missing information into false confirmation.
+
 ## Key Claims
 - Pattern-seeking becomes dangerous when coherence is treated as stronger evidence than facts, chronology, and alternatives.
 - Hidden-order explanations can be emotionally rewarding because they make confusion feel mastered.
 - Complexity can be a lure: a more elaborate account is not automatically a truer account.
 - [[RationalHumility]] means being willing to abandon a beautiful pattern when the causal chain does not support it.
+- In the UFO/pseudoscience branch, redaction, government secrecy, expert disagreement, or debunking can be reabsorbed as proof of a deeper cover-up unless [[ScientificSkepticism]] resets the burden of evidence.
 
 ## Connections
 - [[InterpretationAndOverinterpretation]] - broader boundary problem between reading and overreading.
 - [[AntiDetectiveFiction]] - genre structure that makes the reader experience the lure of false pattern.
 - [[ObservationBeforeInference]] - methodological guardrail against attractive post hoc stories.
+- [[UFOConspiracyCulture]], [[AppealToIgnorance]], [[OccamsRazor]], and [[GarageDragonTest]] - episode 185's method and media extension.
 - [[BookOfRevelation|《启示录》 / Book of Revelation]] and [[ApocalypticLiterarySymbolism]] - symbolic material that becomes overread in the source.
 - [[TheNameOfTheRose|《玫瑰的名字》 / The Name of the Rose]] - literary case.

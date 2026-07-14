@@ -207,6 +207,10 @@
     "title": "184.真实于我有万钧之重：欢迎侠女阿娇",
     "url": "/wiki/sources/184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010/"
   },
+  "185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368": {
+    "title": "185.魔鬼出没的世界：关于阴谋论、UFO与科学精神",
+    "url": "/wiki/sources/185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368/"
+  },
   "1A": {
     "title": "1A",
     "url": "/wiki/entities/1a/"
@@ -666,6 +670,10 @@
   "AIInferenceCostStructure": {
     "title": "AI Inference Cost Structure",
     "url": "/wiki/concepts/aiinferencecoststructure/"
+  },
+  "AIInformationPollution": {
+    "title": "AI Information Pollution",
+    "url": "/wiki/concepts/aiinformationpollution/"
   },
   "AIInfrastructureDebtFinancing": {
     "title": "AI Infrastructure Debt Financing",
@@ -1347,6 +1355,10 @@
     "title": "Alice / 爱丽丝",
     "url": "/wiki/entities/alicewonderlandcharacter/"
   },
+  "AlienAbductionNarrative": {
+    "title": "Alien Abduction Narrative",
+    "url": "/wiki/concepts/alienabductionnarrative/"
+  },
   "AlienatedMaleViolence": {
     "title": "Alienated Male Violence",
     "url": "/wiki/concepts/alienatedmaleviolence/"
@@ -1659,6 +1671,10 @@
     "title": "App Store Ratings And Reviews",
     "url": "/wiki/concepts/appstoreratingsandreviews/"
   },
+  "AppealToIgnorance": {
+    "title": "Appeal To Ignorance",
+    "url": "/wiki/concepts/appealtoignorance/"
+  },
   "Apple": {
     "title": "Apple",
     "url": "/wiki/entities/apple/"
@@ -1706,6 +1722,10 @@
   "ArcLanguage": {
     "title": "Arc",
     "url": "/wiki/entities/arclanguage/"
+  },
+  "Area51": {
+    "title": "Area 51 / 51区",
+    "url": "/wiki/entities/area51/"
   },
   "AriRedbord": {
     "title": "Ari Redbord",
@@ -2586,6 +2606,10 @@
   "CSLewis": {
     "title": "C. S. Lewis / C.S. 刘易斯",
     "url": "/wiki/entities/cslewis/"
+  },
+  "CTA102": {
+    "title": "CTA-102",
+    "url": "/wiki/entities/cta102/"
   },
   "CVCCapitalPartners": {
     "title": "CVC Capital Partners",
@@ -3643,6 +3667,10 @@
     "title": "Critical Minerals Geopolitics",
     "url": "/wiki/concepts/criticalmineralsgeopolitics/"
   },
+  "CropCircleDebunking": {
+    "title": "Crop Circle Debunking",
+    "url": "/wiki/concepts/cropcircledebunking/"
+  },
   "CrossBorderBrokerageRegulation": {
     "title": "Cross-Border Brokerage Regulation",
     "url": "/wiki/concepts/crossborderbrokerageregulation/"
@@ -4335,6 +4363,10 @@
     "title": "Donald Trump",
     "url": "/wiki/entities/donaldtrump/"
   },
+  "DonationOfConstantine": {
+    "title": "Donation of Constantine / 君士坦丁献土",
+    "url": "/wiki/entities/donationofconstantine/"
+  },
   "DongHongguang": {
     "title": "Dong Hongguang / 董宏光",
     "url": "/wiki/entities/donghongguang/"
@@ -4882,6 +4914,10 @@
   "EverythingAgent": {
     "title": "Everything Agent",
     "url": "/wiki/concepts/everythingagent/"
+  },
+  "EvidenceOverTestimony": {
+    "title": "Evidence Over Testimony",
+    "url": "/wiki/concepts/evidenceovertestimony/"
   },
   "EvilAsResponsibilityFailure": {
     "title": "Evil As Responsibility Failure",
@@ -5790,6 +5826,10 @@
   "Gaoyou": {
     "title": "Gaoyou / 高邮",
     "url": "/wiki/entities/gaoyou/"
+  },
+  "GarageDragonTest": {
+    "title": "Garage Dragon Test",
+    "url": "/wiki/concepts/garagedragontest/"
   },
   "GarfieldAI": {
     "title": "Garfield AI",
@@ -8663,6 +8703,10 @@
     "title": "Maiquer Group / 麦趣尔",
     "url": "/wiki/entities/maiquergroup/"
   },
+  "Majestic12Documents": {
+    "title": "Majestic 12 Documents / MJ-12文件",
+    "url": "/wiki/entities/majestic12documents/"
+  },
   "MakeMyTrip": {
     "title": "MakeMyTrip",
     "url": "/wiki/entities/makemytrip/"
@@ -9038,6 +9082,10 @@
   "MemoryChipShortage": {
     "title": "Memory Chip Shortage",
     "url": "/wiki/concepts/memorychipshortage/"
+  },
+  "MemoryContaminationRisk": {
+    "title": "Memory Contamination Risk",
+    "url": "/wiki/concepts/memorycontaminationrisk/"
   },
   "MemoryWall": {
     "title": "Memory Wall",
@@ -9846,6 +9894,10 @@
   "ObservationBeforeInference": {
     "title": "Observation Before Inference",
     "url": "/wiki/concepts/observationbeforeinference/"
+  },
+  "OccamsRazor": {
+    "title": "Occam's Razor",
+    "url": "/wiki/concepts/occamsrazor/"
   },
   "OccultPseudoscienceLiteraryModernity": {
     "title": "Occult And Pseudoscience In Literary Modernity",
@@ -10951,6 +11003,10 @@
     "title": "Proxy Conflict Spoiler Risk",
     "url": "/wiki/concepts/proxyconflictspoilerrisk/"
   },
+  "PseudoscienceFraudVulnerability": {
+    "title": "Pseudoscience Fraud Vulnerability",
+    "url": "/wiki/concepts/pseudosciencefraudvulnerability/"
+  },
   "PuShougeng": {
     "title": "Pu Shougeng / 蒲寿庚",
     "url": "/wiki/entities/pushougeng/"
@@ -11643,6 +11699,10 @@
     "title": "Rosie Bloor",
     "url": "/wiki/entities/rosiebloor/"
   },
+  "RoswellIncident": {
+    "title": "Roswell Incident / 罗斯维尔事件",
+    "url": "/wiki/entities/roswellincident/"
+  },
   "Route66": {
     "title": "Route 66",
     "url": "/wiki/entities/route66/"
@@ -11875,6 +11935,10 @@
     "title": "Scaling Broken Product",
     "url": "/wiki/concepts/scalingbrokenproduct/"
   },
+  "ScienceCommunicationDisadvantage": {
+    "title": "Science Communication Disadvantage",
+    "url": "/wiki/concepts/sciencecommunicationdisadvantage/"
+  },
   "ScienceFictionRealism": {
     "title": "Science Fiction Realism",
     "url": "/wiki/concepts/sciencefictionrealism/"
@@ -11890,6 +11954,14 @@
   "ScientificSamplingDiscipline": {
     "title": "Scientific Sampling Discipline",
     "url": "/wiki/concepts/scientificsamplingdiscipline/"
+  },
+  "ScientificSelfCorrection": {
+    "title": "Scientific Self-Correction",
+    "url": "/wiki/concepts/scientificselfcorrection/"
+  },
+  "ScientificSkepticism": {
+    "title": "Scientific Skepticism",
+    "url": "/wiki/concepts/scientificskepticism/"
   },
   "ScotlandYard": {
     "title": "Scotland Yard",
@@ -12787,6 +12859,10 @@
     "title": "Steven Pinker",
     "url": "/wiki/entities/stevenpinker/"
   },
+  "StevenSpielberg": {
+    "title": "Steven Spielberg / 斯皮尔伯格",
+    "url": "/wiki/entities/stevenspielberg/"
+  },
   "StewardOwnership": {
     "title": "Steward Ownership",
     "url": "/wiki/concepts/stewardownership/"
@@ -13331,6 +13407,10 @@
     "title": "The Walt Disney Company",
     "url": "/wiki/entities/thewaltdisneycompany/"
   },
+  "TheXFiles": {
+    "title": "The X-Files / X档案",
+    "url": "/wiki/entities/thexfiles/"
+  },
   "ThemeParkAsMediaPlatform": {
     "title": "Theme Park As Media Platform",
     "url": "/wiki/concepts/themeparkasmediaplatform/"
@@ -13623,6 +13703,10 @@
     "title": "Tristan",
     "url": "/wiki/entities/tristan/"
   },
+  "TrofimLysenko": {
+    "title": "Trofim Lysenko / 李森科",
+    "url": "/wiki/entities/trofimlysenko/"
+  },
   "TroupeDisciplineAsIdentityFormation": {
     "title": "Troupe Discipline As Identity Formation",
     "url": "/wiki/concepts/troupedisciplineasidentityformation/"
@@ -13726,6 +13810,10 @@
   "UEFA": {
     "title": "UEFA",
     "url": "/wiki/entities/uefa/"
+  },
+  "UFOConspiracyCulture": {
+    "title": "UFO Conspiracy Culture",
+    "url": "/wiki/concepts/ufoconspiracyculture/"
   },
   "UGCToProfessionalCreatorPipeline": {
     "title": "UGC To Professional Creator Pipeline",

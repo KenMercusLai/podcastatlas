@@ -3085,6 +3085,10 @@ Ran lint. See lint-report.md for details.
 
 Added source page for the 蜜獾吃书 episode with 钱静 on 《我有自己的宇宙》, 中庸我, 避坑/避雷 information anxiety, civil-service and exam pressure, workplace conflict, original-family independence, macro narrative anxiety, and action against anxiety. Created pages for 钱静, 《我有自己的宇宙》, Zhongyong Self, Internet Risk-Avoidance Trap, Objective Self-Ownership, Action Against Anxiety, Adult Independence From Family, and Macro Narrative Anxiety; updated overview, index, 蜜獾吃书, 秦总, Female Self-Possession, Career Self-Rescue, Career Shore Myth, Information Gap Anxiety, Workplace Relationship Boundaries, Action Defines Identity, and Life Antifragility. No direct contradiction found; the source extends the wiki's life-design branch by grounding selfhood in real-world action, fit, value creation, family distance, and concrete feedback rather than private comfort or online caution.
 
+## [2026-07-15] ingest | 185.魔鬼出没的世界：关于阴谋论、UFO与科学精神
+
+Added source page for the 蜜獾吃书 episode on Carl Sagan's 《魔鬼出没的世界》, UFO conspiracy culture, alien abduction narratives, Roswell, Area 51, MJ-12 documents, crop circles, pseudoscience fraud, scientific skepticism, evidence over testimony, and AI-era information pollution. Created pages for Steven Spielberg, Roswell Incident, Area 51, Majestic 12 Documents, Donation of Constantine, Trofim Lysenko, The X-Files, CTA-102, Scientific Skepticism, Scientific Self-Correction, UFO Conspiracy Culture, Appeal To Ignorance, Garage Dragon Test, Occam's Razor, Evidence Over Testimony, Memory Contamination Risk, Alien Abduction Narrative, Crop Circle Debunking, Pseudoscience Fraud Vulnerability, Science Communication Disadvantage, and AI Information Pollution; updated overview, index, 蜜獾吃书, QinZong, Beimin, Carl Sagan, The Demon-Haunted World, Science Optimism And Pseudoscience, Conspiracy Theory Pattern Seeking, Rational Humility, and Observation Before Inference. No direct contradiction found; the source extends the wiki's childhood science/pseudoscience and overinterpretation branches into a full Sagan-style method for skepticism under conspiracy, fraud, and AI-amplified media conditions.
+
 ## [2026-07-15] lint | Wiki health check
 
 Ran health and lint checks. Health passed with no empty/stub files, index drift, or source-log coverage gaps across 3,932 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is unset and no provider API-key variables are present. Report returned in-session; `wiki/lint-report.md` was not saved.
@@ -3164,3 +3168,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint after health passed. Structural checks scanned 4,095 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-12 with 3,408 nodes and 34,723 edges, so graph findings may lag the latest wiki pages. The graph pass found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint did not complete because LiteLLM was configured with the unqualified default model `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

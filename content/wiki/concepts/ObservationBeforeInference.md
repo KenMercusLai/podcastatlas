@@ -2,7 +2,7 @@
 title: "Observation Before Inference"
 type: concept
 tags: [science, reasoning, evidence, fieldwork]
-sources: [177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]
+sources: [185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]
 last_updated: 2026-07-15
 ---
 
@@ -24,6 +24,8 @@ The concept is adjacent to [[BirdwatchingAsAttention]], but it is more explicitl
 
 [[177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]] adds a childhood science and skepticism version. The episode's movement from [[ChildhoodScienceReading]] to [[ScienceOptimismAndPseudoscience]], [[CarlSagan|Carl Sagan]], and [[TheDemonHauntedWorld|《魔鬼出没的世界》]] shows how curiosity has to become evidence discipline: a good mystery invites looking, but not every attractive explanation deserves belief.
 
+[[185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]] adds the explicit UFO and pseudoscience version. The episode treats sightings, abduction testimony, blacked-out files, crop-circle patterns, and strange astronomical signals as observations that must be separated from premature alien, miracle, or cover-up interpretations.
+
 ## Key Claims
 - A plausible story is not evidence.
 - Morphology can suggest habits, but external appearance alone can mislead.
@@ -35,6 +37,7 @@ The concept is adjacent to [[BirdwatchingAsAttention]], but it is more explicitl
 - For character explanation, a modern glyph is not enough; the interpreter needs a historical form sequence before making an etymological claim.
 - Travel narration can still practice evidence discipline when it distinguishes myth, site interpretation, etymology, and ecological speculation.
 - Effort becomes more productive when the person first improves what they can notice and distinguish.
+- A strange observation can deserve attention without earning the most dramatic explanation; [[ScientificSkepticism]] asks what would count as independent evidence or disconfirmation.
 
 ## Connections
 - [[BirdwatchingAsAttention]] - attention as the entry point.
@@ -46,3 +49,4 @@ The concept is adjacent to [[BirdwatchingAsAttention]], but it is more explicitl
 - [[ChineseCharacterEvidenceDiscipline]], [[CharacterFormEvolution]], and [[FolkCharacterEtymologyRisk]] - episode 57's extension into evidence-bound Chinese-character interpretation.
 - [[Crete]], [[GreekMythology]], [[MinoanCivilization]], and [[IslandExtinctionAfterHumanArrival]] - episode 59's extension into myth, archaeology, etymology, and island natural history.
 - [[LionelMessi]], [[WuQingyuan]], [[AlphaGo]], and [[LuckAsInformationBandwidth]] - episode 172's perception-before-action extension.
+- [[ScientificSkepticism]], [[EvidenceOverTestimony]], [[MemoryContaminationRisk]], [[CTA102]], and [[CropCircleDebunking]] - episode 185's claim-evaluation extension.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [185.魔鬼出没的世界：关于阴谋论、UFO与科学精神](sources/185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368.md) — 蜜獾吃书 episode on Carl Sagan, 《魔鬼出没的世界》, UFO culture, alien abduction narratives, crop circles, pseudoscience fraud, scientific skepticism, and evidence discipline.
 - [183.李商隐和红楼梦：偏僻性乖张，那管世人诽谤！](sources/183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260.md) — 蜜獾吃书 episode defending Li Shangyin and tracing Li-Shangyin imagery, love poetry, political pressure, and intertextual echoes inside 《红楼梦》.
 - [182.抓一把风洗洗脸，滚到泥巴里去写诗！｜ 和树才聊童诗](sources/182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792.md) — 蜜獾吃书 episode with 树才 on children's poetry, child poetic expression, modern poetry education, writing as play, emotional release, screen-time attention, and mother tongue awareness.
 - [181.讨好并非你的性格，坚持这么久，辛苦了](sources/181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261.md) — 蜜獾吃书 episode on 《讨好反应》, fawning as a trauma response, 4F survival mechanisms, complex trauma, traumatic attachment, high-functioning people-pleasing, boundaries, and desensitizing from external judgment.
@@ -443,6 +444,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《海尔兄弟》](entities/HaierBrothers.md) — Chinese science-animation series treated as a global-view and popular-science artifact in childhood media.
 - [Carl Sagan](entities/CarlSagan.md) — Public-science and skepticism anchor linked by episode 177 to childhood science curiosity and pseudoscience literacy.
 - [《魔鬼出没的世界》 / The Demon-Haunted World](entities/TheDemonHauntedWorld.md) — Sagan book used as the episode's skeptical counterweight to UFO, qigong, crystal-skull, and unsolved-mystery culture.
+- [Steven Spielberg / 斯皮尔伯格](entities/StevenSpielberg.md) — Film doorway for episode 185's movement from UFO wonder into Sagan-style skepticism.
+- [Roswell Incident / 罗斯维尔事件](entities/RoswellIncident.md) — Cold War secrecy and UFO-legend case used to separate hidden military activity from alien evidence.
+- [Area 51 / 51区](entities/Area51.md) — Military test-site secrecy case used by episode 185 to explain how real classified technology can feed alien speculation.
+- [Majestic 12 Documents / MJ-12文件](entities/Majestic12Documents.md) — Claimed UFO documents treated by episode 185 as a forgery and compared with older document-authority cases.
+- [Donation of Constantine / 君士坦丁献土](entities/DonationOfConstantine.md) — Historical forgery comparison for MJ-12 and evidence-based correction.
+- [Trofim Lysenko / 李森科](entities/TrofimLysenko.md) — Political pseudoscience warning case for what happens when authority blocks scientific correction.
+- [The X-Files / X档案](entities/TheXFiles.md) — Pop-cultural "I want to believe" anchor contrasted with the episode's "I want to know" posture.
+- [CTA-102](entities/CTA102.md) — Astronomy case used to show restraint when strange signals invite premature alien explanations.
 - [猪哥 / 猪场严选](entities/ZhuGe.md) — Pork-industry insider and creator from episode 176 who links animal welfare, slaughter methods, consumer education, and livestock-worker moral injury.
 - [《女性卫生用品的社会史》](entities/JoseiEiseiYouhinNoShakaishi.md) — Tanaka Hikari book used by episode 175 to frame menstrual products as gendered material and social history.
 - [田中光](entities/TanakaHikari.md) — Japanese scholar whose book anchors the episode's discussion of sanitary products, stigma, and public menstrual knowledge.
@@ -2508,6 +2517,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Children's Literature Complexity](concepts/ChildrensLiteratureComplexity.md) — Frame for children's works as serious, contradictory, socially aware, frightening, funny, and not reducible to safe morals.
 - [Childhood Science Reading](concepts/ChildhoodScienceReading.md) — Science learning through adventure, nature, animation, comics, geography, questions, and wonder rather than formal class alone.
 - [Science Optimism And Pseudoscience](concepts/ScienceOptimismAndPseudoscience.md) — Mixed media environment where science enthusiasm coexists with UFOs, qigong, crystal skulls, apocalypse speculation, and other doubtful claims.
+- [Scientific Skepticism](concepts/ScientificSkepticism.md) — Sagan-style posture that preserves wonder while holding claims to evidence, testability, and correction.
+- [Scientific Self-Correction](concepts/ScientificSelfCorrection.md) — Method principle that science has no final master and must abandon claims when evidence changes.
+- [UFO Conspiracy Culture](concepts/UFOConspiracyCulture.md) — Media ecology of alien crashes, cover-ups, secret technology, abductions, crop circles, and belief-first mystery.
+- [Appeal To Ignorance](concepts/AppealToIgnorance.md) — Fallacy of treating lack of disproof as proof or lack of proof as automatic disproof.
+- [Garage Dragon Test](concepts/GarageDragonTest.md) — Sagan-derived test for whether an unfalsifiable claim makes any detectable difference.
+- [Occam's Razor](concepts/OccamsRazor.md) — Anti-conspiracy reasoning tool that resists unnecessary hidden agents and explanations after observations are checked.
+- [Evidence Over Testimony](concepts/EvidenceOverTestimony.md) — Episode 185 rule of thumb for weighting physical evidence above sincere but fallible human testimony in extraordinary claims.
+- [Memory Contamination Risk](concepts/MemoryContaminationRisk.md) — Risk that suggestion, hypnosis, fear, or cultural templates can alter remembered experience.
+- [Alien Abduction Narrative](concepts/AlienAbductionNarrative.md) — Modern alien-taking stories read as descendants of older demon, witchcraft, sexual-fear, and reproduction-anxiety narratives.
+- [Crop Circle Debunking](concepts/CropCircleDebunking.md) — Case showing why factual correction can fail socially even after confession and demonstration.
+- [Pseudoscience Fraud Vulnerability](concepts/PseudoscienceFraudVulnerability.md) — Emotional and social conditions that let false healing, qigong, miracle, and paranormal claims persuade people.
+- [Science Communication Disadvantage](concepts/ScienceCommunicationDisadvantage.md) — Asymmetry where skeptical correction is often less attractive than mystery, certainty, and hidden-order stories.
+- [AI Information Pollution](concepts/AIInformationPollution.md) — AI-era extension of Sagan's warning, where synthetic media scales old weaknesses in evidence evaluation.
 - [Creative Risk-Avoidance Culture](concepts/CreativeRiskAvoidanceCulture.md) — Publishing and review culture where over-scanning for faults can narrow entertainment, complexity, experimentation, and creator confidence.
 - [Food Animal Welfare](concepts/FoodAnimalWelfare.md) — Harm-reduction frame for animals raised for meat, eggs, and food products inside real affordability, labor, welfare, and consumer constraints.
 - [Livestock Worker Moral Injury](concepts/LivestockWorkerMoralInjury.md) — Psychological and ethical strain on farm, transport, euthanasia, and slaughter workers who must harm animals they also care for.
