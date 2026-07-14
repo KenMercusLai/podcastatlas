@@ -2,7 +2,7 @@
 title: "Non-Instrumental Literary Reading"
 type: concept
 tags: [reading, literature, fiction, attention]
-sources: [64-bawangbieji-fengmo-yu-chenghuo-656094350, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
+sources: [jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
 last_updated: 2026-07-14
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-14
 Non-instrumental literary reading is the refusal to judge fiction and literary classics only by immediate knowledge gain, productivity, or visible output. In [[49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]], [[QinZong|秦总]] and [[LiWuya|李乌鸦]] compare reading to travel, emotional repair, solitude, and living additional possible lives. The claim is not that literature is useless, but that its usefulness often arrives through experience rather than extractable points.
 
 This concept specializes [[NonInstrumentalUnderstanding]] for literature. It also complements [[ReadingAsFrameTraining]]: a reader may gain a frame from a novel, but the novel's value is not exhausted by the frame. It includes entering other lives, feeling the world become bearable again, and learning what kind of attention the reader wants to keep.
+
+[[jiaqi-moyu-geng-jiankang-574391976]] adds the show's explicit method statement through [[StoryBasedEmpathy]]. The episode argues that literature matters because concrete stories can reach emotions and social complexity that direct doctrine often cannot, making reading useful without reducing it to advice, summary, or argument victory.
 
 [[03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687]] adds a theological science-fiction version through [[CanticleForLeibowitz|《莱博维茨的赞歌》 / A Canticle for Leibowitz]]. The source treats a difficult classic as valuable because it lets readers inhabit civilizational time, religious ambiguity, scientific rediscovery, pain, guilt, and renewal rather than reducing the book to a post-apocalyptic plot summary.
 
@@ -51,6 +53,7 @@ This concept specializes [[NonInstrumentalUnderstanding]] for literature. It als
 - A mystery can be non-instrumental when the real value is the experience of interpretive uncertainty rather than only the final solution.
 - Literary biography can be non-instrumental when it restores historical texture and human complexity rather than producing a clean moral score.
 - A film or opera-centered work can be non-instrumental when repeated viewing reveals performance pressure, bodily memory, and moral ambiguity rather than delivering a transferable lesson.
+- Literature can justify a show format because its value is often the slow expansion of empathy rather than a concise takeaway.
 
 ## Connections
 - [[NonInstrumentalUnderstanding]] - broader concept for knowledge that is not immediately utility-driven.
@@ -71,3 +74,4 @@ This concept specializes [[NonInstrumentalUnderstanding]] for literature. It als
 - [[CanticleForLeibowitz|《莱博维茨的赞歌》 / A Canticle for Leibowitz]], [[ApocalypticLiterarySymbolism]], and [[PainAndMoralResponsibility]] - episode 03's extension into religious science fiction and civilizational moral inquiry.
 - [[LiteraryGossipAsContext]], [[AuthorMythDeflation]], and [[OccultPseudoscienceLiteraryModernity]] - episode 60's extension into author lives, gossip, and belief systems as literary experience.
 - [[FarewellMyConcubine|《霸王别姬》]], [[RoleLifeCollapse]], [[GenderPerformanceAndTrauma]], and [[ArtDignityUnderPoliticalPressure]] - episode 64's extension into film, opera, and performance as literary experience.
+- [[StoryBasedEmpathy]] - holiday episode extension that names concrete stories as the show's answer to over-abstract argument.

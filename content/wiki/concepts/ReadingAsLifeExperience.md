@@ -2,7 +2,7 @@
 title: "Reading As Life Experience"
 type: concept
 tags: [reading, literature, attention, life-practice]
-sources: [64-bawangbieji-fengmo-yu-chenghuo-656094350, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
+sources: [jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
 last_updated: 2026-07-14
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-14
 Reading as life experience is the view that reading is not only information transfer, frame extraction, or cultural capital, but a lived practice shaped by body, memory, mood, timing, family, and daily objects. In [[49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]], [[QinZong|秦总]] and [[LiWuya|李乌鸦]] discuss reading through embarrassment, forgetting, posture, paper, drinking, childhood prohibition, and the books one dares or does not dare to enter.
 
 This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A book can train a frame, but whether it reaches the reader depends on how it is held, where it is read, whether the reader is emotionally ready, and what surrounding household or social atmosphere has made books feel like permission, display, burden, or refuge.
+
+[[jiaqi-moyu-geng-jiankang-574391976]] adds a production-life version. The hosts' Dali move, healthier rhythm, holiday reading retreat, and book-sorting work show that reading is not only a mental act; it depends on environment, body, domestic order, and protected time. The same episode turns this lived condition into [[RestorativeCreativePacing]] for the show.
 
 [[52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956]] adds an ordinary-life comics version through [[TakagiNaoko|高木直子]]. The episode recommends her books for readers who are job hunting, alone in a city, tired, or embarrassed by early work mistakes, making reading a form of timed companionship rather than only literary appreciation.
 
@@ -38,6 +40,7 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 - Reading can leave dormant emotional material that becomes intelligible only when later life supplies the missing experience.
 - Fiction can model unresolved adult choice without forcing the reader into a clean moral, making uncertainty itself part of the reading experience.
 - Rewatching or rereading can deepen rather than spoil a work when the experience depends on performance, recognition, and layered interpretation rather than plot surprise.
+- A reading project can need rest, place, and household maintenance because books become usable through ordinary life conditions, not only through willpower.
 
 ## Connections
 - [[QinZong|秦总]] and [[LiWuya|李乌鸦]] - source voices.
@@ -52,3 +55,4 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 - [[HansChristianAndersen|安徒生]], [[AdultFairyTaleReading]], and [[FairyTaleDeathAndSpirituality]] - episode 55's extension into childhood fairy tales that reopen through adult experience.
 - [[KakutaMitsuyo|角田光代]], [[ThirtySeven|《37》]], [[MidlifeAsGift]], and [[EmpathyAsAestheticCapacity]] - episode 63's extension into midlife fiction and adult ambivalence.
 - [[FarewellMyConcubine|《霸王别姬》]], [[RoleLifeCollapse]], and [[ArtDignityUnderPoliticalPressure]] - episode 64's extension into film rewatching and performance as lived interpretation.
+- [[RestorativeCreativePacing]] and [[StoryBasedEmpathy]] - holiday episode extension into reading environment, rest, and story-centered understanding.

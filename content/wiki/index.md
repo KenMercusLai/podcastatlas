@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [假期摸鱼更健康](sources/jiaqi-moyu-geng-jiankang-574391976.md) — 蜜獾吃书 holiday interval on Dali life, restorative "moyu", the show's first half-year, story-based empathy, and future topics including 《盛世的崩塌》, 《绿色星球》, Zelazny, and Fukuyama.
 - [65.龙王之怒：1931年的长江洪水](sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922.md) — 蜜獾吃书 episode on the 1931 Yangtze flood, Wuhan/Hankou, wetland loss, dike risk transfer, famine, war, folk religion, relief mismatch, and disaster history.
 - [64.霸王别姬：疯魔与成活](sources/64-bawangbieji-fengmo-yu-chenghuo-656094350.md) — 蜜獾吃书 episode on 《霸王别姬》, 芦苇, 陈凯歌, 《封神》, Cheng Dieyi, Duan Xiaolou, Juxian, role-life collapse, troupe discipline, gender performance, art dignity, coerced denunciation, and film/novel ending ethics.
 - [63.我的30+下半程，答案若隐若现](sources/63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972.md) — 蜜獾吃书 episode on female midlife, gendered age anxiety, marriage pressure, career self-rescue, 角田光代's 《37》, information-gap anxiety, and empathy as age's gift.
@@ -366,6 +367,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [郭静龙](entities/GuoJinglong.md) — Author of 《盛世的崩塌》, previewed by 蜜獾吃书 as a possible future Dali guest.
+- [《盛世的崩塌》](entities/ShengshiDeBengta.md) — Tang-history book previewed as a possible future episode on An Lushan Rebellion-era politics, literature, Nanzhao conflict, and ordinary life.
+- [《绿色星球》](entities/TheGreenPlanet.md) — BBC plant-world documentary/book topic previewed through Beimin's Chinese translation work and plant behavior examples.
+- [Roger Zelazny / 罗杰·泽拉兹尼](entities/RogerZelazny.md) — Science-fiction and fantasy writer previewed through Beimin's translation work and the example of 《光明王》.
+- [《光明王》 / Lord of Light](entities/LordOfLight.md) — Zelazny work previewed as far-future mythic science fiction involving religious-political conflict and rebellion.
+- [Francis Fukuyama / 福山](entities/FrancisFukuyama.md) — Political theorist previewed as a possible future source for identity-politics discussion.
+- [《身份政治》](entities/IdentityPoliticsBook.md) — Fukuyama book previewed as a possible future political-theory topic tied to concrete human understanding.
 - [《龙王之怒：1931年长江水灾》](entities/LongwangZhinu1931ChangjiangShuizai.md) — Book discussed by episode 65 as a disaster-history account of the 1931 Yangtze flood.
 - [Yangtze River / 长江](entities/YangtzeRiver.md) — Main river system in episode 65's floodplain, Wuhan, wetland, and levee-risk account.
 - [Han River / 汉江](entities/HanRiver.md) — River paired with the Yangtze in the Wuhan/Hankou flood-geography case.
@@ -2229,6 +2237,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Story-Based Empathy](concepts/StoryBasedEmpathy.md) — Reading-method frame where stories enlarge understanding by preserving concrete lives, motives, and feelings better than abstract doctrine alone.
+- [Restorative Creative Pacing](concepts/RestorativeCreativePacing.md) — Creative-work rhythm where rest, light episodes, reading retreats, and environmental reset sustain a podcast or literary project.
 - [Natural Hazard As Social Disaster](concepts/NaturalHazardSocialDisaster.md) — Disaster-history frame where floods become catastrophe through settlement, infrastructure, war, markets, disease, belief, and relief systems.
 - [Wetland Adaptation](concepts/WetlandAdaptation.md) — Living with seasonal water through mobility, wetlands, boats, and local ecological practice rather than only fixed defenses.
 - [Flood Control Risk Transfer](concepts/FloodControlRiskTransfer.md) — Pattern where dikes, breaches, openings, and diversions protect one place by shifting water or maintenance burden elsewhere.
