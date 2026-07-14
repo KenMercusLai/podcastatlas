@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [52.好爱高木直子！献给正在打拼的你](sources/52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956.md) — 蜜獾吃书 episode on 高木直子, everyday autobiographical comics, Tokyo drift, part-time work, ordinary hardship, food, family, travel, and local Japan festivals.
 - [51.厌世？反人类？童话故事？…格列佛游记可深了去了](sources/51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320.md) — 蜜獾吃书 episode on 《格列佛游记》 as political satire, scale reversal, Swift's misanthropy question, Laputa's technical domination, Houyhnhnm pure rationality, and author-character separation.
 - [Tom Blomfield on Monzo, YC, and Founder Lessons](sources/tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio.md) — The Social Radars episode with Tom Blomfield on GoCardless, Starling, Monzo, YC, in-house banking software, fraud response, funding crisis, burnout, succession, and ecosystem optimism.
 - [58.儒林外史：假如考公成了唯一出路](sources/58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859.md) — 蜜獾吃书 episode on 《儒林外史》, Wu Jingzi's gentle satire, Fan Jin and Zhou Jin, imperial-exam status hierarchy, group-portrait structure, and alternatives to credential-centered life.
@@ -352,6 +353,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [高木直子 / Takagi Naoko](entities/TakagiNaoko.md) — Japanese illustrator and comic essayist whose 蜜獾吃书 episode connects everyday autobiographical comics, Tokyo drift, ordinary hardship, food, family, and local Japan travel.
 - [《格列佛游记》 / Gulliver's Travels](entities/GulliversTravels.md) — Swift novel read by 蜜獾吃书 as adult political satire across Lilliput, Brobdingnag, Laputa, and the Houyhnhnms.
 - [Jonathan Swift / 乔纳森·斯威夫特](entities/JonathanSwift.md) — Author of 《格列佛游记》, treated as a satirist whose disgust at human vice is read as warning rather than simple anti-human doctrine.
 - [Lemuel Gulliver / 格列佛](entities/LemuelGulliver.md) — Fictional traveler whose final misanthropy makes author-character separation central to the episode's reading.
@@ -469,12 +471,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Flow](entities/Flow.md) — iPhone dictation app Mims uses as a voice-first AI interface for everyday messaging.
 - [Google Personal Intelligence](entities/GooglePersonalIntelligence.md) — Gemini-linked account capability used by the source to show AI acting inside Google services such as Calendar.
 - [Google Calendar](entities/GoogleCalendar.md) — Scheduling product used as the source's example of a disliked task that account-integrated AI can reduce.
-- [蜜獾吃书](entities/MihuanChishu.md) — Podcast/show context for book and life-design discussions on post-apocalyptic science fiction, Swift, satire, machine gambling, autism support, bird science, puzzle mystery, insurance claims, education pressure, and reading itself.
+- [蜜獾吃书](entities/MihuanChishu.md) — Podcast/show context for book and life-design discussions on everyday comics, post-apocalyptic science fiction, Swift, satire, machine gambling, autism support, bird science, puzzle mystery, insurance claims, education pressure, and reading itself.
 - [李乌鸦](entities/LiWuya.md) — Book creator and guest in the 蜜獾吃书 first-anniversary episode on reading habits, classics, shame, solitude, and non-instrumental literary value.
 - [日谈](entities/Ritan.md) — Crossover context for the episode bringing Hookie, 殷姐, and 秦总 together for a Women's Day life-design conversation.
 - [Hookie](entities/Hookie.md) — Host in the restart-life episode, linking life-science career redirection, pet grief, school confidence, and learning capacity.
 - [殷姐](entities/YinJie.md) — Host in the restart-life episode, linking Mexico hospitality life, recruiting regret, self-consistency, learning capacity, and non-attachment.
-- [秦总](entities/QinZong.md) — 蜜獾吃书 host linking life restarts, machine gambling, autism support, and literary reading through book discussion and personal examples.
+- [秦总](entities/QinZong.md) — 蜜獾吃书 host linking life restarts, ordinary hardship, machine gambling, autism support, and literary reading through book discussion and personal examples.
 - [重启人生 / Brush Up Life](entities/BrushUpLife.md) — Japanese-drama premise used by the episode as a life-restart thought experiment.
 - [Christina Cacioppo](entities/ChristinaCacioppo.md) — Vanta founder and CEO whose Social Radars episodes link USV, learning to code, Dropbox compliance pain, YC, founder-led enterprise sales, founder mode, and selective delegation.
 - [Vanta](entities/Vanta.md) — Trust-management and compliance-automation SaaS company that began from SOC 2 pain and spreadsheet gap assessments, then expanded beyond a SOC 2-only wedge.
@@ -2145,6 +2147,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Everyday Autobiographical Comics](concepts/EverydayAutobiographicalComics.md) — Diary-like illustrated life-writing where ordinary rooms, meals, jobs, travel, family, and small embarrassments become reader recognition.
+- [Ordinary Hardship Narrative](concepts/OrdinaryHardshipNarrative.md) — Life-writing pattern that preserves non-heroic struggle as recognizable experience rather than turning it into a clean success story.
 - [Scale Reversal Satire](concepts/ScaleReversalSatire.md) — Literary device in 《格列佛游记》 where changing size and distance destabilizes human pride, politics, bodies, and civilization.
 - [Technocratic Domination Satire](concepts/TechnocraticDominationSatire.md) — Swiftian warning that abstract technical command can detach from practical life, legitimacy, and accountability.
 - [Pure Rationality Trap](concepts/PureRationalityTrap.md) — Danger that reason purified of bodily life, affection, and mercy becomes inhuman, shown through the Houyhnhnms.
