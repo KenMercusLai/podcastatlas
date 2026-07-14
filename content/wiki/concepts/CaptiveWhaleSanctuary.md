@@ -3,7 +3,7 @@ title: "Captive Whale Sanctuary"
 type: concept
 tags: [animal-welfare, conservation, whales]
 sources: [marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c]
-last_updated: 2026-07-09
+last_updated: 2026-07-14
 ---
 
 # Captive Whale Sanctuary
@@ -22,3 +22,4 @@ The sanctuary model is presented as a compromise rather than an easy solution. I
 - [[LittleWhiteAndLittleGrey]], [[SeaLifeTrust]], [[Iceland]], and [[Keiko]] - source case and precedent.
 - [[SeaWorld]] - entertainment-captivity contrast.
 - [[ConservationIntervention]] and [[OceanMemory]] - adjacent conservation and marine-life concepts.
+- [[AnimalWelfareAsPublicHealth]] - broader animal-welfare frame added later through companion animals, health, and violence prevention.

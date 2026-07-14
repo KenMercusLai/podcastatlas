@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [56.伴生：世界破破烂烂，小动物缝缝补补](sources/56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301.md) — 蜜獾吃书 episode on 《伴生》, Aysha Akhtar, companion animals, trauma recovery, disaster evacuation, domestic violence, animal-assisted therapy, animal cruelty, empathy, and animal welfare as public health.
 - [55.安徒生童话：海的女儿和不灭的灵魂](sources/55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306.md) — 蜜獾吃书 episode rereading Andersen as adult fairy-tale literature through satire, death, children as serious readers, 《海的女儿》, immortal soul, Ye Junjian's translation, and Disney adaptation debates.
 - [54.玫瑰的名字（下）：真与假，正与邪，诠释与过度诠释](sources/54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699.md) — 蜜獾吃书 episode completing 《玫瑰的名字》 through the poisoned Aristotle text, Jorge's knowledge control, false Revelation patterning, anti-detective structure, conspiracy-style overinterpretation, laughter, and political show trial.
 - [53.玫瑰的名字（上）：真与假，正与邪，诠释与过度诠释](sources/53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184.md) — 蜜獾吃书 episode on 《玫瑰的名字》 as medieval mystery, semiotic detective fiction, knowledge monopoly, laughter against authority, Revelation symbolism, and interpretation versus overinterpretation.
@@ -356,6 +357,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《伴生》 / Our Symphony with Animals](entities/OurSymphonyWithAnimals.md) — Aysha Akhtar book discussed by 蜜獾吃书 as a memoir, medicine, animal-ethics, and public-health argument about human-animal well-being.
+- [Aysha Akhtar / 阿依莎·阿赫塔](entities/AyshaAkhtar.md) — Physician and animal-ethics author whose 《伴生》 connects personal trauma, companion animals, public health, and animal-cruelty violence risk.
 - [安徒生 / Hans Christian Andersen](entities/HansChristianAndersen.md) — Danish fairy-tale writer read by 蜜獾吃书 as an all-ages author of satire, sorrow, death, marginality, and spiritual longing.
 - [《海的女儿》 / The Little Mermaid](entities/TheLittleMermaid.md) — Andersen tale read beyond "恋爱脑" as a story of freedom, human life, bodily pain, immortal soul, and later Disney adaptation confusion.
 - [叶君健 / Ye Junjian](entities/YeJunjian.md) — Andersen translator whose title "海的女儿" is treated as shaping the Chinese reading of the tale.
@@ -2161,6 +2164,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Animal Welfare As Public Health](concepts/AnimalWelfareAsPublicHealth.md) — Frame that animal welfare belongs inside health, trauma recovery, disaster response, domestic-violence safety, and violence-prevention systems.
+- [Companion Animal Health](concepts/CompanionAnimalHealth.md) — Pattern where companion animals support human mental, social, and physiological well-being through attachment, responsibility, touch, and nonjudgmental presence.
+- [Animal-Assisted Therapy](concepts/AnimalAssistedTherapy.md) — Use of animals to support trauma expression, emotional regulation, court testimony, PTSD care, and safer communication.
+- [Pet-Inclusive Disaster Response](concepts/PetInclusiveDisasterResponse.md) — Emergency-planning model where evacuation and shelters account for companion animals because animal separation can increase human harm.
+- [Domestic Violence Pet Coercion](concepts/DomesticViolencePetCoercion.md) — Abuse pattern where a perpetrator harms or threatens household animals to control a victim.
+- [Animal Abuse Violence Link](concepts/AnimalAbuseViolenceLink.md) — Warning that cruelty toward animals can train, reveal, or normalize domination, desensitization, and wider violence.
+- [Empathy Circle Expansion](concepts/EmpathyCircleExpansion.md) — Moral frame for widening the range of beings whose pain matters and resisting othering as a habit of violence.
 - [Adult Fairy-Tale Reading](concepts/AdultFairyTaleReading.md) — Rereading fairy tales as all-ages literature carrying social humiliation, loneliness, death, love, satire, and spiritual aspiration.
 - [Fairy-Tale Death And Spirituality](concepts/FairyTaleDeathAndSpirituality.md) — Frame for children's literature confronting mortality, sacrifice, goodness, and transcendence without condescending to children.
 - [Adaptation Original-Text Confusion](concepts/AdaptationOriginalTextConfusion.md) — Pattern where a famous adaptation overwrites public memory of the literary original's design, plot, or moral structure.
