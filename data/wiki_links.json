@@ -959,6 +959,10 @@
     "title": "Acquired",
     "url": "/wiki/entities/acquired/"
   },
+  "ActionAgainstAnxiety": {
+    "title": "Action Against Anxiety",
+    "url": "/wiki/concepts/actionagainstanxiety/"
+  },
   "ActionDefinesIdentity": {
     "title": "Action Defines Identity",
     "url": "/wiki/concepts/actiondefinesidentity/"
@@ -1046,6 +1050,10 @@
   "AdultFairyTaleReading": {
     "title": "Adult Fairy-Tale Reading",
     "url": "/wiki/concepts/adultfairytalereading/"
+  },
+  "AdultIndependenceFromFamily": {
+    "title": "Adult Independence From Family",
+    "url": "/wiki/concepts/adultindependencefromfamily/"
   },
   "AdultSatiricalChildrensClassics": {
     "title": "Adult Satire In Children's Classics",
@@ -6751,6 +6759,10 @@
     "title": "Internet Hospital",
     "url": "/wiki/concepts/internethospital/"
   },
+  "InternetRiskAvoidanceTrap": {
+    "title": "Internet Risk-Avoidance Trap",
+    "url": "/wiki/concepts/internetriskavoidancetrap/"
+  },
   "InternshipAsCareerExploration": {
     "title": "Internship As Career Exploration",
     "url": "/wiki/concepts/internshipascareerexploration/"
@@ -8259,6 +8271,10 @@
     "title": "Macro Asset Expression",
     "url": "/wiki/concepts/macroassetexpression/"
   },
+  "MacroNarrativeAnxiety": {
+    "title": "Macro Narrative Anxiety",
+    "url": "/wiki/concepts/macronarrativeanxiety/"
+  },
   "MadeToOrderCommerce": {
     "title": "Made-To-Order Commerce",
     "url": "/wiki/concepts/madetoordercommerce/"
@@ -9386,6 +9402,10 @@
   "ObjectiveHiringAssessment": {
     "title": "Objective Hiring Assessment",
     "url": "/wiki/concepts/objectivehiringassessment/"
+  },
+  "ObjectiveSelfOwnership": {
+    "title": "Objective Self-Ownership",
+    "url": "/wiki/concepts/objectiveselfownership/"
   },
   "ObservationBeforeInference": {
     "title": "Observation Before Inference",
@@ -10518,6 +10538,10 @@
   "QQ": {
     "title": "QQ",
     "url": "/wiki/entities/qq/"
+  },
+  "QianJing": {
+    "title": "钱静",
+    "url": "/wiki/entities/qianjing/"
   },
   "QianTuWuLiang": {
     "title": "前途无量",
@@ -13787,6 +13811,10 @@
     "title": "《我还想看见》",
     "url": "/wiki/entities/wohaixiangkanjian/"
   },
+  "WoYouZijiDeYuzhou": {
+    "title": "《我有自己的宇宙》",
+    "url": "/wiki/entities/woyouzijideyuzhou/"
+  },
   "WolverhamptonWanderers": {
     "title": "Wolverhampton Wanderers / 狼队",
     "url": "/wiki/entities/wolverhamptonwanderers/"
@@ -14450,6 +14478,10 @@
   "ZhongXuegao": {
     "title": "Zhong Xuegao",
     "url": "/wiki/entities/zhongxuegao/"
+  },
+  "ZhongyongSelf": {
+    "title": "Zhongyong Self",
+    "url": "/wiki/concepts/zhongyongself/"
   },
   "ZhongzhiGroup": {
     "title": "中植集团",
@@ -15206,6 +15238,10 @@
   "socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8": {
     "title": "Parker Conrad on Zenefits, Rippling, and Building Through Crisis",
     "url": "/wiki/sources/socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8/"
+  },
+  "sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778": {
+    "title": "sp.02 我有自己的宇宙：如何在混沌中做个清醒的行动派",
+    "url": "/wiki/sources/sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778/"
   },
   "starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1": {
     "title": "Starmergeddon: British PM resigns",

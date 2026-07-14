@@ -2,8 +2,8 @@
 title: "Career Self-Rescue"
 type: concept
 tags: [career, work, mental-health, life-design]
-sources: [63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956]
-last_updated: 2026-07-14
+sources: [63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
+last_updated: 2026-07-15
 ---
 
 # Career Self-Rescue
@@ -20,6 +20,8 @@ The episode's version is physical and trackable: distance, danger, fatigue, rout
 
 [[63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972]] adds a midlife retrospective version. The host remembers a prestigious, politically and culturally central job that looked enviable from the outside but felt useless, uninspiring, and wasteful from the inside. The rescue is not framed as a perfect career plan; it is the later ability to enjoy a less glamorous life because value and fit have become more important than external admiration.
 
+[[sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]] adds a pre-rescue diagnostic version. [[QianJing|钱静]] asks exam repeaters and civil-service hopefuls to check whether the path fits their personality, pressure tolerance, and desired work before treating "考上" as rescue. The episode connects career recovery to [[ObjectiveSelfOwnership]] and [[ActionAgainstAnxiety]]: recognize the hand, stop using the target as proof of worth, and account for the opportunity cost of waiting.
+
 ## Key Claims
 
 - A career low point can involve not only job dissatisfaction but loss of deservedness, confidence, and felt agency.
@@ -30,6 +32,7 @@ The episode's version is physical and trackable: distance, danger, fatigue, rout
 - Career self-rescue can be interpretive before it is external: understanding why a path felt narrow or false may be the first recovered form of agency.
 - Self-rescue can be incremental: a person may keep enough contact with the desired work through small public traces before a recognizable career opening appears.
 - External prestige can delay self-rescue because other people keep confirming the role's status even when the person living inside it feels empty.
+- Career self-rescue can begin before exit, when a person stops treating one exam or institution as the only legitimate proof of value.
 
 ## Connections
 
@@ -42,3 +45,4 @@ The episode's version is physical and trackable: distance, danger, fatigue, rout
 - [[QinZong|秦总]], [[Hookie]], [[YinJie|殷姐]], [[LifeRestartThoughtExperiment]], and [[FemaleSelfPossession]] — restart-life source cases.
 - [[TakagiNaoko|高木直子]], [[EverydayAutobiographicalComics]], and [[OrdinaryHardshipNarrative]] — episode 52's incremental creative-work case.
 - [[GenderedAgeAnxiety]], [[MidlifeAsGift]], and [[FemaleSelfPossession]] — episode 63's midlife and status-exit extension.
+- [[QianJing|钱静]], [[CareerShoreMyth]], [[ObjectiveSelfOwnership]], and [[ActionAgainstAnxiety]] - sp.02's exam, civil-service, and opportunity-cost diagnostic extension.

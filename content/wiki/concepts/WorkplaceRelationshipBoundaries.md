@@ -2,8 +2,8 @@
 title: "Workplace Relationship Boundaries"
 type: concept
 tags: [career, workplace, relationships, communication]
-sources: [ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, socialradarsseason1-tracyyoung-final-1]
-last_updated: 2026-07-11
+sources: [ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, socialradarsseason1-tracyyoung-final-1, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
+last_updated: 2026-07-15
 ---
 
 # Workplace Relationship Boundaries
@@ -14,6 +14,8 @@ Workplace relationship boundaries are the practical separation between colleague
 
 [[socialradarsseason1-tracyyoung-final-1]] adds the spouse co-founder version through [[TracyYoung]] and [[RalphGoody]]. Young says she would generally advise against starting a company with a significant other, while also explaining that their own [[TigerEye]] arrangement works because roles and responsibilities are explicit.
 
+[[sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]] adds a boss-conflict diagnostic through [[QianJing|钱静]]. The episode resists collapsing every difficult superior into a single "PUA" label; it asks whether the leader targets one person or many, whether the cause is hostility, incompetence, misunderstanding, or role conflict, and how much the leader controls the worker's next three-year goals.
+
 ## Key Claims
 - A coworker should first be evaluated by whether they can work with you and complete the relevant task; private friendship requires a different standard.
 - "Work with capability, make friends with character" separates operational reliability from deeper trust.
@@ -23,6 +25,7 @@ Workplace relationship boundaries are the practical separation between colleague
 - The concept connects to [[CommunicationBoundarySetting]] and [[WorkplaceCommunicationRisk]] because small favors, public words, and repeated patterns can become interpreted as alliances or private relationship signals.
 - Boundaries also matter after work: useful coordination habits become harmful when they make family, friendship, or care relationships feel like corporate tasks.
 - Spouse co-founding raises the boundary cost because family and company conflicts can merge unless responsibility areas and decision rights are clear.
+- Boss conflict needs diagnosis before response: enduring, leaving, communicating, or pushing back should each be tied to one's goal in that workplace.
 
 ## Connections
 - [[WorkplaceHiddenRules]] — broader implicit norms that include colleague/friend boundaries.
@@ -34,3 +37,4 @@ Workplace relationship boundaries are the practical separation between colleague
 - [[ToolRationalitySpillover]] — private-life boundary failure added by the Mianji source.
 - [[FamilyLaborBoundaries]] — adjacent family-care boundary concept from XiaoMan's post-layoff life.
 - [[TracyYoung]], [[RalphGoody]], [[TigerEye]], and [[SecondTimeFounderOperatingJudgment]] - spouse co-founder boundary case from The Social Radars.
+- [[QianJing|钱静]], [[ZhongyongSelf]], and [[ActionAgainstAnxiety]] - boss-conflict analysis and goal-oriented response from sp.02.

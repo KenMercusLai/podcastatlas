@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [sp.02 我有自己的宇宙：如何在混沌中做个清醒的行动派](sources/sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778.md) — 蜜獾吃书 episode with 钱静 on 《我有自己的宇宙》, 中庸我, 避坑内容, career and civil-service anxiety, workplace conflict, original-family independence, macro narrative anxiety, and action against anxiety.
 - [108.祖与占：爱与不爱，巴黎就在那里（耸肩）](sources/108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905.md) — 蜜獾吃书 episode on 《祖与占》 / Jules and Jim, Truffaut, Roche, French New Wave, triangle intimacy, gendered freedom, war rupture, and suspending crude moral judgment.
 - [82.闲聊伟大作家的八卦（第二弹）](sources/82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589.md) — 蜜獾吃书 episode continuing literary gossip through Byron, Balzac, Poe, Agatha Christie, Jack London, author myth deflation, gendered biography, and political contradiction.
 - [74.全球上瘾：啊，咖啡！我黑色的阿波罗！](sources/74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763.md) — 蜜獾吃书 episode on coffee as material history, public drink, coffeehouse public sphere, Enlightenment sociability, French monopoly politics, industrial efficiency, speculation, and Brazil overproduction.
@@ -384,6 +385,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [钱静](entities/QianJing.md) — Workplace-psychology researcher and author using 中庸我, objective self-ownership, and action against anxiety to answer career, family, and selfhood dilemmas.
+- [《我有自己的宇宙》](entities/WoYouZijiDeYuzhou.md) — 钱静 book discussed by 蜜獾吃书 as a practical psychology guide to becoming clearer and more self-directed inside disorder.
 - [Francois Truffaut / 特吕弗](entities/FrancoisTruffaut.md) — French New Wave director whose 《祖与占》 adaptation turns Roche's compressed autobiographical novel into formally light but emotionally severe cinema.
 - [Henri-Pierre Roche / 亨利-皮埃尔·罗什](entities/HenriPierreRoche.md) — Author of 《祖与占》, presented as an elderly autobiographical novelist whose short, telegraphic prose suited Truffaut's New Wave film style.
 - [《祖与占》 / Jules and Jim](entities/JulesAndJim.md) — Film and novel used by episode 108 to examine French New Wave form, triangle intimacy, gendered freedom, war rupture, and moral judgment.
@@ -2379,6 +2382,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Zhongyong Self](concepts/ZhongyongSelf.md) — 钱静's 中庸我 concept: a selfhood pattern balancing relational life with recognized selfhood rather than disappearing into consensus.
+- [Internet Risk-Avoidance Trap](concepts/InternetRiskAvoidanceTrap.md) — Pattern where 避坑/避雷 content edits partial truth into anxiety and substitutes cautionary consensus for personal judgment.
+- [Objective Self-Ownership](concepts/ObjectiveSelfOwnership.md) — Practice of recognizing one's actual conditions without turning them into shame, excuse, or disqualification.
+- [Action Against Anxiety](concepts/ActionAgainstAnxiety.md) — Episode frame for converting anxiety into fit-checking, ability-building, value creation, separation, feedback practices, and concrete next steps.
+- [Adult Independence From Family](concepts/AdultIndependenceFromFamily.md) — Original-family frame of 归因不归罪, physical separation, rent as autonomy cost, and growth through work and adult position.
+- [Macro Narrative Anxiety](concepts/MacroNarrativeAnxiety.md) — Fear state where big economic and social narratives overwhelm individual agency unless grounded by concrete practices and nearby feedback.
 - [French New Wave / 法国新浪潮](concepts/FrenchNewWave.md) — Film movement context for Truffaut and 《祖与占》, where authorial style, movement, discontinuity, and compressed narration carry moral complexity.
 - [Auteur Theory](concepts/AuteurTheory.md) — Film-authorship frame used to read Truffaut's adaptation as a shaped cinematic work rather than a passive transfer from Roche's novel.
 - [Moral Suspension In Art Reading](concepts/MoralSuspensionInArtReading.md) — Temporary discipline of delaying quick approval or condemnation so morally uncomfortable art can first be understood.

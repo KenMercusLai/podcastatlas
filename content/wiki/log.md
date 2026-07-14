@@ -3052,3 +3052,11 @@ Added source page for the 蜜獾吃书 episode on 《祖与占》 / Jules and Ji
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-15] ingest | sp.02 我有自己的宇宙：如何在混沌中做个清醒的行动派
+
+Added source page for the 蜜獾吃书 episode with 钱静 on 《我有自己的宇宙》, 中庸我, 避坑/避雷 information anxiety, civil-service and exam pressure, workplace conflict, original-family independence, macro narrative anxiety, and action against anxiety. Created pages for 钱静, 《我有自己的宇宙》, Zhongyong Self, Internet Risk-Avoidance Trap, Objective Self-Ownership, Action Against Anxiety, Adult Independence From Family, and Macro Narrative Anxiety; updated overview, index, 蜜獾吃书, 秦总, Female Self-Possession, Career Self-Rescue, Career Shore Myth, Information Gap Anxiety, Workplace Relationship Boundaries, Action Defines Identity, and Life Antifragility. No direct contradiction found; the source extends the wiki's life-design branch by grounding selfhood in real-world action, fit, value creation, family distance, and concrete feedback rather than private comfort or online caution.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran health and lint checks. Health passed with no empty/stub files, index drift, or source-log coverage gaps across 3,932 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is unset and no provider API-key variables are present. Report returned in-session; `wiki/lint-report.md` was not saved.

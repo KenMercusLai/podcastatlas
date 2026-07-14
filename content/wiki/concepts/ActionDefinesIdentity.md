@@ -2,8 +2,8 @@
 title: "Action Defines Identity"
 type: concept
 tags: [life-design, decision-making, identity]
-sources: [e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f]
-last_updated: 2026-07-08
+sources: [e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
+last_updated: 2026-07-15
 ---
 
 # Action Defines Identity
@@ -12,6 +12,8 @@ Action defines identity is the episode's closing claim that people are better un
 
 The concept connects the episode's body and risk discussion to life design. A person can talk about freedom, adventure, family, money, creativity, or safety, but the repeated actions taken under fatigue, fear, boredom, uncertainty, and opportunity carry more evidence than the words alone.
 
+[[sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]] adds a psychology-advice version through [[ActionAgainstAnxiety]]. [[QianJing|钱静]] argues that "having oneself" is not proven by private comfort or online expression; it has to be practiced in work, family distance, boss conflict, concrete hobbies, and the willingness to improve ability under real constraints.
+
 ## Key Claims
 - Self-description is weaker evidence than repeated behavior.
 - Meaningful choices are often visible only after a person enters the situation and acts.
@@ -19,6 +21,7 @@ The concept connects the episode's body and risk discussion to life design. A pe
 - A life can be explored like a map: action reveals new terrain and narrows fake choices.
 - Process matters because repeated practices become the person, not just a bridge to future outcomes.
 - Freedom should be judged through lived capacity and chosen constraints, not only through money or status.
+- A self becomes more credible when it survives contact with real-world labor, hierarchy, and uncertainty.
 
 ## Connections
 - [[GuanYadi]] — source voice for the claim.
@@ -27,3 +30,4 @@ The concept connects the episode's body and risk discussion to life design. A pe
 - [[FlowEnvironmentDesign]] — repeated environments make repeated actions more likely.
 - [[ExtremeEnvironmentRiskManagement]] — pressure tests identity claims through concrete choices.
 - [[FinancialFreedomVsLifestyleFreedom]] — adjacent distinction between wealth, autonomy, and chosen life shape.
+- [[QianJing|钱静]], [[ZhongyongSelf]], [[ObjectiveSelfOwnership]], and [[ActionAgainstAnxiety]] - sp.02's action-based selfhood extension.
