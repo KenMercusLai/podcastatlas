@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [62.克拉克森的农场：想不到你是这样的小羊肖恩](sources/62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260.md) — 蜜獾吃书 episode on Clarkson's Farm, Jeremy Clarkson's farm-learning failures, machinery, sheep, pigs, bees, woodland, floods, environmental tradeoffs, and garden birdwatching.
 - [61.自从拥有经济学的思维方式，人生都变简单了！](sources/61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353.md) — 蜜獾吃书 episode with 梁杰 on Paul Heyne's 《经济学的思维方式》, ordinary-reader economics, cost-benefit thinking, opportunity cost, marginal analysis, market coordination, dispersed information, comparative advantage, and subjective value.
 - [60.闲聊伟大作家们的八卦（第一弹）](sources/60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204.md) — 蜜獾吃书 episode using literary gossip to demythologize Wilde, Whitman, Conan Doyle, Tolstoy, Thoreau, Alcott, Woolf, Yeats, Tolkien, and the messy relation between author lives and canonical works.
 - [59.克里特岛：阳光、海龟、神话和二战战场](sources/59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469.md) — 蜜獾吃书 episode using Crete to connect Greek mythology, Minoan archaeology, Knossos, the Battle of Crete, sea-turtle conservation, and island extinction after human arrival.
@@ -362,6 +363,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Jeremy Clarkson](entities/JeremyClarkson.md) — British media figure whose novice-farmer failures in Clarkson's Farm make farm skill, environmental costs, livestock, and public speech limits visible.
+- [《克拉克森的农场》 / Clarkson's Farm](entities/ClarksonsFarm.md) — Television/book case used by episode 62 to connect farming, machinery, livestock, crop policy, land management, and environmental tradeoffs.
+- [Royal Society for the Protection of Birds](entities/RoyalSocietyForProtectionOfBirds.md) — Bird-conservation organization appearing through the garden birdwatch citizen-science activity in the Clarkson farm episode.
 - [Oscar Wilde / 王尔德](entities/OscarWilde.md) — Writer used by episode 60 to connect aesthetic self-fashioning, sexual persecution, bodily suffering, and posthumous reputation change.
 - [Walt Whitman / 惠特曼](entities/WaltWhitman.md) — Poet used by episode 60 to connect sexuality, self-mythology, phrenology, brain donation, and author-image uncertainty.
 - [Arthur Conan Doyle / 柯南道尔](entities/ArthurConanDoyle.md) — Sherlock Holmes creator whose failed medical practice, unwanted detective fame, and spiritualist belief anchor episode 60's rationality-versus-belief contrast.
@@ -2201,6 +2205,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Agricultural Systems Reality](concepts/AgriculturalSystemsReality.md) — Frame for farming as a system of land, machinery, animals, weather, policy, labor, markets, and local tacit knowledge rather than pastoral leisure.
+- [Environmental Tradeoff Accounting](concepts/EnvironmentalTradeoffAccounting.md) — Practice of tracking where environmental-policy costs land across farmers, imports, habitats, species, floods, and maintenance burdens.
+- [Livestock Care Economics](concepts/LivestockCareEconomics.md) — Tension between livestock as production assets and living beings requiring welfare, labor, unprofitable care, and emotional attachment.
 - [Economic Way Of Thinking](concepts/EconomicWayOfThinking.md) — Reasoning style that uses economics to notice order, tradeoffs, costs, incentives, dispersed information, cooperation, and subjective value.
 - [Cost-Benefit Thinking](concepts/CostBenefitThinking.md) — Decision discipline for evaluating expected gains against money, time, energy, alternatives, and side effects.
 - [Opportunity Cost](concepts/OpportunityCost.md) — Value of the best alternative given up by choosing one path over another.

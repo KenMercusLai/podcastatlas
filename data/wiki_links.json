@@ -255,6 +255,10 @@
     "title": "61.自从拥有经济学的思维方式，人生都变简单了！",
     "url": "/wiki/sources/61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353/"
   },
+  "62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260": {
+    "title": "62.克拉克森的农场：想不到你是这样的小羊肖恩",
+    "url": "/wiki/sources/62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260/"
+  },
   "8848": {
     "title": "8848",
     "url": "/wiki/entities/8848/"
@@ -1058,6 +1062,10 @@
   "AgenticWorkflow": {
     "title": "Agentic Workflow",
     "url": "/wiki/concepts/agenticworkflow/"
+  },
+  "AgriculturalSystemsReality": {
+    "title": "Agricultural Systems Reality",
+    "url": "/wiki/concepts/agriculturalsystemsreality/"
   },
   "AirChina": {
     "title": "Air China / 国航",
@@ -2747,6 +2755,10 @@
     "title": "Claire Isabel Webb",
     "url": "/wiki/entities/claireisabelwebb/"
   },
+  "ClarksonsFarm": {
+    "title": "《克拉克森的农场》 / Clarkson's Farm",
+    "url": "/wiki/entities/clarksonsfarm/"
+  },
   "ClassicReadingComplexity": {
     "title": "Classic Reading Complexity",
     "url": "/wiki/concepts/classicreadingcomplexity/"
@@ -4250,6 +4262,10 @@
   "EnvelopeExpansionDeployment": {
     "title": "Envelope Expansion Deployment",
     "url": "/wiki/concepts/envelopeexpansiondeployment/"
+  },
+  "EnvironmentalTradeoffAccounting": {
+    "title": "Environmental Tradeoff Accounting",
+    "url": "/wiki/concepts/environmentaltradeoffaccounting/"
   },
   "EquityCompensationUpside": {
     "title": "Equity Compensation Upside",
@@ -6443,6 +6459,10 @@
     "title": "Jensen Huang",
     "url": "/wiki/entities/jensenhuang/"
   },
+  "JeremyClarkson": {
+    "title": "Jeremy Clarkson",
+    "url": "/wiki/entities/jeremyclarkson/"
+  },
   "JeremyScott": {
     "title": "Jeremy Scott",
     "url": "/wiki/entities/jeremyscott/"
@@ -7314,6 +7334,10 @@
   "LiverpoolFC": {
     "title": "Liverpool FC",
     "url": "/wiki/entities/liverpoolfc/"
+  },
+  "LivestockCareEconomics": {
+    "title": "Livestock Care Economics",
+    "url": "/wiki/concepts/livestockcareeconomics/"
   },
   "LixinAccounting": {
     "title": "立信会计",
@@ -10254,6 +10278,10 @@
   "RoyDisney": {
     "title": "Roy Disney",
     "url": "/wiki/entities/roydisney/"
+  },
+  "RoyalSocietyForProtectionOfBirds": {
+    "title": "Royal Society for the Protection of Birds",
+    "url": "/wiki/entities/royalsocietyforprotectionofbirds/"
   },
   "RuanYisan": {
     "title": "Ruan Yisan / 阮仪三",

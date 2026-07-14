@@ -2875,3 +2875,11 @@ Ran lint after health passed. Health found no empty/stub files, index drift, or 
 ## [2026-07-14] ingest | 61.自从拥有经济学的思维方式，人生都变简单了！
 
 Added source page for the 蜜獾吃书 episode with 梁杰 on Paul Heyne's 《经济学的思维方式》, ordinary-reader economics, cost-benefit thinking, opportunity cost, marginal analysis, market coordination, dispersed information, comparative advantage, and subjective value. Created pages for 梁杰, Paul Heyne / 保罗·海恩, 《经济学的思维方式》 / The Economic Way of Thinking, Adam Smith / 亚当·斯密, Friedrich Hayek / 哈耶克, Economic Way Of Thinking, Cost-Benefit Thinking, Opportunity Cost, Marginal Analysis, Market Coordination, Dispersed Information Problem, Comparative Advantage, and Subjective Value; updated overview, index, 蜜獾吃书, Learning How To Learn, College Major Choice, and Rational Humility. No direct contradiction found; the source extends the wiki's education, reasoning, and life-design branches by adding economics as a practical vocabulary for tradeoffs, local information, cooperation, and decision responsibility.
+
+## [2026-07-14] ingest | 62.克拉克森的农场：想不到你是这样的小羊肖恩
+
+Added source page for the 蜜獾吃书 episode on 《克拉克森的农场》 / Clarkson's Farm, Jeremy Clarkson, farm machinery, sheep, pigs, bees, woodland management, flooding, environmental-policy tradeoffs, and garden birdwatching. Created pages for Jeremy Clarkson, 《克拉克森的农场》 / Clarkson's Farm, Royal Society for the Protection of Birds, Agricultural Systems Reality, Environmental Tradeoff Accounting, and Livestock Care Economics; updated overview, index, 蜜獾吃书, Birdwatching As Attention, Citizen Science, Externality Internalization, Conservation Intervention, and Urban Ecology. No direct contradiction found; the source extends the wiki's animal, ecology, and economics branches by showing how farming exposes hidden costs in both pastoral fantasy and simplified environmental policy.
+
+## [2026-07-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
