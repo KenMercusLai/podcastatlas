@@ -2,7 +2,7 @@
 title: "北明 / 北民"
 type: entity
 tags: [host, podcast, books]
-sources: [178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 42-anduo-fengqi-yu-qingping-zhi-mo-616391638, jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]
+sources: [181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 42-anduo-fengqi-yu-qingping-zhi-mo-616391638, jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]
 last_updated: 2026-07-15
 ---
 
@@ -27,6 +27,8 @@ In episode 60, his role is part of the show's literary-biographical mode. The co
 [[82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589]] continues that literary-biographical mode. His co-host role helps carry the second installment from [[LordByron|Lord Byron / 拜伦]] and [[HonoreDeBalzac|Honore de Balzac / 巴尔扎克]] through [[EdgarAllanPoe|Edgar Allan Poe / 爱伦·坡]], [[AgathaChristie|Agatha Christie / 阿加莎·克里斯蒂]], and [[JackLondon|Jack London / 杰克·伦敦]].
 
 [[63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972]] adds the 北明 spelling in a female-midlife episode. His main contribution is the empathy formulation behind [[EmpathyAsAestheticCapacity]]: if a person does not understand others, they only live their own one life, while understanding others makes life wider and richer.
+
+[[181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261]] adds a small but useful trauma-response example. 北明 recalls being extorted as a child and later carrying a knife in response, which the episode uses to show how childhood fear and shame can push different [[FourFTraumaResponse|4F]] patterns rather than resolving neatly into confidence.
 
 ## Connections
 - [[MihuanChishu|蜜獾吃书]] - show context.

@@ -2,7 +2,7 @@
 title: "Female Self-Possession"
 type: concept
 tags: [women, agency, life-design, self-knowledge]
-sources: [180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038, 184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
+sources: [181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038, 184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
 last_updated: 2026-07-15
 ---
 
@@ -34,6 +34,8 @@ The three hosts show different versions. [[YinJie|殷姐]] is satisfied with the
 
 [[180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611]] completes the Alice case through the trial and waking scene. Alice's self-possession becomes explicit when she stops treating the Queen's court as naturally authoritative, points out the failure of evidence, and finally names the cards as cards.
 
+[[181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261]] adds a trauma-response version through [[QinZong|秦总]] and [[Fawning|《讨好反应》 / Fawning]]. Here self-possession begins less as triumphant confidence than as noticing [[FawnResponse|fawning]], refusing inherited approval rituals, and slowly becoming less governed by elders, leaders, partners, or imagined public judgment.
+
 ## Key Claims
 
 - Self-possession is not the absence of pain or dependency; it is the ability to keep recognizing oneself inside pain, work, family, love, and social expectation.
@@ -45,6 +47,7 @@ The three hosts show different versions. [[YinJie|殷姐]] is satisfied with the
 - Bodily self-possession requires material conditions: accurate knowledge, usable products, public access, and freedom from shame around basic needs.
 - A girl character's self-command can appear inside confusion: Alice's agency comes from continuing to test and adjust rather than already knowing the rules.
 - Self-possession can include the refusal to grant false authority its preferred frame.
+- Trauma can make self-possession start with recognizing that pleasing others was a survival strategy rather than the self's true shape.
 
 ## Connections
 
@@ -61,3 +64,4 @@ The three hosts show different versions. [[YinJie|殷姐]] is satisfied with the
 - [[Ajiao|阿娇 / 柱子哥]], [[ProfessionalDignityBeyondPatientIdentity]], and [[PublicIllnessWriting]] - late-illness extension where agency includes truthful self-recording and refusal of reductive sympathy.
 - [[QianJing|钱静]], [[ZhongyongSelf]], [[ObjectiveSelfOwnership]], and [[ActionAgainstAnxiety]] - practical psychology extension around ambition, work, family, and real-world self-practice.
 - [[MenstrualProductSocialHistory]], [[MenstrualStigma]], [[ItaiTaeko|板井太子]], and [[AnneSanitaryNapkin|安妮卫生巾]] - bodily-infrastructure extension from episode 175.
+- [[FawnResponse]], [[ComplexTraumaRecognition]], and [[UnfawningBoundaryPractice]] - episode 181's trauma-response extension.

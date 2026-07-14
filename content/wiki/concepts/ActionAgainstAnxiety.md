@@ -2,7 +2,7 @@
 title: "Action Against Anxiety"
 type: concept
 tags: [anxiety, agency, life-design, work, self-knowledge]
-sources: [172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
+sources: [181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
 last_updated: 2026-07-15
 ---
 
@@ -14,6 +14,8 @@ The source's action is not only career optimization. It also includes small stab
 
 [[172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860]] adds a luck-oriented action layer. Instead of treating anxiety as a reason to avoid every "雷", the episode asks people to run smaller tests, keep the downside survivable, and let direct experience update fear-based assumptions.
 
+[[181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261]] adds an unfawning action layer. Action can be a small refusal, a boundary sentence, a tolerated failure, or a decision to stop seeking approval from a family ritual or authority figure. This source matters because it shows why action may first provoke shame or panic when anxiety is tied to [[FawnResponse|fawning]].
+
 ## Key Claims
 - Anxiety becomes less total when a person translates it into a next concrete action within their actual range.
 - Action should be grounded in [[ObjectiveSelfOwnership]], not in a fantasy version of the self.
@@ -21,6 +23,7 @@ The source's action is not only career optimization. It also includes small stab
 - Small practices with fast feedback can interrupt [[MacroNarrativeAnxiety]] by returning attention to a specific living process.
 - "Acting" can mean charging forward, letting go, enduring with a goal, leaving, or experimenting; it is not one heroic posture.
 - A small experiment can reduce anxiety by replacing imagined risk with observed feedback.
+- A boundary action may reduce anxiety only after the person survives the fear and sees that the imagined catastrophe does not fully arrive.
 
 ## Connections
 - [[QianJing|钱静]] and [[WoYouZijiDeYuzhou|《我有自己的宇宙》]] - source voice and book.
@@ -29,3 +32,4 @@ The source's action is not only career optimization. It also includes small stab
 - [[LifeAntifragility]] - action design that preserves downside while leaving room for upside.
 - [[CareerShoreMyth]], [[WorkplaceRelationshipBoundaries]], [[AdultIndependenceFromFamily]], and [[MacroNarrativeAnxiety]] - main problem areas where the source applies the action frame.
 - [[LowCostExperimentation]], [[AvailabilityHeuristic]], and [[InternetRiskAvoidanceTrap]] - luck episode's action-against-avoidance extension.
+- [[FawnResponse]], [[UnfawningBoundaryPractice]], and [[ComplexTraumaRecognition]] - episode 181's boundary-action extension.

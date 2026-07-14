@@ -191,6 +191,10 @@
     "title": "180.爱丽丝梦游仙境：世界多荒诞，我也是自己的主宰（下）",
     "url": "/wiki/sources/180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611/"
   },
+  "181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261": {
+    "title": "181.讨好并非你的性格，坚持这么久，辛苦了",
+    "url": "/wiki/sources/181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261/"
+  },
   "184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010": {
     "title": "184.真实于我有万钧之重：欢迎侠女阿娇",
     "url": "/wiki/sources/184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010/"
@@ -3335,6 +3339,10 @@
     "title": "Comparative Advantage",
     "url": "/wiki/concepts/comparativeadvantage/"
   },
+  "ComplexTraumaRecognition": {
+    "title": "Complex Trauma Recognition",
+    "url": "/wiki/concepts/complextraumarecognition/"
+  },
   "ComplianceAutomation": {
     "title": "Compliance Automation",
     "url": "/wiki/concepts/complianceautomation/"
@@ -5047,6 +5055,14 @@
     "title": "Fat-Tail Risk",
     "url": "/wiki/concepts/fattailrisk/"
   },
+  "FawnResponse": {
+    "title": "Fawn Response",
+    "url": "/wiki/concepts/fawnresponse/"
+  },
+  "Fawning": {
+    "title": "《讨好反应》 / Fawning",
+    "url": "/wiki/entities/fawning/"
+  },
   "FeaturePhoneCulturalMemory": {
     "title": "Feature Phone Cultural Memory",
     "url": "/wiki/concepts/featurephoneculturalmemory/"
@@ -5506,6 +5522,10 @@
   "FounderWorkBoundaries": {
     "title": "Founder Work Boundaries",
     "url": "/wiki/concepts/founderworkboundaries/"
+  },
+  "FourFTraumaResponse": {
+    "title": "4F Trauma Response",
+    "url": "/wiki/concepts/fourftraumaresponse/"
   },
   "FourierSpatialEncoding": {
     "title": "Fourier Spatial Encoding",
@@ -6890,6 +6910,10 @@
   "InformedOptimism": {
     "title": "Informed Optimism",
     "url": "/wiki/concepts/informedoptimism/"
+  },
+  "IngridClayton": {
+    "title": "Ingrid Clayton",
+    "url": "/wiki/entities/ingridclayton/"
   },
   "InitializedCapital": {
     "title": "Initialized Capital",
@@ -10363,6 +10387,10 @@
     "title": "Pete Hegseth",
     "url": "/wiki/entities/petehegseth/"
   },
+  "PeteWalker": {
+    "title": "Pete Walker",
+    "url": "/wiki/entities/petewalker/"
+  },
   "PeterAndrews": {
     "title": "Peter Andrews",
     "url": "/wiki/entities/peterandrews/"
@@ -13479,6 +13507,10 @@
     "title": "Translation Publishing Workflow",
     "url": "/wiki/concepts/translationpublishingworkflow/"
   },
+  "TraumaticAttachment": {
+    "title": "Traumatic Attachment",
+    "url": "/wiki/concepts/traumaticattachment/"
+  },
   "TravelBookingHiddenFees": {
     "title": "Travel Booking Hidden Fees",
     "url": "/wiki/concepts/travelbookinghiddenfees/"
@@ -13722,6 +13754,10 @@
   "UnderworldBureaucracy": {
     "title": "Underworld Bureaucracy",
     "url": "/wiki/concepts/underworldbureaucracy/"
+  },
+  "UnfawningBoundaryPractice": {
+    "title": "Unfawning Boundary Practice",
+    "url": "/wiki/concepts/unfawningboundarypractice/"
   },
   "Unicharm": {
     "title": "尤妮佳 / Unicharm",
