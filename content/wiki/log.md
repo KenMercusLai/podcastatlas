@@ -3236,3 +3236,11 @@ Added source page for the 起朱楼宴宾客 episode where 大卫翁 asks Siri a
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-15] ingest | vol.108.日本五大综合商社：重返舞台中央
+
+Added source page for the 起朱楼宴宾客 episode on Japanese sogo shosha, the five major trading companies, keiretsu business groups, trading-company business investment, low-equity commercial rights, and the source's speculative deglobalization trade-intermediation thesis behind renewed attention to the sector. Created pages for Mitsubishi Corporation, Mitsui & Co., Itochu, Sumitomo Corporation, Marubeni, FamilyMart, Toyota, Japanese Sogo Shosha, Keiretsu Business Groups, Trading Company Investment Model, Low-Equity Commercial Rights, and Deglobalization Trade Intermediation; updated overview, index, 起朱楼宴宾客, 大卫翁, Japan, China, Warren Buffett, Berkshire Hathaway, and Long-Distance Trade Friction. No direct contradiction found; the source complements existing Buffett/Berkshire and trade-friction branches while keeping Buffett's deglobalization motive as conjecture rather than confirmed intent.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 4,225 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider key variables are present in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.

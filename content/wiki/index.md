@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [vol.108.日本五大综合商社：重返舞台中央](sources/vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq.md) — 起朱楼宴宾客 episode on Japanese sogo shosha, the five major trading companies, keiretsu, business investment, low-equity commercial rights, and why deglobalization may restore intermediary value.
 - [vol.107.85后提问95后：如果事情不需要做选择，那我就装尸体旁观](sources/vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa.md) — 起朱楼宴宾客 episode with 大卫翁 and Siri on 95后 attention boundaries, youth "corpse mode", work-life separation, controllable life anchors, finance-career judgment, and relationship optionality.
 - [vol.106.迪拜，真的遍地是黄金？](sources/vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8.md) — 起朱楼宴宾客 episode on Dubai and Abu Dhabi as business, capital-flow, real-estate, golden-visa, crypto, high-end-service, and Chinese outbound-market opportunity cases, with strong due-diligence caveats.
 - [vol.105.如何判断一个投资组合是否适合自己？](sources/vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe.md) — 起朱楼宴宾客 episode on portfolio suitability, adaptive allocation, personal goals, competence boundaries, drawdown tolerance, liquidity, and cooldown rules for ordinary investors.
@@ -407,6 +408,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Mitsubishi Corporation / 三菱商事](entities/MitsubishiCorporation.md) — Japanese sogo shosha used by vol.108 as a food-supply-chain and keiretsu-linked trading-company infrastructure case.
+- [Mitsui & Co. / 三井物产](entities/MitsuiAndCo.md) — Japanese sogo shosha used by vol.108 to explain steel-chain integration, metals/energy diversification, and commercial information networks.
+- [Itochu / 伊藤忠商事](entities/Itochu.md) — Japanese sogo shosha with textile and retail roots, China-trade history, sanpo-yoshi ethics, and the FamilyMart integration case.
+- [Sumitomo Corporation / 住友商事](entities/SumitomoCorporation.md) — Japanese sogo shosha from the older Sumitomo lineage, used by vol.108 for diversification and keiretsu context.
+- [Marubeni / 丸红](entities/Marubeni.md) — Japanese sogo shosha used by vol.108 to show diversified copper, coffee, agriculture, forestry, and auto-supply-chain coordination.
+- [FamilyMart / 全家便利店](entities/FamilyMart.md) — Convenience-store chain used by vol.108 as Itochu's downstream supply-chain integration case.
+- [Toyota / 丰田](entities/Toyota.md) — Manufacturer used by vol.108 as a vertical keiretsu example distinct from bank-centered trading-company groups.
 - [Siri (起朱楼宴宾客)](entities/SiriQizhulou.md) — 95后 speaker in vol.107, explaining youth "corpse mode", choice-triggered attention, controllable life anchors, and relationship optionality.
 - [Dubai / 迪拜](entities/Dubai.md) — UAE commercial hub discussed by vol.106 through low tax, international population flow, property demand, crypto services, logistics, and due-diligence risk.
 - [Abu Dhabi / 阿布扎比](entities/AbuDhabi.md) — UAE capital and oil/resource center contrasted with Dubai's commercial and private-capital-facing model in vol.106.
@@ -2537,6 +2545,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Japanese Sogo Shosha / 日本综合商社](concepts/JapaneseSogoShosha.md) — Japanese general trading-company model combining trade, financing, information, logistics, investment, global offices, and long-term supply-chain relationships.
+- [Keiretsu Business Groups / 系列](concepts/KeiretsuBusinessGroups.md) — Japanese business-group networks of banks, trading companies, manufacturers, insurers, cross-shareholding, and long-term relationships.
+- [Trading Company Investment Model](concepts/TradingCompanyInvestmentModel.md) — Shift from pure trade margin to business investment, supply-chain coordination, commercial access, and stable operating returns.
+- [Low-Equity Commercial Rights](concepts/LowEquityCommercialRights.md) — Minority-stake and relationship-first overseas investment logic where commercial access matters more than outright control.
+- [Deglobalization Trade Intermediation](concepts/DeglobalizationTradeIntermediation.md) — Source-level thesis that trusted intermediaries regain value when trade rules, supply chains, and geopolitics raise transaction costs.
 - [Choice-Triggered Attention Boundary](concepts/ChoiceTriggeredAttentionBoundary.md) — Vol.107 frame for why youth attention rises when a present choice or near-term action is required, and drops when macro topics offer little action space.
 - [Controllable Life Anchors](concepts/ControllableLifeAnchors.md) — Repeatable practices such as baking, deep reading, travel, and exercise that restore feedback and calm when work, status, or macro narratives feel unstable.
 - [Relationship Optionality](concepts/RelationshipOptionality.md) — Vol.107 frame for romance, marriage, and childbirth as optional choices shaped by negative lists, reversibility, gendered choice expansion, and relationship costs.

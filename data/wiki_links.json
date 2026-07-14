@@ -4155,6 +4155,10 @@
     "title": "Defensive Dividend Assets",
     "url": "/wiki/concepts/defensivedividendassets/"
   },
+  "DeglobalizationTradeIntermediation": {
+    "title": "Deglobalization Trade Intermediation",
+    "url": "/wiki/concepts/deglobalizationtradeintermediation/"
+  },
   "DelcyRodriguez": {
     "title": "Delcy Rodriguez",
     "url": "/wiki/entities/delcyrodriguez/"
@@ -5170,6 +5174,10 @@
   "FamilyLaborBoundaries": {
     "title": "Family Labor Boundaries",
     "url": "/wiki/concepts/familylaborboundaries/"
+  },
+  "FamilyMart": {
+    "title": "FamilyMart / 全家便利店",
+    "url": "/wiki/entities/familymart/"
   },
   "FamilyProtectionInsurancePlanning": {
     "title": "Family Protection Insurance Planning",
@@ -7383,6 +7391,10 @@
     "title": "板井太子",
     "url": "/wiki/entities/itaitaeko/"
   },
+  "Itochu": {
+    "title": "Itochu / 伊藤忠商事",
+    "url": "/wiki/entities/itochu/"
+  },
   "IvyLeagueMeritocracy": {
     "title": "Ivy League Meritocracy",
     "url": "/wiki/concepts/ivyleaguemeritocracy/"
@@ -7494,6 +7506,10 @@
   "JapaneseLostDecades": {
     "title": "Japanese Lost Decades",
     "url": "/wiki/concepts/japaneselostdecades/"
+  },
+  "JapaneseSogoShosha": {
+    "title": "Japanese Sogo Shosha / 日本综合商社",
+    "url": "/wiki/concepts/japanesesogoshosha/"
   },
   "JaredKushner": {
     "title": "Jared Kushner",
@@ -7962,6 +7978,10 @@
   "KeirStarmer": {
     "title": "Keir Starmer",
     "url": "/wiki/entities/keirstarmer/"
+  },
+  "KeiretsuBusinessGroups": {
+    "title": "Keiretsu Business Groups / 系列",
+    "url": "/wiki/concepts/keiretsubusinessgroups/"
   },
   "KeithGill": {
     "title": "Keith Gill",
@@ -8739,6 +8759,10 @@
     "title": "Low-Cost Experimentation",
     "url": "/wiki/concepts/lowcostexperimentation/"
   },
+  "LowEquityCommercialRights": {
+    "title": "Low-Equity Commercial Rights",
+    "url": "/wiki/concepts/lowequitycommercialrights/"
+  },
   "LowFireLaborMarket": {
     "title": "Low-Fire Labor Market",
     "url": "/wiki/concepts/lowfirelabormarket/"
@@ -9110,6 +9134,10 @@
   "MartinPeterson": {
     "title": "Martin Peterson",
     "url": "/wiki/entities/martinpeterson/"
+  },
+  "Marubeni": {
+    "title": "Marubeni / 丸红",
+    "url": "/wiki/entities/marubeni/"
   },
   "MaryAnnNichols": {
     "title": "Mary Ann Nichols",
@@ -9550,6 +9578,14 @@
   "MissionFocusedCompany": {
     "title": "Mission-Focused Company",
     "url": "/wiki/concepts/missionfocusedcompany/"
+  },
+  "MitsubishiCorporation": {
+    "title": "Mitsubishi Corporation / 三菱商事",
+    "url": "/wiki/entities/mitsubishicorporation/"
+  },
+  "MitsuiAndCo": {
+    "title": "Mitsui & Co. / 三井物产",
+    "url": "/wiki/entities/mitsuiandco/"
   },
   "MitsumiElectric": {
     "title": "三美电机",
@@ -13327,6 +13363,10 @@
     "title": "Sufi Image Legitimacy",
     "url": "/wiki/concepts/sufiimagelegitimacy/"
   },
+  "SumitomoCorporation": {
+    "title": "Sumitomo Corporation / 住友商事",
+    "url": "/wiki/entities/sumitomocorporation/"
+  },
   "SummerFoundersProgram": {
     "title": "Summer Founders Program",
     "url": "/wiki/entities/summerfoundersprogram/"
@@ -13959,6 +13999,10 @@
     "title": "Toy Story 5",
     "url": "/wiki/entities/toystory5/"
   },
+  "Toyota": {
+    "title": "Toyota / 丰田",
+    "url": "/wiki/entities/toyota/"
+  },
   "TractionTools": {
     "title": "Traction Tools",
     "url": "/wiki/entities/tractiontools/"
@@ -13970,6 +14014,10 @@
   "TradeReciprocityProtectionism": {
     "title": "Trade Reciprocity Protectionism",
     "url": "/wiki/concepts/tradereciprocityprotectionism/"
+  },
+  "TradingCompanyInvestmentModel": {
+    "title": "Trading Company Investment Model",
+    "url": "/wiki/concepts/tradingcompanyinvestmentmodel/"
   },
   "TrainedIntuition": {
     "title": "Trained Intuition",
@@ -16738,6 +16786,10 @@
   "vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa": {
     "title": "vol.107.85后提问95后：如果事情不需要做选择，那我就装尸体旁观",
     "url": "/wiki/sources/vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa/"
+  },
+  "vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq": {
+    "title": "vol.108.日本五大综合商社：重返舞台中央",
+    "url": "/wiki/sources/vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq/"
   },
   "vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu": {
     "title": "Vol.113 从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络",
