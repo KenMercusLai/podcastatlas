@@ -191,6 +191,10 @@
     "title": "40.平面国：禁止染色/女人危险/向上不是向北！",
     "url": "/wiki/sources/40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366/"
   },
+  "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038": {
+    "title": "41.施剑翘复仇案：超越哈贝马斯的情与法",
+    "url": "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  },
   "42Zhangjing": {
     "title": "42章经",
     "url": "/wiki/entities/42zhangjing/"
@@ -2619,6 +2623,10 @@
     "title": "Chengmai Technology",
     "url": "/wiki/entities/chengmaitechnology/"
   },
+  "ChiangKaiShek": {
+    "title": "Chiang Kai-shek / 蒋介石",
+    "url": "/wiki/entities/chiangkaishek/"
+  },
   "ChildOnlineCommerceSafety": {
     "title": "Child Online Commerce Safety",
     "url": "/wiki/concepts/childonlinecommercesafety/"
@@ -4651,6 +4659,10 @@
     "title": "疯投圈",
     "url": "/wiki/entities/fengtouquan/"
   },
+  "FengYuxiang": {
+    "title": "Feng Yuxiang / 冯玉祥",
+    "url": "/wiki/entities/fengyuxiang/"
+  },
   "FengyanFengyu": {
     "title": "枫言枫语",
     "url": "/wiki/entities/fengyanfengyu/"
@@ -4678,6 +4690,10 @@
   "FilialPietyLaws": {
     "title": "Filial Piety Laws",
     "url": "/wiki/concepts/filialpietylaws/"
+  },
+  "FilialRevengePublicSympathy": {
+    "title": "Filial Revenge Public Sympathy",
+    "url": "/wiki/concepts/filialrevengepublicsympathy/"
   },
   "FinallySomethingGood": {
     "title": "Finally Something Good",
@@ -5298,6 +5314,10 @@
   "GenderedAgeAnxiety": {
     "title": "Gendered Age Anxiety",
     "url": "/wiki/concepts/genderedageanxiety/"
+  },
+  "GenderedNationalistHeroism": {
+    "title": "Gendered Nationalist Heroism",
+    "url": "/wiki/concepts/genderednationalistheroism/"
   },
   "GeneralMills": {
     "title": "General Mills",
@@ -6859,6 +6879,10 @@
     "title": "卓越网 / Amazon China",
     "url": "/wiki/entities/joyoamazonchina/"
   },
+  "JudicialIndependencePublicOpinion": {
+    "title": "Judicial Independence And Public Opinion",
+    "url": "/wiki/concepts/judicialindependencepublicopinion/"
+  },
   "JulianWeber": {
     "title": "Julian Weber",
     "url": "/wiki/entities/julianweber/"
@@ -6870,6 +6894,10 @@
   "JumillaCF": {
     "title": "胡米利亚足球俱乐部 / Jumilla CF",
     "url": "/wiki/entities/jumillacf/"
+  },
+  "JurgenHabermas": {
+    "title": "Jürgen Habermas / 哈贝马斯",
+    "url": "/wiki/entities/jurgenhabermas/"
   },
   "JusticeAndDevelopmentParty": {
     "title": "Justice and Development Party",
@@ -9215,6 +9243,10 @@
     "title": "Paramount",
     "url": "/wiki/entities/paramount/"
   },
+  "PardonAsStatePower": {
+    "title": "Pardon As State Power",
+    "url": "/wiki/concepts/pardonasstatepower/"
+  },
   "PareshDave": {
     "title": "Paresh Dave",
     "url": "/wiki/entities/pareshdave/"
@@ -9778,6 +9810,10 @@
   "PrivateRegulatoryPower": {
     "title": "Private Regulatory Power",
     "url": "/wiki/concepts/privateregulatorypower/"
+  },
+  "PrivateRevengeModernLaw": {
+    "title": "Private Revenge And Modern Law",
+    "url": "/wiki/concepts/privaterevengemodernlaw/"
   },
   "ProactiveAgents": {
     "title": "Proactive Agents",
@@ -10851,6 +10887,10 @@
     "title": "Semiotic Detective Fiction",
     "url": "/wiki/concepts/semioticdetectivefiction/"
   },
+  "SensationalMediaPublicSphere": {
+    "title": "Sensational Media Public Sphere",
+    "url": "/wiki/concepts/sensationalmediapublicsphere/"
+  },
   "SenseTime": {
     "title": "SenseTime",
     "url": "/wiki/entities/sensetime/"
@@ -11010,6 +11050,18 @@
   "SherylSandberg": {
     "title": "Sheryl Sandberg",
     "url": "/wiki/entities/sherylsandberg/"
+  },
+  "ShiCongbin": {
+    "title": "Shi Congbin / 施从斌",
+    "url": "/wiki/entities/shicongbin/"
+  },
+  "ShiJianqiao": {
+    "title": "Shi Jianqiao / 施剑翘",
+    "url": "/wiki/entities/shijianqiao/"
+  },
+  "ShiJianqiaoRevengeCase": {
+    "title": "Shi Jianqiao Revenge Case",
+    "url": "/wiki/concepts/shijianqiaorevengecase/"
   },
   "ShiYiZhiCiZouBaoxian": {
     "title": "《事已至此，走保险》",
@@ -11670,6 +11722,10 @@
   "SummerFoundersProgram": {
     "title": "Summer Founders Program",
     "url": "/wiki/entities/summerfoundersprogram/"
+  },
+  "SunChuanfang": {
+    "title": "Sun Chuanfang / 孙传芳",
+    "url": "/wiki/entities/sunchuanfang/"
   },
   "SunZhonghuai": {
     "title": "孙忠怀 / Sun Zhonghuai",

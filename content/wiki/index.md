@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [41.施剑翘复仇案：超越哈贝马斯的情与法](sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038.md) — 蜜獾吃书 episode on the Shi Jianqiao revenge case, Sun Chuanfang, filial revenge, sensational Republican-era media, public opinion, judicial independence, special pardon politics, and gendered nationalist heroism.
 - [40.平面国：禁止染色/女人危险/向上不是向北！](sources/40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366.md) — 蜜獾吃书 episode with 秦总 and translator 菲比 on 《平面国》 / Flatland, dimensional allegory, geometric gender/class hierarchy, color as identity disruption, and reading as perspective expansion.
 - [39.哲学家与狼：在朗格多克永恒的夏天](sources/39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065.md) — 蜜獾吃书 episode on 《哲学家与狼》, Mark Rowlands, Brenin, wolf/dog/human intelligence, civilization as deception, evil as responsibility failure, loyalty beyond contract, companion illness, death, and the Languedoc summer.
 - [假期摸鱼更健康](sources/jiaqi-moyu-geng-jiankang-574391976.md) — 蜜獾吃书 holiday interval on Dali life, restorative "moyu", the show's first half-year, story-based empathy, and future topics including 《盛世的崩塌》, 《绿色星球》, Zelazny, and Fukuyama.
@@ -369,6 +370,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Shi Jianqiao / 施剑翘](entities/ShiJianqiao.md) — Central actor in the 1935 revenge case, read through filial revenge, media staging, courtroom performance, pardon, and later patriotic self-rewriting.
+- [Sun Chuanfang / 孙传芳](entities/SunChuanfang.md) — Warlord killed by Shi Jianqiao, whose prior execution and humiliation of Shi Congbin shaped the case's public morality.
+- [Shi Congbin / 施从斌](entities/ShiCongbin.md) — Shi Jianqiao's father, whose execution and head-display became the emotional basis of the revenge claim.
+- [Feng Yuxiang / 冯玉祥](entities/FengYuxiang.md) — Military-political figure linked by the episode to Shi Jianqiao's pardon and patriotic image politics.
+- [Chiang Kai-shek / 蒋介石](entities/ChiangKaiShek.md) — Nationalist leader appearing through executive pardon and wartime aircraft-donation recognition in the Shi Jianqiao episode.
+- [Jürgen Habermas / 哈贝马斯](entities/JurgenHabermas.md) — Public-sphere theorist used as the episode's foil for thinking about sensational, emotional publicness.
 - [《平面国》 / Flatland](entities/Flatland.md) — Edwin Abbott classic read by episode 40 as mathematical science fiction, social satire, dimensional allegory, and a publishing/translation case.
 - [Edwin A. Abbott / 爱德温·爱伯特](entities/EdwinAbbott.md) — Author of 《平面国》, framed by episode 40 through mathematics, theology, satire, and author-character separation.
 - [菲比](entities/FeiBi.md) — Translator and episode 40 guest discussing 《平面国》 with 秦总 through text, author background, publication, and reading access.
@@ -2246,6 +2253,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Shi Jianqiao Revenge Case](concepts/ShiJianqiaoRevengeCase.md) — Event cluster around the 1935 assassination, trial, public sympathy, media remaking, and pardon.
+- [Sensational Media Public Sphere](concepts/SensationalMediaPublicSphere.md) — Popular crime news, theater, fiction, melodrama, and gossip as politically meaningful publicness beyond narrow rational debate.
+- [Private Revenge And Modern Law](concepts/PrivateRevengeModernLaw.md) — Conflict between filial/private vengeance and the modern state's claim over punishment and legal order.
+- [Filial Revenge Public Sympathy](concepts/FilialRevengePublicSympathy.md) — How daughterly revenge for a humiliated father became a morally compelling public narrative.
+- [Judicial Independence And Public Opinion](concepts/JudicialIndependencePublicOpinion.md) — Legal-professional anxiety that sympathy, media pressure, and party-state power would weaken courts.
+- [Pardon As State Power](concepts/PardonAsStatePower.md) — Executive clemency as both public-emotion management and assertion of sovereignty over courts.
+- [Gendered Nationalist Heroism](concepts/GenderedNationalistHeroism.md) — Recasting Shi Jianqiao from filial daughter into modern woman, revenge heroine, and patriotic mobilization symbol.
 - [Dimensional Allegory](concepts/DimensionalAllegory.md) — Literary use of geometric dimensions to make cognition, authority, theology, and social order visible.
 - [Geometric Social Hierarchy](concepts/GeometricSocialHierarchy.md) — Flatland frame where shape encodes gender, class, danger, status recognition, and social control.
 - [Color As Identity Disruption](concepts/ColorAsIdentityDisruption.md) — Pattern where dye/color threatens a status order built on visual recognition and provokes repression and language control.

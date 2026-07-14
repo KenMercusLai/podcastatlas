@@ -2,7 +2,7 @@
 title: "Female Self-Possession"
 type: concept
 tags: [women, agency, life-design, self-knowledge]
-sources: [63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655]
+sources: [63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038]
 last_updated: 2026-07-14
 ---
 
@@ -17,6 +17,8 @@ The three hosts show different versions. [[YinJie|殷姐]] is satisfied with the
 [[156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198]] adds a much harsher boundary case through [[HadiyaHaidari|哈迪亚·海达里]] and [[YiGeAfuhanNvrenDeLaixin|《一个阿富汗女人的来信》]]. Here self-possession is not abundant choice or lifestyle preference; it can mean continuing to write, teach, reflect, speak, or protect other women under [[ProtectionAsControl]] and [[WarGenderedCivilianHarm]].
 
 [[tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655]] adds an observer-writer case through [[FuyouZhishang|《蜉蝣直上》]]. The episode praises [[Xiaojia|小佳]]'s women characters because 阿嬷, his mother, 阿花, neighbors, and women friends are not flattened into virtue or suffering; they are traditional, principled, jealous, brave, wounded, caring, or self-directed in different combinations.
+
+[[41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038]] adds a much sharper historical boundary case through [[ShiJianqiao]]. The episode does not treat her as a clean empowerment icon: her agency is entangled with [[FilialRevengePublicSympathy]], violence, media staging, court performance, state pardon, and [[GenderedNationalistHeroism]]. It still matters here because the source shows a woman actively shaping her public meaning inside family duty, law, nationalism, and political danger.
 
 ## Key Claims
 
@@ -36,3 +38,4 @@ The three hosts show different versions. [[YinJie|殷姐]] is satisfied with the
 - [[CareerSelfRescue]], [[SelfDirectedWork]], and [[NoBetterLife]] - adjacent agency and life-practice frames.
 - [[HadiyaHaidari|哈迪亚·海达里]], [[ProtectionAsControl]], and [[WarGenderedCivilianHarm]] - constrained-agency extension from the Afghanistan source.
 - [[FuyouZhishang|《蜉蝣直上》]] and [[MinnanFamilyWriting]] - contemporary nonfiction extension into complex women in family and regional life.
+- [[ShiJianqiao]], [[FilialRevengePublicSympathy]], and [[GenderedNationalistHeroism]] - Republican-era extension where female agency is inseparable from violence, public sympathy, and state politics.

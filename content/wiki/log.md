@@ -2932,3 +2932,11 @@ Added source page for the 蜜獾吃书 episode with 秦总 and translator 菲比
 ## [2026-07-14] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 3,714 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-14] ingest | 41.施剑翘复仇案：超越哈贝马斯的情与法
+
+Added source page for the 蜜獾吃书 episode on the Shi Jianqiao revenge case, Sun Chuanfang, filial revenge, sensational Republican-era media, law and emotion, judicial independence, special pardon politics, and gendered nationalist heroism. Created pages for Shi Jianqiao, Sun Chuanfang, Shi Congbin, Feng Yuxiang, Chiang Kai-shek, Jürgen Habermas, Shi Jianqiao Revenge Case, Sensational Media Public Sphere, Private Revenge And Modern Law, Filial Revenge Public Sympathy, Judicial Independence And Public Opinion, Pardon As State Power, and Gendered Nationalist Heroism; updated overview, index, 蜜獾吃书, Nationalist Government, Filial Piety Laws, and Female Self-Possession. No direct contradiction found; claims about public sympathy, feminist meaning, state calculation, and Habermasian publicness are kept as source-scoped interpretations.
+
+## [2026-07-14] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 3,728 pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified. Report returned in-session; `wiki/lint-report.md` was not saved.

@@ -2,8 +2,8 @@
 title: "Filial Piety Laws"
 type: concept
 tags: [law, family, ageing, social-policy]
-sources: [peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]
-last_updated: 2026-07-09
+sources: [peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, 41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038]
+last_updated: 2026-07-14
 ---
 
 # Filial Piety Laws
@@ -13,6 +13,8 @@ Filial piety laws are rules that make adult children legally or financially resp
 The concept matters because it turns a cultural norm into state enforcement. The episode says Telangana can transfer up to 15% of an adult child's salary to neglected parents, Singapore and China passed earlier versions in the 1990s, and some newer proposals move from civil enforcement toward criminal punishment.
 
 The source is skeptical of punishment as the main answer. It argues that rapid ageing, urban migration, weak nursing-home systems, high child-rearing costs, and separated families create an [[ElderCareStateCapacity]] problem that courts cannot solve alone.
+
+[[41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038]] adds an adjacent historical contrast rather than another filial-law example. The [[ShiJianqiaoRevengeCase]] concerns [[FilialRevengePublicSympathy]], where filial feeling helped make private revenge publicly sympathetic; this differs from elder-care statutes but shows another route by which filial duty can become legally and politically consequential.
 
 ## Key Claims
 - Filial piety can function as informal social policy, but law changes the balance between family duty and state responsibility.
@@ -26,3 +28,4 @@ The source is skeptical of punishment as the main answer. It argues that rapid a
 - [[Telangana]], [[India]], [[Singapore]], [[China]], [[SouthKorea]], [[Japan]], [[Malaysia]], and [[Philippines]] - source cases and comparison countries.
 - [[MarriageExitFriction]] and [[JointCustodyReform]] - adjacent family-law concepts where states use law to reshape family obligations.
 - [[TheIntelligence]] - source podcast context.
+- [[FilialRevengePublicSympathy]] and [[PrivateRevengeModernLaw]] - adjacent Republican-era case where filial duty affects public judgment around violence rather than elder care.
