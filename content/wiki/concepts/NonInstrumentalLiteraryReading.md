@@ -2,7 +2,7 @@
 title: "Non-Instrumental Literary Reading"
 type: concept
 tags: [reading, literature, fiction, attention]
-sources: [60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
+sources: [64-bawangbieji-fengmo-yu-chenghuo-656094350, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, 58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
 last_updated: 2026-07-14
 ---
 
@@ -36,6 +36,8 @@ This concept specializes [[NonInstrumentalUnderstanding]] for literature. It als
 
 [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]] adds a literary-biography version. The episode's gossip is not defended as scholarship or direct utility; its value is experiential, making canonical writers feel like historically situated, embodied people. [[LiteraryGossipAsContext]] and [[AuthorMythDeflation]] help preserve that value without replacing literature with scandal.
 
+[[64-bawangbieji-fengmo-yu-chenghuo-656094350]] adds a film-and-opera version through [[FarewellMyConcubine|《霸王别姬》]]. The episode's value is not a plot summary of the film; it is the experience of seeing how role, body, love, art, survival, public confession, and historical pressure keep transforming one another.
+
 ## Key Claims
 - Fiction can be valuable because it lets a reader experience lives, worlds, and moral situations they could not otherwise enter.
 - A book that leaves no clean takeaway can still have been a meaningful experience.
@@ -48,6 +50,7 @@ This concept specializes [[NonInstrumentalUnderstanding]] for literature. It als
 - Ordinary illustrated life-writing can be literary companionship even when its scenes look too small to count as major claims.
 - A mystery can be non-instrumental when the real value is the experience of interpretive uncertainty rather than only the final solution.
 - Literary biography can be non-instrumental when it restores historical texture and human complexity rather than producing a clean moral score.
+- A film or opera-centered work can be non-instrumental when repeated viewing reveals performance pressure, bodily memory, and moral ambiguity rather than delivering a transferable lesson.
 
 ## Connections
 - [[NonInstrumentalUnderstanding]] - broader concept for knowledge that is not immediately utility-driven.
@@ -67,3 +70,4 @@ This concept specializes [[NonInstrumentalUnderstanding]] for literature. It als
 - [[Matilda|《马蒂尔达》]], [[AntiAuthoritarianEducation]], and [[RedPenLogic]] - episode 160's extension into literature as resistance to score-centered education.
 - [[CanticleForLeibowitz|《莱博维茨的赞歌》 / A Canticle for Leibowitz]], [[ApocalypticLiterarySymbolism]], and [[PainAndMoralResponsibility]] - episode 03's extension into religious science fiction and civilizational moral inquiry.
 - [[LiteraryGossipAsContext]], [[AuthorMythDeflation]], and [[OccultPseudoscienceLiteraryModernity]] - episode 60's extension into author lives, gossip, and belief systems as literary experience.
+- [[FarewellMyConcubine|《霸王别姬》]], [[RoleLifeCollapse]], [[GenderPerformanceAndTrauma]], and [[ArtDignityUnderPoliticalPressure]] - episode 64's extension into film, opera, and performance as literary experience.

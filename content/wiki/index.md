@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [64.霸王别姬：疯魔与成活](sources/64-bawangbieji-fengmo-yu-chenghuo-656094350.md) — 蜜獾吃书 episode on 《霸王别姬》, 芦苇, 陈凯歌, 《封神》, Cheng Dieyi, Duan Xiaolou, Juxian, role-life collapse, troupe discipline, gender performance, art dignity, coerced denunciation, and film/novel ending ethics.
 - [63.我的30+下半程，答案若隐若现](sources/63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972.md) — 蜜獾吃书 episode on female midlife, gendered age anxiety, marriage pressure, career self-rescue, 角田光代's 《37》, information-gap anxiety, and empathy as age's gift.
 - [62.克拉克森的农场：想不到你是这样的小羊肖恩](sources/62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260.md) — 蜜獾吃书 episode on Clarkson's Farm, Jeremy Clarkson's farm-learning failures, machinery, sheep, pigs, bees, woodland, floods, environmental tradeoffs, and garden birdwatching.
 - [61.自从拥有经济学的思维方式，人生都变简单了！](sources/61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353.md) — 蜜獾吃书 episode with 梁杰 on Paul Heyne's 《经济学的思维方式》, ordinary-reader economics, cost-benefit thinking, opportunity cost, marginal analysis, market coordination, dispersed information, comparative advantage, and subjective value.
@@ -364,6 +365,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《霸王别姬》 / Farewell My Concubine](entities/FarewellMyConcubine.md) — Film read by episode 64 through Peking-opera role formation, love, betrayal, art dignity, political pressure, and adaptation ending contrast.
+- [芦苇 / Lu Wei](entities/LuWeiScreenwriter.md) — Screenwriter figure linking 《封神》 and 《霸王别姬》 in episode 64's discussion of tyranny, public confession, and historical pressure.
+- [陈凯歌 / Chen Kaige](entities/ChenKaige.md) — Director of 《霸王别姬》, discussed through actor control, performance, father-son resonance, and historical trauma.
+- [《封神》 / Creation of the Gods](entities/CreationOfTheGodsI.md) — Opening comparison for episode 64 around King Zhou, Daji, Ji Chang, father-son violence, and forced confession.
+- [程蝶衣 / Cheng Dieyi](entities/ChengDieyi.md) — 《霸王别姬》 character whose transformation from Xiaodouzi anchors role-life collapse, gender performance, and art dignity under pressure.
+- [段小楼 / Duan Xiaolou](entities/DuanXiaolou.md) — 《霸王别姬》 character read as a compromised or false overlord whose survival bends into betrayal.
+- [菊仙 / Juxian](entities/Juxian.md) — 《霸王别姬》 character read as more than a love-triangle obstacle, carrying survival intelligence and the collapse of human support.
+- [小四 / Xiao Si](entities/XiaoSiFarewellMyConcubine.md) — 《霸王别姬》 character whose adoption of new political language turns him from rescued child and student into opportunistic role-seizer.
 - [Jeremy Clarkson](entities/JeremyClarkson.md) — British media figure whose novice-farmer failures in Clarkson's Farm make farm skill, environmental costs, livestock, and public speech limits visible.
 - [《克拉克森的农场》 / Clarkson's Farm](entities/ClarksonsFarm.md) — Television/book case used by episode 62 to connect farming, machinery, livestock, crop policy, land management, and environmental tradeoffs.
 - [Royal Society for the Protection of Birds](entities/RoyalSocietyForProtectionOfBirds.md) — Bird-conservation organization appearing through the garden birdwatch citizen-science activity in the Clarkson farm episode.
@@ -2208,6 +2217,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Role-Life Collapse](concepts/RoleLifeCollapse.md) — Pattern where performed role, identity, love, body, and survival strategy become inseparable, added through 《霸王别姬》.
+- [Troupe Discipline As Identity Formation](concepts/TroupeDisciplineAsIdentityFormation.md) — Frame for artistic apprenticeship remaking children through bodily control, punishment, and submission.
+- [Gender Performance And Trauma](concepts/GenderPerformanceAndTrauma.md) — Pattern where gendered role performance is formed through coercion, pain, and social demand.
+- [Art Dignity Under Political Pressure](concepts/ArtDignityUnderPoliticalPressure.md) — Conflict between art as demanding value and art as something made to bend to authority, ideology, audience, or survival.
+- [Coerced Denunciation](concepts/CoercedDenunciation.md) — Forced public confession, betrayal, or accusation that proves submission and turns private relationships into evidence.
+- [Adaptation Ending Ethics](concepts/AdaptationEndingEthics.md) — Question of how changed endings alter a work's moral and emotional meaning.
 - [Agricultural Systems Reality](concepts/AgriculturalSystemsReality.md) — Frame for farming as a system of land, machinery, animals, weather, policy, labor, markets, and local tacit knowledge rather than pastoral leisure.
 - [Environmental Tradeoff Accounting](concepts/EnvironmentalTradeoffAccounting.md) — Practice of tracking where environmental-policy costs land across farmers, imports, habitats, species, floods, and maintenance burdens.
 - [Livestock Care Economics](concepts/LivestockCareEconomics.md) — Tension between livestock as production assets and living beings requiring welfare, labor, unprofitable care, and emotional attachment.

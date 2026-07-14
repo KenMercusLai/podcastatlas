@@ -2892,3 +2892,11 @@ Added source page for the 蜜獾吃书 episode on female midlife, gendered age a
 ## [2026-07-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-14] ingest | 64.霸王别姬：疯魔与成活
+
+Added source page for the 蜜獾吃书 episode on 《霸王别姬》, 芦苇, 陈凯歌, 《封神》, Cheng Dieyi, Duan Xiaolou, Juxian, Xiao Si, Peking-opera discipline, gendered role formation, art dignity, coerced denunciation, and the film/novel ending contrast. Created pages for 《霸王别姬》 / Farewell My Concubine, 芦苇 / Lu Wei, 陈凯歌 / Chen Kaige, 《封神》 / Creation of the Gods, Cheng Dieyi, Duan Xiaolou, Juxian, Xiao Si, Role-Life Collapse, Troupe Discipline As Identity Formation, Gender Performance And Trauma, Art Dignity Under Political Pressure, Coerced Denunciation, and Adaptation Ending Ethics; updated overview, index, 蜜獾吃书, Political Show Trial, Adaptation Original-Text Confusion, Classic Reading Complexity, Reading As Life Experience, and Non-Instrumental Literary Reading. No direct contradiction found; interpretive claims about 芦苇's authorial hand and 陈凯歌's biographical resonance are kept as source-scoped readings.
+
+## [2026-07-14] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.

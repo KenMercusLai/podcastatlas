@@ -263,6 +263,10 @@
     "title": "63.我的30+下半程，答案若隐若现",
     "url": "/wiki/sources/63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972/"
   },
+  "64-bawangbieji-fengmo-yu-chenghuo-656094350": {
+    "title": "64.霸王别姬：疯魔与成活",
+    "url": "/wiki/sources/64-bawangbieji-fengmo-yu-chenghuo-656094350/"
+  },
   "8848": {
     "title": "8848",
     "url": "/wiki/entities/8848/"
@@ -911,6 +915,10 @@
     "title": "Adao",
     "url": "/wiki/entities/adao/"
   },
+  "AdaptationEndingEthics": {
+    "title": "Adaptation Ending Ethics",
+    "url": "/wiki/concepts/adaptationendingethics/"
+  },
   "AdaptationOriginalTextConfusion": {
     "title": "Adaptation Original-Text Confusion",
     "url": "/wiki/concepts/adaptationoriginaltextconfusion/"
@@ -1478,6 +1486,10 @@
   "ArtCommerceIntegration": {
     "title": "Art Commerce Integration",
     "url": "/wiki/concepts/artcommerceintegration/"
+  },
+  "ArtDignityUnderPoliticalPressure": {
+    "title": "Art Dignity Under Political Pressure",
+    "url": "/wiki/concepts/artdignityunderpoliticalpressure/"
   },
   "ArtX": {
     "title": "ArtX",
@@ -2563,6 +2575,10 @@
     "title": "Chen Jingchu",
     "url": "/wiki/entities/chenjingchu/"
   },
+  "ChenKaige": {
+    "title": "陈凯歌 / Chen Kaige",
+    "url": "/wiki/entities/chenkaige/"
+  },
   "ChenTianqiao": {
     "title": "Chen Tianqiao",
     "url": "/wiki/entities/chentianqiao/"
@@ -2574,6 +2590,10 @@
   "ChenZhePeter": {
     "title": "Chen Zhe Peter",
     "url": "/wiki/entities/chenzhepeter/"
+  },
+  "ChengDieyi": {
+    "title": "程蝶衣 / Cheng Dieyi",
+    "url": "/wiki/entities/chengdieyi/"
   },
   "ChengmaiTechnology": {
     "title": "Chengmai Technology",
@@ -2850,6 +2870,10 @@
   "Codex": {
     "title": "Codex",
     "url": "/wiki/entities/codex/"
+  },
+  "CoercedDenunciation": {
+    "title": "Coerced Denunciation",
+    "url": "/wiki/concepts/coerceddenunciation/"
   },
   "CoffeeChainInstitutionalization": {
     "title": "Coffee Chain Institutionalization",
@@ -3150,6 +3174,10 @@
   "CreationAsConsumption": {
     "title": "Creation As Consumption",
     "url": "/wiki/concepts/creationasconsumption/"
+  },
+  "CreationOfTheGodsI": {
+    "title": "《封神》 / Creation of the Gods",
+    "url": "/wiki/entities/creationofthegodsi/"
   },
   "CreativeLaborAIBacklash": {
     "title": "Creative Labor AI Backlash",
@@ -3947,6 +3975,10 @@
     "title": "杜少卿",
     "url": "/wiki/entities/dushaoqing/"
   },
+  "DuanXiaolou": {
+    "title": "段小楼 / Duan Xiaolou",
+    "url": "/wiki/entities/duanxiaolou/"
+  },
   "DuanYongping": {
     "title": "Duan Yongping",
     "url": "/wiki/entities/duanyongping/"
@@ -4498,6 +4530,10 @@
   "FarahChia": {
     "title": "Farah Chia",
     "url": "/wiki/entities/farahchia/"
+  },
+  "FarewellMyConcubine": {
+    "title": "《霸王别姬》 / Farewell My Concubine",
+    "url": "/wiki/entities/farewellmyconcubine/"
   },
   "FarzadRashidi": {
     "title": "Farzad Rashidi",
@@ -5170,6 +5206,10 @@
   "GeminiCLI": {
     "title": "Gemini CLI",
     "url": "/wiki/entities/geminicli/"
+  },
+  "GenderPerformanceAndTrauma": {
+    "title": "Gender Performance And Trauma",
+    "url": "/wiki/concepts/genderperformanceandtrauma/"
   },
   "GenderedAgeAnxiety": {
     "title": "Gendered Age Anxiety",
@@ -6747,6 +6787,10 @@
     "title": "Justin's Nut Butter",
     "url": "/wiki/entities/justinsnutbutter/"
   },
+  "Juxian": {
+    "title": "菊仙 / Juxian",
+    "url": "/wiki/entities/juxian/"
+  },
   "KBeautyGlobalTrust": {
     "title": "K-Beauty Global Trust",
     "url": "/wiki/concepts/kbeautyglobaltrust/"
@@ -7502,6 +7546,10 @@
   "LuQi": {
     "title": "Lu Qi",
     "url": "/wiki/entities/luqi/"
+  },
+  "LuWeiScreenwriter": {
+    "title": "芦苇 / Lu Wei",
+    "url": "/wiki/entities/luweiscreenwriter/"
   },
   "LuXun": {
     "title": "鲁迅",
@@ -10263,6 +10311,10 @@
     "title": "Roi",
     "url": "/wiki/entities/roi/"
   },
+  "RoleLifeCollapse": {
+    "title": "Role-Life Collapse",
+    "url": "/wiki/concepts/rolelifecollapse/"
+  },
   "RollingAI": {
     "title": "Rolling AI",
     "url": "/wiki/entities/rollingai/"
@@ -12055,6 +12107,10 @@
     "title": "Tristan",
     "url": "/wiki/entities/tristan/"
   },
+  "TroupeDisciplineAsIdentityFormation": {
+    "title": "Troupe Discipline As Identity Formation",
+    "url": "/wiki/concepts/troupedisciplineasidentityformation/"
+  },
   "TrueSmartHome": {
     "title": "True Smart Home",
     "url": "/wiki/concepts/truesmarthome/"
@@ -12886,6 +12942,10 @@
   "XiaoMan": {
     "title": "小满",
     "url": "/wiki/entities/xiaoman/"
+  },
+  "XiaoSiFarewellMyConcubine": {
+    "title": "小四 / Xiao Si",
+    "url": "/wiki/entities/xiaosifarewellmyconcubine/"
   },
   "XiaoSun": {
     "title": "小孙",

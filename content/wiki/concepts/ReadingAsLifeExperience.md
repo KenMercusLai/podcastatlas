@@ -2,7 +2,7 @@
 title: "Reading As Life Experience"
 type: concept
 tags: [reading, literature, attention, life-practice]
-sources: [63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
+sources: [64-bawangbieji-fengmo-yu-chenghuo-656094350, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
 last_updated: 2026-07-14
 ---
 
@@ -24,6 +24,8 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 
 [[63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972]] adds a midlife-fiction version through [[KakutaMitsuyo|角田光代]]'s [[ThirtySeven|《37》]]. The episode uses 小华's marriage refusal, career fork, and late understanding of her mother's cake not as abstract advice but as a way to inhabit adult uncertainty, regret, and [[EmpathyAsAestheticCapacity]].
 
+[[64-bawangbieji-fengmo-yu-chenghuo-656094350]] adds a film-rewatching version through [[FarewellMyConcubine|《霸王别姬》]]. The host explicitly says some works, like films and opera, can be watched repeatedly even when the plot is known; the value comes from re-entering performance, timing, body, role, and historical pressure rather than discovering events.
+
 ## Key Claims
 - Reading includes bodily and material conditions: paper weight, binding, posture, fatigue, and surroundings can change whether a book is actually read.
 - Reading includes timing: a painful or demanding book can be deferred without losing its legitimacy.
@@ -35,6 +37,7 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 - Reading can let a person imaginatively experience centuries of collapse, preservation, rediscovery, and renewal as more than abstract history.
 - Reading can leave dormant emotional material that becomes intelligible only when later life supplies the missing experience.
 - Fiction can model unresolved adult choice without forcing the reader into a clean moral, making uncertainty itself part of the reading experience.
+- Rewatching or rereading can deepen rather than spoil a work when the experience depends on performance, recognition, and layered interpretation rather than plot surprise.
 
 ## Connections
 - [[QinZong|秦总]] and [[LiWuya|李乌鸦]] - source voices.
@@ -48,3 +51,4 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 - [[CanticleForLeibowitz|《莱博维茨的赞歌》 / A Canticle for Leibowitz]], [[PostApocalypticCivilizationPreservation]], and [[ApocalypticLiterarySymbolism]] - source extension into civilizational and religious science-fiction reading.
 - [[HansChristianAndersen|安徒生]], [[AdultFairyTaleReading]], and [[FairyTaleDeathAndSpirituality]] - episode 55's extension into childhood fairy tales that reopen through adult experience.
 - [[KakutaMitsuyo|角田光代]], [[ThirtySeven|《37》]], [[MidlifeAsGift]], and [[EmpathyAsAestheticCapacity]] - episode 63's extension into midlife fiction and adult ambivalence.
+- [[FarewellMyConcubine|《霸王别姬》]], [[RoleLifeCollapse]], and [[ArtDignityUnderPoliticalPressure]] - episode 64's extension into film rewatching and performance as lived interpretation.
