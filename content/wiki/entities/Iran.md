@@ -2,11 +2,13 @@
 title: "Iran"
 type: entity
 tags: [country, politics, geopolitics, sanctions]
-sources: [tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
-last_updated: 2026-07-12
+sources: [iran-protests-and-sanctions, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
+last_updated: 2026-07-15
 ---
 
 # Iran
+
+[[iran-protests-and-sanctions]] adds the long sanctions-history layer behind the later 2026 escalation pages. The [[PlanetMoney]] episode moves from [[AliIranProtester|Ali]]'s protest account to [[EvaLeilaPesaran]]'s 1979 archival history and [[EsfandyarBatmanghelidj]]'s economic analysis, treating [[IranSanctions]] as a system that created diplomatic leverage, civilian hardship, [[SanctionsOvercompliance]], and [[SanctionsInsiderConsolidation]] around actors such as the [[IslamicRevolutionaryGuardCorps]].
 
 [[tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128]] adds a low-cost drone warfare branch. [[StaceyPettijohn]] says drones are currently a primary Iranian weapon, with [[Shahed136]]-style systems showing how [[CommercialOffTheShelfWeaponization]] can turn ordinary components, commercial intermediaries, and good-enough performance into long-range coercive capacity.
 
@@ -45,3 +47,4 @@ The source frames Iran's state capacity as contested. Funeral logistics, slogans
 - [[DigitalInfrastructureWarRisk]] - adjacent Iran-related conflict frame from another source.
 - [[NicholasPelham]] - contributor explaining the ceasefire-collapse episode.
 - [[IslamicRevolutionaryGuardCorps]], [[USTreasury|U.S. Treasury]], [[StablecoinSanctionsEvasion]], and [[VirtualAssetAMLRisk]] - crypto sanctions branch added by Marketplace Tech.
+- [[IranSanctions]], [[DollarFinancialSanctions]], [[SanctionsOvercompliance]], [[EconomicSanctionsAsViolence]], [[EconomicHardshipProtestTrigger]], and [[SanctionsInsiderConsolidation]] - sanctions-history and civilian-hardship branch added by Planet Money.

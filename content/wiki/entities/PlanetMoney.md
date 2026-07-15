@@ -2,7 +2,7 @@
 title: "Planet Money"
 type: entity
 tags: [podcast, media, economics]
-sources: [congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
+sources: [iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
 last_updated: 2026-07-15
 ---
 
@@ -14,6 +14,8 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 
 [[its-my-tree-why-cant-i-cut-it-down]] adds a standard reported Planet Money case about [[TreeProtectionOrdinances]], [[RegulatoryTakings]], and [[PermitProportionality]]. The episode uses [[SarahBond]]'s Portland dispute and [[CantonMichigan]]'s litigation to turn private tree removal into an economics-and-law question about [[UrbanCanopyExternalities]] and who should pay to preserve public environmental benefits.
 
+[[iran-protests-and-sanctions]] adds an international-political-economy case. The episode uses [[IranSanctions]], [[DollarFinancialSanctions]], [[SanctionsOvercompliance]], and [[EconomicSanctionsAsViolence]] to ask when sanctions can produce diplomatic leverage and when they become civilian economic harm.
+
 ## Connections
 - [[NPR]] — network and public-media organization behind the appeal.
 - [[KatherineMaher]] — NPR CEO speaking in the message.
@@ -21,3 +23,4 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 - [[1A]] and [[IfYouCanKeepIt]] — promo content at the end of the source.
 - [[SarahBond]], [[CantonMichigan]], and [[ChanceWeldon]] - new property-rights and tree-law reporting branch.
 - [[TreeProtectionOrdinances]], [[UrbanCanopyExternalities]], [[RegulatoryTakings]], and [[PermitProportionality]] - concepts added by the tree-law episode.
+- [[Iran]], [[UnitedStates]], [[EvaLeilaPesaran]], [[EsfandyarBatmanghelidj]], and [[AliIranProtester|Ali]] - Iran sanctions branch added by the new episode.

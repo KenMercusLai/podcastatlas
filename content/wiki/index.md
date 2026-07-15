@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Iran, protests, and sanctions](sources/iran-protests-and-sanctions.md) — Planet Money episode on U.S. sanctions against Iran, currency-triggered protest, revolutionary economic self-reliance, dollar financial sanctions, overcompliance, IRGC insider gains, and civilian costs.
 - [It's my tree. Why can't I cut it down?](sources/its-my-tree-why-cant-i-cut-it-down.md) — Planet Money episode on Portland and Canton tree laws, urban canopy externalities, private property rights, regulatory takings, and proportional permit fees.
 - [168.放学后的小巷：致青春，致那年的友谊【日常推理强势回归！！】](sources/168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535.md) — 蜜獾吃书 episode on 钟声离《放学后的小巷》, 日常推理, a tofu-pudding and bicycle clue chain, youth friendship, poverty, dignity protection, and school-area memory.
 - [167.命若朝霜：为什么红楼梦不需要悼明？](sources/167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324.md) — 蜜獾吃书 episode using 《命若朝霜》 to read 《红楼梦》 through Qing law, inheritance, marriage procedure, low-status performers, confiscation, and why the novel does not need a 悼明 code to be politically serious.
@@ -417,6 +418,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Ali (Iran protester)](entities/AliIranProtester.md) — Pseudonymous protest participant whose Tehran account connects currency collapse, coded walking protests, crackdown risk, and ordinary sanctions pain.
+- [Eva Leila Pesaran](entities/EvaLeilaPesaran.md) — Political economist explaining how 1979 revolutionary debates and the hostage-crisis asset freeze hardened Iran's anti-Western economic identity.
+- [Esfandyar Batmanghelidj](entities/EsfandyarBatmanghelidj.md) — Iran economy researcher explaining pre-2012 diversification, modern retail, sanctions-driven growth break, and ordinary wage/currency pressure.
+- [Reza Pahlavi](entities/RezaPahlavi.md) — Exile political figure whose January 8 walking call becomes part of the episode's currency-triggered protest account.
+- [Ruhollah Khomeini](entities/RuhollahKhomeini.md) — Revolutionary leader used by the source to anchor Iran's post-1979 anti-Western economic self-reliance frame.
 - [Sarah Bond](entities/SarahBond.md) — Portland homeowner whose denied tree-removal permit and later fallen Douglas fir make tree-law property-rights conflict concrete.
 - [Portland, Oregon](entities/PortlandOregon.md) — City case where a large-tree removal denial, later storm damage, and retroactive permit demand frame urban canopy regulation from the homeowner side.
 - [Canton, Michigan](entities/CantonMichigan.md) — Township whose tree-protection ordinance and post-clear-cut fee demand became the episode's Sixth Circuit proportionality case.
@@ -2602,6 +2608,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Iran Sanctions](concepts/IranSanctions.md) — Multi-decade U.S. and international pressure system linking asset freezes, oil limits, banking isolation, nuclear diplomacy, civilian hardship, and insider gains.
+- [Dollar Financial Sanctions](concepts/DollarFinancialSanctions.md) — Use of dollar clearing, global bank access, and compliance risk to isolate a target economy beyond direct trade restrictions.
+- [Sanctions Overcompliance](concepts/SanctionsOvercompliance.md) — Pattern where banks and firms avoid more activity than sanctions law requires because legal and reputational risk remains too high.
+- [Economic Sanctions As Violence](concepts/EconomicSanctionsAsViolence.md) — Ethical frame that sanctions can pressure governments by impoverishing civilians despite being presented as an alternative to war.
+- [Revolutionary Economic Self-Reliance](concepts/RevolutionaryEconomicSelfReliance.md) — Post-1979 Iranian political-economic frame treating foreign investment and concessions as dependence on hostile outside powers.
+- [Sanctions Insider Consolidation](concepts/SanctionsInsiderConsolidation.md) — Pattern where sanctions reduce ordinary market activity while strengthening protected regime-linked economic actors.
+- [Economic Hardship Protest Trigger](concepts/EconomicHardshipProtestTrigger.md) — Pattern where inflation, currency collapse, merchant disruption, and coded coordination turn dissatisfaction into public protest.
 - [Tree Protection Ordinances](concepts/TreeProtectionOrdinances.md) — Local rules requiring approval, replacement planting, or remediation fees before large-tree removal, tested through Portland and Canton.
 - [Urban Canopy Externalities](concepts/UrbanCanopyExternalities.md) — Public benefits from private or public urban trees, including shade, cooling, stormwater absorption, air quality, flood mitigation, and neighborhood character.
 - [Regulatory Takings](concepts/RegulatoryTakings.md) — Constitutional property-rights frame asking when government restrictions function like takings even without physical seizure.

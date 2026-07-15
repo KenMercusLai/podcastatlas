@@ -2,7 +2,7 @@
 title: "NPR"
 type: entity
 tags: [media, public-media, journalism]
-sources: [congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
+sources: [iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
 last_updated: 2026-07-15
 ---
 
@@ -14,6 +14,8 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 
 [[its-my-tree-why-cant-i-cut-it-down]] adds a reported [[PlanetMoney]] episode rather than a funding appeal. It connects NPR's economics-reporting branch to [[TreeProtectionOrdinances]], [[UrbanCanopyExternalities]], [[RegulatoryTakings]], and [[PermitProportionality]] through local tree-law disputes in [[PortlandOregon]] and [[CantonMichigan]].
 
+[[iran-protests-and-sanctions]] adds another reported [[PlanetMoney]] episode, this time on [[IranSanctions]], [[USIranNuclearDiplomacy]], and the civilian costs of [[DollarFinancialSanctions]]. It extends NPR's economics-reporting branch from local regulation into international political economy.
+
 ## Connections
 - [[KatherineMaher]] — NPR CEO and speaker in the appeal.
 - [[PublicMediaFunding]] — central issue in the source.
@@ -21,3 +23,4 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 - [[ListenerSupportedMedia]] — donation model NPR asks listeners to use.
 - [[PlanetMoney]], [[1A]], [[WAMU]], and [[IfYouCanKeepIt]] — podcast and public-radio context.
 - [[TreeProtectionOrdinances]] and [[PropertyRightsCommunityObligations]] - reported-economics branch added through Planet Money.
+- [[IranSanctions]], [[EconomicSanctionsAsViolence]], and [[SanctionsOvercompliance]] - international-economics branch added through Planet Money.

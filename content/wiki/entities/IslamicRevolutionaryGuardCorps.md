@@ -2,8 +2,8 @@
 title: "Islamic Revolutionary Guard Corps"
 type: entity
 tags: [organization, iran, sanctions, security]
-sources: [tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources: [iran-protests-and-sanctions, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]
+last_updated: 2026-07-15
 ---
 
 # Islamic Revolutionary Guard Corps
@@ -11,6 +11,8 @@ last_updated: 2026-07-12
 [[tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128]] extends the IRGC page from sanctions and crypto laundering into [[IranLinkedCyberOperations]]. In that episode, [[RafePilling]] of [[Sophos]] identifies the [[IslamicRevolutionaryGuardCorps]] and the [[MinistryOfIntelligenceAndSecurity]] as two main sponsors of cyber operations emanating from [[Iran]].
 
 The Islamic Revolutionary Guard Corps appears in [[tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]] through [[AriRedbord]]'s example of two Iran-based cryptocurrency exchanges allegedly used to launder illicit proceeds and evade sanctions. The episode says the [[USTreasury|U.S. Treasury]] later sanctioned those exchanges and a connected financial facilitator.
+
+[[iran-protests-and-sanctions]] adds the IRGC as a political-economy beneficiary of sanctions. The [[PlanetMoney]] episode says the organization answers to the ayatollah while also operating as a major economic actor, and uses it to illustrate [[SanctionsInsiderConsolidation]]: restrictions can reduce outside competition and hurt ordinary private life while strengthening regime-linked insiders.
 
 In the wiki, the organization connects the [[Iran]] branch to both [[StablecoinSanctionsEvasion]] and cyber operations. The crypto source uses the case to argue for targeted enforcement against illicit actors rather than suppressing lawful crypto use, while the cybersecurity source links the IRGC to DDoS, phishing, data theft, leak campaigns, and industrial-control risk.
 
@@ -21,3 +23,4 @@ In the wiki, the organization connects the [[Iran]] branch to both [[StablecoinS
 - [[USTreasury|U.S. Treasury]] - sanctions actor in the episode.
 - [[StablecoinSanctionsEvasion]], [[VirtualAssetAMLRisk]], and [[AntiMoneyLaundering]] - compliance and sanctions-evasion frame.
 - [[TRMLabs]] and [[AriRedbord]] - report source and episode expert.
+- [[IranSanctions]], [[EconomicSanctionsAsViolence]], and [[SanctionsInsiderConsolidation]] - sanctions political-economy frame added by Planet Money.

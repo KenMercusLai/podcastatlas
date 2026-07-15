@@ -2,7 +2,7 @@
 title: "Donald Trump"
 type: entity
 tags: [person, politics, macro, investing, sports]
-sources: [173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
+sources: [iran-protests-and-sanctions, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
 last_updated: 2026-07-15
 ---
 
@@ -15,6 +15,8 @@ Donald Trump appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-
 [[continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e]] adds Trump as a [[NATOAllianceCredibility]] variable. The episode frames his anger at European allies, interest in Greenland, Iran-war complaints, and possible American force reductions as alliance-management risks that make [[EuropeanDefenseAutonomy]] more urgent.
 
 [[missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3]] adds Trump to a U.S.-Israel strain frame. The episode says Trump and [[JDVance]] portray [[Israel]] as a difficult ally, which weakens Israel's strategic position as [[Iran]] can blame Israeli action in [[Lebanon]] for threatening wider talks.
+
+[[iran-protests-and-sanctions]] adds Trump as the policy-reversal actor who withdrew from the 2015 Iran nuclear deal in 2018, reimposed sanctions, and added more over time. The [[PlanetMoney]] episode uses that reversal to argue that [[IranSanctions]] relief can lose credibility when a later administration can undo the bargain, worsening [[SanctionsOvercompliance]] and economic pain in [[Iran]].
 
 [[the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad]] adds Trump to the internal U.S. democratic-guardrail branch. The episode asks whether his expansion of presidential authority is a temporary personal phenomenon or a durable [[ExecutivePowerPrecedent]] that later presidents could reuse even if his party control fades.
 
@@ -49,6 +51,7 @@ Donald Trump appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-
 - Trump's DJT post and later tariff-pause announcement are used as an example of [[PolicyAnnouncementTradingRisk]].
 - The NATO summit source treats Trump as an alliance-confidence shock whose unpredictability can affect deterrence, force posture, and European planning.
 - The Missing Peace source treats Trump as part of a U.S.-Israel relationship shift that affects [[USIranNuclearDiplomacy]] and [[ProxyConflictSpoilerRisk]].
+- The Planet Money source treats Trump as a sanctions-relief reversal case whose 2018 withdrawal changed the credibility of the 2015 Iran deal.
 - The America-at-250 source treats Trump as a test of [[AmericanDemocraticResilience]] because personal power claims can become legal precedent.
 - The Gulf-co-operation source extends that test through the later historical sequence from backlash and January 6th to Trump's return.
 - The Cook episode treats Trump as a test of business pragmatism versus moral boundaries: private commercial negotiation does not prevent public disagreement when employees and civil rights are at stake.
@@ -71,6 +74,7 @@ Donald Trump appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-
 - [[JaredKushner]], [[SaudiPublicInvestmentFund]], [[MelaniaTrump]], and [[PoliticalIdentityPremium]] — EP77's family-network, foreign-capital, and media-contract branch.
 - [[NATO]], [[NATOAllianceCredibility]], [[EuropeanDefenseAutonomy]], and [[RussianHybridPressure]] — alliance-risk branch added by The Intelligence.
 - [[JDVance]], [[Israel]], [[Iran]], [[Lebanon]], [[USIranNuclearDiplomacy]], and [[ProxyConflictSpoilerRisk]] — Middle East diplomacy branch added by The Intelligence.
+- [[IranSanctions]], [[SanctionsOvercompliance]], and [[EconomicSanctionsAsViolence]] — sanctions-reversal branch added by Planet Money.
 - [[UnitedStates]], [[SupremeCourt]], [[AmericanDemocraticResilience]], and [[ExecutivePowerPrecedent]] — domestic constitutional-risk branch added by the America-at-250 source.
 - [[TimCook]], [[Apple]], and [[ValuesAsOperationalAsset]] — tariff and DACA context added by the Cook episode.
 - [[Colombia]], [[AbelardoDeLaEspriella]], [[SecurityBacklashPolitics]], and [[LatinAmericaRightwardShift]] — security-election branch added by The Intelligence.

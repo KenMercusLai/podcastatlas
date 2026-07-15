@@ -1379,6 +1379,10 @@
     "title": "阿里（《放学后的小巷》）",
     "url": "/wiki/entities/alifangxuehou/"
   },
+  "AliIranProtester": {
+    "title": "Ali (Iran protester)",
+    "url": "/wiki/entities/aliiranprotester/"
+  },
   "AliKhamenei": {
     "title": "Ali Khamenei",
     "url": "/wiki/entities/alikhamenei/"
@@ -4527,6 +4531,10 @@
     "title": "Dolby",
     "url": "/wiki/entities/dolby/"
   },
+  "DollarFinancialSanctions": {
+    "title": "Dollar Financial Sanctions",
+    "url": "/wiki/concepts/dollarfinancialsanctions/"
+  },
   "DollarGeneral": {
     "title": "Dollar General",
     "url": "/wiki/entities/dollargeneral/"
@@ -4819,6 +4827,14 @@
     "title": "Economic Climate Tech Adoption",
     "url": "/wiki/concepts/economicclimatetechadoption/"
   },
+  "EconomicHardshipProtestTrigger": {
+    "title": "Economic Hardship Protest Trigger",
+    "url": "/wiki/concepts/economichardshipprotesttrigger/"
+  },
+  "EconomicSanctionsAsViolence": {
+    "title": "Economic Sanctions As Violence",
+    "url": "/wiki/concepts/economicsanctionsasviolence/"
+  },
   "EconomicWayOfThinking": {
     "title": "Economic Way Of Thinking",
     "url": "/wiki/concepts/economicwayofthinking/"
@@ -5107,6 +5123,10 @@
     "title": "Escape My Bubble",
     "url": "/wiki/entities/escapemybubble/"
   },
+  "EsfandyarBatmanghelidj": {
+    "title": "Esfandyar Batmanghelidj",
+    "url": "/wiki/entities/esfandyarbatmanghelidj/"
+  },
   "Eshu": {
     "title": "Eshu",
     "url": "/wiki/entities/eshu/"
@@ -5126,6 +5146,10 @@
   "EuropeanUnion": {
     "title": "European Union",
     "url": "/wiki/entities/europeanunion/"
+  },
+  "EvaLeilaPesaran": {
+    "title": "Eva Leila Pesaran",
+    "url": "/wiki/entities/evaleilapesaran/"
   },
   "EvanMoore": {
     "title": "Evan Moore",
@@ -7518,6 +7542,10 @@
   "IranPostwarEconomicRelief": {
     "title": "Iran Postwar Economic Relief",
     "url": "/wiki/concepts/iranpostwareconomicrelief/"
+  },
+  "IranSanctions": {
+    "title": "Iran Sanctions",
+    "url": "/wiki/concepts/iransanctions/"
   },
   "IsaacBeeckman": {
     "title": "Isaac Beeckman / 贝克曼",
@@ -12183,6 +12211,14 @@
     "title": "Revlon",
     "url": "/wiki/entities/revlon/"
   },
+  "RevolutionaryEconomicSelfReliance": {
+    "title": "Revolutionary Economic Self-Reliance",
+    "url": "/wiki/concepts/revolutionaryeconomicselfreliance/"
+  },
+  "RezaPahlavi": {
+    "title": "Reza Pahlavi",
+    "url": "/wiki/entities/rezapahlavi/"
+  },
   "RichAberman": {
     "title": "Rich Aberman",
     "url": "/wiki/entities/richaberman/"
@@ -12375,6 +12411,10 @@
     "title": "Rudolf Erich Raspe",
     "url": "/wiki/entities/rudolferichraspe/"
   },
+  "RuhollahKhomeini": {
+    "title": "Ruhollah Khomeini",
+    "url": "/wiki/entities/ruhollahkhomeini/"
+  },
   "RuleShiftingMathematics": {
     "title": "Rule-Shifting Mathematics",
     "url": "/wiki/concepts/ruleshiftingmathematics/"
@@ -12530,6 +12570,14 @@
   "SanDisk": {
     "title": "SanDisk",
     "url": "/wiki/entities/sandisk/"
+  },
+  "SanctionsInsiderConsolidation": {
+    "title": "Sanctions Insider Consolidation",
+    "url": "/wiki/concepts/sanctionsinsiderconsolidation/"
+  },
+  "SanctionsOvercompliance": {
+    "title": "Sanctions Overcompliance",
+    "url": "/wiki/concepts/sanctionsovercompliance/"
   },
   "SandorStraus": {
     "title": "Sandor Straus",
@@ -16538,6 +16586,10 @@
   "indy-johar-civilizational-optioneering-tyeyt7r-zfu": {
     "title": "Indy Johar: Civilizational Optioneering",
     "url": "/wiki/sources/indy-johar-civilizational-optioneering-tyeyt7r-zfu/"
+  },
+  "iran-protests-and-sanctions": {
+    "title": "Iran, protests, and sanctions",
+    "url": "/wiki/sources/iran-protests-and-sanctions/"
   },
   "its-my-tree-why-cant-i-cut-it-down": {
     "title": "It's my tree. Why can't I cut it down?",

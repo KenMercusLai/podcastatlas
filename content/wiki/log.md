@@ -3316,3 +3316,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 4,324 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-15] ingest | Iran, protests, and sanctions
+
+Added source page for the Planet Money episode on U.S. sanctions against Iran, economic protest, 1979 revolutionary economic identity, dollar financial sanctions, sanctions overcompliance, IRGC insider consolidation, and sanctions as civilian harm. Created pages for Ali (Iran protester), Eva Leila Pesaran, Esfandyar Batmanghelidj, Reza Pahlavi, Ruhollah Khomeini, Iran Sanctions, Dollar Financial Sanctions, Sanctions Overcompliance, Economic Sanctions As Violence, Revolutionary Economic Self-Reliance, Sanctions Insider Consolidation, and Economic Hardship Protest Trigger; updated overview, index, Iran, United States, U.S. Treasury, IRGC, U.S.-Iran Nuclear Diplomacy, Barack Obama, Donald Trump, NPR, and Planet Money. No direct contradiction found; this 2026-02-07 source predates later 2026 escalation pages and is treated as historical setup for the sanctions and diplomacy branch.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
