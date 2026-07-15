@@ -2,8 +2,8 @@
 title: "Externality Internalization"
 type: concept
 tags: [economics, markets, policy]
-sources: [jiufan-zhongting-mifeng-jingjixue-956460448, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260]
-last_updated: 2026-07-14
+sources: [jiufan-zhongting-mifeng-jingjixue-956460448, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260, its-my-tree-why-cant-i-cut-it-down]
+last_updated: 2026-07-15
 ---
 
 # Externality Internalization
@@ -14,6 +14,8 @@ The source's strongest point is that internalization does not have to come from 
 
 [[62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260]] adds an environmental-policy version through [[EnvironmentalTradeoffAccounting]]. The source does not show a neat contract solution; instead, it asks whether pesticide bans, crop imports, palm-oil substitution, tree imports, flood management, and woodland cutting make their hidden costs visible to the people making the decision.
 
+[[its-my-tree-why-cant-i-cut-it-down]] adds the urban-canopy version. [[TreeProtectionOrdinances]] and replacement fees try to internalize [[UrbanCanopyExternalities]] by making tree removal account for shade, cooling, stormwater absorption, and neighborhood character. The episode's [[CantonMichigan]] case shows the limit: a fee can be an internalization tool and still be legally defective if it lacks [[PermitProportionality]].
+
 ## Key Claims
 - A clean classroom externality can become messier once industry participants are already contracting around the spillover.
 - Markets can internalize some externalities through prices, quantities, location rules, and risk allocation, not only through explicit government correction.
@@ -21,6 +23,8 @@ The source's strongest point is that internalization does not have to come from 
 - Internalization may make a risk calculable without making it disappear; [[BeeColonyCollapse]] and pesticide exposure can be priced into pollination fees while still remaining biological and ecological risks.
 - The concept extends [[MarketEfficiency]] outside financial markets by asking when decentralized prices and norms coordinate real production.
 - Some environmental externalities may remain only partly internalized: the cost can shift to farmers, foreign habitats, future maintenance, or other species even when a policy has a valid conservation goal.
+- Internalizing a public ecological benefit through fees requires measurement; otherwise the policy can shift public costs to an individual owner without enough justification.
+- [[PermitProportionality]] disciplines externality pricing by asking whether the demanded mitigation fits the specific harm.
 
 ## Connections
 - [[jiufan-zhongting-mifeng-jingjixue-956460448]] — source case.
@@ -30,3 +34,5 @@ The source's strongest point is that internalization does not have to come from 
 - [[MarketEfficiency]] — adjacent market-coordination concept.
 - [[BeeColonyCollapse]] — reminder that pricing risk is not the same as eliminating risk.
 - [[EnvironmentalTradeoffAccounting]] - broader policy-accounting extension from the Clarkson farm source.
+- [[UrbanCanopyExternalities]] and [[TreeProtectionOrdinances]] - tree-law extension where public ecological benefits become permit conditions.
+- [[RegulatoryTakings]] and [[PermitProportionality]] - legal limits on how governments price spillovers.

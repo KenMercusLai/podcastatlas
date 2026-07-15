@@ -3053,6 +3053,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-15] ingest | It's my tree. Why can't I cut it down?
+
+Added source page for the Planet Money episode on Portland and Canton tree laws, urban canopy benefits, private property rights, regulatory takings, and proportional permit fees. Created pages for Sarah Bond, Portland, Oregon, Canton, Michigan, Annemarie Graham-Hudak, Chance Weldon, Texas Public Policy Foundation, Tree Protection Ordinances, Urban Canopy Externalities, Regulatory Takings, Permit Proportionality, and Property Rights And Community Obligations; updated overview, index, NPR, Planet Money, Environmental Tradeoff Accounting, Externality Internalization, and Urban Ecology. No direct contradiction found; the source qualifies the wiki's environmental-policy branch by showing that preserving public ecological benefits still requires individualized cost allocation when a permit burden lands on a specific owner.
+
 ## [2026-07-15] ingest | 151.早安,怪物：祝你战胜恐惧，祝你获得康复
 
 Added source page for the 蜜獾吃书 episode on Catherine Gildiner's 《早安，怪物》, psychotherapy, complex trauma, parentification, trauma numbing, Indigenous residential-school trauma, shame-based self-concept, therapeutic boundaries, and countertransference risk. Created pages for 《早安，怪物》 / Good Morning, Monster, Catherine Gildiner, Parentification, Trauma Numbing, Shame-Based Self-Concept, Therapy Relationship And Boundaries, Countertransference Boundary Risk, and Indigenous Residential School Trauma; updated overview, index, 蜜獾吃书, Complex Trauma Recognition, Traumatic Attachment, and Unfawning Boundary Practice. No direct contradiction found; source-level illness symbolism was kept as interpretation rather than medical causality.
@@ -3308,3 +3312,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 4,324 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.

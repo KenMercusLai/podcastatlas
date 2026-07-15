@@ -2,8 +2,8 @@
 title: "Urban Ecology"
 type: concept
 tags: [ecology, cities, nature]
-sources: [65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260]
-last_updated: 2026-07-14
+sources: [65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260, its-my-tree-why-cant-i-cut-it-down]
+last_updated: 2026-07-15
 ---
 
 # Urban Ecology
@@ -16,6 +16,8 @@ The source's key urban-ecology move is to treat birds as indicators rather than 
 
 [[62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260]] adds a water-cycle caution from the farm episode's flood discussion. The source links urban flooding not only to climate but also to hardened ground that prevents water from soaking into soil, turning built surfaces into an ecological and infrastructure decision.
 
+[[its-my-tree-why-cant-i-cut-it-down]] adds the private-tree and local-law layer. [[CantonMichigan]] and [[PortlandOregon]] treat individual trees as part of the urban ecological system because canopy affects heat, water, air, and neighborhood character. The episode also shows that urban ecology becomes politically contested when [[TreeProtectionOrdinances]] make a private owner preserve benefits that spill into the community.
+
 ## Key Claims
 - Cities contain many small habitats that become visible only through repeated observation.
 - "Central Park effect" describes how limited green space can concentrate birds inside dense built environments.
@@ -25,6 +27,8 @@ The source's key urban-ecology move is to treat birds as indicators rather than 
 - Hard surfaces, drainage, and water absorption make cities part of the same land-management problem as farms and watersheds.
 - Wetland loss can turn a floodplain city from an adaptive water landscape into a fixed infrastructure system exposed to catastrophic failure.
 - Modern urban hazards include chemicals, oil, electricity, crowding, rent, and shelter design as well as water depth.
+- Privately owned trees can still serve public ecological functions, which makes canopy preservation a local-government issue.
+- The ecological value of urban trees is not enough by itself; policy also has to address owner safety, replacement costs, and [[PermitProportionality]].
 
 ## Connections
 - [[BirdwatchingAsAttention]] - method for seeing the urban habitat layer.
@@ -34,3 +38,4 @@ The source's key urban-ecology move is to treat birds as indicators rather than 
 - [[EmbodiedJudgment]] - direct perception matters in reading urban nature.
 - [[EnvironmentalTradeoffAccounting]] - accounting for downstream water and flood effects.
 - [[WetlandAdaptation]], [[ModernUrbanDisasterRisk]], [[FloodControlRiskTransfer]], and [[NaturalHazardSocialDisaster]] - historical floodplain-city extension from episode 65.
+- [[UrbanCanopyExternalities]], [[TreeProtectionOrdinances]], and [[PropertyRightsCommunityObligations]] - private-tree regulation layer added by Planet Money.

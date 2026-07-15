@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [It's my tree. Why can't I cut it down?](sources/its-my-tree-why-cant-i-cut-it-down.md) — Planet Money episode on Portland and Canton tree laws, urban canopy externalities, private property rights, regulatory takings, and proportional permit fees.
 - [168.放学后的小巷：致青春，致那年的友谊【日常推理强势回归！！】](sources/168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535.md) — 蜜獾吃书 episode on 钟声离《放学后的小巷》, 日常推理, a tofu-pudding and bicycle clue chain, youth friendship, poverty, dignity protection, and school-area memory.
 - [167.命若朝霜：为什么红楼梦不需要悼明？](sources/167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324.md) — 蜜獾吃书 episode using 《命若朝霜》 to read 《红楼梦》 through Qing law, inheritance, marriage procedure, low-status performers, confiscation, and why the novel does not need a 悼明 code to be politically serious.
 - [【闲聊】想送赵露思一本短歌集--编辑推书,无所不用其极！](sources/xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770.md) — 蜜獾吃书 × 有问题呀 crossover using 赵露思, 石川啄木, 《短歌是我悲伤的玩具》, 活人感, and internet moral trial to connect poetry, publishing, celebrity vulnerability, and public-expression boundaries.
@@ -416,6 +417,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Sarah Bond](entities/SarahBond.md) — Portland homeowner whose denied tree-removal permit and later fallen Douglas fir make tree-law property-rights conflict concrete.
+- [Portland, Oregon](entities/PortlandOregon.md) — City case where a large-tree removal denial, later storm damage, and retroactive permit demand frame urban canopy regulation from the homeowner side.
+- [Canton, Michigan](entities/CantonMichigan.md) — Township whose tree-protection ordinance and post-clear-cut fee demand became the episode's Sixth Circuit proportionality case.
+- [Annemarie Graham-Hudak](entities/AnnemarieGrahamHudak.md) — Canton township supervisor explaining trees as public infrastructure for shade, air quality, stormwater, flood prevention, and community health.
+- [Chance Weldon](entities/ChanceWeldon.md) — Texas Public Policy Foundation litigation director arguing the Canton tree-fee system violated property-rights and permit-proportionality limits.
+- [Texas Public Policy Foundation](entities/TexasPublicPolicyFoundation.md) — Property-rights legal advocacy organization connected to the Canton tree ordinance challenge through Chance Weldon.
 - [《放学后的小巷》](entities/FangxuehouDeXiaoxiang.md) — 钟声离 daily-life mystery collection discussed through a school-side alley, tofu-pudding clues, youth friendship, poverty, and dignity-protecting deduction.
 - [钟声离](entities/ZhongShengli.md) — Author of 《放学后的小巷》, used by episode 168 as a contemporary Chinese daily-life mystery case that reaches beyond the genre's small circle.
 - [阿里（《放学后的小巷》）](entities/AliFangxuehou.md) — Student protagonist whose attention to tofu pudding, bicycle parts, and friend behavior turns deduction into protection rather than exposure.
@@ -1909,9 +1916,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dark Matter Labs](entities/DarkMatterLabs.md) — Organization associated with Johar's institutional-design work on governance, finance, and systems change.
 - [Long Now](entities/LongNow.md) — Long-term-thinking organization hosting talks on AI materiality, civilizational optioneering, informed optimism, ocean memory, institutional design, and neural geometry.
 - [James Lovelock](entities/JamesLovelock.md) — Thinker referenced through Novacene to anchor the source's planetary self-awareness frame.
-- [NPR](entities/NPR.md) — Public media organization making a funding appeal around federal funding loss, local journalism, emergency access, and listener support.
+- [NPR](entities/NPR.md) — Public media organization connected to the wiki through a funding appeal and Planet Money reporting on tree-law property-rights conflict.
 - [Katherine Maher](entities/KatherineMaher.md) — NPR CEO voicing the appeal and linking public-media funding to local reporting, rural access, and donations.
-- [Planet Money](entities/PlanetMoney.md) — NPR podcast feed carrying this short public-media funding appeal rather than a standard economics episode.
+- [Planet Money](entities/PlanetMoney.md) — NPR economics podcast feed now covering both the public-media funding appeal and a reported episode on tree ordinances, canopy benefits, and property rights.
 - [1A](entities/1A.md) — WAMU/NPR public-affairs podcast promoted through the If You Can Keep It political series.
 - [WAMU](entities/WAMU.md) — Public-radio organization named with NPR in the 1A promo.
 - [Jen White](entities/JenWhite.md) — 1A host voice promoting If You Can Keep It.
@@ -2595,6 +2602,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Tree Protection Ordinances](concepts/TreeProtectionOrdinances.md) — Local rules requiring approval, replacement planting, or remediation fees before large-tree removal, tested through Portland and Canton.
+- [Urban Canopy Externalities](concepts/UrbanCanopyExternalities.md) — Public benefits from private or public urban trees, including shade, cooling, stormwater absorption, air quality, flood mitigation, and neighborhood character.
+- [Regulatory Takings](concepts/RegulatoryTakings.md) — Constitutional property-rights frame asking when government restrictions function like takings even without physical seizure.
+- [Permit Proportionality](concepts/PermitProportionality.md) — Requirement that permit demands be tied to the specific harm or impact they are meant to mitigate.
+- [Property Rights And Community Obligations](concepts/PropertyRightsCommunityObligations.md) — Tension between owner control over land and the public effects of private land-use decisions.
 - [日常推理 / Daily-Life Mystery](concepts/DailyLifeMystery.md) — Mystery mode where small everyday anomalies reveal character, relationship, and hidden pressure rather than spectacular crime alone.
 - [体面保护式推理 / Dignity-Protecting Deduction](concepts/DignityProtectingDeduction.md) — Pattern where a solver completes the deduction by preserving another person's dignity instead of staging public exposure.
 - [放学后记忆生态 / School-Area Memory Ecology](concepts/SchoolAreaMemoryEcology.md) — School-side environment of snacks, bookstores, arcades, transit cards, bikes, secret reading, and adolescent freedom.
@@ -2851,7 +2863,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Coerced Denunciation](concepts/CoercedDenunciation.md) — Forced public confession, betrayal, or accusation that proves submission and turns private relationships into evidence.
 - [Adaptation Ending Ethics](concepts/AdaptationEndingEthics.md) — Question of how changed endings alter a work's moral and emotional meaning.
 - [Agricultural Systems Reality](concepts/AgriculturalSystemsReality.md) — Frame for farming as a system of land, machinery, animals, weather, policy, labor, markets, and local tacit knowledge rather than pastoral leisure.
-- [Environmental Tradeoff Accounting](concepts/EnvironmentalTradeoffAccounting.md) — Practice of tracking where environmental-policy costs land across farmers, imports, habitats, species, floods, and maintenance burdens.
+- [Environmental Tradeoff Accounting](concepts/EnvironmentalTradeoffAccounting.md) — Practice of tracking where environmental-policy costs land across farmers, owners, imports, habitats, species, floods, tree laws, and maintenance burdens.
 - [Livestock Care Economics](concepts/LivestockCareEconomics.md) — Tension between livestock as production assets and living beings requiring welfare, labor, unprofitable care, and emotional attachment.
 - [Economic Way Of Thinking](concepts/EconomicWayOfThinking.md) — Reasoning style that uses economics to notice order, tradeoffs, costs, incentives, dispersed information, cooperation, and subjective value.
 - [Cost-Benefit Thinking](concepts/CostBenefitThinking.md) — Decision discipline for evaluating expected gains against money, time, energy, alternatives, and side effects.
