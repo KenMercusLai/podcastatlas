@@ -2,7 +2,7 @@
 title: "Iran"
 type: entity
 tags: [country, politics, geopolitics, sanctions]
-sources: [iran-protests-and-sanctions, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
+sources: [can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
 last_updated: 2026-07-15
 ---
 
@@ -15,6 +15,8 @@ last_updated: 2026-07-15
 [[tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128]] adds an economic and crypto-capital-flight branch. [[GilLuria]] says Bitcoin can be popular in unstable environments such as Iran because it exists outside government money and can be moved globally; in a longer war or economic stagnation, demand could come from people trying to move wealth abroad through [[CrossBorderCryptoCapitalFlight]] rather than from Bitcoin behaving like an immediate gold-style safe haven.
 
 [[tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128]] adds a cybersecurity branch to the Iran page. [[RafePilling]] of [[Sophos]] describes [[IranLinkedCyberOperations]] as having evolved from website defacement and DDoS, including the 2011-2013 attacks on U.S. banks, into phishing, vulnerability scanning, [[CyberDataTheftAndLeakOperations]], and [[IndustrialControlSystemCyberRisk]].
+
+[[can-computer-hackers-get-inside-your-mind]] adds Iran as a possible target of cyber sabotage rather than as the cyber actor. The [[PlanetMoney]] episode treats [[Stuxnet]] as precedent and [[Fast16|Fast 16]] as a likely [[CalculationIntegrityAttack]] against [[NuclearWeaponsModeling]], while explicitly leaving the target, creator, and historical impact unconfirmed.
 
 Iran appears in [[the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]] through [[AliKhamenei]]'s funeral, the Islamic Republic's succession problem, the recent war with America and Israel as described by the episode, and unresolved diplomacy around sanctions, the nuclear file, the [[StraitOfHormuz]], and regional influence.
 
@@ -35,6 +37,7 @@ The source frames Iran's state capacity as contested. Funeral logistics, slogans
 - [[Bitcoin]], [[GilLuria]], [[BitcoinSafeHavenBehavior]], and [[CrossBorderCryptoCapitalFlight]] - crisis-asset and wealth-portability branch added by Marketplace Tech.
 - [[IranLinkedCyberOperations]], [[BankingDDoSResilience]], [[CyberDataTheftAndLeakOperations]], and [[IndustrialControlSystemCyberRisk]] - cyber-risk branch added by Marketplace Tech.
 - [[RafePilling]], [[Sophos]], and [[MinistryOfIntelligenceAndSecurity]] - expert, security-company, and sponsor context in the cyber episode.
+- [[Fast16]], [[Stuxnet]], [[CalculationIntegrityAttack]], [[NuclearWeaponsModeling]], and [[EpistemologicalWarfare]] - possible-target cyber-sabotage branch added by Planet Money.
 - [[AliKhamenei]] - deceased supreme leader at the center of the funeral segment.
 - [[MujtabaKhamenei]] - successor figure whose absence creates uncertainty.
 - [[PoliticalFuneral]] - state-mobilized mourning and legitimacy performance.

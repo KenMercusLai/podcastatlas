@@ -2,7 +2,7 @@
 title: "U.S.-Iran Nuclear Diplomacy"
 type: concept
 tags: [geopolitics, diplomacy, nuclear]
-sources: [iran-protests-and-sanctions, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]
+sources: [can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]
 last_updated: 2026-07-15
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-15
 U.S.-Iran nuclear diplomacy is the negotiation frame added by [[missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3]]. The episode says America and [[Iran]] have signed a memorandum of understanding that would end the [[StraitOfHormuz]] blockade, unfreeze Iranian assets, and open negotiations over Iran's uranium stockpile.
 
 [[iran-protests-and-sanctions]] adds the historical 2015 nuclear deal frame behind the later 2026 diplomacy pages. The [[PlanetMoney]] episode presents the deal as the strongest case that [[IranSanctions]] produced diplomatic leverage, but also shows why relief credibility was fragile: [[SanctionsOvercompliance]] kept banks away after formal relief, and [[DonaldTrump]]'s 2018 withdrawal made sanctions rollback look politically reversible.
+
+[[can-computer-hackers-get-inside-your-mind]] adds a covert-sabotage layer to the same nuclear file. The episode uses [[Stuxnet]] and [[Fast16|Fast 16]] to show that cyber operations can shape nuclear-development capacity outside formal talks, but it keeps the [[Iran]] target claim circumstantial rather than proven.
 
 The source's main contribution is fragility. A deal can cover sanctions, assets, shipping, and uranium on paper, while still depending on a Lebanon ceasefire clause that [[Israel]] did not negotiate and does not trust because of [[Hezbollah]]'s capacity in southern [[Lebanon]].
 
@@ -25,6 +27,7 @@ The source's main contribution is fragility. A deal can cover sanctions, assets,
 ## Connections
 - [[Iran]] - state actor in the negotiation.
 - [[IranSanctions]], [[DollarFinancialSanctions]], and [[SanctionsOvercompliance]] - historical sanctions-leverage and relief-credibility branch added by Planet Money.
+- [[Fast16]], [[Stuxnet]], [[CyberSabotage]], [[CalculationIntegrityAttack]], and [[NuclearWeaponsModeling]] - covert cyber-sabotage layer added by Planet Money.
 - [[StraitOfHormuz]] - chokepoint named in the deal and later ceasefire bargaining.
 - [[IranPostwarEconomicRelief]] - economic-relief package attached to the memorandum.
 - [[Israel]], [[Hezbollah]], and [[Lebanon]] - external security cluster threatening the deal.

@@ -2,7 +2,7 @@
 title: "Planet Money"
 type: entity
 tags: [podcast, media, economics]
-sources: [iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
+sources: [can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
 last_updated: 2026-07-15
 ---
 
@@ -16,6 +16,8 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 
 [[iran-protests-and-sanctions]] adds an international-political-economy case. The episode uses [[IranSanctions]], [[DollarFinancialSanctions]], [[SanctionsOvercompliance]], and [[EconomicSanctionsAsViolence]] to ask when sanctions can produce diplomatic leverage and when they become civilian economic harm.
 
+[[can-computer-hackers-get-inside-your-mind]] adds a cybersecurity and intelligence-history case. The episode follows [[JuanAndresGuerreroSaade|JAGS]] and [[VitalyKamluk]] as they investigate [[Fast16|Fast 16]], connecting [[Stuxnet]], [[CyberSabotage]], [[CalculationIntegrityAttack]], and [[EpistemologicalWarfare]] to possible [[NuclearWeaponsModeling]] sabotage.
+
 ## Connections
 - [[NPR]] — network and public-media organization behind the appeal.
 - [[KatherineMaher]] — NPR CEO speaking in the message.
@@ -24,3 +26,4 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 - [[SarahBond]], [[CantonMichigan]], and [[ChanceWeldon]] - new property-rights and tree-law reporting branch.
 - [[TreeProtectionOrdinances]], [[UrbanCanopyExternalities]], [[RegulatoryTakings]], and [[PermitProportionality]] - concepts added by the tree-law episode.
 - [[Iran]], [[UnitedStates]], [[EvaLeilaPesaran]], [[EsfandyarBatmanghelidj]], and [[AliIranProtester|Ali]] - Iran sanctions branch added by the new episode.
+- [[Fast16]], [[Stuxnet]], [[JuanAndresGuerreroSaade]], [[VitalyKamluk]], and [[EpistemologicalWarfare]] - cybersecurity and trust-in-knowledge branch added by the Fast 16 episode.

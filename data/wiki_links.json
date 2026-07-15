@@ -495,6 +495,10 @@
     "title": "AI Assistant Service Entry",
     "url": "/wiki/concepts/aiassistantserviceentry/"
   },
+  "AIAssistedMalwareReverseEngineering": {
+    "title": "AI-Assisted Malware Reverse Engineering",
+    "url": "/wiki/concepts/aiassistedmalwarereverseengineering/"
+  },
   "AIAssistedReading": {
     "title": "AI-Assisted Reading",
     "url": "/wiki/concepts/aiassistedreading/"
@@ -2723,6 +2727,10 @@
     "title": "Calculating Empires",
     "url": "/wiki/entities/calculatingempires/"
   },
+  "CalculationIntegrityAttack": {
+    "title": "Calculation Integrity Attack",
+    "url": "/wiki/concepts/calculationintegrityattack/"
+  },
   "California": {
     "title": "California",
     "url": "/wiki/entities/california/"
@@ -3931,6 +3939,10 @@
     "title": "Cyber Data Theft and Leak Operations",
     "url": "/wiki/concepts/cyberdatatheftandleakoperations/"
   },
+  "CyberSabotage": {
+    "title": "Cyber Sabotage",
+    "url": "/wiki/concepts/cybersabotage/"
+  },
   "CyberneticMachineSatire": {
     "title": "Cybernetic Machine Satire",
     "url": "/wiki/concepts/cyberneticmachinesatire/"
@@ -5091,6 +5103,10 @@
     "title": "Environmental Tradeoff Accounting",
     "url": "/wiki/concepts/environmentaltradeoffaccounting/"
   },
+  "EpistemologicalWarfare": {
+    "title": "Epistemological Warfare",
+    "url": "/wiki/concepts/epistemologicalwarfare/"
+  },
   "EquityCompensationUpside": {
     "title": "Equity Compensation Upside",
     "url": "/wiki/concepts/equitycompensationupside/"
@@ -5354,6 +5370,10 @@
   "FarzadRashidi": {
     "title": "Farzad Rashidi",
     "url": "/wiki/entities/farzadrashidi/"
+  },
+  "Fast16": {
+    "title": "Fast 16",
+    "url": "/wiki/entities/fast16/"
   },
   "FastFeedbackLoops": {
     "title": "Fast Feedback Loops",
@@ -7367,6 +7387,10 @@
     "title": "Instant Retail",
     "url": "/wiki/concepts/instantretail/"
   },
+  "InstituteForScienceAndInternationalSecurity": {
+    "title": "Institute for Science and International Security",
+    "url": "/wiki/entities/instituteforscienceandinternationalsecurity/"
+  },
   "InstitutionalOvercompliance": {
     "title": "Institutional Overcompliance",
     "url": "/wiki/concepts/institutionalovercompliance/"
@@ -8043,6 +8067,10 @@
     "title": "卓越网 / Amazon China",
     "url": "/wiki/entities/joyoamazonchina/"
   },
+  "JuanAndresGuerreroSaade": {
+    "title": "Juan Andres Guerrero Saade",
+    "url": "/wiki/entities/juanandresguerrerosaade/"
+  },
   "JudicialIndependencePublicOpinion": {
     "title": "Judicial Independence And Public Opinion",
     "url": "/wiki/concepts/judicialindependencepublicopinion/"
@@ -8366,6 +8394,10 @@
   "LOreal": {
     "title": "L'Oreal",
     "url": "/wiki/entities/loreal/"
+  },
+  "LSDyna": {
+    "title": "LS-Dyna",
+    "url": "/wiki/entities/lsdyna/"
   },
   "LTVBasedGrowthBudgeting": {
     "title": "LTV-Based Growth Budgeting",
@@ -10191,6 +10223,10 @@
     "title": "National Rally",
     "url": "/wiki/entities/nationalrally/"
   },
+  "NationalSecurityAgency": {
+    "title": "National Security Agency",
+    "url": "/wiki/entities/nationalsecurityagency/"
+  },
   "NationalSemiconductor": {
     "title": "National Semiconductor",
     "url": "/wiki/entities/nationalsemiconductor/"
@@ -10418,6 +10454,10 @@
   "NovoNordisk": {
     "title": "Novo Nordisk",
     "url": "/wiki/entities/novonordisk/"
+  },
+  "NuclearWeaponsModeling": {
+    "title": "Nuclear Weapons Modeling",
+    "url": "/wiki/concepts/nuclearweaponsmodeling/"
   },
   "NushiShijie": {
     "title": "《女子世界》",
@@ -12811,6 +12851,10 @@
     "title": "Sensor-Driven Infrastructure Maintenance",
     "url": "/wiki/concepts/sensordriveninfrastructuremaintenance/"
   },
+  "SentinelOne": {
+    "title": "SentinelOne",
+    "url": "/wiki/entities/sentinelone/"
+  },
   "SeongsuDong": {
     "title": "Seongsu-dong / 圣水洞",
     "url": "/wiki/entities/seongsudong/"
@@ -13674,6 +13718,10 @@
   "StructuralHealthMonitoring": {
     "title": "Structural Health Monitoring",
     "url": "/wiki/concepts/structuralhealthmonitoring/"
+  },
+  "Stuxnet": {
+    "title": "Stuxnet",
+    "url": "/wiki/entities/stuxnet/"
   },
   "SuBen": {
     "title": "苏本",
@@ -14955,6 +15003,10 @@
     "title": "Visme",
     "url": "/wiki/entities/visme/"
   },
+  "VitalyKamluk": {
+    "title": "Vitaly Kamluk",
+    "url": "/wiki/entities/vitalykamluk/"
+  },
   "Vivo": {
     "title": "vivo",
     "url": "/wiki/entities/vivo/"
@@ -16198,6 +16250,10 @@
   "build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88": {
     "title": "Build-A-Bear: Maxine Clark. A Former Shoe Executive Launches a Stuffed Animal Empire",
     "url": "/wiki/sources/build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88/"
+  },
+  "can-computer-hackers-get-inside-your-mind": {
+    "title": "Can computer hackers get inside your mind?",
+    "url": "/wiki/sources/can-computer-hackers-get-inside-your-mind/"
   },
   "catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2": {
     "title": "Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough",

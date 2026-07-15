@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Can computer hackers get inside your mind?](sources/can-computer-hackers-get-inside-your-mind.md) — Planet Money episode on Fast 16 malware, Stuxnet-like cyber sabotage, corrupted high-precision calculations, possible nuclear-weapons modeling, and epistemological warfare.
 - [Iran, protests, and sanctions](sources/iran-protests-and-sanctions.md) — Planet Money episode on U.S. sanctions against Iran, currency-triggered protest, revolutionary economic self-reliance, dollar financial sanctions, overcompliance, IRGC insider gains, and civilian costs.
 - [It's my tree. Why can't I cut it down?](sources/its-my-tree-why-cant-i-cut-it-down.md) — Planet Money episode on Portland and Canton tree laws, urban canopy externalities, private property rights, regulatory takings, and proportional permit fees.
 - [168.放学后的小巷：致青春，致那年的友谊【日常推理强势回归！！】](sources/168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535.md) — 蜜獾吃书 episode on 钟声离《放学后的小巷》, 日常推理, a tofu-pudding and bicycle clue chain, youth friendship, poverty, dignity protection, and school-area memory.
@@ -418,6 +419,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Fast 16](entities/Fast16.md) — Malware case investigated as a likely Stuxnet-like calculation-integrity sabotage tool aimed at high-precision physics modeling.
+- [Juan Andres Guerrero Saade](entities/JuanAndresGuerreroSaade.md) — SentinelOne researcher, known as JAGS, who pursued the Fast 16 clue and framed its trust-corrupting effect.
+- [Vitaly Kamluk](entities/VitalyKamluk.md) — Malware researcher who helped reopen the Fast 16 investigation and identified the Stuxnet-like calculation-corruption pattern.
+- [SentinelOne](entities/SentinelOne.md) — Cybersecurity company context for JAGS's Fast 16 malware research.
+- [National Security Agency](entities/NationalSecurityAgency.md) — U.S. intelligence agency context for the leaked malware-related list where Fast 16 surfaced.
+- [Stuxnet](entities/Stuxnet.md) — Cyber-sabotage precedent used by the episode to compare Fast 16 with hidden nuclear-program disruption.
+- [LS-Dyna](entities/LSDyna.md) — Physics-modeling software connected by the episode to Fast 16's rule engine and suspected nuclear-weapons modeling target domain.
+- [Institute for Science and International Security](entities/InstituteForScienceAndInternationalSecurity.md) — Organization whose report supplies the episode's LS-Dyna and Iranian explosive-material modeling clue.
 - [Ali (Iran protester)](entities/AliIranProtester.md) — Pseudonymous protest participant whose Tehran account connects currency collapse, coded walking protests, crackdown risk, and ordinary sanctions pain.
 - [Eva Leila Pesaran](entities/EvaLeilaPesaran.md) — Political economist explaining how 1979 revolutionary debates and the hostage-crisis asset freeze hardened Iran's anti-Western economic identity.
 - [Esfandyar Batmanghelidj](entities/EsfandyarBatmanghelidj.md) — Iran economy researcher explaining pre-2012 diversification, modern retail, sanctions-driven growth break, and ordinary wage/currency pressure.
@@ -1922,9 +1931,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dark Matter Labs](entities/DarkMatterLabs.md) — Organization associated with Johar's institutional-design work on governance, finance, and systems change.
 - [Long Now](entities/LongNow.md) — Long-term-thinking organization hosting talks on AI materiality, civilizational optioneering, informed optimism, ocean memory, institutional design, and neural geometry.
 - [James Lovelock](entities/JamesLovelock.md) — Thinker referenced through Novacene to anchor the source's planetary self-awareness frame.
-- [NPR](entities/NPR.md) — Public media organization connected to the wiki through a funding appeal and Planet Money reporting on tree-law property-rights conflict.
+- [NPR](entities/NPR.md) — Public media organization connected to the wiki through a funding appeal and Planet Money reporting on tree-law, Iran-sanctions, and Fast 16 cybersecurity episodes.
 - [Katherine Maher](entities/KatherineMaher.md) — NPR CEO voicing the appeal and linking public-media funding to local reporting, rural access, and donations.
-- [Planet Money](entities/PlanetMoney.md) — NPR economics podcast feed now covering both the public-media funding appeal and a reported episode on tree ordinances, canopy benefits, and property rights.
+- [Planet Money](entities/PlanetMoney.md) — NPR economics podcast feed now covering public-media funding, tree ordinances, Iran sanctions, and Fast 16 cyber sabotage.
 - [1A](entities/1A.md) — WAMU/NPR public-affairs podcast promoted through the If You Can Keep It political series.
 - [WAMU](entities/WAMU.md) — Public-radio organization named with NPR in the 1A promo.
 - [Jen White](entities/JenWhite.md) — 1A host voice promoting If You Can Keep It.
@@ -1990,7 +1999,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lithuania](entities/Lithuania.md) — Baltic security case where German deployment and American force uncertainty make NATO credibility visible.
 - [Ali Khamenei](entities/AliKhamenei.md) — Iranian supreme-leader figure whose funeral is framed by The Intelligence as religious rite, regime display, and succession test.
 - [Mujtaba Khamenei](entities/MujtabaKhamenei.md) — Khamenei son described by the episode as supposed successor whose absence creates command uncertainty.
-- [Iran](entities/Iran.md) — Country context for U.S.-Iran diplomacy, Strait of Hormuz bargaining, Khamenei's funeral, succession uncertainty, digital-infrastructure war risk, and state-linked cyber operations.
+- [Iran](entities/Iran.md) — Country context for U.S.-Iran diplomacy, sanctions, Strait of Hormuz bargaining, succession uncertainty, digital-infrastructure war risk, state-linked cyber operations, and possible cyber-sabotage targeting.
 - [Strait of Hormuz](entities/StraitOfHormuz.md) — Shipping chokepoint tied to the episode's U.S.-Iran deal terms and later Iran ceasefire bargaining.
 - [Japan](entities/Japan.md) — Country context for legal and political sources plus FengTouQuan's product-experience, tourism, neighborhood, theme-park, and Sanrio comparison.
 - [Route 66](entities/Route66.md) — American highway treated as a centenary symbol of migration, car culture, decommissioned infrastructure, Old West performance, and nostalgia tourism.
@@ -2608,6 +2617,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Cyber Sabotage](concepts/CyberSabotage.md) — Malware or digital access used to damage, degrade, or mislead targets rather than merely steal information.
+- [Calculation Integrity Attack](concepts/CalculationIntegrityAttack.md) — Cyberattack pattern that corrupts computational results while leaving the surrounding workflow plausible.
+- [Epistemological Warfare](concepts/EpistemologicalWarfare.md) — Attack frame where corrupting trusted outputs damages a target's ability to know what is true.
+- [Nuclear Weapons Modeling](concepts/NuclearWeaponsModeling.md) — Simulation domain that the Fast 16 episode identifies as the likely target area for calculation-corruption sabotage.
+- [AI-Assisted Malware Reverse Engineering](concepts/AIAssistedMalwareReverseEngineering.md) — Use of AI tools to help experts inspect and reason about malware while keeping human validation central.
 - [Iran Sanctions](concepts/IranSanctions.md) — Multi-decade U.S. and international pressure system linking asset freezes, oil limits, banking isolation, nuclear diplomacy, civilian hardship, and insider gains.
 - [Dollar Financial Sanctions](concepts/DollarFinancialSanctions.md) — Use of dollar clearing, global bank access, and compliance risk to isolate a target economy beyond direct trade restrictions.
 - [Sanctions Overcompliance](concepts/SanctionsOvercompliance.md) — Pattern where banks and firms avoid more activity than sanctions law requires because legal and reputational risk remains too high.
@@ -3621,7 +3635,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Live-Action Short Drama](concepts/LiveActionShortDrama.md) — Human-cast short-drama category whose value depends on actor fit, relationship nuance, collaborative production craft, and AI-assisted rather than AI-replaced workflows.
 - [Short Drama Industrialization](concepts/ShortDramaIndustrialization.md) — Production-management pattern using script tagging, middle-office coordination, reusable scenes, ROI controls, and AI workflow checks to scale live-action short drama.
 - [Character Relationship Story Logic](concepts/CharacterRelationshipStoryLogic.md) — Story method where character relationships determine motivation, motivation determines events, and events determine whether short-drama audiences stay immersed.
-- [U.S.-Iran Nuclear Diplomacy](concepts/USIranNuclearDiplomacy.md) — Negotiation frame around the Strait of Hormuz, Iranian assets, uranium-stockpile talks, and Lebanon-related fragility.
+- [U.S.-Iran Nuclear Diplomacy](concepts/USIranNuclearDiplomacy.md) — Negotiation and covert-pressure frame around sanctions, uranium-stockpile talks, cyber sabotage, the Strait of Hormuz, and Lebanon-related fragility.
 - [Proxy Conflict Spoiler Risk](concepts/ProxyConflictSpoilerRisk.md) — Risk that an unresolved local or allied armed conflict undermines a broader diplomatic agreement.
 - [El Nino](concepts/ElNino.md) — Pacific climate pattern whose strength is measured through sea-surface temperature anomalies and global weather disruption.
 - [El Nino Climate Risk](concepts/ElNinoClimateRisk.md) — Risk frame for a strong El Nino layered onto global warming, food insecurity, disease, drought, floods, and aid constraints.

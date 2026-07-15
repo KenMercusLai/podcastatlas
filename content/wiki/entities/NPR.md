@@ -2,7 +2,7 @@
 title: "NPR"
 type: entity
 tags: [media, public-media, journalism]
-sources: [iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
+sources: [can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
 last_updated: 2026-07-15
 ---
 
@@ -16,6 +16,8 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 
 [[iran-protests-and-sanctions]] adds another reported [[PlanetMoney]] episode, this time on [[IranSanctions]], [[USIranNuclearDiplomacy]], and the civilian costs of [[DollarFinancialSanctions]]. It extends NPR's economics-reporting branch from local regulation into international political economy.
 
+[[can-computer-hackers-get-inside-your-mind]] adds a reported [[PlanetMoney]] cybersecurity episode. It extends NPR's branch into intelligence history, [[Fast16|Fast 16]], [[Stuxnet]], [[CyberSabotage]], and the trust problem created when malware may corrupt calculations rather than simply steal data.
+
 ## Connections
 - [[KatherineMaher]] — NPR CEO and speaker in the appeal.
 - [[PublicMediaFunding]] — central issue in the source.
@@ -24,3 +26,4 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 - [[PlanetMoney]], [[1A]], [[WAMU]], and [[IfYouCanKeepIt]] — podcast and public-radio context.
 - [[TreeProtectionOrdinances]] and [[PropertyRightsCommunityObligations]] - reported-economics branch added through Planet Money.
 - [[IranSanctions]], [[EconomicSanctionsAsViolence]], and [[SanctionsOvercompliance]] - international-economics branch added through Planet Money.
+- [[Fast16]], [[CalculationIntegrityAttack]], [[CyberSabotage]], and [[EpistemologicalWarfare]] - cybersecurity and epistemic-trust branch added through Planet Money.

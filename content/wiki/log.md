@@ -3324,3 +3324,11 @@ Added source page for the Planet Money episode on U.S. sanctions against Iran, e
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-15] ingest | Can computer hackers get inside your mind?
+
+Added source page for the Planet Money episode on Fast 16, a suspected Stuxnet-like malware case involving high-precision calculation corruption, LS-Dyna physics modeling, possible nuclear-weapons simulations, and epistemological warfare. Created pages for Fast 16, Juan Andres Guerrero Saade, Vitaly Kamluk, SentinelOne, National Security Agency, Stuxnet, LS-Dyna, Institute for Science and International Security, Cyber Sabotage, Calculation Integrity Attack, Epistemological Warfare, Nuclear Weapons Modeling, and AI-Assisted Malware Reverse Engineering; updated overview, index, NPR, Planet Money, Iran, and U.S.-Iran Nuclear Diplomacy. No direct contradiction found; the source keeps Fast 16's target, creator, and historical effect unconfirmed, treating Iran and nuclear-development sabotage as a strong but circumstantial interpretation.
+
+## [2026-07-15] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 4,351 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
