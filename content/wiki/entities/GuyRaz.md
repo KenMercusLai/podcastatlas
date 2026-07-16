@@ -2,8 +2,8 @@
 title: "Guy Raz"
 type: entity
 tags: [host, podcast, startups]
-sources: [justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91, advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86, build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943, ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939, starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4, advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e]
-last_updated: 2026-07-09
+sources: [justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91, advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86, build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943, ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939, starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4, advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88]
+last_updated: 2026-07-16
 ---
 
 # Guy Raz
@@ -15,6 +15,8 @@ In [[advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8
 In [[catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2]], Guy interviews [[KrishnaKaliannan]] about building [[CatalinaCrunch]] from dietary constraint, home cereal formulation, DTC demand, co-manufacturing gaps, and [[WholeFoodsMarket]] retail breakout.
 
 In [[advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e]], Guy hosts [[JeniBritton]] and helps diagnose [[JesseAndBens]]' frozen-fry positioning, [[JajuPierogi]]'s capital-control tradeoff, and [[UbeCo]]'s science-backed pet-treat messaging.
+
+In [[advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88]], Guy hosts [[KennethCole]] and helps diagnose [[PedestrianProject]]'s conversion-versus-education choice, [[IsraelAcabla]]'s wholesale-to-DTC customer gap, and [[SwingSculpt]]'s need to sell emotional keepsakes rather than only custom fabrication.
 
 ## Connections
 - [[HowIBuiltThis]] - show context.
@@ -32,6 +34,7 @@ In [[advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8c
 - [[RonnenHarary]], [[SpinMaster]], [[PAWPatrol]], [[YearlyCo]], [[IslandBeeCompany]], and [[WanderingSoulBeer]] - Advice Line guest, company context, franchise context, and caller cases.
 - [[KrishnaKaliannan]], [[CatalinaCrunch]], [[EscapeMyBubble]], and [[DougBehrens]] - low-sugar cereal founder-story episode.
 - [[JeniBritton]], [[JenisSplendidIceCreams]], [[JesseAndBens]], [[JajuPierogi]], and [[UbeCo]] - Advice Line guest, company context, and caller cases.
+- [[KennethCole]], [[PedestrianProject]], [[IsraelAcabla]], and [[SwingSculpt]] - Advice Line guest and caller cases.
 - [[CPGDistribution]], [[PostAcquisitionFounderIdentity]], [[MissionDrivenCustomerEducation]], and [[ProductLedWillingnessToPay]] - themes discussed through the episodes.
 - [[LowPriceBrandPerception]], [[RetailIncrementality]], and [[DirectToConsumerCashFlow]] - value beauty themes added by the e.l.f. episode.
 - [[RelationshipLedGrowth]] and [[LocalMarketProof]] - channel-focus themes added by the Susan Griffin-Black Advice Line episode.
@@ -45,3 +48,4 @@ In [[advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8c
 - [[CommodityPriceExposure]], [[StoryLedConsumerBranding]], [[FamilyBusinessScaling]], and [[FounderWorkBoundaries]] - themes added by the Ronnen Harary Advice Line episode.
 - [[DietaryConstraintProductInsight]], [[CPGManufacturingScaleUp]], and [[PackagingAsProductExperience]] - themes added by the Catalina Crunch episode.
 - [[RepeatableCustomerLanguage]], [[RetailIncrementality]], [[InStoreDemos]], [[StartupGovernance]], and [[SustainableGrowthPace]] - themes added by the Jeni Britton Advice Line episode.
+- [[EmotionalBrandRelationship]], [[WholesaleToDirectCustomerBridge]], and [[DirectToConsumerBrandControl]] - themes added by the Kenneth Cole Advice Line episode.

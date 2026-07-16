@@ -3364,3 +3364,11 @@ Added source page for the Marketplace Tech episode with Brandon Katz of Greenlig
 ## [2026-07-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-16] ingest | Advice Line with Kenneth Cole
+
+Added source page for a How I Built This Advice Line episode with Kenneth Cole on brand longevity, social purpose, Pedestrian Project's foot-wellness positioning, Israel Acabla's wholesale-to-DTC customer gap, and Swing Sculpt's custom sports-keepsake friction. Created pages for Kenneth Cole, Pedestrian Project, Matt Jacobs, Israel Acabla, Emma Fiquade, Swing Sculpt, Levi Case, Gentle Souls, Emotional Brand Relationship, and Wholesale-To-Direct Customer Bridge; updated overview, index, How I Built This, Guy Raz, Story Led Consumer Branding, Direct-To-Consumer Brand Control, Category Creation, Purpose Driven Business, Consumer Brand Moat, Experiential Retail, Product Led Willingness To Pay, Made-To-Order Commerce, and Repeatable Customer Language. No direct contradiction found; the source reinforces the wiki's consumer-brand pattern that distribution, wholesale reach, and product novelty need emotional clarity, conversion proof, direct customer capture, and repeatable customer language before they become durable brand value.
+
+## [2026-07-16] lint | Wiki health check
+
+Ran lint after health passed. Report returned in-session; `wiki/lint-report.md` was not saved.
