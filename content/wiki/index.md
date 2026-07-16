@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [93.聊聊头发：秃了，就会变强吗？](sources/93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489.md) — 蜜獾吃书 episode using Kurt Stenn's 《头发》 to connect hair biology, follicle cycles, hair-loss treatment claims, political identity, gendered beauty norms, religion, barber history, and forensic hair evidence.
 - [Advice Line with Kenneth Cole](sources/advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88.md) — How I Built This Advice Line episode with Kenneth Cole on Pedestrian Project, Israel Acabla, Swing Sculpt, emotional brand relationships, wholesale-to-DTC customer bridges, category education, and custom keepsake positioning.
 - [Netflix struggles to retain viewers after a series' first season](sources/tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128.md) — Marketplace Tech episode with Brandon Katz on Netflix's second-season viewer drop-off, binge releases, long production gaps, catalog abundance, competition, and cancellation economics.
 - [E244｜端到端vs上下分层：机器人路径之争，正在转向？](sources/e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e.md) — 硅谷101 episode with Han Zheng on Sudu Technology, robot manipulation, structured 3D data, Sim2Real, layered robot architecture, and why open-world unseen-object demos matter more than rehearsed robot showcases.
@@ -424,6 +425,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《头发》 / Hair](entities/HairBook.md) — Kurt Stenn book used by episode 93 to connect hair biology, social history, medicine, grooming, politics, and forensic evidence.
+- [Kurt Stenn / 库尔特·斯坦](entities/KurtStenn.md) — Hair researcher and author whose book grounds the episode's biology-to-culture account of hair.
+- [达菲辛 / Dafeixin](entities/Dafeixin.md) — Sponsor brand in episode 93, tied to the source-scoped hair-loss and minoxidil discussion.
+- [Minoxidil / 米诺地尔](entities/Minoxidil.md) — Hair-growth ingredient discussed in the episode's sponsor section as acting through follicle-cycle dynamics.
+- [Alan Turing / 图灵](entities/AlanTuring.md) — Mathematician used by episode 93 to explain morphogenesis and hair-follicle pattern formation.
+- [Donald Gates](entities/DonaldGates.md) — Wrongful-conviction case used by episode 93 to warn against overclaiming visual hair evidence.
 - [Kenneth Cole](entities/KennethCole.md) — Fashion founder and Advice Line guest linking durable brands to distinct voice, social purpose, emotional relevance, and repeat customer experience.
 - [Pedestrian Project](entities/PedestrianProject.md) — Modern foot-wellness brand advised to pair conversion-first channel learning with a positive emotional foot-care story.
 - [Matt Jacobs](entities/MattJacobs.md) — Pedestrian Project co-founder asking whether to take existing foot-care share or educate a broader proactive wellness category.
@@ -2658,6 +2665,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Hair As Biosocial Signal](concepts/HairAsBiosocialSignal.md) — Frame for hair as evolved body structure, social surface, identity marker, ritual object, and evidence trace.
+- [Hair Loss And Follicle Cycle](concepts/HairLossFollicleCycle.md) — Medical frame separating visible shedding from follicle growth, rest, miniaturization, damage, and recovery.
+- [Hair As Political Identity](concepts/HairAsPoliticalIdentity.md) — Pattern where queues, shaved heads, beards, and hairstyles become signs of obedience, rebellion, ritual, or humiliation.
+- [Gendered Hair Regulation](concepts/GenderedHairRegulation.md) — Gendered policing of hair, hairlessness, beauty, illness visibility, body shame, and screen/art representation.
+- [Forensic Hair Evidence](concepts/ForensicHairEvidence.md) — Hair as criminal and historical evidence, useful for traces but risky when visual comparison is overclaimed.
 - [Emotional Brand Relationship](concepts/EmotionalBrandRelationship.md) — Consumer-brand pattern where feeling, memory, identity, and return experience make the product matter beyond function.
 - [Wholesale-To-Direct Customer Bridge](concepts/WholesaleToDirectCustomerBridge.md) — Tactics that turn wholesale discovery into owned customer relationship without undermining the retail partner.
 - [Streaming Audience Retention](concepts/StreamingAudienceRetention.md) — Streaming problem of converting launch sampling into durable completion, memory, loyalty, and return viewing after season gaps.

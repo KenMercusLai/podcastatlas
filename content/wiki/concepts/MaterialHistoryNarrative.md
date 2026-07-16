@@ -2,8 +2,8 @@
 title: "Material History Narrative"
 type: concept
 tags: [history, commodities, narrative, material-culture]
-sources: [152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, 71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
-last_updated: 2026-07-15
+sources: [93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, 71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
+last_updated: 2026-07-16
 ---
 
 # Material History Narrative
@@ -20,6 +20,8 @@ The concept is useful because it keeps scale changes visible. A material object 
 
 [[152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062]] adds a festival-object version through [[QixiFestival|七夕 / Qixi]]. [[TokyoMenghuaLu|《东京梦华录》]]'s fruit figures, water toys, seedling boards, sprouting displays, and 摩侯罗 dolls show that ritual calendars become visible through things people buy, make, offer, display, and reinterpret across regions.
 
+[[93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489]] adds a bodily-material version through [[HairAsBiosocialSignal]]. Hair is not a commodity in the same way coffee or sanitary products are, but the source treats it as a material that crosses biology, grooming, medicine, beauty markets, religious practice, state coercion, and forensic evidence. That broadens this concept from external objects to body materials that are still socially produced and interpreted.
+
 ## Key Claims
 - Everyday substances can reveal political economy, sensory habit, social space, and state power.
 - A strong material-history narrative must connect consumption with production, labor, transport, taxation, and inequality.
@@ -28,6 +30,7 @@ The concept is useful because it keeps scale changes visible. A material object 
 - Gendered material histories have to ask who can safely buy, name, carry, dispose of, and trust the object.
 - Perishable wild foods add safety and habitat questions to material history: the object cannot be separated from identification, season, gathering practice, and ecological renewal.
 - Festival objects make belief portable: toys, offerings, seeds, miniatures, and domestic displays can carry ritual meaning through markets and trade routes.
+- Bodily materials such as hair can also carry material history when they connect anatomy, care products, ritual, coercion, labor, and evidence.
 
 ## Connections
 - [[Coffee|Coffee / 咖啡]] and [[QuanqiuShangyin|《全球上瘾》]] - source case for a commodity as protagonist.
@@ -37,3 +40,4 @@ The concept is useful because it keeps scale changes visible. A material object 
 - [[LongDistanceTradeFriction]] and [[CommodityPriceExposure]] - economic mechanics often exposed by material histories.
 - [[YunnanWildMushroomCulture]], [[WildMushroomFoodSafety]], and [[ForagingEthics]] - wild-food extension added by episode 150.
 - [[QixiFestival|七夕 / Qixi]], [[TokyoMenghuaLu|《东京梦华录》]], and [[QixiCrossCulturalTransmission]] - festival-object extension added by episode 152.
+- [[HairBook|《头发》 / Hair]], [[HairAsBiosocialSignal]], and [[GenderedHairRegulation]] - bodily-material extension added by episode 93.

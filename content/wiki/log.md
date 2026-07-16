@@ -3372,3 +3372,11 @@ Added source page for a How I Built This Advice Line episode with Kenneth Cole o
 ## [2026-07-16] lint | Wiki health check
 
 Ran lint after health passed. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-16] ingest | 93.聊聊头发：秃了，就会变强吗？
+
+Added source page for the 蜜獾吃书 episode using Kurt Stenn's 《头发》 to connect hair evolution, follicle cycles, sponsor-scoped minoxidil discussion, political and religious hair identity, gendered hair regulation, barber history, and forensic hair evidence. Created pages for 《头发》 / Hair, Kurt Stenn, 达菲辛, Minoxidil, Alan Turing, Donald Gates, Hair As Biosocial Signal, Hair Loss And Follicle Cycle, Hair As Political Identity, Gendered Hair Regulation, and Forensic Hair Evidence; updated overview, index, 蜜獾吃书, Material History Narrative, Evolutionary Trait Interpretation, Contested Forensic Attribution, Edgar Allan Poe, and J.R.R. Tolkien. No direct contradiction found; the source extends existing material-history, body-regulation, and forensic-evidence branches while keeping treatment claims source-scoped.
+
+## [2026-07-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

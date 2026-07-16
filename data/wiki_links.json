@@ -427,6 +427,10 @@
     "title": "8848",
     "url": "/wiki/entities/8848/"
   },
+  "93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489": {
+    "title": "93.聊聊头发：秃了，就会变强吗？",
+    "url": "/wiki/sources/93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489/"
+  },
   "A7A5": {
     "title": "A7A5",
     "url": "/wiki/entities/a7a5/"
@@ -1330,6 +1334,10 @@
   "AlanNewman": {
     "title": "Alan Newman",
     "url": "/wiki/entities/alannewman/"
+  },
+  "AlanTuring": {
+    "title": "Alan Turing / 图灵",
+    "url": "/wiki/entities/alanturing/"
   },
   "Aldhani": {
     "title": "Aldhani",
@@ -4003,6 +4011,10 @@
     "title": "呆萝卜 / Da Luobo",
     "url": "/wiki/entities/daluobo/"
   },
+  "Dafeixin": {
+    "title": "达菲辛 / Dafeixin",
+    "url": "/wiki/entities/dafeixin/"
+  },
   "DaiYusen": {
     "title": "Dai Yusen / 戴雨森",
     "url": "/wiki/entities/daiyusen/"
@@ -4610,6 +4622,10 @@
   "DonValentine": {
     "title": "Don Valentine",
     "url": "/wiki/entities/donvalentine/"
+  },
+  "DonaldGates": {
+    "title": "Donald Gates",
+    "url": "/wiki/entities/donaldgates/"
   },
   "DonaldTrump": {
     "title": "Donald Trump",
@@ -5755,6 +5771,10 @@
     "title": "Foreign Banking In China",
     "url": "/wiki/concepts/foreignbankinginchina/"
   },
+  "ForensicHairEvidence": {
+    "title": "Forensic Hair Evidence",
+    "url": "/wiki/concepts/forensichairevidence/"
+  },
   "FormalSpecification": {
     "title": "Formal Specification",
     "url": "/wiki/concepts/formalspecification/"
@@ -6251,6 +6271,10 @@
     "title": "Gendered Freedom Against Order",
     "url": "/wiki/concepts/genderedfreedomagainstorder/"
   },
+  "GenderedHairRegulation": {
+    "title": "Gendered Hair Regulation",
+    "url": "/wiki/concepts/genderedhairregulation/"
+  },
   "GenderedMedicalization": {
     "title": "Gendered Medicalization",
     "url": "/wiki/concepts/genderedmedicalization/"
@@ -6694,6 +6718,22 @@
   "HaileGebrselassie": {
     "title": "Haile Gebrselassie",
     "url": "/wiki/entities/hailegebrselassie/"
+  },
+  "HairAsBiosocialSignal": {
+    "title": "Hair As Biosocial Signal",
+    "url": "/wiki/concepts/hairasbiosocialsignal/"
+  },
+  "HairAsPoliticalIdentity": {
+    "title": "Hair As Political Identity",
+    "url": "/wiki/concepts/hairaspoliticalidentity/"
+  },
+  "HairBook": {
+    "title": "《头发》 / Hair",
+    "url": "/wiki/entities/hairbook/"
+  },
+  "HairLossFollicleCycle": {
+    "title": "Hair Loss And Follicle Cycle",
+    "url": "/wiki/concepts/hairlossfolliclecycle/"
   },
   "HakanFidan": {
     "title": "Hakan Fidan",
@@ -8463,6 +8503,10 @@
     "title": "Kun Ni",
     "url": "/wiki/entities/kunni/"
   },
+  "KurtStenn": {
+    "title": "Kurt Stenn / 库尔特·斯坦",
+    "url": "/wiki/entities/kurtstenn/"
+  },
   "KyleVogt": {
     "title": "Kyle Vogt",
     "url": "/wiki/entities/kylevogt/"
@@ -9966,6 +10010,10 @@
   "MinoanCivilization": {
     "title": "Minoan Civilization",
     "url": "/wiki/entities/minoancivilization/"
+  },
+  "Minoxidil": {
+    "title": "Minoxidil / 米诺地尔",
+    "url": "/wiki/entities/minoxidil/"
   },
   "Missfresh": {
     "title": "每日优鲜 / Missfresh",
