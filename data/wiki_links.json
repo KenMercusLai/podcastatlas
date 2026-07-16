@@ -575,6 +575,10 @@
     "title": "AI Companion Active Memory",
     "url": "/wiki/concepts/aicompanionactivememory/"
   },
+  "AICompanionAttentionRisk": {
+    "title": "AI Companion Attention Risk",
+    "url": "/wiki/concepts/aicompanionattentionrisk/"
+  },
   "AICompanyDeepWell": {
     "title": "AI Company Deep Well",
     "url": "/wiki/concepts/aicompanydeepwell/"
@@ -2391,6 +2395,10 @@
     "title": "Big Company Halo",
     "url": "/wiki/concepts/bigcompanyhalo/"
   },
+  "BigTobaccoPlatformAnalogy": {
+    "title": "Big Tobacco Platform Analogy",
+    "url": "/wiki/concepts/bigtobaccoplatformanalogy/"
+  },
   "BilalErdogan": {
     "title": "Bilal Erdogan",
     "url": "/wiki/entities/bilalerdogan/"
@@ -2726,6 +2734,10 @@
   "CNOOC": {
     "title": "CNOOC / 中国海油",
     "url": "/wiki/entities/cnooc/"
+  },
+  "COPPA": {
+    "title": "COPPA",
+    "url": "/wiki/concepts/coppa/"
   },
   "COWZ": {
     "title": "COWZ",
@@ -5383,6 +5395,10 @@
     "title": "Fable 5",
     "url": "/wiki/entities/fable5/"
   },
+  "Facebook": {
+    "title": "Facebook",
+    "url": "/wiki/entities/facebook/"
+  },
   "FairyTaleDeathAndSpirituality": {
     "title": "Fairy-Tale Death And Spirituality",
     "url": "/wiki/concepts/fairytaledeathandspirituality/"
@@ -6190,6 +6206,10 @@
   "GabrielAttal": {
     "title": "Gabriel Attal",
     "url": "/wiki/entities/gabrielattal/"
+  },
+  "GaiaBernstein": {
+    "title": "Gaia Bernstein",
+    "url": "/wiki/entities/gaiabernstein/"
   },
   "Gaide": {
     "title": "盖德",
@@ -11487,6 +11507,10 @@
     "title": "Platform Company Worldviews",
     "url": "/wiki/concepts/platformcompanyworldviews/"
   },
+  "PlatformDamagesAndDisgorgement": {
+    "title": "Platform Damages And Disgorgement",
+    "url": "/wiki/concepts/platformdamagesanddisgorgement/"
+  },
   "PlatformDataRegulation": {
     "title": "Platform Data Regulation",
     "url": "/wiki/concepts/platformdataregulation/"
@@ -13155,6 +13179,10 @@
     "title": "Service Productization",
     "url": "/wiki/concepts/serviceproductization/"
   },
+  "SetonHallUniversity": {
+    "title": "Seton Hall University",
+    "url": "/wiki/entities/setonhalluniversity/"
+  },
   "SevenGeases": {
     "title": "《七咒赋》 / The Seven Geases",
     "url": "/wiki/entities/sevengeases/"
@@ -13543,6 +13571,10 @@
     "title": "Social Graph Moat",
     "url": "/wiki/concepts/socialgraphmoat/"
   },
+  "SocialMediaCausationScienceWars": {
+    "title": "Social Media Causation Science Wars",
+    "url": "/wiki/concepts/socialmediacausationsciencewars/"
+  },
   "SocialMediaProductLiability": {
     "title": "Social Media Product Liability",
     "url": "/wiki/concepts/socialmediaproductliability/"
@@ -13858,6 +13890,10 @@
   "StartupTimingWindows": {
     "title": "Startup Timing Windows",
     "url": "/wiki/concepts/startuptimingwindows/"
+  },
+  "StateAGPlatformLitigation": {
+    "title": "State AG Platform Litigation",
+    "url": "/wiki/concepts/stateagplatformlitigation/"
   },
   "StateAdministrationForMarketRegulation": {
     "title": "State Administration for Market Regulation",
@@ -17418,6 +17454,10 @@
   "tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128": {
     "title": "Netflix struggles to retain viewers after a series' first season",
     "url": "/wiki/sources/tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128/"
+  },
+  "tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128": {
+    "title": "Why state AGs are taking Meta to court",
+    "url": "/wiki/sources/tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",

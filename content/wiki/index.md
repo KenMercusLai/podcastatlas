@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Why state AGs are taking Meta to court](sources/tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128.md) — Marketplace Tech episode with Gaia Bernstein on state AG lawsuits against Meta, the Big Tobacco analogy for youth social-media harms, COPPA and disgorgement pressure, and AI companion attention risks.
 - [In it to bin it: Nigel Farage v Count Binface](sources/in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e.md) — The Intelligence episode on Farage and Count Binface in Clacton, Starlink and mixed connectivity in Nigeria, and Nolan's Odyssey adaptation.
 - [93.聊聊头发：秃了，就会变强吗？](sources/93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489.md) — 蜜獾吃书 episode using Kurt Stenn's 《头发》 to connect hair biology, follicle cycles, hair-loss treatment claims, political identity, gendered beauty norms, religion, barber history, and forensic hair evidence.
 - [Advice Line with Kenneth Cole](sources/advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88.md) — How I Built This Advice Line episode with Kenneth Cole on Pedestrian Project, Israel Acabla, Swing Sculpt, emotional brand relationships, wholesale-to-DTC customer bridges, category education, and custom keepsake positioning.
@@ -426,6 +427,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Gaia Bernstein](entities/GaiaBernstein.md) — Seton Hall law professor explaining state AG litigation against Meta, the Big Tobacco analogy, damages pressure, causation disputes, and AI companion risks.
+- [Seton Hall University](entities/SetonHallUniversity.md) — University affiliation for Gaia Bernstein in the Marketplace Tech social-media litigation episode.
+- [Facebook](entities/Facebook.md) — Meta social-media platform named alongside Instagram in state AG litigation over alleged addictive design and youth harms.
 - [Nigel Farage](entities/NigelFarage.md) — Reform UK figure whose Clacton by-election is framed by the source as a finance-scrutiny and political-farce accountability case.
 - [Count Binface](entities/CountBinface.md) — Satirical British candidate challenging Nigel Farage in Clacton and exposing the absurdity of the by-election structure.
 - [John Harvey](entities/JohnHarvey.md) — Comedian and writer identified by the source as the performer behind Count Binface.
@@ -2679,6 +2683,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [COPPA](concepts/COPPA.md) — Children's privacy law invoked in the state AG case against Meta over alleged under-13 data collection without parental consent.
+- [State AG Platform Litigation](concepts/StateAGPlatformLitigation.md) — State attorneys general using aggregate lawsuits to pressure platform design, children's privacy, and youth-harm accountability.
+- [Big Tobacco Platform Analogy](concepts/BigTobaccoPlatformAnalogy.md) — Public-health litigation comparison linking social-media lawsuits to tobacco-style causation fights, internal evidence, and cumulative attorney-general pressure.
+- [Platform Damages And Disgorgement](concepts/PlatformDamagesAndDisgorgement.md) — Remedy frame where platform lawsuits seek punishment, settlement pressure, and return of profits allegedly tied to illegal conduct.
+- [Social Media Causation Science Wars](concepts/SocialMediaCausationScienceWars.md) — Evidence dispute over whether social media causes youth harms, shaped by public-health institutions, company-funded research, and internal documents.
+- [AI Companion Attention Risk](concepts/AICompanionAttentionRisk.md) — Risk that AI companions inherit social-media attention incentives while adding anthropomorphism, memory, and sycophantic emotional responsiveness.
 - [Political Farce Accountability](concepts/PoliticalFarceAccountability.md) — Pattern where satire and joke candidates expose a serious accountability gap rather than merely trivializing politics.
 - [Africa Connectivity Infrastructure](concepts/AfricaConnectivityInfrastructure.md) — Mixed-network problem where mobile, fibre, satellite, and local operators must combine to meet heavier data demand.
 - [Homeric Adaptation Modernization](concepts/HomericAdaptationModernization.md) — Pattern where Odyssey adaptations reveal modern values while risking the loss of ancient moral strangeness.

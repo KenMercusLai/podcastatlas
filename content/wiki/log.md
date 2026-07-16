@@ -3388,3 +3388,11 @@ Added source page for The Intelligence episode on Nigel Farage versus Count Binf
 ## [2026-07-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-17] ingest | Why state AGs are taking Meta to court
+
+Added source page for the Marketplace Tech episode with Gaia Bernstein on state attorneys general suing Meta over alleged addictive design in Facebook and Instagram, the $1.4 trillion damages claim, COPPA, disgorgement, Big Tobacco-style causation disputes, and AI companion attention risks. Created pages for Gaia Bernstein, Seton Hall University, Facebook, COPPA, State AG Platform Litigation, Big Tobacco Platform Analogy, Platform Damages And Disgorgement, Social Media Causation Science Wars, and AI Companion Attention Risk; updated overview, index, Marketplace Tech, Meta, Instagram, Megan McCarty-Corino, California, Social Media Product Liability, Addictive Interaction Design, AI Friend Products, AI Companion Active Memory, Teen Chatbot Mental Health Risk, and Sycophantic AI Companion Risk. No direct contradiction found; the source extends the existing social-media product-liability branch from a negligence verdict into state-AG public-health litigation and qualifies AI companion design by treating memory and sycophantic affirmation as possible attention-economy risk multipliers.
+
+## [2026-07-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

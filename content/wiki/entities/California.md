@@ -2,17 +2,20 @@
 title: "California"
 type: entity
 tags: [place, state, privacy, legislation]
-sources: [tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources: [tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128]
+last_updated: 2026-07-17
 ---
 
 # California
+
+California appears in [[tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128]] as one of the states whose attorneys general are suing [[Meta]] over alleged addictive design, hidden harms, and children's privacy violations. The episode also describes the case as heading to court in Oakland, California, making the state part of [[StateAGPlatformLitigation]] as well as the wiki's existing privacy-law branch.
 
 California appears in [[tech-20260309-0309-mp-tech-pod-128-tech-20260309-0309-mp-tech-pod-128]] as the state launching the [[DeleteRequestAndOptOutPlatform|DROP]] data-broker deletion tool under the [[CaliforniaDeleteAct]]. The episode frames the state as filling part of a national privacy-policy gap by giving residents a single place to request deletion from registered data brokers.
 
 The California case complements [[Montana]]'s role in [[tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128]]. Montana is used as a warrant-requirement example for closing the [[DataBrokerLoophole]] in government purchases; California is used as a consumer-agency example for reducing broker-held data before it can be sold, reused, or targeted.
 
 ## Connections
+- [[Meta]], [[StateAGPlatformLitigation]], [[SocialMediaProductLiability]], and [[COPPA]] - social-media youth-harm lawsuit context added by Marketplace Tech.
 - [[DeleteRequestAndOptOutPlatform|DROP]] and [[CaliforniaDeleteAct]] - state platform and law.
 - [[ConsumerDataDeletion]] - consumer-side privacy mechanism.
 - [[DataBrokerLoophole]], [[GovernmentDataBrokerAccess]], and [[PlatformDataRegulation]] - broader data-governance branch.
