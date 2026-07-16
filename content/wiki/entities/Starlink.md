@@ -2,8 +2,8 @@
 title: "Starlink"
 type: entity
 tags: [company, satellite, spacex, connectivity]
-sources: [tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]
-last_updated: 2026-07-12
+sources: [tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]
+last_updated: 2026-07-16
 ---
 
 # Starlink
@@ -14,9 +14,12 @@ The source gives Starlink two roles. First, it can generate commercial cash flow
 
 [[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] reinforces the cash-flow role. [[PareshDave]] says [[SpaceX]] appears profitable at least on an adjusted basis, helped by Starlink and launch revenue, making Starlink part of the reason [[XAI|xAI]] could get a better-funded home inside SpaceX.
 
+[[in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]] adds a user-infrastructure case from [[Nigeria]]. In that source, Starlink appeals to people frustrated by unreliable internet and may help places where terrain or distance makes conventional service expensive, but the episode treats it as a stopgap inside [[AfricaConnectivityInfrastructure]] rather than a complete replacement for fibre, mobile networks, or other providers such as [[Eutelsat]].
+
 ## Connections
 - [[SpaceX]] — Starlink's parent company in the source.
 - [[ReusableRocketEconomics]] — launch-cost precondition for building the constellation.
 - [[Starship]] — next vehicle platform that could further lower deployment cost.
 - [[SpaceEconomyInfrastructure]] and [[SpaceBasedAIInfrastructure]] — broader platform roles suggested by the episode.
 - [[XAI|xAI]] and [[Grok]] — AI entities tied to Starlink through the SpaceX acquisition discussion.
+- [[Nigeria]], [[Eutelsat]], and [[AfricaConnectivityInfrastructure]] — connectivity branch added by the Economist source.

@@ -2,8 +2,8 @@
 title: "Andy Burnham"
 type: entity
 tags: [politics, uk]
-sources: [a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1]
-last_updated: 2026-07-09
+sources: [a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]
+last_updated: 2026-07-16
 ---
 
 # Andy Burnham
@@ -14,8 +14,11 @@ Andy Burnham is one of the possible [[LabourPartyUK]] successors discussed in [[
 
 [[starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1]] then turns the by-election opening into a succession endpoint after Starmer announces resignation. That later source also limits Burnham's room for maneuver: he may unite Labour because he looks like a winner, but Labour's 2024 manifesto leaves him narrow policy space.
 
+[[in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]] treats Burnham's replacement of [[KeirStarmer]] as part of the background to [[NigelFarage]]'s risk calculation. The source says [[LabourPartyUK]] expects a popularity bounce from Burnham as prime minister, while [[ReformUK]] still remains strong nationally and especially in [[Clacton]].
+
 ## Connections
 - [[KeirStarmer]] — incumbent whose vulnerability becomes a succession opening.
 - [[LabourLeadershipCrisis]] — context for Burnham's route into Parliament and leadership claim.
 - [[ReformUK]] — defeated by Burnham in Makerfield in the route-to-power source.
 - [[AngelaRayner]], [[WesStreeting]], and [[EdMiliband]] — other possible successors named by the episode.
+- [[NigelFarage]], [[Clacton]], and [[PoliticalFarceAccountability]] — later source's background for Reform's risk and resilience.

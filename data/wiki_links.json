@@ -1211,6 +1211,10 @@
     "title": "Afghanistan",
     "url": "/wiki/entities/afghanistan/"
   },
+  "AfricaConnectivityInfrastructure": {
+    "title": "Africa Connectivity Infrastructure",
+    "url": "/wiki/concepts/africaconnectivityinfrastructure/"
+  },
   "AfricanMythology": {
     "title": "African Mythology",
     "url": "/wiki/concepts/africanmythology/"
@@ -2955,6 +2959,10 @@
     "title": "Catherine / 凯瑟琳",
     "url": "/wiki/entities/catherinejulesandjim/"
   },
+  "CatherineNixie": {
+    "title": "Catherine Nixie",
+    "url": "/wiki/entities/catherinenixie/"
+  },
   "CausalAI": {
     "title": "Causal AI",
     "url": "/wiki/concepts/causalai/"
@@ -3283,6 +3291,10 @@
     "title": "Christina Tosi",
     "url": "/wiki/entities/christinatosi/"
   },
+  "ChristopherHarborne": {
+    "title": "Christopher Harborne",
+    "url": "/wiki/entities/christopherharborne/"
+  },
   "ChristopherMiller": {
     "title": "Christopher Miller",
     "url": "/wiki/entities/christophermiller/"
@@ -3290,6 +3302,10 @@
   "ChristopherMims": {
     "title": "Christopher Mims",
     "url": "/wiki/entities/christophermims/"
+  },
+  "ChristopherNolan": {
+    "title": "Christopher Nolan",
+    "url": "/wiki/entities/christophernolan/"
   },
   "ChristyClement": {
     "title": "Christy Clement",
@@ -3346,6 +3362,10 @@
   "CivilizationalSelfDestructionCycle": {
     "title": "Civilizational Self-Destruction Cycle",
     "url": "/wiki/concepts/civilizationalselfdestructioncycle/"
+  },
+  "Clacton": {
+    "title": "Clacton",
+    "url": "/wiki/entities/clacton/"
   },
   "ClaireIsabelWebb": {
     "title": "Claire Isabel Webb",
@@ -3794,6 +3814,10 @@
   "CottonClara": {
     "title": "Cotton Clara",
     "url": "/wiki/entities/cottonclara/"
+  },
+  "CountBinface": {
+    "title": "Count Binface",
+    "url": "/wiki/entities/countbinface/"
   },
   "CounterDroneLayeredDefense": {
     "title": "Counter-Drone Layered Defense",
@@ -5243,6 +5267,10 @@
     "title": "European Union",
     "url": "/wiki/entities/europeanunion/"
   },
+  "Eutelsat": {
+    "title": "Eutelsat",
+    "url": "/wiki/entities/eutelsat/"
+  },
   "EvaLeilaPesaran": {
     "title": "Eva Leila Pesaran",
     "url": "/wiki/entities/evaleilapesaran/"
@@ -6323,6 +6351,10 @@
     "title": "Geopolitical Cycle Macro",
     "url": "/wiki/concepts/geopoliticalcyclemacro/"
   },
+  "GeorgeCottrell": {
+    "title": "George Cottrell",
+    "url": "/wiki/entities/georgecottrell/"
+  },
   "GeorgeOrwell": {
     "title": "George Orwell / 乔治·奥威尔",
     "url": "/wiki/entities/georgeorwell/"
@@ -7046,6 +7078,14 @@
   "Homejoy": {
     "title": "Homejoy",
     "url": "/wiki/entities/homejoy/"
+  },
+  "Homer": {
+    "title": "Homer",
+    "url": "/wiki/entities/homer/"
+  },
+  "HomericAdaptationModernization": {
+    "title": "Homeric Adaptation Modernization",
+    "url": "/wiki/concepts/homericadaptationmodernization/"
   },
   "HomestayDifferentiation": {
     "title": "Homestay Differentiation",
@@ -8095,6 +8135,10 @@
     "title": "John Fasman",
     "url": "/wiki/entities/johnfasman/"
   },
+  "JohnHarvey": {
+    "title": "John Harvey",
+    "url": "/wiki/entities/johnharvey/"
+  },
   "JohnHolden": {
     "title": "John Holden",
     "url": "/wiki/entities/johnholden/"
@@ -8370,6 +8414,10 @@
   "KelvinKiptum": {
     "title": "Kelvin Kiptum",
     "url": "/wiki/entities/kelvinkiptum/"
+  },
+  "KemiBadenoch": {
+    "title": "Kemi Badenoch",
+    "url": "/wiki/entities/kemibadenoch/"
   },
   "KenChenault": {
     "title": "Ken Chenault",
@@ -10523,6 +10571,10 @@
     "title": "Nicole Turner-Lee",
     "url": "/wiki/entities/nicoleturnerlee/"
   },
+  "NigelFarage": {
+    "title": "Nigel Farage",
+    "url": "/wiki/entities/nigelfarage/"
+  },
   "Nigeria": {
     "title": "Nigeria",
     "url": "/wiki/entities/nigeria/"
@@ -10682,6 +10734,10 @@
   "OceanMemoryProject": {
     "title": "Ocean Memory Project",
     "url": "/wiki/entities/oceanmemoryproject/"
+  },
+  "Odysseus": {
+    "title": "Odysseus",
+    "url": "/wiki/entities/odysseus/"
   },
   "OfficeLinkedProfitAccounting": {
     "title": "Office-Linked Profit Accounting",
@@ -11506,6 +11562,10 @@
   "PoliticalDeliveryGap": {
     "title": "Political Delivery Gap",
     "url": "/wiki/concepts/politicaldeliverygap/"
+  },
+  "PoliticalFarceAccountability": {
+    "title": "Political Farce Accountability",
+    "url": "/wiki/concepts/politicalfarceaccountability/"
   },
   "PoliticalFuneral": {
     "title": "Political Funeral",
@@ -14415,6 +14475,10 @@
     "title": "The Night Agent",
     "url": "/wiki/entities/thenightagent/"
   },
+  "TheOdyssey": {
+    "title": "The Odyssey",
+    "url": "/wiki/entities/theodyssey/"
+  },
   "ThePhilosopherAndTheWolf": {
     "title": "《哲学家与狼》 / The Philosopher and the Wolf",
     "url": "/wiki/entities/thephilosopherandthewolf/"
@@ -16906,6 +16970,10 @@
   "how-much-money-president-trump-and-his-family-have-made": {
     "title": "How much money President Trump and his family have made",
     "url": "/wiki/sources/how-much-money-president-trump-and-his-family-have-made/"
+  },
+  "in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e": {
+    "title": "In it to bin it: Nigel Farage v Count Binface",
+    "url": "/wiki/sources/in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e/"
   },
   "indy-johar-civilizational-optioneering-tyeyt7r-zfu": {
     "title": "Indy Johar: Civilizational Optioneering",

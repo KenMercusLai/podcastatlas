@@ -2,8 +2,8 @@
 title: "Adaptation Original-Text Confusion"
 type: concept
 tags: [adaptation, literature, media, interpretation]
-sources: [64-bawangbieji-fengmo-yu-chenghuo-656094350, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
-last_updated: 2026-07-14
+sources: [in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
+last_updated: 2026-07-16
 ---
 
 # Adaptation Original-Text Confusion
@@ -15,6 +15,8 @@ The concept is not a blanket defense of every adaptation choice. The episode all
 [[64-bawangbieji-fengmo-yu-chenghuo-656094350]] extends the adaptation branch through [[FarewellMyConcubine|《霸王别姬》]]. The episode compares the film's self-killing ending with the novel's later Hong Kong encounter, creating [[AdaptationEndingEthics]]: the question is not only whether an adaptation is accurate, but how a changed ending reshapes cruelty, romance, survival, and public memory.
 
 [[43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]] adds a Chinese television-memory case through [[JourneyToTheWest|《西游记》]]. The episode does not attack adaptation itself; it argues that the TV version can become so familiar that readers forget the original novel's stranger structure, authorship problems, religious images, monster genealogies, and [[AccretiveTextFormation|accretive formation]].
+
+[[in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e]] adds a Homeric film case through [[ChristopherNolan]]'s [[TheOdyssey]]. The source is less about one dominant earlier adaptation and more about [[HomericAdaptationModernization]]: a new version can trigger arguments over casting, armor, language, psychology, and moral flattening because viewers are defending different objects at once: ancient epic, schoolbook memory, trailer imagery, modern identity politics, or a director's prestige style.
 
 ## Key Claims
 - A popular adaptation can become the remembered "original" for later audiences.
@@ -33,3 +35,4 @@ The concept is not a blanket defense of every adaptation choice. The episode all
 - [[FarewellMyConcubine|《霸王别姬》]] and [[AdaptationEndingEthics]] - episode 64's film/novel ending comparison.
 - [[JourneyToTheWest|《西游记》]], [[AccretiveTextFormation]], and [[ClassicReadingComplexity]] - episode 43's return from television memory to textual, religious, and folkloric layers.
 - [[EntertainmentIPFlywheel]] and [[IPOwnership]] - adjacent media concepts explaining why adapted characters can become dominant cultural memory.
+- [[TheOdyssey]], [[Homer]], [[Odysseus]], [[ChristopherNolan]], and [[HomericAdaptationModernization]] - later Homeric adaptation branch.

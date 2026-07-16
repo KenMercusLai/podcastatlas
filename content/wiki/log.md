@@ -3380,3 +3380,11 @@ Added source page for the 蜜獾吃书 episode using Kurt Stenn's 《头发》 t
 ## [2026-07-16] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-16] ingest | In it to bin it: Nigel Farage v Count Binface
+
+Added source page for The Intelligence episode on Nigel Farage versus Count Binface in Clacton, Starlink and mixed connectivity infrastructure in Nigeria, and Christopher Nolan's Odyssey adaptation. Created pages for Nigel Farage, Count Binface, John Harvey, Christopher Harborne, George Cottrell, Clacton, Kemi Badenoch, Eutelsat, Christopher Nolan, The Odyssey, Homer, Odysseus, Catherine Nixie, Political Farce Accountability, Africa Connectivity Infrastructure, and Homeric Adaptation Modernization; updated overview, index, Economist Podcasts, The Intelligence, Reform UK, United Kingdom, Labour Party (UK), Conservative Party (UK), Andy Burnham, Keir Starmer, Nigeria, Starlink, and Adaptation Original-Text Confusion. No direct contradiction found; the source qualifies the wiki's Reform UK branch by showing Reform remains strong in Clacton even while other sources show pressure from Labour, Conservatives, and Restore Britain.
+
+## [2026-07-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
