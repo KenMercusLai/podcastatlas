@@ -6695,6 +6695,10 @@
     "title": "Han Zhao / 韩昭",
     "url": "/wiki/entities/hanzhao/"
   },
+  "HanZheng": {
+    "title": "Han Zheng / 韩正",
+    "url": "/wiki/entities/hanzheng/"
+  },
   "HandsetChipCoDesign": {
     "title": "Handset-Chip Co-Design",
     "url": "/wiki/concepts/handsetchipcodesign/"
@@ -8579,6 +8583,10 @@
     "title": "Lauren Menard",
     "url": "/wiki/entities/laurenmenard/"
   },
+  "LayeredRobotArchitecture": {
+    "title": "Layered Robot Architecture",
+    "url": "/wiki/concepts/layeredrobotarchitecture/"
+  },
   "LayoffBuffer": {
     "title": "Layoff Buffer",
     "url": "/wiki/concepts/layoffbuffer/"
@@ -9318,6 +9326,10 @@
   "MangoTV": {
     "title": "芒果TV / Mango TV",
     "url": "/wiki/entities/mangotv/"
+  },
+  "ManiSkill": {
+    "title": "ManiSkill",
+    "url": "/wiki/entities/maniskill/"
   },
   "MannerCoffee": {
     "title": "Manner Coffee",
@@ -10731,6 +10743,10 @@
     "title": "Open Web Traffic Decline",
     "url": "/wiki/concepts/openwebtrafficdecline/"
   },
+  "OpenWorldRobotManipulation": {
+    "title": "Open-World Robot Manipulation",
+    "url": "/wiki/concepts/openworldrobotmanipulation/"
+  },
   "OperationalDataCapture": {
     "title": "Operational Data Capture",
     "url": "/wiki/concepts/operationaldatacapture/"
@@ -10958,6 +10974,10 @@
   "ParliamentarySystem": {
     "title": "Parliamentary System",
     "url": "/wiki/concepts/parliamentarysystem/"
+  },
+  "PartNet": {
+    "title": "PartNet / PartNet Mobility",
+    "url": "/wiki/entities/partnet/"
   },
   "ParticipatoryExhibitions": {
     "title": "Participatory Exhibitions",
@@ -13039,6 +13059,10 @@
     "title": "Shanzhai Phones",
     "url": "/wiki/concepts/shanzhaiphones/"
   },
+  "ShapeNet": {
+    "title": "ShapeNet",
+    "url": "/wiki/entities/shapenet/"
+  },
   "ShareAI": {
     "title": "Share AI",
     "url": "/wiki/entities/shareai/"
@@ -13231,6 +13255,10 @@
     "title": "Silver Lake",
     "url": "/wiki/entities/silverlake/"
   },
+  "Sim2Real": {
+    "title": "Sim2Real",
+    "url": "/wiki/concepts/sim2real/"
+  },
   "Simon": {
     "title": "Simon",
     "url": "/wiki/entities/simon/"
@@ -13270,6 +13298,10 @@
   "Skijoring": {
     "title": "Skijoring",
     "url": "/wiki/concepts/skijoring/"
+  },
+  "SkildAI": {
+    "title": "Skild AI",
+    "url": "/wiki/entities/skildai/"
   },
   "Skyscanner": {
     "title": "Skyscanner",
@@ -13791,6 +13823,10 @@
     "title": "Structural Health Monitoring",
     "url": "/wiki/concepts/structuralhealthmonitoring/"
   },
+  "Structured3DRobotData": {
+    "title": "Structured 3D Robot Data",
+    "url": "/wiki/concepts/structured3drobotdata/"
+  },
   "Stuxnet": {
     "title": "Stuxnet",
     "url": "/wiki/entities/stuxnet/"
@@ -13798,6 +13834,10 @@
   "SuBen": {
     "title": "苏本",
     "url": "/wiki/entities/suben/"
+  },
+  "SuHao": {
+    "title": "Su Hao / 苏浩",
+    "url": "/wiki/entities/suhao/"
   },
   "SuTaitaiGaodiaoLihunle": {
     "title": "苏太太高调离婚了 / Su Taitai Gaodiao Lihunle",
@@ -13842,6 +13882,10 @@
   "SuburbanDeliveryStrategy": {
     "title": "Suburban Delivery Strategy",
     "url": "/wiki/concepts/suburbandeliverystrategy/"
+  },
+  "SuduTechnology": {
+    "title": "速度科技 / Sudu Technology",
+    "url": "/wiki/entities/sudutechnology/"
   },
   "SufiImageLegitimacy": {
     "title": "Sufi Image Legitimacy",
@@ -16486,6 +16530,10 @@
   "e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan": {
     "title": "E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛",
     "url": "/wiki/sources/e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan/"
+  },
+  "e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e": {
+    "title": "E244｜端到端vs上下分层：机器人路径之争，正在转向？",
+    "url": "/wiki/sources/e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e/"
   },
   "e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0": {
     "title": "E42 孟岩对话韦青：沉默的主角",

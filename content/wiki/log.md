@@ -3348,3 +3348,11 @@ Added source page for the Planet Money episode on David Kirkpatrick's nearly $4 
 ## [2026-07-16] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 4,374 wiki pages. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-12 with 3,408 nodes and 34,723 edges while the wiki scan found 4,374 pages; they reported no hub stubs, two fragile bridges, and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` or provider API key variables are present in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-16] ingest | E244｜端到端vs上下分层：机器人路径之争，正在转向？
+
+Added source page for the 硅谷101 episode with Han Zheng on Sudu Technology, robot manipulation, structured 3D data, Sim2Real, and the route debate between end-to-end policies and layered architectures. Created pages for Sudu Technology, Han Zheng, Su Hao, ManiSkill, ShapeNet, PartNet / PartNet Mobility, Skild AI, Sim2Real, Structured 3D Robot Data, Open-World Robot Manipulation, and Layered Robot Architecture; updated overview, index, 硅谷101, Embodied AI, Robotics Simulation Evaluation, Embodied Data Pyramid, Real Robot Data Strategy, Vision Language Action Models, Dexterous Manipulation, Embodied AI Value Chain, Physical Intelligence, Generalist, Figure AI, Unitree Robotics, Boston Dynamics, Google DeepMind, Tesla, and Amazon. No direct contradiction found; the source qualifies existing real-data and VLA branches by arguing that open-world manipulation likely needs structured physical data, simulation transfer, and hardware/software co-design even when deployed policies look end-to-end.
+
+## [2026-07-16] lint | Wiki health check
+
+Ran lint after health passed. Report returned in-session; `wiki/lint-report.md` was not saved.

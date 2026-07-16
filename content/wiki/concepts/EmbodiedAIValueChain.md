@@ -2,8 +2,8 @@
 title: "Embodied AI Value Chain"
 type: concept
 tags: [robotics, commercialization, strategy]
-sources: [jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1]
-last_updated: 2026-07-09
+sources: [e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1]
+last_updated: 2026-07-16
 ---
 
 # Embodied AI Value Chain
@@ -18,6 +18,8 @@ Embodied AI value chain is the source's frame for why robot companies cannot be 
 
 [[166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1]] adds [[XuHuazhe]]'s warning that the value chain can still aim at the wrong prize if it optimizes around shipments, production landing, or data sale too early. In his [[PokeRobotics]] route, the value-chain question is whether the company controls enough body, model, data, product, and user feedback to define [[PhysicalAGI]] rather than becoming a hardware supplier or scene integrator.
 
+[[e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e]] adds [[SuduTechnology]]'s platform-route version. [[HanZheng]] argues that a robotics company may need to own hardware, low-level manipulation models, [[Sim2Real]], developer APIs, and tools, while letting outside developers assemble many vertical long-horizon applications.
+
 ## Key Claims
 - Algorithm innovation is important, but it becomes commercially meaningful only when connected to the rest of the robot product and deployment system.
 - Robotics companies face longer chains and cycles than many model or AI-application companies because they also handle hardware, supply chain, offline customers, and maintenance-like realities.
@@ -26,6 +28,7 @@ Embodied AI value chain is the source's frame for why robot companies cannot be 
 - Data and simulation can become a separate value-chain layer because [[EmbodiedDataPyramid]], [[RoboticsSimulationEvaluation]], and [[DataRecipeCoCreation]] require specialized infrastructure.
 - An automotive company may try to internalize more of the value chain when vehicle safety, humanoid control, data, and manufacturing are treated as one strategic system.
 - Dexterous hands can become their own value-chain layer because hardware standards, degrees of freedom, sensing, retargeting, and supply reliability shape both data and model progress.
+- Full-stack manipulation platforms can occupy a different value-chain position from vertical scene integrators: they provide stable short skills, hardware, APIs, and development tools rather than personally building every deployment scenario.
 
 ## Connections
 - [[Xinghaitu]], [[GaoJiyang]], and [[XuHuazhe]] — company, founder, and scientist-departure context.
@@ -36,3 +39,4 @@ Embodied AI value chain is the source's frame for why robot companies cannot be 
 - [[XPeng]], [[HeXiaopeng]], [[PhysicalAI]], [[XPengIron]], and [[XPengGX]] — integrated vehicle-and-humanoid value-chain example added by episode 143.
 - [[WorldModelVLAFusion]], [[DexterousManipulation]], [[RobotLogisticsSorting]], [[Honor]], [[FigureAI]], [[XingdongEra]], [[FiveGRobotics]], [[PhysicalIntelligence]], and [[Generalist]] — Q2 2026 cross-layer competition added by the LateTalk source.
 - [[PokeRobotics]], [[PhysicalAGI]], [[AINativeRobotics]], [[UnifiedRobotModels]], and [[RobotActiveUseMetrics]] — general-robot value-chain pressure added by episode 166.
+- [[SuduTechnology]], [[LayeredRobotArchitecture]], [[Sim2Real]], and [[OpenWorldRobotManipulation]] — platform and low-level-skill route added by E244.

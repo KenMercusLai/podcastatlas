@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E244｜端到端vs上下分层：机器人路径之争，正在转向？](sources/e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e.md) — 硅谷101 episode with Han Zheng on Sudu Technology, robot manipulation, structured 3D data, Sim2Real, layered robot architecture, and why open-world unseen-object demos matter more than rehearsed robot showcases.
 - [How much money President Trump and his family have made](sources/how-much-money-president-trump-and-his-family-have-made.md) — Planet Money episode on David Kirkpatrick's nearly $4 billion estimate of Trump-family presidency-linked gains through merchandise, legal fees, media deals, hospitality, family finance, and especially crypto.
 - [Before Kalshi and Polymarket there was the Iowa Electronic Markets](sources/before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets.md) — Planet Money/Throughline episode on Iowa Electronic Markets, older election betting, market forecasts versus polls, CFTC sandbox limits, and Kalshi/Polymarket as commercial successors.
 - [Can computer hackers get inside your mind?](sources/can-computer-hackers-get-inside-your-mind.md) — Planet Money episode on Fast 16 malware, Stuxnet-like cyber sabotage, corrupted high-precision calculations, possible nuclear-weapons modeling, and epistemological warfare.
@@ -421,6 +422,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [速度科技 / Sudu Technology](entities/SuduTechnology.md) — Full-stack robotics company framed by E244 around manipulation, Sim2Real, structured 3D data, and robot brain/body co-design.
+- [Han Zheng / 韩正](entities/HanZheng.md) — Sudu Technology guest arguing that open-world manipulation needs structured 3D data, Sim2Real, and layered low-level skills rather than real-data imitation alone.
+- [Su Hao / 苏浩](entities/SuHao.md) — Researcher used by E244 to connect ImageNet-style structured data with ShapeNet, PartNet, and robot-ready 3D object understanding.
+- [ManiSkill](entities/ManiSkill.md) — Robotics manipulation project used by E244 to frame short skills that can be composed into longer tasks.
+- [ShapeNet](entities/ShapeNet.md) — 3D object data-set precedent in E244's structured-data lineage for robot manipulation.
+- [PartNet / PartNet Mobility](entities/PartNet.md) — 3D parts and mobility data-set lineage used by E244 to explain what robot manipulation data still lacks.
+- [Skild AI](entities/SkildAI.md) — Robot-brain company named in E244 as a peer in the global embodied-AI comparison set.
 - [David Kirkpatrick](entities/DavidKirkpatrick.md) — Reporter whose conservative Trump-family office-linked profit estimate grounds the Planet Money accounting episode.
 - [Fred Wertheimer](entities/FredWertheimer.md) — Democracy 21 president and ethics expert comparing Trump-family enrichment with earlier U.S. presidential conflicts.
 - [Democracy 21](entities/Democracy21.md) — Democracy and ethics organization context for Fred Wertheimer's assessment of presidential private-profit conflicts.
@@ -2633,6 +2641,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Sim2Real](concepts/Sim2Real.md) — Robot training and evaluation route where simulated behavior is transferred to real hardware under physical and hardware-specific constraints.
+- [Structured 3D Robot Data](concepts/Structured3DRobotData.md) — Robot data layer covering geometry, parts, materials, friction, elasticity, and dynamics beyond ordinary image or video priors.
+- [Open-World Robot Manipulation](concepts/OpenWorldRobotManipulation.md) — Evaluation bar for robots handling unseen objects and environments rather than only rehearsed demos.
+- [Layered Robot Architecture](concepts/LayeredRobotArchitecture.md) — Robotics architecture separating high-level planning from low-level manipulation skills while allowing deployed policies to appear end-to-end.
 - [Office-Linked Profit Accounting](concepts/OfficeLinkedProfitAccounting.md) — Attribution method for counting private gains that likely depend on holding public office.
 - [Presidential Crypto Policy Conflict](concepts/PresidentialCryptoPolicyConflict.md) — Conflict pattern where presidential crypto-policy authority overlaps with family crypto upside.
 - [Presidential Library Gift Risk](concepts/PresidentialLibraryGiftRisk.md) — Ethics risk where a gift to government later benefits a president's library, memorial, or legacy institution.

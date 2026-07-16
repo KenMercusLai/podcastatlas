@@ -3,7 +3,7 @@ title: "Amazon"
 type: entity
 tags: [company, ai, cloud, investing, media, security, startups]
 sources: [tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, socialradarspod-emmettshear-v2, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d, shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud, no-200-dianshang-sanguo-zhi-qunxiong-zhulu-yaogua-gongzhang-chijian-juqian-yiji-108-zhong-sifa-974601500]
-last_updated: 2026-07-12
+last_updated: 2026-07-16
 ---
 
 # Amazon
@@ -38,6 +38,8 @@ Amazon appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfan
 
 [[tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]] adds Amazon through [[Ring]], its video doorbell and camera subsidiary. The episode uses [[RingSearchParty|Ring Search Party]] to show how an AI-enabled consumer safety feature can raise [[ConsumerCameraSurveillance]] concerns when connected-camera networks, law-enforcement relationships, and partnerships such as [[FlockSafety]] enter the story.
 
+[[e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e]] adds Amazon as the scene-owner and vertical-application robotics case. [[HanZheng]] notes Amazon's long investment in warehouses, Kiva-style logistics, robotic arms, humanoid pilots, and partnerships such as Agility or Covariant-like attempts; the source frames Amazon's strength as deployment environment and business loop rather than necessarily the most general robot foundation model.
+
 ## Connections
 - [[Nvidia]] — supplier whose growth expectations depend on large AI customers.
 - [[Walmart]], [[UberEats|Uber Eats]], [[DoorDash]], [[InstantRetail]], [[EcommerceFulfillmentComplexity]], [[UltraFastDeliveryEconomics]], and [[AIConsumerDecisionShaping]] - ultra-fast delivery branch added by the 2026-03-20 Marketplace Tech Bytes episode.
@@ -56,3 +58,4 @@ Amazon appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfan
 - [[JoyoAmazonChina]], [[Dangdang]], and [[ChineseEcommercePlatformHistory]] — China ecommerce branch added by Banlatte episode 200.
 - [[AISearchAdvertising]], [[Google]], and [[Meta]] — incumbent ad-platform competition context added by Marketplace Tech.
 - [[Ring]], [[RingSearchParty|Ring Search Party]], [[JamieSiminoff]], [[FlockSafety]], and [[ConsumerCameraSurveillance]] - smart-camera and surveillance branch added by Marketplace Tech Bytes.
+- [[EmbodiedAIValueChain]], [[RobotLogisticsSorting]], and [[ProductionRobotScenarioSelection]] - warehouse and vertical-robotics branch added by E244.

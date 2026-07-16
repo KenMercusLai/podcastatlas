@@ -3,7 +3,7 @@ title: "Embodied AI"
 type: concept
 tags: [robotics, physical-ai, investment]
 sources: [tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, cong-hui-tiaowu-dao-you-ganzhi-chujue-shi-jiqiren-tongwang-zhineng-de-menpiao-ma-s10e19-f448a656-3004-430b-a853-79d1e77dcb53, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, tsr-s2-trevorblackwell-v2]
-last_updated: 2026-07-10
+last_updated: 2026-07-16
 ---
 
 # Embodied AI
@@ -36,6 +36,8 @@ Embodied AI refers to physical AI, robotics, and systems that act in real-world 
 
 [[jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1]] adds a quarterly industry-map view through [[LateTalk]] and [[ChenZhePeter]]. The source ties [[HumanoidRobotMarathon]], [[RobotLogisticsSorting]], [[DexterousManipulation]], [[EmbodiedRobotDataParadigms]], and [[WorldModelVLAFusion]] into one embodied-AI competition: reliable robot bodies, affordable hands, real industrial scenes, model route, data collection, and foundation-lab entry all shape who controls the robot brain and business layer.
 
+[[e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e]] adds a manipulation-and-Sim2Real branch through [[SuduTechnology]] and [[HanZheng]]. The source argues that embodied AI progress should be judged by [[OpenWorldRobotManipulation]] under unseen objects and environments, and that [[Structured3DRobotData]], [[Sim2Real]], and [[LayeredRobotArchitecture]] may matter more than a pure end-to-end demo route.
+
 ## Commercialization Mentioned
 - Robot performances and rentals.
 - Data collection.
@@ -54,6 +56,7 @@ Embodied AI refers to physical AI, robotics, and systems that act in real-world 
 - Logistics sorting, dexterous manipulation, and humanoid stress-test events where companies such as [[FigureAI]], [[XingdongEra]], [[Honor]], [[FiveGRobotics]], and [[GenesisRobotics]] try to turn demos into data and customer proof.
 - Tactile sensing for robot hands, industrial insertion/assembly, screwdriving, and medical manipulation, where value depends on force feedback, slip detection, texture, and real-time correction rather than only visual recognition.
 - Historical walking-robot work such as [[Anybots]], where value depended on [[DynamicBalancingRobotics]] and impact-tolerant hardware but the commercial use case remained unresolved.
+- Low-level manipulation platforms such as [[SuduTechnology]], where value depends on [[Structured3DRobotData]], [[Sim2Real]], hardware/software co-design, and APIs that let developers compose reliable short skills into vertical applications.
 
 ## Connections
 - [[WorldModels]] — model direction tied to physical reasoning and robot capability.
@@ -77,3 +80,4 @@ Embodied AI refers to physical AI, robotics, and systems that act in real-world 
 - [[LateTalk]], [[ChenZhePeter]], [[RobotLogisticsSorting]], [[DexterousManipulation]], [[EmbodiedRobotDataParadigms]], and [[WorldModelVLAFusion]] — Q2 2026 embodied-intelligence review added by the LateTalk source.
 - [[YimuTechnology]], [[EricLiZhiqiang]], [[TactileSensing]], [[OpticalTactileSensing]], [[TouchNet]], and [[TactileTransformerEncoder]] — tactile-infrastructure branch added by the What's Next source.
 - [[TrevorBlackwell]], [[Anybots]], [[DynamicBalancingRobotics]], and [[BostonDynamics]] — historical walking-robot branch added by The Social Radars source.
+- [[SuduTechnology]], [[HanZheng]], [[Sim2Real]], [[Structured3DRobotData]], [[OpenWorldRobotManipulation]], and [[LayeredRobotArchitecture]] — manipulation-first route added by E244.
