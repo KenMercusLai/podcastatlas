@@ -2,8 +2,8 @@
 title: "Subscription Fatigue"
 type: concept
 tags: [consumer, streaming, subscriptions]
-sources: [tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources: [tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128, tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]
+last_updated: 2026-07-16
 ---
 
 # Subscription Fatigue
@@ -14,12 +14,15 @@ The concept is the user-side counterpart to [[StreamingConsolidation]]. Consolid
 
 [[tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128]] adds another response path: viewers may turn to [[PhysicalVideoMediaRevival]] instead of only cycling subscriptions or waiting for bundles. In that episode, physical video stores and VHS reprints answer the frustration that different films require different subscriptions or may not be available digitally at all.
 
+[[tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128]] adds a platform-retention angle through [[Netflix]]. When viewers have many shows and services to choose from, they may not return to a second season after a long production gap, especially if the [[BingeReleaseModel]] compressed the first season's attention into a short burst.
+
 ## Key Claims
 - Fragmented content creates search and management work for ordinary viewers.
 - Rising prices make viewers more likely to churn strategically rather than keep every service.
 - Bundles can feel convenient while also weakening the original promise of flexible streaming.
 - Subscription fatigue is not limited to media, but streaming makes the tradeoff visible because content libraries move and exclusive shows pull users across apps.
 - Physical video can be a workaround when the desired title is missing, scattered across services, or not worth another subscription.
+- Subscription fatigue can weaken [[StreamingAudienceRetention]] because a viewer deciding what to watch next may churn, switch platforms, or choose a different show rather than wait for a returning series.
 
 ## Connections
 - [[StreamingConsolidation]], [[WarnerBrosDiscovery]], [[Netflix]], and [[Paramount]] - source context.
@@ -27,3 +30,4 @@ The concept is the user-side counterpart to [[StreamingConsolidation]]. Consolid
 - [[VerticalMediaDistribution]] - ownership/control layer behind which app carries which content.
 - [[ProductLedWillingnessToPay]] - adjacent question of when recurring payment still feels worth it.
 - [[AISubscriptionEconomics]] - neighboring AI subscription branch in the wiki.
+- [[StreamingAudienceRetention]], [[BingeReleaseModel]], and [[BrandonKatz]] - Netflix retention branch added by the 2026-07-15 Marketplace Tech episode.

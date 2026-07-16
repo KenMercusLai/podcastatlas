@@ -2,8 +2,8 @@
 title: "Netflix"
 type: entity
 tags: [company, streaming, media, entertainment]
-sources: [tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, formula-1-1, ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b]
-last_updated: 2026-07-10
+sources: [tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, formula-1-1, ep69-ai-shidai-lailin-touzi-buzai-shi-danji-moshi-lppxmdl3wlrrtswxwpzekz-qzygn, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b]
+last_updated: 2026-07-16
 ---
 
 # Netflix
@@ -20,6 +20,8 @@ The episode treats Netflix's role as more than a documentary outlet. It helped r
 
 [[tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]] adds Netflix as an analogy for ad adoption. [[GarrettJohnson]] uses companies that initially downplay ads and later accept them to argue that costly consumer services, including AI platforms, often face pressure to add advertising once growth and operating costs collide.
 
+[[tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128]] adds Netflix's second-season retention problem. [[BrandonKatz]] of [[GreenlightAnalytics]] uses [[Bloomberg]]-reported internal data around [[TheNightAgent]], [[BeefSeries|Beef]], and [[AvatarTheLastAirbender|Avatar: The Last Airbender]] to argue that Netflix is excellent at creating first-season curiosity, but returning seasons test loyalty, memory, release cadence, and budget discipline.
+
 ## Source Position
 - The first seasons of Drive to Survive became especially important when pandemic lockdowns made streaming discovery more powerful.
 - Initial nonparticipation from Mercedes and Ferrari gave other teams more narrative space.
@@ -28,6 +30,7 @@ The episode treats Netflix's role as more than a documentary outlet. It helped r
 - The Fault Lines source uses Netflix as a platform that can turn an author's name and formula into a recognizable streaming signal across many titles.
 - The Marketplace Tech Bytes source uses Netflix as a bidder whose expansion could simplify streaming for users while making the market more cable-like.
 - The Marketplace Tech AI-search ads source uses Netflix as a precedent for services eventually adopting ads despite earlier reluctance.
+- The July 15, 2026 Marketplace Tech source uses Netflix as the central case for [[StreamingAudienceRetention]] and the [[BingeReleaseModel]] tradeoff.
 
 ## Connections
 - [[DriveToSurvive]], [[FormulaOne]], and [[LibertyMedia]] - show, sport, and rights owner context.
@@ -36,3 +39,4 @@ The episode treats Netflix's role as more than a documentary outlet. It helped r
 - [[HarlanCoben]], [[StreamingAuthorBrand]], and [[EntertainmentIPFlywheel]] - thriller-brand and repeatable entertainment context added by The Intelligence.
 - [[WarnerBrosDiscovery]], [[Paramount]], [[StreamingConsolidation]], and [[SubscriptionFatigue]] - deal and consumer-friction context added by Marketplace Tech Bytes.
 - [[AISearchAdvertising]] and [[AICommercializationPressure]] - ad-adoption analogy added by the 2025-12-18 Marketplace Tech episode.
+- [[BrandonKatz]], [[GreenlightAnalytics]], [[Bloomberg]], [[TheNightAgent]], [[BeefSeries|Beef]], [[AvatarTheLastAirbender|Avatar: The Last Airbender]], [[Mindhunter]], [[StreamingAudienceRetention]], and [[BingeReleaseModel]] - second-season retention and cancellation context added by the 2026-07-15 Marketplace Tech episode.

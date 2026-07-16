@@ -3356,3 +3356,11 @@ Added source page for the 硅谷101 episode with Han Zheng on Sudu Technology, r
 ## [2026-07-16] lint | Wiki health check
 
 Ran lint after health passed. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-16] ingest | Netflix struggles to retain viewers after a series' first season
+
+Added source page for the Marketplace Tech episode with Brandon Katz of Greenlight Analytics on Netflix's second-season viewer drop-off. Created pages for Brandon Katz, Greenlight Analytics, Bloomberg, The Night Agent, Beef, Avatar: The Last Airbender, Mindhunter, Streaming Audience Retention, and Binge Release Model; updated overview, index, Marketplace Tech, Netflix, Streaming Consolidation, and Subscription Fatigue. No direct contradiction found; the source qualifies Netflix's existing media-market branch by separating first-season curiosity from durable viewer loyalty and by treating binge releases, long season gaps, catalog abundance, competition, and cancellation economics as linked retention pressures.
+
+## [2026-07-16] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

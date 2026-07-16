@@ -2027,6 +2027,10 @@
     "title": "Availability Heuristic",
     "url": "/wiki/concepts/availabilityheuristic/"
   },
+  "AvatarTheLastAirbender": {
+    "title": "Avatar: The Last Airbender",
+    "url": "/wiki/entities/avatarthelastairbender/"
+  },
   "AveragingDown": {
     "title": "Averaging Down",
     "url": "/wiki/concepts/averagingdown/"
@@ -2275,6 +2279,10 @@
     "title": "Bee Colony Collapse",
     "url": "/wiki/concepts/beecolonycollapse/"
   },
+  "BeefSeries": {
+    "title": "Beef",
+    "url": "/wiki/entities/beefseries/"
+  },
   "Beeper": {
     "title": "Beeper",
     "url": "/wiki/entities/beeper/"
@@ -2387,6 +2395,10 @@
     "title": "Bill Clinton",
     "url": "/wiki/entities/billclinton/"
   },
+  "BingeReleaseModel": {
+    "title": "Binge Release Model",
+    "url": "/wiki/concepts/bingereleasemodel/"
+  },
   "BioregionalResilience": {
     "title": "Bioregional Resilience",
     "url": "/wiki/concepts/bioregionalresilience/"
@@ -2446,6 +2458,10 @@
   "BlindnessMemoryArtIdeal": {
     "title": "Blindness-Memory Art Ideal",
     "url": "/wiki/concepts/blindnessmemoryartideal/"
+  },
+  "Bloomberg": {
+    "title": "Bloomberg",
+    "url": "/wiki/entities/bloomberg/"
   },
   "BlueBottleCoffee": {
     "title": "Blue Bottle Coffee / 蓝瓶子",
@@ -2526,6 +2542,10 @@
   "BrandImpersonationMonitoring": {
     "title": "Brand Impersonation Monitoring",
     "url": "/wiki/concepts/brandimpersonationmonitoring/"
+  },
+  "BrandonKatz": {
+    "title": "Brandon Katz",
+    "url": "/wiki/entities/brandonkatz/"
   },
   "BrawnGP": {
     "title": "Brawn GP",
@@ -6483,6 +6503,10 @@
     "title": "Green Hushing",
     "url": "/wiki/concepts/greenhushing/"
   },
+  "GreenlightAnalytics": {
+    "title": "Greenlight Analytics",
+    "url": "/wiki/entities/greenlightanalytics/"
+  },
   "GregBrockman": {
     "title": "Greg Brockman",
     "url": "/wiki/entities/gregbrockman/"
@@ -9866,6 +9890,10 @@
   "MindBodyUnion": {
     "title": "Mind-Body Union",
     "url": "/wiki/concepts/mindbodyunion/"
+  },
+  "Mindhunter": {
+    "title": "Mindhunter",
+    "url": "/wiki/entities/mindhunter/"
   },
   "MingRuoZhaoShuang": {
     "title": "《命若朝霜》 / Ming Ruo Zhao Shuang",
@@ -13807,6 +13835,10 @@
     "title": "Stratton Oakmont",
     "url": "/wiki/entities/strattonoakmont/"
   },
+  "StreamingAudienceRetention": {
+    "title": "Streaming Audience Retention",
+    "url": "/wiki/concepts/streamingaudienceretention/"
+  },
   "StreamingAuthorBrand": {
     "title": "Streaming Author Brand",
     "url": "/wiki/concepts/streamingauthorbrand/"
@@ -14294,6 +14326,10 @@
   "TheNameOfTheRose": {
     "title": "《玫瑰的名字》 / The Name of the Rose",
     "url": "/wiki/entities/thenameoftherose/"
+  },
+  "TheNightAgent": {
+    "title": "The Night Agent",
+    "url": "/wiki/entities/thenightagent/"
   },
   "ThePhilosopherAndTheWolf": {
     "title": "《哲学家与狼》 / The Philosopher and the Wolf",
@@ -17218,6 +17254,10 @@
   "tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128": {
     "title": "Bytes: Week in Review - Meta, YouTube's social media addiction case, a new AI literacy course, and Kalshi's prediction market self-regulation",
     "url": "/wiki/sources/tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128/"
+  },
+  "tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128": {
+    "title": "Netflix struggles to retain viewers after a series' first season",
+    "url": "/wiki/sources/tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",

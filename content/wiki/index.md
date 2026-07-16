@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Netflix struggles to retain viewers after a series' first season](sources/tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128.md) — Marketplace Tech episode with Brandon Katz on Netflix's second-season viewer drop-off, binge releases, long production gaps, catalog abundance, competition, and cancellation economics.
 - [E244｜端到端vs上下分层：机器人路径之争，正在转向？](sources/e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e.md) — 硅谷101 episode with Han Zheng on Sudu Technology, robot manipulation, structured 3D data, Sim2Real, layered robot architecture, and why open-world unseen-object demos matter more than rehearsed robot showcases.
 - [How much money President Trump and his family have made](sources/how-much-money-president-trump-and-his-family-have-made.md) — Planet Money episode on David Kirkpatrick's nearly $4 billion estimate of Trump-family presidency-linked gains through merchandise, legal fees, media deals, hospitality, family finance, and especially crypto.
 - [Before Kalshi and Polymarket there was the Iowa Electronic Markets](sources/before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets.md) — Planet Money/Throughline episode on Iowa Electronic Markets, older election betting, market forecasts versus polls, CFTC sandbox limits, and Kalshi/Polymarket as commercial successors.
@@ -422,6 +423,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Brandon Katz](entities/BrandonKatz.md) — Greenlight Analytics content-strategy expert explaining Netflix's second-season retention problem on Marketplace Tech.
+- [Greenlight Analytics](entities/GreenlightAnalytics.md) — Media analytics and content-strategy firm represented by Brandon Katz in the Netflix retention episode.
+- [Bloomberg](entities/Bloomberg.md) — Business-news organization whose reported internal Netflix data grounds the Marketplace Tech discussion of second-season drop-offs.
+- [The Night Agent](entities/TheNightAgent.md) — Netflix series cited as an example of second-season audience loss in the Marketplace Tech retention episode.
+- [Beef](entities/BeefSeries.md) — Netflix series cited as another reported second-season viewer drop-off example.
+- [Avatar: The Last Airbender](entities/AvatarTheLastAirbender.md) — Netflix title used as a high-recognition example in the streaming retention discussion.
+- [Mindhunter](entities/Mindhunter.md) — Netflix series cited as a fan-frustration example in cancellation debates.
 - [速度科技 / Sudu Technology](entities/SuduTechnology.md) — Full-stack robotics company framed by E244 around manipulation, Sim2Real, structured 3D data, and robot brain/body co-design.
 - [Han Zheng / 韩正](entities/HanZheng.md) — Sudu Technology guest arguing that open-world manipulation needs structured 3D data, Sim2Real, and layered low-level skills rather than real-data imitation alone.
 - [Su Hao / 苏浩](entities/SuHao.md) — Researcher used by E244 to connect ImageNet-style structured data with ShapeNet, PartNet, and robot-ready 3D object understanding.
@@ -2641,6 +2649,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Streaming Audience Retention](concepts/StreamingAudienceRetention.md) — Streaming problem of converting launch sampling into durable completion, memory, loyalty, and return viewing after season gaps.
+- [Binge Release Model](concepts/BingeReleaseModel.md) — All-at-once streaming release strategy whose speed helps sampling but may compress attention and weaken sustained fandom.
 - [Sim2Real](concepts/Sim2Real.md) — Robot training and evaluation route where simulated behavior is transferred to real hardware under physical and hardware-specific constraints.
 - [Structured 3D Robot Data](concepts/Structured3DRobotData.md) — Robot data layer covering geometry, parts, materials, friction, elasticity, and dynamics beyond ordinary image or video priors.
 - [Open-World Robot Manipulation](concepts/OpenWorldRobotManipulation.md) — Evaluation bar for robots handling unseen objects and environments rather than only rehearsed demos.
