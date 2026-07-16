@@ -2,8 +2,8 @@
 title: "Donald Trump"
 type: entity
 tags: [person, politics, macro, investing, sports]
-sources: [iran-protests-and-sanctions, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
-last_updated: 2026-07-15
+sources: [how-much-money-president-trump-and-his-family-have-made, iran-protests-and-sanctions, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
+last_updated: 2026-07-16
 ---
 
 # Donald Trump
@@ -11,6 +11,8 @@ last_updated: 2026-07-15
 Donald Trump appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]] as a policy and sentiment shock for U.S. assets. That episode frames his second-term posture through tariffs, spending cuts, Golden Card-style revenue ideas, Ukraine spending disputes, and debt pressure, arguing that these policies landed on top of already expensive U.S. equities.
 
 [[ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab]] shifts Trump from macro-policy variable to central case in [[PoliticalInfluenceMonetization]]. It contrasts the president's formal salary and benefits with family wealth paths through [[TruthSocial]], [[TrumpMediaAndTechnologyGroup]], [[WorldLibertyFinancial]], [[JaredKushner]]'s foreign-backed fund, [[PoliticalBrandLicensing]], media settlements, and [[MelaniaTrump]]'s documentary deal.
+
+[[how-much-money-president-trump-and-his-family-have-made]] adds a [[PlanetMoney]] accounting frame through [[DavidKirkpatrick]]'s nearly $4 billion estimate. It extends the Trump monetization branch from valuation and political-brand examples into [[OfficeLinkedProfitAccounting]], [[EmolumentsClause]] questions, [[PresidentialLibraryGiftRisk]], [[MarALago]] membership economics, [[TrumpOrganization]] management, and [[PresidentialCryptoPolicyConflict]] around [[WorldLibertyFinancial]], [[USD1]], [[AmericanBitcoin]], and Trump-linked meme coins.
 
 [[continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e]] adds Trump as a [[NATOAllianceCredibility]] variable. The episode frames his anger at European allies, interest in Greenland, Iran-war complaints, and possible American force reductions as alliance-management risks that make [[EuropeanDefenseAutonomy]] more urgent.
 
@@ -48,6 +50,7 @@ Donald Trump appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-
 - The episode links Trump-policy uncertainty to [[MarketRegimeShift]], [[FederalReserve]] constraints, and more volatile daily U.S. equity moves.
 - EP77 treats Trump as a political-brand and family-network monetization case rather than only a market-policy shock.
 - The EP77 account argues that many individual transactions may be formally legal while still exposing a [[PresidentialConflictOfInterest]] problem.
+- The Planet Money profit-accounting source treats Trump as the office holder whose presidency turns family businesses, hospitality, gifts, legal funding, media settlements, and crypto ventures into counted private upside.
 - Trump's DJT post and later tariff-pause announcement are used as an example of [[PolicyAnnouncementTradingRisk]].
 - The NATO summit source treats Trump as an alliance-confidence shock whose unpredictability can affect deterrence, force posture, and European planning.
 - The Missing Peace source treats Trump as part of a U.S.-Israel relationship shift that affects [[USIranNuclearDiplomacy]] and [[ProxyConflictSpoilerRisk]].
@@ -70,8 +73,9 @@ Donald Trump appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-
 - [[USTreasury]] — debt and financing context behind the episode's policy concern.
 - [[InvestmentRiskManagement]] — practical response recommended by the speakers when policy uncertainty and valuation risk rise together.
 - [[TruthSocial]], [[TrumpMediaAndTechnologyGroup]], and [[PoliticalMemeStock]] — EP77's stock-market and paper-wealth branch.
-- [[WorldLibertyFinancial]], [[BarronTrump]], [[CryptocurrencyMarketStructure]], and [[Stablecoins]] — EP77's crypto branch.
-- [[JaredKushner]], [[SaudiPublicInvestmentFund]], [[MelaniaTrump]], and [[PoliticalIdentityPremium]] — EP77's family-network, foreign-capital, and media-contract branch.
+- [[WorldLibertyFinancial]], [[BarronTrump]], [[USD1]], [[AmericanBitcoin]], [[CryptocurrencyMarketStructure]], and [[Stablecoins]] — Trump-family crypto branch.
+- [[JaredKushner]], [[DonaldTrumpJr]], [[1789Capital]], [[SaudiPublicInvestmentFund]], [[MelaniaTrump]], and [[PoliticalIdentityPremium]] — family-network, foreign-capital, and media-contract branch.
+- [[TrumpOrganization]], [[MarALago]], [[OfficeLinkedProfitAccounting]], [[EmolumentsClause]], [[PresidentialLibraryGiftRisk]], and [[PresidentialCryptoPolicyConflict]] — Planet Money accounting and governance branch.
 - [[NATO]], [[NATOAllianceCredibility]], [[EuropeanDefenseAutonomy]], and [[RussianHybridPressure]] — alliance-risk branch added by The Intelligence.
 - [[JDVance]], [[Israel]], [[Iran]], [[Lebanon]], [[USIranNuclearDiplomacy]], and [[ProxyConflictSpoilerRisk]] — Middle East diplomacy branch added by The Intelligence.
 - [[IranSanctions]], [[SanctionsOvercompliance]], and [[EconomicSanctionsAsViolence]] — sanctions-reversal branch added by Planet Money.

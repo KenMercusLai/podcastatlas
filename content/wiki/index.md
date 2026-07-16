@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How much money President Trump and his family have made](sources/how-much-money-president-trump-and-his-family-have-made.md) — Planet Money episode on David Kirkpatrick's nearly $4 billion estimate of Trump-family presidency-linked gains through merchandise, legal fees, media deals, hospitality, family finance, and especially crypto.
 - [Before Kalshi and Polymarket there was the Iowa Electronic Markets](sources/before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets.md) — Planet Money/Throughline episode on Iowa Electronic Markets, older election betting, market forecasts versus polls, CFTC sandbox limits, and Kalshi/Polymarket as commercial successors.
 - [Can computer hackers get inside your mind?](sources/can-computer-hackers-get-inside-your-mind.md) — Planet Money episode on Fast 16 malware, Stuxnet-like cyber sabotage, corrupted high-precision calculations, possible nuclear-weapons modeling, and epistemological warfare.
 - [Iran, protests, and sanctions](sources/iran-protests-and-sanctions.md) — Planet Money episode on U.S. sanctions against Iran, currency-triggered protest, revolutionary economic self-reliance, dollar financial sanctions, overcompliance, IRGC insider gains, and civilian costs.
@@ -420,6 +421,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [David Kirkpatrick](entities/DavidKirkpatrick.md) — Reporter whose conservative Trump-family office-linked profit estimate grounds the Planet Money accounting episode.
+- [Fred Wertheimer](entities/FredWertheimer.md) — Democracy 21 president and ethics expert comparing Trump-family enrichment with earlier U.S. presidential conflicts.
+- [Democracy 21](entities/Democracy21.md) — Democracy and ethics organization context for Fred Wertheimer's assessment of presidential private-profit conflicts.
+- [Trump Organization](entities/TrumpOrganization.md) — Trump family business structure linking Mar-a-Lago, hospitality, foreign projects, and brand licensing to office-linked gain.
+- [Mar-a-Lago](entities/MarALago.md) — Trump property whose membership economics the Planet Money source treats as amplified by presidential proximity.
+- [Donald Trump Jr.](entities/DonaldTrumpJr.md) — Trump son connected by the source to resumed family business posture and 1789 Capital gains.
+- [1789 Capital](entities/1789Capital.md) — Investment firm used by the source as a smaller Trump-family finance monetization case through Donald Trump Jr.
+- [American Bitcoin](entities/AmericanBitcoin.md) — Trump-family-linked Bitcoin mining company included in the source's crypto gain category.
+- [USD1](entities/USD1.md) — World Liberty Financial stablecoin used by the source to connect Trump-family crypto gains with foreign purchases and policy conflict.
 - [Iowa Electronic Markets](entities/IowaElectronicMarkets.md) — University of Iowa prediction-market project launched in 1988 that revived academic election markets under CFTC no-action limits.
 - [Robert Forsythe](entities/RobertForsythe.md) — Iowa economist who helped create the Iowa Electronic Markets after the 1988 polling miss.
 - [Coleman Strumpf](entities/ColemanStrumpf.md) — Economist whose historical work links modern prediction markets to older election betting and racetrack information behavior.
@@ -2623,6 +2633,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Office-Linked Profit Accounting](concepts/OfficeLinkedProfitAccounting.md) — Attribution method for counting private gains that likely depend on holding public office.
+- [Presidential Crypto Policy Conflict](concepts/PresidentialCryptoPolicyConflict.md) — Conflict pattern where presidential crypto-policy authority overlaps with family crypto upside.
+- [Presidential Library Gift Risk](concepts/PresidentialLibraryGiftRisk.md) — Ethics risk where a gift to government later benefits a president's library, memorial, or legacy institution.
+- [Emoluments Clause](concepts/EmolumentsClause.md) — Constitutional gift-and-benefit boundary used by the Planet Money source to frame unresolved foreign-benefit questions.
 - [Prediction Market History](concepts/PredictionMarketHistory.md) — Lineage from older election betting to Iowa Electronic Markets and modern Kalshi/Polymarket platforms.
 - [Election Betting Markets](concepts/ElectionBettingMarkets.md) — Historical election-wagering markets used for forecasting, political signaling, status, and hedging before scientific polling dominated media forecasts.
 - [Academic Prediction Market Sandbox](concepts/AcademicPredictionMarketSandbox.md) — Research-oriented regulatory compromise around small-stakes prediction markets, anchored by CFTC no-action limits for Iowa Electronic Markets.

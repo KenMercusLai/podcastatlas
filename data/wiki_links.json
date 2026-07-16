@@ -207,6 +207,10 @@
     "title": "178.母权论：伟大的错误or深刻的洞见？母权社会存在过吗？",
     "url": "/wiki/sources/178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368/"
   },
+  "1789Capital": {
+    "title": "1789 Capital",
+    "url": "/wiki/entities/1789capital/"
+  },
   "179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805": {
     "title": "179.爱丽丝梦游仙境：世界多荒诞，我也是自己的主宰（上）",
     "url": "/wiki/sources/179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805/"
@@ -1490,6 +1494,10 @@
   "AmericanArchiveOfPublicBroadcasting": {
     "title": "American Archive of Public Broadcasting",
     "url": "/wiki/entities/americanarchiveofpublicbroadcasting/"
+  },
+  "AmericanBitcoin": {
+    "title": "American Bitcoin",
+    "url": "/wiki/entities/americanbitcoin/"
   },
   "AmericanCulturalExports": {
     "title": "American Cultural Exports",
@@ -4183,6 +4191,10 @@
     "title": "David Ellison",
     "url": "/wiki/entities/davidellison/"
   },
+  "DavidKirkpatrick": {
+    "title": "David Kirkpatrick",
+    "url": "/wiki/entities/davidkirkpatrick/"
+  },
   "DavidLieb": {
     "title": "David Lieb",
     "url": "/wiki/entities/davidlieb/"
@@ -4294,6 +4306,10 @@
   "DemandShockProductMarketFit": {
     "title": "Demand Shock Product-Market Fit",
     "url": "/wiki/concepts/demandshockproductmarketfit/"
+  },
+  "Democracy21": {
+    "title": "Democracy 21",
+    "url": "/wiki/entities/democracy21/"
   },
   "DemocracyInAmerica": {
     "title": "Democracy in America",
@@ -4578,6 +4594,10 @@
   "DonaldTrump": {
     "title": "Donald Trump",
     "url": "/wiki/entities/donaldtrump/"
+  },
+  "DonaldTrumpJr": {
+    "title": "Donald Trump Jr.",
+    "url": "/wiki/entities/donaldtrumpjr/"
   },
   "DonationOfConstantine": {
     "title": "Donation of Constantine / 君士坦丁献土",
@@ -5026,6 +5046,10 @@
   "EmmettShear": {
     "title": "Emmett Shear",
     "url": "/wiki/entities/emmettshear/"
+  },
+  "EmolumentsClause": {
+    "title": "Emoluments Clause",
+    "url": "/wiki/concepts/emolumentsclause/"
   },
   "EmotionalInteractionModels": {
     "title": "Emotional Interaction Models",
@@ -5918,6 +5942,10 @@
   "FrankishPortraiturePressure": {
     "title": "Frankish Portraiture Pressure",
     "url": "/wiki/concepts/frankishportraiturepressure/"
+  },
+  "FredWertheimer": {
+    "title": "Fred Wertheimer",
+    "url": "/wiki/entities/fredwertheimer/"
   },
   "FredWilson": {
     "title": "Fred Wilson",
@@ -9319,6 +9347,10 @@
     "title": "Mao Honghui / 毛红汇",
     "url": "/wiki/entities/maohonghui/"
   },
+  "MarALago": {
+    "title": "Mar-a-Lago",
+    "url": "/wiki/entities/maralago/"
+  },
   "MarathonPerformanceEcosystem": {
     "title": "Marathon Performance Ecosystem",
     "url": "/wiki/concepts/marathonperformanceecosystem/"
@@ -10535,6 +10567,10 @@
     "title": "Ocean Memory Project",
     "url": "/wiki/entities/oceanmemoryproject/"
   },
+  "OfficeLinkedProfitAccounting": {
+    "title": "Office-Linked Profit Accounting",
+    "url": "/wiki/concepts/officelinkedprofitaccounting/"
+  },
   "OfflineAIImplementation": {
     "title": "Offline AI Implementation",
     "url": "/wiki/concepts/offlineaiimplementation/"
@@ -11495,9 +11531,17 @@
     "title": "Presidential Conflict Of Interest",
     "url": "/wiki/concepts/presidentialconflictofinterest/"
   },
+  "PresidentialCryptoPolicyConflict": {
+    "title": "Presidential Crypto Policy Conflict",
+    "url": "/wiki/concepts/presidentialcryptopolicyconflict/"
+  },
   "PresidentialImpeachment": {
     "title": "Presidential Impeachment",
     "url": "/wiki/concepts/presidentialimpeachment/"
+  },
+  "PresidentialLibraryGiftRisk": {
+    "title": "Presidential Library Gift Risk",
+    "url": "/wiki/concepts/presidentiallibrarygiftrisk/"
   },
   "PresidentialMemorialCulture": {
     "title": "Presidential Memorial Culture",
@@ -14579,6 +14623,10 @@
     "title": "Trump Media And Technology Group",
     "url": "/wiki/entities/trumpmediaandtechnologygroup/"
   },
+  "TrumpOrganization": {
+    "title": "Trump Organization",
+    "url": "/wiki/entities/trumporganization/"
+  },
   "TrumpismInstitutionalization": {
     "title": "Trumpism Institutionalization",
     "url": "/wiki/concepts/trumpisminstitutionalization/"
@@ -14686,6 +14734,10 @@
   "UNFI": {
     "title": "UNFI",
     "url": "/wiki/entities/unfi/"
+  },
+  "USD1": {
+    "title": "USD1",
+    "url": "/wiki/entities/usd1/"
   },
   "USDepartmentOfDefense": {
     "title": "US Department of Defense",
@@ -16674,6 +16726,10 @@
   "how-danny-jenkins-bootstrapped-threatlocker-from-150k-debt-to-200m": {
     "title": "How Danny Jenkins Bootstrapped ThreatLocker From $150K Debt to $200M",
     "url": "/wiki/sources/how-danny-jenkins-bootstrapped-threatlocker-from-150k-debt-to-200m/"
+  },
+  "how-much-money-president-trump-and-his-family-have-made": {
+    "title": "How much money President Trump and his family have made",
+    "url": "/wiki/sources/how-much-money-president-trump-and-his-family-have-made/"
   },
   "indy-johar-civilizational-optioneering-tyeyt7r-zfu": {
     "title": "Indy Johar: Civilizational Optioneering",

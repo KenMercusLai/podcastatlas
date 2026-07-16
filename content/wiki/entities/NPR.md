@@ -2,7 +2,7 @@
 title: "NPR"
 type: entity
 tags: [media, public-media, journalism]
-sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
+sources: [how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
 last_updated: 2026-07-16
 ---
 
@@ -20,6 +20,8 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 
 [[before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets]] adds a [[PlanetMoney]] episode built from [[Throughline]] reporting. It extends NPR's economics-history branch into [[PredictionMarketHistory]], linking older [[ElectionBettingMarkets]], the [[IowaElectronicMarkets]], and today's [[Kalshi]] and [[Polymarket]] platforms.
 
+[[how-much-money-president-trump-and-his-family-have-made]] adds a reported [[PlanetMoney]] episode on presidency-linked private gain. It extends NPR's economics-reporting branch into [[OfficeLinkedProfitAccounting]], [[PresidentialConflictOfInterest]], and [[PresidentialCryptoPolicyConflict]] through [[DavidKirkpatrick]]'s estimate of [[DonaldTrump]] family gains.
+
 ## Connections
 - [[KatherineMaher]] — NPR CEO and speaker in the appeal.
 - [[PublicMediaFunding]] — central issue in the source.
@@ -30,3 +32,4 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 - [[IranSanctions]], [[EconomicSanctionsAsViolence]], and [[SanctionsOvercompliance]] - international-economics branch added through Planet Money.
 - [[Fast16]], [[CalculationIntegrityAttack]], [[CyberSabotage]], and [[EpistemologicalWarfare]] - cybersecurity and epistemic-trust branch added through Planet Money.
 - [[Throughline]], [[IowaElectronicMarkets]], [[PredictionMarketHistory]], and [[ElectionBettingMarkets]] - historical prediction-market branch added through Planet Money.
+- [[DavidKirkpatrick]], [[FredWertheimer]], [[OfficeLinkedProfitAccounting]], and [[PresidentialCryptoPolicyConflict]] - Trump-family profit-accounting branch added through Planet Money.

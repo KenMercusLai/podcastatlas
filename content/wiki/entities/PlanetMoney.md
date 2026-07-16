@@ -2,7 +2,7 @@
 title: "Planet Money"
 type: entity
 tags: [podcast, media, economics]
-sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
+sources: [how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
 last_updated: 2026-07-16
 ---
 
@@ -20,6 +20,8 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 
 [[before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets]] adds a prediction-market history case using a [[Throughline]] segment. It connects [[IowaElectronicMarkets]], older [[ElectionBettingMarkets]], and modern [[Kalshi]] and [[Polymarket]] platforms to the long-running problem of when market forecasts are informative, gambling-adjacent, media-legible, or regulatorily acceptable.
 
+[[how-much-money-president-trump-and-his-family-have-made]] adds a political-economy and ethics case. The episode uses [[DavidKirkpatrick]]'s accounting of [[DonaldTrump]] family gains and [[FredWertheimer]]'s historical comparison to connect private wealth, family business, crypto policy, and presidential power.
+
 ## Connections
 - [[NPR]] — network and public-media organization behind the appeal.
 - [[KatherineMaher]] — NPR CEO speaking in the message.
@@ -30,3 +32,4 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 - [[Iran]], [[UnitedStates]], [[EvaLeilaPesaran]], [[EsfandyarBatmanghelidj]], and [[AliIranProtester|Ali]] - Iran sanctions branch added by the new episode.
 - [[Fast16]], [[Stuxnet]], [[JuanAndresGuerreroSaade]], [[VitalyKamluk]], and [[EpistemologicalWarfare]] - cybersecurity and trust-in-knowledge branch added by the Fast 16 episode.
 - [[IowaElectronicMarkets]], [[PredictionMarketHistory]], [[ElectionBettingMarkets]], and [[AcademicPredictionMarketSandbox]] - prediction-market history branch added by the new episode.
+- [[DonaldTrump]], [[DavidKirkpatrick]], [[WorldLibertyFinancial]], [[OfficeLinkedProfitAccounting]], and [[PresidentialConflictOfInterest]] - presidency-linked private-profit branch added by the new episode.

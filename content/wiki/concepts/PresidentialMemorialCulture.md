@@ -2,8 +2,8 @@
 title: "Presidential Memorial Culture"
 type: concept
 tags: [politics, memory, museums, governance]
-sources: [coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b]
-last_updated: 2026-07-09
+sources: [how-much-money-president-trump-and-his-family-have-made, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b]
+last_updated: 2026-07-16
 ---
 
 # Presidential Memorial Culture
@@ -14,11 +14,14 @@ The episode's critique is not that presidents should have no archives or museums
 
 This makes memorial culture part of the wiki's democracy and memory branch. It connects [[HistoricalMemoryContest]] to [[AmericanDemocraticResilience]] because museums decide which parts of a presidency become civic memory, and it connects to [[ExecutivePowerPrecedent]] because symbolic elevation can normalize a larger idea of presidential office.
 
+[[how-much-money-president-trump-and-his-family-have-made]] adds a material-benefit angle through [[PresidentialLibraryGiftRisk]]. The episode says a Qatari jet gifted to the U.S. government is expected later to move into the Trump presidential-library sphere, making the library not only a memory institution but also a possible recipient of valuable office-linked assets.
+
 ## Key Claims
 - Presidential museums are memory infrastructure, not neutral containers.
 - Private operation can protect independence, but it can also make institutional accountability harder to see.
 - Memorial culture can delight supporters without persuading critics.
 - A democratic republic has to preserve records and public memory without turning presidents into monarch-like figures.
+- Gifts, buildings, aircraft, donor networks, and legacy assets can make presidential memory institutions part of [[PresidentialConflictOfInterest]], not only civic symbolism.
 
 ## Connections
 - [[ObamaPresidentialCenter]] and [[BarackObama]] - source case.
@@ -26,3 +29,4 @@ This makes memorial culture part of the wiki's democracy and memory branch. It c
 - [[HistoricalMemoryContest]] - broader memory-politics frame.
 - [[ExecutivePowerPrecedent]] - adjacent concern that presidential power can expand through law and symbolism.
 - [[DonaldTrump]] - political antagonist named in the source's center-independence discussion.
+- [[PresidentialLibraryGiftRisk]] and [[EmolumentsClause]] - gift and benefit-risk branch added by Planet Money.
