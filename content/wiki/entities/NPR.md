@@ -2,8 +2,8 @@
 title: "NPR"
 type: entity
 tags: [media, public-media, journalism]
-sources: [can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
-last_updated: 2026-07-15
+sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
+last_updated: 2026-07-16
 ---
 
 # NPR
@@ -18,6 +18,8 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 
 [[can-computer-hackers-get-inside-your-mind]] adds a reported [[PlanetMoney]] cybersecurity episode. It extends NPR's branch into intelligence history, [[Fast16|Fast 16]], [[Stuxnet]], [[CyberSabotage]], and the trust problem created when malware may corrupt calculations rather than simply steal data.
 
+[[before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets]] adds a [[PlanetMoney]] episode built from [[Throughline]] reporting. It extends NPR's economics-history branch into [[PredictionMarketHistory]], linking older [[ElectionBettingMarkets]], the [[IowaElectronicMarkets]], and today's [[Kalshi]] and [[Polymarket]] platforms.
+
 ## Connections
 - [[KatherineMaher]] — NPR CEO and speaker in the appeal.
 - [[PublicMediaFunding]] — central issue in the source.
@@ -27,3 +29,4 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 - [[TreeProtectionOrdinances]] and [[PropertyRightsCommunityObligations]] - reported-economics branch added through Planet Money.
 - [[IranSanctions]], [[EconomicSanctionsAsViolence]], and [[SanctionsOvercompliance]] - international-economics branch added through Planet Money.
 - [[Fast16]], [[CalculationIntegrityAttack]], [[CyberSabotage]], and [[EpistemologicalWarfare]] - cybersecurity and epistemic-trust branch added through Planet Money.
+- [[Throughline]], [[IowaElectronicMarkets]], [[PredictionMarketHistory]], and [[ElectionBettingMarkets]] - historical prediction-market branch added through Planet Money.

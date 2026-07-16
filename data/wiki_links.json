@@ -1023,6 +1023,10 @@
     "title": "Academic Freedom",
     "url": "/wiki/concepts/academicfreedom/"
   },
+  "AcademicPredictionMarketSandbox": {
+    "title": "Academic Prediction Market Sandbox",
+    "url": "/wiki/concepts/academicpredictionmarketsandbox/"
+  },
   "Accel": {
     "title": "Accel",
     "url": "/wiki/entities/accel/"
@@ -3451,6 +3455,10 @@
     "title": "Cold-Chain CPG Constraint",
     "url": "/wiki/concepts/coldchaincpgconstraint/"
   },
+  "ColemanStrumpf": {
+    "title": "Coleman Strumpf",
+    "url": "/wiki/entities/colemanstrumpf/"
+  },
   "CollabCapital": {
     "title": "Collab Capital",
     "url": "/wiki/entities/collabcapital/"
@@ -4938,6 +4946,10 @@
   "ElderlyCareFinancialFraud": {
     "title": "Elderly Care Financial Fraud",
     "url": "/wiki/concepts/elderlycarefinancialfraud/"
+  },
+  "ElectionBettingMarkets": {
+    "title": "Election Betting Markets",
+    "url": "/wiki/concepts/electionbettingmarkets/"
   },
   "ElectoralIneligibilityPenalty": {
     "title": "Electoral Ineligibility Penalty",
@@ -7554,6 +7566,10 @@
   "InvokoAI": {
     "title": "invoko.ai / Invoqo",
     "url": "/wiki/entities/invokoai/"
+  },
+  "IowaElectronicMarkets": {
+    "title": "Iowa Electronic Markets",
+    "url": "/wiki/entities/iowaelectronicmarkets/"
   },
   "Iran": {
     "title": "Iran",
@@ -10967,6 +10983,10 @@
     "title": "Paul Heyne / 保罗·海恩",
     "url": "/wiki/entities/paulheyne/"
   },
+  "PaulRhode": {
+    "title": "Paul Rhode",
+    "url": "/wiki/entities/paulrhode/"
+  },
   "PayPerClassFitnessModel": {
     "title": "Pay-Per-Class Fitness Model",
     "url": "/wiki/concepts/payperclassfitnessmodel/"
@@ -11442,6 +11462,10 @@
   "PredictionMarketEthics": {
     "title": "Prediction Market Ethics",
     "url": "/wiki/concepts/predictionmarketethics/"
+  },
+  "PredictionMarketHistory": {
+    "title": "Prediction Market History",
+    "url": "/wiki/concepts/predictionmarkethistory/"
   },
   "PredictionMarketIntegrityOversight": {
     "title": "Prediction Market Integrity Oversight",
@@ -12322,6 +12346,10 @@
   "RobbieMcCluskey": {
     "title": "Robbie McCluskey",
     "url": "/wiki/entities/robbiemccluskey/"
+  },
+  "RobertForsythe": {
+    "title": "Robert Forsythe",
+    "url": "/wiki/entities/robertforsythe/"
   },
   "RobertGuest": {
     "title": "Robert Guest",
@@ -14274,6 +14302,10 @@
   "ThriveMarket": {
     "title": "Thrive Market",
     "url": "/wiki/entities/thrivemarket/"
+  },
+  "Throughline": {
+    "title": "Throughline",
+    "url": "/wiki/entities/throughline/"
   },
   "TiDB": {
     "title": "TiDB",
@@ -16234,6 +16266,10 @@
   "bayo-akomolafe-the-untimely-cenyca-k7ry": {
     "title": "Bayo Akomolafe: The Untimely",
     "url": "/wiki/sources/bayo-akomolafe-the-untimely-cenyca-k7ry/"
+  },
+  "before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets": {
+    "title": "Before Kalshi and Polymarket there was the Iowa Electronic Markets",
+    "url": "/wiki/sources/before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets/"
   },
   "biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1": {
     "title": "71. 编程的内燃机时代",

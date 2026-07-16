@@ -2,11 +2,13 @@
 title: "Kalshi"
 type: entity
 tags: [company, prediction-market, finance]
-sources: [tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]
+last_updated: 2026-07-16
 ---
 
 # Kalshi
+
+[[before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets]] reframes Kalshi as a commercial successor to the [[IowaElectronicMarkets]] rather than only a current regulatory controversy. [[RobertForsythe]] says Kalshi and [[Polymarket]] run essentially the same kind of prediction markets, using similar basic trading and contract rules at much larger scale.
 
 [[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]] adds Kalshi's self-regulation response. The episode says Kalshi announced guardrails meant to block political candidates from trading on their own campaigns and prevent college or professional athletes, coaches, and referees from betting on events or leagues where they have inside involvement. [[MariaCurie|Maria Curi]] frames this as [[PredictionMarketSelfRegulation]] under pressure from users, states, regulators, and bipartisan federal legislation.
 
@@ -22,6 +24,7 @@ The source uses Kalshi to make [[PredictionMarketEthics]] concrete. Event market
 - Kalshi is described as arguing that it worked for years to operate under [[CommodityFuturesTradingCommission|CFTC]] regulation.
 - Some states still treat prediction-market products as gambling or want tighter restrictions.
 - Kalshi is also described as banning several people for insider trading, making market integrity part of the platform's legitimacy case.
+- The Planet Money history source makes Kalshi part of a longer lineage from older [[ElectionBettingMarkets]] through academic small-stakes experiments to commercial-scale event markets.
 
 ## Connections
 - [[PredictionMarketSelfRegulation]] - platform-led guardrails added by the March 27 source.
@@ -31,3 +34,4 @@ The source uses Kalshi to make [[PredictionMarketEthics]] concrete. Event market
 - [[Polymarket]] - adjacent prediction-market platform discussed through nuclear-weapons wagers.
 - [[AliKhamenei]] and [[Iran]] - event context for the disputed market.
 - [[NoPredictionTrading]] - related trading-probability frame that this source qualifies ethically.
+- [[IowaElectronicMarkets]], [[PredictionMarketHistory]], and [[AcademicPredictionMarketSandbox]] - historical branch added by Planet Money.

@@ -2,11 +2,13 @@
 title: "Commodity Futures Trading Commission"
 type: entity
 tags: [government, regulator, markets]
-sources: [tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]
+last_updated: 2026-07-16
 ---
 
 # Commodity Futures Trading Commission
+
+[[before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets]] adds the CFTC at the origin of the modern academic prediction-market branch. The episode says the [[IowaElectronicMarkets]] asked the CFTC for permission to operate nationally, and the agency issued a no-action letter under limits on stakes, deposits, advertising, profit motive, event category, and sports betting.
 
 The Commodity Futures Trading Commission appears in [[tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]] as the U.S. regulator whose rules are cited in the discussion of [[Kalshi]], [[Polymarket]], and prohibited event contracts. The episode says CFTC rules prohibit contracts involving or referencing assassination, war, terrorism, and similar actions.
 
@@ -22,3 +24,4 @@ The source uses the CFTC to separate prediction markets from ordinary opinion po
 - [[NoPredictionTrading]] - adjacent probability-and-market frame qualified by regulatory limits.
 - [[PredictionMarketIntegrityOversight]], [[SportsbookIntegrityMonitoring]], [[PredictionMarketSelfRegulation]], and [[EventContractManipulationRisk]] - integrity, self-regulation, and manipulation concepts added by later episodes.
 - [[BenSchifrin]], [[BetterMarkets]], [[JohnHolden]], and [[IndianaUniversity]] - expert and institutional context for the rulemaking pressure.
+- [[IowaElectronicMarkets]] and [[AcademicPredictionMarketSandbox]] - earlier small-stakes research-market branch.

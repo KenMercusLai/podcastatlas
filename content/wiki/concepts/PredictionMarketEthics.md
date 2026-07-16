@@ -2,8 +2,8 @@
 title: "Prediction Market Ethics"
 type: concept
 tags: [markets, regulation, ethics, risk]
-sources: [tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]
+last_updated: 2026-07-16
 ---
 
 # Prediction Market Ethics
@@ -16,6 +16,8 @@ The episode's tension is that prediction prices can reveal distributed expectati
 
 [[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]] adds the self-regulation version. [[Kalshi]]'s candidate and sports-insider guardrails respond to the ethical problem from the platform side: users may not trust a market if politicians, athletes, coaches, referees, or war insiders can trade on information or influence that ordinary participants do not have.
 
+[[before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets]] adds the historical layer. It shows that prediction markets have long sat between useful forecasting, gambling, political theater, and regulatory discomfort: older [[ElectionBettingMarkets]] could be informative, while the [[IowaElectronicMarkets]] needed an [[AcademicPredictionMarketSandbox]] to remain acceptable as teaching and research rather than ordinary wagering.
+
 ## Key Claims
 - Useful probability aggregation does not automatically make an event morally or legally appropriate to trade.
 - Death, war, terrorism, assassination, and nuclear-weapons contracts are especially risky because they can turn public harm into a speculative payoff.
@@ -25,6 +27,7 @@ The episode's tension is that prediction prices can reveal distributed expectati
 - Integrity controls matter because an event market can be ethically risky through manipulation or insider information even when the event category is not obviously prohibited.
 - The line between prediction market and sportsbook is strategically important: stronger sportsbook-like controls may improve trust while also strengthening gambling-law claims.
 - Self-regulation is ethically relevant only if it can reliably identify prohibited traders and sensitive markets before harm or unfair trading occurs.
+- The ethical boundary has a history: even accurate election markets can be treated as gambling, political signaling, or unacceptable media material depending on context.
 
 ## Connections
 - [[Kalshi]], [[Polymarket]], and [[CommodityFuturesTradingCommission|CFTC]] - source platforms and regulator.
@@ -33,3 +36,4 @@ The episode's tension is that prediction prices can reveal distributed expectati
 - [[PolicyAnnouncementTradingRisk]] - related risk where event-linked trading depends on policy timing, information, and interpretation.
 - [[PredictionMarketIntegrityOversight]], [[PredictionMarketSelfRegulation]], [[SportsbookIntegrityMonitoring]], and [[EventContractManipulationRisk]] - integrity concepts added by later Marketplace Tech episodes.
 - [[JontayPorter]], [[NationalBasketballAssociation|NBA]], [[DraftKings]], [[BenSchifrin]], and [[JohnHolden]] - sports case and expert context for the oversight extension.
+- [[IowaElectronicMarkets]], [[PredictionMarketHistory]], [[ElectionBettingMarkets]], and [[AcademicPredictionMarketSandbox]] - historical branch added by Planet Money.

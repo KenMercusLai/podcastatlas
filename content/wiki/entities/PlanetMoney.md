@@ -2,8 +2,8 @@
 title: "Planet Money"
 type: entity
 tags: [podcast, media, economics]
-sources: [can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
-last_updated: 2026-07-15
+sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
+last_updated: 2026-07-16
 ---
 
 # Planet Money
@@ -18,6 +18,8 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 
 [[can-computer-hackers-get-inside-your-mind]] adds a cybersecurity and intelligence-history case. The episode follows [[JuanAndresGuerreroSaade|JAGS]] and [[VitalyKamluk]] as they investigate [[Fast16|Fast 16]], connecting [[Stuxnet]], [[CyberSabotage]], [[CalculationIntegrityAttack]], and [[EpistemologicalWarfare]] to possible [[NuclearWeaponsModeling]] sabotage.
 
+[[before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets]] adds a prediction-market history case using a [[Throughline]] segment. It connects [[IowaElectronicMarkets]], older [[ElectionBettingMarkets]], and modern [[Kalshi]] and [[Polymarket]] platforms to the long-running problem of when market forecasts are informative, gambling-adjacent, media-legible, or regulatorily acceptable.
+
 ## Connections
 - [[NPR]] — network and public-media organization behind the appeal.
 - [[KatherineMaher]] — NPR CEO speaking in the message.
@@ -27,3 +29,4 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 - [[TreeProtectionOrdinances]], [[UrbanCanopyExternalities]], [[RegulatoryTakings]], and [[PermitProportionality]] - concepts added by the tree-law episode.
 - [[Iran]], [[UnitedStates]], [[EvaLeilaPesaran]], [[EsfandyarBatmanghelidj]], and [[AliIranProtester|Ali]] - Iran sanctions branch added by the new episode.
 - [[Fast16]], [[Stuxnet]], [[JuanAndresGuerreroSaade]], [[VitalyKamluk]], and [[EpistemologicalWarfare]] - cybersecurity and trust-in-knowledge branch added by the Fast 16 episode.
+- [[IowaElectronicMarkets]], [[PredictionMarketHistory]], [[ElectionBettingMarkets]], and [[AcademicPredictionMarketSandbox]] - prediction-market history branch added by the new episode.

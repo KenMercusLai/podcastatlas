@@ -3332,3 +3332,11 @@ Added source page for the Planet Money episode on Fast 16, a suspected Stuxnet-l
 ## [2026-07-15] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 4,351 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-16] ingest | Before Kalshi and Polymarket there was the Iowa Electronic Markets
+
+Added source page for the Planet Money/Throughline episode on Iowa Electronic Markets, historical election betting, prediction-market accuracy versus polls, CFTC no-action limits, and modern Kalshi/Polymarket continuity. Created pages for Iowa Electronic Markets, Robert Forsythe, Coleman Strumpf, Paul Rhode, Throughline, Prediction Market History, Election Betting Markets, and Academic Prediction Market Sandbox; updated overview, index, NPR, Planet Money, Kalshi, Polymarket, Commodity Futures Trading Commission, Prediction Market Ethics, Prediction Market Integrity Oversight, and Market Efficiency. No direct contradiction found; the source extends the existing modern prediction-market branch backward from harmful-event ethics and integrity controls into older election markets, academic experiments, and regulatory sandboxing.
+
+## [2026-07-16] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 4,360 wiki pages. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; a bounded in-session review of the orphan pages and fragile-bridge endpoints found no direct contradictions, but the orphan pages need inbound links and the two graph bridges need reinforcing links. Report returned in-session; `wiki/lint-report.md` was not saved.

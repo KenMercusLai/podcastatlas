@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Before Kalshi and Polymarket there was the Iowa Electronic Markets](sources/before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets.md) — Planet Money/Throughline episode on Iowa Electronic Markets, older election betting, market forecasts versus polls, CFTC sandbox limits, and Kalshi/Polymarket as commercial successors.
 - [Can computer hackers get inside your mind?](sources/can-computer-hackers-get-inside-your-mind.md) — Planet Money episode on Fast 16 malware, Stuxnet-like cyber sabotage, corrupted high-precision calculations, possible nuclear-weapons modeling, and epistemological warfare.
 - [Iran, protests, and sanctions](sources/iran-protests-and-sanctions.md) — Planet Money episode on U.S. sanctions against Iran, currency-triggered protest, revolutionary economic self-reliance, dollar financial sanctions, overcompliance, IRGC insider gains, and civilian costs.
 - [It's my tree. Why can't I cut it down?](sources/its-my-tree-why-cant-i-cut-it-down.md) — Planet Money episode on Portland and Canton tree laws, urban canopy externalities, private property rights, regulatory takings, and proportional permit fees.
@@ -419,6 +420,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Iowa Electronic Markets](entities/IowaElectronicMarkets.md) — University of Iowa prediction-market project launched in 1988 that revived academic election markets under CFTC no-action limits.
+- [Robert Forsythe](entities/RobertForsythe.md) — Iowa economist who helped create the Iowa Electronic Markets after the 1988 polling miss.
+- [Coleman Strumpf](entities/ColemanStrumpf.md) — Economist whose historical work links modern prediction markets to older election betting and racetrack information behavior.
+- [Paul Rhode](entities/PaulRhode.md) — Economic historian whose 1924 newspaper evidence helped Strumpf rediscover older U.S. election markets.
+- [Throughline](entities/Throughline.md) — NPR history podcast whose prediction-market segment was excerpted in the Planet Money episode.
 - [Fast 16](entities/Fast16.md) — Malware case investigated as a likely Stuxnet-like calculation-integrity sabotage tool aimed at high-precision physics modeling.
 - [Juan Andres Guerrero Saade](entities/JuanAndresGuerreroSaade.md) — SentinelOne researcher, known as JAGS, who pursued the Fast 16 clue and framed its trust-corrupting effect.
 - [Vitaly Kamluk](entities/VitalyKamluk.md) — Malware researcher who helped reopen the Fast 16 investigation and identified the Stuxnet-like calculation-corruption pattern.
@@ -2617,6 +2623,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Prediction Market History](concepts/PredictionMarketHistory.md) — Lineage from older election betting to Iowa Electronic Markets and modern Kalshi/Polymarket platforms.
+- [Election Betting Markets](concepts/ElectionBettingMarkets.md) — Historical election-wagering markets used for forecasting, political signaling, status, and hedging before scientific polling dominated media forecasts.
+- [Academic Prediction Market Sandbox](concepts/AcademicPredictionMarketSandbox.md) — Research-oriented regulatory compromise around small-stakes prediction markets, anchored by CFTC no-action limits for Iowa Electronic Markets.
 - [Cyber Sabotage](concepts/CyberSabotage.md) — Malware or digital access used to damage, degrade, or mislead targets rather than merely steal information.
 - [Calculation Integrity Attack](concepts/CalculationIntegrityAttack.md) — Cyberattack pattern that corrupts computational results while leaving the surrounding workflow plausible.
 - [Epistemological Warfare](concepts/EpistemologicalWarfare.md) — Attack frame where corrupting trusted outputs damages a target's ability to know what is true.

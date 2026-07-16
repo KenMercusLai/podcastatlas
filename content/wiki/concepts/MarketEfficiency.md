@@ -2,8 +2,8 @@
 title: "Market Efficiency"
 type: concept
 tags: [investing, markets]
-sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, jiufan-zhongting-mifeng-jingjixue-956460448, vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl]
-last_updated: 2026-07-15
+sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, jiufan-zhongting-mifeng-jingjixue-956460448, vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl]
+last_updated: 2026-07-16
 ---
 
 # Market Efficiency
@@ -13,6 +13,8 @@ Market efficiency is the episode's frame for why profitable edges are hard, temp
 [[e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc]] adds the portfolio version: an asset can be efficiently priced in isolation yet still be valuable if its expected return or [[AssetCorrelation]] improves the whole portfolio's [[EfficientFrontier]].
 
 [[e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0]] adds the prediction-market version through [[Polymarket]]. The source uses price-as-probability to explain why market prices can summarize participants' current odds while still leaving residual risk and no guarantee for the next event.
+
+[[before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets]] adds the election-forecasting version through the [[IowaElectronicMarkets]] and older [[ElectionBettingMarkets]]. The source says the Iowa market was highly accurate in 1988 and often beat polls through 2004, while also showing that accurate price aggregation can coexist with legal, cultural, and media discomfort.
 
 [[jiufan-zhongting-mifeng-jingjixue-956460448]] adds a non-financial version through bees and orchards. [[ZhangWuchang]]'s contract evidence suggests that even relationships first taught as market failures can become coordinated by seasonal prices, crop-specific contracts, and local norms inside a [[PollinationServiceMarket]]. The source does not claim markets erase every risk; it pairs [[ExternalityInternalization]] with [[BeeColonyCollapse]] to show that pricing can make a risk operable without making the underlying biology stable.
 
@@ -26,6 +28,7 @@ Market efficiency is the episode's frame for why profitable edges are hard, temp
 - [[AlphaDecay]] means an inefficiency can be real at first and still stop paying after crowding or regime change.
 - Portfolio value can come from return and correlation fit, not only from finding a mispriced standalone asset.
 - Prediction-market prices can be useful probability summaries, but a small quoted risk is not the same as zero risk.
+- Election prediction markets can aggregate dispersed political expectations, but market accuracy does not by itself settle legality, ethics, or media legitimacy.
 - Price aggregation does not make later stories causal; [[RandomMarketNarratives]] can still emerge after the fact.
 - Agricultural contracts can internalize some spillover benefits, but efficient pricing of pollination is not the same as eliminating hive-health, pesticide, or disease risk.
 
@@ -36,5 +39,6 @@ Market efficiency is the episode's frame for why profitable edges are hard, temp
 - [[PassiveInvesting]] — depends on active price discovery even as it grows.
 - [[EfficientFrontier]] and [[AssetCorrelation]] — E158's portfolio-level extension beyond single-asset efficiency.
 - [[Polymarket]], [[NoPredictionTrading]], and [[RandomMarketNarratives]] — E144's price-as-probability and narrative-risk extension.
+- [[IowaElectronicMarkets]], [[PredictionMarketHistory]], and [[ElectionBettingMarkets]] - election-forecasting market branch added by Planet Money.
 - [[jiufan-zhongting-mifeng-jingjixue-956460448]], [[ExternalityInternalization]], and [[PollinationServiceMarket]] — bee-contract extension outside financial markets.
 - [[AlphaDecay]], [[QuantitativeDataMoat]], and [[ShortTermStatisticalArbitrage]] — vol.103's signal-decay and quant-market extension.
