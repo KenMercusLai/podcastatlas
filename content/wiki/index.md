@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [110.初老的女人：疲惫，温柔，辽阔](sources/110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278.md) — 蜜獾吃书 episode on 伊藤比吕美《初老的女人》, embodied aging, age-friendly infrastructure, late-life female body freedom, pet care, health checks, insurance planning, and poetry as a way to process life problems.
 - [109.闲聊左传之春秋运动会！](sources/109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773.md) — 蜜獾吃书 episode turning 《左传》 and Spring-Autumn anecdotes into a playful sports-meet frame across ritual warfare, aristocratic battle rules, and figures such as 南宫长万, 蔡姬, 魏犨, 公子彭生, 高固, 养由基, 叔梁纥, and 孔子.
 - [OpenAI's GPT-5.6 release raises questions about White House control over new models](sources/tech-20260710-tech-pod-128-tech-20260710-tech-pod-128.md) — Marketplace Tech Bytes episode with Maria Curi on GPT-5.6 release review, White House voluntary-review language, China model-access restrictions, and Meta's Muse Image likeness/privacy concerns.
 - [How U.S. political campaigns have used generative AI](sources/tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128.md) — Marketplace Tech episode with Tim Harper of the Center for Democracy and Technology on 2024 campaign AI use, speed and scale, fragmented state political-ad disclosure rules, and future voting-misinformation risks.
@@ -433,6 +434,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [伊藤比吕美 / Itō Hiromi](entities/ItoHiromi.md) — Japanese poet and writer whose 《初老的女人》 lets the wiki track late-life aging through body, care, humor, and poetry.
+- [《初老的女人》](entities/ChurouNoOnna.md) — Ito Hiromi book discussed by 蜜獾吃书 as a concrete account of post-menopausal aging, pet care, bodily freedom, and poetry.
 - [《左传》 / Zuo Zhuan](entities/ZuoZhuan.md) — Classical narrative-history text used by episode 109 to make Spring-Autumn war, ritual, insult, courage, and political improvisation visible through stories.
 - [春秋时期 / Spring and Autumn Period](entities/SpringAndAutumnPeriod.md) — Historical setting for episode 109's rule-bound, aristocratic, and often absurd war-and-diplomacy anecdotes.
 - [南宫长万](entities/NangongChangwan.md) — Song-state strongman nominated by episode 109 for long-distance and weighted running through his regicide and flight story.
@@ -2725,6 +2728,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Embodied Aging](concepts/EmbodiedAging.md) — Aging understood through bodily friction, household logistics, care networks, health monitoring, companion animals, and death planning.
+- [Age-Friendly Infrastructure](concepts/AgeFriendlyInfrastructure.md) — Public and housing infrastructure judged by how stairs, transit, roads, elevators, and aging-in-place decisions work for older bodies.
+- [Female Body Freedom](concepts/FemaleBodyFreedom.md) — Late-life bodily agency around bras, high heels, menstruation, menopause, medical inspection, shame, and self-possession.
+- [Poetry As Life Problem Solving](concepts/PoetryAsLifeProblemSolving.md) — Poetry as a practice for processing body, motherhood, caregiving, death, dreams, and unresolved life problems.
 - [Sports As Historical Reading Frame](concepts/SportsAsHistoricalReadingFrame.md) — Playful method from episode 109 that maps Spring-Autumn anecdotes onto athletic events to make old stories memorable without treating the analogy as literal historiography.
 - [Spring-Autumn Warfare Ritual](concepts/SpringAutumnWarfareRitual.md) — Episode 109 frame for chariot-centered, aristocratic, rule-conscious warfare where violence, display, humiliation, and fair-play expectations coexist.
 - [AI Public Likeness Generation](concepts/AIPublicLikenessGeneration.md) — Risk pattern where public usernames or profiles can be used to generate a person's likeness unless consent and opt-out defaults are handled explicitly.

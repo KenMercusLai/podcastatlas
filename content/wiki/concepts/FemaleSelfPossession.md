@@ -2,8 +2,8 @@
 title: "Female Self-Possession"
 type: concept
 tags: [women, agency, life-design, self-knowledge]
-sources: [167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038, 184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
-last_updated: 2026-07-15
+sources: [110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038, 184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
+last_updated: 2026-07-17
 ---
 
 # Female Self-Possession
@@ -38,6 +38,8 @@ The three hosts show different versions. [[YinJie|殷姐]] is satisfied with the
 
 [[181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261]] adds a trauma-response version through [[QinZong|秦总]] and [[Fawning|《讨好反应》 / Fawning]]. Here self-possession begins less as triumphant confidence than as noticing [[FawnResponse|fawning]], refusing inherited approval rituals, and slowly becoming less governed by elders, leaders, partners, or imagined public judgment.
 
+[[110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278]] adds a late-life bodily version through [[ItoHiromi|伊藤比吕美]] and [[ChurouNoOnna|《初老的女人》]]. Here self-possession is tired and practical: not wearing a bra when it is unnecessary, questioning high-heel requirements without performing the gesture as a classroom announcement, speaking about menstruation and menopause, accepting medical inspection, arranging pet care, and using poems to face death without pretending the body is under full control.
+
 ## Key Claims
 
 - Self-possession is not the absence of pain or dependency; it is the ability to keep recognizing oneself inside pain, work, family, love, and social expectation.
@@ -51,6 +53,7 @@ The three hosts show different versions. [[YinJie|殷姐]] is satisfied with the
 - A girl character's self-command can appear inside confusion: Alice's agency comes from continuing to test and adjust rather than already knowing the rules.
 - Self-possession can include the refusal to grant false authority its preferred frame.
 - Trauma can make self-possession start with recognizing that pleasing others was a survival strategy rather than the self's true shape.
+- Late-life self-possession can be less about limitless choice than about truthful naming, bodily permission, practical care, and keeping a writing practice while dependence becomes harder to ignore.
 
 ## Connections
 
@@ -69,3 +72,4 @@ The three hosts show different versions. [[YinJie|殷姐]] is satisfied with the
 - [[MenstrualProductSocialHistory]], [[MenstrualStigma]], [[ItaiTaeko|板井太子]], and [[AnneSanitaryNapkin|安妮卫生巾]] - bodily-infrastructure extension from episode 175.
 - [[HongLouMeng|《红楼梦》]], [[QingGenderLegalOrder]], [[QingFemaleInheritanceConstraint]], [[LowStatusRegistry]], and [[ConfiscationAndFemaleFate]] - episode 167's historical constraint case.
 - [[FawnResponse]], [[ComplexTraumaRecognition]], and [[UnfawningBoundaryPractice]] - episode 181's trauma-response extension.
+- [[FemaleBodyFreedom]], [[EmbodiedAging]], and [[PoetryAsLifeProblemSolving]] - late-life body and writing extension from the Ito Hiromi source.
