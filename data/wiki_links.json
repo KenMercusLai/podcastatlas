@@ -463,6 +463,10 @@
     "title": "75.故事新编：骷髅被复活后会感激庄子吗？",
     "url": "/wiki/sources/75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087/"
   },
+  "76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220": {
+    "title": "76.玄怪录：晚唐党争？没耽误宰相写大马猴的故事",
+    "url": "/wiki/sources/76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220/"
+  },
   "82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589": {
     "title": "82.闲聊伟大作家的八卦（第二弹）",
     "url": "/wiki/sources/82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589/"
@@ -1418,6 +1422,10 @@
   "Ajiao": {
     "title": "阿娇 / 柱子哥",
     "url": "/wiki/entities/ajiao/"
+  },
+  "AkutagawaRyunosuke": {
+    "title": "芥川龙之介 / Ryunosuke Akutagawa",
+    "url": "/wiki/entities/akutagawaryunosuke/"
   },
   "AlanGreenspan": {
     "title": "Alan Greenspan",
@@ -5162,6 +5170,10 @@
   "DuShaoqing": {
     "title": "杜少卿",
     "url": "/wiki/entities/dushaoqing/"
+  },
+  "DuZiChun": {
+    "title": "《杜子春》",
+    "url": "/wiki/entities/duzichun/"
   },
   "DuanGeShiWoBeishangDeWanju": {
     "title": "《短歌是我悲伤的玩具》",
@@ -9555,6 +9567,10 @@
     "title": "Li Beibin",
     "url": "/wiki/entities/libeibin/"
   },
+  "LiDeyu": {
+    "title": "李德裕",
+    "url": "/wiki/entities/lideyu/"
+  },
   "LiJiajia": {
     "title": "李嘉佳 / Li Jiajia",
     "url": "/wiki/entities/lijiajia/"
@@ -9610,6 +9626,10 @@
   "LiYanhong": {
     "title": "Li Yanhong",
     "url": "/wiki/entities/liyanhong/"
+  },
+  "LiZongmin": {
+    "title": "李宗闵",
+    "url": "/wiki/entities/lizongmin/"
   },
   "LiangJianzhang": {
     "title": "Liang Jianzhang",
@@ -11466,6 +11486,14 @@
   "Nishinoshima": {
     "title": "西之岛 / Nishinoshima",
     "url": "/wiki/entities/nishinoshima/"
+  },
+  "NiuLiPartyStruggle": {
+    "title": "牛李党争 / Niu-Li Party Struggle",
+    "url": "/wiki/entities/niulipartystruggle/"
+  },
+  "NiuSengru": {
+    "title": "牛僧儒",
+    "url": "/wiki/entities/niusengru/"
   },
   "NoBetterLife": {
     "title": "No Better Life",
@@ -15407,6 +15435,10 @@
     "title": "田中光",
     "url": "/wiki/entities/tanakahikari/"
   },
+  "TangChuanqi": {
+    "title": "唐传奇 / Tang Chuanqi",
+    "url": "/wiki/concepts/tangchuanqi/"
+  },
   "TangHaocheng": {
     "title": "Tang Haocheng",
     "url": "/wiki/entities/tanghaocheng/"
@@ -15414,6 +15446,10 @@
   "TangHui": {
     "title": "唐辉 / Tang Hui",
     "url": "/wiki/entities/tanghui/"
+  },
+  "TangStrangeTaleRepaymentEthics": {
+    "title": "Tang Strange-Tale Repayment Ethics",
+    "url": "/wiki/concepts/tangstrangetalerepaymentethics/"
   },
   "TankaEverydayExpression": {
     "title": "Tanka As Everyday Expression",
@@ -15978,6 +16014,10 @@
   "TrainingComputeAllocation": {
     "title": "Training Compute Allocation",
     "url": "/wiki/concepts/trainingcomputeallocation/"
+  },
+  "TranscendenceAgainstHumanFeeling": {
+    "title": "Transcendence Against Human Feeling",
+    "url": "/wiki/concepts/transcendenceagainsthumanfeeling/"
   },
   "TranslationPublishingWorkflow": {
     "title": "Translation Publishing Workflow",
@@ -17239,9 +17279,17 @@
     "title": "徐文亮 / Tom",
     "url": "/wiki/entities/xuwenliang/"
   },
+  "XuXuanGuaiLu": {
+    "title": "《续玄怪录》",
+    "url": "/wiki/entities/xuxuanguailu/"
+  },
   "XuZhe": {
     "title": "Xu Zhe / 许哲",
     "url": "/wiki/entities/xuzhe/"
+  },
+  "XuanGuaiLu": {
+    "title": "《玄怪录》",
+    "url": "/wiki/entities/xuanguailu/"
   },
   "Xuanzang": {
     "title": "玄奘",
@@ -17766,6 +17814,10 @@
   "ZhouMing": {
     "title": "周明",
     "url": "/wiki/entities/zhouming/"
+  },
+  "ZhouQinXingJi": {
+    "title": "《周秦行纪》",
+    "url": "/wiki/entities/zhouqinxingji/"
   },
   "ZhouQunfei": {
     "title": "Zhou Qunfei",

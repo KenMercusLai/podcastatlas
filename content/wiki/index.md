@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [76.玄怪录：晚唐党争？没耽误宰相写大马猴的故事](sources/76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220.md) — 蜜獾吃书 episode on 牛僧儒《玄怪录》, 牛李党争, 唐传奇, fox/dragon/object-spirit repayment, religious mixing, water-monkey ambiguity, and 《杜子春》 as a failed immortality test.
 - [中秋快乐！](sources/zhongqiu-kuaile-669967741.md) — 蜜獾吃书 holiday episode turning Mid-Autumn into a travel-reading and festival-food book list, from travel anthropology and Yunnan local history to 《中华蟹史》 and crab material culture.
 - [70.医生，你在想什么：少看百度，以及吃药时别吃西柚啊](sources/70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394.md) — 蜜獾吃书 episode on 王兴医生《医生，你在想什么》, doctor-patient communication, diagnostic reasoning, online symptom-search anxiety, medication interaction risk, and preventive screening.
 - [69.闲聊推理文学：历史学者可不就是侦探吗！](sources/69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465.md) — 蜜獾吃书 episode with 张志浩 on detective fiction, archaeology, historical reasoning, 《时间的女儿》, Richard III, 曹操墓, Jack the Ripper, late-Qing Holmes translation, and personal archives.
@@ -455,6 +456,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《玄怪录》](entities/XuanGuaiLu.md) — Tang strange-tale collection used by episode 76 to connect 牛僧儒, 唐传奇, foxes, dragons, object spirits, and ethical wonder.
+- [《续玄怪录》](entities/XuXuanGuaiLu.md) — Companion strange-tale collection folded into episode 76's riddles, dragon-family, and 《杜子春》 discussions.
+- [牛僧儒](entities/NiuSengru.md) — Late-Tang chancellor and writer whose political career and 《玄怪录》 authorship frame episode 76.
+- [牛李党争 / Niu-Li Party Struggle](entities/NiuLiPartyStruggle.md) — Late-Tang factional conflict used by episode 76 to connect politics, frontier policy, authorship, and reputation attack.
+- [李德裕](entities/LiDeyu.md) — Li-side late-Tang politician contrasted with 牛僧儒 in episode 76's discussion of faction and Tubo policy.
+- [李宗闵](entities/LiZongmin.md) — Figure grouped with 牛僧儒 in episode 76's account of the 牛李党争.
+- [《周秦行纪》](entities/ZhouQinXingJi.md) — Disputed erotic tale treated by episode 76 as a possible factional-attribution and reputation problem.
+- [《杜子春》](entities/DuZiChun.md) — Immortality-test story used by episode 76 to ask whether transcendence requires giving up human feeling.
+- [芥川龙之介 / Ryunosuke Akutagawa](entities/AkutagawaRyunosuke.md) — Japanese writer invoked through his 《杜子春》 adaptation and its more humane ending.
 - [《中华蟹史》](entities/ZhonghuaXieshi.md) — Crab-history book used to connect Mid-Autumn eating, literary crab references, Shanghai's "沪" etymology, and giant-crab folklore.
 - [钱苍水](entities/QianCangshui.md) — Jiangsu Taicang author of 《中华蟹史》, treated source-locally as the crab-history compiler behind the episode's festival-food turn.
 - [《中亚行迹》 / Sovietistan](entities/ZhongyaXingji.md) — Travel-anthropology book recommended as a way to read post-Soviet Central Asia through social change rather than sightseeing.
@@ -2905,6 +2915,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [唐传奇 / Tang Chuanqi](concepts/TangChuanqi.md) — Genre frame from episode 76 for ornate Tang strange tales mixing politics, riddles, foxes, dragons, object spirits, religious practice, and moral tests.
+- [Tang Strange-Tale Repayment Ethics](concepts/TangStrangeTaleRepaymentEthics.md) — Episode 76 pattern where supernatural beings ask for help and repay materially, ritually, or protectively rather than resolving as erotic reward.
+- [Transcendence Against Human Feeling](concepts/TranscendenceAgainstHumanFeeling.md) — Ethical frame from 《杜子春》 where passing an immortality test may require suppressing the human response to suffering.
 - [Travel Reading As Place Inquiry](concepts/TravelReadingAsPlaceInquiry.md) — Holiday-reading frame where travel books become tools for historical, geographic, anthropological, and local-cultural inquiry.
 - [Festival Food Material History](concepts/FestivalFoodMaterialHistory.md) — Pattern where seasonal foods reveal festival time, place names, literature, folklore, fear, and everyday material culture.
 - [Historical Detective Reasoning](concepts/HistoricalDetectiveReasoning.md) — Method linking history, archaeology, and detective fiction through fragmentary traces, source criticism, rival explanations, and rational humility.
