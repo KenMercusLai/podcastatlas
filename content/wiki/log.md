@@ -3500,3 +3500,11 @@ Ran health and lint. Health scanned 4,549 pages and passed with no empty/stub fi
 ## [2026-07-17] lint | Wiki health check
 
 Ran health and lint. Health scanned 4,573 pages and passed with no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 4,573 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, one fragile bridge (`concepts/UniversityOpportunityDensity` -> `concepts/CollegeMajorChoice`), and no isolated communities. The semantic LiteLLM pass failed because `LLM_MODEL` is not provider-qualified. No `wiki/lint-report.md` file was saved.
+
+## [2026-07-17] ingest | Two indicators for lowering the rent
+
+Added source page for the Planet Money episode on corporate single-family rentals, build-to-rent housing, SRO disappearance, supportive housing, and homelessness. Created pages for Amanda Cantrell, Stephen Billings, Lori Goodman, Adrienne Toddman, National Rental Home Council, Vera Hill, Euclid Hall, Westside Federation for Senior and Supportive Housing, Rebecca Baird-Remba, International Hotel, Paul Freitag, Institutional Single-Family Rental, Corporate Landlord Tradeoffs, Build-To-Rent Housing, Housing Affordability Supply Mechanics, Housing Restriction Backfire, Real Estate Investment Trust, Neighborhood Opportunity Access, Single-Room Occupancy Housing, SRO Regulatory Erasure, SRO Loss And Homelessness, Shared Housing Revival, and Supportive Housing Management; updated overview, index, NPR, and Planet Money. No direct contradiction found; the source qualifies simple corporate-landlord blame by emphasizing national scale and supply mechanics, and qualifies minimum-housing-standard narratives by showing how eliminating SROs can remove cheap housing when replacements are not built.
+
+## [2026-07-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

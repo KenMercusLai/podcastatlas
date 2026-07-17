@@ -2,7 +2,7 @@
 title: "NPR"
 type: entity
 tags: [media, public-media, journalism]
-sources: [why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
+sources: [two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
 last_updated: 2026-07-17
 ---
 
@@ -28,6 +28,8 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 
 [[why-is-there-a-supplement-craze-if-they-dont-even-work]] adds a reported [[PlanetMoney]] episode on U.S. supplement regulation, manufacturing, and consumer trust. It extends NPR's economics-reporting branch into [[DietarySupplementRegulation]], [[SupplementStructureFunctionClaims]], [[GRASSelfCertification]], [[SupplementLabelAccuracy]], and [[HerbalSupplementLiverToxicity]] through the [[Prevagen]] case and expert interviews with [[MarionNestle]] and [[MelanieBenish]].
 
+[[two-indicators-for-lowering-the-rent]] adds a reported [[PlanetMoney]] episode on housing affordability, corporate landlords, build-to-rent supply, SRO disappearance, and homelessness. It extends NPR's economics-reporting branch into [[HousingAffordabilitySupplyMechanics]], [[CorporateLandlordTradeoffs]], [[HousingRestrictionBackfire]], [[SingleRoomOccupancyHousing]], and [[SharedHousingRevival]].
+
 ## Connections
 - [[KatherineMaher]] — NPR CEO and speaker in the appeal.
 - [[PublicMediaFunding]] — central issue in the source.
@@ -42,3 +44,4 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 - [[SubprimeAutoLending]], [[AutoRepossession]], [[CarAffordabilityStress]], and [[GPSEnabledRepossession]] - household-auto-credit branch added through Planet Money.
 - [[WetzelsPretzels]], [[RickyAlam]], [[ImpulseRetailClustering]], and [[SharedKitchenSatelliteRetail]] - impulse-retail branch added through Planet Money.
 - [[DietarySupplementRegulation]], [[Prevagen]], [[SupplementStructureFunctionClaims]], and [[ThirdPartySupplementTesting]] - supplement-regulation branch added through Planet Money.
+- [[HousingAffordabilitySupplyMechanics]], [[InstitutionalSingleFamilyRental]], [[SingleRoomOccupancyHousing]], and [[SupportiveHousingManagement]] - housing affordability and SRO branch added through Planet Money.

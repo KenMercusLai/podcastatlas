@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Two indicators for lowering the rent](sources/two-indicators-for-lowering-the-rent.md) — Planet Money episode on corporate single-family landlords, build-to-rent supply, SRO disappearance, homelessness, and why housing restrictions can backfire when they remove cheap or new rental supply.
 - [Why is there a supplement craze if they don't even work?](sources/why-is-there-a-supplement-craze-if-they-dont-even-work.md) — Planet Money episode on supplement manufacturing, DSHEA-era regulation, structure/function claims, Prevagen, GRAS self-certification, label uncertainty, third-party testing, liver-toxicity risk, and placebo-driven demand.
 - [There's no business like dough business](sources/theres-no-business-like-dough-business.md) — Planet Money episode on Wetzel's Pretzels, impulse-product location strategy, same-franchisee clustering, foot-traffic counting, and shared-kitchen subway kiosks.
 - [Riding with the repo man (update)](sources/riding-with-the-repo-man-update.md) — Planet Money update on subprime auto loans, repossession, car affordability stress, GPS-enabled recovery, and why auto debt is smaller than a mortgage crisis but still severe for households.
@@ -439,6 +440,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Amanda Cantrell](entities/AmandaCantrell.md) — Renter whose Murfreesboro housing search opens the episode's corporate-landlord affordability question.
+- [Stephen Billings](entities/StephenBillings.md) — Housing researcher explaining post-foreclosure corporate rental growth, small national purchase share, build-to-rent supply, and neighborhood effects.
+- [Lori Goodman](entities/LoriGoodman.md) — Housing-finance voice arguing that institutional buyers can repair worse-condition homes using capital, crews, and bulk purchasing.
+- [Adrienne Toddman](entities/AdrienneToddman.md) — National Rental Home Council voice warning that broad corporate-landlord restrictions could chill rental-home construction.
+- [National Rental Home Council](entities/NationalRentalHomeCouncil.md) — Rental-home industry organization represented in the episode's build-to-rent policy-risk discussion.
+- [Vera Hill](entities/VeraHill.md) — Euclid Hall resident whose shelter-to-supportive-housing story grounds the SRO half.
+- [Euclid Hall](entities/EuclidHall.md) — Upper West Side SRO-style supportive housing building visited in the episode.
+- [Westside Federation for Senior and Supportive Housing](entities/WestsideFederationForSeniorAndSupportiveHousing.md) — New York supportive-housing organization operating Euclid Hall and other properties.
+- [Rebecca Baird-Remba](entities/RebeccaBairdRemba.md) — Housing-history source explaining SRO rise, disappearance, and revival efforts.
+- [International Hotel](entities/InternationalHotel.md) — San Francisco SRO whose 1977 eviction anchors the episode's displacement and homelessness history.
+- [Paul Freitag](entities/PaulFreitag.md) — Supportive-housing voice backing more shared housing while stressing aging, medical, and disease-control limits.
 - [Sarah Gonzalez](entities/SarahGonzalez.md) — Planet Money host framing the supplement investigation through a proposed branded supplement.
 - [Jane Black](entities/JaneBlack.md) — Food-politics reporter connecting big wellness, supplement manufacturing, claim language, and regulatory history.
 - [Frank Cantone](entities/FrankCantone.md) — Supplement manufacturing CEO explaining custom formulas, stock products, acceptable claim phrasing, and recurring supplement economics.
@@ -2769,6 +2781,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Institutional Single-Family Rental](concepts/InstitutionalSingleFamilyRental.md) — Investor-backed ownership of rental houses, central to the episode's corporate-landlord scale debate.
+- [Corporate Landlord Tradeoffs](concepts/CorporateLandlordTradeoffs.md) — Mixed frame for corporate landlords raising some local concerns while adding rental supply, repair capacity, and build-to-rent housing.
+- [Build-To-Rent Housing](concepts/BuildToRentHousing.md) — New houses built specifically for rental, treated as a supply channel that broad corporate-ownership bans could chill.
+- [Housing Affordability Supply Mechanics](concepts/HousingAffordabilitySupplyMechanics.md) — Source frame that explains rent and price pressure through construction, rates, finance, and housing-form availability.
+- [Housing Restriction Backfire](concepts/HousingRestrictionBackfire.md) — Pattern where restrictions meant to improve housing affordability or quality reduce cheap or new supply.
+- [Real Estate Investment Trust](concepts/RealEstateInvestmentTrust.md) — Investment structure the episode uses to explain how rental housing became an investable cash-flow asset.
+- [Neighborhood Opportunity Access](concepts/NeighborhoodOpportunityAccess.md) — Rental-access frame connecting affordable entry into better-opportunity neighborhoods with local neighborhood externalities.
+- [Single-Room Occupancy Housing](concepts/SingleRoomOccupancyHousing.md) — Cheap urban rooming-house form whose disappearance is central to the episode's homelessness argument.
+- [SRO Regulatory Erasure](concepts/SRORegulatoryErasure.md) — Loss of SROs through safety rules, urban renewal, landlord conversion incentives, and exclusionary social pressure.
+- [SRO Loss And Homelessness](concepts/SROLossAndHomelessness.md) — Link between eliminating cheap rooming-house units and worsening homelessness.
+- [Shared Housing Revival](concepts/SharedHousingRevival.md) — Modern effort to re-legalize SRO-like and boarding-house options as part of the affordability toolkit.
+- [Supportive Housing Management](concepts/SupportiveHousingManagement.md) — Service and operator-capacity layer that makes small or shared rooms workable for vulnerable residents.
 - [Dietary Supplement Regulation](concepts/DietarySupplementRegulation.md) — Weak U.S. oversight system that lets supplements operate between food and drugs without drug-style proof of effectiveness.
 - [Dietary Supplement Health and Education Act](concepts/DietarySupplementHealthAndEducationAct.md) — 1994 U.S. law that anchors the episode's account of permissive supplement claims and limited FDA oversight.
 - [Supplement Structure Function Claims](concepts/SupplementStructureFunctionClaims.md) — "Supports" and "promotes" language that implies bodily benefit without making disease-treatment claims.

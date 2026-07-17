@@ -1199,6 +1199,10 @@
     "title": "Adora Cheung",
     "url": "/wiki/entities/adoracheung/"
   },
+  "AdrienneToddman": {
+    "title": "Adrienne Toddman",
+    "url": "/wiki/entities/adriennetoddman/"
+  },
   "AdrienneWeiss": {
     "title": "Adrienne Weiss",
     "url": "/wiki/entities/adrienneweiss/"
@@ -1542,6 +1546,10 @@
   "AltosComputer": {
     "title": "Altos Computer",
     "url": "/wiki/entities/altoscomputer/"
+  },
+  "AmandaCantrell": {
+    "title": "Amanda Cantrell",
+    "url": "/wiki/entities/amandacantrell/"
   },
   "Amazon": {
     "title": "Amazon",
@@ -2747,6 +2755,10 @@
     "title": "Build For Yourself Founder Fit",
     "url": "/wiki/concepts/buildforyourselffounderfit/"
   },
+  "BuildToRentHousing": {
+    "title": "Build-To-Rent Housing",
+    "url": "/wiki/concepts/buildtorenthousing/"
+  },
   "BuilderCenteredInstitutions": {
     "title": "Builder-Centered Institutions",
     "url": "/wiki/concepts/buildercenteredinstitutions/"
@@ -3918,6 +3930,10 @@
   "CorporateHospitalityPlatform": {
     "title": "Corporate Hospitality Platform",
     "url": "/wiki/concepts/corporatehospitalityplatform/"
+  },
+  "CorporateLandlordTradeoffs": {
+    "title": "Corporate Landlord Tradeoffs",
+    "url": "/wiki/concepts/corporatelandlordtradeoffs/"
   },
   "CorporateOwnedStartupConstraints": {
     "title": "Corporate-Owned Startup Constraints",
@@ -5406,6 +5422,10 @@
   "Eshu": {
     "title": "Eshu",
     "url": "/wiki/entities/eshu/"
+  },
+  "EuclidHall": {
+    "title": "Euclid Hall",
+    "url": "/wiki/entities/euclidhall/"
   },
   "EuropeanAIIndustrialConstraints": {
     "title": "European AI Industrial Constraints",
@@ -7471,9 +7491,17 @@
     "title": "后舍男生 / Houshe Nansheng",
     "url": "/wiki/entities/houshenansheng/"
   },
+  "HousingAffordabilitySupplyMechanics": {
+    "title": "Housing Affordability Supply Mechanics",
+    "url": "/wiki/concepts/housingaffordabilitysupplymechanics/"
+  },
   "HousingExperienceInvestmentSplit": {
     "title": "Housing Experience Investment Split",
     "url": "/wiki/concepts/housingexperienceinvestmentsplit/"
+  },
+  "HousingRestrictionBackfire": {
+    "title": "Housing Restriction Backfire",
+    "url": "/wiki/concepts/housingrestrictionbackfire/"
   },
   "Houyhnhnms": {
     "title": "慧骃 / Houyhnhnms",
@@ -7791,6 +7819,10 @@
     "title": "Institutional Overcompliance",
     "url": "/wiki/concepts/institutionalovercompliance/"
   },
+  "InstitutionalSingleFamilyRental": {
+    "title": "Institutional Single-Family Rental",
+    "url": "/wiki/concepts/institutionalsinglefamilyrental/"
+  },
   "InsuranceClaimsAssistancePlatforms": {
     "title": "Insurance Claims Assistance Platforms",
     "url": "/wiki/concepts/insuranceclaimsassistanceplatforms/"
@@ -7858,6 +7890,10 @@
   "InternalTransferStrategy": {
     "title": "Internal Transfer Strategy",
     "url": "/wiki/concepts/internaltransferstrategy/"
+  },
+  "InternationalHotel": {
+    "title": "International Hotel",
+    "url": "/wiki/entities/internationalhotel/"
   },
   "InternetHealthcare": {
     "title": "Internet Healthcare",
@@ -9475,6 +9511,10 @@
     "title": "《光明王》 / Lord of Light",
     "url": "/wiki/entities/lordoflight/"
   },
+  "LoriGoodman": {
+    "title": "Lori Goodman",
+    "url": "/wiki/entities/lorigoodman/"
+  },
   "LotteryGamblingPlatformFraud": {
     "title": "Lottery Gambling Platform Fraud",
     "url": "/wiki/concepts/lotterygamblingplatformfraud/"
@@ -10759,6 +10799,10 @@
     "title": "National Rally",
     "url": "/wiki/entities/nationalrally/"
   },
+  "NationalRentalHomeCouncil": {
+    "title": "National Rental Home Council",
+    "url": "/wiki/entities/nationalrentalhomecouncil/"
+  },
   "NationalSecurityAgency": {
     "title": "National Security Agency",
     "url": "/wiki/entities/nationalsecurityagency/"
@@ -10794,6 +10838,10 @@
   "NearMissDesign": {
     "title": "Near-Miss Design",
     "url": "/wiki/concepts/nearmissdesign/"
+  },
+  "NeighborhoodOpportunityAccess": {
+    "title": "Neighborhood Opportunity Access",
+    "url": "/wiki/concepts/neighborhoodopportunityaccess/"
   },
   "NeihanDuanzi": {
     "title": "Neihan Duanzi",
@@ -11522,6 +11570,10 @@
   "PaulBuchheit": {
     "title": "Paul Buchheit",
     "url": "/wiki/entities/paulbuchheit/"
+  },
+  "PaulFreitag": {
+    "title": "Paul Freitag",
+    "url": "/wiki/entities/paulfreitag/"
   },
   "PaulGraham": {
     "title": "Paul Graham",
@@ -12571,6 +12623,10 @@
     "title": "Reading As Life Experience",
     "url": "/wiki/concepts/readingaslifeexperience/"
   },
+  "RealEstateInvestmentTrust": {
+    "title": "Real Estate Investment Trust",
+    "url": "/wiki/concepts/realestateinvestmenttrust/"
+  },
   "RealRobotDataStrategy": {
     "title": "Real Robot Data Strategy",
     "url": "/wiki/concepts/realrobotdatastrategy/"
@@ -12582,6 +12638,10 @@
   "RealityLabs": {
     "title": "Reality Labs",
     "url": "/wiki/entities/realitylabs/"
+  },
+  "RebeccaBairdRemba": {
+    "title": "Rebecca Baird-Remba",
+    "url": "/wiki/entities/rebeccabairdremba/"
   },
   "RebeccaJackson": {
     "title": "Rebecca Jackson",
@@ -13163,6 +13223,14 @@
     "title": "S&P 500",
     "url": "/wiki/entities/sp500/"
   },
+  "SROLossAndHomelessness": {
+    "title": "SRO Loss And Homelessness",
+    "url": "/wiki/concepts/srolossandhomelessness/"
+  },
+  "SRORegulatoryErasure": {
+    "title": "SRO Regulatory Erasure",
+    "url": "/wiki/concepts/sroregulatoryerasure/"
+  },
   "STARRRestaurants": {
     "title": "STARR Restaurants",
     "url": "/wiki/entities/starrrestaurants/"
@@ -13635,6 +13703,10 @@
     "title": "Share AI",
     "url": "/wiki/entities/shareai/"
   },
+  "SharedHousingRevival": {
+    "title": "Shared Housing Revival",
+    "url": "/wiki/concepts/sharedhousingrevival/"
+  },
   "SharedKitchenSatelliteRetail": {
     "title": "Shared-Kitchen Satellite Retail",
     "url": "/wiki/concepts/sharedkitchensatelliteretail/"
@@ -13854,6 +13926,10 @@
   "SingaporeAirlines": {
     "title": "Singapore Airlines",
     "url": "/wiki/entities/singaporeairlines/"
+  },
+  "SingleRoomOccupancyHousing": {
+    "title": "Single-Room Occupancy Housing",
+    "url": "/wiki/concepts/singleroomoccupancyhousing/"
   },
   "Sinocism": {
     "title": "Sinocism",
@@ -14327,6 +14403,10 @@
     "title": "Stephanie Waldrop",
     "url": "/wiki/entities/stephaniewaldrop/"
   },
+  "StephenBillings": {
+    "title": "Stephen Billings",
+    "url": "/wiki/entities/stephenbillings/"
+  },
   "StephenStarr": {
     "title": "Stephen Starr",
     "url": "/wiki/entities/stephenstarr/"
@@ -14574,6 +14654,10 @@
   "SupplyChainSovereignty": {
     "title": "Supply Chain Sovereignty",
     "url": "/wiki/concepts/supplychainsovereignty/"
+  },
+  "SupportiveHousingManagement": {
+    "title": "Supportive Housing Management",
+    "url": "/wiki/concepts/supportivehousingmanagement/"
   },
   "SupremeCourt": {
     "title": "Supreme Court",
@@ -15691,6 +15775,10 @@
     "title": "Venture Syndicate Orchestration",
     "url": "/wiki/concepts/venturesyndicateorchestration/"
   },
+  "VeraHill": {
+    "title": "Vera Hill",
+    "url": "/wiki/entities/verahill/"
+  },
   "VernacularIndustrialism": {
     "title": "Vernacular Industrialism",
     "url": "/wiki/concepts/vernacularindustrialism/"
@@ -16074,6 +16162,10 @@
   "WesternDigital": {
     "title": "Western Digital",
     "url": "/wiki/entities/westerndigital/"
+  },
+  "WestsideFederationForSeniorAndSupportiveHousing": {
+    "title": "Westside Federation for Senior and Supportive Housing",
+    "url": "/wiki/entities/westsidefederationforseniorandsupportivehousing/"
   },
   "WetStateHumanAgency": {
     "title": "Wet-State Human Agency",
@@ -18130,6 +18222,10 @@
   "tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655": {
     "title": "【脱口秀的小佳】蜉蝣直上：可能会飞，迎着天光",
     "url": "/wiki/sources/tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655/"
+  },
+  "two-indicators-for-lowering-the-rent": {
+    "title": "Two indicators for lowering the rent",
+    "url": "/wiki/sources/two-indicators-for-lowering-the-rent/"
   },
   "ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939": {
     "title": "UGG: Brian Smith. How an epiphany, surfers, and $500 launched an iconic sheepskin footwear company.",
