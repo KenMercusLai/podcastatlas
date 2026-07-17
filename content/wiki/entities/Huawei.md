@@ -2,8 +2,8 @@
 title: "Huawei"
 type: entity
 tags: [company, china, semiconductors, telecom, organization]
-sources: [cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun]
-last_updated: 2026-07-12
+sources: [cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]
+last_updated: 2026-07-17
 ---
 
 # Huawei
@@ -14,6 +14,8 @@ The source's main interpretation is that [[TauLaw]] fits Huawei because it can f
 
 [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] adds Huawei to the domestic AI memory branch. The source says Huawei's newest 950 system uses self-developed HBM in the source's account, making Huawei a demand and architecture signal for Chinese [[HighBandwidthMemory]], [[MemoryWall]], and [[MemoryCapacityLockIn]] strategies.
 
+[[momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]] adds Huawei as [[Momenta]]'s main third-party advanced-driving comparison in [[CaoXudong]]'s account. Cao says Momenta and Huawei together dominate third-party city NOA share in China, and treats both as beneficiaries of scale, R&D intensity, and the [[AutonomousDrivingDataFlywheel]] dynamic.
+
 ## Source Position
 - Huawei is described as unusually influential in China: many companies want to learn from it, but the hosts argue that its methods are difficult to copy without the surrounding organization.
 - [[TauLaw]] is treated as a Huawei-specific strategic metric more than an industry-wide law unless it gains repeated measurable proof.
@@ -21,6 +23,7 @@ The source's main interpretation is that [[TauLaw]] fits Huawei because it can f
 - The hosts still warn that firms with better process access can also use stacking, architecture, and system optimization, so Huawei's alternate route must be proven in performance, cost, and energy efficiency.
 - Huawei's customer-facing culture is presented as systematic: campus visits, exhibition routes, solution demos, and industry legions turn engineering capability into buyer confidence.
 - The What's Next source treats Huawei's memory route as part of domestic AI infrastructure resilience rather than only handset or telecom self-reliance.
+- The Momenta source treats Huawei as an autonomous-driving competitor and benchmark, not as a semiconductor or telecom case.
 
 ## Connections
 - [[TauLaw]] — Huawei's named semiconductor performance and organization target in the episode.
@@ -31,3 +34,4 @@ The source's main interpretation is that [[TauLaw]] fits Huawei because it can f
 - [[ConstraintDrivenEngineeringStrategy]] — strategic response to blocked or expensive dominant technology paths.
 - [[ChinaHandsetSupplyChain]] and [[ChineseDomesticHandsetWaves]] — prior mobile-hardware context that Huawei later extends beyond consumer devices into chips and systems.
 - [[HighBandwidthMemory]], [[MemoryWall]], [[ChangXinMemory]], and [[AIStorageSupercycle]] — domestic AI memory branch added by What's Next.
+- [[Momenta]], [[CaoXudong]], and [[AutonomousDrivingDataFlywheel]] — third-party city NOA competition frame added by LateTalk.

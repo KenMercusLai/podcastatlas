@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Momenta IPO后再访曹旭东：就是想做没有尽头的AI](sources/momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1.md) — LateTalk interview with Cao Xudong on Momenta's IPO-era autonomous-driving strategy, city NOA competition, data flywheel, physical AI, robot expansion, and low-cost short-cycle organization method.
 - [Building things and breaking things in China (Summer School World Tour)](sources/building-things-and-breaking-things-in-china-summer-school-world-tour.md) — Planet Money Summer School episode with Dan Wang on China as an engineering state, real-estate debt, infrastructure malinvestment, youth unemployment, low redistribution, and the U.S. lesson to build with regulation.
 - [如何「兜住」一颗火箭？｜ S10E21](sources/ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0.md) — What's Next episode with Jerry/太空僧 on Long March 10B sea-net recovery, recovery ship control, reusable-rocket route choice, and the gap between first recovery and economical reuse.
 - [173.当缅怀高善文博士时，我们究竟在怀念什么？](sources/173-dang-mianhuai-gaoshanwen-boshi-shi-women-jiujing-zai-huainian-shenme-lruwsn-me-sheuddobz13rmhwhfe.md) — 起朱楼宴宾客 episode on 高善文, asset revaluation theory, balance-sheet macro analysis, sell-side macro research, falling capital returns, and the public-expression environment for evidence-backed economic speech.
@@ -1916,7 +1917,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yu Yi](entities/YuYi.md) — AI-first practitioner in S10E18 framing agents as partners while keeping red lines around money, deletion, protocol changes, and reputation.
 - [Amazon Web Services](entities/AmazonWebServices.md) — AWS cloud and startup-support context for the From Idea to Frontier OPC accelerator discussed in S10E18.
 - [From Idea to Frontier](entities/FromIdeaToFrontier.md) — AWS accelerator program named in S10E18 as support infrastructure for Chinese-language one-person-company founders.
-- [LateTalk](entities/LateTalk.md) — Podcast/show context spanning embodied AI, Q2 AI reviews, and Yangcong Xueyuan's AI-era education/self-directed-learning interview.
+- [LateTalk](entities/LateTalk.md) — Podcast/show context spanning embodied AI, Q2 AI reviews, AI-era education, and Momenta's IPO-era autonomous-driving founder interview.
 - [Henry Yin](entities/HenryYin.md) — MOE Capital founding partner and LateTalk Q2 2026 AI-review guest connecting coding, RSI, enterprise models, open models, and AI commercialization.
 - [MOE Capital](entities/MOECapital.md) — Investment-firm context for Henry Yin's Q2 2026 AI review on model-company competition and RSI.
 - [GPT-5.6](entities/GPT56.md) — OpenAI frontier model tied to Q2 model competition and later Marketplace Tech release-governance concerns.
@@ -2239,7 +2240,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [光轮智能](entities/GuanglunIntelligence.md) — Robotics simulation and data-engine company building environments, evaluation, and recipe loops for embodied AI.
 - [Cruise](entities/Cruise.md) — Autonomous-driving company used as both Kyle Vogt's hard-tech startup case and Xie Chen's later simulation/data infrastructure reference.
 - [Scale AI](entities/ScaleAI.md) — Industrial AI data company used as the episode's Data Factory comparator before data-engine learning loops.
-- [Unitree Robotics](entities/UnitreeRobotics.md) — Robot-body company used as an example of clear hardware-layer focus in the embodied-AI ecosystem.
+- [Unitree Robotics](entities/UnitreeRobotics.md) — Robot-body company used as an example of hardware-layer focus and as Momenta's body-first robotics contrast.
 - [Zhiyuan Robotics](entities/ZhiyuanRobotics.md) — Robot company cited for commercialization and mass-production capability in China's embodied-AI landscape.
 - [张月光](entities/ZhangYueguang.md) — Product founder whose path from ByteDance and Alibaba through Miaoya now frames AI-native product design, AI friends, AI otome games, and Docky.
 - [妙鸭](entities/Miaoya.md) — AI portrait product used by Zhang Yueguang to distinguish strong AI-powered internet products from fully AI-native products.
@@ -2333,12 +2334,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gao Jiyang](entities/GaoJiyang.md) — Xinghaitu founder whose path through SenseTime, Waymo, and Momenta shapes a pragmatic embodied-AI strategy.
 - [Xinghaitu](entities/Xinghaitu.md) — Embodied-AI robotics startup building whole machines, models, post-training tools, and real-world data loops.
 - [Waymo](entities/Waymo.md) — Autonomous-driving company used as Gao Jiyang's engineering training ground and as Win's driverless Robotaxi comparison case.
-- [Momenta](entities/Momenta.md) — Autonomous-driving company whose mass-production and customer-value culture shaped Gao Jiyang's operator training.
+- [Momenta](entities/Momenta.md) — Autonomous-driving and physical-AI company built around mass-production delivery, data flywheels, city NOA competition, and later robot expansion.
 - [Xu Huazhe](entities/XuHuazhe.md) — Scientist whose planned departure from Xinghaitu frames the algorithm-versus-value-chain discussion.
 - [Zhao Hang](entities/ZhaoHang.md) — Gao Jiyang collaborator at Waymo and early Xinghaitu participant.
 - [Yang Zeyi](entities/YangZeyi.md) — Robotics hardware-system partner who helped Xinghaitu fill whole-machine capability gaps.
-- [Cao Xudong](entities/CaoXudong.md) — Momenta leader described as technically strong, decisive, AI-oriented, and long-term.
-- [SenseTime](entities/SenseTime.md) — AI company where Gao Jiyang first systematically encountered deep learning and data-driven neural networks.
+- [Cao Xudong](entities/CaoXudong.md) — Momenta founder whose method combines data-driven autonomous driving, physical-AI ambition, customer value, and short-cycle validation.
+- [SenseTime](entities/SenseTime.md) — AI company where Gao Jiyang and Cao Xudong encountered deep-learning commercialization before later autonomous-driving and robotics work.
+- [Microsoft Research Asia](entities/MicrosoftResearchAsia.md) — Research lab where Cao Xudong worked in Sun Jian's group and absorbed experiment-centered computer-vision discipline.
+- [Sun Jian](entities/SunJian.md) — Computer-vision researcher whose MSRA group influenced Cao Xudong's experimental and empirical working style.
+- [Didi](entities/Didi.md) — Mobility platform named as a potential Robotaxi ecosystem partner for Momenta's ASG supplier route in China.
+- [AutoNavi / Gaode](entities/AutoNavi.md) — Map and mobility platform named as a potential Robotaxi ecosystem partner for Momenta in China.
+- [T3 Chuxing](entities/T3Chuxing.md) — Mobility platform named beside Didi and AutoNavi in Momenta's partner-led China Robotaxi route.
 - [Project Glassfin](entities/ProjectGlassfin.md) — Anthropic security effort discussed as an AI-assisted vulnerability-discovery case with coordinated remediation implications.
 - [Dario Amodei](entities/DarioAmodei.md) — Anthropic leader used by the episode as the main case for AI safety rhetoric feeding model access restrictions.
 - [Zhipu AI](entities/ZhipuAI.md) — Chinese AI company framed through GLM 5.2 as an open-model response to closed-model access restrictions.
@@ -3586,6 +3592,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Power User Discovery](concepts/PowerUserDiscovery.md) — Product-research pattern where a team studies its heaviest users to find the real job and adjacent opportunity hidden by aggregate metrics.
 - [Large Company Risk Incentives](concepts/LargeCompanyRiskIncentives.md) — Organizational incentive pattern where successful companies under-launch risky products because personal downside is clearer than uncertain upside.
 - [Fast Feedback Loops](concepts/FastFeedbackLoops.md) — Product-building pattern where working versions reach real users quickly and direct user behavior drives the next change.
+- [Low-Cost Short-Cycle Validation](concepts/LowCostShortCycleValidation.md) — Momenta operating principle for testing hard-tech routes through cheap, short feedback cycles tied to customer value and system architecture.
 - [Product Launch Under Constraint](concepts/ProductLaunchUnderConstraint.md) — Launch pattern where timing, capacity, infrastructure, or narrative constraints shape product mechanics and rollout.
 - [Outlier-Driven Angel Investing](concepts/OutlierDrivenAngelInvesting.md) — Startup-investing pattern where rare breakouts dominate returns and investors may actively help sourcing, validation, financing, and distribution.
 - [Customer Discovery By Doing Work](concepts/CustomerDiscoveryByDoingWork.md) — Startup-learning pattern where founders help customers with real work to expose operational pain before pitching a product.
@@ -4249,7 +4256,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Position Sizing](concepts/PositionSizing.md) — Capital-allocation decision that turns an investment edge into portfolio exposure while controlling ruin risk.
 - [Investment Edge](concepts/InvestmentEdge.md) — Positive-expectation advantage built from probability, payoff, rules, information, patience, execution, or structure.
 - [Compounding Growth Formula](concepts/CompoundingGrowthFormula.md) — E153 frame that long-term returns depend on edge, position size, opportunity density, and time.
-- [Physical World Data Flywheel](concepts/PhysicalWorldDataFlywheel.md) — Robotics loop where deployed machines collect real operation data, improve models, and return as better products.
+- [Autonomous Driving Data Flywheel](concepts/AutonomousDrivingDataFlywheel.md) — Momenta strategy where mass-produced assisted driving generates real-world data, revenue, safety pressure, and model improvement for higher autonomy and robot applications.
+- [Physical World Data Flywheel](concepts/PhysicalWorldDataFlywheel.md) — Embodied-AI loop where deployed machines collect real operation data, improve models, and return as better products.
 - [Real Robot Data Strategy](concepts/RealRobotDataStrategy.md) — Empirical approach to combining real robot data, simulation, teleoperation, video, and cost accounting for embodied models.
 - [Embodied AI Value Chain](concepts/EmbodiedAIValueChain.md) — Whole robotics system spanning machines, supply chain, data, AI infrastructure, algorithms, models, distribution, and customer value.
 - [Wheel-Based Dual-Arm Robots](concepts/WheelBasedDualArmRobots.md) — Xinghaitu's form-factor choice focused on manipulation intelligence without simultaneous bipedal-locomotion complexity.
@@ -4404,7 +4412,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Materials Discovery](concepts/AIMaterialsDiscovery.md) — AI-for-science workflow for generating, predicting, validating, scaling, and commercializing new materials.
 - [AI Native SaaS Threat](concepts/AINativeSaaSThreat.md) — Risk that AI-native entrants challenge incumbent SaaS products built before AI became core to workflows.
 - [AI NPC Social Infrastructure](concepts/AINPCSocialInfrastructure.md) — Use of AI NPCs as hosts, social participants, and atmosphere regulators inside multiplayer scenes.
-- [AI Organization Design](concepts/AIOrganizationDesign.md) — Organizational problem of combining high talent density, agent leverage, coordination, research vitality, and result accountability in AI companies.
+- [AI Organization Design](concepts/AIOrganizationDesign.md) — Organizational problem of combining high talent density, agent leverage, coordination, research vitality, customer value, and result accountability in AI companies.
 - [AI Plus Terminals](concepts/AIPlusTerminals.md) — Commercialization thesis linking models, software, hardware carriers, users, physical-world data, and mainstream phone entry points.
 - [AI Product Fragmentation](concepts/AIProductFragmentation.md) — Gap between strong model capability and a coherent product entry point across assistant, browser, search, workspace, and platform surfaces.
 - [AI Programming Engine Shift](concepts/AIProgrammingEngineShift.md) — View that AI changes programming like an engine changes manual work, shifting value toward framing, testing, and judgment.

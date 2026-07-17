@@ -2103,6 +2103,10 @@
     "title": "Auto-Formalization",
     "url": "/wiki/concepts/autoformalization/"
   },
+  "AutoNavi": {
+    "title": "AutoNavi / Gaode",
+    "url": "/wiki/entities/autonavi/"
+  },
   "AutoRepossession": {
     "title": "Auto Repossession",
     "url": "/wiki/concepts/autorepossession/"
@@ -2126,6 +2130,10 @@
   "AutomaticAuctions": {
     "title": "Automatic / Automatic Auctions",
     "url": "/wiki/entities/automaticauctions/"
+  },
+  "AutonomousDrivingDataFlywheel": {
+    "title": "Autonomous Driving Data Flywheel",
+    "url": "/wiki/concepts/autonomousdrivingdataflywheel/"
   },
   "AutonomousVehicleSafetyBenchmark": {
     "title": "Autonomous Vehicle Safety Benchmark",
@@ -4626,6 +4634,10 @@
   "DiasporaCapitalManufacturingClusters": {
     "title": "Diaspora Capital Manufacturing Clusters",
     "url": "/wiki/concepts/diasporacapitalmanufacturingclusters/"
+  },
+  "Didi": {
+    "title": "Didi",
+    "url": "/wiki/entities/didi/"
   },
   "DietaryConstraintProductInsight": {
     "title": "Dietary Constraint Product Insight",
@@ -9647,6 +9659,10 @@
     "title": "Low-Cost Experimentation",
     "url": "/wiki/concepts/lowcostexperimentation/"
   },
+  "LowCostShortCycleValidation": {
+    "title": "Low-Cost Short-Cycle Validation",
+    "url": "/wiki/concepts/lowcostshortcyclevalidation/"
+  },
   "LowEquityCommercialRights": {
     "title": "Low-Equity Commercial Rights",
     "url": "/wiki/concepts/lowequitycommercialrights/"
@@ -10418,6 +10434,10 @@
   "Microsoft": {
     "title": "Microsoft",
     "url": "/wiki/entities/microsoft/"
+  },
+  "MicrosoftResearchAsia": {
+    "title": "Microsoft Research Asia",
+    "url": "/wiki/entities/microsoftresearchasia/"
   },
   "MidJourney": {
     "title": "MidJourney",
@@ -14735,6 +14755,10 @@
     "title": "Sun Chuanfang / 孙传芳",
     "url": "/wiki/entities/sunchuanfang/"
   },
+  "SunJian": {
+    "title": "Sun Jian",
+    "url": "/wiki/entities/sunjian/"
+  },
   "SunWukong": {
     "title": "孙悟空",
     "url": "/wiki/entities/sunwukong/"
@@ -14850,6 +14874,10 @@
   "SystemicDegenerativeVolatility": {
     "title": "Systemic Degenerative Volatility",
     "url": "/wiki/concepts/systemicdegenerativevolatility/"
+  },
+  "T3Chuxing": {
+    "title": "T3 Chuxing",
+    "url": "/wiki/entities/t3chuxing/"
   },
   "TDK": {
     "title": "TDK",
@@ -17794,6 +17822,10 @@
   "missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3": {
     "title": "Missing Peace: Will Israel Imperil Iran Deal?",
     "url": "/wiki/sources/missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3/"
+  },
+  "momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1": {
+    "title": "Momenta IPO后再访曹旭东：就是想做没有尽头的AI",
+    "url": "/wiki/sources/momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1/"
   },
   "musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz": {
     "title": "Musical.ly如何成为 TikTok？PM眼中的字节产品文化和全球化之路｜字节跳动 第5集",

@@ -2,8 +2,8 @@
 title: "Embodied AI Value Chain"
 type: concept
 tags: [robotics, commercialization, strategy]
-sources: [e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1]
-last_updated: 2026-07-16
+sources: [e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]
+last_updated: 2026-07-17
 ---
 
 # Embodied AI Value Chain
@@ -20,6 +20,8 @@ Embodied AI value chain is the source's frame for why robot companies cannot be 
 
 [[e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e]] adds [[SuduTechnology]]'s platform-route version. [[HanZheng]] argues that a robotics company may need to own hardware, low-level manipulation models, [[Sim2Real]], developer APIs, and tools, while letting outside developers assemble many vertical long-horizon applications.
 
+[[momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]] adds [[Momenta]]'s autonomous-driving-to-robotics version. [[CaoXudong]] says Momenta will start from target scenes and the robot brain, design the body when the product requires it, and avoid duplicating value-chain layers that strong partners already cover. The source also shows a platform-partner split in Robotaxi: Momenta supplies ASG capability while players such as [[Didi]], [[AutoNavi]], and [[T3Chuxing]] may own more of the user and fleet layer.
+
 ## Key Claims
 - Algorithm innovation is important, but it becomes commercially meaningful only when connected to the rest of the robot product and deployment system.
 - Robotics companies face longer chains and cycles than many model or AI-application companies because they also handle hardware, supply chain, offline customers, and maintenance-like realities.
@@ -29,6 +31,7 @@ Embodied AI value chain is the source's frame for why robot companies cannot be 
 - An automotive company may try to internalize more of the value chain when vehicle safety, humanoid control, data, and manufacturing are treated as one strategic system.
 - Dexterous hands can become their own value-chain layer because hardware standards, degrees of freedom, sensing, retargeting, and supply reliability shape both data and model progress.
 - Full-stack manipulation platforms can occupy a different value-chain position from vertical scene integrators: they provide stable short skills, hardware, APIs, and development tools rather than personally building every deployment scenario.
+- Autonomous-driving companies can enter the embodied-AI value chain through model/data advantages first, then selectively add body design, manufacturing partnerships, or platform cooperation where needed.
 
 ## Connections
 - [[Xinghaitu]], [[GaoJiyang]], and [[XuHuazhe]] — company, founder, and scientist-departure context.
@@ -40,3 +43,4 @@ Embodied AI value chain is the source's frame for why robot companies cannot be 
 - [[WorldModelVLAFusion]], [[DexterousManipulation]], [[RobotLogisticsSorting]], [[Honor]], [[FigureAI]], [[XingdongEra]], [[FiveGRobotics]], [[PhysicalIntelligence]], and [[Generalist]] — Q2 2026 cross-layer competition added by the LateTalk source.
 - [[PokeRobotics]], [[PhysicalAGI]], [[AINativeRobotics]], [[UnifiedRobotModels]], and [[RobotActiveUseMetrics]] — general-robot value-chain pressure added by episode 166.
 - [[SuduTechnology]], [[LayeredRobotArchitecture]], [[Sim2Real]], and [[OpenWorldRobotManipulation]] — platform and low-level-skill route added by E244.
+- [[Momenta]], [[CaoXudong]], [[AutonomousDrivingDataFlywheel]], [[Didi]], [[AutoNavi]], and [[T3Chuxing]] — autonomous-driving-to-robotics and partner-led Robotaxi route added by LateTalk.

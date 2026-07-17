@@ -2,8 +2,8 @@
 title: "Physical AI"
 type: concept
 tags: [ai, robotics, automotive, physical-ai]
-sources: [jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, tsr-s2-trevorblackwell-v2]
-last_updated: 2026-07-10
+sources: [momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, tsr-s2-trevorblackwell-v2]
+last_updated: 2026-07-17
 ---
 
 # Physical AI
@@ -18,12 +18,15 @@ The source contrasts physical AI with digital AI. Language and software tasks ca
 
 [[166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1]] adds [[PhysicalAGI]] as the higher-bar version of the same field. [[XuHuazhe]] agrees that robots, hardware, and physical data matter, but argues that the decisive prize is a general robot brain that can transfer across household tasks rather than a narrow physical-AI product or a humanoid form factor by itself.
 
+[[momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]] adds [[Momenta]]'s autonomous-driving-first version. [[CaoXudong]] says Momenta is fundamentally an AI company, and more specifically a physical-AI company when the field is narrowed. The source treats cars as the first physical-AI curve: mass-production driving supplies real-world data, safety pressure, customer delivery, and a model stack that may later extend into Robo One, Robotruck, Robotaxi, and home robots.
+
 [[tsr-s2-trevorblackwell-v2]] adds a historical control-and-hardware version through [[TrevorBlackwell]] and [[Anybots]]. It shows that physical AI problems existed long before the current model stack: balancing, compliant actuation, falls, terrain, server-like reliability, and commercial use-case discovery were already linked in Blackwell's walking-robot work.
 
 ## Key Claims
 - Physical AI depends on both high-ceiling model capability and low-bound reliability; a spectacular demo is not enough if rare scenes, safety, and cost fail.
 - Data and compute matter differently than in ordinary AI-tool adoption because training and evaluating physical behavior can have large direct data, fleet, and infrastructure costs.
 - Cars can be early physical-AI terminals because they combine sensors, controls, cabin interaction, autonomous driving, manufacturing, and repeated user contact.
+- Autonomous-driving companies may use cars as the first data-rich physical-AI loop before expanding into adjacent robot businesses.
 - Humanoid robots increase the ambition and difficulty because motion, manipulation, social acceptance, maintenance, and commercial proof have to advance together.
 - [[StitchedAIArchitecture]] is the failure mode Physical AI tries to escape: rule systems and partial AI can improve old products without creating general physical intelligence.
 - Edge-side consumer devices extend the frame downward: headphones, smart-home bases, security robots, and other small terminals may use much smaller models while still performing physical perception and control.
@@ -42,4 +45,5 @@ The source contrasts physical AI with digital AI. Language and software tasks ca
 - [[AnkerInnovations]], [[InMemoryComputingForEdgeAI]], [[OnDeviceModelHierarchy]], and [[TrueSmartHome]] — consumer-electronics route added by episode 144.
 - [[HumanoidRobotMarathon]], [[RobotLogisticsSorting]], [[DexterousManipulation]], [[Cosmos3]], and [[WorldModelVLAFusion]] — Q2 2026 physical-AI industry map added by the LateTalk source.
 - [[PhysicalAGI]], [[PokeRobotics]], [[AINativeRobotics]], and [[UnifiedRobotModels]] — Xu Huazhe's general-robot route added by the LateTalk founder interview.
+- [[Momenta]], [[CaoXudong]], [[AutonomousDrivingDataFlywheel]], and [[LowCostShortCycleValidation]] — autonomous-driving-first physical-AI route added by the Momenta interview.
 - [[TrevorBlackwell]], [[Anybots]], and [[DynamicBalancingRobotics]] — historical physical-control route added by The Social Radars source.
