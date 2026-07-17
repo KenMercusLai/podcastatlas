@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [109.闲聊左传之春秋运动会！](sources/109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773.md) — 蜜獾吃书 episode turning 《左传》 and Spring-Autumn anecdotes into a playful sports-meet frame across ritual warfare, aristocratic battle rules, and figures such as 南宫长万, 蔡姬, 魏犨, 公子彭生, 高固, 养由基, 叔梁纥, and 孔子.
 - [OpenAI's GPT-5.6 release raises questions about White House control over new models](sources/tech-20260710-tech-pod-128-tech-20260710-tech-pod-128.md) — Marketplace Tech Bytes episode with Maria Curi on GPT-5.6 release review, White House voluntary-review language, China model-access restrictions, and Meta's Muse Image likeness/privacy concerns.
 - [How U.S. political campaigns have used generative AI](sources/tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128.md) — Marketplace Tech episode with Tim Harper of the Center for Democracy and Technology on 2024 campaign AI use, speed and scale, fragmented state political-ad disclosure rules, and future voting-misinformation risks.
 - [Trying to stay off your phone? There's an app for that](sources/tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128.md) — Marketplace Tech episode on the digital detox market, Clearspace, screen-time friction, physical app-blocking tools, and the paradox of paying for products that help people use phones less.
@@ -432,6 +433,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《左传》 / Zuo Zhuan](entities/ZuoZhuan.md) — Classical narrative-history text used by episode 109 to make Spring-Autumn war, ritual, insult, courage, and political improvisation visible through stories.
+- [春秋时期 / Spring and Autumn Period](entities/SpringAndAutumnPeriod.md) — Historical setting for episode 109's rule-bound, aristocratic, and often absurd war-and-diplomacy anecdotes.
+- [南宫长万](entities/NangongChangwan.md) — Song-state strongman nominated by episode 109 for long-distance and weighted running through his regicide and flight story.
+- [蔡姬](entities/CaiJi.md) — Cai noblewoman whose boat-rocking and remarriage story becomes episode 109's water-sport case and a diplomatic pretext example.
+- [魏犨 / Wei Wuzi](entities/WeiChou.md) — Jin warrior nominated for jumping events after proving combat fitness through repeated jumps despite injury.
+- [公子彭生](entities/GongziPengsheng.md) — Qi figure used by episode 109 as a combat-sport case and as a scapegoat in Lu Huan Gong's death.
+- [高固](entities/GaoGu.md) — Qi warrior whose rock-throwing and "余勇可贾" story becomes episode 109's throwing-event case.
+- [养由基](entities/YangYouji.md) — Chu archer linked by episode 109 to "百发百中," "百步穿杨," and the one-arrow revenge story.
+- [叔梁纥](entities/ShuliangHe.md) — Lu strongman and Confucius's father, used by episode 109 for the weightlifting and city-gate strength case.
+- [孔子 / Confucius](entities/Confucius.md) — Philosopher recast source-scopingly by episode 109 through strength, charioteering, and Six Arts physical training.
+- [齐桓公](entities/QiHuanGong.md) — Qi ruler in episode 109's Cai Ji, Cai campaign, Chu diplomacy, and "风马牛不相及" discussion.
+- [晋文公](entities/JinWenGong.md) — Jin ruler used by episode 109 for rule-conscious warfare and the Wei Chou punishment-and-survival story.
+- [宋襄公](entities/SongXiangGong.md) — Song ruler used by episode 109 as the shorthand example for rule-conscious Spring-Autumn warfare.
 - [White House](entities/WhiteHouse.md) — U.S. executive-office context for the GPT-5.6 review, framed by the episode as voluntary but practically approval-like.
 - [Center for AI Standards and Innovation](entities/CenterForAIStandardsAndInnovation.md) — Government testing and standards body tied to frontier-model release review in the GPT-5.6 episode.
 - [Howard Lutnick](entities/HowardLutnick.md) — Commerce secretary named in the episode's opaque frontier-model review negotiation layer.
@@ -2711,6 +2725,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Sports As Historical Reading Frame](concepts/SportsAsHistoricalReadingFrame.md) — Playful method from episode 109 that maps Spring-Autumn anecdotes onto athletic events to make old stories memorable without treating the analogy as literal historiography.
+- [Spring-Autumn Warfare Ritual](concepts/SpringAutumnWarfareRitual.md) — Episode 109 frame for chariot-centered, aristocratic, rule-conscious warfare where violence, display, humiliation, and fair-play expectations coexist.
 - [AI Public Likeness Generation](concepts/AIPublicLikenessGeneration.md) — Risk pattern where public usernames or profiles can be used to generate a person's likeness unless consent and opt-out defaults are handled explicitly.
 - [AI Political Campaign Operations](concepts/AIPoliticalCampaignOperations.md) — Use of AI for campaign writing, targeting, outreach, data analysis, persuasion, and strategy work at speed and scale.
 - [AI Political Ad Disclosure Patchwork](concepts/AIPoliticalAdDisclosurePatchwork.md) — State-by-state rules for labels and disclaimers on AI-generated or manipulated political advertising.

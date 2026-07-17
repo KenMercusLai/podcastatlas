@@ -2,8 +2,8 @@
 title: "Story-Based Empathy"
 type: concept
 tags: [reading, literature, empathy, narrative]
-sources: [jiaqi-moyu-geng-jiankang-574391976, 147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004]
-last_updated: 2026-07-14
+sources: [109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773, jiaqi-moyu-geng-jiankang-574391976, 147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004]
+last_updated: 2026-07-17
 ---
 
 # Story-Based Empathy
@@ -14,6 +14,8 @@ The concept extends [[EmpathyAsAestheticCapacity]] and [[EmpathyCircleExpansion]
 
 [[147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004]] adds a cross-cultural folklore case. The episode uses comparison, humor, and source caveats to help Chinese-speaking listeners enter [[AfricanMythology]] without reducing it to either moral lessons or exotic oddity; stories become a way to notice how unfamiliar societies imagine creation, kinship, animals, resources, kingship, and argument.
 
+[[109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773]] adds a classical-history case through [[ZuoZhuan|《左传》]]. Its [[SportsAsHistoricalReadingFrame]] lets listeners enter [[SpringAndAutumnPeriod|春秋时期]] through concrete bodies, jokes, humiliations, and competitions before drawing conclusions about [[SpringAutumnWarfareRitual]], so empathy here means making a distant rule-world imaginatively legible without pretending it is morally simple.
+
 ## Key Claims
 - Stories can hold mixed motives, social context, and emotional sequence better than slogan-like argument.
 - Reading across unfamiliar lives can enlarge the reader's circle of concern without requiring the reader to claim direct experience.
@@ -21,6 +23,7 @@ The concept extends [[EmpathyAsAestheticCapacity]] and [[EmpathyCircleExpansion]
 - Literary empathy is a practice of attention, not a guarantee of moral superiority.
 - A show can use narrative discussion as a bridge toward more abstract philosophy or political theory if the discussion keeps returning to lived human situations.
 - Cross-cultural storytelling works best when comparison makes a story legible while leaving its local variants and social meanings intact.
+- Humorous historical storytelling can make a distant social order legible if it keeps the violence, hierarchy, and source limits visible.
 
 ## Connections
 - [[jiaqi-moyu-geng-jiankang-574391976]] - source episode that names the method.
@@ -31,3 +34,4 @@ The concept extends [[EmpathyAsAestheticCapacity]] and [[EmpathyCircleExpansion]
 - [[EmpathyCircleExpansion]] - broader ethical frame for widening concern.
 - [[MihuanChishu|蜜獾吃书]] - show context for the method.
 - [[AfricanMythology]] and [[AfricanOralLiterature]] - folklore case where story-based empathy crosses cultural distance.
+- [[ZuoZhuan|《左传》]], [[SpringAutumnWarfareRitual]], and [[SportsAsHistoricalReadingFrame]] - episode 109 case where humor opens pre-Qin historical distance.

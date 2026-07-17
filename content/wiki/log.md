@@ -3393,6 +3393,10 @@ Added source page for The Intelligence episode on Nigel Farage versus Count Binf
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-17] ingest | 109.闲聊左传之春秋运动会！
+
+Added source page for the 蜜獾吃书 episode turning 《左传》 and Spring-Autumn anecdotes into a playful sports-meet frame. Created pages for 《左传》, 春秋时期, 南宫长万, 蔡姬, 魏犨, 公子彭生, 高固, 养由基, 叔梁纥, 孔子, 齐桓公, 晋文公, 宋襄公, Sports As Historical Reading Frame, and Spring-Autumn Warfare Ritual; updated overview, index, 蜜獾吃书, Classic Reading Complexity, Non-Instrumental Literary Reading, Story-Based Empathy, and Horse As Civilizational Infrastructure. No direct contradiction found; the source is kept as a playful access frame rather than strict military history, with the durable claim that Spring-Autumn violence, chariot culture, aristocratic rules, humiliation, and fair-play expectations remained visible together.
+
 ## [2026-07-17] ingest | OpenAI's GPT-5.6 release raises questions about White House control over new models
 
 Added source page for the Marketplace Tech Bytes episode with Maria Curi on OpenAI's GPT-5.6 release review, White House voluntary-review language, the Center for AI Standards and Innovation, Anthropic export-control pressure, possible Chinese model-access restrictions, and Meta's Muse Image likeness/privacy defaults. Created pages for White House, Center for AI Standards and Innovation, Howard Lutnick, Muse Image, WhatsApp, and AI Public Likeness Generation; updated overview, index, Marketplace Tech, Maria Curi, OpenAI, GPT-5.6, Anthropic, Meta, Instagram, Sora, Meta AI, Mark Zuckerberg, United States, China, Zhipu AI, Frontier Model Release Governance, AI Export Controls, Frontier Model Access Restrictions, and Open Source AI Models. No direct contradiction found; the source qualifies voluntary frontier-model review as practically approval-like and frames social AI content as dependent on public-likeness defaults, opt-out burden, child safety, and trust.
@@ -3420,6 +3424,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-17] ingest | Trying to stay off your phone? There's an app for that
 
 Added source page for the Marketplace Tech episode on the digital detox market, Clearspace, app-blocking devices, lockboxes, and Matter Neuroscience's heavy phone case. Created pages for Clearspace, Maria Hollenhorst, Tanya Sujohn, London College of Communication, Ben Goldhersh, Matter Neuroscience, Digital Detox Economy, and Screen Time Friction; updated overview, index, Marketplace Tech, Addictive Interaction Design, and Attention Industrialization. No direct contradiction found; the source extends the attention-design branch by showing consumers paying for counter-design when phones and apps are designed to be hard to stop using.
+
+## [2026-07-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-17] lint | Wiki health check
 
