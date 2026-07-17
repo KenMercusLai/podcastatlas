@@ -3393,6 +3393,10 @@ Added source page for The Intelligence episode on Nigel Farage versus Count Binf
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-17] ingest | 111. 花衣魔笛手：快来，和历史学家一起推理童话真相
+
+Added source page for the 蜜獾吃书 episode on 花衣魔笛手, 阿布谨也《花衣魔笛手：传说背后的欧洲中世纪》, Hamelin, medieval evidence, city law, migration, marginal groups, famine, plague, and folklore trauma. Created pages for 阿布谨也, 《花衣魔笛手：传说背后的欧洲中世纪》, 花衣魔笛手, 哈默尔恩, 格林兄弟, Legend As Social History, Evidence-Bound Folklore Inquiry, Medieval Urban Marginality, and Folklore Trauma Encoding; updated overview, index, 蜜獾吃书, Adult Fairy-Tale Reading, Story Motif Transmission, Myth As Historical Evidence, Interpretation And Overinterpretation, and Germany. No direct contradiction found; the source extends the wiki's folklore branch by keeping fairy-tale variants, local records, and social-history interpretation at distinct confidence levels.
+
 ## [2026-07-17] ingest | 110.初老的女人：疲惫，温柔，辽阔
 
 Added source page for the 蜜獾吃书 episode on 伊藤比吕美《初老的女人》, late-life aging, women's bodily freedom, mobility infrastructure, pet care, health checks, insurance planning, and poetry as life-problem solving. Created pages for 伊藤比吕美, 《初老的女人》, Embodied Aging, Age-Friendly Infrastructure, Female Body Freedom, and Poetry As Life Problem Solving; updated overview, index, 蜜獾吃书, 小雨伞, Female Self-Possession, Menstrual Stigma, Gendered Medicalization, Pet Grief And Care, Poetry As Emotional Release, and Health Insurance Planning. No direct contradiction found; the source extends the wiki's midlife and bodily-agency threads into old-age fatigue, logistical dependence, and death-facing writing while keeping sponsored insurance claims source-scoped.
@@ -3428,6 +3432,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-17] ingest | Trying to stay off your phone? There's an app for that
 
 Added source page for the Marketplace Tech episode on the digital detox market, Clearspace, app-blocking devices, lockboxes, and Matter Neuroscience's heavy phone case. Created pages for Clearspace, Maria Hollenhorst, Tanya Sujohn, London College of Communication, Ben Goldhersh, Matter Neuroscience, Digital Detox Economy, and Screen Time Friction; updated overview, index, Marketplace Tech, Addictive Interaction Design, and Attention Industrialization. No direct contradiction found; the source extends the attention-design branch by showing consumers paying for counter-design when phones and apps are designed to be hard to stop using.
+
+## [2026-07-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-17] lint | Wiki health check
 

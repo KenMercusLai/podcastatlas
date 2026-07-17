@@ -2,7 +2,7 @@
 title: "Interpretation And Overinterpretation"
 type: concept
 tags: [interpretation, literature, reasoning, semiotics]
-sources: [167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
+sources: [111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
 last_updated: 2026-07-15
 ---
 
@@ -22,6 +22,8 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 
 [[167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324]] adds a Red Chamber political-reading version. The source criticizes [[MourningMingReading|悼明读法]] when it turns the novel into a single dynastic code, because that move can make law, inheritance, women's suffering, low-status performers, and confiscation feel secondary even when those are the most concrete forms of power in the text.
 
+[[111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766]] adds a folklore-history version through [[PiedPiperOfHamelin|花衣魔笛手]]. The source is attracted to the mystery of 130 missing children, but it treats the temptation to identify one decisive answer as a risk. [[EvidenceBoundFolkloreInquiry]] keeps early records, [[BrothersGrimm|格林兄弟]]'s later version, rat-catching motifs, migration traces, battle theories, festival accidents, famine, plague, and [[Hamelin|哈默尔恩]] social history at different confidence levels.
+
 ## Key Claims
 - Interpretation is necessary because signs do not explain themselves.
 - Overinterpretation begins when a reader treats an attractive pattern as proof before checking evidence, context, and alternative explanations.
@@ -32,6 +34,7 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 - In political-allusive reading, overinterpretation can begin when a plausible censorship context makes every odd detail look like a precise historical cipher.
 - In intertextual reading, overinterpretation can begin when atmosphere, shared imagery, and loose resemblance are given the same status as direct citation or repeated textual evidence.
 - In dynasty-centered reading, overinterpretation can begin when "political seriousness" is equated with empire and loyalism while concrete social institutions are treated as lesser evidence.
+- In legend-history reading, overinterpretation can begin when a vivid later motif is projected backward onto weaker early evidence or when social trauma is turned into one exact event.
 
 ## Connections
 - [[SemioticDetectiveFiction]] - mystery form where the boundary becomes part of the plot.
@@ -46,3 +49,4 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 - [[SuoYinReading]], [[JourneyToTheWest|《西游记》]], and [[YangShen|杨慎]] - episode 43's extension into hidden-political literary interpretation.
 - [[ClassicalPoeticIntertextuality]], [[YuxiIntoHonglou]], [[LiShangyin|李商隐]], and [[HongLouMeng|《红楼梦》]] - episode 183's extension into poetry-novel intertext and confidence grading.
 - [[MourningMingReading]], [[RedChamberLegalReading]], [[QingFemaleInheritanceConstraint]], and [[ConfiscationAndFemaleFate]] - episode 167's extension into Red Chamber dynastic-code critique and legal evidence.
+- [[PiedPiperOfHamelin|花衣魔笛手]], [[LegendAsSocialHistory]], [[EvidenceBoundFolkloreInquiry]], and [[FolkloreTraumaEncoding]] - episode 111's extension into folklore, social history, and confidence discipline.

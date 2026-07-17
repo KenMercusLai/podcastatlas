@@ -27,6 +27,10 @@
     "title": "110.初老的女人：疲惫，温柔，辽阔",
     "url": "/wiki/sources/110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278/"
   },
+  "111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766": {
+    "title": "111. 花衣魔笛手：快来，和历史学家一起推理童话真相",
+    "url": "/wiki/sources/111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766/"
+  },
   "130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi": {
     "title": "130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏",
     "url": "/wiki/sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi/"
@@ -1042,6 +1046,10 @@
   "AbbeyOfMonteCassino": {
     "title": "卡西诺修道院 / Abbey of Monte Cassino",
     "url": "/wiki/entities/abbeyofmontecassino/"
+  },
+  "AbeKinya": {
+    "title": "阿布谨也 / Abe Kinya",
+    "url": "/wiki/entities/abekinya/"
   },
   "AbelardoDeLaEspriella": {
     "title": "Abelardo de la Espriella",
@@ -2682,6 +2690,10 @@
   "Brooks": {
     "title": "Brooks",
     "url": "/wiki/entities/brooks/"
+  },
+  "BrothersGrimm": {
+    "title": "格林兄弟 / Brothers Grimm",
+    "url": "/wiki/entities/brothersgrimm/"
   },
   "BrushUpLife": {
     "title": "重启人生 / Brush Up Life",
@@ -5391,6 +5403,10 @@
     "title": "Everything Agent",
     "url": "/wiki/concepts/everythingagent/"
   },
+  "EvidenceBoundFolkloreInquiry": {
+    "title": "Evidence-Bound Folklore Inquiry",
+    "url": "/wiki/concepts/evidenceboundfolkloreinquiry/"
+  },
   "EvidenceOverTestimony": {
     "title": "Evidence Over Testimony",
     "url": "/wiki/concepts/evidenceovertestimony/"
@@ -5866,6 +5882,10 @@
   "FolkReligionDisasterPolitics": {
     "title": "Folk Religion Disaster Politics",
     "url": "/wiki/concepts/folkreligiondisasterpolitics/"
+  },
+  "FolkloreTraumaEncoding": {
+    "title": "Folklore Trauma Encoding",
+    "url": "/wiki/concepts/folkloretraumaencoding/"
   },
   "FoodAnimalWelfare": {
     "title": "Food Animal Welfare",
@@ -6898,6 +6918,10 @@
   "HaleySalmon": {
     "title": "Haley Salmon",
     "url": "/wiki/entities/haleysalmon/"
+  },
+  "Hamelin": {
+    "title": "哈默尔恩 / Hamelin",
+    "url": "/wiki/entities/hamelin/"
   },
   "HamishMcKenzie": {
     "title": "Hamish McKenzie",
@@ -8927,6 +8951,10 @@
     "title": "Legalist-Machiavelli Comparison",
     "url": "/wiki/concepts/legalistmachiavellicomparison/"
   },
+  "LegendAsSocialHistory": {
+    "title": "Legend As Social History",
+    "url": "/wiki/concepts/legendassocialhistory/"
+  },
   "LeiLutai": {
     "title": "Lei Lutai / 雷履泰",
     "url": "/wiki/entities/leilutai/"
@@ -9918,6 +9946,10 @@
   "MedicalScamPackaging": {
     "title": "Medical Scam Packaging",
     "url": "/wiki/concepts/medicalscampackaging/"
+  },
+  "MedievalUrbanMarginality": {
+    "title": "Medieval Urban Marginality",
+    "url": "/wiki/concepts/medievalurbanmarginality/"
   },
   "MeditationsOnFirstPhilosophy": {
     "title": "Meditations on First Philosophy / 《第一哲学的沉思》",
@@ -11586,6 +11618,14 @@
   "PhysicalWorldDataFlywheel": {
     "title": "Physical World Data Flywheel",
     "url": "/wiki/concepts/physicalworlddataflywheel/"
+  },
+  "PiedPiperMedievalEurope": {
+    "title": "《花衣魔笛手：传说背后的欧洲中世纪》",
+    "url": "/wiki/entities/piedpipermedievaleurope/"
+  },
+  "PiedPiperOfHamelin": {
+    "title": "花衣魔笛手 / The Pied Piper of Hamelin",
+    "url": "/wiki/entities/piedpiperofhamelin/"
   },
   "PigButcheringScam": {
     "title": "Pig Butchering Scam",

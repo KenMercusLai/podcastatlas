@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [111. 花衣魔笛手：快来，和历史学家一起推理童话真相](sources/111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766.md) — 蜜獾吃书 episode using 阿布谨也《花衣魔笛手：传说背后的欧洲中世纪》 to read the Hamelin Pied Piper legend through medieval evidence, city history, marginal groups, migration, famine, plague, and folklore trauma.
 - [110.初老的女人：疲惫，温柔，辽阔](sources/110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278.md) — 蜜獾吃书 episode on 伊藤比吕美《初老的女人》, embodied aging, age-friendly infrastructure, late-life female body freedom, pet care, health checks, insurance planning, and poetry as a way to process life problems.
 - [109.闲聊左传之春秋运动会！](sources/109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773.md) — 蜜獾吃书 episode turning 《左传》 and Spring-Autumn anecdotes into a playful sports-meet frame across ritual warfare, aristocratic battle rules, and figures such as 南宫长万, 蔡姬, 魏犨, 公子彭生, 高固, 养由基, 叔梁纥, and 孔子.
 - [OpenAI's GPT-5.6 release raises questions about White House control over new models](sources/tech-20260710-tech-pod-128-tech-20260710-tech-pod-128.md) — Marketplace Tech Bytes episode with Maria Curi on GPT-5.6 release review, White House voluntary-review language, China model-access restrictions, and Meta's Muse Image likeness/privacy concerns.
@@ -434,6 +435,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [阿布谨也 / Abe Kinya](entities/AbeKinya.md) — Japanese historian whose Pied Piper study lets the wiki read folklore through medieval social history rather than one solved mystery.
+- [《花衣魔笛手：传说背后的欧洲中世纪》](entities/PiedPiperMedievalEurope.md) — Abe Kinya book discussed by 蜜獾吃书 as an evidence-bound reconstruction of the Hamelin legend and its medieval social world.
+- [花衣魔笛手 / The Pied Piper of Hamelin](entities/PiedPiperOfHamelin.md) — Hamelin legend treated by episode 111 as a dated historical-memory problem later reshaped into a rat-catcher fairy tale.
+- [哈默尔恩 / Hamelin](entities/Hamelin.md) — German medieval city whose mills, river economy, city law, and social hierarchy anchor the Pied Piper legend.
+- [格林兄弟 / Brothers Grimm](entities/BrothersGrimm.md) — Folklore collectors used by episode 111 to mark why the Pied Piper belongs to legend as well as fairy-tale memory.
 - [伊藤比吕美 / Itō Hiromi](entities/ItoHiromi.md) — Japanese poet and writer whose 《初老的女人》 lets the wiki track late-life aging through body, care, humor, and poetry.
 - [《初老的女人》](entities/ChurouNoOnna.md) — Ito Hiromi book discussed by 蜜獾吃书 as a concrete account of post-menopausal aging, pet care, bodily freedom, and poetry.
 - [《左传》 / Zuo Zhuan](entities/ZuoZhuan.md) — Classical narrative-history text used by episode 109 to make Spring-Autumn war, ritual, insult, courage, and political improvisation visible through stories.
@@ -2728,6 +2734,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Legend As Social History](concepts/LegendAsSocialHistory.md) — Reading legends as historically situated social memory: evidence-rich but not reducible to one literal event.
+- [Evidence-Bound Folklore Inquiry](concepts/EvidenceBoundFolkloreInquiry.md) — Folklore method that sorts variants, manuscripts, images, records, geography, and hypotheses by evidentiary strength.
+- [Medieval Urban Marginality](concepts/MedievalUrbanMarginality.md) — Frame for people inside medieval city life but near the edge of civic rights, recognition, work, and protection.
+- [Folklore Trauma Encoding](concepts/FolkloreTraumaEncoding.md) — Pattern where collective grief, fear, shame, or powerless memory survives as story rather than direct record.
 - [Embodied Aging](concepts/EmbodiedAging.md) — Aging understood through bodily friction, household logistics, care networks, health monitoring, companion animals, and death planning.
 - [Age-Friendly Infrastructure](concepts/AgeFriendlyInfrastructure.md) — Public and housing infrastructure judged by how stairs, transit, roads, elevators, and aging-in-place decisions work for older bodies.
 - [Female Body Freedom](concepts/FemaleBodyFreedom.md) — Late-life bodily agency around bras, high heels, menstruation, menopause, medical inspection, shame, and self-possession.

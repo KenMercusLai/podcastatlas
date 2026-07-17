@@ -2,7 +2,7 @@
 title: "Myth As Historical Evidence"
 type: concept
 tags: [mythology, evidence, interpretation, anthropology]
-sources: [152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368]
+sources: [111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368]
 last_updated: 2026-07-15
 ---
 
@@ -14,6 +14,8 @@ Myth as historical evidence is the method [[JohannJakobBachofen]] makes central 
 
 [[152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062]] adds a festival-history version through [[QixiFestival|七夕 / Qixi]]. Star names, calendar dates, [[QiqiaoRitualPractice|乞巧]] tools, Song market objects, Guangdong "拜七娘", and [[SwanMaidenMotif]] parallels can all be evidence, but the source repeatedly distinguishes strong textual or ritual evidence from suggestive [[QixiCrossCulturalTransmission|cross-cultural transmission]] hypotheses.
 
+[[111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766]] adds a legend-history version through [[PiedPiperOfHamelin|花衣魔笛手]]. The episode treats dated local memory, early manuscripts, city inscriptions, geography, and later rat-catcher variants as evidence of different kinds. Its strongest methodological move is [[EvidenceBoundFolkloreInquiry]]: mythic or folkloric pressure can guide historical questions, but it cannot erase uncertainty around migration, battle, accident, famine, plague, or religious frenzy.
+
 The episode finds this method productive but dangerous. It can reveal that stories carry law, kinship, sex, violence, and inheritance anxieties, but it can also turn symbolic patterns into historical claims without enough archaeological or anthropological support. This makes the page adjacent to [[MythicSourceLayering]] and [[ObservationBeforeInference]].
 
 ## Key Claims
@@ -22,6 +24,7 @@ The episode finds this method productive but dangerous. It can reveal that stori
 - Mythic resonance alone cannot prove a historical institution existed.
 - Bachofen's power is that he reads myth as socially meaningful; his weakness is that he often treats meaning as stronger evidence than it can bear.
 - Festival evidence needs the same split: textual date, ritual object, local practice, and cross-cultural resemblance do not all carry equal proof.
+- Legend evidence needs the same split: a dated local record, a later magical plot, and a social-history interpretation are not the same kind of proof.
 
 ## Connections
 - [[JohannJakobBachofen]] and [[MotherRight|《母权论》 / Mother Right]] - source method.
@@ -29,4 +32,5 @@ The episode finds this method productive but dangerous. It can reveal that stori
 - [[MythicSourceLayering]] - adjacent concept for variants and layered origins.
 - [[MotherGoddessEvidenceLeap]] - specific evidence mistake around figurines and goddess worship.
 - [[QixiFestival|七夕 / Qixi]], [[QixiCrossCulturalTransmission]], and [[SwanMaidenMotif]] - festival-history evidence case added by episode 152.
+- [[PiedPiperOfHamelin|花衣魔笛手]], [[LegendAsSocialHistory]], and [[EvidenceBoundFolkloreInquiry]] - legend-history evidence case added by episode 111.
 - [[ObservationBeforeInference]] and [[InterpretationAndOverinterpretation]] - wiki guardrails for evidence discipline.
