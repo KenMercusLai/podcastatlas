@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [There's no business like dough business](sources/theres-no-business-like-dough-business.md) — Planet Money episode on Wetzel's Pretzels, impulse-product location strategy, same-franchisee clustering, foot-traffic counting, and shared-kitchen subway kiosks.
 - [Riding with the repo man (update)](sources/riding-with-the-repo-man-update.md) — Planet Money update on subprime auto loans, repossession, car affordability stress, GPS-enabled recovery, and why auto debt is smaller than a mortgage crisis but still severe for households.
 - [137. 三更半夜居然要吃香蕉：是的，再来一根](sources/137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951.md) — 蜜獾吃书 episode on 《三更半夜居然要吃香蕉》, 鹿野靖明, Japanese disability independent living, volunteer care, subject-led support, and long-term care insurance framing.
 - [111. 花衣魔笛手：快来，和历史学家一起推理童话真相](sources/111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766.md) — 蜜獾吃书 episode using 阿布谨也《花衣魔笛手：传说背后的欧洲中世纪》 to read the Hamelin Pied Piper legend through medieval evidence, city history, marginal groups, migration, famine, plague, and folklore trauma.
@@ -437,6 +438,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Wetzel's Pretzels](entities/WetzelsPretzels.md) — Pretzel franchise chain whose high-traffic impulse-retail strategy explains clustered stores in malls, arenas, and transit stations.
+- [Ricky Alam](entities/RickyAlam.md) — Wetzel's franchisee who owns the three Atlantic Avenue-Barclays Center locations and uses one kitchen to supply subway satellites.
+- [John Fisher](entities/JohnFisher.md) — Wetzel's development executive explaining the "pretzels to the people" impulse-location strategy.
+- [Hyperfixed](entities/Hyperfixed.md) — Alex Goldman-hosted show that routed Jed Kronfeld's Wetzel's Pretzels question into the Planet Money story.
+- [Alex Goldman](entities/AlexGoldman.md) — Hyperfixed host connected to the listener question behind the Planet Money Wetzel's investigation.
+- [Alexi Horowitz-Ghazi](entities/AlexiHorowitzGhazi.md) — Planet Money reporter who traces the Wetzel's Pretzels cluster from listener question to corporate strategy and franchisee operations.
+- [Jed Kronfeld](entities/JedKronfeld.md) — Listener whose Atlantic Avenue-Barclays Center pretzel-cluster question anchors the episode.
+- [Atlantic Avenue-Barclays Center](entities/AtlanticAvenueBarclaysCenter.md) — Brooklyn transit and retail complex where three Wetzel's locations become the episode's impulse-retail case.
 - [Larry Baker](entities/LarryBaker.md) — Ohio repo man whose 2019 and 2026 accounts show how auto repossession works and why borrower desperation raises physical risk.
 - [Stephanie Waldrop](entities/StephanieWaldrop.md) — Borrower case showing how a high-rate subprime car loan, income shock, repossession fee, and credit-score damage compound.
 - [Rick Reichert](entities/RickReichert.md) — Dealer-side source explaining poor-credit auto approvals and the distinction between responsible and loose subprime lending.
@@ -2745,6 +2754,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Impulse Retail Clustering](concepts/ImpulseRetailClustering.md) — Retail pattern where nearby same-brand locations create new impulse occasions by facing different traffic streams instead of only cannibalizing each other.
+- [Shared-Kitchen Satellite Retail](concepts/SharedKitchenSatelliteRetail.md) — Food-retail operating model where one main kitchen supplies small nearby sales-only locations to lower cost and capture more traffic.
 - [Subprime Auto Lending](concepts/SubprimeAutoLending.md) — Auto financing for weak-credit borrowers, useful for transportation access but risky when rates, terms, prices, and income shocks interact.
 - [Auto Repossession](concepts/AutoRepossession.md) — Lender recovery of a financed car after delinquency, treated as a business process with severe household mobility and credit consequences.
 - [Car Affordability Stress](concepts/CarAffordabilityStress.md) — Household pressure from rising vehicle prices, stretched terms, high rates, and reliance on cars for work and daily life.

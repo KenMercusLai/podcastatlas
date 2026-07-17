@@ -3484,3 +3484,11 @@ Ran health and an initial lint pass. Health passed with no empty/stub files, ind
 ## [2026-07-17] lint | Wiki health check
 
 Ran lint after refreshing the graph. Lint scanned 4,538 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, one fragile bridge (`concepts/UniversityOpportunityDensity` -> `concepts/CollegeMajorChoice`), and no isolated communities. The semantic LiteLLM pass failed because `LLM_MODEL` is not provider-qualified. No `wiki/lint-report.md` file was saved.
+
+## [2026-07-17] ingest | There's no business like dough business
+
+Added source page for the Planet Money episode on Wetzel's Pretzels, Ricky Alam, three Atlantic Avenue-Barclays Center locations, impulse-product economics, same-franchisee clustering, foot-traffic counting, and shared-kitchen subway kiosks. Created pages for Wetzel's Pretzels, Ricky Alam, John Fisher, Hyperfixed, Alex Goldman, Alexi Horowitz-Ghazi, Jed Kronfeld, Atlantic Avenue-Barclays Center, Impulse Retail Clustering, and Shared-Kitchen Satellite Retail; updated overview, index, NPR, Planet Money, Retail Site Selection, Mall Based Retail Expansion, Franchise-Led Consumer Chain Expansion, and Retail Incrementality. No direct contradiction found; the source qualifies cannibalization concerns by showing how same-owner, route-specific impulse retail can create additional purchases while sharing production costs.
+
+## [2026-07-17] lint | Wiki health check
+
+Ran health and lint. Health scanned 4,549 pages and passed with no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 4,549 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, one fragile bridge (`concepts/UniversityOpportunityDensity` -> `concepts/CollegeMajorChoice`), and no isolated communities. The semantic LiteLLM pass failed because `LLM_MODEL` and API-key env vars are unset. No `wiki/lint-report.md` file was saved.

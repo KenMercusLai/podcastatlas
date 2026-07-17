@@ -2,7 +2,7 @@
 title: "NPR"
 type: entity
 tags: [media, public-media, journalism]
-sources: [riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
+sources: [theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
 last_updated: 2026-07-17
 ---
 
@@ -24,6 +24,8 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 
 [[riding-with-the-repo-man-update]] adds a reported [[PlanetMoney]] episode on [[SubprimeAutoLending]] and [[AutoRepossession]]. It extends NPR's economics-reporting branch into household transportation credit, showing how [[CarAffordabilityStress]], long loan terms, income shocks, and [[GPSEnabledRepossession]] can turn a smaller financial market into a severe personal crisis.
 
+[[theres-no-business-like-dough-business]] adds a reported [[PlanetMoney]] episode on [[WetzelsPretzels|Wetzel's Pretzels]], [[RickyAlam]], and why three stores can coexist in one Brooklyn transit and retail complex. It extends NPR's economics-reporting branch into [[ImpulseRetailClustering]], [[RetailSiteSelection]], [[RetailIncrementality]], and [[SharedKitchenSatelliteRetail]].
+
 ## Connections
 - [[KatherineMaher]] — NPR CEO and speaker in the appeal.
 - [[PublicMediaFunding]] — central issue in the source.
@@ -36,3 +38,4 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 - [[Throughline]], [[IowaElectronicMarkets]], [[PredictionMarketHistory]], and [[ElectionBettingMarkets]] - historical prediction-market branch added through Planet Money.
 - [[DavidKirkpatrick]], [[FredWertheimer]], [[OfficeLinkedProfitAccounting]], and [[PresidentialCryptoPolicyConflict]] - Trump-family profit-accounting branch added through Planet Money.
 - [[SubprimeAutoLending]], [[AutoRepossession]], [[CarAffordabilityStress]], and [[GPSEnabledRepossession]] - household-auto-credit branch added through Planet Money.
+- [[WetzelsPretzels]], [[RickyAlam]], [[ImpulseRetailClustering]], and [[SharedKitchenSatelliteRetail]] - impulse-retail branch added through Planet Money.
