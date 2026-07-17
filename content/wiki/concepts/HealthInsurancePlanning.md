@@ -2,8 +2,8 @@
 title: "Health Insurance Planning"
 type: concept
 tags: [insurance, healthcare, family-finance]
-sources: [137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951, 110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw, 3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt, 159-yao-jingming-yao-shanliang-yao-jiejue-wenti-931818201]
-last_updated: 2026-07-17
+sources: [70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394, 137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951, 110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw, 3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt, 159-yao-jingming-yao-shanliang-yao-jiejue-wenti-931818201]
+last_updated: 2026-07-18
 ---
 
 # Health Insurance Planning
@@ -18,6 +18,8 @@ Health insurance planning is the episode's approach to critical illness, medical
 
 [[137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951]] adds a long-term care boundary. Its sponsored segment distinguishes [[LongTermCareInsurancePlanning]] from ordinary medical reimbursement and critical illness payout: the financial risk is ongoing care after disability or失能, not only the acute diagnosis or hospital bill.
 
+[[70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394]] adds a pre-screening timing point. In a sponsor-linked segment for [[XiaoyusanInsurance|小雨伞]], the hosts advise thinking about basic coverage before a physical exam reveals conditions that may affect underwriting. The wiki keeps this as source-scoped planning context tied to [[PreventiveHealthScreening]], not as a universal recommendation.
+
 ## Key Claims
 - Critical illness insurance and medical insurance should not be treated as substitutes because one pays a defined sum while the other usually reimburses eligible expenses.
 - Policy terms must be read against medical reality; older critical illness policies may have claim triggers shaped by older treatment methods.
@@ -29,6 +31,7 @@ Health insurance planning is the episode's approach to critical illness, medical
 - Health-insurance planning should include claim evidence and service expectations, because the practical value of coverage depends on whether medical necessity, diagnosis, policy continuity, and hospital eligibility can be proved.
 - Aging and chronic-disease monitoring make health planning more than a one-time purchase decision; routine checkups and family contingency planning become part of the same risk frame.
 - Long-term care planning should be separated from hospital-bill planning because daily assistance, equipment, rehabilitation, home care, and institutional care can create a different cash-flow problem.
+- Screening and underwriting can interact, so the order of coverage review and checkups may matter, especially when the source is explicitly discussing sponsor-linked insurance consultation.
 
 ## Connections
 - [[InsuranceRiskTransfer]] — broader frame for matching event, payout, and need.
@@ -40,3 +43,4 @@ Health insurance planning is the episode's approach to critical illness, medical
 - [[InsuranceClaimsHandling]], [[DiscretionaryInsurancePayment]], and [[InsuranceClaimsAssistancePlatforms]] — claims-stage health-coverage concepts added by the 蜜獾吃书 episode.
 - [[EmbodiedAging]], [[FemaleBodyFreedom]], and [[XiaoyusanInsurance|小雨伞]] - aging, women's-health, and sponsored-platform context from the later 蜜獾吃书 episode.
 - [[LongTermCareInsurancePlanning]], [[DisabilityIndependentLiving]], and [[SubjectLedCare]] - disability-care and失能 planning extension from episode 137.
+- [[PreventiveHealthScreening]] and [[XiaoyusanInsurance|小雨伞]] - episode 70's sponsor-linked checkup and insurance-ordering context.

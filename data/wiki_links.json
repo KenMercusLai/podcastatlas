@@ -439,6 +439,10 @@
     "title": "69.闲聊推理文学：历史学者可不就是侦探吗！",
     "url": "/wiki/sources/69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465/"
   },
+  "70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394": {
+    "title": "70.医生，你在想什么：少看百度，以及吃药时别吃西柚啊",
+    "url": "/wiki/sources/70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394/"
+  },
   "71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384": {
     "title": "71.美妆帝国蝴蝶牌：言情小说家的国货创业往事",
     "url": "/wiki/sources/71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384/"
@@ -2574,6 +2578,10 @@
   "BingeReleaseModel": {
     "title": "Binge Release Model",
     "url": "/wiki/concepts/bingereleasemodel/"
+  },
+  "BingrenJiashuQingLaiYixia": {
+    "title": "《病人家属，请来一下》",
+    "url": "/wiki/entities/bingrenjiashuqinglaiyixia/"
   },
   "BioregionalResilience": {
     "title": "Bioregional Resilience",
@@ -4958,6 +4966,10 @@
   "DoctorGuidedAIInterpretation": {
     "title": "Doctor-Guided AI Interpretation",
     "url": "/wiki/concepts/doctorguidedaiinterpretation/"
+  },
+  "DoctorPatientCommunication": {
+    "title": "Doctor-Patient Communication",
+    "url": "/wiki/concepts/doctorpatientcommunication/"
   },
   "DocumentChunking": {
     "title": "Document Chunking",
@@ -10507,6 +10519,10 @@
     "title": "Medical AI Workflow Integration",
     "url": "/wiki/concepts/medicalaiworkflowintegration/"
   },
+  "MedicalDiagnosticReasoning": {
+    "title": "Medical Diagnostic Reasoning",
+    "url": "/wiki/concepts/medicaldiagnosticreasoning/"
+  },
   "MedicalLiteratureSearch": {
     "title": "Medical Literature Search",
     "url": "/wiki/concepts/medicalliteraturesearch/"
@@ -10515,9 +10531,17 @@
     "title": "Medical Platform Trust Crisis",
     "url": "/wiki/concepts/medicalplatformtrustcrisis/"
   },
+  "MedicalRiskManagement": {
+    "title": "Medical Risk Management",
+    "url": "/wiki/concepts/medicalriskmanagement/"
+  },
   "MedicalScamPackaging": {
     "title": "Medical Scam Packaging",
     "url": "/wiki/concepts/medicalscampackaging/"
+  },
+  "MedicationInteractionRisk": {
+    "title": "Medication Interaction Risk",
+    "url": "/wiki/concepts/medicationinteractionrisk/"
   },
   "MedievalUrbanMarginality": {
     "title": "Medieval Urban Marginality",
@@ -11663,6 +11687,10 @@
     "title": "Online Medical Consultation",
     "url": "/wiki/concepts/onlinemedicalconsultation/"
   },
+  "OnlineSymptomSearchAnxiety": {
+    "title": "Online Symptom Search Anxiety",
+    "url": "/wiki/concepts/onlinesymptomsearchanxiety/"
+  },
   "OnlineTravelAgency": {
     "title": "Online Travel Agency",
     "url": "/wiki/concepts/onlinetravelagency/"
@@ -12602,6 +12630,10 @@
   "Prevagen": {
     "title": "Prevagen",
     "url": "/wiki/entities/prevagen/"
+  },
+  "PreventiveHealthScreening": {
+    "title": "Preventive Health Screening",
+    "url": "/wiki/concepts/preventivehealthscreening/"
   },
   "PriceWarGrowth": {
     "title": "Price War Growth",
@@ -16599,6 +16631,10 @@
     "title": "王兴 / Wang Xing",
     "url": "/wiki/entities/wangxing/"
   },
+  "WangXingDoctor": {
+    "title": "王兴医生 / Wang Xing",
+    "url": "/wiki/entities/wangxingdoctor/"
+  },
   "WangYong": {
     "title": "Wang Yong",
     "url": "/wiki/entities/wangyong/"
@@ -17342,6 +17378,10 @@
   "YishanWang": {
     "title": "Yishan Wang",
     "url": "/wiki/entities/yishanwang/"
+  },
+  "YishengNiZaiXiangShenme": {
+    "title": "《医生，你在想什么》",
+    "url": "/wiki/entities/yishengnizaixiangshenme/"
   },
   "Yobi": {
     "title": "Yobi",

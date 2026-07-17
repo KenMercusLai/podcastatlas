@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [70.医生，你在想什么：少看百度，以及吃药时别吃西柚啊](sources/70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394.md) — 蜜獾吃书 episode on 王兴医生《医生，你在想什么》, doctor-patient communication, diagnostic reasoning, online symptom-search anxiety, medication interaction risk, and preventive screening.
 - [69.闲聊推理文学：历史学者可不就是侦探吗！](sources/69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465.md) — 蜜獾吃书 episode with 张志浩 on detective fiction, archaeology, historical reasoning, 《时间的女儿》, Richard III, 曹操墓, Jack the Ripper, late-Qing Holmes translation, and personal archives.
 - [68.疯狂实验史：哎！这该死的求知欲…](sources/68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549.md) — 蜜獾吃书 episode on 《疯狂实验史》, experimental science, galvanism, self-experimentation, animal and child experiment ethics, circadian rhythms, spider drug-web studies, Darwin's earthworms, and the Doppler effect.
 - [67.美狄亚：古希腊秦香莲的复仇及其现代性](sources/67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556.md) — 蜜獾吃书 episode on Euripides' Medea, Greek tragedy, the Golden Fleece, Jason, female revenge, child murder, Dionysian freedom, and tragic modernity.
@@ -1800,6 +1801,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [杨宇 / 饺子 / Yang Yu](entities/YangYuJiaozi.md) — Animation creator and later Ne Zha director used as an online-video-to-professional-animation pathway case.
 - [丁香园 / DXY](entities/DXY.md) — Professional medical community that grew from Li Tiantian's literature-search site into doctor recruiting, drug-reference, and public health-content products.
 - [丁香医生](entities/DingxiangDoctor.md) — DXY's public-facing health-content branch, used in the source to show professional medical popularization and the Quanjian trust case.
+- [王兴医生 / Wang Xing](entities/WangXingDoctor.md) — Shanghai thoracic surgeon and medical popularizer whose book helps explain doctor-patient communication and clinical reasoning.
+- [《医生，你在想什么》](entities/YishengNiZaiXiangShenme.md) — Wang Xing medical-popularization book used by episode 70 to explain how doctors reason, communicate, and manage clinical risk.
+- [《病人家属，请来一下》](entities/BingrenJiashuQingLaiYixia.md) — Companion medical-popularization book mentioned as part of Wang Xing's doctor-patient-family writing.
 - [PubMed](entities/PubMed.md) — Medical literature database whose free web retrieval helped doctors and shaped DXY's origin story.
 - [李天天](entities/LiTiantian.md) — DXY founder whose medical-literature search need became an early professional internet-healthcare community.
 - [好大夫在线](entities/Haodf.md) — Doctor-directory and patient-review platform used as a restrained commercialization case in internet healthcare.
@@ -3844,6 +3848,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Internet Healthcare](concepts/InternetHealthcare.md) — Umbrella branch covering hospital IT, medical search, doctor communities, appointments, consultation, drug sales, internet hospitals, and managed care.
 - [Hospital Information System](concepts/HospitalInformationSystem.md) — Hospital IT foundation required before online appointments, records, prescriptions, internet hospitals, and medical AI workflows can function.
 - [Medical Literature Search](concepts/MedicalLiteratureSearch.md) — Professional knowledge-access layer connecting PubMed, Li Tiantian, and DXY's early community formation.
+- [Doctor-Patient Communication](concepts/DoctorPatientCommunication.md) — Practical clinic-cooperation pattern around symptom description, terminology questions, treatment feedback, and records.
+- [Medical Diagnostic Reasoning](concepts/MedicalDiagnosticReasoning.md) — Clinical reasoning process that turns symptoms, history, exams, tests, and feedback into working diagnoses under uncertainty.
+- [Medical Risk Management](concepts/MedicalRiskManagement.md) — Clinical safety frame explaining conservative advice, worst-case screening, system redundancy, and professional responsibility.
+- [Online Symptom Search Anxiety](concepts/OnlineSymptomSearchAnxiety.md) — Patient-side "Baidu syndrome" pattern where context-free symptom search amplifies health anxiety before clinical review.
+- [Medication Interaction Risk](concepts/MedicationInteractionRisk.md) — Medication-safety branch around alcohol, grapefruit, metabolism interactions, and patient disclosure.
+- [Preventive Health Screening](concepts/PreventiveHealthScreening.md) — Checkup and screening frame for detecting risk before symptoms, while preserving limits of self-exam and sponsor-linked insurance claims.
 - [Online Appointment Registration](concepts/OnlineAppointmentRegistration.md) — Healthcare platform category where online booking reduces queueing friction but remains dependent on hospital supply and policy.
 - [Online Medical Consultation](concepts/OnlineMedicalConsultation.md) — Light-consultation category with real user value but hard pricing, quality, and downstream-medical-value capture.
 - [Pharmaceutical Ecommerce](concepts/PharmaceuticalEcommerce.md) — Online pharmacy and medicine-retail branch that proved more standardizable than diagnosis.

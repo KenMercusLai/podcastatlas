@@ -3616,3 +3616,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-18] ingest | 70.医生，你在想什么：少看百度，以及吃药时别吃西柚啊
+
+Added source page for the 蜜獾吃书 episode on 王兴医生《医生，你在想什么》, doctor-patient communication, clinical diagnostic reasoning, medical risk management, online symptom-search anxiety, medication interaction risk, and preventive screening. Created pages for 王兴医生, 《医生，你在想什么》, 《病人家属，请来一下》, Doctor-Patient Communication, Medical Diagnostic Reasoning, Medical Risk Management, Online Symptom Search Anxiety, Medication Interaction Risk, and Preventive Health Screening; updated overview, index, 蜜獾吃书, 百度, Medical Platform Trust Crisis, Online Medical Consultation, Health Insurance Planning, and 小雨伞. No direct contradiction found; the source qualifies internet-healthcare and patient-AI branches by showing the pre-AI version of the same pattern: outside information can prepare better questions, but diagnosis, treatment, procedures, and medication safety still require professional clinical context.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
