@@ -2,8 +2,8 @@
 title: "Physical AI"
 type: concept
 tags: [ai, robotics, automotive, physical-ai]
-sources: [momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, tsr-s2-trevorblackwell-v2]
-last_updated: 2026-07-17
+sources: [momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, 144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b, 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc, 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1, tsr-s2-trevorblackwell-v2, 146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv]
+last_updated: 2026-07-18
 ---
 
 # Physical AI
@@ -22,6 +22,8 @@ The source contrasts physical AI with digital AI. Language and software tasks ca
 
 [[tsr-s2-trevorblackwell-v2]] adds a historical control-and-hardware version through [[TrevorBlackwell]] and [[Anybots]]. It shows that physical AI problems existed long before the current model stack: balancing, compliant actuation, falls, terrain, server-like reliability, and commercial use-case discovery were already linked in Blackwell's walking-robot work.
 
+[[146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv]] adds [[PhysicalIntelligence]]'s research-lab version through [[KPhysicalIntelligence|K]]. The source makes physical AI a combined problem of robot brain, hardware stability, real-machine data, [[RobotExperienceData]], [[RobotEvaluationProblem]], task selection, and [[RobotFormFactorPragmatism]], while also noting [[China]]'s strength in hardware supply chains and manufacturing.
+
 ## Key Claims
 - Physical AI depends on both high-ceiling model capability and low-bound reliability; a spectacular demo is not enough if rare scenes, safety, and cost fail.
 - Data and compute matter differently than in ordinary AI-tool adoption because training and evaluating physical behavior can have large direct data, fleet, and infrastructure costs.
@@ -33,6 +35,7 @@ The source contrasts physical AI with digital AI. Language and software tasks ca
 - The physical-AI market may not settle into a single winner-take-all hardware stack, but robot brains and model layers could become more oligopolistic if [[WorldModelVLAFusion]] lets general model companies absorb more embodied capability.
 - [[PhysicalAGI]] raises the evaluation bar: the question becomes not only whether the system acts in the physical world, but whether its intelligence generalizes across tasks and scenes.
 - Earlier physical robot work such as [[Anybots]] shows that movement capability and hardware resilience can arrive before a durable market or general intelligence layer.
+- The Physical Intelligence source adds that even research-led robot-brain work cannot be separated from task hardware, real-machine evaluation, experience data, and form-factor choices.
 
 ## Connections
 - [[XPeng]], [[HeXiaopeng]], [[XPengIron]], and [[XPengGX]] — source company, CEO, robot, and vehicle case.
@@ -47,3 +50,4 @@ The source contrasts physical AI with digital AI. Language and software tasks ca
 - [[PhysicalAGI]], [[PokeRobotics]], [[AINativeRobotics]], and [[UnifiedRobotModels]] — Xu Huazhe's general-robot route added by the LateTalk founder interview.
 - [[Momenta]], [[CaoXudong]], [[AutonomousDrivingDataFlywheel]], and [[LowCostShortCycleValidation]] — autonomous-driving-first physical-AI route added by the Momenta interview.
 - [[TrevorBlackwell]], [[Anybots]], and [[DynamicBalancingRobotics]] — historical physical-control route added by The Social Radars source.
+- [[PhysicalIntelligence]], [[KPhysicalIntelligence|K]], [[PhysicalIntelligencePiSeries]], [[RobotExperienceData]], [[RobotEvaluationProblem]], and [[RobotFormFactorPragmatism]] — research-led robot-brain route added by episode 146.

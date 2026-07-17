@@ -131,6 +131,10 @@
     "title": "145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？",
     "url": "/wiki/sources/145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou/"
   },
+  "146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv": {
+    "title": "146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角",
+    "url": "/wiki/sources/146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv/"
+  },
   "147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004": {
     "title": "147. 非洲神话：腋毛创世, 土狼下蛋及哪吒的另一版本",
     "url": "/wiki/sources/147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004/"
@@ -9343,6 +9347,10 @@
     "title": "K Computer",
     "url": "/wiki/entities/kcomputer/"
   },
+  "KPhysicalIntelligence": {
+    "title": "K (Physical Intelligence)",
+    "url": "/wiki/entities/kphysicalintelligence/"
+  },
   "KRASOncologyTarget": {
     "title": "KRAS Oncology Target",
     "url": "/wiki/concepts/krasoncologytarget/"
@@ -12831,6 +12839,10 @@
     "title": "Physical Intelligence",
     "url": "/wiki/entities/physicalintelligence/"
   },
+  "PhysicalIntelligencePiSeries": {
+    "title": "Physical Intelligence Pi Model Series",
+    "url": "/wiki/entities/physicalintelligencepiseries/"
+  },
   "PhysicalVideoMediaRevival": {
     "title": "Physical Video Media Revival",
     "url": "/wiki/concepts/physicalvideomediarevival/"
@@ -14183,6 +14195,22 @@
     "title": "Robot Delivery Economics",
     "url": "/wiki/concepts/robotdeliveryeconomics/"
   },
+  "RobotEvaluationProblem": {
+    "title": "Robot Evaluation Problem",
+    "url": "/wiki/concepts/robotevaluationproblem/"
+  },
+  "RobotExperienceData": {
+    "title": "Robot Experience Data",
+    "url": "/wiki/concepts/robotexperiencedata/"
+  },
+  "RobotFormFactorPragmatism": {
+    "title": "Robot Form-Factor Pragmatism",
+    "url": "/wiki/concepts/robotformfactorpragmatism/"
+  },
+  "RobotGeneralizationPerformanceTradeoff": {
+    "title": "Robot Generalization Performance Tradeoff",
+    "url": "/wiki/concepts/robotgeneralizationperformancetradeoff/"
+  },
   "RobotLiveliness": {
     "title": "Robot Liveliness",
     "url": "/wiki/concepts/robotliveliness/"
@@ -14190,6 +14218,10 @@
   "RobotLogisticsSorting": {
     "title": "Robot Logistics Sorting",
     "url": "/wiki/concepts/robotlogisticssorting/"
+  },
+  "RobotReinforcementLearning": {
+    "title": "Robot Reinforcement Learning",
+    "url": "/wiki/concepts/robotreinforcementlearning/"
   },
   "RobotTeleoperationAndRemoteTakeover": {
     "title": "Robot Teleoperation and Remote Takeover",

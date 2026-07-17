@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-18] ingest | 146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角
+
+Added source page for the 张小珺Jùn｜商业访谈录 episode with K of Physical Intelligence on Pi 0/0.5/0.6*, robot experience data, reinforcement learning, VLA, evaluation, form factors, and embodied-AI company routes. Created pages for K (Physical Intelligence), Physical Intelligence Pi Model Series, Robot Experience Data, Robot Reinforcement Learning, Robot Generalization Performance Tradeoff, Robot Evaluation Problem, and Robot Form-Factor Pragmatism; updated overview, index, Physical Intelligence, Physical AI, Vision Language Action Models, Real Robot Data Strategy, Layered Robot Architecture, and 张小珺Jùn｜商业访谈录. No direct contradiction found; the source predates Pi 0.7, so it complements the later Pi 0.7/world-model-fusion discussion rather than superseding it.
+
 ## [2026-07-18] ingest | 94.吉卜力的天才们：我的人生，交给热爱和友谊
 
 Added source page for the 蜜獾吃书 episode on 《吉卜力的天才们》, Studio Ghibli, 宫崎骏, 高畑勋, 铃木敏夫, 《风之谷》, 《龙猫》, 《萤火虫之墓》, 《幽灵公主》, 《千与千寻》, 《你想活出怎样的人生》, producer mediation, and animation-studio creative ecology. Created pages for Studio Ghibli, Toshio Suzuki, Isao Takahata, 《风之谷》, 《龙猫》, 《萤火虫之墓》, 《幽灵公主》, 《你想活出怎样的人生》, Creative Producer Mediation, and Animation Studio Creative Ecology; updated overview, index, 蜜獾吃书, Hayao Miyazaki, Spirited Away, Director Myth Deflation, Auteur Theory, and Art Commerce Integration. No direct contradiction found; the source extends existing Miyazaki/Spirited Away and director-myth pages by making production, friendship, producer judgment, labor, and distribution visible.
@@ -3794,6 +3798,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-18] graph | Knowledge graph rebuilt
 
 4998 nodes, 49201 edges (49201 extracted, 0 inferred).
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-18] lint | Wiki health check
 
