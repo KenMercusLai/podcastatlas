@@ -487,6 +487,10 @@
     "title": "91.猎巫：塞勒姆1692，从癔症开始",
     "url": "/wiki/sources/91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018/"
   },
+  "92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350": {
+    "title": "92.柏拉图上班记：用哲学搞笑职场",
+    "url": "/wiki/sources/92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350/"
+  },
   "93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489": {
     "title": "93.聊聊头发：秃了，就会变强吗？",
     "url": "/wiki/sources/93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489/"
@@ -2439,6 +2443,10 @@
     "title": "Barry Prizant",
     "url": "/wiki/entities/barryprizant/"
   },
+  "BaruchSpinoza": {
+    "title": "Baruch Spinoza / 斯宾诺莎",
+    "url": "/wiki/entities/baruchspinoza/"
+  },
   "BasicBrownBearFactory": {
     "title": "Basic Brown Bear Factory",
     "url": "/wiki/entities/basicbrownbearfactory/"
@@ -2538,6 +2546,10 @@
   "BernardGui": {
     "title": "贝尔纳 / Bernard Gui",
     "url": "/wiki/entities/bernardgui/"
+  },
+  "BernardHenriLevy": {
+    "title": "Bernard-Henri Levy / 伯纳德-亨利·列维",
+    "url": "/wiki/entities/bernardhenrilevy/"
   },
   "BernardMandeville": {
     "title": "Bernard Mandeville",
@@ -2658,6 +2670,10 @@
   "Blackstone": {
     "title": "Blackstone",
     "url": "/wiki/entities/blackstone/"
+  },
+  "BlaisePascal": {
+    "title": "Blaise Pascal / 帕斯卡",
+    "url": "/wiki/entities/blaisepascal/"
   },
   "BlakeRoss": {
     "title": "Blake Ross",
@@ -3322,6 +3338,10 @@
   "CharlesHenderson": {
     "title": "Charles Henderson",
     "url": "/wiki/entities/charleshenderson/"
+  },
+  "CharlesPepin": {
+    "title": "夏尔·佩潘 / Charles Pepin",
+    "url": "/wiki/entities/charlespepin/"
   },
   "CharlesPonzi": {
     "title": "Charles Ponzi",
@@ -4131,6 +4151,10 @@
     "title": "Corporate-Owned Startup Constraints",
     "url": "/wiki/concepts/corporateownedstartupconstraints/"
   },
+  "CorporateTheologyCapitalControl": {
+    "title": "Corporate Theology And Capital Control",
+    "url": "/wiki/concepts/corporatetheologycapitalcontrol/"
+  },
   "CosmicHorror": {
     "title": "Cosmic Horror",
     "url": "/wiki/concepts/cosmichorror/"
@@ -4899,6 +4923,10 @@
     "title": "丁香医生",
     "url": "/wiki/entities/dingxiangdoctor/"
   },
+  "Diogenes": {
+    "title": "Diogenes / 第欧根尼",
+    "url": "/wiki/entities/diogenes/"
+  },
   "Dionysus": {
     "title": "Dionysus / 狄俄尼索斯",
     "url": "/wiki/entities/dionysus/"
@@ -5630,6 +5658,10 @@
   "EnvironmentalWorkingGroup": {
     "title": "Environmental Working Group",
     "url": "/wiki/entities/environmentalworkinggroup/"
+  },
+  "Epicurus": {
+    "title": "Epicurus / 伊壁鸠鲁",
+    "url": "/wiki/entities/epicurus/"
   },
   "EpistemologicalWarfare": {
     "title": "Epistemological Warfare",
@@ -7583,6 +7615,10 @@
     "title": "Henry Yin",
     "url": "/wiki/entities/henryyin/"
   },
+  "Heraclitus": {
+    "title": "Heraclitus / 赫拉克利特",
+    "url": "/wiki/entities/heraclitus/"
+  },
   "HerbalSupplementLiverToxicity": {
     "title": "Herbal Supplement Liver Toxicity",
     "url": "/wiki/concepts/herbalsupplementlivertoxicity/"
@@ -8211,6 +8247,10 @@
     "title": "Institutional Single-Family Rental",
     "url": "/wiki/concepts/institutionalsinglefamilyrental/"
   },
+  "InstitutionalizedSmallFreedom": {
+    "title": "Institutionalized Small Freedom",
+    "url": "/wiki/concepts/institutionalizedsmallfreedom/"
+  },
   "InstrumentalBeliefCritique": {
     "title": "Instrumental Belief Critique",
     "url": "/wiki/concepts/instrumentalbeliefcritique/"
@@ -8507,6 +8547,10 @@
     "title": "Jacob Cram",
     "url": "/wiki/entities/jacobcram/"
   },
+  "JacquesDerrida": {
+    "title": "Jacques Derrida / 德里达",
+    "url": "/wiki/entities/jacquesderrida/"
+  },
   "JajuPierogi": {
     "title": "Jaju Pierogi",
     "url": "/wiki/entities/jajupierogi/"
@@ -8590,6 +8634,10 @@
   "Jason": {
     "title": "Jason / 伊阿宋",
     "url": "/wiki/entities/jason/"
+  },
+  "JeanJacquesRousseau": {
+    "title": "Jean-Jacques Rousseau / 卢梭",
+    "url": "/wiki/entities/jeanjacquesrousseau/"
   },
   "JeanLucMelenchon": {
     "title": "Jean-Luc Melenchon",
@@ -8959,6 +9007,10 @@
     "title": "Judicial Independence And Public Opinion",
     "url": "/wiki/concepts/judicialindependencepublicopinion/"
   },
+  "JulCartoonist": {
+    "title": "Jul / 朱勒尔",
+    "url": "/wiki/entities/julcartoonist/"
+  },
   "JulesAndJim": {
     "title": "《祖与占》 / Jules and Jim",
     "url": "/wiki/entities/julesandjim/"
@@ -9058,6 +9110,10 @@
   "KangHongwen": {
     "title": "康宏文 Henry",
     "url": "/wiki/entities/kanghongwen/"
+  },
+  "KarlMarx": {
+    "title": "Karl Marx / 马克思",
+    "url": "/wiki/entities/karlmarx/"
   },
   "KarlPopper": {
     "title": "Karl Popper / 卡尔·波普尔",
@@ -9310,6 +9366,10 @@
   "LTVBasedGrowthBudgeting": {
     "title": "LTV-Based Growth Budgeting",
     "url": "/wiki/concepts/ltvbasedgrowthbudgeting/"
+  },
+  "LaborMoralAmbivalence": {
+    "title": "Labor Moral Ambivalence",
+    "url": "/wiki/concepts/labormoralambivalence/"
   },
   "LabourLeadershipCrisis": {
     "title": "Labour Leadership Crisis",
@@ -10811,6 +10871,14 @@
     "title": "Michael Seibel",
     "url": "/wiki/entities/michaelseibel/"
   },
+  "MichelDeMontaigne": {
+    "title": "Michel de Montaigne / 蒙田",
+    "url": "/wiki/entities/micheldemontaigne/"
+  },
+  "MichelFoucault": {
+    "title": "Michel Foucault / 福柯",
+    "url": "/wiki/entities/michelfoucault/"
+  },
   "MichelPlatini": {
     "title": "Michel Platini",
     "url": "/wiki/entities/michelplatini/"
@@ -11675,6 +11743,10 @@
     "title": "Office-Linked Profit Accounting",
     "url": "/wiki/concepts/officelinkedprofitaccounting/"
   },
+  "OfficeSurveillancePrivacy": {
+    "title": "Office Surveillance And Privacy",
+    "url": "/wiki/concepts/officesurveillanceprivacy/"
+  },
   "OfflineAIImplementation": {
     "title": "Offline AI Implementation",
     "url": "/wiki/concepts/offlineaiimplementation/"
@@ -12355,6 +12427,10 @@
     "title": "Philippines",
     "url": "/wiki/entities/philippines/"
   },
+  "PhilosophyWorkplaceSatire": {
+    "title": "Philosophy Workplace Satire",
+    "url": "/wiki/concepts/philosophyworkplacesatire/"
+  },
   "PhysicalAGI": {
     "title": "Physical AGI",
     "url": "/wiki/concepts/physicalagi/"
@@ -12486,6 +12562,14 @@
   "PlatformizedDramaProduction": {
     "title": "Platformized Drama Production",
     "url": "/wiki/concepts/platformizeddramaproduction/"
+  },
+  "Plato": {
+    "title": "Plato / 柏拉图",
+    "url": "/wiki/entities/plato/"
+  },
+  "PlatoGoesToWork": {
+    "title": "《柏拉图上班记：哲学家的职场百态》",
+    "url": "/wiki/entities/platogoestowork/"
   },
   "Plaxo": {
     "title": "Plaxo",
@@ -14719,6 +14803,10 @@
     "title": "Social Trust And Happiness",
     "url": "/wiki/concepts/socialtrustandhappiness/"
   },
+  "Socrates": {
+    "title": "Socrates / 苏格拉底",
+    "url": "/wiki/entities/socrates/"
+  },
   "SodiumIonBatteryStorage": {
     "title": "Sodium-Ion Battery Storage",
     "url": "/wiki/concepts/sodiumionbatterystorage/"
@@ -15819,6 +15907,10 @@
     "title": "Thibaut-Louis Lucas",
     "url": "/wiki/entities/thibautlouislucas/"
   },
+  "ThinkReasonLtd": {
+    "title": "思考理性有限公司 / Think Reason Ltd.",
+    "url": "/wiki/entities/thinkreasonltd/"
+  },
   "ThinkingMachinesLab": {
     "title": "Thinking Machines Lab",
     "url": "/wiki/entities/thinkingmachineslab/"
@@ -15842,6 +15934,10 @@
   "ThirtySeven": {
     "title": "《37》",
     "url": "/wiki/entities/thirtyseven/"
+  },
+  "ThomasAquinas": {
+    "title": "Thomas Aquinas / 托马斯·阿奎那",
+    "url": "/wiki/entities/thomasaquinas/"
   },
   "ThomasHobbes": {
     "title": "Thomas Hobbes / 托马斯·霍布斯",
@@ -16675,6 +16771,10 @@
     "title": "Volodymyr Zelensky",
     "url": "/wiki/entities/volodymyrzelensky/"
   },
+  "Voltaire": {
+    "title": "Voltaire / 伏尔泰",
+    "url": "/wiki/entities/voltaire/"
+  },
   "VolunteerCareReciprocity": {
     "title": "Volunteer Care Reciprocity",
     "url": "/wiki/concepts/volunteercarereciprocity/"
@@ -16726,6 +16826,10 @@
   "WaltWhitman": {
     "title": "Walt Whitman / 惠特曼",
     "url": "/wiki/entities/waltwhitman/"
+  },
+  "WalterBenjamin": {
+    "title": "Walter Benjamin / 本雅明",
+    "url": "/wiki/entities/walterbenjamin/"
   },
   "WalterMMillerJr": {
     "title": "Walter M. Miller Jr.",

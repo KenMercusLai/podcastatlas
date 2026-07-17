@@ -2,7 +2,7 @@
 title: "Workplace Hidden Rules"
 type: concept
 tags: [career, workplace, communication]
-sources: [ep36-di-yi-pi-you-biye-jiaolv-de-00-hou-kaishi-xuehui-yong-shixi-yinzhen-zhike-lj5s97tbtj2gly7oppujgsv3cgk8, ep41-chengjiu-zhichang-dasheng-yuanli-tianming-zhangwo-xiangshang-guanli-lrkefagxfcan-faiyoalofhevidp, ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg, ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq, ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, 48-kaishi-daji-diyiliu-de-youmo-fengci-627375908]
+sources: [ep36-di-yi-pi-you-biye-jiaolv-de-00-hou-kaishi-xuehui-yong-shixi-yinzhen-zhike-lj5s97tbtj2gly7oppujgsv3cgk8, ep41-chengjiu-zhichang-dasheng-yuanli-tianming-zhangwo-xiangshang-guanli-lrkefagxfcan-faiyoalofhevidp, ep25-zhongzi-waizi-najia-qiang-yi-lao-yong-yi-zhao-qianliang-xia-feat-qianliang-hutong-fm-lshfotcmlkqcx6hhtvbpcuqdwuhg, ep21-shui-zai-yu-zhong-shui-zai-dianfeng-zhouqi-zhong-de-yi-li-hui-jinrongren-de-xi-yu-bei-lty9rigjklgga48dxw1y2-01xspq, ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu, ep58-ye-ji-ping-ping-ye-yao-ren-zhen-mo-yu-llmcb9cqw2gwq3zrigovtkvlh55c, ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t, da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf, 48-kaishi-daji-diyiliu-de-youmo-fengci-627375908, 92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350]
 last_updated: 2026-07-12
 ---
 
@@ -13,6 +13,8 @@ Workplace hidden rules are the implicit communication, etiquette, and relationsh
 [[da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf]] adds the large-internet-company and outsourcing version. [[ZhengYou]] learns to ask how performance is evaluated, report progress, manage supervisor expectations, and convert effort into visible evidence; after becoming full-time, he experiences internal apps, card access, and facilities as hidden infrastructure that had previously marked inequality.
 
 [[48-kaishi-daji-diyiliu-de-youmo-fengci-627375908]] adds a literary case through [[BuChengWenTiDeWenTi|《不成问题的问题》]]. Ding Woyuan's "会办事" is a hidden-rule system in which favors, family errands, slack, and comfort keep a weak organization stable, while You Daxing's professional reform fails because it violates the surrounding [[RenqingOrder]].
+
+[[92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350]] adds a comic philosophy case through [[PlatoGoesToWork|《柏拉图上班记：哲学家的职场百态》]]. The intern learns the company through onboarding, departments, gossip, machines, bosses, sales fights, and accidental contract destruction, showing that even a fictional philosophy company has implicit rules that are learned by mishap.
 
 ## Key Claims
 - Hidden rules usually reduce other people's coordination cost rather than merely enforce hierarchy.
@@ -47,3 +49,4 @@ Workplace hidden rules are the implicit communication, etiquette, and relationsh
 - [[ZhengYou]] — large-company outsourcing-to-full-time case added by the Mianji source.
 - [[BigCompanyHalo]], [[SystemHumanity]], and [[CareerShoreMyth]] — adjacent big-company concepts added or extended by the same source.
 - [[BuChengWenTiDeWenTi|《不成问题的问题》]] and [[RenqingOrder]] — literary case where "会办事" defeats direct professional reform.
+- [[PhilosophyWorkplaceSatire]] and [[ThinkReasonLtd|思考理性有限公司]] — source-92 comic case where onboarding exposes hidden rules.

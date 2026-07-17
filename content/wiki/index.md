@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [92.柏拉图上班记：用哲学搞笑职场](sources/92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350.md) — 蜜獾吃书 episode on 《柏拉图上班记》, philosophy as workplace satire, labor morality, open-office surveillance, capital-as-boss, managed freedom, and philosophers recast as company roles.
 - [91.猎巫：塞勒姆1692，从癔症开始](sources/91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018.md) — 蜜獾吃书 episode on Stacy Schiff's 《猎巫：塞勒姆1692》, the Salem witch trials, spectral evidence, coerced accusation, Puritan community fear, witch-hunt mechanisms, and modern internet moral trial.
 - [90.酉阳杂俎：血滴子和武则天手指上的黑毛](sources/90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933.md) — 蜜獾吃书 episode on 段成式《酉阳杂俎》 as a Tang miscellany of strange tales, court rumor, religion, story motifs, underworld bureaucracy, elite cruelty, and archival imagination.
 - [89.剑桥夜攀者：让我们庄严地上房揭瓦](sources/89-jianqiao-yepanzhe-rang-women-zhuangyan-de-shangfang-jiewa-710382629.md) — 蜜獾吃书 episode on 《剑桥夜攀者》, Cambridge night climbing, student prank ethics, roofscape attention, King's College Chapel tower legends, and Noel H. Symington's Whipplesnaith authorship.
@@ -459,6 +460,26 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《柏拉图上班记：哲学家的职场百态》](entities/PlatoGoesToWork.md) — Comic-and-essay book that turns philosophy history into workplace satire inside 思考理性有限公司.
+- [思考理性有限公司 / Think Reason Ltd.](entities/ThinkReasonLtd.md) — Fictional company whose philosopher-staffed org chart drives episode 92's office satire.
+- [夏尔·佩潘 / Charles Pepin](entities/CharlesPepin.md) — Philosophy author credited as co-creator of 《柏拉图上班记》 and source for the episode's labor-history explanation.
+- [Jul / 朱勒尔](entities/JulCartoonist.md) — Satirical cartoonist credited as visual co-creator of 《柏拉图上班记》.
+- [Plato / 柏拉图](entities/Plato.md) — Intern-viewpoint figure whose onboarding tour structures the episode's philosophy workplace satire.
+- [Socrates / 苏格拉底](entities/Socrates.md) — Mentor figure whose cave and hemlock motifs are rebuilt as office onboarding jokes.
+- [Michel Foucault / 福柯](entities/MichelFoucault.md) — Monitoring officer figure used by episode 92 to discuss workplace surveillance and restroom privacy.
+- [Blaise Pascal / 帕斯卡](entities/BlaisePascal.md) — Employee caught gambling at work, connecting distraction, boredom, death anxiety, and monitored "摸鱼".
+- [Baruch Spinoza / 斯宾诺莎](entities/BaruchSpinoza.md) — Figure who reframes the absent boss-God as "NATURE" capital in the source's corporate theology joke.
+- [Thomas Aquinas / 托马斯·阿奎那](entities/ThomasAquinas.md) — Catholic workers' union envoy who defends God and criticizes brutalizing commercial competition.
+- [Walter Benjamin / 本雅明](entities/WalterBenjamin.md) — Copier-scene figure used to literalize mechanical reproduction as office work.
+- [Karl Marx / 马克思](entities/KarlMarx.md) — Union graphic designer figure whose office-file mishap turns labor politics into workplace workflow satire.
+- [Jean-Jacques Rousseau / 卢梭](entities/JeanJacquesRousseau.md) — Salesperson fighting Voltaire over credit and competition in the episode's Enlightenment-as-office-conflict scene.
+- [Voltaire / 伏尔泰](entities/Voltaire.md) — Salesperson fighting Rousseau, linking Enlightenment rationality to company competition and Nietzsche's critique.
+- [Jacques Derrida / 德里达](entities/JacquesDerrida.md) — Copier repair figure whose dismantled machine becomes a deconstruction joke.
+- [Diogenes / 第欧根尼](entities/Diogenes.md) — Barrel and open-office refusal figure used to contrast Cynic freedom with managed corporate freedom.
+- [Michel de Montaigne / 蒙田](entities/MichelDeMontaigne.md) — Essay/probation pun figure whose short reports and endless trial period become office satire.
+- [Epicurus / 伊壁鸠鲁](entities/Epicurus.md) — Ancient philosopher appearing around copier and farewell-party scenes as part of the episode's everyday office ecology.
+- [Heraclitus / 赫拉克利特](entities/Heraclitus.md) — Farewell-party figure whose repeated resignation and rehiring turn change into company routine.
+- [Bernard-Henri Levy / 伯纳德-亨利·列维](entities/BernardHenriLevy.md) — Public intellectual figure folded into the BHL/DHL delivery joke and media-persona discussion.
 - [The Witches: Salem, 1692 / 《猎巫：塞勒姆1692》](entities/TheWitchesSalem1692.md) — Stacy Schiff book read by episode 91 as a case study in Salem, witch-hunt escalation, evidentiary collapse, and public accusation.
 - [Stacy Schiff / 斯泰西·西夫](entities/StacySchiff.md) — Author of 《猎巫：塞勒姆1692》 as used by episode 91 to frame the Salem witch trials.
 - [Salem Witch Trials / 塞勒姆猎巫](entities/SalemWitchTrials.md) — 1692 New England witch-trial case used by episode 91 to analyze fear, accusation, spectral evidence, and institutional violence.
@@ -2930,6 +2951,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Philosophy Workplace Satire](concepts/PhilosophyWorkplaceSatire.md) — Method of translating philosophers and concepts into company roles, office props, and workplace procedures.
+- [Labor Moral Ambivalence](concepts/LaborMoralAmbivalence.md) — Frame for work as suffering, punishment, virtue, identity, coercion, and economic necessity at once.
+- [Office Surveillance And Privacy](concepts/OfficeSurveillancePrivacy.md) — Workplace visibility-control problem shown through open offices, screens, restroom cameras, and monitored distraction.
+- [Corporate Theology And Capital Control](concepts/CorporateTheologyCapitalControl.md) — Boss-God/capital joke where symbolic authority and effective ownership power diverge.
+- [Institutionalized Small Freedom](concepts/InstitutionalizedSmallFreedom.md) — Warning that scheduled, supervised freedoms such as no-tie Friday can become another company rule.
 - [Witch-Hunt Mechanism / 猎巫机制](concepts/WitchHuntMechanism.md) — Episode 91 frame for how closedness, oppression, authority guidance, and pseudo-rationality turn fear into internal enemy-making.
 - [Spectral Evidence / 幽灵证据](concepts/SpectralEvidence.md) — Salem evidentiary failure where visions, invisible attacks, and courtroom suffering are treated as proof.
 - [Tang Miscellany Archive Value](concepts/TangMiscellanyArchiveValue.md) — Episode 90 frame for reading 《酉阳杂俎》 as a mixed archive whose odd details preserve cultural clues without requiring every marvel to be verified or dismissed.

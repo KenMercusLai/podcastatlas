@@ -3676,3 +3676,12 @@ Added source page for the 蜜獾吃书 episode on Stacy Schiff's 《猎巫：塞
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+
+## [2026-07-18] ingest | 92.柏拉图上班记：用哲学搞笑职场
+
+Added source page for the 蜜獾吃书 episode on 《柏拉图上班记：哲学家的职场百态》, using 思考理性有限公司 to connect philosophers to HR, monitoring, open-office privacy, labor morality, copier failure, union design, sales competition, boss theology, and managed freedom. Created pages for the book, fictional company, Charles Pepin, Jul, Plato, Socrates, Michel Foucault, Blaise Pascal, Baruch Spinoza, Thomas Aquinas, Walter Benjamin, Karl Marx, Voltaire, Jean-Jacques Rousseau, Jacques Derrida, Diogenes, Montaigne, Epicurus, Heraclitus, Bernard-Henri Levy, and the concepts Philosophy Workplace Satire, Labor Moral Ambivalence, Office Surveillance And Privacy, Corporate Theology And Capital Control, and Institutionalized Small Freedom; updated overview, index, 蜜獾吃书, Friedrich Nietzsche, Rene Descartes, Niccolo Machiavelli, Pure Rationality Trap, Workplace Pacing, and Workplace Hidden Rules. No direct contradiction found; the source extends existing rationality, workplace, and surveillance branches by showing how philosophy jokes can be grounded in precise modern office structures.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-18 with 4,694 nodes and 46,331 edges; they found no hub stubs, one fragile bridge (`entities/WangYong` -> `concepts/AIPlusTerminals`), and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.

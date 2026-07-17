@@ -2,7 +2,7 @@
 title: "Rene Descartes / 笛卡尔"
 type: entity
 tags: [person, philosophy, science, epistemology]
-sources: [174-du-dikaer-shi-jian-dashi-966856702, 91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]
+sources: [174-du-dikaer-shi-jian-dashi-966856702, 91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018, 92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350]
 last_updated: 2026-07-18
 ---
 
@@ -13,6 +13,8 @@ Rene Descartes / 笛卡尔 is the early modern philosopher at the center of [[17
 The episode gives a biographical route into the method. Descartes's education, military travel, meeting with [[IsaacBeeckman]], withdrawal to the Netherlands, caution after [[GalileoGalilei|Galileo]]'s trial, correspondence with [[PrincessElisabethOfBohemia|Princess Elisabeth]], and death after joining [[QueenChristinaOfSweden|Queen Christina]]'s court all become context for why he sought stable intellectual ground without simply becoming a public religious polemicist.
 
 [[91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]] adds Descartes as a practical antidote to [[WitchHuntMechanism]]. The source invokes his method after the [[SalemWitchTrials|塞勒姆猎巫]] to argue that pseudo-rational accusation should be broken into checkable steps rather than accepted because it feels coherent or morally urgent.
+
+[[92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350]] adds a comic workplace Descartes. In [[PlatoGoesToWork|《柏拉图上班记：哲学家的职场百态》]], [[MichelFoucault|福柯]] monitors the restroom and can infer how long Descartes will remain there because he is thinking on the toilet. The source uses the gag to connect meditation, bodily privacy, and the risk of thought sealed off from everyday experience.
 
 ## Source Position
 - The episode treats Descartes as more complex than the labels "mechanist" or "dualism source" suggest.
@@ -29,3 +31,4 @@ The episode gives a biographical route into the method. Descartes's education, m
 - [[IsaacBeeckman]] - mathematical and scientific influence in the episode's biographical arc.
 - [[GalileoGalilei]] - historical warning around new science and religious authority.
 - [[WitchHuntMechanism]], [[SpectralEvidence]], and [[RationalHumility]] - source-91 extension into resisting accusation-based reasoning.
+- [[OfficeSurveillancePrivacy]] - source-92 extension into restroom monitoring, bodily privacy, and thought under surveillance.
