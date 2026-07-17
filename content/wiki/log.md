@@ -3762,6 +3762,14 @@ Ran lint. See lint-report.md for details.
 
 Added source page for the Planet Money episode on why the United States guarantees no paid vacation by federal law. Created pages for Adewale Maie, Gary Cross, Daniel Hamermesh, Tom Cohen, American Federation of Labor, Paid Vacation As Labor Right, and Employer-Bargained Benefits; updated overview, index, NPR, Planet Money, Sarah Gonzalez, MIT, Spain, and Labor Moral Ambivalence. No direct contradiction found; the source extends the wiki's labor branch by treating paid vacation as a political and institutional design problem rather than a simple product of culture, taxes, or consumerism.
 
+## [2026-07-18] ingest | The giant factory town that might be a giant mistake
+
+Added source page for the Planet Money episode on Manaus, Brazil's Zona Franca free-zone factory model, middle-income trap, subsidy-dependent assembly, protected domestic-market industrialization, premature deindustrialization, and local innovation paths through advanced agriculture and biodegradable plastics. Created pages for Manaus, Zona Franca de Manaus, Bosco Saraiva, Johnny Fidelis Santos, Port Chibatao, Homi Kharas, Mayara Felix, World Bank, Tutiplast, Gabrielle Santos, Middle-Income Trap, Subsidized Assembly Industrialization, Industrial Subsidy Dependence, Protected Domestic-Market Industrialization, Premature Deindustrialization, Advanced Agriculture Innovation, Localized Innovation Advantage, and Biodegradable Amazon Plastics; updated overview, index, Brazil, NPR, and Planet Money. No direct contradiction found; the source complements the China build-capacity branch by showing that physical factories and industrial zones do not guarantee self-sustaining technology upgrading.
+
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint. Report printed in session; semantic checks unavailable because LiteLLM model/provider configuration is missing.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

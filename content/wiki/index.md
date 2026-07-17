@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The giant factory town that might be a giant mistake](sources/the-giant-factory-town-that-might-be-a-giant-mistake.md) — Planet Money episode on Manaus, Brazil's free-zone factory model, subsidy-dependent assembly, the middle-income trap, premature deindustrialization, and local innovation paths beyond old manufacturing.
 - [Why the U.S. Has No Guaranteed Paid Vacation](sources/why-the-us-has-no-guaranteed-paid-vacation.md) — Planet Money episode on the U.S. paid-vacation outlier, European vacation rights, workplace guilt, rejected culture/tax explanations, and employer-bargained benefits.
 - [Jerome Powell and the Test of Fed Independence](sources/jerome-powell-and-the-test-of-fed-independence.md) — Planet Money episode on Jerome Powell, Trump pressure, Martin/Burns Fed history, Lael Brainard, inflation bias, Fed board removal law, and central-bank independence.
 - [The secret meeting that launched OPEC](sources/the-secret-meeting-that-launched-opec.md) — Planet Money episode on OPEC's origin against the Seven Sisters, the 1973 oil shock, Saudi swing production, quota cheating, UAE exit pressure, and why Hormuz disruption limits near-term gasoline relief.
@@ -470,6 +471,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Manaus](entities/Manaus.md) — Brazilian Amazon city used by Planet Money as the concrete case for free-zone manufacturing, subsidy dependence, and middle-income-trap limits.
+- [Zona Franca de Manaus](entities/ZonaFrancaDeManaus.md) — Special economic zone created in 1967 that turned Manaus into a factory hub while leaving it dependent on tax incentives.
+- [Bosco Saraiva](entities/BoscoSaraiva.md) — Manaus local source who frames the free zone as both an opportunity engine and an economically fragile subsidy-dependent industrial base.
+- [Johnny Fidelis Santos](entities/JohnnyFidelisSantos.md) — Port Chibatao source explaining that much Manaus cargo comes from Asia, making imported-component dependence visible.
+- [Port Chibatao](entities/PortChibatao.md) — Manaus logistics site where imported components reveal the assembly-heavy structure of the free-zone manufacturing model.
+- [Homi Kharas](entities/HomiKharas.md) — Economist who helped coin the middle-income-trap frame used to interpret Brazil's stalled development path.
+- [Mayara Felix](entities/MayaraFelix.md) — Brazilian economist arguing that Brazil needs productivity paths beyond copying East Asian export-led manufacturing.
+- [World Bank](entities/WorldBank.md) — Development institution tied to the middle-income-trap diagnosis and report discussed in the Planet Money episode.
+- [Tutiplast](entities/Tutiplast.md) — Manaus plastics company used as an example of locally grounded innovation beyond subsidy-dependent assembly.
+- [Gabrielle Santos](entities/GabrielleSantos.md) — Material scientist at Tutiplast working on biodegradable plastics from Brazil nut shells and other plant waste.
 - [Adewale Maie](entities/AdewaleMaie.md) — Labor researcher whose Spain vacation observation opens Planet Money's U.S. paid-vacation comparison.
 - [Gary Cross](entities/GaryCross.md) — Historian explaining European paid-leisure politics, festivals, and American work-ethic context in the vacation episode.
 - [Daniel Hamermesh](entities/DanielHamermesh.md) — Labor economist who rejects simple culture, tax, and consumerism explanations for the U.S. vacation gap.
@@ -3016,6 +3027,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Middle-Income Trap](concepts/MiddleIncomeTrap.md) — Development problem where countries become too expensive for low-wage manufacturing before they can innovate like rich economies.
+- [Subsidized Assembly Industrialization](concepts/SubsidizedAssemblyIndustrialization.md) — Factory-growth pattern where incentives attract assembly work without local control of high-value components or technology.
+- [Industrial Subsidy Dependence](concepts/IndustrialSubsidyDependence.md) — Fragility created when an industrial hub remains viable only because public incentives keep firms there.
+- [Protected Domestic-Market Industrialization](concepts/ProtectedDomesticMarketIndustrialization.md) — Industrial path where sheltered home-market factories grow without enough pressure to become globally competitive.
+- [Premature Deindustrialization](concepts/PrematureDeindustrialization.md) — Pattern where countries lose manufacturing's employment and growth role before reaching high-income status.
+- [Advanced Agriculture Innovation](concepts/AdvancedAgricultureInnovation.md) — Brazil growth path treating crop adaptation, sustainability, and productivity research as high-knowledge development work.
+- [Localized Innovation Advantage](concepts/LocalizedInnovationAdvantage.md) — Strategy of escaping middle-income stagnation through local resources, constraints, markets, and knowledge rather than copied factory ladders.
+- [Biodegradable Amazon Plastics](concepts/BiodegradableAmazonPlastics.md) — Tutiplast example of turning Amazon plant waste into material-science innovation rooted in local inputs.
 - [Paid Vacation As Labor Right](concepts/PaidVacationAsLaborRight.md) — Legal paid-time-off baseline contrasted with the U.S. system of employer-dependent vacation access.
 - [Employer-Bargained Benefits](concepts/EmployerBargainedBenefits.md) — U.S. benefits architecture where vacation, pensions, and health insurance are negotiated rather than universalized.
 - [Oil Producer Supply Coordination](concepts/OilProducerSupplyCoordination.md) — Mechanism by which oil-producing states influence prices by coordinating output rather than directly setting retail fuel prices.

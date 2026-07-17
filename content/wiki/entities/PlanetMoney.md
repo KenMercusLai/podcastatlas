@@ -2,7 +2,7 @@
 title: "Planet Money"
 type: entity
 tags: [podcast, media, economics]
-sources: [the-secret-meeting-that-launched-opec, diary-of-a-wnba-negotiator, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down, jerome-powell-and-the-test-of-fed-independence, why-the-us-has-no-guaranteed-paid-vacation]
+sources: [the-secret-meeting-that-launched-opec, diary-of-a-wnba-negotiator, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down, jerome-powell-and-the-test-of-fed-independence, why-the-us-has-no-guaranteed-paid-vacation, the-giant-factory-town-that-might-be-a-giant-mistake]
 last_updated: 2026-07-18
 ---
 
@@ -32,6 +32,8 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 
 [[building-things-and-breaking-things-in-china-summer-school-world-tour]] adds a Summer School political-economy case on [[China]]. The episode uses [[DanWang]] and [[Breakneck]] to connect [[EngineeringState]], [[InfrastructureMalinvestment]], [[ChinaRealEstateDebtCycle]], [[ChinaYouthUnemployment]], [[ChinaLowRedistributionState]], and [[BuildBuildRegulate]] into a lesson about building capacity with feedback and guardrails.
 
+[[the-giant-factory-town-that-might-be-a-giant-mistake]] adds a development-economics case on [[Brazil]], [[Manaus]], and the [[ZonaFrancaDeManaus|Zona Franca de Manaus]]. The episode uses [[HomiKharas]] and [[MayaraFelix]] to connect [[MiddleIncomeTrap]], [[SubsidizedAssemblyIndustrialization]], [[IndustrialSubsidyDependence]], [[ProtectedDomesticMarketIndustrialization]], [[PrematureDeindustrialization]], [[AdvancedAgricultureInnovation]], and [[LocalizedInnovationAdvantage]].
+
 [[diary-of-a-wnba-negotiator]] adds a sports-labor economics case. The episode follows [[AliciaClark]], [[BriannaTurner]], and the [[WNBAPlayersAssociation]] as they use [[ClaudiaGoldin]]'s comparison work, spreadsheets, and strike preparation to win [[SportsLaborRevenueSharing]] from the [[WNBA]].
 
 [[the-secret-meeting-that-launched-opec]] adds an oil-market history and current-risk case. The episode uses listener-question framing to explain [[OPEC]], the [[SevenSistersOilMajors|Seven Sisters]], [[WandaJablonski]], the 1973 oil shock, [[OilProducerSupplyCoordination]], [[ProductionQuotaDiscipline]], [[SaudiArabia]]'s [[SwingProducerRole]], and the source's account of the [[UnitedArabEmirates|UAE]] leaving OPEC under [[GreenParadox]] and [[StraitOfHormuz]] pressure.
@@ -56,6 +58,7 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 - [[DietarySupplementRegulation]], [[Prevagen]], [[MarionNestle]], and [[SupplementLabelAccuracy]] - supplement regulation and consumer-health branch added by the supplement episode.
 - [[InstitutionalSingleFamilyRental]], [[BuildToRentHousing]], [[SingleRoomOccupancyHousing]], and [[SROLossAndHomelessness]] - housing-affordability branch added by the rent episode.
 - [[DanWang]], [[EngineeringState]], [[Evergrande]], [[ChinaYouthUnemployment]], and [[BuildBuildRegulate]] - China Summer School branch added by the new episode.
+- [[Brazil]], [[Manaus]], [[HomiKharas]], [[MayaraFelix]], [[MiddleIncomeTrap]], and [[PrematureDeindustrialization]] - Brazil development branch added by the Manaus episode.
 - [[WNBA]], [[WNBAPlayersAssociation]], [[AliciaClark]], [[BriannaTurner]], [[SportsLaborRevenueSharing]], and [[DataBackedLaborBargaining]] - sports-labor branch added by the WNBA negotiation episode.
 - [[OPEC]], [[SevenSistersOilMajors]], [[OilProducerSupplyCoordination]], [[ProductionQuotaDiscipline]], [[SwingProducerRole]], and [[GreenParadox]] - oil-market coordination branch added by the OPEC episode.
 - [[JeromePowell]], [[FederalReserve]], [[LaelBrainard]], [[CentralBankIndependence]], [[InflationBias]], and [[ForCauseRemovalStandard]] - Fed-independence branch added by the Powell episode.
