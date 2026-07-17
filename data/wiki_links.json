@@ -435,6 +435,10 @@
     "title": "68.疯狂实验史：哎！这该死的求知欲…",
     "url": "/wiki/sources/68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549/"
   },
+  "69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465": {
+    "title": "69.闲聊推理文学：历史学者可不就是侦探吗！",
+    "url": "/wiki/sources/69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465/"
+  },
   "71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384": {
     "title": "71.美妆帝国蝴蝶牌：言情小说家的国货创业往事",
     "url": "/wiki/sources/71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384/"
@@ -3027,6 +3031,10 @@
     "title": "Canton, Michigan",
     "url": "/wiki/entities/cantonmichigan/"
   },
+  "CaoCaoTomb": {
+    "title": "曹操墓",
+    "url": "/wiki/entities/caocaotomb/"
+  },
   "CaoXudong": {
     "title": "Cao Xudong",
     "url": "/wiki/entities/caoxudong/"
@@ -3474,6 +3482,10 @@
   "ChineseCrestedTern": {
     "title": "中华凤头燕鸥 / Chinese Crested Tern",
     "url": "/wiki/entities/chinesecrestedtern/"
+  },
+  "ChineseDetectiveModernity": {
+    "title": "Chinese Detective Modernity",
+    "url": "/wiki/concepts/chinesedetectivemodernity/"
   },
   "ChineseDomesticHandsetWaves": {
     "title": "Chinese Domestic Handset Waves",
@@ -5663,6 +5675,10 @@
     "title": "Evidence-Bound Folklore Inquiry",
     "url": "/wiki/concepts/evidenceboundfolkloreinquiry/"
   },
+  "EvidenceBoundHistoricalRevision": {
+    "title": "Evidence-Bound Historical Revision",
+    "url": "/wiki/concepts/evidenceboundhistoricalrevision/"
+  },
   "EvidenceOverTestimony": {
     "title": "Evidence Over Testimony",
     "url": "/wiki/concepts/evidenceovertestimony/"
@@ -6943,6 +6959,10 @@
     "title": "国美 / Gome",
     "url": "/wiki/entities/gome/"
   },
+  "GongAnFiction": {
+    "title": "公案小说 / Gong'an Fiction",
+    "url": "/wiki/concepts/gonganfiction/"
+  },
   "GongCha": {
     "title": "Gong Cha / 共茶",
     "url": "/wiki/entities/gongcha/"
@@ -7554,6 +7574,10 @@
   "Hisense": {
     "title": "海信 / Hisense",
     "url": "/wiki/entities/hisense/"
+  },
+  "HistoricalDetectiveReasoning": {
+    "title": "Historical Detective Reasoning",
+    "url": "/wiki/concepts/historicaldetectivereasoning/"
   },
   "HistoricalMemoryContest": {
     "title": "Historical Memory Contest",
@@ -8811,6 +8835,10 @@
     "title": "Joseph Schumpeter",
     "url": "/wiki/entities/josephschumpeter/"
   },
+  "JosephineTey": {
+    "title": "Josephine Tey / 约瑟芬·铁伊",
+    "url": "/wiki/entities/josephinetey/"
+  },
   "JoshBersin": {
     "title": "Josh Bersin",
     "url": "/wiki/entities/joshbersin/"
@@ -9626,6 +9654,10 @@
   "LisaKSolomon": {
     "title": "Lisa K. Solomon",
     "url": "/wiki/entities/lisaksolomon/"
+  },
+  "LishiBoke": {
+    "title": "《历史播客》",
+    "url": "/wiki/entities/lishiboke/"
   },
   "ListenerSupportedMedia": {
     "title": "Listener-Supported Media",
@@ -12091,6 +12123,10 @@
     "title": "Persistent Agent Memory",
     "url": "/wiki/concepts/persistentagentmemory/"
   },
+  "PersonalArchiveAsHistory": {
+    "title": "Personal Archive As History",
+    "url": "/wiki/concepts/personalarchiveashistory/"
+  },
   "PersonalCreditRecord": {
     "title": "Personal Credit Record",
     "url": "/wiki/concepts/personalcreditrecord/"
@@ -12586,6 +12622,10 @@
   "PrinceHisahito": {
     "title": "Prince Hisahito",
     "url": "/wiki/entities/princehisahito/"
+  },
+  "PrincesInTheTower": {
+    "title": "Princes in the Tower / 塔中王子案",
+    "url": "/wiki/entities/princesinthetower/"
   },
   "PrincessAiko": {
     "title": "Princess Aiko",
@@ -13378,6 +13418,10 @@
   "RichardDawkins": {
     "title": "Richard Dawkins / 理查德·道金斯",
     "url": "/wiki/entities/richarddawkins/"
+  },
+  "RichardIII": {
+    "title": "Richard III / 理查三世",
+    "url": "/wiki/entities/richardiii/"
   },
   "RichardNixon": {
     "title": "Richard Nixon",
@@ -15475,6 +15519,10 @@
     "title": "《机器人大师》 / The Cyberiad",
     "url": "/wiki/entities/thecyberiad/"
   },
+  "TheDaughterOfTime": {
+    "title": "《时间的女儿》 / The Daughter of Time",
+    "url": "/wiki/entities/thedaughteroftime/"
+  },
   "TheDemonHauntedWorld": {
     "title": "《魔鬼出没的世界》 / The Demon-Haunted World",
     "url": "/wiki/entities/thedemonhauntedworld/"
@@ -15490,6 +15538,10 @@
   "TheGreenPlanet": {
     "title": "《绿色星球》",
     "url": "/wiki/entities/thegreenplanet/"
+  },
+  "TheHoundOfTheBaskervilles": {
+    "title": "The Hound of the Baskervilles / 《巴斯克维尔的猎犬》",
+    "url": "/wiki/entities/thehoundofthebaskervilles/"
   },
   "TheInformation": {
     "title": "The Information",
@@ -15554,6 +15606,10 @@
   "TheSocialRadars": {
     "title": "The Social Radars",
     "url": "/wiki/entities/thesocialradars/"
+  },
+  "TheTurnOfTheScrew": {
+    "title": "《螺丝在拧紧》 / The Turn of the Screw",
+    "url": "/wiki/entities/theturnofthescrew/"
   },
   "TheUntimely": {
     "title": "The Untimely",
@@ -17502,6 +17558,10 @@
   "ZhangYueguang": {
     "title": "张月光",
     "url": "/wiki/entities/zhangyueguang/"
+  },
+  "ZhangZhihao": {
+    "title": "张志浩",
+    "url": "/wiki/entities/zhangzhihao/"
   },
   "ZhangmenOneOnOne": {
     "title": "Zhangmen One-on-One",

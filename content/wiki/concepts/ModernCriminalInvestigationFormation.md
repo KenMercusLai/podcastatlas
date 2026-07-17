@@ -2,8 +2,8 @@
 title: "Modern Criminal Investigation Formation"
 type: concept
 tags: [policing, investigation, forensic-evidence, institutions]
-sources: [50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604]
-last_updated: 2026-07-12
+sources: [50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]
+last_updated: 2026-07-18
 ---
 
 # Modern Criminal Investigation Formation
@@ -11,6 +11,8 @@ last_updated: 2026-07-12
 Modern criminal investigation formation is the episode's frame for how forensic and police procedure became more systematic partly through public failures. [[50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604]] grounds the concept in [[ScotlandYard]]'s handling of the [[JackTheRipper]] case.
 
 The source describes early practice as underdeveloped in evidence preservation, corpse photography, medical coordination, file management, press disclosure, and search procedure. The unresolved case made those weaknesses visible. Its later cultural afterlife also shows the cost of weak original procedure: once the archive is damaged or incomplete, later forensic confidence becomes much harder.
+
+[[69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]] adds a literary and translation layer. In that episode, [[SherlockHolmes|Sherlock Holmes / 福尔摩斯]] and late-Qing detective translation stand for procedure, science, evidence, and modern police imagination, making modern investigation a cultural form as well as an institutional one.
 
 ## Key Claims
 - Investigation methods are institutional practices, not just detective brilliance.
@@ -22,4 +24,5 @@ The source describes early practice as underdeveloped in evidence preservation, 
 - [[ScotlandYard]] and [[JackTheRipper]] - institutional and case context.
 - [[ContestedForensicAttribution]] - downstream uncertainty created by damaged evidence chains.
 - [[ObservationBeforeInference]] and [[ScientificSamplingDiscipline]] - adjacent evidence-discipline concepts.
+- [[ChineseDetectiveModernity]] and [[GongAnFiction|公案小说]] - translation and older case-fiction contrast added by source 69.
 - [[VictimStigmaInTrueCrime]] - classification and media framing can affect investigative attention.

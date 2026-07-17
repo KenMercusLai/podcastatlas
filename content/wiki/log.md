@@ -3593,6 +3593,10 @@ Ran health and lint. Health scanned 4,708 pages and passed with no empty/stub fi
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-18] ingest | 69.闲聊推理文学：历史学者可不就是侦探吗！
+
+Added source page for the 蜜獾吃书 episode with 张志浩 of 《历史播客》 on detective fiction, archaeology, historical reasoning, 《时间的女儿》, Richard III, the Princes in the Tower, 曹操墓, Jack the Ripper, late-Qing Holmes translation, and personal archives. Created pages for 张志浩, 《历史播客》, Josephine Tey, 《时间的女儿》, Richard III, Princes in the Tower, 曹操墓, 《螺丝在拧紧》, The Hound of the Baskervilles, Historical Detective Reasoning, Evidence-Bound Historical Revision, Personal Archive As History, Gong'an Fiction, and Chinese Detective Modernity; updated overview, index, 蜜獾吃书, Poe, Conan Doyle, Sherlock Holmes, Agatha Christie, Jack the Ripper, Observation Before Inference, Interpretation And Overinterpretation, Chinese Mystery Publishing Ecology, Historical Memory Contest, Modern Criminal Investigation Formation, and Victorian Women Precarity. No direct contradiction found; the source extends the wiki's evidence-discipline branch by treating mystery fiction as a method for reading historical traces without forcing every archive into a neat solution.
+
 ## [2026-07-18] ingest | 68.疯狂实验史：哎！这该死的求知欲…
 
 Added source page for the 蜜獾吃书 episode on 《疯狂实验史》, experimental science, galvanism, corpse-electrification spectacle, self-experimentation, yellow fever, spinal anesthesia, animal and child experiment ethics, circadian rhythms, spider drug-web studies, Darwin's earthworms, and the Doppler effect. Created pages for 《疯狂实验史》, Frankenstein, Giovanni Aldini, Stubbins Ffirth, August Bier, Winthrop Kellogg, Charles Darwin, Robert Boyle, Experimental Science Ethics, Self-Experimentation, Animal Experiment Ethics, Scientific Public Spectacle, Child Experiment Ethics, Circadian Rhythm Experimentation, Doppler Effect, and Experimental Failure As Knowledge; updated overview, index, 蜜獾吃书, Mary Shelley, Thomas Hobbes, Scientific Skepticism, Scientific Self-Correction, and Observation Before Inference. No direct contradiction found; the source extends the wiki's evidence and skepticism branches by showing that curiosity produces knowledge only when experiment remains ethically bounded and interpretively correctable.
@@ -3600,6 +3604,10 @@ Added source page for the 蜜獾吃书 episode on 《疯狂实验史》, experim
 ## [2026-07-18] ingest | 67.美狄亚：古希腊秦香莲的复仇及其现代性
 
 Added source page for the 蜜獾吃书 episode on Euripides' 《美狄亚》, Greek tragedy, the Golden Fleece, Jason, Medea's female-position speech, child murder, Dionysian freedom, and tragic modernity. Created pages for 《美狄亚》 / Medea, Medea / 美狄亚, Euripides, Jason, Golden Fleece, Dionysus, The Bacchae, Greek Tragedy, Tragic Modernity, and Female Revenge And Political Order; updated overview, index, 蜜獾吃书, Greek Mythology, Classic Reading Complexity, Female Self-Possession, and Moral Suspension In Art Reading. No direct contradiction found; the source extends the wiki's Greek mythology and revenge branches by showing mythical vengeance as tragic civic and psychological rupture rather than modern legal public-opinion conflict.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-18] lint | Wiki health check
 

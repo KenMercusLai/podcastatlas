@@ -2,8 +2,8 @@
 title: "Arthur Conan Doyle / 柯南道尔"
 type: entity
 tags: [writer, detective-fiction, spiritualism, biography]
-sources: [60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]
-last_updated: 2026-07-14
+sources: [60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]
+last_updated: 2026-07-18
 ---
 
 # Arthur Conan Doyle / 柯南道尔
@@ -14,9 +14,13 @@ The source makes Doyle central to [[OccultPseudoscienceLiteraryModernity]]. His 
 
 Doyle's page also connects to authorship and publishing. The episode notes that Holmes's name and visual image were shaped by family suggestion, serial publication, and illustrators, making [[SherlockHolmes|Sherlock Holmes / 福尔摩斯]] a collaborative cultural figure rather than only an idea in Doyle's head.
 
+[[69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]] adds Doyle to a detective-fiction lineage from gothic ambiguity and [[EdgarAllanPoe|Poe]] toward modern evidence procedure. The source uses [[TheHoundOfTheBaskervilles|The Hound of the Baskervilles / 《巴斯克维尔的猎犬》]] to show how Doyle could exploit supernatural atmosphere while still returning the case to human motive and rational explanation.
+
 ## Connections
 - [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]] - source episode.
 - [[SherlockHolmes|Sherlock Holmes / 福尔摩斯]] - character whose success defined Doyle's public image.
+- [[TheHoundOfTheBaskervilles|The Hound of the Baskervilles / 《巴斯克维尔的猎犬》]] - source-69 example for gothic atmosphere under rational detection.
+- [[ChineseDetectiveModernity]] - Holmes translation and evidence-procedure branch.
 - [[OccultPseudoscienceLiteraryModernity]] - spiritualism, fairy photographs, and seance belief.
 - [[LiteraryGossipAsContext]] - biographical contradiction used as reading context.
 - [[AuthorMythDeflation]] - rational-detective author complicated by credulity and grief.

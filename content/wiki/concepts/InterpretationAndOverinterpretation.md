@@ -2,8 +2,8 @@
 title: "Interpretation And Overinterpretation"
 type: concept
 tags: [interpretation, literature, reasoning, semiotics]
-sources: [111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
-last_updated: 2026-07-15
+sources: [111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
+last_updated: 2026-07-18
 ---
 
 # Interpretation And Overinterpretation
@@ -24,6 +24,8 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 
 [[111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766]] adds a folklore-history version through [[PiedPiperOfHamelin|花衣魔笛手]]. The source is attracted to the mystery of 130 missing children, but it treats the temptation to identify one decisive answer as a risk. [[EvidenceBoundFolkloreInquiry]] keeps early records, [[BrothersGrimm|格林兄弟]]'s later version, rat-catching motifs, migration traces, battle theories, festival accidents, famine, plague, and [[Hamelin|哈默尔恩]] social history at different confidence levels.
 
+[[69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]] adds a historical-revision version. The episode treats [[TheDaughterOfTime|《时间的女儿》]] and [[CaoCaoTomb|曹操墓]] as cases where literary image, dynastic politics, public distrust, and source timing can all distort interpretation. The danger runs both ways: inherited stories can be overbelieved, but a dramatic reversal can also be overinterpreted unless it remains evidence-bound.
+
 ## Key Claims
 - Interpretation is necessary because signs do not explain themselves.
 - Overinterpretation begins when a reader treats an attractive pattern as proof before checking evidence, context, and alternative explanations.
@@ -35,6 +37,7 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 - In intertextual reading, overinterpretation can begin when atmosphere, shared imagery, and loose resemblance are given the same status as direct citation or repeated textual evidence.
 - In dynasty-centered reading, overinterpretation can begin when "political seriousness" is equated with empire and loyalism while concrete social institutions are treated as lesser evidence.
 - In legend-history reading, overinterpretation can begin when a vivid later motif is projected backward onto weaker early evidence or when social trauma is turned into one exact event.
+- In historical revision, overinterpretation can begin either by accepting a winner's literary image too easily or by treating every official story as false before the archive and material evidence justify the reversal.
 
 ## Connections
 - [[SemioticDetectiveFiction]] - mystery form where the boundary becomes part of the plot.
@@ -50,3 +53,4 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 - [[ClassicalPoeticIntertextuality]], [[YuxiIntoHonglou]], [[LiShangyin|李商隐]], and [[HongLouMeng|《红楼梦》]] - episode 183's extension into poetry-novel intertext and confidence grading.
 - [[MourningMingReading]], [[RedChamberLegalReading]], [[QingFemaleInheritanceConstraint]], and [[ConfiscationAndFemaleFate]] - episode 167's extension into Red Chamber dynastic-code critique and legal evidence.
 - [[PiedPiperOfHamelin|花衣魔笛手]], [[LegendAsSocialHistory]], [[EvidenceBoundFolkloreInquiry]], and [[FolkloreTraumaEncoding]] - episode 111's extension into folklore, social history, and confidence discipline.
+- [[HistoricalDetectiveReasoning]], [[EvidenceBoundHistoricalRevision]], [[TheDaughterOfTime|《时间的女儿》]], [[RichardIII|理查三世]], and [[CaoCaoTomb|曹操墓]] - episode 69's extension into history, archaeology, and public-memory revision.
