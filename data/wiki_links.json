@@ -2327,6 +2327,10 @@
     "title": "北明 / 北民",
     "url": "/wiki/entities/beimin/"
   },
+  "BenGoldhersh": {
+    "title": "Ben Goldhersh",
+    "url": "/wiki/entities/bengoldhersh/"
+  },
   "BenParr": {
     "title": "Ben Parr",
     "url": "/wiki/entities/benparr/"
@@ -3427,6 +3431,10 @@
     "title": "Clearlake Capital",
     "url": "/wiki/entities/clearlakecapital/"
   },
+  "Clearspace": {
+    "title": "Clearspace",
+    "url": "/wiki/entities/clearspace/"
+  },
   "Clico": {
     "title": "Clico",
     "url": "/wiki/entities/clico/"
@@ -4466,6 +4474,10 @@
   "DigitalCommerceLiteracy": {
     "title": "Digital Commerce Literacy",
     "url": "/wiki/concepts/digitalcommerceliteracy/"
+  },
+  "DigitalDetoxEconomy": {
+    "title": "Digital Detox Economy",
+    "url": "/wiki/concepts/digitaldetoxeconomy/"
   },
   "DigitalEmployees": {
     "title": "Digital Employees",
@@ -9135,6 +9147,10 @@
     "title": "Lois Weber / 洛伊斯·韦伯",
     "url": "/wiki/entities/loisweber/"
   },
+  "LondonCollegeOfCommunication": {
+    "title": "London College of Communication",
+    "url": "/wiki/entities/londoncollegeofcommunication/"
+  },
   "LongChainAICompetition": {
     "title": "Long-Chain AI Competition",
     "url": "/wiki/concepts/longchainaicompetition/"
@@ -9559,6 +9575,10 @@
     "title": "Maria Curi",
     "url": "/wiki/entities/mariacurie/"
   },
+  "MariaHollenhorst": {
+    "title": "Maria Hollenhorst",
+    "url": "/wiki/entities/mariahollenhorst/"
+  },
   "MarineLePen": {
     "title": "Marine Le Pen",
     "url": "/wiki/entities/marinelepen/"
@@ -9710,6 +9730,10 @@
   "MatterGen": {
     "title": "MatterGen",
     "url": "/wiki/entities/mattergen/"
+  },
+  "MatterNeuroscience": {
+    "title": "Matter Neuroscience",
+    "url": "/wiki/entities/matterneuroscience/"
   },
   "MatterSim": {
     "title": "MatterSim",
@@ -13015,6 +13039,10 @@
     "title": "Scott Vincent Borba",
     "url": "/wiki/entities/scottvincentborba/"
   },
+  "ScreenTimeFriction": {
+    "title": "Screen Time Friction",
+    "url": "/wiki/concepts/screentimefriction/"
+  },
   "ScreenTimeParenting": {
     "title": "Screen-Time Parenting",
     "url": "/wiki/concepts/screentimeparenting/"
@@ -14294,6 +14322,10 @@
   "TankaEverydayExpression": {
     "title": "Tanka As Everyday Expression",
     "url": "/wiki/concepts/tankaeverydayexpression/"
+  },
+  "TanyaSujohn": {
+    "title": "Tanya Sujohn",
+    "url": "/wiki/entities/tanyasujohn/"
   },
   "Taobao": {
     "title": "Taobao",
@@ -17318,6 +17350,10 @@
   "tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128": {
     "title": "A tech company that 'happens to build homes'",
     "url": "/wiki/sources/tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128/"
+  },
+  "tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128": {
+    "title": "Trying to stay off your phone? There's an app for that",
+    "url": "/wiki/sources/tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128/"
   },
   "tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128": {
     "title": "Making the most of AI, without the hype",

@@ -3404,3 +3404,11 @@ Added source page for the Marketplace Tech episode on CBH Homes using AI in home
 ## [2026-07-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-17] ingest | Trying to stay off your phone? There's an app for that
+
+Added source page for the Marketplace Tech episode on the digital detox market, Clearspace, app-blocking devices, lockboxes, and Matter Neuroscience's heavy phone case. Created pages for Clearspace, Maria Hollenhorst, Tanya Sujohn, London College of Communication, Ben Goldhersh, Matter Neuroscience, Digital Detox Economy, and Screen Time Friction; updated overview, index, Marketplace Tech, Addictive Interaction Design, and Attention Industrialization. No direct contradiction found; the source extends the attention-design branch by showing consumers paying for counter-design when phones and apps are designed to be hard to stop using.
+
+## [2026-07-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

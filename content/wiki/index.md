@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Trying to stay off your phone? There's an app for that](sources/tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128.md) — Marketplace Tech episode on the digital detox market, Clearspace, screen-time friction, physical app-blocking tools, and the paradox of paying for products that help people use phones less.
 - [A tech company that 'happens to build homes'](sources/tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128.md) — Marketplace Tech episode with Rhonda Conger on CBH Homes using AI for sales follow-up, warranty support, after-hours customer service, data analysis, and augmentation-focused homebuilding operations.
 - [Why state AGs are taking Meta to court](sources/tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128.md) — Marketplace Tech episode with Gaia Bernstein on state AG lawsuits against Meta, the Big Tobacco analogy for youth social-media harms, COPPA and disgorgement pressure, and AI companion attention risks.
 - [In it to bin it: Nigel Farage v Count Binface](sources/in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e.md) — The Intelligence episode on Farage and Count Binface in Clacton, Starlink and mixed connectivity in Nigeria, and Nolan's Odyssey adaptation.
@@ -428,6 +429,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Clearspace](entities/Clearspace.md) — Screen-time reduction app used by Marketplace Tech to show software-based friction before opening selected apps.
+- [Maria Hollenhorst](entities/MariaHollenhorst.md) — Marketplace Tech reporter connecting Clearspace, digital detox tools, and physical anti-scrolling devices to the business of reducing phone use.
+- [Tanya Sujohn](entities/TanyaSujohn.md) — London College of Communication academic critiquing how digital well-being apps can borrow engagement mechanics from social media.
+- [London College of Communication](entities/LondonCollegeOfCommunication.md) — Institution linked to Tanya Sujohn's media-studies critique of digital well-being products.
+- [Ben Goldhersh](entities/BenGoldhersh.md) — Matter Neuroscience co-founder and screen-limiting experimenter behind the Staff of Destiny example.
+- [Matter Neuroscience](entities/MatterNeuroscience.md) — Company developing a heavy phone case as a physical screen-time friction product.
 - [CBH Homes](entities/CBHHomes.md) — Boise homebuilder used by Marketplace Tech as a concrete case of AI in sales follow-up, warranty support, after-hours customer service, and company operations.
 - [Rhonda Conger](entities/RhondaConger.md) — CBH Homes vice president explaining the company's "tech company that happens to build homes" AI adoption posture.
 - [Gaia Bernstein](entities/GaiaBernstein.md) — Seton Hall law professor explaining state AG litigation against Meta, the Big Tobacco analogy, damages pressure, causation disputes, and AI companion risks.
@@ -2686,6 +2693,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Digital Detox Economy](concepts/DigitalDetoxEconomy.md) — Market for apps, devices, and physical constraints that help people reduce phone or app use.
+- [Screen Time Friction](concepts/ScreenTimeFriction.md) — Design pattern that inserts pauses, effort, or inconvenience before phone or app use.
 - [Homebuilding AI Operations](concepts/HomebuildingAIOperations.md) — Pattern where a homebuilder applies AI to long-cycle customer follow-up, warranty support, data analysis, and workflow triage while preserving human escalation.
 - [COPPA](concepts/COPPA.md) — Children's privacy law invoked in the state AG case against Meta over alleged under-13 data collection without parental consent.
 - [State AG Platform Litigation](concepts/StateAGPlatformLitigation.md) — State attorneys general using aggregate lawsuits to pressure platform design, children's privacy, and youth-harm accountability.
