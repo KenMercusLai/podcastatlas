@@ -2,11 +2,13 @@
 title: "北明 / 北民"
 type: entity
 tags: [host, podcast, books]
-sources: [168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 42-anduo-fengqi-yu-qingping-zhi-mo-616391638, jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]
-last_updated: 2026-07-15
+sources: [kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080, 168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 42-anduo-fengqi-yu-qingping-zhi-mo-616391638, jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]
+last_updated: 2026-07-18
 ---
 
 # 北明 / 北民
+
+[[kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080]] adds a brief current-status mention: 北明 is said to be translating [[CarlSagan|Carl Sagan]]'s [[TheDemonHauntedWorld|《魔鬼出没的世界》]] and preparing to play games with friends. The source uses this as a light closing rather than a full Sagan discussion, but it foreshadows the later, fuller skepticism branch in [[185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]].
 
 [[168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535]] adds 北明's co-host role in the show's return to Chinese mystery. In the source, his comments help connect [[FangxuehouDeXiaoxiang|《放学后的小巷》]] to [[ChineseMysteryPublishingEcology|国产推理出版生态]], [[DailyLifeMystery|日常推理]], school-era status objects such as bikes and music players, and adolescent memories of climbing walls and internet cafes.
 
@@ -36,6 +38,7 @@ In episode 60, his role is part of the show's literary-biographical mode. The co
 
 ## Connections
 - [[MihuanChishu|蜜獾吃书]] - show context.
+- [[kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080]] - short source that mentions his Sagan translation work as a program-status update.
 - [[168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535]], [[FangxuehouDeXiaoxiang|《放学后的小巷》]], and [[DailyLifeMystery|日常推理]] - Chinese daily-life mystery and adolescent memory branch.
 - [[TheGreenPlanet|《绿色星球》]], [[RogerZelazny|罗杰·泽拉兹尼]], and [[LordOfLight|《光明王》]] - holiday-preview topics connected to his translation work.
 - [[QinZong|秦总]] - co-discussion voice in the episode.

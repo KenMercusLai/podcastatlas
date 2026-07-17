@@ -2,11 +2,13 @@
 title: "Carl Sagan"
 type: entity
 tags: [science, skepticism, astronomy, public-communication]
-sources: [185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]
-last_updated: 2026-07-15
+sources: [kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]
+last_updated: 2026-07-18
 ---
 
 # Carl Sagan
+
+[[kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080]] adds a short preview of Sagan through [[Beimin|北明]]'s translation work on [[TheDemonHauntedWorld|《魔鬼出没的世界》]]. The source says the book concerns pseudoscience and reason, with substantial attention to alien-abduction cases, but leaves the full skepticism method to later sources.
 
 Carl Sagan enters the wiki directly through [[177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]], where [[Beimin|北明]] and [[QinZong|秦总]] connect childhood scientific curiosity, 1990s pseudoscience, and the later Chinese publication/translation context around [[TheDemonHauntedWorld|《魔鬼出没的世界》]]. The source uses Sagan less as a biography than as a public-skepticism anchor.
 
@@ -22,6 +24,7 @@ The episode's Sagan thread matters because it preserves two attitudes at once: w
 
 ## Connections
 - [[TheDemonHauntedWorld|《魔鬼出没的世界》]] - book discussed as the explicit skepticism anchor.
+- [[kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080]] - short preview source that mentions Sagan through Beimin's translation work.
 - [[ScienceOptimismAndPseudoscience]] - main concept added by episode 177.
 - [[ScientificSkepticism]], [[ScientificSelfCorrection]], [[AppealToIgnorance]], and [[GarageDragonTest]] - method branch made explicit by episode 185.
 - [[ChildhoodScienceReading]] - childhood popular-science context that later needs evidence discipline.

@@ -3625,6 +3625,7 @@ Added source page for the 蜜獾吃书 episode on Euripides' 《美狄亚》, Gr
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -3709,3 +3710,11 @@ Added source page for the 蜜獾吃书 episode on Homer, The Iliad, Achilles' ra
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-18] ingest | 开天窗｜指路兼推荐几本书
+
+Added source page for the short 蜜獾吃书 reading-list and platform-pointer episode that routes listeners to a 423 exclusive discussion of 王大可《他们的性》 and briefly recommends or previews 《初老的女人》, 《烧钱》, overseas China studies on immortality practice, 《光棍危机》, 《居酒屋的诞生》, and Carl Sagan's 《魔鬼出没的世界》. Created pages for 王大可, 《他们的性》, 《毕竟记》, 《烧钱》, 海外中国研究丛书, 刘东, 《光棍危机》, 《居酒屋的诞生》, Animal Reproductive Strategies, Paper Money Ritual Materiality, Male Surplus Security Risk, Everyday Food Culture History, and Reading List Pointer Episode; updated overview, index, 蜜獾吃书, 北明, 伊藤比吕美, 《初老的女人》, Carl Sagan, 《魔鬼出没的世界》, and Francis Fukuyama. No direct contradiction found; title uncertainty around "魔鬼触摸的世界" was treated as a source-scoped variant of the existing Sagan book page rather than a separate work.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 4,893 pages. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-18 with 4,694 nodes and 46,331 edges while the wiki scan found 4,893 pages; they found no hub stubs, one fragile bridge (`entities/WangYong` -> `concepts/AIPlusTerminals`), and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint was unavailable because no provider API key or `LLM_MODEL` is configured for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.

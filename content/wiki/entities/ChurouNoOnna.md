@@ -2,11 +2,13 @@
 title: "《初老的女人》"
 type: entity
 tags: [book, aging, women, poetry, japan]
-sources: [110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278]
-last_updated: 2026-07-17
+sources: [kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080, 110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278]
+last_updated: 2026-07-18
 ---
 
 # 《初老的女人》
+
+[[kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080]] previews 《初老的女人》 as a current read by [[ItoHiromi|伊藤比吕美]] that continues the style of [[BijingJi|《毕竟记》]]. The host notes the striking life-writing situation where the author's husband can appear alive in some pieces and dead in others, making the book an early pointer toward [[EmbodiedAging]] and widowhood before the fuller episode arrives.
 
 《初老的女人》 is the [[ItoHiromi|伊藤比吕美]] book discussed in [[110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278]]. The episode reads it as a post-menopausal, post-widowhood, late-life account of a woman living between Kumamoto, Tokyo, [[California]], and family ties that no longer organize daily life as they once did.
 
@@ -20,6 +22,7 @@ The book matters in the wiki because it turns aging into scenes rather than slog
 
 ## Connections
 - [[ItoHiromi|伊藤比吕美]] - author.
+- [[BijingJi|《毕竟记》]] - earlier book used by the short pointer episode to describe continuity of style.
 - [[MihuanChishu|蜜獾吃书]] - source show discussing the book.
 - [[EmbodiedAging]] and [[AgeFriendlyInfrastructure]] - main aging frames derived from the episode.
 - [[FemaleSelfPossession]] and [[FemaleBodyFreedom]] - gendered body and agency extension.

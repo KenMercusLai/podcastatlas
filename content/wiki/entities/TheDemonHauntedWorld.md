@@ -2,11 +2,13 @@
 title: "《魔鬼出没的世界》 / The Demon-Haunted World"
 type: entity
 tags: [book, science, skepticism, pseudoscience]
-sources: [185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]
-last_updated: 2026-07-15
+sources: [kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]
+last_updated: 2026-07-18
 ---
 
 # 《魔鬼出没的世界》 / The Demon-Haunted World
+
+[[kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080]] mentions the book through [[Beimin|北明]]'s translation work, using the title variant "魔鬼触摸的世界." The source's description matches this page's Sagan skepticism branch: pseudoscience, reason, and alien-abduction cases.
 
 《魔鬼出没的世界》 / The Demon-Haunted World is the [[CarlSagan|Carl Sagan]] book discussed in [[177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]] as the adult answer to an environment where scientific curiosity and pseudoscience were often mixed together. The episode names it through [[Beimin|北明]]'s translation/publication connection and uses it to frame skepticism as part of preserving wonder.
 
@@ -22,6 +24,7 @@ In this source, the book's wiki role is not a full chapter summary. It is a dura
 
 ## Connections
 - [[CarlSagan|Carl Sagan]] - author and public-science anchor.
+- [[kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080]] - short preview source using the "魔鬼触摸的世界" title variant.
 - [[ScienceOptimismAndPseudoscience]] - main concept that the book helps organize.
 - [[ScientificSkepticism]], [[ScientificSelfCorrection]], [[AppealToIgnorance]], and [[GarageDragonTest]] - explicit evidence-method branch from episode 185.
 - [[UFOConspiracyCulture]], [[AlienAbductionNarrative]], and [[CropCircleDebunking]] - cases organized by the episode.
