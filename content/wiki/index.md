@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [96.荷马史诗：在假装永生的时代，我们重读死亡（伊利亚特篇）](sources/96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514.md) — 蜜獾吃书 episode on Homer, The Iliad, Achilles' rage, the Homer question, oral-formulaic epic craft, named deaths, war, grief, and mortality.
 - [95.都市传说：猎奇故事和我们内心深处的焦虑](sources/95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611.md) — 蜜獾吃书 episode on urban legends as contemporary folklore, FOAF transmission, story motifs, social anxiety, brand rumors, conspiracy thinking, Roswell, UFO culture, and internet-era demystification.
 - [94.吉卜力的天才们：我的人生，交给热爱和友谊](sources/94-jibuli-de-tiancaimen-wo-de-rensheng-jiaogei-reai-he-youyi-722350232.md) — 蜜獾吃书 episode on Studio Ghibli, Miyazaki, Takahata, Toshio Suzuki, producer mediation, animation-studio ecology, and the production histories behind major Ghibli films.
 - [92.柏拉图上班记：用哲学搞笑职场](sources/92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350.md) — 蜜獾吃书 episode on 《柏拉图上班记》, philosophy as workplace satire, labor morality, open-office surveillance, capital-as-boss, managed freedom, and philosophers recast as company roles.
@@ -462,6 +463,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [The Iliad](entities/TheIliad.md) — Homeric epic read by episode 96 through Achilles' rage, late Trojan War compression, named deaths, and final pity.
+- [Achilles](entities/Achilles.md) — Iliad hero whose rage, withdrawal, grief, revenge, and pity anchor the episode's mortality reading.
+- [Hector](entities/Hector.md) — Trojan champion whose family farewell, battlefield fear, death, and corpse treatment make the Iliad's war ethics concrete.
+- [Patroclus](entities/Patroclus.md) — Achilles' companion whose borrowed armor and death transform grievance into revenge.
+- [Priam](entities/Priam.md) — Trojan king whose plea for Hector's body turns enemy grief into the episode's central scene of shared mortality.
+- [Agamemnon](entities/Agamemnon.md) — Achaean commander whose seizure of Briseis triggers Achilles' withdrawal and exposes heroic status logic.
+- [Helen of Troy](entities/HelenOfTroy.md) — Iliad figure used by the episode to discuss women as war objects and psychologically weighted subjects.
 - [Richard Dorson / 理查德·多尔森](entities/RichardDorson.md) — Folklorist used by episode 95 to frame urban legends as contemporary anonymous belief stories.
 - [Charles Fort / 查尔斯·霍伊·福特](entities/CharlesFort.md) — Collector of anomalous reports invoked by episode 95 to connect strange evidence, Fortean curiosity, and skepticism.
 - [Jan Harold Brunvand](entities/JanHaroldBrunvand.md) — Urban-legend scholar used by episode 95 for legend type indexing across cars, schools, scandals, business, government, and celebrities.
@@ -2964,6 +2972,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Homer Question](concepts/HomerQuestion.md) — Authorship, oral transmission, and historical-memory problem around Homer, The Iliad, and The Odyssey.
+- [Oral-Formulaic Epic](concepts/OralFormulaicEpic.md) — Homeric craft frame for fixed epithets, repeated prophecy, active absence, and oral performance technique.
+- [Homeric Mortality Reading](concepts/HomericMortalityReading.md) — Episode 96 frame for reading The Iliad as anti-abstract war writing centered on named deaths, grief, and one-time life.
+- [Muthos Logos Tension](concepts/MuthosLogosTension.md) — Frame for why story and poetry can carry truths about death, fate, and grief that pure argument compresses.
 - [Urban Legend / 都市传说](concepts/UrbanLegend.md) — Contemporary folklore form where anonymous, believed-as-true stories attach to modern life and encode anxieties about bodies, technology, institutions, brands, and hidden power.
 - [Creative Producer Mediation](concepts/CreativeProducerMediation.md) — Producer role that turns difficult artistic ambition into fundable, finishable, releasable work through rights, persuasion, story judgment, and publicity.
 - [Animation Studio Creative Ecology](concepts/AnimationStudioCreativeEcology.md) — Frame for animation output as the result of relationships, labor systems, funding, release pressure, rivalry, and business afterlives.

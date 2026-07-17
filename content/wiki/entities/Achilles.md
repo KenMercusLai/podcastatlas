@@ -1,0 +1,19 @@
+---
+title: "Achilles"
+type: entity
+tags: [mythology, literature, classics, epic]
+sources: [96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514]
+last_updated: 2026-07-18
+---
+
+# Achilles
+
+Achilles is the central Achaean hero in [[TheIliad|《伊利亚特》]] as read by [[96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514]]. The episode follows his rage after [[Agamemnon|阿加门农]] takes Briseis, his withdrawal from battle, his request that his mother Thetis ask Zeus to favor the Trojans, and his refusal to return even when offered wealth and marriage.
+
+The source emphasizes Achilles' anti-heroic humanity. He is unmatched in battle, but he is also vain, wounded, self-involved, tearful, and sharply aware that life is singular. After [[Patroclus|帕特罗克洛斯]] dies wearing his armor, Achilles becomes a figure of grief and revenge, kills [[Hector|赫克托]], abuses the corpse, and then unexpectedly recognizes shared mortality when [[Priam|普里阿摩斯]] asks for his son's body.
+
+## Connections
+- [[TheIliad]] and [[Homer]] - epic and tradition.
+- [[Agamemnon]], [[Patroclus]], [[Hector]], and [[Priam]] - conflict, friendship, revenge, and pity sequence.
+- [[HomericMortalityReading]] - why Achilles' choice between glory and life matters in the source.
+- [[MoralSuspensionInArtReading]] and [[ClassicReadingComplexity]] - frames for reading an ethically difficult hero without flattening him.

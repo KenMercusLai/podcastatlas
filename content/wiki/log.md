@@ -3701,3 +3701,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 4,867 pages. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-18 with 4,694 nodes and 46,331 edges while the wiki scan found 4,867 pages; they found no hub stubs, one fragile bridge (`entities/WangYong` -> `concepts/AIPlusTerminals`), and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-18] ingest | 96.荷马史诗：在假装永生的时代，我们重读死亡（伊利亚特篇）
+
+Added source page for the 蜜獾吃书 episode on Homer, The Iliad, Achilles' rage, the Homer question, oral-formulaic epic craft, named battlefield deaths, Hector and Patroclus, Priam's supplication, and mortality-centered war reading. Created pages for The Iliad, Achilles, Hector, Patroclus, Priam, Agamemnon, Helen of Troy, Homer Question, Oral-Formulaic Epic, Homeric Mortality Reading, and Muthos Logos Tension; updated overview, index, 蜜獾吃书, Homer, The Odyssey, Greek Mythology, Classic Reading Complexity, Non-Instrumental Literary Reading, Moral Suspension In Art Reading, and Story-Based Empathy. No direct contradiction found; the source extends the Homer/Odyssey adaptation branch by returning to ancient epic texture and making death, grief, and enemy pity central.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

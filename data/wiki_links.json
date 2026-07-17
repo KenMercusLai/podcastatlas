@@ -503,6 +503,10 @@
     "title": "95.都市传说：猎奇故事和我们内心深处的焦虑",
     "url": "/wiki/sources/95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611/"
   },
+  "96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514": {
+    "title": "96.荷马史诗：在假装永生的时代，我们重读死亡（伊利亚特篇）",
+    "url": "/wiki/sources/96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514/"
+  },
   "A7A5": {
     "title": "A7A5",
     "url": "/wiki/entities/a7a5/"
@@ -1171,6 +1175,10 @@
     "title": "Achievement Pressure Mental Health",
     "url": "/wiki/concepts/achievementpressurementalhealth/"
   },
+  "Achilles": {
+    "title": "Achilles",
+    "url": "/wiki/entities/achilles/"
+  },
   "Acquired": {
     "title": "Acquired",
     "url": "/wiki/entities/acquired/"
@@ -1334,6 +1342,10 @@
   "AfterlifeMoralAccounting": {
     "title": "Afterlife Moral Accounting",
     "url": "/wiki/concepts/afterlifemoralaccounting/"
+  },
+  "Agamemnon": {
+    "title": "Agamemnon",
+    "url": "/wiki/entities/agamemnon/"
   },
   "Agan": {
     "title": "Agan",
@@ -7591,6 +7603,14 @@
     "title": "Heather Schwartz",
     "url": "/wiki/entities/heatherschwartz/"
   },
+  "Hector": {
+    "title": "Hector",
+    "url": "/wiki/entities/hector/"
+  },
+  "HelenOfTroy": {
+    "title": "Helen of Troy",
+    "url": "/wiki/entities/helenoftroy/"
+  },
   "HelicopterParenting": {
     "title": "Helicopter Parenting",
     "url": "/wiki/concepts/helicopterparenting/"
@@ -7755,9 +7775,17 @@
     "title": "Homer",
     "url": "/wiki/entities/homer/"
   },
+  "HomerQuestion": {
+    "title": "Homer Question",
+    "url": "/wiki/concepts/homerquestion/"
+  },
   "HomericAdaptationModernization": {
     "title": "Homeric Adaptation Modernization",
     "url": "/wiki/concepts/homericadaptationmodernization/"
+  },
+  "HomericMortalityReading": {
+    "title": "Homeric Mortality Reading",
+    "url": "/wiki/concepts/homericmortalityreading/"
   },
   "HomestayDifferentiation": {
     "title": "Homestay Differentiation",
@@ -11323,6 +11351,10 @@
     "title": "Musical.ly",
     "url": "/wiki/entities/musically/"
   },
+  "MuthosLogosTension": {
+    "title": "Muthos Logos Tension",
+    "url": "/wiki/concepts/muthoslogostension/"
+  },
   "MwindoEpic": {
     "title": "Mwindo Epic",
     "url": "/wiki/entities/mwindoepic/"
@@ -12007,6 +12039,10 @@
     "title": "Oracle",
     "url": "/wiki/entities/oracle/"
   },
+  "OralFormulaicEpic": {
+    "title": "Oral-Formulaic Epic",
+    "url": "/wiki/concepts/oralformulaicepic/"
+  },
   "OrdinaryHardshipNarrative": {
     "title": "Ordinary Hardship Narrative",
     "url": "/wiki/concepts/ordinaryhardshipnarrative/"
@@ -12246,6 +12282,10 @@
   "PatriotMissileSystem": {
     "title": "Patriot Missile System",
     "url": "/wiki/entities/patriotmissilesystem/"
+  },
+  "Patroclus": {
+    "title": "Patroclus",
+    "url": "/wiki/entities/patroclus/"
   },
   "PaulBuchheit": {
     "title": "Paul Buchheit",
@@ -12858,6 +12898,10 @@
   "PreventiveHealthScreening": {
     "title": "Preventive Health Screening",
     "url": "/wiki/concepts/preventivehealthscreening/"
+  },
+  "Priam": {
+    "title": "Priam",
+    "url": "/wiki/entities/priam/"
   },
   "PriceWarGrowth": {
     "title": "Price War Growth",
@@ -15858,6 +15902,10 @@
   "TheHoundOfTheBaskervilles": {
     "title": "The Hound of the Baskervilles / 《巴斯克维尔的猎犬》",
     "url": "/wiki/entities/thehoundofthebaskervilles/"
+  },
+  "TheIliad": {
+    "title": "The Iliad",
+    "url": "/wiki/entities/theiliad/"
   },
   "TheInformation": {
     "title": "The Information",
