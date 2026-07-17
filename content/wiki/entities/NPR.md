@@ -2,8 +2,8 @@
 title: "NPR"
 type: entity
 tags: [media, public-media, journalism]
-sources: [how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
-last_updated: 2026-07-16
+sources: [riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
+last_updated: 2026-07-17
 ---
 
 # NPR
@@ -22,6 +22,8 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 
 [[how-much-money-president-trump-and-his-family-have-made]] adds a reported [[PlanetMoney]] episode on presidency-linked private gain. It extends NPR's economics-reporting branch into [[OfficeLinkedProfitAccounting]], [[PresidentialConflictOfInterest]], and [[PresidentialCryptoPolicyConflict]] through [[DavidKirkpatrick]]'s estimate of [[DonaldTrump]] family gains.
 
+[[riding-with-the-repo-man-update]] adds a reported [[PlanetMoney]] episode on [[SubprimeAutoLending]] and [[AutoRepossession]]. It extends NPR's economics-reporting branch into household transportation credit, showing how [[CarAffordabilityStress]], long loan terms, income shocks, and [[GPSEnabledRepossession]] can turn a smaller financial market into a severe personal crisis.
+
 ## Connections
 - [[KatherineMaher]] — NPR CEO and speaker in the appeal.
 - [[PublicMediaFunding]] — central issue in the source.
@@ -33,3 +35,4 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 - [[Fast16]], [[CalculationIntegrityAttack]], [[CyberSabotage]], and [[EpistemologicalWarfare]] - cybersecurity and epistemic-trust branch added through Planet Money.
 - [[Throughline]], [[IowaElectronicMarkets]], [[PredictionMarketHistory]], and [[ElectionBettingMarkets]] - historical prediction-market branch added through Planet Money.
 - [[DavidKirkpatrick]], [[FredWertheimer]], [[OfficeLinkedProfitAccounting]], and [[PresidentialCryptoPolicyConflict]] - Trump-family profit-accounting branch added through Planet Money.
+- [[SubprimeAutoLending]], [[AutoRepossession]], [[CarAffordabilityStress]], and [[GPSEnabledRepossession]] - household-auto-credit branch added through Planet Money.

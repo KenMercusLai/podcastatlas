@@ -2,8 +2,8 @@
 title: "Planet Money"
 type: entity
 tags: [podcast, media, economics]
-sources: [how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
-last_updated: 2026-07-16
+sources: [riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
+last_updated: 2026-07-17
 ---
 
 # Planet Money
@@ -22,6 +22,8 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 
 [[how-much-money-president-trump-and-his-family-have-made]] adds a political-economy and ethics case. The episode uses [[DavidKirkpatrick]]'s accounting of [[DonaldTrump]] family gains and [[FredWertheimer]]'s historical comparison to connect private wealth, family business, crypto policy, and presidential power.
 
+[[riding-with-the-repo-man-update]] adds a consumer-credit and household-stress case. The episode uses [[LarryBaker]], [[StephanieWaldrop]], [[RickReichert]], and [[JaredReichert]] to connect [[SubprimeAutoLending]], [[AutoRepossession]], [[CarAffordabilityStress]], and [[GPSEnabledRepossession]] while distinguishing smaller systemic auto-loan risk from the major personal crisis created when a borrower loses a car.
+
 ## Connections
 - [[NPR]] — network and public-media organization behind the appeal.
 - [[KatherineMaher]] — NPR CEO speaking in the message.
@@ -33,3 +35,4 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 - [[Fast16]], [[Stuxnet]], [[JuanAndresGuerreroSaade]], [[VitalyKamluk]], and [[EpistemologicalWarfare]] - cybersecurity and trust-in-knowledge branch added by the Fast 16 episode.
 - [[IowaElectronicMarkets]], [[PredictionMarketHistory]], [[ElectionBettingMarkets]], and [[AcademicPredictionMarketSandbox]] - prediction-market history branch added by the new episode.
 - [[DonaldTrump]], [[DavidKirkpatrick]], [[WorldLibertyFinancial]], [[OfficeLinkedProfitAccounting]], and [[PresidentialConflictOfInterest]] - presidency-linked private-profit branch added by the new episode.
+- [[SubprimeAutoLending]], [[AutoRepossession]], [[CarAffordabilityStress]], and [[GPSEnabledRepossession]] - consumer-auto-credit branch added by the repo-man update.

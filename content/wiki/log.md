@@ -712,6 +712,10 @@ Added source page for a Keji Luandun episode on Huawei's Tau Law, 3D chip stacki
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-17] ingest | Riding with the repo man (update)
+
+Added source page for the Planet Money update on subprime auto lending, auto repossession, car affordability stress, GPS-enabled recovery, and borrower-level crisis when a car loan fails. Created pages for Larry Baker, Stephanie Waldrop, Rick Reichert, Jared Reichert, Subprime Auto Lending, Auto Repossession, Car Affordability Stress, and GPS-Enabled Repossession; updated overview, index, NPR, Planet Money, Consumer Loan Risk, and Personal Credit Record. No direct contradiction found; the source qualifies the wiki's consumer-credit branch by showing that subprime auto loans can provide necessary transportation access while still becoming severe household risk when prices, rates, term length, income shocks, and easy collateral recovery interact.
+
 ## [2026-07-07] ingest | Vol. 162 科技快乐星球44: 新模型“SOTA们”齐贺新春
 
 Added source page for a Fengyan Fengyu AI-news roundup on Xcode Agentic Coding, Codex/Claude Code/Gemini workflow fit, domestic SOTA model releases, Seedance-style video generation, ChatGPT subscription/advertising, OpenAI voice/hardware, local translation models, agentic shopping/payment, cloud-chip binding, data-center power, space compute, robotics, and AI-for-science news. Created supporting pages for Xcode, Model Workflow Fit, and Agentic Commerce; updated overview, index, Fengyan Fengyu, Justin Yan, Zili, Codex, Claude Code, Gemini, Apple, Google, OpenAI, Anthropic, Amazon, ByteDance, Model Routing Cost Control, AI Inference Cost Structure, AI Coding Verification, AI Product Fragmentation, AI Subscription Economics, Agent Permission Boundaries, MaaS Infrastructure, Video Models, World Models, AI Interactive Entertainment, and AI Plus Terminals.
@@ -3468,3 +3472,15 @@ Added source page for the 蜜獾吃书 episode on 《三更半夜居然要吃香
 ## [2026-07-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-17] lint | Wiki health check
+
+Ran health and an initial lint pass. Health passed with no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 4,538 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. The existing graph was stale, so graph-aware findings were refreshed in the following graph/lint pass. The semantic LiteLLM pass failed because `LLM_MODEL` is not provider-qualified. No `wiki/lint-report.md` file was saved.
+
+## [2026-07-17] graph | Knowledge graph rebuilt
+
+4538 nodes, 44938 edges (44938 extracted, 0 inferred).
+
+## [2026-07-17] lint | Wiki health check
+
+Ran lint after refreshing the graph. Lint scanned 4,538 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, one fragile bridge (`concepts/UniversityOpportunityDensity` -> `concepts/CollegeMajorChoice`), and no isolated communities. The semantic LiteLLM pass failed because `LLM_MODEL` is not provider-qualified. No `wiki/lint-report.md` file was saved.

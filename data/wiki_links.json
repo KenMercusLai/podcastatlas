@@ -2075,6 +2075,10 @@
     "title": "Auto-Formalization",
     "url": "/wiki/concepts/autoformalization/"
   },
+  "AutoRepossession": {
+    "title": "Auto Repossession",
+    "url": "/wiki/concepts/autorepossession/"
+  },
   "AutoResearch": {
     "title": "Auto Research",
     "url": "/wiki/concepts/autoresearch/"
@@ -2934,6 +2938,10 @@
   "CaptiveWhaleSanctuary": {
     "title": "Captive Whale Sanctuary",
     "url": "/wiki/concepts/captivewhalesanctuary/"
+  },
+  "CarAffordabilityStress": {
+    "title": "Car Affordability Stress",
+    "url": "/wiki/concepts/caraffordabilitystress/"
   },
   "CarbonPlateRacingShoes": {
     "title": "Carbon Plate Racing Shoes",
@@ -6311,6 +6319,10 @@
     "title": "GOG",
     "url": "/wiki/entities/gog/"
   },
+  "GPSEnabledRepossession": {
+    "title": "GPS-Enabled Repossession",
+    "url": "/wiki/concepts/gpsenabledrepossession/"
+  },
   "GPT4": {
     "title": "GPT-4",
     "url": "/wiki/entities/gpt4/"
@@ -8079,6 +8091,10 @@
     "title": "Jared Kushner",
     "url": "/wiki/entities/jaredkushner/"
   },
+  "JaredReichert": {
+    "title": "Jared Reichert",
+    "url": "/wiki/entities/jaredreichert/"
+  },
   "JeanLucMelenchon": {
     "title": "Jean-Luc Melenchon",
     "url": "/wiki/entities/jeanlucmelenchon/"
@@ -8866,6 +8882,10 @@
   "LargeCompanyRiskIncentives": {
     "title": "Large Company Risk Incentives",
     "url": "/wiki/concepts/largecompanyriskincentives/"
+  },
+  "LarryBaker": {
+    "title": "Larry Baker",
+    "url": "/wiki/entities/larrybaker/"
   },
   "LarryPage": {
     "title": "Larry Page",
@@ -12783,6 +12803,10 @@
     "title": "Richard Wiseman",
     "url": "/wiki/entities/richardwiseman/"
   },
+  "RickReichert": {
+    "title": "Rick Reichert",
+    "url": "/wiki/entities/rickreichert/"
+  },
   "RickRubin": {
     "title": "Rick Rubin",
     "url": "/wiki/entities/rickrubin/"
@@ -14191,6 +14215,10 @@
     "title": "Stephanie Hughes",
     "url": "/wiki/entities/stephaniehughes/"
   },
+  "StephanieWaldrop": {
+    "title": "Stephanie Waldrop",
+    "url": "/wiki/entities/stephaniewaldrop/"
+  },
   "StephenStarr": {
     "title": "Stephen Starr",
     "url": "/wiki/entities/stephenstarr/"
@@ -14342,6 +14370,10 @@
   "SubjectivityAsAIAsset": {
     "title": "Subjectivity As AI Asset",
     "url": "/wiki/concepts/subjectivityasaiasset/"
+  },
+  "SubprimeAutoLending": {
+    "title": "Subprime Auto Lending",
+    "url": "/wiki/concepts/subprimeautolending/"
   },
   "SubscriptionFatigue": {
     "title": "Subscription Fatigue",
@@ -17466,6 +17498,10 @@
   "renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o": {
     "title": "人类和 AI Agent 的最佳配合方式，还没被发明｜对谈 Paperboy",
     "url": "/wiki/sources/renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o/"
+  },
+  "riding-with-the-repo-man-update": {
+    "title": "Riding with the repo man (update)",
+    "url": "/wiki/sources/riding-with-the-repo-man-update/"
   },
   "ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425": {
     "title": "日谈串台｜姐妹聊天会：重启人生也是我最妖娇",

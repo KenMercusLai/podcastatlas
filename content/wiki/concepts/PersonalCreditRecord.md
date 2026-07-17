@@ -2,13 +2,15 @@
 title: "Personal Credit Record"
 type: concept
 tags: [finance, banking, credit, personal-finance]
-sources: [ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439]
-last_updated: 2026-07-07
+sources: [riding-with-the-repo-man-update, ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439]
+last_updated: 2026-07-17
 ---
 
 # Personal Credit Record
 
 Personal credit record is the observable history that lets banks judge whether a borrower has used credit responsibly. [[ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439]] frames credit as a long-term financial asset: having no records can make a customer harder to evaluate, but overdue repayment, too many inquiries, high card utilization, or repeated small delinquencies can damage future borrowing capacity.
+
+[[riding-with-the-repo-man-update]] adds the auto-loan consequence through [[StephanieWaldrop]]'s [[AutoRepossession]] case. The source shows that damaged credit is not only a future borrowing problem: it can combine with fees, lost transportation, and reduced work access, making recovery from delinquency harder after the record is damaged.
 
 ## Key Claims
 - Banks review credit reports before major lending, especially mortgages.
@@ -18,6 +20,8 @@ Personal credit record is the observable history that lets banks judge whether a
 - Credit-card count, limit usage, loan tests, small-loan platform inquiries, and authorized credit checks can all become visible signals.
 - Frequent credit inquiries may look like liquidity stress even when the borrower only clicked an online quota test.
 - Protecting credit also means protecting personal information, bank cards, and old credit-card details from misuse.
+- Repossession can lower a borrower's credit score while also adding recovery fees and immediate transportation loss.
+- A credit record can deteriorate because of an income shock even when the original loan was tied to a practical work need.
 
 ## Connections
 - [[MortgageApproval]] — credit history influences mortgage approval and terms.
@@ -26,3 +30,4 @@ Personal credit record is the observable history that lets banks judge whether a
 - [[LoanIntermediaryRisk]] — intermediaries may request personal documents or trigger credit checks.
 - [[BankingKYCCompliance]] — credit profile sits beside identity, income, and risk review.
 - [[ConsumerAMLExposure]] — account and identity misuse can create consequences beyond ordinary repayment history.
+- [[SubprimeAutoLending]] and [[AutoRepossession]] - auto-loan delinquency branch added by the Planet Money source.

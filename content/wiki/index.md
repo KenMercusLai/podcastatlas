@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Riding with the repo man (update)](sources/riding-with-the-repo-man-update.md) — Planet Money update on subprime auto loans, repossession, car affordability stress, GPS-enabled recovery, and why auto debt is smaller than a mortgage crisis but still severe for households.
 - [137. 三更半夜居然要吃香蕉：是的，再来一根](sources/137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951.md) — 蜜獾吃书 episode on 《三更半夜居然要吃香蕉》, 鹿野靖明, Japanese disability independent living, volunteer care, subject-led support, and long-term care insurance framing.
 - [111. 花衣魔笛手：快来，和历史学家一起推理童话真相](sources/111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766.md) — 蜜獾吃书 episode using 阿布谨也《花衣魔笛手：传说背后的欧洲中世纪》 to read the Hamelin Pied Piper legend through medieval evidence, city history, marginal groups, migration, famine, plague, and folklore trauma.
 - [110.初老的女人：疲惫，温柔，辽阔](sources/110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278.md) — 蜜獾吃书 episode on 伊藤比吕美《初老的女人》, embodied aging, age-friendly infrastructure, late-life female body freedom, pet care, health checks, insurance planning, and poetry as a way to process life problems.
@@ -436,6 +437,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Larry Baker](entities/LarryBaker.md) — Ohio repo man whose 2019 and 2026 accounts show how auto repossession works and why borrower desperation raises physical risk.
+- [Stephanie Waldrop](entities/StephanieWaldrop.md) — Borrower case showing how a high-rate subprime car loan, income shock, repossession fee, and credit-score damage compound.
+- [Rick Reichert](entities/RickReichert.md) — Dealer-side source explaining poor-credit auto approvals and the distinction between responsible and loose subprime lending.
+- [Jared Reichert](entities/JaredReichert.md) — Dealer-side update voice linking higher car prices, longer terms, and rising repossessions in 2026.
 - [《三更半夜居然要吃香蕉》](entities/SangengBanyeJuranYaoChiXiangjiao.md) — book discussed in episode 137 about 鹿野靖明, disability rights, independent living, and volunteer care.
 - [鹿野靖明](entities/ShikanoYasuaki.md) — central figure in the episode's disability independent-living and care-subjectivity discussion.
 - [一五会](entities/IchiGoKai.md) — Japanese disability group used to explain self-determined community living.
@@ -2051,9 +2056,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dark Matter Labs](entities/DarkMatterLabs.md) — Organization associated with Johar's institutional-design work on governance, finance, and systems change.
 - [Long Now](entities/LongNow.md) — Long-term-thinking organization hosting talks on AI materiality, civilizational optioneering, informed optimism, ocean memory, institutional design, and neural geometry.
 - [James Lovelock](entities/JamesLovelock.md) — Thinker referenced through Novacene to anchor the source's planetary self-awareness frame.
-- [NPR](entities/NPR.md) — Public media organization connected to the wiki through a funding appeal and Planet Money reporting on tree-law, Iran-sanctions, and Fast 16 cybersecurity episodes.
+- [NPR](entities/NPR.md) — Public media organization connected to the wiki through a funding appeal and Planet Money reporting on tree-law, Iran-sanctions, Fast 16 cybersecurity, and subprime auto repossession episodes.
 - [Katherine Maher](entities/KatherineMaher.md) — NPR CEO voicing the appeal and linking public-media funding to local reporting, rural access, and donations.
-- [Planet Money](entities/PlanetMoney.md) — NPR economics podcast feed now covering public-media funding, tree ordinances, Iran sanctions, and Fast 16 cyber sabotage.
+- [Planet Money](entities/PlanetMoney.md) — NPR economics podcast feed now covering public-media funding, tree ordinances, Iran sanctions, Fast 16 cyber sabotage, political profit accounting, and subprime auto repossession.
 - [1A](entities/1A.md) — WAMU/NPR public-affairs podcast promoted through the If You Can Keep It political series.
 - [WAMU](entities/WAMU.md) — Public-radio organization named with NPR in the 1A promo.
 - [Jen White](entities/JenWhite.md) — 1A host voice promoting If You Can Keep It.
@@ -2740,6 +2745,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Subprime Auto Lending](concepts/SubprimeAutoLending.md) — Auto financing for weak-credit borrowers, useful for transportation access but risky when rates, terms, prices, and income shocks interact.
+- [Auto Repossession](concepts/AutoRepossession.md) — Lender recovery of a financed car after delinquency, treated as a business process with severe household mobility and credit consequences.
+- [Car Affordability Stress](concepts/CarAffordabilityStress.md) — Household pressure from rising vehicle prices, stretched terms, high rates, and reliance on cars for work and daily life.
+- [GPS-Enabled Repossession](concepts/GPSEnabledRepossession.md) — Use of vehicle tracking to reduce collateral recovery friction in subprime auto lending.
 - [Disability Independent Living](concepts/DisabilityIndependentLiving.md) — concept that independence means self-directed support, not absence of help.
 - [Japanese Disability Rights Movement](concepts/JapaneseDisabilityRightsMovement.md) — movement background for bus access, anti-discrimination, and community living in the episode.
 - [Subject-Led Care](concepts/SubjectLedCare.md) — care principle that help should start from the disabled person's own requests, boundaries, and agency.
@@ -4184,8 +4193,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Currency Credit](concepts/CurrencyCredit.md) — Trust layer that makes money usable through authenticity, disciplined issuance, accepted counterparties, and goods availability.
 - [Financial Power And State Capacity](concepts/FinancialPowerAndStateCapacity.md) — EP23 frame tying banks, accounting, currency, bonds, taxes, and resource trade to the ability to organize or exploit an economy.
 - [Mortgage Approval](concepts/MortgageApproval.md) — Bank review of property collateral, down-payment source, income stability, existing debt, co-repayment, credit history, and mortgage-rate choice.
-- [Personal Credit Record](concepts/PersonalCreditRecord.md) — Borrower history built from credit-card use, repayment, overdue records, credit inquiries, utilization, and identity/account handling.
-- [Consumer Loan Risk](concepts/ConsumerLoanRisk.md) — Risk that car loans, consumer loans, online loans, campus loans, installments, and haircut loans are mistaken for income or harmless liquidity.
+- [Personal Credit Record](concepts/PersonalCreditRecord.md) — Borrower history built from credit use, repayment, overdue records, inquiries, utilization, identity/account handling, and repossession events.
+- [Consumer Loan Risk](concepts/ConsumerLoanRisk.md) — Risk that car loans, consumer loans, online loans, campus loans, installments, and haircut loans become hidden repayment pressure rather than harmless liquidity.
 - [Loan Intermediary Risk](concepts/LoanIntermediaryRisk.md) — Borrower risk from brokers, bank-adjacent marketing, service fees, staged approvals, AB loans, and personal-information exposure.
 - [Credit Card Debt Mechanics](concepts/CreditCardDebtMechanics.md) — Interest, fee, repayment, installment, minimum-payment, cash-withdrawal, cash-out, and card-security rules behind credit-card debt.
 - [Subculture Led Marketing](concepts/SubcultureLedMarketing.md) — Consumer-brand pattern where authentic early users make a product credible before mass-market positioning works.
