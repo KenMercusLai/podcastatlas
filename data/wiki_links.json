@@ -363,6 +363,10 @@
     "title": "49.李乌鸦来了！聊聊我们为啥爱阅读",
     "url": "/wiki/sources/49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098/"
   },
+  "50-cents-a-pool-the-pricing-model-behind-a-saas-exit": {
+    "title": "50 Cents a Pool: The Pricing Model Behind a SaaS Exit",
+    "url": "/wiki/sources/50-cents-a-pool-the-pricing-model-behind-a-saas-exit/"
+  },
   "50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604": {
     "title": "50.开膛手杰克结案报告：女法医的争议之作",
     "url": "/wiki/sources/50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604/"
@@ -6266,6 +6270,10 @@
   "FestivalFoodMaterialHistory": {
     "title": "Festival Food Material History",
     "url": "/wiki/concepts/festivalfoodmaterialhistory/"
+  },
+  "FieldFirstVerticalSaaS": {
+    "title": "Field-First Vertical SaaS",
+    "url": "/wiki/concepts/fieldfirstverticalsaas/"
   },
   "FifthDimension": {
     "title": "The Fifth Dimension / 第五维度",
@@ -12191,6 +12199,10 @@
     "title": "On Running",
     "url": "/wiki/entities/onrunning/"
   },
+  "OnboardingLedChurnReduction": {
+    "title": "Onboarding-Led Churn Reduction",
+    "url": "/wiki/concepts/onboardingledchurnreduction/"
+  },
   "OneLife": {
     "title": "One Life",
     "url": "/wiki/entities/onelife/"
@@ -13635,6 +13647,10 @@
     "title": "Queen of Hearts / 红心王后",
     "url": "/wiki/entities/queenofhearts/"
   },
+  "QuickFax": {
+    "title": "QuickFax",
+    "url": "/wiki/entities/quickfax/"
+  },
   "QuickStone": {
     "title": "QuickStone",
     "url": "/wiki/entities/quickstone/"
@@ -14266,6 +14282,10 @@
   "RonConway": {
     "title": "Ron Conway",
     "url": "/wiki/entities/ronconway/"
+  },
+  "RonHash": {
+    "title": "Ron Hash",
+    "url": "/wiki/entities/ronhash/"
   },
   "RonWyden": {
     "title": "Ron Wyden",
@@ -15190,6 +15210,10 @@
   "SkildAI": {
     "title": "Skild AI",
     "url": "/wiki/entities/skildai/"
+  },
+  "Skimmer": {
+    "title": "Skimmer",
+    "url": "/wiki/entities/skimmer/"
   },
   "Skydance": {
     "title": "Skydance",
@@ -17146,6 +17170,10 @@
   "UrbanLegend": {
     "title": "Urban Legend / 都市传说",
     "url": "/wiki/concepts/urbanlegend/"
+  },
+  "UsageBasedVerticalSaaSPricing": {
+    "title": "Usage-Based Vertical SaaS Pricing",
+    "url": "/wiki/concepts/usagebasedverticalsaaspricing/"
   },
   "UserPoweredContentPlatform": {
     "title": "User-Powered Content Platform",

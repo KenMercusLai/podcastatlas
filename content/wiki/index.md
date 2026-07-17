@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [50 Cents a Pool: The Pricing Model Behind a SaaS Exit](sources/50-cents-a-pool-the-pricing-model-behind-a-saas-exit.md) — The SaaS Podcast episode with Ron Hash on building Skimmer for pool-service companies, field-first mobile UX, offline technician workflows, serviced-customer pricing, onboarding-led churn reduction, and selling after reaching $1M+ ARR.
 - [The sneaky way companies get new chemicals into our food](sources/the-sneaky-way-companies-get-new-chemicals-into-our-food.md) — Planet Money episode on Daily Harvest, tara flour, Secret GRAS, food-additive self-certification, FDA notification gaps, arbitration, litigation discovery, and post-harm regulation.
 - [The leaked tapes that show how the rich avoid taxes](sources/the-leaked-tapes-that-show-how-the-rich-avoid-taxes.md) — Planet Money episode on the Malta tax loophole, U.S.-Malta treaty arbitrage, IRS enforcement, economic substance, leaked strategy calls, disclosure rules, and the politics of tax shelter enforcement.
 - [The giant factory town that might be a giant mistake](sources/the-giant-factory-town-that-might-be-a-giant-mistake.md) — Planet Money episode on Manaus, Brazil's free-zone factory model, subsidy-dependent assembly, the middle-income trap, premature deindustrialization, and local innovation paths beyond old manufacturing.
@@ -474,6 +475,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Ron Hash](entities/RonHash.md) — Skimmer founder and QuickFax builder whose SaaS Podcast episode covers vertical SaaS validation, pricing, onboarding, support, acquisition, and founder role transition.
+- [Skimmer](entities/Skimmer.md) — Pool-service vertical SaaS company built around mobile route execution, chemical logs, offline field work, serviced-customer pricing, and support-led growth.
+- [QuickFax](entities/QuickFax.md) — Ron Hash's accountless online faxing product, framed as another simple solution to an unglamorous workflow pain.
 - [Carolyn Schenck](entities/CarolynSchenck.md) — Former IRS lawyer whose account grounds the episode's enforcement view of the Malta tax loophole.
 - [Lauren Loricchio](entities/LaurenLoricchio.md) — Tax Notes reporter whose pitch materials and leaked recordings surface the promotion and defense of the Malta strategy.
 - [Tax Notes](entities/TaxNotes.md) — Specialist tax-journalism publication whose reporting feeds the Planet Money investigation.
@@ -3047,6 +3051,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Usage-Based Vertical SaaS Pricing](concepts/UsageBasedVerticalSaaSPricing.md) — Pricing pattern where a vertical software product charges against a domain-specific value metric, such as Skimmer's serviced-customer count, rather than generic seats.
+- [Field-First Vertical SaaS](concepts/FieldFirstVerticalSaaS.md) — Vertical software strategy that designs around frontline field workers, mobile devices, offline use, and fast repeated data entry rather than only office dashboards.
+- [Onboarding-Led Churn Reduction](concepts/OnboardingLedChurnReduction.md) — SaaS retention pattern where welcome calls, setup instrumentation, device fit, and a fast path to the first real workflow reduce early churn.
 - [Malta Tax Loophole](concepts/MaltaTaxLoophole.md) — Strategy using Maltese retirement accounts and U.S.-Malta treaty language to shelter appreciated assets from U.S. tax.
 - [Tax Avoidance-Evasion Boundary](concepts/TaxAvoidanceEvasionBoundary.md) — Contested legal line between lawful tax planning and abusive or illegal sheltering.
 - [Tax Treaty Arbitrage](concepts/TaxTreatyArbitrage.md) — Use of treaty mismatches or ambiguity to reduce tax liability across jurisdictions.

@@ -3601,6 +3601,10 @@ Ran health and lint. Health scanned 4,708 pages and passed with no empty/stub fi
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-18] ingest | 50 Cents a Pool: The Pricing Model Behind a SaaS Exit
+
+Added source page for The SaaS Podcast episode with Ron Hash on Skimmer, a pool-service vertical SaaS that replaced paper routes, chemical logs, billing notes, and technician workflows with mobile/offline field software. Created pages for Ron Hash, Skimmer, QuickFax, Usage-Based Vertical SaaS Pricing, Field-First Vertical SaaS, and Onboarding-Led Churn Reduction; updated overview, index, The SaaS Podcast, Omer Khan, Vertical SaaS Domain Expertise, SaaS Trust Moat, Product-Led Willingness To Pay, Customer Pull, Fast Product Validation, and Founder Role Transition. No direct contradiction found; the source extends the SaaS pricing branch with a pre-AI value metric where serviced-customer count fits the customer's business better than a seat license.
+
 ## [2026-07-18] ingest | The leaked tapes that show how the rich avoid taxes
 
 Added source page for the Planet Money episode on the Malta tax loophole, U.S.-Malta treaty arbitrage, wealthy Americans' use of Maltese retirement accounts, IRS Dirty Dozen warnings, economic substance analysis, treaty clarification, leaked strategy calls, proposed disclosure regulation, and the later stall in enforcement. Created pages for Carolyn Schenck, Lauren Loricchio, Tax Notes, Andrew Gradman, Kenneth Keyes, Dominion Fiduciary Services, Malta, the U.S.-Malta Tax Treaty, Malta Tax Loophole, Tax Avoidance-Evasion Boundary, Tax Treaty Arbitrage, Economic Substance Doctrine, Tax Shelter Disclosure Regulation, and Tax Enforcement Capacity; updated overview, index, NPR, Planet Money, Internal Revenue Service, U.S. Treasury, Department of Government Efficiency, and Donald Trump. No direct contradiction found; the source extends existing IRS/DOGE/public-sector branches from service delivery and reorganization into tax-shelter enforcement capacity.
@@ -3806,3 +3810,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.

@@ -2,8 +2,8 @@
 title: "Vertical SaaS Domain Expertise"
 type: concept
 tags: [startups, saas, vertical-software, domain-expertise]
-sources: [tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, socialradarsseason1-tracyyoung-final-1]
-last_updated: 2026-07-12
+sources: [tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, socialradarsseason1-tracyyoung-final-1, 50-cents-a-pool-the-pricing-model-behind-a-saas-exit]
+last_updated: 2026-07-18
 ---
 
 # Vertical SaaS Domain Expertise
@@ -14,6 +14,8 @@ The episode shows why domain expertise is not only a sales credential. It shapes
 
 [[tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio]] adds the life-sciences version through [[SajithWickramasekara]] and [[Benchling]]. Sajith studied computer science at [[MIT]] while working in biology labs, and saw that scientists were still using paper notebooks, spreadsheets, and email. The case shows cross-domain founder fit: enough software taste to know better collaboration was possible, plus enough lab exposure to see why scientific workflows needed a specialized product.
 
+[[50-cents-a-pool-the-pricing-model-behind-a-saas-exit]] adds the outsider-learning version through [[RonHash]] and [[Skimmer]]. Ron was not a pool-service operator himself, but a friend's complaint, a cold call, welcome calls, support work, and usage dashboards helped him learn the field workflow tightly enough to build [[FieldFirstVerticalSaaS]] for technicians replacing paper routes and chemical logs.
+
 ## Key Claims
 - A vertical workflow can be high-value even when it looks ordinary or low-status from outside the industry.
 - Lived domain experience helps founders demonstrate pain concretely, as PlanGrid did by bringing paper blueprints into the [[YCombinator]] interview.
@@ -22,6 +24,7 @@ The episode shows why domain expertise is not only a sales credential. It shapes
 - The concept complements [[DomainExpertAlignment]] by showing the non-AI SaaS version of the same grounding problem.
 - Domain expertise can come from working inside adjacent environments, not only from spending a full career in the target industry.
 - In scientific software, the domain surface includes experiment design, data capture, collaboration, provenance, and expensive downstream failure.
+- In field-service software, domain learning has to include the worker's device, signal, speed, physical context, and repeated data-entry burden, not only the owner's administrative workflow.
 
 ## Connections
 - [[TracyYoung]], [[RyanSuttonGee]], [[AntoineHersen]], and [[RalphGoody]] - source founding team.
@@ -29,3 +32,4 @@ The episode shows why domain expertise is not only a sales credential. It shapes
 - [[FounderProductFit]], [[ProductLedWillingnessToPay]], and [[CustomerPull]] - adjacent validation concepts.
 - [[VerticalWorkflowAI]] and [[DomainExpertAlignment]] - related AI-era workflow concepts.
 - [[SajithWickramasekara]], [[Benchling]], [[MIT]], and [[LifeSciencesWorkflowSoftware]] - life-sciences software case added by the Benchling source.
+- [[RonHash]], [[Skimmer]], [[FieldFirstVerticalSaaS]], [[UsageBasedVerticalSaaSPricing]], and [[OnboardingLedChurnReduction]] - pool-service SaaS case added by The SaaS Podcast.
