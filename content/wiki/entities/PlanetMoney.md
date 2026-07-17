@@ -2,7 +2,7 @@
 title: "Planet Money"
 type: entity
 tags: [podcast, media, economics]
-sources: [two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
+sources: [building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
 last_updated: 2026-07-17
 ---
 
@@ -30,6 +30,8 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 
 [[two-indicators-for-lowering-the-rent]] adds a housing-affordability case split between [[InstitutionalSingleFamilyRental]] and [[SingleRoomOccupancyHousing]]. The episode uses [[AmandaCantrell]], [[StephenBillings]], [[LoriGoodman]], [[AdrienneToddman]], [[VeraHill]], and [[RebeccaBairdRemba]] to argue that corporate landlords are too small nationally to be the main housing-cost driver, while SRO disappearance shows how rules and redevelopment can remove very cheap housing supply.
 
+[[building-things-and-breaking-things-in-china-summer-school-world-tour]] adds a Summer School political-economy case on [[China]]. The episode uses [[DanWang]] and [[Breakneck]] to connect [[EngineeringState]], [[InfrastructureMalinvestment]], [[ChinaRealEstateDebtCycle]], [[ChinaYouthUnemployment]], [[ChinaLowRedistributionState]], and [[BuildBuildRegulate]] into a lesson about building capacity with feedback and guardrails.
+
 ## Connections
 - [[NPR]] — network and public-media organization behind the appeal.
 - [[KatherineMaher]] — NPR CEO speaking in the message.
@@ -45,3 +47,4 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 - [[WetzelsPretzels]], [[RickyAlam]], [[ImpulseRetailClustering]], and [[SharedKitchenSatelliteRetail]] - impulse-retail and franchise-cluster branch added by the Wetzel's episode.
 - [[DietarySupplementRegulation]], [[Prevagen]], [[MarionNestle]], and [[SupplementLabelAccuracy]] - supplement regulation and consumer-health branch added by the supplement episode.
 - [[InstitutionalSingleFamilyRental]], [[BuildToRentHousing]], [[SingleRoomOccupancyHousing]], and [[SROLossAndHomelessness]] - housing-affordability branch added by the rent episode.
+- [[DanWang]], [[EngineeringState]], [[Evergrande]], [[ChinaYouthUnemployment]], and [[BuildBuildRegulate]] - China Summer School branch added by the new episode.

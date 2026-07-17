@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Building things and breaking things in China (Summer School World Tour)](sources/building-things-and-breaking-things-in-china-summer-school-world-tour.md) — Planet Money Summer School episode with Dan Wang on China as an engineering state, real-estate debt, infrastructure malinvestment, youth unemployment, low redistribution, and the U.S. lesson to build with regulation.
 - [如何「兜住」一颗火箭？｜ S10E21](sources/ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0.md) — What's Next episode with Jerry/太空僧 on Long March 10B sea-net recovery, recovery ship control, reusable-rocket route choice, and the gap between first recovery and economical reuse.
 - [173.当缅怀高善文博士时，我们究竟在怀念什么？](sources/173-dang-mianhuai-gaoshanwen-boshi-shi-women-jiujing-zai-huainian-shenme-lruwsn-me-sheuddobz13rmhwhfe.md) — 起朱楼宴宾客 episode on 高善文, asset revaluation theory, balance-sheet macro analysis, sell-side macro research, falling capital returns, and the public-expression environment for evidence-backed economic speech.
 - [Two indicators for lowering the rent](sources/two-indicators-for-lowering-the-rent.md) — Planet Money episode on corporate single-family landlords, build-to-rent supply, SRO disappearance, homelessness, and why housing restrictions can backfire when they remove cheap or new rental supply.
@@ -442,6 +443,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Dan Wang](entities/DanWang.md) — Author and Hoover Institution fellow whose engineering-state frame anchors the episode.
+- [Breakneck](entities/Breakneck.md) — Dan Wang book used by the episode to frame China as an engineering state.
+- [Hoover Institution](entities/HooverInstitution.md) — Policy research institution named as Dan Wang's affiliation.
+- [Desmond Shum](entities/DesmondShum.md) — Property developer whose airport-logistics deal grounds the real-estate boom case.
+- [Whitney Duan](entities/WhitneyDuan.md) — Desmond Shum's business partner in the airport-logistics development story.
+- [Evergrande](entities/Evergrande.md) — Chinese property developer used as the central debt-cycle case.
+- [Xu Jiayin](entities/XuJiayin.md) — Evergrande founder used by the episode to symbolize boom-era property excess.
+- [Xi Jinping](entities/XiJinping.md) — Chinese leader whose anti-speculation housing line marks the policy pivot in the episode.
+- [Nancy Qian](entities/NancyQian.md) — Economist explaining China's youth unemployment, job scarcity, and productivity risk.
+- [Aze](entities/Aze.md) — Young Beijing woman whose hidden unemployment grounds the youth case study.
+- [Guizhou](entities/Guizhou.md) — Province used as the episode's example of impressive but possibly misallocated infrastructure.
 - [Jerry / 太空僧](entities/JerryTaikongSeng.md) — Aerospace practitioner and guest explaining Long March 10B's sea-net recovery mechanics.
 - [Long March 10B / 长征十号乙](entities/LongMarch10B.md) — Chinese reusable launch vehicle framed through first-stage sea-net recovery and later reuse validation.
 - [Long March 10A / 长征十号甲](entities/LongMarch10A.md) — Manned Long March 10 variant whose first-stage technology shortens the Long March 10B path in the episode.
@@ -2792,6 +2804,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Engineering State](concepts/EngineeringState.md) — Dan Wang's frame for a state that treats development as building, technical systems, and physical transformation.
+- [Infrastructure Malinvestment](concepts/InfrastructureMalinvestment.md) — Pattern where visible infrastructure absorbs resources despite weaker local demand or more urgent public-service needs.
+- [China Real Estate Debt Cycle](concepts/ChinaRealEstateDebtCycle.md) — Property boom-bust loop linking households, developers, local governments, land finance, debt caps, and unfinished apartments.
+- [China Youth Unemployment](concepts/ChinaYouthUnemployment.md) — Labor-market and expectations crisis facing young Chinese graduates after boom-era mobility weakens.
+- [China Low-Redistribution State](concepts/ChinaLowRedistributionState.md) — Episode frame for China's thin welfare support, low tax regime, and limited redistribution despite socialist language.
+- [Build, Build, Regulate](concepts/BuildBuildRegulate.md) — U.S. lesson from the China comparison: build more housing, infrastructure, and manufacturing with stronger guardrails.
 - [Sea-Net Rocket Recovery](concepts/SeaNetRocketRecovery.md) — Sea-based flexible tension-net method for catching a returning rocket stage.
 - [Rocket Recovery Route Choice](concepts/RocketRecoveryRouteChoice.md) — Tradeoff frame comparing landing legs, tower catch, and sea-net capture.
 - [Marine Recovery Platform Control](concepts/MarineRecoveryPlatformControl.md) — Control problem of catching a rocket on a moving sea platform with dynamic positioning and communication.

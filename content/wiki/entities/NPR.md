@@ -2,7 +2,7 @@
 title: "NPR"
 type: entity
 tags: [media, public-media, journalism]
-sources: [two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
+sources: [building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
 last_updated: 2026-07-17
 ---
 
@@ -30,6 +30,8 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 
 [[two-indicators-for-lowering-the-rent]] adds a reported [[PlanetMoney]] episode on housing affordability, corporate landlords, build-to-rent supply, SRO disappearance, and homelessness. It extends NPR's economics-reporting branch into [[HousingAffordabilitySupplyMechanics]], [[CorporateLandlordTradeoffs]], [[HousingRestrictionBackfire]], [[SingleRoomOccupancyHousing]], and [[SharedHousingRevival]].
 
+[[building-things-and-breaking-things-in-china-summer-school-world-tour]] adds a [[PlanetMoney]] Summer School episode on [[China]] as an [[EngineeringState]]. It extends NPR's economics-reporting branch into development policy, real-estate debt, youth unemployment, welfare design, and the comparative U.S. lesson captured by [[BuildBuildRegulate]].
+
 ## Connections
 - [[KatherineMaher]] — NPR CEO and speaker in the appeal.
 - [[PublicMediaFunding]] — central issue in the source.
@@ -45,3 +47,4 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 - [[WetzelsPretzels]], [[RickyAlam]], [[ImpulseRetailClustering]], and [[SharedKitchenSatelliteRetail]] - impulse-retail branch added through Planet Money.
 - [[DietarySupplementRegulation]], [[Prevagen]], [[SupplementStructureFunctionClaims]], and [[ThirdPartySupplementTesting]] - supplement-regulation branch added through Planet Money.
 - [[HousingAffordabilitySupplyMechanics]], [[InstitutionalSingleFamilyRental]], [[SingleRoomOccupancyHousing]], and [[SupportiveHousingManagement]] - housing affordability and SRO branch added through Planet Money.
+- [[China]], [[EngineeringState]], [[InfrastructureMalinvestment]], [[ChinaRealEstateDebtCycle]], and [[BuildBuildRegulate]] - China development branch added through Planet Money Summer School.

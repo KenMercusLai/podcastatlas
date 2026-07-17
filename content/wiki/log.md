@@ -3532,3 +3532,11 @@ Ran an initial lint before refreshing the graph. Lint scanned 4,618 pages and fo
 ## [2026-07-17] lint | Wiki health check
 
 Ran health and lint after refreshing the graph. Health scanned 4,618 pages and passed with no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 4,618 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, no fragile bridges, and no isolated communities. The semantic LiteLLM pass failed because `LLM_MODEL` and API-key env vars are unset. No `wiki/lint-report.md` file was saved.
+
+## [2026-07-17] ingest | Building things and breaking things in China (Summer School World Tour)
+
+Added source page for the Planet Money Summer School episode with Dan Wang on China as an engineering state. Created pages for Dan Wang, Breakneck, Hoover Institution, Desmond Shum, Whitney Duan, Evergrande, Xu Jiayin, Xi Jinping, Nancy Qian, Aze, Guizhou, Engineering State, Infrastructure Malinvestment, China Real Estate Debt Cycle, China Youth Unemployment, China Low-Redistribution State, and Build, Build, Regulate; updated overview, index, NPR, Planet Money, China, United States, Youth Happiness After Growth, Tech Manufacturing Reshoring, Housing Affordability Supply Mechanics, and China Divorce Restrictions. No direct contradiction found; the source qualifies pro-building arguments by showing why construction capacity needs demand feedback, debt discipline, anti-corruption controls, and social support.
+
+## [2026-07-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

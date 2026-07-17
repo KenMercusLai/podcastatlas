@@ -2179,6 +2179,10 @@
     "title": "Aysha Akhtar / 阿依莎·阿赫塔",
     "url": "/wiki/entities/ayshaakhtar/"
   },
+  "Aze": {
+    "title": "Aze",
+    "url": "/wiki/entities/aze/"
+  },
   "BASES": {
     "title": "BASES",
     "url": "/wiki/entities/bases/"
@@ -2675,6 +2679,10 @@
     "title": "Brazil",
     "url": "/wiki/entities/brazil/"
   },
+  "Breakneck": {
+    "title": "Breakneck",
+    "url": "/wiki/entities/breakneck/"
+  },
   "Brenin": {
     "title": "Brenin / 布列宁",
     "url": "/wiki/entities/brenin/"
@@ -2762,6 +2770,10 @@
   "BuildABear": {
     "title": "Build-A-Bear",
     "url": "/wiki/entities/buildabear/"
+  },
+  "BuildBuildRegulate": {
+    "title": "Build, Build, Regulate",
+    "url": "/wiki/concepts/buildbuildregulate/"
   },
   "BuildForYourselfFounderFit": {
     "title": "Build For Yourself Founder Fit",
@@ -3331,6 +3343,10 @@
     "title": "China International Famine Relief Commission / 华洋义赈会",
     "url": "/wiki/entities/chinainternationalfaminereliefcommission/"
   },
+  "ChinaLowRedistributionState": {
+    "title": "China Low-Redistribution State",
+    "url": "/wiki/concepts/chinalowredistributionstate/"
+  },
   "ChinaMobile": {
     "title": "China Mobile / 中国移动",
     "url": "/wiki/entities/chinamobile/"
@@ -3338,6 +3354,10 @@
   "ChinaNationalAviationHolding": {
     "title": "China National Aviation Holding / 中航集团",
     "url": "/wiki/entities/chinanationalaviationholding/"
+  },
+  "ChinaRealEstateDebtCycle": {
+    "title": "China Real Estate Debt Cycle",
+    "url": "/wiki/concepts/chinarealestatedebtcycle/"
   },
   "ChinaSecuritiesCo": {
     "title": "中信建投证券",
@@ -3358,6 +3378,10 @@
   "ChinaUnicom": {
     "title": "China Unicom",
     "url": "/wiki/entities/chinaunicom/"
+  },
+  "ChinaYouthUnemployment": {
+    "title": "China Youth Unemployment",
+    "url": "/wiki/concepts/chinayouthunemployment/"
   },
   "ChineseCharacterEvidenceDiscipline": {
     "title": "Chinese Character Evidence Discipline",
@@ -4255,6 +4279,10 @@
     "title": "Dan Levine",
     "url": "/wiki/entities/danlevine/"
   },
+  "DanWang": {
+    "title": "Dan Wang",
+    "url": "/wiki/entities/danwang/"
+  },
   "Dangdang": {
     "title": "当当 / Dangdang",
     "url": "/wiki/entities/dangdang/"
@@ -4574,6 +4602,10 @@
   "DesignedAgencyInGames": {
     "title": "Designed Agency In Games",
     "url": "/wiki/concepts/designedagencyingames/"
+  },
+  "DesmondShum": {
+    "title": "Desmond Shum",
+    "url": "/wiki/entities/desmondshum/"
   },
   "DeterministicAuditData": {
     "title": "Deterministic Audit Data",
@@ -5351,6 +5383,10 @@
     "title": "Engineering Competition",
     "url": "/wiki/concepts/engineeringcompetition/"
   },
+  "EngineeringState": {
+    "title": "Engineering State",
+    "url": "/wiki/concepts/engineeringstate/"
+  },
   "EnterpriseAgentGovernance": {
     "title": "Enterprise Agent Governance",
     "url": "/wiki/concepts/enterpriseagentgovernance/"
@@ -5478,6 +5514,10 @@
   "EventContractManipulationRisk": {
     "title": "Event Contract Manipulation Risk",
     "url": "/wiki/concepts/eventcontractmanipulationrisk/"
+  },
+  "Evergrande": {
+    "title": "Evergrande",
+    "url": "/wiki/entities/evergrande/"
   },
   "EverydayAutobiographicalComics": {
     "title": "Everyday Autobiographical Comics",
@@ -6911,6 +6951,10 @@
     "title": "Guillaume Cabane",
     "url": "/wiki/entities/guillaumecabane/"
   },
+  "Guizhou": {
+    "title": "Guizhou",
+    "url": "/wiki/entities/guizhou/"
+  },
   "GulfCooperationCouncil": {
     "title": "Gulf Cooperation Council",
     "url": "/wiki/entities/gulfcooperationcouncil/"
@@ -7435,6 +7479,10 @@
     "title": "Hookie",
     "url": "/wiki/entities/hookie/"
   },
+  "HooverInstitution": {
+    "title": "Hoover Institution",
+    "url": "/wiki/entities/hooverinstitution/"
+  },
   "HopeIsTheThingWithFeathersBook": {
     "title": "《希望是那长着羽毛的小东西》 / Hope Is the Thing with Feathers",
     "url": "/wiki/entities/hopeisthethingwithfeathersbook/"
@@ -7810,6 +7858,10 @@
   "InformedOptimism": {
     "title": "Informed Optimism",
     "url": "/wiki/concepts/informedoptimism/"
+  },
+  "InfrastructureMalinvestment": {
+    "title": "Infrastructure Malinvestment",
+    "url": "/wiki/concepts/infrastructuremalinvestment/"
   },
   "IngridClayton": {
     "title": "Ingrid Clayton",
@@ -10802,6 +10854,10 @@
   "NYUCenterOnTechnologyPolicy": {
     "title": "NYU Center on Technology Policy",
     "url": "/wiki/entities/nyucenterontechnologypolicy/"
+  },
+  "NancyQian": {
+    "title": "Nancy Qian",
+    "url": "/wiki/entities/nancyqian/"
   },
   "NanfangQuanqiu": {
     "title": "南方全球",
@@ -16279,6 +16335,10 @@
     "title": "White Rabbit / 白兔",
     "url": "/wiki/entities/whiterabbit/"
   },
+  "WhitneyDuan": {
+    "title": "Whitney Duan",
+    "url": "/wiki/entities/whitneyduan/"
+  },
   "WholeFoodsMarket": {
     "title": "Whole Foods Market",
     "url": "/wiki/entities/wholefoodsmarket/"
@@ -16487,6 +16547,10 @@
     "title": "Xcode",
     "url": "/wiki/entities/xcode/"
   },
+  "XiJinping": {
+    "title": "Xi Jinping",
+    "url": "/wiki/entities/xijinping/"
+  },
   "Xiangling": {
     "title": "香菱 / Xiangling",
     "url": "/wiki/entities/xiangling/"
@@ -16602,6 +16666,10 @@
   "XuHuazhe": {
     "title": "Xu Huazhe",
     "url": "/wiki/entities/xuhuazhe/"
+  },
+  "XuJiayin": {
+    "title": "Xu Jiayin",
+    "url": "/wiki/entities/xujiayin/"
   },
   "XuShen": {
     "title": "许慎",
@@ -17258,6 +17326,10 @@
   "build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88": {
     "title": "Build-A-Bear: Maxine Clark. A Former Shoe Executive Launches a Stuffed Animal Empire",
     "url": "/wiki/sources/build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88/"
+  },
+  "building-things-and-breaking-things-in-china-summer-school-world-tour": {
+    "title": "Building things and breaking things in China (Summer School World Tour)",
+    "url": "/wiki/sources/building-things-and-breaking-things-in-china-summer-school-world-tour/"
   },
   "can-computer-hackers-get-inside-your-mind": {
     "title": "Can computer hackers get inside your mind?",

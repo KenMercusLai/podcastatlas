@@ -2,7 +2,7 @@
 title: "Youth Happiness After Growth"
 type: concept
 tags: [youth, happiness, society, life-design]
-sources: [vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
+sources: [building-things-and-breaking-things-in-china-summer-school-world-tour, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
 last_updated: 2026-07-15
 ---
 
@@ -13,6 +13,8 @@ Youth happiness after growth is the main synthesis of [[vol-102-aoguo-jiuye-bing
 The source does not reduce happiness to attitude repair. Its answer combines material conditions, [[SocialTrustAndHappiness]], low-pressure companions, [[MicroHappiness]], [[ArtisanalAttention]], bounded empathy, and permission to pause when the old path has stopped making sense.
 
 [[vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]] adds a China-side 95后 account through [[SiriQizhulou|Siri]]. The episode argues that after macro growth and personal-upward narratives lose force, younger people may care more about whether this day or this year feels workable, and may protect happiness through [[ControllableLifeAnchors]], relationship choice, and attention boundaries rather than through one grand life plan.
+
+[[building-things-and-breaking-things-in-china-summer-school-world-tour]] adds a harder labor-market case through [[Aze]] and [[NancyQian]]. It turns post-growth happiness from a life-design question into [[ChinaYouthUnemployment]]: when white-collar jobs shrink, family expectations remain high, and 996-style work feels intolerable, young people may pause, hide, or redirect attention toward hobbies and daily survivability.
 
 ## Key Claims
 - Ordinary happiness moments may not have changed much, but their role changes when pessimism becomes the background mood.
@@ -28,3 +30,4 @@ The source does not reduce happiness to attitude repair. Its answer combines mat
 - [[HikikomoriStrategicRetreat]], [[CareerShoreMyth]], and [[GraduationAnxiety]] - pressure and pause branch.
 - [[EmpathyBoundaries]], [[AlgorithmicLabeling]], and [[AttentionIndustrialization]] - relationship and information-environment branch.
 - [[ChoiceTriggeredAttentionBoundary]], [[ControllableLifeAnchors]], and [[RelationshipOptionality]] - vol.107's youth-choice and daily-anchor extension.
+- [[Aze]], [[NancyQian]], and [[ChinaYouthUnemployment]] - Planet Money China case that turns the post-growth frame into a labor-market and expectations problem.

@@ -2,7 +2,7 @@
 title: "Housing Affordability Supply Mechanics"
 type: concept
 tags: [housing, economics, affordability, supply]
-sources: [two-indicators-for-lowering-the-rent]
+sources: [building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent]
 last_updated: 2026-07-17
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-17
 Housing affordability supply mechanics is the source's insistence that high rents and prices need to be explained through construction, interest rates, financing, available housing forms, and policy constraints rather than through one visible culprit. In [[two-indicators-for-lowering-the-rent]], corporate landlords are politically salient but not large enough nationally to explain housing-cost pressure on their own.
 
 The concept spans both halves of the episode. [[InstitutionalSingleFamilyRental]] is treated as too small nationally but locally relevant, while [[SingleRoomOccupancyHousing]] shows what happens when a cheap housing form is regulated, converted, or socially rejected out of existence.
+
+[[building-things-and-breaking-things-in-china-summer-school-world-tour]] adds the warning case from the opposite direction. [[ChinaRealEstateDebtCycle]] shows that building too many speculative or debt-financed homes can also damage affordability, household wealth, and local-government finance when construction is not tied to real demand and debt discipline.
 
 ## Key Claims
 - Low construction and low interest rates are named as larger national price drivers than institutional home purchases.
@@ -23,3 +25,4 @@ The concept spans both halves of the episode. [[InstitutionalSingleFamilyRental]
 - [[HousingRestrictionBackfire]] - policy unintended-consequence branch.
 - [[SingleRoomOccupancyHousing]] - cheap-room supply branch.
 - [[SROLossAndHomelessness]] - affordability failure when very-low-cost rooms disappear.
+- [[ChinaRealEstateDebtCycle]] and [[BuildBuildRegulate]] - overbuilding and guardrail branch added by the China comparison.
