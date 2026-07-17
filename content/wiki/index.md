@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [68.疯狂实验史：哎！这该死的求知欲…](sources/68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549.md) — 蜜獾吃书 episode on 《疯狂实验史》, experimental science, galvanism, self-experimentation, animal and child experiment ethics, circadian rhythms, spider drug-web studies, Darwin's earthworms, and the Doppler effect.
 - [67.美狄亚：古希腊秦香莲的复仇及其现代性](sources/67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556.md) — 蜜獾吃书 episode on Euripides' Medea, Greek tragedy, the Golden Fleece, Jason, female revenge, child murder, Dionysian freedom, and tragic modernity.
 - [66.鱼翅与花椒：聊吃的我可就不困了](sources/66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536.md) — 蜜獾吃书 episode on Fuchsia Dunlop's 《鱼翅与花椒》, Sichuan cuisine, culinary grammar, texture, food bias, market freshness, identity transformation, and animal-ethics comparison.
 - [Diary of a WNBA negotiator](sources/diary-of-a-wnba-negotiator.md) — Planet Money episode on Alicia Clark, the WNBPA's revenue-share negotiation, WNBA media-rights growth, data-backed bargaining, housing benefits, and strike leverage.
@@ -450,6 +451,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《疯狂实验史》](entities/FengkuangShiyanShi.md) — Book/topic frame for the 蜜獾吃书 episode on strange experiments, scientific curiosity, and ethics.
+- [Frankenstein / 《弗兰肯斯坦》](entities/Frankenstein.md) — Gothic science-fiction work used by the source to connect galvanic experiment, body animation, and literary imagination.
+- [Giovanni Aldini / 乔瓦尼·阿尔迪尼](entities/GiovanniAldini.md) — Early electrical experimenter whose corpse-electrification demonstrations become the source's public-spectacle case.
+- [Stubbins Ffirth / 斯塔宾斯·福斯](entities/StubbinsFfirth.md) — Yellow-fever self-experimenter used by the source to show the gap between self-risk and valid inference.
+- [August Bier / 奥古斯特·比尔](entities/AugustBier.md) — Spinal-anesthesia experimenter whose source case combines self-experimentation, pain testing, and credit dispute.
+- [Winthrop Kellogg / 凯洛格](entities/WinthropKellogg.md) — Psychologist whose chimpanzee-child co-rearing experiment anchors the source's child and animal ethics branch.
+- [Charles Darwin / 查尔斯·达尔文](entities/CharlesDarwin.md) — Naturalist whose earthworm sensory tests illustrate small-question experimental discipline in the source.
+- [Robert Boyle / 罗伯特·波义耳](entities/RobertBoyle.md) — Experimental natural philosopher used in the source's Hobbes-Boyle contrast over experiment and authority.
 - [《美狄亚》 / Medea](entities/MedeaPlay.md) — Euripides tragedy read through Greek tragedy, female speech, revenge, child murder, and unresolved moral shock.
 - [Medea / 美狄亚](entities/MedeaCharacter.md) — Mythic woman and tragic protagonist whose betrayal by Jason becomes the episode's case for female revenge and anti-political rupture.
 - [Euripides / 欧里比德斯](entities/Euripides.md) — Greek tragedian treated by the source as modern-feeling for his psychological hesitation, hero deconstruction, and moral unease.
@@ -2868,6 +2877,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Experimental Science Ethics](concepts/ExperimentalScienceEthics.md) — Source frame for judging curiosity, subject selection, consent, harm, replication, interpretation, and credit in scientific experiments.
+- [Self-Experimentation](concepts/SelfExperimentation.md) — Practice of using one's own body as the experimental subject, treated as ethically distinct but not automatically reliable.
+- [Animal Experiment Ethics](concepts/AnimalExperimentEthics.md) — Source branch for frogs, dogs, cats, monkeys, chimpanzees, spiders, earthworms, and the ethics of nonhuman experimental subjects.
+- [Scientific Public Spectacle](concepts/ScientificPublicSpectacle.md) — Pattern where experiments become public performances, especially Aldini-style corpse electrification.
+- [Child Experiment Ethics](concepts/ChildExperimentEthics.md) — Source frame for non-consenting child subjects, centered on Kellogg's Donald-and-Gua co-rearing experiment.
+- [Circadian Rhythm Experimentation](concepts/CircadianRhythmExperimentation.md) — Biological timing branch around de Mairan's mimosa and Kleitman's Mammoth Cave experiment.
+- [Doppler Effect](concepts/DopplerEffect.md) — Physics case in the source, used to show the apparatus difficulty of verifying moving-source sound predictions.
+- [Experimental Failure As Knowledge](concepts/ExperimentalFailureAsKnowledge.md) — Pattern where failed, lucky, or inconclusive experiments still clarify limits when interpreted honestly.
 - [Greek Tragedy](concepts/GreekTragedy.md) — Dramatic and civic form tied to Dionysian ritual, Athenian public education, myth, chorus, restraint, and political reflection.
 - [Tragic Modernity](concepts/TragicModernity.md) — Euripidean pattern where ancient myth feels modern through psychology, moral ambiguity, hero deconstruction, and unresolved endings.
 - [Female Revenge And Political Order](concepts/FemaleRevengeAndPoliticalOrder.md) — Pattern where Medea's revenge exposes real gender injury while destroying family, city, and human relation.

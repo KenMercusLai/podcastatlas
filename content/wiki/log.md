@@ -3593,9 +3593,17 @@ Ran health and lint. Health scanned 4,708 pages and passed with no empty/stub fi
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-18] ingest | 68.疯狂实验史：哎！这该死的求知欲…
+
+Added source page for the 蜜獾吃书 episode on 《疯狂实验史》, experimental science, galvanism, corpse-electrification spectacle, self-experimentation, yellow fever, spinal anesthesia, animal and child experiment ethics, circadian rhythms, spider drug-web studies, Darwin's earthworms, and the Doppler effect. Created pages for 《疯狂实验史》, Frankenstein, Giovanni Aldini, Stubbins Ffirth, August Bier, Winthrop Kellogg, Charles Darwin, Robert Boyle, Experimental Science Ethics, Self-Experimentation, Animal Experiment Ethics, Scientific Public Spectacle, Child Experiment Ethics, Circadian Rhythm Experimentation, Doppler Effect, and Experimental Failure As Knowledge; updated overview, index, 蜜獾吃书, Mary Shelley, Thomas Hobbes, Scientific Skepticism, Scientific Self-Correction, and Observation Before Inference. No direct contradiction found; the source extends the wiki's evidence and skepticism branches by showing that curiosity produces knowledge only when experiment remains ethically bounded and interpretively correctable.
+
 ## [2026-07-18] ingest | 67.美狄亚：古希腊秦香莲的复仇及其现代性
 
 Added source page for the 蜜獾吃书 episode on Euripides' 《美狄亚》, Greek tragedy, the Golden Fleece, Jason, Medea's female-position speech, child murder, Dionysian freedom, and tragic modernity. Created pages for 《美狄亚》 / Medea, Medea / 美狄亚, Euripides, Jason, Golden Fleece, Dionysus, The Bacchae, Greek Tragedy, Tragic Modernity, and Female Revenge And Political Order; updated overview, index, 蜜獾吃书, Greek Mythology, Classic Reading Complexity, Female Self-Possession, and Moral Suspension In Art Reading. No direct contradiction found; the source extends the wiki's Greek mythology and revenge branches by showing mythical vengeance as tragic civic and psychological rupture rather than modern legal public-opinion conflict.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-18] lint | Wiki health check
 

@@ -431,6 +431,10 @@
     "title": "67.美狄亚：古希腊秦香莲的复仇及其现代性",
     "url": "/wiki/sources/67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556/"
   },
+  "68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549": {
+    "title": "68.疯狂实验史：哎！这该死的求知欲…",
+    "url": "/wiki/sources/68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549/"
+  },
   "71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384": {
     "title": "71.美妆帝国蝴蝶牌：言情小说家的国货创业往事",
     "url": "/wiki/sources/71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384/"
@@ -1723,6 +1727,10 @@
     "title": "Animal-Assisted Therapy",
     "url": "/wiki/concepts/animalassistedtherapy/"
   },
+  "AnimalExperimentEthics": {
+    "title": "Animal Experiment Ethics",
+    "url": "/wiki/concepts/animalexperimentethics/"
+  },
   "AnimalIntelligenceModes": {
     "title": "Animal Intelligence Modes",
     "url": "/wiki/concepts/animalintelligencemodes/"
@@ -2074,6 +2082,10 @@
   "AuditOpinionRisk": {
     "title": "Audit Opinion Risk",
     "url": "/wiki/concepts/auditopinionrisk/"
+  },
+  "AugustBier": {
+    "title": "August Bier / 奥古斯特·比尔",
+    "url": "/wiki/entities/augustbier/"
   },
   "AugustDerleth": {
     "title": "August Derleth / 阿古斯特·德雷斯",
@@ -3255,6 +3267,10 @@
     "title": "Character Relationship Story Logic",
     "url": "/wiki/concepts/characterrelationshipstorylogic/"
   },
+  "CharlesDarwin": {
+    "title": "Charles Darwin / 查尔斯·达尔文",
+    "url": "/wiki/entities/charlesdarwin/"
+  },
   "CharlesHenderson": {
     "title": "Charles Henderson",
     "url": "/wiki/entities/charleshenderson/"
@@ -3346,6 +3362,10 @@
   "ChiangKaiShek": {
     "title": "Chiang Kai-shek / 蒋介石",
     "url": "/wiki/entities/chiangkaishek/"
+  },
+  "ChildExperimentEthics": {
+    "title": "Child Experiment Ethics",
+    "url": "/wiki/concepts/childexperimentethics/"
   },
   "ChildOnlineCommerceSafety": {
     "title": "Child Online Commerce Safety",
@@ -3558,6 +3578,10 @@
   "CindyMcCaffrey": {
     "title": "Cindy McCaffrey",
     "url": "/wiki/entities/cindymccaffrey/"
+  },
+  "CircadianRhythmExperimentation": {
+    "title": "Circadian Rhythm Experimentation",
+    "url": "/wiki/concepts/circadianrhythmexperimentation/"
   },
   "CircleOfCompetence": {
     "title": "Circle Of Competence",
@@ -5007,6 +5031,10 @@
     "title": "DoorDash",
     "url": "/wiki/entities/doordash/"
   },
+  "DopplerEffect": {
+    "title": "Doppler Effect",
+    "url": "/wiki/concepts/dopplereffect/"
+  },
   "Dormouse": {
     "title": "Dormouse / 睡鼠",
     "url": "/wiki/entities/dormouse/"
@@ -5675,6 +5703,14 @@
     "title": "Experiential Retail",
     "url": "/wiki/concepts/experientialretail/"
   },
+  "ExperimentalFailureAsKnowledge": {
+    "title": "Experimental Failure As Knowledge",
+    "url": "/wiki/concepts/experimentalfailureasknowledge/"
+  },
+  "ExperimentalScienceEthics": {
+    "title": "Experimental Science Ethics",
+    "url": "/wiki/concepts/experimentalscienceethics/"
+  },
   "ExpertiseAmplifiedAIUse": {
     "title": "Expertise-Amplified AI Use",
     "url": "/wiki/concepts/expertiseamplifiedaiuse/"
@@ -5930,6 +5966,10 @@
   "FengduDadi": {
     "title": "丰都大帝",
     "url": "/wiki/entities/fengdudadi/"
+  },
+  "FengkuangShiyanShi": {
+    "title": "《疯狂实验史》",
+    "url": "/wiki/entities/fengkuangshiyanshi/"
   },
   "FengyanFengyu": {
     "title": "枫言枫语",
@@ -6407,6 +6447,10 @@
     "title": "Frank Cantone",
     "url": "/wiki/entities/frankcantone/"
   },
+  "Frankenstein": {
+    "title": "Frankenstein / 《弗兰肯斯坦》",
+    "url": "/wiki/entities/frankenstein/"
+  },
   "FrankishPortraiturePressure": {
     "title": "Frankish Portraiture Pressure",
     "url": "/wiki/concepts/frankishportraiturepressure/"
@@ -6818,6 +6862,10 @@
   "GinoWickman": {
     "title": "Gino Wickman",
     "url": "/wiki/entities/ginowickman/"
+  },
+  "GiovanniAldini": {
+    "title": "Giovanni Aldini / 乔瓦尼·阿尔迪尼",
+    "url": "/wiki/entities/giovannialdini/"
   },
   "GirishRedikar": {
     "title": "Girish Redikar",
@@ -13395,6 +13443,10 @@
     "title": "Robbie McCluskey",
     "url": "/wiki/entities/robbiemccluskey/"
   },
+  "RobertBoyle": {
+    "title": "Robert Boyle / 罗伯特·波义耳",
+    "url": "/wiki/entities/robertboyle/"
+  },
   "RobertForsythe": {
     "title": "Robert Forsythe",
     "url": "/wiki/entities/robertforsythe/"
@@ -13795,6 +13847,10 @@
     "title": "Science-Religion Civilization Tension",
     "url": "/wiki/concepts/sciencereligioncivilizationtension/"
   },
+  "ScientificPublicSpectacle": {
+    "title": "Scientific Public Spectacle",
+    "url": "/wiki/concepts/scientificpublicspectacle/"
+  },
   "ScientificSamplingDiscipline": {
     "title": "Scientific Sampling Discipline",
     "url": "/wiki/concepts/scientificsamplingdiscipline/"
@@ -13922,6 +13978,10 @@
   "SelfDisruptionDiscipline": {
     "title": "Self-Disruption Discipline",
     "url": "/wiki/concepts/selfdisruptiondiscipline/"
+  },
+  "SelfExperimentation": {
+    "title": "Self-Experimentation",
+    "url": "/wiki/concepts/selfexperimentation/"
   },
   "SelfSupervisedLearning": {
     "title": "Self-Supervised Learning",
@@ -14950,6 +15010,10 @@
   "Structured3DRobotData": {
     "title": "Structured 3D Robot Data",
     "url": "/wiki/concepts/structured3drobotdata/"
+  },
+  "StubbinsFfirth": {
+    "title": "Stubbins Ffirth / 斯塔宾斯·福斯",
+    "url": "/wiki/entities/stubbinsffirth/"
   },
   "Stuxnet": {
     "title": "Stuxnet",
@@ -16730,6 +16794,10 @@
   "Wink": {
     "title": "Wink",
     "url": "/wiki/entities/wink/"
+  },
+  "WinthropKellogg": {
+    "title": "Winthrop Kellogg / 凯洛格",
+    "url": "/wiki/entities/winthropkellogg/"
   },
   "Wired": {
     "title": "Wired",
