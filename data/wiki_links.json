@@ -495,6 +495,10 @@
     "title": "93.聊聊头发：秃了，就会变强吗？",
     "url": "/wiki/sources/93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489/"
   },
+  "94-jibuli-de-tiancaimen-wo-de-rensheng-jiaogei-reai-he-youyi-722350232": {
+    "title": "94.吉卜力的天才们：我的人生，交给热爱和友谊",
+    "url": "/wiki/sources/94-jibuli-de-tiancaimen-wo-de-rensheng-jiaogei-reai-he-youyi-722350232/"
+  },
   "A7A5": {
     "title": "A7A5",
     "url": "/wiki/entities/a7a5/"
@@ -1778,6 +1782,10 @@
   "AnimalWelfareProductLabeling": {
     "title": "Animal Welfare Product Labeling",
     "url": "/wiki/concepts/animalwelfareproductlabeling/"
+  },
+  "AnimationStudioCreativeEcology": {
+    "title": "Animation Studio Creative Ecology",
+    "url": "/wiki/concepts/animationstudiocreativeecology/"
   },
   "AnitaRamaswamy": {
     "title": "Anita Ramaswamy",
@@ -4222,6 +4230,10 @@
   "CreativeMaterialIndustrialization": {
     "title": "Creative Material Industrialization",
     "url": "/wiki/concepts/creativematerialindustrialization/"
+  },
+  "CreativeProducerMediation": {
+    "title": "Creative Producer Mediation",
+    "url": "/wiki/concepts/creativeproducermediation/"
   },
   "CreativeRiskAvoidanceCulture": {
     "title": "Creative Risk-Avoidance Culture",
@@ -7143,6 +7155,10 @@
     "title": "Grassroots Private Entrepreneurship",
     "url": "/wiki/concepts/grassrootsprivateentrepreneurship/"
   },
+  "GraveOfTheFireflies": {
+    "title": "《萤火虫之墓》 / Grave of the Fireflies",
+    "url": "/wiki/entities/graveofthefireflies/"
+  },
   "GreatDismalSwamp": {
     "title": "Great Dismal Swamp",
     "url": "/wiki/entities/greatdismalswamp/"
@@ -8450,6 +8466,10 @@
   "IsaacBeeckman": {
     "title": "Isaac Beeckman / 贝克曼",
     "url": "/wiki/entities/isaacbeeckman/"
+  },
+  "IsaoTakahata": {
+    "title": "Isao Takahata / 高畑勋",
+    "url": "/wiki/entities/isaotakahata/"
   },
   "IshikawaTakuboku": {
     "title": "Ishikawa Takuboku / 石川啄木",
@@ -11299,6 +11319,10 @@
     "title": "《我的名字叫红》 / My Name Is Red",
     "url": "/wiki/entities/mynameisred/"
   },
+  "MyNeighborTotoro": {
+    "title": "《龙猫》 / My Neighbor Totoro",
+    "url": "/wiki/entities/myneighbortotoro/"
+  },
   "Mycontext": {
     "title": "Mycontext",
     "url": "/wiki/entities/mycontext/"
@@ -11442,6 +11466,10 @@
   "NatureWriting": {
     "title": "Nature Writing",
     "url": "/wiki/concepts/naturewriting/"
+  },
+  "NausicaaOfTheValleyOfTheWind": {
+    "title": "《风之谷》 / Nausicaa of the Valley of the Wind",
+    "url": "/wiki/entities/nausicaaofthevalleyofthewind/"
   },
   "NearMissDesign": {
     "title": "Near-Miss Design",
@@ -12850,6 +12878,10 @@
   "PrincessElisabethOfBohemia": {
     "title": "Princess Elisabeth of Bohemia / 波西米亚公主伊丽莎白",
     "url": "/wiki/entities/princesselisabethofbohemia/"
+  },
+  "PrincessMononoke": {
+    "title": "《幽灵公主》 / Princess Mononoke",
+    "url": "/wiki/entities/princessmononoke/"
   },
   "PrincipleTech": {
     "title": "原则科技",
@@ -15307,6 +15339,10 @@
     "title": "Stubbins Ffirth / 斯塔宾斯·福斯",
     "url": "/wiki/entities/stubbinsffirth/"
   },
+  "StudioGhibli": {
+    "title": "Studio Ghibli / 吉卜力工作室",
+    "url": "/wiki/entities/studioghibli/"
+  },
   "Stuxnet": {
     "title": "Stuxnet",
     "url": "/wiki/entities/stuxnet/"
@@ -15771,6 +15807,10 @@
     "title": "《人性中的善良天使》 / The Better Angels of Our Nature",
     "url": "/wiki/entities/thebetterangelsofournature/"
   },
+  "TheBoyAndTheHeron": {
+    "title": "《你想活出怎样的人生》 / The Boy and the Heron",
+    "url": "/wiki/entities/theboyandtheheron/"
+  },
   "TheContinental": {
     "title": "The Continental",
     "url": "/wiki/entities/thecontinental/"
@@ -16114,6 +16154,10 @@
   "Toshiba": {
     "title": "Toshiba",
     "url": "/wiki/entities/toshiba/"
+  },
+  "ToshioSuzuki": {
+    "title": "Toshio Suzuki / 铃木敏夫",
+    "url": "/wiki/entities/toshiosuzuki/"
   },
   "TotalEnergies": {
     "title": "TotalEnergies",

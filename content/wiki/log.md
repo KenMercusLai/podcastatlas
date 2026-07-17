@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-18] ingest | 94.吉卜力的天才们：我的人生，交给热爱和友谊
+
+Added source page for the 蜜獾吃书 episode on 《吉卜力的天才们》, Studio Ghibli, 宫崎骏, 高畑勋, 铃木敏夫, 《风之谷》, 《龙猫》, 《萤火虫之墓》, 《幽灵公主》, 《千与千寻》, 《你想活出怎样的人生》, producer mediation, and animation-studio creative ecology. Created pages for Studio Ghibli, Toshio Suzuki, Isao Takahata, 《风之谷》, 《龙猫》, 《萤火虫之墓》, 《幽灵公主》, 《你想活出怎样的人生》, Creative Producer Mediation, and Animation Studio Creative Ecology; updated overview, index, 蜜獾吃书, Hayao Miyazaki, Spirited Away, Director Myth Deflation, Auteur Theory, and Art Commerce Integration. No direct contradiction found; the source extends existing Miyazaki/Spirited Away and director-myth pages by making production, friendship, producer judgment, labor, and distribution visible.
+
 ## [2026-07-18] ingest | 66.鱼翅与花椒：聊吃的我可就不困了
 
 Added source page for the 蜜獾吃书 episode on Fuchsia Dunlop's 《鱼翅与花椒》, 1990s Chengdu, Sichuan cuisine, huajiao, food texture, market freshness, mutual Chinese/Western food bias, culinary identity transformation, and animal-ethics comparison. Created pages for Fuchsia Dunlop / 胡霞, 《鱼翅与花椒》 / Shark's Fin and Sichuan Pepper, Sichuan, Chengdu, Sichuan Cuisine, Culinary Grammar, Food Texture Aesthetics, Food Cultural Bias, Market Freshness Culture, and Culinary Identity Transformation; updated overview, index, 蜜獾吃书, Reading As Life Experience, Non-Instrumental Literary Reading, Material History Narrative, and Food Animal Welfare. No direct contradiction found; the source complements the existing Yunnan mushroom and food-animal-welfare branches by showing how food knowledge can be learned across culture without turning appetite into uncritical praise.
@@ -3685,3 +3689,7 @@ Added source page for the 蜜獾吃书 episode on 《柏拉图上班记：哲学
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-18 with 4,694 nodes and 46,331 edges; they found no hub stubs, one fragile bridge (`entities/WangYong` -> `concepts/AIPlusTerminals`), and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [94.吉卜力的天才们：我的人生，交给热爱和友谊](sources/94-jibuli-de-tiancaimen-wo-de-rensheng-jiaogei-reai-he-youyi-722350232.md) — 蜜獾吃书 episode on Studio Ghibli, Miyazaki, Takahata, Toshio Suzuki, producer mediation, animation-studio ecology, and the production histories behind major Ghibli films.
 - [92.柏拉图上班记：用哲学搞笑职场](sources/92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350.md) — 蜜獾吃书 episode on 《柏拉图上班记》, philosophy as workplace satire, labor morality, open-office surveillance, capital-as-boss, managed freedom, and philosophers recast as company roles.
 - [91.猎巫：塞勒姆1692，从癔症开始](sources/91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018.md) — 蜜獾吃书 episode on Stacy Schiff's 《猎巫：塞勒姆1692》, the Salem witch trials, spectral evidence, coerced accusation, Puritan community fear, witch-hunt mechanisms, and modern internet moral trial.
 - [90.酉阳杂俎：血滴子和武则天手指上的黑毛](sources/90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933.md) — 蜜獾吃书 episode on 段成式《酉阳杂俎》 as a Tang miscellany of strange tales, court rumor, religion, story motifs, underworld bureaucracy, elite cruelty, and archival imagination.
@@ -460,6 +461,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Studio Ghibli / 吉卜力工作室](entities/StudioGhibli.md) — Animation studio read through Miyazaki, Takahata, Suzuki, production pressure, labor systems, promotion, and art-commerce integration.
+- [Toshio Suzuki / 铃木敏夫](entities/ToshioSuzuki.md) — Ghibli producer and former editor whose mediation connects contracts, funding, story direction, collaborators, and publicity.
+- [Isao Takahata / 高畑勋](entities/IsaoTakahata.md) — Ghibli cofounder and director framed as Miyazaki's friend-rival, demanding realist, and source of both artistic breadth and production strain.
+- [《风之谷》 / Nausicaa of the Valley of the Wind](entities/NausicaaOfTheValleyOfTheWind.md) — Pre-Ghibli film and manga route that made the later studio ecology practically possible.
+- [《龙猫》 / My Neighbor Totoro](entities/MyNeighborTotoro.md) — Ghibli film initially commercially uncertain but later central through video, television, publishing, and merchandising afterlife.
+- [《萤火虫之墓》 / Grave of the Fireflies](entities/GraveOfTheFireflies.md) — Takahata wartime animation paired with Totoro, exposing Ghibli's staff, schedule, and release-risk ecology.
+- [《幽灵公主》 / Princess Mononoke](entities/PrincessMononoke.md) — Miyazaki film used to show Suzuki's difficult-art publicity judgment around "活下去", violence, and philosophical complexity.
+- [《你想活出怎样的人生》 / The Boy and the Heron](entities/TheBoyAndTheHeron.md) — Late Miyazaki film used as the episode's frame for fantasy, unfinished farewell, and living by one's creative method.
 - [《柏拉图上班记：哲学家的职场百态》](entities/PlatoGoesToWork.md) — Comic-and-essay book that turns philosophy history into workplace satire inside 思考理性有限公司.
 - [思考理性有限公司 / Think Reason Ltd.](entities/ThinkReasonLtd.md) — Fictional company whose philosopher-staffed org chart drives episode 92's office satire.
 - [夏尔·佩潘 / Charles Pepin](entities/CharlesPepin.md) — Philosophy author credited as co-creator of 《柏拉图上班记》 and source for the episode's labor-history explanation.
@@ -2951,6 +2960,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Creative Producer Mediation](concepts/CreativeProducerMediation.md) — Producer role that turns difficult artistic ambition into fundable, finishable, releasable work through rights, persuasion, story judgment, and publicity.
+- [Animation Studio Creative Ecology](concepts/AnimationStudioCreativeEcology.md) — Frame for animation output as the result of relationships, labor systems, funding, release pressure, rivalry, and business afterlives.
 - [Philosophy Workplace Satire](concepts/PhilosophyWorkplaceSatire.md) — Method of translating philosophers and concepts into company roles, office props, and workplace procedures.
 - [Labor Moral Ambivalence](concepts/LaborMoralAmbivalence.md) — Frame for work as suffering, punishment, virtue, identity, coercion, and economic necessity at once.
 - [Office Surveillance And Privacy](concepts/OfficeSurveillancePrivacy.md) — Workplace visibility-control problem shown through open offices, screens, restroom cameras, and monitored distraction.
