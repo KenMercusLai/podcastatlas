@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Why the U.S. Has No Guaranteed Paid Vacation](sources/why-the-us-has-no-guaranteed-paid-vacation.md) — Planet Money episode on the U.S. paid-vacation outlier, European vacation rights, workplace guilt, rejected culture/tax explanations, and employer-bargained benefits.
 - [Jerome Powell and the Test of Fed Independence](sources/jerome-powell-and-the-test-of-fed-independence.md) — Planet Money episode on Jerome Powell, Trump pressure, Martin/Burns Fed history, Lael Brainard, inflation bias, Fed board removal law, and central-bank independence.
 - [The secret meeting that launched OPEC](sources/the-secret-meeting-that-launched-opec.md) — Planet Money episode on OPEC's origin against the Seven Sisters, the 1973 oil shock, Saudi swing production, quota cheating, UAE exit pressure, and why Hormuz disruption limits near-term gasoline relief.
 - [99.很久很久以前，妖怪也推理啊…](sources/99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220.md) — 蜜獾吃书 episode on 青柳碧人, 《很久很久以前，在某个地方有一具尸体》, 设定系推理, 本格推理, Japanese folk-tale rewriting, 一寸法师, and 猿蟹合战.
@@ -469,6 +470,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Adewale Maie](entities/AdewaleMaie.md) — Labor researcher whose Spain vacation observation opens Planet Money's U.S. paid-vacation comparison.
+- [Gary Cross](entities/GaryCross.md) — Historian explaining European paid-leisure politics, festivals, and American work-ethic context in the vacation episode.
+- [Daniel Hamermesh](entities/DanielHamermesh.md) — Labor economist who rejects simple culture, tax, and consumerism explanations for the U.S. vacation gap.
+- [Tom Cohen](entities/TomCohen.md) — MIT source who frames U.S. paid vacation as a missed political window and employer-bargained benefit.
+- [American Federation of Labor](entities/AmericanFederationOfLabor.md) — Union federation invoked as part of the U.S. private-bargaining path for vacation and other benefits.
 - [OPEC](entities/OPEC.md) — Oil-producing-state organization used by Planet Money to explain producer supply coordination, quotas, Saudi swing production, and UAE exit pressure.
 - [Seven Sisters Oil Majors](entities/SevenSistersOilMajors.md) — Major Western oil-company group whose late-1950s pricing and concession power triggered producer-country coordination in the OPEC episode.
 - [Saudi Arabia](entities/SaudiArabia.md) — Oil-producing country framed by the OPEC episode as founder, swing producer, quota enforcer, and UAE quota-dispute counterpart.
@@ -3010,6 +3016,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Paid Vacation As Labor Right](concepts/PaidVacationAsLaborRight.md) — Legal paid-time-off baseline contrasted with the U.S. system of employer-dependent vacation access.
+- [Employer-Bargained Benefits](concepts/EmployerBargainedBenefits.md) — U.S. benefits architecture where vacation, pensions, and health insurance are negotiated rather than universalized.
 - [Oil Producer Supply Coordination](concepts/OilProducerSupplyCoordination.md) — Mechanism by which oil-producing states influence prices by coordinating output rather than directly setting retail fuel prices.
 - [Production Quota Discipline](concepts/ProductionQuotaDiscipline.md) — Incentive problem of keeping oil producers inside agreed output limits when cheating can be individually attractive.
 - [Swing Producer Role](concepts/SwingProducerRole.md) — Stabilizing oil-market role where a producer such as Saudi Arabia adjusts output to absorb price pressure and enforce discipline.

@@ -3757,3 +3757,11 @@ Added source page for the Planet Money episode on Jerome Powell, Federal Reserve
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-18] ingest | Why the U.S. Has No Guaranteed Paid Vacation
+
+Added source page for the Planet Money episode on why the United States guarantees no paid vacation by federal law. Created pages for Adewale Maie, Gary Cross, Daniel Hamermesh, Tom Cohen, American Federation of Labor, Paid Vacation As Labor Right, and Employer-Bargained Benefits; updated overview, index, NPR, Planet Money, Sarah Gonzalez, MIT, Spain, and Labor Moral Ambivalence. No direct contradiction found; the source extends the wiki's labor branch by treating paid vacation as a political and institutional design problem rather than a simple product of culture, taxes, or consumerism.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint. Report printed in session; semantic checks unavailable because LiteLLM model/provider configuration is missing.

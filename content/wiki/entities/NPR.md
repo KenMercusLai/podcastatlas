@@ -2,7 +2,7 @@
 title: "NPR"
 type: entity
 tags: [media, public-media, journalism]
-sources: [the-secret-meeting-that-launched-opec, diary-of-a-wnba-negotiator, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down, jerome-powell-and-the-test-of-fed-independence]
+sources: [the-secret-meeting-that-launched-opec, diary-of-a-wnba-negotiator, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down, jerome-powell-and-the-test-of-fed-independence, why-the-us-has-no-guaranteed-paid-vacation]
 last_updated: 2026-07-18
 ---
 
@@ -38,6 +38,8 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 
 [[jerome-powell-and-the-test-of-fed-independence]] adds a [[PlanetMoney]] episode on [[FederalReserve]] independence. It extends NPR's economics-reporting branch into central-bank governance, [[InflationBias]], presidential pressure, Fed board removal law, and the institutional difference between dissent and political capture.
 
+[[why-the-us-has-no-guaranteed-paid-vacation]] adds a [[PlanetMoney]] episode on U.S. labor-policy exceptionalism. It extends NPR's economics-reporting branch into [[PaidVacationAsLaborRight]], [[EmployerBargainedBenefits]], workplace guilt around time off, and the institutional choice to leave vacation, pensions, and health insurance to private bargaining.
+
 ## Connections
 - [[KatherineMaher]] — NPR CEO and speaker in the appeal.
 - [[PublicMediaFunding]] — central issue in the source.
@@ -57,3 +59,4 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 - [[WNBA]], [[WNBAPlayersAssociation]], [[AliciaClark]], [[BriannaTurner]], [[DataBackedLaborBargaining]], and [[StrikeThreatAsBATNA]] - sports-labor bargaining branch added through Planet Money.
 - [[OPEC]], [[SevenSistersOilMajors]], [[SaudiArabia]], [[UnitedArabEmirates]], [[OilProducerSupplyCoordination]], and [[GreenParadox]] - oil-market coordination branch added through Planet Money.
 - [[FederalReserve]], [[JeromePowell]], [[DonaldTrump]], [[LaelBrainard]], [[CentralBankIndependence]], [[InflationBias]], and [[ForCauseRemovalStandard]] - Fed-independence branch added through Planet Money.
+- [[AdewaleMaie]], [[GaryCross]], [[DanielHamermesh]], [[TomCohen]], [[PaidVacationAsLaborRight]], and [[EmployerBargainedBenefits]] - paid-vacation labor-policy branch added through Planet Money.

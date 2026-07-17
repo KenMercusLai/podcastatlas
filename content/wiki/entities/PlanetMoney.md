@@ -2,7 +2,7 @@
 title: "Planet Money"
 type: entity
 tags: [podcast, media, economics]
-sources: [the-secret-meeting-that-launched-opec, diary-of-a-wnba-negotiator, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down, jerome-powell-and-the-test-of-fed-independence]
+sources: [the-secret-meeting-that-launched-opec, diary-of-a-wnba-negotiator, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down, jerome-powell-and-the-test-of-fed-independence, why-the-us-has-no-guaranteed-paid-vacation]
 last_updated: 2026-07-18
 ---
 
@@ -38,6 +38,8 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 
 [[jerome-powell-and-the-test-of-fed-independence]] adds a central-bank governance case. The episode uses [[JeromePowell]], [[LaelBrainard]], [[WilliamMcChesneyMartin]], [[ArthurBurns]], and [[DonaldTrump]] to explain why [[CentralBankIndependence]], [[InflationBias]], and [[ForCauseRemovalStandard]] matter beyond ordinary rate-cycle reporting.
 
+[[why-the-us-has-no-guaranteed-paid-vacation]] adds a labor-policy case. The episode uses [[AdewaleMaie]]'s Spain observation, [[GaryCross]]'s historical context, [[DanielHamermesh]]'s rejection of simple culture and tax explanations, and [[TomCohen]]'s [[MIT]] account to explain why the [[UnitedStates]] lacks a federal [[PaidVacationAsLaborRight|paid-vacation guarantee]].
+
 ## Connections
 - [[NPR]] — network and public-media organization behind the appeal.
 - [[KatherineMaher]] — NPR CEO speaking in the message.
@@ -57,3 +59,4 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 - [[WNBA]], [[WNBAPlayersAssociation]], [[AliciaClark]], [[BriannaTurner]], [[SportsLaborRevenueSharing]], and [[DataBackedLaborBargaining]] - sports-labor branch added by the WNBA negotiation episode.
 - [[OPEC]], [[SevenSistersOilMajors]], [[OilProducerSupplyCoordination]], [[ProductionQuotaDiscipline]], [[SwingProducerRole]], and [[GreenParadox]] - oil-market coordination branch added by the OPEC episode.
 - [[JeromePowell]], [[FederalReserve]], [[LaelBrainard]], [[CentralBankIndependence]], [[InflationBias]], and [[ForCauseRemovalStandard]] - Fed-independence branch added by the Powell episode.
+- [[AdewaleMaie]], [[GaryCross]], [[DanielHamermesh]], [[TomCohen]], [[PaidVacationAsLaborRight]], and [[EmployerBargainedBenefits]] - paid-vacation and U.S. benefits-architecture branch added by the vacation episode.

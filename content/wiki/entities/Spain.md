@@ -2,13 +2,15 @@
 title: "Spain"
 type: entity
 tags: [country, football, sports-development]
-sources: [vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191]
-last_updated: 2026-07-09
+sources: [vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, why-the-us-has-no-guaranteed-paid-vacation]
+last_updated: 2026-07-18
 ---
 
 # Spain
 
 Spain appears in [[vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191]] as the football-development environment that attracted [[LiXiang]] and [[TangHui]] to [[JumillaCF]]. The source contrasts Spain's dense youth and lower-tier competition pyramid with [[China]]'s much smaller registered-player base.
+
+[[why-the-us-has-no-guaranteed-paid-vacation]] adds Spain as the vacation-policy comparison that starts [[AdewaleMaie]]'s question. The [[PlanetMoney]] episode says Spain guarantees 25 paid vacation days plus 14 paid holidays, making it a concrete contrast with the [[UnitedStates]] and its lack of federal [[PaidVacationAsLaborRight|paid-vacation guarantee]].
 
 ## Key Claims
 - Spain's football system is presented as a normal school-plus-club pathway where children can study, train, and compete frequently.
@@ -19,3 +21,4 @@ Spain appears in [[vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shang
 - [[YouthFootballDevelopmentSystem]] - development-system concept added by the source.
 - [[FootballClubAsCommunityAsset]] and [[FootballClubControlRisk]] - Spanish club-economics concepts surfaced by the case.
 - [[China]] - contrast case around registered players and competition depth.
+- [[AdewaleMaie]], [[UnitedStates]], and [[PaidVacationAsLaborRight]] - vacation-law comparison added by Planet Money.
