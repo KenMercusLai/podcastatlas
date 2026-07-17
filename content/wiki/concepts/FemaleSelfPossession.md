@@ -2,8 +2,8 @@
 title: "Female Self-Possession"
 type: concept
 tags: [women, agency, life-design, self-knowledge]
-sources: [110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038, 184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
-last_updated: 2026-07-17
+sources: [67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556, 110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038, 184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
+last_updated: 2026-07-18
 ---
 
 # Female Self-Possession
@@ -21,6 +21,8 @@ The three hosts show different versions. [[YinJie|殷姐]] is satisfied with the
 [[tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655]] adds an observer-writer case through [[FuyouZhishang|《蜉蝣直上》]]. The episode praises [[Xiaojia|小佳]]'s women characters because 阿嬷, his mother, 阿花, neighbors, and women friends are not flattened into virtue or suffering; they are traditional, principled, jealous, brave, wounded, caring, or self-directed in different combinations.
 
 [[41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038]] adds a much sharper historical boundary case through [[ShiJianqiao]]. The episode does not treat her as a clean empowerment icon: her agency is entangled with [[FilialRevengePublicSympathy]], violence, media staging, court performance, state pardon, and [[GenderedNationalistHeroism]]. It still matters here because the source shows a woman actively shaping her public meaning inside family duty, law, nationalism, and political danger.
+
+[[67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556]] adds an ancient tragic boundary case through [[MedeaCharacter|Medea / 美狄亚]]. Her speech about marriage, dowry, divorce stigma, domestic confinement, and childbirth makes gendered constraint unusually explicit, but the source refuses to make her a clean empowerment figure. Her self-command becomes part of [[FemaleRevengeAndPoliticalOrder]] when revenge destroys children, kinship, and the possibility of restored order.
 
 [[184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010]] adds a late-illness case through [[Ajiao|阿娇 / 柱子哥]]. Her self-possession is not expressed as a clean life choice, but as refusing pity-based evaluation, maintaining professional and writerly dignity, using overseas work to reopen identity, and choosing [[PublicIllnessWriting]] even when cancer makes death concrete.
 
@@ -54,6 +56,7 @@ The three hosts show different versions. [[YinJie|殷姐]] is satisfied with the
 - Self-possession can include the refusal to grant false authority its preferred frame.
 - Trauma can make self-possession start with recognizing that pleasing others was a survival strategy rather than the self's true shape.
 - Late-life self-possession can be less about limitless choice than about truthful naming, bodily permission, practical care, and keeping a writing practice while dependence becomes harder to ignore.
+- Tragic self-command can expose real gender injury while still becoming ethically destructive when agency severs every sustaining bond.
 
 ## Connections
 
@@ -67,6 +70,7 @@ The three hosts show different versions. [[YinJie|殷姐]] is satisfied with the
 - [[HadiyaHaidari|哈迪亚·海达里]], [[ProtectionAsControl]], and [[WarGenderedCivilianHarm]] - constrained-agency extension from the Afghanistan source.
 - [[FuyouZhishang|《蜉蝣直上》]] and [[MinnanFamilyWriting]] - contemporary nonfiction extension into complex women in family and regional life.
 - [[ShiJianqiao]], [[FilialRevengePublicSympathy]], and [[GenderedNationalistHeroism]] - Republican-era extension where female agency is inseparable from violence, public sympathy, and state politics.
+- [[MedeaCharacter|Medea / 美狄亚]], [[MedeaPlay|《美狄亚》 / Medea]], and [[FemaleRevengeAndPoliticalOrder]] - ancient tragic extension where injured agency becomes anti-political revenge.
 - [[Ajiao|阿娇 / 柱子哥]], [[ProfessionalDignityBeyondPatientIdentity]], and [[PublicIllnessWriting]] - late-illness extension where agency includes truthful self-recording and refusal of reductive sympathy.
 - [[QianJing|钱静]], [[ZhongyongSelf]], [[ObjectiveSelfOwnership]], and [[ActionAgainstAnxiety]] - practical psychology extension around ambition, work, family, and real-world self-practice.
 - [[MenstrualProductSocialHistory]], [[MenstrualStigma]], [[ItaiTaeko|板井太子]], and [[AnneSanitaryNapkin|安妮卫生巾]] - bodily-infrastructure extension from episode 175.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [67.美狄亚：古希腊秦香莲的复仇及其现代性](sources/67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556.md) — 蜜獾吃书 episode on Euripides' Medea, Greek tragedy, the Golden Fleece, Jason, female revenge, child murder, Dionysian freedom, and tragic modernity.
 - [66.鱼翅与花椒：聊吃的我可就不困了](sources/66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536.md) — 蜜獾吃书 episode on Fuchsia Dunlop's 《鱼翅与花椒》, Sichuan cuisine, culinary grammar, texture, food bias, market freshness, identity transformation, and animal-ethics comparison.
 - [Diary of a WNBA negotiator](sources/diary-of-a-wnba-negotiator.md) — Planet Money episode on Alicia Clark, the WNBPA's revenue-share negotiation, WNBA media-rights growth, data-backed bargaining, housing benefits, and strike leverage.
 - [Vol.265 跨越50年的美国版本之子](sources/vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591.md) — 商业就是这样 episode on Larry and David Ellison, Oracle database wealth, Skydance and Paramount media consolidation, Stargate AI infrastructure, U.S. TikTok, Trump access, and media independence risk.
@@ -449,6 +450,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《美狄亚》 / Medea](entities/MedeaPlay.md) — Euripides tragedy read through Greek tragedy, female speech, revenge, child murder, and unresolved moral shock.
+- [Medea / 美狄亚](entities/MedeaCharacter.md) — Mythic woman and tragic protagonist whose betrayal by Jason becomes the episode's case for female revenge and anti-political rupture.
+- [Euripides / 欧里比德斯](entities/Euripides.md) — Greek tragedian treated by the source as modern-feeling for his psychological hesitation, hero deconstruction, and moral unease.
+- [Jason / 伊阿宋](entities/Jason.md) — Golden Fleece hero whose debt to Medea and later betrayal make him the deconstructed male hero in the episode.
+- [Golden Fleece / 金羊毛](entities/GoldenFleece.md) — Mythic quest object that brings Jason and Medea together and supplies the heroic prehistory behind Euripides' tragedy.
+- [Dionysus / 狄俄尼索斯](entities/Dionysus.md) — Greek god whose ritual and ecstatic freedom frame the episode's account of tragedy and The Bacchae.
+- [The Bacchae / 酒神的伴侣](entities/TheBacchae.md) — Euripides tragedy used as a comparison for freedom, ecstasy, violence, and order collapse.
 - [Fuchsia Dunlop / 胡霞](entities/FuchsiaDunlop.md) — British food writer whose 《鱼翅与花椒》 is read through Sichuan cuisine, appetite, cultural translation, and identity change.
 - [《鱼翅与花椒》 / Shark's Fin and Sichuan Pepper](entities/SharkFinAndSichuanPepper.md) — Food memoir used by the source to connect Chengdu, Sichuan cuisine, culinary grammar, texture, bias, and animal ethics.
 - [Sichuan / 四川](entities/Sichuan.md) — Regional setting for the source's Sichuan food, Chengdu market, huajiao, and culinary-translation branch.
@@ -2860,6 +2868,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Greek Tragedy](concepts/GreekTragedy.md) — Dramatic and civic form tied to Dionysian ritual, Athenian public education, myth, chorus, restraint, and political reflection.
+- [Tragic Modernity](concepts/TragicModernity.md) — Euripidean pattern where ancient myth feels modern through psychology, moral ambiguity, hero deconstruction, and unresolved endings.
+- [Female Revenge And Political Order](concepts/FemaleRevengeAndPoliticalOrder.md) — Pattern where Medea's revenge exposes real gender injury while destroying family, city, and human relation.
 - [Sichuan Cuisine / 川菜](concepts/SichuanCuisine.md) — Food system in the source, centered on Chengdu, huajiao, street food, markets, offal, texture, and learned appetite.
 - [Culinary Grammar](concepts/CulinaryGrammar.md) — Idea that cuisines have learned sensory, social, freshness, texture, and etiquette rules before fair judgment is possible.
 - [Food Texture Aesthetics](concepts/FoodTextureAesthetics.md) — Mouthfeel-centered food value around crunch, bounce, gelatinousness, tenderness, and other texture categories.

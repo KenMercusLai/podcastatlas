@@ -3592,3 +3592,11 @@ Ran health and lint. Health scanned 4,708 pages and passed with no empty/stub fi
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-18] ingest | 67.美狄亚：古希腊秦香莲的复仇及其现代性
+
+Added source page for the 蜜獾吃书 episode on Euripides' 《美狄亚》, Greek tragedy, the Golden Fleece, Jason, Medea's female-position speech, child murder, Dionysian freedom, and tragic modernity. Created pages for 《美狄亚》 / Medea, Medea / 美狄亚, Euripides, Jason, Golden Fleece, Dionysus, The Bacchae, Greek Tragedy, Tragic Modernity, and Female Revenge And Political Order; updated overview, index, 蜜獾吃书, Greek Mythology, Classic Reading Complexity, Female Self-Possession, and Moral Suspension In Art Reading. No direct contradiction found; the source extends the wiki's Greek mythology and revenge branches by showing mythical vengeance as tragic civic and psychological rupture rather than modern legal public-opinion conflict.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

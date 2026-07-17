@@ -427,6 +427,10 @@
     "title": "66.鱼翅与花椒：聊吃的我可就不困了",
     "url": "/wiki/sources/66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536/"
   },
+  "67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556": {
+    "title": "67.美狄亚：古希腊秦香莲的复仇及其现代性",
+    "url": "/wiki/sources/67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556/"
+  },
   "71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384": {
     "title": "71.美妆帝国蝴蝶牌：言情小说家的国货创业往事",
     "url": "/wiki/sources/71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384/"
@@ -4819,6 +4823,10 @@
     "title": "丁香医生",
     "url": "/wiki/entities/dingxiangdoctor/"
   },
+  "Dionysus": {
+    "title": "Dionysus / 狄俄尼索斯",
+    "url": "/wiki/entities/dionysus/"
+  },
   "DirectToConsumerBrandControl": {
     "title": "Direct-to-Consumer Brand Control",
     "url": "/wiki/concepts/directtoconsumerbrandcontrol/"
@@ -5575,6 +5583,10 @@
     "title": "Euclid Hall",
     "url": "/wiki/entities/euclidhall/"
   },
+  "Euripides": {
+    "title": "Euripides / 欧里比德斯",
+    "url": "/wiki/entities/euripides/"
+  },
   "EuropeanAIIndustrialConstraints": {
     "title": "European AI Industrial Constraints",
     "url": "/wiki/concepts/europeanaiindustrialconstraints/"
@@ -5894,6 +5906,10 @@
   "FemaleCivilizingPower": {
     "title": "Female Civilizing Power",
     "url": "/wiki/concepts/femalecivilizingpower/"
+  },
+  "FemaleRevengeAndPoliticalOrder": {
+    "title": "Female Revenge And Political Order",
+    "url": "/wiki/concepts/femalerevengeandpoliticalorder/"
   },
   "FemaleSelfPossession": {
     "title": "Female Self-Possession",
@@ -6867,6 +6883,10 @@
     "title": "Golden Dawn / 金色黎明",
     "url": "/wiki/entities/goldendawn/"
   },
+  "GoldenFleece": {
+    "title": "Golden Fleece / 金羊毛",
+    "url": "/wiki/entities/goldenfleece/"
+  },
   "GoldmanSachs": {
     "title": "Goldman Sachs",
     "url": "/wiki/entities/goldmansachs/"
@@ -6974,6 +6994,10 @@
   "GreekMythology": {
     "title": "Greek Mythology",
     "url": "/wiki/concepts/greekmythology/"
+  },
+  "GreekTragedy": {
+    "title": "Greek Tragedy",
+    "url": "/wiki/concepts/greektragedy/"
   },
   "GreenBook": {
     "title": "The Green Book",
@@ -8406,6 +8430,10 @@
   "JaredReichert": {
     "title": "Jared Reichert",
     "url": "/wiki/entities/jaredreichert/"
+  },
+  "Jason": {
+    "title": "Jason / 伊阿宋",
+    "url": "/wiki/entities/jason/"
   },
   "JeanLucMelenchon": {
     "title": "Jean-Luc Melenchon",
@@ -10362,6 +10390,14 @@
   "MedallionFund": {
     "title": "Medallion Fund",
     "url": "/wiki/entities/medallionfund/"
+  },
+  "MedeaCharacter": {
+    "title": "Medea / 美狄亚",
+    "url": "/wiki/entities/medeacharacter/"
+  },
+  "MedeaPlay": {
+    "title": "《美狄亚》 / Medea",
+    "url": "/wiki/entities/medeaplay/"
   },
   "MediaAIRescueStrategy": {
     "title": "Media AI Rescue Strategy",
@@ -15351,6 +15387,10 @@
     "title": "Thai Orient Airlines / 泰国东方航空",
     "url": "/wiki/entities/thaiorientairlines/"
   },
+  "TheBacchae": {
+    "title": "The Bacchae / 酒神的伴侣",
+    "url": "/wiki/entities/thebacchae/"
+  },
   "TheBearFactory": {
     "title": "The Bear Factory",
     "url": "/wiki/entities/thebearfactory/"
@@ -15726,6 +15766,10 @@
   "TradingCompanyInvestmentModel": {
     "title": "Trading Company Investment Model",
     "url": "/wiki/concepts/tradingcompanyinvestmentmodel/"
+  },
+  "TragicModernity": {
+    "title": "Tragic Modernity",
+    "url": "/wiki/concepts/tragicmodernity/"
   },
   "TrainedIntuition": {
     "title": "Trained Intuition",
