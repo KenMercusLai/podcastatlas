@@ -2,8 +2,8 @@
 title: "Reading As Life Experience"
 type: concept
 tags: [reading, literature, attention, life-practice]
-sources: [168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
-last_updated: 2026-07-15
+sources: [66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536, 168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
+last_updated: 2026-07-18
 ---
 
 # Reading As Life Experience
@@ -34,6 +34,8 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 
 [[150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165]] adds a place-and-food version through [[ACuo|阿错]]'s [[Cangcheng|《苍城》]]. Reading life experience here includes the reader's and writer's contact with [[Yunnan|云南]] mushrooms, mountain paths, [[TeaHorseRoad|茶马古道]] transport memory, and [[NatureContactSelfPerception]], so literature becomes a way of carrying lived ecological and regional knowledge rather than only plot.
 
+[[66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536]] adds a food-writing and cultural-transformation version through [[FuchsiaDunlop|胡霞 / Fuchsia Dunlop]]'s [[SharkFinAndSichuanPepper|《鱼翅与花椒》]]. Reading life experience here includes [[Chengdu|成都]] street food, [[SichuanCuisine|川菜]], markets, [[FoodTextureAesthetics|口感]], embarrassment, appetite, and the point at which food learning becomes [[CulinaryIdentityTransformation]] rather than detachable knowledge.
+
 [[xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770]] adds a short-form emotional version through [[DuanGeShiWoBeishangDeWanju|《短歌是我悲伤的玩具》]]. Reading [[IshikawaTakuboku|石川啄木]] becomes life experience when a listener recognizes a commute, debt, small competitiveness, downhill feeling, or public vulnerability in a few lines rather than in a full explanatory argument.
 
 [[168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535]] adds a school-memory mystery version through [[FangxuehouDeXiaoxiang|《放学后的小巷》]]. The source moves from a [[DailyLifeMystery|日常推理]] plot into QinZong's own memories of transfer grief, friends, used bookstores, arcades, hidden reading, coupon mistakes, and collecting bottles, making the book's alley part of [[SchoolAreaMemoryEcology|放学后记忆生态]] rather than only a fictional setting.
@@ -53,6 +55,7 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 - Rewatching can also clarify moral discomfort: a film may become more useful when the viewer can revisit its form and emotional sequence without rushing to settle judgment.
 - A reading project can need rest, place, and household maintenance because books become usable through ordinary life conditions, not only through willpower.
 - Place-based fiction can carry food safety, ecology, transport, and bodily memory into reading, making local knowledge part of literary experience.
+- Food memoir can become reading as life experience when meals, markets, disgust, texture, and cultural shame change how a person inhabits appetite and identity.
 - Very short poems can become life experience when they give a reader language for a day that had felt too small, ugly, or ordinary to write down.
 - A mystery can become life experience when its clues reopen concrete adolescent memories of food, money, school routes, status objects, and friendship.
 
@@ -72,5 +75,6 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 - [[JulesAndJim|《祖与占》]], [[FrenchNewWave]], and [[MoralSuspensionInArtReading]] - episode 108's extension into film rewatching as rhythm, discomfort, and judgment discipline.
 - [[RestorativeCreativePacing]] and [[StoryBasedEmpathy]] - holiday episode extension into reading environment, rest, and story-centered understanding.
 - [[Cangcheng|《苍城》]], [[PlaceBasedFiction]], [[YunnanWildMushroomCulture]], and [[NatureContactSelfPerception]] - episode 150 extension into place, food, mountain life, and fiction.
+- [[SharkFinAndSichuanPepper|《鱼翅与花椒》]], [[SichuanCuisine|川菜]], [[CulinaryGrammar]], and [[CulinaryIdentityTransformation]] - episode 66 extension into food memoir and cross-cultural appetite.
 - [[TankaEverydayExpression]], [[IshikawaTakuboku|石川啄木]], and [[LiveHumanFeeling]] - short-song and public-vulnerability extension.
 - [[FangxuehouDeXiaoxiang|《放学后的小巷》]], [[DailyLifeMystery|日常推理]], and [[SchoolAreaMemoryEcology|放学后记忆生态]] - episode 168's school-memory mystery extension.

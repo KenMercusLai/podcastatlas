@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-18] ingest | 66.鱼翅与花椒：聊吃的我可就不困了
+
+Added source page for the 蜜獾吃书 episode on Fuchsia Dunlop's 《鱼翅与花椒》, 1990s Chengdu, Sichuan cuisine, huajiao, food texture, market freshness, mutual Chinese/Western food bias, culinary identity transformation, and animal-ethics comparison. Created pages for Fuchsia Dunlop / 胡霞, 《鱼翅与花椒》 / Shark's Fin and Sichuan Pepper, Sichuan, Chengdu, Sichuan Cuisine, Culinary Grammar, Food Texture Aesthetics, Food Cultural Bias, Market Freshness Culture, and Culinary Identity Transformation; updated overview, index, 蜜獾吃书, Reading As Life Experience, Non-Instrumental Literary Reading, Material History Narrative, and Food Animal Welfare. No direct contradiction found; the source complements the existing Yunnan mushroom and food-animal-welfare branches by showing how food knowledge can be learned across culture without turning appetite into uncritical praise.
+
 ## [2026-07-17] ingest | Strait and narrowing: the Iran deal crumbles
 
 Added source page for The Intelligence episode on the U.S.-Iran memorandum collapse over Strait of Hormuz safe passage, Indian government website usability failures, and adult summer camps. Created pages for Leo Mirani, National Informatics Centre, Aadhaar, UPI, Camp Social, Liv Schreiber, Chokepoint Shipping Confidence, Government Website Usability, Bureaucratic Risk Avoidance, Adult Summer Camps, Kid-Alting, and Friendship Recession; updated overview, index, The Intelligence, Economist Podcasts, Iran, Strait of Hormuz, Greg Carlstrom, India, U.S.-Iran Nuclear Diplomacy, Iran Postwar Economic Relief, Public Service Digitalization, and Government Enterprise Procurement. No direct contradiction found; the source updates the Iran timeline by explaining that the memorandum failed over incompatible interpretations of safe commercial passage.
@@ -3584,3 +3588,7 @@ Added source page for the Planet Money episode on Alicia Clark, the WNBA Players
 ## [2026-07-18] lint | Wiki health check
 
 Ran health and lint. Health scanned 4,708 pages and passed with no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 4,708 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-18 with 4,694 nodes and 46,331 edges while the wiki scan found 4,708 pages, so graph findings may lag the latest pages; they found no hub stubs, one fragile bridge (`entities/WangYong` -> `concepts/AIPlusTerminals`), and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified. No `wiki/lint-report.md` file was saved.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

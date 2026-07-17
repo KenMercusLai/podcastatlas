@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [66.鱼翅与花椒：聊吃的我可就不困了](sources/66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536.md) — 蜜獾吃书 episode on Fuchsia Dunlop's 《鱼翅与花椒》, Sichuan cuisine, culinary grammar, texture, food bias, market freshness, identity transformation, and animal-ethics comparison.
 - [Diary of a WNBA negotiator](sources/diary-of-a-wnba-negotiator.md) — Planet Money episode on Alicia Clark, the WNBPA's revenue-share negotiation, WNBA media-rights growth, data-backed bargaining, housing benefits, and strike leverage.
 - [Vol.265 跨越50年的美国版本之子](sources/vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591.md) — 商业就是这样 episode on Larry and David Ellison, Oracle database wealth, Skydance and Paramount media consolidation, Stargate AI infrastructure, U.S. TikTok, Trump access, and media independence risk.
 - [No.210 中国手机江湖·下：从魅族小米锤子，到 OV 华为的新十年 | 中国互联网故事24](sources/no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027.md) — Banlatte episode on China's smartphone shakeout from 中华酷联, Meizu, Xiaomi, Smartisan, OPPO/vivo, and Huawei into a concentrated market backed by supply-chain firms.
@@ -448,6 +449,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Fuchsia Dunlop / 胡霞](entities/FuchsiaDunlop.md) — British food writer whose 《鱼翅与花椒》 is read through Sichuan cuisine, appetite, cultural translation, and identity change.
+- [《鱼翅与花椒》 / Shark's Fin and Sichuan Pepper](entities/SharkFinAndSichuanPepper.md) — Food memoir used by the source to connect Chengdu, Sichuan cuisine, culinary grammar, texture, bias, and animal ethics.
+- [Sichuan / 四川](entities/Sichuan.md) — Regional setting for the source's Sichuan food, Chengdu market, huajiao, and culinary-translation branch.
+- [Chengdu / 成都](entities/Chengdu.md) — City setting where Dunlop's 1990s study, street food, market encounters, and Sichuan cuisine learning are grounded.
 - [Women's National Basketball Association](entities/WNBA.md) — Women's professional basketball league whose media-rights growth becomes the labor-revenue-share case in the Planet Money episode.
 - [WNBA Players Association](entities/WNBAPlayersAssociation.md) — Player-side bargaining organization that uses data, strike authorization, and member preparation to push for revenue sharing.
 - [Alicia Clark](entities/AliciaClark.md) — WNBA player-negotiator whose diary and career range anchor the episode's collective-bargaining narrative.
@@ -2855,6 +2860,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Sichuan Cuisine / 川菜](concepts/SichuanCuisine.md) — Food system in the source, centered on Chengdu, huajiao, street food, markets, offal, texture, and learned appetite.
+- [Culinary Grammar](concepts/CulinaryGrammar.md) — Idea that cuisines have learned sensory, social, freshness, texture, and etiquette rules before fair judgment is possible.
+- [Food Texture Aesthetics](concepts/FoodTextureAesthetics.md) — Mouthfeel-centered food value around crunch, bounce, gelatinousness, tenderness, and other texture categories.
+- [Food Cultural Bias](concepts/FoodCulturalBias.md) — Pattern where diners turn unfamiliar food habits into hierarchy, disgust, or civilizational judgment.
+- [Market Freshness Culture](concepts/MarketFreshnessCulture.md) — Food-market freshness norm where ingredient selection, live animals, and visible slaughter shape cooking knowledge and ethics.
+- [Culinary Identity Transformation](concepts/CulinaryIdentityTransformation.md) — Process by which repeated food experience changes appetite, bodily response, cultural belonging, and self-understanding.
 - [Sports Labor Revenue Sharing](concepts/SportsLaborRevenueSharing.md) — Compensation structure tying player pay to league revenue rather than fixed raises alone.
 - [Sports Collective Bargaining](concepts/SportsCollectiveBargaining.md) — League-labor negotiation over salary, benefits, travel, housing, retirement payments, and revenue share.
 - [Data-Backed Labor Bargaining](concepts/DataBackedLaborBargaining.md) — Use of economic comparisons, spreadsheets, and proposal modeling to improve worker leverage.

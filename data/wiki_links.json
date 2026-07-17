@@ -423,6 +423,10 @@
     "title": "65.龙王之怒：1931年的长江洪水",
     "url": "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
   },
+  "66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536": {
+    "title": "66.鱼翅与花椒：聊吃的我可就不困了",
+    "url": "/wiki/sources/66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536/"
+  },
   "71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384": {
     "title": "71.美妆帝国蝴蝶牌：言情小说家的国货创业往事",
     "url": "/wiki/sources/71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384/"
@@ -3319,6 +3323,10 @@
     "title": "程蝶衣 / Cheng Dieyi",
     "url": "/wiki/entities/chengdieyi/"
   },
+  "Chengdu": {
+    "title": "Chengdu / 成都",
+    "url": "/wiki/entities/chengdu/"
+  },
   "Chenghuang": {
     "title": "城隍",
     "url": "/wiki/entities/chenghuang/"
@@ -4210,6 +4218,14 @@
   "Ctrip": {
     "title": "Ctrip / Trip.com Group",
     "url": "/wiki/entities/ctrip/"
+  },
+  "CulinaryGrammar": {
+    "title": "Culinary Grammar",
+    "url": "/wiki/concepts/culinarygrammar/"
+  },
+  "CulinaryIdentityTransformation": {
+    "title": "Culinary Identity Transformation",
+    "url": "/wiki/concepts/culinaryidentitytransformation/"
   },
   "CultureWineCompany": {
     "title": "Culture Wine Company",
@@ -6111,9 +6127,17 @@
     "title": "Food Animal Welfare",
     "url": "/wiki/concepts/foodanimalwelfare/"
   },
+  "FoodCulturalBias": {
+    "title": "Food Cultural Bias",
+    "url": "/wiki/concepts/foodculturalbias/"
+  },
   "FoodInflation": {
     "title": "Food Inflation",
     "url": "/wiki/concepts/foodinflation/"
+  },
+  "FoodTextureAesthetics": {
+    "title": "Food Texture Aesthetics",
+    "url": "/wiki/concepts/foodtextureaesthetics/"
   },
   "FootballClubAsCommunityAsset": {
     "title": "Football Club As Community Asset",
@@ -6462,6 +6486,10 @@
   "FuYu": {
     "title": "傅宇 / Fu Yu",
     "url": "/wiki/entities/fuyu/"
+  },
+  "FuchsiaDunlop": {
+    "title": "Fuchsia Dunlop / 胡霞",
+    "url": "/wiki/entities/fuchsiadunlop/"
   },
   "FugitiveTemporality": {
     "title": "Fugitive Temporality",
@@ -10182,6 +10210,10 @@
   "MarketEfficiency": {
     "title": "Market Efficiency",
     "url": "/wiki/concepts/marketefficiency/"
+  },
+  "MarketFreshnessCulture": {
+    "title": "Market Freshness Culture",
+    "url": "/wiki/concepts/marketfreshnessculture/"
   },
   "MarketMeanReversion": {
     "title": "Market Mean Reversion",
@@ -14039,6 +14071,10 @@
     "title": "Shareholder Primacy",
     "url": "/wiki/concepts/shareholderprimacy/"
   },
+  "SharkFinAndSichuanPepper": {
+    "title": "《鱼翅与花椒》 / Shark's Fin and Sichuan Pepper",
+    "url": "/wiki/entities/sharkfinandsichuanpepper/"
+  },
   "SharonPriceJohn": {
     "title": "Sharon Price John",
     "url": "/wiki/entities/sharonpricejohn/"
@@ -14191,9 +14227,17 @@
     "title": "《说文解字》",
     "url": "/wiki/entities/shuowenjiezi/"
   },
+  "Sichuan": {
+    "title": "Sichuan / 四川",
+    "url": "/wiki/entities/sichuan/"
+  },
   "SichuanChanghong": {
     "title": "Sichuan Changhong",
     "url": "/wiki/entities/sichuanchanghong/"
+  },
+  "SichuanCuisine": {
+    "title": "Sichuan Cuisine / 川菜",
+    "url": "/wiki/concepts/sichuancuisine/"
   },
   "SidewalkDeliveryRobots": {
     "title": "Sidewalk Delivery Robots",
