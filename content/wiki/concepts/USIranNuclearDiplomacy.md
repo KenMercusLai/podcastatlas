@@ -2,8 +2,8 @@
 title: "U.S.-Iran Nuclear Diplomacy"
 type: concept
 tags: [geopolitics, diplomacy, nuclear]
-sources: [can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]
-last_updated: 2026-07-15
+sources: [can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
+last_updated: 2026-07-17
 ---
 
 # U.S.-Iran Nuclear Diplomacy
@@ -24,6 +24,8 @@ The source's main contribution is fragility. A deal can cover sanctions, assets,
 
 [[gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6]] adds the Gulf spillover. The episode argues that if America and [[Iran]] do not reach a durable settlement, the [[GulfCooperationCouncil]] may face prolonged elevated risk and slower confidence rebuilding, turning diplomacy into a direct input for [[GulfStabilityRisk]].
 
+[[strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]] adds the clause-interpretation failure. The memorandum's promise that [[Iran]] would arrange safe commercial passage through the [[StraitOfHormuz]] could not survive incompatible readings: America wanted mines removed and movement restored, while Iran claimed administrative control over which vessels moved and when.
+
 ## Connections
 - [[Iran]] - state actor in the negotiation.
 - [[IranSanctions]], [[DollarFinancialSanctions]], and [[SanctionsOvercompliance]] - historical sanctions-leverage and relief-credibility branch added by Planet Money.
@@ -35,3 +37,4 @@ The source's main contribution is fragility. A deal can cover sanctions, assets,
 - [[GulfCooperationCouncil]], [[GulfStabilityRisk]], and [[GulfStrategicDiversification]] - Gulf confidence and investment-priority effects of unresolved diplomacy.
 - [[PoliticalFuneral]] and [[AutocraticSuccession]] - adjacent Iran sources where diplomacy continues under regime-uncertainty conditions.
 - [[NicholasPelham]] and [[DonaldTrump]] - new-source participants in the ceasefire-collapse stage.
+- [[GregCarlstrom]] and [[ChokepointShippingConfidence]] - later explanation of why formal safe-passage language did not restore commercial confidence.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-17] ingest | Strait and narrowing: the Iran deal crumbles
+
+Added source page for The Intelligence episode on the U.S.-Iran memorandum collapse over Strait of Hormuz safe passage, Indian government website usability failures, and adult summer camps. Created pages for Leo Mirani, National Informatics Centre, Aadhaar, UPI, Camp Social, Liv Schreiber, Chokepoint Shipping Confidence, Government Website Usability, Bureaucratic Risk Avoidance, Adult Summer Camps, Kid-Alting, and Friendship Recession; updated overview, index, The Intelligence, Economist Podcasts, Iran, Strait of Hormuz, Greg Carlstrom, India, U.S.-Iran Nuclear Diplomacy, Iran Postwar Economic Relief, Public Service Digitalization, and Government Enterprise Procurement. No direct contradiction found; the source updates the Iran timeline by explaining that the memorandum failed over incompatible interpretations of safe commercial passage.
+
 ## [2026-07-17] ingest | Why is there a supplement craze if they don't even work?
 
 Added source page for the Planet Money episode on U.S. supplement manufacturing, DSHEA-era regulation, structure/function claims, Prevagen, GRAS self-certification, label uncertainty, third-party testing, liver-toxicity risk, and placebo-driven demand. Created pages for Sarah Gonzalez, Jane Black, Frank Cantone, Marion Nestle, Melanie Benish, Environmental Working Group, Food and Drug Administration, Federal Trade Commission, Prevagen, Mark Underwood, NeuroShake, Consumer Lab, NSF International, United States Pharmacopeia, Dietary Supplement Regulation, Dietary Supplement Health and Education Act, Supplement Structure Function Claims, GRAS Self-Certification, Supplement Label Accuracy, Herbal Supplement Liver Toxicity, Supplement Placebo Effect, Recurring Supplement Commerce, and Third-Party Supplement Testing; updated overview, index, NPR, and Planet Money. No direct contradiction found; the source qualifies broad supplement skepticism by preserving pregnancy and deficiency exceptions while extending existing health-marketing trust concerns beyond AI.

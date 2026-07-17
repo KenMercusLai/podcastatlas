@@ -1039,6 +1039,10 @@
     "title": "ATM Operations",
     "url": "/wiki/concepts/atmoperations/"
   },
+  "Aadhaar": {
+    "title": "Aadhaar",
+    "url": "/wiki/entities/aadhaar/"
+  },
   "AaronBraun": {
     "title": "Aaron Braun",
     "url": "/wiki/entities/aaronbraun/"
@@ -1226,6 +1230,10 @@
   "AdultSatiricalChildrensClassics": {
     "title": "Adult Satire In Children's Classics",
     "url": "/wiki/concepts/adultsatiricalchildrensclassics/"
+  },
+  "AdultSummerCamps": {
+    "title": "Adult Summer Camps",
+    "url": "/wiki/concepts/adultsummercamps/"
   },
   "AdvanceFeeFraud": {
     "title": "Advance-Fee Fraud",
@@ -2807,6 +2815,10 @@
     "title": "Bump",
     "url": "/wiki/entities/bump/"
   },
+  "BureaucraticRiskAvoidance": {
+    "title": "Bureaucratic Risk Avoidance",
+    "url": "/wiki/concepts/bureaucraticriskavoidance/"
+  },
   "BusinessFluentDesign": {
     "title": "Business Fluent Design",
     "url": "/wiki/concepts/businessfluentdesign/"
@@ -2930,6 +2942,10 @@
   "CaliforniaDeleteAct": {
     "title": "California Delete Act",
     "url": "/wiki/concepts/californiadeleteact/"
+  },
+  "CampSocial": {
+    "title": "Camp Social",
+    "url": "/wiki/entities/campsocial/"
   },
   "CampusSpeechRegulation": {
     "title": "Campus Speech Regulation",
@@ -3446,6 +3462,10 @@
   "ChoiceTriggeredAttentionBoundary": {
     "title": "Choice-Triggered Attention Boundary",
     "url": "/wiki/concepts/choicetriggeredattentionboundary/"
+  },
+  "ChokepointShippingConfidence": {
+    "title": "Chokepoint Shipping Confidence",
+    "url": "/wiki/concepts/chokepointshippingconfidence/"
   },
   "ChrisBest": {
     "title": "Chris Best",
@@ -6347,6 +6367,10 @@
     "title": "FriendFeed",
     "url": "/wiki/entities/friendfeed/"
   },
+  "FriendshipRecession": {
+    "title": "Friendship Recession",
+    "url": "/wiki/concepts/friendshiprecession/"
+  },
   "FromIdeaToFrontier": {
     "title": "From Idea to Frontier",
     "url": "/wiki/entities/fromideatofrontier/"
@@ -6842,6 +6866,10 @@
   "GovernmentEnterpriseProcurement": {
     "title": "Government Enterprise Procurement",
     "url": "/wiki/concepts/governmententerpriseprocurement/"
+  },
+  "GovernmentWebsiteUsability": {
+    "title": "Government Website Usability",
+    "url": "/wiki/concepts/governmentwebsiteusability/"
   },
   "GraduationAnxiety": {
     "title": "Graduation Anxiety",
@@ -8843,6 +8871,10 @@
     "title": "Kickstarter Demand Shock",
     "url": "/wiki/concepts/kickstarterdemandshock/"
   },
+  "KidAlting": {
+    "title": "Kid-Alting",
+    "url": "/wiki/concepts/kidalting/"
+  },
   "Kiko": {
     "title": "Kiko",
     "url": "/wiki/entities/kiko/"
@@ -9223,6 +9255,10 @@
     "title": "联想 / Lenovo",
     "url": "/wiki/entities/lenovo/"
   },
+  "LeoMirani": {
+    "title": "Leo Mirani",
+    "url": "/wiki/entities/leomirani/"
+  },
   "LeoTolstoy": {
     "title": "Leo Tolstoy / 托尔斯泰",
     "url": "/wiki/entities/leotolstoy/"
@@ -9446,6 +9482,10 @@
   "LiuZongdi": {
     "title": "Liu Zongdi / 刘宗迪",
     "url": "/wiki/entities/liuzongdi/"
+  },
+  "LivSchreiber": {
+    "title": "Liv Schreiber",
+    "url": "/wiki/entities/livschreiber/"
   },
   "LiveActionShortDrama": {
     "title": "Live-Action Short Drama",
@@ -10926,6 +10966,10 @@
   "NationalGoodsBranding": {
     "title": "National Goods Branding",
     "url": "/wiki/concepts/nationalgoodsbranding/"
+  },
+  "NationalInformaticsCentre": {
+    "title": "National Informatics Centre",
+    "url": "/wiki/entities/nationalinformaticscentre/"
   },
   "NationalRally": {
     "title": "National Rally",
@@ -15683,6 +15727,10 @@
     "title": "UNFI",
     "url": "/wiki/entities/unfi/"
   },
+  "UPI": {
+    "title": "UPI",
+    "url": "/wiki/entities/upi/"
+  },
   "USD1": {
     "title": "USD1",
     "url": "/wiki/entities/usd1/"
@@ -18030,6 +18078,10 @@
   "stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5": {
     "title": "Stock options: how to hedge an AI bubble",
     "url": "/wiki/sources/stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5/"
+  },
+  "strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f": {
+    "title": "Strait and narrowing: the Iran deal crumbles",
+    "url": "/wiki/sources/strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f/"
   },
   "ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec": {
     "title": "她想造一个 AI 时代的“超级游乐场”｜对谈 Roi：幕间创始人 / CEO",

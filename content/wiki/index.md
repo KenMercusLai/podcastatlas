@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Strait and narrowing: the Iran deal crumbles](sources/strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f.md) — The Intelligence episode on the U.S.-Iran memorandum collapse over Strait of Hormuz safe passage, Indian government website failures, and adult summer camps as paid offline social infrastructure.
 - [Momenta IPO后再访曹旭东：就是想做没有尽头的AI](sources/momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1.md) — LateTalk interview with Cao Xudong on Momenta's IPO-era autonomous-driving strategy, city NOA competition, data flywheel, physical AI, robot expansion, and low-cost short-cycle organization method.
 - [Building things and breaking things in China (Summer School World Tour)](sources/building-things-and-breaking-things-in-china-summer-school-world-tour.md) — Planet Money Summer School episode with Dan Wang on China as an engineering state, real-estate debt, infrastructure malinvestment, youth unemployment, low redistribution, and the U.S. lesson to build with regulation.
 - [如何「兜住」一颗火箭？｜ S10E21](sources/ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0.md) — What's Next episode with Jerry/太空僧 on Long March 10B sea-net recovery, recovery ship control, reusable-rocket route choice, and the gap between first recovery and economical reuse.
@@ -444,6 +445,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Leo Mirani](entities/LeoMirani.md) — The Intelligence participant explaining Indian government website failures, public-service usability, and why authority matters in digital infrastructure.
+- [National Informatics Centre](entities/NationalInformaticsCentre.md) — Indian government technology organization used as the episode's example of competent implementation constrained by bureaucratic demands.
+- [Aadhaar](entities/Aadhaar.md) — Indian biometric ID infrastructure used as a counterexample to weak routine government websites.
+- [UPI](entities/UPI.md) — Indian payments infrastructure used as a counterexample showing that public digital systems can work when authority and competence align.
+- [Camp Social](entities/CampSocial.md) — Adult sleepaway camp in Pennsylvania used as the episode's case for structured offline friendship and nostalgia.
+- [Liv Schreiber](entities/LivSchreiber.md) — Camp Social founder explaining pre-planned schedules as relief from adult decision fatigue.
 - [Dan Wang](entities/DanWang.md) — Author and Hoover Institution fellow whose engineering-state frame anchors the episode.
 - [Breakneck](entities/Breakneck.md) — Dan Wang book used by the episode to frame China as an engineering state.
 - [Hoover Institution](entities/HooverInstitution.md) — Policy research institution named as Dan Wang's affiliation.
@@ -2810,6 +2817,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Chokepoint Shipping Confidence](concepts/ChokepointShippingConfidence.md) — Practical distinction between official access to a strategic waterway and shipowner or insurer willingness to use it.
+- [Government Website Usability](concepts/GovernmentWebsiteUsability.md) — Public-service software problem where paper-process logic, weak ownership, and bad requirements make government websites hard to use.
+- [Bureaucratic Risk Avoidance](concepts/BureaucraticRiskAvoidance.md) — Incentive pattern where procedural compliance and blame avoidance can matter more than service quality.
+- [Adult Summer Camps](concepts/AdultSummerCamps.md) — Paid sleepaway-camp experiences for adults that package structured offline friendship, nostalgia, and decision relief.
+- [Kid-Alting](concepts/KidAlting.md) — Consumer-culture pattern where adults buy childhood-coded experiences or objects for emotional relief and play.
+- [Friendship Recession](concepts/FriendshipRecession.md) — Social-anxiety frame around adults having fewer close friendships and seeking structured offline connection.
 - [Engineering State](concepts/EngineeringState.md) — Dan Wang's frame for a state that treats development as building, technical systems, and physical transformation.
 - [Infrastructure Malinvestment](concepts/InfrastructureMalinvestment.md) — Pattern where visible infrastructure absorbs resources despite weaker local demand or more urgent public-service needs.
 - [China Real Estate Debt Cycle](concepts/ChinaRealEstateDebtCycle.md) — Property boom-bust loop linking households, developers, local governments, land finance, debt caps, and unfinished apartments.
