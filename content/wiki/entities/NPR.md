@@ -2,7 +2,7 @@
 title: "NPR"
 type: entity
 tags: [media, public-media, journalism]
-sources: [the-leaked-tapes-that-show-how-the-rich-avoid-taxes, the-secret-meeting-that-launched-opec, diary-of-a-wnba-negotiator, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down, jerome-powell-and-the-test-of-fed-independence, why-the-us-has-no-guaranteed-paid-vacation, the-giant-factory-town-that-might-be-a-giant-mistake]
+sources: [the-sneaky-way-companies-get-new-chemicals-into-our-food, the-leaked-tapes-that-show-how-the-rich-avoid-taxes, the-secret-meeting-that-launched-opec, diary-of-a-wnba-negotiator, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down, jerome-powell-and-the-test-of-fed-independence, why-the-us-has-no-guaranteed-paid-vacation, the-giant-factory-town-that-might-be-a-giant-mistake]
 last_updated: 2026-07-18
 ---
 
@@ -27,6 +27,8 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 [[theres-no-business-like-dough-business]] adds a reported [[PlanetMoney]] episode on [[WetzelsPretzels|Wetzel's Pretzels]], [[RickyAlam]], and why three stores can coexist in one Brooklyn transit and retail complex. It extends NPR's economics-reporting branch into [[ImpulseRetailClustering]], [[RetailSiteSelection]], [[RetailIncrementality]], and [[SharedKitchenSatelliteRetail]].
 
 [[why-is-there-a-supplement-craze-if-they-dont-even-work]] adds a reported [[PlanetMoney]] episode on U.S. supplement regulation, manufacturing, and consumer trust. It extends NPR's economics-reporting branch into [[DietarySupplementRegulation]], [[SupplementStructureFunctionClaims]], [[GRASSelfCertification]], [[SupplementLabelAccuracy]], and [[HerbalSupplementLiverToxicity]] through the [[Prevagen]] case and expert interviews with [[MarionNestle]] and [[MelanieBenish]].
+
+[[the-sneaky-way-companies-get-new-chemicals-into-our-food]] adds a reported [[PlanetMoney]] episode on [[TaraFlour]], [[DailyHarvest]], and [[SecretGRAS]]. It extends NPR's consumer-health reporting branch from supplement claims into [[FoodAdditiveRegulation]], [[PremarketFoodSafetyReview]], [[PostHarmFoodRegulation]], and the role of [[FoodSafetyLitigationDiscovery]] after food-safety failures.
 
 [[two-indicators-for-lowering-the-rent]] adds a reported [[PlanetMoney]] episode on housing affordability, corporate landlords, build-to-rent supply, SRO disappearance, and homelessness. It extends NPR's economics-reporting branch into [[HousingAffordabilitySupplyMechanics]], [[CorporateLandlordTradeoffs]], [[HousingRestrictionBackfire]], [[SingleRoomOccupancyHousing]], and [[SharedHousingRevival]].
 
@@ -58,6 +60,7 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 - [[SubprimeAutoLending]], [[AutoRepossession]], [[CarAffordabilityStress]], and [[GPSEnabledRepossession]] - household-auto-credit branch added through Planet Money.
 - [[WetzelsPretzels]], [[RickyAlam]], [[ImpulseRetailClustering]], and [[SharedKitchenSatelliteRetail]] - impulse-retail branch added through Planet Money.
 - [[DietarySupplementRegulation]], [[Prevagen]], [[SupplementStructureFunctionClaims]], and [[ThirdPartySupplementTesting]] - supplement-regulation branch added through Planet Money.
+- [[DailyHarvest]], [[TaraFlour]], [[SecretGRAS]], [[FoodAdditiveRegulation]], and [[FoodSafetyLitigationDiscovery]] - food-additive regulation branch added through Planet Money.
 - [[HousingAffordabilitySupplyMechanics]], [[InstitutionalSingleFamilyRental]], [[SingleRoomOccupancyHousing]], and [[SupportiveHousingManagement]] - housing affordability and SRO branch added through Planet Money.
 - [[China]], [[EngineeringState]], [[InfrastructureMalinvestment]], [[ChinaRealEstateDebtCycle]], and [[BuildBuildRegulate]] - China development branch added through Planet Money Summer School.
 - [[Brazil]], [[Manaus]], [[MiddleIncomeTrap]], [[SubsidizedAssemblyIndustrialization]], and [[LocalizedInnovationAdvantage]] - Brazil development branch added through Planet Money.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The sneaky way companies get new chemicals into our food](sources/the-sneaky-way-companies-get-new-chemicals-into-our-food.md) — Planet Money episode on Daily Harvest, tara flour, Secret GRAS, food-additive self-certification, FDA notification gaps, arbitration, litigation discovery, and post-harm regulation.
 - [The leaked tapes that show how the rich avoid taxes](sources/the-leaked-tapes-that-show-how-the-rich-avoid-taxes.md) — Planet Money episode on the Malta tax loophole, U.S.-Malta treaty arbitrage, IRS enforcement, economic substance, leaked strategy calls, disclosure rules, and the politics of tax shelter enforcement.
 - [The giant factory town that might be a giant mistake](sources/the-giant-factory-town-that-might-be-a-giant-mistake.md) — Planet Money episode on Manaus, Brazil's free-zone factory model, subsidy-dependent assembly, the middle-income trap, premature deindustrialization, and local innovation paths beyond old manufacturing.
 - [Why the U.S. Has No Guaranteed Paid Vacation](sources/why-the-us-has-no-guaranteed-paid-vacation.md) — Planet Money episode on the U.S. paid-vacation outlier, European vacation rights, workplace guilt, rejected culture/tax explanations, and employer-bargained benefits.
@@ -690,6 +691,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Melanie Benish](entities/MelanieBenish.md) — Environmental Working Group lawyer explaining DSHEA, structure/function claims, and the Prevagen/GRAS case.
 - [Environmental Working Group](entities/EnvironmentalWorkingGroup.md) — Consumer-safety and regulatory-analysis organization represented by Melanie Benish in the supplement episode.
 - [Food and Drug Administration](entities/FoodAndDrugAdministration.md) — U.S. food and drug regulator whose limited supplement authority is central to the episode.
+- [Carol Reedy](entities/CarolReedy.md) — Daily Harvest consumer whose gallbladder injury grounds the Planet Money tara-flour episode.
+- [Daily Harvest](entities/DailyHarvest.md) — Consumer food company whose lentil and leek crumble becomes the tara-flour food-additive failure case.
+- [Tara Flour](entities/TaraFlour.md) — Tara-tree-seed ingredient linked in the episode to acute illness, gallbladder removals, and Secret GRAS oversight gaps.
+- [Bill Marler](entities/BillMarler.md) — Food-safety attorney who uses litigation discovery to investigate the Daily Harvest tara-flour supply chain.
+- [Smirks](entities/Smirks.md) — U.S. importer that pitched tara flour to Daily Harvest in the episode's supply-chain account.
+- [Molinos (Peru)](entities/MolinosPeru.md) — Peruvian producer identified in the episode as the upstream tara-flour manufacturer.
+- [Chobani](entities/Chobani.md) — Food company that later purchased Daily Harvest, used in the episode's limited-consequences frame.
 - [Federal Trade Commission](entities/FederalTradeCommission.md) — U.S. advertising regulator in the Prevagen false-advertising case.
 - [Prevagen](entities/Prevagen.md) — Memory supplement used as the episode's case study in weak oversight, GRAS routing, and delayed advertising enforcement.
 - [Mark Underwood](entities/MarkUnderwood.md) — Prevagen-linked figure in the episode's jellyfish-protein origin story.
@@ -3170,6 +3178,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dietary Supplement Health and Education Act](concepts/DietarySupplementHealthAndEducationAct.md) — 1994 U.S. law that anchors the episode's account of permissive supplement claims and limited FDA oversight.
 - [Supplement Structure Function Claims](concepts/SupplementStructureFunctionClaims.md) — "Supports" and "promotes" language that implies bodily benefit without making disease-treatment claims.
 - [GRAS Self-Certification](concepts/GRASSelfCertification.md) — Food-law self-certification pathway used in the episode's Prevagen and NeuroShake case.
+- [Food Additive Regulation](concepts/FoodAdditiveRegulation.md) — U.S. food-additive safety system tested by the Daily Harvest tara-flour case.
+- [Secret GRAS](concepts/SecretGRAS.md) — No-notice GRAS route where a company self-certifies an ingredient without telling the FDA.
+- [Premarket Food Safety Review](concepts/PremarketFoodSafetyReview.md) — Precautionary model requiring safety evidence before new ingredients reach consumers.
+- [Post-Harm Food Regulation](concepts/PostHarmFoodRegulation.md) — Reactive safety pattern where regulators and lawsuits act after consumers are injured.
+- [Food Safety Litigation Discovery](concepts/FoodSafetyLitigationDiscovery.md) — Lawsuit-based fact-finding mechanism that exposed the tara-flour supply chain.
+- [Consumer Arbitration Barrier](concepts/ConsumerArbitrationBarrier.md) — Contractual barrier that can keep consumer injury claims out of court and limit public discovery.
+- [Chronic Food Additive Risk](concepts/ChronicFoodAdditiveRisk.md) — Long-term food-chemical harm problem that is harder to trace than acute poisoning.
 - [Supplement Label Accuracy](concepts/SupplementLabelAccuracy.md) — Risk that supplement ingredient lists, doses, and contents may not match what consumers actually receive.
 - [Herbal Supplement Liver Toxicity](concepts/HerbalSupplementLiverToxicity.md) — Safety frame for concentrated extracts, high doses, contaminants, and liver-harm cases tied to herbal and dietary supplements.
 - [Supplement Placebo Effect](concepts/SupplementPlaceboEffect.md) — Consumer-experience frame separating perceived wellness benefit from proven physiological effect.

@@ -3778,6 +3778,23 @@ Ran lint. Report printed in session; semantic checks unavailable because LiteLLM
 
 Ran lint. See lint-report.md for details.
 
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-18] ingest | The sneaky way companies get new chemicals into our food
+
+Added source page for the Planet Money episode on Daily Harvest, tara flour, Secret GRAS, FDA notification gaps, food-additive self-certification, arbitration barriers, Bill Marler's litigation discovery, and post-harm food regulation. Created pages for Carol Reedy, Daily Harvest, Tara Flour, Bill Marler, Smirks, Molinos (Peru), Chobani, Food Additive Regulation, Secret GRAS, Premarket Food Safety Review, Post-Harm Food Regulation, Food Safety Litigation Discovery, Consumer Arbitration Barrier, and Chronic Food Additive Risk; updated overview, index, NPR, Planet Money, Sarah Gonzalez, Melanie Benish, Environmental Working Group, Food and Drug Administration, GRAS Self-Certification, and Dietary Supplement Regulation. No direct contradiction found; the source extends the prior supplement/GRAS branch from claim-evidence weakness into acute food-ingredient safety and regulatory opacity.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-18] graph | Knowledge graph rebuilt
+
+4998 nodes, 49201 edges (49201 extracted, 0 inferred).
+
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

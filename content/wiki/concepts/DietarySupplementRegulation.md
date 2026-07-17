@@ -2,7 +2,7 @@
 title: "Dietary Supplement Regulation"
 type: concept
 tags: [health, regulation, supplements, consumer-protection]
-sources: [why-is-there-a-supplement-craze-if-they-dont-even-work]
+sources: [the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work]
 last_updated: 2026-07-17
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-17
 Dietary supplement regulation is the weak U.S. oversight system described in [[why-is-there-a-supplement-craze-if-they-dont-even-work]]. The episode argues that supplements sit awkwardly between food and drugs: they look like health products, but most do not need drug-style proof of effectiveness before sale.
 
 The concept matters because it connects business design to legal design. [[FrankCantone]] can help a brand assemble gummies, capsules, powders, flavors, ingredients, and acceptable label language, while the [[DietarySupplementHealthAndEducationAct]] lets many products make broad wellness claims through [[SupplementStructureFunctionClaims]] rather than evidence-backed treatment claims.
+
+[[the-sneaky-way-companies-get-new-chemicals-into-our-food]] adds an adjacent contrast: [[FoodAdditiveRegulation]] can also rely on [[GRASSelfCertification]], but the [[TaraFlour]] case is about acute ingredient safety rather than supplement efficacy or claim wording.
 
 ## Key Claims
 - Supplements can be marketed as health-supporting products without proving they make healthy people healthier.
@@ -25,4 +27,5 @@ The concept matters because it connects business design to legal design. [[Frank
 - [[SupplementStructureFunctionClaims]] - label language made possible by the regulatory system.
 - [[FoodAndDrugAdministration]] and [[FederalTradeCommission]] - agencies with different roles.
 - [[GRASSelfCertification]] - food-law pathway that can interact with supplement sales.
+- [[FoodAdditiveRegulation]], [[SecretGRAS]], and [[TaraFlour]] - adjacent food-additive branch that clarifies the difference between supplement claims and food-ingredient safety.
 - [[MedicalAIMarketingRisk]] and [[OnlineHealthcareRegulatoryBoundary]] - adjacent health-trust and regulatory-boundary pages.

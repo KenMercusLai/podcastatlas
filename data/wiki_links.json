@@ -2699,6 +2699,10 @@
     "title": "Bill Clinton",
     "url": "/wiki/entities/billclinton/"
   },
+  "BillMarler": {
+    "title": "Bill Marler",
+    "url": "/wiki/entities/billmarler/"
+  },
   "BingeReleaseModel": {
     "title": "Binge Release Model",
     "url": "/wiki/concepts/bingereleasemodel/"
@@ -3267,6 +3271,10 @@
     "title": "Carly Urban",
     "url": "/wiki/entities/carlyurban/"
   },
+  "CarolReedy": {
+    "title": "Carol Reedy",
+    "url": "/wiki/entities/carolreedy/"
+  },
   "CarolineBuck": {
     "title": "Caroline Buck",
     "url": "/wiki/entities/carolinebuck/"
@@ -3703,6 +3711,10 @@
     "title": "Chip War",
     "url": "/wiki/entities/chipwar/"
   },
+  "Chobani": {
+    "title": "Chobani",
+    "url": "/wiki/entities/chobani/"
+  },
   "ChoiceTriggeredAttentionBoundary": {
     "title": "Choice-Triggered Attention Boundary",
     "url": "/wiki/concepts/choicetriggeredattentionboundary/"
@@ -3750,6 +3762,10 @@
   "ChristyClement": {
     "title": "Christy Clement",
     "url": "/wiki/entities/christyclement/"
+  },
+  "ChronicFoodAdditiveRisk": {
+    "title": "Chronic Food Additive Risk",
+    "url": "/wiki/concepts/chronicfoodadditiverisk/"
   },
   "ChunyuDoctor": {
     "title": "春雨医生",
@@ -4147,6 +4163,10 @@
     "title": "Consumer AML Exposure",
     "url": "/wiki/concepts/consumeramlexposure/"
   },
+  "ConsumerArbitrationBarrier": {
+    "title": "Consumer Arbitration Barrier",
+    "url": "/wiki/concepts/consumerarbitrationbarrier/"
+  },
   "ConsumerBrandMoat": {
     "title": "Consumer Brand Moat",
     "url": "/wiki/concepts/consumerbrandmoat/"
@@ -4534,6 +4554,10 @@
   "DaiYusen": {
     "title": "Dai Yusen / 戴雨森",
     "url": "/wiki/entities/daiyusen/"
+  },
+  "DailyHarvest": {
+    "title": "Daily Harvest",
+    "url": "/wiki/entities/dailyharvest/"
   },
   "DailyLifeMystery": {
     "title": "日常推理 / Daily-Life Mystery",
@@ -6427,6 +6451,10 @@
     "title": "Folklore Trauma Encoding",
     "url": "/wiki/concepts/folkloretraumaencoding/"
   },
+  "FoodAdditiveRegulation": {
+    "title": "Food Additive Regulation",
+    "url": "/wiki/concepts/foodadditiveregulation/"
+  },
   "FoodAndDrugAdministration": {
     "title": "Food and Drug Administration",
     "url": "/wiki/entities/foodanddrugadministration/"
@@ -6442,6 +6470,10 @@
   "FoodInflation": {
     "title": "Food Inflation",
     "url": "/wiki/concepts/foodinflation/"
+  },
+  "FoodSafetyLitigationDiscovery": {
+    "title": "Food Safety Litigation Discovery",
+    "url": "/wiki/concepts/foodsafetylitigationdiscovery/"
   },
   "FoodTextureAesthetics": {
     "title": "Food Texture Aesthetics",
@@ -11431,6 +11463,10 @@
     "title": "蘑菇街 / Mogujie",
     "url": "/wiki/entities/mogujie/"
   },
+  "MolinosPeru": {
+    "title": "Molinos (Peru)",
+    "url": "/wiki/entities/molinosperu/"
+  },
   "Momenta": {
     "title": "Momenta",
     "url": "/wiki/entities/momenta/"
@@ -13083,6 +13119,10 @@
     "title": "Post-Brexit Strategic Identity",
     "url": "/wiki/concepts/postbrexitstrategicidentity/"
   },
+  "PostHarmFoodRegulation": {
+    "title": "Post-Harm Food Regulation",
+    "url": "/wiki/concepts/postharmfoodregulation/"
+  },
   "PostMortemAIConsent": {
     "title": "Post-Mortem AI Consent",
     "url": "/wiki/concepts/postmortemaiconsent/"
@@ -13126,6 +13166,10 @@
   "PredictionMarketSelfRegulation": {
     "title": "Prediction Market Self-Regulation",
     "url": "/wiki/concepts/predictionmarketselfregulation/"
+  },
+  "PremarketFoodSafetyReview": {
+    "title": "Premarket Food Safety Review",
+    "url": "/wiki/concepts/premarketfoodsafetyreview/"
   },
   "PrematureDeindustrialization": {
     "title": "Premature Deindustrialization",
@@ -14619,6 +14663,10 @@
     "title": "寺库 / Secoo",
     "url": "/wiki/entities/secoo/"
   },
+  "SecretGRAS": {
+    "title": "Secret GRAS",
+    "url": "/wiki/concepts/secretgras/"
+  },
   "SecularHappinessAgainstIdeology": {
     "title": "Secular Happiness Against Ideology",
     "url": "/wiki/concepts/secularhappinessagainstideology/"
@@ -15154,6 +15202,10 @@
   "SmartphoneSurveyPenalty": {
     "title": "Smartphone Survey Penalty",
     "url": "/wiki/concepts/smartphonesurveypenalty/"
+  },
+  "Smirks": {
+    "title": "Smirks",
+    "url": "/wiki/entities/smirks/"
   },
   "SmithStoryWorlds": {
     "title": "Clark Ashton Smith Story Worlds",
@@ -16042,6 +16094,10 @@
   "Tapio": {
     "title": "Tapio",
     "url": "/wiki/entities/tapio/"
+  },
+  "TaraFlour": {
+    "title": "Tara Flour",
+    "url": "/wiki/entities/taraflour/"
   },
   "TarangAmin": {
     "title": "Tarang Amin",
@@ -19598,6 +19654,10 @@
   "the-secret-meeting-that-launched-opec": {
     "title": "The secret meeting that launched OPEC",
     "url": "/wiki/sources/the-secret-meeting-that-launched-opec/"
+  },
+  "the-sneaky-way-companies-get-new-chemicals-into-our-food": {
+    "title": "The sneaky way companies get new chemicals into our food",
+    "url": "/wiki/sources/the-sneaky-way-companies-get-new-chemicals-into-our-food/"
   },
   "the-walt-disney-company-1": {
     "title": "The Walt Disney Company: Walt's Era",

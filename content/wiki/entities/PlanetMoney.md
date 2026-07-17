@@ -2,7 +2,7 @@
 title: "Planet Money"
 type: entity
 tags: [podcast, media, economics]
-sources: [the-leaked-tapes-that-show-how-the-rich-avoid-taxes, the-secret-meeting-that-launched-opec, diary-of-a-wnba-negotiator, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down, jerome-powell-and-the-test-of-fed-independence, why-the-us-has-no-guaranteed-paid-vacation, the-giant-factory-town-that-might-be-a-giant-mistake]
+sources: [the-sneaky-way-companies-get-new-chemicals-into-our-food, the-leaked-tapes-that-show-how-the-rich-avoid-taxes, the-secret-meeting-that-launched-opec, diary-of-a-wnba-negotiator, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down, jerome-powell-and-the-test-of-fed-independence, why-the-us-has-no-guaranteed-paid-vacation, the-giant-factory-town-that-might-be-a-giant-mistake]
 last_updated: 2026-07-18
 ---
 
@@ -13,6 +13,8 @@ Planet Money is the [[NPR]] economics podcast feed context for [[congress-has-vo
 The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupportedMedia]] being routed through NPR's existing podcast audience. The message also hands off to a promo for [[1A]] and [[IfYouCanKeepIt]], linking public-media funding to public-affairs podcasting.
 
 [[why-is-there-a-supplement-craze-if-they-dont-even-work]] adds a consumer-health regulation case. The episode uses a proposed Planet Money-branded supplement to explain [[RecurringSupplementCommerce]], [[DietarySupplementRegulation]], [[SupplementStructureFunctionClaims]], [[SupplementLabelAccuracy]], [[GRASSelfCertification]], and [[SupplementPlaceboEffect]] through [[FrankCantone]], [[MarionNestle]], [[MelanieBenish]], and the [[Prevagen]] case.
+
+[[the-sneaky-way-companies-get-new-chemicals-into-our-food]] extends that consumer-health regulation branch from supplements into food additives. The episode uses [[CarolReedy]], [[DailyHarvest]], [[TaraFlour]], [[SecretGRAS]], and [[BillMarler]] to explain how [[FoodAdditiveRegulation]] can become [[PostHarmFoodRegulation]] when companies self-certify ingredients before meaningful public scrutiny.
 
 [[its-my-tree-why-cant-i-cut-it-down]] adds a standard reported Planet Money case about [[TreeProtectionOrdinances]], [[RegulatoryTakings]], and [[PermitProportionality]]. The episode uses [[SarahBond]]'s Portland dispute and [[CantonMichigan]]'s litigation to turn private tree removal into an economics-and-law question about [[UrbanCanopyExternalities]] and who should pay to preserve public environmental benefits.
 
@@ -58,6 +60,7 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 - [[SubprimeAutoLending]], [[AutoRepossession]], [[CarAffordabilityStress]], and [[GPSEnabledRepossession]] - consumer-auto-credit branch added by the repo-man update.
 - [[WetzelsPretzels]], [[RickyAlam]], [[ImpulseRetailClustering]], and [[SharedKitchenSatelliteRetail]] - impulse-retail and franchise-cluster branch added by the Wetzel's episode.
 - [[DietarySupplementRegulation]], [[Prevagen]], [[MarionNestle]], and [[SupplementLabelAccuracy]] - supplement regulation and consumer-health branch added by the supplement episode.
+- [[DailyHarvest]], [[TaraFlour]], [[SecretGRAS]], [[FoodAdditiveRegulation]], and [[PostHarmFoodRegulation]] - food-additive safety branch added by the tara-flour episode.
 - [[InstitutionalSingleFamilyRental]], [[BuildToRentHousing]], [[SingleRoomOccupancyHousing]], and [[SROLossAndHomelessness]] - housing-affordability branch added by the rent episode.
 - [[DanWang]], [[EngineeringState]], [[Evergrande]], [[ChinaYouthUnemployment]], and [[BuildBuildRegulate]] - China Summer School branch added by the new episode.
 - [[Brazil]], [[Manaus]], [[HomiKharas]], [[MayaraFelix]], [[MiddleIncomeTrap]], and [[PrematureDeindustrialization]] - Brazil development branch added by the Manaus episode.
