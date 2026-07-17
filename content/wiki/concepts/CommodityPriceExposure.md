@@ -2,8 +2,8 @@
 title: "Commodity Price Exposure"
 type: concept
 tags: [pricing, consumer-products, risk, operations]
-sources: [advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5, jiufan-zhongting-mifeng-jingjixue-956460448, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]
-last_updated: 2026-07-15
+sources: [the-secret-meeting-that-launched-opec, advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5, jiufan-zhongting-mifeng-jingjixue-956460448, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]
+last_updated: 2026-07-18
 ---
 
 # Commodity Price Exposure
@@ -18,6 +18,8 @@ The concept is not only a margin problem. It can force a founder to decide wheth
 
 [[74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]] adds a historical commodity-market version through [[Coffee|coffee / 咖啡]]. The episode describes coffee speculation around war expectations, harvest outcomes, and [[Brazil]]ian overproduction, then frames coffee burning, producer organizations, origin protection, and organic/environmental labeling as attempts to keep producers from being crushed by undifferentiated output and price collapse. This connects commodity exposure directly to [[CoffeeCommodityPolitics]].
 
+[[the-secret-meeting-that-launched-opec]] adds an oil-market version where exposure comes from producer coordination, chokepoint shipping, and geopolitical conflict rather than from a single firm's input purchase. The episode uses [[OPEC]], [[OilProducerSupplyCoordination]], and [[StraitOfHormuz]] disruption to explain why gasoline prices may not fall simply because one producer wants to pump more.
+
 ## Key Claims
 - Input-price shocks can turn a premium product into a smaller-market product even when margins are protected.
 - A founder should distinguish the material customers love from the emotional or functional job the material serves.
@@ -27,6 +29,7 @@ The concept is not only a margin problem. It can force a founder to decide wheth
 - Commodity exposure can also arise from the output side when producers sell into a low-trust, weakly differentiated market rather than from an input-cost shock alone.
 - For ingredient-dependent CPG, exposure can force formulation and supplier changes, not only pricing changes.
 - Producer-side commodity exposure can trigger coordination, destruction of surplus, origin labeling, or standards as protective responses.
+- Oil-price exposure can depend on producer quotas, swing-producer behavior, shipping confidence, and reserve rebuilding rather than only on total geological supply.
 
 ## Connections
 - [[YearlyCo]] and [[AnneWilliams]] - source case.
@@ -35,3 +38,4 @@ The concept is not only a margin problem. It can force a founder to decide wheth
 - [[jiufan-zhongting-mifeng-jingjixue-956460448]], [[HoneyQualityStandards]], and [[PollinationServiceMarket]] - honey-output and beekeeper-income extension.
 - [[CatalinaCrunch]], [[KrishnaKaliannan]], [[CPGManufacturingScaleUp]], and [[PackagingAsProductExperience]] - packaged-food case where input shocks affect formula, suppliers, and pack value.
 - [[Coffee]], [[Brazil]], and [[CoffeeCommodityPolitics]] - coffee speculation, overproduction, and producer-protection extension.
+- [[OPEC]], [[OilProducerSupplyCoordination]], [[SwingProducerRole]], [[GreenParadox]], and [[StraitOfHormuz]] - oil-market coordination and chokepoint extension.

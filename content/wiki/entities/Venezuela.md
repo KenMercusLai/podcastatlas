@@ -2,8 +2,8 @@
 title: "Venezuela"
 type: entity
 tags: [country, politics, disaster-response, crypto]
-sources: [tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b]
-last_updated: 2026-07-12
+sources: [the-secret-meeting-that-launched-opec, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b]
+last_updated: 2026-07-18
 ---
 
 # Venezuela
@@ -14,6 +14,8 @@ In the source, shortages of machinery, fuel, medical capacity, trained personnel
 
 [[tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]] adds a separate stablecoin-adoption angle. [[AriRedbord]] cites Venezuela as one place where U.S. dollar-backed [[Stablecoins]] can support financial access, while the same episode warns that stablecoins can also be used by bad actors outside the traditional financial system.
 
+[[the-secret-meeting-that-launched-opec]] adds Venezuela to the oil-institution branch. The [[PlanetMoney]] episode says Venezuelan officials were part of the secret 1959 meeting that led to [[OPEC]], making Venezuela one of the producer-state actors reacting to [[SevenSistersOilMajors|Seven Sisters]] pricing power.
+
 ## Connections
 - [[DelcyRodriguez]] — regime figure whose aid-distribution role is politically contested in the episode.
 - [[MariaCorinaMachado]] — opposition leader whose attempted return could sharpen transition tensions.
@@ -21,3 +23,4 @@ In the source, shortages of machinery, fuel, medical capacity, trained personnel
 - [[UnitedStates]] — external actor whose political involvement creates recovery responsibility in the source's framing.
 - [[DisasterResponseStateCapacity]] and [[DemocraticTransitionElection]] — core concepts attached to the Venezuela segment.
 - [[Stablecoins]] and [[StablecoinSanctionsEvasion]] — financial-access and dual-use crypto branch added by Marketplace Tech.
+- [[OPEC]], [[SevenSistersOilMajors]], and [[OilProducerSupplyCoordination]] — oil-market coordination branch added by Planet Money.

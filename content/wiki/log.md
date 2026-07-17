@@ -3597,6 +3597,10 @@ Ran health and lint. Health scanned 4,708 pages and passed with no empty/stub fi
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-18] ingest | The secret meeting that launched OPEC
+
+Added source page for the Planet Money episode on OPEC's origin against the Seven Sisters, Wanda Jablonski's oil reporting, the 1973 oil shock, quota discipline, Saudi Arabia's swing-producer role, member cheating, the UAE's source-reported OPEC exit, Green Paradox pressure, and Strait of Hormuz constraints on gasoline-price relief. Created pages for OPEC, Seven Sisters Oil Majors, Saudi Arabia, Wanda Jablonski, Ibrahim Almohanna, Kate Durian, Oil Producer Supply Coordination, Production Quota Discipline, Swing Producer Role, and Green Paradox; updated overview, index, NPR, Planet Money, United Arab Emirates, Strait of Hormuz, Iran, Venezuela, Gulf Stability Risk, Commodity Price Exposure, Market Regime Shift, Geopolitical Cycle Macro, and Chokepoint Shipping Confidence. No direct contradiction found; the source adds a chronology note that this 2026-05-13 account says the UAE had left OPEC, while later Gulf/Hormuz pages discuss UAE resilience and shipping risk without conflicting on OPEC membership.
+
 ## [2026-07-18] ingest | 98.自卑与超越：向前看，前方有希望
 
 Added source page for the 蜜獾吃书 episode on Alfred Adler, 《自卑与超越》, individual psychology, inferiority and superiority, Adlerian teleology, community feeling, education, courage, and life meaning. Created pages for Alfred Adler, 《自卑与超越》, Individual Psychology, Adlerian Teleology, Inferiority-Superiority Dynamic, and Community Feeling; updated overview, index, 蜜獾吃书, Anti-Authoritarian Education, Achievement Pressure Mental Health, Objective Self-Ownership, Action Against Anxiety, and Meaning Through Experience. No direct contradiction found; the source complements trauma and education-pressure pages by adding an agency frame while keeping real injury, serious illness, and structural constraint outside blame.
@@ -3738,6 +3742,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-18] ingest | 99.很久很久以前，妖怪也推理啊…
 
 Added source page for the 蜜獾吃书 episode on 青柳碧人《很久很久以前，在某个地方有一具尸体》, 设定系推理, 本格推理, Japanese folk-tale rewriting, 一寸法师 alibi mechanics, 猿蟹合战 logic-flow reversal, magical rule-world clues, and puzzle-forward reading expectations. Created pages for 青柳碧人, 《很久很久以前，在某个地方有一具尸体》, 一寸法师, 猿蟹合战, Setting-Based Mystery, Folk-Tale Mystery Rewriting, and Honkaku Mystery; updated overview, index, 蜜獾吃书, 秦总, 北明, Puzzle-Snack Mystery, Story Motif Transmission, Closed-Circle Mystery, Observation Before Inference, and Absurd Rationality. No direct contradiction found; the source clarifies that non-realistic folk-tale premises can still support fair deduction when the rules are explicit and consistently applied.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-18] lint | Wiki health check
 

@@ -7267,6 +7267,10 @@
     "title": "Green Hushing",
     "url": "/wiki/concepts/greenhushing/"
   },
+  "GreenParadox": {
+    "title": "Green Paradox",
+    "url": "/wiki/concepts/greenparadox/"
+  },
   "GreenlightAnalytics": {
     "title": "Greenlight Analytics",
     "url": "/wiki/entities/greenlightanalytics/"
@@ -8182,6 +8186,10 @@
   "IQIYI": {
     "title": "iQIYI / 爱奇艺",
     "url": "/wiki/entities/iqiyi/"
+  },
+  "IbrahimAlmohanna": {
+    "title": "Ibrahim Almohanna",
+    "url": "/wiki/entities/ibrahimalmohanna/"
   },
   "Iceland": {
     "title": "Iceland",
@@ -9282,6 +9290,10 @@
   "KateCrawford": {
     "title": "Kate Crawford",
     "url": "/wiki/entities/katecrawford/"
+  },
+  "KateDurian": {
+    "title": "Kate Durian",
+    "url": "/wiki/entities/katedurian/"
   },
   "KatherineMaher": {
     "title": "Katherine Maher",
@@ -11859,6 +11871,10 @@
     "title": "Nvidia",
     "url": "/wiki/entities/nvidia/"
   },
+  "OPEC": {
+    "title": "OPEC",
+    "url": "/wiki/entities/opec/"
+  },
   "OPPO": {
     "title": "OPPO",
     "url": "/wiki/entities/oppo/"
@@ -11950,6 +11966,10 @@
   "Ohayoo": {
     "title": "Ohayoo",
     "url": "/wiki/entities/ohayoo/"
+  },
+  "OilProducerSupplyCoordination": {
+    "title": "Oil Producer Supply Coordination",
+    "url": "/wiki/concepts/oilproducersupplycoordination/"
   },
   "OliveYoung": {
     "title": "OLIVE YOUNG / 올리브영",
@@ -13126,6 +13146,10 @@
   "ProductVisionDrift": {
     "title": "Product Vision Drift",
     "url": "/wiki/concepts/productvisiondrift/"
+  },
+  "ProductionQuotaDiscipline": {
+    "title": "Production Quota Discipline",
+    "url": "/wiki/concepts/productionquotadiscipline/"
   },
   "ProductionRobotScenarioSelection": {
     "title": "Production Robot Scenario Selection",
@@ -14311,6 +14335,10 @@
     "title": "Saucony",
     "url": "/wiki/entities/saucony/"
   },
+  "SaudiArabia": {
+    "title": "Saudi Arabia",
+    "url": "/wiki/entities/saudiarabia/"
+  },
   "SaudiPublicInvestmentFund": {
     "title": "Saudi Public Investment Fund",
     "url": "/wiki/entities/saudipublicinvestmentfund/"
@@ -14586,6 +14614,10 @@
   "SevenGeases": {
     "title": "《七咒赋》 / The Seven Geases",
     "url": "/wiki/entities/sevengeases/"
+  },
+  "SevenSistersOilMajors": {
+    "title": "Seven Sisters Oil Majors",
+    "url": "/wiki/entities/sevensistersoilmajors/"
   },
   "SeventhGeneration": {
     "title": "Seventh Generation",
@@ -15722,6 +15754,10 @@
   "SwanMaidenMotif": {
     "title": "Swan Maiden Motif",
     "url": "/wiki/concepts/swanmaidenmotif/"
+  },
+  "SwingProducerRole": {
+    "title": "Swing Producer Role",
+    "url": "/wiki/concepts/swingproducerrole/"
   },
   "SwingSculpt": {
     "title": "Swing Sculpt",
@@ -17106,6 +17142,10 @@
   "WandaGroup": {
     "title": "万达集团 / Wanda Group",
     "url": "/wiki/entities/wandagroup/"
+  },
+  "WandaJablonski": {
+    "title": "Wanda Jablonski",
+    "url": "/wiki/entities/wandajablonski/"
   },
   "WanderingSoulBeer": {
     "title": "Wandering Soul Beer",
@@ -19346,6 +19386,10 @@
   "the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7": {
     "title": "The Mourning Show: The Politics of Khamenei's Funeral",
     "url": "/wiki/sources/the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7/"
+  },
+  "the-secret-meeting-that-launched-opec": {
+    "title": "The secret meeting that launched OPEC",
+    "url": "/wiki/sources/the-secret-meeting-that-launched-opec/"
   },
   "the-walt-disney-company-1": {
     "title": "The Walt Disney Company: Walt's Era",

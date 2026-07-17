@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The secret meeting that launched OPEC](sources/the-secret-meeting-that-launched-opec.md) — Planet Money episode on OPEC's origin against the Seven Sisters, the 1973 oil shock, Saudi swing production, quota cheating, UAE exit pressure, and why Hormuz disruption limits near-term gasoline relief.
 - [99.很久很久以前，妖怪也推理啊…](sources/99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220.md) — 蜜獾吃书 episode on 青柳碧人, 《很久很久以前，在某个地方有一具尸体》, 设定系推理, 本格推理, Japanese folk-tale rewriting, 一寸法师, and 猿蟹合战.
 - [98.自卑与超越：向前看，前方有希望](sources/98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507.md) — 蜜獾吃书 episode on Alfred Adler, 《自卑与超越》, individual psychology, inferiority and superiority, purpose theory, community feeling, education, courage, and life meaning.
 - [97.花粉症与人类：从尼安德特人（啊啾！）到空气净化器…](sources/97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059.md) — 蜜獾吃书 episode using 《花粉症与人类》 to connect pollen evolution, palynology, hay fever, Blackley self-experimentation, ragweed ecology, air purifiers, and allergy as immune response.
@@ -467,6 +468,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [OPEC](entities/OPEC.md) — Oil-producing-state organization used by Planet Money to explain producer supply coordination, quotas, Saudi swing production, and UAE exit pressure.
+- [Seven Sisters Oil Majors](entities/SevenSistersOilMajors.md) — Major Western oil-company group whose late-1950s pricing and concession power triggered producer-country coordination in the OPEC episode.
+- [Saudi Arabia](entities/SaudiArabia.md) — Oil-producing country framed by the OPEC episode as founder, swing producer, quota enforcer, and UAE quota-dispute counterpart.
+- [Wanda Jablonski](entities/WandaJablonski.md) — Oil journalist whose reporting and relationships helped producer countries understand Seven Sisters power before OPEC formed.
+- [Ibrahim Almohanna](entities/IbrahimAlmohanna.md) — Former Saudi oil adviser used by the OPEC episode to frame OPEC as supply manager rather than simple high-price seeker.
+- [Kate Durian](entities/KateDurian.md) — OPEC watcher explaining UAE exit pressure through quotas, the Green Paradox, Saudi tension, and Strait of Hormuz disruption.
 - [青柳碧人 / Aoyagi Aito](entities/AoyagiAito.md) — Japanese mystery writer whose folk-tale puzzle collection anchors episode 99's setting-based mystery branch.
 - [《很久很久以前，在某个地方有一具尸体》](entities/MukashiMukashiAruTokoroNiShitaiGaArimashita.md) — 青柳碧人 mystery collection that turns Japanese folk tales into alibi, locked-room, identity, and rule-world puzzles.
 - [一寸法师 / Issun Boshi](entities/IssunBoshi.md) — Japanese folk-tale figure whose size, ogre encounter, and magic mallet become episode 99's alibi and clue machinery.
@@ -2994,6 +3001,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Oil Producer Supply Coordination](concepts/OilProducerSupplyCoordination.md) — Mechanism by which oil-producing states influence prices by coordinating output rather than directly setting retail fuel prices.
+- [Production Quota Discipline](concepts/ProductionQuotaDiscipline.md) — Incentive problem of keeping oil producers inside agreed output limits when cheating can be individually attractive.
+- [Swing Producer Role](concepts/SwingProducerRole.md) — Stabilizing oil-market role where a producer such as Saudi Arabia adjusts output to absorb price pressure and enforce discipline.
+- [Green Paradox](concepts/GreenParadox.md) — Incentive for fossil-fuel producers to pump sooner if future decarbonization may reduce long-run demand.
 - [设定系推理 / Setting-Based Mystery](concepts/SettingBasedMystery.md) — Mystery mode where an invented rule-world supplies the constraints for fair deduction.
 - [民间故事推理改写 / Folk-Tale Mystery Rewriting](concepts/FolkTaleMysteryRewriting.md) — Adaptation pattern where familiar folk motifs become mystery rules, clues, suspects, and identity tricks.
 - [本格推理 / Honkaku Mystery](concepts/HonkakuMystery.md) — Puzzle-centered mystery frame emphasizing who, how, alibi, clue, and final reconstruction.
