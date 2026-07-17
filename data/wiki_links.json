@@ -479,6 +479,10 @@
     "title": "89.剑桥夜攀者：让我们庄严地上房揭瓦",
     "url": "/wiki/sources/89-jianqiao-yepanzhe-rang-women-zhuangyan-de-shangfang-jiewa-710382629/"
   },
+  "90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933": {
+    "title": "90.酉阳杂俎：血滴子和武则天手指上的黑毛",
+    "url": "/wiki/sources/90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933/"
+  },
   "93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489": {
     "title": "93.聊聊头发：秃了，就会变强吗？",
     "url": "/wiki/sources/93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489/"
@@ -5186,6 +5190,10 @@
   "DuZiChun": {
     "title": "《杜子春》",
     "url": "/wiki/entities/duzichun/"
+  },
+  "DuanChengshi": {
+    "title": "段成式 / Duan Chengshi",
+    "url": "/wiki/entities/duanchengshi/"
   },
   "DuanGeShiWoBeishangDeWanju": {
     "title": "《短歌是我悲伤的玩具》",
@@ -15475,6 +15483,10 @@
     "title": "唐辉 / Tang Hui",
     "url": "/wiki/entities/tanghui/"
   },
+  "TangMiscellanyArchiveValue": {
+    "title": "Tang Miscellany Archive Value",
+    "url": "/wiki/concepts/tangmiscellanyarchivevalue/"
+  },
   "TangStrangeTaleRepaymentEthics": {
     "title": "Tang Strange-Tale Repayment Ethics",
     "url": "/wiki/concepts/tangstrangetalerepaymentethics/"
@@ -17127,6 +17139,10 @@
     "title": "吴欣鸿",
     "url": "/wiki/entities/wuxinhong/"
   },
+  "WuZetian": {
+    "title": "武则天 / Wu Zetian",
+    "url": "/wiki/entities/wuzetian/"
+  },
   "Wuhan": {
     "title": "Wuhan / 武汉",
     "url": "/wiki/entities/wuhan/"
@@ -17447,6 +17463,10 @@
     "title": "叶君健 / Ye Junjian",
     "url": "/wiki/entities/yejunjian/"
   },
+  "YeXian": {
+    "title": "《叶限》 / Ye Xian",
+    "url": "/wiki/entities/yexian/"
+  },
   "YearlyCo": {
     "title": "Yearly Co.",
     "url": "/wiki/entities/yearlyco/"
@@ -17570,6 +17590,10 @@
   "YouthHappinessAfterGrowth": {
     "title": "Youth Happiness After Growth",
     "url": "/wiki/concepts/youthhappinessaftergrowth/"
+  },
+  "YouyangZazu": {
+    "title": "《酉阳杂俎》 / Youyang Zazu",
+    "url": "/wiki/entities/youyangzazu/"
   },
   "YouyouAgent": {
     "title": "Youyou Agent",

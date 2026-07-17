@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [90.酉阳杂俎：血滴子和武则天手指上的黑毛](sources/90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933.md) — 蜜獾吃书 episode on 段成式《酉阳杂俎》 as a Tang miscellany of strange tales, court rumor, religion, story motifs, underworld bureaucracy, elite cruelty, and archival imagination.
 - [89.剑桥夜攀者：让我们庄严地上房揭瓦](sources/89-jianqiao-yepanzhe-rang-women-zhuangyan-de-shangfang-jiewa-710382629.md) — 蜜獾吃书 episode on 《剑桥夜攀者》, Cambridge night climbing, student prank ethics, roofscape attention, King's College Chapel tower legends, and Noel H. Symington's Whipplesnaith authorship.
 - [76.玄怪录：晚唐党争？没耽误宰相写大马猴的故事](sources/76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220.md) — 蜜獾吃书 episode on 牛僧儒《玄怪录》, 牛李党争, 唐传奇, fox/dragon/object-spirit repayment, religious mixing, water-monkey ambiguity, and 《杜子春》 as a failed immortality test.
 - [中秋快乐！](sources/zhongqiu-kuaile-669967741.md) — 蜜獾吃书 holiday episode turning Mid-Autumn into a travel-reading and festival-food book list, from travel anthropology and Yunnan local history to 《中华蟹史》 and crab material culture.
@@ -457,6 +458,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《酉阳杂俎》 / Youyang Zazu](entities/YouyangZazu.md) — Tang miscellany read by episode 90 as an archive of strange tales, court rumor, religious procedure, story motifs, social violence, and odd knowledge.
+- [段成式 / Duan Chengshi](entities/DuanChengshi.md) — Tang writer and collector behind 《酉阳杂俎》, framed by episode 90 as preserving strange knowledge more than pursuing political power.
+- [《叶限》 / Ye Xian](entities/YeXian.md) — Cinderella-like tale in 《酉阳杂俎》 used by episode 90 to discuss story motif transmission and evidence-bounded cross-cultural comparison.
+- [武则天 / Wu Zetian](entities/WuZetian.md) — Ruler appearing source-scopingly through the episode's title and its court-rumor example about black hair on her finger.
 - [《剑桥夜攀者》 / The Night Climbers of Cambridge](entities/TheNightClimbersOfCambridge.md) — 1930s Cambridge night-climbing book read by 蜜獾吃书 as dangerous campus lore, prank ethics, and architectural perception rather than an instruction guide.
 - [Noel H. Symington / 诺埃尔·H.赛明顿](entities/NoelHSymington.md) — Real author behind the Whipplesnaith pseudonym for 《剑桥夜攀者》 and participant in the book's night-climbing legend.
 - [Geoffrey Winthrop Young](entities/GeoffreyWinthropYoung.md) — Author associated with 《三一学院攀爬指南》, the earlier Cambridge climbing-guide lineage invoked by the episode.
@@ -2921,6 +2926,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Tang Miscellany Archive Value](concepts/TangMiscellanyArchiveValue.md) — Episode 90 frame for reading 《酉阳杂俎》 as a mixed archive whose odd details preserve cultural clues without requiring every marvel to be verified or dismissed.
 - [Campus Night Climbing](concepts/CampusNightClimbing.md) — Dangerous unofficial student climbing subculture framed through curfews, secrecy, small teams, route lore, and non-instructional cultural reading.
 - [Campus Prank Ethics](concepts/CampusPrankEthics.md) — Informal rule system that distinguishes wit, restraint, no violence, and minimal damage from vandalism or intimidation in campus prank culture.
 - [Roofscape Attention](concepts/RoofscapeAttention.md) — Architectural attention produced by seeing campuses from roofs, towers, bridges, false domes, maintenance surfaces, and altered skylines.

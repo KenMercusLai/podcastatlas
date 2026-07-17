@@ -2,7 +2,7 @@
 title: "Chinese Folk Religion Layering"
 type: concept
 tags: [religion, folklore, china, mythology]
-sources: [76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 136-chunri-mingmei-liaoliao-guishen-827911486]
+sources: [90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 136-chunri-mingmei-liaoliao-guishen-827911486]
 last_updated: 2026-07-18
 ---
 
@@ -16,6 +16,8 @@ The episode's death-ruler examples show the pattern clearly. [[FengduDadi|丰都
 
 [[76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220]] adds a [[TangChuanqi|唐传奇]] version through [[XuanGuaiLu|《玄怪录》]]. Daoist masters, dragons, Hu monks, talismans, treasure guardians, fox bodies, object spirits, and monkey spirits operate together as story logic without being reduced to one doctrinal system.
 
+[[90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933]] adds a miscellany version through [[YouyangZazu|《酉阳杂俎》]]. Buddhist hell taxonomies, Daoist corpse-release material, heavenly throne usurpation, Taiyi's salary, [[DongyueDadi|东岳大帝]] as a life-and-death officeholder, and underworld document labor appear beside local belief and strange tales. The source therefore makes layering look archival: different religious systems survive because the miscellany stores them next to one another.
+
 ## Key Claims
 - Folk belief can be coherent in use even when it is inconsistent as theology.
 - Local practice, literary story, religious borrowing, and official analogy can all preserve authority at the same time.
@@ -23,8 +25,10 @@ The episode's death-ruler examples show the pattern clearly. [[FengduDadi|丰都
 - Layering differs from error: it records how communities keep useful images, offices, and stories alive.
 - Festival practice can layer domestic ritual, local worship, commerce, and comparative mythology as readily as deity genealogies do.
 - Tang strange tales can layer Daoist ritual, dragon bureaucracy, foreign religious figures, object spirits, and animal spirits in one narrative field.
+- A miscellany can preserve religious layering without reconciling it; juxtaposed entries become evidence of coexistence rather than a single theology.
 
 ## Connections
+- [[YouyangZazu|《酉阳杂俎》]], [[DuanChengshi|段成式]], and [[TangMiscellanyArchiveValue]] - episode 90's archival miscellany extension.
 - [[XuanGuaiLu|《玄怪录》]], [[TangChuanqi]], and [[TangStrangeTaleRepaymentEthics]] - episode 76's Tang strange-tale extension.
 - [[136-chunri-mingmei-liaoliao-guishen-827911486]] - source episode.
 - [[FengduDadi|丰都大帝]], [[DongyueDadi|东岳大帝]], and [[YanluoWang|阎罗王]] - overlapping death rulers.

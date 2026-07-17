@@ -3593,6 +3593,10 @@ Ran health and lint. Health scanned 4,708 pages and passed with no empty/stub fi
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-18] ingest | 90.酉阳杂俎：血滴子和武则天手指上的黑毛
+
+Added source page for the 蜜獾吃书 episode on 段成式《酉阳杂俎》, with emphasis on Tang miscellany as archive, strange miniatures, 《叶限》 and Cinderella-like motif transmission, Buddhist hells, Daoist practices, heavenly and underworld bureaucracy, imperial rumor, elite cruelty, and natural wonder. Created pages for 《酉阳杂俎》 / Youyang Zazu, 段成式 / Duan Chengshi, 《叶限》 / Ye Xian, 武则天 / Wu Zetian, and Tang Miscellany Archive Value; updated overview, index, 蜜獾吃书, Tang Chuanqi, Story Motif Transmission, Chinese Folk Religion Layering, Underworld Bureaucracy, Classic Reading Complexity, Non-Instrumental Literary Reading, Mythic Source Layering, Interpretation And Overinterpretation, 东岳大帝, and 李德裕. No direct contradiction found; speculative motif comparisons such as Cinderella routes and Ainu links were kept source-scoped rather than treated as proven descent.
+
 ## [2026-07-18] ingest | 中秋快乐！
 
 Added source page for the 蜜獾吃书 holiday episode on Mid-Autumn travel reading, staying-home travel essays, Yunnan local history, 《中亚行迹》 / Sovietistan, and 《中华蟹史》 as a crab-centered festival-food history. Created pages for 《中华蟹史》, 钱苍水, 《中亚行迹》 / Sovietistan, Travel Reading As Place Inquiry, and Festival Food Material History; updated overview, index, 蜜獾吃书, Material History Narrative, Non-Instrumental Literary Reading, Reading As Life Experience, Restorative Creative Pacing, and Yunnan. No direct contradiction found; the source extends existing holiday and reading branches by showing that a light festival episode can still produce durable links among travel attention, place inquiry, seasonal eating, folklore, and material history.
@@ -3656,6 +3660,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-18] ingest | 89.剑桥夜攀者：让我们庄严地上房揭瓦
 
 Added source page for the 蜜獾吃书 episode on 《剑桥夜攀者》 / The Night Climbers of Cambridge, Cambridge student night climbing, campus prank ethics, roofscape attention, King's College Chapel tower legends, and Noel H. Symington's Whipplesnaith authorship. Created pages for 《剑桥夜攀者》, Noel H. Symington, Geoffrey Winthrop Young, 《三一学院攀爬指南》, King's College Chapel, Campus Night Climbing, Campus Prank Ethics, and Roofscape Attention; updated overview, index, 蜜獾吃书, University of Cambridge, and Non-Instrumental Literary Reading. No direct contradiction found; the source extends Cambridge from research affiliation into campus-culture history while keeping dangerous climbing details framed as non-instructional cultural reading.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-18] lint | Wiki health check
 

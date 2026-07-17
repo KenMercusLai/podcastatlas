@@ -2,7 +2,7 @@
 title: "Story Motif Transmission"
 type: concept
 tags: [folklore, mythology, narrative, transmission]
-sources: [76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962]
+sources: [90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962]
 last_updated: 2026-07-18
 ---
 
@@ -16,6 +16,8 @@ Story motif transmission is the source's frame for how story patterns travel, re
 
 [[76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220]] adds a [[TangChuanqi|唐传奇]] version. The episode compares orange-contained elders, water-monkey stories, Afghan treasure bowls, dragon women, and possible kappa-like water beings as motif resonances while keeping them source-scoped rather than proving direct lineage.
 
+[[90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933]] adds the [[YeXian|《叶限》]] case from [[YouyangZazu|《酉阳杂俎》]]. The episode treats the fish-bone helper, lost golden shoe, persecuted daughter, festival appearance, and royal search as Cinderella-like motifs that may connect with Southeast Asian routes, Rodopis-like shoe stories, and later European fairy-tale variants, while keeping the transmission question open.
+
 The concept is adjacent to [[MythicSourceLayering]] and [[AccretiveTextFormation]], but it focuses less on a single figure or text and more on portable narrative units: rescue, loss-turned-good, half-human rider, miraculous animal helper, or world-crossing messenger.
 
 ## Key Claims
@@ -26,8 +28,10 @@ The concept is adjacent to [[MythicSourceLayering]] and [[AccretiveTextFormation
 - Stolen-garment marriage stories show why motif comparison also needs ethical attention: the same portable plot can preserve desire, coercion, escape, clan origin, or cautionary meaning in different settings.
 - A motif can become historically misleading when a vivid later story layer is treated as older than the evidence allows.
 - Tang strange tales show how motif comparison can travel through trade goods, foreign merchants, religious figures, and animal-spirit stories without becoming a single-origin claim.
+- [[YeXian|《叶限》]] shows how a famous tale can be useful for comparison even when the source does not settle whether resemblance means borrowing, shared structure, or later recombination.
 
 ## Connections
+- [[YeXian|《叶限》]], [[YouyangZazu|《酉阳杂俎》]], and [[TangMiscellanyArchiveValue]] - episode 90's Cinderella-like tale extension.
 - [[TangChuanqi]], [[XuanGuaiLu|《玄怪录》]], and [[TangStrangeTaleRepaymentEthics]] - episode 76's strange-tale extension.
 - [[HorseCulturalSymbolism]] and [[HorseReligiousMythology]] - horse-specific motif fields.
 - [[SwanMaidenMotif]] and [[CowherdAndWeaverGirl|牛郎织女]] - Qixi extension added by episode 152.
