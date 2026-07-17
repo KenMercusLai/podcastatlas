@@ -3401,6 +3401,10 @@ Added source page for The Intelligence episode on Nigel Farage versus Count Binf
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-17] ingest | 173.当缅怀高善文博士时，我们究竟在怀念什么？
+
+Added source page for the 起朱楼宴宾客 episode on 高善文, Chinese macro research, asset revaluation theory, balance-sheet macro analysis, declining capital returns, sell-side research incentives, and public economic expression. Created pages for 高善文 / Gao Shanwen, Peking University / 北京大学, Asset Revaluation Theory, Balance-Sheet Macro Analysis, Capital Return Rate Decline, and Macro Research Public Expression; updated overview, index, 起朱楼宴宾客, People's Bank of China, Sell-Side Research Incentives, and Household Balance-Sheet Repair. No direct contradiction found; uncertain late-illness and hearsay claims from the episode were kept source-scoped.
+
 ## [2026-07-17] ingest | 111. 花衣魔笛手：快来，和历史学家一起推理童话真相
 
 Added source page for the 蜜獾吃书 episode on 花衣魔笛手, 阿布谨也《花衣魔笛手：传说背后的欧洲中世纪》, Hamelin, medieval evidence, city law, migration, marginal groups, famine, plague, and folklore trauma. Created pages for 阿布谨也, 《花衣魔笛手：传说背后的欧洲中世纪》, 花衣魔笛手, 哈默尔恩, 格林兄弟, Legend As Social History, Evidence-Bound Folklore Inquiry, Medieval Urban Marginality, and Folklore Trauma Encoding; updated overview, index, 蜜獾吃书, Adult Fairy-Tale Reading, Story Motif Transmission, Myth As Historical Evidence, Interpretation And Overinterpretation, and Germany. No direct contradiction found; the source extends the wiki's folklore branch by keeping fairy-tale variants, local records, and social-history interpretation at distinct confidence levels.
@@ -3504,6 +3508,10 @@ Ran health and lint. Health scanned 4,573 pages and passed with no empty/stub fi
 ## [2026-07-17] ingest | Two indicators for lowering the rent
 
 Added source page for the Planet Money episode on corporate single-family rentals, build-to-rent housing, SRO disappearance, supportive housing, and homelessness. Created pages for Amanda Cantrell, Stephen Billings, Lori Goodman, Adrienne Toddman, National Rental Home Council, Vera Hill, Euclid Hall, Westside Federation for Senior and Supportive Housing, Rebecca Baird-Remba, International Hotel, Paul Freitag, Institutional Single-Family Rental, Corporate Landlord Tradeoffs, Build-To-Rent Housing, Housing Affordability Supply Mechanics, Housing Restriction Backfire, Real Estate Investment Trust, Neighborhood Opportunity Access, Single-Room Occupancy Housing, SRO Regulatory Erasure, SRO Loss And Homelessness, Shared Housing Revival, and Supportive Housing Management; updated overview, index, NPR, and Planet Money. No direct contradiction found; the source qualifies simple corporate-landlord blame by emphasizing national scale and supply mechanics, and qualifies minimum-housing-standard narratives by showing how eliminating SROs can remove cheap housing when replacements are not built.
+
+## [2026-07-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-17] lint | Wiki health check
 

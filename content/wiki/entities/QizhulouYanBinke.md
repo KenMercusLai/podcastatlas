@@ -2,8 +2,8 @@
 title: "起朱楼宴宾客 / Qizhulou Yan Binke"
 type: entity
 tags: [podcast, politics, business, investing]
-sources: [vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa, vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x]
-last_updated: 2026-07-15
+sources: [vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl, vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa, vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, 173-dang-mianhuai-gaoshanwen-boshi-shi-women-jiujing-zai-huainian-shenme-lruwsn-me-sheuddobz13rmhwhfe]
+last_updated: 2026-07-17
 ---
 
 # 起朱楼宴宾客 / Qizhulou Yan Binke
@@ -30,6 +30,8 @@ The episode is explicitly cautious about expertise. It presents the discussion a
 
 [[vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x]] returns to the show's ordinary-investor asset-allocation branch through a debate about [[PersonalPensionAccount|个人养老金账户]] products. [[JiangHuaan|蒋华安]] helps move the question from "FOF派 vs 指数派" to pension-account suitability: index funds bring low fees and transparency, while [[FOFProductDesign|FOF]] and [[TargetDateFund|目标日期基金]] can provide allocation, glide-path, and holding-discipline support when investors need more than a single beta exposure.
 
+[[173-dang-mianhuai-gaoshanwen-boshi-shi-women-jiujing-zai-huainian-shenme-lruwsn-me-sheuddobz13rmhwhfe]] adds the show's macro-research and public-expression branch through [[GaoShanwen|高善文]]. The episode treats Gao's memorial as a way to connect [[AssetRevaluationTheory]], [[BalanceSheetMacroAnalysis]], [[CapitalReturnRateDecline]], [[SellSideResearchIncentives]], and [[MacroResearchPublicExpression]]: finance research can be market-facing, policy-facing, and publicly valuable only when its data, logic, and uncomfortable claims remain discussable.
+
 ## Connections
 - [[DonaldTrump]], [[Project2025]], and [[TrumpismInstitutionalization]] — main subject of the ingested episode.
 - [[AdministrativeStateDismantling]], [[MeritBasedImmigrationFilter]], and [[TradeReciprocityProtectionism]] — policy themes developed by the source.
@@ -46,3 +48,4 @@ The episode is explicitly cautious about expertise. It presents the discussion a
 - [[SiriQizhulou|Siri]], [[ChoiceTriggeredAttentionBoundary]], [[ControllableLifeAnchors]], and [[RelationshipOptionality]] — vol.107's youth-attention and life-design branch.
 - [[JapaneseSogoShosha]], [[KeiretsuBusinessGroups]], [[TradingCompanyInvestmentModel]], and [[DeglobalizationTradeIntermediation]] — vol.108's Japanese trading-company and deglobalization branch.
 - [[JiangHuaan|蒋华安]], [[PersonalPensionAccount|个人养老金账户]], [[TargetDateFund|目标日期基金]], [[FOFProductDesign]], and [[PassiveInvesting]] — vol.109's pension-account product-choice branch.
+- [[GaoShanwen|高善文]], [[AssetRevaluationTheory]], [[BalanceSheetMacroAnalysis]], [[CapitalReturnRateDecline]], and [[MacroResearchPublicExpression]] — episode 173's macro-research and public-expression branch.

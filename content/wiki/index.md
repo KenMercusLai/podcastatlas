@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [173.当缅怀高善文博士时，我们究竟在怀念什么？](sources/173-dang-mianhuai-gaoshanwen-boshi-shi-women-jiujing-zai-huainian-shenme-lruwsn-me-sheuddobz13rmhwhfe.md) — 起朱楼宴宾客 episode on 高善文, asset revaluation theory, balance-sheet macro analysis, sell-side macro research, falling capital returns, and the public-expression environment for evidence-backed economic speech.
 - [Two indicators for lowering the rent](sources/two-indicators-for-lowering-the-rent.md) — Planet Money episode on corporate single-family landlords, build-to-rent supply, SRO disappearance, homelessness, and why housing restrictions can backfire when they remove cheap or new rental supply.
 - [Why is there a supplement craze if they don't even work?](sources/why-is-there-a-supplement-craze-if-they-dont-even-work.md) — Planet Money episode on supplement manufacturing, DSHEA-era regulation, structure/function claims, Prevagen, GRAS self-certification, label uncertainty, third-party testing, liver-toxicity risk, and placebo-driven demand.
 - [There's no business like dough business](sources/theres-no-business-like-dough-business.md) — Planet Money episode on Wetzel's Pretzels, impulse-product location strategy, same-franchisee clustering, foot-traffic counting, and shared-kitchen subway kiosks.
@@ -440,6 +441,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [高善文 / Gao Shanwen](entities/GaoShanwen.md) — Chinese macroeconomist framed by the episode through asset revaluation theory, balance-sheet analysis, sell-side research, and public economic expression.
+- [Peking University / 北京大学](entities/PekingUniversity.md) — Formative institution in Gao Shanwen's biography, presented as an idea-rich setting and later alumni philanthropy context.
 - [Amanda Cantrell](entities/AmandaCantrell.md) — Renter whose Murfreesboro housing search opens the episode's corporate-landlord affordability question.
 - [Stephen Billings](entities/StephenBillings.md) — Housing researcher explaining post-foreclosure corporate rental growth, small national purchase share, build-to-rent supply, and neighborhood effects.
 - [Lori Goodman](entities/LoriGoodman.md) — Housing-finance voice arguing that institutional buyers can repair worse-condition homes using capital, crews, and bulk purchasing.
@@ -2781,6 +2784,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Asset Revaluation Theory](concepts/AssetRevaluationTheory.md) — Gao Shanwen-associated macro-market framework linking credit, balance-sheet shifts, portfolio allocation, asset-price repricing, and bubble risk.
+- [Balance-Sheet Macro Analysis](concepts/BalanceSheetMacroAnalysis.md) — Method of reading macro and market outcomes through household, enterprise, government, and central-bank balance sheets.
+- [Capital Return Rate Decline](concepts/CapitalReturnRateDecline.md) — Long-cycle macro judgment that falling capital returns can pull China's interest-rate center lower and reshape investment expectations.
+- [Macro Research Public Expression](concepts/MacroResearchPublicExpression.md) — Public-speech frame where data-grounded macro research needs room for debate, falsification, and uncomfortable policy implications.
 - [Institutional Single-Family Rental](concepts/InstitutionalSingleFamilyRental.md) — Investor-backed ownership of rental houses, central to the episode's corporate-landlord scale debate.
 - [Corporate Landlord Tradeoffs](concepts/CorporateLandlordTradeoffs.md) — Mixed frame for corporate landlords raising some local concerns while adding rental supply, repair capacity, and build-to-rent housing.
 - [Build-To-Rent Housing](concepts/BuildToRentHousing.md) — New houses built specifically for rental, treated as a supply channel that broad corporate-ownership bans could chill.
