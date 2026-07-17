@@ -2,8 +2,8 @@
 title: "Business-Led AI Transformation"
 type: concept
 tags: [ai, organizations, transformation]
-sources: [tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde]
-last_updated: 2026-07-12
+sources: [tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1, e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde]
+last_updated: 2026-07-17
 ---
 
 # Business-Led AI Transformation
@@ -24,6 +24,8 @@ Business-led AI transformation is the claim that enterprise AI adoption must sta
 
 [[tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]] adds a Marketplace Tech version through [[OpenAIFrontier]]. The episode says consulting firms can help companies decide where AI coworkers fit, how governance structures should work, and what rules, policies, liability, compliance, and risk choices are needed before employees can actually use agents inside daily workflows.
 
+[[tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128]] adds a physical-business version through [[CBHHomes]]. [[RhondaConger]] describes AI moving from emails and job descriptions into sales follow-up, data analysis, and warranty support; the case reinforces that adoption starts from specific operating bottlenecks and customer handoffs rather than model access alone.
+
 ## Key Claims
 - AI implementation fails when CEOs expect unrealistic capability, when IT teams lead without business ownership, or when organizations add AI without changing incentives and role boundaries.
 - AI is compared to electricity: plugging in the technology is insufficient unless production processes, training, roles, and business forms change around the new productive force.
@@ -40,6 +42,7 @@ Business-led AI transformation is the claim that enterprise AI adoption must sta
 - E240 adds that transformation can be pushed by model companies and PE owners, but the actual bottleneck remains workflow-level: data readiness, API access, use-case sequencing, deterministic boundaries, and human review.
 - The Google Cloud Next source adds that executive commitment and security governance are central once agent adoption moves from pilots into broad deployment.
 - Marketplace Tech adds that consulting partnerships can be a commercialization tactic for model companies because enterprise AI adoption is a change-management and governance problem as much as a software purchase.
+- The CBH Homes source adds that physical-business AI transformation should be judged at the customer-lifecycle level: sales follow-up, warranty support, data analysis, and human escalation can matter more than abstract model capability.
 
 ## Connections
 - [[RollingAI]] — source company explaining the method.
@@ -55,3 +58,4 @@ Business-led AI transformation is the claim that enterprise AI adoption must sta
 - [[Cresta]], [[InvisibleTechnologies]], [[ForwardDeployedProductManager]], [[AIWorkflowTriage]], and [[PrivateEquityAITransformation]] — E240's deployment, workflow-triage, and PE-ownership extension.
 - [[CapabilityOverhang]], [[EnterpriseAgentGovernance]], [[GoogleCloud]], and [[FullStackAIPlatform]] — enterprise adoption and platform context added by the Google Cloud Next source.
 - [[OpenAIFrontier]], [[AICoworkers]], [[DigitalEmployees]], and [[EnterpriseAgentGovernance]] — Marketplace Tech's consulting-led enterprise AI coworker branch.
+- [[CBHHomes]], [[RhondaConger]], [[HomebuildingAIOperations]], [[AIWorkflowTriage]], and [[CustomerSupportAutomation]] — Marketplace Tech's physical-business AI operations case.

@@ -3396,3 +3396,11 @@ Added source page for the Marketplace Tech episode with Gaia Bernstein on state 
 ## [2026-07-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-17] ingest | A tech company that 'happens to build homes'
+
+Added source page for the Marketplace Tech episode on CBH Homes using AI in homebuilding operations. Created pages for CBH Homes, Rhonda Conger, and Homebuilding AI Operations; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Business-Led AI Transformation, AI Workflow Triage, and Customer Support Automation. No direct contradiction found; the source is kept as a company-side implementation case because it does not independently verify customer outcomes, employee effects, costs, or error rates.
+
+## [2026-07-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

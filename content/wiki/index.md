@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [A tech company that 'happens to build homes'](sources/tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128.md) — Marketplace Tech episode with Rhonda Conger on CBH Homes using AI for sales follow-up, warranty support, after-hours customer service, data analysis, and augmentation-focused homebuilding operations.
 - [Why state AGs are taking Meta to court](sources/tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128.md) — Marketplace Tech episode with Gaia Bernstein on state AG lawsuits against Meta, the Big Tobacco analogy for youth social-media harms, COPPA and disgorgement pressure, and AI companion attention risks.
 - [In it to bin it: Nigel Farage v Count Binface](sources/in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e.md) — The Intelligence episode on Farage and Count Binface in Clacton, Starlink and mixed connectivity in Nigeria, and Nolan's Odyssey adaptation.
 - [93.聊聊头发：秃了，就会变强吗？](sources/93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489.md) — 蜜獾吃书 episode using Kurt Stenn's 《头发》 to connect hair biology, follicle cycles, hair-loss treatment claims, political identity, gendered beauty norms, religion, barber history, and forensic hair evidence.
@@ -427,6 +428,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [CBH Homes](entities/CBHHomes.md) — Boise homebuilder used by Marketplace Tech as a concrete case of AI in sales follow-up, warranty support, after-hours customer service, and company operations.
+- [Rhonda Conger](entities/RhondaConger.md) — CBH Homes vice president explaining the company's "tech company that happens to build homes" AI adoption posture.
 - [Gaia Bernstein](entities/GaiaBernstein.md) — Seton Hall law professor explaining state AG litigation against Meta, the Big Tobacco analogy, damages pressure, causation disputes, and AI companion risks.
 - [Seton Hall University](entities/SetonHallUniversity.md) — University affiliation for Gaia Bernstein in the Marketplace Tech social-media litigation episode.
 - [Facebook](entities/Facebook.md) — Meta social-media platform named alongside Instagram in state AG litigation over alleged addictive design and youth harms.
@@ -2683,6 +2686,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Homebuilding AI Operations](concepts/HomebuildingAIOperations.md) — Pattern where a homebuilder applies AI to long-cycle customer follow-up, warranty support, data analysis, and workflow triage while preserving human escalation.
 - [COPPA](concepts/COPPA.md) — Children's privacy law invoked in the state AG case against Meta over alleged under-13 data collection without parental consent.
 - [State AG Platform Litigation](concepts/StateAGPlatformLitigation.md) — State attorneys general using aggregate lawsuits to pressure platform design, children's privacy, and youth-harm accountability.
 - [Big Tobacco Platform Analogy](concepts/BigTobaccoPlatformAnalogy.md) — Public-health litigation comparison linking social-media lawsuits to tobacco-style causation fights, internal evidence, and cumulative attorney-general pressure.

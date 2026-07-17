@@ -2,8 +2,8 @@
 title: "AI Workflow Triage"
 type: concept
 tags: [ai, workflow, enterprise-ai, operations]
-sources: [tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde]
-last_updated: 2026-07-12
+sources: [tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde]
+last_updated: 2026-07-17
 ---
 
 # AI Workflow Triage
@@ -14,6 +14,8 @@ AI workflow triage is the implementation discipline of decomposing a business pr
 
 [[tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128]] adds the newsroom version through [[ThePlainDealer|the Plain Dealer]]. Transcribing meetings, scanning municipal sites, summarizing letters, and reviewing court rulings are lower-risk support tasks, while the [[AIRewriteDesk]] moves into a more sensitive publication step where [[HumanJudgmentUnderAI]], [[AIContentProvenance]], and [[AIJournalismTrust]] matter more.
 
+[[tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128]] adds a homebuilder version through [[CBHHomes]]. Sales nurturing, warranty lookup, and after-hours support are AI-suitable routine flows, while ready-to-buy conversations and escalated service issues remain human-trust points.
+
 ## Key Claims
 - Good AI deployment starts with a workflow map rather than a model demo.
 - Deterministic steps such as account reconciliation or arithmetic should use hard-coded systems, math, or system-of-record data when exactness is required.
@@ -22,6 +24,7 @@ AI workflow triage is the implementation discipline of decomposing a business pr
 - The triage frame explains why enterprise AI value can be large even when only part of a workflow is automated: value comes from the redesigned system, not from forcing AI into every step.
 - In a [[FrontierModelInflectionPivot]], workflow triage can be a founder-level decision tool rather than only an implementation method.
 - Newsroom triage should distinguish evidence-gathering and signal-finding from published writing, because the latter carries authorship, trust, and public accountability.
+- Homebuilding triage separates routine sales and warranty communication from high-trust buyer conversations, urgent customer issues, and escalation ownership.
 
 ## Connections
 - [[InvisibleTechnologies]] and [[Oliver]] — source company and speaker.
@@ -30,3 +33,4 @@ AI workflow triage is the implementation discipline of decomposing a business pr
 - [[AgenticWorkflow]], [[DeterministicAuditData]], and [[AICodingVerification]] — adjacent workflow, evidence, and verification themes.
 - [[Casetext]], [[CoCounsel|Co-Counsel]], [[VerticalWorkflowAI]], and [[FrontierModelInflectionPivot]] - legal AI product-strategy case.
 - [[NewsroomAIAdoption]], [[AIRewriteDesk]], [[AIWrittenJournalism]], [[ThePlainDealer]], and [[AIJournalismTrust]] - newsroom workflow-boundary case.
+- [[CBHHomes]], [[RhondaConger]], [[HomebuildingAIOperations]], and [[CustomerSupportAutomation]] - homebuilding workflow-boundary case.

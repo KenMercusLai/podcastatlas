@@ -2731,6 +2731,10 @@
     "title": "CATL / 宁德时代",
     "url": "/wiki/entities/catl/"
   },
+  "CBHHomes": {
+    "title": "CBH Homes",
+    "url": "/wiki/entities/cbhhomes/"
+  },
   "CNOOC": {
     "title": "CNOOC / 中国海油",
     "url": "/wiki/entities/cnooc/"
@@ -7094,6 +7098,10 @@
   "HomeServiceRobots": {
     "title": "Home Service Robots",
     "url": "/wiki/concepts/homeservicerobots/"
+  },
+  "HomebuildingAIOperations": {
+    "title": "Homebuilding AI Operations",
+    "url": "/wiki/concepts/homebuildingaioperations/"
   },
   "Homejoy": {
     "title": "Homejoy",
@@ -12539,6 +12547,10 @@
     "title": "Reza Pahlavi",
     "url": "/wiki/entities/rezapahlavi/"
   },
+  "RhondaConger": {
+    "title": "Rhonda Conger",
+    "url": "/wiki/entities/rhondaconger/"
+  },
   "RichAberman": {
     "title": "Rich Aberman",
     "url": "/wiki/entities/richaberman/"
@@ -17302,6 +17314,10 @@
   "tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128": {
     "title": "Dr. AI will see you now",
     "url": "/wiki/sources/tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128/"
+  },
+  "tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128": {
+    "title": "A tech company that 'happens to build homes'",
+    "url": "/wiki/sources/tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128/"
   },
   "tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128": {
     "title": "Making the most of AI, without the hype",
