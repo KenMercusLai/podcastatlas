@@ -2,8 +2,8 @@
 title: "American Democratic Resilience"
 type: concept
 tags: [politics, democracy, institutions]
-sources: [173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c, trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7, trailer-tocqueville-road-trip-6a315920101389aa3d42d134, trailer-tocqueville-road-trip-6a315813780d0f7579afb892, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
-last_updated: 2026-07-15
+sources: [173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c, trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7, trailer-tocqueville-road-trip-6a315920101389aa3d42d134, trailer-tocqueville-road-trip-6a315813780d0f7579afb892, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, jerome-powell-and-the-test-of-fed-independence]
+last_updated: 2026-07-18
 ---
 
 # American Democratic Resilience
@@ -24,6 +24,8 @@ The concept is deliberately mixed. Resilience does not mean the system is health
 
 [[173-tanhe-ruhe-bamian-yiwei-zongtong-963141809]] adds a constitutional-remedy version of resilience. It argues that [[PresidentialImpeachment]], the [[TwentyFifthAmendment]], and [[SeparationOfPowers]] matter because democratic systems need ways to correct presidential abuse or incapacity without collapsing ordinary government into constant partisan removal.
 
+[[jerome-powell-and-the-test-of-fed-independence]] adds a central-bank version of resilience. The source treats [[CentralBankIndependence]] as one of the institutional guardrails that must withstand presidential pressure, court interpretation, congressional choices, and public trust during conflict over [[FederalReserve]] policy.
+
 ## Key Claims
 - Democratic resilience is tested by both formal rules and informal norms.
 - Historical comparison can be part of resilience analysis: if Tocqueville's America has become unrecognizable, that is itself evidence of civic change.
@@ -36,6 +38,7 @@ The concept is deliberately mixed. Resilience does not mean the system is health
 - Presidential memorial culture adds a symbolic resilience test: a republic needs memory institutions without encouraging presidents to see themselves as rulers.
 - Trump 2.0 preparation adds an organizational resilience test: institutions face not only charismatic pressure but also prebuilt policy and staffing systems.
 - Impeachment and the 25th Amendment add a repair-capacity test: institutions must remove or bypass a failed president only under standards strong enough to avoid routine factional use.
+- Fed independence adds a technocratic-governance test: the system has to preserve monetary-policy legitimacy without making central bankers unaccountable or removable at presidential convenience.
 
 ## Connections
 - [[UnitedStates]], [[SupremeCourt]], [[RobertGuest]], [[DanielKnowles]], and [[RebeccaJackson]] - source actors and institutional frame.
@@ -48,3 +51,4 @@ The concept is deliberately mixed. Resilience does not mean the system is health
 - [[DemocraticTransitionElection]], [[ElectoralMandate]], and [[PublicServiceJournalism]] - adjacent democracy concepts already in the wiki.
 - [[Project2025]], [[TrumpismInstitutionalization]], [[NewRightPolicyNetwork]], and [[AdministrativeStateDismantling]] - preparation-capacity branch added by Qizhulou Yan Binke.
 - [[PresidentialImpeachment]], [[TwentyFifthAmendment]], [[SeparationOfPowers]], and [[ConstitutionalRobustness]] - constitutional-remedy branch added by 蜜獾吃书.
+- [[FederalReserve]], [[JeromePowell]], [[SupremeCourt]], [[UnitedStatesCongress]], [[CentralBankIndependence]], and [[ForCauseRemovalStandard]] - central-bank guardrail branch added by Planet Money.

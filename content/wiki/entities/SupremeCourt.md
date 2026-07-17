@@ -2,8 +2,8 @@
 title: "Supreme Court"
 type: entity
 tags: [institution, law, politics]
-sources: [173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad]
-last_updated: 2026-07-15
+sources: [173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, jerome-powell-and-the-test-of-fed-independence]
+last_updated: 2026-07-18
 ---
 
 # Supreme Court
@@ -14,9 +14,12 @@ The source's main contribution is not a doctrinal account of specific cases, but
 
 [[173-tanhe-ruhe-bamian-yiwei-zongtong-963141809]] adds the Court's impeachment-procedure role. In presidential impeachment trials, the Chief Justice presides in the Senate, which keeps [[PresidentialImpeachment]] from being framed as a purely legislative confidence vote even though conviction remains a Senate decision.
 
+[[jerome-powell-and-the-test-of-fed-independence]] adds a [[FederalReserve]] removal-law case. The source says [[LisaCook]]'s attempted firing was before the Supreme Court and treats the result as potentially decisive for whether presidents can effectively remove Fed governors at will.
+
 ## Connections
 - [[UnitedStates]] - country and constitutional system in the source.
 - [[AmericanDemocraticResilience]] - optimistic reading of institutional guardrails.
 - [[ExecutivePowerPrecedent]] - risk that court-sanctioned presidential power persists.
 - [[DonaldTrump]], [[RobertGuest]], and [[DanielKnowles]] - political figure and commentators in the episode's guardrail debate.
 - [[PresidentialImpeachment]], [[SeparationOfPowers]], and [[UnitedStatesConstitution]] - impeachment-procedure branch added by 蜜獾吃书.
+- [[FederalReserve]], [[LisaCook]], [[ForCauseRemovalStandard]], [[CentralBankIndependence]], and [[ExecutivePowerPrecedent]] - Fed-removal branch added by Planet Money.

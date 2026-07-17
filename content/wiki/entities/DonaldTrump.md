@@ -2,8 +2,8 @@
 title: "Donald Trump"
 type: entity
 tags: [person, politics, macro, investing, sports]
-sources: [vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, how-much-money-president-trump-and-his-family-have-made, iran-protests-and-sanctions, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
-last_updated: 2026-07-17
+sources: [vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, how-much-money-president-trump-and-his-family-have-made, iran-protests-and-sanctions, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, jerome-powell-and-the-test-of-fed-independence]
+last_updated: 2026-07-18
 ---
 
 # Donald Trump
@@ -46,6 +46,8 @@ Donald Trump appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-
 
 [[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] adds Trump as the political counterparty in the [[LarryEllison]] / [[DavidEllison]] story. The [[ShangyeJiushiZheyang]] episode says Ellison-linked donations, relationship maintenance, [[StargateAIInfrastructure]], [[USTikTok|U.S. TikTok]], and [[Paramount]] / [[WarnerBrosDiscovery]] approvals together illustrate [[PoliticalRegulatoryLeverage]]: legally structured political access can become business value without a directly proven quid pro quo.
 
+[[jerome-powell-and-the-test-of-fed-independence]] adds Trump as the president whose pressure on [[JeromePowell]] and the [[FederalReserve]] becomes a central-bank independence test. The source moves Trump from market-policy shock into institutional-pressure actor through public demands for lower rates, a DOJ investigation described by Powell as tied to rate independence, the [[KevinWarsh]] succession, and [[LisaCook]]'s attempted removal.
+
 ## Source Position
 - The source treats Trump less as a biography subject and more as a market-policy variable.
 - [[LaoMai]] argues that this term differs from Trump's earlier term because the inherited environment includes higher debt, inflation pressure, and stretched equity valuation.
@@ -70,6 +72,7 @@ Donald Trump appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-
 - The Qizhulou Yan Binke source treats Trump as the object of [[TrumpismInstitutionalization]]: organizations, transition documents, personnel pipelines, and policy packages make the second-term agenda more prepared than the 2016 outsider campaign.
 - The impeachment source treats Trump as the contemporary stress case for [[PresidentialImpeachment]], where constitutional-remedy logic collides with party incentives and attention politics.
 - The 商业就是这样 Ellison source treats Trump as an approval, procurement, and platform-governance access point for technology wealth moving into AI infrastructure and media ownership.
+- The Planet Money Fed-independence source treats Trump as the political pressure actor testing whether the Fed can set rates, keep board members, and confirm successors without becoming an extension of presidential preference.
 
 ## Connections
 - [[FederalReserve]] and [[JeromePowell]] — policy actors whose communication and rate path are framed as interacting with Trump-era fiscal and tariff pressure.
@@ -94,3 +97,4 @@ Donald Trump appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-
 - [[Project2025]], [[HeritageFoundation]], [[AmericaFirstPolicyInstitute]], [[ConservativePartnershipInstitute]], [[AdministrativeStateDismantling]], [[MeritBasedImmigrationFilter]], and [[TradeReciprocityProtectionism]] — policy-network and governing-agenda branch added by Qizhulou Yan Binke.
 - [[PresidentialImpeachment]], [[HighCrimesAndMisdemeanors]], [[TwentyFifthAmendment]], and [[ConstitutionalRobustness]] — constitutional-remedy branch added by 蜜獾吃书.
 - [[LarryEllison]], [[DavidEllison]], [[Oracle]], [[StargateAIInfrastructure]], [[USTikTok|U.S. TikTok]], [[PoliticalRegulatoryLeverage]], and [[MediaOwnershipIndependenceRisk]] - technology, media, and approval-access branch added by 商业就是这样.
+- [[JeromePowell]], [[FederalReserve]], [[LaelBrainard]], [[KevinWarsh]], [[LisaCook]], [[StephenMoran]], [[CentralBankIndependence]], [[InflationBias]], and [[ForCauseRemovalStandard]] - Fed-independence branch added by Planet Money.

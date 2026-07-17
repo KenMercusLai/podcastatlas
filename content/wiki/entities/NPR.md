@@ -2,7 +2,7 @@
 title: "NPR"
 type: entity
 tags: [media, public-media, journalism]
-sources: [the-secret-meeting-that-launched-opec, diary-of-a-wnba-negotiator, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
+sources: [the-secret-meeting-that-launched-opec, diary-of-a-wnba-negotiator, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down, jerome-powell-and-the-test-of-fed-independence]
 last_updated: 2026-07-18
 ---
 
@@ -36,6 +36,8 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 
 [[the-secret-meeting-that-launched-opec]] adds a [[PlanetMoney]] episode on [[OPEC]] and oil prices. It extends NPR's economics-reporting branch into [[OilProducerSupplyCoordination]], [[ProductionQuotaDiscipline]], [[SwingProducerRole]], [[GreenParadox]], and the way [[StraitOfHormuz]] shipping risk can block simple gas-price conclusions.
 
+[[jerome-powell-and-the-test-of-fed-independence]] adds a [[PlanetMoney]] episode on [[FederalReserve]] independence. It extends NPR's economics-reporting branch into central-bank governance, [[InflationBias]], presidential pressure, Fed board removal law, and the institutional difference between dissent and political capture.
+
 ## Connections
 - [[KatherineMaher]] — NPR CEO and speaker in the appeal.
 - [[PublicMediaFunding]] — central issue in the source.
@@ -54,3 +56,4 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 - [[China]], [[EngineeringState]], [[InfrastructureMalinvestment]], [[ChinaRealEstateDebtCycle]], and [[BuildBuildRegulate]] - China development branch added through Planet Money Summer School.
 - [[WNBA]], [[WNBAPlayersAssociation]], [[AliciaClark]], [[BriannaTurner]], [[DataBackedLaborBargaining]], and [[StrikeThreatAsBATNA]] - sports-labor bargaining branch added through Planet Money.
 - [[OPEC]], [[SevenSistersOilMajors]], [[SaudiArabia]], [[UnitedArabEmirates]], [[OilProducerSupplyCoordination]], and [[GreenParadox]] - oil-market coordination branch added through Planet Money.
+- [[FederalReserve]], [[JeromePowell]], [[DonaldTrump]], [[LaelBrainard]], [[CentralBankIndependence]], [[InflationBias]], and [[ForCauseRemovalStandard]] - Fed-independence branch added through Planet Money.

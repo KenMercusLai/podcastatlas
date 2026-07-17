@@ -3633,7 +3633,6 @@ Added source page for the 蜜獾吃书 episode on Euripides' 《美狄亚》, Gr
 
 Ran lint. See lint-report.md for details.
 
-
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -3746,6 +3745,14 @@ Added source page for the 蜜獾吃书 episode on 青柳碧人《很久很久以
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-18] ingest | Jerome Powell and the Test of Fed Independence
+
+Added source page for the Planet Money episode on Jerome Powell, Federal Reserve independence, Trump pressure, William McChesney Martin, Arthur Burns, inflation bias, Lael Brainard's inside-Fed perspective, Fed board removal law, Kevin Warsh succession, Lisa Cook's removal case, and dissent inside the central bank. Created pages for Lael Brainard, William McChesney Martin, Arthur Burns, Burton Abrams, Kevin Warsh, Lisa Cook, Stephen Moran, United States Congress, Inflation Bias, and For-Cause Removal Standard; updated overview, index, NPR, Planet Money, Jerome Powell, Federal Reserve, Donald Trump, Lyndon B. Johnson, Richard Nixon, Supreme Court, Central Bank Independence, Executive Power Precedent, and American Democratic Resilience. No direct contradiction found; the source extends the existing Fed branch from market timing and Greenspan/Project 2025 institutional critique into a direct Powell-era pressure, legal-removal, and governance-resilience test.
 
 ## [2026-07-18] lint | Wiki health check
 

@@ -2071,6 +2071,10 @@
     "title": "Artemis Accords",
     "url": "/wiki/entities/artemisaccords/"
   },
+  "ArthurBurns": {
+    "title": "Arthur Burns",
+    "url": "/wiki/entities/arthurburns/"
+  },
   "ArthurConanDoyle": {
     "title": "Arthur Conan Doyle / 柯南道尔",
     "url": "/wiki/entities/arthurconandoyle/"
@@ -2974,6 +2978,10 @@
   "BureaucraticRiskAvoidance": {
     "title": "Bureaucratic Risk Avoidance",
     "url": "/wiki/concepts/bureaucraticriskavoidance/"
+  },
+  "BurtonAbrams": {
+    "title": "Burton Abrams",
+    "url": "/wiki/entities/burtonabrams/"
   },
   "BusinessFluentDesign": {
     "title": "Business Fluent Design",
@@ -6419,6 +6427,10 @@
     "title": "Football Transfer Receivables Finance",
     "url": "/wiki/concepts/footballtransferreceivablesfinance/"
   },
+  "ForCauseRemovalStandard": {
+    "title": "For-Cause Removal Standard",
+    "url": "/wiki/concepts/forcauseremovalstandard/"
+  },
   "ForagingEthics": {
     "title": "Foraging Ethics",
     "url": "/wiki/concepts/foragingethics/"
@@ -8327,6 +8339,10 @@
     "title": "Inferiority-Superiority Dynamic",
     "url": "/wiki/concepts/inferioritysuperioritydynamic/"
   },
+  "InflationBias": {
+    "title": "Inflation Bias",
+    "url": "/wiki/concepts/inflationbias/"
+  },
   "Infogami": {
     "title": "Infogami",
     "url": "/wiki/entities/infogami/"
@@ -9371,6 +9387,10 @@
     "title": "Kevin Kelly",
     "url": "/wiki/entities/kevinkelly/"
   },
+  "KevinWarsh": {
+    "title": "Kevin Warsh",
+    "url": "/wiki/entities/kevinwarsh/"
+  },
   "Kickstarter": {
     "title": "Kickstarter",
     "url": "/wiki/entities/kickstarter/"
@@ -9550,6 +9570,10 @@
   "Labubu": {
     "title": "Labubu",
     "url": "/wiki/entities/labubu/"
+  },
+  "LaelBrainard": {
+    "title": "Lael Brainard",
+    "url": "/wiki/entities/laelbrainard/"
   },
   "LaiXinlu": {
     "title": "Lai Xinlu",
@@ -9978,6 +10002,10 @@
   "LionelMessi": {
     "title": "Lionel Messi",
     "url": "/wiki/entities/lionelmessi/"
+  },
+  "LisaCook": {
+    "title": "Lisa Cook",
+    "url": "/wiki/entities/lisacook/"
   },
   "LisaKSolomon": {
     "title": "Lisa K. Solomon",
@@ -15455,6 +15483,10 @@
     "title": "Stephen Billings",
     "url": "/wiki/entities/stephenbillings/"
   },
+  "StephenMoran": {
+    "title": "Stephen Moran",
+    "url": "/wiki/entities/stephenmoran/"
+  },
   "StephenStarr": {
     "title": "Stephen Starr",
     "url": "/wiki/entities/stephenstarr/"
@@ -16807,6 +16839,10 @@
     "title": "United States",
     "url": "/wiki/entities/unitedstates/"
   },
+  "UnitedStatesCongress": {
+    "title": "United States Congress",
+    "url": "/wiki/entities/unitedstatescongress/"
+  },
   "UnitedStatesConstitution": {
     "title": "United States Constitution",
     "url": "/wiki/entities/unitedstatesconstitution/"
@@ -17434,6 +17470,10 @@
   "WilliamDeresiewicz": {
     "title": "William Deresiewicz",
     "url": "/wiki/entities/williamderesiewicz/"
+  },
+  "WilliamMcChesneyMartin": {
+    "title": "William McChesney Martin",
+    "url": "/wiki/entities/williammcchesneymartin/"
   },
   "WilliamMcKinley": {
     "title": "William McKinley",
@@ -18890,6 +18930,10 @@
   "its-my-tree-why-cant-i-cut-it-down": {
     "title": "It's my tree. Why can't I cut it down?",
     "url": "/wiki/sources/its-my-tree-why-cant-i-cut-it-down/"
+  },
+  "jerome-powell-and-the-test-of-fed-independence": {
+    "title": "Jerome Powell and the Test of Fed Independence",
+    "url": "/wiki/sources/jerome-powell-and-the-test-of-fed-independence/"
   },
   "jiaqi-moyu-geng-jiankang-574391976": {
     "title": "假期摸鱼更健康",

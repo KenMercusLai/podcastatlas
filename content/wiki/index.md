@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Jerome Powell and the Test of Fed Independence](sources/jerome-powell-and-the-test-of-fed-independence.md) — Planet Money episode on Jerome Powell, Trump pressure, Martin/Burns Fed history, Lael Brainard, inflation bias, Fed board removal law, and central-bank independence.
 - [The secret meeting that launched OPEC](sources/the-secret-meeting-that-launched-opec.md) — Planet Money episode on OPEC's origin against the Seven Sisters, the 1973 oil shock, Saudi swing production, quota cheating, UAE exit pressure, and why Hormuz disruption limits near-term gasoline relief.
 - [99.很久很久以前，妖怪也推理啊…](sources/99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220.md) — 蜜獾吃书 episode on 青柳碧人, 《很久很久以前，在某个地方有一具尸体》, 设定系推理, 本格推理, Japanese folk-tale rewriting, 一寸法师, and 猿蟹合战.
 - [98.自卑与超越：向前看，前方有希望](sources/98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507.md) — 蜜獾吃书 episode on Alfred Adler, 《自卑与超越》, individual psychology, inferiority and superiority, purpose theory, community feeling, education, courage, and life meaning.
@@ -2308,9 +2309,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dark Matter Labs](entities/DarkMatterLabs.md) — Organization associated with Johar's institutional-design work on governance, finance, and systems change.
 - [Long Now](entities/LongNow.md) — Long-term-thinking organization hosting talks on AI materiality, civilizational optioneering, informed optimism, ocean memory, institutional design, and neural geometry.
 - [James Lovelock](entities/JamesLovelock.md) — Thinker referenced through Novacene to anchor the source's planetary self-awareness frame.
-- [NPR](entities/NPR.md) — Public media organization connected to the wiki through a funding appeal and Planet Money reporting on tree-law, Iran-sanctions, Fast 16 cybersecurity, and subprime auto repossession episodes.
+- [NPR](entities/NPR.md) — Public media organization connected to the wiki through a funding appeal and Planet Money reporting on tree-law, Iran-sanctions, Fast 16 cybersecurity, subprime auto repossession, and Fed independence episodes.
 - [Katherine Maher](entities/KatherineMaher.md) — NPR CEO voicing the appeal and linking public-media funding to local reporting, rural access, and donations.
-- [Planet Money](entities/PlanetMoney.md) — NPR economics podcast feed now covering public-media funding, tree ordinances, Iran sanctions, Fast 16 cyber sabotage, political profit accounting, and subprime auto repossession.
+- [Planet Money](entities/PlanetMoney.md) — NPR economics podcast feed now covering public-media funding, tree ordinances, Iran sanctions, Fast 16 cyber sabotage, political profit accounting, subprime auto repossession, and Fed independence.
 - [1A](entities/1A.md) — WAMU/NPR public-affairs podcast promoted through the If You Can Keep It political series.
 - [WAMU](entities/WAMU.md) — Public-radio organization named with NPR in the 1A promo.
 - [Jen White](entities/JenWhite.md) — 1A host voice promoting If You Can Keep It.
@@ -2764,7 +2765,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [DeepSeek](entities/DeepSeek.md) — Chinese open-source model effort cited through Qwen comparison, pricing substitution, market repricing, cost-control, export-control context, and Luo Fuli's earlier background.
 - [Deerflow](entities/Deerflow.md) — Open-source deep-research and desktop-workflow project discussed through AI coding, Chinese models, community governance, and multimodal work.
 - [Devin](entities/Devin.md) — Cognition coding-agent product discussed through the Windsurf acquisition context.
-- [Donald Trump](entities/DonaldTrump.md) — U.S. political figure used as a market-policy variable, political-influence monetization case, NATO alliance shock, Colombia security-politics endorser, Donroe Doctrine investment catalyst, Apple counterparty, and executive-power precedent test.
+- [Donald Trump](entities/DonaldTrump.md) — U.S. political figure used as a market-policy variable, political-influence monetization case, NATO alliance shock, Colombia security-politics endorser, Donroe Doctrine investment catalyst, Apple counterparty, executive-power precedent test, and Fed-independence pressure actor.
 - [Doubao](entities/Doubao.md) — ByteDance AI assistant and model context used for Chinese consumer AI subscriptions, voice fit, and Doubao Seed's AI-for-math signal.
 - [EOS Worldwide](entities/EOSWorldwide.md) — Methodology and coaching organization behind the EOS ecosystem that shaped Ninety's early product and channel.
 - [EarthKit](entities/EarthKit.md) — Jie Dechen's multimodal project for inferring photo locations, mentioned as background before Paperboy.
@@ -2773,7 +2774,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ericsson](entities/Ericsson.md) — Telecom equipment and handset company discussed through early China networks, GSM infrastructure, supply-chain response, and Sony Ericsson.
 - [Eric Ries](entities/EricRies.md) — Lean Startup author and Incorruptible author discussing validated learning, AI-era product economics, financial gravity, and founder governance.
 - [European Union](entities/EuropeanUnion.md) — European political and market context for Brexit, language fragmentation, AI translation, regulation, startup constraints, and market-access friction.
-- [Federal Reserve](entities/FederalReserve.md) — U.S. central bank discussed through rate-cut expectations, policy lag, yield-curve inversion, and market interpretation of easing.
+- [Federal Reserve](entities/FederalReserve.md) — U.S. central bank discussed through rate-cut expectations, policy lag, yield-curve inversion, market interpretation of easing, Greenspan reputation, Project 2025 critique, and Powell-era independence pressure.
+- [Lael Brainard](entities/LaelBrainard.md) — Former Fed governor and Powell vice chair used by Planet Money to explain how the Fed defended its mandate under Trump pressure.
+- [William McChesney Martin](entities/WilliamMcChesneyMartin.md) — Fed chair used as the positive historical precedent for resisting presidential pressure from Lyndon B. Johnson.
+- [Arthur Burns](entities/ArthurBurns.md) — Fed chair used as the negative Nixon-era cautionary tale about presidential pressure, rate cuts, and inflationary outcomes.
+- [Burton Abrams](entities/BurtonAbrams.md) — Economist comparing Powell with Martin and Burns while explaining inflation bias and central-bank independence.
+- [Kevin Warsh](entities/KevinWarsh.md) — Incoming Trump-nominated Fed chair in the source, used as the next leadership test for Fed independence.
+- [Lisa Cook](entities/LisaCook.md) — Fed board member whose attempted removal becomes the source's case for the undefined "for cause" standard.
+- [Stephen Moran](entities/StephenMoran.md) — Trump-nominated Fed official whose dissents are used to distinguish policy disagreement from political capture.
+- [United States Congress](entities/UnitedStatesCongress.md) — Legislative guardrail in the Powell episode, tied to Fed mandate, chair confirmation, and possible clarification of for-cause removal.
 - [FocusFly / 专注飞机](entities/FocusFly.md) — Una's focus-timer app using a flight metaphor and serving as EP102's ASO case.
 - [Forward Consumer Partners](entities/ForwardConsumerPartners.md) — Investment group that acquired a controlling stake in Justin's Nut Butter and brought Justin Gold back as owner, founder, and board member.
 - [枫言枫语](entities/FengyanFengyu.md) — Podcast/show context for the OpenClaw and self-built personal-agent episode.
@@ -2801,7 +2810,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [iPhone](entities/IPhone.md) — Apple smartphone product that reset handset competition around touch UI, app ecosystems, and platform coherence.
 - [J.P. Morgan](entities/JPMorgan.md) — Financier referenced in the 1907 panic segment as a stabilizing actor who asked Livermore to stop shorting.
 - [Janet Yellen](entities/JanetYellen.md) — U.S. fiscal-policy figure discussed through short-term Treasury issuance and long-bond funding-cost timing.
-- [Jerome Powell](entities/JeromePowell.md) — Federal Reserve chair referenced in EP57 through communication, labor-data, and policy-volatility timing.
+- [Jerome Powell](entities/JeromePowell.md) — Federal Reserve chair referenced through market communication and later made Planet Money's central case for Fed independence under presidential pressure.
 - [Jensen Huang](entities/JensenHuang.md) — Nvidia founder/CEO referenced through insider selling as one input in AI equity valuation risk.
 - [Jiang Yang](entities/JiangYang.md) — Paperboy founder arguing that human-agent collaboration needs OS-level context, persistent memory, and new interface forms.
 - [Jie Dechen](entities/JieDechen.md) — Paperboy founding engineer explaining OS-level memory, autocomplete, PR descriptions, and agent-tool competition.
@@ -4064,7 +4073,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Russian Elite Discontent](concepts/RussianEliteDiscontent.md) — Insider-pressure pattern where sanctioned or threatened Russian elites treat the Ukraine war as a survival and state-direction problem.
 - [Authoritarian War Exit Dilemma](concepts/AuthoritarianWarExitDilemma.md) — Trap where a ruler who started a costly war must choose between escalation and repression or a scaled-back exit that risks looking like defeat.
 - [Index Fund Automatic Exposure](concepts/IndexFundAutomaticExposure.md) — Risk pattern where benchmark inclusion forces passive funds and pensions to hold a company regardless of savers' direct valuation judgment.
-- [Central Bank Independence](concepts/CentralBankIndependence.md) — Monetary-governance principle that central-bank policy should resist short-term political pressure while still being judged by later outcomes.
+- [Central Bank Independence](concepts/CentralBankIndependence.md) — Monetary-governance principle that central-bank policy should resist short-term political pressure while still being judged by later outcomes, removal rules, and dissent.
+- [Inflation Bias](concepts/InflationBias.md) — Monetary-policy problem where governments pressure central banks toward short-term stimulus and later inflation costs.
+- [For-Cause Removal Standard](concepts/ForCauseRemovalStandard.md) — Legal boundary around when a president may remove a Fed board member, central to the Lisa Cook case in the Powell source.
 - [Iran Postwar Economic Relief](concepts/IranPostwarEconomicRelief.md) — Economic package around blockade relief, sanctions relief, asset unfreezing, and a proposed reconstruction fund after the U.S.-Iran memorandum.
 - [Presidential Memorial Culture](concepts/PresidentialMemorialCulture.md) — Presidential museums, libraries, and centers as memory institutions that can preserve civic history while giving presidents quasi-imperial aura.
 - [AI Backlash Politics](concepts/AIBacklashPolitics.md) — Electoral and regulatory politics formed by public anxiety about AI jobs, children, mental health, data centers, tech power, and speed of change.
@@ -4164,8 +4175,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Game Preservation](concepts/GamePreservation.md) — Keeping games playable, studyable, and culturally available as platforms, stores, servers, and rights change.
 - [Post Ownership](concepts/PostOwnership.md) — Experiential ownership formed through deep play, memory, interpretation, writing, mods, and community traces.
 - [Bubble Necessary Conditions](concepts/BubbleNecessaryConditions.md) — Zhu Ning's four warning ingredients for bubbles: new technology or concept, loose liquidity, policy support, and inexperienced investors.
-- [American Democratic Resilience](concepts/AmericanDemocraticResilience.md) — Question of whether U.S. institutions, elections, civic culture, historical memory, and civil society can survive polarization and executive pressure.
-- [Executive Power Precedent](concepts/ExecutivePowerPrecedent.md) — Risk that temporary presidential power claims become durable legal tools for later administrations.
+- [American Democratic Resilience](concepts/AmericanDemocraticResilience.md) — Question of whether U.S. institutions, elections, civic culture, central-bank guardrails, historical memory, and civil society can survive polarization and executive pressure.
+- [Executive Power Precedent](concepts/ExecutivePowerPrecedent.md) — Risk that temporary presidential power claims, including independent-agency removal claims, become durable legal tools for later administrations.
 - [Presidential System](concepts/PresidentialSystem.md) — Executive-government design where a separately elected president gains stability and energy but requires exceptional correction mechanisms.
 - [Parliamentary System](concepts/ParliamentarySystem.md) — Government design where cabinets depend on legislative confidence, clarifying what U.S. impeachment is not.
 - [Separation Of Powers](concepts/SeparationOfPowers.md) — U.S. constitutional structure that makes impeachment a cross-branch emergency check rather than ordinary legislative removal.
