@@ -3597,6 +3597,10 @@ Ran health and lint. Health scanned 4,708 pages and passed with no empty/stub fi
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-18] ingest | 95.都市传说：猎奇故事和我们内心深处的焦虑
+
+Added source page for the 蜜獾吃书 episode on urban legends, FOAF transmission, folklore motifs, child-safety fears, technology anxiety, campus and hospital legends, body and food fears, brand rumors, conspiracy explanations, Roswell, The X-Files, and internet-era demystification. Created pages for Urban Legend, Richard Dorson, Charles Fort, and Jan Harold Brunvand; updated overview, index, 蜜獾吃书, Story Motif Transmission, Legend As Social History, Evidence-Bound Folklore Inquiry, Folklore Trauma Encoding, Conspiracy Theory Pattern Seeking, UFO Conspiracy Culture, Roswell Incident, The X-Files, Coca-Cola, Stanford University, Starlink, and Richard Dawkins. No direct contradiction found; source-specific guesses about misogyny, homophobia, body anxiety, and rumor psychology were kept as interpretive claims rather than factual adjudications.
+
 ## [2026-07-18] ingest | 90.酉阳杂俎：血滴子和武则天手指上的黑毛
 
 Added source page for the 蜜獾吃书 episode on 段成式《酉阳杂俎》, with emphasis on Tang miscellany as archive, strange miniatures, 《叶限》 and Cinderella-like motif transmission, Buddhist hells, Daoist practices, heavenly and underworld bureaucracy, imperial rumor, elite cruelty, and natural wonder. Created pages for 《酉阳杂俎》 / Youyang Zazu, 段成式 / Duan Chengshi, 《叶限》 / Ye Xian, 武则天 / Wu Zetian, and Tang Miscellany Archive Value; updated overview, index, 蜜獾吃书, Tang Chuanqi, Story Motif Transmission, Chinese Folk Religion Layering, Underworld Bureaucracy, Classic Reading Complexity, Non-Instrumental Literary Reading, Mythic Source Layering, Interpretation And Overinterpretation, 东岳大帝, and 李德裕. No direct contradiction found; speculative motif comparisons such as Cinderella routes and Ainu links were kept source-scoped rather than treated as proven descent.
@@ -3693,3 +3697,7 @@ Ran lint after health passed. Health found no empty/stub files, index drift, or 
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 4,867 pages. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-18 with 4,694 nodes and 46,331 edges while the wiki scan found 4,867 pages; they found no hub stubs, one fragile bridge (`entities/WangYong` -> `concepts/AIPlusTerminals`), and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.

@@ -499,6 +499,10 @@
     "title": "94.吉卜力的天才们：我的人生，交给热爱和友谊",
     "url": "/wiki/sources/94-jibuli-de-tiancaimen-wo-de-rensheng-jiaogei-reai-he-youyi-722350232/"
   },
+  "95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611": {
+    "title": "95.都市传说：猎奇故事和我们内心深处的焦虑",
+    "url": "/wiki/sources/95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611/"
+  },
   "A7A5": {
     "title": "A7A5",
     "url": "/wiki/entities/a7a5/"
@@ -3342,6 +3346,10 @@
   "CharlesDarwin": {
     "title": "Charles Darwin / 查尔斯·达尔文",
     "url": "/wiki/entities/charlesdarwin/"
+  },
+  "CharlesFort": {
+    "title": "Charles Fort / 查尔斯·霍伊·福特",
+    "url": "/wiki/entities/charlesfort/"
   },
   "CharlesHenderson": {
     "title": "Charles Henderson",
@@ -8603,6 +8611,10 @@
     "title": "Jamie Siminoff",
     "url": "/wiki/entities/jamiesiminoff/"
   },
+  "JanHaroldBrunvand": {
+    "title": "Jan Harold Brunvand",
+    "url": "/wiki/entities/janharoldbrunvand/"
+  },
   "JaneBlack": {
     "title": "Jane Black",
     "url": "/wiki/entities/janeblack/"
@@ -13679,6 +13691,10 @@
     "title": "Richard Dawkins / 理查德·道金斯",
     "url": "/wiki/entities/richarddawkins/"
   },
+  "RichardDorson": {
+    "title": "Richard Dorson / 理查德·多尔森",
+    "url": "/wiki/entities/richarddorson/"
+  },
   "RichardIII": {
     "title": "Richard III / 理查三世",
     "url": "/wiki/entities/richardiii/"
@@ -16622,6 +16638,10 @@
   "UrbanEcology": {
     "title": "Urban Ecology",
     "url": "/wiki/concepts/urbanecology/"
+  },
+  "UrbanLegend": {
+    "title": "Urban Legend / 都市传说",
+    "url": "/wiki/concepts/urbanlegend/"
   },
   "UserPoweredContentPlatform": {
     "title": "User-Powered Content Platform",

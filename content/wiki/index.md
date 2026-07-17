@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [95.都市传说：猎奇故事和我们内心深处的焦虑](sources/95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611.md) — 蜜獾吃书 episode on urban legends as contemporary folklore, FOAF transmission, story motifs, social anxiety, brand rumors, conspiracy thinking, Roswell, UFO culture, and internet-era demystification.
 - [94.吉卜力的天才们：我的人生，交给热爱和友谊](sources/94-jibuli-de-tiancaimen-wo-de-rensheng-jiaogei-reai-he-youyi-722350232.md) — 蜜獾吃书 episode on Studio Ghibli, Miyazaki, Takahata, Toshio Suzuki, producer mediation, animation-studio ecology, and the production histories behind major Ghibli films.
 - [92.柏拉图上班记：用哲学搞笑职场](sources/92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350.md) — 蜜獾吃书 episode on 《柏拉图上班记》, philosophy as workplace satire, labor morality, open-office surveillance, capital-as-boss, managed freedom, and philosophers recast as company roles.
 - [91.猎巫：塞勒姆1692，从癔症开始](sources/91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018.md) — 蜜獾吃书 episode on Stacy Schiff's 《猎巫：塞勒姆1692》, the Salem witch trials, spectral evidence, coerced accusation, Puritan community fear, witch-hunt mechanisms, and modern internet moral trial.
@@ -461,6 +462,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Richard Dorson / 理查德·多尔森](entities/RichardDorson.md) — Folklorist used by episode 95 to frame urban legends as contemporary anonymous belief stories.
+- [Charles Fort / 查尔斯·霍伊·福特](entities/CharlesFort.md) — Collector of anomalous reports invoked by episode 95 to connect strange evidence, Fortean curiosity, and skepticism.
+- [Jan Harold Brunvand](entities/JanHaroldBrunvand.md) — Urban-legend scholar used by episode 95 for legend type indexing across cars, schools, scandals, business, government, and celebrities.
 - [Studio Ghibli / 吉卜力工作室](entities/StudioGhibli.md) — Animation studio read through Miyazaki, Takahata, Suzuki, production pressure, labor systems, promotion, and art-commerce integration.
 - [Toshio Suzuki / 铃木敏夫](entities/ToshioSuzuki.md) — Ghibli producer and former editor whose mediation connects contracts, funding, story direction, collaborators, and publicity.
 - [Isao Takahata / 高畑勋](entities/IsaoTakahata.md) — Ghibli cofounder and director framed as Miyazaki's friend-rival, demanding realist, and source of both artistic breadth and production strain.
@@ -2960,6 +2964,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Urban Legend / 都市传说](concepts/UrbanLegend.md) — Contemporary folklore form where anonymous, believed-as-true stories attach to modern life and encode anxieties about bodies, technology, institutions, brands, and hidden power.
 - [Creative Producer Mediation](concepts/CreativeProducerMediation.md) — Producer role that turns difficult artistic ambition into fundable, finishable, releasable work through rights, persuasion, story judgment, and publicity.
 - [Animation Studio Creative Ecology](concepts/AnimationStudioCreativeEcology.md) — Frame for animation output as the result of relationships, labor systems, funding, release pressure, rivalry, and business afterlives.
 - [Philosophy Workplace Satire](concepts/PhilosophyWorkplaceSatire.md) — Method of translating philosophers and concepts into company roles, office props, and workplace procedures.

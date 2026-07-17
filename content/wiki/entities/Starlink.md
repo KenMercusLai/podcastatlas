@@ -2,8 +2,8 @@
 title: "Starlink"
 type: entity
 tags: [company, satellite, spacex, connectivity]
-sources: [tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]
-last_updated: 2026-07-17
+sources: [tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]
+last_updated: 2026-07-18
 ---
 
 # Starlink
@@ -18,6 +18,8 @@ The source gives Starlink two roles. First, it can generate commercial cash flow
 
 [[putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]] adds a battlefield access-control case from [[Ukraine]]. The episode says Ukrainian drones have gained a precision advantage through Starlink satellite technology, while Russian access in occupied territories has been removed. In the wiki, this makes Starlink part of [[LowCostDroneWarfare]] and [[WarVisibilityStrategy]], not only consumer or remote-area connectivity.
 
+[[95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]] adds Starlink as an internet-era demystification case. The hosts describe seeing a line of lights in the sky and quickly identifying it online as Starlink, arguing that a similar sighting in an earlier media environment might have become a stronger [[UrbanLegend|urban legend]] or UFO story.
+
 ## Connections
 - [[SpaceX]] — Starlink's parent company in the source.
 - [[ReusableRocketEconomics]] — launch-cost precondition for building the constellation.
@@ -26,3 +28,4 @@ The source gives Starlink two roles. First, it can generate commercial cash flow
 - [[XAI|xAI]] and [[Grok]] — AI entities tied to Starlink through the SpaceX acquisition discussion.
 - [[Nigeria]], [[Eutelsat]], and [[AfricaConnectivityInfrastructure]] — connectivity branch added by the Economist source.
 - [[Ukraine]], [[LowCostDroneWarfare]], and [[WarVisibilityStrategy]] — battlefield precision branch added by the later Economist source.
+- [[UrbanLegend|都市传说]] and [[UFOConspiracyCulture]] — sky-sighting demystification branch added by episode 95.
