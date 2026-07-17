@@ -3822,3 +3822,11 @@ Added source page for The Intelligence episode on Israel's October 2026 election
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 5,028 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-18 with 4,998 nodes and 49,201 edges; they found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-17] ingest | The Apple vs. OpenAI legal showdown
+
+Added source page for the Marketplace Tech Bytes episode on Apple's trade-secret lawsuit against OpenAI, OpenAI's reported Jony Ive-linked AI device, New York's one-year hyperscale data-center moratorium, data-center tax-break and local-resource politics, and Uber's hybrid robotaxi lobbying against a D.C. driverless-car bill supported by Waymo. Created pages for Uber, AI Hardware Trade Secret Dispute, Hyperscale Data Center Moratorium, and Robotaxi Hybrid Deployment; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Paresh Dave, Wired, Apple, OpenAI, Jony Ive, Bloomberg, Kathy Hochul, Waymo, AI Plus Terminals, Data Center Backlash, Data Center Cost Shifting, Data Center Tax Incentives, Autonomous Vehicle Safety Benchmark, Robotaxi Economics, and Envelope Expansion Deployment. No direct contradiction found; the source qualifies existing AI terminal, data-center, and robotaxi branches by adding legal, state-policy, and city-operations constraints.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

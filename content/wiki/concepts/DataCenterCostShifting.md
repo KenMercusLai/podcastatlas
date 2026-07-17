@@ -2,8 +2,8 @@
 title: "Data Center Cost Shifting"
 type: concept
 tags: [ai, data-centers, energy, regulation]
-sources: [tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
-last_updated: 2026-07-10
+sources: [tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
+last_updated: 2026-07-17
 ---
 
 # Data Center Cost Shifting
@@ -16,6 +16,8 @@ The concept connects AI buildout to public finance. Data centers may create dema
 
 [[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]] reinforces the bill-impact version through the [[Oracle]] Michigan project discussion. [[AnitaRamaswamy]] says everyday consumers can see utility prices rise as utilities make room for AI data centers, tying cost shifting to [[DataCenterBacklash]] and [[DataCenterDebtRisk]].
 
+[[tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]] adds the moratorium-pressure version. New York's hyperscale data-center pause is framed partly around utility bills, water supply, and other local burdens, showing how perceived cost shifting can support construction freezes rather than only rate-case debate.
+
 ## Key Claims
 - AI data-center buildout can require infrastructure that remains on the utility system even if the customer leaves or demand changes.
 - Ordinary ratepayers face risk when data-center-related costs are pooled into general utility rates.
@@ -24,6 +26,7 @@ The concept connects AI buildout to public finance. Data centers may create dema
 - Cost shifting can intensify [[DataCenterBacklash]] when communities see AI companies gaining capacity while local bills or infrastructure pressure rise.
 - Tax incentives create a parallel public-finance question: even if ratepayers are protected, communities still need to judge whether foregone tax revenue is worth the promised jobs, property taxes, and capital investment.
 - Ratepayer concerns can also affect data-center finance when local opposition makes projects slower or less predictable.
+- Ratepayer and utility-bill concerns can become a reason for state-level moratoriums on the largest data centers.
 
 ## Connections
 - [[PublicUtilityCommissions]] - regulators that can shape cost allocation.
@@ -33,3 +36,4 @@ The concept connects AI buildout to public finance. Data centers may create dema
 - [[AIMetabolicInfrastructure]] - broader frame for who bears AI's material costs.
 - [[AIBacklashPolitics]] and [[DataCenterBacklash]] - political response when infrastructure costs become visible.
 - [[Oracle]] and [[DataCenterDebtRisk]] - financing case where cost-shifting concerns appear alongside project delays.
+- [[HyperscaleDataCenterMoratorium]] and [[KathyHochul]] - construction-pause branch added by Marketplace Tech.

@@ -2,7 +2,7 @@
 title: "Megan McCarty-Corino"
 type: entity
 tags: [journalist, podcast, technology]
-sources: [tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, tech-20251217-1217-mp-tech-pod-128-tech-20251217-1217-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, 3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt]
+sources: [tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, tech-20251222-1222-mp-tech-pod-128-tech-20251222-1222-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128, tech-20251217-1217-mp-tech-pod-128-tech-20251217-1217-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, 3d-printing-was-supposed-to-disrupt-prosthetic-costs-it-hasnt, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
 last_updated: 2026-07-17
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-17
 [[tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128]] adds McCarty-Carino as host of a [[MarketplaceTech]] interview with [[TimHarper]] of the [[CenterForDemocracyAndTechnology|Center for Democracy and Technology]]. Her framing turns generative AI in the 2024 U.S. election into an operational and voter-trust question, connecting [[AIPoliticalCampaignOperations]], [[AIPoliticalAdDisclosurePatchwork]], and [[AIElectionMisinformationRisk]].
 
 [[tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128]] adds McCarty-Corino, styled in the source as Meg McCarty-Corino, as the [[MarketplaceTech]] host interviewing [[GaiaBernstein]] about state attorneys general suing [[Meta]]. Her questions frame the episode around whether social-media litigation is reaching a [[BigTobaccoPlatformAnalogy|Big Tobacco moment]] and whether similar attention-economy concerns are emerging for AI companions.
+
+[[tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]] adds McCarty-Carino as host of a Bytes discussion with [[PareshDave]] of [[Wired]]. Her framing ties together [[Apple]]'s lawsuit against [[OpenAI]], New York's hyperscale data-center pause, and [[Uber]]'s robotaxi lobbying as examples of AI and autonomy running into hardware law, infrastructure politics, and city operations.
 
 [[tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128]] adds McCarty-Corino as host of a Marketplace Tech interview with [[RhondaConger]] of [[CBHHomes]]. Her framing moves from generic AI use into a concrete operations case: sales follow-up, warranty support, data analysis, and the boundary between AI-handled routines and human customer work.
 
@@ -41,6 +43,7 @@ Her role in the wiki is mainly as interview context. The episode uses her questi
 ## Connections
 - [[MarketplaceTech]] - show context.
 - [[GaiaBernstein]], [[Meta]], [[StateAGPlatformLitigation]], [[BigTobaccoPlatformAnalogy]], and [[AICompanionAttentionRisk]] - July 16, 2026 episode on social-media litigation and AI companion risks.
+- [[PareshDave]], [[Apple]], [[OpenAI]], [[HyperscaleDataCenterMoratorium]], and [[RobotaxiHybridDeployment]] - July 17, 2026 Bytes episode on hardware litigation, data centers, and robotaxis.
 - [[CBHHomes]], [[RhondaConger]], [[HomebuildingAIOperations]], and [[CustomerSupportAutomation]] - January 1, 2026 episode on AI inside homebuilding operations.
 - [[Davines]], [[AIAssistedWebsiteScams]], [[FakeRetailWebsiteImpersonation]], [[SearchAdTrustGap]], and [[BrandImpersonationMonitoring]] - AI-assisted retail scam episode anchored by her reporting.
 - [[HassanBenchikran]], [[PatientAIUse]], and [[DoctorGuidedAIInterpretation]] - patient-facing healthcare-AI episode topics added by the 2025-12-22 source.

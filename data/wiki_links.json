@@ -807,6 +807,10 @@
     "title": "AI Hardware Supply Chain Pressure",
     "url": "/wiki/concepts/aihardwaresupplychainpressure/"
   },
+  "AIHardwareTradeSecretDispute": {
+    "title": "AI Hardware Trade Secret Dispute",
+    "url": "/wiki/concepts/aihardwaretradesecretdispute/"
+  },
   "AIHealthManagement": {
     "title": "AI Health Management",
     "url": "/wiki/concepts/aihealthmanagement/"
@@ -8295,6 +8299,10 @@
     "title": "Hyperfixed",
     "url": "/wiki/entities/hyperfixed/"
   },
+  "HyperscaleDataCenterMoratorium": {
+    "title": "Hyperscale Data Center Moratorium",
+    "url": "/wiki/concepts/hyperscaledatacentermoratorium/"
+  },
   "IBM": {
     "title": "IBM",
     "url": "/wiki/entities/ibm/"
@@ -14295,6 +14303,10 @@
     "title": "Robotaxi Economics",
     "url": "/wiki/concepts/robotaxieconomics/"
   },
+  "RobotaxiHybridDeployment": {
+    "title": "Robotaxi Hybrid Deployment",
+    "url": "/wiki/concepts/robotaxihybriddeployment/"
+  },
   "RoboticsSimulationEvaluation": {
     "title": "Robotics Simulation Evaluation",
     "url": "/wiki/concepts/roboticssimulationevaluation/"
@@ -17079,6 +17091,10 @@
     "title": "Ube.co",
     "url": "/wiki/entities/ubeco/"
   },
+  "Uber": {
+    "title": "Uber",
+    "url": "/wiki/entities/uber/"
+  },
   "UberEats": {
     "title": "Uber Eats",
     "url": "/wiki/entities/ubereats/"
@@ -19742,6 +19758,10 @@
   "tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128": {
     "title": "Why state AGs are taking Meta to court",
     "url": "/wiki/sources/tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128/"
+  },
+  "tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128": {
+    "title": "The Apple vs. OpenAI legal showdown",
+    "url": "/wiki/sources/tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128/"
   },
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",

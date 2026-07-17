@@ -2,8 +2,8 @@
 title: "Data Center Tax Incentives"
 type: concept
 tags: [ai, data-centers, tax-policy, economic-development]
-sources: [tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128]
-last_updated: 2026-07-10
+sources: [tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
+last_updated: 2026-07-17
 ---
 
 # Data Center Tax Incentives
@@ -14,6 +14,8 @@ The concept is the public-finance counterpart to [[DataCenterCostShifting]]. Cos
 
 The episode frames incentives as a tradeoff rather than a simple giveaway or a simple growth engine. States seek construction activity, local supplier work, capital investment, property taxes, and some jobs, but they also give up sales-tax, use-tax, electricity-tax, or property-tax revenue. As hyperscale power demand rises, some states are adding carbon-neutral or green-building requirements, removing electricity exemptions, or studying whether older incentive programs still make sense.
 
+[[tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]] adds the anti-incentive turn through New York's hyperscale data-center pause. [[PareshDave]] says the executive-order discussion includes ending tax breaks for data centers, showing that incentives can become politically vulnerable when communities associate data centers with water use, utility bills, land consumption, and limited local benefit.
+
 ## Key Claims
 - Sales and use tax exemptions are the common incentive form; electricity exemptions matter because operating data centers consume large amounts of power.
 - Upfront exemptions for servers, computers, and construction materials can be more attractive than smaller recurring benefits because the buildout is capital intensive.
@@ -22,6 +24,7 @@ The episode frames incentives as a tradeoff rather than a simple giveaway or a s
 - Property taxes can be a meaningful local benefit if they are not fully abated, but that benefit depends on local tax structure and facility valuation.
 - Incentive return on investment is hard to measure because the direct cost is clear while indirect benefits are spread across construction, suppliers, property taxes, and future local revenue.
 - Energy scrutiny can change incentive design when electricity exemptions, carbon requirements, utility capacity, and local opposition become politically visible.
+- A moratorium can pair with subsidy rollback when lawmakers decide that attracting data centers is less urgent than defining acceptable resource use and local benefits.
 
 ## Connections
 - [[NicholasMiller]] and [[NationalConferenceOfStateLegislatures]] - source expert and institutional source.
@@ -30,3 +33,4 @@ The episode frames incentives as a tradeoff rather than a simple giveaway or a s
 - [[DataCenterCostShifting]] and [[PublicUtilityCommissions]] - utility-rate and grid-finance side of the same infrastructure buildout.
 - [[DataCenterBacklash]] and [[AIBacklashPolitics]] - legitimacy pressure when public benefits look thin or local costs rise.
 - [[MaaSInfrastructure]], [[AIComputeContinuity]], and [[AIMetabolicInfrastructure]] - broader AI infrastructure branches affected by tax policy and energy capacity.
+- [[HyperscaleDataCenterMoratorium]] and [[KathyHochul]] - New York pause and tax-break review branch added by Marketplace Tech.
