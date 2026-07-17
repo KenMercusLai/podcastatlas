@@ -3593,6 +3593,10 @@ Ran health and lint. Health scanned 4,708 pages and passed with no empty/stub fi
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-18] ingest | 中秋快乐！
+
+Added source page for the 蜜獾吃书 holiday episode on Mid-Autumn travel reading, staying-home travel essays, Yunnan local history, 《中亚行迹》 / Sovietistan, and 《中华蟹史》 as a crab-centered festival-food history. Created pages for 《中华蟹史》, 钱苍水, 《中亚行迹》 / Sovietistan, Travel Reading As Place Inquiry, and Festival Food Material History; updated overview, index, 蜜獾吃书, Material History Narrative, Non-Instrumental Literary Reading, Reading As Life Experience, Restorative Creative Pacing, and Yunnan. No direct contradiction found; the source extends existing holiday and reading branches by showing that a light festival episode can still produce durable links among travel attention, place inquiry, seasonal eating, folklore, and material history.
+
 ## [2026-07-18] ingest | 69.闲聊推理文学：历史学者可不就是侦探吗！
 
 Added source page for the 蜜獾吃书 episode with 张志浩 of 《历史播客》 on detective fiction, archaeology, historical reasoning, 《时间的女儿》, Richard III, the Princes in the Tower, 曹操墓, Jack the Ripper, late-Qing Holmes translation, and personal archives. Created pages for 张志浩, 《历史播客》, Josephine Tey, 《时间的女儿》, Richard III, Princes in the Tower, 曹操墓, 《螺丝在拧紧》, The Hound of the Baskervilles, Historical Detective Reasoning, Evidence-Bound Historical Revision, Personal Archive As History, Gong'an Fiction, and Chinese Detective Modernity; updated overview, index, 蜜獾吃书, Poe, Conan Doyle, Sherlock Holmes, Agatha Christie, Jack the Ripper, Observation Before Inference, Interpretation And Overinterpretation, Chinese Mystery Publishing Ecology, Historical Memory Contest, Modern Criminal Investigation Formation, and Victorian Women Precarity. No direct contradiction found; the source extends the wiki's evidence-discipline branch by treating mystery fiction as a method for reading historical traces without forcing every archive into a neat solution.
@@ -3620,6 +3624,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-18] ingest | 70.医生，你在想什么：少看百度，以及吃药时别吃西柚啊
 
 Added source page for the 蜜獾吃书 episode on 王兴医生《医生，你在想什么》, doctor-patient communication, clinical diagnostic reasoning, medical risk management, online symptom-search anxiety, medication interaction risk, and preventive screening. Created pages for 王兴医生, 《医生，你在想什么》, 《病人家属，请来一下》, Doctor-Patient Communication, Medical Diagnostic Reasoning, Medical Risk Management, Online Symptom Search Anxiety, Medication Interaction Risk, and Preventive Health Screening; updated overview, index, 蜜獾吃书, 百度, Medical Platform Trust Crisis, Online Medical Consultation, Health Insurance Planning, and 小雨伞. No direct contradiction found; the source qualifies internet-healthcare and patient-AI branches by showing the pre-AI version of the same pattern: outside information can prepare better questions, but diagnosis, treatment, procedures, and medication safety still require professional clinical context.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-18] lint | Wiki health check
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [中秋快乐！](sources/zhongqiu-kuaile-669967741.md) — 蜜獾吃书 holiday episode turning Mid-Autumn into a travel-reading and festival-food book list, from travel anthropology and Yunnan local history to 《中华蟹史》 and crab material culture.
 - [70.医生，你在想什么：少看百度，以及吃药时别吃西柚啊](sources/70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394.md) — 蜜獾吃书 episode on 王兴医生《医生，你在想什么》, doctor-patient communication, diagnostic reasoning, online symptom-search anxiety, medication interaction risk, and preventive screening.
 - [69.闲聊推理文学：历史学者可不就是侦探吗！](sources/69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465.md) — 蜜獾吃书 episode with 张志浩 on detective fiction, archaeology, historical reasoning, 《时间的女儿》, Richard III, 曹操墓, Jack the Ripper, late-Qing Holmes translation, and personal archives.
 - [68.疯狂实验史：哎！这该死的求知欲…](sources/68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549.md) — 蜜獾吃书 episode on 《疯狂实验史》, experimental science, galvanism, self-experimentation, animal and child experiment ethics, circadian rhythms, spider drug-web studies, Darwin's earthworms, and the Doppler effect.
@@ -453,6 +454,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《中华蟹史》](entities/ZhonghuaXieshi.md) — Crab-history book used to connect Mid-Autumn eating, literary crab references, Shanghai's "沪" etymology, and giant-crab folklore.
+- [钱苍水](entities/QianCangshui.md) — Jiangsu Taicang author of 《中华蟹史》, treated source-locally as the crab-history compiler behind the episode's festival-food turn.
+- [《中亚行迹》 / Sovietistan](entities/ZhongyaXingji.md) — Travel-anthropology book recommended as a way to read post-Soviet Central Asia through social change rather than sightseeing.
 - [张志浩](entities/ZhangZhihao.md) — 《历史播客》 guest who frames archaeology and historical research as detective-like trace reasoning.
 - [《历史播客》](entities/LishiBoke.md) — History podcast represented by 张志浩 in the 蜜獾吃书 episode on detective fiction and historical method.
 - [Josephine Tey / 约瑟芬·铁伊](entities/JosephineTey.md) — Detective novelist whose 《时间的女儿》 is defended as evidence-centered historical mystery.
@@ -2891,6 +2895,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Travel Reading As Place Inquiry](concepts/TravelReadingAsPlaceInquiry.md) — Holiday-reading frame where travel books become tools for historical, geographic, anthropological, and local-cultural inquiry.
+- [Festival Food Material History](concepts/FestivalFoodMaterialHistory.md) — Pattern where seasonal foods reveal festival time, place names, literature, folklore, fear, and everyday material culture.
 - [Historical Detective Reasoning](concepts/HistoricalDetectiveReasoning.md) — Method linking history, archaeology, and detective fiction through fragmentary traces, source criticism, rival explanations, and rational humility.
 - [Evidence-Bound Historical Revision](concepts/EvidenceBoundHistoricalRevision.md) — Discipline for revising inherited history through evidence, source timing, motive, material traces, and public-memory caution.
 - [Personal Archive As History](concepts/PersonalArchiveAsHistory.md) — Idea that family objects, names, documents, work traces, and ordinary records can become future historical evidence.
