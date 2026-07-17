@@ -3636,3 +3636,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-18] ingest | 75.故事新编：骷髅被复活后会感激庄子吗？
+
+Added source page for the 蜜獾吃书 episode rereading 鲁迅《故事新编》 through 《理水》 and 《起死》, with emphasis on 顾颉刚/古史辨, 大禹, 庄子/齐物论, disaster aestheticization, Daoist "吃教", and instrumental use of religion, science, revolution, loyalty, and reputation. Created pages for 《故事新编》, 《理水》, 《起死》, 顾颉刚, 庄子, 《齐物论》, 杨大, 大禹, 郭沫若, 古史辨, Disaster Aestheticization, and Instrumental Belief Critique; updated overview, index, 蜜獾吃书, 鲁迅, Classic Reading Complexity, Non-Instrumental Literary Reading, Suo Yin Reading, Interpretation And Overinterpretation, Mythic Source Layering, Science-Religion Civilization Tension, and Tool Rationality Spillover. No direct contradiction found; the source qualifies earlier science, religion, and classic-reading branches by showing that Lu Xun's target is not belief or knowledge itself, but opportunistic use detached from responsibility and material reality.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint without saving a report. Findings: 2 orphan pages, 0 broken links, 0 missing entity pages, 0 sparse pages, 0 hub stubs, 1 fragile bridge, 0 isolated communities. Semantic lint was unavailable because no LiteLLM provider was configured.

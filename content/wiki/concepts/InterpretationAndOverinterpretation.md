@@ -2,7 +2,7 @@
 title: "Interpretation And Overinterpretation"
 type: concept
 tags: [interpretation, literature, reasoning, semiotics]
-sources: [111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
+sources: [75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
 last_updated: 2026-07-18
 ---
 
@@ -17,6 +17,8 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 [[57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319]] adds a non-literary sign system through Chinese characters. Folk拆字 can make a modern glyph feel self-explanatory, but the episode argues that character interpretation needs [[CharacterFormEvolution]] and [[ChineseCharacterEvidenceDiscipline]] before it becomes more than a memorable story.
 
 [[43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]] adds [[SuoYinReading|索隐式阅读]] through [[JourneyToTheWest|《西游记》]]. The episode enjoys hidden-political readings of monsters and divine officials, especially around the [[YangShen|杨慎]] attribution theory, but it repeatedly marks those readings as suggestive rather than proven. This makes overinterpretation a matter of literary pleasure and evidence discipline at once.
+
+[[75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087]] adds another 索隐-adjacent case through [[GushiXinbian|《故事新编》]]. The source reads [[LiShui|《理水》]] against [[GuJiegang|顾颉刚]] and [[GushiBian|古史辨]], but its stronger interpretive claim is not a hidden-person solution; it is that scholarship, official evidence, and philosophical language can overrun the concrete human situation they claim to explain.
 
 [[183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260]] adds an intertextual version through [[LiShangyin|李商隐]] and [[HongLouMeng|《红楼梦》]]. The source's [[YuxiIntoHonglou]] argument is strongest where it uses direct quotations, repeated imagery, and explicit commentary; it is more speculative when it depends on psychological affinity, author-name echoes, or broad historical analogy.
 
@@ -38,6 +40,7 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 - In dynasty-centered reading, overinterpretation can begin when "political seriousness" is equated with empire and loyalism while concrete social institutions are treated as lesser evidence.
 - In legend-history reading, overinterpretation can begin when a vivid later motif is projected backward onto weaker early evidence or when social trauma is turned into one exact event.
 - In historical revision, overinterpretation can begin either by accepting a winner's literary image too easily or by treating every official story as false before the archive and material evidence justify the reversal.
+- In canonical-author rereading, overinterpretation can also run through social image: textbook reverence, political caricature, and hidden-person decoding can each replace attention to the story's working mechanisms.
 
 ## Connections
 - [[SemioticDetectiveFiction]] - mystery form where the boundary becomes part of the plot.
@@ -50,6 +53,7 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 - [[AuthorCharacterSeparation]] - adjacent interpretive discipline for not collapsing one voice into the whole work's doctrine.
 - [[FolkCharacterEtymologyRisk]], [[CharacterFormEvolution]], and [[ChineseCharacterEvidenceDiscipline]] - episode 57's extension into Chinese-character signs and unsupported拆字.
 - [[SuoYinReading]], [[JourneyToTheWest|《西游记》]], and [[YangShen|杨慎]] - episode 43's extension into hidden-political literary interpretation.
+- [[GushiXinbian|《故事新编》]], [[LiShui|《理水》]], [[GuJiegang|顾颉刚]], and [[DisasterAestheticization]] - episode 75's extension into Lu Xun, hidden scholarly allusion, and suffering turned into evidence.
 - [[ClassicalPoeticIntertextuality]], [[YuxiIntoHonglou]], [[LiShangyin|李商隐]], and [[HongLouMeng|《红楼梦》]] - episode 183's extension into poetry-novel intertext and confidence grading.
 - [[MourningMingReading]], [[RedChamberLegalReading]], [[QingFemaleInheritanceConstraint]], and [[ConfiscationAndFemaleFate]] - episode 167's extension into Red Chamber dynastic-code critique and legal evidence.
 - [[PiedPiperOfHamelin|花衣魔笛手]], [[LegendAsSocialHistory]], [[EvidenceBoundFolkloreInquiry]], and [[FolkloreTraumaEncoding]] - episode 111's extension into folklore, social history, and confidence discipline.

@@ -73,6 +73,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [174.读笛卡尔，是件大事](sources/174-du-dikaer-shi-jian-dashi-966856702.md) — 蜜獾吃书 episode on Rene Descartes, 《谈谈方法》, methodic doubt, 我思故我在, Cartesian dualism, Princess Elisabeth's objections, rationalist method, and AI-era thinking versus calculation.
 - [173.弹劾：如何罢免一位总统](sources/173-tanhe-ruhe-bamian-yiwei-zongtong-963141809.md) — 蜜獾吃书 episode using Cass Sunstein to explain U.S. presidential impeachment, high crimes and misdemeanors, the 25th Amendment, presidential-vs-parliamentary design, and constitutional robustness.
 - [172.好运是什么？为啥说总避雷会败好运？](sources/172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860.md) — 蜜獾吃书 episode reframing luck as information bandwidth, low-cost experimentation, survivable risk, weak ties, positive expectation, and the hidden opportunity cost of always "避雷".
+- [75.故事新编：骷髅被复活后会感激庄子吗？](sources/75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087.md) — 蜜獾吃书 episode rereading 鲁迅《故事新编》 through 《理水》, 《起死》, 顾颉刚/古史辨, 庄子/齐物论, disaster aestheticization, and instrumental belief critique.
 - [153.我的名字叫红：用一千零一夜的心跳完成这场谋杀(上）](sources/153-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-shang-917670296.md) — 蜜獾吃书 episode opening the Pamuk two-parter with Istanbul, Persian and Ottoman miniature painting, Sufi image legitimacy, divine perspective, Frankish portrait pressure, style as trace, and the story setup through Black and Shekure's reunion.
 - [sp.02 我有自己的宇宙：如何在混沌中做个清醒的行动派](sources/sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778.md) — 蜜獾吃书 episode with 钱静 on 《我有自己的宇宙》, 中庸我, 避坑内容, career and civil-service anxiety, workplace conflict, original-family independence, macro narrative anxiety, and action against anxiety.
 - [108.祖与占：爱与不爱，巴黎就在那里（耸肩）](sources/108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905.md) — 蜜獾吃书 episode on 《祖与占》 / Jules and Jim, Truffaut, Roche, French New Wave, triangle intimacy, gendered freedom, war rupture, and suspending crude moral judgment.
@@ -1092,6 +1093,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《儒林外史》](entities/RulinWaishi.md) — Qing-dynasty satirical novel read by 蜜獾吃书 as a group portrait of scholars, gentry, examination pressure, official status, and alternative forms of dignity.
 - [吴敬梓](entities/WuJingzi.md) — Author of 《儒林外史》, treated by the episode as an observer whose indirect satire exposes scholar society without simple denunciation.
 - [鲁迅](entities/LuXun.md) — Writer and critic whose praise frames the episode's account of 《儒林外史》 as a high point in Chinese satirical fiction.
+- [《故事新编》](entities/GushiXinbian.md) — Lu Xun collection reread by 蜜獾吃书 as myth rewriting where ancient stories absorb modern scholars, officials, doctrine, and opportunism.
+- [《理水》](entities/LiShui.md) — 《故事新编》 flood-control story used to read 大禹, 顾颉刚/古史辨, bureaucratic disaster performance, and practical repair.
+- [《起死》](entities/QiSi.md) — 《故事新编》 story reversing the 庄子 skull tradition by making resurrection collide with material loss and survival.
+- [大禹 / Yu the Great](entities/YuTheGreat.md) — Mythic flood-control figure recast in 《理水》 as the dirty, practical worker-ruler opposed to insulated scholars and officials.
+- [顾颉刚](entities/GuJiegang.md) — Historian and 古史辨 figure used by episode 75 as the source-scoped target behind the "禹是一条虫" allusion.
+- [庄子](entities/Zhuangzi.md) — Philosopher figure in 《起死》 whose 齐物论 language fails before 杨大的 concrete demands.
+- [《齐物论》](entities/QiWuLun.md) — Zhuangzi text used in 《起死》 as both philosophical language and status capital.
+- [杨大](entities/YangDa.md) — Resurrected skull figure in 《起死》 whose demand for clothes, baggage, and survival punctures metaphysical consolation.
+- [郭沫若](entities/GuoMoruo.md) — Writer used source-scopingly as an example of opportunistic reversal around attacks on and later praise for 鲁迅.
 - [范进](entities/FanJin.md) — Examination-success figure whose madness after passing concentrates poverty, humiliation, family contempt, and sudden status recognition.
 - [周进](entities/ZhouJin.md) — Aging failed scholar turned examiner, used by the episode to show how the examination system humiliates people and then turns some survivors into gatekeepers.
 - [杜少卿](entities/DuShaoqing.md) — Ideal scholar figure in 《儒林外史》, read as generous, sincere, resistant to official flattery, and not defined by examination rank.
@@ -3290,6 +3300,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Trickster Ambivalence](concepts/TricksterAmbivalence.md) — Folklore pattern where cunning figures such as Anansi help, deceive, solve scarcity, and commit cruelty without becoming morally clean.
 - [Restorative Creative Pacing](concepts/RestorativeCreativePacing.md) — Creative-work rhythm where rest, light episodes, reading retreats, and environmental reset sustain a podcast or literary project.
 - [Natural Hazard As Social Disaster](concepts/NaturalHazardSocialDisaster.md) — Disaster-history frame where floods become catastrophe through settlement, infrastructure, war, markets, disease, belief, and relief systems.
+- [Disaster Aestheticization](concepts/DisasterAestheticization.md) — Pattern where suffering is converted into scenery, evidence, exhibit, or tasteful object while victims remain materially exposed.
 - [Wetland Adaptation](concepts/WetlandAdaptation.md) — Living with seasonal water through mobility, wetlands, boats, and local ecological practice rather than only fixed defenses.
 - [Flood Control Risk Transfer](concepts/FloodControlRiskTransfer.md) — Pattern where dikes, breaches, openings, and diversions protect one place by shifting water or maintenance burden elsewhere.
 - [Modern Urban Disaster Risk](concepts/ModernUrbanDisasterRisk.md) — Frame for modern city infrastructure becoming a hazard multiplier during flood, fire, disease, crowding, and market breakdown.
@@ -3346,6 +3357,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adaptation Original-Text Confusion](concepts/AdaptationOriginalTextConfusion.md) — Pattern where a famous adaptation overwrites public memory of the literary original's design, plot, or moral structure.
 - [Accretive Text Formation](concepts/AccretiveTextFormation.md) — Textual-history pattern where a classic forms through layered sources, variants, religious imagery, authorship claims, and later organization.
 - [索隐式阅读 / Suo Yin Reading](concepts/SuoYinReading.md) — Interpretive mode that treats literary details as hidden historical or political ciphers while requiring evidence discipline.
+- [古史辨 / Doubting Antiquity](concepts/GushiBian.md) — Ancient-history-doubt frame used by episode 75 to read 《理水》, 顾颉刚, and the risks of detached evidential performance.
 - [Mythic Source Layering](concepts/MythicSourceLayering.md) — Character-formation pattern where religious, folkloric, regional, and textual motifs accumulate inside one literary figure.
 - [Semiotic Detective Fiction](concepts/SemioticDetectiveFiction.md) — Mystery form where clues are signs whose meaning, reliability, and overinterpretation become part of the story's argument.
 - [Interpretation And Overinterpretation](concepts/InterpretationAndOverinterpretation.md) — Boundary problem between reading signs carefully and forcing signs to say more than evidence supports.
@@ -3374,6 +3386,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Satirical Group Portrait](concepts/SatiricalGroupPortrait.md) — Narrative form where many partial lives and recurring figures accumulate into a map of a whole social field.
 - [Post-Apocalyptic Civilization Preservation](concepts/PostApocalypticCivilizationPreservation.md) — Fictional and institutional pattern where survivors preserve knowledge through collapse even when they no longer understand what they are guarding.
 - [Science-Religion Civilization Tension](concepts/ScienceReligionCivilizationTension.md) — Episode 03's reading of science and religion as co-preservers and co-misreaders of truth rather than simple enemies.
+- [Instrumental Belief Critique](concepts/InstrumentalBeliefCritique.md) — Lu Xun pattern where religion, science, philosophy, revolution, loyalty, or public reverence become corrupt when used only as tools.
 - [Civilizational Self-Destruction Cycle](concepts/CivilizationalSelfDestructionCycle.md) — Pattern in which human societies repeatedly rebuild knowledge and power only to recreate conditions for nuclear or technological self-destruction.
 - [Pain And Moral Responsibility](concepts/PainAndMoralResponsibility.md) — Moral frame from the novel's euthanasia debate, separating the reduction of suffering from responsibility for war, courage, and meaning.
 - [Apocalyptic Literary Symbolism](concepts/ApocalypticLiterarySymbolism.md) — Literary use of Revelation, Lazarus, Lucifer, light, water, relics, and new creation to make nuclear wasteland fiction morally legible.

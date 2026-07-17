@@ -2,13 +2,15 @@
 title: "Mythic Source Layering"
 type: concept
 tags: [mythology, folklore, literature, religion]
-sources: [152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 136-chunri-mingmei-liaoliao-guishen-827911486, 147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004]
-last_updated: 2026-07-15
+sources: [75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 136-chunri-mingmei-liaoliao-guishen-827911486, 147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004]
+last_updated: 2026-07-18
 ---
 
 # Mythic Source Layering
 
 Mythic source layering is the way a literary figure gathers multiple religious, folkloric, regional, and textual origins rather than descending from one clean prototype. In [[43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]], [[MihuanChishu|蜜獾吃书]] applies this to [[JourneyToTheWest|《西游记》]] by reading monsters and companions through Buddhist iconography, Daoist terms, Indian epic material, Chinese water-monster lore, zaju, oral stories, and folk belief.
+
+[[75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087]] adds the [[Zhuangzi|庄子]] skull-story case through [[QiSi|《起死》]]. The source traces the story from the philosophical skull dialogue into poetry, drama, sanqu, Daoist storytelling, and 度脱剧, then shows how [[LuXun|鲁迅]] reverses that layered tradition by making [[YangDa|杨大]] resist enlightenment and demand material compensation.
 
 [[178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368]] adds a stronger evidence-method caution through [[JohannJakobBachofen]] and [[MotherRight|《母权论》 / Mother Right]]. Bachofen's myth reading shows that layered stories can carry kinship and law questions, but it also demonstrates why [[MythAsHistoricalEvidence]] needs support before it becomes a claim about real social structure.
 
@@ -32,8 +34,10 @@ The clearest case is [[SunWukong|孙悟空]]. The episode compares him with [[Ha
 - Oral mythology makes variants especially important because performance, collection, translation, and regional memory all shape the version being discussed.
 - Festival legends can fuse star observation, calendrical practice, ritual labor, and imported story motifs into one familiar romance.
 - Modern media can preserve older motifs as visual hints or plausible inspirations, which requires the same evidence caution as classical myth comparison.
+- A philosophical anecdote can gather religious and theatrical afterlives, and a modern author can reverse that accumulated meaning instead of merely retelling the oldest version.
 
 ## Connections
+- [[QiSi|《起死》]], [[Zhuangzi|庄子]], [[YangDa|杨大]], and [[InstrumentalBeliefCritique]] - episode 75's skull-story reversal.
 - [[JourneyToTheWest|《西游记》]] - central source case.
 - [[SunWukong|孙悟空]], [[ZhuBajie|猪八戒]], and [[ShaWujing|沙和尚]] - main character cases.
 - [[Hanuman|哈努曼]], [[Wuzhiqi|无支祁]], and [[Garuda|迦楼罗 / 大鹏鸟]] - comparative mythic figures.
