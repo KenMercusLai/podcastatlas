@@ -483,6 +483,10 @@
     "title": "90.酉阳杂俎：血滴子和武则天手指上的黑毛",
     "url": "/wiki/sources/90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933/"
   },
+  "91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018": {
+    "title": "91.猎巫：塞勒姆1692，从癔症开始",
+    "url": "/wiki/sources/91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018/"
+  },
   "93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489": {
     "title": "93.聊聊头发：秃了，就会变强吗？",
     "url": "/wiki/sources/93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489/"
@@ -13911,6 +13915,10 @@
     "title": "Salar Kamangar",
     "url": "/wiki/entities/salarkamangar/"
   },
+  "SalemWitchTrials": {
+    "title": "Salem Witch Trials / 塞勒姆猎巫",
+    "url": "/wiki/entities/salemwitchtrials/"
+  },
   "SalesVelocity": {
     "title": "Sales Velocity",
     "url": "/wiki/concepts/salesvelocity/"
@@ -14819,6 +14827,10 @@
     "title": "Specialized Intelligence",
     "url": "/wiki/concepts/specializedintelligence/"
   },
+  "SpectralEvidence": {
+    "title": "Spectral Evidence / 幽灵证据",
+    "url": "/wiki/concepts/spectralevidence/"
+  },
   "SpeculativeBubblePsychology": {
     "title": "Speculative Bubble Psychology",
     "url": "/wiki/concepts/speculativebubblepsychology/"
@@ -14918,6 +14930,10 @@
   "StaceyPettijohn": {
     "title": "Stacey Pettijohn",
     "url": "/wiki/entities/staceypettijohn/"
+  },
+  "StacySchiff": {
+    "title": "Stacy Schiff / 斯泰西·西夫",
+    "url": "/wiki/entities/stacyschiff/"
   },
   "StadiumRealEstateEconomics": {
     "title": "Stadium Real Estate Economics",
@@ -15782,6 +15798,10 @@
   "TheWaltDisneyCompany": {
     "title": "The Walt Disney Company",
     "url": "/wiki/entities/thewaltdisneycompany/"
+  },
+  "TheWitchesSalem1692": {
+    "title": "The Witches: Salem, 1692 / 《猎巫：塞勒姆1692》",
+    "url": "/wiki/entities/thewitchessalem1692/"
   },
   "TheXFiles": {
     "title": "The X-Files / X档案",
@@ -17034,6 +17054,10 @@
   "Wired": {
     "title": "Wired",
     "url": "/wiki/entities/wired/"
+  },
+  "WitchHuntMechanism": {
+    "title": "Witch-Hunt Mechanism / 猎巫机制",
+    "url": "/wiki/concepts/witchhuntmechanism/"
   },
   "Wiz": {
     "title": "Wiz",

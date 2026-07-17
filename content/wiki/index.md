@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [91.猎巫：塞勒姆1692，从癔症开始](sources/91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018.md) — 蜜獾吃书 episode on Stacy Schiff's 《猎巫：塞勒姆1692》, the Salem witch trials, spectral evidence, coerced accusation, Puritan community fear, witch-hunt mechanisms, and modern internet moral trial.
 - [90.酉阳杂俎：血滴子和武则天手指上的黑毛](sources/90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933.md) — 蜜獾吃书 episode on 段成式《酉阳杂俎》 as a Tang miscellany of strange tales, court rumor, religion, story motifs, underworld bureaucracy, elite cruelty, and archival imagination.
 - [89.剑桥夜攀者：让我们庄严地上房揭瓦](sources/89-jianqiao-yepanzhe-rang-women-zhuangyan-de-shangfang-jiewa-710382629.md) — 蜜獾吃书 episode on 《剑桥夜攀者》, Cambridge night climbing, student prank ethics, roofscape attention, King's College Chapel tower legends, and Noel H. Symington's Whipplesnaith authorship.
 - [76.玄怪录：晚唐党争？没耽误宰相写大马猴的故事](sources/76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220.md) — 蜜獾吃书 episode on 牛僧儒《玄怪录》, 牛李党争, 唐传奇, fox/dragon/object-spirit repayment, religious mixing, water-monkey ambiguity, and 《杜子春》 as a failed immortality test.
@@ -458,6 +459,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [The Witches: Salem, 1692 / 《猎巫：塞勒姆1692》](entities/TheWitchesSalem1692.md) — Stacy Schiff book read by episode 91 as a case study in Salem, witch-hunt escalation, evidentiary collapse, and public accusation.
+- [Stacy Schiff / 斯泰西·西夫](entities/StacySchiff.md) — Author of 《猎巫：塞勒姆1692》 as used by episode 91 to frame the Salem witch trials.
+- [Salem Witch Trials / 塞勒姆猎巫](entities/SalemWitchTrials.md) — 1692 New England witch-trial case used by episode 91 to analyze fear, accusation, spectral evidence, and institutional violence.
 - [《酉阳杂俎》 / Youyang Zazu](entities/YouyangZazu.md) — Tang miscellany read by episode 90 as an archive of strange tales, court rumor, religious procedure, story motifs, social violence, and odd knowledge.
 - [段成式 / Duan Chengshi](entities/DuanChengshi.md) — Tang writer and collector behind 《酉阳杂俎》, framed by episode 90 as preserving strange knowledge more than pursuing political power.
 - [《叶限》 / Ye Xian](entities/YeXian.md) — Cinderella-like tale in 《酉阳杂俎》 used by episode 90 to discuss story motif transmission and evidence-bounded cross-cultural comparison.
@@ -2926,6 +2930,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Witch-Hunt Mechanism / 猎巫机制](concepts/WitchHuntMechanism.md) — Episode 91 frame for how closedness, oppression, authority guidance, and pseudo-rationality turn fear into internal enemy-making.
+- [Spectral Evidence / 幽灵证据](concepts/SpectralEvidence.md) — Salem evidentiary failure where visions, invisible attacks, and courtroom suffering are treated as proof.
 - [Tang Miscellany Archive Value](concepts/TangMiscellanyArchiveValue.md) — Episode 90 frame for reading 《酉阳杂俎》 as a mixed archive whose odd details preserve cultural clues without requiring every marvel to be verified or dismissed.
 - [Campus Night Climbing](concepts/CampusNightClimbing.md) — Dangerous unofficial student climbing subculture framed through curfews, secrecy, small teams, route lore, and non-instructional cultural reading.
 - [Campus Prank Ethics](concepts/CampusPrankEthics.md) — Informal rule system that distinguishes wit, restraint, no violence, and minimal damage from vandalism or intimidation in campus prank culture.

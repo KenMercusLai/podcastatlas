@@ -3668,3 +3668,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-18] ingest | 91.猎巫：塞勒姆1692，从癔症开始
+
+Added source page for the 蜜獾吃书 episode on Stacy Schiff's 《猎巫：塞勒姆1692》, the Salem witch trials, Puritan village fear, girls' symptoms and accusations, Tituba-style confession dynamics, spectral evidence, executions, belated apology, and modern internet moral trial. Created pages for The Witches: Salem, 1692, Stacy Schiff, Salem Witch Trials, Witch-Hunt Mechanism, and Spectral Evidence; updated overview, index, 蜜獾吃书, Internet Moral Trial, Evidence Over Testimony, Political Show Trial, Coerced Denunciation, Rationalist Method, Rene Descartes, and Observation Before Inference. No direct contradiction found; the source extends existing evidence-discipline and public-judgment branches by showing how weak testimony, authority, and pseudo-causality can become institutional violence.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,7 +2,7 @@
 title: "Observation Before Inference"
 type: concept
 tags: [science, reasoning, evidence, fieldwork]
-sources: [68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]
+sources: [68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469, 91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]
 last_updated: 2026-07-18
 ---
 
@@ -32,6 +32,8 @@ The concept is adjacent to [[BirdwatchingAsAttention]], but it is more explicitl
 
 [[69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]] adds the historical-detective version. [[ZhangZhihao|张志浩]]'s archaeology-as-crime-scene analogy makes observation before inference a historical method: tombs, bones, inscriptions, archives, later court histories, literary images, and family objects must be compared before becoming claims about [[RichardIII|理查三世]], the [[PrincesInTheTower|塔中王子案]], [[CaoCaoTomb|曹操墓]], or ordinary recent lives.
 
+[[91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]] adds a witch-hunt negative case. In the [[SalemWitchTrials|塞勒姆猎巫]], symptoms, visions, rumors, dreams, grudges, and courtroom performances are interpreted before they are independently checked. The episode uses [[RationalistMethod]] to argue that resisting [[WitchHuntMechanism]] requires slowing the move from observation to accusation.
+
 ## Key Claims
 - A plausible story is not evidence.
 - Morphology can suggest habits, but external appearance alone can mislead.
@@ -47,6 +49,7 @@ The concept is adjacent to [[BirdwatchingAsAttention]], but it is more explicitl
 - Everyday social inference needs the same guardrail: a compassionate explanation should still be grounded in observed routines, checked alternatives, and clue fit.
 - Strange experiments need the same separation: the setup may be vivid, but the conclusion still depends on controls, repeatability, and correctly bounded interpretation.
 - Historical cases need the same separation: a famous story, a hostile source, a literary image, or an attractive reversal cannot replace dated records, material traces, motive analysis, and confidence limits.
+- Public accusation needs the same separation: fear, suffering, or moral urgency can make a claim socially powerful without making it evidentially grounded.
 
 ## Connections
 - [[BirdwatchingAsAttention]] - attention as the entry point.
@@ -62,3 +65,4 @@ The concept is adjacent to [[BirdwatchingAsAttention]], but it is more explicitl
 - [[DailyLifeMystery|日常推理]], [[AliFangxuehou|阿里]], and [[DignityProtectingDeduction|体面保护式推理]] - episode 168's ordinary-clue and friendship-protection extension.
 - [[ExperimentalScienceEthics]], [[ExperimentalFailureAsKnowledge]], [[CircadianRhythmExperimentation]], and [[DopplerEffect]] - source-68 experiment-design extensions.
 - [[HistoricalDetectiveReasoning]], [[EvidenceBoundHistoricalRevision]], [[TheDaughterOfTime|《时间的女儿》]], and [[CaoCaoTomb|曹操墓]] - source-69 extension into history, archaeology, and public memory.
+- [[SalemWitchTrials]], [[WitchHuntMechanism]], [[SpectralEvidence]], and [[RationalistMethod]] - source-91 extension into resisting accusation before evidence.
