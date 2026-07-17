@@ -2,8 +2,8 @@
 title: "Invasive Species Management"
 type: concept
 tags: [ecology, conservation, invasive-species, islands]
-sources: [186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924]
-last_updated: 2026-07-15
+sources: [97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924]
+last_updated: 2026-07-18
 ---
 
 # Invasive Species Management
@@ -14,6 +14,8 @@ The episode emphasizes that management is not a simple "remove the bad animal" s
 
 [[186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210]] adds the [[Kakapo|kakapo]] as a high-stakes island case. The episode presents introduced mammals, flightlessness, and slow breeding as the crisis conditions, while protected islands, tracking dogs, monitoring, and funding become the repair layer.
 
+[[97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059]] adds a human-health version through [[RagweedEcologicalFeedback]]. Ragweed is not discussed only as an ecological invader but as an allergen whose spread follows disturbance, settlement, urban bare ground, seed movement, and herbicide resistance.
+
 ## Key Claims
 - Island ecosystems can be especially vulnerable because native species may not have evolved with mammalian predators or grazers.
 - Management choices have social, ethical, and ecological constraints.
@@ -21,6 +23,7 @@ The episode emphasizes that management is not a simple "remove the bad animal" s
 - Biosecurity is prevention: avoiding new introductions can be easier than repairing damage later.
 - Conservation outcomes require monitoring after intervention.
 - For species with slow reproduction, invasive pressure can become a population-timing problem: by the time every predator is controlled, too few viable breeders may remain.
+- Invasive or opportunistic plants can become public-health problems when their spread increases allergen exposure, not only when they displace native species.
 
 ## Connections
 - [[OgasawaraIslands|小笠原群岛]] - island setting.
@@ -30,3 +33,4 @@ The episode emphasizes that management is not a simple "remove the bad animal" s
 - [[ConservationIntervention]] - broader active-protection frame.
 - [[IslandEcologicalSuccession]] - recovery under changing island conditions.
 - [[Kakapo]], [[NewZealand]], and [[IslandExtinctionAfterHumanArrival]] - episode 186's endangered-parrot extension.
+- [[RagweedEcologicalFeedback]], [[AllergySourceControl]], and [[HayFeverEnvironmentalHistory]] - pollen-allergy extension from episode 97.

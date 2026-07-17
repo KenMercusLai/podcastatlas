@@ -2,7 +2,7 @@
 title: "Material History Narrative"
 type: concept
 tags: [history, commodities, narrative, material-culture]
-sources: [zhongqiu-kuaile-669967741, 66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536, 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, 71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
+sources: [97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, zhongqiu-kuaile-669967741, 66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536, 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, 71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
 last_updated: 2026-07-18
 ---
 
@@ -26,6 +26,8 @@ The concept is useful because it keeps scale changes visible. A material object 
 
 [[93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489]] adds a bodily-material version through [[HairAsBiosocialSignal]]. Hair is not a commodity in the same way coffee or sanitary products are, but the source treats it as a material that crosses biology, grooming, medicine, beauty markets, religious practice, state coercion, and forensic evidence. That broadens this concept from external objects to body materials that are still socially produced and interpreted.
 
+[[97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059]] adds an airborne biological-material version through [[PollenAsHistoricalObject]]. Pollen is not a consumer product, but the episode makes it historically legible through plant reproduction, microscopy, language translation, [[PalynologyAsEvidence|trace evidence]], [[HayFeverEnvironmentalHistory|disease history]], tourism, [[AirPurifier|air purification]], and weed control.
+
 ## Key Claims
 - Everyday substances can reveal political economy, sensory habit, social space, and state power.
 - A strong material-history narrative must connect consumption with production, labor, transport, taxation, and inequality.
@@ -37,6 +39,7 @@ The concept is useful because it keeps scale changes visible. A material object 
 - Festival foods can work the same way when a seasonal table links appetite to waterways, tools, literary memory, myth, and old records of unfamiliar animals.
 - Bodily materials such as hair can also carry material history when they connect anatomy, care products, ritual, coercion, labor, and evidence.
 - Culinary materials become material history when ingredient buying, texture, freshness, animal death, and table judgment reveal social organization.
+- Invisible or airborne materials can also anchor material history when they shape instruments, evidence, bodies, markets, and infrastructure.
 
 ## Connections
 - [[Coffee|Coffee / 咖啡]] and [[QuanqiuShangyin|《全球上瘾》]] - source case for a commodity as protagonist.
@@ -49,3 +52,4 @@ The concept is useful because it keeps scale changes visible. A material object 
 - [[QixiFestival|七夕 / Qixi]], [[TokyoMenghuaLu|《东京梦华录》]], and [[QixiCrossCulturalTransmission]] - festival-object extension added by episode 152.
 - [[ZhonghuaXieshi|《中华蟹史》]], [[FestivalFoodMaterialHistory]], and [[HongLouMeng|《红楼梦》]] - festival-food and crab-history extension added by the Mid-Autumn episode.
 - [[HairBook|《头发》 / Hair]], [[HairAsBiosocialSignal]], and [[GenderedHairRegulation]] - bodily-material extension added by episode 93.
+- [[PollenAsHistoricalObject]], [[PalynologyAsEvidence]], [[HayFeverEnvironmentalHistory]], and [[AirPurifier]] - airborne biological-material extension added by episode 97.

@@ -3718,3 +3718,11 @@ Added source page for the short 蜜獾吃书 reading-list and platform-pointer e
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 4,893 pages. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-18 with 4,694 nodes and 46,331 edges while the wiki scan found 4,893 pages; they found no hub stubs, one fragile bridge (`entities/WangYong` -> `concepts/AIPlusTerminals`), and no isolated communities, but should be refreshed with `build graph` before treating graph findings as final. Semantic lint was unavailable because no provider API key or `LLM_MODEL` is configured for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-18] ingest | 97.花粉症与人类：从尼安德特人（啊啾！）到空气净化器…
+
+Added source page for the 蜜獾吃书 episode on 小塩海平《花粉症与人类》, pollen evolution, microscopy, plant sexual reproduction, palynology, Neanderthal flower-burial speculation, ancient hay-fever clues, Blackley self-experimentation, Victorian hay fever, ragweed ecology, air purifiers, air conditioning, herbicide resistance, and allergy as immune response. Created pages for the book, Koshio Kaihei, Charles Harrison Blackley, Air Purifier, Pollen As Historical Object, Hay Fever Environmental History, Palynology As Evidence, Ragweed Ecological Feedback, Allergy As Immune Response, and Allergy Source Control; updated overview, index, 蜜獾吃书, Charles Darwin, Self-Experimentation, Observation Before Inference, Material History Narrative, Environmental Tradeoff Accounting, Urban Ecology, Invasive Species Management, and Cooling As Public Health. No direct contradiction found; the source extends existing material-history, evidence-discipline, self-experimentation, urban ecology, and environmental-tradeoff branches by making pollen allergy a plant-human-infrastructure system rather than a small personal ailment.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
