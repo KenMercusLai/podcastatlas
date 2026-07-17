@@ -3552,3 +3552,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-17] lint | Wiki health check
 
 Ran health and lint. Health scanned 4,644 pages and passed with no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 4,644 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, no fragile bridges, and no isolated communities. The semantic LiteLLM pass failed because `LLM_MODEL` is not provider-qualified. No `wiki/lint-report.md` file was saved.
+
+## [2026-07-17] ingest | No.210 中国手机江湖·下：从魅族小米锤子，到 OV 华为的新十年 | 中国互联网故事24
+
+Added source page for the Banlatte episode completing the Chinese phone-history branch from 中华酷联 and operator-subsidized handsets through Meizu, Xiaomi, Smartisan, OPPO/vivo, Huawei, Honor, and the mature six-player market. Created pages for Meizu, Huang Zhang, Flyme, Lei Jun, MIUI, Redmi, Smartisan, Luo Yonghao, OPPO, BBK, Coolpad, ZTE, OnePlus, Yu Chengdong, Wang Laichun, Luxshare Precision, Zhou Qunfei, Lens Technology, Internet Phone Model, Offline Handset Channel System, Handset Market Concentration, and Smartphone Brand Supply-Chain Execution; updated overview, index, Banlatte, Chinese Domestic Handset Waves, Operator-Subsidized Handsets, China Handset Supply Chain, Smartphone Operating System Ecosystems, Consumer Electronics Lifecycle, Xiaomi, Huawei, vivo, Honor, Lenovo, Samsung, HTC, HiSilicon, Ren Zhengfei, Duan Yongping, and ATL. No direct contradiction found; the source extends the prior handset-history episode by showing how product taste, software community, channels, chips, supply chain, and organization jointly sorted China's smartphone winners and failed challengers.
+
+## [2026-07-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2211,6 +2211,10 @@
     "title": "BBC",
     "url": "/wiki/entities/bbc/"
   },
+  "BBK": {
+    "title": "BBK",
+    "url": "/wiki/entities/bbk/"
+  },
   "BCG": {
     "title": "BCG",
     "url": "/wiki/entities/bcg/"
@@ -3986,6 +3990,10 @@
   "CoolingAsPublicHealth": {
     "title": "Cooling As Public Health",
     "url": "/wiki/concepts/coolingaspublichealth/"
+  },
+  "Coolpad": {
+    "title": "Coolpad",
+    "url": "/wiki/entities/coolpad/"
   },
   "CopyrightPlatformConflict": {
     "title": "Copyright Platform Conflict",
@@ -6031,6 +6039,10 @@
     "title": "Flow Environment Design",
     "url": "/wiki/concepts/flowenvironmentdesign/"
   },
+  "Flyme": {
+    "title": "Flyme",
+    "url": "/wiki/entities/flyme/"
+  },
   "FocusFly": {
     "title": "FocusFly / 专注飞机",
     "url": "/wiki/entities/focusfly/"
@@ -7151,6 +7163,10 @@
     "title": "Handset-Chip Co-Design",
     "url": "/wiki/concepts/handsetchipcodesign/"
   },
+  "HandsetMarketConcentration": {
+    "title": "Handset Market Concentration",
+    "url": "/wiki/concepts/handsetmarketconcentration/"
+  },
   "HangSengTechIndex": {
     "title": "Hang Seng Tech Index",
     "url": "/wiki/entities/hangsengtechindex/"
@@ -7647,6 +7663,10 @@
     "title": "Huang Bote",
     "url": "/wiki/entities/huangbote/"
   },
+  "HuangZhang": {
+    "title": "Huang Zhang",
+    "url": "/wiki/entities/huangzhang/"
+  },
   "Huaqiangbei": {
     "title": "Huaqiangbei",
     "url": "/wiki/entities/huaqiangbei/"
@@ -8022,6 +8042,10 @@
   "InternetMoralTrial": {
     "title": "Internet Moral Trial / 互联网审判",
     "url": "/wiki/concepts/internetmoraltrial/"
+  },
+  "InternetPhoneModel": {
+    "title": "Internet Phone Model",
+    "url": "/wiki/concepts/internetphonemodel/"
   },
   "InternetRiskAvoidanceTrap": {
     "title": "Internet Risk-Avoidance Trap",
@@ -9227,6 +9251,10 @@
     "title": "Legend As Social History",
     "url": "/wiki/concepts/legendassocialhistory/"
   },
+  "LeiJun": {
+    "title": "Lei Jun",
+    "url": "/wiki/entities/leijun/"
+  },
   "LeiLutai": {
     "title": "Lei Lutai / 雷履泰",
     "url": "/wiki/entities/leilutai/"
@@ -9254,6 +9282,10 @@
   "Lenovo": {
     "title": "联想 / Lenovo",
     "url": "/wiki/entities/lenovo/"
+  },
+  "LensTechnology": {
+    "title": "Lens Technology",
+    "url": "/wiki/entities/lenstechnology/"
   },
   "LeoMirani": {
     "title": "Leo Mirani",
@@ -9791,6 +9823,10 @@
     "title": "罗玄 / Luo Xuan",
     "url": "/wiki/entities/luoxuan/"
   },
+  "LuoYonghao": {
+    "title": "Luo Yonghao",
+    "url": "/wiki/entities/luoyonghao/"
+  },
   "LusunTeleprompter": {
     "title": "芦笋提词器",
     "url": "/wiki/entities/lusunteleprompter/"
@@ -9802,6 +9838,10 @@
   "LutherOklahoma": {
     "title": "Luther, Oklahoma",
     "url": "/wiki/entities/lutheroklahoma/"
+  },
+  "LuxsharePrecision": {
+    "title": "Luxshare Precision",
+    "url": "/wiki/entities/luxshareprecision/"
   },
   "LyndonBJohnson": {
     "title": "Lyndon B. Johnson",
@@ -9822,6 +9862,10 @@
   "MIT": {
     "title": "MIT",
     "url": "/wiki/entities/mit/"
+  },
+  "MIUI": {
+    "title": "MIUI",
+    "url": "/wiki/entities/miui/"
   },
   "MLCoding": {
     "title": "ML Coding",
@@ -10318,6 +10362,10 @@
   "MeituanYouxuan": {
     "title": "美团优选 / Meituan Youxuan",
     "url": "/wiki/entities/meituanyouxuan/"
+  },
+  "Meizu": {
+    "title": "Meizu",
+    "url": "/wiki/entities/meizu/"
   },
   "MelaniaTrump": {
     "title": "Melania Trump",
@@ -11235,6 +11283,10 @@
     "title": "Nvidia",
     "url": "/wiki/entities/nvidia/"
   },
+  "OPPO": {
+    "title": "OPPO",
+    "url": "/wiki/entities/oppo/"
+  },
   "OSLevelContext": {
     "title": "OS-Level Context",
     "url": "/wiki/concepts/oslevelcontext/"
@@ -11307,6 +11359,10 @@
     "title": "Offline Brand Activation",
     "url": "/wiki/concepts/offlinebrandactivation/"
   },
+  "OfflineHandsetChannelSystem": {
+    "title": "Offline Handset Channel System",
+    "url": "/wiki/concepts/offlinehandsetchannelsystem/"
+  },
   "OgasawaraIslands": {
     "title": "小笠原群岛 / Ogasawara Islands",
     "url": "/wiki/entities/ogasawaraislands/"
@@ -11374,6 +11430,10 @@
   "OnePersonCompany": {
     "title": "One-Person Company",
     "url": "/wiki/concepts/onepersoncompany/"
+  },
+  "OnePlus": {
+    "title": "OnePlus",
+    "url": "/wiki/entities/oneplus/"
   },
   "OneShotAICoding": {
     "title": "One-Shot AI Coding",
@@ -12923,6 +12983,10 @@
     "title": "Reddit",
     "url": "/wiki/entities/reddit/"
   },
+  "Redmi": {
+    "title": "Redmi",
+    "url": "/wiki/entities/redmi/"
+  },
   "ReferenceCheckHiring": {
     "title": "Reference-Check Hiring",
     "url": "/wiki/concepts/referencecheckhiring/"
@@ -14175,9 +14239,17 @@
     "title": "Slow Product Market Fit",
     "url": "/wiki/concepts/slowproductmarketfit/"
   },
+  "Smartisan": {
+    "title": "Smartisan",
+    "url": "/wiki/entities/smartisan/"
+  },
   "SmartphoneAIHub": {
     "title": "Smartphone AI Hub",
     "url": "/wiki/concepts/smartphoneaihub/"
+  },
+  "SmartphoneBrandSupplyChainExecution": {
+    "title": "Smartphone Brand Supply-Chain Execution",
+    "url": "/wiki/concepts/smartphonebrandsupplychainexecution/"
   },
   "SmartphoneOperatingSystemEcosystems": {
     "title": "Smartphone Operating System Ecosystems",
@@ -16191,6 +16263,10 @@
     "title": "王俊玉",
     "url": "/wiki/entities/wangjunyu/"
   },
+  "WangLaichun": {
+    "title": "Wang Laichun",
+    "url": "/wiki/entities/wanglaichun/"
+  },
   "WangMian": {
     "title": "王冕",
     "url": "/wiki/entities/wangmian/"
@@ -17007,6 +17083,10 @@
     "title": "有知有行 / Youzhi Youxing",
     "url": "/wiki/entities/youzhiyouxing/"
   },
+  "YuChengdong": {
+    "title": "Yu Chengdong",
+    "url": "/wiki/entities/yuchengdong/"
+  },
   "YuWenyuan": {
     "title": "Yu Wenyuan",
     "url": "/wiki/entities/yuwenyuan/"
@@ -17070,6 +17150,10 @@
   "YuxiIntoHonglou": {
     "title": "玉溪一脉入红楼 / Yuxi Into Honglou",
     "url": "/wiki/concepts/yuxiintohonglou/"
+  },
+  "ZTE": {
+    "title": "ZTE",
+    "url": "/wiki/entities/zte/"
   },
   "ZachEdwards": {
     "title": "Zach Edwards",
@@ -17254,6 +17338,10 @@
   "ZhouMing": {
     "title": "周明",
     "url": "/wiki/entities/zhouming/"
+  },
+  "ZhouQunfei": {
+    "title": "Zhou Qunfei",
+    "url": "/wiki/entities/zhouqunfei/"
   },
   "ZhuBajie": {
     "title": "猪八戒",
@@ -17918,6 +18006,10 @@
   "no-209-jinshang-wangshi-zou-xikou-dao-qiaojia-dayuan-ranhou-mei-le-999367322": {
     "title": "No.209 晋商往事：走西口到乔家大院然后煤了",
     "url": "/wiki/sources/no-209-jinshang-wangshi-zou-xikou-dao-qiaojia-dayuan-ranhou-mei-le-999367322/"
+  },
+  "no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027": {
+    "title": "No.210 中国手机江湖·下：从魅族小米锤子，到 OV 华为的新十年 | 中国互联网故事24",
+    "url": "/wiki/sources/no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027/"
   },
   "opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1": {
     "title": "OPC 的真正难题，是 AI 还没学会替你把东西卖出去",

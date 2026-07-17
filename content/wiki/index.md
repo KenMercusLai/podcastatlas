@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [No.210 中国手机江湖·下：从魅族小米锤子，到 OV 华为的新十年 | 中国互联网故事24](sources/no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027.md) — Banlatte episode on China's smartphone shakeout from 中华酷联, Meizu, Xiaomi, Smartisan, OPPO/vivo, and Huawei into a concentrated market backed by supply-chain firms.
 - [Strait and narrowing: the Iran deal crumbles](sources/strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f.md) — The Intelligence episode on the U.S.-Iran memorandum collapse over Strait of Hormuz safe passage, Indian government website failures, and adult summer camps as paid offline social infrastructure.
 - [Momenta IPO后再访曹旭东：就是想做没有尽头的AI](sources/momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1.md) — LateTalk interview with Cao Xudong on Momenta's IPO-era autonomous-driving strategy, city NOA competition, data flywheel, physical AI, robot expansion, and low-cost short-cycle organization method.
 - [Building things and breaking things in China (Summer School World Tour)](sources/building-things-and-breaking-things-in-china-summer-school-world-tour.md) — Planet Money Summer School episode with Dan Wang on China as an engineering state, real-estate debt, infrastructure malinvestment, youth unemployment, low redistribution, and the U.S. lesson to build with regulation.
@@ -445,6 +446,24 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [BBK](entities/BBK.md) — Duan Yongping's consumer-electronics company system that later produced the OPPO and vivo smartphone routes.
+- [Coolpad](entities/Coolpad.md) — "中华酷联" carrier-phone company whose dual-SIM technical strengths became harder to sustain after operator subsidies retreated.
+- [Flyme](entities/Flyme.md) — Meizu's smartphone software identity and domestic Android customization case.
+- [Huang Zhang](entities/HuangZhang.md) — Meizu founder whose enthusiast product culture shaped early Chinese smartphone community and design.
+- [Lei Jun](entities/LeiJun.md) — Xiaomi founder whose MIUI-first path, 1999-yuan Xiaomi 1, and Redmi line anchor the internet-phone model.
+- [Lens Technology](entities/LensTechnology.md) — Zhou Qunfei's cover-glass supplier used by episode 210 to show the hidden component side of the smartphone era.
+- [Luo Yonghao](entities/LuoYonghao.md) — Smartisan founder used by episode 210 to contrast founder taste and public attention with supply-chain execution.
+- [Luxshare Precision](entities/LuxsharePrecision.md) — Wang Laichun's consumer-electronics supplier, moving from connectors into major Apple-era assembly and component work.
+- [Meizu](entities/Meizu.md) — Early Chinese enthusiast smartphone company moving from MP3 players to the M8, Flyme, and community-led product culture.
+- [MIUI](entities/MIUI.md) — Xiaomi's Android-based software system that created users and community before Xiaomi launched its own phones.
+- [OnePlus](entities/OnePlus.md) — OPPO-linked enthusiast and overseas smartphone brand later integrated more fully with OPPO teams.
+- [OPPO](entities/OPPO.md) — BBK-rooted smartphone leader whose offline retail, agent, sales, advertising, and service system anchored the OV route.
+- [Redmi](entities/Redmi.md) — Xiaomi's low-price smartphone line that pushed the internet-phone model into shanzhai and low-end smartphone territory.
+- [Smartisan](entities/Smartisan.md) — Luo Yonghao's design-led smartphone company, remembered for interaction taste and constrained by delivery and supply-chain problems.
+- [Wang Laichun](entities/WangLaichun.md) — Luxshare Precision founder used by episode 210 as a supply-chain entrepreneur behind the phone era.
+- [Yu Chengdong](entities/YuChengdong.md) — Huawei executive who pushed Huawei phones from operator-label volume toward owned brands, high-end devices, and Kirin-backed differentiation.
+- [Zhou Qunfei](entities/ZhouQunfei.md) — Lens Technology founder whose glass-processing company became important in touchscreen-era phone supply chains.
+- [ZTE](entities/ZTE.md) — "中华酷联" telecom and smartphone company that benefited from carrier contracts before consumer-brand competition intensified.
 - [Leo Mirani](entities/LeoMirani.md) — The Intelligence participant explaining Indian government website failures, public-service usability, and why authority matters in digital infrastructure.
 - [National Informatics Centre](entities/NationalInformaticsCentre.md) — Indian government technology organization used as the episode's example of competent implementation constrained by bureaucratic demands.
 - [Aadhaar](entities/Aadhaar.md) — Indian biometric ID infrastructure used as a counterexample to weak routine government websites.
@@ -2817,6 +2836,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Handset Market Concentration](concepts/HandsetMarketConcentration.md) — Smartphone market-structure outcome where China's many phone brands consolidated into a small set of top players.
+- [Internet Phone Model](concepts/InternetPhoneModel.md) — Online/community/direct-sales smartphone route associated with Xiaomi, MIUI, Redmi, Honor, Smartisan, and OnePlus.
+- [Offline Handset Channel System](concepts/OfflineHandsetChannelSystem.md) — OPPO/vivo-style retail, agent, sales, advertising, and after-sales model for lower-tier and physical-store smartphone competition.
+- [Smartphone Brand Supply-Chain Execution](concepts/SmartphoneBrandSupplyChainExecution.md) — Episode 210's execution frame connecting product taste, software, components, production, inventory, channels, and service.
 - [Chokepoint Shipping Confidence](concepts/ChokepointShippingConfidence.md) — Practical distinction between official access to a strategic waterway and shipowner or insurer willingness to use it.
 - [Government Website Usability](concepts/GovernmentWebsiteUsability.md) — Public-service software problem where paper-process logic, weak ownership, and bad requirements make government websites hard to use.
 - [Bureaucratic Risk Avoidance](concepts/BureaucraticRiskAvoidance.md) — Incentive pattern where procedural compliance and blame avoidance can matter more than service quality.
