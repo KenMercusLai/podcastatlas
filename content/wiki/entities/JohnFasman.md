@@ -2,8 +2,8 @@
 title: "John Fasman"
 type: entity
 tags: [person, journalism, travel]
-sources: [marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]
-last_updated: 2026-07-09
+sources: [marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]
+last_updated: 2026-07-17
 ---
 
 # John Fasman
@@ -20,6 +20,8 @@ The source uses his road-trip reporting to turn a travel feature into a cultural
 
 [[peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]] continues his Route 66 reporting in Oklahoma through the [[ThreateFillingStation]]. The segment uses [[EdwardThreate]], the [[GreenBook]], and Black travel constraints to challenge the simple road-freedom version of [[Route66NostalgiaTourism]].
 
+[[putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]] closes his Route 66 sequence in [[ShamrockTexas]]. Through [[AletaStone]] and the [[UDropInn]], Fasman turns the final stop into a case for [[InterstateBypassEconomics]]: the faster interstate damaged Route 66 towns before nostalgia, restoration, and *Cars* recognition created a different visitor economy.
+
 ## Connections
 - [[Route66]] - main subject of his segment.
 - [[Route66NostalgiaTourism]] - concept his reporting grounds.
@@ -27,3 +29,4 @@ The source uses his road-trip reporting to turn a travel feature into a cultural
 - [[TheIntelligence]] - podcast context.
 - [[AmericanGiantsMuseum]], [[LeeWoods]], and [[RoadsideAdvertisingSpectacle]] - later museum and advertising-history segment.
 - [[BlackTravelInfrastructure]], [[GreenBook]], [[ThreateFillingStation]], and [[EdwardThreate]] - Oklahoma segment on safe Black travel.
+- [[ShamrockTexas]], [[UDropInn]], [[AletaStone]], and [[InterstateBypassEconomics]] - final Route 66 segment on bypass damage and revival.

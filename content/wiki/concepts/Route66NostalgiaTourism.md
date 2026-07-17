@@ -2,8 +2,8 @@
 title: "Route 66 Nostalgia Tourism"
 type: concept
 tags: [tourism, culture, local-economy]
-sources: [marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]
-last_updated: 2026-07-09
+sources: [marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]
+last_updated: 2026-07-17
 ---
 
 # Route 66 Nostalgia Tourism
@@ -18,6 +18,8 @@ The concept shows how infrastructure can outlive its original utility. Once inte
 
 [[peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]] adds a corrective to nostalgia. The [[ThreateFillingStation]] segment shows that the road's freedom story was racially uneven: Black travellers needed [[GreenBook]] knowledge, safe businesses, and [[BlackTravelInfrastructure]] because many ordinary stops were closed or dangerous to them.
 
+[[putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]] adds the bypass-economics layer through [[ShamrockTexas]] and the [[UDropInn]]. The segment shows that nostalgia tourism is not simply love for an old road; it is partly a replacement economy after interstate highways diverted ordinary traffic away from towns that had depended on Route 66.
+
 ## Key Claims
 - A route can retain value after decommissioning if it becomes a recognizable cultural story.
 - Nostalgia tourism depends on signs, shops, outposts, town branding, anniversary events, and repeat visitors.
@@ -25,6 +27,7 @@ The concept shows how infrastructure can outlive its original utility. Once inte
 - Small towns can convert bypassed transport geography into deliberate travel demand, but only if enough businesses keep the route legible and visitable.
 - Old West performance, motorcycles, open roads, and desert scenery make the western stretch feel like a mythic route rather than a normal highway.
 - Honest Route 66 memory has to include exclusion, danger, and refuge as well as mobility and roadside romance.
+- Restoration, film references, and international visitors can revive attention, but they do not recreate the original through-traffic economy that bypasses destroyed.
 
 ## Connections
 - [[Route66]] - route and cultural object grounding the concept.
@@ -33,3 +36,4 @@ The concept shows how infrastructure can outlive its original utility. Once inte
 - [[TheIntelligence]] - source podcast context.
 - [[AmericanGiantsMuseum]] and [[RoadsideAdvertisingSpectacle]] - advertising-history layer added by the later segment.
 - [[BlackTravelInfrastructure]], [[GreenBook]], and [[ThreateFillingStation]] - segregation-era travel layer added by the Peace fire episode.
+- [[InterstateBypassEconomics]], [[ShamrockTexas]], [[UDropInn]], and [[AletaStone]] - bypass and revival layer added by the final Route 66 segment.

@@ -203,6 +203,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [142. 产品体验学日本、全球营销学韩国](sources/142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1.md) — 疯投圈 episode on Japan as product-experience benchmark, Korea as global-marketing and fan-economy benchmark, and cases including Kiyosumi-Shirakawa, Tokyo Disney, Sanrio, Pop Mart, Kyoto, inbound tourism, and China's efficiency tradeoffs.
 - [He demoted his SaaS to sell a service and 4x'd revenue in 12 months](sources/he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months.md) — The SaaS Podcast episode with Farzad Rashidi on Responna's pivot from self-serve outreach SaaS to a done-for-you AI visibility service built around outcomes, publisher relationships, and GEO execution.
 - [Peace fire: further US-Iran strikes](sources/peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf.md) — The Intelligence episode on renewed U.S.-Iran strikes, stalled Hormuz traffic, Khamenei funeral hardliners, Asian filial-piety laws, and Black Route 66 travel history at the Threate Filling Station.
+- [Putin's options: an oligarch speaks out](sources/putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210.md) — The Intelligence episode on Andrey Melnichenko, Russian elite discontent, Putin's escalation-or-inclusion dilemma, Kyiv air-defense saturation, Patriot scarcity, and Route 66 bypass economics in Shamrock.
 - [269.真人短剧的下一战：与AI共生、工业化和好故事](sources/269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt.md) — 乱翻书 episode with Hou Chao and Li Jiajia on live-action short drama after the AI shock, industrialized production, Hongguo completion metrics, actor/story nuance, and AI-assisted workflow management.
 - [Advice Line with Jeni Britton of Jeni's Splendid Ice Creams (2025)](sources/advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e.md) — How I Built This Advice Line episode with Jeni Britton on Jesse and Ben's fries, Jaju Pierogi, Ube.co, retail sampling, CPG messaging, category incrementality, founder control, and stage-appropriate communications.
 - [Vol.264 把世界杯作为方法](sources/vol-264-ba-shijiebei-zuowei-fangfa-999416048.md) — 商业就是这样 episode using the 2026 FIFA World Cup to analyze Chinese platform rights, offline brand activation, sponsor globalization, technology partnerships, and football lifestyle consumption.
@@ -1670,6 +1671,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Crimea](entities/Crimea.md) — Peninsula framed as both Black Sea military base and symbolic target in Ukraine's war visibility strategy.
 - [Volodymyr Zelensky](entities/VolodymyrZelensky.md) — Ukrainian leader whose escalation warning frames the episode's strikes on Crimea, Moscow, and Russian infrastructure.
 - [Vladimir Putin](entities/VladimirPutin.md) — Russian leader whose Crimea-linked war narrative and exit problem are central to the episode's Russia segment.
+- [Andrey Melnichenko](entities/AndreyMelnichenko.md) — Russian industrial oligarch whose sanctions exposure, attacked factories, and survival logic ground the wiki's Russian elite discontent branch.
+- [Arkady Ostrovsky](entities/ArkadyOstrovsky.md) — Economist journalist whose long conversations with Melnichenko frame the source's insider-pressure account of Russia's war dilemma.
+- [Oliver Carroll](entities/OliverCarroll.md) — Reporter describing Kyiv under intensified Russian drone and missile attacks, grounding the air-defense saturation branch.
+- [Kyiv](entities/Kyiv.md) — Ukrainian capital used by the source to show civilian endurance under larger combined air attacks and interceptor scarcity.
+- [Patriot Missile System](entities/PatriotMissileSystem.md) — Scarce anti-ballistic air-defense layer in the source's Ukraine air-war segment.
 - [Alan Greenspan](entities/AlanGreenspan.md) — Former Federal Reserve chair used to examine central-bank independence, crisis management, and later reputational reassessment.
 - [Obama Presidential Center](entities/ObamaPresidentialCenter.md) — Barack Obama's privately run presidential center on Chicago's South Side, used as a case in presidential museums, public memory, and quasi-imperial aura.
 - [Reform UK](entities/ReformUK.md) — Right-wing UK party whose Makerfield defeat and wider pressure from Labour, Conservatives, and Restore Britain signal a possible weakening of Reform's dominance.
@@ -2091,6 +2097,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Threate Filling Station](entities/ThreateFillingStation.md) — Restored Black-owned Route 66 filling station in Luther, Oklahoma, presented as a safe haven for Black travellers.
 - [Edward Threate](entities/EdwardThreate.md) — Family representative explaining the Threate Filling Station's role as a Jim Crow-era refuge on Route 66.
 - [Luther, Oklahoma](entities/LutherOklahoma.md) — Route 66 town where the Threate Filling Station anchors the episode's Black travel-history segment.
+- [Aleta Stone](entities/AletaStone.md) — Volunteer guide at Shamrock's U Drop Inn, explaining Route 66 decline after the interstate and later nostalgia tourism.
+- [Shamrock, Texas](entities/ShamrockTexas.md) — Route 66 town used to show interstate bypass damage and later heritage revival.
+- [U Drop Inn](entities/UDropInn.md) — Restored Shamrock gas station and diner that anchors the source's final Route 66 segment.
 - [Telangana](entities/Telangana.md) — Indian state used as the episode's opening case for filial-piety wage-transfer law.
 - [India](entities/India.md) — Country context for Telangana's filial-piety law and elder-abuse protections.
 - [Singapore](entities/Singapore.md) — Early Asian filial-piety law case from the episode's elder-care segment.
@@ -3208,6 +3217,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Low-Cost Drone Warfare](concepts/LowCostDroneWarfare.md) — Warfare pattern where cheap, numerous, adaptable drones create strategic effects through range, volume, attrition, and defensive cost pressure.
 - [Commercial Off-The-Shelf Weaponization](concepts/CommercialOffTheShelfWeaponization.md) — Conversion of ordinary commercial parts, materials, electronics, and control links into useful military systems.
 - [Drone Defense Economics](concepts/DroneDefenseEconomics.md) — Cost and scarcity problem where cheap drones force defenders to spend expensive interceptors, attention, and short-range defense capacity.
+- [Air Defense Saturation](concepts/AirDefenseSaturation.md) — Pressure pattern where concentrated drone and missile salvos strain defenses even when many incoming systems are intercepted.
 - [Counter-Drone Layered Defense](concepts/CounterDroneLayeredDefense.md) — Multi-layer defense approach using jamming, sensors, classification, short-range interceptors, and cost discipline against adaptive drone threats.
 - [Drone Decoy Economics](concepts/DroneDecoyEconomics.md) — Use of cheap or unarmed drone-like systems to force costly, fast, and imperfect defensive decisions.
 - [AI Grief Bots](concepts/AIGriefBots.md) — Post-mortem AI avatars or conversation-like simulations of deceased people, raising consent, dignity, privacy, grief, and access questions.
@@ -3600,6 +3610,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frontier Model Release Governance](concepts/FrontierModelReleaseGovernance.md) — Review and clearance process for powerful AI models before broad release, especially under cyber-risk concerns.
 - [Concert Residency Economics](concepts/ConcertResidencyEconomics.md) — Shift from many-city touring toward longer runs in fewer global cities, concentrating fan travel and event spending.
 - [War Visibility Strategy](concepts/WarVisibilityStrategy.md) — Wartime pattern where strikes and disruption make a conflict's costs visible to the adversary's public, elites, and logistics system.
+- [Russian Elite Discontent](concepts/RussianEliteDiscontent.md) — Insider-pressure pattern where sanctioned or threatened Russian elites treat the Ukraine war as a survival and state-direction problem.
+- [Authoritarian War Exit Dilemma](concepts/AuthoritarianWarExitDilemma.md) — Trap where a ruler who started a costly war must choose between escalation and repression or a scaled-back exit that risks looking like defeat.
 - [Index Fund Automatic Exposure](concepts/IndexFundAutomaticExposure.md) — Risk pattern where benchmark inclusion forces passive funds and pensions to hold a company regardless of savers' direct valuation judgment.
 - [Central Bank Independence](concepts/CentralBankIndependence.md) — Monetary-governance principle that central-bank policy should resist short-term political pressure while still being judged by later outcomes.
 - [Iran Postwar Economic Relief](concepts/IranPostwarEconomicRelief.md) — Economic package around blockade relief, sanctions relief, asset unfreezing, and a proposed reconstruction fund after the U.S.-Iran memorandum.
@@ -3937,6 +3949,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joint Custody Reform](concepts/JointCustodyReform.md) — Family-law shift toward continuing post-divorce parental responsibility, grounded by Japan's reform.
 - [Clean Break Divorce Model](concepts/CleanBreakDivorceModel.md) — Divorce norm where one parent becomes effectively absent from the child's life after household separation.
 - [Route 66 Nostalgia Tourism](concepts/Route66NostalgiaTourism.md) — Pattern where a decommissioned highway survives as a chosen memory route and roadside tourism economy.
+- [Interstate Bypass Economics](concepts/InterstateBypassEconomics.md) — Local-economy pattern where faster highways divert ordinary traffic from older road towns, leaving heritage tourism to replace through-traffic.
 - [NATO Alliance Credibility](concepts/NATOAllianceCredibility.md) — Deterrence trust problem where alliance response confidence, British capability, and usable European force matter as much as spending targets or treaty language.
 - [European Defense Autonomy](concepts/EuropeanDefenseAutonomy.md) — Question of whether European NATO members and Britain can defend themselves without American command, intelligence, satellites, and strike integration.
 - [Russian Hybrid Pressure](concepts/RussianHybridPressure.md) — Grey-zone pressure through drones, airspace violations, sabotage, disinformation, and ambiguous tests below open war.

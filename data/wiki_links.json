@@ -1327,6 +1327,10 @@
     "title": "Air China / 国航",
     "url": "/wiki/entities/airchina/"
   },
+  "AirDefenseSaturation": {
+    "title": "Air Defense Saturation",
+    "url": "/wiki/concepts/airdefensesaturation/"
+  },
   "AirJelly": {
     "title": "AirJelly",
     "url": "/wiki/entities/airjelly/"
@@ -1374,6 +1378,10 @@
   "Alerta": {
     "title": "Alerta",
     "url": "/wiki/entities/alerta/"
+  },
+  "AletaStone": {
+    "title": "Aleta Stone",
+    "url": "/wiki/entities/aletastone/"
   },
   "AlexBerman": {
     "title": "Alex Berman",
@@ -1594,6 +1602,10 @@
   "AndrewJohnson": {
     "title": "Andrew Johnson",
     "url": "/wiki/entities/andrewjohnson/"
+  },
+  "AndreyMelnichenko": {
+    "title": "Andrey Melnichenko",
+    "url": "/wiki/entities/andreymelnichenko/"
   },
   "Android": {
     "title": "Android",
@@ -1843,6 +1855,10 @@
     "title": "亚里士多德《诗学》第二卷 / Aristotle's Poetics Book II",
     "url": "/wiki/entities/aristotlepoeticsbooktwo/"
   },
+  "ArkadyOstrovsky": {
+    "title": "Arkady Ostrovsky",
+    "url": "/wiki/entities/arkadyostrovsky/"
+  },
   "Arkema": {
     "title": "Arkema",
     "url": "/wiki/entities/arkema/"
@@ -2002,6 +2018,10 @@
   "AuthorMythDeflation": {
     "title": "Author Myth Deflation",
     "url": "/wiki/concepts/authormythdeflation/"
+  },
+  "AuthoritarianWarExitDilemma": {
+    "title": "Authoritarian War Exit Dilemma",
+    "url": "/wiki/concepts/authoritarianwarexitdilemma/"
   },
   "AutismAsHumanDifference": {
     "title": "Autism As Human Difference",
@@ -7703,6 +7723,10 @@
     "title": "Interpretation And Overinterpretation",
     "url": "/wiki/concepts/interpretationandoverinterpretation/"
   },
+  "InterstateBypassEconomics": {
+    "title": "Interstate Bypass Economics",
+    "url": "/wiki/concepts/interstatebypasseconomics/"
+  },
   "InvasiveSpeciesManagement": {
     "title": "Invasive Species Management",
     "url": "/wiki/concepts/invasivespeciesmanagement/"
@@ -8610,6 +8634,10 @@
   "KurtStenn": {
     "title": "Kurt Stenn / 库尔特·斯坦",
     "url": "/wiki/entities/kurtstenn/"
+  },
+  "Kyiv": {
+    "title": "Kyiv",
+    "url": "/wiki/entities/kyiv/"
   },
   "KyleVogt": {
     "title": "Kyle Vogt",
@@ -10839,6 +10867,10 @@
     "title": "Oliver",
     "url": "/wiki/entities/oliver/"
   },
+  "OliverCarroll": {
+    "title": "Oliver Carroll",
+    "url": "/wiki/entities/olivercarroll/"
+  },
   "OliverMorton": {
     "title": "Oliver Morton",
     "url": "/wiki/entities/olivermorton/"
@@ -11250,6 +11282,10 @@
   "PatrickCollison": {
     "title": "Patrick Collison",
     "url": "/wiki/entities/patrickcollison/"
+  },
+  "PatriotMissileSystem": {
+    "title": "Patriot Missile System",
+    "url": "/wiki/entities/patriotmissilesystem/"
   },
   "PaulBuchheit": {
     "title": "Paul Buchheit",
@@ -12811,6 +12847,10 @@
     "title": "Russia",
     "url": "/wiki/entities/russia/"
   },
+  "RussianEliteDiscontent": {
+    "title": "Russian Elite Discontent",
+    "url": "/wiki/concepts/russianelitediscontent/"
+  },
   "RussianHybridPressure": {
     "title": "Russian Hybrid Pressure",
     "url": "/wiki/concepts/russianhybridpressure/"
@@ -13262,6 +13302,10 @@
   "ShameBasedSelfConcept": {
     "title": "Shame-Based Self-Concept",
     "url": "/wiki/concepts/shamebasedselfconcept/"
+  },
+  "ShamrockTexas": {
+    "title": "Shamrock, Texas",
+    "url": "/wiki/entities/shamrocktexas/"
   },
   "Shanbin": {
     "title": "Shanbin",
@@ -15042,6 +15086,10 @@
   "UCSD": {
     "title": "UCSD",
     "url": "/wiki/entities/ucsd/"
+  },
+  "UDropInn": {
+    "title": "U Drop Inn",
+    "url": "/wiki/entities/udropinn/"
   },
   "UEFA": {
     "title": "UEFA",
@@ -17206,6 +17254,10 @@
   "peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf": {
     "title": "Peace fire: further US-Iran strikes",
     "url": "/wiki/sources/peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf/"
+  },
+  "putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210": {
+    "title": "Putin's options: an oligarch speaks out",
+    "url": "/wiki/sources/putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210/"
   },
   "quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec": {
     "title": "全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集",

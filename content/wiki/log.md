@@ -3393,6 +3393,10 @@ Added source page for The Intelligence episode on Nigel Farage versus Count Binf
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-17] ingest | Putin's options: an oligarch speaks out
+
+Added source page for The Intelligence episode on Andrey Melnichenko, Russian elite discontent, Putin's escalation-or-inclusion dilemma, Kyiv under intensified air attack, Patriot interceptor scarcity, and the Route 66 stop in Shamrock, Texas. Created pages for Andrey Melnichenko, Arkady Ostrovsky, Oliver Carroll, Kyiv, Patriot Missile System, Aleta Stone, Shamrock, Texas, U Drop Inn, Russian Elite Discontent, Authoritarian War Exit Dilemma, Air Defense Saturation, and Interstate Bypass Economics; updated overview, index, The Intelligence, Economist Podcasts, Russia, Ukraine, Vladimir Putin, Volodymyr Zelensky, War Visibility Strategy, Asymmetric Infrastructure Attack, Low-Cost Drone Warfare, Drone Defense Economics, Starlink, Route 66, John Fasman, and Route 66 Nostalgia Tourism. No direct contradiction found; the source extends the existing war-visibility branch from infrastructure and public confidence into elite survival politics while adding a separate air-defense saturation layer for Kyiv.
+
 ## [2026-07-17] ingest | Why state AGs are taking Meta to court
 
 Added source page for the Marketplace Tech episode with Gaia Bernstein on state attorneys general suing Meta over alleged addictive design in Facebook and Instagram, the $1.4 trillion damages claim, COPPA, disgorgement, Big Tobacco-style causation disputes, and AI companion attention risks. Created pages for Gaia Bernstein, Seton Hall University, Facebook, COPPA, State AG Platform Litigation, Big Tobacco Platform Analogy, Platform Damages And Disgorgement, Social Media Causation Science Wars, and AI Companion Attention Risk; updated overview, index, Marketplace Tech, Meta, Instagram, Megan McCarty-Corino, California, Social Media Product Liability, Addictive Interaction Design, AI Friend Products, AI Companion Active Memory, Teen Chatbot Mental Health Risk, and Sycophantic AI Companion Risk. No direct contradiction found; the source extends the existing social-media product-liability branch from a negligence verdict into state-AG public-health litigation and qualifies AI companion design by treating memory and sycophantic affirmation as possible attention-economy risk multipliers.
@@ -3412,6 +3416,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-17] ingest | Trying to stay off your phone? There's an app for that
 
 Added source page for the Marketplace Tech episode on the digital detox market, Clearspace, app-blocking devices, lockboxes, and Matter Neuroscience's heavy phone case. Created pages for Clearspace, Maria Hollenhorst, Tanya Sujohn, London College of Communication, Ben Goldhersh, Matter Neuroscience, Digital Detox Economy, and Screen Time Friction; updated overview, index, Marketplace Tech, Addictive Interaction Design, and Attention Industrialization. No direct contradiction found; the source extends the attention-design branch by showing consumers paying for counter-design when phones and apps are designed to be hard to stop using.
+
+## [2026-07-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-17] lint | Wiki health check
 
