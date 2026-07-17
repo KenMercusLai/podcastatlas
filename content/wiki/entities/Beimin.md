@@ -2,11 +2,13 @@
 title: "北明 / 北民"
 type: entity
 tags: [host, podcast, books]
-sources: [kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080, 168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 42-anduo-fengqi-yu-qingping-zhi-mo-616391638, jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]
+sources: [99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080, 168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 42-anduo-fengqi-yu-qingping-zhi-mo-616391638, jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]
 last_updated: 2026-07-18
 ---
 
 # 北明 / 北民
+
+[[99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220]] adds 北明's co-host role in the show's Japanese mystery branch. The source has him help position [[MukashiMukashiAruTokoroNiShitaiGaArimashita|《很久很久以前，在某个地方有一具尸体》]] as [[SettingBasedMystery|设定系推理]] rather than realist social-school mystery, and as a playful case where [[FolkTaleMysteryRewriting|民间故事推理改写]] turns familiar Japanese tales into [[HonkakuMystery|本格推理]] machinery.
 
 [[kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080]] adds a brief current-status mention: 北明 is said to be translating [[CarlSagan|Carl Sagan]]'s [[TheDemonHauntedWorld|《魔鬼出没的世界》]] and preparing to play games with friends. The source uses this as a light closing rather than a full Sagan discussion, but it foreshadows the later, fuller skepticism branch in [[185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]].
 

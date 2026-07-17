@@ -2,7 +2,7 @@
 title: "Story Motif Transmission"
 type: concept
 tags: [folklore, mythology, narrative, transmission]
-sources: [90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]
+sources: [99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]
 last_updated: 2026-07-18
 ---
 
@@ -20,6 +20,8 @@ Story motif transmission is the source's frame for how story patterns travel, re
 
 [[95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]] adds the [[UrbanLegend|都市传说]] version. Ovened children, microwave-pet variants, hook-handed attackers, hospital mishaps, mushroom misunderstandings, impossible pregnancies, contaminated drinks, and corporate rumors show that motifs do not only travel through old tales; they also mutate through modern media, jokes, schools, brands, and FOAF-style credibility.
 
+[[99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220]] adds a Japanese folk-tale mystery version. The episode is less concerned with proving how [[IssunBoshi|一寸法师]] or [[SaruKaniGassen|猿蟹合战]] traveled than with how stable motifs can become shared rule material for [[FolkTaleMysteryRewriting|民间故事推理改写]]: size change, magic objects, animal helpers, revenge roles, and shapeshifting become puzzle constraints inside [[SettingBasedMystery|设定系推理]].
+
 The concept is adjacent to [[MythicSourceLayering]] and [[AccretiveTextFormation]], but it focuses less on a single figure or text and more on portable narrative units: rescue, loss-turned-good, half-human rider, miraculous animal helper, or world-crossing messenger.
 
 ## Key Claims
@@ -32,6 +34,7 @@ The concept is adjacent to [[MythicSourceLayering]] and [[AccretiveTextFormation
 - Tang strange tales show how motif comparison can travel through trade goods, foreign merchants, religious figures, and animal-spirit stories without becoming a single-origin claim.
 - [[YeXian|《叶限》]] shows how a famous tale can be useful for comparison even when the source does not settle whether resemblance means borrowing, shared structure, or later recombination.
 - Urban legends show that modern motifs can spread quickly because the setting feels local, not because the story has a stable named source.
+- In mystery rewriting, a motif can function less as transmission evidence and more as an agreed rule that makes deduction possible.
 
 ## Connections
 - [[YeXian|《叶限》]], [[YouyangZazu|《酉阳杂俎》]], and [[TangMiscellanyArchiveValue]] - episode 90's Cinderella-like tale extension.
@@ -43,3 +46,4 @@ The concept is adjacent to [[MythicSourceLayering]] and [[AccretiveTextFormation
 - [[InterpretationAndOverinterpretation]] and [[MythAsHistoricalEvidence]] - evidence cautions.
 - [[PiedPiperOfHamelin|花衣魔笛手]], [[EvidenceBoundFolkloreInquiry]], and [[LegendAsSocialHistory]] - episode 111's extension into motif comparison constrained by local evidence.
 - [[UrbanLegend|都市传说]] - episode 95's modern rumor and anxiety extension.
+- [[IssunBoshi|一寸法师]], [[SaruKaniGassen|猿蟹合战]], [[FolkTaleMysteryRewriting|民间故事推理改写]], and [[SettingBasedMystery|设定系推理]] - episode 99's Japanese folk-tale mystery extension.

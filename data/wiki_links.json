@@ -515,6 +515,10 @@
     "title": "98.自卑与超越：向前看，前方有希望",
     "url": "/wiki/sources/98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507/"
   },
+  "99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220": {
+    "title": "99.很久很久以前，妖怪也推理啊…",
+    "url": "/wiki/sources/99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220/"
+  },
   "A7A5": {
     "title": "A7A5",
     "url": "/wiki/entities/a7a5/"
@@ -1926,6 +1930,10 @@
   "Anybots": {
     "title": "Anybots",
     "url": "/wiki/entities/anybots/"
+  },
+  "AoyagiAito": {
+    "title": "青柳碧人 / Aoyagi Aito",
+    "url": "/wiki/entities/aoyagiaito/"
   },
   "ApexDigital": {
     "title": "APEX Digital",
@@ -6359,6 +6367,10 @@
     "title": "Folk Religion Disaster Politics",
     "url": "/wiki/concepts/folkreligiondisasterpolitics/"
   },
+  "FolkTaleMysteryRewriting": {
+    "title": "民间故事推理改写 / Folk-Tale Mystery Rewriting",
+    "url": "/wiki/concepts/folktalemysteryrewriting/"
+  },
   "FolkloreTraumaEncoding": {
     "title": "Folklore Trauma Encoding",
     "url": "/wiki/concepts/folkloretraumaencoding/"
@@ -7915,6 +7927,10 @@
     "title": "红色火箭 / Hongse Huojian",
     "url": "/wiki/entities/hongsehuojianindextool/"
   },
+  "HonkakuMystery": {
+    "title": "本格推理 / Honkaku Mystery",
+    "url": "/wiki/concepts/honkakumystery/"
+  },
   "Honor": {
     "title": "Honor",
     "url": "/wiki/entities/honor/"
@@ -8598,6 +8614,10 @@
   "IsraelAcabla": {
     "title": "Israel Acabla",
     "url": "/wiki/entities/israelacabla/"
+  },
+  "IssunBoshi": {
+    "title": "一寸法师 / Issun Boshi",
+    "url": "/wiki/entities/issunboshi/"
   },
   "Istanbul": {
     "title": "Istanbul / 伊斯坦布尔",
@@ -11386,6 +11406,10 @@
   "MujtabaKhamenei": {
     "title": "Mujtaba Khamenei",
     "url": "/wiki/entities/mujtabakhamenei/"
+  },
+  "MukashiMukashiAruTokoroNiShitaiGaArimashita": {
+    "title": "《很久很久以前，在某个地方有一具尸体》",
+    "url": "/wiki/entities/mukashimukashiarutokoronishitaigaarimashita/"
   },
   "MultiAgentCollaboration": {
     "title": "Multi-Agent Collaboration",
@@ -14271,6 +14295,10 @@
     "title": "Sarah Gonzalez",
     "url": "/wiki/entities/sarahgonzalez/"
   },
+  "SaruKaniGassen": {
+    "title": "猿蟹合战 / Saru Kani Gassen",
+    "url": "/wiki/entities/sarukanigassen/"
+  },
   "SashaNauta": {
     "title": "Sasha Nauta",
     "url": "/wiki/entities/sashanauta/"
@@ -14550,6 +14578,10 @@
   "SetonHallUniversity": {
     "title": "Seton Hall University",
     "url": "/wiki/entities/setonhalluniversity/"
+  },
+  "SettingBasedMystery": {
+    "title": "设定系推理 / Setting-Based Mystery",
+    "url": "/wiki/concepts/settingbasedmystery/"
   },
   "SevenGeases": {
     "title": "《七咒赋》 / The Seven Geases",

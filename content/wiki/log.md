@@ -3734,3 +3734,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-18] ingest | 99.很久很久以前，妖怪也推理啊…
+
+Added source page for the 蜜獾吃书 episode on 青柳碧人《很久很久以前，在某个地方有一具尸体》, 设定系推理, 本格推理, Japanese folk-tale rewriting, 一寸法师 alibi mechanics, 猿蟹合战 logic-flow reversal, magical rule-world clues, and puzzle-forward reading expectations. Created pages for 青柳碧人, 《很久很久以前，在某个地方有一具尸体》, 一寸法师, 猿蟹合战, Setting-Based Mystery, Folk-Tale Mystery Rewriting, and Honkaku Mystery; updated overview, index, 蜜獾吃书, 秦总, 北明, Puzzle-Snack Mystery, Story Motif Transmission, Closed-Circle Mystery, Observation Before Inference, and Absurd Rationality. No direct contradiction found; the source clarifies that non-realistic folk-tale premises can still support fair deduction when the rules are explicit and consistently applied.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,8 +2,8 @@
 title: "Absurd Rationality"
 type: concept
 tags: [literature, humor, reasoning, fantasy]
-sources: [180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112, 73-xujing-qitan-kongbu-youmo-zuihaode-kesulu-675865061]
-last_updated: 2026-07-15
+sources: [99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112, 73-xujing-qitan-kongbu-youmo-zuihaode-kesulu-675865061]
+last_updated: 2026-07-18
 ---
 
 # Absurd Rationality
@@ -22,6 +22,8 @@ The point is not that the stories are irrational. Their humor depends on local r
 
 [[73-xujing-qitan-kongbu-youmo-zuihaode-kesulu-675865061]] adds a weird-fiction version through [[ClarkAshtonSmith|Clark Ashton Smith / C.A.史密斯]]. In [[SevenGeases|《七咒赋》]], supernatural beings refuse or transfer a cursed human for practical reasons; in [[TheDoorToSaturn|《通往土星之门》]], exile, alien body norms, and mistaken prophecy are handled with almost administrative calm. The impossible premise remains frightening, but the comedy comes from local procedural sense inside cosmic absurdity.
 
+[[99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220]] adds a mystery-specific neighbor through [[SettingBasedMystery|设定系推理]]. [[MukashiMukashiAruTokoroNiShitaiGaArimashita|《很久很久以前，在某个地方有一具尸体》]] allows ogres, magic size change, talking animals, and shapeshifting, but the episode values the way those impossible premises are treated as stable constraints for [[HonkakuMystery|本格推理]].
+
 ## Key Claims
 - Absurd stories can be rule-governed even when their base premise is impossible.
 - Procedural detail makes fantasy feel sharper than random nonsense.
@@ -31,6 +33,7 @@ The point is not that the stories are irrational. Their humor depends on local r
 - The lower-half Alice source adds procedural absurdity: games and courts can remain formally recognizable while their rules are unusable.
 - Lem's machine fables add a cybernetic version: the system can be formally coherent while the goal, command, or social use remains absurd.
 - Smith's weird-fiction stories add a cosmic-supernatural version: old gods and alien societies can behave with practical logic that makes human importance look absurd.
+- Setting-based mystery adds a fair-play version: impossible premises can be accepted only if their local rules still constrain the solution.
 
 ## Connections
 - [[TallTaleTradition]] - broader story form.
@@ -41,3 +44,4 @@ The point is not that the stories are irrational. Their humor depends on local r
 - [[LaputaFlyingIsland|Laputa / 飞岛国]] and [[TechnocraticDominationSatire]] - Swiftian version where procedural rationality becomes technical and political danger.
 - [[TheCyberiad|《机器人大师》 / The Cyberiad]], [[CyberneticMachineSatire]], and [[ScienceFictionRealism]] - Lem branch added by episode 45.
 - [[SevenGeases|《七咒赋》]], [[TheDoorToSaturn|《通往土星之门》]], [[HorrorHumorWeirdFiction]], and [[AntiAnthropocentricSatire]] - Smith branch added by episode 73.
+- [[SettingBasedMystery|设定系推理]], [[FolkTaleMysteryRewriting|民间故事推理改写]], and [[HonkakuMystery|本格推理]] - episode 99's mystery-specific rule-world branch.
