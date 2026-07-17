@@ -2,7 +2,7 @@
 title: "Planet Money"
 type: entity
 tags: [podcast, media, economics]
-sources: [theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
+sources: [why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
 last_updated: 2026-07-17
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-17
 Planet Money is the [[NPR]] economics podcast feed context for [[congress-has-voted-to-eliminate-government-funding-for-public-media]] and [[its-my-tree-why-cant-i-cut-it-down]]. The earlier source uses the feed for a short public-media funding appeal rather than a standard reported economics episode.
 
 The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupportedMedia]] being routed through NPR's existing podcast audience. The message also hands off to a promo for [[1A]] and [[IfYouCanKeepIt]], linking public-media funding to public-affairs podcasting.
+
+[[why-is-there-a-supplement-craze-if-they-dont-even-work]] adds a consumer-health regulation case. The episode uses a proposed Planet Money-branded supplement to explain [[RecurringSupplementCommerce]], [[DietarySupplementRegulation]], [[SupplementStructureFunctionClaims]], [[SupplementLabelAccuracy]], [[GRASSelfCertification]], and [[SupplementPlaceboEffect]] through [[FrankCantone]], [[MarionNestle]], [[MelanieBenish]], and the [[Prevagen]] case.
 
 [[its-my-tree-why-cant-i-cut-it-down]] adds a standard reported Planet Money case about [[TreeProtectionOrdinances]], [[RegulatoryTakings]], and [[PermitProportionality]]. The episode uses [[SarahBond]]'s Portland dispute and [[CantonMichigan]]'s litigation to turn private tree removal into an economics-and-law question about [[UrbanCanopyExternalities]] and who should pay to preserve public environmental benefits.
 
@@ -39,3 +41,4 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 - [[DonaldTrump]], [[DavidKirkpatrick]], [[WorldLibertyFinancial]], [[OfficeLinkedProfitAccounting]], and [[PresidentialConflictOfInterest]] - presidency-linked private-profit branch added by the new episode.
 - [[SubprimeAutoLending]], [[AutoRepossession]], [[CarAffordabilityStress]], and [[GPSEnabledRepossession]] - consumer-auto-credit branch added by the repo-man update.
 - [[WetzelsPretzels]], [[RickyAlam]], [[ImpulseRetailClustering]], and [[SharedKitchenSatelliteRetail]] - impulse-retail and franchise-cluster branch added by the Wetzel's episode.
+- [[DietarySupplementRegulation]], [[Prevagen]], [[MarionNestle]], and [[SupplementLabelAccuracy]] - supplement regulation and consumer-health branch added by the supplement episode.

@@ -3831,6 +3831,10 @@
     "title": "Consumer Hardware Startup Risk",
     "url": "/wiki/concepts/consumerhardwarestartuprisk/"
   },
+  "ConsumerLab": {
+    "title": "Consumer Lab",
+    "url": "/wiki/entities/consumerlab/"
+  },
   "ConsumerLoanRisk": {
     "title": "Consumer Loan Risk",
     "url": "/wiki/concepts/consumerloanrisk/"
@@ -4562,6 +4566,14 @@
   "DietaryConstraintProductInsight": {
     "title": "Dietary Constraint Product Insight",
     "url": "/wiki/concepts/dietaryconstraintproductinsight/"
+  },
+  "DietarySupplementHealthAndEducationAct": {
+    "title": "Dietary Supplement Health and Education Act",
+    "url": "/wiki/concepts/dietarysupplementhealthandeducationact/"
+  },
+  "DietarySupplementRegulation": {
+    "title": "Dietary Supplement Regulation",
+    "url": "/wiki/concepts/dietarysupplementregulation/"
   },
   "DiffusionTransformers": {
     "title": "Diffusion Transformers",
@@ -5347,6 +5359,10 @@
     "title": "Environmental Tradeoff Accounting",
     "url": "/wiki/concepts/environmentaltradeoffaccounting/"
   },
+  "EnvironmentalWorkingGroup": {
+    "title": "Environmental Working Group",
+    "url": "/wiki/entities/environmentalworkinggroup/"
+  },
   "EpistemologicalWarfare": {
     "title": "Epistemological Warfare",
     "url": "/wiki/concepts/epistemologicalwarfare/"
@@ -5671,6 +5687,10 @@
     "title": "Federal Reserve",
     "url": "/wiki/entities/federalreserve/"
   },
+  "FederalTradeCommission": {
+    "title": "Federal Trade Commission",
+    "url": "/wiki/entities/federaltradecommission/"
+  },
   "FeedCuration": {
     "title": "Feed Curation",
     "url": "/wiki/concepts/feedcuration/"
@@ -5918,6 +5938,10 @@
   "FolkloreTraumaEncoding": {
     "title": "Folklore Trauma Encoding",
     "url": "/wiki/concepts/folkloretraumaencoding/"
+  },
+  "FoodAndDrugAdministration": {
+    "title": "Food and Drug Administration",
+    "url": "/wiki/entities/foodanddrugadministration/"
   },
   "FoodAnimalWelfare": {
     "title": "Food Animal Welfare",
@@ -6175,6 +6199,10 @@
     "title": "Francois Truffaut / 特吕弗",
     "url": "/wiki/entities/francoistruffaut/"
   },
+  "FrankCantone": {
+    "title": "Frank Cantone",
+    "url": "/wiki/entities/frankcantone/"
+  },
   "FrankishPortraiturePressure": {
     "title": "Frankish Portraiture Pressure",
     "url": "/wiki/concepts/frankishportraiturepressure/"
@@ -6346,6 +6374,10 @@
   "GPU": {
     "title": "GPU",
     "url": "/wiki/entities/gpu/"
+  },
+  "GRASSelfCertification": {
+    "title": "GRAS Self-Certification",
+    "url": "/wiki/concepts/grasselfcertification/"
   },
   "GSMStandardization": {
     "title": "GSM Standardization",
@@ -7162,6 +7194,10 @@
   "HenryYin": {
     "title": "Henry Yin",
     "url": "/wiki/entities/henryyin/"
+  },
+  "HerbalSupplementLiverToxicity": {
+    "title": "Herbal Supplement Liver Toxicity",
+    "url": "/wiki/concepts/herbalsupplementlivertoxicity/"
   },
   "HeritageFoundation": {
     "title": "Heritage Foundation",
@@ -8070,6 +8106,10 @@
   "JamieSiminoff": {
     "title": "Jamie Siminoff",
     "url": "/wiki/entities/jamiesiminoff/"
+  },
+  "JaneBlack": {
+    "title": "Jane Black",
+    "url": "/wiki/entities/janeblack/"
   },
   "JanetYellen": {
     "title": "Janet Yellen",
@@ -9787,6 +9827,10 @@
     "title": "Marine Le Pen",
     "url": "/wiki/entities/marinelepen/"
   },
+  "MarionNestle": {
+    "title": "Marion Nestle",
+    "url": "/wiki/entities/marionnestle/"
+  },
   "MariusMiners": {
     "title": "Marius Miners",
     "url": "/wiki/entities/mariusminers/"
@@ -9822,6 +9866,10 @@
   "MarkSpitznagel": {
     "title": "Mark Spitznagel",
     "url": "/wiki/entities/markspitznagel/"
+  },
+  "MarkUnderwood": {
+    "title": "Mark Underwood",
+    "url": "/wiki/entities/markunderwood/"
   },
   "MarkZuckerberg": {
     "title": "Mark Zuckerberg",
@@ -10070,6 +10118,10 @@
   "MelaniaTrump": {
     "title": "Melania Trump",
     "url": "/wiki/entities/melaniatrump/"
+  },
+  "MelanieBenish": {
+    "title": "Melanie Benish",
+    "url": "/wiki/entities/melaniebenish/"
   },
   "MelodyJue": {
     "title": "Melody Jue",
@@ -10639,6 +10691,10 @@
     "title": "NPR",
     "url": "/wiki/entities/npr/"
   },
+  "NSFInternational": {
+    "title": "NSF International",
+    "url": "/wiki/entities/nsfinternational/"
+  },
   "NStudent": {
     "title": "N 同学 / N Student",
     "url": "/wiki/entities/nstudent/"
@@ -10782,6 +10838,10 @@
   "NeuralProcessingUnits": {
     "title": "Neural Processing Units",
     "url": "/wiki/concepts/neuralprocessingunits/"
+  },
+  "NeuroShake": {
+    "title": "NeuroShake",
+    "url": "/wiki/entities/neuroshake/"
   },
   "NewBalance": {
     "title": "New Balance",
@@ -12031,6 +12091,10 @@
     "title": "Presidential System",
     "url": "/wiki/concepts/presidentialsystem/"
   },
+  "Prevagen": {
+    "title": "Prevagen",
+    "url": "/wiki/entities/prevagen/"
+  },
   "PriceWarGrowth": {
     "title": "Price War Growth",
     "url": "/wiki/concepts/pricewargrowth/"
@@ -12566,6 +12630,10 @@
   "RecruitingSupplyStrategy": {
     "title": "Recruiting Supply Strategy",
     "url": "/wiki/concepts/recruitingsupplystrategy/"
+  },
+  "RecurringSupplementCommerce": {
+    "title": "Recurring Supplement Commerce",
+    "url": "/wiki/concepts/recurringsupplementcommerce/"
   },
   "Recursive": {
     "title": "Recursive",
@@ -13210,6 +13278,10 @@
   "SarahBond": {
     "title": "Sarah Bond",
     "url": "/wiki/entities/sarahbond/"
+  },
+  "SarahGonzalez": {
+    "title": "Sarah Gonzalez",
+    "url": "/wiki/entities/sarahgonzalez/"
   },
   "SashaNauta": {
     "title": "Sasha Nauta",
@@ -14487,6 +14559,18 @@
     "title": "Superpowers",
     "url": "/wiki/entities/superpowers/"
   },
+  "SupplementLabelAccuracy": {
+    "title": "Supplement Label Accuracy",
+    "url": "/wiki/concepts/supplementlabelaccuracy/"
+  },
+  "SupplementPlaceboEffect": {
+    "title": "Supplement Placebo Effect",
+    "url": "/wiki/concepts/supplementplaceboeffect/"
+  },
+  "SupplementStructureFunctionClaims": {
+    "title": "Supplement Structure Function Claims",
+    "url": "/wiki/concepts/supplementstructurefunctionclaims/"
+  },
   "SupplyChainSovereignty": {
     "title": "Supply Chain Sovereignty",
     "url": "/wiki/concepts/supplychainsovereignty/"
@@ -14914,6 +14998,10 @@
   "ThirdPartyDoctrine": {
     "title": "Third-Party Doctrine",
     "url": "/wiki/concepts/thirdpartydoctrine/"
+  },
+  "ThirdPartySupplementTesting": {
+    "title": "Third-Party Supplement Testing",
+    "url": "/wiki/concepts/thirdpartysupplementtesting/"
   },
   "ThirdPartyWealthPlatformRisk": {
     "title": "Third-Party Wealth Platform Risk",
@@ -15478,6 +15566,10 @@
   "UnitedStatesConstitution": {
     "title": "United States Constitution",
     "url": "/wiki/entities/unitedstatesconstitution/"
+  },
+  "UnitedStatesPharmacopeia": {
+    "title": "United States Pharmacopeia",
+    "url": "/wiki/entities/unitedstatespharmacopeia/"
   },
   "UnitreeRobotics": {
     "title": "Unitree Robotics",
@@ -18150,6 +18242,10 @@
   "weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun": {
     "title": "为什么Manus必须出海？聊聊国产大模型的“文科生困境”",
     "url": "/wiki/sources/weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun/"
+  },
+  "why-is-there-a-supplement-craze-if-they-dont-even-work": {
+    "title": "Why is there a supplement craze if they don't even work?",
+    "url": "/wiki/sources/why-is-there-a-supplement-craze-if-they-dont-even-work/"
   },
   "wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb": {
     "title": "我遇到了第一个真正想买的陪伴机器人！｜对话世博：越伴动力创始人【公路播客】",

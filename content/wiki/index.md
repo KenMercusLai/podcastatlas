@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Why is there a supplement craze if they don't even work?](sources/why-is-there-a-supplement-craze-if-they-dont-even-work.md) — Planet Money episode on supplement manufacturing, DSHEA-era regulation, structure/function claims, Prevagen, GRAS self-certification, label uncertainty, third-party testing, liver-toxicity risk, and placebo-driven demand.
 - [There's no business like dough business](sources/theres-no-business-like-dough-business.md) — Planet Money episode on Wetzel's Pretzels, impulse-product location strategy, same-franchisee clustering, foot-traffic counting, and shared-kitchen subway kiosks.
 - [Riding with the repo man (update)](sources/riding-with-the-repo-man-update.md) — Planet Money update on subprime auto loans, repossession, car affordability stress, GPS-enabled recovery, and why auto debt is smaller than a mortgage crisis but still severe for households.
 - [137. 三更半夜居然要吃香蕉：是的，再来一根](sources/137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951.md) — 蜜獾吃书 episode on 《三更半夜居然要吃香蕉》, 鹿野靖明, Japanese disability independent living, volunteer care, subject-led support, and long-term care insurance framing.
@@ -438,6 +439,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Sarah Gonzalez](entities/SarahGonzalez.md) — Planet Money host framing the supplement investigation through a proposed branded supplement.
+- [Jane Black](entities/JaneBlack.md) — Food-politics reporter connecting big wellness, supplement manufacturing, claim language, and regulatory history.
+- [Frank Cantone](entities/FrankCantone.md) — Supplement manufacturing CEO explaining custom formulas, stock products, acceptable claim phrasing, and recurring supplement economics.
+- [Marion Nestle](entities/MarionNestle.md) — Nutrition and food-policy scholar grounding the episode's skepticism about supplement efficacy, label reliability, and placebo effects.
+- [Melanie Benish](entities/MelanieBenish.md) — Environmental Working Group lawyer explaining DSHEA, structure/function claims, and the Prevagen/GRAS case.
+- [Environmental Working Group](entities/EnvironmentalWorkingGroup.md) — Consumer-safety and regulatory-analysis organization represented by Melanie Benish in the supplement episode.
+- [Food and Drug Administration](entities/FoodAndDrugAdministration.md) — U.S. food and drug regulator whose limited supplement authority is central to the episode.
+- [Federal Trade Commission](entities/FederalTradeCommission.md) — U.S. advertising regulator in the Prevagen false-advertising case.
+- [Prevagen](entities/Prevagen.md) — Memory supplement used as the episode's case study in weak oversight, GRAS routing, and delayed advertising enforcement.
+- [Mark Underwood](entities/MarkUnderwood.md) — Prevagen-linked figure in the episode's jellyfish-protein origin story.
+- [NeuroShake](entities/NeuroShake.md) — Food product used in the episode to illustrate the GRAS self-certification route behind a supplement ingredient.
+- [Consumer Lab](entities/ConsumerLab.md) — Private testing lab cited for ingredient variation in turmeric, echinacea, and elderberry supplements.
+- [NSF International](entities/NSFInternational.md) — Third-party testing mark discussed as a partial supplement-label reliability signal.
+- [United States Pharmacopeia](entities/UnitedStatesPharmacopeia.md) — Standards and testing mark discussed as a partial supplement-label reliability signal.
 - [Wetzel's Pretzels](entities/WetzelsPretzels.md) — Pretzel franchise chain whose high-traffic impulse-retail strategy explains clustered stores in malls, arenas, and transit stations.
 - [Ricky Alam](entities/RickyAlam.md) — Wetzel's franchisee who owns the three Atlantic Avenue-Barclays Center locations and uses one kitchen to supply subway satellites.
 - [John Fisher](entities/JohnFisher.md) — Wetzel's development executive explaining the "pretzels to the people" impulse-location strategy.
@@ -2754,6 +2769,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Dietary Supplement Regulation](concepts/DietarySupplementRegulation.md) — Weak U.S. oversight system that lets supplements operate between food and drugs without drug-style proof of effectiveness.
+- [Dietary Supplement Health and Education Act](concepts/DietarySupplementHealthAndEducationAct.md) — 1994 U.S. law that anchors the episode's account of permissive supplement claims and limited FDA oversight.
+- [Supplement Structure Function Claims](concepts/SupplementStructureFunctionClaims.md) — "Supports" and "promotes" language that implies bodily benefit without making disease-treatment claims.
+- [GRAS Self-Certification](concepts/GRASSelfCertification.md) — Food-law self-certification pathway used in the episode's Prevagen and NeuroShake case.
+- [Supplement Label Accuracy](concepts/SupplementLabelAccuracy.md) — Risk that supplement ingredient lists, doses, and contents may not match what consumers actually receive.
+- [Herbal Supplement Liver Toxicity](concepts/HerbalSupplementLiverToxicity.md) — Safety frame for concentrated extracts, high doses, contaminants, and liver-harm cases tied to herbal and dietary supplements.
+- [Supplement Placebo Effect](concepts/SupplementPlaceboEffect.md) — Consumer-experience frame separating perceived wellness benefit from proven physiological effect.
+- [Recurring Supplement Commerce](concepts/RecurringSupplementCommerce.md) — Repeat-purchase business model that makes supplement brands attractive despite weak claim evidence.
+- [Third-Party Supplement Testing](concepts/ThirdPartySupplementTesting.md) — Independent lab and certification layer that can verify contents without proving broad health benefits.
 - [Impulse Retail Clustering](concepts/ImpulseRetailClustering.md) — Retail pattern where nearby same-brand locations create new impulse occasions by facing different traffic streams instead of only cannibalizing each other.
 - [Shared-Kitchen Satellite Retail](concepts/SharedKitchenSatelliteRetail.md) — Food-retail operating model where one main kitchen supplies small nearby sales-only locations to lower cost and capture more traffic.
 - [Subprime Auto Lending](concepts/SubprimeAutoLending.md) — Auto financing for weak-credit borrowers, useful for transportation access but risky when rates, terms, prices, and income shocks interact.

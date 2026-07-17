@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-17] ingest | Why is there a supplement craze if they don't even work?
+
+Added source page for the Planet Money episode on U.S. supplement manufacturing, DSHEA-era regulation, structure/function claims, Prevagen, GRAS self-certification, label uncertainty, third-party testing, liver-toxicity risk, and placebo-driven demand. Created pages for Sarah Gonzalez, Jane Black, Frank Cantone, Marion Nestle, Melanie Benish, Environmental Working Group, Food and Drug Administration, Federal Trade Commission, Prevagen, Mark Underwood, NeuroShake, Consumer Lab, NSF International, United States Pharmacopeia, Dietary Supplement Regulation, Dietary Supplement Health and Education Act, Supplement Structure Function Claims, GRAS Self-Certification, Supplement Label Accuracy, Herbal Supplement Liver Toxicity, Supplement Placebo Effect, Recurring Supplement Commerce, and Third-Party Supplement Testing; updated overview, index, NPR, and Planet Money. No direct contradiction found; the source qualifies broad supplement skepticism by preserving pregnancy and deficiency exceptions while extending existing health-marketing trust concerns beyond AI.
+
 ## [2026-07-15] ingest | 168.放学后的小巷：致青春，致那年的友谊【日常推理强势回归！！】
 
 Added source page for the 蜜獾吃书 episode on 钟声离《放学后的小巷》, Chinese daily-life mystery, the first story "不加香菜", tofu-pudding and bicycle clues, adolescent poverty, self-respect, youth friendship, and school-area memory. Created pages for 《放学后的小巷》, 钟声离, 阿里（《放学后的小巷》）, 严良（《放学后的小巷》）, 孟同学（《放学后的小巷》）, Daily-Life Mystery, Dignity-Protecting Deduction, School-Area Memory Ecology, and Chinese Mystery Publishing Ecology; updated overview, index, 蜜獾吃书, 秦总, 北明 / 北民, Puzzle-Snack Mystery, Observation Before Inference, Childhood Reading Ecology, Reading As Life Experience, and Non-Instrumental Literary Reading. No direct contradiction found; the source complements the existing puzzle-mystery branch by showing deduction as a way to notice and protect ordinary dignity.
@@ -3492,3 +3496,7 @@ Added source page for the Planet Money episode on Wetzel's Pretzels, Ricky Alam,
 ## [2026-07-17] lint | Wiki health check
 
 Ran health and lint. Health scanned 4,549 pages and passed with no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 4,549 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, one fragile bridge (`concepts/UniversityOpportunityDensity` -> `concepts/CollegeMajorChoice`), and no isolated communities. The semantic LiteLLM pass failed because `LLM_MODEL` and API-key env vars are unset. No `wiki/lint-report.md` file was saved.
+
+## [2026-07-17] lint | Wiki health check
+
+Ran health and lint. Health scanned 4,573 pages and passed with no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 4,573 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, one fragile bridge (`concepts/UniversityOpportunityDensity` -> `concepts/CollegeMajorChoice`), and no isolated communities. The semantic LiteLLM pass failed because `LLM_MODEL` is not provider-qualified. No `wiki/lint-report.md` file was saved.
