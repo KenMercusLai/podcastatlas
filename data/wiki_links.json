@@ -475,6 +475,10 @@
     "title": "8848",
     "url": "/wiki/entities/8848/"
   },
+  "89-jianqiao-yepanzhe-rang-women-zhuangyan-de-shangfang-jiewa-710382629": {
+    "title": "89.剑桥夜攀者：让我们庄严地上房揭瓦",
+    "url": "/wiki/sources/89-jianqiao-yepanzhe-rang-women-zhuangyan-de-shangfang-jiewa-710382629/"
+  },
   "93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489": {
     "title": "93.聊聊头发：秃了，就会变强吗？",
     "url": "/wiki/sources/93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489/"
@@ -3018,6 +3022,14 @@
   "CampSocial": {
     "title": "Camp Social",
     "url": "/wiki/entities/campsocial/"
+  },
+  "CampusNightClimbing": {
+    "title": "Campus Night Climbing",
+    "url": "/wiki/concepts/campusnightclimbing/"
+  },
+  "CampusPrankEthics": {
+    "title": "Campus Prank Ethics",
+    "url": "/wiki/concepts/campusprankethics/"
   },
   "CampusSpeechRegulation": {
     "title": "Campus Speech Regulation",
@@ -6859,6 +6871,10 @@
     "title": "Gentle Souls",
     "url": "/wiki/entities/gentlesouls/"
   },
+  "GeoffreyWinthropYoung": {
+    "title": "Geoffrey Winthrop Young",
+    "url": "/wiki/entities/geoffreywinthropyoung/"
+  },
   "GeometricSocialHierarchy": {
     "title": "Geometric Social Hierarchy",
     "url": "/wiki/concepts/geometricsocialhierarchy/"
@@ -9150,6 +9166,10 @@
   "Kimi": {
     "title": "Kimi",
     "url": "/wiki/entities/kimi/"
+  },
+  "KingsCollegeChapel": {
+    "title": "King's College Chapel / 国王学院礼拜堂",
+    "url": "/wiki/entities/kingscollegechapel/"
   },
   "KinoLoy": {
     "title": "Kino Loy",
@@ -11503,6 +11523,10 @@
     "title": "No-Prediction Trading",
     "url": "/wiki/concepts/nopredictiontrading/"
   },
+  "NoelHSymington": {
+    "title": "Noel H. Symington / 诺埃尔·H.赛明顿",
+    "url": "/wiki/entities/noelhsymington/"
+  },
   "Nokia": {
     "title": "Nokia",
     "url": "/wiki/entities/nokia/"
@@ -13695,6 +13719,10 @@
     "title": "Ronnen Harary",
     "url": "/wiki/entities/ronnenharary/"
   },
+  "RoofscapeAttention": {
+    "title": "Roofscape Attention",
+    "url": "/wiki/concepts/roofscapeattention/"
+  },
   "RosieBloor": {
     "title": "Rosie Bloor",
     "url": "/wiki/entities/rosiebloor/"
@@ -15699,6 +15727,10 @@
     "title": "The Night Agent",
     "url": "/wiki/entities/thenightagent/"
   },
+  "TheNightClimbersOfCambridge": {
+    "title": "《剑桥夜攀者》 / The Night Climbers of Cambridge",
+    "url": "/wiki/entities/thenightclimbersofcambridge/"
+  },
   "TheOdyssey": {
     "title": "The Odyssey",
     "url": "/wiki/entities/theodyssey/"
@@ -16078,6 +16110,10 @@
   "TricksterAmbivalence": {
     "title": "Trickster Ambivalence",
     "url": "/wiki/concepts/tricksterambivalence/"
+  },
+  "TrinityCollegeClimbingGuide": {
+    "title": "《三一学院攀爬指南》 / Trinity College Climbing Guide",
+    "url": "/wiki/entities/trinitycollegeclimbingguide/"
   },
   "Triplebyte": {
     "title": "Triplebyte",

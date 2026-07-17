@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [89.剑桥夜攀者：让我们庄严地上房揭瓦](sources/89-jianqiao-yepanzhe-rang-women-zhuangyan-de-shangfang-jiewa-710382629.md) — 蜜獾吃书 episode on 《剑桥夜攀者》, Cambridge night climbing, student prank ethics, roofscape attention, King's College Chapel tower legends, and Noel H. Symington's Whipplesnaith authorship.
 - [76.玄怪录：晚唐党争？没耽误宰相写大马猴的故事](sources/76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220.md) — 蜜獾吃书 episode on 牛僧儒《玄怪录》, 牛李党争, 唐传奇, fox/dragon/object-spirit repayment, religious mixing, water-monkey ambiguity, and 《杜子春》 as a failed immortality test.
 - [中秋快乐！](sources/zhongqiu-kuaile-669967741.md) — 蜜獾吃书 holiday episode turning Mid-Autumn into a travel-reading and festival-food book list, from travel anthropology and Yunnan local history to 《中华蟹史》 and crab material culture.
 - [70.医生，你在想什么：少看百度，以及吃药时别吃西柚啊](sources/70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394.md) — 蜜獾吃书 episode on 王兴医生《医生，你在想什么》, doctor-patient communication, diagnostic reasoning, online symptom-search anxiety, medication interaction risk, and preventive screening.
@@ -456,6 +457,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《剑桥夜攀者》 / The Night Climbers of Cambridge](entities/TheNightClimbersOfCambridge.md) — 1930s Cambridge night-climbing book read by 蜜獾吃书 as dangerous campus lore, prank ethics, and architectural perception rather than an instruction guide.
+- [Noel H. Symington / 诺埃尔·H.赛明顿](entities/NoelHSymington.md) — Real author behind the Whipplesnaith pseudonym for 《剑桥夜攀者》 and participant in the book's night-climbing legend.
+- [Geoffrey Winthrop Young](entities/GeoffreyWinthropYoung.md) — Author associated with 《三一学院攀爬指南》, the earlier Cambridge climbing-guide lineage invoked by the episode.
+- [《三一学院攀爬指南》 / Trinity College Climbing Guide](entities/TrinityCollegeClimbingGuide.md) — Earlier Cambridge climbing guide used to place 《剑桥夜攀者》 in an underground route-knowledge tradition.
+- [King's College Chapel / 国王学院礼拜堂](entities/KingsCollegeChapel.md) — Cambridge chapel whose tower, spires, flags, umbrella, and Ethiopia-banner stories form the episode's architectural climax.
 - [《玄怪录》](entities/XuanGuaiLu.md) — Tang strange-tale collection used by episode 76 to connect 牛僧儒, 唐传奇, foxes, dragons, object spirits, and ethical wonder.
 - [《续玄怪录》](entities/XuXuanGuaiLu.md) — Companion strange-tale collection folded into episode 76's riddles, dragon-family, and 《杜子春》 discussions.
 - [牛僧儒](entities/NiuSengru.md) — Late-Tang chancellor and writer whose political career and 《玄怪录》 authorship frame episode 76.
@@ -2915,6 +2921,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Campus Night Climbing](concepts/CampusNightClimbing.md) — Dangerous unofficial student climbing subculture framed through curfews, secrecy, small teams, route lore, and non-instructional cultural reading.
+- [Campus Prank Ethics](concepts/CampusPrankEthics.md) — Informal rule system that distinguishes wit, restraint, no violence, and minimal damage from vandalism or intimidation in campus prank culture.
+- [Roofscape Attention](concepts/RoofscapeAttention.md) — Architectural attention produced by seeing campuses from roofs, towers, bridges, false domes, maintenance surfaces, and altered skylines.
 - [唐传奇 / Tang Chuanqi](concepts/TangChuanqi.md) — Genre frame from episode 76 for ornate Tang strange tales mixing politics, riddles, foxes, dragons, object spirits, religious practice, and moral tests.
 - [Tang Strange-Tale Repayment Ethics](concepts/TangStrangeTaleRepaymentEthics.md) — Episode 76 pattern where supernatural beings ask for help and repay materially, ritually, or protectively rather than resolving as erotic reward.
 - [Transcendence Against Human Feeling](concepts/TranscendenceAgainstHumanFeeling.md) — Ethical frame from 《杜子春》 where passing an immortality test may require suppressing the human response to suffering.
