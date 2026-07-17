@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [如何「兜住」一颗火箭？｜ S10E21](sources/ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0.md) — What's Next episode with Jerry/太空僧 on Long March 10B sea-net recovery, recovery ship control, reusable-rocket route choice, and the gap between first recovery and economical reuse.
 - [173.当缅怀高善文博士时，我们究竟在怀念什么？](sources/173-dang-mianhuai-gaoshanwen-boshi-shi-women-jiujing-zai-huainian-shenme-lruwsn-me-sheuddobz13rmhwhfe.md) — 起朱楼宴宾客 episode on 高善文, asset revaluation theory, balance-sheet macro analysis, sell-side macro research, falling capital returns, and the public-expression environment for evidence-backed economic speech.
 - [Two indicators for lowering the rent](sources/two-indicators-for-lowering-the-rent.md) — Planet Money episode on corporate single-family landlords, build-to-rent supply, SRO disappearance, homelessness, and why housing restrictions can backfire when they remove cheap or new rental supply.
 - [Why is there a supplement craze if they don't even work?](sources/why-is-there-a-supplement-craze-if-they-dont-even-work.md) — Planet Money episode on supplement manufacturing, DSHEA-era regulation, structure/function claims, Prevagen, GRAS self-certification, label uncertainty, third-party testing, liver-toxicity risk, and placebo-driven demand.
@@ -441,6 +442,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Jerry / 太空僧](entities/JerryTaikongSeng.md) — Aerospace practitioner and guest explaining Long March 10B's sea-net recovery mechanics.
+- [Long March 10B / 长征十号乙](entities/LongMarch10B.md) — Chinese reusable launch vehicle framed through first-stage sea-net recovery and later reuse validation.
+- [Long March 10A / 长征十号甲](entities/LongMarch10A.md) — Manned Long March 10 variant whose first-stage technology shortens the Long March 10B path in the episode.
+- [领航者号 Recovery Ship](entities/LinghangzheRecoveryShip.md) — Sea recovery platform using a large tension-net frame, ship-rocket communication, and DP2 positioning.
+- [Zhuque-3 / 朱雀三号](entities/Zhuque3.md) — LandSpace reusable rocket used as a Chinese commercial-space comparison and future confidence test.
+- [LandSpace / 蓝箭航天](entities/LandSpace.md) — Chinese private space company associated with Zhuque-3 and commercial reusable rockets.
+- [Long March 12A / 长征十二号甲](entities/LongMarch12A.md) — Chinese launch vehicle cited for orbit success but failed final recovery.
 - [高善文 / Gao Shanwen](entities/GaoShanwen.md) — Chinese macroeconomist framed by the episode through asset revaluation theory, balance-sheet analysis, sell-side research, and public economic expression.
 - [Peking University / 北京大学](entities/PekingUniversity.md) — Formative institution in Gao Shanwen's biography, presented as an idea-rich setting and later alumni philanthropy context.
 - [Amanda Cantrell](entities/AmandaCantrell.md) — Renter whose Murfreesboro housing search opens the episode's corporate-landlord affordability question.
@@ -2784,6 +2792,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Sea-Net Rocket Recovery](concepts/SeaNetRocketRecovery.md) — Sea-based flexible tension-net method for catching a returning rocket stage.
+- [Rocket Recovery Route Choice](concepts/RocketRecoveryRouteChoice.md) — Tradeoff frame comparing landing legs, tower catch, and sea-net capture.
+- [Marine Recovery Platform Control](concepts/MarineRecoveryPlatformControl.md) — Control problem of catching a rocket on a moving sea platform with dynamic positioning and communication.
+- [Rocket Propellant Settling](concepts/RocketPropellantSettling.md) — Low-thrust settling step that stabilizes propellant before return-stage relight.
+- [Electro-Hydrostatic Rocket Servo](concepts/ElectroHydrostaticRocketServo.md) — Actuation approach combining electric drive and hydraulics for precise engine-gimbal control.
+- [Reusable Rocket Turnaround](concepts/ReusableRocketTurnaround.md) — Inspection, repair, recertification, and cadence gap between recovery and economic reuse.
 - [Asset Revaluation Theory](concepts/AssetRevaluationTheory.md) — Gao Shanwen-associated macro-market framework linking credit, balance-sheet shifts, portfolio allocation, asset-price repricing, and bubble risk.
 - [Balance-Sheet Macro Analysis](concepts/BalanceSheetMacroAnalysis.md) — Method of reading macro and market outcomes through household, enterprise, government, and central-bank balance sheets.
 - [Capital Return Rate Decline](concepts/CapitalReturnRateDecline.md) — Long-cycle macro judgment that falling capital returns can pull China's interest-rate center lower and reshape investment expectations.

@@ -3401,6 +3401,10 @@ Added source page for The Intelligence episode on Nigel Farage versus Count Binf
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-17] ingest | 如何「兜住」一颗火箭？｜ S10E21
+
+Added source page for the What's Next｜科技早知道 episode with Jerry/太空僧 on Long March 10B's sea-net first-stage recovery, the 领航者号 recovery ship, rocket-return relight and servo constraints, recovery-route tradeoffs against Falcon 9 and Starship, and the gap between first recovery and economical reuse. Created pages for Jerry / 太空僧, Long March 10B, Long March 10A, 领航者号 Recovery Ship, Zhuque-3, LandSpace, Long March 12A, Sea-Net Rocket Recovery, Rocket Recovery Route Choice, Marine Recovery Platform Control, Rocket Propellant Settling, Electro-Hydrostatic Rocket Servo, and Reusable Rocket Turnaround; updated overview, index, What's Next｜科技早知道, SpaceX, Falcon 9, Starship, and Reusable Rocket Economics. No direct contradiction found; the source extends the wiki's reusable-rocket branch beyond SpaceX by showing how China-specific sea-net capture reallocates mass, infrastructure risk, and turnaround burden.
+
 ## [2026-07-17] ingest | 173.当缅怀高善文博士时，我们究竟在怀念什么？
 
 Added source page for the 起朱楼宴宾客 episode on 高善文, Chinese macro research, asset revaluation theory, balance-sheet macro analysis, declining capital returns, sell-side research incentives, and public economic expression. Created pages for 高善文 / Gao Shanwen, Peking University / 北京大学, Asset Revaluation Theory, Balance-Sheet Macro Analysis, Capital Return Rate Decline, and Macro Research Public Expression; updated overview, index, 起朱楼宴宾客, People's Bank of China, Sell-Side Research Incentives, and Household Balance-Sheet Repair. No direct contradiction found; uncertain late-illness and hearsay claims from the episode were kept source-scoped.
@@ -3516,3 +3520,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-17] lint | Wiki health check
+
+Ran an initial lint before refreshing the graph. Lint scanned 4,618 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. The existing graph was stale, so graph-aware findings were refreshed in the following graph/lint pass. The semantic LiteLLM pass failed because `LLM_MODEL` and API-key env vars are unset. No `wiki/lint-report.md` file was saved.
+
+## [2026-07-17] graph | Knowledge graph rebuilt
+
+4618 nodes, 45530 edges (45530 extracted, 0 inferred).
+
+## [2026-07-17] lint | Wiki health check
+
+Ran health and lint after refreshing the graph. Health scanned 4,618 pages and passed with no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 4,618 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, no fragile bridges, and no isolated communities. The semantic LiteLLM pass failed because `LLM_MODEL` and API-key env vars are unset. No `wiki/lint-report.md` file was saved.
