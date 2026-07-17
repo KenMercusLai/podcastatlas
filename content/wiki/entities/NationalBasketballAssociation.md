@@ -2,8 +2,8 @@
 title: "National Basketball Association"
 type: entity
 tags: [sports, basketball, league]
-sources: [tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources: [diary-of-a-wnba-negotiator, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128]
+last_updated: 2026-07-18
 ---
 
 # National Basketball Association
@@ -12,8 +12,11 @@ The National Basketball Association appears in [[tech-20260324-0324-mp-tech-pod-
 
 The NBA page's wiki role is not league history; it is sports-integrity context. The Porter case becomes the episode's practical contrast to prediction markets that may offer sports or event contracts without equivalent [[SportsbookIntegrityMonitoring]].
 
+[[diary-of-a-wnba-negotiator]] adds the NBA as owner and comparison case for [[WNBA]] labor negotiations. The episode says the NBA originally owned the WNBA and remains the majority owner, while [[ClaudiaGoldin]] uses NBA-WNBA revenue comparisons to support the players' argument for [[SportsLaborRevenueSharing]].
+
 ## Connections
 - [[JontayPorter]] - player whose underperformance case grounds the episode.
 - [[DraftKings]] - sportsbook named in the betting-winner detail.
 - [[SportsbookIntegrityMonitoring]] - monitoring layer used in the episode's comparison.
 - [[PredictionMarketIntegrityOversight]] and [[EventContractManipulationRisk]] - broader prediction-market regulatory lessons drawn from the sports case.
+- [[WNBA]], [[WNBAPlayersAssociation]], [[ClaudiaGoldin]], and [[SportsLaborRevenueSharing]] - labor-revenue comparison branch added by the WNBA negotiation source.

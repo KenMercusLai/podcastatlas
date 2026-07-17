@@ -2,8 +2,8 @@
 title: "Sports Media Rights"
 type: concept
 tags: [sports, media, rights, distribution]
-sources: [formula-1-1, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-264-ba-shijiebei-zuowei-fangfa-999416048, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan]
-last_updated: 2026-07-10
+sources: [diary-of-a-wnba-negotiator, formula-1-1, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-264-ba-shijiebei-zuowei-fangfa-999416048, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan]
+last_updated: 2026-07-18
 ---
 
 # Sports Media Rights
@@ -16,6 +16,8 @@ Sports media rights are the rights to broadcast or stream live sports and relate
 
 [[e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan]] adds the European football intermediation layer. Rights value is shaped not only by broadcasters and platforms, but also by commercial-development firms such as [[CAA]], [[RelevantSports]], and [[TeamMarketing]] that package [[UEFA]] competitions for sponsors, broadcasters, and global audiences.
 
+[[diary-of-a-wnba-negotiator]] adds the player-labor side of media-rights growth. The episode says the [[WNBA]] was projected to receive $3.1 billion over 11 years from a new media-rights deal, and the [[WNBAPlayersAssociation]] used that growth to argue for [[SportsLaborRevenueSharing]] rather than fixed salary increases.
+
 The concept connects to [[VerticalMediaDistribution]] but differs from owned entertainment IP. The scarce asset is not a character or film catalog; it is recurring live competition with teams, drivers, tracks, sponsors, and official championship status coordinated into one media product.
 
 ## Key Claims
@@ -26,7 +28,9 @@ The concept connects to [[VerticalMediaDistribution]] but differs from owned ent
 - Tournament expansion can increase rights inventory, but its value depends on format quality, host markets, and whether fans still treat the event as scarce and important.
 - In platform markets, rights can be used as a [[SportsRightsGrowthEngine]] even when direct ad-sales payback is unclear.
 - Rights intermediation can become a control point: whoever packages and sells competitions affects revenue distribution, sponsor surfaces, and future expansion incentives.
+- Media-rights growth can become a labor-bargaining input when players argue that athlete-driven attention should flow into compensation structure.
 
 ## Connections
 - [[FormulaOne]], [[FormulaOneGroup]], [[BernieEcclestone]], [[LibertyMedia]], [[Apple]], [[FIFA]], [[FIFAWorldCup]], [[ChinaCentralTelevision]], [[Migu]], [[Xiaohongshu]], [[UEFA]], [[CAA]], [[RelevantSports]], and [[TeamMarketing]] - source cases and rights-market actors.
 - [[BroadcastCentralization]], [[SportsEntertainmentFlywheel]], [[WorldCupExpansion]], [[SportsRightsGrowthEngine]], [[VerticalMediaDistribution]], [[ProductLedWillingnessToPay]], [[AmericanSportsCapitalInEuropeanFootball]], and [[DeFactoSuperLeagueLogic]] - related concepts.
+- [[WNBA]], [[WNBAPlayersAssociation]], [[WomensSportsBusinessGrowth]], and [[SportsLaborRevenueSharing]] - player-labor extension added by the WNBA episode.

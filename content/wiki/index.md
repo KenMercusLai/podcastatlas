@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Diary of a WNBA negotiator](sources/diary-of-a-wnba-negotiator.md) — Planet Money episode on Alicia Clark, the WNBPA's revenue-share negotiation, WNBA media-rights growth, data-backed bargaining, housing benefits, and strike leverage.
 - [Vol.265 跨越50年的美国版本之子](sources/vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591.md) — 商业就是这样 episode on Larry and David Ellison, Oracle database wealth, Skydance and Paramount media consolidation, Stargate AI infrastructure, U.S. TikTok, Trump access, and media independence risk.
 - [No.210 中国手机江湖·下：从魅族小米锤子，到 OV 华为的新十年 | 中国互联网故事24](sources/no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027.md) — Banlatte episode on China's smartphone shakeout from 中华酷联, Meizu, Xiaomi, Smartisan, OPPO/vivo, and Huawei into a concentrated market backed by supply-chain firms.
 - [Strait and narrowing: the Iran deal crumbles](sources/strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f.md) — The Intelligence episode on the U.S.-Iran memorandum collapse over Strait of Hormuz safe passage, Indian government website failures, and adult summer camps as paid offline social infrastructure.
@@ -447,6 +448,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Women's National Basketball Association](entities/WNBA.md) — Women's professional basketball league whose media-rights growth becomes the labor-revenue-share case in the Planet Money episode.
+- [WNBA Players Association](entities/WNBAPlayersAssociation.md) — Player-side bargaining organization that uses data, strike authorization, and member preparation to push for revenue sharing.
+- [Alicia Clark](entities/AliciaClark.md) — WNBA player-negotiator whose diary and career range anchor the episode's collective-bargaining narrative.
+- [Brianna Turner](entities/BriannaTurner.md) — WNBPA treasurer and player modeler who turns salary-cap, roster, and housing proposals into spreadsheets.
+- [Claudia Goldin](entities/ClaudiaGoldin.md) — Labor economist whose NBA-WNBA revenue comparison strengthens the players' data-backed pay argument.
+- [Caitlin Clark](entities/CaitlinClark.md) — Women's basketball visibility signal used by the source to frame the WNBA's changed bargaining environment.
+- [Angel Reese](entities/AngelReese.md) — Women's basketball visibility signal used by the source to frame streaming attention and audience growth.
 - [Larry Ellison](entities/LarryEllison.md) — Oracle founder whose database wealth, pledged equity, guarantees, and Trump access bridge enterprise software, media ownership, and AI infrastructure.
 - [David Ellison](entities/DavidEllison.md) — Skydance founder and Paramount leader whose media role is extended by the Ellison family capital and regulatory-access story.
 - [Skydance](entities/Skydance.md) — David Ellison's media company, moving from co-financed franchise production into Paramount and Warner Bros. Discovery consolidation.
@@ -2847,6 +2855,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Sports Labor Revenue Sharing](concepts/SportsLaborRevenueSharing.md) — Compensation structure tying player pay to league revenue rather than fixed raises alone.
+- [Sports Collective Bargaining](concepts/SportsCollectiveBargaining.md) — League-labor negotiation over salary, benefits, travel, housing, retirement payments, and revenue share.
+- [Data-Backed Labor Bargaining](concepts/DataBackedLaborBargaining.md) — Use of economic comparisons, spreadsheets, and proposal modeling to improve worker leverage.
+- [Strike Threat as BATNA](concepts/StrikeThreatAsBATNA.md) — Credible work-stoppage alternative used by player labor to move stalled negotiations.
+- [Women's Sports Business Growth](concepts/WomensSportsBusinessGrowth.md) — Audience, media-rights, and athlete-visibility growth that changes the economics of women's sports.
+- [Player Housing as Labor Benefit](concepts/PlayerHousingAsLaborBenefit.md) — Housing support as material compensation for mobile, seasonal, and roster-volatile sports labor.
 - [Enterprise Database Lock-In](concepts/EnterpriseDatabaseLockIn.md) — Switching-cost structure that makes critical database systems sticky and lets vendors monetize renewals, support, and migration risk.
 - [Political Regulatory Leverage](concepts/PoliticalRegulatoryLeverage.md) — Business value from political relationships, approvals, procurement position, litigation posture, or regulatory certainty.
 - [Media Ownership Independence Risk](concepts/MediaOwnershipIndependenceRisk.md) — Risk that newsroom autonomy weakens when parent companies depend on political approval, settlement pressure, or merger review.

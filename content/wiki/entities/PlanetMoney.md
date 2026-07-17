@@ -2,8 +2,8 @@
 title: "Planet Money"
 type: entity
 tags: [podcast, media, economics]
-sources: [building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
-last_updated: 2026-07-17
+sources: [diary-of-a-wnba-negotiator, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down]
+last_updated: 2026-07-18
 ---
 
 # Planet Money
@@ -32,6 +32,8 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 
 [[building-things-and-breaking-things-in-china-summer-school-world-tour]] adds a Summer School political-economy case on [[China]]. The episode uses [[DanWang]] and [[Breakneck]] to connect [[EngineeringState]], [[InfrastructureMalinvestment]], [[ChinaRealEstateDebtCycle]], [[ChinaYouthUnemployment]], [[ChinaLowRedistributionState]], and [[BuildBuildRegulate]] into a lesson about building capacity with feedback and guardrails.
 
+[[diary-of-a-wnba-negotiator]] adds a sports-labor economics case. The episode follows [[AliciaClark]], [[BriannaTurner]], and the [[WNBAPlayersAssociation]] as they use [[ClaudiaGoldin]]'s comparison work, spreadsheets, and strike preparation to win [[SportsLaborRevenueSharing]] from the [[WNBA]].
+
 ## Connections
 - [[NPR]] — network and public-media organization behind the appeal.
 - [[KatherineMaher]] — NPR CEO speaking in the message.
@@ -48,3 +50,4 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 - [[DietarySupplementRegulation]], [[Prevagen]], [[MarionNestle]], and [[SupplementLabelAccuracy]] - supplement regulation and consumer-health branch added by the supplement episode.
 - [[InstitutionalSingleFamilyRental]], [[BuildToRentHousing]], [[SingleRoomOccupancyHousing]], and [[SROLossAndHomelessness]] - housing-affordability branch added by the rent episode.
 - [[DanWang]], [[EngineeringState]], [[Evergrande]], [[ChinaYouthUnemployment]], and [[BuildBuildRegulate]] - China Summer School branch added by the new episode.
+- [[WNBA]], [[WNBAPlayersAssociation]], [[AliciaClark]], [[BriannaTurner]], [[SportsLaborRevenueSharing]], and [[DataBackedLaborBargaining]] - sports-labor branch added by the WNBA negotiation episode.

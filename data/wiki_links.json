@@ -1511,6 +1511,10 @@
     "title": "Alice / 爱丽丝",
     "url": "/wiki/entities/alicewonderlandcharacter/"
   },
+  "AliciaClark": {
+    "title": "Alicia Clark",
+    "url": "/wiki/entities/aliciaclark/"
+  },
   "AlienAbductionNarrative": {
     "title": "Alien Abduction Narrative",
     "url": "/wiki/concepts/alienabductionnarrative/"
@@ -1690,6 +1694,10 @@
   "Anerle": {
     "title": "安乐",
     "url": "/wiki/entities/anerle/"
+  },
+  "AngelReese": {
+    "title": "Angel Reese",
+    "url": "/wiki/entities/angelreese/"
   },
   "AngelaRayner": {
     "title": "Angela Rayner",
@@ -2731,6 +2739,10 @@
     "title": "Brian Smith",
     "url": "/wiki/entities/briansmith/"
   },
+  "BriannaTurner": {
+    "title": "Brianna Turner",
+    "url": "/wiki/entities/briannaturner/"
+  },
   "BridgeLoadCapacity": {
     "title": "Bridge Load Capacity",
     "url": "/wiki/concepts/bridgeloadcapacity/"
@@ -2938,6 +2950,10 @@
   "CaiJi": {
     "title": "蔡姬",
     "url": "/wiki/entities/caiji/"
+  },
+  "CaitlinClark": {
+    "title": "Caitlin Clark",
+    "url": "/wiki/entities/caitlinclark/"
   },
   "CalculatingEmpires": {
     "title": "Calculating Empires",
@@ -3614,6 +3630,10 @@
   "ClaudeTag": {
     "title": "Claude Tag",
     "url": "/wiki/entities/claudetag/"
+  },
+  "ClaudiaGoldin": {
+    "title": "Claudia Goldin",
+    "url": "/wiki/entities/claudiagoldin/"
   },
   "CleanBreakDivorceModel": {
     "title": "Clean Break Divorce Model",
@@ -4382,6 +4402,10 @@
   "DataAsEducation": {
     "title": "Data As Education",
     "url": "/wiki/concepts/dataaseducation/"
+  },
+  "DataBackedLaborBargaining": {
+    "title": "Data-Backed Labor Bargaining",
+    "url": "/wiki/concepts/databackedlaborbargaining/"
   },
   "DataBrokerLoophole": {
     "title": "Data Broker Loophole",
@@ -12191,6 +12215,10 @@
     "title": "PlayStation",
     "url": "/wiki/entities/playstation/"
   },
+  "PlayerHousingAsLaborBenefit": {
+    "title": "Player Housing as Labor Benefit",
+    "url": "/wiki/concepts/playerhousingaslaborbenefit/"
+  },
   "Playwright": {
     "title": "Playwright",
     "url": "/wiki/entities/playwright/"
@@ -14479,6 +14507,10 @@
     "title": "Sports As Historical Reading Frame",
     "url": "/wiki/concepts/sportsashistoricalreadingframe/"
   },
+  "SportsCollectiveBargaining": {
+    "title": "Sports Collective Bargaining",
+    "url": "/wiki/concepts/sportscollectivebargaining/"
+  },
   "SportsEntertainmentFlywheel": {
     "title": "Sports Entertainment Flywheel",
     "url": "/wiki/concepts/sportsentertainmentflywheel/"
@@ -14486,6 +14518,10 @@
   "SportsEventTicketing": {
     "title": "Sports Event Ticketing",
     "url": "/wiki/concepts/sportseventticketing/"
+  },
+  "SportsLaborRevenueSharing": {
+    "title": "Sports Labor Revenue Sharing",
+    "url": "/wiki/concepts/sportslaborrevenuesharing/"
   },
   "SportsLifestyleConsumption": {
     "title": "Sports Lifestyle Consumption",
@@ -14818,6 +14854,10 @@
   "StreamingConsolidation": {
     "title": "Streaming Consolidation",
     "url": "/wiki/concepts/streamingconsolidation/"
+  },
+  "StrikeThreatAsBATNA": {
+    "title": "Strike Threat as BATNA",
+    "url": "/wiki/concepts/strikethreatasbatna/"
   },
   "Stripe": {
     "title": "Stripe",
@@ -16255,6 +16295,14 @@
     "title": "WIPR",
     "url": "/wiki/entities/wipr/"
   },
+  "WNBA": {
+    "title": "Women's National Basketball Association",
+    "url": "/wiki/entities/wnba/"
+  },
+  "WNBAPlayersAssociation": {
+    "title": "WNBA Players Association",
+    "url": "/wiki/entities/wnbaplayersassociation/"
+  },
   "WaitlistInvitationGrowth": {
     "title": "Waitlist Invitation Growth",
     "url": "/wiki/concepts/waitlistinvitationgrowth/"
@@ -16614,6 +16662,10 @@
   "WolverhamptonWanderers": {
     "title": "Wolverhampton Wanderers / 狼队",
     "url": "/wiki/entities/wolverhamptonwanderers/"
+  },
+  "WomensSportsBusinessGrowth": {
+    "title": "Women's Sports Business Growth",
+    "url": "/wiki/concepts/womenssportsbusinessgrowth/"
   },
   "WonderlandLanguageGames": {
     "title": "Wonderland Language Games",
@@ -17618,6 +17670,10 @@
   "dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d": {
     "title": "Dhaka matters: an election for Bangladesh",
     "url": "/wiki/sources/dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d/"
+  },
+  "diary-of-a-wnba-negotiator": {
+    "title": "Diary of a WNBA negotiator",
+    "url": "/wiki/sources/diary-of-a-wnba-negotiator/"
   },
   "duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe": {
     "title": "对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局",
