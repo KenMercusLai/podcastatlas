@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [137. 三更半夜居然要吃香蕉：是的，再来一根](sources/137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951.md) — 蜜獾吃书 episode on 《三更半夜居然要吃香蕉》, 鹿野靖明, Japanese disability independent living, volunteer care, subject-led support, and long-term care insurance framing.
 - [111. 花衣魔笛手：快来，和历史学家一起推理童话真相](sources/111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766.md) — 蜜獾吃书 episode using 阿布谨也《花衣魔笛手：传说背后的欧洲中世纪》 to read the Hamelin Pied Piper legend through medieval evidence, city history, marginal groups, migration, famine, plague, and folklore trauma.
 - [110.初老的女人：疲惫，温柔，辽阔](sources/110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278.md) — 蜜獾吃书 episode on 伊藤比吕美《初老的女人》, embodied aging, age-friendly infrastructure, late-life female body freedom, pet care, health checks, insurance planning, and poetry as a way to process life problems.
 - [109.闲聊左传之春秋运动会！](sources/109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773.md) — 蜜獾吃书 episode turning 《左传》 and Spring-Autumn anecdotes into a playful sports-meet frame across ritual warfare, aristocratic battle rules, and figures such as 南宫长万, 蔡姬, 魏犨, 公子彭生, 高固, 养由基, 叔梁纥, and 孔子.
@@ -435,6 +436,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《三更半夜居然要吃香蕉》](entities/SangengBanyeJuranYaoChiXiangjiao.md) — book discussed in episode 137 about 鹿野靖明, disability rights, independent living, and volunteer care.
+- [鹿野靖明](entities/ShikanoYasuaki.md) — central figure in the episode's disability independent-living and care-subjectivity discussion.
+- [一五会](entities/IchiGoKai.md) — Japanese disability group used to explain self-determined community living.
+- [八云医院](entities/YakumoHospital.md) — hospital context for 鹿野靖明's early institutional life and later medical mistrust.
+- [焚景源](entities/FenJingyuan.md) — Chinese muscular dystrophy patient example used in the episode's closing disability-rights reflection.
 - [阿布谨也 / Abe Kinya](entities/AbeKinya.md) — Japanese historian whose Pied Piper study lets the wiki read folklore through medieval social history rather than one solved mystery.
 - [《花衣魔笛手：传说背后的欧洲中世纪》](entities/PiedPiperMedievalEurope.md) — Abe Kinya book discussed by 蜜獾吃书 as an evidence-bound reconstruction of the Hamelin legend and its medieval social world.
 - [花衣魔笛手 / The Pied Piper of Hamelin](entities/PiedPiperOfHamelin.md) — Hamelin legend treated by episode 111 as a dated historical-memory problem later reshaped into a rat-catcher fairy tale.
@@ -2734,6 +2740,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Disability Independent Living](concepts/DisabilityIndependentLiving.md) — concept that independence means self-directed support, not absence of help.
+- [Japanese Disability Rights Movement](concepts/JapaneseDisabilityRightsMovement.md) — movement background for bus access, anti-discrimination, and community living in the episode.
+- [Subject-Led Care](concepts/SubjectLedCare.md) — care principle that help should start from the disabled person's own requests, boundaries, and agency.
+- [Volunteer Care Reciprocity](concepts/VolunteerCareReciprocity.md) — pattern where care volunteers also learn boundaries, needs, and self-recognition.
+- [Long-Term Care Insurance Planning](concepts/LongTermCareInsurancePlanning.md) — insurance-planning frame for失能 and ongoing care costs, kept source-scoped because the episode includes sponsored content.
 - [Legend As Social History](concepts/LegendAsSocialHistory.md) — Reading legends as historically situated social memory: evidence-rich but not reducible to one literal event.
 - [Evidence-Bound Folklore Inquiry](concepts/EvidenceBoundFolkloreInquiry.md) — Folklore method that sorts variants, manuscripts, images, records, geography, and hypotheses by evidentiary strength.
 - [Medieval Urban Marginality](concepts/MedievalUrbanMarginality.md) — Frame for people inside medieval city life but near the edge of civic rights, recognition, work, and protection.

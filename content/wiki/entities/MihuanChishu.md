@@ -8,6 +8,8 @@ last_updated: 2026-07-17
 
 # 蜜獾吃书
 
+[[137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951]] adds the show's disability independent-living and care-agency branch through [[SangengBanyeJuranYaoChiXiangjiao|《三更半夜居然要吃香蕉》]] and [[ShikanoYasuaki|鹿野靖明]]. It connects [[DisabilityIndependentLiving]], [[SubjectLedCare]], [[VolunteerCareReciprocity]], [[JapaneseDisabilityRightsMovement]], and [[LongTermCareInsurancePlanning]], extending the show's existing illness, body, insurance, and self-possession concerns into the question of how a person can remain fully self-directed while needing intensive daily help.
+
 [[111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766]] adds the show's European folklore and medieval social-history branch through [[PiedPiperOfHamelin|花衣魔笛手]]. It connects [[AbeKinya|阿布谨也]], [[PiedPiperMedievalEurope|《花衣魔笛手：传说背后的欧洲中世纪》]], [[Hamelin|哈默尔恩]], and [[BrothersGrimm|格林兄弟]] to [[LegendAsSocialHistory]], [[EvidenceBoundFolkloreInquiry]], [[MedievalUrbanMarginality]], and [[FolkloreTraumaEncoding]], extending the show's existing fairy-tale and folklore interests from source variants into city law, class exclusion, migration, famine, plague, and the social work of traumatic memory.
 
 [[110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278]] adds the show's late-life aging and women's-body branch through [[ItoHiromi|伊藤比吕美]]'s [[ChurouNoOnna|《初老的女人》]]. It connects [[EmbodiedAging]], [[AgeFriendlyInfrastructure]], [[FemaleBodyFreedom]], [[PetGriefAndCare]], [[HealthInsurancePlanning]], and [[PoetryAsLifeProblemSolving]], extending the show's earlier material-history and self-possession concerns into old-age fatigue, bodily limitation, companion-animal logistics, and death-facing writing.
@@ -160,6 +162,7 @@ The episode moves the show into the wiki's life-design branch. Rather than revie
 
 ## Connections
 
+- [[137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951]], [[SangengBanyeJuranYaoChiXiangjiao|《三更半夜居然要吃香蕉》]], [[ShikanoYasuaki|鹿野靖明]], [[DisabilityIndependentLiving]], [[SubjectLedCare]], and [[VolunteerCareReciprocity]] - disability independent-living and care-agency branch.
 - [[111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766]], [[PiedPiperOfHamelin|花衣魔笛手]], [[AbeKinya|阿布谨也]], [[LegendAsSocialHistory]], and [[FolkloreTraumaEncoding]] - European folklore, medieval social history, and traumatic-memory branch.
 - [[110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278]], [[ItoHiromi|伊藤比吕美]], [[ChurouNoOnna|《初老的女人》]], [[EmbodiedAging]], and [[PoetryAsLifeProblemSolving]] - late-life aging, women's body, pet care, and poetry branch.
 - [[109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773]], [[ZuoZhuan|《左传》]], [[SportsAsHistoricalReadingFrame]], and [[SpringAutumnWarfareRitual]] - pre-Qin classical-history, playful sports-frame, and ritualized-warfare branch.

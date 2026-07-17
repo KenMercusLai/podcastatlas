@@ -3460,3 +3460,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-17] ingest | 137. 三更半夜居然要吃香蕉：是的，再来一根
+
+Added source page for the 蜜獾吃书 episode on 《三更半夜居然要吃香蕉》, 鹿野靖明, Japanese disability independent living, volunteer care, subject-led support, and long-term care insurance framing. Created pages for 《三更半夜居然要吃香蕉》, 鹿野靖明, 一五会, 八云医院, 焚景源, Disability Independent Living, Japanese Disability Rights Movement, Subject-Led Care, Volunteer Care Reciprocity, and Long-Term Care Insurance Planning; updated overview, index, 蜜獾吃书, 小雨伞, Health Insurance Planning, and Communication Boundary Setting. No direct contradiction found; the source extends the wiki's illness and care branch by separating disability agency from inspirational patient identity and by treating dependence on care as compatible with self-directed living.
+
+## [2026-07-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
