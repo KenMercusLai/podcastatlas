@@ -2,8 +2,8 @@
 title: "Oracle"
 type: entity
 tags: [company, cloud, infrastructure, ai]
-sources: [tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
-last_updated: 2026-07-12
+sources: [vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
+last_updated: 2026-07-17
 ---
 
 # Oracle
@@ -16,6 +16,8 @@ In the wiki, Oracle's main relevance from this source is not a company-specific 
 
 [[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] adds Oracle as the infrastructure and ownership actor behind [[USTikTok|U.S. TikTok]]. The episode says Oracle, [[MGX]], and [[SilverLake]] are among investors in the new American version, and [[PareshDave]] links early service disruptions after a storm to TikTok's cloud infrastructure being tied to Oracle.
 
+[[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] adds Oracle's origin story and political-infrastructure role. The [[ShangyeJiushiZheyang]] episode says [[LarryEllison]] commercialized relational-database ideas that [[IBM]] had not productized, then built a sticky enterprise-software business through [[EnterpriseDatabaseLockIn]]. It also links Oracle to [[StargateAIInfrastructure]], a large [[OpenAI]] data-center relationship, and [[USTikTok|U.S. TikTok]], making Oracle a bridge between database lock-in, AI compute, and [[PoliticalRegulatoryLeverage]].
+
 ## Connections
 - [[DigitalInfrastructureWarRisk]] — cloud facilities as potential wartime targets.
 - [[DataCenterPhysicalResilience]] — physical hardening and repair limits for commercial data centers.
@@ -25,3 +27,4 @@ In the wiki, Oracle's main relevance from this source is not a company-specific 
 - [[BlueOwlCapital]] — capital provider named in the Michigan project reporting discussed by the episode.
 - [[DataCenterBacklash]] and [[DataCenterCostShifting]] — local and utility-price risks tied to Oracle-linked project delays.
 - [[USTikTok|U.S. TikTok]], [[TikTok]], [[MGX]], [[SilverLake]], and [[PlatformOwnershipTransition]] — U.S. TikTok ownership and outage branch added by Marketplace Tech.
+- [[LarryEllison]], [[EnterpriseDatabaseLockIn]], [[StargateAIInfrastructure]], and [[PoliticalRegulatoryLeverage]] - origin, lock-in, and political-infrastructure branch added by 商业就是这样.

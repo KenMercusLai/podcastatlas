@@ -2,8 +2,8 @@
 title: "AI Compute Continuity"
 type: concept
 tags: [ai, infrastructure, reliability]
-sources: [cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
-last_updated: 2026-07-12
+sources: [vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
+last_updated: 2026-07-17
 ---
 
 # AI Compute Continuity
@@ -24,6 +24,8 @@ The episode's coding-tool anecdote makes the issue concrete: when an AI coding s
 
 [[tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]] adds the long-term finance version through [[Alphabet]]. If model services require sustained data-center and AI infrastructure buildout, compute continuity depends not only on chips, power, cooling, and permitting, but also on whether companies can finance capacity over many years without undermining flexibility or investor confidence.
 
+[[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] adds the political-procurement version through [[StargateAIInfrastructure]]. The episode treats [[Oracle]]'s role in a large U.S. AI infrastructure plan and its [[OpenAI]] data-center relationship as evidence that compute continuity can depend on government-backed strategic positioning as well as chips, power, cooling, and financing.
+
 [[tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128]] adds the onsite-power version through [[Caterpillar]]. If data centers cannot wait years for grid interconnection, [[DataCenterOnsitePower]] can bring capacity online faster, but compute continuity then depends on natural gas engines, generator supply, fuel logistics, and maintenance capacity.
 
 [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] adds the memory-continuity version. AI services can have chips and power but still be constrained if [[HighBandwidthMemory]], DRAM, NAND, packaging, or [[MemoryCapacityLockIn]] fail to keep pace with inference and agent workloads.
@@ -40,6 +42,7 @@ The episode's coding-tool anecdote makes the issue concrete: when an AI coding s
 - Utility approvals, rate design, and grid-upgrade financing can also cap or delay compute buildout.
 - State tax incentives can accelerate compute buildout, but electricity exemptions and public subsidy reviews can become constraints when power demand rises.
 - Long-duration borrowing can support compute continuity when it funds capacity, but it also ties continuity to credit-market confidence and future AI returns.
+- Strategic infrastructure programs can make political access part of compute continuity when scarce sites, power, procurement, and national policy decide which providers scale first.
 - Onsite generator power can accelerate data-center deployment, but it creates another continuity dependency on industrial equipment, fuel, emissions tolerance, and service capacity.
 - Memory and storage continuity matter alongside GPU availability: HBM, DRAM, NAND, CXL pooling, and packaging decide whether accelerators can stay fed with data.
 
@@ -53,6 +56,7 @@ The episode's coding-tool anecdote makes the issue concrete: when an AI coding s
 - [[PublicUtilityCommissions]], [[AIEnergyBottleneck]], and [[DataCenterCostShifting]] — regulated-grid layer added by Marketplace Tech.
 - [[DataCenterTaxIncentives]], [[NicholasMiller]], and [[NationalConferenceOfStateLegislatures]] — state tax-policy layer added by the later Marketplace Tech episode.
 - [[Alphabet]], [[AIInfrastructureDebtFinancing]], [[DataCenterDebtRisk]], and [[AIEquityValuationRisk]] - long-term financing layer added by the February 13 Marketplace Tech Bytes episode.
+- [[StargateAIInfrastructure]], [[Oracle]], [[OpenAI]], and [[PoliticalRegulatoryLeverage]] - political-procurement layer added by 商业就是这样.
 - [[DataCenterOnsitePower]], [[Caterpillar]], [[DanAckerman]], and [[DavidVictor]] - onsite power and generator-backlog layer added by the February 16 Marketplace Tech episode.
 - [[WarAwareDisasterRecovery]] — failover planning for AI workloads.
 - [[ClaudeCode]] and [[AICodingVerification]] — workflow example where tool availability and human review quality interact.

@@ -2,8 +2,8 @@
 title: "商业就是这样"
 type: entity
 tags: [podcast, media, business]
-sources: [vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, jiufan-zhongting-mifeng-jingjixue-956460448, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-263-lang-de-youhuo-998128018, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, vol-264-ba-shijiebei-zuowei-fangfa-999416048]
-last_updated: 2026-07-09
+sources: [vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, jiufan-zhongting-mifeng-jingjixue-956460448, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-263-lang-de-youhuo-998128018, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, vol-264-ba-shijiebei-zuowei-fangfa-999416048]
+last_updated: 2026-07-17
 ---
 
 # 商业就是这样
@@ -24,6 +24,8 @@ The episode's distinctive contribution to the wiki is its distributed method. In
 
 [[vol-264-ba-shijiebei-zuowei-fangfa-999416048]] adds the show's World Cup marketing lens. It treats the same 2026 tournament not as a governance or investment case, but as a way to read Chinese media-rights buyers, platform growth pressure, [[Adidas]] offline activation, multinational localization, Chinese sponsor globalization, and jersey-led lifestyle consumption.
 
+[[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] adds the show's U.S. technology-media-politics lens. The episode uses [[LarryEllison]], [[DavidEllison]], [[Oracle]], [[Skydance]], [[Paramount]], [[WarnerBrosDiscovery]], [[StargateAIInfrastructure]], and [[USTikTok|U.S. TikTok]] to ask how enterprise software wealth can become media ownership and [[PoliticalRegulatoryLeverage]].
+
 ## Connections
 - [[vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]] — fifth-anniversary source page.
 - [[jiufan-zhongting-mifeng-jingjixue-956460448]] — bee-economics source page.
@@ -39,4 +41,5 @@ The episode's distinctive contribution to the wiki is its distributed method. In
 - [[DataCenterThermalManagement]], [[Grundfos]], and [[HenanSmartSupercomputingCenter]] — AI-infrastructure cooling concepts and cases added by the AI server episode.
 - [[LiXiang]], [[TangHui]], [[JumillaCF]], [[ChinesePlayerOverseasArbitrage]], [[FootballClubAsCommunityAsset]], and [[FootballClubControlRisk]] — lower-tier football investment case added by Vol.262.
 - [[ChinaCentralTelevision]], [[Migu]], [[Xiaohongshu]], [[Adidas]], [[Hisense]], [[Lenovo]], [[SportsRightsGrowthEngine]], [[OfflineBrandActivation]], [[GlobalSportsSponsorship]], and [[SportsLifestyleConsumption]] — World Cup marketing branch added by Vol.264.
+- [[LarryEllison]], [[DavidEllison]], [[Oracle]], [[Skydance]], [[PoliticalRegulatoryLeverage]], and [[MediaOwnershipIndependenceRisk]] - U.S. technology, media, and politics branch added by Vol.265.
 - [[PodcastAsAsynchronousMedia]] — adjacent media concept; the anniversary format records listener memory across years.

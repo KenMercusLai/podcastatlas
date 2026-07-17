@@ -2,7 +2,7 @@
 title: "White House"
 type: entity
 tags: [government, united-states, ai-policy]
-sources: [tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
+sources: [vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
 last_updated: 2026-07-17
 ---
 
@@ -12,9 +12,12 @@ The White House appears in [[tech-20260710-tech-pod-128-tech-20260710-tech-pod-1
 
 The source makes the White House important because voluntary language can coexist with practical state pressure. If labs believe they must run frontier releases through government reviewers to avoid later restrictions or blame, then [[FrontierModelReleaseGovernance]] can resemble a licensing regime without being called one.
 
+[[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] adds the White House as the launch setting for [[StargateAIInfrastructure]]. The episode treats that announcement as a signal that AI data-center buildout is not only a private cloud-capex race; it can become a national strategic program where [[Oracle]], [[OpenAI]], and political access all matter.
+
 ## Connections
 - [[UnitedStates]] - national government context.
 - [[OpenAI]] and [[GPT56|GPT-5.6]] - model release under review.
 - [[CenterForAIStandardsAndInnovation]] - testing body identified in the episode.
 - [[FrontierModelReleaseGovernance]] and [[AIExportControls]] - policy mechanisms implicated by the review.
 - [[DonaldTrump]] - administration context named by the source.
+- [[StargateAIInfrastructure]], [[Oracle]], [[OpenAI]], and [[PoliticalRegulatoryLeverage]] - strategic AI infrastructure branch added by 商业就是这样.

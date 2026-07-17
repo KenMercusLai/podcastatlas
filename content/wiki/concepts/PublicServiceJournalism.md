@@ -2,8 +2,8 @@
 title: "Public Service Journalism"
 type: concept
 tags: [journalism, public-media, democracy]
-sources: [tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, congress-has-voted-to-eliminate-government-funding-for-public-media, stefan-sagmeister-finally-something-good-yqqxftsvema]
-last_updated: 2026-07-12
+sources: [vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, congress-has-voted-to-eliminate-government-funding-for-public-media, stefan-sagmeister-finally-something-good-yqqxftsvema]
+last_updated: 2026-07-17
 ---
 
 # Public Service Journalism
@@ -16,12 +16,15 @@ The source connects this mission to [[PublicMediaFunding]] because the appeal ar
 
 [[tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128]] adds an AI-era boundary through [[ThePlainDealer|the Plain Dealer]]. If [[NewsroomAIAdoption]] lets a local newsroom cover meetings, documents, and communities it otherwise would miss, AI can support a public-service mission; if [[AIWrittenJournalism]] becomes generic cost-cutting, it can weaken the human accountability and reader trust that make the service public.
 
+[[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] adds an ownership-independence boundary through [[CBS]] and [[CNN]]. The source argues that news organizations can face pressure not only from funding cuts or AI automation, but from parent-company dependence on political approval, litigation settlement, and merger review.
+
 ## Key Claims
 - Journalism can be justified as a public service when it informs communities and holds power accountable.
 - Public-service journalism depends on institutional and funding arrangements that protect access and independence.
 - Political explanation, local reporting, emergency information, and national storytelling can belong to the same public-media mission.
 - Progress reporting can belong to public-service journalism when it remains sourced, specific, and connected to civic action rather than becoming promotional positivity.
 - AI-assisted journalism supports public service only when workflow design preserves verification, accountability, context, and community usefulness.
+- Ownership and approval dependence can threaten public-service journalism even when the newsroom itself has not changed its stated mission.
 
 ## Connections
 - [[NPR]], [[KatherineMaher]], and [[PlanetMoney]] — organization, speaker, and feed context for the appeal.
@@ -30,3 +33,4 @@ The source connects this mission to [[PublicMediaFunding]] because the appeal ar
 - [[1A]], [[WAMU]], [[JenWhite]], and [[IfYouCanKeepIt]] — political podcasting branch of the source.
 - [[PositiveJournalism]], [[ShortTermNewsBias]], and [[InformedOptimism]] — Sagmeister source's media branch.
 - [[NewsroomAIAdoption]], [[AIWrittenJournalism]], [[AIJournalismTrust]], and [[LocalNewsAutomationTradeoff]] — AI-era local-news service boundary.
+- [[CBS]], [[CNN]], [[MediaOwnershipIndependenceRisk]], and [[PoliticalRegulatoryLeverage]] - ownership-independence branch added by 商业就是这样.

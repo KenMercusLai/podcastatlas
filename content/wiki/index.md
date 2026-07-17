@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.265 跨越50年的美国版本之子](sources/vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591.md) — 商业就是这样 episode on Larry and David Ellison, Oracle database wealth, Skydance and Paramount media consolidation, Stargate AI infrastructure, U.S. TikTok, Trump access, and media independence risk.
 - [No.210 中国手机江湖·下：从魅族小米锤子，到 OV 华为的新十年 | 中国互联网故事24](sources/no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027.md) — Banlatte episode on China's smartphone shakeout from 中华酷联, Meizu, Xiaomi, Smartisan, OPPO/vivo, and Huawei into a concentrated market backed by supply-chain firms.
 - [Strait and narrowing: the Iran deal crumbles](sources/strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f.md) — The Intelligence episode on the U.S.-Iran memorandum collapse over Strait of Hormuz safe passage, Indian government website failures, and adult summer camps as paid offline social infrastructure.
 - [Momenta IPO后再访曹旭东：就是想做没有尽头的AI](sources/momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1.md) — LateTalk interview with Cao Xudong on Momenta's IPO-era autonomous-driving strategy, city NOA competition, data flywheel, physical AI, robot expansion, and low-cost short-cycle organization method.
@@ -446,6 +447,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Larry Ellison](entities/LarryEllison.md) — Oracle founder whose database wealth, pledged equity, guarantees, and Trump access bridge enterprise software, media ownership, and AI infrastructure.
+- [David Ellison](entities/DavidEllison.md) — Skydance founder and Paramount leader whose media role is extended by the Ellison family capital and regulatory-access story.
+- [Skydance](entities/Skydance.md) — David Ellison's media company, moving from co-financed franchise production into Paramount and Warner Bros. Discovery consolidation.
+- [Oracle](entities/Oracle.md) — Enterprise database and AI cloud company extended here from database lock-in into Stargate, U.S. TikTok, and political-regulatory leverage.
+- [IBM](entities/IBM.md) — Incumbent computing company whose relational-database research becomes the opportunity Oracle commercializes in the episode.
+- [Top Gun: Maverick](entities/TopGunMaverick.md) — Skydance franchise hit used as David Ellison's credibility proof before larger media-control deals.
+- [Stargate AI Infrastructure](entities/StargateAIInfrastructure.md) — U.S. AI infrastructure plan used by the source to link Oracle, OpenAI, Trump, and strategic compute access.
+- [CBS](entities/CBS.md) — Paramount-linked broadcast/news asset used in the episode's media-ownership independence concern.
+- [CNN](entities/CNN.md) — Warner Bros. Discovery news asset used in the episode's media-ownership independence concern.
+- [HBO](entities/HBO.md) — Warner Bros. Discovery premium entertainment asset used in the episode's consolidation and IP library story.
+- [Federal Communications Commission](entities/FederalCommunicationsCommission.md) — U.S. communications regulator relevant to the Paramount approval branch in the source.
+- [U.S. Department of Justice](entities/USDepartmentOfJustice.md) — U.S. antitrust regulator relevant to the Warner Bros. Discovery transaction branch in the source.
 - [BBK](entities/BBK.md) — Duan Yongping's consumer-electronics company system that later produced the OPPO and vivo smartphone routes.
 - [Coolpad](entities/Coolpad.md) — "中华酷联" carrier-phone company whose dual-SIM technical strengths became harder to sustain after operator subsidies retreated.
 - [Flyme](entities/Flyme.md) — Meizu's smartphone software identity and domestic Android customization case.
@@ -1581,7 +1594,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jony Ive](entities/JonyIve.md) — Former Apple designer linked to OpenAI's possible AI device work and the unresolved next-interface question.
 - [Warner Bros. Discovery](entities/WarnerBrosDiscovery.md) — Media company whose studio and streaming assets anchor the episode's Netflix-versus-Paramount consolidation discussion.
 - [Paramount](entities/Paramount.md) — David Ellison-led bidder in the Warner Bros. Discovery streaming-consolidation segment.
-- [David Ellison](entities/DavidEllison.md) — Media executive named in connection with Paramount's bid for Warner Bros. Discovery assets.
 - [McDonald's Netherlands](entities/McDonaldsNetherlands.md) — Brand unit that pulled an AI-generated Christmas ad after backlash, grounding the episode's AI advertising discussion.
 - [Scott Brennan](entities/ScottBrennan.md) — NYU Center on Technology Policy researcher explaining why Public Utility Commissions matter to AI data-center growth and ratepayer protection.
 - [NYU Center on Technology Policy](entities/NYUCenterOnTechnologyPolicy.md) — Institutional source for the Marketplace Tech discussion of public utility commissions as AI infrastructure gatekeepers.
@@ -2296,7 +2308,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Seedance](entities/Seedance.md) — ByteDance video model discussed as evidence that AI video is moving from mockups toward production-like media.
 - [GLM5](entities/GLM5.md) — Zhipu AI model used in the Keji Luandun source's hands-on AI coding and product-prototype examples.
 - [热乎乱炖](entities/RehuLuandun.md) — AI-assisted Keji Luandun news aggregation and host-style commentary project built from prior transcript voice patterns.
-- [Oracle](entities/Oracle.md) — Cloud company added through the Keji Luandun data-center episode as a case of regional infrastructure exposure under digital infrastructure war risk.
 - [Ronnen Harary](entities/RonnenHarary.md) — Spin Master co-founder and Advice Line guest advising consumer founders on material constraints, scaling ambition, storytelling, and founder work boundaries.
 - [Spin Master](entities/SpinMaster.md) — Toy and children's entertainment company behind PAW Patrol, used as a case for balancing acquisition, internal innovation, and franchise renewal.
 - [PAW Patrol](entities/PAWPatrol.md) — Spin Master children's franchise illustrating how long-running consumer IP must be refreshed through new stories, characters, toys, and movies.
@@ -2836,6 +2847,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Enterprise Database Lock-In](concepts/EnterpriseDatabaseLockIn.md) — Switching-cost structure that makes critical database systems sticky and lets vendors monetize renewals, support, and migration risk.
+- [Political Regulatory Leverage](concepts/PoliticalRegulatoryLeverage.md) — Business value from political relationships, approvals, procurement position, litigation posture, or regulatory certainty.
+- [Media Ownership Independence Risk](concepts/MediaOwnershipIndependenceRisk.md) — Risk that newsroom autonomy weakens when parent companies depend on political approval, settlement pressure, or merger review.
 - [Handset Market Concentration](concepts/HandsetMarketConcentration.md) — Smartphone market-structure outcome where China's many phone brands consolidated into a small set of top players.
 - [Internet Phone Model](concepts/InternetPhoneModel.md) — Online/community/direct-sales smartphone route associated with Xiaomi, MIUI, Redmi, Honor, Smartisan, and OnePlus.
 - [Offline Handset Channel System](concepts/OfflineHandsetChannelSystem.md) — OPPO/vivo-style retail, agent, sales, advertising, and after-sales model for lower-tier and physical-store smartphone competition.

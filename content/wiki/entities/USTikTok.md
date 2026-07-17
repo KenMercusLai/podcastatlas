@@ -2,8 +2,8 @@
 title: "U.S. TikTok"
 type: entity
 tags: [company, social-platform, ownership, cloud]
-sources: [tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources: [vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]
+last_updated: 2026-07-17
 ---
 
 # U.S. TikTok
@@ -12,7 +12,10 @@ U.S. TikTok is the new American version of [[TikTok]] discussed in [[tech-202602
 
 The source makes U.S. TikTok a [[PlatformOwnershipTransition]] case. The user-facing app may still feel like TikTok, but ownership, infrastructure, terms of service, and data collection can change underneath. The episode says the service had major outages after a storm, creators saw zero views or likes, and Oracle-backed cloud infrastructure became part of the early reliability question.
 
+[[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] adds a political-access interpretation. The [[ShangyeJiushiZheyang]] episode says [[Oracle]] ultimately received a 15% stake as well as data-hosting and algorithm-supervision roles, and treats that outcome as difficult to explain through ordinary commercial logic alone. In this source, U.S. TikTok becomes both a [[PlatformOwnershipTransition]] case and a [[PoliticalRegulatoryLeverage]] case.
+
 ## Connections
 - [[TikTok]] and [[ByteDance]] - original platform and parent-company context.
 - [[Oracle]], [[MGX]], and [[SilverLake]] - ownership and infrastructure actors named in the episode.
 - [[PlatformOwnershipTransition]], [[PlatformDependencyRisk]], and [[SaaSReliabilityUnderPolicyRisk]] - concepts extended by the source.
+- [[LarryEllison]], [[DonaldTrump]], and [[PoliticalRegulatoryLeverage]] - political access branch added by 商业就是这样.

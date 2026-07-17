@@ -2,8 +2,8 @@
 title: "TikTok"
 type: entity
 tags: [company, social-platform, internationalization]
-sources: [tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]
-last_updated: 2026-07-12
+sources: [vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec]
+last_updated: 2026-07-17
 ---
 
 # TikTok
@@ -24,6 +24,8 @@ For the wiki, TikTok extends [[CrossCulturalProductDesign]] from Southeast Asian
 
 [[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] adds the [[USTikTok|U.S. TikTok]] ownership-transition layer. The episode says a new American version was finalized with investors including [[Oracle]], [[MGX]], and [[SilverLake]] owning more than 80%, then experienced major outages after a storm. The source connects the transition to Oracle infrastructure, creator frustration, and terms of service that reportedly allow more data collection.
 
+[[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] adds the political-regulatory reading of the same U.S. transition. The [[ShangyeJiushiZheyang]] episode says [[Oracle]] received a stake, data-hosting role, and algorithm-supervision role, and treats that position as part of [[LarryEllison]]'s broader [[PoliticalRegulatoryLeverage]] alongside AI infrastructure and media approvals.
+
 ## Connections
 
 - [[MusicalLy]], [[ByteDance]], [[Vanessa]], [[AlexZhu]], and [[ZhangNan]] — product-formation and organization context added by the Luanfanshu source.
@@ -36,3 +38,4 @@ For the wiki, TikTok extends [[CrossCulturalProductDesign]] from Southeast Asian
 - [[CityCommercialObservation]] — listener-submission method that surfaced the employee account.
 - [[XuHongliang]], [[ByteDanceGrowthSystem]], [[LTVBasedGrowthBudgeting]], [[AutomatedPerformanceMarketing]], [[CreativeMaterialIndustrialization]], and [[GlobalProductLocalization]] — growth and overseas-organization layer added by the episode 7 source.
 - [[USTikTok|U.S. TikTok]], [[Oracle]], [[MGX]], [[SilverLake]], and [[PlatformOwnershipTransition]] — ownership, infrastructure, and terms-of-service layer added by Marketplace Tech.
+- [[LarryEllison]], [[DonaldTrump]], and [[PoliticalRegulatoryLeverage]] - political-regulatory branch added by 商业就是这样.

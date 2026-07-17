@@ -3560,3 +3560,19 @@ Added source page for the Banlatte episode completing the Chinese phone-history 
 ## [2026-07-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-17] ingest | Vol.265 跨越50年的美国版本之子
+
+Added source page for the 商业就是这样 episode on Larry and David Ellison, Oracle's relational-database wealth, Skydance, Paramount, Warner Bros. Discovery, Stargate AI infrastructure, U.S. TikTok, Trump political access, and media ownership independence risk. Created pages for Larry Ellison, Skydance, Top Gun: Maverick, Stargate AI Infrastructure, CBS, CNN, HBO, the Federal Communications Commission, the U.S. Department of Justice, IBM, Enterprise Database Lock-In, Political Regulatory Leverage, and Media Ownership Independence Risk; updated overview, index, Oracle, David Ellison, Paramount, Warner Bros. Discovery, U.S. TikTok, Donald Trump, OpenAI, White House, Steve Jobs, TikTok, 商业就是这样, Political Influence Monetization, Presidential Conflict Of Interest, Streaming Consolidation, Platform Ownership Transition, AI Compute Continuity, Data Center Debt Risk, Paper Wealth Vs Cash Value, Vertical Media Distribution, Entertainment IP Flywheel, and Public Service Journalism. No direct contradiction found; the source updates earlier Warner Bros. Discovery bidding coverage as a later-stage Paramount-Skydance-centered account and keeps the political-causality claims qualified as inference rather than proven quid pro quo.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran health and lint. Health scanned 4,694 pages and passed with no empty/stub files, index drift, or source-log coverage gaps. Lint scanned 4,694 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-17 with 4,618 nodes and 45,530 edges while the wiki scan found 4,694 pages, so graph findings may lag the latest pages; they found no hub stubs, no fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified and no provider API-key variables are present. No `wiki/lint-report.md` file was saved.
+
+## [2026-07-18] graph | Knowledge graph rebuilt
+
+4694 nodes, 46331 edges (46331 extracted, 0 inferred).
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint after refreshing the deterministic graph. Lint scanned 4,694 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md`, `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used the refreshed `graph/graph.json` with 4,694 nodes and 46,331 extracted edges; they found no hub stubs, one fragile bridge (`entities/WangYong` -> `concepts/AIPlusTerminals`), and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified and no provider API-key variables are present. No `wiki/lint-report.md` file was saved.

@@ -2879,6 +2879,14 @@
     "title": "CBH Homes",
     "url": "/wiki/entities/cbhhomes/"
   },
+  "CBS": {
+    "title": "CBS",
+    "url": "/wiki/entities/cbs/"
+  },
+  "CNN": {
+    "title": "CNN",
+    "url": "/wiki/entities/cnn/"
+  },
   "CNOOC": {
     "title": "CNOOC / 中国海油",
     "url": "/wiki/entities/cnooc/"
@@ -5439,6 +5447,10 @@
     "title": "Enterprise Data Activation",
     "url": "/wiki/concepts/enterprisedataactivation/"
   },
+  "EnterpriseDatabaseLockIn": {
+    "title": "Enterprise Database Lock-In",
+    "url": "/wiki/concepts/enterprisedatabaselockin/"
+  },
   "EnterpriseFileSync": {
     "title": "Enterprise File Sync",
     "url": "/wiki/concepts/enterprisefilesync/"
@@ -5798,6 +5810,10 @@
   "FedNow": {
     "title": "FedNow",
     "url": "/wiki/entities/fednow/"
+  },
+  "FederalCommunicationsCommission": {
+    "title": "Federal Communications Commission",
+    "url": "/wiki/entities/federalcommunicationscommission/"
   },
   "FederalGovernmentWeaponizationNarrative": {
     "title": "Federal Government Weaponization Narrative",
@@ -7043,6 +7059,10 @@
     "title": "Guy Raz",
     "url": "/wiki/entities/guyraz/"
   },
+  "HBO": {
+    "title": "HBO",
+    "url": "/wiki/entities/hbo/"
+  },
   "HEB": {
     "title": "H-E-B",
     "url": "/wiki/entities/heb/"
@@ -7742,6 +7762,10 @@
   "Hyperfixed": {
     "title": "Hyperfixed",
     "url": "/wiki/entities/hyperfixed/"
+  },
+  "IBM": {
+    "title": "IBM",
+    "url": "/wiki/entities/ibm/"
   },
   "ICEInvestor": {
     "title": "ICE",
@@ -9143,6 +9167,10 @@
     "title": "Larry Baker",
     "url": "/wiki/entities/larrybaker/"
   },
+  "LarryEllison": {
+    "title": "Larry Ellison",
+    "url": "/wiki/entities/larryellison/"
+  },
   "LarryPage": {
     "title": "Larry Page",
     "url": "/wiki/entities/larrypage/"
@@ -10290,6 +10318,10 @@
   "MediaInternetConvergence": {
     "title": "Media Internet Convergence",
     "url": "/wiki/concepts/mediainternetconvergence/"
+  },
+  "MediaOwnershipIndependenceRisk": {
+    "title": "Media Ownership Independence Risk",
+    "url": "/wiki/concepts/mediaownershipindependencerisk/"
   },
   "MediaTek": {
     "title": "MediaTek",
@@ -12226,6 +12258,10 @@
   "PoliticalMemeStock": {
     "title": "Political Meme Stock",
     "url": "/wiki/concepts/politicalmemestock/"
+  },
+  "PoliticalRegulatoryLeverage": {
+    "title": "Political Regulatory Leverage",
+    "url": "/wiki/concepts/politicalregulatoryleverage/"
   },
   "PoliticalShowTrial": {
     "title": "Political Show Trial",
@@ -14219,6 +14255,10 @@
     "title": "Skild AI",
     "url": "/wiki/entities/skildai/"
   },
+  "Skydance": {
+    "title": "Skydance",
+    "url": "/wiki/entities/skydance/"
+  },
   "Skyscanner": {
     "title": "Skyscanner",
     "url": "/wiki/entities/skyscanner/"
@@ -14570,6 +14610,10 @@
   "Starbucks": {
     "title": "Starbucks",
     "url": "/wiki/entities/starbucks/"
+  },
+  "StargateAIInfrastructure": {
+    "title": "Stargate AI Infrastructure",
+    "url": "/wiki/entities/stargateaiinfrastructure/"
   },
   "StarlingBank": {
     "title": "Starling Bank",
@@ -15539,6 +15583,10 @@
     "title": "Tool Rationality Spillover",
     "url": "/wiki/concepts/toolrationalityspillover/"
   },
+  "TopGunMaverick": {
+    "title": "Top Gun: Maverick",
+    "url": "/wiki/entities/topgunmaverick/"
+  },
   "TopOfJapan": {
     "title": "Top of Japan",
     "url": "/wiki/entities/topofjapan/"
@@ -15814,6 +15862,10 @@
   "USDepartmentOfHomelandSecurity": {
     "title": "U.S. Department of Homeland Security",
     "url": "/wiki/entities/usdepartmentofhomelandsecurity/"
+  },
+  "USDepartmentOfJustice": {
+    "title": "U.S. Department of Justice",
+    "url": "/wiki/entities/usdepartmentofjustice/"
   },
   "USDepartmentOfLabor": {
     "title": "U.S. Department of Labor",
@@ -18658,6 +18710,10 @@
   "vol-264-ba-shijiebei-zuowei-fangfa-999416048": {
     "title": "Vol.264 把世界杯作为方法",
     "url": "/wiki/sources/vol-264-ba-shijiebei-zuowei-fangfa-999416048/"
+  },
+  "vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591": {
+    "title": "Vol.265 跨越50年的美国版本之子",
+    "url": "/wiki/sources/vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591/"
   },
   "weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces": {
     "title": "为什么公司用不好AI？从焦虑到行动的 3 个关键动作｜对谈百融智能张韶峰",

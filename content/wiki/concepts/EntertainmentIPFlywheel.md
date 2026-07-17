@@ -2,8 +2,8 @@
 title: "Entertainment IP Flywheel"
 type: concept
 tags: [media, ip, strategy, distribution]
-sources: [the-walt-disney-company-1, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
-last_updated: 2026-07-10
+sources: [vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, the-walt-disney-company-1, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
+last_updated: 2026-07-17
 ---
 
 # Entertainment IP Flywheel
@@ -16,6 +16,8 @@ The concept extends the wiki's [[DistributionLedProductBuilding]] branch. Disney
 
 [[142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]] adds a contrast case through [[Sanrio]] and [[PopMart]]. The source argues that some consumer IP works as [[ImageFirstIP]] rather than a Disney-style narrative flywheel: the character image and emotional function travel first, while the story universe is secondary or shallow.
 
+[[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] adds a franchise-financing version through [[Skydance]] and [[TopGunMaverick]]. The source argues that [[DavidEllison]] reduced risk by attaching Skydance to [[Paramount]] distribution and established IP, then used the credibility of major franchise hits to justify larger ownership moves.
+
 ## Key Claims
 - Owned IP can justify higher creative investment when the same asset can generate value in many downstream forms.
 - Animation is structurally attractive because characters do not age, do not demand star economics, and can be rereleased or repackaged for new audiences.
@@ -25,6 +27,7 @@ The concept extends the wiki's [[DistributionLedProductBuilding]] branch. Disney
 - The flywheel can decay if management harvests old IP without creating new emotionally resonant work.
 - Franchise continuation works better when it gives old characters a present-tense household or cultural problem to carry.
 - Image-first IP can be commercially powerful without a deep story universe, but it faces different cycle and business-model risks from a narrative flywheel.
+- Franchise IP can also serve as credibility collateral for a media entrant, especially when the company uses known properties to prove execution before pursuing studio control.
 
 ## Connections
 - [[TheWaltDisneyCompany]], [[WaltDisney]], and [[RoyDisney]] - source case.
@@ -33,3 +36,4 @@ The concept extends the wiki's [[DistributionLedProductBuilding]] branch. Disney
 - [[DistributionLedProductBuilding]], [[ProductLedWillingnessToPay]], and [[ExperientialRetail]] - adjacent wiki concepts.
 - [[ToyStory5]] and [[ScreenTimeParenting]] - later cultural-review case added by The Intelligence.
 - [[Sanrio]], [[PopMart]], [[Labubu]], and [[ImageFirstIP]] - consumer-IP contrast added by FengTouQuan episode 142.
+- [[Skydance]], [[TopGunMaverick]], [[Paramount]], and [[DavidEllison]] - franchise-financing branch added by 商业就是这样.
