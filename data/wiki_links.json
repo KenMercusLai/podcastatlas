@@ -527,6 +527,10 @@
     "title": "99.很久很久以前，妖怪也推理啊…",
     "url": "/wiki/sources/99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220/"
   },
+  "A23A": {
+    "title": "A23A",
+    "url": "/wiki/entities/a23a/"
+  },
   "A7A5": {
     "title": "A7A5",
     "url": "/wiki/entities/a7a5/"
@@ -1883,6 +1887,10 @@
     "title": "Anne Boden",
     "url": "/wiki/entities/anneboden/"
   },
+  "AnneRowe": {
+    "title": "Anne Rowe",
+    "url": "/wiki/entities/annerowe/"
+  },
   "AnneSanitaryNapkin": {
     "title": "安妮卫生巾 / Anne",
     "url": "/wiki/entities/annesanitarynapkin/"
@@ -2050,6 +2058,10 @@
   "Area51": {
     "title": "Area 51 / 51区",
     "url": "/wiki/entities/area51/"
+  },
+  "Argentina": {
+    "title": "Argentina",
+    "url": "/wiki/entities/argentina/"
   },
   "AriRedbord": {
     "title": "Ari Redbord",
@@ -2630,6 +2642,10 @@
   "BengdiBanzhang": {
     "title": "蹦迪班长",
     "url": "/wiki/entities/bengdibanzhang/"
+  },
+  "BenjaminNetanyahu": {
+    "title": "Benjamin Netanyahu",
+    "url": "/wiki/entities/benjaminnetanyahu/"
   },
   "BerkshireHathaway": {
     "title": "Berkshire Hathaway",
@@ -4406,6 +4422,10 @@
   "CrisisStakeholderLeadership": {
     "title": "Crisis Stakeholder Leadership",
     "url": "/wiki/concepts/crisisstakeholderleadership/"
+  },
+  "CristianoRonaldo": {
+    "title": "Cristiano Ronaldo",
+    "url": "/wiki/entities/cristianoronaldo/"
   },
   "CriticalMineralsGeopolitics": {
     "title": "Critical Minerals Geopolitics",
@@ -6947,6 +6967,10 @@
     "title": "Gabrielle Santos",
     "url": "/wiki/entities/gabriellesantos/"
   },
+  "GadiEisenkot": {
+    "title": "Gadi Eisenkot",
+    "url": "/wiki/entities/gadieisenkot/"
+  },
   "GaiaBernstein": {
     "title": "Gaia Bernstein",
     "url": "/wiki/entities/gaiabernstein/"
@@ -7719,6 +7743,10 @@
     "title": "Hardware Talent Spillover",
     "url": "/wiki/concepts/hardwaretalentspillover/"
   },
+  "HarediConscription": {
+    "title": "Haredi Conscription",
+    "url": "/wiki/concepts/harediconscription/"
+  },
   "HarjTaggar": {
     "title": "Harj Taggar",
     "url": "/wiki/entities/harjtaggar/"
@@ -8303,6 +8331,10 @@
     "title": "Ibrahim Almohanna",
     "url": "/wiki/entities/ibrahimalmohanna/"
   },
+  "IcebergClimateSymbolism": {
+    "title": "Iceberg Climate Symbolism",
+    "url": "/wiki/concepts/icebergclimatesymbolism/"
+  },
   "Iceland": {
     "title": "Iceland",
     "url": "/wiki/entities/iceland/"
@@ -8742,6 +8774,10 @@
   "IsraelAcabla": {
     "title": "Israel Acabla",
     "url": "/wiki/entities/israelacabla/"
+  },
+  "IsraeliElection2026": {
+    "title": "Israeli Election 2026",
+    "url": "/wiki/concepts/israelielection2026/"
   },
   "IssunBoshi": {
     "title": "一寸法师 / Issun Boshi",
@@ -9266,6 +9302,10 @@
   "JoshSchaeffer": {
     "title": "Josh Schaeffer",
     "url": "/wiki/entities/joshschaeffer/"
+  },
+  "JosieDallap": {
+    "title": "Josie Dallap",
+    "url": "/wiki/entities/josiedallap/"
   },
   "JourneyToTheWest": {
     "title": "《西游记》",
@@ -11711,6 +11751,10 @@
     "title": "NYU Center on Technology Policy",
     "url": "/wiki/entities/nyucenterontechnologypolicy/"
   },
+  "NaftaliBennett": {
+    "title": "Naftali Bennett",
+    "url": "/wiki/entities/naftalibennett/"
+  },
   "NancyQian": {
     "title": "Nancy Qian",
     "url": "/wiki/entities/nancyqian/"
@@ -12498,6 +12542,10 @@
   "Palantir": {
     "title": "Palantir",
     "url": "/wiki/entities/palantir/"
+  },
+  "PalestinianQuestionInIsraeliPolitics": {
+    "title": "Palestinian Question in Israeli Politics",
+    "url": "/wiki/concepts/palestinianquestioninisraelipolitics/"
   },
   "PaloAltoDelivery": {
     "title": "PaloAltoDelivery",
@@ -15475,6 +15523,10 @@
     "title": "Sports Media Rights",
     "url": "/wiki/concepts/sportsmediarights/"
   },
+  "SportsPoliticalInterference": {
+    "title": "Sports Political Interference",
+    "url": "/wiki/concepts/sportspoliticalinterference/"
+  },
   "SportsRightsGrowthEngine": {
     "title": "Sports Rights Growth Engine",
     "url": "/wiki/concepts/sportsrightsgrowthengine/"
@@ -18119,6 +18171,10 @@
     "title": "Yahoo Store",
     "url": "/wiki/entities/yahoostore/"
   },
+  "YairLapid": {
+    "title": "Yair Lapid",
+    "url": "/wiki/entities/yairlapid/"
+  },
   "YakumoHospital": {
     "title": "八云医院",
     "url": "/wiki/entities/yakumohospital/"
@@ -20030,6 +20086,10 @@
   "yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f": {
     "title": "一个 AI 创始人的虚荣心、装，和愚昧之巅｜对谈 invoko.ai 创始人梦琪",
     "url": "/wiki/sources/yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f/"
+  },
+  "youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410": {
+    "title": "You've come a long way, Bibi: Israel's crucial election",
+    "url": "/wiki/sources/youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410/"
   },
   "zhe-bannian-women-you-maile-naxie-keji-haowu-1": {
     "title": "这半年，我们又买了哪些科技好物？",

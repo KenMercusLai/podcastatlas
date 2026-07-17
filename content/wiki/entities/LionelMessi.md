@@ -2,8 +2,8 @@
 title: "Lionel Messi"
 type: entity
 tags: [football, sports, attention]
-sources: [172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860]
-last_updated: 2026-07-15
+sources: [172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
+last_updated: 2026-07-18
 ---
 
 # Lionel Messi
@@ -12,7 +12,10 @@ Lionel Messi appears in [[172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-h
 
 The point is not a sports biography. Messi functions as the source's analogy for [[LuckAsInformationBandwidth]]: skillful people do not merely act more; they perceive more relevant structure before acting.
 
+[[youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]] adds Messi as part of [[FIFAWorldCup]] memory. [[JohnFasman]] says the final may show whether [[Spain]] can complete the tournament without conceding or whether Messi can bring [[Argentina]] a second straight title, possibly in his last World Cup.
+
 ## Connections
 - [[ObservationBeforeInference]] - broader wiki method of seeing before over-explaining.
 - [[LuckAsInformationBandwidth]] - episode's claim that good outcomes depend on noticing useful information.
 - [[WuQingyuan]] and [[AlphaGo]] - adjacent examples of complex-system perception in the source.
+- [[FIFAWorldCup]], [[Argentina]], [[Spain]], and [[CristianoRonaldo]] - World Cup memory branch added by The Intelligence.

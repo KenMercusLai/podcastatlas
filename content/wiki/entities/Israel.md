@@ -2,8 +2,8 @@
 title: "Israel"
 type: entity
 tags: [country, geopolitics, security]
-sources: [tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3]
-last_updated: 2026-07-12
+sources: [tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
+last_updated: 2026-07-18
 ---
 
 # Israel
@@ -14,6 +14,8 @@ Israel appears in [[missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54
 
 The source frames Israel's behavior through security skepticism. Israeli forces show The Economist's correspondent a tunnel allegedly used to assemble attack drones, and the episode interprets that display as part of Israel's case for continued operations in Lebanon despite diplomatic pressure.
 
+[[youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]] shifts the Israel branch from regional spoiler risk to domestic electoral judgment. The episode frames [[IsraeliElection2026]] as a post-October-7 test of [[BenjaminNetanyahu]], wartime leadership, coalition dependence, [[HarediConscription]], education, and the avoided [[PalestinianQuestionInIsraeliPolitics]].
+
 ## Connections
 - [[Shahed136]], [[Iran]], [[LowCostDroneWarfare]], [[DroneDefenseEconomics]], and [[CounterDroneLayeredDefense]] - drone-defense pressure branch added by Marketplace Tech.
 - [[Hezbollah]] - armed movement Israel treats as the immediate military threat.
@@ -21,3 +23,5 @@ The source frames Israel's behavior through security skepticism. Israeli forces 
 - [[Iran]] and [[USIranNuclearDiplomacy]] - wider deal that Israeli-Lebanese fighting could disrupt.
 - [[ProxyConflictSpoilerRisk]] - concept explaining why excluded or adjacent actors can undermine formal diplomacy.
 - [[DonaldTrump]] and [[JDVance]] - U.S. political figures used in the episode's strained-alliance frame.
+- [[BenjaminNetanyahu]], [[NaftaliBennett]], [[YairLapid]], and [[GadiEisenkot]] - election actors added by the Bibi source.
+- [[IsraeliElection2026]], [[HarediConscription]], and [[PalestinianQuestionInIsraeliPolitics]] - domestic politics concepts added by the Bibi source.

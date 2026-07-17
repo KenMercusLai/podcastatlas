@@ -2,8 +2,8 @@
 title: "Climate Adaptation"
 type: concept
 tags: [climate, resilience, governance]
-sources: [65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, socialradarss2-billclerico-final, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, indy-johar-civilizational-optioneering-tyeyt7r-zfu, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
-last_updated: 2026-07-08
+sources: [65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, socialradarss2-billclerico-final, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, indy-johar-civilizational-optioneering-tyeyt7r-zfu, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
+last_updated: 2026-07-18
 ---
 
 # Climate Adaptation
@@ -17,6 +17,8 @@ The source's contribution is to connect climate adaptation to [[CivilizationalOp
 [[missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3]] adds a near-term shock case through [[ElNinoClimateRisk]]. The episode frames a potentially strong [[ElNino]] as more dangerous because it arrives on top of global warming and existing food insecurity, making drought-tolerant seeds, fodder storage, and water supplies practical adaptation measures.
 
 [[fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]] adds household cooling as an adaptation case. The Europe segment argues that [[CoolingAsPublicHealth]] becomes more compelling as heat deaths rise and electricity grids add lower-carbon power, though affordability, grid mix, efficiency, and demand management still matter.
+
+[[youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]] adds a polar-symbolism edge case through [[A23A]] and [[IcebergClimateSymbolism]]. The episode is not a practical adaptation guide, but it shows why climate communication often attaches to concrete objects whose change is visible, narratable, and ecologically ambiguous.
 
 [[socialradarss2-billclerico-final]] adds wildfire resilience through [[FireTechClimateResilience]]. [[BillClerico]] argues that climate-driven fire risk needs a portfolio of tools across detection, suppression, vegetation management, home hardening, utility mitigation, insurance, and filtration, with [[ConvectiveCapital]] funding startups such as [[OverStory]].
 
@@ -40,6 +42,7 @@ The source's contribution is to connect climate adaptation to [[CivilizationalOp
 - [[BioregionalResilience]] — regenerative adaptation path.
 - [[ElNino]] and [[ElNinoClimateRisk]] — climate-cycle shock and preparation frame from The Intelligence.
 - [[CoolingAsPublicHealth]] — air-conditioning and household cooling branch added by The Intelligence.
+- [[A23A]] and [[IcebergClimateSymbolism]] — polar-object climate-communication branch added by The Intelligence.
 - [[FireTechClimateResilience]], [[ConvectiveCapital]], and [[OverStory]] — wildfire resilience branch added by The Social Radars.
 - [[LeapForward]], [[EconomicClimateTechAdoption]], [[BlueDot]], and [[ElectricAir]] - climate-tech adoption branch added by The Social Radars.
 - [[WetlandAdaptation]], [[FloodControlRiskTransfer]], [[NaturalHazardSocialDisaster]], and [[YangtzeRiver]] - historical flood-adaptation branch added by episode 65.

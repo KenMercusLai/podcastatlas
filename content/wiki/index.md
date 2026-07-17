@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [You've come a long way, Bibi: Israel's crucial election](sources/youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410.md) — The Intelligence episode on Israel's post-October-7 election, Netanyahu and opposition coalition arithmetic, Haredi conscription, avoidance of the Palestinian question, World Cup expansion and political interference, and A23A as climate symbolism.
 - [50 Cents a Pool: The Pricing Model Behind a SaaS Exit](sources/50-cents-a-pool-the-pricing-model-behind-a-saas-exit.md) — The SaaS Podcast episode with Ron Hash on building Skimmer for pool-service companies, field-first mobile UX, offline technician workflows, serviced-customer pricing, onboarding-led churn reduction, and selling after reaching $1M+ ARR.
 - [The sneaky way companies get new chemicals into our food](sources/the-sneaky-way-companies-get-new-chemicals-into-our-food.md) — Planet Money episode on Daily Harvest, tara flour, Secret GRAS, food-additive self-certification, FDA notification gaps, arbitration, litigation discovery, and post-harm regulation.
 - [The leaked tapes that show how the rich avoid taxes](sources/the-leaked-tapes-that-show-how-the-rich-avoid-taxes.md) — Planet Money episode on the Malta tax loophole, U.S.-Malta treaty arbitrage, IRS enforcement, economic substance, leaked strategy calls, disclosure rules, and the politics of tax shelter enforcement.
@@ -475,6 +476,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Benjamin Netanyahu](entities/BenjaminNetanyahu.md) — Israeli prime minister whose post-October-7 leadership, coalition dependence, and dealmaking anchor the Bibi election source.
+- [Naftali Bennett](entities/NaftaliBennett.md) — Former Israeli prime minister and Together opposition figure in the 2026 election source.
+- [Yair Lapid](entities/YairLapid.md) — Former Israeli prime minister and Together opposition figure whose role illustrates anti-Netanyahu coalition arithmetic.
+- [Gadi Eisenkot](entities/GadiEisenkot.md) — Former IDF chief and opposition figure whose war-cabinet resignation links security credibility to election politics.
+- [Josie Dallap](entities/JosieDallap.md) — The Intelligence contributor analyzing Israel's post-October-7 election, coalition issues, conscription, and Palestinian-question avoidance.
+- [Anne Rowe](entities/AnneRowe.md) — The Intelligence reporter whose A23A segment turns iceberg breakup into ecological and climate-symbolic narrative.
+- [A23A](entities/A23A.md) — Antarctic iceberg profiled as a trillion-ton polar object whose breakup carries ecological and climate-symbolic meaning.
+- [Argentina](entities/Argentina.md) — World Cup finalist in the Bibi source, linked to Messi's possible second straight title and tournament-memory framing.
+- [Cristiano Ronaldo](entities/CristianoRonaldo.md) — Footballer named as part of the possible last World Cup memory alongside Lionel Messi.
 - [Ron Hash](entities/RonHash.md) — Skimmer founder and QuickFax builder whose SaaS Podcast episode covers vertical SaaS validation, pricing, onboarding, support, acquisition, and founder role transition.
 - [Skimmer](entities/Skimmer.md) — Pool-service vertical SaaS company built around mobile route execution, chemical logs, offline field work, serviced-customer pricing, and support-led growth.
 - [QuickFax](entities/QuickFax.md) — Ron Hash's accountless online faxing product, framed as another simple solution to an unglamorous workflow pain.
@@ -3051,6 +3061,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Israeli Election 2026](concepts/IsraeliElection2026.md) — Election frame for post-October-7 judgment on Netanyahu, war leadership, opposition coalition viability, conscription, education, and strategic avoidance.
+- [Haredi Conscription](concepts/HarediConscription.md) — Israeli burden-sharing dispute over ultra-Orthodox military-service exemptions and their campaign role.
+- [Palestinian Question in Israeli Politics](concepts/PalestinianQuestionInIsraeliPolitics.md) — Source frame for the central Palestinian issue being avoided in Israeli election campaigning despite West Bank risk.
+- [Sports Political Interference](concepts/SportsPoliticalInterference.md) — Governance risk where political leaders pressure sporting decisions such as discipline, refereeing, or tournament access.
+- [Iceberg Climate Symbolism](concepts/IcebergClimateSymbolism.md) — Media and climate frame where a named iceberg's breakup carries natural-cycle, ecological, and warming-sea meanings at once.
 - [Usage-Based Vertical SaaS Pricing](concepts/UsageBasedVerticalSaaSPricing.md) — Pricing pattern where a vertical software product charges against a domain-specific value metric, such as Skimmer's serviced-customer count, rather than generic seats.
 - [Field-First Vertical SaaS](concepts/FieldFirstVerticalSaaS.md) — Vertical software strategy that designs around frontline field workers, mobile devices, offline use, and fast repeated data entry rather than only office dashboards.
 - [Onboarding-Led Churn Reduction](concepts/OnboardingLedChurnReduction.md) — SaaS retention pattern where welcome calls, setup instrumentation, device fit, and a fast path to the first real workflow reduce early churn.

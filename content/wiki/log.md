@@ -3814,3 +3814,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-18] ingest | You've come a long way, Bibi: Israel's crucial election
+
+Added source page for The Intelligence episode on Israel's October 2026 election, Netanyahu's coalition resilience, Haredi conscription, education, avoidance of the Palestinian question, the expanded World Cup's atmosphere and political-interference risks, and A23A's breakup as climate symbolism. Created pages for Benjamin Netanyahu, Naftali Bennett, Yair Lapid, Gadi Eisenkot, Josie Dallap, Anne Rowe, A23A, Argentina, Cristiano Ronaldo, Israeli Election 2026, Haredi Conscription, Palestinian Question in Israeli Politics, Sports Political Interference, and Iceberg Climate Symbolism; updated overview, index, Israel, The Intelligence, Economist Podcasts, FIFA World Cup, World Cup Expansion, Donald Trump, John Fasman, Spain, Lionel Messi, and Climate Adaptation. No direct contradiction found; the source extends existing Israel and World Cup branches rather than overturning them.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 5,028 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-18 with 4,998 nodes and 49,201 edges; they found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
