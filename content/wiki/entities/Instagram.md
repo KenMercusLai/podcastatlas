@@ -2,7 +2,7 @@
 title: "Instagram"
 type: entity
 tags: [company, social-media, platform]
-sources: [tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128]
+sources: [tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128]
 last_updated: 2026-07-17
 ---
 
@@ -10,12 +10,15 @@ last_updated: 2026-07-17
 
 Instagram appears in [[tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128]] as one of the [[Meta]] platforms named in state attorneys general litigation over alleged addictive design and youth harms. [[GaiaBernstein]] discusses the case as part of [[StateAGPlatformLitigation]], connecting Instagram to [[SocialMediaProductLiability]], [[COPPA]], [[PlatformDamagesAndDisgorgement]], and the [[BigTobaccoPlatformAnalogy]].
 
+[[tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]] adds Instagram as a [[MuseImage|Muse Image]] surface. The episode says users can create photorealistic images through Meta's generator, including images involving public-profile likenesses unless the person has opted out.
+
 Instagram appears in [[tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128]] as one of the social surfaces students ask AI tools to inspect for college campus vibe. [[MichaelCoppenheifer]] says students may ask [[ChatGPT]] to check [[Reddit]] and Instagram for signals about what a college feels like.
 
 The source adds Instagram to the wiki as a campus-culture input inside [[AICollegeSearch]]. Its role here is not direct institutional marketing alone; it is also informal student-generated evidence that AI tools may summarize when applicants compare schools.
 
 ## Connections
 - [[Meta]], [[Facebook]], [[GaiaBernstein]], [[StateAGPlatformLitigation]], and [[SocialMediaProductLiability]] - youth social-media litigation context added by Marketplace Tech.
+- [[MuseImage|Muse Image]], [[WhatsApp]], and [[AIPublicLikenessGeneration]] - social AI image-generation and public-likeness context added by Marketplace Tech.
 - [[ChatGPT]] and [[Reddit]] - paired AI/social surfaces in the campus-vibe example.
 - [[AICollegeSearch]] - search and decision-assistant context.
 - [[HigherEducationAIDiscoverability]] - institutional counterpart to social-surface visibility.

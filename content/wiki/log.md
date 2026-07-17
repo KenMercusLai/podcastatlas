@@ -3393,6 +3393,10 @@ Added source page for The Intelligence episode on Nigel Farage versus Count Binf
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-17] ingest | OpenAI's GPT-5.6 release raises questions about White House control over new models
+
+Added source page for the Marketplace Tech Bytes episode with Maria Curi on OpenAI's GPT-5.6 release review, White House voluntary-review language, the Center for AI Standards and Innovation, Anthropic export-control pressure, possible Chinese model-access restrictions, and Meta's Muse Image likeness/privacy defaults. Created pages for White House, Center for AI Standards and Innovation, Howard Lutnick, Muse Image, WhatsApp, and AI Public Likeness Generation; updated overview, index, Marketplace Tech, Maria Curi, OpenAI, GPT-5.6, Anthropic, Meta, Instagram, Sora, Meta AI, Mark Zuckerberg, United States, China, Zhipu AI, Frontier Model Release Governance, AI Export Controls, Frontier Model Access Restrictions, and Open Source AI Models. No direct contradiction found; the source qualifies voluntary frontier-model review as practically approval-like and frames social AI content as dependent on public-likeness defaults, opt-out burden, child safety, and trust.
+
 ## [2026-07-17] ingest | Putin's options: an oligarch speaks out
 
 Added source page for The Intelligence episode on Andrey Melnichenko, Russian elite discontent, Putin's escalation-or-inclusion dilemma, Kyiv under intensified air attack, Patriot interceptor scarcity, and the Route 66 stop in Shamrock, Texas. Created pages for Andrey Melnichenko, Arkady Ostrovsky, Oliver Carroll, Kyiv, Patriot Missile System, Aleta Stone, Shamrock, Texas, U Drop Inn, Russian Elite Discontent, Authoritarian War Exit Dilemma, Air Defense Saturation, and Interstate Bypass Economics; updated overview, index, The Intelligence, Economist Podcasts, Russia, Ukraine, Vladimir Putin, Volodymyr Zelensky, War Visibility Strategy, Asymmetric Infrastructure Attack, Low-Cost Drone Warfare, Drone Defense Economics, Starlink, Route 66, John Fasman, and Route 66 Nostalgia Tourism. No direct contradiction found; the source extends the existing war-visibility branch from infrastructure and public confidence into elite survival politics while adding a separate air-defense saturation layer for Kyiv.
@@ -3416,6 +3420,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-17] ingest | Trying to stay off your phone? There's an app for that
 
 Added source page for the Marketplace Tech episode on the digital detox market, Clearspace, app-blocking devices, lockboxes, and Matter Neuroscience's heavy phone case. Created pages for Clearspace, Maria Hollenhorst, Tanya Sujohn, London College of Communication, Ben Goldhersh, Matter Neuroscience, Digital Detox Economy, and Screen Time Friction; updated overview, index, Marketplace Tech, Addictive Interaction Design, and Attention Industrialization. No direct contradiction found; the source extends the attention-design branch by showing consumers paying for counter-design when phones and apps are designed to be hard to stop using.
+
+## [2026-07-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-17] lint | Wiki health check
 

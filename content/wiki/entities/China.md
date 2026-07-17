@@ -2,13 +2,15 @@
 title: "China"
 type: entity
 tags: [country, geopolitics, technology, investment, family-law, football, aviation, consumer, tourism, space, manufacturing, batteries, disaster-history, youth]
-sources: [65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, no-203-businiao-lanshili-979295393, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq]
-last_updated: 2026-07-15
+sources: [65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, no-203-businiao-lanshili-979295393, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq]
+last_updated: 2026-07-17
 ---
 
 # China
 
 [[tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128]] adds China as a comparison case for [[CrossBorderCryptoCapitalFlight]]. [[GilLuria]] says people have used [[Bitcoin]] to get around restrictions on moving capital out of China, linking the episode's Iran-focused crisis discussion to the wiki's existing [[CapitalAccountInvestmentRestrictions]] branch.
+
+[[tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]] adds China as an advanced-model access-control case. The episode says China has reportedly considered restrictions on foreign access to its most powerful AI models and names [[Alibaba]] and [[ByteDance]] as companies involved in discussions reported by [[ThomsonReuters|Reuters]].
 
 China appears in [[latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d]] as the external power whose earlier investment in [[LatinAmerica]] helps explain renewed [[UnitedStates]] attention to the region. The episode says Chinese investment rose until around 2018 and then flattened, but Chinese firms and projects remain central to the regional influence contest.
 
@@ -41,6 +43,7 @@ In the source, China is less a domestic-policy subject than a strategic counterp
 - [[NationalistGovernment]], [[SongZiwen]], [[WuLiande]], [[JohnHopeSimpson]], and [[ChinaInternationalFamineReliefCommission]] - Republican-era relief network added by episode 65.
 - [[NaturalHazardSocialDisaster]], [[FloodControlRiskTransfer]], [[WarDisasterCompounding]], [[FolkReligionDisasterPolitics]], and [[DisasterReliefMismatch]] - 1931 flood concepts added by episode 65.
 - [[Bitcoin]], [[CrossBorderCryptoCapitalFlight]], and [[CapitalAccountInvestmentRestrictions]] - crypto portability and capital-control comparison added by Marketplace Tech.
+- [[AIExportControls]], [[FrontierModelAccessRestrictions]], [[Alibaba]], [[ByteDance]], [[ZhipuAI|ZAI]], and [[OpenSourceAIModels]] - advanced model-access branch added by Marketplace Tech.
 - [[LatinAmerica]] and [[LatinAmericaInvestmentBoom]] - region where Chinese investment and U.S. competition shape capital flows.
 - [[UnitedStates]] and [[DonroeDoctrine]] - rival influence frame in the episode.
 - [[BYD]], [[Brazil]], and [[Chile]] - company and country examples of Chinese-linked regional activity.

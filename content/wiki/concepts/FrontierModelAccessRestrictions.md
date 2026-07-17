@@ -2,8 +2,8 @@
 title: "Frontier Model Access Restrictions"
 type: concept
 tags: [ai, models, policy, access-control]
-sources: [tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]
-last_updated: 2026-07-12
+sources: [tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
+last_updated: 2026-07-17
 ---
 
 # Frontier Model Access Restrictions
@@ -13,6 +13,8 @@ Frontier model access restrictions are limits on who can use a provider's most c
 The source connects model-access restrictions to simpler regional product limitations such as [[Apple]] AI feature availability in China and the [[EuropeanUnion]]. It argues that AI model access is more sensitive because the product's capability is delivered continuously through cloud services, making the provider's policy exposure part of the product itself.
 
 [[roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]] adds an upstream release-governance version. The episode says advanced cyber capability made government review more consequential before models reach broad users, so access restriction can begin as delayed release, restricted previews, or unclear clearance criteria rather than only region blocking.
+
+[[tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]] adds a reciprocal U.S.-China version. The episode says China has reportedly considered restrictions on foreign access to advanced Chinese models, while the United States is trying to reduce domestic company reliance on cheaper Chinese providers such as [[ZhipuAI|ZAI]].
 
 [[tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]] adds a domestic-customer version. The reported [[Anthropic]] and [[USDepartmentOfDefense]] dispute over [[Claude]] is not about blocking foreign users; it is about whether a strategic government customer should receive broader use rights than the provider's acceptable-use policy allows.
 
@@ -27,6 +29,8 @@ The source connects model-access restrictions to simpler regional product limita
 - Release-stage review can create similar uncertainty even before a model is generally available.
 - Access restrictions can also appear inside a domestic government contract when a model provider's use policy conflicts with a customer's desired lawful-use scope.
 - A restriction can propagate through contractor software stacks, forcing substitution even when a model remains technically available for noncritical uses.
+- U.S. and Chinese model-access controls can mirror each other when both sides treat advanced models as national-security, espionage, cybersecurity, trade-secret, and competitiveness assets.
+- Cheaper foreign models can create dependence even when a government wants firms to prefer domestic or allied alternatives.
 
 ## Connections
 - [[AIExportControls]] — broader policy category.
@@ -37,3 +41,4 @@ The source connects model-access restrictions to simpler regional product limita
 - [[OpenSourceAIModels]] — alternative route when access to closed models becomes uncertain.
 - [[Apple]] and [[EuropeanUnion]] — regional availability examples.
 - [[DefenseAIProcurement]], [[DefenseAISupplyChainRisk]], [[FrontierModelUsePolicyConflict]], [[Claude]], and [[USDepartmentOfDefense]] - domestic defense-customer and contractor-restriction versions added by Marketplace Tech Bytes.
+- [[China]], [[Alibaba]], [[ByteDance]], [[ZhipuAI|ZAI]], and [[OpenSourceAIModels]] - Chinese model-access and U.S. substitution branch added by the July 2026 Marketplace Tech episode.

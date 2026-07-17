@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [OpenAI's GPT-5.6 release raises questions about White House control over new models](sources/tech-20260710-tech-pod-128-tech-20260710-tech-pod-128.md) — Marketplace Tech Bytes episode with Maria Curi on GPT-5.6 release review, White House voluntary-review language, China model-access restrictions, and Meta's Muse Image likeness/privacy concerns.
 - [How U.S. political campaigns have used generative AI](sources/tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128.md) — Marketplace Tech episode with Tim Harper of the Center for Democracy and Technology on 2024 campaign AI use, speed and scale, fragmented state political-ad disclosure rules, and future voting-misinformation risks.
 - [Trying to stay off your phone? There's an app for that](sources/tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128.md) — Marketplace Tech episode on the digital detox market, Clearspace, screen-time friction, physical app-blocking tools, and the paradox of paying for products that help people use phones less.
 - [A tech company that 'happens to build homes'](sources/tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128.md) — Marketplace Tech episode with Rhonda Conger on CBH Homes using AI for sales follow-up, warranty support, after-hours customer service, data analysis, and augmentation-focused homebuilding operations.
@@ -431,6 +432,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [White House](entities/WhiteHouse.md) — U.S. executive-office context for the GPT-5.6 review, framed by the episode as voluntary but practically approval-like.
+- [Center for AI Standards and Innovation](entities/CenterForAIStandardsAndInnovation.md) — Government testing and standards body tied to frontier-model release review in the GPT-5.6 episode.
+- [Howard Lutnick](entities/HowardLutnick.md) — Commerce secretary named in the episode's opaque frontier-model review negotiation layer.
+- [Muse Image](entities/MuseImage.md) — Meta AI image generator for Instagram and WhatsApp, raising opt-out and public-profile likeness concerns.
+- [WhatsApp](entities/WhatsApp.md) — Meta messaging surface where Muse Image can create AI-generated images, extending social AI content into familiar communication channels.
 - [Center for Democracy and Technology](entities/CenterForDemocracyAndTechnology.md) — Policy organization behind the report on generative AI use in the 2024 U.S. presidential election.
 - [Tim Harper](entities/TimHarper.md) — Center for Democracy and Technology guest explaining campaign AI use, disclosure patchwork, and future voting misinformation risks.
 - [Clearspace](entities/Clearspace.md) — Screen-time reduction app used by Marketplace Tech to show software-based friction before opening selected apps.
@@ -1122,7 +1128,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nick Swisher](entities/NickSwisher.md) — Indiana Wesleyan University speaker explaining AI-era higher-education marketing and conversational FAQ strategy.
 - [Indiana Wesleyan University](entities/IndianaWesleyanUniversity.md) — Higher-education case spending on AI discoverability and adding FAQ content for prospective student questions.
 - [U.S. News and World Report](entities/USNewsAndWorldReport.md) — Ranking reference used in the college-search episode to show how AI can reinforce familiar school lists.
-- [Instagram](entities/Instagram.md) — Social platform used as a campus-vibe input when students ask AI tools to summarize college culture signals.
+- [Instagram](entities/Instagram.md) — Meta social platform tied to youth-safety litigation, college-search vibe signals, and Muse Image public-likeness generation.
 - [Ray Smith](entities/RaySmith.md) — Wall Street Journal workplace reporter interviewed by Marketplace Tech about AI job interviews, candidate experience, automated assessments, and human-in-the-loop hiring.
 - [Wall Street Journal](entities/WallStreetJournal.md) — Media organization entering the wiki through Ray Smith's Marketplace Tech commentary on AI interviewing and hiring automation.
 - [Davines](entities/Davines.md) — Hair-care brand used as the Marketplace Tech case for a fake sponsored shopping result and AI-assisted retail website impersonation.
@@ -1149,7 +1155,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Flock Safety](entities/FlockSafety.md) — Public-safety camera company whose planned Ring partnership was canceled after Search Party backlash.
 - [Mike Isaac](entities/MikeIsaac.md) — New York Times reporter interviewed by Marketplace Tech about Meta's AI spending, ad business, consumer-assistant gap, smart glasses, and VR priority shift.
 - [New York Times](entities/NewYorkTimes.md) — Media organization entering the wiki through Mike Isaac's Marketplace Tech commentary on Meta's AI strategy.
-- [Meta AI](entities/MetaAI.md) — Meta's consumer AI assistant, discussed as less prominent than ChatGPT and in need of differentiation through personal superintelligence.
+- [Meta AI](entities/MetaAI.md) — Meta's consumer AI assistant and social AI content branch, including Muse Image on Instagram and WhatsApp.
 - [Ray-Ban Smart Glasses](entities/RayBanSmartGlasses.md) — Meta wearable hardware route for putting AI assistance into object recognition, directions, recipes, and other daily contexts.
 - [Reality Labs](entities/RealityLabs.md) — Meta's VR/AR division, used in the source to show AI overtaking VR as the company's more urgent priority.
 - [Daniel Newman](entities/DanielNewman.md) — Marketplace Tech guest explaining why AI-generated prototypes threaten some SaaS categories but do not automatically replace governed enterprise systems.
@@ -1293,7 +1299,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Napster](entities/Napster.md) — File-sharing company contrasted with Google and YouTube as a legal-risk cautionary case.
 - [Sean Fanning](entities/SeanFanning.md) — Napster founder whom Larry Page and Sergey Brin wanted to meet while Google was still small.
 - [Sean Parker](entities/SeanParker.md) — Napster co-builder and later Plaxo/Facebook connector in Conway's account of long founder relationships.
-- [Mark Zuckerberg](entities/MarkZuckerberg.md) — Facebook/Meta founder connected to Conway through Sean Parker and later Silicon Valley infrastructure coordination.
+- [Mark Zuckerberg](entities/MarkZuckerberg.md) — Facebook/Meta founder connected to Conway's founder network and to Meta's AI spending, personal superintelligence, and Muse Image push.
 - [Snowcap](entities/Snowcap.md) — Sean Fanning's post-Napster digital-music licensing attempt backed by Ron Conway and SV Angel.
 - [Plaxo](entities/Plaxo.md) — Sean Parker's post-Napster online-address-book company and bridge into the later Facebook relationship network.
 - [GitHub](entities/GitHub.md) — Developer infrastructure company introduced to Ron Conway by Sean Fanning after their Napster and Snowcap work.
@@ -1709,7 +1715,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Google Cloud](entities/GoogleCloud.md) — Google enterprise cloud and AI infrastructure platform positioned through Google Cloud Next as part of Google's full-stack AI strategy.
 - [TPU](entities/TPU.md) — Google's tensor-processing-unit chip family, discussed as both a cloud-model-enterprise stack layer and a specialized AI-chip alternative to Nvidia GPUs for some workloads.
 - [Latin America](entities/LatinAmerica.md) — Regional frame connecting Trump-era investment, U.S.-China strategic competition, critical minerals, and earlier security-driven rightward politics.
-- [China](entities/China.md) — Country context spanning strategic investment, family law, football, aviation, tourism, lunar governance, and power-battery industrialization.
+- [China](entities/China.md) — Country context spanning strategic investment, family law, lunar governance, batteries, and advanced AI model-access restrictions.
 - [Brazil](entities/Brazil.md) — Latin America investment case for a U.S.-backed rare-earth mine and BYD's China-linked factory presence.
 - [Chile](entities/Chile.md) — Copper and undersea-cable case in the source's Latin America strategic-minerals and infrastructure competition.
 - [Paraguay](entities/Paraguay.md) — Possible mineral-project destination in the Latin America investment boom.
@@ -1798,7 +1804,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Stop Killing Games](entities/StopKillingGames.md) — Player-rights movement referenced as context for service shutdown, deletion, and game-preservation concerns.
 - [朱宁 / Zhu Ning](entities/ZhuNing.md) — Economist and behavioral-finance scholar explaining bubble conditions, AI valuation risk, and consequence-first investing discipline.
 - [42章经](entities/42Zhangjing.md) — Podcast/show context for interviews on investing bubbles, PingCAP infrastructure, AI application pivots, and EVE-style AI companionship.
-- [United States](entities/UnitedStates.md) — Country and institutional context spanning democratic resilience, geopolitics, sports capital, frontier-model governance, and battery innovation/manufacturing gaps.
+- [United States](entities/UnitedStates.md) — Country and institutional context spanning democratic resilience, geopolitics, frontier-model review, open-model substitution, and industrial gaps.
 - [United States Constitution](entities/UnitedStatesConstitution.md) — Constitutional document treated as patched institutional code behind impeachment, separation of powers, and the 25th Amendment.
 - [Supreme Court](entities/SupremeCourt.md) — U.S. judicial institution used in the America-at-250 source as both democratic guardrail and possible executive-power precedent maker.
 - [Cass Sunstein](entities/CassSunstein.md) — Legal scholar whose impeachment framework treats removal as constitutional repair rather than ordinary punishment or partisan dissatisfaction.
@@ -1820,7 +1826,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [LateTalk](entities/LateTalk.md) — Podcast/show context spanning embodied AI, Q2 AI reviews, and Yangcong Xueyuan's AI-era education/self-directed-learning interview.
 - [Henry Yin](entities/HenryYin.md) — MOE Capital founding partner and LateTalk Q2 2026 AI-review guest connecting coding, RSI, enterprise models, open models, and AI commercialization.
 - [MOE Capital](entities/MOECapital.md) — Investment-firm context for Henry Yin's Q2 2026 AI review on model-company competition and RSI.
-- [GPT-5.6](entities/GPT56.md) — OpenAI frontier model named in the LateTalk AI-quarter source as part of Q2 2026 model and coding-agent competition.
+- [GPT-5.6](entities/GPT56.md) — OpenAI frontier model tied to Q2 model competition and later Marketplace Tech release-governance concerns.
 - [Recursive](entities/Recursive.md) — RSI and Auto Research startup discussed through source-reported NanoChat, NanoGPT speed, and GPU-kernel benchmark results.
 - [Harvey](entities/Harvey.md) — Legal-AI company used as the enterprise-owned-model case with Applied Compute and the GLM model family.
 - [Applied Compute](entities/AppliedCompute.md) — Post-training company in the Harvey legal-domain model case.
@@ -1898,7 +1904,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [魏熙](entities/WeiXi.md) — Technology writer and former advertising/product practitioner explaining Meitu's AI application strategy.
 - [吴欣鸿](entities/WuXinhong.md) — Meitu founder cited through the claim that AI is both Meitu's biggest opportunity and biggest danger.
 - [Meitu / 美图](entities/Meitu.md) — Creative-tool and image/video company used as the episode's central AI application-layer case.
-- [Sora](entities/Sora.md) — OpenAI AI-video product used as the episode's cautionary case for model-owned applications and platform timing.
+- [Sora](entities/Sora.md) — OpenAI AI-video product used as a cautionary model-owned application case and as Meta's cited social AI content opening.
 - [Adobe](entities/Adobe.md) — Professional creative-software company discussed through AI feature cost, copyright-safe models, and investor pressure.
 - [Adobe Photoshop](entities/AdobePhotoshop.md) — Adobe creative-tool surface used to contrast incumbent workflow ownership with AI inference cost.
 - [Meitu XiuXiu / 美图秀秀](entities/MeituXiuXiu.md) — Meitu consumer image-editing base that informs its AI application-layer user insight.
@@ -2249,7 +2255,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [PGP](entities/PGP.md) — Cryptography software used as a historical analogy for why intangible software export controls can fail.
 - [Fable 5](entities/Fable5.md) — AI model/product discussed through one-shot coding, planning, review triage, quota pressure, and token-driven product imagination.
 - [GrillMe Skills](entities/GrillMeSkills.md) — Matpaco skill workflow contrasted with Superpowers as a lighter manual path for requirement questioning, specs, ADRs, PRDs, and issue decomposition.
-- [Meta](entities/Meta.md) — Platform company discussed through social-media product liability, Facebook's TikTok response, the Manus acquisition claim, AI capex, FAIR research, and model/platform firms buying agent application layers.
+- [Meta](entities/Meta.md) — Platform company discussed through product liability, AI capex, social AI content, Muse Image, public-likeness defaults, and application-layer bets.
 - [OpenManus](entities/OpenManus.md) — Agent project referenced as evidence that Manus-like task execution, local browser operation, and workflow automation were becoming easier to reproduce.
 - [Tongxin Software](entities/TongxinSoftware.md) — Domestic operating-system company used by the episode to connect Deepin's community lineage with Xinchuang government-enterprise delivery and management culture.
 - [Tongxin UOS](entities/TongxinUOS.md) — Commercial operating-system product connected to Deepin and the Xinchuang market.
@@ -2429,7 +2435,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alibaba](entities/Alibaba.md) — Large technology company discussed through Qwen, consumer assistant strategy, cloud infrastructure, embodied AI context, and Alibaba Health's online-pharmacy route.
 - [Amazon](entities/Amazon.md) — Cloud and AI infrastructure buyer discussed through Nvidia demand, hyperscaler capex assumptions, EP77's politically sensitive Melania Trump documentary deal, and data-center continuity risk.
 - [Android](entities/Android.md) — Google-backed open smartphone operating system that became the non-Apple ecosystem after iPhone reset handset competition.
-- [Anthropic](entities/Anthropic.md) — AI company discussed through frontier models, Claude Code, enterprise deployment, governance, and the AI-for-math competitive map.
+- [Anthropic](entities/Anthropic.md) — AI company discussed through frontier models, Claude Code, enterprise deployment, defense access, and release-governance/export-control pressure.
 - [Apple](entities/Apple.md) — Platform company discussed through Tim Cook's values governance, WWDC/Siri, iPhone and App Store ecosystems, podcasts/iPod media history, Buffett/Berkshire market sentiment, and F1 media-rights ambitions.
 - [App Store](entities/AppStore.md) — Apple marketplace discussed as a closed search-and-conversion platform for ASO, metadata, ratings, and paid search.
 - [Apple Search Ads](entities/AppleSearchAds.md) — App Store paid-search system used to test keywords and supplement organic ASO.
@@ -2580,7 +2586,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ninety](entities/Ninety.md) — SaaS platform for leadership-team operating rhythms, built through the EOS ecosystem and now embedding AI.
 - [Nokia](entities/Nokia.md) — GSM and feature-phone giant whose Symbian dominance, durable mass-market phones, and later Windows Phone turn anchor the handset-history episode.
 - [Nvidia](entities/Nvidia.md) — AI semiconductor company used across valuation, infrastructure, embodied-world-model, and data-center cooling-pressure discussions.
-- [OpenAI](entities/OpenAI.md) — Frontier AI company referenced in relation to agents, FDE, market structure, ChatGPT, commerce, infrastructure, and AI-for-math competition.
+- [OpenAI](entities/OpenAI.md) — Frontier AI company referenced in relation to agents, GPT-5.6 release governance, ChatGPT, commerce, infrastructure, and AI-for-math competition.
 - [Open Claw](entities/OpenClaw.md) — Domestic agent-wave project/context paired with Open Cloud in the Hermes Agent discussion.
 - [Open Cloud](entities/OpenCloud.md) — Domestic agent-era project/event discussed through skills, CLI friction, ecosystem consensus, and scheduled routines.
 - [Outrank](entities/Outrank.md) — SEO product discussed as part of Tea Maker's AI-era distribution playbook.
@@ -2705,6 +2711,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Public Likeness Generation](concepts/AIPublicLikenessGeneration.md) — Risk pattern where public usernames or profiles can be used to generate a person's likeness unless consent and opt-out defaults are handled explicitly.
 - [AI Political Campaign Operations](concepts/AIPoliticalCampaignOperations.md) — Use of AI for campaign writing, targeting, outreach, data analysis, persuasion, and strategy work at speed and scale.
 - [AI Political Ad Disclosure Patchwork](concepts/AIPoliticalAdDisclosurePatchwork.md) — State-by-state rules for labels and disclaimers on AI-generated or manipulated political advertising.
 - [AI Election Misinformation Risk](concepts/AIElectionMisinformationRisk.md) — Risk that AI-generated messages or search results mislead voters about voting logistics or election information.
@@ -3607,7 +3614,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Football Contract Enforcement Risk](concepts/FootballContractEnforcementRisk.md) — Risk that player-rights, transfer-upside, or club-control agreements do not convert into cash because counterparties, debt, or opaque arrangements intervene.
 - [Youth Football Development System](concepts/YouthFootballDevelopmentSystem.md) — Structural player-development frame around football population, match frequency, competition pyramids, and age-appropriate levels.
 - [Energy Trading Scale Advantage](concepts/EnergyTradingScaleAdvantage.md) — Edge from combining physical energy assets, logistics, market flow, and information into a large trading operation.
-- [Frontier Model Release Governance](concepts/FrontierModelReleaseGovernance.md) — Review and clearance process for powerful AI models before broad release, especially under cyber-risk concerns.
+- [Frontier Model Release Governance](concepts/FrontierModelReleaseGovernance.md) — Review and clearance process for powerful AI models before broad release, including voluntary processes that become practically required.
 - [Concert Residency Economics](concepts/ConcertResidencyEconomics.md) — Shift from many-city touring toward longer runs in fewer global cities, concentrating fan travel and event spending.
 - [War Visibility Strategy](concepts/WarVisibilityStrategy.md) — Wartime pattern where strikes and disruption make a conflict's costs visible to the adversary's public, elites, and logistics system.
 - [Russian Elite Discontent](concepts/RussianEliteDiscontent.md) — Insider-pressure pattern where sanctioned or threatened Russian elites treat the Ukraine war as a survival and state-direction problem.
@@ -4098,10 +4105,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Production Robot Scenario Selection](concepts/ProductionRobotScenarioSelection.md) — Method for choosing early robotics markets by speed, precision, generalization, failure cost, and scaling potential.
 - [AI Content Provenance](concepts/AIContentProvenance.md) — Marking, disclosing, or tracing AI-generated media through watermarks, content credentials, and consumer right-to-know boundaries.
 - [Medical AI Marketing Risk](concepts/MedicalAIMarketingRisk.md) — Risk that AI doctors, affiliate incentives, app-store tactics, AI-search visibility, and medical-platform trust failures make health products or advice look authoritative.
-- [AI Export Controls](concepts/AIExportControls.md) — Policy attempts to restrict access to frontier model capability, model weights, APIs, chips, or related infrastructure.
+- [AI Export Controls](concepts/AIExportControls.md) — Policy attempts to restrict access to frontier model capability, model weights, APIs, chips, model releases, or foreign model access.
 - [AI Cold War](concepts/AIColdWar.md) — Geopolitical frame where model, API, compute, and information flows become bloc-style strategic competition.
 - [AI Safety Narrative Backfire](concepts/AISafetyNarrativeBackfire.md) — Risk that weapon-like AI safety rhetoric invites blunt national-security regulation of commercial models.
-- [Frontier Model Access Restrictions](concepts/FrontierModelAccessRestrictions.md) — Limits on model use by region, nationality, institution, partner status, or safety tier.
+- [Frontier Model Access Restrictions](concepts/FrontierModelAccessRestrictions.md) — Limits on model use by region, nationality, institution, partner status, safety tier, or geopolitical dependency.
 - [SaaS Reliability Under Policy Risk](concepts/SaaSReliabilityUnderPolicyRisk.md) — Reliability problem where cloud AI products become unavailable because regulation, provider policy, region rules, or physical geopolitical exposure changes access.
 - [AI Agent Overseas Commercialization](concepts/AIAgentOverseasCommercialization.md) — Pattern where agent products find stronger fit in overseas web, SEO, advertising, API, and paid software workflows than in closed domestic app ecosystems.
 - [Chinese Model Liberal Arts Constraint](concepts/ChineseModelLiberalArtsConstraint.md) — Host-coined frame for domestic model weakness in open-ended writing, style, research, and nuanced expression relative to bounded tasks.
@@ -4402,7 +4409,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Monetary Policy Lag](concepts/MonetaryPolicyLag.md) — Delay between interest-rate decisions and their effects on employment, housing, corporate investment, and markets.
 - [MSP Channel Distribution](concepts/MSPChannelDistribution.md) — Go-to-market pattern for reaching SMBs through managed service providers that operate customer IT environments.
 - [Multi-Agent Collaboration](concepts/MultiAgentCollaboration.md) — Use of multiple agents for context exchange, cross-checking, parallel exploration, and drift correction.
-- [Open Source AI Models](concepts/OpenSourceAIModels.md) — AI models released openly enough to support downstream adoption, fine-tuning, and ecosystem influence.
+- [Open Source AI Models](concepts/OpenSourceAIModels.md) — AI models released openly enough to support downstream adoption, fine-tuning, ecosystem influence, and strategic substitution under access controls.
 - [Open Web Traffic Decline](concepts/OpenWebTrafficDecline.md) — Shift of content, user intent, and discovery from crawlable web pages into closed or semi-closed app ecosystems.
 - [On Device Fast Slow Brain](concepts/OnDeviceFastSlowBrain.md) — Edge AI architecture separating immediate behavior decisions from slower reasoning for low-latency embodied response.
 - [On-Demand Apps](concepts/OnDemandApps.md) — Agent-assembled or generated app capabilities created when the user needs them instead of fully prebuilt feature menus.

@@ -8,6 +8,8 @@ last_updated: 2026-07-17
 
 # Meta
 
+[[tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]] adds Meta through [[MuseImage|Muse Image]], a social AI image generator for [[Instagram]] and [[WhatsApp]]. [[MariaCurie|Maria Curi]] frames the product as a natural use of Meta's existing social distribution after [[Sora]]'s reported shutdown, but also as a privacy and trust problem because public-profile likenesses can be generated unless users opt out.
+
 [[tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128]] makes Meta the central defendant in state attorneys general litigation over alleged youth social-media addiction. [[GaiaBernstein]] says California, Colorado, Kentucky, and New Jersey are seeking $1.4 trillion over alleged addictive design in [[Facebook]] and [[Instagram]], hidden harms, and [[COPPA]] violations; the episode links the case to [[StateAGPlatformLitigation]], [[PlatformDamagesAndDisgorgement]], [[BigTobaccoPlatformAnalogy]], and [[SocialMediaCausationScienceWars]].
 
 [[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]] adds Meta as a defendant in a Los Angeles youth-harm case where a jury found Meta and [[YouTube]] negligent. [[MariaCurie|Maria Curi]] says the verdict matters because it treats social media as product design rather than only speech, pointing toward [[SocialMediaProductLiability]] around features such as infinite scroll, autoplay, parental controls, age verification, and internal knowledge of possible youth harms.

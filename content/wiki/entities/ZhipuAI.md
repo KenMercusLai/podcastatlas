@@ -2,8 +2,8 @@
 title: "Zhipu AI"
 type: entity
 tags: [company, ai, open-source-ai, china]
-sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1]
-last_updated: 2026-07-08
+sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
+last_updated: 2026-07-17
 ---
 
 # Zhipu AI
@@ -15,6 +15,8 @@ Zhipu AI is discussed in [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinleng
 [[136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]] adds Zhipu AI to the domestic companies moving toward a high-value-task and coding/agent route. The source's point is comparative rather than model-specific: Chinese model companies cannot treat coding and agents as optional if [[AGIThreeActs]] becomes the main competitive path.
 
 [[ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1]] adds a stronger enterprise and U.S.-ecosystem angle. The source says GLM-family models are being used or evaluated in legal-domain post-training through [[Harvey]] and [[AppliedCompute]], and frames [[GLM52]] as part of a Chinese open-model sequence that can substitute for expensive or restricted frontier services.
+
+[[tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]] mentions ZAI as a Chinese model provider U.S. policymakers do not want domestic companies to depend on. The source adds a geopolitical-demand angle to Zhipu AI's existing [[OpenSourceAIModels]] role: cheap or capable Chinese models can become attractive to U.S. firms precisely when policy wants domestic alternatives.
 
 ## Source Position
 - The episode says Zhipu's messaging emphasized that large-model intelligence should belong to all humanity.
@@ -32,3 +34,4 @@ Zhipu AI is discussed in [[ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinleng
 - [[AICommercializationPressure]] — model-company strategy and release-timing pressure.
 - [[Kimi]], [[MiniMax]], [[Doubao]], [[AGIThreeActs]], and [[ModelAsOperatingSystem]] — domestic model-company convergence frame added by episode 136.
 - [[Harvey]], [[AppliedCompute]], and [[EnterpriseOwnedModels]] — Q2 2026 domain post-training route added by LateTalk.
+- [[AIExportControls]], [[FrontierModelAccessRestrictions]], and [[UnitedStates]] - policy and dependence-risk branch added by Marketplace Tech.

@@ -843,6 +843,10 @@
     "title": "AI Prompted Playlist Curation",
     "url": "/wiki/concepts/aipromptedplaylistcuration/"
   },
+  "AIPublicLikenessGeneration": {
+    "title": "AI Public Likeness Generation",
+    "url": "/wiki/concepts/aipubliclikenessgeneration/"
+  },
   "AIRankingReinforcement": {
     "title": "AI Ranking Reinforcement",
     "url": "/wiki/concepts/airankingreinforcement/"
@@ -3022,6 +3026,10 @@
   "CausalWorldModels": {
     "title": "Causal World Models",
     "url": "/wiki/concepts/causalworldmodels/"
+  },
+  "CenterForAIStandardsAndInnovation": {
+    "title": "Center for AI Standards and Innovation",
+    "url": "/wiki/entities/centerforaistandardsandinnovation/"
   },
   "CenterForDemocracyAndTechnology": {
     "title": "Center for Democracy and Technology",
@@ -7343,6 +7351,10 @@
     "title": "How to AI",
     "url": "/wiki/entities/howtoai/"
   },
+  "HowardLutnick": {
+    "title": "Howard Lutnick",
+    "url": "/wiki/entities/howardlutnick/"
+  },
   "HuGe": {
     "title": "胡戈 / Hu Ge",
     "url": "/wiki/entities/huge/"
@@ -10426,6 +10438,10 @@
   "MundaneAIUseCases": {
     "title": "Mundane AI Use Cases",
     "url": "/wiki/concepts/mundaneaiusecases/"
+  },
+  "MuseImage": {
+    "title": "Muse Image",
+    "url": "/wiki/entities/museimage/"
   },
   "MusicalLy": {
     "title": "Musical.ly",
@@ -15747,6 +15763,10 @@
     "title": "Wharton School",
     "url": "/wiki/entities/whartonschool/"
   },
+  "WhatsApp": {
+    "title": "WhatsApp",
+    "url": "/wiki/entities/whatsapp/"
+  },
   "WhatsNextKejiZaozhidao": {
     "title": "What's Next｜科技早知道",
     "url": "/wiki/entities/whatsnextkejizaozhidao/"
@@ -15754,6 +15774,10 @@
   "WheelBasedDualArmRobots": {
     "title": "Wheel-Based Dual-Arm Robots",
     "url": "/wiki/concepts/wheelbaseddualarmrobots/"
+  },
+  "WhiteHouse": {
+    "title": "White House",
+    "url": "/wiki/entities/whitehouse/"
   },
   "WhiteRabbit": {
     "title": "White Rabbit / 白兔",
@@ -17578,6 +17602,10 @@
   "tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128": {
     "title": "Bytes: Week in Review - Meta, YouTube's social media addiction case, a new AI literacy course, and Kalshi's prediction market self-regulation",
     "url": "/wiki/sources/tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128/"
+  },
+  "tech-20260710-tech-pod-128-tech-20260710-tech-pod-128": {
+    "title": "OpenAI's GPT-5.6 release raises questions about White House control over new models",
+    "url": "/wiki/sources/tech-20260710-tech-pod-128-tech-20260710-tech-pod-128/"
   },
   "tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128": {
     "title": "Netflix struggles to retain viewers after a series' first season",

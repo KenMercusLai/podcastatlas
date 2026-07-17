@@ -8,6 +8,8 @@ last_updated: 2026-07-17
 
 # Marketplace Tech
 
+The July 10, 2026 Bytes episode adds a frontier-model governance and social AI content layer through [[MariaCurie|Maria Curi]]. It connects [[OpenAI]]'s [[GPT56|GPT-5.6]] release, [[WhiteHouse]] voluntary-review language, the [[CenterForAIStandardsAndInnovation]], [[Anthropic]] export-control pressure, and possible Chinese model-access restrictions to [[FrontierModelReleaseGovernance]], then connects [[Meta]]'s [[MuseImage|Muse Image]] to [[AIPublicLikenessGeneration]] on [[Instagram]] and [[WhatsApp]].
+
 The January 5, 2026 episode adds an election-AI layer through [[MeganMcCartyCorino|Megan McCarty-Carino]] and [[TimHarper]] of the [[CenterForDemocracyAndTechnology|Center for Democracy and Technology]]. It connects generative AI in the 2024 U.S. presidential election to [[AIPoliticalCampaignOperations]], [[AIPoliticalAdDisclosurePatchwork]], and [[AIElectionMisinformationRisk]], showing that the main campaign use was speed, scale, targeting, writing, analysis, and strategy rather than the most spectacular deepfake fears.
 
 The July 16, 2026 episode adds a social-media litigation and AI-companion risk layer through [[MeganMcCartyCorino|Meg McCarty-Corino]] and [[GaiaBernstein]] of [[SetonHallUniversity]]. It connects [[Meta]], [[Facebook]], [[Instagram]], [[COPPA]], [[StateAGPlatformLitigation]], [[PlatformDamagesAndDisgorgement]], [[BigTobaccoPlatformAnalogy]], and [[SocialMediaCausationScienceWars]] to the question of whether social media is entering a Big Tobacco-style public-health litigation phase, then extends the same attention-economy concern into [[AICompanionAttentionRisk]].
