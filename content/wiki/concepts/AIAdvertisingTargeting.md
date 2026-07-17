@@ -2,11 +2,13 @@
 title: "AI Advertising Targeting"
 type: concept
 tags: [ai, advertising, platforms, monetization]
-sources: [tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128]
+sources: [tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128]
 last_updated: 2026-07-12
 ---
 
 # AI Advertising Targeting
+
+[[tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128]] adds the political-campaign version through [[TimHarper]]. Campaigns used generative AI for fast audience-specific messaging, outreach, data analysis, and strategy, making [[AIPoliticalCampaignOperations]] adjacent to advertising targeting even when the episode is not about a platform ad business. The source also warns that better personalization can become [[AIElectionMisinformationRisk]] when false voting information is made to look locally or personally credible.
 
 AI advertising targeting is the use of AI systems to improve which ads are shown to which users, when they appear, and how likely they are to produce revenue. In [[tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128]], [[MikeIsaac]] says this is the clearest near-term payoff from [[Meta]]'s AI spending: better targeting can make Meta's existing ad business more effective even before a new consumer AI product wins mass adoption.
 

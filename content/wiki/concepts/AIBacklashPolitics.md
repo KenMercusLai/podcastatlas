@@ -2,11 +2,13 @@
 title: "AI Backlash Politics"
 type: concept
 tags: [ai, politics, public-opinion]
-sources: [tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
+sources: [tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
 last_updated: 2026-07-09
 ---
 
 # AI Backlash Politics
+
+[[tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128]] adds a campaign-operator version of AI backlash. [[TimHarper]] says campaigns in 2024 avoided some manipulated-media uses partly because they feared voter backlash, but that restraint may weaken as campaigns normalize AI and worry about opponents gaining an advantage.
 
 AI backlash politics is the pattern where public anxiety about artificial intelligence becomes an electoral, regulatory, and coalition-building issue. [[fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]] presents the [[UnitedStates]] as the case: voters fear job replacement, mental-health effects, child-chatbot relationships, technological speed, billionaire power, and even human extinction, while candidates and AI-linked groups begin spending around AI regulation.
 

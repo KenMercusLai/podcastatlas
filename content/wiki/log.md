@@ -3333,6 +3333,10 @@ Added source page for the Planet Money episode on Fast 16, a suspected Stuxnet-l
 
 Ran lint after health passed. Deterministic checks scanned 4,351 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
 
+## [2026-07-17] ingest | How U.S. political campaigns have used generative AI
+
+Added source page for the Marketplace Tech episode with Tim Harper of the Center for Democracy and Technology on generative AI in the 2024 U.S. presidential election. Created pages for Center for Democracy and Technology, Tim Harper, AI Political Campaign Operations, AI Political Ad Disclosure Patchwork, and AI Election Misinformation Risk; updated overview, index, Marketplace Tech, Megan McCarty-Corino, AI Governance And Compliance, AI Advertising Targeting, AI Content Provenance, AI Information Pollution, AI Backlash Politics, and Full-Funnel Civic Technology. No direct contradiction found; the source qualifies election-AI risk by shifting attention from spectacular deepfake expectations to faster campaign operations, fragmented disclosure compliance, personalized voting misinformation, search poisoning, and repeated public-resilience education.
+
 ## [2026-07-16] ingest | Before Kalshi and Polymarket there was the Iowa Electronic Markets
 
 Added source page for the Planet Money/Throughline episode on Iowa Electronic Markets, historical election betting, prediction-market accuracy versus polls, CFTC no-action limits, and modern Kalshi/Polymarket continuity. Created pages for Iowa Electronic Markets, Robert Forsythe, Coleman Strumpf, Paul Rhode, Throughline, Prediction Market History, Election Betting Markets, and Academic Prediction Market Sandbox; updated overview, index, NPR, Planet Money, Kalshi, Polymarket, Commodity Futures Trading Commission, Prediction Market Ethics, Prediction Market Integrity Oversight, and Market Efficiency. No direct contradiction found; the source extends the existing modern prediction-market branch backward from harmful-event ethics and integrity controls into older election markets, academic experiments, and regulatory sandboxing.
@@ -3408,6 +3412,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-17] ingest | Trying to stay off your phone? There's an app for that
 
 Added source page for the Marketplace Tech episode on the digital detox market, Clearspace, app-blocking devices, lockboxes, and Matter Neuroscience's heavy phone case. Created pages for Clearspace, Maria Hollenhorst, Tanya Sujohn, London College of Communication, Ben Goldhersh, Matter Neuroscience, Digital Detox Economy, and Screen Time Friction; updated overview, index, Marketplace Tech, Addictive Interaction Design, and Attention Industrialization. No direct contradiction found; the source extends the attention-design branch by showing consumers paying for counter-design when phones and apps are designed to be hard to stop using.
+
+## [2026-07-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-17] lint | Wiki health check
 

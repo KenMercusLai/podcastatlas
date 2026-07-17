@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How U.S. political campaigns have used generative AI](sources/tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128.md) — Marketplace Tech episode with Tim Harper of the Center for Democracy and Technology on 2024 campaign AI use, speed and scale, fragmented state political-ad disclosure rules, and future voting-misinformation risks.
 - [Trying to stay off your phone? There's an app for that](sources/tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128.md) — Marketplace Tech episode on the digital detox market, Clearspace, screen-time friction, physical app-blocking tools, and the paradox of paying for products that help people use phones less.
 - [A tech company that 'happens to build homes'](sources/tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128.md) — Marketplace Tech episode with Rhonda Conger on CBH Homes using AI for sales follow-up, warranty support, after-hours customer service, data analysis, and augmentation-focused homebuilding operations.
 - [Why state AGs are taking Meta to court](sources/tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128.md) — Marketplace Tech episode with Gaia Bernstein on state AG lawsuits against Meta, the Big Tobacco analogy for youth social-media harms, COPPA and disgorgement pressure, and AI companion attention risks.
@@ -429,6 +430,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Center for Democracy and Technology](entities/CenterForDemocracyAndTechnology.md) — Policy organization behind the report on generative AI use in the 2024 U.S. presidential election.
+- [Tim Harper](entities/TimHarper.md) — Center for Democracy and Technology guest explaining campaign AI use, disclosure patchwork, and future voting misinformation risks.
 - [Clearspace](entities/Clearspace.md) — Screen-time reduction app used by Marketplace Tech to show software-based friction before opening selected apps.
 - [Maria Hollenhorst](entities/MariaHollenhorst.md) — Marketplace Tech reporter connecting Clearspace, digital detox tools, and physical anti-scrolling devices to the business of reducing phone use.
 - [Tanya Sujohn](entities/TanyaSujohn.md) — London College of Communication academic critiquing how digital well-being apps can borrow engagement mechanics from social media.
@@ -2693,6 +2696,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Political Campaign Operations](concepts/AIPoliticalCampaignOperations.md) — Use of AI for campaign writing, targeting, outreach, data analysis, persuasion, and strategy work at speed and scale.
+- [AI Political Ad Disclosure Patchwork](concepts/AIPoliticalAdDisclosurePatchwork.md) — State-by-state rules for labels and disclaimers on AI-generated or manipulated political advertising.
+- [AI Election Misinformation Risk](concepts/AIElectionMisinformationRisk.md) — Risk that AI-generated messages or search results mislead voters about voting logistics or election information.
 - [Digital Detox Economy](concepts/DigitalDetoxEconomy.md) — Market for apps, devices, and physical constraints that help people reduce phone or app use.
 - [Screen Time Friction](concepts/ScreenTimeFriction.md) — Design pattern that inserts pauses, effort, or inconvenience before phone or app use.
 - [Homebuilding AI Operations](concepts/HomebuildingAIOperations.md) — Pattern where a homebuilder applies AI to long-cycle customer follow-up, warranty support, data analysis, and workflow triage while preserving human escalation.

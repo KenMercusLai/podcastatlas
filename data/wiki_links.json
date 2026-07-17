@@ -635,6 +635,10 @@
     "title": "AI Economic Diffusion",
     "url": "/wiki/concepts/aieconomicdiffusion/"
   },
+  "AIElectionMisinformationRisk": {
+    "title": "AI Election Misinformation Risk",
+    "url": "/wiki/concepts/aielectionmisinformationrisk/"
+  },
   "AIEnabledScamIndustrialization": {
     "title": "AI-Enabled Scam Industrialization",
     "url": "/wiki/concepts/aienabledscamindustrialization/"
@@ -818,6 +822,14 @@
   "AIPlusTerminals": {
     "title": "AI Plus Terminals",
     "url": "/wiki/concepts/aiplusterminals/"
+  },
+  "AIPoliticalAdDisclosurePatchwork": {
+    "title": "AI Political Ad Disclosure Patchwork",
+    "url": "/wiki/concepts/aipoliticaladdisclosurepatchwork/"
+  },
+  "AIPoliticalCampaignOperations": {
+    "title": "AI Political Campaign Operations",
+    "url": "/wiki/concepts/aipoliticalcampaignoperations/"
   },
   "AIProductFragmentation": {
     "title": "AI Product Fragmentation",
@@ -2990,6 +3002,10 @@
   "CausalWorldModels": {
     "title": "Causal World Models",
     "url": "/wiki/concepts/causalworldmodels/"
+  },
+  "CenterForDemocracyAndTechnology": {
+    "title": "Center for Democracy and Technology",
+    "url": "/wiki/entities/centerfordemocracyandtechnology/"
   },
   "CenterForNewAmericanSecurity": {
     "title": "Center for a New American Security",
@@ -14699,6 +14715,10 @@
     "title": "Tim Ferriss",
     "url": "/wiki/entities/timferriss/"
   },
+  "TimHarper": {
+    "title": "Tim Harper",
+    "url": "/wiki/entities/timharper/"
+  },
   "TimeStasisSystem": {
     "title": "Time-Stasis System",
     "url": "/wiki/concepts/timestasissystem/"
@@ -17354,6 +17374,10 @@
   "tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128": {
     "title": "Trying to stay off your phone? There's an app for that",
     "url": "/wiki/sources/tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128/"
+  },
+  "tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128": {
+    "title": "How U.S. political campaigns have used generative AI",
+    "url": "/wiki/sources/tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128/"
   },
   "tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128": {
     "title": "Making the most of AI, without the hype",

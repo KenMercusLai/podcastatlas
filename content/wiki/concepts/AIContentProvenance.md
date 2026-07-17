@@ -2,11 +2,13 @@
 title: "AI Content Provenance"
 type: concept
 tags: [ai, provenance, trust, compliance]
-sources: [tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
+sources: [tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
 last_updated: 2026-07-12
 ---
 
 # AI Content Provenance
+
+[[tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128]] adds the election-ad version through [[AIPoliticalAdDisclosurePatchwork]]. [[TimHarper]] says many U.S. states require disclaimers for manipulated political content, but label size, label duration, time windows, and covered uses vary. This makes provenance not just a media-trust problem, but a campaign-compliance and voter-interpretation problem.
 
 AI content provenance is the practice of marking, disclosing, or tracing synthetic media so users, platforms, and regulators can understand whether content was generated or edited by AI. In [[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]], the hosts discuss [[OpenAI]] adding Google SynthID-style watermarking and C2PA content credentials to [[ChatGPT]] images, then connect the same trust problem to AI-generated adult-content personas and consumer right-to-know questions.
 

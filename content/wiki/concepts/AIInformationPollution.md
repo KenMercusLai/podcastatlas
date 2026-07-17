@@ -2,11 +2,13 @@
 title: "AI Information Pollution"
 type: concept
 tags: [ai, misinformation, media-literacy, skepticism]
-sources: [185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]
+sources: [tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]
 last_updated: 2026-07-15
 ---
 
 # AI Information Pollution
+
+[[tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128]] adds the election-participation version. [[TimHarper]] warns that AI-generated messages could mislead voters about the time, place, and manner of voting, especially when public voter-file details make false information feel personally credible. He also flags search poisoning, where AI-generated content could push incorrect or outdated voting information into results.
 
 AI information pollution is the episode's extension of Sagan-style skepticism into a world where synthetic text, images, audio, and video lower the cost of persuasive false evidence. [[185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]] argues that older UFO and pseudoscience mechanisms may become newly powerful when fabrication is cheaper and media attention is shorter.
 

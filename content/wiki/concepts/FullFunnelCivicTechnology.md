@@ -2,11 +2,13 @@
 title: "Full-Funnel Civic Technology"
 type: concept
 tags: [civic-tech, elections, metrics, startups]
-sources: [tsr-s2-adoracheung-v5]
+sources: [tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tsr-s2-adoracheung-v5]
 last_updated: 2026-07-11
 ---
 
 # Full-Funnel Civic Technology
+
+[[tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128]] adds a cautionary adjacent branch. [[AIPoliticalCampaignOperations]] can make campaign outreach faster and more segmented, but [[AIElectionMisinformationRisk]] shows why civic technology should still be judged by whether voters receive accurate participation information and complete valid civic action.
 
 Full-funnel civic technology is the application of startup-style funnel measurement to civic participation, where success is measured by completed civic action rather than impressions, clicks, or signups. In [[tsr-s2-adoracheung-v5]], [[AdoraCheung]] applies this to 2020 vote-by-mail work with [[TechForCampaigns]] and [[MarkLindsay]].
 
