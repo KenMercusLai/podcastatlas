@@ -3597,6 +3597,10 @@ Ran health and lint. Health scanned 4,708 pages and passed with no empty/stub fi
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-18] ingest | 98.自卑与超越：向前看，前方有希望
+
+Added source page for the 蜜獾吃书 episode on Alfred Adler, 《自卑与超越》, individual psychology, inferiority and superiority, Adlerian teleology, community feeling, education, courage, and life meaning. Created pages for Alfred Adler, 《自卑与超越》, Individual Psychology, Adlerian Teleology, Inferiority-Superiority Dynamic, and Community Feeling; updated overview, index, 蜜獾吃书, Anti-Authoritarian Education, Achievement Pressure Mental Health, Objective Self-Ownership, Action Against Anxiety, and Meaning Through Experience. No direct contradiction found; the source complements trauma and education-pressure pages by adding an agency frame while keeping real injury, serious illness, and structural constraint outside blame.
+
 ## [2026-07-18] ingest | 95.都市传说：猎奇故事和我们内心深处的焦虑
 
 Added source page for the 蜜獾吃书 episode on urban legends, FOAF transmission, folklore motifs, child-safety fears, technology anxiety, campus and hospital legends, body and food fears, brand rumors, conspiracy explanations, Roswell, The X-Files, and internet-era demystification. Created pages for Urban Legend, Richard Dorson, Charles Fort, and Jan Harold Brunvand; updated overview, index, 蜜獾吃书, Story Motif Transmission, Legend As Social History, Evidence-Bound Folklore Inquiry, Folklore Trauma Encoding, Conspiracy Theory Pattern Seeking, UFO Conspiracy Culture, Roswell Incident, The X-Files, Coca-Cola, Stanford University, Starlink, and Richard Dawkins. No direct contradiction found; source-specific guesses about misogyny, homophobia, body anxiety, and rumor psychology were kept as interpretive claims rather than factual adjudications.
@@ -3722,6 +3726,10 @@ Ran lint after health passed. Health found no empty/stub files, index drift, or 
 ## [2026-07-18] ingest | 97.花粉症与人类：从尼安德特人（啊啾！）到空气净化器…
 
 Added source page for the 蜜獾吃书 episode on 小塩海平《花粉症与人类》, pollen evolution, microscopy, plant sexual reproduction, palynology, Neanderthal flower-burial speculation, ancient hay-fever clues, Blackley self-experimentation, Victorian hay fever, ragweed ecology, air purifiers, air conditioning, herbicide resistance, and allergy as immune response. Created pages for the book, Koshio Kaihei, Charles Harrison Blackley, Air Purifier, Pollen As Historical Object, Hay Fever Environmental History, Palynology As Evidence, Ragweed Ecological Feedback, Allergy As Immune Response, and Allergy Source Control; updated overview, index, 蜜獾吃书, Charles Darwin, Self-Experimentation, Observation Before Inference, Material History Narrative, Environmental Tradeoff Accounting, Urban Ecology, Invasive Species Management, and Cooling As Public Health. No direct contradiction found; the source extends existing material-history, evidence-discipline, self-experimentation, urban ecology, and environmental-tradeoff branches by making pollen allergy a plant-human-infrastructure system rather than a small personal ailment.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-18] lint | Wiki health check
 

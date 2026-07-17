@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [98.自卑与超越：向前看，前方有希望](sources/98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507.md) — 蜜獾吃书 episode on Alfred Adler, 《自卑与超越》, individual psychology, inferiority and superiority, purpose theory, community feeling, education, courage, and life meaning.
 - [97.花粉症与人类：从尼安德特人（啊啾！）到空气净化器…](sources/97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059.md) — 蜜獾吃书 episode using 《花粉症与人类》 to connect pollen evolution, palynology, hay fever, Blackley self-experimentation, ragweed ecology, air purifiers, and allergy as immune response.
 - [开天窗｜指路兼推荐几本书](sources/kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080.md) — 蜜獾吃书 short reading-list and platform-pointer episode routing listeners to animal reproduction, aging, paper-money ritual, overseas China studies, male-surplus risk, izakaya history, and Carl Sagan skepticism.
 - [96.荷马史诗：在假装永生的时代，我们重读死亡（伊利亚特篇）](sources/96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514.md) — 蜜獾吃书 episode on Homer, The Iliad, Achilles' rage, the Homer question, oral-formulaic epic craft, named deaths, war, grief, and mortality.
@@ -465,6 +466,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Alfred Adler / 阿尔弗雷德·阿德勒](entities/AlfredAdler.md) — Psychologist discussed through 《自卑与超越》, individual psychology, teleology, inferiority, community feeling, and courage.
+- [《自卑与超越》](entities/ZibeiYuChaoyue.md) — Adler book used by episode 98 to discuss inferiority, purpose, social interest, contribution feeling, education, courage, and life meaning.
 - [《花粉症与人类》 / 花粉症と人類](entities/KafunshoToJinrui.md) — Koshio Kaihei book used by episode 97 to connect pollen, hay fever, palynology, environmental management, and air purification.
 - [小塩海平 / 小盐海平](entities/KoshioKaihei.md) — Japanese plant-science author of 《花粉症与人类》, represented through the episode's pollen allergy and environmental-history frame.
 - [Charles Harrison Blackley / 查尔斯·哈里森·布莱克利](entities/CharlesHarrisonBlackley.md) — Victorian hay-fever researcher whose self-experiments linked pollen exposure to symptoms.
@@ -2986,6 +2989,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Individual Psychology](concepts/IndividualPsychology.md) — Adlerian whole-person framework connecting self-knowledge, purpose, inferiority, community feeling, action, and courage.
+- [Adlerian Teleology](concepts/AdlerianTeleology.md) — Purpose-oriented explanation asking what present goal a behavior serves rather than only what past cause produced it.
+- [Inferiority-Superiority Dynamic](concepts/InferioritySuperiorityDynamic.md) — Adlerian frame where inferiority can motivate growth but can harden into inferiority complex or flip into superiority complex.
+- [Community Feeling](concepts/CommunityFeeling.md) — Adlerian social-interest frame where people recover contribution feeling and learn to imagine others as companions rather than enemies.
 - [Pollen As Historical Object](concepts/PollenAsHistoricalObject.md) — Frame for pollen as a biological material that carries plant evolution, microscopy, language, evidence, medicine, and environmental history.
 - [Hay Fever Environmental History](concepts/HayFeverEnvironmentalHistory.md) — Disease-history frame that treats pollen allergy as an interaction among immune response, plants, land use, class, tourism, and technology.
 - [Palynology As Evidence](concepts/PalynologyAsEvidence.md) — Use of pollen and spores as durable traces for archaeology, ecology, seasonality, and forensic movement.

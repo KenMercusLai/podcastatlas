@@ -511,6 +511,10 @@
     "title": "97.花粉症与人类：从尼安德特人（啊啾！）到空气净化器…",
     "url": "/wiki/sources/97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059/"
   },
+  "98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507": {
+    "title": "98.自卑与超越：向前看，前方有希望",
+    "url": "/wiki/sources/98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507/"
+  },
   "A7A5": {
     "title": "A7A5",
     "url": "/wiki/entities/a7a5/"
@@ -1251,6 +1255,10 @@
     "title": "Adidas Ultra Boost",
     "url": "/wiki/entities/adidasultraboost/"
   },
+  "AdlerianTeleology": {
+    "title": "Adlerian Teleology",
+    "url": "/wiki/concepts/adlerianteleology/"
+  },
   "AdministrativeStateDismantling": {
     "title": "Administrative State Dismantling",
     "url": "/wiki/concepts/administrativestatedismantling/"
@@ -1542,6 +1550,10 @@
   "AlexisOhanian": {
     "title": "Alexis Ohanian",
     "url": "/wiki/entities/alexisohanian/"
+  },
+  "AlfredAdler": {
+    "title": "Alfred Adler / 阿尔弗雷德·阿德勒",
+    "url": "/wiki/entities/alfredadler/"
   },
   "AlfredHitchcock": {
     "title": "Alfred Hitchcock / 希区柯克",
@@ -3966,6 +3978,10 @@
   "CommunicationBoundarySetting": {
     "title": "Communication Boundary Setting",
     "url": "/wiki/concepts/communicationboundarysetting/"
+  },
+  "CommunityFeeling": {
+    "title": "Community Feeling",
+    "url": "/wiki/concepts/communityfeeling/"
   },
   "CommunityGroupBuying": {
     "title": "Community Group Buying",
@@ -8271,6 +8287,10 @@
     "title": "Indigenous Residential School Trauma",
     "url": "/wiki/concepts/indigenousresidentialschooltrauma/"
   },
+  "IndividualPsychology": {
+    "title": "Individual Psychology",
+    "url": "/wiki/concepts/individualpsychology/"
+  },
   "IndustrialControlSystemCyberRisk": {
     "title": "Industrial Control System Cyber Risk",
     "url": "/wiki/concepts/industrialcontrolsystemcyberrisk/"
@@ -8278,6 +8298,10 @@
   "IndyJohar": {
     "title": "Indy Johar",
     "url": "/wiki/entities/indyjohar/"
+  },
+  "InferioritySuperiorityDynamic": {
+    "title": "Inferiority-Superiority Dynamic",
+    "url": "/wiki/concepts/inferioritysuperioritydynamic/"
   },
   "Infogami": {
     "title": "Infogami",
@@ -18254,6 +18278,10 @@
   "Zhuzhu": {
     "title": "助助",
     "url": "/wiki/entities/zhuzhu/"
+  },
+  "ZibeiYuChaoyue": {
+    "title": "《自卑与超越》",
+    "url": "/wiki/entities/zibeiyuchaoyue/"
   },
   "Zili": {
     "title": "自立",

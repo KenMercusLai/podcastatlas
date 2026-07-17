@@ -2,8 +2,8 @@
 title: "Achievement Pressure Mental Health"
 type: concept
 tags: [education, mental-health, youth, parenting]
-sources: [181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
-last_updated: 2026-07-15
+sources: [98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
+last_updated: 2026-07-18
 ---
 
 # Achievement Pressure Mental Health
@@ -18,6 +18,8 @@ The source focuses on "good students" because their distress is often hidden by 
 
 [[vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]] adds the adult-work version through [[SiriQizhulou|Siri]]. Work reveals that school-style effort and visible reward are not a stable linear exchange, so the "good student" habit must be revised rather than simply intensified. [[ControllableLifeAnchors]] become important partly because they restore a legible effort-feedback loop.
 
+[[98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507]] adds an Adlerian inferiority layer. The source argues that score, school, diploma, 985/211, praise, and adult recognition can turn a normal wish to improve into [[InferioritySuperiorityDynamic]], where the child alternates between "I am not enough" and compensatory status-seeking rather than learning through contribution and courage.
+
 ## Key Claims
 - High achievement does not reliably indicate psychological safety; elite schools and middle-class families can hide serious distress.
 - A binary honor/shame model makes ordinary setbacks feel like existential failure.
@@ -28,6 +30,7 @@ The source focuses on "good students" because their distress is often hidden by 
 - Episode 181 adds that ordinary failure can be desensitizing: surviving a low score or make-up exam may weaken the imagined authority of other people's judgment.
 - Vol.102 adds that achievement pressure becomes more damaging when the promised exchange between effort and mobility loses credibility.
 - Vol.107 adds that adult work can decouple effort from outcome, making controllable practices and calibrated career attention more important.
+- Episode 98 adds that inferiority is not itself the problem; achievement systems become damaging when they make comparison and external validation the only visible path beyond inferiority.
 
 ## Connections
 - [[ExcellentSheep|《优秀的绵羊》 / Excellent Sheep]] and [[WilliamDeresiewicz]] - book and author grounding the elite-student diagnosis.
@@ -39,3 +42,4 @@ The source focuses on "good students" because their distress is often hidden by 
 - [[FawnResponse]], [[ComplexTraumaRecognition]], and [[UnfawningBoundaryPractice]] - trauma-response extension from episode 181.
 - [[MacroNarrativeAnxiety]], [[GraduationAnxiety]], [[CareerShoreMyth]], and [[HikikomoriStrategicRetreat]] - vol.102's effort-narrative and social-clock extension.
 - [[ControllableLifeAnchors]], [[ChoiceTriggeredAttentionBoundary]], and [[SiriQizhulou|Siri]] - vol.107's work-life and effort-feedback extension.
+- [[AlfredAdler]], [[InferioritySuperiorityDynamic]], [[CommunityFeeling]], and [[AdlerianTeleology]] - episode 98's Adlerian extension.

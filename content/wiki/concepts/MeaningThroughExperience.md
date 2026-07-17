@@ -2,8 +2,8 @@
 title: "Meaning Through Experience"
 type: concept
 tags: [life-philosophy, death, narrative, agency]
-sources: [184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010]
-last_updated: 2026-07-14
+sources: [98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507, 184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010]
+last_updated: 2026-07-18
 ---
 
 # Meaning Through Experience
@@ -12,11 +12,14 @@ Meaning through experience is the life-philosophy frame [[Ajiao|阿娇 / 柱子�
 
 This concept connects the episode's overseas-work, illness, and writing threads. Travel and work create experiences; cancer threatens future time; writing lets the person arrange experience into a shareable record; public expression gives the record a ripple beyond the self.
 
+[[98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507]] adds an Adlerian death-facing version. The episode argues that mortality, tragedy, natural disaster, lies, and malice cannot all be controlled, but finite life still asks for meaning through present action, courage, and contribution rather than through denial of death or promise of a compensating afterlife.
+
 ## Key Claims
 - Life does not need to start with an abstract purpose before experiences can matter.
 - Experience becomes meaningful when a person is present to it and narrates it as part of a self.
 - Refusing supernatural explanation can still leave room for responsibility, public action, and tenderness.
 - Meaning can be made under constraint, including illness, treatment exhaustion, and approaching death.
+- Adlerian meaning is forward-facing: even when the world is unreasonable, a person can still choose a present orientation toward courage, contribution, and companions.
 
 ## Connections
 - [[Ajiao|阿娇 / 柱子哥]] - source voice.
@@ -24,3 +27,4 @@ This concept connects the episode's overseas-work, illness, and writing threads.
 - [[PresentMomentAgainstDeath]] - adjacent mortality frame around future loss and present possession.
 - [[FemaleSelfPossession]] - agency frame for keeping a self under social and bodily pressure.
 - [[OverseasIdentityReset]] - identity branch where changing place and name creates new experience.
+- [[AlfredAdler]], [[IndividualPsychology]], and [[CommunityFeeling]] - episode 98's Adlerian life-meaning extension.
