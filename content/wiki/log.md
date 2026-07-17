@@ -3597,6 +3597,10 @@ Ran health and lint. Health scanned 4,708 pages and passed with no empty/stub fi
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-18] ingest | The leaked tapes that show how the rich avoid taxes
+
+Added source page for the Planet Money episode on the Malta tax loophole, U.S.-Malta treaty arbitrage, wealthy Americans' use of Maltese retirement accounts, IRS Dirty Dozen warnings, economic substance analysis, treaty clarification, leaked strategy calls, proposed disclosure regulation, and the later stall in enforcement. Created pages for Carolyn Schenck, Lauren Loricchio, Tax Notes, Andrew Gradman, Kenneth Keyes, Dominion Fiduciary Services, Malta, the U.S.-Malta Tax Treaty, Malta Tax Loophole, Tax Avoidance-Evasion Boundary, Tax Treaty Arbitrage, Economic Substance Doctrine, Tax Shelter Disclosure Regulation, and Tax Enforcement Capacity; updated overview, index, NPR, Planet Money, Internal Revenue Service, U.S. Treasury, Department of Government Efficiency, and Donald Trump. No direct contradiction found; the source extends existing IRS/DOGE/public-sector branches from service delivery and reorganization into tax-shelter enforcement capacity.
+
 ## [2026-07-18] ingest | The secret meeting that launched OPEC
 
 Added source page for the Planet Money episode on OPEC's origin against the Seven Sisters, Wanda Jablonski's oil reporting, the 1973 oil shock, quota discipline, Saudi Arabia's swing-producer role, member cheating, the UAE's source-reported OPEC exit, Green Paradox pressure, and Strait of Hormuz constraints on gasoline-price relief. Created pages for OPEC, Seven Sisters Oil Majors, Saudi Arabia, Wanda Jablonski, Ibrahim Almohanna, Kate Durian, Oil Producer Supply Coordination, Production Quota Discipline, Swing Producer Role, and Green Paradox; updated overview, index, NPR, Planet Money, United Arab Emirates, Strait of Hormuz, Iran, Venezuela, Gulf Stability Risk, Commodity Price Exposure, Market Regime Shift, Geopolitical Cycle Macro, and Chokepoint Shipping Confidence. No direct contradiction found; the source adds a chronology note that this 2026-05-13 account says the UAE had left OPEC, while later Gulf/Hormuz pages discuss UAE resilience and shipping risk without conflicting on OPEC membership.
@@ -3769,6 +3773,10 @@ Added source page for the Planet Money episode on Manaus, Brazil's Zona Franca f
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint. Report printed in session; semantic checks unavailable because LiteLLM model/provider configuration is missing.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-18] lint | Wiki health check
 

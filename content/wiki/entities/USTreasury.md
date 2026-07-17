@@ -2,8 +2,8 @@
 title: "U.S. Treasury"
 type: entity
 tags: [institution, macro, bonds, sanctions, compliance]
-sources: [iran-protests-and-sanctions, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]
-last_updated: 2026-07-15
+sources: [the-leaked-tapes-that-show-how-the-rich-avoid-taxes, iran-protests-and-sanctions, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]
+last_updated: 2026-07-18
 ---
 
 # U.S. Treasury
@@ -16,6 +16,8 @@ The U.S. Treasury appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-b
 
 [[iran-protests-and-sanctions]] adds the older financial-sanctions mechanism behind the Iran branch. The episode says U.S. officials engaged with financial institutions and regulators around the world to isolate [[Iran]] from banking channels, making Treasury-linked outreach part of [[DollarFinancialSanctions]] and setting up later [[SanctionsOvercompliance]] when banks remained wary after the 2015 nuclear deal.
 
+[[the-leaked-tapes-that-show-how-the-rich-avoid-taxes]] adds Treasury's tax-policy and appointments role. The source describes U.S. and Maltese officials clarifying the [[USMaltaTaxTreaty]] around the [[MaltaTaxLoophole]], then later notes that [[KennethKeyes]] received a Treasury role while the government said he recused himself from Malta pension matters.
+
 ## Source Position
 - The episode suggests that high rates raise U.S. fiscal interest costs as low-cost debt matures and is refinanced.
 - [[JanetYellen]] is discussed through a short-debt issuance strategy that the speakers interpret as waiting for lower rates before locking in more long-term borrowing.
@@ -23,6 +25,7 @@ The U.S. Treasury appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-b
 - EP57 treats debt pressure as one reason cash and short-duration safety can be valuable during [[MarketRegimeShift]].
 - The Marketplace Tech source treats Treasury as a national-security enforcement actor when crypto rails are used for sanctions evasion or organized scam networks.
 - The Planet Money source treats Treasury-linked financial diplomacy as a way to make sanctions globally effective through private-bank risk management.
+- The Malta source treats Treasury as part of treaty interpretation and tax-policy governance, where appointments and recusals affect perceived [[TaxEnforcementCapacity]].
 
 ## Connections
 - [[JanetYellen]] — policy figure attached to the issuance discussion.
@@ -32,3 +35,4 @@ The U.S. Treasury appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-b
 - [[DonaldTrump]] and [[IndexReentryDiscipline]] — EP57 context for fiscal pressure and waiting before adding equity risk.
 - [[AntiMoneyLaundering]], [[StablecoinSanctionsEvasion]], [[IslamicRevolutionaryGuardCorps]], and [[PrinceGroup]] — sanctions and illicit-finance branch added by Marketplace Tech.
 - [[IranSanctions]], [[DollarFinancialSanctions]], and [[SanctionsOvercompliance]] - Iran banking-isolation branch added by Planet Money.
+- [[USMaltaTaxTreaty]], [[MaltaTaxLoophole]], [[KennethKeyes]], [[TaxShelterDisclosureRegulation]], and [[TaxEnforcementCapacity]] - tax-treaty and enforcement branch added by Planet Money.

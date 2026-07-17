@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The leaked tapes that show how the rich avoid taxes](sources/the-leaked-tapes-that-show-how-the-rich-avoid-taxes.md) — Planet Money episode on the Malta tax loophole, U.S.-Malta treaty arbitrage, IRS enforcement, economic substance, leaked strategy calls, disclosure rules, and the politics of tax shelter enforcement.
 - [The giant factory town that might be a giant mistake](sources/the-giant-factory-town-that-might-be-a-giant-mistake.md) — Planet Money episode on Manaus, Brazil's free-zone factory model, subsidy-dependent assembly, the middle-income trap, premature deindustrialization, and local innovation paths beyond old manufacturing.
 - [Why the U.S. Has No Guaranteed Paid Vacation](sources/why-the-us-has-no-guaranteed-paid-vacation.md) — Planet Money episode on the U.S. paid-vacation outlier, European vacation rights, workplace guilt, rejected culture/tax explanations, and employer-bargained benefits.
 - [Jerome Powell and the Test of Fed Independence](sources/jerome-powell-and-the-test-of-fed-independence.md) — Planet Money episode on Jerome Powell, Trump pressure, Martin/Burns Fed history, Lael Brainard, inflation bias, Fed board removal law, and central-bank independence.
@@ -471,6 +472,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Carolyn Schenck](entities/CarolynSchenck.md) — Former IRS lawyer whose account grounds the episode's enforcement view of the Malta tax loophole.
+- [Lauren Loricchio](entities/LaurenLoricchio.md) — Tax Notes reporter whose pitch materials and leaked recordings surface the promotion and defense of the Malta strategy.
+- [Tax Notes](entities/TaxNotes.md) — Specialist tax-journalism publication whose reporting feeds the Planet Money investigation.
+- [Andrew Gradman](entities/AndrewGradman.md) — Tax lawyer explaining how U.S.-Malta treaty language and retirement-account rules created the loophole opening.
+- [Kenneth Keyes](entities/KennethKeyes.md) — Tax lobbyist heard on strategy calls and later named in Treasury and IRS roles, with source-scoped recusal statements.
+- [Dominion Fiduciary Services](entities/DominionFiduciaryServices.md) — Fiduciary services firm whose pitch deck promoted the Malta strategy to wealthy clients.
+- [Malta](entities/Malta.md) — Treaty counterparty and retirement-account jurisdiction behind the source's tax-loophole case.
+- [U.S.-Malta Tax Treaty](entities/USMaltaTaxTreaty.md) — 2008 treaty whose retirement-account reciprocity became the source's disputed tax-planning opening.
 - [Manaus](entities/Manaus.md) — Brazilian Amazon city used by Planet Money as the concrete case for free-zone manufacturing, subsidy dependence, and middle-income-trap limits.
 - [Zona Franca de Manaus](entities/ZonaFrancaDeManaus.md) — Special economic zone created in 1967 that turned Manaus into a factory hub while leaving it dependent on tax incentives.
 - [Bosco Saraiva](entities/BoscoSaraiva.md) — Manaus local source who frames the free zone as both an opportunity engine and an economically fragile subsidy-dependent industrial base.
@@ -3027,6 +3036,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Malta Tax Loophole](concepts/MaltaTaxLoophole.md) — Strategy using Maltese retirement accounts and U.S.-Malta treaty language to shelter appreciated assets from U.S. tax.
+- [Tax Avoidance-Evasion Boundary](concepts/TaxAvoidanceEvasionBoundary.md) — Contested legal line between lawful tax planning and abusive or illegal sheltering.
+- [Tax Treaty Arbitrage](concepts/TaxTreatyArbitrage.md) — Use of treaty mismatches or ambiguity to reduce tax liability across jurisdictions.
+- [Economic Substance Doctrine](concepts/EconomicSubstanceDoctrine.md) — Tax-law test asking whether a transaction has meaningful non-tax economic purpose.
+- [Tax Shelter Disclosure Regulation](concepts/TaxShelterDisclosureRegulation.md) — Rule mechanism requiring shelter users and advisers to identify themselves for enforcement.
+- [Tax Enforcement Capacity](concepts/TaxEnforcementCapacity.md) — State-capacity problem of detecting, disclosing, and challenging complex tax shelters despite resource and political constraints.
 - [Middle-Income Trap](concepts/MiddleIncomeTrap.md) — Development problem where countries become too expensive for low-wage manufacturing before they can innovate like rich economies.
 - [Subsidized Assembly Industrialization](concepts/SubsidizedAssemblyIndustrialization.md) — Factory-growth pattern where incentives attract assembly work without local control of high-value components or technology.
 - [Industrial Subsidy Dependence](concepts/IndustrialSubsidyDependence.md) — Fragility created when an industrial hub remains viable only because public incentives keep firms there.

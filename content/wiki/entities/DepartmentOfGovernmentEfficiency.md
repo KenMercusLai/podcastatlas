@@ -2,8 +2,8 @@
 title: "Department of Government Efficiency"
 type: entity
 tags: [government, public-sector, efficiency]
-sources: [yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
-last_updated: 2026-07-14
+sources: [the-leaked-tapes-that-show-how-the-rich-avoid-taxes, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
+last_updated: 2026-07-18
 ---
 
 # Department of Government Efficiency
@@ -14,14 +14,18 @@ The page records the source's framing rather than independently verifying the pr
 
 [[vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]] adds DOGE to the Trump 2.0 institutional-reform branch. The episode says DOGE's public spending-cut frame may also align with [[AdministrativeStateDismantling]], department restructuring, and insertion of new middle-management control inside the federal bureaucracy.
 
+[[the-leaked-tapes-that-show-how-the-rich-avoid-taxes]] adds a narrower IRS-enforcement consequence. The [[PlanetMoney]] source says DOGE cleared out IRS staff during the period when the proposed Malta disclosure rule stalled, making DOGE part of the source-scoped [[TaxEnforcementCapacity]] story rather than only a software or administrative-reform context.
+
 ## Key Claims
 - DOGE is used as a government-efficiency context connecting startup operators with public-service systems.
 - The source moves quickly from DOGE to the [[InternalRevenueService]], where the practical problem becomes service delivery rather than startup-style speed alone.
 - The episode's broader lesson is that [[AIAsBusinessOperator]] and startup automation ideas have to be rethought when applied to public institutions.
 - The Qizhulou Yan Binke source treats DOGE as potentially more than budget theater: it may be part of a broader federal reorganization agenda under [[DonaldTrump]].
+- The Planet Money Malta source treats DOGE-linked staff reductions as one factor in weakened or delayed tax-shelter enforcement.
 
 ## Connections
 - [[SahilLavingia]] — person linked to this source branch.
 - [[InternalRevenueService]], [[UnitedStates]], and [[PublicServiceDigitalization]] — public-sector context.
 - [[PublicInterestAI]] and [[AIOrganizationDesign]] — adjacent governance and organization-design themes.
 - [[DonaldTrump]], [[Project2025]], and [[AdministrativeStateDismantling]] — Trump 2.0 reorganization context added by Qizhulou Yan Binke.
+- [[InternalRevenueService]], [[MaltaTaxLoophole]], [[TaxShelterDisclosureRegulation]], and [[TaxEnforcementCapacity]] — tax-enforcement capacity branch added by Planet Money.

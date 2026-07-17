@@ -1767,6 +1767,10 @@
     "title": "Andreessen Horowitz",
     "url": "/wiki/entities/andreessenhorowitz/"
   },
+  "AndrewGradman": {
+    "title": "Andrew Gradman",
+    "url": "/wiki/entities/andrewgradman/"
+  },
   "AndrewGraff": {
     "title": "Andrew Graff",
     "url": "/wiki/entities/andrewgraff/"
@@ -3270,6 +3274,10 @@
   "CarolynLevy": {
     "title": "Carolyn Levy",
     "url": "/wiki/entities/carolynlevy/"
+  },
+  "CarolynSchenck": {
+    "title": "Carolyn Schenck",
+    "url": "/wiki/entities/carolynschenck/"
   },
   "Carousel": {
     "title": "Carousel",
@@ -5179,6 +5187,10 @@
     "title": "Dominic Windham-Giddens",
     "url": "/wiki/entities/dominicwindhamgiddens/"
   },
+  "DominionFiduciaryServices": {
+    "title": "Dominion Fiduciary Services",
+    "url": "/wiki/entities/dominionfiduciaryservices/"
+  },
   "DonValentine": {
     "title": "Don Valentine",
     "url": "/wiki/entities/donvalentine/"
@@ -5482,6 +5494,10 @@
   "EconomicSanctionsAsViolence": {
     "title": "Economic Sanctions As Violence",
     "url": "/wiki/concepts/economicsanctionsasviolence/"
+  },
+  "EconomicSubstanceDoctrine": {
+    "title": "Economic Substance Doctrine",
+    "url": "/wiki/concepts/economicsubstancedoctrine/"
   },
   "EconomicWayOfThinking": {
     "title": "Economic Way Of Thinking",
@@ -9431,6 +9447,10 @@
     "title": "Kenneth Cole",
     "url": "/wiki/entities/kennethcole/"
   },
+  "KennethKeyes": {
+    "title": "Kenneth Keyes",
+    "url": "/wiki/entities/kennethkeyes/"
+  },
   "KevinKelly": {
     "title": "Kevin Kelly",
     "url": "/wiki/entities/kevinkelly/"
@@ -9750,6 +9770,10 @@
   "LaughterAgainstAuthority": {
     "title": "Laughter Against Authority",
     "url": "/wiki/concepts/laughteragainstauthority/"
+  },
+  "LaurenLoricchio": {
+    "title": "Lauren Loricchio",
+    "url": "/wiki/entities/laurenloricchio/"
   },
   "LaurenMenard": {
     "title": "Lauren Menard",
@@ -10578,6 +10602,14 @@
   "MallBasedRetailExpansion": {
     "title": "Mall Based Retail Expansion",
     "url": "/wiki/concepts/mallbasedretailexpansion/"
+  },
+  "Malta": {
+    "title": "Malta",
+    "url": "/wiki/entities/malta/"
+  },
+  "MaltaTaxLoophole": {
+    "title": "Malta Tax Loophole",
+    "url": "/wiki/concepts/maltataxloophole/"
   },
   "MamoonHamid": {
     "title": "Mamoon Hamid",
@@ -16035,9 +16067,29 @@
     "title": "Tau Law",
     "url": "/wiki/concepts/taulaw/"
   },
+  "TaxAvoidanceEvasionBoundary": {
+    "title": "Tax Avoidance-Evasion Boundary",
+    "url": "/wiki/concepts/taxavoidanceevasionboundary/"
+  },
+  "TaxEnforcementCapacity": {
+    "title": "Tax Enforcement Capacity",
+    "url": "/wiki/concepts/taxenforcementcapacity/"
+  },
   "TaxFoundation": {
     "title": "Tax Foundation",
     "url": "/wiki/entities/taxfoundation/"
+  },
+  "TaxNotes": {
+    "title": "Tax Notes",
+    "url": "/wiki/entities/taxnotes/"
+  },
+  "TaxShelterDisclosureRegulation": {
+    "title": "Tax Shelter Disclosure Regulation",
+    "url": "/wiki/concepts/taxshelterdisclosureregulation/"
+  },
+  "TaxTreatyArbitrage": {
+    "title": "Tax Treaty Arbitrage",
+    "url": "/wiki/concepts/taxtreatyarbitrage/"
   },
   "TaxiDriver": {
     "title": "Taxi Driver",
@@ -16830,6 +16882,10 @@
   "USIranNuclearDiplomacy": {
     "title": "U.S.-Iran Nuclear Diplomacy",
     "url": "/wiki/concepts/usirannucleardiplomacy/"
+  },
+  "USMaltaTaxTreaty": {
+    "title": "U.S.-Malta Tax Treaty",
+    "url": "/wiki/entities/usmaltataxtreaty/"
   },
   "USNavy": {
     "title": "U.S. Navy",
@@ -19526,6 +19582,10 @@
   "the-latest-tv-innovations-have-their-critics": {
     "title": "The latest TV innovations have their critics",
     "url": "/wiki/sources/the-latest-tv-innovations-have-their-critics/"
+  },
+  "the-leaked-tapes-that-show-how-the-rich-avoid-taxes": {
+    "title": "The leaked tapes that show how the rich avoid taxes",
+    "url": "/wiki/sources/the-leaked-tapes-that-show-how-the-rich-avoid-taxes/"
   },
   "the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers": {
     "title": "The little-known regulatory bodies that can make or break AI data centers",
