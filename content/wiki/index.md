@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Can World Cup mania grow MLS in the U.S.?](sources/can-world-cup-mania-grow-mls-in-the-us.md) — Planet Money episode on MLS using the 2026 World Cup to convert global soccer attention into local club fandom through watch parties, host-city exposure, non-host-city activation, marketing, and player recruiting.
 - [You've come a long way, Bibi: Israel's crucial election](sources/youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410.md) — The Intelligence episode on Israel's post-October-7 election, Netanyahu and opposition coalition arithmetic, Haredi conscription, avoidance of the Palestinian question, World Cup expansion and political interference, and A23A as climate symbolism.
 - [50 Cents a Pool: The Pricing Model Behind a SaaS Exit](sources/50-cents-a-pool-the-pricing-model-behind-a-saas-exit.md) — The SaaS Podcast episode with Ron Hash on building Skimmer for pool-service companies, field-first mobile UX, offline technician workflows, serviced-customer pricing, onboarding-led churn reduction, and selling after reaching $1M+ ARR.
 - [The sneaky way companies get new chemicals into our food](sources/the-sneaky-way-companies-get-new-chemicals-into-our-food.md) — Planet Money episode on Daily Harvest, tara flour, Secret GRAS, food-additive self-certification, FDA notification gaps, arbitration, litigation discovery, and post-harm regulation.
@@ -486,6 +487,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [A23A](entities/A23A.md) — Antarctic iceberg profiled as a trillion-ton polar object whose breakup carries ecological and climate-symbolic meaning.
 - [Argentina](entities/Argentina.md) — World Cup finalist in the Bibi source, linked to Messi's possible second straight title and tournament-memory framing.
 - [Cristiano Ronaldo](entities/CristianoRonaldo.md) — Footballer named as part of the possible last World Cup memory alongside Lionel Messi.
+- [Becky Sullivan](entities/BeckySullivan.md) — NPR sports correspondent whose reporting grounds the MLS World Cup conversion episode in club-level watch-party scenes.
+- [Kenny Malone](entities/KennyMalone.md) — Planet Money host framing MLS's World Cup attention problem as an economics question.
+- [Major League Soccer](entities/MajorLeagueSoccer.md) — North American soccer league trying to turn 2026 World Cup attention into durable local club fandom and player interest.
+- [Seattle Sounders](entities/SeattleSounders.md) — MLS club whose World Cup barge watch party illustrates visible local fandom and communal event energy.
+- [New England Revolution](entities/NewEnglandRevolution.md) — MLS club using Boston-area World Cup matches as a live-soccer demonstration for soccer-curious U.S. sports fans.
+- [Chicago Fire](entities/ChicagoFire.md) — MLS club investing in a large non-host-city World Cup watch party to sample soccer atmosphere and gather future fan leads.
+- [Brian Bilello](entities/BrianBilello.md) — New England Revolution president whose 1994 World Cup memory anchors the host-city MLS conversion strategy.
+- [Dave Baldwin](entities/DaveBaldwin.md) — Chicago Fire president explaining the club's World Cup watch-party investment as a Costco-style sampling strategy.
+- [Dan Moriarty](entities/DanMoriarty.md) — Chicago Fire marketing chief focused on choosing the right World Cup audience for future local soccer demand.
+- [Camilo Durana](entities/CamiloDurana.md) — MLS chief business officer explaining the league-wide World Cup marketing and player-recruiting strategy.
 - [Ron Hash](entities/RonHash.md) — Skimmer founder and QuickFax builder whose SaaS Podcast episode covers vertical SaaS validation, pricing, onboarding, support, acquisition, and founder role transition.
 - [Skimmer](entities/Skimmer.md) — Pool-service vertical SaaS company built around mobile route execution, chemical logs, offline field work, serviced-customer pricing, and support-led growth.
 - [QuickFax](entities/QuickFax.md) — Ron Hash's accountless online faxing product, framed as another simple solution to an unglamorous workflow pain.
@@ -3063,6 +3074,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Major-Event Attention Conversion](concepts/MajorEventAttentionConversion.md) — Strategy of converting a temporary major-event attention spike into durable customers, local loyalty, repeat attendance, or revenue.
+- [Sports Fandom Network Effects](concepts/SportsFandomNetworkEffects.md) — Feedback loop where a team, league, or event becomes more valuable to each fan when visible local communities also care.
 - [Israeli Election 2026](concepts/IsraeliElection2026.md) — Election frame for post-October-7 judgment on Netanyahu, war leadership, opposition coalition viability, conscription, education, and strategic avoidance.
 - [Haredi Conscription](concepts/HarediConscription.md) — Israeli burden-sharing dispute over ultra-Orthodox military-service exemptions and their campaign role.
 - [Palestinian Question in Israeli Politics](concepts/PalestinianQuestionInIsraeliPolitics.md) — Source frame for the central Palestinian issue being avoided in Israeli election campaigning despite West Bank risk.

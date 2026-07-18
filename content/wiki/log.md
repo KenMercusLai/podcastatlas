@@ -3830,3 +3830,11 @@ Added source page for the Marketplace Tech Bytes episode on Apple's trade-secret
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-18] ingest | Can World Cup mania grow MLS in the U.S.?
+
+Added source page for the Planet Money episode on Major League Soccer's attempt to turn 2026 World Cup attention into durable local club fandom. Created pages for Major League Soccer, Seattle Sounders, New England Revolution, Chicago Fire, Becky Sullivan, Kenny Malone, Brian Bilello, Dave Baldwin, Dan Moriarty, Camilo Durana, Major-Event Attention Conversion, and Sports Fandom Network Effects; updated overview, index, NPR, Planet Money, FIFA World Cup, World Cup Expansion, United States, Argentina, Lionel Messi, Sports Entertainment Flywheel, Offline Brand Activation, and League Stakeholder Alignment. No direct contradiction found; the source complements the existing World Cup branch by shifting from FIFA expansion, rights, sponsorship, and legitimacy to the downstream problem of converting mega-event attention into repeat domestic-league demand.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2,7 +2,7 @@
 title: "Planet Money"
 type: entity
 tags: [podcast, media, economics]
-sources: [the-sneaky-way-companies-get-new-chemicals-into-our-food, the-leaked-tapes-that-show-how-the-rich-avoid-taxes, the-secret-meeting-that-launched-opec, diary-of-a-wnba-negotiator, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down, jerome-powell-and-the-test-of-fed-independence, why-the-us-has-no-guaranteed-paid-vacation, the-giant-factory-town-that-might-be-a-giant-mistake]
+sources: [can-world-cup-mania-grow-mls-in-the-us, the-sneaky-way-companies-get-new-chemicals-into-our-food, the-leaked-tapes-that-show-how-the-rich-avoid-taxes, the-secret-meeting-that-launched-opec, diary-of-a-wnba-negotiator, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down, jerome-powell-and-the-test-of-fed-independence, why-the-us-has-no-guaranteed-paid-vacation, the-giant-factory-town-that-might-be-a-giant-mistake]
 last_updated: 2026-07-18
 ---
 
@@ -38,6 +38,8 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 
 [[diary-of-a-wnba-negotiator]] adds a sports-labor economics case. The episode follows [[AliciaClark]], [[BriannaTurner]], and the [[WNBAPlayersAssociation]] as they use [[ClaudiaGoldin]]'s comparison work, spreadsheets, and strike preparation to win [[SportsLaborRevenueSharing]] from the [[WNBA]].
 
+[[can-world-cup-mania-grow-mls-in-the-us]] adds another sports-business case, this time around [[MajorLeagueSoccer]] and the 2026 [[FIFAWorldCup]]. The episode uses the [[SeattleSounders]], [[NewEnglandRevolution]], [[ChicagoFire]], and [[CamiloDurana]]'s league-level campaign to ask whether global tournament attention can become durable local club demand.
+
 [[the-secret-meeting-that-launched-opec]] adds an oil-market history and current-risk case. The episode uses listener-question framing to explain [[OPEC]], the [[SevenSistersOilMajors|Seven Sisters]], [[WandaJablonski]], the 1973 oil shock, [[OilProducerSupplyCoordination]], [[ProductionQuotaDiscipline]], [[SaudiArabia]]'s [[SwingProducerRole]], and the source's account of the [[UnitedArabEmirates|UAE]] leaving OPEC under [[GreenParadox]] and [[StraitOfHormuz]] pressure.
 
 [[jerome-powell-and-the-test-of-fed-independence]] adds a central-bank governance case. The episode uses [[JeromePowell]], [[LaelBrainard]], [[WilliamMcChesneyMartin]], [[ArthurBurns]], and [[DonaldTrump]] to explain why [[CentralBankIndependence]], [[InflationBias]], and [[ForCauseRemovalStandard]] matter beyond ordinary rate-cycle reporting.
@@ -65,6 +67,7 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 - [[DanWang]], [[EngineeringState]], [[Evergrande]], [[ChinaYouthUnemployment]], and [[BuildBuildRegulate]] - China Summer School branch added by the new episode.
 - [[Brazil]], [[Manaus]], [[HomiKharas]], [[MayaraFelix]], [[MiddleIncomeTrap]], and [[PrematureDeindustrialization]] - Brazil development branch added by the Manaus episode.
 - [[WNBA]], [[WNBAPlayersAssociation]], [[AliciaClark]], [[BriannaTurner]], [[SportsLaborRevenueSharing]], and [[DataBackedLaborBargaining]] - sports-labor branch added by the WNBA negotiation episode.
+- [[MajorLeagueSoccer]], [[SeattleSounders]], [[NewEnglandRevolution]], [[ChicagoFire]], [[SportsFandomNetworkEffects]], and [[MajorEventAttentionConversion]] - MLS World Cup conversion branch added by the new episode.
 - [[OPEC]], [[SevenSistersOilMajors]], [[OilProducerSupplyCoordination]], [[ProductionQuotaDiscipline]], [[SwingProducerRole]], and [[GreenParadox]] - oil-market coordination branch added by the OPEC episode.
 - [[JeromePowell]], [[FederalReserve]], [[LaelBrainard]], [[CentralBankIndependence]], [[InflationBias]], and [[ForCauseRemovalStandard]] - Fed-independence branch added by the Powell episode.
 - [[AdewaleMaie]], [[GaryCross]], [[DanielHamermesh]], [[TomCohen]], [[PaidVacationAsLaborRight]], and [[EmployerBargainedBenefits]] - paid-vacation and U.S. benefits-architecture branch added by the vacation episode.
