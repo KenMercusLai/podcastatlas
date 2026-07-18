@@ -2,8 +2,8 @@
 title: "Semiconductor 3D Stacking"
 type: concept
 tags: [semiconductors, hardware, architecture, packaging]
-sources: [cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun]
-last_updated: 2026-07-12
+sources: [cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]
+last_updated: 2026-07-18
 ---
 
 # Semiconductor 3D Stacking
@@ -14,6 +14,8 @@ The episode stresses that this direction is not new. HBM-style memory, cache sta
 
 [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] adds an AI data-center version. The source links [[TSMC]] advanced packaging and possible [[Nvidia]] GPU-plus-SRAM stacking to the [[MemoryWall]], where shortening data movement can matter as much as increasing raw accelerator compute.
 
+[[ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]] broadens this into [[AdvancedPackaging|advanced packaging]] as a domestic catch-up route. It presents HBM-style stacking and tighter chip-memory links as useful when data movement limits AI workloads, while also noting that packaging gains still depend on available advanced wafers and upstream process capacity.
+
 ## Source Position
 - The source uses "flat pancake" versus "building upward" as the main intuition for why distance and delay matter.
 - Stacking can reduce communication distance, but it creates heat, manufacturing, yield, and cost problems.
@@ -21,6 +23,7 @@ The episode stresses that this direction is not new. HBM-style memory, cache sta
 - The hosts warn that companies with stronger lithography access can still adopt the same route, so stacking alone does not guarantee Huawei a unique advantage.
 - The episode links stacking to future systems where CPU, GPU, memory, and local AI computation may be more tightly integrated, even if that reduces user-expandable hardware flexibility.
 - The What's Next source extends the same logic from Huawei's constraint-driven route to AI accelerators and data-center memory hierarchy.
+- EP270 adds a China-wide semiconductor-chain version: stacking and advanced packaging can help under process constraints, but they do not remove the need for better fabs, materials, equipment, and yield.
 
 ## Connections
 - [[TauLaw]] — named metric that uses stacking as one possible route to lower latency.
@@ -29,3 +32,4 @@ The episode stresses that this direction is not new. HBM-style memory, cache sta
 - [[AIPlusTerminals]] — adjacent wiki theme where hardware, software, data, and local/cloud computation become one product loop.
 - [[ChinaHandsetSupplyChain]] — broader hardware ecosystem context for Chinese terminal and component capability.
 - [[TSMC]], [[Nvidia]], [[MemoryWall]], [[HighBandwidthMemory]], and [[AIDataCenterMemoryHierarchy]] — AI data-center packaging context added by What's Next.
+- [[AdvancedPackaging]], [[JCET]], [[DomesticAIChipCatchUp]], and [[ComputeFreedom]] — packaging-as-catch-up branch added by EP270.

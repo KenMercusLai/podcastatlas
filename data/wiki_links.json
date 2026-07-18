@@ -1107,6 +1107,10 @@
     "title": "ASICS",
     "url": "/wiki/entities/asics/"
   },
+  "ASML": {
+    "title": "ASML / 阿斯麦",
+    "url": "/wiki/entities/asml/"
+  },
   "AShareBullMarketHistory": {
     "title": "A-Share Bull Market History",
     "url": "/wiki/concepts/asharebullmarkethistory/"
@@ -1342,6 +1346,10 @@
   "AdvancedLocalExpressDesk": {
     "title": "Advanced Local Express Desk",
     "url": "/wiki/entities/advancedlocalexpressdesk/"
+  },
+  "AdvancedPackaging": {
+    "title": "Advanced Packaging",
+    "url": "/wiki/concepts/advancedpackaging/"
   },
   "AdventrisPharmaceuticals": {
     "title": "Adventris Pharmaceuticals",
@@ -3155,6 +3163,10 @@
     "title": "Cabin Crew Work",
     "url": "/wiki/concepts/cabincrewwork/"
   },
+  "CadenceDesignSystems": {
+    "title": "Cadence Design Systems / 楷登",
+    "url": "/wiki/entities/cadencedesignsystems/"
+  },
   "CaffeinatedModernity": {
     "title": "Caffeinated Modernity",
     "url": "/wiki/concepts/caffeinatedmodernity/"
@@ -3182,6 +3194,10 @@
   "CaliforniaDeleteAct": {
     "title": "California Delete Act",
     "url": "/wiki/concepts/californiadeleteact/"
+  },
+  "Cambricon": {
+    "title": "Cambricon / 寒武纪",
+    "url": "/wiki/entities/cambricon/"
   },
   "CamiloDurana": {
     "title": "Camilo Durana",
@@ -4126,6 +4142,10 @@
   "CompoundingGrowthFormula": {
     "title": "Compounding Growth Formula",
     "url": "/wiki/concepts/compoundinggrowthformula/"
+  },
+  "ComputeFreedom": {
+    "title": "Compute Freedom / 算力自由",
+    "url": "/wiki/concepts/computefreedom/"
   },
   "ComputerUseAgent": {
     "title": "Computer Use Agent",
@@ -5259,6 +5279,10 @@
     "title": "Domain Expert Alignment",
     "url": "/wiki/concepts/domainexpertalignment/"
   },
+  "DomesticAIChipCatchUp": {
+    "title": "Domestic AI Chip Catch-Up",
+    "url": "/wiki/concepts/domesticaichipcatchup/"
+  },
   "DomesticViolencePetCoercion": {
     "title": "Domestic Violence Pet Coercion",
     "url": "/wiki/concepts/domesticviolencepetcoercion/"
@@ -5690,6 +5714,10 @@
   "ElectroHydrostaticRocketServo": {
     "title": "Electro-Hydrostatic Rocket Servo",
     "url": "/wiki/concepts/electrohydrostaticrocketservo/"
+  },
+  "ElectronicDesignAutomation": {
+    "title": "Electronic Design Automation",
+    "url": "/wiki/concepts/electronicdesignautomation/"
   },
   "ElectronicPrivacyInformationCenter": {
     "title": "Electronic Privacy Information Center",
@@ -7051,6 +7079,10 @@
     "title": "高善文 / Gao Shanwen",
     "url": "/wiki/entities/gaoshanwen/"
   },
+  "GaoYiding": {
+    "title": "高一丁 / Gao Yiding",
+    "url": "/wiki/entities/gaoyiding/"
+  },
   "Gaode": {
     "title": "Gaode",
     "url": "/wiki/entities/gaode/"
@@ -7374,6 +7406,10 @@
   "GooglePlus": {
     "title": "Google Plus",
     "url": "/wiki/entities/googleplus/"
+  },
+  "GordonMoore": {
+    "title": "Gordon Moore",
+    "url": "/wiki/entities/gordonmoore/"
   },
   "GovernmentDataBrokerAccess": {
     "title": "Government Data Broker Access",
@@ -8611,6 +8647,10 @@
     "title": "Insurance Sales Trust",
     "url": "/wiki/concepts/insurancesalestrust/"
   },
+  "Intel": {
+    "title": "Intel",
+    "url": "/wiki/entities/intel/"
+  },
   "IntelligenceDevaluation": {
     "title": "Intelligence Devaluation",
     "url": "/wiki/concepts/intelligencedevaluation/"
@@ -8834,6 +8874,10 @@
   "IvyLeagueMeritocracy": {
     "title": "Ivy League Meritocracy",
     "url": "/wiki/concepts/ivyleaguemeritocracy/"
+  },
+  "JCET": {
+    "title": "JCET / 长电科技",
+    "url": "/wiki/entities/jcet/"
   },
   "JDCom": {
     "title": "JD.com / 京东",
@@ -11611,6 +11655,10 @@
     "title": "Moon",
     "url": "/wiki/entities/moon/"
   },
+  "MooreLaw": {
+    "title": "Moore's Law",
+    "url": "/wiki/concepts/moorelaw/"
+  },
   "MoralSuspensionInArtReading": {
     "title": "Moral Suspension In Art Reading",
     "url": "/wiki/concepts/moralsuspensioninartreading/"
@@ -12930,6 +12978,10 @@
   "PhilosophyWorkplaceSatire": {
     "title": "Philosophy Workplace Satire",
     "url": "/wiki/concepts/philosophyworkplacesatire/"
+  },
+  "PhotolithographyBottleneck": {
+    "title": "Photolithography Bottleneck",
+    "url": "/wiki/concepts/photolithographybottleneck/"
   },
   "PhysicalAGI": {
     "title": "Physical AGI",
@@ -14883,6 +14935,10 @@
     "title": "Semiconductor 3D Stacking",
     "url": "/wiki/concepts/semiconductor3dstacking/"
   },
+  "SemiconductorSupplyChain": {
+    "title": "Semiconductor Supply Chain",
+    "url": "/wiki/concepts/semiconductorsupplychain/"
+  },
   "SemiconductorTalentGenealogy": {
     "title": "Semiconductor Talent Genealogy",
     "url": "/wiki/concepts/semiconductortalentgenealogy/"
@@ -15230,6 +15286,10 @@
   "SidewalkDeliveryRobots": {
     "title": "Sidewalk Delivery Robots",
     "url": "/wiki/concepts/sidewalkdeliveryrobots/"
+  },
+  "SiemensEDA": {
+    "title": "Siemens EDA / 西门子EDA",
+    "url": "/wiki/entities/siemenseda/"
   },
   "SignatureBank": {
     "title": "Signature Bank",
@@ -16143,6 +16203,10 @@
     "title": "Sync Reliability As UX",
     "url": "/wiki/concepts/syncreliabilityasux/"
   },
+  "Synopsys": {
+    "title": "Synopsys / 新思科技",
+    "url": "/wiki/entities/synopsys/"
+  },
   "SyrilKarn": {
     "title": "Syril Karn",
     "url": "/wiki/entities/syrilkarn/"
@@ -16211,6 +16275,10 @@
     "title": "Takaichi Sanae",
     "url": "/wiki/entities/takaichisanae/"
   },
+  "TalkSanlian": {
+    "title": "Talk三联",
+    "url": "/wiki/entities/talksanlian/"
+  },
   "TallTaleTradition": {
     "title": "Tall-Tale Tradition",
     "url": "/wiki/concepts/talltaletradition/"
@@ -16258,6 +16326,10 @@
   "Taocaicai": {
     "title": "淘菜菜 / Taocaicai",
     "url": "/wiki/entities/taocaicai/"
+  },
+  "TapeOutRisk": {
+    "title": "Tape-Out Risk",
+    "url": "/wiki/concepts/tapeoutrisk/"
   },
   "Tapio": {
     "title": "Tapio",
@@ -19146,6 +19218,10 @@
   "ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t": {
     "title": "EP26 想做人上之人，却困在《城中之城》",
     "url": "/wiki/sources/ep26-xiang-zuo-ren-shang-zhi-ren-que-kun-zai-cheng-zhong-zhi-cheng-lgbvd08kgko5onekgvnu4aovfz6t/"
+  },
+  "ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci": {
+    "title": "EP270 一枚芯片的漫长征途：我们离“算力自由”还有多远？",
+    "url": "/wiki/sources/ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci/"
   },
   "ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj": {
     "title": "EP28 百年金融诈骗史：阶级跨越与锒铛入狱的距离",

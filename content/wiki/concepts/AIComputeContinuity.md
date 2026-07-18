@@ -2,8 +2,8 @@
 title: "AI Compute Continuity"
 type: concept
 tags: [ai, infrastructure, reliability]
-sources: [vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
-last_updated: 2026-07-17
+sources: [vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]
+last_updated: 2026-07-18
 ---
 
 # AI Compute Continuity
@@ -30,6 +30,8 @@ The episode's coding-tool anecdote makes the issue concrete: when an AI coding s
 
 [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] adds the memory-continuity version. AI services can have chips and power but still be constrained if [[HighBandwidthMemory]], DRAM, NAND, packaging, or [[MemoryCapacityLockIn]] fail to keep pace with inference and agent workloads.
 
+[[ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]] adds the domestic semiconductor-continuity version. AI services need stable access to chips, fabs, packaging, power, EDA tools, software ecosystems, and enough economical capacity; otherwise [[ComputeFreedom|算力自由]] remains blocked even if a prototype chip exists.
+
 ## Key Claims
 - AI services depend on physical regions, power, cooling, networks, and specialized hardware rather than only model software.
 - High-density GPU facilities can be more strategically valuable and more operationally fragile than ordinary web-serving capacity.
@@ -45,6 +47,7 @@ The episode's coding-tool anecdote makes the issue concrete: when an AI coding s
 - Strategic infrastructure programs can make political access part of compute continuity when scarce sites, power, procurement, and national policy decide which providers scale first.
 - Onsite generator power can accelerate data-center deployment, but it creates another continuity dependency on industrial equipment, fuel, emissions tolerance, and service capacity.
 - Memory and storage continuity matter alongside GPU availability: HBM, DRAM, NAND, CXL pooling, and packaging decide whether accelerators can stay fed with data.
+- Domestic compute continuity requires a working [[SemiconductorSupplyChain]] loop, not only imported accelerators or one-off domestic chips.
 
 ## Connections
 - [[MaaSInfrastructure]] — platform layer that turns compute into usable model service.
@@ -62,3 +65,4 @@ The episode's coding-tool anecdote makes the issue concrete: when an AI coding s
 - [[ClaudeCode]] and [[AICodingVerification]] — workflow example where tool availability and human review quality interact.
 - [[HoloAssets]], [[CAPEXOPEXSubstitution]], and [[HumanResourceDeflationComputeInfrastructureInflation]] — energy and hard-asset extension added by E155.
 - [[AIStorageSupercycle]], [[MemoryWall]], [[HighBandwidthMemory]], and [[MemoryCapacityLockIn]] — memory-supply extension added by What's Next.
+- [[ComputeFreedom]], [[DomesticAIChipCatchUp]], [[ElectronicDesignAutomation]], [[PhotolithographyBottleneck]], and [[AdvancedPackaging]] — semiconductor-chain continuity branch added by EP270.

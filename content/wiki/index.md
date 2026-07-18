@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP270 一枚芯片的漫长征途：我们离“算力自由”还有多远？](sources/ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci.md) — Talk三联 episode with Gao Yiding and Zhang Congzhi on chips, AI compute, GPU/CUDA advantages, EDA, lithography, tape-out, Moore's Law, advanced packaging, HBM, SMIC, and the whole-chain difficulty behind domestic compute freedom.
 - [Can World Cup mania grow MLS in the U.S.?](sources/can-world-cup-mania-grow-mls-in-the-us.md) — Planet Money episode on MLS using the 2026 World Cup to convert global soccer attention into local club fandom through watch parties, host-city exposure, non-host-city activation, marketing, and player recruiting.
 - [You've come a long way, Bibi: Israel's crucial election](sources/youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410.md) — The Intelligence episode on Israel's post-October-7 election, Netanyahu and opposition coalition arithmetic, Haredi conscription, avoidance of the Palestinian question, World Cup expansion and political interference, and A23A as climate symbolism.
 - [50 Cents a Pool: The Pricing Model Behind a SaaS Exit](sources/50-cents-a-pool-the-pricing-model-behind-a-saas-exit.md) — The SaaS Podcast episode with Ron Hash on building Skimmer for pool-service companies, field-first mobile UX, offline technician workflows, serviced-customer pricing, onboarding-led churn reduction, and selling after reaching $1M+ ARR.
@@ -478,6 +479,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Talk三联](entities/TalkSanlian.md) — Podcast/show context for EP270's public explainer on chips, semiconductor manufacturing, domestic AI-chip catch-up, and compute freedom.
+- [高一丁 / Gao Yiding](entities/GaoYiding.md) — Talk三联 host framing why chips became newly visible through AI, EVs, chip shortages, and global technology competition.
+- [JCET / 长电科技](entities/JCET.md) — Chinese semiconductor packaging company whose factory visit grounds EP270's advanced-packaging and cleanroom-manufacturing explanation.
+- [ASML / 阿斯麦](entities/ASML.md) — Dutch lithography-equipment maker presented in EP270 as the unique high-end EUV supplier but not the only advanced-chip bottleneck.
+- [Synopsys / 新思科技](entities/Synopsys.md) — EDA vendor used in EP270 to show why chip self-reliance includes design software and verification flows.
+- [Cadence Design Systems / 楷登](entities/CadenceDesignSystems.md) — EDA vendor in EP270's explanation of the deep software toolchain behind chip design.
+- [Siemens EDA / 西门子EDA](entities/SiemensEDA.md) — EDA vendor named in EP270 as part of the overseas toolchain moat in semiconductor design.
+- [Cambricon / 寒武纪](entities/Cambricon.md) — Chinese AI-chip company used in EP270 to frame domestic accelerator catch-up beyond raw chip specifications.
+- [Gordon Moore](entities/GordonMoore.md) — Semiconductor figure whose Moore's Law anchors EP270's account of decades-long density, performance, and cost improvement.
+- [Intel](entities/Intel.md) — Semiconductor manufacturer included in EP270 among the few companies still pursuing the most advanced process nodes.
 - [Benjamin Netanyahu](entities/BenjaminNetanyahu.md) — Israeli prime minister whose post-October-7 leadership, coalition dependence, and dealmaking anchor the Bibi election source.
 - [Naftali Bennett](entities/NaftaliBennett.md) — Former Israeli prime minister and Together opposition figure in the 2026 election source.
 - [Yair Lapid](entities/YairLapid.md) — Former Israeli prime minister and Together opposition figure whose role illustrates anti-Netanyahu coalition arithmetic.
@@ -1317,7 +1328,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scotland Yard](entities/ScotlandYard.md) — London policing institution used by the episode to show how early investigative failures shaped later criminal-investigation discipline.
 - [何倩然 / He Qianran](entities/HeQianran.md) — Battery investor and materials/R&D-background guest explaining China's manufacturing edge and future sodium-ion, dry-electrode, recycling, and solid-state routes.
 - [杨璐 / Yang Lu](entities/YangLu.md) — Journalist contributing BYD factory-history, Changzhou cluster, and Yibin industrial-transition reporting to the battery episode.
-- [张从志 / Zhang Congzhi](entities/ZhangCongzhi.md) — Journalist emphasizing Ten Cities Thousand Vehicles, battery consistency, and pack-level safety as foundations of China's battery rise.
+- [张从志 / Zhang Congzhi](entities/ZhangCongzhi.md) — Journalist emphasizing battery manufacturing consistency in E229 and semiconductor supply-chain, EDA, lithography, packaging, and compute-cost complexity in EP270.
 - [CATL / 宁德时代](entities/CATL.md) — Chinese power-battery leader positioned as a beneficiary of demand creation, whitelist protection, manufacturing scale, and Yibin chain anchoring.
 - [ATL / Amperex Technology Limited](entities/ATL.md) — Early Chinese lithium-battery company used to show how licensed technology still required coating, process, and reliability know-how.
 - [Northvolt](entities/Northvolt.md) — European battery counterexample where capital, equipment, and orders did not substitute for deep manufacturing process capability.
@@ -3074,6 +3085,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Compute Freedom / 算力自由](concepts/ComputeFreedom.md) — Condition where AI compute becomes cheap, abundant, reliable, and domestically available enough to reshape AI product use.
+- [Semiconductor Supply Chain](concepts/SemiconductorSupplyChain.md) — Design, wafer fabrication, packaging, and testing system whose linked constraints determine chip availability and cost.
+- [Electronic Design Automation](concepts/ElectronicDesignAutomation.md) — Chip-design software toolchain that supports simulation, verification, and tape-out while creating a deep upstream dependency.
+- [Photolithography Bottleneck](concepts/PhotolithographyBottleneck.md) — Advanced-chip manufacturing constraint around lithography equipment, process execution, materials, inspection, and yield.
+- [Tape-Out Risk](concepts/TapeOutRisk.md) — High-cost uncertainty when a chip design is first manufactured and validated after long design cycles.
+- [Moore's Law](concepts/MooreLaw.md) — Semiconductor scaling frame that coordinated decades of density, performance, and cost improvement before physical and economic limits pushed post-Moore routes.
+- [Advanced Packaging](concepts/AdvancedPackaging.md) — Packaging and interconnect route that can improve AI-chip performance through tighter processor-memory integration but still depends on upstream wafers and volume.
+- [Domestic AI Chip Catch-Up](concepts/DomesticAIChipCatchUp.md) — China-focused AI-chip substitution challenge across design talent, EDA, fabrication, yield, packaging, software ecosystems, and cost-effective scale.
 - [Major-Event Attention Conversion](concepts/MajorEventAttentionConversion.md) — Strategy of converting a temporary major-event attention spike into durable customers, local loyalty, repeat attendance, or revenue.
 - [Sports Fandom Network Effects](concepts/SportsFandomNetworkEffects.md) — Feedback loop where a team, league, or event becomes more valuable to each fan when visible local communities also care.
 - [Israeli Election 2026](concepts/IsraeliElection2026.md) — Election frame for post-October-7 judgment on Netanyahu, war leadership, opposition coalition viability, conscription, education, and strategic avoidance.

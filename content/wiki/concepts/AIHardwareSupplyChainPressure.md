@@ -2,8 +2,8 @@
 title: "AI Hardware Supply Chain Pressure"
 type: concept
 tags: [ai, semiconductors, supply-chain, infrastructure]
-sources: [tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
-last_updated: 2026-07-12
+sources: [tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]
+last_updated: 2026-07-18
 ---
 
 # AI Hardware Supply Chain Pressure
@@ -18,6 +18,8 @@ The episode makes the consumer spillover visible. It says demand for AI memory a
 
 [[tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128]] adds the accelerator-choice layer. [[ChristopherMiller]] frames [[GPU|GPUs]], [[TPU|TPUs]], and [[NeuralProcessingUnits]] as different points in [[AIChipSpecialization]], where speed, power consumption, flexibility, and software ecosystems shape which suppliers capture demand.
 
+[[ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]] adds the manufacturing-stack version of the pressure. AI chips depend on [[ElectronicDesignAutomation|EDA]], [[PhotolithographyBottleneck|lithography]], materials, process equipment, cleanrooms, packaging, testing, HBM, power, and software ecosystems, so component pressure can surface as yield, cost, tool access, or capacity rather than only visible chip shortage.
+
 ## Key Claims
 - AI demand can reprice components that consumers previously treated as ordinary PC or storage parts.
 - Supply-chain pressure can appear before end users see better AI products, because suppliers respond first to data-center demand.
@@ -28,6 +30,7 @@ The episode makes the consumer spillover visible. It says demand for AI memory a
 - Supply pressure is not only a memory problem; it also depends on whether workloads stay on general-purpose GPUs or move toward specialized chips such as TPUs and NPUs.
 - Supply pressure can become contractual when customers use [[MemoryCapacityLockIn]] to reserve future output through deposits, long agreements, or capex participation.
 - Workarounds such as [[CXLMemoryPooling]], [[HighBandwidthFlash]], and NAND+DPU prefetching reduce bottlenecks but add their own supply chains and thermal constraints.
+- Domestic replacement can increase pressure on older tools and process routes if advanced equipment access is limited, because extra process steps can reduce yield and raise cost.
 
 ## Connections
 - [[HighBandwidthMemory]] - memory category that anchors the source.
@@ -39,3 +42,4 @@ The episode makes the consumer spillover visible. It says demand for AI memory a
 - [[AIComputeContinuity]] - reliability frame that depends on available hardware.
 - [[GPU]], [[TPU]], [[NeuralProcessingUnits]], and [[AIChipSpecialization]] - accelerator-specialization branch added by Marketplace Tech.
 - [[AIStorageSupercycle]], [[StorageIndustryCyclicality]], [[AIDataCenterMemoryHierarchy]], [[MemoryWall]], and [[MemoryCapacityLockIn]] - memory-cycle and architecture branch added by What's Next.
+- [[SemiconductorSupplyChain]], [[DomesticAIChipCatchUp]], [[ASML]], [[SMIC]], and [[AdvancedPackaging]] — semiconductor-chain pressure branch added by EP270.

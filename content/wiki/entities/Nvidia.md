@@ -2,8 +2,8 @@
 title: "Nvidia"
 type: entity
 tags: [company, ai, semiconductors, investing]
-sources: [cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076]
-last_updated: 2026-07-12
+sources: [cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, jushen-jibao-26q2-shijie-moxing-dafeng-buting-he-buxiang-bei-tie-biaoqian-de-ren-1-170-1, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]
+last_updated: 2026-07-18
 ---
 
 # Nvidia
@@ -38,6 +38,8 @@ Nvidia is discussed in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-y
 
 [[tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128]] adds Nvidia as the incumbent [[GPU]] ecosystem that [[Google]] [[TPU|TPUs]] may challenge for some AI workloads. [[ChristopherMiller]] says Nvidia's general-purpose chips remain the most commonly used across the AI ecosystem, and that Nvidia's decade of software ecosystem work makes it difficult for specialized-chip challengers to displace the company even when they offer speed or power advantages in narrower workloads.
 
+[[ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]] adds a public-explainer version of the same moat. [[ZhangCongzhi|张从志]] explains why [[GPU|GPUs]] fit deep learning's parallel matrix work, then argues that domestic AI chips must compete with Nvidia's hardware and CUDA-style software ecosystem together, not only with peak chip specifications.
+
 ## Source Position
 - The episode treats Nvidia as a strong company, not as a fraud or failed business.
 - The risk frame is [[AIEquityValuationRisk]]: if growth or guidance falls short of very high expectations, the valuation multiple can reset sharply.
@@ -55,6 +57,7 @@ Nvidia is discussed in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-y
 - The What's Next storage-cycle source treats Nvidia as both HBM demand driver and memory-hierarchy optimizer: higher HBM capacity, [[MemoryCapacityLockIn]], and NAND+DPU prefetching all matter.
 - The 2026 Marketplace Tech Bytes episode treats Nvidia as strategically dependent on OpenAI demand but still incentivized to keep other model-company customers and cloud partners close.
 - The 2026 Marketplace Tech TPU/GPU episode treats Nvidia's moat as both hardware and software: general-purpose accelerator flexibility and ecosystem depth remain valuable even as [[AIChipSpecialization]] grows.
+- EP270 treats Nvidia as the benchmark for [[DomesticAIChipCatchUp]] because the substitution target includes performance, software tools, developer habits, application adaptation, and cost-effective availability.
 
 ## Connections
 - [[AIEquityValuationRisk]] — main investing frame attached to Nvidia in this source.
@@ -76,3 +79,4 @@ Nvidia is discussed in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-y
 - [[AIDataCenterMemoryHierarchy]], [[MemoryWall]], [[AgentEraNANDStorage]], and [[MemoryCapacityLockIn]] — storage-supercycle branch added by What's Next.
 - [[OpenAI]], [[JensenHuang]], [[Anthropic]], [[Microsoft]], and [[StrategicAIInfrastructureDependence]] — model-lab dependence and diversification branch added by the 2026 Marketplace Tech Bytes source.
 - [[GPU]], [[TPU]], [[Google]], [[ChristopherMiller]], and [[AIChipSpecialization]] — specialized-chip comparison added by the 2026 Marketplace Tech TPU/GPU source.
+- [[DomesticAIChipCatchUp]], [[ComputeFreedom]], [[ElectronicDesignAutomation]], and [[SemiconductorSupplyChain]] — China-centered chip-chain explainer branch added by EP270.

@@ -3838,3 +3838,11 @@ Added source page for the Planet Money episode on Major League Soccer's attempt 
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-18] ingest | EP270 一枚芯片的漫长征途：我们离“算力自由”还有多远？
+
+Added source page for the Talk三联 episode on chips, AI compute, semiconductor manufacturing, domestic AI-chip catch-up, advanced packaging, HBM, and compute freedom. Created pages for Talk三联, Gao Yiding, JCET, ASML, Synopsys, Cadence Design Systems, Siemens EDA, Cambricon, Gordon Moore, Intel, Compute Freedom, Semiconductor Supply Chain, Electronic Design Automation, Photolithography Bottleneck, Tape-Out Risk, Moore's Law, Advanced Packaging, and Domestic AI Chip Catch-Up; updated overview, index, Zhang Congzhi, SMIC, Nvidia, TSMC, Samsung, GPU, AI Chip Specialization, High Bandwidth Memory, Memory Wall, Semiconductor 3D Stacking, AI Inference Cost Structure, AI Compute Continuity, Strategic AI Infrastructure Dependence, Supply Chain Sovereignty, and AI Hardware Supply Chain Pressure. No direct contradiction found; the source mainly reinforces existing AI-chip, memory, and infrastructure pages while adding a more complete China-centered chain from design tools and fabs to packaging, software ecosystems, and token cost.
+
+## [2026-07-18] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 5,065 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` and found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
