@@ -2,8 +2,8 @@
 title: "Video Models"
 type: concept
 tags: [video, generative-ai, content]
-sources: [tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
-last_updated: 2026-07-10
+sources: [e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, tech-20251215-1215-mp-tech-pod-128-tech-20251215-1215-mp-tech-pod-128, 263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian-gai-mianfei-keji-luandun, bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, na-tiao-luxian-caineng-tongwang-shijie-moxing-de-zhongju-duihua-huang-biwei-aether-ai-chuangshiren-lgg-env6jrpgvyiwtxw6bocdzdmr, 2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
+last_updated: 2026-07-23
 ---
 
 # Video Models
@@ -26,6 +26,8 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 
 [[266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]] adds the operating-market version. Video models are valuable when they fit [[AIVideoProductionWorkflow]] and [[ShortDramaEconomics]]: scripts, prompts, image generation, repeated draws, editing, platform feedback, and ad distribution turn model output into [[AIShortDrama]] rather than isolated demos.
 
+[[e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5]] adds the professional film boundary through [[LuChuan]]. The episode says video models can dramatically accelerate visual-effects previsualization and keyframe ideation, but feature films need [[IndustrialGradeFilmModels]], director judgment, rights clearance, and decisions about [[LiveActionFilmUnderAI]] rather than only impressive generated clips.
+
 [[263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs]] adds a product-strategy caution through [[Sora]], [[Meitu]], and [[Jianying]]. The source argues that stronger video generation alone does not guarantee a durable app or platform: quality, cost, workflow fit, editing control, and vertical use cases decide whether video models become usable products.
 
 ## Source Notes
@@ -40,6 +42,7 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 - The Keji Luandun source connects better video generation to [[IntelligenceDevaluation]] because production skill and cost structures may be repriced.
 - The Luanfanshu source adds that video-model products still need [[AIApplicationLayerMoat]] and [[VerticalWorkflowAI]] when users require reliable final output rather than impressive samples.
 - Episode 266 adds AI short drama as a production market where generation cost, creator workflow, paid traffic, and copyright control decide whether model capability becomes revenue.
+- E234 adds film-grade constraints: previs speed matters, but long-form delivery still needs continuity, aesthetic control, legal rights, and a live-action-versus-generation decision.
 - The Marketplace Tech world-model episode adds that video prediction can remain a pixel-sequence method unless it learns stable physical structure and causal state.
 
 ## Connections
@@ -54,3 +57,4 @@ In [[cong-qq-huiyuan-dao-doubao-baoyue-zhongguoren-weishenme-zong-juede-ruanjian
 - [[ByteDance]], [[Seedance]], [[AIContentProvenance]], and [[AIInteractiveEntertainment]] — Seedance 2.0 and rights-risk context added by Vol. 162 and extended by the Keji Luandun source.
 - [[Sora]], [[Meitu]], [[Jianying]], and [[AIApplicationLayerMoat]] — application-layer and workflow caution added by Luanfanshu.
 - [[AIShortDrama]], [[AIVideoProductionWorkflow]], [[ShortDramaEconomics]], and [[Hongguo]] — short-drama production and distribution branch added by episode 266.
+- [[LuChuan]], [[IndustrialGradeFilmModels]], [[LiveActionFilmUnderAI]], and [[CreativeLaborAIBacklash]] — film-production and industry-backlash branch added by E234.

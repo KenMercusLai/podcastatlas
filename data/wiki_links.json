@@ -735,6 +735,10 @@
     "title": "AI Discovery SEO",
     "url": "/wiki/concepts/aidiscoveryseo/"
   },
+  "AIDubbing": {
+    "title": "AI Dubbing",
+    "url": "/wiki/concepts/aidubbing/"
+  },
   "AIEconomicDiffusion": {
     "title": "AI Economic Diffusion",
     "url": "/wiki/concepts/aieconomicdiffusion/"
@@ -1066,6 +1070,10 @@
   "AIVisualMerchandising": {
     "title": "AI Visual Merchandising",
     "url": "/wiki/concepts/aivisualmerchandising/"
+  },
+  "AIVoiceCloningRights": {
+    "title": "AI Voice Cloning Rights",
+    "url": "/wiki/concepts/aivoicecloningrights/"
   },
   "AIWorkerLiteracy": {
     "title": "AI Worker Literacy",
@@ -8427,6 +8435,10 @@
     "title": "Huang Bote",
     "url": "/wiki/entities/huangbote/"
   },
+  "HuangYing": {
+    "title": "黄英 / Huang Ying",
+    "url": "/wiki/entities/huangying/"
+  },
   "HuangZhang": {
     "title": "Huang Zhang",
     "url": "/wiki/entities/huangzhang/"
@@ -8678,6 +8690,10 @@
   "IndustrialControlSystemCyberRisk": {
     "title": "Industrial Control System Cyber Risk",
     "url": "/wiki/concepts/industrialcontrolsystemcyberrisk/"
+  },
+  "IndustrialGradeFilmModels": {
+    "title": "Industrial-Grade Film Models",
+    "url": "/wiki/concepts/industrialgradefilmmodels/"
   },
   "IndustrialSubsidyDependence": {
     "title": "Industrial Subsidy Dependence",
@@ -9643,6 +9659,10 @@
     "title": "K Computer",
     "url": "/wiki/entities/kcomputer/"
   },
+  "KESA": {
+    "title": "KESA",
+    "url": "/wiki/entities/kesa/"
+  },
   "KLH": {
     "title": "KLH",
     "url": "/wiki/entities/klh/"
@@ -10495,6 +10515,10 @@
     "title": "Liv Schreiber",
     "url": "/wiki/entities/livschreiber/"
   },
+  "LiveActionFilmUnderAI": {
+    "title": "Live-Action Film Under AI",
+    "url": "/wiki/concepts/liveactionfilmunderai/"
+  },
   "LiveActionShortDrama": {
     "title": "Live-Action Short Drama",
     "url": "/wiki/concepts/liveactionshortdrama/"
@@ -10742,6 +10766,10 @@
   "LoyaltyBeyondContract": {
     "title": "Loyalty Beyond Contract",
     "url": "/wiki/concepts/loyaltybeyondcontract/"
+  },
+  "LuChuan": {
+    "title": "陆川 / Lu Chuan",
+    "url": "/wiki/entities/luchuan/"
   },
   "LuQi": {
     "title": "Lu Qi",
@@ -11599,6 +11627,10 @@
     "title": "Middle-Income Trap",
     "url": "/wiki/concepts/middleincometrap/"
   },
+  "Midjourney": {
+    "title": "Midjourney",
+    "url": "/wiki/entities/midjourney/"
+  },
   "MidlifeAsGift": {
     "title": "Midlife As Gift",
     "url": "/wiki/concepts/midlifeasgift/"
@@ -11911,6 +11943,10 @@
     "title": "Mother Tongue Awareness",
     "url": "/wiki/concepts/mothertongueawareness/"
   },
+  "MotionPictureAssociation": {
+    "title": "Motion Picture Association",
+    "url": "/wiki/entities/motionpictureassociation/"
+  },
   "MotionSmoothing": {
     "title": "Motion Smoothing",
     "url": "/wiki/concepts/motionsmoothing/"
@@ -12074,6 +12110,10 @@
   "NangongChangwan": {
     "title": "南宫长万",
     "url": "/wiki/entities/nangongchangwan/"
+  },
+  "NanjingNanjing": {
+    "title": "《南京！南京！》 / Nanjing! Nanjing!",
+    "url": "/wiki/entities/nanjingnanjing/"
   },
   "Napster": {
     "title": "Napster",
@@ -16235,6 +16275,10 @@
     "title": "Story Motif Transmission",
     "url": "/wiki/concepts/storymotiftransmission/"
   },
+  "StoryStorm": {
+    "title": "StoryStorm",
+    "url": "/wiki/entities/storystorm/"
+  },
   "StoryWithinStoryNarration": {
     "title": "Story-Within-Story Narration",
     "url": "/wiki/concepts/storywithinstorynarration/"
@@ -19490,6 +19534,10 @@
   "e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d": {
     "title": "E233｜硅谷右翼的权力网如何形成？聊聊彼得·蒂尔的思想启蒙拼图",
     "url": "/wiki/sources/e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d/"
+  },
+  "e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5": {
+    "title": "E234｜未来实拍电影还存在吗？与导演陆川聊聊AI给影视人的恐惧与自由",
+    "url": "/wiki/sources/e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5/"
   },
   "e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde": {
     "title": "E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE",

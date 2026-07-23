@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E234｜未来实拍电影还存在吗？与导演陆川聊聊AI给影视人的恐惧与自由](sources/e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5.md) — 硅谷101 episode with Lu Chuan, Huang Ying, and KESA on AI video, film-grade workflows, dubbing, voice cloning rights, and why live-action film must justify itself through irreproducible human moments.
 - [E233｜硅谷右翼的权力网如何形成？聊聊彼得·蒂尔的思想启蒙拼图](sources/e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d.md) — 硅谷101 episode on Peter Thiel, Stanford Review, Girard/Schmitt/Strauss, Palantir, right-wing media, J.D. Vance, and Silicon Valley's technology-right power network.
 - [How "surveillance pricing" charges one online customer more than another for the same item](sources/tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128.md) — Marketplace Tech episode on customer-specific retail prices, surveillance discounting, Walmart.com's signed-in versus anonymous toothpaste price test, and the opacity of algorithmic pricing.
 - [Teaching students to 'be better than a robot'](sources/tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128.md) — Marketplace Tech episode with Christy Gerdhary on AI in classrooms, writing pedagogy, detector bias, transparent AI collaboration, and assignments that ask students to exceed generic chatbot output.
@@ -487,6 +488,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Lu Chuan](entities/LuChuan.md) — Film director in E234 who frames AI as a production tool that accelerates previs while forcing live-action film to justify itself through human performance and film-grade standards.
+- [Huang Ying](entities/HuangYing.md) — Veteran dubbing actor in E234 who explains AI dubbing limits, human subconscious timing, vocal imperfection, and voice-cloning rights.
+- [KESA](entities/KESA.md) — Screenwriter and AI-content creator in E234 who moved from traditional IP development into fast AI production through StoryStorm and Midjourney workflows.
+- [StoryStorm](entities/StoryStorm.md) — KESA-associated AI content community/project connecting traditional screenwriting to iterative AI storytelling.
+- [Motion Picture Association](entities/MotionPictureAssociation.md) — Hollywood trade association referenced in E234's AI-video copyright objection context.
+- [Midjourney](entities/Midjourney.md) — AI image-generation tool used in E234 for rapid AI short-film and film-previsualization workflows.
+- [Nanjing! Nanjing!](entities/NanjingNanjing.md) — Lu Chuan film used in E234 as an example of irreproducible live-action director-actor discovery.
 - [Peter Thiel](entities/PeterThiel.md) — Central Silicon Valley investor and political network-builder in E233, linking Stanford Review, PayPal, Palantir, Founders Fund, Thiel Fellowship, media infrastructure, and J.D. Vance.
 - [Stanford Review](entities/StanfordReview.md) — Conservative Stanford student publication treated as the campus-media seed of Thiel's later technology-right network.
 - [Olin Foundation](entities/OlinFoundation.md) — Conservative donor institution named as supporting Stanford Review and a wider campus conservative media network.
@@ -3145,6 +3153,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Dubbing](concepts/AIDubbing.md) — E234 concept for AI voice reproduction versus context-sensitive human dubbing performance, including pauses, stress, imperfection, and scene judgment.
+- [AI Voice Cloning Rights](concepts/AIVoiceCloningRights.md) — E234 concept for consent, contracts, evidence, and enforcement when AI learns, blends, or reuses a performer's voice.
+- [Live-Action Film Under AI](concepts/LiveActionFilmUnderAI.md) — E234 concept for using AI as a ruler that forces creators to justify which scenes still deserve real crews, locations, and irreproducible performance.
+- [Industrial-Grade Film Models](concepts/IndustrialGradeFilmModels.md) — E234 concept for vertical film AI systems that meet professional continuity, style, quality, and delivery standards beyond social-video demos.
 - [Technology Right Power Network](concepts/TechnologyRightPowerNetwork.md) — E233 concept for Thiel's durable stack of campus media, philosophy, capital, companies, media outlets, and candidate selection.
 - [Campus Conservative Media Network](concepts/CampusConservativeMediaNetwork.md) — E233 concept for donor-backed conservative student publications as early training and network infrastructure.
 - [Mimetic Competition Avoidance](concepts/MimeticCompetitionAvoidance.md) — E233 concept linking Girard's mimetic theory to Thiel's monopoly and anti-competition business logic.

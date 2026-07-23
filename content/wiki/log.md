@@ -3918,3 +3918,11 @@ Added source page for the 硅谷101 episode on Peter Thiel, Stanford Review, Gir
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 5,162 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-18 with 4,998 nodes and 49,201 edges while the wiki scan found 5,162 pages; they found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-23] ingest | E234｜未来实拍电影还存在吗？与导演陆川聊聊AI给影视人的恐惧与自由
+
+Added source page for the 硅谷101 episode with Lu Chuan, Huang Ying, and KESA on AI video, film-grade production workflows, dubbing craft, AI voice cloning rights, Hollywood copyright pressure, and the future role of live-action film. Created pages for Lu Chuan, Huang Ying, KESA, StoryStorm, Motion Picture Association, Midjourney, Nanjing! Nanjing!, AI Dubbing, AI Voice Cloning Rights, Live-Action Film Under AI, and Industrial-Grade Film Models; updated overview, index, Silicon Valley 101, ByteDance, Video Models, AI Video Production Workflow, Creative Labor AI Backlash, and AI Public Likeness Generation. No direct contradiction found; the source extends the AI video and creative-labor branches by arguing that AI compresses previs, repetitive generation, and some voice work while making film-grade judgment, consent, proof, and irreproducible human performance more important.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

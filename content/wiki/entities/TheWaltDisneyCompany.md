@@ -2,8 +2,8 @@
 title: "The Walt Disney Company"
 type: entity
 tags: [company, media, entertainment, ip, theme-parks]
-sources: [tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, the-walt-disney-company-1, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
-last_updated: 2026-07-14
+sources: [e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, the-walt-disney-company-1, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
+last_updated: 2026-07-23
 ---
 
 # The Walt Disney Company
@@ -15,6 +15,8 @@ In the wiki, Disney is the clearest case so far of an [[EntertainmentIPFlywheel]
 [[starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1]] adds a later-family-franchise example through [[ToyStory5]]. The episode's review uses the sequel to discuss [[ScreenTimeParenting]], showing how Disney-family IP can keep cultural relevance by translating current household technology anxiety into a familiar story world.
 
 [[tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]] adds Disney as a synthetic-media rights signal. In the source, [[JoannaStern]] says Disney's embrace of AI and permission for [[OpenAI]] to generate images or videos involving its characters makes disclosure, creative labor, and [[IPOwnership]] more central to mainstream entertainment strategy.
+
+[[e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5]] adds the adversarial side of the same synthetic-media branch. The episode names Disney among Hollywood actors objecting to [[ByteDance]] video-generation products that appear to bypass entertainment copyright rules, making [[AIContentProvenance]], [[CreativeLaborAIBacklash]], and [[AIPublicLikenessGeneration]] more urgent around film IP.
 
 [[55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]] adds Disney as an adaptation-memory case through [[TheLittleMermaid|《海的女儿》 / The Little Mermaid]]. The episode argues that the 1989 animated Ariel and later live-action debate can make viewers mistake Disney's romance-centered character image for [[HansChristianAndersen|Andersen]]'s original, turning Disney into a case for [[AdaptationOriginalTextConfusion]] as well as an [[EntertainmentIPFlywheel]].
 
@@ -28,6 +30,7 @@ In the wiki, Disney is the clearest case so far of an [[EntertainmentIPFlywheel]
 - The post-Walt era shows a risk of the same system: harvesting the flywheel can mask a weakening creative core.
 - Later franchise entries can still add cultural value when they address current family tensions rather than merely repeat character recognition.
 - AI-generated uses of Disney characters can extend the IP flywheel, but they also raise [[AIContentProvenance]], creative-labor, and permission questions.
+- Hollywood objections to unlicensed AI video show the defensive side of the same IP flywheel: generative tools can imitate valuable assets without following the rights system that supports them.
 - A strong Disney adaptation can become the public's remembered "original," which gives the company cultural power but can also distort source-text debates.
 - Disney's founder mythology can hide collaborator credit, workplace fear, and labor conflict even while the brand compounds emotional IP.
 
@@ -38,5 +41,6 @@ In the wiki, Disney is the clearest case so far of an [[EntertainmentIPFlywheel]
 - [[EntertainmentIPFlywheel]], [[IPOwnership]], [[StrategicRerelease]], [[ThemeParkAsMediaPlatform]], [[VerticalMediaDistribution]], and [[ArtCommerceIntegration]] - concepts added by the source.
 - [[ToyStory5]] and [[ScreenTimeParenting]] - later family-technology branch added by The Intelligence.
 - [[OpenAI]], [[AIContentProvenance]], [[AIGeneratedAdvertising]], and [[CreativeLaborAIBacklash]] - synthetic-media branch added by Marketplace Tech Bytes.
+- [[ByteDance]], [[MotionPictureAssociation]], [[Paramount]], and [[AIPublicLikenessGeneration]] - Hollywood AI-video conflict branch added by E234.
 - [[TheLittleMermaid|《海的女儿》]], [[HansChristianAndersen|安徒生]], and [[AdaptationOriginalTextConfusion]] - adaptation-memory branch added by the Andersen source.
 - [[DirectorMythDeflation]], [[FilmSetPowerAndAbuse]], and [[ArtisticAchievementMoralAccountability]] - founder-myth and labor-power branch added by the director-gossip source.
