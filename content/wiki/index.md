@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Is social media addictive? And are social media companies liable?](sources/tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128.md) — Marketplace Tech episode with Eric Goldman on a Los Angeles social-media addiction trial, platform legal causation, Section 230's appeal posture, and spillover risk for other internet services.
 - [Building a home with future fires in mind](sources/tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128.md) — Marketplace Tech episode with David Brancaccio on rebuilding after L.A. wildfires using cross-laminated timber, mineral wool, stucco, concrete-filled forms, 3D-printed housing, and biophilic design tradeoffs.
 - [EP270 一枚芯片的漫长征途：我们离“算力自由”还有多远？](sources/ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci.md) — Talk三联 episode with Gao Yiding and Zhang Congzhi on chips, AI compute, GPU/CUDA advantages, EDA, lithography, tape-out, Moore's Law, advanced packaging, HBM, SMIC, and the whole-chain difficulty behind domestic compute freedom.
 - [Can World Cup mania grow MLS in the U.S.?](sources/can-world-cup-mania-grow-mls-in-the-us.md) — Planet Money episode on MLS using the 2026 World Cup to convert global soccer attention into local club fandom through watch parties, host-city exposure, non-host-city activation, marketing, and player recruiting.
@@ -480,6 +481,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Eric Goldman](entities/EricGoldman.md) — Legal expert explaining platform causation, Section 230, user stakes, and spillover risk in social-media addiction litigation.
 - [David Brancaccio](entities/DavidBrancaccio.md) — Marketplace Tech reporter whose own post-wildfire rebuild grounds the episode's comparison of CLT, mineral wool, stucco, concrete alternatives, carbon, and neighborhood memory.
 - [Heidi Lewis](entities/HeidiLewis.md) — Altadena homeowner in the episode using concrete-filled wall systems as a highly fire-resistant rebuilding approach.
 - [KLH](entities/KLH.md) — European mass-timber company named as a cross-laminated timber example in a Colby College dormitory project.
@@ -3091,6 +3093,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Internet Liability Spillover](concepts/InternetLiabilitySpillover.md) — Risk that social-media addiction and design-liability theories spread to video games, generative AI, and other interactive services.
+- [Platform Legal Causation](concepts/PlatformLegalCausation.md) — Proof problem requiring plaintiffs to connect platform design to legally recognized responsibility for user harms.
+- [Section 230](concepts/Section230.md) — U.S. internet-law protection that can shape platform-liability cases even when deferred to appeal.
 - [Biophilic Design](concepts/BiophilicDesign.md) — Design frame for rebuilding homes with natural light, connection to nature, sustainability, and continuity with neighborhood memory.
 - [Concrete-Filled Wall Systems](concepts/ConcreteFilledWallSystems.md) — Fire-resistant rebuilding method using lightweight forms or panels filled with concrete, with carbon and design tradeoffs.
 - [Cross-Laminated Timber](concepts/CrossLaminatedTimber.md) — Pressed-layer mass-timber material framed as fire conscious, fast to assemble, and potentially lower carbon when protected and long-lived.

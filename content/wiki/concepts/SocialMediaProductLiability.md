@@ -2,13 +2,17 @@
 title: "Social Media Product Liability"
 type: concept
 tags: [social-media, law, child-safety, platforms]
-sources: [tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]
-last_updated: 2026-07-17
+sources: [tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]
+last_updated: 2026-07-23
 ---
 
 # Social Media Product Liability
 
-Social media product liability is the legal frame in which platform features are treated as potentially harmful product design rather than only protected speech or neutral hosting. [[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]] adds the concept through a Los Angeles jury verdict finding [[Meta]] and [[YouTube]] negligent in a case alleging addictive design and mental-health harm to a young user.
+Social media product liability is the legal frame in which platform features are treated as potentially harmful product design rather than only protected speech or neutral hosting.
+
+[[tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128]] adds the pre-verdict trial frame through [[EricGoldman]]. The episode emphasizes [[PlatformLegalCausation]]: plaintiffs must show not only harm or company knowledge, but that platform design legally caused the youth mental-health harms alleged. It also makes [[Section230]] and [[InternetLiabilitySpillover]] part of the frame because immunity arguments may return on appeal and the same theories could reach video games, generative AI model makers, and other internet services.
+
+[[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]] adds the concept through a Los Angeles jury verdict finding [[Meta]] and [[YouTube]] negligent in a case alleging addictive design and mental-health harm to a young user.
 
 The episode's important shift is not the $6 million damages figure by itself. [[MariaCurie|Maria Curi]] argues that the legal theory may matter more because it tests whether features such as infinite scroll, autoplay, parental controls, age verification, and encrypted messaging can be scrutinized as product choices when internal documents show known youth-harm risks.
 
@@ -21,9 +25,11 @@ The episode's important shift is not the $6 million damages figure by itself. [[
 - Product changes, not only damages, are a likely long-term consequence if courts or settlements focus on design features.
 - The frame connects social media to broader child-safety politics around [[AIBacklashPolitics]], [[TeenChatbotMentalHealthRisk]], and platform accountability.
 - State attorneys general can raise the stakes by aggregating harms, invoking children's privacy law, and seeking disgorgement of profits tied to alleged illegal design.
+- Pre-verdict litigation turns on [[PlatformLegalCausation]] and may leave [[Section230]] for appeal rather than the jury phase.
 
 ## Connections
 - [[GaiaBernstein]], [[StateAGPlatformLitigation]], [[COPPA]], [[PlatformDamagesAndDisgorgement]], [[BigTobaccoPlatformAnalogy]], and [[SocialMediaCausationScienceWars]] - state-AG and public-health litigation branch added by the July 2026 episode.
+- [[EricGoldman]], [[PlatformLegalCausation]], [[Section230]], and [[InternetLiabilitySpillover]] - pre-verdict Los Angeles trial framing added by the February 2026 episode.
 - [[Meta]] and [[YouTube]] - platforms found negligent in the episode's Los Angeles verdict discussion.
 - [[TikTok]] and [[Snapchat]] - platforms named as possible later litigation targets.
 - [[AttentionIndustrialization]] - broader platform-risk frame around attention capture.

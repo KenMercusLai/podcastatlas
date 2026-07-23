@@ -3858,3 +3858,11 @@ Added source page for the Marketplace Tech episode with David Brancaccio on rebu
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-23] ingest | Is social media addictive? And are social media companies liable?
+
+Added source page for the Marketplace Tech episode with Eric Goldman on a Los Angeles social-media addiction trial, platform legal causation, Section 230's appeal posture, and spillover risk for other internet services. Created pages for Eric Goldman, Platform Legal Causation, Section 230, and Internet Liability Spillover; updated overview, index, Marketplace Tech, Meta, YouTube, Google, TikTok, Snapchat, Social Media Product Liability, Social Media Causation Science Wars, Addictive Interaction Design, State AG Platform Litigation, and Platform Damages And Disgorgement. No direct contradiction found; the source acts as a pre-verdict framing of the later social-media product-liability branch and keeps trial causation and appellate immunity unresolved.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic checks scanned 5,083 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` and found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
