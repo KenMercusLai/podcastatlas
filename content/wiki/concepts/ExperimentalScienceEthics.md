@@ -2,7 +2,7 @@
 title: "Experimental Science Ethics"
 type: concept
 tags: [science, ethics, experiments, evidence]
-sources: [68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549]
+sources: [123-renxing-shiyan-dangxin-ni-ziji-779479569, 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549]
 last_updated: 2026-07-18
 ---
 
@@ -12,12 +12,15 @@ Experimental science ethics is the source's frame for asking when risky curiosit
 
 The concept does not reject experiment. It argues that experiment needs ethical and methodological constraints: who consents, who is harmed, what counts as evidence, whether the result can be repeated, how negative results are interpreted, and who receives credit. That makes it a bridge between [[ScientificSkepticism]], [[ScientificSelfCorrection]], [[ObservationBeforeInference]], [[SelfExperimentation]], [[AnimalExperimentEthics]], and [[ChildExperimentEthics]].
 
+[[123-renxing-shiyan-dangxin-ni-ziji-779479569]] adds the social-psychology deception version. The hosts note that many classic studies used cover stories or concealed purposes, and they mark [[SolomonAsch]], [[StanleyMilgram]], and [[PhilipZimbardo]] as famous cases where experimental insight and ethical discomfort have to be considered together.
+
 ## Key Claims
 - Curiosity is not self-justifying; the experimental subject matters.
 - Self-risk differs ethically from imposing risk on corpses, animals, children, patients, or assistants.
 - Spectacular results can mislead if they are not controlled and interpreted carefully.
 - Failed, lucky, or inconclusive experiments still have value when they mark limits rather than pretending to prove too much.
 - Scientific credit is part of ethics when collaborators bear material risk.
+- Social-psychology experiments add deception, distress, anonymity, and post-experiment debriefing as recurring ethical concerns.
 
 ## Connections
 - [[68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549]] - source episode.
@@ -26,3 +29,4 @@ The concept does not reject experiment. It argues that experiment needs ethical 
 - [[ExperimentalFailureAsKnowledge]] - handling failed or negative experiments honestly.
 - [[ScientificSkepticism]], [[ScientificSelfCorrection]], and [[ObservationBeforeInference]] - methodological guardrails.
 - [[SacrificingOthersEthics]] - adjacent moral problem when someone else is made to bear the cost.
+- [[SocialPsychology]], [[Deindividuation]], [[SolomonAsch]], [[StanleyMilgram]], and [[PhilipZimbardo]] - source-123 extension into human-subject social experiments.

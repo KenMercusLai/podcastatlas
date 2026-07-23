@@ -2,7 +2,7 @@
 title: "Internet Moral Trial / 互联网审判"
 type: concept
 tags: [internet-culture, judgment, public-expression, creators, ethics]
-sources: [121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]
+sources: [123-renxing-shiyan-dangxin-ni-ziji-779479569, 121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]
 last_updated: 2026-07-24
 ---
 
@@ -20,6 +20,8 @@ The concept is not a ban on judgment. The episode preserves basic values and bot
 
 [[121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343]] adds a forensic-evidence version. The source argues that even formal courts cannot always possess the whole truth, so online publics should be especially cautious about judging from unverifiable fragments, rumors, and entertainment-shaped expectations about evidence.
 
+[[123-renxing-shiyan-dangxin-ni-ziji-779479569]] adds the social-psychology mechanism. [[ActorObserverBias]] makes distant observers convert behavior into character, while [[Deindividuation]] lets a crowd hide individual responsibility; together they explain why online moral certainty can become unusually cruel even when participants see themselves as righteous.
+
 ## Key Claims
 - Incomplete information should reduce confidence, especially when the target is an individual rather than a public system.
 - Public visibility, fame, or wealth does not make a person default eligible for unlimited abuse.
@@ -31,6 +33,7 @@ The concept is not a ban on judgment. The episode preserves basic values and bot
 - The legal-philosophy extension adds that collective anger can make procedural safeguards look unnecessary exactly when they are doing their most important work.
 - Assisted-death discourse adds that some subjects require both public discussion and suicide-contagion caution; refusing online attack is part of respecting life rather than avoiding judgment.
 - Forensic-science discourse adds that partial clues and missing evidence should reduce online certainty, not intensify amateur conviction.
+- Social psychology adds that anonymity, group identity, and character attribution can make cruelty feel like justice.
 
 ## Connections
 - [[ZhaoLusi|赵露思]] - public-figure case that opens the discussion.
@@ -44,3 +47,4 @@ The concept is not a ban on judgment. The episode preserves basic values and bot
 - [[CriminalLawAsPowerLimitation]], [[LawMoralityBoundary]], and [[LegalParadoxThinking]] - legal judgment extension added by episode 100.
 - [[DeathOptionAsPsychologicalRelief]], [[EndOfLifeAutonomyAndDignity]], and [[EuthanasiaUncertaintyStance]] - assisted-death media-ethics extension added by episode 119.
 - [[ForensicScience]], [[CSIEffect]], and [[EvidenceOverTestimony]] - source-121 extension around evidence expectations and online judgment.
+- [[ActorObserverBias]], [[Deindividuation]], [[HostileMediaEffect]], and [[EmotionalContagion]] - source-123 mechanisms behind public certainty and online group behavior.

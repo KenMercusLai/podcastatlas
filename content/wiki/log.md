@@ -4340,3 +4340,11 @@ Ran lint after health passed. Health found no empty/stub files, index drift, or 
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 5,828 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` is configured in the shell. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-24] ingest | 123.人性实验：当心你自己！
+
+Added source page for a 蜜獾吃书 episode on social psychology, hostile media perception, priming, stereotype-shaped memory, actor-observer bias, deindividuation, the Gilbert-Spinoza hypothesis, money illusion, and emotional contagion. Created pages for Social Psychology, Social Reality Construction, Hindsight Bias, Hostile Media Effect, Priming And Stereotype Memory, Consider-The-Opposite Bias Correction, Better-Than-Average Effect, Actor-Observer Bias, Deindividuation, Gilbert-Spinoza Hypothesis, Money Illusion, Emotional Contagion, Solomon Asch, Stanley Milgram, Philip Zimbardo, Gustave Le Bon, Leon Festinger, Daniel Gilbert, Edward Jones, and Richard Nisbett; updated overview, index, 蜜獾吃书, Motivated Bias, Scientific Skepticism, Scientific Self-Correction, Experimental Science Ethics, Internet Moral Trial, Outrage-Triggered Skepticism, Attention Industrialization, Memory Contamination Risk, Pseudoscience Fraud Vulnerability, and Baruch Spinoza. No direct contradiction found; the source extends the wiki's skepticism and public-judgment branch by making the perceiver's own identity, attention, memory, anonymity, and emotion part of the evidence problem.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

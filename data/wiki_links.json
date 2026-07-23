@@ -111,6 +111,10 @@
     "title": "122.匹诺曹：成长的惨痛及其所创作的",
     "url": "/wiki/sources/122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172/"
   },
+  "123-renxing-shiyan-dangxin-ni-ziji-779479569": {
+    "title": "123.人性实验：当心你自己！",
+    "url": "/wiki/sources/123-renxing-shiyan-dangxin-ni-ziji-779479569/"
+  },
   "130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi": {
     "title": "130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏",
     "url": "/wiki/sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi/"
@@ -1366,6 +1370,10 @@
   "ActionDefinesIdentity": {
     "title": "Action Defines Identity",
     "url": "/wiki/concepts/actiondefinesidentity/"
+  },
+  "ActorObserverBias": {
+    "title": "Actor-Observer Bias / 行动者-观察者偏差",
+    "url": "/wiki/concepts/actorobserverbias/"
   },
   "AdWords": {
     "title": "AdWords",
@@ -3066,6 +3074,10 @@
   "BetterPlace": {
     "title": "Better Place",
     "url": "/wiki/entities/betterplace/"
+  },
+  "BetterThanAverageEffect": {
+    "title": "Better-Than-Average Effect / 优于常人效应",
+    "url": "/wiki/concepts/betterthanaverageeffect/"
   },
   "BeverageCategoryConvergence": {
     "title": "Beverage Category Convergence",
@@ -4799,6 +4811,10 @@
     "title": "Conservative Party (UK)",
     "url": "/wiki/entities/conservativepartyuk/"
   },
+  "ConsiderTheOppositeBiasCorrection": {
+    "title": "Consider-The-Opposite Bias Correction / 反向设想偏见校正",
+    "url": "/wiki/concepts/considertheoppositebiascorrection/"
+  },
   "ConspiracyTheoryPatternSeeking": {
     "title": "Conspiracy Theory Pattern Seeking",
     "url": "/wiki/concepts/conspiracytheorypatternseeking/"
@@ -5419,6 +5435,10 @@
     "title": "Daniel Franklin",
     "url": "/wiki/entities/danielfranklin/"
   },
+  "DanielGilbert": {
+    "title": "Daniel Gilbert / 丹尼尔·吉尔伯特",
+    "url": "/wiki/entities/danielgilbert/"
+  },
   "DanielHamermesh": {
     "title": "Daniel Hamermesh",
     "url": "/wiki/entities/danielhamermesh/"
@@ -5718,6 +5738,10 @@
   "DegreeAsTrustCredential": {
     "title": "Degree As Trust Credential",
     "url": "/wiki/concepts/degreeastrustcredential/"
+  },
+  "Deindividuation": {
+    "title": "Deindividuation / 去个体化",
+    "url": "/wiki/concepts/deindividuation/"
   },
   "DelcyRodriguez": {
     "title": "Delcy Rodriguez",
@@ -6499,6 +6523,10 @@
     "title": "Edward",
     "url": "/wiki/entities/edward/"
   },
+  "EdwardJonesPsychologist": {
+    "title": "Edward Jones / 爱德华·琼斯",
+    "url": "/wiki/entities/edwardjonespsychologist/"
+  },
   "EdwardThorp": {
     "title": "Edward Thorp",
     "url": "/wiki/entities/edwardthorp/"
@@ -6666,6 +6694,10 @@
   "EmotionalBrandRelationship": {
     "title": "Emotional Brand Relationship",
     "url": "/wiki/concepts/emotionalbrandrelationship/"
+  },
+  "EmotionalContagion": {
+    "title": "Emotional Contagion / 情绪感染",
+    "url": "/wiki/concepts/emotionalcontagion/"
   },
   "EmotionalInteractionModels": {
     "title": "Emotional Interaction Models",
@@ -8343,6 +8375,10 @@
     "title": "Gil Luria",
     "url": "/wiki/entities/gilluria/"
   },
+  "GilbertSpinozaHypothesis": {
+    "title": "Gilbert-Spinoza Hypothesis / 吉尔伯特-斯宾诺莎假设",
+    "url": "/wiki/concepts/gilbertspinozahypothesis/"
+  },
   "GinnySpicer": {
     "title": "Ginny Spicer",
     "url": "/wiki/entities/ginnyspicer/"
@@ -8742,6 +8778,10 @@
   "GushiXinbian": {
     "title": "《故事新编》",
     "url": "/wiki/entities/gushixinbian/"
+  },
+  "GustaveLeBon": {
+    "title": "Gustave Le Bon / 古斯塔夫·勒庞",
+    "url": "/wiki/entities/gustavelebon/"
   },
   "GustavoPetro": {
     "title": "Gustavo Petro",
@@ -9231,6 +9271,10 @@
     "title": "Himiko",
     "url": "/wiki/entities/himiko/"
   },
+  "HindsightBias": {
+    "title": "Hindsight Bias / 后见之明偏差",
+    "url": "/wiki/concepts/hindsightbias/"
+  },
   "Hipmunk": {
     "title": "Hipmunk",
     "url": "/wiki/entities/hipmunk/"
@@ -9446,6 +9490,10 @@
   "HospitalInformationSystem": {
     "title": "Hospital Information System",
     "url": "/wiki/concepts/hospitalinformationsystem/"
+  },
+  "HostileMediaEffect": {
+    "title": "Hostile Media Effect / 敌意媒体效应",
+    "url": "/wiki/concepts/hostilemediaeffect/"
   },
   "HotelPMSInventoryControl": {
     "title": "Hotel PMS Inventory Control",
@@ -11643,6 +11691,10 @@
     "title": "Leo Tolstoy / 托尔斯泰",
     "url": "/wiki/entities/leotolstoy/"
   },
+  "LeonFestinger": {
+    "title": "Leon Festinger / 利昂·费斯廷格",
+    "url": "/wiki/entities/leonfestinger/"
+  },
   "LeonardBaum": {
     "title": "Leonard Baum",
     "url": "/wiki/entities/leonardbaum/"
@@ -13435,6 +13487,10 @@
     "title": "Monetary Policy Lag",
     "url": "/wiki/concepts/monetarypolicylag/"
   },
+  "MoneyIllusion": {
+    "title": "Money Illusion / 货币错觉",
+    "url": "/wiki/concepts/moneyillusion/"
+  },
   "MoneyLaunderingStages": {
     "title": "Money Laundering Stages",
     "url": "/wiki/concepts/moneylaunderingstages/"
@@ -15023,6 +15079,10 @@
     "title": "Phil Holstead",
     "url": "/wiki/entities/philholstead/"
   },
+  "PhilipZimbardo": {
+    "title": "Philip Zimbardo / 菲利普·津巴多",
+    "url": "/wiki/entities/philipzimbardo/"
+  },
   "Philippines": {
     "title": "Philippines",
     "url": "/wiki/entities/philippines/"
@@ -15530,6 +15590,10 @@
   "PrimeBorrowerCreditRisk": {
     "title": "Prime Borrower Credit Risk",
     "url": "/wiki/concepts/primeborrowercreditrisk/"
+  },
+  "PrimingAndStereotypeMemory": {
+    "title": "Priming And Stereotype Memory / 启动效应与刻板印象记忆",
+    "url": "/wiki/concepts/primingandstereotypememory/"
   },
   "PrinceGroup": {
     "title": "Prince Group",
@@ -16506,6 +16570,10 @@
   "RichardJewell": {
     "title": "Richard Jewell / 理查德·朱维尔",
     "url": "/wiki/entities/richardjewell/"
+  },
+  "RichardNisbett": {
+    "title": "Richard Nisbett / 理查德·尼斯贝特",
+    "url": "/wiki/entities/richardnisbett/"
   },
   "RichardNixon": {
     "title": "Richard Nixon",
@@ -17875,6 +17943,14 @@
     "title": "Social Media Product Liability",
     "url": "/wiki/concepts/socialmediaproductliability/"
   },
+  "SocialPsychology": {
+    "title": "Social Psychology / 社会心理学",
+    "url": "/wiki/concepts/socialpsychology/"
+  },
+  "SocialRealityConstruction": {
+    "title": "Social Reality Construction / 社会现实建构",
+    "url": "/wiki/concepts/socialrealityconstruction/"
+  },
   "SocialSignalInterpretation": {
     "title": "Social Signal Interpretation",
     "url": "/wiki/concepts/socialsignalinterpretation/"
@@ -17922,6 +17998,10 @@
   "SoloFounderFundraisingBias": {
     "title": "Solo Founder Fundraising Bias",
     "url": "/wiki/concepts/solofounderfundraisingbias/"
+  },
+  "SolomonAsch": {
+    "title": "Solomon Asch / 所罗门·阿希",
+    "url": "/wiki/entities/solomonasch/"
   },
   "Sonalight": {
     "title": "Sonalight",
@@ -18198,6 +18278,10 @@
   "StanleyDruckenmiller": {
     "title": "Stanley Druckenmiller",
     "url": "/wiki/entities/stanleydruckenmiller/"
+  },
+  "StanleyMilgram": {
+    "title": "Stanley Milgram / 斯坦利·米尔格拉姆",
+    "url": "/wiki/entities/stanleymilgram/"
   },
   "StanleyTang": {
     "title": "Stanley Tang",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [123.人性实验：当心你自己！](sources/123-renxing-shiyan-dangxin-ni-ziji-779479569.md) — 蜜獾吃书 episode on social psychology, hostile media perception, priming, stereotype-shaped memory, actor-observer bias, deindividuation, belief-first cognition, money illusion, emotional contagion, and self-suspicion under internet manipulation.
 - [122.匹诺曹：成长的惨痛及其所创作的](sources/122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172.md) — 蜜獾吃书 episode on 《木偶奇遇记》, Collodi, Pinocchio beyond Disney memory, the hero journey, dream logic, painful growth, and becoming human through responsibility.
 - [121.极简法医鉴识手册：一切犯罪，皆有痕迹](sources/121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343.md) — 蜜獾吃书 episode on 《极简法医鉴识手册》, forensic science, Locard's exchange principle, CSI effect, body farms, fingerprints, bloodstains, death-time inference, forensic entomology, toxicology, and public poisoning risk.
 - [120.蓝狐岛：伟大事业中的雄心与现实](sources/120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218.md) — 蜜獾吃书 episode on Vitus Bering, Peter the Great's maritime ambition, the Kamchatka and Great Northern expeditions, Steller, Bering Island survival, scurvy, Russian North Pacific expansion, and sea-otter extraction.
@@ -539,6 +540,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Solomon Asch / 所罗门·阿希](entities/SolomonAsch.md) — Social-psychology reference point for conformity and group-pressure experiments in episode 123's setup.
+- [Stanley Milgram / 斯坦利·米尔格拉姆](entities/StanleyMilgram.md) — Classic obedience-experiment figure used by episode 123 as background for social psychology's postwar experimental canon.
+- [Philip Zimbardo / 菲利普·津巴多](entities/PhilipZimbardo.md) — Social psychologist tied in episode 123 to deindividuation, anonymous shock experiments, and ethical caution around famous experiments.
+- [Gustave Le Bon / 古斯塔夫·勒庞](entities/GustaveLeBon.md) — Crowd-psychology reference used by episode 123 before later deindividuation experiments.
+- [Leon Festinger / 利昂·费斯廷格](entities/LeonFestinger.md) — Social psychologist mentioned by episode 123 in the history of deindividuation and group self-awareness loss.
+- [Daniel Gilbert / 丹尼尔·吉尔伯特](entities/DanielGilbert.md) — Psychologist tied to episode 123's Gilbert-Spinoza hypothesis about belief-first cognition.
+- [Edward Jones / 爱德华·琼斯](entities/EdwardJonesPsychologist.md) — Attribution researcher linked by episode 123 to actor-observer bias.
+- [Richard Nisbett / 理查德·尼斯贝特](entities/RichardNisbett.md) — Attribution researcher linked by episode 123 to actor-observer bias and situational explanation.
 - [《木偶奇遇记》 / The Adventures of Pinocchio](entities/AdventuresOfPinocchio.md) — Collodi fairy tale read by episode 122 as a dark, dreamlike growth story rather than a simple lying-nose moral.
 - [Pinocchio / 匹诺曹](entities/Pinocchio.md) — Animated puppet whose becoming human is read through repeated error, embodied suffering, and the shift into protecting Geppetto.
 - [Carlo Collodi / 卡洛·科洛迪](entities/CarloCollodi.md) — Italian author of 《木偶奇遇记》, presented by episode 122 through the serial origin, first hanging ending, and writer-made fairy-tale anxiety.
@@ -3561,6 +3570,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Social Psychology / 社会心理学](concepts/SocialPsychology.md) — Episode 123's discipline frame for studying how social situations, identity, groups, attention, and emotion shape judgment and behavior.
+- [Social Reality Construction / 社会现实建构](concepts/SocialRealityConstruction.md) — Episode 123's premise that people experience social reality through perception, culture, identity, and attribution needs rather than neutral recording.
+- [Hindsight Bias / 后见之明偏差](concepts/HindsightBias.md) — Tendency to treat an experimental result as obvious after learning it, even when the opposite result would also have felt obvious.
+- [Hostile Media Effect / 敌意媒体效应](concepts/HostileMediaEffect.md) — Pattern where opposing groups each perceive the same media coverage as biased against their own side.
+- [Priming And Stereotype Memory / 启动效应与刻板印象记忆](concepts/PrimingAndStereotypeMemory.md) — Episode 123's frame for words and labels shaping later evaluation and recall.
+- [Consider-The-Opposite Bias Correction / 反向设想偏见校正](concepts/ConsiderTheOppositeBiasCorrection.md) — Bias-reduction method that asks whether the same evidence would still look persuasive from the opposing standpoint.
+- [Better-Than-Average Effect / 优于常人效应](concepts/BetterThanAverageEffect.md) — Self-confidence bias where people believe they are more rational or bias-resistant than ordinary people.
+- [Actor-Observer Bias / 行动者-观察者偏差](concepts/ActorObserverBias.md) — Attribution pattern where actors explain themselves by circumstances while observers explain others by character.
+- [Deindividuation / 去个体化](concepts/Deindividuation.md) — Group and anonymity condition where self-awareness, self-control, and perception of others' individuality can weaken.
+- [Gilbert-Spinoza Hypothesis / 吉尔伯特-斯宾诺莎假设](concepts/GilbertSpinozaHypothesis.md) — Belief-first cognition frame where people initially accept information and need effortful attention to reject it.
+- [Money Illusion / 货币错觉](concepts/MoneyIllusion.md) — Bias where nominal amounts, tokens, or surface numbers shape behavior more than real value.
+- [Emotional Contagion / 情绪感染](concepts/EmotionalContagion.md) — Mechanism by which anger, fear, charisma, or political affect can spread before reflective judgment catches up.
 - [Hero Journey Narrative](concepts/HeroJourneyNarrative.md) — Mythic-growth frame used by episode 122 to read Pinocchio's tests, symbolic death, shark-belly descent, return, and transformation.
 - [Nonhuman Becoming Human Motif](concepts/NonhumanBecomingHumanMotif.md) — Transformation motif linking Pinocchio to mermaids, robots, cyborgs, spirits, embodiment, and personhood questions.
 - [Growth As Protector Role](concepts/GrowthAsProtectorRole.md) — Episode 122's growth frame where maturity appears when a protected child becomes capable of protecting parent figures.

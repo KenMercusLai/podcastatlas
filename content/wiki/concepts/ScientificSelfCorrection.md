@@ -2,8 +2,8 @@
 title: "Scientific Self-Correction"
 type: concept
 tags: [science, evidence, correction, authority]
-sources: [68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]
-last_updated: 2026-07-18
+sources: [123-renxing-shiyan-dangxin-ni-ziji-779479569, 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]
+last_updated: 2026-07-24
 ---
 
 # Scientific Self-Correction
@@ -13,6 +13,8 @@ Scientific self-correction is the episode's claim that science has no final mast
 The concept does not mean scientists are always virtuous. [[TrofimLysenko|Trofim Lysenko / 李森科]] is used as the opposite case: when power blocks criticism, false science can damage the field. Self-correction survives only when public evidence, criticism, replication, and revision remain legitimate.
 
 [[68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549]] adds the experiment-history version. [[StubbinsFfirth|Stubbins Ffirth]]'s yellow-fever survival, the mamba-venom case, spider urine experiments, and the difficult [[DopplerEffect|Doppler effect]] demonstration show that wrong, lucky, or inconclusive experiments can still become knowledge if later researchers mark the limits and revise the interpretation.
+
+[[123-renxing-shiyan-dangxin-ni-ziji-779479569]] adds a social-science version. The episode says scientists also have bias, but science is still useful because criticism, peer review, attempts at disconfirmation, and later correction are better than private certainty or folk wisdom.
 
 ## Key Claims
 - A scientific claim must be abandonable when evidence turns against it.
@@ -28,3 +30,4 @@ The concept does not mean scientists are always virtuous. [[TrofimLysenko|Trofim
 - [[CTA102]] - astronomy case for restraint and revision.
 - [[RationalHumility]] - correction as part of reason rather than humiliation.
 - [[ExperimentalScienceEthics]], [[SelfExperimentation]], and [[ExperimentalFailureAsKnowledge]] - source-68 experiment extensions.
+- [[SocialPsychology]], [[HindsightBias]], and [[ExperimentalScienceEthics]] - source-123 social-experiment extension.
