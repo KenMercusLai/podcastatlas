@@ -3859,6 +3859,10 @@ Added source page for the Marketplace Tech episode with David Brancaccio on rebu
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-23] ingest | Surbhi Sarna, Founder of nVision Medical
+
+Added source page for The Social Radars episode with Surbhi Sarna on nVision Medical, ovarian cysts, ovarian cancer diagnostics, fallopian-tube access, physician-led device design, FDA clearances, clinical studies, solo-founder fundraising, Tim Draper matching capital, the Boston Scientific acquisition, and Without a Doubt. Created pages for Surbhi Sarna, nVision Medical, Boston Scientific, Without a Doubt, Cindy D'Amicus, Anula Jayasuria, Women's Health Diagnostic Gap, Ovarian Cancer Diagnostics, Fallopian Tube Access Diagnostics, Physician-Led Medical Device Design, Medical Device Clinical Validation, Solo Founder Fundraising Bias, Capital-Efficient Medical Device Startup, and Mission-Driven Acquisition Decision; updated overview, index, The Social Radars, Y Combinator, Food and Drug Administration, Medical Testing Validation Integrity, Medical Risk Management, Hard Tech Fundraising, Founder Product Fit, Founder Resilience, Investor Risk Narrative, Post-Acquisition Founder Identity, Customer Discovery By Doing Work, Tim Draper, Preventive Health Screening, Founder Cash Flow Constraint, and Hard Problem MVP Scoping. No direct contradiction found; noted the source export's internal nVision/Envision naming mismatch and followed the metadata/file spelling.
+
 ## [2026-07-23] ingest | Tyler Shultz, Theranos Whistleblower (Part 2)
 
 Added source page for The Social Radars episode with Tyler Shultz on the Wall Street Journal investigation, John Carreyrou, Adam Rosendorff, legal threats, family leverage, David Boies pressure, CMS/FDA regulatory fallout, going on the record, and whistleblower-channel advice. Created pages for John Carreyrou, Adam Rosendorff, David Boies, Charlotte Shultz, Centers for Medicare & Medicaid Services, Rupert Murdoch, Whistleblower Legal Intimidation, and Protected Whistleblower Channels; updated overview, index, Tyler Shultz, Theranos, Elizabeth Holmes, Sunny Balwani, George Shultz, Wall Street Journal, News Corp, FDA, SEC, DOJ, IRS, Stanford University, The Social Radars, Jessica Livingston, Carolyn Levy, Public Service Journalism, Media Ownership Independence Risk, Whistleblower Evidence Discipline, Organizational Secrecy As Control, Medical Testing Validation Integrity, Credibility Cascade, Founder Identity Narrative Risk, Values As Operational Asset, and Startup Governance. No direct contradiction found; the source extends Part 1 by covering the public-reporting, legal-pressure, regulator, and recovery material that Part 1 deferred.
@@ -4023,6 +4027,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-23] ingest | Tyler Shultz, Theranos Whistleblower (Part 1)
 
 Added source page for The Social Radars episode with Tyler Shultz on Theranos, Elizabeth Holmes, Sunny Balwani, George Shultz, Erica Chung, Walgreens, lab validation failures, secrecy, board credibility, internal escalation, resignation, and evidence preservation. Created pages for Tyler Shultz, Theranos, Elizabeth Holmes, Sunny Balwani, George Shultz, Erica Chung, Walgreens, Medical Testing Validation Integrity, Organizational Secrecy As Control, Credibility Cascade, Whistleblower Evidence Discipline, and Founder Identity Narrative Risk; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Stanford University, Startup Governance, the Season Five update source, and Podcast As Asynchronous Media. No direct content contradiction found; corrected the existing archive-highlight misspelling from Tyler Schultz to Tyler Shultz.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-23] lint | Wiki health check
 

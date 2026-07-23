@@ -2,7 +2,7 @@
 title: "Customer Discovery By Doing Work"
 type: concept
 tags: [startup, customer-discovery, operations]
-sources: [tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-tonyxu-final]
+sources: [tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-tonyxu-final]
 last_updated: 2026-07-23
 ---
 
@@ -22,6 +22,8 @@ The pattern matters because it exposed a delivery problem that a survey could ea
 
 [[tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio]] adds the compliance-software version through [[ChristinaCacioppo]] and [[Vanta]]. Christina stopped building unwanted products, talked to founders, and made a [[ManualComplianceMVP]] spreadsheet for [[Segment]] before adapting it for [[Front]]. The discovery work was not only interviews; it was doing enough SOC 2 gap-assessment labor to learn which parts of the workflow could become product.
 
+[[tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3]] adds an adjacent medical-device version through [[SurbhiSarna]] and [[PhysicianLedMedicalDeviceDesign]]. Sarna did not "do" the physician procedure herself, but she treated physician meetings, negative feedback, ergonomics, and screen-directed use as discovery surfaces for [[FallopianTubeAccessDiagnostics]] before the device was fixed.
+
 [[tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6]] adds a logistics fieldwork version through [[RyanPetersen]] and [[Flexport]]. The original company pain came from Petersen importing motorcycles, while the Long Beach congestion episode shows later discovery by going to the port, talking to workers and a trucking CEO, and identifying container-stacking and chassis constraints that abstract supply-chain commentary missed.
 
 ## Key Claims
@@ -36,6 +38,7 @@ The pattern matters because it exposed a delivery problem that a survey could ea
 - Doing the work can also reveal a founder-fit problem: direct operational learning may show that the founder does not want to build in that domain for years.
 - In B2B compliance, doing the work can expose repeated evidence, policy, and control patterns that customers share even when they believe their company is unique.
 - In logistics, fieldwork can expose physical bottlenecks and incentive loops that are invisible from documents or dashboards alone.
+- In medical devices, discovery can mean converting clinician feedback into device ergonomics, procedural safety, and validation requirements even when the founder cannot personally perform the clinical work.
 
 ## Connections
 - [[TonyXu]], [[DoorDash]], [[PaloAltoDelivery]], and [[StanfordStartupGarage]] - source case.
@@ -47,4 +50,5 @@ The pattern matters because it exposed a delivery problem that a survey could ea
 - [[AdoraCheung]], [[Homejoy]], and [[ServiceMarketplaceQualityControl]] - home-services marketplace case added by the Adora Cheung episode.
 - [[YinWu]], [[Prim]], [[FounderProductFit]], and [[FounderUserObsession]] - laundry-service case added by the Yin Wu episode.
 - [[ChristinaCacioppo]], [[Vanta]], [[SOC2Audit]], [[Segment]], [[Front]], and [[ManualComplianceMVP]] - compliance gap-assessment case added by the Christina Cacioppo episode.
+- [[SurbhiSarna]], [[NVisionMedical|nVision Medical]], [[PhysicianLedMedicalDeviceDesign]], [[FallopianTubeAccessDiagnostics]], and [[MedicalDeviceClinicalValidation]] - physician-user discovery case added by The Social Radars.
 - [[RyanPetersen]], [[Flexport]], [[GlobalLogisticsCoordination]], and [[LogisticsCrisisResponse]] - logistics fieldwork case added by the Ryan Petersen episode.

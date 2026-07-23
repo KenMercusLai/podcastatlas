@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Surbhi Sarna, Founder of nVision Medical](sources/tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3.md) — The Social Radars episode with Surbhi Sarna on nVision Medical, ovarian cancer diagnostics, fallopian-tube access, physician-led medical-device design, FDA clearance, hard medtech fundraising, and the Boston Scientific acquisition.
 - [Tyler Shultz, Theranos Whistleblower (Part 2)](sources/tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3.md) — The Social Radars episode with Tyler Shultz on Wall Street Journal reporting, John Carreyrou, legal pressure, family leverage, regulatory fallout, public accountability, and whistleblower-channel advice.
 - [Tyler Shultz, Theranos Whistleblower (Part 1)](sources/tsr-s4-tylershultzpart1-final-tsr-s4-tylershultzpart1-final.md) — The Social Radars episode with Tyler Shultz on joining Theranos, Elizabeth Holmes's charisma, lab validation failures, secrecy, board credibility, internal escalation, resignation, and the first attempt to persuade George Shultz.
 - [Replit Co-Founders, Amjad Masad & Haya Odeh](sources/tsr-s3-replit-v2-tsr-s3-replit-v2.md) — The Social Radars episode on Replit's origin, Amjad Masad and Haya Odeh, accessible programming, consumer-grade developer infrastructure, YC validation, and spouse co-founder dynamics.
@@ -501,6 +502,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Surbhi Sarna](entities/SurbhiSarna.md) — YC partner and former nVision Medical founder whose Social Radars interview connects women's-health diagnostic gaps, medtech validation, solo-founder fundraising, and mission-driven acquisition judgment.
+- [nVision Medical](entities/NVisionMedical.md) — Women's-health medical-device company founded by Surbhi Sarna to access the fallopian tube and collect cells relevant to ovarian cancer diagnostics.
+- [Boston Scientific](entities/BostonScientific.md) — Medical-device acquirer of nVision Medical in Surbhi Sarna's episode, used as a mission and commercialization-capacity acquisition case.
+- [Without a Doubt](entities/WithoutADoubt.md) — Surbhi Sarna's memoir discussed as a founder story about patient-need certainty amid startup doubt.
+- [Cindy D'Amicus](entities/CindyDAmicus.md) — FDA women's-health advisor in the Surbhi Sarna episode who helped shape nVision Medical's regulatory path.
+- [Anula Jayasuria](entities/AnulaJayasuria.md) — Investor named in Surbhi Sarna's early financing story as helping open the first nVision Medical funding path.
 - [Tyler Shultz](entities/TylerShultz.md) — Theranos whistleblower and former employee whose Social Radars interview grounds the wiki's validation, secrecy, credibility, and evidence-discipline branch.
 - [Theranos](entities/Theranos.md) — Blood-testing startup used as a regulated-healthcare trust failure case around validation, patient risk, secrecy, and credibility cascades.
 - [Elizabeth Holmes](entities/ElizabethHolmes.md) — Theranos founder whose public persona, mission story, and credibility network are central to Tyler Shultz's account.
@@ -3234,6 +3241,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Women's Health Diagnostic Gap](concepts/WomensHealthDiagnosticGap.md) — Pattern where reproductive-health problems have symptoms and clinical concern but lack safe, validated, and well-funded diagnostic pathways.
+- [Ovarian Cancer Diagnostics](concepts/OvarianCancerDiagnostics.md) — Diagnostic problem from Surbhi Sarna's episode around safely detecting ovarian cancer when blood tests, biopsy, and late presentation leave gaps.
+- [Fallopian Tube Access Diagnostics](concepts/FallopianTubeAccessDiagnostics.md) — nVision Medical thesis that ovarian-cancer detection may improve by reaching the fallopian tube without surgery and collecting relevant cells.
+- [Physician-Led Medical Device Design](concepts/PhysicianLedMedicalDeviceDesign.md) — Medical-device discovery pattern where physician workflow, ergonomics, and safety feedback become product requirements before the device is locked.
+- [Medical Device Clinical Validation](concepts/MedicalDeviceClinicalValidation.md) — Evidence path for moving a device from mechanism and prototype into FDA clearance, clinical data, physician trust, and acquisition credibility.
+- [Solo Founder Fundraising Bias](concepts/SoloFounderFundraisingBias.md) — Fundraising pattern where solo-founder workload concerns combine with gender and category bias, especially in underrecognized markets such as women's health.
+- [Capital-Efficient Medical Device Startup](concepts/CapitalEfficientMedicalDeviceStartup.md) — Medtech startup pattern where each financing round is tied to prototype, regulatory, clinical, or commercialization evidence milestones.
+- [Mission-Driven Acquisition Decision](concepts/MissionDrivenAcquisitionDecision.md) — Founder sale decision frame balancing mission, clinical proof, investor duty, acquirer trust, commercialization risk, and post-acquisition role.
 - [Medical Testing Validation Integrity](concepts/MedicalTestingValidationIntegrity.md) — Diagnostic-testing trust requirement covering validation, quality control, audit visibility, and patient-safety evidence before results reach care decisions.
 - [Organizational Secrecy As Control](concepts/OrganizationalSecrecyAsControl.md) — Pattern where NDAs, silos, locked access, intimidation, and status rituals prevent employees from comparing evidence or challenging a false story.
 - [Credibility Cascade](concepts/CredibilityCascade.md) — Trust failure where respected people or institutions become circular evidence for one another while no one independently verifies the technical claim.

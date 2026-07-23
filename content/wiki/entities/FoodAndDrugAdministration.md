@@ -2,7 +2,7 @@
 title: "Food and Drug Administration"
 type: entity
 tags: [organization, regulator, healthcare, food, drugs]
-sources: [tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534]
+sources: [tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534]
 last_updated: 2026-07-23
 ---
 
@@ -18,6 +18,8 @@ The episode also uses the FDA in the [[Prevagen]] story. According to the source
 
 [[tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3]] adds the diagnostic-lab version through [[Theranos]]. [[TylerShultz|Tyler Shultz]] says the FDA and [[CentersForMedicareAndMedicaidServices|CMS]] inspected Theranos after the [[WallStreetJournal|Wall Street Journal]] reporting, and that regulatory scrutiny validated concerns about quality controls, patient samples, and lab practices that had not been addressed internally.
 
+[[tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3]] adds the positive medical-device version through [[NVisionMedical|nVision Medical]]. [[SurbhiSarna]] says the company received FDA clearances in 2015 and 2016 after prototype, bench, animal-tissue, and clinical-study work, making the FDA pathway part of [[MedicalDeviceClinicalValidation]] rather than only a post-harm or enforcement story.
+
 ## Connections
 - [[DietarySupplementHealthAndEducationAct]] - legal frame limiting FDA supplement oversight.
 - [[SupplementStructureFunctionClaims]] - claim category that avoids drug-like disease language.
@@ -27,3 +29,4 @@ The episode also uses the FDA in the [[Prevagen]] story. According to the source
 - [[FoodAdditiveRegulation]], [[SecretGRAS]], [[PremarketFoodSafetyReview]], and [[PostHarmFoodRegulation]] - food-additive branch added by the tara-flour source.
 - [[CARTCellTherapy]], [[ExVivoCARTManufacturing]], and [[CytokineReleaseSyndrome]] - drug-review and safety-labeling context added by E235.
 - [[Theranos]], [[TylerShultz|Tyler Shultz]], [[CentersForMedicareAndMedicaidServices|CMS]], and [[MedicalTestingValidationIntegrity]] - diagnostic-lab inspection context added by The Social Radars.
+- [[NVisionMedical|nVision Medical]], [[SurbhiSarna]], [[FallopianTubeAccessDiagnostics]], and [[MedicalDeviceClinicalValidation]] - medical-device clearance context added by The Social Radars.

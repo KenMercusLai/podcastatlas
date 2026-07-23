@@ -2067,6 +2067,10 @@
     "title": "Anton LaGuardia",
     "url": "/wiki/entities/antonlaguardia/"
   },
+  "AnulaJayasuria": {
+    "title": "Anula Jayasuria",
+    "url": "/wiki/entities/anulajayasuria/"
+  },
   "AnyaYermakova": {
     "title": "Anya Yermakova",
     "url": "/wiki/entities/anyayermakova/"
@@ -3019,6 +3023,10 @@
     "title": "Boston Dynamics",
     "url": "/wiki/entities/bostondynamics/"
   },
+  "BostonScientific": {
+    "title": "Boston Scientific",
+    "url": "/wiki/entities/bostonscientific/"
+  },
   "BostonUniversity": {
     "title": "Boston University",
     "url": "/wiki/entities/bostonuniversity/"
@@ -3414,6 +3422,10 @@
   "CapitalAccountInvestmentRestrictions": {
     "title": "Capital Account Investment Restrictions",
     "url": "/wiki/concepts/capitalaccountinvestmentrestrictions/"
+  },
+  "CapitalEfficientMedicalDeviceStartup": {
+    "title": "Capital-Efficient Medical Device Startup",
+    "url": "/wiki/concepts/capitalefficientmedicaldevicestartup/"
   },
   "CapitalEfficientStartupBuilding": {
     "title": "Capital Efficient Startup Building",
@@ -4014,6 +4026,10 @@
   "ChurouNoOnna": {
     "title": "《初老的女人》",
     "url": "/wiki/entities/churounoonna/"
+  },
+  "CindyDAmicus": {
+    "title": "Cindy D'Amicus",
+    "url": "/wiki/entities/cindydamicus/"
   },
   "CindyMcCaffrey": {
     "title": "Cindy McCaffrey",
@@ -6442,6 +6458,10 @@
   "Falcon9": {
     "title": "Falcon 9",
     "url": "/wiki/entities/falcon9/"
+  },
+  "FallopianTubeAccessDiagnostics": {
+    "title": "Fallopian Tube Access Diagnostics",
+    "url": "/wiki/concepts/fallopiantubeaccessdiagnostics/"
   },
   "Fallout": {
     "title": "《辐射》 / Fallout",
@@ -11675,6 +11695,10 @@
     "title": "Medical AI Workflow Integration",
     "url": "/wiki/concepts/medicalaiworkflowintegration/"
   },
+  "MedicalDeviceClinicalValidation": {
+    "title": "Medical Device Clinical Validation",
+    "url": "/wiki/concepts/medicaldeviceclinicalvalidation/"
+  },
   "MedicalDiagnosticReasoning": {
     "title": "Medical Diagnostic Reasoning",
     "url": "/wiki/concepts/medicaldiagnosticreasoning/"
@@ -12055,6 +12079,10 @@
     "title": "每日优鲜 / Missfresh",
     "url": "/wiki/entities/missfresh/"
   },
+  "MissionDrivenAcquisitionDecision": {
+    "title": "Mission-Driven Acquisition Decision",
+    "url": "/wiki/concepts/missiondrivenacquisitiondecision/"
+  },
   "MissionDrivenCustomerEducation": {
     "title": "Mission Driven Customer Education",
     "url": "/wiki/concepts/missiondrivencustomereducation/"
@@ -12406,6 +12434,10 @@
   "NStudent": {
     "title": "N 同学 / N Student",
     "url": "/wiki/entities/nstudent/"
+  },
+  "NVisionMedical": {
+    "title": "nVision Medical",
+    "url": "/wiki/entities/nvisionmedical/"
   },
   "NYU": {
     "title": "NYU",
@@ -13179,6 +13211,10 @@
     "title": "Outrank",
     "url": "/wiki/entities/outrank/"
   },
+  "OvarianCancerDiagnostics": {
+    "title": "Ovarian Cancer Diagnostics",
+    "url": "/wiki/concepts/ovariancancerdiagnostics/"
+  },
   "OverStory": {
     "title": "OverStory",
     "url": "/wiki/entities/overstory/"
@@ -13654,6 +13690,10 @@
   "PhysicalWorldDataFlywheel": {
     "title": "Physical World Data Flywheel",
     "url": "/wiki/concepts/physicalworlddataflywheel/"
+  },
+  "PhysicianLedMedicalDeviceDesign": {
+    "title": "Physician-Led Medical Device Design",
+    "url": "/wiki/concepts/physicianledmedicaldevicedesign/"
   },
   "PiedPiperMedievalEurope": {
     "title": "《花衣魔笛手：传说背后的欧洲中世纪》",
@@ -16255,6 +16295,10 @@
     "title": "Solid Tumor CAR-T Constraints",
     "url": "/wiki/concepts/solidtumorcartconstraints/"
   },
+  "SoloFounderFundraisingBias": {
+    "title": "Solo Founder Fundraising Bias",
+    "url": "/wiki/concepts/solofounderfundraisingbias/"
+  },
   "SongXiangGong": {
     "title": "宋襄公",
     "url": "/wiki/entities/songxianggong/"
@@ -16938,6 +16982,10 @@
   "SupremeCourt": {
     "title": "Supreme Court",
     "url": "/wiki/entities/supremecourt/"
+  },
+  "SurbhiSarna": {
+    "title": "Surbhi Sarna",
+    "url": "/wiki/entities/surbhisarna/"
   },
   "SurveillanceAsAService": {
     "title": "Surveillance as a Service",
@@ -18827,6 +18875,10 @@
     "title": "Witch-Hunt Mechanism / 猎巫机制",
     "url": "/wiki/concepts/witchhuntmechanism/"
   },
+  "WithoutADoubt": {
+    "title": "Without a Doubt",
+    "url": "/wiki/entities/withoutadoubt/"
+  },
   "Wiz": {
     "title": "Wiz",
     "url": "/wiki/entities/wiz/"
@@ -18842,6 +18894,10 @@
   "WolverhamptonWanderers": {
     "title": "Wolverhampton Wanderers / 狼队",
     "url": "/wiki/entities/wolverhamptonwanderers/"
+  },
+  "WomensHealthDiagnosticGap": {
+    "title": "Women's Health Diagnostic Gap",
+    "url": "/wiki/concepts/womenshealthdiagnosticgap/"
   },
   "WomensSportsBusinessGrowth": {
     "title": "Women's Sports Business Growth",
@@ -20970,6 +21026,10 @@
   "tsr-s4-samaltman-v4-tsr-s4-samaltman-v4": {
     "title": "Sam Altman on YC, OpenAI, and the Meaning of Formidable",
     "url": "/wiki/sources/tsr-s4-samaltman-v4-tsr-s4-samaltman-v4/"
+  },
+  "tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3": {
+    "title": "Surbhi Sarna, Founder of nVision Medical",
+    "url": "/wiki/sources/tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3/"
   },
   "tsr-s4-tylershultzpart1-final-tsr-s4-tylershultzpart1-final": {
     "title": "Tyler Shultz, Theranos Whistleblower (Part 1)",

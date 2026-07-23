@@ -2,7 +2,7 @@
 title: "Medical Testing Validation Integrity"
 type: concept
 tags: [healthcare, diagnostics, regulation, trust]
-sources: [tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, tsr-s4-tylershultzpart1-final-tsr-s4-tylershultzpart1-final]
+sources: [tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, tsr-s4-tylershultzpart1-final-tsr-s4-tylershultzpart1-final]
 last_updated: 2026-07-23
 ---
 
@@ -16,6 +16,8 @@ The source connects validation integrity to [[StartupGovernance]] because boards
 
 [[tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3]] adds the regulator-visible aftermath. Tyler says [[CentersForMedicareAndMedicaidServices|CMS]] and the [[FoodAndDrugAdministration|FDA]] inspected Theranos after the [[WallStreetJournal|Wall Street Journal]] reporting, found patient-health jeopardy, and found records where quality controls failed but patient samples were still run. The episode therefore closes the loop between internal validation evidence and public regulatory action.
 
+[[tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3]] adds a constructive contrast through [[NVisionMedical|nVision Medical]]. Instead of treating mission or charisma as proof, [[SurbhiSarna]] describes [[MedicalDeviceClinicalValidation]] through bench testing, animal-tissue testing, clinical studies, FDA clearances, and later patient data before [[BostonScientific]] acquisition interest became serious.
+
 ## Key Claims
 - Patient-facing diagnostic claims require validated assay performance, not only a compelling product story.
 - Third-party equipment can be legitimate validation infrastructure, but it becomes misleading if outsiders are told it is only incidental while patient results rely on it.
@@ -23,8 +25,10 @@ The source connects validation integrity to [[StartupGovernance]] because boards
 - Quality-control failures are patient-risk events, not ordinary product bugs.
 - Board and executive governance should include enough technical literacy and independence to detect whether validation claims are real.
 - Regulatory inspection can validate internal concerns only if reporting or internal governance creates a path for regulators to see the real evidence surface.
+- A positive regulated-healthcare startup case still depends on staged evidence; mission intensity does not replace prototype, clinical, and regulatory validation.
 
 ## Connections
 - [[Theranos]], [[TylerShultz|Tyler Shultz]], [[ElizabethHolmes|Elizabeth Holmes]], [[SunnyBalwani|Sunny Balwani]], [[Walgreens]], and [[CentersForMedicareAndMedicaidServices|CMS]] - source case.
 - [[FoodAndDrugAdministration|Food and Drug Administration]], [[MedicalRiskManagement]], and [[OnlineHealthcareRegulatoryBoundary]] - adjacent healthcare regulation and risk pages.
+- [[NVisionMedical|nVision Medical]], [[SurbhiSarna]], [[MedicalDeviceClinicalValidation]], and [[FallopianTubeAccessDiagnostics]] - constructive device-validation contrast added by The Social Radars.
 - [[StartupGovernance]], [[CredibilityCascade]], and [[TrustAsBusinessAsset]] - governance and trust context.
