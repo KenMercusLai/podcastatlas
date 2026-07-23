@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [105.苏东坡：一腔豪迈之气，一肚皮不合时宜](sources/105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645.md) — 蜜獾吃书 episode on Su Shi/Su Dongpo, Three Su family formation, Wang Anshi's reforms, Song factional politics, the Wutai Poetry Case, Huangzhou exile, Red Cliff works, Hangzhou/Xuzhou public works, and earned optimism.
 - [104.你一生的故事：终点已经注定，还要出发吗？](sources/104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680.md) — 蜜獾吃书 episode on Ted Chiang, 《你一生的故事》, 《降临》, heptapod language, Fermat's principle, nonlinear time, free will, mathematical collapse, fixed time loops, and consciousness.
 - [103.她是刺穿夜雾的光，她是汉娜·阿伦特](sources/103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789.md) — 蜜獾吃书 episode on Hannah Arendt, Love and Evil, Heidegger/Jaspers, exile, Eichmann in Jerusalem, Jewish Councils, banality of evil, and responsibility under institutionalized evil.
 - [102.江湖丛谈：骗术、黑话和民间道义](sources/102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488.md) — 蜜獾吃书 episode on 连阔如《江湖丛谈》, old Jianghu street society, 春点 black talk, scam craft, informal order, and the boundary between useful jargon and exclusionary language.
@@ -526,6 +527,28 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [苏轼 / Su Shi / Su Dongpo](entities/SuShi.md) — Song writer-official read through flawed humanity, factional danger, exile, local service, and earned optimism.
+- [苏洵 / Su Xun](entities/SuXun.md) — Su family elder whose cautious naming and literary household frame Su Shi and Su Zhe's later public risks.
+- [苏辙 / Su Zhe](entities/SuZhe.md) — Su Shi's brother and fellow official, used by the episode to ground family loyalty and shared political exposure.
+- [程夫人 / Madam Cheng](entities/ChengFuren.md) — Su Shi's mother and moral educator, linked to compassion, restraint, and early conscience formation.
+- [欧阳修 / Ouyang Xiu](entities/OuyangXiu.md) — Senior literary official who recognizes Su Shi and helps place him inside Northern Song official-literary life.
+- [王安石 / Wang Anshi](entities/WangAnshi.md) — Reforming official whose program and governing style create the central policy conflict around Su Shi.
+- [宋神宗 / Emperor Shenzong of Song](entities/SongShenzong.md) — Northern Song emperor associated with the Wang Anshi reforms and the political risk around Su Shi's criticism.
+- [司马光 / Sima Guang](entities/SimaGuang.md) — Old-party figure used to show why Su Shi's conscience did not simply belong to one faction.
+- [北宋 / Northern Song](entities/NorthernSong.md) — Dynasty setting where literary talent, officeholding, reform, factional politics, and local service intersect.
+- [王弗 / Wang Fu](entities/WangFuSuShi.md) — Su Shi's first wife, presented as a perceptive domestic counselor who saw risks he missed.
+- [王朝云 / Wang Chaoyun](entities/WangChaoyun.md) — Su Shi companion whose "一肚皮不合时宜" phrase captures his political temperament.
+- [乌台诗案 / Wutai Poetry Case](entities/WutaiPoetryCase.md) — Political-legal crisis where Su Shi's poems and memorial language became evidence against him.
+- [黄州 / Huangzhou](entities/Huangzhou.md) — Exile site where Su Shi becomes Dongpo and writes the Red Cliff works.
+- [杭州 / Hangzhou](entities/Hangzhou.md) — Su Shi office site linked to West Lake dredging, Su Causeway, disaster preparation, medicine, and infant rescue.
+- [徐州 / Xuzhou](entities/Xuzhou.md) — Local-governance site where the episode highlights Su Shi's flood-defense work.
+- [惠州 / Huizhou](entities/Huizhou.md) — Southern exile site associated with burial, bridge work, and Wang Chaoyun's death.
+- [儋州 / Danzhou](entities/Danzhou.md) — Farthest exile stage where Su Shi remains morally and educationally active under restrictions.
+- [苏堤 / Su Causeway](entities/SuCauseway.md) — West Lake public works trace tying Su Shi's scenic afterlife to water management.
+- [东坡肉 / Dongpo Rou](entities/DongpoRou.md) — Food memory from the Dongpo cultural image, tied by the episode to hardship and appetite in exile.
+- [《赤壁赋》 / Red Cliff Fu](entities/RedCliffFu.md) — Huangzhou-period prose-poem cluster used to show Su Shi's mature transformation of exile.
+- [《念奴娇·赤壁怀古》 / Nian Nu Jiao: Reminiscence at Red Cliff](entities/NianNuJiaoChibiHuaiGu.md) — Red Cliff ci poem associated with Su Shi's Huangzhou creative high point.
+- [《定风波》 / Ding Feng Bo](entities/DingFengBoSuShi.md) — Su Shi poem read by the episode as resilience after hearing wind and rain, not denial of reality.
 - [Ted Chiang / 江峰南](entities/TedChiang.md) — Science-fiction author read through language, mathematics, physics, theology, time, and consciousness as pressure tests for rational confidence.
 - [《你一生的故事》 / Story of Your Life](entities/StoryOfYourLife.md) — Ted Chiang story linking heptapod language, nonlinear time, foreknowledge, motherhood, and free will.
 - [《降临》 / Arrival](entities/ArrivalFilm.md) — Film adaptation compared with Chiang's quieter language/time/free-will story.
@@ -3423,6 +3446,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Earned Optimism / 走出来的乐天](concepts/EarnedOptimism.md) — Reading of Su Dongpo's optimism as resilience formed through fear, exile, grief, and continued action.
+- [Conscience Over Faction / 良知高于党派](concepts/ConscienceOverFaction.md) — Frame for Su Shi's refusal to align fully with either reformers or old-party retaliation when conscience disagreed.
+- [Scholar-Official Public Duty / 士大夫公共责任](concepts/ScholarOfficialPublicDuty.md) — Concept linking literary talent with practical public service in Su Shi's career.
+- [宋代党争 / Song Factional Politics](concepts/SongFactionalPolitics.md) — New-party/old-party conflict frame around reforms, retaliation, and political speech risk.
+- [王安石变法 / Wang Anshi Reforms](concepts/WangAnshiReforms.md) — Northern Song policy-reform field read through motive, implementation, suffering, and backlash.
+- [Poetry As Political Evidence / 诗文作为政治证据](concepts/PoetryAsPoliticalEvidence.md) — Mechanism by which Su Shi's poems and memorials could be turned into accusations.
+- [Local Governance As Care / 地方治理作为照护](concepts/LocalGovernanceAsCare.md) — Frame for water works, flood defense, medicine, infant rescue, burial, bridges, and schools as concrete public duty.
 - [Heptapod B / 七文B](concepts/HeptapodB.md) — Fictional nonlinear writing system whose completed graphic form links language, cognition, and time perception.
 - [Linguistic Relativity](concepts/LinguisticRelativity.md) — Idea that language habits can shape cognition, pushed by Chiang's story into a speculative transformation of time experience.
 - [Nonlinear Time Perception](concepts/NonlinearTimePerception.md) — Whole-path perception of past, present, and future rather than ordinary causal sequence.

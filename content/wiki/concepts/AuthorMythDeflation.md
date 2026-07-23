@@ -2,13 +2,15 @@
 title: "Author Myth Deflation"
 type: concept
 tags: [literature, biography, canon, interpretation]
-sources: [01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
-last_updated: 2026-07-23
+sources: [105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
+last_updated: 2026-07-24
 ---
 
 # Author Myth Deflation
 
 Author myth deflation is the practice of bringing canonical writers down from a saintly or purely monumental image without reducing them to scandal alone. In [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]], [[MihuanChishu|蜜獾吃书]] repeatedly shows that great writers can be brilliant and ridiculous, courageous and vain, politically perceptive and politically foolish, morally intense and harmful to people nearby.
+
+[[105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]] adds a positive-myth version through [[SuShi|苏轼 / 苏东坡]]. The source does not deflate Su Shi by scandalizing him; it deflates the inspirational "forever relaxed" image by restoring fear, bluntness, poor caution, appetite, grief, imprisonment, factional pressure, and practical government work.
 
 [[82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589]] broadens the pattern. [[LordByron|Lord Byron / 拜伦]] tests romantic heroism against scandal and memorial cleanup, [[HonoreDeBalzac|Honore de Balzac / 巴尔扎克]] tests literary grandeur against bodily excess and debt, [[EdgarAllanPoe|Edgar Allan Poe / 爱伦·坡]] tests gothic genius against poverty and reputation damage, [[AgathaChristie|Agatha Christie / 阿加莎·克里斯蒂]] tests detective-queen fame against gendered biography, and [[JackLondon|Jack London / 杰克·伦敦]] tests socialist identity against racist politics.
 
@@ -36,6 +38,7 @@ The episode's value is partly emotional. By showing canonical writers as embodie
 - Deflating an author myth should keep evidentiary standards visible most strongly when allegations involve children, sexuality, memory, and historical context.
 - A negative author myth may need deflation too: inherited moral denunciation should be source-checked rather than repeated as biographical fact.
 - A recluse myth can be as flattening as a scandal myth when it makes adult craft, war memory, publishing decisions, and textual tenderness disappear behind one personality image.
+- An inspirational author myth may need deflation when it turns hard-won resilience into simple cheerfulness and hides political risk, fear, and public labor.
 
 ## Connections
 - [[LiteraryGossipAsContext]] - method for handling biographical anecdotes with uncertainty.
@@ -48,3 +51,4 @@ The episode's value is partly emotional. By showing canonical writers as embodie
 - [[LittleWomen]] and [[SherlockHolmes]] - works whose public image diverges from author preference.
 - [[DirectorMythDeflation]], [[FilmGossipAsContext]], and [[ArtisticAchievementMoralAccountability]] - film extension added by the director-gossip source.
 - [[LiShangyin|李商隐]], [[LateTangPoliticalPoetics]], and [[LovePoetryModernity]] - episode 183's reputation-defense variant.
+- [[SuShi|苏轼 / 苏东坡]], [[EarnedOptimism]], [[ConscienceOverFaction]], and [[ScholarOfficialPublicDuty]] - episode 105's positive-myth deflation case.
