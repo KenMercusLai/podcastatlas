@@ -331,6 +331,10 @@
     "title": "40.平面国：禁止染色/女人危险/向上不是向北！",
     "url": "/wiki/sources/40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366/"
   },
+  "404Media": {
+    "title": "404 Media",
+    "url": "/wiki/entities/404media/"
+  },
   "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038": {
     "title": "41.施剑翘复仇案：超越哈贝马斯的情与法",
     "url": "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
@@ -2779,6 +2783,10 @@
     "title": "Ben Goldhersh",
     "url": "/wiki/entities/bengoldhersh/"
   },
+  "BenJordan": {
+    "title": "Ben Jordan",
+    "url": "/wiki/entities/benjordan/"
+  },
   "BenParr": {
     "title": "Ben Parr",
     "url": "/wiki/entities/benparr/"
@@ -4810,6 +4818,10 @@
   "CrossCulturalUserResearch": {
     "title": "Cross-Cultural User Research",
     "url": "/wiki/concepts/crossculturaluserresearch/"
+  },
+  "CrossDatasetPrivacyLinkage": {
+    "title": "Cross-Dataset Privacy Linkage",
+    "url": "/wiki/concepts/crossdatasetprivacylinkage/"
   },
   "CrossDisciplinaryLiteratureSearch": {
     "title": "Cross-Disciplinary Literature Search",
@@ -13543,6 +13555,10 @@
     "title": "Paresh Dave",
     "url": "/wiki/entities/pareshdave/"
   },
+  "ParkMobile": {
+    "title": "ParkMobile",
+    "url": "/wiki/entities/parkmobile/"
+  },
   "ParkerConrad": {
     "title": "Parker Conrad",
     "url": "/wiki/entities/parkerconrad/"
@@ -14538,6 +14554,10 @@
   "PublicServiceJournalism": {
     "title": "Public Service Journalism",
     "url": "/wiki/concepts/publicservicejournalism/"
+  },
+  "PublicSpaceRoutineTracking": {
+    "title": "Public Space Routine Tracking",
+    "url": "/wiki/concepts/publicspaceroutinetracking/"
   },
   "PublicUtilityCommissions": {
     "title": "Public Utility Commissions",
@@ -16255,6 +16275,10 @@
     "title": "Shizilukou Crossing",
     "url": "/wiki/entities/shizilukoucrossing/"
   },
+  "Shodan": {
+    "title": "Shodan",
+    "url": "/wiki/entities/shodan/"
+  },
   "Shopify": {
     "title": "Shopify",
     "url": "/wiki/entities/shopify/"
@@ -17274,6 +17298,10 @@
   "SurveillanceAsAService": {
     "title": "Surveillance as a Service",
     "url": "/wiki/concepts/surveillanceasaservice/"
+  },
+  "SurveillanceCameraExposure": {
+    "title": "Surveillance Camera Exposure",
+    "url": "/wiki/concepts/surveillancecameraexposure/"
   },
   "SurveillancePricing": {
     "title": "Surveillance Pricing",
@@ -21042,6 +21070,10 @@
   "tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128": {
     "title": "How U.S. political campaigns have used generative AI",
     "url": "/wiki/sources/tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128/"
+  },
+  "tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128": {
+    "title": "Surveillance cameras livestreamed for the internet to see",
+    "url": "/wiki/sources/tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128/"
   },
   "tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128": {
     "title": "Building a home with future fires in mind",

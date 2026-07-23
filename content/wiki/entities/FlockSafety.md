@@ -2,8 +2,8 @@
 title: "Flock Safety"
 type: entity
 tags: [company, surveillance, public-safety, cameras]
-sources: [tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources: [tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128, tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128]
+last_updated: 2026-07-23
 ---
 
 # Flock Safety
@@ -12,6 +12,8 @@ Flock Safety appears in [[tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-
 
 [[tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128]] adds a more direct government-access frame. [[JeremyScott]] names Flock Safety as a [[SurveillanceAsAService]] example: a license-plate-reader company that builds camera infrastructure, aggregates records in databases, and sells searchable access or analysis tools to law enforcement agencies such as [[USDepartmentOfHomelandSecurity]] and [[USImmigrationAndCustomsEnforcement]].
 
+[[tech-20260108-0108-mp-tech-pod-128-tech-20260108-0108-mp-tech-pod-128]] adds a cybersecurity and public-exposure layer. [[BenJordan]] says he found exposed Flock Safety cameras through [[Shodan]], with some feeds lacking password protection and exposing archived footage, administrative interfaces, or possible deletion controls. The episode reports that Flock told [[404Media|404 Media]] the issue was a limited misconfiguration affecting a very small number of devices and had been remedied.
+
 This page is separate from [[Flock]], the unrelated photo-sharing app in the [[DavidLieb]] and [[GooglePhotos]] branch.
 
 ## Connections
@@ -19,5 +21,7 @@ This page is separate from [[Flock]], the unrelated photo-sharing app in the [[D
 - [[JamieSiminoff]] - Ring founder connected to the broader reported ambition.
 - [[ConsumerCameraSurveillance]] - concept linking camera networks, AI, and law-enforcement use.
 - [[SurveillanceAsAService]], [[GovernmentDataBrokerAccess]], and [[CivilLibertiesSurveillanceRisk]] - government-access frame added by the March 2, 2026 Marketplace Tech episode.
+- [[BenJordan]], [[Shodan]], [[404Media|404 Media]], and [[SurveillanceCameraExposure]] - exposed-camera reporting and response.
+- [[PublicSpaceRoutineTracking]] and [[CrossDatasetPrivacyLinkage]] - privacy mechanisms surfaced by archived footage, license plates, and breached data.
 - [[USDepartmentOfHomelandSecurity]] and [[USImmigrationAndCustomsEnforcement]] - agencies named in the surveillance-as-service discussion.
 - [[Flock]] - unrelated name collision in the wiki.

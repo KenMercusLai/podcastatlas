@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-23] ingest | Surveillance cameras livestreamed for the internet to see
+
+Added source page for the Marketplace Tech episode on exposed Flock Safety cameras, Shodan discovery, archived footage, possible deletion controls, license-plate linkage, playground surveillance, and Flock's limited-misconfiguration response to 404 Media. Created pages for Ben Jordan, Shodan, 404 Media, ParkMobile, Surveillance Camera Exposure, Public Space Routine Tracking, and Cross-Dataset Privacy Linkage; updated overview, index, Marketplace Tech, Flock Safety, Consumer Camera Surveillance, Surveillance as a Service, Civil Liberties Surveillance Risk, and Platform Data Regulation. No direct contradiction found; the source complements later Flock Safety privacy coverage by adding the security-misconfiguration and public-exposure failure mode while keeping Flock's remediation scope claim source-scoped.
+
 ## [2026-07-23] ingest | David Kirtley, Founder & CEO of Helion Energy
 
 Added source page for The Social Radars episode with David Kirtley on Helion Energy, fusion power, YC focus, energy recovery, Polaris, Orion, Microsoft and Nucor customer plans, regulation, investor selection, precision manufacturing, and founder mode. Created pages for David Kirtley, Helion Polaris, Helion Orion, Nucor, Mithril Capital, Capricorn Investment Group, Chelan PUD, Constellation Energy, Commercial Fusion Power, Fusion Energy Recovery, Deep-Tech Product Focus, Hard-Tech Regulatory Pathfinding, and Precision Manufacturing As Strategy; updated overview, index, Helion, Microsoft, Sam Altman, Y Combinator, The Social Radars, Hard Tech Fundraising, Hard-Tech Customer Intent Proof, Founder Mode, AI Energy Bottleneck, and Data Center Onsite Power. No direct contradiction found; deployment, efficiency, customer, and 2028 timeline claims are kept as Kirtley's 2026-01-07 source account rather than independently verified current status.
@@ -4090,3 +4094,7 @@ Ran lint after health passed. Health found no empty/stub files, index drift, or 
 ## [2026-07-23] ingest | Spenser Skates, Founder & CEO, Amplitude
 
 Added source page for The Social Radars episode with Spenser Skates on Sonalight, the pivot into Amplitude, product analytics, founder-led sales, direct listing, public-company communication, executive readiness, and founder-life tradeoffs. Created pages for Spenser Skates, Amplitude, Sonalight, Curtis Liu, Jeffrey Wang, Battlecode, Mitch Morando, Google Analytics, Flurry, Mixpanel, Kissmetrics, Zynga, 12gigs, Product Analytics, Technical Demo Retention Gap, Sales As Learnable Skill, Direct Listing Discipline, Public Company Transition, Public Market Communication, and Founder Life Architecture; updated overview, index, The Social Radars, Y Combinator, and related startup-learning pages. No direct contradiction found; the source's public-market and stock-price claims remain source-scoped to Spenser's 2026-02-03 retrospective.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
