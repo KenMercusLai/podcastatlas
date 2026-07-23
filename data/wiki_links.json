@@ -1555,6 +1555,10 @@
     "title": "Aether AI",
     "url": "/wiki/entities/aetherai/"
   },
+  "AffordableCareAct": {
+    "title": "Affordable Care Act / 奥巴马医改",
+    "url": "/wiki/entities/affordablecareact/"
+  },
   "AfghanWomenFirstPersonWriting": {
     "title": "Afghan Women First-Person Writing",
     "url": "/wiki/concepts/afghanwomenfirstpersonwriting/"
@@ -3782,6 +3786,10 @@
   "CapitalMarketShellStory": {
     "title": "Capital Market Shell Story",
     "url": "/wiki/concepts/capitalmarketshellstory/"
+  },
+  "CapitalPunishmentRetributionProblem": {
+    "title": "Capital Punishment Retribution Problem",
+    "url": "/wiki/concepts/capitalpunishmentretributionproblem/"
   },
   "CapitalReturnRateDecline": {
     "title": "Capital Return Rate Decline",
@@ -6278,6 +6286,10 @@
   "DongpoRou": {
     "title": "东坡肉 / Dongpo Rou",
     "url": "/wiki/entities/dongporou/"
+  },
+  "DongqiangXidiao": {
+    "title": "东腔西调 / Dongqiang Xidiao",
+    "url": "/wiki/entities/dongqiangxidiao/"
   },
   "DongtingLake": {
     "title": "Dongting Lake / 洞庭湖",
@@ -12067,6 +12079,10 @@
     "title": "Lin Wei",
     "url": "/wiki/entities/linwei/"
   },
+  "LinYao": {
+    "title": "林垚 / Lin Yao",
+    "url": "/wiki/entities/linyao/"
+  },
   "LinYuping": {
     "title": "林玉萍 / Lin Yuping",
     "url": "/wiki/entities/linyuping/"
@@ -12166,6 +12182,10 @@
   "LiuKai": {
     "title": "Liu Kai",
     "url": "/wiki/entities/liukai/"
+  },
+  "LiuQing": {
+    "title": "刘擎 / Liu Qing",
+    "url": "/wiki/entities/liuqing/"
   },
   "LiuWenhuan": {
     "title": "Liu Wenhuan",
@@ -12514,6 +12534,10 @@
   "LuganoPlanB": {
     "title": "Lugano Plan B",
     "url": "/wiki/entities/luganoplanb/"
+  },
+  "LuigiCaseSuspect": {
+    "title": "Luigi Case Suspect",
+    "url": "/wiki/entities/luigicasesuspect/"
   },
   "LulinRebellion": {
     "title": "Lulin / 绿林",
@@ -15630,6 +15654,10 @@
   "PopulationCoding": {
     "title": "Population Coding",
     "url": "/wiki/concepts/populationcoding/"
+  },
+  "PopulistDemocraticEnergy": {
+    "title": "Populist Democratic Energy",
+    "url": "/wiki/concepts/populistdemocraticenergy/"
   },
   "PortChibatao": {
     "title": "Port Chibatao",
@@ -20239,6 +20267,14 @@
     "title": "U.S. Department of Labor",
     "url": "/wiki/entities/usdepartmentoflabor/"
   },
+  "USFederalismVetoPoints": {
+    "title": "U.S. Federalism Veto Points",
+    "url": "/wiki/concepts/usfederalismvetopoints/"
+  },
+  "USHealthInsuranceDenialPolitics": {
+    "title": "U.S. Health Insurance Denial Politics",
+    "url": "/wiki/concepts/ushealthinsurancedenialpolitics/"
+  },
   "USImmigrationAndCustomsEnforcement": {
     "title": "U.S. Immigration and Customs Enforcement",
     "url": "/wiki/entities/usimmigrationandcustomsenforcement/"
@@ -20354,6 +20390,10 @@
   "UnitedArabEmirates": {
     "title": "United Arab Emirates",
     "url": "/wiki/entities/unitedarabemirates/"
+  },
+  "UnitedHealthcare": {
+    "title": "UnitedHealthcare / 联合医保",
+    "url": "/wiki/entities/unitedhealthcare/"
   },
   "UnitedKingdom": {
     "title": "United Kingdom",
@@ -20590,6 +20630,10 @@
   "Vidiots": {
     "title": "Vidiots",
     "url": "/wiki/entities/vidiots/"
+  },
+  "VigilanteJusticeUniversalizationRisk": {
+    "title": "Vigilante Justice Universalization Risk",
+    "url": "/wiki/concepts/vigilantejusticeuniversalizationrisk/"
   },
   "VikrantLal": {
     "title": "Vikrant Lal",
@@ -23018,6 +23062,10 @@
   "sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106": {
     "title": "sp.03 串台｜趁生命气息逗留：泽拉兹尼与他的梦境",
     "url": "/wiki/sources/sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106/"
+  },
+  "sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209": {
+    "title": "sp.04 【刘擎x林垚】“枪杀医保巨头”案背后的思考(上)：关于民粹、私刑和死刑",
+    "url": "/wiki/sources/sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209/"
   },
   "starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1": {
     "title": "Starmergeddon: British PM resigns",

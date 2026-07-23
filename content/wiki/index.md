@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [sp.04 【刘擎x林垚】“枪杀医保巨头”案背后的思考(上)：关于民粹、私刑和死刑](sources/sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209.md) — 蜜獾吃书 x 东腔西调 episode using the UnitedHealthcare CEO killing to discuss U.S. health-insurance denial politics, federalism, populism, vigilante justice, terrorism, and the death penalty.
 - [127. 闲聊十二生肖之龙：神奇动物在哪里](sources/127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655.md) — 蜜獾吃书 episode on the zodiac dragon, early dragon layers, imperial dragon symbolism, the Qing dragon flag, Dragon translation, totemist nationalism, and the modern invention of "descendants of the dragon" identity.
 - [126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖](sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780.md) — 蜜獾吃书 episode on 王莽, 张向荣《祥瑞》, Western Han sacred legitimacy, Mandate of Heaven backfire, omen politics, Wang Mang's reforms, frontier moralism, Xin collapse, and Liu Xiu at Kunyang.
 - [125. 马拉之死：卑鄙的暗杀，或正义的处决？](sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516.md) — 蜜獾吃书 episode on Marat's assassination by Charlotte Corday, David's martyr image, French Revolution factions, Jacobin terror, Lavoisier and anti-expert suspicion, and the ethics of political assassination.
@@ -544,6 +545,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [刘擎 / Liu Qing](entities/LiuQing.md) — Political-theory guest in the sp.04 crossover, framing the Luigi case through populism, terrorism, violence, and capital punishment.
+- [林垚 / Lin Yao](entities/LinYao.md) — Politics scholar whose U.S. medical-billing experience and legal analysis ground the sp.04 discussion of health insurance and punishment.
+- [东腔西调 / Dongqiang Xidiao](entities/DongqiangXidiao.md) — Crossover partner show for sp.04, bringing Liu Qing and Lin Yao into the 蜜獾吃书 discussion.
+- [Luigi Case Suspect](entities/LuigiCaseSuspect.md) — Figure at the center of the UnitedHealthcare CEO killing case as discussed by sp.04.
+- [UnitedHealthcare / 联合医保](entities/UnitedHealthcare.md) — U.S. health insurer treated by sp.04 as a symbol of private health-insurance denial politics.
+- [Affordable Care Act / 奥巴马医改](entities/AffordableCareAct.md) — Obama-era U.S. health-care reform treated by sp.04 as meaningful but structurally compromised.
 - [Chinese Dragon / 龙](entities/ChineseDragon.md) — Dragon symbol read by episode 127 as a layered field of shape, rain, divine transport, imperial rank, folk story, and modern national identity.
 - [Qing Dragon Flag / 大清龙旗](entities/QingDragonFlag.md) — Late-Qing flag whose confused diplomatic, commercial, patriotic, revolutionary, and restorationist uses help publicize the dragon as a contested China symbol.
 - [施爱东 / Shi Aidong](entities/ShiAidong.md) — Folklore scholar whose book anchors episode 127's argument about modern Chinese dragon-image formation.
@@ -3625,6 +3632,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [U.S. Health Insurance Denial Politics](concepts/USHealthInsuranceDenialPolitics.md) — Frame for how employer insurance, networks, billing fragmentation, denial opacity, and private insurer power produce public rage.
+- [U.S. Federalism Veto Points](concepts/USFederalismVetoPoints.md) — Institutional explanation for why U.S. health-care anger is hard to convert into nationwide reform.
+- [Vigilante Justice Universalization Risk](concepts/VigilanteJusticeUniversalizationRisk.md) — Risk that legitimating one private punishment licenses future actors with incompatible definitions of justice.
+- [Populist Democratic Energy](concepts/PopulistDemocraticEnergy.md) — Non-dismissive reading of populist anger as a democratic signal that can renew institutions or be captured by shortcuts.
+- [Capital Punishment Retribution Problem](concepts/CapitalPunishmentRetributionProblem.md) — Death-penalty argument about lex talionis, irreversibility, state violence, and sentencing contingency.
 - [Chinese Zodiac / 十二生肖](concepts/ChineseZodiac.md) — Animal-cycle frame used by the dragon and horse episodes to connect timekeeping, folklore, animal symbolism, and origin-evidence caution.
 - [Chinese Dragon Mythic Layering / 中国龙神话层累](concepts/ChineseDragonMythicLayering.md) — Episode 127 frame for reading dragon imagery as accumulated shape, weather, water, ritual, Buddhist, imperial, and folk layers.
 - [Chinese Dragon Imperial Symbolism / 中国龙的皇权符号化](concepts/ChineseDragonImperialSymbolism.md) — Gradual process by which dragon imagery became a dense imperial visual marker through vehicles, robes, bans, imitation, and Qing court display.

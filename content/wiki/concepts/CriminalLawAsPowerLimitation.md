@@ -2,7 +2,7 @@
 title: "Criminal Law As Power Limitation"
 type: concept
 tags: [law, criminal-law, state-power, rights]
-sources: [100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302]
+sources: [sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302]
 last_updated: 2026-07-24
 ---
 
@@ -12,11 +12,14 @@ Criminal law as power limitation is the episode's central institutional claim in
 
 The source uses [[MagnaCarta|Magna Carta / 大宪章]], wrongful-death historical examples, and [[RichardJewell|Richard Jewell / 理查德·朱维尔]] to make this visible. When crowds demand punishment or state institutions move too confidently, legal professionals need procedures, defense, evidence, and proportionality to slow the machinery down.
 
+[[sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209]] adds a death-penalty and terrorism-charge extension. In the [[LuigiCaseSuspect|Luigi]] case, the source asks whether the state can answer a politically charged killing with capital punishment without turning criminal law into a fear-producing display of state violence.
+
 ## Key Claims
 - The state must be able to punish, but criminal law exists partly because state punishment is itself a danger.
 - Defense of unpopular defendants is a rule-of-law function, not sympathy for crime.
 - Public anger can make procedural restraint look like weakness, even when restraint is the thing protecting everyone.
 - Historical and media-driven miscarriages show why suspicion should not become punishment before lawful judgment.
+- The death penalty intensifies the power-limitation problem because legal error, public pressure, and political symbolism cannot be repaired after execution.
 
 ## Connections
 - [[LegalParadoxThinking]] - broader reasoning frame.
@@ -25,3 +28,4 @@ The source uses [[MagnaCarta|Magna Carta / 大宪章]], wrongful-death historica
 - [[JudicialIndependencePublicOpinion]] and [[PardonAsStatePower]] - existing wiki law-and-state pages.
 - [[InternetMoralTrial]] - public-fury and informal-punishment neighbor.
 - [[MagnaCarta]] and [[RichardJewell]] - examples used by the source.
+- [[CapitalPunishmentRetributionProblem]], [[VigilanteJusticeUniversalizationRisk]], and [[LuigiCaseSuspect]] - sp.04 extension around state and private violence.

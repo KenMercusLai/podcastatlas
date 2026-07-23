@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-24] ingest | sp.04 【刘擎x林垚】“枪杀医保巨头”案背后的思考(上)：关于民粹、私刑和死刑
+
+Added source page for the 蜜獾吃书 x 东腔西调 episode on the UnitedHealthcare CEO killing, U.S. health-insurance denial politics, federalism and veto points, populist democratic energy, vigilante justice, terrorism definitions, and capital punishment. Created pages for Liu Qing, Lin Yao, Dongqiang Xidiao, the Luigi case suspect, UnitedHealthcare, the Affordable Care Act, U.S. Health Insurance Denial Politics, U.S. Federalism Veto Points, Vigilante Justice Universalization Risk, Populist Democratic Energy, and Capital Punishment Retribution Problem; updated overview, index, 蜜獾吃书, 秦总, United States, Barack Obama, Political Assassination Ethics, Private Revenge And Modern Law, Punishment Theory Tradeoff, Criminal Law As Power Limitation, Law-Morality Boundary, and American Democratic Resilience. No direct contradiction found; the source extends prior assassination and law-philosophy pages by keeping public sympathy for unlawful violence distinct from legal justification, and by comparing private punishment with the state's irreversible power to execute.
+
 ## [2026-07-24] ingest | 125. 马拉之死：卑鄙的暗杀，或正义的处决？
 
 Added source page for the 蜜獾吃书 episode on Jean-Paul Marat, Charlotte Corday, David's The Death of Marat, the French Revolution, Girondins, Jacobins, Robespierre, Danton, the September Massacres, Lavoisier, Thomas Paine, revolutionary terror, martyrdom image-making, science under revolutionary suspicion, and the ethics of political assassination. Created pages for Jean-Paul Marat, Charlotte Corday, the French Revolution, Girondins, Jacobin Club, Maximilien Robespierre, Georges Danton, Jacques-Louis David, The Death of Marat, Antoine Lavoisier, September Massacres, Thomas Paine, Political Assassination Ethics, Revolutionary Terror Politics, Revolutionary Martyrdom Image-Making, Science Under Revolutionary Suspicion, and Revolutionary Virtue Politics; updated overview, index, 蜜獾吃书, Caesar Assassination, Marcus Brutus, Tyrannicide Republican Dilemma, Republican Memory Against Dictatorship, Private Revenge And Modern Law, Power-Violence Distinction, Historical Memory Contest, Moral Suspension In Art Reading, Female Revenge And Political Order, Post-Victory Oppression Risk, and Jean-Jacques Rousseau. No direct contradiction found; the source extends the Caesar assassination branch by showing that Corday's killing of Marat can be politically legible while still unlawful, dangerous, and unable by itself to repair the institutions that allowed revolutionary terror.
@@ -4375,6 +4379,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-24] ingest | 127. 闲聊十二生肖之龙：神奇动物在哪里
 
 Added source page for the 蜜獾吃书 zodiac-dragon episode on the contested origins of 十二生肖, early Chinese dragon layering, rain rituals, Buddhist dragon-king material, imperial dragon robes and objects, the Qing dragon flag, Dragon translation, European image circulation, totemist nationalism, Wen Yiduo, Shi Aidong's 《中国龙的发明》, and the popularization of 《龙的传人》. Created pages for Chinese Dragon, Qing Dragon Flag, Shi Aidong, 《中国龙的发明：近现代中国形象的域外变迁》, Wen Yiduo, 《龙的传人》, Chinese Zodiac, Chinese Dragon Mythic Layering, Chinese Dragon Imperial Symbolism, Dragon National Symbol Invention, Cross-Cultural Dragon Translation, and Totemism And Nationalism; updated overview, index, 蜜獾吃书, Myth As Historical Evidence, Mythic Source Layering, Story Motif Transmission, Chinese Folk Religion Layering, Folklore As Social Memory, and Historical Memory Contest. No direct contradiction found; the source extends the wiki's folklore-method and historical-memory branches by showing how a symbol can preserve old mythic and imperial material while acquiring its national meaning through modern media, translation, flags, scholarship, and political need.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-24] lint | Wiki health check
 
