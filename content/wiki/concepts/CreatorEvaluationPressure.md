@@ -2,8 +2,8 @@
 title: "Creator Evaluation Pressure"
 type: concept
 tags: [creators, attention, reviews, media, psychology]
-sources: [xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655]
-last_updated: 2026-07-15
+sources: [sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655]
+last_updated: 2026-07-24
 ---
 
 # Creator Evaluation Pressure
@@ -14,6 +14,8 @@ The episode's useful point is that evaluation pressure is not only criticism. Ab
 
 [[xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770]] adds the celebrity and actor version through [[ZhaoLusi|赵露思]]. The episode argues that public figures can be materially successful and still vulnerable to comment storms, malicious interpretation, CP-fandom pressure, and the demand to keep performing [[LiveHumanFeeling|活人感]] under scrutiny.
 
+[[sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708]] adds the reading-creator version. [[QinZong|秦总]], [[LiWuya|李乌鸦]], and [[ChaoGe|超哥]] discuss how book choice, comments, platform recommendation, and familiar IP shape data, while also insisting that [[BookCreatorWork]] cannot be reduced to chasing the loudest audience. The source links creator pressure to [[AlgorithmicAngerEngagement]] and to the choice between authority performance and [[BridgeStyleReadingContent]].
+
 ## Key Claims
 - Creators can understand that online reviews are not objective and still lose time, mood, and confidence to them.
 - Negative reviews often have strong traffic incentives, which gives creators a distorted but hard-to-ignore mirror.
@@ -22,6 +24,7 @@ The episode's useful point is that evaluation pressure is not only criticism. Ab
 - "Not caring" can itself become competitive when public culture turns relaxation, refusal, or "摆烂" into another comparison.
 - Stepping back to a smaller or slower venue can be a practical way to recover craft from evaluation loops.
 - Fame and income do not cancel the psychological cost of being continuously evaluated by strangers.
+- For book creators, data is partly book-dependent: known titles and familiar disputes can outperform unfamiliar works before the creator has said anything especially good or bad.
 
 ## Connections
 - [[Xiaojia|小佳]] - source case for review, hot-search, and sales pressure.
@@ -31,3 +34,4 @@ The episode's useful point is that evaluation pressure is not only criticism. Ab
 - [[AppStoreRatingsAndReviews]] - adjacent wiki concept showing how review systems shape product trust and behavior in another domain.
 - [[AttentionIndustrialization]] - broader pattern where attention becomes systematized, measurable, and difficult to exit.
 - [[ZhaoLusi|赵露思]], [[LiveHumanFeeling]], and [[InternetMoralTrial]] - celebrity-publicness extension.
+- [[BookCreatorWork]], [[AlgorithmicAngerEngagement]], and [[BridgeStyleReadingContent]] - reading-creator extension from the sp.06 crossover.

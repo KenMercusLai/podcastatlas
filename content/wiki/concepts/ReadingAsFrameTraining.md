@@ -2,8 +2,8 @@
 title: "Reading As Frame Training"
 type: concept
 tags: [reading, cognition, learning]
-sources: [dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]
-last_updated: 2026-07-12
+sources: [sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]
+last_updated: 2026-07-24
 ---
 
 # Reading As Frame Training
@@ -18,6 +18,8 @@ The same frame extends to people. Friends, books, authors, and conversations are
 
 [[49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]] adds a literary, non-AI version through [[QinZong|秦总]] and [[LiWuya|李乌鸦]]. Their discussion treats guidebooks, plot summaries, public discussion, memory failure, and original-text detail as different levels of contact with a book. The source sharpens the boundary between extracting a frame and actually entering a work's texture, making [[ReadingAsLifeExperience]] and [[ClassicReadingComplexity]] part of frame training rather than distractions from it.
 
+[[sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708]] adds the public-output version through [[OutputForcedInput]]. A reading program can force frame training because the creator must explain what the book is doing, what angle matters, and what audience can follow. The source also warns that output pressure can become deadline panic or data chasing if it loses contact with curiosity and reader fit.
+
 ## Key Claims
 
 - Remembering examples is remembering `X`; remembering conclusions is remembering `FX`; gaining a useful frame is learning `F`.
@@ -28,6 +30,7 @@ The same frame extends to people. Friends, books, authors, and conversations are
 - The goal is not a universal reading schedule; people should adapt reading methods to their own life context and attention.
 - Frame collection can loosen attachment to any one viewpoint by making each perspective visible as a partial projection.
 - Literary frame training still depends on original scenes, reader timing, and embodied attention; summary can point toward a book but cannot replace its texture.
+- Public output can reveal whether a reader actually grasped a book's frame, but it does not prove permanent memory or expert authority.
 
 ## Connections
 
@@ -38,4 +41,5 @@ The same frame extends to people. Friends, books, authors, and conversations are
 - [[HumanAgencyUnderAI]] — deciding what kind of frame to train is part of choosing how to live.
 - [[PersonalKnowledgeEcology]] — notes, shelves, and whiteboards preserve and recombine frames.
 - [[LiJigang]], [[AIAssistedReading]], [[FeedCuration]], and [[WetStateHumanAgency]] — E45's frame-collection and input-training extension.
+- [[OutputForcedInput]], [[BookCreatorWork]], and [[CultureLimited|《文化有限》]] - sp.06 public-output and reading-program extension.
 - [[ReadingAsLifeExperience]], [[ClassicReadingComplexity]], and [[NonInstrumentalLiteraryReading]] — literary-reading extension added by the Li Wuya episode.

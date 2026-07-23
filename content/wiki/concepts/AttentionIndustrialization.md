@@ -2,7 +2,7 @@
 title: "Attention Industrialization"
 type: concept
 tags: [attention, media, ai, platforms]
-sources: [123-renxing-shiyan-dangxin-ni-ziji-779479569, tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
+sources: [sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708, 123-renxing-shiyan-dangxin-ni-ziji-779479569, tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
 last_updated: 2026-07-24
 ---
 
@@ -20,6 +20,8 @@ The concept connects platform incentives to AI risk. The danger is not only that
 
 [[123-renxing-shiyan-dangxin-ni-ziji-779479569]] adds a persuasion-mechanics version. The source argues that noisy, colorful, fast-switching media can increase gullibility because rejecting false information requires attention; spectacle and speed are not only style, but part of the cognitive environment.
 
+[[sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708]] adds a book-creator version through [[AlgorithmicAngerEngagement]]. The speakers argue that unfamiliar books require digestion, while familiar topics and anger invite faster comments. That makes platform attention a topic-selection pressure for [[BookCreatorWork]], and it gives long audio and books a defensive role because they preserve slower context.
+
 ## Key Claims
 - "Free" algorithmic services often carry a hidden price in attention and behavioral shaping.
 - Industrialized mental food can be abundant while still being low quality.
@@ -30,6 +32,7 @@ The concept connects platform incentives to AI risk. The danger is not only that
 - Vol.102 adds that industrialized attention can harm relationships by making social labels easier to consume than complex people.
 - Digital detox tools are another countermeasure, but the source cautions that they can reproduce dashboards, streaks, and social metrics from the same attention systems they resist.
 - Source 123 adds that distraction can make false claims stick even when they are marked as false, which turns presentation pace into an epistemic risk.
+- The sp.06 source adds that algorithmic attention can make creators choose recognizable or anger-generating books and angles even when slower curiosity would better serve reading.
 
 ## Connections
 - [[AIUsePacing]] — individual discipline for limiting AI-created work and information consumption.
@@ -41,3 +44,4 @@ The concept connects platform incentives to AI risk. The danger is not only that
 - [[AlgorithmicLabeling]], [[EmpathyBoundaries]], and [[SocialTrustAndHappiness]] - vol.102's social-relationship extension.
 - [[DigitalDetoxEconomy]], [[ScreenTimeFriction]], [[Clearspace]], and [[AddictiveInteractionDesign]] - Marketplace Tech branch on paid counter-design against phone overuse.
 - [[GilbertSpinozaHypothesis]], [[EmotionalContagion]], [[Deindividuation]], and [[OutrageTriggeredSkepticism]] - source-123 social-psychology extensions.
+- [[AlgorithmicAngerEngagement]], [[BookCreatorWork]], and [[ReadingAsCognitiveRestoration]] - book-creator and long-form reading extension from sp.06.

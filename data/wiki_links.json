@@ -1855,6 +1855,10 @@
     "title": "Alfred 林童雨",
     "url": "/wiki/entities/alfredlintongyu/"
   },
+  "AlgorithmicAngerEngagement": {
+    "title": "Algorithmic Anger Engagement",
+    "url": "/wiki/concepts/algorithmicangerengagement/"
+  },
   "AlgorithmicLabeling": {
     "title": "Algorithmic Labeling",
     "url": "/wiki/concepts/algorithmiclabeling/"
@@ -3331,6 +3335,14 @@
     "title": "Boeing",
     "url": "/wiki/entities/boeing/"
   },
+  "BookAsGraveMemoryWork": {
+    "title": "Book As Grave Memory Work",
+    "url": "/wiki/concepts/bookasgravememorywork/"
+  },
+  "BookCreatorWork": {
+    "title": "Book Creator Work",
+    "url": "/wiki/concepts/bookcreatorwork/"
+  },
   "BookOfRevelation": {
     "title": "《启示录》 / Book of Revelation",
     "url": "/wiki/entities/bookofrevelation/"
@@ -3462,6 +3474,10 @@
   "BridgeLoadCapacity": {
     "title": "Bridge Load Capacity",
     "url": "/wiki/concepts/bridgeloadcapacity/"
+  },
+  "BridgeStyleReadingContent": {
+    "title": "Bridge-Style Reading Content",
+    "url": "/wiki/concepts/bridgestylereadingcontent/"
   },
   "BridgewaterAssociates": {
     "title": "Bridgewater Associates",
@@ -5410,6 +5426,10 @@
   "CultureLedFoodAdoption": {
     "title": "Culture-Led Food Adoption",
     "url": "/wiki/concepts/cultureledfoodadoption/"
+  },
+  "CultureLimited": {
+    "title": "文化有限",
+    "url": "/wiki/entities/culturelimited/"
   },
   "CultureWineCompany": {
     "title": "Culture Wine Company",
@@ -8487,6 +8507,10 @@
     "title": "Gendered Age Anxiety",
     "url": "/wiki/concepts/genderedageanxiety/"
   },
+  "GenderedCreatorConfidence": {
+    "title": "Gendered Creator Confidence",
+    "url": "/wiki/concepts/genderedcreatorconfidence/"
+  },
   "GenderedDomesticHorror": {
     "title": "Gendered Domestic Horror / 性别化家庭恐怖",
     "url": "/wiki/concepts/gendereddomestichorror/"
@@ -9022,6 +9046,10 @@
   "GuoMoruo": {
     "title": "郭沫若",
     "url": "/wiki/entities/guomoruo/"
+  },
+  "GuomaiCulture": {
+    "title": "果麦文化 / Guomai Culture",
+    "url": "/wiki/entities/guomaiculture/"
   },
   "GurneySeymour": {
     "title": "Gurney Seymour / 高尔尼·西摩尔",
@@ -12739,6 +12767,10 @@
     "title": "Luo Yonghao",
     "url": "/wiki/entities/luoyonghao/"
   },
+  "LuojiSiwei": {
+    "title": "罗辑思维",
+    "url": "/wiki/entities/luojisiwei/"
+  },
   "LusunTeleprompter": {
     "title": "芦笋提词器",
     "url": "/wiki/entities/lusunteleprompter/"
@@ -15023,6 +15055,10 @@
     "title": "Outlier-Driven Angel Investing",
     "url": "/wiki/concepts/outlierdrivenangelinvesting/"
   },
+  "OutputForcedInput": {
+    "title": "Output-Forced Input",
+    "url": "/wiki/concepts/outputforcedinput/"
+  },
   "OutputQualityGates": {
     "title": "Output Quality Gates",
     "url": "/wiki/concepts/outputqualitygates/"
@@ -16622,6 +16658,10 @@
   "ReactNative": {
     "title": "React Native",
     "url": "/wiki/entities/reactnative/"
+  },
+  "ReadingAsCognitiveRestoration": {
+    "title": "Reading As Cognitive Restoration",
+    "url": "/wiki/concepts/readingascognitiverestoration/"
   },
   "ReadingAsDimensionalExpansion": {
     "title": "Reading As Dimensional Expansion",
@@ -18234,6 +18274,10 @@
   "ShuliangHe": {
     "title": "叔梁纥",
     "url": "/wiki/entities/shulianghe/"
+  },
+  "ShulouDodo": {
+    "title": "《书楼吊堂》",
+    "url": "/wiki/entities/shuloudodo/"
   },
   "Shunde": {
     "title": "Shunde / 顺德",
@@ -23378,6 +23422,10 @@
   "sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978": {
     "title": "sp.05 【刘擎x林垚】\\\"枪杀医保巨头\\\"案背后的思考（下）：分裂的美国会有宪政危机吗？",
     "url": "/wiki/sources/sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978/"
+  },
+  "sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708": {
+    "title": "sp.06 串台｜和李乌鸦＆超哥 high 聊：做读书博主的“守墓心得”",
+    "url": "/wiki/sources/sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708/"
   },
   "starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1": {
     "title": "Starmergeddon: British PM resigns",

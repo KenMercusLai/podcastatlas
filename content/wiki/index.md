@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [sp.06 串台｜和李乌鸦＆超哥 high 聊：做读书博主的“守墓心得”](sources/sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708.md) — 蜜獾吃书 crossover with 李乌鸦 and 超哥 on book creator work, topic choice, platform data, bridge-style reading content, creator confidence, and books as grave-like memory sites.
 - [133. IBM与纳粹：为什么普通人不应赞美鸡贼主义](sources/133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110.md) — 蜜獾吃书 episode on IBM, Dehomag, punched-card administration, Nazi population control, Thomas J. Watson, corporate complicity, Rene Carmille's sabotage, and why ordinary people should not romanticize clever opportunism or appeasement.
 - [132.争论与说服：我们为什么吵架，怎么才算赢？](sources/132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318.md) — 蜜獾吃书 episode on David McRaney's 《争论与说服》 / How Minds Change, online argument, subjective reality, cognitive inertia, tribal truth, group polarization, ELM, deep canvassing, and naming as social change.
 - [131.“日常之谜”推理：是我未能说出口的真心](sources/131-richang-zhimi-tuili-shi-wo-wei-neng-shuo-chukou-de-zhenxin-805617229.md) — 蜜獾吃书 episode on 日常推理 / 日常之谜 through 《仙人掌之花》, 加纳朋子《玻璃长颈鹿》, 米泽穗信《小市民》, hidden feelings, trauma guilt, and dessert-clue play.
@@ -552,6 +553,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [文化有限](entities/CultureLimited.md) — Reading-oriented program described by 超哥 as using books to sustain long-term conversation and output-forced input.
+- [果麦文化 / Guomai Culture](entities/GuomaiCulture.md) — Publishing context for 秦总's path from editing anxiety and livestreaming toward reader-facing book media.
+- [罗辑思维](entities/LuojiSiwei.md) — Knowledge-media context in 超哥's path before 《文化有限》 and public reading discussion.
+- [《书楼吊堂》](entities/ShulouDodo.md) — 京极夏彦 work invoked for the metaphor that books are grave-like places of memory and return.
 - [Thomas J. Watson / 托马斯·沃森](entities/ThomasJWatson.md) — IBM executive used by episode 133 to examine business strategy, Nazi cooperation, trade rhetoric, reputation management, and corporate complicity.
 - [Herman Hollerith / 赫尔曼·霍尔瑞斯](entities/HermanHollerith.md) — Punched-card tabulation inventor whose census technology becomes the starting point for episode 133's data-administration branch.
 - [Dehomag / 德霍梅格](entities/Dehomag.md) — IBM-controlled German Hollerith subsidiary through which episode 133 connects punched-card services to Nazi administrative violence.
@@ -1418,7 +1423,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ishikawa Takuboku / 石川啄木](entities/IshikawaTakuboku.md) — Japanese poet read through short songs that capture fatigue, resentment, tenderness, politics, and ordinary life moments.
 - [《短歌是我悲伤的玩具》](entities/DuanGeShiWoBeishangDeWanju.md) — New Takuboku collection promoted in the episode as emotional language for sensitive, exhausted, and publicly judged readers.
 - [Han Zhao / 韩昭](entities/HanZhao.md) — Translator of 《短歌是我悲伤的玩具》 and independent-bookstore operator named by the source.
-- [超哥](entities/ChaoGe.md) — 有问题呀 voice in the crossover, bringing a partly outsider view of Zhao Lusi discourse and a reader response to Takuboku.
+- [超哥](entities/ChaoGe.md) — Reading-media voice whose wiki role spans the Zhao Lusi/Takuboku crossover and the sp.06 discussion of 《文化有限》, output-forced input, literary evaluation anxiety, and reading as cognitive restoration.
 - [有问题呀](entities/YouWenTiYa.md) — Crossover podcast context for the episode with 蜜獾吃书.
 - [Qixi / 七夕](entities/QixiFestival.md) — Lunar seventh-day festival read by episode 152 as a layered system of star lore, 乞巧, book airing, urban markets, local worship, romance, and cross-cultural exchange.
 - [Cowherd and Weaver Girl / 牛郎织女](entities/CowherdAndWeaverGirl.md) — Qixi legend treated by episode 152 as a composite of star-crossed astronomy and the wider hidden-garment Swan Maiden motif.
@@ -1930,7 +1935,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mwindo Epic](entities/MwindoEpic.md) — Central African oral heroic epic discussed by episode 147 through child heroism, succession conflict, underworld pursuit, reconciliation, and animal respect.
 - [角田光代 / Mitsuyo Kakuta](entities/KakutaMitsuyo.md) — Japanese author whose novel 《37》 is used by episode 63 to think through midlife, marriage refusal, career divergence, and adult uncertainty.
 - [《37》](entities/ThirtySeven.md) — Kakuta Mitsuyo novel used by episode 63 as a midlife mirror for unmarried life, career forks, mother-daughter understanding, and unresolved choice.
-- [李乌鸦](entities/LiWuya.md) — Book creator and guest in the 蜜獾吃书 first-anniversary episode on reading habits, classics, shame, solitude, and non-instrumental literary value.
+- [李乌鸦](entities/LiWuya.md) — Book creator and guest across 蜜獾吃书 meta-reading episodes, linking reading habits, classics, public expression, creator work, bridge-style book talk, and gendered confidence.
 - [日谈](entities/Ritan.md) — Crossover context for the episode bringing Hookie, 殷姐, and 秦总 together for a Women's Day life-design conversation.
 - [Hookie](entities/Hookie.md) — Host in the restart-life episode, linking life-science career redirection, pet grief, school confidence, and learning capacity.
 - [殷姐](entities/YinJie.md) — Host in the restart-life episode, linking Mexico hospitality life, recruiting regret, self-consistency, learning capacity, and non-attachment.
@@ -3671,6 +3676,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Book Creator Work](concepts/BookCreatorWork.md) — Labor of turning books into public explanation, recommendation, conversation, or performance under deadlines, media constraints, audience fit, and platform data.
+- [Bridge-Style Reading Content](concepts/BridgeStyleReadingContent.md) — Book talk that helps people approach or resume reading without requiring the creator to perform maximum literary authority.
+- [Algorithmic Anger Engagement](concepts/AlgorithmicAngerEngagement.md) — Platform pattern where interaction optimization rewards familiar topics, outrage, and commentable conflict.
+- [Gendered Creator Confidence](concepts/GenderedCreatorConfidence.md) — Pattern where social training shapes who feels allowed to speak, publish, and claim interpretive authority.
+- [Output-Forced Input](concepts/OutputForcedInput.md) — Using a public output obligation to make reading, learning, and comprehension more serious.
+- [Reading As Cognitive Restoration](concepts/ReadingAsCognitiveRestoration.md) — Reading as attention repair, mood regulation, and cognitive training rather than only knowledge acquisition.
+- [Book As Grave Memory Work](concepts/BookAsGraveMemoryWork.md) — Reading metaphor where books are grave-like memory sites and book creators help readers return to past connections.
 - [Punched Card Administration / 打孔卡行政](concepts/PunchedCardAdministration.md) — Episode 133 frame for customized tabulation machines, cards, programs, operators, and maintenance as administrative infrastructure.
 - [Data-Enabled Persecution / 数据化迫害](concepts/DataEnabledPersecution.md) — Pattern where identity records, classification, and retrieval systems make political persecution more scalable and lethal.
 - [Corporate Complicity With Authoritarianism / 企业对威权的共谋](concepts/CorporateComplicityWithAuthoritarianism.md) — Episode 133 concept for business participation in abusive regimes through trade, subsidiaries, services, and reputation management.
