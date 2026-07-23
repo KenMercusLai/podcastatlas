@@ -8,7 +8,8 @@ sources:
   - yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f
   - zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew
   - shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud
-last_updated: 2026-07-09
+  - openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z
+last_updated: 2026-07-23
 ---
 
 # 42章经
@@ -25,6 +26,8 @@ The EVE episode adds a consumer companion branch through [[Tristan]], [[NaturalS
 
 The Wei Xiaokang episode adds a founder-organization and recruiting branch through [[WeiXiaokang]], [[ByteDance]], and [[Meituan]]. It connects [[BusinessModelOrganizationFit]], [[RecruitingSupplyStrategy]], [[ReferenceCheckHiring]], and [[AIRecruitingSourcing]] into a practical early-startup organization method, while qualifying [[OnePersonCompany]] optimism with a small-team view of AI-era company building.
 
+The Wang Wenfeng episode adds a post-[[OpenClaw]] agent-product branch through [[WangWenfeng]] and [[Sheet0]]. It connects [[CodingAgentAsUniversalActionLayer]], [[AIManagingAI]], [[AgentHarness]], [[AgenticWorkflow]], [[AISkills]], and [[AINativeSaaSThreat]] into a short-cycle startup thesis: follow the next three to six months of real agent-use bottlenecks rather than overbuilding for a distant terminal state.
+
 ## Connections
 - [[ZhuNing]] — guest economist in the episode.
 - [[BubbleNecessaryConditions]], [[BehavioralInvestingBiases]], and [[SpeculativeBubblePsychology]] — main behavioral-finance frame.
@@ -37,3 +40,4 @@ The Wei Xiaokang episode adds a founder-organization and recruiting branch throu
 - [[Tristan]], [[NaturalSelection]], and [[EVE]] — AI companion-product case.
 - [[AIFriendProducts]], [[AICompanionActiveMemory]], and [[EmotionalInteractionModels]] — companion design themes added by the EVE episode.
 - [[WeiXiaokang]], [[BusinessModelOrganizationFit]], [[RecruitingSupplyStrategy]], [[ReferenceCheckHiring]], and [[AIRecruitingSourcing]] — organization and recruiting branch added by the Wei Xiaokang episode.
+- [[WangWenfeng]], [[Sheet0]], [[AIManagingAI]], and [[CodingAgentAsUniversalActionLayer]] — post-OpenClaw coding-agent and AI-managed-workflow branch.

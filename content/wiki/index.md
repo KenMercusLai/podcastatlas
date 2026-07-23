@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [OpenClaw 之后，我只想未来 3-6 个月的事情｜对谈 Sheet0 创始人王文锋](sources/openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z.md) — 42章经 episode with Wang Wenfeng on OpenClaw, coding agents as a general action layer, Sheet0's AI-managing-AI pivot, agent harnesses, token budgets, and short-cycle startup judgment.
 - [02.离婚：郭德纲都不如老舍有意思](sources/02-lihun-guodegang-dou-buru-laoshe-youyisi-525913046.md) — 蜜獾吃书 episode rereading 老舍《离婚》 through controlled humor, Beiping office life, marriage suffocation, 张大哥式体面秩序, 丁二的行动, and ordinary escape courage.
 - [01.麦田守望者：20世纪的美国贾宝玉](sources/01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422.md) — 蜜獾吃书 episode rereading 《麦田里的守望者》 through Holden as a 20th-century American Jia Baoyu, Salinger biography, adolescent alienation, and later youth-culture/media afterlives.
 - [E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI](sources/e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923.md) — 硅谷101 episode with Creo's Peter, Chen Kai, and Clark on Harness Engineering, AI-first organization design, agent-driven development, verification, go-to-market bottlenecks, and moving from trusting people to governed trust in AI.
@@ -494,6 +495,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Sheet0](entities/Sheet0.md) — AI-agent startup founded by Wang Wenfeng, now productizing an internal AI-managed engineering workflow from tasks to tests and GitHub PRs.
+- [王文锋 / Wang Wenfeng](entities/WangWenfeng.md) — Sheet0 founder arguing that coding agents can become a general action layer and that AI-managed AI workflows are the next short-cycle bottleneck.
 - [J. D. Salinger / 塞林格](entities/JDSalinger.md) — Author of 《麦田里的守望者》, framed through adult craft, wartime experience, reclusion, publishing control, and bounded literary gossip.
 - [《麦田里的守望者》 / The Catcher in the Rye](entities/TheCatcherInTheRye.md) — Salinger novel read as a sensitive adolescent-alienation text, an American Jia Baoyu comparison, and a youth-culture symbol.
 - [Holden Caulfield / 霍尔顿](entities/HoldenCaulfield.md) — Protagonist of 《麦田里的守望者》, read as a tender but alienated youth resisting adult phoniness.
@@ -3194,6 +3197,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Managing AI](concepts/AIManagingAI.md) — Pattern where a meta-level agent collects requirements, delegates or configures other agents, watches feedback, and hands completed work to humans for final review.
+- [Coding Agent As Universal Action Layer](concepts/CodingAgentAsUniversalActionLayer.md) — Thesis that coding agents extend beyond programming because code, files, CLIs, APIs, and skills let agents act across digital workflows.
 - [American Jia Baoyu Comparison](concepts/AmericanJiaBaoyuComparison.md) — Cross-cultural reading that makes Holden legible through 贾宝玉 while preserving differences between postwar America and 红楼梦's family order.
 - [Adolescent Alienation Recognition](concepts/AdolescentAlienationRecognition.md) — Frame for teenage anger as a need for recognition, tenderness, and protection rather than only rebellion or violence.
 - [Literary Subculture Symbolization](concepts/LiterarySubcultureSymbolization.md) — Reception pattern where a literary work becomes a portable youth-culture sign, media reference, or pose beyond the original reading experience.

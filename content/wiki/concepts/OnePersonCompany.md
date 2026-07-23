@@ -2,7 +2,7 @@
 title: "One-Person Company"
 type: concept
 tags: [ai, entrepreneurship, company-formation, sales]
-sources: [1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7]
+sources: [openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7]
 last_updated: 2026-07-23
 ---
 
@@ -24,6 +24,8 @@ The legal discussion matters because "one person" does not make company obligati
 
 [[e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70]] adds a cross-border physical-commerce version through [[ZhangKuo]] and [[Axio]]. The source is more optimistic about one-person business reach when agents can cover sourcing, product design, supplier matching, storefront operation, inventory, customer service, finance, payroll, tax, and logistics; the constraint is that those agents need trustworthy platform data, long memory, permission boundaries, and business feedback.
 
+[[openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z]] adds [[WangWenfeng]]'s token-budget and negative-feedback caveat. He accepts that a founder or small team may spend $100,000 to $200,000 on AI in place of hiring several engineers, but he also notes that mass labor displacement could reduce consumption demand and feed back into upstream businesses. The source therefore keeps the one-person-company idea inside a short three-to-six-month planning horizon rather than a settled social endpoint.
+
 ## Key Claims
 - AI-era OPC should not be reduced to company registration; it is a claim about whether one person can run the business loop.
 - A one-person legal structure may still need careful account separation, tax handling, and documentation to preserve the intended liability boundary.
@@ -39,6 +41,7 @@ The legal discussion matters because "one person" does not make company obligati
 - The S10E14 Gumroad source adds a customer-experience boundary: even a highly automated creator platform may choose a tiny team over a literal solo company so human support, sales, and operating judgment remain available.
 - The Wei Xiaokang source adds a small-team counterweight: AI reduces headcount needs, but strong human owners remain necessary for key business directions, recruiting, judgment, and coordination.
 - E231 adds the physical-commerce enablement path: a solo operator can reach global suppliers and customers only when agents are tied to real sourcing, fulfillment, finance, and support infrastructure.
+- The Sheet0 source adds a token-budget caveat: an AI-enabled individual can resemble a small engineering team economically, but the wider demand-side effects of replacing labor remain uncertain.
 
 ## Connections
 - [[WhatsNextKejiZaozhidao]], [[YuYi]], [[CangShifu]], [[AmazonWebServices]], and [[FromIdeaToFrontier]] — S10E18's show, guest, and accelerator context.
@@ -56,3 +59,4 @@ The legal discussion matters because "one person" does not make company obligati
 - [[PaymentLedMarketSelection]] — Win source that reframes overseas setup as market discovery and payment-path selection.
 - [[WeiXiaokang]], [[AIOrganizationDesign]], [[RecruitingSupplyStrategy]], and [[BusinessModelOrganizationFit]] — small-team counterweight added by the 42章经 episode.
 - [[ZhangKuo]], [[Axio]], [[B2BToA2A]], [[AgenticB2BSourcing]], and [[AIAsBusinessOperator]] — cross-border B2B operator path added by E231.
+- [[Sheet0]], [[WangWenfeng]], [[AIInferenceCostStructure]], and [[TokenMaxxing]] — high-token small-team and one-person-company caveat added by the 42章经 source.

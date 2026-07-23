@@ -2,8 +2,8 @@
 title: "Token Maxxing"
 type: concept
 tags: [ai, tokens, economics, investing]
-sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
-last_updated: 2026-07-08
+sources: [openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
+last_updated: 2026-07-23
 ---
 
 # Token Maxxing
@@ -14,6 +14,8 @@ The concept extends [[AIInferenceCostStructure]] and [[AIInvestmentMetrics]]. To
 
 [[136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]] adds a revenue-concentration version. The source argues that heavy users of [[ClaudeCode]], [[Codex]], and other agentic coding tools may generate enough Token Usage to matter more than large consumer-assistant user counts, because they are using tokens for high-value work rather than light chat.
 
+[[openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z]] adds an operator-budget version through [[Sheet0]]. [[WangWenfeng]]'s reported $20,000 monthly AI-coding spend is treated as acceptable only if it converts into a much faster engineering loop. The source therefore ties token maxxing to management discipline: a CEO still has to compare token burn with accepted output, review load, and whether the team member using the agents is actually becoming more effective.
+
 ## Key Claims
 - Total token use can rise because more users and workflows adopt AI even while individual tasks become more token-efficient.
 - A strong model can sometimes complete a coding task with less output and less repair work than a weaker model that generates many more tokens.
@@ -22,6 +24,7 @@ The concept extends [[AIInferenceCostStructure]] and [[AIInvestmentMetrics]]. To
 - Dollar-per-token alone is insufficient; operators need to ask whether the token produced a solved task, accepted answer, revenue event, or labor saving.
 - [[JevonsParadoxInAI]] can make optimization increase total demand when cheaper or better tokens invite more tasks into AI workflows.
 - Coding-agent users can be more important than consumer DAU if each token stream is tied to software output, research acceleration, or other high-value tasks.
+- Token budget can also become a customer-segmentation axis: an individual founder or tiny team spending like a software department may look more like an enterprise customer than a consumer account.
 
 ## Connections
 - [[AIInferenceCostStructure]] — serving-cost and workflow-cost base.
@@ -30,3 +33,4 @@ The concept extends [[AIInferenceCostStructure]] and [[AIInvestmentMetrics]]. To
 - [[ModelRoutingCostControl]] — practical response when different models spend tokens differently.
 - [[AgenticWorkflow]], [[Codex]], and [[ClaudeCode]] — agent and coding contexts where token consumption can expand quickly.
 - [[AGIThreeActs]], [[AIInvestmentMetrics]], and [[ModelAsOperatingSystem]] — episode 136's high-value Token Usage interpretation.
+- [[Sheet0]], [[WangWenfeng]], [[AIInferenceCostStructure]], and [[OnePersonCompany]] — operator-budget and high-output small-team case added by the 42章经 source.

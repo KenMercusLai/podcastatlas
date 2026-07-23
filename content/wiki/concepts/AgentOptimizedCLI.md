@@ -2,13 +2,15 @@
 title: "Agent-Optimized CLI"
 type: concept
 tags: [agents, cli, interfaces, software-design]
-sources: [ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax]
-last_updated: 2026-07-07
+sources: [openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax]
+last_updated: 2026-07-23
 ---
 
 # Agent-Optimized CLI
 
 Agent-optimized CLI is the [[ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax]] argument that command-line tools can be designed as first-class [[AgentFacingInterfaces]]. The [[Podwise]] case frames CLI as a composable text surface that is easier for agents to discover, invoke, debug, and chain than many API/SDK integrations, while still remaining directly testable by humans.
+
+[[openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z]] adds [[WangWenfeng]]'s infrastructure reading. He treats CLI as one of the interfaces that lets a model or container work naturally: MCP-like capabilities, local tools, code-agent kernels, permissions, and command-line actions can be packaged so agents can operate real systems without forcing every task through a human GUI.
 
 The episode's key distinction is that an agent-optimized CLI should not copy every SaaS screen into commands. It should expose stable atomic actions with clear input/output semantics, then let [[AISkills]], scripts, or an [[AgentHarness]] compose those actions into workflows.
 
@@ -32,6 +34,7 @@ The episode's key distinction is that an agent-optimized CLI should not copy eve
 - API-first architecture remains useful, but the CLI can be a real standard client rather than a thin wrapper.
 - The pattern complements [[HeadlessSoftware]]: GUI remains useful for review and trust, while CLI exposes the action surface.
 - The pattern also connects to [[TaskAsAService]] because users increasingly care about completed workflows rather than operating the app manually.
+- The Sheet0 source adds that CLI can be part of the harness for [[AIManagingAI]] when one agent needs to configure or call other agents and gather verifiable work output.
 
 ## Connections
 
@@ -42,3 +45,4 @@ The episode's key distinction is that an agent-optimized CLI should not copy eve
 - [[HeadlessSoftware]] — product-design thesis that software value should be reachable without forcing GUI use.
 - [[AIInferenceCostStructure]] — reason to move deterministic transformations into tools rather than repeat model calls.
 - [[OpenCloud]], [[ClaudeCode]], and [[Codex]] — agent environments where CLI and skills become usable by end users.
+- [[Sheet0]], [[WangWenfeng]], [[AIManagingAI]], and [[CodingAgentAsUniversalActionLayer]] — coding-agent and meta-agent infrastructure frame added by the 42章经 source.
