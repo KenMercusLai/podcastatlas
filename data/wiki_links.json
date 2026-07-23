@@ -19,6 +19,10 @@
     "title": "「1 亿 Token 俱乐部」挤爆了，AI 的燃料不够了：对谈于文渊",
     "url": "/wiki/sources/1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm/"
   },
+  "100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302": {
+    "title": "100.法律的悖论：谢天谢地，幸好我们还有罗翔",
+    "url": "/wiki/sources/100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302/"
+  },
   "107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818": {
     "title": "107.闲聊伟大导演们的八卦（第一弹）",
     "url": "/wiki/sources/107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818/"
@@ -4391,6 +4395,10 @@
     "title": "Collab Capital",
     "url": "/wiki/entities/collabcapital/"
   },
+  "CollateralPunishmentAndGuiltByAssociation": {
+    "title": "Collateral Punishment And Guilt By Association",
+    "url": "/wiki/concepts/collateralpunishmentandguiltbyassociation/"
+  },
   "CollegeCareerPreparation": {
     "title": "College Career Preparation",
     "url": "/wiki/concepts/collegecareerpreparation/"
@@ -4854,6 +4862,10 @@
   "Crimea": {
     "title": "Crimea",
     "url": "/wiki/entities/crimea/"
+  },
+  "CriminalLawAsPowerLimitation": {
+    "title": "Criminal Law As Power Limitation",
+    "url": "/wiki/concepts/criminallawaspowerlimitation/"
   },
   "CrisisForcedVerticalIntegration": {
     "title": "Crisis-Forced Vertical Integration",
@@ -7647,6 +7659,10 @@
     "title": "GSM Standardization",
     "url": "/wiki/concepts/gsmstandardization/"
   },
+  "GWFHegel": {
+    "title": "G. W. F. Hegel / 黑格尔",
+    "url": "/wiki/entities/gwfhegel/"
+  },
   "GabrielAttal": {
     "title": "Gabriel Attal",
     "url": "/wiki/entities/gabrielattal/"
@@ -9171,6 +9187,10 @@
     "title": "ImageNet",
     "url": "/wiki/entities/imagenet/"
   },
+  "ImmanuelKant": {
+    "title": "Immanuel Kant / 康德",
+    "url": "/wiki/entities/immanuelkant/"
+  },
   "ImmersiveTranslate": {
     "title": "Immersive Translate",
     "url": "/wiki/entities/immersivetranslate/"
@@ -9871,6 +9891,10 @@
     "title": "Jensen Huang",
     "url": "/wiki/entities/jensenhuang/"
   },
+  "JeremyBentham": {
+    "title": "Jeremy Bentham / 边沁",
+    "url": "/wiki/entities/jeremybentham/"
+  },
   "JeremyClarkson": {
     "title": "Jeremy Clarkson",
     "url": "/wiki/entities/jeremyclarkson/"
@@ -10122,6 +10146,14 @@
   "JohnPrideaux": {
     "title": "John Prideaux",
     "url": "/wiki/entities/johnprideaux/"
+  },
+  "JohnRawls": {
+    "title": "John Rawls / 罗尔斯",
+    "url": "/wiki/entities/johnrawls/"
+  },
+  "JohnStuartMill": {
+    "title": "John Stuart Mill / 穆勒",
+    "url": "/wiki/entities/johnstuartmill/"
   },
   "JohnTernus": {
     "title": "John Ternus",
@@ -10823,6 +10855,10 @@
     "title": "Lauren Menard",
     "url": "/wiki/entities/laurenmenard/"
   },
+  "LawMoralityBoundary": {
+    "title": "Law-Morality Boundary",
+    "url": "/wiki/concepts/lawmoralityboundary/"
+  },
   "LayeredRobotArchitecture": {
     "title": "Layered Robot Architecture",
     "url": "/wiki/concepts/layeredrobotarchitecture/"
@@ -10878,6 +10914,14 @@
   "LegalAIHallucination": {
     "title": "Legal AI Hallucination",
     "url": "/wiki/concepts/legalaihallucination/"
+  },
+  "LegalInterestIndividualReduction": {
+    "title": "Legal Interest Individual Reduction",
+    "url": "/wiki/concepts/legalinterestindividualreduction/"
+  },
+  "LegalParadoxThinking": {
+    "title": "Legal Paradox Thinking",
+    "url": "/wiki/concepts/legalparadoxthinking/"
   },
   "LegalRiskAcquirerFit": {
     "title": "Legal Risk Acquirer Fit",
@@ -11070,6 +11114,10 @@
   "LiberalDemocraticPartyJapan": {
     "title": "Liberal Democratic Party (Japan)",
     "url": "/wiki/entities/liberaldemocraticpartyjapan/"
+  },
+  "LiberalismPaternalismBoundary": {
+    "title": "Liberalism-Paternalism Boundary",
+    "url": "/wiki/concepts/liberalismpaternalismboundary/"
   },
   "LibertyMedia": {
     "title": "Liberty Media",
@@ -11559,6 +11607,10 @@
     "title": "Luo Fuli / 罗福莉",
     "url": "/wiki/entities/luofuli/"
   },
+  "LuoXiang": {
+    "title": "罗翔 / Luo Xiang",
+    "url": "/wiki/entities/luoxiang/"
+  },
   "LuoXuan": {
     "title": "罗玄 / Luo Xuan",
     "url": "/wiki/entities/luoxuan/"
@@ -11682,6 +11734,10 @@
   "MagicJack": {
     "title": "Magic / 杰克",
     "url": "/wiki/entities/magicjack/"
+  },
+  "MagnaCarta": {
+    "title": "Magna Carta / 大宪章",
+    "url": "/wiki/entities/magnacarta/"
   },
   "Magnify": {
     "title": "Magnify",
@@ -14883,6 +14939,10 @@
     "title": "Pulley",
     "url": "/wiki/entities/pulley/"
   },
+  "PunishmentTheoryTradeoff": {
+    "title": "Punishment Theory Tradeoff",
+    "url": "/wiki/concepts/punishmenttheorytradeoff/"
+  },
   "PupuSupermarket": {
     "title": "朴朴超市 / Pupu Supermarket",
     "url": "/wiki/entities/pupusupermarket/"
@@ -15578,6 +15638,10 @@
   "RichardIII": {
     "title": "Richard III / 理查三世",
     "url": "/wiki/entities/richardiii/"
+  },
+  "RichardJewell": {
+    "title": "Richard Jewell / 理查德·朱维尔",
+    "url": "/wiki/entities/richardjewell/"
   },
   "RichardNixon": {
     "title": "Richard Nixon",
@@ -18159,6 +18223,10 @@
     "title": "The Odyssey",
     "url": "/wiki/entities/theodyssey/"
   },
+  "TheParadoxOfLaw": {
+    "title": "《法律的悖论》 / The Paradox of Law",
+    "url": "/wiki/entities/theparadoxoflaw/"
+  },
   "ThePhilosopherAndTheWolf": {
     "title": "《哲学家与狼》 / The Philosopher and the Wolf",
     "url": "/wiki/entities/thephilosopherandthewolf/"
@@ -19034,6 +19102,10 @@
   "VectorModelEngineering": {
     "title": "Vector Model Engineering",
     "url": "/wiki/concepts/vectormodelengineering/"
+  },
+  "VeilOfIgnorance": {
+    "title": "Veil Of Ignorance",
+    "url": "/wiki/concepts/veilofignorance/"
   },
   "Venezuela": {
     "title": "Venezuela",

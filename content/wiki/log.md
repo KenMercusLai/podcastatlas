@@ -4187,3 +4187,11 @@ Added source page for a 蜜獾吃书 episode on 金庸 as culturally dense popul
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | 100.法律的悖论：谢天谢地，幸好我们还有罗翔
+
+Added source page for a 蜜獾吃书 episode on 罗翔《法律的悖论》, covering law and morality, criminal law as a limit on state power, punishment theory, criminal records and guilt by association, Rawls's veil of ignorance, Millian liberalism, paternalism, and legal interests. Created pages for Luo Xiang, 《法律的悖论》, John Rawls, John Stuart Mill, Jeremy Bentham, Immanuel Kant, G. W. F. Hegel, Magna Carta, Richard Jewell, Legal Paradox Thinking, Law-Morality Boundary, Criminal Law As Power Limitation, Punishment Theory Tradeoff, Collateral Punishment And Guilt By Association, Veil Of Ignorance, Liberalism-Paternalism Boundary, and Legal Interest Individual Reduction; updated overview, index, 蜜獾吃书, QinZong, Beimin, HanFei, ShangYang, Private Revenge And Modern Law, Judicial Independence And Public Opinion, Internet Moral Trial, Rational Humility, Sacrificing Others Ethics, and Legalist-Machiavelli Comparison. No direct contradiction found; the source generalizes the wiki's existing law-and-public-opinion cluster into criminal-law philosophy and power-limitation doctrine.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

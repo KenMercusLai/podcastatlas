@@ -54,6 +54,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Why the U.S. Has No Guaranteed Paid Vacation](sources/why-the-us-has-no-guaranteed-paid-vacation.md) — Planet Money episode on the U.S. paid-vacation outlier, European vacation rights, workplace guilt, rejected culture/tax explanations, and employer-bargained benefits.
 - [Jerome Powell and the Test of Fed Independence](sources/jerome-powell-and-the-test-of-fed-independence.md) — Planet Money episode on Jerome Powell, Trump pressure, Martin/Burns Fed history, Lael Brainard, inflation bias, Fed board removal law, and central-bank independence.
 - [The secret meeting that launched OPEC](sources/the-secret-meeting-that-launched-opec.md) — Planet Money episode on OPEC's origin against the Seven Sisters, the 1973 oil shock, Saudi swing production, quota cheating, UAE exit pressure, and why Hormuz disruption limits near-term gasoline relief.
+- [100.法律的悖论：谢天谢地，幸好我们还有罗翔](sources/100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302.md) — 蜜獾吃书 episode on 罗翔《法律的悖论》, law and morality, criminal law as a limit on state power, punishment theory, criminal-record collateral punishment, Rawls's veil of ignorance, and liberalism versus paternalism.
 - [99.很久很久以前，妖怪也推理啊…](sources/99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220.md) — 蜜獾吃书 episode on 青柳碧人, 《很久很久以前，在某个地方有一具尸体》, 设定系推理, 本格推理, Japanese folk-tale rewriting, 一寸法师, and 猿蟹合战.
 - [98.自卑与超越：向前看，前方有希望](sources/98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507.md) — 蜜獾吃书 episode on Alfred Adler, 《自卑与超越》, individual psychology, inferiority and superiority, purpose theory, community feeling, education, courage, and life meaning.
 - [97.花粉症与人类：从尼安德特人（啊啾！）到空气净化器…](sources/97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059.md) — 蜜獾吃书 episode using 《花粉症与人类》 to connect pollen evolution, palynology, hay fever, Blackley self-experimentation, ragweed ecology, air purifiers, and allergy as immune response.
@@ -521,6 +522,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [罗翔 / Luo Xiang](entities/LuoXiang.md) — Legal scholar and public intellectual whose 《法律的悖论》 is used by 蜜獾吃书 to examine criminal law, moral judgment, punishment, freedom, and rational humility.
+- [《法律的悖论》 / The Paradox of Law](entities/TheParadoxOfLaw.md) — Luo Xiang book discussed as an accessible criminal-law philosophy route through paradox, moral context, state-power limits, punishment theory, and freedom boundaries.
+- [John Rawls / 罗尔斯](entities/JohnRawls.md) — Philosopher used through the veil of ignorance to test legal and social rules from unknown weak positions.
+- [John Stuart Mill / 穆勒](entities/JohnStuartMill.md) — Liberal philosopher used to test self-regarding conduct, harm, paternalism, and non-waivable freedom.
+- [Jeremy Bentham / 边沁](entities/JeremyBentham.md) — Utilitarian philosopher used in the episode's punishment-theory discussion of deterrence and social welfare.
+- [Immanuel Kant / 康德](entities/ImmanuelKant.md) — Retributivist punishment reference used to connect punishment with responsibility, dignity, and proportionality.
+- [G. W. F. Hegel / 黑格尔](entities/GWFHegel.md) — Retributivist punishment reference paired with Kant in the episode's discussion of responsibility and dignity.
+- [Magna Carta / 大宪章](entities/MagnaCarta.md) — Historical document used as a symbol of law limiting royal and state punishment power.
+- [Richard Jewell / 理查德·朱维尔](entities/RichardJewell.md) — Atlanta Olympics security guard used as an example of suspicion, media pressure, and investigative overreach before exoneration.
 - [金庸 / Jin Yong](entities/JinYong.md) — Wuxia writer read here through cultural allusion, historical Jianghu space, political critique, and Hong Kong public context.
 - [梁羽生 / Liang Yusheng](entities/LiangYusheng.md) — New-school wuxia comparison figure for learned, classically rooted martial-arts fiction.
 - [古龙 / Gu Long](entities/GuLong.md) — Wuxia writer framed as diverging from Jin Yong and Liang Yusheng through suspense and martial-arts mystery.
@@ -3379,6 +3389,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Legal Paradox Thinking](concepts/LegalParadoxThinking.md) — Legal-reasoning discipline for holding plausible but conflicting legal, moral, institutional, and practical claims without collapsing them into one slogan.
+- [Law-Morality Boundary](concepts/LawMoralityBoundary.md) — Criminal-law boundary between moral context that can prevent cruelty and moralism that turns law into arbitrary coercion.
+- [Criminal Law As Power Limitation](concepts/CriminalLawAsPowerLimitation.md) — Frame treating criminal law as a restraint on state punishment power as well as a mechanism for responding to crime.
+- [Punishment Theory Tradeoff](concepts/PunishmentTheoryTradeoff.md) — Contrast among retribution, utilitarian deterrence, and constrained mixed theories of punishment.
+- [Collateral Punishment And Guilt By Association](concepts/CollateralPunishmentAndGuiltByAssociation.md) — Critique of punishment that extends beyond the sentence through records, administrative exclusion, or family-member consequences.
+- [Veil Of Ignorance](concepts/VeilOfIgnorance.md) — Rawlsian thought experiment used to test legal and social rules from positions the rule-maker may unexpectedly occupy.
+- [Liberalism-Paternalism Boundary](concepts/LiberalismPaternalismBoundary.md) — Problem of when law may restrict self-regarding conduct without turning freedom into permanent tutelage.
+- [Legal Interest Individual Reduction](concepts/LegalInterestIndividualReduction.md) — Criminal-law safeguard requiring collective legal interests to be reducible to concrete individual harms.
 - [Wuxia Intertextual Craft](concepts/WuxiaIntertextualCraft.md) — How martial-arts fiction turns classical texts, religion, folklore, and history into techniques, poisons, sects, and character psychology.
 - [Historical Jianghu Space](concepts/HistoricalJianghuSpace.md) — Historical-institutional frame for why Song settings support Jianghu mobility while Ming social control shrinks it.
 - [Jin Yong Political Reading](concepts/JinYongPoliticalReading.md) — Reading Jin Yong's fiction as political critique without reducing every detail to one hidden code.

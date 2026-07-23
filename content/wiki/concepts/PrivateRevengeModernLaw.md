@@ -2,8 +2,8 @@
 title: "Private Revenge And Modern Law"
 type: concept
 tags: [law, violence, state, republican-china, public-opinion]
-sources: [41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038]
-last_updated: 2026-07-14
+sources: [100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038]
+last_updated: 2026-07-24
 ---
 
 # Private Revenge And Modern Law
@@ -12,11 +12,14 @@ Private revenge and modern law is the source's core legal tension. In [[41-shiji
 
 The episode says left-wing writers and progressive intellectuals attacked the case as private vengeance, private punishment, and feudal filial piety. Their criticism opposed "情" to "法" and "私" to "公," arguing that revenge logic could obstruct the modern nation-state's claim to legal monopoly.
 
+[[100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302]] adds a general criminal-law version of the same tension. Instead of private revenge, the new source asks when legal judgment may consider moral context and when "情" can corrupt legality, connecting the page to [[LawMoralityBoundary]] and [[CriminalLawAsPowerLimitation]].
+
 ## Key Claims
 - A modern state cannot easily tolerate private vengeance because it competes with legal monopoly over punishment.
 - Public sympathy can make unlawful violence feel morally intelligible, especially when prior state failure or warlord violence remains unresolved.
 - The source complicates a simple law-versus-emotion split by noting that Chinese legal and moral traditions had long allowed "情," "礼," and "法" to interact.
 - The case shows modern law being built not only through statutes and courts, but through public argument about what justice should feel like.
+- Episode 100 generalizes the tension beyond revenge: moral context can prevent mechanical harshness, but discretionary sympathy still needs legal limits.
 
 ## Connections
 - [[ShiJianqiaoRevengeCase]] - main case.
@@ -24,3 +27,4 @@ The episode says left-wing writers and progressive intellectuals attacked the ca
 - [[JudicialIndependencePublicOpinion]] - legal-professional anxiety over public sentiment.
 - [[PardonAsStatePower]] and [[NationalistGovernment]] - state resolution after judicial process.
 - [[FilialPietyLaws]] - adjacent filial-duty concept; this page concerns revenge and punishment rather than elder-care obligation.
+- [[LawMoralityBoundary]] and [[CriminalLawAsPowerLimitation]] - broader criminal-law extension added by episode 100.
