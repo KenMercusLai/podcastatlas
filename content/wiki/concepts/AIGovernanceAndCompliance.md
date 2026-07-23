@@ -2,13 +2,15 @@
 title: "AI Governance And Compliance"
 type: concept
 tags: [ai, compliance, security, governance]
-sources: [tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260317-0317-mp-tech-pod-128-tech-20260317-0317-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128, tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, finding-product-market-fit-after-3-years-of-failed-ideas, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, eric-ries-incorruptible-by-design-wrgromn5peq, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
-last_updated: 2026-07-12
+sources: [tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260317-0317-mp-tech-pod-128-tech-20260317-0317-mp-tech-pod-128, tech-20260313-0313-mp-tech-pod-128-tech-20260313-0313-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tech-20260224-0224-mp-tech-pod-128-tech-20260224-0224-mp-tech-pod-128, tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, finding-product-market-fit-after-3-years-of-failed-ideas, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, eric-ries-incorruptible-by-design-wrgromn5peq, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
+last_updated: 2026-07-23
 ---
 
 # AI Governance And Compliance
 
 [[tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128]] adds the election-campaign version. [[TimHarper]] of the [[CenterForDemocracyAndTechnology|Center for Democracy and Technology]] says campaigns used generative AI mostly for speed and scale in the 2024 U.S. presidential election, while fragmented state political-ad laws made disclosure and compliance uneven. Governance here covers campaign use norms, state-by-state disclaimers, public voter education, and the boundary between legitimate persuasion and [[AIElectionMisinformationRisk]].
+
+[[tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]] adds the democratic media-resilience version through [[AvivOvadia]] and the [[AIAndDemocracyFoundation|AI and Democracy Foundation]]. Governance here covers standards adoption, [[ContentCredentials]], verification tools, and institution design so AI-driven [[InformationApocalypse]] pressure does not become a purely individual burden or slide into [[RealityApathy]].
 
 [[tech-20260317-0317-mp-tech-pod-128-tech-20260317-0317-mp-tech-pod-128]] adds the workplace-monitoring version. [[JoshBersin]] argues that employers should be very open when AI systems record or analyze work, and that using hidden surveillance to evaluate employees is likely to backfire. Governance here covers [[RecordedMeetingAnalysis]], email analysis, [[WorkplaceDigitalTwins]], and the boundary between productivity support and [[AIWorkforceMonitoring]].
 
@@ -62,9 +64,11 @@ AI governance and compliance is the extension of governance, risk, compliance, s
 - AI coding governance includes review and deployment gates before AI-assisted work reaches users or affects uptime.
 - Agent-social governance can become acquisition governance when a large platform buys an early agent-only network without yet clarifying product fate.
 - Workplace AI governance includes disclosure, purpose limits, review boundaries, and worker trust when meeting, email, and digital-twin data can be used for evaluation.
+- Democratic media governance includes provenance standards, platform adoption, verification tools, and institutions that can preserve shared reality under AI-generated misinformation pressure.
 
 ## Connections
 - [[JoshBersin]], [[RecordedMeetingAnalysis]], [[WorkplaceDigitalTwins]], [[AIWorkforceMonitoring]], and [[WorkplaceAITransparency]] - workplace monitoring governance branch added by Marketplace Tech.
+- [[AvivOvadia]], [[AIAndDemocracyFoundation|AI and Democracy Foundation]], [[InformationApocalypse]], [[ContentCredentials]], and [[RealityApathy]] - democratic media-resilience branch added by Marketplace Tech.
 - [[AIInterviewing]], [[RaySmith]], [[ObjectiveHiringAssessment]], and [[HumanJudgmentUnderAI]] - hiring-assessment governance branch added by Marketplace Tech.
 - [[Amazon]], [[AICodingGuardrails]], [[MoteBook]], [[Meta]], and [[AITalentCompetition]] - coding-deployment and agent-social acquisition governance branch added by Marketplace Tech Bytes.
 - [[Sprinto]] - company case.

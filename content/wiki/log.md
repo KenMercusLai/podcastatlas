@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-23] ingest | Welcome to the 'infocalypse'
+
+Added source page for the Marketplace Tech episode with Aviv Ovadia of the AI and Democracy Foundation on AI-intensified information collapse, scams, propaganda, nonconsensual imagery, verification burden, content credentials, platform adoption, reality apathy, and democratic institutions robust enough for synthetic-media pressure. Created pages for Aviv Ovadia, AI and Democracy Foundation, LinkedIn, Information Apocalypse, Reality Apathy, AI Reality Verification Tax, and Content Credentials; updated overview, index, Marketplace Tech, Megan McCarty-Corino, AI Information Pollution, AI Content Provenance, AI Governance and Compliance, American Democratic Resilience, Human Judgment Under AI, and AI Journalism Trust. No direct contradiction found; the source extends existing AI information-pollution and provenance pages by emphasizing that real evidence becomes harder to trust as fake media becomes cheaper to produce.
+
 ## [2026-07-23] ingest | This Swiss city wants to become the bitcoin capital of Europe
 
 Added source page for the Marketplace Tech episode on Lugano's Plan B Bitcoin initiative, municipal and merchant payment acceptance, the practical limits of living on Bitcoin, crypto-company attraction, local skepticism, the vandalized Satoshi statue, and Mayor Michele Folletti's fiat-versus-Bitcoin crime-risk defense. Created pages for Lugano, Lugano Plan B, Mia Liponi, Michele Folletti, Satoshi Nakamoto, Switzerland, Municipal Bitcoin Adoption, Crypto Payment Practicality Gap, and Crypto Public Legitimacy; updated overview, index, Marketplace Tech, Bitcoin, Cryptocurrency Market Structure, Crypto Consumer Confidence, and Virtual Asset AML Risk. No direct contradiction found; the source qualifies existing crypto-confidence and market-structure pages by showing that dense local payment acceptance can coexist with practical gaps and public distrust.
@@ -4130,3 +4134,7 @@ Added source page for the Marketplace Tech episode with Megan McCarty-Corino and
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint. Report printed to stdout; lint-report.md was not saved.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

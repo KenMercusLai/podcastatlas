@@ -591,6 +591,10 @@
     "title": "AI Alignment Governance",
     "url": "/wiki/concepts/aialignmentgovernance/"
   },
+  "AIAndDemocracyFoundation": {
+    "title": "AI and Democracy Foundation",
+    "url": "/wiki/entities/aianddemocracyfoundation/"
+  },
   "AIAnswerSourceAttribution": {
     "title": "AI Answer Source Attribution",
     "url": "/wiki/concepts/aianswersourceattribution/"
@@ -998,6 +1002,10 @@
   "AIRankingReinforcement": {
     "title": "AI Ranking Reinforcement",
     "url": "/wiki/concepts/airankingreinforcement/"
+  },
+  "AIRealityVerificationTax": {
+    "title": "AI Reality Verification Tax",
+    "url": "/wiki/concepts/airealityverificationtax/"
   },
   "AIRecognitionBias": {
     "title": "AI Recognition Bias",
@@ -2474,6 +2482,10 @@
   "AvignonPapacy": {
     "title": "阿维尼翁教廷 / Avignon Papacy",
     "url": "/wiki/entities/avignonpapacy/"
+  },
+  "AvivOvadia": {
+    "title": "Aviv Ovadia",
+    "url": "/wiki/entities/avivovadia/"
   },
   "AwamiLeague": {
     "title": "Awami League",
@@ -4574,6 +4586,10 @@
   "ContactCenterAI": {
     "title": "Contact Center AI",
     "url": "/wiki/concepts/contactcenterai/"
+  },
+  "ContentCredentials": {
+    "title": "Content Credentials",
+    "url": "/wiki/concepts/contentcredentials/"
   },
   "ContentEcosystemGovernance": {
     "title": "Content Ecosystem Governance",
@@ -9163,6 +9179,10 @@
     "title": "Infogami",
     "url": "/wiki/entities/infogami/"
   },
+  "InformationApocalypse": {
+    "title": "Information Apocalypse",
+    "url": "/wiki/concepts/informationapocalypse/"
+  },
   "InformationEntropyAsOpportunity": {
     "title": "Information Entropy As Opportunity",
     "url": "/wiki/concepts/informationentropyasopportunity/"
@@ -10966,6 +10986,10 @@
   "LinghangzheRecoveryShip": {
     "title": "领航者号 Recovery Ship",
     "url": "/wiki/entities/linghangzherecoveryship/"
+  },
+  "LinkedIn": {
+    "title": "LinkedIn",
+    "url": "/wiki/entities/linkedin/"
   },
   "LionelMessi": {
     "title": "Lionel Messi",
@@ -14950,6 +14974,10 @@
   "RealWorldConnectionProducts": {
     "title": "Real-World Connection Products",
     "url": "/wiki/concepts/realworldconnectionproducts/"
+  },
+  "RealityApathy": {
+    "title": "Reality Apathy",
+    "url": "/wiki/concepts/realityapathy/"
   },
   "RealityLabs": {
     "title": "Reality Labs",
@@ -21190,6 +21218,10 @@
   "tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128": {
     "title": "How \\\"surveillance pricing\\\" charges one online customer more than another for the same item",
     "url": "/wiki/sources/tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128/"
+  },
+  "tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128": {
+    "title": "Welcome to the 'infocalypse'",
+    "url": "/wiki/sources/tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128/"
   },
   "tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128": {
     "title": "Making the most of AI, without the hype",

@@ -2,8 +2,8 @@
 title: "American Democratic Resilience"
 type: concept
 tags: [politics, democracy, institutions]
-sources: [173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c, trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7, trailer-tocqueville-road-trip-6a315920101389aa3d42d134, trailer-tocqueville-road-trip-6a315813780d0f7579afb892, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, jerome-powell-and-the-test-of-fed-independence]
-last_updated: 2026-07-18
+sources: [173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, trailer-tocqueville-road-trip-6a31522c9b6fd8dcaba7b494, trailer-tocqueville-road-trip-6a315642780d0f7579af216c, trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7, trailer-tocqueville-road-trip-6a315920101389aa3d42d134, trailer-tocqueville-road-trip-6a315813780d0f7579afb892, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, jerome-powell-and-the-test-of-fed-independence, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
+last_updated: 2026-07-23
 ---
 
 # American Democratic Resilience
@@ -15,6 +15,8 @@ American democratic resilience is the episode's question of whether the [[United
 [[gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6]] extends the timeline through the 2007-08 financial crisis, [[BarackObama]]'s election and backlash, Sandy Hook, [[DonaldTrump]]'s rise, the pandemic, January 6th, Joe Biden's presidency, and Trump's return. Its contribution is cumulative stress: even dramatic shocks do not automatically produce reform, and repeated conflicts over race, guns, sex, executive power, and trust keep the republic under strain.
 
 [[fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]] adds AI to that civic stress list. The episode's [[AIBacklashPolitics]] frame says public fear of job loss, child-chatbot relationships, data centers, tech-billionaire power, and rapid technological change can cut across normal party lines, making AI governance another test of whether U.S. institutions can convert anxiety into legitimate policy.
+
+[[tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]] adds an information-environment version through [[AvivOvadia]] and the [[AIAndDemocracyFoundation|AI and Democracy Foundation]]. The source argues that democratic resilience now depends on whether institutions can preserve shared reality under [[InformationApocalypse]] pressure through [[ContentCredentials]], verification tools, and institutional designs robust against AI-generated misinformation.
 
 [[coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b]] adds presidential memory as another resilience test. Through the [[ObamaPresidentialCenter]], the episode asks whether museums and libraries preserve civic memory or elevate presidents into a quasi-imperial posture that sits uneasily with republican government.
 
@@ -35,6 +37,7 @@ The concept is deliberately mixed. Resilience does not mean the system is health
 - Gun-politics stalemate after Sandy Hook is another resilience test: national trauma does not necessarily become national reform.
 - The Obama-to-Trump sequence shows that hope, backlash, crisis, and executive-power pressure can compound rather than resolve cleanly.
 - AI backlash adds a newer resilience test: democratic politics has to handle both real technological risk and generalized fear without reducing governance to donor fights or panic.
+- AI-generated information pressure adds a shared-reality test: democratic institutions need ways to verify evidence and sustain trust without producing blanket disbelief.
 - Presidential memorial culture adds a symbolic resilience test: a republic needs memory institutions without encouraging presidents to see themselves as rulers.
 - Trump 2.0 preparation adds an organizational resilience test: institutions face not only charismatic pressure but also prebuilt policy and staffing systems.
 - Impeachment and the 25th Amendment add a repair-capacity test: institutions must remove or bypass a failed president only under standards strong enough to avoid routine factional use.
@@ -46,6 +49,7 @@ The concept is deliberately mixed. Resilience does not mean the system is health
 - [[BarackObama]] and [[DonaldTrump]] - political sequence added by the Gulf-co-operation episode.
 - [[ObamaPresidentialCenter]] and [[PresidentialMemorialCulture]] - presidential-memory branch added by The Intelligence.
 - [[AIBacklashPolitics]], [[DataCenterBacklash]], and [[JoshHawley]] - AI governance and public-fear branch added by The Intelligence.
+- [[AvivOvadia]], [[AIAndDemocracyFoundation|AI and Democracy Foundation]], [[InformationApocalypse]], [[RealityApathy]], and [[ContentCredentials]] - AI media-trust branch added by Marketplace Tech.
 - [[ExecutivePowerPrecedent]] - risk to resilience.
 - [[HistoricalMemoryContest]] - memory and civic-education branch.
 - [[DemocraticTransitionElection]], [[ElectoralMandate]], and [[PublicServiceJournalism]] - adjacent democracy concepts already in the wiki.

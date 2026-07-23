@@ -14,6 +14,8 @@ last_updated: 2026-07-23
 
 [[tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128]] adds [[ChristopherMims]]' consumer-practice version. Mims argues that AI can be an assistant, tutor, and task helper, but still lacks judgment, taste, and agency. Because [[AIHallucination]] is not merely an incidental bug, the user needs enough domain knowledge to ask useful questions, catch errors, and decide when a tool should remain a supervised assistant.
 
+[[tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]] adds the media-verification version through [[AvivOvadia]]. Under [[InformationApocalypse]] conditions, judgment includes deciding when a plausible image, video, post, or comment thread needs verification, when [[ContentCredentials]] are meaningful, and when skepticism is becoming [[RealityApathy]] instead of evidence discipline.
+
 [[e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5]] adds the film and dubbing version. [[LuChuan]] says AI can compress previsualization and make more films possible, but the director still judges whether a generated scene is cinema; [[HuangYing]] says voice acting still depends on timing, context, and emotional choices that cannot be reduced to a clean voice sample.
 
 [[tech-20260317-0317-mp-tech-pod-128-tech-20260317-0317-mp-tech-pod-128]] adds the workplace digital-twin version. [[JoshBersin]] says a [[WorkplaceDigitalTwins|workplace digital twin]] can answer simple coworker questions and move someone to the next step, but complex information, framing, and communication still require conversation with the real person. The same episode adds a memory and attention boundary: [[RecordedMeetingAnalysis]] can reduce note-taking, but it may also change how carefully people listen, remember, and decide what work counts.
@@ -136,10 +138,12 @@ Human judgment under AI is the claim that AI can enhance preparation and synthes
 - In everyday AI use, judgment includes recognizing that the assistant can summarize, dictate, schedule, or tutor while still lacking taste, agency, and reliable grounding.
 - The Descartes extension adds that judgment begins before verification: the person must notice whether an output has become a substitute for their own thinking.
 - In film and dubbing, judgment includes deciding which scenes or performances deserve human labor, which generated outputs meet artistic standards, and which uses violate performer consent or rights.
+- In media verification, judgment includes using provenance signals without treating either AI suspicion or content credentials as complete proof.
 
 ## Connections
 - [[ReneDescartes]], [[MethodicDoubt]], [[CogitoErgoSum]], and [[ComputingVersusThinking]] - episode 174's philosophical boundary between calculation, thinking, and judgment.
 - [[ChristopherMims]], [[HowToAI|How to AI]], [[AIAssistantAugmentation]], [[ExpertiseAmplifiedAIUse]], and [[AIHallucination]] - Marketplace Tech's practical assistant and judgment boundary.
+- [[AvivOvadia]], [[InformationApocalypse]], [[RealityApathy]], [[AIRealityVerificationTax]], and [[ContentCredentials]] - media-verification judgment branch added by Marketplace Tech.
 - [[LuChuan]], [[HuangYing]], [[IndustrialGradeFilmModels]], [[LiveActionFilmUnderAI]], and [[AIDubbing]] - film and voice judgment boundary added by E234.
 - [[JoshBersin]], [[WorkplaceDigitalTwins]], [[RecordedMeetingAnalysis]], and [[WorkplaceAITransparency]] — workplace digital-twin and recorded-meeting judgment boundary added by Marketplace Tech.
 - [[NewsroomAIAdoption]], [[AIRewriteDesk]], [[AIWrittenJournalism]], and [[AIJournalismTrust]] — journalism workflow and publication-responsibility boundary added by Marketplace Tech.

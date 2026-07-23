@@ -16,6 +16,8 @@ last_updated: 2026-07-23
 
 [[tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]] adds McCarty-Corino as host of a [[MarketplaceTech]] interview with [[JasmineSun]] on [[GrayMarketPeptides]]. Her framing moves the episode from cheaper [[Ozempic]] access into [[TechCultureBiohacking]], where founder-style risk tolerance and optimization habits become personal health decisions.
 
+[[tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]] adds McCarty-Carino as host of a [[MarketplaceTech]] interview with [[AvivOvadia]] of the [[AIAndDemocracyFoundation|AI and Democracy Foundation]]. Her questions frame generative AI as an everyday verification burden that can scale into [[InformationApocalypse]], [[RealityApathy]], and pressure for [[ContentCredentials]].
+
 [[tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128]] adds McCarty-Corino, styled in the source as Meg McCarty-Corino, as the [[MarketplaceTech]] host interviewing [[GaiaBernstein]] about state attorneys general suing [[Meta]]. Her questions frame the episode around whether social-media litigation is reaching a [[BigTobaccoPlatformAnalogy|Big Tobacco moment]] and whether similar attention-economy concerns are emerging for AI companions.
 
 [[tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]] adds McCarty-Carino as host of a Bytes discussion with [[PareshDave]] of [[Wired]]. Her framing ties together [[Apple]]'s lawsuit against [[OpenAI]], New York's hyperscale data-center pause, and [[Uber]]'s robotaxi lobbying as examples of AI and autonomy running into hardware law, infrastructure politics, and city operations.
@@ -49,6 +51,7 @@ Her role in the wiki is mainly as interview context. The episode uses her questi
 ## Connections
 - [[MarketplaceTech]] - show context.
 - [[JasmineSun]], [[GrayMarketPeptides]], [[ResearchChemicalLoophole]], and [[TechCultureBiohacking]] - gray-market peptide and Silicon Valley biohacking branch added by the 2026-01-19 episode.
+- [[AvivOvadia]], [[AIAndDemocracyFoundation|AI and Democracy Foundation]], [[InformationApocalypse]], [[RealityApathy]], [[AIRealityVerificationTax]], and [[ContentCredentials]] - AI media-trust branch added by the 2026-01-21 episode.
 - [[GaiaBernstein]], [[Meta]], [[StateAGPlatformLitigation]], [[BigTobaccoPlatformAnalogy]], and [[AICompanionAttentionRisk]] - July 16, 2026 episode on social-media litigation and AI companion risks.
 - [[PareshDave]], [[Apple]], [[OpenAI]], [[HyperscaleDataCenterMoratorium]], and [[RobotaxiHybridDeployment]] - July 17, 2026 Bytes episode on hardware litigation, data centers, and robotaxis.
 - [[CBHHomes]], [[RhondaConger]], [[HomebuildingAIOperations]], and [[CustomerSupportAutomation]] - January 1, 2026 episode on AI inside homebuilding operations.

@@ -2,13 +2,15 @@
 title: "AI Content Provenance"
 type: concept
 tags: [ai, provenance, trust, compliance]
-sources: [e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob]
+sources: [e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
 last_updated: 2026-07-23
 ---
 
 # AI Content Provenance
 
 [[tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128]] adds the election-ad version through [[AIPoliticalAdDisclosurePatchwork]]. [[TimHarper]] says many U.S. states require disclaimers for manipulated political content, but label size, label duration, time windows, and covered uses vary. This makes provenance not just a media-trust problem, but a campaign-compliance and voter-interpretation problem.
+
+[[tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]] adds the general media-verification version through [[AvivOvadia]]. He points to [[ContentCredentials]] as an existing standards-based response to [[InformationApocalypse]], while stressing that only limited platform adoption, including [[LinkedIn]] as a named example, keeps provenance from reaching ordinary users at sufficient scale.
 
 AI content provenance is the practice of marking, disclosing, or tracing synthetic media so users, platforms, and regulators can understand whether content was generated or edited by AI. In [[vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1]], the hosts discuss [[OpenAI]] adding Google SynthID-style watermarking and C2PA content credentials to [[ChatGPT]] images, then connect the same trust problem to AI-generated adult-content personas and consumer right-to-know questions.
 
@@ -34,6 +36,7 @@ AI content provenance is the practice of marking, disclosing, or tracing synthet
 - Film and dubbing rights add an evidentiary version of provenance: labels and metadata are not enough if courts or contracts must determine whether a generated face, voice, or blended voice used protected material.
 - Brand advertising adds a labor-and-expectation version: disclosing AI use does not fully answer whether a campaign feels trustworthy, fair, or respectful of creative work.
 - Newsroom bylines and labels can disclose AI use, but provenance does not automatically solve [[AIJournalismTrust]] when the concern is quality, care, or accountability.
+- Content credentials can reduce the [[AIRealityVerificationTax]], but only if capture devices, editing tools, platforms, and users preserve and interpret the signal.
 
 ## Connections
 
@@ -47,3 +50,4 @@ AI content provenance is the practice of marking, disclosing, or tracing synthet
 - [[HuangYing]], [[AIDubbing]], [[AIVoiceCloningRights]], [[ByteDance]], and [[MotionPictureAssociation]] — film and voice proof branch added by E234.
 - [[McDonaldsNetherlands]], [[AIGeneratedAdvertising]], and [[CreativeLaborAIBacklash]] — advertising and labor-trust branch added by Marketplace Tech Bytes.
 - [[AdvancedLocalExpressDesk]], [[AIWrittenJournalism]], [[AIRewriteDesk]], and [[AIJournalismTrust]] — newsroom disclosure and reader-trust branch added by Marketplace Tech.
+- [[ContentCredentials]], [[LinkedIn]], [[InformationApocalypse]], and [[RealityApathy]] - media-authenticity branch added by Marketplace Tech.

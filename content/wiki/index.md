@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Welcome to the 'infocalypse'](sources/tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128.md) — Marketplace Tech episode with Aviv Ovadia on AI-intensified information collapse, verification costs, content credentials, reality apathy, and democratic institutions resilient to synthetic media.
 - [Bytes: Week in Review - New chip exports for China, Microsoft to pay electricity for AI data centers, and Gemini will power Apple's AI](sources/tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Anita Ramaswamy on Nvidia H200 exports to China, Microsoft's data-center electricity-cost pledge, local backlash, and Apple using Gemini for advanced Siri.
 - [AI is eating up the world's computing memory](sources/tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128.md) — Marketplace Tech episode with Tom Minelli of IDC on AI-driven HBM and RAM shortages, PC and smartphone price pressure, gaming-PC exposure, and AI PCs increasing memory demand.
 - [This Swiss city wants to become the bitcoin capital of Europe](sources/tech-20260114-0114-mp-tech-pod-128-tech-20260114-0114-mp-tech-pod-128.md) — Marketplace Tech episode on Lugano's Plan B Bitcoin initiative, Bitcoin payments in shops and municipal services, crypto-company attraction, and local skepticism around speculation and crime.
@@ -2064,6 +2065,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tom Cruise](entities/TomCruise.md) — Actor referenced through a 2018 PSA warning viewers about the soap-opera effect from motion smoothing.
 - [Britt Young](entities/BrittYoung.md) — Writer and UC Berkeley lecturer grounding the prosthetics episode in lived prosthetic experience, reporting, insurance barriers, and device-classification questions.
 - [Megan McCarty-Corino](entities/MeganMcCartyCorino.md) — Marketplace Tech host/reporter framing episodes on AI scam websites, patient AI use, tech hiring, world models, data-center tax incentives, prosthetic access, AI search advertising, data-center debt risk, and AI slop.
+- [Aviv Ovadia](entities/AvivOvadia.md) — AI and Democracy Foundation founder warning that generative AI can push media distrust into information apocalypse and reality apathy.
+- [AI and Democracy Foundation](entities/AIAndDemocracyFoundation.md) — Organization represented by Aviv Ovadia in the Marketplace Tech infocalypse episode, focused on AI-resilient democratic governance.
+- [LinkedIn](entities/LinkedIn.md) — Platform named in the infocalypse episode as one implementation example for content credentials and media provenance.
 - [UC Berkeley](entities/UCBerkeley.md) — Institutional affiliation for Britt Young in the Marketplace Tech prosthetics episode.
 - [Open Bionics](entities/OpenBionics.md) — British 3D-printed prosthetics firm discussed as an availability option that still faces insurance-coverage barriers.
 - [Daria Georgievich](entities/DariaGeorgievich.md) — Psychiatrist explaining why consumer chatbots are unsafe mental-health supports for teens, especially in longer conversations.
@@ -4122,6 +4126,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Expertise-Amplified AI Use](concepts/ExpertiseAmplifiedAIUse.md) — Claim that experts may benefit most from AI because they know what to ask, what quality looks like, and how to catch errors.
 - [Mundane AI Use Cases](concepts/MundaneAIUseCases.md) — Everyday AI adoption pattern focused on summarizing, dictating, scheduling, and document discussion rather than spectacular demos.
 - [AI Hallucination](concepts/AIHallucination.md) — General reliability failure where AI produces plausible but false or unsupported output, requiring verification and judgment.
+- [Information Apocalypse](concepts/InformationApocalypse.md) — Aviv Ovadia's frame for AI-accelerated collapse in people's ability to trust what they see and hear.
+- [Reality Apathy](concepts/RealityApathy.md) — Failure mode where skepticism hardens into disbelief in everything, weakening commerce, institutions, and shared reality.
+- [AI Reality Verification Tax](concepts/AIRealityVerificationTax.md) — Extra user, journalist, and institutional burden created when AI makes media fabrication cheaper than verification.
+- [Content Credentials](concepts/ContentCredentials.md) — Media-provenance standard layer for attaching authenticity signals to captured or edited content.
 - [Life Restart Thought Experiment](concepts/LifeRestartThoughtExperiment.md) — Reflective device asking what one would revisit with memory intact, used to reveal unresolved meaning rather than a corrected life plan.
 - [Regret Integration](concepts/RegretIntegration.md) — Process of keeping embarrassment, pain, mistakes, and unfinished goodbyes inside a coherent life story instead of treating them only as errors to erase.
 - [Pet Grief And Care](concepts/PetGriefAndCare.md) — Pattern where animal loss changes later routines, responsibility, and meaning-making.
