@@ -4054,3 +4054,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-23] ingest | Founder Mode: Andy Lapsa, Founder & CEO, Stoke Space
+
+Added source page for The Social Radars YC offsite episode with Andy Lapsa on Stoke Space, fully reusable launch, second-stage reuse as a cost and cadence bottleneck, hard-tech fundraising, proof hardware, and founder mode as shared organizational urgency. Created pages for Andy Lapsa and Second-Stage Reuse Constraint; updated overview, index, Stoke, SpaceX, Falcon 9, Starship, Reusable Rocket Economics, Space Economy Infrastructure, Y Combinator, The Social Radars, Founder Mode, Founder Delegation Discipline, Founder Proximity, and Hard Tech Fundraising. No direct contradiction found; the source grounds the earlier sparse Stoke mention and keeps Starship/full-reuse status source-dated to 2025-09-29.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

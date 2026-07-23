@@ -2,7 +2,7 @@
 title: "Hard Tech Fundraising"
 type: concept
 tags: [startup, hard-tech, fundraising, venture-capital]
-sources: [tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final]
+sources: [tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final]
 last_updated: 2026-07-23
 ---
 
@@ -16,6 +16,8 @@ The source links this directly to [[InvestorRiskNarrative]]. Vogt had to explain
 
 [[tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3]] adds the women's-health medtech version through [[SurbhiSarna]] and [[NVisionMedical|nVision Medical]]. Sarna had to raise before ordinary revenue was possible, while investors had to underwrite regulatory path, device feasibility, solo-founder risk, and an underrecognized women's-health category that one investor dismissed as "bikini medicine."
 
+[[tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio]] adds the reusable-launch version through [[AndyLapsa]] and [[Stoke|Stoke Space]]. Andy says Stoke faced poor fundraising timing around [[YCombinator]] Winter 2021 and later saw 2023 and 2024 become difficult markets for hardware growth companies, especially pre-revenue companies. The episode's credibility response is physical proof: rather than rely on a presentation, the founders built an early rocket test stand in a shipping container in a co-founder's yard.
+
 ## Key Claims
 - Hard-tech founders often need a credible de-risking sequence before they can show familiar software metrics.
 - Repeated rejections can improve the pitch when each objection sharpens the explanation of market size, technical wedge, capital plan, and competitive path.
@@ -23,6 +25,8 @@ The source links this directly to [[InvestorRiskNarrative]]. Vogt had to explain
 - A lead investor can change the category narrative when the founder's pitch finally makes the risk-underwriting path legible.
 - When hard-tech investors will not underwrite the risk, customer preorders can become an alternate financing path, but they shift risk into delivery obligations.
 - In medical devices, capital has to fund prototype evidence, clinical studies, and regulatory progress before familiar revenue traction can appear.
+- In launch and other very capital-intensive hardware categories, physical proof can be necessary to separate serious execution from a pitch-only story before revenue exists.
+- Market timing matters more when the company needs growth capital before ordinary revenue can prove demand.
 
 ## Connections
 - [[Cruise]], [[KyleVogt]], and [[YCombinator]] - source case and Demo Day context.
@@ -30,3 +34,4 @@ The source links this directly to [[InvestorRiskNarrative]]. Vogt had to explain
 - [[TrustHeavyInfrastructureSales]] and [[StartupHighBetaBet]] - related cases where investors or buyers underwrite difficult, high-upside infrastructure.
 - [[Pebble]], [[EricMigicovsky]], [[Kickstarter]], and [[KickstarterDemandShock]] - consumer-hardware case where crowdfunding replaced a failed venture round.
 - [[SurbhiSarna]], [[NVisionMedical|nVision Medical]], [[SoloFounderFundraisingBias]], [[MedicalDeviceClinicalValidation]], and [[CapitalEfficientMedicalDeviceStartup]] - women-health medtech fundraising case added by The Social Radars.
+- [[AndyLapsa]], [[Stoke]], [[ReusableRocketEconomics]], and [[SecondStageReuseConstraint]] - reusable-launch case where technical proof and capital timing shape fundraising.

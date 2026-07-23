@@ -2,8 +2,8 @@
 title: "SpaceX"
 type: entity
 tags: [company, technology, space, hard-tech]
-sources: [tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0]
-last_updated: 2026-07-17
+sources: [tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio]
+last_updated: 2026-07-23
 ---
 
 # SpaceX
@@ -20,6 +20,8 @@ The source also frames SpaceX as an organization and manufacturing model. [[Elon
 
 [[ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0]] uses SpaceX as the benchmark for [[RocketRecoveryRouteChoice]]. The episode contrasts [[Falcon9]] landing legs and [[Starship]] tower catch with [[LongMarch10B]]'s [[SeaNetRocketRecovery]], arguing that different recovery architectures move mass, precision, infrastructure risk, and turnaround work to different parts of the system.
 
+[[tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio]] adds [[AndyLapsa]]'s outside-founder benchmark view from [[Stoke|Stoke Space]]. Andy says SpaceX's first-stage reuse was transformational because it let the company shift factory capacity toward second stages and reach roughly 150 flights per year, but he also identifies the still-discarded upper stage as a remaining [[SecondStageReuseConstraint]]. The source therefore uses SpaceX both as proof that reuse changes the industry and as evidence that partial reuse leaves major cost and cadence work unresolved.
+
 ## Connections
 - [[OpenAI]] and [[Anthropic]] — other private technology companies discussed in the IPO valuation frame.
 - [[AIIPOValuation]] — concept that separates real technological importance from attractive public-market entry price.
@@ -28,7 +30,8 @@ The source also frames SpaceX as an organization and manufacturing model. [[Elon
 - [[LouisHong]] and [[ElonMusk]] — insider source and leader in the SpaceX development-history episode.
 - [[Falcon9]], [[DragonSpacecraft]], [[Starlink]], and [[Starship]] — vehicle and platform systems discussed in the source.
 - [[LongMarch10B]], [[SeaNetRocketRecovery]], and [[RocketRecoveryRouteChoice]] — comparison branch added by the What's Next S10E21 source.
-- [[ReusableRocketEconomics]], [[FirstPrinciplesManufacturing]], and [[HighResponsibilityDensity]] — operating logic behind the SpaceX case.
+- [[ReusableRocketEconomics]], [[SecondStageReuseConstraint]], [[FirstPrinciplesManufacturing]], and [[HighResponsibilityDensity]] — operating logic behind the SpaceX case.
+- [[Stoke]] and [[AndyLapsa]] — outside founder and competitor-adjacent benchmark view of partial versus full reuse.
 - [[SpaceEconomyInfrastructure]], [[SpaceBasedAIInfrastructure]], and [[SpaceXMafia]] — downstream platform, AI-infrastructure, and alumni-network themes.
 - [[XAI|xAI]], [[Grok]], and [[StrategicAIInfrastructureDependence]] — AI-company acquisition and infrastructure-bargaining layer added by Marketplace Tech.
 - [[NASA]] — government knowledge and procurement context that helped shape SpaceX's path.

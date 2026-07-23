@@ -2,8 +2,8 @@
 title: "Founder Proximity"
 type: concept
 tags: [startup, leadership, operations]
-sources: [tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-tonyxu-final, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
-last_updated: 2026-07-14
+sources: [tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-tonyxu-final, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
+last_updated: 2026-07-23
 ---
 
 # Founder Proximity
@@ -22,6 +22,8 @@ The source connects founder proximity to DoorDash's earliest learning loop. The 
 
 [[tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio]] adds the biotech-lab version through [[JenHerbach]] and [[AdventrisPharmaceuticals]]. Jen says she had assumed she should not manage day-to-day science because she came from the business side, but after [[BrianChesky]]'s [[FounderMode]] talk she got into the details, used daily end-of-day standups, and made scientific accountability visible.
 
+[[tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio]] adds the aerospace-growth version through [[AndyLapsa]] and [[Stoke|Stoke Space]]. Andy does not present proximity as the founder owning every task; he says direct intervention often means the organization has an unfilled hole. In this case proximity is diagnostic: the founder has to notice technical, hiring, coordination, or adjacent-opportunity gaps closely enough to decide whether to fill them, staff them, or deliberately avoid them as distractions.
+
 ## Key Claims
 - Direct exposure helps leaders notice problems that dashboards or management summaries may compress away.
 - Proximity does not mean the founder personally runs every process; it means the founder keeps enough contact to interpret secondhand information better.
@@ -33,6 +35,7 @@ The source connects founder proximity to DoorDash's earliest learning loop. The 
 - Customer-facing organizations can still lose customer reality if senior leaders manage the machine rather than meeting customers themselves.
 - A CEO can make proximity a leadership standard by repeatedly sharing customer learnings and expecting executives to do the same.
 - In science-heavy startups, founder proximity can mean staying close to experimental execution and team accountability, not only customers.
+- In hard-tech growth companies, proximity can expose unfilled organizational gaps and adjacent opportunities before they become hidden execution drift.
 
 ## Connections
 - [[TonyXu]] and [[DoorDash]] - source case.
@@ -44,3 +47,4 @@ The source connects founder proximity to DoorDash's earliest learning loop. The 
 - [[PaulGraham]], [[FounderMode]], [[SteveJobs]], and [[JonyIve]] - collaboration-versus-micromanagement boundary added by the YC offsite source.
 - [[SajithWickramasekara]], [[Benchling]], [[LifeSciencesWorkflowSoftware]], and [[StageAppropriateHiring]] - customer-proximity-at-scale case added by the Benchling source.
 - [[JenHerbach]], [[AdventrisPharmaceuticals]], [[CancerVaccinePlatform]], and [[BiotechFounderControl]] - lab-proximity and accountability case added by the Jen Herbach source.
+- [[AndyLapsa]], [[Stoke]], [[ReusableRocketEconomics]], and [[SecondStageReuseConstraint]] - aerospace founder proximity and organizational-gap case added by the Andy Lapsa source.

@@ -1931,6 +1931,10 @@
     "title": "Andy Grove",
     "url": "/wiki/entities/andygrove/"
   },
+  "AndyLapsa": {
+    "title": "Andy Lapsa",
+    "url": "/wiki/entities/andylapsa/"
+  },
   "Anerle": {
     "title": "安乐",
     "url": "/wiki/entities/anerle/"
@@ -15695,6 +15699,10 @@
     "title": "Second Renaissance",
     "url": "/wiki/concepts/secondrenaissance/"
   },
+  "SecondStageReuseConstraint": {
+    "title": "Second-Stage Reuse Constraint",
+    "url": "/wiki/concepts/secondstagereuseconstraint/"
+  },
   "SecondTimeFounderOperatingJudgment": {
     "title": "Second-Time Founder Operating Judgment",
     "url": "/wiki/concepts/secondtimefounderoperatingjudgment/"
@@ -16800,7 +16808,7 @@
     "url": "/wiki/concepts/stocktipgrouprisk/"
   },
   "Stoke": {
-    "title": "Stoke",
+    "title": "Stoke Space",
     "url": "/wiki/entities/stoke/"
   },
   "StopKillingGames": {
@@ -21146,6 +21154,10 @@
   "tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio": {
     "title": "Tom Blomfield on Monzo, YC, and Founder Lessons",
     "url": "/wiki/sources/tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio/"
+  },
+  "tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio": {
+    "title": "Founder Mode: Andy Lapsa, Founder & CEO, Stoke Space",
+    "url": "/wiki/sources/tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio/"
   },
   "tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final": {
     "title": "Founder Mode: Brian Chesky, Founder & CEO, Airbnb",
