@@ -3859,6 +3859,10 @@ Added source page for the Marketplace Tech episode with David Brancaccio on rebu
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-23] ingest | E235｜20年内CAR-T治愈癌症？与刘诚博士聊聊癌症治疗的底层哲学
+
+Added source page for the 硅谷101 episode with 刘诚 of Eureka Therapeutics on CAR-T, in vivo versus ex vivo manufacturing, allogeneic CAR-T, solid-tumor barriers, cytokine-release safety, China cell-therapy regulation, and cancer as an immune-recognition problem. Created pages for 刘诚, Eureka Therapeutics, Legend Biotech, Johnson & Johnson, CAR-T Cell Therapy, Cancer Immune Recognition Problem, Ex Vivo CAR-T Manufacturing, In Vivo CAR-T, Allogeneic CAR-T, Solid Tumor CAR-T Constraints, Tumor Microenvironment, Cytokine Release Syndrome, and China Cell Therapy Regulatory Dual Track; updated overview, index, Silicon Valley 101, Cancer Vaccine Platform, and Food and Drug Administration. No direct contradiction found; the source-scoped 20-year cancer-cure optimism was stored as a forecast about durable cancer control rather than current medical guidance or universal clinical consensus.
+
 ## [2026-07-23] ingest | How "surveillance pricing" charges one online customer more than another for the same item
 
 Added source page for the Marketplace Tech episode on surveillance pricing, customer data collection, surveillance discounting, price discrimination, Walmart.com's signed-in versus anonymous toothpaste-price comparison, and algorithmic retail-price opacity. Created pages for Kristin Schwab, Joseph Turow, and Surveillance Pricing; updated overview, index, Marketplace Tech, Walmart, Garrett Johnson, AI Consumer Decision Shaping, and Platform Data Regulation. No direct contradiction found; the source adds a retail price-opacity case while keeping Walmart's non-personalized explanation and the limits of the test source-scoped.
@@ -3922,6 +3926,10 @@ Ran lint after health passed. Deterministic checks scanned 5,162 pages and found
 ## [2026-07-23] ingest | E234｜未来实拍电影还存在吗？与导演陆川聊聊AI给影视人的恐惧与自由
 
 Added source page for the 硅谷101 episode with Lu Chuan, Huang Ying, and KESA on AI video, film-grade production workflows, dubbing craft, AI voice cloning rights, Hollywood copyright pressure, and the future role of live-action film. Created pages for Lu Chuan, Huang Ying, KESA, StoryStorm, Motion Picture Association, Midjourney, Nanjing! Nanjing!, AI Dubbing, AI Voice Cloning Rights, Live-Action Film Under AI, and Industrial-Grade Film Models; updated overview, index, Silicon Valley 101, ByteDance, Video Models, AI Video Production Workflow, Creative Labor AI Backlash, and AI Public Likeness Generation. No direct contradiction found; the source extends the AI video and creative-labor branches by arguing that AI compresses previs, repetitive generation, and some voice work while making film-grade judgment, consent, proof, and irreproducible human performance more important.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-23] lint | Wiki health check
 

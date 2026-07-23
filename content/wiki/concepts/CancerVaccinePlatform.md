@@ -2,13 +2,15 @@
 title: "Cancer Vaccine Platform"
 type: concept
 tags: [biotech, oncology, vaccines]
-sources: [tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio]
-last_updated: 2026-07-14
+sources: [tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534]
+last_updated: 2026-07-23
 ---
 
 # Cancer Vaccine Platform
 
 Cancer vaccine platform is the source's frame for a therapeutic or preventive vaccine approach that helps the immune system recognize cancer cells. In [[tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio]], [[JenHerbach]] says [[AdventrisPharmaceuticals]] treats cancer partly as an immune-recognition failure: the immune system did not identify uncontrolled cells as foreign, so the vaccine is meant to make the target visible.
+
+[[e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534]] adds an adjacent cell-therapy branch through [[CARTCellTherapy]]. [[LiuCheng|刘诚]] makes the same high-level [[CancerImmuneRecognitionProblem]] explicit: cancer cells are self cells, so the immune system often does not naturally attack them. The distinction is route: cancer vaccines try to train immune recognition, while CAR-T engineers immune cells directly and then faces manufacturing, infiltration, and safety constraints.
 
 The episode presents the platform through [[KRASOncologyTarget]]. Herbach says KRAS is involved in more than 30% of cancers and appears especially in lung, colon, and pancreatic cancer. Adventris is beginning with localized pancreatic cancer while holding a longer-term prevention ambition.
 
@@ -22,5 +24,6 @@ The source is a founder interview rather than independent clinical validation. I
 
 ## Connections
 - [[AdventrisPharmaceuticals]], [[JenHerbach]], and [[KRASOncologyTarget]] - source case and first target.
+- [[CARTCellTherapy]], [[CancerImmuneRecognitionProblem]], and [[SolidTumorCARTConstraints]] - adjacent CAR-T branch added by E235.
 - [[BiotechFounderControl]] - governance layer needed to protect scientific strategy.
 - [[LifeSciencesWorkflowSoftware]] and [[AIForScience]] - adjacent life-sciences technology branches already present in the wiki.

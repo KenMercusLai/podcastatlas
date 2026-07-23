@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E235｜20年内CAR-T治愈癌症？与刘诚博士聊聊癌症治疗的底层哲学](sources/e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534.md) — 硅谷101 episode with Liu Cheng on CAR-T, in vivo versus ex vivo manufacturing, solid-tumor barriers, cytokine-release safety, China cell-therapy regulation, and cancer as an immune-recognition problem.
 - [E234｜未来实拍电影还存在吗？与导演陆川聊聊AI给影视人的恐惧与自由](sources/e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5.md) — 硅谷101 episode with Lu Chuan, Huang Ying, and KESA on AI video, film-grade workflows, dubbing, voice cloning rights, and why live-action film must justify itself through irreproducible human moments.
 - [E233｜硅谷右翼的权力网如何形成？聊聊彼得·蒂尔的思想启蒙拼图](sources/e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d.md) — 硅谷101 episode on Peter Thiel, Stanford Review, Girard/Schmitt/Strauss, Palantir, right-wing media, J.D. Vance, and Silicon Valley's technology-right power network.
 - [How "surveillance pricing" charges one online customer more than another for the same item](sources/tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128.md) — Marketplace Tech episode on customer-specific retail prices, surveillance discounting, Walmart.com's signed-in versus anonymous toothpaste price test, and the opacity of algorithmic pricing.
@@ -488,6 +489,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [刘诚](entities/LiuCheng.md) — Eureka Therapeutics founder and CEO in E235, explaining CAR-T as immune-cell reprogramming and cancer treatment as a self-cell recognition problem.
+- [Eureka Therapeutics](entities/EurekaTherapeutics.md) — Liu Cheng's CAR-T biotech company, used in E235 to ground the late-stage solid-tumor and liver-cancer CAR-T discussion.
+- [Legend Biotech / 南京传奇](entities/LegendBiotech.md) — Chinese CAR-T commercialization case in E235, tied to a Johnson & Johnson multiple-myeloma product moving earlier in treatment lines.
+- [Johnson & Johnson / 强生](entities/JohnsonAndJohnson.md) — Pharma partner in E235's Legend Biotech multiple-myeloma CAR-T commercialization example.
 - [Lu Chuan](entities/LuChuan.md) — Film director in E234 who frames AI as a production tool that accelerates previs while forcing live-action film to justify itself through human performance and film-grade standards.
 - [Huang Ying](entities/HuangYing.md) — Veteran dubbing actor in E234 who explains AI dubbing limits, human subconscious timing, vocal imperfection, and voice-cloning rights.
 - [KESA](entities/KESA.md) — Screenwriter and AI-content creator in E234 who moved from traditional IP development into fast AI production through StoryStorm and Midjourney workflows.
@@ -3153,6 +3158,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [CAR-T Cell Therapy](concepts/CARTCellTherapy.md) — E235 concept for engineering T cells to recognize cancer antigens and attack cancer cells as a live-cell immune therapy.
+- [Cancer Immune Recognition Problem](concepts/CancerImmuneRecognitionProblem.md) — E235 oncology frame that cancer is hard because malignant cells are self cells, so therapy must distinguish cancer from normal tissue.
+- [Ex Vivo CAR-T Manufacturing](concepts/ExVivoCARTManufacturing.md) — Traditional patient-specific CAR-T route involving cell extraction, external engineering, expansion, quality control, logistics, and reinfusion.
+- [In Vivo CAR-T](concepts/InVivoCART.md) — E235 route that moves CAR-T generation into the patient through injectable gene-delivery tools, trading manufacturing gains for specificity and dose-control challenges.
+- [Allogeneic CAR-T](concepts/AllogeneicCART.md) — Off-the-shelf donor-cell CAR-T route discussed in E235 as a cost/time workaround limited by rejection and persistence issues.
+- [Solid Tumor CAR-T Constraints](concepts/SolidTumorCARTConstraints.md) — E235 concept for why CAR-T struggles in solid tumors: infiltration, cell-count mismatch, persistence, and local immune suppression.
+- [Tumor Microenvironment](concepts/TumorMicroenvironment.md) — E235 concept for the suppressive local environment inside solid tumors that can weaken engineered immune cells.
+- [Cytokine Release Syndrome](concepts/CytokineReleaseSyndrome.md) — CAR-T safety bottleneck in E235 where excessive immune activation creates dangerous inflammatory response.
+- [China Cell Therapy Regulatory Dual Track](concepts/ChinaCellTherapyRegulatoryDualTrack.md) — E235 frame for China's hospital technology-management, IIT, CDE drug-review, and commercialization boundary in cell therapy.
 - [AI Dubbing](concepts/AIDubbing.md) — E234 concept for AI voice reproduction versus context-sensitive human dubbing performance, including pauses, stress, imperfection, and scene judgment.
 - [AI Voice Cloning Rights](concepts/AIVoiceCloningRights.md) — E234 concept for consent, contracts, evidence, and enforcement when AI learns, blends, or reuses a performer's voice.
 - [Live-Action Film Under AI](concepts/LiveActionFilmUnderAI.md) — E234 concept for using AI as a ruler that forces creators to justify which scenes still deserve real crews, locations, and irreproducible performance.
