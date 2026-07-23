@@ -2,8 +2,8 @@
 title: "Bureaucratic Risk Avoidance"
 type: concept
 tags: [government, organizations, incentives, software]
-sources: [strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
-last_updated: 2026-07-17
+sources: [118-shi-dachen-xinla-fengci-yongbuguoshi-768665425, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
+last_updated: 2026-07-24
 ---
 
 # Bureaucratic Risk Avoidance
@@ -12,14 +12,18 @@ Bureaucratic risk avoidance is the incentive pattern described in [[strait-and-n
 
 The pattern helps explain why [[GovernmentWebsiteUsability]] can remain poor even with capable engineers or outsourced vendors. If mid-level bureaucrats manage projects without enough technical understanding or authority, they may specify familiar paper-process requirements, accept bad interfaces, and treat a completed procurement as success even when users struggle.
 
+[[118-shi-dachen-xinla-fengci-yongbuguoshi-768665425]] adds a satirical and more competent version through [[YesMinister|《是，大臣》 / Yes Minister]]. [[HumphreyAppleby|Humphrey Appleby]] is not avoiding risk because he is unable to govern; he avoids political and departmental risk by turning reform into process, information control, careful language, and [[BureaucraticWorkloadControl]].
+
 ## Key Claims
 - Risk avoidance can make procedural compliance more attractive than service redesign.
 - Weak buyer expertise makes outsourcing less effective because officials cannot judge whether the delivered system solves the real problem.
 - Technical teams can be trapped when they lack authority to push back against political or administrative demands.
 - High-level authority can change the outcome, as the episode suggests with [[Aadhaar]] and [[UPI]].
+- Risk avoidance can also be highly skilled: a bureaucracy can protect itself by mastering procedure better than elected officials master the department.
 
 ## Connections
 - [[India]], [[LeoMirani]], and [[NationalInformaticsCentre]] - source case.
 - [[GovernmentWebsiteUsability]] and [[PublicServiceDigitalization]] - affected service-quality concepts.
 - [[GovernmentEnterpriseProcurement]] - adjacent institutional buying problem.
 - [[Aadhaar]] and [[UPI]] - counterexamples where authority and competence were better aligned.
+- [[YesMinister|《是，大臣》]], [[CivilServiceContinuity]], [[AdministrativeOpacityAsControl]], and [[BureaucraticWorkloadControl]] - satirical civil-service extension.

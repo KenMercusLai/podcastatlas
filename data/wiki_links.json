@@ -91,6 +91,10 @@
     "title": "117.诅咒兔：怪谈文学也要上桌吃饭",
     "url": "/wiki/sources/117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341/"
   },
+  "118-shi-dachen-xinla-fengci-yongbuguoshi-768665425": {
+    "title": "118.是，大臣：辛辣讽刺永不过时",
+    "url": "/wiki/sources/118-shi-dachen-xinla-fengci-yongbuguoshi-768665425/"
+  },
   "130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi": {
     "title": "130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏",
     "url": "/wiki/sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi/"
@@ -1415,6 +1419,10 @@
     "title": "Adlerian Teleology",
     "url": "/wiki/concepts/adlerianteleology/"
   },
+  "AdministrativeOpacityAsControl": {
+    "title": "Administrative Opacity As Control",
+    "url": "/wiki/concepts/administrativeopacityascontrol/"
+  },
   "AdministrativeStateDismantling": {
     "title": "Administrative State Dismantling",
     "url": "/wiki/concepts/administrativestatedismantling/"
@@ -2311,6 +2319,10 @@
     "title": "Armand Benard",
     "url": "/wiki/entities/armandbenard/"
   },
+  "ArnoldRobinson": {
+    "title": "Arnold Robinson / 阿诺德",
+    "url": "/wiki/entities/arnoldrobinson/"
+  },
   "ArrivalFilm": {
     "title": "Arrival",
     "url": "/wiki/entities/arrivalfilm/"
@@ -2695,6 +2707,10 @@
     "title": "Baijian",
     "url": "/wiki/entities/baijian/"
   },
+  "BaillieCollege": {
+    "title": "Baillie College / 贝利学院",
+    "url": "/wiki/entities/bailliecollege/"
+  },
   "BairongIntelligence": {
     "title": "Bairong Intelligence",
     "url": "/wiki/entities/bairongintelligence/"
@@ -2962,6 +2978,10 @@
   "BernardMandeville": {
     "title": "Bernard Mandeville",
     "url": "/wiki/entities/bernardmandeville/"
+  },
+  "BernardWoolley": {
+    "title": "Bernard Woolley / 伯纳德",
+    "url": "/wiki/entities/bernardwoolley/"
   },
   "BernieEcclestone": {
     "title": "Bernie Ecclestone",
@@ -3382,6 +3402,10 @@
   "BureaucraticRiskAvoidance": {
     "title": "Bureaucratic Risk Avoidance",
     "url": "/wiki/concepts/bureaucraticriskavoidance/"
+  },
+  "BureaucraticWorkloadControl": {
+    "title": "Bureaucratic Workload Control",
+    "url": "/wiki/concepts/bureaucraticworkloadcontrol/"
   },
   "BurtonAbrams": {
     "title": "Burton Abrams",
@@ -4306,6 +4330,10 @@
   "CivilLibertiesSurveillanceRisk": {
     "title": "Civil Liberties Surveillance Risk",
     "url": "/wiki/concepts/civillibertiessurveillancerisk/"
+  },
+  "CivilServiceContinuity": {
+    "title": "Civil Service Continuity / 文官连续性",
+    "url": "/wiki/concepts/civilservicecontinuity/"
   },
   "CivilizationAsDeception": {
     "title": "Civilization As Deception",
@@ -9191,6 +9219,10 @@
     "title": "Honore de Balzac / 巴尔扎克",
     "url": "/wiki/entities/honoredebalzac/"
   },
+  "HonoursPatronageExchange": {
+    "title": "Honours Patronage Exchange",
+    "url": "/wiki/concepts/honourspatronageexchange/"
+  },
   "Hookie": {
     "title": "Hookie",
     "url": "/wiki/entities/hookie/"
@@ -9414,6 +9446,10 @@
   "HumorousConservationWriting": {
     "title": "Humorous Conservation Writing",
     "url": "/wiki/concepts/humorousconservationwriting/"
+  },
+  "HumphreyAppleby": {
+    "title": "Humphrey Appleby / 汉弗瑞",
+    "url": "/wiki/entities/humphreyappleby/"
   },
   "HyakkiYagyoSeries": {
     "title": "百鬼夜行系列 / Hyakki Yagyo Series",
@@ -9722,6 +9758,10 @@
   "InstituteForScienceAndInternationalSecurity": {
     "title": "Institute for Science and International Security",
     "url": "/wiki/entities/instituteforscienceandinternationalsecurity/"
+  },
+  "InstitutionalMechanismSatire": {
+    "title": "Institutional Mechanism Satire",
+    "url": "/wiki/concepts/institutionalmechanismsatire/"
   },
   "InstitutionalOvercompliance": {
     "title": "Institutional Overcompliance",
@@ -10106,6 +10146,10 @@
   "JamesDamore": {
     "title": "James Damore",
     "url": "/wiki/entities/jamesdamore/"
+  },
+  "JamesHacker": {
+    "title": "James Hacker / Jim Hacker / 詹姆斯·哈克",
+    "url": "/wiki/entities/jameshacker/"
   },
   "JamesLovelock": {
     "title": "James Lovelock",
@@ -20930,6 +20974,14 @@
   "YerenXiansheng": {
     "title": "Yeren Xiansheng",
     "url": "/wiki/entities/yerenxiansheng/"
+  },
+  "YesMinister": {
+    "title": "《是，大臣》 / Yes Minister",
+    "url": "/wiki/entities/yesminister/"
+  },
+  "YesPrimeMinister": {
+    "title": "《是，首相》 / Yes, Prime Minister",
+    "url": "/wiki/entities/yesprimeminister/"
   },
   "YiGeAfuhanNvrenDeLaixin": {
     "title": "《一个阿富汗女人的来信》",

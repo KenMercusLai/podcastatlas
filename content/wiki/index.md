@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [118.是，大臣：辛辣讽刺永不过时](sources/118-shi-dachen-xinla-fengci-yongbuguoshi-768665425.md) — 蜜獾吃书 episode on 《是，大臣》 and 《是，首相》, Hacker/Humphrey/Bernard/Arnold power relations, open-government containment, red-box workload control, and Baillie College honors patronage.
 - [117.诅咒兔：怪谈文学也要上桌吃饭](sources/117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341.md) — 蜜獾吃书 episode on 郑宝拉《诅咒兔》, 韩江 as Korean-literary context, guaitan literature, genre legitimacy, gendered domestic horror, capitalist/family violence, revenge, and loneliness after revenge.
 - [116.不服从的艺术：分享一些实战方法，还有力量](sources/116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021.md) — 蜜獾吃书 episode on 《不服从的艺术》, 原则性不服从, 现状合理化, Darwin/Semmelweis persuasion contrasts, constructive dissent, whistleblower costs, psychological flexibility, and post-victory restraint.
 - [115.京极夏彦今昔续百鬼：不研究妖怪，怎么好好做人？](sources/115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309.md) — 蜜獾吃书 episode on 京极夏彦, 《今昔续百鬼·云》, 妖怪推理, 多多良胜五郎, 《暗眼小僧》, 河童/dog misdirection, folklore fieldwork, postwar memory, and 鸟山石燕 image interpretation.
@@ -534,6 +535,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《是，大臣》 / Yes Minister](entities/YesMinister.md) — British political-satire series read as a durable anatomy of elected reform colliding with permanent civil-service control.
+- [《是，首相》 / Yes, Prime Minister](entities/YesPrimeMinister.md) — Sequel extending the same minister-civil-service satire to prime-ministerial power.
+- [James Hacker / Jim Hacker / 詹姆斯·哈克](entities/JamesHacker.md) — Elected minister whose reform ambition, media fear, vanity, and formal authority are contained by bureaucratic control.
+- [Humphrey Appleby / 汉弗瑞](entities/HumphreyAppleby.md) — Permanent secretary who embodies skilled civil-service continuity, opacity, workload control, and institutional self-protection.
+- [Bernard Woolley / 伯纳德](entities/BernardWoolley.md) — Private secretary caught between ministerial service and civil-service career incentives.
+- [Arnold Robinson / 阿诺德](entities/ArnoldRobinson.md) — Senior civil-service operator who helps frame open government as a threat to the bureaucracy's operating conditions.
+- [Baillie College / 贝利学院](entities/BaillieCollege.md) — Fictional Oxford college used to connect education prestige, foreign-student fees, honorary doctorates, and honours patronage.
 - [韩江 / Han Kang](entities/HanKang.md) — Korean writer used as the episode's opening context for bodily strange fiction and the literary prestige of Korean women writers.
 - [郑宝拉 / Bora Chung](entities/BoraChung.md) — Korean writer of 《诅咒兔》, read here through guaitan, direct grotesque premises, patriarchy/capitalism, revenge, and loneliness.
 - [《诅咒兔》 / Cursed Bunny](entities/CursedBunny.md) — Bora Chung short-story collection used to argue that guaitan can carry serious literary force through horror, family violence, exploitation, and post-revenge emptiness.
@@ -3510,6 +3518,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Institutional Mechanism Satire](concepts/InstitutionalMechanismSatire.md) — Satire frame where comedy exposes durable institutional relations rather than one-off corruption or isolated witty lines.
+- [Civil Service Continuity / 文官连续性](concepts/CivilServiceContinuity.md) — Structural asymmetry where permanent officials outlast elected politicians and control memory, files, timing, and implementation.
+- [Administrative Opacity As Control](concepts/AdministrativeOpacityAsControl.md) — Mechanism where transparency language is absorbed into drafts, delays, definitions, and procedure that preserve secrecy.
+- [Bureaucratic Workload Control](concepts/BureaucraticWorkloadControl.md) — Use of red boxes, schedules, standard replies, and official language to saturate attention and separate formal authority from real control.
+- [Honours Patronage Exchange](concepts/HonoursPatronageExchange.md) — Policy currency pattern where honorary titles, honours lists, budget savings, and institutional exceptions become respectable trades.
 - [Genre Literary Legitimacy / 类型文学正名](concepts/GenreLiteraryLegitimacy.md) — Frame for treating genre forms such as guaitan, wuxia, weird fiction, and mystery as serious literary toolkits rather than lower-value containers.
 - [怪谈文学 / Guaitan Literature](concepts/GuaitanLiterature.md) — Horror-folklore literary mode where strange bodies, curses, monsters, and folk-tale logic make fear, harm, and loneliness concrete.
 - [Gendered Domestic Horror / 性别化家庭恐怖](concepts/GenderedDomesticHorror.md) — Pattern where household space, bodily shame, reproduction, family disregard, and extraction become horror.

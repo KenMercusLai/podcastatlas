@@ -4299,3 +4299,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | 118.是，大臣：辛辣讽刺永不过时
+
+Added source page for a 蜜獾吃书 episode on 《是，大臣》 and 《是，首相》, covering Hacker, Humphrey, Bernard, Arnold, British civil-service continuity, open-government containment, red boxes and official language as workload control, and the Baillie College exchange among foreign-student fees, honorary doctorates, budget savings, and honours lists. Created pages for 《是，大臣》 / Yes Minister, 《是，首相》 / Yes, Prime Minister, James Hacker, Humphrey Appleby, Bernard Woolley, Arnold Robinson, Baillie College, Institutional Mechanism Satire, Civil Service Continuity, Administrative Opacity As Control, Bureaucratic Workload Control, and Honours Patronage Exchange; updated overview, index, 蜜獾吃书, Bureaucratic Risk Avoidance, Machiavellian Realism, and Controlled Humor With Pain. No direct contradiction found; the source complements the existing Swift/Gulliver political-satire branch by adding a modern administrative-procedure satire where institutional incentives, not only individual corruption, make reform comic and fragile.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
