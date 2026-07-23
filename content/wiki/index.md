@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [119.安乐死现场：正因生命如此珍贵](sources/119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087.md) — 蜜獾吃书 episode on 《安乐死现场》, euthanasia and assisted suicide, Swiss Life Circle/Dignitas, Dutch/Belgian/U.S./Spanish/Japanese/Chinese cases, dignity, family ethics, medical safeguards, and the host's "不知道" stance.
 - [118.是，大臣：辛辣讽刺永不过时](sources/118-shi-dachen-xinla-fengci-yongbuguoshi-768665425.md) — 蜜獾吃书 episode on 《是，大臣》 and 《是，首相》, Hacker/Humphrey/Bernard/Arnold power relations, open-government containment, red-box workload control, and Baillie College honors patronage.
 - [117.诅咒兔：怪谈文学也要上桌吃饭](sources/117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341.md) — 蜜獾吃书 episode on 郑宝拉《诅咒兔》, 韩江 as Korean-literary context, guaitan literature, genre legitimacy, gendered domestic horror, capitalist/family violence, revenge, and loneliness after revenge.
 - [116.不服从的艺术：分享一些实战方法，还有力量](sources/116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021.md) — 蜜獾吃书 episode on 《不服从的艺术》, 原则性不服从, 现状合理化, Darwin/Semmelweis persuasion contrasts, constructive dissent, whistleblower costs, psychological flexibility, and post-victory restraint.
@@ -535,6 +536,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《安乐死现场》](entities/AnlesiXianchang.md) — Reporting book used by episode 119 to compare euthanasia and assisted-suicide cases across countries.
+- [Life Circle](entities/LifeCircle.md) — Swiss assisted-suicide organization used by episode 119 to explain member request, medical diagnosis, unbearable suffering, and patient self-administration.
+- [Dignitas](entities/Dignitas.md) — Swiss assisted-suicide organization appearing as an institutional reference point in the Life Circle founder story.
+- [Brittany Maynard / 布列塔尼](entities/BrittanyMaynard.md) — U.S. dignity-death case connecting cancer suffering, public storytelling, Oregon-style law, and advocacy.
+- [Dan Diaz / 丹·迪阿斯](entities/DanDiaz.md) — Brittany Maynard's husband, presented as a family supporter and later dignity-death advocate.
+- [Ramon Sampedro / 桑佩德罗](entities/RamonSampedro.md) — Spanish assisted-suicide case used to test autonomy against family grief, religion, and relationship ethics.
+- [林优里 / Hayashi Yuri](entities/HayashiYuri.md) — Kyoto ALS patient whose death becomes episode 119's Japanese criminal-law and clinical-responsibility case.
+- [王明辰 / Wang Mingchen](entities/WangMingchen.md) — Chinese assisted-death case figure who both requested help for his mother and later wanted euthanasia for himself.
+- [蒲莲生 / Pu Liansheng](entities/PuLiansheng.md) — Physician in the Chinese 1986 assisted-death case involving Wang Mingchen's mother.
+- [Netherlands](entities/Netherlands.md) — European assisted-death comparison country associated in episode 119 with physician-administered voluntary euthanasia.
+- [Belgium](entities/Belgium.md) — European assisted-death comparison country used for psychiatric and minor eligibility controversy.
 - [《是，大臣》 / Yes Minister](entities/YesMinister.md) — British political-satire series read as a durable anatomy of elected reform colliding with permanent civil-service control.
 - [《是，首相》 / Yes, Prime Minister](entities/YesPrimeMinister.md) — Sequel extending the same minister-civil-service satire to prime-ministerial power.
 - [James Hacker / Jim Hacker / 詹姆斯·哈克](entities/JamesHacker.md) — Elected minister whose reform ambition, media fear, vanity, and formal authority are contained by bureaucratic control.
@@ -3518,6 +3530,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Assisted Death Concept Boundary](concepts/AssistedDeathConceptBoundary.md) — Distinction among active euthanasia, assisted suicide, passive euthanasia, and terminal sedation.
+- [Cross-Cultural Assisted Death Ethics](concepts/CrossCulturalAssistedDeathEthics.md) — Comparative frame for how national cultures and laws assign meaning to assisted death.
+- [End-of-Life Autonomy And Dignity](concepts/EndOfLifeAutonomyAndDignity.md) — Patient-rights frame around pain, timing, dignity, and subjecthood at the end of life.
+- [Assisted Death Clinical Responsibility](concepts/AssistedDeathClinicalResponsibility.md) — Doctor-role problem around diagnosis, prognosis, competence, conflicts, and liability in assisted death.
+- [Family Ethics At End Of Life](concepts/FamilyEthicsAtEndOfLife.md) — Relational ethics of spouses, parents, siblings, children, and caregivers around death decisions.
+- [Death Option As Psychological Relief](concepts/DeathOptionAsPsychologicalRelief.md) — Paradox where knowing assisted death is possible can sometimes make continued life bearable.
+- [Euthanasia Uncertainty Stance](concepts/EuthanasiaUncertaintyStance.md) — Disciplined "不知道" posture toward assisted-death ethics after concrete cases remain unresolved.
 - [Institutional Mechanism Satire](concepts/InstitutionalMechanismSatire.md) — Satire frame where comedy exposes durable institutional relations rather than one-off corruption or isolated witty lines.
 - [Civil Service Continuity / 文官连续性](concepts/CivilServiceContinuity.md) — Structural asymmetry where permanent officials outlast elected politicians and control memory, files, timing, and implementation.
 - [Administrative Opacity As Control](concepts/AdministrativeOpacityAsControl.md) — Mechanism where transparency language is absorbed into drafts, delays, definitions, and procedure that preserve secrecy.

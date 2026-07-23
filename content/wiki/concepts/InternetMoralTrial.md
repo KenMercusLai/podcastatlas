@@ -2,7 +2,7 @@
 title: "Internet Moral Trial / 互联网审判"
 type: concept
 tags: [internet-culture, judgment, public-expression, creators, ethics]
-sources: [100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]
+sources: [119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]
 last_updated: 2026-07-24
 ---
 
@@ -16,6 +16,8 @@ The concept is not a ban on judgment. The episode preserves basic values and bot
 
 [[100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302]] adds a legal-philosophy parallel through the episode's warning about "键盘法官." Public anger at offenders can feel morally clarifying, but the source treats that confidence as one reason law needs [[CriminalLawAsPowerLimitation]], [[LawMoralityBoundary]], and [[RationalHumility]].
 
+[[119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087]] adds a life-and-death version. The host begins by warning against attacking ordinary people over assisted-death choices or spreading rumor, fabrication, and decontextualized fragments in a chaotic public field; the episode then treats [[BrittanyMaynard]]'s public storytelling as useful but ethically sensitive because death-related media can affect vulnerable audiences.
+
 ## Key Claims
 - Incomplete information should reduce confidence, especially when the target is an individual rather than a public system.
 - Public visibility, fame, or wealth does not make a person default eligible for unlimited abuse.
@@ -25,6 +27,7 @@ The concept is not a ban on judgment. The episode preserves basic values and bot
 - [[RecognitionAsHumiliation|认错等于屈辱]] helps explain why online judgment becomes sticky: if apology means total shame, people resist proportional correction.
 - The Salem analogy adds that unfalsifiable motive accusation can function like modern [[SpectralEvidence]]: what matters is claimed invisible intent rather than independently checkable action.
 - The legal-philosophy extension adds that collective anger can make procedural safeguards look unnecessary exactly when they are doing their most important work.
+- Assisted-death discourse adds that some subjects require both public discussion and suicide-contagion caution; refusing online attack is part of respecting life rather than avoiding judgment.
 
 ## Connections
 - [[ZhaoLusi|赵露思]] - public-figure case that opens the discussion.
@@ -36,3 +39,4 @@ The concept is not a ban on judgment. The episode preserves basic values and bot
 - [[ObservationBeforeInference]] and [[EmpathyBoundaries]] - adjacent guardrails for evidence and bounded understanding.
 - [[WitchHuntMechanism]] and [[SpectralEvidence]] - historical analogy added by the Salem source.
 - [[CriminalLawAsPowerLimitation]], [[LawMoralityBoundary]], and [[LegalParadoxThinking]] - legal judgment extension added by episode 100.
+- [[DeathOptionAsPsychologicalRelief]], [[EndOfLifeAutonomyAndDignity]], and [[EuthanasiaUncertaintyStance]] - assisted-death media-ethics extension added by episode 119.

@@ -1,12 +1,14 @@
 ---
 title: "Japan"
 type: entity
-tags: [country, politics, law, society, consumer, tourism, economy, youth]
-sources: [missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq]
-last_updated: 2026-07-15
+tags: [country, politics, law, society, consumer, tourism, economy, youth, healthcare]
+sources: [119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq]
+last_updated: 2026-07-24
 ---
 
 # Japan
+
+[[119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087]] adds Japan as both the author's cultural starting point and a legal case setting in [[AnlesiXianchang|《安乐死现场》]]. The episode contrasts Western personal-rights language with Japanese concern about not burdening others, then uses [[HayashiYuri]]'s Kyoto case to show how [[AssistedDeathClinicalResponsibility]] can become criminal-law exposure.
 
 Japan appears in [[the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]] through family-law reform after divorce. The episode says Japan had been the only G7 country without post-divorce [[JointCustodyReform]], and it frames the new law as part of a broader shift away from a [[CleanBreakDivorceModel]] where the parent leaving the household can be treated as socially absent.
 
@@ -36,3 +38,4 @@ Japan also appears in [[snap-judgement-japan-pms-electoral-landslide-6989c0fc61b
 - [[YouthHappinessAfterGrowth]], [[SocialTrustAndHappiness]], [[MicroHappiness]], and [[ArtisanalAttention]] - happiness branch added by vol.102.
 - [[JapaneseSogoShosha]], [[KeiretsuBusinessGroups]], [[TradingCompanyInvestmentModel]], [[LowEquityCommercialRights]], and [[DeglobalizationTradeIntermediation]] - corporate-organization and trade branch added by vol.108.
 - [[TheIntelligence]] - source podcast context.
+- [[HayashiYuri]], [[CrossCulturalAssistedDeathEthics]], and [[AssistedDeathClinicalResponsibility]] - assisted-death branch added by episode 119.

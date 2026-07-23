@@ -4216,6 +4216,7 @@ Added source page for a 蜜獾吃书 episode on 罗翔《法律的悖论》, cov
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -4303,6 +4304,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-24] ingest | 118.是，大臣：辛辣讽刺永不过时
 
 Added source page for a 蜜獾吃书 episode on 《是，大臣》 and 《是，首相》, covering Hacker, Humphrey, Bernard, Arnold, British civil-service continuity, open-government containment, red boxes and official language as workload control, and the Baillie College exchange among foreign-student fees, honorary doctorates, budget savings, and honours lists. Created pages for 《是，大臣》 / Yes Minister, 《是，首相》 / Yes, Prime Minister, James Hacker, Humphrey Appleby, Bernard Woolley, Arnold Robinson, Baillie College, Institutional Mechanism Satire, Civil Service Continuity, Administrative Opacity As Control, Bureaucratic Workload Control, and Honours Patronage Exchange; updated overview, index, 蜜獾吃书, Bureaucratic Risk Avoidance, Machiavellian Realism, and Controlled Humor With Pain. No direct contradiction found; the source complements the existing Swift/Gulliver political-satire branch by adding a modern administrative-procedure satire where institutional incentives, not only individual corruption, make reform comic and fragile.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | 119.安乐死现场：正因生命如此珍贵
+
+Added source page for a 蜜獾吃书 episode on 《安乐死现场》, euthanasia, assisted suicide, Swiss Life Circle and Dignitas, Dutch and Belgian assisted-death models, the Brittany Maynard / Dan Diaz dignity-death case, Ramon Sampedro's Spanish family conflict, Hayashi Yuri's Japanese criminal-law case, and Wang Mingchen / Pu Liansheng's Chinese case. Created pages for 《安乐死现场》, Life Circle, Dignitas, Brittany Maynard, Dan Diaz, Ramon Sampedro, Hayashi Yuri, Wang Mingchen, Pu Liansheng, Netherlands, Belgium, Assisted Death Concept Boundary, Cross-Cultural Assisted Death Ethics, End-of-Life Autonomy And Dignity, Assisted Death Clinical Responsibility, Family Ethics At End Of Life, Death Option As Psychological Relief, and Euthanasia Uncertainty Stance; updated overview, index, 蜜獾吃书, Assisted Dying Laws, Assisted Dying Safeguards, Death with Dignity, Hospice Care, Pain And Moral Responsibility, Present Moment Against Death, Subject-Led Care, Rational Humility, Internet Moral Trial, Law-Morality Boundary, Legal Paradox Thinking, Switzerland, Spain, Japan, China, and United States. No direct contradiction found; the source extends existing mortality and legal-ethics branches by showing why assisted death cannot be reduced to a single pro/con stance when pain, dignity, family love, clinical responsibility, and legal safeguards all remain morally active.
 
 ## [2026-07-24] lint | Wiki health check
 

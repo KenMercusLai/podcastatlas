@@ -95,6 +95,10 @@
     "title": "118.是，大臣：辛辣讽刺永不过时",
     "url": "/wiki/sources/118-shi-dachen-xinla-fengci-yongbuguoshi-768665425/"
   },
+  "119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087": {
+    "title": "119.安乐死现场：正因生命如此珍贵",
+    "url": "/wiki/sources/119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087/"
+  },
   "130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi": {
     "title": "130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏",
     "url": "/wiki/sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi/"
@@ -2107,6 +2111,10 @@
     "title": "Anker Innovations / 安克创新",
     "url": "/wiki/entities/ankerinnovations/"
   },
+  "AnlesiXianchang": {
+    "title": "《安乐死现场》",
+    "url": "/wiki/entities/anlesixianchang/"
+  },
   "AnnaKerr": {
     "title": "Anna Kerr",
     "url": "/wiki/entities/annakerr/"
@@ -2414,6 +2422,14 @@
   "AssimilationCapacity": {
     "title": "Assimilation Capacity",
     "url": "/wiki/concepts/assimilationcapacity/"
+  },
+  "AssistedDeathClinicalResponsibility": {
+    "title": "Assisted Death Clinical Responsibility",
+    "url": "/wiki/concepts/assisteddeathclinicalresponsibility/"
+  },
+  "AssistedDeathConceptBoundary": {
+    "title": "Assisted Death Concept Boundary",
+    "url": "/wiki/concepts/assisteddeathconceptboundary/"
   },
   "AssistedDyingLaws": {
     "title": "Assisted Dying Laws",
@@ -2923,6 +2939,10 @@
     "title": "Beiping Office World",
     "url": "/wiki/concepts/beipingofficeworld/"
   },
+  "Belgium": {
+    "title": "Belgium",
+    "url": "/wiki/entities/belgium/"
+  },
   "BenGoldhersh": {
     "title": "Ben Goldhersh",
     "url": "/wiki/entities/bengoldhersh/"
@@ -3318,6 +3338,10 @@
   "BrittYoung": {
     "title": "Britt Young",
     "url": "/wiki/entities/brittyoung/"
+  },
+  "BrittanyMaynard": {
+    "title": "Brittany Maynard / 布列塔尼",
+    "url": "/wiki/entities/brittanymaynard/"
   },
   "BroadcastCentralization": {
     "title": "Broadcast Centralization",
@@ -5063,6 +5087,10 @@
     "title": "Cross-Border Wealth Management Connect",
     "url": "/wiki/concepts/crossborderwealthmanagementconnect/"
   },
+  "CrossCulturalAssistedDeathEthics": {
+    "title": "Cross-Cultural Assisted Death Ethics",
+    "url": "/wiki/concepts/crossculturalassisteddeathethics/"
+  },
   "CrossCulturalProductDesign": {
     "title": "Cross-Cultural Product Design",
     "url": "/wiki/concepts/crossculturalproductdesign/"
@@ -5290,6 +5318,10 @@
   "DanDavies": {
     "title": "Dan Davies",
     "url": "/wiki/entities/dandavies/"
+  },
+  "DanDiaz": {
+    "title": "Dan Diaz / 丹·迪阿斯",
+    "url": "/wiki/entities/dandiaz/"
   },
   "DanLevine": {
     "title": "Dan Levine",
@@ -5547,6 +5579,10 @@
     "title": "De Facto Super League Logic",
     "url": "/wiki/concepts/defactosuperleaguelogic/"
   },
+  "DeathOptionAsPsychologicalRelief": {
+    "title": "Death Option As Psychological Relief",
+    "url": "/wiki/concepts/deathoptionaspsychologicalrelief/"
+  },
   "DeathWithDignity": {
     "title": "Death with Dignity",
     "url": "/wiki/entities/deathwithdignity/"
@@ -5798,6 +5834,10 @@
   "DigitalTranscendenceAsControl": {
     "title": "Digital Transcendence As Control",
     "url": "/wiki/concepts/digitaltranscendenceascontrol/"
+  },
+  "Dignitas": {
+    "title": "Dignitas",
+    "url": "/wiki/entities/dignitas/"
   },
   "DignityProtectingDeduction": {
     "title": "体面保护式推理 / Dignity-Protecting Deduction",
@@ -6599,6 +6639,10 @@
     "title": "Employment Ice Age Generation",
     "url": "/wiki/concepts/employmenticeagegeneration/"
   },
+  "EndOfLifeAutonomyAndDignity": {
+    "title": "End-of-Life Autonomy And Dignity",
+    "url": "/wiki/concepts/endoflifeautonomyanddignity/"
+  },
   "EnergyTradingScaleAdvantage": {
     "title": "Energy Trading Scale Advantage",
     "url": "/wiki/concepts/energytradingscaleadvantage/"
@@ -6766,6 +6810,10 @@
   "Eutelsat": {
     "title": "Eutelsat",
     "url": "/wiki/entities/eutelsat/"
+  },
+  "EuthanasiaUncertaintyStance": {
+    "title": "Euthanasia Uncertainty Stance",
+    "url": "/wiki/concepts/euthanasiauncertaintystance/"
   },
   "EvaLeilaPesaran": {
     "title": "Eva Leila Pesaran",
@@ -6958,6 +7006,10 @@
   "FamilyDollar": {
     "title": "Family Dollar",
     "url": "/wiki/entities/familydollar/"
+  },
+  "FamilyEthicsAtEndOfLife": {
+    "title": "Family Ethics At End Of Life",
+    "url": "/wiki/concepts/familyethicsatendoflife/"
   },
   "FamilyLaborBoundaries": {
     "title": "Family Labor Boundaries",
@@ -8866,6 +8918,10 @@
   "HayaoMiyazaki": {
     "title": "Hayao Miyazaki / 宫崎骏",
     "url": "/wiki/entities/hayaomiyazaki/"
+  },
+  "HayashiYuri": {
+    "title": "林优里 / Hayashi Yuri",
+    "url": "/wiki/entities/hayashiyuri/"
   },
   "HeQianran": {
     "title": "何倩然 / He Qianran",
@@ -11595,6 +11651,10 @@
     "title": "Life Antifragility",
     "url": "/wiki/concepts/lifeantifragility/"
   },
+  "LifeCircle": {
+    "title": "Life Circle",
+    "url": "/wiki/entities/lifecircle/"
+  },
   "LifeRestartThoughtExperiment": {
     "title": "Life Restart Thought Experiment",
     "url": "/wiki/concepts/liferestartthoughtexperiment/"
@@ -13659,6 +13719,10 @@
     "title": "Netflix",
     "url": "/wiki/entities/netflix/"
   },
+  "Netherlands": {
+    "title": "Netherlands",
+    "url": "/wiki/entities/netherlands/"
+  },
   "Netscape": {
     "title": "Netscape",
     "url": "/wiki/entities/netscape/"
@@ -15483,6 +15547,10 @@
     "title": "Psychological Flexibility For Dissent / 不服从中的心理灵活性",
     "url": "/wiki/concepts/psychologicalflexibilityfordissent/"
   },
+  "PuLiansheng": {
+    "title": "蒲莲生 / Pu Liansheng",
+    "url": "/wiki/entities/puliansheng/"
+  },
   "PuShougeng": {
     "title": "Pu Shougeng / 蒲寿庚",
     "url": "/wiki/entities/pushougeng/"
@@ -15798,6 +15866,10 @@
   "RamShriram": {
     "title": "Ram Shriram",
     "url": "/wiki/entities/ramshriram/"
+  },
+  "RamonSampedro": {
+    "title": "Ramon Sampedro / 桑佩德罗",
+    "url": "/wiki/entities/ramonsampedro/"
   },
   "RandomMarketNarratives": {
     "title": "Random Market Narratives",
@@ -20138,6 +20210,10 @@
   "WangMian": {
     "title": "王冕",
     "url": "/wiki/entities/wangmian/"
+  },
+  "WangMingchen": {
+    "title": "王明辰 / Wang Mingchen",
+    "url": "/wiki/entities/wangmingchen/"
   },
   "WangShengli": {
     "title": "Wang Shengli",

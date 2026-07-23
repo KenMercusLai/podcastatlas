@@ -1,12 +1,14 @@
 ---
 title: "Spain"
 type: entity
-tags: [country, football, sports-development]
-sources: [vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, why-the-us-has-no-guaranteed-paid-vacation, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
-last_updated: 2026-07-18
+tags: [country, football, sports-development, healthcare, law]
+sources: [119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, why-the-us-has-no-guaranteed-paid-vacation, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
+last_updated: 2026-07-24
 ---
 
 # Spain
+
+[[119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087]] adds Spain as the [[RamonSampedro]] case setting in [[AnlesiXianchang|《安乐死现场》]]. The episode uses Spain's stronger Catholic and family context to show why assisted death cannot be read only as private autonomy: Sampedro's request, Ramona's help, and his family's anger become a test of [[FamilyEthicsAtEndOfLife]].
 
 Spain appears in [[vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191]] as the football-development environment that attracted [[LiXiang]] and [[TangHui]] to [[JumillaCF]]. The source contrasts Spain's dense youth and lower-tier competition pyramid with [[China]]'s much smaller registered-player base.
 
@@ -26,3 +28,4 @@ Spain appears in [[vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shang
 - [[China]] - contrast case around registered players and competition depth.
 - [[AdewaleMaie]], [[UnitedStates]], and [[PaidVacationAsLaborRight]] - vacation-law comparison added by Planet Money.
 - [[FIFAWorldCup]], [[Argentina]], [[LionelMessi]], [[WorldCupExpansion]], and [[JohnFasman]] - World Cup branch added by The Intelligence.
+- [[RamonSampedro]], [[CrossCulturalAssistedDeathEthics]], and [[EndOfLifeAutonomyAndDignity]] - assisted-death branch added by episode 119.
