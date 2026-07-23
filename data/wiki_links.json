@@ -2351,6 +2351,10 @@
     "title": "Athlete Sponsorship Strategy",
     "url": "/wiki/concepts/athletesponsorshipstrategy/"
   },
+  "AthleticBilbao": {
+    "title": "Athletic Bilbao",
+    "url": "/wiki/entities/athleticbilbao/"
+  },
   "AtlanticAvenueBarclaysCenter": {
     "title": "Atlantic Avenue-Barclays Center",
     "url": "/wiki/entities/atlanticavenuebarclayscenter/"
@@ -2750,6 +2754,10 @@
   "BayoAkomolafe": {
     "title": "Bayo Akomolafe",
     "url": "/wiki/entities/bayoakomolafe/"
+  },
+  "BeautifulGameTheory": {
+    "title": "Beautiful Game Theory",
+    "url": "/wiki/entities/beautifulgametheory/"
   },
   "BeautyCam": {
     "title": "BeautyCam / 美颜相机",
@@ -5203,6 +5211,10 @@
     "title": "Data Center Thermal Management",
     "url": "/wiki/concepts/datacenterthermalmanagement/"
   },
+  "DataDrivenPenaltyPreparation": {
+    "title": "Data-Driven Penalty Preparation",
+    "url": "/wiki/concepts/datadrivenpenaltypreparation/"
+  },
   "DataDrivenProductCulture": {
     "title": "Data-Driven Product Culture",
     "url": "/wiki/concepts/datadrivenproductculture/"
@@ -6143,6 +6155,10 @@
     "title": "Edwin A. Abbott / 爱德温·爱伯特",
     "url": "/wiki/entities/edwinabbott/"
   },
+  "EdwinVanDerSar": {
+    "title": "Edwin van der Sar",
+    "url": "/wiki/entities/edwinvandersar/"
+  },
   "EfficientFrontier": {
     "title": "Efficient Frontier",
     "url": "/wiki/concepts/efficientfrontier/"
@@ -6334,6 +6350,10 @@
   "EngineeringState": {
     "title": "Engineering State",
     "url": "/wiki/concepts/engineeringstate/"
+  },
+  "EnglandNationalFootballTeam": {
+    "title": "England National Football Team",
+    "url": "/wiki/entities/englandnationalfootballteam/"
   },
   "EnterpriseAgentGovernance": {
     "title": "Enterprise Agent Governance",
@@ -7646,6 +7666,10 @@
   "GameStop": {
     "title": "GameStop",
     "url": "/wiki/entities/gamestop/"
+  },
+  "GameTheory": {
+    "title": "Game Theory",
+    "url": "/wiki/concepts/gametheory/"
   },
   "GammaSqueeze": {
     "title": "Gamma Squeeze",
@@ -9103,6 +9127,10 @@
     "title": "If You Can Keep It",
     "url": "/wiki/entities/ifyoucankeepit/"
   },
+  "IgnacioPalacioHuerta": {
+    "title": "Ignacio Palacio Huerta",
+    "url": "/wiki/entities/ignaciopalaciohuerta/"
+  },
   "IlyaSutskever": {
     "title": "Ilya Sutskever",
     "url": "/wiki/entities/ilyasutskever/"
@@ -10058,6 +10086,10 @@
   "JohnTernus": {
     "title": "John Ternus",
     "url": "/wiki/entities/johnternus/"
+  },
+  "JohnTerry": {
+    "title": "John Terry",
+    "url": "/wiki/entities/johnterry/"
   },
   "JohnnyFidelisSantos": {
     "title": "Johnny Fidelis Santos",
@@ -12443,6 +12475,10 @@
     "title": "三美电机",
     "url": "/wiki/entities/mitsumielectric/"
   },
+  "MixedStrategy": {
+    "title": "Mixed Strategy",
+    "url": "/wiki/concepts/mixedstrategy/"
+  },
   "Mixpanel": {
     "title": "Mixpanel",
     "url": "/wiki/entities/mixpanel/"
@@ -13038,6 +13074,10 @@
   "NickSwisher": {
     "title": "Nick Swisher",
     "url": "/wiki/entities/nickswisher/"
+  },
+  "NicolasAnelka": {
+    "title": "Nicolas Anelka",
+    "url": "/wiki/entities/nicolasanelka/"
   },
   "NicoleTurnerLee": {
     "title": "Nicole Turner-Lee",
@@ -13887,6 +13927,14 @@
     "title": "Peking University / 北京大学",
     "url": "/wiki/entities/pekinguniversity/"
   },
+  "PenaltyShootoutPressure": {
+    "title": "Penalty Shootout Pressure",
+    "url": "/wiki/concepts/penaltyshootoutpressure/"
+  },
+  "PenaltyShootoutStrategy": {
+    "title": "Penalty Shootout Strategy",
+    "url": "/wiki/concepts/penaltyshootoutstrategy/"
+  },
   "PengWenjun": {
     "title": "彭文君",
     "url": "/wiki/entities/pengwenjun/"
@@ -14030,6 +14078,10 @@
   "PeterThiel": {
     "title": "Peter Thiel",
     "url": "/wiki/entities/peterthiel/"
+  },
+  "PetrCech": {
+    "title": "Petr Cech",
+    "url": "/wiki/entities/petrcech/"
   },
   "PewResearchCenter": {
     "title": "Pew Research Center",
@@ -16607,6 +16659,10 @@
     "title": "Simon",
     "url": "/wiki/entities/simon/"
   },
+  "SimonKuper": {
+    "title": "Simon Kuper",
+    "url": "/wiki/entities/simonkuper/"
+  },
   "SimplyInsured": {
     "title": "Simply Insured",
     "url": "/wiki/entities/simplyinsured/"
@@ -16738,6 +16794,10 @@
   "SoapOperaEffect": {
     "title": "Soap Opera Effect",
     "url": "/wiki/concepts/soapoperaeffect/"
+  },
+  "Soccernomics": {
+    "title": "Soccernomics",
+    "url": "/wiki/entities/soccernomics/"
   },
   "SocialEngineeringFraud": {
     "title": "Social Engineering Fraud",
@@ -17183,6 +17243,10 @@
     "title": "Stefan Sagmeister",
     "url": "/wiki/entities/stefansagmeister/"
   },
+  "StefanSzymanski": {
+    "title": "Stefan Szymanski",
+    "url": "/wiki/entities/stefanszymanski/"
+  },
   "StepFun": {
     "title": "StepFun",
     "url": "/wiki/entities/stepfun/"
@@ -17294,6 +17358,10 @@
   "StrategicRerelease": {
     "title": "Strategic Rerelease",
     "url": "/wiki/concepts/strategicrerelease/"
+  },
+  "StrategicUnpredictability": {
+    "title": "Strategic Unpredictability",
+    "url": "/wiki/concepts/strategicunpredictability/"
   },
   "StrategyFollowsStructure": {
     "title": "Strategy Follows Structure",
@@ -20978,6 +21046,10 @@
   "how-much-money-president-trump-and-his-family-have-made": {
     "title": "How much money President Trump and his family have made",
     "url": "/wiki/sources/how-much-money-president-trump-and-his-family-have-made/"
+  },
+  "how-to-win-a-penalty-shootout-with-game-theory": {
+    "title": "How to win a penalty shootout (with game theory)",
+    "url": "/wiki/sources/how-to-win-a-penalty-shootout-with-game-theory/"
   },
   "in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e": {
     "title": "In it to bin it: Nigel Farage v Count Binface",

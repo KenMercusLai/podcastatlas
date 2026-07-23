@@ -2,8 +2,8 @@
 title: "Lionel Messi"
 type: entity
 tags: [football, sports, attention]
-sources: [can-world-cup-mania-grow-mls-in-the-us, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
-last_updated: 2026-07-18
+sources: [how-to-win-a-penalty-shootout-with-game-theory, can-world-cup-mania-grow-mls-in-the-us, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
+last_updated: 2026-07-23
 ---
 
 # Lionel Messi
@@ -16,9 +16,12 @@ The point is not a sports biography. Messi functions as the source's analogy for
 
 [[can-world-cup-mania-grow-mls-in-the-us]] adds Messi as [[MajorLeagueSoccer]]'s proof-of-quality signal. [[CamiloDurana]] argues that Messi's MLS move and strong World Cup performance can make other global players believe the league is compatible with elite football ambition rather than only a late-career destination.
 
+[[how-to-win-a-penalty-shootout-with-game-theory]] adds Messi as the hook for a [[PlanetMoney]] explanation of [[PenaltyShootoutStrategy]]. The source says he is an extraordinary scorer but slightly below average at penalties, making him a useful example of why penalties depend on [[GameTheory]] and [[MixedStrategy]] as well as talent.
+
 ## Connections
 - [[ObservationBeforeInference]] - broader wiki method of seeing before over-explaining.
 - [[LuckAsInformationBandwidth]] - episode's claim that good outcomes depend on noticing useful information.
 - [[WuQingyuan]] and [[AlphaGo]] - adjacent examples of complex-system perception in the source.
 - [[FIFAWorldCup]], [[Argentina]], [[Spain]], and [[CristianoRonaldo]] - World Cup memory branch added by The Intelligence.
 - [[MajorLeagueSoccer]], [[CamiloDurana]], [[MajorEventAttentionConversion]], and [[SportsEntertainmentFlywheel]] - MLS legitimacy and marketing branch added by Planet Money.
+- [[GameTheory]], [[MixedStrategy]], [[PenaltyShootoutStrategy]], and [[PlanetMoney]] - penalty-kick branch added by the new source.

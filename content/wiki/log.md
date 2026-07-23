@@ -4162,3 +4162,11 @@ Added source page for the Planet Money episode on graduate federal student-loan 
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-23] ingest | How to win a penalty shootout (with game theory)
+
+Added source page for a Planet Money episode on soccer penalties as game theory, mixed strategy, Lionel Messi's penalty hook, Ignacio Palacio Huerta's penalty database, Chelsea's 2008 report against Manchester United, Petr Cech's Ronaldo save, Edwin van der Sar's adaptation, and modern penalty reports and simulations. Created pages for Stefan Szymanski, Ignacio Palacio Huerta, Simon Kuper, Petr Cech, Edwin van der Sar, Nicolas Anelka, John Terry, Athletic Bilbao, England National Football Team, Soccernomics, Beautiful Game Theory, Game Theory, Mixed Strategy, Strategic Unpredictability, Data-Driven Penalty Preparation, Penalty Shootout Strategy, and Penalty Shootout Pressure; updated overview, index, NPR, Planet Money, Lionel Messi, Cristiano Ronaldo, Chelsea FC, Manchester United, and FIFA World Cup. No direct contradiction found; the source extends the wiki's football branch from event commercialization and club finance into decision-making under uncertainty.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

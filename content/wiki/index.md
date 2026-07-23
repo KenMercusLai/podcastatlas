@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to win a penalty shootout (with game theory)](sources/how-to-win-a-penalty-shootout-with-game-theory.md) — Planet Money episode on soccer penalties as game theory, mixed strategy, Ignacio Palacio Huerta's data, Chelsea vs. Manchester United in 2008, and modern penalty reports.
 - [Can the Trump administration make college cheaper?](sources/can-the-trump-administration-make-college-cheaper.md) — Planet Money episode on graduate federal student-loan caps, the Bennett hypothesis, mixed evidence on tuition pass-through, and access risks for borrowers if schools do not cut prices.
 - [Dark times for Cuba's economic experiment](sources/dark-times-for-cubas-economic-experiment.md) — Planet Money episode on Cuba's dual economic strategy, Soviet/Venezuela oil dependence, controlled market reform, tourism collapse, U.S. sanctions and pressure, blackouts, and Yaser Gonzalez Cabrera's City Cleta bike-tour business.
 - [Unraveling the complex knot of an AI-generated hoax](sources/tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128.md) — Marketplace Tech episode with Casey Newton on a viral Reddit hoax, AI-generated badge/document evidence, Gemini/SynthID detection, and outrage-triggered verification habits.
@@ -518,6 +519,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Stefan Szymanski](entities/StefanSzymanski.md) — Economist explaining mixed strategy through penalty takers' strong and weak sides.
+- [Ignacio Palacio Huerta](entities/IgnacioPalacioHuerta.md) — Economist whose penalty database and Chelsea report connect game theory to elite football shootouts.
+- [Simon Kuper](entities/SimonKuper.md) — Football writer contextualizing how systematic penalty data entered professional preparation.
+- [Petr Cech](entities/PetrCech.md) — Chelsea goalkeeper whose Ronaldo save illustrates data-driven penalty preparation.
+- [Edwin van der Sar](entities/EdwinVanDerSar.md) — Manchester United goalkeeper whose adaptation exposed Chelsea's repeated penalty pattern.
+- [Nicolas Anelka](entities/NicolasAnelka.md) — Chelsea player whose saved penalty illustrates pressure after an opponent detects a pattern.
+- [John Terry](entities/JohnTerry.md) — Chelsea player whose slip extended the 2008 Champions League final shootout.
+- [Athletic Bilbao](entities/AthleticBilbao.md) — Club mentioned as a later context for Ignacio Palacio Huerta's penalty work.
+- [England National Football Team](entities/EnglandNationalFootballTeam.md) — National-team context for later data-driven penalty preparation.
+- [Soccernomics](entities/Soccernomics.md) — Football-economics work connected to Stefan Szymanski and Simon Kuper in the episode.
+- [Beautiful Game Theory](entities/BeautifulGameTheory.md) — Ignacio Palacio Huerta's related book linking football to game theory.
 - [Corey Turner](entities/CoreyTurner.md) — NPR education correspondent explaining graduate loan caps, Grad PLUS history, and the evidence around the Bennett hypothesis.
 - [Linda McMahon](entities/LindaMcMahon.md) — Trump education secretary presented as the public policy actor arguing that loan caps can reduce college costs.
 - [William Bennett](entities/WilliamBennett.md) — Former education secretary whose 1987 argument gives the Bennett hypothesis its name.
@@ -3348,6 +3360,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Game Theory](concepts/GameTheory.md) — Strategic decision frame where each player's best move depends on what the opponent may do.
+- [Mixed Strategy](concepts/MixedStrategy.md) — Deliberate variation between options so an opponent cannot exploit a predictable choice.
+- [Strategic Unpredictability](concepts/StrategicUnpredictability.md) — Discipline of preserving performance while denying opponents a reliable pattern.
+- [Data-Driven Penalty Preparation](concepts/DataDrivenPenaltyPreparation.md) — Use of penalty records, tendencies, and behavioral cues to prepare takers and goalkeepers.
+- [Penalty Shootout Strategy](concepts/PenaltyShootoutStrategy.md) — Statistical, tactical, and psychological preparation for deciding penalty kicks.
+- [Penalty Shootout Pressure](concepts/PenaltyShootoutPressure.md) — Psychological load created when single kicks decide survival in a match or tournament.
 - [Federal Student Loan Caps](concepts/FederalStudentLoanCaps.md) — Policy mechanism limiting graduate federal borrowing to pressure schools on price while risking borrower access.
 - [Bennett Hypothesis](concepts/BennettHypothesis.md) — Theory that federal student aid can be captured by colleges through higher tuition.
 - [Grad PLUS Loans](concepts/GradPLUSLoans.md) — Federal graduate-loan program whose 2006 unlimited borrowing structure became a test case for tuition pass-through.
