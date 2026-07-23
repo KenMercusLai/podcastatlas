@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How "surveillance pricing" charges one online customer more than another for the same item](sources/tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128.md) — Marketplace Tech episode on customer-specific retail prices, surveillance discounting, Walmart.com's signed-in versus anonymous toothpaste price test, and the opacity of algorithmic pricing.
 - [Teaching students to 'be better than a robot'](sources/tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128.md) — Marketplace Tech episode with Christy Gerdhary on AI in classrooms, writing pedagogy, detector bias, transparent AI collaboration, and assignments that ask students to exceed generic chatbot output.
 - [E232｜餐饮出海有新招儿吗？从鼎泰丰与贡茶拿下美国初代销冠聊起](sources/e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d.md) — 硅谷101 episode on Din Tai Fung, Gong Cha, U.S. restaurant real estate, tea-drink franchising, cultural food adoption, and why Chinese food brands need local legibility rather than home-market speed.
 - [E231｜从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？](sources/e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70.md) — 硅谷101 episode with Zhang Kuo on Alibaba's Axio, B2B-to-A2A trade, agentic sourcing, one-person companies, long-context business agents, and AI-native organization response.
@@ -485,6 +486,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Kristin Schwab](entities/KristinSchwab.md) — Marketplace Tech reporter grounding surveillance-pricing opacity through a signed-in versus anonymous Walmart.com toothpaste-price comparison.
+- [Joseph Turow](entities/JosephTurow.md) — Media and privacy expert separating surveillance pricing's legality from its fairness and transparency problems.
 - [Christy Gerdhary](entities/ChristyGerdhary.md) — Babson writing professor and Writing Center director explaining AI writing pedagogy, transparent collaboration, and detector-bias concerns.
 - [Babson College](entities/BabsonCollege.md) — Institutional setting for The Generator and the Marketplace Tech classroom-AI episode.
 - [The Generator](entities/TheGenerator.md) — Babson faculty group convening educators around AI, values-based teaching, care, and student perspectives.
@@ -1844,9 +1847,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Blue Owl Capital](entities/BlueOwlCapital.md) — Capital provider named in reporting discussed by Marketplace Tech about withdrawal from an Oracle-linked Michigan data-center project.
 - [Merriam-Webster](entities/MerriamWebster.md) — Dictionary publisher whose 2025 word-of-the-year selection of "slop" grounds the episode's AI-generated content discussion.
 - [Marketplace Tech](entities/MarketplaceTech.md) — Public-radio technology show context for episodes on bridge monitoring, AI grief bots, workplace AI, crypto confidence, privacy, cyber risk, AI chips, patient AI use, tech hiring, world models, data centers, digital archiving, and AI slop.
-- [Garrett Johnson](entities/GarrettJohnson.md) — Boston University marketing professor explaining why AI search advertising depends on user growth, advertiser scale, conversion data, and sponsored-answer design.
+- [Garrett Johnson](entities/GarrettJohnson.md) — Boston University marketing professor explaining AI search advertising and the consumer comparison problem created by surveillance pricing.
 - [Boston University](entities/BostonUniversity.md) — University affiliation for Garrett Johnson in the Marketplace Tech episode on AI search advertising.
-- [Walmart](entities/Walmart.md) — Retail company cited as an OpenAI commerce partner whose conversion data may matter for AI search advertising and agentic commerce.
+- [Walmart](entities/Walmart.md) — Retail company appearing in AI commerce-partner, ultra-fast delivery, and surveillance-pricing opacity contexts.
 - [Corey Staley](entities/CoreyStaley.md) — Indeed senior economist explaining tech job-posting stabilization, AI labor-market concentration, software developer pullback, data engineering demand, and the low-fire labor market.
 - [Indeed](entities/Indeed.md) — Job-search and hiring platform whose posting data grounds the episode's tech job-posting index and narrow AI labor-demand signal.
 - [Gary Marcus](entities/GaryMarcus.md) — Cognitive scientist and NYU professor emeritus arguing in Marketplace Tech that robust AI needs world models, entity/state tracking, and causation rather than only statistical sequence prediction.
@@ -3122,6 +3125,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Surveillance Pricing](concepts/SurveillancePricing.md) — Data-driven retail pricing practice where different customers may see different prices or discounts based on collected personal and behavioral signals.
 - [AI Writing Pedagogy](concepts/AIWritingPedagogy.md) — Classroom approach that teaches students to inspect, disclose, remix, and exceed AI-generated writing rather than only ban or hide tool use.
 - [Transparent AI Use](concepts/TransparentAIUse.md) — Process-visible AI collaboration pattern where students show which work is theirs, what the tool changed, and how they judged the result.
 - [AI Detector Bias](concepts/AIDetectorBias.md) — Risk that AI-writing detectors create uneven suspicion or false positives, especially for already marginalized students.
@@ -3852,7 +3856,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Defense Tech Startup Procurement](concepts/DefenseTechStartupProcurement.md) — Military procurement pattern where newer technology companies win work traditionally associated with legacy defense contractors.
 - [Media AI Rescue Strategy](concepts/MediaAIRescueStrategy.md) — Attempt to use AI games, quizzes, personalization, or interactive content to compensate for a weakened media business model.
 - [Ultra-Fast Delivery Economics](concepts/UltraFastDeliveryEconomics.md) — Cost, pricing, inventory, routing, and expectation-setting problem behind one-hour or near-immediate delivery.
-- [AI Consumer Decision Shaping](concepts/AIConsumerDecisionShaping.md) — Recommendation and fulfillment loop where AI helps influence what consumers notice, want, and buy.
+- [AI Consumer Decision Shaping](concepts/AIConsumerDecisionShaping.md) — Recommendation, fulfillment, and price-personalization loop where platforms influence what consumers notice, want, and buy.
 - [Low-Cost Drone Warfare](concepts/LowCostDroneWarfare.md) — Warfare pattern where cheap, numerous, adaptable drones create strategic effects through range, volume, attrition, and defensive cost pressure.
 - [Commercial Off-The-Shelf Weaponization](concepts/CommercialOffTheShelfWeaponization.md) — Conversion of ordinary commercial parts, materials, electronics, and control links into useful military systems.
 - [Drone Defense Economics](concepts/DroneDefenseEconomics.md) — Cost and scarcity problem where cheap drones force defenders to spend expensive interceptors, attention, and short-range defense capacity.
@@ -4737,7 +4741,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Travel Booking Hidden Fees](concepts/TravelBookingHiddenFees.md) — Insurance, package, advertising, default-selection, or mis-click monetization inside travel booking flows.
 - [Homestay Differentiation](concepts/HomestayDifferentiation.md) — Lodging value from style, location, host experience, and atmosphere that can be flattened by platform comparison.
 - [Platform Antitrust](concepts/PlatformAntitrust.md) — Question of when dominant platform rules, pricing, ranking, contracts, and data advantages become abusive rather than efficient.
-- [Platform Data Regulation](concepts/PlatformDataRegulation.md) — Governance approach based on regulator visibility into order, commission, price, ranking, and fulfillment data.
+- [Platform Data Regulation](concepts/PlatformDataRegulation.md) — Governance approach based on visibility into order, commission, price, ranking, fulfillment, and other hidden platform data.
 - [Kelly Criterion](concepts/KellyCriterion.md) — Repeated-bet sizing rule used by E153 to connect edge, payoff, survival, and fractional position sizing.
 - [Position Sizing](concepts/PositionSizing.md) — Capital-allocation decision that turns an investment edge into portfolio exposure while controlling ruin risk.
 - [Investment Edge](concepts/InvestmentEdge.md) — Positive-expectation advantage built from probability, payoff, rules, information, patience, execution, or structure.

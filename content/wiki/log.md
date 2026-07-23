@@ -3859,6 +3859,10 @@ Added source page for the Marketplace Tech episode with David Brancaccio on rebu
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-23] ingest | How "surveillance pricing" charges one online customer more than another for the same item
+
+Added source page for the Marketplace Tech episode on surveillance pricing, customer data collection, surveillance discounting, price discrimination, Walmart.com's signed-in versus anonymous toothpaste-price comparison, and algorithmic retail-price opacity. Created pages for Kristin Schwab, Joseph Turow, and Surveillance Pricing; updated overview, index, Marketplace Tech, Walmart, Garrett Johnson, AI Consumer Decision Shaping, and Platform Data Regulation. No direct contradiction found; the source adds a retail price-opacity case while keeping Walmart's non-personalized explanation and the limits of the test source-scoped.
+
 ## [2026-07-23] ingest | Teaching students to 'be better than a robot'
 
 Added source page for the Marketplace Tech episode with Christy Gerdhary on AI in classrooms, writing pedagogy, transparent AI collaboration, detector bias, and assignments that ask students to create work beyond generic chatbot output. Created pages for Christy Gerdhary, Babson College, The Generator, AI Writing Pedagogy, Transparent AI Use, and AI Detector Bias; updated overview, index, Marketplace Tech, First Draft Thinking, AI Shortcut Risk, Human Judgment Under AI, AI Literacy Against Worship, and Learning Experience Design. No direct contradiction found; the source complements the March 23 AI homework episode by shifting from first-attempt timing to visible collaboration, care-centered integrity practice, and multimodal writing assignments.
@@ -3890,6 +3894,14 @@ Ran lint after health passed. Health found no empty/stub files, index drift, or 
 ## [2026-07-23] ingest | E232｜餐饮出海有新招儿吗？从鼎泰丰与贡茶拿下美国初代销冠聊起
 
 Added source page for the 硅谷101 episode on Din Tai Fung, Gong Cha, U.S. restaurant real estate, tea-drink franchising, culture-led food adoption, and why Chinese food brands need local consumer legibility rather than China-speed expansion assumptions. Created pages for Din Tai Fung, Bibigo, Thailand, Haidilao, HeyTea, Moli Nai Bai, Chagee, Wallace, Jollibee, Fei Da Chu, U.S. Restaurant Real Estate Constraint, Restaurant Cultural Legibility, and Culture-Led Food Adoption; updated overview, index, Silicon Valley 101, United States, China, Gong Cha, Global Product Localization, Restaurant Experience Design, Retail Site Selection, Local Market Proof, Franchise-Led Consumer Chain Expansion, Beverage Category Convergence, Chain Restaurant Standardization, and Consumer Brand Moat. No direct contradiction found; the source qualifies existing localization and experience-consumption branches by making leases, permits, local franchisees, cultural scenes, and repeat-use context central to restaurant globalization.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-23] lint | Wiki health check
 
