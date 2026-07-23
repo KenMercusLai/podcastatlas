@@ -4855,6 +4855,14 @@
     "title": "Crypto Consumer Confidence",
     "url": "/wiki/concepts/cryptoconsumerconfidence/"
   },
+  "CryptoPaymentPracticalityGap": {
+    "title": "Crypto Payment Practicality Gap",
+    "url": "/wiki/concepts/cryptopaymentpracticalitygap/"
+  },
+  "CryptoPublicLegitimacy": {
+    "title": "Crypto Public Legitimacy",
+    "url": "/wiki/concepts/cryptopubliclegitimacy/"
+  },
   "CryptocurrencyMarketStructure": {
     "title": "Cryptocurrency Market Structure",
     "url": "/wiki/concepts/cryptocurrencymarketstructure/"
@@ -11323,6 +11331,14 @@
     "title": "Ludwig Wittgenstein / 维特根斯坦",
     "url": "/wiki/entities/ludwigwittgenstein/"
   },
+  "Lugano": {
+    "title": "Lugano",
+    "url": "/wiki/entities/lugano/"
+  },
+  "LuganoPlanB": {
+    "title": "Lugano Plan B",
+    "url": "/wiki/entities/luganoplanb/"
+  },
   "Lululemon": {
     "title": "Lululemon",
     "url": "/wiki/entities/lululemon/"
@@ -12075,6 +12091,10 @@
     "title": "蜜芽 / Mia",
     "url": "/wiki/entities/miaecommerce/"
   },
+  "MiaLiponi": {
+    "title": "Mia Liponi",
+    "url": "/wiki/entities/mialiponi/"
+  },
   "Miami": {
     "title": "Miami",
     "url": "/wiki/entities/miami/"
@@ -12106,6 +12126,10 @@
   "MichelPlatini": {
     "title": "Michel Platini",
     "url": "/wiki/entities/michelplatini/"
+  },
+  "MicheleFolletti": {
+    "title": "Michele Folletti",
+    "url": "/wiki/entities/michelefolletti/"
   },
   "MickeyMouse": {
     "title": "Mickey Mouse",
@@ -12570,6 +12594,10 @@
   "MundaneAIUseCases": {
     "title": "Mundane AI Use Cases",
     "url": "/wiki/concepts/mundaneaiusecases/"
+  },
+  "MunicipalBitcoinAdoption": {
+    "title": "Municipal Bitcoin Adoption",
+    "url": "/wiki/concepts/municipalbitcoinadoption/"
   },
   "MuseImage": {
     "title": "Muse Image",
@@ -15755,6 +15783,10 @@
     "title": "Satirical Group Portrait",
     "url": "/wiki/concepts/satiricalgroupportrait/"
   },
+  "SatoshiNakamoto": {
+    "title": "Satoshi Nakamoto",
+    "url": "/wiki/entities/satoshinakamoto/"
+  },
   "Saucony": {
     "title": "Saucony",
     "url": "/wiki/entities/saucony/"
@@ -17354,6 +17386,10 @@
   "SwingSculpt": {
     "title": "Swing Sculpt",
     "url": "/wiki/entities/swingsculpt/"
+  },
+  "Switzerland": {
+    "title": "Switzerland",
+    "url": "/wiki/entities/switzerland/"
   },
   "SycophanticAICompanionRisk": {
     "title": "Sycophantic AI Companion Risk",
@@ -21098,6 +21134,10 @@
   "tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128": {
     "title": "AI is eating up the world's computing memory",
     "url": "/wiki/sources/tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128/"
+  },
+  "tech-20260114-0114-mp-tech-pod-128-tech-20260114-0114-mp-tech-pod-128": {
+    "title": "This Swiss city wants to become the bitcoin capital of Europe",
+    "url": "/wiki/sources/tech-20260114-0114-mp-tech-pod-128-tech-20260114-0114-mp-tech-pod-128/"
   },
   "tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128": {
     "title": "Teaching students to 'be better than a robot'",

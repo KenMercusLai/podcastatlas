@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-23] ingest | This Swiss city wants to become the bitcoin capital of Europe
+
+Added source page for the Marketplace Tech episode on Lugano's Plan B Bitcoin initiative, municipal and merchant payment acceptance, the practical limits of living on Bitcoin, crypto-company attraction, local skepticism, the vandalized Satoshi statue, and Mayor Michele Folletti's fiat-versus-Bitcoin crime-risk defense. Created pages for Lugano, Lugano Plan B, Mia Liponi, Michele Folletti, Satoshi Nakamoto, Switzerland, Municipal Bitcoin Adoption, Crypto Payment Practicality Gap, and Crypto Public Legitimacy; updated overview, index, Marketplace Tech, Bitcoin, Cryptocurrency Market Structure, Crypto Consumer Confidence, and Virtual Asset AML Risk. No direct contradiction found; the source qualifies existing crypto-confidence and market-structure pages by showing that dense local payment acceptance can coexist with practical gaps and public distrust.
+
 ## [2026-07-23] ingest | AI is eating up the world's computing memory
 
 Added source page for the Marketplace Tech episode with Tom Minelli of IDC on AI data-center demand, high-bandwidth memory, RAM shortages, consumer PC and smartphone price pressure, gaming-PC exposure, and AI PCs increasing baseline memory needs. Created pages for Tom Minelli, HP Inc., Dell Technologies, and AI PC Memory Demand; updated overview, index, Marketplace Tech, Megan McCarty-Corino, IDC, Micron Technology, Nvidia, Microsoft, Apple, Lenovo, Memory Chip Shortage, High Bandwidth Memory, AI Hardware Supply Chain Pressure, AI Data Center Memory Hierarchy, Neural Processing Units, On-Device AI, Storage Industry Cyclicality, and Consumer Electronics Lifecycle. No direct contradiction found; the source reinforces existing memory-shortage pages while adding a sharper PC allocation and AI-PC RAM requirement angle.
@@ -4098,6 +4102,10 @@ Ran lint after health passed. Health found no empty/stub files, index drift, or 
 ## [2026-07-23] ingest | Spenser Skates, Founder & CEO, Amplitude
 
 Added source page for The Social Radars episode with Spenser Skates on Sonalight, the pivot into Amplitude, product analytics, founder-led sales, direct listing, public-company communication, executive readiness, and founder-life tradeoffs. Created pages for Spenser Skates, Amplitude, Sonalight, Curtis Liu, Jeffrey Wang, Battlecode, Mitch Morando, Google Analytics, Flurry, Mixpanel, Kissmetrics, Zynga, 12gigs, Product Analytics, Technical Demo Retention Gap, Sales As Learnable Skill, Direct Listing Discipline, Public Company Transition, Public Market Communication, and Founder Life Architecture; updated overview, index, The Social Radars, Y Combinator, and related startup-learning pages. No direct contradiction found; the source's public-market and stock-price claims remain source-scoped to Spenser's 2026-02-03 retrospective.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-23] lint | Wiki health check
 

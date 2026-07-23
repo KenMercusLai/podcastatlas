@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [AI is eating up the world's computing memory](sources/tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128.md) — Marketplace Tech episode with Tom Minelli of IDC on AI-driven HBM and RAM shortages, PC and smartphone price pressure, gaming-PC exposure, and AI PCs increasing memory demand.
+- [This Swiss city wants to become the bitcoin capital of Europe](sources/tech-20260114-0114-mp-tech-pod-128-tech-20260114-0114-mp-tech-pod-128.md) — Marketplace Tech episode on Lugano's Plan B Bitcoin initiative, Bitcoin payments in shops and municipal services, crypto-company attraction, and local skepticism around speculation and crime.
 - [Spenser Skates, Founder & CEO, Amplitude](sources/tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio.md) — The Social Radars episode with Spenser Skates on Sonalight, the pivot into Amplitude, product analytics, founder-led sales, direct listing, public-company communication, executive readiness, and founder-life tradeoffs.
 - [David Kirtley, Founder & CEO of Helion Energy](sources/tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio.md) — The Social Radars episode with David Kirtley on Helion Energy, fusion power, YC focus, energy recovery, Polaris, Microsoft and Nucor customer plans, regulation, precision manufacturing, and scaling beyond one demonstration plant.
 - [Jared Friedman, Partner, Y Combinator; Co-founder, Scribd](sources/tsr-s5-jared-v3final-tsr-s5-jared-v3final.md) — The Social Radars episode with Jared Friedman on Scribd, early YC, Wholist, copyright risk, search-driven growth, 2008 runway pressure, YC internal software, and the AI-era return of technical founder energy.
@@ -511,6 +512,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Lugano](entities/Lugano.md) — Swiss city using Plan B to promote Bitcoin payments, municipal-service acceptance, and crypto-company attraction while facing local skepticism.
+- [Lugano Plan B](entities/LuganoPlanB.md) — City-backed Bitcoin initiative in Lugano combining merchant terminals, municipal payments, crypto-company attraction, and public-legitimacy risk.
+- [Mia Liponi](entities/MiaLiponi.md) — Plan B hub leader whose 11-day Bitcoin-only living test grounds Lugano's crypto payment practicality gap.
+- [Michele Folletti](entities/MicheleFolletti.md) — Lugano mayor defending Bitcoin adoption against money-laundering concerns by comparing it with fiat and cash.
+- [Satoshi Nakamoto](entities/SatoshiNakamoto.md) — Bitcoin creator figure entering the wiki through Lugano's vandalized statue and the city's crypto public-legitimacy conflict.
+- [Switzerland](entities/Switzerland.md) — Country setting for Lugano's city-level Bitcoin adoption experiment and the mayor's fiat-versus-Bitcoin crime-risk comparison.
 - [Tom Minelli](entities/TomMinelli.md) — IDC analyst explaining how AI data-center demand is tightening memory supply and spilling into PC, smartphone, and gaming-hardware markets.
 - [HP Inc.](entities/HPInc.md) — Large PC vendor named as likely better positioned than smaller sellers during AI-driven memory allocation pressure.
 - [Dell Technologies](entities/DellTechnologies.md) — Large PC vendor named as likely better positioned than smaller sellers during AI-driven memory allocation pressure.
@@ -3038,7 +3045,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bank of Japan](entities/BankOfJapan.md) — Central bank whose tightening and yen effects are discussed as triggers for yen carry trade stress and Japanese equity volatility.
 - [半拿铁](entities/Banlatte.md) — Business-history podcast/show context for China internet, regional merchant, aviation, ecommerce, healthcare, mobile-phone, and online-video history episodes.
 - [Berkshire Hathaway](entities/BerkshireHathaway.md) — Warren Buffett's investment company discussed through Apple reduction, high cash, valuation caution, market sentiment, and Munger/Buffett consumer-brand cases.
-- [Bitcoin](entities/Bitcoin.md) — Cryptocurrency asset discussed as a trading vehicle rather than a cash-flowing investment in the Simons episode.
+- [Bitcoin](entities/Bitcoin.md) — Cryptocurrency asset discussed through trading, scarcity, safe-haven behavior, consumer confidence, regulated access, and Lugano's everyday-payment experiment.
 - [Bird Mobile](entities/BirdMobile.md) — First-generation Chinese domestic handset brand remembered for licenses, local channels, celebrity marketing, and the "手机中的战斗机" slogan.
 - [Bobo's Oat Bars](entities/BobosOatBars.md) — Food company that shared early Boulder kitchen capacity and employees with Justin's Nut Butter.
 - [Boston Dynamics](entities/BostonDynamics.md) — Robotics company referenced through Shibo's admiration for Marc Raibert and autonomous robotics.
@@ -3308,6 +3315,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Municipal Bitcoin Adoption](concepts/MunicipalBitcoinAdoption.md) — City-level use of policy, merchant terminals, municipal services, and civic branding to make Bitcoin usable locally.
+- [Crypto Payment Practicality Gap](concepts/CryptoPaymentPracticalityGap.md) — Difference between visible crypto payment acceptance and the ability to rely on crypto across recurring everyday needs.
+- [Crypto Public Legitimacy](concepts/CryptoPublicLegitimacy.md) — Public-trust problem where crypto adoption must overcome associations with speculation, crime, volatility, and symbolic backlash.
 - [AI PC Memory Demand](concepts/AIPCMemoryDemand.md) — PC-side memory pressure where NPU-equipped AI computers need more RAM just as AI data centers tighten memory supply.
 - [Product Analytics](concepts/ProductAnalytics.md) — Behavioral product-data discipline around retention, cohorts, and usage questions that became Amplitude's market.
 - [Technical Demo Retention Gap](concepts/TechnicalDemoRetentionGap.md) — Startup failure mode where an impressive demo does not translate into repeat user behavior.
@@ -4138,7 +4148,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Recorded Meeting Analysis](concepts/RecordedMeetingAnalysis.md) — Workplace AI pattern where meetings are recorded, summarized, indexed by speaker/topic, and queried later as organizational context or employee evidence.
 - [Workplace Digital Twins](concepts/WorkplaceDigitalTwins.md) — Person-specific workplace AI representations built from email, documents, recorded meetings, collaborators, and communication style.
 - [Workplace AI Transparency](concepts/WorkplaceAITransparency.md) — Governance norm that workers should know when AI systems record, summarize, analyze, or monitor work activity.
-- [Crypto Consumer Confidence](concepts/CryptoConsumerConfidence.md) — Survey and behavioral-market frame for how consumer confidence, demographics, regional attitudes, and payment habits interact with cryptocurrency prices and adoption.
+- [Crypto Consumer Confidence](concepts/CryptoConsumerConfidence.md) — Survey and behavioral-market frame for how consumer confidence, demographics, regional attitudes, payment habits, and local adoption experiments interact with cryptocurrency prices and use.
 - [AI Coding Guardrails](concepts/AICodingGuardrails.md) — Review, control, and deployment practices for keeping AI-assisted engineering work from becoming production risk.
 - [YouTube Media Dominance](concepts/YouTubeMediaDominance.md) — YouTube's platform position across creator content, TV, Shorts, ads, subscriptions, Alphabet data, and AI creator tools.
 - [Digital Gold](concepts/DigitalGold.md) — Claim that Bitcoin can play a gold-like monetary role through capped supply, government independence, divisibility, and global transferability.
@@ -5254,7 +5264,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Creation As Consumption](concepts/CreationAsConsumption.md) — Product-design idea that making with AI can itself be an entertainment experience.
 - [Customer Concentration Risk](concepts/CustomerConcentrationRisk.md) — SaaS risk where one large customer can distort roadmap, mission, or validation signals.
 - [Customer Pull](concepts/CustomerPull.md) — Demand signal where users return, follow up, refer, pay, sign LOIs, tolerate migration work, or otherwise act beyond polite interest.
-- [Cryptocurrency Market Structure](concepts/CryptocurrencyMarketStructure.md) — Crypto-market features such as 24-hour trading, retail flows, and exchange fragmentation that create quant opportunities and risk.
+- [Cryptocurrency Market Structure](concepts/CryptocurrencyMarketStructure.md) — Crypto-market features such as 24-hour trading, retail flows, exchange fragmentation, and payment-acceptance patterns that create opportunity and risk.
 - [Currency Risk](concepts/CurrencyRisk.md) — Risk that exchange-rate moves change an investor's final return after converting back to their home currency.
 - [Data Portability And Sustainable Tools](concepts/DataPortabilityAndSustainableTools.md) — Product trust pattern based on exportability, local data, maintained tools, and durable personal knowledge assets.
 - [Dark Office](concepts/DarkOffice.md) — Office-work automation analogy where agents perform defined white-collar and gray-collar workflows like a dark factory.
@@ -5416,7 +5426,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [University Opportunity Density](concepts/UniversityOpportunityDensity.md) — Value created by a university's city, labs, peers, events, recruiting access, school culture, and practice surfaces.
 - [Upward Management](concepts/UpwardManagement.md) — Influencing bosses and higher-power stakeholders through demand clarification, decision support, and expectation setting.
 - [Validated Learning](concepts/ValidatedLearning.md) — Lean Startup principle that startups progress by testing assumptions against real customer behavior.
-- [Virtual Asset AML Risk](concepts/VirtualAssetAMLRisk.md) — AML risk from crypto assets, stablecoins, exchanges, wallets, miners, and conversion routes used as layers in broader fund-transfer chains.
+- [Virtual Asset AML Risk](concepts/VirtualAssetAMLRisk.md) — AML risk and legitimacy arguments around crypto assets, stablecoins, exchanges, wallets, miners, cash comparison, and broader fund-transfer chains.
 - [Video Models](concepts/VideoModels.md) — AI video generation models discussed as a content-production and investment theme.
 - [Vibe Coding](concepts/VibeCoding.md) — AI-assisted coding practice whose value is capability expansion as much as speed.
 - [Vision Language Action Models](concepts/VisionLanguageActionModels.md) — Robot models that connect perception, language, and action but may struggle to cover continuous physical action spaces.

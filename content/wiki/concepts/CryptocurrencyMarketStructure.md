@@ -2,8 +2,8 @@
 title: "Cryptocurrency Market Structure"
 type: concept
 tags: [crypto, investing, markets, compliance]
-sources: [tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, socialradarspod-brianarmstrong-final]
-last_updated: 2026-07-12
+sources: [tech-20260114-0114-mp-tech-pod-128-tech-20260114-0114-mp-tech-pod-128, tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, socialradarspod-brianarmstrong-final]
+last_updated: 2026-07-23
 ---
 
 # Cryptocurrency Market Structure
@@ -11,6 +11,8 @@ last_updated: 2026-07-12
 Cryptocurrency market structure is the wiki's frame for how crypto trading rails, exchanges, assets, and user flows create both market opportunity and operational risk. [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1]] highlights 24-hour trading, retail-heavy participation, emotional flows, and price gaps across exchanges as sources of possible arbitrage. [[ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr]] adds a [[VirtualAssetAMLRisk]] lens: the same fragmentation, cross-border liquidity, and identity opacity can complicate anti-money-laundering review. [[ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab]] adds a family and political-brand monetization lens through [[WorldLibertyFinancial]], where token sales, stablecoin value, warrants, and unlocks create both cash proceeds and headline valuation.
 
 [[tech-20260316-0316-mp-tech-pod-128-tech-20260316-0316-mp-tech-pod-128]] adds the consumer-confidence version through [[DaveReibstein]] and the [[WhartonSchool]]. The source treats [[CryptoConsumerConfidence]] as a possible price signal, but its stronger contribution is behavioral: many consumers hold crypto like a risky stock, not like payment money, and regional optimism may reflect attitudes toward decentralization and institutional control.
+
+[[tech-20260114-0114-mp-tech-pod-128-tech-20260114-0114-mp-tech-pod-128]] adds the municipal payment version through [[Lugano]] and [[LuganoPlanB|Plan B]]. The source shows how local government, merchant terminals, and city-service acceptance can make [[Bitcoin]] feel usable in one place, while [[CryptoPaymentPracticalityGap]] shows that dense acceptance is still not the same as full currency substitution.
 
 [[tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128]] adds the crisis-liquidity version through [[Bitcoin]]. [[GilLuria]] says Bitcoin trades around the clock on connected devices, usually has enough liquidity to find another counterparty, and is priced mainly by demand to buy it. That structure supports both the [[DigitalGold]] narrative and [[CrossBorderCryptoCapitalFlight]], even while volatility weakens [[BitcoinSafeHavenBehavior]] in acute shocks.
 
@@ -29,9 +31,11 @@ Cryptocurrency market structure is the wiki's frame for how crypto trading rails
 - A growing lawful ecosystem can still produce larger absolute illicit volumes when stablecoin payments, exchange access, and cross-border liquidity scale.
 - Consumer confidence and price can reinforce each other, so market structure includes sentiment loops as well as trading rails.
 - Payment acceptance does not prove everyday currency use when most consumers still hold crypto as investment exposure.
+- Municipal acceptance can make crypto payments locally practical without eliminating volatility, service-coverage gaps, or public skepticism.
 
 ## Connections
 - [[Bitcoin]] — asset discussed through this market-structure lens.
+- [[Lugano]], [[LuganoPlanB|Plan B]], [[MunicipalBitcoinAdoption]], and [[CryptoPaymentPracticalityGap]] - city-level payment branch added by the January 14 Marketplace Tech episode.
 - [[CryptoConsumerConfidence]], [[DaveReibstein]], and [[WhartonSchool]] - consumer sentiment, survey, and crypto-as-investment layer added by the March 16 Marketplace Tech episode.
 - [[DigitalGold]], [[BitcoinSafeHavenBehavior]], and [[CrossBorderCryptoCapitalFlight]] - March 12 Marketplace Tech branch on liquidity, scarcity, and crisis portability.
 - [[Stablecoins]] — infrastructure adjacent to crypto trading and dollar payment rails.
