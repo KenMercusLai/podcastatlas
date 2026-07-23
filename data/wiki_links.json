@@ -839,6 +839,10 @@
     "title": "AI Infrastructure Debt Financing",
     "url": "/wiki/concepts/aiinfrastructuredebtfinancing/"
   },
+  "AIInfrastructureFullStackMoat": {
+    "title": "AI Infrastructure Full-Stack Moat",
+    "url": "/wiki/concepts/aiinfrastructurefullstackmoat/"
+  },
   "AIInteractiveContentPlatforms": {
     "title": "AI Interactive Content Platforms",
     "url": "/wiki/concepts/aiinteractivecontentplatforms/"
@@ -1407,6 +1411,10 @@
     "title": "Age-Friendly Infrastructure",
     "url": "/wiki/concepts/agefriendlyinfrastructure/"
   },
+  "AgentAsAService": {
+    "title": "Agent as a Service",
+    "url": "/wiki/concepts/agentasaservice/"
+  },
   "AgentData": {
     "title": "Agent Data",
     "url": "/wiki/concepts/agentdata/"
@@ -1554,6 +1562,10 @@
   "AlexCheung": {
     "title": "Alex Cheung",
     "url": "/wiki/entities/alexcheung/"
+  },
+  "AlexGMICloud": {
+    "title": "Alex (GMI Cloud)",
+    "url": "/wiki/entities/alexgmicloud/"
   },
   "AlexGoldman": {
     "title": "Alex Goldman",
@@ -4783,6 +4795,10 @@
     "title": "Data Center Physical Resilience",
     "url": "/wiki/concepts/datacenterphysicalresilience/"
   },
+  "DataCenterPowerBottleneck": {
+    "title": "Data Center Power Bottleneck",
+    "url": "/wiki/concepts/datacenterpowerbottleneck/"
+  },
   "DataCenterTaxIncentives": {
     "title": "Data Center Tax Incentives",
     "url": "/wiki/concepts/datacentertaxincentives/"
@@ -7007,6 +7023,10 @@
     "title": "GLM 5.2",
     "url": "/wiki/entities/glm52/"
   },
+  "GMICloud": {
+    "title": "GMI Cloud",
+    "url": "/wiki/entities/gmicloud/"
+  },
   "GOAT": {
     "title": "GOAT",
     "url": "/wiki/entities/goat/"
@@ -7034,6 +7054,10 @@
   "GPU": {
     "title": "GPU",
     "url": "/wiki/entities/gpu/"
+  },
+  "GPUCloudOperations": {
+    "title": "GPU Cloud Operations",
+    "url": "/wiki/concepts/gpucloudoperations/"
   },
   "GRASSelfCertification": {
     "title": "GRAS Self-Certification",
@@ -7518,6 +7542,10 @@
   "Grok": {
     "title": "Grok",
     "url": "/wiki/entities/grok/"
+  },
+  "Groq": {
+    "title": "Groq",
+    "url": "/wiki/entities/groq/"
   },
   "Grouper": {
     "title": "Grouper",
@@ -8570,6 +8598,14 @@
   "IndyJohar": {
     "title": "Indy Johar",
     "url": "/wiki/entities/indyjohar/"
+  },
+  "InferenceAsCashFlow": {
+    "title": "Inference as Cash Flow",
+    "url": "/wiki/concepts/inferenceascashflow/"
+  },
+  "InferenceChipStartupNarrowing": {
+    "title": "Inference Chip Startup Narrowing",
+    "url": "/wiki/concepts/inferencechipstartupnarrowing/"
   },
   "InferioritySuperiorityDynamic": {
     "title": "Inferiority-Superiority Dynamic",
@@ -10579,6 +10615,10 @@
     "title": "Low-Frequency Low-Value Product",
     "url": "/wiki/concepts/lowfrequencylowvalueproduct/"
   },
+  "LowLatencyInferenceChip": {
+    "title": "Low-Latency Inference Chip",
+    "url": "/wiki/concepts/lowlatencyinferencechip/"
+  },
   "LowPriceBrandPerception": {
     "title": "Low Price Brand Perception",
     "url": "/wiki/concepts/lowpricebrandperception/"
@@ -10962,6 +11002,10 @@
   "MarkLindsay": {
     "title": "Mark Lindsay",
     "url": "/wiki/entities/marklindsay/"
+  },
+  "MarkRen": {
+    "title": "Mark Ren",
+    "url": "/wiki/entities/markren/"
   },
   "MarkRowlands": {
     "title": "Mark Rowlands / 马克·罗兰兹",
@@ -11995,6 +12039,10 @@
     "title": "《风之谷》 / Nausicaa of the Valley of the Wind",
     "url": "/wiki/entities/nausicaaofthevalleyofthewind/"
   },
+  "NeMoCloud": {
+    "title": "NeMo Cloud",
+    "url": "/wiki/entities/nemocloud/"
+  },
   "NearMissDesign": {
     "title": "Near-Miss Design",
     "url": "/wiki/concepts/nearmissdesign/"
@@ -12010,6 +12058,10 @@
   "NeiheKonghuang": {
     "title": "内核恐慌",
     "url": "/wiki/entities/neihekonghuang/"
+  },
+  "NeoCloud": {
+    "title": "Neo Cloud",
+    "url": "/wiki/concepts/neocloud/"
   },
   "NeoCognition": {
     "title": "Neo Cognition",
@@ -12234,6 +12286,14 @@
   "Nvidia": {
     "title": "Nvidia",
     "url": "/wiki/entities/nvidia/"
+  },
+  "NvidiaBlackwellPlatform": {
+    "title": "Nvidia Blackwell Platform",
+    "url": "/wiki/entities/nvidiablackwellplatform/"
+  },
+  "NvidiaVeraRubinPlatform": {
+    "title": "Nvidia Vera Rubin Platform",
+    "url": "/wiki/entities/nvidiaverarubinplatform/"
   },
   "OPEC": {
     "title": "OPEC",
@@ -16867,6 +16927,10 @@
     "title": "Token Maxxing",
     "url": "/wiki/concepts/tokenmaxxing/"
   },
+  "TokenPerWatt": {
+    "title": "Token per Watt",
+    "url": "/wiki/concepts/tokenperwatt/"
+  },
   "TokyoDisneyResort": {
     "title": "Tokyo Disney Resort / 东京迪士尼",
     "url": "/wiki/entities/tokyodisneyresort/"
@@ -18215,6 +18279,10 @@
     "title": "小孙",
     "url": "/wiki/entities/xiaosun/"
   },
+  "XiaoZhibin": {
+    "title": "肖志斌 / Xiao Zhibin",
+    "url": "/wiki/entities/xiaozhibin/"
+  },
   "Xiaoban": {
     "title": "Xiaoban",
     "url": "/wiki/entities/xiaoban/"
@@ -18723,6 +18791,10 @@
     "title": "Zhang Lei",
     "url": "/wiki/entities/zhanglei/"
   },
+  "ZhangLu": {
+    "title": "张璐 / Zhang Lu",
+    "url": "/wiki/entities/zhanglu/"
+  },
   "ZhangNan": {
     "title": "张楠",
     "url": "/wiki/entities/zhangnan/"
@@ -19182,6 +19254,10 @@
   "e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi": {
     "title": "E229｜从手工作坊到全球第一：中国动力电池逆袭史",
     "url": "/wiki/sources/e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi/"
+  },
+  "e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b": {
+    "title": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋",
+    "url": "/wiki/sources/e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b/"
   },
   "e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde": {
     "title": "E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE",

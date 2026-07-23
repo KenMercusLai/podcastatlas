@@ -3866,3 +3866,11 @@ Added source page for the Marketplace Tech episode with Eric Goldman on a Los An
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic checks scanned 5,083 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` and found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-23] ingest | E230｜1万亿收入预期背后：英伟达的巅峰与软肋
+
+Added source page for the 硅谷101 episode on Nvidia's GTC $1 trillion Blackwell/Vera Rubin order narrative, inference as recurring cash flow, token-per-watt, HBM and advanced packaging constraints, TPU/Groq pressure, NeMo Cloud/Open Cloud, GPU cloud operations, neoclouds, and data-center land/power limits. Created pages for Zhang Lu, Xiao Zhibin, Mark Ren, Alex (GMI Cloud), GMI Cloud, Nvidia Blackwell Platform, Nvidia Vera Rubin Platform, NeMo Cloud, Groq, Inference as Cash Flow, Token per Watt, AI Infrastructure Full-Stack Moat, Low-Latency Inference Chip, Inference Chip Startup Narrowing, GPU Cloud Operations, Neo Cloud, Data Center Power Bottleneck, and Agent as a Service; updated overview, index, Silicon Valley 101, Nvidia, Jensen Huang, GPU, TPU, TSMC, Intel, Samsung, Open Cloud, Semiconductor Supply Chain, AI Inference Cost Structure, MaaS Infrastructure, AI Hardware Supply Chain Pressure, Advanced Packaging, High Bandwidth Memory, Strategic AI Infrastructure Dependence, AI Chip Specialization, Data Center Thermal Management, AI Compute Continuity, and AI Native SaaS Threat. No direct contradiction found; the source extends the AI infrastructure branch from chip supply and memory into order-delivery execution across software, data centers, power, and GPU-cloud operations.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E230｜1万亿收入预期背后：英伟达的巅峰与软肋](sources/e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b.md) — 硅谷101 episode on Nvidia's $1 trillion Blackwell/Vera Rubin order narrative, inference demand, HBM and advanced packaging constraints, GPU cloud operations, neoclouds, and data-center land/power bottlenecks.
 - [Is social media addictive? And are social media companies liable?](sources/tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128.md) — Marketplace Tech episode with Eric Goldman on a Los Angeles social-media addiction trial, platform legal causation, Section 230's appeal posture, and spillover risk for other internet services.
 - [Building a home with future fires in mind](sources/tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128.md) — Marketplace Tech episode with David Brancaccio on rebuilding after L.A. wildfires using cross-laminated timber, mineral wool, stucco, concrete-filled forms, 3D-printed housing, and biophilic design tradeoffs.
 - [EP270 一枚芯片的漫长征途：我们离“算力自由”还有多远？](sources/ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci.md) — Talk三联 episode with Gao Yiding and Zhang Congzhi on chips, AI compute, GPU/CUDA advantages, EDA, lithography, tape-out, Moore's Law, advanced packaging, HBM, SMIC, and the whole-chain difficulty behind domestic compute freedom.
@@ -481,6 +482,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [张璐 / Zhang Lu](entities/ZhangLu.md) — Investment-side guest in E230 who frames Nvidia's AI infrastructure demand through inference as recurring cash flow, agents, and token usage.
+- [肖志斌 / Xiao Zhibin](entities/XiaoZhibin.md) — Semiconductor and AI infrastructure guest in E230 who separates Nvidia demand from packaging, HBM, interconnect, and data-center delivery constraints.
+- [Mark Ren](entities/MarkRen.md) — Chip-design guest in E230 who explains AI-assisted semiconductor engineering, coding agents, ChipNemo-style tooling, and Nvidia's broader system moat.
+- [Alex (GMI Cloud)](entities/AlexGMICloud.md) — GPU-cloud operations guest in E230 who explains land, power, modular data centers, SLA, firmware, and neocloud differentiation.
+- [GMI Cloud](entities/GMICloud.md) — GPU-cloud/neocloud company case in E230, used to explain Nvidia reference architecture, cluster operations, model services, and kernel optimization.
+- [Nvidia Blackwell Platform](entities/NvidiaBlackwellPlatform.md) — Nvidia AI infrastructure platform in E230's $1 trillion order narrative, tied to NVL72, token-per-watt, HBM, and rack-scale deployment.
+- [Nvidia Vera Rubin Platform](entities/NvidiaVeraRubinPlatform.md) — Post-Blackwell Nvidia platform in E230's GTC roadmap, used to test whether future AI systems can scale through supply-chain and data-center constraints.
+- [NeMo Cloud](entities/NeMoCloud.md) — Nvidia software/cloud layer in E230, framed as an agent-deployment and token-demand surface rather than only an application service.
+- [Groq](entities/Groq.md) — Low-latency inference-chip reference in E230, used to explain SRAM-heavy LPU-style specialization for agentic workloads.
 - [Eric Goldman](entities/EricGoldman.md) — Legal expert explaining platform causation, Section 230, user stakes, and spillover risk in social-media addiction litigation.
 - [David Brancaccio](entities/DavidBrancaccio.md) — Marketplace Tech reporter whose own post-wildfire rebuild grounds the episode's comparison of CLT, mineral wool, stucco, concrete alternatives, carbon, and neighborhood memory.
 - [Heidi Lewis](entities/HeidiLewis.md) — Altadena homeowner in the episode using concrete-filled wall systems as a highly fire-resistant rebuilding approach.
@@ -3093,6 +3103,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Inference as Cash Flow](concepts/InferenceAsCashFlow.md) — Frame from E230 that treats production inference as recurring AI infrastructure demand, especially as agents and long-context workflows increase token calls.
+- [Token per Watt](concepts/TokenPerWatt.md) — AI infrastructure efficiency metric from E230 that measures useful token output against energy constraints beneath model-serving economics.
+- [AI Infrastructure Full-Stack Moat](concepts/AIInfrastructureFullStackMoat.md) — E230 concept for Nvidia's moat across chips, software, supply chain, developer ecosystem, data-center architecture, and operations.
+- [Low-Latency Inference Chip](concepts/LowLatencyInferenceChip.md) — E230 chip-specialization route for SRAM-heavy, communication-efficient inference architectures suited to some agentic workloads.
+- [Inference Chip Startup Narrowing](concepts/InferenceChipStartupNarrowing.md) — E230 caution that standalone inference-chip startups face narrowing opportunity as models, software ecosystems, and system integration absorb value.
+- [GPU Cloud Operations](concepts/GPUCloudOperations.md) — E230 operations layer for turning GPUs into reliable service through supply support, firmware, scheduling, DevOps, model serving, and SLA.
+- [Neo Cloud](concepts/NeoCloud.md) — AI-native GPU-cloud model in E230, contrasted with hyperscaler VM clouds through k8s, bare-metal efficiency, model services, and kernel optimization.
+- [Data Center Power Bottleneck](concepts/DataCenterPowerBottleneck.md) — E230 deployment constraint covering land, grid interconnection, behind-the-meter generation, onsite gas power, and modular data-center energization.
+- [Agent as a Service](concepts/AgentAsAService.md) — E230 business-model shift from SaaS seats toward AI labor or task execution, tying agent products to recurring inference cost and reliability.
 - [Internet Liability Spillover](concepts/InternetLiabilitySpillover.md) — Risk that social-media addiction and design-liability theories spread to video games, generative AI, and other interactive services.
 - [Platform Legal Causation](concepts/PlatformLegalCausation.md) — Proof problem requiring plaintiffs to connect platform design to legally recognized responsibility for user harms.
 - [Section 230](concepts/Section230.md) — U.S. internet-law protection that can shape platform-liability cases even when deferred to appeal.
