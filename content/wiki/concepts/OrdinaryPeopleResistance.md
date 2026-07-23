@@ -2,8 +2,8 @@
 title: "Ordinary People Resistance"
 type: concept
 tags: [resistance, politics, community, everyday-life]
-sources: [42-anduo-fengqi-yu-qingping-zhi-mo-616391638]
-last_updated: 2026-07-14
+sources: [103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789, 42-anduo-fengqi-yu-qingping-zhi-mo-616391638]
+last_updated: 2026-07-24
 ---
 
 # Ordinary People Resistance
@@ -12,14 +12,18 @@ Ordinary people resistance is resistance that emerges from non-heroic people who
 
 The strongest source cases are [[KinoLoy]] leading a revolt after learning the truth of [[NarkinaFive]], and [[Ferrix]] erupting after [[MaarvaAndor]]'s funeral message. The episode emphasizes that [[CassianAndor]] is not the community's savior in that moment; the people already have reasons to resist.
 
+[[103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789]] extends the concept from fiction into biography through [[HannahArendt|Hannah Arendt]]. Her anti-Nazi document work, refusal to register herself with police in France, escape from Gurs, and insistence on practical judgment under [[StatelessExile]] show resistance as ordinary action before it becomes heroic narrative.
+
 ## Key Claims
 - Resistance can come from accumulated ordinary pressure rather than ideological conversion alone.
 - Community memory, grief, and local trust can turn private loss into public action.
 - Ordinary courage does not require invulnerability; it may include partial failure, fear, and unresolved survival.
 - The pattern pushes against heroic-bloodline stories by showing many small actors making history.
+- Resistance can begin as practical refusal, information work, flight, warning others, or preserving future action.
 
 ## Connections
 - [[Ferrix]], [[MaarvaAndor]], and [[KinoLoy]] - main source cases.
 - [[AntiHeroicResistanceNarrative]] - narrative frame that supports the concept.
 - [[SacrificingOthersEthics]] - moral distinction between risking oneself and demanding others' sacrifice.
 - [[OrdinaryHardshipNarrative]] - adjacent concept around non-heroic difficulty, though this source is more political and collective.
+- [[HannahArendt|Hannah Arendt / 汉娜·阿伦特]], [[StatelessExile]], and [[PoliticalTruthTelling]] - biographical extension added by episode 103.

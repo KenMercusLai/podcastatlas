@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [103.她是刺穿夜雾的光，她是汉娜·阿伦特](sources/103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789.md) — 蜜獾吃书 episode on Hannah Arendt, Love and Evil, Heidegger/Jaspers, exile, Eichmann in Jerusalem, Jewish Councils, banality of evil, and responsibility under institutionalized evil.
 - [102.江湖丛谈：骗术、黑话和民间道义](sources/102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488.md) — 蜜獾吃书 episode on 连阔如《江湖丛谈》, old Jianghu street society, 春点 black talk, scam craft, informal order, and the boundary between useful jargon and exclusionary language.
 - [112. 闲聊金庸第一弹：明教竟然今天还存在？](sources/112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095.md) — 蜜獾吃书 episode on Jin Yong's culturally dense wuxia, Song/Ming Jianghu space, 1967 Hong Kong politics, and Mingjiao/Manichaean survivals.
 - [Our mission: Find the world's best economic ideas (Summer School World Tour)](sources/our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour.md) — Planet Money Summer School episode on Australian water markets, farmer backlash, speculation, New Zealand's invention of inflation targeting, and credibility as expectations coordination.
@@ -524,6 +525,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Hannah Arendt / 汉娜·阿伦特](entities/HannahArendt.md) — Political theorist read by 蜜獾吃书 through philosophy, love, exile, action, Eichmann, truth-telling, and responsibility.
+- [《汉娜·阿伦特：爱与恶》 / Hannah Arendt: Love and Evil](entities/HannahArendtLoveAndEvil.md) — Biography used by episode 103 to connect Arendt's thought with her relationships, exile, and Eichmann controversy.
+- [Martin Heidegger / 马丁·海德格尔](entities/MartinHeidegger.md) — Philosopher framed through his relationship with Arendt, Nazi alignment, and the problem of intellectual responsibility.
+- [Karl Jaspers / 卡尔·亚斯贝尔斯](entities/KarlJaspers.md) — Arendt's mentor and later defender, contrasted with Heidegger as a figure of loyal judgment under political pressure.
+- [Heinrich Blücher / 海因里希·布鲁歇尔](entities/HeinrichBlucher.md) — Arendt's exile partner and second husband, presented as a trusted companion in anti-Nazi flight and stateless survival.
+- [Adolf Eichmann / 阿道夫·艾希曼](entities/AdolfEichmann.md) — Nazi functionary whose ordinary bureaucratic presentation grounds Arendt's banality-of-evil argument.
+- [《艾希曼在耶路撒冷》 / Eichmann in Jerusalem](entities/EichmannInJerusalem.md) — Arendt's controversial report/book on Eichmann, the Holocaust, Jewish Councils, and responsibility versus guilt.
+- [Jewish Councils / 犹太委员会](entities/JewishCouncils.md) — Holocaust-era councils discussed through Arendt's disputed responsibility claims under coercive Nazi rule.
+- [Nazi Germany / 纳粹德国](entities/NaziGermany.md) — Regime context for Arendt's exile, Heidegger's compromise, Eichmann's bureaucracy, and the Holocaust.
+- [The Holocaust / 犹太人大屠杀](entities/TheHolocaust.md) — Genocide context behind the episode's discussion of Eichmann, bureaucratic murder, and the refusal to psychologize evil away.
 - [连阔如 / Lian Kuoru](entities/LianKuoru.md) — Storyteller and author whose 《江湖丛谈》 exposes old Jianghu argot, street trades, scams, quyi worlds, and informal order.
 - [《江湖丛谈》 / Jianghu Congtan](entities/JiangHuCongTan.md) — Lian Kuoru book used by 蜜獾吃书 as a guide to old Jianghu language, livelihood, deception, and mutual-aid rules.
 - [罗翔 / Luo Xiang](entities/LuoXiang.md) — Legal scholar and public intellectual whose 《法律的悖论》 is used by 蜜獾吃书 to examine criminal law, moral judgment, punishment, freedom, and rational humility.
@@ -3401,6 +3412,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Banality Of Evil / 恶的平庸性](concepts/BanalityOfEvil.md) — Arendtian frame that evil can become flat, procedural, and thoughtless through bureaucratic role performance rather than monstrous psychology.
+- [Responsibility Versus Guilt / 责任与罪行区分](concepts/ResponsibilityVsGuilt.md) — Distinction used to read the Jewish Councils controversy without collapsing responsibility inquiry into victim-blaming.
+- [Political Truth-Telling / 政治性说真话](concepts/PoliticalTruthTelling.md) — Arendtian practice of speaking reality under political pressure while remaining answerable to evidence and responsibility.
+- [Stateless Exile / 无国籍流亡](concepts/StatelessExile.md) — Condition where loss of state protection makes papers, language, work, safety, identity, and freedom politically fragile.
+- [Power-Violence Distinction / 权力与暴力区分](concepts/PowerViolenceDistinction.md) — Arendtian distinction that violence can destroy power but cannot itself generate durable collective political power.
+- [Intellectual Responsibility Under Authoritarianism](concepts/IntellectualResponsibilityUnderAuthoritarianism.md) — Frame for how intellectual brilliance can become complicity unless tied to judgment, truth, and action under authoritarian pressure.
 - [Street Jianghu Society](concepts/StreetJianghuSociety.md) — Non-wuxia Jianghu as an old street-livelihood system of itinerant trade, performance, scam, lodging, language, reputation, and mutual aid.
 - [春点 / Chun Dian Argot](concepts/ChunDianArgot.md) — Jianghu insider language used for secrecy, group recognition, trade coordination, status boundary-making, and sometimes fraud.
 - [Jianghu Scam Craft](concepts/JianghuScamCraft.md) — Older street-fraud repertoire combining observation, props, collaborators, argot, fear, greed, and role assignment.

@@ -4188,6 +4188,10 @@ Added source page for a 蜜獾吃书 episode on 金庸 as culturally dense popul
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-24] ingest | 103.她是刺穿夜雾的光，她是汉娜·阿伦特
+
+Added source page for a 蜜獾吃书 episode on Hannah Arendt through 《汉娜·阿伦特：爱与恶》, covering Heidegger and Jaspers, anti-Nazi action, stateless exile, Walter Benjamin, Blücher, Eichmann in Jerusalem, the Jewish Councils controversy, banality of evil, truth-telling, power versus violence, and responsibility under institutionalized evil. Created pages for Hannah Arendt, 《汉娜·阿伦特：爱与恶》, Martin Heidegger, Karl Jaspers, Heinrich Blücher, Adolf Eichmann, 《艾希曼在耶路撒冷》, Jewish Councils, Nazi Germany, The Holocaust, Banality Of Evil, Responsibility Versus Guilt, Political Truth-Telling, Stateless Exile, Power-Violence Distinction, and Intellectual Responsibility Under Authoritarianism; updated overview, index, 蜜獾吃书, Walter Benjamin, Immanuel Kant, Truth Against Absurd Power, Evil As Responsibility Failure, Institutional Overcompliance, Ordinary People Resistance, and Artistic Achievement Moral Accountability. No direct contradiction found; the source qualifies existing responsibility and overcompliance themes by showing how evil can become routinized through legalistic, non-reflective bureaucracy while responsibility, truth, and ordinary refusal remain politically meaningful.
+
 ## [2026-07-24] ingest | 102.江湖丛谈：骗术、黑话和民间道义
 
 Added source page for a 蜜獾吃书 episode on 连阔如《江湖丛谈》, old Jianghu as street livelihood rather than wuxia romance, 春点 argot, fortune-telling and fake-medicine scam craft, informal Jianghu order, and modern jargon as boundary-making. Created pages for 连阔如, 《江湖丛谈》, Street Jianghu Society, 春点 / Chun Dian Argot, Jianghu Scam Craft, Informal Jianghu Order, and Jargon Boundary Making; updated overview, index, 蜜獾吃书, Historical Jianghu Space, Social Engineering Fraud, Pseudoscience Fraud Vulnerability, Medical Scam Packaging, Private Revenge And Modern Law, and Law-Morality Boundary. No direct contradiction found; the source qualifies the wiki's existing Jianghu branch by adding a non-romantic street-social layer where deception, skill, mutual aid, secrecy, and practical morality coexist.
@@ -4211,3 +4215,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran health and lint. Health passed with no empty/stub files, index drift, or source-log coverage gaps across 5,594 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used stale `graph/graph.json` data built on 2026-07-18 with 4,998 nodes while lint scanned 5,594 pages; the snapshot reported no hub stubs, two fragile bridges, and no isolated communities. Semantic lint was unavailable because no provider-qualified `LLM_MODEL` or provider API key variables are present. Report returned in-session; `wiki/lint-report.md` was not saved.

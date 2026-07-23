@@ -2,8 +2,8 @@
 title: "Artistic Achievement Moral Accountability"
 type: concept
 tags: [art, ethics, biography, film, judgment]
-sources: [107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
-last_updated: 2026-07-14
+sources: [103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
+last_updated: 2026-07-24
 ---
 
 # Artistic Achievement Moral Accountability
@@ -12,12 +12,15 @@ Artistic achievement moral accountability is the judgment frame that artistic gr
 
 The concept is not a rule that work must be discarded when the artist is compromised. It is a refusal to let achievement perform moral laundering. In the source, [[CharlieChaplin|Chaplin]]'s left politics do not prove private virtue, [[WaltDisney]]'s animation legacy does not erase labor conflict or political controversy, and [[LeniRiefenstahl|Riefenstahl]]'s technique does not detach her from Nazi propaganda.
 
+[[103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789]] extends the frame from film into philosophy through [[MartinHeidegger|Martin Heidegger]]. The episode treats Heidegger's intellectual brilliance, relationship with [[HannahArendt|Hannah Arendt]], and Nazi alignment as facts that must be held together rather than separated into genius on one side and political responsibility on the other.
+
 ## Key Claims
 - Technical influence and moral responsibility must be held in view at the same time.
 - Political persecution of an artist does not guarantee the artist's private ethics.
 - A beloved public persona can make accountability harder, not less necessary.
 - Propaganda aesthetics require special care because beauty can intensify political harm.
 - Moral judgment should be source-aware and specific rather than a simple cancellation reflex.
+- Intellectual achievement creates no exemption from responsibility under authoritarian pressure.
 
 ## Connections
 - [[DirectorMythDeflation]] - canonical artists brought down from simplified greatness.
@@ -25,3 +28,4 @@ The concept is not a rule that work must be discarded when the artist is comprom
 - [[PropagandaAesthetics]] - strongest political-responsibility branch.
 - [[ArtDignityUnderPoliticalPressure]] - neighboring idea about art under politics.
 - [[ClassicReadingComplexity]] - broader discipline for holding art, history, and judgment together.
+- [[MartinHeidegger|Martin Heidegger]] and [[IntellectualResponsibilityUnderAuthoritarianism]] - philosophy extension added by episode 103.
