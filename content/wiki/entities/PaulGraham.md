@@ -2,11 +2,13 @@
 title: "Paul Graham"
 type: entity
 tags: [person, startups, programming, venture-capital]
-sources: [tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s4-harj-v3-tsr-s4-harj-v3, socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+sources: [tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s4-harj-v3-tsr-s4-harj-v3, socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
 last_updated: 2026-07-23
 ---
 
 # Paul Graham
+
+[[tsr-s5-jared-v3final-tsr-s5-jared-v3final]] adds Graham through [[JaredFriedman]]'s path into [[YCombinator]]. Jared first found Graham through *On Lisp*, read his essays, and attended the first [[StartupSchool]]. Later, Graham rejected Jared and [[TrippScribd|Tripp]]'s pre-smartphone Uber-like YC idea, but accepted the founders after they agreed to change direction, making the source another [[FounderIdeaPivot]] case.
 
 [[socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll]] makes Graham the central source rather than an adjacent YC figure. He explains [[Viaweb]] as a route to financial freedom and painting, describes the half-awake [[WebBasedSoftware]] insight, credits [[JulianWeber]] with keeping Viaweb alive, and traces [[YCombinator]] from essays, angel-investing ideas, and [[JessicaLivingston]]'s VC exploration into the first [[SummerFoundersProgram]].
 
@@ -53,6 +55,7 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 [[tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio]] adds Graham through [[BoomSupersonic]]'s Y Combinator Demo Day. After [[BlakeScholl]] paired [[VirginGroup]] support with visible [[XB1SupersonicDemonstrator|XB-1]] hardware, Graham emailed him backstage asking to invest; Scholl treats the moment as personal validation that a capital-intensive aviation startup could become legible to YC's software-heavy investor audience.
 
 ## Connections
+- [[JaredFriedman]], [[TrippScribd|Tripp]], [[Wholist]], [[Scribd]], [[StartupSchool]], and [[FounderIdeaPivot]] - Jared Friedman episode context for essays, early YC selection, and idea change.
 - [[TrevorBlackwell]], [[RobertMorris]], and [[JessicaLivingston]] - collaborators in the episode.
 - [[JulianWeber]], [[ArtX]], [[HackerNews]], [[ArcLanguage|Arc]], and [[SummerFoundersProgram]] - added first-person Graham source context.
 - [[Viaweb]] and [[WebBasedSoftware]] - early company and technical model.

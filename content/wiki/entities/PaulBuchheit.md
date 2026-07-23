@@ -2,8 +2,8 @@
 title: "Paul Buchheit"
 type: entity
 tags: [person, startups, google, engineering, venture-capital]
-sources: [tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s4-harj-v3-tsr-s4-harj-v3, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final]
-last_updated: 2026-07-11
+sources: [tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s4-harj-v3-tsr-s4-harj-v3, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final]
+last_updated: 2026-07-23
 ---
 
 # Paul Buchheit
@@ -20,7 +20,10 @@ PB also adds an investor-judgment branch through [[OutlierDrivenAngelInvesting]]
 
 [[tsr-s4-ericm-v2-tsr-s4-ericm-v2]] adds PB as an early investor in [[EricMigicovsky]]'s pre-[[Pebble]] company after [[YCombinator]] Demo Day. In Eric's account, the money helped fund an early [[ImpulseWatch|Impulse]] inventory order that later proved risky, making PB part of the episode's seed-financing context rather than a main hardware-operations actor.
 
+[[tsr-s5-jared-v3final-tsr-s5-jared-v3final]] adds PB as the advisor who reframed [[Scribd]]'s growth path. [[JaredFriedman]] says PB told the founders Scribd was not really an entertainment site like [[YouTube]], but a search destination. That advice helped create [[SearchDrivenContentGrowth]], where user-uploaded documents drew [[Google]] traffic and more uploads.
+
 ## Connections
+- [[Scribd]], [[JaredFriedman]], [[SearchDrivenContentGrowth]], and [[Google]] - Scribd SEO and growth-loop advice added by the Jared Friedman episode.
 - [[Gmail]], [[Google]], and [[ProductLaunchUnderConstraint]] - Gmail assignment, infrastructure reuse, launch leak, capacity limit, and invite-system story.
 - [[FriendFeed]] and [[Meta]] - startup and acquisition path after leaving Google.
 - [[YCombinator]], [[PaulGraham]], [[JessicaLivingston]], and [[CarolynLevy]] - accelerator and interview context.

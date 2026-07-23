@@ -2,8 +2,8 @@
 title: "Reddit"
 type: entity
 tags: [company, social-media, online-community, startups]
-sources: [tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-stevehuffman-final]
-last_updated: 2026-07-12
+sources: [tsr-s5-jared-v3final-tsr-s5-jared-v3final, tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-stevehuffman-final]
+last_updated: 2026-07-23
 ---
 
 # Reddit
@@ -18,7 +18,10 @@ The episode follows Reddit through its June 2005 start, competition with [[Digg]
 
 [[tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128]] adds Reddit as a reputation input for [[AnswerEngineOptimization]]. [[ErinGriffith]] says negative or inaccurate Reddit posts can surface prominently in chatbot answers, so brands may try to publish more detailed positive or corrective information. This turns Reddit from a community source into a machine-summarized reputation layer for AI search.
 
+[[tsr-s5-jared-v3final-tsr-s5-jared-v3final]] adds Reddit as one of [[Scribd]]'s early launch-attention surfaces. In [[JaredFriedman]]'s account, Scribd's March 2007 launch quickly reached [[HackerNews]], TechCrunch, [[Slashdot]], [[Digg]], Reddit, and major news outlets, helping the company move from nearly broke to multiple Series A term sheets.
+
 ## Connections
+- [[Scribd]], [[JaredFriedman]], [[HackerNews]], [[Slashdot]], and [[Digg]] - launch-distribution context added by the Jared Friedman episode.
 - [[SteveHuffman]], [[AlexisOhanian]], [[YCombinator]], and [[PaulGraham]] - founding path.
 - [[SummerFoundersProgram]] - first-batch context added by Graham's account.
 - [[Delicious]], [[Slashdot]], and [[Digg]] - product influence and competitive context.

@@ -2,7 +2,7 @@
 title: "Sequoia Capital"
 type: entity
 tags: [company, venture-capital, startups]
-sources: [tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky2-final]
+sources: [tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky2-final]
 last_updated: 2026-07-23
 ---
 
@@ -24,7 +24,10 @@ In this source, Sequoia is not analyzed as a firm in depth. Its role is symbolic
 
 [[tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio]] adds Sequoia as an early credibility setting for [[BoomSupersonic]]. Scholl says he gathered aerospace candidates in a Sequoia conference room so they could diligence one another and decide whether the company was serious enough to join, making the firm a venue for [[RecursiveExpertRecruiting]] and [[StartupLegitimacyTransfer]] rather than only a capital source.
 
+[[tsr-s5-jared-v3final-tsr-s5-jared-v3final]] adds Sequoia to [[Scribd]]'s post-launch financing context. [[JaredFriedman]] says Scribd received Series A term sheets from [[Redpoint]], [[CRV]], and Sequoia after the company launched into heavy attention, then chose Redpoint. In this source Sequoia is a credibility and capital option rather than the selected lead.
+
 ## Connections
+- [[Scribd]], [[JaredFriedman]], [[Redpoint]], and [[CRV]] - Scribd Series A context added by the Jared Friedman episode.
 - [[YCombinator]], [[SummerFoundersProgram]], and [[StartupAcceleratorBatchSelection]] - accelerator context.
 - [[SamAltman]] - founder/investor-network example named in the source.
 - [[BrianChesky]], [[Airbnb]], and [[GregMcAdoo]] - market-reframing case added by the second Chesky episode.

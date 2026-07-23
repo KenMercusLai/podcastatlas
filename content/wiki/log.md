@@ -4070,3 +4070,11 @@ Added source page for The Social Radars episode with Blake Scholl on Boom Supers
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-23] ingest | Jared Friedman, Partner, Y Combinator; Co-founder, Scribd
+
+Added source page for The Social Radars episode with Jared Friedman on Scribd, early YC, Wholist, copyright risk, search-driven content growth, shallow product-market fit, the 2008 financing crisis, YC internal software, and the AI-era return of technical founder energy. Created pages for Jared Friedman, Scribd, Tripp, Wholist, Ivo Parashkevov, T-Con, Redpoint, Brian Mendoza, Wilson Sonsini, Search-Driven Content Growth, Shallow Product-Market Fit, YC Internal Software, and User-Generated Content Copyright Risk; updated overview, index, The Social Radars, Y Combinator, Paul Graham, Paul Buchheit, Startup Community Infrastructure, Startup Runway Discipline, Founder Product Fit, Founder Idea Pivot, Copyright Platform Conflict, CRV, Sequoia Capital, Hacker News, Bookface, Startup School, Sam Altman, Google, Slashdot, Reddit, YouTube, Digg, and Light Cone. No direct contradiction found; Scribd scale, PMF judgment, and AI-era historical comparisons remain source-scoped to Jared Friedman's 2025-12-30 account.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

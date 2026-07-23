@@ -2,7 +2,7 @@
 title: "Sam Altman"
 type: entity
 tags: [person, startups, venture-capital]
-sources: [tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-replit-v2-tsr-s3-replit-v2, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-stevehuffman-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+sources: [tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-replit-v2-tsr-s3-replit-v2, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-stevehuffman-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
 last_updated: 2026-07-23
 ---
 
@@ -22,7 +22,10 @@ In this source, Altman functions as part of the [[YCombinator]] and startup-inve
 
 [[tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio]] adds Altman as an early [[BoomSupersonic]] investor and YC recruiter. [[BlakeScholl]] says Altman initially thought Boom's valuation was high, but repeatedly encouraged him to apply to [[YCombinator]]. In this source, Altman helps move a capital-intensive aerospace company into YC because the main risk is not only technical feasibility but narrative, credibility, and financing.
 
+[[tsr-s5-jared-v3final-tsr-s5-jared-v3final]] adds Altman as the YC president who pulled [[JaredFriedman]] into partner work. Jared says he planned to start another company and asked Altman for office hours on ideas, but Altman was short a partner for the Winter 2016 batch after [[GarryTan]] left and asked Jared to help for one batch. Jared stayed at [[YCombinator]] for roughly ten years after that.
+
 ## Connections
+- [[JaredFriedman]], [[Scribd]], [[YCombinator]], and [[YCInternalSoftware]] - Jared's partner path and later internal-software branch added by The Social Radars.
 - [[Reddit]], [[SteveHuffman]], and [[YCombinator]] - funding and return context.
 - [[SummerFoundersProgram]] and [[SequoiaCapital]] - first-batch validation context added by the Graham episode.
 - [[CorporateOwnedStartupConstraints]], [[FounderReturnCrisis]], and [[StartupGovernance]] - concepts connected to the episode.

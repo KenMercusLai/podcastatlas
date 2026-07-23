@@ -3119,6 +3119,10 @@
     "title": "Brian Chesky",
     "url": "/wiki/entities/brianchesky/"
   },
+  "BrianMendoza": {
+    "title": "Brian Mendoza",
+    "url": "/wiki/entities/brianmendoza/"
+  },
   "BrianSmith": {
     "title": "Brian Smith",
     "url": "/wiki/entities/briansmith/"
@@ -9375,6 +9379,10 @@
     "title": "Itochu / 伊藤忠商事",
     "url": "/wiki/entities/itochu/"
   },
+  "IvoParashkevov": {
+    "title": "Ivo Parashkevov",
+    "url": "/wiki/entities/ivoparashkevov/"
+  },
   "IvyLeagueMeritocracy": {
     "title": "Ivy League Meritocracy",
     "url": "/wiki/concepts/ivyleaguemeritocracy/"
@@ -9518,6 +9526,10 @@
   "JapaneseSogoShosha": {
     "title": "Japanese Sogo Shosha / 日本综合商社",
     "url": "/wiki/concepts/japanesesogoshosha/"
+  },
+  "JaredFriedman": {
+    "title": "Jared Friedman",
+    "url": "/wiki/entities/jaredfriedman/"
   },
   "JaredKushner": {
     "title": "Jared Kushner",
@@ -14863,6 +14875,10 @@
     "title": "Redmi",
     "url": "/wiki/entities/redmi/"
   },
+  "Redpoint": {
+    "title": "Redpoint",
+    "url": "/wiki/entities/redpoint/"
+  },
   "ReferenceCheckHiring": {
     "title": "Reference-Check Hiring",
     "url": "/wiki/concepts/referencecheckhiring/"
@@ -15691,6 +15707,10 @@
     "title": "Screen-Time Parenting",
     "url": "/wiki/concepts/screentimeparenting/"
   },
+  "Scribd": {
+    "title": "Scribd",
+    "url": "/wiki/entities/scribd/"
+  },
   "ScriptAsSocialHistory": {
     "title": "Script As Social History",
     "url": "/wiki/concepts/scriptassocialhistory/"
@@ -15722,6 +15742,10 @@
   "SearchAdvertisingDecline": {
     "title": "Search Advertising Decline",
     "url": "/wiki/concepts/searchadvertisingdecline/"
+  },
+  "SearchDrivenContentGrowth": {
+    "title": "Search-Driven Content Growth",
+    "url": "/wiki/concepts/searchdrivencontentgrowth/"
   },
   "SearchQualityOperatingCadence": {
     "title": "Search Quality Operating Cadence",
@@ -15926,6 +15950,10 @@
   "Shahed136": {
     "title": "Shahed 136",
     "url": "/wiki/entities/shahed136/"
+  },
+  "ShallowProductMarketFit": {
+    "title": "Shallow Product-Market Fit",
+    "url": "/wiki/concepts/shallowproductmarketfit/"
   },
   "ShallowSeaDeepSeaCategoryStrategy": {
     "title": "Shallow Sea Deep Sea Category Strategy",
@@ -17199,6 +17227,10 @@
     "title": "T3 Chuxing",
     "url": "/wiki/entities/t3chuxing/"
   },
+  "TConScribd": {
+    "title": "T-Con (Scribd Co-Founder)",
+    "url": "/wiki/entities/tconscribd/"
+  },
   "TDK": {
     "title": "TDK",
     "url": "/wiki/entities/tdk/"
@@ -18023,6 +18055,10 @@
     "title": "Triplebyte",
     "url": "/wiki/entities/triplebyte/"
   },
+  "TrippScribd": {
+    "title": "Tripp (Scribd Co-Founder)",
+    "url": "/wiki/entities/trippscribd/"
+  },
   "Tristan": {
     "title": "Tristan",
     "url": "/wiki/entities/tristan/"
@@ -18390,6 +18426,10 @@
   "UsageBasedVerticalSaaSPricing": {
     "title": "Usage-Based Vertical SaaS Pricing",
     "url": "/wiki/concepts/usagebasedverticalsaaspricing/"
+  },
+  "UserGeneratedContentCopyrightRisk": {
+    "title": "User-Generated Content Copyright Risk",
+    "url": "/wiki/concepts/usergeneratedcontentcopyrightrisk/"
   },
   "UserPoweredContentPlatform": {
     "title": "User-Powered Content Platform",
@@ -18963,6 +19003,10 @@
     "title": "Wholesale-To-Direct Customer Bridge",
     "url": "/wiki/concepts/wholesaletodirectcustomerbridge/"
   },
+  "Wholist": {
+    "title": "Wholist",
+    "url": "/wiki/entities/wholist/"
+  },
   "WildMushroomFoodSafety": {
     "title": "Wild Mushroom Food Safety",
     "url": "/wiki/concepts/wildmushroomfoodsafety/"
@@ -18994,6 +19038,10 @@
   "WilliamOfBaskerville": {
     "title": "巴斯克维尔的威廉 / William of Baskerville",
     "url": "/wiki/entities/williamofbaskerville/"
+  },
+  "WilsonSonsini": {
+    "title": "Wilson Sonsini",
+    "url": "/wiki/entities/wilsonsonsini/"
   },
   "Win": {
     "title": "Win",
@@ -19366,6 +19414,10 @@
   "XunweiShunde": {
     "title": "寻味顺德",
     "url": "/wiki/entities/xunweishunde/"
+  },
+  "YCInternalSoftware": {
+    "title": "YC Internal Software",
+    "url": "/wiki/concepts/ycinternalsoftware/"
   },
   "YCombinator": {
     "title": "Y Combinator",
@@ -21210,6 +21262,10 @@
   "tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio": {
     "title": "Christina Cacioppo on Vanta, Coding, and Compliance Automation",
     "url": "/wiki/sources/tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio/"
+  },
+  "tsr-s5-jared-v3final-tsr-s5-jared-v3final": {
+    "title": "Jared Friedman, Partner, Y Combinator; Co-founder, Scribd",
+    "url": "/wiki/sources/tsr-s5-jared-v3final-tsr-s5-jared-v3final/"
   },
   "tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio": {
     "title": "Tom Blomfield on Monzo, YC, and Founder Lessons",

@@ -2,7 +2,7 @@
 title: "Startup Community Infrastructure"
 type: concept
 tags: [startups, community, software, venture-capital]
-sources: [tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-ronconway-v4-tsr-s4-ronconway-v4, tsr-s4-harj-v3-tsr-s4-harj-v3, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, socialradarspod-emmettshear-v2, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-garrytan-final, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
+sources: [tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-ronconway-v4-tsr-s4-ronconway-v4, tsr-s4-harj-v3-tsr-s4-harj-v3, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, socialradarspod-emmettshear-v2, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-garrytan-final, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
 last_updated: 2026-07-23
 ---
 
@@ -24,6 +24,8 @@ Startup community infrastructure is the set of software, rituals, lists, events,
 
 [[tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]] adds [[TomBlomfield]]'s Summer 2011 [[YCombinator]] version. Tom says being surrounded by strong founders was the batch's biggest value for [[GoCardless]] because it gave the team a benchmark and made weak bill-splitting traction harder to ignore. His later return as a YC partner shows the same community becoming an institution where experienced founders help newer ones.
 
+[[tsr-s5-jared-v3final-tsr-s5-jared-v3final]] adds [[JaredFriedman]]'s Summer 2006 and later-partner version. Jared remembers informal office hours with [[PaulGraham]], the Crystal Towers "Y Scraper" living cluster, and the way early YC founders and companies were near enough to share pressure, ideas, and startup belief. The same source extends community infrastructure into [[YCInternalSoftware]]: larger founder communities need application systems, [[Bookface]], history, and AI-assisted internal tooling to keep memory and judgment usable.
+
 The source's clearest case is Bookface. [[GarryTan]] says YC needed it because larger batches meant founders no longer knew everyone and because outsiders sometimes represented themselves as YC companies. A community tool became infrastructure when it preserved identity, access, memory, and founder-to-founder help at a scale where informal recognition no longer worked.
 
 ## Key Claims
@@ -38,8 +40,10 @@ The source's clearest case is Bookface. [[GarryTan]] says YC needed it because l
 - Investor relationships become community infrastructure when they make broad startup access repeatable rather than dependent on one founder's personal network.
 - Founder community can exert pull before acceptance: wanting into the peer environment can motivate persistence, side-door feedback seeking, and eventual batch participation.
 - Community can also create honest comparison pressure: seeing stronger founders can force a team to abandon a weak idea sooner.
+- As an accelerator scales, internal software becomes part of community infrastructure because human memory alone cannot preserve identity, application history, red flags, and founder-to-founder help.
 
 ## Connections
+- [[JaredFriedman]], [[Scribd]], [[Wholist]], [[YCInternalSoftware]], and [[Bookface]] - Summer 2006 community and later internal-software branch added by the Jared Friedman episode.
 - [[HackerNews]], [[Bookface]], [[StartupSchool]], [[YCombinator]], and [[GarryTan]] - source cases.
 - [[RonConway]], [[SVAngel]], [[StartupInformationLayer]], [[InternetSoftwareThesis]], and [[NetscapePlatformEcosystem]] - pre-YC internet-era sourcing layer.
 - [[EmmettShear]], [[Kiko]], [[SteveHuffman]], [[AlexisOhanian]], and [[AaronSwartz]] - first-batch peer-support case added by the Shear episode.

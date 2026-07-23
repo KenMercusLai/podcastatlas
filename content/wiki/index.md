@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Jared Friedman, Partner, Y Combinator; Co-founder, Scribd](sources/tsr-s5-jared-v3final-tsr-s5-jared-v3final.md) — The Social Radars episode with Jared Friedman on Scribd, early YC, Wholist, copyright risk, search-driven growth, 2008 runway pressure, YC internal software, and the AI-era return of technical founder energy.
 - [Blake Scholl, Founder & CEO of Boom Supersonic](sources/tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio.md) — The Social Radars episode with Blake Scholl on Boom Supersonic, all-business-class supersonic economics, recursive expert recruiting, YC storytelling, Virgin customer proof, XB-1, the Rolls-Royce engine crisis, boomless cruise, and supersonic regulation.
 - [Surbhi Sarna, Founder of nVision Medical](sources/tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3.md) — The Social Radars episode with Surbhi Sarna on nVision Medical, ovarian cancer diagnostics, fallopian-tube access, physician-led medical-device design, FDA clearance, hard medtech fundraising, and the Boston Scientific acquisition.
 - [Gusto Co-Founders: Josh Reeves, Edward Kim & Tomer London](sources/tsr-s4-gusto-v3-tsr-s4-gusto-v3.md) — The Social Radars episode with Gusto's three founders on payroll pain, a narrow regulated workflow wedge, co-founder relationship maintenance, values, COVID small-business support, and SVB payroll continuity.
@@ -506,6 +507,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Jared Friedman](entities/JaredFriedman.md) — Scribd co-founder and YC partner whose episode connects early YC, Scribd's search-led document platform, and YC's internal software/AI tooling.
+- [Scribd](entities/Scribd.md) — YC-backed document-sharing and later book-subscription company built through user uploads, search traffic, copyright risk, and crisis-era financing.
+- [Tripp (Scribd Co-Founder)](entities/TrippScribd.md) — Jared Friedman's co-founder through the rejected Uber-like idea, Wholist, and Scribd.
+- [Wholist](entities/Wholist.md) — Failed college-classifieds marketplace Jared Friedman and Tripp pursued during YC before Scribd.
+- [Ivo Parashkevov](entities/IvoParashkevov.md) — Early co-founder who left before Jared Friedman and Tripp's YC program really began.
+- [T-Con (Scribd Co-Founder)](entities/TConScribd.md) — Scribd co-founder named in the source around early equity and vesting tension.
+- [Redpoint](entities/Redpoint.md) — Venture firm that led Scribd's roughly $4 million Series A after the company's high-attention launch.
+- [Brian Mendoza](entities/BrianMendoza.md) — Wilson Sonsini lawyer credited in the source with helping Scribd survive early copyright exposure.
+- [Wilson Sonsini](entities/WilsonSonsini.md) — Law-firm context for Scribd's early user-generated-content copyright risk.
 - [Blake Scholl](entities/BlakeScholl.md) — Boom Supersonic founder whose Social Radars episode connects post-Barcode Hero motivation, YC hard-tech storytelling, customer proof, expert recruiting, and supersonic regulation.
 - [Boom Supersonic](entities/BoomSupersonic.md) — Commercial supersonic-aircraft company building Overture and using XB-1, customer intent, engine ownership, and boomless cruise to de-risk the market.
 - [Barcode Hero](entities/BarcodeHero.md) — Blake Scholl's earlier shopping startup, used as the episode's founder-learning setup before Boom.
@@ -3266,6 +3276,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Search-Driven Content Growth](concepts/SearchDrivenContentGrowth.md) — Scribd growth loop where user-uploaded documents created indexable pages, Google traffic, and more uploads.
+- [Shallow Product-Market Fit](concepts/ShallowProductMarketFit.md) — Jared Friedman's distinction for products many users like a little without the deep attachment of stronger PMF cases.
+- [YC Internal Software](concepts/YCInternalSoftware.md) — Y Combinator's software-driven operating layer from Paul Graham's tools, Hacker News, Bookface, and legal docs to AI-assisted internal workflows.
+- [User-Generated Content Copyright Risk](concepts/UserGeneratedContentCopyrightRisk.md) — Legal exposure created when users upload copyrighted material faster than a platform can prevent, detect, license, or remove it.
 - [All-Business-Class Supersonic Model](concepts/AllBusinessClassSupersonicModel.md) — Boom's market thesis that a smaller premium cabin could make supersonic flight economically viable before broad mass-market service.
 - [Boomless Cruise](concepts/BoomlessCruise.md) — Supersonic operating technique described by Blake Scholl for avoiding ground-level sonic booms by keeping the boom from reaching land.
 - [Supersonic Regulatory Speed Limit](concepts/SupersonicRegulatorySpeedLimit.md) — U.S. overland speed rule that Boom treats as a candidate for reform once boomless technical proof is available.

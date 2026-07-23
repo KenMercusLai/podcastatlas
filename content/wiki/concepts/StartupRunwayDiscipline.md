@@ -2,8 +2,8 @@
 title: "Startup Runway Discipline"
 type: concept
 tags: [startup, finance, operations, crisis]
-sources: [tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, socialradarspod-emmettshear-v2, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
-last_updated: 2026-07-14
+sources: [tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, socialradarspod-emmettshear-v2, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
+last_updated: 2026-07-23
 ---
 
 # Startup Runway Discipline
@@ -18,6 +18,8 @@ The concept differs from generic frugality. In the Justin.tv case, discipline me
 
 [[tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]] adds [[Monzo]] as a regulated-bank version. [[TomBlomfield]] says Monzo was losing about $100 million a year before a COVID-era financing was pulled shortly before signing, forcing existing investors to fund the company at a discounted valuation. The case adds [[RegulatedFintechCapitalPressure]]: a bank's runway problem includes licensing, customer trust, fraud controls, and regulatory obligations.
 
+[[tsr-s5-jared-v3final-tsr-s5-jared-v3final]] adds [[Scribd]] as another 2008 crisis case. [[JaredFriedman]] says Scribd raised a Series B from [[CRV]] during the financial crisis, and that the round saved the company after its early launch attention, traffic decline, copyright pressure, and still-forming business model.
+
 ## Key Claims
 - Runway discipline starts when founders can name the burn rate, runway, revenue levers, and operational assumptions in plain language.
 - A funding crisis can force better company learning if it makes the team connect product usage, monetization, expenses, and survival rather than treating fundraising as the only answer.
@@ -27,8 +29,10 @@ The concept differs from generic frugality. In the Justin.tv case, discipline me
 - Revenue experiments and bill prioritization can turn an external funding crisis into a forced path toward cash-flow positive survival.
 - Hardware runway discipline has to count inventory, production commitments, support costs, and debt covenants, not only payroll burn and cash balance.
 - Regulated-fintech runway discipline has to count licensing delay, fraud losses, compliance, customer balances, and trust obligations alongside ordinary burn.
+- A company with major traffic and press can still be runway-fragile if its monetization, legal exposure, and product-market-fit depth are not yet settled.
 
 ## Connections
+- [[Scribd]], [[JaredFriedman]], [[CRV]], [[SearchDrivenContentGrowth]], and [[ShallowProductMarketFit]] - 2008 crisis-financing case added by the Jared Friedman episode.
 - [[JustinTV|Justin.tv]], [[Twitch]], [[EmmettShear]], [[JustinKan]], [[MichaelSeibel]], and [[KyleVogt]] - source case and team context.
 - [[Weebly]], [[DavidRusenko]], [[CapitalEfficientStartupBuilding]], and [[SlowProductMarketFit]] - Weebly source case where runway discipline preserved the slow PMF path.
 - [[FounderCashFlowConstraint]], [[ProductLedWillingnessToPay]], [[CustomerPull]], and [[StartupGovernance]] - adjacent startup survival and operating concepts.
