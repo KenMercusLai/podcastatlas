@@ -2,8 +2,8 @@
 title: "Sam Altman"
 type: entity
 tags: [person, startups, venture-capital]
-sources: [tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-stevehuffman-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
-last_updated: 2026-07-12
+sources: [tsr-s3-replit-v2-tsr-s3-replit-v2, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-stevehuffman-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+last_updated: 2026-07-23
 ---
 
 # Sam Altman
@@ -18,9 +18,12 @@ In this source, Altman functions as part of the [[YCombinator]] and startup-inve
 
 [[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] makes Altman the central source. The episode traces him from [[Looped]], the first [[YCombinator]] batch, and canceling a [[GoldmanSachs]] internship through YC presidency and [[OpenAI]]. It frames his founder style as [[FounderRiskCalibration]]: choices others read as reckless often looked to him like favorable downside/upside tradeoffs. The OpenAI section adds his account of nonprofit origins, the [[LanguageModelScalingBet]], [[DelegatedWebResearch]] through [[ChatGPT]] search, and the November 2023 [[OpenAIBoardCrisis]].
 
+[[tsr-s3-replit-v2-tsr-s3-replit-v2]] adds Altman as the YC leader who reopened [[Replit]]'s path into [[YCombinator]]. After earlier rejection, Altman sent [[AmjadMasad]] a late-2017 message saying YC had been looking at Replit and connected him with [[PaulGraham]]. During the batch, Altman's opening speech helped [[HayaOdeh]] feel the company had permission to work intensely and think bigger than the education wedge.
+
 ## Connections
 - [[Reddit]], [[SteveHuffman]], and [[YCombinator]] - funding and return context.
 - [[SummerFoundersProgram]] and [[SequoiaCapital]] - first-batch validation context added by the Graham episode.
 - [[CorporateOwnedStartupConstraints]], [[FounderReturnCrisis]], and [[StartupGovernance]] - concepts connected to the episode.
 - [[ParkerConrad]], [[Zenefits]], [[Rippling]], [[MarkAndreessen]], [[AndreessenHorowitz]], and [[FounderReputationRecovery]] - Parker Conrad episode context.
 - [[Looped]], [[OpenAI]], [[ChatGPT]], [[OpenAIBoardCrisis]], [[LanguageModelScalingBet]], and [[FounderRiskCalibration]] - direct Social Radars episode context.
+- [[Replit]], [[AmjadMasad]], [[HayaOdeh]], [[PaulGraham]], and [[StartupLegitimacyTransfer]] - Replit YC path added by the Season 3 source.

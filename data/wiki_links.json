@@ -1227,6 +1227,10 @@
     "title": "Accelerated Bank Runs",
     "url": "/wiki/concepts/acceleratedbankruns/"
   },
+  "AccessibleProgrammingPlatform": {
+    "title": "Accessible Programming Platform",
+    "url": "/wiki/concepts/accessibleprogrammingplatform/"
+  },
   "AccidentalVirality": {
     "title": "Accidental Virality",
     "url": "/wiki/concepts/accidentalvirality/"
@@ -4171,6 +4175,10 @@
     "title": "Code Pilot",
     "url": "/wiki/entities/codepilot/"
   },
+  "Codecademy": {
+    "title": "Codecademy",
+    "url": "/wiki/entities/codecademy/"
+  },
   "Codex": {
     "title": "Codex",
     "url": "/wiki/entities/codex/"
@@ -4430,6 +4438,10 @@
   "ConsumerElectronicsLifecycle": {
     "title": "Consumer Electronics Lifecycle",
     "url": "/wiki/concepts/consumerelectronicslifecycle/"
+  },
+  "ConsumerGradeDeveloperInfrastructure": {
+    "title": "Consumer-Grade Developer Infrastructure",
+    "url": "/wiki/concepts/consumergradedeveloperinfrastructure/"
   },
   "ConsumerHardwareStartupRisk": {
     "title": "Consumer Hardware Startup Risk",
@@ -8170,6 +8182,10 @@
   "HayFeverEnvironmentalHistory": {
     "title": "Hay Fever Environmental History",
     "url": "/wiki/concepts/hayfeverenvironmentalhistory/"
+  },
+  "HayaOdeh": {
+    "title": "Haya Odeh",
+    "url": "/wiki/entities/hayaodeh/"
   },
   "HayaoMiyazaki": {
     "title": "Hayao Miyazaki / 宫崎骏",
@@ -14503,6 +14519,10 @@
     "title": "Raytheon",
     "url": "/wiki/entities/raytheon/"
   },
+  "ReactNative": {
+    "title": "React Native",
+    "url": "/wiki/entities/reactnative/"
+  },
   "ReadingAsDimensionalExpansion": {
     "title": "Reading As Dimensional Expansion",
     "url": "/wiki/concepts/readingasdimensionalexpansion/"
@@ -16326,6 +16346,10 @@
   "SpotifyWrapped": {
     "title": "Spotify Wrapped",
     "url": "/wiki/entities/spotifywrapped/"
+  },
+  "SpouseCoFounderDynamics": {
+    "title": "Spouse Co-Founder Dynamics",
+    "url": "/wiki/concepts/spousecofounderdynamics/"
   },
   "Spreadly": {
     "title": "Spreadly",
@@ -20826,6 +20850,10 @@
   "tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final": {
     "title": "Kyle Vogt on Justin.tv, Twitch, Cruise, and Choosing Hard Problems",
     "url": "/wiki/sources/tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final/"
+  },
+  "tsr-s3-replit-v2-tsr-s3-replit-v2": {
+    "title": "Replit Co-Founders, Amjad Masad & Haya Odeh",
+    "url": "/wiki/sources/tsr-s3-replit-v2-tsr-s3-replit-v2/"
   },
   "tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final": {
     "title": "Ron Conway on National Semiconductor, Altos, and Early Angel Investing",

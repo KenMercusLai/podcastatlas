@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Replit Co-Founders, Amjad Masad & Haya Odeh](sources/tsr-s3-replit-v2-tsr-s3-replit-v2.md) — The Social Radars episode on Replit's origin, Amjad Masad and Haya Odeh, accessible programming, consumer-grade developer infrastructure, YC validation, and spouse co-founder dynamics.
 - [Ryan Petersen on Flexport, Global Logistics, and Founder Discipline](sources/tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6.md) — The Social Radars episode on Flexport, customs brokerage, freight forwarding, logistics workflow automation, crisis response, and founder operational reset.
 - [用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜对谈 Slock.ai 创始人 RC](sources/yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy.md) — 42章经 episode with RC on Kimi CLI, Slock.ai, multi-agent collaboration, task claiming, memory, model diversity, and agent dynamics in a seven-person, forty-agent team.
 - [OpenClaw 之后，我只想未来 3-6 个月的事情｜对谈 Sheet0 创始人王文锋](sources/openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z.md) — 42章经 episode with Wang Wenfeng on OpenClaw, coding agents as a general action layer, Sheet0's AI-managing-AI pivot, agent harnesses, token budgets, and short-cycle startup judgment.
@@ -498,6 +499,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Haya Odeh](entities/HayaOdeh.md) — Replit co-founder whose design, UX, user research, and spouse co-founder story shape the accessible-programming source.
+- [Codecademy](entities/Codecademy.md) — Coding-education company that used Amjad Masad's open-source Replit work and pulled him into the New York startup path.
+- [React Native](entities/ReactNative.md) — Facebook developer-tool project that forms Amjad Masad's technical challenge chapter before he committed to Replit.
 - [Ryan Petersen](entities/RyanPetersen.md) — Flexport founder and returning CEO whose episode connects logistics pain, YC, crisis response, and founder operational reset.
 - [Flexport](entities/Flexport.md) — Global logistics startup built around freight, customs, warehousing, fulfillment, crisis response, and workflow automation.
 - [Dave Clark](entities/DaveClark.md) — Former Amazon consumer-business executive hired as Flexport CEO before Ryan Petersen's return.
@@ -1912,8 +1916,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Viaweb](entities/Viaweb.md) — Early web-commerce company where browser-based server software, live infrastructure, and Yahoo acquisition shaped later Y Combinator lessons.
 - [Anybots](entities/Anybots.md) — Trevor Blackwell's robotics company pursuing human-sized dynamically balancing robots and providing early Mountain View space for Y Combinator.
 - [Paul Graham](entities/PaulGraham.md) — Viaweb and Y Combinator co-founder whose source appearances include the Reddit train-call pivot, early YC design, and later product/startup judgment.
-- [Replit](entities/Replit.md) — Developer-tool company used in Paul Graham's YC offsite episode to frame vibe coding as English instructions functioning like source code.
-- [Amjad Masad](entities/AmjadMasad.md) — Replit figure whose AI-coding demo gave Graham the source-code/object-code framing for vibe coding.
+- [Replit](entities/Replit.md) — Developer-tool company whose sources connect accessible browser programming, hosted developer infrastructure, YC validation, and later vibe-coding framing.
+- [Amjad Masad](entities/AmjadMasad.md) — Replit co-founder whose path runs from Jordan browser-programming experiments through Codecademy, Facebook, YC, and AI-coding product philosophy.
 - [Stoke](entities/Stoke.md) — YC company praised by Graham as a low-key hard-engineering execution case at the Founder Mode Retreat.
 - [Paul Gross](entities/PaulGross.md) — Remora Carbon founder and CEO whose YC offsite episodes connect young-founder credibility, mobile carbon capture, and risk-focused founder mode.
 - [Robert Morris](entities/RobertMorris.md) — Harvard, Viaweb, and early Y Combinator figure who connected Paul Graham with Trevor Blackwell and helped judge early applicants.
@@ -3216,6 +3220,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Accessible Programming Platform](concepts/AccessibleProgrammingPlatform.md) — Replit thesis that programming should be easier to start, share, host, and turn into working products or businesses.
+- [Consumer-Grade Developer Infrastructure](concepts/ConsumerGradeDeveloperInfrastructure.md) — Pattern where deep developer infrastructure is hidden behind a simple product surface for broad users.
+- [Spouse Co-Founder Dynamics](concepts/SpouseCoFounderDynamics.md) — Startup operating pattern for married co-founders balancing shared context, decision transparency, family boundaries, and investor bias.
 - [Global Logistics Coordination](concepts/GlobalLogisticsCoordination.md) — Moving goods across fragmented freight, customs, warehouse, carrier, finance, government, and information systems.
 - [Logistics Workflow Automation](concepts/LogisticsWorkflowAutomation.md) — Flexport pattern of decomposing freight movement into assignable tasks before gradually automating them.
 - [Logistics Crisis Response](concepts/LogisticsCrisisResponse.md) — Logistics operating pattern for pandemic PPE, Red Sea disruption, port congestion, and other supply-chain shocks.

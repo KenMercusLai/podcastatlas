@@ -2,8 +2,8 @@
 title: "Hacker News"
 type: entity
 tags: [product, online-community, startups, y-combinator]
-sources: [socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianarmstrong-final]
-last_updated: 2026-07-11
+sources: [tsr-s3-replit-v2-tsr-s3-replit-v2, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianarmstrong-final]
+last_updated: 2026-07-23
 ---
 
 # Hacker News
@@ -14,9 +14,12 @@ The source makes Hacker News a compact case for [[StartupCommunityForumBurden]].
 
 [[socialradarspod-brianarmstrong-final]] adds Hacker News as the place where [[BrianArmstrong]] first encountered the [[Bitcoin]] white paper. The episode also says early [[Coinbase]] was posted to Hacker News alongside Reddit, making the forum part of the technical-audience discovery path for a later YC company.
 
+[[tsr-s3-replit-v2-tsr-s3-replit-v2]] adds Hacker News as an early distribution and validation surface for [[Replit]]. [[AmjadMasad]] says he open sourced his Python-in-the-browser work and posted it to Hacker News in 2011, where it went viral; later, [[PaulGraham]] had also found Replit there before emailing Amjad about the future of programming.
+
 ## Connections
 - [[PaulGraham]] and [[YCombinator]] - founder and institutional context.
 - [[StartupCommunityForumBurden]] - concept grounded by Graham's warning about forums.
 - [[StartupCommunityInfrastructure]] and [[Bookface]] - adjacent founder-community infrastructure in the YC branch.
 - [[StartupEssayDistribution]] - broader YC distribution system alongside Graham's essays.
 - [[BrianArmstrong]], [[Bitcoin]], and [[Coinbase]] - Armstrong episode context.
+- [[Replit]], [[AmjadMasad]], [[PaulGraham]], and [[AccessibleProgrammingPlatform]] - Replit distribution and discovery context.

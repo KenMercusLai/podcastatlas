@@ -4007,3 +4007,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-23] ingest | Replit Co-Founders, Amjad Masad & Haya Odeh
+
+Added source page for The Social Radars episode with Replit co-founders Amjad Masad and Haya Odeh on Replit's Jordan/browser-programming origin, Codecademy and Facebook/React Native detours, Haya's design and user-research path, YC validation through Sam Altman and Paul Graham, consumer-grade developer infrastructure, hidden security work, and spouse co-founder dynamics. Created pages for Haya Odeh, Codecademy, React Native, Accessible Programming Platform, Consumer-Grade Developer Infrastructure, and Spouse Co-Founder Dynamics; updated overview, index, Replit, Amjad Masad, Sam Altman, Hacker News, and Facebook. No direct contradiction found; the source qualifies the prior Replit page by grounding the later vibe-coding framing in a much older accessible-programming and hosted-development mission.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

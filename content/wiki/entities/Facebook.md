@@ -2,7 +2,7 @@
 title: "Facebook"
 type: entity
 tags: [company, social-media, platform]
-sources: [e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128]
+sources: [tsr-s3-replit-v2-tsr-s3-replit-v2, e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128]
 last_updated: 2026-07-23
 ---
 
@@ -14,8 +14,11 @@ The page's current role is narrow: Facebook is not treated as a separate company
 
 [[e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d]] adds an earlier business-strategy reading through [[PeterThiel]] and [[ReneGirard]]. The [[SiliconValley101]] episode uses Facebook as a [[MimeticCompetitionAvoidance]] and network-effect example: people join partly because other people are already there, making imitation a growth mechanism rather than only a rivalry problem.
 
+[[tsr-s3-replit-v2-tsr-s3-replit-v2]] adds a developer-tools career chapter through [[AmjadMasad]]. After [[Codecademy]], Amjad joined Facebook for a deeper technical challenge and worked on the early [[ReactNative]] team. The source also says he considered turning [[Replit]] into a Facebook project, then rejected that path because he worried about losing ownership and company control.
+
 ## Connections
 - [[Meta]] and [[Instagram]] - parent company and paired platform in the source.
 - [[GaiaBernstein]] and [[MarketplaceTech]] - expert and show context.
 - [[SocialMediaProductLiability]], [[AddictiveInteractionDesign]], [[StateAGPlatformLitigation]], and [[COPPA]] - legal and design-accountability branch.
 - [[PeterThiel]], [[ReneGirard]], and [[MimeticCompetitionAvoidance]] - Thiel/Girard interpretation added by Silicon Valley 101.
+- [[AmjadMasad]], [[ReactNative]], [[Replit]], and [[FounderControl]] - Replit-founder career chapter added by The Social Radars.
