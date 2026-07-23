@@ -2,11 +2,13 @@
 title: "Enterprise Agent Governance"
 type: concept
 tags: [ai, agents, enterprise, governance, security]
-sources: [tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6]
+sources: [e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tech-20260218-0218-mp-tech-pod-128-tech-20260218-0218-mp-tech-pod-128, google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6]
 last_updated: 2026-07-23
 ---
 
 # Enterprise Agent Governance
+
+[[e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923]] adds a startup-internal version through [[Creo]]. [[ClarkCreo|Clark]] describes the productivity gain from letting agents query company data directly, but the episode treats that as a governance problem: broad agent access needs identity, personal-versus-agent authority, read/write boundaries, and safeguards against wrong data or bad decisions.
 
 Enterprise agent governance is the operating layer for deploying, supervising, securing, and auditing many AI agents inside a company. In [[google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6]], the hosts describe the enterprise question shifting from "can we build an agent?" to "how do we manage thousands of agents?"
 
@@ -27,6 +29,7 @@ The concept extends [[AgentHarness]] from a task-runtime problem into a manageme
 - The more agents become software users, the more pricing, permissions, data access, and audit trails have to be designed together.
 - Enterprise agent governance can be sold as consulting-supported change management when companies do not yet know where AI coworkers should sit inside existing workflows.
 - In B2B commerce, governance must cover not only data access but also commercial commitments, supplier communication, landed-cost assumptions, and recovery from partial workflow failure.
+- In AI-first organizations, governance must cover internal operating loops too: agents may inspect metrics, assign bugs, open PRs, query customer behavior, and generate market output before a human review point appears.
 
 ## Connections
 - [[DanielNewman]], [[AINativeSaaSThreat]], [[SaaSTrustMoat]], and [[OutcomeBasedAIPricing]] — Marketplace Tech's SaaS replacement and pricing boundary.
@@ -38,3 +41,4 @@ The concept extends [[AgentHarness]] from a task-runtime problem into a manageme
 - [[HumanJudgmentUnderAI]] — responsibility boundary when agents enter production workflows.
 - [[OpenAIFrontier]], [[AICoworkers]], and [[BusinessLedAITransformation]] - consulting-led agent rollout added by Marketplace Tech Bytes.
 - [[Axio]], [[B2BToA2A]], [[AgenticB2BSourcing]], [[PersistentAgentMemory]], and [[AgentPermissionBoundaries]] - cross-border B2B governance case added by E231.
+- [[Creo]], [[ClarkCreo]], [[AIFirstOrganization]], and [[HarnessEngineering]] - internal AI-first governance and broad-access case added by E238.

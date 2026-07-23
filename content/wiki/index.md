@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI](sources/e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923.md) — 硅谷101 episode with Creo's Peter, Chen Kai, and Clark on Harness Engineering, AI-first organization design, agent-driven development, verification, go-to-market bottlenecks, and moving from trusting people to governed trust in AI.
 - [E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？](sources/e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4.md) — 硅谷101 episode with Alfred Lin, Kelento Hou, and Jack Rao on AI-written homework, personalized AI tutoring, degree-as-trust credentials, university assessment reform, AI dependence, and career preparation when AI is the default environment.
 - [E235｜20年内CAR-T治愈癌症？与刘诚博士聊聊癌症治疗的底层哲学](sources/e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534.md) — 硅谷101 episode with Liu Cheng on CAR-T, in vivo versus ex vivo manufacturing, solid-tumor barriers, cytokine-release safety, China cell-therapy regulation, and cancer as an immune-recognition problem.
 - [E234｜未来实拍电影还存在吗？与导演陆川聊聊AI给影视人的恐惧与自由](sources/e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5.md) — 硅谷101 episode with Lu Chuan, Huang Ying, and KESA on AI video, film-grade workflows, dubbing, voice cloning rights, and why live-action film must justify itself through irreproducible human moments.
@@ -490,6 +491,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Creo](entities/Creo.md) — AI-agent company used in E238 as a case for Harness Engineering, AI-first organization design, and user-built self-improving agents.
+- [Peter (Creo)](entities/PeterCreo.md) — Creo CTO in E238, defining Harness Engineering and describing AI-driven coding, planning, CICD, bug triage, and architecture review.
+- [陈凯 / Chen Kai (Creo)](entities/ChenKaiCreo.md) — Creo CEO in E238, framing AI-first organization as workflow and trust redesign rather than ordinary AI tool adoption.
+- [Clark (Creo)](entities/ClarkCreo.md) — Creo go-to-market co-founder in E238, explaining market-readiness bottlenecks and broad agent data-access tradeoffs.
 - [Alfred 林童雨](entities/AlfredLinTongyu.md) — Tsinghua law-background guest in E236 who used AI as tutor, coding collaborator, and route from legal career risk into agent engineering.
 - [Kelento 侯泰宇](entities/KelentoHouTaiyu.md) — NYU applied-psychology graduate and entrepreneur in E236, arguing for degrees as trust credentials, AI-mediated top-down learning, and judgment as a meta-skill.
 - [Jack 饶街五](entities/JackRaoJiewu.md) — NYU data science and Columbia graduate student in E236 whose 99%-AI schoolwork workflow makes verification and course understanding the new student boundary.
@@ -3163,6 +3168,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Harness Engineering](concepts/HarnessEngineering.md) — E238 discipline for building the dynamic tooling, sandbox, security, latency, feedback, verification, and self-improvement system around agents.
+- [AI-First Organization](concepts/AIFirstOrganization.md) — E238 organization pattern where AI drives much of production while humans own architecture, direction, value definition, review, and responsibility.
 - [AI Default Learning Environment](concepts/AIDefaultLearningEnvironment.md) — E236 frame where students treat AI as ordinary infrastructure for learning, work, coding, and assignments rather than as an exceptional aid.
 - [Degree As Trust Credential](concepts/DegreeAsTrustCredential.md) — E236 claim that degrees can remain social trust and evaluation signals even when AI weakens routine knowledge-proof value.
 - [AI University Assessment Reform](concepts/AIUniversityAssessmentReform.md) — E236 assessment shift from policing whether AI appeared to testing process, judgment, verification, and AI-enabled problem solving.

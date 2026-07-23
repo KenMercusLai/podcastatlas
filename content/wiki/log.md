@@ -3859,6 +3859,10 @@ Added source page for the Marketplace Tech episode with David Brancaccio on rebu
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-23] ingest | E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI
+
+Added source page for the 硅谷101 episode with Creo's Peter, Chen Kai, and Clark on Harness Engineering, AI-first organization design, agent-driven development, AI-driven verification, go-to-market bottlenecks, broad agent data access, and the organizational shift from trusting people by role to trusting governed AI systems. Created pages for Creo, Peter (Creo), Chen Kai (Creo), Clark (Creo), Harness Engineering, and AI-First Organization; updated overview, index, Silicon Valley 101, Agent Harness, AI Organization Design, Agentic Workflow, AI Coding Verification, Agent Permission Boundaries, Organizational Context, Agent-Facing Interfaces, Context Engineering, Human-Agent Collaboration, Human Judgment Under AI, Enterprise Agent Governance, and Business-Led AI Transformation. No direct contradiction found; the source qualifies harness and AI-coding pages by showing that high AI-written-code ratios still depend on architecture, tests, rollout metrics, permission boundaries, and human review.
+
 ## [2026-07-23] ingest | E235｜20年内CAR-T治愈癌症？与刘诚博士聊聊癌症治疗的底层哲学
 
 Added source page for the 硅谷101 episode with 刘诚 of Eureka Therapeutics on CAR-T, in vivo versus ex vivo manufacturing, allogeneic CAR-T, solid-tumor barriers, cytokine-release safety, China cell-therapy regulation, and cancer as an immune-recognition problem. Created pages for 刘诚, Eureka Therapeutics, Legend Biotech, Johnson & Johnson, CAR-T Cell Therapy, Cancer Immune Recognition Problem, Ex Vivo CAR-T Manufacturing, In Vivo CAR-T, Allogeneic CAR-T, Solid Tumor CAR-T Constraints, Tumor Microenvironment, Cytokine Release Syndrome, and China Cell Therapy Regulatory Dual Track; updated overview, index, Silicon Valley 101, Cancer Vaccine Platform, and Food and Drug Administration. No direct contradiction found; the source-scoped 20-year cancer-cure optimism was stored as a forecast about durable cancer control rather than current medical guidance or universal clinical consensus.
@@ -3938,6 +3942,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-23] ingest | E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？
 
 Added source page for the 硅谷101 episode with Alfred 林童雨, Kelento 侯泰宇, and Jack 饶街五 on AI-native university life, 99%-AI-assisted schoolwork, personalized AI tutoring, degree-as-trust credentials, AI-era assessment reform, AI dependence, and career preparation when AI is the default environment. Created pages for Alfred 林童雨, Kelento 侯泰宇, Jack 饶街五, Tsinghua University, AI Default Learning Environment, Degree As Trust Credential, and AI University Assessment Reform; updated overview, index, Silicon Valley 101, NYU, Columbia University, AI As Tutor, AI Shortcut Risk, College Career Preparation, University Opportunity Density, AI Use Pacing, and Human Judgment Under AI. No direct contradiction found; the source qualifies first-draft and AI-tutor pages by showing that AI-native students may no longer accept AI-free work as the baseline, while still needing verification, judgment, and protected foundational practice.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-23] lint | Wiki health check
 

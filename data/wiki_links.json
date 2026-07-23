@@ -779,6 +779,10 @@
     "title": "AI File Management",
     "url": "/wiki/concepts/aifilemanagement/"
   },
+  "AIFirstOrganization": {
+    "title": "AI-First Organization",
+    "url": "/wiki/concepts/aifirstorganization/"
+  },
   "AIForMath": {
     "title": "AI For Math",
     "url": "/wiki/concepts/aiformath/"
@@ -3659,6 +3663,10 @@
     "title": "Chen Jingchu",
     "url": "/wiki/entities/chenjingchu/"
   },
+  "ChenKaiCreo": {
+    "title": "陈凯 / Chen Kai (Creo)",
+    "url": "/wiki/entities/chenkaicreo/"
+  },
   "ChenKaige": {
     "title": "陈凯歌 / Chen Kaige",
     "url": "/wiki/entities/chenkaige/"
@@ -4002,6 +4010,10 @@
   "ClarkAshtonSmith": {
     "title": "Clark Ashton Smith / C.A.史密斯",
     "url": "/wiki/entities/clarkashtonsmith/"
+  },
+  "ClarkCreo": {
+    "title": "Clark (Creo)",
+    "url": "/wiki/entities/clarkcreo/"
   },
   "ClarksonsFarm": {
     "title": "《克拉克森的农场》 / Clarkson's Farm",
@@ -4558,6 +4570,10 @@
   "CreditCardDebtMechanics": {
     "title": "Credit Card Debt Mechanics",
     "url": "/wiki/concepts/creditcarddebtmechanics/"
+  },
+  "Creo": {
+    "title": "Creo",
+    "url": "/wiki/entities/creo/"
   },
   "Cresta": {
     "title": "Cresta",
@@ -8010,6 +8026,10 @@
   "HarlanCoben": {
     "title": "Harlan Coben",
     "url": "/wiki/entities/harlancoben/"
+  },
+  "HarnessEngineering": {
+    "title": "Harness Engineering",
+    "url": "/wiki/concepts/harnessengineering/"
   },
   "HaroldBloom": {
     "title": "Harold Bloom / 哈罗德·布鲁姆",
@@ -13298,6 +13318,10 @@
   "PeterBurns": {
     "title": "Peter Burns",
     "url": "/wiki/entities/peterburns/"
+  },
+  "PeterCreo": {
+    "title": "Peter (Creo)",
+    "url": "/wiki/entities/petercreo/"
   },
   "PeterLynch": {
     "title": "Peter Lynch",
@@ -19626,6 +19650,10 @@
   "e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4": {
     "title": "E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？",
     "url": "/wiki/sources/e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4/"
+  },
+  "e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923": {
+    "title": "E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI",
+    "url": "/wiki/sources/e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923/"
   },
   "e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde": {
     "title": "E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE",
