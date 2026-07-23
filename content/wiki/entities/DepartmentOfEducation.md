@@ -2,8 +2,8 @@
 title: "Department of Education"
 type: entity
 tags: [government, education, united-states]
-sources: [vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
-last_updated: 2026-07-14
+sources: [can-the-trump-administration-make-college-cheaper, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
+last_updated: 2026-07-23
 ---
 
 # Department of Education
@@ -12,7 +12,10 @@ The Department of Education appears in [[vol-113-cong-jiqian-ye-zhiku-wenjian-zh
 
 In this source, the department is not just an education-policy agency. It is a symbol of [[AdministrativeStateDismantling]] because abolishing it would transfer programs, funding, and authority away from a federal institution that conservatives portray as captured by education associations and progressive ideology.
 
+[[can-the-trump-administration-make-college-cheaper]] adds a concrete higher-education finance policy under the department. With [[LindaMcMahon]] as education secretary, the source says the department limits most graduate federal borrowing and also implements [[CollegeProgramEarningsAccountability]], making the agency a price-pressure actor in the [[FederalStudentLoanCaps]] debate rather than only an abolition target.
+
 ## Connections
 - [[EducationDepartmentAbolition]] — concept page for the policy proposal.
 - [[Project2025]], [[RepublicanParty]], and [[DonaldTrump]] — source policy context.
 - [[UnitedStates]] — national institutional setting.
+- [[LindaMcMahon]], [[FederalStudentLoanCaps]], [[GradPLUSLoans]], and [[CollegeProgramEarningsAccountability]] - loan-policy branch added by Planet Money.

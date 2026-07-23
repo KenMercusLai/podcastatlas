@@ -2,7 +2,7 @@
 title: "Planet Money"
 type: entity
 tags: [podcast, media, economics]
-sources: [dark-times-for-cubas-economic-experiment, can-world-cup-mania-grow-mls-in-the-us, the-sneaky-way-companies-get-new-chemicals-into-our-food, the-leaked-tapes-that-show-how-the-rich-avoid-taxes, the-secret-meeting-that-launched-opec, diary-of-a-wnba-negotiator, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down, jerome-powell-and-the-test-of-fed-independence, why-the-us-has-no-guaranteed-paid-vacation, the-giant-factory-town-that-might-be-a-giant-mistake]
+sources: [can-the-trump-administration-make-college-cheaper, dark-times-for-cubas-economic-experiment, can-world-cup-mania-grow-mls-in-the-us, the-sneaky-way-companies-get-new-chemicals-into-our-food, the-leaked-tapes-that-show-how-the-rich-avoid-taxes, the-secret-meeting-that-launched-opec, diary-of-a-wnba-negotiator, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down, jerome-powell-and-the-test-of-fed-independence, why-the-us-has-no-guaranteed-paid-vacation, the-giant-factory-town-that-might-be-a-giant-mistake]
 last_updated: 2026-07-23
 ---
 
@@ -50,6 +50,8 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 
 [[dark-times-for-cubas-economic-experiment]] adds a Cuba political-economy case. The episode uses [[YaserGonzalezCabrera]]'s [[CityCleta]] bike-tour collapse to explain [[Cuba]]'s [[CubanDualEconomicStrategy]], [[ExternalPatronDependence]], [[ConstrainedMarketReform]], [[TourismDependentSmallEconomy]], and [[OilDependencyBlackoutRisk]] under U.S. pressure and shrinking allied support.
 
+[[can-the-trump-administration-make-college-cheaper]] adds a higher-education finance case. The episode uses [[CoreyTurner]]'s reporting and evidence from [[JeffDenning]], [[RobertKelchen]], [[PrestonCooper]], and [[DominiqueBaker]] to ask whether [[FederalStudentLoanCaps]] can lower graduate tuition or mainly create [[LoanCapAccessRisk]] for borrowers.
+
 ## Connections
 - [[NPR]] — network and public-media organization behind the appeal.
 - [[KatherineMaher]] — NPR CEO speaking in the message.
@@ -75,3 +77,4 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 - [[AdewaleMaie]], [[GaryCross]], [[DanielHamermesh]], [[TomCohen]], [[PaidVacationAsLaborRight]], and [[EmployerBargainedBenefits]] - paid-vacation and U.S. benefits-architecture branch added by the vacation episode.
 - [[MaltaTaxLoophole]], [[USMaltaTaxTreaty]], [[CarolynSchenck]], [[LaurenLoricchio]], [[TaxNotes]], [[TaxAvoidanceEvasionBoundary]], and [[TaxEnforcementCapacity]] - tax-avoidance and enforcement branch added by the Malta episode.
 - [[Cuba]], [[YaserGonzalezCabrera]], [[RicardoTorres]], [[CubanDualEconomicStrategy]], and [[OilDependencyBlackoutRisk]] - Cuba economic-experiment branch added by the new episode.
+- [[CoreyTurner]], [[LindaMcMahon]], [[WilliamBennett]], [[BennettHypothesis]], [[GradPLUSLoans]], [[GraduateSchoolDebt]], and [[LoanCapAccessRisk]] - graduate student-loan branch added by the new episode.

@@ -4154,3 +4154,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 5,475 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used stale `graph/graph.json` data built on 2026-07-18 with 4,998 nodes while the wiki scan found 5,475 pages; they found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider key variables are present; a bounded in-session review of the orphan pages and fragile-bridge endpoints found no direct contradictions and identified natural inbound-link candidates. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-23] ingest | Can the Trump administration make college cheaper?
+
+Added source page for the Planet Money episode on graduate federal student-loan caps, the Bennett hypothesis, Grad PLUS as a test case, mixed evidence on tuition pass-through, and borrower access risks. Created pages for Corey Turner, Linda McMahon, William Bennett, Jeff Denning, Robert Kelchen, Preston Cooper, Dominique Baker, American Enterprise Institute, Federal Student Loan Caps, Bennett Hypothesis, Grad PLUS Loans, Graduate School Debt, Loan Cap Access Risk, and College Program Earnings Accountability; updated overview, index, NPR, Planet Money, Department of Education, Donald Trump, NYU, University of Southern California, Kenny Malone, and College Career Preparation. No direct contradiction found; the source qualifies existing higher-education pages by adding debt, price-setting, and enrollment-access constraints.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

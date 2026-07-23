@@ -2,7 +2,7 @@
 title: "College Career Preparation"
 type: concept
 tags: [education, career, work]
-sources: [e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
+sources: [can-the-trump-administration-make-college-cheaper, e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
 last_updated: 2026-07-23
 ---
 
@@ -22,6 +22,8 @@ College career preparation is the episode's goal-dependent way to allocate under
 
 [[e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4]] adds the AI-native student labor-market version. [[KelentoHouTaiyu|Kelento 侯泰宇]] says people are more likely to be replaced by people who use AI better than by AI alone; [[JackRaoJiewu|Jack 饶街五]] finds employers' "AI talent" criteria vague; [[AlfredLinTongyu|Alfred 林童雨]] sees junior legal and some software-entry paths under pressure. Preparation therefore includes AI workflow skill, project evidence, domain grounding, and the ability to own AI-assisted output.
 
+[[can-the-trump-administration-make-college-cheaper]] adds a financing constraint to graduate-school preparation. The source makes graduate study not only a credential or specialization choice, but a debt, access, and return-on-investment problem shaped by [[FederalStudentLoanCaps]], [[GraduateSchoolDebt]], [[BennettHypothesis]], and [[CollegeProgramEarningsAccountability]].
+
 ## Key Claims
 
 - GPA remains important for graduate school and baoyan, but it is not the only meaningful undergraduate signal.
@@ -39,6 +41,7 @@ College career preparation is the episode's goal-dependent way to allocate under
 - AI-native students need evidence that they can use tools to solve real problems, not only say they are "good at AI."
 - Entry-level work may shrink or change when AI handles junior drafting, coding, and search tasks, making projects, internships, and verification ability more important signals.
 - Trust, communication, and deep peer/teacher relationships become career assets when generated work makes generic output cheaper.
+- Graduate school planning must include financing and program-return analysis, because loan caps can change whether a chosen path is affordable even when it remains academically attractive.
 
 ## Connections
 
@@ -53,3 +56,4 @@ College career preparation is the episode's goal-dependent way to allocate under
 - [[FirstDraftThinking]], [[AIShortcutRisk]], [[HeatherSchwartz]], and [[RAND]] - homework-to-workforce reasoning branch added by Marketplace Tech.
 - [[RedPenLogic]], [[AchievementPressureMentalHealth]], and [[AntiAuthoritarianEducation]] - episode 160's boundary against turning preparation into total self-surveillance.
 - [[AIDefaultLearningEnvironment]], [[AIUniversityAssessmentReform]], and [[DegreeAsTrustCredential]] - E236's AI-native university and credential branch.
+- [[FederalStudentLoanCaps]], [[GraduateSchoolDebt]], [[LoanCapAccessRisk]], and [[CollegeProgramEarningsAccountability]] - graduate-finance constraints added by Planet Money.

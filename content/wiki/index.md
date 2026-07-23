@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Can the Trump administration make college cheaper?](sources/can-the-trump-administration-make-college-cheaper.md) — Planet Money episode on graduate federal student-loan caps, the Bennett hypothesis, mixed evidence on tuition pass-through, and access risks for borrowers if schools do not cut prices.
 - [Dark times for Cuba's economic experiment](sources/dark-times-for-cubas-economic-experiment.md) — Planet Money episode on Cuba's dual economic strategy, Soviet/Venezuela oil dependence, controlled market reform, tourism collapse, U.S. sanctions and pressure, blackouts, and Yaser Gonzalez Cabrera's City Cleta bike-tour business.
 - [Unraveling the complex knot of an AI-generated hoax](sources/tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128.md) — Marketplace Tech episode with Casey Newton on a viral Reddit hoax, AI-generated badge/document evidence, Gemini/SynthID detection, and outrage-triggered verification habits.
 - [Welcome to the 'infocalypse'](sources/tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128.md) — Marketplace Tech episode with Aviv Ovadia on AI-intensified information collapse, verification costs, content credentials, reality apathy, and democratic institutions resilient to synthetic media.
@@ -517,6 +518,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Corey Turner](entities/CoreyTurner.md) — NPR education correspondent explaining graduate loan caps, Grad PLUS history, and the evidence around the Bennett hypothesis.
+- [Linda McMahon](entities/LindaMcMahon.md) — Trump education secretary presented as the public policy actor arguing that loan caps can reduce college costs.
+- [William Bennett](entities/WilliamBennett.md) — Former education secretary whose 1987 argument gives the Bennett hypothesis its name.
+- [Jeff Denning](entities/JeffDenning.md) — Economist whose Texas Grad PLUS study supports a loan-to-tuition pass-through effect in the episode.
+- [Robert Kelchen](entities/RobertKelchen.md) — Higher-education researcher whose broader graduate-program work complicates a simple Bennett-hypothesis account.
+- [Preston Cooper](entities/PrestonCooper.md) — American Enterprise Institute researcher arguing that graduate loan caps can pressure expensive programs.
+- [Dominique Baker](entities/DominiqueBaker.md) — Education researcher warning that aid caps can reduce enrollment when grants or scholarships do not replace loans.
+- [American Enterprise Institute](entities/AmericanEnterpriseInstitute.md) — Policy-research institution appearing through Preston Cooper's defense of graduate loan caps.
 - [Cuba](entities/Cuba.md) — Country case for a dual economic strategy built from external oil patronage, constrained market reform, tourism, sanctions pressure, blackouts, inequality, and migration.
 - [Havana](entities/Havana.md) — Cuban city setting for Yaser Gonzalez Cabrera's City Cleta bike-tour business and the tourism-collapse effects of Cuba's crisis.
 - [Yaser Gonzalez Cabrera](entities/YaserGonzalezCabrera.md) — Havana bike-tour operator whose City Cleta business makes Cuba's tourism collapse, blackouts, and fuel shortages concrete.
@@ -3339,6 +3348,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Federal Student Loan Caps](concepts/FederalStudentLoanCaps.md) — Policy mechanism limiting graduate federal borrowing to pressure schools on price while risking borrower access.
+- [Bennett Hypothesis](concepts/BennettHypothesis.md) — Theory that federal student aid can be captured by colleges through higher tuition.
+- [Grad PLUS Loans](concepts/GradPLUSLoans.md) — Federal graduate-loan program whose 2006 unlimited borrowing structure became a test case for tuition pass-through.
+- [Graduate School Debt](concepts/GraduateSchoolDebt.md) — Debt branch where graduate borrowers hold a large share of federal student-loan exposure despite being fewer than undergraduates.
+- [Loan Cap Access Risk](concepts/LoanCapAccessRisk.md) — Risk that borrowing limits lower enrollment or push students into private loans before schools lower tuition.
+- [College Program Earnings Accountability](concepts/CollegeProgramEarningsAccountability.md) — Federal-loan eligibility approach based on whether program graduates out-earn high-school graduates.
 - [Cuban Dual Economic Strategy](concepts/CubanDualEconomicStrategy.md) — Cuba-specific pattern combining external socialist patronage with selective market openings in tourism and private enterprise.
 - [External Patron Dependence](concepts/ExternalPatronDependence.md) — Vulnerability created when a country relies on favorable oil, trade, aid, or political support from a larger ally.
 - [Constrained Market Reform](concepts/ConstrainedMarketReform.md) — Limited legalization of private business activity while the state keeps markets subordinate to the state sector.

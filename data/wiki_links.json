@@ -1851,6 +1851,10 @@
     "title": "American Democratic Resilience",
     "url": "/wiki/concepts/americandemocraticresilience/"
   },
+  "AmericanEnterpriseInstitute": {
+    "title": "American Enterprise Institute",
+    "url": "/wiki/entities/americanenterpriseinstitute/"
+  },
   "AmericanExpress": {
     "title": "American Express",
     "url": "/wiki/entities/americanexpress/"
@@ -2834,6 +2838,10 @@
   "BenjaminNetanyahu": {
     "title": "Benjamin Netanyahu",
     "url": "/wiki/entities/benjaminnetanyahu/"
+  },
+  "BennettHypothesis": {
+    "title": "Bennett Hypothesis",
+    "url": "/wiki/concepts/bennetthypothesis/"
   },
   "BerkshireHathaway": {
     "title": "Berkshire Hathaway",
@@ -4367,6 +4375,10 @@
     "title": "College Major Choice",
     "url": "/wiki/concepts/collegemajorchoice/"
   },
+  "CollegeProgramEarningsAccountability": {
+    "title": "College Program Earnings Accountability",
+    "url": "/wiki/concepts/collegeprogramearningsaccountability/"
+  },
   "Colombia": {
     "title": "Colombia",
     "url": "/wiki/entities/colombia/"
@@ -4682,6 +4694,10 @@
   "CoreyStaley": {
     "title": "Corey Staley",
     "url": "/wiki/entities/coreystaley/"
+  },
+  "CoreyTurner": {
+    "title": "Corey Turner",
+    "url": "/wiki/entities/coreyturner/"
   },
   "CorporateHospitalityPlatform": {
     "title": "Corporate Hospitality Platform",
@@ -5751,6 +5767,10 @@
     "title": "Dominion Fiduciary Services",
     "url": "/wiki/entities/dominionfiduciaryservices/"
   },
+  "DominiqueBaker": {
+    "title": "Dominique Baker",
+    "url": "/wiki/entities/dominiquebaker/"
+  },
   "DonValentine": {
     "title": "Don Valentine",
     "url": "/wiki/entities/donvalentine/"
@@ -6758,6 +6778,10 @@
   "FederalReserve": {
     "title": "Federal Reserve",
     "url": "/wiki/entities/federalreserve/"
+  },
+  "FederalStudentLoanCaps": {
+    "title": "Federal Student Loan Caps",
+    "url": "/wiki/concepts/federalstudentloancaps/"
   },
   "FederalTradeCommission": {
     "title": "Federal Trade Commission",
@@ -8006,6 +8030,14 @@
   "GovernmentWebsiteUsability": {
     "title": "Government Website Usability",
     "url": "/wiki/concepts/governmentwebsiteusability/"
+  },
+  "GradPLUSLoans": {
+    "title": "Grad PLUS Loans",
+    "url": "/wiki/concepts/gradplusloans/"
+  },
+  "GraduateSchoolDebt": {
+    "title": "Graduate School Debt",
+    "url": "/wiki/concepts/graduateschooldebt/"
   },
   "GraduationAnxiety": {
     "title": "Graduation Anxiety",
@@ -9735,6 +9767,10 @@
     "title": "Jeff Bezos",
     "url": "/wiki/entities/jeffbezos/"
   },
+  "JeffDenning": {
+    "title": "Jeff Denning",
+    "url": "/wiki/entities/jeffdenning/"
+  },
   "JeffUllman": {
     "title": "Jeff Ullman",
     "url": "/wiki/entities/jeffullman/"
@@ -11011,6 +11047,10 @@
     "title": "林玉沁",
     "url": "/wiki/entities/linyuqin/"
   },
+  "LindaMcMahon": {
+    "title": "Linda McMahon",
+    "url": "/wiki/entities/lindamcmahon/"
+  },
   "LindaTodich": {
     "title": "Linda Todich",
     "url": "/wiki/entities/lindatodich/"
@@ -11134,6 +11174,10 @@
   "LixinAccounting": {
     "title": "立信会计",
     "url": "/wiki/entities/lixinaccounting/"
+  },
+  "LoanCapAccessRisk": {
+    "title": "Loan Cap Access Risk",
+    "url": "/wiki/concepts/loancapaccessrisk/"
   },
   "LoanIntermediaryRisk": {
     "title": "Loan Intermediary Risk",
@@ -14451,6 +14495,10 @@
     "title": "Presidential System",
     "url": "/wiki/concepts/presidentialsystem/"
   },
+  "PrestonCooper": {
+    "title": "Preston Cooper",
+    "url": "/wiki/entities/prestoncooper/"
+  },
   "Prevagen": {
     "title": "Prevagen",
     "url": "/wiki/entities/prevagen/"
@@ -15478,6 +15526,10 @@
   "RobertGuest": {
     "title": "Robert Guest",
     "url": "/wiki/entities/robertguest/"
+  },
+  "RobertKelchen": {
+    "title": "Robert Kelchen",
+    "url": "/wiki/entities/robertkelchen/"
   },
   "RobertMercer": {
     "title": "Robert Mercer",
@@ -19363,6 +19415,10 @@
     "title": "Willa Remus",
     "url": "/wiki/entities/willaremus/"
   },
+  "WilliamBennett": {
+    "title": "William Bennett",
+    "url": "/wiki/entities/williambennett/"
+  },
   "WilliamDeresiewicz": {
     "title": "William Deresiewicz",
     "url": "/wiki/entities/williamderesiewicz/"
@@ -20478,6 +20534,10 @@
   "can-computer-hackers-get-inside-your-mind": {
     "title": "Can computer hackers get inside your mind?",
     "url": "/wiki/sources/can-computer-hackers-get-inside-your-mind/"
+  },
+  "can-the-trump-administration-make-college-cheaper": {
+    "title": "Can the Trump administration make college cheaper?",
+    "url": "/wiki/sources/can-the-trump-administration-make-college-cheaper/"
   },
   "can-world-cup-mania-grow-mls-in-the-us": {
     "title": "Can World Cup mania grow MLS in the U.S.?",
