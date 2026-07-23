@@ -3,7 +3,7 @@ title: "Podcast As Asynchronous Media"
 type: concept
 tags: [podcast, media, audio, technology-culture]
 sources: [tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tsr-s2-wrapup-v1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5, gengxin-shijian-biandong-tongzhi-644387724]
-last_updated: 2026-07-14
+last_updated: 2026-07-23
 ---
 
 # Podcast As Asynchronous Media
@@ -18,7 +18,7 @@ The concept is not simply "audio on demand." The hosts contrast podcasting with 
 
 [[tsr-s2-wrapup-v1]] adds a show-operations view through [[TheSocialRadars]]. Listener ratings, reviews, direct feedback, and hundreds of thousands of listens are treated as evidence that a podcast archive can accumulate audience value over a season, while planned [[YouTube]] clips show how short video can point listeners back toward long-form interviews.
 
-[[tsr-s5-catchup2-v1-tsr-s5-catchup2-v1]] extends that show-operations view. [[JessicaLivingston]] and [[CarolynLevy]] treat the two-year [[TheSocialRadars]] archive as something listeners can enter through highlighted episodes such as [[TylerSchultz]] and the [[RonConway]] series, while [[Spotify]] and [[Apple]] Podcasts reviews become part of the feedback and discovery loop.
+[[tsr-s5-catchup2-v1-tsr-s5-catchup2-v1]] extends that show-operations view. [[JessicaLivingston]] and [[CarolynLevy]] treat the two-year [[TheSocialRadars]] archive as something listeners can enter through highlighted episodes such as [[TylerShultz]] and the [[RonConway]] series, while [[Spotify]] and [[Apple]] Podcasts reviews become part of the feedback and discovery loop.
 
 ## Key Claims
 - Podcasting fits situations where the listener's eyes and hands are busy but hearing is available.
@@ -40,4 +40,4 @@ The concept is not simply "audio on demand." The hosts contrast podcasting with 
 - [[FuyouTiandi]], [[LongFormConversation]], and [[VideoPodcastAffordance]] - video-podcast and deep-conversation extension from Han Yang's program statement.
 - [[MihuanChishu|蜜獾吃书]] and [[PodcastReleaseCadence]] - scheduling qualification added by the update-time notice.
 - [[TheSocialRadars]], [[YouTube]], [[JessicaLivingston]], and [[CarolynLevy]] - show-archive, listener-feedback, and clip-distribution context.
-- [[TylerSchultz]], [[RonConway]], [[Spotify]], and [[Apple]] - archive highlights and review surfaces added by the Season Five update.
+- [[TylerShultz]], [[RonConway]], [[Spotify]], and [[Apple]] - archive highlights and review surfaces added by the Season Five update.

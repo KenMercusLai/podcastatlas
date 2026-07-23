@@ -4015,3 +4015,11 @@ Added source page for The Social Radars episode with Replit co-founders Amjad Ma
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-23] ingest | Tyler Shultz, Theranos Whistleblower (Part 1)
+
+Added source page for The Social Radars episode with Tyler Shultz on Theranos, Elizabeth Holmes, Sunny Balwani, George Shultz, Erica Chung, Walgreens, lab validation failures, secrecy, board credibility, internal escalation, resignation, and evidence preservation. Created pages for Tyler Shultz, Theranos, Elizabeth Holmes, Sunny Balwani, George Shultz, Erica Chung, Walgreens, Medical Testing Validation Integrity, Organizational Secrecy As Control, Credibility Cascade, Whistleblower Evidence Discipline, and Founder Identity Narrative Risk; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Stanford University, Startup Governance, the Season Five update source, and Podcast As Asynchronous Media. No direct content contradiction found; corrected the existing archive-highlight misspelling from Tyler Schultz to Tyler Shultz.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

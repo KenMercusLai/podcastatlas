@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Tyler Shultz, Theranos Whistleblower (Part 1)](sources/tsr-s4-tylershultzpart1-final-tsr-s4-tylershultzpart1-final.md) — The Social Radars episode with Tyler Shultz on joining Theranos, Elizabeth Holmes's charisma, lab validation failures, secrecy, board credibility, internal escalation, resignation, and the first attempt to persuade George Shultz.
 - [Replit Co-Founders, Amjad Masad & Haya Odeh](sources/tsr-s3-replit-v2-tsr-s3-replit-v2.md) — The Social Radars episode on Replit's origin, Amjad Masad and Haya Odeh, accessible programming, consumer-grade developer infrastructure, YC validation, and spouse co-founder dynamics.
 - [Ryan Petersen on Flexport, Global Logistics, and Founder Discipline](sources/tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6.md) — The Social Radars episode on Flexport, customs brokerage, freight forwarding, logistics workflow automation, crisis response, and founder operational reset.
 - [用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜对谈 Slock.ai 创始人 RC](sources/yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy.md) — 42章经 episode with RC on Kimi CLI, Slock.ai, multi-agent collaboration, task claiming, memory, model diversity, and agent dynamics in a seven-person, forty-agent team.
@@ -157,7 +158,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [157.吹牛大王历险记：叔本华、扒马褂和超级英雄](sources/157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703.md) — 蜜獾吃书 episode on 《吹牛大王历险记》 as tall-tale tradition, absurd rationality, political satire, Munchausen self-bootstrapping, and a bridge to superhero fantasy.
 - [156.一个阿富汗女人的来信: 纸上的光，和出版背后的故事](sources/156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198.md) — 蜜獾吃书 episode with 有光 editor 安琪 on 哈迪亚·海达里's 《一个阿富汗女人的来信》, Afghan women's first-person writing, protection as control, war's gendered civilian harm, Persian-Chinese translation, royalties, cover ethics, and editing as cultural project management.
 - [154.我的名字叫红：用一千零一夜的心跳完成这场谋杀(下）](sources/154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400.md) — 蜜獾吃书 episode on Orhan Pamuk's 《我的名字叫红》, Ottoman miniature painting, Frankish portrait pressure, style/signature, blindness, multi-perspective narration, and the murder clue of the cracked-nostril horse.
-- [The Social Radars Season Five Update](sources/tsr-s5-catchup2-v1-tsr-s5-catchup2-v1.md) — Short Social Radars update where Jessica Livingston and Carolyn Levy preview Season Five, announce Substack and full-episode YouTube distribution, highlight Tyler Schultz and Ron Conway archive entry points, and explain the Founder Mode side series.
+- [The Social Radars Season Five Update](sources/tsr-s5-catchup2-v1-tsr-s5-catchup2-v1.md) — Short Social Radars update where Jessica Livingston and Carolyn Levy preview Season Five, announce Substack and full-episode YouTube distribution, highlight Tyler Shultz and Ron Conway archive entry points, and explain the Founder Mode side series.
 - [Founder Mode: Sajith Wickramasekara, Founder & CEO, Benchling](sources/tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio.md) — The Social Radars YC offsite episode with Sajith Wickramasekara on Benchling, life-sciences workflow software, YC Summer 2012, founder mode as ownership, customer proximity, executive fit, and senior-leader customer contact.
 - [Founder Mode: Jen Herbach, Founder & CEO, Adventris Pharmaceuticals](sources/tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio.md) — The Social Radars YC offsite episode with Jen Herbach on Adventris Pharmaceuticals, cancer vaccines, KRAS, localized pancreatic cancer, founder accountability in the lab, SAFEs, and biotech board control.
 - [Founder Mode: Emmett Shear, Founder, Softmax & Twitch](sources/tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly.md) — The Social Radars YC offsite episode with Emmett Shear on Softmax, AI collective alignment, learning environments, Twitch founder-mode context transfer, Conway's Law, delegation boundaries, and people systems.
@@ -499,6 +500,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Tyler Shultz](entities/TylerShultz.md) — Theranos whistleblower and former employee whose Social Radars interview grounds the wiki's validation, secrecy, credibility, and evidence-discipline branch.
+- [Theranos](entities/Theranos.md) — Blood-testing startup used as a regulated-healthcare trust failure case around validation, patient risk, secrecy, and credibility cascades.
+- [Elizabeth Holmes](entities/ElizabethHolmes.md) — Theranos founder whose public persona, mission story, and credibility network are central to Tyler Shultz's account.
+- [Sunny Balwani](entities/SunnyBalwani.md) — Theranos executive described by Tyler Shultz as the internal lab enforcer behind pressure, quality-control conflict, and intimidation.
+- [George Shultz](entities/GeorgeShultz.md) — Tyler Shultz's grandfather and Theranos board credibility node whose trust in Elizabeth Holmes complicated Tyler's escalation.
+- [Erica Chung](entities/EricaChung.md) — Theranos employee who corroborated Tyler Shultz's concerns and joined him in trying to warn George Shultz.
+- [Walgreens](entities/Walgreens.md) — Retail pharmacy launch setting where Theranos's internal validation failures became public patient-facing risk in Tyler Shultz's account.
 - [Haya Odeh](entities/HayaOdeh.md) — Replit co-founder whose design, UX, user research, and spouse co-founder story shape the accessible-programming source.
 - [Codecademy](entities/Codecademy.md) — Coding-education company that used Amjad Masad's open-source Replit work and pulled him into the New York startup path.
 - [React Native](entities/ReactNative.md) — Facebook developer-tool project that forms Amjad Masad's technical challenge chapter before he committed to Replit.
@@ -1420,7 +1428,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Afghanistan](entities/Afghanistan.md) — Country context for the episode's discussion of war, regime change, women's education, public restriction, and daily coercion.
 - [奥尔罕·帕慕克 / Orhan Pamuk](entities/OrhanPamuk.md) — Turkish novelist whose 《我的名字叫红》 lets 蜜獾吃书 connect murder mystery, miniature painting, cultural identity, and narrative perspective.
 - [《我的名字叫红》 / My Name Is Red](entities/MyNameIsRed.md) — Orhan Pamuk novel discussed as a murder mystery built from Ottoman miniature art, portrait pressure, memory, style, and Shekure's worldly survival.
-- [Tyler Schultz](entities/TylerSchultz.md) — Social Radars archive-highlight guest mentioned in the Season Five update as a listener-favorite double episode.
 - [Sajith Wickramasekara](entities/SajithWickramasekara.md) — Benchling co-founder and CEO whose YC offsite episode defines founder mode as ownership, customer proximity, standards, and faster executive-fit judgment.
 - [Benchling](entities/Benchling.md) — Life-sciences workflow software company serving scientists across universities, biotech, and pharma, used as a founder-mode case about customer contact and executive fit.
 - [MIT](entities/MIT.md) — University context where Sajith Wickramasekara's computer-science and biology-lab exposure led to the Benchling workflow insight.
@@ -3220,6 +3227,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Medical Testing Validation Integrity](concepts/MedicalTestingValidationIntegrity.md) — Diagnostic-testing trust requirement covering validation, quality control, audit visibility, and patient-safety evidence before results reach care decisions.
+- [Organizational Secrecy As Control](concepts/OrganizationalSecrecyAsControl.md) — Pattern where NDAs, silos, locked access, intimidation, and status rituals prevent employees from comparing evidence or challenging a false story.
+- [Credibility Cascade](concepts/CredibilityCascade.md) — Trust failure where respected people or institutions become circular evidence for one another while no one independently verifies the technical claim.
+- [Whistleblower Evidence Discipline](concepts/WhistleblowerEvidenceDiscipline.md) — Practice of testing concerns, preserving records, seeking corroboration, and escalating with specific evidence before public conflict.
+- [Founder Identity Narrative Risk](concepts/FounderIdentityNarrativeRisk.md) — Risk that a desired founder archetype or identity story substitutes for evidence and makes scrutiny feel disloyal.
 - [Accessible Programming Platform](concepts/AccessibleProgrammingPlatform.md) — Replit thesis that programming should be easier to start, share, host, and turn into working products or businesses.
 - [Consumer-Grade Developer Infrastructure](concepts/ConsumerGradeDeveloperInfrastructure.md) — Pattern where deep developer infrastructure is hidden behind a simple product surface for broad users.
 - [Spouse Co-Founder Dynamics](concepts/SpouseCoFounderDynamics.md) — Startup operating pattern for married co-founders balancing shared context, decision transparency, family boundaries, and investor bias.

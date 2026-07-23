@@ -7,16 +7,16 @@ date: 2025-12-23
 source_file: "/home/ken/repos/podcastatlas/content/episodes/TSR-S5-CatchUp2-v1 [TSR-S5-CatchUp2-v1].md"
 audio_url: "https://episodes.captivate.fm/episode/0d79a89d-6a45-428a-a918-4e6eb7b81e95.mp3"
 duration_seconds: 158
-last_updated: 2026-07-12
+last_updated: 2026-07-23
 ---
 
 ## Summary
-This short [[TheSocialRadars]] update has [[JessicaLivingston]] and [[CarolynLevy]] preview Season Five rather than conduct a founder interview. The hosts say the show is getting a new look and feel, expanding to [[Substack]], and publishing full podcast episodes on [[YouTube]]. They also use the update to point listeners back into the two-year archive, especially [[TylerSchultz]], the continuing [[RonConway]] series, and the shorter-form [[FounderMode]] interviews.
+This short [[TheSocialRadars]] update has [[JessicaLivingston]] and [[CarolynLevy]] preview Season Five rather than conduct a founder interview. The hosts say the show is getting a new look and feel, expanding to [[Substack]], and publishing full podcast episodes on [[YouTube]]. They also use the update to point listeners back into the two-year archive, especially [[TylerShultz]], the continuing [[RonConway]] series, and the shorter-form [[FounderMode]] interviews.
 
 ## Key Claims
 - [[TheSocialRadars]] Season Five is described as launching soon with a refreshed presentation.
 - The show is adding [[Substack]] and full-episode [[YouTube]] distribution, moving beyond the earlier clip-oriented video posture.
-- The hosts treat the two-year archive as an onboarding surface for new listeners, naming [[TylerSchultz]] and the [[RonConway]] series as notable entry points.
+- The hosts treat the two-year archive as an onboarding surface for new listeners, naming [[TylerShultz]] and the [[RonConway]] series as notable entry points.
 - The [[RonConway]] series is framed as an incremental oral-history substitute for an autobiography, moving chapter by chapter through Conway's career and Silicon Valley network.
 - The hosts say the Season Five delay partly came from launching the shorter-form [[FounderMode]] series over the summer.
 - [[FounderMode]] is described here as a short founder-interview format about moments when founders had to enter founder mode or define what the term means to them.
@@ -33,7 +33,7 @@ This short [[TheSocialRadars]] update has [[JessicaLivingston]] and [[CarolynLev
 ## Connections
 - [[TheSocialRadars]], [[JessicaLivingston]], and [[CarolynLevy]] - show and hosts.
 - [[Substack]], [[YouTube]], [[Spotify]], and [[Apple]] - distribution, review, and subscription surfaces named in the update.
-- [[TylerSchultz]] and [[RonConway]] - archive entry points highlighted by the hosts.
+- [[TylerShultz]] and [[RonConway]] - archive entry points highlighted by the hosts.
 - [[FounderMode]] - shorter-form companion interview series that helped delay Season Five.
 - [[PodcastAsAsynchronousMedia]] and [[VideoPodcastAffordance]] - media-format concepts extended by moving from audio archive and clips toward full-episode video plus newsletter distribution.
 
