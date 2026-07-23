@@ -2,7 +2,7 @@
 title: "Animal Welfare As Public Health"
 type: concept
 tags: [animal-welfare, public-health, empathy, violence-prevention]
-sources: [121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301, 176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]
+sources: [138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301, 176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]
 last_updated: 2026-07-24
 ---
 
@@ -16,6 +16,8 @@ The concept has two sides. [[CompanionAnimalHealth]] shows how animals support p
 
 [[121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343]] adds a toxicological public-space version through [[InhalationPoisonPublicSafety]]. The source treats mass poisoning of dogs in public places as a shared health danger: volatile or strong toxins placed outdoors can harm unintended animal and human targets, and forensic detection may be harder after substances dissipate or metabolize.
 
+[[138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726]] adds a wild-animal rescue and pollution version through [[ThePenguinLessons|《企鹅课》 / The Penguin Lessons]]. The episode shows [[OilPollutionWildlifeHarm]] as a public cost of human systems, then follows [[WildAnimalRescueResponsibility]] into cleaning, feeding, release uncertainty, school care, and the question of what [[JuanSalvadorPenguin|Juan Salvador / 胡安·萨尔瓦多]] needs as a [[MagellanicPenguin|Magellanic penguin / 麦哲伦企鹅]], not only as a beloved companion.
+
 ## Key Claims
 - Human and animal well-being can be intertwined enough that separating them produces worse human outcomes.
 - Disaster evacuation, domestic-violence shelters, child therapy, PTSD support, homelessness services, and criminal-risk assessment can all become animal-welfare contexts.
@@ -23,6 +25,7 @@ The concept has two sides. [[CompanionAnimalHealth]] shows how animals support p
 - Reducing animal suffering can be treated as social harm reduction even where human use of animals has not ended.
 - Food-animal welfare can also be public health when low-welfare systems transfer psychological, environmental, and food-quality costs to humans.
 - Public animal poisoning can be public health because the same toxic exposure can threaten pets, children, adults, and shared-space trust.
+- Wildlife pollution can be public health in the broad social sense because hidden industrial costs return as shared moral, ecological, and care burdens.
 
 ## Connections
 - [[OurSymphonyWithAnimals|《伴生》 / Our Symphony with Animals]] and [[AyshaAkhtar|Aysha Akhtar / 阿依莎·阿赫塔]] - source book and author.
@@ -33,3 +36,4 @@ The concept has two sides. [[CompanionAnimalHealth]] shows how animals support p
 - [[CaptiveWhaleSanctuary]] - adjacent animal-welfare concept around captive wild animals rather than companion animals.
 - [[FoodAnimalWelfare]], [[SlaughterWelfare]], and [[LivestockWorkerMoralInjury]] - farmed-animal extension added by episode 176.
 - [[InhalationPoisonPublicSafety]] and [[ForensicToxicology]] - toxic public-space extension added by episode 121.
+- [[OilPollutionWildlifeHarm]], [[WildAnimalRescueResponsibility]], [[JuanSalvadorPenguin|Juan Salvador / 胡安·萨尔瓦多]], and [[MagellanicPenguin|Magellanic penguin / 麦哲伦企鹅]] - wild-animal rescue and pollution extension added by episode 138.

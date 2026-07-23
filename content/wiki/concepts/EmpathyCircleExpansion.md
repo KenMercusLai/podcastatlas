@@ -2,8 +2,8 @@
 title: "Empathy Circle Expansion"
 type: concept
 tags: [empathy, ethics, animal-welfare, social-norms]
-sources: [186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210, jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065, 176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]
-last_updated: 2026-07-15
+sources: [138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210, jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065, 176-weishenme-yueshi-chirou-yueyao-guanzhu-dongwu-fuli-971057722]
+last_updated: 2026-07-24
 ---
 
 # Empathy Circle Expansion
@@ -22,6 +22,8 @@ The concept appears when the episode contrasts empathy with pity, criticizes col
 
 [[186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210]] adds an endangered-wildlife version through [[LastChanceToSee|《消逝世界漫游指南》]]. The episode makes empathy less sentimental by placing the [[AyeAye|aye-aye]], [[KomodoDragon|Komodo dragon]], [[MountainGorilla|mountain gorilla]], [[NorthernWhiteRhinoceros|northern white rhinoceros]], [[Baiji|baiji]], and [[Kakapo|kakapo]] inside travel systems, markets, bureaucracy, tourism, and conservation work.
 
+[[138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726]] adds a rescued-wildlife and class-cost version through [[ThePenguinLessons|《企鹅课》 / The Penguin Lessons]]. The episode places [[JuanSalvadorPenguin|Juan Salvador / 胡安·萨尔瓦多]] beside [[MariaStGeorges|玛利亚]] and other poorer workers: oil-covered penguins and inflation-pressed people are different cases, but both make hidden costs visible when more powerful systems transfer damage to beings with little bargaining power.
+
 ## Key Claims
 - Empathy differs from pity because it asks a person to understand and respond rather than merely look down from safety.
 - Othering reduces the ability to perceive pain as morally relevant.
@@ -32,6 +34,7 @@ The concept appears when the episode contrasts empathy with pity, criticizes col
 - The treatment of beings who cannot explain, bargain, or retaliate is a sharper empathy test than declared moral identity.
 - Practical empathy can be proportional: people with limited budgets can avoid moral self-punishment while still supporting clearer welfare information and less cruel practices when possible.
 - Endangered-wildlife empathy should notice species, habitats, scientists, local people, tourists, and institutions together rather than treating animals as isolated symbols.
+- Empathy should track who is forced to pay hidden costs when they cannot price, refuse, or explain the damage imposed on them.
 
 ## Connections
 - [[AnimalWelfareAsPublicHealth]] - public-health application of the moral frame.
@@ -44,3 +47,4 @@ The concept appears when the episode contrasts empathy with pity, criticizes col
 - [[StoryBasedEmpathy]] and [[NonInstrumentalLiteraryReading]] - holiday episode extension into literature as an empathy-expansion practice.
 - [[EvilAsResponsibilityFailure]], [[Brenin|布列宁]], and [[CivilizationAsDeception]] - Rowlands source extension around helplessness, responsibility, and civilized excuses.
 - [[LastChanceToSee|《消逝世界漫游指南》]], [[LastChanceEcologicalWitnessing]], [[WildlifeTourismSpectacle]], [[FunctionalExtinction]], and [[ConservationIntervention]] - endangered-wildlife extension added by episode 186.
+- [[ThePenguinLessons|《企鹅课》 / The Penguin Lessons]], [[JuanSalvadorPenguin|Juan Salvador / 胡安·萨尔瓦多]], [[MariaStGeorges|Maria / 玛利亚]], and [[OilPollutionWildlifeHarm]] - rescued-wildlife and hidden-cost extension added by episode 138.

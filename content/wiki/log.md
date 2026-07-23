@@ -4463,3 +4463,11 @@ Added source page for the 蜜獾吃书 episode continuing the great-writer gossi
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 6,068 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 5,641 nodes while lint scanned 6,068 pages, so graph findings may miss newer pages; they found no hub stubs, five fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to `claude-3-5-sonnet-latest` without a provider prefix. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-24] ingest | 138.企鹅课：我在海滩上捡到一位Q老师
+
+Added source page for the 蜜獾吃书 episode on 《企鹅课》 / The Penguin Lessons, Tom Michell, Juan Salvador, Magellanic penguins, St. George's School, Maria, Uruguay, 1970s Argentina, oil-pollution wildlife harm, wild-animal rescue responsibility, and the way a rescued penguin becomes a school-community listener. Created pages for 《企鹅课》 / The Penguin Lessons, Tom Michell, Juan Salvador, Magellanic Penguin, St. George's School, Maria, Uruguay, Wild-Animal Rescue Responsibility, and Oil-Pollution Wildlife Harm; updated overview, index, 蜜獾吃书, Argentina, Animal Welfare As Public Health, Companion Animal Health, Empathy Circle Expansion, Environmental Tradeoff Accounting, and Conservation Intervention. No direct contradiction found; the source extends the animal-care branch by adding a wild-animal rescue case where affection, release, captivity, same-species companionship, oil externalities, class vulnerability, and political-economic instability all remain visible.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [138.企鹅课：我在海滩上捡到一位Q老师](sources/138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726.md) — 蜜獾吃书 episode on 《企鹅课》, Tom Michell, an oil-soaked Magellanic penguin named Juan Salvador, St. George's School, 1970s Argentina, wild-animal rescue responsibility, and oil-pollution wildlife harm.
 - [135.闲聊伟大作家们的八卦（第三弹）](sources/135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670.md) — 蜜獾吃书 episode continuing the great-writer gossip series through Mark Twain, H. G. Wells, Sartre, Ayn Rand, author myth deflation, free-love contradictions, and anti-doctrine caution.
 - [134.查令十字街84号：再次原谅世界的理由](sources/134-chaling-shizi-jie-84-hao-zaici-yuanliang-shijie-de-liyou-821075226.md) — 蜜獾吃书 episode on 《查令十字街84号》, Helene Hanff, Frank Doel, Marks & Co., old books, letter friendship, postwar gifts, dignity, and bookstore serendipity.
 - [sp.06 串台｜和李乌鸦＆超哥 high 聊：做读书博主的“守墓心得”](sources/sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708.md) — 蜜獾吃书 crossover with 李乌鸦 and 超哥 on book creator work, topic choice, platform data, bridge-style reading content, creator confidence, and books as grave-like memory sites.
@@ -555,6 +556,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《企鹅课》 / The Penguin Lessons](entities/ThePenguinLessons.md) — Tom Michell memoir discussed by 蜜獾吃书 about rescuing an oil-covered Magellanic penguin and the school community formed around it.
+- [Tom Michell / 汤姆·米切尔](entities/TomMichell.md) — Author-teacher whose rescue of Juan Salvador in episode 138 grounds the wild-animal rescue responsibility branch.
+- [Juan Salvador / 胡安·萨尔瓦多](entities/JuanSalvadorPenguin.md) — Rescued Magellanic penguin who becomes the emotional center of 《企鹅课》 and St. George's School.
+- [Magellanic Penguin / 麦哲伦企鹅](entities/MagellanicPenguin.md) — Temperate South American penguin species used by episode 138 to discuss oil exposure, swimming, migration, and same-species companionship needs.
+- [St. George's School / 圣乔治学校](entities/StGeorgesSchool.md) — Argentine boarding-school setting where Juan Salvador becomes a shared listener, mascot, and care object.
+- [Maria / 玛利亚（圣乔治学校）](entities/MariaStGeorges.md) — St. George's housekeeper whose care for Juan Salvador grounds episode 138's labor, poverty, old-age, and happiness-through-growth layer.
+- [Uruguay](entities/Uruguay.md) — Source-side geography for episode 138's beach rescue and oil-pollution wildlife harm scene.
 - [Mark Twain / 马克·吐温](entities/MarkTwain.md) — American writer discussed by episode 135 through vulgar humor, lecturing, inventions, bankruptcy, Huckleberry Finn controversy, and author myth deflation.
 - [Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》](entities/HuckleberryFinn.md) — Twain work used by episode 135 to connect controversy, banning, racial-language difficulty, and classic reading complexity.
 - [Nikola Tesla / 尼古拉·特斯拉](entities/NikolaTesla.md) — Inventor appearing in episode 135 through his friendship and lab anecdote with Mark Twain.
@@ -3702,6 +3710,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Wild-Animal Rescue Responsibility](concepts/WildAnimalRescueResponsibility.md) — Ethical problem that begins after intervening in a wild animal's crisis, including cleaning, feeding, release, captivity, and species-specific needs.
+- [Oil-Pollution Wildlife Harm](concepts/OilPollutionWildlifeHarm.md) — Ecological externality frame where crude oil reaches vulnerable wildlife bodies, illustrated by episode 138's Magellanic penguin beach scene.
 - [Objectivism / 客观主义](concepts/Objectivism.md) — Ayn Rand doctrine of rational self-interest and radical individualism treated by episode 135 as motivating but dangerous when totalized.
 - [Existentialism / 存在主义](concepts/Existentialism.md) — Sartre-associated philosophy used by episode 135 to explain postwar meaning-making while deflating the philosopher's public myth.
 - [Free Love Practice Gap / 自由恋爱实践落差](concepts/FreeLovePracticeGap.md) — Gap between romantic-freedom doctrine and real care, jealousy, secrecy, reputation, and power in relationships.
