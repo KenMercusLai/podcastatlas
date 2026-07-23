@@ -430,6 +430,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Formula 1](sources/formula-1-1.md) — Acquired episode on Formula One as a sports-media business, Bernie Ecclestone's centralization, Liberty Media's professionalization, cost caps, Drive to Survive, and F1's league-level economics.
 - [Advice Line with Christina Tosi of Milk Bar](sources/advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96.md) — Podcast episode on Christina Tosi, Milk Bar, The Beau Collective, Cotton Clara, Vashon Island Coffee Dust, gift-to-loyal-buyer loops, and consumer-brand repeat behavior.
 - [The Walt Disney Company: Walt's Era](sources/the-walt-disney-company-1.md) — Acquired episode on Walt Disney, Roy Disney, Disney's owned-IP flywheel, Mickey Mouse, Snow White, merchandising, television, Disneyland, strategic rereleases, and vertical media distribution.
+- [Vanguard](sources/vanguard-1.md) — Acquired episode on Jack Bogle, Vanguard's fundholder-owned structure, the first retail index fund, cost compounding, ETF succession conflict, and passive-investing governance.
 - [EP87 对话独立设计师大琪：通过设计帮助产品做好增长](sources/ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc.md) — Podcast episode on Daqi, Product Roast, landing-page conversion, business-fluent design, design-led growth, cross-cultural product design, and early product validation.
 - [Build-A-Bear: Maxine Clark. A Former Shoe Executive Launches a Stuffed Animal Empire](sources/build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88.md) — Podcast episode on Maxine Clark, Build-A-Bear, experiential retail, customer co-creation, mall expansion, site selection, concept protection, and founder succession.
 - [20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会](sources/20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto.md) — Podcast episode on OpenClaw's virality, IM entry points, local execution, memory, skills, feedback loops, and consumer/enterprise agent opportunities.
@@ -2794,7 +2795,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cotton Clara](entities/CottonClara.md) — Craft-kit company working through maker positioning, repeat customers, community events, and gifting/wellness language.
 - [Vashon Island Coffee Dust](entities/VashonIslandCoffeeDust.md) — Spice-blend CPG brand using gifting, packaging, counter ritual, and use-case expansion to create repeat buyers.
 - [Christy Clement](entities/ChristyClement.md) — Vashon Island Coffee Dust founder asking how gift recipients become loyal repeat buyers.
-- [Acquired](entities/Acquired.md) — Business-history podcast/source context for the Disney and Formula One episodes.
+- [Acquired](entities/Acquired.md) — Business-history podcast/source context for the Disney, Formula One, and Vanguard episodes.
+- [Wellington Management](entities/WellingtonManagement.md) — Asset-management company where Jack Bogle built his early career before the fund-board conflict that produced Vanguard.
+- [Fidelity](entities/Fidelity.md) — Asset-management and brokerage competitor used in the Vanguard episode as both go-go-era pressure and later low-fee platform threat.
+- [BlackRock](entities/BlackRock.md) — ETF and asset-management competitor whose iShares platform and Salim Ramji connection frame Vanguard's modern strategic challenge.
+- [State Street](entities/StateStreet.md) — Early ETF mover behind SPDR, used as the case for Vanguard missing the first ETF wave.
+- [Salim Ramji](entities/SalimRamji.md) — Vanguard's first outside CEO, brought in after leading BlackRock's iShares business to modernize Vanguard without weakening its identity.
 - [Formula One](entities/FormulaOne.md) — Global motorsport championship analyzed as a driver, engineering, media-rights, and stakeholder-governance business.
 - [Formula One Group](entities/FormulaOneGroup.md) — Commercial F1 business that sells media rights, race promotion, sponsorship, hospitality, merchandise, and licensing.
 - [Liberty Media](entities/LibertyMedia.md) — F1 owner that professionalized fan access, stakeholder relations, digital media, U.S. growth, and cost-cap economics.
@@ -5212,5 +5218,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yen Carry Trade](concepts/YenCarryTrade.md) — Yen-funded investment strategy whose reversal can connect Japanese rates, currency moves, and global risk assets.
 - [Yield Curve Inversion](concepts/YieldCurveInversion.md) — Macro signal where short-term rates exceed long-term rates, discussed as a delayed recession and market-risk warning.
 - [Zero Trust Security](concepts/ZeroTrustSecurity.md) — Cybersecurity idea that systems should not automatically trust software, access, or activity by default.
+- [Fundholder Mutual Ownership](concepts/FundholderMutualOwnership.md) — Vanguard ownership design where fund investors effectively own the management company and receive scale benefits through lower fees.
+- [Cost Matters Hypothesis](concepts/CostMattersHypothesis.md) — Bogle investing logic that fees are a certain compounding drag while outperformance is uncertain.
+- [Scale Economies Shared](concepts/ScaleEconomiesShared.md) — Business-model pattern where scale benefits are routed back to customers rather than captured mainly as shareholder profit.
+- [Strategy Follows Structure](concepts/StrategyFollowsStructure.md) — Governance principle that ownership and incentives determine which strategy remains rational at scale.
+- [Passive Investing Governance](concepts/PassiveInvestingGovernance.md) — Market-governance concern around price discovery, common ownership, and voting power as index managers become very large.
 
 ## Syntheses

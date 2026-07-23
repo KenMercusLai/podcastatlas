@@ -2,8 +2,8 @@
 title: "Warren Buffett"
 type: entity
 tags: [person, investing]
-sources: [tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq]
-last_updated: 2026-07-15
+sources: [tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep86-mianzi-dizi-rizi-caibao-zhi-jiang-zhe-san-jian-shi-lukmnlkkuxvrvv12frosd9teg7bj, ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq, vanguard-1]
+last_updated: 2026-07-23
 ---
 
 # Warren Buffett
@@ -26,6 +26,8 @@ Warren Buffett appears in [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-pu
 
 [[tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2]] adds Buffett to [[Google]]'s early public-company culture. [[RonConway]] says [[SVAngel]] hosted a May 2000 event where Buffett warned many internet companies would fail, and that [[LarryPage]] and [[SergeyBrin]] later drew on Buffett-style annual letters when writing Google's IPO letter.
 
+[[vanguard-1]] adds Buffett as a public validator of [[Vanguard]]-style low-cost [[PassiveInvesting]]. The episode cites his Berkshire shareholder-letter endorsement of low-cost index funds and his 2007 bet that the Vanguard 500 Index Fund would outperform a hedge-fund portfolio over ten years, connecting Buffett's patience and fee discipline to [[CostMattersHypothesis]].
+
 ## Connections
 - [[JimSimons]] — contrasting investment master in the episode.
 - [[PeterLynch]] — another comparison point for fundamental investing.
@@ -41,3 +43,4 @@ Warren Buffett appears in [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-pu
 - [[AsymmetricPayoff]] and [[ValueInvesting]] — E43's reading of Buffett-style investing through asymmetry and float.
 - [[ZhuNing]], [[BubbleNecessaryConditions]], and [[PositionSizing]] — 42章经 interview context around slow compounding, survival, and era beta.
 - [[Google]], [[LarryPage]], [[SergeyBrin]], [[RonConway]], and [[SVAngel]] — Silicon Valley event and IPO-letter context added by the Conway Part 3 episode.
+- [[Vanguard]], [[JohnBogle]], [[CostMattersHypothesis]], and [[PassiveInvesting]] — low-cost index validation added by the Acquired Vanguard episode.

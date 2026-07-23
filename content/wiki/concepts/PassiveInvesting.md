@@ -2,13 +2,15 @@
 title: "Passive Investing"
 type: concept
 tags: [investing, index-funds]
-sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x]
-last_updated: 2026-07-15
+sources: [ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e153-gushen-de-paiju-fuli-gongshi-kaili-gongshi-lmyvi9mnlaqib-baspjiehz3epqc, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e159-ganggu-de-teshu-zhichu-yu-shengcun-zhidao-lgvf0ymk0sholjyzv0bptza8weyy, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, vanguard-1]
+last_updated: 2026-07-23
 ---
 
 # Passive Investing
 
 Passive investing is the episode's main recommendation for ordinary investors who lack the infrastructure for institutional [[QuantitativeInvesting]]. [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1]] recommends broad ETF dollar-cost averaging and long holding periods for most people, while noting that too much passive money could weaken market price discovery.
+
+[[vanguard-1]] adds the business-history origin story through [[JohnBogle]] and [[Vanguard]]. The episode argues that passive investing became powerful for retail investors because index exposure, the [[CostMattersHypothesis]], and [[FundholderMutualOwnership]] reinforced one another: the product avoided active-manager fees, while the company structure kept scale economics flowing back to investors.
 
 [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]] reinforces the ordinary-investor preference for indexes, but adds that passive investing still needs entry discipline when the [[SP500]] and [[NasdaqComposite]] are highly valued and concentrated. The episode's stance is not anti-index; it is anti-all-in, anti-FOMO, and pro-staged buying after better prices or clearer market signals.
 
@@ -28,6 +30,7 @@ Passive investing is the episode's main recommendation for ordinary investors wh
 
 ## Key Claims
 - For many investors, broad index funds may offer a better balance of return, effort, cost, and emotional burden than active trading.
+- The Vanguard source adds that passive investing's ordinary-investor value depends heavily on cost, distribution, and ownership structure, not only on the index methodology.
 - Dollar-cost averaging can automate discipline and reduce the temptation to time markets.
 - Passive flows may help active investors find mispricings if too many buyers stop evaluating individual securities.
 - If passive ownership becomes too dominant, price discovery could slow and bubbles or crashes could become sharper.
@@ -42,11 +45,13 @@ Passive investing is the episode's main recommendation for ordinary investors wh
 - E43 adds that broad passive exposure is a humble response to fat tails: it captures some upside concentration without requiring professional [[TailRiskHedging]].
 - The SpaceX segment adds that passive investing can inherit single-name IPO and valuation risk through benchmark inclusion.
 - Vol.109 adds that in pension accounts, low fees and transparency are advantages but do not remove the need for retirement-horizon allocation and drawdown holdability.
+- The Acquired Vanguard source adds that index funds can create market-wide governance questions when large passive managers accumulate voting power and common ownership.
 
 ## Connections
 - [[InvestmentRiskManagement]] — practical reason for favoring broad, automated exposure.
 - [[WarrenBuffett]] — long-term patience comparison point in the episode.
 - [[MarketEfficiency]] — passive investing depends on enough active price discovery around it.
+- [[Vanguard]], [[JohnBogle]], [[CostMattersHypothesis]], [[FundholderMutualOwnership]], and [[PassiveInvestingGovernance]] — Acquired source's origin, cost, structure, and governance extension.
 - [[AIIPOValuation]] — diversified exposure is suggested as an alternative to all-in buying of hot AI IPOs.
 - [[IndexFundAutomaticExposure]] — benchmark-driven exposure caveat added by the SpaceX IPO source.
 - [[SP500]], [[NasdaqComposite]], [[MegaCapConcentrationRisk]], and [[IndexReentryDiscipline]] — EP57's broad-index implementation context.

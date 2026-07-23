@@ -2871,6 +2871,10 @@
     "title": "BlackBerry",
     "url": "/wiki/entities/blackberry/"
   },
+  "BlackRock": {
+    "title": "BlackRock",
+    "url": "/wiki/entities/blackrock/"
+  },
   "BlackSwan": {
     "title": "Black Swan",
     "url": "/wiki/concepts/blackswan/"
@@ -4494,6 +4498,10 @@
   "CostCapEconomics": {
     "title": "Cost Cap Economics",
     "url": "/wiki/concepts/costcapeconomics/"
+  },
+  "CostMattersHypothesis": {
+    "title": "Cost Matters Hypothesis",
+    "url": "/wiki/concepts/costmattershypothesis/"
   },
   "Costco": {
     "title": "Costco",
@@ -6527,6 +6535,10 @@
     "title": "Festival Food Material History",
     "url": "/wiki/concepts/festivalfoodmaterialhistory/"
   },
+  "Fidelity": {
+    "title": "Fidelity",
+    "url": "/wiki/entities/fidelity/"
+  },
   "FieldFirstVerticalSaaS": {
     "title": "Field-First Vertical SaaS",
     "url": "/wiki/concepts/fieldfirstverticalsaas/"
@@ -7138,6 +7150,10 @@
   "FundLiabilityMatching": {
     "title": "Fund Liability Matching",
     "url": "/wiki/concepts/fundliabilitymatching/"
+  },
+  "FundholderMutualOwnership": {
+    "title": "Fundholder Mutual Ownership",
+    "url": "/wiki/concepts/fundholdermutualownership/"
   },
   "FundraisingScenarioModeling": {
     "title": "Fundraising Scenario Modeling",
@@ -13091,6 +13107,10 @@
     "title": "Passive Investing",
     "url": "/wiki/concepts/passiveinvesting/"
   },
+  "PassiveInvestingGovernance": {
+    "title": "Passive Investing Governance",
+    "url": "/wiki/concepts/passiveinvestinggovernance/"
+  },
   "Patagonia": {
     "title": "Patagonia",
     "url": "/wiki/entities/patagonia/"
@@ -15055,6 +15075,10 @@
     "title": "Sales Velocity",
     "url": "/wiki/concepts/salesvelocity/"
   },
+  "SalimRamji": {
+    "title": "Salim Ramji",
+    "url": "/wiki/entities/salimramji/"
+  },
   "SamAltman": {
     "title": "Sam Altman",
     "url": "/wiki/entities/samaltman/"
@@ -15154,6 +15178,10 @@
   "ScaleAI": {
     "title": "Scale AI",
     "url": "/wiki/entities/scaleai/"
+  },
+  "ScaleEconomiesShared": {
+    "title": "Scale Economies Shared",
+    "url": "/wiki/concepts/scaleeconomiesshared/"
   },
   "ScaleReversalSatire": {
     "title": "Scale Reversal Satire",
@@ -16275,6 +16303,10 @@
     "title": "State Administration of Foreign Exchange",
     "url": "/wiki/entities/stateadministrationofforeignexchange/"
   },
+  "StateStreet": {
+    "title": "State Street",
+    "url": "/wiki/entities/statestreet/"
+  },
   "StayPit": {
     "title": "StayPit",
     "url": "/wiki/entities/staypit/"
@@ -16398,6 +16430,10 @@
   "StrategicRerelease": {
     "title": "Strategic Rerelease",
     "url": "/wiki/concepts/strategicrerelease/"
+  },
+  "StrategyFollowsStructure": {
+    "title": "Strategy Follows Structure",
+    "url": "/wiki/concepts/strategyfollowsstructure/"
   },
   "StrattonOakmont": {
     "title": "Stratton Oakmont",
@@ -18322,6 +18358,10 @@
   "WeirdTales": {
     "title": "Weird Tales / 诡丽幻谭",
     "url": "/wiki/entities/weirdtales/"
+  },
+  "WellingtonManagement": {
+    "title": "Wellington Management",
+    "url": "/wiki/entities/wellingtonmanagement/"
   },
   "WendyLiu": {
     "title": "Wendy Liu",
@@ -20642,6 +20682,10 @@
   "using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds": {
     "title": "Using AI chatbots for mental health support poses serious risks for teens, report finds",
     "url": "/wiki/sources/using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds/"
+  },
+  "vanguard-1": {
+    "title": "Vanguard",
+    "url": "/wiki/sources/vanguard-1/"
   },
   "vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg": {
     "title": "vol.101.既安全、收益又高、流动性还好的投资到底存在吗？",

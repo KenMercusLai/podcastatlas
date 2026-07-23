@@ -3950,3 +3950,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-23] ingest | Vanguard
+
+Added source page for the Acquired episode on Vanguard, Jack Bogle, fundholder mutual ownership, the first retail index fund, low-cost compounding, ETF succession conflict, modern competition from Fidelity/BlackRock/State Street, Salim Ramji's outside-CEO challenge, and passive-investing governance. Created pages for Wellington Management, Fidelity, BlackRock, State Street, Salim Ramji, Fundholder Mutual Ownership, Cost Matters Hypothesis, Scale Economies Shared, Strategy Follows Structure, and Passive Investing Governance; updated overview, index, Acquired, Vanguard, John Bogle, Passive Investing, Financial Platform Incentives, Founder Succession, Steward Ownership, Costco, Warren Buffett, Blackstone, and S&P 500. No direct contradiction found; the source deepens earlier Vanguard references by tying low-cost investing to ownership structure rather than only founder restraint.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
