@@ -2,8 +2,8 @@
 title: "Historical Memory Contest"
 type: concept
 tags: [history, politics, culture]
-sources: [coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]
-last_updated: 2026-07-18
+sources: [124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]
+last_updated: 2026-07-24
 ---
 
 # Historical Memory Contest
@@ -16,6 +16,8 @@ The source treats memory as part of [[AmericanDemocraticResilience]]. [[RobertGu
 
 [[69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]] adds a literary-memory version through [[RichardIII|Richard III / 理查三世]] and [[CaoCaoTomb|曹操墓]]. In these cases, the contest is not only fought through museums or school boards; plays, novels, dynastic histories, legends, and popular suspicion can become the memory infrastructure that later evidence has to overcome.
 
+[[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]] adds a classical-political memory version through the [[CaesarAssassination|assassination of Caesar]]. Ancient reports, [[WilliamShakespeare]]'s [[JuliusCaesarPlay|Julius Caesar]], anti-king republican symbolism, and the later imperial outcome all compete over whether [[JuliusCaesar|Caesar]] looks like a murdered hero, a slain tyrant, or a warning about institutional decay.
+
 ## Key Claims
 - Historical memory is an institutional problem, not only a cultural argument.
 - Museums, memorials, schools, film, academia, and local boards all shape what citizens understand as national history.
@@ -23,6 +25,7 @@ The source treats memory as part of [[AmericanDemocraticResilience]]. [[RobertGu
 - Sanitized history can weaken democratic resilience by reducing the public's ability to recognize old exclusion patterns.
 - Memory politics can move through local institutions even when national attention focuses on presidents.
 - Literature and legend can become durable memory institutions, especially when political winners or familiar fictional images give them public authority.
+- The same assassination can preserve republican warning, literary betrayal, and imperial origin story at the same time.
 
 ## Connections
 - [[UnitedStates]], [[RebeccaJackson]], and [[AmericanDemocraticResilience]] - source context.
@@ -31,3 +34,4 @@ The source treats memory as part of [[AmericanDemocraticResilience]]. [[RobertGu
 - [[PublicServiceJournalism]] and [[IfYouCanKeepIt]] - adjacent civic-explanation branch.
 - [[Route66NostalgiaTourism]] - related American-memory case where nostalgia selects parts of the past for tourism.
 - [[EvidenceBoundHistoricalRevision]], [[RichardIII|理查三世]], and [[CaoCaoTomb|曹操墓]] - episode 69's evidence-versus-literary-memory branch.
+- [[CaesarAssassination]], [[JuliusCaesar]], [[JuliusCaesarPlay]], and [[RepublicanMemoryAgainstDictatorship]] - classical-political memory branch added by episode 124.

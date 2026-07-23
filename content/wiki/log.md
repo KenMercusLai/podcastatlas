@@ -4228,7 +4228,6 @@ Added source page for a 蜜獾吃书 episode on 罗翔《法律的悖论》, cov
 
 Ran lint. See lint-report.md for details.
 
-
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -4344,6 +4343,14 @@ Ran lint after health passed. Health found no empty/stub files, index drift, or 
 ## [2026-07-24] ingest | 123.人性实验：当心你自己！
 
 Added source page for a 蜜獾吃书 episode on social psychology, hostile media perception, priming, stereotype-shaped memory, actor-observer bias, deindividuation, the Gilbert-Spinoza hypothesis, money illusion, and emotional contagion. Created pages for Social Psychology, Social Reality Construction, Hindsight Bias, Hostile Media Effect, Priming And Stereotype Memory, Consider-The-Opposite Bias Correction, Better-Than-Average Effect, Actor-Observer Bias, Deindividuation, Gilbert-Spinoza Hypothesis, Money Illusion, Emotional Contagion, Solomon Asch, Stanley Milgram, Philip Zimbardo, Gustave Le Bon, Leon Festinger, Daniel Gilbert, Edward Jones, and Richard Nisbett; updated overview, index, 蜜獾吃书, Motivated Bias, Scientific Skepticism, Scientific Self-Correction, Experimental Science Ethics, Internet Moral Trial, Outrage-Triggered Skepticism, Attention Industrialization, Memory Contamination Risk, Pseudoscience Fraud Vulnerability, and Baruch Spinoza. No direct contradiction found; the source extends the wiki's skepticism and public-judgment branch by making the perceiver's own identity, attention, memory, anonymity, and emotion part of the evidence problem.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | 124. 恺撒之死：历史的韵脚，是否已失效？
+
+Added source page for a 蜜獾吃书 episode on Julius Caesar, the Roman Republic's late crisis, Marius and Sulla, army loyalty shifting toward commanders, Pompey and Crassus, Cleopatra, Brutus, Cassius, Decimus, Mark Antony, Octavian/Augustus, Cicero, Cato, Shakespeare's Julius Caesar, and the question of whether assassination can save republican institutions. Created pages for Julius Caesar, the Roman Republic, the Roman Empire, Caesar's assassination, the main late-republic actors, Shakespeare and the play, Late Roman Republic Crisis, Military Personalization, Personal Rule Legitimacy Crisis, Tyrannicide Republican Dilemma, Republican Memory Against Dictatorship, and Historical Rhyme Political Reading; updated overview, index, 蜜獾吃书, Machiavellian Realism, Hector, Socrates, Historical Memory Contest, and Moral Suspension In Art Reading. No direct contradiction found; the source extends the wiki's political-theory branch by showing that Caesar's death can preserve anti-dictatorship memory while failing to repair the institutions that made republican government possible.
 
 ## [2026-07-24] lint | Wiki health check
 

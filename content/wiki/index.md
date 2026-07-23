@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [124. 恺撒之死：历史的韵脚，是否已失效？](sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361.md) — 蜜獾吃书 episode on Julius Caesar, the late Roman Republic crisis, army loyalty shifting toward commanders, Brutus and the assassination conspiracy, Antony and Octavian, Shakespeare's memory of Caesar's death, and republican memory after institutional failure.
 - [123.人性实验：当心你自己！](sources/123-renxing-shiyan-dangxin-ni-ziji-779479569.md) — 蜜獾吃书 episode on social psychology, hostile media perception, priming, stereotype-shaped memory, actor-observer bias, deindividuation, belief-first cognition, money illusion, emotional contagion, and self-suspicion under internet manipulation.
 - [122.匹诺曹：成长的惨痛及其所创作的](sources/122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172.md) — 蜜獾吃书 episode on 《木偶奇遇记》, Collodi, Pinocchio beyond Disney memory, the hero journey, dream logic, painful growth, and becoming human through responsibility.
 - [121.极简法医鉴识手册：一切犯罪，皆有痕迹](sources/121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343.md) — 蜜獾吃书 episode on 《极简法医鉴识手册》, forensic science, Locard's exchange principle, CSI effect, body farms, fingerprints, bloodstains, death-time inference, forensic entomology, toxicology, and public poisoning risk.
@@ -540,6 +541,24 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Julius Caesar / 尤利乌斯·恺撒](entities/JuliusCaesar.md) — Roman commander and dictator read by episode 124 as charismatic, clement, reckless, and caught in a personal-rule legitimacy crisis.
+- [Roman Republic / 罗马共和国](entities/RomanRepublic.md) — Republican polity whose late institutional breakdown frames Caesar's rise, assassination, and imperial aftermath.
+- [Roman Empire / 罗马帝国](entities/RomanEmpire.md) — Imperial order emerging after Caesar's assassination failed to restore the Roman Republic.
+- [Assassination of Julius Caesar / 恺撒遇刺](entities/CaesarAssassination.md) — Ides of March event treated by episode 124 as both republican tyrannicide and failed political repair.
+- [Marcus Brutus / 马库斯·布鲁图斯](entities/MarcusBrutus.md) — Caesar-pardoned republican conspirator whose symbolic name and moral limits shape the assassination's meaning and failure.
+- [Gaius Cassius Longinus / 卡西乌斯](entities/GaiusCassiusLonginus.md) — Main organizer of the anti-Caesar conspiracy who needed Brutus's republican authority.
+- [Decimus Junius Brutus / 德奇姆斯](entities/DecimusJuniusBrutus.md) — Caesar confidant and conspirator whose access helped bring Caesar to the fatal Senate meeting.
+- [Mark Antony / 马克·安东尼](entities/MarkAntony.md) — Caesar ally tied to the crown-offering episode, funeral aftermath, and later conflict with Octavian and Cleopatra.
+- [Octavian / Augustus / 屋大维](entities/OctavianAugustus.md) — Caesar's adopted heir who converts the assassination's aftermath into the Augustan imperial settlement.
+- [Cleopatra VII / 克娄巴特拉七世](entities/CleopatraVII.md) — Egyptian queen whose relation to Caesar and Antony intensifies Roman fears around monarchy, divinity, and succession.
+- [Pompey / 庞培](entities/Pompey.md) — Caesar ally turned civil-war rival whose death in Egypt and Curia memory shape the episode's late-republic arc.
+- [Marcus Licinius Crassus / 克拉苏](entities/MarcusLiciniusCrassus.md) — First Triumvirate partner whose death removes a balancing force between Caesar and Pompey.
+- [Cicero / 西塞罗](entities/Cicero.md) — Republican orator and statesman used by episode 124 to show the limits of speech and compromise after Caesar's death.
+- [Cato the Younger / 小加图](entities/CatoTheYounger.md) — Stoic republican opponent of Caesar and moral reference point for anti-dictatorship politics.
+- [Gaius Marius / 马略](entities/GaiusMarius.md) — Earlier Roman reformer whose military changes help explain army loyalty shifting toward commanders.
+- [Lucius Cornelius Sulla / 苏拉](entities/LuciusCorneliusSulla.md) — Dictatorial precedent whose civil violence and death lists show republican norms breaking before Caesar.
+- [William Shakespeare / 威廉·莎士比亚](entities/WilliamShakespeare.md) — Dramatist whose Julius Caesar reshapes public memory of Caesar's last words and Brutus's betrayal.
+- [Julius Caesar / 《尤里乌斯·恺撒》](entities/JuliusCaesarPlay.md) — Shakespeare play used by episode 124 to show literary memory competing with ancient evidence.
 - [Solomon Asch / 所罗门·阿希](entities/SolomonAsch.md) — Social-psychology reference point for conformity and group-pressure experiments in episode 123's setup.
 - [Stanley Milgram / 斯坦利·米尔格拉姆](entities/StanleyMilgram.md) — Classic obedience-experiment figure used by episode 123 as background for social psychology's postwar experimental canon.
 - [Philip Zimbardo / 菲利普·津巴多](entities/PhilipZimbardo.md) — Social psychologist tied in episode 123 to deindividuation, anonymous shock experiments, and ethical caution around famous experiments.
@@ -3570,6 +3589,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Late Roman Republic Crisis / 罗马共和国晚期危机](concepts/LateRomanRepublicCrisis.md) — Structural frame for Caesar's rise as a symptom of civil conflict, elite rivalry, army loyalty, provincial wealth, and weakened republican norms.
+- [Military Personalization / 军队私人化](concepts/MilitaryPersonalization.md) — Mechanism where armies attach to commanders, rewards, and personal political ambition rather than impersonal republican offices.
+- [Personal Rule Legitimacy Crisis / 个人统治正当性危机](concepts/PersonalRuleLegitimacyCrisis.md) — Caesar's final problem of vast authority without an accepted republican form for one-person rule or succession.
+- [Tyrannicide Republican Dilemma / 弑君式共和困境](concepts/TyrannicideRepublicanDilemma.md) — Moral-political problem where killing a would-be tyrant can be intelligible but insufficient to rebuild institutions.
+- [Republican Memory Against Dictatorship / 反独裁的共和记忆](concepts/RepublicanMemoryAgainstDictatorship.md) — Episode 124's frame for the warning against open dictatorship that survived even though the Roman Republic did not.
+- [Historical Rhyme Political Reading / 历史押韵式政治阅读](concepts/HistoricalRhymePoliticalReading.md) — Interpretive method using Rome to notice recurring political patterns without forcing one-to-one historical analogy.
 - [Social Psychology / 社会心理学](concepts/SocialPsychology.md) — Episode 123's discipline frame for studying how social situations, identity, groups, attention, and emotion shape judgment and behavior.
 - [Social Reality Construction / 社会现实建构](concepts/SocialRealityConstruction.md) — Episode 123's premise that people experience social reality through perception, culture, identity, and attribution needs rather than neutral recording.
 - [Hindsight Bias / 后见之明偏差](concepts/HindsightBias.md) — Tendency to treat an experimental result as obvious after learning it, even when the opposite result would also have felt obvious.

@@ -115,6 +115,10 @@
     "title": "123.人性实验：当心你自己！",
     "url": "/wiki/sources/123-renxing-shiyan-dangxin-ni-ziji-779479569/"
   },
+  "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361": {
+    "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+    "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+  },
   "130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi": {
     "title": "130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏",
     "url": "/wiki/sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi/"
@@ -3615,6 +3619,10 @@
     "title": "Cadence Design Systems / 楷登",
     "url": "/wiki/entities/cadencedesignsystems/"
   },
+  "CaesarAssassination": {
+    "title": "Assassination of Julius Caesar / 恺撒遇刺",
+    "url": "/wiki/entities/caesarassassination/"
+  },
   "CaffeinatedModernity": {
     "title": "Caffeinated Modernity",
     "url": "/wiki/concepts/caffeinatedmodernity/"
@@ -3914,6 +3922,10 @@
   "CatherineNixie": {
     "title": "Catherine Nixie",
     "url": "/wiki/entities/catherinenixie/"
+  },
+  "CatoTheYounger": {
+    "title": "Cato the Younger / 小加图",
+    "url": "/wiki/entities/catotheyounger/"
   },
   "CausalAI": {
     "title": "Causal AI",
@@ -4379,6 +4391,10 @@
     "title": "中禅寺秋彦 / Chuzenji Akihiko",
     "url": "/wiki/entities/chuzenjiakihiko/"
   },
+  "Cicero": {
+    "title": "Cicero / 西塞罗",
+    "url": "/wiki/entities/cicero/"
+  },
   "CindyDAmicus": {
     "title": "Cindy D'Amicus",
     "url": "/wiki/entities/cindydamicus/"
@@ -4502,6 +4518,10 @@
   "Clearspace": {
     "title": "Clearspace",
     "url": "/wiki/entities/clearspace/"
+  },
+  "CleopatraVII": {
+    "title": "Cleopatra VII / 克娄巴特拉七世",
+    "url": "/wiki/entities/cleopatravii/"
   },
   "Clico": {
     "title": "Clico",
@@ -5678,6 +5698,10 @@
   "DecentralizedWorldModelStrategy": {
     "title": "Decentralized World Model Strategy",
     "url": "/wiki/concepts/decentralizedworldmodelstrategy/"
+  },
+  "DecimusJuniusBrutus": {
+    "title": "Decimus Junius Brutus / 德奇姆斯",
+    "url": "/wiki/entities/decimusjuniusbrutus/"
   },
   "Deckers": {
     "title": "Deckers",
@@ -8123,6 +8147,14 @@
     "title": "盖德",
     "url": "/wiki/entities/gaide/"
   },
+  "GaiusCassiusLonginus": {
+    "title": "Gaius Cassius Longinus / 卡西乌斯",
+    "url": "/wiki/entities/gaiuscassiuslonginus/"
+  },
+  "GaiusMarius": {
+    "title": "Gaius Marius / 马略",
+    "url": "/wiki/entities/gaiusmarius/"
+  },
   "GalacticEmpire": {
     "title": "Galactic Empire",
     "url": "/wiki/entities/galacticempire/"
@@ -9294,6 +9326,10 @@
   "HistoricalMemoryContest": {
     "title": "Historical Memory Contest",
     "url": "/wiki/concepts/historicalmemorycontest/"
+  },
+  "HistoricalRhymePoliticalReading": {
+    "title": "Historical Rhyme Political Reading / 历史押韵式政治阅读",
+    "url": "/wiki/concepts/historicalrhymepoliticalreading/"
   },
   "Hive5": {
     "title": "Hive 5",
@@ -10955,6 +10991,14 @@
     "title": "Julian Weber",
     "url": "/wiki/entities/julianweber/"
   },
+  "JuliusCaesar": {
+    "title": "Julius Caesar / 尤利乌斯·恺撒",
+    "url": "/wiki/entities/juliuscaesar/"
+  },
+  "JuliusCaesarPlay": {
+    "title": "Julius Caesar / 《尤里乌斯·恺撒》",
+    "url": "/wiki/entities/juliuscaesarplay/"
+  },
   "JumeiYoupin": {
     "title": "聚美优品 / Jumei Youpin",
     "url": "/wiki/entities/jumeiyoupin/"
@@ -11522,6 +11566,10 @@
   "LastDefenderOfCamelot": {
     "title": "《卡美洛的最后守护者》 / The Last Defender of Camelot",
     "url": "/wiki/entities/lastdefenderofcamelot/"
+  },
+  "LateRomanRepublicCrisis": {
+    "title": "Late Roman Republic Crisis / 罗马共和国晚期危机",
+    "url": "/wiki/concepts/lateromanrepubliccrisis/"
   },
   "LateTalk": {
     "title": "LateTalk",
@@ -12311,6 +12359,10 @@
     "title": "Lucas Drone",
     "url": "/wiki/entities/lucasdrone/"
   },
+  "LuciusCorneliusSulla": {
+    "title": "Lucius Cornelius Sulla / 苏拉",
+    "url": "/wiki/entities/luciuscorneliussulla/"
+  },
   "LuckAsInformationBandwidth": {
     "title": "Luck As Information Bandwidth",
     "url": "/wiki/concepts/luckasinformationbandwidth/"
@@ -12619,6 +12671,14 @@
     "title": "March Hare / 三月兔",
     "url": "/wiki/entities/marchhare/"
   },
+  "MarcusBrutus": {
+    "title": "Marcus Brutus / 马库斯·布鲁图斯",
+    "url": "/wiki/entities/marcusbrutus/"
+  },
+  "MarcusLiciniusCrassus": {
+    "title": "Marcus Licinius Crassus / 克拉苏",
+    "url": "/wiki/entities/marcusliciniuscrassus/"
+  },
   "MargaretMead": {
     "title": "Margaret Mead / 米德",
     "url": "/wiki/entities/margaretmead/"
@@ -12666,6 +12726,10 @@
   "MarkAndreessen": {
     "title": "Mark Andreessen",
     "url": "/wiki/entities/markandreessen/"
+  },
+  "MarkAntony": {
+    "title": "Mark Antony / 马克·安东尼",
+    "url": "/wiki/entities/markantony/"
   },
   "MarkCarwardine": {
     "title": "Mark Carwardine / 马克·卡沃丁",
@@ -13242,6 +13306,10 @@
   "MilieuSpecificAnalysis": {
     "title": "Milieu-Specific Analysis",
     "url": "/wiki/concepts/milieuspecificanalysis/"
+  },
+  "MilitaryPersonalization": {
+    "title": "Military Personalization / 军队私人化",
+    "url": "/wiki/concepts/militarypersonalization/"
   },
   "MilkBar": {
     "title": "Milk Bar",
@@ -14243,6 +14311,10 @@
     "title": "Ocean Memory Project",
     "url": "/wiki/entities/oceanmemoryproject/"
   },
+  "OctavianAugustus": {
+    "title": "Octavian / Augustus / 屋大维",
+    "url": "/wiki/entities/octavianaugustus/"
+  },
   "Odysseus": {
     "title": "Odysseus",
     "url": "/wiki/entities/odysseus/"
@@ -14987,6 +15059,10 @@
     "title": "Personal Pension Account / 个人养老金账户",
     "url": "/wiki/concepts/personalpensionaccount/"
   },
+  "PersonalRuleLegitimacyCrisis": {
+    "title": "Personal Rule Legitimacy Crisis / 个人统治正当性危机",
+    "url": "/wiki/concepts/personalrulelegitimacycrisis/"
+  },
   "PersonalSecurityTiering": {
     "title": "Personal Security Tiering",
     "url": "/wiki/concepts/personalsecuritytiering/"
@@ -15382,6 +15458,10 @@
   "Polymarket": {
     "title": "Polymarket",
     "url": "/wiki/entities/polymarket/"
+  },
+  "Pompey": {
+    "title": "Pompey / 庞培",
+    "url": "/wiki/entities/pompey/"
   },
   "PonyMa": {
     "title": "Pony Ma",
@@ -16411,6 +16491,10 @@
     "title": "Republican China Banking System",
     "url": "/wiki/concepts/republicanchinabankingsystem/"
   },
+  "RepublicanMemoryAgainstDictatorship": {
+    "title": "Republican Memory Against Dictatorship / 反独裁的共和记忆",
+    "url": "/wiki/concepts/republicanmemoryagainstdictatorship/"
+  },
   "RepublicanParty": {
     "title": "Republican Party",
     "url": "/wiki/entities/republicanparty/"
@@ -16770,6 +16854,14 @@
   "RollsRoyce": {
     "title": "Rolls-Royce",
     "url": "/wiki/entities/rollsroyce/"
+  },
+  "RomanEmpire": {
+    "title": "Roman Empire / 罗马帝国",
+    "url": "/wiki/entities/romanempire/"
+  },
+  "RomanRepublic": {
+    "title": "Roman Republic / 罗马共和国",
+    "url": "/wiki/entities/romanrepublic/"
   },
   "RomanticProjectionTrap": {
     "title": "Romantic Projection Trap",
@@ -19891,6 +19983,10 @@
     "title": "Type Type Maker",
     "url": "/wiki/entities/typetypemaker/"
   },
+  "TyrannicideRepublicanDilemma": {
+    "title": "Tyrannicide Republican Dilemma / 弑君式共和困境",
+    "url": "/wiki/concepts/tyranniciderepublicandilemma/"
+  },
   "UCBerkeley": {
     "title": "UC Berkeley",
     "url": "/wiki/entities/ucberkeley/"
@@ -20810,6 +20906,10 @@
   "WilliamOfBaskerville": {
     "title": "巴斯克维尔的威廉 / William of Baskerville",
     "url": "/wiki/entities/williamofbaskerville/"
+  },
+  "WilliamShakespeare": {
+    "title": "William Shakespeare / 威廉·莎士比亚",
+    "url": "/wiki/entities/williamshakespeare/"
   },
   "WilsonSonsini": {
     "title": "Wilson Sonsini",
