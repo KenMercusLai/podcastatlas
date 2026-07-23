@@ -2,7 +2,7 @@
 title: "Machiavellian Realism"
 type: concept
 tags: [political-theory, realism, power, ethics]
-sources: [126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361, 118-shi-dachen-xinla-fengci-yongbuguoshi-768665425, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]
+sources: [133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780, 124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361, 118-shi-dachen-xinla-fengci-yongbuguoshi-768665425, 72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]
 last_updated: 2026-07-24
 ---
 
@@ -18,6 +18,8 @@ The concept is dangerous because it can be mistaken for permission to do anythin
 
 [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] adds a negative mirror through [[WangMang|王莽]]. Wang Mang had moral reputation, court procedure, ritual titles, and [[AuspiciousOmenPolitics|auspicious signs]], but the source treats his rule as a failure of realism: [[WangMangReforms|reform]], foreign policy, and coercive control were driven by [[ConfucianIdealGovernance|ideal order]] more than by institutional capacity and feedback.
 
+[[133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110]] adds a warning against counterfeit realism. The episode argues that praising [[CleverOpportunismAsMoralRisk|clever opportunism]] or [[AppeasementLogic|appeasement]] as hardheaded politics is not realism if it ignores how strongmen destroy the norms that ordinary people need for protection.
+
 ## Key Claims
 - Political analysis becomes modern, in the episode's account, when it stops assuming that good rulers and moral preaching are enough to produce good order.
 - Realism asks what people, institutions, armies, elites, crowds, and fortune are likely to do under pressure.
@@ -26,6 +28,7 @@ The concept is dangerous because it can be mistaken for permission to do anythin
 - Bureaucratic realism can separate professional survival and institutional continuity from party ideology, making political technique look neutral while still serving power.
 - The Caesar-Augustus contrast adds succession and presentation to the realism: durable personal rule depends not only on force, but also on inherited name, timing, restraint, institutional camouflage, and public legitimacy.
 - The Wang Mang branch shows that moral and ritual legitimacy can be politically effective for ascent while still failing the realist test of durable governance.
+- The IBM-Nazi source adds that realism without conscience can become admiration for predation, especially when it asks weaker third parties to absorb the cost.
 
 ## Connections
 - [[NiccoloMachiavelli|Niccolo Machiavelli / 马基雅维利]] and [[ThePrince|《君主论》 / The Prince]] - central thinker and text.
@@ -36,3 +39,4 @@ The concept is dangerous because it can be mistaken for permission to do anythin
 - [[HumphreyAppleby]], [[YesMinister|《是，大臣》]], and [[CivilServiceContinuity]] - bureaucratic satire extension.
 - [[JuliusCaesar]], [[OctavianAugustus]], [[RomanRepublic]], [[RomanEmpire]], and [[PersonalRuleLegitimacyCrisis]] - Roman succession extension.
 - [[WangMang]], [[MoralReputationPoliticalCapital]], [[AuspiciousOmenPolitics]], [[WangMangReforms]], and [[ConfucianForeignPolicyMoralism]] - Chinese imperial-legitimacy extension.
+- [[AppeasementLogic]], [[CleverOpportunismAsMoralRisk]], [[CorporateComplicityWithAuthoritarianism]], and [[GoodIntentionsPoliticalLimits]] - episode 133's warning against confusing realism with strongman accommodation.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [133. IBM与纳粹：为什么普通人不应赞美鸡贼主义](sources/133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110.md) — 蜜獾吃书 episode on IBM, Dehomag, punched-card administration, Nazi population control, Thomas J. Watson, corporate complicity, Rene Carmille's sabotage, and why ordinary people should not romanticize clever opportunism or appeasement.
 - [132.争论与说服：我们为什么吵架，怎么才算赢？](sources/132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318.md) — 蜜獾吃书 episode on David McRaney's 《争论与说服》 / How Minds Change, online argument, subjective reality, cognitive inertia, tribal truth, group polarization, ELM, deep canvassing, and naming as social change.
 - [131.“日常之谜”推理：是我未能说出口的真心](sources/131-richang-zhimi-tuili-shi-wo-wei-neng-shuo-chukou-de-zhenxin-805617229.md) — 蜜獾吃书 episode on 日常推理 / 日常之谜 through 《仙人掌之花》, 加纳朋子《玻璃长颈鹿》, 米泽穗信《小市民》, hidden feelings, trauma guilt, and dessert-clue play.
 - [130.托卡尔丘克《怪诞故事集》：寻找和告别](sources/130-tuokaerqiuke-guaidan-gushiji-xunzhao-he-gaobie-803543569.md) — 蜜獾吃书 episode on Olga Tokarczuk's 《怪诞故事集》, everyday weirdness, self-recognition horror, domestic AI relations, aging estrangement, preserved maternal grief, transformation, wolves, and farewell to 徐熙元.
@@ -551,6 +552,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Thomas J. Watson / 托马斯·沃森](entities/ThomasJWatson.md) — IBM executive used by episode 133 to examine business strategy, Nazi cooperation, trade rhetoric, reputation management, and corporate complicity.
+- [Herman Hollerith / 赫尔曼·霍尔瑞斯](entities/HermanHollerith.md) — Punched-card tabulation inventor whose census technology becomes the starting point for episode 133's data-administration branch.
+- [Dehomag / 德霍梅格](entities/Dehomag.md) — IBM-controlled German Hollerith subsidiary through which episode 133 connects punched-card services to Nazi administrative violence.
+- [Willy Heidinger / 海丁格尔](entities/WillyHeidinger.md) — German Dehomag business figure used by episode 133 to show local partnership, ideological alignment, and IBM control tension.
+- [Jacobus Lentz / 雅各布斯·伦次](entities/JacobusLentz.md) — Dutch population-registration expert contrasted with Rene Carmille as a case of statistical expertise enabling Nazi occupation control.
+- [Rene Carmille / 勒内·卡米耶](entities/ReneCarmille.md) — French statistical official and resistance figure used by episode 133 to show technical sabotage from inside a coercive data system.
 - [《争论与说服》 / How Minds Change](entities/ZhenglunYuShuofu.md) — David McRaney book used by episode 132 to connect argument, belief change, subjective reality, tribal truth, deep canvassing, and social naming.
 - [David McRaney / 大卫·麦克雷尼](entities/DavidMcRaney.md) — Author of 《争论与说服》 / How Minds Change, entering the wiki through episode 132's belief-change and persuasion branch.
 - [Peter Wason / 彼得·沃森](entities/PeterWason.md) — Psychologist referenced through the number-rule experiment as a case of small-sample confirmation and the need for argument to widen evidence.
@@ -3664,6 +3671,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Punched Card Administration / 打孔卡行政](concepts/PunchedCardAdministration.md) — Episode 133 frame for customized tabulation machines, cards, programs, operators, and maintenance as administrative infrastructure.
+- [Data-Enabled Persecution / 数据化迫害](concepts/DataEnabledPersecution.md) — Pattern where identity records, classification, and retrieval systems make political persecution more scalable and lethal.
+- [Corporate Complicity With Authoritarianism / 企业对威权的共谋](concepts/CorporateComplicityWithAuthoritarianism.md) — Episode 133 concept for business participation in abusive regimes through trade, subsidiaries, services, and reputation management.
+- [Technical Resistance From Within / 体制内技术抵抗](concepts/TechnicalResistanceFromWithin.md) — Rene Carmille pattern where internal knowledge of a data system is used to corrupt, delay, or sabotage persecution.
+- [Appeasement Logic / 绥靖逻辑](concepts/AppeasementLogic.md) — Episode 133 warning that peace, realism, or trade language can reward aggression by making weaker victims pay the cost.
+- [Clever Opportunism As Moral Risk / 鸡贼主义的道德风险](concepts/CleverOpportunismAsMoralRisk.md) — Episode 133 closing argument that admiring predatory cleverness erodes the norms that protect ordinary people.
 - [Subjective Reality Construction / 主观现实建构](concepts/SubjectiveRealityConstruction.md) — Episode 132 frame that perceived reality is a brain-built model shaped by sensory input, expectation, experience, and perspective-taking.
 - [Cognitive Inertia / 认知惰性](concepts/CognitiveInertia.md) — Belief-preservation tendency where people avoid costly updating unless relevance, risk, or reward makes deeper processing worthwhile.
 - [Cognitive Dissonance And Accommodation / 认知失调与顺应](concepts/CognitiveDissonanceAndAccommodation.md) — Episode 132 mechanism distinguishing cheap assimilation of conflicting evidence from real model-changing accommodation.

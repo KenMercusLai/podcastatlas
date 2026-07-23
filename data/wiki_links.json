@@ -171,6 +171,10 @@
     "title": "133. 对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42",
     "url": "/wiki/sources/133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42/"
   },
+  "133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110": {
+    "title": "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义",
+    "url": "/wiki/sources/133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110/"
+  },
   "134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe": {
     "title": "134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe",
     "url": "/wiki/sources/134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe/"
@@ -2330,6 +2334,10 @@
   "AppealToIgnorance": {
     "title": "Appeal To Ignorance",
     "url": "/wiki/concepts/appealtoignorance/"
+  },
+  "AppeasementLogic": {
+    "title": "Appeasement Logic / 绥靖逻辑",
+    "url": "/wiki/concepts/appeasementlogic/"
   },
   "Apple": {
     "title": "Apple",
@@ -4619,6 +4627,10 @@
     "title": "Cleopatra VII / 克娄巴特拉七世",
     "url": "/wiki/entities/cleopatravii/"
   },
+  "CleverOpportunismAsMoralRisk": {
+    "title": "Clever Opportunism As Moral Risk / 鸡贼主义的道德风险",
+    "url": "/wiki/concepts/cleveropportunismasmoralrisk/"
+  },
   "Clico": {
     "title": "Clico",
     "url": "/wiki/entities/clico/"
@@ -5118,6 +5130,10 @@
   "CoreyTurner": {
     "title": "Corey Turner",
     "url": "/wiki/entities/coreyturner/"
+  },
+  "CorporateComplicityWithAuthoritarianism": {
+    "title": "Corporate Complicity With Authoritarianism / 企业对威权的共谋",
+    "url": "/wiki/concepts/corporatecomplicitywithauthoritarianism/"
   },
   "CorporateHospitalityPlatform": {
     "title": "Corporate Hospitality Platform",
@@ -5679,6 +5695,10 @@
     "title": "Data-Driven Product Culture",
     "url": "/wiki/concepts/datadrivenproductculture/"
   },
+  "DataEnabledPersecution": {
+    "title": "Data-Enabled Persecution / 数据化迫害",
+    "url": "/wiki/concepts/dataenabledpersecution/"
+  },
   "DataEngineLearningLoop": {
     "title": "Data Engine Learning Loop",
     "url": "/wiki/concepts/dataenginelearningloop/"
@@ -5894,6 +5914,10 @@
   "DegreeAsTrustCredential": {
     "title": "Degree As Trust Credential",
     "url": "/wiki/concepts/degreeastrustcredential/"
+  },
+  "Dehomag": {
+    "title": "Dehomag / 德霍梅格",
+    "url": "/wiki/entities/dehomag/"
   },
   "Deindividuation": {
     "title": "Deindividuation / 去个体化",
@@ -9451,6 +9475,10 @@
     "title": "Heritage Tourism Commercialization",
     "url": "/wiki/concepts/heritagetourismcommercialization/"
   },
+  "HermanHollerith": {
+    "title": "Herman Hollerith / 赫尔曼·霍尔瑞斯",
+    "url": "/wiki/entities/hermanhollerith/"
+  },
   "HermesAgent": {
     "title": "Hermes Agent",
     "url": "/wiki/entities/hermesagent/"
@@ -10630,6 +10658,10 @@
   "JacobinClub": {
     "title": "Jacobin Club / 雅各宾俱乐部",
     "url": "/wiki/entities/jacobinclub/"
+  },
+  "JacobusLentz": {
+    "title": "Jacobus Lentz / 雅各布斯·伦次",
+    "url": "/wiki/entities/jacobuslentz/"
   },
   "JacquesDerrida": {
     "title": "Jacques Derrida / 德里达",
@@ -16279,6 +16311,10 @@
     "title": "Pulley",
     "url": "/wiki/entities/pulley/"
   },
+  "PunchedCardAdministration": {
+    "title": "Punched Card Administration / 打孔卡行政",
+    "url": "/wiki/concepts/punchedcardadministration/"
+  },
   "PunishmentTheoryTradeoff": {
     "title": "Punishment Theory Tradeoff",
     "url": "/wiki/concepts/punishmenttheorytradeoff/"
@@ -16822,6 +16858,10 @@
   "RenaissanceTechnologies": {
     "title": "Renaissance Technologies",
     "url": "/wiki/entities/renaissancetechnologies/"
+  },
+  "ReneCarmille": {
+    "title": "Rene Carmille / 勒内·卡米耶",
+    "url": "/wiki/entities/renecarmille/"
   },
   "ReneDescartes": {
     "title": "Rene Descartes / 笛卡尔",
@@ -19595,6 +19635,10 @@
     "title": "Technical Demo Retention Gap",
     "url": "/wiki/concepts/technicaldemoretentiongap/"
   },
+  "TechnicalResistanceFromWithin": {
+    "title": "Technical Resistance From Within / 体制内技术抵抗",
+    "url": "/wiki/concepts/technicalresistancefromwithin/"
+  },
   "TechnocraticDominationSatire": {
     "title": "Technocratic Domination Satire",
     "url": "/wiki/concepts/technocraticdominationsatire/"
@@ -19918,6 +19962,10 @@
   "ThomasHobbes": {
     "title": "Thomas Hobbes / 托马斯·霍布斯",
     "url": "/wiki/entities/thomashobbes/"
+  },
+  "ThomasJWatson": {
+    "title": "Thomas J. Watson / 托马斯·沃森",
+    "url": "/wiki/entities/thomasjwatson/"
   },
   "ThomasPaine": {
     "title": "Thomas Paine / 托马斯·潘恩",
@@ -21406,6 +21454,10 @@
   "WilliamShakespeare": {
     "title": "William Shakespeare / 威廉·莎士比亚",
     "url": "/wiki/entities/williamshakespeare/"
+  },
+  "WillyHeidinger": {
+    "title": "Willy Heidinger / 海丁格尔",
+    "url": "/wiki/entities/willyheidinger/"
   },
   "WilsonSonsini": {
     "title": "Wilson Sonsini",

@@ -1,9 +1,9 @@
 ---
 title: "France"
 type: entity
-tags: [country, politics, europe, coffee, film, culture]
-sources: [108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]
-last_updated: 2026-07-15
+tags: [country, politics, europe, coffee, film, culture, resistance]
+sources: [133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]
+last_updated: 2026-07-24
 ---
 
 # France
@@ -16,6 +16,8 @@ The source presents the field as crowded: [[EmmanuelMacron]] cannot be the same 
 
 [[108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905]] adds a French culture and cinema branch through [[JulesAndJim|《祖与占》]], [[FrancoisTruffaut|Francois Truffaut]], and the [[FrenchNewWave|French New Wave]]. The episode uses Paris, the 2024 Olympic opening-ceremony controversy, and the film's bridge-running image to frame France as a setting where cultural self-image, artistic rebellion, sexual morality, and political argument collide.
 
+[[133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110]] adds France as the occupation setting for [[ReneCarmille|Rene Carmille]]'s technical resistance. The episode contrasts France's lower punched-card modernization with the [[Netherlands]] and argues that Carmille's data sabotage and false-document work helped disrupt Nazi classification efforts.
+
 ## Connections
 - [[MarineLePen]] and [[NationalRally]] - central French political actors in the source.
 - [[JordanBardella]] - party successor or substitute figure affected by Le Pen's return.
@@ -23,3 +25,4 @@ The source presents the field as crowded: [[EmmanuelMacron]] cannot be the same 
 - [[TwoRoundPresidentialElection]] and [[ElectoralIneligibilityPenalty]] - electoral-system and legal eligibility frames.
 - [[Coffee]], [[CoffeehousePublicSphere]], and [[CoffeeCommodityPolitics]] - historical branch added by the coffee material-history source.
 - [[JulesAndJim|《祖与占》]], [[FrancoisTruffaut]], and [[FrenchNewWave]] - film and cultural-rebellion branch added by episode 108.
+- [[ReneCarmille|Rene Carmille / 勒内·卡米耶]], [[TechnicalResistanceFromWithin]], [[PunchedCardAdministration]], and [[DataEnabledPersecution]] - occupation-data resistance branch added by episode 133.

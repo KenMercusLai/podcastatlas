@@ -4427,3 +4427,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | 133. IBM与纳粹：为什么普通人不应赞美鸡贼主义
+
+Added source page for a 蜜獾吃书 episode on IBM, Dehomag, punched-card administration, Nazi Germany, Holocaust data infrastructure, Thomas J. Watson, Herman Hollerith, Willy Heidinger, Jacobus Lentz, and Rene Carmille. Created pages for Thomas J. Watson, Herman Hollerith, Dehomag, Willy Heidinger, Jacobus Lentz, Rene Carmille, Punched Card Administration, Data-Enabled Persecution, Corporate Complicity With Authoritarianism, Technical Resistance From Within, Appeasement Logic, and Clever Opportunism As Moral Risk; updated overview, index, 蜜獾吃书, IBM, Nazi Germany, The Holocaust, France, Netherlands, Banality Of Evil, Institutional Overcompliance, Intellectual Responsibility Under Authoritarianism, Ordinary People Resistance, Machiavellian Realism, and Good Intentions Political Limits. No direct contradiction found; the source qualifies IBM's existing neutral incumbent/computing role by adding a source-scoped moral-history branch around corporate participation in authoritarian data systems.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 6,021 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 5,641 nodes and 56,841 edges, but 380 current wiki pages are absent from the graph snapshot; treat the reported no hub stubs, five fragile bridges, and no isolated communities as advisory until `build graph` refreshes it. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` is configured in the shell; manual spot review of the orphan pages and fragile-bridge endpoints found no obvious direct contradictions or stale summaries. Report returned in-session; `wiki/lint-report.md` was not saved.
