@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [134.查令十字街84号：再次原谅世界的理由](sources/134-chaling-shizi-jie-84-hao-zaici-yuanliang-shijie-de-liyou-821075226.md) — 蜜獾吃书 episode on 《查令十字街84号》, Helene Hanff, Frank Doel, Marks & Co., old books, letter friendship, postwar gifts, dignity, and bookstore serendipity.
 - [sp.06 串台｜和李乌鸦＆超哥 high 聊：做读书博主的“守墓心得”](sources/sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708.md) — 蜜獾吃书 crossover with 李乌鸦 and 超哥 on book creator work, topic choice, platform data, bridge-style reading content, creator confidence, and books as grave-like memory sites.
 - [133. IBM与纳粹：为什么普通人不应赞美鸡贼主义](sources/133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110.md) — 蜜獾吃书 episode on IBM, Dehomag, punched-card administration, Nazi population control, Thomas J. Watson, corporate complicity, Rene Carmille's sabotage, and why ordinary people should not romanticize clever opportunism or appeasement.
 - [132.争论与说服：我们为什么吵架，怎么才算赢？](sources/132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318.md) — 蜜獾吃书 episode on David McRaney's 《争论与说服》 / How Minds Change, online argument, subjective reality, cognitive inertia, tribal truth, group polarization, ELM, deep canvassing, and naming as social change.
@@ -553,6 +554,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《查令十字街84号》 / 84 Charing Cross Road](entities/EightyFourCharingCrossRoad.md) — Real-letter book used by episode 134 to examine old-book love, cross-Atlantic trust, epistolary friendship, and the limits of calling the relationship romance.
+- [Helene Hanff / 海莲·汉芙](entities/HeleneHanff.md) — American writer and central letter-writer whose old-book requests, wit, parcels, and deferred London visit anchor episode 134.
+- [Frank Doel / 弗兰克·多尔](entities/FrankDoel.md) — Marks & Co. bookseller whose formal care, search labor, and death before meeting Helene give episode 134 its deepest aftertaste.
+- [Marks & Co. / 马克斯与科恩书店](entities/MarksAndCo.md) — London old-book shop at 84 Charing Cross Road that becomes a community, memory site, and bookstore-serendipity case in episode 134.
+- [Nora Doel / 诺拉·多尔](entities/NoraDoel.md) — Frank Doel's wife whose direct correspondence with Helene widens episode 134 from bookseller exchange into family friendship.
+- [Cecily Farr / 西西莉·法尔](entities/CecilyFarr.md) — Marks & Co. staff member whose private letter shows the shop collectively reading and receiving Helene's presence.
 - [文化有限](entities/CultureLimited.md) — Reading-oriented program described by 超哥 as using books to sustain long-term conversation and output-forced input.
 - [果麦文化 / Guomai Culture](entities/GuomaiCulture.md) — Publishing context for 秦总's path from editing anxiety and livestreaming toward reader-facing book media.
 - [罗辑思维](entities/LuojiSiwei.md) — Knowledge-media context in 超哥's path before 《文化有限》 and public reading discussion.
@@ -3676,6 +3683,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Epistolary Friendship / 书信友谊](concepts/EpistolaryFriendship.md) — Relationship form built through repeated letters, delay, tone, address, and composed attention rather than immediate co-presence.
+- [Old Book Materiality / 旧书物质性](concepts/OldBookMateriality.md) — Value of old books as handled objects with paper, binding, marginalia, previous-reader traces, scarcity, and search labor.
+- [Bookstore Serendipity / 书店偶遇感](concepts/BookstoreSerendipity.md) — Discovery value created by physical bookshops, owner taste, local inventory, browsing accidents, and place memory.
+- [Dignity Through Small Gifts / 小礼物中的尊严](concepts/DignityThroughSmallGifts.md) — Pattern where practical gifts preserve beauty, pleasure, reciprocity, and self-respect under constraint.
 - [Book Creator Work](concepts/BookCreatorWork.md) — Labor of turning books into public explanation, recommendation, conversation, or performance under deadlines, media constraints, audience fit, and platform data.
 - [Bridge-Style Reading Content](concepts/BridgeStyleReadingContent.md) — Book talk that helps people approach or resume reading without requiring the creator to perform maximum literary authority.
 - [Algorithmic Anger Engagement](concepts/AlgorithmicAngerEngagement.md) — Platform pattern where interaction optimization rewards familiar topics, outrage, and commentable conflict.

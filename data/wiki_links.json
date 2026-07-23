@@ -175,6 +175,10 @@
     "title": "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义",
     "url": "/wiki/sources/133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110/"
   },
+  "134-chaling-shizi-jie-84-hao-zaici-yuanliang-shijie-de-liyou-821075226": {
+    "title": "134.查令十字街84号：再次原谅世界的理由",
+    "url": "/wiki/sources/134-chaling-shizi-jie-84-hao-zaici-yuanliang-shijie-de-liyou-821075226/"
+  },
   "134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe": {
     "title": "134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe",
     "url": "/wiki/sources/134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe/"
@@ -3355,6 +3359,10 @@
     "title": "Booking Holdings",
     "url": "/wiki/entities/bookingholdings/"
   },
+  "BookstoreSerendipity": {
+    "title": "Bookstore Serendipity / 书店偶遇感",
+    "url": "/wiki/concepts/bookstoreserendipity/"
+  },
   "BoomSupersonic": {
     "title": "Boom Supersonic",
     "url": "/wiki/entities/boomsupersonic/"
@@ -4026,6 +4034,10 @@
   "CausalWorldModels": {
     "title": "Causal World Models",
     "url": "/wiki/concepts/causalworldmodels/"
+  },
+  "CecilyFarr": {
+    "title": "Cecily Farr / 西西莉·法尔",
+    "url": "/wiki/entities/cecilyfarr/"
   },
   "CenterForAIStandardsAndInnovation": {
     "title": "Center for AI Standards and Innovation",
@@ -6139,6 +6151,10 @@
     "title": "体面保护式推理 / Dignity-Protecting Deduction",
     "url": "/wiki/concepts/dignityprotectingdeduction/"
   },
+  "DignityThroughSmallGifts": {
+    "title": "Dignity Through Small Gifts / 小礼物中的尊严",
+    "url": "/wiki/concepts/dignitythroughsmallgifts/"
+  },
   "DimensionalAllegory": {
     "title": "Dimensional Allegory",
     "url": "/wiki/concepts/dimensionalallegory/"
@@ -6787,6 +6803,10 @@
     "title": "《艾希曼在耶路撒冷》 / Eichmann in Jerusalem",
     "url": "/wiki/entities/eichmanninjerusalem/"
   },
+  "EightyFourCharingCrossRoad": {
+    "title": "《查令十字街84号》 / 84 Charing Cross Road",
+    "url": "/wiki/entities/eightyfourcharingcrossroad/"
+  },
   "EkremImamoglu": {
     "title": "Ekrem Imamoglu",
     "url": "/wiki/entities/ekremimamoglu/"
@@ -7054,6 +7074,10 @@
   "EpistemologicalWarfare": {
     "title": "Epistemological Warfare",
     "url": "/wiki/concepts/epistemologicalwarfare/"
+  },
+  "EpistolaryFriendship": {
+    "title": "Epistolary Friendship / 书信友谊",
+    "url": "/wiki/concepts/epistolaryfriendship/"
   },
   "EquityCompensationUpside": {
     "title": "Equity Compensation Upside",
@@ -8130,6 +8154,10 @@
   "FrankCantone": {
     "title": "Frank Cantone",
     "url": "/wiki/entities/frankcantone/"
+  },
+  "FrankDoel": {
+    "title": "Frank Doel / 弗兰克·多尔",
+    "url": "/wiki/entities/frankdoel/"
   },
   "Frankenstein": {
     "title": "Frankenstein / 《弗兰肯斯坦》",
@@ -9414,6 +9442,10 @@
   "HelenOfTroy": {
     "title": "Helen of Troy",
     "url": "/wiki/entities/helenoftroy/"
+  },
+  "HeleneHanff": {
+    "title": "Helene Hanff / 海莲·汉芙",
+    "url": "/wiki/entities/helenehanff/"
   },
   "HelicopterParenting": {
     "title": "Helicopter Parenting",
@@ -13167,6 +13199,10 @@
     "title": "Marketplace Tech",
     "url": "/wiki/entities/marketplacetech/"
   },
+  "MarksAndCo": {
+    "title": "Marks & Co. / 马克斯与科恩书店",
+    "url": "/wiki/entities/marksandco/"
+  },
   "MarriageExitFriction": {
     "title": "Marriage Exit Friction",
     "url": "/wiki/concepts/marriageexitfriction/"
@@ -14583,6 +14619,10 @@
     "title": "Noora Health",
     "url": "/wiki/entities/noorahealth/"
   },
+  "NoraDoel": {
+    "title": "Nora Doel / 诺拉·多尔",
+    "url": "/wiki/entities/noradoel/"
+  },
   "NorthKorea": {
     "title": "North Korea",
     "url": "/wiki/entities/northkorea/"
@@ -14750,6 +14790,10 @@
   "Okhotsk": {
     "title": "Okhotsk / 鄂霍次克",
     "url": "/wiki/entities/okhotsk/"
+  },
+  "OldBookMateriality": {
+    "title": "Old Book Materiality / 旧书物质性",
+    "url": "/wiki/concepts/oldbookmateriality/"
   },
   "OlgaTokarczuk": {
     "title": "Olga Tokarczuk / 托卡尔丘克",

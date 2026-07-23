@@ -2,7 +2,7 @@
 title: "Reading As Life Experience"
 type: concept
 tags: [reading, literature, attention, life-practice]
-sources: [sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, zhongqiu-kuaile-669967741, 66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536, 168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
+sources: [134-chaling-shizi-jie-84-hao-zaici-yuanliang-shijie-de-liyou-821075226, sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, zhongqiu-kuaile-669967741, 66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536, 168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, jiaqi-moyu-geng-jiankang-574391976, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098, 52-hao-ai-gaomu-zhizi-xiangei-zhengzai-dapin-de-ni-634050956, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
 last_updated: 2026-07-24
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-24
 Reading as life experience is the view that reading is not only information transfer, frame extraction, or cultural capital, but a lived practice shaped by body, memory, mood, timing, family, and daily objects. In [[49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]], [[QinZong|秦总]] and [[LiWuya|李乌鸦]] discuss reading through embarrassment, forgetting, posture, paper, drinking, childhood prohibition, and the books one dares or does not dare to enter.
 
 [[sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708]] adds the creator-life version. [[QinZong|秦总]], [[LiWuya|李乌鸦]], and [[ChaoGe|超哥]] discuss reading as work material, self-regulation, deadline pressure, entertainment, and memory work. The source turns reading into both [[ReadingAsCognitiveRestoration]] and [[BookAsGraveMemoryWork]]: a book can train attention in the present while also acting as a place to return to past connections.
+
+[[134-chaling-shizi-jie-84-hao-zaici-yuanliang-shijie-de-liyou-821075226]] adds an old-book and correspondence version through [[EightyFourCharingCrossRoad|《查令十字街84号》]]. Reading becomes life experience when a wanted book arrives through [[MarksAndCo|a shop]], [[FrankDoel|a bookseller]], a parcel, a letter, a balance entry, and a delayed visit that never quite happens. The source makes physical books, addresses, gifts, and waiting part of the reading experience rather than decoration around it.
 
 This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A book can train a frame, but whether it reaches the reader depends on how it is held, where it is read, whether the reader is emotionally ready, and what surrounding household or social atmosphere has made books feel like permission, display, burden, or refuge.
 
@@ -66,6 +68,7 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 - A mystery can become life experience when its clues reopen concrete adolescent memories of food, money, school routes, status objects, and friendship.
 - Holiday reading can become life experience when book choice follows travel plans, rest constraints, seasonal food, and the desire to notice place more carefully.
 - Rereading can turn a once-thin youth novel into life experience when the reader has lived the emotional interval the book was naming.
+- Old books can become life experience when their physical traces, search labor, correspondence, and delayed arrival connect the reader to real people and places.
 - Reading can be cognitive restoration and memory return at once: the reader may not retain all content, but attention, mood, and relation to earlier selves can still change.
 
 ## Connections
@@ -90,3 +93,4 @@ This complements [[ReadingAsFrameTraining]] by adding the reader's situation. A 
 - [[TankaEverydayExpression]], [[IshikawaTakuboku|石川啄木]], and [[LiveHumanFeeling]] - short-song and public-vulnerability extension.
 - [[FangxuehouDeXiaoxiang|《放学后的小巷》]], [[DailyLifeMystery|日常推理]], and [[SchoolAreaMemoryEcology|放学后记忆生态]] - episode 168's school-memory mystery extension.
 - [[ReadingAsCognitiveRestoration]], [[BookAsGraveMemoryWork]], and [[BookCreatorWork]] - sp.06 extension into reading as creator labor, attention repair, and return to the past.
+- [[EightyFourCharingCrossRoad|《查令十字街84号》]], [[OldBookMateriality]], [[EpistolaryFriendship]], and [[BookstoreSerendipity]] - episode 134 extension into books as objects, letters, shops, and missed arrivals.
