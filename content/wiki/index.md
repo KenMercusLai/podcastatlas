@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [106.别再害怕冲突，快来学习谈判术！](sources/106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645.md) — 蜜獾吃书 episode on negotiation as learnable bargaining, BATNA, reservation value, anchoring, concessions, multi-issue trades, contingent agreements, and cognitive biases in conflict.
 - [105.苏东坡：一腔豪迈之气，一肚皮不合时宜](sources/105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645.md) — 蜜獾吃书 episode on Su Shi/Su Dongpo, Three Su family formation, Wang Anshi's reforms, Song factional politics, the Wutai Poetry Case, Huangzhou exile, Red Cliff works, Hangzhou/Xuzhou public works, and earned optimism.
 - [104.你一生的故事：终点已经注定，还要出发吗？](sources/104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680.md) — 蜜獾吃书 episode on Ted Chiang, 《你一生的故事》, 《降临》, heptapod language, Fermat's principle, nonlinear time, free will, mathematical collapse, fixed time loops, and consciousness.
 - [103.她是刺穿夜雾的光，她是汉娜·阿伦特](sources/103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789.md) — 蜜獾吃书 episode on Hannah Arendt, Love and Evil, Heidegger/Jaspers, exile, Eichmann in Jerusalem, Jewish Councils, banality of evil, and responsibility under institutionalized evil.
@@ -527,6 +528,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《哈佛经典谈判术》](entities/HarvardClassicNegotiation.md) — Book used by 蜜獾吃书 to frame negotiation as learnable preparation, information discovery, value creation, and bias management.
+- [Deepak Malhotra / 马尔霍特拉](entities/DeepakMalhotra.md) — Negotiation scholar named as an author of 《哈佛经典谈判术》.
+- [Max Bazerman / 马克斯·巴兹曼](entities/MaxBazerman.md) — Behavioral decision and negotiation scholar named as an author of 《哈佛经典谈判术》.
+- [Theodore Roosevelt / 西奥多·罗斯福](entities/TheodoreRoosevelt.md) — U.S. presidential candidate appearing through the 1912 campaign-photo negotiation case.
+- [Albert Einstein / 阿尔伯特·爱因斯坦](entities/AlbertEinstein.md) — Physicist appearing in the episode's example of salary generosity and long-term trust.
+- [Institute for Advanced Study / 普林斯顿高等研究院](entities/InstituteForAdvancedStudy.md) — Research institution used in the episode's Einstein salary and relationship-trust example.
+- [National Hockey League / NHL](entities/NationalHockeyLeague.md) — Hockey league used in the source's zero-sum and escalation case.
+- [NHL Players' Association / NHLPA](entities/NHLPlayersAssociation.md) — Player union in the source's 2004 hockey labor-dispute example.
 - [苏轼 / Su Shi / Su Dongpo](entities/SuShi.md) — Song writer-official read through flawed humanity, factional danger, exile, local service, and earned optimism.
 - [苏洵 / Su Xun](entities/SuXun.md) — Su family elder whose cautious naming and literary household frame Su Shi and Su Zhe's later public risks.
 - [苏辙 / Su Zhe](entities/SuZhe.md) — Su Shi's brother and fellow official, used by the episode to ground family loyalty and shared political exposure.
@@ -3446,6 +3455,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Negotiation As Bargaining / 谈判即商量](concepts/NegotiationAsBargaining.md) — Frame that treats negotiation as learnable interest exchange and calculable conflict handling.
+- [BATNA / Best Alternative to a Negotiated Agreement](concepts/BATNA.md) — Best no-deal alternative used to ground negotiation leverage and bottom lines.
+- [Reservation Value / 谈判底线](concepts/ReservationValue.md) — Bottom line derived from BATNA rather than emotion, sunk cost, or vague fairness.
+- [Zone Of Possible Agreement / 协议区间](concepts/ZoneOfPossibleAgreement.md) — Estimated range between parties' acceptable bottom lines where a deal can exist.
+- [Anchoring Effect / 锚定效应](concepts/AnchoringEffect.md) — First-number or salient-reference bias that shapes later negotiation judgment.
+- [Concession Signaling / 让步信号](concepts/ConcessionSignaling.md) — Information and reciprocity pressure carried by labelled concessions and concession size.
+- [Multi-Issue Negotiation / 多议题谈判](concepts/MultiIssueNegotiation.md) — Bundling multiple interests so parties can trade priorities and create value.
+- [Contingent Agreement / 权变协议](concepts/ContingentAgreement.md) — Conditional deal structure that allocates uncertainty through future observable outcomes.
+- [Zero-Sum Bias / 零和偏误](concepts/ZeroSumBias.md) — Assumption that the other side's gain must be one's loss, blocking value creation.
+- [Escalation Of Commitment / 非理性投入升级](concepts/EscalationOfCommitment.md) — Continuing a losing conflict because stopping would admit prior loss.
+- [Framing Effect / 表述框架效应](concepts/FramingEffect.md) — Gain-versus-loss presentation effect that changes risk appetite in negotiation.
+- [Motivated Bias / 动机偏差](concepts/MotivatedBias.md) — Self-serving interpretation and overconfidence that distort negotiation judgment.
+- [Interest-Based Negotiation / 利益导向谈判](concepts/InterestBasedNegotiation.md) — Asking why to uncover the needs behind stated demands and create tradable issues.
 - [Earned Optimism / 走出来的乐天](concepts/EarnedOptimism.md) — Reading of Su Dongpo's optimism as resilience formed through fear, exile, grief, and continued action.
 - [Conscience Over Faction / 良知高于党派](concepts/ConscienceOverFaction.md) — Frame for Su Shi's refusal to align fully with either reformers or old-party retaliation when conscience disagreed.
 - [Scholar-Official Public Duty / 士大夫公共责任](concepts/ScholarOfficialPublicDuty.md) — Concept linking literary talent with practical public service in Su Shi's career.

@@ -4243,3 +4243,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-24] report | Graph health report generated
 
 5641 nodes analyzed.
+
+## [2026-07-24] ingest | 106.别再害怕冲突，快来学习谈判术！
+
+Added source page for a 蜜獾吃书 episode in which 秦总 recommends 《哈佛经典谈判术》 and reframes negotiation as learnable "商量" rather than talent, obedience, or emotional fighting. Created pages for 《哈佛经典谈判术》, Deepak Malhotra, Max Bazerman, Theodore Roosevelt, Albert Einstein, Institute for Advanced Study, National Hockey League, NHL Players' Association, Negotiation As Bargaining, BATNA, Reservation Value, Zone Of Possible Agreement, Anchoring Effect, Concession Signaling, Multi-Issue Negotiation, Contingent Agreement, Zero-Sum Bias, Escalation Of Commitment, Framing Effect, Motivated Bias, and Interest-Based Negotiation; updated overview, index, 蜜獾吃书, 秦总, Game Theory, Sports Collective Bargaining, Strike Threat as BATNA, Data-Backed Labor Bargaining, Cost-Benefit Thinking, Opportunity Cost, Communication Boundary Setting, and Action Against Anxiety. No direct contradiction found; the source extends the wiki's labor-bargaining and life-design material by making conflict calculable through alternatives, bottom lines, interests, and bias controls.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

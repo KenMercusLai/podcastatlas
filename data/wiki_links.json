@@ -43,6 +43,10 @@
     "title": "105.苏东坡：一腔豪迈之气，一肚皮不合时宜",
     "url": "/wiki/sources/105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645/"
   },
+  "106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645": {
+    "title": "106.别再害怕冲突，快来学习谈判术！",
+    "url": "/wiki/sources/106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645/"
+  },
   "107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818": {
     "title": "107.闲聊伟大导演们的八卦（第一弹）",
     "url": "/wiki/sources/107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818/"
@@ -1659,6 +1663,10 @@
     "title": "Alan Turing / 图灵",
     "url": "/wiki/entities/alanturing/"
   },
+  "AlbertEinstein": {
+    "title": "Albert Einstein / 阿尔伯特·爱因斯坦",
+    "url": "/wiki/entities/alberteinstein/"
+  },
   "Aldhani": {
     "title": "Aldhani",
     "url": "/wiki/entities/aldhani/"
@@ -1946,6 +1954,10 @@
   "Ancestrality": {
     "title": "Ancestrality",
     "url": "/wiki/concepts/ancestrality/"
+  },
+  "AnchoringEffect": {
+    "title": "Anchoring Effect / 锚定效应",
+    "url": "/wiki/concepts/anchoringeffect/"
   },
   "Andor": {
     "title": "《安多》 / Andor",
@@ -2586,6 +2598,10 @@
   "BASF": {
     "title": "BASF",
     "url": "/wiki/entities/basf/"
+  },
+  "BATNA": {
+    "title": "BATNA / Best Alternative to a Negotiated Agreement",
+    "url": "/wiki/concepts/batna/"
   },
   "BBC": {
     "title": "BBC",
@@ -4583,6 +4599,10 @@
     "title": "Concert Residency Economics",
     "url": "/wiki/concepts/concertresidencyeconomics/"
   },
+  "ConcessionSignaling": {
+    "title": "Concession Signaling / 让步信号",
+    "url": "/wiki/concepts/concessionsignaling/"
+  },
   "ConcreteFilledWallSystems": {
     "title": "Concrete-Filled Wall Systems",
     "url": "/wiki/concepts/concretefilledwallsystems/"
@@ -4726,6 +4746,10 @@
   "ContextFlywheel": {
     "title": "Context Flywheel",
     "url": "/wiki/concepts/contextflywheel/"
+  },
+  "ContingentAgreement": {
+    "title": "Contingent Agreement / 权变协议",
+    "url": "/wiki/concepts/contingentagreement/"
   },
   "ContinualLearning": {
     "title": "Continual Learning",
@@ -5458,6 +5482,10 @@
   "DeepTechProductFocus": {
     "title": "Deep-Tech Product Focus",
     "url": "/wiki/concepts/deeptechproductfocus/"
+  },
+  "DeepakMalhotra": {
+    "title": "Deepak Malhotra / 马尔霍特拉",
+    "url": "/wiki/entities/deepakmalhotra/"
   },
   "Deepin": {
     "title": "Deepin",
@@ -6567,6 +6595,10 @@
     "title": "Ernest Hemingway / 海明威",
     "url": "/wiki/entities/ernesthemingway/"
   },
+  "EscalationOfCommitment": {
+    "title": "Escalation Of Commitment / 非理性投入升级",
+    "url": "/wiki/concepts/escalationofcommitment/"
+  },
   "EscapeMyBubble": {
     "title": "Escape My Bubble",
     "url": "/wiki/entities/escapemybubble/"
@@ -7506,6 +7538,10 @@
   "FrameworkLedSaaS": {
     "title": "Framework-Led SaaS",
     "url": "/wiki/concepts/frameworkledsaas/"
+  },
+  "FramingEffect": {
+    "title": "Framing Effect / 表述框架效应",
+    "url": "/wiki/concepts/framingeffect/"
   },
   "France": {
     "title": "France",
@@ -8639,6 +8675,10 @@
     "title": "Harry Styles",
     "url": "/wiki/entities/harrystyles/"
   },
+  "HarvardClassicNegotiation": {
+    "title": "《哈佛经典谈判术》",
+    "url": "/wiki/entities/harvardclassicnegotiation/"
+  },
   "Harvey": {
     "title": "Harvey",
     "url": "/wiki/entities/harvey/"
@@ -9511,6 +9551,10 @@
     "title": "Instant Retail",
     "url": "/wiki/concepts/instantretail/"
   },
+  "InstituteForAdvancedStudy": {
+    "title": "Institute for Advanced Study / 普林斯顿高等研究院",
+    "url": "/wiki/entities/instituteforadvancedstudy/"
+  },
   "InstituteForScienceAndInternationalSecurity": {
     "title": "Institute for Science and International Security",
     "url": "/wiki/entities/instituteforscienceandinternationalsecurity/"
@@ -9586,6 +9630,10 @@
   "InteractiveTheoremProving": {
     "title": "Interactive Theorem Proving",
     "url": "/wiki/concepts/interactivetheoremproving/"
+  },
+  "InterestBasedNegotiation": {
+    "title": "Interest-Based Negotiation / 利益导向谈判",
+    "url": "/wiki/concepts/interestbasednegotiation/"
   },
   "InterleavedThinking": {
     "title": "Interleaved Thinking",
@@ -12283,6 +12331,10 @@
     "title": "Mawu-Lisa",
     "url": "/wiki/entities/mawulisa/"
   },
+  "MaxBazerman": {
+    "title": "Max Bazerman / 马克斯·巴兹曼",
+    "url": "/wiki/entities/maxbazerman/"
+  },
   "MaxineClark": {
     "title": "Maxine Clark",
     "url": "/wiki/entities/maxineclark/"
@@ -12991,6 +13043,10 @@
     "title": "Motion Smoothing",
     "url": "/wiki/concepts/motionsmoothing/"
   },
+  "MotivatedBias": {
+    "title": "Motivated Bias / 动机偏差",
+    "url": "/wiki/concepts/motivatedbias/"
+  },
   "Motorola": {
     "title": "Motorola",
     "url": "/wiki/entities/motorola/"
@@ -13030,6 +13086,10 @@
   "MultiCard": {
     "title": "MultiCard",
     "url": "/wiki/entities/multicard/"
+  },
+  "MultiIssueNegotiation": {
+    "title": "Multi-Issue Negotiation / 多议题谈判",
+    "url": "/wiki/concepts/multiissuenegotiation/"
   },
   "MultiPerspectiveMurderNarration": {
     "title": "Multi-Perspective Murder Narration",
@@ -13127,6 +13187,10 @@
     "title": "NATO Alliance Credibility",
     "url": "/wiki/concepts/natoalliancecredibility/"
   },
+  "NHLPlayersAssociation": {
+    "title": "NHL Players' Association / NHLPA",
+    "url": "/wiki/entities/nhlplayersassociation/"
+  },
   "NISA": {
     "title": "NISA",
     "url": "/wiki/concepts/nisa/"
@@ -13219,6 +13283,10 @@
     "title": "National Goods Branding",
     "url": "/wiki/concepts/nationalgoodsbranding/"
   },
+  "NationalHockeyLeague": {
+    "title": "National Hockey League / NHL",
+    "url": "/wiki/entities/nationalhockeyleague/"
+  },
   "NationalInformaticsCentre": {
     "title": "National Informatics Centre",
     "url": "/wiki/entities/nationalinformaticscentre/"
@@ -13282,6 +13350,10 @@
   "NearMissDesign": {
     "title": "Near-Miss Design",
     "url": "/wiki/concepts/nearmissdesign/"
+  },
+  "NegotiationAsBargaining": {
+    "title": "Negotiation As Bargaining / 谈判即商量",
+    "url": "/wiki/concepts/negotiationasbargaining/"
   },
   "NeighborhoodOpportunityAccess": {
     "title": "Neighborhood Opportunity Access",
@@ -15758,6 +15830,10 @@
   "ResearchTaste": {
     "title": "Research Taste",
     "url": "/wiki/concepts/researchtaste/"
+  },
+  "ReservationValue": {
+    "title": "Reservation Value / 谈判底线",
+    "url": "/wiki/concepts/reservationvalue/"
   },
   "ReserveBankOfNewZealand": {
     "title": "Reserve Bank of New Zealand",
@@ -18587,6 +18663,10 @@
     "title": "Theme Park As Media Platform",
     "url": "/wiki/concepts/themeparkasmediaplatform/"
   },
+  "TheodoreRoosevelt": {
+    "title": "Theodore Roosevelt / 西奥多·罗斯福",
+    "url": "/wiki/entities/theodoreroosevelt/"
+  },
   "Theranos": {
     "title": "Theranos",
     "url": "/wiki/entities/theranos/"
@@ -20763,6 +20843,10 @@
     "title": "《0.5 的男人》 / 0.5 no Otoko",
     "url": "/wiki/entities/zeropointfivenootoko/"
   },
+  "ZeroSumBias": {
+    "title": "Zero-Sum Bias / 零和偏误",
+    "url": "/wiki/concepts/zerosumbias/"
+  },
   "ZeroTrustSecurity": {
     "title": "Zero Trust Security",
     "url": "/wiki/concepts/zerotrustsecurity/"
@@ -21006,6 +21090,10 @@
   "ZonaFrancaDeManaus": {
     "title": "Zona Franca de Manaus",
     "url": "/wiki/entities/zonafrancademanaus/"
+  },
+  "ZoneOfPossibleAgreement": {
+    "title": "Zone Of Possible Agreement / 协议区间",
+    "url": "/wiki/concepts/zoneofpossibleagreement/"
   },
   "ZouXikouMigration": {
     "title": "Zou Xikou Migration",
