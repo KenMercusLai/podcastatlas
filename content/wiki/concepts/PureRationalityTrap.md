@@ -2,7 +2,7 @@
 title: "Pure Rationality Trap"
 type: concept
 tags: [philosophy, literature, politics, rationality]
-sources: [51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680]
+sources: [135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680]
 last_updated: 2026-07-24
 ---
 
@@ -16,6 +16,8 @@ The trap becomes visible through [[LemuelGulliver]]. After admiring the Houyhnhn
 
 [[104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680]] adds a related but distinct Chiang version through [[DivisionByZero|《除以零》]] and [[UnderstandTedChiang|《领悟》]]. Here reason is not merely cold; it can become destabilizing when mathematics, consciousness, or superior intelligence reaches a truth the rest of a human life cannot absorb.
 
+[[135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670]] adds an [[AynRand|Ayn Rand / 安·兰德]] version through [[Objectivism|Objectivism / 客观主义]]. The source treats rational self-interest as potentially energizing, but warns that purified doctrine can become cruel or controlling when it cuts away ordinary love, jealousy, dependency, and responsibility.
+
 ## Key Claims
 - Reason without human warmth can become another form of cruelty.
 - A society can be truthful, calm, and orderly while still lacking mercy and ordinary attachment.
@@ -23,6 +25,7 @@ The trap becomes visible through [[LemuelGulliver]]. After admiring the Houyhnhn
 - Human beings are mixed creatures; trying to become gods or animals can both miss the human condition.
 - Corporate reason can become an idol when it turns people into managed roles while calling the system rational.
 - Rational breakthrough can also isolate the thinker when the discovered truth cannot be shared, lived with, or translated back into ordinary attachment.
+- Rational self-interest can become a trap when followers treat it as a complete life doctrine rather than one limited tool.
 
 ## Connections
 - [[Houyhnhnms|慧骃]] - main fictional society.
@@ -33,3 +36,4 @@ The trap becomes visible through [[LemuelGulliver]]. After admiring the Houyhnhn
 - [[NonInstrumentalLiteraryReading]] - the concept depends on experiencing the fourth voyage's discomfort rather than extracting a simple moral.
 - [[PhilosophyWorkplaceSatire]] and [[CorporateTheologyCapitalControl]] - source-92 workplace extensions.
 - [[DivisionByZero|《除以零》]], [[UnderstandTedChiang|《领悟》]], and [[RationalWorldviewCollapse]] - source-104 extension into mathematical and consciousness crises.
+- [[AynRand]], [[Objectivism]], and [[IdeologicalTotalizationRisk]] - source-135 extension into rational self-interest as doctrine.

@@ -2,8 +2,8 @@
 title: "Louisa May Alcott / 奥尔科特"
 type: entity
 tags: [writer, literature, biography, gothic-fiction]
-sources: [60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]
-last_updated: 2026-07-14
+sources: [135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]
+last_updated: 2026-07-24
 ---
 
 # Louisa May Alcott / 奥尔科特
@@ -14,9 +14,12 @@ Alcott extends [[AuthorMythDeflation]] because the author image attached to a be
 
 Her childhood admiration for [[HenryDavidThoreau|Henry David Thoreau / 梭罗]] gives the source a second use for Alcott: personal charm and literary influence are not exhausted by appearance, hygiene, or public polish.
 
+[[135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670]] adds a reception-history mention. The source says Alcott criticized [[HuckleberryFinn|Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》]] as vulgar and racially biased, making her a small bridge between the first great-writer gossip installment and the Twain section of the third.
+
 ## Connections
 - [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]] - source episode.
 - [[LittleWomen|Little Women / 小妇人]] - famous work whose author image the episode complicates.
 - [[HenryDavidThoreau|Henry David Thoreau / 梭罗]] - neighbor and youthful object of admiration.
 - [[AuthorMythDeflation]] - writer's preferred work and public image diverge.
 - [[ClassicReadingComplexity]] and [[NonInstrumentalLiteraryReading]] - adjacent reading frames for canonical and childhood-associated literature.
+- [[HuckleberryFinn|Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》]] - episode-135 reception-history connection.

@@ -2,7 +2,7 @@
 title: "Rational Humility"
 type: concept
 tags: [reasoning, science, evidence, epistemology]
-sources: [132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 174-du-dikaer-shi-jian-dashi-966856702, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
+sources: [135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 174-du-dikaer-shi-jian-dashi-966856702, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
 last_updated: 2026-07-24
 ---
 
@@ -30,6 +30,8 @@ The episode treats this as Eco's correction to detective and scientific arroganc
 
 [[119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087]] adds an end-of-life ethics version through [[EuthanasiaUncertaintyStance]]. The host's final "不知道" is presented as a hard-won position after concrete cases, not as avoidance: autonomy, suffering, family grief, depression, medical responsibility, legal safeguards, and treatment uncertainty each remain partly compelling.
 
+[[135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670]] adds an anti-ideological version. The source's closing warning against any "ism" as a master key connects rational humility to [[IdeologicalTotalizationRisk]]: abstractions help thinking only while they remain open to lived contradiction, evidence, and human feeling.
+
 ## Key Claims
 - Guessing is not the enemy of reason when guesses remain open to correction.
 - A good explanation must survive evidence, chronology, and rival hypotheses, not only feel elegant.
@@ -43,6 +45,7 @@ The episode treats this as Eco's correction to detective and scientific arroganc
 - Cross-cultural humility should slow overconfident judgment while still preserving accountability for concrete harm.
 - Dissent humility means admitting that one's own confidence may be a product of group comfort, status, authority, or familiar stories.
 - Assisted-death humility adds that the more irreversible the decision, the more careful judgment must be about facts, alternatives, language, and the observer's distance from the actual pain.
+- Anti-doctrine humility adds that a coherent philosophy can still be incomplete when tested by relationships, politics, and ordinary life.
 
 ## Connections
 - [[ReneDescartes]], [[MethodicDoubt]], [[CogitoErgoSum]], and [[RationalistMethod]] - Descartes branch that clarifies foundation-seeking versus total certainty.
@@ -58,3 +61,4 @@ The episode treats this as Eco's correction to detective and scientific arroganc
 - [[CulturalRelativismVictimProtectionBoundary]], [[AnthropologyFieldworkSafety]], and [[VictimBlamingAsInstitutionalDefense]] - episode 113's anthropology and victim-protection extension.
 - [[StatusQuoRationalization]], [[ConstructiveDissent]], and [[PrincipledDisobedience]] - dissent and bias-correction extension from episode 116.
 - [[EuthanasiaUncertaintyStance]], [[CrossCulturalAssistedDeathEthics]], and [[AssistedDeathClinicalResponsibility]] - end-of-life ethics extension from episode 119.
+- [[IdeologicalTotalizationRisk]], [[Objectivism]], and [[Existentialism]] - episode-135 extension into the limits of doctrine.

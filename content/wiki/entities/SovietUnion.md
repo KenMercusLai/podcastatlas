@@ -2,8 +2,8 @@
 title: "Soviet Union"
 type: entity
 tags: [state, socialism, energy, trade, history]
-sources: [dark-times-for-cubas-economic-experiment]
-last_updated: 2026-07-23
+sources: [135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, dark-times-for-cubas-economic-experiment]
+last_updated: 2026-07-24
 ---
 
 # Soviet Union
@@ -12,8 +12,11 @@ The Soviet Union appears in [[dark-times-for-cubas-economic-experiment]] as [[Cu
 
 The Soviet collapse in 1991 becomes the first major test of [[ExternalPatronDependence]]. The source says Cuba's GDP fell by 35%, food became scarcer, and the Special Period began after cheap oil and favorable trade terms disappeared.
 
+[[135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670]] adds a literary-intellectual politics mention. The source criticizes [[JeanPaulSartre|Jean-Paul Sartre / 萨特]] for loving or defending the Soviet side while staying silent about abuses suffered by left-wing comrades, making the Soviet Union part of the episode's [[IdeologicalTotalizationRisk]] branch.
+
 ## Connections
 - [[Cuba]] and [[FidelCastro]] - country and revolutionary context.
 - [[ExternalPatronDependence]] - main concept illustrated by Soviet support and collapse.
 - [[OilDependencyBlackoutRisk]] - later energy-vulnerability pattern foreshadowed by the loss of cheap Soviet oil.
 - [[Venezuela]] - later oil lifeline that partially replaced Soviet support in the episode's history.
+- [[JeanPaulSartre]] and [[IdeologicalTotalizationRisk]] - episode-135 intellectual-politics connection.

@@ -187,6 +187,10 @@
     "title": "135. 和自然选择创始人Tristan聊，Elys、赛博分身、灵魂、Context的获取与流动和AI社交网络",
     "url": "/wiki/sources/135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty/"
   },
+  "135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670": {
+    "title": "135.闲聊伟大作家们的八卦（第三弹）",
+    "url": "/wiki/sources/135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670/"
+  },
   "136-chunri-mingmei-liaoliao-guishen-827911486": {
     "title": "136. 春日明媚，聊聊鬼神",
     "url": "/wiki/sources/136-chunri-mingmei-liaoliao-guishen-827911486/"
@@ -1823,6 +1827,10 @@
     "title": "Alex Zhu",
     "url": "/wiki/entities/alexzhu/"
   },
+  "AlexanderGrahamBell": {
+    "title": "Alexander Graham Bell / 亚历山大·格雷厄姆·贝尔",
+    "url": "/wiki/entities/alexandergrahambell/"
+  },
   "AlexanderHamilton": {
     "title": "Alexander Hamilton",
     "url": "/wiki/entities/alexanderhamilton/"
@@ -1982,6 +1990,10 @@
   "AmazonWebServices": {
     "title": "Amazon Web Services",
     "url": "/wiki/entities/amazonwebservices/"
+  },
+  "AmberReeves": {
+    "title": "Amber Reeves / 安伯·里夫斯",
+    "url": "/wiki/entities/amberreeves/"
   },
   "AmbientAIInterface": {
     "title": "Ambient AI Interface",
@@ -2739,6 +2751,10 @@
     "title": "Aye-Aye / 爱爱狐猴",
     "url": "/wiki/entities/ayeaye/"
   },
+  "AynRand": {
+    "title": "Ayn Rand / 安·兰德",
+    "url": "/wiki/entities/aynrand/"
+  },
   "AyshaAkhtar": {
     "title": "Aysha Akhtar / 阿依莎·阿赫塔",
     "url": "/wiki/entities/ayshaakhtar/"
@@ -3034,6 +3050,10 @@
   "Beimin": {
     "title": "北明 / 北民",
     "url": "/wiki/entities/beimin/"
+  },
+  "BeingAndNothingness": {
+    "title": "Being and Nothingness / 《存在与虚无》",
+    "url": "/wiki/entities/beingandnothingness/"
   },
   "BeipingOfficeWorld": {
     "title": "Beiping Office World",
@@ -7247,6 +7267,10 @@
     "title": "Executive Power Precedent",
     "url": "/wiki/concepts/executivepowerprecedent/"
   },
+  "Existentialism": {
+    "title": "Existentialism / 存在主义",
+    "url": "/wiki/concepts/existentialism/"
+  },
   "Existutions": {
     "title": "Existutions",
     "url": "/wiki/concepts/existutions/"
@@ -8187,6 +8211,10 @@
     "title": "Free Cash Flow Indexing",
     "url": "/wiki/concepts/freecashflowindexing/"
   },
+  "FreeLovePracticeGap": {
+    "title": "Free Love Practice Gap / 自由恋爱实践落差",
+    "url": "/wiki/concepts/freelovepracticegap/"
+  },
   "FreitBarefoot": {
     "title": "Freit Barefoot",
     "url": "/wiki/entities/freitbarefoot/"
@@ -9115,6 +9143,10 @@
     "title": "H-E-B",
     "url": "/wiki/entities/heb/"
   },
+  "HGWells": {
+    "title": "H. G. Wells / H. G. 威尔斯",
+    "url": "/wiki/entities/hgwells/"
+  },
   "HMOManagedCare": {
     "title": "HMO Managed Care",
     "url": "/wiki/concepts/hmomanagedcare/"
@@ -9951,6 +9983,10 @@
     "title": "Hubei / 湖北",
     "url": "/wiki/entities/hubei/"
   },
+  "HuckleberryFinn": {
+    "title": "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》",
+    "url": "/wiki/entities/huckleberryfinn/"
+  },
   "Huizhou": {
     "title": "惠州 / Huizhou",
     "url": "/wiki/entities/huizhou/"
@@ -10086,6 +10122,10 @@
   "IdeologicalOvercontrol": {
     "title": "Ideological Overcontrol / 意识形态过度控制",
     "url": "/wiki/concepts/ideologicalovercontrol/"
+  },
+  "IdeologicalTotalizationRisk": {
+    "title": "Ideological Totalization Risk / 主义万能钥匙风险",
+    "url": "/wiki/concepts/ideologicaltotalizationrisk/"
   },
   "IfYouCanKeepIt": {
     "title": "If You Can Keep It",
@@ -10555,6 +10595,10 @@
     "title": "Investor Suitability Friction",
     "url": "/wiki/concepts/investorsuitabilityfriction/"
   },
+  "InvisibleManHGWells": {
+    "title": "The Invisible Man / 《隐身人》",
+    "url": "/wiki/entities/invisiblemanhgwells/"
+  },
   "InvisibleTechnologies": {
     "title": "Invisible Technologies",
     "url": "/wiki/entities/invisibletechnologies/"
@@ -10858,6 +10902,10 @@
   "JeanPaulMarat": {
     "title": "Jean-Paul Marat / 让-保罗·马拉",
     "url": "/wiki/entities/jeanpaulmarat/"
+  },
+  "JeanPaulSartre": {
+    "title": "Jean-Paul Sartre / 萨特",
+    "url": "/wiki/entities/jeanpaulsartre/"
   },
   "JedKronfeld": {
     "title": "Jed Kronfeld",
@@ -13159,6 +13207,10 @@
     "title": "Mark Spitznagel",
     "url": "/wiki/entities/markspitznagel/"
   },
+  "MarkTwain": {
+    "title": "Mark Twain / 马克·吐温",
+    "url": "/wiki/entities/marktwain/"
+  },
   "MarkUnderwood": {
     "title": "Mark Underwood",
     "url": "/wiki/entities/markunderwood/"
@@ -13206,6 +13258,10 @@
   "MarriageExitFriction": {
     "title": "Marriage Exit Friction",
     "url": "/wiki/concepts/marriageexitfriction/"
+  },
+  "MarthaGellhorn": {
+    "title": "Martha Gellhorn / 玛莎·盖尔霍恩",
+    "url": "/wiki/entities/marthagellhorn/"
   },
   "MarthaGoddard": {
     "title": "Martha Goddard",
@@ -14135,6 +14191,10 @@
     "title": "Municipal Bitcoin Adoption",
     "url": "/wiki/concepts/municipalbitcoinadoption/"
   },
+  "MuraBudberg": {
+    "title": "Moura Budberg / 穆拉·巴德伯格",
+    "url": "/wiki/entities/murabudberg/"
+  },
   "MurrayDarlingBasin": {
     "title": "Murray-Darling Basin",
     "url": "/wiki/entities/murraydarlingbasin/"
@@ -14278,6 +14338,10 @@
   "NateFoster": {
     "title": "Nate Foster",
     "url": "/wiki/entities/natefoster/"
+  },
+  "NathanielBranden": {
+    "title": "Nathaniel Branden / 纳撒尼尔·布兰登",
+    "url": "/wiki/entities/nathanielbranden/"
   },
   "NationalBasketballAssociation": {
     "title": "National Basketball Association",
@@ -14531,6 +14595,10 @@
     "title": "Nike Vaporfly",
     "url": "/wiki/entities/nikevaporfly/"
   },
+  "NikolaTesla": {
+    "title": "Nikola Tesla / 尼古拉·特斯拉",
+    "url": "/wiki/entities/nikolatesla/"
+  },
   "NinaMiolane": {
     "title": "Nina Miolane",
     "url": "/wiki/entities/ninamiolane/"
@@ -14558,6 +14626,10 @@
   "NoBetterLife": {
     "title": "No Better Life",
     "url": "/wiki/concepts/nobetterlife/"
+  },
+  "NoExit": {
+    "title": "No Exit / 《禁闭》",
+    "url": "/wiki/entities/noexit/"
   },
   "NoPredictionTrading": {
     "title": "No-Prediction Trading",
@@ -14711,6 +14783,10 @@
     "title": "Objective Self-Ownership",
     "url": "/wiki/concepts/objectiveselfownership/"
   },
+  "Objectivism": {
+    "title": "Objectivism / 客观主义",
+    "url": "/wiki/concepts/objectivism/"
+  },
   "ObservationBeforeInference": {
     "title": "Observation Before Inference",
     "url": "/wiki/concepts/observationbeforeinference/"
@@ -14746,6 +14822,10 @@
   "Odysseus": {
     "title": "Odysseus",
     "url": "/wiki/entities/odysseus/"
+  },
+  "OffensiveHumorSpeechSpace": {
+    "title": "Offensive Humor Speech Space / 冒犯性幽默空间",
+    "url": "/wiki/concepts/offensivehumorspeechspace/"
   },
   "OfficeLinkedProfitAccounting": {
     "title": "Office-Linked Profit Accounting",
@@ -16755,6 +16835,10 @@
     "title": "Rebecca Lendl",
     "url": "/wiki/entities/rebeccalendl/"
   },
+  "RebeccaWest": {
+    "title": "Rebecca West / 瑞贝卡·韦斯特",
+    "url": "/wiki/entities/rebeccawest/"
+  },
   "RebelAlliance": {
     "title": "Rebel Alliance",
     "url": "/wiki/entities/rebelalliance/"
@@ -18402,6 +18486,10 @@
   "SimonKuper": {
     "title": "Simon Kuper",
     "url": "/wiki/entities/simonkuper/"
+  },
+  "SimoneDeBeauvoir": {
+    "title": "Simone de Beauvoir / 西蒙娜·德·波伏娃",
+    "url": "/wiki/entities/simonedebeauvoir/"
   },
   "SimplyInsured": {
     "title": "Simply Insured",
@@ -20139,6 +20227,10 @@
     "title": "Tim Harper",
     "url": "/wiki/entities/timharper/"
   },
+  "TimeMachine": {
+    "title": "The Time Machine / 《时间机器》",
+    "url": "/wiki/entities/timemachine/"
+  },
   "TimeStasisSystem": {
     "title": "Time-Stasis System",
     "url": "/wiki/concepts/timestasissystem/"
@@ -21278,6 +21370,10 @@
   "WarOfFaith": {
     "title": "追风者",
     "url": "/wiki/entities/waroffaith/"
+  },
+  "WarOfTheWorlds": {
+    "title": "The War of the Worlds / 《世界大战》",
+    "url": "/wiki/entities/waroftheworlds/"
   },
   "WarVisibilityStrategy": {
     "title": "War Visibility Strategy",

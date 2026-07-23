@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [135.闲聊伟大作家们的八卦（第三弹）](sources/135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670.md) — 蜜獾吃书 episode continuing the great-writer gossip series through Mark Twain, H. G. Wells, Sartre, Ayn Rand, author myth deflation, free-love contradictions, and anti-doctrine caution.
 - [134.查令十字街84号：再次原谅世界的理由](sources/134-chaling-shizi-jie-84-hao-zaici-yuanliang-shijie-de-liyou-821075226.md) — 蜜獾吃书 episode on 《查令十字街84号》, Helene Hanff, Frank Doel, Marks & Co., old books, letter friendship, postwar gifts, dignity, and bookstore serendipity.
 - [sp.06 串台｜和李乌鸦＆超哥 high 聊：做读书博主的“守墓心得”](sources/sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708.md) — 蜜獾吃书 crossover with 李乌鸦 and 超哥 on book creator work, topic choice, platform data, bridge-style reading content, creator confidence, and books as grave-like memory sites.
 - [133. IBM与纳粹：为什么普通人不应赞美鸡贼主义](sources/133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110.md) — 蜜獾吃书 episode on IBM, Dehomag, punched-card administration, Nazi population control, Thomas J. Watson, corporate complicity, Rene Carmille's sabotage, and why ordinary people should not romanticize clever opportunism or appeasement.
@@ -554,6 +555,24 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Mark Twain / 马克·吐温](entities/MarkTwain.md) — American writer discussed by episode 135 through vulgar humor, lecturing, inventions, bankruptcy, Huckleberry Finn controversy, and author myth deflation.
+- [Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》](entities/HuckleberryFinn.md) — Twain work used by episode 135 to connect controversy, banning, racial-language difficulty, and classic reading complexity.
+- [Nikola Tesla / 尼古拉·特斯拉](entities/NikolaTesla.md) — Inventor appearing in episode 135 through his friendship and lab anecdote with Mark Twain.
+- [Alexander Graham Bell / 亚历山大·格雷厄姆·贝尔](entities/AlexanderGrahamBell.md) — Inventor used in episode 135 as Twain's missed telephone investment case.
+- [H. G. Wells / H. G. 威尔斯](entities/HGWells.md) — Science-fiction writer discussed by episode 135 through prediction, socialism, eugenics, pacifism, war imagination, and relationship contradictions.
+- [The Time Machine / 《时间机器》](entities/TimeMachine.md) — H. G. Wells work named by episode 135 as part of his science-fiction founder status.
+- [The War of the Worlds / 《世界大战》](entities/WarOfTheWorlds.md) — H. G. Wells work used by episode 135 to connect science-fiction imagination, war, and pacifist contradiction.
+- [The Invisible Man / 《隐身人》](entities/InvisibleManHGWells.md) — H. G. Wells work named by episode 135 in the science-fiction prediction branch.
+- [Rebecca West / 瑞贝卡·韦斯特](entities/RebeccaWest.md) — Writer named in episode 135 as part of H. G. Wells's relationship branch.
+- [Martha Gellhorn / 玛莎·盖尔霍恩](entities/MarthaGellhorn.md) — Writer and journalist named in episode 135 in relation to H. G. Wells and Hemingway.
+- [Amber Reeves / 安伯·里夫斯](entities/AmberReeves.md) — Central Wells relationship case used by episode 135 to show the gap between free-love doctrine and responsibility.
+- [Moura Budberg / 穆拉·巴德伯格](entities/MuraBudberg.md) — Political and intimate figure in episode 135's Wells branch, tied to Soviet access and manipulation.
+- [Jean-Paul Sartre / 萨特](entities/JeanPaulSartre.md) — Philosopher discussed by episode 135 through existentialism, wartime reputation, left politics, open relationships, and author myth deflation.
+- [Simone de Beauvoir / 西蒙娜·德·波伏娃](entities/SimoneDeBeauvoir.md) — Sartre partner and intellectual-context figure in episode 135's open-relationship branch.
+- [Being and Nothingness / 《存在与虚无》](entities/BeingAndNothingness.md) — Sartre work named by episode 135 in the occupation-era existentialism branch.
+- [No Exit / 《禁闭》](entities/NoExit.md) — Sartre play named by episode 135 in the occupation-era cultural-success branch.
+- [Ayn Rand / 安·兰德](entities/AynRand.md) — Writer and Objectivism figure discussed by episode 135 through rational self-interest, capitalism, political symbolism, and doctrine-practice contradiction.
+- [Nathaniel Branden / 纳撒尼尔·布兰登](entities/NathanielBranden.md) — Ayn Rand disciple and lover used by episode 135 to show a free-love and movement-orthodoxy contradiction.
 - [《查令十字街84号》 / 84 Charing Cross Road](entities/EightyFourCharingCrossRoad.md) — Real-letter book used by episode 134 to examine old-book love, cross-Atlantic trust, epistolary friendship, and the limits of calling the relationship romance.
 - [Helene Hanff / 海莲·汉芙](entities/HeleneHanff.md) — American writer and central letter-writer whose old-book requests, wit, parcels, and deferred London visit anchor episode 134.
 - [Frank Doel / 弗兰克·多尔](entities/FrankDoel.md) — Marks & Co. bookseller whose formal care, search labor, and death before meeting Helene give episode 134 its deepest aftertaste.
@@ -3683,6 +3702,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Objectivism / 客观主义](concepts/Objectivism.md) — Ayn Rand doctrine of rational self-interest and radical individualism treated by episode 135 as motivating but dangerous when totalized.
+- [Existentialism / 存在主义](concepts/Existentialism.md) — Sartre-associated philosophy used by episode 135 to explain postwar meaning-making while deflating the philosopher's public myth.
+- [Free Love Practice Gap / 自由恋爱实践落差](concepts/FreeLovePracticeGap.md) — Gap between romantic-freedom doctrine and real care, jealousy, secrecy, reputation, and power in relationships.
+- [Ideological Totalization Risk / 主义万能钥匙风险](concepts/IdeologicalTotalizationRisk.md) — Risk that an ism becomes a master key that simplifies real people, evidence, feeling, and responsibility.
+- [Offensive Humor Speech Space / 冒犯性幽默空间](concepts/OffensiveHumorSpeechSpace.md) — Cultural room for taboo-breaking humor to function as literary and public speech pressure without treating all offense as valuable.
 - [Epistolary Friendship / 书信友谊](concepts/EpistolaryFriendship.md) — Relationship form built through repeated letters, delay, tone, address, and composed attention rather than immediate co-presence.
 - [Old Book Materiality / 旧书物质性](concepts/OldBookMateriality.md) — Value of old books as handled objects with paper, binding, marginalia, previous-reader traces, scarcity, and search labor.
 - [Bookstore Serendipity / 书店偶遇感](concepts/BookstoreSerendipity.md) — Discovery value created by physical bookshops, owner taste, local inventory, browsing accidents, and place memory.
