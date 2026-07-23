@@ -751,6 +751,7 @@ Added source page for a Keji Luandun episode on Huawei's Tau Law, 3D chip stacki
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 ## [2026-07-17] ingest | Riding with the repo man (update)
 
 Added source page for the Planet Money update on subprime auto lending, auto repossession, car affordability stress, GPS-enabled recovery, and borrower-level crisis when a car loan fails. Created pages for Larry Baker, Stephanie Waldrop, Rick Reichert, Jared Reichert, Subprime Auto Lending, Auto Repossession, Car Affordability Stress, and GPS-Enabled Repossession; updated overview, index, NPR, Planet Money, Consumer Loan Risk, and Personal Credit Record. No direct contradiction found; the source qualifies the wiki's consumer-credit branch by showing that subprime auto loans can provide necessary transportation access while still becoming severe household risk when prices, rates, term length, income shocks, and easy collateral recovery interact.
@@ -4166,6 +4167,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-23] ingest | How to win a penalty shootout (with game theory)
 
 Added source page for a Planet Money episode on soccer penalties as game theory, mixed strategy, Lionel Messi's penalty hook, Ignacio Palacio Huerta's penalty database, Chelsea's 2008 report against Manchester United, Petr Cech's Ronaldo save, Edwin van der Sar's adaptation, and modern penalty reports and simulations. Created pages for Stefan Szymanski, Ignacio Palacio Huerta, Simon Kuper, Petr Cech, Edwin van der Sar, Nicolas Anelka, John Terry, Athletic Bilbao, England National Football Team, Soccernomics, Beautiful Game Theory, Game Theory, Mixed Strategy, Strategic Unpredictability, Data-Driven Penalty Preparation, Penalty Shootout Strategy, and Penalty Shootout Pressure; updated overview, index, NPR, Planet Money, Lionel Messi, Cristiano Ronaldo, Chelsea FC, Manchester United, and FIFA World Cup. No direct contradiction found; the source extends the wiki's football branch from event commercialization and club finance into decision-making under uncertainty.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-23] ingest | Our mission: Find the world's best economic ideas (Summer School World Tour)
+
+Added source page for the Planet Money Summer School episode on Australian water markets, farmer backlash, outside speculation, New Zealand's invention of inflation targeting, and credibility as expectations coordination. Created pages for Robert Smith, Justin Wolfers, Australia, New South Wales, Murray River, Murray-Darling Basin, Carly Marriott, Neil Hughes, Arthur Grimes, Don Brash, Reserve Bank of New Zealand, Water Market Design, Water Rights Trading, Market Speculation, Tragedy of the Commons, Inflation Targeting, and Multiple Equilibria; updated overview, index, NPR, Planet Money, New Zealand, Federal Reserve, Central Bank Independence, and Inflation Bias. No direct contradiction found; the source qualifies market-efficiency and central-bank-credibility themes by showing the distributional costs of both water trading and disinflation.
 
 ## [2026-07-23] lint | Wiki health check
 

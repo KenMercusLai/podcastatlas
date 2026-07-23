@@ -2267,6 +2267,10 @@
     "title": "Arthur Conan Doyle / 柯南道尔",
     "url": "/wiki/entities/arthurconandoyle/"
   },
+  "ArthurGrimes": {
+    "title": "Arthur Grimes",
+    "url": "/wiki/entities/arthurgrimes/"
+  },
   "ArthurSchopenhauer": {
     "title": "Arthur Schopenhauer / 叔本华",
     "url": "/wiki/entities/arthurschopenhauer/"
@@ -2386,6 +2390,10 @@
   "AugustDerleth": {
     "title": "August Derleth / 阿古斯特·德雷斯",
     "url": "/wiki/entities/augustderleth/"
+  },
+  "Australia": {
+    "title": "Australia",
+    "url": "/wiki/entities/australia/"
   },
   "AuteurTheory": {
     "title": "Auteur Theory",
@@ -3578,6 +3586,10 @@
   "CarlotaPerez": {
     "title": "Carlota Perez",
     "url": "/wiki/entities/carlotaperez/"
+  },
+  "CarlyMarriott": {
+    "title": "Carly Marriott",
+    "url": "/wiki/entities/carlymarriott/"
   },
   "CarlyUrban": {
     "title": "Carly Urban",
@@ -5782,6 +5794,10 @@
   "DominiqueBaker": {
     "title": "Dominique Baker",
     "url": "/wiki/entities/dominiquebaker/"
+  },
+  "DonBrash": {
+    "title": "Don Brash",
+    "url": "/wiki/entities/donbrash/"
   },
   "DonValentine": {
     "title": "Don Valentine",
@@ -9271,6 +9287,10 @@
     "title": "Inflation Bias",
     "url": "/wiki/concepts/inflationbias/"
   },
+  "InflationTargeting": {
+    "title": "Inflation Targeting",
+    "url": "/wiki/concepts/inflationtargeting/"
+  },
   "Infogami": {
     "title": "Infogami",
     "url": "/wiki/entities/infogami/"
@@ -10242,6 +10262,10 @@
   "JustinTV": {
     "title": "Justin.tv",
     "url": "/wiki/entities/justintv/"
+  },
+  "JustinWolfers": {
+    "title": "Justin Wolfers",
+    "url": "/wiki/entities/justinwolfers/"
   },
   "JustinYan": {
     "title": "Justin Yan",
@@ -11867,6 +11891,10 @@
     "title": "Market Regime Shift",
     "url": "/wiki/concepts/marketregimeshift/"
   },
+  "MarketSpeculation": {
+    "title": "Market Speculation",
+    "url": "/wiki/concepts/marketspeculation/"
+  },
   "MarketplaceFrictionReduction": {
     "title": "Marketplace Friction Reduction",
     "url": "/wiki/concepts/marketplacefrictionreduction/"
@@ -12735,6 +12763,10 @@
     "title": "Multimodal Personal Memory",
     "url": "/wiki/concepts/multimodalpersonalmemory/"
   },
+  "MultipleEquilibria": {
+    "title": "Multiple Equilibria",
+    "url": "/wiki/concepts/multipleequilibria/"
+  },
   "MultispeciesArchives": {
     "title": "Multispecies Archives",
     "url": "/wiki/concepts/multispeciesarchives/"
@@ -12754,6 +12786,14 @@
   "MunicipalBitcoinAdoption": {
     "title": "Municipal Bitcoin Adoption",
     "url": "/wiki/concepts/municipalbitcoinadoption/"
+  },
+  "MurrayDarlingBasin": {
+    "title": "Murray-Darling Basin",
+    "url": "/wiki/entities/murraydarlingbasin/"
+  },
+  "MurrayRiver": {
+    "title": "Murray River",
+    "url": "/wiki/entities/murrayriver/"
   },
   "MuseImage": {
     "title": "Muse Image",
@@ -12967,6 +13007,10 @@
     "title": "内核恐慌",
     "url": "/wiki/entities/neihekonghuang/"
   },
+  "NeilHughes": {
+    "title": "Neil Hughes",
+    "url": "/wiki/entities/neilhughes/"
+  },
   "NeoCloud": {
     "title": "Neo Cloud",
     "url": "/wiki/concepts/neocloud/"
@@ -13030,6 +13074,10 @@
   "NewRightPolicyNetwork": {
     "title": "New Right Policy Network",
     "url": "/wiki/concepts/newrightpolicynetwork/"
+  },
+  "NewSouthWales": {
+    "title": "New South Wales",
+    "url": "/wiki/entities/newsouthwales/"
   },
   "NewSpot": {
     "title": "NewSpot",
@@ -15375,6 +15423,10 @@
     "title": "Research Taste",
     "url": "/wiki/concepts/researchtaste/"
   },
+  "ReserveBankOfNewZealand": {
+    "title": "Reserve Bank of New Zealand",
+    "url": "/wiki/entities/reservebankofnewzealand/"
+  },
   "ResourceBasedEconomicTransition": {
     "title": "Resource-Based Economic Transition",
     "url": "/wiki/concepts/resourcebasedeconomictransition/"
@@ -15590,6 +15642,10 @@
   "RobertMorris": {
     "title": "Robert Morris",
     "url": "/wiki/entities/robertmorris/"
+  },
+  "RobertSmith": {
+    "title": "Robert Smith",
+    "url": "/wiki/entities/robertsmith/"
   },
   "Robinhood": {
     "title": "Robinhood",
@@ -18423,6 +18479,10 @@
     "title": "Trading Company Investment Model",
     "url": "/wiki/concepts/tradingcompanyinvestmentmodel/"
   },
+  "TragedyOfTheCommons": {
+    "title": "Tragedy of the Commons",
+    "url": "/wiki/concepts/tragedyofthecommons/"
+  },
   "TragicModernity": {
     "title": "Tragic Modernity",
     "url": "/wiki/concepts/tragicmodernity/"
@@ -19294,6 +19354,14 @@
   "WaterFireEducation": {
     "title": "Water And Fire Education",
     "url": "/wiki/concepts/waterfireeducation/"
+  },
+  "WaterMarketDesign": {
+    "title": "Water Market Design",
+    "url": "/wiki/concepts/watermarketdesign/"
+  },
+  "WaterRightsTrading": {
+    "title": "Water Rights Trading",
+    "url": "/wiki/concepts/waterrightstrading/"
   },
   "WatsonPower": {
     "title": "华生力 / Watson Power",
@@ -21194,6 +21262,10 @@
   "openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z": {
     "title": "OpenClaw 之后，我只想未来 3-6 个月的事情｜对谈 Sheet0 创始人王文锋",
     "url": "/wiki/sources/openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z/"
+  },
+  "our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour": {
+    "title": "Our mission: Find the world's best economic ideas (Summer School World Tour)",
+    "url": "/wiki/sources/our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour/"
   },
   "overview": {
     "title": "Overview",

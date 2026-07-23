@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Our mission: Find the world's best economic ideas (Summer School World Tour)](sources/our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour.md) — Planet Money Summer School episode on Australian water markets, farmer backlash, speculation, New Zealand's invention of inflation targeting, and credibility as expectations coordination.
 - [How to win a penalty shootout (with game theory)](sources/how-to-win-a-penalty-shootout-with-game-theory.md) — Planet Money episode on soccer penalties as game theory, mixed strategy, Ignacio Palacio Huerta's data, Chelsea vs. Manchester United in 2008, and modern penalty reports.
 - [Can the Trump administration make college cheaper?](sources/can-the-trump-administration-make-college-cheaper.md) — Planet Money episode on graduate federal student-loan caps, the Bennett hypothesis, mixed evidence on tuition pass-through, and access risks for borrowers if schools do not cut prices.
 - [Dark times for Cuba's economic experiment](sources/dark-times-for-cubas-economic-experiment.md) — Planet Money episode on Cuba's dual economic strategy, Soviet/Venezuela oil dependence, controlled market reform, tourism collapse, U.S. sanctions and pressure, blackouts, and Yaser Gonzalez Cabrera's City Cleta bike-tour business.
@@ -519,6 +520,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Robert Smith](entities/RobertSmith.md) — Planet Money host framing the Summer School World Tour water-market and inflation-targeting lesson.
+- [Justin Wolfers](entities/JustinWolfers.md) — Economist guiding the episode's country-as-laboratory frame across Australia and New Zealand.
+- [Australia](entities/Australia.md) — Country case for advanced water markets, water-rights trading, and civic participation design.
+- [New South Wales](entities/NewSouthWales.md) — Australian state setting for Carly Marriott's drought-prone farm and water-market backlash.
+- [Murray River](entities/MurrayRiver.md) — Irrigation river connected to the episode's Australian water-rights trading case.
+- [Murray-Darling Basin](entities/MurrayDarlingBasin.md) — Southern-basin water-market context for the episode's trading-benefits estimate and farmer backlash.
+- [Carly Marriott](entities/CarlyMarriott.md) — Australian farmer whose 2019 water-price experience anchors the episode's fairness critique.
+- [Neil Hughes](entities/NeilHughes.md) — Water-market analyst whose team estimated large southern-basin gains from water trading.
+- [Arthur Grimes](entities/ArthurGrimes.md) — New Zealand economist who helped design the original inflation-targeting proposal.
+- [Don Brash](entities/DonBrash.md) — New Zealand central banker who implemented the painful disinflation toward the target.
+- [Reserve Bank of New Zealand](entities/ReserveBankOfNewZealand.md) — Central bank presented as the origin institution for modern inflation targeting.
 - [Stefan Szymanski](entities/StefanSzymanski.md) — Economist explaining mixed strategy through penalty takers' strong and weak sides.
 - [Ignacio Palacio Huerta](entities/IgnacioPalacioHuerta.md) — Economist whose penalty database and Chelsea report connect game theory to elite football shootouts.
 - [Simon Kuper](entities/SimonKuper.md) — Football writer contextualizing how systematic penalty data entered professional preparation.
@@ -3360,6 +3372,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Water Market Design](concepts/WaterMarketDesign.md) — Policy design problem of allocating scarce water through tradable rights while preserving legitimacy, information access, and ecological limits.
+- [Water Rights Trading](concepts/WaterRightsTrading.md) — Mechanism that lets water claims move toward higher-value uses during scarcity, with farmer-exposure and fairness risks.
+- [Market Speculation](concepts/MarketSpeculation.md) — Buying rights or assets for expected future price movement, useful for liquidity but risky when detached from reality or legitimacy.
+- [Tragedy of the Commons](concepts/TragedyOfTheCommons.md) — Shared-resource problem where individual use can impose costs on others without institutional constraints.
+- [Inflation Targeting](concepts/InflationTargeting.md) — Central-bank practice of publicly committing to a numeric inflation goal to coordinate expectations and policy credibility.
+- [Multiple Equilibria](concepts/MultipleEquilibria.md) — Economics frame where expectations can help produce one of several possible self-reinforcing outcomes.
 - [Game Theory](concepts/GameTheory.md) — Strategic decision frame where each player's best move depends on what the opponent may do.
 - [Mixed Strategy](concepts/MixedStrategy.md) — Deliberate variation between options so an opponent cannot exploit a predictable choice.
 - [Strategic Unpredictability](concepts/StrategicUnpredictability.md) — Discipline of preserving performance while denying opponents a reliable pattern.

@@ -1,9 +1,9 @@
 ---
 title: "New Zealand / 新西兰"
 type: entity
-tags: [place, island, ecology, conservation]
-sources: [186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210]
-last_updated: 2026-07-15
+tags: [place, island, ecology, conservation, macro]
+sources: [186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210, our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour]
+last_updated: 2026-07-23
 ---
 
 # New Zealand / 新西兰
@@ -12,7 +12,10 @@ New Zealand is the setting for the [[Kakapo|kakapo]] section of [[186-rang-ni-xi
 
 The source uses New Zealand to give [[IslandExtinctionAfterHumanArrival]] a hopeful counterpoint. Intensive protected-island management, tracking, breeding attention, and funding after public visibility helped the kakapo recover from a population in the dozens to more than 200.
 
+[[our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour]] adds New Zealand as a macroeconomic policy laboratory. The [[PlanetMoney]] episode presents [[ArthurGrimes]], [[DonBrash]], and the [[ReserveBankOfNewZealand]] as the origin case for modern [[InflationTargeting]], where credibility and [[MultipleEquilibria]] helped turn a numeric target into an expectations-coordination tool after a painful disinflation.
+
 ## Connections
-- [[Kakapo]] - focal species.
+- [[Kakapo]] - focal species in the conservation source.
 - [[IslandExtinctionAfterHumanArrival]], [[InvasiveSpeciesManagement]], and [[ConservationIntervention]] - ecological concepts.
 - [[LastChanceToSee|《消逝世界漫游指南》]], [[DouglasAdams]], and [[MarkCarwardine]] - source frame.
+- [[ArthurGrimes]], [[DonBrash]], [[ReserveBankOfNewZealand]], [[InflationTargeting]], and [[MultipleEquilibria]] - monetary-policy branch added by Planet Money.
