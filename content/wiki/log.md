@@ -3859,6 +3859,10 @@ Added source page for the Marketplace Tech episode with David Brancaccio on rebu
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-23] ingest | Ryan Petersen on Flexport, Global Logistics, and Founder Discipline
+
+Added source page for The Social Radars episode with Ryan Petersen on Flexport, customs brokerage, freight forwarding, logistics workflow automation, Red Sea and Long Beach crisis response, pandemic PPE shipments, Founders Fund support, Dave Clark's CEO handoff, and Petersen's return as CEO. Created pages for Ryan Petersen, Flexport, Dave Clark, Global Logistics Coordination, Logistics Workflow Automation, Logistics Crisis Response, and Founder Operational Reset; updated overview, index, The Social Radars, Y Combinator, Jessica Livingston, Carolyn Levy, Paul Graham, Ron Conway, Founders Fund, Customer Pull, Operational Pain Founder Insight, Customer Discovery By Doing Work, Unscalable Founder Work, Manual Operations Debt, Founder Mode, Founder Delegation Discipline, Founder Return Crisis, Founder Role Transition, Founder Succession, Startup Legitimacy Transfer, and Founder Friendly Investor Support. No direct contradiction found; the source extends existing YC and founder-mode patterns into a regulated physical-operations market where customer pull, manual work, crisis response, and founder return all shape the product boundary.
+
 ## [2026-07-23] ingest | 用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜对谈 Slock.ai 创始人 RC
 
 Added source page for the 42章经 episode with RC on Kimi CLI, Slock.ai, CLI as an agent-facing interface, multi-agent collaboration, task claiming, memory, model diversity, and agent dynamics in a seven-person, forty-agent team. Created pages for Slock.ai / Slock AI, RC, Kimi CLI, Agent Dynamics, Agent Task Claiming, and Agent Organizational Culture; updated overview, index, 42章经, Kimi, Agentic Workflow, Human-Agent Collaboration, Agent Harness, Multi-Agent Collaboration, Persistent Agent Memory, Agent-Facing Interfaces, Agent Marketplace, Agent-Optimized CLI, AI Organization Design, AI-First Organization, Agent Native Software, One-Person Company, AI Programming Engine Shift, Model Workflow Fit, and AI Inference Cost Structure. No direct contradiction found; the source extends existing OpenClaw/Sheet0/Moxt themes by making multi-agent organization behavior a first-class design problem.
@@ -3995,6 +3999,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-23] ingest | Dan Siroker on Optimizely, Rewind, and Limitless AI
 
 Added source page for The Social Radars episode with Dan Siroker on Obama campaign A/B testing, Optimizely's YC pivot, founder instinct and delegation regrets, Mind Emulation Foundation, Rewind AI, Limitless, personal AI memory, consent-based recording, and public fundraising. Created pages for Dan Siroker, Optimizely, Limitless, Rewind AI, Pete Koomen, Mind Emulation Foundation, Carrot Sticks, Spreadly, Brett Baechek, Stammy, A/B Testing For Marketers, Founder Instinct, Personal AI Memory, Consent-Based Recording, and Public Fundraising Pitch; updated overview, index, Y Combinator, The Social Radars, Jessica Livingston, Carolyn Levy, Barack Obama, Data-Driven Product Culture, Founder Delegation Discipline, Founder Product Fit, Founder Motivation Evolution, Persistent Agent Memory, OS-Level Context, Agent Permission Boundaries, Wearable AI Assistant, and Apple Privacy. No direct contradiction found; the source extends existing founder-mode and AI-memory threads while keeping Dan's privacy and legal-protection claims source-attributed.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-23] lint | Wiki health check
 

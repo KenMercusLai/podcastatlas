@@ -2,7 +2,7 @@
 title: "Founder Succession"
 type: concept
 tags: [startup, leadership, founder, governance]
-sources: [build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio, vanguard-1]
+sources: [tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio, vanguard-1]
 last_updated: 2026-07-23
 ---
 
@@ -16,6 +16,8 @@ The Build-A-Bear case adds a more explicit succession lens to the wiki's existin
 
 [[vanguard-1]] adds an unusual founder-succession case through [[JohnBogle]] and [[Vanguard]]. Bogle stepped down while awaiting a heart transplant, survived, and then remained a public evangelist whose views sometimes conflicted with successor strategy, especially around ETFs. The episode shows succession as a question of preserving [[StrategyFollowsStructure]] while allowing leaders after the founder to adapt tactics.
 
+[[tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6]] adds an unsuccessful-or-incomplete succession boundary through [[RyanPetersen]], [[Flexport]], and [[DaveClark]]. Petersen says the company needed Clark's operations discipline, but his later return shows that succession can leave unresolved founder-accountability, finance, and operating-culture questions if the company drifts after the handoff.
+
 ## Key Claims
 - Succession should be planned before founder fatigue, crisis, or investor pressure makes it reactive.
 - Relevant domain experience matters; Sharon's Hasbro and Stride Rite background fit a consumer brand with product, retail, and family audiences.
@@ -25,6 +27,7 @@ The Build-A-Bear case adds a more explicit succession lens to the wiki's existin
 - Succession can be a necessary response to founder health collapse during a financing or regulatory crisis.
 - A founder's recovery or continued public role can create a second succession problem if the company has already moved into a successor-led strategy.
 - Strong structure can let successors depart from founder preferences without abandoning the founder's core mission.
+- A succession that solves an operator-skill gap can still fail to solve founder-accountability or burn-discipline gaps.
 
 ## Connections
 - [[BuildABear]], [[MaxineClark]], and [[SharonPriceJohn]] - source case.
@@ -34,3 +37,4 @@ The Build-A-Bear case adds a more explicit succession lens to the wiki's existin
 - [[FinancialGravity]] - pressure that succession can intensify or relieve.
 - [[TomBlomfield]], [[Monzo]], [[TSAnil]], and [[FounderHealthDebt]] - regulated-fintech succession case.
 - [[Vanguard]], [[JohnBogle]], [[SalimRamji]], [[StrategyFollowsStructure]], and [[FundholderMutualOwnership]] - asset-management succession and modernization case.
+- [[RyanPetersen]], [[Flexport]], [[DaveClark]], [[FounderReturnCrisis]], and [[FounderOperationalReset]] - founder-succession boundary added by the Ryan Petersen episode.

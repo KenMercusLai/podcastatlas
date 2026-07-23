@@ -5043,6 +5043,10 @@
     "title": "Dave Baldwin",
     "url": "/wiki/entities/davebaldwin/"
   },
+  "DaveClark": {
+    "title": "Dave Clark",
+    "url": "/wiki/entities/daveclark/"
+  },
   "DaveJackson": {
     "title": "Dave Jackson",
     "url": "/wiki/entities/davejackson/"
@@ -6755,6 +6759,10 @@
     "title": "《平面国》 / Flatland",
     "url": "/wiki/entities/flatland/"
   },
+  "Flexport": {
+    "title": "Flexport",
+    "url": "/wiki/entities/flexport/"
+  },
   "Fliggy": {
     "title": "Fliggy",
     "url": "/wiki/entities/fliggy/"
@@ -7010,6 +7018,10 @@
   "FounderNarrativeReliability": {
     "title": "Founder Narrative Reliability",
     "url": "/wiki/concepts/foundernarrativereliability/"
+  },
+  "FounderOperationalReset": {
+    "title": "Founder Operational Reset",
+    "url": "/wiki/concepts/founderoperationalreset/"
   },
   "FounderProductFit": {
     "title": "Founder Product Fit",
@@ -7590,6 +7602,10 @@
   "GlazerFamily": {
     "title": "Glazer Family",
     "url": "/wiki/entities/glazerfamily/"
+  },
+  "GlobalLogisticsCoordination": {
+    "title": "Global Logistics Coordination",
+    "url": "/wiki/concepts/globallogisticscoordination/"
   },
   "GlobalProductLocalization": {
     "title": "Global Product Localization",
@@ -10822,6 +10838,14 @@
   "LocalizedInnovationAdvantage": {
     "title": "Localized Innovation Advantage",
     "url": "/wiki/concepts/localizedinnovationadvantage/"
+  },
+  "LogisticsCrisisResponse": {
+    "title": "Logistics Crisis Response",
+    "url": "/wiki/concepts/logisticscrisisresponse/"
+  },
+  "LogisticsWorkflowAutomation": {
+    "title": "Logistics Workflow Automation",
+    "url": "/wiki/concepts/logisticsworkflowautomation/"
   },
   "LoisWeber": {
     "title": "Lois Weber / 洛伊斯·韦伯",
@@ -15142,6 +15166,10 @@
   "RussoChineseBank": {
     "title": "Russo-Chinese Bank",
     "url": "/wiki/entities/russochinesebank/"
+  },
+  "RyanPetersen": {
+    "title": "Ryan Petersen",
+    "url": "/wiki/entities/ryanpetersen/"
   },
   "RyanSuttonGee": {
     "title": "Ryan Sutton-Gee",
@@ -20802,6 +20830,10 @@
   "tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final": {
     "title": "Ron Conway on National Semiconductor, Altos, and Early Angel Investing",
     "url": "/wiki/sources/tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final/"
+  },
+  "tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6": {
+    "title": "Ryan Petersen on Flexport, Global Logistics, and Founder Discipline",
+    "url": "/wiki/sources/tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6/"
   },
   "tsr-s3-yinwu-v2-tsr-s3-yinwu-v2": {
     "title": "Yin Wu on Pulley, Equity, and Founder Resilience",

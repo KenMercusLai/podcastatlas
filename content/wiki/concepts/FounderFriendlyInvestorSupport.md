@@ -2,8 +2,8 @@
 title: "Founder Friendly Investor Support"
 type: concept
 tags: [startup, venture-capital, founder-support]
-sources: [tsr-ronconway-part4-v2-tsr-ronconway-part4-v2, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]
-last_updated: 2026-07-12
+sources: [tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-ronconway-part4-v2-tsr-ronconway-part4-v2, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]
+last_updated: 2026-07-23
 ---
 
 # Founder Friendly Investor Support
@@ -16,6 +16,8 @@ In the source, the preferred investor role is to support founders, let them focu
 
 [[tsr-ronconway-part4-v2-tsr-ronconway-part4-v2]] extends the concept into more intrusive crisis and life-support work. Conway's [[Napster]] stories include [[FounderCrisisMediation]], [[EmployeeSeveranceAtShutdown]], media coaching, legal negotiation, government relationships, and health emergencies. The source broadens founder-friendly support from useful advice into a durable relationship system that may cover the founder, employees, family, regulators, reporters, and future companies.
 
+[[tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6]] adds two Flexport versions. First, [[RonConway]] helped [[RyanPetersen]] resolve a San Francisco business-license blocker by escalating it to Mayor Ed Lee. Second, Petersen says [[FoundersFund]] came to [[Flexport]]'s rescue during hard fundraising moments. Both cases treat investor support as concrete operational or financing help at a moment when the company could have stalled.
+
 ## Key Claims
 - Investor help should reduce founder load or improve judgment, not create recurring theater.
 - Founder experience can become useful investor support when it is translated into timely coaching rather than constant intervention.
@@ -23,6 +25,7 @@ In the source, the preferred investor role is to support founders, let them focu
 - Bad investors can damage a startup by increasing distraction, pressure, or confusion at the wrong time.
 - Helpful investors can create value after the check by opening strategic routes, introducing operators, and translating founder vision to skeptical outsiders.
 - The most intense form of founder support may include mediation, employee protection, legal narrative, health access, and public-sector relationships.
+- Investor support can include resolving bureaucratic blockers and supplying financing when other capital sources pull back.
 
 ## Connections
 - [[DavidRusenko]], [[LeapForward]], [[JessicaAlter]], and [[Weebly]] - source case.
@@ -30,3 +33,4 @@ In the source, the preferred investor role is to support founders, let them focu
 - [[TheSocialRadars]] - source context for founder-to-investor memory.
 - [[Google]], [[SVAngel]], [[LarryPage]], [[SergeyBrin]], [[VentureSyndicateOrchestration]], and [[DistributionBeforeMonetization]] - Conway Part 3 branch.
 - [[Napster]], [[SeanFanning]], [[SeanParker]], [[FounderCrisisMediation]], and [[EmployeeSeveranceAtShutdown]] - Conway Part 4 branch.
+- [[RyanPetersen]], [[Flexport]], [[RonConway]], and [[FoundersFund]] - license and fundraising support cases added by the Ryan Petersen episode.

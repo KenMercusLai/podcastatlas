@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Ryan Petersen on Flexport, Global Logistics, and Founder Discipline](sources/tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6.md) — The Social Radars episode on Flexport, customs brokerage, freight forwarding, logistics workflow automation, crisis response, and founder operational reset.
 - [用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜对谈 Slock.ai 创始人 RC](sources/yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy.md) — 42章经 episode with RC on Kimi CLI, Slock.ai, multi-agent collaboration, task claiming, memory, model diversity, and agent dynamics in a seven-person, forty-agent team.
 - [OpenClaw 之后，我只想未来 3-6 个月的事情｜对谈 Sheet0 创始人王文锋](sources/openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z.md) — 42章经 episode with Wang Wenfeng on OpenClaw, coding agents as a general action layer, Sheet0's AI-managing-AI pivot, agent harnesses, token budgets, and short-cycle startup judgment.
 - [02.离婚：郭德纲都不如老舍有意思](sources/02-lihun-guodegang-dou-buru-laoshe-youyisi-525913046.md) — 蜜獾吃书 episode rereading 老舍《离婚》 through controlled humor, Beiping office life, marriage suffocation, 张大哥式体面秩序, 丁二的行动, and ordinary escape courage.
@@ -497,6 +498,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Ryan Petersen](entities/RyanPetersen.md) — Flexport founder and returning CEO whose episode connects logistics pain, YC, crisis response, and founder operational reset.
+- [Flexport](entities/Flexport.md) — Global logistics startup built around freight, customs, warehousing, fulfillment, crisis response, and workflow automation.
+- [Dave Clark](entities/DaveClark.md) — Former Amazon consumer-business executive hired as Flexport CEO before Ryan Petersen's return.
 - [Slock.ai / Slock AI](entities/SlockAI.md) — Multi-agent collaboration product founded by RC for people and teams managing many role-based agents through channels, tasks, memory, and shared context.
 - [RC](entities/RC.md) — Slock.ai founder and former Kimi CLI builder arguing for agent dynamics, CLI-first agent tooling, and human-plus-agent team design.
 - [Kimi CLI](entities/KimiCLI.md) — Command-line coding/general agent from Kimi, used by RC as a case for CLI as an agent-facing harness surface.
@@ -3212,6 +3216,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Global Logistics Coordination](concepts/GlobalLogisticsCoordination.md) — Moving goods across fragmented freight, customs, warehouse, carrier, finance, government, and information systems.
+- [Logistics Workflow Automation](concepts/LogisticsWorkflowAutomation.md) — Flexport pattern of decomposing freight movement into assignable tasks before gradually automating them.
+- [Logistics Crisis Response](concepts/LogisticsCrisisResponse.md) — Logistics operating pattern for pandemic PPE, Red Sea disruption, port congestion, and other supply-chain shocks.
+- [Founder Operational Reset](concepts/FounderOperationalReset.md) — Returning-founder pattern for restoring budget discipline, execution cadence, and operating accountability after drift.
 - [Agent Dynamics](concepts/AgentDynamics.md) — RC's term for emergent behavior in multi-agent work environments, including identity, task ownership, group memory, and culture-like effects.
 - [Agent Task Claiming](concepts/AgentTaskClaiming.md) — Multi-agent coordination mechanism where an agent claims responsibility for a task so others do not duplicate or conflict with it.
 - [Agent Organizational Culture](concepts/AgentOrganizationalCulture.md) — Culture-like behavior shaped by prompt norms, shared memory, and cooperation or competition among many agents.

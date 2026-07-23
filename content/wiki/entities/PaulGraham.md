@@ -2,8 +2,8 @@
 title: "Paul Graham"
 type: entity
 tags: [person, startups, programming, venture-capital]
-sources: [tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s4-harj-v3-tsr-s4-harj-v3, socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
-last_updated: 2026-07-12
+sources: [tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s4-harj-v3-tsr-s4-harj-v3, socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+last_updated: 2026-07-23
 ---
 
 # Paul Graham
@@ -48,6 +48,8 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 
 [[tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio]] adds Graham through [[Benchling]]'s early [[YCombinator]] path. [[SajithWickramasekara]] says Benchling had many university users but no revenue at Demo Day, and that Graham argued a default tool for people working in biology could become important even if investors then saw biology as a small market. The source adds a life-sciences version of Graham's recurring willingness to back strong founders and product usage before conventional market proof is obvious.
 
+[[tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6]] adds Graham through [[RyanPetersen]]'s [[Flexport]] CEO-transition reflection. Petersen says Graham was deeply disappointed when he hired another CEO, making the source a later example of Graham's founder-led operating philosophy beyond the formal [[FounderMode]] retreat.
+
 ## Connections
 - [[TrevorBlackwell]], [[RobertMorris]], and [[JessicaLivingston]] - collaborators in the episode.
 - [[JulianWeber]], [[ArtX]], [[HackerNews]], [[ArcLanguage|Arc]], and [[SummerFoundersProgram]] - added first-person Graham source context.
@@ -71,3 +73,4 @@ In the Viaweb section, Graham showed Blackwell a browser-based demo that made se
 - [[DrewHouston]], [[Dropbox]], [[ArashFerdowsi]], and [[SyncReliabilityAsUX]] - Drew Houston episode branch connected through YC co-founder pressure and acceptance.
 - [[FounderMode]], [[BrianChesky]], [[RonConway]], [[VibeCoding]], [[Replit]], [[AmjadMasad]], [[Stoke]], and [[PaulGross]] - YC offsite retreat branch added by the founder-mode source.
 - [[SajithWickramasekara]], [[Benchling]], and [[LifeSciencesWorkflowSoftware]] - Benchling Demo Day and biology-default-tool branch added by the Sajith Wickramasekara source.
+- [[RyanPetersen]], [[Flexport]], [[FounderMode]], [[FounderOperationalReset]], and [[FounderReturnCrisis]] - founder-CEO lesson added by the Ryan Petersen episode.

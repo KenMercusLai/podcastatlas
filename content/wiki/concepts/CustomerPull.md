@@ -3,7 +3,7 @@ title: "Customer Pull"
 type: concept
 tags: [startup, product-market-fit, saas]
 sources: [tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, tsr-s2-adoracheung-v5, socialradarspod-emmettshear-v2, socialradarss2-billclerico-final, socialradarsseason2-dimitri-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, socialradarspod-paulb-final, bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10, eric-ries-on-how-founders-quietly-lose-their-company, ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing, finding-product-market-fit-after-3-years-of-failed-ideas, how-danny-jenkins-bootstrapped-threatlocker-from-150k-debt-to-200m, ba-7-wei-heikesong-xuanshou-qing-jin-boke-guanjun-guai-cai-he-48-xiaoshi-bumian-de-yexinjia-lhozhsuqbw8csa5tj5tqc7saqrex, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, advice-line-with-jeffrey-hollender-of-seventh-generation-f8ce2410-1176-47d9-be44-03f9fa945714, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91, advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86, build-a-bear-maxine-clark-a-former-shoe-executive-launches-a-stuffed-animal-empire-8e5da7d7-4e2b-4978-b625-f72cb5d57d88, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, advice-line-with-tim-ferriss-august-2025-84f10963-70ff-444d-87df-cfedab442943, ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939, starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months, 50-cents-a-pool-the-pricing-model-behind-a-saas-exit, socialradarspod-brianarmstrong-final, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7]
-last_updated: 2026-07-18
+last_updated: 2026-07-23
 ---
 
 # Customer Pull
@@ -54,6 +54,8 @@ Customer pull is the demand signal that users actively ask for a product, follow
 
 [[tsr-s4-ericm-v2-tsr-s4-ericm-v2]] adds [[Pebble]] as a crowdfunding pull case. [[Kickstarter]] pre-orders were stronger than polite interest and made the smartwatch demand visible, but [[KickstarterDemandShock]] also shows that pull can create immediate delivery, manufacturing, and support obligations. The earlier [[ImpulseWatch|Impulse]] story adds the weak-pull boundary: viral press and signups for a [[BlackBerry]] watch did not convert durably once the platform shifted and the product arrived late.
 
+[[tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6]] adds [[Flexport]] as a bundled-workflow pull case. [[RyanPetersen]] says the company wanted to stay focused on customs brokerage, but real importers kept asking for customs plus freight forwarding. The source shows customer pull redefining product scope when the buyer experiences several adjacent operations as one job.
+
 ## Key Claims
 - Strong demand often appears as users chasing the founder, not the founder repeatedly trying to convince users.
 - Second-month payments, delayed responses to old emails, unsolicited referrals, and organic signups are stronger than a one-day launch spike.
@@ -96,6 +98,7 @@ Customer pull is the demand signal that users actively ask for a product, follow
 - Pull can first appear as a narrow behavior hidden inside a broader product, as gaming and audience interaction did inside Justin.tv before Twitch became the focused product.
 - Enterprise pull can be real and still dangerous if the startup's technical approach makes the customer's requested job too hard to deliver reliably.
 - Crowdfunding pull is strong evidence because customers pay before delivery, but the same signal can be dangerous if manufacturing and support readiness lag behind demand.
+- Customer pull can force a startup beyond its first wedge when customers need an end-to-end workflow rather than an isolated service.
 
 ## Connections
 - [[ThibautLouisLucas]] - source of the concept in this wiki.
@@ -140,3 +143,4 @@ Customer pull is the demand signal that users actively ask for a product, follow
 - [[EmmettShear]], [[JustinTV|Justin.tv]], [[Twitch]], [[StartupRunwayDiscipline]], and [[InvestorRiskNarrative]] - Shear episode case where usage and payment signals outpaced investor belief.
 - [[YuriSagalov]], [[AeroFS]], [[EnterpriseFileSync]], [[PeerToPeerSynchronizationRisk]], and [[TechnicalAmbitionCustomerMismatch]] - source case where real enterprise pull coexists with delivery and architecture risk.
 - [[Pebble]], [[Kickstarter]], [[KickstarterDemandShock]], [[ImpulseWatch|Impulse]], and [[ConsumerHardwareStartupRisk]] - Eric Migicovsky episode case where preorders expose demand and hardware obligations at the same time.
+- [[Flexport]], [[RyanPetersen]], [[GlobalLogisticsCoordination]], and [[LogisticsWorkflowAutomation]] - logistics case where customers pulled the company beyond customs brokerage.

@@ -2,8 +2,8 @@
 title: "Customer Discovery By Doing Work"
 type: concept
 tags: [startup, customer-discovery, operations]
-sources: [tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-tonyxu-final]
-last_updated: 2026-07-12
+sources: [tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-tonyxu-final]
+last_updated: 2026-07-23
 ---
 
 # Customer Discovery By Doing Work
@@ -22,6 +22,8 @@ The pattern matters because it exposed a delivery problem that a survey could ea
 
 [[tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio]] adds the compliance-software version through [[ChristinaCacioppo]] and [[Vanta]]. Christina stopped building unwanted products, talked to founders, and made a [[ManualComplianceMVP]] spreadsheet for [[Segment]] before adapting it for [[Front]]. The discovery work was not only interviews; it was doing enough SOC 2 gap-assessment labor to learn which parts of the workflow could become product.
 
+[[tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6]] adds a logistics fieldwork version through [[RyanPetersen]] and [[Flexport]]. The original company pain came from Petersen importing motorcycles, while the Long Beach congestion episode shows later discovery by going to the port, talking to workers and a trucking CEO, and identifying container-stacking and chassis constraints that abstract supply-chain commentary missed.
+
 ## Key Claims
 - Doing work can earn trust before the founder has a product to pitch.
 - Operational participation reveals hidden constraints, vocabulary, and tradeoffs that customers may not articulate in a formal interview.
@@ -33,6 +35,7 @@ The pattern matters because it exposed a delivery problem that a survey could ea
 - Doing the service personally can reveal quality-control requirements that interviews and marketplace dashboards would miss.
 - Doing the work can also reveal a founder-fit problem: direct operational learning may show that the founder does not want to build in that domain for years.
 - In B2B compliance, doing the work can expose repeated evidence, policy, and control patterns that customers share even when they believe their company is unique.
+- In logistics, fieldwork can expose physical bottlenecks and incentive loops that are invisible from documents or dashboards alone.
 
 ## Connections
 - [[TonyXu]], [[DoorDash]], [[PaloAltoDelivery]], and [[StanfordStartupGarage]] - source case.
@@ -44,3 +47,4 @@ The pattern matters because it exposed a delivery problem that a survey could ea
 - [[AdoraCheung]], [[Homejoy]], and [[ServiceMarketplaceQualityControl]] - home-services marketplace case added by the Adora Cheung episode.
 - [[YinWu]], [[Prim]], [[FounderProductFit]], and [[FounderUserObsession]] - laundry-service case added by the Yin Wu episode.
 - [[ChristinaCacioppo]], [[Vanta]], [[SOC2Audit]], [[Segment]], [[Front]], and [[ManualComplianceMVP]] - compliance gap-assessment case added by the Christina Cacioppo episode.
+- [[RyanPetersen]], [[Flexport]], [[GlobalLogisticsCoordination]], and [[LogisticsCrisisResponse]] - logistics fieldwork case added by the Ryan Petersen episode.

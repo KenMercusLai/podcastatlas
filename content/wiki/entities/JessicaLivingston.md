@@ -2,7 +2,7 @@
 title: "Jessica Livingston"
 type: entity
 tags: [person, startups, podcasting, y-combinator]
-sources: [tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s4-harj-v3-tsr-s4-harj-v3, tsr-s3-eddylu-v2-tsr-s3-eddylu-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, tsr-s2-wrapup-v1, tsr-s2-adoracheung-v5, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+sources: [tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s4-harj-v3-tsr-s4-harj-v3, tsr-s3-eddylu-v2-tsr-s3-eddylu-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, tsr-s2-wrapup-v1, tsr-s2-adoracheung-v5, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
 last_updated: 2026-07-23
 ---
 
@@ -38,6 +38,8 @@ The sources use Livingston's memory to turn YC and founder stories into operatin
 
 [[tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3]] adds Livingston as co-interviewer for [[DanSiroker]] on [[Optimizely]], [[RewindAI]], and [[Limitless]]. Her role helps keep the source connected to YC's startup-memory project: [[CarrotSticks]] and [[Spreadly]] show weak early ideas, [[PaulGraham]] and [[YCombinator]] sharpen the pivot into [[ABTestingForMarketers]], and the later Limitless discussion turns into a privacy-sensitive AI-memory case.
 
+[[tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6]] adds Livingston as co-interviewer for [[RyanPetersen]] on [[Flexport]]. Her framing connects the customs-brokerage origin, [[YCombinator]] path, [[RonConway]] license intervention, and [[PaulGraham]] founder-CEO lesson to the show's broader startup-memory project.
+
 [[tsr-s4-harj-v3-tsr-s4-harj-v3]] adds Livingston as co-interviewer and early YC participant in [[HarjTaggar]]'s story. Her shared history with Harj lets the episode recover his Winter 2007 founder path, the later "bus inspector" role, [[YuriMilner]]'s batch-wide funding offer, and the modern YC shift from needing investor attention to helping founders ignore too much of it.
 
 [[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] adds Livingston as both co-interviewer and long-running witness to [[SamAltman]]. She corrects the exaggerated first-batch "I'm a sophomore and I'm coming" story, frames Altman's risk-taking as YC-style formidability, and helps connect the early [[Looped]] memories to later [[YCombinator]] leadership and [[OpenAI]] governance.
@@ -57,6 +59,7 @@ The sources use Livingston's memory to turn YC and founder stories into operatin
 - [[YinWu]], [[Pulley]], [[Carta]], [[StartupSchool]], [[CapTableLiteracy]], and [[FounderResilience]] - Season 3 Yin Wu episode context.
 - [[EddyLu]], [[Daishen]], [[GrubWithUs]], [[GOAT]], [[MarketplaceFrictionReduction]], and [[AuthenticationLedMarketplaceTrust]] - Season 3 Eddy Lu episode context.
 - [[DanSiroker]], [[Optimizely]], [[RewindAI]], [[Limitless]], [[ABTestingForMarketers]], and [[PersonalAIMemory]] - Season 3 Dan Siroker episode context.
+- [[RyanPetersen]], [[Flexport]], [[RonConway]], [[GlobalLogisticsCoordination]], and [[FounderOperationalReset]] - Season 3 Ryan Petersen episode context.
 - [[HarjTaggar]], [[BoSo]], [[AutomaticAuctions]], [[Triplebyte]], [[YuriMilner]], and [[ObjectiveHiringAssessment]] - Season 4 Harj Taggar episode context.
 - [[SamAltman]], [[Looped]], [[OpenAI]], [[FounderRiskCalibration]], and [[OpenAIBoardCrisis]] - Season 4 Sam Altman episode context.
 - [[PaulGraham]], [[FounderMode]], [[PaulGross]], [[Stoke]], and [[VibeCoding]] - YC offsite founder-mode source context.

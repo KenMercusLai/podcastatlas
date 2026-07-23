@@ -2,7 +2,7 @@
 title: "Founder Delegation Discipline"
 type: concept
 tags: [startup, leadership, operations]
-sources: [tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio, tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final]
+sources: [tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio, tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final]
 last_updated: 2026-07-23
 ---
 
@@ -24,6 +24,8 @@ The surprising part of the source is that fewer hours did not mean lower leverag
 
 [[tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio]] adds [[JenHerbach]]'s science-team accountability boundary through [[AdventrisPharmaceuticals]]. Jen did not respond to slow scientific progress by taking every task away from the team; she moved closer to the daily work, required end-of-day standups, and let the accountability shift reveal who could operate at the needed pace.
 
+[[tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6]] adds [[RyanPetersen]]'s CEO-transition boundary through [[Flexport]]. Petersen says he delegated the CEO role to [[DaveClark]] because the company needed operational excellence and repeatability, but his later return shows the risk of mistaking a role handoff for permanent founder accountability transfer.
+
 ## Key Claims
 - A founder can hurt execution by repeatedly adding new fires, even when each intervention feels individually useful.
 - Delegation requires making ownership real enough that the team can decide without waiting for founder approval.
@@ -38,6 +40,7 @@ The surprising part of the source is that fewer hours did not mean lower leverag
 - Leaders who inherit successful prior-company habits may still need founder challenge when those habits disconnect them from the current company's customers.
 - Delegating scientific work does not remove the founder's responsibility to understand pace, blockers, and team fit when the company's core risk is technical execution.
 - Delegation becomes abdication when the founder loses contact with the product, technical, or user context that grounds their best judgment.
+- Delegating the CEO role can still leave the founder responsible for a later reset if finance, culture, or company direction drift.
 
 ## Connections
 - [[DavidRusenko]], [[Weebly]], [[Square]], and [[SquareOnline]] - source case.
@@ -47,5 +50,6 @@ The surprising part of the source is that fewer hours did not mean lower leverag
 - [[EmmettShear]], [[Twitch]], [[FounderContextPropagation]], and [[ConwaysLawOrganizationalDesign]] - source case for delegation constrained by company-wide context and information flow.
 - [[SajithWickramasekara]], [[Benchling]], [[FounderProximity]], and [[StageAppropriateHiring]] - source case for delegation that preserves direct executive customer contact.
 - [[JenHerbach]], [[AdventrisPharmaceuticals]], [[CancerVaccinePlatform]], and [[BiotechFounderControl]] - source case for delegation that preserves scientific accountability without turning the founder into the only scientist.
+- [[RyanPetersen]], [[Flexport]], [[DaveClark]], and [[FounderOperationalReset]] - CEO delegation and return case added by the Ryan Petersen episode.
 - [[FounderMode]], [[FounderLedFunctionalOrganization]], [[SecondTimeFounderOperatingJudgment]], [[StageAppropriateHiring]], and [[StartupGovernance]] - adjacent operating concepts.
 - [[OrganizationalContext]] - information and responsibility distribution inside a company.

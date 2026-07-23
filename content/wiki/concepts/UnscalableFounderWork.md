@@ -2,8 +2,8 @@
 title: "Unscalable Founder Work"
 type: concept
 tags: [startup, customer-discovery, operations]
-sources: [tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3, tsr-s3-eddylu-v2-tsr-s3-eddylu-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarspod-brianchesky2-final, socialradarss2-billclerico-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
-last_updated: 2026-07-11
+sources: [tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3, tsr-s3-eddylu-v2-tsr-s3-eddylu-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarspod-brianchesky2-final, socialradarss2-billclerico-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+last_updated: 2026-07-23
 ---
 
 # Unscalable Founder Work
@@ -24,6 +24,8 @@ The source gives concrete Airbnb examples: carrying checks in a binder, handling
 
 [[tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3]] adds the [[ScaleAI]] version through [[AlexandrWang]]. Wang personally stayed up labeling and categorizing T-shirt designs for [[Teespring]], turning early data-labeling work into direct product and operations learning before the company expanded into autonomous-vehicle data, defense imagery, and generative AI.
 
+[[tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6]] adds the freight-operations version through [[RyanPetersen]] and [[Flexport]]. Flexport used humans to forward emails, call counterparties, manage documents, and handle exceptions while the company learned the workflow. The source treats this as useful because it fed [[LogisticsWorkflowAutomation]] rather than remaining only a human workaround.
+
 ## Key Claims
 - Work that cannot scale can still be the fastest way to understand which scalable system to build.
 - Early manual operations are most useful when founders are learning directly from users, not merely compensating for missing product polish.
@@ -36,6 +38,7 @@ The source gives concrete Airbnb examples: carrying checks in a binder, handling
 - Early manual work can expose founder motivation as well as customer process; sometimes the right lesson is to leave the domain.
 - Manual customer service can create durable relationships when it reveals what a trusted marketplace must eventually systematize.
 - Manual data labeling can reveal workflow, quality, and customer requirements before an AI-data platform can automate or scale them.
+- Manual freight forwarding can reveal the atomic tasks, exception patterns, and coordination logic that software later needs to own.
 
 ## Connections
 - [[Airbnb]], [[BrianChesky]], [[JoeGebbia]], and [[NateBlecharczyk]] - source case and founding team.
@@ -48,3 +51,4 @@ The source gives concrete Airbnb examples: carrying checks in a binder, handling
 - [[Prim]], [[YinWu]], [[FounderProductFit]], and [[FounderUserObsession]] - service-work boundary case added by the Yin Wu episode.
 - [[GOAT]], [[EddyLu]], [[Daishen]], [[AdamBain]], [[MarketplaceFrictionReduction]], and [[AuthenticationLedMarketplaceTrust]] - marketplace and customer-service case added by the Eddy Lu episode.
 - [[ScaleAI]], [[AlexandrWang]], [[Teespring]], and [[AIDataInfrastructure]] - data-labeling case added by the Scale episode.
+- [[Flexport]], [[RyanPetersen]], [[GlobalLogisticsCoordination]], and [[LogisticsWorkflowAutomation]] - freight-operations case added by the Ryan Petersen episode.
