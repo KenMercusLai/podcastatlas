@@ -4122,3 +4122,11 @@ Added source page for the Marketplace Tech Bytes episode with Megan McCarty-Cori
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-23] ingest | The 'biohacking' trend that has tech workers experimenting on themselves
+
+Added source page for the Marketplace Tech episode with Megan McCarty-Corino and Jasmine Sun on Silicon Valley gray-market peptide use, cheaper GLP-1/Ozempic access, research-chemical labeling, uncertain supply chains, health risks, and founder-style body optimization. Created pages for Jasmine Sun, Ozempic, Gray-Market Peptides, GLP-1 Agonists, Research Chemical Loophole, and Tech-Culture Biohacking; updated overview, index, Marketplace Tech, Megan McCarty-Corino, New York Times, Food and Drug Administration, Self-Experimentation, Medical Risk Management, and Founder Risk Taking. No direct contradiction found; the source adds a cautionary boundary case where startup-style self-experimentation loses evidentiary discipline when applied to unapproved injectable health products.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. Report printed to stdout; lint-report.md was not saved.

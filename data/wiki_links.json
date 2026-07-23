@@ -7487,6 +7487,10 @@
     "title": "GLM 5.2",
     "url": "/wiki/entities/glm52/"
   },
+  "GLP1Agonists": {
+    "title": "GLP-1 Agonists",
+    "url": "/wiki/concepts/glp1agonists/"
+  },
   "GMICloud": {
     "title": "GMI Cloud",
     "url": "/wiki/entities/gmicloud/"
@@ -7966,6 +7970,10 @@
   "GraveOfTheFireflies": {
     "title": "《萤火虫之墓》 / Grave of the Fireflies",
     "url": "/wiki/entities/graveofthefireflies/"
+  },
+  "GrayMarketPeptides": {
+    "title": "Gray-Market Peptides",
+    "url": "/wiki/concepts/graymarketpeptides/"
   },
   "GreatDismalSwamp": {
     "title": "Great Dismal Swamp",
@@ -9642,6 +9650,10 @@
   "JaredReichert": {
     "title": "Jared Reichert",
     "url": "/wiki/entities/jaredreichert/"
+  },
+  "JasmineSun": {
+    "title": "Jasmine Sun",
+    "url": "/wiki/entities/jasminesun/"
   },
   "Jason": {
     "title": "Jason / 伊阿宋",
@@ -13495,6 +13507,10 @@
     "title": "Overture Supersonic Airliner",
     "url": "/wiki/entities/overturesupersonicairliner/"
   },
+  "Ozempic": {
+    "title": "Ozempic",
+    "url": "/wiki/entities/ozempic/"
+  },
   "P2PStreaming": {
     "title": "P2P Streaming",
     "url": "/wiki/concepts/p2pstreaming/"
@@ -15170,6 +15186,10 @@
   "ResNeXt": {
     "title": "ResNeXt",
     "url": "/wiki/concepts/resnext/"
+  },
+  "ResearchChemicalLoophole": {
+    "title": "Research Chemical Loophole",
+    "url": "/wiki/concepts/researchchemicalloophole/"
   },
   "ResearchTaste": {
     "title": "Research Taste",
@@ -17618,6 +17638,10 @@
   "TeamMarketing": {
     "title": "Team Marketing",
     "url": "/wiki/entities/teammarketing/"
+  },
+  "TechCultureBiohacking": {
+    "title": "Tech-Culture Biohacking",
+    "url": "/wiki/concepts/techculturebiohacking/"
   },
   "TechForCampaigns": {
     "title": "Tech for Campaigns",
@@ -21158,6 +21182,10 @@
   "tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128": {
     "title": "Bytes: Week in Review - New chip exports for China, Microsoft to pay electricity for AI data centers, and Gemini will power Apple's AI",
     "url": "/wiki/sources/tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128/"
+  },
+  "tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128": {
+    "title": "The 'biohacking' trend that has tech workers experimenting on themselves",
+    "url": "/wiki/sources/tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128/"
   },
   "tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128": {
     "title": "How \\\"surveillance pricing\\\" charges one online customer more than another for the same item",
