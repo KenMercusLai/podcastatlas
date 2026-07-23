@@ -4240,6 +4240,10 @@ Added source page for a 蜜獾吃书 episode on 罗翔《法律的悖论》, cov
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-24] ingest | 131.“日常之谜”推理：是我未能说出口的真心
+
+Added source page for a 蜜獾吃书 episode on 日常推理 / 日常之谜, ordinary anomalies, hidden feelings, 《仙人掌之花》, 加纳朋子《玻璃长颈鹿》, 米泽穗信《小市民》系列, and 钟声礼《放学后的小巷》 as a future daily-life mystery recommendation. Created pages for 《仙人掌之花》, 加纳朋子, 《玻璃长颈鹿》, 米泽穗信, 《小市民》系列, and Unspoken Feeling As Mystery; updated overview, index, 蜜獾吃书, Daily-Life Mystery, Puzzle-Snack Mystery, 《放学后的小巷》, and 钟声礼. Corrected the existing display spelling from 钟声离 to 钟声礼 in current wiki pages. No substantive contradiction remains; the source extends episode 168's daily-life mystery branch by showing that small mysteries can hide gratitude, trauma guilt, or playful rivalry.
+
 ## [2026-07-24] ingest | 128.闲聊十二生肖之蛇：从耶梦加得到赵灵儿
 
 Added source page for the 蜜獾吃书 zodiac-snake episode on real snake behavior, snake safety, biomimetic fascination, world-serpent mythology, renewal, secret knowledge, White Snake, Zhao Ling'er, and snake-woman symbolism. Created pages for Snake, White Snake Legend, Zhao Ling'er, Snake Cultural Symbolism, Snake Religious Mythology, Snake Renewal And Secret Knowledge, and Snake Female Power Motif; updated overview, index, 蜜獾吃书, Chinese Zodiac, Mythic Source Layering, Myth As Historical Evidence, Chinese Folk Religion Layering, Story Motif Transmission, and Folklore As Social Memory. No direct contradiction found; the source extends the zodiac branch by showing how the snake differs from dragon and horse cases through fear, biological strangeness, renewal, secrecy, and gendered control rather than national-symbol invention or civilizational infrastructure.

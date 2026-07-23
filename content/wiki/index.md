@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [131.“日常之谜”推理：是我未能说出口的真心](sources/131-richang-zhimi-tuili-shi-wo-wei-neng-shuo-chukou-de-zhenxin-805617229.md) — 蜜獾吃书 episode on 日常推理 / 日常之谜 through 《仙人掌之花》, 加纳朋子《玻璃长颈鹿》, 米泽穗信《小市民》, hidden feelings, trauma guilt, and dessert-clue play.
 - [130.托卡尔丘克《怪诞故事集》：寻找和告别](sources/130-tuokaerqiuke-guaidan-gushiji-xunzhao-he-gaobie-803543569.md) — 蜜獾吃书 episode on Olga Tokarczuk's 《怪诞故事集》, everyday weirdness, self-recognition horror, domestic AI relations, aging estrangement, preserved maternal grief, transformation, wolves, and farewell to 徐熙元.
 - [129.如何成为真正的不完美主义者，浑身是劲儿！](sources/129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151.md) — 蜜獾吃书 episode on perfectionism as avoidance, imperfect action, binary completion, failure desensitization, high-general/low-specific expectations, and concrete self-praise.
 - [128.闲聊十二生肖之蛇：从耶梦加得到赵灵儿](sources/128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305.md) — 蜜獾吃书 episode on the zodiac snake, real snake behavior, world-serpent mythology, renewal, secret knowledge, White Snake, Zhao Ling'er, and snake-woman symbolism.
@@ -132,7 +133,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Can computer hackers get inside your mind?](sources/can-computer-hackers-get-inside-your-mind.md) — Planet Money episode on Fast 16 malware, Stuxnet-like cyber sabotage, corrupted high-precision calculations, possible nuclear-weapons modeling, and epistemological warfare.
 - [Iran, protests, and sanctions](sources/iran-protests-and-sanctions.md) — Planet Money episode on U.S. sanctions against Iran, currency-triggered protest, revolutionary economic self-reliance, dollar financial sanctions, overcompliance, IRGC insider gains, and civilian costs.
 - [It's my tree. Why can't I cut it down?](sources/its-my-tree-why-cant-i-cut-it-down.md) — Planet Money episode on Portland and Canton tree laws, urban canopy externalities, private property rights, regulatory takings, and proportional permit fees.
-- [168.放学后的小巷：致青春，致那年的友谊【日常推理强势回归！！】](sources/168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535.md) — 蜜獾吃书 episode on 钟声离《放学后的小巷》, 日常推理, a tofu-pudding and bicycle clue chain, youth friendship, poverty, dignity protection, and school-area memory.
+- [168.放学后的小巷：致青春，致那年的友谊【日常推理强势回归！！】](sources/168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535.md) — 蜜獾吃书 episode on 钟声礼《放学后的小巷》, 日常推理, a tofu-pudding and bicycle clue chain, youth friendship, poverty, dignity protection, and school-area memory.
 - [167.命若朝霜：为什么红楼梦不需要悼明？](sources/167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324.md) — 蜜獾吃书 episode using 《命若朝霜》 to read 《红楼梦》 through Qing law, inheritance, marriage procedure, low-status performers, confiscation, and why the novel does not need a 悼明 code to be politically serious.
 - [【闲聊】想送赵露思一本短歌集--编辑推书,无所不用其极！](sources/xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770.md) — 蜜獾吃书 × 有问题呀 crossover using 赵露思, 石川啄木, 《短歌是我悲伤的玩具》, 活人感, and internet moral trial to connect poetry, publishing, celebrity vulnerability, and public-expression boundaries.
 - [152.夜色如水话七夕，牛郎原本是保安？【民俗学系列填坑啦】](sources/152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062.md) — 蜜獾吃书 episode on 七夕, 牛郎织女, 乞巧, the Swan Maiden motif, star lore, Song urban festival objects, 刘宗迪《七夕》, and cross-cultural folklore transmission.
@@ -549,6 +550,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《仙人掌之花》](entities/CactusFlowerStory.md) — Warm daily-life mystery story discussed in episode 131 where a cactus/agave "superpower" project hides children's gratitude to a retiring teacher.
+- [加纳朋子 / Kana Tomoko](entities/KanaTomoko.md) — Japanese mystery writer introduced through 《玻璃长颈鹿》 as a darker daily-life mystery example.
+- [《玻璃长颈鹿》](entities/GlassGiraffe.md) — 加纳朋子 work used by episode 131 to show daily-life mystery through fear, silence, counterfactual guilt, and a possession-like puzzle.
+- [米泽穗信 / Yonezawa Honobu](entities/YonezawaHonobu.md) — Japanese mystery writer introduced through 《冰果》/古典部 context and the 《小市民》 dessert case.
+- [《小市民》系列](entities/ShoshiminSeries.md) — 米泽穗信 series used by episode 131 for a light daily-life mystery built around dessert, evidence cleaning, and playful rivalry.
 - [Olga Tokarczuk / 托卡尔丘克](entities/OlgaTokarczuk.md) — Polish writer discussed by episode 130 through 《怪诞故事集》 and its everyday-weird short-story method.
 - [《怪诞故事集》 / Bizarre Stories](entities/BizarreStories.md) — Tokarczuk short-story collection used by episode 130 to connect self-recognition, domestic AI, aging, preserved grief, and transformation.
 - [Ovid / 奥维德](entities/Ovid.md) — Classical author invoked by episode 130's 〈变形中心〉 reading as a way to think about metamorphosis through similarity and continuity.
@@ -1392,8 +1398,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Annemarie Graham-Hudak](entities/AnnemarieGrahamHudak.md) — Canton township supervisor explaining trees as public infrastructure for shade, air quality, stormwater, flood prevention, and community health.
 - [Chance Weldon](entities/ChanceWeldon.md) — Texas Public Policy Foundation litigation director arguing the Canton tree-fee system violated property-rights and permit-proportionality limits.
 - [Texas Public Policy Foundation](entities/TexasPublicPolicyFoundation.md) — Property-rights legal advocacy organization connected to the Canton tree ordinance challenge through Chance Weldon.
-- [《放学后的小巷》](entities/FangxuehouDeXiaoxiang.md) — 钟声离 daily-life mystery collection discussed through a school-side alley, tofu-pudding clues, youth friendship, poverty, and dignity-protecting deduction.
-- [钟声离](entities/ZhongShengli.md) — Author of 《放学后的小巷》, used by episode 168 as a contemporary Chinese daily-life mystery case that reaches beyond the genre's small circle.
+- [《放学后的小巷》](entities/FangxuehouDeXiaoxiang.md) — 钟声礼 daily-life mystery collection discussed through a school-side alley, tofu-pudding clues, youth friendship, poverty, and dignity-protecting deduction.
+- [钟声礼](entities/ZhongShengli.md) — Author of 《放学后的小巷》, used by episode 168 as a contemporary Chinese daily-life mystery case that reaches beyond the genre's small circle.
 - [阿里（《放学后的小巷》）](entities/AliFangxuehou.md) — Student protagonist whose attention to tofu pudding, bicycle parts, and friend behavior turns deduction into protection rather than exposure.
 - [严良（《放学后的小巷》）](entities/YanLiangFangxuehou.md) — High-performing student whose hidden family pressure and self-respect become the emotional center of the first story's mystery.
 - [孟同学（《放学后的小巷》）](entities/MengTongxueFangxuehou.md) — Friend whose modified bicycle supplies the mechanical clue that 阿里 manages carefully to protect 严良.
@@ -3654,6 +3660,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [说不出口的心事 / Unspoken Feeling As Mystery](concepts/UnspokenFeelingAsMystery.md) — Episode 131 concept for daily-life mystery where ordinary puzzles arise from gratitude, embarrassment, fear, guilt, or playful concealment that cannot be directly said.
 - [Everyday Weirdness](concepts/EverydayWeirdness.md) — Episode 130 frame for ordinary settings made strange enough to expose hidden fear, grief, selfhood, labor, and farewell.
 - [Fourth-Person Narrative](concepts/FourthPersonNarrative.md) — Episode 130 narrative-selfhood frame where an "I" encounters itself indirectly through another voice or future self.
 - [Self-Recognition Horror](concepts/SelfRecognitionHorror.md) — Episode 130 pattern where the frightening other is later recognized as an unrecognized version of oneself.

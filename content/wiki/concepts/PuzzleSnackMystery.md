@@ -2,8 +2,8 @@
 title: "推理薯片 / Puzzle-Snack Mystery"
 type: concept
 tags: [mystery, literature, entertainment, reading]
-sources: [99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535, 158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122]
-last_updated: 2026-07-18
+sources: [131-richang-zhimi-tuili-shi-wo-wei-neng-shuo-chukou-de-zhenxin-805617229, 99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535, 158-quanyuan-mingzhentan-tuili-shupian-lai-yibao-929377122]
+last_updated: 2026-07-24
 ---
 
 # 推理薯片 / Puzzle-Snack Mystery
@@ -16,6 +16,8 @@ The concept belongs beside [[NonInstrumentalLiteraryReading]] because it refuses
 
 [[168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535]] clarifies the boundary of this concept by contrast. [[FangxuehouDeXiaoxiang|《放学后的小巷》]] is also accessible mystery, but its [[DailyLifeMystery|日常推理]] pleasure depends less on snack-like puzzle throughput and more on small clues revealing friendship, poverty, self-respect, and [[DignityProtectingDeduction|体面保护式推理]].
 
+[[131-richang-zhimi-tuili-shi-wo-wei-neng-shuo-chukou-de-zhenxin-805617229]] adds a dessert-sized overlap through [[YonezawaHonobu|米泽穗信]]'s [[ShoshiminSeries|《小市民》系列]]. 小鸠's attempt to hide that he ate the third Charlotte cake is light enough to feel snack-like, but the episode still places it inside [[DailyLifeMystery|日常推理]] because the clues belong to ordinary rooms, wrappers, plates, drinks, and social rivalry.
+
 ## Key Claims
 - A mystery can be satisfying because its puzzle is well staged, even if its motive or premise is deliberately outrageous.
 - Snack-like reading lowers solemn expectations without eliminating craft.
@@ -24,12 +26,14 @@ The concept belongs beside [[NonInstrumentalLiteraryReading]] because it refuses
 - Puzzle pleasure is different from forensic realism, social critique, or literary prestige, but it is still a real reading value.
 - The adjacent daily-life mystery mode can share puzzle accessibility while shifting the payoff from answer-click to character protection.
 - Folk-tale setting mysteries can be snack-like when their magical rules are explicit enough for fair play.
+- Dessert-scale mysteries can be snack-like in both subject and rhythm while still revealing character through concealment.
 
 ## Connections
 - [[QuanYuanXianYiRen|《全员嫌疑人》]] and [[QuanYuanMingZhenTan|《全员名侦探》]] - source examples.
 - [[WatsonPower|华生力]] - device that repeatedly produces new temporary solvers.
 - [[ClosedCircleMystery|暴风雪山庄]] - structure that makes the puzzle finite and playable.
 - [[DailyLifeMystery|日常推理]] and [[DignityProtectingDeduction|体面保护式推理]] - adjacent mode from episode 168 where ordinary clues protect a friend's dignity.
+- [[ShoshiminSeries|《小市民》系列]] - episode 131 example of dessert-table clue play.
 - [[SettingBasedMystery|设定系推理]], [[FolkTaleMysteryRewriting|民间故事推理改写]], and [[MukashiMukashiAruTokoroNiShitaiGaArimashita|《很久很久以前，在某个地方有一具尸体》]] - folk-tale puzzle variant added by episode 99.
 - [[NonInstrumentalLiteraryReading]] - broader reading frame for pleasure not reducible to utility.
 - [[AbsurdRationality]] - nearby humor concept where impossible premises still require local internal logic.

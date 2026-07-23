@@ -3,7 +3,7 @@ title: "国产推理出版生态 / Chinese Mystery Publishing Ecology"
 type: concept
 tags: [mystery, publishing, literature, china]
 sources: [168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]
-last_updated: 2026-07-18
+last_updated: 2026-07-24
 ---
 
 # 国产推理出版生态 / Chinese Mystery Publishing Ecology
@@ -22,7 +22,7 @@ The source names publishing industry capacity, awards, author compensation, and 
 - Chinese historical mystery has a strong archive base, but it needs public and institutional room to revise responsibly without being mistaken for anti-history posturing.
 
 ## Connections
-- [[FangxuehouDeXiaoxiang|《放学后的小巷》]] and [[ZhongShengli|钟声离]] - source case.
+- [[FangxuehouDeXiaoxiang|《放学后的小巷》]] and [[ZhongShengli|钟声礼]] - source case.
 - [[DailyLifeMystery|日常推理]] - accessible genre route emphasized by the episode.
 - [[PuzzleSnackMystery|推理薯片]] - adjacent genre-pleasure route from episode 158.
 - [[GongAnFiction|公案小说]] and [[ChineseDetectiveModernity]] - older case-fiction and translation-modernity branch added by episode 69.

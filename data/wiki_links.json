@@ -147,6 +147,10 @@
     "title": "130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏",
     "url": "/wiki/sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi/"
   },
+  "131-richang-zhimi-tuili-shi-wo-wei-neng-shuo-chukou-de-zhenxin-805617229": {
+    "title": "131.“日常之谜”推理：是我未能说出口的真心",
+    "url": "/wiki/sources/131-richang-zhimi-tuili-shi-wo-wei-neng-shuo-chukou-de-zhenxin-805617229/"
+  },
   "131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan": {
     "title": "131. 印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程",
     "url": "/wiki/sources/131-yin-qi-churen-jieyue-xingchen-dongshizhang-de-fangtan/"
@@ -3666,6 +3670,10 @@
   "CabinCrewWork": {
     "title": "Cabin Crew Work",
     "url": "/wiki/concepts/cabincrewwork/"
+  },
+  "CactusFlowerStory": {
+    "title": "《仙人掌之花》",
+    "url": "/wiki/entities/cactusflowerstory/"
   },
   "CadenceDesignSystems": {
     "title": "Cadence Design Systems / 楷登",
@@ -8603,6 +8611,10 @@
     "title": "Glamour",
     "url": "/wiki/entities/glamour/"
   },
+  "GlassGiraffe": {
+    "title": "《玻璃长颈鹿》",
+    "url": "/wiki/entities/glassgiraffe/"
+  },
   "GlazerFamily": {
     "title": "Glazer Family",
     "url": "/wiki/entities/glazerfamily/"
@@ -11318,6 +11330,10 @@
   "Kamchatka": {
     "title": "Kamchatka / 勘察加",
     "url": "/wiki/entities/kamchatka/"
+  },
+  "KanaTomoko": {
+    "title": "加纳朋子 / Kana Tomoko",
+    "url": "/wiki/entities/kanatomoko/"
   },
   "KangHongwen": {
     "title": "康宏文 Henry",
@@ -18115,6 +18131,10 @@
     "title": "Short-Video Creation Tools",
     "url": "/wiki/concepts/shortvideocreationtools/"
   },
+  "ShoshiminSeries": {
+    "title": "《小市民》系列",
+    "url": "/wiki/entities/shoshiminseries/"
+  },
   "ShuCai": {
     "title": "树才",
     "url": "/wiki/entities/shucai/"
@@ -20611,6 +20631,10 @@
     "title": "Unscalable Founder Work",
     "url": "/wiki/concepts/unscalablefounderwork/"
   },
+  "UnspokenFeelingAsMystery": {
+    "title": "说不出口的心事 / Unspoken Feeling As Mystery",
+    "url": "/wiki/concepts/unspokenfeelingasmystery/"
+  },
   "UpwardManagement": {
     "title": "Upward Management",
     "url": "/wiki/concepts/upwardmanagement/"
@@ -21959,6 +21983,10 @@
     "title": "妖怪推理 / Yokai Mystery",
     "url": "/wiki/concepts/yokaimystery/"
   },
+  "YonezawaHonobu": {
+    "title": "米泽穗信 / Yonezawa Honobu",
+    "url": "/wiki/entities/yonezawahonobu/"
+  },
   "YorubaTwinCosmology": {
     "title": "Yoruba Twin Cosmology",
     "url": "/wiki/concepts/yorubatwincosmology/"
@@ -22280,7 +22308,7 @@
     "url": "/wiki/entities/zhongkui/"
   },
   "ZhongShengli": {
-    "title": "钟声离",
+    "title": "钟声礼",
     "url": "/wiki/entities/zhongshengli/"
   },
   "ZhongXuegao": {
