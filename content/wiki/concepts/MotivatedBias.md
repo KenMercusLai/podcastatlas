@@ -2,11 +2,13 @@
 title: "Motivated Bias / 动机偏差"
 type: concept
 tags: [psychology, negotiation, decision-making]
-sources: [123-renxing-shiyan-dangxin-ni-ziji-779479569, 106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645]
+sources: [132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 123-renxing-shiyan-dangxin-ni-ziji-779479569, 106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645]
 last_updated: 2026-07-24
 ---
 
 # Motivated Bias / 动机偏差
+
+[[132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]] adds belief-change pressure to motivated bias. The source argues that people do not process every correction equally: if a claim is distant, entertaining, status-protecting, or group-affirming, [[CognitiveInertia]] and [[TribalTruth]] make the preferred interpretation cheaper than real updating.
 
 Motivated bias is the distortion that comes from wanting an interpretation to be true. [[106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645]] lists self-serving attribution, overconfidence, irrational optimism, and superiority illusion as examples that can damage negotiation.
 

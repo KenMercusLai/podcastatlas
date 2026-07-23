@@ -2,11 +2,13 @@
 title: "Social Psychology / 社会心理学"
 type: concept
 tags: [psychology, society, behavior, experiments]
-sources: [123-renxing-shiyan-dangxin-ni-ziji-779479569]
+sources: [132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 123-renxing-shiyan-dangxin-ni-ziji-779479569]
 last_updated: 2026-07-24
 ---
 
 # Social Psychology / 社会心理学
+
+[[132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]] extends social psychology from self-suspicion into argument and persuasion. The episode uses perception experiments, cognitive dissonance, conspiracy belief, vaccine discourse, group polarization, and deep canvassing to show how social context changes what people can notice, defend, and revise.
 
 Social psychology / 社会心理学 is the source's name for studying how people perceive, judge, and act inside social situations. In [[123-renxing-shiyan-dangxin-ni-ziji-779479569]], [[MihuanChishu|蜜獾吃书]] contrasts this experimental tradition with folk maxims, literary cleverness, and after-the-fact certainty about "human nature."
 

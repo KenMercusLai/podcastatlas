@@ -163,6 +163,10 @@
     "title": "132. 雪糕江湖",
     "url": "/wiki/sources/132-xuegao-jianghu-fengtouquan-1-132-1/"
   },
+  "132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318": {
+    "title": "132.争论与说服：我们为什么吵架，怎么才算赢？",
+    "url": "/wiki/sources/132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318/"
+  },
   "133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42": {
     "title": "133. 对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42",
     "url": "/wiki/sources/133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42/"
@@ -4723,6 +4727,14 @@
     "title": "Cognition",
     "url": "/wiki/entities/cognition/"
   },
+  "CognitiveDissonanceAndAccommodation": {
+    "title": "Cognitive Dissonance And Accommodation / 认知失调与顺应",
+    "url": "/wiki/concepts/cognitivedissonanceandaccommodation/"
+  },
+  "CognitiveInertia": {
+    "title": "Cognitive Inertia / 认知惰性",
+    "url": "/wiki/concepts/cognitiveinertia/"
+  },
   "Coinbase": {
     "title": "Coinbase",
     "url": "/wiki/entities/coinbase/"
@@ -5763,6 +5775,10 @@
     "title": "David Lieb",
     "url": "/wiki/entities/davidlieb/"
   },
+  "DavidMcRaney": {
+    "title": "David McRaney / 大卫·麦克雷尼",
+    "url": "/wiki/entities/davidmcraney/"
+  },
   "DavidRusenko": {
     "title": "David Rusenko",
     "url": "/wiki/entities/davidrusenko/"
@@ -5818,6 +5834,10 @@
   "Deckers": {
     "title": "Deckers",
     "url": "/wiki/entities/deckers/"
+  },
+  "DeepCanvassing": {
+    "title": "Deep Canvassing / 深度说服",
+    "url": "/wiki/concepts/deepcanvassing/"
   },
   "DeepResearch": {
     "title": "Deep Research",
@@ -6734,6 +6754,10 @@
   "ElNinoClimateRisk": {
     "title": "El Nino Climate Risk",
     "url": "/wiki/concepts/elninoclimaterisk/"
+  },
+  "ElaborationLikelihoodModel": {
+    "title": "Elaboration Likelihood Model / 精细加工可能性模型",
+    "url": "/wiki/concepts/elaborationlikelihoodmodel/"
   },
   "EldenRing": {
     "title": "Elden Ring / 艾尔登法环",
@@ -8851,6 +8875,10 @@
     "title": "Groq",
     "url": "/wiki/entities/groq/"
   },
+  "GroupPolarization": {
+    "title": "Group Polarization / 群体极化",
+    "url": "/wiki/concepts/grouppolarization/"
+  },
   "Grouper": {
     "title": "Grouper",
     "url": "/wiki/entities/grouper/"
@@ -10166,6 +10194,10 @@
   "InformationApocalypse": {
     "title": "Information Apocalypse",
     "url": "/wiki/concepts/informationapocalypse/"
+  },
+  "InformationCocoon": {
+    "title": "Information Cocoon / 信息茧房",
+    "url": "/wiki/concepts/informationcocoon/"
   },
   "InformationEntropyAsOpportunity": {
     "title": "Information Entropy As Opportunity",
@@ -14099,6 +14131,10 @@
     "title": "Naftali Bennett",
     "url": "/wiki/entities/naftalibennett/"
   },
+  "NamingPowerSocialChange": {
+    "title": "Naming Power In Social Change / 社会变革中的命名权",
+    "url": "/wiki/concepts/namingpowersocialchange/"
+  },
   "NancyQian": {
     "title": "Nancy Qian",
     "url": "/wiki/entities/nancyqian/"
@@ -15443,6 +15479,10 @@
     "title": "Peter Thiel",
     "url": "/wiki/entities/peterthiel/"
   },
+  "PeterWason": {
+    "title": "Peter Wason / 彼得·沃森",
+    "url": "/wiki/entities/peterwason/"
+  },
   "PetrCech": {
     "title": "Petr Cech",
     "url": "/wiki/entities/petrcech/"
@@ -16182,6 +16222,10 @@
   "PubMed": {
     "title": "PubMed",
     "url": "/wiki/entities/pubmed/"
+  },
+  "PublicArgumentForBystanders": {
+    "title": "Public Argument For Bystanders / 给第三方看的争论",
+    "url": "/wiki/concepts/publicargumentforbystanders/"
   },
   "PublicCompanyTransition": {
     "title": "Public Company Transition",
@@ -19095,6 +19139,10 @@
     "title": "Subject-Led Care",
     "url": "/wiki/concepts/subjectledcare/"
   },
+  "SubjectiveRealityConstruction": {
+    "title": "Subjective Reality Construction / 主观现实建构",
+    "url": "/wiki/concepts/subjectiverealityconstruction/"
+  },
   "SubjectiveValue": {
     "title": "Subjective Value",
     "url": "/wiki/concepts/subjectivevalue/"
@@ -20230,6 +20278,10 @@
   "TriangleIntimacyEthics": {
     "title": "Triangle Intimacy Ethics",
     "url": "/wiki/concepts/triangleintimacyethics/"
+  },
+  "TribalTruth": {
+    "title": "Tribal Truth / 部落真相",
+    "url": "/wiki/concepts/tribaltruth/"
   },
   "TricksterAmbivalence": {
     "title": "Trickster Ambivalence",
@@ -22286,6 +22338,10 @@
   "ZhengkeFund": {
     "title": "ZhenFund",
     "url": "/wiki/entities/zhengkefund/"
+  },
+  "ZhenglunYuShuofu": {
+    "title": "《争论与说服》 / How Minds Change",
+    "url": "/wiki/entities/zhenglunyushuofu/"
   },
   "ZhengmianLianjie": {
     "title": "正面连接",

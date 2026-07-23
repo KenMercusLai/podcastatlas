@@ -4340,6 +4340,10 @@ Added source page for a 蜜獾吃书 episode on 《是，大臣》 and 《是，
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-24] ingest | 132.争论与说服：我们为什么吵架，怎么才算赢？
+
+Added source page for a 蜜獾吃书 episode on David McRaney's 《争论与说服》 / How Minds Change, online argument, belief change, subjective reality, cognitive inertia, cognitive dissonance, tribal truth, information cocoons, group polarization, ELM, deep canvassing, public argument for bystanders, and naming as social change. Created pages for 《争论与说服》 / How Minds Change, David McRaney, Peter Wason, Subjective Reality Construction, Cognitive Inertia, Cognitive Dissonance And Accommodation, Tribal Truth, Information Cocoon, Group Polarization, Elaboration Likelihood Model, Deep Canvassing, Public Argument For Bystanders, and Naming Power In Social Change; updated overview, index, 蜜獾吃书, 秦总, 北明/北民, Cass Sunstein, Social Psychology, Social Reality Construction, Motivated Bias, Rational Humility, Conspiracy Theory Pattern Seeking, Scientific Skepticism, Internet Moral Trial, Communication Boundary Setting, Interest-Based Negotiation, and Constructive Dissent. No direct contradiction found; the source extends the negotiation and social-psychology branches by showing that argument success depends on audience, motivation, identity, relationship, and naming, not only on better facts.
+
 ## [2026-07-24] ingest | 119.安乐死现场：正因生命如此珍贵
 
 Added source page for a 蜜獾吃书 episode on 《安乐死现场》, euthanasia, assisted suicide, Swiss Life Circle and Dignitas, Dutch and Belgian assisted-death models, the Brittany Maynard / Dan Diaz dignity-death case, Ramon Sampedro's Spanish family conflict, Hayashi Yuri's Japanese criminal-law case, and Wang Mingchen / Pu Liansheng's Chinese case. Created pages for 《安乐死现场》, Life Circle, Dignitas, Brittany Maynard, Dan Diaz, Ramon Sampedro, Hayashi Yuri, Wang Mingchen, Pu Liansheng, Netherlands, Belgium, Assisted Death Concept Boundary, Cross-Cultural Assisted Death Ethics, End-of-Life Autonomy And Dignity, Assisted Death Clinical Responsibility, Family Ethics At End Of Life, Death Option As Psychological Relief, and Euthanasia Uncertainty Stance; updated overview, index, 蜜獾吃书, Assisted Dying Laws, Assisted Dying Safeguards, Death with Dignity, Hospice Care, Pain And Moral Responsibility, Present Moment Against Death, Subject-Led Care, Rational Humility, Internet Moral Trial, Law-Morality Boundary, Legal Paradox Thinking, Switzerland, Spain, Japan, China, and United States. No direct contradiction found; the source extends existing mortality and legal-ethics branches by showing why assisted death cannot be reduced to a single pro/con stance when pain, dignity, family love, clinical responsibility, and legal safeguards all remain morally active.
@@ -4415,6 +4419,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-24] ingest | 130.托卡尔丘克《怪诞故事集》：寻找和告别
 
 Added source page for a 蜜獾吃书 episode on Olga Tokarczuk's 《怪诞故事集》, covering 〈旅客〉, 〈拜访〉, 〈接缝〉, 〈罐头〉, and 〈变形中心〉 through everyday weirdness, self-recognition horror, fourth-person narrative, domestic AI relations, aging reality estrangement, preserved maternal grief, transformation, Ovidian metamorphosis, wolves, and farewell to 徐熙元. Created pages for Olga Tokarczuk, 《怪诞故事集》, Ovid, Metamorphoses, 徐熙元, Everyday Weirdness, Fourth-Person Narrative, Self-Recognition Horror, Aging Reality Estrangement, Domestic AI Relations, and Transformation As Exit; updated overview, index, 蜜獾吃书, Weird Fiction, Guaitan Literature, Genre Literary Legitimacy, Embodied Aging, Science Fiction Realism, Robot-Human Boundary, and End-of-Life Autonomy And Dignity. No direct contradiction found; the source complements the assisted-death branch by offering a speculative literary analogue to voluntary exit without equating transformation with medical assisted death.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-24] lint | Wiki health check
 

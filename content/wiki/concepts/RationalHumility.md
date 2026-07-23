@@ -2,11 +2,13 @@
 title: "Rational Humility"
 type: concept
 tags: [reasoning, science, evidence, epistemology]
-sources: [119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 174-du-dikaer-shi-jian-dashi-966856702, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
+sources: [132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 174-du-dikaer-shi-jian-dashi-966856702, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
 last_updated: 2026-07-24
 ---
 
 # Rational Humility
+
+[[132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]] adds an argument-and-persuasion version. The episode distinguishes caution from performative neutrality: limited information should lower confidence, but claiming absolute neutrality can become another status posture. It also treats persuasion as ethically bounded, because trying to change someone else requires a prior check of purpose, relationship, and value.
 
 Rational humility is the discipline of using reason without pretending that inference has become certainty. [[54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699]] adds the concept through [[WilliamOfBaskerville|巴斯克维尔的威廉 / William of Baskerville]], who represents observation, experiment, and skepticism but still admits that some of his apparently brilliant deductions were guesses that happened to land near the truth.
 

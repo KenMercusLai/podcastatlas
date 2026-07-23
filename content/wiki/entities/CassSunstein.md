@@ -2,11 +2,13 @@
 title: "Cass Sunstein"
 type: entity
 tags: [person, law, politics, governance]
-sources: [173-tanhe-ruhe-bamian-yiwei-zongtong-963141809]
+sources: [132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809]
 last_updated: 2026-07-15
 ---
 
 # Cass Sunstein
+
+[[132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]] adds Sunstein as the group-polarization reference in the show's belief-change branch. The episode uses [[GroupPolarization]] to explain why like-minded groups can become more extreme over time, especially inside [[InformationCocoon|information cocoons]] where status and loyalty shift the local center.
 
 Cass Sunstein is the legal scholar whose [[ImpeachmentBook|《弹劾》]] supplies the main framework for [[173-tanhe-ruhe-bamian-yiwei-zongtong-963141809]]. The episode introduces him as a highly cited law professor with government advisory and regulatory experience, then uses his view to separate [[PresidentialImpeachment|presidential impeachment]] from ordinary criminal punishment or partisan rejection.
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [132.争论与说服：我们为什么吵架，怎么才算赢？](sources/132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318.md) — 蜜獾吃书 episode on David McRaney's 《争论与说服》 / How Minds Change, online argument, subjective reality, cognitive inertia, tribal truth, group polarization, ELM, deep canvassing, and naming as social change.
 - [131.“日常之谜”推理：是我未能说出口的真心](sources/131-richang-zhimi-tuili-shi-wo-wei-neng-shuo-chukou-de-zhenxin-805617229.md) — 蜜獾吃书 episode on 日常推理 / 日常之谜 through 《仙人掌之花》, 加纳朋子《玻璃长颈鹿》, 米泽穗信《小市民》, hidden feelings, trauma guilt, and dessert-clue play.
 - [130.托卡尔丘克《怪诞故事集》：寻找和告别](sources/130-tuokaerqiuke-guaidan-gushiji-xunzhao-he-gaobie-803543569.md) — 蜜獾吃书 episode on Olga Tokarczuk's 《怪诞故事集》, everyday weirdness, self-recognition horror, domestic AI relations, aging estrangement, preserved maternal grief, transformation, wolves, and farewell to 徐熙元.
 - [129.如何成为真正的不完美主义者，浑身是劲儿！](sources/129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151.md) — 蜜獾吃书 episode on perfectionism as avoidance, imperfect action, binary completion, failure desensitization, high-general/low-specific expectations, and concrete self-praise.
@@ -550,6 +551,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《争论与说服》 / How Minds Change](entities/ZhenglunYuShuofu.md) — David McRaney book used by episode 132 to connect argument, belief change, subjective reality, tribal truth, deep canvassing, and social naming.
+- [David McRaney / 大卫·麦克雷尼](entities/DavidMcRaney.md) — Author of 《争论与说服》 / How Minds Change, entering the wiki through episode 132's belief-change and persuasion branch.
+- [Peter Wason / 彼得·沃森](entities/PeterWason.md) — Psychologist referenced through the number-rule experiment as a case of small-sample confirmation and the need for argument to widen evidence.
 - [《仙人掌之花》](entities/CactusFlowerStory.md) — Warm daily-life mystery story discussed in episode 131 where a cactus/agave "superpower" project hides children's gratitude to a retiring teacher.
 - [加纳朋子 / Kana Tomoko](entities/KanaTomoko.md) — Japanese mystery writer introduced through 《玻璃长颈鹿》 as a darker daily-life mystery example.
 - [《玻璃长颈鹿》](entities/GlassGiraffe.md) — 加纳朋子 work used by episode 131 to show daily-life mystery through fear, silence, counterfactual guilt, and a possession-like puzzle.
@@ -3660,6 +3664,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Subjective Reality Construction / 主观现实建构](concepts/SubjectiveRealityConstruction.md) — Episode 132 frame that perceived reality is a brain-built model shaped by sensory input, expectation, experience, and perspective-taking.
+- [Cognitive Inertia / 认知惰性](concepts/CognitiveInertia.md) — Belief-preservation tendency where people avoid costly updating unless relevance, risk, or reward makes deeper processing worthwhile.
+- [Cognitive Dissonance And Accommodation / 认知失调与顺应](concepts/CognitiveDissonanceAndAccommodation.md) — Episode 132 mechanism distinguishing cheap assimilation of conflicting evidence from real model-changing accommodation.
+- [Tribal Truth / 部落真相](concepts/TribalTruth.md) — Identity-bound belief pattern where claims function as belonging, loyalty, and safety rather than only factual propositions.
+- [Information Cocoon / 信息茧房](concepts/InformationCocoon.md) — Selective information environment that protects same-side belief and helps group positions harden.
+- [Group Polarization / 群体极化](concepts/GroupPolarization.md) — Pattern where same-leaning groups become more extreme as in-group signals reset what counts as the local center.
+- [Elaboration Likelihood Model / 精细加工可能性模型](concepts/ElaborationLikelihoodModel.md) — Persuasion model used by episode 132 to explain why facts persuade only when motivation supports deeper processing.
+- [Deep Canvassing / 深度说服](concepts/DeepCanvassing.md) — One-to-one persuasion method based on rapport, permission, listening, confidence scoring, and self-reflection rather than evidence dumping.
+- [Public Argument For Bystanders / 给第三方看的争论](concepts/PublicArgumentForBystanders.md) — Episode 132 distinction between making an opponent concede and publicly giving witnesses evidence, language, and a counter-position.
+- [Naming Power In Social Change / 社会变革中的命名权](concepts/NamingPowerSocialChange.md) — Episode 132 frame for how naming roles and behaviors makes new social coordination and norm change possible.
 - [说不出口的心事 / Unspoken Feeling As Mystery](concepts/UnspokenFeelingAsMystery.md) — Episode 131 concept for daily-life mystery where ordinary puzzles arise from gratitude, embarrassment, fear, guilt, or playful concealment that cannot be directly said.
 - [Everyday Weirdness](concepts/EverydayWeirdness.md) — Episode 130 frame for ordinary settings made strange enough to expose hidden fear, grief, selfhood, labor, and farewell.
 - [Fourth-Person Narrative](concepts/FourthPersonNarrative.md) — Episode 130 narrative-selfhood frame where an "I" encounters itself indirectly through another voice or future self.

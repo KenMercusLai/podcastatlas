@@ -2,11 +2,13 @@
 title: "Internet Moral Trial / 互联网审判"
 type: concept
 tags: [internet-culture, judgment, public-expression, creators, ethics]
-sources: [123-renxing-shiyan-dangxin-ni-ziji-779479569, 121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]
+sources: [132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 123-renxing-shiyan-dangxin-ni-ziji-779479569, 121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]
 last_updated: 2026-07-24
 ---
 
 # Internet Moral Trial / 互联网审判
+
+[[132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]] adds a public-argument boundary. The source accepts that some online conflict can be worth having for third-party witnesses, but it warns against confusing that with endless attempts to make a hostile stranger concede or with addictive punishment-seeking.
 
 Internet moral trial / 互联网审判 is the episode's critique of turning partial online information into whole-person condemnation. In [[xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770]], the hosts move from [[ZhaoLusi|赵露思]] discourse to a broader warning: criticizing public power or systems is different from treating an individual as fully knowable and punishable from a distance.
 

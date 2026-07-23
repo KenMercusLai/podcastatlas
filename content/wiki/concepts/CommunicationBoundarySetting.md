@@ -2,11 +2,13 @@
 title: "Communication Boundary Setting"
 type: concept
 tags: [communication, workplace, social, boundaries, trauma]
-sources: [116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645, 137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu]
+sources: [132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645, 137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu]
 last_updated: 2026-07-24
 ---
 
 # Communication Boundary Setting
+
+[[132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]] adds an argument boundary: decide whether the goal is public evidence, personal persuasion, emotional release, or silence. The episode treats speaking as valuable when one has information, experience, or a witness audience, but treats restraint as kinder when a person lacks knowledge or would only add noise.
 
 Communication boundary setting is the practice of choosing what to say, decline, defer, or leave unsaid based on relationship, setting, and likely interpretation. In [[ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu]], [[Maidisen]] connects the idea to several failures: comforting someone with the wrong frame, accepting a coworker's daily carpool because refusal felt awkward, and making a public pregnancy-related offer that colleagues could misread.
 

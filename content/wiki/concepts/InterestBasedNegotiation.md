@@ -2,11 +2,13 @@
 title: "Interest-Based Negotiation / 利益导向谈判"
 type: concept
 tags: [negotiation, communication, conflict, strategy]
-sources: [106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645]
+sources: [132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645]
 last_updated: 2026-07-24
 ---
 
 # Interest-Based Negotiation / 利益导向谈判
+
+[[132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]] connects this "ask why" discipline to persuasion. In the HPV vaccine example and [[DeepCanvassing|deep canvassing]] sequence, the practical move is not to accuse the other person of ignorance first, but to find what fear, identity, confidence, or value the stated view is protecting.
 
 Interest-based negotiation is the practice of asking what need sits behind a stated demand. In [[106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645]], [[QinZong|秦总]] repeatedly returns to asking "why" before, during, and after the negotiation.
 

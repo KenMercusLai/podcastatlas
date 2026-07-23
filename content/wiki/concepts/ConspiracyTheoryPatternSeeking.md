@@ -2,11 +2,13 @@
 title: "Conspiracy Theory Pattern Seeking"
 type: concept
 tags: [reasoning, interpretation, media-literacy, psychology]
-sources: [185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]
+sources: [132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]
 last_updated: 2026-07-18
 ---
 
 # Conspiracy Theory Pattern Seeking
+
+[[132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]] adds a moral-identity pathway. The episode notes that people who believe in 9/11, vaccine, or moon-landing conspiracy claims may experience themselves as resisting authority and fulfilling a moral duty, which makes correction harder than simply supplying facts.
 
 Conspiracy theory pattern seeking is the habit of preferring hidden, complex, totalizing explanations because they feel more meaningful and more flattering than simple evidence-bound accounts. [[54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699]] connects this mechanism to [[InterpretationAndOverinterpretation]] in [[TheNameOfTheRose|《玫瑰的名字》 / The Name of the Rose]].
 

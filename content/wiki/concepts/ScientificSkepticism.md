@@ -2,11 +2,13 @@
 title: "Scientific Skepticism"
 type: concept
 tags: [science, skepticism, evidence, epistemology]
-sources: [123-renxing-shiyan-dangxin-ni-ziji-779479569, 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]
+sources: [132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 123-renxing-shiyan-dangxin-ni-ziji-779479569, 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]
 last_updated: 2026-07-24
 ---
 
 # Scientific Skepticism
+
+[[132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]] adds an epistemology-in-argument version. The episode frames scientific knowledge as the modern society's dominant method for observable and measurable empirical truth, while still warning that scientific facts become socially usable only when people have the motivation and group permission to process them.
 
 Scientific skepticism is the episode's name for keeping curiosity and doubt together. In [[185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]], [[CarlSagan|Carl Sagan]] and [[TheDemonHauntedWorld|《魔鬼出没的世界》]] anchor a posture that does not rule out extraterrestrial life, strange natural phenomena, or human wonder, but refuses to turn weak evidence into certainty.
 
