@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-24] ingest | 139. 为什么伟大不能被计划：有志者事竟成，吗？
+
+Added source page for the 蜜獾吃书 episode on 《为什么伟大不能被计划》, objective deception, novelty search, stepping-stone exploration, reading as possibility-space expansion, career uncertainty, basic research, and Campbell's Law. Created pages for 《为什么伟大不能被计划》 / Why Greatness Cannot Be Planned, Kenneth Stanley, Joel Lehman, Objective Deception, Novelty Search, Stepping-Stone Exploration, and Campbell's Law; updated overview, index, 蜜獾吃书, OpenAI, Non-Instrumental Literary Reading, Reading As Life Experience, Luck As Information Bandwidth, Low-Cost Experimentation, and Richard Wiseman. No direct contradiction found; the source qualifies existing goal, metric, and action-oriented pages by preserving measurement for bounded tasks while warning that complex systems can be misled by false objectives and high-stakes proxy metrics.
+
 ## [2026-07-24] ingest | sp.04 【刘擎x林垚】“枪杀医保巨头”案背后的思考(上)：关于民粹、私刑和死刑
 
 Added source page for the 蜜獾吃书 x 东腔西调 episode on the UnitedHealthcare CEO killing, U.S. health-insurance denial politics, federalism and veto points, populist democratic energy, vigilante justice, terrorism definitions, and capital punishment. Created pages for Liu Qing, Lin Yao, Dongqiang Xidiao, the Luigi case suspect, UnitedHealthcare, the Affordable Care Act, U.S. Health Insurance Denial Politics, U.S. Federalism Veto Points, Vigilante Justice Universalization Risk, Populist Democratic Energy, and Capital Punishment Retribution Problem; updated overview, index, 蜜獾吃书, 秦总, United States, Barack Obama, Political Assassination Ethics, Private Revenge And Modern Law, Punishment Theory Tradeoff, Criminal Law As Power Limitation, Law-Morality Boundary, and American Democratic Resilience. No direct contradiction found; the source extends prior assassination and law-philosophy pages by keeping public sympathy for unlawful violence distinct from legal justification, and by comparing private punishment with the state's irreversible power to execute.

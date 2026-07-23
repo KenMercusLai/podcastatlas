@@ -231,6 +231,10 @@
     "title": "139. 泡泡玛特和拼多多值得投资么？",
     "url": "/wiki/sources/139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1/"
   },
+  "139-weishenme-weida-buneng-bei-jihua-youzhizhe-shijingsheng-ma-849965735": {
+    "title": "139. 为什么伟大不能被计划：有志者事竟成，吗？",
+    "url": "/wiki/sources/139-weishenme-weida-buneng-bei-jihua-youzhizhe-shijingsheng-ma-849965735/"
+  },
   "140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1": {
     "title": "140. 大疆还能低空飞多久？",
     "url": "/wiki/sources/140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1/"
@@ -3786,6 +3790,10 @@
   "CampSocial": {
     "title": "Camp Social",
     "url": "/wiki/entities/campsocial/"
+  },
+  "CampbellLaw": {
+    "title": "Campbell's Law",
+    "url": "/wiki/concepts/campbelllaw/"
   },
   "CampusConservativeMediaNetwork": {
     "title": "Campus Conservative Media Network",
@@ -11175,6 +11183,10 @@
     "title": "Joe Rogan",
     "url": "/wiki/entities/joerogan/"
   },
+  "JoelLehman": {
+    "title": "Joel Lehman",
+    "url": "/wiki/entities/joellehman/"
+  },
   "JoeyShamah": {
     "title": "Joey Shamah",
     "url": "/wiki/entities/joeyshamah/"
@@ -11650,6 +11662,10 @@
   "KennethKeyes": {
     "title": "Kenneth Keyes",
     "url": "/wiki/entities/kennethkeyes/"
+  },
+  "KennethStanley": {
+    "title": "Kenneth Stanley",
+    "url": "/wiki/entities/kennethstanley/"
   },
   "KennyMalone": {
     "title": "Kenny Malone",
@@ -14731,6 +14747,10 @@
     "title": "NotebookLM",
     "url": "/wiki/entities/notebooklm/"
   },
+  "NoveltySearch": {
+    "title": "Novelty Search",
+    "url": "/wiki/concepts/noveltysearch/"
+  },
   "NovoNordisk": {
     "title": "Novo Nordisk",
     "url": "/wiki/entities/novonordisk/"
@@ -14790,6 +14810,10 @@
   "Obatala": {
     "title": "Obatala",
     "url": "/wiki/entities/obatala/"
+  },
+  "ObjectiveDeception": {
+    "title": "Objective Deception",
+    "url": "/wiki/concepts/objectivedeception/"
   },
   "ObjectiveHiringAssessment": {
     "title": "Objective Hiring Assessment",
@@ -19187,6 +19211,10 @@
     "title": "Stephen Starr",
     "url": "/wiki/entities/stephenstarr/"
   },
+  "SteppingStoneExploration": {
+    "title": "Stepping-Stone Exploration",
+    "url": "/wiki/concepts/steppingstoneexploration/"
+  },
   "SteveHuffman": {
     "title": "Steve Huffman",
     "url": "/wiki/entities/stevehuffman/"
@@ -21630,6 +21658,10 @@
   "Wholist": {
     "title": "Wholist",
     "url": "/wiki/entities/wholist/"
+  },
+  "WhyGreatnessCannotBePlanned": {
+    "title": "《为什么伟大不能被计划》 / Why Greatness Cannot Be Planned",
+    "url": "/wiki/entities/whygreatnesscannotbeplanned/"
   },
   "WildAnimalRescueResponsibility": {
     "title": "Wild-Animal Rescue Responsibility",

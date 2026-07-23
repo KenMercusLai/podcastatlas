@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [139. 为什么伟大不能被计划：有志者事竟成，吗？](sources/139-weishenme-weida-buneng-bei-jihua-youzhizhe-shijingsheng-ma-849965735.md) — 蜜獾吃书 episode on 《为什么伟大不能被计划》, objective deception, novelty search, stepping-stone exploration, reading as possibility-space expansion, career uncertainty, basic research, and Campbell's Law.
 - [138.企鹅课：我在海滩上捡到一位Q老师](sources/138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726.md) — 蜜獾吃书 episode on 《企鹅课》, Tom Michell, an oil-soaked Magellanic penguin named Juan Salvador, St. George's School, 1970s Argentina, wild-animal rescue responsibility, and oil-pollution wildlife harm.
 - [135.闲聊伟大作家们的八卦（第三弹）](sources/135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670.md) — 蜜獾吃书 episode continuing the great-writer gossip series through Mark Twain, H. G. Wells, Sartre, Ayn Rand, author myth deflation, free-love contradictions, and anti-doctrine caution.
 - [134.查令十字街84号：再次原谅世界的理由](sources/134-chaling-shizi-jie-84-hao-zaici-yuanliang-shijie-de-liyou-821075226.md) — 蜜獾吃书 episode on 《查令十字街84号》, Helene Hanff, Frank Doel, Marks & Co., old books, letter friendship, postwar gifts, dignity, and bookstore serendipity.
@@ -556,6 +557,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《为什么伟大不能被计划》 / Why Greatness Cannot Be Planned](entities/WhyGreatnessCannotBePlanned.md) — Book used by episode 139 to argue that complex achievements often emerge through novelty search and stepping-stone exploration rather than direct planning.
+- [Kenneth Stanley](entities/KennethStanley.md) — AI researcher and coauthor, as presented by episode 139, whose book discussion anchors objective deception and novelty search.
+- [Joel Lehman](entities/JoelLehman.md) — AI researcher and coauthor, as presented by episode 139, connected to novelty search, objective deception, and why greatness resists direct planning.
 - [《企鹅课》 / The Penguin Lessons](entities/ThePenguinLessons.md) — Tom Michell memoir discussed by 蜜獾吃书 about rescuing an oil-covered Magellanic penguin and the school community formed around it.
 - [Tom Michell / 汤姆·米切尔](entities/TomMichell.md) — Author-teacher whose rescue of Juan Salvador in episode 138 grounds the wild-animal rescue responsibility branch.
 - [Juan Salvador / 胡安·萨尔瓦多](entities/JuanSalvadorPenguin.md) — Rescued Magellanic penguin who becomes the emotional center of 《企鹅课》 and St. George's School.
@@ -3710,6 +3714,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Objective Deception](concepts/ObjectiveDeception.md) — Complex-search failure mode where an objective or proxy metric creates a false gradient and hides useful stepping stones.
+- [Novelty Search](concepts/NoveltySearch.md) — Search strategy from episode 139 that rewards unusual behavior or forms instead of direct movement toward a fixed target.
+- [Stepping-Stone Exploration](concepts/SteppingStoneExploration.md) — Life-design and innovation frame for following interesting reachable possibilities that expand future options.
+- [Campbell's Law](concepts/CampbellLaw.md) — Metric-corruption principle warning that high-stakes quantitative indicators can distort the underlying social or organizational purpose.
 - [Wild-Animal Rescue Responsibility](concepts/WildAnimalRescueResponsibility.md) — Ethical problem that begins after intervening in a wild animal's crisis, including cleaning, feeding, release, captivity, and species-specific needs.
 - [Oil-Pollution Wildlife Harm](concepts/OilPollutionWildlifeHarm.md) — Ecological externality frame where crude oil reaches vulnerable wildlife bodies, illustrated by episode 138's Magellanic penguin beach scene.
 - [Objectivism / 客观主义](concepts/Objectivism.md) — Ayn Rand doctrine of rational self-interest and radical individualism treated by episode 135 as motivating but dangerous when totalized.
