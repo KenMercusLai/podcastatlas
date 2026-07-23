@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI is eating up the world's computing memory](sources/tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128.md) — Marketplace Tech episode with Tom Minelli of IDC on AI-driven HBM and RAM shortages, PC and smartphone price pressure, gaming-PC exposure, and AI PCs increasing memory demand.
 - [Spenser Skates, Founder & CEO, Amplitude](sources/tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio.md) — The Social Radars episode with Spenser Skates on Sonalight, the pivot into Amplitude, product analytics, founder-led sales, direct listing, public-company communication, executive readiness, and founder-life tradeoffs.
 - [David Kirtley, Founder & CEO of Helion Energy](sources/tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio.md) — The Social Radars episode with David Kirtley on Helion Energy, fusion power, YC focus, energy recovery, Polaris, Microsoft and Nucor customer plans, regulation, precision manufacturing, and scaling beyond one demonstration plant.
 - [Jared Friedman, Partner, Y Combinator; Co-founder, Scribd](sources/tsr-s5-jared-v3final-tsr-s5-jared-v3final.md) — The Social Radars episode with Jared Friedman on Scribd, early YC, Wholist, copyright risk, search-driven growth, 2008 runway pressure, YC internal software, and the AI-era return of technical founder energy.
@@ -510,6 +511,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Tom Minelli](entities/TomMinelli.md) — IDC analyst explaining how AI data-center demand is tightening memory supply and spilling into PC, smartphone, and gaming-hardware markets.
+- [HP Inc.](entities/HPInc.md) — Large PC vendor named as likely better positioned than smaller sellers during AI-driven memory allocation pressure.
+- [Dell Technologies](entities/DellTechnologies.md) — Large PC vendor named as likely better positioned than smaller sellers during AI-driven memory allocation pressure.
 - [Spenser Skates](entities/SpenserSkates.md) — Amplitude founder and CEO whose episode connects MIT, Sonalight, product analytics, founder-led sales, direct listing, and founder-life architecture.
 - [Amplitude](entities/Amplitude.md) — Product analytics company born from Sonalight's retention-analysis problem and later used as a public-company transition case.
 - [Sonalight](entities/Sonalight.md) — YC Winter 2012 voice-control app whose impressive demo but weak retention led to the Amplitude pivot.
@@ -3304,6 +3308,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI PC Memory Demand](concepts/AIPCMemoryDemand.md) — PC-side memory pressure where NPU-equipped AI computers need more RAM just as AI data centers tighten memory supply.
 - [Product Analytics](concepts/ProductAnalytics.md) — Behavioral product-data discipline around retention, cohorts, and usage questions that became Amplitude's market.
 - [Technical Demo Retention Gap](concepts/TechnicalDemoRetentionGap.md) — Startup failure mode where an impressive demo does not translate into repeat user behavior.
 - [Sales As Learnable Skill](concepts/SalesAsLearnableSkill.md) — Founder-sales pattern where coaching, repetition, and business-pain diagnosis improve a technical founder's sales ability.

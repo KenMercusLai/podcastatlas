@@ -963,6 +963,10 @@
     "title": "AI Otome Games",
     "url": "/wiki/concepts/aiotomegames/"
   },
+  "AIPCMemoryDemand": {
+    "title": "AI PC Memory Demand",
+    "url": "/wiki/concepts/aipcmemorydemand/"
+  },
   "AIPlusTerminals": {
     "title": "AI Plus Terminals",
     "url": "/wiki/concepts/aiplusterminals/"
@@ -5343,6 +5347,10 @@
     "title": "Delicious",
     "url": "/wiki/entities/delicious/"
   },
+  "DellTechnologies": {
+    "title": "Dell Technologies",
+    "url": "/wiki/entities/delltechnologies/"
+  },
   "DemandHarvesting": {
     "title": "Demand Harvesting",
     "url": "/wiki/concepts/demandharvesting/"
@@ -8150,6 +8158,10 @@
   "HOKA": {
     "title": "HOKA",
     "url": "/wiki/entities/hoka/"
+  },
+  "HPInc": {
+    "title": "HP Inc.",
+    "url": "/wiki/entities/hpinc/"
   },
   "HPLovecraft": {
     "title": "H. P. Lovecraft / 洛夫克拉夫特",
@@ -18019,6 +18031,10 @@
     "title": "Tom Cruise",
     "url": "/wiki/entities/tomcruise/"
   },
+  "TomMinelli": {
+    "title": "Tom Minelli",
+    "url": "/wiki/entities/tomminelli/"
+  },
   "TomasHoloneck": {
     "title": "Tomas Holoneck",
     "url": "/wiki/entities/tomasholoneck/"
@@ -21078,6 +21094,10 @@
   "tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128": {
     "title": "Building a home with future fires in mind",
     "url": "/wiki/sources/tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128/"
+  },
+  "tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128": {
+    "title": "AI is eating up the world's computing memory",
+    "url": "/wiki/sources/tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128/"
   },
   "tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128": {
     "title": "Teaching students to 'be better than a robot'",

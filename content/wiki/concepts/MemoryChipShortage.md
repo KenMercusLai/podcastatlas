@@ -2,11 +2,13 @@
 title: "Memory Chip Shortage"
 type: concept
 tags: [ai, memory, storage, supply-chain]
-sources: [tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
-last_updated: 2026-07-12
+sources: [tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
+last_updated: 2026-07-23
 ---
 
 # Memory Chip Shortage
+
+[[tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128]] adds the consumer-PC and AI-PC version of the shortage. [[TomMinelli]] of [[IDC]] says AI data-center demand has added a major new memory buyer, that shortages are expected through 2026 and could extend into 2027, and that large PC vendors such as [[HPInc|HP]], [[DellTechnologies|Dell]], [[Lenovo]], and [[Apple]] are likely better positioned than smaller vendors or custom builders.
 
 Memory chip shortage is the storage and memory-supply constraint discussed in [[tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128]]. The episode says AI data-center expansion is consuming memory chips, pushing up prices, and affecting hardware markets for smartphones, PCs, external drives, and hard drives.
 
@@ -22,6 +24,8 @@ The concept is a concrete instance of [[AIHardwareSupplyChainPressure]]. [[IDC]]
 - The shortage extends the wiki's memory branch beyond [[HighBandwidthMemory]] into hard drives, external drives, and preservation workflows.
 - AI server buyers can outbid consumer-electronics makers for memory capacity, making low-margin phones and PCs more exposed to component inflation.
 - Shortage conditions are amplified by [[StorageIndustryCyclicality]], inventory behavior, and delayed supply expansion.
+- Large PC vendors can have an allocation advantage over smaller sellers when memory supply tightens.
+- [[AIPCMemoryDemand]] can worsen the timing problem because AI PCs raise baseline RAM needs during the shortage.
 
 ## Connections
 - [[AIHardwareSupplyChainPressure]] - broader supply-chain pattern.
@@ -30,3 +34,4 @@ The concept is a concrete instance of [[AIHardwareSupplyChainPressure]]. [[IDC]]
 - [[HighBandwidthMemory]] - adjacent memory category from the Micron episode.
 - [[AIComputeContinuity]], [[MaaSInfrastructure]], and [[DataCenterDebtRisk]] - wider AI infrastructure dependencies.
 - [[AIStorageSupercycle]], [[AIDataCenterMemoryHierarchy]], [[AgentEraNANDStorage]], and [[MemoryCapacityLockIn]] - What's Next S10E13 extensions.
+- [[TomMinelli]], [[HPInc|HP]], [[DellTechnologies|Dell]], [[Lenovo]], [[Apple]], and [[AIPCMemoryDemand]] - consumer PC and allocation branch added by Marketplace Tech.

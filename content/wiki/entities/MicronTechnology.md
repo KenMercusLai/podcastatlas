@@ -2,8 +2,8 @@
 title: "Micron Technology"
 type: entity
 tags: [company, semiconductors, memory, ai]
-sources: [tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
-last_updated: 2026-07-12
+sources: [tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]
+last_updated: 2026-07-23
 ---
 
 # Micron Technology
@@ -14,12 +14,15 @@ The source makes Micron a case in [[AIHardwareSupplyChainPressure]]. AI data-cen
 
 [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] adds Micron to the three-supplier HBM contest with [[SKHynix]] and [[Samsung]]. The source says Micron had meaningful HBM3E share but also notes uncertainty around later-generation allocations in [[Nvidia]]'s Rubin-era roadmap.
 
+[[tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128]] adds a consumer-RAM allocation angle through [[TomMinelli]] of [[IDC]]. Minelli says Micron announced in December that it would exit the consumer RAM market because data-center customers are larger and margins are better, making Micron a case of AI demand pulling capacity and attention away from ordinary device markets.
+
 ## Source Position
 - Micron is treated as a beneficiary of AI data-center growth, not as a model company or cloud provider.
 - The source links Micron to [[Nvidia]] system demand through high memory intensity in AI chips.
 - The episode compares Micron's momentum with [[SKHynix]] and [[Samsung]], positioning AI memory as a broader supplier cycle.
 - Consumer storage pressure is presented as a downstream effect of AI demand rather than an isolated retail-price story.
 - The What's Next source positions Micron inside a longer [[AIStorageSupercycle]], while preserving the risk that memory remains cyclical.
+- The Marketplace Tech January 13 source treats Micron's consumer-RAM exit as evidence that higher-margin AI infrastructure customers can reshape supplier priorities.
 
 ## Connections
 - [[HighBandwidthMemory]] - main product category discussed.
@@ -28,3 +31,4 @@ The source makes Micron a case in [[AIHardwareSupplyChainPressure]]. AI data-cen
 - [[SKHynix]] and [[Samsung]] - memory-market peers named in the source.
 - [[MarketplaceTech]] and [[AnitaRamaswamy]] - episode and analyst context.
 - [[AIStorageSupercycle]], [[StorageIndustryCyclicality]], and [[MemoryCapacityLockIn]] - market-cycle context from What's Next.
+- [[TomMinelli]], [[IDC]], and [[MemoryChipShortage]] - consumer-RAM shortage context added by Marketplace Tech.

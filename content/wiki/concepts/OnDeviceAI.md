@@ -2,8 +2,8 @@
 title: "On-Device AI"
 type: concept
 tags: [ai, edge-ai, smartphones, systems]
-sources: [tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3]
-last_updated: 2026-07-12
+sources: [tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, weishenme-guigu-kaishi-zhongxin-dingyi-ai-jiyi-s10e20-a70c41aa-41ae-488d-a6e2-63c3de5b9ec3]
+last_updated: 2026-07-23
 ---
 
 # On-Device AI
@@ -18,6 +18,8 @@ On-Device AI is the implementation frame in [[ai-shidai-de-chaoji-rukou-haishi-s
 
 [[tech-20260210-0210-mp-tech-pod-128-tech-20260210-0210-mp-tech-pod-128]] adds the [[NeuralProcessingUnits]] angle. [[ChristopherMiller]] treats NPUs in PCs and phones as part of the same [[AIChipSpecialization]] trend as data-center accelerators, and expects specialized AI chips to spread into cars, robots, and industrial equipment as local AI workloads become economically meaningful.
 
+[[tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128]] adds the PC procurement constraint. [[TomMinelli]] says AI PCs need [[NeuralProcessingUnits]] and more RAM, so local AI can increase endpoint memory demand at the same time that data-center AI is tightening memory supply.
+
 ## Key Claims
 - The terminal needs enough AI compute before applications are fully known because smartphone chips are planned years ahead.
 - NPU hardware behaves more like specialized acceleration than a general computer, so model vendors and handset makers need middleware and adaptation layers to run models efficiently.
@@ -28,6 +30,7 @@ On-Device AI is the implementation frame in [[ai-shidai-de-chaoji-rukou-haishi-s
 - Local AI can differentiate new phones when it supports [[AIFileManagement]], meeting assistants, and low-latency context understanding that a generic cloud app cannot fully own.
 - Local AI memory is harder than a local chatbot because it must continuously transform private files into usable context without disrupting foreground work.
 - Device-side AI acceleration is part of a broader chip-specialization pattern, but NPUs still have to share power, heat, memory, and scheduling budgets with the rest of the device.
+- AI PCs make RAM a visible product constraint: more local AI capability can mean higher baseline memory specs and higher consumer prices.
 
 ## Connections
 - [[Vivo]], [[HanBoxiao]], [[MediaTek]], [[ChenYiqiang]], and [[Dimensity9500]] — source actors and platform case.
@@ -39,3 +42,4 @@ On-Device AI is the implementation frame in [[ai-shidai-de-chaoji-rukou-haishi-s
 - [[OSLevelContext]], [[ContextEngineering]], and [[AgentPermissionBoundaries]] — adjacent context, privacy, and permission issues once local devices sense and remember more.
 - [[CliptoAI]], [[LocalFirstMemoryLayer]], and [[OnDeviceMemoryScheduling]] — PC-side personal-memory branch added by S10E20.
 - [[NeuralProcessingUnits]], [[AIChipSpecialization]], [[GPU]], and [[TPU]] - chip-specialization branch added by Marketplace Tech.
+- [[AIPCMemoryDemand]], [[MemoryChipShortage]], and [[AIHardwareSupplyChainPressure]] - PC-side memory pressure added by Marketplace Tech.
