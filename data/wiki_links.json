@@ -1295,6 +1295,10 @@
     "title": "Adam Goldstein",
     "url": "/wiki/entities/adamgoldstein/"
   },
+  "AdamRosendorff": {
+    "title": "Adam Rosendorff",
+    "url": "/wiki/entities/adamrosendorff/"
+  },
   "AdamSmith": {
     "title": "Adam Smith / 亚当·斯密",
     "url": "/wiki/entities/adamsmith/"
@@ -3587,6 +3591,10 @@
     "title": "Center for Strategic and International Studies",
     "url": "/wiki/entities/centerforstrategicandinternationalstudies/"
   },
+  "CentersForMedicareAndMedicaidServices": {
+    "title": "Centers for Medicare & Medicaid Services",
+    "url": "/wiki/entities/centersformedicareandmedicaidservices/"
+  },
   "CentralBankIndependence": {
     "title": "Central Bank Independence",
     "url": "/wiki/concepts/centralbankindependence/"
@@ -3686,6 +3694,10 @@
   "CharlieSporck": {
     "title": "Charlie Sporck",
     "url": "/wiki/entities/charliesporck/"
+  },
+  "CharlotteShultz": {
+    "title": "Charlotte Shultz",
+    "url": "/wiki/entities/charlotteshultz/"
   },
   "ChatGPT": {
     "title": "ChatGPT",
@@ -5074,6 +5086,10 @@
   "DavidBlumen": {
     "title": "David Blumen",
     "url": "/wiki/entities/davidblumen/"
+  },
+  "DavidBoies": {
+    "title": "David Boies",
+    "url": "/wiki/entities/davidboies/"
   },
   "DavidBrancaccio": {
     "title": "David Brancaccio",
@@ -9675,6 +9691,10 @@
     "title": "John Carmack",
     "url": "/wiki/entities/johncarmack/"
   },
+  "JohnCarreyrou": {
+    "title": "John Carreyrou",
+    "url": "/wiki/entities/johncarreyrou/"
+  },
   "JohnCollison": {
     "title": "John Collison",
     "url": "/wiki/entities/johncollison/"
@@ -14199,6 +14219,10 @@
     "title": "Protected Domestic-Market Industrialization",
     "url": "/wiki/concepts/protecteddomesticmarketindustrialization/"
   },
+  "ProtectedWhistleblowerChannels": {
+    "title": "Protected Whistleblower Channels",
+    "url": "/wiki/concepts/protectedwhistleblowerchannels/"
+  },
   "ProtectionAsControl": {
     "title": "Protection As Control",
     "url": "/wiki/concepts/protectionascontrol/"
@@ -15198,6 +15222,10 @@
   "RunningShoeTechnology": {
     "title": "Running Shoe Technology",
     "url": "/wiki/concepts/runningshoetechnology/"
+  },
+  "RupertMurdoch": {
+    "title": "Rupert Murdoch",
+    "url": "/wiki/entities/rupertmurdoch/"
   },
   "Russia": {
     "title": "Russia",
@@ -18715,6 +18743,10 @@
     "title": "Whistleblower Evidence Discipline",
     "url": "/wiki/concepts/whistleblowerevidencediscipline/"
   },
+  "WhistleblowerLegalIntimidation": {
+    "title": "Whistleblower Legal Intimidation",
+    "url": "/wiki/concepts/whistleblowerlegalintimidation/"
+  },
   "WhiteHouse": {
     "title": "White House",
     "url": "/wiki/entities/whitehouse/"
@@ -20942,6 +20974,10 @@
   "tsr-s4-tylershultzpart1-final-tsr-s4-tylershultzpart1-final": {
     "title": "Tyler Shultz, Theranos Whistleblower (Part 1)",
     "url": "/wiki/sources/tsr-s4-tylershultzpart1-final-tsr-s4-tylershultzpart1-final/"
+  },
+  "tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3": {
+    "title": "Tyler Shultz, Theranos Whistleblower (Part 2)",
+    "url": "/wiki/sources/tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3/"
   },
   "tsr-s5-catchup2-v1-tsr-s5-catchup2-v1": {
     "title": "The Social Radars Season Five Update",

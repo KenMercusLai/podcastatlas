@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Tyler Shultz, Theranos Whistleblower (Part 2)](sources/tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3.md) — The Social Radars episode with Tyler Shultz on Wall Street Journal reporting, John Carreyrou, legal pressure, family leverage, regulatory fallout, public accountability, and whistleblower-channel advice.
 - [Tyler Shultz, Theranos Whistleblower (Part 1)](sources/tsr-s4-tylershultzpart1-final-tsr-s4-tylershultzpart1-final.md) — The Social Radars episode with Tyler Shultz on joining Theranos, Elizabeth Holmes's charisma, lab validation failures, secrecy, board credibility, internal escalation, resignation, and the first attempt to persuade George Shultz.
 - [Replit Co-Founders, Amjad Masad & Haya Odeh](sources/tsr-s3-replit-v2-tsr-s3-replit-v2.md) — The Social Radars episode on Replit's origin, Amjad Masad and Haya Odeh, accessible programming, consumer-grade developer infrastructure, YC validation, and spouse co-founder dynamics.
 - [Ryan Petersen on Flexport, Global Logistics, and Founder Discipline](sources/tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6.md) — The Social Radars episode on Flexport, customs brokerage, freight forwarding, logistics workflow automation, crisis response, and founder operational reset.
@@ -507,6 +508,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [George Shultz](entities/GeorgeShultz.md) — Tyler Shultz's grandfather and Theranos board credibility node whose trust in Elizabeth Holmes complicated Tyler's escalation.
 - [Erica Chung](entities/EricaChung.md) — Theranos employee who corroborated Tyler Shultz's concerns and joined him in trying to warn George Shultz.
 - [Walgreens](entities/Walgreens.md) — Retail pharmacy launch setting where Theranos's internal validation failures became public patient-facing risk in Tyler Shultz's account.
+- [John Carreyrou](entities/JohnCarreyrou.md) — Wall Street Journal reporter whose Theranos investigation gave Tyler Shultz an outside accountability channel after internal escalation failed.
+- [Adam Rosendorff](entities/AdamRosendorff.md) — Former Theranos lab director identified in the episode as a higher-level source corroborating John Carreyrou's reporting.
+- [David Boies](entities/DavidBoies.md) — Lawyer whose name appears in Tyler Shultz's account of Theranos legal threats, affidavits, and pressure to sign documents.
+- [Charlotte Shultz](entities/CharlotteShultz.md) — George Shultz's wife and Tyler Shultz's step-grandmother who helped Tyler reach independent legal advice during the affidavit pressure episode.
+- [Centers for Medicare & Medicaid Services](entities/CentersForMedicareAndMedicaidServices.md) — U.S. healthcare regulator whose Theranos inspection in Tyler Shultz's account made patient-risk concerns regulator-visible.
+- [Rupert Murdoch](entities/RupertMurdoch.md) — Media owner and Theranos investor used by the episode as a Wall Street Journal ownership-independence pressure case.
 - [Haya Odeh](entities/HayaOdeh.md) — Replit co-founder whose design, UX, user research, and spouse co-founder story shape the accessible-programming source.
 - [Codecademy](entities/Codecademy.md) — Coding-education company that used Amjad Masad's open-source Replit work and pulled him into the New York startup path.
 - [React Native](entities/ReactNative.md) — Facebook developer-tool project that forms Amjad Masad's technical challenge chapter before he committed to Replit.
@@ -3231,6 +3238,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Organizational Secrecy As Control](concepts/OrganizationalSecrecyAsControl.md) — Pattern where NDAs, silos, locked access, intimidation, and status rituals prevent employees from comparing evidence or challenging a false story.
 - [Credibility Cascade](concepts/CredibilityCascade.md) — Trust failure where respected people or institutions become circular evidence for one another while no one independently verifies the technical claim.
 - [Whistleblower Evidence Discipline](concepts/WhistleblowerEvidenceDiscipline.md) — Practice of testing concerns, preserving records, seeking corroboration, and escalating with specific evidence before public conflict.
+- [Whistleblower Legal Intimidation](concepts/WhistleblowerLegalIntimidation.md) — Pattern where legal threats, confidentiality claims, affidavits, surveillance warnings, and family leverage pressure a whistleblower before facts can become public.
+- [Protected Whistleblower Channels](concepts/ProtectedWhistleblowerChannels.md) — Formal reporting routes and legal-support practices that help whistleblowers preserve protection and reduce isolation while surfacing evidence.
 - [Founder Identity Narrative Risk](concepts/FounderIdentityNarrativeRisk.md) — Risk that a desired founder archetype or identity story substitutes for evidence and makes scrutiny feel disloyal.
 - [Accessible Programming Platform](concepts/AccessibleProgrammingPlatform.md) — Replit thesis that programming should be easier to start, share, host, and turn into working products or businesses.
 - [Consumer-Grade Developer Infrastructure](concepts/ConsumerGradeDeveloperInfrastructure.md) — Pattern where deep developer infrastructure is hidden behind a simple product surface for broad users.

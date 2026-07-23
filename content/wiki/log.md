@@ -3859,6 +3859,10 @@ Added source page for the Marketplace Tech episode with David Brancaccio on rebu
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-23] ingest | Tyler Shultz, Theranos Whistleblower (Part 2)
+
+Added source page for The Social Radars episode with Tyler Shultz on the Wall Street Journal investigation, John Carreyrou, Adam Rosendorff, legal threats, family leverage, David Boies pressure, CMS/FDA regulatory fallout, going on the record, and whistleblower-channel advice. Created pages for John Carreyrou, Adam Rosendorff, David Boies, Charlotte Shultz, Centers for Medicare & Medicaid Services, Rupert Murdoch, Whistleblower Legal Intimidation, and Protected Whistleblower Channels; updated overview, index, Tyler Shultz, Theranos, Elizabeth Holmes, Sunny Balwani, George Shultz, Wall Street Journal, News Corp, FDA, SEC, DOJ, IRS, Stanford University, The Social Radars, Jessica Livingston, Carolyn Levy, Public Service Journalism, Media Ownership Independence Risk, Whistleblower Evidence Discipline, Organizational Secrecy As Control, Medical Testing Validation Integrity, Credibility Cascade, Founder Identity Narrative Risk, Values As Operational Asset, and Startup Governance. No direct contradiction found; the source extends Part 1 by covering the public-reporting, legal-pressure, regulator, and recovery material that Part 1 deferred.
+
 ## [2026-07-23] ingest | Ryan Petersen on Flexport, Global Logistics, and Founder Discipline
 
 Added source page for The Social Radars episode with Ryan Petersen on Flexport, customs brokerage, freight forwarding, logistics workflow automation, Red Sea and Long Beach crisis response, pandemic PPE shipments, Founders Fund support, Dave Clark's CEO handoff, and Petersen's return as CEO. Created pages for Ryan Petersen, Flexport, Dave Clark, Global Logistics Coordination, Logistics Workflow Automation, Logistics Crisis Response, and Founder Operational Reset; updated overview, index, The Social Radars, Y Combinator, Jessica Livingston, Carolyn Levy, Paul Graham, Ron Conway, Founders Fund, Customer Pull, Operational Pain Founder Insight, Customer Discovery By Doing Work, Unscalable Founder Work, Manual Operations Debt, Founder Mode, Founder Delegation Discipline, Founder Return Crisis, Founder Role Transition, Founder Succession, Startup Legitimacy Transfer, and Founder Friendly Investor Support. No direct contradiction found; the source extends existing YC and founder-mode patterns into a regulated physical-operations market where customer pull, manual work, crisis response, and founder return all shape the product boundary.
@@ -4019,6 +4023,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-23] ingest | Tyler Shultz, Theranos Whistleblower (Part 1)
 
 Added source page for The Social Radars episode with Tyler Shultz on Theranos, Elizabeth Holmes, Sunny Balwani, George Shultz, Erica Chung, Walgreens, lab validation failures, secrecy, board credibility, internal escalation, resignation, and evidence preservation. Created pages for Tyler Shultz, Theranos, Elizabeth Holmes, Sunny Balwani, George Shultz, Erica Chung, Walgreens, Medical Testing Validation Integrity, Organizational Secrecy As Control, Credibility Cascade, Whistleblower Evidence Discipline, and Founder Identity Narrative Risk; updated overview, index, The Social Radars, Jessica Livingston, Carolyn Levy, Stanford University, Startup Governance, the Season Five update source, and Podcast As Asynchronous Media. No direct content contradiction found; corrected the existing archive-highlight misspelling from Tyler Schultz to Tyler Shultz.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-23] lint | Wiki health check
 

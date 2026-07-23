@@ -2,8 +2,8 @@
 title: "Values As Operational Asset"
 type: concept
 tags: [governance, strategy, trust, operations]
-sources: [264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, socialradarsseason1-tracyyoung-final-1]
-last_updated: 2026-07-11
+sources: [tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, socialradarsseason1-tracyyoung-final-1]
+last_updated: 2026-07-23
 ---
 
 # Values As Operational Asset
@@ -14,6 +14,8 @@ The idea is related to [[TrustAsBusinessAsset]], but the emphasis is operational
 
 [[socialradarsseason1-tracyyoung-final-1]] adds a startup-team version through [[TigerEye]]. [[TracyYoung]] says she and [[RalphGoody]] wrote explicit commitments after reflecting on [[PlanGrid]], and that TigerEye intends to hire and fire by those values. This makes values an internal operating asset: they filter [[StageAppropriateHiring]], constrain [[FounderEgo]], and help a remote-first team coordinate without relying only on founder memory.
 
+[[tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3]] adds a negative and prescriptive version through [[Theranos]]. [[TylerShultz|Tyler Shultz]] argues that founders should build the opposite of Theranos's fear culture: define core values, take small ethical concerns seriously, and test internal whistleblowing tools before a crisis. In this source, values matter only if employees can use them as operating evidence when something feels wrong.
+
 ## Key Claims
 - A value becomes operational when it changes a product roadmap, review rule, supplier contract, legal stance, or executive decision under pressure.
 - [[AppleAccessibility]] shows values becoming design inputs: edge-case users can force better interaction design for everyone.
@@ -22,6 +24,7 @@ The idea is related to [[TrustAsBusinessAsset]], but the emphasis is operational
 - The concept differs from ordinary brand purpose because the source emphasizes auditability, enforceability, and specific people affected by decisions.
 - The episode's caveat is that operationalized values can also become commercial assets; privacy and trust may improve Apple's moat while still being moral choices.
 - In a startup, values become operational when they are clear enough to affect hiring, firing, remote communication, and how much ego the company tolerates.
+- Ethical values fail operationally if employees cannot safely report small concerns before those concerns become legal, regulatory, or patient-safety crises.
 
 ## Connections
 - [[TimCook]], [[Apple]], and [[SteveJobs]] — leadership and comparison frame.
@@ -29,4 +32,5 @@ The idea is related to [[TrustAsBusinessAsset]], but the emphasis is operational
 - [[AppleAccessibility]], [[ApplePrivacy]], and [[AppleSupplyChainResponsibility]] — source-specific operating domains.
 - [[TrustAsBusinessAsset]], [[PurposeDrivenBusiness]], [[StartupGovernance]], and [[HumanFlourishingProfit]] — adjacent institutional-design concepts.
 - [[TracyYoung]], [[TigerEye]], [[SecondTimeFounderOperatingJudgment]], and [[StageAppropriateHiring]] — startup-values extension from The Social Radars.
+- [[Theranos]], [[TylerShultz|Tyler Shultz]], [[WhistleblowerLegalIntimidation]], and [[ProtectedWhistleblowerChannels]] - values-under-crisis extension from The Social Radars.
 - [[AppStore]] and [[IPhone]] — platform and device surfaces where values become user-facing.

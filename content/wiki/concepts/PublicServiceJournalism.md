@@ -2,8 +2,8 @@
 title: "Public Service Journalism"
 type: concept
 tags: [journalism, public-media, democracy]
-sources: [vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, congress-has-voted-to-eliminate-government-funding-for-public-media, stefan-sagmeister-finally-something-good-yqqxftsvema]
-last_updated: 2026-07-17
+sources: [tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, congress-has-voted-to-eliminate-government-funding-for-public-media, stefan-sagmeister-finally-something-good-yqqxftsvema]
+last_updated: 2026-07-23
 ---
 
 # Public Service Journalism
@@ -18,6 +18,8 @@ The source connects this mission to [[PublicMediaFunding]] because the appeal ar
 
 [[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] adds an ownership-independence boundary through [[CBS]] and [[CNN]]. The source argues that news organizations can face pressure not only from funding cuts or AI automation, but from parent-company dependence on political approval, litigation settlement, and merger review.
 
+[[tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3]] adds an investigative accountability case through [[JohnCarreyrou|John Carreyrou]] and the [[WallStreetJournal|Wall Street Journal]]'s reporting on [[Theranos]]. [[TylerShultz|Tyler Shultz]] describes journalism as a last accountability channel after internal escalation failed. The source shows public-service journalism working through source protection, corroboration, sustained reporting, and the ability to trigger regulator-visible scrutiny.
+
 ## Key Claims
 - Journalism can be justified as a public service when it informs communities and holds power accountable.
 - Public-service journalism depends on institutional and funding arrangements that protect access and independence.
@@ -25,6 +27,7 @@ The source connects this mission to [[PublicMediaFunding]] because the appeal ar
 - Progress reporting can belong to public-service journalism when it remains sourced, specific, and connected to civic action rather than becoming promotional positivity.
 - AI-assisted journalism supports public service only when workflow design preserves verification, accountability, context, and community usefulness.
 - Ownership and approval dependence can threaten public-service journalism even when the newsroom itself has not changed its stated mission.
+- Investigative reporting can become public-service infrastructure when it lets isolated insiders surface safety-critical evidence without immediately standing alone.
 
 ## Connections
 - [[NPR]], [[KatherineMaher]], and [[PlanetMoney]] — organization, speaker, and feed context for the appeal.
@@ -34,3 +37,4 @@ The source connects this mission to [[PublicMediaFunding]] because the appeal ar
 - [[PositiveJournalism]], [[ShortTermNewsBias]], and [[InformedOptimism]] — Sagmeister source's media branch.
 - [[NewsroomAIAdoption]], [[AIWrittenJournalism]], [[AIJournalismTrust]], and [[LocalNewsAutomationTradeoff]] — AI-era local-news service boundary.
 - [[CBS]], [[CNN]], [[MediaOwnershipIndependenceRisk]], and [[PoliticalRegulatoryLeverage]] - ownership-independence branch added by 商业就是这样.
+- [[JohnCarreyrou|John Carreyrou]], [[WallStreetJournal|Wall Street Journal]], [[TylerShultz|Tyler Shultz]], [[Theranos]], [[WhistleblowerEvidenceDiscipline]], and [[WhistleblowerLegalIntimidation]] - investigative-accountability branch added by The Social Radars.

@@ -2,7 +2,7 @@
 title: "Internal Revenue Service"
 type: entity
 tags: [government, public-infrastructure, tax]
-sources: [the-leaked-tapes-that-show-how-the-rich-avoid-taxes, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7]
+sources: [tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, the-leaked-tapes-that-show-how-the-rich-avoid-taxes, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7]
 last_updated: 2026-07-18
 ---
 
@@ -14,15 +14,19 @@ The source's point is that government digital services are not only a user-inter
 
 [[the-leaked-tapes-that-show-how-the-rich-avoid-taxes]] adds the enforcement side of the IRS through [[CarolynSchenck]] and the [[MaltaTaxLoophole]]. The episode describes the agency using research, practitioner intelligence, a Dirty Dozen warning, treaty clarification with [[Malta]], summonses, [[EconomicSubstanceDoctrine]], and proposed [[TaxShelterDisclosureRegulation]] to challenge a high-end tax shelter.
 
+[[tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3]] adds the IRS as one of the government channels [[TylerShultz|Tyler Shultz]] recommends potential whistleblowers consider after speaking with independent counsel. The source uses the IRS as part of a practical reporting map alongside the [[SEC]] and [[USDepartmentOfJustice|DOJ]], connecting the agency to [[ProtectedWhistleblowerChannels]].
+
 ## Key Claims
 - The IRS is presented as a high-scale public-service environment where the institution cannot choose only convenient customers.
 - Government software must handle longer time horizons and broader access requirements than a startup product.
 - Better tax-service software could improve citizens' everyday experience of the [[UnitedStates]] government.
 - The Planet Money tax-loophole source treats the IRS as an enforcement institution whose capacity depends on expert staff, disclosure rules, summons power, legal theory, and political follow-through.
 - The Malta branch shows the same agency as both service infrastructure and adversarial regulator, which makes [[TaxEnforcementCapacity]] distinct from interface modernization.
+- The Social Radars whistleblower source adds the IRS as a possible protected reporting channel rather than only a tax-service or tax-enforcement institution.
 
 ## Connections
 - [[SahilLavingia]] and [[DepartmentOfGovernmentEfficiency]] — source path into the IRS discussion.
 - [[PublicServiceDigitalization]], [[PublicInterestAI]], and [[HumanJudgmentUnderAI]] — public-service software themes.
 - [[UnitedStates]] — national public-service context.
 - [[CarolynSchenck]], [[MaltaTaxLoophole]], [[USMaltaTaxTreaty]], [[EconomicSubstanceDoctrine]], [[TaxShelterDisclosureRegulation]], and [[TaxEnforcementCapacity]] — tax-shelter enforcement branch.
+- [[TylerShultz|Tyler Shultz]], [[Theranos]], [[SEC]], [[USDepartmentOfJustice|DOJ]], and [[ProtectedWhistleblowerChannels]] - whistleblower-channel branch.

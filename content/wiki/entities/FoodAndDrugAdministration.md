@@ -2,7 +2,7 @@
 title: "Food and Drug Administration"
 type: entity
 tags: [organization, regulator, healthcare, food, drugs]
-sources: [the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534]
+sources: [tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work, e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534]
 last_updated: 2026-07-23
 ---
 
@@ -16,6 +16,8 @@ The episode also uses the FDA in the [[Prevagen]] story. According to the source
 
 [[the-sneaky-way-companies-get-new-chemicals-into-our-food]] adds the direct food-additive version of the problem. The source says [[TaraFlour]] entered food through [[SecretGRAS]], so the FDA did not know the ingredient was in use until consumers became sick; the agency later banned tara flour, but the episode says it did not publicly declare that the ingredient caused the reported gallbladder and liver injuries.
 
+[[tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3]] adds the diagnostic-lab version through [[Theranos]]. [[TylerShultz|Tyler Shultz]] says the FDA and [[CentersForMedicareAndMedicaidServices|CMS]] inspected Theranos after the [[WallStreetJournal|Wall Street Journal]] reporting, and that regulatory scrutiny validated concerns about quality controls, patient samples, and lab practices that had not been addressed internally.
+
 ## Connections
 - [[DietarySupplementHealthAndEducationAct]] - legal frame limiting FDA supplement oversight.
 - [[SupplementStructureFunctionClaims]] - claim category that avoids drug-like disease language.
@@ -24,3 +26,4 @@ The episode also uses the FDA in the [[Prevagen]] story. According to the source
 - [[FederalTradeCommission]] - advertising-enforcement agency that acts on a different part of the problem.
 - [[FoodAdditiveRegulation]], [[SecretGRAS]], [[PremarketFoodSafetyReview]], and [[PostHarmFoodRegulation]] - food-additive branch added by the tara-flour source.
 - [[CARTCellTherapy]], [[ExVivoCARTManufacturing]], and [[CytokineReleaseSyndrome]] - drug-review and safety-labeling context added by E235.
+- [[Theranos]], [[TylerShultz|Tyler Shultz]], [[CentersForMedicareAndMedicaidServices|CMS]], and [[MedicalTestingValidationIntegrity]] - diagnostic-lab inspection context added by The Social Radars.

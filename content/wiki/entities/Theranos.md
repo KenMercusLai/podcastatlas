@@ -2,7 +2,7 @@
 title: "Theranos"
 type: entity
 tags: [company, healthcare, diagnostics, fraud, startup-history]
-sources: [tsr-s4-tylershultzpart1-final-tsr-s4-tylershultzpart1-final]
+sources: [tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, tsr-s4-tylershultzpart1-final-tsr-s4-tylershultzpart1-final]
 last_updated: 2026-07-23
 ---
 
@@ -14,10 +14,13 @@ The episode presents Theranos less as a generic failed startup than as a regulat
 
 Theranos also anchors the source's organizational analysis. The company used broad NDAs, locked spaces, siloed teams, threatening management, lawsuits, and intense status rituals, which makes it a strong case for [[OrganizationalSecrecyAsControl]]. At the same time, powerful believers such as [[GeorgeShultz|George Shultz]] made the company feel credible to people who assumed someone else must have checked the science, creating a [[CredibilityCascade]] around [[ElizabethHolmes|Elizabeth Holmes]].
 
+[[tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3]] extends Theranos from internal failure into external pressure and accountability. Tyler says the company treated the [[WallStreetJournal|Wall Street Journal]] investigation as a trade-secret threat, used legal documents and family channels to pressure him, and continued to intimidate him after regulatory scrutiny began. The episode also adds [[CentersForMedicareAndMedicaidServices|CMS]] and the [[FoodAndDrugAdministration|FDA]] inspections as the moment when patient-risk concerns Tyler had raised privately became regulator-visible.
+
 ## Connections
 - [[ElizabethHolmes|Elizabeth Holmes]] - founder and public face.
 - [[SunnyBalwani|Sunny Balwani]] - internal operating enforcer in Tyler's account.
 - [[TylerShultz|Tyler Shultz]] and [[EricaChung|Erica Chung]] - employees who raised concerns.
 - [[GeorgeShultz|George Shultz]] - board/family credibility channel.
 - [[Walgreens]] - public launch partner setting in the episode.
-- [[MedicalTestingValidationIntegrity]], [[OrganizationalSecrecyAsControl]], [[CredibilityCascade]], and [[FounderIdentityNarrativeRisk]] - concepts grounded by the case.
+- [[JohnCarreyrou|John Carreyrou]], [[WallStreetJournal|Wall Street Journal]], and [[CentersForMedicareAndMedicaidServices|CMS]] - public reporting and regulatory fallout context.
+- [[MedicalTestingValidationIntegrity]], [[OrganizationalSecrecyAsControl]], [[CredibilityCascade]], [[FounderIdentityNarrativeRisk]], [[WhistleblowerLegalIntimidation]], and [[ProtectedWhistleblowerChannels]] - concepts grounded by the case.
