@@ -1,9 +1,9 @@
 ---
 title: "Beverage Category Convergence"
 type: concept
-tags: [coffee, tea-drinks, retail, consumer, china]
-sources: [141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]
-last_updated: 2026-07-09
+tags: [coffee, tea-drinks, retail, consumer, china, united-states]
+sources: [141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d]
+last_updated: 2026-07-23
 ---
 
 # Beverage Category Convergence
@@ -14,6 +14,8 @@ The source says tea-drink chains may enter coffee more easily than coffee chains
 
 [[137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]] adds the Korea comparison. The episode says coffee chains face intense local competition in [[SouthKorea]], while milk-tea brand [[GongCha]] can still do well because the local tea-drink competitor set is less advanced than mainland China's.
 
+[[e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d]] adds the U.S. comparison. [[GongCha]], [[HeyTea]], [[MoliNaiBai]], and [[Chagee]] show that tea-drink competition does not globalize at one speed: U.S. consumers may still accept traditional milk tea while Chinese consumers have moved toward fresher, more complex new tea formats.
+
 ## Key Claims
 - Adjacent beverage chains can become real competitors when their store network, franchisees, procurement, and traffic already exist.
 - A tea-drink brand can use coffee as an incremental category inside a high-frequency beverage habit.
@@ -21,6 +23,7 @@ The source says tea-drink chains may enter coffee more easily than coffee chains
 - Fresh-fruit and tea workflows can stress store operations differently from standardized coffee drinks.
 - Convergence can reopen uncertainty even after [[CoffeeChainInstitutionalization]] makes the coffee category look mature.
 - Category difficulty is market-specific: coffee may be mature and crowded in Korea, while milk tea can remain more open despite looking outdated relative to mainland China.
+- Taste upgrading and category convergence are local, not universal; an "older" product can still work where consumer habits and competitors have not moved as quickly.
 
 ## Connections
 - [[MixueBingcheng]] and [[Guming]] - source cases for tea chains entering coffee.
@@ -28,3 +31,4 @@ The source says tea-drink chains may enter coffee more easily than coffee chains
 - [[GongCha]], [[MannerCoffee]], and [[Sandunban]] - Korea comparison cases added by episode 137.
 - [[FranchiseLedConsumerChainExpansion]] - store-network and franchise-operator infrastructure behind convergence.
 - [[LowPriceBrandPerception]] and [[PremiumEverydayBrandTension]] - pricing and brand-permission constraints.
+- [[HeyTea]], [[MoliNaiBai]], [[Chagee]], [[RestaurantCulturalLegibility]], and [[USRestaurantRealEstateConstraint]] - U.S. tea-drink localization branch added by E232.

@@ -3882,3 +3882,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic checks scanned 5,109 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` and found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; a bounded in-session review of the lint sample plus current overview/recent-ingest context found no direct contradictions or stale summaries, and flagged source-breadth gaps for several single-source concepts. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-23] ingest | E232｜餐饮出海有新招儿吗？从鼎泰丰与贡茶拿下美国初代销冠聊起
+
+Added source page for the 硅谷101 episode on Din Tai Fung, Gong Cha, U.S. restaurant real estate, tea-drink franchising, culture-led food adoption, and why Chinese food brands need local consumer legibility rather than China-speed expansion assumptions. Created pages for Din Tai Fung, Bibigo, Thailand, Haidilao, HeyTea, Moli Nai Bai, Chagee, Wallace, Jollibee, Fei Da Chu, U.S. Restaurant Real Estate Constraint, Restaurant Cultural Legibility, and Culture-Led Food Adoption; updated overview, index, Silicon Valley 101, United States, China, Gong Cha, Global Product Localization, Restaurant Experience Design, Retail Site Selection, Local Market Proof, Franchise-Led Consumer Chain Expansion, Beverage Category Convergence, Chain Restaurant Standardization, and Consumer Brand Moat. No direct contradiction found; the source qualifies existing localization and experience-consumption branches by making leases, permits, local franchisees, cultural scenes, and repeat-use context central to restaurant globalization.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

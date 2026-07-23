@@ -2735,6 +2735,10 @@
     "title": "Beverage Category Convergence",
     "url": "/wiki/concepts/beveragecategoryconvergence/"
   },
+  "Bibigo": {
+    "title": "Bibigo",
+    "url": "/wiki/entities/bibigo/"
+  },
   "BigCompanyHalo": {
     "title": "Big Company Halo",
     "url": "/wiki/concepts/bigcompanyhalo/"
@@ -3486,6 +3490,10 @@
   "CesareBorgia": {
     "title": "Cesare Borgia / 凯撒·波吉亚",
     "url": "/wiki/entities/cesareborgia/"
+  },
+  "Chagee": {
+    "title": "Chagee / 霸王茶姬",
+    "url": "/wiki/entities/chagee/"
   },
   "ChainRestaurantStandardization": {
     "title": "Chain Restaurant Standardization",
@@ -4579,6 +4587,10 @@
     "title": "Culinary Identity Transformation",
     "url": "/wiki/concepts/culinaryidentitytransformation/"
   },
+  "CultureLedFoodAdoption": {
+    "title": "Culture-Led Food Adoption",
+    "url": "/wiki/concepts/cultureledfoodadoption/"
+  },
   "CultureWineCompany": {
     "title": "Culture Wine Company",
     "url": "/wiki/entities/culturewinecompany/"
@@ -5178,6 +5190,10 @@
   "DimitriDadiomov": {
     "title": "Dimitri Dadiomov",
     "url": "/wiki/entities/dimitridadiomov/"
+  },
+  "DinTaiFung": {
+    "title": "Din Tai Fung / 鼎泰丰",
+    "url": "/wiki/entities/dintaifung/"
   },
   "DingTalk": {
     "title": "DingTalk",
@@ -6330,6 +6346,10 @@
   "FeiBi": {
     "title": "菲比",
     "url": "/wiki/entities/feibi/"
+  },
+  "FeiDaChu": {
+    "title": "Fei Da Chu / 费大厨",
+    "url": "/wiki/entities/feidachu/"
   },
   "FeiFeiLi": {
     "title": "Fei-Fei Li",
@@ -7735,6 +7755,10 @@
     "title": "哈迪亚营救事件",
     "url": "/wiki/entities/hadiyarescueevent/"
   },
+  "Haidilao": {
+    "title": "Haidilao / 海底捞",
+    "url": "/wiki/entities/haidilao/"
+  },
   "HaierBrothers": {
     "title": "《海尔兄弟》",
     "url": "/wiki/entities/haierbrothers/"
@@ -8026,6 +8050,10 @@
   "HermesAgent": {
     "title": "Hermes Agent",
     "url": "/wiki/entities/hermesagent/"
+  },
+  "HeyTea": {
+    "title": "HeyTea / 喜茶",
+    "url": "/wiki/entities/heytea/"
   },
   "Hezbollah": {
     "title": "Hezbollah",
@@ -9410,6 +9438,10 @@
   "JointEmbeddingPredictiveArchitecture": {
     "title": "Joint Embedding Predictive Architecture",
     "url": "/wiki/concepts/jointembeddingpredictivearchitecture/"
+  },
+  "Jollibee": {
+    "title": "Jollibee",
+    "url": "/wiki/entities/jollibee/"
   },
   "JollofIndex": {
     "title": "Jollof Index",
@@ -11714,6 +11746,10 @@
   "Mogujie": {
     "title": "蘑菇街 / Mogujie",
     "url": "/wiki/entities/mogujie/"
+  },
+  "MoliNaiBai": {
+    "title": "Moli Nai Bai / 茉莉奶白",
+    "url": "/wiki/entities/molinaibai/"
   },
   "MolinosPeru": {
     "title": "Molinos (Peru)",
@@ -14291,6 +14327,10 @@
     "title": "Responna",
     "url": "/wiki/entities/responna/"
   },
+  "RestaurantCulturalLegibility": {
+    "title": "Restaurant Cultural Legibility",
+    "url": "/wiki/concepts/restaurantculturallegibility/"
+  },
   "RestaurantExperienceDesign": {
     "title": "Restaurant Experience Design",
     "url": "/wiki/concepts/restaurantexperiencedesign/"
@@ -16639,6 +16679,10 @@
     "title": "Thai Orient Airlines / 泰国东方航空",
     "url": "/wiki/entities/thaiorientairlines/"
   },
+  "Thailand": {
+    "title": "Thailand",
+    "url": "/wiki/entities/thailand/"
+  },
   "TheBacchae": {
     "title": "The Bacchae / 酒神的伴侣",
     "url": "/wiki/entities/thebacchae/"
@@ -17343,6 +17387,10 @@
     "title": "U.S. Recession Risk",
     "url": "/wiki/concepts/usrecessionrisk/"
   },
+  "USRestaurantRealEstateConstraint": {
+    "title": "U.S. Restaurant Real Estate Constraint",
+    "url": "/wiki/concepts/usrestaurantrealestateconstraint/"
+  },
   "USTikTok": {
     "title": "U.S. TikTok",
     "url": "/wiki/entities/ustiktok/"
@@ -17742,6 +17790,10 @@
   "WallStreetJournal": {
     "title": "Wall Street Journal",
     "url": "/wiki/entities/wallstreetjournal/"
+  },
+  "WallaceFastFood": {
+    "title": "Wallace / 华莱士",
+    "url": "/wiki/entities/wallacefastfood/"
   },
   "Walmart": {
     "title": "Walmart",
@@ -19286,6 +19338,10 @@
   "e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70": {
     "title": "E231｜从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？",
     "url": "/wiki/sources/e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70/"
+  },
+  "e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d": {
+    "title": "E232｜餐饮出海有新招儿吗？从鼎泰丰与贡茶拿下美国初代销冠聊起",
+    "url": "/wiki/sources/e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d/"
   },
   "e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde": {
     "title": "E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE",

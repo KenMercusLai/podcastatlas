@@ -1,9 +1,9 @@
 ---
 title: "Restaurant Experience Design"
 type: concept
-tags: [hospitality, restaurants, design, consumer]
-sources: [starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4, vol-263-lang-de-youhuo-998128018, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]
-last_updated: 2026-07-09
+tags: [hospitality, restaurants, design, consumer, localization]
+sources: [starr-restaurants-stephen-starr-how-a-non-foodie-built-thriving-restaurants-on-gut-instinct-6c0eb387-4722-4284-aded-23bbd0a9e6f4, vol-263-lang-de-youhuo-998128018, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d]
+last_updated: 2026-07-23
 ---
 
 # Restaurant Experience Design
@@ -16,6 +16,8 @@ The concept extends [[ExperientialRetail]] into hospitality. Build-A-Bear makes 
 
 [[137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1]] adds a destination-restaurant version through [[Shunde]] and [[Zhuroupo]]. Here the designed experience includes regional food reputation, documentary-driven anticipation, holiday crowding, queue tolerance, and the feeling of eating in the place that made the dish meaningful.
 
+[[e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d]] adds a cross-border legibility version through [[DinTaiFung]], [[Haidilao]], and [[HeyTea]]. In the [[UnitedStates]], experience design must help consumers understand the food, ordering rhythm, preparation, and social occasion; it is not enough for the room to look impressive if the category remains hard to use.
+
 ## Key Claims
 - A restaurant can differentiate through atmosphere and ritual even when the founder is not a chef.
 - Design, sound, lighting, temperature, service rhythm, and host behavior are part of the product, not decoration around the product.
@@ -24,6 +26,7 @@ The concept extends [[ExperientialRetail]] into hospitality. Build-A-Bear makes 
 - The founder's role may resemble a producer who assembles chefs, designers, managers, and operators around a shared feeling.
 - In standardized chain restaurants, experience design can come from visible process reliability, ordering interface, novelty cadence, and hygiene trust rather than from unique room design alone.
 - Destination restaurants add travel and reputation to the product; the food may be good, but the value also comes from having eaten it in the culturally meaningful place.
+- Cross-border restaurant experience design must translate the dining procedure itself, especially for hot pot, new tea drinks, dumplings, and regional Chinese dishes whose use occasion may not be obvious.
 
 ## Connections
 - [[StephenStarr]], [[STARRRestaurants]], [[TheContinental]], and [[Budokan]] - source cases.
@@ -32,3 +35,4 @@ The concept extends [[ExperientialRetail]] into hospitality. Build-A-Bear makes 
 - [[ExperientialRetail]], [[ProductLedWillingnessToPay]], and [[CustomerPull]] - adjacent consumer-experience concepts.
 - [[Sushiro]], [[ConveyorBeltSushi]], and [[ChainRestaurantStandardization]] - chain case where the experience depends on repeatable process and food-safety cues.
 - [[Shunde]], [[Zhuroupo]], [[XunweiShunde]], and [[AIResistantExperientialConsumption]] - destination-food branch added by episode 137.
+- [[DinTaiFung]], [[Haidilao]], [[HeyTea]], [[RestaurantCulturalLegibility]], and [[CultureLedFoodAdoption]] - cross-border food-experience branch added by E232.

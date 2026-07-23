@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E232｜餐饮出海有新招儿吗？从鼎泰丰与贡茶拿下美国初代销冠聊起](sources/e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d.md) — 硅谷101 episode on Din Tai Fung, Gong Cha, U.S. restaurant real estate, tea-drink franchising, cultural food adoption, and why Chinese food brands need local legibility rather than home-market speed.
 - [E231｜从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？](sources/e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70.md) — 硅谷101 episode with Zhang Kuo on Alibaba's Axio, B2B-to-A2A trade, agentic sourcing, one-person companies, long-context business agents, and AI-native organization response.
 - [E230｜1万亿收入预期背后：英伟达的巅峰与软肋](sources/e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b.md) — 硅谷101 episode on Nvidia's $1 trillion Blackwell/Vera Rubin order narrative, inference demand, HBM and advanced packaging constraints, GPU cloud operations, neoclouds, and data-center land/power bottlenecks.
 - [Is social media addictive? And are social media companies liable?](sources/tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128.md) — Marketplace Tech episode with Eric Goldman on a Los Angeles social-media addiction trial, platform legal causation, Section 230's appeal posture, and spillover risk for other internet services.
@@ -483,6 +484,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Din Tai Fung / 鼎泰丰](entities/DinTaiFung.md) — Restaurant-chain case for U.S. soup-dumpling legibility, slow rollout, mall/city site selection, and chain standardization.
+- [Bibigo](entities/Bibigo.md) — Korean frozen-food brand used to show how cultural awareness, grocery channels, and cooking-method adaptation combine in U.S. food adoption.
+- [Thailand](entities/Thailand.md) — Country case for state-backed Thai food promotion, tourism familiarity, and cuisine legibility in the United States.
+- [Haidilao / 海底捞](entities/Haidilao.md) — Hot-pot chain used as a U.S. restaurant-experience case where service, social dining, and category explanation matter.
+- [HeyTea / 喜茶](entities/HeyTea.md) — New-style Chinese tea-drink brand discussed through U.S. lab-store experience design and category explanation.
+- [Moli Nai Bai / 茉莉奶白](entities/MoliNaiBai.md) — New Chinese tea-drink brand whose U.S. progress is tied to local franchisee knowledge, blogger selection, and approachable aesthetics.
+- [Chagee / 霸王茶姬](entities/Chagee.md) — Chinese tea-drink brand used to test how far modern or luxury-coded branding can travel in the United States.
+- [Wallace / 华莱士](entities/WallaceFastFood.md) — Chinese value fast-food chain framed as a risky U.S. fried-chicken entrant if price is the main memory point.
+- [Jollibee](entities/Jollibee.md) — Fast-food contrast case where diaspora demand, flavor memory, and cultural identity support U.S. entry.
+- [Fei Da Chu / 费大厨](entities/FeiDaChu.md) — Chinese stir-fry brand used to discuss familiar-menu bridges such as beef and broccoli in U.S. localization.
 - [张阔 / Zhang Kuo](entities/ZhangKuo.md) — Alibaba international-business executive in E231 explaining Axio, B2B-to-A2A, agentic sourcing, and model-responsive AI-native organizations.
 - [Axio](entities/Axio.md) — Alibaba international B2B agent product in E231, covering product ideation, sourcing, design packs, supplier matching, logistics, and Axio Work small-business operations.
 - [Cloud Cowork](entities/CloudCowork.md) — Anthropic research-preview agent workbench named in E231 as a reference point for layered agent platforms and verified business workflows.
@@ -2036,7 +2047,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Seongsu-dong / 圣水洞](entities/SeongsuDong.md) — Seoul trend district where brands compete for youth-culture positioning and high-signal retail locations.
 - [ANUA](entities/ANUA.md) — Korean beauty brand used as a TikTok-era K-Beauty global-trust example.
 - [MEDICUBE](entities/MEDICUBE.md) — Korean beauty and beauty-device brand used to show medical-aesthetic trust inside K-Beauty.
-- [Gong Cha / 共茶](entities/GongCha.md) — Taiwan-origin milk-tea brand used to compare Korea's tea-drink opportunity with its crowded coffee market.
+- [Gong Cha / 共茶](entities/GongCha.md) — Taiwan-origin milk-tea brand used to compare Korea's tea-drink opportunity and U.S. franchise/site advantages with mainland China's faster tea-drink cycle.
 - [Manner Coffee](entities/MannerCoffee.md) — Chinese coffee brand used as a cautionary Korea-market entry example.
 - [Sandunban / 三顿半](entities/Sandunban.md) — Chinese boutique instant-coffee brand whose Korea position differs from standard cafe-chain competition.
 - [Hong Kong / 香港](entities/HongKong.md) — Housing and offline-member-event case used to separate lived experience from property investment.
@@ -2506,7 +2517,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Samuel Beckett](entities/SamuelBeckett.md) — Writer whose work Beauchard backed before broader market recognition.
 - [Elie Wiesel](entities/ElieWiesel.md) — Writer whose Holocaust memoir Night Beauchard championed through early rejection.
 - [Alphabet](entities/Alphabet.md) — Hyperscaler in the episode's $660bn AI capex cluster alongside Amazon, Meta, and Microsoft.
-- [硅谷101](entities/SiliconValley101.md) — Podcast/show context for power batteries, football finance, running shoes, Apodex self-evolution, FDE work, and Bairong's enterprise-agent discussion.
+- [硅谷101](entities/SiliconValley101.md) — Podcast/show context for restaurant globalization, B2B agents, Nvidia infrastructure, power batteries, football finance, running shoes, robotics, FDE work, and enterprise agents.
 - [Apodex](entities/Apodex.md) — Chen Tianqiao-backed AI company in the source focused on Heavy Duty Solver and Discovery Model work rather than consumer generation products.
 - [Chen Tianqiao](entities/ChenTianqiao.md) — Strategic figure behind Apodex, described as shaping company direction and model constitution around truthfulness and hard-problem solving.
 - [Du Shaolei](entities/DuShaolei.md) — Apodex chief scientist for training and inference, discussing Deep Research, long-horizon reasoning, verification, and research taste.
@@ -3107,6 +3118,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [U.S. Restaurant Real Estate Constraint](concepts/USRestaurantRealEstateConstraint.md) — E232 concept that U.S. restaurant rollout depends on leases, permits, foodservice-ready sites, landlords, buildout time, and local operator credibility.
+- [Restaurant Cultural Legibility](concepts/RestaurantCulturalLegibility.md) — E232 concept for whether local consumers understand a food's format, occasion, ordering method, and repeat reason.
+- [Culture-Led Food Adoption](concepts/CultureLedFoodAdoption.md) — E232 concept for entertainment, tourism, government promotion, channels, and diaspora memory making cuisine easier to try.
 - [B2B to A2A](concepts/B2BToA2A.md) — E231 thesis that business-to-business trade can become agent-to-agent coordination among buyer, seller, platform, and operator agents.
 - [Agentic B2B Sourcing](concepts/AgenticB2BSourcing.md) — E231 workflow pattern for turning product ideas into research, design packs, supplier matching, pricing, logistics, transactions, and feedback loops.
 - [Model-Responsive AI Native Organization](concepts/ModelResponsiveAINativeOrganization.md) — E231 diagnostic that AI-native products and teams should react strongly when new models or agent frameworks appear.

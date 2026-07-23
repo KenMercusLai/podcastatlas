@@ -1,8 +1,8 @@
 ---
 title: "硅谷101"
 type: entity
-tags: [podcast, media, ai, sports, consumer-brands, manufacturing, robotics]
-sources: [e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou]
+tags: [podcast, media, ai, sports, consumer-brands, manufacturing, robotics, restaurants]
+sources: [e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d, e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70, e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e, e229-cong-shougong-zuofang-dao-quanqiu-diyi-zhongguo-dongli-dianchi-nixi-shi, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, e225-saasye-shuqianyi-shizhi-zhengfa-ai-ruhe-biange-zuzhi-jiagou]
 last_updated: 2026-07-23
 ---
 
@@ -13,6 +13,8 @@ last_updated: 2026-07-23
 [[e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]] adds a semiconductor and AI-infrastructure business installment. The show uses [[ZhangLu]], [[XiaoZhibin]], [[MarkRen]], and [[AlexGMICloud|Alex]] to examine [[Nvidia]]'s $1 trillion order narrative across [[NvidiaBlackwellPlatform|Blackwell]], [[NvidiaVeraRubinPlatform|Vera Rubin]], inference demand, chip design, [[AdvancedPackaging]], [[HighBandwidthMemory]], [[GPUCloudOperations]], [[NeoCloud]], and [[DataCenterPowerBottleneck|land and power]].
 
 [[e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70]] adds a B2B agent infrastructure installment. The show interviews [[ZhangKuo]] on [[Alibaba]], [[Axio]], [[B2BToA2A]], [[AgenticB2BSourcing]], and why small-business agents need trade data, sourcing workflows, verification, long memory, and model-responsive organization rather than only a general assistant.
+
+[[e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d]] adds a restaurant and tea-drink globalization installment. The show uses [[DinTaiFung]], [[GongCha]], [[Bibigo]], [[Thailand]], [[Haidilao]], [[HeyTea]], [[MoliNaiBai]], [[Chagee]], [[WallaceFastFood]], and [[Jollibee]] to examine [[RestaurantCulturalLegibility]], [[USRestaurantRealEstateConstraint]], and [[CultureLedFoodAdoption]] in the [[UnitedStates]].
 
 ## Connections
 - [[ZhangLu]], [[XiaoZhibin]], [[MarkRen]], [[AlexGMICloud|Alex]], and [[GMICloud]] - Nvidia and GPU-cloud episode context from E230.
@@ -31,3 +33,5 @@ last_updated: 2026-07-23
 - [[PowerBatteryIndustryChain]], [[BatteryManufacturingKnowHow]], [[BatteryConsistencySafety]], [[SodiumIonBatteryStorage]], and [[SolidStateBatteryCommercialization]] — battery-manufacturing and technology-route concepts added by E229.
 - [[HanZheng]], [[SuduTechnology]], [[Sim2Real]], [[Structured3DRobotData]], and [[LayeredRobotArchitecture]] — robotics route debate added by E244.
 - [[ZhangKuo]], [[Alibaba]], [[Axio]], [[B2BToA2A]], and [[AgenticB2BSourcing]] - B2B agent infrastructure and one-person company branch added by E231.
+- [[DinTaiFung]], [[GongCha]], [[Bibigo]], [[Thailand]], [[Haidilao]], [[HeyTea]], [[MoliNaiBai]], [[Chagee]], [[WallaceFastFood]], and [[Jollibee]] - restaurant and tea-drink globalization branch added by E232.
+- [[RestaurantCulturalLegibility]], [[USRestaurantRealEstateConstraint]], and [[CultureLedFoodAdoption]] - foodservice concepts added by E232.

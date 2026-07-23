@@ -9,7 +9,8 @@ sources:
   - 140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1
   - 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1
   - vol-264-ba-shijiebei-zuowei-fangfa-999416048
-last_updated: 2026-07-09
+  - e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d
+last_updated: 2026-07-23
 ---
 
 # Global Product Localization
@@ -28,6 +29,8 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 
 [[vol-264-ba-shijiebei-zuowei-fangfa-999416048]] adds the multinational sports-brand version through [[Adidas]]. The episode's China examples - responding to a local meme with a T-shirt, running a large offline World Cup event, and producing local variety content - show localization as marketing authority and product-response speed, not only translation or channel adaptation.
 
+[[e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d]] adds the U.S. restaurant and tea-drink version. Here localization includes [[RestaurantCulturalLegibility]], [[USRestaurantRealEstateConstraint]], local franchisees, labor rules, long leases, store buildout, influencer selection, and whether the consumer can imagine the food occasion before trying it.
+
 ## Key Claims
 - A global product should separate what must be globally consistent from what must adapt locally.
 - Local content and operations can vary without fragmenting the core product container.
@@ -42,6 +45,7 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 - Smaller consumer-electronics categories can avoid some protectionist pressure at first, but security narratives can still turn global demand into regulatory exposure.
 - Consumer-chain localization can require local ownership, local professional managers, and faster product-price-store iteration than a global headquarters can supply.
 - Global sports brands may need local teams with enough autonomy to turn memes, city events, content formats, and campaign timing into products and experiences.
+- Restaurant localization can require changing the operating environment around the product - lease, approvals, menu bridges, service explanation, and local team credibility - rather than only adapting flavor.
 
 ## Connections
 - [[TikTok]], [[Douyin]], and [[ByteDance]] — source product and company case.
@@ -54,3 +58,4 @@ The source explicitly rejects the idea that TikTok is only an overseas version o
 - [[DJI]], [[ChineseHardwareGlobalization]], [[HardwareCategoryDefinitionPower]], and [[LowAltitudeRegulatoryRisk]] — hardware globalization extension added by the FengTouQuan DJI source.
 - [[CoffeeChainLocalization]], [[Starbucks]], [[BoyuCapital]], [[BlueBottleCoffee]], and [[Nestle]] - coffee-chain localization extension added by the FengTouQuan coffee source.
 - [[Adidas]], [[OfflineBrandActivation]], and [[SportsLifestyleConsumption]] - multinational sports-brand localization extension added by Vol.264.
+- [[DinTaiFung]], [[GongCha]], [[MoliNaiBai]], [[Chagee]], [[FeiDaChu]], [[RestaurantCulturalLegibility]], and [[USRestaurantRealEstateConstraint]] - U.S. foodservice and tea-drink localization extension added by E232.
