@@ -4219,3 +4219,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-24] lint | Wiki health check
 
 Ran health and lint. Health passed with no empty/stub files, index drift, or source-log coverage gaps across 5,594 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used stale `graph/graph.json` data built on 2026-07-18 with 4,998 nodes while lint scanned 5,594 pages; the snapshot reported no hub stubs, two fragile bridges, and no isolated communities. Semantic lint was unavailable because no provider-qualified `LLM_MODEL` or provider API key variables are present. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-24] ingest | 104.你一生的故事：终点已经注定，还要出发吗？
+
+Added source page for a 蜜獾吃书 episode on Ted Chiang, 《你一生的故事》, 《降临》, heptapod language, Fermat's principle of least time, nonlinear time, free will, 《除以零》, 《巴比伦之塔》, 《商人和炼金术之门》, and 《领悟》. Created pages for Ted Chiang, 《你一生的故事》, 《降临》, Louise Banks, Gary Donnelly, heptapods, 《除以零》, 《巴比伦之塔》, 《商人和炼金术之门》, 《领悟》, Heptapod B, Linguistic Relativity, Nonlinear Time Perception, Predestined Choice, Fermat's Principle of Least Time, and Rational Worldview Collapse; updated overview, index, 蜜獾吃书, Science Fiction Realism, Pure Rationality Trap, Story-Within-Story Narration, Consciousness Measurement, and Science-Religion Civilization Tension. No direct contradiction found; the source extends the wiki's science-fiction and rationality branches by showing rigorous ideas becoming emotional tests of time, proof, selfhood, and choice.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

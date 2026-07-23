@@ -35,6 +35,10 @@
     "title": "103.她是刺穿夜雾的光，她是汉娜·阿伦特",
     "url": "/wiki/sources/103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789/"
   },
+  "104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680": {
+    "title": "104.你一生的故事：终点已经注定，还要出发吗？",
+    "url": "/wiki/sources/104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680/"
+  },
   "107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818": {
     "title": "107.闲聊伟大导演们的八卦（第一弹）",
     "url": "/wiki/sources/107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818/"
@@ -2258,6 +2262,10 @@
   "ArmandBenard": {
     "title": "Armand Benard",
     "url": "/wiki/entities/armandbenard/"
+  },
+  "ArrivalFilm": {
+    "title": "Arrival",
+    "url": "/wiki/entities/arrivalfilm/"
   },
   "ArsenalFC": {
     "title": "Arsenal FC",
@@ -5791,6 +5799,10 @@
     "title": "Divine Perspective Aesthetics",
     "url": "/wiki/concepts/divineperspectiveaesthetics/"
   },
+  "DivisionByZero": {
+    "title": "Division by Zero",
+    "url": "/wiki/entities/divisionbyzero/"
+  },
   "DoTooMuchFounderPhilosophy": {
     "title": "Do Too Much Founder Philosophy",
     "url": "/wiki/concepts/dotoomuchfounderphilosophy/"
@@ -6951,6 +6963,10 @@
     "title": "Ferdinand de Saussure / 索绪尔",
     "url": "/wiki/entities/ferdinanddesaussure/"
   },
+  "FermatsPrincipleOfLeastTime": {
+    "title": "Fermat's Principle of Least Time",
+    "url": "/wiki/concepts/fermatsprincipleofleasttime/"
+  },
   "Ferrari": {
     "title": "Ferrari",
     "url": "/wiki/entities/ferrari/"
@@ -7810,6 +7826,10 @@
   "GaryCross": {
     "title": "Gary Cross",
     "url": "/wiki/entities/garycross/"
+  },
+  "GaryDonnelly": {
+    "title": "Gary Donnelly",
+    "url": "/wiki/entities/garydonnelly/"
   },
   "GaryGensler": {
     "title": "Gary Gensler",
@@ -8714,6 +8734,14 @@
   "HenryYin": {
     "title": "Henry Yin",
     "url": "/wiki/entities/henryyin/"
+  },
+  "HeptapodB": {
+    "title": "Heptapod B",
+    "url": "/wiki/concepts/heptapodb/"
+  },
+  "Heptapods": {
+    "title": "Heptapods",
+    "url": "/wiki/entities/heptapods/"
   },
   "Heraclitus": {
     "title": "Heraclitus / 赫拉克利特",
@@ -11303,6 +11331,10 @@
     "title": "领航者号 Recovery Ship",
     "url": "/wiki/entities/linghangzherecoveryship/"
   },
+  "LinguisticRelativity": {
+    "title": "Linguistic Relativity",
+    "url": "/wiki/concepts/linguisticrelativity/"
+  },
   "LinkedIn": {
     "title": "LinkedIn",
     "url": "/wiki/entities/linkedin/"
@@ -11598,6 +11630,10 @@
   "LouisaMayAlcott": {
     "title": "Louisa May Alcott / 奥尔科特",
     "url": "/wiki/entities/louisamayalcott/"
+  },
+  "LouiseBanks": {
+    "title": "Louise Banks",
+    "url": "/wiki/entities/louisebanks/"
   },
   "LovePoetryModernity": {
     "title": "Love Poetry Modernity",
@@ -12438,6 +12474,10 @@
   "MercerMassTimber": {
     "title": "Mercer Mass Timber",
     "url": "/wiki/entities/mercermasstimber/"
+  },
+  "MerchantAndAlchemistsGate": {
+    "title": "The Merchant and the Alchemist's Gate",
+    "url": "/wiki/entities/merchantandalchemistsgate/"
   },
   "MeritBasedImmigrationFilter": {
     "title": "Merit-Based Immigration Filter",
@@ -13414,6 +13454,10 @@
   "NonfictionPublicness": {
     "title": "Nonfiction Publicness",
     "url": "/wiki/concepts/nonfictionpublicness/"
+  },
+  "NonlinearTimePerception": {
+    "title": "Nonlinear Time Perception",
+    "url": "/wiki/concepts/nonlineartimeperception/"
   },
   "NonprofitStartupDiscipline": {
     "title": "Nonprofit Startup Discipline",
@@ -14743,6 +14787,10 @@
     "title": "Precision Manufacturing As Strategy",
     "url": "/wiki/concepts/precisionmanufacturingasstrategy/"
   },
+  "PredestinedChoice": {
+    "title": "Predestined Choice",
+    "url": "/wiki/concepts/predestinedchoice/"
+  },
   "PredictionMarketEthics": {
     "title": "Prediction Market Ethics",
     "url": "/wiki/concepts/predictionmarketethics/"
@@ -15338,6 +15386,10 @@
   "RationalHumility": {
     "title": "Rational Humility",
     "url": "/wiki/concepts/rationalhumility/"
+  },
+  "RationalWorldviewCollapse": {
+    "title": "Rational Worldview Collapse",
+    "url": "/wiki/concepts/rationalworldviewcollapse/"
   },
   "RationalistMethod": {
     "title": "Rationalist Method",
@@ -17627,6 +17679,10 @@
     "title": "Story Motif Transmission",
     "url": "/wiki/concepts/storymotiftransmission/"
   },
+  "StoryOfYourLife": {
+    "title": "Story of Your Life",
+    "url": "/wiki/entities/storyofyourlife/"
+  },
   "StoryStorm": {
     "title": "StoryStorm",
     "url": "/wiki/entities/storystorm/"
@@ -18199,6 +18255,10 @@
     "title": "Technology Right Power Network",
     "url": "/wiki/concepts/technologyrightpowernetwork/"
   },
+  "TedChiang": {
+    "title": "Ted Chiang",
+    "url": "/wiki/entities/tedchiang/"
+  },
   "TeenChatbotMentalHealthRisk": {
     "title": "Teen Chatbot Mental Health Risk",
     "url": "/wiki/concepts/teenchatbotmentalhealthrisk/"
@@ -18707,6 +18767,10 @@
     "title": "Toutiao Lite",
     "url": "/wiki/entities/toutiaolite/"
   },
+  "TowerOfBabylon": {
+    "title": "Tower of Babylon",
+    "url": "/wiki/entities/towerofbabylon/"
+  },
   "ToxicShockSyndromeRisk": {
     "title": "Toxic Shock Syndrome Risk",
     "url": "/wiki/concepts/toxicshocksyndromerisk/"
@@ -19078,6 +19142,10 @@
   "UndergroundMoneyTransferRisk": {
     "title": "Underground Money Transfer Risk",
     "url": "/wiki/concepts/undergroundmoneytransferrisk/"
+  },
+  "UnderstandTedChiang": {
+    "title": "Understand",
+    "url": "/wiki/entities/understandtedchiang/"
   },
   "UnderstandingAmericaStudy": {
     "title": "Understanding America Study",

@@ -2,8 +2,8 @@
 title: "Science-Religion Civilization Tension"
 type: concept
 tags: [science, religion, civilization, literature]
-sources: [75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 174-du-dikaer-shi-jian-dashi-966856702, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687]
-last_updated: 2026-07-18
+sources: [75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 174-du-dikaer-shi-jian-dashi-966856702, 03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680]
+last_updated: 2026-07-24
 ---
 
 # Science-Religion Civilization Tension
@@ -16,6 +16,8 @@ The concept matters because the book's conflict is not "faith versus knowledge" 
 
 [[75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087]] adds a Lu Xun version through [[GushiXinbian|《故事新编》]]. The source argues that [[LuXun|鲁迅]] is neither simply anti-religion nor anti-science: he values myth and religious imagination as literary origins and has a scientific education, while criticizing the instrumental habit that turns religion, science, or revolution into whatever happens to be useful.
 
+[[104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680]] adds a [[TedChiang|Ted Chiang / 江峰南]] version through [[TowerOfBabylon|《巴比伦之塔》]]. The episode treats biblical cosmology as a rigorous speculative model: reaching heaven and returning to earth becomes a finite-but-unbounded geometry problem rather than a simple anti-religious joke or proof-text.
+
 ## Key Claims
 - Religious institutions can preserve knowledge even while interpreting it through incomplete or symbolic categories.
 - Scientific rediscovery is not automatically moral progress; it depends on the political and ethical order that receives it.
@@ -23,6 +25,7 @@ The concept matters because the book's conflict is not "faith versus knowledge" 
 - The novel's critique is aimed at human fragility before truth, not at one knowledge system alone.
 - In the Descartes source, scientific method develops under real theological and institutional risk, so caution is not merely personal timidity.
 - In the Lu Xun source, the problem is not science or religion as such, but the shallow use of either as a tool for status, profit, or evasion.
+- In the Chiang source, religious cosmology can become precise speculative architecture, making wonder and geometry operate together.
 
 ## Connections
 - [[LuXun|鲁迅]], [[GushiXinbian|《故事新编》]], and [[InstrumentalBeliefCritique]] - episode 75's anti-instrumental extension.
@@ -32,3 +35,4 @@ The concept matters because the book's conflict is not "faith versus knowledge" 
 - [[ApocalypticLiterarySymbolism]] - religious-symbolic layer that gives the scientific story moral pressure.
 - [[CivilizationalSelfDestructionCycle]] - danger that recovered science rebuilds destructive capacity.
 - [[BookOfRevelation|《启示录》]] - religious vocabulary used by the episode.
+- [[TowerOfBabylon|《巴比伦之塔》]] and [[TedChiang|Ted Chiang / 江峰南]] - source-104 extension into biblical cosmology as science-fiction geometry.

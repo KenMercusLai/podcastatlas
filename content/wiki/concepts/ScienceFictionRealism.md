@@ -2,8 +2,8 @@
 title: "Science Fiction Realism"
 type: concept
 tags: [literature, science-fiction, realism, satire]
-sources: [45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112]
-last_updated: 2026-07-14
+sources: [45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680]
+last_updated: 2026-07-24
 ---
 
 # Science Fiction Realism
@@ -12,14 +12,18 @@ Science fiction realism is the label the hosts use near the end of [[45-jiqirend
 
 In the episode, [[TheCyberiad|《机器人大师》 / The Cyberiad]] becomes realist because its impossible machines behave like magnifiers. They make hidden assumptions visible: what people mean by truth, what armies become when they think, why creative output is tied to status, how facts differ from understanding, and why humans look natural only from their own point of view.
 
+[[104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680]] adds a quieter [[TedChiang|Ted Chiang / 江峰南]] version. In [[StoryOfYourLife|《你一生的故事》]], [[FermatsPrincipleOfLeastTime]], [[HeptapodB]], and [[NonlinearTimePerception]] are speculative mechanisms, but the realist pressure is emotional: foreknowledge asks what love, parenthood, and choice mean when the ending is already present.
+
 ## Key Claims
 - Speculative absurdity can be realist when it reveals durable social mechanisms.
 - Realism here is structural rather than surface-level: the events are impossible, but the human patterns are recognizable.
 - Comedy can carry serious analysis when it lets readers tolerate sharp observations about themselves.
 - AI-era readers can use older machine fables to think about current tools without treating the stories as direct predictions.
+- Concept-dense science fiction can be realist when it makes abstract physics, mathematics, language, or consciousness change a person's lived relationships.
 
 ## Connections
 - [[TheCyberiad|《机器人大师》 / The Cyberiad]] and [[StanislawLem|斯坦尼斯拉夫·莱姆]] - source book and author.
+- [[StoryOfYourLife|《你一生的故事》 / Story of Your Life]], [[TedChiang|Ted Chiang / 江峰南]], [[HeptapodB]], and [[PredestinedChoice]] - episode-104 extension into language, time, and foreknown loss.
 - [[CyberneticMachineSatire]], [[AbsurdRationality]], and [[TechnocraticDominationSatire]] - mechanisms that make speculative fables analytically useful.
 - [[ReadingAsLifeExperience]] and [[NonInstrumentalLiteraryReading]] - broader literary-reading frames in the wiki.
 - [[ChatGPT]] and [[HumanJudgmentUnderAI]] - contemporary AI trigger and judgment boundary illuminated by the episode.

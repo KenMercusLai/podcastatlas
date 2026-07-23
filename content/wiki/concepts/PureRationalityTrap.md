@@ -2,8 +2,8 @@
 title: "Pure Rationality Trap"
 type: concept
 tags: [philosophy, literature, politics, rationality]
-sources: [51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350]
-last_updated: 2026-07-18
+sources: [51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680]
+last_updated: 2026-07-24
 ---
 
 # Pure Rationality Trap
@@ -14,12 +14,15 @@ The trap becomes visible through [[LemuelGulliver]]. After admiring the Houyhnhn
 
 [[92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350]] adds a workplace-comedy version. In [[PlatoGoesToWork|《柏拉图上班记：哲学家的职场百态》]], [[FriedrichNietzsche|尼采]] attacks Enlightenment-style rational worship while the company itself is named around thinking and reason. The source uses the joke to show that rational corporate language can become another idol when it hides surveillance, capital control, and competition.
 
+[[104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680]] adds a related but distinct Chiang version through [[DivisionByZero|《除以零》]] and [[UnderstandTedChiang|《领悟》]]. Here reason is not merely cold; it can become destabilizing when mathematics, consciousness, or superior intelligence reaches a truth the rest of a human life cannot absorb.
+
 ## Key Claims
 - Reason without human warmth can become another form of cruelty.
 - A society can be truthful, calm, and orderly while still lacking mercy and ordinary attachment.
 - The opposite of corrupt human politics is not necessarily pure rational governance.
 - Human beings are mixed creatures; trying to become gods or animals can both miss the human condition.
 - Corporate reason can become an idol when it turns people into managed roles while calling the system rational.
+- Rational breakthrough can also isolate the thinker when the discovered truth cannot be shared, lived with, or translated back into ordinary attachment.
 
 ## Connections
 - [[Houyhnhnms|慧骃]] - main fictional society.
@@ -29,3 +32,4 @@ The trap becomes visible through [[LemuelGulliver]]. After admiring the Houyhnhn
 - [[FixedHumanNaturePolitics]] - adjacent danger of turning people into fixed essences.
 - [[NonInstrumentalLiteraryReading]] - the concept depends on experiencing the fourth voyage's discomfort rather than extracting a simple moral.
 - [[PhilosophyWorkplaceSatire]] and [[CorporateTheologyCapitalControl]] - source-92 workplace extensions.
+- [[DivisionByZero|《除以零》]], [[UnderstandTedChiang|《领悟》]], and [[RationalWorldviewCollapse]] - source-104 extension into mathematical and consciousness crises.

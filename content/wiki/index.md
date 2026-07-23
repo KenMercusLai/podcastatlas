@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [104.你一生的故事：终点已经注定，还要出发吗？](sources/104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680.md) — 蜜獾吃书 episode on Ted Chiang, 《你一生的故事》, 《降临》, heptapod language, Fermat's principle, nonlinear time, free will, mathematical collapse, fixed time loops, and consciousness.
 - [103.她是刺穿夜雾的光，她是汉娜·阿伦特](sources/103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789.md) — 蜜獾吃书 episode on Hannah Arendt, Love and Evil, Heidegger/Jaspers, exile, Eichmann in Jerusalem, Jewish Councils, banality of evil, and responsibility under institutionalized evil.
 - [102.江湖丛谈：骗术、黑话和民间道义](sources/102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488.md) — 蜜獾吃书 episode on 连阔如《江湖丛谈》, old Jianghu street society, 春点 black talk, scam craft, informal order, and the boundary between useful jargon and exclusionary language.
 - [112. 闲聊金庸第一弹：明教竟然今天还存在？](sources/112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095.md) — 蜜獾吃书 episode on Jin Yong's culturally dense wuxia, Song/Ming Jianghu space, 1967 Hong Kong politics, and Mingjiao/Manichaean survivals.
@@ -525,6 +526,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Ted Chiang / 江峰南](entities/TedChiang.md) — Science-fiction author read through language, mathematics, physics, theology, time, and consciousness as pressure tests for rational confidence.
+- [《你一生的故事》 / Story of Your Life](entities/StoryOfYourLife.md) — Ted Chiang story linking heptapod language, nonlinear time, foreknowledge, motherhood, and free will.
+- [《降临》 / Arrival](entities/ArrivalFilm.md) — Film adaptation compared with Chiang's quieter language/time/free-will story.
+- [Louise Banks / 路易斯·班克斯](entities/LouiseBanks.md) — Linguist protagonist whose learning of Heptapod B reorganizes time, memory, and future choice.
+- [Gary Donnelly / 盖雷·唐纳利](entities/GaryDonnelly.md) — Physicist whose refraction experiment links heptapod cognition to Fermat's principle of least time.
+- [Heptapods / 七肢桶](entities/Heptapods.md) — Alien species whose non-front/back body plan and separate written language ground the episode's nonlinear-time branch.
+- [《除以零》 / Division by Zero](entities/DivisionByZero.md) — Ted Chiang story used to show mathematical certainty collapsing into rational and relational crisis.
+- [《巴比伦之塔》 / Tower of Babylon](entities/TowerOfBabylon.md) — Ted Chiang story turning biblical cosmology into a finite-but-unbounded spatial thought experiment.
+- [《商人和炼金术之门》 / The Merchant and the Alchemist's Gate](entities/MerchantAndAlchemistsGate.md) — Ted Chiang fixed-time story where time travel produces understanding and repentance rather than rewritten history.
+- [《领悟》 / Understand](entities/UnderstandTedChiang.md) — Ted Chiang superintelligence story used to connect self-understanding, consciousness, and AI-era interpretability anxiety.
 - [Hannah Arendt / 汉娜·阿伦特](entities/HannahArendt.md) — Political theorist read by 蜜獾吃书 through philosophy, love, exile, action, Eichmann, truth-telling, and responsibility.
 - [《汉娜·阿伦特：爱与恶》 / Hannah Arendt: Love and Evil](entities/HannahArendtLoveAndEvil.md) — Biography used by episode 103 to connect Arendt's thought with her relationships, exile, and Eichmann controversy.
 - [Martin Heidegger / 马丁·海德格尔](entities/MartinHeidegger.md) — Philosopher framed through his relationship with Arendt, Nazi alignment, and the problem of intellectual responsibility.
@@ -3412,6 +3423,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Heptapod B / 七文B](concepts/HeptapodB.md) — Fictional nonlinear writing system whose completed graphic form links language, cognition, and time perception.
+- [Linguistic Relativity](concepts/LinguisticRelativity.md) — Idea that language habits can shape cognition, pushed by Chiang's story into a speculative transformation of time experience.
+- [Nonlinear Time Perception](concepts/NonlinearTimePerception.md) — Whole-path perception of past, present, and future rather than ordinary causal sequence.
+- [Predestined Choice](concepts/PredestinedChoice.md) — Ethical problem of choosing love, action, repentance, or acceptance when the future or past appears fixed.
+- [Fermat's Principle of Least Time](concepts/FermatsPrincipleOfLeastTime.md) — Physics analogy in the episode for endpoint-aware, whole-path thinking.
+- [Rational Worldview Collapse](concepts/RationalWorldviewCollapse.md) — Pattern where rational inquiry reaches a truth that destabilizes the reasoner's own frame of certainty.
 - [Banality Of Evil / 恶的平庸性](concepts/BanalityOfEvil.md) — Arendtian frame that evil can become flat, procedural, and thoughtless through bureaucratic role performance rather than monstrous psychology.
 - [Responsibility Versus Guilt / 责任与罪行区分](concepts/ResponsibilityVsGuilt.md) — Distinction used to read the Jewish Councils controversy without collapsing responsibility inquiry into victim-blaming.
 - [Political Truth-Telling / 政治性说真话](concepts/PoliticalTruthTelling.md) — Arendtian practice of speaking reality under political pressure while remaining answerable to evidence and responsibility.
