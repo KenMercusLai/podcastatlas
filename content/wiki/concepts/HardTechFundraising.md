@@ -2,7 +2,7 @@
 title: "Hard Tech Fundraising"
 type: concept
 tags: [startup, hard-tech, fundraising, venture-capital]
-sources: [tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final]
+sources: [tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final]
 last_updated: 2026-07-23
 ---
 
@@ -20,6 +20,8 @@ The source links this directly to [[InvestorRiskNarrative]]. Vogt had to explain
 
 [[tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio]] adds the commercial-aviation version through [[BlakeScholl]] and [[BoomSupersonic]]. Boom had to raise before aircraft revenue, certification, or production scale existed, so the fundraising path depended on a staged proof sequence: the [[AllBusinessClassSupersonicModel]] spreadsheet, [[RecursiveExpertRecruiting]], [[HardTechCustomerIntentProof]] from [[VirginGroup|Virgin]], [[YCombinator]] narrative discipline, [[XB1SupersonicDemonstrator|XB-1]] flight proof, and later [[CrisisForcedVerticalIntegration]] around engines.
 
+[[tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio]] adds the commercial-fusion version through [[DavidKirtley]] and [[Helion]]. Kirtley says Helion did not immediately close a round after Demo Day interest; it spent months making sure investors understood the physics, engineering path, timeline, capital needs, and uncertainty. [[MithrilCapital]] led the first post-Demo Day round, and [[CapricornInvestmentGroup]] led the Series B.
+
 ## Key Claims
 - Hard-tech founders often need a credible de-risking sequence before they can show familiar software metrics.
 - Repeated rejections can improve the pitch when each objection sharpens the explanation of market size, technical wedge, capital plan, and competitive path.
@@ -30,6 +32,7 @@ The source links this directly to [[InvestorRiskNarrative]]. Vogt had to explain
 - In launch and other very capital-intensive hardware categories, physical proof can be necessary to separate serious execution from a pitch-only story before revenue exists.
 - Market timing matters more when the company needs growth capital before ordinary revenue can prove demand.
 - In commercial aviation, customer intent and prototype flight can make a de-risking path legible before certification or airline operation can prove the business.
+- In commercial fusion, investor fit can be as important as valuation because the company needs patience to reject side markets and keep building toward power-plant deployment.
 
 ## Connections
 - [[Cruise]], [[KyleVogt]], and [[YCombinator]] - source case and Demo Day context.
@@ -39,3 +42,4 @@ The source links this directly to [[InvestorRiskNarrative]]. Vogt had to explain
 - [[SurbhiSarna]], [[NVisionMedical|nVision Medical]], [[SoloFounderFundraisingBias]], [[MedicalDeviceClinicalValidation]], and [[CapitalEfficientMedicalDeviceStartup]] - women-health medtech fundraising case added by The Social Radars.
 - [[AndyLapsa]], [[Stoke]], [[ReusableRocketEconomics]], and [[SecondStageReuseConstraint]] - reusable-launch case where technical proof and capital timing shape fundraising.
 - [[BlakeScholl]], [[BoomSupersonic]], [[AllBusinessClassSupersonicModel]], [[HardTechCustomerIntentProof]], [[XB1SupersonicDemonstrator]], and [[CrisisForcedVerticalIntegration]] - commercial-aviation case added by The Social Radars.
+- [[DavidKirtley]], [[Helion]], [[MithrilCapital]], [[CapricornInvestmentGroup]], [[CommercialFusionPower]], and [[DeepTechProductFocus]] - commercial-fusion case added by The Social Radars.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [David Kirtley, Founder & CEO of Helion Energy](sources/tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio.md) — The Social Radars episode with David Kirtley on Helion Energy, fusion power, YC focus, energy recovery, Polaris, Microsoft and Nucor customer plans, regulation, precision manufacturing, and scaling beyond one demonstration plant.
 - [Jared Friedman, Partner, Y Combinator; Co-founder, Scribd](sources/tsr-s5-jared-v3final-tsr-s5-jared-v3final.md) — The Social Radars episode with Jared Friedman on Scribd, early YC, Wholist, copyright risk, search-driven growth, 2008 runway pressure, YC internal software, and the AI-era return of technical founder energy.
 - [Blake Scholl, Founder & CEO of Boom Supersonic](sources/tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio.md) — The Social Radars episode with Blake Scholl on Boom Supersonic, all-business-class supersonic economics, recursive expert recruiting, YC storytelling, Virgin customer proof, XB-1, the Rolls-Royce engine crisis, boomless cruise, and supersonic regulation.
 - [Surbhi Sarna, Founder of nVision Medical](sources/tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3.md) — The Social Radars episode with Surbhi Sarna on nVision Medical, ovarian cancer diagnostics, fallopian-tube access, physician-led medical-device design, FDA clearance, hard medtech fundraising, and the Boston Scientific acquisition.
@@ -507,6 +508,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [David Kirtley](entities/DavidKirtley.md) — Helion founder and CEO whose episode connects fusion physics, energy recovery, startup focus, manufacturing, regulation, and founder-mode leadership.
+- [Helion Polaris](entities/HelionPolaris.md) — Helion's seventh-generation fusion machine, used in the source as the current proof platform for energy recovery, fusion operation, and precision manufacturing.
+- [Helion Orion](entities/HelionOrion.md) — Planned Helion power plant tied in the source to Microsoft's 50 MW power-purchase agreement and 2028 grid-delivery target.
+- [Nucor](entities/Nucor.md) — Steel company named as Helion's second customer for a planned 500 MW behind-the-meter industrial fusion generator.
+- [Mithril Capital](entities/MithrilCapital.md) — Lead investor for Helion's first post-YC Demo Day round in Kirtley's source account.
+- [Capricorn Investment Group](entities/CapricornInvestmentGroup.md) — Lead investor for Helion's Series B, used in the source to show why long-term investor fit protects focus.
+- [Chelan PUD](entities/ChelanPUD.md) — Utility participant named in the source around Helion Orion's planned power delivery to Microsoft.
+- [Constellation Energy](entities/ConstellationEnergy.md) — Power-delivery participant named in the source around Helion Orion and Microsoft's planned electricity purchase.
 - [Jared Friedman](entities/JaredFriedman.md) — Scribd co-founder and YC partner whose episode connects early YC, Scribd's search-led document platform, and YC's internal software/AI tooling.
 - [Scribd](entities/Scribd.md) — YC-backed document-sharing and later book-subscription company built through user uploads, search traffic, copyright risk, and crisis-era financing.
 - [Tripp (Scribd Co-Founder)](entities/TrippScribd.md) — Jared Friedman's co-founder through the rejected Uber-like idea, Wholist, and Scribd.
@@ -3276,6 +3285,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Commercial Fusion Power](concepts/CommercialFusionPower.md) — Turning fusion from a physics milestone into deployable electricity infrastructure with customers, permitting, manufacturing, and grid delivery.
+- [Fusion Energy Recovery](concepts/FusionEnergyRecovery.md) — Helion strategy of recovering most input electricity so fusion output only needs to cover losses plus surplus.
+- [Deep-Tech Product Focus](concepts/DeepTechProductFocus.md) — Discipline of narrowing a broad technical platform into one product and rejecting side markets that distract from the core mission.
+- [Hard-Tech Regulatory Pathfinding](concepts/HardTechRegulatoryPathfinding.md) — Early work to map a novel machine to the right safety and permitting regime rather than a mismatched older category.
+- [Precision Manufacturing As Strategy](concepts/PrecisionManufacturingAsStrategy.md) — Hard-tech pattern where alignment, timing, instrumentation, and in-house manufacturing speed become core strategic advantages.
 - [Search-Driven Content Growth](concepts/SearchDrivenContentGrowth.md) — Scribd growth loop where user-uploaded documents created indexable pages, Google traffic, and more uploads.
 - [Shallow Product-Market Fit](concepts/ShallowProductMarketFit.md) — Jared Friedman's distinction for products many users like a little without the deep attachment of stronger PMF cases.
 - [YC Internal Software](concepts/YCInternalSoftware.md) — Y Combinator's software-driven operating layer from Paul Graham's tools, Hacker News, Bookface, and legal docs to AI-assisted internal workflows.

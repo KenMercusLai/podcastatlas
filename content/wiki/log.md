@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-23] ingest | David Kirtley, Founder & CEO of Helion Energy
+
+Added source page for The Social Radars episode with David Kirtley on Helion Energy, fusion power, YC focus, energy recovery, Polaris, Orion, Microsoft and Nucor customer plans, regulation, investor selection, precision manufacturing, and founder mode. Created pages for David Kirtley, Helion Polaris, Helion Orion, Nucor, Mithril Capital, Capricorn Investment Group, Chelan PUD, Constellation Energy, Commercial Fusion Power, Fusion Energy Recovery, Deep-Tech Product Focus, Hard-Tech Regulatory Pathfinding, and Precision Manufacturing As Strategy; updated overview, index, Helion, Microsoft, Sam Altman, Y Combinator, The Social Radars, Hard Tech Fundraising, Hard-Tech Customer Intent Proof, Founder Mode, AI Energy Bottleneck, and Data Center Onsite Power. No direct contradiction found; deployment, efficiency, customer, and 2028 timeline claims are kept as Kirtley's 2026-01-07 source account rather than independently verified current status.
+
 ## [2026-07-18] ingest | 146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角
 
 Added source page for the 张小珺Jùn｜商业访谈录 episode with K of Physical Intelligence on Pi 0/0.5/0.6*, robot experience data, reinforcement learning, VLA, evaluation, form factors, and embodied-AI company routes. Created pages for K (Physical Intelligence), Physical Intelligence Pi Model Series, Robot Experience Data, Robot Reinforcement Learning, Robot Generalization Performance Tradeoff, Robot Evaluation Problem, and Robot Form-Factor Pragmatism; updated overview, index, Physical Intelligence, Physical AI, Vision Language Action Models, Real Robot Data Strategy, Layered Robot Architecture, and 张小珺Jùn｜商业访谈录. No direct contradiction found; the source predates Pi 0.7, so it complements the later Pi 0.7/world-model-fusion discussion rather than superseding it.
@@ -4078,3 +4082,7 @@ Added source page for The Social Radars episode with Jared Friedman on Scribd, e
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-23] lint | Wiki lint
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 5,392 wiki pages. Deterministic checks found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used stale `graph/graph.json` data built on 2026-07-18 with 4,998 nodes while the wiki scan found 5,392 pages; they found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider API-key variables are present in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.

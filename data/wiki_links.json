@@ -3475,6 +3475,10 @@
     "title": "Capital Return Rate Decline",
     "url": "/wiki/concepts/capitalreturnratedecline/"
   },
+  "CapricornInvestmentGroup": {
+    "title": "Capricorn Investment Group",
+    "url": "/wiki/entities/capricorninvestmentgroup/"
+  },
   "CaptiveWhaleSanctuary": {
     "title": "Captive Whale Sanctuary",
     "url": "/wiki/concepts/captivewhalesanctuary/"
@@ -3754,6 +3758,10 @@
   "ChatbotSafetyGuardrailDecay": {
     "title": "Chatbot Safety Guardrail Decay",
     "url": "/wiki/concepts/chatbotsafetyguardraildecay/"
+  },
+  "ChelanPUD": {
+    "title": "Chelan PUD",
+    "url": "/wiki/entities/chelanpud/"
   },
   "ChelseaFC": {
     "title": "Chelsea FC",
@@ -4327,6 +4335,10 @@
     "title": "Columbia University",
     "url": "/wiki/entities/columbiauniversity/"
   },
+  "CommercialFusionPower": {
+    "title": "Commercial Fusion Power",
+    "url": "/wiki/concepts/commercialfusionpower/"
+  },
   "CommercialMenstrualEducation": {
     "title": "Commercial Menstrual Education",
     "url": "/wiki/concepts/commercialmenstrualeducation/"
@@ -4470,6 +4482,10 @@
   "ConspiracyTheoryPatternSeeking": {
     "title": "Conspiracy Theory Pattern Seeking",
     "url": "/wiki/concepts/conspiracytheorypatternseeking/"
+  },
+  "ConstellationEnergy": {
+    "title": "Constellation Energy",
+    "url": "/wiki/entities/constellationenergy/"
   },
   "ConstitutionalRobustness": {
     "title": "Constitutional Robustness",
@@ -5183,6 +5199,10 @@
     "title": "David Kirkpatrick",
     "url": "/wiki/entities/davidkirkpatrick/"
   },
+  "DavidKirtley": {
+    "title": "David Kirtley",
+    "url": "/wiki/entities/davidkirtley/"
+  },
   "DavidLieb": {
     "title": "David Lieb",
     "url": "/wiki/entities/davidlieb/"
@@ -5238,6 +5258,10 @@
   "DeepSeek": {
     "title": "DeepSeek",
     "url": "/wiki/entities/deepseek/"
+  },
+  "DeepTechProductFocus": {
+    "title": "Deep-Tech Product Focus",
+    "url": "/wiki/concepts/deeptechproductfocus/"
   },
   "Deepin": {
     "title": "Deepin",
@@ -7375,6 +7399,10 @@
     "title": "Fundraising Scenario Modeling",
     "url": "/wiki/concepts/fundraisingscenariomodeling/"
   },
+  "FusionEnergyRecovery": {
+    "title": "Fusion Energy Recovery",
+    "url": "/wiki/concepts/fusionenergyrecovery/"
+  },
   "FutuSecurities": {
     "title": "Futu Securities",
     "url": "/wiki/entities/futusecurities/"
@@ -8255,6 +8283,10 @@
     "title": "Hard Tech Fundraising",
     "url": "/wiki/concepts/hardtechfundraising/"
   },
+  "HardTechRegulatoryPathfinding": {
+    "title": "Hard-Tech Regulatory Pathfinding",
+    "url": "/wiki/concepts/hardtechregulatorypathfinding/"
+  },
   "HardwareCategoryDefinitionPower": {
     "title": "Hardware Category Definition Power",
     "url": "/wiki/concepts/hardwarecategorydefinitionpower/"
@@ -8362,6 +8394,14 @@
   "Helion": {
     "title": "Helion",
     "url": "/wiki/entities/helion/"
+  },
+  "HelionOrion": {
+    "title": "Helion Orion",
+    "url": "/wiki/entities/helionorion/"
+  },
+  "HelionPolaris": {
+    "title": "Helion Polaris",
+    "url": "/wiki/entities/helionpolaris/"
   },
   "Helium3": {
     "title": "Helium-3",
@@ -12179,6 +12219,10 @@
     "title": "Mission-Focused Company",
     "url": "/wiki/concepts/missionfocusedcompany/"
   },
+  "MithrilCapital": {
+    "title": "Mithril Capital",
+    "url": "/wiki/entities/mithrilcapital/"
+  },
   "MitsubishiCorporation": {
     "title": "Mitsubishi Corporation / 三菱商事",
     "url": "/wiki/entities/mitsubishicorporation/"
@@ -12898,6 +12942,10 @@
   "NuclearWeaponsModeling": {
     "title": "Nuclear Weapons Modeling",
     "url": "/wiki/concepts/nuclearweaponsmodeling/"
+  },
+  "Nucor": {
+    "title": "Nucor",
+    "url": "/wiki/entities/nucor/"
   },
   "NushiShijie": {
     "title": "《女子世界》",
@@ -14138,6 +14186,10 @@
   "PreProductSelling": {
     "title": "Pre-Product Selling",
     "url": "/wiki/concepts/preproductselling/"
+  },
+  "PrecisionManufacturingAsStrategy": {
+    "title": "Precision Manufacturing As Strategy",
+    "url": "/wiki/concepts/precisionmanufacturingasstrategy/"
   },
   "PredictionMarketEthics": {
     "title": "Prediction Market Ethics",
@@ -21262,6 +21314,10 @@
   "tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio": {
     "title": "Christina Cacioppo on Vanta, Coding, and Compliance Automation",
     "url": "/wiki/sources/tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio/"
+  },
+  "tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio": {
+    "title": "David Kirtley, Founder & CEO of Helion Energy",
+    "url": "/wiki/sources/tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio/"
   },
   "tsr-s5-jared-v3final-tsr-s5-jared-v3final": {
     "title": "Jared Friedman, Partner, Y Combinator; Co-founder, Scribd",

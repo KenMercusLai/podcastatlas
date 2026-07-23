@@ -2,8 +2,8 @@
 title: "AI Energy Bottleneck"
 type: concept
 tags: [ai, energy, infrastructure, data-centers]
-sources: [tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
-last_updated: 2026-07-12
+sources: [tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
+last_updated: 2026-07-23
 ---
 
 # AI Energy Bottleneck
@@ -16,6 +16,8 @@ The concept extends [[MaaSInfrastructure]] and [[AIComputeContinuity]]. Compute 
 
 [[tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128]] adds the tax-incentive version of the same bottleneck. Some states make electricity cheaper through [[DataCenterTaxIncentives]], while others are removing exemptions, adding carbon or green-building requirements, or studying whether hyperscale facilities' power demand still justifies public subsidy.
 
+[[tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio]] adds a future clean-baseload route through [[Helion]] and [[CommercialFusionPower]]. [[DavidKirtley]] says power demand has changed because electric vehicles and large-scale data centers increased the scale of the problem, and [[Microsoft]] appears as the first named customer for a planned Helion plant. This does not remove near-term grid and onsite-generation constraints, but it adds fusion as a possible long-term response if it can be manufactured, permitted, and deployed at scale.
+
 ## Key Claims
 - AI developers can treat both compute capacity and energy capacity as bottlenecks for model progress and product deployment.
 - Energy bottlenecks turn state utility regulators into AI policy actors.
@@ -24,6 +26,7 @@ The concept extends [[MaaSInfrastructure]] and [[AIComputeContinuity]]. Compute 
 - Onsite generation can bypass part of the grid-connection wait, but it does not eliminate energy constraints; it moves them into fuel, equipment, and operations.
 - The bottleneck is political as well as technical because ratepayer protection and local consent can slow or redirect buildout.
 - Electricity exemptions and energy requirements can turn tax-incentive design into an AI energy-policy tool.
+- Clean baseload procurement only helps the bottleneck if the generation technology clears hard-tech deployment gates: reliability, permitting, cost, grid delivery, and manufacturing rate.
 
 ## Connections
 - [[PublicUtilityCommissions]] - regulatory layer that manages utility rates and infrastructure approvals.
@@ -33,3 +36,4 @@ The concept extends [[MaaSInfrastructure]] and [[AIComputeContinuity]]. Compute 
 - [[MaaSInfrastructure]], [[AIComputeContinuity]], and [[DataCenterPhysicalResilience]] - existing infrastructure concepts extended by the source.
 - [[DataCenterThermalManagement]] - adjacent physical constraint after electricity enters the facility.
 - [[DataCenterBacklash]] and [[AIMetabolicInfrastructure]] - local and material-cost frames connected to power demand.
+- [[Helion]], [[CommercialFusionPower]], [[Microsoft]], and [[FusionEnergyRecovery]] - future fusion power route added by The Social Radars.
