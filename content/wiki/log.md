@@ -3859,6 +3859,10 @@ Added source page for the Marketplace Tech episode with David Brancaccio on rebu
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-23] ingest | 用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜对谈 Slock.ai 创始人 RC
+
+Added source page for the 42章经 episode with RC on Kimi CLI, Slock.ai, CLI as an agent-facing interface, multi-agent collaboration, task claiming, memory, model diversity, and agent dynamics in a seven-person, forty-agent team. Created pages for Slock.ai / Slock AI, RC, Kimi CLI, Agent Dynamics, Agent Task Claiming, and Agent Organizational Culture; updated overview, index, 42章经, Kimi, Agentic Workflow, Human-Agent Collaboration, Agent Harness, Multi-Agent Collaboration, Persistent Agent Memory, Agent-Facing Interfaces, Agent Marketplace, Agent-Optimized CLI, AI Organization Design, AI-First Organization, Agent Native Software, One-Person Company, AI Programming Engine Shift, Model Workflow Fit, and AI Inference Cost Structure. No direct contradiction found; the source extends existing OpenClaw/Sheet0/Moxt themes by making multi-agent organization behavior a first-class design problem.
+
 ## [2026-07-23] ingest | OpenClaw 之后，我只想未来 3-6 个月的事情｜对谈 Sheet0 创始人王文锋
 
 Added source page for the 42章经 episode with Wang Wenfeng on OpenClaw, coding agents as a general action layer, Sheet0's AI-managing-AI pivot, agent harness design, AI skills, proactive agents, SaaS pressure, token budgets, and short-horizon startup judgment. Created pages for Sheet0, Wang Wenfeng, AI Managing AI, and Coding Agent As Universal Action Layer; updated overview and index. No direct contradiction found; the source strengthens existing OpenClaw and Agent Harness branches while adding a stronger skeptical view of vertical agents and traditional SaaS UI as long-term workflow containers.
@@ -3971,6 +3975,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-23] ingest | 01.麦田守望者：20世纪的美国贾宝玉
 
 Added source page for the 蜜獾吃书 episode on 《麦田里的守望者》, J. D. Salinger, Holden Caulfield as a 20th-century American 贾宝玉, adolescent alienation, Salinger biography, Chinese translation, and later media/youth-culture afterlives. Created pages for J. D. Salinger, 《麦田里的守望者》, Holden Caulfield, Phoebe Caulfield, Oona O'Neill, Ernest Hemingway, Sun Zhongxu, Ghost in the Shell: Stand Alone Complex, Laughing Man, Watchmen, Rorschach, American Jia Baoyu Comparison, Adolescent Alienation Recognition, and Literary Subculture Symbolization; updated overview, index, 蜜獾吃书, 《红楼梦》, 贾宝玉, Charlie Chaplin, Classic Reading Complexity, Reading As Life Experience, Non-Instrumental Literary Reading, Literary Gossip As Context, Author Myth Deflation, and Antihero Misreading. No direct contradiction found; the source extends the Red Chamber and reading-complexity branches while keeping Salinger/Oona/Chaplin biography source-scoped.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-23] lint | Wiki health check
 

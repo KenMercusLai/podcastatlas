@@ -2,7 +2,7 @@
 title: "Human-Agent Collaboration"
 type: concept
 tags: [agents, collaboration, product-design]
-sources: [e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923, tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
+sources: [e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923, tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, 135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]
 last_updated: 2026-07-23
 ---
 
@@ -34,6 +34,8 @@ Human-agent collaboration is the product-design problem at the center of [[renle
 
 [[1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6]] adds a useful contrast inside the collaboration concept. [[YuYi]] wants agents to become more like partners or organizational members: they should accumulate experience, challenge his view, and optimize for the consumer rather than simply obey him. [[CangShifu]] takes the opposite operating posture: agents should remain tools and workflow components whose autonomy is bounded by review cadence, product principles, content principles, and aesthetic standards.
 
+[[yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]] adds a many-agent collaboration case through [[SlockAI|Slock.ai]]. [[RC]] describes human-agent work as a team system where one or more people can coordinate dozens of agents, inspect progress, reuse shared memory, and shape [[AgentOrganizationalCulture]] through the way tasks and competition are framed.
+
 ## Key Claims
 - The collaboration target is a moving one because every new product reveals new expectations and pain points.
 - Users should not have to repeatedly dump files, emails, and personal context into a chat box.
@@ -52,6 +54,7 @@ Human-agent collaboration is the product-design problem at the center of [[renle
 - The partner/tool distinction creates different product requirements: partner-like agents need memory, values, pushback, and onboarding, while tool-like agents need state inspection, deterministic handoffs, review points, and permission controls.
 - The data needed for better agents includes examples of human process, not just final task outputs.
 - In AI-first organizations, collaboration includes trusting agents with production loops while preserving human responsibility for architecture, value definition, market judgment, ethical boundaries, and final approval.
+- Collaboration becomes team-level when a human manages a population of agents: task claiming, identity, channel design, shared memory, and group norms become product requirements.
 
 ## Connections
 - [[AgenticWorkflow]] — practical workflow pattern that human-agent collaboration extends.
@@ -70,3 +73,4 @@ Human-agent collaboration is the product-design problem at the center of [[renle
 - [[HumanConnectionUnderAI]], [[LanguageUserInterface]], and [[HumanAgencyUnderAI]] — episode 141's boundary between information exchange and human connection.
 - [[YuYi]], [[CangShifu]], [[OnePersonCompany]], and [[AIUsePacing]] — S10E18's partner-versus-tool contrast and solo-founder operating context.
 - [[Creo]], [[AIFirstOrganization]], [[HarnessEngineering]], and [[HumanJudgmentUnderAI]] — E238's organization-level trust and review pattern.
+- [[SlockAI|Slock.ai]], [[RC]], [[AgentDynamics]], and [[AgentTaskClaiming]] — many-agent collaboration and management case added by the RC episode.

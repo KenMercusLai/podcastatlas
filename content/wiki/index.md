@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜对谈 Slock.ai 创始人 RC](sources/yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy.md) — 42章经 episode with RC on Kimi CLI, Slock.ai, multi-agent collaboration, task claiming, memory, model diversity, and agent dynamics in a seven-person, forty-agent team.
 - [OpenClaw 之后，我只想未来 3-6 个月的事情｜对谈 Sheet0 创始人王文锋](sources/openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z.md) — 42章经 episode with Wang Wenfeng on OpenClaw, coding agents as a general action layer, Sheet0's AI-managing-AI pivot, agent harnesses, token budgets, and short-cycle startup judgment.
 - [02.离婚：郭德纲都不如老舍有意思](sources/02-lihun-guodegang-dou-buru-laoshe-youyisi-525913046.md) — 蜜獾吃书 episode rereading 老舍《离婚》 through controlled humor, Beiping office life, marriage suffocation, 张大哥式体面秩序, 丁二的行动, and ordinary escape courage.
 - [01.麦田守望者：20世纪的美国贾宝玉](sources/01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422.md) — 蜜獾吃书 episode rereading 《麦田里的守望者》 through Holden as a 20th-century American Jia Baoyu, Salinger biography, adolescent alienation, and later youth-culture/media afterlives.
@@ -495,6 +496,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Slock.ai / Slock AI](entities/SlockAI.md) — Multi-agent collaboration product founded by RC for people and teams managing many role-based agents through channels, tasks, memory, and shared context.
+- [RC](entities/RC.md) — Slock.ai founder and former Kimi CLI builder arguing for agent dynamics, CLI-first agent tooling, and human-plus-agent team design.
+- [Kimi CLI](entities/KimiCLI.md) — Command-line coding/general agent from Kimi, used by RC as a case for CLI as an agent-facing harness surface.
 - [Sheet0](entities/Sheet0.md) — AI-agent startup founded by Wang Wenfeng, now productizing an internal AI-managed engineering workflow from tasks to tests and GitHub PRs.
 - [王文锋 / Wang Wenfeng](entities/WangWenfeng.md) — Sheet0 founder arguing that coding agents can become a general action layer and that AI-managed AI workflows are the next short-cycle bottleneck.
 - [J. D. Salinger / 塞林格](entities/JDSalinger.md) — Author of 《麦田里的守望者》, framed through adult craft, wartime experience, reclusion, publishing control, and bounded literary gossip.
@@ -3197,6 +3201,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Agent Dynamics](concepts/AgentDynamics.md) — RC's term for emergent behavior in multi-agent work environments, including identity, task ownership, group memory, and culture-like effects.
+- [Agent Task Claiming](concepts/AgentTaskClaiming.md) — Multi-agent coordination mechanism where an agent claims responsibility for a task so others do not duplicate or conflict with it.
+- [Agent Organizational Culture](concepts/AgentOrganizationalCulture.md) — Culture-like behavior shaped by prompt norms, shared memory, and cooperation or competition among many agents.
 - [AI Managing AI](concepts/AIManagingAI.md) — Pattern where a meta-level agent collects requirements, delegates or configures other agents, watches feedback, and hands completed work to humans for final review.
 - [Coding Agent As Universal Action Layer](concepts/CodingAgentAsUniversalActionLayer.md) — Thesis that coding agents extend beyond programming because code, files, CLIs, APIs, and skills let agents act across digital workflows.
 - [American Jia Baoyu Comparison](concepts/AmericanJiaBaoyuComparison.md) — Cross-cultural reading that makes Holden legible through 贾宝玉 while preserving differences between postwar America and 红楼梦's family order.

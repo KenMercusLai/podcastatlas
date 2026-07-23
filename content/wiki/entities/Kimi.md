@@ -2,8 +2,8 @@
 title: "Kimi"
 type: entity
 tags: [ai, model, china]
-sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]
-last_updated: 2026-07-08
+sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]
+last_updated: 2026-07-23
 ---
 
 # Kimi
@@ -16,6 +16,8 @@ Kimi is a Chinese AI model/product reference that appears across several wiki so
 
 [[136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]] adds Kimi to the domestic model companies the guest sees converging toward [[Anthropic]]'s high-value-task route. In this framing, Kimi's relevance is not only cheap model routing, but whether it can compete in coding, agents, and [[ModelAsOperatingSystem]] infrastructure.
 
+[[yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]] adds [[KimiCLI|Kimi CLI]] through [[RC]]'s account of building a command-line coding/general agent at Kimi. The source frames Kimi CLI as an early [[AgentHarness]] surface rather than a final UI, connecting Kimi to [[AgentOptimizedCLI]] and [[AgentFacingInterfaces]].
+
 ## Connections
 - [[DeepSeek]], [[Qwen]], [[Doubao]], and [[MiniMax]] — domestic model and assistant comparison set.
 - [[ModelRoutingCostControl]] — cost-aware routing context where Kimi can be used for cheaper subtasks.
@@ -23,3 +25,4 @@ Kimi is a Chinese AI model/product reference that appears across several wiki so
 - [[VibeCoding]] and [[AICodingVerification]] — developer-productivity context in which model startups may monetize more clearly.
 - [[OpenClaw]] — local-agent case where Kimi Code appears as a cost-control route.
 - [[MiniMax]], [[ZhipuAI]], [[Doubao]], [[AGIThreeActs]], and [[ModelAsOperatingSystem]] — domestic-model convergence frame added by episode 136.
+- [[KimiCLI]], [[RC]], [[AgentHarness]], and [[AgentOptimizedCLI]] — CLI-agent and agent-facing interface branch added by the Slock.ai source.

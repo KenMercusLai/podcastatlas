@@ -2,8 +2,8 @@
 title: "Multi-Agent Collaboration"
 type: concept
 tags: [agents, collaboration, verification]
-sources: [dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]
-last_updated: 2026-07-08
+sources: [dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]
+last_updated: 2026-07-23
 ---
 
 # Multi-Agent Collaboration
@@ -16,6 +16,8 @@ Multi-agent collaboration is the use of multiple agents to exchange context, rev
 
 [[268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]] adds a consumer-phone visualization. On a foldable [[MobileAIWorkstation]], multiple AI tools can sit in parallel windows for search, writing, translation, summary, or answer comparison, while a future main agent may route work to smaller subagents and evaluate results.
 
+[[yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]] adds [[SlockAI|Slock.ai]]'s organization-scale case. [[RC]] describes a seven-person company using about forty agents, which makes multi-agent collaboration a management and product-design problem: agents need to claim tasks, recognize their own identity in busy channels, learn from shared memory, and respond to cooperative rather than adversarial norms.
+
 ## Key Claims
 - Multi-agent work is not only role-play; it can be review, adversarial checking, parallel exploration, and handoff.
 - It helps with long-horizon tasks where one agent's context window grows stale or overcommitted to a bad plan.
@@ -26,6 +28,8 @@ Multi-agent collaboration is the use of multiple agents to exchange context, rev
 - Multi-agent work can increase research throughput, but it shifts pressure to [[TrainingComputeAllocation]], [[ResearchTaste]], and result verification.
 - Multi-agent work can also be a user-interface pattern: a larger screen can show several agents or model answers at once before deeper automation exists.
 - The "main agent" layer becomes important when one agent assigns roles, selects subagents, evaluates outputs, and explains the process to the user.
+- Message-based multi-agent systems need explicit [[AgentTaskClaiming]] so agents do not duplicate work or misread open tasks.
+- Agent identity and culture-like norms can affect output quality when many agents share one workspace.
 
 ## Connections
 - [[SubagentWorkflow]] — related pattern for background delegation and synthesis.
@@ -36,3 +40,4 @@ Multi-agent collaboration is the use of multiple agents to exchange context, rev
 - [[Apodex]], [[DeepResearch]], [[AIVerification]], and [[DiscoveryModel]] — agent-team verification case added by the Silicon Valley 101 source.
 - [[LuoFuli]], [[OpenClaw]], [[MLCoding]], and [[TrainingComputeAllocation]] — parallel model-research workflow case added by episode 138.
 - [[MobileAIWorkstation]], [[FoldablePhoneProductivity]], [[Doubao]], [[Kimi]], [[Yuanbao]], and [[DeepSeek]] — consumer comparison and multi-window examples added by Luanfanshu 268.
+- [[SlockAI|Slock.ai]], [[RC]], [[AgentDynamics]], [[AgentTaskClaiming]], and [[AgentOrganizationalCulture]] — organization-scale many-agent case added by the RC episode.

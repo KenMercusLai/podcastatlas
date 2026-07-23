@@ -2,8 +2,8 @@
 title: "Agent Marketplace"
 type: concept
 tags: [agents, marketplace, infrastructure]
-sources: [142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz]
-last_updated: 2026-07-08
+sources: [142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]
+last_updated: 2026-07-23
 ---
 
 # Agent Marketplace
@@ -12,12 +12,15 @@ Agent marketplace is [[DaiYusen]]'s speculative frame in [[142-yusen-de-chuangto
 
 The concept extends [[AgenticEconomy]] from agent-to-service execution into agent-to-agent exchange. It assumes that [[AgentHarness]] layers make agents persistent enough to carry differentiated context, while [[AISkills]], [[PersistentAgentMemory]], [[AgentIdentityAndAuthentication]], and [[AgentPermissionBoundaries]] make exchange auditable and useful rather than just another API call.
 
+[[yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]] adds [[RC]]'s fork-memory interpretation. If an agent has accumulated a valuable interview corpus, work style, or domain habit, a future user might invoke or fork that agent rather than only call the same base model; this makes [[AgentDynamics]] and memory portability part of the marketplace thesis.
+
 ## Key Claims
 - Agents may develop differentiated value because they accumulate unique context, preferences, skills, and work traces.
 - Network effects may come from agent-to-agent collaboration rather than only human social graphs or app-level distribution.
 - A useful marketplace needs identity, permission, payment, verification, reputation, and sandbox boundaries for nonhuman operators.
 - The marketplace thesis depends on agents completing valuable work over longer horizons, not merely generating short answers.
 - Agent marketplaces may create new AI-native business models after agent penetration becomes broad enough that old GUI, ad, SaaS-seat, spreadsheet, and credit-card assumptions are no longer ideal.
+- Forkable or invokable agent memory could become a marketplace asset when the value lies in accumulated context and process rather than the base model alone.
 
 ## Connections
 - [[DaiYusen]] — source speaker proposing the frame.
@@ -27,3 +30,4 @@ The concept extends [[AgenticEconomy]] from agent-to-service execution into agen
 - [[AgentIdentityAndAuthentication]] and [[AgentPermissionBoundaries]] — trust and governance requirements.
 - [[MultiAgentCollaboration]] and [[AgenticWorkflow]] — practical collaboration patterns that could precede a marketplace.
 - [[AgenticCommerce]] and [[AgentFacingInterfaces]] — adjacent transaction and interface layers.
+- [[SlockAI|Slock.ai]], [[RC]], and [[AgentDynamics]] — multi-agent memory and forkable-agent-market branch added by the RC episode.

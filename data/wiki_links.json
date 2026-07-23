@@ -1463,6 +1463,10 @@
     "title": "Agent Data",
     "url": "/wiki/concepts/agentdata/"
   },
+  "AgentDynamics": {
+    "title": "Agent Dynamics",
+    "url": "/wiki/concepts/agentdynamics/"
+  },
   "AgentEraNANDStorage": {
     "title": "Agent-Era NAND Storage",
     "url": "/wiki/concepts/agenteranandstorage/"
@@ -1495,6 +1499,10 @@
     "title": "Agent-Optimized Model Architecture",
     "url": "/wiki/concepts/agentoptimizedmodelarchitecture/"
   },
+  "AgentOrganizationalCulture": {
+    "title": "Agent Organizational Culture",
+    "url": "/wiki/concepts/agentorganizationalculture/"
+  },
   "AgentPermissionBoundaries": {
     "title": "Agent Permission Boundaries",
     "url": "/wiki/concepts/agentpermissionboundaries/"
@@ -1510,6 +1518,10 @@
   "AgentSelfEvolution": {
     "title": "Agent Self-Evolution",
     "url": "/wiki/concepts/agentselfevolution/"
+  },
+  "AgentTaskClaiming": {
+    "title": "Agent Task Claiming",
+    "url": "/wiki/concepts/agenttaskclaiming/"
   },
   "AgenticB2BSourcing": {
     "title": "Agentic B2B Sourcing",
@@ -10011,6 +10023,10 @@
     "title": "Kimi",
     "url": "/wiki/entities/kimi/"
   },
+  "KimiCLI": {
+    "title": "Kimi CLI",
+    "url": "/wiki/entities/kimicli/"
+  },
   "KingsCollegeChapel": {
     "title": "King's College Chapel / 国王学院礼拜堂",
     "url": "/wiki/entities/kingscollegechapel/"
@@ -14335,6 +14351,10 @@
     "title": "RAND",
     "url": "/wiki/entities/rand/"
   },
+  "RC": {
+    "title": "RC",
+    "url": "/wiki/entities/rc/"
+  },
   "RIAA": {
     "title": "RIAA",
     "url": "/wiki/entities/riaa/"
@@ -15954,6 +15974,10 @@
   "SlaughterWelfare": {
     "title": "Slaughter Welfare",
     "url": "/wiki/concepts/slaughterwelfare/"
+  },
+  "SlockAI": {
+    "title": "Slock.ai / Slock AI",
+    "url": "/wiki/entities/slockai/"
   },
   "SlowProductMarketFit": {
     "title": "Slow Product Market Fit",
@@ -20966,6 +20990,10 @@
   "yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f": {
     "title": "一个 AI 创始人的虚荣心、装，和愚昧之巅｜对谈 invoko.ai 创始人梦琪",
     "url": "/wiki/sources/yige-ai-chuangshiren-de-xurongxin-zhuang-he-yumei-zhidian-duitan-invoko-ai-chuangshiren-mengqi-lsi79o-z19zplvmqdbpzzneogpk3f/"
+  },
+  "yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy": {
+    "title": "用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜对谈 Slock.ai 创始人 RC",
+    "url": "/wiki/sources/yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy/"
   },
   "youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410": {
     "title": "You've come a long way, Bibi: Israel's crucial election",

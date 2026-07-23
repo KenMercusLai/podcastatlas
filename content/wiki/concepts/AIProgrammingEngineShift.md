@@ -2,8 +2,8 @@
 title: "AI Programming Engine Shift"
 type: concept
 tags: [ai-coding, software-engineering, labor, culture]
-sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, zhili-bianzhi-de-chunjie-jianwenlu-yu-nachang-zhengzai-yunniang-de-youdai-weiji-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]
+last_updated: 2026-07-23
 ---
 
 # AI Programming Engine Shift
@@ -20,6 +20,8 @@ AI programming engine shift is the episode's metaphor that AI changes programmin
 
 [[136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]] elevates the programming-engine shift from labor productivity to AGI strategy. The source says code is a description of solutions in the digital world, so strong coding agents can automate a large share of computer-based knowledge work and become the second act in [[AGIThreeActs]].
 
+[[yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]] adds [[RC]]'s build-versus-code separation. From his [[KimiCLI|Kimi CLI]] and [[SlockAI|Slock.ai]] experience, the shift is not that everyone must become a traditional programmer, but that more people can learn top-down from build goals, observe generated code, and manage agents while code becomes one substrate inside broader product work.
+
 ## Key Claims
 - AI coding can turn many small programming tasks into intent specification, review, and correction rather than line-by-line construction.
 - The value of programming skill may move from typing code toward problem framing, tool selection, decomposition, and [[AICodingVerification]].
@@ -34,6 +36,7 @@ AI programming engine shift is the episode's metaphor that AI changes programmin
 - The enrollment source shows that some students are treating AI and weak software hiring as reasons to choose different computing subfields, not necessarily to leave computing entirely.
 - The shift can contribute to [[IntelligenceDevaluation]] because coding skill loses some scarcity when implementation can be bought from a model.
 - Episode 136 adds that coding is not only a programming profession issue; it is a general digital-work substrate because code can express and execute solutions.
+- The Slock source adds that AI coding can separate product building from traditional code authorship, while still rewarding enough programming literacy to inspect, steer, and debug generated systems.
 
 ## Connections
 - [[VibeCoding]] - practical AI-assisted coding behavior already tracked in the wiki.
@@ -47,3 +50,4 @@ AI programming engine shift is the episode's metaphor that AI changes programmin
 - [[ComputingEnrollmentDecline]], [[ComputingResearchPipeline]], and [[SoftwareDeveloperHiringPullback]] - Marketplace Tech's enrollment and labor-market version of the programming question.
 - [[GLM5]], [[IntelligenceDevaluation]], and [[ProductLedWillingnessToPay]] - personal-product and labor-value extension from the Keji Luandun source.
 - [[AGIThreeActs]], [[MLCoding]], [[ClaudeCode]], [[Codex]], and [[ModelAsOperatingSystem]] - strategic coding-agent extension from episode 136.
+- [[KimiCLI]], [[RC]], [[SlockAI|Slock.ai]], and [[AgentOptimizedCLI]] - coding-agent and product-building extension from the Slock.ai source.
