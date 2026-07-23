@@ -4179,3 +4179,11 @@ Added source page for the Planet Money Summer School episode on Australian water
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-23] ingest | 112. 闲聊金庸第一弹：明教竟然今天还存在？
+
+Added source page for a 蜜獾吃书 episode on 金庸 as culturally dense popular literature, covering martial-art allusions, Daoist poisons, Song/Ming Jianghu space, 1967 Hong Kong politics, and 明教/摩尼教 survivals. Created pages for Jin Yong, Liang Yusheng, Gu Long, 《笑傲江湖》, 《天龙八部》, 《越女剑》, Wuxia Intertextual Craft, Historical Jianghu Space, Jin Yong Political Reading, and Manichaeism in China; updated overview, index, 蜜獾吃书, Quanzhou, Chinese Folk Religion Layering, Mythic Source Layering, and Classic Reading Complexity. No direct contradiction found; the source extends the wiki's classic-reading and folk-religion branches into modern wuxia.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

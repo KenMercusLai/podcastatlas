@@ -39,6 +39,10 @@
     "title": "111. 花衣魔笛手：快来，和历史学家一起推理童话真相",
     "url": "/wiki/sources/111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766/"
   },
+  "112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095": {
+    "title": "112. 闲聊金庸第一弹：明教竟然今天还存在？",
+    "url": "/wiki/sources/112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095/"
+  },
   "130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi": {
     "title": "130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏",
     "url": "/wiki/sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi/"
@@ -8187,6 +8191,10 @@
     "title": "顾颉刚",
     "url": "/wiki/entities/gujiegang/"
   },
+  "GuLong": {
+    "title": "古龙 / Gu Long",
+    "url": "/wiki/entities/gulong/"
+  },
   "GuYongqiang": {
     "title": "古永锵 / Gu Yongqiang",
     "url": "/wiki/entities/guyongqiang/"
@@ -8722,6 +8730,10 @@
   "HistoricalDetectiveReasoning": {
     "title": "Historical Detective Reasoning",
     "url": "/wiki/concepts/historicaldetectivereasoning/"
+  },
+  "HistoricalJianghuSpace": {
+    "title": "Historical Jianghu Space",
+    "url": "/wiki/concepts/historicaljianghuspace/"
   },
   "HistoricalMemoryContest": {
     "title": "Historical Memory Contest",
@@ -9991,6 +10003,14 @@
     "title": "晋文公",
     "url": "/wiki/entities/jinwengong/"
   },
+  "JinYong": {
+    "title": "金庸 / Jin Yong",
+    "url": "/wiki/entities/jinyong/"
+  },
+  "JinYongPoliticalReading": {
+    "title": "Jin Yong Political Reading",
+    "url": "/wiki/concepts/jinyongpoliticalreading/"
+  },
   "Jinjiang": {
     "title": "Jinjiang / 晋江",
     "url": "/wiki/entities/jinjiang/"
@@ -11031,6 +11051,10 @@
     "title": "梁杰",
     "url": "/wiki/entities/liangjie/"
   },
+  "LiangYusheng": {
+    "title": "梁羽生 / Liang Yusheng",
+    "url": "/wiki/entities/liangyusheng/"
+  },
   "LiaoJieyuan": {
     "title": "廖杰远",
     "url": "/wiki/entities/liaojieyuan/"
@@ -11746,6 +11770,10 @@
   "ManiSkill": {
     "title": "ManiSkill",
     "url": "/wiki/entities/maniskill/"
+  },
+  "ManichaeismInChina": {
+    "title": "明教 / 摩尼教在中国",
+    "url": "/wiki/concepts/manichaeisminchina/"
   },
   "MannerCoffee": {
     "title": "Manner Coffee",
@@ -18267,6 +18295,10 @@
     "title": "TiDB",
     "url": "/wiki/entities/tidb/"
   },
+  "TianLongBaBu": {
+    "title": "《天龙八部》",
+    "url": "/wiki/entities/tianlongbabu/"
+  },
   "TianjieJack": {
     "title": "Tianjie Jack",
     "url": "/wiki/entities/tianjiejack/"
@@ -19735,6 +19767,10 @@
     "title": "无人知晓",
     "url": "/wiki/entities/wurenzhixiao/"
   },
+  "WuxiaIntertextualCraft": {
+    "title": "Wuxia Intertextual Craft",
+    "url": "/wiki/concepts/wuxiaintertextualcraft/"
+  },
   "Wuzhiqi": {
     "title": "无支祁",
     "url": "/wiki/entities/wuzhiqi/"
@@ -19782,6 +19818,10 @@
   "Xiangling": {
     "title": "香菱 / Xiangling",
     "url": "/wiki/entities/xiangling/"
+  },
+  "XiaoAoJiangHu": {
+    "title": "《笑傲江湖》",
+    "url": "/wiki/entities/xiaoaojianghu/"
   },
   "XiaoE": {
     "title": "Xiao'e",
@@ -20238,6 +20278,10 @@
   "YueBao": {
     "title": "Yu'e Bao / 余额宝",
     "url": "/wiki/entities/yuebao/"
+  },
+  "YueNvJian": {
+    "title": "《越女剑》",
+    "url": "/wiki/entities/yuenvjian/"
   },
   "YuebanDongli": {
     "title": "Yueban Dongli",

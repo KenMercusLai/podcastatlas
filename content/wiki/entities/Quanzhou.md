@@ -2,11 +2,13 @@
 title: "Quanzhou / 泉州"
 type: entity
 tags: [place, fujian, maritime-trade, world-heritage, folklore]
-sources: [152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918]
-last_updated: 2026-07-15
+sources: [112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918]
+last_updated: 2026-07-23
 ---
 
 # Quanzhou / 泉州
+
+[[112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095]] adds Quanzhou as a background node for [[ManichaeismInChina|明教 / 摩尼教在中国]]. The [[MihuanChishu|蜜獾吃书]] episode points to Fujian and Quanzhou-region religious survivals to explain why [[JinYong|金庸]]'s 明教 and 日月神教 are not pure fantasy labels but draw on older religious traces that could be locally reinterpreted.
 
 Quanzhou is the Minnan port city at the center of [[no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918]]. The episode presents it as both a "city of many gods" and the core case for [[SongYuanMaritimeTradeCenter]]: Buddhist, Daoist, Islamic, Manichaean, Hindu, and folk-religion remains become evidence of a maritime city shaped by foreign merchants, local sailors, official trade, and risk-heavy ocean voyages.
 
@@ -22,6 +24,7 @@ The source links Quanzhou's rise to limited farmland, shipbuilding, water-tight 
 
 ## Connections
 - [[Banlatte]] — show context for the source.
+- [[ManichaeismInChina|明教 / 摩尼教在中国]] — religious-survival branch added by the Jin Yong episode.
 - [[SongYuanMaritimeTradeCenter]] — Quanzhou's main historical role in the episode.
 - [[PuShougeng]] — merchant-official whose family power is tied to Quanzhou's overseas trade.
 - [[ZhengZhilong]] and [[ZhengChenggong]] — later Minnan maritime power figures connected to the region.

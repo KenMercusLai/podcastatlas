@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [112. 闲聊金庸第一弹：明教竟然今天还存在？](sources/112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095.md) — 蜜獾吃书 episode on Jin Yong's culturally dense wuxia, Song/Ming Jianghu space, 1967 Hong Kong politics, and Mingjiao/Manichaean survivals.
 - [Our mission: Find the world's best economic ideas (Summer School World Tour)](sources/our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour.md) — Planet Money Summer School episode on Australian water markets, farmer backlash, speculation, New Zealand's invention of inflation targeting, and credibility as expectations coordination.
 - [How to win a penalty shootout (with game theory)](sources/how-to-win-a-penalty-shootout-with-game-theory.md) — Planet Money episode on soccer penalties as game theory, mixed strategy, Ignacio Palacio Huerta's data, Chelsea vs. Manchester United in 2008, and modern penalty reports.
 - [Can the Trump administration make college cheaper?](sources/can-the-trump-administration-make-college-cheaper.md) — Planet Money episode on graduate federal student-loan caps, the Bennett hypothesis, mixed evidence on tuition pass-through, and access risks for borrowers if schools do not cut prices.
@@ -520,6 +521,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [金庸 / Jin Yong](entities/JinYong.md) — Wuxia writer read here through cultural allusion, historical Jianghu space, political critique, and Hong Kong public context.
+- [梁羽生 / Liang Yusheng](entities/LiangYusheng.md) — New-school wuxia comparison figure for learned, classically rooted martial-arts fiction.
+- [古龙 / Gu Long](entities/GuLong.md) — Wuxia writer framed as diverging from Jin Yong and Liang Yusheng through suspense and martial-arts mystery.
+- [《笑傲江湖》](entities/XiaoAoJiangHu.md) — Jin Yong novel read as a political critique of faction labels, power addiction, and simple正邪 binaries.
+- [《天龙八部》](entities/TianLongBaBu.md) — Jin Yong novel used to connect Song social mobility, Jianghu plausibility, and identity tragedy.
+- [《越女剑》](entities/YueNvJian.md) — Jin Yong novella linking older Yue maiden and white-ape motifs to the mythic horizon of wuxia.
 - [Robert Smith](entities/RobertSmith.md) — Planet Money host framing the Summer School World Tour water-market and inflation-targeting lesson.
 - [Justin Wolfers](entities/JustinWolfers.md) — Economist guiding the episode's country-as-laboratory frame across Australia and New Zealand.
 - [Australia](entities/Australia.md) — Country case for advanced water markets, water-rights trading, and civic participation design.
@@ -3372,6 +3379,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Wuxia Intertextual Craft](concepts/WuxiaIntertextualCraft.md) — How martial-arts fiction turns classical texts, religion, folklore, and history into techniques, poisons, sects, and character psychology.
+- [Historical Jianghu Space](concepts/HistoricalJianghuSpace.md) — Historical-institutional frame for why Song settings support Jianghu mobility while Ming social control shrinks it.
+- [Jin Yong Political Reading](concepts/JinYongPoliticalReading.md) — Reading Jin Yong's fiction as political critique without reducing every detail to one hidden code.
+- [明教 / 摩尼教在中国](concepts/ManichaeismInChina.md) — Religious-history node for Manichaean traces in China and their fictional transformation into Mingjiao/日月神教.
 - [Water Market Design](concepts/WaterMarketDesign.md) — Policy design problem of allocating scarce water through tradable rights while preserving legitimacy, information access, and ecological limits.
 - [Water Rights Trading](concepts/WaterRightsTrading.md) — Mechanism that lets water claims move toward higher-value uses during scarcity, with farmer-exposure and fairness risks.
 - [Market Speculation](concepts/MarketSpeculation.md) — Buying rights or assets for expected future price movement, useful for liquidity but risky when detached from reality or legitimacy.

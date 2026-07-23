@@ -10,6 +10,8 @@ last_updated: 2026-07-23
 
 Classic reading complexity is the discipline of reading old or canonical works without reducing them to reverence, rejection, plot labels, or present-day moral shorthand. In [[49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098]], [[QinZong|秦总]] and [[LiWuya|李乌鸦]] move from 《傲慢与偏见》, 《红与黑》, 《小妇人》, 《小美人鱼》, 《牛虻》, 《钢铁是怎样炼成的》, 《三个火枪手》, and 《九三年》 toward a broader argument: classics may contain outdated values, but they also preserve scene texture, craft, historical information, and durable human questions.
 
+[[112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095]] adds a modern popular-canon case through [[JinYong|金庸]]. The episode argues that childhood familiarity with wuxia plot can hide the adult reading problem: martial-art names, religious survivals, Song and Ming institutions, female agency, and 1967 [[HongKong|Hong Kong]] politics all have to remain visible before the works can be reduced to either nostalgic entertainment or ideological label.
+
 The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryReading]]. Fast summaries and online labels can be useful entry points, but they also make it easy to replace a work's felt complexity with a portable judgment. Classic reading asks the reader to keep personal dislike, historical critique, literary craft, and original textual detail separate enough to think.
 
 [[01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422]] adds a modern American school-classic case through [[TheCatcherInTheRye|《麦田里的守望者》]]. The episode begins from the complaint that the novel is only a loose youth runaway story, then reopens it through [[HoldenCaulfield|Holden Caulfield / 霍尔顿]]'s sensitivity, [[AmericanJiaBaoyuComparison]], [[JDSalinger|Salinger]]'s adult biography, postwar mood, Chinese translation, and later media afterlives.
@@ -95,6 +97,7 @@ The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryR
 - A classical miscellany can be flattened by the demand for one genre or one truth status; rereading may require valuing odd fragments as preserved cultural evidence.
 - A modern school classic can be flattened by "teenage rebellion" or "plotless complaint"; rereading may require holding voice, age, tenderness, biography, cultural reception, and later misreading together.
 - A school-canon author can also be flattened by solemn public memory; rereading may require restoring humor, vernacular rhythm, character pressure, and the comedy-pain balance of a specific work.
+- A popular-canon wuxia author can be flattened by nostalgia, genre dismissal, or nationalist argument; rereading may require restoring allusion, history, religion, gender, and political pressure together.
 
 ## Connections
 - [[ReadingAsLifeExperience]] - reader state affects when classics become available or unbearable.
@@ -123,5 +126,6 @@ The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryR
 - [[JulesAndJim|《祖与占》]], [[FrenchNewWave]], [[MoralSuspensionInArtReading]], and [[TriangleIntimacyEthics]] - episode 108's extension into morally uncomfortable French New Wave film reading.
 - [[LiShangyin|李商隐]], [[HongLouMeng|《红楼梦》]], [[ClassicalPoeticIntertextuality]], and [[YuxiIntoHonglou]] - episode 183's extension into Tang poetry, Red Chamber allusion, and evidence-bounded intertext.
 - [[ZuoZhuan|《左传》]], [[SpringAutumnWarfareRitual]], and [[SportsAsHistoricalReadingFrame]] - episode 109's extension into pre-Qin narrative history and humorous but source-aware classical reading.
+- [[JinYong|金庸]], [[WuxiaIntertextualCraft]], [[HistoricalJianghuSpace]], and [[JinYongPoliticalReading]] - episode 112's extension into modern wuxia as popular canon.
 - [[XuanGuaiLu|《玄怪录》]], [[TangChuanqi]], [[TangStrangeTaleRepaymentEthics]], and [[TranscendenceAgainstHumanFeeling]] - episode 76's extension into Tang strange tales.
 - [[YouyangZazu|《酉阳杂俎》]], [[DuanChengshi|段成式]], [[YeXian|《叶限》]], and [[TangMiscellanyArchiveValue]] - episode 90's extension into Tang miscellany and archival strange knowledge.

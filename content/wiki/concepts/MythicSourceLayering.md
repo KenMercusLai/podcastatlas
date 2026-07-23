@@ -2,13 +2,15 @@
 title: "Mythic Source Layering"
 type: concept
 tags: [mythology, folklore, literature, religion]
-sources: [90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 136-chunri-mingmei-liaoliao-guishen-827911486, 147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004]
-last_updated: 2026-07-18
+sources: [112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 136-chunri-mingmei-liaoliao-guishen-827911486, 147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004]
+last_updated: 2026-07-23
 ---
 
 # Mythic Source Layering
 
 Mythic source layering is the way a literary figure gathers multiple religious, folkloric, regional, and textual origins rather than descending from one clean prototype. In [[43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]], [[MihuanChishu|蜜獾吃书]] applies this to [[JourneyToTheWest|《西游记》]] by reading monsters and companions through Buddhist iconography, Daoist terms, Indian epic material, Chinese water-monster lore, zaju, oral stories, and folk belief.
+
+[[112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095]] adds a modern wuxia case through [[YueNvJian|《越女剑》]] and [[ManichaeismInChina|明教 / 摩尼教在中国]]. The source treats the Yue maiden, white ape, and Mingjiao/日月神教 material as inherited motifs that [[JinYong|金庸]] turns into fiction without requiring one clean origin story.
 
 [[75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087]] adds the [[Zhuangzi|庄子]] skull-story case through [[QiSi|《起死》]]. The source traces the story from the philosophical skull dialogue into poetry, drama, sanqu, Daoist storytelling, and 度脱剧, then shows how [[LuXun|鲁迅]] reverses that layered tradition by making [[YangDa|杨大]] resist enlightenment and demand material compensation.
 
@@ -41,9 +43,11 @@ The clearest case is [[SunWukong|孙悟空]]. The episode compares him with [[Ha
 - A philosophical anecdote can gather religious and theatrical afterlives, and a modern author can reverse that accumulated meaning instead of merely retelling the oldest version.
 - Tang strange tales show layering at the scale of whole story worlds: animal spirits, foreign merchants, Daoist ritual, dragon kinship, and object animation can coexist without a single genealogy.
 - A miscellany can store layered motifs side by side, making source comparison possible while leaving direct descent unresolved.
+- Modern wuxia can turn older legendary, religious, and local-survival layers into a felt origin horizon for martial fiction.
 
 ## Connections
 - [[YouyangZazu|《酉阳杂俎》]], [[YeXian|《叶限》]], [[TangMiscellanyArchiveValue]], and [[StoryMotifTransmission]] - episode 90's miscellany-scale extension.
+- [[YueNvJian|《越女剑》]], [[ManichaeismInChina|明教 / 摩尼教在中国]], and [[WuxiaIntertextualCraft]] - Jin Yong episode's modern wuxia extension.
 - [[XuanGuaiLu|《玄怪录》]], [[TangChuanqi]], and [[StoryMotifTransmission]] - episode 76's strange-tale extension.
 - [[QiSi|《起死》]], [[Zhuangzi|庄子]], [[YangDa|杨大]], and [[InstrumentalBeliefCritique]] - episode 75's skull-story reversal.
 - [[JourneyToTheWest|《西游记》]] - central source case.
