@@ -4280,6 +4280,14 @@ Ran lint. See lint-report.md for details.
 
 Added source page for a 蜜獾吃书 episode introducing 京极夏彦 through 《今昔续百鬼·云》 and the story 《暗眼小僧》, covering 妖怪推理, 百鬼夜行系列, 多多良胜五郎 and 沼上蓮次's fieldwork pair, 鸟山石燕 image interpretation, the 河童/dog misdirection, postwar folklore loss, property conflict, and the question of how people continue after harm. Created pages for 京极夏彦, 百鬼夜行系列, 《今昔续百鬼·云》, 《暗眼小僧》, 多多良胜五郎, 沼上蓮次, 中禅寺秋彦, 鸟山石燕, 多田克己, Yokai Mystery, Yokai Image Exegesis, and Folklore As Social Memory; updated overview, index, 蜜獾吃书, Setting-Based Mystery, Honkaku Mystery, Semiotic Detective Fiction, Evidence-Bound Folklore Inquiry, Legend As Social History, Observation Before Inference, and Interpretation And Overinterpretation. No direct contradiction found; the source complements episode 99 by adding a demystifying yokai-mystery branch where yokai language and images are evidence of human interpretation, local memory, and social repair rather than supernatural rule physics.
 
+## [2026-07-24] ingest | 116.不服从的艺术：分享一些实战方法，还有力量
+
+Added source page for a 蜜獾吃书 episode on 《不服从的艺术》 and principled disobedience, covering status-quo rationalization, Darwin and Semmelweis as persuasion contrasts, Elizabeth Jennings Graham's public-transit civil-rights case, Project Aristotle and constructive dissent, Martha Goddard's sexual assault evidence kit, whistleblower costs, psychological flexibility, and post-victory restraint. Created pages for The Art of Insubordination, Todd Kashdan, On Disobedience, Erich Fromm, Elizabeth Jennings Graham, Ignaz Semmelweis, Project Aristotle, Martha Goddard, Sexual Assault Evidence Kit, Kara Hultgreen, Patrick Burns, Principled Disobedience, Status-Quo Rationalization, Constructive Dissent, Insider Dissent Strategy, Psychological Flexibility For Dissent, and Post-Victory Oppression Risk; updated overview, index, 蜜獾吃书, Google, Charles Darwin, Anti-Authoritarian Education, Ordinary People Resistance, Negotiation As Bargaining, Communication Boundary Setting, Whistleblower Evidence Discipline, Political Truth-Telling, Rational Humility, and Action Against Anxiety. No direct contradiction found; the source complements the negotiation branch by turning conflict skill toward dissent inside groups and complements the whistleblower branch by foregrounding social cost, allies, and emotional endurance.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

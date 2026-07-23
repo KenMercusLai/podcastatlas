@@ -2,7 +2,7 @@
 title: "Rational Humility"
 type: concept
 tags: [reasoning, science, evidence, epistemology]
-sources: [113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 174-du-dikaer-shi-jian-dashi-966856702, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
+sources: [116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 174-du-dikaer-shi-jian-dashi-966856702, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
 last_updated: 2026-07-24
 ---
 
@@ -24,6 +24,8 @@ The episode treats this as Eco's correction to detective and scientific arroganc
 
 [[113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827]] adds an anthropology and victim-protection version. The episode refuses single-answer certainty in two directions at once: racist explanations of violence are too easy, but cultural-relativist defenses that erase [[FieldworkSexualViolence]] are also too easy.
 
+[[116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021]] adds a dissent version. The episode lists cognitive biases and status-quo pressures to show why even educated, high-status, or well-intentioned people may need dissenters; rational humility therefore includes designing groups where disagreement can correct shared blindness.
+
 ## Key Claims
 - Guessing is not the enemy of reason when guesses remain open to correction.
 - A good explanation must survive evidence, chronology, and rival hypotheses, not only feel elegant.
@@ -35,6 +37,7 @@ The episode treats this as Eco's correction to detective and scientific arroganc
 - Sagan-style skepticism adds a public-science form: do not deny wonder, but do not let wonder outrun [[ScientificSelfCorrection]], [[EvidenceOverTestimony]], or [[AppealToIgnorance]] checks.
 - Legal humility adds that punishment, sympathy, freedom, and state-power limits can each be partly right without any one of them becoming a complete answer.
 - Cross-cultural humility should slow overconfident judgment while still preserving accountability for concrete harm.
+- Dissent humility means admitting that one's own confidence may be a product of group comfort, status, authority, or familiar stories.
 
 ## Connections
 - [[ReneDescartes]], [[MethodicDoubt]], [[CogitoErgoSum]], and [[RationalistMethod]] - Descartes branch that clarifies foundation-seeking versus total certainty.
@@ -48,3 +51,4 @@ The episode treats this as Eco's correction to detective and scientific arroganc
 - [[ScientificSkepticism]], [[ScientificSelfCorrection]], [[EvidenceOverTestimony]], and [[UFOConspiracyCulture]] - episode 185's skepticism and pseudoscience extension.
 - [[LuoXiang|罗翔]], [[TheParadoxOfLaw|《法律的悖论》]], and [[LegalParadoxThinking]] - law-philosophy extension added by episode 100.
 - [[CulturalRelativismVictimProtectionBoundary]], [[AnthropologyFieldworkSafety]], and [[VictimBlamingAsInstitutionalDefense]] - episode 113's anthropology and victim-protection extension.
+- [[StatusQuoRationalization]], [[ConstructiveDissent]], and [[PrincipledDisobedience]] - dissent and bias-correction extension from episode 116.

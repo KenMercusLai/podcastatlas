@@ -83,6 +83,10 @@
     "title": "115.京极夏彦今昔续百鬼：不研究妖怪，怎么好好做人？",
     "url": "/wiki/sources/115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309/"
   },
+  "116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021": {
+    "title": "116.不服从的艺术：分享一些实战方法，还有力量",
+    "url": "/wiki/sources/116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021/"
+  },
   "130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi": {
     "title": "130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏",
     "url": "/wiki/sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi/"
@@ -4699,6 +4703,10 @@
     "title": "Construction Blueprint Version Control",
     "url": "/wiki/concepts/constructionblueprintversioncontrol/"
   },
+  "ConstructiveDissent": {
+    "title": "Constructive Dissent / 建设性异议",
+    "url": "/wiki/concepts/constructivedissent/"
+  },
   "ConsumerAMLExposure": {
     "title": "Consumer AML Exposure",
     "url": "/wiki/concepts/consumeramlexposure/"
@@ -6435,6 +6443,10 @@
     "title": "Elizabeth Holmes",
     "url": "/wiki/entities/elizabethholmes/"
   },
+  "ElizabethJenningsGraham": {
+    "title": "Elizabeth Jennings Graham",
+    "url": "/wiki/entities/elizabethjenningsgraham/"
+  },
   "ElonMusk": {
     "title": "Elon Musk",
     "url": "/wiki/entities/elonmusk/"
@@ -6650,6 +6662,10 @@
   "EricaChung": {
     "title": "Erica Chung",
     "url": "/wiki/entities/ericachung/"
+  },
+  "ErichFromm": {
+    "title": "Erich Fromm",
+    "url": "/wiki/entities/erichfromm/"
   },
   "Ericsson": {
     "title": "Ericsson",
@@ -9447,6 +9463,10 @@
     "title": "Ignacio Palacio Huerta",
     "url": "/wiki/entities/ignaciopalaciohuerta/"
   },
+  "IgnazSemmelweis": {
+    "title": "Ignaz Semmelweis",
+    "url": "/wiki/entities/ignazsemmelweis/"
+  },
   "IlyaSutskever": {
     "title": "Ilya Sutskever",
     "url": "/wiki/entities/ilyasutskever/"
@@ -9646,6 +9666,10 @@
   "InitializedCapital": {
     "title": "Initialized Capital",
     "url": "/wiki/entities/initializedcapital/"
+  },
+  "InsiderDissentStrategy": {
+    "title": "Insider Dissent Strategy / 局内人异议策略",
+    "url": "/wiki/concepts/insiderdissentstrategy/"
   },
   "Insta360": {
     "title": "Insta360 / 影石",
@@ -10730,6 +10754,10 @@
   "KangxiEmperor": {
     "title": "康熙 / Kangxi Emperor",
     "url": "/wiki/entities/kangxiemperor/"
+  },
+  "KaraHultgreen": {
+    "title": "Kara Hultgreen",
+    "url": "/wiki/entities/karahultgreen/"
   },
   "KarlJaspers": {
     "title": "Karl Jaspers / 卡尔·亚斯贝尔斯",
@@ -12379,6 +12407,10 @@
     "title": "Marriage Exit Friction",
     "url": "/wiki/concepts/marriageexitfriction/"
   },
+  "MarthaGoddard": {
+    "title": "Martha Goddard",
+    "url": "/wiki/entities/marthagoddard/"
+  },
   "MartinHeidegger": {
     "title": "Martin Heidegger / 马丁·海德格尔",
     "url": "/wiki/entities/martinheidegger/"
@@ -13959,6 +13991,10 @@
     "title": "On-Device Model Hierarchy",
     "url": "/wiki/concepts/ondevicemodelhierarchy/"
   },
+  "OnDisobedience": {
+    "title": "On Disobedience / 论不服从",
+    "url": "/wiki/entities/ondisobedience/"
+  },
   "OnRunning": {
     "title": "On Running",
     "url": "/wiki/entities/onrunning/"
@@ -14414,6 +14450,10 @@
   "PatriciaCornwell": {
     "title": "Patricia Cornwell",
     "url": "/wiki/entities/patriciacornwell/"
+  },
+  "PatrickBurns": {
+    "title": "Patrick Burns",
+    "url": "/wiki/entities/patrickburns/"
   },
   "PatrickCollison": {
     "title": "Patrick Collison",
@@ -15055,6 +15095,10 @@
     "title": "Post Ownership",
     "url": "/wiki/concepts/postownership/"
   },
+  "PostVictoryOppressionRisk": {
+    "title": "Post-Victory Oppression Risk / 胜利后的压迫风险",
+    "url": "/wiki/concepts/postvictoryoppressionrisk/"
+  },
   "Posterous": {
     "title": "Posterous",
     "url": "/wiki/entities/posterous/"
@@ -15207,6 +15251,10 @@
     "title": "原则科技",
     "url": "/wiki/entities/principletech/"
   },
+  "PrincipledDisobedience": {
+    "title": "Principled Disobedience / 原则性不服从",
+    "url": "/wiki/concepts/principleddisobedience/"
+  },
   "PrinciplesOfPhilosophy": {
     "title": "Principles of Philosophy / 《哲学原理》",
     "url": "/wiki/entities/principlesofphilosophy/"
@@ -15295,6 +15343,10 @@
     "title": "Project 2025",
     "url": "/wiki/entities/project2025/"
   },
+  "ProjectAristotle": {
+    "title": "Project Aristotle",
+    "url": "/wiki/entities/projectaristotle/"
+  },
   "ProjectGlassfin": {
     "title": "Project Glassfin",
     "url": "/wiki/entities/projectglassfin/"
@@ -15350,6 +15402,10 @@
   "PseudoscienceFraudVulnerability": {
     "title": "Pseudoscience Fraud Vulnerability",
     "url": "/wiki/concepts/pseudosciencefraudvulnerability/"
+  },
+  "PsychologicalFlexibilityForDissent": {
+    "title": "Psychological Flexibility For Dissent / 不服从中的心理灵活性",
+    "url": "/wiki/concepts/psychologicalflexibilityfordissent/"
   },
   "PuShougeng": {
     "title": "Pu Shougeng / 蒲寿庚",
@@ -16999,6 +17055,10 @@
     "title": "Seventh Generation",
     "url": "/wiki/entities/seventhgeneration/"
   },
+  "SexualAssaultEvidenceKit": {
+    "title": "Sexual Assault Evidence Kit",
+    "url": "/wiki/entities/sexualassaultevidencekit/"
+  },
   "ShaWujing": {
     "title": "沙和尚",
     "url": "/wiki/entities/shawujing/"
@@ -17911,6 +17971,10 @@
     "title": "Stateless Exile / 无国籍流亡",
     "url": "/wiki/concepts/statelessexile/"
   },
+  "StatusQuoRationalization": {
+    "title": "Status-Quo Rationalization / 现状合理化",
+    "url": "/wiki/concepts/statusquorationalization/"
+  },
   "StayPit": {
     "title": "StayPit",
     "url": "/wiki/entities/staypit/"
@@ -18679,6 +18743,10 @@
     "title": "Thailand",
     "url": "/wiki/entities/thailand/"
   },
+  "TheArtOfInsubordination": {
+    "title": "The Art of Insubordination / 不服从的艺术",
+    "url": "/wiki/entities/theartofinsubordination/"
+  },
   "TheBacchae": {
     "title": "The Bacchae / 酒神的伴侣",
     "url": "/wiki/entities/thebacchae/"
@@ -19014,6 +19082,10 @@
   "ToddBoehly": {
     "title": "Todd Boehly",
     "url": "/wiki/entities/toddboehly/"
+  },
+  "ToddKashdan": {
+    "title": "Todd Kashdan",
+    "url": "/wiki/entities/toddkashdan/"
   },
   "TokenDrivenSoftware": {
     "title": "Token-Driven Software",

@@ -2,7 +2,7 @@
 title: "Action Against Anxiety"
 type: concept
 tags: [anxiety, agency, life-design, work, self-knowledge]
-sources: [106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645, 98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
+sources: [116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645, 98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
 last_updated: 2026-07-24
 ---
 
@@ -20,6 +20,8 @@ The source's action is not only career optimization. It also includes small stab
 
 [[98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507]] adds an Adlerian purpose layer. The episode uses [[AdlerianTeleology]] to ask what anxiety, anger, avoidance, or self-weakening behavior is trying to accomplish, then ties action to courage: accepting the risk of failure, dislike, misunderstanding, and responsibility without pretending the risk disappears.
 
+[[116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021]] adds a dissent-pressure layer. The episode's [[PsychologicalFlexibilityForDissent|psychological flexibility]] dashboard turns fear, shame, and isolation into values, allies, emotional labeling, and cognitive defusion so the dissenter can keep acting without denying the cost.
+
 ## Key Claims
 - Anxiety becomes less total when a person translates it into a next concrete action within their actual range.
 - Action should be grounded in [[ObjectiveSelfOwnership]], not in a fantasy version of the self.
@@ -30,6 +32,7 @@ The source's action is not only career optimization. It also includes small stab
 - A boundary action may reduce anxiety only after the person survives the fear and sees that the imagined catastrophe does not fully arrive.
 - Adlerian action starts by identifying the purpose of the stuck behavior, then choosing a different route that may still feel risky.
 - Negotiation can be an action against anxiety when it turns a vague conflict into alternatives, limits, questions, and tradeable terms.
+- Dissent action requires emotional practices that keep social pressure from turning a principled objection into avoidance, collapse, or rage.
 
 ## Connections
 - [[QianJing|钱静]] and [[WoYouZijiDeYuzhou|《我有自己的宇宙》]] - source voice and book.
@@ -41,3 +44,4 @@ The source's action is not only career optimization. It also includes small stab
 - [[FawnResponse]], [[UnfawningBoundaryPractice]], and [[ComplexTraumaRecognition]] - episode 181's boundary-action extension.
 - [[AlfredAdler]], [[AdlerianTeleology]], [[IndividualPsychology]], and [[CommunityFeeling]] - episode 98's purpose, courage, and contribution extension.
 - [[NegotiationAsBargaining]], [[BATNA]], [[ReservationValue]], and [[InterestBasedNegotiation]] - episode 106's conflict-action extension.
+- [[PsychologicalFlexibilityForDissent]], [[PrincipledDisobedience]], and [[InsiderDissentStrategy]] - disobedience-pressure extension from episode 116.

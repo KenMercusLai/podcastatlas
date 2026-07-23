@@ -2,7 +2,7 @@
 title: "Communication Boundary Setting"
 type: concept
 tags: [communication, workplace, social, boundaries, trauma]
-sources: [106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645, 137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu]
+sources: [116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645, 137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu]
 last_updated: 2026-07-24
 ---
 
@@ -18,6 +18,8 @@ Communication boundary setting is the practice of choosing what to say, decline,
 
 [[106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645]] adds an explicit negotiation boundary. [[QinZong|秦总]] argues that conflict should not be handled by fury, avoidance, or public venting alone; the boundary becomes usable when the person can state value, ask why, preserve face where possible, and decide whether the current offer is better than their [[BATNA]].
 
+[[116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021]] adds a dissent boundary. The episode argues that saying no or challenging a norm requires attention to timing, shared identity, fear, and accumulated credibility; otherwise a truthful challenge can be heard as contempt and trigger defensive obedience.
+
 ## Key Claims
 - A boundary is not only internal preference; it has to be communicated early enough that other people and bystanders can understand the situation.
 - Refusing late often costs more than refusing early because habits, expectations, and public interpretations have already formed.
@@ -27,6 +29,7 @@ Communication boundary setting is the practice of choosing what to say, decline,
 - Public silence, deferral, or limited speech can be a legitimate boundary when information is incomplete and the social demand is really a demand to stand trial.
 - Care relationships need boundaries too; recognizing the cared-for person's subjectivity does not require helpers to suppress their own limits.
 - Negotiation turns a boundary into a structured exchange when the person can name interests, alternatives, and acceptable terms without escalating the conflict.
+- Dissent turns a boundary into a social act: the speaker must decide how much to challenge, when to speak, and how to keep the other person human without hiding the issue.
 
 ## Connections
 - [[SocialSignalInterpretation]] — boundaries depend partly on understanding what situation one is in.
@@ -37,3 +40,4 @@ Communication boundary setting is the practice of choosing what to say, decline,
 - [[InternetMoralTrial]], [[RecognitionAsHumiliation]], and [[LiveHumanFeeling]] - public-expression extension from the Zhao Lusi/Takuboku source.
 - [[SubjectLedCare]], [[VolunteerCareReciprocity]], and [[DisabilityIndependentLiving]] - care-request boundary extension from the disability independent-living episode.
 - [[NegotiationAsBargaining]], [[BATNA]], [[InterestBasedNegotiation]], and [[ConcessionSignaling]] - negotiation boundary extension from episode 106.
+- [[InsiderDissentStrategy]], [[PrincipledDisobedience]], and [[StatusQuoRationalization]] - dissent boundary extension from episode 116.

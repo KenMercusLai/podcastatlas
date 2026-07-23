@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [116.不服从的艺术：分享一些实战方法，还有力量](sources/116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021.md) — 蜜獾吃书 episode on 《不服从的艺术》, 原则性不服从, 现状合理化, Darwin/Semmelweis persuasion contrasts, constructive dissent, whistleblower costs, psychological flexibility, and post-victory restraint.
 - [115.京极夏彦今昔续百鬼：不研究妖怪，怎么好好做人？](sources/115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309.md) — 蜜獾吃书 episode on 京极夏彦, 《今昔续百鬼·云》, 妖怪推理, 多多良胜五郎, 《暗眼小僧》, 河童/dog misdirection, folklore fieldwork, postwar memory, and 鸟山石燕 image interpretation.
 - [114.又到持螯赏菊时，聊聊螃蟹的趣闻史话](sources/114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117.md) — 蜜獾吃书 episode on Chinese crab culture, dazha-crab naming, crab-catching tools, Song literati eating, 《金瓶梅》 and 《红楼梦》 crab banquets, 《讯蟹书》, moral projection, and eating/killing ambivalence.
 - [sp.03 串台｜趁生命气息逗留：泽拉兹尼与他的梦境](sources/sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106.md) — 蜜獾吃书 episode on Roger Zelazny, 《趁生命气息逗留》, New Wave science fiction, mythic style, robot-human personhood, digital transcendence, and close readings of key stories.
@@ -532,6 +533,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《不服从的艺术》 / The Art of Insubordination](entities/TheArtOfInsubordination.md) — Todd Kashdan book used to frame principled dissent as a teachable practice requiring evidence, contribution, belonging, courage, and self-restraint.
+- [Todd Kashdan](entities/ToddKashdan.md) — Psychologist and author of The Art of Insubordination, connected here to psychological flexibility and constructive dissent.
+- [《论不服从》 / On Disobedience](entities/OnDisobedience.md) — Erich Fromm work used as the moral-philosophical counterpart to the practical strategy frame of The Art of Insubordination.
+- [Erich Fromm](entities/ErichFromm.md) — Social psychologist and humanist thinker linked here to disobedience as a condition of conscience and freedom.
+- [Elizabeth Jennings Graham](entities/ElizabethJenningsGraham.md) — Black New York teacher whose 1854 streetcar expulsion and legal challenge prefigured later public-transit civil-rights resistance.
+- [Ignaz Semmelweis](entities/IgnazSemmelweis.md) — Physician whose handwashing discovery is used as a warning that being right is not enough without persuasion and institutional uptake.
+- [Project Aristotle](entities/ProjectAristotle.md) — Google research project used to link team effectiveness, psychological safety, and constructive dissent.
+- [Martha Goddard](entities/MarthaGoddard.md) — Advocate credited in the source with creating the sexual assault evidence kit and turning victim protection into durable evidentiary infrastructure.
+- [Sexual Assault Evidence Kit](entities/SexualAssaultEvidenceKit.md) — Standardized evidence-collection kit framed as a practical outcome of dissent against institutional neglect of sexual violence.
+- [Kara Hultgreen](entities/KaraHultgreen.md) — U.S. Navy pilot case used to discuss identity pressure, public scrutiny, and the costs of being first inside a resistant institution.
+- [Patrick Burns](entities/PatrickBurns.md) — Medical-device engineer used as a whistleblower example where professional truth-telling collides with organizational pressure.
 - [京极夏彦 / Kyogoku Natsuhiko](entities/KyogokuNatsuhiko.md) — Japanese mystery writer introduced through yokai, folklore research, postwar social change, and demystifying human explanation.
 - [百鬼夜行系列 / Hyakki Yagyo Series](entities/HyakkiYagyoSeries.md) — Kyogoku Natsuhiko's yokai-mystery series where cases organize folklore, psychology, social history, and recurring characters.
 - [《今昔续百鬼·云》 / Konjaku Zoku Hyakki: Kumo](entities/KonjakuZokuHyakkiKumo.md) — Shorter Kyogokudo-universe entry point centered on 多多良胜五郎, 沼上蓮次, yokai fieldwork, and the story 《暗眼小僧》.
@@ -3494,6 +3506,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Principled Disobedience / 原则性不服从](concepts/PrincipledDisobedience.md) — Dissent practice that resists flawed authority for a grounded purpose without collapsing into contrarian identity.
+- [Status-Quo Rationalization / 现状合理化](concepts/StatusQuoRationalization.md) — Bias pattern where existing arrangements appear normal, necessary, or morally deserved because they already exist.
+- [Constructive Dissent / 建设性异议](concepts/ConstructiveDissent.md) — Group-performance frame where useful disagreement improves decisions only when safety, contribution, and evidence discipline are present.
+- [Insider Dissent Strategy / 内部异议策略](concepts/InsiderDissentStrategy.md) — Method for challenging a group from within by stressing loyalty, shared identity, allies, and contribution before confrontation.
+- [Psychological Flexibility For Dissent](concepts/PsychologicalFlexibilityForDissent.md) — Emotional skill set for dissent: naming feelings, defusing from threat stories, and acting by values under social pressure.
+- [Post-Victory Oppression Risk](concepts/PostVictoryOppressionRisk.md) — Risk that dissenters reproduce domination after winning unless they keep listening and preserve pluralism.
 - [妖怪推理 / Yokai Mystery](concepts/YokaiMystery.md) — Mystery mode where yokai names, images, and beliefs are taken seriously while final explanation returns to human action and social memory.
 - [妖怪图像阐释 / Yokai Image Exegesis](concepts/YokaiImageExegesis.md) — Reading yokai pictures through visual detail, homophone, allusion, local context, and ethical meaning without treating resemblance as proof.
 - [民俗作为社会记忆 / Folklore As Social Memory](concepts/FolkloreAsSocialMemory.md) — Frame for folklore as local memory of place, work, danger, morality, and social relations under war and modernization pressure.

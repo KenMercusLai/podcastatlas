@@ -2,7 +2,7 @@
 title: "Political Truth-Telling / 政治性说真话"
 type: concept
 tags: [truth, politics, responsibility, judgment]
-sources: [103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789]
+sources: [116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789]
 last_updated: 2026-07-24
 ---
 
@@ -12,14 +12,18 @@ Political truth-telling / 政治性说真话 is [[103-ta-shi-cichuan-yewu-de-gua
 
 The concept is not neutral bluntness. In the source, political truth-telling requires [[RationalHumility]], evidence, and willingness to bear responsibility for public speech. It differs from provocation because its target is reality under pressure: anti-Semitic propaganda, intellectual collaboration, bureaucratic murder, and the public anger around [[EichmannInJerusalem|《艾希曼在耶路撒冷》]].
 
+[[116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021]] adds a dissent and identity-pressure version through [[KaraHultgreen]] and [[PatrickBurns]]. The episode treats the F-14 accident controversy as a case where facts can be avoided because they may be weaponized by hostile factions, making truth-telling depend on evidence, complexity, and refusal to reduce people to identity labels.
+
 ## Key Claims
 - Truth can be politically necessary even when it is socially costly.
 - Refusing false comfort is part of responsibility, not a performance of superiority.
 - Public truth-telling needs evidentiary discipline; otherwise it collapses into accusation or self-righteousness.
 - The concept extends [[TruthAgainstAbsurdPower]] from satirical coercion into historical and political controversy.
 - It also supports [[ResponsibilityVsGuilt]] because painful distinctions can be necessary to keep judgment precise.
+- Identity-protective motives can make truth harder to say even when the speaker supports the group that may be embarrassed by the facts.
 
 ## Connections
 - [[HannahArendt|Hannah Arendt / 汉娜·阿伦特]], [[KarlJaspers|Karl Jaspers]], and [[EichmannInJerusalem|《艾希曼在耶路撒冷》]] - source cases.
 - [[ImmanuelKant|Immanuel Kant / 康德]] - philosophical reference the episode associates with truth priority.
 - [[TruthAgainstAbsurdPower]], [[RationalHumility]], [[EvidenceOverTestimony]], and [[InternetMoralTrial]] - adjacent truth and public-judgment concepts.
+- [[KaraHultgreen]], [[PatrickBurns]], [[PrincipledDisobedience]], and [[WhistleblowerEvidenceDiscipline]] - dissent and identity-pressure extension from episode 116.
