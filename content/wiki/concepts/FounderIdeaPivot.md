@@ -2,7 +2,7 @@
 title: "Founder Idea Pivot"
 type: concept
 tags: [startup, y-combinator, validation]
-sources: [tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3, socialradarspod-stevehuffman-final, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
+sources: [tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3, socialradarspod-stevehuffman-final, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
 last_updated: 2026-07-23
 ---
 
@@ -18,6 +18,8 @@ The concept matters because it separates founder judgment from idea attachment. 
 
 [[tsr-s5-jared-v3final-tsr-s5-jared-v3final]] adds [[JaredFriedman]] and [[TrippScribd|Tripp]] as an early YC version. [[PaulGraham]] rejected their pre-smartphone Uber-like idea, but the founders were accepted after a long email argument and agreement to change direction. The accepted [[Wholist]] idea also failed, and the team eventually found [[Scribd]] through further idea sprints.
 
+[[tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio]] adds [[Sonalight]] to [[Amplitude]] as a retention-driven pivot. The first product was technically impressive enough for a strong [[YCombinator]] Demo Day moment, but weak repeat use and limited control over voice-recognition quality pushed [[SpenserSkates]] and [[CurtisLiu]] toward the internal analytics tool that became the real company.
+
 ## Key Claims
 - A weak first idea does not necessarily imply a weak founding team.
 - Founder idea pivots require both sides to move: investors or advisors must be willing to keep the founders, and founders must be willing to abandon sunk-cost identity.
@@ -26,8 +28,10 @@ The concept matters because it separates founder judgment from idea attachment. 
 - A pivot can also mean returning to a previously rejected idea once customer math, market timing, or technical context changes.
 - A pivot can move downward into infrastructure when the original product is weak but exposes access to a valuable operational layer.
 - A founder idea pivot can happen more than once before the durable company appears; the first accepted pivot may still be a dead end.
+- A technically impressive first product can be the wrong company if retention depends on a capability the founders cannot control.
 
 ## Connections
+- [[SpenserSkates]], [[CurtisLiu]], [[Sonalight]], [[Amplitude]], [[TechnicalDemoRetentionGap]], and [[ProductAnalytics]] - retention-driven pivot added by the Spenser Skates episode.
 - [[JaredFriedman]], [[TrippScribd|Tripp]], [[Wholist]], [[Scribd]], and [[PaulGraham]] - multi-step early YC pivot case added by the Jared Friedman episode.
 - [[SteveHuffman]], [[AlexisOhanian]], [[Reddit]], [[YCombinator]], and [[PaulGraham]] - source case.
 - [[AlexandrWang]], [[ScaleAI]], and [[AIDataInfrastructure]] - Scale case where the YC idea changed from doctor booking to data for AI.

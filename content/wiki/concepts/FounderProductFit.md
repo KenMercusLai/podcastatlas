@@ -12,6 +12,8 @@ Founder product fit is the match between a founding team's strengths, credibilit
 
 [[tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3]] adds [[DanSiroker]] and [[PeteKoomen]] as a contrast case. [[CarrotSticks]] lacked founder-market fit because the founders were not the users, buyers, or domain experts for a children's math game; [[Spreadly]] came closer because it started from their own distribution pain but still lacked a working incentive model. [[Optimizely]] fit better because Dan had lived the [[ABTestingForMarketers]] problem directly on the [[BarackObama]] campaign.
 
+[[tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio]] adds [[SpenserSkates]] and [[Amplitude]] as another internal-pain-to-product-fit case. [[Sonalight]] itself was not the durable fit, but the founders' own struggle to understand retention made [[ProductAnalytics]] legible enough that they could keep serving product teams after the pivot.
+
 [[ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2]] adds a more fragile early-founder version. [[Minghao]]'s podcast-production experience fit [[CreateWise]]'s starting problem, and [[XiaoSun]] had strong building energy when he recognized the work, but fit still had to survive communication, commercial learning, and [[FounderCashFlowConstraint]].
 
 [[shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306]] adds a technical-founder version through [[TobiasLutke]]. Toby's programming fluency, direct frustration with [[Snowdevil]]'s e-commerce tooling, and [[ScottLake]]'s business/vendor role made [[Shopify]] a strong fit, but the source also shows that product fit did not automatically make him ready for the CEO role.
@@ -107,8 +109,10 @@ Founder product fit is the match between a founding team's strengths, credibilit
 - Founder-product fit improves when founders can distinguish an idea they can build from a problem they understand deeply enough to keep serving.
 - Founder-product fit can be built into when the founder's motivation is strong enough to justify domain learning, expert recruiting, and credibility-building in an unfamiliar hard-tech field.
 - Founder-product fit can also become role fit: a founder may fit early creation and internal tool building better than the management role a larger company requires.
+- Founder-product fit can emerge from a failed product when the diagnostic tool built for that failure becomes the problem the founders understand best.
 
 ## Connections
+- [[SpenserSkates]], [[Amplitude]], [[Sonalight]], [[ProductAnalytics]], and [[InternalToolProductization]] - product-analytics fit case added by the Spenser Skates episode.
 - [[JaredFriedman]], [[Scribd]], [[YCombinator]], [[YCInternalSoftware]], and [[ShallowProductMarketFit]] - founder role-fit and internal-software branch added by the Jared Friedman episode.
 - [[GirishRedikar]] - source of the founder-fit discussion in this wiki.
 - [[Sprinto]] and [[RecruiterBox]] - company cases behind the concept.

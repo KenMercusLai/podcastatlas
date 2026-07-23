@@ -8,6 +8,8 @@ last_updated: 2026-07-23
 
 # Y Combinator
 
+[[tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio]] adds [[SpenserSkates]], [[CurtisLiu]], [[Sonalight]], and [[Amplitude]] as a Winter 2012 YC company path. The episode extends YC's founder-pivot branch into [[ProductAnalytics]]: an impressive voice-control Demo Day product failed to retain users, the founders built analytics to understand why, and other YC companies including [[PlanGrid]] and [[Gusto]] helped validate that the internal tool solved a broader product-visibility problem.
+
 [[tsr-s5-jared-v3final-tsr-s5-jared-v3final]] adds [[JaredFriedman]] as a bridge between early YC founder experience and YC's later software-driven operations. Jared entered YC in Summer 2006 after [[PaulGraham]] rejected the team's pre-smartphone Uber-like idea but accepted the founders once they changed direction, then moved through [[Wholist]] into [[Scribd]]. The same source adds Jared's partner-era work on [[YCInternalSoftware]], where application review, red-flag tracking, repeat-applicant history, prompts, agents, and AI tooling make YC itself a software user rather than only a software-startup investor.
 
 [[tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio]] adds [[BoomSupersonic]] as a capital-intensive aerospace YC case. [[BlakeScholl]] joined because capital was the largest risk, [[SamAltman]] had been recruiting him, and YC forced sharper storytelling around the all-business-class market model, real customer proof, and the [[XB1SupersonicDemonstrator|XB-1]] vehicle. The episode extends YC's hard-tech branch through [[HardTechCustomerIntentProof]], [[InvestorRiskNarrative]], and founder credibility before ordinary revenue could exist.
@@ -107,6 +109,7 @@ The source emphasizes how physical and improvised the early accelerator was. App
 [[tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3]] adds [[SurbhiSarna]] as a YC partner whose pre-YC-partner company history explains part of the institution's founder-support mission. The episode is not presented as a YC batch-company story; it connects YC to Sarna's later desire to help underrated founders after building [[NVisionMedical|nVision Medical]] through [[SoloFounderFundraisingBias]], [[HardTechFundraising]], and [[MedicalDeviceClinicalValidation]].
 
 ## Connections
+- [[SpenserSkates]], [[CurtisLiu]], [[Sonalight]], [[Amplitude]], [[ProductAnalytics]], [[TechnicalDemoRetentionGap]], and [[InternalToolProductization]] - Winter 2012 pivot from voice-control app to product analytics added by the Spenser Skates episode.
 - [[JaredFriedman]], [[Scribd]], [[Wholist]], [[SearchDrivenContentGrowth]], [[YCInternalSoftware]], and [[ShallowProductMarketFit]] - Summer 2006 founder case and later internal-software branch added by the Jared Friedman episode.
 - [[BlakeScholl]], [[BoomSupersonic]], [[AllBusinessClassSupersonicModel]], [[HardTechCustomerIntentProof]], [[XB1SupersonicDemonstrator]], and [[InvestorRiskNarrative]] - capital-intensive aviation case added by the Blake Scholl episode.
 - [[DavidKirtley]], [[Helion]], [[CommercialFusionPower]], [[FusionEnergyRecovery]], and [[DeepTechProductFocus]] - fusion hard-tech case added by the David Kirtley episode.

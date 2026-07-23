@@ -2,7 +2,7 @@
 title: "Arash Ferdowsi"
 type: entity
 tags: [person, founder, startups, dropbox]
-sources: [tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5]
+sources: [tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5]
 last_updated: 2026-07-12
 ---
 
@@ -12,7 +12,10 @@ Arash Ferdowsi is the co-founder of [[Dropbox]], introduced in [[tsr-s4-drewhous
 
 Ferdowsi's role in the source is mainly co-founder validation. His quick commitment helped satisfy [[PaulGraham]]'s co-founder concern, and the stolen-laptop story immediately after YC acceptance became an accidental demonstration that Dropbox already protected the founders' own files.
 
+[[tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio]] adds Ferdowsi as one of the startup people [[SpenserSkates]] encountered through [[MIT]] and [[Battlecode]] before founding [[Sonalight]] and [[Amplitude]].
+
 ## Connections
 - [[DrewHouston]] and [[Dropbox]] - co-founder and company context.
 - [[KyleVogt]], [[YCombinator]], [[PaulGraham]], and [[HackerNews]] - introduction, acceptance, and demo context.
 - [[SyncReliabilityAsUX]] and [[FounderProductFit]] - concepts strengthened by the founding story.
+- [[SpenserSkates]], [[Battlecode]], and [[MIT]] - startup-network context added by the Spenser Skates episode.

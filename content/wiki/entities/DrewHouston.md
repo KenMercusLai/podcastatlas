@@ -2,7 +2,7 @@
 title: "Drew Houston"
 type: entity
 tags: [person, founder, startups, dropbox]
-sources: [tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5]
+sources: [tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5]
 last_updated: 2026-07-12
 ---
 
@@ -14,9 +14,12 @@ Houston's source role is both product and leadership case. He framed Dropbox aro
 
 The episode also makes Houston a founder-psychology case. He says the company could inherit his scattered focus, conflict avoidance, creativity, and comfort with chaos unless he did personal and operating work to become a better CEO. That arc connects him to [[FounderMotivationEvolution]], [[FounderResilience]], [[FounderControl]], and [[FounderPsychologyOperationalRisk]].
 
+[[tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio]] adds Houston as part of [[SpenserSkates]]'s early startup exposure. Spenser says Houston helped introduce him to [[PaulGraham]]'s essays and the possibility of startups as a post-college path after [[MIT]].
+
 ## Connections
 - [[Dropbox]], [[ArashFerdowsi]], [[YCombinator]], [[PaulGraham]], [[TrevorBlackwell]], and [[HackerNews]] - origin, co-founder, and YC context.
 - [[SequoiaCapital]], [[PejmanNozad]], and [[MikeMoritz]] - early seed-round context.
 - [[Apple]], [[SteveJobs]], [[GooglePhotos]], and [[IncumbentPlatformPressure]] - competitive-pressure context.
 - [[DropboxDash]], [[KnowledgeWorkFragmentation]], and [[StrategicFocusUnderIncumbentPressure]] - later mission and product-reinvention context.
 - [[TheSocialRadars]], [[JessicaLivingston]], and [[CarolynLevy]] - source context.
+- [[SpenserSkates]], [[Battlecode]], [[MIT]], and [[StartupEssayDistribution]] - early startup-influence context added by the Spenser Skates episode.

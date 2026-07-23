@@ -2,7 +2,7 @@
 title: "Gusto"
 type: entity
 tags: [company, startups, payroll, hr-tech, saas]
-sources: [tsr-s4-gusto-v3-tsr-s4-gusto-v3]
+sources: [tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-s4-gusto-v3-tsr-s4-gusto-v3]
 last_updated: 2026-07-23
 ---
 
@@ -14,6 +14,8 @@ The source makes Gusto a case in [[PayrollInfrastructureTrust]]. Payroll is mand
 
 Gusto also matters as a founder-team case. The three founders kept explicit roles, with Josh as CEO, Eddie as CTO, and Tomer as chief product officer, then used recurring feedback walks and values-driven hiring to maintain [[CoFounderRelationshipMaintenance]] as the company grew.
 
+[[tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio]] adds Gusto as one of the early [[YCombinator]] companies that understood the [[ProductAnalytics]] gap when [[SpenserSkates]] and [[CurtisLiu]] showed their internal analytics tool after [[Sonalight]].
+
 ## Connections
 - [[JoshReeves]], [[EddieKim]], and [[TomerLondon]] - co-founders.
 - [[ZenPayroll]] - original company name before the 2015 rebrand.
@@ -21,3 +23,4 @@ Gusto also matters as a founder-team case. The three founders kept explicit role
 - [[PayrollInfrastructureTrust]], [[RegulatedWorkflowWedge]], [[ComplianceAutomation]], [[SaaSTrustMoat]], and [[TrustAsBusinessAsset]] - main product and trust concepts.
 - [[FinancialOperationsResilience]], [[CrisisStakeholderLeadership]], and [[SiliconValleyBank]] - SVB crisis and payroll-continuity branch.
 - [[Zenefits]] and [[Rippling]] - adjacent HR, payroll, and benefits software branch in the wiki.
+- [[Amplitude]], [[Sonalight]], [[ProductAnalytics]], and [[CustomerEvidenceStrategy]] - early analytics-demand context added by the Spenser Skates episode.

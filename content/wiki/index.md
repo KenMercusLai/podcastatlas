@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Spenser Skates, Founder & CEO, Amplitude](sources/tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio.md) — The Social Radars episode with Spenser Skates on Sonalight, the pivot into Amplitude, product analytics, founder-led sales, direct listing, public-company communication, executive readiness, and founder-life tradeoffs.
 - [David Kirtley, Founder & CEO of Helion Energy](sources/tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio.md) — The Social Radars episode with David Kirtley on Helion Energy, fusion power, YC focus, energy recovery, Polaris, Microsoft and Nucor customer plans, regulation, precision manufacturing, and scaling beyond one demonstration plant.
 - [Jared Friedman, Partner, Y Combinator; Co-founder, Scribd](sources/tsr-s5-jared-v3final-tsr-s5-jared-v3final.md) — The Social Radars episode with Jared Friedman on Scribd, early YC, Wholist, copyright risk, search-driven growth, 2008 runway pressure, YC internal software, and the AI-era return of technical founder energy.
 - [Blake Scholl, Founder & CEO of Boom Supersonic](sources/tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio.md) — The Social Radars episode with Blake Scholl on Boom Supersonic, all-business-class supersonic economics, recursive expert recruiting, YC storytelling, Virgin customer proof, XB-1, the Rolls-Royce engine crisis, boomless cruise, and supersonic regulation.
@@ -508,6 +509,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Spenser Skates](entities/SpenserSkates.md) — Amplitude founder and CEO whose episode connects MIT, Sonalight, product analytics, founder-led sales, direct listing, and founder-life architecture.
+- [Amplitude](entities/Amplitude.md) — Product analytics company born from Sonalight's retention-analysis problem and later used as a public-company transition case.
+- [Sonalight](entities/Sonalight.md) — YC Winter 2012 voice-control app whose impressive demo but weak retention led to the Amplitude pivot.
+- [Curtis Liu](entities/CurtisLiu.md) — MIT friend and co-founder with Spenser Skates through Sonalight and Amplitude.
+- [Jeffrey Wang](entities/JeffreyWang.md) — Third Amplitude co-founder whose joining gave Spenser Skates room to focus on sales and customer discovery.
+- [Battlecode](entities/Battlecode.md) — MIT programming competition that helped Spenser Skates encounter startup-style iteration and the YC founder network.
+- [Mitch Morando](entities/MitchMorando.md) — Sales coach who helped Spenser Skates treat sales as diagnosis of customer business pain.
+- [Google Analytics](entities/GoogleAnalytics.md) — Analytics product named as insufficient for Sonalight's deeper retention questions in the Amplitude origin story.
+- [Flurry](entities/Flurry.md) — Mobile analytics company named in the Amplitude source as part of the market gap around product behavior analysis.
+- [Mixpanel](entities/Mixpanel.md) — Analytics company named in the Amplitude source as an existing tool that did not answer the founders' specific retention questions.
+- [Kissmetrics](entities/Kissmetrics.md) — Analytics company named in the Amplitude source as part of the comparison set for product analytics.
+- [Zynga](entities/Zynga.md) — Game company whose alumni network understood behavioral analytics and shaped early Amplitude demand.
+- [12gigs](entities/TwelveGigs.md) — Mobile slots casino gaming company that became Amplitude's first real paying customer.
 - [David Kirtley](entities/DavidKirtley.md) — Helion founder and CEO whose episode connects fusion physics, energy recovery, startup focus, manufacturing, regulation, and founder-mode leadership.
 - [Helion Polaris](entities/HelionPolaris.md) — Helion's seventh-generation fusion machine, used in the source as the current proof platform for energy recovery, fusion operation, and precision manufacturing.
 - [Helion Orion](entities/HelionOrion.md) — Planned Helion power plant tied in the source to Microsoft's 50 MW power-purchase agreement and 2028 grid-delivery target.
@@ -3285,6 +3299,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Product Analytics](concepts/ProductAnalytics.md) — Behavioral product-data discipline around retention, cohorts, and usage questions that became Amplitude's market.
+- [Technical Demo Retention Gap](concepts/TechnicalDemoRetentionGap.md) — Startup failure mode where an impressive demo does not translate into repeat user behavior.
+- [Sales As Learnable Skill](concepts/SalesAsLearnableSkill.md) — Founder-sales pattern where coaching, repetition, and business-pain diagnosis improve a technical founder's sales ability.
+- [Direct Listing Discipline](concepts/DirectListingDiscipline.md) — Public-market lesson that a direct listing can improve pricing mechanics but still requires management and communication readiness.
+- [Public Company Transition](concepts/PublicCompanyTransition.md) — Operating shift from private startup to listed-company scrutiny, volatility, and management standards.
+- [Public Market Communication](concepts/PublicMarketCommunication.md) — CEO discipline of communicating clearly and responsibly with public investors after listing.
+- [Founder Life Architecture](concepts/FounderLifeArchitecture.md) — Deliberate life structure around extreme founder commitment, family support, practice, coaching, and tradeoffs.
 - [Commercial Fusion Power](concepts/CommercialFusionPower.md) — Turning fusion from a physics milestone into deployable electricity infrastructure with customers, permitting, manufacturing, and grid delivery.
 - [Fusion Energy Recovery](concepts/FusionEnergyRecovery.md) — Helion strategy of recovering most input electricity so fusion output only needs to cover losses plus surplus.
 - [Deep-Tech Product Focus](concepts/DeepTechProductFocus.md) — Discipline of narrowing a broad technical platform into one product and rejecting side markets that distract from the core mission.
