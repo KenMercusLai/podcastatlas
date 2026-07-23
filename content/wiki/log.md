@@ -4363,3 +4363,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | 126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖
+
+Added source page for a 蜜獾吃书 episode on 王莽, 张向荣《祥瑞》, Western Han sacred legitimacy, Mandate of Heaven backfire, Wang-family court politics, omen and prophecy politics, moral reputation as political capital, Wang Mang reforms, Confucian foreign-policy moralism, Xin collapse, Liu Xiu, and the Battle of Kunyang. Created pages for Wang Mang, 《祥瑞》, Zhang Xiangrong, Western Han, Xin dynasty, Wang Zhengjun, Emperor Ai, Dong Xian, Emperor Ping, Liu Bang, Liu Xiu, Kunyang, Red Eyebrows, Lulin, Dong Zhongshu, Mandate of Heaven Legitimacy, Dynastic Legitimacy Backfire, Chenwei Politics, Auspicious Omen Politics, Moral Reputation as Political Capital, Confucian Ideal Governance, Tuogu Reform Politics, Wang Mang Reforms, Confucian Foreign Policy Moralism, and Ideological Overcontrol; updated overview, index, 蜜獾吃书, Historical Memory Contest, Historical Rhyme Political Reading, Personal Rule Legitimacy Crisis, Machiavellian Realism, and Good Intentions Political Limits. No direct contradiction found; the source qualifies the Caesar branch by showing an inverse legitimacy failure where abundant sacred and formal legitimacy still collapses without workable governance.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

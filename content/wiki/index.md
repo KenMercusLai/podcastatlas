@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖](sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780.md) — 蜜獾吃书 episode on 王莽, 张向荣《祥瑞》, Western Han sacred legitimacy, Mandate of Heaven backfire, omen politics, Wang Mang's reforms, frontier moralism, Xin collapse, and Liu Xiu at Kunyang.
 - [125. 马拉之死：卑鄙的暗杀，或正义的处决？](sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516.md) — 蜜獾吃书 episode on Marat's assassination by Charlotte Corday, David's martyr image, French Revolution factions, Jacobin terror, Lavoisier and anti-expert suspicion, and the ethics of political assassination.
 - [124. 恺撒之死：历史的韵脚，是否已失效？](sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361.md) — 蜜獾吃书 episode on Julius Caesar, the late Roman Republic crisis, army loyalty shifting toward commanders, Brutus and the assassination conspiracy, Antony and Octavian, Shakespeare's memory of Caesar's death, and republican memory after institutional failure.
 - [123.人性实验：当心你自己！](sources/123-renxing-shiyan-dangxin-ni-ziji-779479569.md) — 蜜獾吃书 episode on social psychology, hostile media perception, priming, stereotype-shaped memory, actor-observer bias, deindividuation, belief-first cognition, money illusion, emotional contagion, and self-suspicion under internet manipulation.
@@ -542,6 +543,21 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Wang Mang / 王莽](entities/WangMang.md) — Xin founder read by episode 126 as a product of Western Han sacred legitimacy, moral reputation, omen politics, and reform overcontrol.
+- [《祥瑞》](entities/XiangruiBook.md) — Zhang Xiangrong book used by episode 126 to reread Wang Mang through Heaven, omens, Confucian ideals, and late Western Han politics.
+- [Zhang Xiangrong / 张向荣](entities/ZhangXiangrong.md) — Author of 《祥瑞》, the book grounding episode 126's reconstruction of Wang Mang and Han legitimacy.
+- [Western Han dynasty / 西汉](entities/WesternHanDynasty.md) — Dynastic setting whose sacred founding legitimacy becomes vulnerable to Wang Mang's Mandate of Heaven claim.
+- [Xin dynasty / 新朝](entities/XinDynasty.md) — Wang Mang's short-lived regime, framed by episode 126 through omen-backed seizure, reform stress, frontier instability, and revolt.
+- [Wang Zhengjun / 王政君](entities/WangZhengjun.md) — Western Han empress dowager whose status helped Wang Mang return to power while her later resistance marked the legitimacy break.
+- [Emperor Ai of Han / 汉哀帝](entities/HanAidi.md) — Late Western Han emperor reappraised by episode 126 as more politically active than his later reputation suggests.
+- [Dong Xian / 董贤](entities/DongXian.md) — Emperor Ai's favorite whose failure during the succession crisis opened the way for Wang Zhengjun and Wang Mang.
+- [Emperor Ping of Han / 汉平帝](entities/HanPingdi.md) — Child emperor elevated by Wang Mang, whose illness and death preceded Wang Mang's move into acting-emperor status.
+- [Liu Bang / 刘邦](entities/LiuBang.md) — Western Han founder whose sacred origin stories anchor episode 126's Mandate of Heaven backfire argument.
+- [Liu Xiu / 刘秀](entities/LiuXiu.md) — Liu restoration figure contrasted with Wang Mang through Kunyang and later control of prophecy interpretation.
+- [Battle of Kunyang / 昆阳之战](entities/KunyangBattle.md) — Turning-point battle where Liu Xiu's success exposed the gap between Xin grandeur and political-military capacity.
+- [Red Eyebrows / 赤眉](entities/ChimeiRebellion.md) — Popular uprising named by episode 126 as part of the social collapse under Wang Mang.
+- [Lulin / 绿林](entities/LulinRebellion.md) — Uprising force that enters Chang'an and frames the episode's narration of Wang Mang's death.
+- [Dong Zhongshu / 董仲舒](entities/DongZhongshu.md) — Western Han thinker used by episode 126 to connect Confucianism, Heaven, omens, and sacred imperial politics.
 - [Jean-Paul Marat / 让-保罗·马拉](entities/JeanPaulMarat.md) — Revolutionary journalist and agitator whose murder, martyr image, scientific grievance, and September Massacres role frame episode 125.
 - [Charlotte Corday / 夏洛特·科黛](entities/CharlotteCorday.md) — Moderate republican and Marat's assassin, read by episode 125 as politically conscious rather than manipulated or royalist.
 - [French Revolution / 法国大革命](entities/FrenchRevolution.md) — Revolutionary setting for Marat, Corday, Girondins, Jacobins, terror, martyr images, and political assassination ethics.
@@ -3602,6 +3618,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Mandate of Heaven Legitimacy / 天命合法性](concepts/MandateOfHeavenLegitimacy.md) — Sacred legitimacy frame where Han rule is grounded in Heaven but becomes vulnerable when Heaven can be imagined as shifting.
+- [Dynastic Legitimacy Backfire / 王朝合法性回旋镖](concepts/DynasticLegitimacyBackfire.md) — Episode 126's mechanism where a dynasty's own sacred legitimacy logic turns into a tool for replacement.
+- [Chenwei Politics / 谶纬政治](concepts/ChenweiPolitics.md) — Prophetic and apocryphal interpretation used as political evidence in Wang Mang's rise and later recentralized by Liu Xiu.
+- [Auspicious Omen Politics / 祥瑞政治](concepts/AuspiciousOmenPolitics.md) — Political use of auspicious signs, petitions, ritual projects, and omen reports to make power transfer appear Heaven-approved.
+- [Moral Reputation as Political Capital / 道德名望政治资本](concepts/MoralReputationPoliticalCapital.md) — Pattern where visible virtue, self-restraint, and filial image become usable power in court politics.
+- [Confucian Ideal Governance / 儒家理想治理](concepts/ConfucianIdealGovernance.md) — Episode 126's frame for moralized rule through ritual, hierarchy, ancient models, and scholar support.
+- [Tuogu Reform Politics / 托古改制政治](concepts/TuoguReformPolitics.md) — Reform justified by ancient models, making Wang Mang's changes radical in effect but conservative in authority language.
+- [Wang Mang Reforms / 王莽改制](concepts/WangMangReforms.md) — Policy program of land, currency, monopoly, tax, and credit interventions that episode 126 reads as idealistic and administratively brittle.
+- [Confucian Foreign Policy Moralism / 儒家外交道德主义](concepts/ConfucianForeignPolicyMoralism.md) — Frontier diplomacy failure mode where symbolic hierarchy is mistaken for practical border management.
+- [Ideological Overcontrol / 意识形态过度控制](concepts/IdeologicalOvercontrol.md) — Regime pattern where moral, ritual, fiscal, familial, and frontier domains are forced under one totalizing scheme.
 - [Political Assassination Ethics / 政治刺杀伦理](concepts/PoliticalAssassinationEthics.md) — Episode 125's frame for when unlawful political killing can become morally legible without becoming safe or institutionally reparative.
 - [Revolutionary Terror Politics / 革命恐怖政治](concepts/RevolutionaryTerrorPolitics.md) — Mechanism linking fear, denunciation, war, factional purity, virtue language, and emergency killing in the French Revolution.
 - [Revolutionary Martyrdom Image-Making / 革命殉道图像制造](concepts/RevolutionaryMartyrdomImageMaking.md) — Frame for how David's The Death of Marat turns political violence into saint-like revolutionary sacrifice.

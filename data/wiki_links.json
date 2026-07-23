@@ -123,6 +123,10 @@
     "title": "125. 马拉之死：卑鄙的暗杀，或正义的处决？",
     "url": "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
   },
+  "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780": {
+    "title": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖",
+    "url": "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
+  },
   "130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi": {
     "title": "130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏",
     "url": "/wiki/sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi/"
@@ -2543,6 +2547,10 @@
     "title": "August Derleth / 阿古斯特·德雷斯",
     "url": "/wiki/entities/augustderleth/"
   },
+  "AuspiciousOmenPolitics": {
+    "title": "Auspicious Omen Politics / 祥瑞政治",
+    "url": "/wiki/concepts/auspiciousomenpolitics/"
+  },
   "Australia": {
     "title": "Australia",
     "url": "/wiki/entities/australia/"
@@ -4147,6 +4155,10 @@
     "title": "Chengmai Technology",
     "url": "/wiki/entities/chengmaitechnology/"
   },
+  "ChenweiPolitics": {
+    "title": "Chenwei Politics / 谶纬政治",
+    "url": "/wiki/concepts/chenweipolitics/"
+  },
   "CheshireCat": {
     "title": "Cheshire Cat / 柴郡猫",
     "url": "/wiki/entities/cheshirecat/"
@@ -4190,6 +4202,10 @@
   "Chile": {
     "title": "Chile",
     "url": "/wiki/entities/chile/"
+  },
+  "ChimeiRebellion": {
+    "title": "Red Eyebrows / 赤眉",
+    "url": "/wiki/entities/chimeirebellion/"
   },
   "China": {
     "title": "China",
@@ -4810,6 +4826,14 @@
   "ConfiscationAndFemaleFate": {
     "title": "抄家籍没与女性命运 / Confiscation And Female Fate",
     "url": "/wiki/concepts/confiscationandfemalefate/"
+  },
+  "ConfucianForeignPolicyMoralism": {
+    "title": "Confucian Foreign Policy Moralism / 儒家外交道德主义",
+    "url": "/wiki/concepts/confucianforeignpolicymoralism/"
+  },
+  "ConfucianIdealGovernance": {
+    "title": "Confucian Ideal Governance / 儒家理想治理",
+    "url": "/wiki/concepts/confucianidealgovernance/"
   },
   "Confucius": {
     "title": "孔子 / Confucius",
@@ -6207,6 +6231,14 @@
     "title": "董敏",
     "url": "/wiki/entities/dongmin/"
   },
+  "DongXian": {
+    "title": "Dong Xian / 董贤",
+    "url": "/wiki/entities/dongxian/"
+  },
+  "DongZhongshu": {
+    "title": "Dong Zhongshu / 董仲舒",
+    "url": "/wiki/entities/dongzhongshu/"
+  },
   "DongZuobin": {
     "title": "董作斌",
     "url": "/wiki/entities/dongzuobin/"
@@ -6398,6 +6430,10 @@
   "DynamicBalancingRobotics": {
     "title": "Dynamic Balancing Robotics",
     "url": "/wiki/concepts/dynamicbalancingrobotics/"
+  },
+  "DynasticLegitimacyBackfire": {
+    "title": "Dynastic Legitimacy Backfire / 王朝合法性回旋镖",
+    "url": "/wiki/concepts/dynasticlegitimacybackfire/"
   },
   "EAB": {
     "title": "EAB",
@@ -8959,6 +8995,10 @@
     "title": "Hamish McKenzie",
     "url": "/wiki/entities/hamishmckenzie/"
   },
+  "HanAidi": {
+    "title": "Emperor Ai of Han / 汉哀帝",
+    "url": "/wiki/entities/hanaidi/"
+  },
   "HanBoxiao": {
     "title": "Han Boxiao",
     "url": "/wiki/entities/hanboxiao/"
@@ -8970,6 +9010,10 @@
   "HanKang": {
     "title": "韩江 / Han Kang",
     "url": "/wiki/entities/hankang/"
+  },
+  "HanPingdi": {
+    "title": "Emperor Ping of Han / 汉平帝",
+    "url": "/wiki/entities/hanpingdi/"
   },
   "HanRiver": {
     "title": "Han River / 汉江",
@@ -9802,6 +9846,10 @@
   "IdentityPoliticsBook": {
     "title": "《身份政治》",
     "url": "/wiki/entities/identitypoliticsbook/"
+  },
+  "IdeologicalOvercontrol": {
+    "title": "Ideological Overcontrol / 意识形态过度控制",
+    "url": "/wiki/concepts/ideologicalovercontrol/"
   },
   "IfYouCanKeepIt": {
     "title": "If You Can Keep It",
@@ -11431,6 +11479,10 @@
     "title": "Kun Ni",
     "url": "/wiki/entities/kunni/"
   },
+  "KunyangBattle": {
+    "title": "Battle of Kunyang / 昆阳之战",
+    "url": "/wiki/entities/kunyangbattle/"
+  },
   "KurtStenn": {
     "title": "Kurt Stenn / 库尔特·斯坦",
     "url": "/wiki/entities/kurtstenn/"
@@ -12067,6 +12119,10 @@
     "title": "Little Women / 小妇人",
     "url": "/wiki/entities/littlewomen/"
   },
+  "LiuBang": {
+    "title": "Liu Bang / 刘邦",
+    "url": "/wiki/entities/liubang/"
+  },
   "LiuCheng": {
     "title": "刘诚",
     "url": "/wiki/entities/liucheng/"
@@ -12082,6 +12138,10 @@
   "LiuWenhuan": {
     "title": "Liu Wenhuan",
     "url": "/wiki/entities/liuwenhuan/"
+  },
+  "LiuXiu": {
+    "title": "Liu Xiu / 刘秀",
+    "url": "/wiki/entities/liuxiu/"
   },
   "LiuZongdi": {
     "title": "Liu Zongdi / 刘宗迪",
@@ -12423,6 +12483,10 @@
     "title": "Lugano Plan B",
     "url": "/wiki/entities/luganoplanb/"
   },
+  "LulinRebellion": {
+    "title": "Lulin / 绿林",
+    "url": "/wiki/entities/lulinrebellion/"
+  },
   "Lululemon": {
     "title": "Lululemon",
     "url": "/wiki/entities/lululemon/"
@@ -12650,6 +12714,10 @@
   "MandateForLeadership2025": {
     "title": "Mandate for Leadership 2025",
     "url": "/wiki/entities/mandateforleadership2025/"
+  },
+  "MandateOfHeavenLegitimacy": {
+    "title": "Mandate of Heaven Legitimacy / 天命合法性",
+    "url": "/wiki/concepts/mandateofheavenlegitimacy/"
   },
   "MandySuzanneWong": {
     "title": "Mandy Suzanne Wong",
@@ -13630,6 +13698,10 @@
   "MooreLaw": {
     "title": "Moore's Law",
     "url": "/wiki/concepts/moorelaw/"
+  },
+  "MoralReputationPoliticalCapital": {
+    "title": "Moral Reputation as Political Capital / 道德名望政治资本",
+    "url": "/wiki/concepts/moralreputationpoliticalcapital/"
   },
   "MoralSuspensionInArtReading": {
     "title": "Moral Suspension In Art Reading",
@@ -20011,6 +20083,10 @@
     "title": "Tumor Microenvironment",
     "url": "/wiki/concepts/tumormicroenvironment/"
   },
+  "TuoguReformPolitics": {
+    "title": "Tuogu Reform Politics / 托古改制政治",
+    "url": "/wiki/concepts/tuogureformpolitics/"
+  },
   "TurnkeyHandsetSolutions": {
     "title": "Turnkey Handset Solutions",
     "url": "/wiki/concepts/turnkeyhandsetsolutions/"
@@ -20659,6 +20735,14 @@
     "title": "Wang Laichun",
     "url": "/wiki/entities/wanglaichun/"
   },
+  "WangMang": {
+    "title": "Wang Mang / 王莽",
+    "url": "/wiki/entities/wangmang/"
+  },
+  "WangMangReforms": {
+    "title": "Wang Mang Reforms / 王莽改制",
+    "url": "/wiki/concepts/wangmangreforms/"
+  },
   "WangMian": {
     "title": "王冕",
     "url": "/wiki/entities/wangmian/"
@@ -20702,6 +20786,10 @@
   "WangZhenghua": {
     "title": "Wang Zhenghua / 王正华",
     "url": "/wiki/entities/wangzhenghua/"
+  },
+  "WangZhengjun": {
+    "title": "Wang Zhengjun / 王政君",
+    "url": "/wiki/entities/wangzhengjun/"
   },
   "WanhuaChemical": {
     "title": "Wanhua Chemical",
@@ -20866,6 +20954,10 @@
   "WesternDigital": {
     "title": "Western Digital",
     "url": "/wiki/entities/westerndigital/"
+  },
+  "WesternHanDynasty": {
+    "title": "Western Han dynasty / 西汉",
+    "url": "/wiki/entities/westernhandynasty/"
   },
   "WestsideFederationForSeniorAndSupportiveHousing": {
     "title": "Westside Federation for Senior and Supportive Housing",
@@ -21203,6 +21295,10 @@
     "title": "香菱 / Xiangling",
     "url": "/wiki/entities/xiangling/"
   },
+  "XiangruiBook": {
+    "title": "《祥瑞》",
+    "url": "/wiki/entities/xiangruibook/"
+  },
   "XiaoAoJiangHu": {
     "title": "《笑傲江湖》",
     "url": "/wiki/entities/xiaoaojianghu/"
@@ -21286,6 +21382,10 @@
   "XieXiaoqing": {
     "title": "Xie Xiaoqing / 谢晓清",
     "url": "/wiki/entities/xiexiaoqing/"
+  },
+  "XinDynasty": {
+    "title": "Xin dynasty / 新朝",
+    "url": "/wiki/entities/xindynasty/"
   },
   "XinchuangOperatingSystems": {
     "title": "Xinchuang Operating Systems",
@@ -21814,6 +21914,10 @@
   "ZhangWuchang": {
     "title": "张五常",
     "url": "/wiki/entities/zhangwuchang/"
+  },
+  "ZhangXiangrong": {
+    "title": "Zhang Xiangrong / 张向荣",
+    "url": "/wiki/entities/zhangxiangrong/"
   },
   "ZhangXiaojunCommercialInterviews": {
     "title": "张小珺Jùn｜商业访谈录",
