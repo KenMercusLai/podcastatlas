@@ -2,13 +2,15 @@
 title: "Startup Community Infrastructure"
 type: concept
 tags: [startups, community, software, venture-capital]
-sources: [tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-harj-v3-tsr-s4-harj-v3, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, socialradarspod-emmettshear-v2, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-garrytan-final, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
-last_updated: 2026-07-14
+sources: [tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-ronconway-v4-tsr-s4-ronconway-v4, tsr-s4-harj-v3-tsr-s4-harj-v3, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, socialradarspod-emmettshear-v2, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-garrytan-final, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
+last_updated: 2026-07-23
 ---
 
 # Startup Community Infrastructure
 
 Startup community infrastructure is the set of software, rituals, lists, events, and trust mechanisms that let founders learn from one another as a startup network grows. [[socialradarspod-garrytan-final]] adds the concept through [[StartupSchool]], [[YCombinator]] batches, dinner speakers, founder email lists, and [[Bookface]].
+
+[[tsr-s4-ronconway-v4-tsr-s4-ronconway-v4]] adds a pre-YC and pre-social-media version through [[RonConway]]'s [[StartupInformationLayer]]. Conway says early internet investors found companies through analysts, journalists, conferences, newsletters, trade publications, and platform-company relationships. This is not batch community yet, but it is still infrastructure: it helps founders, investors, and ideas find one another before a formal startup institution exists.
 
 [[socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll]] adds the earlier and more open side through [[HackerNews]], YC dinners, and Demo Day. [[PaulGraham]] says Hacker News helped YC, but also says running a forum created major stress, making [[StartupCommunityForumBurden]] part of the infrastructure story.
 
@@ -26,6 +28,7 @@ The source's clearest case is Bookface. [[GarryTan]] says YC needed it because l
 
 ## Key Claims
 - Community stops scaling when trust depends only on everyone personally knowing everyone else.
+- Before accelerators scale, analysts, conferences, trade media, and platform-company hallways can act as startup discovery infrastructure.
 - Founder networks need both identity verification and searchable memory if later batches are to benefit from earlier experience.
 - Events such as [[StartupSchool]] can act as entry infrastructure by showing prospective founders that the builder community exists.
 - Open forums can create attention and shared culture, but their governance burden must be counted as part of the infrastructure.
@@ -38,6 +41,7 @@ The source's clearest case is Bookface. [[GarryTan]] says YC needed it because l
 
 ## Connections
 - [[HackerNews]], [[Bookface]], [[StartupSchool]], [[YCombinator]], and [[GarryTan]] - source cases.
+- [[RonConway]], [[SVAngel]], [[StartupInformationLayer]], [[InternetSoftwareThesis]], and [[NetscapePlatformEcosystem]] - pre-YC internet-era sourcing layer.
 - [[EmmettShear]], [[Kiko]], [[SteveHuffman]], [[AlexisOhanian]], and [[AaronSwartz]] - first-batch peer-support case added by the Shear episode.
 - [[YuriSagalov]], [[AeroFS]], [[WayfinderVentures]], and [[YCombinator]] - Summer 2010 batch and later investor-network case.
 - [[HarjTaggar]], [[YuriMilner]], [[StartupLegitimacyTransfer]], and [[FounderInvestorLearning]] - investor-relations layer added by the Harj Taggar episode.

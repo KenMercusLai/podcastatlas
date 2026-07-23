@@ -731,7 +731,6 @@ Added source page for a Keji Luandun episode on Huawei's Tau Law, 3D chip stacki
 ## [2026-07-07] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
-
 ## [2026-07-17] ingest | Riding with the repo man (update)
 
 Added source page for the Planet Money update on subprime auto lending, auto repossession, car affordability stress, GPS-enabled recovery, and borrower-level crisis when a car loan fails. Created pages for Larry Baker, Stephanie Waldrop, Rick Reichert, Jared Reichert, Subprime Auto Lending, Auto Repossession, Car Affordability Stress, and GPS-Enabled Repossession; updated overview, index, NPR, Planet Money, Consumer Loan Risk, and Personal Credit Record. No direct contradiction found; the source qualifies the wiki's consumer-credit branch by showing that subprime auto loans can provide necessary transportation access while still becoming severe household risk when prices, rates, term length, income shocks, and easy collateral recovery interact.
@@ -4035,6 +4034,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-23] ingest | Ron Conway on Founder Advocacy, Angel Investing, and the Internet's First Wave
+
+Added source page for The Social Radars episode with Ron Conway on SV Angel's founder advocacy, Natural Language Incorporated, Don Valentine's board mentorship, Ben Rosen, the internet software thesis, Netscape, Mike Homer, open-source cost collapse, Ask Jeeves, and pre-YC startup information networks. Created pages for Ben Rosen, Natural Language Incorporated, Netscape, Mike Homer, Jim Clark, Seven Rosen Venture Partners, Founder Advocacy, Internet Software Thesis, Startup Information Layer, Browser As Internet Unlock, Netscape Platform Ecosystem, Open Source Startup Cost Collapse, and Conversational Search Interface; updated overview, index, Ron Conway, SV Angel, Ask Jeeves, Mark Andreessen, Don Valentine, Altos Computer, Founder Friendly Investor Support, Founder-Investor Learning, Outlier-Driven Angel Investing, Startup Community Infrastructure, and Startup Timing Windows. No direct contradiction found; the source fills the chronological gap between Conway's pre-SV Angel operating history and the existing Google/Napster chapters while remaining a Conway-centered participant account.
 
 ## [2026-07-23] lint | Wiki health check
 

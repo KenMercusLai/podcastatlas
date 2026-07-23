@@ -2,8 +2,8 @@
 title: "Outlier-Driven Angel Investing"
 type: concept
 tags: [venture-capital, startups, investing]
-sources: [tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, socialradarspod-paulb-final]
-last_updated: 2026-07-12
+sources: [tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s4-ronconway-v4-tsr-s4-ronconway-v4, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, socialradarspod-paulb-final]
+last_updated: 2026-07-23
 ---
 
 # Outlier-Driven Angel Investing
@@ -16,6 +16,8 @@ PB's version of the idea is founder-centered. He says the biggest factor is alwa
 
 [[tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final]] adds [[RonConway]]'s pre-internet angel-investing context through [[BandOfAngels]]. Conway describes a recurring Palo Alto meeting where retired semiconductor executives heard founder pitches and wrote individual checks, making the outlier-seeking angel pattern visible before modern seed funds and YC-style demo days. The source adds [[OrganizedAngelInvestorNetworks]] as the community structure around the return logic.
 
+[[tsr-s4-ronconway-v4-tsr-s4-ronconway-v4]] adds [[AskJeeves]] as the pre-Google internet outlier. Conway says [[BenRosen]] found the company, they quickly helped with practical action items, and the investment became a major hit that helped seed early SV Angel funds. The episode shows outlier investing before the market had many obvious internet startups, making [[InternetSoftwareThesis]] and [[StartupInformationLayer]] part of the return logic.
+
 [[tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2]] adds the outlier example that later defines the pattern: [[Google]]. Conway recognized [[PageRankSearchRelevance]], used [[StanfordStartupSourcing]] and [[BobBozeman]]'s validation to increase conviction, then helped [[LarryPage]] and [[SergeyBrin]] close a round with [[KleinerPerkins]] and [[SequoiaCapital]]. The source shows that outlier investing is not only picking winners; it can include doing concentrated work to make the winner's financing and distribution path real.
 
 ## Key Claims
@@ -26,6 +28,7 @@ PB's version of the idea is founder-centered. He says the biggest factor is alwa
 - The pattern complements [[FounderInvestorLearning]] because experienced builders can advise founders while still respecting that the founders own the final decision.
 - Angel investing can begin as founder-help inside a trusted network before becoming a formal fund.
 - Organized angel groups can improve access and pattern recognition while still preserving individual investor judgment.
+- Early outliers may come from a narrow thesis and sparse market map before demo days, blogs, or social media make a category easy to scan.
 - The biggest outlier opportunities can require active help before they look obvious, especially when the product is strong but monetization and distribution are still unresolved.
 
 ## Connections
@@ -36,4 +39,5 @@ PB's version of the idea is founder-centered. He says the biggest factor is alwa
 - [[FounderProductFit]] and [[FounderInvestorLearning]] - adjacent founder-judgment concepts.
 - [[YuriSagalov]], [[WayfinderVentures]], [[FounderLedSales]], and [[InvestorReferenceChecking]] - Sagalov episode branch where angel investing becomes a focused B2B fund.
 - [[RonConway]], [[BandOfAngels]], [[OrganizedAngelInvestorNetworks]], and [[SemiconductorTalentGenealogy]] - Conway episode branch where semiconductor operators become early angel investors.
+- [[BenRosen]], [[AskJeeves]], [[InternetSoftwareThesis]], [[StartupInformationLayer]], and [[ConversationalSearchInterface]] - Conway Part 2 branch.
 - [[Google]], [[LarryPage]], [[SergeyBrin]], [[PageRankSearchRelevance]], [[VentureSyndicateOrchestration]], and [[DistributionBeforeMonetization]] - Conway Part 3 branch where one outlier combines sourcing, validation, financing, and distribution help.

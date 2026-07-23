@@ -2,7 +2,7 @@
 title: "Founder Friendly Investor Support"
 type: concept
 tags: [startup, venture-capital, founder-support]
-sources: [tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-ronconway-part4-v2-tsr-ronconway-part4-v2, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]
+sources: [tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-ronconway-part4-v2-tsr-ronconway-part4-v2, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s4-ronconway-v4-tsr-s4-ronconway-v4, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]
 last_updated: 2026-07-23
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-23
 Founder friendly investor support is the investor behavior pattern where help is available, grounded, and low-friction rather than performative or extractive. [[tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]] adds the concept through [[DavidRusenko]]'s move from [[Weebly]] founder to [[LeapForward]] investor. Rusenko says there is a major difference between great and bad investors, and bad investors can be actively harmful.
 
 In the source, the preferred investor role is to support founders, let them focus, avoid unnecessary update burden, and be available when needed. That approach reflects Rusenko's own founder memory of company-building as long and painful, and it connects climate investing to practical operator coaching through [[JessicaAlter]], product judgment, go-to-market help, and capital sequencing.
+
+[[tsr-s4-ronconway-v4-tsr-s4-ronconway-v4]] adds the stated Conway principle behind the pattern: [[FounderAdvocacy]]. Conway says [[SVAngel]] is built around advocating for founders and investing in founders for life. The episode turns support into a relationship posture before the specific Google or Napster cases: defending founders publicly, staying close to them across companies, and using networks to help at the earliest stage.
 
 [[tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2]] adds [[RonConway]]'s [[Google]] version of the pattern. Conway helped [[LarryPage]] and [[SergeyBrin]] assemble [[KleinerPerkins]] and [[SequoiaCapital]], supported [[AOL]] and [[Yahoo]] distribution routes, introduced [[CindyMcCaffrey]], helped [[OmidKordestani]], and translated [[Gmail]] privacy concerns for political audiences. The source makes founder-friendly support concrete: help can be financing, distribution, recruiting, business development, or external narrative repair.
 
@@ -24,6 +26,7 @@ In the source, the preferred investor role is to support founders, let them focu
 - Availability matters most when founders hit painful or ambiguous operating moments.
 - Bad investors can damage a startup by increasing distraction, pressure, or confusion at the wrong time.
 - Helpful investors can create value after the check by opening strategic routes, introducing operators, and translating founder vision to skeptical outsiders.
+- Founder-friendly support begins with an advocacy stance: the investor sees defending and helping founders as part of the job, not as a side favor.
 - The most intense form of founder support may include mediation, employee protection, legal narrative, health access, and public-sector relationships.
 - Investor support can include resolving bureaucratic blockers and supplying financing when other capital sources pull back.
 
@@ -31,6 +34,7 @@ In the source, the preferred investor role is to support founders, let them focu
 - [[DavidRusenko]], [[LeapForward]], [[JessicaAlter]], and [[Weebly]] - source case.
 - [[FounderInvestorLearning]], [[InvestorReferenceChecking]], [[OutlierDrivenAngelInvesting]], [[WayfinderVentures]], and [[RonConway]] - adjacent investor-learning concepts and cases.
 - [[TheSocialRadars]] - source context for founder-to-investor memory.
+- [[FounderAdvocacy]], [[SVAngel]], [[BenRosen]], and [[InternetSoftwareThesis]] - Conway Part 2 stance and early internet method.
 - [[Google]], [[SVAngel]], [[LarryPage]], [[SergeyBrin]], [[VentureSyndicateOrchestration]], and [[DistributionBeforeMonetization]] - Conway Part 3 branch.
 - [[Napster]], [[SeanFanning]], [[SeanParker]], [[FounderCrisisMediation]], and [[EmployeeSeveranceAtShutdown]] - Conway Part 4 branch.
 - [[RyanPetersen]], [[Flexport]], [[RonConway]], and [[FoundersFund]] - license and fundraising support cases added by the Ryan Petersen episode.

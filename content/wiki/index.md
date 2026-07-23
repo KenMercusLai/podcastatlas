@@ -225,6 +225,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder Mode: Brian Chesky, Founder & CEO, Airbnb](sources/tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final.md) — The Social Radars YC offsite episode with Brian Chesky on founder mode, Airbnb's pandemic refounding, professional-manager drift, skip-level relationships, founder presence, and AI-era speed.
 - [Ron Conway on Napster, Founder Relationships, and SV Angel's Crisis Work](sources/tsr-ronconway-part4-v2-tsr-ronconway-part4-v2.md) — The Social Radars bonus episode with Ron Conway on Napster, Sean Fanning, Sean Parker, Hummer Winblad, Bertelsmann, Snowcap, Plaxo, GitHub, music-industry conflict, employee severance, and SV Angel's founder-crisis work.
 - [Ron Conway on Google's Early History and SV Angel's Role](sources/tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2.md) — The Social Radars episode with Ron Conway on Google, Backrub, PageRank, Stanford sourcing, Larry Page and Sergey Brin, early angels, Kleiner/Sequoia financing, AOL/Yahoo distribution, AdWords, Gmail politics, YouTube, Napster, and Susan Wojcicki.
+- [Ron Conway on Founder Advocacy, Angel Investing, and the Internet's First Wave](sources/tsr-s4-ronconway-v4-tsr-s4-ronconway-v4.md) — The Social Radars episode with Ron Conway on SV Angel's founder advocacy, Don Valentine mentorship, Ben Rosen, internet software investing, Netscape, open source cost collapse, Ask Jeeves, and pre-YC startup information networks.
 - [Drew Houston on Dropbox: Origin, Survival, and Reinvention](sources/tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5.md) — The Social Radars episode with Drew Houston on Dropbox's forgotten-thumb-drive origin, YC entry, Arash Ferdowsi, sync reliability, viral distribution, Sequoia seed funding, Apple/Google/Microsoft pressure, productivity focus, founder psychology, public-company control, and Dropbox Dash.
 - [Sam Altman on YC, OpenAI, and the Meaning of Formidable](sources/tsr-s4-samaltman-v4-tsr-s4-samaltman-v4.md) — The Social Radars episode with Sam Altman on Looped, YC's first batch, founder risk calibration, YC presidency, OpenAI's nonprofit origins, the language-model scaling bet, ChatGPT search, and the November 2023 OpenAI board crisis.
 - [Eric Migicovsky on Pebble, Kickstarter, and Building for Yourself](sources/tsr-s4-ericm-v2-tsr-s4-ericm-v2.md) — The Social Radars episode with Eric Migicovsky on Pebble's personal-problem origin, BlackBerry-era Impulse, Kickstarter breakout, Shenzhen manufacturing, inventory and venture-debt mistakes, product-vision drift, and Beeper as another build-for-yourself product.
@@ -1783,8 +1784,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Carta](entities/Carta.md) — Cap-table management incumbent contrasted with Pulley through founder access, late-stage workflow focus, and trust-sensitive switching after privacy and secondary-sale concerns.
 - [Prim](entities/Prim.md) — Yin Wu's same-day laundry delivery startup used as a case in doing the work, local-service operations, and the limit of solving one's own problem without durable user obsession.
 - [Echo Locker](entities/EchoLocker.md) — Lock-screen notification and priority-inbox product Yin Wu restarted around in YC Summer 2013 before Microsoft acquired it.
-- [Ron Conway](entities/RonConway.md) — Silicon Valley operator and investor whose Social Radars episodes trace National Semiconductor, Altos, Band of Angels, SV Angel, Google financing, and founder-helper investing.
-- [SV Angel](entities/SVAngel.md) — Ron Conway's investment firm, expanded through the Google episode as a case in Stanford sourcing, venture syndication, distribution help, and founder-friendly support.
+- [Ron Conway](entities/RonConway.md) — Silicon Valley operator and investor whose Social Radars episodes trace National Semiconductor, Altos, founder advocacy, internet software investing, Netscape, Ask Jeeves, Google financing, and founder-helper investing.
+- [SV Angel](entities/SVAngel.md) — Ron Conway's investment firm, expanded through founder advocacy, internet software sourcing, Netscape, Ask Jeeves, Google syndication, distribution help, and founder-friendly support.
+- [Ben Rosen](entities/BenRosen.md) — Ron Conway's early investing partner, bringing analyst and venture experience to the internet software thesis and Ask Jeeves investment.
+- [Natural Language Incorporated](entities/NaturalLanguageIncorporated.md) — Early Berkeley natural-language AI company that became Ron Conway's first angel investment.
+- [Netscape](entities/Netscape.md) — Browser company used by Conway as the case for making the internet usable, validating the web publicly, and lowering startup costs through open source.
+- [Mike Homer](entities/MikeHomer.md) — Netscape marketing and culture builder who connected Ron Conway to the Netscape ecosystem and browser-war context.
+- [Jim Clark](entities/JimClark.md) — Netscape founder figure who recognized the browser access layer and brought Mark Andreessen's browser work to Silicon Valley.
+- [Seven Rosen Venture Partners](entities/SevenRosenVenturePartners.md) — Venture firm tied to Ben Rosen's technology-market background before the Conway/Rosen internet software partnership.
 - [Larry Page](entities/LarryPage.md) — Google co-founder whose Conway Part 3 story links PageRank, search-quality metrics, hiring rigor, and distribution-aware financing.
 - [Sergey Brin](entities/SergeyBrin.md) — Google co-founder whose Conway Part 3 story links PageRank, the Kleiner/Sequoia round, and Gmail-era political translation.
 - [David Cheriton](entities/DavidCheriton.md) — Stanford professor and early Google backer who introduced Ron Conway to Backrub and made PageRank/relevance legible.
@@ -1798,7 +1805,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Salar Kamangar](entities/SalarKamangar.md) — Early Google operator credited by Ron Conway with the AdWords strategy that monetized search usage.
 - [AdWords](entities/AdWords.md) — Google advertising product presented in Conway Part 3 as the monetization bridge after search relevance and distribution.
 - [AOL](entities/AOL.md) — Pre-Google internet/search company and desired distribution partner behind Google's interest in Kleiner Perkins.
-- [Ask Jeeves](entities/AskJeeves.md) — Pre-Google search company used in Conway's account to show the crowded but relevance-poor search market.
+- [Ask Jeeves](entities/AskJeeves.md) — Early Conway/Rosen search investment whose Q&A-style interface preceded Google's relevance-centered search breakthrough.
 - [Cindy McCaffrey](entities/CindyMcCaffrey.md) — Google's first VP of marketing, introduced by SV Angel according to Ron Conway.
 - [Omid Kordestani](entities/OmidKordestani.md) — Early Google business-side leader whom Conway says SV Angel helped during the company-building phase.
 - [Eric Schmidt](entities/EricSchmidt.md) — Google CEO hire named in Conway's account as part of the company's post-financing governance and scaling path.
@@ -1819,7 +1826,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Altos Computer](entities/AltosComputer.md) — Early microcomputer company where Conway led sales and marketing, built distribution, reached an IPO, and later learned the cost of missing the PC wave.
 - [Dave Jackson](entities/DaveJackson.md) — Altos Computer founder who recruited Conway through National Semiconductor colleagues and built the company through the microcomputer timing window.
 - [Band of Angels](entities/BandOfAngels.md) — Early Bay Area angel-investor group of retired semiconductor executives that Conway says organized founder pitches and individual checks.
-- [Don Valentine](entities/DonValentine.md) — Sequoia Capital investor tied to Altos's board and IPO, later encouraging Conway to observe boards and try investing.
+- [Don Valentine](entities/DonValentine.md) — Sequoia Capital investor tied to Altos's board, IPO, Conway's board-observation apprenticeship, and later founder-mentorship model.
 - [Daniel Kan](entities/DanielKan.md) — Cruise co-founder added by Kyle Vogt after the company began as a solo-founded self-driving startup.
 - [General Motors](entities/GeneralMotors.md) — Automaker that acquired Cruise to pair startup autonomy work with capital, manufacturing, and vehicle-scaling capacity.
 - [Yuri Sagalov](entities/YuriSagalov.md) — AeroFS co-founder, YC visiting-partner alumnus, angel investor, and Wayfinder Ventures founder whose episode links technical-founder postmortem, founder-led sales, and investor judgment.
@@ -1839,7 +1846,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rippling](entities/Rippling.md) — Business-software company built around an employee graph, compound startup strategy, and automation-first operating discipline.
 - [David Sacks](entities/DavidSacks.md) — Zenefits CEO successor in Conrad's account of the compliance, media, and responsibility dispute.
 - [Andreessen Horowitz](entities/AndreessenHorowitz.md) — Venture firm appearing in Conrad's account through the network intervention that stopped orchestrated attacks.
-- [Mark Andreessen](entities/MarkAndreessen.md) — Andreessen Horowitz co-founder named in Conrad's account of the YC-network intervention.
+- [Mark Andreessen](entities/MarkAndreessen.md) — Netscape browser figure in Conway's internet history and Andreessen Horowitz co-founder named in Conrad's YC-network intervention account.
 - [Lanny Davis](entities/LannyDavis.md) — Crisis-communications figure Conrad says was involved in aggressive post-Zenefits media pressure.
 - [Mamoon Hamid](entities/MamoonHamid.md) — Kleiner Perkins investor who led Rippling's Series A in Conrad's account.
 - [Kleiner Perkins](entities/KleinerPerkins.md) — Venture firm tied to Rippling's Series A and Google's 1999 round, where its AOL relationship made it strategically useful.
@@ -4173,11 +4180,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Future-Oriented Fundraising Pitch](concepts/FutureOrientedFundraisingPitch.md) — Fundraising narrative discipline of making the company's future scale legible while staying grounded in current customer evidence.
 - [Public Fundraising Pitch](concepts/PublicFundraisingPitch.md) — Fundraising tactic of publishing a concise pitch publicly to create distribution, surface investor demand, and discover market pricing while preserving investor-selection discipline.
 - [Founder Resilience](concepts/FounderResilience.md) — Practical ability to keep learning, rebuilding, selling, and serving customers through repeated setbacks without confusing persistence with denial.
+- [Founder Advocacy](concepts/FounderAdvocacy.md) — Investor stance where defending and helping founders is treated as part of the job rather than a courtesy after the check.
 - [Relationship-Led Sales](concepts/RelationshipLedSales.md) — Sales pattern where authentic customer trust and technical delivery reinforce each other in competitive markets.
 - [Self-Disruption Discipline](concepts/SelfDisruptionDiscipline.md) — Operating habit of treating the next platform shift as a threat even after winning the previous disruption wave.
 - [Semiconductor Talent Genealogy](concepts/SemiconductorTalentGenealogy.md) — Silicon Valley talent-transfer pattern where semiconductor operators carried technical, sales, equity, and management norms into hardware, software, and later AI layers.
 - [Organized Angel Investor Networks](concepts/OrganizedAngelInvestorNetworks.md) — Early-stage investing structure where recurring meetings, trusted operators, founder pitches, and individual checks make angel investing repeatable.
 - [Equity Compensation Upside](concepts/EquityCompensationUpside.md) — Startup and technology-company compensation pattern where employee ownership can create major upside when timing and company trajectory align.
+- [Internet Software Thesis](concepts/InternetSoftwareThesis.md) — Conway/Rosen investing filter that narrowed early deal flow to internet software before the category was obviously large.
+- [Startup Information Layer](concepts/StartupInformationLayer.md) — Pre-accelerator sourcing layer of analysts, journalists, conferences, trade media, and platform-company relationships.
+- [Browser As Internet Unlock](concepts/BrowserAsInternetUnlock.md) — Platform-sequencing idea that a simple browser interface made the internet legible before search became the next bottleneck.
+- [Netscape Platform Ecosystem](concepts/NetscapePlatformEcosystem.md) — Pattern where Netscape mattered as a platform hub for talent, public validation, downstream startups, and investor proximity.
+- [Open Source Startup Cost Collapse](concepts/OpenSourceStartupCostCollapse.md) — Early-internet infrastructure shift where shared open-source components reduced the capital needed to start software companies.
+- [Conversational Search Interface](concepts/ConversationalSearchInterface.md) — Ask Jeeves-style search framing where users express intent as questions before relevance technology becomes dominant.
 - [PageRank Search Relevance](concepts/PageRankSearchRelevance.md) — Historical Google search-quality breakthrough where link-based ranking made relevance visibly better in a crowded search market.
 - [Stanford Startup Sourcing](concepts/StanfordStartupSourcing.md) — Investor practice of building trusted Stanford professor relationships to discover technical startups before ordinary deal channels.
 - [Venture Syndicate Orchestration](concepts/VentureSyndicateOrchestration.md) — Fundraising pattern where founders and trusted intermediaries assemble investors for strategic distribution and credibility, not only capital.

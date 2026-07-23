@@ -2,13 +2,15 @@
 title: "Ron Conway"
 type: entity
 tags: [person, startups, venture-capital, silicon-valley]
-sources: [tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tsr-ronconway-part4-v2-tsr-ronconway-part4-v2, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
+sources: [tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tsr-ronconway-part4-v2-tsr-ronconway-part4-v2, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s4-ronconway-v4-tsr-s4-ronconway-v4, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
 last_updated: 2026-07-23
 ---
 
 # Ron Conway
 
 Ron Conway is the Silicon Valley operator and investor interviewed in [[tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final]]. The episode is framed as the first of several chronological conversations and focuses on the pre-[[SVAngel]] apprenticeship that shaped his later angel-investor role: a large San Francisco family, early work, [[NationalSemiconductor]], [[AltosComputer]], a software-training business, [[DonValentine]]'s board-observation advice, and [[BandOfAngels]].
+
+[[tsr-s4-ronconway-v4-tsr-s4-ronconway-v4]] fills the next chronological chapter. Conway describes [[FounderAdvocacy]] as [[SVAngel]]'s mantra, says the firm invests in founders for life, recalls [[NaturalLanguageIncorporated]] as his first angel investment, and explains how [[DonValentine]]'s board mentorship helped him choose the earliest stage rather than another operating role. The same source moves him into the internet era through [[BenRosen]], the [[InternetSoftwareThesis]], [[StartupInformationLayer]], [[Netscape]], [[MikeHomer]], [[OpenSourceStartupCostCollapse]], and [[AskJeeves]].
 
 [[tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2]] adds Conway's [[Google]] and [[SVAngel]] era. Conway says [[SVAngel]] found Google through [[StanfordStartupSourcing]] via [[DavidCheriton]], recognized [[PageRankSearchRelevance]] as the answer to a crowded search market, used [[BobBozeman]] for quick technical validation, and helped [[LarryPage]] and [[SergeyBrin]] assemble [[KleinerPerkins]] and [[SequoiaCapital]] through [[VentureSyndicateOrchestration]].
 
@@ -32,6 +34,8 @@ At Altos, Conway joined an extremely early-stage company, received 2% equity, he
 - [[NationalSemiconductor]], [[CharlieSporck]], and [[RelationshipLedSales]] - first Silicon Valley operating apprenticeship.
 - [[AltosComputer]], [[DaveJackson]], [[SequoiaCapital]], [[DonValentine]], and [[SelfDisruptionDiscipline]] - microcomputer company-building and missed platform shift.
 - [[BandOfAngels]], [[OrganizedAngelInvestorNetworks]], [[FounderInvestorLearning]], and [[OutlierDrivenAngelInvesting]] - move from operator to founder-helper investor.
+- [[NaturalLanguageIncorporated]], [[BenRosen]], [[InternetSoftwareThesis]], and [[StartupInformationLayer]] - Part 2 bridge from early angel experiments to focused internet investing.
+- [[Netscape]], [[MikeHomer]], [[BrowserAsInternetUnlock]], [[NetscapePlatformEcosystem]], [[OpenSourceStartupCostCollapse]], [[AskJeeves]], and [[ConversationalSearchInterface]] - internet first-wave branch added by Part 2.
 - [[Google]], [[LarryPage]], [[SergeyBrin]], [[DavidCheriton]], [[RamShriram]], [[KleinerPerkins]], and [[SequoiaCapital]] - early Google sourcing and financing branch.
 - [[PageRankSearchRelevance]], [[StanfordStartupSourcing]], [[VentureSyndicateOrchestration]], [[DistributionBeforeMonetization]], and [[FounderFriendlyInvestorSupport]] - concepts added or extended by the Google episode.
 - [[Gmail]], [[YouTube]], [[Napster]], and [[LegalRiskAcquirerFit]] - later political, media, and acquisition-risk stories.

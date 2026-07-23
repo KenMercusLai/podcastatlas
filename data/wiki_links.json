@@ -2763,6 +2763,10 @@
     "title": "Ben Parr",
     "url": "/wiki/entities/benparr/"
   },
+  "BenRosen": {
+    "title": "Ben Rosen",
+    "url": "/wiki/entities/benrosen/"
+  },
   "BenSchifrin": {
     "title": "Ben Schifrin",
     "url": "/wiki/entities/benschifrin/"
@@ -3130,6 +3134,10 @@
   "BrothersGrimm": {
     "title": "格林兄弟 / Brothers Grimm",
     "url": "/wiki/entities/brothersgrimm/"
+  },
+  "BrowserAsInternetUnlock": {
+    "title": "Browser As Internet Unlock",
+    "url": "/wiki/concepts/browserasinternetunlock/"
   },
   "BrushUpLife": {
     "title": "重启人生 / Brush Up Life",
@@ -4538,6 +4546,10 @@
   "ConvectiveCapital": {
     "title": "Convective Capital",
     "url": "/wiki/entities/convectivecapital/"
+  },
+  "ConversationalSearchInterface": {
+    "title": "Conversational Search Interface",
+    "url": "/wiki/concepts/conversationalsearchinterface/"
   },
   "ConvexityExposure": {
     "title": "Convexity Exposure",
@@ -6995,6 +7007,10 @@
     "title": "Foundational Economies",
     "url": "/wiki/concepts/foundationaleconomies/"
   },
+  "FounderAdvocacy": {
+    "title": "Founder Advocacy",
+    "url": "/wiki/concepts/founderadvocacy/"
+  },
   "FounderAgreementDocumentation": {
     "title": "Founder Agreement Documentation",
     "url": "/wiki/concepts/founderagreementdocumentation/"
@@ -9151,6 +9167,10 @@
     "title": "Internet Risk-Avoidance Trap",
     "url": "/wiki/concepts/internetriskavoidancetrap/"
   },
+  "InternetSoftwareThesis": {
+    "title": "Internet Software Thesis",
+    "url": "/wiki/concepts/internetsoftwarethesis/"
+  },
   "InternshipAsCareerExploration": {
     "title": "Internship As Career Exploration",
     "url": "/wiki/concepts/internshipascareerexploration/"
@@ -9626,6 +9646,10 @@
   "JieDechen": {
     "title": "Jie Dechen",
     "url": "/wiki/entities/jiedechen/"
+  },
+  "JimClark": {
+    "title": "Jim Clark",
+    "url": "/wiki/entities/jimclark/"
   },
   "JimHarkness": {
     "title": "Jim Harkness",
@@ -11983,6 +12007,10 @@
     "title": "蜜獾吃书",
     "url": "/wiki/entities/mihuanchishu/"
   },
+  "MikeHomer": {
+    "title": "Mike Homer",
+    "url": "/wiki/entities/mikehomer/"
+  },
   "MikeIsaac": {
     "title": "Mike Isaac",
     "url": "/wiki/entities/mikeisaac/"
@@ -12543,6 +12571,10 @@
     "title": "Natural Hazard As Social Disaster",
     "url": "/wiki/concepts/naturalhazardsocialdisaster/"
   },
+  "NaturalLanguageIncorporated": {
+    "title": "Natural Language Incorporated",
+    "url": "/wiki/entities/naturallanguageincorporated/"
+  },
   "NaturalSelection": {
     "title": "Natural Selection / 自然选择",
     "url": "/wiki/entities/naturalselection/"
@@ -12610,6 +12642,14 @@
   "Netflix": {
     "title": "Netflix",
     "url": "/wiki/entities/netflix/"
+  },
+  "Netscape": {
+    "title": "Netscape",
+    "url": "/wiki/entities/netscape/"
+  },
+  "NetscapePlatformEcosystem": {
+    "title": "Netscape Platform Ecosystem",
+    "url": "/wiki/concepts/netscapeplatformecosystem/"
   },
   "NeuralGeometry": {
     "title": "Neural Geometry",
@@ -13074,6 +13114,10 @@
   "OpenSourceInfrastructureTrust": {
     "title": "Open Source Infrastructure Trust",
     "url": "/wiki/concepts/opensourceinfrastructuretrust/"
+  },
+  "OpenSourceStartupCostCollapse": {
+    "title": "Open Source Startup Cost Collapse",
+    "url": "/wiki/concepts/opensourcestartupcostcollapse/"
   },
   "OpenWebTrafficDecline": {
     "title": "Open Web Traffic Decline",
@@ -15783,6 +15827,10 @@
     "title": "《七咒赋》 / The Seven Geases",
     "url": "/wiki/entities/sevengeases/"
   },
+  "SevenRosenVenturePartners": {
+    "title": "Seven Rosen Venture Partners",
+    "url": "/wiki/entities/sevenrosenventurepartners/"
+  },
   "SevenSistersOilMajors": {
     "title": "Seven Sisters Oil Majors",
     "url": "/wiki/entities/sevensistersoilmajors/"
@@ -16614,6 +16662,10 @@
   "StartupHighBetaBet": {
     "title": "Startup High-Beta Bet",
     "url": "/wiki/concepts/startuphighbetabet/"
+  },
+  "StartupInformationLayer": {
+    "title": "Startup Information Layer",
+    "url": "/wiki/concepts/startupinformationlayer/"
   },
   "StartupInfrastructureImprovisation": {
     "title": "Startup Infrastructure Improvisation",
@@ -21022,6 +21074,10 @@
   "tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2": {
     "title": "Ron Conway on Google's Early History and SV Angel's Role",
     "url": "/wiki/sources/tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2/"
+  },
+  "tsr-s4-ronconway-v4-tsr-s4-ronconway-v4": {
+    "title": "Ron Conway on Founder Advocacy, Angel Investing, and the Internet's First Wave",
+    "url": "/wiki/sources/tsr-s4-ronconway-v4-tsr-s4-ronconway-v4/"
   },
   "tsr-s4-samaltman-v4-tsr-s4-samaltman-v4": {
     "title": "Sam Altman on YC, OpenAI, and the Meaning of Formidable",

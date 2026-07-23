@@ -2,8 +2,8 @@
 title: "Founder-Investor Learning"
 type: concept
 tags: [startup, venture-capital, founders]
-sources: [tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s4-harj-v3-tsr-s4-harj-v3, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, socialradarspod-paulb-final, tsr-s2-trevorblackwell-v2, socialradarspod-brianarmstrong-final]
-last_updated: 2026-07-12
+sources: [tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s4-ronconway-v4-tsr-s4-ronconway-v4, tsr-s4-harj-v3-tsr-s4-harj-v3, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, socialradarspod-paulb-final, tsr-s2-trevorblackwell-v2, socialradarspod-brianarmstrong-final]
+last_updated: 2026-07-23
 ---
 
 # Founder-Investor Learning
@@ -24,6 +24,8 @@ The concept explains why early YC was not only capital allocation. It combined s
 
 [[tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final]] adds a pre-YC version through [[RonConway]] and [[DonValentine]]. After Conway decided he did not want another operating role, Valentine invited him to observe boards and see how founders received advice. Conway's later excitement about advising founders, advocating for them, and helping with customers turns operator experience into investor work before it becomes a formal [[SVAngel]] identity.
 
+[[tsr-s4-ronconway-v4-tsr-s4-ronconway-v4]] extends that bridge. Conway's first angel investment in [[NaturalLanguageIncorporated]], return to [[AltosComputer]], friendship with [[DonValentine]], and partnership with [[BenRosen]] show founder-investor learning becoming a method: choose the earliest stage, build the [[InternetSoftwareThesis]], use the [[StartupInformationLayer]], and convert operating relationships into practical help for founders.
+
 [[tsr-s4-harj-v3-tsr-s4-harj-v3]] adds [[HarjTaggar]] as an accelerator-operator version. Harj first experienced [[YCombinator]] as a young founder, then returned around the Winter 2010 batch to help with selection, founder workload, and investor relationships. His informal "bus inspector" role shows founder-investor learning as institution labor: an alumnus translates founder context to investors, filters distracting meetings, and helps [[YuriMilner]]'s batch-wide funding offer become part of YC's capital-access infrastructure.
 
 [[tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2]] adds Conway's mature [[SVAngel]] version through [[Google]]. The source shows investor learning becoming active deal work: building [[StanfordStartupSourcing]], recognizing [[PageRankSearchRelevance]], testing the product through [[BobBozeman]], orchestrating [[KleinerPerkins]] and [[SequoiaCapital]], and helping with later company needs.
@@ -40,6 +42,7 @@ The concept explains why early YC was not only capital allocation. It combined s
 - Early investor belief can change founder psychology before it changes company economics.
 - Board observation and customer-helping can teach an operator how to advise founders without taking over the company.
 - Alumni operators can become institutional translators when a startup community needs investors to understand that its internal quality has changed.
+- Operator-to-investor learning can become a category method when the investor narrows focus and builds an information network around a platform shift.
 - Mature founder-investor learning can look like network design and execution, not only advice: the investor may need to source, validate, syndicate, recruit, and translate.
 
 ## Connections
@@ -53,5 +56,6 @@ The concept explains why early YC was not only capital allocation. It combined s
 - [[GarryTan]], [[Posterous]], [[InitializedCapital]], [[Bookface]], [[FounderHonesty]], and [[StartupCommunityInfrastructure]] - founder, investor, and institution-builder branch added by the Tan episode.
 - [[BrianArmstrong]], [[Coinbase]], [[StartupHighBetaBet]], and [[FounderMotivationEvolution]] - Armstrong episode branch where YC validation and coaching help a founder commit.
 - [[RonConway]], [[DonValentine]], [[AltosComputer]], [[BandOfAngels]], and [[OrganizedAngelInvestorNetworks]] - Conway episode branch where operator experience becomes investor advice.
+- [[NaturalLanguageIncorporated]], [[BenRosen]], [[InternetSoftwareThesis]], [[StartupInformationLayer]], and [[FounderAdvocacy]] - Conway Part 2 branch where early angel practice becomes a focused internet method.
 - [[HarjTaggar]], [[YuriMilner]], [[StartupLegitimacyTransfer]], and [[StartupCommunityInfrastructure]] - YC investor-relations branch added by the Harj Taggar episode.
 - [[SVAngel]], [[Google]], [[StanfordStartupSourcing]], [[VentureSyndicateOrchestration]], and [[FounderFriendlyInvestorSupport]] - Conway Part 3 branch.
