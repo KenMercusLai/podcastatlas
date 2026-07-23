@@ -3878,6 +3878,10 @@ Added source page for the Marketplace Tech episode with David Brancaccio on rebu
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-23] ingest | Dark times for Cuba's economic experiment
+
+Added source page for the Planet Money episode on Cuba's dual economic strategy, external oil patronage, constrained market reform, tourism dependence, U.S. sanctions and oil pressure, blackouts, and Yaser Gonzalez Cabrera's City Cleta bike-tour business. Created pages for Cuba, Havana, Yaser Gonzalez Cabrera, City Cleta, Ricardo Torres, Fidel Castro, Raul Castro, Soviet Union, Cuban Dual Economic Strategy, External Patron Dependence, Constrained Market Reform, Tourism-Dependent Small Economy, and Oil Dependency Blackout Risk; updated overview, index, NPR, Planet Money, United States, Venezuela, China, Barack Obama, Donald Trump, Economic Sanctions As Violence, Economic Hardship Protest Trigger, and Commodity Price Exposure. No direct contradiction found; the episode's 2026 oil-pressure and Venezuela claims are kept source-scoped.
+
 ## [2026-07-23] ingest | Gusto Co-Founders: Josh Reeves, Edward Kim & Tomer London
 
 Added source page for The Social Radars episode with Gusto co-founders Josh Reeves, Eddie Kim, and Tomer London on ZenPayroll, small-business payroll pain, a narrow regulated workflow wedge, co-founder relationship maintenance, values, COVID support, SVB payroll continuity, and Gusto's broader entrepreneurship-platform ambition. Created pages for Gusto, ZenPayroll, Josh Reeves, Eddie Kim, Tomer London, Pickwing, Payroll Infrastructure Trust, Regulated Workflow Wedge, and Co-Founder Relationship Maintenance; updated overview, index, The Social Radars, Y Combinator, Silicon Valley Bank, Operational Pain Founder Insight, Customer Discovery By Doing Work, Unscalable Founder Work, Founder Product Fit, Values As Operational Asset, Co-Founder Conflict, Co-Founder Alignment Loop, Trust As Business Asset, Financial Operations Resilience, Crisis Stakeholder Leadership, SaaS Trust Moat, Trust-Heavy Infrastructure Sales, Compliance Automation, and Entrepreneurship Infrastructure. No direct contradiction found; the source adds a positive payroll-infrastructure case beside the wiki's Zenefits/Rippling branch.
@@ -4146,3 +4150,7 @@ Added source page for the Marketplace Tech episode with Megan McCarty-Carino and
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 5,475 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used stale `graph/graph.json` data built on 2026-07-18 with 4,998 nodes while the wiki scan found 5,475 pages; they found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint failed because `LLM_MODEL` is not provider-qualified for LiteLLM and no provider key variables are present; a bounded in-session review of the orphan pages and fragile-bridge endpoints found no direct contradictions and identified natural inbound-link candidates. Report returned in-session; `wiki/lint-report.md` was not saved.

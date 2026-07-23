@@ -4139,6 +4139,10 @@
     "title": "Citizen Science",
     "url": "/wiki/concepts/citizenscience/"
   },
+  "CityCleta": {
+    "title": "City Cleta",
+    "url": "/wiki/entities/citycleta/"
+  },
   "CityCommercialObservation": {
     "title": "City Commercial Observation",
     "url": "/wiki/concepts/citycommercialobservation/"
@@ -4535,6 +4539,10 @@
     "title": "Constitutional Robustness",
     "url": "/wiki/concepts/constitutionalrobustness/"
   },
+  "ConstrainedMarketReform": {
+    "title": "Constrained Market Reform",
+    "url": "/wiki/concepts/constrainedmarketreform/"
+  },
   "ConstraintDrivenEngineeringStrategy": {
     "title": "Constraint Driven Engineering Strategy",
     "url": "/wiki/concepts/constraintdrivenengineeringstrategy/"
@@ -4902,6 +4910,14 @@
   "Ctrip": {
     "title": "Ctrip / Trip.com Group",
     "url": "/wiki/entities/ctrip/"
+  },
+  "Cuba": {
+    "title": "Cuba",
+    "url": "/wiki/entities/cuba/"
+  },
+  "CubanDualEconomicStrategy": {
+    "title": "Cuban Dual Economic Strategy",
+    "url": "/wiki/concepts/cubandualeconomicstrategy/"
   },
   "CulinaryGrammar": {
     "title": "Culinary Grammar",
@@ -6539,6 +6555,10 @@
     "title": "Expertise-Amplified AI Use",
     "url": "/wiki/concepts/expertiseamplifiedaiuse/"
   },
+  "ExternalPatronDependence": {
+    "title": "External Patron Dependence",
+    "url": "/wiki/concepts/externalpatrondependence/"
+  },
   "ExternalityInternalization": {
     "title": "Externality Internalization",
     "url": "/wiki/concepts/externalityinternalization/"
@@ -6826,6 +6846,10 @@
   "FestivalFoodMaterialHistory": {
     "title": "Festival Food Material History",
     "url": "/wiki/concepts/festivalfoodmaterialhistory/"
+  },
+  "FidelCastro": {
+    "title": "Fidel Castro",
+    "url": "/wiki/entities/fidelcastro/"
   },
   "Fidelity": {
     "title": "Fidelity",
@@ -8426,6 +8450,10 @@
   "HassanBenchikran": {
     "title": "Hassan Benchikran",
     "url": "/wiki/entities/hassanbenchikran/"
+  },
+  "Havana": {
+    "title": "Havana",
+    "url": "/wiki/entities/havana/"
   },
   "HayFeverEnvironmentalHistory": {
     "title": "Hay Fever Environmental History",
@@ -13207,6 +13235,10 @@
     "title": "Ohayoo",
     "url": "/wiki/entities/ohayoo/"
   },
+  "OilDependencyBlackoutRisk": {
+    "title": "Oil Dependency Blackout Risk",
+    "url": "/wiki/concepts/oildependencyblackoutrisk/"
+  },
   "OilProducerSupplyCoordination": {
     "title": "Oil Producer Supply Coordination",
     "url": "/wiki/concepts/oilproducersupplycoordination/"
@@ -14947,6 +14979,10 @@
     "title": "Rationalist Method",
     "url": "/wiki/concepts/rationalistmethod/"
   },
+  "RaulCastro": {
+    "title": "Raul Castro",
+    "url": "/wiki/entities/raulcastro/"
+  },
   "RayBanSmartGlasses": {
     "title": "Ray-Ban Smart Glasses",
     "url": "/wiki/entities/raybansmartglasses/"
@@ -15338,6 +15374,10 @@
   "RhondaConger": {
     "title": "Rhonda Conger",
     "url": "/wiki/entities/rhondaconger/"
+  },
+  "RicardoTorres": {
+    "title": "Ricardo Torres",
+    "url": "/wiki/entities/ricardotorres/"
   },
   "RichAberman": {
     "title": "Rich Aberman",
@@ -16762,6 +16802,10 @@
   "SouthKorea": {
     "title": "South Korea / 韩国",
     "url": "/wiki/entities/southkorea/"
+  },
+  "SovietUnion": {
+    "title": "Soviet Union",
+    "url": "/wiki/entities/sovietunion/"
   },
   "SpaceBasedAIInfrastructure": {
     "title": "Space Based AI Infrastructure",
@@ -18214,6 +18258,10 @@
   "TouchNet": {
     "title": "TouchNet",
     "url": "/wiki/concepts/touchnet/"
+  },
+  "TourismDependentSmallEconomy": {
+    "title": "Tourism-Dependent Small Economy",
+    "url": "/wiki/concepts/tourismdependentsmalleconomy/"
   },
   "TourismTrafficMismatch": {
     "title": "Tourism Traffic Mismatch",
@@ -19811,6 +19859,10 @@
     "title": "姚欣 / Yao Xin",
     "url": "/wiki/entities/yaoxin/"
   },
+  "YaserGonzalezCabrera": {
+    "title": "Yaser Gonzalez Cabrera",
+    "url": "/wiki/entities/yasergonzalezcabrera/"
+  },
   "YeBowen": {
     "title": "Ye Bowen",
     "url": "/wiki/entities/yebowen/"
@@ -20494,6 +20546,10 @@
   "dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun": {
     "title": "当“印钞机”百度开始失血，是天灾还是人祸？",
     "url": "/wiki/sources/dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun/"
+  },
+  "dark-times-for-cubas-economic-experiment": {
+    "title": "Dark times for Cuba's economic experiment",
+    "url": "/wiki/sources/dark-times-for-cubas-economic-experiment/"
   },
   "dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d": {
     "title": "Dhaka matters: an election for Bangladesh",

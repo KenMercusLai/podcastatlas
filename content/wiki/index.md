@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Dark times for Cuba's economic experiment](sources/dark-times-for-cubas-economic-experiment.md) — Planet Money episode on Cuba's dual economic strategy, Soviet/Venezuela oil dependence, controlled market reform, tourism collapse, U.S. sanctions and pressure, blackouts, and Yaser Gonzalez Cabrera's City Cleta bike-tour business.
 - [Unraveling the complex knot of an AI-generated hoax](sources/tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128.md) — Marketplace Tech episode with Casey Newton on a viral Reddit hoax, AI-generated badge/document evidence, Gemini/SynthID detection, and outrage-triggered verification habits.
 - [Welcome to the 'infocalypse'](sources/tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128.md) — Marketplace Tech episode with Aviv Ovadia on AI-intensified information collapse, verification costs, content credentials, reality apathy, and democratic institutions resilient to synthetic media.
 - [Bytes: Week in Review - New chip exports for China, Microsoft to pay electricity for AI data centers, and Gemini will power Apple's AI](sources/tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Anita Ramaswamy on Nvidia H200 exports to China, Microsoft's data-center electricity-cost pledge, local backlash, and Apple using Gemini for advanced Siri.
@@ -516,6 +517,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Cuba](entities/Cuba.md) — Country case for a dual economic strategy built from external oil patronage, constrained market reform, tourism, sanctions pressure, blackouts, inequality, and migration.
+- [Havana](entities/Havana.md) — Cuban city setting for Yaser Gonzalez Cabrera's City Cleta bike-tour business and the tourism-collapse effects of Cuba's crisis.
+- [Yaser Gonzalez Cabrera](entities/YaserGonzalezCabrera.md) — Havana bike-tour operator whose City Cleta business makes Cuba's tourism collapse, blackouts, and fuel shortages concrete.
+- [City Cleta](entities/CityCleta.md) — Havana bike-tour company used as the episode's private-enterprise case inside Cuba's constrained market opening.
+- [Ricardo Torres](entities/RicardoTorres.md) — Cuban economist who explains Cuba's long movement between external patron dependence and constrained market reform.
+- [Fidel Castro](entities/FidelCastro.md) — Cuban revolutionary leader whose post-1959 state-led system begins the episode's account of Cuba's economic experiment.
+- [Raul Castro](entities/RaulCastro.md) — Cuban leader associated in the episode with broader but still constrained private-sector reforms.
+- [Soviet Union](entities/SovietUnion.md) — Historical external patron whose cheap oil and favorable trade terms helped sustain Cuba before the Special Period.
 - [Casey Newton](entities/CaseyNewton.md) — Platformer journalist whose Marketplace Tech account grounds AI-generated hoax evidence and newsroom verification costs.
 - [Platformer](entities/Platformer.md) — Technology publication context for Casey Newton's investigation of a viral AI-generated evidence hoax.
 - [SynthID](entities/SynthID.md) — Google watermarking/provenance signal that helped identify a suspect badge as Gemini-generated in the Marketplace Tech hoax episode.
@@ -3330,6 +3339,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Cuban Dual Economic Strategy](concepts/CubanDualEconomicStrategy.md) — Cuba-specific pattern combining external socialist patronage with selective market openings in tourism and private enterprise.
+- [External Patron Dependence](concepts/ExternalPatronDependence.md) — Vulnerability created when a country relies on favorable oil, trade, aid, or political support from a larger ally.
+- [Constrained Market Reform](concepts/ConstrainedMarketReform.md) — Limited legalization of private business activity while the state keeps markets subordinate to the state sector.
+- [Tourism-Dependent Small Economy](concepts/TourismDependentSmallEconomy.md) — Small-economy exposure where visitor flows become a major growth engine and shock channel.
+- [Oil Dependency Blackout Risk](concepts/OilDependencyBlackoutRisk.md) — Energy cascade where disrupted oil access causes blackouts, transport friction, food-storage risk, communication failure, and business breakdown.
 - [AI-Generated Hoax Evidence](concepts/AIGeneratedHoaxEvidence.md) — Fabricated badges, documents, screenshots, or narratives that make false online claims look professionally corroborated.
 - [Outrage-Triggered Skepticism](concepts/OutrageTriggeredSkepticism.md) — Media-literacy habit of treating anger or instant moral satisfaction as a signal to verify before believing or sharing.
 - [Gray-Market Peptides](concepts/GrayMarketPeptides.md) — Injectable peptide compounds bought outside approved drug channels, often through research-chemical labeling and personal self-injection.

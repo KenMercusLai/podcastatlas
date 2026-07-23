@@ -2,7 +2,7 @@
 title: "Barack Obama"
 type: entity
 tags: [person, politics, publishing, media]
-sources: [tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, iran-protests-and-sanctions, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab]
+sources: [dark-times-for-cubas-economic-experiment, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, iran-protests-and-sanctions, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab]
 last_updated: 2026-07-23
 ---
 
@@ -18,6 +18,8 @@ Barack Obama appears in [[ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-
 
 [[iran-protests-and-sanctions]] adds Obama through the 2015 Iran nuclear deal. The [[PlanetMoney]] episode treats the agreement as the strongest case that [[IranSanctions]] can produce diplomatic leverage, while also showing that relief was weakened by [[SanctionsOvercompliance]] and later policy reversal.
 
+[[dark-times-for-cubas-economic-experiment]] adds Obama through the Cuba opening. The [[PlanetMoney]] episode says Obama loosened trade and travel restrictions, visited [[Cuba]] in 2016, and helped create a brief tourism boom in which private businesses such as [[CityCleta]] could imagine a viable future.
+
 ## Source Position
 - The hosts use Obama to distinguish post-presidency status monetization from active office-linked conflicts.
 - The Dan Siroker source treats the 2008 Obama campaign as an experimentation and fundraising context rather than as a biography of Obama himself.
@@ -26,6 +28,7 @@ Barack Obama appears in [[ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-
 - The Gulf-co-operation source treats Obama as part of a democratic-history sequence rather than as a commercial-status case.
 - The Burnham source treats Obama as a presidential-memory case whose museum may delight supporters without persuading critics.
 - The Planet Money source treats Obama as the administration context for sanctions-backed [[USIranNuclearDiplomacy]] rather than as a biographical subject.
+- The Cuba source treats Obama as the policy-opening actor whose travel loosening made [[TourismDependentSmallEconomy]] opportunity more visible.
 
 ## Connections
 - [[PoliticalIdentityPremium]] — post-office media and publishing premium.
@@ -34,3 +37,4 @@ Barack Obama appears in [[ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-
 - [[ObamaPresidentialCenter]] and [[PresidentialMemorialCulture]] — museum and public-memory branch added by The Intelligence.
 - [[IranSanctions]], [[USIranNuclearDiplomacy]], and [[SanctionsOvercompliance]] - nuclear-deal branch added by Planet Money.
 - [[DanSiroker]], [[Optimizely]], [[ABTestingForMarketers]], and [[DataDrivenProductCulture]] - campaign testing branch added by The Social Radars.
+- [[Cuba]], [[Havana]], [[CityCleta]], and [[TourismDependentSmallEconomy]] - Cuba travel-opening branch added by Planet Money.
