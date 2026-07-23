@@ -2,8 +2,8 @@
 title: "Sequoia Capital"
 type: entity
 tags: [company, venture-capital, startups]
-sources: [tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky2-final]
-last_updated: 2026-07-12
+sources: [tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky2-final]
+last_updated: 2026-07-23
 ---
 
 # Sequoia Capital
@@ -22,6 +22,8 @@ In this source, Sequoia is not analyzed as a firm in depth. Its role is symbolic
 
 [[tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2]] adds Sequoia through [[Google]]'s 1999 financing. [[LarryPage]] and [[SergeyBrin]] wanted Sequoia because of its [[Yahoo]] relationship, while they wanted [[KleinerPerkins]] because of its [[AOL]] relationship. [[RonConway]] says he and [[RamShriram]] helped get both firms into the same round despite initial resistance, making Sequoia part of a [[VentureSyndicateOrchestration]] case rather than only a capital provider.
 
+[[tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio]] adds Sequoia as an early credibility setting for [[BoomSupersonic]]. Scholl says he gathered aerospace candidates in a Sequoia conference room so they could diligence one another and decide whether the company was serious enough to join, making the firm a venue for [[RecursiveExpertRecruiting]] and [[StartupLegitimacyTransfer]] rather than only a capital source.
+
 ## Connections
 - [[YCombinator]], [[SummerFoundersProgram]], and [[StartupAcceleratorBatchSelection]] - accelerator context.
 - [[SamAltman]] - founder/investor-network example named in the source.
@@ -32,3 +34,4 @@ In this source, Sequoia is not analyzed as a firm in depth. Its role is symbolic
 - [[Dropbox]], [[DrewHouston]], [[ArashFerdowsi]], [[PejmanNozad]], and [[MikeMoritz]] - seed-round context added by the Drew Houston episode.
 - [[Google]], [[LarryPage]], [[SergeyBrin]], [[RonConway]], [[RamShriram]], [[KleinerPerkins]], and [[Yahoo]] - Google financing context added by the Conway Part 3 episode.
 - [[VentureSyndicateOrchestration]] and [[DistributionBeforeMonetization]] - concepts grounded by the Google round.
+- [[BlakeScholl]], [[BoomSupersonic]], [[RecursiveExpertRecruiting]], and [[StartupLegitimacyTransfer]] - early aviation recruiting and credibility context added by the Blake Scholl episode.

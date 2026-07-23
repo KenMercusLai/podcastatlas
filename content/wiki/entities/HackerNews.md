@@ -2,7 +2,7 @@
 title: "Hacker News"
 type: entity
 tags: [product, online-community, startups, y-combinator]
-sources: [tsr-s3-replit-v2-tsr-s3-replit-v2, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianarmstrong-final]
+sources: [tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-replit-v2-tsr-s3-replit-v2, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianarmstrong-final]
 last_updated: 2026-07-23
 ---
 
@@ -16,6 +16,8 @@ The source makes Hacker News a compact case for [[StartupCommunityForumBurden]].
 
 [[tsr-s3-replit-v2-tsr-s3-replit-v2]] adds Hacker News as an early distribution and validation surface for [[Replit]]. [[AmjadMasad]] says he open sourced his Python-in-the-browser work and posted it to Hacker News in 2011, where it went viral; later, [[PaulGraham]] had also found Replit there before emailing Amjad about the future of programming.
 
+[[tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio]] adds Hacker News as an early public skepticism surface for [[BoomSupersonic]]. Scholl says a Bloomberg photo of an early cardboard mockup drew dismissive Hacker News comments, while later [[VirginGroup]], [[YCombinator]], and [[PaulGraham]] signals helped move Boom from ridicule toward investor credibility.
+
 ## Connections
 - [[PaulGraham]] and [[YCombinator]] - founder and institutional context.
 - [[StartupCommunityForumBurden]] - concept grounded by Graham's warning about forums.
@@ -23,3 +25,4 @@ The source makes Hacker News a compact case for [[StartupCommunityForumBurden]].
 - [[StartupEssayDistribution]] - broader YC distribution system alongside Graham's essays.
 - [[BrianArmstrong]], [[Bitcoin]], and [[Coinbase]] - Armstrong episode context.
 - [[Replit]], [[AmjadMasad]], [[PaulGraham]], and [[AccessibleProgrammingPlatform]] - Replit distribution and discovery context.
+- [[BlakeScholl]], [[BoomSupersonic]], [[VirginGroup]], and [[StartupLegitimacyTransfer]] - public skepticism and credibility-shift context added by the Blake Scholl episode.

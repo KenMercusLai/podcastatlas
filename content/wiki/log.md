@@ -4062,3 +4062,11 @@ Added source page for The Social Radars YC offsite episode with Andy Lapsa on St
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-23] ingest | Blake Scholl, Founder & CEO of Boom Supersonic
+
+Added source page for The Social Radars episode with Blake Scholl on Boom Supersonic, all-business-class supersonic economics, recursive expert recruiting, YC storytelling, Virgin customer proof, XB-1, the Rolls-Royce engine crisis, boomless cruise, and supersonic regulation. Created pages for Blake Scholl, Boom Supersonic, Barcode Hero, Overture Supersonic Airliner, XB-1 Supersonic Demonstrator, Rolls-Royce, Richard Branson, Virgin Group, All-Business-Class Supersonic Model, Boomless Cruise, Supersonic Regulatory Speed Limit, Crisis-Forced Vertical Integration, Hard-Tech Customer Intent Proof, and Recursive Expert Recruiting; updated overview, index, The Social Radars, Y Combinator, Sam Altman, Michael Seibel, Paul Graham, Brian Chesky, Amazon, NASA, SpaceX, Hacker News, Sequoia Capital, Hard Tech Fundraising, Hard Problem MVP Scoping, Investor Risk Narrative, Startup Legitimacy Transfer, Founder Motivation Evolution, Founder Product Fit, Customer Evidence Strategy, Constraint Driven Engineering Strategy, Political Regulatory Leverage, and First Principles Manufacturing. No direct contradiction found; technical, regulatory, order, and passenger-timeline claims remain source-scoped to Scholl's 2025-12-08 account.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

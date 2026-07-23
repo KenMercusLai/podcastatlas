@@ -2,8 +2,8 @@
 title: "NASA"
 type: entity
 tags: [space, government, aerospace]
-sources: [tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]
-last_updated: 2026-07-12
+sources: [tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]
+last_updated: 2026-07-23
 ---
 
 # NASA
@@ -14,8 +14,11 @@ The source frames NASA's shift from government-led building toward government-as
 
 [[tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128]] adds NASA as the agency behind [[Artemis2]], a mission framed as a step toward long-term presence on the [[Moon]] and eventual deeper human spaceflight. The episode shifts NASA's wiki role from launch procurement alone toward [[LunarResourceGovernance]], the [[ArtemisAccords]], and the infrastructure needed for sustained lunar operations.
 
+[[tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio]] adds NASA as the technical framing source [[BlakeScholl]] reacted against. Scholl says he read a NASA book that divided future supersonic travel into either private jets needing a sonic-boom breakthrough or jumbo jets with harder economics; he saw a middle path in [[AllBusinessClassSupersonicModel]], then later tied the technical path to [[BoomlessCruise]] and regulatory reform.
+
 ## Connections
 - [[SpaceX]] and [[Falcon9]] — commercial launch context in the source.
 - [[ReusableRocketEconomics]] — launch-cost shift that changed what NASA and commercial customers could buy.
 - [[SpaceEconomyInfrastructure]] — broader industry layer shaped by public procurement and accumulated data.
 - [[Artemis2]], [[ArtemisAccords]], [[Moon]], and [[LunarResourceGovernance]] — lunar mission and governance branch added by Marketplace Tech.
+- [[BlakeScholl]], [[BoomSupersonic]], [[AllBusinessClassSupersonicModel]], and [[BoomlessCruise]] - supersonic aviation framing added by the Blake Scholl episode.

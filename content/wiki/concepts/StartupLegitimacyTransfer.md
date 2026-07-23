@@ -2,7 +2,7 @@
 title: "Startup Legitimacy Transfer"
 type: concept
 tags: [startups, venture-capital, institutions, credibility]
-sources: [tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-s4-harj-v3-tsr-s4-harj-v3]
+sources: [tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-s4-harj-v3-tsr-s4-harj-v3]
 last_updated: 2026-07-23
 ---
 
@@ -16,6 +16,8 @@ The source also shows the cost of successful legitimacy transfer. By the time Ha
 
 [[tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6]] adds an old-industry version through [[RyanPetersen]] and [[Flexport]]. Petersen says Google Ventures was valuable not only as capital but because logistics customers recognized the Google name more than famous venture firms. The source shows legitimacy transfer aimed at customers in a traditional industry, not only at family or Silicon Valley investors.
 
+[[tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio]] adds a hard-tech aviation version through [[BoomSupersonic]]. [[YCombinator]] helped [[BlakeScholl]] make a capital-intensive story investor-legible, [[VirginGroup|Virgin]] and [[RichardBranson]] supplied [[HardTechCustomerIntentProof]], [[PaulGraham]]'s backstage investment interest became a confidence signal, and a [[SequoiaCapital|Sequoia]] conference-room gathering let early candidates evaluate one another while lending credibility to the company.
+
 ## Key Claims
 - Early founders may need credibility with family, employees, investors, and customers before ordinary traction exists.
 - An accelerator can transfer legitimacy through selection, funding, peer community, introductions, and public brand.
@@ -23,6 +25,7 @@ The source also shows the cost of successful legitimacy transfer. By the time Ha
 - Once the brand becomes strong, the problem can invert: founders may need protection from investor attention and partnership distractions.
 - Legitimacy transfer is valuable only if it eventually becomes real customer learning, product progress, and company execution.
 - In traditional industries, a recognizable technology brand can transfer legitimacy to customers who do not care about startup-status signals.
+- In hard tech, legitimacy can come from a stack of signals: expert recruiting, known customer interest, accelerator selection, investor belief, and visible prototype work.
 
 ## Connections
 - [[HarjTaggar]], [[KulvirTaggar]], [[BoSo]], [[AutomaticAuctions]], and [[YCombinator]] - core source case.
@@ -30,3 +33,4 @@ The source also shows the cost of successful legitimacy transfer. By the time Ha
 - [[BuilderCenteredInstitutions]], [[StartupCommunityInfrastructure]], and [[FounderInvestorLearning]] - institutional concepts connected to the pattern.
 - [[FounderProductFit]] and [[CustomerDiscoveryByDoingWork]] - grounding checks after legitimacy creates access.
 - [[RyanPetersen]], [[Flexport]], [[GlobalLogisticsCoordination]], and [[YCombinator]] - old-industry legitimacy case added by the Ryan Petersen episode.
+- [[BoomSupersonic]], [[BlakeScholl]], [[VirginGroup]], [[RichardBranson]], [[HardTechCustomerIntentProof]], [[RecursiveExpertRecruiting]], and [[YCombinator]] - aviation hard-tech legitimacy case added by The Social Radars.

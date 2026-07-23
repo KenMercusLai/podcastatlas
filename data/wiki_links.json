@@ -1739,6 +1739,10 @@
     "title": "Aliyun Bailian",
     "url": "/wiki/entities/aliyunbailian/"
   },
+  "AllBusinessClassSupersonicModel": {
+    "title": "All-Business-Class Supersonic Model",
+    "url": "/wiki/concepts/allbusinessclasssupersonicmodel/"
+  },
   "AllergyAsImmuneResponse": {
     "title": "Allergy As Immune Response",
     "url": "/wiki/concepts/allergyasimmuneresponse/"
@@ -2667,6 +2671,10 @@
     "title": "Barbell Strategy",
     "url": "/wiki/concepts/barbellstrategy/"
   },
+  "BarcodeHero": {
+    "title": "Barcode Hero",
+    "url": "/wiki/entities/barcodehero/"
+  },
   "BarneyEbsworth": {
     "title": "Barney Ebsworth",
     "url": "/wiki/entities/barneyebsworth/"
@@ -2955,6 +2963,10 @@
     "title": "Blake Ross",
     "url": "/wiki/entities/blakeross/"
   },
+  "BlakeScholl": {
+    "title": "Blake Scholl",
+    "url": "/wiki/entities/blakescholl/"
+  },
   "BlindnessMemoryArtIdeal": {
     "title": "Blindness-Memory Art Ideal",
     "url": "/wiki/concepts/blindnessmemoryartideal/"
@@ -3010,6 +3022,14 @@
   "BookingHoldings": {
     "title": "Booking Holdings",
     "url": "/wiki/entities/bookingholdings/"
+  },
+  "BoomSupersonic": {
+    "title": "Boom Supersonic",
+    "url": "/wiki/entities/boomsupersonic/"
+  },
+  "BoomlessCruise": {
+    "title": "Boomless Cruise",
+    "url": "/wiki/concepts/boomlesscruise/"
   },
   "BorderRegionCurrencyCredit": {
     "title": "Border Region Currency Credit",
@@ -4718,6 +4738,10 @@
   "Crimea": {
     "title": "Crimea",
     "url": "/wiki/entities/crimea/"
+  },
+  "CrisisForcedVerticalIntegration": {
+    "title": "Crisis-Forced Vertical Integration",
+    "url": "/wiki/concepts/crisisforcedverticalintegration/"
   },
   "CrisisStakeholderLeadership": {
     "title": "Crisis Stakeholder Leadership",
@@ -8218,6 +8242,10 @@
   "HardProblemMVPScoping": {
     "title": "Hard Problem MVP Scoping",
     "url": "/wiki/concepts/hardproblemmvpscoping/"
+  },
+  "HardTechCustomerIntentProof": {
+    "title": "Hard-Tech Customer Intent Proof",
+    "url": "/wiki/concepts/hardtechcustomerintentproof/"
   },
   "HardTechFundraising": {
     "title": "Hard Tech Fundraising",
@@ -13299,6 +13327,10 @@
     "title": "Overseas Insurance Risk",
     "url": "/wiki/concepts/overseasinsurancerisk/"
   },
+  "OvertureSupersonicAirliner": {
+    "title": "Overture Supersonic Airliner",
+    "url": "/wiki/entities/overturesupersonicairliner/"
+  },
   "P2PStreaming": {
     "title": "P2P Streaming",
     "url": "/wiki/concepts/p2pstreaming/"
@@ -14779,6 +14811,10 @@
     "title": "Recursive",
     "url": "/wiki/entities/recursive/"
   },
+  "RecursiveExpertRecruiting": {
+    "title": "Recursive Expert Recruiting",
+    "url": "/wiki/concepts/recursiveexpertrecruiting/"
+  },
   "RecursiveSelfImprovement": {
     "title": "Recursive Self-Improvement",
     "url": "/wiki/concepts/recursiveselfimprovement/"
@@ -15051,6 +15087,10 @@
     "title": "Rich Aberman",
     "url": "/wiki/entities/richaberman/"
   },
+  "RichardBranson": {
+    "title": "Richard Branson",
+    "url": "/wiki/entities/richardbranson/"
+  },
   "RichardDawkins": {
     "title": "Richard Dawkins / 理查德·道金斯",
     "url": "/wiki/entities/richarddawkins/"
@@ -15242,6 +15282,10 @@
   "RollingAI": {
     "title": "Rolling AI",
     "url": "/wiki/entities/rollingai/"
+  },
+  "RollsRoyce": {
+    "title": "Rolls-Royce",
+    "url": "/wiki/entities/rollsroyce/"
   },
   "RomanticProjectionTrap": {
     "title": "Romantic Projection Trap",
@@ -17047,6 +17091,10 @@
     "title": "Superpowers",
     "url": "/wiki/entities/superpowers/"
   },
+  "SupersonicRegulatorySpeedLimit": {
+    "title": "Supersonic Regulatory Speed Limit",
+    "url": "/wiki/concepts/supersonicregulatoryspeedlimit/"
+  },
   "SupplementLabelAccuracy": {
     "title": "Supplement Label Accuracy",
     "url": "/wiki/concepts/supplementlabelaccuracy/"
@@ -18491,6 +18539,10 @@
     "title": "唯品会 / Vipshop",
     "url": "/wiki/entities/vipshop/"
   },
+  "VirginGroup": {
+    "title": "Virgin Group",
+    "url": "/wiki/entities/virgingroup/"
+  },
   "VirginiaWoolf": {
     "title": "Virginia Woolf / 弗吉尼亚·伍尔夫",
     "url": "/wiki/entities/virginiawoolf/"
@@ -19110,6 +19162,10 @@
   "XAI": {
     "title": "xAI",
     "url": "/wiki/entities/xai/"
+  },
+  "XB1SupersonicDemonstrator": {
+    "title": "XB-1 Supersonic Demonstrator",
+    "url": "/wiki/entities/xb1supersonicdemonstrator/"
   },
   "XFFXFramework": {
     "title": "X/F/FX Framework",
@@ -21142,6 +21198,10 @@
   "tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3": {
     "title": "Tyler Shultz, Theranos Whistleblower (Part 2)",
     "url": "/wiki/sources/tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3/"
+  },
+  "tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio": {
+    "title": "Blake Scholl, Founder & CEO of Boom Supersonic",
+    "url": "/wiki/sources/tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio/"
   },
   "tsr-s5-catchup2-v1-tsr-s5-catchup2-v1": {
     "title": "The Social Radars Season Five Update",

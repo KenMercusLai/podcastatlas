@@ -2,8 +2,8 @@
 title: "Michael Seibel"
 type: entity
 tags: [person, startups, y-combinator]
-sources: [socialradarspod-emmettshear-v2, socialradarspod-brianchesky-final]
-last_updated: 2026-07-11
+sources: [tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, socialradarspod-emmettshear-v2, socialradarspod-brianchesky-final]
+last_updated: 2026-07-23
 ---
 
 # Michael Seibel
@@ -14,8 +14,11 @@ The source uses Seibel as an example of how failed field experiences can become 
 
 [[socialradarspod-emmettshear-v2]] adds Seibel inside Justin.tv itself. [[EmmettShear]] says the founders recruited him because he was steadier than Emmett and [[JustinKan]], and the team later treated him as one of the aligned cofounders who made a four-founder structure work. The same episode adds Seibel's later YC role: he recruited Emmett back to [[YCombinator]] as a partner after [[Twitch]].
 
+[[tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio]] adds Seibel in his [[YCombinator]] Demo Day role. [[BlakeScholl]] says Seibel challenged Boom's weak startup-airline LOI and pushed the company to show more real evidence, helping make [[HardTechCustomerIntentProof]] from [[VirginGroup|Virgin]] and physical hardware more central to the pitch.
+
 ## Connections
 - [[BrianChesky]] and [[Airbnb]] - founder and company he helped introduce.
 - [[EmmettShear]], [[JustinKan]], [[KyleVogt]], [[JustinTV|Justin.tv]], and [[Twitch]] - founder-team and later recruiting context added by the Shear episode.
 - [[YCombinator]] - network and partner-recruiting context.
 - [[PeerToPeerMarketplaceTrust]], [[FastProductValidation]], and [[StartupAcceleratorBatchSelection]] - concepts connected to his source role.
+- [[BoomSupersonic]], [[BlakeScholl]], [[VirginGroup]], [[HardTechCustomerIntentProof]], and [[InvestorRiskNarrative]] - Demo Day evidence branch added by The Social Radars.

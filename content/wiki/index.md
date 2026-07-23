@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Blake Scholl, Founder & CEO of Boom Supersonic](sources/tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio.md) — The Social Radars episode with Blake Scholl on Boom Supersonic, all-business-class supersonic economics, recursive expert recruiting, YC storytelling, Virgin customer proof, XB-1, the Rolls-Royce engine crisis, boomless cruise, and supersonic regulation.
 - [Surbhi Sarna, Founder of nVision Medical](sources/tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3.md) — The Social Radars episode with Surbhi Sarna on nVision Medical, ovarian cancer diagnostics, fallopian-tube access, physician-led medical-device design, FDA clearance, hard medtech fundraising, and the Boston Scientific acquisition.
 - [Gusto Co-Founders: Josh Reeves, Edward Kim & Tomer London](sources/tsr-s4-gusto-v3-tsr-s4-gusto-v3.md) — The Social Radars episode with Gusto's three founders on payroll pain, a narrow regulated workflow wedge, co-founder relationship maintenance, values, COVID small-business support, and SVB payroll continuity.
 - [Tyler Shultz, Theranos Whistleblower (Part 2)](sources/tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3.md) — The Social Radars episode with Tyler Shultz on Wall Street Journal reporting, John Carreyrou, legal pressure, family leverage, regulatory fallout, public accountability, and whistleblower-channel advice.
@@ -505,6 +506,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Blake Scholl](entities/BlakeScholl.md) — Boom Supersonic founder whose Social Radars episode connects post-Barcode Hero motivation, YC hard-tech storytelling, customer proof, expert recruiting, and supersonic regulation.
+- [Boom Supersonic](entities/BoomSupersonic.md) — Commercial supersonic-aircraft company building Overture and using XB-1, customer intent, engine ownership, and boomless cruise to de-risk the market.
+- [Barcode Hero](entities/BarcodeHero.md) — Blake Scholl's earlier shopping startup, used as the episode's founder-learning setup before Boom.
+- [Overture Supersonic Airliner](entities/OvertureSupersonicAirliner.md) — Boom Supersonic's planned all-business-class supersonic airliner.
+- [XB-1 Supersonic Demonstrator](entities/XB1SupersonicDemonstrator.md) — Boom's demonstrator aircraft used as technical proof, team-training system, and investor credibility artifact.
+- [Rolls-Royce](entities/RollsRoyce.md) — Engine incumbent whose 2022 withdrawal from Boom's program forced Boom toward custom engine ownership.
+- [Richard Branson](entities/RichardBranson.md) — Virgin founder whose support helped turn Boom's early customer intent into investor-legible proof.
+- [Virgin Group](entities/VirginGroup.md) — Virgin brand and airline context behind Boom's early customer proof and credibility signal.
 - [Surbhi Sarna](entities/SurbhiSarna.md) — YC partner and former nVision Medical founder whose Social Radars interview connects women's-health diagnostic gaps, medtech validation, solo-founder fundraising, and mission-driven acquisition judgment.
 - [nVision Medical](entities/NVisionMedical.md) — Women's-health medical-device company founded by Surbhi Sarna to access the fallopian tube and collect cells relevant to ovarian cancer diagnostics.
 - [Boston Scientific](entities/BostonScientific.md) — Medical-device acquirer of nVision Medical in Surbhi Sarna's episode, used as a mission and commercialization-capacity acquisition case.
@@ -3257,6 +3266,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [All-Business-Class Supersonic Model](concepts/AllBusinessClassSupersonicModel.md) — Boom's market thesis that a smaller premium cabin could make supersonic flight economically viable before broad mass-market service.
+- [Boomless Cruise](concepts/BoomlessCruise.md) — Supersonic operating technique described by Blake Scholl for avoiding ground-level sonic booms by keeping the boom from reaching land.
+- [Supersonic Regulatory Speed Limit](concepts/SupersonicRegulatorySpeedLimit.md) — U.S. overland speed rule that Boom treats as a candidate for reform once boomless technical proof is available.
+- [Crisis-Forced Vertical Integration](concepts/CrisisForcedVerticalIntegration.md) — Pattern where supplier withdrawal forces a hard-tech startup to own a critical subsystem it previously hoped to outsource.
+- [Hard-Tech Customer Intent Proof](concepts/HardTechCustomerIntentProof.md) — Use of credible customer commitments, public support, or operational willingness as traction evidence before hard-tech revenue exists.
+- [Recursive Expert Recruiting](concepts/RecursiveExpertRecruiting.md) — Recruiting method of asking each expert for the best next experts until a founder maps a difficult technical field and builds a credible team.
 - [Women's Health Diagnostic Gap](concepts/WomensHealthDiagnosticGap.md) — Pattern where reproductive-health problems have symptoms and clinical concern but lack safe, validated, and well-funded diagnostic pathways.
 - [Ovarian Cancer Diagnostics](concepts/OvarianCancerDiagnostics.md) — Diagnostic problem from Surbhi Sarna's episode around safely detecting ovarian cancer when blood tests, biopsy, and late presentation leave gaps.
 - [Fallopian Tube Access Diagnostics](concepts/FallopianTubeAccessDiagnostics.md) — nVision Medical thesis that ovarian-cancer detection may improve by reaching the fallopian tube without surgery and collecting relevant cells.

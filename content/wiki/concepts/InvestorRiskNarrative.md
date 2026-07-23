@@ -2,7 +2,7 @@
 title: "Investor Risk Narrative"
 type: concept
 tags: [startup, fundraising, venture-capital, narrative]
-sources: [tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, socialradarspod-emmettshear-v2]
+sources: [tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, socialradarspod-emmettshear-v2]
 last_updated: 2026-07-23
 ---
 
@@ -18,6 +18,8 @@ The concept is not about hiding risk. Emmett's retrospective advice is to say wh
 
 [[tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3]] adds a women's-health medtech version through [[SurbhiSarna]] and [[NVisionMedical|nVision Medical]]. The risks were not only technical: Sarna had to make [[FallopianTubeAccessDiagnostics]] legible before revenue, answer solo-founder concerns, overcome weak category recognition, and show how small early checks could buy concrete [[MedicalDeviceClinicalValidation]] milestones.
 
+[[tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio]] adds a commercial-aviation version through [[BlakeScholl]] and [[BoomSupersonic]]. Scholl had to make the upside of faster passenger travel legible while answering why an outsider could recruit aerospace talent, why Concorde's failure did not settle the category, why the [[AllBusinessClassSupersonicModel]] could work, and how [[HardTechCustomerIntentProof]], [[XB1SupersonicDemonstrator|XB-1]], and engine ownership could reduce successive risks.
+
 ## Key Claims
 - Strong operating metrics may not be enough if investors cannot see the path from those metrics to a large outcome.
 - Over-indexing on risks can make a founder sound honest but unconvincing when the pitch fails to explain how the risks will be reduced.
@@ -27,6 +29,7 @@ The concept is not about hiding risk. Emmett's retrospective advice is to say wh
 - In hard tech, the narrative has to pair technical feasibility with capital plan, safety path, competitive framing, and business-model scale.
 - A pitch can be too current-state focused; investors still need to understand the larger company the product could become.
 - For underrecognized healthcare categories, the risk narrative may have to establish the category's seriousness before investors even evaluate the device path.
+- For commercial aviation, the risk narrative may have to separate a failed historical exemplar from a narrower new business model and a staged technical proof path.
 
 ## Connections
 - [[Twitch]], [[EmmettShear]], and [[BessemerVenturePartners]] - source case.
@@ -35,3 +38,4 @@ The concept is not about hiding risk. Emmett's retrospective advice is to say wh
 - [[Cruise]], [[KyleVogt]], [[HardProblemMVPScoping]], and [[HardTechFundraising]] - hard-tech fundraising branch added by the Kyle Vogt episode.
 - [[YinWu]], [[Pulley]], [[FutureOrientedFundraisingPitch]], and [[FounderResilience]] - future-oriented fundraising branch added by the Yin Wu episode.
 - [[SurbhiSarna]], [[NVisionMedical|nVision Medical]], [[SoloFounderFundraisingBias]], [[HardTechFundraising]], and [[CapitalEfficientMedicalDeviceStartup]] - women-health medtech fundraising branch added by The Social Radars.
+- [[BlakeScholl]], [[BoomSupersonic]], [[AllBusinessClassSupersonicModel]], [[HardTechCustomerIntentProof]], [[XB1SupersonicDemonstrator]], and [[CrisisForcedVerticalIntegration]] - commercial-aviation risk narrative added by The Social Radars.

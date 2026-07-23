@@ -2,8 +2,8 @@
 title: "Brian Chesky"
 type: entity
 tags: [person, startups, hospitality, design, crisis-leadership]
-sources: [tsr-s2-wrapup-v1, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
-last_updated: 2026-07-12
+sources: [tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s2-wrapup-v1, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
+last_updated: 2026-07-23
 ---
 
 # Brian Chesky
@@ -22,6 +22,8 @@ Chesky's most explicit later-stage claim is about founder leadership. In [[socia
 
 [[tsr-s2-wrapup-v1]] later identifies Chesky's COVID account as one of Season 2's memorable moments. The hosts recall the bankruptcy-level severity of the crisis and Chesky's attitude that the pandemic would not be how [[Airbnb]] died, reinforcing his role in the wiki as a [[CrisisStakeholderLeadership]] and founder-led operating case.
 
+[[tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio]] adds Chesky as an outside crisis-advice figure for [[BlakeScholl]]. During the [[RollsRoyce|Rolls-Royce]] engine crisis, Scholl says Chesky's advice about becoming more deeply who the company already is helped him choose [[CrisisForcedVerticalIntegration]] rather than continue chasing conventional aerospace legitimacy.
+
 ## Connections
 - [[Airbnb]], [[JoeGebbia]], and [[NateBlecharczyk]] - company and founding team.
 - [[MichaelSeibel]], [[JustinTV]], [[YCombinator]], [[PaulGraham]], [[JessicaLivingston]], and [[CarolynLevy]] - accelerator, founder-network, and interview context.
@@ -29,3 +31,4 @@ Chesky's most explicit later-stage claim is about founder leadership. In [[socia
 - [[PeerToPeerMarketplaceTrust]], [[DesignForOnePerson]], [[FounderProductFit]], [[FounderCashFlowConstraint]], and [[RealWorldConnectionProducts]] - early Airbnb concepts.
 - [[UnscalableFounderWork]], [[CrisisStakeholderLeadership]], [[FounderLedFunctionalOrganization]], [[FounderMode]], [[StartupGovernance]], and [[ProfitAndCashFlowQuality]] - later-stage concepts added by the second and founder-mode episodes.
 - [[PaulGraham]] and [[RonConway]] - YC offsite context around how the founder-mode talk reached the retreat audience.
+- [[BlakeScholl]], [[BoomSupersonic]], [[RollsRoyce]], and [[CrisisForcedVerticalIntegration]] - hard-tech crisis-advice branch added by The Social Radars.
