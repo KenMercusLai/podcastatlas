@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [128.闲聊十二生肖之蛇：从耶梦加得到赵灵儿](sources/128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305.md) — 蜜獾吃书 episode on the zodiac snake, real snake behavior, world-serpent mythology, renewal, secret knowledge, White Snake, Zhao Ling'er, and snake-woman symbolism.
 - [sp.05 【刘擎x林垚】"枪杀医保巨头"案背后的思考（下）：分裂的美国会有宪政危机吗？](sources/sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978.md) — 蜜獾吃书 x 东腔西调 sequel on Trump 2024, MAGA coalition fractures, constitutional reform limits, identity politics, BLM, Gaza-campus speech disputes, and U.S. constitutional-crisis risk.
 - [sp.04 【刘擎x林垚】“枪杀医保巨头”案背后的思考(上)：关于民粹、私刑和死刑](sources/sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209.md) — 蜜獾吃书 x 东腔西调 episode using the UnitedHealthcare CEO killing to discuss U.S. health-insurance denial politics, federalism, populism, vigilante justice, terrorism, and the death penalty.
 - [127. 闲聊十二生肖之龙：神奇动物在哪里](sources/127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655.md) — 蜜獾吃书 episode on the zodiac dragon, early dragon layers, imperial dragon symbolism, the Qing dragon flag, Dragon translation, totemist nationalism, and the modern invention of "descendants of the dragon" identity.
@@ -546,6 +547,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Snake / 蛇](entities/Snake.md) — Animal-symbol node for episode 128, connecting real snake behavior, fear, renewal, secret knowledge, serpent mythology, and gendered folklore.
+- [White Snake Legend / 白蛇传](entities/WhiteSnakeLegend.md) — Chinese snake-woman tradition read by episode 128 through heroic, healing, romantic, demonized, and clerically controlled versions.
+- [Zhao Ling'er / 赵灵儿](entities/ZhaoLinger.md) — Popular-culture snake/Nuwa-descendant figure used by episode 128 as a modern recombination of serpent-woman and bathing-peeping motifs.
 - [MAGA / Make America Great Again](entities/MAGA.md) — Trump-aligned movement treated by sp.05 as a fragile coalition split by H-1B, technology capital, nationalism, and identity politics.
 - [Democratic Party](entities/DemocraticParty.md) — U.S. party treated by sp.05 as the more plausible health-reform channel but one facing delivery, messaging, and media-infrastructure problems.
 - [Theda Skocpol](entities/ThedaSkocpol.md) — Scholar cited by sp.05 for Tea Party welfare-attitude research and racialized beneficiary effects.
@@ -3638,6 +3642,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Snake Cultural Symbolism](concepts/SnakeCulturalSymbolism.md) — Episode 128 frame for why snake imagery carries fear, beauty, sacredness, danger, fertility, secrecy, wisdom, and freedom at once.
+- [Snake Religious Mythology](concepts/SnakeReligiousMythology.md) — Cross-cultural serpent-myth frame covering world snakes, naga, Apep, Kukulkan, Fuxi-Nuwa, and threshold power without overclaiming one origin.
+- [Snake Renewal And Secret Knowledge](concepts/SnakeRenewalAndSecretKnowledge.md) — Episode 128 concept linking shedding, winter return, immortal herbs, bird language, treasure, beauty, and dangerous wisdom.
+- [Snake Female Power Motif](concepts/SnakeFemalePowerMotif.md) — Episode 128 gendered folklore frame for snake women as creators, healers, wives, beauties, witches, monsters, and uncontrolled power.
 - [U.S. Constitutional Crisis Risk](concepts/USConstitutionalCrisisRisk.md) — sp.05 frame for chronic U.S. institutional disorder under presidentialism, hard amendment rules, polarization, and uncertain post-Trump movement politics.
 - [U.S. Constitutional Reform Constraint](concepts/USConstitutionalReformConstraint.md) — sp.05 explanation of how Article V thresholds, slavery-era compromises, federalism, and presidentialism make structural reform hard.
 - [MAGA Coalition Fracture](concepts/MAGACoalitionFracture.md) — sp.05 concept for the split between grassroots nativism, Silicon Valley labor demand, Trump politics, and narrow Republican governing margins.

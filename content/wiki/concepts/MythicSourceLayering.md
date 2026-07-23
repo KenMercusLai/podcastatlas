@@ -2,7 +2,7 @@
 title: "Mythic Source Layering"
 type: concept
 tags: [mythology, folklore, literature, religion]
-sources: [112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 136-chunri-mingmei-liaoliao-guishen-827911486, 147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
+sources: [128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 136-chunri-mingmei-liaoliao-guishen-827911486, 147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
 last_updated: 2026-07-24
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-24
 Mythic source layering is the way a literary figure gathers multiple religious, folkloric, regional, and textual origins rather than descending from one clean prototype. In [[43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]], [[MihuanChishu|蜜獾吃书]] applies this to [[JourneyToTheWest|《西游记》]] by reading monsters and companions through Buddhist iconography, Daoist terms, Indian epic material, Chinese water-monster lore, zaju, oral stories, and folk belief.
 
 [[127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]] adds the [[ChineseDragon|龙]] case at symbol scale. The episode separates shape words, animal analogies, weather and water imagery, rain rituals, Buddhist dragon-king material, imperial decoration, and folk stories into [[ChineseDragonMythicLayering]] rather than forcing them into one original dragon.
+
+[[128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305]] adds the [[Snake|蛇]] case at world-myth scale. [[SnakeReligiousMythology]] gathers Fuxi-Nuwa, Eden, Jormungandr, Indian world snakes, Apep, Kukulkan, Buddhist naga, [[WhiteSnakeLegend|白蛇传]], and [[ZhaoLinger|赵灵儿]] as layered serpent material while keeping direct-source claims bounded.
 
 [[112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095]] adds a modern wuxia case through [[YueNvJian|《越女剑》]] and [[ManichaeismInChina|明教 / 摩尼教在中国]]. The source treats the Yue maiden, white ape, and Mingjiao/日月神教 material as inherited motifs that [[JinYong|金庸]] turns into fiction without requiring one clean origin story.
 
@@ -35,6 +37,7 @@ The clearest case is [[SunWukong|孙悟空]]. The episode compares him with [[Ha
 ## Key Claims
 - A mythic character can have many source affinities without one source being the entire origin.
 - A symbolic animal can also be layered; the dragon episode shows that one name may gather shape, weather, ritual, imperial, Buddhist, and folk meanings.
+- The snake episode shows a parallel animal-symbol layer where biology, fear, cosmic-serpent stories, renewal, secret knowledge, and gendered folklore accumulate around one form.
 - Cross-cultural resemblance is evidence for comparison, not automatic proof of borrowing.
 - Religious iconography can become comic fiction without losing all of its earlier symbolic force.
 - Monster genealogies can expose social and institutional satire, especially when divine backing changes punishment.
@@ -64,3 +67,4 @@ The clearest case is [[SunWukong|孙悟空]]. The episode compares him with [[Ha
 - [[CowherdAndWeaverGirl|牛郎织女]], [[QixiFestivalLayering]], and [[SwanMaidenMotif]] - Qixi extension added by episode 152.
 - [[HorseReligiousMythology]], [[StoryMotifTransmission]], [[Bucephalus|布西法拉斯]], and [[EldenRing|《艾尔登法环》]] - horse and game-design extension added by episode 171.
 - [[ChineseDragon|龙]], [[ChineseDragonMythicLayering]], and [[DragonNationalSymbolInvention]] - dragon-symbol extension added by episode 127.
+- [[Snake|蛇]], [[SnakeReligiousMythology]], and [[SnakeFemalePowerMotif]] - serpent-symbol extension added by episode 128.

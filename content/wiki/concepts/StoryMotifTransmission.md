@@ -2,7 +2,7 @@
 title: "Story Motif Transmission"
 type: concept
 tags: [folklore, mythology, narrative, transmission]
-sources: [114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
+sources: [128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
 last_updated: 2026-07-24
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-24
 Story motif transmission is the source's frame for how story patterns travel, recur, or get reinvented across cultures. In [[171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962]], [[MihuanChishu|蜜獾吃书]] uses horse material to show this: centaurs may reflect outsiders encountering skilled riders, Native American post-contact legends can retroactively place horses at creation, and Saiweng loses his horse can be compared with older fortune-reversal motifs.
 
 [[127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]] adds a zodiac-origin and dragon-story version. The episode treats cross-regional zodiac resemblance, dragon-king stories, "fallen dragon" reports, and folk tales of helping or killing dragons as material for comparison, while keeping [[ChineseZodiac|十二生肖]] origins and [[ChineseDragon|龙]] meanings open rather than forcing a single transmission route.
+
+[[128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305]] adds a serpent-motif version. The episode compares world-serpent myths, snake-slaying, snake-wife stories, hidden bathing plots, [[WhiteSnakeLegend|白蛇传]], Baijie Furen, Russian serpent-wife material, and [[ZhaoLinger|赵灵儿]], but it marks several links as suggestive rather than proven.
 
 [[152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062]] adds the [[SwanMaidenMotif]] version. The episode treats the hidden-clothing marriage plot in [[CowherdAndWeaverGirl|牛郎织女]] as a portable motif comparable with Buryat, Manchu, Celtic, Indian, Buddhist, and European stories, while keeping the route into Qixi open rather than overclaiming direct descent.
 
@@ -41,6 +43,7 @@ The concept is adjacent to [[MythicSourceLayering]] and [[AccretiveTextFormation
 - Urban legends show that modern motifs can spread quickly because the setting feels local, not because the story has a stable named source.
 - In mystery rewriting, a motif can function less as transmission evidence and more as an agreed rule that makes deduction possible.
 - Animal roles can travel even when the specific animal changes; the motif may be clever prey, trickster exposure, or justice against a predator rather than "crab" as a fixed symbol.
+- Serpent stories show the same caution around powerful motifs: snake wives, forbidden knowledge, hidden bathing, hero-slaying, and renewal can recur without proving one direct genealogy.
 
 ## Connections
 - [[YeXian|《叶限》]], [[YouyangZazu|《酉阳杂俎》]], and [[TangMiscellanyArchiveValue]] - episode 90's Cinderella-like tale extension.
@@ -55,3 +58,4 @@ The concept is adjacent to [[MythicSourceLayering]] and [[AccretiveTextFormation
 - [[IssunBoshi|一寸法师]], [[SaruKaniGassen|猿蟹合战]], [[FolkTaleMysteryRewriting|民间故事推理改写]], and [[SettingBasedMystery|设定系推理]] - episode 99's Japanese folk-tale mystery extension.
 - [[Crab|螃蟹]], [[CrabCulturalSymbolism]], and [[AnimalMoralProjection]] - episode 114's crab and Buddhist-story extension.
 - [[ChineseZodiac|十二生肖]], [[ChineseDragon|龙]], and [[ChineseDragonMythicLayering]] - dragon and zodiac-origin extension added by episode 127.
+- [[Snake|蛇]], [[WhiteSnakeLegend|白蛇传]], [[ZhaoLinger|赵灵儿]], and [[SnakeFemalePowerMotif]] - serpent and snake-woman motif extension added by episode 128.

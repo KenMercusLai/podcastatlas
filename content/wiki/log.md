@@ -4236,6 +4236,10 @@ Added source page for a 蜜獾吃书 episode on 罗翔《法律的悖论》, cov
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-24] ingest | 128.闲聊十二生肖之蛇：从耶梦加得到赵灵儿
+
+Added source page for the 蜜獾吃书 zodiac-snake episode on real snake behavior, snake safety, biomimetic fascination, world-serpent mythology, renewal, secret knowledge, White Snake, Zhao Ling'er, and snake-woman symbolism. Created pages for Snake, White Snake Legend, Zhao Ling'er, Snake Cultural Symbolism, Snake Religious Mythology, Snake Renewal And Secret Knowledge, and Snake Female Power Motif; updated overview, index, 蜜獾吃书, Chinese Zodiac, Mythic Source Layering, Myth As Historical Evidence, Chinese Folk Religion Layering, Story Motif Transmission, and Folklore As Social Memory. No direct contradiction found; the source extends the zodiac branch by showing how the snake differs from dragon and horse cases through fear, biological strangeness, renewal, secrecy, and gendered control rather than national-symbol invention or civilizational infrastructure.
+
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

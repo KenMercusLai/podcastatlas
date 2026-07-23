@@ -2,7 +2,7 @@
 title: "Chinese Folk Religion Layering"
 type: concept
 tags: [religion, folklore, china, mythology]
-sources: [112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 136-chunri-mingmei-liaoliao-guishen-827911486, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
+sources: [128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 136-chunri-mingmei-liaoliao-guishen-827911486, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
 last_updated: 2026-07-24
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-24
 Chinese folk religion layering is the way ritual practice, local cults, Daoist god registers, Buddhist afterlife ideas, Confucian restraint, literature, and oral variants coexist without becoming one fully standardized doctrine. [[136-chunri-mingmei-liaoliao-guishen-827911486]] develops the concept by refusing to make Chinese ghost-and-deity belief answer to a single "correct version."
 
 [[127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]] adds a dragon and rain version through [[ChineseDragon|龙]]. The episode moves from earth-dragon rain ritual and dragon kings to folk stories where dragons are rain workers, helpers, transport animals, or dangerous beings, showing how ritual function, Buddhist translation, local story, and imperial imagery can coexist without one stable theology.
+
+[[128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305]] adds a snake and naga version through [[SnakeReligiousMythology]]. Buddhist naga, dragon-king translation, snake deities, [[WhiteSnakeLegend|白蛇传]], immortal herbs, demon-recognition monks, and local serpent-woman stories show how snake, dragon, deity, medicine, sexuality, and moral discipline can overlap in Chinese and comparative folklore.
 
 [[112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095]] adds a Manichaean survival case through [[ManichaeismInChina|明教 / 摩尼教在中国]]. The episode treats Fujian and [[Quanzhou|泉州]]-region worship of 光明佛/摩尼 as an example of how a once-distinct religious tradition can survive as local practice, renamed image, or folk-Buddhist/Daoist layer, then later reenter fiction through [[JinYong|金庸]].
 
@@ -29,6 +31,7 @@ The episode's death-ruler examples show the pattern clearly. [[FengduDadi|丰都
 - Layering differs from error: it records how communities keep useful images, offices, and stories alive.
 - Festival practice can layer domestic ritual, local worship, commerce, and comparative mythology as readily as deity genealogies do.
 - Dragon stories show the same layering around rain, water, Buddhist beings, imperial images, and local moral tales.
+- Snake stories add a parallel layer where Buddhist naga, dragon translation, white-snake folklore, local goddess-like figures, and demon-wife containment can coexist.
 - Tang strange tales can layer Daoist ritual, dragon bureaucracy, foreign religious figures, object spirits, and animal spirits in one narrative field.
 - A miscellany can preserve religious layering without reconciling it; juxtaposed entries become evidence of coexistence rather than a single theology.
 - A foreign or heterodox tradition can survive locally as temple practice, deity naming, or visual memory even after doctrinal continuity has become uncertain.
@@ -45,3 +48,4 @@ The episode's death-ruler examples show the pattern clearly. [[FengduDadi|丰都
 - [[MythicSourceLayering]] - adjacent concept from the [[JourneyToTheWest|《西游记》]] branch.
 - [[FolkReligionDisasterPolitics]] - adjacent concept where religious practice and public accountability overlap.
 - [[ChineseDragon|龙]] and [[ChineseDragonMythicLayering]] - dragon and rain-ritual extension added by episode 127.
+- [[Snake|蛇]], [[SnakeReligiousMythology]], [[WhiteSnakeLegend|白蛇传]], and [[SnakeFemalePowerMotif]] - snake and naga extension added by episode 128.

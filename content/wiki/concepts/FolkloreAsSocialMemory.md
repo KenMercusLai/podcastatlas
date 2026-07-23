@@ -2,7 +2,7 @@
 title: "民俗作为社会记忆 / Folklore As Social Memory"
 type: concept
 tags: [folklore, memory, modernization, social-history]
-sources: [115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309, 117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
+sources: [128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309, 117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
 last_updated: 2026-07-24
 ---
 
@@ -16,6 +16,8 @@ In this frame, a yokai name or image records how a place once understood water, 
 
 [[127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]] adds a national-symbol caution through [[ChineseDragon|龙]]. Dragon stories preserve ritual, imperial, local, and emotional memory, but the episode warns that later communities can turn that memory into proof of an ancient national essence. [[DragonNationalSymbolInvention]] therefore records both the power of folklore memory and the risk of nationalist overclaiming.
 
+[[128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305]] adds a fear-and-control version through [[Snake|蛇]]. Serpent stories preserve encounters with real animals, anxiety about venom and sudden motion, hopes for renewal and hidden knowledge, and gendered memories of female power being revered, eroticized, or demonized.
+
 ## Key Claims
 - Folklore can hold practical local knowledge, social anxiety, moral judgment, and memory of ordinary life.
 - Modernization can make old stories look irrational while also destroying the contexts needed to interpret them responsibly.
@@ -24,6 +26,7 @@ In this frame, a yokai name or image records how a place once understood water, 
 - Folklore origin claims become dangerous when turned into nationalist proof that one people or nation is more authentic.
 - Literary guaitan can reuse folklore-like forms to preserve felt social memory even when it is not making an origin or fieldwork claim.
 - A modern national symbol can reuse folklore memory while changing what that memory is asked to prove.
+- Animal folklore can preserve embodied fear and social control at once: the snake is remembered as creature, danger, healer, treasure keeper, wife, goddess, and monster.
 
 ## Connections
 - [[YokaiMystery|妖怪推理]] - literary form that turns folklore memory into mystery structure.
@@ -32,3 +35,4 @@ In this frame, a yokai name or image records how a place once understood water, 
 - [[AnganKozo|《暗眼小僧》]] - case where local naming, dogs, property, and river danger form the social-memory layer.
 - [[GuaitanLiterature|怪谈文学]] and [[CursedBunny|《诅咒兔》]] - literary extension where folklore-like motifs hold bodily and social memory.
 - [[ChineseDragon|龙]], [[DragonNationalSymbolInvention]], and [[TotemismNationalism]] - dragon-symbol extension added by episode 127.
+- [[Snake|蛇]], [[SnakeCulturalSymbolism]], [[SnakeRenewalAndSecretKnowledge]], and [[SnakeFemalePowerMotif]] - snake-symbol extension added by episode 128.
