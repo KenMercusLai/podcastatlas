@@ -75,6 +75,10 @@
     "title": "113.亨丽埃塔与那场将人类学送上审判席的谋杀案",
     "url": "/wiki/sources/113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827/"
   },
+  "114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117": {
+    "title": "114.又到持螯赏菊时，聊聊螃蟹的趣闻史话",
+    "url": "/wiki/sources/114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117/"
+  },
   "130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi": {
     "title": "130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏",
     "url": "/wiki/sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi/"
@@ -2046,6 +2050,10 @@
   "AnimalIntelligenceModes": {
     "title": "Animal Intelligence Modes",
     "url": "/wiki/concepts/animalintelligencemodes/"
+  },
+  "AnimalMoralProjection": {
+    "title": "Animal Moral Projection",
+    "url": "/wiki/concepts/animalmoralprojection/"
   },
   "AnimalReproductiveStrategies": {
     "title": "Animal Reproductive Strategies",
@@ -4887,6 +4895,14 @@
     "title": "Coyote",
     "url": "/wiki/entities/coyotegame/"
   },
+  "Crab": {
+    "title": "螃蟹 / Crab",
+    "url": "/wiki/entities/crab/"
+  },
+  "CrabCulturalSymbolism": {
+    "title": "Crab Cultural Symbolism",
+    "url": "/wiki/concepts/crabculturalsymbolism/"
+  },
   "CreateWise": {
     "title": "CreateWise",
     "url": "/wiki/entities/createwise/"
@@ -6218,6 +6234,10 @@
   "EastStarGroup": {
     "title": "East Star Group / 东星集团",
     "url": "/wiki/entities/eaststargroup/"
+  },
+  "EatingAndKillingMoralAmbivalence": {
+    "title": "Eating And Killing Moral Ambivalence",
+    "url": "/wiki/concepts/eatingandkillingmoralambivalence/"
   },
   "EchoLocker": {
     "title": "Echo Locker",
@@ -9243,6 +9263,10 @@
     "title": "Huang Bote",
     "url": "/wiki/entities/huangbote/"
   },
+  "HuangTingjian": {
+    "title": "黄庭坚 / Huang Tingjian",
+    "url": "/wiki/entities/huangtingjian/"
+  },
   "HuangYing": {
     "title": "黄英 / Huang Ying",
     "url": "/wiki/entities/huangying/"
@@ -10303,6 +10327,10 @@
     "title": "Jin Merchant Governance",
     "url": "/wiki/concepts/jinmerchantgovernance/"
   },
+  "JinPingMei": {
+    "title": "《金瓶梅》 / Jin Ping Mei",
+    "url": "/wiki/entities/jinpingmei/"
+  },
   "JinWenGong": {
     "title": "晋文公",
     "url": "/wiki/entities/jinwengong/"
@@ -11346,6 +11374,10 @@
   "LiPiao": {
     "title": "李飘 / Li Piao",
     "url": "/wiki/entities/lipiao/"
+  },
+  "LiQi": {
+    "title": "李琪 / Li Qi",
+    "url": "/wiki/entities/liqi/"
   },
   "LiShangyin": {
     "title": "李商隐 / Li Shangyin",
@@ -20606,6 +20638,10 @@
   "XujingQitan": {
     "title": "《虚境奇谭》",
     "url": "/wiki/entities/xujingqitan/"
+  },
+  "XunXieshu": {
+    "title": "《讯蟹书》",
+    "url": "/wiki/entities/xunxieshu/"
   },
   "XunweiShunde": {
     "title": "寻味顺德",

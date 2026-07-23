@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [114.又到持螯赏菊时，聊聊螃蟹的趣闻史话](sources/114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117.md) — 蜜獾吃书 episode on Chinese crab culture, dazha-crab naming, crab-catching tools, Song literati eating, 《金瓶梅》 and 《红楼梦》 crab banquets, 《讯蟹书》, moral projection, and eating/killing ambivalence.
 - [sp.03 串台｜趁生命气息逗留：泽拉兹尼与他的梦境](sources/sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106.md) — 蜜獾吃书 episode on Roger Zelazny, 《趁生命气息逗留》, New Wave science fiction, mythic style, robot-human personhood, digital transcendence, and close readings of key stories.
 - [113.亨丽埃塔与那场将人类学送上审判席的谋杀案](sources/113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827.md) — 蜜獾吃书 episode on Henrietta Schmerler's 1931 fieldwork murder, anthropology fieldwork safety, victim-blaming, sexual violence, and the boundary between cultural relativism and victim protection.
 - [106.别再害怕冲突，快来学习谈判术！](sources/106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645.md) — 蜜獾吃书 episode on negotiation as learnable bargaining, BATNA, reservation value, anchoring, concessions, multi-issue trades, contingent agreements, and cognitive biases in conflict.
@@ -530,6 +531,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [螃蟹 / Crab](entities/Crab.md) — Food animal and cultural object used to connect Chinese seasonal eating, catching tools, place names, folklore, literature, and moral projection.
+- [《金瓶梅》 / Jin Ping Mei](entities/JinPingMei.md) — Classical novel used in episode 114 as the worldly crab-banquet comparison for 《红楼梦》.
+- [黄庭坚 / Huang Tingjian](entities/HuangTingjian.md) — Song poet whose Buddhist hesitation and crab poems ground the source's eating/killing moral ambivalence branch.
+- [李琪 / Li Qi](entities/LiQi.md) — Yuan writer of 《讯蟹书》, used as the source's personified crab-defense author.
+- [《讯蟹书》](entities/XunXieshu.md) — Crab-defense essay that turns animal stigma into ethical satire and reversal of human judgment.
 - [逗逗](entities/Doudou.md) — Editor guest in the Zelazny episode, explaining the publication package and helping frame the robot-human and entry-point readings.
 - [《趁生命气息逗留》 / For a Breath I Tarry](entities/ForABreathITarry.md) — Zelazny short-story collection and title story used to discuss body, fear, poetry, and robots becoming human.
 - [《脸上的门，口中的灯》 / The Doors of His Face, The Lamps of His Mouth](entities/TheDoorsOfHisFaceTheLampsOfHisMouth.md) — Companion Zelazny collection recommended as a younger, more fiery route into god-making, god-killing, and Promethean themes.
@@ -3478,6 +3484,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Crab Cultural Symbolism](concepts/CrabCulturalSymbolism.md) — Frame for how crabs become delicacy, pest, monster, literary object, proverb, ethical problem, and folk-story actor.
+- [Animal Moral Projection](concepts/AnimalMoralProjection.md) — Pattern where humans read animal bodies and behavior as moral lessons, insults, defenses, or social commentary.
+- [Eating And Killing Moral Ambivalence](concepts/EatingAndKillingMoralAmbivalence.md) — Tension between culinary pleasure and awareness of animal killing, grounded by Huang Tingjian's crab poems and Buddhist hesitation.
 - [New Wave Science Fiction / 科幻新浪潮](concepts/ScienceFictionNewWave.md) — Literary-history frame for Zelazny's experimental but still humanistic science-fiction position.
 - [Mythic Science Fiction Style](concepts/MythicScienceFictionStyle.md) — Zelazny-style fusion of speculative premises with myth, scripture, poetry, art, and epic emotional scale.
 - [Robot-Human Boundary](concepts/RobotHumanBoundary.md) — Question of how machines become person-like and people become machine-like through body, trauma, upload, and agency.
