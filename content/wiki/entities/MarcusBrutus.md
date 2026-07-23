@@ -2,7 +2,7 @@
 title: "Marcus Brutus / 马库斯·布鲁图斯"
 type: entity
 tags: [person, rome, republicanism, assassination]
-sources: [124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]
+sources: [124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]
 last_updated: 2026-07-24
 ---
 
@@ -14,9 +14,12 @@ The source keeps Brutus morally complicated. [[JuliusCaesar|Caesar]] had pardone
 
 That moral boundary became a strategic weakness. By preserving the conspirators' justice narrative, Brutus also left Caesar's friends, soldiers, will, and heir with enough room to defeat the republican cause.
 
+[[125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]] uses Brutus as the classical comparison for [[CharlotteCorday|Charlotte Corday]]. The point is not that the two acts are identical, but that both show how assassination can dramatize republican refusal while failing to restore the political order the assassin hopes to defend.
+
 ## Connections
 - [[JuliusCaesar]] and [[CaesarAssassination]] - patron, target, and central event.
 - [[GaiusCassiusLonginus]] and [[DecimusJuniusBrutus]] - other key conspirators.
 - [[CatoTheYounger]] and [[Cicero]] - republican moral and intellectual context.
 - [[TyrannicideRepublicanDilemma]] - central concept for Brutus's choice.
 - [[JuliusCaesarPlay]] - later Shakespearean memory of Brutus's betrayal and idealism.
+- [[CharlotteCorday]] and [[PoliticalAssassinationEthics]] - French Revolution comparison added by episode 125.

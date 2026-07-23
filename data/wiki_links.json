@@ -119,6 +119,10 @@
     "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
     "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
   },
+  "125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516": {
+    "title": "125. 马拉之死：卑鄙的暗杀，或正义的处决？",
+    "url": "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
+  },
   "130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi": {
     "title": "130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏",
     "url": "/wiki/sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi/"
@@ -2227,6 +2231,10 @@
     "title": "Antoine Hersen",
     "url": "/wiki/entities/antoinehersen/"
   },
+  "AntoineLavoisier": {
+    "title": "Antoine Lavoisier / 拉瓦锡",
+    "url": "/wiki/entities/antoinelavoisier/"
+  },
   "AntonLaGuardia": {
     "title": "Anton LaGuardia",
     "url": "/wiki/entities/antonlaguardia/"
@@ -4055,6 +4063,10 @@
     "title": "Charlie Sporck",
     "url": "/wiki/entities/charliesporck/"
   },
+  "CharlotteCorday": {
+    "title": "Charlotte Corday / 夏洛特·科黛",
+    "url": "/wiki/entities/charlottecorday/"
+  },
   "CharlotteShultz": {
     "title": "Charlotte Shultz",
     "url": "/wiki/entities/charlotteshultz/"
@@ -5682,6 +5694,10 @@
   "DeFactoSuperLeagueLogic": {
     "title": "De Facto Super League Logic",
     "url": "/wiki/concepts/defactosuperleaguelogic/"
+  },
+  "DeathOfMaratPainting": {
+    "title": "The Death of Marat / 《马拉之死》",
+    "url": "/wiki/entities/deathofmaratpainting/"
   },
   "DeathOptionAsPsychologicalRelief": {
     "title": "Death Option As Psychological Relief",
@@ -7943,6 +7959,10 @@
     "title": "French New Wave / 法国新浪潮",
     "url": "/wiki/concepts/frenchnewwave/"
   },
+  "FrenchRevolution": {
+    "title": "French Revolution / 法国大革命",
+    "url": "/wiki/entities/frenchrevolution/"
+  },
   "FreshGroceryEcommerceEconomics": {
     "title": "Fresh Grocery Ecommerce Economics",
     "url": "/wiki/concepts/freshgroceryecommerceeconomics/"
@@ -8375,6 +8395,10 @@
     "title": "Georges Beauchard",
     "url": "/wiki/entities/georgesbeauchard/"
   },
+  "GeorgesDanton": {
+    "title": "Georges Danton / 丹东",
+    "url": "/wiki/entities/georgesdanton/"
+  },
   "GeorgiaBanjo": {
     "title": "Georgia Banjo",
     "url": "/wiki/entities/georgiabanjo/"
@@ -8434,6 +8458,10 @@
   "GirolamoSavonarola": {
     "title": "Girolamo Savonarola / 萨沃纳罗拉",
     "url": "/wiki/entities/girolamosavonarola/"
+  },
+  "Girondins": {
+    "title": "Girondins / 吉伦特派",
+    "url": "/wiki/entities/girondins/"
   },
   "GitHub": {
     "title": "GitHub",
@@ -10387,9 +10415,17 @@
     "title": "Jacob Cram",
     "url": "/wiki/entities/jacobcram/"
   },
+  "JacobinClub": {
+    "title": "Jacobin Club / 雅各宾俱乐部",
+    "url": "/wiki/entities/jacobinclub/"
+  },
   "JacquesDerrida": {
     "title": "Jacques Derrida / 德里达",
     "url": "/wiki/entities/jacquesderrida/"
+  },
+  "JacquesLouisDavid": {
+    "title": "Jacques-Louis David / 雅克-路易·大卫",
+    "url": "/wiki/entities/jacqueslouisdavid/"
   },
   "JajuPierogi": {
     "title": "Jaju Pierogi",
@@ -10510,6 +10546,10 @@
   "JeanMarieLePen": {
     "title": "Jean-Marie Le Pen",
     "url": "/wiki/entities/jeanmarielepen/"
+  },
+  "JeanPaulMarat": {
+    "title": "Jean-Paul Marat / 让-保罗·马拉",
+    "url": "/wiki/entities/jeanpaulmarat/"
   },
   "JedKronfeld": {
     "title": "Jed Kronfeld",
@@ -12914,6 +12954,10 @@
   "MaxBazerman": {
     "title": "Max Bazerman / 马克斯·巴兹曼",
     "url": "/wiki/entities/maxbazerman/"
+  },
+  "MaximilienRobespierre": {
+    "title": "Maximilien Robespierre / 罗伯斯庇尔",
+    "url": "/wiki/entities/maximilienrobespierre/"
   },
   "MaxineClark": {
     "title": "Maxine Clark",
@@ -15399,6 +15443,10 @@
     "title": "Policy-Driven Market Rally",
     "url": "/wiki/concepts/policydrivenmarketrally/"
   },
+  "PoliticalAssassinationEthics": {
+    "title": "Political Assassination Ethics / 政治刺杀伦理",
+    "url": "/wiki/concepts/politicalassassinationethics/"
+  },
   "PoliticalBrandLicensing": {
     "title": "Political Brand Licensing",
     "url": "/wiki/concepts/politicalbrandlicensing/"
@@ -16615,6 +16663,18 @@
     "title": "Revolutionary Economic Self-Reliance",
     "url": "/wiki/concepts/revolutionaryeconomicselfreliance/"
   },
+  "RevolutionaryMartyrdomImageMaking": {
+    "title": "Revolutionary Martyrdom Image-Making / 革命殉道图像制造",
+    "url": "/wiki/concepts/revolutionarymartyrdomimagemaking/"
+  },
+  "RevolutionaryTerrorPolitics": {
+    "title": "Revolutionary Terror Politics / 革命恐怖政治",
+    "url": "/wiki/concepts/revolutionaryterrorpolitics/"
+  },
+  "RevolutionaryVirtuePolitics": {
+    "title": "Revolutionary Virtue Politics / 革命美德政治",
+    "url": "/wiki/concepts/revolutionaryvirtuepolitics/"
+  },
   "RewindAI": {
     "title": "Rewind AI",
     "url": "/wiki/entities/rewindai/"
@@ -17263,6 +17323,10 @@
     "title": "Science-Religion Civilization Tension",
     "url": "/wiki/concepts/sciencereligioncivilizationtension/"
   },
+  "ScienceUnderRevolutionarySuspicion": {
+    "title": "Science Under Revolutionary Suspicion / 革命怀疑下的科学",
+    "url": "/wiki/concepts/scienceunderrevolutionarysuspicion/"
+  },
   "ScientificPublicSpectacle": {
     "title": "Scientific Public Spectacle",
     "url": "/wiki/concepts/scientificpublicspectacle/"
@@ -17498,6 +17562,10 @@
   "SeppBlatter": {
     "title": "Sepp Blatter",
     "url": "/wiki/entities/seppblatter/"
+  },
+  "SeptemberMassacres": {
+    "title": "September Massacres / 九月屠杀",
+    "url": "/wiki/entities/septembermassacres/"
   },
   "SequoiaCapital": {
     "title": "Sequoia Capital",
@@ -19494,6 +19562,10 @@
   "ThomasHobbes": {
     "title": "Thomas Hobbes / 托马斯·霍布斯",
     "url": "/wiki/entities/thomashobbes/"
+  },
+  "ThomasPaine": {
+    "title": "Thomas Paine / 托马斯·潘恩",
+    "url": "/wiki/entities/thomaspaine/"
   },
   "ThomsonReuters": {
     "title": "Thomson Reuters",

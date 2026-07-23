@@ -2,7 +2,7 @@
 title: "Moral Suspension In Art Reading"
 type: concept
 tags: [art, ethics, reading, film, interpretation]
-sources: [124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361, 96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514, 67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905]
+sources: [124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516, 96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514, 67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905]
 last_updated: 2026-07-24
 ---
 
@@ -18,6 +18,8 @@ This is not moral neutrality. It is closer to [[ClassicReadingComplexity]] appli
 
 [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]] adds a political-history case through [[JuliusCaesar]] and [[MarcusBrutus]]. The source resists quick labels such as hero, tyrant, savior, or traitor so that [[LateRomanRepublicCrisis]], [[PersonalRuleLegitimacyCrisis]], and [[TyrannicideRepublicanDilemma]] can remain visible together.
 
+[[125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]] adds an art-and-assassination case through [[DeathOfMaratPainting|The Death of Marat]]. The episode can admire the painting's force while questioning the moral simplification created by [[RevolutionaryMartyrdomImageMaking]]: [[JeanPaulMarat|Marat]] becomes saintly and [[CharlotteCorday|Corday]] disappears.
+
 ## Key Claims
 - Suspending judgment is a method for attention, not an instruction to approve harm.
 - Quick moral labels can name discomfort but should not replace interpretation.
@@ -26,6 +28,7 @@ This is not moral neutrality. It is closer to [[ClassicReadingComplexity]] appli
 - It is also useful when an ancient work deliberately denies moral closure, as [[MedeaPlay|《美狄亚》 / Medea]] does through Medea's escape and Jason's ruin.
 - It is useful for epic heroes whose literary force depends on mixed greatness, cruelty, grief, and vulnerability.
 - It is also useful for political history when all available moral labels conceal part of the institutional setting.
+- It is useful for political art when a powerful image makes one actor's suffering visible and another actor's motive invisible.
 
 ## Connections
 - [[JulesAndJim|《祖与占》 / Jules and Jim]] - source case.
@@ -36,3 +39,4 @@ This is not moral neutrality. It is closer to [[ClassicReadingComplexity]] appli
 - [[MedeaPlay|《美狄亚》 / Medea]], [[TragicModernity]], and [[FemaleRevengeAndPoliticalOrder]] - tragic-literary extension added by episode 67.
 - [[TheIliad]], [[Achilles]], [[Hector]], [[Priam]], and [[HomericMortalityReading]] - epic extension added by episode 96.
 - [[JuliusCaesar]], [[MarcusBrutus]], [[CaesarAssassination]], and [[TyrannicideRepublicanDilemma]] - political-history extension added by episode 124.
+- [[DeathOfMaratPainting]], [[JeanPaulMarat]], [[CharlotteCorday]], and [[RevolutionaryMartyrdomImageMaking]] - art-and-assassination extension added by episode 125.

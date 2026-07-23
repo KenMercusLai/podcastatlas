@@ -2,7 +2,7 @@
 title: "Female Revenge And Political Order"
 type: concept
 tags: [gender, revenge, law, politics, tragedy]
-sources: [67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556, 117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341]
+sources: [67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556, 117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]
 last_updated: 2026-07-24
 ---
 
@@ -16,12 +16,15 @@ This makes the concept adjacent to [[PrivateRevengeModernLaw]] and [[FilialReven
 
 [[117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341]] adds a contrast through [[BoraChung|郑宝拉]]'s [[CursedBunny|《诅咒兔》]]. Its revenge stories are less about rebuilding or rupturing public order than about [[PostRevengeEmptiness]]: revenge may be deserved and effective, yet still leave ghosts, loneliness, and unrepaired loss.
 
+[[125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]] adds a political-assassination contrast through [[CharlotteCorday|Charlotte Corday]]. The episode argues that Corday should not be reduced to romance, manipulation, or feminine irrationality; her violence is framed as a deliberate republican intervention against [[JeanPaulMarat|Marat]] and [[RevolutionaryTerrorPolitics]], even though it still breaks law and fails to stop the terror system.
+
 ## Key Claims
 - Female revenge can reveal real structural injury while still becoming ethically catastrophic.
 - The abandoned-wife frame is an entry point, not the whole reading.
 - The killing of children is the action that turns Medea from wronged spouse into a rupture of family, city, and human relation.
 - Agency is not automatically liberation; it depends on what bonds and limits the action destroys.
 - Revenge can also fail after success when the moral target is destroyed but the injured world remains empty.
+- Gendered explanations can erase political agency when a woman's violence is explained as romance, madness, or manipulation before her stated ideas are considered.
 
 ## Connections
 - [[MedeaCharacter]], [[MedeaPlay|《美狄亚》 / Medea]], and [[Jason]] - source case.
@@ -29,3 +32,4 @@ This makes the concept adjacent to [[PrivateRevengeModernLaw]] and [[FilialReven
 - [[PrivateRevengeModernLaw]], [[FilialRevengePublicSympathy]], and [[ShiJianqiaoRevengeCase]] - modern revenge-law comparison branch.
 - [[TragicModernity]] and [[MoralSuspensionInArtReading]] - reading frames for avoiding quick approval or condemnation.
 - [[PostRevengeEmptiness]], [[CursedBunny|《诅咒兔》]], and [[GuaitanLiterature|怪谈文学]] - guaitan extension where revenge leaves lonely residue rather than public settlement.
+- [[CharlotteCorday]], [[JeanPaulMarat]], and [[PoliticalAssassinationEthics]] - political-assassination contrast added by episode 125.

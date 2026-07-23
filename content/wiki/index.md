@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [125. 马拉之死：卑鄙的暗杀，或正义的处决？](sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516.md) — 蜜獾吃书 episode on Marat's assassination by Charlotte Corday, David's martyr image, French Revolution factions, Jacobin terror, Lavoisier and anti-expert suspicion, and the ethics of political assassination.
 - [124. 恺撒之死：历史的韵脚，是否已失效？](sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361.md) — 蜜獾吃书 episode on Julius Caesar, the late Roman Republic crisis, army loyalty shifting toward commanders, Brutus and the assassination conspiracy, Antony and Octavian, Shakespeare's memory of Caesar's death, and republican memory after institutional failure.
 - [123.人性实验：当心你自己！](sources/123-renxing-shiyan-dangxin-ni-ziji-779479569.md) — 蜜獾吃书 episode on social psychology, hostile media perception, priming, stereotype-shaped memory, actor-observer bias, deindividuation, belief-first cognition, money illusion, emotional contagion, and self-suspicion under internet manipulation.
 - [122.匹诺曹：成长的惨痛及其所创作的](sources/122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172.md) — 蜜獾吃书 episode on 《木偶奇遇记》, Collodi, Pinocchio beyond Disney memory, the hero journey, dream logic, painful growth, and becoming human through responsibility.
@@ -541,6 +542,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Jean-Paul Marat / 让-保罗·马拉](entities/JeanPaulMarat.md) — Revolutionary journalist and agitator whose murder, martyr image, scientific grievance, and September Massacres role frame episode 125.
+- [Charlotte Corday / 夏洛特·科黛](entities/CharlotteCorday.md) — Moderate republican and Marat's assassin, read by episode 125 as politically conscious rather than manipulated or royalist.
+- [French Revolution / 法国大革命](entities/FrenchRevolution.md) — Revolutionary setting for Marat, Corday, Girondins, Jacobins, terror, martyr images, and political assassination ethics.
+- [Girondins / 吉伦特派](entities/Girondins.md) — Moderate republican faction whose conflict with Jacobins and sympathy from Corday shape the episode's factional history.
+- [Jacobin Club / 雅各宾俱乐部](entities/JacobinClub.md) — Revolutionary club and factional milieu tied in episode 125 to Marat, Robespierre, Danton, virtue politics, and terror.
+- [Maximilien Robespierre / 罗伯斯庇尔](entities/MaximilienRobespierre.md) — Jacobin leader used by episode 125 to connect virtue language, romantic politics, and revolutionary terror.
+- [Georges Danton / 丹东](entities/GeorgesDanton.md) — Revolutionary figure supporting episode 125's Jacobin leadership and terror-politics cluster.
+- [Jacques-Louis David / 雅克-路易·大卫](entities/JacquesLouisDavid.md) — Revolutionary painter whose The Death of Marat becomes the episode's case in martyrdom image-making.
+- [The Death of Marat / 《马拉之死》](entities/DeathOfMaratPainting.md) — David painting read by episode 125 as a political image that sanctifies Marat and omits Corday.
+- [Antoine Lavoisier / 拉瓦锡](entities/AntoineLavoisier.md) — Scientist whose conflict with Marat anchors the episode's science-under-revolutionary-suspicion thread.
+- [September Massacres / 九月屠杀](entities/SeptemberMassacres.md) — 1792 prison killings that episode 125 treats as central to Corday's decision to kill Marat.
+- [Thomas Paine / 托马斯·潘恩](entities/ThomasPaine.md) — Republican anti-death-penalty counterpoint in episode 125's discussion of revolution, punishment, and killing.
 - [Julius Caesar / 尤利乌斯·恺撒](entities/JuliusCaesar.md) — Roman commander and dictator read by episode 124 as charismatic, clement, reckless, and caught in a personal-rule legitimacy crisis.
 - [Roman Republic / 罗马共和国](entities/RomanRepublic.md) — Republican polity whose late institutional breakdown frames Caesar's rise, assassination, and imperial aftermath.
 - [Roman Empire / 罗马帝国](entities/RomanEmpire.md) — Imperial order emerging after Caesar's assassination failed to restore the Roman Republic.
@@ -3589,6 +3602,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Political Assassination Ethics / 政治刺杀伦理](concepts/PoliticalAssassinationEthics.md) — Episode 125's frame for when unlawful political killing can become morally legible without becoming safe or institutionally reparative.
+- [Revolutionary Terror Politics / 革命恐怖政治](concepts/RevolutionaryTerrorPolitics.md) — Mechanism linking fear, denunciation, war, factional purity, virtue language, and emergency killing in the French Revolution.
+- [Revolutionary Martyrdom Image-Making / 革命殉道图像制造](concepts/RevolutionaryMartyrdomImageMaking.md) — Frame for how David's The Death of Marat turns political violence into saint-like revolutionary sacrifice.
+- [Science Under Revolutionary Suspicion / 革命怀疑下的科学](concepts/ScienceUnderRevolutionarySuspicion.md) — Episode 125's Lavoisier thread on how expert institutions become vulnerable when knowledge is read as privilege or conspiracy.
+- [Revolutionary Virtue Politics / 革命美德政治](concepts/RevolutionaryVirtuePolitics.md) — Moralized revolutionary language where sincerity, virtue, public emotion, and suspicion of hidden interests can feed terror.
 - [Late Roman Republic Crisis / 罗马共和国晚期危机](concepts/LateRomanRepublicCrisis.md) — Structural frame for Caesar's rise as a symptom of civil conflict, elite rivalry, army loyalty, provincial wealth, and weakened republican norms.
 - [Military Personalization / 军队私人化](concepts/MilitaryPersonalization.md) — Mechanism where armies attach to commanders, rewards, and personal political ambition rather than impersonal republican offices.
 - [Personal Rule Legitimacy Crisis / 个人统治正当性危机](concepts/PersonalRuleLegitimacyCrisis.md) — Caesar's final problem of vast authority without an accepted republican form for one-person rule or succession.

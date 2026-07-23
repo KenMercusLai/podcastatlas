@@ -2,7 +2,7 @@
 title: "Historical Memory Contest"
 type: concept
 tags: [history, politics, culture]
-sources: [124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]
+sources: [124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]
 last_updated: 2026-07-24
 ---
 
@@ -18,6 +18,8 @@ The source treats memory as part of [[AmericanDemocraticResilience]]. [[RobertGu
 
 [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]] adds a classical-political memory version through the [[CaesarAssassination|assassination of Caesar]]. Ancient reports, [[WilliamShakespeare]]'s [[JuliusCaesarPlay|Julius Caesar]], anti-king republican symbolism, and the later imperial outcome all compete over whether [[JuliusCaesar|Caesar]] looks like a murdered hero, a slain tyrant, or a warning about institutional decay.
 
+[[125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]] adds a French Revolution image-memory version through [[DeathOfMaratPainting|The Death of Marat]]. [[JacquesLouisDavid|David]]'s painting makes [[JeanPaulMarat|Marat]] the visible martyr and excludes [[CharlotteCorday|Corday]], while later sympathetic images of Corday reopen the question of whether the assassination is remembered as murder, punishment, sacrifice, or political refusal.
+
 ## Key Claims
 - Historical memory is an institutional problem, not only a cultural argument.
 - Museums, memorials, schools, film, academia, and local boards all shape what citizens understand as national history.
@@ -26,6 +28,7 @@ The source treats memory as part of [[AmericanDemocraticResilience]]. [[RobertGu
 - Memory politics can move through local institutions even when national attention focuses on presidents.
 - Literature and legend can become durable memory institutions, especially when political winners or familiar fictional images give them public authority.
 - The same assassination can preserve republican warning, literary betrayal, and imperial origin story at the same time.
+- Political art can make one side of an assassination morally visible while withholding the agency or motive of the other.
 
 ## Connections
 - [[UnitedStates]], [[RebeccaJackson]], and [[AmericanDemocraticResilience]] - source context.
@@ -35,3 +38,4 @@ The source treats memory as part of [[AmericanDemocraticResilience]]. [[RobertGu
 - [[Route66NostalgiaTourism]] - related American-memory case where nostalgia selects parts of the past for tourism.
 - [[EvidenceBoundHistoricalRevision]], [[RichardIII|理查三世]], and [[CaoCaoTomb|曹操墓]] - episode 69's evidence-versus-literary-memory branch.
 - [[CaesarAssassination]], [[JuliusCaesar]], [[JuliusCaesarPlay]], and [[RepublicanMemoryAgainstDictatorship]] - classical-political memory branch added by episode 124.
+- [[DeathOfMaratPainting]], [[JacquesLouisDavid]], [[JeanPaulMarat]], [[CharlotteCorday]], and [[RevolutionaryMartyrdomImageMaking]] - French Revolution image-memory branch added by episode 125.

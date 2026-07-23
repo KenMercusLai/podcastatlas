@@ -2,7 +2,7 @@
 title: "Assassination of Julius Caesar / 恺撒遇刺"
 type: entity
 tags: [event, rome, assassination, republicanism]
-sources: [124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]
+sources: [124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]
 last_updated: 2026-07-24
 ---
 
@@ -14,6 +14,8 @@ The plot is presented as both principled and compromised. [[MarcusBrutus]] gives
 
 The killing did not restore the [[RomanRepublic|Roman Republic]]. Caesar's will, funeral, public anger, [[MarkAntony]]'s reaction, and [[OctavianAugustus|Octavian]]'s inheritance turned the murder into a new phase of civil conflict that ended in the [[RomanEmpire|Roman Empire]].
 
+[[125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]] uses the Caesar case as a comparison point for [[CharlotteCorday|Charlotte Corday]]'s assassination of [[JeanPaulMarat|Marat]]. The comparison is limited but important: both killings can preserve a political idea while failing to repair the institutions or movements that made one-person violence attractive.
+
 ## Connections
 - [[JuliusCaesar]] - target of the assassination.
 - [[MarcusBrutus]], [[GaiusCassiusLonginus]], and [[DecimusJuniusBrutus]] - key conspirators.
@@ -21,3 +23,4 @@ The killing did not restore the [[RomanRepublic|Roman Republic]]. Caesar's will,
 - [[TyrannicideRepublicanDilemma]] - concept for the action's moral and political ambiguity.
 - [[RepublicanMemoryAgainstDictatorship]] and [[HistoricalMemoryContest]] - memory consequences of the event.
 - [[JuliusCaesarPlay]] - Shakespeare's dramatic afterlife of the assassination.
+- [[CharlotteCorday]], [[JeanPaulMarat]], and [[PoliticalAssassinationEthics]] - French Revolution comparison added by episode 125.

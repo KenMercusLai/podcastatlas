@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-24] ingest | 125. 马拉之死：卑鄙的暗杀，或正义的处决？
+
+Added source page for the 蜜獾吃书 episode on Jean-Paul Marat, Charlotte Corday, David's The Death of Marat, the French Revolution, Girondins, Jacobins, Robespierre, Danton, the September Massacres, Lavoisier, Thomas Paine, revolutionary terror, martyrdom image-making, science under revolutionary suspicion, and the ethics of political assassination. Created pages for Jean-Paul Marat, Charlotte Corday, the French Revolution, Girondins, Jacobin Club, Maximilien Robespierre, Georges Danton, Jacques-Louis David, The Death of Marat, Antoine Lavoisier, September Massacres, Thomas Paine, Political Assassination Ethics, Revolutionary Terror Politics, Revolutionary Martyrdom Image-Making, Science Under Revolutionary Suspicion, and Revolutionary Virtue Politics; updated overview, index, 蜜獾吃书, Caesar Assassination, Marcus Brutus, Tyrannicide Republican Dilemma, Republican Memory Against Dictatorship, Private Revenge And Modern Law, Power-Violence Distinction, Historical Memory Contest, Moral Suspension In Art Reading, Female Revenge And Political Order, Post-Victory Oppression Risk, and Jean-Jacques Rousseau. No direct contradiction found; the source extends the Caesar assassination branch by showing that Corday's killing of Marat can be politically legible while still unlawful, dangerous, and unable by itself to repair the institutions that allowed revolutionary terror.
+
 ## [2026-07-24] ingest | 122.匹诺曹：成长的惨痛及其所创作的
 
 Added source page for the 蜜獾吃书 episode on 《木偶奇遇记》, Carlo Collodi, Pinocchio beyond Disney memory, the briefness of the long-nose motif, the hero journey, dream logic, the Blue Fairy and Geppetto as parent figures, nonhuman becoming human, and growth through becoming a protector. Created pages for 《木偶奇遇记》 / The Adventures of Pinocchio, Pinocchio, Carlo Collodi, Geppetto, Blue Fairy, Joseph Campbell, Hero Journey Narrative, Nonhuman Becoming Human Motif, and Growth As Protector Role; updated overview, index, 蜜獾吃书, The Walt Disney Company, Adult Fairy-Tale Reading, Fairy-Tale Death And Spirituality, Adaptation Original-Text Confusion, Dream Logic Narrative, Children's Literature Complexity, Classic Reading Complexity, Robot-Human Boundary, and Embodied Personhood. No direct contradiction found; the source extends existing Andersen/Alice/Disney/personhood branches by showing that a children's classic can be beloved while remaining dark, painful, and resistant to safe moral paraphrase.
@@ -4351,6 +4355,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-24] ingest | 124. 恺撒之死：历史的韵脚，是否已失效？
 
 Added source page for a 蜜獾吃书 episode on Julius Caesar, the Roman Republic's late crisis, Marius and Sulla, army loyalty shifting toward commanders, Pompey and Crassus, Cleopatra, Brutus, Cassius, Decimus, Mark Antony, Octavian/Augustus, Cicero, Cato, Shakespeare's Julius Caesar, and the question of whether assassination can save republican institutions. Created pages for Julius Caesar, the Roman Republic, the Roman Empire, Caesar's assassination, the main late-republic actors, Shakespeare and the play, Late Roman Republic Crisis, Military Personalization, Personal Rule Legitimacy Crisis, Tyrannicide Republican Dilemma, Republican Memory Against Dictatorship, and Historical Rhyme Political Reading; updated overview, index, 蜜獾吃书, Machiavellian Realism, Hector, Socrates, Historical Memory Contest, and Moral Suspension In Art Reading. No direct contradiction found; the source extends the wiki's political-theory branch by showing that Caesar's death can preserve anti-dictatorship memory while failing to repair the institutions that made republican government possible.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-24] lint | Wiki health check
 

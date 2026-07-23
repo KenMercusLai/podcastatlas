@@ -2,7 +2,7 @@
 title: "Private Revenge And Modern Law"
 type: concept
 tags: [law, violence, state, republican-china, public-opinion]
-sources: [100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038, 102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488]
+sources: [100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038, 102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]
 last_updated: 2026-07-24
 ---
 
@@ -16,6 +16,8 @@ The episode says left-wing writers and progressive intellectuals attacked the ca
 
 [[102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488]] adds an adjacent informal-order case rather than a revenge case. [[InformalJianghuOrder]] shows thieves, guards, local brokers, and respected insiders regulating conflict through reputation and negotiation. That order can solve problems the formal state does not see quickly, but it also demonstrates why modern law is suspicious of private enforcement: protection depends on network position, not equal legal status.
 
+[[125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]] adds a political-assassination neighbor through [[CharlotteCorday|Charlotte Corday]] and [[JeanPaulMarat|Marat]]. Corday's act is not private revenge in the filial or personal sense, but it raises the same state-law problem: when a person claims to punish an unpunished public wrongdoer, moral sympathy and legal monopoly collide.
+
 ## Key Claims
 - A modern state cannot easily tolerate private vengeance because it competes with legal monopoly over punishment.
 - Public sympathy can make unlawful violence feel morally intelligible, especially when prior state failure or warlord violence remains unresolved.
@@ -23,6 +25,7 @@ The episode says left-wing writers and progressive intellectuals attacked the ca
 - The case shows modern law being built not only through statutes and courts, but through public argument about what justice should feel like.
 - Episode 100 generalizes the tension beyond revenge: moral context can prevent mechanical harshness, but discretionary sympathy still needs legal limits.
 - Jianghu mediation adds a non-state enforcement neighbor: useful order can exist outside law, but it can also compete with legal equality and public accountability.
+- Political assassination is a neighboring problem because the assassin claims punishment authority in a field where legal institutions appear unable or unwilling to act.
 
 ## Connections
 - [[ShiJianqiaoRevengeCase]] - main case.
@@ -32,3 +35,4 @@ The episode says left-wing writers and progressive intellectuals attacked the ca
 - [[FilialPietyLaws]] - adjacent filial-duty concept; this page concerns revenge and punishment rather than elder-care obligation.
 - [[LawMoralityBoundary]] and [[CriminalLawAsPowerLimitation]] - broader criminal-law extension added by episode 100.
 - [[InformalJianghuOrder]] - adjacent street-order case added by episode 102.
+- [[CharlotteCorday]], [[JeanPaulMarat]], and [[PoliticalAssassinationEthics]] - political-assassination extension added by episode 125.

@@ -2,7 +2,7 @@
 title: "Post-Victory Oppression Risk / 胜利后的压迫风险"
 type: concept
 tags: [dissent, politics, ethics, power]
-sources: [116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021]
+sources: [116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]
 last_updated: 2026-07-24
 ---
 
@@ -12,12 +12,15 @@ Post-victory oppression risk / 胜利后的压迫风险 is the source's warning 
 
 The concept keeps [[PrincipledDisobedience|principled disobedience]] from becoming simple romanticism. If dissent is justified by truth, humanity, and contribution, then victory should increase responsibility for later dissent rather than create a new license to humiliate, exclude, or punish.
 
+[[125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]] turns that warning into a historical case through the [[JacobinClub|Jacobins]], [[MaximilienRobespierre|Robespierre]], and [[RevolutionaryTerrorPolitics]]. The episode shows former revolutionaries using virtue, public pressure, and emergency fear to define later dissenters as enemies of the people.
+
 ## Key Claims
 - Being right against one old authority does not make a person permanently trustworthy with power.
 - Victorious dissenters need self-suspicion because moral certainty can harden into domination.
 - Respect for defeated opponents can protect the new order from revenge logic.
 - Humor and openness to being wrong can prevent principled dissent from becoming factional purity.
 - A culture that values dissent has to protect future dissenters, including those who challenge the winners.
+- Revolutionary victory can become self-justifying terror when winners treat their coercion as the people's virtue.
 
 ## Connections
 - [[PrincipledDisobedience]] - the concept's corrective target.
@@ -25,3 +28,4 @@ The concept keeps [[PrincipledDisobedience|principled disobedience]] from becomi
 - [[InternetMoralTrial]] - adjacent risk of moral certainty becoming public punishment.
 - [[PowerViolenceDistinction]] - existing Arendtian concept around power and coercion.
 - [[ConscienceOverFaction]] - adjacent frame for refusing camp loyalty after sides change.
+- [[JacobinClub]], [[MaximilienRobespierre]], [[RevolutionaryVirtuePolitics]], and [[RevolutionaryTerrorPolitics]] - French Revolution extension added by episode 125.
