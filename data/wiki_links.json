@@ -2755,6 +2755,10 @@
     "title": "Biodegradable Amazon Plastics",
     "url": "/wiki/concepts/biodegradableamazonplastics/"
   },
+  "BiophilicDesign": {
+    "title": "Biophilic Design",
+    "url": "/wiki/concepts/biophilicdesign/"
+  },
   "BioregionalResilience": {
     "title": "Bioregional Resilience",
     "url": "/wiki/concepts/bioregionalresilience/"
@@ -4175,6 +4179,10 @@
     "title": "Concert Residency Economics",
     "url": "/wiki/concepts/concertresidencyeconomics/"
   },
+  "ConcreteFilledWallSystems": {
+    "title": "Concrete-Filled Wall Systems",
+    "url": "/wiki/concepts/concretefilledwallsystems/"
+  },
   "CondeNast": {
     "title": "Conde Nast",
     "url": "/wiki/entities/condenast/"
@@ -4502,6 +4510,10 @@
   "CrossDisciplinaryLiteratureSearch": {
     "title": "Cross-Disciplinary Literature Search",
     "url": "/wiki/concepts/crossdisciplinaryliteraturesearch/"
+  },
+  "CrossLaminatedTimber": {
+    "title": "Cross-Laminated Timber",
+    "url": "/wiki/concepts/crosslaminatedtimber/"
   },
   "CrossProjectCashTransfer": {
     "title": "Cross-Project Cash Transfer",
@@ -4834,6 +4846,10 @@
   "DavidBlumen": {
     "title": "David Blumen",
     "url": "/wiki/entities/davidblumen/"
+  },
+  "DavidBrancaccio": {
+    "title": "David Brancaccio",
+    "url": "/wiki/entities/davidbrancaccio/"
   },
   "DavidCameron": {
     "title": "David Cameron",
@@ -6439,6 +6455,14 @@
     "title": "Fintech Regulatory Window",
     "url": "/wiki/concepts/fintechregulatorywindow/"
   },
+  "FireResilientConstruction": {
+    "title": "Fire-Resilient Construction",
+    "url": "/wiki/concepts/fireresilientconstruction/"
+  },
+  "FireResistantBuildingEnvelope": {
+    "title": "Fire-Resistant Building Envelope",
+    "url": "/wiki/concepts/fireresistantbuildingenvelope/"
+  },
   "FireTechClimateResilience": {
     "title": "Fire Tech Climate Resilience",
     "url": "/wiki/concepts/firetechclimateresilience/"
@@ -7878,6 +7902,10 @@
   "Hector": {
     "title": "Hector",
     "url": "/wiki/entities/hector/"
+  },
+  "HeidiLewis": {
+    "title": "Heidi Lewis",
+    "url": "/wiki/entities/heidilewis/"
   },
   "HelenOfTroy": {
     "title": "Helen of Troy",
@@ -9470,6 +9498,10 @@
   "KComputer": {
     "title": "K Computer",
     "url": "/wiki/entities/kcomputer/"
+  },
+  "KLH": {
+    "title": "KLH",
+    "url": "/wiki/entities/klh/"
   },
   "KPhysicalIntelligence": {
     "title": "K (Physical Intelligence)",
@@ -11291,6 +11323,10 @@
     "title": "Mercedes F1",
     "url": "/wiki/entities/mercedesf1/"
   },
+  "MercerMassTimber": {
+    "title": "Mercer Mass Timber",
+    "url": "/wiki/entities/mercermasstimber/"
+  },
   "MeritBasedImmigrationFilter": {
     "title": "Merit-Based Immigration Filter",
     "url": "/wiki/concepts/meritbasedimmigrationfilter/"
@@ -11882,6 +11918,10 @@
   "NateBlecharczyk": {
     "title": "Nate Blecharczyk",
     "url": "/wiki/entities/nateblecharczyk/"
+  },
+  "NateFoster": {
+    "title": "Nate Foster",
+    "url": "/wiki/entities/natefoster/"
   },
   "NationalBasketballAssociation": {
     "title": "National Basketball Association",
@@ -16175,6 +16215,10 @@
     "title": "Sushiro / 寿司郎",
     "url": "/wiki/entities/sushiro/"
   },
+  "SustainableConstructionCarbonTradeoff": {
+    "title": "Sustainable Construction Carbon Tradeoff",
+    "url": "/wiki/concepts/sustainableconstructioncarbontradeoff/"
+  },
   "SustainableGrowthPace": {
     "title": "Sustainable Growth Pace",
     "url": "/wiki/concepts/sustainablegrowthpace/"
@@ -16706,6 +16750,10 @@
   "ThreateFillingStation": {
     "title": "Threate Filling Station",
     "url": "/wiki/entities/threatefillingstation/"
+  },
+  "ThreeDPrintedHousing": {
+    "title": "3D-Printed Housing",
+    "url": "/wiki/concepts/threedprintedhousing/"
   },
   "ThreeDPrintedProsthetics": {
     "title": "3D-Printed Prosthetics",
@@ -19726,6 +19774,10 @@
   "tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128": {
     "title": "How U.S. political campaigns have used generative AI",
     "url": "/wiki/sources/tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128/"
+  },
+  "tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128": {
+    "title": "Building a home with future fires in mind",
+    "url": "/wiki/sources/tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128/"
   },
   "tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128": {
     "title": "Making the most of AI, without the hype",

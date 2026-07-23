@@ -3850,3 +3850,11 @@ Ran lint after health passed. Deterministic checks scanned 5,065 pages and found
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic checks scanned 5,065 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` and found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; a bounded in-session review of the same first-20-page sample found no obvious contradictions and flagged source-breadth caution for single-source public-media, medical-literature-search, algorithmic-labeling, and natural-hazard framing pages. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-23] ingest | Building a home with future fires in mind
+
+Added source page for the Marketplace Tech episode with David Brancaccio on rebuilding after L.A. wildfires using cross-laminated timber, mineral wool, stucco, concrete-filled wall systems, 3D-printed housing, and biophilic design. Created pages for David Brancaccio, Heidi Lewis, KLH, Mercer Mass Timber, Nate Foster, Fire-Resilient Construction, Cross-Laminated Timber, Fire-Resistant Building Envelope, Concrete-Filled Wall Systems, 3D-Printed Housing, Sustainable Construction Carbon Tradeoff, and Biophilic Design; updated overview, index, Marketplace Tech, California, Climate Adaptation, Fire Tech Climate Resilience, and Housing Affordability Supply Mechanics. No direct contradiction found; the source extends wildfire resilience from detection, suppression, utilities, and insurance into homeowner-level material assemblies while qualifying construction-technology optimism with carbon, affordability, permitting, design, and neighborhood-memory tradeoffs.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

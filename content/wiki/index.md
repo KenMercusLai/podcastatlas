@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Building a home with future fires in mind](sources/tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128.md) — Marketplace Tech episode with David Brancaccio on rebuilding after L.A. wildfires using cross-laminated timber, mineral wool, stucco, concrete-filled forms, 3D-printed housing, and biophilic design tradeoffs.
 - [EP270 一枚芯片的漫长征途：我们离“算力自由”还有多远？](sources/ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci.md) — Talk三联 episode with Gao Yiding and Zhang Congzhi on chips, AI compute, GPU/CUDA advantages, EDA, lithography, tape-out, Moore's Law, advanced packaging, HBM, SMIC, and the whole-chain difficulty behind domestic compute freedom.
 - [Can World Cup mania grow MLS in the U.S.?](sources/can-world-cup-mania-grow-mls-in-the-us.md) — Planet Money episode on MLS using the 2026 World Cup to convert global soccer attention into local club fandom through watch parties, host-city exposure, non-host-city activation, marketing, and player recruiting.
 - [You've come a long way, Bibi: Israel's crucial election](sources/youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410.md) — The Intelligence episode on Israel's post-October-7 election, Netanyahu and opposition coalition arithmetic, Haredi conscription, avoidance of the Palestinian question, World Cup expansion and political interference, and A23A as climate symbolism.
@@ -479,6 +480,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [David Brancaccio](entities/DavidBrancaccio.md) — Marketplace Tech reporter whose own post-wildfire rebuild grounds the episode's comparison of CLT, mineral wool, stucco, concrete alternatives, carbon, and neighborhood memory.
+- [Heidi Lewis](entities/HeidiLewis.md) — Altadena homeowner in the episode using concrete-filled wall systems as a highly fire-resistant rebuilding approach.
+- [KLH](entities/KLH.md) — European mass-timber company named as a cross-laminated timber example in a Colby College dormitory project.
+- [Mercer Mass Timber](entities/MercerMassTimber.md) — Mass-timber actor connected to off-site CLT panel manufacturing and the Teddy Roosevelt Presidential Library example.
+- [Nate Foster](entities/NateFoster.md) — Mercer representative quoted on crane-placed mass-timber panels and schedule savings.
 - [Talk三联](entities/TalkSanlian.md) — Podcast/show context for EP270's public explainer on chips, semiconductor manufacturing, domestic AI-chip catch-up, and compute freedom.
 - [高一丁 / Gao Yiding](entities/GaoYiding.md) — Talk三联 host framing why chips became newly visible through AI, EVs, chip shortages, and global technology competition.
 - [JCET / 长电科技](entities/JCET.md) — Chinese semiconductor packaging company whose factory visit grounds EP270's advanced-packaging and cleanroom-manufacturing explanation.
@@ -3085,6 +3091,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Biophilic Design](concepts/BiophilicDesign.md) — Design frame for rebuilding homes with natural light, connection to nature, sustainability, and continuity with neighborhood memory.
+- [Concrete-Filled Wall Systems](concepts/ConcreteFilledWallSystems.md) — Fire-resistant rebuilding method using lightweight forms or panels filled with concrete, with carbon and design tradeoffs.
+- [Cross-Laminated Timber](concepts/CrossLaminatedTimber.md) — Pressed-layer mass-timber material framed as fire conscious, fast to assemble, and potentially lower carbon when protected and long-lived.
+- [Fire-Resilient Construction](concepts/FireResilientConstruction.md) — Post-wildfire rebuilding frame covering materials, envelopes, concrete alternatives, 3D printing, speed, carbon, and livability.
+- [Fire-Resistant Building Envelope](concepts/FireResistantBuildingEnvelope.md) — Layered exterior strategy using materials such as mineral wool and stucco around a resilient structure.
+- [Sustainable Construction Carbon Tradeoff](concepts/SustainableConstructionCarbonTradeoff.md) — Tension between fire resistance, concrete emissions, wood carbon storage, durability, and rebuilding speed.
+- [3D-Printed Housing](concepts/ThreeDPrintedHousing.md) — Concrete-like printed-home option discussed as promising but dependent on equipment economics, scale, permitting, and material tradeoffs.
 - [Compute Freedom / 算力自由](concepts/ComputeFreedom.md) — Condition where AI compute becomes cheap, abundant, reliable, and domestically available enough to reshape AI product use.
 - [Semiconductor Supply Chain](concepts/SemiconductorSupplyChain.md) — Design, wafer fabrication, packaging, and testing system whose linked constraints determine chip availability and cost.
 - [Electronic Design Automation](concepts/ElectronicDesignAutomation.md) — Chip-design software toolchain that supports simulation, verification, and tape-out while creating a deep upstream dependency.
