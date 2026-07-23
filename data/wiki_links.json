@@ -79,6 +79,10 @@
     "title": "114.又到持螯赏菊时，聊聊螃蟹的趣闻史话",
     "url": "/wiki/sources/114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117/"
   },
+  "115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309": {
+    "title": "115.京极夏彦今昔续百鬼：不研究妖怪，怎么好好做人？",
+    "url": "/wiki/sources/115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309/"
+  },
   "130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi": {
     "title": "130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏",
     "url": "/wiki/sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi/"
@@ -2022,6 +2026,10 @@
   "Anerle": {
     "title": "安乐",
     "url": "/wiki/entities/anerle/"
+  },
+  "AnganKozo": {
+    "title": "《暗眼小僧》 / Angan Kozo",
+    "url": "/wiki/entities/angankozo/"
   },
   "AngelReese": {
     "title": "Angel Reese",
@@ -4234,6 +4242,10 @@
   "ChurouNoOnna": {
     "title": "《初老的女人》",
     "url": "/wiki/entities/churounoonna/"
+  },
+  "ChuzenjiAkihiko": {
+    "title": "中禅寺秋彦 / Chuzenji Akihiko",
+    "url": "/wiki/entities/chuzenjiakihiko/"
   },
   "CindyDAmicus": {
     "title": "Cindy D'Amicus",
@@ -7311,6 +7323,10 @@
     "title": "民间故事推理改写 / Folk-Tale Mystery Rewriting",
     "url": "/wiki/concepts/folktalemysteryrewriting/"
   },
+  "FolkloreAsSocialMemory": {
+    "title": "民俗作为社会记忆 / Folklore As Social Memory",
+    "url": "/wiki/concepts/folkloreassocialmemory/"
+  },
   "FolkloreTraumaEncoding": {
     "title": "Folklore Trauma Encoding",
     "url": "/wiki/concepts/folkloretraumaencoding/"
@@ -9355,6 +9371,10 @@
     "title": "Humorous Conservation Writing",
     "url": "/wiki/concepts/humorousconservationwriting/"
   },
+  "HyakkiYagyoSeries": {
+    "title": "百鬼夜行系列 / Hyakki Yagyo Series",
+    "url": "/wiki/entities/hyakkiyagyoseries/"
+  },
   "Hyperfixed": {
     "title": "Hyperfixed",
     "url": "/wiki/entities/hyperfixed/"
@@ -10935,6 +10955,10 @@
     "title": "孔祥熙",
     "url": "/wiki/entities/kongxiangxi/"
   },
+  "KonjakuZokuHyakkiKumo": {
+    "title": "《今昔续百鬼·云》 / Konjaku Zoku Hyakki: Kumo",
+    "url": "/wiki/entities/konjakuzokuhyakkikumo/"
+  },
   "KoreanCultureLedConsumerMarketing": {
     "title": "Korean Culture Led Consumer Marketing",
     "url": "/wiki/concepts/koreancultureledconsumermarketing/"
@@ -10990,6 +11014,10 @@
   "KylinOS": {
     "title": "Kylin OS",
     "url": "/wiki/entities/kylinos/"
+  },
+  "KyogokuNatsuhiko": {
+    "title": "京极夏彦 / Kyogoku Natsuhiko",
+    "url": "/wiki/entities/kyogokunatsuhiko/"
   },
   "Kyoto": {
     "title": "Kyoto / 京都",
@@ -13750,6 +13778,10 @@
   "Nucor": {
     "title": "Nucor",
     "url": "/wiki/entities/nucor/"
+  },
+  "NumagamiRenji": {
+    "title": "沼上蓮次 / Numagami Renji",
+    "url": "/wiki/entities/numagamirenji/"
   },
   "NushiShijie": {
     "title": "《女子世界》",
@@ -18383,6 +18415,10 @@
     "title": "Tactile Transformer Encoder",
     "url": "/wiki/concepts/tactiletransformerencoder/"
   },
+  "TadaKatsumi": {
+    "title": "多田克己 / Tada Katsumi",
+    "url": "/wiki/entities/tadakatsumi/"
+  },
   "TailRiskHedging": {
     "title": "Tail-Risk Hedging",
     "url": "/wiki/concepts/tailriskhedging/"
@@ -18478,6 +18514,10 @@
   "TaskAsAService": {
     "title": "Task As A Service",
     "url": "/wiki/concepts/taskasaservice/"
+  },
+  "TataraKatsugoro": {
+    "title": "多多良胜五郎 / Tatara Katsugoro",
+    "url": "/wiki/entities/tatarakatsugoro/"
   },
   "TauLaw": {
     "title": "Tau Law",
@@ -19062,6 +19102,10 @@
   "TopOfJapan": {
     "title": "Top of Japan",
     "url": "/wiki/entities/topofjapan/"
+  },
+  "ToriyamaSekien": {
+    "title": "鸟山石燕 / Toriyama Sekien",
+    "url": "/wiki/entities/toriyamasekien/"
   },
   "Toshiba": {
     "title": "Toshiba",
@@ -20850,6 +20894,14 @@
   "Yobi": {
     "title": "Yobi",
     "url": "/wiki/entities/yobi/"
+  },
+  "YokaiImageExegesis": {
+    "title": "妖怪图像阐释 / Yokai Image Exegesis",
+    "url": "/wiki/concepts/yokaiimageexegesis/"
+  },
+  "YokaiMystery": {
+    "title": "妖怪推理 / Yokai Mystery",
+    "url": "/wiki/concepts/yokaimystery/"
   },
   "YorubaTwinCosmology": {
     "title": "Yoruba Twin Cosmology",

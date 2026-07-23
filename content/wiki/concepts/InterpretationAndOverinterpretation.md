@@ -2,7 +2,7 @@
 title: "Interpretation And Overinterpretation"
 type: concept
 tags: [interpretation, literature, reasoning, semiotics]
-sources: [90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
+sources: [115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
 last_updated: 2026-07-24
 ---
 
@@ -34,6 +34,8 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 
 [[69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]] adds a historical-revision version. The episode treats [[TheDaughterOfTime|《时间的女儿》]] and [[CaoCaoTomb|曹操墓]] as cases where literary image, dynastic politics, public distrust, and source timing can all distort interpretation. The danger runs both ways: inherited stories can be overbelieved, but a dramatic reversal can also be overinterpreted unless it remains evidence-bound.
 
+[[115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309]] adds a yokai-image version through [[ToriyamaSekien|鸟山石燕]]'s [[AnganKozo|《暗眼小僧》]] image. The source values homophones, boat details, fish imagery, and classical allusion, but it also makes [[TataraKatsugoro|多多良胜五郎]]'s wrong theories comic evidence of the risk: an attractive yokai pattern can reveal cultural meaning without solving the case.
+
 ## Key Claims
 - Interpretation is necessary because signs do not explain themselves.
 - Overinterpretation begins when a reader treats an attractive pattern as proof before checking evidence, context, and alternative explanations.
@@ -50,6 +52,7 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 - In attribution disputes, overinterpretation can begin when a scandalous or stylistically vivid text is treated as character evidence before factional motive and authorship uncertainty are weighed.
 - In miscellany reading, overinterpretation can begin when a preserved resemblance is promoted from useful clue to proven genealogy before route, date, and variant evidence are tested.
 - In family-history reading, overinterpretation can begin when a real background becomes a total solution instead of an institutional echo with limits.
+- In yokai-image reading, overinterpretation can begin when visual resemblance, homophone, or allusion is treated as proof instead of as an evidence prompt.
 
 ## Connections
 - [[SemioticDetectiveFiction]] - mystery form where the boundary becomes part of the plot.
@@ -70,3 +73,4 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 - [[RedChamberFamilyHistoryEcho]], [[CaoYinAndKangxi|《曹寅与康熙》]], [[CaoYin|曹寅]], and [[ImperialFiscalElasticity]] - episode 101's extension into family-history evidence and its boundaries.
 - [[PiedPiperOfHamelin|花衣魔笛手]], [[LegendAsSocialHistory]], [[EvidenceBoundFolkloreInquiry]], and [[FolkloreTraumaEncoding]] - episode 111's extension into folklore, social history, and confidence discipline.
 - [[HistoricalDetectiveReasoning]], [[EvidenceBoundHistoricalRevision]], [[TheDaughterOfTime|《时间的女儿》]], [[RichardIII|理查三世]], and [[CaoCaoTomb|曹操墓]] - episode 69's extension into history, archaeology, and public-memory revision.
+- [[YokaiImageExegesis|妖怪图像阐释]], [[ToriyamaSekien|鸟山石燕]], [[AnganKozo|《暗眼小僧》]], and [[YokaiMystery|妖怪推理]] - episode 115's extension into yokai image and homophone interpretation.

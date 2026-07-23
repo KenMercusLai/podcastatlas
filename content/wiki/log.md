@@ -4275,3 +4275,11 @@ Added source page for a 蜜獾吃书 episode on crab culture, dazha-crab naming,
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | 115.京极夏彦今昔续百鬼：不研究妖怪，怎么好好做人？
+
+Added source page for a 蜜獾吃书 episode introducing 京极夏彦 through 《今昔续百鬼·云》 and the story 《暗眼小僧》, covering 妖怪推理, 百鬼夜行系列, 多多良胜五郎 and 沼上蓮次's fieldwork pair, 鸟山石燕 image interpretation, the 河童/dog misdirection, postwar folklore loss, property conflict, and the question of how people continue after harm. Created pages for 京极夏彦, 百鬼夜行系列, 《今昔续百鬼·云》, 《暗眼小僧》, 多多良胜五郎, 沼上蓮次, 中禅寺秋彦, 鸟山石燕, 多田克己, Yokai Mystery, Yokai Image Exegesis, and Folklore As Social Memory; updated overview, index, 蜜獾吃书, Setting-Based Mystery, Honkaku Mystery, Semiotic Detective Fiction, Evidence-Bound Folklore Inquiry, Legend As Social History, Observation Before Inference, and Interpretation And Overinterpretation. No direct contradiction found; the source complements episode 99 by adding a demystifying yokai-mystery branch where yokai language and images are evidence of human interpretation, local memory, and social repair rather than supernatural rule physics.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

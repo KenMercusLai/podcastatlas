@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [115.京极夏彦今昔续百鬼：不研究妖怪，怎么好好做人？](sources/115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309.md) — 蜜獾吃书 episode on 京极夏彦, 《今昔续百鬼·云》, 妖怪推理, 多多良胜五郎, 《暗眼小僧》, 河童/dog misdirection, folklore fieldwork, postwar memory, and 鸟山石燕 image interpretation.
 - [114.又到持螯赏菊时，聊聊螃蟹的趣闻史话](sources/114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117.md) — 蜜獾吃书 episode on Chinese crab culture, dazha-crab naming, crab-catching tools, Song literati eating, 《金瓶梅》 and 《红楼梦》 crab banquets, 《讯蟹书》, moral projection, and eating/killing ambivalence.
 - [sp.03 串台｜趁生命气息逗留：泽拉兹尼与他的梦境](sources/sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106.md) — 蜜獾吃书 episode on Roger Zelazny, 《趁生命气息逗留》, New Wave science fiction, mythic style, robot-human personhood, digital transcendence, and close readings of key stories.
 - [113.亨丽埃塔与那场将人类学送上审判席的谋杀案](sources/113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827.md) — 蜜獾吃书 episode on Henrietta Schmerler's 1931 fieldwork murder, anthropology fieldwork safety, victim-blaming, sexual violence, and the boundary between cultural relativism and victim protection.
@@ -531,6 +532,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [京极夏彦 / Kyogoku Natsuhiko](entities/KyogokuNatsuhiko.md) — Japanese mystery writer introduced through yokai, folklore research, postwar social change, and demystifying human explanation.
+- [百鬼夜行系列 / Hyakki Yagyo Series](entities/HyakkiYagyoSeries.md) — Kyogoku Natsuhiko's yokai-mystery series where cases organize folklore, psychology, social history, and recurring characters.
+- [《今昔续百鬼·云》 / Konjaku Zoku Hyakki: Kumo](entities/KonjakuZokuHyakkiKumo.md) — Shorter Kyogokudo-universe entry point centered on 多多良胜五郎, 沼上蓮次, yokai fieldwork, and the story 《暗眼小僧》.
+- [《暗眼小僧》 / Angan Kozo](entities/AnganKozo.md) — Story where a supposed kappa event resolves into a dog named 河童, stolen documents, death, family reconciliation, and yokai-image interpretation.
+- [多多良胜五郎 / Tatara Katsugoro](entities/TataraKatsugoro.md) — Eccentric yokai researcher whose fieldwork and wrong deductions make folklore evidence visible inside 《今昔续百鬼·云》.
+- [沼上蓮次 / Numagami Renji](entities/NumagamiRenji.md) — Narrator and practical counterweight to 多多良胜五郎, linking yokai enthusiasm to postwar loss and everyday consequences.
+- [中禅寺秋彦 / Chuzenji Akihiko](entities/ChuzenjiAkihiko.md) — Kyogokudo-universe figure used by the episode to explain Kyogoku's layered explanations and rational reconstruction.
+- [鸟山石燕 / Toriyama Sekien](entities/ToriyamaSekien.md) — Yokai image-maker whose 暗眼小僧 picture anchors the episode's homophone, allusion, and visual-sign reading.
+- [多田克己 / Tada Katsumi](entities/TadaKatsumi.md) — Real yokai researcher presented as the model for 多多良胜五郎 and a bridge from fiction to folklore scholarship.
 - [螃蟹 / Crab](entities/Crab.md) — Food animal and cultural object used to connect Chinese seasonal eating, catching tools, place names, folklore, literature, and moral projection.
 - [《金瓶梅》 / Jin Ping Mei](entities/JinPingMei.md) — Classical novel used in episode 114 as the worldly crab-banquet comparison for 《红楼梦》.
 - [黄庭坚 / Huang Tingjian](entities/HuangTingjian.md) — Song poet whose Buddhist hesitation and crab poems ground the source's eating/killing moral ambivalence branch.
@@ -3484,6 +3494,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [妖怪推理 / Yokai Mystery](concepts/YokaiMystery.md) — Mystery mode where yokai names, images, and beliefs are taken seriously while final explanation returns to human action and social memory.
+- [妖怪图像阐释 / Yokai Image Exegesis](concepts/YokaiImageExegesis.md) — Reading yokai pictures through visual detail, homophone, allusion, local context, and ethical meaning without treating resemblance as proof.
+- [民俗作为社会记忆 / Folklore As Social Memory](concepts/FolkloreAsSocialMemory.md) — Frame for folklore as local memory of place, work, danger, morality, and social relations under war and modernization pressure.
 - [Crab Cultural Symbolism](concepts/CrabCulturalSymbolism.md) — Frame for how crabs become delicacy, pest, monster, literary object, proverb, ethical problem, and folk-story actor.
 - [Animal Moral Projection](concepts/AnimalMoralProjection.md) — Pattern where humans read animal bodies and behavior as moral lessons, insults, defenses, or social commentary.
 - [Eating And Killing Moral Ambivalence](concepts/EatingAndKillingMoralAmbivalence.md) — Tension between culinary pleasure and awareness of animal killing, grounded by Huang Tingjian's crab poems and Buddhist hesitation.

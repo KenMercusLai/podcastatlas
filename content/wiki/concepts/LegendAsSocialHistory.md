@@ -2,8 +2,8 @@
 title: "Legend As Social History"
 type: concept
 tags: [folklore, social-history, evidence, interpretation]
-sources: [111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]
-last_updated: 2026-07-18
+sources: [111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, 115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309]
+last_updated: 2026-07-24
 ---
 
 # Legend As Social History
@@ -14,6 +14,8 @@ The episode uses [[AbeKinya|阿布谨也]] and [[PiedPiperMedievalEurope|《花�
 
 [[95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]] extends the frame from medieval legend to [[UrbanLegend|urban legend]]. Contemporary stories about subways, ride-hailing, campuses, hospitals, cosmetic surgery, contaminated brands, and UFOs are historically useful not because their events are proven, but because they expose the institutions, technologies, and anxieties that feel opaque in daily life.
 
+[[115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309]] adds a yokai-story version. In [[AnganKozo|《暗眼小僧》]], kappa language, river danger, land ownership, family inheritance, dogs, and industrial development pressure are all part of the social world that makes the supposed yokai event intelligible.
+
 ## Key Claims
 - A legend can be historically serious without being a direct factual transcript.
 - Place, date, number, inscription, manuscript, and route details are evidence prompts, not automatic proof.
@@ -21,6 +23,7 @@ The episode uses [[AbeKinya|阿布谨也]] and [[PiedPiperMedievalEurope|《花�
 - Later fairy-tale layers may reveal newer social tensions such as contract betrayal, urban authority, professional labor, or religious demonization.
 - The most responsible answer may be a structured uncertainty rather than a single solved mystery.
 - Modern legends can be social history of infrastructure, medicine, consumer systems, and media trust even when the specific tale is false.
+- Yokai legends can preserve local social arrangements and environmental relations even when a specific event receives a non-supernatural explanation.
 
 ## Connections
 - [[PiedPiperOfHamelin|花衣魔笛手]], [[Hamelin|哈默尔恩]], and [[AbeKinya|阿布谨也]] - source case.
@@ -29,3 +32,4 @@ The episode uses [[AbeKinya|阿布谨也]] and [[PiedPiperMedievalEurope|《花�
 - [[MedievalUrbanMarginality]] - social structure exposed by the source.
 - [[MythAsHistoricalEvidence]], [[StoryMotifTransmission]], and [[InterpretationAndOverinterpretation]] - adjacent evidence and comparison guardrails.
 - [[UrbanLegend|都市传说]], [[ConspiracyTheoryPatternSeeking]], and [[UFOConspiracyCulture]] - modern social-history extensions added by episode 95.
+- [[YokaiMystery|妖怪推理]], [[AnganKozo|《暗眼小僧》]], and [[FolkloreAsSocialMemory|民俗作为社会记忆]] - episode 115's yokai social-history extension.
