@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E233｜硅谷右翼的权力网如何形成？聊聊彼得·蒂尔的思想启蒙拼图](sources/e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d.md) — 硅谷101 episode on Peter Thiel, Stanford Review, Girard/Schmitt/Strauss, Palantir, right-wing media, J.D. Vance, and Silicon Valley's technology-right power network.
 - [How "surveillance pricing" charges one online customer more than another for the same item](sources/tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128.md) — Marketplace Tech episode on customer-specific retail prices, surveillance discounting, Walmart.com's signed-in versus anonymous toothpaste price test, and the opacity of algorithmic pricing.
 - [Teaching students to 'be better than a robot'](sources/tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128.md) — Marketplace Tech episode with Christy Gerdhary on AI in classrooms, writing pedagogy, detector bias, transparent AI collaboration, and assignments that ask students to exceed generic chatbot output.
 - [E232｜餐饮出海有新招儿吗？从鼎泰丰与贡茶拿下美国初代销冠聊起](sources/e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d.md) — 硅谷101 episode on Din Tai Fung, Gong Cha, U.S. restaurant real estate, tea-drink franchising, cultural food adoption, and why Chinese food brands need local legibility rather than home-market speed.
@@ -486,6 +487,25 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Peter Thiel](entities/PeterThiel.md) — Central Silicon Valley investor and political network-builder in E233, linking Stanford Review, PayPal, Palantir, Founders Fund, Thiel Fellowship, media infrastructure, and J.D. Vance.
+- [Stanford Review](entities/StanfordReview.md) — Conservative Stanford student publication treated as the campus-media seed of Thiel's later technology-right network.
+- [Olin Foundation](entities/OlinFoundation.md) — Conservative donor institution named as supporting Stanford Review and a wider campus conservative media network.
+- [Rene Girard](entities/ReneGirard.md) — Philosopher whose mimetic theory is used in E233 to interpret Thiel's anti-competition and monopoly logic.
+- [Carl Schmitt](entities/CarlSchmitt.md) — Political theorist used in E233 to connect Thiel's post-9/11 worldview to exception-state surveillance technology.
+- [Leo Strauss](entities/LeoStrauss.md) — Political philosopher used in E233 to interpret Thiel's hidden-power and kingmaker posture.
+- [PayPal](entities/PayPal.md) — Payments company used in E233 as a Thiel/Musk rivalry, alternative-money, and mimetic competition case.
+- [Founders Fund](entities/FoundersFund.md) — Thiel-linked venture-capital institution framed as part of a capital, media, and talent-selection network.
+- [Thiel Fellowship](entities/ThielFellowship.md) — Fellowship program interpreted as a contrarian talent filter inside Thiel's wider political talent pipeline.
+- [David Horowitz](entities/DavidHorowitz.md) — Conservative operator named as a tactical influence on Thiel's combative media and anti-progressive politics.
+- [Keith Rabois](entities/KeithRabois.md) — Stanford Review and Thiel-network figure used as a campus-to-Silicon-Valley continuity case.
+- [Joe Lonsdale](entities/JoeLonsdale.md) — Palantir co-founder and Thiel-network figure in E233.
+- [Stephen Cohen](entities/StephenCohen.md) — Palantir co-founder named as part of the Thiel and Stanford Review-adjacent network.
+- [Mike Solana](entities/MikeSolana.md) — Founders Fund media/brand operator and Pirate Wires figure in the Thiel network.
+- [Pirate Wires](entities/PirateWires.md) — Right-leaning Silicon Valley media outlet used as a Thiel-adjacent media-infrastructure example.
+- [American Greatness](entities/AmericanGreatness.md) — Pro-Trump right-wing media platform linked in E233 to Chris Buskirk and early Thiel support.
+- [Chris Buskirk](entities/ChrisBuskirk.md) — American Greatness founder and Rockbridge Network co-founder linked to Thiel and J.D. Vance.
+- [Rockbridge Network](entities/RockbridgeNetwork.md) — New-right political and media-building organization associated with Chris Buskirk and J.D. Vance.
+- [Seasteading Institute](entities/SeasteadingInstitute.md) — Libertarian governance-exit project used to contrast Thiel's earlier escape-politics phase with later political entry.
 - [Kristin Schwab](entities/KristinSchwab.md) — Marketplace Tech reporter grounding surveillance-pricing opacity through a signed-in versus anonymous Walmart.com toothpaste-price comparison.
 - [Joseph Turow](entities/JosephTurow.md) — Media and privacy expert separating surveillance pricing's legality from its fairness and transparency problems.
 - [Christy Gerdhary](entities/ChristyGerdhary.md) — Babson writing professor and Writing Center director explaining AI writing pedagogy, transparent collaboration, and detector-bias concerns.
@@ -3125,6 +3145,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Technology Right Power Network](concepts/TechnologyRightPowerNetwork.md) — E233 concept for Thiel's durable stack of campus media, philosophy, capital, companies, media outlets, and candidate selection.
+- [Campus Conservative Media Network](concepts/CampusConservativeMediaNetwork.md) — E233 concept for donor-backed conservative student publications as early training and network infrastructure.
+- [Mimetic Competition Avoidance](concepts/MimeticCompetitionAvoidance.md) — E233 concept linking Girard's mimetic theory to Thiel's monopoly and anti-competition business logic.
+- [Exception-State Surveillance Technology](concepts/ExceptionStateSurveillanceTechnology.md) — E233 concept connecting Schmitt's exception politics to Palantir-style data and surveillance tools after 9/11.
+- [Straussian Kingmaker Politics](concepts/StraussianKingmakerPolitics.md) — E233 concept for Thiel's hidden-power, backstage political-selection role.
+- [Political Talent Pipeline](concepts/PoliticalTalentPipeline.md) — E233 concept for selecting and promoting aligned people through publications, fellowships, venture capital, media, and campaigns.
+- [Right-Wing Media Infrastructure](concepts/RightWingMediaInfrastructure.md) — E233 concept for Thiel-adjacent media, newsletter, influencer, and political narrative channels.
+- [Political Exit to Entry](concepts/PoliticalExitToEntry.md) — E233 concept for Thiel's shift from seasteading/libertarian exit ideas toward direct U.S. political influence.
 - [Surveillance Pricing](concepts/SurveillancePricing.md) — Data-driven retail pricing practice where different customers may see different prices or discounts based on collected personal and behavioral signals.
 - [AI Writing Pedagogy](concepts/AIWritingPedagogy.md) — Classroom approach that teaches students to inspect, disclose, remix, and exceed AI-generated writing rather than only ban or hide tool use.
 - [Transparent AI Use](concepts/TransparentAIUse.md) — Process-visible AI collaboration pattern where students show which work is theirs, what the tool changed, and how they judged the result.

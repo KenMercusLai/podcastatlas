@@ -2,8 +2,8 @@
 title: "David Sacks"
 type: entity
 tags: [person, startups, management]
-sources: [tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
-last_updated: 2026-07-12
+sources: [e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
+last_updated: 2026-07-23
 ---
 
 # David Sacks
@@ -14,9 +14,12 @@ The source presents Sacks only through Conrad's first-person account. Conrad arg
 
 [[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] adds [[SamAltman]]'s brief version of the same [[ParkerConrad]] situation. Altman describes it as one of the worst startup problems he remembers seeing at [[YCombinator]] and uses it to explain that a large part of running YC involved fighting with investors on founders' behalf.
 
+[[e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d]] adds Sacks to the [[PeterThiel]] and [[StanfordReview]] branch. The episode treats him as part of the campus and PayPal-adjacent network, and notes his co-authorship with Thiel on a critique of diversity politics as an extension of the anti-progressive university fight.
+
 ## Connections
 - [[Zenefits]] - company where Sacks became CEO after Conrad's departure.
 - [[ParkerConrad]] - source narrator describing the conflict.
 - [[LannyDavis]] - crisis-PR figure Conrad says Sacks hired.
 - [[StartupGovernance]] and [[FounderReputationRecovery]] - concepts connected to the disputed transition and public narrative.
 - [[SamAltman]] and [[YCombinator]] - founder-defense context added by the Sam Altman episode.
+- [[PeterThiel]], [[StanfordReview]], [[CampusConservativeMediaNetwork]], and [[TechnologyRightPowerNetwork]] - Silicon Valley right network context added by Silicon Valley 101.

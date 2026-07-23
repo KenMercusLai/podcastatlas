@@ -2,11 +2,13 @@
 title: "Palantir"
 type: entity
 tags: [company, software, enterprise]
-sources: [tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, socialradarspod-garrytan-final, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde]
-last_updated: 2026-07-12
+sources: [e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, socialradarspod-garrytan-final, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde]
+last_updated: 2026-07-23
 ---
 
 # Palantir
+
+[[e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d]] adds Palantir to the [[PeterThiel]] ideology and politics branch. The [[SiliconValley101]] episode links Palantir's founding logic to [[CarlSchmitt]], 9/11, and [[ExceptionStateSurveillanceTechnology]]: in this interpretation, data search and surveillance tools become a way for government to act under exceptional conditions when liberal procedure is judged too slow or naive.
 
 Palantir is referenced in [[openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6]] as the origin context for the [[ForwardDeployedEngineer]] role. In the episode's framing, Palantir-style deployment means sending engineers into customer organizations to understand local workflows, build tailored systems, and make software operational in practice. [[e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde]] reinforces this lineage through [[Jove]]'s account of complex government and enterprise customers, temporary APIs, and the need to understand data and requirements on site.
 
@@ -20,6 +22,8 @@ Palantir is referenced in [[openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai
 
 ## Connections
 - [[ForwardDeployedEngineer]] — role associated with Palantir's enterprise implementation model.
+- [[PeterThiel]], [[CarlSchmitt]], and [[ExceptionStateSurveillanceTechnology]] - ideological and crisis-politics branch added by Silicon Valley 101.
+- [[JoeLonsdale]] and [[StephenCohen]] - co-founder network nodes highlighted in the same source.
 - [[GarryTan]] and [[BuilderCenteredInstitutions]] — early employee and builder-value context added by The Social Radars.
 - [[AlexKarp]], [[Miami]], [[Florida]], [[TaxFoundation]], and [[SouthFloridaTechMigration]] - headquarters move and business-geography context added by Marketplace Tech.
 - [[OpenAI]] and [[Anthropic]] — frontier AI companies now discussed as adopting or emphasizing similar enterprise-deployment roles.

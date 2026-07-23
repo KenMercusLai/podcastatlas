@@ -2,8 +2,8 @@
 title: "Elon Musk"
 type: entity
 tags: [person, founder, spacex, tesla]
-sources: [tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]
-last_updated: 2026-07-12
+sources: [e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]
+last_updated: 2026-07-23
 ---
 
 # Elon Musk
@@ -20,6 +20,8 @@ The source emphasizes Musk's use of extreme targets. In the episode, 10% or 30% 
 
 [[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] adds Musk through the announced [[SpaceX]] purchase of [[XAI|xAI]]. [[PareshDave]] says the combination may make Musk's many projects look more unified to investors, even though it also bundles a cash-burning AI startup, chatbot controversies, and future [[SpaceBasedAIInfrastructure]] claims into a possible SpaceX IPO story.
 
+[[e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d]] adds Musk through the early [[PayPal]] rivalry and merger story. The [[SiliconValley101]] episode uses the Thiel-Musk payments conflict as an example of [[MimeticCompetitionAvoidance]]: similar founders chasing a similar object can either burn energy in imitation or consolidate into a more powerful network.
+
 ## Connections
 - [[SpaceX]], [[Falcon9]], [[Starship]], and [[Starlink]] — primary company and platform context in this source.
 - [[FirstPrinciplesManufacturing]] and [[HighResponsibilityDensity]] — management and engineering style associated with the source's Musk stories.
@@ -29,3 +31,4 @@ The source emphasizes Musk's use of extreme targets. In the episode, 10% or 30% 
 - [[OpenAI]], [[SamAltman]], and [[FounderRiskCalibration]] - OpenAI/Twitter discussion context added by The Social Radars.
 - [[Substack]], [[ChrisBest]], [[Twitter]], and [[SubstackNotes]] - creator-platform conflict account added by the Chris Best YC offsite episode.
 - [[StrategicAIInfrastructureDependence]] - AI infrastructure and fundraising frame added by the Marketplace Tech episode.
+- [[PeterThiel]], [[PayPal]], [[ReneGirard]], and [[MimeticCompetitionAvoidance]] - early payments-rivalry interpretation added by Silicon Valley 101.

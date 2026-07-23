@@ -3910,3 +3910,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-23] ingest | E233｜硅谷右翼的权力网如何形成？聊聊彼得·蒂尔的思想启蒙拼图
+
+Added source page for the 硅谷101 episode on Peter Thiel, Stanford Review, Girard, Schmitt, Strauss, PayPal, Facebook, Palantir, Founders Fund, Thiel Fellowship, right-wing media infrastructure, Rockbridge Network, 1789 Capital, and J.D. Vance. Created pages for Peter Thiel, Stanford Review, Olin Foundation, Rene Girard, Carl Schmitt, Leo Strauss, PayPal, Founders Fund, Thiel Fellowship, David Horowitz, Keith Rabois, Joe Lonsdale, Stephen Cohen, Mike Solana, Pirate Wires, American Greatness, Chris Buskirk, Rockbridge Network, Seasteading Institute, Technology Right Power Network, Campus Conservative Media Network, Mimetic Competition Avoidance, Exception-State Surveillance Technology, Straussian Kingmaker Politics, Political Talent Pipeline, Right-Wing Media Infrastructure, and Political Exit to Entry; updated overview, index, Silicon Valley 101, Palantir, JD Vance, David Sacks, Donald Trump, Stanford University, Facebook, Elon Musk, 1789 Capital, New Right Policy Network, and Trumpism Institutionalization. No direct contradiction found; the source extends the existing Trumpism branch upstream into Silicon Valley campus media, venture capital, surveillance technology, alternative media, and candidate-selection infrastructure while keeping the Palantir ideology claim source-scoped.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 5,162 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-18 with 4,998 nodes and 49,201 edges while the wiki scan found 5,162 pages; they found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.

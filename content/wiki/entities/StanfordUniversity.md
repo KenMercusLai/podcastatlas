@@ -2,7 +2,7 @@
 title: "Stanford University"
 type: entity
 tags: [university, research, ai, startups]
-sources: [tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-garrytan-final, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, socialradarspod-tonyxu-final, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]
+sources: [e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-garrytan-final, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, socialradarspod-tonyxu-final, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]
 last_updated: 2026-07-18
 ---
 
@@ -28,6 +28,8 @@ In this wiki branch, Stanford's first role was institutional rather than biograp
 
 [[tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2]] adds Stanford as the research and sourcing environment behind early [[Google]]. [[RonConway]] says [[SVAngel]] deliberately cultivated Stanford engineering professors because startups often came out of PhD programs; [[DavidCheriton]] and [[RajivMotwani]] then became key links to [[LarryPage]], [[SergeyBrin]], and [[PageRankSearchRelevance]].
 
+[[e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d]] adds Stanford as the campus-political environment behind [[PeterThiel]]'s [[StanfordReview]]. The [[SiliconValley101]] episode frames late-1980s Stanford as a place where progressive curriculum and identity-politics debates created a local conservative counter-public that later fed [[TechnologyRightPowerNetwork]].
+
 ## Connections
 - [[CommonSenseMedia]] - co-cited report source in the episode.
 - [[DariaGeorgievich]] - expert interviewed about chatbot testing.
@@ -41,3 +43,4 @@ In this wiki branch, Stanford's first role was institutional rather than biograp
 - [[EdithElliott]], [[NooraHealth]], [[CareCompanionProgram]], and [[FamilyCaregiverTraining]] - global-health design-project branch added by The Social Radars.
 - [[DimitriDadiomov]], [[BASES]], [[JessicaLivingston]], [[YCombinator]], and [[ModernTreasury]] - Stanford startup-community branch added by the Dadiomov episode.
 - [[Google]], [[LarryPage]], [[SergeyBrin]], [[DavidCheriton]], [[RajivMotwani]], and [[StanfordStartupSourcing]] - search and investor-sourcing branch added by the Conway Part 3 episode.
+- [[PeterThiel]], [[StanfordReview]], [[CampusConservativeMediaNetwork]], and [[OlinFoundation]] - campus conservative-media branch added by Silicon Valley 101.

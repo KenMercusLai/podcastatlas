@@ -1771,6 +1771,10 @@
     "title": "American Giants Museum",
     "url": "/wiki/entities/americangiantsmuseum/"
   },
+  "AmericanGreatness": {
+    "title": "American Greatness",
+    "url": "/wiki/entities/americangreatness/"
+  },
   "AmericanMoment": {
     "title": "American Moment",
     "url": "/wiki/entities/americanmoment/"
@@ -3251,6 +3255,10 @@
     "title": "Camp Social",
     "url": "/wiki/entities/campsocial/"
   },
+  "CampusConservativeMediaNetwork": {
+    "title": "Campus Conservative Media Network",
+    "url": "/wiki/concepts/campusconservativemedianetwork/"
+  },
   "CampusNightClimbing": {
     "title": "Campus Night Climbing",
     "url": "/wiki/concepts/campusnightclimbing/"
@@ -3362,6 +3370,10 @@
   "CarlSagan": {
     "title": "Carl Sagan",
     "url": "/wiki/entities/carlsagan/"
+  },
+  "CarlSchmitt": {
+    "title": "Carl Schmitt",
+    "url": "/wiki/entities/carlschmitt/"
   },
   "CarlotaPerez": {
     "title": "Carlota Perez",
@@ -3834,6 +3846,10 @@
   "ChrisBest": {
     "title": "Chris Best",
     "url": "/wiki/entities/chrisbest/"
+  },
+  "ChrisBuskirk": {
+    "title": "Chris Buskirk",
+    "url": "/wiki/entities/chrisbuskirk/"
   },
   "ChrisQuinn": {
     "title": "Chris Quinn",
@@ -4926,6 +4942,10 @@
   "DavidEllison": {
     "title": "David Ellison",
     "url": "/wiki/entities/davidellison/"
+  },
+  "DavidHorowitz": {
+    "title": "David Horowitz",
+    "url": "/wiki/entities/davidhorowitz/"
   },
   "DavidKirkpatrick": {
     "title": "David Kirkpatrick",
@@ -6119,6 +6139,10 @@
     "title": "《优秀的绵羊》 / Excellent Sheep",
     "url": "/wiki/entities/excellentsheep/"
   },
+  "ExceptionStateSurveillanceTechnology": {
+    "title": "Exception-State Surveillance Technology",
+    "url": "/wiki/concepts/exceptionstatesurveillancetechnology/"
+  },
   "ExecutivePowerPrecedent": {
     "title": "Executive Power Precedent",
     "url": "/wiki/concepts/executivepowerprecedent/"
@@ -6874,6 +6898,10 @@
   "FounderWorkBoundaries": {
     "title": "Founder Work Boundaries",
     "url": "/wiki/concepts/founderworkboundaries/"
+  },
+  "FoundersFund": {
+    "title": "Founders Fund",
+    "url": "/wiki/entities/foundersfund/"
   },
   "FourFTraumaResponse": {
     "title": "4F Trauma Response",
@@ -9371,6 +9399,10 @@
     "title": "Joe Gebbia",
     "url": "/wiki/entities/joegebbia/"
   },
+  "JoeLonsdale": {
+    "title": "Joe Lonsdale",
+    "url": "/wiki/entities/joelonsdale/"
+  },
   "JoeRogan": {
     "title": "Joe Rogan",
     "url": "/wiki/entities/joerogan/"
@@ -9718,6 +9750,10 @@
   "KeithGill": {
     "title": "Keith Gill",
     "url": "/wiki/entities/keithgill/"
+  },
+  "KeithRabois": {
+    "title": "Keith Rabois",
+    "url": "/wiki/entities/keithrabois/"
   },
   "KejiLuandun": {
     "title": "Keji Luandun",
@@ -10202,6 +10238,10 @@
   "LeoMirani": {
     "title": "Leo Mirani",
     "url": "/wiki/entities/leomirani/"
+  },
+  "LeoStrauss": {
+    "title": "Leo Strauss",
+    "url": "/wiki/entities/leostrauss/"
   },
   "LeoTolstoy": {
     "title": "Leo Tolstoy / 托尔斯泰",
@@ -11579,6 +11619,10 @@
     "title": "Mike Moritz",
     "url": "/wiki/entities/mikemoritz/"
   },
+  "MikeSolana": {
+    "title": "Mike Solana",
+    "url": "/wiki/entities/mikesolana/"
+  },
   "MilieuSpecificAnalysis": {
     "title": "Milieu-Specific Analysis",
     "url": "/wiki/concepts/milieuspecificanalysis/"
@@ -11590,6 +11634,10 @@
   "Millian": {
     "title": "Millian",
     "url": "/wiki/entities/millian/"
+  },
+  "MimeticCompetitionAvoidance": {
+    "title": "Mimetic Competition Avoidance",
+    "url": "/wiki/concepts/mimeticcompetitionavoidance/"
   },
   "MinamiIoto": {
     "title": "南硫磺岛 / Minami Ioto",
@@ -12475,6 +12523,10 @@
     "title": "Oil Producer Supply Coordination",
     "url": "/wiki/concepts/oilproducersupplycoordination/"
   },
+  "OlinFoundation": {
+    "title": "Olin Foundation",
+    "url": "/wiki/entities/olinfoundation/"
+  },
   "OliveYoung": {
     "title": "OLIVE YOUNG / 올리브영",
     "url": "/wiki/entities/oliveyoung/"
@@ -12967,6 +13019,10 @@
     "title": "Paul Rhode",
     "url": "/wiki/entities/paulrhode/"
   },
+  "PayPal": {
+    "title": "PayPal",
+    "url": "/wiki/entities/paypal/"
+  },
   "PayPerClassFitnessModel": {
     "title": "Pay-Per-Class Fitness Model",
     "url": "/wiki/concepts/payperclassfitnessmodel/"
@@ -13147,6 +13203,10 @@
     "title": "Peter Navarro",
     "url": "/wiki/entities/peternavarro/"
   },
+  "PeterThiel": {
+    "title": "Peter Thiel",
+    "url": "/wiki/entities/peterthiel/"
+  },
   "PewResearchCenter": {
     "title": "Pew Research Center",
     "url": "/wiki/entities/pewresearchcenter/"
@@ -13238,6 +13298,10 @@
   "PiotrZilevsky": {
     "title": "Piotr Zilevsky",
     "url": "/wiki/entities/piotrzilevsky/"
+  },
+  "PirateWires": {
+    "title": "Pirate Wires",
+    "url": "/wiki/entities/piratewires/"
   },
   "PlaceBasedFiction": {
     "title": "Place-Based Fiction",
@@ -13379,6 +13443,10 @@
     "title": "Political Delivery Gap",
     "url": "/wiki/concepts/politicaldeliverygap/"
   },
+  "PoliticalExitToEntry": {
+    "title": "Political Exit to Entry",
+    "url": "/wiki/concepts/politicalexittoentry/"
+  },
   "PoliticalFarceAccountability": {
     "title": "Political Farce Accountability",
     "url": "/wiki/concepts/politicalfarceaccountability/"
@@ -13406,6 +13474,10 @@
   "PoliticalShowTrial": {
     "title": "Political Show Trial",
     "url": "/wiki/concepts/politicalshowtrial/"
+  },
+  "PoliticalTalentPipeline": {
+    "title": "Political Talent Pipeline",
+    "url": "/wiki/concepts/politicaltalentpipeline/"
   },
   "PollenAsHistoricalObject": {
     "title": "Pollen As Historical Object",
@@ -14307,6 +14379,10 @@
     "title": "Rene Descartes / 笛卡尔",
     "url": "/wiki/entities/renedescartes/"
   },
+  "ReneGirard": {
+    "title": "Rene Girard",
+    "url": "/wiki/entities/renegirard/"
+  },
   "RenqingOrder": {
     "title": "Renqing Order",
     "url": "/wiki/concepts/renqingorder/"
@@ -14479,6 +14555,10 @@
     "title": "Ricky Alam",
     "url": "/wiki/entities/rickyalam/"
   },
+  "RightWingMediaInfrastructure": {
+    "title": "Right-Wing Media Infrastructure",
+    "url": "/wiki/concepts/rightwingmediainfrastructure/"
+  },
   "Ring": {
     "title": "Ring",
     "url": "/wiki/entities/ring/"
@@ -14598,6 +14678,10 @@
   "RoboticsSimulationEvaluation": {
     "title": "Robotics Simulation Evaluation",
     "url": "/wiki/concepts/roboticssimulationevaluation/"
+  },
+  "RockbridgeNetwork": {
+    "title": "Rockbridge Network",
+    "url": "/wiki/entities/rockbridgenetwork/"
   },
   "RocketPropellantSettling": {
     "title": "Rocket Propellant Settling",
@@ -15046,6 +15130,10 @@
   "SeasonalInventoryFinancing": {
     "title": "Seasonal Inventory Financing",
     "url": "/wiki/concepts/seasonalinventoryfinancing/"
+  },
+  "SeasteadingInstitute": {
+    "title": "Seasteading Institute",
+    "url": "/wiki/entities/seasteadinginstitute/"
   },
   "SeattleSounders": {
     "title": "Seattle Sounders",
@@ -15931,6 +16019,10 @@
     "title": "Standard Chartered",
     "url": "/wiki/entities/standardchartered/"
   },
+  "StanfordReview": {
+    "title": "Stanford Review",
+    "url": "/wiki/entities/stanfordreview/"
+  },
   "StanfordStartupGarage": {
     "title": "Stanford Startup Garage",
     "url": "/wiki/entities/stanfordstartupgarage/"
@@ -16075,6 +16167,10 @@
     "title": "Stephen Billings",
     "url": "/wiki/entities/stephenbillings/"
   },
+  "StephenCohen": {
+    "title": "Stephen Cohen",
+    "url": "/wiki/entities/stephencohen/"
+  },
   "StephenMoran": {
     "title": "Stephen Moran",
     "url": "/wiki/entities/stephenmoran/"
@@ -16166,6 +16262,10 @@
   "StrattonOakmont": {
     "title": "Stratton Oakmont",
     "url": "/wiki/entities/strattonoakmont/"
+  },
+  "StraussianKingmakerPolitics": {
+    "title": "Straussian Kingmaker Politics",
+    "url": "/wiki/concepts/straussiankingmakerpolitics/"
   },
   "StreamingAudienceRetention": {
     "title": "Streaming Audience Retention",
@@ -16647,6 +16747,10 @@
     "title": "Technology Installation Cycle",
     "url": "/wiki/concepts/technologyinstallationcycle/"
   },
+  "TechnologyRightPowerNetwork": {
+    "title": "Technology Right Power Network",
+    "url": "/wiki/concepts/technologyrightpowernetwork/"
+  },
   "TeenChatbotMentalHealthRisk": {
     "title": "Teen Chatbot Mental Health Risk",
     "url": "/wiki/concepts/teenchatbotmentalhealthrisk/"
@@ -16874,6 +16978,10 @@
   "ThibautLouisLucas": {
     "title": "Thibaut-Louis Lucas",
     "url": "/wiki/entities/thibautlouislucas/"
+  },
+  "ThielFellowship": {
+    "title": "Thiel Fellowship",
+    "url": "/wiki/entities/thielfellowship/"
   },
   "ThinkReasonLtd": {
     "title": "思考理性有限公司 / Think Reason Ltd.",
@@ -19378,6 +19486,10 @@
   "e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d": {
     "title": "E232｜餐饮出海有新招儿吗？从鼎泰丰与贡茶拿下美国初代销冠聊起",
     "url": "/wiki/sources/e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d/"
+  },
+  "e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d": {
+    "title": "E233｜硅谷右翼的权力网如何形成？聊聊彼得·蒂尔的思想启蒙拼图",
+    "url": "/wiki/sources/e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d/"
   },
   "e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde": {
     "title": "E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE",
