@@ -2,7 +2,7 @@
 title: "Reddit"
 type: entity
 tags: [company, social-media, online-community, startups]
-sources: [tsr-s5-jared-v3final-tsr-s5-jared-v3final, tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-stevehuffman-final]
+sources: [tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-stevehuffman-final]
 last_updated: 2026-07-23
 ---
 
@@ -18,6 +18,8 @@ The episode follows Reddit through its June 2005 start, competition with [[Digg]
 
 [[tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128]] adds Reddit as a reputation input for [[AnswerEngineOptimization]]. [[ErinGriffith]] says negative or inaccurate Reddit posts can surface prominently in chatbot answers, so brands may try to publish more detailed positive or corrective information. This turns Reddit from a community source into a machine-summarized reputation layer for AI search.
 
+[[tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128]] adds Reddit as the launch surface for a viral whistleblower-style hoax. [[CaseyNewton]] says the post claimed to expose misconduct at a food-delivery app, then a source supplied a plausible badge and document; the episode uses the case to show why Reddit claims can trigger [[AIGeneratedHoaxEvidence]], [[AIRealityVerificationTax]], and [[OutrageTriggeredSkepticism]] before journalists or readers treat them as reliable.
+
 [[tsr-s5-jared-v3final-tsr-s5-jared-v3final]] adds Reddit as one of [[Scribd]]'s early launch-attention surfaces. In [[JaredFriedman]]'s account, Scribd's March 2007 launch quickly reached [[HackerNews]], TechCrunch, [[Slashdot]], [[Digg]], Reddit, and major news outlets, helping the company move from nearly broke to multiple Series A term sheets.
 
 ## Connections
@@ -29,3 +31,4 @@ The episode follows Reddit through its June 2005 start, competition with [[Digg]
 - [[UserPoweredContentPlatform]], [[CorporateOwnedStartupConstraints]], [[PlatformCommunityGovernance]], and [[FounderReturnCrisis]] - concepts extended by the Reddit story.
 - [[AICollegeSearch]], [[ChatGPT]], and [[Instagram]] - campus-vibe use case added by Marketplace Tech.
 - [[AnswerEngineOptimization]], [[GenerativeEngineOptimization]], and [[TrustAsBusinessAsset]] - brand-reputation use case added by Marketplace Tech.
+- [[AIGeneratedHoaxEvidence]], [[AIRealityVerificationTax]], and [[OutrageTriggeredSkepticism]] - hoax-verification use case added by Marketplace Tech.

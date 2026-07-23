@@ -4138,3 +4138,11 @@ Ran lint. Report printed to stdout; lint-report.md was not saved.
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-23] ingest | Unraveling the complex knot of an AI-generated hoax
+
+Added source page for the Marketplace Tech episode with Megan McCarty-Carino and Casey Newton on a viral Reddit hoax supported by a plausible employee badge and internal-looking document. Created pages for Casey Newton, Platformer, SynthID, AI-Generated Hoax Evidence, and Outrage-Triggered Skepticism; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Gemini, ChatGPT, Reddit, Uber Eats, AI Information Pollution, AI Content Provenance, AI Reality Verification Tax, AI Journalism Trust, and Human Judgment Under AI. No direct contradiction found; the source extends the January 21 infocalypse episode by showing a concrete newsroom verification case where AI-generated supporting evidence raised the cost of deciding what was real.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

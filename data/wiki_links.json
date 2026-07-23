@@ -823,6 +823,10 @@
     "title": "AI-Generated Advertising",
     "url": "/wiki/concepts/aigeneratedadvertising/"
   },
+  "AIGeneratedHoaxEvidence": {
+    "title": "AI-Generated Hoax Evidence",
+    "url": "/wiki/concepts/aigeneratedhoaxevidence/"
+  },
   "AIGovernanceAndCompliance": {
     "title": "AI Governance And Compliance",
     "url": "/wiki/concepts/aigovernanceandcompliance/"
@@ -3606,6 +3610,10 @@
   "Casetext": {
     "title": "Casetext",
     "url": "/wiki/entities/casetext/"
+  },
+  "CaseyNewton": {
+    "title": "Casey Newton",
+    "url": "/wiki/entities/caseynewton/"
   },
   "CaseyWhite": {
     "title": "Casey White",
@@ -13499,6 +13507,10 @@
     "title": "Output Quality Gates",
     "url": "/wiki/concepts/outputqualitygates/"
   },
+  "OutrageTriggeredSkepticism": {
+    "title": "Outrage-Triggered Skepticism",
+    "url": "/wiki/concepts/outragetriggeredskepticism/"
+  },
   "Outrank": {
     "title": "Outrank",
     "url": "/wiki/entities/outrank/"
@@ -14118,6 +14130,10 @@
   "PlatformOwnershipTransition": {
     "title": "Platform Ownership Transition",
     "url": "/wiki/concepts/platformownershiptransition/"
+  },
+  "Platformer": {
+    "title": "Platformer",
+    "url": "/wiki/entities/platformer/"
   },
   "PlatformizedDramaProduction": {
     "title": "Platformized Drama Production",
@@ -17466,6 +17482,10 @@
   "Synopsys": {
     "title": "Synopsys / 新思科技",
     "url": "/wiki/entities/synopsys/"
+  },
+  "SynthID": {
+    "title": "SynthID",
+    "url": "/wiki/entities/synthid/"
   },
   "SyrilKarn": {
     "title": "Syril Karn",
@@ -21222,6 +21242,10 @@
   "tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128": {
     "title": "Welcome to the 'infocalypse'",
     "url": "/wiki/sources/tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128/"
+  },
+  "tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128": {
+    "title": "Unraveling the complex knot of an AI-generated hoax",
+    "url": "/wiki/sources/tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128/"
   },
   "tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128": {
     "title": "Making the most of AI, without the hype",
