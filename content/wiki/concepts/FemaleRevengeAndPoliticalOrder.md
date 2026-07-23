@@ -2,8 +2,8 @@
 title: "Female Revenge And Political Order"
 type: concept
 tags: [gender, revenge, law, politics, tragedy]
-sources: [67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556]
-last_updated: 2026-07-18
+sources: [67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556, 117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341]
+last_updated: 2026-07-24
 ---
 
 # Female Revenge And Political Order
@@ -14,14 +14,18 @@ Medea's revenge first answers real injuries: [[Jason]] abandons her after taking
 
 This makes the concept adjacent to [[PrivateRevengeModernLaw]] and [[FilialRevengePublicSympathy]] without being the same. Shi Jianqiao's case turns private vengeance into modern public sympathy and legal crisis; Medea's case turns mythic vengeance into tragic horror where no court, pardon, or public moral consensus can stabilize the damage.
 
+[[117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341]] adds a contrast through [[BoraChung|郑宝拉]]'s [[CursedBunny|《诅咒兔》]]. Its revenge stories are less about rebuilding or rupturing public order than about [[PostRevengeEmptiness]]: revenge may be deserved and effective, yet still leave ghosts, loneliness, and unrepaired loss.
+
 ## Key Claims
 - Female revenge can reveal real structural injury while still becoming ethically catastrophic.
 - The abandoned-wife frame is an entry point, not the whole reading.
 - The killing of children is the action that turns Medea from wronged spouse into a rupture of family, city, and human relation.
 - Agency is not automatically liberation; it depends on what bonds and limits the action destroys.
+- Revenge can also fail after success when the moral target is destroyed but the injured world remains empty.
 
 ## Connections
 - [[MedeaCharacter]], [[MedeaPlay|《美狄亚》 / Medea]], and [[Jason]] - source case.
 - [[FemaleSelfPossession]] and [[GenderPowerAndUncertaintyCost]] - adjacent gender-power concepts.
 - [[PrivateRevengeModernLaw]], [[FilialRevengePublicSympathy]], and [[ShiJianqiaoRevengeCase]] - modern revenge-law comparison branch.
 - [[TragicModernity]] and [[MoralSuspensionInArtReading]] - reading frames for avoiding quick approval or condemnation.
+- [[PostRevengeEmptiness]], [[CursedBunny|《诅咒兔》]], and [[GuaitanLiterature|怪谈文学]] - guaitan extension where revenge leaves lonely residue rather than public settlement.

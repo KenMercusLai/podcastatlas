@@ -2,8 +2,8 @@
 title: "Folklore Trauma Encoding"
 type: concept
 tags: [folklore, trauma, memory, social-history]
-sources: [111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]
-last_updated: 2026-07-18
+sources: [111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, 117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341]
+last_updated: 2026-07-24
 ---
 
 # Folklore Trauma Encoding
@@ -14,6 +14,8 @@ The episode's strongest claim is not that a single hidden event has been found. 
 
 [[95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]] adds the contemporary version. [[UrbanLegend|都市传说]] does not always encode one catastrophic trauma; it often encodes smaller but recurring pressures around child safety, dating, hospitals, sexuality, body judgment, food poisoning, brand trust, and official secrecy. The false story can still mark where ordinary life feels unsafe or hard to interpret.
 
+[[117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341]] adds a literary-guaitan version through [[CursedBunny|《诅咒兔》]]. The source does not treat a toilet head, cursed rabbit lamp, or gold-bleeding fox as historical evidence; it treats them as compact story forms for bodily shame, family extraction, capitalist harm, revenge, and loneliness that are otherwise hard to say directly.
+
 ## Key Claims
 - Story can hold grief when direct explanation is missing, shameful, or unbearable.
 - Magic and demonization can externalize responsibility that a community cannot face directly.
@@ -21,6 +23,7 @@ The episode's strongest claim is not that a single hidden event has been found. 
 - A legend's emotional durability can be evidence that it answered a social need even if it does not prove one incident.
 - Trauma encoding should not be overread as exact history; it marks pressure, not a transcript.
 - Modern rumor can encode diffuse anxiety rather than one remembered disaster.
+- Guaitan can encode trauma at the level of literary form: a monster can be a truthful shape for pressure without being a factual claim.
 
 ## Connections
 - [[PiedPiperOfHamelin|花衣魔笛手]] and [[Hamelin|哈默尔恩]] - central source case.
@@ -29,3 +32,4 @@ The episode's strongest claim is not that a single hidden event has been found. 
 - [[MedievalUrbanMarginality]] - social conditions that make the grief plausible.
 - [[AdultFairyTaleReading]] and [[StoryBasedEmpathy]] - adjacent story-reading frames.
 - [[UrbanLegend|都市传说]] - contemporary rumor extension added by episode 95.
+- [[GuaitanLiterature|怪谈文学]], [[GenderedDomesticHorror]], and [[PostRevengeEmptiness]] - literary extension added by episode 117.

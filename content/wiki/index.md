@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [117.诅咒兔：怪谈文学也要上桌吃饭](sources/117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341.md) — 蜜獾吃书 episode on 郑宝拉《诅咒兔》, 韩江 as Korean-literary context, guaitan literature, genre legitimacy, gendered domestic horror, capitalist/family violence, revenge, and loneliness after revenge.
 - [116.不服从的艺术：分享一些实战方法，还有力量](sources/116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021.md) — 蜜獾吃书 episode on 《不服从的艺术》, 原则性不服从, 现状合理化, Darwin/Semmelweis persuasion contrasts, constructive dissent, whistleblower costs, psychological flexibility, and post-victory restraint.
 - [115.京极夏彦今昔续百鬼：不研究妖怪，怎么好好做人？](sources/115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309.md) — 蜜獾吃书 episode on 京极夏彦, 《今昔续百鬼·云》, 妖怪推理, 多多良胜五郎, 《暗眼小僧》, 河童/dog misdirection, folklore fieldwork, postwar memory, and 鸟山石燕 image interpretation.
 - [114.又到持螯赏菊时，聊聊螃蟹的趣闻史话](sources/114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117.md) — 蜜獾吃书 episode on Chinese crab culture, dazha-crab naming, crab-catching tools, Song literati eating, 《金瓶梅》 and 《红楼梦》 crab banquets, 《讯蟹书》, moral projection, and eating/killing ambivalence.
@@ -533,6 +534,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [韩江 / Han Kang](entities/HanKang.md) — Korean writer used as the episode's opening context for bodily strange fiction and the literary prestige of Korean women writers.
+- [郑宝拉 / Bora Chung](entities/BoraChung.md) — Korean writer of 《诅咒兔》, read here through guaitan, direct grotesque premises, patriarchy/capitalism, revenge, and loneliness.
+- [《诅咒兔》 / Cursed Bunny](entities/CursedBunny.md) — Bora Chung short-story collection used to argue that guaitan can carry serious literary force through horror, family violence, exploitation, and post-revenge emptiness.
 - [《不服从的艺术》 / The Art of Insubordination](entities/TheArtOfInsubordination.md) — Todd Kashdan book used to frame principled dissent as a teachable practice requiring evidence, contribution, belonging, courage, and self-restraint.
 - [Todd Kashdan](entities/ToddKashdan.md) — Psychologist and author of The Art of Insubordination, connected here to psychological flexibility and constructive dissent.
 - [《论不服从》 / On Disobedience](entities/OnDisobedience.md) — Erich Fromm work used as the moral-philosophical counterpart to the practical strategy frame of The Art of Insubordination.
@@ -3506,6 +3510,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Genre Literary Legitimacy / 类型文学正名](concepts/GenreLiteraryLegitimacy.md) — Frame for treating genre forms such as guaitan, wuxia, weird fiction, and mystery as serious literary toolkits rather than lower-value containers.
+- [怪谈文学 / Guaitan Literature](concepts/GuaitanLiterature.md) — Horror-folklore literary mode where strange bodies, curses, monsters, and folk-tale logic make fear, harm, and loneliness concrete.
+- [Gendered Domestic Horror / 性别化家庭恐怖](concepts/GenderedDomesticHorror.md) — Pattern where household space, bodily shame, reproduction, family disregard, and extraction become horror.
+- [Post-Revenge Emptiness / 复仇之后的虚无](concepts/PostRevengeEmptiness.md) — Literary pattern where revenge succeeds but leaves loss, loneliness, ghosts, or moral residue unrepaired.
 - [Principled Disobedience / 原则性不服从](concepts/PrincipledDisobedience.md) — Dissent practice that resists flawed authority for a grounded purpose without collapsing into contrarian identity.
 - [Status-Quo Rationalization / 现状合理化](concepts/StatusQuoRationalization.md) — Bias pattern where existing arrangements appear normal, necessary, or morally deserved because they already exist.
 - [Constructive Dissent / 建设性异议](concepts/ConstructiveDissent.md) — Group-performance frame where useful disagreement improves decisions only when safety, contribution, and evidence discipline are present.

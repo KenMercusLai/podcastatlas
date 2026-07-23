@@ -87,6 +87,10 @@
     "title": "116.不服从的艺术：分享一些实战方法，还有力量",
     "url": "/wiki/sources/116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021/"
   },
+  "117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341": {
+    "title": "117.诅咒兔：怪谈文学也要上桌吃饭",
+    "url": "/wiki/sources/117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341/"
+  },
   "130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi": {
     "title": "130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏",
     "url": "/wiki/sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi/"
@@ -3175,6 +3179,10 @@
     "title": "Boomless Cruise",
     "url": "/wiki/concepts/boomlesscruise/"
   },
+  "BoraChung": {
+    "title": "郑宝拉 / Bora Chung",
+    "url": "/wiki/entities/borachung/"
+  },
   "BorderRegionCurrencyCredit": {
     "title": "Border Region Currency Credit",
     "url": "/wiki/concepts/borderregioncurrencycredit/"
@@ -5122,6 +5130,10 @@
   "CurrencyRisk": {
     "title": "Currency Risk",
     "url": "/wiki/concepts/currencyrisk/"
+  },
+  "CursedBunny": {
+    "title": "《诅咒兔》 / Cursed Bunny",
+    "url": "/wiki/entities/cursedbunny/"
   },
   "Cursor": {
     "title": "Cursor",
@@ -8027,6 +8039,10 @@
     "title": "Gendered Age Anxiety",
     "url": "/wiki/concepts/genderedageanxiety/"
   },
+  "GenderedDomesticHorror": {
+    "title": "Gendered Domestic Horror / 性别化家庭恐怖",
+    "url": "/wiki/concepts/gendereddomestichorror/"
+  },
   "GenderedFreedomAgainstOrder": {
     "title": "Gendered Freedom Against Order",
     "url": "/wiki/concepts/genderedfreedomagainstorder/"
@@ -8066,6 +8082,10 @@
   "GenesisRobotics": {
     "title": "Genesis Robotics",
     "url": "/wiki/entities/genesisrobotics/"
+  },
+  "GenreLiteraryLegitimacy": {
+    "title": "Genre Literary Legitimacy / 类型文学正名",
+    "url": "/wiki/concepts/genreliterarylegitimacy/"
   },
   "GentleMonster": {
     "title": "Gentle Monster",
@@ -8447,6 +8467,10 @@
     "title": "顾准",
     "url": "/wiki/entities/guzhun/"
   },
+  "GuaitanLiterature": {
+    "title": "怪谈文学 / Guaitan Literature",
+    "url": "/wiki/concepts/guaitanliterature/"
+  },
   "GuanYadi": {
     "title": "关雅迪",
     "url": "/wiki/entities/guanyadi/"
@@ -8650,6 +8674,10 @@
   "HanFei": {
     "title": "Han Fei / 韩非",
     "url": "/wiki/entities/hanfei/"
+  },
+  "HanKang": {
+    "title": "韩江 / Han Kang",
+    "url": "/wiki/entities/hankang/"
   },
   "HanRiver": {
     "title": "Han River / 汉江",
@@ -15094,6 +15122,10 @@
   "PostOwnership": {
     "title": "Post Ownership",
     "url": "/wiki/concepts/postownership/"
+  },
+  "PostRevengeEmptiness": {
+    "title": "Post-Revenge Emptiness / 复仇之后的虚无",
+    "url": "/wiki/concepts/postrevengeemptiness/"
   },
   "PostVictoryOppressionRisk": {
     "title": "Post-Victory Oppression Risk / 胜利后的压迫风险",
