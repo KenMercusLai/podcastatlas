@@ -3846,3 +3846,7 @@ Added source page for the Talk三联 episode on chips, AI compute, semiconductor
 ## [2026-07-18] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 5,065 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` and found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic checks scanned 5,065 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` and found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; a bounded in-session review of the same first-20-page sample found no obvious contradictions and flagged source-breadth caution for single-source public-media, medical-literature-search, algorithmic-labeling, and natural-hazard framing pages. Report returned in-session; `wiki/lint-report.md` was not saved.
