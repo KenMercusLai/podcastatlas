@@ -2,7 +2,7 @@
 title: "Science Fiction Realism"
 type: concept
 tags: [literature, science-fiction, realism, satire]
-sources: [45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680]
+sources: [45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680, sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]
 last_updated: 2026-07-24
 ---
 
@@ -14,12 +14,15 @@ In the episode, [[TheCyberiad|《机器人大师》 / The Cyberiad]] becomes rea
 
 [[104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680]] adds a quieter [[TedChiang|Ted Chiang / 江峰南]] version. In [[StoryOfYourLife|《你一生的故事》]], [[FermatsPrincipleOfLeastTime]], [[HeptapodB]], and [[NonlinearTimePerception]] are speculative mechanisms, but the realist pressure is emotional: foreknowledge asks what love, parenthood, and choice mean when the ending is already present.
 
+[[sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]] adds a mythic and embodied [[RogerZelazny|Zelazny]] version. [[ForABreathITarry|《趁生命气息逗留》]], [[HomeIsTheHangman|《刽子手返乡》]], and [[TwentyFourViewsOfMountFujiByHokusai|《富岳二十四景》]] are not realist because their premises are ordinary; they are realist because robots, uploads, immortality, revenge, and poetry expose durable human problems around body, fear, trauma, loneliness, control, and the wish to become more than human.
+
 ## Key Claims
 - Speculative absurdity can be realist when it reveals durable social mechanisms.
 - Realism here is structural rather than surface-level: the events are impossible, but the human patterns are recognizable.
 - Comedy can carry serious analysis when it lets readers tolerate sharp observations about themselves.
 - AI-era readers can use older machine fables to think about current tools without treating the stories as direct predictions.
 - Concept-dense science fiction can be realist when it makes abstract physics, mathematics, language, or consciousness change a person's lived relationships.
+- Mythic science fiction can be realist when grand speculative forms make ordinary human attachments, control, and vulnerability clearer.
 
 ## Connections
 - [[TheCyberiad|《机器人大师》 / The Cyberiad]] and [[StanislawLem|斯坦尼斯拉夫·莱姆]] - source book and author.
@@ -27,3 +30,4 @@ In the episode, [[TheCyberiad|《机器人大师》 / The Cyberiad]] becomes rea
 - [[CyberneticMachineSatire]], [[AbsurdRationality]], and [[TechnocraticDominationSatire]] - mechanisms that make speculative fables analytically useful.
 - [[ReadingAsLifeExperience]] and [[NonInstrumentalLiteraryReading]] - broader literary-reading frames in the wiki.
 - [[ChatGPT]] and [[HumanJudgmentUnderAI]] - contemporary AI trigger and judgment boundary illuminated by the episode.
+- [[RogerZelazny|Roger Zelazny / 罗杰·泽拉兹尼]], [[ForABreathITarry|《趁生命气息逗留》]], [[RobotHumanBoundary]], and [[EmbodiedPersonhood]] - mythic and embodied extension added by the Zelazny episode.

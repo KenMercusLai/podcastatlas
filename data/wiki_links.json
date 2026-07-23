@@ -5235,6 +5235,10 @@
     "title": "当当 / Dangdang",
     "url": "/wiki/entities/dangdang/"
   },
+  "DangerousVisions": {
+    "title": "Dangerous Visions",
+    "url": "/wiki/entities/dangerousvisions/"
+  },
   "DanielCohn": {
     "title": "Daniel Cohn",
     "url": "/wiki/entities/danielcohn/"
@@ -5715,6 +5719,10 @@
     "title": "Digital Preservation",
     "url": "/wiki/concepts/digitalpreservation/"
   },
+  "DigitalTranscendenceAsControl": {
+    "title": "Digital Transcendence As Control",
+    "url": "/wiki/concepts/digitaltranscendenceascontrol/"
+  },
   "DignityProtectingDeduction": {
     "title": "体面保护式推理 / Dignity-Protecting Deduction",
     "url": "/wiki/concepts/dignityprotectingdeduction/"
@@ -6010,6 +6018,10 @@
   "DoubtAsIntelligence": {
     "title": "Doubt as Intelligence",
     "url": "/wiki/concepts/doubtasintelligence/"
+  },
+  "Doudou": {
+    "title": "逗逗",
+    "url": "/wiki/entities/doudou/"
   },
   "DougBehrens": {
     "title": "Doug Behrens",
@@ -6426,6 +6438,10 @@
   "EmbodiedJudgment": {
     "title": "Embodied Judgment",
     "url": "/wiki/concepts/embodiedjudgment/"
+  },
+  "EmbodiedPersonhood": {
+    "title": "Embodied Personhood",
+    "url": "/wiki/concepts/embodiedpersonhood/"
   },
   "EmbodiedRobotDataParadigms": {
     "title": "Embodied Robot Data Paradigms",
@@ -7331,6 +7347,10 @@
     "title": "Football Transfer Receivables Finance",
     "url": "/wiki/concepts/footballtransferreceivablesfinance/"
   },
+  "ForABreathITarry": {
+    "title": "《趁生命气息逗留》 / For a Breath I Tarry",
+    "url": "/wiki/entities/forabreathitarry/"
+  },
   "ForCauseRemovalStandard": {
     "title": "For-Cause Removal Standard",
     "url": "/wiki/concepts/forcauseremovalstandard/"
@@ -8022,6 +8042,10 @@
   "GeorgeOrwell": {
     "title": "George Orwell / 乔治·奥威尔",
     "url": "/wiki/entities/georgeorwell/"
+  },
+  "GeorgeRRMartin": {
+    "title": "George R. R. Martin / 乔治·R·R·马丁",
+    "url": "/wiki/entities/georgerrmartin/"
   },
   "GeorgeShultz": {
     "title": "George Shultz",
@@ -8967,6 +8991,10 @@
     "title": "Home Inns",
     "url": "/wiki/entities/homeinns/"
   },
+  "HomeIsTheHangman": {
+    "title": "《刽子手返乡》 / Home Is the Hangman",
+    "url": "/wiki/entities/homeisthehangman/"
+  },
   "HomeServiceRobots": {
     "title": "Home Service Robots",
     "url": "/wiki/concepts/homeservicerobots/"
@@ -9826,6 +9854,10 @@
   "IranSanctions": {
     "title": "Iran Sanctions",
     "url": "/wiki/concepts/iransanctions/"
+  },
+  "IsaacAsimov": {
+    "title": "Isaac Asimov / 艾萨克·阿西莫夫",
+    "url": "/wiki/entities/isaacasimov/"
   },
   "IsaacBeeckman": {
     "title": "Isaac Beeckman / 贝克曼",
@@ -10687,6 +10719,10 @@
     "title": "Kathy Hochul",
     "url": "/wiki/entities/kathyhochul/"
   },
+  "KatsushikaHokusai": {
+    "title": "Katsushika Hokusai / 葛饰北斋",
+    "url": "/wiki/entities/katsushikahokusai/"
+  },
   "KawakamiKazuto": {
     "title": "川上和人 / Kawakami Kazuto",
     "url": "/wiki/entities/kawakamikazuto/"
@@ -11078,6 +11114,10 @@
   "LastChanceToSee": {
     "title": "《消逝世界漫游指南》 / Last Chance to See",
     "url": "/wiki/entities/lastchancetosee/"
+  },
+  "LastDefenderOfCamelot": {
+    "title": "《卡美洛的最后守护者》 / The Last Defender of Camelot",
+    "url": "/wiki/entities/lastdefenderofcamelot/"
   },
   "LateTalk": {
     "title": "LateTalk",
@@ -13219,6 +13259,10 @@
     "title": "Myth As Historical Evidence",
     "url": "/wiki/concepts/mythashistoricalevidence/"
   },
+  "MythicScienceFictionStyle": {
+    "title": "Mythic Science Fiction Style",
+    "url": "/wiki/concepts/mythicsciencefictionstyle/"
+  },
   "MythicSourceLayering": {
     "title": "Mythic Source Layering",
     "url": "/wiki/concepts/mythicsourcelayering/"
@@ -13622,6 +13666,10 @@
   "NonfictionPublicness": {
     "title": "Nonfiction Publicness",
     "url": "/wiki/concepts/nonfictionpublicness/"
+  },
+  "NonhumanNarrativeVoice": {
+    "title": "Nonhuman Narrative Voice",
+    "url": "/wiki/concepts/nonhumannarrativevoice/"
   },
   "NonlinearTimePerception": {
     "title": "Nonlinear Time Perception",
@@ -14430,6 +14478,10 @@
   "PeriodPoverty": {
     "title": "Period Poverty",
     "url": "/wiki/concepts/periodpoverty/"
+  },
+  "PermafrostZelazny": {
+    "title": "《永久冻土》 / Permafrost",
+    "url": "/wiki/entities/permafrostzelazny/"
   },
   "PermitProportionality": {
     "title": "Permit Proportionality",
@@ -16147,6 +16199,10 @@
     "title": "Robot Generalization Performance Tradeoff",
     "url": "/wiki/concepts/robotgeneralizationperformancetradeoff/"
   },
+  "RobotHumanBoundary": {
+    "title": "Robot-Human Boundary",
+    "url": "/wiki/concepts/robothumanboundary/"
+  },
   "RobotLiveliness": {
     "title": "Robot Liveliness",
     "url": "/wiki/concepts/robotliveliness/"
@@ -16582,6 +16638,10 @@
   "ScienceCommunicationDisadvantage": {
     "title": "Science Communication Disadvantage",
     "url": "/wiki/concepts/sciencecommunicationdisadvantage/"
+  },
+  "ScienceFictionNewWave": {
+    "title": "New Wave Science Fiction / 科幻新浪潮",
+    "url": "/wiki/concepts/sciencefictionnewwave/"
   },
   "ScienceFictionRealism": {
     "title": "Science Fiction Realism",
@@ -18591,6 +18651,10 @@
     "title": "《通往土星之门》 / The Door to Saturn",
     "url": "/wiki/entities/thedoortosaturn/"
   },
+  "TheDoorsOfHisFaceTheLampsOfHisMouth": {
+    "title": "《脸上的门，口中的灯》 / The Doors of His Face, The Lamps of His Mouth",
+    "url": "/wiki/entities/thedoorsofhisfacethelampsofhismouth/"
+  },
   "TheEconomicWayOfThinking": {
     "title": "《经济学的思维方式》 / The Economic Way of Thinking",
     "url": "/wiki/entities/theeconomicwayofthinking/"
@@ -18762,6 +18826,10 @@
   "ThirtySeven": {
     "title": "《37》",
     "url": "/wiki/entities/thirtyseven/"
+  },
+  "ThirtySixViewsOfMountFuji": {
+    "title": "Thirty-six Views of Mount Fuji / 富岳三十六景",
+    "url": "/wiki/entities/thirtysixviewsofmountfuji/"
   },
   "ThomasAquinas": {
     "title": "Thomas Aquinas / 托马斯·阿奎那",
@@ -19222,6 +19290,10 @@
   "TwentyFifthAmendment": {
     "title": "Twenty-Fifth Amendment",
     "url": "/wiki/concepts/twentyfifthamendment/"
+  },
+  "TwentyFourViewsOfMountFujiByHokusai": {
+    "title": "《富岳二十四景》 / 24 Views of Mt. Fuji, by Hokusai",
+    "url": "/wiki/entities/twentyfourviewsofmountfujibyhokusai/"
   },
   "Twitch": {
     "title": "Twitch",
@@ -22006,6 +22078,10 @@
   "sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778": {
     "title": "sp.02 我有自己的宇宙：如何在混沌中做个清醒的行动派",
     "url": "/wiki/sources/sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778/"
+  },
+  "sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106": {
+    "title": "sp.03 串台｜趁生命气息逗留：泽拉兹尼与他的梦境",
+    "url": "/wiki/sources/sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106/"
   },
   "starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1": {
     "title": "Starmergeddon: British PM resigns",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [sp.03 串台｜趁生命气息逗留：泽拉兹尼与他的梦境](sources/sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106.md) — 蜜獾吃书 episode on Roger Zelazny, 《趁生命气息逗留》, New Wave science fiction, mythic style, robot-human personhood, digital transcendence, and close readings of key stories.
 - [113.亨丽埃塔与那场将人类学送上审判席的谋杀案](sources/113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827.md) — 蜜獾吃书 episode on Henrietta Schmerler's 1931 fieldwork murder, anthropology fieldwork safety, victim-blaming, sexual violence, and the boundary between cultural relativism and victim protection.
 - [106.别再害怕冲突，快来学习谈判术！](sources/106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645.md) — 蜜獾吃书 episode on negotiation as learnable bargaining, BATNA, reservation value, anchoring, concessions, multi-issue trades, contingent agreements, and cognitive biases in conflict.
 - [105.苏东坡：一腔豪迈之气，一肚皮不合时宜](sources/105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645.md) — 蜜獾吃书 episode on Su Shi/Su Dongpo, Three Su family formation, Wang Anshi's reforms, Song factional politics, the Wutai Poetry Case, Huangzhou exile, Red Cliff works, Hangzhou/Xuzhou public works, and earned optimism.
@@ -529,6 +530,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [逗逗](entities/Doudou.md) — Editor guest in the Zelazny episode, explaining the publication package and helping frame the robot-human and entry-point readings.
+- [《趁生命气息逗留》 / For a Breath I Tarry](entities/ForABreathITarry.md) — Zelazny short-story collection and title story used to discuss body, fear, poetry, and robots becoming human.
+- [《脸上的门，口中的灯》 / The Doors of His Face, The Lamps of His Mouth](entities/TheDoorsOfHisFaceTheLampsOfHisMouth.md) — Companion Zelazny collection recommended as a younger, more fiery route into god-making, god-killing, and Promethean themes.
+- [《卡美洛的最后守护者》 / The Last Defender of Camelot](entities/LastDefenderOfCamelot.md) — Zelazny Arthurian rewrite where Lancelot's immortality, Merlin's loneliness, and the Grail become modern power conflicts.
+- [《刽子手返乡》 / Home Is the Hangman](entities/HomeIsTheHangman.md) — Zelazny robot story read as trauma and self-formation rather than only command or rule failure.
+- [《永久冻土》 / Permafrost](entities/PermafrostZelazny.md) — Zelazny seasonal-planet story where revenge, mycelium, and narrative fragmentation create a nonhuman voice.
+- [《富岳二十四景》 / 24 Views of Mt. Fuji, by Hokusai](entities/TwentyFourViewsOfMountFujiByHokusai.md) — Zelazny story using Hokusai's Fuji views to frame embodied resistance to coercive digital upload.
+- [Dangerous Visions](entities/DangerousVisions.md) — New Wave science-fiction anthology recommended as wider context for Zelazny's experimental field.
+- [George R. R. Martin / 乔治·R·R·马丁](entities/GeorgeRRMartin.md) — Writer mentioned through his friendship with Zelazny and screenplay role in the Last Defender adaptation.
+- [Isaac Asimov / 艾萨克·阿西莫夫](entities/IsaacAsimov.md) — Robot-fiction comparison point for distinguishing rule conflicts from Zelazny's trauma/personhood robot stories.
+- [Katsushika Hokusai / 葛饰北斋](entities/KatsushikaHokusai.md) — Artist whose Fuji print series supplies the formal template behind Zelazny's 《富岳二十四景》.
+- [Thirty-six Views of Mount Fuji / 富岳三十六景](entities/ThirtySixViewsOfMountFuji.md) — Hokusai print series used as the visual and structural reference for Zelazny's Fuji story.
 - [Henrietta Schmerler / 亨丽埃塔·施梅勒](entities/HenriettaSchmerler.md) — Columbia anthropology student whose 1931 fieldwork murder anchors the episode's fieldwork-safety and victim-blaming branch.
 - [Gurney Seymour / 高尔尼·西摩尔](entities/GurneySeymour.md) — Man the source presents as convicted for Schmerler's murder, central to the trial, confession, recantation, and cultural-defense discussion.
 - [White Mountain Apache / 怀特山区阿帕齐](entities/WhiteMountainApache.md) — Reservation and community setting for the Schmerler fieldwork case, kept source-scoped to avoid reducing one crime to culture.
@@ -1504,8 +1517,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [郭静龙](entities/GuoJinglong.md) — Author of 《盛世的崩塌》, previewed by 蜜獾吃书 as a possible future Dali guest.
 - [《盛世的崩塌》](entities/ShengshiDeBengta.md) — Tang-history book previewed as a possible future episode on An Lushan Rebellion-era politics, literature, Nanzhao conflict, and ordinary life.
 - [《绿色星球》](entities/TheGreenPlanet.md) — BBC plant-world documentary/book topic previewed through Beimin's Chinese translation work and plant behavior examples.
-- [Roger Zelazny / 罗杰·泽拉兹尼](entities/RogerZelazny.md) — Science-fiction and fantasy writer previewed through Beimin's translation work and the example of 《光明王》.
-- [《光明王》 / Lord of Light](entities/LordOfLight.md) — Zelazny work previewed as far-future mythic science fiction involving religious-political conflict and rebellion.
+- [Roger Zelazny / 罗杰·泽拉兹尼](entities/RogerZelazny.md) — Science-fiction and fantasy writer read through New Wave experimentation, mythic style, robot-human personhood, embodied life, and digital transcendence.
+- [《光明王》 / Lord of Light](entities/LordOfLight.md) — Zelazny work recommended as mythic far-future science fiction about religious-political conflict, rebellion, and ornate speculative style.
 - [Francis Fukuyama / 福山](entities/FrancisFukuyama.md) — Political theorist previewed as a possible future source for identity-politics discussion.
 - [《身份政治》](entities/IdentityPoliticsBook.md) — Fukuyama book previewed as a possible future political-theory topic tied to concrete human understanding.
 - [《龙王之怒：1931年长江水灾》](entities/LongwangZhinu1931ChangjiangShuizai.md) — Book discussed by episode 65 as a disaster-history account of the 1931 Yangtze flood.
@@ -3465,6 +3478,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [New Wave Science Fiction / 科幻新浪潮](concepts/ScienceFictionNewWave.md) — Literary-history frame for Zelazny's experimental but still humanistic science-fiction position.
+- [Mythic Science Fiction Style](concepts/MythicScienceFictionStyle.md) — Zelazny-style fusion of speculative premises with myth, scripture, poetry, art, and epic emotional scale.
+- [Robot-Human Boundary](concepts/RobotHumanBoundary.md) — Question of how machines become person-like and people become machine-like through body, trauma, upload, and agency.
+- [Embodied Personhood](concepts/EmbodiedPersonhood.md) — Claim that personhood depends on body, sensation, vulnerability, affect, and situated experience, not only intelligence or information.
+- [Digital Transcendence As Control](concepts/DigitalTranscendenceAsControl.md) — Reading of digital upload as a possible continuation of loneliness, surveillance, and coercive intimacy rather than clean escape.
+- [Nonhuman Narrative Voice](concepts/NonhumanNarrativeVoice.md) — Technique where prose shifts away from ordinary human viewpoint to register machine, ecological, or planetary consciousness.
 - [Anthropology Fieldwork Safety](concepts/AnthropologyFieldworkSafety.md) — Institutional fieldwork-safety frame covering housing, access, mentoring, gendered risk, local politics, and post-harm responsibility.
 - [Fieldwork Sexual Violence](concepts/FieldworkSexualViolence.md) — Fieldwork risk pattern where sexual violence and its aftermath are shaped by gender, access, power, retaliation, and institutional silence.
 - [Victim Blaming As Institutional Defense](concepts/VictimBlamingAsInstitutionalDefense.md) — Pattern where institutions protect reputation or access by recoding harm as the victim's bad judgment.

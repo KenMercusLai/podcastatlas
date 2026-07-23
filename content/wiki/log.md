@@ -4259,3 +4259,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | sp.03 串台｜趁生命气息逗留：泽拉兹尼与他的梦境
+
+Added source page for a 蜜獾吃书 episode on Roger Zelazny, 《趁生命气息逗留》, translation and publishing context, New Wave science fiction, mythic science-fiction style, robot-human personhood, embodied humanity, nonhuman narration, and digital transcendence as control. Created pages for 逗逗, 《趁生命气息逗留》, 《脸上的门，口中的灯》, 《卡美洛的最后守护者》, 《刽子手返乡》, 《永久冻土》, 《富岳二十四景》, Dangerous Visions, George R. R. Martin, Isaac Asimov, Katsushika Hokusai, Thirty-six Views of Mount Fuji, New Wave Science Fiction, Mythic Science Fiction Style, Robot-Human Boundary, Embodied Personhood, Digital Transcendence As Control, and Nonhuman Narrative Voice; updated overview, index, 蜜獾吃书, 北明 / 北民, Roger Zelazny, 《光明王》, Science Fiction Realism, and Transcendence Against Human Feeling. No direct contradiction found; the source upgrades the earlier Zelazny preview into a full literary branch and qualifies existing AI/machine-personhood material by foregrounding body, fear, trauma, poetry, and humanistic resistance.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
