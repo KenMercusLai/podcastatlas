@@ -2,8 +2,8 @@
 title: "红楼法律阅读 / Red Chamber Legal Reading"
 type: concept
 tags: [literature, law, hongloumeng, social-history]
-sources: [167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324]
-last_updated: 2026-07-15
+sources: [167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876]
+last_updated: 2026-07-24
 ---
 
 # 红楼法律阅读 / Red Chamber Legal Reading
@@ -12,11 +12,14 @@ last_updated: 2026-07-15
 
 The point is not to make law a narrower replacement for literature. The source argues that legal detail makes the novel's compassion sharper: [[LinDaiyu|林黛玉]]'s property, [[JiaBaoyu|贾宝玉]] and Daiyu's love, [[Lingguan|龄官]]'s name and status, and the [[JiaFamilyHousehold|贾府]]'s downfall all show how institutions turn feeling into danger.
 
+[[101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876]] adds a family-history complement through [[CaoYin|曹寅]] and the [[CaoFamilyQing|清代曹家]]. It shifts from Qing law narrowly to Qing household governance and fiscal practice: [[JiangningWeavingBureau|江宁织造]], [[ImperialBondservantGovernance|包衣身份]], salt finance, [[ImperialFiscalElasticity|亏空风险]], and later confiscation help explain why the Jia household's collapse feels institutional rather than only melodramatic.
+
 ## Key Claims
 - Legal context can explain plot pressure that looks like mere family preference or personality conflict.
 - Individual grief and women's suffering are historically serious; they do not need to be subordinated to dynasty-change symbolism.
 - The novel's law-facing details include inheritance, household management, palace selection, chastity norms, performer status, marriage procedure, and confiscation.
 - A legal reading can be political without becoming [[MourningMingReading|悼明]] or a universal hidden-code system.
+- Family-history and fiscal context can strengthen institutional reading when it stays at the level of pressure and echo rather than one-to-one allegory.
 
 ## Connections
 - [[HongLouMeng|《红楼梦》]], [[CaoXueqin|曹雪芹]], [[LinDaiyu|林黛玉]], [[JiaBaoyu|贾宝玉]], [[JiaMu|贾母]], [[JiaFamilyHousehold|贾府]], and [[Lingguan|龄官]] - main literary nodes.
@@ -24,3 +27,4 @@ The point is not to make law a narrower replacement for literature. The source a
 - [[QingGenderLegalOrder]], [[QingFemaleInheritanceConstraint]], [[LowStatusRegistry]], [[HouseholdTroupeStatusBoundary]], and [[ConfiscationAndFemaleFate]] - component concepts.
 - [[SuoYinReading]], [[InterpretationAndOverinterpretation]], and [[MourningMingReading]] - interpretive boundary concepts.
 - [[ClassicReadingComplexity]] and [[FemaleSelfPossession]] - broader wiki frames extended by the source.
+- [[RedChamberFamilyHistoryEcho]], [[CaoFamilyQing|清代曹家]], and [[ImperialFiscalElasticity]] - episode 101's complementary family-history and fiscal branch.

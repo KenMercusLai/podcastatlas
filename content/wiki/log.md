@@ -4188,9 +4188,17 @@ Added source page for a 蜜獾吃书 episode on 金庸 as culturally dense popul
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-24] ingest | 101.曹寅与康熙：红楼梦醒终有时
+
+Added source page for the 蜜獾吃书 episode using 史景迁《曹寅与康熙》 to read 《红楼梦》 through Cao Yin, Kangxi, Jiangning Weaving, bondservant service, salt finance, southern tours, secret memorials, deficits, and confiscation. Created pages for 《曹寅与康熙》, Jonathan Spence, Cao Yin, Kangxi, the Qing Cao family, Jiangning Weaving Bureau, Imperial Household Department, Li Xu, Imperial Bondservant Governance, Imperial Fiscal Elasticity, Southern Tour Political Theater, Secret Memorial Political Intelligence, and Red Chamber Family History Echo; updated overview, index, 蜜獾吃书, 《红楼梦》, Cao Xueqin, Jia Family Household, Red Chamber Legal Reading, Confiscation And Female Fate, Suo Yin Reading, Interpretation And Overinterpretation, and Classic Reading Complexity. No direct contradiction found; the source strengthens the wiki's Red Chamber branch by treating Cao family history as institutional echo rather than total hidden-code proof.
+
 ## [2026-07-24] ingest | 100.法律的悖论：谢天谢地，幸好我们还有罗翔
 
 Added source page for a 蜜獾吃书 episode on 罗翔《法律的悖论》, covering law and morality, criminal law as a limit on state power, punishment theory, criminal records and guilt by association, Rawls's veil of ignorance, Millian liberalism, paternalism, and legal interests. Created pages for Luo Xiang, 《法律的悖论》, John Rawls, John Stuart Mill, Jeremy Bentham, Immanuel Kant, G. W. F. Hegel, Magna Carta, Richard Jewell, Legal Paradox Thinking, Law-Morality Boundary, Criminal Law As Power Limitation, Punishment Theory Tradeoff, Collateral Punishment And Guilt By Association, Veil Of Ignorance, Liberalism-Paternalism Boundary, and Legal Interest Individual Reduction; updated overview, index, 蜜獾吃书, QinZong, Beimin, HanFei, ShangYang, Private Revenge And Modern Law, Judicial Independence And Public Opinion, Internet Moral Trial, Rational Humility, Sacrificing Others Ethics, and Legalist-Machiavelli Comparison. No direct contradiction found; the source generalizes the wiki's existing law-and-public-opinion cluster into criminal-law philosophy and power-limitation doctrine.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-24] lint | Wiki health check
 

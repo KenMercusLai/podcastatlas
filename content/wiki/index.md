@@ -55,6 +55,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jerome Powell and the Test of Fed Independence](sources/jerome-powell-and-the-test-of-fed-independence.md) — Planet Money episode on Jerome Powell, Trump pressure, Martin/Burns Fed history, Lael Brainard, inflation bias, Fed board removal law, and central-bank independence.
 - [The secret meeting that launched OPEC](sources/the-secret-meeting-that-launched-opec.md) — Planet Money episode on OPEC's origin against the Seven Sisters, the 1973 oil shock, Saudi swing production, quota cheating, UAE exit pressure, and why Hormuz disruption limits near-term gasoline relief.
 - [100.法律的悖论：谢天谢地，幸好我们还有罗翔](sources/100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302.md) — 蜜獾吃书 episode on 罗翔《法律的悖论》, law and morality, criminal law as a limit on state power, punishment theory, criminal-record collateral punishment, Rawls's veil of ignorance, and liberalism versus paternalism.
+- [101.曹寅与康熙：红楼梦醒终有时](sources/101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876.md) — 蜜獾吃书 episode using 史景迁《曹寅与康熙》 to read 《红楼梦》's family-history background through Cao Yin, Kangxi, Jiangning Weaving, bondservant service, salt finance, southern tours, secret memorials, deficits, and confiscation.
 - [99.很久很久以前，妖怪也推理啊…](sources/99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220.md) — 蜜獾吃书 episode on 青柳碧人, 《很久很久以前，在某个地方有一具尸体》, 设定系推理, 本格推理, Japanese folk-tale rewriting, 一寸法师, and 猿蟹合战.
 - [98.自卑与超越：向前看，前方有希望](sources/98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507.md) — 蜜獾吃书 episode on Alfred Adler, 《自卑与超越》, individual psychology, inferiority and superiority, purpose theory, community feeling, education, courage, and life meaning.
 - [97.花粉症与人类：从尼安德特人（啊啾！）到空气净化器…](sources/97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059.md) — 蜜獾吃书 episode using 《花粉症与人类》 to connect pollen evolution, palynology, hay fever, Blackley self-experimentation, ragweed ecology, air purifiers, and allergy as immune response.
@@ -1230,6 +1231,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李商隐 / Li Shangyin](entities/LiShangyin.md) — Late-Tang poet defended by episode 183 as politically aware, emotionally serious, technically exacting, and central to later Red Chamber intertext.
 - [《红楼梦》 / Dream of the Red Chamber](entities/HongLouMeng.md) — Chinese classic read by episode 183 through Li Shangyin's poetry, Daiyu, Xiangling, Baochai, Baoyu, and Zhiyanzhai commentary.
 - [曹雪芹 / Cao Xueqin](entities/CaoXueqin.md) — Authorial center for 《红楼梦》 in the source's evidence-bound Li Shangyin intertext argument.
+- [《曹寅与康熙》 / Ts'ao Yin and the K'ang-hsi Emperor](entities/CaoYinAndKangxi.md) — Jonathan Spence book used by episode 101 to ground Red Chamber background in Cao Yin's imperial household service, accounts, and family decline.
+- [史景迁 / Jonathan Spence](entities/JonathanSpence.md) — Historian whose Cao Yin study gives episode 101 its institutional and family-history frame.
+- [曹寅 / Cao Yin](entities/CaoYin.md) — Qing imperial bondservant, Jiangning weaver, fiscal operator, cultural broker, and Kangxi confidant central to episode 101.
+- [康熙 / Kangxi Emperor](entities/KangxiEmperor.md) — Qing emperor whose trusted bondservant network, southern tours, and secret memorial channels shape Cao Yin's role in episode 101.
+- [清代曹家 / Cao Family In Qing](entities/CaoFamilyQing.md) — Cao Xueqin's family background read through bondservant status, imperial favor, deficits, succession weakness, and confiscation.
+- [江宁织造 / Jiangning Weaving Bureau](entities/JiangningWeavingBureau.md) — Qing imperial textile and trusted-agent office that anchors Cao Yin's production, procurement, finance, and Red Chamber background.
+- [内务府 / Imperial Household Department](entities/ImperialHouseholdDepartment.md) — Qing imperial-household bureaucracy behind the bondservant service channels in episode 101.
+- [李煦 / Li Xu](entities/LiXu.md) — Cao Yin's Jiangnan trusted-servant counterpart in weaving and salt-finance arrangements under Kangxi.
 - [林黛玉 / Lin Daiyu](entities/LinDaiyu.md) — Red Chamber figure whose stated dislike of Li Shangyin becomes the episode's main test of hidden affinity.
 - [贾宝玉 / Jia Baoyu](entities/JiaBaoyu.md) — Red Chamber figure connected to Li Shangyin through quoted praise, flower handling, and Zhiyanzhai's 西昆体 note.
 - [薛宝钗 / Xue Baochai](entities/XueBaochai.md) — Red Chamber figure linked through Xiangling's identification of a Li Shangyin line involving 宝钗.
@@ -3864,6 +3873,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Classical Poetic Intertextuality](concepts/ClassicalPoeticIntertextuality.md) — Method for tracing how older poems enter later works through quotation, image clusters, character taste, and commentary.
 - [玉溪一脉入红楼 / Yuxi Into Honglou](concepts/YuxiIntoHonglou.md) — Source-scoped thesis that Li Shangyin's 玉溪 poetics enter 《红楼梦》 through Daiyu, flowers, moon, allusion, and 西昆体 commentary.
 - [红楼法律阅读 / Red Chamber Legal Reading](concepts/RedChamberLegalReading.md) — Episode 167 method for reading 《红楼梦》 through Qing law, inheritance, marriage, performer status, and confiscation rather than totalizing dynastic code.
+- [红楼家族史回声 / Red Chamber Family History Echo](concepts/RedChamberFamilyHistoryEcho.md) — Episode 101 frame for using Cao family history to explain Red Chamber pressure without treating the novel as a solved family cipher.
+- [皇室包衣治理 / Imperial Bondservant Governance](concepts/ImperialBondservantGovernance.md) — Qing pattern where imperial household bondservants handled trusted supply, finance, intelligence, and errands outside ordinary bureaucratic rank.
+- [皇室财政弹性 / Imperial Fiscal Elasticity](concepts/ImperialFiscalElasticity.md) — Fiscal pattern where procurement gains, salt revenue, internal loans, and tolerated account gaps made Cao Yin useful and exposed.
+- [南巡政治剧场 / Southern Tour Political Theater](concepts/SouthernTourPoliticalTheater.md) — Reading Kangxi's southern tours as inspection, legitimacy performance, Han-literati appeasement, and costly hospitality.
+- [密折政治情报 / Secret Memorial Political Intelligence](concepts/SecretMemorialPoliticalIntelligence.md) — Direct-reporting frame for Cao Yin's rumor, price, official-conduct, and local-risk information work for Kangxi.
 - [悼明读法 / Mourning Ming Reading](concepts/MourningMingReading.md) — Red Chamber interpretive tradition criticized by episode 167 when it flattens the novel into anti-Qing restoration allegory.
 - [清代性别法律秩序 / Qing Gender Legal Order](concepts/QingGenderLegalOrder.md) — Frame for how Qing-era marriage, chastity, status, and punishment structures make Red Chamber intimacy legally dangerous.
 - [清代女性继承限制 / Qing Female Inheritance Constraint](concepts/QingFemaleInheritanceConstraint.md) — Episode 167 frame for why Daiyu's inheritance and survival are precarious under daughterhood, lineage, and heirship rules.

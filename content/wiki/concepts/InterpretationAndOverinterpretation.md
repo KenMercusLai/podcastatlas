@@ -2,8 +2,8 @@
 title: "Interpretation And Overinterpretation"
 type: concept
 tags: [interpretation, literature, reasoning, semiotics]
-sources: [90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
-last_updated: 2026-07-18
+sources: [90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
+last_updated: 2026-07-24
 ---
 
 # Interpretation And Overinterpretation
@@ -28,6 +28,8 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 
 [[167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324]] adds a Red Chamber political-reading version. The source criticizes [[MourningMingReading|悼明读法]] when it turns the novel into a single dynastic code, because that move can make law, inheritance, women's suffering, low-status performers, and confiscation feel secondary even when those are the most concrete forms of power in the text.
 
+[[101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876]] adds a family-history version through [[JonathanSpence|史景迁]]'s [[CaoYinAndKangxi|《曹寅与康熙》]]. The source treats [[CaoYin|曹寅]] and the [[CaoFamilyQing|清代曹家]] as powerful historical background for [[HongLouMeng|《红楼梦》]], but marks the safer level of claim as institutional echo: [[JiangningWeavingBureau|江宁织造]], southern tours, account deficits, and confiscation explain pressure better than a complete biographical key.
+
 [[111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766]] adds a folklore-history version through [[PiedPiperOfHamelin|花衣魔笛手]]. The source is attracted to the mystery of 130 missing children, but it treats the temptation to identify one decisive answer as a risk. [[EvidenceBoundFolkloreInquiry]] keeps early records, [[BrothersGrimm|格林兄弟]]'s later version, rat-catching motifs, migration traces, battle theories, festival accidents, famine, plague, and [[Hamelin|哈默尔恩]] social history at different confidence levels.
 
 [[69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]] adds a historical-revision version. The episode treats [[TheDaughterOfTime|《时间的女儿》]] and [[CaoCaoTomb|曹操墓]] as cases where literary image, dynastic politics, public distrust, and source timing can all distort interpretation. The danger runs both ways: inherited stories can be overbelieved, but a dramatic reversal can also be overinterpreted unless it remains evidence-bound.
@@ -47,6 +49,7 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 - In canonical-author rereading, overinterpretation can also run through social image: textbook reverence, political caricature, and hidden-person decoding can each replace attention to the story's working mechanisms.
 - In attribution disputes, overinterpretation can begin when a scandalous or stylistically vivid text is treated as character evidence before factional motive and authorship uncertainty are weighed.
 - In miscellany reading, overinterpretation can begin when a preserved resemblance is promoted from useful clue to proven genealogy before route, date, and variant evidence are tested.
+- In family-history reading, overinterpretation can begin when a real background becomes a total solution instead of an institutional echo with limits.
 
 ## Connections
 - [[SemioticDetectiveFiction]] - mystery form where the boundary becomes part of the plot.
@@ -64,5 +67,6 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 - [[YouyangZazu|《酉阳杂俎》]], [[YeXian|《叶限》]], [[StoryMotifTransmission]], and [[TangMiscellanyArchiveValue]] - episode 90's extension into miscellany comparison and source-scoped motif claims.
 - [[ClassicalPoeticIntertextuality]], [[YuxiIntoHonglou]], [[LiShangyin|李商隐]], and [[HongLouMeng|《红楼梦》]] - episode 183's extension into poetry-novel intertext and confidence grading.
 - [[MourningMingReading]], [[RedChamberLegalReading]], [[QingFemaleInheritanceConstraint]], and [[ConfiscationAndFemaleFate]] - episode 167's extension into Red Chamber dynastic-code critique and legal evidence.
+- [[RedChamberFamilyHistoryEcho]], [[CaoYinAndKangxi|《曹寅与康熙》]], [[CaoYin|曹寅]], and [[ImperialFiscalElasticity]] - episode 101's extension into family-history evidence and its boundaries.
 - [[PiedPiperOfHamelin|花衣魔笛手]], [[LegendAsSocialHistory]], [[EvidenceBoundFolkloreInquiry]], and [[FolkloreTraumaEncoding]] - episode 111's extension into folklore, social history, and confidence discipline.
 - [[HistoricalDetectiveReasoning]], [[EvidenceBoundHistoricalRevision]], [[TheDaughterOfTime|《时间的女儿》]], [[RichardIII|理查三世]], and [[CaoCaoTomb|曹操墓]] - episode 69's extension into history, archaeology, and public-memory revision.

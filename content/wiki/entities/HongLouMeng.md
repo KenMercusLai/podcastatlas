@@ -2,8 +2,8 @@
 title: "《红楼梦》 / Dream of the Red Chamber"
 type: entity
 tags: [book, literature, chinese-classics, novel]
-sources: [01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260]
-last_updated: 2026-07-23
+sources: [01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876]
+last_updated: 2026-07-24
 ---
 
 # 《红楼梦》 / Dream of the Red Chamber
@@ -16,6 +16,8 @@ The novel matters in this source as a receiver of classical poetry. [[Xiangling|
 
 [[167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324]] adds a legal and social-history reading through [[MingRuoZhaoShuang|《命若朝霜》]]. It argues that the novel does not need [[MourningMingReading|悼明]] to be politically serious: [[QingFemaleInheritanceConstraint|Daiyu's inheritance]], Bao-Dai intimacy, [[LowStatusRegistry|performer status]], the [[JiaFamilyHousehold|贾府]] troupe, and [[ConfiscationAndFemaleFate|confiscation]] already show how power reaches women and weak people.
 
+[[101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876]] adds a family-history branch through [[JonathanSpence|史景迁]]'s [[CaoYinAndKangxi|《曹寅与康熙》]]. It reads [[CaoYin|曹寅]], [[KangxiEmperor|康熙]], [[JiangningWeavingBureau|江宁织造]], southern-tour reception, deficit finance, and secret memorials as historical background for imperial favor and household collapse. The source keeps this as [[RedChamberFamilyHistoryEcho|家族史回声]], not a proof that the novel is simply encoded Cao-family biography.
+
 ## Connections
 - [[TheCatcherInTheRye|《麦田里的守望者》]], [[HoldenCaulfield|Holden Caulfield / 霍尔顿]], and [[AmericanJiaBaoyuComparison]] - modern American comparison branch added by episode 01.
 - [[CaoXueqin|曹雪芹]] - conventional author figure in the source's reading.
@@ -24,3 +26,4 @@ The novel matters in this source as a receiver of classical poetry. [[Xiangling|
 - [[LiShangyin|李商隐]], [[YuxiIntoHonglou]], and [[ClassicalPoeticIntertextuality]] - main intertextual branch.
 - [[ClassicReadingComplexity]], [[SuoYinReading]], and [[InterpretationAndOverinterpretation]] - reading guardrails for suggestive but uneven evidence.
 - [[RedChamberLegalReading]], [[MourningMingReading]], [[QingGenderLegalOrder]], [[LowStatusRegistry]], and [[ConfiscationAndFemaleFate]] - episode 167's legal-institutional branch.
+- [[CaoYin|曹寅]], [[KangxiEmperor|康熙]], [[CaoFamilyQing|清代曹家]], [[JiangningWeavingBureau|江宁织造]], and [[RedChamberFamilyHistoryEcho]] - episode 101's family-history and Qing institutional branch.
