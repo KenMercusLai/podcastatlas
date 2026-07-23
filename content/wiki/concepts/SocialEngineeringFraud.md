@@ -2,8 +2,8 @@
 title: "Social Engineering Fraud"
 type: concept
 tags: [fraud, trust, security, finance]
-sources: [tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj, ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439]
-last_updated: 2026-07-12
+sources: [tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep28-bainian-jinrong-zhapian-shi-jieji-kuayue-yu-liangdang-ruyu-de-juli-ltpkaw9wxzpxlxo3mhh-0rkimgcj, ep24-fangdai-chedai-xiaofeidai-daidai-weinu-daidai-hai-lswnaa7x8biku9ouyv-c1dkf439, 102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488]
+last_updated: 2026-07-24
 ---
 
 # Social Engineering Fraud
@@ -13,6 +13,8 @@ Social engineering fraud is fraud that works by manipulating trust, identity, st
 [[tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]] adds the industrialized scam-network version. It treats [[PigButcheringScam]] and [[WorkFromHomeScam]] as organized operations that use relationship-building, fake platform interfaces, small apparent returns, and now AI-enabled personalization or outreach to scale trust manipulation.
 
 [[tech-20260223-0223-mp-tech-pod-128-tech-20260223-0223-mp-tech-pod-128]] adds the retail-site version. A fake [[Davines]] shopping site did not need a long relationship with the victim; it borrowed trust from brand familiarity, polished mobile design, official-sounding language, and a sponsored [[Google]] result. This turns [[AIAssistedWebsiteScams]] and [[SearchAdTrustGap]] into social-engineering surfaces because the interface and placement do the persuasion.
+
+[[102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488]] adds an older face-to-face repertoire through [[JianghuScamCraft]]. Fortune-telling, fake medicine, mole-removal, railway-station setups, and staged family-recognition plots show that social engineering long predates digital platforms: scammers use observation, collaborators, argot, role assignment, ambiguous pricing, and fear or greed to make the victim complete the deception.
 
 ## Key Claims
 - The channel changes, but the psychological levers are stable: greed, trust, fear, urgency, shame, authority, scarcity, and desire for special access.
@@ -25,8 +27,10 @@ Social engineering fraud is fraud that works by manipulating trust, identity, st
 - Work-from-home and crypto-investment scams can use the same trust path: a plausible platform, a visible balance, and repeated small commitments before a larger loss.
 - AI can industrialize social engineering by lowering the cost of translation, personalization, impersonation, and multi-channel outreach.
 - Fake retail sites can social-engineer through visual legitimacy and search placement even without a direct message from the scammer.
+- Older Jianghu scams show the same structure offline: a staged scene, a trusted-looking interpreter, false independent confirmation, and a role the victim wants or fears occupying.
 
 ## Connections
+- [[JianghuScamCraft]] and [[ChunDianArgot]] - older street-fraud mechanics and insider language.
 - [[InvestmentFraudRedFlags]] — finance-specific warning signs.
 - [[AdvanceFeeFraud]], [[PigButcheringScam]], and [[PennyStockBoilerRoomFraud]] — episode patterns that depend on social engineering.
 - [[WorkFromHomeScam]] and [[FakeInvestmentPlatformRisk]] — fake-task and fake-balance variants added by Marketplace Tech.

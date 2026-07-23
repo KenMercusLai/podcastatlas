@@ -2,7 +2,7 @@
 title: "Private Revenge And Modern Law"
 type: concept
 tags: [law, violence, state, republican-china, public-opinion]
-sources: [100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038]
+sources: [100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038, 102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488]
 last_updated: 2026-07-24
 ---
 
@@ -14,12 +14,15 @@ The episode says left-wing writers and progressive intellectuals attacked the ca
 
 [[100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302]] adds a general criminal-law version of the same tension. Instead of private revenge, the new source asks when legal judgment may consider moral context and when "情" can corrupt legality, connecting the page to [[LawMoralityBoundary]] and [[CriminalLawAsPowerLimitation]].
 
+[[102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488]] adds an adjacent informal-order case rather than a revenge case. [[InformalJianghuOrder]] shows thieves, guards, local brokers, and respected insiders regulating conflict through reputation and negotiation. That order can solve problems the formal state does not see quickly, but it also demonstrates why modern law is suspicious of private enforcement: protection depends on network position, not equal legal status.
+
 ## Key Claims
 - A modern state cannot easily tolerate private vengeance because it competes with legal monopoly over punishment.
 - Public sympathy can make unlawful violence feel morally intelligible, especially when prior state failure or warlord violence remains unresolved.
 - The source complicates a simple law-versus-emotion split by noting that Chinese legal and moral traditions had long allowed "情," "礼," and "法" to interact.
 - The case shows modern law being built not only through statutes and courts, but through public argument about what justice should feel like.
 - Episode 100 generalizes the tension beyond revenge: moral context can prevent mechanical harshness, but discretionary sympathy still needs legal limits.
+- Jianghu mediation adds a non-state enforcement neighbor: useful order can exist outside law, but it can also compete with legal equality and public accountability.
 
 ## Connections
 - [[ShiJianqiaoRevengeCase]] - main case.
@@ -28,3 +31,4 @@ The episode says left-wing writers and progressive intellectuals attacked the ca
 - [[PardonAsStatePower]] and [[NationalistGovernment]] - state resolution after judicial process.
 - [[FilialPietyLaws]] - adjacent filial-duty concept; this page concerns revenge and punishment rather than elder-care obligation.
 - [[LawMoralityBoundary]] and [[CriminalLawAsPowerLimitation]] - broader criminal-law extension added by episode 100.
+- [[InformalJianghuOrder]] - adjacent street-order case added by episode 102.

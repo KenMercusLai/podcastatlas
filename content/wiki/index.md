@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [102.江湖丛谈：骗术、黑话和民间道义](sources/102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488.md) — 蜜獾吃书 episode on 连阔如《江湖丛谈》, old Jianghu street society, 春点 black talk, scam craft, informal order, and the boundary between useful jargon and exclusionary language.
 - [112. 闲聊金庸第一弹：明教竟然今天还存在？](sources/112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095.md) — 蜜獾吃书 episode on Jin Yong's culturally dense wuxia, Song/Ming Jianghu space, 1967 Hong Kong politics, and Mingjiao/Manichaean survivals.
 - [Our mission: Find the world's best economic ideas (Summer School World Tour)](sources/our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour.md) — Planet Money Summer School episode on Australian water markets, farmer backlash, speculation, New Zealand's invention of inflation targeting, and credibility as expectations coordination.
 - [How to win a penalty shootout (with game theory)](sources/how-to-win-a-penalty-shootout-with-game-theory.md) — Planet Money episode on soccer penalties as game theory, mixed strategy, Ignacio Palacio Huerta's data, Chelsea vs. Manchester United in 2008, and modern penalty reports.
@@ -523,6 +524,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [连阔如 / Lian Kuoru](entities/LianKuoru.md) — Storyteller and author whose 《江湖丛谈》 exposes old Jianghu argot, street trades, scams, quyi worlds, and informal order.
+- [《江湖丛谈》 / Jianghu Congtan](entities/JiangHuCongTan.md) — Lian Kuoru book used by 蜜獾吃书 as a guide to old Jianghu language, livelihood, deception, and mutual-aid rules.
 - [罗翔 / Luo Xiang](entities/LuoXiang.md) — Legal scholar and public intellectual whose 《法律的悖论》 is used by 蜜獾吃书 to examine criminal law, moral judgment, punishment, freedom, and rational humility.
 - [《法律的悖论》 / The Paradox of Law](entities/TheParadoxOfLaw.md) — Luo Xiang book discussed as an accessible criminal-law philosophy route through paradox, moral context, state-power limits, punishment theory, and freedom boundaries.
 - [John Rawls / 罗尔斯](entities/JohnRawls.md) — Philosopher used through the veil of ignorance to test legal and social rules from unknown weak positions.
@@ -3398,6 +3401,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Street Jianghu Society](concepts/StreetJianghuSociety.md) — Non-wuxia Jianghu as an old street-livelihood system of itinerant trade, performance, scam, lodging, language, reputation, and mutual aid.
+- [春点 / Chun Dian Argot](concepts/ChunDianArgot.md) — Jianghu insider language used for secrecy, group recognition, trade coordination, status boundary-making, and sometimes fraud.
+- [Jianghu Scam Craft](concepts/JianghuScamCraft.md) — Older street-fraud repertoire combining observation, props, collaborators, argot, fear, greed, and role assignment.
+- [Informal Jianghu Order](concepts/InformalJianghuOrder.md) — Non-state rules, brokers, lodging customs, mediation, and reputation mechanisms that constrained old Jianghu life without becoming formal law.
+- [Jargon Boundary Making](concepts/JargonBoundaryMaking.md) — Language-sociology frame for when insider terms support precision or solidarity and when they become status display or exclusion.
 - [Legal Paradox Thinking](concepts/LegalParadoxThinking.md) — Legal-reasoning discipline for holding plausible but conflicting legal, moral, institutional, and practical claims without collapsing them into one slogan.
 - [Law-Morality Boundary](concepts/LawMoralityBoundary.md) — Criminal-law boundary between moral context that can prevent cruelty and moralism that turns law into arbitrary coercion.
 - [Criminal Law As Power Limitation](concepts/CriminalLawAsPowerLimitation.md) — Frame treating criminal law as a restraint on state punishment power as well as a mechanism for responding to crime.
