@@ -139,6 +139,10 @@
     "title": "129.如何成为真正的不完美主义者，浑身是劲儿！",
     "url": "/wiki/sources/129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151/"
   },
+  "130-tuokaerqiuke-guaidan-gushiji-xunzhao-he-gaobie-803543569": {
+    "title": "130.托卡尔丘克《怪诞故事集》：寻找和告别",
+    "url": "/wiki/sources/130-tuokaerqiuke-guaidan-gushiji-xunzhao-he-gaobie-803543569/"
+  },
   "130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi": {
     "title": "130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏",
     "url": "/wiki/sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi/"
@@ -1695,6 +1699,10 @@
     "title": "Agentic Workflow",
     "url": "/wiki/concepts/agenticworkflow/"
   },
+  "AgingRealityEstrangement": {
+    "title": "Aging Reality Estrangement",
+    "url": "/wiki/concepts/agingrealityestrangement/"
+  },
   "AgriculturalSystemsReality": {
     "title": "Agricultural Systems Reality",
     "url": "/wiki/concepts/agriculturalsystemsreality/"
@@ -3210,6 +3218,10 @@
   "BitcoinSafeHavenBehavior": {
     "title": "Bitcoin Safe-Haven Behavior",
     "url": "/wiki/concepts/bitcoinsafehavenbehavior/"
+  },
+  "BizarreStories": {
+    "title": "《怪诞故事集》 / Bizarre Stories",
+    "url": "/wiki/entities/bizarrestories/"
   },
   "BlackBerry": {
     "title": "BlackBerry",
@@ -6243,6 +6255,10 @@
     "title": "Domestic AI Chip Catch-Up",
     "url": "/wiki/concepts/domesticaichipcatchup/"
   },
+  "DomesticAIRelations": {
+    "title": "Domestic AI Relations",
+    "url": "/wiki/concepts/domesticairelations/"
+  },
   "DomesticViolencePetCoercion": {
     "title": "Domestic Violence Pet Coercion",
     "url": "/wiki/concepts/domesticviolencepetcoercion/"
@@ -7082,6 +7098,10 @@
   "EverydayFoodCultureHistory": {
     "title": "Everyday Food Culture History",
     "url": "/wiki/concepts/everydayfoodculturehistory/"
+  },
+  "EverydayWeirdness": {
+    "title": "Everyday Weirdness",
+    "url": "/wiki/concepts/everydayweirdness/"
   },
   "EverythingAgent": {
     "title": "Everything Agent",
@@ -7998,6 +8018,10 @@
   "FourthAmendmentIsNotForSaleAct": {
     "title": "Fourth Amendment is Not For Sale Act",
     "url": "/wiki/concepts/fourthamendmentisnotforsaleact/"
+  },
+  "FourthPersonNarrative": {
+    "title": "Fourth-Person Narrative",
+    "url": "/wiki/concepts/fourthpersonnarrative/"
   },
   "FrameworkLedSaaS": {
     "title": "Framework-Led SaaS",
@@ -13411,6 +13435,10 @@
     "title": "Meta AI",
     "url": "/wiki/entities/metaai/"
   },
+  "Metamorphoses": {
+    "title": "Metamorphoses / 《变形记》",
+    "url": "/wiki/entities/metamorphoses/"
+  },
   "MethodicDoubt": {
     "title": "Methodic Doubt",
     "url": "/wiki/concepts/methodicdoubt/"
@@ -14607,6 +14635,10 @@
     "title": "Okhotsk / 鄂霍次克",
     "url": "/wiki/entities/okhotsk/"
   },
+  "OlgaTokarczuk": {
+    "title": "Olga Tokarczuk / 托卡尔丘克",
+    "url": "/wiki/entities/olgatokarczuk/"
+  },
   "OlinFoundation": {
     "title": "Olin Foundation",
     "url": "/wiki/entities/olinfoundation/"
@@ -14950,6 +14982,10 @@
   "OvertureSupersonicAirliner": {
     "title": "Overture Supersonic Airliner",
     "url": "/wiki/entities/overturesupersonicairliner/"
+  },
+  "Ovid": {
+    "title": "Ovid / 奥维德",
+    "url": "/wiki/entities/ovid/"
   },
   "Ozempic": {
     "title": "Ozempic",
@@ -17719,6 +17755,10 @@
     "title": "Self-Experimentation",
     "url": "/wiki/concepts/selfexperimentation/"
   },
+  "SelfRecognitionHorror": {
+    "title": "Self-Recognition Horror",
+    "url": "/wiki/concepts/selfrecognitionhorror/"
+  },
   "SelfSupervisedLearning": {
     "title": "Self-Supervised Learning",
     "url": "/wiki/concepts/selfsupervisedlearning/"
@@ -20107,6 +20147,10 @@
     "title": "Transcendence Against Human Feeling",
     "url": "/wiki/concepts/transcendenceagainsthumanfeeling/"
   },
+  "TransformationAsExit": {
+    "title": "Transformation As Exit",
+    "url": "/wiki/concepts/transformationasexit/"
+  },
   "TranslationPublishingWorkflow": {
     "title": "Translation Publishing Workflow",
     "url": "/wiki/concepts/translationpublishingworkflow/"
@@ -21658,6 +21702,10 @@
   "XuWenliang": {
     "title": "徐文亮 / Tom",
     "url": "/wiki/entities/xuwenliang/"
+  },
+  "XuXiyuan": {
+    "title": "徐熙元",
+    "url": "/wiki/entities/xuxiyuan/"
   },
   "XuXuanGuaiLu": {
     "title": "《续玄怪录》",

@@ -4407,3 +4407,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | 130.托卡尔丘克《怪诞故事集》：寻找和告别
+
+Added source page for a 蜜獾吃书 episode on Olga Tokarczuk's 《怪诞故事集》, covering 〈旅客〉, 〈拜访〉, 〈接缝〉, 〈罐头〉, and 〈变形中心〉 through everyday weirdness, self-recognition horror, fourth-person narrative, domestic AI relations, aging reality estrangement, preserved maternal grief, transformation, Ovidian metamorphosis, wolves, and farewell to 徐熙元. Created pages for Olga Tokarczuk, 《怪诞故事集》, Ovid, Metamorphoses, 徐熙元, Everyday Weirdness, Fourth-Person Narrative, Self-Recognition Horror, Aging Reality Estrangement, Domestic AI Relations, and Transformation As Exit; updated overview, index, 蜜獾吃书, Weird Fiction, Guaitan Literature, Genre Literary Legitimacy, Embodied Aging, Science Fiction Realism, Robot-Human Boundary, and End-of-Life Autonomy And Dignity. No direct contradiction found; the source complements the assisted-death branch by offering a speculative literary analogue to voluntary exit without equating transformation with medical assisted death.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

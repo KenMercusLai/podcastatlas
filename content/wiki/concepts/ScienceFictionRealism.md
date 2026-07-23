@@ -2,7 +2,7 @@
 title: "Science Fiction Realism"
 type: concept
 tags: [literature, science-fiction, realism, satire]
-sources: [45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680, sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]
+sources: [130-tuokaerqiuke-guaidan-gushiji-xunzhao-he-gaobie-803543569, 45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680, sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]
 last_updated: 2026-07-24
 ---
 
@@ -16,6 +16,8 @@ In the episode, [[TheCyberiad|《机器人大师》 / The Cyberiad]] becomes rea
 
 [[sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]] adds a mythic and embodied [[RogerZelazny|Zelazny]] version. [[ForABreathITarry|《趁生命气息逗留》]], [[HomeIsTheHangman|《刽子手返乡》]], and [[TwentyFourViewsOfMountFujiByHokusai|《富岳二十四景》]] are not realist because their premises are ordinary; they are realist because robots, uploads, immortality, revenge, and poetry expose durable human problems around body, fear, trauma, loneliness, control, and the wish to become more than human.
 
+[[130-tuokaerqiuke-guaidan-gushiji-xunzhao-he-gaobie-803543569]] adds a domestic Tokarczuk version through [[BizarreStories|《怪诞故事集》]]. 〈拜访〉 and 〈变形中心〉 are speculative, but their realism lies in household labor, AI dependency, family witnessing, grief, body design, and the difficulty of respecting a chosen departure.
+
 ## Key Claims
 - Speculative absurdity can be realist when it reveals durable social mechanisms.
 - Realism here is structural rather than surface-level: the events are impossible, but the human patterns are recognizable.
@@ -23,6 +25,7 @@ In the episode, [[TheCyberiad|《机器人大师》 / The Cyberiad]] becomes rea
 - AI-era readers can use older machine fables to think about current tools without treating the stories as direct predictions.
 - Concept-dense science fiction can be realist when it makes abstract physics, mathematics, language, or consciousness change a person's lived relationships.
 - Mythic science fiction can be realist when grand speculative forms make ordinary human attachments, control, and vulnerability clearer.
+- Domestic and body-transformation science fiction can be realist when invented technology reveals care arrangements and family grief.
 
 ## Connections
 - [[TheCyberiad|《机器人大师》 / The Cyberiad]] and [[StanislawLem|斯坦尼斯拉夫·莱姆]] - source book and author.
@@ -31,3 +34,4 @@ In the episode, [[TheCyberiad|《机器人大师》 / The Cyberiad]] becomes rea
 - [[ReadingAsLifeExperience]] and [[NonInstrumentalLiteraryReading]] - broader literary-reading frames in the wiki.
 - [[ChatGPT]] and [[HumanJudgmentUnderAI]] - contemporary AI trigger and judgment boundary illuminated by the episode.
 - [[RogerZelazny|Roger Zelazny / 罗杰·泽拉兹尼]], [[ForABreathITarry|《趁生命气息逗留》]], [[RobotHumanBoundary]], and [[EmbodiedPersonhood]] - mythic and embodied extension added by the Zelazny episode.
+- [[BizarreStories|《怪诞故事集》]], [[DomesticAIRelations]], and [[TransformationAsExit]] - Tokarczuk extension added by episode 130.

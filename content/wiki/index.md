@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [130.托卡尔丘克《怪诞故事集》：寻找和告别](sources/130-tuokaerqiuke-guaidan-gushiji-xunzhao-he-gaobie-803543569.md) — 蜜獾吃书 episode on Olga Tokarczuk's 《怪诞故事集》, everyday weirdness, self-recognition horror, domestic AI relations, aging estrangement, preserved maternal grief, transformation, wolves, and farewell to 徐熙元.
 - [129.如何成为真正的不完美主义者，浑身是劲儿！](sources/129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151.md) — 蜜獾吃书 episode on perfectionism as avoidance, imperfect action, binary completion, failure desensitization, high-general/low-specific expectations, and concrete self-praise.
 - [128.闲聊十二生肖之蛇：从耶梦加得到赵灵儿](sources/128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305.md) — 蜜獾吃书 episode on the zodiac snake, real snake behavior, world-serpent mythology, renewal, secret knowledge, White Snake, Zhao Ling'er, and snake-woman symbolism.
 - [sp.05 【刘擎x林垚】"枪杀医保巨头"案背后的思考（下）：分裂的美国会有宪政危机吗？](sources/sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978.md) — 蜜獾吃书 x 东腔西调 sequel on Trump 2024, MAGA coalition fractures, constitutional reform limits, identity politics, BLM, Gaza-campus speech disputes, and U.S. constitutional-crisis risk.
@@ -548,6 +549,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Olga Tokarczuk / 托卡尔丘克](entities/OlgaTokarczuk.md) — Polish writer discussed by episode 130 through 《怪诞故事集》 and its everyday-weird short-story method.
+- [《怪诞故事集》 / Bizarre Stories](entities/BizarreStories.md) — Tokarczuk short-story collection used by episode 130 to connect self-recognition, domestic AI, aging, preserved grief, and transformation.
+- [Ovid / 奥维德](entities/Ovid.md) — Classical author invoked by episode 130's 〈变形中心〉 reading as a way to think about metamorphosis through similarity and continuity.
+- [Metamorphoses / 《变形记》](entities/Metamorphoses.md) — Ovidian transformation frame used by episode 130 to read chosen bodily change in 〈变形中心〉.
+- [徐熙元](entities/XuXiyuan.md) — Figure to whom episode 130 dedicates its closing wolf/transformation reading.
 - [《如何成为不完美主义者》 / How to Be an Imperfectionist](entities/HowToBeAnImperfectionist.md) — Book discussed by episode 129 as a practical guide to lowering action standards, tolerating failure, and acting before confidence or ideal conditions arrive.
 - [James Cameron](entities/JamesCameron.md) — Episode 129 example for distinguishing excellence, correctness, completion, and moving on from harmful perfectionism.
 - [Oprah Winfrey](entities/OprahWinfrey.md) — Episode 129 example for separating excellence from perfectionism in public work and self-expectation.
@@ -3648,6 +3654,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Everyday Weirdness](concepts/EverydayWeirdness.md) — Episode 130 frame for ordinary settings made strange enough to expose hidden fear, grief, selfhood, labor, and farewell.
+- [Fourth-Person Narrative](concepts/FourthPersonNarrative.md) — Episode 130 narrative-selfhood frame where an "I" encounters itself indirectly through another voice or future self.
+- [Self-Recognition Horror](concepts/SelfRecognitionHorror.md) — Episode 130 pattern where the frightening other is later recognized as an unrecognized version of oneself.
+- [Aging Reality Estrangement](concepts/AgingRealityEstrangement.md) — Episode 130 concept for old age as a world whose ordinary objects no longer match memory.
+- [Domestic AI Relations](concepts/DomesticAIRelations.md) — Episode 130 frame for artificial intelligence as household intimacy, care labor, etiquette, shutdown, and dependence.
+- [Transformation As Exit](concepts/TransformationAsExit.md) — Episode 130 frame for chosen bodily metamorphosis as autonomy, farewell, ecological return, and family witnessing.
 - [Perfectionism As Avoidance](concepts/PerfectionismAsAvoidance.md) — Episode 129 frame for perfectionism as a protective block that can hide fear, shame, procrastination, and refusal to act.
 - [Imperfect Action Practice](concepts/ImperfectActionPractice.md) — Episode 129 method of lowering the first step enough to complete it under real conditions and get feedback before confidence arrives.
 - [Binary Action Thinking](concepts/BinaryActionThinking.md) — Episode 129 habit of counting action as 0 or 1 before grading quality, useful against perfectionist over-scoring.
