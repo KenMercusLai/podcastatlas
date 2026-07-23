@@ -3858,6 +3858,10 @@ Added source page for the Marketplace Tech episode with David Brancaccio on rebu
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-23] ingest | Gusto Co-Founders: Josh Reeves, Edward Kim & Tomer London
+
+Added source page for The Social Radars episode with Gusto co-founders Josh Reeves, Eddie Kim, and Tomer London on ZenPayroll, small-business payroll pain, a narrow regulated workflow wedge, co-founder relationship maintenance, values, COVID support, SVB payroll continuity, and Gusto's broader entrepreneurship-platform ambition. Created pages for Gusto, ZenPayroll, Josh Reeves, Eddie Kim, Tomer London, Pickwing, Payroll Infrastructure Trust, Regulated Workflow Wedge, and Co-Founder Relationship Maintenance; updated overview, index, The Social Radars, Y Combinator, Silicon Valley Bank, Operational Pain Founder Insight, Customer Discovery By Doing Work, Unscalable Founder Work, Founder Product Fit, Values As Operational Asset, Co-Founder Conflict, Co-Founder Alignment Loop, Trust As Business Asset, Financial Operations Resilience, Crisis Stakeholder Leadership, SaaS Trust Moat, Trust-Heavy Infrastructure Sales, Compliance Automation, and Entrepreneurship Infrastructure. No direct contradiction found; the source adds a positive payroll-infrastructure case beside the wiki's Zenefits/Rippling branch.
+
 ## [2026-07-23] ingest | Surbhi Sarna, Founder of nVision Medical
 
 Added source page for The Social Radars episode with Surbhi Sarna on nVision Medical, ovarian cysts, ovarian cancer diagnostics, fallopian-tube access, physician-led device design, FDA clearances, clinical studies, solo-founder fundraising, Tim Draper matching capital, the Boston Scientific acquisition, and Without a Doubt. Created pages for Surbhi Sarna, nVision Medical, Boston Scientific, Without a Doubt, Cindy D'Amicus, Anula Jayasuria, Women's Health Diagnostic Gap, Ovarian Cancer Diagnostics, Fallopian Tube Access Diagnostics, Physician-Led Medical Device Design, Medical Device Clinical Validation, Solo Founder Fundraising Bias, Capital-Efficient Medical Device Startup, and Mission-Driven Acquisition Decision; updated overview, index, The Social Radars, Y Combinator, Food and Drug Administration, Medical Testing Validation Integrity, Medical Risk Management, Hard Tech Fundraising, Founder Product Fit, Founder Resilience, Investor Risk Narrative, Post-Acquisition Founder Identity, Customer Discovery By Doing Work, Tim Draper, Preventive Health Screening, Founder Cash Flow Constraint, and Hard Problem MVP Scoping. No direct contradiction found; noted the source export's internal nVision/Envision naming mismatch and followed the metadata/file spelling.
@@ -4042,6 +4046,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-23] ingest | Ron Conway on Founder Advocacy, Angel Investing, and the Internet's First Wave
 
 Added source page for The Social Radars episode with Ron Conway on SV Angel's founder advocacy, Natural Language Incorporated, Don Valentine's board mentorship, Ben Rosen, the internet software thesis, Netscape, Mike Homer, open-source cost collapse, Ask Jeeves, and pre-YC startup information networks. Created pages for Ben Rosen, Natural Language Incorporated, Netscape, Mike Homer, Jim Clark, Seven Rosen Venture Partners, Founder Advocacy, Internet Software Thesis, Startup Information Layer, Browser As Internet Unlock, Netscape Platform Ecosystem, Open Source Startup Cost Collapse, and Conversational Search Interface; updated overview, index, Ron Conway, SV Angel, Ask Jeeves, Mark Andreessen, Don Valentine, Altos Computer, Founder Friendly Investor Support, Founder-Investor Learning, Outlier-Driven Angel Investing, Startup Community Infrastructure, and Startup Timing Windows. No direct contradiction found; the source fills the chronological gap between Conway's pre-SV Angel operating history and the existing Google/Napster chapters while remaining a Conway-centered participant account.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-23] lint | Wiki health check
 

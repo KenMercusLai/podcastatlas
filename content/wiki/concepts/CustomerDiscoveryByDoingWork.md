@@ -2,7 +2,7 @@
 title: "Customer Discovery By Doing Work"
 type: concept
 tags: [startup, customer-discovery, operations]
-sources: [tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-tonyxu-final]
+sources: [tsr-s4-gusto-v3-tsr-s4-gusto-v3, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s2-adoracheung-v5, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-tonyxu-final]
 last_updated: 2026-07-23
 ---
 
@@ -26,6 +26,8 @@ The pattern matters because it exposed a delivery problem that a survey could ea
 
 [[tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6]] adds a logistics fieldwork version through [[RyanPetersen]] and [[Flexport]]. The original company pain came from Petersen importing motorcycles, while the Long Beach congestion episode shows later discovery by going to the port, talking to workers and a trucking CEO, and identifying container-stacking and chassis constraints that abstract supply-chain commentary missed.
 
+[[tsr-s4-gusto-v3-tsr-s4-gusto-v3]] adds a payroll-onboarding version through [[Gusto]]. The founders watched an early customer enter employee payroll information, noticed the privacy and friction in that work, and turned the observation into employee self-service. The discovery came from seeing the real workflow, not only asking whether payroll was painful.
+
 ## Key Claims
 - Doing work can earn trust before the founder has a product to pitch.
 - Operational participation reveals hidden constraints, vocabulary, and tradeoffs that customers may not articulate in a formal interview.
@@ -39,6 +41,7 @@ The pattern matters because it exposed a delivery problem that a survey could ea
 - In B2B compliance, doing the work can expose repeated evidence, policy, and control patterns that customers share even when they believe their company is unique.
 - In logistics, fieldwork can expose physical bottlenecks and incentive loops that are invisible from documents or dashboards alone.
 - In medical devices, discovery can mean converting clinician feedback into device ergonomics, procedural safety, and validation requirements even when the founder cannot personally perform the clinical work.
+- In regulated back-office software, watching customer onboarding can reveal privacy, compliance, and data-entry requirements that belong in the product itself.
 
 ## Connections
 - [[TonyXu]], [[DoorDash]], [[PaloAltoDelivery]], and [[StanfordStartupGarage]] - source case.
@@ -52,3 +55,4 @@ The pattern matters because it exposed a delivery problem that a survey could ea
 - [[ChristinaCacioppo]], [[Vanta]], [[SOC2Audit]], [[Segment]], [[Front]], and [[ManualComplianceMVP]] - compliance gap-assessment case added by the Christina Cacioppo episode.
 - [[SurbhiSarna]], [[NVisionMedical|nVision Medical]], [[PhysicianLedMedicalDeviceDesign]], [[FallopianTubeAccessDiagnostics]], and [[MedicalDeviceClinicalValidation]] - physician-user discovery case added by The Social Radars.
 - [[RyanPetersen]], [[Flexport]], [[GlobalLogisticsCoordination]], and [[LogisticsCrisisResponse]] - logistics fieldwork case added by the Ryan Petersen episode.
+- [[Gusto]], [[JoshReeves]], [[EddieKim]], [[TomerLondon]], and [[PayrollInfrastructureTrust]] - payroll-onboarding case added by the Gusto episode.

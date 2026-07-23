@@ -2,8 +2,8 @@
 title: "Trust-Heavy Infrastructure Sales"
 type: concept
 tags: [startups, enterprise-sales, infrastructure, trust]
-sources: [tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, socialradarsseason2-dimitri-final, socialradarss2-billclerico-final, socialradarss2-stripe-v2, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
-last_updated: 2026-07-14
+sources: [tsr-s4-gusto-v3-tsr-s4-gusto-v3, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, socialradarsseason2-dimitri-final, socialradarss2-billclerico-final, socialradarss2-stripe-v2, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
+last_updated: 2026-07-23
 ---
 
 # Trust-Heavy Infrastructure Sales
@@ -22,6 +22,8 @@ The episode makes this different from ordinary SaaS adoption. A customer can lik
 
 [[tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]] adds two UK fintech trust cases. [[GoCardless]] had to turn bank-payment access into credible B2B direct-debit infrastructure after a weak bill-splitting start. [[Monzo]] had to earn consumer and regulator trust while launching on prepaid cards, waiting years for a full banking license, and using [[InHouseBankingSoftware]] to make account state and fraud response reliable.
 
+[[tsr-s4-gusto-v3-tsr-s4-gusto-v3]] adds the small-business payroll version through [[Gusto]]. Even though Gusto served small companies rather than large enterprises at first, customers still had to trust a young startup with payroll, tax filings, employee data, and the basic promise that people would be paid on time.
+
 ## Key Claims
 - Critical-infrastructure customers may validate a problem long before production usage or revenue appears.
 - Bank, security, compliance, and workflow counterparties can all become part of the sales path.
@@ -32,6 +34,7 @@ The episode makes this different from ordinary SaaS adoption. A customer can lik
 - Enterprise collaboration infrastructure still needs institution-level trust when the product controls shared company files and sync state.
 - Bottom-up adoption can create infrastructure trust before procurement, but only if the product's reliability signals are accurate enough for real work.
 - In regulated consumer banking, trust-heavy adoption includes both user-visible clarity and hidden regulator, fraud, and licensing work.
+- Trust-heavy sales can exist in small-business software when the workflow is mandatory, regulated, sensitive, and failure-intolerant.
 
 ## Connections
 - [[ModernTreasury]], [[DimitriDadiomov]], [[LendingHome]], and [[SiliconValleyBank]] - source case and counterparties.
@@ -43,3 +46,4 @@ The episode makes this different from ordinary SaaS adoption. A customer can lik
 - [[AeroFS]], [[YuriSagalov]], [[EnterpriseFileSync]], and [[PeerToPeerSynchronizationRisk]] - enterprise file-sync trust case added by the Sagalov episode.
 - [[Dropbox]], [[DrewHouston]], [[BottomUpEnterpriseDistribution]], and [[SyncReliabilityAsUX]] - consumer-to-workplace trust case added by the Drew Houston episode.
 - [[GoCardless]], [[Monzo]], [[TomBlomfield]], [[FintechRegulatoryWindow]], and [[InHouseBankingSoftware]] - UK fintech trust cases added by the Tom Blomfield episode.
+- [[Gusto]], [[JoshReeves]], [[EddieKim]], [[TomerLondon]], and [[PayrollInfrastructureTrust]] - small-business payroll trust case added by the Gusto episode.

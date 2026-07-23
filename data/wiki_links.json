@@ -4195,6 +4195,10 @@
     "title": "Co-Founder Conflict",
     "url": "/wiki/concepts/cofounderconflict/"
   },
+  "CoFounderRelationshipMaintenance": {
+    "title": "Co-Founder Relationship Maintenance",
+    "url": "/wiki/concepts/cofounderrelationshipmaintenance/"
+  },
   "Coalfire": {
     "title": "Coalfire",
     "url": "/wiki/entities/coalfire/"
@@ -5922,6 +5926,10 @@
   "EdMiliband": {
     "title": "Ed Miliband",
     "url": "/wiki/entities/edmiliband/"
+  },
+  "EddieKim": {
+    "title": "Eddie Kim / Edward Kim",
+    "url": "/wiki/entities/eddiekim/"
   },
   "EddyLu": {
     "title": "Eddy Lu",
@@ -8019,6 +8027,10 @@
     "title": "Gustavo Petro",
     "url": "/wiki/entities/gustavopetro/"
   },
+  "Gusto": {
+    "title": "Gusto",
+    "url": "/wiki/entities/gusto/"
+  },
   "GuyRaz": {
     "title": "Guy Raz",
     "url": "/wiki/entities/guyraz/"
@@ -9862,6 +9874,10 @@
   "JoshHawley": {
     "title": "Josh Hawley",
     "url": "/wiki/entities/joshhawley/"
+  },
+  "JoshReeves": {
+    "title": "Josh Reeves",
+    "url": "/wiki/entities/joshreeves/"
   },
   "JoshRoberts": {
     "title": "Josh Roberts",
@@ -13499,6 +13515,10 @@
     "title": "Payments Infrastructure Pivot",
     "url": "/wiki/concepts/paymentsinfrastructurepivot/"
   },
+  "PayrollInfrastructureTrust": {
+    "title": "Payroll Infrastructure Trust",
+    "url": "/wiki/concepts/payrollinfrastructuretrust/"
+  },
   "PeachBlossomSpring": {
     "title": "《桃花源记》 / Peach Blossom Spring",
     "url": "/wiki/entities/peachblossomspring/"
@@ -13738,6 +13758,10 @@
   "PhysicianLedMedicalDeviceDesign": {
     "title": "Physician-Led Medical Device Design",
     "url": "/wiki/concepts/physicianledmedicaldevicedesign/"
+  },
+  "Pickwing": {
+    "title": "Pickwing",
+    "url": "/wiki/entities/pickwing/"
   },
   "PiedPiperMedievalEurope": {
     "title": "《花衣魔笛手：传说背后的欧洲中世纪》",
@@ -14822,6 +14846,10 @@
   "RegulatedFintechCapitalPressure": {
     "title": "Regulated Fintech Capital Pressure",
     "url": "/wiki/concepts/regulatedfintechcapitalpressure/"
+  },
+  "RegulatedWorkflowWedge": {
+    "title": "Regulated Workflow Wedge",
+    "url": "/wiki/concepts/regulatedworkflowwedge/"
   },
   "RegulatoryTakings": {
     "title": "Regulatory Takings",
@@ -17755,6 +17783,10 @@
     "title": "Tomas Holoneck",
     "url": "/wiki/entities/tomasholoneck/"
   },
+  "TomerLondon": {
+    "title": "Tomer London",
+    "url": "/wiki/entities/tomerlondon/"
+  },
   "Tommy": {
     "title": "Tommy",
     "url": "/wiki/entities/tommy/"
@@ -19607,6 +19639,10 @@
     "title": "Zeiss",
     "url": "/wiki/entities/zeiss/"
   },
+  "ZenPayroll": {
+    "title": "ZenPayroll",
+    "url": "/wiki/entities/zenpayroll/"
+  },
   "Zenefits": {
     "title": "Zenefits",
     "url": "/wiki/entities/zenefits/"
@@ -21066,6 +21102,10 @@
   "tsr-s4-ericm-v2-tsr-s4-ericm-v2": {
     "title": "Eric Migicovsky on Pebble, Kickstarter, and Building for Yourself",
     "url": "/wiki/sources/tsr-s4-ericm-v2-tsr-s4-ericm-v2/"
+  },
+  "tsr-s4-gusto-v3-tsr-s4-gusto-v3": {
+    "title": "Gusto Co-Founders: Josh Reeves, Edward Kim & Tomer London",
+    "url": "/wiki/sources/tsr-s4-gusto-v3-tsr-s4-gusto-v3/"
   },
   "tsr-s4-harj-v3-tsr-s4-harj-v3": {
     "title": "Harj Taggar on Y Combinator, Triplebyte, and Hiring Judgment",

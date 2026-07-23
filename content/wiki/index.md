@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [Surbhi Sarna, Founder of nVision Medical](sources/tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3.md) — The Social Radars episode with Surbhi Sarna on nVision Medical, ovarian cancer diagnostics, fallopian-tube access, physician-led medical-device design, FDA clearance, hard medtech fundraising, and the Boston Scientific acquisition.
+- [Gusto Co-Founders: Josh Reeves, Edward Kim & Tomer London](sources/tsr-s4-gusto-v3-tsr-s4-gusto-v3.md) — The Social Radars episode with Gusto's three founders on payroll pain, a narrow regulated workflow wedge, co-founder relationship maintenance, values, COVID small-business support, and SVB payroll continuity.
 - [Tyler Shultz, Theranos Whistleblower (Part 2)](sources/tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3.md) — The Social Radars episode with Tyler Shultz on Wall Street Journal reporting, John Carreyrou, legal pressure, family leverage, regulatory fallout, public accountability, and whistleblower-channel advice.
 - [Tyler Shultz, Theranos Whistleblower (Part 1)](sources/tsr-s4-tylershultzpart1-final-tsr-s4-tylershultzpart1-final.md) — The Social Radars episode with Tyler Shultz on joining Theranos, Elizabeth Holmes's charisma, lab validation failures, secrecy, board credibility, internal escalation, resignation, and the first attempt to persuade George Shultz.
 - [Replit Co-Founders, Amjad Masad & Haya Odeh](sources/tsr-s3-replit-v2-tsr-s3-replit-v2.md) — The Social Radars episode on Replit's origin, Amjad Masad and Haya Odeh, accessible programming, consumer-grade developer infrastructure, YC validation, and spouse co-founder dynamics.
@@ -1844,6 +1845,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Parker Conrad](entities/ParkerConrad.md) — Founder of Zenefits and Rippling whose Social Radars episode and Season 2 wrap-up link regulatory crisis, public narrative, and software-first rebuilding.
 - [Zenefits](entities/Zenefits.md) — HR, payroll, benefits, and insurance startup used as a cautionary case for manual operations debt and governance narrative risk.
 - [Rippling](entities/Rippling.md) — Business-software company built around an employee graph, compound startup strategy, and automation-first operating discipline.
+- [Gusto](entities/Gusto.md) — Payroll, HR, and benefits software company whose Social Radars episode links payroll infrastructure trust, regulated workflow scoping, co-founder relationship maintenance, and SVB crisis response.
+- [ZenPayroll](entities/ZenPayroll.md) — Original name of Gusto, used in the episode to mark the company's first payroll wedge before its 2015 expansion into benefits.
+- [Josh Reeves](entities/JoshReeves.md) — Gusto co-founder and long-running CEO whose source role links go-to-market, entrepreneurship infrastructure, values, and payroll-continuity crisis leadership.
+- [Eddie Kim / Edward Kim](entities/EddieKim.md) — Gusto co-founder and former Pickwing founder whose family payroll exposure grounds the operational-pain insight in the episode.
+- [Tomer London](entities/TomerLondon.md) — Gusto co-founder whose source role links product, engineering, payment reliability, and the founders' feedback-walk ritual.
+- [Pickwing](entities/Pickwing.md) — Eddie Kim's first YC startup, used as founder prehistory before the Gusto payroll opportunity.
 - [David Sacks](entities/DavidSacks.md) — Zenefits CEO successor in Conrad's account of the compliance, media, and responsibility dispute.
 - [Andreessen Horowitz](entities/AndreessenHorowitz.md) — Venture firm appearing in Conrad's account through the network intervention that stopped orchestrated attacks.
 - [Mark Andreessen](entities/MarkAndreessen.md) — Netscape browser figure in Conway's internet history and Andreessen Horowitz co-founder named in Conrad's YC-network intervention account.
@@ -4238,6 +4245,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Accelerated Bank Runs](concepts/AcceleratedBankRuns.md) — Bank-run risk accelerated by texts, social media, mobile banking, and online transfers.
 - [Trust-Heavy Infrastructure Sales](concepts/TrustHeavyInfrastructureSales.md) — Sales pattern where critical-infrastructure buyers need trust, bank coordination, implementation, and time before usage metrics appear.
 - [Operational Pain Founder Insight](concepts/OperationalPainFounderInsight.md) — Startup insight pattern where founders productize a painful, repeated, unglamorous workflow they lived through directly.
+- [Payroll Infrastructure Trust](concepts/PayrollInfrastructureTrust.md) — Trust pattern where payroll software must make wages, tax filings, benefits data, payment timing, and crisis continuity reliable.
+- [Regulated Workflow Wedge](concepts/RegulatedWorkflowWedge.md) — Product strategy of entering a compliance-heavy market through a narrow customer and workflow segment before expanding.
 - [Startup High-Beta Bet](concepts/StartupHighBetaBet.md) — YC selection frame for companies with high failure probability but unusually large upside, added through Coinbase.
 - [Regulated Crypto Trust Strategy](concepts/RegulatedCryptoTrustStrategy.md) — Treating compliance, banking access, licenses, reserves, and regulator engagement as core crypto product strategy.
 - [Early Fintech Fraud Controls](concepts/EarlyFintechFraudControls.md) — Operational fraud controls needed before low-margin financial products are overwhelmed by abuse.
@@ -4261,6 +4270,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Builder-Centered Institutions](concepts/BuilderCenteredInstitutions.md) — Institutional pattern where capital, status, advice, and community are organized around people actively building products and companies.
 - [Founder Honesty](concepts/FounderHonesty.md) — Founder-support stance that favors candid, trust-based critique over flattering founders or disappearing when problems appear.
 - [Co-Founder Conflict](concepts/CoFounderConflict.md) — Startup risk where unresolved founder or early-team disagreement damages product response, leadership, relationships, and founder health.
+- [Co-Founder Relationship Maintenance](concepts/CoFounderRelationshipMaintenance.md) — Operating habit of preserving founder trust through role clarity, recurring feedback, gratitude, apology, and ego control.
 - [Startup Timing Windows](concepts/StartupTimingWindows.md) — Temporary openings created by platform shifts, market conditions, or workflow gaps that can create and later close startup opportunities.
 - [Startup Community Infrastructure](concepts/StartupCommunityInfrastructure.md) — Software, events, lists, rituals, and trust systems that let founder communities keep working as they scale.
 - [Low-Frequency Low-Value Product](concepts/LowFrequencyLowValueProduct.md) — Product/business-model failure mode where large adoption still fails to monetize because the core action is too occasional and not valuable enough per use.

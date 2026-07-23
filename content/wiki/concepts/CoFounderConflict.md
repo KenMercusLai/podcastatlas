@@ -2,8 +2,8 @@
 title: "Co-Founder Conflict"
 type: concept
 tags: [startups, founders, leadership, psychology]
-sources: [socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-brianarmstrong-final, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
-last_updated: 2026-07-14
+sources: [tsr-s4-gusto-v3-tsr-s4-gusto-v3, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-brianarmstrong-final, tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]
+last_updated: 2026-07-23
 ---
 
 # Co-Founder Conflict
@@ -18,6 +18,8 @@ The source is unusually explicit about the health cost. Tan describes the confli
 
 [[tsr-s5-tomblomfield-v2-audio-tsr-s5-tomblomfield-v2-audio]] adds a disputed founding-relationship version through [[TomBlomfield]], [[AnneBoden]], and [[StarlingBank]]. Tom says informal equity expectations, personal cash support, firings, and volatile negotiations made the relationship untenable before most of the team regrouped to form [[Monzo]]. The case overlaps with [[FounderAgreementDocumentation]] because conflict becomes harder to resolve when roles and ownership are not written clearly.
 
+[[tsr-s4-gusto-v3-tsr-s4-gusto-v3]] adds the constructive counterpart through [[Gusto]]. [[EddieKim]] says ego is a common cause of co-founder breakup, while he, [[JoshReeves]], and [[TomerLondon]] reduced that risk through explicit roles and regular feedback walks. The case is captured as [[CoFounderRelationshipMaintenance]] rather than another failure story.
+
 ## Key Claims
 - Co-founder harmony is not the same as co-founder health; avoiding hard conversations can hide unresolved strategic disagreement.
 - Conflict can become a product risk when founders cannot agree on what the market evidence means.
@@ -27,6 +29,7 @@ The source is unusually explicit about the health cost. Tan describes the confli
 - Avoided reconciliation can become part of a founder's long-term memory of the company, even after the company survives.
 - An early co-founder breakup can be a healthier outcome when the mismatch is visible before incorporation, fundraising, and equity commitments harden the relationship.
 - Conflict around a founding effort becomes more damaging when paperwork, cash contributions, and authority are ambiguous.
+- Role clarity and recurring feedback can reduce co-founder conflict before it becomes a product, health, or governance problem.
 
 ## Connections
 - [[GarryTan]] and [[Posterous]] - source case.
@@ -36,3 +39,4 @@ The source is unusually explicit about the health cost. Tan describes the confli
 - [[LongLivedStartupDecisions]] - relationship consequences that can outlast the initial startup moment.
 - [[BrianArmstrong]], [[Coinbase]], and [[PaulBuchheit]] - early co-founder mismatch case added by the Armstrong episode.
 - [[TomBlomfield]], [[AnneBoden]], [[StarlingBank]], [[Monzo]], and [[FounderAgreementDocumentation]] - disputed founding-relationship case added by the Tom Blomfield episode.
+- [[Gusto]], [[JoshReeves]], [[EddieKim]], [[TomerLondon]], and [[CoFounderRelationshipMaintenance]] - prevention-oriented co-founder case added by the Gusto episode.

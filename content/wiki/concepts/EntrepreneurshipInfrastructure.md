@@ -2,8 +2,8 @@
 title: "Entrepreneurship Infrastructure"
 type: concept
 tags: [startup, platform, saas, ecommerce]
-sources: [shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, socialradarss2-stripe-v2]
-last_updated: 2026-07-11
+sources: [tsr-s4-gusto-v3-tsr-s4-gusto-v3, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, socialradarss2-stripe-v2]
+last_updated: 2026-07-23
 ---
 
 # Entrepreneurship Infrastructure
@@ -14,6 +14,8 @@ The concept differs from ordinary SaaS feature building because the product's jo
 
 [[socialradarss2-stripe-v2]] adds the payments layer through [[Stripe]]. [[PatrickCollison]] and [[JohnCollison]] saw that web builders could create software but still struggle to collect money, while [[AppStore]] monetization felt far easier. [[DeveloperFirstPaymentInfrastructure]] turns payment acceptance into entrepreneurship infrastructure because a developer can add monetization without first becoming an expert in merchant accounts and bank integrations.
 
+[[tsr-s4-gusto-v3-tsr-s4-gusto-v3]] adds the employment and compliance layer through [[Gusto]]. [[JoshReeves]] frames the company's future as helping people start and run companies by handling payroll, benefits, time tracking, tax credits, international hiring, and other government complexity that would otherwise distract founders and small-business owners from their core work.
+
 ## Key Claims
 - Infrastructure products can create new businesses by reducing setup friction that would otherwise stop non-technical founders.
 - The first sale is a useful north-star event because it turns abstract setup work into proof that a real customer can buy.
@@ -22,6 +24,7 @@ The concept differs from ordinary SaaS feature building because the product's jo
 - The same infrastructure can become more valuable during shocks when displaced people try businesses they had previously postponed.
 - Entrepreneurship infrastructure still needs [[ProductLedWillingnessToPay]]: lowering barriers is valuable only if merchants understand and pay for the value.
 - Payment acceptance can be entrepreneurship infrastructure when it shortens the path from software idea to paid product.
+- Payroll and benefits infrastructure can lower the operating burden of hiring by turning tax, payment, compliance, and employee-data obligations into usable workflows.
 
 ## Connections
 - [[Shopify]] - central platform case.
@@ -30,3 +33,4 @@ The concept differs from ordinary SaaS feature building because the product's jo
 - [[CustomerPull]], [[DistributionLedProductBuilding]], and [[SaaSTrustMoat]] - demand, growth, and trust requirements for the platform.
 - [[StartupGovernance]] and [[FinancialGravity]] - capital and company-shape pressures once infrastructure becomes venture scale.
 - [[Stripe]], [[PatrickCollison]], [[JohnCollison]], and [[DeveloperFirstPaymentInfrastructure]] - payment acceptance layer added by the Collison episode.
+- [[Gusto]], [[JoshReeves]], [[PayrollInfrastructureTrust]], and [[RegulatedWorkflowWedge]] - employment-compliance layer added by the Gusto episode.
