@@ -2,11 +2,13 @@
 title: "北明 / 北民"
 type: entity
 tags: [host, podcast, books]
-sources: [99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080, 168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 42-anduo-fengqi-yu-qingping-zhi-mo-616391638, jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308]
-last_updated: 2026-07-18
+sources: [99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080, 168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 42-anduo-fengqi-yu-qingping-zhi-mo-616391638, jiaqi-moyu-geng-jiankang-574391976, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308, 02-lihun-guodegang-dou-buru-laoshe-youyisi-525913046]
+last_updated: 2026-07-23
 ---
 
 # 北明 / 北民
+
+[[02-lihun-guodegang-dou-buru-laoshe-youyisi-525913046]] adds 北明's role in the show's reading of [[LaoShe|老舍]]'s [[LihunNovel|《离婚》]]. In the source, he helps emphasize the novel's short-sentence rhythm and later argues that [[DingErLihun|丁二]] is closer to a true action figure than [[LaoLiLihun|老李]], who mainly completes a limited but costly escape.
 
 [[99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220]] adds 北明's co-host role in the show's Japanese mystery branch. The source has him help position [[MukashiMukashiAruTokoroNiShitaiGaArimashita|《很久很久以前，在某个地方有一具尸体》]] as [[SettingBasedMystery|设定系推理]] rather than realist social-school mystery, and as a playful case where [[FolkTaleMysteryRewriting|民间故事推理改写]] turns familiar Japanese tales into [[HonkakuMystery|本格推理]] machinery.
 
@@ -40,6 +42,7 @@ In episode 60, his role is part of the show's literary-biographical mode. The co
 
 ## Connections
 - [[MihuanChishu|蜜獾吃书]] - show context.
+- [[02-lihun-guodegang-dou-buru-laoshe-youyisi-525913046]], [[LihunNovel|《离婚》]], [[DingErLihun]], and [[OrdinaryEscapeCourage]] - Lao She episode and action-versus-escape reading.
 - [[kaitianchuang-zhi-lu-jian-tuijian-ji-ben-shu-726703080]] - short source that mentions his Sagan translation work as a program-status update.
 - [[168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535]], [[FangxuehouDeXiaoxiang|《放学后的小巷》]], and [[DailyLifeMystery|日常推理]] - Chinese daily-life mystery and adolescent memory branch.
 - [[TheGreenPlanet|《绿色星球》]], [[RogerZelazny|罗杰·泽拉兹尼]], and [[LordOfLight|《光明王》]] - holiday-preview topics connected to his translation work.

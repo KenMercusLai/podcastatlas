@@ -3888,6 +3888,10 @@ Added source page for the Marketplace Tech episode with Eric Goldman on a Los An
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic checks scanned 5,083 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` and found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM. Report returned in-session; `wiki/lint-report.md` was not saved.
 
+## [2026-07-23] ingest | 02.离婚：郭德纲都不如老舍有意思
+
+Added source page for the 蜜獾吃书 episode on 老舍《离婚》, Lao She's controlled humor, Beiping office life, arranged marriage and romantic projection, 张大哥's suffocating decency, 小赵's opportunistic harm, 丁二's decisive action, and 老李's limited escape. Created pages for 《离婚》, 老李, 李太太, 张大哥, 小赵, 丁二, 马少奶奶, Controlled Humor With Pain, Crosstalk Literary Rhythm, Decent Life As Control, Beiping Office World, Romantic Projection Trap, and Ordinary Escape Courage; updated overview, index, 蜜獾吃书, 老舍, 北明 / 北民, Lao She Satirical Humanism, Classic Reading Complexity, Non-Instrumental Literary Reading, Renqing Order, and Workplace Hidden Rules. No direct contradiction found; the source extends the existing Lao She branch from short-story satire into a full-novel reading where comedy, office relationships, marriage pressure, and ordinary agency remain source-scoped.
+
 ## [2026-07-23] ingest | E230｜1万亿收入预期背后：英伟达的巅峰与软肋
 
 Added source page for the 硅谷101 episode on Nvidia's GTC $1 trillion Blackwell/Vera Rubin order narrative, inference as recurring cash flow, token-per-watt, HBM and advanced packaging constraints, TPU/Groq pressure, NeMo Cloud/Open Cloud, GPU cloud operations, neoclouds, and data-center land/power limits. Created pages for Zhang Lu, Xiao Zhibin, Mark Ren, Alex (GMI Cloud), GMI Cloud, Nvidia Blackwell Platform, Nvidia Vera Rubin Platform, NeMo Cloud, Groq, Inference as Cash Flow, Token per Watt, AI Infrastructure Full-Stack Moat, Low-Latency Inference Chip, Inference Chip Startup Narrowing, GPU Cloud Operations, Neo Cloud, Data Center Power Bottleneck, and Agent as a Service; updated overview, index, Silicon Valley 101, Nvidia, Jensen Huang, GPU, TPU, TSMC, Intel, Samsung, Open Cloud, Semiconductor Supply Chain, AI Inference Cost Structure, MaaS Infrastructure, AI Hardware Supply Chain Pressure, Advanced Packaging, High Bandwidth Memory, Strategic AI Infrastructure Dependence, AI Chip Specialization, Data Center Thermal Management, AI Compute Continuity, and AI Native SaaS Threat. No direct contradiction found; the source extends the AI infrastructure branch from chip supply and memory into order-delivery execution across software, data centers, power, and GPU-cloud operations.
@@ -3963,6 +3967,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-23] ingest | 01.麦田守望者：20世纪的美国贾宝玉
 
 Added source page for the 蜜獾吃书 episode on 《麦田里的守望者》, J. D. Salinger, Holden Caulfield as a 20th-century American 贾宝玉, adolescent alienation, Salinger biography, Chinese translation, and later media/youth-culture afterlives. Created pages for J. D. Salinger, 《麦田里的守望者》, Holden Caulfield, Phoebe Caulfield, Oona O'Neill, Ernest Hemingway, Sun Zhongxu, Ghost in the Shell: Stand Alone Complex, Laughing Man, Watchmen, Rorschach, American Jia Baoyu Comparison, Adolescent Alienation Recognition, and Literary Subculture Symbolization; updated overview, index, 蜜獾吃书, 《红楼梦》, 贾宝玉, Charlie Chaplin, Classic Reading Complexity, Reading As Life Experience, Non-Instrumental Literary Reading, Literary Gossip As Context, Author Myth Deflation, and Antihero Misreading. No direct contradiction found; the source extends the Red Chamber and reading-complexity branches while keeping Salinger/Oona/Chaplin biography source-scoped.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-23] lint | Wiki health check
 

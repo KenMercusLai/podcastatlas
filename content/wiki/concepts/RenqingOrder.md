@@ -2,8 +2,8 @@
 title: "Renqing Order"
 type: concept
 tags: [workplace, organization, social-order, satire, china]
-sources: [48-kaishi-daji-diyiliu-de-youmo-fengci-627375908]
-last_updated: 2026-07-12
+sources: [48-kaishi-daji-diyiliu-de-youmo-fengci-627375908, 02-lihun-guodegang-dou-buru-laoshe-youyisi-525913046]
+last_updated: 2026-07-23
 ---
 
 # Renqing Order
@@ -12,11 +12,14 @@ Renqing order is the informal system of favors, comfort, reciprocal tolerance, a
 
 The source contrasts this order with You Daxing's professional reform. Professional management can produce better outcomes, but if it removes everyone's informal benefits at once, the surrounding system may unite against the reformer and later reassign credit for the gains.
 
+[[02-lihun-guodegang-dou-buru-laoshe-youyisi-525913046]] adds a marriage-and-office version through [[LihunNovel|《离婚》]]. [[ZhangDageLihun|张大哥]]'s "会办事" helps people, smooths crises, and preserves face, but it also turns [[LaoLiLihun|老李]]'s wish for another life into something socially illegible. The source therefore links renqing order to [[DecentLifeAsControl]] as well as workplace maintenance.
+
 ## Key Claims
 - Informal favors can stabilize a failing system by distributing small benefits and reducing visible conflict.
 - Relationship competence is real skill, but it can also become a mechanism for hiding weak outcomes.
 - Formal performance improvement may fail politically if it ignores the informal benefits people are already receiving.
 - The episode treats "会办事" as morally ambiguous: it can mean care, emotional intelligence, opportunism, self-erasure, or corruption depending on incentives and boundaries.
+- A relationship order can become suffocating even when its operator is not personally malicious.
 
 ## Connections
 - [[BuChengWenTiDeWenTi|《不成问题的问题》]] - source story case.
@@ -24,3 +27,4 @@ The source contrasts this order with You Daxing's professional reform. Professio
 - [[WorkplaceHiddenRules]] - existing workplace branch extended by the story.
 - [[WorkplaceRelationshipBoundaries]], [[WorkplacePacing]], and [[UpwardManagement]] - adjacent workplace concepts.
 - [[RelationshipLedSales]] and [[TrustAsBusinessAsset]] - neighboring concepts where relationship trust can be productive rather than merely extractive.
+- [[LihunNovel|《离婚》]], [[ZhangDageLihun]], [[DecentLifeAsControl]], and [[BeipingOfficeWorld]] - episode 02's marriage-and-office extension.

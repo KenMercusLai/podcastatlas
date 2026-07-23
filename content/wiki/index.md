@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [02.离婚：郭德纲都不如老舍有意思](sources/02-lihun-guodegang-dou-buru-laoshe-youyisi-525913046.md) — 蜜獾吃书 episode rereading 老舍《离婚》 through controlled humor, Beiping office life, marriage suffocation, 张大哥式体面秩序, 丁二的行动, and ordinary escape courage.
 - [01.麦田守望者：20世纪的美国贾宝玉](sources/01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422.md) — 蜜獾吃书 episode rereading 《麦田里的守望者》 through Holden as a 20th-century American Jia Baoyu, Salinger biography, adolescent alienation, and later youth-culture/media afterlives.
 - [E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI](sources/e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923.md) — 硅谷101 episode with Creo's Peter, Chen Kai, and Clark on Harness Engineering, AI-first organization design, agent-driven development, verification, go-to-market bottlenecks, and moving from trusting people to governed trust in AI.
 - [E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？](sources/e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4.md) — 硅谷101 episode with Alfred Lin, Kelento Hou, and Jack Rao on AI-written homework, personalized AI tutoring, degree-as-trust credentials, university assessment reform, AI dependence, and career preparation when AI is the default environment.
@@ -1437,7 +1438,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Patreon](entities/Patreon.md) — Creator-platform counterpoint to Gumroad where sales, story, audience fit, and supporter models matter alongside software.
 - [Internal Revenue Service](entities/InternalRevenueService.md) — U.S. tax agency used in the episode to frame public-service digitalization and government service constraints.
 - [Department of Government Efficiency](entities/DepartmentOfGovernmentEfficiency.md) — Government-efficiency context in the Sahil Lavingia interview, linked to IRS public-service software work.
-- [老舍 / Lao She](entities/LaoShe.md) — Chinese writer presented by 蜜獾吃书 as a humane satirist of etiquette failure, medical scams, family power, workplace renqing, and self-deception.
+- [老舍 / Lao She](entities/LaoShe.md) — Chinese writer presented by 蜜獾吃书 as a humane satirist of etiquette failure, medical scams, family power, workplace renqing, controlled humor, and ordinary-life suffocation.
+- [《离婚》 / Divorce](entities/LihunNovel.md) — Lao She novel read by 蜜獾吃书 as a comic but claustrophobic Beiping office-and-marriage world.
+- [老李（《离婚》） / Lao Li](entities/LaoLiLihun.md) — Half-awake intellectual in 《离婚》 whose disgust, fantasy, failure, and final departure ground the episode's ordinary-escape question.
+- [李太太（《离婚》） / Mrs. Li](entities/LiTaitaiLihun.md) — Lao Li's wife, whose countryside-to-Beiping adjustment and illness care complicate the novel's divorce fantasy.
+- [张大哥（《离婚》） / Zhang Dage](entities/ZhangDageLihun.md) — Socially competent "big brother" figure whose helpful decency becomes a suffocating normal-life order.
+- [小赵（《离婚》） / Xiao Zhao](entities/XiaoZhaoLihun.md) — Malicious office opportunist who uses humiliation, sexual brokerage, and access to power inside the novel's finance-office world.
+- [丁二（《离婚》） / Ding Er](entities/DingErLihun.md) — Dismissed hanger-on whose violent action against Xiao Zhao reverses the novel's hierarchy of usefulness and courage.
+- [马少奶奶（《离婚》） / Ma Shaonainai](entities/MaShaonainaiLihun.md) — Young neighbor who becomes Lao Li's poetic projection before the imagined alternative life collapses.
 - [《开市大吉》](entities/KaiShiDaJi.md) — Lao She short-story selection and title story used to discuss public-interest rhetoric, fake hospital authority, status display, and medical scam packaging.
 - [《话剧观众须知二十则》](entities/HuajuGuanzhongXuzhiErshize.md) — Lao She piece used by the episode to connect theater manners with civic audience etiquette.
 - [《有声电影》](entities/YouShengDianYing.md) — Lao She story used as a comic case of experience being displaced by theory, logistics, and distracted audience behavior.
@@ -3893,6 +3901,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Public Service Digitalization](concepts/PublicServiceDigitalization.md) — Government-software problem of replacing forms, queues, phone calls, and mail with accountable public services.
 - [Customer Support Automation](concepts/CustomerSupportAutomation.md) — AI-first support pattern with human escalation for complex, trust-sensitive, or policy-heavy cases.
 - [Lao She Satirical Humanism](concepts/LaoSheSatiricalHumanism.md) — Reading of Lao She's humor as comic social criticism that still preserves sympathy for limited, pressured, self-deceiving people.
+- [Controlled Humor With Pain](concepts/ControlledHumorWithPain.md) — Reading frame where Lao She's jokes in 《离婚》 are restrained so laughter deepens the pressure rather than releasing it.
+- [Crosstalk Literary Rhythm](concepts/CrosstalkLiteraryRhythm.md) — Prose-craft frame linking Lao She's vernacular sentence movement and comic timing to Beijing speech and xiangsheng context.
+- [Decent Life As Control](concepts/DecentLifeAsControl.md) — Pattern where helpful, competent, respectable social order becomes coercive by making refusal look illegible or ungrateful.
+- [Beiping Office World](concepts/BeipingOfficeWorld.md) — Literary office ecology in 《离婚》 where promotion, favors, superstition, dinners, housing, and family rescue interlock.
+- [Romantic Projection Trap](concepts/RomanticProjectionTrap.md) — Pattern where desire for another life borrows another person as a symbol before the self has acted.
+- [Ordinary Escape Courage](concepts/OrdinaryEscapeCourage.md) — Ambiguous agency frame where leaving a secure but spiritually cramped system is not heroic victory but still a costly real action.
 - [Civic Audience Etiquette](concepts/CivicAudienceEtiquette.md) — Shared-setting discipline around theater, film, concerts, and public cultural spaces where conduct must fit the tacit social contract.
 - [Medical Scam Packaging](concepts/MedicalScamPackaging.md) — Pattern where medical authority is staged through slogans, status signals, emotional service, and advertising rather than real care quality.
 - [Birth Ritual Medical Conflict](concepts/BirthRitualMedicalConflict.md) — Family and childbirth pattern where ritual, grandson preference, face, and medical mistrust can override patient welfare and clinical judgment.
