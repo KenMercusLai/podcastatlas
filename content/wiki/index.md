@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？](sources/e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4.md) — 硅谷101 episode with Alfred Lin, Kelento Hou, and Jack Rao on AI-written homework, personalized AI tutoring, degree-as-trust credentials, university assessment reform, AI dependence, and career preparation when AI is the default environment.
 - [E235｜20年内CAR-T治愈癌症？与刘诚博士聊聊癌症治疗的底层哲学](sources/e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534.md) — 硅谷101 episode with Liu Cheng on CAR-T, in vivo versus ex vivo manufacturing, solid-tumor barriers, cytokine-release safety, China cell-therapy regulation, and cancer as an immune-recognition problem.
 - [E234｜未来实拍电影还存在吗？与导演陆川聊聊AI给影视人的恐惧与自由](sources/e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5.md) — 硅谷101 episode with Lu Chuan, Huang Ying, and KESA on AI video, film-grade workflows, dubbing, voice cloning rights, and why live-action film must justify itself through irreproducible human moments.
 - [E233｜硅谷右翼的权力网如何形成？聊聊彼得·蒂尔的思想启蒙拼图](sources/e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d.md) — 硅谷101 episode on Peter Thiel, Stanford Review, Girard/Schmitt/Strauss, Palantir, right-wing media, J.D. Vance, and Silicon Valley's technology-right power network.
@@ -489,6 +490,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Alfred 林童雨](entities/AlfredLinTongyu.md) — Tsinghua law-background guest in E236 who used AI as tutor, coding collaborator, and route from legal career risk into agent engineering.
+- [Kelento 侯泰宇](entities/KelentoHouTaiyu.md) — NYU applied-psychology graduate and entrepreneur in E236, arguing for degrees as trust credentials, AI-mediated top-down learning, and judgment as a meta-skill.
+- [Jack 饶街五](entities/JackRaoJiewu.md) — NYU data science and Columbia graduate student in E236 whose 99%-AI schoolwork workflow makes verification and course understanding the new student boundary.
+- [Tsinghua University / 清华大学](entities/TsinghuaUniversity.md) — Alfred's university context in E236, used to discuss peers, teacher access, AI policy unevenness, and university value after AI.
 - [刘诚](entities/LiuCheng.md) — Eureka Therapeutics founder and CEO in E235, explaining CAR-T as immune-cell reprogramming and cancer treatment as a self-cell recognition problem.
 - [Eureka Therapeutics](entities/EurekaTherapeutics.md) — Liu Cheng's CAR-T biotech company, used in E235 to ground the late-stage solid-tumor and liver-cancer CAR-T discussion.
 - [Legend Biotech / 南京传奇](entities/LegendBiotech.md) — Chinese CAR-T commercialization case in E235, tied to a Johnson & Johnson multiple-myeloma product moving earlier in treatment lines.
@@ -1910,7 +1915,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Daria Georgievich](entities/DariaGeorgievich.md) — Psychiatrist explaining why consumer chatbots are unsafe mental-health supports for teens, especially in longer conversations.
 - [Stanford University](entities/StanfordUniversity.md) — University context for Google research/sourcing, DoorDash, Garry Tan, Noora Health, Modern Treasury, and teen chatbot safety.
 - [Common Sense Media](entities/CommonSenseMedia.md) — Co-cited report source anchoring the child- and teen-safety side of the chatbot mental-health discussion.
-- [Columbia University](entities/ColumbiaUniversity.md) — Institutional affiliation for Daria Georgievich in the Marketplace Tech episode.
+- [Columbia University](entities/ColumbiaUniversity.md) — Institutional context for Daria Georgievich's teen-chatbot-risk expertise and for Jack Rao's graduate study in E236.
 - [Kiyosumi-Shirakawa / 清澄白河](entities/KiyosumiShirakawa.md) — Tokyo neighborhood used to explain authentic, low-pressure coffee and street experience through Blue Bottle's Asia first store.
 - [Sanrio / 三丽鸥](entities/Sanrio.md) — Japanese image-first IP company used as Pop Mart's licensing-led comparison case.
 - [Hello Kitty](entities/HelloKitty.md) — Sanrio character illustrating durable image-led IP, healing emotion, and compact consumer happiness.
@@ -2557,7 +2562,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Samuel Beckett](entities/SamuelBeckett.md) — Writer whose work Beauchard backed before broader market recognition.
 - [Elie Wiesel](entities/ElieWiesel.md) — Writer whose Holocaust memoir Night Beauchard championed through early rejection.
 - [Alphabet](entities/Alphabet.md) — Hyperscaler in the episode's $660bn AI capex cluster alongside Amazon, Meta, and Microsoft.
-- [硅谷101](entities/SiliconValley101.md) — Podcast/show context for restaurant globalization, B2B agents, Nvidia infrastructure, power batteries, football finance, running shoes, robotics, FDE work, and enterprise agents.
+- [硅谷101](entities/SiliconValley101.md) — Podcast/show context for AI-era higher education, CAR-T, AI film, Silicon Valley politics, restaurant globalization, B2B agents, Nvidia infrastructure, robotics, and enterprise agents.
 - [Apodex](entities/Apodex.md) — Chen Tianqiao-backed AI company in the source focused on Heavy Duty Solver and Discovery Model work rather than consumer generation products.
 - [Chen Tianqiao](entities/ChenTianqiao.md) — Strategic figure behind Apodex, described as shaping company direction and model constitution around truthfulness and hard-problem solving.
 - [Du Shaolei](entities/DuShaolei.md) — Apodex chief scientist for training and inference, discussing Deep Research, long-horizon reasoning, verification, and research taste.
@@ -2604,7 +2609,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fei-Fei Li](entities/FeiFeiLi.md) — AI researcher whose ImageNet problem-definition work is treated by Xie as a model for field-shaping research.
 - [Kaiming He](entities/KaimingHe.md) — AI researcher whose FAIR collaboration with Xie anchors the source's lessons on ResNeXt, self-supervision, strong baselines, and research taste.
 - [FAIR](entities/FAIR.md) — Meta research-lab context where Xie worked on representation learning, ResNeXt, self-supervision, and diffusion-transformer research.
-- [NYU](entities/NYU.md) — University context for Xie's world-model work and for the Center on Technology Policy source on AI data-center electricity regulation.
+- [NYU](entities/NYU.md) — University context for Xie's world-model work, AI data-center policy, and E236's AI-native student learning and credential discussion.
 - [UCSD](entities/UCSD.md) — University context for Xie's PhD path and Huang Biwei's earlier institutional background.
 - [ImageNet](entities/ImageNet.md) — Computer-vision dataset and benchmark used as the source's example of problem definition enabling scalable progress.
 - [Seedance](entities/Seedance.md) — ByteDance video model discussed as evidence that AI video is moving from mockups toward production-like media.
@@ -3158,6 +3163,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Default Learning Environment](concepts/AIDefaultLearningEnvironment.md) — E236 frame where students treat AI as ordinary infrastructure for learning, work, coding, and assignments rather than as an exceptional aid.
+- [Degree As Trust Credential](concepts/DegreeAsTrustCredential.md) — E236 claim that degrees can remain social trust and evaluation signals even when AI weakens routine knowledge-proof value.
+- [AI University Assessment Reform](concepts/AIUniversityAssessmentReform.md) — E236 assessment shift from policing whether AI appeared to testing process, judgment, verification, and AI-enabled problem solving.
 - [CAR-T Cell Therapy](concepts/CARTCellTherapy.md) — E235 concept for engineering T cells to recognize cancer antigens and attack cancer cells as a live-cell immune therapy.
 - [Cancer Immune Recognition Problem](concepts/CancerImmuneRecognitionProblem.md) — E235 oncology frame that cancer is hard because malignant cells are self cells, so therapy must distinguish cancer from normal tissue.
 - [Ex Vivo CAR-T Manufacturing](concepts/ExVivoCARTManufacturing.md) — Traditional patient-specific CAR-T route involving cell extraction, external engineering, expansion, quality control, logistics, and reinfusion.

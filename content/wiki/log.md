@@ -3934,3 +3934,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-23] ingest | E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？
+
+Added source page for the 硅谷101 episode with Alfred 林童雨, Kelento 侯泰宇, and Jack 饶街五 on AI-native university life, 99%-AI-assisted schoolwork, personalized AI tutoring, degree-as-trust credentials, AI-era assessment reform, AI dependence, and career preparation when AI is the default environment. Created pages for Alfred 林童雨, Kelento 侯泰宇, Jack 饶街五, Tsinghua University, AI Default Learning Environment, Degree As Trust Credential, and AI University Assessment Reform; updated overview, index, Silicon Valley 101, NYU, Columbia University, AI As Tutor, AI Shortcut Risk, College Career Preparation, University Opportunity Density, AI Use Pacing, and Human Judgment Under AI. No direct contradiction found; the source qualifies first-draft and AI-tutor pages by showing that AI-native students may no longer accept AI-free work as the baseline, while still needing verification, judgment, and protected foundational practice.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

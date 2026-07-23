@@ -727,6 +727,10 @@
     "title": "AI Data Memory Infrastructure",
     "url": "/wiki/concepts/aidatamemoryinfrastructure/"
   },
+  "AIDefaultLearningEnvironment": {
+    "title": "AI Default Learning Environment",
+    "url": "/wiki/concepts/aidefaultlearningenvironment/"
+  },
   "AIDetectorBias": {
     "title": "AI Detector Bias",
     "url": "/wiki/concepts/aidetectorbias/"
@@ -1050,6 +1054,10 @@
   "AITranslation": {
     "title": "AI Translation",
     "url": "/wiki/concepts/aitranslation/"
+  },
+  "AIUniversityAssessmentReform": {
+    "title": "AI University Assessment Reform",
+    "url": "/wiki/concepts/aiuniversityassessmentreform/"
   },
   "AIUsePacing": {
     "title": "AI Use Pacing",
@@ -1626,6 +1634,10 @@
   "AlfredHitchcock": {
     "title": "Alfred Hitchcock / 希区柯克",
     "url": "/wiki/entities/alfredhitchcock/"
+  },
+  "AlfredLinTongyu": {
+    "title": "Alfred 林童雨",
+    "url": "/wiki/entities/alfredlintongyu/"
   },
   "AlgorithmicLabeling": {
     "title": "Algorithmic Labeling",
@@ -5066,6 +5078,10 @@
   "DeglobalizationTradeIntermediation": {
     "title": "Deglobalization Trade Intermediation",
     "url": "/wiki/concepts/deglobalizationtradeintermediation/"
+  },
+  "DegreeAsTrustCredential": {
+    "title": "Degree As Trust Credential",
+    "url": "/wiki/concepts/degreeastrustcredential/"
   },
   "DelcyRodriguez": {
     "title": "Delcy Rodriguez",
@@ -9123,6 +9139,10 @@
     "title": "Jack London / 杰克·伦敦",
     "url": "/wiki/entities/jacklondon/"
   },
+  "JackRaoJiewu": {
+    "title": "Jack 饶街五",
+    "url": "/wiki/entities/jackraojiewu/"
+  },
   "JackTheRipper": {
     "title": "Jack the Ripper",
     "url": "/wiki/entities/jacktheripper/"
@@ -9818,6 +9838,10 @@
   "Kejian": {
     "title": "Kejian",
     "url": "/wiki/entities/kejian/"
+  },
+  "KelentoHouTaiyu": {
+    "title": "Kelento 侯泰宇",
+    "url": "/wiki/entities/kelentohoutaiyu/"
   },
   "KellyCriterion": {
     "title": "Kelly Criterion",
@@ -17495,6 +17519,10 @@
     "title": "Tsathoggua / 萨托古雅",
     "url": "/wiki/entities/tsathoggua/"
   },
+  "TsinghuaUniversity": {
+    "title": "Tsinghua University / 清华大学",
+    "url": "/wiki/entities/tsinghuauniversity/"
+  },
   "Tucows": {
     "title": "Tucows",
     "url": "/wiki/entities/tucows/"
@@ -19594,6 +19622,10 @@
   "e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534": {
     "title": "E235｜20年内CAR-T治愈癌症？与刘诚博士聊聊癌症治疗的底层哲学",
     "url": "/wiki/sources/e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534/"
+  },
+  "e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4": {
+    "title": "E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？",
+    "url": "/wiki/sources/e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4/"
   },
   "e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde": {
     "title": "E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE",

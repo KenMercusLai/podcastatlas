@@ -2,8 +2,8 @@
 title: "College Career Preparation"
 type: concept
 tags: [education, career, work]
-sources: [tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
-last_updated: 2026-07-14
+sources: [e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1, tech-20260217-0217-mp-tech-pod-128-tech-20260217-0217-mp-tech-pod-128, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
+last_updated: 2026-07-23
 ---
 
 # College Career Preparation
@@ -20,6 +20,8 @@ College career preparation is the episode's goal-dependent way to allocate under
 
 [[tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128]] adds a learning-habit risk before students reach the workforce. [[HeatherSchwartz]] of [[RAND]] argues that if AI removes too much cognitive friction from homework, students may enter jobs with weaker independent reasoning, interpretation, and analysis. [[FirstDraftThinking]] becomes career preparation because later judgment depends on practice doing the first synthesis oneself.
 
+[[e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4]] adds the AI-native student labor-market version. [[KelentoHouTaiyu|Kelento 侯泰宇]] says people are more likely to be replaced by people who use AI better than by AI alone; [[JackRaoJiewu|Jack 饶街五]] finds employers' "AI talent" criteria vague; [[AlfredLinTongyu|Alfred 林童雨]] sees junior legal and some software-entry paths under pressure. Preparation therefore includes AI workflow skill, project evidence, domain grounding, and the ability to own AI-assisted output.
+
 ## Key Claims
 
 - GPA remains important for graduate school and baoyan, but it is not the only meaningful undergraduate signal.
@@ -34,6 +36,9 @@ College career preparation is the episode's goal-dependent way to allocate under
 - AI can support college and career-path comparison before enrollment, but students still need to verify whether summarized offers, outcomes, and campus signals match their actual goals.
 - Students also need protected practice doing first drafts and first solutions because future work requires internalized reasoning, not only access to good explanations.
 - Career preparation becomes brittle when every activity is chosen for resume value and no space remains for discovery, risk, rest, or non-instrumental learning.
+- AI-native students need evidence that they can use tools to solve real problems, not only say they are "good at AI."
+- Entry-level work may shrink or change when AI handles junior drafting, coding, and search tasks, making projects, internships, and verification ability more important signals.
+- Trust, communication, and deep peer/teacher relationships become career assets when generated work makes generic output cheaper.
 
 ## Connections
 
@@ -47,3 +52,4 @@ College career preparation is the episode's goal-dependent way to allocate under
 - [[AICollegeSearch]], [[HigherEducationAIDiscoverability]], and [[AIRankingReinforcement]] — AI-mediated college-choice and offer-comparison layer added by Marketplace Tech.
 - [[FirstDraftThinking]], [[AIShortcutRisk]], [[HeatherSchwartz]], and [[RAND]] - homework-to-workforce reasoning branch added by Marketplace Tech.
 - [[RedPenLogic]], [[AchievementPressureMentalHealth]], and [[AntiAuthoritarianEducation]] - episode 160's boundary against turning preparation into total self-surveillance.
+- [[AIDefaultLearningEnvironment]], [[AIUniversityAssessmentReform]], and [[DegreeAsTrustCredential]] - E236's AI-native university and credential branch.
