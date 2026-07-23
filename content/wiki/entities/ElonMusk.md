@@ -2,11 +2,13 @@
 title: "Elon Musk"
 type: entity
 tags: [person, founder, spacex, tesla]
-sources: [e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]
-last_updated: 2026-07-23
+sources: [sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658]
+last_updated: 2026-07-24
 ---
 
 # Elon Musk
+
+[[sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978]] adds Musk as a Silicon Valley actor inside [[MAGACoalitionFracture]]. [[LinYao|林垚]] uses the H-1B dispute to show that Musk-style technology employers and grassroots [[MAGA]] restrictionists can have incompatible immigration interests even while sharing a broader Trump-era political camp.
 
 Elon Musk appears in [[145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]] as the leadership and operating-system center of [[SpaceX]]. [[LouisHong]] describes him as unusually demanding, first-principles-driven, and focused on the hardest unsolved problems rather than ceremonial management.
 
@@ -32,3 +34,4 @@ The source emphasizes Musk's use of extreme targets. In the episode, 10% or 30% 
 - [[Substack]], [[ChrisBest]], [[Twitter]], and [[SubstackNotes]] - creator-platform conflict account added by the Chris Best YC offsite episode.
 - [[StrategicAIInfrastructureDependence]] - AI infrastructure and fundraising frame added by the Marketplace Tech episode.
 - [[PeterThiel]], [[PayPal]], [[ReneGirard]], and [[MimeticCompetitionAvoidance]] - early payments-rivalry interpretation added by Silicon Valley 101.
+- [[MAGA]], [[DonaldTrump]], [[RepublicanParty]], and [[ImmigrationBacklashCycle]] - H-1B coalition-fracture context added by sp.05.

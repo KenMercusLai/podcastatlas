@@ -2,11 +2,13 @@
 title: "Immigration Backlash Cycle"
 type: concept
 tags: [immigration, politics, history]
-sources: [keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
-last_updated: 2026-07-14
+sources: [sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]
+last_updated: 2026-07-24
 ---
 
 # Immigration Backlash Cycle
+
+[[sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978]] adds an intra-coalition version through H-1B politics. The source shows that [[MAGA]] backlash can target even legal high-skill immigration, while [[ElonMusk]] and technology employers defend access to foreign technical labor, producing [[MAGACoalitionFracture]] rather than a single restrictionist line.
 
 Immigration backlash cycle is the recurring American pattern in which openness to newcomers is followed by fear, restriction, exclusion, and eventual reopening. [[the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad]] traces this cycle from founding-era arguments over immigration through Irish, Chinese, southern European, eastern European, Latin American, and refugee migration.
 
@@ -23,6 +25,7 @@ The episode treats the cycle as a reason for cautious optimism and a warning. Ea
 - A broken legislative system can keep policy capricious even if public sentiment later becomes more welcoming.
 - Outside the U.S., immigration backlash can also form when formal control increases but visible migration outcomes do not match voter expectations.
 - Restriction can coexist with selective openness to high-skill or high-value migrants, especially when immigration policy is tied to industrial policy and inflation claims.
+- The sequel shows that selective openness itself can divide a movement when employers and grassroots voters attach different meanings to high-skill migrants.
 
 ## Connections
 - [[UnitedStates]] - country case.
@@ -31,3 +34,4 @@ The episode treats the cycle as a reason for cautious optimism and a warning. Ea
 - [[HistoricalMemoryContest]] - remembering earlier exclusions changes how current backlash is interpreted.
 - [[UnitedKingdom]], [[Brexit]], and [[PostBrexitImmigrationPolitics]] - British sovereignty-and-migration variant.
 - [[MeritBasedImmigrationFilter]], [[AmericaFirstPolicyInstitute]], and [[RepublicanParty]] - Trump 2.0 document variant added by Qizhulou Yan Binke.
+- [[MAGA]], [[ElonMusk]], and [[MAGACoalitionFracture]] - H-1B coalition split added by sp.05.

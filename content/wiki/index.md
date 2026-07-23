@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [sp.05 【刘擎x林垚】"枪杀医保巨头"案背后的思考（下）：分裂的美国会有宪政危机吗？](sources/sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978.md) — 蜜獾吃书 x 东腔西调 sequel on Trump 2024, MAGA coalition fractures, constitutional reform limits, identity politics, BLM, Gaza-campus speech disputes, and U.S. constitutional-crisis risk.
 - [sp.04 【刘擎x林垚】“枪杀医保巨头”案背后的思考(上)：关于民粹、私刑和死刑](sources/sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209.md) — 蜜獾吃书 x 东腔西调 episode using the UnitedHealthcare CEO killing to discuss U.S. health-insurance denial politics, federalism, populism, vigilante justice, terrorism, and the death penalty.
 - [127. 闲聊十二生肖之龙：神奇动物在哪里](sources/127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655.md) — 蜜獾吃书 episode on the zodiac dragon, early dragon layers, imperial dragon symbolism, the Qing dragon flag, Dragon translation, totemist nationalism, and the modern invention of "descendants of the dragon" identity.
 - [126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖](sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780.md) — 蜜獾吃书 episode on 王莽, 张向荣《祥瑞》, Western Han sacred legitimacy, Mandate of Heaven backfire, omen politics, Wang Mang's reforms, frontier moralism, Xin collapse, and Liu Xiu at Kunyang.
@@ -545,6 +546,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [MAGA / Make America Great Again](entities/MAGA.md) — Trump-aligned movement treated by sp.05 as a fragile coalition split by H-1B, technology capital, nationalism, and identity politics.
+- [Democratic Party](entities/DemocraticParty.md) — U.S. party treated by sp.05 as the more plausible health-reform channel but one facing delivery, messaging, and media-infrastructure problems.
+- [Theda Skocpol](entities/ThedaSkocpol.md) — Scholar cited by sp.05 for Tea Party welfare-attitude research and racialized beneficiary effects.
+- [Black Lives Matter](entities/BlackLivesMatter.md) — Movement discussed by sp.05 through Pew polling, police-reform limits, party sorting, and long-horizon movement effects.
+- [National Popular Vote Interstate Compact](entities/NationalPopularVoteInterstateCompact.md) — State-level Electoral College workaround used by sp.05 to distinguish partial reform from full constitutional repair.
 - [刘擎 / Liu Qing](entities/LiuQing.md) — Political-theory guest in the sp.04 crossover, framing the Luigi case through populism, terrorism, violence, and capital punishment.
 - [林垚 / Lin Yao](entities/LinYao.md) — Politics scholar whose U.S. medical-billing experience and legal analysis ground the sp.04 discussion of health insurance and punishment.
 - [东腔西调 / Dongqiang Xidiao](entities/DongqiangXidiao.md) — Crossover partner show for sp.04, bringing Liu Qing and Lin Yao into the 蜜獾吃书 discussion.
@@ -3632,6 +3638,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [U.S. Constitutional Crisis Risk](concepts/USConstitutionalCrisisRisk.md) — sp.05 frame for chronic U.S. institutional disorder under presidentialism, hard amendment rules, polarization, and uncertain post-Trump movement politics.
+- [U.S. Constitutional Reform Constraint](concepts/USConstitutionalReformConstraint.md) — sp.05 explanation of how Article V thresholds, slavery-era compromises, federalism, and presidentialism make structural reform hard.
+- [MAGA Coalition Fracture](concepts/MAGACoalitionFracture.md) — sp.05 concept for the split between grassroots nativism, Silicon Valley labor demand, Trump politics, and narrow Republican governing margins.
+- [Identity Politics As Political Sorting](concepts/IdentityPoliticsAsPoliticalSorting.md) — sp.05 account of how welfare, race, immigration, MAGA, BLM, media, and party identities sort political judgment.
+- [Institutional Speech Punishment](concepts/InstitutionalSpeechPunishment.md) — sp.05 distinction between ordinary harsh public criticism and procedure-bypassing punishment by public or quasi-public institutions.
 - [U.S. Health Insurance Denial Politics](concepts/USHealthInsuranceDenialPolitics.md) — Frame for how employer insurance, networks, billing fragmentation, denial opacity, and private insurer power produce public rage.
 - [U.S. Federalism Veto Points](concepts/USFederalismVetoPoints.md) — Institutional explanation for why U.S. health-care anger is hard to convert into nationwide reform.
 - [Vigilante Justice Universalization Risk](concepts/VigilanteJusticeUniversalizationRisk.md) — Risk that legitimating one private punishment licenses future actors with incompatible definitions of justice.

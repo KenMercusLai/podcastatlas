@@ -2,11 +2,13 @@
 title: "U.S. Health Insurance Denial Politics"
 type: concept
 tags: [healthcare, insurance, politics, united-states]
-sources: [sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209]
+sources: [sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209]
 last_updated: 2026-07-24
 ---
 
 # U.S. Health Insurance Denial Politics
+
+[[sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978]] adds the policy-window question. The sequel asks whether the [[UnitedHealthcare]] killing could redirect public attention toward reform, but [[LinYao|林垚]] argues that without a favorable [[DemocraticParty]] governing coalition and Senate procedure, public shock alone is unlikely to produce major health-care change.
 
 U.S. health insurance denial politics is the source's frame for why [[UnitedHealthcare]] became a target of public rage in [[sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209]]. The episode does not reduce the health-care problem to one bad company. It presents denial, billing fragmentation, employer-plan constraints, network rules, and opaque negotiation as a political economy that ordinary patients experience as coercive.
 
@@ -29,3 +31,4 @@ The source distinguishes system criticism from data certainty. It says online es
 - [[InsuranceClaimsInformationAsymmetry]] and [[InsuranceClaimsHandling]] - adjacent claims-process concepts from other insurance sources.
 - [[PrivateRegulatoryPower]] - broader frame for private institutions whose rules affect public welfare.
 - [[PoliticalDeliveryGap]] and [[PopulistDemocraticEnergy]] - political consequences when policy systems fail ordinary experience.
+- [[DemocraticParty]], [[IdentityPoliticsAsPoliticalSorting]], and [[USConstitutionalCrisisRisk]] - sequel connections around reform windows, welfare racialization, and institutional blockage.

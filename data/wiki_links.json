@@ -3203,6 +3203,10 @@
     "title": "BlackBerry",
     "url": "/wiki/entities/blackberry/"
   },
+  "BlackLivesMatter": {
+    "title": "Black Lives Matter",
+    "url": "/wiki/entities/blacklivesmatter/"
+  },
   "BlackRock": {
     "title": "BlackRock",
     "url": "/wiki/entities/blackrock/"
@@ -5874,6 +5878,10 @@
   "DemocracyInAmerica": {
     "title": "Democracy in America",
     "url": "/wiki/concepts/democracyinamerica/"
+  },
+  "DemocraticParty": {
+    "title": "Democratic Party",
+    "url": "/wiki/entities/democraticparty/"
   },
   "DemocraticRepublicOfCongo": {
     "title": "Democratic Republic of the Congo / 刚果民主共和国",
@@ -9887,6 +9895,10 @@
     "title": "Ida Lupino / 艾达·卢皮诺",
     "url": "/wiki/entities/idalupino/"
   },
+  "IdentityPoliticsAsPoliticalSorting": {
+    "title": "Identity Politics As Political Sorting",
+    "url": "/wiki/concepts/identitypoliticsaspoliticalsorting/"
+  },
   "IdentityPoliticsBook": {
     "title": "《身份政治》",
     "url": "/wiki/entities/identitypoliticsbook/"
@@ -10154,6 +10166,10 @@
   "InstitutionalSingleFamilyRental": {
     "title": "Institutional Single-Family Rental",
     "url": "/wiki/concepts/institutionalsinglefamilyrental/"
+  },
+  "InstitutionalSpeechPunishment": {
+    "title": "Institutional Speech Punishment",
+    "url": "/wiki/concepts/institutionalspeechpunishment/"
   },
   "InstitutionalizedSmallFreedom": {
     "title": "Institutionalized Small Freedom",
@@ -12595,6 +12611,14 @@
     "title": "Lyndon B. Johnson",
     "url": "/wiki/entities/lyndonbjohnson/"
   },
+  "MAGA": {
+    "title": "MAGA / Make America Great Again",
+    "url": "/wiki/entities/maga/"
+  },
+  "MAGACoalitionFracture": {
+    "title": "MAGA Coalition Fracture",
+    "url": "/wiki/concepts/magacoalitionfracture/"
+  },
   "MEDICUBE": {
     "title": "MEDICUBE",
     "url": "/wiki/entities/medicube/"
@@ -14054,6 +14078,10 @@
   "NationalInformaticsCentre": {
     "title": "National Informatics Centre",
     "url": "/wiki/entities/nationalinformaticscentre/"
+  },
+  "NationalPopularVoteInterstateCompact": {
+    "title": "National Popular Vote Interstate Compact",
+    "url": "/wiki/entities/nationalpopularvoteinterstatecompact/"
   },
   "NationalRally": {
     "title": "National Rally",
@@ -19643,6 +19671,10 @@
     "title": "The X-Files / X档案",
     "url": "/wiki/entities/thexfiles/"
   },
+  "ThedaSkocpol": {
+    "title": "Theda Skocpol",
+    "url": "/wiki/entities/thedaskocpol/"
+  },
   "ThemeParkAsMediaPlatform": {
     "title": "Theme Park As Media Platform",
     "url": "/wiki/concepts/themeparkasmediaplatform/"
@@ -20246,6 +20278,14 @@
   "UPI": {
     "title": "UPI",
     "url": "/wiki/entities/upi/"
+  },
+  "USConstitutionalCrisisRisk": {
+    "title": "U.S. Constitutional Crisis Risk",
+    "url": "/wiki/concepts/usconstitutionalcrisisrisk/"
+  },
+  "USConstitutionalReformConstraint": {
+    "title": "U.S. Constitutional Reform Constraint",
+    "url": "/wiki/concepts/usconstitutionalreformconstraint/"
   },
   "USD1": {
     "title": "USD1",
@@ -23066,6 +23106,10 @@
   "sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209": {
     "title": "sp.04 【刘擎x林垚】“枪杀医保巨头”案背后的思考(上)：关于民粹、私刑和死刑",
     "url": "/wiki/sources/sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209/"
+  },
+  "sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978": {
+    "title": "sp.05 【刘擎x林垚】\\\"枪杀医保巨头\\\"案背后的思考（下）：分裂的美国会有宪政危机吗？",
+    "url": "/wiki/sources/sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978/"
   },
   "starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1": {
     "title": "Starmergeddon: British PM resigns",

@@ -4206,7 +4206,7 @@ Added source page for a 蜜獾吃书 episode on 金庸 as culturally dense popul
 
 ## [2026-07-24] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran health and lint. Health passed across 5,954 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` or provider API key variables are configured in the shell. Report returned in-session; `wiki/lint-report.md` was not saved.
 
 ## [2026-07-24] ingest | 113.亨丽埃塔与那场将人类学送上审判席的谋杀案
 
@@ -4383,6 +4383,14 @@ Added source page for the 蜜獾吃书 zodiac-dragon episode on the contested or
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | sp.05 【刘擎x林垚】"枪杀医保巨头"案背后的思考（下）：分裂的美国会有宪政危机吗？
+
+Added source page for the second half of the 蜜獾吃书 x 东腔西调 crossover on the UnitedHealthcare CEO killing and U.S. political crisis. Created pages for MAGA, Democratic Party, Theda Skocpol, Black Lives Matter, National Popular Vote Interstate Compact, U.S. Constitutional Crisis Risk, U.S. Constitutional Reform Constraint, MAGA Coalition Fracture, Identity Politics As Political Sorting, and Institutional Speech Punishment; updated overview, index, 刘擎, 林垚, 东腔西调, 蜜獾吃书, United States, Donald Trump, Republican Party, Elon Musk, Pew Research Center, Washington Post, UnitedHealthcare, Affordable Care Act, United States Constitution, Supreme Court, American Democratic Resilience, U.S. Federalism Veto Points, Populist Democratic Energy, Political Delivery Gap, U.S. Health Insurance Denial Politics, Presidential System, Constitutional Robustness, Right-Wing Media Infrastructure, and Immigration Backlash Cycle. No direct contradiction found; the source qualifies the existing constitutional-robustness branch by stressing how amendment thresholds, presidentialism, coalition fracture, identity-sorted media, and weakened local experimentation can make institutional repair slow even without imminent civil war.
 
 ## [2026-07-24] lint | Wiki health check
 
