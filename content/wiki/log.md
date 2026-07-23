@@ -4204,6 +4204,10 @@ Ran lint. See lint-report.md for details.
 
 Added source page for a 蜜獾吃书 episode on 金庸 as culturally dense popular literature, covering martial-art allusions, Daoist poisons, Song/Ming Jianghu space, 1967 Hong Kong politics, and 明教/摩尼教 survivals. Created pages for Jin Yong, Liang Yusheng, Gu Long, 《笑傲江湖》, 《天龙八部》, 《越女剑》, Wuxia Intertextual Craft, Historical Jianghu Space, Jin Yong Political Reading, and Manichaeism in China; updated overview, index, 蜜獾吃书, Quanzhou, Chinese Folk Religion Layering, Mythic Source Layering, and Classic Reading Complexity. No direct contradiction found; the source extends the wiki's classic-reading and folk-religion branches into modern wuxia.
 
+## [2026-07-24] ingest | 129.如何成为真正的不完美主义者，浑身是劲儿！
+
+Added source page for a 蜜獾吃书 episode on 《如何成为不完美主义者》, perfectionism as avoidance, low action thresholds, binary completion, failure desensitization, high general but low specific expectations, concrete self-praise, and impostor syndrome. Created pages for the book, James Cameron, Oprah Winfrey, 小S, 《康熙来了》, Perfectionism As Avoidance, Imperfect Action Practice, Binary Action Thinking, Failure Desensitization, High General Low Specific Expectations, Concrete Self-Praise, and Impostor Syndrome; updated overview, index, 蜜獾吃书, 秦总, 北明, Action Against Anxiety, Achievement Pressure Mental Health, Red Pen Logic, Low-Cost Experimentation, Positive Expectation Training, SpaceX, NASA, and Albert Einstein. No direct contradiction found; the source extends the wiki's action-against-anxiety branch by showing how lowering standards and tolerating imperfect attempts can turn judgment fear into feedback.
+
 ## [2026-07-24] lint | Wiki health check
 
 Ran health and lint. Health passed across 5,954 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` or provider API key variables are configured in the shell. Report returned in-session; `wiki/lint-report.md` was not saved.
@@ -4395,6 +4399,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-24] ingest | sp.05 【刘擎x林垚】"枪杀医保巨头"案背后的思考（下）：分裂的美国会有宪政危机吗？
 
 Added source page for the second half of the 蜜獾吃书 x 东腔西调 crossover on the UnitedHealthcare CEO killing and U.S. political crisis. Created pages for MAGA, Democratic Party, Theda Skocpol, Black Lives Matter, National Popular Vote Interstate Compact, U.S. Constitutional Crisis Risk, U.S. Constitutional Reform Constraint, MAGA Coalition Fracture, Identity Politics As Political Sorting, and Institutional Speech Punishment; updated overview, index, 刘擎, 林垚, 东腔西调, 蜜獾吃书, United States, Donald Trump, Republican Party, Elon Musk, Pew Research Center, Washington Post, UnitedHealthcare, Affordable Care Act, United States Constitution, Supreme Court, American Democratic Resilience, U.S. Federalism Veto Points, Populist Democratic Energy, Political Delivery Gap, U.S. Health Insurance Denial Politics, Presidential System, Constitutional Robustness, Right-Wing Media Infrastructure, and Immigration Backlash Cycle. No direct contradiction found; the source qualifies the existing constitutional-robustness branch by stressing how amendment thresholds, presidentialism, coalition fracture, identity-sorted media, and weakened local experimentation can make institutional repair slow even without imminent civil war.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-24] lint | Wiki health check
 

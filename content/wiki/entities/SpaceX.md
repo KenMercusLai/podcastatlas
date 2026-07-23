@@ -2,7 +2,7 @@
 title: "SpaceX"
 type: entity
 tags: [company, technology, space, hard-tech]
-sources: [tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio]
+sources: [129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio]
 last_updated: 2026-07-23
 ---
 
@@ -24,6 +24,8 @@ The source also frames SpaceX as an organization and manufacturing model. [[Elon
 
 [[tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio]] adds SpaceX as the first recruiting-network bridge for [[BoomSupersonic]]. Scholl says he had no first-degree aerospace contacts, found one second-degree SpaceX contact, and then used [[RecursiveExpertRecruiting]] to map experts and build confidence before he could hire a full technical team. This connects SpaceX's hard-tech talent spillover to [[SpaceXMafia]] beyond space startups alone.
 
+[[129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151]] uses SpaceX as a source-scoped analogy for [[ImperfectActionPractice]]. [[Beimin|北明]] contrasts repeated launch attempts and learning from explosions with a more perfection-oriented preparation image of [[NASA]], using the example to argue that some hard problems require visible failure before the system can improve.
+
 ## Connections
 - [[OpenAI]] and [[Anthropic]] — other private technology companies discussed in the IPO valuation frame.
 - [[AIIPOValuation]] — concept that separates real technological importance from attractive public-market entry price.
@@ -38,3 +40,4 @@ The source also frames SpaceX as an organization and manufacturing model. [[Elon
 - [[XAI|xAI]], [[Grok]], and [[StrategicAIInfrastructureDependence]] — AI-company acquisition and infrastructure-bargaining layer added by Marketplace Tech.
 - [[NASA]] — government knowledge and procurement context that helped shape SpaceX's path.
 - [[BlakeScholl]], [[BoomSupersonic]], and [[RecursiveExpertRecruiting]] - SpaceX talent-network bridge used by Boom.
+- [[PerfectionismAsAvoidance]], [[ImperfectActionPractice]], and [[FailureDesensitization]] - episode 129's source-scoped use of SpaceX as an iteration analogy.

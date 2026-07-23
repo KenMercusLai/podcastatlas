@@ -2,7 +2,7 @@
 title: "Red Pen Logic"
 type: concept
 tags: [education, judgment, agency, mental-health]
-sources: [181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
+sources: [129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
 last_updated: 2026-07-15
 ---
 
@@ -14,6 +14,8 @@ The concept explains why the episode connects schooling, parenting, elite admiss
 
 [[181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261]] adds the fawning version of the same internal judge. QinZong's make-up exam and zero-score memories show how imagined judgment can feel catastrophic before direct experience proves it survivable. The episode connects that imagined judge to [[FawnResponse|fawning]] because external approval can become the route to safety.
 
+[[129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151]] adds the perfectionism version. The red pen does not only grade schoolwork; it can grade whether the gym conditions are ideal, whether the first draft is good enough, whether the books are arranged in the right taxonomy, or whether a small action "counts." [[BinaryActionThinking]] is the episode's temporary way to stop that grading long enough for action to happen.
+
 ## Key Claims
 - Red pen logic narrows thought by turning open interpretation into a correct/incorrect check.
 - It turns external evaluation into self-surveillance: the student keeps scoring themselves even without a teacher present.
@@ -22,6 +24,7 @@ The concept explains why the episode connects schooling, parenting, elite admiss
 - It works with [[AchievementPressureMentalHealth]] because constant scoring makes failure feel like identity collapse rather than feedback.
 - The episode's closing advice to put down the red pen is a minimal first step toward [[AntiAuthoritarianEducation]] and self-direction.
 - Episode 181 adds desensitization: living through a feared failure can reduce the internal judge's authority.
+- Episode 129 adds that perfectionism can be the internal judge's action block: the person keeps grading the setup before they have done the thing.
 
 ## Connections
 - [[ExcellentSheep|《优秀的绵羊》 / Excellent Sheep]] - book frame for externally excellent but internally constrained students.
@@ -31,3 +34,4 @@ The concept explains why the episode connects schooling, parenting, elite admiss
 - [[NonInstrumentalLiteraryReading]] and [[ReadingAsLifeExperience]] - practices that resist reducing books to utility and score.
 - [[FirstDraftThinking]] - adjacent learning concept about preserving independent reasoning before tool or authority shortcuts.
 - [[FawnResponse]], [[UnfawningBoundaryPractice]], and [[ComplexTraumaRecognition]] - fawning and trauma extension from episode 181.
+- [[PerfectionismAsAvoidance]], [[BinaryActionThinking]], [[FailureDesensitization]], and [[ConcreteSelfPraise]] - anti-perfectionist extension from episode 129.

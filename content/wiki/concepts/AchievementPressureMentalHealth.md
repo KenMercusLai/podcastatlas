@@ -2,7 +2,7 @@
 title: "Achievement Pressure Mental Health"
 type: concept
 tags: [education, mental-health, youth, parenting]
-sources: [98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
+sources: [129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, 98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
 last_updated: 2026-07-18
 ---
 
@@ -20,6 +20,8 @@ The source focuses on "good students" because their distress is often hidden by 
 
 [[98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507]] adds an Adlerian inferiority layer. The source argues that score, school, diploma, 985/211, praise, and adult recognition can turn a normal wish to improve into [[InferioritySuperiorityDynamic]], where the child alternates between "I am not enough" and compensatory status-seeking rather than learning through contribution and courage.
 
+[[129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151]] adds the perfectionist-action layer. The episode argues that school, family, and social scoring can train a person to demand perfect conditions, perfect quality, or perfect numbers before acting, making ordinary failure feel like self-condemnation rather than practice.
+
 ## Key Claims
 - High achievement does not reliably indicate psychological safety; elite schools and middle-class families can hide serious distress.
 - A binary honor/shame model makes ordinary setbacks feel like existential failure.
@@ -31,6 +33,7 @@ The source focuses on "good students" because their distress is often hidden by 
 - Vol.102 adds that achievement pressure becomes more damaging when the promised exchange between effort and mobility loses credibility.
 - Vol.107 adds that adult work can decouple effort from outcome, making controllable practices and calibrated career attention more important.
 - Episode 98 adds that inferiority is not itself the problem; achievement systems become damaging when they make comparison and external validation the only visible path beyond inferiority.
+- Episode 129 adds that perfectionist standards can turn achievement pressure into non-action, because beginning feels unsafe unless the result can already satisfy the imagined judge.
 
 ## Connections
 - [[ExcellentSheep|《优秀的绵羊》 / Excellent Sheep]] and [[WilliamDeresiewicz]] - book and author grounding the elite-student diagnosis.
@@ -43,3 +46,4 @@ The source focuses on "good students" because their distress is often hidden by 
 - [[MacroNarrativeAnxiety]], [[GraduationAnxiety]], [[CareerShoreMyth]], and [[HikikomoriStrategicRetreat]] - vol.102's effort-narrative and social-clock extension.
 - [[ControllableLifeAnchors]], [[ChoiceTriggeredAttentionBoundary]], and [[SiriQizhulou|Siri]] - vol.107's work-life and effort-feedback extension.
 - [[AlfredAdler]], [[InferioritySuperiorityDynamic]], [[CommunityFeeling]], and [[AdlerianTeleology]] - episode 98's Adlerian extension.
+- [[PerfectionismAsAvoidance]], [[ImperfectActionPractice]], [[HighGeneralLowSpecificExpectations]], and [[ImpostorSyndrome]] - episode 129's achievement-pressure and anti-perfectionism extension.
