@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-24] ingest | 120.蓝狐岛：伟大事业中的雄心与现实
+
+Added source page for the 蜜獾吃书 episode on Vitus Bering, Peter the Great's maritime ambitions, the First Kamchatka Expedition, the Great Northern Expedition, Steller, Bering Island survival, scurvy, Russian North Pacific expansion, sea-otter extraction, and the Russian-American Company. Created pages for Bering, Peter the Great, the Russian Empire, the major expedition figures, Bering Strait/Sea/Island, Kamchatka, Okhotsk, Alaska, sea otter, Steller's sea cow, imperial exploration logistics, expedition command fragmentation, scurvy nutrition insight, Russian North Pacific expansion, and the exploration-to-extraction pipeline; updated overview, index, log, 蜜獾吃书, Russia, Island Extinction After Human Arrival, Environmental Tradeoff Accounting, Material History Narrative, and Observation Before Inference. No direct contradiction found; the source extends the Russia branch backward into eighteenth-century imperial expansion and qualifies exploration as both knowledge-making and a route into colonial/ecological extraction.
+
 ## [2026-07-23] ingest | Welcome to the 'infocalypse'
 
 Added source page for the Marketplace Tech episode with Aviv Ovadia of the AI and Democracy Foundation on AI-intensified information collapse, scams, propaganda, nonconsensual imagery, verification burden, content credentials, platform adoption, reality apathy, and democratic institutions robust enough for synthetic-media pressure. Created pages for Aviv Ovadia, AI and Democracy Foundation, LinkedIn, Information Apocalypse, Reality Apathy, AI Reality Verification Tax, and Content Credentials; updated overview, index, Marketplace Tech, Megan McCarty-Corino, AI Information Pollution, AI Content Provenance, AI Governance and Compliance, American Democratic Resilience, Human Judgment Under AI, and AI Journalism Trust. No direct contradiction found; the source extends existing AI information-pollution and provenance pages by emphasizing that real evidence becomes harder to trust as fake media becomes cheaper to produce.
@@ -4316,3 +4320,7 @@ Added source page for a 蜜獾吃书 episode on 《安乐死现场》, euthanasi
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 5,800 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 5,641 nodes and 56,841 edges; they found no hub stubs, five fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified; a bounded in-session review of the orphan pages and fragile-bridge endpoints found no direct contradictions or stale summaries. Report returned in-session; `wiki/lint-report.md` was not saved.

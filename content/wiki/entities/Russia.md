@@ -2,11 +2,13 @@
 title: "Russia"
 type: entity
 tags: [country, geopolitics, security, space, crypto]
-sources: [tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]
+sources: [120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]
 last_updated: 2026-07-17
 ---
 
 # Russia
+
+[[120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218]] adds a historical-imperial layer through [[RussianEmpire]], [[PeterTheGreat]], and [[VitusBering]]. The episode frames eighteenth-century Russia as a land empire trying to become a maritime power by forcing routes through Siberia toward [[Okhotsk]], [[Kamchatka]], [[BeringStrait]], [[BeringSea]], and [[Alaska]]. This adds [[RussianNorthPacificExpansion]], [[ImperialExplorationLogistics]], and [[ExplorationToExtractionPipeline]] as pre-modern roots of later North Pacific colonial and ecological consequences.
 
 [[tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128]] adds Russia as a user of [[Shahed136]]-style armed drones and cheaper decoys. The episode says Russian versions have moved toward fiberglass and sometimes carbon fiber, and that smaller unarmed or lower-cost decoys can force defenders into fast, imperfect decisions, extending Russia's war-pressure profile into [[DroneDecoyEconomics]] and [[LowCostDroneWarfare]].
 
@@ -25,6 +27,7 @@ The source frames Russia's pressure as intentionally ambiguous. Drone incursions
 [[tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]] adds Russia to the crypto sanctions branch through [[A7A5]]. [[AriRedbord]] describes A7A5 as a Russia-related stablecoin and as a major driver of sanctions-related illicit crypto activity in 2025, connecting Russia to [[StablecoinSanctionsEvasion]] as well as conventional geopolitics.
 
 ## Connections
+- [[RussianEmpire]], [[PeterTheGreat]], [[VitusBering]], [[FirstKamchatkaExpedition]], [[GreatNorthernExpedition]], [[Kamchatka]], [[Okhotsk]], [[Alaska]], [[RussianNorthPacificExpansion]], and [[ExplorationToExtractionPipeline]] - eighteenth-century imperial exploration and North Pacific expansion branch added by 蜜獾吃书.
 - [[Shahed136]], [[LowCostDroneWarfare]], [[DroneDecoyEconomics]], [[DroneDefenseEconomics]], and [[CounterDroneLayeredDefense]] - drone and decoy branch added by Marketplace Tech.
 - [[RussianHybridPressure]] - main threat pattern.
 - [[NATO]] and [[NATOAllianceCredibility]] - alliance response context.

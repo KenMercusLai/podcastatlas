@@ -2,7 +2,7 @@
 title: "Observation Before Inference"
 type: concept
 tags: [science, reasoning, evidence, fieldwork]
-sources: [115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309, 99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469, 91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]
+sources: [120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, 115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309, 99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469, 91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]
 last_updated: 2026-07-24
 ---
 
@@ -19,6 +19,8 @@ The concept is adjacent to [[BirdwatchingAsAttention]], but it is more explicitl
 [[57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319]] adds a language-history version. The source argues that Chinese-character interpretation should begin from documented forms, including oracle-bone script, bronze inscriptions, seal script, and clerical script, before producing a meaning story. That makes [[ChineseCharacterEvidenceDiscipline]] a script-specific case of observation before inference.
 
 [[59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]] adds a travel-history version through [[Crete]]. The episode separates [[GreekMythology]] from archaeology, marks some Minoan social claims as interpretive, treats etymology and local pronunciation as uncertain, and flags the Cyclops/mammoth-skull explanation as a story that needs caution rather than automatic belief.
+
+[[120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218]] adds an expedition-navigation version through [[VitusBering]] and the [[GreatNorthernExpedition]]. The source shows bad inherited maps, committee route decisions, misread coastlines, the mistaken identification of [[BeringIsland]] as [[Kamchatka]], and [[GeorgWilhelmSteller]]'s scurvy observations as cases where survival depends on separating observation from confident but weakly grounded inference.
 
 [[172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860]] adds a life-design version through the phrase "努力前先睁眼". The source uses [[LionelMessi]], [[WuQingyuan]], and [[AlphaGo]] to argue that effective effort begins with higher-quality perception of the field, not only more force or more repetition.
 
@@ -59,6 +61,7 @@ The concept is adjacent to [[BirdwatchingAsAttention]], but it is more explicitl
 - Historical cases need the same separation: a famous story, a hostile source, a literary image, or an attractive reversal cannot replace dated records, material traces, motive analysis, and confidence limits.
 - Public accusation needs the same separation: fear, suffering, or moral urgency can make a claim socially powerful without making it evidentially grounded.
 - Environmental medicine needs the same separation: seasonal coincidence, plant presence, and bodily discomfort become evidence only when exposure, timing, alternative triggers, and measurement are compared.
+- Expedition navigation and field medicine need the same discipline: inherited maps, officer confidence, and crowd agreement can be wrong when weather, coastlines, diet, and bodies supply contrary evidence.
 
 ## Connections
 - [[BirdwatchingAsAttention]] - attention as the entry point.
@@ -78,3 +81,4 @@ The concept is adjacent to [[BirdwatchingAsAttention]], but it is more explicitl
 - [[HistoricalDetectiveReasoning]], [[EvidenceBoundHistoricalRevision]], [[TheDaughterOfTime|《时间的女儿》]], and [[CaoCaoTomb|曹操墓]] - source-69 extension into history, archaeology, and public memory.
 - [[SalemWitchTrials]], [[WitchHuntMechanism]], [[SpectralEvidence]], and [[RationalistMethod]] - source-91 extension into resisting accusation before evidence.
 - [[PollenAsHistoricalObject]], [[PalynologyAsEvidence]], [[CharlesHarrisonBlackley]], and [[HayFeverEnvironmentalHistory]] - source-97 extension into pollen, trace evidence, and hay-fever causation.
+- [[VitusBering]], [[GreatNorthernExpedition]], [[BeringIsland]], [[Kamchatka]], [[GeorgWilhelmSteller]], and [[ScurvyNutritionInsight]] - source-120 extension into expedition navigation, mistaken landfall, and field medicine.

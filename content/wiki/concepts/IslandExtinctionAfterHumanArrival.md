@@ -2,7 +2,7 @@
 title: "Island Extinction After Human Arrival"
 type: concept
 tags: [ecology, islands, extinction, humans]
-sources: [186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]
+sources: [120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, 186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]
 last_updated: 2026-07-15
 ---
 
@@ -14,12 +14,15 @@ The episode uses this ending to complicate scenic travel. The same island that o
 
 [[186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210]] adds two sharper endangered-species versions. [[Madagascar]] appears as a refuge that lost many lemur forms after human arrival and now needs smaller protected refuges for the [[AyeAye|aye-aye]]. [[NewZealand]] appears through the [[Kakapo|kakapo]], whose flightlessness and slow reproduction became liabilities once humans and introduced mammals changed the island baseline.
 
+[[120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218]] adds a North Pacific expedition version through [[BeringIsland]]. The source emphasizes animals unfamiliar with humans, [[SeaOtter]] hunting, [[StellersSeaCow]] as emergency food and scientific discovery, and the later [[ExplorationToExtractionPipeline]] around [[Alaska]]. The pattern shifts from prehistoric disappearance to a documented early-modern route from island survival into commercial marine-animal depletion.
+
 ## Key Claims
 - Island isolation can produce unusual body sizes, flightlessness, or other traits because pressures differ from mainland ecosystems.
 - Those adaptations can become liabilities when humans, hunting, habitat change, or introduced species arrive.
 - Natural-history stories should be part of travel understanding, not an afterthought to scenery and ruins.
 - Extinction history can make present-day conservation signs and sea-turtle protection feel less ornamental and more urgent.
 - Island protection often begins after the baseline has already shifted, so intervention may mean refuge-building, predator control, and intensive monitoring rather than a return to untouched nature.
+- Expedition contact can be enough to expose island and marine animals to new survival pressures, commercial value, and rapid behavioral change.
 
 ## Connections
 - [[Crete]] - source case.
@@ -27,3 +30,4 @@ The episode uses this ending to complicate scenic travel. The same island that o
 - [[ConservationIntervention]] - present-day response layer when humans have already changed the baseline.
 - [[ObservationBeforeInference]] - caution around origin stories such as the Cyclops/mammoth-skull explanation.
 - [[AyeAye]], [[Kakapo]], [[Madagascar]], [[NewZealand]], and [[InvasiveSpeciesManagement]] - endangered-species extension added by episode 186.
+- [[BeringIsland]], [[SeaOtter]], [[StellersSeaCow]], [[Alaska]], and [[ExplorationToExtractionPipeline]] - North Pacific exploration and extraction branch added by episode 120.

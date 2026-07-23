@@ -99,6 +99,10 @@
     "title": "119.安乐死现场：正因生命如此珍贵",
     "url": "/wiki/sources/119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087/"
   },
+  "120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218": {
+    "title": "120.蓝狐岛：伟大事业中的雄心与现实",
+    "url": "/wiki/sources/120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218/"
+  },
   "130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi": {
     "title": "130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏",
     "url": "/wiki/sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi/"
@@ -1695,6 +1699,10 @@
     "title": "Alan Turing / 图灵",
     "url": "/wiki/entities/alanturing/"
   },
+  "Alaska": {
+    "title": "Alaska / 阿拉斯加",
+    "url": "/wiki/entities/alaska/"
+  },
   "AlbertEinstein": {
     "title": "Albert Einstein / 阿尔伯特·爱因斯坦",
     "url": "/wiki/entities/alberteinstein/"
@@ -1750,6 +1758,10 @@
   "AlexandrWang": {
     "title": "Alexandr Wang",
     "url": "/wiki/entities/alexandrwang/"
+  },
+  "AlexeiChirikov": {
+    "title": "Alexei Chirikov / 阿列克谢·齐里科夫",
+    "url": "/wiki/entities/alexeichirikov/"
   },
   "AlexiHorowitzGhazi": {
     "title": "Alexi Horowitz-Ghazi",
@@ -2982,6 +2994,18 @@
   "BennettHypothesis": {
     "title": "Bennett Hypothesis",
     "url": "/wiki/concepts/bennetthypothesis/"
+  },
+  "BeringIsland": {
+    "title": "Bering Island / 白令岛",
+    "url": "/wiki/entities/beringisland/"
+  },
+  "BeringSea": {
+    "title": "Bering Sea / 白令海",
+    "url": "/wiki/entities/beringsea/"
+  },
+  "BeringStrait": {
+    "title": "Bering Strait / 白令海峡",
+    "url": "/wiki/entities/beringstrait/"
   },
   "BerkshireHathaway": {
     "title": "Berkshire Hathaway",
@@ -6891,6 +6915,10 @@
     "title": "Expedia Group",
     "url": "/wiki/entities/expediagroup/"
   },
+  "ExpeditionCommandFragmentation": {
+    "title": "Expedition Command Fragmentation",
+    "url": "/wiki/concepts/expeditioncommandfragmentation/"
+  },
   "ExperienceLedBrand": {
     "title": "Experience-Led Brand",
     "url": "/wiki/concepts/experienceledbrand/"
@@ -6910,6 +6938,10 @@
   "ExpertiseAmplifiedAIUse": {
     "title": "Expertise-Amplified AI Use",
     "url": "/wiki/concepts/expertiseamplifiedaiuse/"
+  },
+  "ExplorationToExtractionPipeline": {
+    "title": "Exploration To Extraction Pipeline",
+    "url": "/wiki/concepts/explorationtoextractionpipeline/"
   },
   "ExternalPatronDependence": {
     "title": "External Patron Dependence",
@@ -7334,6 +7366,10 @@
   "FirstDraftThinking": {
     "title": "First Draft Thinking",
     "url": "/wiki/concepts/firstdraftthinking/"
+  },
+  "FirstKamchatkaExpedition": {
+    "title": "First Kamchatka Expedition / 第一次勘察加探险",
+    "url": "/wiki/entities/firstkamchatkaexpedition/"
   },
   "FirstPrinciplesManufacturing": {
     "title": "First Principles Manufacturing",
@@ -8187,6 +8223,10 @@
     "title": "Geopolitical Cycle Macro",
     "url": "/wiki/concepts/geopoliticalcyclemacro/"
   },
+  "GeorgWilhelmSteller": {
+    "title": "Georg Wilhelm Steller / 乔治·威廉·斯特勒",
+    "url": "/wiki/entities/georgwilhelmsteller/"
+  },
   "GeorgeCottrell": {
     "title": "George Cottrell",
     "url": "/wiki/entities/georgecottrell/"
@@ -8454,6 +8494,10 @@
   "GreatHarvestBread": {
     "title": "Great Harvest Bread",
     "url": "/wiki/entities/greatharvestbread/"
+  },
+  "GreatNorthernExpedition": {
+    "title": "Great Northern Expedition / 大北方探险",
+    "url": "/wiki/entities/greatnorthernexpedition/"
   },
   "GreekMythology": {
     "title": "Greek Mythology",
@@ -9622,6 +9666,10 @@
   "ImperialExaminationAsOnlyExit": {
     "title": "Imperial Examination As Only Exit",
     "url": "/wiki/concepts/imperialexaminationasonlyexit/"
+  },
+  "ImperialExplorationLogistics": {
+    "title": "Imperial Exploration Logistics",
+    "url": "/wiki/concepts/imperialexplorationlogistics/"
   },
   "ImperialFiscalElasticity": {
     "title": "皇室财政弹性 / Imperial Fiscal Elasticity",
@@ -10874,6 +10922,10 @@
   "Kalshi": {
     "title": "Kalshi",
     "url": "/wiki/entities/kalshi/"
+  },
+  "Kamchatka": {
+    "title": "Kamchatka / 勘察加",
+    "url": "/wiki/entities/kamchatka/"
   },
   "KangHongwen": {
     "title": "康宏文 Henry",
@@ -12551,6 +12603,10 @@
     "title": "Martin Peterson",
     "url": "/wiki/entities/martinpeterson/"
   },
+  "MartinSpangberg": {
+    "title": "Martin Spangberg / 马丁·斯潘贝格",
+    "url": "/wiki/entities/martinspangberg/"
+  },
   "Marubeni": {
     "title": "Marubeni / 丸红",
     "url": "/wiki/entities/marubeni/"
@@ -14075,6 +14131,10 @@
     "title": "Oil Producer Supply Coordination",
     "url": "/wiki/concepts/oilproducersupplycoordination/"
   },
+  "Okhotsk": {
+    "title": "Okhotsk / 鄂霍次克",
+    "url": "/wiki/entities/okhotsk/"
+  },
   "OlinFoundation": {
     "title": "Olin Foundation",
     "url": "/wiki/entities/olinfoundation/"
@@ -14838,6 +14898,10 @@
   "PeterNavarro": {
     "title": "Peter Navarro",
     "url": "/wiki/entities/peternavarro/"
+  },
+  "PeterTheGreat": {
+    "title": "Peter the Great / 彼得大帝",
+    "url": "/wiki/entities/peterthegreat/"
   },
   "PeterThiel": {
     "title": "Peter Thiel",
@@ -16643,13 +16707,25 @@
     "title": "Russia",
     "url": "/wiki/entities/russia/"
   },
+  "RussianAmericanCompany": {
+    "title": "Russian-American Company / 俄美公司",
+    "url": "/wiki/entities/russianamericancompany/"
+  },
   "RussianEliteDiscontent": {
     "title": "Russian Elite Discontent",
     "url": "/wiki/concepts/russianelitediscontent/"
   },
+  "RussianEmpire": {
+    "title": "Russian Empire / 俄罗斯帝国",
+    "url": "/wiki/entities/russianempire/"
+  },
   "RussianHybridPressure": {
     "title": "Russian Hybrid Pressure",
     "url": "/wiki/concepts/russianhybridpressure/"
+  },
+  "RussianNorthPacificExpansion": {
+    "title": "Russian North Pacific Expansion",
+    "url": "/wiki/concepts/russiannorthpacificexpansion/"
   },
   "RussoChineseBank": {
     "title": "Russo-Chinese Bank",
@@ -16971,6 +17047,10 @@
     "title": "Script As Social History",
     "url": "/wiki/concepts/scriptassocialhistory/"
   },
+  "ScurvyNutritionInsight": {
+    "title": "Scurvy Nutrition Insight",
+    "url": "/wiki/concepts/scurvynutritioninsight/"
+  },
   "SeaLifeTrust": {
     "title": "Sea Life Trust",
     "url": "/wiki/entities/sealifetrust/"
@@ -16978,6 +17058,10 @@
   "SeaNetRocketRecovery": {
     "title": "Sea-Net Rocket Recovery",
     "url": "/wiki/concepts/seanetrocketrecovery/"
+  },
+  "SeaOtter": {
+    "title": "Sea Otter / 海獭",
+    "url": "/wiki/entities/seaotter/"
   },
   "SeaWorld": {
     "title": "SeaWorld",
@@ -18138,6 +18222,10 @@
   "StefanSzymanski": {
     "title": "Stefan Szymanski",
     "url": "/wiki/entities/stefanszymanski/"
+  },
+  "StellersSeaCow": {
+    "title": "Steller's Sea Cow / 斯特勒海牛",
+    "url": "/wiki/entities/stellersseacow/"
   },
   "StepFun": {
     "title": "StepFun",
@@ -20058,6 +20146,10 @@
   "VitalyKamluk": {
     "title": "Vitaly Kamluk",
     "url": "/wiki/entities/vitalykamluk/"
+  },
+  "VitusBering": {
+    "title": "Vitus Bering / 维图斯·白令",
+    "url": "/wiki/entities/vitusbering/"
   },
   "Vivo": {
     "title": "vivo",

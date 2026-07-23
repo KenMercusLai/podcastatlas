@@ -2,7 +2,7 @@
 title: "Material History Narrative"
 type: concept
 tags: [history, commodities, narrative, material-culture]
-sources: [114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, zhongqiu-kuaile-669967741, 66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536, 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, 71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
+sources: [120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, zhongqiu-kuaile-669967741, 66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536, 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, 71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
 last_updated: 2026-07-24
 ---
 
@@ -30,6 +30,8 @@ The concept is useful because it keeps scale changes visible. A material object 
 
 [[97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059]] adds an airborne biological-material version through [[PollenAsHistoricalObject]]. Pollen is not a consumer product, but the episode makes it historically legible through plant reproduction, microscopy, language translation, [[PalynologyAsEvidence|trace evidence]], [[HayFeverEnvironmentalHistory|disease history]], tourism, [[AirPurifier|air purification]], and weed control.
 
+[[120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218]] adds a fur-trade and expedition-afterlife version through [[SeaOtter]]. Sea-otter skins become material history when they move from survival-camp gambling tokens on [[BeringIsland]] to cargo worth saving over [[GeorgWilhelmSteller]]'s specimens, and then to a commercial signal that helps draw merchants and the [[RussianAmericanCompany]] toward [[Alaska]].
+
 ## Key Claims
 - Everyday substances can reveal political economy, sensory habit, social space, and state power.
 - A strong material-history narrative must connect consumption with production, labor, transport, taxation, and inequality.
@@ -43,6 +45,7 @@ The concept is useful because it keeps scale changes visible. A material object 
 - Bodily materials such as hair can also carry material history when they connect anatomy, care products, ritual, coercion, labor, and evidence.
 - Culinary materials become material history when ingredient buying, texture, freshness, animal death, and table judgment reveal social organization.
 - Invisible or airborne materials can also anchor material history when they shape instruments, evidence, bodies, markets, and infrastructure.
+- Expedition materials are not only scientific tools; skins, specimens, ships, anchors, and stored food can reveal which forms of value survive crisis and later scale into trade.
 
 ## Connections
 - [[Coffee|Coffee / 咖啡]] and [[QuanqiuShangyin|《全球上瘾》]] - source case for a commodity as protagonist.
@@ -57,3 +60,4 @@ The concept is useful because it keeps scale changes visible. A material object 
 - [[Crab|螃蟹]], [[CrabCulturalSymbolism]], [[AnimalMoralProjection]], and [[EatingAndKillingMoralAmbivalence]] - deeper crab material-history branch added by episode 114.
 - [[HairBook|《头发》 / Hair]], [[HairAsBiosocialSignal]], and [[GenderedHairRegulation]] - bodily-material extension added by episode 93.
 - [[PollenAsHistoricalObject]], [[PalynologyAsEvidence]], [[HayFeverEnvironmentalHistory]], and [[AirPurifier]] - airborne biological-material extension added by episode 97.
+- [[SeaOtter]], [[BeringIsland]], [[GeorgWilhelmSteller]], [[RussianAmericanCompany]], [[Alaska]], and [[ExplorationToExtractionPipeline]] - fur-trade and expedition-afterlife extension added by episode 120.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [120.蓝狐岛：伟大事业中的雄心与现实](sources/120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218.md) — 蜜獾吃书 episode on Vitus Bering, Peter the Great's maritime ambition, the Kamchatka and Great Northern expeditions, Steller, Bering Island survival, scurvy, Russian North Pacific expansion, and sea-otter extraction.
 - [119.安乐死现场：正因生命如此珍贵](sources/119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087.md) — 蜜獾吃书 episode on 《安乐死现场》, euthanasia and assisted suicide, Swiss Life Circle/Dignitas, Dutch/Belgian/U.S./Spanish/Japanese/Chinese cases, dignity, family ethics, medical safeguards, and the host's "不知道" stance.
 - [118.是，大臣：辛辣讽刺永不过时](sources/118-shi-dachen-xinla-fengci-yongbuguoshi-768665425.md) — 蜜獾吃书 episode on 《是，大臣》 and 《是，首相》, Hacker/Humphrey/Bernard/Arnold power relations, open-government containment, red-box workload control, and Baillie College honors patronage.
 - [117.诅咒兔：怪谈文学也要上桌吃饭](sources/117-zuzhoutu-guaitan-wenxue-ye-yao-shangzhuo-chifan-766574341.md) — 蜜獾吃书 episode on 郑宝拉《诅咒兔》, 韩江 as Korean-literary context, guaitan literature, genre legitimacy, gendered domestic horror, capitalist/family violence, revenge, and loneliness after revenge.
@@ -536,6 +537,23 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Vitus Bering / 维图斯·白令](entities/VitusBering.md) — Danish-born Russian naval officer whose Kamchatka and Great Northern expeditions open the source's North Pacific exploration branch.
+- [Peter the Great / 彼得大帝](entities/PeterTheGreat.md) — Russian ruler whose sea-power modernization and route ambitions frame the Bering expeditions.
+- [Russian Empire / 俄罗斯帝国](entities/RussianEmpire.md) — Historical state context for the Bering expeditions, Siberian logistics, maritime ambition, and North Pacific expansion.
+- [First Kamchatka Expedition / 第一次勘察加探险](entities/FirstKamchatkaExpedition.md) — Bering-led expedition that crossed Siberia, built ships at Okhotsk, and tested the Asia-America separation question.
+- [Great Northern Expedition / 大北方探险](entities/GreatNorthernExpedition.md) — Expanded second Bering expedition combining navigation, science, settlement, Japanese-route exploration, and imperial infrastructure.
+- [Georg Wilhelm Steller / 乔治·威廉·斯特勒](entities/GeorgWilhelmSteller.md) — Naturalist and doctor whose plant, animal, and scurvy observations become crucial during the Bering Island survival episode.
+- [Alexei Chirikov / 阿列克谢·齐里科夫](entities/AlexeiChirikov.md) — Bering colleague and Saint Paul commander used by the source to show divided expedition authority.
+- [Martin Spangberg / 马丁·斯潘贝格](entities/MartinSpangberg.md) — Bering expedition officer linked to Siberian transport ordeals and the Japan/Kuril route thread.
+- [Bering Strait / 白令海峡](entities/BeringStrait.md) — Geographic proof target of the first expedition and later named trace of Bering's cautious route decision.
+- [Bering Sea / 白令海](entities/BeringSea.md) — North Pacific sea setting connecting Bering's name to Kamchatka, Alaska, Bering Island, and sea-otter extraction.
+- [Bering Island / 白令岛](entities/BeringIsland.md) — Island where the Saint Peter survivors endured scurvy, food scarcity, blue foxes, and rank-bending survival work.
+- [Kamchatka / 勘察加](entities/Kamchatka.md) — Far-eastern peninsula and expedition base that makes the Russian North Pacific route physically possible.
+- [Okhotsk / 鄂霍次克](entities/Okhotsk.md) — Pacific-side port and shipbuilding bottleneck where imperial exploration became logistics before sailing.
+- [Alaska / 阿拉斯加](entities/Alaska.md) — American coast reached by the expedition and later tied to Russian sea-otter commerce, colonial extraction, and sale to the United States.
+- [Russian-American Company / 俄美公司](entities/RussianAmericanCompany.md) — Later consolidation of Russian North Pacific commercial activity around Alaska and sea-otter resources.
+- [Sea Otter / 海獭](entities/SeaOtter.md) — Marine animal whose skins turn the expedition route into a commercial and ecological extraction branch.
+- [Steller's Sea Cow / 斯特勒海牛](entities/StellersSeaCow.md) — Bering Island animal observed by Steller, linking survival subsistence to island extinction and marine exploitation.
 - [《安乐死现场》](entities/AnlesiXianchang.md) — Reporting book used by episode 119 to compare euthanasia and assisted-suicide cases across countries.
 - [Life Circle](entities/LifeCircle.md) — Swiss assisted-suicide organization used by episode 119 to explain member request, medical diagnosis, unbearable suffering, and patient self-administration.
 - [Dignitas](entities/Dignitas.md) — Swiss assisted-suicide organization appearing as an institutional reference point in the Life Circle founder story.
@@ -3530,6 +3548,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Imperial Exploration Logistics](concepts/ImperialExplorationLogistics.md) — Frame for treating distant exploration as transport, supply, labor, coercion, local infrastructure, and material burden before it becomes discovery.
+- [Expedition Command Fragmentation](concepts/ExpeditionCommandFragmentation.md) — Failure mode where overlapping scientific, naval, administrative, and political authority weakens a difficult mission.
+- [Scurvy Nutrition Insight](concepts/ScurvyNutritionInsight.md) — Practical field recognition that fresh plants and diet could prevent or treat scurvy before vitamin theory existed.
+- [Russian North Pacific Expansion](concepts/RussianNorthPacificExpansion.md) — Historical process linking Russian sea-power ambition, Bering routes, Alaska, sea otters, and Russian-American Company extraction.
+- [Exploration To Extraction Pipeline](concepts/ExplorationToExtractionPipeline.md) — Pattern where route knowledge and scientific exploration later become commercial, colonial, and ecological extraction systems.
 - [Assisted Death Concept Boundary](concepts/AssistedDeathConceptBoundary.md) — Distinction among active euthanasia, assisted suicide, passive euthanasia, and terminal sedation.
 - [Cross-Cultural Assisted Death Ethics](concepts/CrossCulturalAssistedDeathEthics.md) — Comparative frame for how national cultures and laws assign meaning to assisted death.
 - [End-of-Life Autonomy And Dignity](concepts/EndOfLifeAutonomyAndDignity.md) — Patient-rights frame around pain, timing, dignity, and subjecthood at the end of life.

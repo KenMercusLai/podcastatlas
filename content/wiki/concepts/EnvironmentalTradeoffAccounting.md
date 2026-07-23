@@ -2,7 +2,7 @@
 title: "Environmental Tradeoff Accounting"
 type: concept
 tags: [ecology, agriculture, policy, externalities]
-sources: [97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260, its-my-tree-why-cant-i-cut-it-down]
+sources: [120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260, its-my-tree-why-cant-i-cut-it-down]
 last_updated: 2026-07-18
 ---
 
@@ -18,6 +18,8 @@ The concept does not reject environmental protection. It asks for a wider bounda
 
 [[97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059]] adds a pollen-allergy version through [[AllergySourceControl]] and [[RagweedEcologicalFeedback]]. The episode shows that clearing allergen plants can create bare ground, urban lots can fragment exposure sites, and herbicide pressure can select resistant weeds, so allergy relief has to account for plant ecology and control feedback rather than assuming removal is automatically repair.
 
+[[120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218]] adds an exploration-afterlife version through [[SeaOtter]], [[StellersSeaCow]], and [[Alaska]]. The source shows that a route opened for science, prestige, and navigation can also lower the cost of commercial hunting, company competition, and marine-animal depletion, so accounting has to include what happens after exploration makes a resource visible.
+
 ## Key Claims
 - Environmental choices should be evaluated across the whole system, including farmers, imports, substitute products, other species, and long-run maintenance.
 - A local "green" decision can export damage to another country, habitat, or supply chain.
@@ -28,6 +30,7 @@ The concept does not reject environmental protection. It asks for a wider bounda
 - Tree-preservation policy should evaluate public canopy benefits and private owner burdens together, especially when safety risk or replacement fees land on one household.
 - [[PermitProportionality]] is a legal version of cost visibility: the demanded mitigation should be tied to the specific ecological harm.
 - Allergen source control needs the same tradeoff accounting: removal, planting, herbicides, indoor filtration, and land disturbance can shift exposure rather than simply eliminate it.
+- Exploration should be evaluated through its downstream extraction effects when route knowledge turns animals, islands, or coasts into commercial opportunities.
 
 ## Connections
 - [[AgriculturalSystemsReality]] - farm-level operating context.
@@ -39,3 +42,4 @@ The concept does not reject environmental protection. It asks for a wider bounda
 - [[FloodControlRiskTransfer]], [[WetlandAdaptation]], [[YangtzeRiver]], and [[DongtingLake]] - historical flood-risk extension from episode 65.
 - [[TreeProtectionOrdinances]], [[UrbanCanopyExternalities]], and [[PropertyRightsCommunityObligations]] - urban tree-law extension from Planet Money.
 - [[HayFeverEnvironmentalHistory]], [[AllergySourceControl]], and [[RagweedEcologicalFeedback]] - pollen-allergy extension from episode 97.
+- [[ExplorationToExtractionPipeline]], [[SeaOtter]], [[StellersSeaCow]], [[BeringIsland]], and [[Alaska]] - North Pacific exploration-to-extraction extension from episode 120.
