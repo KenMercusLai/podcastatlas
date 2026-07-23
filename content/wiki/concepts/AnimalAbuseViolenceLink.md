@@ -2,8 +2,8 @@
 title: "Animal Abuse Violence Link"
 type: concept
 tags: [violence, animal-welfare, empathy, crime]
-sources: [56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]
-last_updated: 2026-07-14
+sources: [121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343, 56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301, 39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]
+last_updated: 2026-07-24
 ---
 
 # Animal Abuse Violence Link
@@ -14,12 +14,15 @@ The concept is not deterministic. The episode does not claim that every person w
 
 [[39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065]] adds a philosophical and institutional version through [[ThePhilosopherAndTheWolf|《哲学家与狼》 / The Philosopher and the Wolf]]. The source treats laboratory dog-shock experiments as a case where cruelty can be made respectable by academic framing, then contrasts that with [[Brenin|布列宁]]'s refusal to bully weaker animals.
 
+[[121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343]] adds a public-poisoning version. The episode's closing warning treats mass dog poisoning not as private nuisance management but as dangerous cruelty that can normalize harm and create wider public toxic exposure.
+
 ## Key Claims
 - Animal cruelty can be a warning signal for control, sadism, desensitization, and domination.
 - Social approval of cruelty can matter as much as the individual act because it teaches others what counts as acceptable strength.
 - Masculinity scripts can turn compassion into weakness and violence into pride.
 - Early intervention should happen before cruelty escalates into wider violence, not after a person becomes clearly dangerous.
 - Institutional purpose can hide cruelty when a helpless being is treated as an acceptable instrument.
+- Poisoning animals in shared spaces combines cruelty with public-risk externalities, so interruption is justified even before motive or target is fully known.
 
 ## Connections
 - [[DomesticViolencePetCoercion]] - household control version.
@@ -29,3 +32,4 @@ The concept is not deterministic. The episode does not claim that every person w
 - [[EvilAsResponsibilityFailure]] - responsibility-based account of cruelty and complicity.
 - [[CivilizationAsDeception]] - institutional and rhetorical cover for domination.
 - [[AnimalWelfareAsPublicHealth]] - public-health umbrella.
+- [[InhalationPoisonPublicSafety]] and [[ForensicToxicology]] - source-121 toxic public-space extension.

@@ -2,7 +2,7 @@
 title: "Modern Criminal Investigation Formation"
 type: concept
 tags: [policing, investigation, forensic-evidence, institutions]
-sources: [113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, 50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]
+sources: [121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343, 113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, 50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]
 last_updated: 2026-07-24
 ---
 
@@ -16,12 +16,15 @@ The source describes early practice as underdeveloped in evidence preservation, 
 
 [[113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827]] adds an American reservation-fieldwork case. The episode highlights delayed search, difficult witness cooperation, translation and language issues, pressure on local witnesses, confession-and-recantation dynamics, and the limits of 1930s sexual-assault evidence, showing how investigation quality is entangled with politics and social trust.
 
+[[121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343]] adds the modern laboratory and specialization layer. The episode points to the 1923 Los Angeles Police Department forensic lab, [[CalvinGoddard]]'s ballistics work in the St. Valentine's Day Massacre, crime-scene investigators, fingerprint examiners, firearms and tool-mark specialists, toxicologists, entomologists, psychologists, and other expert witnesses. The concept therefore becomes a division-of-labor story, not only a story of better evidence preservation.
+
 ## Key Claims
 - Investigation methods are institutional practices, not just detective brilliance.
 - Evidence handling, photography, medical expertise, archives, and communication rules shape what later investigators can know.
 - Famous investigative failures can accelerate procedural change even when they never produce a conviction.
 - Bad original records make [[ContestedForensicAttribution]] more likely decades later.
 - Investigation is weakened when political pressure, community fear, or institutional reputation makes witnesses and officials manage consequences before facts.
+- Modern investigation depends on specialized roles, laboratory access, and expert testimony as much as on detective initiative.
 
 ## Connections
 - [[ScotlandYard]] and [[JackTheRipper]] - institutional and case context.
@@ -30,3 +33,4 @@ The source describes early practice as underdeveloped in evidence preservation, 
 - [[ChineseDetectiveModernity]] and [[GongAnFiction|公案小说]] - translation and older case-fiction contrast added by source 69.
 - [[VictimStigmaInTrueCrime]] - classification and media framing can affect investigative attention.
 - [[HenriettaSchmerler]], [[GurneySeymour]], and [[WhiteMountainApache]] - reservation-fieldwork case added by episode 113.
+- [[ForensicScience]], [[CalvinGoddard]], [[CSIEffect]], and [[TraceEvidenceForensics]] - source-121 extension into labs, specialization, and public expectations.

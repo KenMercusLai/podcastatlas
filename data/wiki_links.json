@@ -103,6 +103,10 @@
     "title": "120.蓝狐岛：伟大事业中的雄心与现实",
     "url": "/wiki/sources/120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218/"
   },
+  "121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343": {
+    "title": "121.极简法医鉴识手册：一切犯罪，皆有痕迹",
+    "url": "/wiki/sources/121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343/"
+  },
   "130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi": {
     "title": "130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏",
     "url": "/wiki/sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi/"
@@ -3183,6 +3187,10 @@
     "title": "Blindness-Memory Art Ideal",
     "url": "/wiki/concepts/blindnessmemoryartideal/"
   },
+  "BloodstainPatternAnalysis": {
+    "title": "Bloodstain Pattern Analysis",
+    "url": "/wiki/concepts/bloodstainpatternanalysis/"
+  },
   "Bloomberg": {
     "title": "Bloomberg",
     "url": "/wiki/entities/bloomberg/"
@@ -3218,6 +3226,10 @@
   "BobosOatBars": {
     "title": "Bobo's Oat Bars",
     "url": "/wiki/entities/bobosoatbars/"
+  },
+  "BodyFarmForensicResearch": {
+    "title": "Body Farm Forensic Research",
+    "url": "/wiki/concepts/bodyfarmforensicresearch/"
   },
   "Boeing": {
     "title": "Boeing",
@@ -3551,6 +3563,10 @@
     "title": "CRV",
     "url": "/wiki/entities/crv/"
   },
+  "CSIEffect": {
+    "title": "CSI Effect",
+    "url": "/wiki/concepts/csieffect/"
+  },
   "CSLewis": {
     "title": "C. S. Lewis / C.S. 刘易斯",
     "url": "/wiki/entities/cslewis/"
@@ -3602,6 +3618,10 @@
   "CaliforniaDeleteAct": {
     "title": "California Delete Act",
     "url": "/wiki/concepts/californiadeleteact/"
+  },
+  "CalvinGoddard": {
+    "title": "Calvin Goddard",
+    "url": "/wiki/entities/calvingoddard/"
   },
   "Cambricon": {
     "title": "Cambricon / 寒武纪",
@@ -5075,6 +5095,10 @@
     "title": "Criminal Law As Power Limitation",
     "url": "/wiki/concepts/criminallawaspowerlimitation/"
   },
+  "CriminalProfilingAsProbabilisticInference": {
+    "title": "Criminal Profiling As Probabilistic Inference",
+    "url": "/wiki/concepts/criminalprofilingasprobabilisticinference/"
+  },
   "CrisisForcedVerticalIntegration": {
     "title": "Crisis-Forced Vertical Integration",
     "url": "/wiki/concepts/crisisforcedverticalintegration/"
@@ -6226,6 +6250,10 @@
   "DropboxPaper": {
     "title": "Dropbox Paper",
     "url": "/wiki/entities/dropboxpaper/"
+  },
+  "DrowningForensicUncertainty": {
+    "title": "Drowning Forensic Uncertainty",
+    "url": "/wiki/concepts/drowningforensicuncertainty/"
   },
   "DryElectrodeManufacturing": {
     "title": "Dry Electrode Manufacturing",
@@ -7543,9 +7571,25 @@
     "title": "Foreign Banking In China",
     "url": "/wiki/concepts/foreignbankinginchina/"
   },
+  "ForensicDeathTimeInference": {
+    "title": "Forensic Death-Time Inference",
+    "url": "/wiki/concepts/forensicdeathtimeinference/"
+  },
+  "ForensicEntomology": {
+    "title": "Forensic Entomology",
+    "url": "/wiki/concepts/forensicentomology/"
+  },
   "ForensicHairEvidence": {
     "title": "Forensic Hair Evidence",
     "url": "/wiki/concepts/forensichairevidence/"
+  },
+  "ForensicScience": {
+    "title": "Forensic Science / 法证鉴识",
+    "url": "/wiki/concepts/forensicscience/"
+  },
+  "ForensicToxicology": {
+    "title": "Forensic Toxicology",
+    "url": "/wiki/concepts/forensictoxicology/"
   },
   "FormalSpecification": {
     "title": "Formal Specification",
@@ -9831,6 +9875,10 @@
     "title": "Ingrid Clayton",
     "url": "/wiki/entities/ingridclayton/"
   },
+  "InhalationPoisonPublicSafety": {
+    "title": "Inhalation Poison Public Safety",
+    "url": "/wiki/concepts/inhalationpoisonpublicsafety/"
+  },
   "InitializedCapital": {
     "title": "Initialized Capital",
     "url": "/wiki/entities/initializedcapital/"
@@ -10247,6 +10295,10 @@
     "title": "James Ax",
     "url": "/wiki/entities/jamesax/"
   },
+  "JamesBrussel": {
+    "title": "James Brussel",
+    "url": "/wiki/entities/jamesbrussel/"
+  },
   "JamesDamore": {
     "title": "James Damore",
     "url": "/wiki/entities/jamesdamore/"
@@ -10522,6 +10574,10 @@
   "JieDechen": {
     "title": "Jie Dechen",
     "url": "/wiki/entities/jiedechen/"
+  },
+  "JijianFayiJianshiShouce": {
+    "title": "《极简法医鉴识手册》",
+    "url": "/wiki/entities/jijianfayijianshishouce/"
   },
   "JimClark": {
     "title": "Jim Clark",
@@ -11046,6 +11102,10 @@
   "KenanVoiceChanger": {
     "title": "Kenan Voice Changer",
     "url": "/wiki/entities/kenanvoicechanger/"
+  },
+  "KennethBianchi": {
+    "title": "Kenneth Bianchi",
+    "url": "/wiki/entities/kennethbianchi/"
   },
   "KennethCole": {
     "title": "Kenneth Cole",
@@ -11946,6 +12006,10 @@
   "LocalizedInnovationAdvantage": {
     "title": "Localized Innovation Advantage",
     "url": "/wiki/concepts/localizedinnovationadvantage/"
+  },
+  "LocardsExchangePrinciple": {
+    "title": "Locard's Exchange Principle",
+    "url": "/wiki/concepts/locardsexchangeprinciple/"
   },
   "LogisticsCrisisResponse": {
     "title": "Logistics Crisis Response",
@@ -19463,6 +19527,10 @@
     "title": "Toyota / 丰田",
     "url": "/wiki/entities/toyota/"
   },
+  "TraceEvidenceForensics": {
+    "title": "Trace Evidence Forensics",
+    "url": "/wiki/concepts/traceevidenceforensics/"
+  },
   "TractionTools": {
     "title": "Traction Tools",
     "url": "/wiki/entities/tractiontools/"
@@ -20594,6 +20662,10 @@
   "WillaRemus": {
     "title": "Willa Remus",
     "url": "/wiki/entities/willaremus/"
+  },
+  "WilliamBass": {
+    "title": "William Bass",
+    "url": "/wiki/entities/williambass/"
   },
   "WilliamBennett": {
     "title": "William Bennett",
