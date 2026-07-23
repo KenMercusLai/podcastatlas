@@ -2,8 +2,8 @@
 title: "Adaptation Original-Text Confusion"
 type: concept
 tags: [adaptation, literature, media, interpretation]
-sources: [in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
-last_updated: 2026-07-16
+sources: [122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172, in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e, 64-bawangbieji-fengmo-yu-chenghuo-656094350, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
+last_updated: 2026-07-24
 ---
 
 # Adaptation Original-Text Confusion
@@ -11,6 +11,8 @@ last_updated: 2026-07-16
 Adaptation original-text confusion is the pattern where a famous adaptation becomes so culturally dominant that readers or viewers mistake its character design, plot emphasis, or moral structure for the literary original. In [[55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]], [[MihuanChishu|蜜獾吃书]] uses the [[TheWaltDisneyCompany|Disney]] Little Mermaid debate as the case: some self-described "原著党" objections are read as loyalty to the 1989 animated Ariel rather than to [[HansChristianAndersen|安徒生]]'s [[TheLittleMermaid|《海的女儿》]].
 
 The concept is not a blanket defense of every adaptation choice. The episode allows aesthetic preference and criticism, but asks critics to separate personal taste, Disney's industrial family-film formula, actual Andersen textual details, and attacks on the actor. It also notes that Disney's 1989 version already transformed the story substantially by shifting a tale about freedom, pain, and immortal soul toward a safer romance plot.
+
+[[122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172]] adds the [[AdventuresOfPinocchio|Pinocchio]] version of the same confusion. The episode says many listeners remember [[Pinocchio]] through [[TheWaltDisneyCompany|Disney]]: the long nose, whale, school lesson, and fairy reward. Returning to [[CarloCollodi|Collodi]]'s original reveals a harsher road story organized by hunger, hanging, prison, animal transformation, shark-belly darkness, and [[GrowthAsProtectorRole]].
 
 [[64-bawangbieji-fengmo-yu-chenghuo-656094350]] extends the adaptation branch through [[FarewellMyConcubine|《霸王别姬》]]. The episode compares the film's self-killing ending with the novel's later Hong Kong encounter, creating [[AdaptationEndingEthics]]: the question is not only whether an adaptation is accurate, but how a changed ending reshapes cruelty, romance, survival, and public memory.
 
@@ -25,9 +27,11 @@ The concept is not a blanket defense of every adaptation choice. The episode all
 - The more globally powerful an adaptation is, the more important [[ClassicReadingComplexity]] becomes.
 - A changed ending can become the dominant emotional memory of a work, making adaptation ethics a problem of effect as well as fidelity.
 - Long-running television familiarity can flatten a novel even when viewers love the work; affection and source knowledge are separate things.
+- A family-friendly adaptation can preserve a classic's cultural visibility while narrowing its remembered emotional range.
 
 ## Connections
 - [[TheLittleMermaid|《海的女儿》 / The Little Mermaid]] - central case.
+- [[AdventuresOfPinocchio|《木偶奇遇记》]], [[Pinocchio]], and [[CarloCollodi]] - episode 122's Disney-versus-original-text case.
 - [[TheWaltDisneyCompany]] - adaptation context.
 - [[HansChristianAndersen|安徒生 / Hans Christian Andersen]] - literary original context.
 - [[ClassicReadingComplexity]] - discipline for keeping text, memory, label, and adaptation separate.

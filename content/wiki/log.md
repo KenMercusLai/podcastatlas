@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-24] ingest | 122.匹诺曹：成长的惨痛及其所创作的
+
+Added source page for the 蜜獾吃书 episode on 《木偶奇遇记》, Carlo Collodi, Pinocchio beyond Disney memory, the briefness of the long-nose motif, the hero journey, dream logic, the Blue Fairy and Geppetto as parent figures, nonhuman becoming human, and growth through becoming a protector. Created pages for 《木偶奇遇记》 / The Adventures of Pinocchio, Pinocchio, Carlo Collodi, Geppetto, Blue Fairy, Joseph Campbell, Hero Journey Narrative, Nonhuman Becoming Human Motif, and Growth As Protector Role; updated overview, index, 蜜獾吃书, The Walt Disney Company, Adult Fairy-Tale Reading, Fairy-Tale Death And Spirituality, Adaptation Original-Text Confusion, Dream Logic Narrative, Children's Literature Complexity, Classic Reading Complexity, Robot-Human Boundary, and Embodied Personhood. No direct contradiction found; the source extends existing Andersen/Alice/Disney/personhood branches by showing that a children's classic can be beloved while remaining dark, painful, and resistant to safe moral paraphrase.
+
 ## [2026-07-24] ingest | 121.极简法医鉴识手册：一切犯罪，皆有痕迹
 
 Added source page for a 蜜獾吃书 episode on 《极简法医鉴识手册》, forensic science as法证鉴识, Locard's exchange principle, CSI effect, body farms, drowning uncertainty, bloodstain analysis, death-time inference, forensic entomology, toxicology, criminal profiling, feigned mental illness, and public poisoning risk. Created pages for the book, William Bass, Calvin Goddard, Kenneth Bianchi, James Brussel, Forensic Science, Locard's Exchange Principle, Trace Evidence Forensics, CSI Effect, Body Farm Forensic Research, Drowning Forensic Uncertainty, Forensic Death-Time Inference, Forensic Entomology, Bloodstain Pattern Analysis, Forensic Toxicology, Inhalation Poison Public Safety, and Criminal Profiling As Probabilistic Inference; updated overview, index, Contested Forensic Attribution, Modern Criminal Investigation Formation, Evidence Over Testimony, Internet Moral Trial, Animal Welfare As Public Health, Animal Abuse Violence Link, 蜜獾吃书, and 秦总. No direct contradiction found; the source extends existing forensic-evidence pages by showing that uncertainty and confidence limits apply to ordinary current investigations as well as old contaminated evidence.
@@ -4332,3 +4336,7 @@ Ran lint after health passed. Health found no empty/stub files, index drift, or 
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 5,818 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` is configured in the shell; a bounded in-session review of the orphan pages and fragile-bridge endpoints found no obvious direct contradictions. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 5,828 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` is configured in the shell. Report returned in-session; `wiki/lint-report.md` was not saved.

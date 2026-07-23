@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [122.匹诺曹：成长的惨痛及其所创作的](sources/122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172.md) — 蜜獾吃书 episode on 《木偶奇遇记》, Collodi, Pinocchio beyond Disney memory, the hero journey, dream logic, painful growth, and becoming human through responsibility.
 - [121.极简法医鉴识手册：一切犯罪，皆有痕迹](sources/121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343.md) — 蜜獾吃书 episode on 《极简法医鉴识手册》, forensic science, Locard's exchange principle, CSI effect, body farms, fingerprints, bloodstains, death-time inference, forensic entomology, toxicology, and public poisoning risk.
 - [120.蓝狐岛：伟大事业中的雄心与现实](sources/120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218.md) — 蜜獾吃书 episode on Vitus Bering, Peter the Great's maritime ambition, the Kamchatka and Great Northern expeditions, Steller, Bering Island survival, scurvy, Russian North Pacific expansion, and sea-otter extraction.
 - [119.安乐死现场：正因生命如此珍贵](sources/119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087.md) — 蜜獾吃书 episode on 《安乐死现场》, euthanasia and assisted suicide, Swiss Life Circle/Dignitas, Dutch/Belgian/U.S./Spanish/Japanese/Chinese cases, dignity, family ethics, medical safeguards, and the host's "不知道" stance.
@@ -538,6 +539,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《木偶奇遇记》 / The Adventures of Pinocchio](entities/AdventuresOfPinocchio.md) — Collodi fairy tale read by episode 122 as a dark, dreamlike growth story rather than a simple lying-nose moral.
+- [Pinocchio / 匹诺曹](entities/Pinocchio.md) — Animated puppet whose becoming human is read through repeated error, embodied suffering, and the shift into protecting Geppetto.
+- [Carlo Collodi / 卡洛·科洛迪](entities/CarloCollodi.md) — Italian author of 《木偶奇遇记》, presented by episode 122 through the serial origin, first hanging ending, and writer-made fairy-tale anxiety.
+- [Geppetto / 杰佩托](entities/Geppetto.md) — Pinocchio's father, whose sacrifice and later vulnerability make growth as protector role concrete.
+- [Blue Fairy / 蓝仙女](entities/BlueFairy.md) — Fairy and mother figure whose changing forms, apparent death, tests, and final dream praise shape Pinocchio's moral attachment.
+- [Joseph Campbell / 约瑟夫·坎贝尔](entities/JosephCampbell.md) — Mythology and narrative-theory figure used by episode 122 through the Hero Journey framework.
 - [《极简法医鉴识手册》](entities/JijianFayiJianshiShouce.md) — Forensic-science popularization book used by episode 121 to correct CSI-style certainty and introduce法证鉴识 as a court-facing evidence system.
 - [William Bass](entities/WilliamBass.md) — Forensic anthropologist used by episode 121 to explain body-farm decomposition research and death-time inference.
 - [Calvin Goddard](entities/CalvinGoddard.md) — Ballistics expert used by episode 121 through the St. Valentine's Day Massacre and comparison microscopy.
@@ -3554,6 +3561,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Hero Journey Narrative](concepts/HeroJourneyNarrative.md) — Mythic-growth frame used by episode 122 to read Pinocchio's tests, symbolic death, shark-belly descent, return, and transformation.
+- [Nonhuman Becoming Human Motif](concepts/NonhumanBecomingHumanMotif.md) — Transformation motif linking Pinocchio to mermaids, robots, cyborgs, spirits, embodiment, and personhood questions.
+- [Growth As Protector Role](concepts/GrowthAsProtectorRole.md) — Episode 122's growth frame where maturity appears when a protected child becomes capable of protecting parent figures.
 - [Forensic Science / 法证鉴识](concepts/ForensicScience.md) — Court-facing evidence system that includes medicine, laboratories, trace evidence, toxicology, psychology, and expert testimony rather than only autopsy work.
 - [Locard's Exchange Principle](concepts/LocardsExchangePrinciple.md) — Forensic premise that contact leaves exchanged traces, grounding episode 121's "一切犯罪，皆有痕迹" frame.
 - [Trace Evidence Forensics](concepts/TraceEvidenceForensics.md) — Investigation of small transferred materials such as hair, pollen, fibers, soil, blood, and residues.

@@ -107,6 +107,10 @@
     "title": "121.极简法医鉴识手册：一切犯罪，皆有痕迹",
     "url": "/wiki/sources/121-jijian-fayi-jianshi-shouce-yiqie-fanzui-jieyou-henji-775064343/"
   },
+  "122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172": {
+    "title": "122.匹诺曹：成长的惨痛及其所创作的",
+    "url": "/wiki/sources/122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172/"
+  },
   "130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi": {
     "title": "130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏",
     "url": "/wiki/sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi/"
@@ -1514,6 +1518,10 @@
   "AdventuresOfBaronMunchausen": {
     "title": "《吹牛大王历险记》 / Adventures of Baron Munchausen",
     "url": "/wiki/entities/adventuresofbaronmunchausen/"
+  },
+  "AdventuresOfPinocchio": {
+    "title": "《木偶奇遇记》 / The Adventures of Pinocchio",
+    "url": "/wiki/entities/adventuresofpinocchio/"
   },
   "AeroFS": {
     "title": "AeroFS",
@@ -3207,6 +3215,10 @@
     "title": "Blue Dot",
     "url": "/wiki/entities/bluedot/"
   },
+  "BlueFairy": {
+    "title": "Blue Fairy / 蓝仙女",
+    "url": "/wiki/entities/bluefairy/"
+  },
   "BlueOwlCapital": {
     "title": "Blue Owl Capital",
     "url": "/wiki/entities/blueowlcapital/"
@@ -3778,6 +3790,10 @@
   "CarlSchmitt": {
     "title": "Carl Schmitt",
     "url": "/wiki/entities/carlschmitt/"
+  },
+  "CarloCollodi": {
+    "title": "Carlo Collodi / 卡洛·科洛迪",
+    "url": "/wiki/entities/carlocollodi/"
   },
   "CarlotaPerez": {
     "title": "Carlota Perez",
@@ -8299,6 +8315,10 @@
     "title": "Georgia Banjo",
     "url": "/wiki/entities/georgiabanjo/"
   },
+  "Geppetto": {
+    "title": "Geppetto / 杰佩托",
+    "url": "/wiki/entities/geppetto/"
+  },
   "Germany": {
     "title": "Germany",
     "url": "/wiki/entities/germany/"
@@ -8594,6 +8614,10 @@
   "Grouper": {
     "title": "Grouper",
     "url": "/wiki/entities/grouper/"
+  },
+  "GrowthAsProtectorRole": {
+    "title": "Growth As Protector Role",
+    "url": "/wiki/concepts/growthasprotectorrole/"
   },
   "GrowthROILayers": {
     "title": "Growth ROI Layers",
@@ -9150,6 +9174,10 @@
   "HermesAgent": {
     "title": "Hermes Agent",
     "url": "/wiki/entities/hermesagent/"
+  },
+  "HeroJourneyNarrative": {
+    "title": "Hero Journey Narrative",
+    "url": "/wiki/concepts/herojourneynarrative/"
   },
   "HeyTea": {
     "title": "HeyTea / 喜茶",
@@ -10802,6 +10830,10 @@
   "JoseiEiseiYouhinNoShakaishi": {
     "title": "《女性卫生用品的社会史》",
     "url": "/wiki/entities/joseieiseiyouhinnoshakaishi/"
+  },
+  "JosephCampbell": {
+    "title": "Joseph Campbell / 约瑟夫·坎贝尔",
+    "url": "/wiki/entities/josephcampbell/"
   },
   "JosephSchumpeter": {
     "title": "Joseph Schumpeter",
@@ -14015,6 +14047,10 @@
     "title": "Nonfiction Publicness",
     "url": "/wiki/concepts/nonfictionpublicness/"
   },
+  "NonhumanBecomingHumanMotif": {
+    "title": "Nonhuman Becoming Human Motif",
+    "url": "/wiki/concepts/nonhumanbecominghumanmotif/"
+  },
   "NonhumanNarrativeVoice": {
     "title": "Nonhuman Narrative Voice",
     "url": "/wiki/concepts/nonhumannarrativevoice/"
@@ -15074,6 +15110,10 @@
   "PingyaoAncientCity": {
     "title": "Pingyao Ancient City / 平遥古城",
     "url": "/wiki/entities/pingyaoancientcity/"
+  },
+  "Pinocchio": {
+    "title": "Pinocchio / 匹诺曹",
+    "url": "/wiki/entities/pinocchio/"
   },
   "PiotrZilevsky": {
     "title": "Piotr Zilevsky",
