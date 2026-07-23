@@ -2,7 +2,7 @@
 title: "Rational Humility"
 type: concept
 tags: [reasoning, science, evidence, epistemology]
-sources: [100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 174-du-dikaer-shi-jian-dashi-966856702, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
+sources: [113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827, 100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 174-du-dikaer-shi-jian-dashi-966856702, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
 last_updated: 2026-07-24
 ---
 
@@ -22,6 +22,8 @@ The episode treats this as Eco's correction to detective and scientific arroganc
 
 [[100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302]] adds a legal version through [[LuoXiang|罗翔]]'s [[TheParadoxOfLaw|《法律的悖论》]]. [[LegalParadoxThinking]] treats criminal-law questions as places where plausible arguments can conflict, so the fact that an answer feels obvious is itself a warning sign rather than proof that judgment is complete.
 
+[[113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827]] adds an anthropology and victim-protection version. The episode refuses single-answer certainty in two directions at once: racist explanations of violence are too easy, but cultural-relativist defenses that erase [[FieldworkSexualViolence]] are also too easy.
+
 ## Key Claims
 - Guessing is not the enemy of reason when guesses remain open to correction.
 - A good explanation must survive evidence, chronology, and rival hypotheses, not only feel elegant.
@@ -32,6 +34,7 @@ The episode treats this as Eco's correction to detective and scientific arroganc
 - Cartesian doubt can give a starting point without making all downstream reasoning immune to criticism.
 - Sagan-style skepticism adds a public-science form: do not deny wonder, but do not let wonder outrun [[ScientificSelfCorrection]], [[EvidenceOverTestimony]], or [[AppealToIgnorance]] checks.
 - Legal humility adds that punishment, sympathy, freedom, and state-power limits can each be partly right without any one of them becoming a complete answer.
+- Cross-cultural humility should slow overconfident judgment while still preserving accountability for concrete harm.
 
 ## Connections
 - [[ReneDescartes]], [[MethodicDoubt]], [[CogitoErgoSum]], and [[RationalistMethod]] - Descartes branch that clarifies foundation-seeking versus total certainty.
@@ -44,3 +47,4 @@ The episode treats this as Eco's correction to detective and scientific arroganc
 - [[Flatland|《平面国》 / Flatland]], [[DimensionalAllegory]], and [[ReadingAsDimensionalExpansion]] - episode 40's dimensional extension.
 - [[ScientificSkepticism]], [[ScientificSelfCorrection]], [[EvidenceOverTestimony]], and [[UFOConspiracyCulture]] - episode 185's skepticism and pseudoscience extension.
 - [[LuoXiang|罗翔]], [[TheParadoxOfLaw|《法律的悖论》]], and [[LegalParadoxThinking]] - law-philosophy extension added by episode 100.
+- [[CulturalRelativismVictimProtectionBoundary]], [[AnthropologyFieldworkSafety]], and [[VictimBlamingAsInstitutionalDefense]] - episode 113's anthropology and victim-protection extension.

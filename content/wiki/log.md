@@ -4188,6 +4188,10 @@ Added source page for a 蜜獾吃书 episode on 金庸 as culturally dense popul
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-24] ingest | 113.亨丽埃塔与那场将人类学送上审判席的谋杀案
+
+Added source page for a 蜜獾吃书 episode on Henrietta Schmerler's 1931 murder during White Mountain Apache fieldwork, anthropology fieldwork safety, sexual violence risk, media and trial victim-blaming, Columbia anthropology's disciplinary self-protection, and the boundary between cultural relativism and victim protection. Created pages for Henrietta Schmerler, Gurney Seymour, White Mountain Apache, Donner, Ruth Benedict, Margaret Mead, Franz Boas, the source book, Lin Yuping, Anthropology Fieldwork Safety, Fieldwork Sexual Violence, Victim Blaming As Institutional Defense, Disciplinary Self-Protection After Harm, and Cultural Relativism Victim Protection Boundary; updated overview, index, 蜜獾吃书, 秦总, 北明 / 北民, Columbia University, Victim Stigma In True Crime, Modern Criminal Investigation Formation, Evidence Over Testimony, Law-Morality Boundary, Rational Humility, and Female Self-Possession. No direct contradiction found; the source extends the true-crime and law-morality branches by showing how anti-racist caution, field access, courtroom strategy, and institutional reputation can coexist with, but must not override, victim protection and concrete accountability.
+
 ## [2026-07-24] ingest | 105.苏东坡：一腔豪迈之气，一肚皮不合时宜
 
 Added source page for a 蜜獾吃书 episode on 苏轼/苏东坡 as a flawed cultural icon whose optimism is earned through family formation, Wang Anshi's reforms, Song factional politics, the Wutai Poetry Case, Huangzhou exile, Red Cliff works, and practical local service in Hangzhou, Xuzhou, Huizhou, and Danzhou. Created pages for Su Shi, Su Xun, Su Zhe, Cheng Furen, Ouyang Xiu, Wang Anshi, Song Shenzong, Sima Guang, Northern Song, Wang Fu, Wang Chaoyun, Wutai Poetry Case, Huangzhou, Hangzhou, Xuzhou, Huizhou, Danzhou, Su Causeway, Dongpo Rou, Red Cliff Fu, Nian Nu Jiao: Reminiscence at Red Cliff, Ding Feng Bo, Earned Optimism, Conscience Over Faction, Scholar-Official Public Duty, Song Factional Politics, Wang Anshi Reforms, Poetry As Political Evidence, and Local Governance As Care; updated overview, index, 蜜獾吃书, Classic Reading Complexity, Author Myth Deflation, Disaster Response State Capacity, and Changzhou. No direct contradiction found; the source qualifies the wiki's existing classic-reading and responsibility themes by making Su Dongpo's cheerfulness inseparable from fear, grief, public work, and conscience under factional pressure.
@@ -4247,6 +4251,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-24] ingest | 106.别再害怕冲突，快来学习谈判术！
 
 Added source page for a 蜜獾吃书 episode in which 秦总 recommends 《哈佛经典谈判术》 and reframes negotiation as learnable "商量" rather than talent, obedience, or emotional fighting. Created pages for 《哈佛经典谈判术》, Deepak Malhotra, Max Bazerman, Theodore Roosevelt, Albert Einstein, Institute for Advanced Study, National Hockey League, NHL Players' Association, Negotiation As Bargaining, BATNA, Reservation Value, Zone Of Possible Agreement, Anchoring Effect, Concession Signaling, Multi-Issue Negotiation, Contingent Agreement, Zero-Sum Bias, Escalation Of Commitment, Framing Effect, Motivated Bias, and Interest-Based Negotiation; updated overview, index, 蜜獾吃书, 秦总, Game Theory, Sports Collective Bargaining, Strike Threat as BATNA, Data-Backed Labor Bargaining, Cost-Benefit Thinking, Opportunity Cost, Communication Boundary Setting, and Action Against Anxiety. No direct contradiction found; the source extends the wiki's labor-bargaining and life-design material by making conflict calculable through alternatives, bottom lines, interests, and bias controls.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-24] lint | Wiki health check
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [113.亨丽埃塔与那场将人类学送上审判席的谋杀案](sources/113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827.md) — 蜜獾吃书 episode on Henrietta Schmerler's 1931 fieldwork murder, anthropology fieldwork safety, victim-blaming, sexual violence, and the boundary between cultural relativism and victim protection.
 - [106.别再害怕冲突，快来学习谈判术！](sources/106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645.md) — 蜜獾吃书 episode on negotiation as learnable bargaining, BATNA, reservation value, anchoring, concessions, multi-issue trades, contingent agreements, and cognitive biases in conflict.
 - [105.苏东坡：一腔豪迈之气，一肚皮不合时宜](sources/105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645.md) — 蜜獾吃书 episode on Su Shi/Su Dongpo, Three Su family formation, Wang Anshi's reforms, Song factional politics, the Wutai Poetry Case, Huangzhou exile, Red Cliff works, Hangzhou/Xuzhou public works, and earned optimism.
 - [104.你一生的故事：终点已经注定，还要出发吗？](sources/104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680.md) — 蜜獾吃书 episode on Ted Chiang, 《你一生的故事》, 《降临》, heptapod language, Fermat's principle, nonlinear time, free will, mathematical collapse, fixed time loops, and consciousness.
@@ -528,6 +529,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Henrietta Schmerler / 亨丽埃塔·施梅勒](entities/HenriettaSchmerler.md) — Columbia anthropology student whose 1931 fieldwork murder anchors the episode's fieldwork-safety and victim-blaming branch.
+- [Gurney Seymour / 高尔尼·西摩尔](entities/GurneySeymour.md) — Man the source presents as convicted for Schmerler's murder, central to the trial, confession, recantation, and cultural-defense discussion.
+- [White Mountain Apache / 怀特山区阿帕齐](entities/WhiteMountainApache.md) — Reservation and community setting for the Schmerler fieldwork case, kept source-scoped to avoid reducing one crime to culture.
+- [唐纳 / Donner](entities/DonnerApacheAgent.md) — Reservation official in the episode whose access and housing decisions shape the fieldwork-safety and post-crime interpretation branch.
+- [Ruth Benedict / 本尼狄克特](entities/RuthBenedict.md) — Columbia anthropologist linked by the source to Schmerler's fieldwork path and anthropology's post-murder self-protection.
+- [Margaret Mead / 米德](entities/MargaretMead.md) — Anthropologist appearing through the source's account of disciplinary reaction, women's fieldwork risk, and victim-blaming tension.
+- [Franz Boas / 博尔斯](entities/FranzBoas.md) — Senior Columbia anthropology figure who the source says funded Schmerler's fieldwork and later sat inside the cultural-relativism accountability conflict.
+- [《亨丽埃塔与那场将人类学送上审判席的谋杀案》](entities/HenriettaSchmerlerMurderBook.md) — Book discussed by episode 113, reconstructed by Schmerler's relatives from family evidence, letters, and clippings.
+- [林玉萍 / Lin Yuping](entities/LinYuping.md) — Contemporary anthropology fieldwork sexual-violence comparison used by the episode to avoid cultural or geographic simplification.
 - [《哈佛经典谈判术》](entities/HarvardClassicNegotiation.md) — Book used by 蜜獾吃书 to frame negotiation as learnable preparation, information discovery, value creation, and bias management.
 - [Deepak Malhotra / 马尔霍特拉](entities/DeepakMalhotra.md) — Negotiation scholar named as an author of 《哈佛经典谈判术》.
 - [Max Bazerman / 马克斯·巴兹曼](entities/MaxBazerman.md) — Behavioral decision and negotiation scholar named as an author of 《哈佛经典谈判术》.
@@ -3455,6 +3465,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Anthropology Fieldwork Safety](concepts/AnthropologyFieldworkSafety.md) — Institutional fieldwork-safety frame covering housing, access, mentoring, gendered risk, local politics, and post-harm responsibility.
+- [Fieldwork Sexual Violence](concepts/FieldworkSexualViolence.md) — Fieldwork risk pattern where sexual violence and its aftermath are shaped by gender, access, power, retaliation, and institutional silence.
+- [Victim Blaming As Institutional Defense](concepts/VictimBlamingAsInstitutionalDefense.md) — Pattern where institutions protect reputation or access by recoding harm as the victim's bad judgment.
+- [Disciplinary Self-Protection After Harm](concepts/DisciplinarySelfProtectionAfterHarm.md) — Academic-professional response pattern where a field protects methods, access, and senior figures before fully accounting for a victim.
+- [Cultural Relativism Victim Protection Boundary](concepts/CulturalRelativismVictimProtectionBoundary.md) — Ethical boundary between respecting cultural difference and preserving accountability for concrete violence.
 - [Negotiation As Bargaining / 谈判即商量](concepts/NegotiationAsBargaining.md) — Frame that treats negotiation as learnable interest exchange and calculable conflict handling.
 - [BATNA / Best Alternative to a Negotiated Agreement](concepts/BATNA.md) — Best no-deal alternative used to ground negotiation leverage and bottom lines.
 - [Reservation Value / 谈判底线](concepts/ReservationValue.md) — Bottom line derived from BATNA rather than emotion, sunk cost, or vague fairness.

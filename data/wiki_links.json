@@ -71,6 +71,10 @@
     "title": "112. 闲聊金庸第一弹：明教竟然今天还存在？",
     "url": "/wiki/sources/112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095/"
   },
+  "113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827": {
+    "title": "113.亨丽埃塔与那场将人类学送上审判席的谋杀案",
+    "url": "/wiki/sources/113-henglieta-yu-nachang-jiang-renleixue-songshang-shenpanxi-de-moushaan-756562827/"
+  },
   "130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi": {
     "title": "130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏",
     "url": "/wiki/sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi/"
@@ -2106,6 +2110,10 @@
   "Anthropic": {
     "title": "Anthropic",
     "url": "/wiki/entities/anthropic/"
+  },
+  "AnthropologyFieldworkSafety": {
+    "title": "Anthropology Fieldwork Safety",
+    "url": "/wiki/concepts/anthropologyfieldworksafety/"
   },
   "AntiAnthropocentricSatire": {
     "title": "Anti-Anthropocentric Satire",
@@ -5059,6 +5067,10 @@
     "title": "Culinary Identity Transformation",
     "url": "/wiki/concepts/culinaryidentitytransformation/"
   },
+  "CulturalRelativismVictimProtectionBoundary": {
+    "title": "Cultural Relativism Victim Protection Boundary",
+    "url": "/wiki/concepts/culturalrelativismvictimprotectionboundary/"
+  },
   "CultureLedFoodAdoption": {
     "title": "Culture-Led Food Adoption",
     "url": "/wiki/concepts/cultureledfoodadoption/"
@@ -5795,6 +5807,10 @@
     "title": "Disaster Sensory History",
     "url": "/wiki/concepts/disastersensoryhistory/"
   },
+  "DisciplinarySelfProtectionAfterHarm": {
+    "title": "Disciplinary Self-Protection After Harm",
+    "url": "/wiki/concepts/disciplinaryselfprotectionafterharm/"
+  },
   "DiscourseOnMethod": {
     "title": "Discourse on Method / 《谈谈方法》",
     "url": "/wiki/entities/discourseonmethod/"
@@ -5962,6 +5978,10 @@
   "DongyueDadi": {
     "title": "东岳大帝",
     "url": "/wiki/entities/dongyuedadi/"
+  },
+  "DonnerApacheAgent": {
+    "title": "唐纳 / Donner",
+    "url": "/wiki/entities/donnerapacheagent/"
   },
   "DonroeDoctrine": {
     "title": "Donroe Doctrine",
@@ -7051,6 +7071,10 @@
     "title": "Field-First Vertical SaaS",
     "url": "/wiki/concepts/fieldfirstverticalsaas/"
   },
+  "FieldworkSexualViolence": {
+    "title": "Fieldwork Sexual Violence",
+    "url": "/wiki/concepts/fieldworksexualviolence/"
+  },
   "FifthDimension": {
     "title": "The Fifth Dimension / 第五维度",
     "url": "/wiki/entities/fifthdimension/"
@@ -7574,6 +7598,10 @@
   "FrankishPortraiturePressure": {
     "title": "Frankish Portraiture Pressure",
     "url": "/wiki/concepts/frankishportraiturepressure/"
+  },
+  "FranzBoas": {
+    "title": "Franz Boas / 博尔斯",
+    "url": "/wiki/entities/franzboas/"
   },
   "FredWertheimer": {
     "title": "Fred Wertheimer",
@@ -8411,6 +8439,10 @@
     "title": "郭沫若",
     "url": "/wiki/entities/guomoruo/"
   },
+  "GurneySeymour": {
+    "title": "Gurney Seymour / 高尔尼·西摩尔",
+    "url": "/wiki/entities/gurneyseymour/"
+  },
   "GushiBian": {
     "title": "古史辨 / Doubting Antiquity",
     "url": "/wiki/concepts/gushibian/"
@@ -8790,6 +8822,14 @@
   "HenriPierreRoche": {
     "title": "Henri-Pierre Roche / 亨利-皮埃尔·罗什",
     "url": "/wiki/entities/henripierreroche/"
+  },
+  "HenriettaSchmerler": {
+    "title": "Henrietta Schmerler / 亨丽埃塔·施梅勒",
+    "url": "/wiki/entities/henriettaschmerler/"
+  },
+  "HenriettaSchmerlerMurderBook": {
+    "title": "《亨丽埃塔与那场将人类学送上审判席的谋杀案》",
+    "url": "/wiki/entities/henriettaschmerlermurderbook/"
   },
   "HenryDavidThoreau": {
     "title": "Henry David Thoreau / 梭罗",
@@ -11399,6 +11439,10 @@
     "title": "Lin Wei",
     "url": "/wiki/entities/linwei/"
   },
+  "LinYuping": {
+    "title": "林玉萍 / Lin Yuping",
+    "url": "/wiki/entities/linyuping/"
+  },
   "LinYuqin": {
     "title": "林玉沁",
     "url": "/wiki/entities/linyuqin/"
@@ -12114,6 +12158,10 @@
   "MarchHare": {
     "title": "March Hare / 三月兔",
     "url": "/wiki/entities/marchhare/"
+  },
+  "MargaretMead": {
+    "title": "Margaret Mead / 米德",
+    "url": "/wiki/entities/margaretmead/"
   },
   "MarginOfSafety": {
     "title": "Margin Of Safety",
@@ -16283,6 +16331,10 @@
     "title": "Russo-Chinese Bank",
     "url": "/wiki/entities/russochinesebank/"
   },
+  "RuthBenedict": {
+    "title": "Ruth Benedict / 本尼狄克特",
+    "url": "/wiki/entities/ruthbenedict/"
+  },
   "RyanPetersen": {
     "title": "Ryan Petersen",
     "url": "/wiki/entities/ryanpetersen/"
@@ -19563,6 +19615,10 @@
     "title": "Vibe Song",
     "url": "/wiki/entities/vibesong/"
   },
+  "VictimBlamingAsInstitutionalDefense": {
+    "title": "Victim Blaming As Institutional Defense",
+    "url": "/wiki/concepts/victimblamingasinstitutionaldefense/"
+  },
   "VictimStigmaInTrueCrime": {
     "title": "Victim Stigma In True Crime",
     "url": "/wiki/concepts/victimstigmaintruecrime/"
@@ -20030,6 +20086,10 @@
   "WhiteHouse": {
     "title": "White House",
     "url": "/wiki/entities/whitehouse/"
+  },
+  "WhiteMountainApache": {
+    "title": "White Mountain Apache / 怀特山区阿帕齐",
+    "url": "/wiki/entities/whitemountainapache/"
   },
   "WhiteRabbit": {
     "title": "White Rabbit / 白兔",
