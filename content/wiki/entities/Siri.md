@@ -2,11 +2,13 @@
 title: "Siri"
 type: entity
 tags: [ai-tool, assistant, platform]
-sources: [vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]
-last_updated: 2026-07-12
+sources: [vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-07-23
 ---
 
 # Siri
+
+[[tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]] adds a Marketplace Tech Bytes update that [[Apple]] announced it would use [[Google]] [[Gemini]] for advanced AI features, including the long-awaited new Siri. [[AnitaRamaswamy]] says the updated assistant is expected to have memory and may arrive as a subtle interface change rather than a flashy redesign.
 
 Siri is discussed in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] as [[Apple]]'s assistant and possible carrier for stronger AI capability. The hosts treat a Gemini-enhanced Siri as strategically important because it could move agentic workflows into the phone operating system rather than leaving them in separate apps.
 

@@ -2,13 +2,15 @@
 title: "Apple Intelligence"
 type: entity
 tags: [ai, apple, assistant, platform]
-sources: [wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]
-last_updated: 2026-07-12
+sources: [wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-07-23
 ---
 
 # Apple Intelligence
 
 Apple Intelligence is discussed in [[wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]] as [[Apple]]'s post-WWDC AI system layer and the missing bridge between old [[Siri]] and a more capable personal assistant. The episode treats it as meaningful progress because Apple can integrate AI into operating-system context, device sensors, camera input, messages, email, and app-level actions.
+
+[[tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]] adds an earlier Marketplace Tech frame: Apple Intelligence features had trickled out, but the host says the Apple interface had not yet received a full AI makeover. The same episode treats [[Gemini]] support for advanced [[Siri]] features as a capability bridge while leaving the user-facing result uncertain.
 
 The same source argues that Apple Intelligence is not yet enough to define the next assistant era. The limits are model capability, ecosystem adoption, app/platform bargaining, multimodal interaction, and the absence of a mature AI-native permission and service-execution layer.
 

@@ -3087,6 +3087,10 @@
     "title": "Boyu Capital / 博裕资本",
     "url": "/wiki/entities/boyucapital/"
   },
+  "BradSmith": {
+    "title": "Brad Smith",
+    "url": "/wiki/entities/bradsmith/"
+  },
   "BrandImpersonationMonitoring": {
     "title": "Brand Impersonation Monitoring",
     "url": "/wiki/concepts/brandimpersonationmonitoring/"
@@ -13055,6 +13059,10 @@
     "title": "Nvidia Blackwell Platform",
     "url": "/wiki/entities/nvidiablackwellplatform/"
   },
+  "NvidiaH200": {
+    "title": "Nvidia H200",
+    "url": "/wiki/entities/nvidiah200/"
+  },
   "NvidiaVeraRubinPlatform": {
     "title": "Nvidia Vera Rubin Platform",
     "url": "/wiki/entities/nvidiaverarubinplatform/"
@@ -15478,6 +15486,10 @@
   "RonConway": {
     "title": "Ron Conway",
     "url": "/wiki/entities/ronconway/"
+  },
+  "RonDeSantis": {
+    "title": "Ron DeSantis",
+    "url": "/wiki/entities/rondesantis/"
   },
   "RonHash": {
     "title": "Ron Hash",
@@ -21142,6 +21154,10 @@
   "tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128": {
     "title": "Teaching students to 'be better than a robot'",
     "url": "/wiki/sources/tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128/"
+  },
+  "tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128": {
+    "title": "Bytes: Week in Review - New chip exports for China, Microsoft to pay electricity for AI data centers, and Gemini will power Apple's AI",
+    "url": "/wiki/sources/tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128/"
   },
   "tech-20260120-0120-mp-tech-pod-128-tech-20260120-0120-mp-tech-pod-128": {
     "title": "How \\\"surveillance pricing\\\" charges one online customer more than another for the same item",

@@ -2,8 +2,8 @@
 title: "Data Center Cost Shifting"
 type: concept
 tags: [ai, data-centers, energy, regulation]
-sources: [tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
-last_updated: 2026-07-17
+sources: [tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-07-23
 ---
 
 # Data Center Cost Shifting
@@ -15,6 +15,8 @@ The concept connects AI buildout to public finance. Data centers may create dema
 [[tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128]] adds a tax-expenditure cousin to cost shifting. [[DataCenterTaxIncentives]] do not shift grid costs through utility rates, but they can shift public burden by waiving sales, electricity, or property-tax revenue that governments might otherwise collect.
 
 [[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]] reinforces the bill-impact version through the [[Oracle]] Michigan project discussion. [[AnitaRamaswamy]] says everyday consumers can see utility prices rise as utilities make room for AI data centers, tying cost shifting to [[DataCenterBacklash]] and [[DataCenterDebtRisk]].
+
+[[tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]] adds a corporate-pledge response through [[Microsoft]] and [[BradSmith]]. The episode says Microsoft announced it would pay more for electricity and forgo some tax incentives, making cost shifting a public trust and affordability issue that hyperscalers may have to address before local opposition blocks projects.
 
 [[tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]] adds the moratorium-pressure version. New York's hyperscale data-center pause is framed partly around utility bills, water supply, and other local burdens, showing how perceived cost shifting can support construction freezes rather than only rate-case debate.
 

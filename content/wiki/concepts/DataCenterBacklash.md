@@ -2,8 +2,8 @@
 title: "Data Center Backlash"
 type: concept
 tags: [ai, infrastructure, local-politics]
-sources: [tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, kate-crawford-mapping-empires, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
-last_updated: 2026-07-17
+sources: [tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, kate-crawford-mapping-empires, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-07-23
 ---
 
 # Data Center Backlash
@@ -19,6 +19,8 @@ The concept extends the wiki's AI infrastructure branch from technical continuit
 [[tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128]] adds the tax-incentive version. If states waive sales, electricity, or property-tax revenue to attract facilities that create limited permanent jobs, [[DataCenterTaxIncentives]] can become another reason communities question whether AI infrastructure benefits are fairly shared.
 
 [[tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128]] adds the financing-delay version. The episode discusses an [[Oracle]]-linked Michigan project where local rezoning pushback, a lawsuit and settlement, and utility-price concerns are tied to [[BlueOwlCapital]]'s reported withdrawal from project financing. In that frame, backlash can become part of [[DataCenterDebtRisk]], not only a civic or regulatory issue.
+
+[[tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]] adds the canceled-project and election-politics version. [[AnitaRamaswamy]] cites Heatmap's estimate that 25 large hyperscale data centers were canceled after community pushback, describes the opposition as mixing anti-tech populism, environmental justice, and NIMBY concerns, and uses [[RonDeSantis]] to show that data centers can become a state-level AI regulation issue.
 
 [[tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]] adds the state-moratorium version. The [[MarketplaceTech]] Bytes episode says New York paused hyperscale data-center construction for one year, and that other states or lawmaking bodies have considered similar restrictions. This turns backlash from local opposition into [[HyperscaleDataCenterMoratorium]]: a formal policy tool for reassessing water use, power demand, land use, noise, tax breaks, and utility-bill exposure.
 

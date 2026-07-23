@@ -2,7 +2,7 @@
 title: "Jensen Huang"
 type: entity
 tags: [person, ai, semiconductors, investing]
-sources: [e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]
+sources: [e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
 last_updated: 2026-07-23
 ---
 
@@ -15,6 +15,8 @@ Jensen Huang appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-
 [[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] adds Huang as an ecosystem-learning example. The hosts emphasize his engineering background, attention to research, and early support for academic GPU use to explain why Nvidia's AI positioning looks like deliberate ecosystem construction rather than reactive trend following.
 
 [[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] adds Huang through his public response to reporting that [[Nvidia]]'s planned [[OpenAI]] investment was stalled. The episode says Huang called the report "nonsense" and said Nvidia would still make a huge OpenAI investment, while the segment also frames Nvidia as needing to balance OpenAI against other major AI customers.
+
+[[tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]] adds Huang through the argument for selling [[NvidiaH200|H200]] chips into [[China]] under controlled conditions. In [[AnitaRamaswamy]]'s summary, his position is that Chinese AI companies relying on American infrastructure may be preferable to pushing them entirely toward domestic alternatives, tying Huang to [[AIExportControls]] and [[DomesticAIChipCatchUp]].
 
 [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] adds Huang as a capacity-locking operator. The source says his frequent Asia trips are interpreted as attempts to secure [[TSMC]] and memory-supplier capacity, tying Nvidia's product roadmap to [[MemoryCapacityLockIn]] and the [[AIStorageSupercycle]].
 

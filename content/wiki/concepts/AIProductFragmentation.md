@@ -2,8 +2,8 @@
 title: "AI Product Fragmentation"
 type: concept
 tags: [ai, product, platforms]
-sources: [tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa]
-last_updated: 2026-07-12
+sources: [tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-07-23
 ---
 
 # AI Product Fragmentation
@@ -13,6 +13,8 @@ AI product fragmentation is the gap between strong model capability and a cohere
 [[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] adds the Apple-timing version. Before WWDC 2026, the hosts describe [[Apple]] as having strong platform distribution but pressure to show whether [[Siri]], Apple Intelligence, and possible [[Gemini]] integration can become a coherent answer to faster-moving [[AgenticSoftware]].
 
 [[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] adds the model-partner version. The hosts treat [[Gemini]] as a plausible [[Siri]] partner because [[OpenAI]] is closer to [[Microsoft]], but they also warn that a strong model still needs OS, browser, IDE, shopping, or voice surfaces that make the capability obvious to users.
+
+[[tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]] adds the distribution proof point from the opposite direction. [[Apple]] can reduce its model-capability gap by using [[Google]] [[Gemini]] for advanced [[Siri]] features, but the episode still frames the real test as whether Apple turns gradual [[AppleIntelligence]] features into a coherent interface rather than another set of scattered AI additions.
 
 [[ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa]] adds the [[Alibaba]] version through [[Quark]] and [[Qwen]]. The hosts ask why Alibaba would push Qwen as a separate assistant when Quark already has search, browser, netdisk, and assistant-like surfaces; their answer is that Quark's inherited product identity may make it harder to become the clean [[AIAssistantServiceEntry]] brand Alibaba needs.
 

@@ -2,8 +2,8 @@
 title: "Huawei"
 type: entity
 tags: [company, china, semiconductors, telecom, organization]
-sources: [cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027]
-last_updated: 2026-07-17
+sources: [cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, dang-huawei-paochu-tao-dinglv-women-gai-xin-ta-dao-na-yibu-keji-luandun, momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-07-23
 ---
 
 # Huawei
@@ -13,6 +13,8 @@ Huawei is the central company in [[dang-huawei-paochu-tao-dinglv-women-gai-xin-t
 The source's main interpretation is that [[TauLaw]] fits Huawei because it can function at several levels at once: a chip-performance metric, a semiconductor-system roadmap, an internal KPI, a public communication device, and a supply-chain autonomy story. [[HiSilicon]], [[RenZhengfei]], "backup plan" culture, pressure-focused resource allocation, and industry-legion delivery all become part of the explanation for why Huawei would package [[Semiconductor3DStacking]] and latency reduction as a law-like doctrine.
 
 [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] adds Huawei to the domestic AI memory branch. The source says Huawei's newest 950 system uses self-developed HBM in the source's account, making Huawei a demand and architecture signal for Chinese [[HighBandwidthMemory]], [[MemoryWall]], and [[MemoryCapacityLockIn]] strategies.
+
+[[tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]] adds Huawei as the named domestic alternative in the [[NvidiaH200|Nvidia H200]] China export-control discussion. [[AnitaRamaswamy]] says China wants to support homegrown companies such as Huawei in developing more advanced AI chips, reinforcing [[DomesticAIChipCatchUp]] and the idea that export controls can also accelerate substitution pressure.
 
 [[momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1]] adds Huawei as [[Momenta]]'s main third-party advanced-driving comparison in [[CaoXudong]]'s account. Cao says Momenta and Huawei together dominate third-party city NOA share in China, and treats both as beneficiaries of scale, R&D intensity, and the [[AutonomousDrivingDataFlywheel]] dynamic.
 

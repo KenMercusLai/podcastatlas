@@ -2,8 +2,8 @@
 title: "AI Backlash Politics"
 type: concept
 tags: [ai, politics, public-opinion]
-sources: [tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]
-last_updated: 2026-07-09
+sources: [tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-07-23
 ---
 
 # AI Backlash Politics
@@ -13,6 +13,8 @@ last_updated: 2026-07-09
 AI backlash politics is the pattern where public anxiety about artificial intelligence becomes an electoral, regulatory, and coalition-building issue. [[fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd]] presents the [[UnitedStates]] as the case: voters fear job replacement, mental-health effects, child-chatbot relationships, technological speed, billionaire power, and even human extinction, while candidates and AI-linked groups begin spending around AI regulation.
 
 The concept matters because it adds a legitimacy constraint to the wiki's AI synthesis. Earlier pages emphasize [[AICommercializationPressure]], model access, compute, and infrastructure; this source adds the possibility that political resistance can slow or redirect AI deployment even when capability and capital keep advancing.
+
+[[tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]] adds the data-center affordability version. [[AnitaRamaswamy]] says consumers are pressuring utilities and politicians not to absorb AI data-center costs, while [[DonaldTrump]] and [[RonDeSantis]] are cited as signs that power bills, local buildout, and AI regulation can become campaign-facing issues.
 
 [[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]] adds a Marketplace Tech policy-news version. [[MariaCurie|Maria Curi]] identifies children, social media, AI chatbots, jobs, elections, and data-center impacts on electricity bills, land, and communities as the technology issues to watch, while the [[USDepartmentOfLabor|U.S. Department of Labor]] AI course shows an official "skill up" response to anxiety.
 

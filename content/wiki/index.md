@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bytes: Week in Review - New chip exports for China, Microsoft to pay electricity for AI data centers, and Gemini will power Apple's AI](sources/tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Anita Ramaswamy on Nvidia H200 exports to China, Microsoft's data-center electricity-cost pledge, local backlash, and Apple using Gemini for advanced Siri.
 - [AI is eating up the world's computing memory](sources/tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128.md) — Marketplace Tech episode with Tom Minelli of IDC on AI-driven HBM and RAM shortages, PC and smartphone price pressure, gaming-PC exposure, and AI PCs increasing memory demand.
 - [This Swiss city wants to become the bitcoin capital of Europe](sources/tech-20260114-0114-mp-tech-pod-128-tech-20260114-0114-mp-tech-pod-128.md) — Marketplace Tech episode on Lugano's Plan B Bitcoin initiative, Bitcoin payments in shops and municipal services, crypto-company attraction, and local skepticism around speculation and crime.
 - [Spenser Skates, Founder & CEO, Amplitude](sources/tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio.md) — The Social Radars episode with Spenser Skates on Sonalight, the pivot into Amplitude, product analytics, founder-led sales, direct listing, public-company communication, executive readiness, and founder-life tradeoffs.
@@ -512,6 +513,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Nvidia H200](entities/NvidiaH200.md) — Nvidia AI accelerator at the center of a January 2026 China export-control arrangement involving security rules and a 25% U.S. government sales cut.
+- [Brad Smith](entities/BradSmith.md) — Microsoft president quoted on data-center community concerns around electricity prices, water supply, jobs, and industry responsibility.
+- [Ron DeSantis](entities/RonDeSantis.md) — Florida governor cited as making AI and data centers a state-level political issue in the January 2026 Marketplace Tech Bytes episode.
 - [Lugano](entities/Lugano.md) — Swiss city using Plan B to promote Bitcoin payments, municipal-service acceptance, and crypto-company attraction while facing local skepticism.
 - [Lugano Plan B](entities/LuganoPlanB.md) — City-backed Bitcoin initiative in Lugano combining merchant terminals, municipal payments, crypto-company attraction, and public-legitimacy risk.
 - [Mia Liponi](entities/MiaLiponi.md) — Plan B hub leader whose 11-day Bitcoin-only living test grounds Lugano's crypto payment practicality gap.

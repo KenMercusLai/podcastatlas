@@ -4114,3 +4114,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-23] ingest | Bytes: Week in Review - New chip exports for China, Microsoft to pay electricity for AI data centers, and Gemini will power Apple's AI
+
+Added source page for the Marketplace Tech Bytes episode with Megan McCarty-Corino and Anita Ramaswamy on Nvidia H200 exports to China, Microsoft's AI data-center electricity pledge, local backlash, and Apple using Gemini for advanced Siri. Created pages for Nvidia H200, Brad Smith, and Ron DeSantis; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Anita Ramaswamy, The Information, Nvidia, Jensen Huang, Huawei, Microsoft, Google, Apple, Gemini, Siri, Apple Intelligence, Donald Trump, xAI, AI Export Controls, Domestic AI Chip Catch-Up, Strategic AI Infrastructure Dependence, Data Center Cost Shifting, Data Center Backlash, AI Energy Bottleneck, AI Product Fragmentation, Data Center Tax Incentives, AI Backlash Politics, Data Center Power Bottleneck, and AI Assistant Service Entry. No direct contradiction found; the source sharpens existing AI infrastructure themes by making export access, electricity affordability, and assistant distribution part of the same AI competition story.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

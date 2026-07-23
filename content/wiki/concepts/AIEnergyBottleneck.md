@@ -2,7 +2,7 @@
 title: "AI Energy Bottleneck"
 type: concept
 tags: [ai, energy, infrastructure, data-centers]
-sources: [tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]
+sources: [tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
 last_updated: 2026-07-23
 ---
 
@@ -15,6 +15,8 @@ AI energy bottleneck is the constraint created when AI development and deploymen
 The concept extends [[MaaSInfrastructure]] and [[AIComputeContinuity]]. Compute capacity is not only GPUs and data-center buildings; it also depends on power contracts, grid upgrades, local permitting, and whether [[PublicUtilityCommissions]] allow utilities to recover infrastructure costs in ways that communities accept.
 
 [[tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128]] adds the tax-incentive version of the same bottleneck. Some states make electricity cheaper through [[DataCenterTaxIncentives]], while others are removing exemptions, adding carbon or green-building requirements, or studying whether hyperscale facilities' power demand still justifies public subsidy.
+
+[[tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]] adds the affordability-politics response. The episode says AI data centers can use city-scale power and that [[Microsoft]] pledged to pay more for electricity, showing that the bottleneck can become a household-bill issue as much as a grid-capacity issue.
 
 [[tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio]] adds a future clean-baseload route through [[Helion]] and [[CommercialFusionPower]]. [[DavidKirtley]] says power demand has changed because electric vehicles and large-scale data centers increased the scale of the problem, and [[Microsoft]] appears as the first named customer for a planned Helion plant. This does not remove near-term grid and onsite-generation constraints, but it adds fusion as a possible long-term response if it can be manufactured, permitted, and deployed at scale.
 

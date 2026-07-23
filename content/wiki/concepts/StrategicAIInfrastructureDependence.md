@@ -2,7 +2,7 @@
 title: "Strategic AI Infrastructure Dependence"
 type: concept
 tags: [ai, infrastructure, chips, cloud, strategy]
-sources: [e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]
+sources: [e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
 last_updated: 2026-07-23
 ---
 
@@ -15,6 +15,8 @@ The same source says OpenAI still needs Nvidia's chips and ecosystem, while expl
 [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] adds memory and packaging to this dependence. The source says [[Nvidia]] and other AI infrastructure buyers must secure [[TSMC]] packaging, [[HighBandwidthMemory]], DRAM, and NAND capacity, while [[Google]], [[Huawei]], and [[Alibaba]] pursue different memory-hierarchy routes that shape their bargaining position.
 
 [[ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci]] adds the country-scale chip-chain version. Chinese AI-chip companies need access to manufacturing, packaging, EDA, materials, and software ecosystems; when overseas nodes such as [[TSMC]] or high-end equipment are constrained, the dependency problem becomes a full [[SemiconductorSupplyChain|semiconductor supply-chain]] closure problem.
+
+[[tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]] adds the export-access version through [[NvidiaH200|Nvidia H200]] sales to [[China]]. The source shows dependence being managed rather than simply cut off: U.S. policy can allow controlled access with fees and security rules, [[Nvidia]] can argue that continued access preserves American influence, and China can use the same uncertainty to justify more [[DomesticAIChipCatchUp]].
 
 [[e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]] adds the supplier-platform version. [[Nvidia]] can gain leverage by owning a broader [[AIInfrastructureFullStackMoat]], but its customers and partners still depend on [[TSMC]], HBM suppliers, data-center power, GPU clouds, and model-service demand. [[Google]] [[TPU|TPUs]] and [[NeoCloud]] providers become partial diversification routes rather than pure replacements.
 

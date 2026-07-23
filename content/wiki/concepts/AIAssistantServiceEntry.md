@@ -2,8 +2,8 @@
 title: "AI Assistant Service Entry"
 type: concept
 tags: [ai, assistants, platforms, commerce]
-sources: [tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]
-last_updated: 2026-07-12
+sources: [tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-07-23
 ---
 
 # AI Assistant Service Entry
@@ -17,6 +17,8 @@ The concept differs from generic chatbot adoption. Search replacement handles kn
 [[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] adds a local-commerce version. The hosts discuss [[Yuanbao]] red packets, AI milk-tea promotions, and whether [[Meituan]] could expose MCP-like ordering capability to assistants. Their example of AI-assisted milk-tea ordering shows that assistant entry can reduce browsing and transfer choice power to the assistant's recommendation logic.
 
 [[tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128]] adds a personal-productivity version through [[GooglePersonalIntelligence]]. [[ChristopherMims]] describes [[Gemini]] adding [[GoogleCalendar]] appointments from spoken instructions, which shows service entry at small scale: the assistant handles a disliked task inside an existing account rather than merely answering a question.
+
+[[tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]] adds the Apple-distribution version. The episode says [[Apple]] announced [[Gemini]] support for advanced [[Siri]] features and expects the new assistant to include memory, making iPhone-level assistant access a possible route from model capability into everyday service and task entry.
 
 [[wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]] adds a wearable service-entry version through [[GuangfanTechnology]]. [[DongHongguang]] argues that an assistant can connect to cloud services behind apps, using voice, sensors, agents, skills, and MCP-like interfaces to call ride-hailing, shopping, audio, payment, or local-service capabilities without making the user operate each phone app manually.
 
