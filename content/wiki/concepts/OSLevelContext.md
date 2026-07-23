@@ -2,13 +2,15 @@
 title: "OS-Level Context"
 type: concept
 tags: [agents, context, privacy, product-design]
-sources: [renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]
-last_updated: 2026-07-12
+sources: [tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6, ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]
+last_updated: 2026-07-23
 ---
 
 # OS-Level Context
 
 OS-level context is [[Paperboy]]'s term-level bet that useful agents should learn from the user's computer environment rather than only from chat history. In [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o]], [[JieDechen]] argues that computer-use signals are information-dense: screen activity, keyboard and mouse actions, meetings, messages, search, browsing, code, and current app state can reveal intent and work style.
+
+[[tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3]] adds an earlier product version through [[RewindAI]]. [[DanSiroker]] describes Rewind as a native Mac app that captured screen content and audio locally, using OCR and speech recognition to make personal context retrievable. The source extends OS-level context from proactive agent assistance into [[PersonalAIMemory]] and long-term recall.
 
 [[openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6]] adds [[AirJelly]]'s capture strategy. Instead of treating every few seconds of screen activity as equally valuable, [[HuangBote]] argues that Enter-triggered screenshots can capture [[IntentContext]] in IM, chatbot, and search workflows with less browsing noise. The source also makes privacy a first-order design constraint because OS-level screenshots may expose sensitive personal or organizational information.
 
@@ -28,6 +30,7 @@ OS-level context is [[Paperboy]]'s term-level bet that useful agents should lear
 - Smartphone context extends the idea beyond desktop activity: camera, microphone, files, meetings, location-like surroundings, and personal preferences can all become local signals, which makes the [[EdgeCloudAIBoundary]] and permission design more important.
 - Foldable-phone context adds a task-surface layer: the agent may need to see which document, chat, map, assistant, or calendar item is visible beside the main task.
 - Wearable context extends OS-level context from screen state into physical-world signals, but it also increases privacy and permission demands because the assistant may perceive people, places, objects, and speech around the user.
+- Local desktop capture can make old work and conversations retrievable, but it also raises privacy and retention questions before the agent takes any visible action.
 
 ## Connections
 - [[ContextEngineering]] — broader practice of collecting and shaping useful model input.
@@ -35,6 +38,7 @@ OS-level context is [[Paperboy]]'s term-level bet that useful agents should lear
 - [[ProactiveAgents]] — agents need environmental context before they can help ahead of explicit requests.
 - [[WeChat]] and [[Slack]] — communication contexts where OS-level assistance may appear without replacing the whole product.
 - [[AirJelly]], [[IntentContext]], and [[PersistentAgentMemory]] — example of turning OS-level screenshots into events, entities, and memory.
+- [[RewindAI]], [[DanSiroker]], and [[PersonalAIMemory]] — local screen/audio memory branch added by The Social Radars.
 - [[SmartphoneAIHub]], [[OnDeviceAI]], and [[EdgeCloudAIBoundary]] — phone-side context and privacy branch added by S10E17.
 - [[MobileAIWorkstation]], [[AIFileManagement]], and [[XFold6]] — mobile task-context branch added by Luanfanshu 268.
 - [[WearableAIAssistant]], [[GuangfanTechnology]], and [[AgentPermissionBoundaries]] — physical-world context branch added by S10E15.

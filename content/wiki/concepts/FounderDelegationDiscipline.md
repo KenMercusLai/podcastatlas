@@ -2,8 +2,8 @@
 title: "Founder Delegation Discipline"
 type: concept
 tags: [startup, leadership, operations]
-sources: [tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio, tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final]
-last_updated: 2026-07-14
+sources: [tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio, tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final]
+last_updated: 2026-07-23
 ---
 
 # Founder Delegation Discipline
@@ -11,6 +11,8 @@ last_updated: 2026-07-14
 Founder delegation discipline is the leadership habit of deliberately reducing founder bottlenecks so the team can execute without being constantly redirected. [[tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]] adds the concept through [[DavidRusenko]] after the [[Square]] acquisition of [[Weebly]]. As he prepared to leave Square, Rusenko says he intentionally worked himself out of a job by delegating more to the team.
 
 The surprising part of the source is that fewer hours did not mean lower leverage. Rusenko says that while working roughly 15 to 20 hours a week, he became one of the most effective executives he had ever been, because he stopped creating distractions and left space for prioritization, writing, strategy, and judgment. He likes targeting at least 50 percent unscheduled time in a week.
+
+[[tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3]] adds the abdication version through [[DanSiroker]] and [[Optimizely]]. Dan says he hired executives, listened to board or management advice over his own concerns, and spent too much time away from product, engineering, and design. The source distinguishes healthy delegation from losing the founder context that makes [[FounderInstinct]] useful.
 
 [[tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final]] adds the opposite failure mode through [[GarryTan]] and [[Posterous]]. Tan says he kept the important work for himself, gave hires low-risk tasks, sacrificed sleep, and did not fully become the CEO the company needed. The source therefore makes delegation a necessary part of [[FounderMode]]: attention and taste matter, but they must turn into empowered ownership rather than founder bottlenecking.
 
@@ -35,9 +37,11 @@ The surprising part of the source is that fewer hours did not mean lower leverag
 - Delegating customer-facing functions does not remove the need for senior leaders to hear customers directly.
 - Leaders who inherit successful prior-company habits may still need founder challenge when those habits disconnect them from the current company's customers.
 - Delegating scientific work does not remove the founder's responsibility to understand pace, blockers, and team fit when the company's core risk is technical execution.
+- Delegation becomes abdication when the founder loses contact with the product, technical, or user context that grounds their best judgment.
 
 ## Connections
 - [[DavidRusenko]], [[Weebly]], [[Square]], and [[SquareOnline]] - source case.
+- [[DanSiroker]], [[Optimizely]], and [[FounderInstinct]] - source case for abdication away from product and technical judgment.
 - [[GarryTan]] and [[Posterous]] - source case for the cost of not delegating.
 - [[ChristinaCacioppo]] and [[Vanta]] - source case for selective founder involvement when delegation threatens high-regret outcomes.
 - [[EmmettShear]], [[Twitch]], [[FounderContextPropagation]], and [[ConwaysLawOrganizationalDesign]] - source case for delegation constrained by company-wide context and information flow.

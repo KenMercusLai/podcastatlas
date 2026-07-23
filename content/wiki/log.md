@@ -3991,3 +3991,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-23] ingest | Dan Siroker on Optimizely, Rewind, and Limitless AI
+
+Added source page for The Social Radars episode with Dan Siroker on Obama campaign A/B testing, Optimizely's YC pivot, founder instinct and delegation regrets, Mind Emulation Foundation, Rewind AI, Limitless, personal AI memory, consent-based recording, and public fundraising. Created pages for Dan Siroker, Optimizely, Limitless, Rewind AI, Pete Koomen, Mind Emulation Foundation, Carrot Sticks, Spreadly, Brett Baechek, Stammy, A/B Testing For Marketers, Founder Instinct, Personal AI Memory, Consent-Based Recording, and Public Fundraising Pitch; updated overview, index, Y Combinator, The Social Radars, Jessica Livingston, Carolyn Levy, Barack Obama, Data-Driven Product Culture, Founder Delegation Discipline, Founder Product Fit, Founder Motivation Evolution, Persistent Agent Memory, OS-Level Context, Agent Permission Boundaries, Wearable AI Assistant, and Apple Privacy. No direct contradiction found; the source extends existing founder-mode and AI-memory threads while keeping Dan's privacy and legal-protection claims source-attributed.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

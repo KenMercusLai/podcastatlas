@@ -226,6 +226,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexandr Wang on Scale and AI Data Infrastructure](sources/tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3.md) — The Social Radars episode with Alexandr Wang on Scale AI's YC pivot, image and text labeling, autonomous-vehicle data, defense work, generative AI resource shift, MEI culture stance, and agent data.
 - [Harj Taggar on Y Combinator, Triplebyte, and Hiring Judgment](sources/tsr-s4-harj-v3-tsr-s4-harj-v3.md) — The Social Radars episode with Harj Taggar on BoSo, Automatic Auctions, early YC legitimacy, investor relationships, Yuri Milner's batch-wide funding offer, Triplebyte's engineering-hiring tests, James Damore, and Harj's return to YC.
 - [Eddy Lu on GOAT, Grub With Us, and Marketplace Friction](sources/tsr-s3-eddylu-v2-tsr-s3-eddylu-v2.md) — The Social Radars episode with Eddy Lu on failed early businesses, cream puff stores, Grub With Us, marketplace friction, GOAT's sneaker authentication, Black Friday product-market-fit overload, category focus, GOAT Clean, and founder scrappiness.
+- [Dan Siroker on Optimizely, Rewind, and Limitless AI](sources/tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3.md) — The Social Radars episode with Dan Siroker on Obama campaign A/B testing, Optimizely's YC pivot, founder instinct and delegation regrets, Rewind AI, Limitless, personal AI memory, consent-based recording, and public fundraising.
 - [David Rusenko on Weebly, Capital Efficiency, and Climate Tech](sources/tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1.md) — The Social Radars episode with David Rusenko on Weebly's Penn State and YC origin, slow product-market fit, capital-efficient survival through 2008, Square acquisition, founder delegation, and Leap Forward's economic climate-tech thesis.
 - [Yin Wu on Pulley, Equity, and Founder Resilience](sources/tsr-s3-yinwu-v2-tsr-s3-yinwu-v2.md) — The Social Radars episode with Yin Wu on Startup School, repeated YC batches, Prim, Echo Locker, Pulley, cap table literacy, fundraising modeling, founder equity dilution, trust-sensitive SaaS switching, female-founder fundraising advice, and founder resilience.
 - [Ron Conway on National Semiconductor, Altos, and Early Angel Investing](sources/tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final.md) — The Social Radars episode with Ron Conway on National Semiconductor, customer relationships, equity, Altos Computer's microcomputer rise and PC-wave miss, Sequoia, Band of Angels, and his shift from operator to founder-helper investor.
@@ -1730,6 +1731,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Grub Tonight](entities/GrubTonight.md) — Same-day dinner attempt that reduced timing friction but did not solve the deeper social and logistical barriers in Grub With Us.
 - [GOAT Clean](entities/GOATClean.md) — GOAT used-sneaker refurbishment service for cleaning, deodorizing, and touching up used sneakers.
 - [Adam Bain](entities/AdamBain.md) — Early GOAT customer who became the company's first independent board member after a high-touch sneaker-sourcing story.
+- [Dan Siroker](entities/DanSiroker.md) — Optimizely, Rewind AI, and Limitless founder whose episode connects Obama campaign A/B testing, YC pivoting, founder instinct, AI memory, and privacy-sensitive wearable capture.
+- [Optimizely](entities/Optimizely.md) — YC Winter 2010 marketer-facing A/B testing company built from Dan Siroker's Obama campaign experimentation experience.
+- [Limitless](entities/Limitless.md) — Dan Siroker's personalized AI memory company, rebranded from Rewind AI and centered on seen, said, and heard context plus a wearable pendant.
+- [Rewind AI](entities/RewindAI.md) — Personal memory product that captured local screen and audio context before becoming the precursor to Limitless.
+- [Pete Koomen](entities/PeteKoomen.md) — Dan Siroker's Google colleague and co-founder through Carrot Sticks, Spreadly, and Optimizely.
+- [Mind Emulation Foundation](entities/MindEmulationFoundation.md) — Dan Siroker's nonprofit exploration of digital mind emulation that fed into the seen/said/heard memory thesis behind Rewind and Limitless.
+- [Carrot Sticks](entities/CarrotSticks.md) — Dan Siroker and Pete Koomen's online math-game startup, used as a founder-product-fit caution before Optimizely.
+- [Spreadly](entities/Spreadly.md) — Dan Siroker and Pete Koomen's distribution-oriented pre-Optimizely startup idea, closer to their own pain but still behaviorally weak.
+- [Brett Baechek](entities/BrettBaechek.md) — Limitless co-founder promoted from within after doing co-founder-level work.
+- [Stammy](entities/Stammy.md) — Limitless co-founder named in the Dan Siroker episode as an internal operator promoted to formal co-founder status.
 - [David Rusenko](entities/DavidRusenko.md) — Weebly co-founder and Leap Forward founder whose episode links YC Winter 2007, slow PMF, capital efficiency, Square, delegation, and climate-tech investing.
 - [Weebly](entities/Weebly.md) — Drag-and-drop website builder that began as a Penn State class project, entered YC Winter 2007, survived the 2008 downturn, and was acquired by Square.
 - [Square](entities/Square.md) — Commerce and payments company that acquired Weebly in 2018 and used its codebase as the underpinnings of Square Online.
@@ -3932,6 +3943,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Invasive Species Management](concepts/InvasiveSpeciesManagement.md) — Conservation work reducing introduced-species harm while balancing ecology, ethics, social acceptance, biosecurity, and post-intervention monitoring.
 - [Bird Dispersal Ecology](concepts/BirdDispersalEcology.md) — Study of birds moving organisms and biological material across habitats, illustrated by tiny snails surviving passage through bird digestion.
 - [Wearable AI Assistant](concepts/WearableAIAssistant.md) — Personal assistant form where accepted body-worn devices provide always-on sensing, voice interaction, and low-friction service execution around a broader phone/cloud system.
+- [Consent-Based Recording](concepts/ConsentBasedRecording.md) — Privacy pattern where a wearable or AI memory device records only people or voices that have opted in, balancing legal compliance with social trust.
 - [Autism As Human Difference](concepts/AutismAsHumanDifference.md) — Frame treating autism as a developmental and perceptual difference requiring support, respect, and accommodation rather than repair-first normalization.
 - [Behavior As Communication](concepts/BehaviorAsCommunication.md) — Care and education principle that difficult behavior may express distress, overload, fear, predictability needs, or limited communication tools.
 - [Autism Safe Environment Design](concepts/AutismSafeEnvironmentDesign.md) — Support pattern that reduces sensory, memory, and predictability threats before demanding compliance or participation.
@@ -4096,6 +4108,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Capital Efficient Startup Building](concepts/CapitalEfficientStartupBuilding.md) — Startup operating pattern where careful burn, revenue learning, and survival time preserve ownership and optionality.
 - [Slow Product Market Fit](concepts/SlowProductMarketFit.md) — PMF pattern where years of product improvement, survival, and word-of-mouth compounding precede clear breakout metrics.
 - [Founder Delegation Discipline](concepts/FounderDelegationDiscipline.md) — Leadership habit of reducing founder bottlenecks, preserving thinking time, and turning founder attention into real team ownership.
+- [Founder Instinct](concepts/FounderInstinct.md) — Founder-level high-context judgment that should not be suppressed by executives, boards, or imported playbooks when it is grounded in real product and user context.
 - [Economic Climate Tech Adoption](concepts/EconomicClimateTechAdoption.md) — Climate-tech adoption pattern where cheaper, better, or more useful products win through customer self-interest as well as emissions benefit.
 - [Climate Startup Commercialization Gap](concepts/ClimateStartupCommercializationGap.md) — Passage from prototype or bench-scale proof to first commercial deployment where capital needs, unit economics, and operations become decisive.
 - [Founder Friendly Investor Support](concepts/FounderFriendlyInvestorSupport.md) — Investor behavior pattern where grounded help can include coaching, financing, distribution, recruiting, and external translation.
@@ -4107,6 +4120,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Trust-Sensitive SaaS Switching](concepts/TrustSensitiveSaaSSwitching.md) — Pattern where trust, privacy, or control incidents make customers willing to endure SaaS migration pain.
 - [Founder User Obsession](concepts/FounderUserObsession.md) — Durable desire to spend years serving a specific user, beyond merely solving one's own initial problem.
 - [Future-Oriented Fundraising Pitch](concepts/FutureOrientedFundraisingPitch.md) — Fundraising narrative discipline of making the company's future scale legible while staying grounded in current customer evidence.
+- [Public Fundraising Pitch](concepts/PublicFundraisingPitch.md) — Fundraising tactic of publishing a concise pitch publicly to create distribution, surface investor demand, and discover market pricing while preserving investor-selection discipline.
 - [Founder Resilience](concepts/FounderResilience.md) — Practical ability to keep learning, rebuilding, selling, and serving customers through repeated setbacks without confusing persistence with denial.
 - [Relationship-Led Sales](concepts/RelationshipLedSales.md) — Sales pattern where authentic customer trust and technical delivery reinforce each other in competitive markets.
 - [Self-Disruption Discipline](concepts/SelfDisruptionDiscipline.md) — Operating habit of treating the next platform shift as a threat even after winning the previous disruption wave.
@@ -4538,6 +4552,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [El Nino Climate Risk](concepts/ElNinoClimateRisk.md) — Risk frame for a strong El Nino layered onto global warming, food insecurity, disease, drought, floods, and aid constraints.
 - [Japanese Imperial Succession](concepts/JapaneseImperialSuccession.md) — Japan monarchy continuity problem around male-line inheritance, Princess Aiko's exclusion, public opinion, and limited reform.
 - [Data-Driven Product Culture](concepts/DataDrivenProductCulture.md) — ByteDance-style product operating system based on metrics, A/B tests, guardrails, review cycles, and LTV-style contribution comparison.
+- [A/B Testing For Marketers](concepts/ABTestingForMarketers.md) — Making experimentation accessible to marketers and campaigns so landing pages, creative, incentives, and names can be tested without bespoke engineering work.
 - [Recommendation System Productization](concepts/RecommendationSystemProductization.md) — Turning ranking, cold start, content pools, safety review, and interface signals into the product experience.
 - [Content Ecosystem Governance](concepts/ContentEcosystemGovernance.md) — Platform safety, review, ranking, intervention, and value-setting layer needed when recommendation systems amplify content.
 - [Short-Video Creation Tools](concepts/ShortVideoCreationTools.md) — Music, audio reuse, effects, challenges, Duet, React, Stitch, and video replies that lower creation friction and turn consumption into prompts.
@@ -5187,6 +5202,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Passive Investing](concepts/PassiveInvesting.md) — Broad ETF and index-fund investing recommended for most ordinary investors as a low-friction alternative to active trading.
 - [Passenger Complaint Handling](concepts/PassengerComplaintHandling.md) — Real-time service work that separates facts, emotion, safety, privacy, and incentives in passenger disputes.
 - [Payment Led Market Selection](concepts/PaymentLedMarketSelection.md) — Choosing a target market by where demand, trust, payment willingness, and collection paths are strongest.
+- [Personal AI Memory](concepts/PersonalAIMemory.md) — AI assistant thesis that seen, said, and heard personal context can improve drafting, recall, meeting preparation, and summaries while raising consent and privacy risks.
 - [Persistent Agent Memory](concepts/PersistentAgentMemory.md) — Durable user and work memory that lets agents retain context while raising portability, boundary, and post-mortem consent questions.
 - [PHS Xiaolingtong](concepts/PHSXiaolingtong.md) — Low-cost PHS wireless local-phone service that gave many Chinese users transitional mobile-like access before mainstream mobile affordability.
 - [Podcast As Asynchronous Media](concepts/PodcastAsAsynchronousMedia.md) — Recorded-audio media form whose value comes from shifted listening, cumulative archives, listener feedback, and clip distribution while losing live-radio immediacy.

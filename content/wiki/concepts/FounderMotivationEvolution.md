@@ -2,8 +2,8 @@
 title: "Founder Motivation Evolution"
 type: concept
 tags: [startups, founder-psychology, leadership]
-sources: [tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, socialradarspod-brianarmstrong-final]
-last_updated: 2026-07-12
+sources: [tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, socialradarspod-brianarmstrong-final]
+last_updated: 2026-07-23
 ---
 
 # Founder Motivation Evolution
@@ -18,6 +18,8 @@ Armstrong says he was filled with self-doubt early, feared disappointing his par
 
 [[tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5]] adds [[DrewHouston]] as a long-tenure CEO case. Houston says he eventually wanted to become a great CEO and do the work for love of the game, not just for money, status, or external validation. The shift helped him reconnect Dropbox's strategy to helping knowledge workers use their brains amid [[KnowledgeWorkFragmentation]].
 
+[[tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3]] adds [[DanSiroker]] as an augmentation-motivation case. Dan connects hearing loss and the first experience of a hearing aid to his interest in technology as a human superpower, then carries that motivation through [[MindEmulationFoundation]], [[RewindAI]], and [[Limitless]]. The source also adds a family-boundary version: as a parent of three, he says focus now depends on cutting commitments rather than repeating first-startup hours.
+
 ## Key Claims
 - Early insecurity can help a founder start, but it is usually too brittle to sustain long-term leadership.
 - External validation such as a first investor check can matter psychologically, not only financially.
@@ -26,6 +28,7 @@ Armstrong says he was filled with self-doubt early, feared disappointing his par
 - Motivation becomes more durable when the founder can name the users and problems they are willing to keep serving after pivots and setbacks.
 - Motivation can become more honest after failure when the founder distinguishes a love of building useful things from the external script of building a world-conquering company.
 - Long-tenure motivation can shift from reaching a milestone or proving a company to stewardship, craft, and a mission that still feels worth years of work.
+- A founder's motivation can come from embodied personal experience, such as losing and restoring a capability, not only from market ambition or external validation.
 
 ## Connections
 - [[BrianArmstrong]], [[Coinbase]], [[YCombinator]], and [[Airbnb]] - source case.
@@ -34,3 +37,4 @@ Armstrong says he was filled with self-doubt early, feared disappointing his par
 - [[GarryTan]] - informal CEO coach in the source.
 - [[EricMigicovsky]], [[Pebble]], [[Beeper]], [[BuildForYourselfFounderFit]], and [[ProductVisionDrift]] - motivation-clarity branch added by the Eric Migicovsky episode.
 - [[DrewHouston]], [[Dropbox]], [[DropboxDash]], [[KnowledgeWorkFragmentation]], and [[FounderPsychologyOperationalRisk]] - long-term CEO motivation branch added by the Drew Houston episode.
+- [[DanSiroker]], [[MindEmulationFoundation]], [[RewindAI]], [[Limitless]], and [[PersonalAIMemory]] - augmentation and family-focus branch added by the Dan Siroker episode.

@@ -2,8 +2,8 @@
 title: "Carolyn Levy"
 type: entity
 tags: [person, podcasting, startups]
-sources: [tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s4-harj-v3-tsr-s4-harj-v3, tsr-s3-eddylu-v2-tsr-s3-eddylu-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, tsr-s2-wrapup-v1, tsr-s2-adoracheung-v5, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final]
-last_updated: 2026-07-12
+sources: [tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s4-harj-v3-tsr-s4-harj-v3, tsr-s3-eddylu-v2-tsr-s3-eddylu-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, tsr-s2-wrapup-v1, tsr-s2-adoracheung-v5, socialradarss2-stripe-v2, socialradarsseason2-dimitri-final, socialradarsseason1-wrapup-final-socialradarsseason1-wrapup-final, socialradars-edithelliot-v3, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, tsr-s2-trevorblackwell-v2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-paulb-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final]
+last_updated: 2026-07-23
 ---
 
 # Carolyn Levy
@@ -36,6 +36,8 @@ Her role in the wiki is mainly source-contextual: she is part of the interview f
 
 [[tsr-s3-eddylu-v2-tsr-s3-eddylu-v2]] adds Levy as co-interviewer for [[EddyLu]] on [[GrubWithUs]], [[GOAT]], sneaker authentication, and founder scrappiness. Her closing discussion with [[JessicaLivingston]] highlights the concrete operating lessons: Grub With Us expanded before the core marketplace worked, while GOAT's authenticator tests, smell checks, and quality-control workflow made trust operational.
 
+[[tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3]] adds Levy as co-interviewer for [[DanSiroker]] on [[Optimizely]], [[RewindAI]], and [[Limitless]]. Her framing helps the episode move between startup operating lessons and AI product questions: campaign testing becomes [[ABTestingForMarketers]], Optimizely regrets become [[FounderInstinct]] and [[FounderDelegationDiscipline]], and Limitless becomes a case in [[PersonalAIMemory]] and [[ConsentBasedRecording]].
+
 [[tsr-s4-harj-v3-tsr-s4-harj-v3]] adds Levy as co-interviewer for [[HarjTaggar]] on [[YCombinator]], [[Triplebyte]], and the changing startup culture around hiring. Her role helps frame the episode as both institutional memory and a practical founder postmortem: YC's legitimacy and investor access changed Harj's path, while Triplebyte showed how hard it is to turn engineering hiring into objective software.
 
 [[tsr-s4-samaltman-v4-tsr-s4-samaltman-v4]] adds Levy as co-interviewer and early legal-context witness for [[SamAltman]]. The episode says she has known Altman since the 2005 [[YCombinator]] batch, when she was his lawyer, and uses that long relationship to draw out details about [[Looped]], YC presidency, [[OpenAI]], and the [[OpenAIBoardCrisis]].
@@ -56,6 +58,7 @@ Her role in the wiki is mainly source-contextual: she is part of the interview f
 - [[RonConway]], [[NationalSemiconductor]], [[AltosComputer]], [[BandOfAngels]], and [[RelationshipLedSales]] - Season 3 Ron Conway episode context.
 - [[YinWu]], [[Pulley]], [[Carta]], [[CapTableLiteracy]], [[FundraisingScenarioModeling]], and [[FounderControl]] - Season 3 Yin Wu episode context.
 - [[EddyLu]], [[Daishen]], [[GrubWithUs]], [[GOAT]], [[AuthenticationLedMarketplaceTrust]], and [[DemandShockProductMarketFit]] - Season 3 Eddy Lu episode context.
+- [[DanSiroker]], [[Optimizely]], [[RewindAI]], [[Limitless]], [[FounderInstinct]], and [[ConsentBasedRecording]] - Season 3 Dan Siroker episode context.
 - [[HarjTaggar]], [[YCombinator]], [[Triplebyte]], [[StartupLegitimacyTransfer]], and [[ObjectiveHiringAssessment]] - Season 4 Harj Taggar episode context.
 - [[SamAltman]], [[Looped]], [[OpenAI]], [[FounderRiskCalibration]], and [[OpenAIBoardCrisis]] - Season 4 Sam Altman episode context.
 - [[BrianChesky]], [[Airbnb]], and [[FounderMode]] - YC offsite founder-mode episode context.
