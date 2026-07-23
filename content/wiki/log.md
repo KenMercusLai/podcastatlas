@@ -3859,6 +3859,7 @@ Added source page for the Marketplace Tech episode with David Brancaccio on rebu
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-07-23] ingest | E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI
 
 Added source page for the 硅谷101 episode with Creo's Peter, Chen Kai, and Clark on Harness Engineering, AI-first organization design, agent-driven development, AI-driven verification, go-to-market bottlenecks, broad agent data access, and the organizational shift from trusting people by role to trusting governed AI systems. Created pages for Creo, Peter (Creo), Chen Kai (Creo), Clark (Creo), Harness Engineering, and AI-First Organization; updated overview, index, Silicon Valley 101, Agent Harness, AI Organization Design, Agentic Workflow, AI Coding Verification, Agent Permission Boundaries, Organizational Context, Agent-Facing Interfaces, Context Engineering, Human-Agent Collaboration, Human Judgment Under AI, Enterprise Agent Governance, and Business-Led AI Transformation. No direct contradiction found; the source qualifies harness and AI-coding pages by showing that high AI-written-code ratios still depend on architecture, tests, rollout metrics, permission boundaries, and human review.
@@ -3954,6 +3955,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-23] ingest | Vanguard
 
 Added source page for the Acquired episode on Vanguard, Jack Bogle, fundholder mutual ownership, the first retail index fund, low-cost compounding, ETF succession conflict, modern competition from Fidelity/BlackRock/State Street, Salim Ramji's outside-CEO challenge, and passive-investing governance. Created pages for Wellington Management, Fidelity, BlackRock, State Street, Salim Ramji, Fundholder Mutual Ownership, Cost Matters Hypothesis, Scale Economies Shared, Strategy Follows Structure, and Passive Investing Governance; updated overview, index, Acquired, Vanguard, John Bogle, Passive Investing, Financial Platform Incentives, Founder Succession, Steward Ownership, Costco, Warren Buffett, Blackstone, and S&P 500. No direct contradiction found; the source deepens earlier Vanguard references by tying low-cost investing to ownership structure rather than only founder restraint.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-23] ingest | 01.麦田守望者：20世纪的美国贾宝玉
+
+Added source page for the 蜜獾吃书 episode on 《麦田里的守望者》, J. D. Salinger, Holden Caulfield as a 20th-century American 贾宝玉, adolescent alienation, Salinger biography, Chinese translation, and later media/youth-culture afterlives. Created pages for J. D. Salinger, 《麦田里的守望者》, Holden Caulfield, Phoebe Caulfield, Oona O'Neill, Ernest Hemingway, Sun Zhongxu, Ghost in the Shell: Stand Alone Complex, Laughing Man, Watchmen, Rorschach, American Jia Baoyu Comparison, Adolescent Alienation Recognition, and Literary Subculture Symbolization; updated overview, index, 蜜獾吃书, 《红楼梦》, 贾宝玉, Charlie Chaplin, Classic Reading Complexity, Reading As Life Experience, Non-Instrumental Literary Reading, Literary Gossip As Context, Author Myth Deflation, and Antihero Misreading. No direct contradiction found; the source extends the Red Chamber and reading-complexity branches while keeping Salinger/Oona/Chaplin biography source-scoped.
 
 ## [2026-07-23] lint | Wiki health check
 

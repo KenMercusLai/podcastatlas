@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [01.麦田守望者：20世纪的美国贾宝玉](sources/01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422.md) — 蜜獾吃书 episode rereading 《麦田里的守望者》 through Holden as a 20th-century American Jia Baoyu, Salinger biography, adolescent alienation, and later youth-culture/media afterlives.
 - [E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI](sources/e238-liaoliao-harness-shidai-ai-first-de-zuzhi-jiagou-cong-xinren-ren-dao-xinren-ai-51260de8-60ef-4b76-b3e5-2e559c4a0923.md) — 硅谷101 episode with Creo's Peter, Chen Kai, and Clark on Harness Engineering, AI-first organization design, agent-driven development, verification, go-to-market bottlenecks, and moving from trusting people to governed trust in AI.
 - [E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？](sources/e236-99-de-zuoye-doushi-ai-xie-de-dangdai-mingxiao-sheng-yanli-daxue-hai-shengxia-shenme-b066c769-00d2-4341-bf61-a82bca4181e4.md) — 硅谷101 episode with Alfred Lin, Kelento Hou, and Jack Rao on AI-written homework, personalized AI tutoring, degree-as-trust credentials, university assessment reform, AI dependence, and career preparation when AI is the default environment.
 - [E235｜20年内CAR-T治愈癌症？与刘诚博士聊聊癌症治疗的底层哲学](sources/e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534.md) — 硅谷101 episode with Liu Cheng on CAR-T, in vivo versus ex vivo manufacturing, solid-tumor barriers, cytokine-release safety, China cell-therapy regulation, and cancer as an immune-recognition problem.
@@ -492,6 +493,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [J. D. Salinger / 塞林格](entities/JDSalinger.md) — Author of 《麦田里的守望者》, framed through adult craft, wartime experience, reclusion, publishing control, and bounded literary gossip.
+- [《麦田里的守望者》 / The Catcher in the Rye](entities/TheCatcherInTheRye.md) — Salinger novel read as a sensitive adolescent-alienation text, an American Jia Baoyu comparison, and a youth-culture symbol.
+- [Holden Caulfield / 霍尔顿](entities/HoldenCaulfield.md) — Protagonist of 《麦田里的守望者》, read as a tender but alienated youth resisting adult phoniness.
+- [Phoebe Caulfield / 菲比](entities/PhoebeCaulfield.md) — Holden's sister and the addressee of the "catcher" protective fantasy.
+- [Oona O'Neill / 乌娜](entities/OonaONeill.md) — Salinger biography figure used as source-scoped context for anti-Hollywood feeling and Chaplin-related literary gossip.
+- [Ernest Hemingway / 海明威](entities/ErnestHemingway.md) — Wartime literary encounter used to contextualize Salinger as more than an adolescent spokesman.
+- [孙仲旭 / Sun Zhongxu](entities/SunZhongxu.md) — Chinese translator connected to 《麦田里的守望者》 and the source's sensitivity/recognition branch.
+- [《攻壳机动队 STAND ALONE COMPLEX》 / Ghost in the Shell: Stand Alone Complex](entities/GhostInTheShellStandaloneComplex.md) — Anime afterlife of Catcher themes through the Laughing Man story.
+- [笑脸男 / Laughing Man](entities/LaughingMan.md) — Ghost in the Shell figure read as a brighter Holden-like idealist damaged by adult systems.
+- [《守望者》 / Watchmen](entities/Watchmen.md) — Media comparison point for Rorschach as a darker extreme of Holden-like purity.
+- [罗夏 / Rorschach](entities/Rorschach.md) — Watchmen character used to contrast violent absolutism with Holden's inward, vulnerable alienation.
 - [Creo](entities/Creo.md) — AI-agent company used in E238 as a case for Harness Engineering, AI-first organization design, and user-built self-improving agents.
 - [Peter (Creo)](entities/PeterCreo.md) — Creo CTO in E238, defining Harness Engineering and describing AI-driven coding, planning, CICD, bug triage, and architecture review.
 - [陈凯 / Chen Kai (Creo)](entities/ChenKaiCreo.md) — Creo CEO in E238, framing AI-first organization as workflow and trust redesign rather than ordinary AI tool adoption.
@@ -3174,6 +3186,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [American Jia Baoyu Comparison](concepts/AmericanJiaBaoyuComparison.md) — Cross-cultural reading that makes Holden legible through 贾宝玉 while preserving differences between postwar America and 红楼梦's family order.
+- [Adolescent Alienation Recognition](concepts/AdolescentAlienationRecognition.md) — Frame for teenage anger as a need for recognition, tenderness, and protection rather than only rebellion or violence.
+- [Literary Subculture Symbolization](concepts/LiterarySubcultureSymbolization.md) — Reception pattern where a literary work becomes a portable youth-culture sign, media reference, or pose beyond the original reading experience.
 - [Harness Engineering](concepts/HarnessEngineering.md) — E238 discipline for building the dynamic tooling, sandbox, security, latency, feedback, verification, and self-improvement system around agents.
 - [AI-First Organization](concepts/AIFirstOrganization.md) — E238 organization pattern where AI drives much of production while humans own architecture, direction, value definition, review, and responsibility.
 - [AI Default Learning Environment](concepts/AIDefaultLearningEnvironment.md) — E236 frame where students treat AI as ordinary infrastructure for learning, work, coding, and assignments rather than as an exceptional aid.

@@ -2,8 +2,8 @@
 title: "Author Myth Deflation"
 type: concept
 tags: [literature, biography, canon, interpretation]
-sources: [183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
-last_updated: 2026-07-15
+sources: [01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
+last_updated: 2026-07-23
 ---
 
 # Author Myth Deflation
@@ -22,6 +22,8 @@ The episode's value is partly emotional. By showing canonical writers as embodie
 
 [[179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805]] adds a more severe evidence-discipline case through [[LewisCarroll|Lewis Carroll / 刘易斯·卡罗尔]]. The episode deflates a harmless-genius image by discussing child photography and the [[AliceLiddell|Alice Liddell / 爱丽丝·利德尔]] controversy, but it also refuses to turn uncertain historical materials into a conclusive accusation.
 
+[[01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422]] adds a Salinger variant through [[JDSalinger|J. D. Salinger / 塞林格]]. The source resists two simplifying myths at once: [[TheCatcherInTheRye|《麦田里的守望者》]] is not only adolescent whining, and Salinger is not only a mysterious recluse. War, adult craft, publishing control, romantic disappointment, and spiritual withdrawal all matter, but none of them replaces the text.
+
 ## Key Claims
 - Great literary talent does not imply good politics, stable judgment, domestic kindness, or personal elegance.
 - Deflating an author myth should widen interpretation, not replace one simple image with another.
@@ -33,9 +35,11 @@ The episode's value is partly emotional. By showing canonical writers as embodie
 - The same deflation method can travel from literature into film, but directing adds production power and collaborator erasure.
 - Deflating an author myth should keep evidentiary standards visible most strongly when allegations involve children, sexuality, memory, and historical context.
 - A negative author myth may need deflation too: inherited moral denunciation should be source-checked rather than repeated as biographical fact.
+- A recluse myth can be as flattening as a scandal myth when it makes adult craft, war memory, publishing decisions, and textual tenderness disappear behind one personality image.
 
 ## Connections
 - [[LiteraryGossipAsContext]] - method for handling biographical anecdotes with uncertainty.
+- [[JDSalinger|J. D. Salinger / 塞林格]], [[TheCatcherInTheRye|《麦田里的守望者》]], [[OonaONeill|Oona O'Neill]], and [[CharlieChaplin|Charlie Chaplin / 卓别林]] - episode 01's Salinger and author-image branch.
 - [[LewisCarroll]], [[AliceLiddell]], and [[AliceInWonderland]] - episode 179 case where author myth deflation requires caution rather than certainty.
 - [[ClassicReadingComplexity]] - reading old works without reverence or rejection alone.
 - [[OscarWilde]], [[LeoTolstoy]], [[HenryDavidThoreau]], [[LouisaMayAlcott]], [[VirginiaWoolf]], [[WBYeats]], and [[JRRTolkien]] - main examples.

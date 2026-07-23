@@ -1,4 +1,8 @@
 {
+  "01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422": {
+    "title": "01.麦田守望者：20世纪的美国贾宝玉",
+    "url": "/wiki/sources/01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422/"
+  },
   "03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687": {
     "title": "03.莱博维茨的赞歌：要有光，哪怕废土之上",
     "url": "/wiki/sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687/"
@@ -1335,6 +1339,10 @@
     "title": "Adobe Photoshop",
     "url": "/wiki/entities/adobephotoshop/"
   },
+  "AdolescentAlienationRecognition": {
+    "title": "Adolescent Alienation Recognition",
+    "url": "/wiki/concepts/adolescentalienationrecognition/"
+  },
   "AdoraCheung": {
     "title": "Adora Cheung",
     "url": "/wiki/entities/adoracheung/"
@@ -1802,6 +1810,10 @@
   "AmericanGreatness": {
     "title": "American Greatness",
     "url": "/wiki/entities/americangreatness/"
+  },
+  "AmericanJiaBaoyuComparison": {
+    "title": "American Jia Baoyu Comparison",
+    "url": "/wiki/concepts/americanjiabaoyucomparison/"
   },
   "AmericanMoment": {
     "title": "American Moment",
@@ -6111,6 +6123,10 @@
     "title": "Erin Griffith",
     "url": "/wiki/entities/eringriffith/"
   },
+  "ErnestHemingway": {
+    "title": "Ernest Hemingway / 海明威",
+    "url": "/wiki/entities/ernesthemingway/"
+  },
   "EscapeMyBubble": {
     "title": "Escape My Bubble",
     "url": "/wiki/entities/escapemybubble/"
@@ -7455,6 +7471,10 @@
     "title": "Ghana",
     "url": "/wiki/entities/ghana/"
   },
+  "GhostInTheShellStandaloneComplex": {
+    "title": "《攻壳机动队 STAND ALONE COMPLEX》 / Ghost in the Shell: Stand Alone Complex",
+    "url": "/wiki/entities/ghostintheshellstandalonecomplex/"
+  },
   "GianniInfantino": {
     "title": "Gianni Infantino",
     "url": "/wiki/entities/gianniinfantino/"
@@ -8258,6 +8278,10 @@
   "HiweedLinux": {
     "title": "Hiweed Linux",
     "url": "/wiki/entities/hiweedlinux/"
+  },
+  "HoldenCaulfield": {
+    "title": "Holden Caulfield / 霍尔顿",
+    "url": "/wiki/entities/holdencaulfield/"
   },
   "HoloAssets": {
     "title": "Holo Assets",
@@ -9146,6 +9170,10 @@
   "JDHealth": {
     "title": "京东健康",
     "url": "/wiki/entities/jdhealth/"
+  },
+  "JDSalinger": {
+    "title": "J. D. Salinger / 塞林格",
+    "url": "/wiki/entities/jdsalinger/"
   },
   "JDTravel": {
     "title": "JD Travel",
@@ -10235,6 +10263,10 @@
     "title": "Latin America Rightward Shift",
     "url": "/wiki/concepts/latinamericarightwardshift/"
   },
+  "LaughingMan": {
+    "title": "笑脸男 / Laughing Man",
+    "url": "/wiki/entities/laughingman/"
+  },
   "LaughterAgainstAuthority": {
     "title": "Laughter Against Authority",
     "url": "/wiki/concepts/laughteragainstauthority/"
@@ -10582,6 +10614,10 @@
   "LiteraryPublishingAsMaterialSupport": {
     "title": "Literary Publishing As Material Support",
     "url": "/wiki/concepts/literarypublishingasmaterialsupport/"
+  },
+  "LiterarySubcultureSymbolization": {
+    "title": "Literary Subculture Symbolization",
+    "url": "/wiki/concepts/literarysubculturesymbolization/"
   },
   "Lithuania": {
     "title": "Lithuania",
@@ -12775,6 +12811,10 @@
     "title": "Online Video Copyright Regime",
     "url": "/wiki/concepts/onlinevideocopyrightregime/"
   },
+  "OonaONeill": {
+    "title": "Oona O'Neill / 乌娜",
+    "url": "/wiki/entities/oonaoneill/"
+  },
   "OpenAI": {
     "title": "OpenAI",
     "url": "/wiki/entities/openai/"
@@ -13378,6 +13418,10 @@
   "PhilosophyWorkplaceSatire": {
     "title": "Philosophy Workplace Satire",
     "url": "/wiki/concepts/philosophyworkplacesatire/"
+  },
+  "PhoebeCaulfield": {
+    "title": "Phoebe Caulfield / 菲比",
+    "url": "/wiki/entities/phoebecaulfield/"
   },
   "PhotolithographyBottleneck": {
     "title": "Photolithography Bottleneck",
@@ -14886,6 +14930,10 @@
   "RoofscapeAttention": {
     "title": "Roofscape Attention",
     "url": "/wiki/concepts/roofscapeattention/"
+  },
+  "Rorschach": {
+    "title": "罗夏 / Rorschach",
+    "url": "/wiki/entities/rorschach/"
   },
   "RosieBloor": {
     "title": "Rosie Bloor",
@@ -16579,6 +16627,10 @@
     "title": "孙忠怀 / Sun Zhonghuai",
     "url": "/wiki/entities/sunzhonghuai/"
   },
+  "SunZhongxu": {
+    "title": "孙仲旭 / Sun Zhongxu",
+    "url": "/wiki/entities/sunzhongxu/"
+  },
   "Suning": {
     "title": "苏宁 / Suning",
     "url": "/wiki/entities/suning/"
@@ -17010,6 +17062,10 @@
   "TheBoyAndTheHeron": {
     "title": "《你想活出怎样的人生》 / The Boy and the Heron",
     "url": "/wiki/entities/theboyandtheheron/"
+  },
+  "TheCatcherInTheRye": {
+    "title": "《麦田里的守望者》 / The Catcher in the Rye",
+    "url": "/wiki/entities/thecatcherintherye/"
   },
   "TheContinental": {
     "title": "The Continental",
@@ -18270,6 +18326,10 @@
   "WashingtonPost": {
     "title": "Washington Post",
     "url": "/wiki/entities/washingtonpost/"
+  },
+  "Watchmen": {
+    "title": "《守望者》 / Watchmen",
+    "url": "/wiki/entities/watchmen/"
   },
   "WaterFireEducation": {
     "title": "Water And Fire Education",

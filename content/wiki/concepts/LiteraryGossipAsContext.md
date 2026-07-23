@@ -2,8 +2,8 @@
 title: "Literary Gossip As Context"
 type: concept
 tags: [literature, biography, interpretation, uncertainty]
-sources: [179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
-last_updated: 2026-07-15
+sources: [01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
+last_updated: 2026-07-23
 ---
 
 # Literary Gossip As Context
@@ -20,6 +20,8 @@ The source's practical rule is source discipline. Gossip can reveal why [[OscarW
 
 [[179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805]] adds [[LewisCarroll|Lewis Carroll / 刘易斯·卡罗尔]] and [[AliceLiddell|Alice Liddell / 爱丽丝·利德尔]] as a cautionary case. The episode discusses child photography, later suspicion, period context, Liddell's later memories, and modern ethical limits, while explicitly warning that speculation should not be treated as fact.
 
+[[01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422]] adds a Salinger case. The episode uses [[JDSalinger|J. D. Salinger / 塞林格]]'s war experience, reclusion, Zen interest, [[OonaONeill|Oona O'Neill]], and [[CharlieChaplin|Charlie Chaplin / 卓别林]] as context for [[TheCatcherInTheRye|《麦田里的守望者》]], but keeps the more dramatic anti-Hollywood explanation source-scoped rather than treating biography as a total key.
+
 ## Key Claims
 - Author anecdotes can help readers remember historical context, publishing context, and public reputation.
 - Gossip must be source-scoped because biography is often partial, interested, secondhand, or contested.
@@ -29,8 +31,10 @@ The source's practical rule is source discipline. Gossip can reveal why [[OscarW
 - Repeated gossip installments should accumulate context, not loosen attribution standards; severe claims about sexuality, racism, death, or authorship need especially visible source boundaries.
 - In film, gossip often points to production power and collaborator memory, not just personal eccentricity.
 - When author gossip involves children and possible sexualized interpretation, uncertainty, period context, present-day ethical judgment, and source limits must all remain explicit.
+- Romantic and wartime biography can illuminate a writer's atmosphere without proving that one relationship or trauma explains the whole novel.
 
 ## Connections
+- [[JDSalinger|J. D. Salinger / 塞林格]], [[OonaONeill|Oona O'Neill]], [[CharlieChaplin|Charlie Chaplin / 卓别林]], and [[TheCatcherInTheRye|《麦田里的守望者》]] - episode 01's Salinger biography case.
 - [[179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805]], [[LewisCarroll]], and [[AliceLiddell]] - Alice episode's evidence-bounded author-biography case.
 - [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]] - source episode.
 - [[82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589]] - second great-writer gossip installment.
