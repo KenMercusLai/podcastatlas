@@ -2,8 +2,8 @@
 title: "AI Literacy Against Worship"
 type: concept
 tags: [ai, education, governance, agency]
-sources: [tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, kate-crawford-mapping-empires]
-last_updated: 2026-07-10
+sources: [tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, kate-crawford-mapping-empires]
+last_updated: 2026-07-23
 ---
 
 # AI Literacy Against Worship
@@ -18,6 +18,8 @@ The concept supports public basic AI education and services, but treats commerci
 
 [[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]] adds a government worker-training contrast through the [[USDepartmentOfLabor|U.S. Department of Labor]]'s text-message AI course. The course supports baseline [[AIWorkerLiteracy]], but the episode warns that pro-AI reassurance and prompting practice do not answer worker anxiety about displacement, safeguards, or who captures productivity gains.
 
+[[tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128]] adds the writing-classroom version through [[ChristyGerdhary]]. AI literacy means students learn what the tool can and cannot do, why prompt engineering is a writing practice rather than magic, how to make collaboration visible, and why [[AIDetectorBias]] makes automated policing ethically risky.
+
 ## Key Claims
 - AI education should not start only with prompt tricks or product walkthroughs.
 - People need concepts for AI limits, incentives, language framing, attention capture, and final responsibility.
@@ -27,6 +29,7 @@ The concept supports public basic AI education and services, but treats commerci
 - In education, AI literacy includes recognizing that a correct answer can still be a bad learning action if it bypasses the student's own thinking.
 - Public AI literacy includes understanding material costs, data extraction, media manipulation, and infrastructure power before accepting claims of progress or inevitability.
 - Worker-facing AI literacy should not collapse into tool optimism; it also needs labor, governance, and displacement context.
+- Classroom AI literacy includes transparent authorship, output evaluation, and detector-bias awareness, not only cheating rules.
 
 ## Connections
 - [[AIWorkerLiteracy]] and [[USDepartmentOfLabor|U.S. Department of Labor]] - worker-training branch added by Marketplace Tech.
@@ -37,3 +40,4 @@ The concept supports public basic AI education and services, but treats commerci
 - [[AIGovernanceAndCompliance]] — organizational and public guardrails around AI use.
 - [[AIShortcutRisk]], [[AIAsTutor]], and [[LearningHowToLearn]] — student-learning branch added by Yangcong Xueyuan.
 - [[KateCrawford]], [[AIMetabolicInfrastructure]], and [[PublicInterestAI]] — democratic and material-infrastructure branch added by the Long Now source.
+- [[ChristyGerdhary]], [[AIWritingPedagogy]], [[TransparentAIUse]], and [[AIDetectorBias]] - writing-classroom literacy branch added by Marketplace Tech.

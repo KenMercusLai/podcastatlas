@@ -2,8 +2,8 @@
 title: "First Draft Thinking"
 type: concept
 tags: [ai, education, learning, writing]
-sources: [tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources: [tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128]
+last_updated: 2026-07-23
 ---
 
 # First Draft Thinking
@@ -14,12 +14,15 @@ The concept does not reject [[AIAsTutor]]. Its claim is about order. AI can expl
 
 First draft thinking therefore connects classroom design to [[SelfDirectedLearning]], [[LearningHowToLearn]], and [[HumanJudgmentUnderAI]]. Teachers can preserve it through AI-free time, teacher-led instruction, and supervised independent practice; students preserve it by delaying AI long enough to experience productive struggle rather than only answer retrieval.
 
+[[tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128]] adds a complementary writing-center version through [[ChristyGerdhary]]. Once students have human material to work from, they can use AI to remediate, transform, or collaborate transparently, then judge whether the result still carries their own memory, language, and purpose. This extends first draft thinking into [[AIWritingPedagogy]] rather than replacing it.
+
 ## Key Claims
 - The first attempt is not a disposable step; it is where students practice synthesis, recall, transfer, and error detection.
 - AI assistance is safer after the student has produced a draft, hypothesis, partial solution, or explicit confusion.
 - Explanation quality does not guarantee learning if the student skips the reasoning that the explanation was meant to support.
 - AI-free classroom time can be a practical scaffold for first-draft thinking because AI is difficult to exclude from home internet use.
 - The goal is productive friction, not helpless frustration: AI can still enter after the learner has done enough thinking to use the help actively.
+- In writing classes, the protected first draft can become the material students compare against AI transformations, color-coded collaboration, and final artifacts that exceed generic output.
 
 ## Connections
 - [[HeatherSchwartz]] and [[RAND]] - source speaker and study context.
@@ -28,3 +31,4 @@ First draft thinking therefore connects classroom design to [[SelfDirectedLearni
 - [[SelfDirectedLearning]] and [[LearningHowToLearn]] - student capacities trained by first-draft work.
 - [[LearningExperienceDesign]] - classroom and product design can create space for productive struggle.
 - [[AIUsePacing]] and [[HumanJudgmentUnderAI]] - deciding when to slow down or refuse AI output is part of the skill.
+- [[ChristyGerdhary]], [[AIWritingPedagogy]], and [[TransparentAIUse]] - writing-class extension added by the January 15 Marketplace Tech episode.

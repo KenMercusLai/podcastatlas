@@ -2,8 +2,8 @@
 title: "Learning Experience Design"
 type: concept
 tags: [education, product-design, learning, ai]
-sources: [tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
-last_updated: 2026-07-12
+sources: [tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1]
+last_updated: 2026-07-23
 ---
 
 # Learning Experience Design
@@ -16,6 +16,8 @@ This concept explains why Yangcong did not simply pursue photo-solution search, 
 
 [[tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128]] adds a classroom sequencing pattern. [[HeatherSchwartz]] argues that educators need AI-free periods for [[FirstDraftThinking]], followed by careful AI use after the student has already attempted synthesis. That makes timing and supervised independent practice part of learning experience design, not only tool selection.
 
+[[tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128]] adds a writing-assignment pattern through [[ChristyGerdhary]]. Students can remediate earlier work with AI, color-code human and bot contributions, or create an artifact AI cannot make on its own. That makes [[TransparentAIUse]], [[AIWritingPedagogy]], and [[AIDetectorBias]] part of learning experience design because the task structure decides whether AI use becomes reflection, shortcut, or unfair suspicion.
+
 ## Key Claims
 - A learning product should explain why a step exists, not only what the next step is.
 - Abstract concepts often need motion, visualization, and comparison rather than a talking-head lecture.
@@ -23,6 +25,7 @@ This concept explains why Yangcong did not simply pursue photo-solution search, 
 - Short achievement loops can help students build confidence before attention and motivation fade.
 - Data should improve the lesson itself, not only personalize recommendations after the lesson has failed.
 - The learning environment may need protected no-AI intervals so students practice the first draft before receiving machine explanations.
+- AI writing assignments can make process, authorship, and final judgment visible instead of relying only on hidden compliance or detector scores.
 
 ## Connections
 - [[SelfDirectedLearning]] — goal the design is meant to train.
@@ -31,3 +34,4 @@ This concept explains why Yangcong did not simply pursue photo-solution search, 
 - [[AIShortcutRisk]] — failure mode when design optimizes answer speed instead of learning.
 - [[EducationTechnologyFairness]] — scalable design route that avoids depending entirely on expensive human service.
 - [[FirstDraftThinking]], [[HeatherSchwartz]], and [[RAND]] - Marketplace Tech's AI-free classroom timing extension.
+- [[ChristyGerdhary]], [[AIWritingPedagogy]], [[TransparentAIUse]], and [[AIDetectorBias]] - Marketplace Tech's remediation-assignment and detector-fairness extension.

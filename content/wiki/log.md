@@ -3859,6 +3859,10 @@ Added source page for the Marketplace Tech episode with David Brancaccio on rebu
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-23] ingest | Teaching students to 'be better than a robot'
+
+Added source page for the Marketplace Tech episode with Christy Gerdhary on AI in classrooms, writing pedagogy, transparent AI collaboration, detector bias, and assignments that ask students to create work beyond generic chatbot output. Created pages for Christy Gerdhary, Babson College, The Generator, AI Writing Pedagogy, Transparent AI Use, and AI Detector Bias; updated overview, index, Marketplace Tech, First Draft Thinking, AI Shortcut Risk, Human Judgment Under AI, AI Literacy Against Worship, and Learning Experience Design. No direct contradiction found; the source complements the March 23 AI homework episode by shifting from first-attempt timing to visible collaboration, care-centered integrity practice, and multimodal writing assignments.
+
 ## [2026-07-23] ingest | E231｜从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？
 
 Added source page for the 硅谷101 episode with Zhang Kuo on Alibaba's Axio, B2B-to-A2A trade, agentic sourcing, one-person companies, long-context business agents, token/value pricing, and AI-native organization response to new models. Created pages for Zhang Kuo, Axio, Cloud Cowork, B2B to A2A, Agentic B2B Sourcing, and Model-Responsive AI Native Organization; updated overview, index, Alibaba, Qwen, Anthropic, Silicon Valley 101, OpenClaw, One-Person Company, Agentic Workflow, Agentic Commerce, Enterprise Agent Governance, Outcome-Based AI Pricing, Agent RL, Persistent Agent Memory, AI Organization Design, AI As Business Operator, and Computer Use Agent. No direct contradiction found; the source extends agentic commerce into higher-stakes B2B workflows and qualifies one-person-company optimism with data grounding, verification, governance, and long business-memory requirements.
@@ -3886,6 +3890,10 @@ Ran lint after health passed. Health found no empty/stub files, index drift, or 
 ## [2026-07-23] ingest | E232｜餐饮出海有新招儿吗？从鼎泰丰与贡茶拿下美国初代销冠聊起
 
 Added source page for the 硅谷101 episode on Din Tai Fung, Gong Cha, U.S. restaurant real estate, tea-drink franchising, culture-led food adoption, and why Chinese food brands need local consumer legibility rather than China-speed expansion assumptions. Created pages for Din Tai Fung, Bibigo, Thailand, Haidilao, HeyTea, Moli Nai Bai, Chagee, Wallace, Jollibee, Fei Da Chu, U.S. Restaurant Real Estate Constraint, Restaurant Cultural Legibility, and Culture-Led Food Adoption; updated overview, index, Silicon Valley 101, United States, China, Gong Cha, Global Product Localization, Restaurant Experience Design, Retail Site Selection, Local Market Proof, Franchise-Led Consumer Chain Expansion, Beverage Category Convergence, Chain Restaurant Standardization, and Consumer Brand Moat. No direct contradiction found; the source qualifies existing localization and experience-consumption branches by making leases, permits, local franchisees, cultural scenes, and repeat-use context central to restaurant globalization.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-23] lint | Wiki health check
 

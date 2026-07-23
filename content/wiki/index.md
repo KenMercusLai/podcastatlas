@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Teaching students to 'be better than a robot'](sources/tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128.md) — Marketplace Tech episode with Christy Gerdhary on AI in classrooms, writing pedagogy, detector bias, transparent AI collaboration, and assignments that ask students to exceed generic chatbot output.
 - [E232｜餐饮出海有新招儿吗？从鼎泰丰与贡茶拿下美国初代销冠聊起](sources/e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d.md) — 硅谷101 episode on Din Tai Fung, Gong Cha, U.S. restaurant real estate, tea-drink franchising, cultural food adoption, and why Chinese food brands need local legibility rather than home-market speed.
 - [E231｜从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？](sources/e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70.md) — 硅谷101 episode with Zhang Kuo on Alibaba's Axio, B2B-to-A2A trade, agentic sourcing, one-person companies, long-context business agents, and AI-native organization response.
 - [E230｜1万亿收入预期背后：英伟达的巅峰与软肋](sources/e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b.md) — 硅谷101 episode on Nvidia's $1 trillion Blackwell/Vera Rubin order narrative, inference demand, HBM and advanced packaging constraints, GPU cloud operations, neoclouds, and data-center land/power bottlenecks.
@@ -484,6 +485,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Christy Gerdhary](entities/ChristyGerdhary.md) — Babson writing professor and Writing Center director explaining AI writing pedagogy, transparent collaboration, and detector-bias concerns.
+- [Babson College](entities/BabsonCollege.md) — Institutional setting for The Generator and the Marketplace Tech classroom-AI episode.
+- [The Generator](entities/TheGenerator.md) — Babson faculty group convening educators around AI, values-based teaching, care, and student perspectives.
 - [Din Tai Fung / 鼎泰丰](entities/DinTaiFung.md) — Restaurant-chain case for U.S. soup-dumpling legibility, slow rollout, mall/city site selection, and chain standardization.
 - [Bibigo](entities/Bibigo.md) — Korean frozen-food brand used to show how cultural awareness, grocery channels, and cooking-method adaptation combine in U.S. food adoption.
 - [Thailand](entities/Thailand.md) — Country case for state-backed Thai food promotion, tourism familiarity, and cuisine legibility in the United States.
@@ -3118,6 +3122,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Writing Pedagogy](concepts/AIWritingPedagogy.md) — Classroom approach that teaches students to inspect, disclose, remix, and exceed AI-generated writing rather than only ban or hide tool use.
+- [Transparent AI Use](concepts/TransparentAIUse.md) — Process-visible AI collaboration pattern where students show which work is theirs, what the tool changed, and how they judged the result.
+- [AI Detector Bias](concepts/AIDetectorBias.md) — Risk that AI-writing detectors create uneven suspicion or false positives, especially for already marginalized students.
 - [U.S. Restaurant Real Estate Constraint](concepts/USRestaurantRealEstateConstraint.md) — E232 concept that U.S. restaurant rollout depends on leases, permits, foodservice-ready sites, landlords, buildout time, and local operator credibility.
 - [Restaurant Cultural Legibility](concepts/RestaurantCulturalLegibility.md) — E232 concept for whether local consumers understand a food's format, occasion, ordering method, and repeat reason.
 - [Culture-Led Food Adoption](concepts/CultureLedFoodAdoption.md) — E232 concept for entertainment, tourism, government promotion, channels, and diaspora memory making cuisine easier to try.

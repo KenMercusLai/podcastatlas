@@ -727,6 +727,10 @@
     "title": "AI Data Memory Infrastructure",
     "url": "/wiki/concepts/aidatamemoryinfrastructure/"
   },
+  "AIDetectorBias": {
+    "title": "AI Detector Bias",
+    "url": "/wiki/concepts/aidetectorbias/"
+  },
   "AIDiscoverySEO": {
     "title": "AI Discovery SEO",
     "url": "/wiki/concepts/aidiscoveryseo/"
@@ -1074,6 +1078,10 @@
   "AIWorkforceMonitoring": {
     "title": "AI Workforce Monitoring",
     "url": "/wiki/concepts/aiworkforcemonitoring/"
+  },
+  "AIWritingPedagogy": {
+    "title": "AI Writing Pedagogy",
+    "url": "/wiki/concepts/aiwritingpedagogy/"
   },
   "AIWrittenJournalism": {
     "title": "AI-Written Journalism",
@@ -2442,6 +2450,10 @@
   "BaMaGua": {
     "title": "《扒马褂》",
     "url": "/wiki/entities/bamagua/"
+  },
+  "BabsonCollege": {
+    "title": "Babson College",
+    "url": "/wiki/entities/babsoncollege/"
   },
   "BabyTree": {
     "title": "宝宝树 / BabyTree",
@@ -3858,6 +3870,10 @@
   "ChristyClement": {
     "title": "Christy Clement",
     "url": "/wiki/entities/christyclement/"
+  },
+  "ChristyGerdhary": {
+    "title": "Christy Gerdhary",
+    "url": "/wiki/entities/christygerdhary/"
   },
   "ChronicFoodAdditiveRisk": {
     "title": "Chronic Food Additive Risk",
@@ -16727,6 +16743,10 @@
     "title": "《经济学的思维方式》 / The Economic Way of Thinking",
     "url": "/wiki/entities/theeconomicwayofthinking/"
   },
+  "TheGenerator": {
+    "title": "The Generator",
+    "url": "/wiki/entities/thegenerator/"
+  },
   "TheGreenPlanet": {
     "title": "《绿色星球》",
     "url": "/wiki/entities/thegreenplanet/"
@@ -17134,6 +17154,10 @@
   "TranslationPublishingWorkflow": {
     "title": "Translation Publishing Workflow",
     "url": "/wiki/concepts/translationpublishingworkflow/"
+  },
+  "TransparentAIUse": {
+    "title": "Transparent AI Use",
+    "url": "/wiki/concepts/transparentaiuse/"
   },
   "TraumaNumbing": {
     "title": "Trauma Numbing",
@@ -19954,6 +19978,10 @@
   "tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128": {
     "title": "Building a home with future fires in mind",
     "url": "/wiki/sources/tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128/"
+  },
+  "tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128": {
+    "title": "Teaching students to 'be better than a robot'",
+    "url": "/wiki/sources/tech-20260115-0115-mp-tech-pod-128-tech-20260115-0115-mp-tech-pod-128/"
   },
   "tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128": {
     "title": "Making the most of AI, without the hype",
