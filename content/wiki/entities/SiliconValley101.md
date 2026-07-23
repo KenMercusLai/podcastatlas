@@ -12,6 +12,8 @@ last_updated: 2026-07-23
 
 [[e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]] adds a semiconductor and AI-infrastructure business installment. The show uses [[ZhangLu]], [[XiaoZhibin]], [[MarkRen]], and [[AlexGMICloud|Alex]] to examine [[Nvidia]]'s $1 trillion order narrative across [[NvidiaBlackwellPlatform|Blackwell]], [[NvidiaVeraRubinPlatform|Vera Rubin]], inference demand, chip design, [[AdvancedPackaging]], [[HighBandwidthMemory]], [[GPUCloudOperations]], [[NeoCloud]], and [[DataCenterPowerBottleneck|land and power]].
 
+[[e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70]] adds a B2B agent infrastructure installment. The show interviews [[ZhangKuo]] on [[Alibaba]], [[Axio]], [[B2BToA2A]], [[AgenticB2BSourcing]], and why small-business agents need trade data, sourcing workflows, verification, long memory, and model-responsive organization rather than only a general assistant.
+
 ## Connections
 - [[ZhangLu]], [[XiaoZhibin]], [[MarkRen]], [[AlexGMICloud|Alex]], and [[GMICloud]] - Nvidia and GPU-cloud episode context from E230.
 - [[Nvidia]], [[NvidiaBlackwellPlatform]], [[NvidiaVeraRubinPlatform]], [[InferenceAsCashFlow]], [[TokenPerWatt]], and [[AIInfrastructureFullStackMoat]] - AI infrastructure and chip-platform branch added by E230.
@@ -28,3 +30,4 @@ last_updated: 2026-07-23
 - [[HeQianran]], [[YangLu]], [[ZhangCongzhi]], [[CATL]], [[BYD]], [[ATL]], and [[Northvolt]] — power-battery industry cases from E229.
 - [[PowerBatteryIndustryChain]], [[BatteryManufacturingKnowHow]], [[BatteryConsistencySafety]], [[SodiumIonBatteryStorage]], and [[SolidStateBatteryCommercialization]] — battery-manufacturing and technology-route concepts added by E229.
 - [[HanZheng]], [[SuduTechnology]], [[Sim2Real]], [[Structured3DRobotData]], and [[LayeredRobotArchitecture]] — robotics route debate added by E244.
+- [[ZhangKuo]], [[Alibaba]], [[Axio]], [[B2BToA2A]], and [[AgenticB2BSourcing]] - B2B agent infrastructure and one-person company branch added by E231.

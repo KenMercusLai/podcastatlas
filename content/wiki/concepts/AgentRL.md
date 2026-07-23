@@ -3,7 +3,7 @@ title: "Agent RL"
 type: concept
 tags: [agents, reinforcement-learning, infrastructure]
 sources: [tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]
-last_updated: 2026-07-08
+last_updated: 2026-07-23
 ---
 
 # Agent RL
@@ -14,6 +14,8 @@ The source treats Agent RL as harder and messier than ordinary post-training bec
 
 [[tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly]] adds [[Softmax]]'s alignment version of the same environment problem. [[EmmettShear]] says Softmax is building simulations and reinforcement-learning environments to measure whether agents can recognize a shared "we" and act as a group. In this branch, Agent RL is not only about task execution; it is also a way to test and train [[AICollectiveAlignment]].
 
+[[e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70]] adds a transaction-feedback version through [[Axio]]. [[ZhangKuo]] argues that B2B sourcing agents can learn from each stage of a trade chain: product ideas, design choices, supplier feasibility, margins, completed purchases, repeat procurement, and failures.
+
 ## Key Claims
 - Agent RL needs rollout infrastructure that can execute multi-step tasks through tools and frameworks, not only sample text completions.
 - The environment may be fuzzy, interruptible, and inconsistent across training and deployment.
@@ -21,6 +23,7 @@ The source treats Agent RL as harder and messier than ordinary post-training bec
 - Infrastructure must support heterogeneous resources, including GPU inference, CPU work, storage, service calls, timeouts, and recovery after partial failure.
 - Agent RL is linked to [[ModelHarnessCoEvolution]]: as the model changes, the framework, reward design, and evaluation tasks may also need to change.
 - Agent RL can also be used to test social and alignment behavior, such as whether agents recognize collective belonging in simulated environments.
+- B2B sourcing adds delayed but valuable reward signals because the platform can observe whether an idea became a transaction and whether the buyer kept purchasing.
 
 ## Connections
 - [[AgentPostTraining]] — broader training frame that includes Agent RL.
@@ -29,3 +32,4 @@ The source treats Agent RL as harder and messier than ordinary post-training bec
 - [[TrainingComputeAllocation]] — compute pressure created by more parallel experiments and rollout demand.
 - [[MultiAgentCollaboration]], [[MLCoding]], and [[LongHorizonAI]] — task classes where agent rollouts become useful and hard to evaluate.
 - [[Softmax]], [[EmmettShear]], [[AICollectiveAlignment]], and [[LearningEnvironmentCenteredAITraining]] — alignment-environment case added by the Emmett Shear YC offsite source.
+- [[Axio]], [[AgenticB2BSourcing]], [[B2BToA2A]], and [[EnterpriseAgentGovernance]] — transaction-feedback case added by E231.

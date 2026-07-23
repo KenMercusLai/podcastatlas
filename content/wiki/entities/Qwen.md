@@ -3,7 +3,7 @@ title: "Qwen"
 type: entity
 tags: [model, open-source, ai]
 sources: [ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb, 1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di]
-last_updated: 2026-07-08
+last_updated: 2026-07-23
 ---
 
 # Qwen
@@ -18,6 +18,8 @@ Qwen is Alibaba's model family and the technical focus of [[ali-qianwen-lizhi-yu
 
 [[e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di]] adds a post-training case through [[Apodex]]. The episode says Apodex's current [[DeepResearch]] model is based on Qwen and then post-trained for planning, search, and agent-team problem solving, making Qwen part of a [[RecursiveSelfImprovement]] and [[DiscoveryModel]] workflow rather than only a standalone assistant or open-source model family.
 
+[[e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70]] adds Qwen as the base-model collaborator behind [[Axio]]. [[ZhangKuo]] says Axio combines Qwen with models better suited to multimodal generation, coding, and agent reasoning, making Qwen part of a vertical [[AgenticB2BSourcing]] system rather than only a consumer assistant or open-source model family.
+
 ## Source Position
 - Considered important for China's AI competitiveness and overseas developer adoption.
 - Valued partly because open source makes the model usable by smaller teams and international startups.
@@ -27,6 +29,7 @@ Qwen is Alibaba's model family and the technical focus of [[ali-qianwen-lizhi-yu
 - In EP117, treated as Alibaba's consumer assistant brand and possible service-entry surface over [[Taobao]], [[Fliggy]], [[Damai]], [[Gaode]], [[DingTalk]], and [[Quark]].
 - In episode 134, treated as a domestic model strength that could feed [[VisionLanguageActionModels]], robot brains, and [[DataRecipeCoCreation]] demand.
 - In the Silicon Valley 101 source, treated as a base model that [[Apodex]] can post-train into a Deep Research and agent-team system.
+- In E231, treated as part of Alibaba's model stack for sourcing, design packs, supplier matching, and long-running B2B agent workflows.
 
 ## Connections
 - [[Alibaba]] — company behind Qwen.
@@ -37,3 +40,4 @@ Qwen is Alibaba's model family and the technical focus of [[ali-qianwen-lizhi-yu
 - [[AIAssistantServiceEntry]], [[AgenticCommerce]], and [[AIProductFragmentation]] — consumer assistant strategy added by EP117.
 - [[EmbodiedAI]], [[VisionLanguageActionModels]], [[DataRecipeCoCreation]], and [[RoboticsSimulationEvaluation]] — physical-AI data context added by episode 134.
 - [[Apodex]], [[DeepResearch]], [[RecursiveSelfImprovement]], and [[DiscoveryModel]] — post-training and research-agent context added by the Silicon Valley 101 source.
+- [[Axio]], [[ZhangKuo]], [[AgenticB2BSourcing]], and [[B2BToA2A]] — international B2B agent application added by E231.

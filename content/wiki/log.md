@@ -3859,6 +3859,10 @@ Added source page for the Marketplace Tech episode with David Brancaccio on rebu
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-23] ingest | E231｜从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？
+
+Added source page for the 硅谷101 episode with Zhang Kuo on Alibaba's Axio, B2B-to-A2A trade, agentic sourcing, one-person companies, long-context business agents, token/value pricing, and AI-native organization response to new models. Created pages for Zhang Kuo, Axio, Cloud Cowork, B2B to A2A, Agentic B2B Sourcing, and Model-Responsive AI Native Organization; updated overview, index, Alibaba, Qwen, Anthropic, Silicon Valley 101, OpenClaw, One-Person Company, Agentic Workflow, Agentic Commerce, Enterprise Agent Governance, Outcome-Based AI Pricing, Agent RL, Persistent Agent Memory, AI Organization Design, AI As Business Operator, and Computer Use Agent. No direct contradiction found; the source extends agentic commerce into higher-stakes B2B workflows and qualifies one-person-company optimism with data grounding, verification, governance, and long business-memory requirements.
+
 ## [2026-07-23] ingest | Is social media addictive? And are social media companies liable?
 
 Added source page for the Marketplace Tech episode with Eric Goldman on a Los Angeles social-media addiction trial, platform legal causation, Section 230's appeal posture, and spillover risk for other internet services. Created pages for Eric Goldman, Platform Legal Causation, Section 230, and Internet Liability Spillover; updated overview, index, Marketplace Tech, Meta, YouTube, Google, TikTok, Snapchat, Social Media Product Liability, Social Media Causation Science Wars, Addictive Interaction Design, State AG Platform Litigation, and Platform Damages And Disgorgement. No direct contradiction found; the source acts as a pre-verdict framing of the later social-media product-liability branch and keeps trial causation and appellate immunity unresolved.
@@ -3874,3 +3878,7 @@ Added source page for the 硅谷101 episode on Nvidia's GTC $1 trillion Blackwel
 ## [2026-07-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-23] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps. Deterministic checks scanned 5,109 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` and found no hub stubs, two fragile bridges, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; a bounded in-session review of the lint sample plus current overview/recent-ingest context found no direct contradictions or stale summaries, and flagged source-breadth gaps for several single-source concepts. Report returned in-session; `wiki/lint-report.md` was not saved.

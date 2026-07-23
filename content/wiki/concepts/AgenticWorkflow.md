@@ -3,7 +3,7 @@ title: "Agentic Workflow"
 type: concept
 tags: [agents, workflow, productivity]
 sources: [google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6, 130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi, e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb, 20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto, gaoshou-zenme-yong-ai-putongren-zenme-xue-ai-touziren-ruhe-tou-ai-duitan-kedaibiao-lizheng-ljqyo4tz0o2-pmsl-mjx6umsuzsc, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun, community-led-saas-growth-how-ninety-hit-44m-arr, agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b, duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe, renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o, tan-mi-claude-code-gao-dong-agent-harness-dui-tan-lai-xin-lu-lkluk3i7c4gzw4jvxee7odsfgis3, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces, ep108-vibe-coding-da-dizhen-cursor-dingjia-zhengyi-windsurf-shougou-fengbo-moxing-changshang-qin-erzi-men-you-jiang-ruhe-jinchang-lqn-icq1xqgk7xxxxzrpunj4fan, ai-hui-xie-daima-le-weishenme-ni-haishi-zuo-bu-chu-chanpin-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, ep124-weishenme-agent-shidai-cli-faner-chengle-zuiyoujie-lufh0-oxxxqthj-guc7o-1mexuax, agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq, ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz, weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]
-last_updated: 2026-07-09
+last_updated: 2026-07-23
 ---
 
 # Agentic Workflow
@@ -34,6 +34,8 @@ Agentic workflow is the practical alternative to chat-only AI use. In [[gaoshou-
 
 [[268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]] adds a mobile workbench version. In that source, the workflow starts from a phone task rather than a desktop project: the user combines files, chat, calendar, maps, meetings, and multiple AI tools on a foldable screen, while [[AIFileManagement]] and [[OnDeviceAI]] supply context for agents.
 
+[[e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70]] adds a high-stakes B2B workflow through [[Axio]]. [[ZhangKuo]] argues that long agent workflows must expose intermediate checkpoints because sourcing, pricing, tariffs, logistics, and supplier selection cannot be trusted as one-shot automation; the user has to verify key steps and feed standards back into the agent.
+
 ## Key Properties
 - Preserves and reuses project context.
 - Allows AI to call tools and act on real work artifacts.
@@ -61,6 +63,7 @@ Agentic workflow is the practical alternative to chat-only AI use. In [[gaoshou-
 - In ability-expansion workflows, the agent can focus on fast feedback, editable output, and human skill extension rather than only unattended end-to-end completion.
 - At enterprise scale, the workflow problem shifts from building one useful agent to managing many agents across permissions, identities, tools, observability, and review.
 - On phones, agentic workflow may begin as visible task composition across apps and files before becoming fully autonomous execution.
+- In B2B sourcing, workflow quality depends on intermediate verification because small step-level errors can compound into unusable orders or bad margins.
 
 ## Connections
 - [[ContextEngineering]] — supplies the durable context that makes agentic work compound.
@@ -87,3 +90,4 @@ Agentic workflow is the practical alternative to chat-only AI use. In [[gaoshou-
 - [[PingGe]], [[HumanAgencyUnderAI]], [[AIUsePacing]], and [[OutputQualityGates]] — E163's everyday operating-habit and pacing layer.
 - [[GoogleCloud]], [[EnterpriseAgentGovernance]], and [[CapabilityOverhang]] — Google Cloud Next's enterprise-scale adoption and governance layer.
 - [[MobileAIWorkstation]], [[AIFileManagement]], [[XFold6]], and [[TaskAsAService]] — mobile task-workbench branch added by Luanfanshu 268.
+- [[Axio]], [[AgenticB2BSourcing]], [[B2BToA2A]], and [[EnterpriseAgentGovernance]] — high-stakes B2B workflow branch added by E231.

@@ -1467,6 +1467,10 @@
     "title": "Agent Self-Evolution",
     "url": "/wiki/concepts/agentselfevolution/"
   },
+  "AgenticB2BSourcing": {
+    "title": "Agentic B2B Sourcing",
+    "url": "/wiki/concepts/agenticb2bsourcing/"
+  },
   "AgenticCommerce": {
     "title": "Agentic Commerce",
     "url": "/wiki/concepts/agenticcommerce/"
@@ -2367,6 +2371,10 @@
     "title": "Awami League",
     "url": "/wiki/entities/awamileague/"
   },
+  "Axio": {
+    "title": "Axio",
+    "url": "/wiki/entities/axio/"
+  },
   "Axiom": {
     "title": "Axiom",
     "url": "/wiki/entities/axiom/"
@@ -2390,6 +2398,10 @@
   "Aze": {
     "title": "Aze",
     "url": "/wiki/entities/aze/"
+  },
+  "B2BToA2A": {
+    "title": "B2B to A2A",
+    "url": "/wiki/concepts/b2btoa2a/"
   },
   "BASES": {
     "title": "BASES",
@@ -3978,6 +3990,10 @@
   "ClosedCircleMystery": {
     "title": "暴风雪山庄 / Closed-Circle Mystery",
     "url": "/wiki/concepts/closedcirclemystery/"
+  },
+  "CloudCowork": {
+    "title": "Cloud Cowork",
+    "url": "/wiki/entities/cloudcowork/"
   },
   "CloudStoragePhysicality": {
     "title": "Cloud Storage Physicality",
@@ -11651,6 +11667,10 @@
     "title": "Model Provider Tool Competition",
     "url": "/wiki/concepts/modelprovidertoolcompetition/"
   },
+  "ModelResponsiveAINativeOrganization": {
+    "title": "Model-Responsive AI Native Organization",
+    "url": "/wiki/concepts/modelresponsiveainativeorganization/"
+  },
   "ModelRoutingCostControl": {
     "title": "Model Routing Cost Control",
     "url": "/wiki/concepts/modelroutingcostcontrol/"
@@ -18783,6 +18803,10 @@
     "title": "Zhang Jiayuan",
     "url": "/wiki/entities/zhangjiayuan/"
   },
+  "ZhangKuo": {
+    "title": "张阔 / Zhang Kuo",
+    "url": "/wiki/entities/zhangkuo/"
+  },
   "ZhangLe": {
     "title": "Zhang Le",
     "url": "/wiki/entities/zhangle/"
@@ -19258,6 +19282,10 @@
   "e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b": {
     "title": "E230｜1万亿收入预期背后：英伟达的巅峰与软肋",
     "url": "/wiki/sources/e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b/"
+  },
+  "e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70": {
+    "title": "E231｜从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？",
+    "url": "/wiki/sources/e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70/"
   },
   "e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde": {
     "title": "E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE",
