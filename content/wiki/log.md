@@ -4371,3 +4371,11 @@ Added source page for a 蜜獾吃书 episode on 王莽, 张向荣《祥瑞》, W
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | 127. 闲聊十二生肖之龙：神奇动物在哪里
+
+Added source page for the 蜜獾吃书 zodiac-dragon episode on the contested origins of 十二生肖, early Chinese dragon layering, rain rituals, Buddhist dragon-king material, imperial dragon robes and objects, the Qing dragon flag, Dragon translation, European image circulation, totemist nationalism, Wen Yiduo, Shi Aidong's 《中国龙的发明》, and the popularization of 《龙的传人》. Created pages for Chinese Dragon, Qing Dragon Flag, Shi Aidong, 《中国龙的发明：近现代中国形象的域外变迁》, Wen Yiduo, 《龙的传人》, Chinese Zodiac, Chinese Dragon Mythic Layering, Chinese Dragon Imperial Symbolism, Dragon National Symbol Invention, Cross-Cultural Dragon Translation, and Totemism And Nationalism; updated overview, index, 蜜獾吃书, Myth As Historical Evidence, Mythic Source Layering, Story Motif Transmission, Chinese Folk Religion Layering, Folklore As Social Memory, and Historical Memory Contest. No direct contradiction found; the source extends the wiki's folklore-method and historical-memory branches by showing how a symbol can preserve old mythic and imperial material while acquiring its national meaning through modern media, translation, flags, scholarship, and political need.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

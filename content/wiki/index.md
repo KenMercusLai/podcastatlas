@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [127. 闲聊十二生肖之龙：神奇动物在哪里](sources/127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655.md) — 蜜獾吃书 episode on the zodiac dragon, early dragon layers, imperial dragon symbolism, the Qing dragon flag, Dragon translation, totemist nationalism, and the modern invention of "descendants of the dragon" identity.
 - [126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖](sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780.md) — 蜜獾吃书 episode on 王莽, 张向荣《祥瑞》, Western Han sacred legitimacy, Mandate of Heaven backfire, omen politics, Wang Mang's reforms, frontier moralism, Xin collapse, and Liu Xiu at Kunyang.
 - [125. 马拉之死：卑鄙的暗杀，或正义的处决？](sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516.md) — 蜜獾吃书 episode on Marat's assassination by Charlotte Corday, David's martyr image, French Revolution factions, Jacobin terror, Lavoisier and anti-expert suspicion, and the ethics of political assassination.
 - [124. 恺撒之死：历史的韵脚，是否已失效？](sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361.md) — 蜜獾吃书 episode on Julius Caesar, the late Roman Republic crisis, army loyalty shifting toward commanders, Brutus and the assassination conspiracy, Antony and Octavian, Shakespeare's memory of Caesar's death, and republican memory after institutional failure.
@@ -543,6 +544,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Chinese Dragon / 龙](entities/ChineseDragon.md) — Dragon symbol read by episode 127 as a layered field of shape, rain, divine transport, imperial rank, folk story, and modern national identity.
+- [Qing Dragon Flag / 大清龙旗](entities/QingDragonFlag.md) — Late-Qing flag whose confused diplomatic, commercial, patriotic, revolutionary, and restorationist uses help publicize the dragon as a contested China symbol.
+- [施爱东 / Shi Aidong](entities/ShiAidong.md) — Folklore scholar whose book anchors episode 127's argument about modern Chinese dragon-image formation.
+- [《中国龙的发明：近现代中国形象的域外变迁》](entities/TheInventionOfChineseDragon.md) — Shi Aidong book recommended by episode 127 for the modern invention and image circulation of the Chinese dragon.
+- [闻一多 / Wen Yiduo](entities/WenYiduo.md) — Scholar whose dragon-totem argument gives episode 127 a key case of nationalist scholarship under modern pressure.
+- [《龙的传人》 / Descendants of the Dragon](entities/DescendantsOfTheDragon.md) — Popular song and phrase that helped fix "dragon = China" and "Chinese people = dragon descendants" as ordinary identity language.
 - [Wang Mang / 王莽](entities/WangMang.md) — Xin founder read by episode 126 as a product of Western Han sacred legitimacy, moral reputation, omen politics, and reform overcontrol.
 - [《祥瑞》](entities/XiangruiBook.md) — Zhang Xiangrong book used by episode 126 to reread Wang Mang through Heaven, omens, Confucian ideals, and late Western Han politics.
 - [Zhang Xiangrong / 张向荣](entities/ZhangXiangrong.md) — Author of 《祥瑞》, the book grounding episode 126's reconstruction of Wang Mang and Han legitimacy.
@@ -3618,6 +3625,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Chinese Zodiac / 十二生肖](concepts/ChineseZodiac.md) — Animal-cycle frame used by the dragon and horse episodes to connect timekeeping, folklore, animal symbolism, and origin-evidence caution.
+- [Chinese Dragon Mythic Layering / 中国龙神话层累](concepts/ChineseDragonMythicLayering.md) — Episode 127 frame for reading dragon imagery as accumulated shape, weather, water, ritual, Buddhist, imperial, and folk layers.
+- [Chinese Dragon Imperial Symbolism / 中国龙的皇权符号化](concepts/ChineseDragonImperialSymbolism.md) — Gradual process by which dragon imagery became a dense imperial visual marker through vehicles, robes, bans, imitation, and Qing court display.
+- [Dragon National Symbol Invention / 龙的民族象征发明](concepts/DragonNationalSymbolInvention.md) — Episode 127 synthesis that the dragon became a modern Chinese national symbol through inherited imagery, Qing flags, translation, totemism, nationalism, and popular culture.
+- [Cross-Cultural Dragon Translation / 龙与 Dragon 的跨文化翻译](concepts/CrossCulturalDragonTranslation.md) — Episode 127 corrective that translating 龙 as Dragon was historically intelligible but later shaped foreign image circulation and nationalist memory.
+- [Totemism And Nationalism / 图腾主义与民族主义](concepts/TotemismNationalism.md) — Frame for how imported totem theory and modern national crisis made dragon-origin arguments socially powerful despite evidence risks.
 - [Mandate of Heaven Legitimacy / 天命合法性](concepts/MandateOfHeavenLegitimacy.md) — Sacred legitimacy frame where Han rule is grounded in Heaven but becomes vulnerable when Heaven can be imagined as shifting.
 - [Dynastic Legitimacy Backfire / 王朝合法性回旋镖](concepts/DynasticLegitimacyBackfire.md) — Episode 126's mechanism where a dynasty's own sacred legitimacy logic turns into a tool for replacement.
 - [Chenwei Politics / 谶纬政治](concepts/ChenweiPolitics.md) — Prophetic and apocryphal interpretation used as political evidence in Wang Mang's rise and later recentralized by Liu Xiu.

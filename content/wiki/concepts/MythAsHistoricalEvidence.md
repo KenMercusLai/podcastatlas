@@ -2,13 +2,15 @@
 title: "Myth As Historical Evidence"
 type: concept
 tags: [mythology, evidence, interpretation, anthropology]
-sources: [111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368]
-last_updated: 2026-07-15
+sources: [111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
+last_updated: 2026-07-24
 ---
 
 # Myth As Historical Evidence
 
 Myth as historical evidence is the method [[JohannJakobBachofen]] makes central in [[MotherRight|《母权论》 / Mother Right]] and that [[178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368]] evaluates cautiously. Bachofen treats myths, tragedies, classical texts, symbols, gods, and heroic conflicts as traces of older social orders rather than mere fantasy.
+
+[[127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]] adds a dragon-specific version through [[ChineseDragon|龙]]. The episode treats dragon imagery as strong evidence for changing symbolic life, ritual practice, imperial display, and modern identity work, but not as proof that a unified ancient Chinese nation already understood itself as a dragon totem. That makes [[DragonNationalSymbolInvention]] a modern-symbol case for the same guardrail.
 
 [[171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962]] adds a horse-specific caution. Myths about [[Longma|龙马]], divine horses, centaurs, post-contact horse origins, and famous rescuing mounts can reveal how cultures understood speed, status, rescue, conquest, and contact, but they cannot by themselves prove a clean historical origin or direct borrowing path.
 
@@ -23,6 +25,7 @@ The episode finds this method productive but dangerous. It can reveal that stori
 - Mythic evidence is strongest when supported by language, material culture, law, kinship records, or comparative anthropology.
 - Mythic resonance alone cannot prove a historical institution existed.
 - Bachofen's power is that he reads myth as socially meaningful; his weakness is that he often treats meaning as stronger evidence than it can bear.
+- Dragon symbolism shows the same boundary at national scale: a powerful image can become collective identity without proving ancient national self-consciousness.
 - Festival evidence needs the same split: textual date, ritual object, local practice, and cross-cultural resemblance do not all carry equal proof.
 - Legend evidence needs the same split: a dated local record, a later magical plot, and a social-history interpretation are not the same kind of proof.
 
@@ -34,3 +37,4 @@ The episode finds this method productive but dangerous. It can reveal that stori
 - [[QixiFestival|七夕 / Qixi]], [[QixiCrossCulturalTransmission]], and [[SwanMaidenMotif]] - festival-history evidence case added by episode 152.
 - [[PiedPiperOfHamelin|花衣魔笛手]], [[LegendAsSocialHistory]], and [[EvidenceBoundFolkloreInquiry]] - legend-history evidence case added by episode 111.
 - [[ObservationBeforeInference]] and [[InterpretationAndOverinterpretation]] - wiki guardrails for evidence discipline.
+- [[ChineseDragon|龙]], [[DragonNationalSymbolInvention]], and [[TotemismNationalism]] - dragon-national-symbol case added by episode 127.

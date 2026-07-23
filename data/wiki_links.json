@@ -127,6 +127,10 @@
     "title": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖",
     "url": "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
   },
+  "127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655": {
+    "title": "127. 闲聊十二生肖之龙：神奇动物在哪里",
+    "url": "/wiki/sources/127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655/"
+  },
   "130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi": {
     "title": "130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏",
     "url": "/wiki/sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi/"
@@ -4303,6 +4307,18 @@
     "title": "Chinese Domestic Operating Systems",
     "url": "/wiki/concepts/chinesedomesticoperatingsystems/"
   },
+  "ChineseDragon": {
+    "title": "Chinese Dragon / 龙",
+    "url": "/wiki/entities/chinesedragon/"
+  },
+  "ChineseDragonImperialSymbolism": {
+    "title": "Chinese Dragon Imperial Symbolism / 中国龙的皇权符号化",
+    "url": "/wiki/concepts/chinesedragonimperialsymbolism/"
+  },
+  "ChineseDragonMythicLayering": {
+    "title": "Chinese Dragon Mythic Layering / 中国龙神话层累",
+    "url": "/wiki/concepts/chinesedragonmythiclayering/"
+  },
   "ChineseEcommercePlatformHistory": {
     "title": "Chinese Ecommerce Platform History",
     "url": "/wiki/concepts/chineseecommerceplatformhistory/"
@@ -4334,6 +4350,10 @@
   "ChinesePrivateAirlineOpening": {
     "title": "Chinese Private Airline Opening",
     "url": "/wiki/concepts/chineseprivateairlineopening/"
+  },
+  "ChineseZodiac": {
+    "title": "Chinese Zodiac / 十二生肖",
+    "url": "/wiki/concepts/chinesezodiac/"
   },
   "ChipWar": {
     "title": "Chip War",
@@ -5227,6 +5247,10 @@
     "title": "Cross-Cultural Assisted Death Ethics",
     "url": "/wiki/concepts/crossculturalassisteddeathethics/"
   },
+  "CrossCulturalDragonTranslation": {
+    "title": "Cross-Cultural Dragon Translation / 龙与 Dragon 的跨文化翻译",
+    "url": "/wiki/concepts/crossculturaldragontranslation/"
+  },
   "CrossCulturalProductDesign": {
     "title": "Cross-Cultural Product Design",
     "url": "/wiki/concepts/crossculturalproductdesign/"
@@ -5867,6 +5891,10 @@
     "title": "Derivative Amplified Volatility",
     "url": "/wiki/concepts/derivativeamplifiedvolatility/"
   },
+  "DescendantsOfTheDragon": {
+    "title": "《龙的传人》 / Descendants of the Dragon",
+    "url": "/wiki/entities/descendantsofthedragon/"
+  },
   "DesignForOnePerson": {
     "title": "Design For One Person",
     "url": "/wiki/concepts/designforoneperson/"
@@ -6322,6 +6350,10 @@
   "DraftKings": {
     "title": "DraftKings",
     "url": "/wiki/entities/draftkings/"
+  },
+  "DragonNationalSymbolInvention": {
+    "title": "Dragon National Symbol Invention / 龙的民族象征发明",
+    "url": "/wiki/concepts/dragonnationalsymbolinvention/"
   },
   "DragonSpacecraft": {
     "title": "Dragon Spacecraft",
@@ -16131,6 +16163,10 @@
     "title": "秦总",
     "url": "/wiki/entities/qinzong/"
   },
+  "QingDragonFlag": {
+    "title": "Qing Dragon Flag / 大清龙旗",
+    "url": "/wiki/entities/qingdragonflag/"
+  },
   "QingFemaleInheritanceConstraint": {
     "title": "清代女性继承限制 / Qing Female Inheritance Constraint",
     "url": "/wiki/concepts/qingfemaleinheritanceconstraint/"
@@ -17851,6 +17887,10 @@
     "title": "Sheryl Sandberg",
     "url": "/wiki/entities/sherylsandberg/"
   },
+  "ShiAidong": {
+    "title": "施爱东 / Shi Aidong",
+    "url": "/wiki/entities/shiaidong/"
+  },
   "ShiCongbin": {
     "title": "Shi Congbin / 施从斌",
     "url": "/wiki/entities/shicongbin/"
@@ -19483,6 +19523,10 @@
     "title": "The Intelligence",
     "url": "/wiki/entities/theintelligence/"
   },
+  "TheInventionOfChineseDragon": {
+    "title": "《中国龙的发明：近现代中国形象的域外变迁》",
+    "url": "/wiki/entities/theinventionofchinesedragon/"
+  },
   "TheJourneyToSfanomoe": {
     "title": "《前往斯法诺莫埃的旅途》 / The Journey to Sfanomoë",
     "url": "/wiki/entities/thejourneytosfanomoe/"
@@ -19850,6 +19894,10 @@
   "TotalEnergies": {
     "title": "TotalEnergies",
     "url": "/wiki/entities/totalenergies/"
+  },
+  "TotemismNationalism": {
+    "title": "Totemism And Nationalism / 图腾主义与民族主义",
+    "url": "/wiki/concepts/totemismnationalism/"
   },
   "TouchNet": {
     "title": "TouchNet",
@@ -20938,6 +20986,10 @@
   "WellingtonManagement": {
     "title": "Wellington Management",
     "url": "/wiki/entities/wellingtonmanagement/"
+  },
+  "WenYiduo": {
+    "title": "闻一多 / Wen Yiduo",
+    "url": "/wiki/entities/wenyiduo/"
   },
   "WendyLiu": {
     "title": "Wendy Liu",

@@ -2,13 +2,15 @@
 title: "Story Motif Transmission"
 type: concept
 tags: [folklore, mythology, narrative, transmission]
-sources: [114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]
+sources: [114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
 last_updated: 2026-07-24
 ---
 
 # Story Motif Transmission
 
 Story motif transmission is the source's frame for how story patterns travel, recur, or get reinvented across cultures. In [[171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962]], [[MihuanChishu|蜜獾吃书]] uses horse material to show this: centaurs may reflect outsiders encountering skilled riders, Native American post-contact legends can retroactively place horses at creation, and Saiweng loses his horse can be compared with older fortune-reversal motifs.
+
+[[127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]] adds a zodiac-origin and dragon-story version. The episode treats cross-regional zodiac resemblance, dragon-king stories, "fallen dragon" reports, and folk tales of helping or killing dragons as material for comparison, while keeping [[ChineseZodiac|十二生肖]] origins and [[ChineseDragon|龙]] meanings open rather than forcing a single transmission route.
 
 [[152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062]] adds the [[SwanMaidenMotif]] version. The episode treats the hidden-clothing marriage plot in [[CowherdAndWeaverGirl|牛郎织女]] as a portable motif comparable with Buryat, Manchu, Celtic, Indian, Buddhist, and European stories, while keeping the route into Qixi open rather than overclaiming direct descent.
 
@@ -29,6 +31,7 @@ The concept is adjacent to [[MythicSourceLayering]] and [[AccretiveTextFormation
 ## Key Claims
 - Old-looking stories are not always ancient in the form people remember.
 - Similarity can come from borrowing, shared human situations, later invention, or retrospective tradition-making.
+- Zodiac and dragon material show that motif comparison can operate at the level of calendars, animals, ritual, and national symbols, not only individual plots.
 - A good comparison opens questions about routes and versions; it does not automatically prove direct descent.
 - Story motifs travel with war, trade, translation, colonial encounter, entertainment, and oral performance.
 - Stolen-garment marriage stories show why motif comparison also needs ethical attention: the same portable plot can preserve desire, coercion, escape, clan origin, or cautionary meaning in different settings.
@@ -51,3 +54,4 @@ The concept is adjacent to [[MythicSourceLayering]] and [[AccretiveTextFormation
 - [[UrbanLegend|都市传说]] - episode 95's modern rumor and anxiety extension.
 - [[IssunBoshi|一寸法师]], [[SaruKaniGassen|猿蟹合战]], [[FolkTaleMysteryRewriting|民间故事推理改写]], and [[SettingBasedMystery|设定系推理]] - episode 99's Japanese folk-tale mystery extension.
 - [[Crab|螃蟹]], [[CrabCulturalSymbolism]], and [[AnimalMoralProjection]] - episode 114's crab and Buddhist-story extension.
+- [[ChineseZodiac|十二生肖]], [[ChineseDragon|龙]], and [[ChineseDragonMythicLayering]] - dragon and zodiac-origin extension added by episode 127.
