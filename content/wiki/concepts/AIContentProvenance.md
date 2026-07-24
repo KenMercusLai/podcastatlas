@@ -2,11 +2,13 @@
 title: "AI Content Provenance"
 type: concept
 tags: [ai, provenance, trust, compliance]
-sources: [tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
+last_updated: 2026-07-24
 ---
 
 # AI Content Provenance
+
+[[a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55]] adds an art-market contrast through [[OldMastersMarketRevival]]. The episode says older works can feel more authentic in an AI age, which places material art objects beside technical provenance systems: trust can come from metadata and disclosure, but also from scarcity, physical history, expert attribution, and visible age.
 
 [[tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128]] adds the election-ad version through [[AIPoliticalAdDisclosurePatchwork]]. [[TimHarper]] says many U.S. states require disclaimers for manipulated political content, but label size, label duration, time windows, and covered uses vary. This makes provenance not just a media-trust problem, but a campaign-compliance and voter-interpretation problem.
 
@@ -40,6 +42,7 @@ AI content provenance is the practice of marking, disclosing, or tracing synthet
 - Newsroom bylines and labels can disclose AI use, but provenance does not automatically solve [[AIJournalismTrust]] when the concern is quality, care, or accountability.
 - Content credentials can reduce the [[AIRealityVerificationTax]], but only if capture devices, editing tools, platforms, and users preserve and interpret the signal.
 - Watermark detection can be decisive in a reporting workflow when a source presents generated material as identity proof.
+- Material scarcity and expert attribution can become a parallel authenticity signal when AI makes generated images plentiful.
 
 ## Connections
 
@@ -55,3 +58,4 @@ AI content provenance is the practice of marking, disclosing, or tracing synthet
 - [[AdvancedLocalExpressDesk]], [[AIWrittenJournalism]], [[AIRewriteDesk]], and [[AIJournalismTrust]] — newsroom disclosure and reader-trust branch added by Marketplace Tech.
 - [[ContentCredentials]], [[LinkedIn]], [[InformationApocalypse]], and [[RealityApathy]] - media-authenticity branch added by Marketplace Tech.
 - [[SynthID]], [[Gemini]], [[CaseyNewton]], and [[AIGeneratedHoaxEvidence]] - watermark-based source authentication branch added by Marketplace Tech.
+- [[OldMastersMarketRevival]], [[Christies|Christie's]], and [[Sothebys|Sotheby's]] - art-market authenticity contrast added by The Intelligence.

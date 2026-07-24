@@ -2,11 +2,13 @@
 title: "Israel"
 type: entity
 tags: [country, geopolitics, security]
-sources: [tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
-last_updated: 2026-07-18
+sources: [a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
+last_updated: 2026-07-24
 ---
 
 # Israel
+
+[[a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55]] adds Israel through [[LindseyGraham]]'s consistent support for the country and for [[BenjaminNetanyahu]]. The episode says Graham maintained that support despite growing American criticism of Israel's conduct in Gaza, making him part of the [[RepublicanForeignPolicyAdaptation]] branch as well as the existing Israel election and diplomacy branches.
 
 [[tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128]] adds Israel as one of the actors facing Iranian drone pressure. [[StaceyPettijohn]] says [[Shahed136]]-style drones are difficult for the U.S., Gulf partners, and Israel to manage because the threat cannot simply be eliminated and interception can be expensive, making [[DroneDefenseEconomics]] and [[CounterDroneLayeredDefense]] central to the defense problem.
 
@@ -25,3 +27,4 @@ The source frames Israel's behavior through security skepticism. Israeli forces 
 - [[DonaldTrump]] and [[JDVance]] - U.S. political figures used in the episode's strained-alliance frame.
 - [[BenjaminNetanyahu]], [[NaftaliBennett]], [[YairLapid]], and [[GadiEisenkot]] - election actors added by the Bibi source.
 - [[IsraeliElection2026]], [[HarediConscription]], and [[PalestinianQuestionInIsraeliPolitics]] - domestic politics concepts added by the Bibi source.
+- [[LindseyGraham]] and [[RepublicanForeignPolicyAdaptation]] - U.S. Republican support branch added by the later The Intelligence source.

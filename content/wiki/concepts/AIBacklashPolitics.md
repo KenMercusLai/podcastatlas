@@ -2,11 +2,13 @@
 title: "AI Backlash Politics"
 type: concept
 tags: [ai, politics, public-opinion]
-sources: [tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-07-24
 ---
 
 # AI Backlash Politics
+
+[[a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55]] adds a values-measurement branch to AI backlash. The source says many models cluster socially and economically left by American survey measures, while Chinese models show censorship patterns on politically sensitive topics. This does not map neatly onto one party's AI critique, but it gives public anxiety a sharper object: models may carry cultural and political defaults even when presented as neutral assistants.
 
 [[tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128]] adds a campaign-operator version of AI backlash. [[TimHarper]] says campaigns in 2024 avoided some manipulated-media uses partly because they feared voter backlash, but that restraint may weaken as campaigns normalize AI and worry about opponents gaining an advantage.
 
@@ -24,6 +26,7 @@ The concept matters because it adds a legitimacy constraint to the wiki's AI syn
 - Technology firms face not only product-market fit and infrastructure constraints, but also social-license constraints.
 - Redistribution of AI gains may become a mainstream political demand if ownership of AI companies creates concentrated windfalls.
 - Government AI literacy programs can reduce fear while still leaving displacement, safeguards, and infrastructure-cost politics unresolved.
+- Survey-measured model values can intensify public concern when AI tools are used for advice, education, or morally sensitive questions.
 
 ## Connections
 - [[AIWorkerLiteracy]], [[USDepartmentOfLabor|U.S. Department of Labor]], and [[SocialMediaProductLiability]] - Marketplace Tech policy-news branch around workers, children, and platform accountability.
@@ -33,3 +36,4 @@ The concept matters because it adds a legitimacy constraint to the wiki's AI syn
 - [[AICommercializationPressure]] - business constraint extended by political legitimacy.
 - [[AmericanDemocraticResilience]] - broader U.S. institutional branch where AI becomes another stress test.
 - [[DataCenterBacklash]] - local infrastructure version of the same public anxiety.
+- [[AIModelValueSurveying]], [[AIModelCensorship]], and [[AIAdviceMoralOutsourcing]] - model-values branch added by The Intelligence.

@@ -751,6 +751,10 @@
     "title": "AI Advertising Targeting",
     "url": "/wiki/concepts/aiadvertisingtargeting/"
   },
+  "AIAdviceMoralOutsourcing": {
+    "title": "AI Advice Moral Outsourcing",
+    "url": "/wiki/concepts/aiadvicemoraloutsourcing/"
+  },
   "AIAgentOverseasCommercialization": {
     "title": "AI Agent Overseas Commercialization",
     "url": "/wiki/concepts/aiagentoverseascommercialization/"
@@ -1110,6 +1114,14 @@
   "AIMetabolicInfrastructure": {
     "title": "AI Metabolic Infrastructure",
     "url": "/wiki/concepts/aimetabolicinfrastructure/"
+  },
+  "AIModelCensorship": {
+    "title": "AI Model Censorship",
+    "url": "/wiki/concepts/aimodelcensorship/"
+  },
+  "AIModelValueSurveying": {
+    "title": "AI Model Value Surveying",
+    "url": "/wiki/concepts/aimodelvaluesurveying/"
   },
   "AINPCSocialInfrastructure": {
     "title": "AI NPC Social Infrastructure",
@@ -1514,6 +1526,10 @@
   "AdamSmith": {
     "title": "Adam Smith / 亚当·斯密",
     "url": "/wiki/entities/adamsmith/"
+  },
+  "AdamWilliamsGallery": {
+    "title": "Adam Williams Gallery",
+    "url": "/wiki/entities/adamwilliamsgallery/"
   },
   "Adao": {
     "title": "Adao",
@@ -4690,6 +4706,10 @@
   "ChristianToya": {
     "title": "Christian Toya",
     "url": "/wiki/entities/christiantoya/"
+  },
+  "Christies": {
+    "title": "Christie's",
+    "url": "/wiki/entities/christies/"
   },
   "ChristinaCacioppo": {
     "title": "Christina Cacioppo",
@@ -9987,6 +10007,10 @@
     "title": "Henry Maine",
     "url": "/wiki/entities/henrymaine/"
   },
+  "HenryMcMaster": {
+    "title": "Henry McMaster",
+    "url": "/wiki/entities/henrymcmaster/"
+  },
   "HenryYin": {
     "title": "Henry Yin",
     "url": "/wiki/entities/henryyin/"
@@ -12435,6 +12459,10 @@
     "title": "Language Agent",
     "url": "/wiki/concepts/languageagent/"
   },
+  "LanguageDependentAIBias": {
+    "title": "Language-Dependent AI Bias",
+    "url": "/wiki/concepts/languagedependentaibias/"
+  },
   "LanguageModelScalingBet": {
     "title": "Language Model Scaling Bet",
     "url": "/wiki/concepts/languagemodelscalingbet/"
@@ -12926,6 +12954,10 @@
   "LindaTodich": {
     "title": "Linda Todich",
     "url": "/wiki/entities/lindatodich/"
+  },
+  "LindseyGraham": {
+    "title": "Lindsey Graham",
+    "url": "/wiki/entities/lindseygraham/"
   },
   "Lingguan": {
     "title": "龄官 / Lingguan",
@@ -15623,6 +15655,10 @@
     "title": "Old Book Materiality / 旧书物质性",
     "url": "/wiki/concepts/oldbookmateriality/"
   },
+  "OldMastersMarketRevival": {
+    "title": "Old Masters Market Revival",
+    "url": "/wiki/concepts/oldmastersmarketrevival/"
+  },
   "OlgaTokarczuk": {
     "title": "Olga Tokarczuk / 托卡尔丘克",
     "url": "/wiki/entities/olgatokarczuk/"
@@ -16186,6 +16222,10 @@
   "PatrickCollison": {
     "title": "Patrick Collison",
     "url": "/wiki/entities/patrickcollison/"
+  },
+  "PatrickWilliams": {
+    "title": "Patrick Williams",
+    "url": "/wiki/entities/patrickwilliams/"
   },
   "PatriotMissileSystem": {
     "title": "Patriot Missile System",
@@ -17914,6 +17954,10 @@
   "RepublicanChinaBankingSystem": {
     "title": "Republican China Banking System",
     "url": "/wiki/concepts/republicanchinabankingsystem/"
+  },
+  "RepublicanForeignPolicyAdaptation": {
+    "title": "Republican Foreign Policy Adaptation",
+    "url": "/wiki/concepts/republicanforeignpolicyadaptation/"
   },
   "RepublicanMemoryAgainstDictatorship": {
     "title": "Republican Memory Against Dictatorship / 反独裁的共和记忆",
@@ -19667,6 +19711,10 @@
     "title": "Sonalight",
     "url": "/wiki/entities/sonalight/"
   },
+  "SondreSolstad": {
+    "title": "Sondre Solstad",
+    "url": "/wiki/entities/sondresolstad/"
+  },
   "SongFactionalPolitics": {
     "title": "宋代党争 / Song Factional Politics",
     "url": "/wiki/concepts/songfactionalpolitics/"
@@ -19714,6 +19762,10 @@
   "Sora": {
     "title": "Sora",
     "url": "/wiki/entities/sora/"
+  },
+  "Sothebys": {
+    "title": "Sotheby's",
+    "url": "/wiki/entities/sothebys/"
   },
   "SouthFloridaTechMigration": {
     "title": "South Florida Tech Migration",
@@ -20626,6 +20678,10 @@
   "TakaichiSanae": {
     "title": "Takaichi Sanae",
     "url": "/wiki/entities/takaichisanae/"
+  },
+  "TakiAI": {
+    "title": "Taki AI",
+    "url": "/wiki/entities/takiai/"
   },
   "TakubokuBiography": {
     "title": "《石川啄木》 / Takuboku Biography",
@@ -22871,6 +22927,10 @@
     "title": "World Models",
     "url": "/wiki/concepts/worldmodels/"
   },
+  "WorldValuesSurvey": {
+    "title": "World Values Survey",
+    "url": "/wiki/entities/worldvaluessurvey/"
+  },
   "WritingPoetryIsFun": {
     "title": "《写诗真好玩》",
     "url": "/wiki/entities/writingpoetryisfun/"
@@ -23858,6 +23918,10 @@
   "Zynn": {
     "title": "Zynn",
     "url": "/wiki/entities/zynn/"
+  },
+  "a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55": {
+    "title": "A hawk who flew on political winds: Lindsey Graham",
+    "url": "/wiki/sources/a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55/"
   },
   "a-keir-death-experience-britains-pm-clings-on-698b0dc3337b2a3b2ef0aa07": {
     "title": "A Keir-death experience: Britain's PM clings on",

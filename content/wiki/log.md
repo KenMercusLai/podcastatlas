@@ -4252,6 +4252,10 @@ Added source page for a 蜜獾吃书 episode on 罗翔《法律的悖论》, cov
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-24] ingest | A hawk who flew on political winds: Lindsey Graham
+
+Added source page for a The Intelligence episode on Lindsey Graham's death and career, Republican foreign-policy adaptation under Trump, AI model value surveys and censorship, language-dependent AI bias, moral outsourcing through AI advice, and the renewed Old Masters market. Created pages for Lindsey Graham, Henry McMaster, Sondre Solstad, World Values Survey, Taki AI, Christie's, Sotheby's, Adam Williams Gallery, Patrick Williams, Republican Foreign Policy Adaptation, AI Model Value Surveying, AI Model Censorship, Language-Dependent AI Bias, AI Advice Moral Outsourcing, and Old Masters Market Revival; updated overview, index, The Intelligence, Economist Podcasts, Donald Trump, Republican Party, Ukraine, Iran, Israel, Benjamin Netanyahu, Human Judgment Under AI, AI Backlash Politics, and AI Content Provenance. No direct contradiction found; the source qualifies existing Trump-era Republican pages by showing how older hawkish foreign-policy influence could persist through adaptation to Trump-centered party power, and extends AI governance pages from safety/control toward survey-measured values and advice risk.
+
 ## [2026-07-24] ingest | The high cost of vacuuming carbon from the sky
 
 Added source page for a Marketplace Tech episode on Heirloom Carbon Technologies, direct air capture, limestone-loop carbon removal, carbon-removal cost targets, protected Louisiana and Texas hubs, Carbon180's policy analysis, and fossil-fuel moral-hazard concerns. Created pages for Heirloom Carbon Technologies, Carbon180, Amy Scott, Christian Toya, Aaron Burns, United Airlines, Louisiana, Texas, Occidental Petroleum, How We Survive, Carbon Removal, Direct Air Capture, Limestone Loop Carbon Capture, Carbon Removal Cost Curve, Carbon Storage Permanence, Carbon Removal Moral Hazard, and Carbon Removal Political Durability; updated Marketplace Tech, Climate Startup Commercialization Gap, Economic Climate Tech Adoption, Microsoft, Meta, Shopify, United States Congress, White House, California, United States, and Donald Trump. No direct contradiction found; the source complements mobile carbon capture with a stationary ambient-air pathway and qualifies existing climate-tech adoption themes by showing a technology with corporate buyers and political support but still high cost and legitimacy constraints.
@@ -4615,6 +4619,10 @@ Added source page for the 商业就是这样 episode on Peru's anchoveta fishery
 ## [2026-07-24] ingest | Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)
 
 Added source page for a How I Built This episode on Tom Rinks, Sun Bum, Psycho Chihuahua, the Taco Bell dispute, Rinks Canetti, DeLeon Tequila, visual brand systems, mascot-led recognition, place-based brand perception, retail displays, field sales, founder role transition, and the SC Johnson acquisition. Created pages for Sun Bum, Tom Rinks, Rene Kennedy, Rinks Canetti, DeLeon Tequila, Brent Hocking, Psycho Chihuahua, Joe Shields, Taco Bell, SC Johnson, Adam Francis, Michael LaSara, Made by Dentists, Sunny / Sun Bum Mascot, Cocoa Beach, Visual Brand System, Mascot Led Brand Recognition, Retail Display As Brand Surface, and Place Based Brand Perception; updated overview, index, How I Built This, Guy Raz, Consumer Brand Moat, Story Led Consumer Branding, Design Led Growth, CPG Distribution, Retail Shelf Placement, Packaging As Product Experience, Emotional Brand Relationship, Founder Role Transition, Post-Acquisition Founder Identity, Subculture Led Marketing, and Richard Branson. No direct contradiction found; first-person legal, product-quality, and deal-size claims remain source-scoped.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-24] lint | Wiki health check
 

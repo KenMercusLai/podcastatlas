@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [A hawk who flew on political winds: Lindsey Graham](sources/a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55.md) — The Intelligence episode on Lindsey Graham's death, Republican foreign-policy adaptation, AI model value surveys and censorship, and renewed interest in Old Masters.
 - [中年三账户：现金流、肌肉、睡眠](sources/zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae.md) — 面基 episode framing midlife through cash flow, muscle, and sleep accounts, with household fixed costs, strength training, sleep inputs, and environment-over-willpower routines.
 - [The high cost of vacuuming carbon from the sky](sources/tech-20260713-tech-pod-128-tech-20260713-tech-pod-128.md) — Marketplace Tech episode on Heirloom Carbon Technologies, direct air capture, limestone-loop carbon removal, carbon-removal costs, protected Louisiana/Texas hubs, and fossil-fuel moral-hazard concerns.
 - [AI4S 需要狂人与野心家｜对话英灵殿 Odin："如果神存在，我怎能容忍自己不是神？"【公路播客】](sources/ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz.md) — Shizilukou Crossing road-podcast episode on Yinglingdian AI, Haotian Odin, all-modal molecular world models, AI drug-discovery platforms, protein design, scientific discovery automation, and founder discipline under fundraising pressure.
@@ -578,6 +579,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Lindsey Graham](entities/LindseyGraham.md) — South Carolina senator whose career is used by The Intelligence to track Republican foreign-policy adaptation under Trump.
+- [Henry McMaster](entities/HenryMcMaster.md) — South Carolina governor expected in the episode to appoint a temporary senator after Graham's death.
+- [Sondre Solstad](entities/SondreSolstad.md) — Economist participant explaining the survey-based test of AI model values.
+- [World Values Survey](entities/WorldValuesSurvey.md) — Cross-national values survey used by the episode to compare frontier AI models with human societies.
+- [Taki AI](entities/TakiAI.md) — Pre-1931-text model used as an example of historical training-data worldview.
+- [Christie's](entities/Christies.md) — Auction house whose Old Masters sale opens the episode's art-market revival segment.
+- [Sotheby's](entities/Sothebys.md) — Auction house whose younger-bidder data supports the Old Masters revival frame.
+- [Adam Williams Gallery](entities/AdamWilliamsGallery.md) — Gallery used as a dealer-side observation point for renewed Old Masters demand.
+- [Patrick Williams](entities/PatrickWilliams.md) — Adam Williams Gallery speaker describing new and younger Old Masters buyers.
 - [Eight Sleep / 8Sleep](entities/EightSleep.md) — Sponsor-linked smart-bed product in the 面基 episode, used as a sleep temperature-monitoring and intervention example.
 - [超越百岁 / Outlive](entities/Outlive.md) — Longevity book cited for muscle as a reserve and strength training as retirement-saving-like preparation.
 - [我们为什么要睡觉 / Why We Sleep](entities/WhyWeSleep.md) — Sleep book cited for the bedroom-temperature point inside the episode's sleep-account frame.
@@ -3879,6 +3889,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Republican Foreign Policy Adaptation](concepts/RepublicanForeignPolicyAdaptation.md) — Pattern where older hawkish Republican foreign policy survives by adapting to Trump-centered party power.
+- [AI Model Value Surveying](concepts/AIModelValueSurveying.md) — Method of asking AI models human survey questions to map their cultural and political defaults.
+- [AI Model Censorship](concepts/AIModelCensorship.md) — Refusal or party-line model behavior on sensitive topics, illustrated through the "three T's test."
+- [Language-Dependent AI Bias](concepts/LanguageDependentAIBias.md) — Model-answer variation by query language because language carries corpus history and political filtering.
+- [AI Advice Moral Outsourcing](concepts/AIAdviceMoralOutsourcing.md) — Risk that AI advice imports model value defaults into personal and moral decisions.
+- [Old Masters Market Revival](concepts/OldMastersMarketRevival.md) — Renewed demand for pre-1850 art through scarcity, younger bidders, storytelling, and AI-age authenticity.
 - [Midlife Three Accounts](concepts/MidlifeThreeAccounts.md) — 面基 framework treating cash flow, muscle, and sleep as slow-feedback accounts for midlife autonomy, capacity, and recovery.
 - [Personal Cash-Flow Account](concepts/PersonalCashFlowAccount.md) — Household-finance account for inflows, recurring outflows, fixed monthly obligations, asset conversion, and retirement choice.
 - [Muscle As Longevity Infrastructure](concepts/MuscleAsLongevityInfrastructure.md) — Reframing of skeletal muscle as reserve capacity for posture, metabolism, illness recovery, fall prevention, and older-age independence.
