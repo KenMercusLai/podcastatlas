@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to make a BOOK into a bestseller](sources/how-to-make-a-book-into-a-bestseller.md) — Planet Money episode on its book launch, New York Times bestseller-list opacity, pre-order concentration, bulk-sales gaming, and bestseller status as a demand engine.
 - [Spirit Airlines and the future of cheap flights](sources/spirit-airlines-and-the-future-of-cheap-flights.md) — Planet Money episode on Spirit Airlines' ultra-low-cost model, unbundled fares, stated versus revealed preferences, legacy-carrier basic economy, loyalty-program moats, cost pressure, and bailout politics.
 - [Battlefield rare earths: How the U.S. lost to China](sources/battlefield-rare-earths-how-the-us-lost-to-china.md) — Planet Money episode on Mountain Pass, Molycorp, China's rare-earth processing dominance, the 2010 Japan shock, Project Phoenix, MP Materials, NioCorp, and U.S. state-backed rare-earth rebuilding.
 - [Live: Anthropic co-founder on AI and jobs](sources/live-anthropic-co-founder-on-ai-and-jobs.md) — Planet Money live book-tour episode with Jack Clark and Daryl Fairweather on AI work capacity, robot-tax redistribution, cyber-defense AI as utility, dynamic-pricing fairness, and housing supply politics.
@@ -606,6 +607,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Laura McGrath](entities/LauraMcGrath.md) — Temple University professor explaining bestseller history, New York Times list opacity, and ranking-game incentives.
+- [Temple University](entities/TempleUniversity.md) — Laura McGrath's academic affiliation in the Planet Money bestseller-list episode.
+- [Patrick Healy](entities/PatrickHealy.md) — New York Times voice defending the bestseller-list methodology as data-based and anti-gaming oriented.
+- [Rachel Salzman](entities/RachelSalzman.md) — W. W. Norton publicity director coordinating Planet Money book pre-orders, media, and live-event launch strategy.
+- [Gene Shepard](entities/GeneShepard.md) — Radio personality whose I, Libertine prank illustrates perceived-demand feedback in bestseller culture.
+- [I, Libertine](entities/ILibertine.md) — Fake-then-real book used by Planet Money to show how popularity signals can create market demand.
+- [Jacqueline Susann](entities/JacquelineSusann.md) — Author of Valley of the Dolls used as an early case of targeted bestseller-list promotion.
+- [Valley of the Dolls](entities/ValleyOfTheDolls.md) — Jacqueline Susann bestseller case showing how suspected reporting stores can shape launch strategy.
+- [William Peter Blatty](entities/WilliamPeterBlatty.md) — Author whose lawsuit over Legion clarified the Times bestseller list as protected editorial judgment.
+- [Legion](entities/LegionNovel.md) — William Peter Blatty sequel at the center of the New York Times bestseller-list lawsuit.
 - [Spirit Airlines](entities/SpiritAirlines.md) — U.S. budget airline whose unbundled low-fare model disciplined the market before bankruptcy, incumbent imitation, and possible rescue pressure.
 - [Ben Baldanza](entities/BenBaldanza.md) — Spirit Airlines executive associated with the ultra-low-cost, Dollar General-style airline strategy.
 - [Aron Darling](entities/AronDarling.md) — Spirit passenger whose flight-status anxiety frames the airline's bankruptcy and liquidation risk.
@@ -4102,6 +4113,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [New York Times Bestseller List](concepts/NewYorkTimesBestsellerList.md) — Ranking institution that acts as both a signal of book demand and a mechanism for creating more demand.
+- [Bestseller Status Feedback Loop](concepts/BestsellerStatusFeedbackLoop.md) — Pattern where list placement creates additional visibility, sales, advertising value, and professional status.
+- [Bestseller List Opacity](concepts/BestsellerListOpacity.md) — Secrecy around reporting stores, weighting, and detection that deters gaming while inviting optimization guesses.
+- [Bulk Book Buying](concepts/BulkBookBuying.md) — Large-volume book purchases used legitimately or strategically to influence launch-week ranking outcomes.
+- [Book Laundering](concepts/BookLaundering.md) — Strategy of spreading ranking-oriented purchases across stores and order sizes to resemble organic demand.
+- [Bestseller Speaker Economy](concepts/BestsellerSpeakerEconomy.md) — Nonfiction market where list status can raise speaking, consulting, and thought-leadership pricing.
+- [Pre-Order Launch Concentration](concepts/PreOrderLaunchConcentration.md) — Publishing strategy of concentrating real audience demand into the first-week bestseller-list window.
 - [Ultra-Low-Cost Carrier Model](concepts/UltraLowCostCarrierModel.md) — Airline model that strips the ticket down to transportation and sells many amenities separately to lower the base fare.
 - [Airline Unbundling](concepts/AirlineUnbundling.md) — Pricing strategy that separates bags, seats, food, drinks, and service interactions from the base airfare.
 - [Stated-Revealed Preference Gap](concepts/StatedRevealedPreferenceGap.md) — Difference between what customers say they want and what purchase behavior shows they prioritize.

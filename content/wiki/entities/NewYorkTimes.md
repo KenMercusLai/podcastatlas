@@ -2,11 +2,13 @@
 title: "New York Times"
 type: entity
 tags: [media, journalism]
-sources: [would-you-trust-an-economist-with-your-economy, tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
+sources: [how-to-make-a-book-into-a-bestseller, would-you-trust-an-economist-with-your-economy, tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
 last_updated: 2026-07-24
 ---
 
 # New York Times
+
+[[how-to-make-a-book-into-a-bestseller]] adds the New York Times as the institution behind the [[NewYorkTimesBestsellerList|New York Times bestseller list]]. The source uses [[PatrickHealy]] and historical cases involving [[GeneShepard]], [[JacquelineSusann]], and [[WilliamPeterBlatty]] to frame the list as a data-based but opaque editorial product with large commercial consequences.
 
 [[tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128]] adds the New York Times through [[ErinGriffith]]'s reporting on [[AnswerEngineOptimization]]. In this source, the organization functions as the journalism context for Griffith's explanation of why brands are publishing more dense, factual, machine-readable material so AI chatbots can describe them accurately.
 
@@ -17,6 +19,8 @@ The New York Times enters the wiki through [[MikeIsaac]]'s affiliation in [[tech
 [[would-you-trust-an-economist-with-your-economy]] adds the New York Times through [[BenCastleman]]'s economics reporting. Castleman helps frame the [[AmericanEconomicAssociation]] panel as evidence that economists' public authority is under pressure from policy mistakes, political distrust, and the need for [[ExpertTrustRepair]].
 
 ## Connections
+- [[PatrickHealy]] - Times voice defending the bestseller-list methodology in the Planet Money episode.
+- [[NewYorkTimesBestsellerList]], [[BestsellerListOpacity]], [[BestsellerStatusFeedbackLoop]], [[BulkBookBuying]], and [[BookLaundering]] - ranking and publishing-economics branch added by Planet Money.
 - [[BenCastleman]] - economics reporter discussing trust in economists.
 - [[AmericanEconomicAssociation]], [[EconomistTrustCrisis]], and [[ExpertTrustRepair]] - economics-politics branch added by Planet Money.
 - [[ErinGriffith]] - reporter affiliated with the organization in the Marketplace Tech AEO episode.

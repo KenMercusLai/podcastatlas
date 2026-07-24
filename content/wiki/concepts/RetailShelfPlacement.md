@@ -2,7 +2,7 @@
 title: "Retail Shelf Placement"
 type: concept
 tags: [retail, cpg, product, distribution]
-sources: [justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21, board-games-3-whats-in-a-name, bookstore-economics]
+sources: [how-to-make-a-book-into-a-bestseller, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21, board-games-3-whats-in-a-name, bookstore-economics]
 last_updated: 2026-07-24
 ---
 
@@ -14,6 +14,8 @@ Retail shelf placement is the CPG product-design and distribution issue where a 
 
 [[bookstore-economics]] adds the bookstore version through the [[PlanetMoneyBook]]. [[FisherNash]] treats one copy, two copies, and four copies as different visibility states at [[CarmichaelsBookstore|Carmichael's Bookstore]], while the [[McNallyJackson]] launch-day scene shows how BISAC category placement can leave the same book visible in a window but harder to find inside the store.
 
+[[how-to-make-a-book-into-a-bestseller]] adds the bestseller-shelf version. Once the [[PlanetMoneyBook]] reaches the [[NewYorkTimesBestsellerList|New York Times bestseller list]], [[TomMayer]] explains that Norton can advertise the label, re-approach accounts, keep the book in stores longer, and place it where ranking status itself changes shopper attention.
+
 ## Key Claims
 - Shelf context teaches shoppers what the product is, what alternatives it belongs beside, and what use case they should consider.
 - A product can look unsuccessful in one aisle while working in another because the buying frame changes.
@@ -24,6 +26,7 @@ Retail shelf placement is the CPG product-design and distribution issue where a 
 - For Sun Bum, the fixture itself became a [[RetailDisplayAsBrandSurface]] that joined bottles, stickers, towels, balls, and the [[SunnySunBumMascot|Sunny]] ape into one shelf-level brand story.
 - For board games, the title and cover can perform the placement work by making the product legible in a crowded game aisle.
 - For books, copy count, display-table access, bestseller shelves, and category labels can determine whether a title becomes discoverable enough for demand to show up.
+- Bestseller-list labels can become placement tools because stores and publishers can treat ranking status as a reason to display a book again.
 
 ## Connections
 - [[JustinsNutButter]], [[JustinGold]], and [[WholeFoodsMarket]] - source case.
@@ -33,4 +36,5 @@ Retail shelf placement is the CPG product-design and distribution issue where a 
 - [[CustomerPull]] and [[ProductLedWillingnessToPay]] - demand signals that placement can reveal or suppress.
 - [[LowPriceBrandPerception]] and [[RetailIncrementality]] - concepts added by the e.l.f. episode.
 - [[SellMeASasquatch]], [[RetailShelfAppeal]], and [[ProductNamingAsPositioning]] - board-game shelf-legibility branch added by Planet Money.
-- [[FisherNash]], [[CarmichaelsBookstore|Carmichael's Bookstore]], [[McNallyJackson]], [[PlanetMoneyBook]], and [[BookstoreBuying]] - bookstore placement branch added by Planet Money.
+- [[FisherNash]], [[CarmichaelsBookstore|Carmichael's Bookstore]], [[McNallyJackson]], [[PlanetMoneyBook]], [[NewYorkTimesBestsellerList]], and [[BookstoreBuying]] - bookstore placement and bestseller-shelf branch added by Planet Money.
+- [[BestsellerStatusFeedbackLoop]] and [[PreOrderLaunchConcentration]] - ranking and launch mechanisms that feed additional placement.

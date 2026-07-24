@@ -3443,6 +3443,18 @@
     "title": "Best Buy",
     "url": "/wiki/entities/bestbuy/"
   },
+  "BestsellerListOpacity": {
+    "title": "Bestseller List Opacity",
+    "url": "/wiki/concepts/bestsellerlistopacity/"
+  },
+  "BestsellerSpeakerEconomy": {
+    "title": "Bestseller Speaker Economy",
+    "url": "/wiki/concepts/bestsellerspeakereconomy/"
+  },
+  "BestsellerStatusFeedbackLoop": {
+    "title": "Bestseller Status Feedback Loop",
+    "url": "/wiki/concepts/bestsellerstatusfeedbackloop/"
+  },
   "BetterMarkets": {
     "title": "Better Markets",
     "url": "/wiki/entities/bettermarkets/"
@@ -3674,6 +3686,10 @@
   "BookCreatorWork": {
     "title": "Book Creator Work",
     "url": "/wiki/concepts/bookcreatorwork/"
+  },
+  "BookLaundering": {
+    "title": "Book Laundering",
+    "url": "/wiki/concepts/booklaundering/"
   },
   "BookOfRevelation": {
     "title": "《启示录》 / Book of Revelation",
@@ -3938,6 +3954,10 @@
   "BuiltForABetterWorld": {
     "title": "Built for a Better World",
     "url": "/wiki/entities/builtforabetterworld/"
+  },
+  "BulkBookBuying": {
+    "title": "Bulk Book Buying",
+    "url": "/wiki/concepts/bulkbookbuying/"
   },
   "Bump": {
     "title": "Bump",
@@ -9507,6 +9527,10 @@
     "title": "Gendered Nationalist Heroism",
     "url": "/wiki/concepts/genderednationalistheroism/"
   },
+  "GeneShepard": {
+    "title": "Gene Shepard",
+    "url": "/wiki/entities/geneshepard/"
+  },
   "GeneralAverage": {
     "title": "General Average",
     "url": "/wiki/concepts/generalaverage/"
@@ -11139,6 +11163,10 @@
     "title": "IEPA Tariff Authority Limit",
     "url": "/wiki/concepts/iepatariffauthoritylimit/"
   },
+  "ILibertine": {
+    "title": "I, Libertine",
+    "url": "/wiki/entities/ilibertine/"
+  },
   "IMAgentInterfaces": {
     "title": "IM Agent Interfaces",
     "url": "/wiki/concepts/imagentinterfaces/"
@@ -11874,6 +11902,10 @@
   "JacobusLentz": {
     "title": "Jacobus Lentz / 雅各布斯·伦次",
     "url": "/wiki/entities/jacobuslentz/"
+  },
+  "JacquelineSusann": {
+    "title": "Jacqueline Susann",
+    "url": "/wiki/entities/jacquelinesusann/"
   },
   "JacquesDerrida": {
     "title": "Jacques Derrida / 德里达",
@@ -13279,6 +13311,10 @@
     "title": "Laughter Against Authority",
     "url": "/wiki/concepts/laughteragainstauthority/"
   },
+  "LauraMcGrath": {
+    "title": "Laura McGrath",
+    "url": "/wiki/entities/lauramcgrath/"
+  },
   "LauraNolan": {
     "title": "Laura Nolan",
     "url": "/wiki/entities/lauranolan/"
@@ -13390,6 +13426,10 @@
   "LegendBiotech": {
     "title": "Legend Biotech / 南京传奇",
     "url": "/wiki/entities/legendbiotech/"
+  },
+  "LegionNovel": {
+    "title": "Legion",
+    "url": "/wiki/entities/legionnovel/"
   },
   "LeiJun": {
     "title": "Lei Jun",
@@ -16091,6 +16131,10 @@
     "title": "New York Times",
     "url": "/wiki/entities/newyorktimes/"
   },
+  "NewYorkTimesBestsellerList": {
+    "title": "New York Times Bestseller List",
+    "url": "/wiki/concepts/newyorktimesbestsellerlist/"
+  },
   "NewZealand": {
     "title": "New Zealand / 新西兰",
     "url": "/wiki/entities/newzealand/"
@@ -17111,6 +17155,10 @@
     "title": "Patrick Collison",
     "url": "/wiki/entities/patrickcollison/"
   },
+  "PatrickHealy": {
+    "title": "Patrick Healy",
+    "url": "/wiki/entities/patrickhealy/"
+  },
   "PatrickWilliams": {
     "title": "Patrick Williams",
     "url": "/wiki/entities/patrickwilliams/"
@@ -17903,6 +17951,10 @@
     "title": "Power-Violence Distinction / 权力与暴力区分",
     "url": "/wiki/concepts/powerviolencedistinction/"
   },
+  "PreOrderLaunchConcentration": {
+    "title": "Pre-Order Launch Concentration",
+    "url": "/wiki/concepts/preorderlaunchconcentration/"
+  },
   "PreProductSelling": {
     "title": "Pre-Product Selling",
     "url": "/wiki/concepts/preproductselling/"
@@ -18606,6 +18658,10 @@
   "RacePromotionFees": {
     "title": "Race Promotion Fees",
     "url": "/wiki/concepts/racepromotionfees/"
+  },
+  "RachelSalzman": {
+    "title": "Rachel Salzman",
+    "url": "/wiki/entities/rachelsalzman/"
   },
   "RafePilling": {
     "title": "Rafe Pilling",
@@ -22115,6 +22171,10 @@
     "title": "Telangana",
     "url": "/wiki/entities/telangana/"
   },
+  "TempleUniversity": {
+    "title": "Temple University",
+    "url": "/wiki/entities/templeuniversity/"
+  },
   "Temu": {
     "title": "Temu",
     "url": "/wiki/entities/temu/"
@@ -23379,6 +23439,10 @@
     "title": "Validated Learning",
     "url": "/wiki/concepts/validatedlearning/"
   },
+  "ValleyOfTheDolls": {
+    "title": "Valley of the Dolls",
+    "url": "/wiki/entities/valleyofthedolls/"
+  },
   "ValueInvesting": {
     "title": "Value Investing",
     "url": "/wiki/concepts/valueinvesting/"
@@ -24118,6 +24182,10 @@
   "WilliamOfBaskerville": {
     "title": "巴斯克维尔的威廉 / William of Baskerville",
     "url": "/wiki/entities/williamofbaskerville/"
+  },
+  "WilliamPeterBlatty": {
+    "title": "William Peter Blatty",
+    "url": "/wiki/entities/williampeterblatty/"
   },
   "WilliamShakespeare": {
     "title": "William Shakespeare / 威廉·莎士比亚",
@@ -25886,6 +25954,10 @@
   "how-to-get-what-greenland-has-with-permission": {
     "title": "How to get what Greenland has, with permission",
     "url": "/wiki/sources/how-to-get-what-greenland-has-with-permission/"
+  },
+  "how-to-make-a-book-into-a-bestseller": {
+    "title": "How to make a BOOK into a bestseller",
+    "url": "/wiki/sources/how-to-make-a-book-into-a-bestseller/"
   },
   "how-to-win-a-penalty-shootout-with-game-theory": {
     "title": "How to win a penalty shootout (with game theory)",

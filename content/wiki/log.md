@@ -4863,3 +4863,11 @@ Added source page for a Planet Money episode on Spirit Airlines' ultra-low-cost 
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | How to make a BOOK into a bestseller
+
+Added source page for a Planet Money episode on the Planet Money book launch, the New York Times bestseller list, bestseller-list opacity, pre-order launch concentration, bulk book buying, book laundering, speaker-economy incentives, and bestseller status as a feedback loop. Created pages for Laura McGrath, Temple University, Patrick Healy, Rachel Salzman, Gene Shepard, I, Libertine, Jacqueline Susann, Valley of the Dolls, William Peter Blatty, Legion, New York Times Bestseller List, Bestseller Status Feedback Loop, Bestseller List Opacity, Bulk Book Buying, Book Laundering, Bestseller Speaker Economy, and Pre-Order Launch Concentration; updated overview, index, NPR, Planet Money, New York Times, W. W. Norton, Tom Mayer, Alex Goldmark, Planet Money Book, Book Publishing Economics, Author Platform Risk Reduction, Retail Shelf Placement, Bookstore Buying, Advance Against Royalties, Publishing Portfolio Risk, and Product Launch Under Constraint. No direct contradiction found; the source extends the existing Planet Money book arc by adding the ranking and launch-window layer after acquisition, bookstore buying, and print-run strategy.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
