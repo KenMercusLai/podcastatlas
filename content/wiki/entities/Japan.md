@@ -2,7 +2,7 @@
 title: "Japan"
 type: entity
 tags: [country, politics, law, society, consumer, tourism, economy, youth, healthcare]
-sources: [119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq]
+sources: [battlefield-rare-earths-how-the-us-lost-to-china, 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, snap-judgement-japan-pms-electoral-landslide-6989c0fc61be18927058bb7d, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq]
 last_updated: 2026-07-24
 ---
 
@@ -24,6 +24,8 @@ Japan also appears in [[snap-judgement-japan-pms-electoral-landslide-6989c0fc61b
 
 [[vol-108-riben-wuda-zonghe-shangshe-zhongfan-wutai-zhongyang-lhamp3hn14iihcicpa8po5dvh6gq]] adds Japan as a corporate-infrastructure case through [[JapaneseSogoShosha|Japanese sogo shosha]] and [[KeiretsuBusinessGroups|keiretsu]]. The source argues that trading companies such as [[MitsubishiCorporation]], [[MitsuiAndCo]], [[Itochu]], [[SumitomoCorporation]], and [[Marubeni]] helped lower trade, finance, information, and overseas-market costs for Japanese companies, while the same harmony and stability logic could later constrain high-uncertainty innovation.
 
+[[battlefield-rare-earths-how-the-us-lost-to-china]] adds Japan as the 2010 rare-earth vulnerability case. The [[PlanetMoney]] episode says [[China]] informally stopped selling rare-earth products to Japan after a Chinese fishing-boat captain was detained near the disputed Diaoyu/Senkaku islands, exposing how Japanese car and electronics industries depended on Chinese processing.
+
 ## Connections
 - [[JointCustodyReform]] - family-law change from the newer source.
 - [[CleanBreakDivorceModel]] - social norm the custody reform challenges.
@@ -37,5 +39,6 @@ Japan also appears in [[snap-judgement-japan-pms-electoral-landslide-6989c0fc61b
 - [[JapaneseLostDecades]], [[EmploymentIceAgeGeneration]], [[NISA]], and [[HikikomoriStrategicRetreat]] - low-growth, investing, and youth-pressure branch added by vol.102.
 - [[YouthHappinessAfterGrowth]], [[SocialTrustAndHappiness]], [[MicroHappiness]], and [[ArtisanalAttention]] - happiness branch added by vol.102.
 - [[JapaneseSogoShosha]], [[KeiretsuBusinessGroups]], [[TradingCompanyInvestmentModel]], [[LowEquityCommercialRights]], and [[DeglobalizationTradeIntermediation]] - corporate-organization and trade branch added by vol.108.
+- [[RareEarthExportLeverage]], [[China]], [[Molycorp]], and [[ProjectPhoenix]] - rare-earth shock and U.S. comeback branch added by Planet Money.
 - [[TheIntelligence]] - source podcast context.
 - [[HayashiYuri]], [[CrossCulturalAssistedDeathEthics]], and [[AssistedDeathClinicalResponsibility]] - assisted-death branch added by episode 119.

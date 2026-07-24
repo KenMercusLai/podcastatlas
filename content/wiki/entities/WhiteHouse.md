@@ -2,7 +2,7 @@
 title: "White House"
 type: entity
 tags: [government, united-states, ai-policy]
-sources: [tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
+sources: [battlefield-rare-earths-how-the-us-lost-to-china, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]
 last_updated: 2026-07-24
 ---
 
@@ -16,6 +16,8 @@ The source makes the White House important because voluntary language can coexis
 
 [[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] adds the White House as the launch setting for [[StargateAIInfrastructure]]. The episode treats that announcement as a signal that AI data-center buildout is not only a private cloud-capex race; it can become a national strategic program where [[Oracle]], [[OpenAI]], and political access all matter.
 
+[[battlefield-rare-earths-how-the-us-lost-to-china]] adds the White House as part of the rare-earth rebuilding channel. [[MarkSmith]] says [[NioCorp]] has been meeting with the White House and federal agencies as it pursues a Nebraska rare-earth mine, and he frames possible government equity as a strong partnership route.
+
 ## Connections
 - [[UnitedStates]] - national government context.
 - [[OpenAI]] and [[GPT56|GPT-5.6]] - model release under review.
@@ -24,3 +26,4 @@ The source makes the White House important because voluntary language can coexis
 - [[DonaldTrump]] - administration context named by the source.
 - [[CarbonRemoval]], [[DirectAirCapture]], [[Carbon180]], [[UnitedStatesCongress|Congress]], [[Louisiana]], and [[Texas]] - selective carbon-removal support branch added by Marketplace Tech.
 - [[StargateAIInfrastructure]], [[Oracle]], [[OpenAI]], and [[PoliticalRegulatoryLeverage]] - strategic AI infrastructure branch added by 商业就是这样.
+- [[NioCorp]], [[MarkSmith]], [[RareEarthProcessingBottleneck]], and [[StateBackedRareEarthRebuilding]] - rare-earth policy branch added by Planet Money.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Battlefield rare earths: How the U.S. lost to China](sources/battlefield-rare-earths-how-the-us-lost-to-china.md) — Planet Money episode on Mountain Pass, Molycorp, China's rare-earth processing dominance, the 2010 Japan shock, Project Phoenix, MP Materials, NioCorp, and U.S. state-backed rare-earth rebuilding.
 - [Live: Anthropic co-founder on AI and jobs](sources/live-anthropic-co-founder-on-ai-and-jobs.md) — Planet Money live book-tour episode with Jack Clark and Daryl Fairweather on AI work capacity, robot-tax redistribution, cyber-defense AI as utility, dynamic-pricing fairness, and housing supply politics.
 - [Do prediction market bettors make anything better?](sources/do-prediction-market-bettors-make-anything-better.md) — Planet Money episode on Kalshi, prediction-market trader alpha, derivatives-versus-gambling law, public-good claims, CFTC oversight, and event-contract manipulation risk.
 - [How to get through the Strait of Hormuz](sources/how-to-get-through-the-strait-of-hormuz.md) — Planet Money episode on alleged Strait of Hormuz passage permission, crypto-paid oil-shipping tolls, general average, and freedom-of-navigation risk.
@@ -604,6 +605,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Mark Smith](entities/MarkSmith.md) — Rare-earth executive whose Molycorp, Project Phoenix, and NioCorp roles anchor the episode's U.S. rare-earth comeback story.
+- [Molycorp](entities/Molycorp.md) — Mountain Pass rare-earth company that rose with U.S. processing capacity, declined under Chinese competition, and failed in its Project Phoenix comeback.
+- [Mountain Pass Rare Earth Mine](entities/MountainPassRareEarthMine.md) — California rare-earth mine discovered in 1949, central to Molycorp's rise, Project Phoenix, and MP Materials' current U.S. refining push.
+- [MP Materials](entities/MPMaterials.md) — Company owning Mountain Pass after Molycorp, tied to Chinese refining dependence until 2025 and a Department of Defense equity stake.
+- [NioCorp](entities/NioCorp.md) — Rare-earth mining company where Mark Smith works on a Nebraska project supported by government loans and possible equity partnership.
+- [Rod Eggert](entities/RodEggert.md) — Professor cited for research on China's rare-earth policies from 1975 to 2018 and their place in manufacturing strategy.
+- [Emily Fang](entities/EmilyFang.md) — Source voice explaining China's rare-earth buildout and the U.S. turn toward state-driven rare-earth policy.
+- [Project Phoenix](entities/ProjectPhoenix.md) — Molycorp's Mountain Pass reopening plan, later used as a warning about overexpansion and price-crash exposure.
 - [Jack Clark](entities/JackClark.md) — Anthropic co-founder using AI fiction, long-task forecasts, robot-tax redistribution, and cyber-defense utility arguments to frame AI's economic implications.
 - [Daryl Fairweather](entities/DarylFairweather.md) — Redfin chief economist and behavioral economist connecting corporate economics, dynamic-pricing fairness, and housing supply politics.
 - [Redfin](entities/Redfin.md) — Real-estate company context for Daryl Fairweather's Planet Money discussion of housing supply and future-resident voice.
@@ -4081,6 +4090,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Rare Earth Export Leverage](concepts/RareEarthExportLeverage.md) — Strategic power created when rare-earth processing dependence lets export restrictions disrupt industrial and defense users.
+- [State-Backed Rare Earth Rebuilding](concepts/StateBackedRareEarthRebuilding.md) — Policy turn toward grants, loans, equity stakes, and price floors to rebuild non-Chinese rare-earth capacity.
+- [Dominant Producer Price Discipline](concepts/DominantProducerPriceDiscipline.md) — Market-structure risk that a dominant supplier can use price or output moves to make rival rare-earth capacity uneconomic.
 - [AI Automation Redistribution](concepts/AIAutomationRedistribution.md) — Policy frame where advanced AI production may require taxing robots or AI companies to move machine-economy gains back into the human economy.
 - [AI Cyber-Defense Utility](concepts/AICyberDefenseUtility.md) — Argument that socially important cyber-capable AI may need broad, utility-like defensive access rather than ordinary margin-maximizing software pricing.
 - [Dynamic Pricing Fairness](concepts/DynamicPricingFairness.md) — Tension between price-based shortage allocation, supply response, consumer fairness, queues, and envy-free market design.
