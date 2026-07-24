@@ -4771,3 +4771,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 6,581 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` is configured in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-24] ingest | The Business of Heated Rivalry
+
+Added source page for a Planet Money episode on Heated Rivalry, Canadian television financing, producer-owned IP upside, constrained TV production, attentive streaming storytelling, underserved romance audiences, international distribution, and AI as a production tool rather than a creative engine. Created pages for Heated Rivalry, Jacob Tierney, Brendan Brady, Kara Swisher, Crave, Bell Media, Sphere Abacus, Tim Fontaine, The King Is Dead, Canada, Canadian Television Financing, Producer-Owned IP Upside, Constraint-Driven Media Production, Attentive Streaming Storytelling, and Underserved Romance Audience; updated overview, index, NPR, Planet Money, HBO, IP Ownership, Entertainment IP Flywheel, Streaming Consolidation, Streaming Audience Retention, Vertical Media Distribution, AI Video Production Workflow, Creative Labor AI Backlash, and Human Judgment Under AI. No direct contradiction found; the source qualifies existing streaming-consolidation and AI-production branches by separating international reach from creative control and AI logistics support from AI authorship.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

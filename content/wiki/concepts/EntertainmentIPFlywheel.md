@@ -2,8 +2,8 @@
 title: "Entertainment IP Flywheel"
 type: concept
 tags: [media, ip, strategy, distribution]
-sources: [vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, the-walt-disney-company-1, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
-last_updated: 2026-07-17
+sources: [the-business-of-heated-rivalry, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, the-walt-disney-company-1, starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1]
+last_updated: 2026-07-24
 ---
 
 # Entertainment IP Flywheel
@@ -18,6 +18,8 @@ The concept extends the wiki's [[DistributionLedProductBuilding]] branch. Disney
 
 [[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] adds a franchise-financing version through [[Skydance]] and [[TopGunMaverick]]. The source argues that [[DavidEllison]] reduced risk by attaching Skydance to [[Paramount]] distribution and established IP, then used the credibility of major franchise hits to justify larger ownership moves.
 
+[[the-business-of-heated-rivalry]] adds a smaller-scale television version. [[HeatedRivalry|Heated Rivalry]] does not yet look like a Disney-style franchise system, but sold-out jerseys show how retained rights, visible fandom, and merchandise can turn a relationship-driven streaming show into a possible downstream-value engine.
+
 ## Key Claims
 - Owned IP can justify higher creative investment when the same asset can generate value in many downstream forms.
 - Animation is structurally attractive because characters do not age, do not demand star economics, and can be rereleased or repackaged for new audiences.
@@ -28,6 +30,7 @@ The concept extends the wiki's [[DistributionLedProductBuilding]] branch. Disney
 - Franchise continuation works better when it gives old characters a present-tense household or cultural problem to carry.
 - Image-first IP can be commercially powerful without a deep story universe, but it faces different cycle and business-model risks from a narrative flywheel.
 - Franchise IP can also serve as credibility collateral for a media entrant, especially when the company uses known properties to prove execution before pursuing studio control.
+- In a smaller television case, fan merchandise can be the first visible flywheel node before future seasons or broader licensing are known.
 
 ## Connections
 - [[TheWaltDisneyCompany]], [[WaltDisney]], and [[RoyDisney]] - source case.
@@ -37,3 +40,4 @@ The concept extends the wiki's [[DistributionLedProductBuilding]] branch. Disney
 - [[ToyStory5]] and [[ScreenTimeParenting]] - later cultural-review case added by The Intelligence.
 - [[Sanrio]], [[PopMart]], [[Labubu]], and [[ImageFirstIP]] - consumer-IP contrast added by FengTouQuan episode 142.
 - [[Skydance]], [[TopGunMaverick]], [[Paramount]], and [[DavidEllison]] - franchise-financing branch added by 商业就是这样.
+- [[HeatedRivalry|Heated Rivalry]], [[ProducerOwnedIPUpside]], and [[UnderservedRomanceAudience]] - smaller streaming-series branch added by Planet Money.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Business of Heated Rivalry](sources/the-business-of-heated-rivalry.md) — Planet Money episode on Heated Rivalry, Canadian television financing, producer-owned IP, low-budget production discipline, international distribution, attentive streaming storytelling, and AI as a production tool rather than creative engine.
 - [Don't hate the replicator, hate the game](sources/dont-hate-the-replicator-hate-the-game.md) — Planet Money episode on Abel Brodeur, the Replication Games, p-hacking, publication bias, replication packages, robustness checks, and research integrity incentives.
 - [The ICE hiring boom](sources/the-ice-hiring-boom.md) — Planet Money episode on ICE hiring, disputed training, field culture, detention expansion, private detention contracts, and Folkston, Georgia's detention-linked local economy.
 - [The Supreme Court struck down a bunch of Trump's tariffs. Now what?](sources/the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what.md) — Planet Money episode on the Supreme Court's IEPA tariff ruling, importer refunds, tariff-refund claim trading, Section 122, and small-business planning risk.
@@ -594,6 +595,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Heated Rivalry](entities/HeatedRivalry.md) — Canadian romance series used by Planet Money to explain financing, producer-owned IP, fan merchandise demand, and streaming distribution.
+- [Jacob Tierney](entities/JacobTierney.md) — Heated Rivalry creator and director connecting collaborative production discipline to budget control and human creative judgment.
+- [Brendan Brady](entities/BrendanBrady.md) — Heated Rivalry creator explaining the financing stack, retained IP, merchandise upside, and underserved romance audience.
+- [Kara Swisher](entities/KaraSwisher.md) — Interviewer whose conversation with Heated Rivalry's creators supplies the Planet Money source material.
+- [Crave](entities/Crave.md) — Canadian streaming service that commissioned Heated Rivalry and supplied part of its financing.
+- [Bell Media](entities/BellMedia.md) — Canadian media company context for Crave, Sphere Abacus, and the HBO-related distribution relationship.
+- [Sphere Abacus](entities/SphereAbacus.md) — Distribution participant whose advance helped finance Heated Rivalry.
+- [Tim Fontaine](entities/TimFontaine.md) — Indigenous Canadian writer behind The King Is Dead, a future project discussed by Heated Rivalry's creators.
+- [The King Is Dead](entities/TheKingIsDead.md) — Tim Fontaine project in development with Crave and cited as part of the creators' post-Heated Rivalry slate.
+- [Canada](entities/Canada.md) — National production context for the episode's Canadian television financing, tax-credit, and distribution model.
 - [Abel Brodeur](entities/AbelBrodeur.md) — University of Ottawa economist organizing replication work through the Institute for Replication and the Replication Games.
 - [Institute For Replication](entities/InstituteForReplication.md) — Organization Brodeur created to coordinate replication outreach, author responses, and academic auditing.
 - [Replication Games](entities/ReplicationGames.md) — Hackathon-style research-auditing events where teams reproduce papers and test robustness.
@@ -4002,6 +4013,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Canadian Television Financing](concepts/CanadianTelevisionFinancing.md) — Funding stack combining license fees, tax credits, subsidies, grants, distribution advances, and producer reinvestment.
+- [Producer-Owned IP Upside](concepts/ProducerOwnedIPUpside.md) — Incentive tradeoff where creators accept lower upfront economics to retain rights, merchandise value, and future upside.
+- [Constraint-Driven Media Production](concepts/ConstraintDrivenMediaProduction.md) — Production model where budget limits require finished scripts, block shooting, shorter days, and collaborative problem solving.
+- [Attentive Streaming Storytelling](concepts/AttentiveStreamingStorytelling.md) — Storytelling approach that rewards close attention instead of optimizing for distracted viewing and repeated exposition.
+- [Underserved Romance Audience](concepts/UnderservedRomanceAudience.md) — Demand signal where romance readers, female desire, and queer joy are treated as serious market and creative forces.
 - [Replication Crisis](concepts/ReplicationCrisis.md) — Research credibility problem where published findings fail under rerun code, data inspection, or reasonable alternative analyses.
 - [P-Hacking](concepts/PHacking.md) — Tuning analysis choices until a result clears statistical significance, often under publication and career pressure.
 - [Publication Bias](concepts/PublicationBias.md) — Selection pressure that favors novel significant findings over null, ambiguous, or failed results.

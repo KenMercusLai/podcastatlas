@@ -2,8 +2,8 @@
 title: "AI Video Production Workflow"
 type: concept
 tags: [ai, video, workflow, creator-economy]
-sources: [e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]
-last_updated: 2026-07-23
+sources: [the-business-of-heated-rivalry, e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5, 266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob, 267-3000-kuai-chengben-3-5-yi-ci-bofang-ai-duanju-zenme-zai-douyin-zhengqian-lrvmi-ruxz81afnqxdfk-dldixhx, 269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt]
+last_updated: 2026-07-24
 ---
 
 # AI Video Production Workflow
@@ -18,6 +18,8 @@ The source's important point is that [[VideoModels]] reduce the need for actors,
 
 [[e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5]] adds the film-previs version. [[LuChuan]] says AI can turn prompts, [[Midjourney]]-style images, and [[VideoModels]] into hundreds or thousands of keyframes and a 48- to 72-hour visualization pass for action scenes that once required months of visual-effects coordination.
 
+[[the-business-of-heated-rivalry]] adds a boundary case from traditional television production. [[BrendanBrady]] says AI may help scheduling, budgeting, preparation, and other data-heavy production tasks, but he does not want it to become the creative engine for costuming or the authored parts of a show.
+
 ## Key Claims
 - AI video lets one person or a small team attempt work that previously required a larger filming crew.
 - The "抽卡师" role appears because repeated generation and selection become production labor.
@@ -27,6 +29,7 @@ The source's important point is that [[VideoModels]] reduce the need for actors,
 - In the [[AnhuiXiaoMujiang]] case, editing and reuse of imperfect generated material were the practical bottlenecks that kept low compute cost from becoming zero labor.
 - In live-action workflows, AI can enforce consistency and reduce coordination loss even when the finished work remains human-shot.
 - In film workflows, AI is strongest when it helps directors test and communicate scenes before expensive production, but it still needs [[IndustrialGradeFilmModels]] and human taste to reach final delivery.
+- Production-management AI can be useful without implying that writing, costuming, acting, or directing should be delegated to generated output.
 
 ## Connections
 - [[AIShortDrama]] — main content category using the workflow.
@@ -39,3 +42,4 @@ The source's important point is that [[VideoModels]] reduce the need for actors,
 - [[ShortDramaEconomics]] — cost and monetization frame.
 - [[YouTube]] — overseas distribution workflow context.
 - [[LuChuan]], [[Midjourney]], [[IndustrialGradeFilmModels]], and [[LiveActionFilmUnderAI]] — film-previsualization and live-action decision branch added by E234.
+- [[HeatedRivalry|Heated Rivalry]], [[BrendanBrady]], [[JacobTierney]], [[ConstraintDrivenMediaProduction]], and [[HumanJudgmentUnderAI]] - AI-as-production-tool boundary added by Planet Money.
