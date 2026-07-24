@@ -279,6 +279,10 @@
     "title": "143.遗忘的脑力：记性不好可咋整啊？",
     "url": "/wiki/sources/143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634/"
   },
+  "144-bei-zuzhou-de-munaiyi-fuermosi-hui-he-laoshe-lianshou-tanan-ma-878168738": {
+    "title": "144. 被诅咒的木乃伊：福尔摩斯会和老舍联手探案吗？",
+    "url": "/wiki/sources/144-bei-zuzhou-de-munaiyi-fuermosi-hui-he-laoshe-lianshou-tanan-ma-878168738/"
+  },
   "144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b": {
     "title": "144. 对杨萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式",
     "url": "/wiki/sources/144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b/"
@@ -6731,6 +6735,10 @@
     "title": "《杜子春》",
     "url": "/wiki/entities/duzichun/"
   },
+  "DualManuscriptNarration": {
+    "title": "双手稿叙事 / Dual Manuscript Narration",
+    "url": "/wiki/concepts/dualmanuscriptnarration/"
+  },
   "DuanChengshi": {
     "title": "段成式 / Duan Chengshi",
     "url": "/wiki/entities/duanchengshi/"
@@ -9927,6 +9935,10 @@
     "title": "Holden Caulfield / 霍尔顿",
     "url": "/wiki/entities/holdencaulfield/"
   },
+  "HolmesPasticheTradition": {
+    "title": "福尔摩斯同人传统 / Holmes Pastiche Tradition",
+    "url": "/wiki/concepts/holmespastichetradition/"
+  },
   "HoloAssets": {
     "title": "Holo Assets",
     "url": "/wiki/concepts/holoassets/"
@@ -11546,6 +11558,10 @@
   "JohnTerry": {
     "title": "John Terry",
     "url": "/wiki/entities/johnterry/"
+  },
+  "JohnWatson": {
+    "title": "John Watson / 华生",
+    "url": "/wiki/entities/johnwatson/"
   },
   "JohnnyFidelisSantos": {
     "title": "Johnny Fidelis Santos",
@@ -15587,6 +15603,10 @@
     "title": "奥尔罕·帕慕克 / Orhan Pamuk",
     "url": "/wiki/entities/orhanpamuk/"
   },
+  "OrientalistMysteryMisdirection": {
+    "title": "东方主义谜题误导 / Orientalist Mystery Misdirection",
+    "url": "/wiki/concepts/orientalistmysterymisdirection/"
+  },
   "OrlandBishop": {
     "title": "Orland Bishop",
     "url": "/wiki/entities/orlandbishop/"
@@ -18871,6 +18891,10 @@
     "title": "鹿野靖明",
     "url": "/wiki/entities/shikanoyasuaki/"
   },
+  "ShimadaSoji": {
+    "title": "岛田庄司 / Shimada Soji",
+    "url": "/wiki/entities/shimadasoji/"
+  },
   "ShimazakiToson": {
     "title": "Shimazaki Toson / 岛崎藤村",
     "url": "/wiki/entities/shimazakitoson/"
@@ -20510,6 +20534,10 @@
   "TheContinental": {
     "title": "The Continental",
     "url": "/wiki/entities/thecontinental/"
+  },
+  "TheCursedMummy": {
+    "title": "《被诅咒的木乃伊》 / The Cursed Mummy",
+    "url": "/wiki/entities/thecursedmummy/"
   },
   "TheCyberiad": {
     "title": "《机器人大师》 / The Cyberiad",

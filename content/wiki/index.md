@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [144. 被诅咒的木乃伊：福尔摩斯会和老舍联手探案吗？](sources/144-bei-zuzhou-de-munaiyi-fuermosi-hui-he-laoshe-lianshou-tanan-ma-878168738.md) — 蜜獾吃书 episode on 岛田庄司《被诅咒的木乃伊》, 福尔摩斯同人, 夏目漱石 in London, dual Watson/Soseki manuscripts, a fake Eastern curse, a mummy locked-room fraud, and the fantasy of Holmes meeting 老舍.
 - [How to get what Greenland has, with permission](sources/how-to-get-what-greenland-has-with-permission.md) — Planet Money episode on Greenland, rare earth processing, U.S. Arctic defense access, Trump territorial-control rhetoric, and why mineral/security goals can be pursued through cooperation instead of annexation.
 - [Can transforming neighborhoods help kids escape poverty?](sources/can-transforming-neighborhoods-help-kids-escape-poverty.md) — Planet Money episode on HOPE VI, Richard Allen Homes, Raj Chetty's neighborhood-opportunity research, mixed-income redesign, cross-class social capital, and displacement limits.
 - [Why are we so obsessed with manufacturing?](sources/why-are-we-so-obsessed-with-manufacturing.md) — Planet Money episode on U.S. manufacturing jobs, pay premiums, workforce pipelines, strategic reshoring, regional multipliers, and why the broader goal is good jobs for non-college workers.
@@ -568,6 +569,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [岛田庄司 / Shimada Soji](entities/ShimadaSoji.md) — Japanese mystery writer whose 《被诅咒的木乃伊》 is read as a playful Holmes-Soseki pastiche rather than only a locked-room mechanism.
+- [《被诅咒的木乃伊》 / The Cursed Mummy](entities/TheCursedMummy.md) — Shimada Soji Holmes pastiche that inserts Natsume Soseki into a London mummy, impostor, curse, and dual-manuscript case.
+- [John Watson / 华生](entities/JohnWatson.md) — Holmes narrator whose manuscript in 《被诅咒的木乃伊》 restores the classical detective frame after Soseki's comic account.
 - [Greenland](entities/Greenland.md) — Self-governing Arctic territory whose rare earths, geography, defense access, and political agency anchor the Planet Money episode's Greenland case.
 - [Denmark](entities/Denmark.md) — Kingdom-state context for Greenland, showing why Greenland cannot simply be sold and why alliance access matters more than acquisition.
 - [Graceland Baskaran](entities/GracelandBaskaran.md) — Mining economist and rare-earth expert explaining why processing capacity and partners matter more than controlling Greenland's deposits.
@@ -3809,6 +3813,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [福尔摩斯同人传统 / Holmes Pastiche Tradition](concepts/HolmesPasticheTradition.md) — Reader-owned afterlife where Holmes conventions are imitated, spoofed, relocated, and crossed with real literary figures.
+- [双手稿叙事 / Dual Manuscript Narration](concepts/DualManuscriptNarration.md) — Mystery device where two manuscript accounts make narrator reliability and genre expectation part of the puzzle.
+- [东方主义谜题误导 / Orientalist Mystery Misdirection](concepts/OrientalistMysteryMisdirection.md) — Mystery pattern where vague Eastern atmosphere and cultural prejudice function as a false explanatory frame.
 - [Rare Earth Processing Bottleneck](concepts/RareEarthProcessingBottleneck.md) — Supply-chain constraint where deposits do not become mineral security without separation, refining, infrastructure, and partner capacity.
 - [Greenland Strategic Access](concepts/GreenlandStrategicAccess.md) — Arctic defense and geography problem linking Greenland to missile warning, space surveillance, Russia, China, Denmark, NATO, and U.S. access rights.
 - [Strategic Access Without Annexation](concepts/StrategicAccessWithoutAnnexation.md) — Diplomacy and security pattern where resources, routes, and bases are secured through permission-based arrangements rather than ownership.

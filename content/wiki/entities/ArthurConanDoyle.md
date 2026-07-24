@@ -2,8 +2,8 @@
 title: "Arthur Conan Doyle / 柯南道尔"
 type: entity
 tags: [writer, detective-fiction, spiritualism, biography]
-sources: [60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]
-last_updated: 2026-07-18
+sources: [144-bei-zuzhou-de-munaiyi-fuermosi-hui-he-laoshe-lianshou-tanan-ma-878168738, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]
+last_updated: 2026-07-24
 ---
 
 # Arthur Conan Doyle / 柯南道尔
@@ -16,6 +16,8 @@ Doyle's page also connects to authorship and publishing. The episode notes that 
 
 [[69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]] adds Doyle to a detective-fiction lineage from gothic ambiguity and [[EdgarAllanPoe|Poe]] toward modern evidence procedure. The source uses [[TheHoundOfTheBaskervilles|The Hound of the Baskervilles / 《巴斯克维尔的猎犬》]] to show how Doyle could exploit supernatural atmosphere while still returning the case to human motive and rational explanation.
 
+[[144-bei-zuzhou-de-munaiyi-fuermosi-hui-he-laoshe-lianshou-tanan-ma-878168738]] adds a post-Doyle afterlife angle. The source is not mainly about Doyle's biography, but [[TheCursedMummy|《被诅咒的木乃伊》]] shows how [[SherlockHolmes|Holmes]] and [[JohnWatson|Watson]] can be reused by later writers as a shared format for parody, literary crossover, and [[OrientalistMysteryMisdirection|false exotic atmosphere]].
+
 ## Connections
 - [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]] - source episode.
 - [[SherlockHolmes|Sherlock Holmes / 福尔摩斯]] - character whose success defined Doyle's public image.
@@ -24,3 +26,4 @@ Doyle's page also connects to authorship and publishing. The episode notes that 
 - [[OccultPseudoscienceLiteraryModernity]] - spiritualism, fairy photographs, and seance belief.
 - [[LiteraryGossipAsContext]] - biographical contradiction used as reading context.
 - [[AuthorMythDeflation]] - rational-detective author complicated by credulity and grief.
+- [[HolmesPasticheTradition|福尔摩斯同人传统]] and [[TheCursedMummy|《被诅咒的木乃伊》]] - later reader/writer reuse of Doyle's detective apparatus.
