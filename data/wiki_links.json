@@ -2875,6 +2875,14 @@
     "title": "Automatic / Automatic Auctions",
     "url": "/wiki/entities/automaticauctions/"
   },
+  "AutomationDisplacementEffect": {
+    "title": "Automation Displacement Effect",
+    "url": "/wiki/concepts/automationdisplacementeffect/"
+  },
+  "AutomationReinstatementEffect": {
+    "title": "Automation Reinstatement Effect",
+    "url": "/wiki/concepts/automationreinstatementeffect/"
+  },
   "AutonomousDrivingDataFlywheel": {
     "title": "Autonomous Driving Data Flywheel",
     "url": "/wiki/concepts/autonomousdrivingdataflywheel/"
@@ -6163,6 +6171,10 @@
     "title": "Dark Office",
     "url": "/wiki/concepts/darkoffice/"
   },
+  "DaronAcemoglu": {
+    "title": "Daron Acemoglu",
+    "url": "/wiki/entities/daronacemoglu/"
+  },
   "Dashengkui": {
     "title": "Dashengkui / 大盛魁",
     "url": "/wiki/entities/dashengkui/"
@@ -7751,10 +7763,6 @@
     "title": "Eric Schmidt",
     "url": "/wiki/entities/ericschmidt/"
   },
-  "EricaBarris": {
-    "title": "Erica Barris",
-    "url": "/wiki/entities/ericabarris/"
-  },
   "EricaChung": {
     "title": "Erica Chung",
     "url": "/wiki/entities/ericachung/"
@@ -7766,6 +7774,10 @@
   "Ericsson": {
     "title": "Ericsson",
     "url": "/wiki/entities/ericsson/"
+  },
+  "ErikaBeras": {
+    "title": "Erika Beras",
+    "url": "/wiki/entities/erikaberas/"
   },
   "ErinGriffith": {
     "title": "Erin Griffith",
@@ -11263,6 +11275,10 @@
     "title": "Insta360 / 影石",
     "url": "/wiki/entities/insta360/"
   },
+  "Instafoods": {
+    "title": "Instafoods",
+    "url": "/wiki/entities/instafoods/"
+  },
   "Instagram": {
     "title": "Instagram",
     "url": "/wiki/entities/instagram/"
@@ -12359,6 +12375,10 @@
     "title": "Judicial Independence And Public Opinion",
     "url": "/wiki/concepts/judicialindependencepublicopinion/"
   },
+  "JudyHuang": {
+    "title": "Judy Huang",
+    "url": "/wiki/entities/judyhuang/"
+  },
   "JulCartoonist": {
     "title": "Jul / 朱勒尔",
     "url": "/wiki/entities/julcartoonist/"
@@ -12670,6 +12690,10 @@
   "KennyMalone": {
     "title": "Kenny Malone",
     "url": "/wiki/entities/kennymalone/"
+  },
+  "KennyPoon": {
+    "title": "Kenny Poon",
+    "url": "/wiki/entities/kennypoon/"
   },
   "KevinKelly": {
     "title": "Kevin Kelly",
@@ -15839,6 +15863,10 @@
     "title": "Newsroom AI Adoption",
     "url": "/wiki/concepts/newsroomaiadoption/"
   },
+  "NextRobot": {
+    "title": "Next Robot",
+    "url": "/wiki/entities/nextrobot/"
+  },
   "NiDeShufang": {
     "title": "你的书房",
     "url": "/wiki/entities/nideshufang/"
@@ -17166,6 +17194,10 @@
   "PhotolithographyBottleneck": {
     "title": "Photolithography Bottleneck",
     "url": "/wiki/concepts/photolithographybottleneck/"
+  },
+  "PhuongHoangChiang": {
+    "title": "Phuong Hoang Chiang",
+    "url": "/wiki/entities/phuonghoangchiang/"
   },
   "PhysicalAGI": {
     "title": "Physical AGI",
@@ -18723,6 +18755,10 @@
     "title": "Responsibility Versus Guilt / 责任与罪行区分",
     "url": "/wiki/concepts/responsibilityvsguilt/"
   },
+  "RestaurantAutomation": {
+    "title": "Restaurant Automation",
+    "url": "/wiki/concepts/restaurantautomation/"
+  },
   "RestaurantCulturalLegibility": {
     "title": "Restaurant Cultural Legibility",
     "url": "/wiki/concepts/restaurantculturallegibility/"
@@ -18951,6 +18987,10 @@
     "title": "Robbie McCluskey",
     "url": "/wiki/entities/robbiemccluskey/"
   },
+  "RobbyWokbot": {
+    "title": "Robby Wokbot",
+    "url": "/wiki/entities/robbywokbot/"
+  },
   "RobertBoyle": {
     "title": "Robert Boyle / 罗伯特·波义耳",
     "url": "/wiki/entities/robertboyle/"
@@ -18994,6 +19034,10 @@
   "RobotActiveUseMetrics": {
     "title": "Robot Active Use Metrics",
     "url": "/wiki/concepts/robotactiveusemetrics/"
+  },
+  "RobotChefCostQualityTradeoff": {
+    "title": "Robot Chef Cost-Quality Tradeoff",
+    "url": "/wiki/concepts/robotchefcostqualitytradeoff/"
   },
   "RobotDeliveryEconomics": {
     "title": "Robot Delivery Economics",
@@ -20078,6 +20122,10 @@
   "Shodan": {
     "title": "Shodan",
     "url": "/wiki/entities/shodan/"
+  },
+  "SholaOlunloyo": {
+    "title": "Shola Olunloyo",
+    "url": "/wiki/entities/sholaolunloyo/"
   },
   "Shopify": {
     "title": "Shopify",
@@ -22171,6 +22219,10 @@
     "title": "Tim's China",
     "url": "/wiki/entities/timschina/"
   },
+  "TingWong": {
+    "title": "Ting Wong",
+    "url": "/wiki/entities/tingwong/"
+  },
   "ToAgentDistribution": {
     "title": "To-Agent Distribution",
     "url": "/wiki/concepts/toagentdistribution/"
@@ -23755,6 +23807,10 @@
     "title": "《我有自己的宇宙》",
     "url": "/wiki/entities/woyouzijideyuzhou/"
   },
+  "WokHei": {
+    "title": "Wok Hei",
+    "url": "/wiki/concepts/wokhei/"
+  },
   "WolverhamptonWanderers": {
     "title": "Wolverhampton Wanderers / 狼队",
     "url": "/wiki/entities/wolverhamptonwanderers/"
@@ -24978,6 +25034,10 @@
   "catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2": {
     "title": "Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough",
     "url": "/wiki/sources/catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2/"
+  },
+  "chef-vs-robot": {
+    "title": "Chef vs. Robot",
+    "url": "/wiki/sources/chef-vs-robot/"
   },
   "chevron-venezuela-and-the-paradox-of-plenty": {
     "title": "Chevron, Venezuela and the Paradox of Plenty",

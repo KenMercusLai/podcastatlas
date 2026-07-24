@@ -2,11 +2,13 @@
 title: "Good Jobs For Non-College Workers"
 type: concept
 tags: [labor, wages, public-policy, manufacturing]
-sources: [the-ice-hiring-boom, why-economists-got-free-trade-with-china-so-wrong, why-are-we-so-obsessed-with-manufacturing]
+sources: [chef-vs-robot, the-ice-hiring-boom, why-economists-got-free-trade-with-china-so-wrong, why-are-we-so-obsessed-with-manufacturing]
 last_updated: 2026-07-24
 ---
 
 # Good Jobs For Non-College Workers
+
+[[chef-vs-robot]] adds a service-sector automation complication. [[PhuongHoangChiang]]'s skilled wok work pays much more than [[RobbyWokbot]]'s rental cost, while [[KennyPoon]] says the robot lets him hire for availability rather than skill; the result can reduce pressure on owners while squeezing a middle-skill kitchen pathway.
 
 Good jobs for non-college workers is [[GordonHansen|Gordon Hanson]]'s broader policy frame in [[why-are-we-so-obsessed-with-manufacturing]]. The episode ends by arguing that the central problem is not simply too few manufacturing jobs, but too few good jobs available to people without college degrees.
 
@@ -23,6 +25,7 @@ The concept lets the wiki avoid turning manufacturing into a symbolic shortcut. 
 - [[PrematureDeindustrialization]] and automation make it risky to build a full labor strategy around factory employment alone.
 - Trade adjustment has to support workers directly, because a recovered region can still leave displaced workers outside the labor market or in worse jobs.
 - Public or contract-backed jobs can meet household needs while still creating ethical and policy-dependence problems when the work is tied to detention.
+- Service-sector automation can lower consumer prices and owner staffing stress while weakening skill premiums if the replacement roles are lower paid or less career-building.
 
 ## Connections
 - [[GordonHansen|Gordon Hanson]] - source economist who supplies the frame.
@@ -31,3 +34,4 @@ The concept lets the wiki avoid turning manufacturing into a symbolic shortcut. 
 - [[EmployerBargainedBenefits]], [[PaidVacationAsLaborRight]], and [[LaborMoralAmbivalence]] - adjacent U.S. labor-policy concepts.
 - [[ChinaShock]], [[RegionalLaborMarketScarring]], [[PeopleVersusPlacesRecovery]], and [[TradeAdjustmentAssistance]] - worker-damage and recovery branch added by the China-shock episode.
 - [[FolkstonGeorgia]], [[DetentionAsLocalEconomicDevelopment]], [[CarceralEconomicDependency]], and [[PolicyDependentLocalDevelopment]] - detention-town job-quality complication added by Planet Money.
+- [[DaronAcemoglu]], [[AutomationDisplacementEffect]], [[AutomationReinstatementEffect]], [[RestaurantAutomation]], and [[RobotChefCostQualityTradeoff]] - restaurant automation branch added by Planet Money.

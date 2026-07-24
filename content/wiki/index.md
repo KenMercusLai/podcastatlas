@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Chef vs. Robot](sources/chef-vs-robot.md) — Planet Money episode on a robot wok versus a human chef, restaurant automation economics, wok hei, staffing pressure, and automation's displacement/reinstatement effects.
 - [The laws of the office revisited](sources/the-laws-of-the-office-revisited.md) — Planet Money episode on Goodhart's Law, Parkinson's Law, the Peter Principle, truthful social proof, recognition incentives, and workplace incentive design.
 - [Planet Money vs. the NBA's tanking problem](sources/planet-money-vs-the-nbas-tanking-problem.md) — Planet Money episode on NBA tanking, draft lottery incentives, the draft wheel, the Gold Plan, the PWHL, the NWSL no-draft model, and player autonomy.
 - [The Business of Heated Rivalry](sources/the-business-of-heated-rivalry.md) — Planet Money episode on Heated Rivalry, Canadian television financing, producer-owned IP, low-budget production discipline, international distribution, attentive streaming storytelling, and AI as a production tool rather than creative engine.
@@ -597,6 +598,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Kenny Poon](entities/KennyPoon.md) — Philadelphia restaurant operator using Robby Wokbot to reduce wok-skill hiring and training constraints.
+- [Instafoods](entities/Instafoods.md) — Philadelphia Chinatown restaurant where Robby Wokbot grounds the Planet Money restaurant automation case.
+- [Robby Wokbot](entities/RobbyWokbot.md) — Automated wok machine whose cost, speed, consistency, and taste limits anchor the Chef vs. Robot episode.
+- [Next Robot](entities/NextRobot.md) — Manufacturer named for Robby Wokbot and the episode's purchase/rental cost context.
+- [Phuong Hoang Chiang](entities/PhuongHoangChiang.md) — Human Cantonese-style wok chef whose skill and wok hei beat the robot in two of three dishes.
+- [Ting Wong](entities/TingWong.md) — Philadelphia Chinatown restaurant supplying the human-chef counterpoint to Instafoods.
+- [Judy Huang](entities/JudyHuang.md) — Ting Wong co-owner explaining wok hei, chef skill, and staffing difficulty.
+- [Shola Olunloyo](entities/SholaOlunloyo.md) — Chef and consultant judging the human-versus-robot taste test and restaurant-margin tradeoff.
+- [Daron Acemoglu](entities/DaronAcemoglu.md) — MIT economist explaining automation displacement and reinstatement effects in the restaurant-robot episode.
 - [Charles Goodhart](entities/CharlesGoodhart.md) — Economist behind Goodhart's Law, used by Planet Money to explain measurement targets and metric gaming.
 - [C. Northcote Parkinson](entities/CNorthcoteParkinson.md) — Writer behind Parkinson's Law and the deadline-expansion branch of the office-laws episode.
 - [Meng Zhu](entities/MengZhu.md) — Researcher explaining evidence and remedies around Parkinson's Law and deadline design.
@@ -645,7 +655,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jennifer Jenkins](entities/JenniferJenkins.md) — Copyright and public-domain expert helping Planet Money explain Betty Boop's public-domain status and the prior copyright-term freeze.
 - [Jess Jang](entities/JessJang.md) — Planet Money participant who praises the Washington Post's competitive Excel article.
 - [Jesse Doherty](entities/JesseDoherty.md) — Washington Post journalist whose Excel competition article becomes a Planet Money Valentine.
-- [Erica Barris](entities/EricaBarris.md) — Planet Money participant whose penny Valentine separates coin economics from cultural afterlife.
+- [Erika Beras](entities/ErikaBeras.md) — Planet Money participant whose penny Valentine separates coin economics from cultural afterlife.
 - [Nick Fountain](entities/NickFountain.md) — Planet Money participant highlighting 404 Media's ICE technology reporting and procurement-records methods.
 - [Uniqlo](entities/Uniqlo.md) — Apparel retailer used as the episode's case of RFID self-checkout that reduces customer friction.
 - [U.S. Mint](entities/UnitedStatesMint.md) — Minting institution tied to the episode's account of ending new penny production.
@@ -3325,7 +3335,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [James Lovelock](entities/JamesLovelock.md) — Thinker referenced through Novacene to anchor the source's planetary self-awareness frame.
 - [NPR](entities/NPR.md) — Public media organization connected to the wiki through a funding appeal and Planet Money reporting on Chevron/Venezuela oil history, sanctions, public policy, markets, and consumer cases.
 - [Katherine Maher](entities/KatherineMaher.md) — NPR CEO voicing the appeal and linking public-media funding to local reporting, rural access, and donations.
-- [Planet Money](entities/PlanetMoney.md) — NPR economics podcast feed now covering Chevron/Venezuela oil history, AI bubbles, Black hair care, sanctions, public policy, markets, and consumer cases.
+- [Planet Money](entities/PlanetMoney.md) — NPR economics podcast feed now covering office incentives, robot chefs, Chevron/Venezuela oil history, AI bubbles, Black hair care, sanctions, public policy, markets, and consumer cases.
 - [1A](entities/1A.md) — WAMU/NPR public-affairs podcast promoted through the If You Can Keep It political series.
 - [WAMU](entities/WAMU.md) — Public-radio organization named with NPR in the 1A promo.
 - [Jen White](entities/JenWhite.md) — 1A host voice promoting If You Can Keep It.
@@ -4030,6 +4040,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Restaurant Automation](concepts/RestaurantAutomation.md) — Use of machines or software to take over, standardize, or assist restaurant tasks such as cooking, timing, cleaning, and staffing.
+- [Robot Chef Cost-Quality Tradeoff](concepts/RobotChefCostQualityTradeoff.md) — Restaurant decision problem where robots can be cheaper, faster, and easier to staff while losing some craft quality.
+- [Wok Hei](concepts/WokHei.md) — High-heat wok flavor used as the human-chef benchmark in the Chef vs. Robot taste test.
+- [Automation Displacement Effect](concepts/AutomationDisplacementEffect.md) — Labor-market mechanism where robots take over tasks previously done by workers.
+- [Automation Reinstatement Effect](concepts/AutomationReinstatementEffect.md) — Labor-market mechanism where automation creates, reshapes, or complements work.
 - [Workplace Incentive Design](concepts/WorkplaceIncentiveDesign.md) — Frame for how workplace metrics, deadlines, promotions, and visible norms shape behavior.
 - [Goodhart's Law](concepts/GoodhartsLaw.md) — Measurement failure pattern where a metric loses usefulness once it becomes a target.
 - [Workplace Metric Gaming](concepts/WorkplaceMetricGaming.md) — Behavior pattern where workers optimize a visible metric rather than the underlying service or outcome.

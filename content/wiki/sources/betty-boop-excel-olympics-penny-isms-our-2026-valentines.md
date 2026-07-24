@@ -24,7 +24,7 @@ The strongest knowledge contribution is split between [[PublicDomainReuse]] and 
 - "Boop boop a duopoly" works as a joke because a two-firm market structure becomes a romantic metaphor, with "I'll never bust your trust" as the antitrust tagline.
 - [[JessJang]]'s Valentine to [[JesseDoherty]]'s [[WashingtonPost|Washington Post]] article treats spreadsheet work as spectator performance through [[CompetitiveSpreadsheeting]] rather than only office productivity.
 - [[Uniqlo]]'s checkout works because RFID tags can identify multiple garments in a bin, but [[RFIDCheckout]] remains margin-sensitive: a few cents of tag cost is easier to absorb in apparel than in low-price groceries.
-- [[EricaBarris]]'s Valentine to the penny separates economic usefulness from cultural afterlife: pennies may be costly to mint and less useful in digital payments, but they still carry memory, language, and sayings.
+- [[ErikaBeras]]'s Valentine to the penny separates economic usefulness from cultural afterlife: pennies may be costly to mint and less useful in digital payments, but they still carry memory, language, and sayings.
 - The source says the [[USTreasury|U.S. Treasury]] and [[UnitedStatesMint|U.S. Mint]] are going to stop minting new pennies, while existing pennies remain legal tender.
 - [[NickFountain]] praises [[404Media|404 Media]] for showing subscribers how to search federal procurement records, making contracts from janitorial services to technology vendors into accountability evidence.
 - The episode mentions [[Palantir]] in connection with 404 Media reporting on an ICE-related app, while also preserving Palantir's dispute that the tool should be described as a "Google Maps for ICE."
@@ -37,12 +37,12 @@ The strongest knowledge contribution is split between [[PublicDomainReuse]] and 
 > "penny wise and pound foolish" - one penny saying used to show the coin's cultural afterlife.
 
 ## Connections
-- [[NPR]], [[PlanetMoney]], [[KennyMalone]], [[JessJang]], [[AlexiHorowitzGhazi]], [[EricaBarris]], and [[NickFountain]] - network, show, and episode contributors.
+- [[NPR]], [[PlanetMoney]], [[KennyMalone]], [[JessJang]], [[AlexiHorowitzGhazi]], [[ErikaBeras]], and [[NickFountain]] - network, show, and episode contributors.
 - [[BettyBoop]], [[JenniferJenkins]], [[PublicDomainReuse]], [[IPOwnership]], and [[CopyrightPlatformConflict]] - copyright and creative-reuse branch.
 - [[TheWaltDisneyCompany|Disney]] - lobbying reference in the public-domain explanation.
 - [[Microsoft]], [[MicrosoftExcel]], [[WashingtonPost|Washington Post]], [[JesseDoherty]], and [[CompetitiveSpreadsheeting]] - spreadsheet competition and reporting branch.
 - [[Uniqlo]] and [[RFIDCheckout]] - retail-technology case.
-- [[USTreasury|U.S. Treasury]], [[UnitedStatesMint|U.S. Mint]], [[EricaBarris]], and [[CoinRetirementEconomics]] - penny retirement and currency-culture branch.
+- [[USTreasury|U.S. Treasury]], [[UnitedStatesMint|U.S. Mint]], [[ErikaBeras]], and [[CoinRetirementEconomics]] - penny retirement and currency-culture branch.
 - [[404Media|404 Media]], [[USImmigrationAndCustomsEnforcement|ICE]], [[Palantir]], [[GovernmentEnterpriseProcurement]], [[SurveillanceAsAService]], [[GovernmentDataBrokerAccess]], and [[ProcurementRecordsJournalism]] - public-records and surveillance accountability branch.
 
 ## Contradictions

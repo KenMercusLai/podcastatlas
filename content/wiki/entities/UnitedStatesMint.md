@@ -14,6 +14,6 @@ In the wiki, the Mint becomes the institutional node for [[CoinRetirementEconomi
 
 ## Connections
 - [[USTreasury|U.S. Treasury]] - parent policy and institutional context in the source.
-- [[EricaBarris]] - Planet Money participant giving the penny Valentine.
+- [[ErikaBeras]] - Planet Money participant giving the penny Valentine.
 - [[CoinRetirementEconomics]] - concept explaining the minting decision.
 - [[PlanetMoney]] - source show.

@@ -39,4 +39,4 @@ The U.S. Treasury appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-b
 - [[AntiMoneyLaundering]], [[StablecoinSanctionsEvasion]], [[IslamicRevolutionaryGuardCorps]], and [[PrinceGroup]] — sanctions and illicit-finance branch added by Marketplace Tech.
 - [[IranSanctions]], [[DollarFinancialSanctions]], and [[SanctionsOvercompliance]] - Iran banking-isolation branch added by Planet Money.
 - [[USMaltaTaxTreaty]], [[MaltaTaxLoophole]], [[KennethKeyes]], [[TaxShelterDisclosureRegulation]], and [[TaxEnforcementCapacity]] - tax-treaty and enforcement branch added by Planet Money.
-- [[UnitedStatesMint|U.S. Mint]], [[EricaBarris]], and [[CoinRetirementEconomics]] - penny-retirement branch added by Planet Money.
+- [[UnitedStatesMint|U.S. Mint]], [[ErikaBeras]], and [[CoinRetirementEconomics]] - penny-retirement branch added by Planet Money.
