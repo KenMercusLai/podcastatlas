@@ -2,7 +2,7 @@
 title: "Story-Based Empathy"
 type: concept
 tags: [reading, literature, empathy, narrative]
-sources: [134-chaling-shizi-jie-84-hao-zaici-yuanliang-shijie-de-liyou-821075226, 96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514, 109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773, jiaqi-moyu-geng-jiankang-574391976, 147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004]
+sources: [134-chaling-shizi-jie-84-hao-zaici-yuanliang-shijie-de-liyou-821075226, 96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514, 109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773, jiaqi-moyu-geng-jiankang-574391976, 147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403]
 last_updated: 2026-07-24
 ---
 
@@ -13,6 +13,8 @@ Story-based empathy is the claim that stories can expand understanding more effe
 The concept extends [[EmpathyAsAestheticCapacity]] and [[EmpathyCircleExpansion]]. The episode's point is not that stories make everyone kind automatically; it is that a person whose experience remains narrow has fewer chances to notice other minds, and literary experience can make numbness or cruelty less natural.
 
 [[147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004]] adds a cross-cultural folklore case. The episode uses comparison, humor, and source caveats to help Chinese-speaking listeners enter [[AfricanMythology]] without reducing it to either moral lessons or exotic oddity; stories become a way to notice how unfamiliar societies imagine creation, kinship, animals, resources, kingship, and argument.
+
+[[142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403]] adds a [[CelticMythology]] case. Rather than listing deities abstractly, the episode uses [[TuanMacCairill|Tuan]]'s reincarnations, [[FionnMacCumhaill|Fionn]]'s dog and deer-woman stories, and [[Ossian|Oisin / Ossian / 鹅相]] to make a distant myth field legible through memory, kinship, hospitality, comic violence, and loss.
 
 [[109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773]] adds a classical-history case through [[ZuoZhuan|《左传》]]. Its [[SportsAsHistoricalReadingFrame]] lets listeners enter [[SpringAndAutumnPeriod|春秋时期]] through concrete bodies, jokes, humiliations, and competitions before drawing conclusions about [[SpringAutumnWarfareRitual]], so empathy here means making a distant rule-world imaginatively legible without pretending it is morally simple.
 
@@ -27,6 +29,7 @@ The concept extends [[EmpathyAsAestheticCapacity]] and [[EmpathyCircleExpansion]
 - Literary empathy is a practice of attention, not a guarantee of moral superiority.
 - A show can use narrative discussion as a bridge toward more abstract philosophy or political theory if the discussion keeps returning to lived human situations.
 - Cross-cultural storytelling works best when comparison makes a story legible while leaving its local variants and social meanings intact.
+- Myth storytelling works best when names and cycles are anchored in concrete narrative sequences rather than presented as a flat glossary.
 - Humorous historical storytelling can make a distant social order legible if it keeps the violence, hierarchy, and source limits visible.
 - Epic storytelling can make mortality and enemy grief perceptible where abstract statements about war would remain thin.
 - Stories of small gifts can make goodwill credible when kindness is shown through timing, scarcity, reciprocity, and daily use.
@@ -40,6 +43,7 @@ The concept extends [[EmpathyAsAestheticCapacity]] and [[EmpathyCircleExpansion]
 - [[EmpathyCircleExpansion]] - broader ethical frame for widening concern.
 - [[MihuanChishu|蜜獾吃书]] - show context for the method.
 - [[AfricanMythology]] and [[AfricanOralLiterature]] - folklore case where story-based empathy crosses cultural distance.
+- [[CelticMythology]], [[TuanMacCairill|图安]], [[FionnMacCumhaill|芬恩]], and [[CelticAnimalTransformation]] - mythology case where story sequence makes a dense name-field readable.
 - [[ZuoZhuan|《左传》]], [[SpringAutumnWarfareRitual]], and [[SportsAsHistoricalReadingFrame]] - episode 109 case where humor opens pre-Qin historical distance.
 - [[TheIliad]], [[MuthosLogosTension]], and [[HomericMortalityReading]] - episode 96 case where epic narrative makes death and pity concrete.
 - [[EightyFourCharingCrossRoad|《查令十字街84号》]], [[EpistolaryFriendship]], and [[DignityThroughSmallGifts]] - episode 134 case where letters and gifts make ordinary kindness concrete.

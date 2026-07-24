@@ -263,6 +263,10 @@
     "title": "142. 产品体验学日本、全球营销学韩国",
     "url": "/wiki/sources/142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1/"
   },
+  "142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403": {
+    "title": "142. 凯尔特神话故事（第一弹）：德鲁伊会梦见变形羊吗？",
+    "url": "/wiki/sources/142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403/"
+  },
   "142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz": {
     "title": "142. 雨森的创投观察第2集：Harness、下一个字节、2026大机会和Stanley Druckenmiller",
     "url": "/wiki/sources/142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz/"
@@ -4135,6 +4139,18 @@
     "title": "Cecily Farr / 西西莉·法尔",
     "url": "/wiki/entities/cecilyfarr/"
   },
+  "CelticAnimalTransformation": {
+    "title": "Celtic Animal Transformation",
+    "url": "/wiki/concepts/celticanimaltransformation/"
+  },
+  "CelticMythology": {
+    "title": "Celtic Mythology",
+    "url": "/wiki/concepts/celticmythology/"
+  },
+  "CelticOtherworld": {
+    "title": "Celtic Otherworld",
+    "url": "/wiki/concepts/celticotherworld/"
+  },
   "CenterForAIStandardsAndInnovation": {
     "title": "Center for AI Standards and Innovation",
     "url": "/wiki/entities/centerforaistandardsandinnovation/"
@@ -5775,6 +5791,10 @@
     "title": "Danny Jenkins",
     "url": "/wiki/entities/dannyjenkins/"
   },
+  "Danu": {
+    "title": "Danu / 达努",
+    "url": "/wiki/entities/danu/"
+  },
   "Danzhou": {
     "title": "儋州 / Danzhou",
     "url": "/wiki/entities/danzhou/"
@@ -6682,6 +6702,10 @@
   "DrowningForensicUncertainty": {
     "title": "Drowning Forensic Uncertainty",
     "url": "/wiki/concepts/drowningforensicuncertainty/"
+  },
+  "DruidicKnowledge": {
+    "title": "Druidic Knowledge",
+    "url": "/wiki/concepts/druidicknowledge/"
   },
   "DryElectrodeManufacturing": {
     "title": "Dry Electrode Manufacturing",
@@ -7874,6 +7898,10 @@
   "FintechRegulatoryWindow": {
     "title": "Fintech Regulatory Window",
     "url": "/wiki/concepts/fintechregulatorywindow/"
+  },
+  "FionnMacCumhaill": {
+    "title": "Fionn mac Cumhaill / 芬恩",
+    "url": "/wiki/entities/fionnmaccumhaill/"
   },
   "FireResilientConstruction": {
     "title": "Fire-Resilient Construction",
@@ -12339,6 +12367,10 @@
     "title": "Lebanon",
     "url": "/wiki/entities/lebanon/"
   },
+  "LeborGabalaErenn": {
+    "title": "Lebor Gabala Erenn / 《入侵之书》",
+    "url": "/wiki/entities/leborgabalaerenn/"
+  },
   "LeeWoods": {
     "title": "Lee Woods",
     "url": "/wiki/entities/leewoods/"
@@ -15550,6 +15582,10 @@
   "OscarWilde": {
     "title": "Oscar Wilde / 王尔德",
     "url": "/wiki/entities/oscarwilde/"
+  },
+  "Ossian": {
+    "title": "Oisin / Ossian / 鹅相",
+    "url": "/wiki/entities/ossian/"
   },
   "OswaldTheLuckyRabbit": {
     "title": "Oswald the Lucky Rabbit",
@@ -20459,6 +20495,10 @@
     "title": "《机器人大师》 / The Cyberiad",
     "url": "/wiki/entities/thecyberiad/"
   },
+  "TheDagda": {
+    "title": "The Dagda / 达格达",
+    "url": "/wiki/entities/thedagda/"
+  },
   "TheDaughterOfTime": {
     "title": "《时间的女儿》 / The Daughter of Time",
     "url": "/wiki/entities/thedaughteroftime/"
@@ -21134,6 +21174,14 @@
   "TsinghuaUniversity": {
     "title": "Tsinghua University / 清华大学",
     "url": "/wiki/entities/tsinghuauniversity/"
+  },
+  "TuanMacCairill": {
+    "title": "Tuan mac Cairill / 图安",
+    "url": "/wiki/entities/tuanmaccairill/"
+  },
+  "TuathaDeDanann": {
+    "title": "Tuatha De Danann / 达努神族",
+    "url": "/wiki/entities/tuathadedanann/"
   },
   "Tucows": {
     "title": "Tucows",

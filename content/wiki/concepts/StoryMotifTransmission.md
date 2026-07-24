@@ -2,7 +2,7 @@
 title: "Story Motif Transmission"
 type: concept
 tags: [folklore, mythology, narrative, transmission]
-sources: [128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
+sources: [128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
 last_updated: 2026-07-24
 ---
 
@@ -15,6 +15,8 @@ Story motif transmission is the source's frame for how story patterns travel, re
 [[128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305]] adds a serpent-motif version. The episode compares world-serpent myths, snake-slaying, snake-wife stories, hidden bathing plots, [[WhiteSnakeLegend|白蛇传]], Baijie Furen, Russian serpent-wife material, and [[ZhaoLinger|赵灵儿]], but it marks several links as suggestive rather than proven.
 
 [[152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062]] adds the [[SwanMaidenMotif]] version. The episode treats the hidden-clothing marriage plot in [[CowherdAndWeaverGirl|牛郎织女]] as a portable motif comparable with Buryat, Manchu, Celtic, Indian, Buddhist, and European stories, while keeping the route into Qixi open rather than overclaiming direct descent.
+
+[[142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403]] adds a Celtic transformation version. [[CelticAnimalTransformation]] gathers [[TuanMacCairill|Tuan]]'s stag, boar, eagle, and salmon rebirths with Fenian dog-kin and deer-woman stories, making animal form a portable way to think about memory, kinship, coercion, and survival without turning every similar story into one descent line.
 
 [[111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766]] adds a cautionary variant through [[PiedPiperOfHamelin|花衣魔笛手]]. Rat-catching, magical music, stolen children, contract betrayal, migration, festival accident, and demonized outsider motifs can all travel or be added later, but the episode treats motif resemblance as only one layer beside local [[Hamelin|哈默尔恩]] evidence and [[LegendAsSocialHistory]].
 
@@ -43,6 +45,7 @@ The concept is adjacent to [[MythicSourceLayering]] and [[AccretiveTextFormation
 - Urban legends show that modern motifs can spread quickly because the setting feels local, not because the story has a stable named source.
 - In mystery rewriting, a motif can function less as transmission evidence and more as an agreed rule that makes deduction possible.
 - Animal roles can travel even when the specific animal changes; the motif may be clever prey, trickster exposure, or justice against a predator rather than "crab" as a fixed symbol.
+- Celtic animal-transformation stories show that the same animal body can carry rebirth, kinship, witness memory, curse, or spouse-loss depending on narrative context.
 - Serpent stories show the same caution around powerful motifs: snake wives, forbidden knowledge, hidden bathing, hero-slaying, and renewal can recur without proving one direct genealogy.
 
 ## Connections
@@ -50,6 +53,7 @@ The concept is adjacent to [[MythicSourceLayering]] and [[AccretiveTextFormation
 - [[TangChuanqi]], [[XuanGuaiLu|《玄怪录》]], and [[TangStrangeTaleRepaymentEthics]] - episode 76's strange-tale extension.
 - [[HorseCulturalSymbolism]] and [[HorseReligiousMythology]] - horse-specific motif fields.
 - [[SwanMaidenMotif]] and [[CowherdAndWeaverGirl|牛郎织女]] - Qixi extension added by episode 152.
+- [[CelticAnimalTransformation]], [[TuanMacCairill|图安]], [[FionnMacCumhaill|芬恩]], and [[Ossian|Oisin / Ossian / 鹅相]] - Celtic transformation extension added by episode 142.
 - [[MythicSourceLayering]] - related figure-level layering concept.
 - [[AccretiveTextFormation]] - related text-level layering concept.
 - [[InterpretationAndOverinterpretation]] and [[MythAsHistoricalEvidence]] - evidence cautions.

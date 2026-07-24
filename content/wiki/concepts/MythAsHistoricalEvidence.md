@@ -2,7 +2,7 @@
 title: "Myth As Historical Evidence"
 type: concept
 tags: [mythology, evidence, interpretation, anthropology]
-sources: [128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
+sources: [128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
 last_updated: 2026-07-24
 ---
 
@@ -18,6 +18,8 @@ Myth as historical evidence is the method [[JohannJakobBachofen]] makes central 
 
 [[152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062]] adds a festival-history version through [[QixiFestival|七夕 / Qixi]]. Star names, calendar dates, [[QiqiaoRitualPractice|乞巧]] tools, Song market objects, Guangdong "拜七娘", and [[SwanMaidenMotif]] parallels can all be evidence, but the source repeatedly distinguishes strong textual or ritual evidence from suggestive [[QixiCrossCulturalTransmission|cross-cultural transmission]] hypotheses.
 
+[[142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403]] adds a Celtic version through [[CelticMythology]]. [[LeborGabalaErenn|《入侵之书》]], [[TuanMacCairill|图安]], [[TuathaDeDanann|Tuatha De Danann / 达努神族]], and [[Ossian|Oisin / Ossian / 鹅相]] can reveal how Irish identity, settlement memory, Christian chronology, divine displacement, and Romantic authenticity were narrated, but the episode's useful lesson is to keep those as layered evidence rather than direct historical proof.
+
 [[111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766]] adds a legend-history version through [[PiedPiperOfHamelin|花衣魔笛手]]. The episode treats dated local memory, early manuscripts, city inscriptions, geography, and later rat-catcher variants as evidence of different kinds. Its strongest methodological move is [[EvidenceBoundFolkloreInquiry]]: mythic or folkloric pressure can guide historical questions, but it cannot erase uncertainty around migration, battle, accident, famine, plague, or religious frenzy.
 
 The episode finds this method productive but dangerous. It can reveal that stories carry law, kinship, sex, violence, and inheritance anxieties, but it can also turn symbolic patterns into historical claims without enough archaeological or anthropological support. This makes the page adjacent to [[MythicSourceLayering]] and [[ObservationBeforeInference]].
@@ -31,6 +33,7 @@ The episode finds this method productive but dangerous. It can reveal that stori
 - Snake symbolism shows the same boundary at psychological and gendered scale: a powerful image can reveal fear, fertility, and control anxieties without proving a single historical route.
 - Festival evidence needs the same split: textual date, ritual object, local practice, and cross-cultural resemblance do not all carry equal proof.
 - Legend evidence needs the same split: a dated local record, a later magical plot, and a social-history interpretation are not the same kind of proof.
+- Celtic evidence needs the same split: medieval manuscript preservation, oral memory, divine genealogy, animal transformation, and Romantic revival are related but not identical evidence types.
 
 ## Connections
 - [[JohannJakobBachofen]] and [[MotherRight|《母权论》 / Mother Right]] - source method.
@@ -38,6 +41,7 @@ The episode finds this method productive but dangerous. It can reveal that stori
 - [[MythicSourceLayering]] - adjacent concept for variants and layered origins.
 - [[MotherGoddessEvidenceLeap]] - specific evidence mistake around figurines and goddess worship.
 - [[QixiFestival|七夕 / Qixi]], [[QixiCrossCulturalTransmission]], and [[SwanMaidenMotif]] - festival-history evidence case added by episode 152.
+- [[CelticMythology]], [[LeborGabalaErenn|《入侵之书》]], [[TuanMacCairill|图安]], and [[Ossian|Oisin / Ossian / 鹅相]] - Celtic manuscript, witness-memory, and authenticity case added by episode 142.
 - [[PiedPiperOfHamelin|花衣魔笛手]], [[LegendAsSocialHistory]], and [[EvidenceBoundFolkloreInquiry]] - legend-history evidence case added by episode 111.
 - [[ObservationBeforeInference]] and [[InterpretationAndOverinterpretation]] - wiki guardrails for evidence discipline.
 - [[ChineseDragon|龙]], [[DragonNationalSymbolInvention]], and [[TotemismNationalism]] - dragon-national-symbol case added by episode 127.

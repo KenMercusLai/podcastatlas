@@ -2,8 +2,8 @@
 title: "J.R.R. Tolkien / 托尔金"
 type: entity
 tags: [writer, fantasy, philology, biography]
-sources: [60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489]
-last_updated: 2026-07-16
+sources: [60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403]
+last_updated: 2026-07-24
 ---
 
 # J.R.R. Tolkien / 托尔金
@@ -16,9 +16,12 @@ Tolkien also extends [[AuthorMythDeflation]] gently. The episode keeps his anti-
 
 [[93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489]] adds Tolkien as a quick example of hair and facial hair as character coding. The source uses bearded dwarves and beardless Hobbits to show how [[HairAsBiosocialSignal]] can become a compact fictional signal for species, temperament, and group identity.
 
+[[142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403]] adds a [[CelticMythology]] comparison. The episode names Tolkien among modern cultural afterlives shaped by Celtic atmosphere, philology, fairy material, and the desire to restore or invent national myth, while keeping the relationship broad rather than claiming direct one-to-one borrowing.
+
 ## Connections
 - [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]] - source episode.
 - [[CSLewis|C. S. Lewis / C.S. 刘易斯]] - friend and fellow Inklings figure discussed in the episode.
+- [[CelticMythology]] - later mythology episode's comparison field for fantasy afterlives.
 - [[AuthorMythDeflation]] - great fantasy author made human through quirks and prejudices.
 - [[LiteraryGossipAsContext]] - biography and habit used as context for myth-making.
 - [[ClassicReadingComplexity]] - adjacent frame for reading fantasy and author image without simple labels.

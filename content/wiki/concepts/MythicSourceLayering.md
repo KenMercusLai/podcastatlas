@@ -2,7 +2,7 @@
 title: "Mythic Source Layering"
 type: concept
 tags: [mythology, folklore, literature, religion]
-sources: [128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 136-chunri-mingmei-liaoliao-guishen-827911486, 147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
+sources: [128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 136-chunri-mingmei-liaoliao-guishen-827911486, 147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
 last_updated: 2026-07-24
 ---
 
@@ -26,6 +26,8 @@ The clearest case is [[SunWukong|孙悟空]]. The episode compares him with [[Ha
 
 [[147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004]] adds a cross-cultural oral-mythology case through [[AfricanMythology]]. The episode compares [[MawuLisa|Mawu-Lisa]], [[Obatala]], the [[MwindoEpic|Mwindo epic]], animal tales, and [[Anansi]] with Chinese, Greek, Norse, Biblical, and fairy-tale motifs, but treats resemblance as an orientation tool rather than proof of one direct source.
 
+[[142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403]] adds a Celtic mythology case through [[CelticMythology]]. The episode keeps [[Danu|达努]], [[TuathaDeDanann|Tuatha De Danann / 达努神族]], [[LeborGabalaErenn|《入侵之书》]], [[TuanMacCairill|图安]], [[FionnMacCumhaill|芬恩]], and [[Ossian|Oisin / Ossian / 鹅相]] as layered material shaped by oral memory, Christian manuscript preservation, Romantic revival, animal transformation, and modern fantasy afterlives rather than one recoverable pure source.
+
 [[152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062]] adds the [[CowherdAndWeaverGirl|牛郎织女]] case. The episode separates star lore, ritual cattle and river-drum star imagery, Daoist ascent stories, textile labor, and the [[SwanMaidenMotif]] hidden-clothing plot rather than treating the modern Qixi romance as one original unit.
 
 [[171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962]] extends the pattern through horse imagery. [[HorseHeadGuanyin|马头观音]], [[Longma|龙马]], [[Bucephalus|布西法拉斯]], and [[EldenRing|《艾尔登法环》]] show how animal form, religious iconography, heroic naming, and game design can layer without every resemblance proving direct borrowing.
@@ -39,6 +41,7 @@ The clearest case is [[SunWukong|孙悟空]]. The episode compares him with [[Ha
 - A symbolic animal can also be layered; the dragon episode shows that one name may gather shape, weather, ritual, imperial, Buddhist, and folk meanings.
 - The snake episode shows a parallel animal-symbol layer where biology, fear, cosmic-serpent stories, renewal, secret knowledge, and gendered folklore accumulate around one form.
 - Cross-cultural resemblance is evidence for comparison, not automatic proof of borrowing.
+- Celtic material shows how one mythology branch can layer regional languages, medieval Christian record, Romantic authenticity debates, animal transformation, and modern fantasy memory.
 - Religious iconography can become comic fiction without losing all of its earlier symbolic force.
 - Monster genealogies can expose social and institutional satire, especially when divine backing changes punishment.
 - Mythic layering complements [[AccretiveTextFormation]] by explaining how the character level preserves older material.
@@ -64,6 +67,7 @@ The clearest case is [[SunWukong|孙悟空]]. The episode compares him with [[Ha
 - [[GreekMythology]] and [[AdultFairyTaleReading]] - adjacent wiki concepts where old stories are treated as culturally layered rather than merely literal.
 - [[ChineseFolkReligionLayering]] - broader folk-belief version added by episode 136.
 - [[AfricanMythology]], [[AfricanOralLiterature]], and [[TricksterAmbivalence]] - African mythology and oral-story version added by episode 147.
+- [[CelticMythology]], [[TuathaDeDanann|Tuatha De Danann / 达努神族]], [[LeborGabalaErenn|《入侵之书》]], [[CelticAnimalTransformation]], and [[CelticOtherworld]] - Celtic mythology extension added by episode 142.
 - [[CowherdAndWeaverGirl|牛郎织女]], [[QixiFestivalLayering]], and [[SwanMaidenMotif]] - Qixi extension added by episode 152.
 - [[HorseReligiousMythology]], [[StoryMotifTransmission]], [[Bucephalus|布西法拉斯]], and [[EldenRing|《艾尔登法环》]] - horse and game-design extension added by episode 171.
 - [[ChineseDragon|龙]], [[ChineseDragonMythicLayering]], and [[DragonNationalSymbolInvention]] - dragon-symbol extension added by episode 127.

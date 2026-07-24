@@ -13,6 +13,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP268 毛冬x唐唐：大黄，你到底咋了！上蹿下跳的黄金和那些绝不下车的人](sources/ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv.md) — Talk三联 episode with 毛冬, 唐涛/唐唐, 吴淑冰, and 莫晨 on gold drawdowns, household gold savings, online gold accumulation, gifts, liquidity, allocation, and no-leverage risk discipline.
 - [【沙青青x韩钊】石川啄木：我抱持的思想，都是因为缺钱](sources/shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314.md) — 蜜獾吃书 episode with 韩钊 and 沙青青 on 石川啄木, 《短歌是我悲伤的玩具》, Donald Keene's biography, tanka as emotional snapshot, Meiji intellectual precarity, and the Great Treason political context.
 - [148. 王氏之死：断井颓垣上的历史妆镜](sources/148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934.md) — 蜜獾吃书 episode on 史景迁《王氏之死》, 郯城 disaster society, 王氏's murder, 黄六鸿, 《福惠全书》, 蒲松龄, 《聊斋志异》, Qing gender law, and fiction as historical evidence.
+- [142. 凯尔特神话故事（第一弹）：德鲁伊会梦见变形羊吗？](sources/142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403.md) — 蜜獾吃书 episode introducing Celtic mythology through Danu, the Tuatha De Danann, Tuan's animal reincarnations, druids, Fionn, Ossian, the Celtic otherworld, and modern fantasy afterlives.
 - [141. 制造弗兰肯斯坦：科幻之母和她的神奇时代](sources/141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931.md) — 蜜獾吃书 episode on Mary Shelley, Frankenstein, Romantic science, galvanism, vitalism, anatomy, corpse trade, electric therapy, the Villa Diodati circle, and creator responsibility.
 - [140. 还可以的金女士：“所以人为什么要努力啊？！”](sources/140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655.md) — 蜜獾吃书 episode with 金子 on 《还可以的金女士》, small-town exam-taker discipline, hardship culture, female beauty self-surveillance, creator rating pressure, fashion respectability tax, and asking why effort became mandatory.
 - [139. 为什么伟大不能被计划：有志者事竟成，吗？](sources/139-weishenme-weida-buneng-bei-jihua-youzhizhe-shijingsheng-ma-849965735.md) — 蜜獾吃书 episode on 《为什么伟大不能被计划》, objective deception, novelty search, stepping-stone exploration, reading as possibility-space expansion, career uncertainty, basic research, and Campbell's Law.
@@ -607,6 +608,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [郯城 / Tancheng](entities/Tancheng.md) — Shandong county setting where disaster, tax pressure, law, and household violence converge in 《王氏之死》.
 - [《福惠全书》](entities/FuhuiQuanshu.md) — Huang Liuhong's administrative text and one of Spence's core sources for the Wang case.
 - [《郯城县志》 / Tancheng County Gazetteer](entities/TanchengCountyGazetteer.md) — Local gazetteer source for Tancheng disaster, tax, and social context.
+- [Danu / 达努](entities/Danu.md) — Celtic divine water and origin figure used by episode 142 to connect creation, sacred oak imagery, and the Tuatha De Danann.
+- [The Dagda / 达格达](entities/TheDagda.md) — Celtic divine figure in episode 142's Danu genealogy and early Irish myth frame.
+- [Tuatha De Danann / 达努神族](entities/TuathaDeDanann.md) — Divine people in episode 142 who retreat into the sidhe after losing Ireland to the Sons of Mil.
+- [Lebor Gabala Erenn / 《入侵之书》](entities/LeborGabalaErenn.md) — Medieval Irish invasion text used by episode 142 to show Christianized preservation of Celtic origin myth.
+- [Tuan mac Cairill / 图安](entities/TuanMacCairill.md) — Reincarnating witness whose stag, boar, eagle, salmon, and human forms preserve Irish settlement memory.
+- [Fionn mac Cumhaill / 芬恩](entities/FionnMacCumhaill.md) — Fenian hero in episode 142 whose dog, deer-woman, and race stories connect kinship, animal transformation, and heroic absurdity.
+- [Oisin / Ossian / 鹅相](entities/Ossian.md) — Fionn's son and later Ossianic literary-revival figure connecting animal transformation, lost kinship, and authenticity debates.
 - [《制造弗兰肯斯坦：玛丽·雪莱背后的科学》](entities/MakingFrankensteinBook.md) — Book used by episode 141 to map Mary Shelley's Frankenstein onto galvanism, vitalism, anatomy, corpse supply, and science anxiety.
 - [Mary Wollstonecraft / 玛丽·沃斯通克拉夫特](entities/MaryWollstonecraft.md) — Feminist and radical writer whose motherhood, death, and intellectual legacy shape episode 141's Shelley background.
 - [William Godwin / 威廉·戈德温](entities/WilliamGodwin.md) — Radical writer and Mary Shelley's father, used by episode 141 to explain the Godwin-Shelley intellectual household.
@@ -3826,6 +3834,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Online Gold Accumulation](concepts/OnlineGoldAccumulation.md) — App-mediated gold-buying pattern where small recurring purchases, virtual gram balances, and redemption turn gold into a low-friction habit.
 - [Microhistory From Hostile Archives](concepts/MicrohistoryFromHostileArchives.md) — Method for reconstructing marginal lives from records that preserve them mainly as legal or administrative problems.
 - [Fiction As Historical Evidence](concepts/FictionAsHistoricalEvidence.md) — Guarded method for using fiction as evidence of social imagination, fear, and norms rather than direct event proof.
+- [Celtic Mythology](concepts/CelticMythology.md) — Multi-region mythology field added by episode 142, linking Irish origin stories, Christian manuscript layers, animal transformation, druids, and modern fantasy afterlives.
+- [Druidic Knowledge](concepts/DruidicKnowledge.md) — Episode 142 frame for druidic wisdom, ritual authority, hospitality law, transformation magic, and darker sacrificial power.
+- [Celtic Animal Transformation](concepts/CelticAnimalTransformation.md) — Episode 142 motif where identity, kinship, memory, and coercion pass through deer, dogs, salmon, boar, eagle, and human forms.
+- [Celtic Otherworld](concepts/CelticOtherworld.md) — Hidden Celtic rule-world frame around sidhe, fairy-like survival, altered time, and heroic otherworld spaces.
 - [Science Fiction As Contemporary Science Integration / 科幻作为当代科学整合](concepts/ScienceFictionContemporaryScienceIntegration.md) — Episode 141 frame for judging early science fiction by how it absorbs its own era's live science and anxiety.
 - [Scientific Anxiety As Literary Material / 科学焦虑作为文学材料](concepts/ScientificAnxietyLiteraryMaterial.md) — Pattern where unsettled science becomes story pressure without requiring simple anti-science rejection.
 - [Romantic Science Culture / 浪漫主义科学文化](concepts/RomanticScienceCulture.md) — Period frame where poetry, radical politics, natural philosophy, electricity, medicine, and life speculation overlap.
