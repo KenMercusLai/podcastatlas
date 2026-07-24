@@ -2,7 +2,7 @@
 title: "Tech Manufacturing Reshoring"
 type: concept
 tags: [manufacturing, supply-chain, policy, hardware]
-sources: [building-things-and-breaking-things-in-china-summer-school-world-tour, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, why-are-we-so-obsessed-with-manufacturing]
+sources: [why-economists-got-free-trade-with-china-so-wrong, building-things-and-breaking-things-in-china-summer-school-world-tour, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, why-are-we-so-obsessed-with-manufacturing]
 last_updated: 2026-07-24
 ---
 
@@ -16,12 +16,15 @@ The episode treats the move as meaningful but limited. It links the announcement
 
 [[why-are-we-so-obsessed-with-manufacturing]] adds the labor-market test. The [[PlanetMoney]] episode says reshoring and factory construction do not automatically solve the good-jobs problem unless pay, training, working conditions, and local spillovers also work through [[ManufacturingPayPremium]], [[ManufacturingJobQuality]], [[ManufacturingWorkforcePipeline]], and [[ManufacturingRegionalMultiplier]].
 
+[[why-economists-got-free-trade-with-china-so-wrong]] adds the post-[[ChinaShock]] policy distinction. The episode treats future-oriented capacity in electric vehicles, semiconductors, solar, wind, networking, telecom, and aviation as a more defensible [[StrategicIndustrialPolicy]] target than blanket tariffs meant to recreate lost labor-intensive manufacturing jobs.
+
 ## Key Claims
 - Reshoring announcements can be symbolic even when they do not transform the full supply chain.
 - The relevant constraint is not only factories; advanced manufacturing depends on technicians, equipment maintenance workers, construction labor, and immigration policy.
 - A single domestic product line can help training and political credibility without proving that large-scale electronics manufacturing has shifted.
 - Tech reshoring interacts with [[AIHardwareSupplyChainPressure]] because chips, fabs, tools, and high-skilled labor increasingly sit inside the same strategic-industrial conversation.
 - Domestic production should be evaluated separately as strategic capacity, wage policy, workforce policy, and regional development; a factory can satisfy one goal without satisfying all of them.
+- The China-shock episode adds that reshoring has to distinguish future strategic capacity from backward-looking tariff repair for workers and towns already scarred by import competition.
 
 ## Connections
 - [[Apple]] and [[MacMini]] - source case.
@@ -30,3 +33,4 @@ The episode treats the move as meaningful but limited. It links the announcement
 - [[ConsumerHardwareStartupRisk]] - broader hardware execution constraint around manufacturing, quality, and supply.
 - [[BuildBuildRegulate]], [[EngineeringState]], and [[SupplyChainSovereignty]] - comparative China/U.S. capacity frame added by Planet Money Summer School.
 - [[ManufacturingPayPremium]], [[ManufacturingJobQuality]], [[ManufacturingWorkforcePipeline]], and [[ManufacturingRegionalMultiplier]] - labor and regional tests added by the manufacturing-jobs episode.
+- [[ChinaShock]], [[BlanketTariffLimit]], [[StrategicIndustrialPolicy]], and [[RegionalLaborMarketScarring]] - trade-shock and future-capacity distinction added by the China-shock episode.

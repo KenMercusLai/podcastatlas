@@ -22,6 +22,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to get what Greenland has, with permission](sources/how-to-get-what-greenland-has-with-permission.md) — Planet Money episode on Greenland, rare earth processing, U.S. Arctic defense access, Trump territorial-control rhetoric, and why mineral/security goals can be pursued through cooperation instead of annexation.
 - [Can transforming neighborhoods help kids escape poverty?](sources/can-transforming-neighborhoods-help-kids-escape-poverty.md) — Planet Money episode on HOPE VI, Richard Allen Homes, Raj Chetty's neighborhood-opportunity research, mixed-income redesign, cross-class social capital, and displacement limits.
 - [Why are we so obsessed with manufacturing?](sources/why-are-we-so-obsessed-with-manufacturing.md) — Planet Money episode on U.S. manufacturing jobs, pay premiums, workforce pipelines, strategic reshoring, regional multipliers, and why the broader goal is good jobs for non-college workers.
+- [Why economists got free trade with China so wrong](sources/why-economists-got-free-trade-with-china-so-wrong.md) — Planet Money episode with David Autor on the China shock, concentrated manufacturing losses, slow worker adjustment, tariffs, and strategic industrial policy.
 - [Vol.112 一次非共识的2024反思和2025展望 | 对话蓝小康X牟一凌](sources/vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv.md) — 起朱楼宴宾客 episode with 蓝小康 and 牟一凌 on 2024 market reflection, Trump 2.0, China supply clearing, labor-share consumption repair, SOE valuation, Belt and Road demand, and active management.
 - [EP268 毛冬x唐唐：大黄，你到底咋了！上蹿下跳的黄金和那些绝不下车的人](sources/ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv.md) — Talk三联 episode with 毛冬, 唐涛/唐唐, 吴淑冰, and 莫晨 on gold drawdowns, household gold savings, online gold accumulation, gifts, liquidity, allocation, and no-leverage risk discipline.
 - [【沙青青x韩钊】石川啄木：我抱持的思想，都是因为缺钱](sources/shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314.md) — 蜜獾吃书 episode with 韩钊 and 沙青青 on 石川啄木, 《短歌是我悲伤的玩具》, Donald Keene's biography, tanka as emotional snapshot, Meiji intellectual precarity, and the Great Treason political context.
@@ -582,6 +583,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [David Autor](entities/DavidAutor.md) — MIT economist interviewed by Planet Money about the China shock, worker scarring, trade adjustment, tariffs, and industrial policy.
+- [David Dorn](entities/DavidDorn.md) — Economist named as David Autor's coauthor in the China shock research branch.
+- [Greg Rosalsky](entities/GregRosalsky.md) — Planet Money host who frames the free-trade and China shock interview with David Autor.
 - [Chanel](entities/Chanel.md) — Luxury fashion brand whose dispute with The RealReal tests trademark protection, authentication authority, and secondary-market control.
 - [The RealReal](entities/TheRealReal.md) — Luxury resale marketplace built around independent authentication and first-sale resale rights.
 - [Julie Wainwright](entities/JulieWainwright.md) — Founder of The RealReal, using authentication to unlock unused luxury inventory as marketplace supply.
@@ -672,7 +676,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cambridge Plaza](entities/CambridgePlaza.md) — North Philadelphia tower demolition case that opens the HOPE VI episode and makes redevelopment disruption visible.
 - [Harry Moser](entities/HarryMoser.md) — Reshoring Initiative voice in the manufacturing episode, grounding the strategic domestic-production argument.
 - [Reshoring Initiative](entities/ReshoringInitiative.md) — Organization used in the episode to represent the case for bringing strategic goods production back domestically.
-- [Gordon Hansen](entities/GordonHansen.md) — Economist in the episode who frames manufacturing as historically wage-premium work while warning the broader problem is too few good non-college jobs.
+- [Gordon Hanson](entities/GordonHansen.md) — Economist in the episode who frames manufacturing as historically wage-premium work while warning the broader problem is too few good non-college jobs.
 - [David Card](entities/DavidCard.md) — Labor economist cited in the episode's manufacturing wage-premium comparison.
 - [Jesse Rothstein](entities/JesseRothstein.md) — Labor economist cited with David Card and Moises Yee in the episode's industry wage-premium evidence.
 - [Moises Yee](entities/MoisesYee.md) — Researcher cited with David Card and Jesse Rothstein in the episode's manufacturing pay-premium evidence.
@@ -3902,6 +3906,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [China Shock](concepts/ChinaShock.md) — Trade shock where Chinese import growth after roughly 2001 produced concentrated and persistent U.S. manufacturing labor-market damage.
+- [Free Trade Distributional Cost](concepts/FreeTradeDistributionalCost.md) — Gap between aggregate free-trade gains and concentrated worker, firm, and regional losses.
+- [Regional Labor Market Scarring](concepts/RegionalLaborMarketScarring.md) — Long-lived local employment damage after import competition or industry loss hits a specific labor market.
+- [People Versus Places Recovery](concepts/PeopleVersusPlacesRecovery.md) — Distinction between a local economy appearing to recover and the originally displaced workers recovering.
+- [Trade Adjustment Assistance](concepts/TradeAdjustmentAssistance.md) — Worker-support policy family meant to help trade-displaced workers return to work, retrain, or absorb wage loss.
+- [Blanket Tariff Limit](concepts/BlanketTariffLimit.md) — Warning that broad tariffs often raise costs and do not automatically restore lost manufacturing jobs.
+- [Strategic Industrial Policy](concepts/StrategicIndustrialPolicy.md) — Targeted capacity-building approach that pairs selective barriers with domestic investment in frontier sectors.
 - [Asymmetric Information](concepts/AsymmetricInformation.md) — Market condition where one transaction side knows more than the other, making authentication and trust design economically valuable.
 - [Luxury Resale Authentication](concepts/LuxuryResaleAuthentication.md) — Expert and operational process that lets buyers trust used high-end goods in online resale marketplaces.
 - [Brand-Controlled Authentication](concepts/BrandControlledAuthentication.md) — Claim that only the original brand has enough internal knowledge to decide product authenticity.

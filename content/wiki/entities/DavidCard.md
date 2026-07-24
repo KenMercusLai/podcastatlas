@@ -16,4 +16,4 @@ The source does not make Card the main interview subject. His role is evidentiar
 - [[JesseRothstein]] and [[MoisesYee]] - co-cited researchers in the source.
 - [[ManufacturingPayPremium]] - concept grounded by the cited wage comparison.
 - [[GoodJobsForNonCollegeWorkers]] - broader labor-market policy question.
-- [[GordonHansen]] - economist who interprets the manufacturing premium in the episode.
+- [[GordonHansen|Gordon Hanson]] - economist who interprets the manufacturing premium in the episode.

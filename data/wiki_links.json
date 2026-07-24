@@ -3455,6 +3455,10 @@
     "title": "Blake Scholl",
     "url": "/wiki/entities/blakescholl/"
   },
+  "BlanketTariffLimit": {
+    "title": "Blanket Tariff Limit",
+    "url": "/wiki/concepts/blankettarifflimit/"
+  },
   "BlindnessMemoryArtIdeal": {
     "title": "Blindness-Memory Art Ideal",
     "url": "/wiki/concepts/blindnessmemoryartideal/"
@@ -4618,6 +4622,10 @@
   "ChinaShenhua": {
     "title": "China Shenhua / 中国神华",
     "url": "/wiki/entities/chinashenhua/"
+  },
+  "ChinaShock": {
+    "title": "China Shock",
+    "url": "/wiki/concepts/chinashock/"
   },
   "ChinaSouthernAirlines": {
     "title": "China Southern Airlines / 南方航空",
@@ -6095,6 +6103,10 @@
     "title": "Dave Reibstein",
     "url": "/wiki/entities/davereibstein/"
   },
+  "DavidAutor": {
+    "title": "David Autor",
+    "url": "/wiki/entities/davidautor/"
+  },
   "DavidBaker": {
     "title": "David Baker",
     "url": "/wiki/entities/davidbaker/"
@@ -6126,6 +6138,10 @@
   "DavidClements": {
     "title": "David Clements",
     "url": "/wiki/entities/davidclements/"
+  },
+  "DavidDorn": {
+    "title": "David Dorn",
+    "url": "/wiki/entities/daviddorn/"
   },
   "DavidEllison": {
     "title": "David Ellison",
@@ -8667,6 +8683,10 @@
     "title": "Free Service Hidden Cost / 免费服务隐性成本",
     "url": "/wiki/concepts/freeservicehiddencost/"
   },
+  "FreeTradeDistributionalCost": {
+    "title": "Free Trade Distributional Cost",
+    "url": "/wiki/concepts/freetradedistributionalcost/"
+  },
   "FreitBarefoot": {
     "title": "Freit Barefoot",
     "url": "/wiki/entities/freitbarefoot/"
@@ -9348,7 +9368,7 @@
     "url": "/wiki/entities/googleplus/"
   },
   "GordonHansen": {
-    "title": "Gordon Hansen",
+    "title": "Gordon Hanson",
     "url": "/wiki/entities/gordonhansen/"
   },
   "GordonMoore": {
@@ -9462,6 +9482,10 @@
   "GregMcAdoo": {
     "title": "Greg McAdoo",
     "url": "/wiki/entities/gregmcadoo/"
+  },
+  "GregRosalsky": {
+    "title": "Greg Rosalsky",
+    "url": "/wiki/entities/gregrosalsky/"
   },
   "GrillMeSkills": {
     "title": "GrillMe Skills",
@@ -16423,6 +16447,10 @@
     "title": "Penny Stock Boiler Room Fraud",
     "url": "/wiki/concepts/pennystockboilerroomfraud/"
   },
+  "PeopleVersusPlacesRecovery": {
+    "title": "People Versus Places Recovery",
+    "url": "/wiki/concepts/peopleversusplacesrecovery/"
+  },
   "PeoplesBankOfChina": {
     "title": "People's Bank of China",
     "url": "/wiki/entities/peoplesbankofchina/"
@@ -17946,6 +17974,10 @@
   "ReformUK": {
     "title": "Reform UK",
     "url": "/wiki/entities/reformuk/"
+  },
+  "RegionalLaborMarketScarring": {
+    "title": "Regional Labor Market Scarring",
+    "url": "/wiki/concepts/regionallabormarketscarring/"
   },
   "RegionalNetworkTopologyRisk": {
     "title": "Regional Network Topology Risk",
@@ -20355,6 +20387,10 @@
     "title": "Strategic Focus Under Incumbent Pressure",
     "url": "/wiki/concepts/strategicfocusunderincumbentpressure/"
   },
+  "StrategicIndustrialPolicy": {
+    "title": "Strategic Industrial Policy",
+    "url": "/wiki/concepts/strategicindustrialpolicy/"
+  },
   "StrategicMustWorkProductBet": {
     "title": "Strategic Must-Work Product Bet",
     "url": "/wiki/concepts/strategicmustworkproductbet/"
@@ -21622,6 +21658,10 @@
   "TradableSectorLocalGrowth": {
     "title": "Tradable Sector Local Growth",
     "url": "/wiki/concepts/tradablesectorlocalgrowth/"
+  },
+  "TradeAdjustmentAssistance": {
+    "title": "Trade Adjustment Assistance",
+    "url": "/wiki/concepts/tradeadjustmentassistance/"
   },
   "TradeReciprocityProtectionism": {
     "title": "Trade Reciprocity Protectionism",
@@ -25574,6 +25614,10 @@
   "why-are-we-so-obsessed-with-manufacturing": {
     "title": "Why are we so obsessed with manufacturing?",
     "url": "/wiki/sources/why-are-we-so-obsessed-with-manufacturing/"
+  },
+  "why-economists-got-free-trade-with-china-so-wrong": {
+    "title": "Why economists got free trade with China so wrong",
+    "url": "/wiki/sources/why-economists-got-free-trade-with-china-so-wrong/"
   },
   "why-is-there-a-supplement-craze-if-they-dont-even-work": {
     "title": "Why is there a supplement craze if they don't even work?",

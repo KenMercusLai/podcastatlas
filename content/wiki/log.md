@@ -4663,3 +4663,11 @@ Added source page for a Planet Money episode on Chanel, The RealReal, luxury res
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | Why economists got free trade with China so wrong
+
+Added source page for a Planet Money episode with Greg Rosalsky and David Autor on the China shock, concentrated U.S. manufacturing losses, regional labor-market scarring, people-versus-places recovery, trade adjustment assistance, blanket tariff limits, and strategic industrial policy. Created pages for David Autor, David Dorn, Greg Rosalsky, China Shock, Free Trade Distributional Cost, Regional Labor Market Scarring, People Versus Places Recovery, Trade Adjustment Assistance, Blanket Tariff Limit, and Strategic Industrial Policy; updated overview, index, NPR, Planet Money, United States, China, Donald Trump, Barack Obama, MIT, Gordon Hanson, Trade Reciprocity Protectionism, Tech Manufacturing Reshoring, Supply Chain Sovereignty, and Good Jobs For Non-College Workers. No direct contradiction found; the source qualifies free-trade optimism and tariff restoration arguments by showing that aggregate gains, worker recovery, and future industrial capacity are separate policy questions.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

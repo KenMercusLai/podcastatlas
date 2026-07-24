@@ -2,7 +2,7 @@
 title: "Barack Obama"
 type: entity
 tags: [person, politics, publishing, media]
-sources: [sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209, dark-times-for-cubas-economic-experiment, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, iran-protests-and-sanctions, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab]
+sources: [why-economists-got-free-trade-with-china-so-wrong, sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209, dark-times-for-cubas-economic-experiment, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, iran-protests-and-sanctions, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab]
 last_updated: 2026-07-24
 ---
 
@@ -22,6 +22,8 @@ Barack Obama appears in [[ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-
 
 [[dark-times-for-cubas-economic-experiment]] adds Obama through the Cuba opening. The [[PlanetMoney]] episode says Obama loosened trade and travel restrictions, visited [[Cuba]] in 2016, and helped create a brief tourism boom in which private businesses such as [[CityCleta]] could imagine a viable future.
 
+[[why-economists-got-free-trade-with-china-so-wrong]] adds Obama through a trade-adjustment policy experiment. The [[PlanetMoney]] episode says his administration tried wage-replacement support for workers pushed into lower-paid jobs, placing Obama in the [[TradeAdjustmentAssistance]] branch alongside the broader question of whether the state helps workers directly or waits for places to recover.
+
 ## Source Position
 - The hosts use Obama to distinguish post-presidency status monetization from active office-linked conflicts.
 - The Dan Siroker source treats the 2008 Obama campaign as an experimentation and fundraising context rather than as a biography of Obama himself.
@@ -31,6 +33,7 @@ Barack Obama appears in [[ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-
 - The Burnham source treats Obama as a presidential-memory case whose museum may delight supporters without persuading critics.
 - The Planet Money source treats Obama as the administration context for sanctions-backed [[USIranNuclearDiplomacy]] rather than as a biographical subject.
 - The Cuba source treats Obama as the policy-opening actor whose travel loosening made [[TourismDependentSmallEconomy]] opportunity more visible.
+- The China-shock source treats Obama as a worker-adjustment actor through wage-replacement-style support rather than as a free-trade architect.
 
 ## Connections
 - [[PoliticalIdentityPremium]] — post-office media and publishing premium.
@@ -40,3 +43,4 @@ Barack Obama appears in [[ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-
 - [[IranSanctions]], [[USIranNuclearDiplomacy]], and [[SanctionsOvercompliance]] - nuclear-deal branch added by Planet Money.
 - [[DanSiroker]], [[Optimizely]], [[ABTestingForMarketers]], and [[DataDrivenProductCulture]] - campaign testing branch added by The Social Radars.
 - [[Cuba]], [[Havana]], [[CityCleta]], and [[TourismDependentSmallEconomy]] - Cuba travel-opening branch added by Planet Money.
+- [[ChinaShock]], [[PeopleVersusPlacesRecovery]], and [[TradeAdjustmentAssistance]] - trade-adjustment and wage-support branch added by Planet Money.

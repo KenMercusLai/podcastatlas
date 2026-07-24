@@ -8,7 +8,7 @@ last_updated: 2026-07-24
 
 # Manufacturing Pay Premium
 
-Manufacturing pay premium is the wage advantage the source attributes to manufacturing work relative to some service-sector jobs, especially for workers without college degrees. In [[why-are-we-so-obsessed-with-manufacturing]], [[GordonHansen]] says manufacturing has historically paid more, and research by [[DavidCard]], [[JesseRothstein]], and [[MoisesYee]] is cited for an average 35% pay bump when a restaurant worker moves into manufacturing.
+Manufacturing pay premium is the wage advantage the source attributes to manufacturing work relative to some service-sector jobs, especially for workers without college degrees. In [[why-are-we-so-obsessed-with-manufacturing]], [[GordonHansen|Gordon Hanson]] says manufacturing has historically paid more, and research by [[DavidCard]], [[JesseRothstein]], and [[MoisesYee]] is cited for an average 35% pay bump when a restaurant worker moves into manufacturing.
 
 The concept is deliberately narrower than manufacturing policy as a whole. The episode says the premium varies by industry: garment manufacturing can be low-paid, while cars, planes, and petrochemicals offer stronger wages.
 
@@ -19,7 +19,7 @@ The concept is deliberately narrower than manufacturing policy as a whole. The e
 - The premium supports [[GoodJobsForNonCollegeWorkers]] only if jobs are accessible, durable, and attractive enough for workers to take.
 
 ## Connections
-- [[GordonHansen]], [[DavidCard]], [[JesseRothstein]], and [[MoisesYee]] - experts and research cited in the episode.
+- [[GordonHansen|Gordon Hanson]], [[DavidCard]], [[JesseRothstein]], and [[MoisesYee]] - experts and research cited in the episode.
 - [[ManufacturingJobQuality]] - related but broader job-quality frame.
 - [[GoodJobsForNonCollegeWorkers]] - policy target the premium may support.
 - [[EmployerBargainedBenefits]] and [[PaidVacationAsLaborRight]] - adjacent U.S. labor-policy architecture pages.

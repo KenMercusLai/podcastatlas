@@ -2,8 +2,8 @@
 title: "MIT"
 type: entity
 tags: [university, research, startups]
-sources: [tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, why-the-us-has-no-guaranteed-paid-vacation]
-last_updated: 2026-07-18
+sources: [why-economists-got-free-trade-with-china-so-wrong, tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, why-the-us-has-no-guaranteed-paid-vacation]
+last_updated: 2026-07-24
 ---
 
 # MIT
@@ -16,9 +16,12 @@ The Benchling case makes MIT part of the wiki's [[VerticalSaaSDomainExpertise]] 
 
 [[why-the-us-has-no-guaranteed-paid-vacation]] adds MIT through [[TomCohen]], who explains the U.S. vacation gap as a labor-policy architecture problem. In that episode, MIT is the expert-institution context for the claim that vacation, pensions, and health insurance were left to [[EmployerBargainedBenefits]] rather than treated as universal rights.
 
+[[why-economists-got-free-trade-with-china-so-wrong]] adds MIT through [[DavidAutor]]'s labor-economics work on the [[ChinaShock]]. The episode uses Autor's research with [[DavidDorn]] and [[GordonHansen|Gordon Hanson]] to connect regional labor-market data, import competition, and the policy debate over [[TradeAdjustmentAssistance]], [[BlanketTariffLimit]], and [[StrategicIndustrialPolicy]].
+
 ## Connections
 - [[SajithWickramasekara]] and [[Benchling]] - founder and company context.
 - [[YCombinator]] and [[PaulGraham]] - startup path that followed the MIT-origin insight.
 - [[VerticalSaaSDomainExpertise]] and [[LifeSciencesWorkflowSoftware]] - concepts grounded by the source.
 - [[TomCohen]], [[PaidVacationAsLaborRight]], and [[EmployerBargainedBenefits]] - labor-policy branch added by Planet Money.
 - [[SpenserSkates]], [[CurtisLiu]], [[Battlecode]], [[Sonalight]], and [[Amplitude]] - startup-formation branch added by The Social Radars.
+- [[DavidAutor]], [[DavidDorn]], [[GordonHansen|Gordon Hanson]], [[ChinaShock]], and [[RegionalLaborMarketScarring]] - labor-economics branch added by Planet Money.
