@@ -1379,6 +1379,10 @@
     "title": "Aaron Braun",
     "url": "/wiki/entities/aaronbraun/"
   },
+  "AaronBurns": {
+    "title": "Aaron Burns",
+    "url": "/wiki/entities/aaronburns/"
+  },
   "AaronCheung": {
     "title": "Aaron Cheung",
     "url": "/wiki/entities/aaroncheung/"
@@ -2142,6 +2146,10 @@
   "Amplitude": {
     "title": "Amplitude",
     "url": "/wiki/entities/amplitude/"
+  },
+  "AmyScott": {
+    "title": "Amy Scott",
+    "url": "/wiki/entities/amyscott/"
   },
   "AnQi": {
     "title": "安琪",
@@ -4035,9 +4043,33 @@
     "title": "Car Affordability Stress",
     "url": "/wiki/concepts/caraffordabilitystress/"
   },
+  "Carbon180": {
+    "title": "Carbon180",
+    "url": "/wiki/entities/carbon180/"
+  },
   "CarbonPlateRacingShoes": {
     "title": "Carbon Plate Racing Shoes",
     "url": "/wiki/concepts/carbonplateracingshoes/"
+  },
+  "CarbonRemoval": {
+    "title": "Carbon Removal",
+    "url": "/wiki/concepts/carbonremoval/"
+  },
+  "CarbonRemovalCostCurve": {
+    "title": "Carbon Removal Cost Curve",
+    "url": "/wiki/concepts/carbonremovalcostcurve/"
+  },
+  "CarbonRemovalMoralHazard": {
+    "title": "Carbon Removal Moral Hazard",
+    "url": "/wiki/concepts/carbonremovalmoralhazard/"
+  },
+  "CarbonRemovalPoliticalDurability": {
+    "title": "Carbon Removal Political Durability",
+    "url": "/wiki/concepts/carbonremovalpoliticaldurability/"
+  },
+  "CarbonStoragePermanence": {
+    "title": "Carbon Storage Permanence",
+    "url": "/wiki/concepts/carbonstoragepermanence/"
   },
   "CarceralLaborGovernance": {
     "title": "Carceral Labor Governance",
@@ -4654,6 +4686,10 @@
   "ChrisQuinn": {
     "title": "Chris Quinn",
     "url": "/wiki/entities/chrisquinn/"
+  },
+  "ChristianToya": {
+    "title": "Christian Toya",
+    "url": "/wiki/entities/christiantoya/"
   },
   "ChristinaCacioppo": {
     "title": "Christina Cacioppo",
@@ -6450,6 +6486,10 @@
   "Dionysus": {
     "title": "Dionysus / 狄俄尼索斯",
     "url": "/wiki/entities/dionysus/"
+  },
+  "DirectAirCapture": {
+    "title": "Direct Air Capture",
+    "url": "/wiki/concepts/directaircapture/"
   },
   "DirectListingDiscipline": {
     "title": "Direct Listing Discipline",
@@ -9867,6 +9907,10 @@
     "title": "Heinrich Blücher / 海因里希·布鲁歇尔",
     "url": "/wiki/entities/heinrichblucher/"
   },
+  "HeirloomCarbonTechnologies": {
+    "title": "Heirloom Carbon Technologies",
+    "url": "/wiki/entities/heirloomcarbontechnologies/"
+  },
   "HelenOfTroy": {
     "title": "Helen of Troy",
     "url": "/wiki/entities/helenoftroy/"
@@ -10338,6 +10382,10 @@
   "HowToHideAnEmpire": {
     "title": "How to Hide an Empire",
     "url": "/wiki/entities/howtohideanempire/"
+  },
+  "HowWeSurvive": {
+    "title": "How We Survive",
+    "url": "/wiki/entities/howwesurvive/"
   },
   "HowardLutnick": {
     "title": "Howard Lutnick",
@@ -12831,6 +12879,10 @@
     "title": "Lijiang / 丽江",
     "url": "/wiki/entities/lijiang/"
   },
+  "LimestoneLoopCarbonCapture": {
+    "title": "Limestone Loop Carbon Capture",
+    "url": "/wiki/concepts/limestoneloopcarboncapture/"
+  },
   "Limitless": {
     "title": "Limitless",
     "url": "/wiki/entities/limitless/"
@@ -13210,6 +13262,10 @@
   "LouiseBanks": {
     "title": "Louise Banks",
     "url": "/wiki/entities/louisebanks/"
+  },
+  "Louisiana": {
+    "title": "Louisiana",
+    "url": "/wiki/entities/louisiana/"
   },
   "LovePoetryModernity": {
     "title": "Love Poetry Modernity",
@@ -15458,6 +15514,10 @@
   "OccamsRazor": {
     "title": "Occam's Razor",
     "url": "/wiki/concepts/occamsrazor/"
+  },
+  "OccidentalPetroleum": {
+    "title": "Occidental Petroleum",
+    "url": "/wiki/entities/occidentalpetroleum/"
   },
   "OccultPseudoscienceLiteraryModernity": {
     "title": "Occult And Pseudoscience In Literary Modernity",
@@ -20791,6 +20851,10 @@
     "title": "Tesla",
     "url": "/wiki/entities/tesla/"
   },
+  "Texas": {
+    "title": "Texas",
+    "url": "/wiki/entities/texas/"
+  },
   "TexasAMUniversity": {
     "title": "Texas A&M University",
     "url": "/wiki/entities/texasamuniversity/"
@@ -21810,6 +21874,10 @@
   "UniquelyHuman": {
     "title": "这世界唯一的你 / Uniquely Human",
     "url": "/wiki/entities/uniquelyhuman/"
+  },
+  "UnitedAirlines": {
+    "title": "United Airlines",
+    "url": "/wiki/entities/unitedairlines/"
   },
   "UnitedArabEmirates": {
     "title": "United Arab Emirates",
@@ -24906,6 +24974,10 @@
   "tech-20260710-tech-pod-128-tech-20260710-tech-pod-128": {
     "title": "OpenAI's GPT-5.6 release raises questions about White House control over new models",
     "url": "/wiki/sources/tech-20260710-tech-pod-128-tech-20260710-tech-pod-128/"
+  },
+  "tech-20260713-tech-pod-128-tech-20260713-tech-pod-128": {
+    "title": "The high cost of vacuuming carbon from the sky",
+    "url": "/wiki/sources/tech-20260713-tech-pod-128-tech-20260713-tech-pod-128/"
   },
   "tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128": {
     "title": "Netflix struggles to retain viewers after a series' first season",

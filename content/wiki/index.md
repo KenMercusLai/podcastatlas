@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The high cost of vacuuming carbon from the sky](sources/tech-20260713-tech-pod-128-tech-20260713-tech-pod-128.md) — Marketplace Tech episode on Heirloom Carbon Technologies, direct air capture, limestone-loop carbon removal, carbon-removal costs, protected Louisiana/Texas hubs, and fossil-fuel moral-hazard concerns.
 - [AI4S 需要狂人与野心家｜对话英灵殿 Odin："如果神存在，我怎能容忍自己不是神？"【公路播客】](sources/ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz.md) — Shizilukou Crossing road-podcast episode on Yinglingdian AI, Haotian Odin, all-modal molecular world models, AI drug-discovery platforms, protein design, scientific discovery automation, and founder discipline under fundraising pressure.
 - [Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)](sources/sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21.md) — How I Built This episode on Tom Rinks, Sun Bum, Psycho Chihuahua, Taco Bell, DeLeon Tequila, mascot-led brand recognition, visual brand systems, retail displays, founder role transition, and the SC Johnson sale.
 - [商业小样45 | 厄尔尼诺越大，鱼越贵](sources/shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352.md) — 商业就是这样 episode on Peru's anchoveta fishery, El Nino, fishmeal and fish-oil supply, aquaculture feed dependency, Peruvian catch bans, and how salmon, shrimp, sushi, and restaurant seafood prices can move through a hidden feed input.
@@ -576,6 +577,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Heirloom Carbon Technologies](entities/HeirloomCarbonTechnologies.md) — Direct-air-capture company profiled through its limestone-loop process, Tracy facility, planned Louisiana project, and corporate carbon-removal customers.
+- [Carbon180](entities/Carbon180.md) — Carbon-removal policy organization used by Marketplace Tech to explain federal funding cuts, protected DAC hubs, and bipartisan state-level support.
+- [Amy Scott](entities/AmyScott.md) — Marketplace reporter whose Heirloom site visit grounds the direct-air-capture explainer and carbon-removal policy branch.
+- [Christian Toya](entities/ChristianToya.md) — Heirloom Carbon Technologies representative explaining the limestone process and roughly $100-per-ton direct-air-capture cost target.
+- [Aaron Burns](entities/AaronBurns.md) — Carbon180 speaker explaining why Congress protected selected direct-air-capture hubs despite broader climate-funding rollback.
+- [United Airlines](entities/UnitedAirlines.md) — Airline named as a Heirloom carbon-removal customer in the Marketplace Tech direct-air-capture episode.
+- [Louisiana](entities/Louisiana.md) — Planned location for Heirloom's larger direct-air-capture project and one of the protected carbon-removal hub states.
+- [Texas](entities/Texas.md) — State named as the site of an Occidental-backed direct-air-capture hub protected by Congress.
+- [Occidental Petroleum](entities/OccidentalPetroleum.md) — Oil company backing a Texas direct-air-capture hub, central to the episode's fossil-fuel moral-hazard concern.
+- [How We Survive](entities/HowWeSurvive.md) — Marketplace climate-solutions podcast promoted as deeper reporting behind the direct-air-capture segment.
 - [Haotian Odin / 浩天](entities/HaotianOdin.md) — Yinglingdian AI founder discussing all-modal molecular modeling, AI drug discovery, Baker Lab, O-Design/L-Design, and founder discipline.
 - [Yinglingdian AI / 英灵殿](entities/YinglingdianAI.md) — AI-for-science company aiming first at an AI drug-discovery platform and longer term at scientific discovery automation.
 - [O-Design / Odyssey](entities/ODesign.md) — Early all-modal molecular-design exploration tied to small molecules, RNA, DNA, and protein design.
@@ -3864,6 +3875,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Carbon Removal](concepts/CarbonRemoval.md) — Climate-mitigation category for removing already-emitted CO2, with direct air capture as the episode's concrete case.
+- [Direct Air Capture](concepts/DirectAirCapture.md) — Carbon-removal technology that pulls CO2 from ambient air rather than from exhaust or smokestacks.
+- [Limestone Loop Carbon Capture](concepts/LimestoneLoopCarbonCapture.md) — Heirloom's repeated limestone/calcium-oxide process for binding atmospheric CO2.
+- [Carbon Removal Cost Curve](concepts/CarbonRemovalCostCurve.md) — Economic challenge of moving direct air capture from high-hundreds-per-ton costs toward workable scale.
+- [Carbon Storage Permanence](concepts/CarbonStoragePermanence.md) — Requirement that captured CO2 stay durably stored in concrete, underground formations, or another credible sink.
+- [Carbon Removal Moral Hazard](concepts/CarbonRemovalMoralHazard.md) — Risk that carbon-removal projects become a rationale for continued fossil-fuel extraction instead of emissions reduction.
+- [Carbon Removal Political Durability](concepts/CarbonRemovalPoliticalDurability.md) — Pattern where selected carbon-removal hubs survive partisan or administrative shifts through state, industrial, and congressional support.
 - [All-Modal Molecular World Model](concepts/AllModalMolecularWorldModel.md) — Molecular world-model thesis unifying small molecules, proteins, RNA, and DNA for AI-for-biology work.
 - [AI Drug Discovery Platform](concepts/AIDrugDiscoveryPlatform.md) — Platform route for using AI to design and validate molecular interventions without immediately owning drug pipelines.
 - [AI Protein Design](concepts/AIProteinDesign.md) — Protein-design branch connecting Baker Lab, AlphaFold, diffusion-style design, and cross-modal molecular modeling.

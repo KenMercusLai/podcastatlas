@@ -4248,6 +4248,10 @@ Added source page for a 蜜獾吃书 episode on 罗翔《法律的悖论》, cov
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-24] ingest | The high cost of vacuuming carbon from the sky
+
+Added source page for a Marketplace Tech episode on Heirloom Carbon Technologies, direct air capture, limestone-loop carbon removal, carbon-removal cost targets, protected Louisiana and Texas hubs, Carbon180's policy analysis, and fossil-fuel moral-hazard concerns. Created pages for Heirloom Carbon Technologies, Carbon180, Amy Scott, Christian Toya, Aaron Burns, United Airlines, Louisiana, Texas, Occidental Petroleum, How We Survive, Carbon Removal, Direct Air Capture, Limestone Loop Carbon Capture, Carbon Removal Cost Curve, Carbon Storage Permanence, Carbon Removal Moral Hazard, and Carbon Removal Political Durability; updated Marketplace Tech, Climate Startup Commercialization Gap, Economic Climate Tech Adoption, Microsoft, Meta, Shopify, United States Congress, White House, California, United States, and Donald Trump. No direct contradiction found; the source complements mobile carbon capture with a stationary ambient-air pathway and qualifies existing climate-tech adoption themes by showing a technology with corporate buyers and political support but still high cost and legitimacy constraints.
+
 ## [2026-07-24] ingest | AI4S 需要狂人与野心家｜对话英灵殿 Odin："如果神存在，我怎能容忍自己不是神？"【公路播客】
 
 Added source page for a Shizilukou Crossing road-podcast episode with Haotian Odin on Yinglingdian AI, all-modal molecular world models, AI drug-discovery platforms, O-Design/L-Design, Baker Lab, protein design, scientific discovery automation, platform-vs-pipeline strategy, personalized molecular medicine, life reprogramming, and founder discipline under fundraising pressure. Created pages for Haotian Odin, Yinglingdian AI, O-Design, L-Design, Baker Lab, David Baker, AlphaFold, All-Modal Molecular World Model, AI Drug Discovery Platform, AI Protein Design, Scientific Discovery Automation, Platform-Pipeline Biotech Strategy, Founder Signal Discipline, Personalized Molecular Medicine, and Life Reprogramming Vision; updated overview, index, Shizilukou Crossing, Google DeepMind, AI For Science, World Models, Discovery Model, Research Taste, Problem Definition In Research, Domain Expert Alignment, AI Commercialization Pressure, Hard Tech Fundraising, Founder Mode, and Founder Proximity. No direct contradiction found; the source extends the wiki's AI-for-science branch into AI-for-biology, where molecular modality unification, wet-lab verification, pharma customer neutrality, and founder signal discipline matter alongside model capability.
@@ -4607,6 +4611,10 @@ Added source page for the 商业就是这样 episode on Peru's anchoveta fishery
 ## [2026-07-24] ingest | Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)
 
 Added source page for a How I Built This episode on Tom Rinks, Sun Bum, Psycho Chihuahua, the Taco Bell dispute, Rinks Canetti, DeLeon Tequila, visual brand systems, mascot-led recognition, place-based brand perception, retail displays, field sales, founder role transition, and the SC Johnson acquisition. Created pages for Sun Bum, Tom Rinks, Rene Kennedy, Rinks Canetti, DeLeon Tequila, Brent Hocking, Psycho Chihuahua, Joe Shields, Taco Bell, SC Johnson, Adam Francis, Michael LaSara, Made by Dentists, Sunny / Sun Bum Mascot, Cocoa Beach, Visual Brand System, Mascot Led Brand Recognition, Retail Display As Brand Surface, and Place Based Brand Perception; updated overview, index, How I Built This, Guy Raz, Consumer Brand Moat, Story Led Consumer Branding, Design Led Growth, CPG Distribution, Retail Shelf Placement, Packaging As Product Experience, Emotional Brand Relationship, Founder Role Transition, Post-Acquisition Founder Identity, Subculture Led Marketing, and Richard Branson. No direct contradiction found; first-person legal, product-quality, and deal-size claims remain source-scoped.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-24] lint | Wiki health check
 
