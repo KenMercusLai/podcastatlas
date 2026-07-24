@@ -2,7 +2,7 @@
 title: "Consumer Brand Moat"
 type: concept
 tags: [investing, consumer-brands, moat, cpg, restaurants]
-sources: [ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i, ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939, e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie, 138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1, 140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, vol-264-ba-shijiebei-zuowei-fangfa-999416048, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044, advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d, sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21, seven-allegedly-fake-chanel-bags-vs-the-realreal]
+sources: [ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i, ugg-brian-smith-how-an-epiphany-surfers-and-500-launched-an-iconic-sheepskin-footwear-company-56230048-59d6-43c2-b386-7d06ea89f939, e241-paoxie-jishu-diedaishi-malasong-paojin-2-xiaoshi-kao-ren-haishi-kao-xie, 138-angpao-zhongguo-zhong-zhiying-chaoji-xingxing-bu-banka-feng-tou-quan-1-138-1, 140-da-jiang-hai-neng-di-kong-fei-duo-jiu-feng-tou-quan-1-140-1, 141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1, 139-paopao-mate-he-pinduoduo-zhide-touzi-me-feng-tou-quan-1-139-1, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, vol-264-ba-shijiebei-zuowei-fangfa-999416048, 142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044, advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88, e232-canyin-chuhai-you-xin-zhaor-ma-cong-dingtaifeng-yu-gongcha-naxia-meiguo-chudai-xiaoguan-liaoqi-3bb14dd4-0b13-4173-9d5b-0e63bf98ae1d, sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21, seven-allegedly-fake-chanel-bags-vs-the-realreal, how-black-hair-care-grew-black-power]
 last_updated: 2026-07-24
 ---
 
@@ -36,6 +36,8 @@ A consumer brand moat is the durable business advantage that forms when customer
 
 [[seven-allegedly-fake-chanel-bags-vs-the-realreal]] adds [[Chanel]] as a luxury-brand defense case. The source shows that a consumer brand moat can depend on authenticity control, scarcity, trademark policing, and buyer confidence in provenance, while also raising the competition problem of whether brand protection can constrain independent resale through [[TheRealReal]].
 
+[[how-black-hair-care-grew-black-power]] adds [[JohnsonProducts]] as a Black hair-care brand case. The source shows a moat built from customer neglect by incumbents, practical product reliability, cultural timing, a mostly Black workforce, [[SoulTrain]] sponsorship, and the visible credibility of [[GeorgeEJohnson]] and [[JoanJohnson]] inside the community the products served.
+
 ## Key Claims
 - A moat is stronger when the customer does not need to rethink the purchase every time.
 - Gift reliability, payment acceptance, and everyday cravings are different forms of the same behavioral asset.
@@ -58,6 +60,7 @@ A consumer brand moat is the durable business advantage that forms when customer
 - In ordinary CPG categories, a brand moat can begin when packaging, mascot, place, and display make the product easier to notice and remember before technical differences are inspected.
 - In foodservice globalization, a brand moat must survive translation into local meal occasions, leases, labor, and repeat visits; novelty without [[RestaurantCulturalLegibility]] is weak.
 - In luxury, brand moat protection can center on who controls authenticity claims, because counterfeits and unauthorized affiliation can damage both buyer trust and scarcity value.
+- In Black hair care, a brand moat can come from cultural and material fluency: understanding hair needs, workplace and identity pressures, media channels, and who customers trust to serve the category.
 
 ## Connections
 - [[SeesCandies]] — gift trust and quality consistency.
@@ -77,6 +80,7 @@ A consumer brand moat is the durable business advantage that forms when customer
 - [[SunBum]], [[TomRinks]], [[ReneKennedy]], [[SunnySunBumMascot]], [[VisualBrandSystem]], [[MascotLedBrandRecognition]], [[PlaceBasedBrandPerception]], and [[RetailDisplayAsBrandSurface]] - sunscreen brand-moat extension added by How I Built This.
 - [[DinTaiFung]], [[GongCha]], [[MoliNaiBai]], [[Jollibee]], [[RestaurantCulturalLegibility]], [[CultureLedFoodAdoption]], and [[USRestaurantRealEstateConstraint]] - foodservice globalization branch added by E232.
 - [[Chanel]], [[TheRealReal]], [[LuxuryResaleAuthentication]], [[BrandControlledAuthentication]], and [[TrademarkResaleBoundary]] - luxury-resale brand-defense branch added by Planet Money.
+- [[JohnsonProducts]], [[AfroSheen]], [[UltraWave]], [[SoulTrain]], [[BlackHairCareMarketOwnership]], and [[CommunityEmbeddedBusiness]] - Black hair-care brand branch added by Planet Money.
 - [[CharlieMunger]], [[WarrenBuffett]], and [[BerkshireHathaway]] — investing frame behind the episode.
 - [[ProductLedWillingnessToPay]], [[GiftToLoyalBuyerLoop]], [[RetailShelfPlacement]], [[SubcultureLedMarketing]], and [[CPGDistribution]] — adjacent consumer-product concepts already tracked by the wiki.
 - [[InvestmentRiskManagement]] — durable moats reduce, but do not remove, the need for valuation and position discipline.

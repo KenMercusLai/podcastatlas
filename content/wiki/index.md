@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How Black hair care grew Black power](sources/how-black-hair-care-grew-black-power.md) — Planet Money episode on Johnson Products, George and Joan Johnson, Black hair-care ownership, Afro Sheen, Soul Train sponsorship, public-listing control tradeoffs, and larger beauty-company competition.
 - [Venezuela's recent economic history (Update)](sources/venezuelas-recent-economic-history-update.md) — Planet Money episode on Venezuela's oil revenue dependence, Chavez-era currency controls, import bottlenecks, Maduro's oil-price shock, sanctions, hyperinflation, migration, and unequal dollarized stabilization.
 - [Indicators of 2025 and What to Watch in 2026](sources/indicators-of-2025-and-what-to-watch-in-2026.md) — Planet Money and The Indicator crossover using consumer sentiment, tariff rates, CAPE, the federal funds rate, electricity rates, and consumer spending as 2025 recap and 2026 watchlist indicators.
 - [Would you trust an economist with your economy?](sources/would-you-trust-an-economist-with-your-economy.md) — Planet Money episode on economists' trust crisis, BLS data credibility, forecasting limits, work-from-home evidence, aggregate indicators versus lived experience, and expert trust repair.
@@ -586,6 +587,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Johnson Products](entities/JohnsonProducts.md) — Black-owned hair-care company whose Ultra Wave and Afro Sheen products made Black consumer demand, employment, media sponsorship, and ownership visible.
+- [George E. Johnson](entities/GeorgeEJohnson.md) — Founder who turned a barbershop straightener problem into Johnson Products and later described the costs of going public.
+- [Joan Johnson](entities/JoanJohnson.md) — Co-building operator at Johnson Products who handled early operations, later led a turnaround, and anchors the source's family archive.
+- [Olivia Joan Golly](entities/OliviaJoanGolly.md) — Granddaughter whose TikTok archive of Joan Johnson's clothing opens the episode's Black entrepreneurial wealth story.
+- [Orville Nelson](entities/OrvilleNelson.md) — Barber whose unreliable straightener formula became the starting point for Ultra Wave and Johnson Products.
+- [Independence Bank](entities/IndependenceBank.md) — Black business-backed neighborhood bank used in the source to connect Johnson Products to credit access and civil-rights payroll support.
+- [Soul Train](entities/SoulTrain.md) — Black music and dance television show that Johnson Products helped take national and used as a marketing engine for Afro Sheen.
+- [Afro Sheen](entities/AfroSheen.md) — Johnson Products moisturizer for afros, tying natural hair, Black pride, and national media advertising together.
+- [Ultra Wave](entities/UltraWave.md) — Early Johnson Products straightener that converted a local barbershop formula problem into a reliable commercial product.
+- [Martin Luther King Jr.](entities/MartinLutherKingJr.md) — Civil-rights leader whose organization received payroll-support financing from Independence Bank in the Planet Money source.
 - [Hugo Chavez](entities/HugoChavez.md) — Venezuelan leader whose oil-funded spending, Citgo diplomacy, and post-2003 exchange controls frame the source's boom-to-trap story.
 - [Nicolas Maduro](entities/NicolasMaduro.md) — Chavez successor in the source, inheriting currency controls and oil dependence as prices collapsed and sanctions intensified.
 - [Alejandro Velasco](entities/AlejandroVelasco.md) — Venezuela expert explaining the emergency-to-trap exchange-rate system and later dollarized stabilization.
@@ -3931,6 +3942,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Black Hair-Care Market Ownership](concepts/BlackHairCareMarketOwnership.md) — Question of who recognizes, serves, profits from, and controls products made for Black hair and Black consumers.
+- [Community-Embedded Business](concepts/CommunityEmbeddedBusiness.md) — Pattern where a company sells to a community while also building jobs, credit, media visibility, and symbolic infrastructure around it.
+- [Public Listing Control Tradeoff](concepts/PublicListingControlTradeoff.md) — Going-public tradeoff where capital, liquidity, and legitimacy come with board pressure and competitor-visible disclosure.
 - [Currency Control Trap](concepts/CurrencyControlTrap.md) — Emergency exchange-rate control pattern that becomes a long-term source of black-market arbitrage, import shortages, inflation, and policy avoidance.
 - [Dollarized Stabilization](concepts/DollarizedStabilization.md) — Partial recovery pattern where U.S. dollars restore some transactions and planning after currency collapse while increasing inequality by dollar access.
 - [Oil Revenue Dependence](concepts/OilRevenueDependence.md) — Country-level vulnerability where state spending, imports, and currency support depend heavily on oil income.

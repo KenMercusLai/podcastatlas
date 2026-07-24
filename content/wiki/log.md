@@ -4707,3 +4707,11 @@ Added source page for a Planet Money episode on Venezuela's oil revenue dependen
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | How Black hair care grew Black power
+
+Added source page for a Planet Money episode on Johnson Products, George and Joan Johnson, Ultra Wave, Afro Sheen, Independence Bank, Soul Train sponsorship, Black hair-care market ownership, community-embedded business, and the public-listing control tradeoff. Created pages for Johnson Products, George E. Johnson, Joan Johnson, Olivia Joan Golly, Orville Nelson, Independence Bank, Soul Train, Afro Sheen, Ultra Wave, Martin Luther King Jr., Black Hair-Care Market Ownership, Community-Embedded Business, and Public Listing Control Tradeoff; updated overview, index, NPR, Planet Money, Revlon, Hair As Political Identity, Hair As Biosocial Signal, Founder Control, and Consumer Brand Moat. No direct contradiction found; the source extends hair-politics and consumer-brand branches by showing how Black hair care linked product reliability, identity, community finance, media, public-market legitimacy, and later ownership displacement.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

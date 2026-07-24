@@ -2,8 +2,8 @@
 title: "Hair As Biosocial Signal"
 type: concept
 tags: [hair, biology, body, social-history]
-sources: [93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489]
-last_updated: 2026-07-16
+sources: [93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489, how-black-hair-care-grew-black-power]
+last_updated: 2026-07-24
 ---
 
 # Hair As Biosocial Signal
@@ -12,11 +12,14 @@ Hair as biosocial signal is the frame added by [[93-liaoliao-toufa-tu-le-jiu-hui
 
 The concept matters because hair is easy to trivialize as fashion or vanity. The source shows that the same material can be an evolved trait, an organ-level maintenance problem, a health or fertility signal, a gendered norm, a political badge, a ritual object, and a trace left behind at a crime scene.
 
+[[how-black-hair-care-grew-black-power]] adds a consumer-products branch. [[JohnsonProducts]]' path from [[UltraWave]] to [[AfroSheen]] shows hair as a material care problem, a workplace-respectability signal, a political identity surface, and a multibillion-dollar market whose ownership remains contested.
+
 ## Key Claims
 - Hair cannot be understood only as decoration; it has sensory, thermal, protective, and reproductive-signal dimensions.
 - Human body-hair reduction should be read through [[EvolutionaryTraitInterpretation]], with caution against treating speculative family-formation hypotheses as settled fact.
 - Hair's social meaning depends on who reads it and who controls it: self-styling, forced shaving, religious cutting, and legal or political hair rules are different acts.
 - Hair is a strong bridge object for [[MaterialHistoryNarrative]] because it is bodily, commercial, ritual, symbolic, and evidentiary at once.
+- Hair's material care requirements can become business infrastructure when a company understands the customer's biology, style norms, and social risk better than incumbents do.
 
 ## Connections
 - [[HairBook|《头发》 / Hair]] and [[KurtStenn|Kurt Stenn / 库尔特·斯坦]] - source book and author.
@@ -24,3 +27,4 @@ The concept matters because hair is easy to trivialize as fashion or vanity. The
 - [[HairAsPoliticalIdentity]] and [[GenderedHairRegulation]] - social branches.
 - [[ForensicHairEvidence]] - evidence branch.
 - [[EvolutionaryTraitInterpretation]] and [[MaterialHistoryNarrative]] - existing wiki frames extended by the episode.
+- [[JohnsonProducts]], [[AfroSheen]], [[UltraWave]], and [[BlackHairCareMarketOwnership]] - consumer-products and ownership branch added by Planet Money.

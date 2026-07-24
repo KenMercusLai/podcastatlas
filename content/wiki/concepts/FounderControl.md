@@ -2,8 +2,8 @@
 title: "Founder Control"
 type: concept
 tags: [startups, governance, equity, fundraising]
-sources: [tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final]
-last_updated: 2026-07-14
+sources: [tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final, how-black-hair-care-grew-black-power]
+last_updated: 2026-07-24
 ---
 
 # Founder Control
@@ -18,6 +18,8 @@ The episode treats control as especially important when the company is not doing
 
 [[tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio]] adds a biotech financing version through [[JenHerbach]] and [[AdventrisPharmaceuticals]]. Herbach says using SAFEs and declining an investor board seat preserved authority when an investor pushed for a different scientific strategy. The source extends founder control into [[BiotechFounderControl]], where control protects product and clinical judgment rather than only founder economics.
 
+[[how-black-hair-care-grew-black-power]] adds a public-listing version through [[JohnsonProducts]]. The source says [[GeorgeEJohnson]] and [[JoanJohnson]] gained prestige and wealth when the company listed publicly, but then had to answer to a board, accept marketing professionalization pressure, and disclose financial information that made the Black hair-care market easier for larger competitors to read.
+
 ## Key Claims
 - Founder control depends on equity, board design, investor rights, and the timing of financing decisions.
 - Control questions should be addressed before crisis conditions make them urgent.
@@ -26,6 +28,7 @@ The episode treats control as especially important when the company is not doing
 - Dual-class control can be framed as long-term stewardship when the founder remains accountable for operating and strategic judgment, not only as insulation from investors.
 - Founder control can be lost operationally even when formal governance remains intact, if management layers separate the founder from work and information.
 - Founder control can preserve scientific decision-making when an investor's preferred strategy conflicts with the founding team's product and patient judgment.
+- Public listing can convert founder control into board-mediated control while also exposing market information that competitors can use.
 
 ## Connections
 - [[YinWu]] and [[Pulley]] - source case.
@@ -34,3 +37,4 @@ The episode treats control as especially important when the company is not doing
 - [[DrewHouston]], [[Dropbox]], [[StrategicFocusUnderIncumbentPressure]], and [[FounderPsychologyOperationalRisk]] - public-company stewardship case added by the Drew Houston episode.
 - [[BrianChesky]], [[Airbnb]], [[FounderMode]], and [[FounderLedFunctionalOrganization]] - operating-control case added by the YC offsite episode.
 - [[JenHerbach]], [[AdventrisPharmaceuticals]], and [[BiotechFounderControl]] - biotech board-control case added by the Jen Herbach episode.
+- [[JohnsonProducts]], [[GeorgeEJohnson]], [[JoanJohnson]], and [[PublicListingControlTradeoff]] - public-market control case added by Planet Money.
