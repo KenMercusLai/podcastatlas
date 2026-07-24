@@ -2,8 +2,8 @@
 title: "Anti-Authoritarian Education"
 type: concept
 tags: [education, agency, children, parenting]
-sources: [116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507, 182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
-last_updated: 2026-07-18
+sources: [140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507, 182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014]
+last_updated: 2026-07-24
 ---
 
 # Anti-Authoritarian Education
@@ -22,6 +22,8 @@ This does not mean rejecting all study, discipline, or adult guidance. The episo
 
 [[116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021]] adds an explicit disobedience version. The hosts argue that children should hear stories of courage, truth, and human light as well as stories of cost, so [[PrincipledDisobedience|principled disobedience]] becomes a learnable public quality rather than either naive rebellion or obedience training.
 
+[[140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655]] adds a quieter anti-authoritarian version through [[Jinzi|金子]]'s school memories. The source questions authority when teachers, schools, and inherited education culture treat bodily suffering, gendered propriety, and standard answers as natural; [[SelfFeelingTrust|相信自己的感受]] becomes the small inner refusal that precedes more visible disobedience.
+
 ## Key Claims
 - The right to say no is educational, not merely rebellious; it protects judgment, dignity, and self-trust.
 - Adults can harm children by treating obedience, resume building, and risk avoidance as the whole meaning of care.
@@ -32,6 +34,7 @@ This does not mean rejecting all study, discipline, or adult guidance. The episo
 - Poetry can support anti-authoritarian education when it gives children permission to speak feelings that would otherwise be hidden from adult approval systems.
 - Adlerian education adds that contribution feeling may be stronger than scolding or praise because it helps children notice relation and usefulness without making adult approval the center.
 - Principled disobedience adds that adults should teach children both the value and the cost of refusal, leaving room for independent choice rather than only compliance or cynicism.
+- Episode 140 adds that anti-authoritarian education also includes permission to trust discomfort, literary response, bodily fatigue, and ordinary desire before authority has supplied a correct interpretation.
 
 ## Connections
 - [[Matilda|《马蒂尔达》]] - narrative anchor for child resistance.
@@ -43,3 +46,4 @@ This does not mean rejecting all study, discipline, or adult guidance. The episo
 - [[PoetryAsEmotionalRelease]] and [[PoetryEducationAsPlay]] - poetry-writing extension from episode 182.
 - [[AlfredAdler]], [[CommunityFeeling]], and [[InferioritySuperiorityDynamic]] - Adlerian extension from episode 98.
 - [[PrincipledDisobedience]], [[TheArtOfInsubordination]], and [[PsychologicalFlexibilityForDissent]] - disobedience extension from episode 116.
+- [[SelfFeelingTrust|相信自己的感受]], [[HardshipCultureAsEducation|吃苦文化作为教育]], and [[FemaleBeautySelfSurveillance|女性美貌自我监控]] - episode 140's felt-response and gendered-school extension.

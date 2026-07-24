@@ -243,6 +243,10 @@
     "title": "140. 对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去",
     "url": "/wiki/sources/140-dui-yao-shunyu-de-4-xiaoshi-fangtan-qing-yunxu-wo-xiao-feng-yixia-zai-anthropic-he-gemini-xun-moxing-jishu-yuce-yingxiongzhuyi-yi-guoqu-ll7qiciwwgfssorhr4yy-uuqae8h/"
   },
+  "140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655": {
+    "title": "140. 还可以的金女士：“所以人为什么要努力啊？！”",
+    "url": "/wiki/sources/140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655/"
+  },
   "141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m": {
     "title": "141. Freda的投资札记第2集：Tokenmaxxing、把电机塞进蒸汽机、接力赛变篮球赛、孤独、人的连接",
     "url": "/wiki/sources/141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m/"
@@ -4347,6 +4351,10 @@
     "title": "中央广播电视总台 / China Central Television",
     "url": "/wiki/entities/chinacentraltelevision/"
   },
+  "ChinaCommunicationUniversity": {
+    "title": "中国传媒大学 / Communication University of China",
+    "url": "/wiki/entities/chinacommunicationuniversity/"
+  },
   "ChinaDivorceRestrictions": {
     "title": "China Divorce Restrictions",
     "url": "/wiki/concepts/chinadivorcerestrictions/"
@@ -6487,6 +6495,10 @@
     "title": "Dorothy Arzner / 多罗西·阿兹娜",
     "url": "/wiki/entities/dorothyarzner/"
   },
+  "Douban": {
+    "title": "豆瓣 / Douban",
+    "url": "/wiki/entities/douban/"
+  },
   "Doubao": {
     "title": "Doubao",
     "url": "/wiki/entities/doubao/"
@@ -6826,6 +6838,10 @@
   "EfficientFrontier": {
     "title": "Efficient Frontier",
     "url": "/wiki/concepts/efficientfrontier/"
+  },
+  "EffortNarrativeInterrogation": {
+    "title": "努力叙事追问 / Effort Narrative Interrogation",
+    "url": "/wiki/concepts/effortnarrativeinterrogation/"
   },
   "Eibon": {
     "title": "Eibon / 伊波恩",
@@ -7562,6 +7578,10 @@
   "FelixCollin": {
     "title": "Felix Collin",
     "url": "/wiki/entities/felixcollin/"
+  },
+  "FemaleBeautySelfSurveillance": {
+    "title": "女性美貌自我监控 / Female Beauty Self-Surveillance",
+    "url": "/wiki/concepts/femalebeautyselfsurveillance/"
   },
   "FemaleBodyFreedom": {
     "title": "Female Body Freedom",
@@ -9215,6 +9235,10 @@
     "title": "Haijin and Maritime Smuggling",
     "url": "/wiki/concepts/haijinandmaritimesmuggling/"
   },
+  "HaikeyiDeJinNvshi": {
+    "title": "《还可以的金女士》",
+    "url": "/wiki/entities/haikeyidejinnvshi/"
+  },
   "HaileGebrselassie": {
     "title": "Haile Gebrselassie",
     "url": "/wiki/entities/hailegebrselassie/"
@@ -9370,6 +9394,10 @@
   "HardTechRegulatoryPathfinding": {
     "title": "Hard-Tech Regulatory Pathfinding",
     "url": "/wiki/concepts/hardtechregulatorypathfinding/"
+  },
+  "HardshipCultureAsEducation": {
+    "title": "吃苦文化作为教育 / Hardship Culture As Education",
+    "url": "/wiki/concepts/hardshipcultureaseducation/"
   },
   "HardwareCategoryDefinitionPower": {
     "title": "Hardware Category Definition Power",
@@ -11146,6 +11174,10 @@
   "JinriToutiao": {
     "title": "Jinri Toutiao",
     "url": "/wiki/entities/jinritoutiao/"
+  },
+  "Jinzi": {
+    "title": "金子 / Jinzi",
+    "url": "/wiki/entities/jinzi/"
   },
   "JiujiuwuDeDansheng": {
     "title": "《居酒屋的诞生》",
@@ -17139,6 +17171,10 @@
     "title": "Resource-Based Economic Transition",
     "url": "/wiki/concepts/resourcebasedeconomictransition/"
   },
+  "RespectabilityTax": {
+    "title": "体面税 / Respectability Tax",
+    "url": "/wiki/concepts/respectabilitytax/"
+  },
   "Responna": {
     "title": "Responna",
     "url": "/wiki/entities/responna/"
@@ -18067,6 +18103,10 @@
     "title": "Self-Experimentation",
     "url": "/wiki/concepts/selfexperimentation/"
   },
+  "SelfFeelingTrust": {
+    "title": "相信自己的感受 / Self-Feeling Trust",
+    "url": "/wiki/concepts/selffeelingtrust/"
+  },
   "SelfRecognitionHorror": {
     "title": "Self-Recognition Horror",
     "url": "/wiki/concepts/selfrecognitionhorror/"
@@ -18610,6 +18650,10 @@
   "SlowProductMarketFit": {
     "title": "Slow Product Market Fit",
     "url": "/wiki/concepts/slowproductmarketfit/"
+  },
+  "SmallTownExamTakerDiscipline": {
+    "title": "小镇做题家规训 / Small-Town Exam-Taker Discipline",
+    "url": "/wiki/concepts/smalltownexamtakerdiscipline/"
   },
   "Smartisan": {
     "title": "Smartisan",

@@ -4475,3 +4475,11 @@ Added source page for the 蜜獾吃书 episode on 《企鹅课》 / The Penguin 
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | 140. 还可以的金女士：“所以人为什么要努力啊？！”
+
+Added source page for the 蜜獾吃书 episode with 金子 on 《还可以的金女士》, small-town exam-taker discipline, hardship culture, female beauty self-surveillance, internet comparison, Douban rating anxiety, trusting one's own feeling, effort as a questioned narrative, and fashion-media respectability tax. Created pages for 金子, 《还可以的金女士》, 中国传媒大学, 豆瓣, 小镇做题家规训, 吃苦文化作为教育, 努力叙事追问, 相信自己的感受, 女性美貌自我监控, and 体面税; updated overview, index, 蜜獾吃书, 秦总, Conde Nast, Achievement Pressure Mental Health, Anti-Authoritarian Education, Red Pen Logic, Workplace Hidden Rules, Middle-Class Consumption Pressure, Female Self-Possession, Creator Evaluation Pressure, Information Gap Anxiety, Algorithmic Labeling, Gendered Hair Regulation, Objective Self-Ownership, and Live Human Feeling. No direct contradiction found; the source qualifies effort and self-improvement pages by arguing that effort, hardship, coolness, relaxation, and respectability all need to be examined rather than turned into unquestioned rules.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

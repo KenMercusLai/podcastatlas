@@ -2,8 +2,8 @@
 title: "Objective Self-Ownership"
 type: concept
 tags: [self-knowledge, agency, decision-making, life-design]
-sources: [98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
-last_updated: 2026-07-18
+sources: [140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655, 98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
+last_updated: 2026-07-24
 ---
 
 # Objective Self-Ownership
@@ -16,6 +16,8 @@ The source uses a card-game image: play the hand actually held rather than spend
 
 [[98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507]] adds an Adlerian version of the same balance. Family, genes, culture, and childhood influence are not denied, but [[AdlerianTeleology]] asks the adult to notice when those facts have become a total reason not to choose, act, or revise a life strategy.
 
+[[140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655]] adds a feeling-trust version through [[Jinzi|金子]]. Owning the self includes owning the fact that a rule, interpretation, school practice, beauty demand, or effort narrative feels wrong before an authority has approved that feeling as reasonable.
+
 ## Key Claims
 - Objective facts should be recognized before they are interpreted as limits, excuses, or insults.
 - Self-deprecating language can train both the speaker and listeners to treat the speaker as less worthy.
@@ -23,6 +25,7 @@ The source uses a card-game image: play the hand actually held rather than spend
 - Owning the objective self supports ambition because it turns desire into concrete work on real constraints.
 - Trauma-informed self-ownership separates real facts from shame stories that were learned under threat.
 - Adlerian self-ownership separates real influence from total excuse: the question is what present purpose a behavior now serves and what possible action remains.
+- Episode 140 adds that felt response is part of objective self-ownership: the person's discomfort, envy, fatigue, or interpretive reaction is evidence to examine rather than noise to erase.
 
 ## Connections
 - [[ZhongyongSelf]] - selfhood frame that requires recognition and ownership.
@@ -32,3 +35,4 @@ The source uses a card-game image: play the hand actually held rather than spend
 - [[LifeAntifragility]] - risk-aware life design starts from credible constraints rather than fantasy.
 - [[FawnResponse]], [[ComplexTraumaRecognition]], and [[UnfawningBoundaryPractice]] - episode 181's trauma qualification.
 - [[AlfredAdler]], [[IndividualPsychology]], and [[AdlerianTeleology]] - episode 98's purpose-oriented extension.
+- [[SelfFeelingTrust|相信自己的感受]], [[EffortNarrativeInterrogation|努力叙事追问]], and [[SmallTownExamTakerDiscipline|小镇做题家规训]] - episode 140's feeling and effort extension.

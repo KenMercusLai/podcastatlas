@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [140. 还可以的金女士：“所以人为什么要努力啊？！”](sources/140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655.md) — 蜜獾吃书 episode with 金子 on 《还可以的金女士》, small-town exam-taker discipline, hardship culture, female beauty self-surveillance, creator rating pressure, fashion respectability tax, and asking why effort became mandatory.
 - [139. 为什么伟大不能被计划：有志者事竟成，吗？](sources/139-weishenme-weida-buneng-bei-jihua-youzhizhe-shijingsheng-ma-849965735.md) — 蜜獾吃书 episode on 《为什么伟大不能被计划》, objective deception, novelty search, stepping-stone exploration, reading as possibility-space expansion, career uncertainty, basic research, and Campbell's Law.
 - [138.企鹅课：我在海滩上捡到一位Q老师](sources/138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726.md) — 蜜獾吃书 episode on 《企鹅课》, Tom Michell, an oil-soaked Magellanic penguin named Juan Salvador, St. George's School, 1970s Argentina, wild-animal rescue responsibility, and oil-pollution wildlife harm.
 - [135.闲聊伟大作家们的八卦（第三弹）](sources/135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670.md) — 蜜獾吃书 episode continuing the great-writer gossip series through Mark Twain, H. G. Wells, Sartre, Ayn Rand, author myth deflation, free-love contradictions, and anti-doctrine caution.
@@ -557,6 +558,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《还可以的金女士》](entities/HaikeyiDeJinNvshi.md) — Jinzi autobiographical essay collection used by episode 140 to examine small-town schooling, beauty, work, effort, and self-trust.
+- [金子 / Jinzi](entities/Jinzi.md) — Author and fashion-media worker whose memoir grounds episode 140's branches on small-town exam-taker discipline, creator evaluation pressure, and effort interrogation.
+- [中国传媒大学 / Communication University of China](entities/ChinaCommunicationUniversity.md) — Jinzi's chosen journalism path, used by episode 140 to show a specialized route that local prestige systems did not fully recognize.
+- [豆瓣 / Douban](entities/Douban.md) — Public book-rating and review platform that makes episode 140's creator evaluation pressure feel like renewed school scoring.
 - [《为什么伟大不能被计划》 / Why Greatness Cannot Be Planned](entities/WhyGreatnessCannotBePlanned.md) — Book used by episode 139 to argue that complex achievements often emerge through novelty search and stepping-stone exploration rather than direct planning.
 - [Kenneth Stanley](entities/KennethStanley.md) — AI researcher and coauthor, as presented by episode 139, whose book discussion anchors objective deception and novelty search.
 - [Joel Lehman](entities/JoelLehman.md) — AI researcher and coauthor, as presented by episode 139, connected to novelty search, objective deception, and why greatness resists direct planning.
@@ -2364,7 +2369,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Aaron Swartz](entities/AaronSwartz.md) — Infogami founder who joined Reddit through a merger, creating early-team strain that Huffman later frames as an unresolved relationship.
 - [Hipmunk](entities/Hipmunk.md) — Steve Huffman and Adam Goldstein's travel startup, used as the second-company context that made Huffman's 2015 return to Reddit costly.
 - [Adam Goldstein](entities/AdamGoldstein.md) — Hipmunk co-founder from the Reddit-return branch and source-named Softmax starter with Emmett Shear in the YC offsite episode.
-- [Conde Nast](entities/CondeNast.md) — Media company that acquired Reddit, creating stability but also startup hiring and incentive constraints.
+- [Conde Nast](entities/CondeNast.md) — Media company appearing through Reddit acquisition constraints and, in episode 140, as Jinzi's fashion-media workplace context for respectability tax.
 - [Infogami](entities/Infogami.md) — YC company associated with Aaron Swartz that merged with Reddit before Reddit's traction pulled attention away from the broader merged vision.
 - [Digg](entities/Digg.md) — Earlier and larger Reddit competitor that Huffman says gave Reddit lessons by absorbing platform heat first.
 - [Slashdot](entities/Slashdot.md) — Early technical news and comment community that influenced Reddit and also surfaced YC to Paul Buchheit.
@@ -3714,6 +3719,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [小镇做题家规训 / Small-Town Exam-Taker Discipline](concepts/SmallTownExamTakerDiscipline.md) — Contemporary education-and-class formation where study is both exit and constraint, especially when local worlds offer few visible alternatives.
+- [吃苦文化作为教育 / Hardship Culture As Education](concepts/HardshipCultureAsEducation.md) — Pattern where suffering is treated as proof of good training before its bodily cost, effectiveness, or fairness is examined.
+- [努力叙事追问 / Effort Narrative Interrogation](concepts/EffortNarrativeInterrogation.md) — Asking why effort became morally mandatory without replacing effort with slackness as a new unquestioned template.
+- [相信自己的感受 / Self-Feeling Trust](concepts/SelfFeelingTrust.md) — Agency practice of treating felt response as valid evidence instead of always seeking a standard answer key.
+- [女性美貌自我监控 / Female Beauty Self-Surveillance](concepts/FemaleBeautySelfSurveillance.md) — Gendered beauty pressure where social gaze becomes an internal camera around charm, display, shame, and visibility.
+- [体面税 / Respectability Tax](concepts/RespectabilityTax.md) — Money, taste, bodily work, and social reading required to appear naturally proper inside a high-status field.
 - [Objective Deception](concepts/ObjectiveDeception.md) — Complex-search failure mode where an objective or proxy metric creates a false gradient and hides useful stepping stones.
 - [Novelty Search](concepts/NoveltySearch.md) — Search strategy from episode 139 that rewards unusual behavior or forms instead of direct movement toward a fixed target.
 - [Stepping-Stone Exploration](concepts/SteppingStoneExploration.md) — Life-design and innovation frame for following interesting reachable possibilities that expand future options.

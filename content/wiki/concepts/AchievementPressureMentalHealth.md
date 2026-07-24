@@ -2,8 +2,8 @@
 title: "Achievement Pressure Mental Health"
 type: concept
 tags: [education, mental-health, youth, parenting]
-sources: [129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, 98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
-last_updated: 2026-07-18
+sources: [140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, 98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
+last_updated: 2026-07-24
 ---
 
 # Achievement Pressure Mental Health
@@ -22,6 +22,8 @@ The source focuses on "good students" because their distress is often hidden by 
 
 [[129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151]] adds the perfectionist-action layer. The episode argues that school, family, and social scoring can train a person to demand perfect conditions, perfect quality, or perfect numbers before acting, making ordinary failure feel like self-condemnation rather than practice.
 
+[[140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655]] adds the small-town and embodied-school layer through [[Jinzi|金子]]. The episode connects achievement pressure to [[SmallTownExamTakerDiscipline|小镇做题家规训]] and [[HardshipCultureAsEducation|吃苦文化作为教育]]: study is an exit path, but it can also train students to accept bodily damage, suppress improper feelings, and read life through external ranking long after school ends.
+
 ## Key Claims
 - High achievement does not reliably indicate psychological safety; elite schools and middle-class families can hide serious distress.
 - A binary honor/shame model makes ordinary setbacks feel like existential failure.
@@ -34,6 +36,7 @@ The source focuses on "good students" because their distress is often hidden by 
 - Vol.107 adds that adult work can decouple effort from outcome, making controllable practices and calibrated career attention more important.
 - Episode 98 adds that inferiority is not itself the problem; achievement systems become damaging when they make comparison and external validation the only visible path beyond inferiority.
 - Episode 129 adds that perfectionist standards can turn achievement pressure into non-action, because beginning feels unsafe unless the result can already satisfy the imagined judge.
+- Episode 140 adds that achievement pressure can become bodily and gendered when students learn that illness, exhaustion, beauty, rest, or personal feeling are secondary to the role of being a good student.
 
 ## Connections
 - [[ExcellentSheep|《优秀的绵羊》 / Excellent Sheep]] and [[WilliamDeresiewicz]] - book and author grounding the elite-student diagnosis.
@@ -47,3 +50,4 @@ The source focuses on "good students" because their distress is often hidden by 
 - [[ControllableLifeAnchors]], [[ChoiceTriggeredAttentionBoundary]], and [[SiriQizhulou|Siri]] - vol.107's work-life and effort-feedback extension.
 - [[AlfredAdler]], [[InferioritySuperiorityDynamic]], [[CommunityFeeling]], and [[AdlerianTeleology]] - episode 98's Adlerian extension.
 - [[PerfectionismAsAvoidance]], [[ImperfectActionPractice]], [[HighGeneralLowSpecificExpectations]], and [[ImpostorSyndrome]] - episode 129's achievement-pressure and anti-perfectionism extension.
+- [[SmallTownExamTakerDiscipline|小镇做题家规训]], [[HardshipCultureAsEducation|吃苦文化作为教育]], and [[EffortNarrativeInterrogation|努力叙事追问]] - episode 140's embodied and life-design extension.

@@ -2,8 +2,8 @@
 title: "Information Gap Anxiety"
 type: concept
 tags: [attention, comparison, social-media, self-improvement]
-sources: [63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
-last_updated: 2026-07-15
+sources: [140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655, 63-wode-30-xia-bancheng-daan-ruoyinruoxian-654281972, sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]
+last_updated: 2026-07-24
 ---
 
 # Information Gap Anxiety
@@ -14,12 +14,15 @@ The episode does not reject learning. It objects to learning being framed as a r
 
 [[sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778]] adds the "避坑" version. [[QianJing|钱静]] warns that content promising to help people avoid mistakes can also edit true fragments into an anxiety-producing path, making major life decisions follow the safest-seeming online consensus instead of [[ZhongyongSelf|a recognized self]].
 
+[[140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655]] adds the class-and-beauty comparison version. [[Jinzi|金子]] and [[QinZong|秦总]] treat internet jealousy as a normal response to seeing richer, freer, more beautiful, more international, or more stylish lives at scale; the problem is not the feeling itself, but a platform environment that turns everyone else's possibility into one's own deficit.
+
 ## Key Claims
 - Self-improvement media can create anxiety by implying that other people possess a decisive hidden advantage.
 - The word "gap" turns knowledge into a ranked comparison even before the content begins.
 - A healthier learning stance starts from one's own ground and interests rather than permanent fear of being left out.
 - The source uses the [[ClarksonsFarm|《克拉克森的农场》]] Caleb example to praise local competence that does not need constant social comparison.
 - Information-gap anxiety can hide inside safety advice: "don't step into pits" becomes another form of comparison when it replaces self-grounded judgment.
+- Episode 140 adds that comparison anxiety can include beauty, class, city, and lifestyle exposure, not only knowledge or career information.
 
 ## Connections
 - [[Xiaohongshu]] - platform context for the recommendation-title examples.
@@ -27,3 +30,4 @@ The episode does not reject learning. It objects to learning being framed as a r
 - [[ReadingAsLifeExperience]] - reading as lived contact rather than status arbitrage.
 - [[PersonalKnowledgeEcology]] - adjacent frame for learning as a long-term environment rather than a race.
 - [[InternetRiskAvoidanceTrap]], [[ZhongyongSelf]], and [[ObjectiveSelfOwnership]] - sp.02 extension around edited truth, avoidance, and self-grounded decision-making.
+- [[FemaleBeautySelfSurveillance|女性美貌自我监控]], [[RespectabilityTax|体面税]], and [[SmallTownExamTakerDiscipline|小镇做题家规训]] - episode 140's beauty, class, and town-to-city extension.
