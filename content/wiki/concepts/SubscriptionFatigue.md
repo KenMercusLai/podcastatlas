@@ -2,8 +2,8 @@
 title: "Subscription Fatigue"
 type: concept
 tags: [consumer, streaming, subscriptions]
-sources: [tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128, tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128]
-last_updated: 2026-07-16
+sources: [tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128, tech-20260226-0226-mp-tech-pod-128-tech-20260226-0226-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]
+last_updated: 2026-07-24
 ---
 
 # Subscription Fatigue
@@ -16,6 +16,8 @@ The concept is the user-side counterpart to [[StreamingConsolidation]]. Consolid
 
 [[tech-20260715-0715-mp-tech-pod-128-tech-20260715-0715-mp-tech-pod-128]] adds a platform-retention angle through [[Netflix]]. When viewers have many shows and services to choose from, they may not return to a second season after a long production gap, especially if the [[BingeReleaseModel]] compressed the first season's attention into a short burst.
 
+[[zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]] adds a household-finance angle. Subscriptions are no longer only a media-management annoyance; automatic payments for software, AI tools, entertainment, and lifestyle services can become hidden fixed costs inside [[PersonalCashFlowAccount]].
+
 ## Key Claims
 - Fragmented content creates search and management work for ordinary viewers.
 - Rising prices make viewers more likely to churn strategically rather than keep every service.
@@ -23,6 +25,7 @@ The concept is the user-side counterpart to [[StreamingConsolidation]]. Consolid
 - Subscription fatigue is not limited to media, but streaming makes the tradeoff visible because content libraries move and exclusive shows pull users across apps.
 - Physical video can be a workaround when the desired title is missing, scattered across services, or not worth another subscription.
 - Subscription fatigue can weaken [[StreamingAudienceRetention]] because a viewer deciding what to watch next may churn, switch platforms, or choose a different show rather than wait for a returning series.
+- Automatic renewal can turn many small choices into one large cash-flow problem, especially when cancellation would mean losing work tools, identity signals, or daily convenience.
 
 ## Connections
 - [[StreamingConsolidation]], [[WarnerBrosDiscovery]], [[Netflix]], and [[Paramount]] - source context.
@@ -31,3 +34,4 @@ The concept is the user-side counterpart to [[StreamingConsolidation]]. Consolid
 - [[ProductLedWillingnessToPay]] - adjacent question of when recurring payment still feels worth it.
 - [[AISubscriptionEconomics]] - neighboring AI subscription branch in the wiki.
 - [[StreamingAudienceRetention]], [[BingeReleaseModel]], and [[BrandonKatz]] - Netflix retention branch added by the 2026-07-15 Marketplace Tech episode.
+- [[PersonalCashFlowAccount]], [[MiddleClassConsumptionPressure]], and [[PersonalInfrastructureCostAccounting]] - recurring-cost and household-budget extension from the 面基 episode.

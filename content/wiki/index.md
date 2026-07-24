@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [中年三账户：现金流、肌肉、睡眠](sources/zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae.md) — 面基 episode framing midlife through cash flow, muscle, and sleep accounts, with household fixed costs, strength training, sleep inputs, and environment-over-willpower routines.
 - [The high cost of vacuuming carbon from the sky](sources/tech-20260713-tech-pod-128-tech-20260713-tech-pod-128.md) — Marketplace Tech episode on Heirloom Carbon Technologies, direct air capture, limestone-loop carbon removal, carbon-removal costs, protected Louisiana/Texas hubs, and fossil-fuel moral-hazard concerns.
 - [AI4S 需要狂人与野心家｜对话英灵殿 Odin："如果神存在，我怎能容忍自己不是神？"【公路播客】](sources/ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz.md) — Shizilukou Crossing road-podcast episode on Yinglingdian AI, Haotian Odin, all-modal molecular world models, AI drug-discovery platforms, protein design, scientific discovery automation, and founder discipline under fundraising pressure.
 - [Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)](sources/sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21.md) — How I Built This episode on Tom Rinks, Sun Bum, Psycho Chihuahua, Taco Bell, DeLeon Tequila, mascot-led brand recognition, visual brand systems, retail displays, founder role transition, and the SC Johnson sale.
@@ -577,6 +578,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Eight Sleep / 8Sleep](entities/EightSleep.md) — Sponsor-linked smart-bed product in the 面基 episode, used as a sleep temperature-monitoring and intervention example.
+- [超越百岁 / Outlive](entities/Outlive.md) — Longevity book cited for muscle as a reserve and strength training as retirement-saving-like preparation.
+- [我们为什么要睡觉 / Why We Sleep](entities/WhyWeSleep.md) — Sleep book cited for the bedroom-temperature point inside the episode's sleep-account frame.
 - [Heirloom Carbon Technologies](entities/HeirloomCarbonTechnologies.md) — Direct-air-capture company profiled through its limestone-loop process, Tracy facility, planned Louisiana project, and corporate carbon-removal customers.
 - [Carbon180](entities/Carbon180.md) — Carbon-removal policy organization used by Marketplace Tech to explain federal funding cuts, protected DAC hubs, and bipartisan state-level support.
 - [Amy Scott](entities/AmyScott.md) — Marketplace reporter whose Heirloom site visit grounds the direct-air-capture explainer and carbon-removal policy branch.
@@ -3875,6 +3879,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Midlife Three Accounts](concepts/MidlifeThreeAccounts.md) — 面基 framework treating cash flow, muscle, and sleep as slow-feedback accounts for midlife autonomy, capacity, and recovery.
+- [Personal Cash-Flow Account](concepts/PersonalCashFlowAccount.md) — Household-finance account for inflows, recurring outflows, fixed monthly obligations, asset conversion, and retirement choice.
+- [Muscle As Longevity Infrastructure](concepts/MuscleAsLongevityInfrastructure.md) — Reframing of skeletal muscle as reserve capacity for posture, metabolism, illness recovery, fall prevention, and older-age independence.
+- [Sleep As Daily Health Account](concepts/SleepAsDailyHealthAccount.md) — Sleep-account frame where duration, regularity, quality, and controllable inputs shape next-day cognition, mood, and repair.
+- [Environment Over Willpower](concepts/EnvironmentOverWillpower.md) — Behavior-design principle that makes health and finance routines easier by arranging defaults, locations, schedules, and frictions.
 - [Carbon Removal](concepts/CarbonRemoval.md) — Climate-mitigation category for removing already-emitted CO2, with direct air capture as the episode's concrete case.
 - [Direct Air Capture](concepts/DirectAirCapture.md) — Carbon-removal technology that pulls CO2 from ambient air rather than from exhaust or smokestacks.
 - [Limestone Loop Carbon Capture](concepts/LimestoneLoopCarbonCapture.md) — Heirloom's repeated limestone/calcium-oxide process for binding atmospheric CO2.

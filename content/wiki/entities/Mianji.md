@@ -15,7 +15,8 @@ sources:
   - e163-yaowanle-bu-shi-yaowanle-lun-yang-ai-de-xintai-yu-xiguan-lqezcpnw8p6cwhjr2wcw68x4uphb
   - da-chang-xiao-min-women-bixu-kezhi-dui-xitong-yu-shangan-de-qidai-lps-6oqp9ljyfw6wpfkutcks6dgf
   - dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1
-last_updated: 2026-07-08
+  - zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae
+last_updated: 2026-07-24
 ---
 
 # 面基
@@ -32,6 +33,8 @@ The [[dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1]] source ad
 
 The [[DaChangXiaomin]] conversation adds a nonfiction career layer through [[XiaoMan]], [[CareerShoreMyth]], [[SystemHumanity]], [[LayoffBuffer]], [[ToolRationalitySpillover]], [[FamilyLaborBoundaries]], and [[NonfictionPublicness]]. It moves the show from AI, investing, and embodied judgment into ordinary workers' relationship with large-company systems, asking how people can keep agency while restraining expectations that a system or "shore" will guarantee a stable life.
 
+[[zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]] adds a midlife health and household-finance layer through [[MidlifeThreeAccounts]], [[PersonalCashFlowAccount]], [[MuscleAsLongevityInfrastructure]], [[SleepAsDailyHealthAccount]], and [[EnvironmentOverWillpower]]. It connects the show's investing and embodied-judgment threads by treating cash flow, strength, and sleep as slow-feedback accounts that have to be maintained before middle-age pressure and later-life decline make them visible.
+
 ## Connections
 - [[ZhangYizhen]], [[AShareValuationIndicators]], [[MultiStrategyAllocation]], and [[DrawdownPsychology]] — E145's A-share valuation, strategy-mix, and investor-psychology layer.
 - [[NoPredictionTrading]], [[DiversificationAlpha]], and [[RandomMarketNarratives]] — E144's trading-statistics and narrative-risk layer.
@@ -47,4 +50,5 @@ The [[DaChangXiaomin]] conversation adds a nonfiction career layer through [[Xia
 - [[PingGe]], [[HumanAgencyUnderAI]], [[AIUsePacing]], and [[OutputQualityGates]] — E163's AI mindset, pacing, and workflow-quality layer.
 - [[XFFXFramework]], [[AIAssistedReading]], [[ReadingAsFrameTraining]], and [[PersonalKnowledgeEcology]] — reading and personal-context layer added by the "读书，就是在读一个人的 F" episode.
 - [[XiaoMan]], [[DaChangXiaomin]], [[CareerShoreMyth]], and [[SystemHumanity]] — big-company, layoff, nonfiction, and system-agency layer.
+- [[MidlifeThreeAccounts]], [[PersonalCashFlowAccount]], [[MuscleAsLongevityInfrastructure]], and [[SleepAsDailyHealthAccount]] - midlife money/body/sleep layer.
 - [[YiLaoYongYi]] — adjacent Chinese investing podcast already represented in the wiki through episodes on [[JimSimons]], [[JesseLivermore]], finance careers, and market risk.

@@ -2,8 +2,8 @@
 title: "Personal Health Data"
 type: concept
 tags: [healthcare, data, ai, personal-infrastructure]
-sources: [tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, tsr-s2-adoracheung-v5, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1]
-last_updated: 2026-07-12
+sources: [tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, tsr-s2-adoracheung-v5, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]
+last_updated: 2026-07-24
 ---
 
 # Personal Health Data
@@ -16,6 +16,8 @@ The key distinction is longitudinal context. A single normal-range report may no
 
 [[tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128]] adds the security downside of the same data value. [[RafePilling]] says he worries more about attacks on health care organizations and sensitive-data holders than about banks, because medical records, personal psychiatry records, and financial information can harm many people if leaked, destroyed, or made unavailable.
 
+[[zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]] adds a sleep-measurement and intervention edge through [[SleepAsDailyHealthAccount]] and [[EightSleep|8Sleep]]. The source distinguishes monitoring from intervention: watches, rings, and similar devices may reveal patterns, while the sponsor product is presented as changing bed temperature as one environmental input.
+
 ## Key Claims
 - Health data can have higher personal value than many other archives because it affects lifespan, quality of life, and the ability to notice risks before symptoms.
 - The data should belong to the user and remain available across hospitals, devices, apps, and future analysis tools.
@@ -24,6 +26,7 @@ The key distinction is longitudinal context. A single normal-range report may no
 - The useful asset is not only raw numbers; it includes timing, trend, medication, age, family history, diet, exercise, symptoms, and other context.
 - Repeat testing can turn personal health data from a static report into a feedback loop for behavior change.
 - The same longitudinal and intimate qualities that make personal health data useful also make it high-impact if stolen, leaked, wiped, or held unavailable.
+- Sleep data is most useful when it changes controllable inputs such as schedule, light, temperature, caffeine, screens, or alcohol rather than becoming another anxious score.
 
 ## Connections
 - [[AIHealthManagement]] — main use case for reading personal health data over time.
@@ -34,3 +37,4 @@ The key distinction is longitudinal context. A single normal-range report may no
 - [[DataPortabilityAndSustainableTools]] — records must remain exportable and durable.
 - [[Instalab]], [[AtHomePreventiveHealth]], [[FounderHealthDebt]], and [[BehaviorChangeBabySteps]] — preventive-health service case added by the Adora Cheung episode.
 - [[IranLinkedCyberOperations]], [[CyberDataTheftAndLeakOperations]], and [[OfflineBackupRecoveryDrills]] — cybersecurity branch where health records become sensitive targets.
+- [[SleepAsDailyHealthAccount]], [[EightSleep|8Sleep]], and [[EnvironmentOverWillpower]] - sleep-data and intervention extension from the 面基 episode.

@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-24] ingest | 中年三账户：现金流、肌肉、睡眠
+
+Added source page for a 面基 episode that frames midlife around cash flow, muscle, and sleep accounts. Created pages for Eight Sleep / 8Sleep, 《超越百岁》 / Outlive, 《我们为什么要睡觉》 / Why We Sleep, Midlife Three Accounts, Personal Cash-Flow Account, Muscle As Longevity Infrastructure, Sleep As Daily Health Account, and Environment Over Willpower; updated overview, index, 面基, Midlife As Gift, Middle-Class Consumption Pressure, Subscription Fatigue, Personal Infrastructure Cost Accounting, Flow Environment Design, Personal Health Data, Embodied Aging, and Tech-Culture Biohacking. No direct contradiction found; the source qualifies existing midlife and subscription pages by making bodily reserves, sleep inputs, automatic payments, and household obligations part of the same slow-feedback infrastructure problem.
+
 ## [2026-07-24] ingest | 141. 制造弗兰肯斯坦：科幻之母和她的神奇时代
 
 Added source page for the 蜜獾吃书 episode on Mary Shelley, Frankenstein, Romantic science culture, galvanism, vitalism, spontaneous generation, anatomy, corpse trade, transplantation, electric therapy, the Villa Diodati circle, and creator responsibility. Created pages for the source book, Mary Wollstonecraft, William Godwin, Percy Shelley, Claire Clairmont, Erasmus Darwin, Frankenstein Castle, Dippel, Galvani, Volta, Crosse, Lawrence, Villa Diodati, the Year Without a Summer, Prometheus, Vesalius, Hunter, Byrne, Burke and Hare, Graham, and the main science-history and ethics concepts; updated overview, index, Mary Shelley, Frankenstein, Giovanni Aldini, Byron, Polidori, 蜜獾吃书, Science Fiction Realism, Experimental Science Ethics, and Scientific Public Spectacle. No direct contradiction found; the source extends the prior Frankenstein-galvanism branch by arguing that the novel was scientifically saturated for Mary Shelley's age while keeping later scientific correctness, public spectacle, and creator responsibility distinct.
@@ -4611,6 +4615,10 @@ Added source page for the 商业就是这样 episode on Peru's anchoveta fishery
 ## [2026-07-24] ingest | Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)
 
 Added source page for a How I Built This episode on Tom Rinks, Sun Bum, Psycho Chihuahua, the Taco Bell dispute, Rinks Canetti, DeLeon Tequila, visual brand systems, mascot-led recognition, place-based brand perception, retail displays, field sales, founder role transition, and the SC Johnson acquisition. Created pages for Sun Bum, Tom Rinks, Rene Kennedy, Rinks Canetti, DeLeon Tequila, Brent Hocking, Psycho Chihuahua, Joe Shields, Taco Bell, SC Johnson, Adam Francis, Michael LaSara, Made by Dentists, Sunny / Sun Bum Mascot, Cocoa Beach, Visual Brand System, Mascot Led Brand Recognition, Retail Display As Brand Surface, and Place Based Brand Perception; updated overview, index, How I Built This, Guy Raz, Consumer Brand Moat, Story Led Consumer Branding, Design Led Growth, CPG Distribution, Retail Shelf Placement, Packaging As Product Experience, Emotional Brand Relationship, Founder Role Transition, Post-Acquisition Founder Identity, Subculture Led Marketing, and Richard Branson. No direct contradiction found; first-person legal, product-quality, and deal-size claims remain source-scoped.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-24] lint | Wiki health check
 
