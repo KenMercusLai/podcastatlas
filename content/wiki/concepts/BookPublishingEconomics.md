@@ -2,7 +2,7 @@
 title: "Book Publishing Economics"
 type: concept
 tags: [publishing, books, media, economics]
-sources: [inside-a-book-auction]
+sources: [inside-a-book-auction, bookstore-economics]
 last_updated: 2026-07-24
 ---
 
@@ -12,6 +12,8 @@ Book publishing economics is the market machinery that turns a book idea into a 
 
 The source's central point is that cultural products are not acquired only because an editor likes them. Publishers evaluate audience, comparable titles, production costs, rights, marketing, platform, and [[AdvanceAgainstRoyalties|advance]] exposure before deciding how much to bid.
 
+[[bookstore-economics]] extends the concept after acquisition. The [[PlanetMoneyBook]] still has to move through [[BookstoreBuying]], [[RetailShelfPlacement]], [[BookReturnability]], and [[BookPrintRunStrategy]] before the market can test real reader demand.
+
 ## Key Claims
 - A nonfiction book proposal has to be readable as both creative project and business case.
 - [[LiteraryAgentMarketMaking]] matters because agents create access, refine the pitch, and make publishers aware that other bidders may be interested.
@@ -19,9 +21,11 @@ The source's central point is that cultural products are not acquired only becau
 - [[PublishingPortfolioRisk]] shapes editor decisions because most books do not become major hits.
 - [[PublishingAuctionDesign]] can increase competitive urgency, but it also creates [[WinnerCurse|winner's curse]] risk.
 - Publisher fit can beat a higher advance when distribution strategy, format, mission, and long-term audience use are more compelling.
+- Retailer order estimates, returnability, print-run sizing, remaindering risk, and shelf placement are downstream publishing-economics problems, not separate from the book deal.
 
 ## Connections
-- [[inside-a-book-auction]] - source case.
+- [[inside-a-book-auction]] and [[bookstore-economics]] - source cases.
 - [[NPR]], [[PlanetMoney]], [[AlexGoldmark]], [[AlexMaiassi]], [[LauraNolan]], [[JaneVonMehren|Jane von Mehren]], [[TomMayer]], and [[WWNorton|W. W. Norton]] - participants and institutions.
 - [[BookProposalAsSalesDocument]], [[LiteraryAgentMarketMaking]], [[AuthorPlatformRiskReduction]], [[AdvanceAgainstRoyalties]], [[PublishingPortfolioRisk]], [[PublishingAuctionDesign]], [[WinnerCurse]], and [[EducationalDistributionStrategy]] - component concepts.
+- [[FisherNash]], [[CarmichaelsBookstore|Carmichael's Bookstore]], [[StephenPace]], [[PlanetMoneyBook]], [[BookstoreBuying]], [[BookReturnability]], and [[BookPrintRunStrategy]] - downstream retail and sales mechanics added by the later source.
 - [[BookCreatorWork]], [[LiteraryPublishingAsMaterialSupport]], and [[LiteraryAgentJudgment]] - adjacent book-world concepts.

@@ -2,7 +2,7 @@
 title: "Retail Shelf Placement"
 type: concept
 tags: [retail, cpg, product, distribution]
-sources: [justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21, board-games-3-whats-in-a-name]
+sources: [justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e, sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21, board-games-3-whats-in-a-name, bookstore-economics]
 last_updated: 2026-07-24
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-24
 Retail shelf placement is the CPG product-design and distribution issue where a product's meaning changes depending on where shoppers encounter it. In [[justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b]], [[JustinsNutButter]] squeeze packs failed near energy bars because shoppers did not understand them, then started selling when placed beside nut-butter jars. [[e-l-f-cosmetics-joey-shamah-the-dollar-store-formula-that-built-a-cosmetics-giant-bbc71e65-9e47-41cb-8dd4-c61fcfc2572e]] adds [[ELFCosmetics]], where [[HEB]] spinner racks and [[Target]] end caps helped turn low-price cosmetics into impulse and value-brand displays. [[sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21]] adds [[SunBum]], where full branded displays made sunscreen feel like a coherent beach-lifestyle assortment rather than a few bottles competing against legacy brands.
 
 [[board-games-3-whats-in-a-name]] adds the board-game version through [[RetailShelfAppeal]]. [[SellMeASasquatch]] does not depend on aisle placement in the same way as peanut butter or sunscreen, but the same retail logic applies: the box, title, and theme have to tell shoppers what kind of product this is before they commit attention.
+
+[[bookstore-economics]] adds the bookstore version through the [[PlanetMoneyBook]]. [[FisherNash]] treats one copy, two copies, and four copies as different visibility states at [[CarmichaelsBookstore|Carmichael's Bookstore]], while the [[McNallyJackson]] launch-day scene shows how BISAC category placement can leave the same book visible in a window but harder to find inside the store.
 
 ## Key Claims
 - Shelf context teaches shoppers what the product is, what alternatives it belongs beside, and what use case they should consider.
@@ -21,6 +23,7 @@ Retail shelf placement is the CPG product-design and distribution issue where a 
 - For e.l.f., display context helped the brand avoid looking merely cheap and helped retailers see [[RetailIncrementality]].
 - For Sun Bum, the fixture itself became a [[RetailDisplayAsBrandSurface]] that joined bottles, stickers, towels, balls, and the [[SunnySunBumMascot|Sunny]] ape into one shelf-level brand story.
 - For board games, the title and cover can perform the placement work by making the product legible in a crowded game aisle.
+- For books, copy count, display-table access, bestseller shelves, and category labels can determine whether a title becomes discoverable enough for demand to show up.
 
 ## Connections
 - [[JustinsNutButter]], [[JustinGold]], and [[WholeFoodsMarket]] - source case.
@@ -30,3 +33,4 @@ Retail shelf placement is the CPG product-design and distribution issue where a 
 - [[CustomerPull]] and [[ProductLedWillingnessToPay]] - demand signals that placement can reveal or suppress.
 - [[LowPriceBrandPerception]] and [[RetailIncrementality]] - concepts added by the e.l.f. episode.
 - [[SellMeASasquatch]], [[RetailShelfAppeal]], and [[ProductNamingAsPositioning]] - board-game shelf-legibility branch added by Planet Money.
+- [[FisherNash]], [[CarmichaelsBookstore|Carmichael's Bookstore]], [[McNallyJackson]], [[PlanetMoneyBook]], and [[BookstoreBuying]] - bookstore placement branch added by Planet Money.

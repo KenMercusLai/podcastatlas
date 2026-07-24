@@ -4268,6 +4268,10 @@ Added source page for a 蜜獾吃书 episode on 罗翔《法律的悖论》, cov
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-24] ingest | BOOKstore Economics
+
+Added source page for a Planet Money episode on bookstore buying, the Planet Money book's retail path, Carmichael's shelf-space and display decisions, W. W. Norton's trade-sales and print-run strategy, book returnability, remaindering, pulping, and launch-day placement at McNally Jackson. Created pages for Fisher Nash, Carmichael's Bookstore, Stephen Pace, Planet Money Book, McNally Jackson, Bookstore Buying, Book Returnability, and Book Print-Run Strategy; updated overview, index, NPR, Planet Money, Alexi Horowitz-Ghazi, Alex Goldmark, Tom Mayer, W. W. Norton, Book Publishing Economics, Publishing Portfolio Risk, Author Platform Risk Reduction, and Retail Shelf Placement. No direct contradiction found; the source extends the earlier book-auction branch by showing that acquisition and platform proof still have to pass through retailer order quantities, display categories, return economics, and launch inventory risk.
+
 ## [2026-07-24] ingest | Inside a BOOK auction
 
 Added source page for a Planet Money episode on the hidden economics of nonfiction book deals, literary agents, proposal packaging, publisher meetings, two-round auction design, advance risk, author-platform evidence, publisher portfolio logic, and Norton's educational distribution pitch. Created pages for Alex Goldmark, Laura Nolan, Jane von Mehren, Alex Maiassi, Tom Mayer, W. W. Norton & Company, Book Publishing Economics, Literary Agent Market Making, Book Proposal As Sales Document, Publishing Auction Design, Advance Against Royalties, Publishing Portfolio Risk, Author Platform Risk Reduction, Winner's Curse, and Educational Distribution Strategy; updated overview, index, NPR, Planet Money, Literary Agent Judgment, Book Creator Work, Literary Publishing As Material Support, and Economic Way Of Thinking. No direct contradiction found; the source extends the wiki's book and media-business branches by showing that a creative nonfiction project becomes a book through platform proof, proposal work, agent access, auction format, and distribution fit as much as through editorial enthusiasm.
@@ -4811,6 +4815,10 @@ Ran lint after health passed. Deterministic checks scanned 6,644 pages and found
 ## [2026-07-24] ingest | The little pet fish that saved a town in the Amazon
 
 Added source page for a Planet Money episode on Barcelos, Brazil's wild Cardinal Tetra economy, the piabero livelihood system, sustainable wild harvesting, farmed competition from outside the Amazon, Project Piaba's traceability and handling strategy, and the town's pivot toward Peacock Bass sport-fishing tourism. Created pages for Barcelos, Rio Negro, Cardinal Tetra, Project Piaba, Aramara Castro, Deco, Vanda Ilson Siqueira, Peacock Bass, Piabero Economy, Sustainable Wild Harvesting, Local Product Advantage Erosion, Origin Traceability Moat, and Heritage Tourism Pivot; updated overview, index, NPR, Planet Money, Brazil, Localized Innovation Advantage, Conservation Intervention, Environmental Tradeoff Accounting, and Tourism-Dependent Small Economy. No direct contradiction found; the source qualifies localized-innovation optimism by showing that a local ecological advantage can be copied elsewhere, and it complicates conservation-versus-commerce framing by presenting bounded wild harvest as a possible habitat-protection strategy.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-24] lint | Wiki health check
 

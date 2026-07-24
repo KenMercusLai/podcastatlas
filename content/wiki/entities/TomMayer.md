@@ -2,7 +2,7 @@
 title: "Tom Mayer"
 type: entity
 tags: [publishing, editing, books]
-sources: [inside-a-book-auction]
+sources: [inside-a-book-auction, bookstore-economics]
 last_updated: 2026-07-24
 ---
 
@@ -12,13 +12,17 @@ Tom Mayer appears in [[inside-a-book-auction]] as the [[WWNorton|W. W. Norton]] 
 
 Mayer's explanation turns publishing into [[PublishingPortfolioRisk]]. He compares a publisher's list to a basket of stocks, describes the power-law economics of book sales, and worries about the [[WinnerCurse]] when auction pressure makes the winning bidder vulnerable to overpaying.
 
+[[bookstore-economics]] briefly returns to Mayer near the [[PlanetMoneyBook]] launch, when he compares the moment before public reception to the night before a play opens. The comment reinforces that acquisition, printing, placement, and promotion still end in uncertain reader demand.
+
 ## Key Claims
 - Mayer initially did not read the proposal immediately, but later judged it a strong Norton fit.
 - He had to persuade colleagues that the audience and promotion potential justified a major bid.
 - Norton's bid was shaped by sales projections, comparable titles, manufacturing, marketing, and [[AdvanceAgainstRoyalties|advance]] exposure.
 - He helped make Norton's non-highest offer compelling through full color and an [[EducationalDistributionStrategy|educational distribution]] pitch.
+- His launch comment keeps [[PublishingPortfolioRisk]] visible after the deal is signed.
 
 ## Connections
 - [[WWNorton|W. W. Norton]] - publisher where Mayer works in the source.
 - [[AlexGoldmark]], [[LauraNolan]], and [[JaneVonMehren|Jane von Mehren]] - counterparty and agents in the auction.
-- [[BookPublishingEconomics]], [[PublishingPortfolioRisk]], [[AdvanceAgainstRoyalties]], [[PublishingAuctionDesign]], and [[WinnerCurse]] - concepts grounded through his perspective.
+- [[StephenPace]] and [[PlanetMoneyBook]] - later sales and launch context.
+- [[BookPublishingEconomics]], [[PublishingPortfolioRisk]], [[AdvanceAgainstRoyalties]], [[PublishingAuctionDesign]], [[BookPrintRunStrategy]], and [[WinnerCurse]] - concepts grounded through his perspective.

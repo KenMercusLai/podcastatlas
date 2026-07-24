@@ -3627,6 +3627,10 @@
     "title": "《启示录》 / Book of Revelation",
     "url": "/wiki/entities/bookofrevelation/"
   },
+  "BookPrintRunStrategy": {
+    "title": "Book Print-Run Strategy",
+    "url": "/wiki/concepts/bookprintrunstrategy/"
+  },
   "BookProposalAsSalesDocument": {
     "title": "Book Proposal As Sales Document",
     "url": "/wiki/concepts/bookproposalassalesdocument/"
@@ -3635,6 +3639,10 @@
     "title": "Book Publishing Economics",
     "url": "/wiki/concepts/bookpublishingeconomics/"
   },
+  "BookReturnability": {
+    "title": "Book Returnability",
+    "url": "/wiki/concepts/bookreturnability/"
+  },
   "Bookface": {
     "title": "Bookface",
     "url": "/wiki/entities/bookface/"
@@ -3642,6 +3650,10 @@
   "BookingHoldings": {
     "title": "Booking Holdings",
     "url": "/wiki/entities/bookingholdings/"
+  },
+  "BookstoreBuying": {
+    "title": "Bookstore Buying",
+    "url": "/wiki/concepts/bookstorebuying/"
   },
   "BookstoreSerendipity": {
     "title": "Bookstore Serendipity / 书店偶遇感",
@@ -4294,6 +4306,10 @@
   "CarlyUrban": {
     "title": "Carly Urban",
     "url": "/wiki/entities/carlyurban/"
+  },
+  "CarmichaelsBookstore": {
+    "title": "Carmichael's Bookstore",
+    "url": "/wiki/entities/carmichaelsbookstore/"
   },
   "CarolNaughton": {
     "title": "Carol Naughton",
@@ -8486,6 +8502,10 @@
   "FirstSaleDoctrine": {
     "title": "First Sale Doctrine",
     "url": "/wiki/concepts/firstsaledoctrine/"
+  },
+  "FisherNash": {
+    "title": "Fisher Nash",
+    "url": "/wiki/entities/fishernash/"
   },
   "FisheriesResourceManagement": {
     "title": "Fisheries Resource Management",
@@ -14687,6 +14707,10 @@
     "title": "McKinsey",
     "url": "/wiki/entities/mckinsey/"
   },
+  "McNallyJackson": {
+    "title": "McNally Jackson",
+    "url": "/wiki/entities/mcnallyjackson/"
+  },
   "MeaningThroughExperience": {
     "title": "Meaning Through Experience",
     "url": "/wiki/concepts/meaningthroughexperience/"
@@ -17382,6 +17406,10 @@
   "PlanetMoney": {
     "title": "Planet Money",
     "url": "/wiki/entities/planetmoney/"
+  },
+  "PlanetMoneyBook": {
+    "title": "Planet Money Book",
+    "url": "/wiki/entities/planetmoneybook/"
   },
   "PlanetarySelfAwareness": {
     "title": "Planetary Self-Awareness",
@@ -21098,6 +21126,10 @@
   "StephenMoran": {
     "title": "Stephen Moran",
     "url": "/wiki/entities/stephenmoran/"
+  },
+  "StephenPace": {
+    "title": "Stephen Pace",
+    "url": "/wiki/entities/stephenpace/"
   },
   "StephenPassaha": {
     "title": "Stephen Passaha",
@@ -25114,6 +25146,10 @@
   "board-games-3-whats-in-a-name": {
     "title": "BOARD GAMES 3: What's in a name?",
     "url": "/wiki/sources/board-games-3-whats-in-a-name/"
+  },
+  "bookstore-economics": {
+    "title": "BOOKstore Economics",
+    "url": "/wiki/sources/bookstore-economics/"
   },
   "bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10": {
     "title": "Bootstrapped SaaS: $12M ARR Across 5 Products With a Team of 10",

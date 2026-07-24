@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [BOOKstore Economics](sources/bookstore-economics.md) — Planet Money episode on how the show's book wins or loses shelf space through bookstore buying, display quantity, returnability, print-run strategy, and launch-day retail placement.
 - [Inside a BOOK auction](sources/inside-a-book-auction.md) — Planet Money episode on the hidden economics of nonfiction book deals, literary agents, proposal packaging, publisher meetings, auction design, advances, platform risk, and Norton's educational-distribution win.
 - [The little pet fish that saved a town in the Amazon](sources/the-little-pet-fish-that-saved-a-town-in-the-amazon.md) — Planet Money episode on Barcelos, Brazil's wild Cardinal Tetra economy, sustainable ornamental-fish harvesting, farmed competition, Project Piaba, traceability, and the town's sport-fishing tourism pivot.
 - [Chef vs. Robot](sources/chef-vs-robot.md) — Planet Money episode on a robot wok versus a human chef, restaurant automation economics, wok hei, staffing pressure, and automation's displacement/reinstatement effects.
@@ -606,6 +607,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alex Maiassi](entities/AlexMaiassi.md) — Writer who helped convert the Planet Money book idea into sample writing, chapter structure, and a sellable proposal.
 - [Tom Mayer](entities/TomMayer.md) — W. W. Norton editor modeling sales, advance risk, and publisher fit for the Planet Money book auction.
 - [W. W. Norton & Company](entities/WWNorton.md) — Employee-owned publisher that won the Planet Money book through editorial fit, full-color plans, and educational distribution.
+- [Fisher Nash](entities/FisherNash.md) — Carmichael's book buyer whose ordering workflow grounds bookstore buying, shelf visibility, returnability, and comparable-sales judgment.
+- [Carmichael's Bookstore](entities/CarmichaelsBookstore.md) — Louisville independent bookstore used by Planet Money to show how shelf space, display tables, and local readers shape book orders.
+- [Stephen Pace](entities/StephenPace.md) — W. W. Norton trade sales director modeling demand, first print runs, returns, remaindering, and broad channel distribution for the Planet Money book.
+- [Planet Money Book](entities/PlanetMoneyBook.md) — Planet Money's own book project, followed from auction and Norton acquisition into bookstore ordering, print-run strategy, and launch-day placement.
+- [McNally Jackson](entities/McNallyJackson.md) — New York independent bookstore used as the launch-day contrast for how category placement and window display shape book visibility.
 - [Barcelos](entities/Barcelos.md) — Remote Brazilian Rio Negro town whose ornamental-fish economy and Cardinal Tetra civic identity are giving way to sport-fishing tourism.
 - [Rio Negro](entities/RioNegro.md) — Amazon river setting whose dark acidic water created the Cardinal Tetra niche around Barcelos.
 - [Cardinal Tetra](entities/CardinalTetra.md) — Tiny Amazon aquarium fish that became Barcelos's export product, civic emblem, conservation case, and copied farmed competitor.
@@ -4065,6 +4071,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Author Platform Risk Reduction](concepts/AuthorPlatformRiskReduction.md) — Publishing logic where a known audience and prior purchase behavior reduce acquisition uncertainty.
 - [Winner's Curse](concepts/WinnerCurse.md) — Auction risk that the winning bidder overpaid because valuation was uncertain and competitive pressure was high.
 - [Educational Distribution Strategy](concepts/EducationalDistributionStrategy.md) — Publisher plan to route a book through courseware, syllabi, and classroom use as part of its commercial fit.
+- [Bookstore Buying](concepts/BookstoreBuying.md) — Retail gatekeeping process that decides whether a new book enters a store, how many copies it gets, and where customers encounter it.
+- [Book Returnability](concepts/BookReturnability.md) — Publishing inventory model that lets bookstores return unsold books while pushing major downstream risk back to publishers.
+- [Book Print-Run Strategy](concepts/BookPrintRunStrategy.md) — Publisher decision about how many copies to manufacture before demand is known, balancing stockouts against returns, remainders, and waste.
 - [Piabero Economy](concepts/PiaberoEconomy.md) — Barcelos wild ornamental-fish livelihood system linking local fishers, brokers, exporters, civic identity, and global aquarium demand.
 - [Sustainable Wild Harvesting](concepts/SustainableWildHarvesting.md) — Conservation-economics frame where bounded wild harvest can protect habitat when local livelihood depends on intact ecosystems.
 - [Local Product Advantage Erosion](concepts/LocalProductAdvantageErosion.md) — Pattern where a place loses market control once outsiders reproduce a formerly local product elsewhere.
