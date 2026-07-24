@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-24] ingest | Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines
+
+Added source page for a Planet Money Valentine's Day collection on public-domain Betty Boop, competitive Excel, Uniqlo RFID checkout, penny retirement, and 404 Media's ICE technology reporting. Created pages for Betty Boop, Jennifer Jenkins, Jess Jang, Jesse Doherty, Erica Barris, Nick Fountain, Uniqlo, U.S. Mint, Microsoft Excel, Public Domain Reuse, Competitive Spreadsheeting, RFID Checkout, Coin Retirement Economics, and Procurement Records Journalism; updated overview, index, NPR, Planet Money, Kenny Malone, Alexi Horowitz-Ghazi, 404 Media, Palantir, U.S. Immigration and Customs Enforcement, U.S. Treasury, Microsoft, Washington Post, The Walt Disney Company, and IP Ownership. No direct contradiction found; the source extends existing IP and surveillance branches by adding lawful post-expiration reuse and procurement-records accountability as distinct mechanisms.
+
 ## [2026-07-24] ingest | 中年三账户：现金流、肌肉、睡眠
 
 Added source page for a 面基 episode that frames midlife around cash flow, muscle, and sleep accounts. Created pages for Eight Sleep / 8Sleep, 《超越百岁》 / Outlive, 《我们为什么要睡觉》 / Why We Sleep, Midlife Three Accounts, Personal Cash-Flow Account, Muscle As Longevity Infrastructure, Sleep As Daily Health Account, and Environment Over Willpower; updated overview, index, 面基, Midlife As Gift, Middle-Class Consumption Pressure, Subscription Fatigue, Personal Infrastructure Cost Accounting, Flow Environment Design, Personal Health Data, Embodied Aging, and Tech-Culture Biohacking. No direct contradiction found; the source qualifies existing midlife and subscription pages by making bodily reserves, sleep inputs, automatic payments, and household obligations part of the same slow-feedback infrastructure problem.
@@ -4739,3 +4743,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 6,512 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` is configured in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 6,527 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` is configured in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.

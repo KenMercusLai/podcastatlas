@@ -3347,6 +3347,10 @@
     "title": "Better-Than-Average Effect / 优于常人效应",
     "url": "/wiki/concepts/betterthanaverageeffect/"
   },
+  "BettyBoop": {
+    "title": "Betty Boop",
+    "url": "/wiki/entities/bettyboop/"
+  },
   "BeverageCategoryConvergence": {
     "title": "Beverage Category Convergence",
     "url": "/wiki/concepts/beveragecategoryconvergence/"
@@ -5119,6 +5123,10 @@
     "title": "Cognitive Inertia / 认知惰性",
     "url": "/wiki/concepts/cognitiveinertia/"
   },
+  "CoinRetirementEconomics": {
+    "title": "Coin Retirement Economics",
+    "url": "/wiki/concepts/coinretirementeconomics/"
+  },
   "Coinbase": {
     "title": "Coinbase",
     "url": "/wiki/entities/coinbase/"
@@ -5226,6 +5234,10 @@
   "ComparativeAdvantage": {
     "title": "Comparative Advantage",
     "url": "/wiki/concepts/comparativeadvantage/"
+  },
+  "CompetitiveSpreadsheeting": {
+    "title": "Competitive Spreadsheeting",
+    "url": "/wiki/concepts/competitivespreadsheeting/"
   },
   "ComplexTraumaRecognition": {
     "title": "Complex Trauma Recognition",
@@ -7654,6 +7666,10 @@
   "EricSchmidt": {
     "title": "Eric Schmidt",
     "url": "/wiki/entities/ericschmidt/"
+  },
+  "EricaBarris": {
+    "title": "Erica Barris",
+    "url": "/wiki/entities/ericabarris/"
   },
   "EricaChung": {
     "title": "Erica Chung",
@@ -11707,6 +11723,10 @@
     "title": "Jeni's Splendid Ice Creams",
     "url": "/wiki/entities/jenissplendidicecreams/"
   },
+  "JenniferJenkins": {
+    "title": "Jennifer Jenkins",
+    "url": "/wiki/entities/jenniferjenkins/"
+  },
   "JenniferJesse": {
     "title": "Jennifer Jesse",
     "url": "/wiki/entities/jenniferjesse/"
@@ -11735,9 +11755,17 @@
     "title": "Jerry / 太空僧",
     "url": "/wiki/entities/jerrytaikongseng/"
   },
+  "JessJang": {
+    "title": "Jess Jang",
+    "url": "/wiki/entities/jessjang/"
+  },
   "JesseAndBens": {
     "title": "Jesse and Ben's",
     "url": "/wiki/entities/jesseandbens/"
+  },
+  "JesseDoherty": {
+    "title": "Jesse Doherty",
+    "url": "/wiki/entities/jessedoherty/"
   },
   "JesseKoenig": {
     "title": "Jesse Koenig",
@@ -14719,6 +14747,10 @@
     "title": "Microsoft",
     "url": "/wiki/entities/microsoft/"
   },
+  "MicrosoftExcel": {
+    "title": "Microsoft Excel",
+    "url": "/wiki/entities/microsoftexcel/"
+  },
   "MicrosoftResearchAsia": {
     "title": "Microsoft Research Asia",
     "url": "/wiki/entities/microsoftresearchasia/"
@@ -15638,6 +15670,10 @@
   "NickBloom": {
     "title": "Nick Bloom",
     "url": "/wiki/entities/nickbloom/"
+  },
+  "NickFountain": {
+    "title": "Nick Fountain",
+    "url": "/wiki/entities/nickfountain/"
   },
   "NickSwisher": {
     "title": "Nick Swisher",
@@ -17531,6 +17567,10 @@
     "title": "Problem Definition In Research",
     "url": "/wiki/concepts/problemdefinitioninresearch/"
   },
+  "ProcurementRecordsJournalism": {
+    "title": "Procurement Records Journalism",
+    "url": "/wiki/concepts/procurementrecordsjournalism/"
+  },
   "ProductAnalytics": {
     "title": "Product Analytics",
     "url": "/wiki/concepts/productanalytics/"
@@ -17686,6 +17726,10 @@
   "PublicCompanyTransition": {
     "title": "Public Company Transition",
     "url": "/wiki/concepts/publiccompanytransition/"
+  },
+  "PublicDomainReuse": {
+    "title": "Public Domain Reuse",
+    "url": "/wiki/concepts/publicdomainreuse/"
   },
   "PublicFundraisingPitch": {
     "title": "Public Fundraising Pitch",
@@ -17966,6 +18010,10 @@
   "RC": {
     "title": "RC",
     "url": "/wiki/entities/rc/"
+  },
+  "RFIDCheckout": {
+    "title": "RFID Checkout",
+    "url": "/wiki/concepts/rfidcheckout/"
   },
   "RIAA": {
     "title": "RIAA",
@@ -22415,6 +22463,10 @@
     "title": "Union Square Ventures",
     "url": "/wiki/entities/unionsquareventures/"
   },
+  "Uniqlo": {
+    "title": "Uniqlo",
+    "url": "/wiki/entities/uniqlo/"
+  },
   "UniquelyHuman": {
     "title": "这世界唯一的你 / Uniquely Human",
     "url": "/wiki/entities/uniquelyhuman/"
@@ -22446,6 +22498,10 @@
   "UnitedStatesConstitution": {
     "title": "United States Constitution",
     "url": "/wiki/entities/unitedstatesconstitution/"
+  },
+  "UnitedStatesMint": {
+    "title": "U.S. Mint",
+    "url": "/wiki/entities/unitedstatesmint/"
   },
   "UnitedStatesPharmacopeia": {
     "title": "United States Pharmacopeia",
@@ -24490,6 +24546,10 @@
   "before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets": {
     "title": "Before Kalshi and Polymarket there was the Iowa Electronic Markets",
     "url": "/wiki/sources/before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets/"
+  },
+  "betty-boop-excel-olympics-penny-isms-our-2026-valentines": {
+    "title": "Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines",
+    "url": "/wiki/sources/betty-boop-excel-olympics-penny-isms-our-2026-valentines/"
   },
   "biancheng-de-neiranji-shidai-neihe-konghuang-71-1-71-1": {
     "title": "71. 编程的内燃机时代",

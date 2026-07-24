@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines](sources/betty-boop-excel-olympics-penny-isms-our-2026-valentines.md) — Planet Money Valentine collection connecting public-domain Betty Boop, competitive Excel, Uniqlo RFID checkout, penny retirement, and 404 Media's ICE procurement-records reporting.
 - [BOARD GAMES 3: What's in a name?](sources/board-games-3-whats-in-a-name.md) — Planet Money episode on turning an asymmetric-information card-game prototype into Sell Me a Sasquatch through naming, theme, shelf appeal, and international retail constraints.
 - [Chevron, Venezuela and the Paradox of Plenty](sources/chevron-venezuela-and-the-paradox-of-plenty.md) — Planet Money episode on Chevron in Venezuela, Lake Maracaibo, Dutch disease, OPEC, oil nationalization, PDVSA, sanctions, and Terry Karl's political resource curse.
 - [So are we in an AI bubble? Here are clues to look for.](sources/so-are-we-in-an-ai-bubble-here-are-clues-to-look-for.md) — Planet Money episode on AI bubble detection, Nvidia valuation, Greenwood's statistical indicators, Fama's market-efficiency challenge, and lean-versus-clean bubble policy.
@@ -590,6 +591,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Betty Boop](entities/BettyBoop.md) — Public-domain animation character used for Planet Money's economics Valentine after the 1930 version entered the public domain.
+- [Jennifer Jenkins](entities/JenniferJenkins.md) — Copyright and public-domain expert helping Planet Money explain Betty Boop's public-domain status and the prior copyright-term freeze.
+- [Jess Jang](entities/JessJang.md) — Planet Money participant who praises the Washington Post's competitive Excel article.
+- [Jesse Doherty](entities/JesseDoherty.md) — Washington Post journalist whose Excel competition article becomes a Planet Money Valentine.
+- [Erica Barris](entities/EricaBarris.md) — Planet Money participant whose penny Valentine separates coin economics from cultural afterlife.
+- [Nick Fountain](entities/NickFountain.md) — Planet Money participant highlighting 404 Media's ICE technology reporting and procurement-records methods.
+- [Uniqlo](entities/Uniqlo.md) — Apparel retailer used as the episode's case of RFID self-checkout that reduces customer friction.
+- [U.S. Mint](entities/UnitedStatesMint.md) — Minting institution tied to the episode's account of ending new penny production.
+- [Microsoft Excel](entities/MicrosoftExcel.md) — Spreadsheet software reframed by the episode as a competitive performance medium.
 - [Exploding Kittens](entities/ExplodingKittens.md) — Game company helping Planet Money turn an economics mechanic into a mass-market retail card game.
 - [Sell Me a Sasquatch](entities/SellMeASasquatch.md) — U.S. title and theme selected for the Planet Money and Exploding Kittens asymmetric-information game.
 - [Elan Lee](entities/ElanLee.md) — Exploding Kittens co-founder explaining why a working game still needs box-level retail appeal.
@@ -3962,6 +3972,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Public Domain Reuse](concepts/PublicDomainReuse.md) — Creative and commercial reuse made possible when copyright expires, with 1930 Betty Boop as the episode's example.
+- [Competitive Spreadsheeting](concepts/CompetitiveSpreadsheeting.md) — Treating Excel work as timed, spectator-legible performance rather than ordinary office productivity.
+- [RFID Checkout](concepts/RFIDCheckout.md) — Retail checkout design where RFID tags identify multiple products automatically, constrained by tag cost and category margins.
+- [Coin Retirement Economics](concepts/CoinRetirementEconomics.md) — Decision logic for ending production of coins whose production cost exceeds practical payment value.
+- [Procurement Records Journalism](concepts/ProcurementRecordsJournalism.md) — Accountability reporting method using public government purchasing records to investigate agencies and vendors.
 - [The Market For Lemons](concepts/MarketForLemons.md) — Asymmetric-information paper and concept converted into the hidden-quality trading mechanic behind Sell Me a Sasquatch.
 - [Game Mechanic To Retail Product](concepts/GameMechanicToRetailProduct.md) — Gap between a playable ruleset and a shopper-legible packaged game with name, theme, art, and retailer story.
 - [Product Naming As Positioning](concepts/ProductNamingAsPositioning.md) — Naming as a product signal that teaches category, tone, audience, and purchase frame.

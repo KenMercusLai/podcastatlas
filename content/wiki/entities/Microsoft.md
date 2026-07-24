@@ -2,11 +2,13 @@
 title: "Microsoft"
 type: entity
 tags: [company, ai, cloud, investing, mobile]
-sources: [tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarspod-garrytan-final, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+sources: [betty-boop-excel-olympics-penny-isms-our-2026-valentines, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarspod-garrytan-final, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
 last_updated: 2026-07-24
 ---
 
 # Microsoft
+
+[[betty-boop-excel-olympics-penny-isms-our-2026-valentines]] adds Microsoft through [[MicrosoftExcel|Microsoft Excel]] rather than cloud, AI, or hardware. [[JessJang]] praises [[JesseDoherty]]'s [[WashingtonPost|Washington Post]] article on the Microsoft Excel Collegiate Competition, making [[CompetitiveSpreadsheeting]] a case where a mature productivity tool becomes a performance medium.
 
 Microsoft appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj]] as one of the large cloud and AI customers whose capital-spending decisions matter for [[Nvidia]]. The episode uses Microsoft alongside [[Google]] and [[Amazon]] to argue that Nvidia's growth expectations depend partly on whether hyperscalers continue buying AI infrastructure at the assumed pace.
 
@@ -55,3 +57,4 @@ Microsoft appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yan
 - [[OpenAI]], [[SamAltman]], [[EmmettShear]], and [[OpenAIBoardCrisis]] - crisis fallback context added by The Social Radars.
 - [[Dropbox]], [[DrewHouston]], [[IncumbentPlatformPressure]], and [[StrategicFocusUnderIncumbentPressure]] - file-sync and productivity-suite pressure added by The Social Radars.
 - [[AIPCMemoryDemand]], [[NeuralProcessingUnits]], and [[MemoryChipShortage]] - Copilot Plus PC memory-spec context added by Marketplace Tech.
+- [[MicrosoftExcel]], [[JessJang]], [[JesseDoherty]], and [[CompetitiveSpreadsheeting]] - spreadsheet competition branch added by Planet Money.

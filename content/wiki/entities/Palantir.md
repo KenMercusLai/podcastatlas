@@ -2,11 +2,13 @@
 title: "Palantir"
 type: entity
 tags: [company, software, enterprise]
-sources: [e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, socialradarspod-garrytan-final, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u]
+sources: [betty-boop-excel-olympics-penny-isms-our-2026-valentines, e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, socialradarspod-garrytan-final, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u]
 last_updated: 2026-07-24
 ---
 
 # Palantir
+
+[[betty-boop-excel-olympics-penny-isms-our-2026-valentines]] adds a source-scoped public-records journalism mention. [[NickFountain]] praises [[404Media|404 Media]]'s reporting on [[USImmigrationAndCustomsEnforcement|ICE]] and a Palantir-related app, while the episode also states that Palantir disputed the "Google Maps for ICE" description and framed the tool as address-data reconciliation.
 
 [[e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d]] adds Palantir to the [[PeterThiel]] ideology and politics branch. The [[SiliconValley101]] episode links Palantir's founding logic to [[CarlSchmitt]], 9/11, and [[ExceptionStateSurveillanceTechnology]]: in this interpretation, data search and surveillance tools become a way for government to act under exceptional conditions when liberal procedure is judged too slow or naive.
 
@@ -32,5 +34,6 @@ Palantir is referenced in [[openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai
 - [[OpenAI]] and [[Anthropic]] — frontier AI companies now discussed as adopting or emphasizing similar enterprise-deployment roles.
 - [[Claude]], [[USDepartmentOfDefense]], and [[DefenseAISupplyChainRisk]] - defense-AI supply-chain example added by Marketplace Tech.
 - [[GeckoRobotics]], [[Anduril]], and [[DefenseTechStartupProcurement]] - newer defense technology company context added by the March 2026 Marketplace Tech Bytes episode.
+- [[404Media|404 Media]], [[NickFountain]], [[USImmigrationAndCustomsEnforcement|ICE]], and [[ProcurementRecordsJournalism]] - public-records reporting branch added by Planet Money.
 - [[RollingAI]] — company using the FDE frame for AI agents and enterprise transformation.
 - [[Cresta]] and [[Jove]] — later AI-agent deployment case that traces its role model back to Palantir.
