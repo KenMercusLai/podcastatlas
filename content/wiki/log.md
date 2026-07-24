@@ -784,6 +784,10 @@ Added source page for a Keji Luandun episode on Huawei's Tau Law, 3D chip stacki
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-24] ingest | BOARD GAMES 3: What's in a name?
+
+Added source page for a Planet Money episode on turning an asymmetric-information card-game prototype into Sell Me a Sasquatch with Exploding Kittens. Created pages for Exploding Kittens, Sell Me a Sasquatch, Elan Lee, Jamie Wolanski, Stephanie Pesta, Yuri Hosta, The Market For Lemons, Game Mechanic To Retail Product, Product Naming As Positioning, Retail Shelf Appeal, Cross-Market Naming Friction, and Cryptid Theme Legibility; updated overview, index, NPR, Planet Money, Asymmetric Information, Retail Shelf Placement, Packaging As Product Experience, Target, and Walmart. No direct contradiction found; the source extends the wiki's marketplace and retail branches by showing that a theory-driven mechanic still needs naming, theme, box-level attention, giftability, and localization discipline before it becomes a mass-market product.
+
 ## [2026-07-17] ingest | Riding with the repo man (update)
 
 Added source page for the Planet Money update on subprime auto lending, auto repossession, car affordability stress, GPS-enabled recovery, and borrower-level crisis when a car loan fails. Created pages for Larry Baker, Stephanie Waldrop, Rick Reichert, Jared Reichert, Subprime Auto Lending, Auto Repossession, Car Affordability Stress, and GPS-Enabled Repossession; updated overview, index, NPR, Planet Money, Consumer Loan Risk, and Personal Credit Record. No direct contradiction found; the source qualifies the wiki's consumer-credit branch by showing that subprime auto loans can provide necessary transportation access while still becoming severe household risk when prices, rates, term length, income shocks, and easy collateral recovery interact.
@@ -4731,3 +4735,7 @@ Added source page for a Planet Money episode on Chevron's long presence in Venez
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 6,512 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` is configured in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.

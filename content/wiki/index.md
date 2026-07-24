@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [BOARD GAMES 3: What's in a name?](sources/board-games-3-whats-in-a-name.md) — Planet Money episode on turning an asymmetric-information card-game prototype into Sell Me a Sasquatch through naming, theme, shelf appeal, and international retail constraints.
 - [Chevron, Venezuela and the Paradox of Plenty](sources/chevron-venezuela-and-the-paradox-of-plenty.md) — Planet Money episode on Chevron in Venezuela, Lake Maracaibo, Dutch disease, OPEC, oil nationalization, PDVSA, sanctions, and Terry Karl's political resource curse.
 - [So are we in an AI bubble? Here are clues to look for.](sources/so-are-we-in-an-ai-bubble-here-are-clues-to-look-for.md) — Planet Money episode on AI bubble detection, Nvidia valuation, Greenwood's statistical indicators, Fama's market-efficiency challenge, and lean-versus-clean bubble policy.
 - [How Black hair care grew Black power](sources/how-black-hair-care-grew-black-power.md) — Planet Money episode on Johnson Products, George and Joan Johnson, Black hair-care ownership, Afro Sheen, Soul Train sponsorship, public-listing control tradeoffs, and larger beauty-company competition.
@@ -589,6 +590,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Exploding Kittens](entities/ExplodingKittens.md) — Game company helping Planet Money turn an economics mechanic into a mass-market retail card game.
+- [Sell Me a Sasquatch](entities/SellMeASasquatch.md) — U.S. title and theme selected for the Planet Money and Exploding Kittens asymmetric-information game.
+- [Elan Lee](entities/ElanLee.md) — Exploding Kittens co-founder explaining why a working game still needs box-level retail appeal.
+- [Jamie Wolanski](entities/JamieWolanski.md) — Game consultant framing board-game shopping around quick shelf attention, giftability, and the target big-box buyer.
+- [Stephanie Pesta](entities/StephaniePesta.md) — Exploding Kittens art-team member presenting theme directions for the Planet Money game.
+- [Yuri Hosta](entities/YuriHosta.md) — Exploding Kittens international-business lead surfacing the Sasquatch naming problem outside North America.
 - [Chevron](entities/Chevron.md) — American oil major whose decision to stay in Venezuela anchors the episode's long petrostate, sanctions, and corporate-continuity story.
 - [PDVSA](entities/PDVSA.md) — Venezuelan state oil company created by 1976 nationalization and later used to show how state control can preserve rents while weakening oil governance.
 - [Terry Karl](entities/TerryKarl.md) — Political economist whose petrostate and political resource curse framing explains why oil outcomes depend on institutions and leadership.
@@ -3955,6 +3962,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [The Market For Lemons](concepts/MarketForLemons.md) — Asymmetric-information paper and concept converted into the hidden-quality trading mechanic behind Sell Me a Sasquatch.
+- [Game Mechanic To Retail Product](concepts/GameMechanicToRetailProduct.md) — Gap between a playable ruleset and a shopper-legible packaged game with name, theme, art, and retailer story.
+- [Product Naming As Positioning](concepts/ProductNamingAsPositioning.md) — Naming as a product signal that teaches category, tone, audience, and purchase frame.
+- [Retail Shelf Appeal](concepts/RetailShelfAppeal.md) — Packaged-product ability to win attention and comprehension under severe in-store scanning limits.
+- [Cross-Market Naming Friction](concepts/CrossMarketNamingFriction.md) — Localization problem where a name works in one market but loses recognition, rhythm, or meaning elsewhere.
+- [Cryptid Theme Legibility](concepts/CryptidThemeLegibility.md) — Use of Sasquatch, Bigfoot, Yeti, and similar folklore creatures to make a game theme visual, funny, and memorable.
 - [Petrostate](concepts/Petrostate.md) — State whose economy and public finances are built around oil, with Venezuela as the episode's core case.
 - [Dutch Disease](concepts/DutchDisease.md) — Commodity-boom mechanism where oil inflows strengthen the currency and crowd out other export sectors.
 - [Political Resource Curse](concepts/PoliticalResourceCurse.md) — Terry Karl's governance frame that oil becomes blessing or curse through institutions, leadership, and corporate choices.

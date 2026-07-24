@@ -5751,6 +5751,10 @@
     "title": "Cross-Laminated Timber",
     "url": "/wiki/concepts/crosslaminatedtimber/"
   },
+  "CrossMarketNamingFriction": {
+    "title": "Cross-Market Naming Friction",
+    "url": "/wiki/concepts/crossmarketnamingfriction/"
+  },
   "CrossProjectCashTransfer": {
     "title": "Cross-Project Cash Transfer",
     "url": "/wiki/concepts/crossprojectcashtransfer/"
@@ -5766,6 +5770,10 @@
   "Cruise": {
     "title": "Cruise",
     "url": "/wiki/entities/cruise/"
+  },
+  "CryptidThemeLegibility": {
+    "title": "Cryptid Theme Legibility",
+    "url": "/wiki/concepts/cryptidthemelegibility/"
   },
   "CryptoConsumerConfidence": {
     "title": "Crypto Consumer Confidence",
@@ -7319,6 +7327,10 @@
     "title": "Elaboration Likelihood Model / 精细加工可能性模型",
     "url": "/wiki/concepts/elaborationlikelihoodmodel/"
   },
+  "ElanLee": {
+    "title": "Elan Lee",
+    "url": "/wiki/entities/elanlee/"
+  },
   "EldenRing": {
     "title": "Elden Ring / 艾尔登法环",
     "url": "/wiki/entities/eldenring/"
@@ -7838,6 +7850,10 @@
   "ExpertiseAmplifiedAIUse": {
     "title": "Expertise-Amplified AI Use",
     "url": "/wiki/concepts/expertiseamplifiedaiuse/"
+  },
+  "ExplodingKittens": {
+    "title": "Exploding Kittens",
+    "url": "/wiki/entities/explodingkittens/"
   },
   "ExplorationToExtractionPipeline": {
     "title": "Exploration To Extraction Pipeline",
@@ -9054,6 +9070,10 @@
   "GalvanicReanimationImaginary": {
     "title": "Galvanic Reanimation Imaginary / 伽伐尼式复活想象",
     "url": "/wiki/concepts/galvanicreanimationimaginary/"
+  },
+  "GameMechanicToRetailProduct": {
+    "title": "Game Mechanic To Retail Product",
+    "url": "/wiki/concepts/gamemechanictoretailproduct/"
   },
   "GamePreservation": {
     "title": "Game Preservation",
@@ -11542,6 +11562,10 @@
   "JamieSiminoff": {
     "title": "Jamie Siminoff",
     "url": "/wiki/entities/jamiesiminoff/"
+  },
+  "JamieWolanski": {
+    "title": "Jamie Wolanski",
+    "url": "/wiki/entities/jamiewolanski/"
   },
   "JanHaroldBrunvand": {
     "title": "Jan Harold Brunvand",
@@ -14154,6 +14178,10 @@
   "MarketEfficiency": {
     "title": "Market Efficiency",
     "url": "/wiki/concepts/marketefficiency/"
+  },
+  "MarketForLemons": {
+    "title": "The Market For Lemons",
+    "url": "/wiki/concepts/marketforlemons/"
   },
   "MarketFreshnessCulture": {
     "title": "Market Freshness Culture",
@@ -17519,6 +17547,10 @@
     "title": "Product Led Willingness To Pay",
     "url": "/wiki/concepts/productledwillingnesstopay/"
   },
+  "ProductNamingAsPositioning": {
+    "title": "Product Naming As Positioning",
+    "url": "/wiki/concepts/productnamingaspositioning/"
+  },
   "ProductRoast": {
     "title": "Product Roast",
     "url": "/wiki/concepts/productroast/"
@@ -18426,6 +18458,10 @@
   "RetailInvestorCrowding": {
     "title": "Retail Investor Crowding",
     "url": "/wiki/concepts/retailinvestorcrowding/"
+  },
+  "RetailShelfAppeal": {
+    "title": "Retail Shelf Appeal",
+    "url": "/wiki/concepts/retailshelfappeal/"
   },
   "RetailShelfPlacement": {
     "title": "Retail Shelf Placement",
@@ -19358,6 +19394,10 @@
   "SelfSupervisedLearning": {
     "title": "Self-Supervised Learning",
     "url": "/wiki/concepts/selfsupervisedlearning/"
+  },
+  "SellMeASasquatch": {
+    "title": "Sell Me a Sasquatch",
+    "url": "/wiki/entities/sellmeasasquatch/"
   },
   "SellSideResearchIncentives": {
     "title": "Sell-Side Research Incentives",
@@ -20530,6 +20570,10 @@
   "StephanieHughes": {
     "title": "Stephanie Hughes",
     "url": "/wiki/entities/stephaniehughes/"
+  },
+  "StephaniePesta": {
+    "title": "Stephanie Pesta",
+    "url": "/wiki/entities/stephaniepesta/"
   },
   "StephanieWaldrop": {
     "title": "Stephanie Waldrop",
@@ -24027,6 +24071,10 @@
     "title": "Yunnan Wild Mushroom Culture",
     "url": "/wiki/concepts/yunnanwildmushroomculture/"
   },
+  "YuriHosta": {
+    "title": "Yuri Hosta",
+    "url": "/wiki/entities/yurihosta/"
+  },
   "YuriMilner": {
     "title": "Yuri Milner",
     "url": "/wiki/entities/yurimilner/"
@@ -24450,6 +24498,10 @@
   "bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun": {
     "title": "别在国内卷了，去美国看看只要产品好就有人付费的市场",
     "url": "/wiki/sources/bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun/"
+  },
+  "board-games-3-whats-in-a-name": {
+    "title": "BOARD GAMES 3: What's in a name?",
+    "url": "/wiki/sources/board-games-3-whats-in-a-name/"
   },
   "bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10": {
     "title": "Bootstrapped SaaS: $12M ARR Across 5 Products With a Team of 10",
