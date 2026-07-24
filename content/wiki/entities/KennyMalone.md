@@ -2,11 +2,13 @@
 title: "Kenny Malone"
 type: entity
 tags: [podcast-host, journalism, economics]
-sources: [betty-boop-excel-olympics-penny-isms-our-2026-valentines, indicators-of-2025-and-what-to-watch-in-2026, can-the-trump-administration-make-college-cheaper, can-world-cup-mania-grow-mls-in-the-us]
+sources: [the-laws-of-the-office-revisited, betty-boop-excel-olympics-penny-isms-our-2026-valentines, indicators-of-2025-and-what-to-watch-in-2026, can-the-trump-administration-make-college-cheaper, can-world-cup-mania-grow-mls-in-the-us]
 last_updated: 2026-07-24
 ---
 
 # Kenny Malone
+
+[[the-laws-of-the-office-revisited]] adds Malone as the host whose teenage grocery-cashier story makes [[GoodhartsLaw]] concrete. His "items scanned per minute" example shows how a public workplace metric can turn into [[WorkplaceMetricGaming]] when employees protect the number rather than the underlying service.
 
 [[betty-boop-excel-olympics-penny-isms-our-2026-valentines]] adds Malone as the host coordinating a lighter [[PlanetMoney]] episode around "Valentines" to nerdy systems. He works with [[JenniferJenkins]] on the public-domain [[BettyBoop]] card, tests the "Boop boop a duopoly" antitrust joke, and links the episode's segments across [[PublicDomainReuse]], [[CompetitiveSpreadsheeting]], [[RFIDCheckout]], [[CoinRetirementEconomics]], and [[ProcurementRecordsJournalism]].
 
@@ -20,6 +22,7 @@ The episode uses Malone's hosting context to connect concrete club stories to la
 
 ## Connections
 - [[NPR]] and [[PlanetMoney]] - network and show context.
+- [[GoodhartsLaw]], [[WorkplaceMetricGaming]], and [[WorkplaceIncentiveDesign]] - office-incentive branch added by the new episode.
 - [[JenniferJenkins]], [[BettyBoop]], [[PublicDomainReuse]], [[RFIDCheckout]], [[CoinRetirementEconomics]], and [[ProcurementRecordsJournalism]] - Valentine-episode branch.
 - [[BeckySullivan]] - reporter and closing co-host for the episode.
 - [[MajorLeagueSoccer]], [[FIFAWorldCup]], and [[SportsEntertainmentFlywheel]] - sports-business question framed by the episode.

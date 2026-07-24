@@ -2,11 +2,13 @@
 title: "Sarah Gonzalez"
 type: entity
 tags: [person, journalist, podcast-host]
-sources: [the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work, why-the-us-has-no-guaranteed-paid-vacation]
-last_updated: 2026-07-18
+sources: [the-laws-of-the-office-revisited, the-sneaky-way-companies-get-new-chemicals-into-our-food, why-is-there-a-supplement-craze-if-they-dont-even-work, why-the-us-has-no-guaranteed-paid-vacation]
+last_updated: 2026-07-24
 ---
 
 # Sarah Gonzalez
+
+[[the-laws-of-the-office-revisited]] adds Gonzalez as the co-host helping frame informal office laws as economics-backed workplace mechanisms. Her role is to move the episode between [[GoodhartsLaw]], [[ParkinsonsLaw]], the [[PeterPrinciple]], and [[TruthfulSocialProof]] while keeping the examples grounded in ordinary office behavior.
 
 Sarah Gonzalez appears in [[why-is-there-a-supplement-craze-if-they-dont-even-work]] as the [[PlanetMoney]] host who frames the investigation into why supplements thrive despite weak evidence for healthy consumers. With [[JaneBlack]], she uses the practical question of whether the show could make a branded supplement to expose [[RecurringSupplementCommerce]], [[SupplementStructureFunctionClaims]], and [[DietarySupplementRegulation]].
 
@@ -18,6 +20,7 @@ Her role in the wiki is source framing rather than expert testimony. The episode
 
 ## Connections
 - [[PlanetMoney]] and [[NPR]] - show and network context.
+- [[GoodhartsLaw]], [[ParkinsonsLaw]], [[PeterPrinciple]], and [[TruthfulSocialProof]] - office-law branch added by the new episode.
 - [[JaneBlack]] - reporting partner in the source.
 - [[FrankCantone]] - manufacturing voice interviewed during the attempted product design.
 - [[DietarySupplementRegulation]] - regulatory frame the episode builds toward.

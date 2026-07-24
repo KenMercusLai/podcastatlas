@@ -2,7 +2,7 @@
 title: "Economic Way Of Thinking"
 type: concept
 tags: [economics, reasoning, decision-making, education]
-sources: [planet-money-vs-the-nbas-tanking-problem, dont-hate-the-replicator-hate-the-game, would-you-trust-an-economist-with-your-economy, 155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
+sources: [the-laws-of-the-office-revisited, planet-money-vs-the-nbas-tanking-problem, dont-hate-the-replicator-hate-the-game, would-you-trust-an-economist-with-your-economy, 155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
 last_updated: 2026-07-24
 ---
 
@@ -20,6 +20,8 @@ The concept matters because the source refuses two weak versions of economics: f
 
 [[planet-money-vs-the-nbas-tanking-problem]] adds a sports-design version: rules create incentives whether or not the resulting behavior feels fair. The episode uses [[SportsTanking]] to show that economic thinking can diagnose why a league gets behavior it dislikes when its [[SportsDraftIncentiveDesign|draft design]] rewards losing.
 
+[[the-laws-of-the-office-revisited]] adds a workplace version. [[GoodhartsLaw]], [[ParkinsonsLaw]], the [[PeterPrinciple]], and [[TruthfulSocialProof]] show that ordinary office rules are economic systems too: a metric, deadline, promotion ladder, or norm signal can change what behavior becomes rational.
+
 ## Key Claims
 - Economics can be taught from everyday coordination before formal models.
 - The useful question is often not "what is important in general" but "what is the relevant tradeoff in this situation?"
@@ -30,6 +32,7 @@ The concept matters because the source refuses two weak versions of economics: f
 - The economist-trust source adds that economics needs transparent uncertainty and lived-experience checks if it wants public authority.
 - The replication-games source adds that economics should examine the incentives and information asymmetries inside its own knowledge-production system.
 - The NBA tanking source adds that institutional rules should be judged by the behavior they make rational, not only by the intention behind the rule.
+- The office-laws source adds that economic thinking can diagnose everyday management failure by asking how metrics, deadlines, promotions, and social proof change behavior.
 
 ## Connections
 - [[TheEconomicWayOfThinking|《经济学的思维方式》 / The Economic Way of Thinking]], [[PaulHeyne|Paul Heyne / 保罗·海恩]], and [[LiangJie|梁杰]] - source, author, and interpreter.
@@ -40,3 +43,4 @@ The concept matters because the source refuses two weak versions of economics: f
 - [[EconomistTrustCrisis]], [[EconomicForecastingLimits]], [[OfficialStatisticsCredibility]], and [[AggregateIndicatorsLivedExperienceGap]] - trust and measurement branch added by Planet Money.
 - [[ReplicationCrisis]], [[PHacking]], [[PublicationBias]], [[ReplicationGames]], and [[ResearchIntegrityIncentives]] - reflexive incentive-analysis branch added by Planet Money.
 - [[SportsTanking]], [[SportsDraftIncentiveDesign]], [[DraftLotteryTradeoff]], [[DraftWheel]], and [[GoldPlan]] - sports mechanism-design branch added by Planet Money.
+- [[GoodhartsLaw]], [[ParkinsonsLaw]], [[PeterPrinciple]], [[TruthfulSocialProof]], and [[WorkplaceIncentiveDesign]] - office-incentive branch added by Planet Money.

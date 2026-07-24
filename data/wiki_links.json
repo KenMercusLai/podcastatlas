@@ -2023,6 +2023,10 @@
     "title": "阿里健康",
     "url": "/wiki/entities/alibabahealth/"
   },
+  "AliceEvans": {
+    "title": "Alice Evans",
+    "url": "/wiki/entities/aliceevans/"
+  },
   "AliceGuyBlache": {
     "title": "Alice Guy-Blache / 艾丽斯·盖-布兰奇",
     "url": "/wiki/entities/aliceguyblache/"
@@ -3927,6 +3931,10 @@
     "title": "CNOOC / 中国海油",
     "url": "/wiki/entities/cnooc/"
   },
+  "CNorthcoteParkinson": {
+    "title": "C. Northcote Parkinson",
+    "url": "/wiki/entities/cnorthcoteparkinson/"
+  },
   "COPPA": {
     "title": "COPPA",
     "url": "/wiki/concepts/coppa/"
@@ -4478,6 +4486,10 @@
   "CharlesFort": {
     "title": "Charles Fort / 查尔斯·霍伊·福特",
     "url": "/wiki/entities/charlesfort/"
+  },
+  "CharlesGoodhart": {
+    "title": "Charles Goodhart",
+    "url": "/wiki/entities/charlesgoodhart/"
   },
   "CharlesHarrisonBlackley": {
     "title": "Charles Harrison Blackley / 查尔斯·哈里森·布莱克利",
@@ -9591,6 +9603,10 @@
     "title": "《早安，怪物》 / Good Morning, Monster",
     "url": "/wiki/entities/goodmorningmonster/"
   },
+  "GoodhartsLaw": {
+    "title": "Goodhart's Law",
+    "url": "/wiki/concepts/goodhartslaw/"
+  },
   "Goodyear": {
     "title": "Goodyear",
     "url": "/wiki/entities/goodyear/"
@@ -11234,6 +11250,10 @@
   "InitializedCapital": {
     "title": "Initialized Capital",
     "url": "/wiki/entities/initializedcapital/"
+  },
+  "InnovationsForPovertyAction": {
+    "title": "Innovations for Poverty Action",
+    "url": "/wiki/entities/innovationsforpovertyaction/"
   },
   "InsiderDissentStrategy": {
     "title": "Insider Dissent Strategy / 局内人异议策略",
@@ -13055,6 +13075,10 @@
     "title": "Law-Morality Boundary",
     "url": "/wiki/concepts/lawmoralityboundary/"
   },
+  "LawrenceJPeter": {
+    "title": "Lawrence J. Peter",
+    "url": "/wiki/entities/lawrencejpeter/"
+  },
   "LayeredRobotArchitecture": {
     "title": "Layered Robot Architecture",
     "url": "/wiki/concepts/layeredrobotarchitecture/"
@@ -14766,6 +14790,10 @@
   "MengYan": {
     "title": "Meng Yan / 孟岩",
     "url": "/wiki/entities/mengyan/"
+  },
+  "MengZhu": {
+    "title": "Meng Zhu",
+    "url": "/wiki/entities/mengzhu/"
   },
   "Mengniu": {
     "title": "蒙牛 / Mengniu",
@@ -16735,6 +16763,10 @@
     "title": "Parker Conrad",
     "url": "/wiki/entities/parkerconrad/"
   },
+  "ParkinsonsLaw": {
+    "title": "Parkinson's Law",
+    "url": "/wiki/concepts/parkinsonslaw/"
+  },
   "ParliamentarySystem": {
     "title": "Parliamentary System",
     "url": "/wiki/concepts/parliamentarysystem/"
@@ -17078,6 +17110,10 @@
   "PeterNavarro": {
     "title": "Peter Navarro",
     "url": "/wiki/entities/peternavarro/"
+  },
+  "PeterPrinciple": {
+    "title": "Peter Principle",
+    "url": "/wiki/concepts/peterprinciple/"
   },
   "PeterTheGreat": {
     "title": "Peter the Great / 彼得大帝",
@@ -18398,6 +18434,10 @@
   "RecognitionAsHumiliation": {
     "title": "Recognition As Humiliation",
     "url": "/wiki/concepts/recognitionashumiliation/"
+  },
+  "RecognitionIncentives": {
+    "title": "Recognition Incentives",
+    "url": "/wiki/concepts/recognitionincentives/"
   },
   "RecommendationDistributionAdvantage": {
     "title": "Recommendation Distribution Advantage",
@@ -20891,6 +20931,10 @@
     "title": "StepFun",
     "url": "/wiki/entities/stepfun/"
   },
+  "StephanieByrne": {
+    "title": "Stephanie Byrne",
+    "url": "/wiki/entities/stephaniebyrne/"
+  },
   "StephanieHughes": {
     "title": "Stephanie Hughes",
     "url": "/wiki/entities/stephaniehughes/"
@@ -22499,6 +22543,10 @@
     "title": "Truth Social",
     "url": "/wiki/entities/truthsocial/"
   },
+  "TruthfulSocialProof": {
+    "title": "Truthful Social Proof",
+    "url": "/wiki/concepts/truthfulsocialproof/"
+  },
   "Tsathoggua": {
     "title": "Tsathoggua / 萨托古雅",
     "url": "/wiki/entities/tsathoggua/"
@@ -23746,6 +23794,14 @@
   "WorkplaceHiddenRules": {
     "title": "Workplace Hidden Rules",
     "url": "/wiki/concepts/workplacehiddenrules/"
+  },
+  "WorkplaceIncentiveDesign": {
+    "title": "Workplace Incentive Design",
+    "url": "/wiki/concepts/workplaceincentivedesign/"
+  },
+  "WorkplaceMetricGaming": {
+    "title": "Workplace Metric Gaming",
+    "url": "/wiki/concepts/workplacemetricgaming/"
   },
   "WorkplacePacing": {
     "title": "Workplace Pacing",
@@ -26010,6 +26066,10 @@
   "the-latest-tv-innovations-have-their-critics": {
     "title": "The latest TV innovations have their critics",
     "url": "/wiki/sources/the-latest-tv-innovations-have-their-critics/"
+  },
+  "the-laws-of-the-office-revisited": {
+    "title": "The laws of the office revisited",
+    "url": "/wiki/sources/the-laws-of-the-office-revisited/"
   },
   "the-leaked-tapes-that-show-how-the-rich-avoid-taxes": {
     "title": "The leaked tapes that show how the rich avoid taxes",

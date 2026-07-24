@@ -4787,3 +4787,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 6,614 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not configured with a provider-qualified model. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-24] ingest | The laws of the office revisited
+
+Added source page for a Planet Money episode on Goodhart's Law, Parkinson's Law, the Peter Principle, truthful social proof, recognition incentives, metric gaming, deadline scope, promotion mismatch, and workplace incentive design. Created pages for Charles Goodhart, C. Northcote Parkinson, Meng Zhu, Lawrence J. Peter, Stephanie Byrne, Alice Evans, Innovations for Poverty Action, Goodhart's Law, Workplace Metric Gaming, Parkinson's Law, Peter Principle, Truthful Social Proof, Recognition Incentives, and Workplace Incentive Design; updated overview, index, NPR, Planet Money, Kenny Malone, Sarah Gonzalez, Alexi Horowitz-Ghazi, Economic Way Of Thinking, and Naming Power In Social Change. No direct contradiction found; the source extends existing incentive-analysis branches from sports and research into everyday workplace management.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 6,629 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not configured with a provider-qualified model. Report returned in-session; `wiki/lint-report.md` was not saved.

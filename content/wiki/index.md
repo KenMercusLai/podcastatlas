@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The laws of the office revisited](sources/the-laws-of-the-office-revisited.md) — Planet Money episode on Goodhart's Law, Parkinson's Law, the Peter Principle, truthful social proof, recognition incentives, and workplace incentive design.
 - [Planet Money vs. the NBA's tanking problem](sources/planet-money-vs-the-nbas-tanking-problem.md) — Planet Money episode on NBA tanking, draft lottery incentives, the draft wheel, the Gold Plan, the PWHL, the NWSL no-draft model, and player autonomy.
 - [The Business of Heated Rivalry](sources/the-business-of-heated-rivalry.md) — Planet Money episode on Heated Rivalry, Canadian television financing, producer-owned IP, low-budget production discipline, international distribution, attentive streaming storytelling, and AI as a production tool rather than creative engine.
 - [Don't hate the replicator, hate the game](sources/dont-hate-the-replicator-hate-the-game.md) — Planet Money episode on Abel Brodeur, the Replication Games, p-hacking, publication bias, replication packages, robustness checks, and research integrity incentives.
@@ -596,6 +597,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Charles Goodhart](entities/CharlesGoodhart.md) — Economist behind Goodhart's Law, used by Planet Money to explain measurement targets and metric gaming.
+- [C. Northcote Parkinson](entities/CNorthcoteParkinson.md) — Writer behind Parkinson's Law and the deadline-expansion branch of the office-laws episode.
+- [Meng Zhu](entities/MengZhu.md) — Researcher explaining evidence and remedies around Parkinson's Law and deadline design.
+- [Lawrence J. Peter](entities/LawrenceJPeter.md) — Writer associated with the Peter Principle and promotion mismatch in hierarchies.
+- [Stephanie Byrne](entities/StephanieByrne.md) — Workplace case whose self-demotion illustrates escaping the Peter Principle.
+- [Alice Evans](entities/AliceEvans.md) — Social-change researcher explaining truthful social proof and visible norm change.
+- [Innovations for Poverty Action](entities/InnovationsForPovertyAction.md) — Research organization in the Uganda truthful-social-proof campaign example.
 - [Heated Rivalry](entities/HeatedRivalry.md) — Canadian romance series used by Planet Money to explain financing, producer-owned IP, fan merchandise demand, and streaming distribution.
 - [Jacob Tierney](entities/JacobTierney.md) — Heated Rivalry creator and director connecting collaborative production discipline to budget control and human creative judgment.
 - [Brendan Brady](entities/BrendanBrady.md) — Heated Rivalry creator explaining the financing stack, retained IP, merchandise upside, and underserved romance audience.
@@ -4022,6 +4030,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Workplace Incentive Design](concepts/WorkplaceIncentiveDesign.md) — Frame for how workplace metrics, deadlines, promotions, and visible norms shape behavior.
+- [Goodhart's Law](concepts/GoodhartsLaw.md) — Measurement failure pattern where a metric loses usefulness once it becomes a target.
+- [Workplace Metric Gaming](concepts/WorkplaceMetricGaming.md) — Behavior pattern where workers optimize a visible metric rather than the underlying service or outcome.
+- [Parkinson's Law](concepts/ParkinsonsLaw.md) — Deadline pattern where work expands to fill the time allotted, with constraints as a possible remedy.
+- [Peter Principle](concepts/PeterPrinciple.md) — Promotion mismatch pattern where people rise into roles that no longer fit their strengths.
+- [Truthful Social Proof](concepts/TruthfulSocialProof.md) — Norm-change mechanism where people shift behavior after seeing real evidence that others are changing too.
+- [Recognition Incentives](concepts/RecognitionIncentives.md) — Non-monetary motivation pattern where visible appreciation makes helpful effort socially valued.
 - [Canadian Television Financing](concepts/CanadianTelevisionFinancing.md) — Funding stack combining license fees, tax credits, subsidies, grants, distribution advances, and producer reinvestment.
 - [Producer-Owned IP Upside](concepts/ProducerOwnedIPUpside.md) — Incentive tradeoff where creators accept lower upfront economics to retain rights, merchandise value, and future upside.
 - [Constraint-Driven Media Production](concepts/ConstraintDrivenMediaProduction.md) — Production model where budget limits require finished scripts, block shooting, shorter days, and collaborative problem solving.
