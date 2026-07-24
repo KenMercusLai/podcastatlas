@@ -2,8 +2,8 @@
 title: "Housing Affordability Supply Mechanics"
 type: concept
 tags: [housing, economics, affordability, supply]
-sources: [building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128, can-transforming-neighborhoods-help-kids-escape-poverty]
+last_updated: 2026-07-24
 ---
 
 # Housing Affordability Supply Mechanics
@@ -16,12 +16,15 @@ The concept spans both halves of the episode. [[InstitutionalSingleFamilyRental]
 
 [[tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128]] adds a disaster-rebuilding angle through [[CrossLaminatedTimber]] and [[FireResilientConstruction]]. [[DavidBrancaccio]] argues that if framing can be compressed through off-site manufactured panels, a neighborhood may rebuild faster after wildfire, though the source leaves costs, permitting, insurance, and broad accessibility unresolved.
 
+[[can-transforming-neighborhoods-help-kids-escape-poverty]] adds a public-housing replacement caution. [[HOPEVIProgram|HOPE VI]] may have improved adult outcomes for children who grew up in successful revitalized sites, but the episode also says the program demolished almost 100,000 public-housing units and rebuilt only about 55,000. That makes [[PublicHousingDisplacement]] part of the supply mechanics, not only a separate social harm.
+
 ## Key Claims
 - Low construction and low interest rates are named as larger national price drivers than institutional home purchases.
 - Cheap housing forms matter; losing SROs removed a rung of the housing ladder.
 - Repair financing, build-to-rent construction, and minimum housing standards can all affect supply.
 - Supply-focused analysis does not deny landlord behavior or resident experience; it asks which mechanism is large enough to move affordability.
 - Post-disaster affordability depends on rebuilding speed and labor efficiency as well as the final material cost of any one house.
+- Public-housing revitalization must count replacement depth and displaced families alongside any opportunity gains for children who remain.
 
 ## Connections
 - [[CorporateLandlordTradeoffs]] - corporate-ownership branch.
@@ -30,3 +33,4 @@ The concept spans both halves of the episode. [[InstitutionalSingleFamilyRental]
 - [[SROLossAndHomelessness]] - affordability failure when very-low-cost rooms disappear.
 - [[ChinaRealEstateDebtCycle]] and [[BuildBuildRegulate]] - overbuilding and guardrail branch added by the China comparison.
 - [[CrossLaminatedTimber]], [[FireResilientConstruction]], and [[NateFoster]] - off-site mass-timber speed branch added by Marketplace Tech.
+- [[HOPEVIProgram]], [[PublicHousingDisplacement]], and [[NeighborhoodOpportunityRevitalization]] - public-housing replacement branch added by Planet Money.

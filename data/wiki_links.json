@@ -3835,6 +3835,10 @@
     "title": "Cambricon / 寒武纪",
     "url": "/wiki/entities/cambricon/"
   },
+  "CambridgePlaza": {
+    "title": "Cambridge Plaza",
+    "url": "/wiki/entities/cambridgeplaza/"
+  },
   "CamiloDurana": {
     "title": "Camilo Durana",
     "url": "/wiki/entities/camilodurana/"
@@ -4010,6 +4014,10 @@
   "CarlyUrban": {
     "title": "Carly Urban",
     "url": "/wiki/entities/carlyurban/"
+  },
+  "CarolNaughton": {
+    "title": "Carol Naughton",
+    "url": "/wiki/entities/carolnaughton/"
   },
   "CarolReedy": {
     "title": "Carol Reedy",
@@ -5458,6 +5466,10 @@
   "CrossBorderWealthManagementConnect": {
     "title": "Cross-Border Wealth Management Connect",
     "url": "/wiki/concepts/crossborderwealthmanagementconnect/"
+  },
+  "CrossClassSocialCapital": {
+    "title": "Cross-Class Social Capital",
+    "url": "/wiki/concepts/crossclasssocialcapital/"
   },
   "CrossCulturalAssistedDeathEthics": {
     "title": "Cross-Cultural Assisted Death Ethics",
@@ -7431,6 +7443,10 @@
     "title": "Exploration To Extraction Pipeline",
     "url": "/wiki/concepts/explorationtoextractionpipeline/"
   },
+  "ExposureDosageCausality": {
+    "title": "Exposure-Dosage Causality",
+    "url": "/wiki/concepts/exposuredosagecausality/"
+  },
   "ExternalPatronDependence": {
     "title": "External Patron Dependence",
     "url": "/wiki/concepts/externalpatrondependence/"
@@ -9310,6 +9326,10 @@
   "HOKA": {
     "title": "HOKA",
     "url": "/wiki/entities/hoka/"
+  },
+  "HOPEVIProgram": {
+    "title": "HOPE VI Program",
+    "url": "/wiki/entities/hopeviprogram/"
   },
   "HPInc": {
     "title": "HP Inc.",
@@ -13619,6 +13639,10 @@
     "title": "Matt Smith",
     "url": "/wiki/entities/mattsmith/"
   },
+  "MattSteger": {
+    "title": "Matt Steger",
+    "url": "/wiki/entities/mattsteger/"
+  },
   "MatterGen": {
     "title": "MatterGen",
     "url": "/wiki/entities/mattergen/"
@@ -14170,6 +14194,10 @@
   "MitsumiElectric": {
     "title": "三美电机",
     "url": "/wiki/entities/mitsumielectric/"
+  },
+  "MixedIncomeHousing": {
+    "title": "Mixed-Income Housing",
+    "url": "/wiki/concepts/mixedincomehousing/"
   },
   "MixedStrategy": {
     "title": "Mixed Strategy",
@@ -14750,6 +14778,10 @@
   "NeighborhoodOpportunityAccess": {
     "title": "Neighborhood Opportunity Access",
     "url": "/wiki/concepts/neighborhoodopportunityaccess/"
+  },
+  "NeighborhoodOpportunityRevitalization": {
+    "title": "Neighborhood Opportunity Revitalization",
+    "url": "/wiki/concepts/neighborhoodopportunityrevitalization/"
   },
   "NeihanDuanzi": {
     "title": "Neihan Duanzi",
@@ -16139,6 +16171,10 @@
     "title": "Pirate Wires",
     "url": "/wiki/entities/piratewires/"
   },
+  "PlaceBasedAntiPovertyPolicy": {
+    "title": "Place-Based Anti-Poverty Policy",
+    "url": "/wiki/concepts/placebasedantipovertypolicy/"
+  },
   "PlaceBasedFiction": {
     "title": "Place-Based Fiction",
     "url": "/wiki/concepts/placebasedfiction/"
@@ -16783,6 +16819,10 @@
     "title": "Public Fundraising Pitch",
     "url": "/wiki/concepts/publicfundraisingpitch/"
   },
+  "PublicHousingDisplacement": {
+    "title": "Public Housing Displacement",
+    "url": "/wiki/concepts/publichousingdisplacement/"
+  },
   "PublicIllnessWriting": {
     "title": "Public Illness Writing",
     "url": "/wiki/concepts/publicillnesswriting/"
@@ -17078,6 +17118,10 @@
   "RahulBanerjee": {
     "title": "Rahul Banerjee",
     "url": "/wiki/entities/rahulbanerjee/"
+  },
+  "RajChetty": {
+    "title": "Raj Chetty",
+    "url": "/wiki/entities/rajchetty/"
   },
   "RajivMotwani": {
     "title": "Rajiv Motwani",
@@ -17578,6 +17622,10 @@
   "RichAberman": {
     "title": "Rich Aberman",
     "url": "/wiki/entities/richaberman/"
+  },
+  "RichardAllenHomes": {
+    "title": "Richard Allen Homes",
+    "url": "/wiki/entities/richardallenhomes/"
   },
   "RichardBranson": {
     "title": "Richard Branson",
@@ -21955,6 +22003,10 @@
     "title": "Weird Tales / 诡丽幻谭",
     "url": "/wiki/entities/weirdtales/"
   },
+  "WeissinaWilliams": {
+    "title": "Weissina Williams",
+    "url": "/wiki/entities/weissinawilliams/"
+  },
   "WellingtonManagement": {
     "title": "Wellington Management",
     "url": "/wiki/entities/wellingtonmanagement/"
@@ -23322,6 +23374,10 @@
   "can-the-trump-administration-make-college-cheaper": {
     "title": "Can the Trump administration make college cheaper?",
     "url": "/wiki/sources/can-the-trump-administration-make-college-cheaper/"
+  },
+  "can-transforming-neighborhoods-help-kids-escape-poverty": {
+    "title": "Can transforming neighborhoods help kids escape poverty?",
+    "url": "/wiki/sources/can-transforming-neighborhoods-help-kids-escape-poverty/"
   },
   "can-world-cup-mania-grow-mls-in-the-us": {
     "title": "Can World Cup mania grow MLS in the U.S.?",

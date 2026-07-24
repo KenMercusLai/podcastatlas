@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Can transforming neighborhoods help kids escape poverty?](sources/can-transforming-neighborhoods-help-kids-escape-poverty.md) — Planet Money episode on HOPE VI, Richard Allen Homes, Raj Chetty's neighborhood-opportunity research, mixed-income redesign, cross-class social capital, and displacement limits.
 - [Why are we so obsessed with manufacturing?](sources/why-are-we-so-obsessed-with-manufacturing.md) — Planet Money episode on U.S. manufacturing jobs, pay premiums, workforce pipelines, strategic reshoring, regional multipliers, and why the broader goal is good jobs for non-college workers.
 - [Vol.112 一次非共识的2024反思和2025展望 | 对话蓝小康X牟一凌](sources/vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv.md) — 起朱楼宴宾客 episode with 蓝小康 and 牟一凌 on 2024 market reflection, Trump 2.0, China supply clearing, labor-share consumption repair, SOE valuation, Belt and Road demand, and active management.
 - [EP268 毛冬x唐唐：大黄，你到底咋了！上蹿下跳的黄金和那些绝不下车的人](sources/ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv.md) — Talk三联 episode with 毛冬, 唐涛/唐唐, 吴淑冰, and 莫晨 on gold drawdowns, household gold savings, online gold accumulation, gifts, liquidity, allocation, and no-leverage risk discipline.
@@ -564,6 +565,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Raj Chetty](entities/RajChetty.md) — Economist whose HOPE VI evidence links neighborhood context, public-housing revitalization, and children's adult mobility outcomes.
+- [Matt Steger](entities/MattSteger.md) — Economist explaining the HOPE VI study's selection-bias, exposure, dosage, and sibling-comparison logic.
+- [Carol Naughton](entities/CarolNaughton.md) — Housing-policy voice whose observation about successful HOPE VI sites near affluent areas helps identify the social-integration mechanism.
+- [Weissina Williams](entities/WeissinaWilliams.md) — Richard Allen Homes resident whose family story grounds the Planet Money episode's HOPE VI case.
+- [HOPE VI Program](entities/HOPEVIProgram.md) — Federal public-housing revitalization program used as evidence for child mobility gains and as a warning about displacement.
+- [Richard Allen Homes](entities/RichardAllenHomes.md) — North Philadelphia public-housing development used to show the shift from isolated projects to redesigned mixed-income housing.
+- [Cambridge Plaza](entities/CambridgePlaza.md) — North Philadelphia tower demolition case that opens the HOPE VI episode and makes redevelopment disruption visible.
 - [Harry Moser](entities/HarryMoser.md) — Reshoring Initiative voice in the manufacturing episode, grounding the strategic domestic-production argument.
 - [Reshoring Initiative](entities/ReshoringInitiative.md) — Organization used in the episode to represent the case for bringing strategic goods production back domestically.
 - [Gordon Hansen](entities/GordonHansen.md) — Economist in the episode who frames manufacturing as historically wage-premium work while warning the broader problem is too few good non-college jobs.
@@ -3782,6 +3790,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Neighborhood Opportunity Revitalization](concepts/NeighborhoodOpportunityRevitalization.md) — Place-based anti-poverty idea that revitalizing or reconnecting a neighborhood can improve children's outcomes when it creates real opportunity access.
+- [Mixed-Income Housing](concepts/MixedIncomeHousing.md) — Housing strategy that mixes income levels, useful only when design and occupancy create real cross-class interaction.
+- [Cross-Class Social Capital](concepts/CrossClassSocialCapital.md) — Opportunity value created when low-income children build ties with higher-income peers, families, and institutions.
+- [Exposure-Dosage Causality](concepts/ExposureDosageCausality.md) — Research logic using years of exposure and sibling comparisons to strengthen causal claims about place-based policy.
+- [Public Housing Displacement](concepts/PublicHousingDisplacement.md) — Policy harm created when redevelopment reduces public-housing units or pushes residents out of access.
+- [Place-Based Anti-Poverty Policy](concepts/PlaceBasedAntiPovertyPolicy.md) — Strategy of improving local environments, institutions, and social contact rather than relying only on relocation or individual services.
 - [Manufacturing Pay Premium](concepts/ManufacturingPayPremium.md) — Wage advantage manufacturing can offer relative to some service jobs, especially for non-college workers, with strong industry variation.
 - [Manufacturing Job Quality](concepts/ManufacturingJobQuality.md) — Frame separating factory pay from working conditions, schedules, safety, monotony, and advancement.
 - [Good Jobs For Non-College Workers](concepts/GoodJobsForNonCollegeWorkers.md) — Broader labor-policy target that the episode argues should not be reduced to manufacturing alone.
