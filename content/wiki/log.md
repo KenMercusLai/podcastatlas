@@ -4723,3 +4723,11 @@ Added source page for a Planet Money episode on AI bubble detection, Nvidia valu
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 6,484 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while lint scanned 6,484 pages; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` or provider API key is configured in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-24] ingest | Chevron, Venezuela and the Paradox of Plenty
+
+Added source page for a Planet Money episode on Chevron's long presence in Venezuela, the 1922 Lake Maracaibo oil discovery, Dutch disease, oil concession bargaining, OPEC, 1976 oil nationalization, PDVSA, Chavez-era control, Maduro-era sanctions and licensing, and Terry Karl's political resource curse frame. Created pages for Chevron, PDVSA, Terry Karl, Miguel Tinker Salas, Juan Pablo Perez Alfonso, Lake Maracaibo, Creole Petroleum, ConocoPhillips, Petrostate, Dutch Disease, Political Resource Curse, Oil Nationalization, Oil Company Enclave, and Oil Concession Bargaining; updated overview, index, NPR, Planet Money, Venezuela, Hugo Chavez, Nicolas Maduro, OPEC, Oil Revenue Dependence, Oil Producer Supply Coordination, ExxonMobil, United States, and Donald Trump. No direct contradiction found; the source extends the existing Venezuela branch backward from Chavez-era exchange controls into a century of oil discovery, foreign concessions, nationalization, corporate continuity, and governance-dependent resource outcomes.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

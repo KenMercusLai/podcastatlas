@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Chevron, Venezuela and the Paradox of Plenty](sources/chevron-venezuela-and-the-paradox-of-plenty.md) — Planet Money episode on Chevron in Venezuela, Lake Maracaibo, Dutch disease, OPEC, oil nationalization, PDVSA, sanctions, and Terry Karl's political resource curse.
 - [So are we in an AI bubble? Here are clues to look for.](sources/so-are-we-in-an-ai-bubble-here-are-clues-to-look-for.md) — Planet Money episode on AI bubble detection, Nvidia valuation, Greenwood's statistical indicators, Fama's market-efficiency challenge, and lean-versus-clean bubble policy.
 - [How Black hair care grew Black power](sources/how-black-hair-care-grew-black-power.md) — Planet Money episode on Johnson Products, George and Joan Johnson, Black hair-care ownership, Afro Sheen, Soul Train sponsorship, public-listing control tradeoffs, and larger beauty-company competition.
 - [Venezuela's recent economic history (Update)](sources/venezuelas-recent-economic-history-update.md) — Planet Money episode on Venezuela's oil revenue dependence, Chavez-era currency controls, import bottlenecks, Maduro's oil-price shock, sanctions, hyperinflation, migration, and unequal dollarized stabilization.
@@ -588,6 +589,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Chevron](entities/Chevron.md) — American oil major whose decision to stay in Venezuela anchors the episode's long petrostate, sanctions, and corporate-continuity story.
+- [PDVSA](entities/PDVSA.md) — Venezuelan state oil company created by 1976 nationalization and later used to show how state control can preserve rents while weakening oil governance.
+- [Terry Karl](entities/TerryKarl.md) — Political economist whose petrostate and political resource curse framing explains why oil outcomes depend on institutions and leadership.
+- [Miguel Tinker Salas](entities/MiguelTinkerSalas.md) — Historian whose Caripito oil-camp account grounds the episode's company-enclave and inequality branch.
+- [Juan Pablo Perez Alfonso](entities/JuanPabloPerezAlfonso.md) — Venezuelan oil minister tied to the 50-50 revenue bargain, OPEC coordination, and the "devil's excrement" warning.
+- [Lake Maracaibo](entities/LakeMaracaibo.md) — Venezuelan oil-discovery site where the 1922 gusher begins the episode's petrostate origin story.
+- [Creole Petroleum](entities/CreolePetroleum.md) — Oil company whose Caripito camp illustrates U.S.-style oil enclaves and hierarchy in Venezuela.
+- [ConocoPhillips](entities/ConocoPhillips.md) — American oil major contrasted with Chevron because it left Venezuela after Chavez-era state control and still claims asset-taking losses.
 - [Robin Greenwood](entities/RobinGreenwood.md) — Harvard Business School professor whose bubble research gives the episode its high-valuation, volatility, issuance, and acceleration checklist.
 - [Eugene Fama](entities/EugeneFama.md) — Market-efficiency economist used as the skeptical challenge to whether bubbles can be reliably identified before they turn.
 - [Gadi Barlevy](entities/GadiBarlevy.md) — Chicago Fed economist explaining lean-versus-clean bubble policy, leverage transmission, and possible productive bubble spillovers.
@@ -601,8 +610,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Afro Sheen](entities/AfroSheen.md) — Johnson Products moisturizer for afros, tying natural hair, Black pride, and national media advertising together.
 - [Ultra Wave](entities/UltraWave.md) — Early Johnson Products straightener that converted a local barbershop formula problem into a reliable commercial product.
 - [Martin Luther King Jr.](entities/MartinLutherKingJr.md) — Civil-rights leader whose organization received payroll-support financing from Independence Bank in the Planet Money source.
-- [Hugo Chavez](entities/HugoChavez.md) — Venezuelan leader whose oil-funded spending, Citgo diplomacy, and post-2003 exchange controls frame the source's boom-to-trap story.
-- [Nicolas Maduro](entities/NicolasMaduro.md) — Chavez successor in the source, inheriting currency controls and oil dependence as prices collapsed and sanctions intensified.
+- [Hugo Chavez](entities/HugoChavez.md) — Venezuelan leader whose oil-funded spending, PDVSA control, Citgo diplomacy, and post-2003 exchange controls frame the boom-to-trap story.
+- [Nicolas Maduro](entities/NicolasMaduro.md) — Chavez successor inheriting oil dependence, currency controls, sanctions, and Chevron's license-era operating negotiations.
 - [Alejandro Velasco](entities/AlejandroVelasco.md) — Venezuela expert explaining the emergency-to-trap exchange-rate system and later dollarized stabilization.
 - [Alex Rosenberg](entities/AlexRosenberg.md) — Importer whose stalled fabric imports show how official dollar approval became a business and medical-supply bottleneck.
 - [Citgo](entities/Citgo.md) — Venezuelan state-owned oil company used in the source as Chavez's discounted U.S. heating-oil outreach vehicle.
@@ -1331,7 +1340,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Richard Thaler](entities/RichardThaler.md) — Behavioral economist used by episode 155 to explain mental accounting and asymmetric valuation of risk, compensation, and loss.
 - [Tom Cohen](entities/TomCohen.md) — MIT source who frames U.S. paid vacation as a missed political window and employer-bargained benefit.
 - [American Federation of Labor](entities/AmericanFederationOfLabor.md) — Union federation invoked as part of the U.S. private-bargaining path for vacation and other benefits.
-- [OPEC](entities/OPEC.md) — Oil-producing-state organization used by Planet Money to explain producer supply coordination, quotas, Saudi swing production, and UAE exit pressure.
+- [OPEC](entities/OPEC.md) — Oil-producing-state organization tied to Perez Alfonso's Venezuela-centered coordination push, producer quotas, Saudi swing production, and UAE exit pressure.
 - [Seven Sisters Oil Majors](entities/SevenSistersOilMajors.md) — Major Western oil-company group whose late-1950s pricing and concession power triggered producer-country coordination in the OPEC episode.
 - [Saudi Arabia](entities/SaudiArabia.md) — Oil-producing country framed by the OPEC episode as founder, swing producer, quota enforcer, and UAE quota-dispute counterpart.
 - [Wanda Jablonski](entities/WandaJablonski.md) — Oil journalist whose reporting and relationships helped producer countries understand Seven Sisters power before OPEC formed.
@@ -2886,7 +2895,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [BP](entities/BP.md) — European oil major used as a case for large hidden energy-trading profits and physical-market information advantage.
 - [Shell](entities/Shell.md) — European oil major whose trading arm illustrates how logistics, storage, and market intelligence can generate profits beyond production.
 - [TotalEnergies](entities/TotalEnergies.md) — European oil major included in the episode's estimate of large trading volumes and profits.
-- [ExxonMobil](entities/ExxonMobil.md) — American oil major trying to catch up with European energy-trading desks.
+- [ExxonMobil](entities/ExxonMobil.md) — American oil major used both as a European energy-trading catch-up case and as a Venezuela exit contrast with Chevron.
 - [ADNOC](entities/ADNOC.md) — National oil company used as a new entrant trying to build energy-trading capacity.
 - [Harry Styles](entities/HarryStyles.md) — Megastar example for long-run, few-city concert touring and residency economics.
 - [Crimea](entities/Crimea.md) — Peninsula framed as both Black Sea military base and symbolic target in Ukraine's war visibility strategy.
@@ -2978,7 +2987,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tocqueville Road Trip](entities/TocquevilleRoadTrip.md) — Economist podcast series retracing Tocqueville's U.S. journey to ask whether Democracy in America still explains the country.
 - [Alexis de Tocqueville](entities/AlexisDeTocqueville.md) — French observer whose 1831 U.S. journey and Democracy in America provide the trailer's interpretive lens.
 - [John Prideaux](entities/JohnPrideaux.md) — Economist host using Tocqueville's route to interview Americans about whether the national democratic idea still holds.
-- [Venezuela](entities/Venezuela.md) — Country case where earthquake response exposes state-capacity decay, public anger, U.S. recovery responsibility, and transition-timetable risk.
+- [Venezuela](entities/Venezuela.md) — Country case spanning petrostate formation, oil nationalization, Chavez/Maduro collapse, sanctions, earthquake-response capacity, stablecoins, and Cuba's oil dependence.
 - [Delcy Rodriguez](entities/DelcyRodriguez.md) — Venezuelan regime figure whose aid-distribution role becomes a legitimacy test after the earthquakes.
 - [Maria Corina Machado](entities/MariaCorinaMachado.md) — Venezuelan opposition leader whose attempted return could complicate the Rodriguez-led transition arrangement.
 - [Haley Salmon](entities/HaleySalmon.md) — The Intelligence correspondent explaining Venezuela's first-48-hours rescue failure and public anger.
@@ -3019,7 +3028,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Stop Killing Games](entities/StopKillingGames.md) — Player-rights movement referenced as context for service shutdown, deletion, and game-preservation concerns.
 - [朱宁 / Zhu Ning](entities/ZhuNing.md) — Economist and behavioral-finance scholar explaining bubble conditions, AI valuation risk, and consequence-first investing discipline.
 - [42章经](entities/42Zhangjing.md) — Podcast/show context for interviews on investing bubbles, PingCAP infrastructure, AI application pivots, and EVE-style AI companionship.
-- [United States](entities/UnitedStates.md) — Country and institutional context spanning democratic resilience, geopolitics, frontier-model review, open-model substitution, and industrial gaps.
+- [United States](entities/UnitedStates.md) — Country and institutional context spanning democratic resilience, geopolitics, Venezuela oil sanctions and licenses, frontier-model review, open-model substitution, and industrial gaps.
 - [United States Constitution](entities/UnitedStatesConstitution.md) — Constitutional document treated as patched institutional code behind impeachment, separation of powers, and the 25th Amendment.
 - [Supreme Court](entities/SupremeCourt.md) — U.S. judicial institution used in the America-at-250 source as both democratic guardrail and possible executive-power precedent maker.
 - [Cass Sunstein](entities/CassSunstein.md) — Legal scholar whose impeachment framework treats removal as constitutional repair rather than ordinary punishment or partisan dissatisfaction.
@@ -3239,9 +3248,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dark Matter Labs](entities/DarkMatterLabs.md) — Organization associated with Johar's institutional-design work on governance, finance, and systems change.
 - [Long Now](entities/LongNow.md) — Long-term-thinking organization hosting talks on AI materiality, civilizational optioneering, informed optimism, ocean memory, institutional design, and neural geometry.
 - [James Lovelock](entities/JamesLovelock.md) — Thinker referenced through Novacene to anchor the source's planetary self-awareness frame.
-- [NPR](entities/NPR.md) — Public media organization connected to the wiki through a funding appeal and Planet Money reporting on tree-law, Iran-sanctions, Fast 16 cybersecurity, subprime auto repossession, and Fed independence episodes.
+- [NPR](entities/NPR.md) — Public media organization connected to the wiki through a funding appeal and Planet Money reporting on Chevron/Venezuela oil history, sanctions, public policy, markets, and consumer cases.
 - [Katherine Maher](entities/KatherineMaher.md) — NPR CEO voicing the appeal and linking public-media funding to local reporting, rural access, and donations.
-- [Planet Money](entities/PlanetMoney.md) — NPR economics podcast feed now covering public-media funding, tree ordinances, Iran sanctions, Fast 16 cyber sabotage, political profit accounting, subprime auto repossession, and Fed independence.
+- [Planet Money](entities/PlanetMoney.md) — NPR economics podcast feed now covering Chevron/Venezuela oil history, AI bubbles, Black hair care, sanctions, public policy, markets, and consumer cases.
 - [1A](entities/1A.md) — WAMU/NPR public-affairs podcast promoted through the If You Can Keep It political series.
 - [WAMU](entities/WAMU.md) — Public-radio organization named with NPR in the 1A promo.
 - [Jen White](entities/JenWhite.md) — 1A host voice promoting If You Can Keep It.
@@ -3701,7 +3710,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [DeepSeek](entities/DeepSeek.md) — Chinese open-source model effort cited through Qwen comparison, pricing substitution, market repricing, cost-control, export-control context, and Luo Fuli's earlier background.
 - [Deerflow](entities/Deerflow.md) — Open-source deep-research and desktop-workflow project discussed through AI coding, Chinese models, community governance, and multimodal work.
 - [Devin](entities/Devin.md) — Cognition coding-agent product discussed through the Windsurf acquisition context.
-- [Donald Trump](entities/DonaldTrump.md) — U.S. political figure used as a market-policy variable, political-influence monetization case, NATO alliance shock, Colombia security-politics endorser, Donroe Doctrine investment catalyst, Apple counterparty, executive-power precedent test, and Fed-independence pressure actor.
+- [Donald Trump](entities/DonaldTrump.md) — U.S. political figure used as a market-policy variable, Venezuela oil-reopening actor, political-influence monetization case, alliance shock, executive-power precedent test, and Fed-independence pressure actor.
 - [Doubao](entities/Doubao.md) — ByteDance AI assistant and model context used for Chinese consumer AI subscriptions, voice fit, and Doubao Seed's AI-for-math signal.
 - [EOS Worldwide](entities/EOSWorldwide.md) — Methodology and coaching organization behind the EOS ecosystem that shaped Ninety's early product and channel.
 - [EarthKit](entities/EarthKit.md) — Jie Dechen's multimodal project for inferring photo locations, mentioned as background before Paperboy.
@@ -3946,6 +3955,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Petrostate](concepts/Petrostate.md) — State whose economy and public finances are built around oil, with Venezuela as the episode's core case.
+- [Dutch Disease](concepts/DutchDisease.md) — Commodity-boom mechanism where oil inflows strengthen the currency and crowd out other export sectors.
+- [Political Resource Curse](concepts/PoliticalResourceCurse.md) — Terry Karl's governance frame that oil becomes blessing or curse through institutions, leadership, and corporate choices.
+- [Oil Nationalization](concepts/OilNationalization.md) — State-control turn in which Venezuela created PDVSA and converted foreign oil companies into stricter contractors.
+- [Oil Company Enclave](concepts/OilCompanyEnclave.md) — Company-town pattern where oil firms build modern infrastructure while preserving labor and status hierarchy.
+- [Oil Concession Bargaining](concepts/OilConcessionBargaining.md) — Host-state negotiation pattern moving from foreign concessions to revenue sharing, nationalization, and producer coordination.
 - [Statistical Bubble Indicators](concepts/StatisticalBubbleIndicators.md) — Greenwood's four-signal bubble checklist: high valuation, volatility, issuance, and acceleration.
 - [Lean Versus Clean Bubble Policy](concepts/LeanVersusCleanBubblePolicy.md) — Policy debate over leaning against a suspected bubble before it bursts or cleaning up after the crash.
 - [Productive Bubble Spillovers](concepts/ProductiveBubbleSpillovers.md) — Silver-lining theory that some bubbles can leave reusable infrastructure, R&D, or knowledge behind after investors overpay.
@@ -3954,7 +3969,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Public Listing Control Tradeoff](concepts/PublicListingControlTradeoff.md) — Going-public tradeoff where capital, liquidity, and legitimacy come with board pressure and competitor-visible disclosure.
 - [Currency Control Trap](concepts/CurrencyControlTrap.md) — Emergency exchange-rate control pattern that becomes a long-term source of black-market arbitrage, import shortages, inflation, and policy avoidance.
 - [Dollarized Stabilization](concepts/DollarizedStabilization.md) — Partial recovery pattern where U.S. dollars restore some transactions and planning after currency collapse while increasing inequality by dollar access.
-- [Oil Revenue Dependence](concepts/OilRevenueDependence.md) — Country-level vulnerability where state spending, imports, and currency support depend heavily on oil income.
+- [Oil Revenue Dependence](concepts/OilRevenueDependence.md) — Country-level vulnerability where state spending, imports, currency support, and productive diversity depend heavily on oil income.
 - [Import Approval Bottleneck](concepts/ImportApprovalBottleneck.md) — Shortage mechanism where firms need state permission and official dollars before they can pay foreign suppliers and import goods.
 - [Consumer Sentiment Indicator](concepts/ConsumerSentimentIndicator.md) — Survey-based household mood signal used to explain 2025 anxiety despite other hard economic data.
 - [Effective Tariff Rate Shock](concepts/EffectiveTariffRateShock.md) — 2025 tariff-rate jump framed as a consumer-price, market-volatility, and legal-authority event.
@@ -4488,7 +4503,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Biodegradable Amazon Plastics](concepts/BiodegradableAmazonPlastics.md) — Tutiplast example of turning Amazon plant waste into material-science innovation rooted in local inputs.
 - [Paid Vacation As Labor Right](concepts/PaidVacationAsLaborRight.md) — Legal paid-time-off baseline contrasted with the U.S. system of employer-dependent vacation access.
 - [Employer-Bargained Benefits](concepts/EmployerBargainedBenefits.md) — U.S. benefits architecture where vacation, pensions, and health insurance are negotiated rather than universalized.
-- [Oil Producer Supply Coordination](concepts/OilProducerSupplyCoordination.md) — Mechanism by which oil-producing states influence prices by coordinating output rather than directly setting retail fuel prices.
+- [Oil Producer Supply Coordination](concepts/OilProducerSupplyCoordination.md) — Mechanism by which oil-producing states coordinate output and bargaining power rather than directly setting retail fuel prices.
 - [Production Quota Discipline](concepts/ProductionQuotaDiscipline.md) — Incentive problem of keeping oil producers inside agreed output limits when cheating can be individually attractive.
 - [Swing Producer Role](concepts/SwingProducerRole.md) — Stabilizing oil-market role where a producer such as Saudi Arabia adjusts output to absorb price pressure and enforce discipline.
 - [Green Paradox](concepts/GreenParadox.md) — Incentive for fossil-fuel producers to pump sooner if future decarbonization may reduce long-run demand.

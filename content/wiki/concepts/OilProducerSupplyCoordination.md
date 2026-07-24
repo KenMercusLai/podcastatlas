@@ -2,11 +2,13 @@
 title: "Oil Producer Supply Coordination"
 type: concept
 tags: [energy, oil, economics, geopolitics]
-sources: [the-secret-meeting-that-launched-opec]
+sources: [chevron-venezuela-and-the-paradox-of-plenty, the-secret-meeting-that-launched-opec]
 last_updated: 2026-07-18
 ---
 
 # Oil Producer Supply Coordination
+
+[[chevron-venezuela-and-the-paradox-of-plenty]] adds the domestic bargaining path into supply coordination. The source presents [[JuanPabloPerezAlfonso]]'s 50-50 agreement and later role in [[OPEC]] as steps from [[OilConcessionBargaining]] with foreign companies toward producer states coordinating against price and revenue weakness.
 
 Oil producer supply coordination is the mechanism in [[the-secret-meeting-that-launched-opec]] by which producing states can influence oil prices by collectively deciding how much to pump. The episode uses [[OPEC]] to distinguish supply control from a simplistic view of price setting: the organization does not directly choose the retail price of gasoline, but coordinated output changes can move the commodity price that feeds into it.
 
@@ -16,6 +18,7 @@ Supply coordination is also unstable. It depends on [[ProductionQuotaDiscipline]
 
 ## Connections
 - [[OPEC]] - main source case.
+- [[JuanPabloPerezAlfonso]], [[Venezuela]], and [[OilConcessionBargaining]] - domestic bargaining-to-coordination branch added by the Chevron episode.
 - [[SevenSistersOilMajors]] - company-led predecessor power structure.
 - [[SaudiArabia]], [[UnitedArabEmirates|United Arab Emirates]], [[Venezuela]], and [[Iran]] - producer-state context.
 - [[ProductionQuotaDiscipline]], [[SwingProducerRole]], and [[GreenParadox]] - supporting mechanisms.

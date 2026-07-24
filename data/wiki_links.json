@@ -4555,6 +4555,10 @@
     "title": "Cheshire Cat / 柴郡猫",
     "url": "/wiki/entities/cheshirecat/"
   },
+  "Chevron": {
+    "title": "Chevron",
+    "url": "/wiki/entities/chevron/"
+  },
   "ChiangKaiShek": {
     "title": "Chiang Kai-shek / 蒋介石",
     "url": "/wiki/entities/chiangkaishek/"
@@ -5303,6 +5307,10 @@
     "title": "孔子 / Confucius",
     "url": "/wiki/entities/confucius/"
   },
+  "ConocoPhillips": {
+    "title": "ConocoPhillips",
+    "url": "/wiki/entities/conocophillips/"
+  },
   "ConscienceOverFaction": {
     "title": "Conscience Over Faction / 良知高于党派",
     "url": "/wiki/concepts/conscienceoverfaction/"
@@ -5650,6 +5658,10 @@
   "Creo": {
     "title": "Creo",
     "url": "/wiki/entities/creo/"
+  },
+  "CreolePetroleum": {
+    "title": "Creole Petroleum",
+    "url": "/wiki/entities/creolepetroleum/"
   },
   "Cresta": {
     "title": "Cresta",
@@ -7050,6 +7062,10 @@
   "Duoshan": {
     "title": "Duoshan",
     "url": "/wiki/entities/duoshan/"
+  },
+  "DutchDisease": {
+    "title": "Dutch Disease",
+    "url": "/wiki/concepts/dutchdisease/"
   },
   "DynamicBalancingRobotics": {
     "title": "Dynamic Balancing Robotics",
@@ -12123,6 +12139,10 @@
     "title": "Juan Andres Guerrero Saade",
     "url": "/wiki/entities/juanandresguerrerosaade/"
   },
+  "JuanPabloPerezAlfonso": {
+    "title": "Juan Pablo Perez Alfonso",
+    "url": "/wiki/entities/juanpabloperezalfonso/"
+  },
   "JuanSalvadorPenguin": {
     "title": "Juan Salvador / 胡安·萨尔瓦多",
     "url": "/wiki/entities/juansalvadorpenguin/"
@@ -12666,6 +12686,10 @@
   "LaiXinlu": {
     "title": "Lai Xinlu",
     "url": "/wiki/entities/laixinlu/"
+  },
+  "LakeMaracaibo": {
+    "title": "Lake Maracaibo",
+    "url": "/wiki/entities/lakemaracaibo/"
   },
   "LanShili": {
     "title": "Lan Shili / 兰世立",
@@ -14703,6 +14727,10 @@
     "title": "咪咕 / Migu",
     "url": "/wiki/entities/migu/"
   },
+  "MiguelTinkerSalas": {
+    "title": "Miguel Tinker Salas",
+    "url": "/wiki/entities/migueltinkersalas/"
+  },
   "MihuanChishu": {
     "title": "蜜獾吃书",
     "url": "/wiki/entities/mihuanchishu/"
@@ -15911,9 +15939,21 @@
     "title": "Ohayoo",
     "url": "/wiki/entities/ohayoo/"
   },
+  "OilCompanyEnclave": {
+    "title": "Oil Company Enclave",
+    "url": "/wiki/concepts/oilcompanyenclave/"
+  },
+  "OilConcessionBargaining": {
+    "title": "Oil Concession Bargaining",
+    "url": "/wiki/concepts/oilconcessionbargaining/"
+  },
   "OilDependencyBlackoutRisk": {
     "title": "Oil Dependency Blackout Risk",
     "url": "/wiki/concepts/oildependencyblackoutrisk/"
+  },
+  "OilNationalization": {
+    "title": "Oil Nationalization",
+    "url": "/wiki/concepts/oilnationalization/"
   },
   "OilPollutionWildlifeHarm": {
     "title": "Oil-Pollution Wildlife Harm",
@@ -16342,6 +16382,10 @@
   "PAWPatrol": {
     "title": "PAW Patrol",
     "url": "/wiki/entities/pawpatrol/"
+  },
+  "PDVSA": {
+    "title": "PDVSA",
+    "url": "/wiki/entities/pdvsa/"
   },
   "PGP": {
     "title": "PGP",
@@ -16807,6 +16851,10 @@
     "title": "Petr Cech",
     "url": "/wiki/entities/petrcech/"
   },
+  "Petrostate": {
+    "title": "Petrostate",
+    "url": "/wiki/concepts/petrostate/"
+  },
   "PewResearchCenter": {
     "title": "Pew Research Center",
     "url": "/wiki/entities/pewresearchcenter/"
@@ -17130,6 +17178,10 @@
   "PoliticalRegulatoryLeverage": {
     "title": "Political Regulatory Leverage",
     "url": "/wiki/concepts/politicalregulatoryleverage/"
+  },
+  "PoliticalResourceCurse": {
+    "title": "Political Resource Curse",
+    "url": "/wiki/concepts/politicalresourcecurse/"
   },
   "PoliticalShowTrial": {
     "title": "Political Show Trial",
@@ -21271,6 +21323,10 @@
     "title": "Tencent Weishi",
     "url": "/wiki/entities/tencentweishi/"
   },
+  "TerryKarl": {
+    "title": "Terry Karl",
+    "url": "/wiki/entities/terrykarl/"
+  },
   "Tesla": {
     "title": "Tesla",
     "url": "/wiki/entities/tesla/"
@@ -24426,6 +24482,10 @@
   "catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2": {
     "title": "Catalina Crunch: Krishna Kaliannan. From Homemade Keto Cocoa Puffs to Breakfast Aisle Breakthrough",
     "url": "/wiki/sources/catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2/"
+  },
+  "chevron-venezuela-and-the-paradox-of-plenty": {
+    "title": "Chevron, Venezuela and the Paradox of Plenty",
+    "url": "/wiki/sources/chevron-venezuela-and-the-paradox-of-plenty/"
   },
   "chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun": {
     "title": "除了石油和海峡，这届伊朗战争开始算计你的服务器了",

@@ -2,11 +2,13 @@
 title: "OPEC"
 type: entity
 tags: [organization, energy, oil, geopolitics]
-sources: [venezuelas-recent-economic-history-update, the-secret-meeting-that-launched-opec]
+sources: [chevron-venezuela-and-the-paradox-of-plenty, venezuelas-recent-economic-history-update, the-secret-meeting-that-launched-opec]
 last_updated: 2026-07-24
 ---
 
 # OPEC
+
+[[chevron-venezuela-and-the-paradox-of-plenty]] adds the Venezuela-centered prehistory behind OPEC. The episode says [[JuanPabloPerezAlfonso]] helped move [[Venezuela]] from bilateral [[OilConcessionBargaining]] toward producer-country coordination, joining Iran, Iraq, Saudi Arabia, and Kuwait to form OPEC so oil states would not simply compete against one another.
 
 OPEC appears in [[the-secret-meeting-that-launched-opec]] as the oil-producing-state organization created after producer countries saw the limits of company-controlled oil pricing under the [[SevenSistersOilMajors|Seven Sisters]]. The episode presents OPEC's origin as a bargaining response: states that supplied oil wanted more leverage over contracts, posted prices, and the distribution of value.
 
@@ -17,6 +19,7 @@ The source also makes OPEC structurally fragile. [[ProductionQuotaDiscipline]] i
 [[venezuelas-recent-economic-history-update]] adds OPEC from the dependent-producer side. The source says [[NicolasMaduro]] appealed to OPEC for help after oil prices collapsed in 2014, showing how a member state's domestic fiscal and currency system can become exposed when oil coordination does not preserve enough revenue.
 
 ## Connections
+- [[JuanPabloPerezAlfonso]] and [[OilConcessionBargaining]] - Venezuela-centered bargaining and coordination branch added by the Chevron source.
 - [[SevenSistersOilMajors]] - predecessor company power structure that OPEC pushed against.
 - [[WandaJablonski]] - journalist whose reporting and relationships helped producer officials understand the oil-company structure.
 - [[OilProducerSupplyCoordination]] - core market-power mechanism.

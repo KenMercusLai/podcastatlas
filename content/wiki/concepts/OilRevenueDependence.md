@@ -2,11 +2,13 @@
 title: "Oil Revenue Dependence"
 type: concept
 tags: [oil, macro, political-economy, commodity, development]
-sources: [venezuelas-recent-economic-history-update]
+sources: [chevron-venezuela-and-the-paradox-of-plenty, venezuelas-recent-economic-history-update]
 last_updated: 2026-07-24
 ---
 
 # Oil Revenue Dependence
+
+[[chevron-venezuela-and-the-paradox-of-plenty]] extends oil revenue dependence backward from the Chavez-era crisis into the origin of Venezuela's [[Petrostate]]. The source says the [[LakeMaracaibo]] discovery and later oil boom generated [[DutchDisease]], weakened coffee exports, funded state ambition, and made later [[OilNationalization]] and [[PDVSA]] control politically central.
 
 Oil revenue dependence is the country-level vulnerability in [[venezuelas-recent-economic-history-update]] where state spending, imports, and political support rely heavily on oil income. The episode presents [[Venezuela]] as a once relatively rich oil power whose government could fund social programs and cheap imports while oil prices were high.
 
@@ -21,6 +23,7 @@ The dependence became dangerous because oil money crowded out other buffers. The
 
 ## Connections
 - [[Venezuela]], [[HugoChavez]], and [[NicolasMaduro]] - source case and leadership sequence.
+- [[Petrostate]], [[DutchDisease]], [[OilNationalization]], [[PDVSA]], and [[PoliticalResourceCurse]] - long oil-history branch added by the Chevron episode.
 - [[OPEC]] and [[OilProducerSupplyCoordination]] - oil-market institution context.
 - [[CommodityPriceExposure]] - broader risk category extended by the country-level Venezuela case.
 - [[ImportApprovalBottleneck]] and [[CurrencyControlTrap]] - downstream failures after oil dollars dried up.

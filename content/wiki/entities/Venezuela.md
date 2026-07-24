@@ -2,11 +2,15 @@
 title: "Venezuela"
 type: entity
 tags: [country, politics, economics, oil, currency, disaster-response, crypto]
-sources: [venezuelas-recent-economic-history-update, dark-times-for-cubas-economic-experiment, the-secret-meeting-that-launched-opec, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b]
+sources: [chevron-venezuela-and-the-paradox-of-plenty, venezuelas-recent-economic-history-update, dark-times-for-cubas-economic-experiment, the-secret-meeting-that-launched-opec, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b]
 last_updated: 2026-07-24
 ---
 
 # Venezuela
+
+[[chevron-venezuela-and-the-paradox-of-plenty]] adds the long oil-history layer behind Venezuela's later collapse. The [[PlanetMoney]] episode traces the country from the 1922 [[LakeMaracaibo]] gusher through foreign concessions, [[DutchDisease]], [[OilConcessionBargaining]], [[OPEC]], [[OilNationalization]], and [[PDVSA]], making Venezuela an early [[Petrostate]] and a core [[PoliticalResourceCurse]] case in [[TerryKarl]]'s framing.
+
+The same source adds a corporate-continuity branch through [[Chevron]]. Venezuela's oil wealth brought infrastructure, jobs, and bargaining power, but [[MiguelTinkerSalas]]'s company-camp account shows the unequal [[OilCompanyEnclave]] side of that modernization. Later, [[HugoChavez]] tightened state control over the industry; [[ExxonMobil]] and [[ConocoPhillips]] left, while Chevron negotiated and stayed through [[NicolasMaduro]]'s sanctions-era operating constraints.
 
 [[venezuelas-recent-economic-history-update]] adds Venezuela's internal economic-collapse branch. The [[PlanetMoney]] episode traces how [[OilRevenueDependence]] under [[HugoChavez]], post-2003 exchange controls, and government dollar rationing became a [[CurrencyControlTrap]] once oil revenue fell. [[AlexRosenberg]]'s import case shows the resulting [[ImportApprovalBottleneck]], while [[NicolasMaduro]]'s period shows the policy response of multiple rates, money printing, and continued controls.
 
@@ -23,6 +27,9 @@ In the source, shortages of machinery, fuel, medical capacity, trained personnel
 [[dark-times-for-cubas-economic-experiment]] adds Venezuela as [[Cuba]]'s later oil lifeline after the [[SovietUnion]] collapsed. The episode says the 2000 arrangement sent Venezuelan oil to Cuba in exchange for Cuban services such as doctors, teachers, and sports coaches, then treats Venezuela's later decline and U.S. pressure on oil shipments as a key trigger for Cuba's [[OilDependencyBlackoutRisk]].
 
 ## Connections
+- [[Chevron]], [[PDVSA]], [[ExxonMobil]], and [[ConocoPhillips]] — oil-company and state-company branch added by the Chevron episode.
+- [[TerryKarl]], [[MiguelTinkerSalas]], [[JuanPabloPerezAlfonso]], and [[LakeMaracaibo]] — expert, historian, oil minister, and discovery site grounding the long oil-history branch.
+- [[Petrostate]], [[DutchDisease]], [[OilConcessionBargaining]], [[OilNationalization]], [[OilCompanyEnclave]], and [[PoliticalResourceCurse]] — new oil-economy concepts added by the source.
 - [[DelcyRodriguez]] — regime figure whose aid-distribution role is politically contested in the episode.
 - [[MariaCorinaMachado]] — opposition leader whose attempted return could sharpen transition tensions.
 - [[HaleySalmon]] — correspondent explaining the rescue failure and public anger.
