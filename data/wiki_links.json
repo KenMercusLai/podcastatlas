@@ -4019,6 +4019,10 @@
     "title": "Caroline Buck",
     "url": "/wiki/entities/carolinebuck/"
   },
+  "CarolynLee": {
+    "title": "Carolyn Lee",
+    "url": "/wiki/entities/carolynlee/"
+  },
   "CarolynLevy": {
     "title": "Carolyn Levy",
     "url": "/wiki/entities/carolynlevy/"
@@ -5907,6 +5911,10 @@
     "title": "David Cameron",
     "url": "/wiki/entities/davidcameron/"
   },
+  "DavidCard": {
+    "title": "David Card",
+    "url": "/wiki/entities/davidcard/"
+  },
   "DavidCheriton": {
     "title": "David Cheriton",
     "url": "/wiki/entities/davidcheriton/"
@@ -7142,6 +7150,10 @@
   "EnglandNationalFootballTeam": {
     "title": "England National Football Team",
     "url": "/wiki/entities/englandnationalfootballteam/"
+  },
+  "EnricoMoretti": {
+    "title": "Enrico Moretti",
+    "url": "/wiki/entities/enricomoretti/"
   },
   "EnterpriseAgentGovernance": {
     "title": "Enterprise Agent Governance",
@@ -8959,6 +8971,10 @@
     "title": "Good Intentions Political Limits",
     "url": "/wiki/concepts/goodintentionspoliticallimits/"
   },
+  "GoodJobsForNonCollegeWorkers": {
+    "title": "Good Jobs For Non-College Workers",
+    "url": "/wiki/concepts/goodjobsfornoncollegeworkers/"
+  },
   "GoodLuckBook": {
     "title": "《好运》",
     "url": "/wiki/entities/goodluckbook/"
@@ -9006,6 +9022,10 @@
   "GooglePlus": {
     "title": "Google Plus",
     "url": "/wiki/entities/googleplus/"
+  },
+  "GordonHansen": {
+    "title": "Gordon Hansen",
+    "url": "/wiki/entities/gordonhansen/"
   },
   "GordonMoore": {
     "title": "Gordon Moore",
@@ -9534,6 +9554,10 @@
   "HaroldBloom": {
     "title": "Harold Bloom / 哈罗德·布鲁姆",
     "url": "/wiki/entities/haroldbloom/"
+  },
+  "HarryMoser": {
+    "title": "Harry Moser",
+    "url": "/wiki/entities/harrymoser/"
   },
   "HarryStyles": {
     "title": "Harry Styles",
@@ -11146,6 +11170,10 @@
   "JesseLivermore": {
     "title": "Jesse Livermore",
     "url": "/wiki/entities/jesselivermore/"
+  },
+  "JesseRothstein": {
+    "title": "Jesse Rothstein",
+    "url": "/wiki/entities/jesserothstein/"
   },
   "JessicaAlter": {
     "title": "Jessica Alter",
@@ -13303,6 +13331,26 @@
     "title": "Manufactured Prisoner Dilemma",
     "url": "/wiki/concepts/manufacturedprisonerdilemma/"
   },
+  "ManufacturingInstitute": {
+    "title": "Manufacturing Institute",
+    "url": "/wiki/entities/manufacturinginstitute/"
+  },
+  "ManufacturingJobQuality": {
+    "title": "Manufacturing Job Quality",
+    "url": "/wiki/concepts/manufacturingjobquality/"
+  },
+  "ManufacturingPayPremium": {
+    "title": "Manufacturing Pay Premium",
+    "url": "/wiki/concepts/manufacturingpaypremium/"
+  },
+  "ManufacturingRegionalMultiplier": {
+    "title": "Manufacturing Regional Multiplier",
+    "url": "/wiki/concepts/manufacturingregionalmultiplier/"
+  },
+  "ManufacturingWorkforcePipeline": {
+    "title": "Manufacturing Workforce Pipeline",
+    "url": "/wiki/concepts/manufacturingworkforcepipeline/"
+  },
   "Manus": {
     "title": "Manus",
     "url": "/wiki/entities/manus/"
@@ -14242,6 +14290,10 @@
   "Mogujie": {
     "title": "蘑菇街 / Mogujie",
     "url": "/wiki/entities/mogujie/"
+  },
+  "MoisesYee": {
+    "title": "Moises Yee",
+    "url": "/wiki/entities/moisesyee/"
   },
   "MoliNaiBai": {
     "title": "Moli Nai Bai / 茉莉奶白",
@@ -15398,6 +15450,10 @@
   "OrdinaryPeopleResistance": {
     "title": "Ordinary People Resistance",
     "url": "/wiki/concepts/ordinarypeopleresistance/"
+  },
+  "OrenCass": {
+    "title": "Oren Cass",
+    "url": "/wiki/entities/orencass/"
   },
   "OrganizationalContext": {
     "title": "Organizational Context",
@@ -17390,6 +17446,10 @@
   "ReserveBankOfNewZealand": {
     "title": "Reserve Bank of New Zealand",
     "url": "/wiki/entities/reservebankofnewzealand/"
+  },
+  "ReshoringInitiative": {
+    "title": "Reshoring Initiative",
+    "url": "/wiki/entities/reshoringinitiative/"
   },
   "ResourceBasedEconomicTransition": {
     "title": "Resource-Based Economic Transition",
@@ -19819,6 +19879,10 @@
     "title": "Supersonic Regulatory Speed Limit",
     "url": "/wiki/concepts/supersonicregulatoryspeedlimit/"
   },
+  "SuperstarCities": {
+    "title": "Superstar Cities",
+    "url": "/wiki/concepts/superstarcities/"
+  },
   "SupplementLabelAccuracy": {
     "title": "Supplement Label Accuracy",
     "url": "/wiki/concepts/supplementlabelaccuracy/"
@@ -20794,6 +20858,10 @@
   "TracyYoung": {
     "title": "Tracy Young",
     "url": "/wiki/entities/tracyyoung/"
+  },
+  "TradableSectorLocalGrowth": {
+    "title": "Tradable Sector Local Growth",
+    "url": "/wiki/concepts/tradablesectorlocalgrowth/"
   },
   "TradeReciprocityProtectionism": {
     "title": "Trade Reciprocity Protectionism",
@@ -24646,6 +24714,10 @@
   "weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun": {
     "title": "为什么Manus必须出海？聊聊国产大模型的“文科生困境”",
     "url": "/wiki/sources/weishenme-manus-bixu-chuhai-liaoliao-guochan-da-moxing-de-wenkesheng-kunjing-keji-luandun/"
+  },
+  "why-are-we-so-obsessed-with-manufacturing": {
+    "title": "Why are we so obsessed with manufacturing?",
+    "url": "/wiki/sources/why-are-we-so-obsessed-with-manufacturing/"
   },
   "why-is-there-a-supplement-craze-if-they-dont-even-work": {
     "title": "Why is there a supplement craze if they don't even work?",

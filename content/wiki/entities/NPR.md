@@ -2,8 +2,8 @@
 title: "NPR"
 type: entity
 tags: [media, public-media, journalism]
-sources: [our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour, how-to-win-a-penalty-shootout-with-game-theory, can-the-trump-administration-make-college-cheaper, dark-times-for-cubas-economic-experiment, can-world-cup-mania-grow-mls-in-the-us, the-sneaky-way-companies-get-new-chemicals-into-our-food, the-leaked-tapes-that-show-how-the-rich-avoid-taxes, the-secret-meeting-that-launched-opec, diary-of-a-wnba-negotiator, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down, jerome-powell-and-the-test-of-fed-independence, why-the-us-has-no-guaranteed-paid-vacation, the-giant-factory-town-that-might-be-a-giant-mistake]
-last_updated: 2026-07-23
+sources: [why-are-we-so-obsessed-with-manufacturing, our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour, how-to-win-a-penalty-shootout-with-game-theory, can-the-trump-administration-make-college-cheaper, dark-times-for-cubas-economic-experiment, can-world-cup-mania-grow-mls-in-the-us, the-sneaky-way-companies-get-new-chemicals-into-our-food, the-leaked-tapes-that-show-how-the-rich-avoid-taxes, the-secret-meeting-that-launched-opec, diary-of-a-wnba-negotiator, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, why-is-there-a-supplement-craze-if-they-dont-even-work, theres-no-business-like-dough-business, riding-with-the-repo-man-update, how-much-money-president-trump-and-his-family-have-made, before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, congress-has-voted-to-eliminate-government-funding-for-public-media, its-my-tree-why-cant-i-cut-it-down, jerome-powell-and-the-test-of-fed-independence, why-the-us-has-no-guaranteed-paid-vacation, the-giant-factory-town-that-might-be-a-giant-mistake]
+last_updated: 2026-07-24
 ---
 
 # NPR
@@ -37,6 +37,8 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 [[our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour]] adds the opening [[PlanetMoney]] Summer School World Tour frame. It extends NPR's economics-reporting branch into [[Australia]]'s [[WaterMarketDesign]], [[WaterRightsTrading]], farmer backlash, and [[NewZealand]]'s invention of [[InflationTargeting]] as an expectations-coordination tool.
 
 [[the-giant-factory-town-that-might-be-a-giant-mistake]] adds a [[PlanetMoney]] episode on [[Brazil]]'s [[MiddleIncomeTrap]] problem through [[Manaus]] and the [[ZonaFrancaDeManaus|Zona Franca de Manaus]]. It extends NPR's development-economics branch into subsidy-dependent factory assembly, protected domestic-market industrialization, premature deindustrialization, and local innovation paths such as [[BiodegradableAmazonPlastics]].
+
+[[why-are-we-so-obsessed-with-manufacturing]] adds a [[PlanetMoney]] episode on U.S. manufacturing jobs. It extends NPR's economics-reporting branch into [[ManufacturingPayPremium]], [[ManufacturingJobQuality]], [[ManufacturingWorkforcePipeline]], [[TradableSectorLocalGrowth]], and [[GoodJobsForNonCollegeWorkers]] while qualifying simple [[TechManufacturingReshoring]] optimism.
 
 [[diary-of-a-wnba-negotiator]] adds a [[PlanetMoney]] episode on WNBA labor economics. It extends NPR's economics-reporting branch into [[SportsCollectiveBargaining]], [[SportsLaborRevenueSharing]], and the way [[WomensSportsBusinessGrowth]] can become a worker-compensation question.
 
@@ -75,6 +77,7 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 - [[China]], [[EngineeringState]], [[InfrastructureMalinvestment]], [[ChinaRealEstateDebtCycle]], and [[BuildBuildRegulate]] - China development branch added through Planet Money Summer School.
 - [[Australia]], [[NewZealand]], [[WaterMarketDesign]], [[WaterRightsTrading]], [[MarketSpeculation]], [[InflationTargeting]], and [[MultipleEquilibria]] - Summer School World Tour branch added through Planet Money.
 - [[Brazil]], [[Manaus]], [[MiddleIncomeTrap]], [[SubsidizedAssemblyIndustrialization]], and [[LocalizedInnovationAdvantage]] - Brazil development branch added through Planet Money.
+- [[HarryMoser]], [[GordonHansen]], [[CarolynLee]], [[EnricoMoretti]], [[ManufacturingPayPremium]], [[ManufacturingWorkforcePipeline]], and [[GoodJobsForNonCollegeWorkers]] - U.S. manufacturing labor-market branch added through Planet Money.
 - [[WNBA]], [[WNBAPlayersAssociation]], [[AliciaClark]], [[BriannaTurner]], [[DataBackedLaborBargaining]], and [[StrikeThreatAsBATNA]] - sports-labor bargaining branch added through Planet Money.
 - [[MajorLeagueSoccer]], [[BeckySullivan]], [[SeattleSounders]], [[NewEnglandRevolution]], [[ChicagoFire]], and [[MajorEventAttentionConversion]] - MLS World Cup conversion branch added through Planet Money.
 - [[StefanSzymanski]], [[IgnacioPalacioHuerta]], [[GameTheory]], [[MixedStrategy]], and [[PenaltyShootoutStrategy]] - football game-theory branch added through Planet Money.

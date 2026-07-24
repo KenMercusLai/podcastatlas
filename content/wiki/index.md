@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Why are we so obsessed with manufacturing?](sources/why-are-we-so-obsessed-with-manufacturing.md) — Planet Money episode on U.S. manufacturing jobs, pay premiums, workforce pipelines, strategic reshoring, regional multipliers, and why the broader goal is good jobs for non-college workers.
 - [Vol.112 一次非共识的2024反思和2025展望 | 对话蓝小康X牟一凌](sources/vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv.md) — 起朱楼宴宾客 episode with 蓝小康 and 牟一凌 on 2024 market reflection, Trump 2.0, China supply clearing, labor-share consumption repair, SOE valuation, Belt and Road demand, and active management.
 - [EP268 毛冬x唐唐：大黄，你到底咋了！上蹿下跳的黄金和那些绝不下车的人](sources/ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv.md) — Talk三联 episode with 毛冬, 唐涛/唐唐, 吴淑冰, and 莫晨 on gold drawdowns, household gold savings, online gold accumulation, gifts, liquidity, allocation, and no-leverage risk discipline.
 - [【沙青青x韩钊】石川啄木：我抱持的思想，都是因为缺钱](sources/shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314.md) — 蜜獾吃书 episode with 韩钊 and 沙青青 on 石川啄木, 《短歌是我悲伤的玩具》, Donald Keene's biography, tanka as emotional snapshot, Meiji intellectual precarity, and the Great Treason political context.
@@ -563,6 +564,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Harry Moser](entities/HarryMoser.md) — Reshoring Initiative voice in the manufacturing episode, grounding the strategic domestic-production argument.
+- [Reshoring Initiative](entities/ReshoringInitiative.md) — Organization used in the episode to represent the case for bringing strategic goods production back domestically.
+- [Gordon Hansen](entities/GordonHansen.md) — Economist in the episode who frames manufacturing as historically wage-premium work while warning the broader problem is too few good non-college jobs.
+- [David Card](entities/DavidCard.md) — Labor economist cited in the episode's manufacturing wage-premium comparison.
+- [Jesse Rothstein](entities/JesseRothstein.md) — Labor economist cited with David Card and Moises Yee in the episode's industry wage-premium evidence.
+- [Moises Yee](entities/MoisesYee.md) — Researcher cited with David Card and Jesse Rothstein in the episode's manufacturing pay-premium evidence.
+- [Oren Cass](entities/OrenCass.md) — Manufacturing-policy voice in the episode arguing that hard-to-fill jobs should pay more and compete through productivity.
+- [Carolyn Lee](entities/CarolynLee.md) — Manufacturing Institute voice in the episode on skills, training, and manufacturing's image problem.
+- [Manufacturing Institute](entities/ManufacturingInstitute.md) — Workforce-development organization represented by Carolyn Lee in the manufacturing-jobs episode.
+- [Enrico Moretti](entities/EnricoMoretti.md) — Economist cited for local job multipliers from manufacturing and tech employment.
 - [蓝小康 / Lan Xiaokang](entities/LanXiaokang.md) — 中欧基金 fund manager in vol.112, arguing for cash-flow duration, labor-share rebalancing, SOE social value, and evolving active-management algorithms.
 - [牟一凌 / Mou Yiling](entities/MouYiling.md) — 民生证券 strategy chief in vol.112, framing 2024 style instability, production-price divergence, consumer policy, and Belt and Road demand.
 - [中欧基金 / Zhongou Fund](entities/ZhongouFund.md) — Asset-management institution associated with 蓝小康 in vol.112's active-management and valuation discussion.
@@ -3771,6 +3782,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Manufacturing Pay Premium](concepts/ManufacturingPayPremium.md) — Wage advantage manufacturing can offer relative to some service jobs, especially for non-college workers, with strong industry variation.
+- [Manufacturing Job Quality](concepts/ManufacturingJobQuality.md) — Frame separating factory pay from working conditions, schedules, safety, monotony, and advancement.
+- [Good Jobs For Non-College Workers](concepts/GoodJobsForNonCollegeWorkers.md) — Broader labor-policy target that the episode argues should not be reduced to manufacturing alone.
+- [Manufacturing Workforce Pipeline](concepts/ManufacturingWorkforcePipeline.md) — Training, apprenticeship, community-college, skill, and public-image system needed to fill modern manufacturing jobs.
+- [Tradable Sector Local Growth](concepts/TradableSectorLocalGrowth.md) — Regional-economics frame where places grow by selling goods or services outside the local community.
+- [Manufacturing Regional Multiplier](concepts/ManufacturingRegionalMultiplier.md) — Local spillover effect from factory jobs into supplier and service employment.
+- [Superstar Cities](concepts/SuperstarCities.md) — High-opportunity metros where jobs concentrate, motivating interest in manufacturing as a more geographically spread growth path.
 - [China Supply-Side Clearing](concepts/ChinaSupplySideClearing.md) — Frame from vol.112 for production growth, PPI weakness, industry involution, tail-firm exit, and profit repair.
 - [Labor-Share Consumption Rebalancing](concepts/LaborShareConsumptionRebalancing.md) — Vol.112 concept that durable Chinese consumption repair needs income and distribution changes, not only subsidies or lower prices.
 - [State-Owned Enterprise Social Value](concepts/StateOwnedEnterpriseSocialValue.md) — Vol.112 valuation frame for central and state-owned firms whose public-service role, duration, and cash flows may deserve lower discount rates.

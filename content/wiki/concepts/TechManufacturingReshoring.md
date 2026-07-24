@@ -2,8 +2,8 @@
 title: "Tech Manufacturing Reshoring"
 type: concept
 tags: [manufacturing, supply-chain, policy, hardware]
-sources: [building-things-and-breaking-things-in-china-summer-school-world-tour, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources: [building-things-and-breaking-things-in-china-summer-school-world-tour, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, why-are-we-so-obsessed-with-manufacturing]
+last_updated: 2026-07-24
 ---
 
 # Tech Manufacturing Reshoring
@@ -14,11 +14,14 @@ The episode treats the move as meaningful but limited. It links the announcement
 
 [[building-things-and-breaking-things-in-china-summer-school-world-tour]] adds the comparative political-economy version. [[DanWang]] argues that the [[UnitedStates]] should rebuild manufacturing capacity to reduce choke points and help invent the future, but the lesson from [[China]] is [[BuildBuildRegulate]]: build capacity needs feedback, debt discipline, and public-value regulation rather than pure construction volume.
 
+[[why-are-we-so-obsessed-with-manufacturing]] adds the labor-market test. The [[PlanetMoney]] episode says reshoring and factory construction do not automatically solve the good-jobs problem unless pay, training, working conditions, and local spillovers also work through [[ManufacturingPayPremium]], [[ManufacturingJobQuality]], [[ManufacturingWorkforcePipeline]], and [[ManufacturingRegionalMultiplier]].
+
 ## Key Claims
 - Reshoring announcements can be symbolic even when they do not transform the full supply chain.
 - The relevant constraint is not only factories; advanced manufacturing depends on technicians, equipment maintenance workers, construction labor, and immigration policy.
 - A single domestic product line can help training and political credibility without proving that large-scale electronics manufacturing has shifted.
 - Tech reshoring interacts with [[AIHardwareSupplyChainPressure]] because chips, fabs, tools, and high-skilled labor increasingly sit inside the same strategic-industrial conversation.
+- Domestic production should be evaluated separately as strategic capacity, wage policy, workforce policy, and regional development; a factory can satisfy one goal without satisfying all of them.
 
 ## Connections
 - [[Apple]] and [[MacMini]] - source case.
@@ -26,3 +29,4 @@ The episode treats the move as meaningful but limited. It links the announcement
 - [[AIHardwareSupplyChainPressure]] - adjacent infrastructure and component-pressure concept.
 - [[ConsumerHardwareStartupRisk]] - broader hardware execution constraint around manufacturing, quality, and supply.
 - [[BuildBuildRegulate]], [[EngineeringState]], and [[SupplyChainSovereignty]] - comparative China/U.S. capacity frame added by Planet Money Summer School.
+- [[ManufacturingPayPremium]], [[ManufacturingJobQuality]], [[ManufacturingWorkforcePipeline]], and [[ManufacturingRegionalMultiplier]] - labor and regional tests added by the manufacturing-jobs episode.

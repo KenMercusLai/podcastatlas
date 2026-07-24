@@ -4519,3 +4519,11 @@ Added source page for a 起朱楼宴宾客 episode with 蓝小康 and 牟一凌 
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | Why are we so obsessed with manufacturing?
+
+Added source page for a Planet Money episode on U.S. manufacturing jobs, strategic domestic production, manufacturing pay premiums, workforce pipelines, local multipliers, superstar cities, and the broader target of good jobs for non-college workers. Created pages for Harry Moser, Reshoring Initiative, Gordon Hansen, David Card, Jesse Rothstein, Moises Yee, Oren Cass, Carolyn Lee, Manufacturing Institute, Enrico Moretti, Manufacturing Pay Premium, Manufacturing Job Quality, Good Jobs For Non-College Workers, Manufacturing Workforce Pipeline, Tradable Sector Local Growth, Manufacturing Regional Multiplier, and Superstar Cities; updated overview, index, Planet Money, NPR, United States, Supply Chain Sovereignty, Tech Manufacturing Reshoring, Trade Reciprocity Protectionism, Build Build Regulate, and Premature Deindustrialization. No direct contradiction found; the source qualifies reshoring and industrial-policy pages by separating strategic production, wage quality, training capacity, regional spillovers, and the broader good-jobs goal.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint after health passed. Health scanned 6,196 wiki pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 5,641 nodes and 56,841 edges; 555 current wiki pages are absent from that graph snapshot, so graph findings are advisory until `build graph` refreshes it. The graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to `claude-3-5-sonnet-latest` without a provider prefix. Report returned in-session; `wiki/lint-report.md` was not saved.
