@@ -2,11 +2,15 @@
 title: "U.S. Immigration and Customs Enforcement"
 type: entity
 tags: [government, immigration, law-enforcement, surveillance]
-sources: [betty-boop-excel-olympics-penny-isms-our-2026-valentines, tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128]
+sources: [the-ice-hiring-boom, betty-boop-excel-olympics-penny-isms-our-2026-valentines, tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128]
 last_updated: 2026-07-24
 ---
 
 # U.S. Immigration and Customs Enforcement
+
+[[the-ice-hiring-boom]] shifts ICE from a surveillance/procurement example into a direct organizational-scaling case. The episode says [[USDepartmentOfHomelandSecurity|DHS]] reported 12,000 new agents and officers in the prior year, more than doubling ICE's ranks, while training hours, Spanish-language instruction, field training, and accountability signals remained disputed.
+
+The same episode adds the detention-infrastructure side of ICE expansion. Through [[SergioMartinezBeltran|Sergio Martínez-Beltrán]]'s reporting and the [[FolkstonGeorgia]] case, ICE becomes central to [[ImmigrationDetentionExpansion]], [[PrivateImmigrationDetention]], [[DetentionAsLocalEconomicDevelopment]], and [[CarceralEconomicDependency]].
 
 [[betty-boop-excel-olympics-penny-isms-our-2026-valentines]] adds an accountability-reporting lens. [[NickFountain]] highlights [[404Media|404 Media]] reporting on ICE and technology, including a disputed description of a [[Palantir]] app and a training on how to search federal procurement records. This makes ICE a source case for [[ProcurementRecordsJournalism]] as well as for surveillance and data-access concerns.
 
@@ -15,6 +19,8 @@ U.S. Immigration and Customs Enforcement appears in [[tech-20260302-0302-mp-tech
 In the episode, the important point is not a separate institutional history of ICE, but the way immigration enforcement can use databases that private companies build, aggregate, and sell access to. That makes [[USImmigrationAndCustomsEnforcement]] part of the wiki's [[GovernmentDataBrokerAccess]] and [[CivilLibertiesSurveillanceRisk]] branch.
 
 ## Connections
+- [[ICEWorkforceExpansion]], [[FederalLawEnforcementTraining]], [[FieldTrainingOfficerEffects]], [[LawEnforcementCultureAccountability]], and [[PerformativeEnforcementAccountability]] - workforce, training, culture, and oversight branch added by Planet Money.
+- [[ImmigrationDetentionExpansion]], [[PrivateImmigrationDetention]], [[DetentionAsLocalEconomicDevelopment]], [[FolkstonGeorgia]], [[GEOGroup]], and [[SavannahPollock]] - detention-capacity and local-economics branch added by the ICE hiring episode.
 - [[404Media|404 Media]], [[NickFountain]], [[Palantir]], and [[ProcurementRecordsJournalism]] - public-records reporting branch added by Planet Money.
 - [[USDepartmentOfHomelandSecurity]] - parent agency context for the episode's discussion.
 - [[FlockSafety]] - license-plate-reader and public-safety-camera example.

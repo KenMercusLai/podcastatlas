@@ -4755,3 +4755,11 @@ Added source page for a Planet Money episode on the Supreme Court ruling against
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | The ICE hiring boom
+
+Added source page for a Planet Money episode on ICE hiring, disputed federal law-enforcement training, field-training effects, agency culture, accountability, detention expansion, private detention contracts, and Folkston, Georgia's detention-linked local economy. Created pages for Mark Brown, Federal Law Enforcement Training Centers, U.S. Border Patrol, U.S. Customs and Border Protection, Tricia McLaughlin, Matthew Ross, Dallas Police Department, Seth Stoughton, Alex Preti, ProPublica, Richard Blumenthal, Sergio Martínez-Beltrán, Folkston, Charlton County, Glenn Hall, GEO Group, Savannah Pollock, ICE Workforce Expansion, Federal Law Enforcement Training, Field Training Officer Effects, Law Enforcement Culture Accountability, Performative Enforcement Accountability, Immigration Detention Expansion, Private Immigration Detention, Detention As Local Economic Development, Carceral Economic Dependency, and Policy-Dependent Local Development; updated overview, index, NPR, Planet Money, Donald Trump, U.S. Department of Homeland Security, U.S. Immigration and Customs Enforcement, Immigration Backlash Cycle, Merit-Based Immigration Filter, Good Jobs For Non-College Workers, and Government Enterprise Procurement. No direct contradiction found with existing wiki content; the source's DHS-versus-document training-hours dispute is preserved as unresolved.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

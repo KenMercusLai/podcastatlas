@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The ICE hiring boom](sources/the-ice-hiring-boom.md) — Planet Money episode on ICE hiring, disputed training, field culture, detention expansion, private detention contracts, and Folkston, Georgia's detention-linked local economy.
 - [The Supreme Court struck down a bunch of Trump's tariffs. Now what?](sources/the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what.md) — Planet Money episode on the Supreme Court's IEPA tariff ruling, importer refunds, tariff-refund claim trading, Section 122, and small-business planning risk.
 - [Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines](sources/betty-boop-excel-olympics-penny-isms-our-2026-valentines.md) — Planet Money Valentine collection connecting public-domain Betty Boop, competitive Excel, Uniqlo RFID checkout, penny retirement, and 404 Media's ICE procurement-records reporting.
 - [BOARD GAMES 3: What's in a name?](sources/board-games-3-whats-in-a-name.md) — Planet Money episode on turning an asymmetric-information card-game prototype into Sell Me a Sasquatch through naming, theme, shelf appeal, and international retail constraints.
@@ -592,6 +593,23 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Mark Brown](entities/MarkBrown.md) — Former Federal Law Enforcement Training Centers instructor whose crowd-control examples show the gap between formal training and field conduct.
+- [Federal Law Enforcement Training Centers](entities/FederalLawEnforcementTrainingCenters.md) — Federal training infrastructure for ICE, Border Patrol, and CBP recruits, funded and scrutinized in the ICE hiring episode.
+- [U.S. Border Patrol](entities/USBorderPatrol.md) — DHS-linked immigration enforcement agency named in the federal training and hiring discussion.
+- [U.S. Customs and Border Protection](entities/USCustomsAndBorderProtection.md) — DHS-linked enforcement agency named with ICE in the episode's training, culture, and conduct frame.
+- [Tricia McLaughlin](entities/TriciaMcLaughlin.md) — DHS spokesperson whose unchanged-training-hours claim anchors the episode's unresolved training dispute.
+- [Matthew Ross](entities/MatthewRoss.md) — Economist whose Dallas policing research shows how aggressive field training officers can shape later use-of-force behavior.
+- [Dallas Police Department](entities/DallasPoliceDepartment.md) — Policing data context for Matthew Ross's field-training research.
+- [Seth Stoughton](entities/SethStoughton.md) — Law professor and former police officer arguing that ICE and CBP conduct reflects culture and accountability, not only training hours.
+- [Alex Preti](entities/AlexPreti.md) — U.S. citizen in the Minneapolis case cited by the episode to show why veteran-agent conduct complicates a new-training-only explanation.
+- [ProPublica](entities/ProPublica.md) — Investigative outlet cited for reporting details in the Alex Preti case.
+- [Richard Blumenthal](entities/RichardBlumenthal.md) — Senator whose office released documents appearing to show reduced training hours for new ICE recruits.
+- [Sergio Martínez-Beltrán](entities/SergioMartinezBeltran.md) — NPR immigration reporter explaining record detention levels and planned facility expansion.
+- [Folkston, Georgia](entities/FolkstonGeorgia.md) — Rural Georgia town used as the episode's case for detention as jobs, revenue, moral conflict, and policy-dependent development.
+- [Charlton County](entities/CharltonCounty.md) — County context for the Folkston ICE detention facility and its local fiscal tradeoffs.
+- [Glenn Hall](entities/GlennHall.md) — Former Charlton County administrator describing public-service needs and long-term discomfort with detention dependence.
+- [GEO Group](entities/GEOGroup.md) — Private operator of the Folkston ICE detention facility and contract case for private immigration detention.
+- [Savannah Pollock](entities/SavannahPollock.md) — Folkston native opposing the detention center while recognizing residents' need for stable jobs and benefits.
 - [Kathleen Claussen](entities/KathleenClaussen.md) — Georgetown trade-law professor explaining IEPA's tariff-authority limit and Section 122's time-limited fallback role.
 - [Maureen Thorson](entities/MaureenThorson.md) — Customs lawyer explaining why the tariff ruling leaves importers and consumers with uncertain refund paths.
 - [Wes Harrell](entities/WesHarrell.md) — Broker describing the secondary market for discounted tariff-refund claims.
@@ -3979,6 +3997,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [ICE Workforce Expansion](concepts/ICEWorkforceExpansion.md) — Rapid scaling of ICE personnel as an organizational, training, and accountability problem.
+- [Federal Law Enforcement Training](concepts/FederalLawEnforcementTraining.md) — Formal preparation of federal officers, including disputed ICE training hours and scenario-based restraint instruction.
+- [Field Training Officer Effects](concepts/FieldTrainingOfficerEffects.md) — Durable behavioral influence of field mentors on later officer conduct and use-of-force risk.
+- [Law Enforcement Culture Accountability](concepts/LawEnforcementCultureAccountability.md) — Frame that officer conduct depends on supervisors, peers, organizational norms, and credible consequences.
+- [Performative Enforcement Accountability](concepts/PerformativeEnforcementAccountability.md) — Risk that lawsuits or public oversight do not change conduct when agents perceive accountability as symbolic.
+- [Immigration Detention Expansion](concepts/ImmigrationDetentionExpansion.md) — Growth in immigrant detention capacity, beds, contracts, and facilities as an enforcement constraint.
+- [Private Immigration Detention](concepts/PrivateImmigrationDetention.md) — Private operation of federal immigration detention facilities, with GEO Group's Folkston facility as the episode's case.
+- [Detention As Local Economic Development](concepts/DetentionAsLocalEconomicDevelopment.md) — Pattern where detention facilities supply jobs, benefits, and public revenue for economically constrained towns.
+- [Carceral Economic Dependency](concepts/CarceralEconomicDependency.md) — Local reliance on prisons or detention centers for jobs and revenue despite the human costs of confinement.
+- [Policy-Dependent Local Development](concepts/PolicyDependentLocalDevelopment.md) — Development model exposed to electoral cycles and shifting federal priorities, illustrated by Folkston's detention dependence.
 - [IEPA Tariff Authority Limit](concepts/IEPATariffAuthorityLimit.md) — Supreme Court limit on using IEPA's import-regulation language for sweeping tariffs.
 - [Tariff Refund Uncertainty](concepts/TariffRefundUncertainty.md) — Procedural and litigation uncertainty around recovering tariffs after a ruling invalidates them.
 - [Tariff Refund Claims Market](concepts/TariffRefundClaimsMarket.md) — Secondary market where importers sell uncertain tariff-refund claims at a discount.

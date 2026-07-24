@@ -1931,6 +1931,10 @@
     "title": "Alex Karp",
     "url": "/wiki/entities/alexkarp/"
   },
+  "AlexPreti": {
+    "title": "Alex Preti",
+    "url": "/wiki/entities/alexpreti/"
+  },
   "AlexRosenberg": {
     "title": "Alex Rosenberg",
     "url": "/wiki/entities/alexrosenberg/"
@@ -4159,6 +4163,10 @@
     "title": "Carbon Storage Permanence",
     "url": "/wiki/concepts/carbonstoragepermanence/"
   },
+  "CarceralEconomicDependency": {
+    "title": "Carceral Economic Dependency",
+    "url": "/wiki/concepts/carceraleconomicdependency/"
+  },
   "CarceralLaborGovernance": {
     "title": "Carceral Labor Governance",
     "url": "/wiki/concepts/carcerallaborgovernance/"
@@ -4474,6 +4482,10 @@
   "CharlotteShultz": {
     "title": "Charlotte Shultz",
     "url": "/wiki/entities/charlotteshultz/"
+  },
+  "CharltonCounty": {
+    "title": "Charlton County",
+    "url": "/wiki/entities/charltoncounty/"
   },
   "ChatGPT": {
     "title": "ChatGPT",
@@ -5979,6 +5991,10 @@
     "title": "Dali, Yunnan / 大理",
     "url": "/wiki/entities/daliyunnan/"
   },
+  "DallasPoliceDepartment": {
+    "title": "Dallas Police Department",
+    "url": "/wiki/entities/dallaspolicedepartment/"
+  },
   "Damai": {
     "title": "Damai",
     "url": "/wiki/entities/damai/"
@@ -6490,6 +6506,10 @@
   "DesmondShum": {
     "title": "Desmond Shum",
     "url": "/wiki/entities/desmondshum/"
+  },
+  "DetentionAsLocalEconomicDevelopment": {
+    "title": "Detention As Local Economic Development",
+    "url": "/wiki/concepts/detentionaslocaleconomicdevelopment/"
   },
   "DeterministicAuditData": {
     "title": "Deterministic Audit Data",
@@ -8091,6 +8111,14 @@
     "title": "Federal Government Weaponization Narrative",
     "url": "/wiki/concepts/federalgovernmentweaponizationnarrative/"
   },
+  "FederalLawEnforcementTraining": {
+    "title": "Federal Law Enforcement Training",
+    "url": "/wiki/concepts/federallawenforcementtraining/"
+  },
+  "FederalLawEnforcementTrainingCenters": {
+    "title": "Federal Law Enforcement Training Centers",
+    "url": "/wiki/entities/federallawenforcementtrainingcenters/"
+  },
   "FederalReserve": {
     "title": "Federal Reserve",
     "url": "/wiki/entities/federalreserve/"
@@ -8210,6 +8238,10 @@
   "FieldFirstVerticalSaaS": {
     "title": "Field-First Vertical SaaS",
     "url": "/wiki/concepts/fieldfirstverticalsaas/"
+  },
+  "FieldTrainingOfficerEffects": {
+    "title": "Field Training Officer Effects",
+    "url": "/wiki/concepts/fieldtrainingofficereffects/"
   },
   "FieldworkSexualViolence": {
     "title": "Fieldwork Sexual Violence",
@@ -8446,6 +8478,10 @@
   "FolkloreTraumaEncoding": {
     "title": "Folklore Trauma Encoding",
     "url": "/wiki/concepts/folkloretraumaencoding/"
+  },
+  "FolkstonGeorgia": {
+    "title": "Folkston, Georgia",
+    "url": "/wiki/entities/folkstongeorgia/"
   },
   "FoodAdditiveRegulation": {
     "title": "Food Additive Regulation",
@@ -8979,6 +9015,10 @@
     "title": "GECAS",
     "url": "/wiki/entities/gecas/"
   },
+  "GEOGroup": {
+    "title": "GEO Group",
+    "url": "/wiki/entities/geogroup/"
+  },
   "GLM5": {
     "title": "GLM5",
     "url": "/wiki/entities/glm5/"
@@ -9398,6 +9438,10 @@
   "GlazerFamily": {
     "title": "Glazer Family",
     "url": "/wiki/entities/glazerfamily/"
+  },
+  "GlennHall": {
+    "title": "Glenn Hall",
+    "url": "/wiki/entities/glennhall/"
   },
   "GlobalLogisticsCoordination": {
     "title": "Global Logistics Coordination",
@@ -10815,6 +10859,10 @@
     "title": "ICE",
     "url": "/wiki/entities/iceinvestor/"
   },
+  "ICEWorkforceExpansion": {
+    "title": "ICE Workforce Expansion",
+    "url": "/wiki/concepts/iceworkforceexpansion/"
+  },
   "IDC": {
     "title": "IDC",
     "url": "/wiki/entities/idc/"
@@ -10914,6 +10962,10 @@
   "ImmigrationBacklashCycle": {
     "title": "Immigration Backlash Cycle",
     "url": "/wiki/concepts/immigrationbacklashcycle/"
+  },
+  "ImmigrationDetentionExpansion": {
+    "title": "Immigration Detention Expansion",
+    "url": "/wiki/concepts/immigrationdetentionexpansion/"
   },
   "ImpeachmentBook": {
     "title": "《弹劾》 / Impeachment: A Citizen's Guide",
@@ -12915,6 +12967,10 @@
     "title": "Lauren Menard",
     "url": "/wiki/entities/laurenmenard/"
   },
+  "LawEnforcementCultureAccountability": {
+    "title": "Law Enforcement Culture Accountability",
+    "url": "/wiki/concepts/lawenforcementcultureaccountability/"
+  },
   "LawMoralityBoundary": {
     "title": "Law-Morality Boundary",
     "url": "/wiki/concepts/lawmoralityboundary/"
@@ -14175,6 +14231,10 @@
     "title": "Mark Antony / 马克·安东尼",
     "url": "/wiki/entities/markantony/"
   },
+  "MarkBrown": {
+    "title": "Mark Brown",
+    "url": "/wiki/entities/markbrown/"
+  },
   "MarkCarwardine": {
     "title": "Mark Carwardine / 马克·卡沃丁",
     "url": "/wiki/entities/markcarwardine/"
@@ -14386,6 +14446,10 @@
   "MatthewHolt": {
     "title": "Matthew Holt",
     "url": "/wiki/entities/matthewholt/"
+  },
+  "MatthewRoss": {
+    "title": "Matthew Ross",
+    "url": "/wiki/entities/matthewross/"
   },
   "MaureenThorson": {
     "title": "Maureen Thorson",
@@ -16775,6 +16839,10 @@
     "title": "Performance Footwear Market",
     "url": "/wiki/concepts/performancefootwearmarket/"
   },
+  "PerformativeEnforcementAccountability": {
+    "title": "Performative Enforcement Accountability",
+    "url": "/wiki/concepts/performativeenforcementaccountability/"
+  },
   "PeriodPoverty": {
     "title": "Period Poverty",
     "url": "/wiki/concepts/periodpoverty/"
@@ -17215,6 +17283,10 @@
     "title": "Policy Announcement Trading Risk",
     "url": "/wiki/concepts/policyannouncementtradingrisk/"
   },
+  "PolicyDependentLocalDevelopment": {
+    "title": "Policy-Dependent Local Development",
+    "url": "/wiki/concepts/policydependentlocaldevelopment/"
+  },
   "PolicyDrivenMarketRally": {
     "title": "Policy-Driven Market Rally",
     "url": "/wiki/concepts/policydrivenmarketrally/"
@@ -17563,6 +17635,10 @@
     "title": "Private Equity AI Transformation",
     "url": "/wiki/concepts/privateequityaitransformation/"
   },
+  "PrivateImmigrationDetention": {
+    "title": "Private Immigration Detention",
+    "url": "/wiki/concepts/privateimmigrationdetention/"
+  },
   "PrivateLabelBrandRisk": {
     "title": "Private Label Brand Risk",
     "url": "/wiki/concepts/privatelabelbrandrisk/"
@@ -17574,6 +17650,10 @@
   "PrivateRevengeModernLaw": {
     "title": "Private Revenge And Modern Law",
     "url": "/wiki/concepts/privaterevengemodernlaw/"
+  },
+  "ProPublica": {
+    "title": "ProPublica",
+    "url": "/wiki/entities/propublica/"
   },
   "ProactiveAgents": {
     "title": "Proactive Agents",
@@ -18603,6 +18683,10 @@
     "title": "Richard Allen Homes",
     "url": "/wiki/entities/richardallenhomes/"
   },
+  "RichardBlumenthal": {
+    "title": "Richard Blumenthal",
+    "url": "/wiki/entities/richardblumenthal/"
+  },
   "RichardBranson": {
     "title": "Richard Branson",
     "url": "/wiki/entities/richardbranson/"
@@ -19203,6 +19287,10 @@
     "title": "Saudi Public Investment Fund",
     "url": "/wiki/entities/saudipublicinvestmentfund/"
   },
+  "SavannahPollock": {
+    "title": "Savannah Pollock",
+    "url": "/wiki/entities/savannahpollock/"
+  },
   "SavingsStyleInsurance": {
     "title": "Savings-Style Insurance",
     "url": "/wiki/concepts/savingsstyleinsurance/"
@@ -19543,6 +19631,10 @@
     "title": "Sergey Brin",
     "url": "/wiki/entities/sergeybrin/"
   },
+  "SergioMartinezBeltran": {
+    "title": "Sergio Martínez-Beltrán",
+    "url": "/wiki/entities/sergiomartinezbeltran/"
+  },
   "ServiceAsSoftware": {
     "title": "Service As Software",
     "url": "/wiki/concepts/serviceassoftware/"
@@ -19562,6 +19654,10 @@
   "ServiceProductization": {
     "title": "Service Productization",
     "url": "/wiki/concepts/serviceproductization/"
+  },
+  "SethStoughton": {
+    "title": "Seth Stoughton",
+    "url": "/wiki/entities/sethstoughton/"
   },
   "SetonHallUniversity": {
     "title": "Seton Hall University",
@@ -22159,6 +22255,10 @@
     "title": "Tribal Truth / 部落真相",
     "url": "/wiki/concepts/tribaltruth/"
   },
+  "TriciaMcLaughlin": {
+    "title": "Tricia McLaughlin",
+    "url": "/wiki/entities/triciamclaughlin/"
+  },
   "TricksterAmbivalence": {
     "title": "Trickster Ambivalence",
     "url": "/wiki/concepts/tricksterambivalence/"
@@ -22355,6 +22455,10 @@
     "title": "UPI",
     "url": "/wiki/entities/upi/"
   },
+  "USBorderPatrol": {
+    "title": "U.S. Border Patrol",
+    "url": "/wiki/entities/usborderpatrol/"
+  },
   "USConstitutionalCrisisRisk": {
     "title": "U.S. Constitutional Crisis Risk",
     "url": "/wiki/concepts/usconstitutionalcrisisrisk/"
@@ -22362,6 +22466,10 @@
   "USConstitutionalReformConstraint": {
     "title": "U.S. Constitutional Reform Constraint",
     "url": "/wiki/concepts/usconstitutionalreformconstraint/"
+  },
+  "USCustomsAndBorderProtection": {
+    "title": "U.S. Customs and Border Protection",
+    "url": "/wiki/entities/uscustomsandborderprotection/"
   },
   "USD1": {
     "title": "USD1",
@@ -25706,6 +25814,10 @@
   "the-giant-factory-town-that-might-be-a-giant-mistake": {
     "title": "The giant factory town that might be a giant mistake",
     "url": "/wiki/sources/the-giant-factory-town-that-might-be-a-giant-mistake/"
+  },
+  "the-ice-hiring-boom": {
+    "title": "The ICE hiring boom",
+    "url": "/wiki/sources/the-ice-hiring-boom/"
   },
   "the-latest-tv-innovations-have-their-critics": {
     "title": "The latest TV innovations have their critics",
