@@ -4563,3 +4563,11 @@ Ran lint after health passed. Health scanned 6,241 wiki pages with no empty/stub
 ## [2026-07-24] ingest | 144. 被诅咒的木乃伊：福尔摩斯会和老舍联手探案吗？
 
 Added source page for the 蜜獾吃书 episode on 岛田庄司《被诅咒的木乃伊》, 福尔摩斯同人, 夏目漱石 in London, dual Soseki/Watson manuscripts, a fake Eastern curse, a mummy locked-room impostor fraud, and the speculative possibility of Holmes meeting 老舍. Created pages for 岛田庄司, 《被诅咒的木乃伊》, John Watson / 华生, Holmes Pastiche Tradition, Dual Manuscript Narration, and Orientalist Mystery Misdirection; updated overview, index, 蜜獾吃书, Sherlock Holmes, Natsume Soseki, Lao She, Arthur Conan Doyle, Honkaku Mystery, and Chinese Detective Modernity. No direct contradiction found; the source qualifies the wiki's本格推理 and Holmes branches by treating voice, pastiche, cultural misreading, and global reader reuse as major literary value alongside the case mechanism.
+
+## [2026-07-24] ingest | 145.嫉妒与鄙视：我该如何躲避这双向的毒箭？
+
+Added source page for the 蜜獾吃书 episode on Susan Fiske's 《嫉妒与鄙视》, social comparison, envy, contempt, low-status syndrome, warmth/competence stereotypes, schadenfreude, online comparison attack, and empathy as the repair path. Created pages for Susan Fiske / 苏珊·菲斯克, 《嫉妒与鄙视》, Envy-Contempt Comparison, Social Comparison Pressure, Low-Status Syndrome, Warmth-Competence Stereotype, Schadenfreude As Comparison Emotion, Dehumanization By Comparison, and Empathy Against Comparison; updated overview, index, 蜜獾吃书, Social Psychology, Internet Moral Trial, Deindividuation, Emotional Contagion, Community Feeling, Inferiority-Superiority Dynamic, and Achievement Pressure Mental Health. No direct contradiction found; the source extends existing social-psychology and Adlerian self-worth pages by treating envy and contempt as comparison signals that require empathy and better social design rather than denial or indulgence.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

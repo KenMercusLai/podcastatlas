@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [145.嫉妒与鄙视：我该如何躲避这双向的毒箭？](sources/145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647.md) — 蜜獾吃书 episode on Susan Fiske's 《嫉妒与鄙视》, social comparison, envy, contempt, low-status syndrome, stereotypes, schadenfreude, online attack, and empathy as the repair path.
 - [144. 被诅咒的木乃伊：福尔摩斯会和老舍联手探案吗？](sources/144-bei-zuzhou-de-munaiyi-fuermosi-hui-he-laoshe-lianshou-tanan-ma-878168738.md) — 蜜獾吃书 episode on 岛田庄司《被诅咒的木乃伊》, 福尔摩斯同人, 夏目漱石 in London, dual Watson/Soseki manuscripts, a fake Eastern curse, a mummy locked-room fraud, and the fantasy of Holmes meeting 老舍.
 - [How to get what Greenland has, with permission](sources/how-to-get-what-greenland-has-with-permission.md) — Planet Money episode on Greenland, rare earth processing, U.S. Arctic defense access, Trump territorial-control rhetoric, and why mineral/security goals can be pursued through cooperation instead of annexation.
 - [Can transforming neighborhoods help kids escape poverty?](sources/can-transforming-neighborhoods-help-kids-escape-poverty.md) — Planet Money episode on HOPE VI, Richard Allen Homes, Raj Chetty's neighborhood-opportunity research, mixed-income redesign, cross-class social capital, and displacement limits.
@@ -569,6 +570,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Susan Fiske / 苏珊·菲斯克](entities/SusanFiske.md) — Social psychologist whose 《嫉妒与鄙视》 frames envy, contempt, status comparison, stereotypes, group identity, and empathy in episode 145.
+- [《嫉妒与鄙视》](entities/JiDuYuBiShi.md) — Susan Fiske book used by episode 145 to connect envy, contempt, comparison, stereotype, dehumanization, and empathy.
 - [岛田庄司 / Shimada Soji](entities/ShimadaSoji.md) — Japanese mystery writer whose 《被诅咒的木乃伊》 is read as a playful Holmes-Soseki pastiche rather than only a locked-room mechanism.
 - [《被诅咒的木乃伊》 / The Cursed Mummy](entities/TheCursedMummy.md) — Shimada Soji Holmes pastiche that inserts Natsume Soseki into a London mummy, impostor, curse, and dual-manuscript case.
 - [John Watson / 华生](entities/JohnWatson.md) — Holmes narrator whose manuscript in 《被诅咒的木乃伊》 restores the classical detective frame after Soseki's comic account.
@@ -3813,6 +3816,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Envy-Contempt Comparison / 嫉妒-鄙视比较](concepts/EnvyContemptComparison.md) — Paired emotional dynamic where upward comparison produces envy and downward comparison produces contempt, with adaptive signal value and dehumanization risk.
+- [Social Comparison Pressure / 社会比较压力](concepts/SocialComparisonPressure.md) — Status-sorting condition across school, work, class, aesthetics, consumption, and online life that makes envy and contempt frequent.
+- [Low-Status Syndrome / 低地位综合症](concepts/LowStatusSyndrome.md) — Chronic vigilance, anxiety, resentment, and health burden produced by felt lower social position.
+- [Warmth-Competence Stereotype / 热情-能力刻板印象](concepts/WarmthCompetenceStereotype.md) — Two-axis stereotype frame where missing warmth or competence makes envy, contempt, pity, or suspicion easier.
+- [Schadenfreude As Comparison Emotion / 比较中的幸灾乐祸](concepts/SchadenfreudeAsComparisonEmotion.md) — Mixed envy/contempt response where another person's fall feels rewarding because comparison or group identity is restored.
+- [Dehumanization By Comparison / 比较导致的去人性化](concepts/DehumanizationByComparison.md) — Failure mode where envy or contempt replaces a concrete person with a hostile status sign or inferior category.
+- [Empathy Against Comparison / 对抗比较的同理心](concepts/EmpathyAgainstComparison.md) — Repair strategy using concrete information, reframed comparison, praise, cooperation, and shared-unit design to reduce envy and contempt.
 - [福尔摩斯同人传统 / Holmes Pastiche Tradition](concepts/HolmesPasticheTradition.md) — Reader-owned afterlife where Holmes conventions are imitated, spoofed, relocated, and crossed with real literary figures.
 - [双手稿叙事 / Dual Manuscript Narration](concepts/DualManuscriptNarration.md) — Mystery device where two manuscript accounts make narrator reliability and genre expectation part of the puzzle.
 - [东方主义谜题误导 / Orientalist Mystery Misdirection](concepts/OrientalistMysteryMisdirection.md) — Mystery pattern where vague Eastern atmosphere and cultural prejudice function as a false explanatory frame.

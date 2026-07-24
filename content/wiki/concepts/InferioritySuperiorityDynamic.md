@@ -2,8 +2,8 @@
 title: "Inferiority-Superiority Dynamic"
 type: concept
 tags: [psychology, inferiority, self-worth, education]
-sources: [98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507]
-last_updated: 2026-07-18
+sources: [145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647, 98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507]
+last_updated: 2026-07-24
 ---
 
 # Inferiority-Superiority Dynamic
@@ -12,12 +12,15 @@ Inferiority-superiority dynamic is the episode's Adlerian frame for how inferior
 
 The harmful pattern begins when inferiority becomes fixed identity or when superiority becomes a shortcut for escaping it. The episode rejects the idea that self-inflation or "going crazy with confidence" solves inferiority: superiority complex and inferiority complex are treated as two sides of the same stuck relation to worth.
 
+[[145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647]] adds a social-emotion layer to the same dynamic. Envy resembles painful upward comparison, while contempt resembles defensive downward comparison; both can become ways to manage insecure worth without actually changing the underlying life task.
+
 ## Key Claims
 - Inferiority feeling can be productive when it points toward learning, practice, and action.
 - Inferiority complex forms when the feeling becomes too strong, too global, or too useful as an excuse for avoiding life tasks.
 - Superiority complex is not genuine confidence; it is overcompensation that still depends on comparison and external validation.
 - Score, school, diploma, 985/211, and praise-centered education can intensify the dynamic by binding self-worth to visible status.
 - The healthier route is not self-contempt or self-inflation, but courage, contribution feeling, and action that survives ordinary failure.
+- Episode 145 adds that envy and contempt are comparison signals that become harmful when they turn self-worth repair into attack on another person.
 
 ## Connections
 - [[AlfredAdler|Alfred Adler / 阿尔弗雷德·阿德勒]] and [[ZibeiYuChaoyue|《自卑与超越》]] - source figure and book.
@@ -25,3 +28,4 @@ The harmful pattern begins when inferiority becomes fixed identity or when super
 - [[CommunityFeeling]] - social alternative to win/lose comparison.
 - [[AchievementPressureMentalHealth]], [[RedPenLogic]], and [[AntiAuthoritarianEducation]] - existing education-pressure concepts extended by the episode.
 - [[ShameBasedSelfConcept]] - adjacent concept where worth collapse becomes identity rather than a specific gap.
+- [[EnvyContemptComparison]], [[SocialComparisonPressure]], and [[LowStatusSyndrome]] - episode-145 extension from inner worth to status emotion.

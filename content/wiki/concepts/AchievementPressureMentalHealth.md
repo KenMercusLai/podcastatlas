@@ -2,7 +2,7 @@
 title: "Achievement Pressure Mental Health"
 type: concept
 tags: [education, mental-health, youth, parenting]
-sources: [143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, 140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, 98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
+sources: [145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647, 143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, 140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, 98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
 last_updated: 2026-07-24
 ---
 
@@ -19,6 +19,8 @@ The source focuses on "good students" because their distress is often hidden by 
 [[vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]] adds the adult-work version through [[SiriQizhulou|Siri]]. Work reveals that school-style effort and visible reward are not a stable linear exchange, so the "good student" habit must be revised rather than simply intensified. [[ControllableLifeAnchors]] become important partly because they restore a legible effort-feedback loop.
 
 [[98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507]] adds an Adlerian inferiority layer. The source argues that score, school, diploma, 985/211, praise, and adult recognition can turn a normal wish to improve into [[InferioritySuperiorityDynamic]], where the child alternates between "I am not enough" and compensatory status-seeking rather than learning through contribution and courage.
+
+[[145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647]] adds the envy-and-contempt layer. The source treats exams, elite-school labels, class placement, performance, and taste as comparison systems that can train envy upward, contempt downward, and anxiety around whether one's own status is secure.
 
 [[129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151]] adds the perfectionist-action layer. The episode argues that school, family, and social scoring can train a person to demand perfect conditions, perfect quality, or perfect numbers before acting, making ordinary failure feel like self-condemnation rather than practice.
 
@@ -37,6 +39,7 @@ The source focuses on "good students" because their distress is often hidden by 
 - Vol.102 adds that achievement pressure becomes more damaging when the promised exchange between effort and mobility loses credibility.
 - Vol.107 adds that adult work can decouple effort from outcome, making controllable practices and calibrated career attention more important.
 - Episode 98 adds that inferiority is not itself the problem; achievement systems become damaging when they make comparison and external validation the only visible path beyond inferiority.
+- Episode 145 adds that achievement systems can also produce contempt and envy when status comparison becomes the main way people read themselves and others.
 - Episode 129 adds that perfectionist standards can turn achievement pressure into non-action, because beginning feels unsafe unless the result can already satisfy the imagined judge.
 - Episode 140 adds that achievement pressure can become bodily and gendered when students learn that illness, exhaustion, beauty, rest, or personal feeling are secondary to the role of being a good student.
 - Episode 143 adds that achievement pressure is also a memory problem: children may retain fear, reward, and bodily stress as non-declarative patterns even when the explicit lesson is forgotten.
@@ -52,6 +55,7 @@ The source focuses on "good students" because their distress is often hidden by 
 - [[MacroNarrativeAnxiety]], [[GraduationAnxiety]], [[CareerShoreMyth]], and [[HikikomoriStrategicRetreat]] - vol.102's effort-narrative and social-clock extension.
 - [[ControllableLifeAnchors]], [[ChoiceTriggeredAttentionBoundary]], and [[SiriQizhulou|Siri]] - vol.107's work-life and effort-feedback extension.
 - [[AlfredAdler]], [[InferioritySuperiorityDynamic]], [[CommunityFeeling]], and [[AdlerianTeleology]] - episode 98's Adlerian extension.
+- [[SocialComparisonPressure]], [[EnvyContemptComparison]], [[LowStatusSyndrome]], and [[EmpathyAgainstComparison]] - episode-145 comparison-emotion extension.
 - [[PerfectionismAsAvoidance]], [[ImperfectActionPractice]], [[HighGeneralLowSpecificExpectations]], and [[ImpostorSyndrome]] - episode 129's achievement-pressure and anti-perfectionism extension.
 - [[SmallTownExamTakerDiscipline|小镇做题家规训]], [[HardshipCultureAsEducation|吃苦文化作为教育]], and [[EffortNarrativeInterrogation|努力叙事追问]] - episode 140's embodied and life-design extension.
 - [[ForgettingAsCognitiveFunction]], [[PainfulMemoryRehearsalRisk]], and [[FocusedDiffuseThinkingBalance]] - episode 143's memory, painful-rehearsal, and balanced-brain-use extension.
