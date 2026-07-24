@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [187.豌豆公主：高敏和混沌是你真名](sources/187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166.md) — 蜜獾吃书 episode rereading Andersen's 《豌豆公主》 through true-princess ambiguity, class satire, gendered fairy-tale punishment, high sensitivity, sensory hypersensitivity, hardship worship, and literary complexity.
 - [EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？](sources/ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw.md) — Talk三联 episode on Homeric, Gilgamesh, and Edda epics, oral repetition, honor communities, mortality, Ragnarok, Marvel/Tolkien/game afterlives, and why old heroic stories keep being remade.
 - [146. 不爱侏罗纪世界？快来《恐龙庇护所》当饲养员！](sources/146-bu-ai-zhuluoji-shijie-kuailai-konglong-bihusuo-dang-siyangyuan-886472126.md) — 蜜獾吃书 episode on 《恐龙庇护所》, 《侏罗纪世界：重生》 dissatisfaction, bird-dinosaur continuity, evidence-bound dinosaur reconstruction, captive animal care labor, and dinosaurs as living animals.
 - [145.嫉妒与鄙视：我该如何躲避这双向的毒箭？](sources/145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647.md) — 蜜獾吃书 episode on Susan Fiske's 《嫉妒与鄙视》, social comparison, envy, contempt, low-status syndrome, stereotypes, schadenfreude, online attack, and empathy as the repair path.
@@ -1932,6 +1933,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《伴生》 / Our Symphony with Animals](entities/OurSymphonyWithAnimals.md) — Aysha Akhtar book discussed by 蜜獾吃书 as a memoir, medicine, animal-ethics, and public-health argument about human-animal well-being.
 - [Aysha Akhtar / 阿依莎·阿赫塔](entities/AyshaAkhtar.md) — Physician and animal-ethics author whose 《伴生》 connects personal trauma, companion animals, public health, and animal-cruelty violence risk.
 - [安徒生 / Hans Christian Andersen](entities/HansChristianAndersen.md) — Danish fairy-tale writer read by 蜜獾吃书 as an all-ages author of satire, sorrow, death, marginality, and spiritual longing.
+- [《豌豆公主》 / The Princess and the Pea](entities/ThePrincessAndThePea.md) — Andersen tale read by episode 187 as class satire, truth puzzle, gendered test, and modern high-sensitivity emblem.
+- [《猪倌》 / The Swineherd](entities/TheSwineherd.md) — Andersen contrast tale used by episode 187 to clarify sharper female punishment and satire around desire, status, and artificial novelty.
 - [《海的女儿》 / The Little Mermaid](entities/TheLittleMermaid.md) — Andersen tale read beyond "恋爱脑" as a story of freedom, human life, bodily pain, immortal soul, and later Disney adaptation confusion.
 - [叶君健 / Ye Junjian](entities/YeJunjian.md) — Andersen translator whose title "海的女儿" is treated as shaping the Chinese reading of the tale.
 - [翁贝托·艾柯 / Umberto Eco](entities/UmbertoEco.md) — Author of 《玫瑰的名字》, presented by 蜜獾吃书 as a novelist, semiotic thinker, medieval scholar, and public intellectual whose plot structures carry theory.
@@ -3833,6 +3836,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [True Princess Ambiguity / 真公主暧昧](concepts/TruePrincessAmbiguity.md) — Episode 187 frame for how 《豌豆公主》 keeps truth, class distinction, bodily proof, and sympathy unstable at once.
+- [High Sensitivity As Difference / 高敏感作为差异](concepts/HighSensitivityAsDifference.md) — Reclaiming the "pea princess" insult as a possible sign of real perceptual variation rather than automatic weakness or affectation.
+- [Sensory Hypersensitivity Accommodation / 感官超敏适配](concepts/SensoryHypersensitivityAccommodation.md) — Practical frame for changing environments around intense sensory experience instead of treating overload as bad attitude.
+- [Gendered Fairy-Tale Punishment / 童话中的性别化惩罚](concepts/GenderedFairyTalePunishment.md) — Pattern where fairy tales discipline women through bodily pain, exposure, lost voice, constrained movement, or compliance.
+- [Literary Ambiguity As Complexity / 文学混沌性](concepts/LiteraryAmbiguityAsComplexity.md) — Reading frame where strong works preserve conflicting pressures instead of collapsing into one clean answer.
 - [Norse Mythology / 北欧神话](concepts/NorseMythology.md) — Mythology field opened by EP269 through the Eddas, Odin, Thor, Loki, Valhalla, Ragnarok, Tolkien, Marvel, and fate-facing action.
 - [Ragnarok / 诸神的黄昏](concepts/Ragnarok.md) — Norse end-time and renewal pattern in EP269 where known doom sharpens courage and modern ecological/fantasy reinterpretation.
 - [Epic Modern Afterlife](concepts/EpicModernAfterlife.md) — EP269 pattern where ancient epics return through films, games, fantasy, superhero franchises, phrases, and reading culture.

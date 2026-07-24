@@ -2,7 +2,7 @@
 title: "Children's Literature Complexity"
 type: concept
 tags: [childrens-literature, reading, literature, education]
-sources: [122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172, 182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792, 180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]
+sources: [187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166, 122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172, 182-zhua-yi-ba-feng-xi-xi-lian-gun-dao-niba-li-qu-xie-shi-he-shucai-liao-tongshi-980330792, 180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036]
 last_updated: 2026-07-24
 ---
 
@@ -20,6 +20,8 @@ The concept grows out of examples including [[ZhengYuanjie|郑渊洁]], 《儿�
 
 [[122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172]] adds [[AdventuresOfPinocchio|《木偶奇遇记》]] as the frightening moral-adventure version. The episode argues that a children's classic can be beloved while exposing children to hunger, bodily harm, death fear, parental guilt, false friends, failed promises, and the painful wish to become better.
 
+[[187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166]] adds [[ThePrincessAndThePea|《豌豆公主》]] as the extremely short fairy-tale version. The episode's point is that brevity and familiarity do not mean simplicity: a tale many children know can carry class satire, gendered punishment, family entry rituals, bodily sensitivity, and unresolved truth claims.
+
 ## Key Claims
 - Children's literature can show social reality without resolving it into a comforting lesson.
 - A book can fail at propaganda while succeeding through vivid detail, sympathy, or craft.
@@ -30,10 +32,12 @@ The concept grows out of examples including [[ZhengYuanjie|郑渊洁]], 《儿�
 - A child protagonist can model agency by asking better questions than the authority figures around her.
 - Children's own poems can be serious literary evidence of perception and thought, not only cute byproducts of childhood.
 - A children's classic can teach through danger and recurrence without reducing itself to a transparent behavioral lesson.
+- A tiny fairy tale can be complex because its symbols remain unstable across child memory, adult class critique, gender critique, and bodily experience.
 
 ## Connections
 - [[AliceInWonderland]], [[LewisCarroll]], [[VictorianAntiDidacticChildrensLiterature]], and [[ArbitraryAuthorityProcedure]] - Alice branch added by episodes 179 and 180.
 - [[AdventuresOfPinocchio|《木偶奇遇记》]], [[Pinocchio]], and [[GrowthAsProtectorRole]] - episode 122's painful growth branch.
+- [[ThePrincessAndThePea|《豌豆公主》 / The Princess and the Pea]], [[TruePrincessAmbiguity]], and [[GenderedFairyTalePunishment]] - episode 187's tiny-fairy-tale complexity branch.
 - [[ZhengYuanjie|郑渊洁]] - central author case.
 - [[ChildhoodReadingEcology]] - environment where complex children's books circulate.
 - [[AntiAuthoritarianEducation]] - children's agency and refusal.
