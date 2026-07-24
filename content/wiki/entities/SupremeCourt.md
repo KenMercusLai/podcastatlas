@@ -2,11 +2,13 @@
 title: "Supreme Court"
 type: entity
 tags: [institution, law, politics]
-sources: [indicators-of-2025-and-what-to-watch-in-2026, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, jerome-powell-and-the-test-of-fed-independence]
+sources: [the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, indicators-of-2025-and-what-to-watch-in-2026, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, jerome-powell-and-the-test-of-fed-independence]
 last_updated: 2026-07-24
 ---
 
 # Supreme Court
+
+[[the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what]] resolves the tariff-authority watchpoint from [[indicators-of-2025-and-what-to-watch-in-2026]] inside the source set. The Court struck down [[DonaldTrump]]'s sweeping IEPA-based tariffs, making [[IEPATariffAuthorityLimit]] a concrete limit on one emergency-power route while leaving [[Section122TariffAuthority]] and other tariff statutes available.
 
 [[sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978]] adds the Court to the state-experimentation problem. [[LinYao|林垚]] notes that Supreme Court review can correctly strike down unconstitutional state laws while still reducing the older reform path in which state-level experiments spread upward into federal change.
 
@@ -21,6 +23,7 @@ The source's main contribution is not a doctrinal account of specific cases, but
 [[indicators-of-2025-and-what-to-watch-in-2026]] adds two source-dated Supreme Court watchpoints for 2026. The episode says the Court was expected to hear arguments in [[LisaCook]]'s removal case and to rule on whether [[DonaldTrump]] could impose the 2025 tariff shock without congressional approval, connecting the Court to both [[FederalFundsRateAsPolicySignal]] and [[EffectiveTariffRateShock]].
 
 ## Connections
+- [[IEPATariffAuthorityLimit]], [[TariffRefundUncertainty]], [[Section122TariffAuthority]], and [[KathleenClaussen]] - tariff-ruling aftermath branch added by Planet Money.
 - [[UnitedStates]] - country and constitutional system in the source.
 - [[AmericanDemocraticResilience]] - optimistic reading of institutional guardrails.
 - [[ExecutivePowerPrecedent]] - risk that court-sanctioned presidential power persists.

@@ -9491,6 +9491,10 @@
     "title": "《早安，怪物》 / Good Morning, Monster",
     "url": "/wiki/entities/goodmorningmonster/"
   },
+  "Goodyear": {
+    "title": "Goodyear",
+    "url": "/wiki/entities/goodyear/"
+  },
   "Google": {
     "title": "Google",
     "url": "/wiki/entities/google/"
@@ -10814,6 +10818,10 @@
   "IDC": {
     "title": "IDC",
     "url": "/wiki/entities/idc/"
+  },
+  "IEPATariffAuthorityLimit": {
+    "title": "IEPA Tariff Authority Limit",
+    "url": "/wiki/concepts/iepatariffauthoritylimit/"
   },
   "IMAgentInterfaces": {
     "title": "IM Agent Interfaces",
@@ -12371,6 +12379,10 @@
     "title": "《康熙来了》 / Kangxi Coming",
     "url": "/wiki/entities/kangxilaile/"
   },
+  "KaraDyer": {
+    "title": "Kara Dyer",
+    "url": "/wiki/entities/karadyer/"
+  },
   "KaraHultgreen": {
     "title": "Kara Hultgreen",
     "url": "/wiki/entities/karahultgreen/"
@@ -12406,6 +12418,10 @@
   "KatherineMaher": {
     "title": "Katherine Maher",
     "url": "/wiki/entities/katherinemaher/"
+  },
+  "KathleenClaussen": {
+    "title": "Kathleen Claussen",
+    "url": "/wiki/entities/kathleenclaussen/"
   },
   "KathyHochul": {
     "title": "Kathy Hochul",
@@ -14370,6 +14386,10 @@
   "MatthewHolt": {
     "title": "Matthew Holt",
     "url": "/wiki/entities/matthewholt/"
+  },
+  "MaureenThorson": {
+    "title": "Maureen Thorson",
+    "url": "/wiki/entities/maureenthorson/"
   },
   "MawuLisa": {
     "title": "Mawu-Lisa",
@@ -19387,6 +19407,10 @@
     "title": "密折政治情报 / Secret Memorial Political Intelligence",
     "url": "/wiki/concepts/secretmemorialpoliticalintelligence/"
   },
+  "Section122TariffAuthority": {
+    "title": "Section 122 Tariff Authority",
+    "url": "/wiki/concepts/section122tariffauthority/"
+  },
   "Section230": {
     "title": "Section 230",
     "url": "/wiki/concepts/section230/"
@@ -20719,6 +20743,10 @@
     "title": "Story-Within-Story Narration",
     "url": "/wiki/concepts/storywithinstorynarration/"
   },
+  "StorytimeToys": {
+    "title": "Storytime Toys",
+    "url": "/wiki/entities/storytimetoys/"
+  },
   "StraitOfHormuz": {
     "title": "Strait of Hormuz",
     "url": "/wiki/entities/straitofhormuz/"
@@ -21258,6 +21286,18 @@
   "TargetDateFund": {
     "title": "Target-Date Fund / 目标日期基金",
     "url": "/wiki/concepts/targetdatefund/"
+  },
+  "TariffPolicyPlanningRisk": {
+    "title": "Tariff Policy Planning Risk",
+    "url": "/wiki/concepts/tariffpolicyplanningrisk/"
+  },
+  "TariffRefundClaimsMarket": {
+    "title": "Tariff Refund Claims Market",
+    "url": "/wiki/concepts/tariffrefundclaimsmarket/"
+  },
+  "TariffRefundUncertainty": {
+    "title": "Tariff Refund Uncertainty",
+    "url": "/wiki/concepts/tariffrefunduncertainty/"
   },
   "TariqRahman": {
     "title": "Tariq Rahman",
@@ -23182,6 +23222,10 @@
   "Wenxin": {
     "title": "Wenxin",
     "url": "/wiki/entities/wenxin/"
+  },
+  "WesHarrell": {
+    "title": "Wes Harrell",
+    "url": "/wiki/entities/wesharrell/"
   },
   "WesStreeting": {
     "title": "Wes Streeting",
@@ -25686,6 +25730,10 @@
   "the-sneaky-way-companies-get-new-chemicals-into-our-food": {
     "title": "The sneaky way companies get new chemicals into our food",
     "url": "/wiki/sources/the-sneaky-way-companies-get-new-chemicals-into-our-food/"
+  },
+  "the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what": {
+    "title": "The Supreme Court struck down a bunch of Trump's tariffs. Now what?",
+    "url": "/wiki/sources/the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what/"
   },
   "the-walt-disney-company-1": {
     "title": "The Walt Disney Company: Walt's Era",

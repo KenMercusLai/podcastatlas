@@ -2,8 +2,8 @@
 title: "Executive Power Precedent"
 type: concept
 tags: [politics, law, governance]
-sources: [173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, jerome-powell-and-the-test-of-fed-independence]
-last_updated: 2026-07-18
+sources: [the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, jerome-powell-and-the-test-of-fed-independence]
+last_updated: 2026-07-24
 ---
 
 # Executive Power Precedent
@@ -22,6 +22,8 @@ The concept matters because constitutional damage can be cumulative. [[RobertGue
 
 [[jerome-powell-and-the-test-of-fed-independence]] adds the independent-central-bank version. If the president can remove [[FederalReserve]] governors broadly under an undefined [[ForCauseRemovalStandard]], a one-off fight over [[LisaCook]] could become a durable precedent for steering monetary policy through personnel pressure.
 
+[[the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what]] adds the tariff-statute version. The source presents the [[SupremeCourt]] rejecting [[DonaldTrump]]'s attempt to use IEPA for sweeping tariffs, turning [[IEPATariffAuthorityLimit]] into a case where statutory text blocks one emergency-power shortcut even as [[Section122TariffAuthority]] remains a narrower fallback.
+
 ## Key Claims
 - A temporary political style can create legal tools that future presidents use more competently.
 - Court-sanctioned executive power can outlast the president who first benefits from it.
@@ -32,6 +34,7 @@ The concept matters because constitutional damage can be cumulative. [[RobertGue
 - Administrative reform can become executive-power precedent when the next administration inherits a more politically controlled bureaucracy.
 - Corrective mechanisms can also create precedents: using impeachment or incapacity procedures too loosely can make later constitutional conflict easier.
 - Independent-agency removal fights can become precedent even when the immediate case is framed around individual misconduct.
+- Tariff authority can become executive-power precedent when an emergency statute is used as a shortcut for broad economic policy.
 
 ## Connections
 - [[DonaldTrump]], [[SupremeCourt]], [[RobertGuest]], [[DanielKnowles]], and [[RebeccaJackson]] - source actors in the debate.
@@ -42,3 +45,4 @@ The concept matters because constitutional damage can be cumulative. [[RobertGue
 - [[Project2025]], [[AdministrativeStateDismantling]], and [[FederalGovernmentWeaponizationNarrative]] - operational Trump 2.0 governance branch added by Qizhulou Yan Binke.
 - [[PresidentialImpeachment]], [[HighCrimesAndMisdemeanors]], [[TwentyFifthAmendment]], and [[ConstitutionalRobustness]] - remedy and abuse-boundary branch added by 蜜獾吃书.
 - [[FederalReserve]], [[LisaCook]], [[SupremeCourt]], [[ForCauseRemovalStandard]], and [[CentralBankIndependence]] - central-bank removal branch added by Planet Money.
+- [[IEPATariffAuthorityLimit]], [[Section122TariffAuthority]], [[EffectiveTariffRateShock]], and [[KathleenClaussen]] - tariff-authority branch added by Planet Money.

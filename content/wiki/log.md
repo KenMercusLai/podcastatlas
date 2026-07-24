@@ -4747,3 +4747,11 @@ Ran lint after health passed. Deterministic checks scanned 6,512 pages and found
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 6,527 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` is configured in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-24] ingest | The Supreme Court struck down a bunch of Trump's tariffs. Now what?
+
+Added source page for a Planet Money episode on the Supreme Court ruling against Trump IEPA tariffs, importer refund uncertainty, tariff-refund claims trading, Section 122 fallback authority, and Kara Dyer's Storytime Toys small-business case. Created pages for Kathleen Claussen, Maureen Thorson, Wes Harrell, Kara Dyer, Storytime Toys, Goodyear, IEPA Tariff Authority Limit, Tariff Refund Uncertainty, Tariff Refund Claims Market, Section 122 Tariff Authority, and Tariff Policy Planning Risk; updated overview, index, NPR, Planet Money, Donald Trump, Supreme Court, Effective Tariff Rate Shock, Blanket Tariff Limit, Trade Reciprocity Protectionism, Executive Power Precedent, Costco, Toyota, and United States Congress. No direct contradiction found; the source updates the earlier pending Supreme Court tariff-authority watchpoint by treating IEPA tariffs as struck down while emphasizing that refund recovery and replacement tariff tools remain uncertain.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

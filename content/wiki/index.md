@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Supreme Court struck down a bunch of Trump's tariffs. Now what?](sources/the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what.md) — Planet Money episode on the Supreme Court's IEPA tariff ruling, importer refunds, tariff-refund claim trading, Section 122, and small-business planning risk.
 - [Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines](sources/betty-boop-excel-olympics-penny-isms-our-2026-valentines.md) — Planet Money Valentine collection connecting public-domain Betty Boop, competitive Excel, Uniqlo RFID checkout, penny retirement, and 404 Media's ICE procurement-records reporting.
 - [BOARD GAMES 3: What's in a name?](sources/board-games-3-whats-in-a-name.md) — Planet Money episode on turning an asymmetric-information card-game prototype into Sell Me a Sasquatch through naming, theme, shelf appeal, and international retail constraints.
 - [Chevron, Venezuela and the Paradox of Plenty](sources/chevron-venezuela-and-the-paradox-of-plenty.md) — Planet Money episode on Chevron in Venezuela, Lake Maracaibo, Dutch disease, OPEC, oil nationalization, PDVSA, sanctions, and Terry Karl's political resource curse.
@@ -591,6 +592,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Kathleen Claussen](entities/KathleenClaussen.md) — Georgetown trade-law professor explaining IEPA's tariff-authority limit and Section 122's time-limited fallback role.
+- [Maureen Thorson](entities/MaureenThorson.md) — Customs lawyer explaining why the tariff ruling leaves importers and consumers with uncertain refund paths.
+- [Wes Harrell](entities/WesHarrell.md) — Broker describing the secondary market for discounted tariff-refund claims.
+- [Kara Dyer](entities/KaraDyer.md) — Storytime Toys owner whose import decisions show small-business exposure to tariff policy uncertainty.
+- [Storytime Toys](entities/StorytimeToys.md) — Small toy importer used as Planet Money's case for tariff-driven supplier, inventory, and cash-planning risk.
+- [Goodyear](entities/Goodyear.md) — Company named with Costco and Toyota as a tariff-refund litigation example.
 - [Betty Boop](entities/BettyBoop.md) — Public-domain animation character used for Planet Money's economics Valentine after the 1930 version entered the public domain.
 - [Jennifer Jenkins](entities/JenniferJenkins.md) — Copyright and public-domain expert helping Planet Money explain Betty Boop's public-domain status and the prior copyright-term freeze.
 - [Jess Jang](entities/JessJang.md) — Planet Money participant who praises the Washington Post's competitive Excel article.
@@ -3972,6 +3979,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [IEPA Tariff Authority Limit](concepts/IEPATariffAuthorityLimit.md) — Supreme Court limit on using IEPA's import-regulation language for sweeping tariffs.
+- [Tariff Refund Uncertainty](concepts/TariffRefundUncertainty.md) — Procedural and litigation uncertainty around recovering tariffs after a ruling invalidates them.
+- [Tariff Refund Claims Market](concepts/TariffRefundClaimsMarket.md) — Secondary market where importers sell uncertain tariff-refund claims at a discount.
+- [Section 122 Tariff Authority](concepts/Section122TariffAuthority.md) — Time-limited tariff authority used as a fallback after IEPA tariffs were struck down.
+- [Tariff Policy Planning Risk](concepts/TariffPolicyPlanningRisk.md) — Business planning risk created when tariff rates, legal authority, and refund rights keep changing.
 - [Public Domain Reuse](concepts/PublicDomainReuse.md) — Creative and commercial reuse made possible when copyright expires, with 1930 Betty Boop as the episode's example.
 - [Competitive Spreadsheeting](concepts/CompetitiveSpreadsheeting.md) — Treating Excel work as timed, spectator-legible performance rather than ordinary office productivity.
 - [RFID Checkout](concepts/RFIDCheckout.md) — Retail checkout design where RFID tags identify multiple products automatically, constrained by tag cost and category margins.

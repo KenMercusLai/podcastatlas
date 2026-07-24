@@ -2,7 +2,7 @@
 title: "Trade Reciprocity Protectionism"
 type: concept
 tags: [trade, tariffs, geopolitics, united-states]
-sources: [why-economists-got-free-trade-with-china-so-wrong, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, why-are-we-so-obsessed-with-manufacturing]
+sources: [the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, why-economists-got-free-trade-with-china-so-wrong, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, why-are-we-so-obsessed-with-manufacturing]
 last_updated: 2026-07-24
 ---
 
@@ -16,6 +16,8 @@ The concept reframes tariffs inside [[AmericanProtectionistTradition]]. If a tra
 
 [[why-economists-got-free-trade-with-china-so-wrong]] adds a stronger caution against using tariffs as historical repair. [[DavidAutor]] accepts that the [[ChinaShock]] exposed real [[FreeTradeDistributionalCost]], but the episode separates tariff bargaining from the claim that broad tariffs can undo past [[RegionalLaborMarketScarring]] or restore displaced workers' lost trajectories.
 
+[[the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what]] adds a statutory-authority constraint. Even when tariff reciprocity is politically framed as fairness, the [[SupremeCourt]] ruling says the executive still needs a valid tariff statute; after [[IEPATariffAuthorityLimit]], the source follows [[DonaldTrump]] toward [[Section122TariffAuthority]] instead.
+
 ## Key Claims
 - Reciprocity separates this frame from universal free-trade doctrine.
 - The episode says free trade and reciprocity looked aligned after World War II because the [[UnitedStates]] had broad industrial advantage, but deindustrialization made the two diverge.
@@ -23,6 +25,7 @@ The concept reframes tariffs inside [[AmericanProtectionistTradition]]. If a tra
 - It creates tension with consumer-price anti-inflation promises because tariffs can raise import costs.
 - The manufacturing-jobs episode adds another tension: protectionist manufacturing policy may be politically attractive even when the underlying labor goal would be better described as creating more good non-college jobs across multiple sectors.
 - The China-shock episode adds that tariffs may be politically legible compensation for free-trade damage while still failing as targeted [[TradeAdjustmentAssistance]] or future-oriented [[StrategicIndustrialPolicy]].
+- The tariff-ruling source adds that reciprocal or emergency tariff rhetoric does not substitute for delegated statutory authority.
 
 ## Connections
 - [[DonaldTrump]], [[AmericaFirstPolicyInstitute]], [[PeterNavarro]], and [[Project2025]] — policy actors and documents.
@@ -31,3 +34,4 @@ The concept reframes tariffs inside [[AmericanProtectionistTradition]]. If a tra
 - [[China]] and [[UnitedStates]] — strategic trade-counterparty frame.
 - [[ManufacturingPayPremium]], [[ManufacturingJobQuality]], and [[GoodJobsForNonCollegeWorkers]] — labor-market test added by the Planet Money manufacturing episode.
 - [[ChinaShock]], [[FreeTradeDistributionalCost]], [[RegionalLaborMarketScarring]], [[TradeAdjustmentAssistance]], [[BlanketTariffLimit]], and [[StrategicIndustrialPolicy]] - tariff-repair limits added by the China-shock episode.
+- [[IEPATariffAuthorityLimit]], [[Section122TariffAuthority]], and [[ExecutivePowerPrecedent]] - legal-authority limit added by the tariff-ruling episode.

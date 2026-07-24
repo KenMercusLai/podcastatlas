@@ -2,7 +2,7 @@
 title: "United States Congress"
 type: entity
 tags: [institution, politics, law]
-sources: [tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, jerome-powell-and-the-test-of-fed-independence]
+sources: [the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, jerome-powell-and-the-test-of-fed-independence]
 last_updated: 2026-07-24
 ---
 
@@ -12,11 +12,14 @@ The United States Congress appears in [[jerome-powell-and-the-test-of-fed-indepe
 
 [[tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]] adds Congress as a protector of selected [[DirectAirCapture]] hubs. [[AaronBurns]] of [[Carbon180]] says the Trump administration rescinded funding for several Biden-era projects, but Congress protected the planned [[Louisiana]] hub and a [[Texas]] hub backed by [[OccidentalPetroleum|Occidental Petroleum]].
 
+[[the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what]] adds Congress to the tariff-authority branch. The source says [[Section122TariffAuthority]] permits tariffs up to 15% for 150 days to address a balance-of-payments deficit, but those tariffs are supposed to expire unless Congress extends them.
+
 ## Source Position
 - Congress matters because the Fed's mandate and removal boundaries are statutory, not only norms.
 - The source treats Senate confirmation leverage as one possible check when executive pressure on the Fed becomes explicit.
 - Brainard's reform suggestion is that Congress could specify grounds such as corruption or negligence for removing Fed board members.
 - In the carbon-removal source, Congress matters as an industrial-policy backstop that can preserve specific climate-tech hubs despite administrative retrenchment.
+- In the tariff source, Congress matters because time-limited emergency tariff authority requires legislative extension if the administration wants it to last.
 
 ## Connections
 - [[UnitedStates]] - constitutional and political setting.
@@ -24,3 +27,4 @@ The United States Congress appears in [[jerome-powell-and-the-test-of-fed-indepe
 - [[ForCauseRemovalStandard]] and [[SupremeCourt]] - legal boundary Congress could clarify before courts define it.
 - [[DonaldTrump]], [[JeromePowell]], and [[KevinWarsh]] - pressure, incumbent chair, and successor-confirmation context.
 - [[Carbon180]], [[AaronBurns]], [[DirectAirCapture]], [[CarbonRemovalPoliticalDurability]], [[Louisiana]], [[Texas]], and [[OccidentalPetroleum|Occidental Petroleum]] - carbon-removal hub funding context added by Marketplace Tech.
+- [[Section122TariffAuthority]], [[IEPATariffAuthorityLimit]], [[DonaldTrump]], and [[KathleenClaussen]] - tariff-extension branch added by Planet Money.
