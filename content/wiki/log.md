@@ -4843,3 +4843,11 @@ Added source page for a Planet Money episode on Kalshi, prediction-market trader
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 6,705 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not configured with a provider-qualified model. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-24] ingest | Live: Anthropic co-founder on AI and jobs
+
+Added source page for a Planet Money live book-tour episode with Jack Clark and Daryl Fairweather on AI work capacity, robot-tax redistribution, cyber-defense AI as utility, behavioral economics inside companies, dynamic-pricing fairness, single-family zoning, and housing voice for future residents. Created pages for Jack Clark, Daryl Fairweather, Redfin, AI Automation Redistribution, AI Cyber-Defense Utility, Dynamic Pricing Fairness, and Future Resident Housing Voice; updated overview, index, NPR, Planet Money, Planet Money Book, Anthropic, Claude, Amazon, Everyday Behavioral Economics, Economic Way Of Thinking, AI Economic Diffusion, AI Backlash Politics, AI Governance And Compliance, Housing Affordability Supply Mechanics, and Housing Restriction Backfire. No direct contradiction found; the source qualifies AI diffusion by adding redistribution and cyber-public-good concerns, and extends housing supply mechanics by emphasizing political representation for would-be residents.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

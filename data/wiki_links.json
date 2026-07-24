@@ -823,6 +823,10 @@
     "title": "AI Authorship Presence",
     "url": "/wiki/concepts/aiauthorshippresence/"
   },
+  "AIAutomationRedistribution": {
+    "title": "AI Automation Redistribution",
+    "url": "/wiki/concepts/aiautomationredistribution/"
+  },
   "AIBPORollUp": {
     "title": "AI BPO Roll Up",
     "url": "/wiki/concepts/aibporollup/"
@@ -910,6 +914,10 @@
   "AICoworkers": {
     "title": "AI Coworkers",
     "url": "/wiki/concepts/aicoworkers/"
+  },
+  "AICyberDefenseUtility": {
+    "title": "AI Cyber-Defense Utility",
+    "url": "/wiki/concepts/aicyberdefenseutility/"
   },
   "AIDataCenterMemoryHierarchy": {
     "title": "AI Data Center Memory Hierarchy",
@@ -6239,6 +6247,10 @@
     "title": "Daron Acemoglu",
     "url": "/wiki/entities/daronacemoglu/"
   },
+  "DarylFairweather": {
+    "title": "Daryl Fairweather",
+    "url": "/wiki/entities/darylfairweather/"
+  },
   "Dashengkui": {
     "title": "Dashengkui / 大盛魁",
     "url": "/wiki/entities/dashengkui/"
@@ -7254,6 +7266,10 @@
   "DynamicBalancingRobotics": {
     "title": "Dynamic Balancing Robotics",
     "url": "/wiki/concepts/dynamicbalancingrobotics/"
+  },
+  "DynamicPricingFairness": {
+    "title": "Dynamic Pricing Fairness",
+    "url": "/wiki/concepts/dynamicpricingfairness/"
   },
   "DynasticLegitimacyBackfire": {
     "title": "Dynastic Legitimacy Backfire / 王朝合法性回旋镖",
@@ -9166,6 +9182,10 @@
   "FutureOrientedFundraisingPitch": {
     "title": "Future-Oriented Fundraising Pitch",
     "url": "/wiki/concepts/futureorientedfundraisingpitch/"
+  },
+  "FutureResidentHousingVoice": {
+    "title": "Future Resident Housing Voice",
+    "url": "/wiki/concepts/futureresidenthousingvoice/"
   },
   "FuyouTiandi": {
     "title": "蜉蝣天地 / Fuyou Tiandi",
@@ -11758,6 +11778,10 @@
   "JRRTolkien": {
     "title": "J.R.R. Tolkien / 托尔金",
     "url": "/wiki/entities/jrrtolkien/"
+  },
+  "JackClark": {
+    "title": "Jack Clark",
+    "url": "/wiki/entities/jackclark/"
   },
   "JackLondon": {
     "title": "Jack London / 杰克·伦敦",
@@ -18742,6 +18766,10 @@
   "Reddit": {
     "title": "Reddit",
     "url": "/wiki/entities/reddit/"
+  },
+  "Redfin": {
+    "title": "Redfin",
+    "url": "/wiki/entities/redfin/"
   },
   "Redmi": {
     "title": "Redmi",
@@ -25810,6 +25838,10 @@
   "latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d": {
     "title": "Latin lessons: the Donroe-doctrine boost",
     "url": "/wiki/sources/latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d/"
+  },
+  "live-anthropic-co-founder-on-ai-and-jobs": {
+    "title": "Live: Anthropic co-founder on AI and jobs",
+    "url": "/wiki/sources/live-anthropic-co-founder-on-ai-and-jobs/"
   },
   "marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c": {
     "title": "Marine warfare: Le Pen runs for president",

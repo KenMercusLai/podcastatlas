@@ -2,7 +2,7 @@
 title: "Housing Affordability Supply Mechanics"
 type: concept
 tags: [housing, economics, affordability, supply]
-sources: [building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128, can-transforming-neighborhoods-help-kids-escape-poverty]
+sources: [live-anthropic-co-founder-on-ai-and-jobs, building-things-and-breaking-things-in-china-summer-school-world-tour, two-indicators-for-lowering-the-rent, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128, can-transforming-neighborhoods-help-kids-escape-poverty]
 last_updated: 2026-07-24
 ---
 
@@ -18,6 +18,8 @@ The concept spans both halves of the episode. [[InstitutionalSingleFamilyRental]
 
 [[can-transforming-neighborhoods-help-kids-escape-poverty]] adds a public-housing replacement caution. [[HOPEVIProgram|HOPE VI]] may have improved adult outcomes for children who grew up in successful revitalized sites, but the episode also says the program demolished almost 100,000 public-housing units and rebuilt only about 55,000. That makes [[PublicHousingDisplacement]] part of the supply mechanics, not only a separate social harm.
 
+[[live-anthropic-co-founder-on-ai-and-jobs]] adds [[DarylFairweather]]'s zoning and future-resident version. She argues that eliminating single-family zoning is a major recent housing-policy shift and uses a musical-chairs metaphor to explain why even expensive new housing can still affect broader affordability when it creates more places for households to move.
+
 ## Key Claims
 - Low construction and low interest rates are named as larger national price drivers than institutional home purchases.
 - Cheap housing forms matter; losing SROs removed a rung of the housing ladder.
@@ -25,6 +27,8 @@ The concept spans both halves of the episode. [[InstitutionalSingleFamilyRental]
 - Supply-focused analysis does not deny landlord behavior or resident experience; it asks which mechanism is large enough to move affordability.
 - Post-disaster affordability depends on rebuilding speed and labor efficiency as well as the final material cost of any one house.
 - Public-housing revitalization must count replacement depth and displaced families alongside any opportunity gains for children who remain.
+- Single-family zoning constrains supply by preventing denser housing on land where more households want to live.
+- Housing politics must count would-be residents and future generations, not only current homeowners already present in neighborhood decisions.
 
 ## Connections
 - [[CorporateLandlordTradeoffs]] - corporate-ownership branch.
@@ -34,3 +38,4 @@ The concept spans both halves of the episode. [[InstitutionalSingleFamilyRental]
 - [[ChinaRealEstateDebtCycle]] and [[BuildBuildRegulate]] - overbuilding and guardrail branch added by the China comparison.
 - [[CrossLaminatedTimber]], [[FireResilientConstruction]], and [[NateFoster]] - off-site mass-timber speed branch added by Marketplace Tech.
 - [[HOPEVIProgram]], [[PublicHousingDisplacement]], and [[NeighborhoodOpportunityRevitalization]] - public-housing replacement branch added by Planet Money.
+- [[DarylFairweather]], [[Redfin]], and [[FutureResidentHousingVoice]] - zoning and future-resident branch added by Planet Money.

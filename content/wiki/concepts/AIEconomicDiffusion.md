@@ -2,11 +2,13 @@
 title: "AI Economic Diffusion"
 type: concept
 tags: [ai, productivity, organizations, economics]
-sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
-last_updated: 2026-07-08
+sources: [live-anthropic-co-founder-on-ai-and-jobs, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
+last_updated: 2026-07-24
 ---
 
 # AI Economic Diffusion
+
+[[live-anthropic-co-founder-on-ai-and-jobs]] adds [[JackClark]]'s sharper labor-capacity forecast. Clark predicts that by April 2027, AI systems may be able to complete tasks that would take a person roughly 150 hours, including research, circuit design, source synthesis, and software building. The source therefore pushes the diffusion question beyond firm workflow redesign into [[AIAutomationRedistribution]]: who captures the gains if long knowledge tasks become machine-executable?
 
 AI economic diffusion is the gap between model capability reaching the market and businesses reorganizing enough to convert that capability into productivity, revenue, or lower cost. In [[141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]], [[Freda]] borrows a distinction between technology diffusion and economic diffusion: models may improve quickly, but firms still need to redesign workflows, data capture, software architecture, roles, and incentives.
 
@@ -28,6 +30,7 @@ The episode's electric-motor metaphor connects this to [[TechnologyInstallationC
 - Faster coding is not the same as higher revenue because many organizations are constrained by product direction, responsibility, decision rights, and customer demand rather than programmer headcount alone.
 - Episode 136 raises the urgency: faster coding and agent work may diffuse into labor markets before firms have redesigned accountability and value capture.
 - The LateTalk source adds that diffusion can happen through several channels at once: official coding agents, Slack agents, recorded workflows, open-model post-training, and real-time voice interfaces.
+- Clark's Planet Money forecast adds that diffusion can become a public-finance question if AI systems substitute for large blocks of high-skill knowledge work.
 
 ## Connections
 - [[TechnologyInstallationCycle]] — broader technology-cycle frame.
@@ -38,3 +41,4 @@ The episode's electric-motor metaphor connects this to [[TechnologyInstallationC
 - [[DaiYusen]], [[AIInvestmentMetrics]], [[AgentHarness]], and [[AIOrganizationDesign]] — episode 142's input-output-result and responsibility-boundary formulation.
 - [[AGIThreeActs]], [[ModelAsOperatingSystem]], [[IntelligenceDevaluation]], and [[HumanResourceDeflationComputeInfrastructureInflation]] — episode 136's faster-diffusion and labor-repricing scenario.
 - [[ClaudeTag]], [[RecordAndReplay]], [[EnterpriseOwnedModels]], and [[VoiceInteraction]] — Q2 2026 diffusion channels added by LateTalk.
+- [[JackClark]], [[Anthropic]], [[Claude]], and [[AIAutomationRedistribution]] - long-task forecast and redistribution branch added by Planet Money.

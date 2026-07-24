@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Live: Anthropic co-founder on AI and jobs](sources/live-anthropic-co-founder-on-ai-and-jobs.md) — Planet Money live book-tour episode with Jack Clark and Daryl Fairweather on AI work capacity, robot-tax redistribution, cyber-defense AI as utility, dynamic-pricing fairness, and housing supply politics.
 - [Do prediction market bettors make anything better?](sources/do-prediction-market-bettors-make-anything-better.md) — Planet Money episode on Kalshi, prediction-market trader alpha, derivatives-versus-gambling law, public-good claims, CFTC oversight, and event-contract manipulation risk.
 - [How to get through the Strait of Hormuz](sources/how-to-get-through-the-strait-of-hormuz.md) — Planet Money episode on alleged Strait of Hormuz passage permission, crypto-paid oil-shipping tolls, general average, and freedom-of-navigation risk.
 - [BOOKstore Economics](sources/bookstore-economics.md) — Planet Money episode on how the show's book wins or loses shelf space through bookstore buying, display quantity, returnability, print-run strategy, and launch-day retail placement.
@@ -603,6 +604,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Jack Clark](entities/JackClark.md) — Anthropic co-founder using AI fiction, long-task forecasts, robot-tax redistribution, and cyber-defense utility arguments to frame AI's economic implications.
+- [Daryl Fairweather](entities/DarylFairweather.md) — Redfin chief economist and behavioral economist connecting corporate economics, dynamic-pricing fairness, and housing supply politics.
+- [Redfin](entities/Redfin.md) — Real-estate company context for Daryl Fairweather's Planet Money discussion of housing supply and future-resident voice.
 - [Bobby Allen](entities/BobbyAllen.md) — NPR reporter investigating Kalshi trader culture, app incentives, and the prediction-market legal boundary for Planet Money.
 - [Mary Childs](entities/MaryChilds.md) — Planet Money host whose Kalshi word-betting test grounds the episode's gambling-like user-experience critique.
 - [Tarek Mansour](entities/TarekMansour.md) — Kalshi co-founder and CEO defending event contracts as markets rather than gambling.
@@ -4077,6 +4081,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Automation Redistribution](concepts/AIAutomationRedistribution.md) — Policy frame where advanced AI production may require taxing robots or AI companies to move machine-economy gains back into the human economy.
+- [AI Cyber-Defense Utility](concepts/AICyberDefenseUtility.md) — Argument that socially important cyber-capable AI may need broad, utility-like defensive access rather than ordinary margin-maximizing software pricing.
+- [Dynamic Pricing Fairness](concepts/DynamicPricingFairness.md) — Tension between price-based shortage allocation, supply response, consumer fairness, queues, and envy-free market design.
+- [Future Resident Housing Voice](concepts/FutureResidentHousingVoice.md) — Housing-policy frame asking local decisions to represent would-be residents, children, and future generations excluded from current homeowner politics.
 - [Prediction Market Legal Boundary](concepts/PredictionMarketLegalBoundary.md) — Whether yes-or-no event contracts are federally regulated derivatives or state-regulated gambling products.
 - [Prediction Market Public-Good Claim](concepts/PredictionMarketPublicGoodClaim.md) — Argument that event markets improve public knowledge by turning dispersed beliefs into money-backed prices.
 - [Prediction Market Trader Alpha](concepts/PredictionMarketTraderAlpha.md) — Private edge traders seek in event markets through research, speed, niche expertise, physical observation, or settlement-rule interpretation.

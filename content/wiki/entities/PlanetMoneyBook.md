@@ -2,11 +2,13 @@
 title: "Planet Money Book"
 type: entity
 tags: [book, publishing, media, economics]
-sources: [inside-a-book-auction, bookstore-economics]
+sources: [live-anthropic-co-founder-on-ai-and-jobs, inside-a-book-auction, bookstore-economics]
 last_updated: 2026-07-24
 ---
 
 # Planet Money Book
+
+[[live-anthropic-co-founder-on-ai-and-jobs]] adds the book-tour afterlife of the project. The episode says [[PlanetMoney]] took the book to live audiences in several cities and used those events to stage interviews with guests such as [[JackClark]], [[DarylFairweather]], [[RajChetty]], and Emily Oster, turning the book from a publishing object into a live economics-explanation format.
 
 The Planet Money book is the book project followed across [[inside-a-book-auction]] and [[bookstore-economics]]. The first source shows the project becoming a proposal, auction, and [[WWNorton|W. W. Norton]] acquisition; the second follows the same book into bookstore ordering, shelf placement, print-run modeling, and launch-day uncertainty.
 
@@ -20,5 +22,6 @@ The book's wiki value is that it turns [[PlanetMoney]] itself into the market ob
 
 ## Connections
 - [[NPR]], [[PlanetMoney]], [[AlexGoldmark]], [[AlexiHorowitzGhazi]], [[TomMayer]], and [[StephenPace]] - people and institutions around the book.
+- [[JackClark]], [[DarylFairweather]], and [[RajChetty]] - live-tour interview branch added by Planet Money.
 - [[WWNorton|W. W. Norton]], [[CarmichaelsBookstore|Carmichael's Bookstore]], and [[McNallyJackson]] - publisher and bookstore contexts.
 - [[BookPublishingEconomics]], [[AuthorPlatformRiskReduction]], [[BookstoreBuying]], [[BookReturnability]], [[BookPrintRunStrategy]], and [[RetailShelfPlacement]] - concepts demonstrated by the book.
