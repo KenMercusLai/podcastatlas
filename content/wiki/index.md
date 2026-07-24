@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Venezuela's recent economic history (Update)](sources/venezuelas-recent-economic-history-update.md) — Planet Money episode on Venezuela's oil revenue dependence, Chavez-era currency controls, import bottlenecks, Maduro's oil-price shock, sanctions, hyperinflation, migration, and unequal dollarized stabilization.
 - [Indicators of 2025 and What to Watch in 2026](sources/indicators-of-2025-and-what-to-watch-in-2026.md) — Planet Money and The Indicator crossover using consumer sentiment, tariff rates, CAPE, the federal funds rate, electricity rates, and consumer spending as 2025 recap and 2026 watchlist indicators.
 - [Would you trust an economist with your economy?](sources/would-you-trust-an-economist-with-your-economy.md) — Planet Money episode on economists' trust crisis, BLS data credibility, forecasting limits, work-from-home evidence, aggregate indicators versus lived experience, and expert trust repair.
 - [Seven allegedly fake Chanel bags vs The RealReal](sources/seven-allegedly-fake-chanel-bags-vs-the-realreal.md) — Planet Money episode on Chanel, The RealReal, luxury resale authentication, trademark boundaries, first-sale doctrine, and anti-competitive resale-control claims.
@@ -585,6 +586,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Hugo Chavez](entities/HugoChavez.md) — Venezuelan leader whose oil-funded spending, Citgo diplomacy, and post-2003 exchange controls frame the source's boom-to-trap story.
+- [Nicolas Maduro](entities/NicolasMaduro.md) — Chavez successor in the source, inheriting currency controls and oil dependence as prices collapsed and sanctions intensified.
+- [Alejandro Velasco](entities/AlejandroVelasco.md) — Venezuela expert explaining the emergency-to-trap exchange-rate system and later dollarized stabilization.
+- [Alex Rosenberg](entities/AlexRosenberg.md) — Importer whose stalled fabric imports show how official dollar approval became a business and medical-supply bottleneck.
+- [Citgo](entities/Citgo.md) — Venezuelan state-owned oil company used in the source as Chavez's discounted U.S. heating-oil outreach vehicle.
 - [The Indicator](entities/TheIndicator.md) — NPR/Planet Money-related economics show context for the crossover indicator contest and 2026 watchlist.
 - [Darian Woods](entities/DarianWoods.md) — Source participant pitching the CAPE ratio as a 2025 indicator for elevated valuation, AI boom risk, and K-shaped economy anxieties.
 - [Waylon Wong](entities/WaylonWong.md) — Host and participant who frames the crossover episode and selects the federal funds rate as a 2026 indicator.
@@ -3925,6 +3931,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Currency Control Trap](concepts/CurrencyControlTrap.md) — Emergency exchange-rate control pattern that becomes a long-term source of black-market arbitrage, import shortages, inflation, and policy avoidance.
+- [Dollarized Stabilization](concepts/DollarizedStabilization.md) — Partial recovery pattern where U.S. dollars restore some transactions and planning after currency collapse while increasing inequality by dollar access.
+- [Oil Revenue Dependence](concepts/OilRevenueDependence.md) — Country-level vulnerability where state spending, imports, and currency support depend heavily on oil income.
+- [Import Approval Bottleneck](concepts/ImportApprovalBottleneck.md) — Shortage mechanism where firms need state permission and official dollars before they can pay foreign suppliers and import goods.
 - [Consumer Sentiment Indicator](concepts/ConsumerSentimentIndicator.md) — Survey-based household mood signal used to explain 2025 anxiety despite other hard economic data.
 - [Effective Tariff Rate Shock](concepts/EffectiveTariffRateShock.md) — 2025 tariff-rate jump framed as a consumer-price, market-volatility, and legal-authority event.
 - [CAPE Ratio Valuation Signal](concepts/CAPERatioValuationSignal.md) — Cyclically adjusted price-to-earnings indicator used to connect expensive equities, AI boom risk, and future return fragility.

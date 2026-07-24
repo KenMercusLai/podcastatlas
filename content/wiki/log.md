@@ -4699,3 +4699,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | Venezuela's recent economic history (Update)
+
+Added source page for a Planet Money episode on Venezuela's oil revenue dependence, Chavez-era currency controls, importer approval bottlenecks, Maduro's inherited oil-price shock, sanctions, hyperinflation, migration, remittances, and unequal dollarized stabilization. Created pages for Hugo Chavez, Nicolas Maduro, Alejandro Velasco, Alex Rosenberg, Citgo, Currency Control Trap, Dollarized Stabilization, Oil Revenue Dependence, and Import Approval Bottleneck; updated overview, index, NPR, Planet Money, Venezuela, United States, Donald Trump, OPEC, Commodity Price Exposure, Economic Sanctions As Violence, and Economic Hardship Protest Trigger. No direct contradiction found; the source's current-crisis opening claims are kept source-scoped and the historical economic account complements the existing Cuba oil-dependence and later Venezuela disaster-response branches.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

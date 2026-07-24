@@ -2,8 +2,8 @@
 title: "Commodity Price Exposure"
 type: concept
 tags: [pricing, consumer-products, risk, operations]
-sources: [dark-times-for-cubas-economic-experiment, the-secret-meeting-that-launched-opec, advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5, jiufan-zhongting-mifeng-jingjixue-956460448, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]
-last_updated: 2026-07-23
+sources: [venezuelas-recent-economic-history-update, dark-times-for-cubas-economic-experiment, the-secret-meeting-that-launched-opec, advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5, jiufan-zhongting-mifeng-jingjixue-956460448, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]
+last_updated: 2026-07-24
 ---
 
 # Commodity Price Exposure
@@ -22,6 +22,8 @@ The concept is not only a margin problem. It can force a founder to decide wheth
 
 [[dark-times-for-cubas-economic-experiment]] adds a country-level oil-dependence version through [[Cuba]]. The source is less about global oil prices than about physical access to fuel: when favorable oil support from the [[SovietUnion]] and later [[Venezuela]] weakens or is blocked, electricity, transport, communication, tourism, and household routines all become exposed through [[OilDependencyBlackoutRisk]].
 
+[[venezuelas-recent-economic-history-update]] adds the exporter-side country version through [[Venezuela]]. The source says oil revenue funded state spending, imports, and cheap dollar access under [[HugoChavez]], then the 2014 oil-price collapse left [[NicolasMaduro]] with too few dollars to sustain imports or the official exchange-rate system. This turns commodity exposure into [[OilRevenueDependence]], [[CurrencyControlTrap]], and [[ImportApprovalBottleneck]] rather than only price volatility.
+
 ## Key Claims
 - Input-price shocks can turn a premium product into a smaller-market product even when margins are protected.
 - A founder should distinguish the material customers love from the emotional or functional job the material serves.
@@ -33,6 +35,7 @@ The concept is not only a margin problem. It can force a founder to decide wheth
 - Producer-side commodity exposure can trigger coordination, destruction of surplus, origin labeling, or standards as protective responses.
 - Oil-price exposure can depend on producer quotas, swing-producer behavior, shipping confidence, and reserve rebuilding rather than only on total geological supply.
 - Country-level oil exposure can appear as blackouts and service failure when the problem is access to fuel, not just price.
+- Exporter-side oil exposure can become a currency crisis when state budgets, imports, and official exchange rates all depend on oil dollars.
 
 ## Connections
 - [[YearlyCo]] and [[AnneWilliams]] - source case.
@@ -43,3 +46,4 @@ The concept is not only a margin problem. It can force a founder to decide wheth
 - [[Coffee]], [[Brazil]], and [[CoffeeCommodityPolitics]] - coffee speculation, overproduction, and producer-protection extension.
 - [[OPEC]], [[OilProducerSupplyCoordination]], [[SwingProducerRole]], [[GreenParadox]], and [[StraitOfHormuz]] - oil-market coordination and chokepoint extension.
 - [[Cuba]], [[Venezuela]], [[ExternalPatronDependence]], and [[OilDependencyBlackoutRisk]] - country-level oil access extension.
+- [[OilRevenueDependence]], [[CurrencyControlTrap]], and [[ImportApprovalBottleneck]] - Venezuela exporter-side extension.

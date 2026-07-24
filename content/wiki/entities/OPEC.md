@@ -2,8 +2,8 @@
 title: "OPEC"
 type: entity
 tags: [organization, energy, oil, geopolitics]
-sources: [the-secret-meeting-that-launched-opec]
-last_updated: 2026-07-18
+sources: [venezuelas-recent-economic-history-update, the-secret-meeting-that-launched-opec]
+last_updated: 2026-07-24
 ---
 
 # OPEC
@@ -14,11 +14,14 @@ The page's central role in the wiki is as a case of [[OilProducerSupplyCoordinat
 
 The source also makes OPEC structurally fragile. [[ProductionQuotaDiscipline]] is hard because each member has an incentive to sell extra barrels when prices are high. [[SaudiArabia]]'s [[SwingProducerRole]] can stabilize the group, but it also concentrates adjustment pain on one member and can trigger retaliation when others cheat.
 
+[[venezuelas-recent-economic-history-update]] adds OPEC from the dependent-producer side. The source says [[NicolasMaduro]] appealed to OPEC for help after oil prices collapsed in 2014, showing how a member state's domestic fiscal and currency system can become exposed when oil coordination does not preserve enough revenue.
+
 ## Connections
 - [[SevenSistersOilMajors]] - predecessor company power structure that OPEC pushed against.
 - [[WandaJablonski]] - journalist whose reporting and relationships helped producer officials understand the oil-company structure.
 - [[OilProducerSupplyCoordination]] - core market-power mechanism.
 - [[ProductionQuotaDiscipline]] and [[SwingProducerRole]] - quota and stabilization mechanisms.
 - [[SaudiArabia]], [[UnitedArabEmirates|United Arab Emirates]], [[Venezuela]], and [[Iran]] - source countries tied to OPEC's founding, operations, or later conflict.
+- [[NicolasMaduro]], [[OilRevenueDependence]], and [[CurrencyControlTrap]] - Venezuela collapse branch added by Planet Money.
 - [[GreenParadox]] - long-term demand-collapse incentive that the source uses to explain UAE pressure to pump more.
 - [[StraitOfHormuz]] and [[ChokepointShippingConfidence]] - shipping layer that can overwhelm formal supply decisions.

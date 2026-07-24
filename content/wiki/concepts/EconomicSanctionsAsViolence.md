@@ -2,8 +2,8 @@
 title: "Economic Sanctions As Violence"
 type: concept
 tags: [sanctions, ethics, civilians, foreign-policy]
-sources: [dark-times-for-cubas-economic-experiment, iran-protests-and-sanctions]
-last_updated: 2026-07-23
+sources: [venezuelas-recent-economic-history-update, dark-times-for-cubas-economic-experiment, iran-protests-and-sanctions]
+last_updated: 2026-07-24
 ---
 
 # Economic Sanctions As Violence
@@ -14,12 +14,15 @@ The concept does not say sanctions are identical to war. It says their moral app
 
 [[dark-times-for-cubas-economic-experiment]] adds an energy-and-tourism version through [[Cuba]]. The episode says U.S. pressure around oil shipments and travel restrictions reaches civilians through [[OilDependencyBlackoutRisk]], fuel shortages, unreliable communications, collapsed tourism income, migration, and protests rather than only through banks or currency markets.
 
+[[venezuelas-recent-economic-history-update]] adds the Venezuela version. The source says [[DonaldTrump]]-era sanctions made it harder for [[Venezuela]] to sell oil and helped catalyze severe hyperinflation after the economy was already weakened by [[OilRevenueDependence]] and [[CurrencyControlTrap]]. The episode's update then shows the uneven civilian aftermath: [[DollarizedStabilization]] helped people with dollar access but left much of the population struggling.
+
 ## Key Claims
 - Sanctions often work through broad civilian economic pain rather than only elite pressure.
 - Humanitarian exemptions may fail in practice when [[SanctionsOvercompliance]] makes banks and suppliers avoid even legal transactions.
 - [[EconomicHardshipProtestTrigger]] can make sanctions look politically effective while also exposing their human cost.
 - Sanctions can empower insiders through [[SanctionsInsiderConsolidation]], complicating claims that pressure neatly weakens authoritarian regimes.
 - Energy sanctions or oil-pressure campaigns can create civilian harm through blackouts, transport failure, food-storage risk, and business collapse.
+- Sanctions can intensify a preexisting currency crisis when export dollars are already scarce and the official money system has lost credibility.
 
 ## Connections
 - [[IranSanctions]] - central source case.
@@ -28,3 +31,4 @@ The concept does not say sanctions are identical to war. It says their moral app
 - [[EconomicHardshipProtestTrigger]] - protest pathway shaped by economic pressure.
 - [[Iran]], [[UnitedStates]], and [[USIranNuclearDiplomacy]] - policy context.
 - [[Cuba]], [[Venezuela]], [[TourismDependentSmallEconomy]], and [[OilDependencyBlackoutRisk]] - Cuba crisis extension added by Planet Money.
+- [[Venezuela]], [[NicolasMaduro]], [[OilRevenueDependence]], [[CurrencyControlTrap]], and [[DollarizedStabilization]] - Venezuela crisis extension added by Planet Money.

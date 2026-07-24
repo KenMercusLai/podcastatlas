@@ -2,8 +2,8 @@
 title: "Economic Hardship Protest Trigger"
 type: concept
 tags: [protest, inflation, currency, politics]
-sources: [dark-times-for-cubas-economic-experiment, iran-protests-and-sanctions]
-last_updated: 2026-07-23
+sources: [venezuelas-recent-economic-history-update, dark-times-for-cubas-economic-experiment, iran-protests-and-sanctions]
+last_updated: 2026-07-24
 ---
 
 # Economic Hardship Protest Trigger
@@ -14,12 +14,15 @@ The concept matters because it links macro policy to street politics. [[IranSanc
 
 [[dark-times-for-cubas-economic-experiment]] adds the Cuba version. The episode says blackouts, fuel shortages, visible inequality between better-lit neighborhoods and darker areas, and the government's failure to meet basic needs contributed to protests and migration, making [[OilDependencyBlackoutRisk]] a public-legitimacy problem rather than only an infrastructure failure.
 
+[[venezuelas-recent-economic-history-update]] adds a Venezuela version where the main visible outcome is migration, political legitimacy loss, and disputed recovery rather than one protest scene. Hyperinflation, shortages, and unequal [[DollarizedStabilization]] help explain why economic collapse becomes a regime-stability problem even when the episode focuses more on monetary mechanics than street mobilization.
+
 ## Key Claims
 - Currency collapse can become politically visible when merchants cannot price goods and households cannot keep up with daily costs.
 - Coded protest language can lower coordination barriers under repression.
 - Economic anger can combine with human-rights, women's-rights, anti-corruption, and freedom demands rather than replacing them.
 - Crackdown risk means hardship-triggered protest is not evidence that economic pressure is costless or cleanly effective.
 - Service collapse can become a protest trigger when electricity, fuel, communication, and food-storage failures are visible across everyday life.
+- Hyperinflation and shortages can turn a monetary crisis into a legitimacy and migration crisis even before a source follows a specific protest event.
 
 ## Connections
 - [[AliIranProtester|Ali]], [[RezaPahlavi]], and [[Iran]] - source case.
@@ -27,3 +30,4 @@ The concept matters because it links macro policy to street politics. [[IranSanc
 - [[FoodInflation]] and [[CurrencyRisk]] - broader economic frames connected to household pressure.
 - [[SanctionsInsiderConsolidation]] - distributional contrast between ordinary stress and insider advantage.
 - [[Cuba]], [[OilDependencyBlackoutRisk]], [[ConstrainedMarketReform]], and [[EconomicSanctionsAsViolence]] - Cuba crisis extension added by Planet Money.
+- [[Venezuela]], [[CurrencyControlTrap]], [[DollarizedStabilization]], and [[EconomicSanctionsAsViolence]] - Venezuela crisis extension added by Planet Money.
