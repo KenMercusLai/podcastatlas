@@ -2,11 +2,13 @@
 title: "Strait of Hormuz"
 type: entity
 tags: [place, geopolitics, shipping]
-sources: [the-secret-meeting-that-launched-opec, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
-last_updated: 2026-07-18
+sources: [how-to-get-through-the-strait-of-hormuz, the-secret-meeting-that-launched-opec, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
+last_updated: 2026-07-24
 ---
 
 # Strait of Hormuz
+
+[[how-to-get-through-the-strait-of-hormuz]] adds a [[PlanetMoney]] operational account of the strait as a possible toll booth. [[HamidHosseini]] says an Indian oil-ship owner sought [[SepahNavy]] permission, passed screening around vessel identity, flag, destination, cargo, crew, and adversary links, then paid an alleged crypto toll before sailing toward [[India]]. The source keeps the toll claim attributed to Hosseini's unnamed contacts.
 
 The Strait of Hormuz appears in [[the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]] as a strategic passage tied to the ceasefire and post-war diplomacy around [[Iran]]. The episode says Iran continued showing control over the strait by demanding that shipping follow its lanes and procedures.
 
@@ -34,3 +36,4 @@ In the source, the strait is not only an oil-market chokepoint. It is part of a 
 - [[NicholasPelham]] - contributor describing the stalled-waterway effect in the renewed-strikes episode.
 - [[GregCarlstrom]] and [[ChokepointShippingConfidence]] - later episode's shipping-confidence and safe-passage interpretation branch.
 - [[OPEC]], [[UnitedArabEmirates|United Arab Emirates]], [[KateDurian]], and [[OilProducerSupplyCoordination]] - oil-market branch where chokepoint disruption limits the effect of extra production.
+- [[HamidHosseini]], [[SepahNavy]], [[MaritimeChokepointTolling]], [[SanctionsEvasionCryptoPayments]], and [[FreedomOfNavigationTradeOrder]] - Planet Money branch on alleged permission, crypto tolling, and free-navigation risk.

@@ -2,11 +2,13 @@
 title: "India"
 type: entity
 tags: [country, law, social-policy, asia]
-sources: [how-to-get-what-greenland-has-with-permission, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
+sources: [how-to-get-through-the-strait-of-hormuz, how-to-get-what-greenland-has-with-permission, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
 last_updated: 2026-07-24
 ---
 
 # India
+
+[[how-to-get-through-the-strait-of-hormuz]] adds India as both a publishing-supply origin and an oil-shipping destination. [[ChristianStClair]] says [[FantagraphicsBooks]] books were printed in India, while [[HamidHosseini]] says an unnamed Indian oil-ship owner obtained [[SepahNavy]] passage permission and paid an alleged crypto toll before sailing through the [[StraitOfHormuz]] toward India.
 
 India appears in [[peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]] through Asian elder-care law. The episode highlights [[Telangana]], where a law can transfer up to 15% of an adult child's salary to neglected parents, and also groups India with countries that have legal protections against elder abuse and financial exploitation.
 
@@ -23,3 +25,4 @@ In the wiki, India becomes one of the source's examples for [[FilialPietyLaws]] 
 - [[FarahChia]] and [[TheIntelligence]] - contributor and source context.
 - [[LeoMirani]], [[NationalInformaticsCentre]], [[Aadhaar]], [[UPI]], [[GovernmentWebsiteUsability]], [[BureaucraticRiskAvoidance]], and [[PublicServiceDigitalization]] - public-service software branch added by the later episode.
 - [[Greenland]], [[GracelandBaskaran]], and [[RareEarthProcessingBottleneck]] - critical-minerals processing branch added by Planet Money.
+- [[ChristianStClair]], [[FantagraphicsBooks]], [[HamidHosseini]], [[SepahNavy]], and [[MaritimeChokepointTolling]] - Planet Money branch where India appears in both cargo origin and oil-destination roles.

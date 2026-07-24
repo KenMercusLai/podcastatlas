@@ -2,8 +2,8 @@
 title: "Dollar Financial Sanctions"
 type: concept
 tags: [sanctions, finance, dollar-system, geopolitics]
-sources: [iran-protests-and-sanctions]
-last_updated: 2026-07-15
+sources: [how-to-get-through-the-strait-of-hormuz, iran-protests-and-sanctions]
+last_updated: 2026-07-24
 ---
 
 # Dollar Financial Sanctions
@@ -11,6 +11,8 @@ last_updated: 2026-07-15
 Dollar financial sanctions are the use of U.S. dollar clearing, global banking access, and compliance risk to isolate a target economy. [[iran-protests-and-sanctions]] explains the mechanism through the 2010-era campaign against [[Iran]]: the [[UnitedStates]] pressured countries to reduce Iranian oil imports and warned banks around the world that doing business with Iran could put their own access to the financial system at risk.
 
 The concept matters because it turns finance into state power. A sanction does not need to ban every transaction directly if banks, regulators, and counterparties conclude that the safe choice is to leave the target country alone. In the source, [[USTreasury|U.S. Treasury]] outreach to financial institutions and regulators becomes the operating layer that makes [[IranSanctions]] bite.
+
+[[how-to-get-through-the-strait-of-hormuz]] adds the workaround side of the same mechanism. The [[PlanetMoney]] episode says [[HamidHosseini]] described an alleged [[StraitOfHormuz]] toll being requested in crypto rather than dollars, showing why actors may seek [[SanctionsEvasionCryptoPayments]] when dollar settlement is exposed to U.S. enforcement.
 
 ## Key Claims
 - The dollar system lets U.S. policy reach beyond direct U.S.-Iran trade.
@@ -24,3 +26,4 @@ The concept matters because it turns finance into state power. A sanction does n
 - [[UnitedStates]] and [[Iran]] - sanctioning and target states.
 - [[SanctionsOvercompliance]] - downstream effect when banks continue avoiding permissible transactions.
 - [[StablecoinSanctionsEvasion]] - adjacent branch where actors seek payment rails outside ordinary bank channels.
+- [[SanctionsEvasionCryptoPayments]], [[VirtualAssetAMLRisk]], and [[MaritimeChokepointTolling]] - alleged crypto toll branch added by Planet Money.

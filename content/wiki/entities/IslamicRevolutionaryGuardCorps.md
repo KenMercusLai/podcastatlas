@@ -2,11 +2,13 @@
 title: "Islamic Revolutionary Guard Corps"
 type: entity
 tags: [organization, iran, sanctions, security]
-sources: [iran-protests-and-sanctions, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]
-last_updated: 2026-07-15
+sources: [how-to-get-through-the-strait-of-hormuz, iran-protests-and-sanctions, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]
+last_updated: 2026-07-24
 ---
 
 # Islamic Revolutionary Guard Corps
+
+[[how-to-get-through-the-strait-of-hormuz]] adds a maritime passage-control branch. [[HamidHosseini]] says an Indian ship owner contacted the [[SepahNavy]], identified by the source as part of the IRGC, to request [[StraitOfHormuz]] passage and later paid an alleged crypto toll. The claim remains tied to Hosseini's account because the episode does not independently verify the underlying contacts.
 
 [[tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128]] extends the IRGC page from sanctions and crypto laundering into [[IranLinkedCyberOperations]]. In that episode, [[RafePilling]] of [[Sophos]] identifies the [[IslamicRevolutionaryGuardCorps]] and the [[MinistryOfIntelligenceAndSecurity]] as two main sponsors of cyber operations emanating from [[Iran]].
 
@@ -24,3 +26,4 @@ In the wiki, the organization connects the [[Iran]] branch to both [[StablecoinS
 - [[StablecoinSanctionsEvasion]], [[VirtualAssetAMLRisk]], and [[AntiMoneyLaundering]] - compliance and sanctions-evasion frame.
 - [[TRMLabs]] and [[AriRedbord]] - report source and episode expert.
 - [[IranSanctions]], [[EconomicSanctionsAsViolence]], and [[SanctionsInsiderConsolidation]] - sanctions political-economy frame added by Planet Money.
+- [[SepahNavy]], [[StraitOfHormuz]], [[MaritimeChokepointTolling]], and [[SanctionsEvasionCryptoPayments]] - passage-control and alleged crypto-toll branch added by Planet Money.

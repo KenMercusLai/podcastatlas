@@ -2,8 +2,8 @@
 title: "Virtual Asset AML Risk"
 type: concept
 tags: [crypto, finance, compliance, aml]
-sources: [tech-20260114-0114-mp-tech-pod-128-tech-20260114-0114-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, socialradarspod-brianarmstrong-final]
-last_updated: 2026-07-23
+sources: [how-to-get-through-the-strait-of-hormuz, tech-20260114-0114-mp-tech-pod-128-tech-20260114-0114-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, ep44-momo-koudai-limian-de-qian-juran-shi-zang-de-li-4f9d60jmelqituybbioyyflxr, socialradarspod-brianarmstrong-final]
+last_updated: 2026-07-24
 ---
 
 # Virtual Asset AML Risk
@@ -17,6 +17,8 @@ Virtual asset AML risk is the use of crypto assets, stablecoins, exchanges, mine
 [[socialradarspod-brianarmstrong-final]] adds the exchange-operator side through [[Coinbase]]. [[BrianArmstrong]] says adding bank transfers forced the company to learn [[AntiMoneyLaundering]] and build a trusted posture. The source therefore complements the user-risk view with the operator problem: if a virtual-asset company wants banking access, AML policy and transaction controls become part of product feasibility.
 
 [[tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]] adds a national-security and scam-network layer. [[TRMLabs]] reports large absolute illicit crypto volumes in 2025, while [[AriRedbord]] points to [[A7A5]], [[NorthKorea]] exchange attacks, Iran-linked crypto exchanges, and [[PrinceGroup]] as examples where virtual assets intersect with sanctions evasion, cyber activity, and consumer fraud.
+
+[[how-to-get-through-the-strait-of-hormuz]] adds a source-attributed maritime toll example. [[HamidHosseini]] says an oil ship paid an alleged [[StraitOfHormuz]] passage toll in crypto, making [[SanctionsEvasionCryptoPayments]] a bridge between chokepoint control, [[DollarFinancialSanctions]], and payment-channel opacity.
 
 ## Key Claims
 - Public blockchains can make transactions visible, but identifying the person behind an address or exchange account may still be hard.
@@ -40,3 +42,4 @@ Virtual asset AML risk is the use of crypto assets, stablecoins, exchanges, mine
 - [[UndergroundMoneyTransferRisk]] — platforms and informal conversion routes can overlap with virtual-asset movement.
 - [[Coinbase]], [[SiliconValleyBank]], and [[RegulatedCryptoTrustStrategy]] — operator-side AML branch added by the Armstrong episode.
 - [[TRMLabs]] and [[AriRedbord]] — Marketplace Tech source for crypto-crime measurement.
+- [[SanctionsEvasionCryptoPayments]], [[HamidHosseini]], [[SepahNavy]], and [[MaritimeChokepointTolling]] - Planet Money branch on an alleged crypto-paid passage toll.

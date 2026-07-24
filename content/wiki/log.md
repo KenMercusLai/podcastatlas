@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-24] ingest | How to get through the Strait of Hormuz
+
+Added source page for a Planet Money episode on alleged Strait of Hormuz passage permission, crypto-paid oil-shipping tolls, Fantagraphics Books' delayed shipment scare, general average, Flexport's logistics view, and freedom-of-navigation risk. Created pages for Christian St. Clair, Fantagraphics Books, One Majesty, Hamid Hosseini, OPEX, Sepah Navy, Maritime Chokepoint Tolling, General Average, Freedom of Navigation Trade Order, and Sanctions Evasion Crypto Payments; updated overview, index, NPR, Planet Money, Strait of Hormuz, Iran, United States, India, Islamic Revolutionary Guard Corps, Flexport, Ryan Petersen, Chokepoint Shipping Confidence, Iran Sanctions, Dollar Financial Sanctions, Virtual Asset AML Risk, Global Logistics Coordination, and Logistics Crisis Response. No direct contradiction found; the source's alleged toll mechanism is kept source-attributed because the episode says it depended on Hosseini's unnamed contacts rather than independent verification.
+
 ## [2026-07-24] ingest | Planet Money vs. the NBA's tanking problem
 
 Added source page for a Planet Money episode on NBA tanking, draft lottery incentives, the draft wheel, the Gold Plan, the PWHL, the NWSL no-draft model, and player autonomy. Created pages for Adam Silver, Zach Lowe, Houston Rockets, Professional Women's Hockey League, Jaina Hefford, Adam Gold, National Women's Soccer League, Sam Uys, Sports Draft Incentive Design, Sports Tanking, Draft Lottery Tradeoff, Draft Wheel, Gold Plan, No-Draft Player Market, Sports Player Autonomy, and Sports Competitive Balance; updated overview, index, NPR, Planet Money, National Basketball Association, League Stakeholder Alignment, Sports Entertainment Flywheel, and Economic Way Of Thinking. No direct contradiction found; the source extends the sports-business branch by showing that league rules can make losing rational and that every anti-tanking fix shifts costs among weak teams, fans, owners, small markets, and incoming players.
@@ -4815,6 +4819,10 @@ Ran lint after health passed. Deterministic checks scanned 6,644 pages and found
 ## [2026-07-24] ingest | The little pet fish that saved a town in the Amazon
 
 Added source page for a Planet Money episode on Barcelos, Brazil's wild Cardinal Tetra economy, the piabero livelihood system, sustainable wild harvesting, farmed competition from outside the Amazon, Project Piaba's traceability and handling strategy, and the town's pivot toward Peacock Bass sport-fishing tourism. Created pages for Barcelos, Rio Negro, Cardinal Tetra, Project Piaba, Aramara Castro, Deco, Vanda Ilson Siqueira, Peacock Bass, Piabero Economy, Sustainable Wild Harvesting, Local Product Advantage Erosion, Origin Traceability Moat, and Heritage Tourism Pivot; updated overview, index, NPR, Planet Money, Brazil, Localized Innovation Advantage, Conservation Intervention, Environmental Tradeoff Accounting, and Tourism-Dependent Small Economy. No direct contradiction found; the source qualifies localized-innovation optimism by showing that a local ecological advantage can be copied elsewhere, and it complicates conservation-versus-commerce framing by presenting bounded wild harvest as a possible habitat-protection strategy.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-24] lint | Wiki health check
 

@@ -2,7 +2,7 @@
 title: "Iran"
 type: entity
 tags: [country, politics, geopolitics, sanctions]
-sources: [a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, the-secret-meeting-that-launched-opec, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
+sources: [how-to-get-through-the-strait-of-hormuz, a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, the-secret-meeting-that-launched-opec, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f, can-computer-hackers-get-inside-your-mind, iran-protests-and-sanctions, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, tech-20260305-0305-mp-tech-pod-128-tech-20260305-0305-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6, coming-in-andy-britains-prime-minister-in-waiting-6a3512974a2a3be0f419384b, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, chule-shiyou-he-haixia-zhejie-yilang-zhanzheng-kaishi-suanji-nide-fuwuqi-le-keji-luandun]
 last_updated: 2026-07-24
 ---
 
@@ -36,6 +36,8 @@ The source frames Iran's state capacity as contested. Funeral logistics, slogans
 
 [[strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]] adds the memorandum-collapse stage. The episode says Iran attacked three ships in the [[StraitOfHormuz]] and interpreted safe-passage language as a right to administer commercial traffic, forfeiting benefits from sanctions relief and the end of the blockade while leaving America with few attractive escalation options.
 
+[[how-to-get-through-the-strait-of-hormuz]] adds a [[PlanetMoney]] account of what "administer commercial traffic" could mean operationally. [[HamidHosseini]] says an Indian oil-ship owner sought [[SepahNavy]] permission, passed screening around adversary links, and paid an alleged crypto toll before crossing the [[StraitOfHormuz]]. The wiki treats the toll mechanism as source-attributed rather than confirmed Iranian policy.
+
 [[the-secret-meeting-that-launched-opec]] adds an oil-producer-institution layer. The [[PlanetMoney]] episode names Iran as part of the 1959 secret-meeting context behind [[OPEC]], then later treats Iran's conflict with the [[UnitedArabEmirates|UAE]] and disruption around the [[StraitOfHormuz]] as a reason cartel-like [[OilProducerSupplyCoordination]] becomes harder when members' security interests diverge.
 
 ## Connections
@@ -60,3 +62,4 @@ The source frames Iran's state capacity as contested. Funeral logistics, slogans
 - [[ChokepointShippingConfidence]] and [[GregCarlstrom]] - safe-passage ambiguity and shipowner/insurer confidence branch added by the later The Intelligence episode.
 - [[OPEC]], [[OilProducerSupplyCoordination]], [[UnitedArabEmirates|United Arab Emirates]], and [[KateDurian]] - producer-coordination and member-conflict branch added by Planet Money.
 - [[LindseyGraham]] and [[RepublicanForeignPolicyAdaptation]] - hawkish anti-diplomacy branch added by The Intelligence.
+- [[HamidHosseini]], [[SepahNavy]], [[MaritimeChokepointTolling]], and [[SanctionsEvasionCryptoPayments]] - source-attributed passage-permission and crypto-toll branch added by Planet Money.

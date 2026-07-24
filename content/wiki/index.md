@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to get through the Strait of Hormuz](sources/how-to-get-through-the-strait-of-hormuz.md) — Planet Money episode on alleged Strait of Hormuz passage permission, crypto-paid oil-shipping tolls, general average, and freedom-of-navigation risk.
 - [BOOKstore Economics](sources/bookstore-economics.md) — Planet Money episode on how the show's book wins or loses shelf space through bookstore buying, display quantity, returnability, print-run strategy, and launch-day retail placement.
 - [Inside a BOOK auction](sources/inside-a-book-auction.md) — Planet Money episode on the hidden economics of nonfiction book deals, literary agents, proposal packaging, publisher meetings, auction design, advances, platform risk, and Norton's educational-distribution win.
 - [The little pet fish that saved a town in the Amazon](sources/the-little-pet-fish-that-saved-a-town-in-the-amazon.md) — Planet Money episode on Barcelos, Brazil's wild Cardinal Tetra economy, sustainable ornamental-fish harvesting, farmed competition, Project Piaba, traceability, and the town's sport-fishing tourism pivot.
@@ -601,6 +602,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Christian St. Clair](entities/ChristianStClair.md) — Fantagraphics Books production manager whose delayed India-printed books make the Hormuz shipping crisis concrete.
+- [Fantagraphics Books](entities/FantagraphicsBooks.md) — Comics publisher whose shipment shows how geopolitical chokepoints can affect small cargo owners.
+- [One Majesty](entities/OneMajesty.md) — Bright pink container ship initially believed to hold Fantagraphics cargo after a Strait of Hormuz attack.
+- [Hamid Hosseini](entities/HamidHosseini.md) — OPEX spokesperson giving the source-attributed account of a Sepah Navy permission process and crypto-paid oil-shipping toll.
+- [OPEX](entities/OPEX.md) — Iranian oil, gas, and petroleum products exporters union represented by Hamid Hosseini in the episode.
+- [Sepah Navy](entities/SepahNavy.md) — IRGC-linked naval authority named in the source-attributed vessel permission account.
 - [Alex Goldmark](entities/AlexGoldmark.md) — Planet Money executive producer whose choice of Norton over a higher-money offer grounds the episode's mission-fit publishing decision.
 - [Laura Nolan](entities/LauraNolan.md) — Literary agent helping Planet Money shape, seed, and auction the book proposal.
 - [Jane von Mehren](entities/JaneVonMehren.md) — Literary agent co-leading the Planet Money book proposal, publisher meetings, bid comparison, and auction process.
@@ -4062,6 +4069,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Maritime Chokepoint Tolling](concepts/MaritimeChokepointTolling.md) — Use of narrow passage control to screen, charge, or condition vessel movement during conflict.
+- [General Average](concepts/GeneralAverage.md) — Maritime-law risk-sharing principle that can make cargo owners liable for ship or voyage-saving costs.
+- [Freedom of Navigation Trade Order](concepts/FreedomOfNavigationTradeOrder.md) — Trade-order assumption that commercial vessels can use key sea lanes without coercive ad hoc permission.
+- [Sanctions Evasion Crypto Payments](concepts/SanctionsEvasionCryptoPayments.md) — Use of crypto rails for payments that may be difficult inside ordinary bank and dollar-sanctions channels.
 - [Book Publishing Economics](concepts/BookPublishingEconomics.md) — Market machinery that turns a book idea into an acquired financial bet through agents, proposals, rights, advances, risk models, and distribution.
 - [Literary Agent Market Making](concepts/LiteraryAgentMarketMaking.md) — Agent work that packages a book project, creates publisher access, seeds demand, and runs a competitive sale.
 - [Book Proposal As Sales Document](concepts/BookProposalAsSalesDocument.md) — Nonfiction proposal as both creative blueprint and business case before a book exists.
