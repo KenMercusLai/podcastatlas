@@ -4599,3 +4599,11 @@ Ran lint after health passed. Health scanned 6,295 wiki pages with no empty/stub
 ## [2026-07-24] ingest | 商业小样45 | 厄尔尼诺越大，鱼越贵
 
 Added source page for the 商业就是这样 episode on Peru's anchoveta fishery, El Nino, fishmeal and fish-oil supply, aquaculture feed dependency, Peruvian catch bans, 1972 fishery-collapse lessons, and downstream salmon, shrimp, sushi, and restaurant seafood price exposure. Created pages for Peru, Ecuador, Peruvian Anchoveta, Fishmeal Supply Chain, Aquaculture Feed Dependency, Climate Food Price Transmission, and Fisheries Resource Management; updated overview, index, 商业就是这样, Chile, Sushiro, Restaurant Supply Chain Localization, El Nino, El Nino Climate Risk, and Climate Adaptation. No direct contradiction found; the source extends existing climate-risk and restaurant-supply-chain branches by showing how a hidden feed commodity can transmit marine climate shocks into consumer seafood prices.
+
+## [2026-07-24] ingest | Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)
+
+Added source page for a How I Built This episode on Tom Rinks, Sun Bum, Psycho Chihuahua, the Taco Bell dispute, Rinks Canetti, DeLeon Tequila, visual brand systems, mascot-led recognition, place-based brand perception, retail displays, field sales, founder role transition, and the SC Johnson acquisition. Created pages for Sun Bum, Tom Rinks, Rene Kennedy, Rinks Canetti, DeLeon Tequila, Brent Hocking, Psycho Chihuahua, Joe Shields, Taco Bell, SC Johnson, Adam Francis, Michael LaSara, Made by Dentists, Sunny / Sun Bum Mascot, Cocoa Beach, Visual Brand System, Mascot Led Brand Recognition, Retail Display As Brand Surface, and Place Based Brand Perception; updated overview, index, How I Built This, Guy Raz, Consumer Brand Moat, Story Led Consumer Branding, Design Led Growth, CPG Distribution, Retail Shelf Placement, Packaging As Product Experience, Emotional Brand Relationship, Founder Role Transition, Post-Acquisition Founder Identity, Subculture Led Marketing, and Richard Branson. No direct contradiction found; first-person legal, product-quality, and deal-size claims remain source-scoped.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

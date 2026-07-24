@@ -2,8 +2,8 @@
 title: "Design Led Growth"
 type: concept
 tags: [design, growth, product]
-sources: [socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, stefan-sagmeister-finally-something-good-yqqxftsvema]
-last_updated: 2026-07-11
+sources: [socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc, stefan-sagmeister-finally-something-good-yqqxftsvema, sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21]
+last_updated: 2026-07-24
 ---
 
 # Design Led Growth
@@ -18,6 +18,8 @@ The concept has a boundary: design is important, but it should not become a refu
 
 [[socialradarspod-brianchesky2-final]] adds the photography and experience-design version. Airbnb's early "press a button and a photographer shows up" idea began with founders renting cameras and visiting hosts themselves. The design lesson is that growth sometimes comes from making the supply understandable and trustworthy, then later turning the manual service into a repeatable product capability.
 
+[[sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21]] adds a CPG packaging version through [[SunBum]]. [[TomRinks]] and [[ReneKennedy]] used research, ideation, and design to make sunscreen feel culturally specific through woodgrain packaging, typography, color, [[SunnySunBumMascot|Sunny]], stickers, and displays before the brand had large-company scale.
+
 ## Key Claims
 
 - Design contributes to growth by making the product promise easier to understand and act on.
@@ -26,6 +28,7 @@ The concept has a boundary: design is important, but it should not become a refu
 - Good design can also create emotional value when the product helps users express identity, receive feedback, or feel social recognition.
 - Design-led growth can include operational design: payments, reviews, listing photos, and host rituals can be as important as visual polish.
 - The design surface can include supplier enablement when better presentation changes buyer trust and conversion.
+- In CPG, design-led growth can come from making a familiar category feel newly ownable through package, mascot, display, and retail recognition.
 
 ## Connections
 
@@ -36,4 +39,5 @@ The concept has a boundary: design is important, but it should not become a refu
 - [[ProductLedWillingnessToPay]] — clear product value is the foundation for paid conversion.
 - [[BeautyInCommunication]], [[ProgressDataVisualization]], and [[DesignUnderConstraints]] — Sagmeister source's public-communication branch.
 - [[BrianChesky]], [[Airbnb]], [[PeerToPeerMarketplaceTrust]], and [[DesignForOnePerson]] — Chesky source's marketplace and hospitality-design branch.
+- [[SunBum]], [[TomRinks]], [[ReneKennedy]], [[VisualBrandSystem]], [[PackagingAsProductExperience]], and [[RetailDisplayAsBrandSurface]] - CPG brand-design branch added by How I Built This.
 - [[UnscalableFounderWork]] and [[FounderProximity]] — second Chesky source's manual photography and host-improvement branch.

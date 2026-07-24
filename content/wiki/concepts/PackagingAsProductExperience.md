@@ -2,8 +2,8 @@
 title: "Packaging As Product Experience"
 type: concept
 tags: [cpg, packaging, product, retail]
-sources: [catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
-last_updated: 2026-07-15
+sources: [catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, advice-line-with-christina-tosi-of-milk-bar-fd7f2406-fda8-4c1d-936c-d20210215f96, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044, sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21]
+last_updated: 2026-07-24
 ---
 
 # Packaging As Product Experience
@@ -12,6 +12,8 @@ Packaging as product experience is the CPG pattern where the container, format, 
 
 [[175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]] adds a sanitary-product version through [[AnneSanitaryNapkin|安妮卫生巾]]. Here packaging solves social risk as well as functional use: separate wrappers, quiet opening, pastry-like boxes, different sizes for different flow, waterproof layers, portability, and disposal all reduce [[MenstrualStigma]] in daily life.
 
+[[sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21]] adds a sunscreen version through [[SunBum]]. The woodgrain bottle, yellow-and-brown palette, clean type, and [[SunnySunBumMascot|Sunny]] turned the package into the brand's first beach-life signal before the customer evaluated SPF, scent, or formula details.
+
 ## Key Claims
 - Packaging can change the use occasion: a stand-up pouch or squeeze pack can make the product easier to carry, reseal, sample, or repeat.
 - Packaging can be a manufacturing constraint if partners cannot fill, seal, label, or handle the chosen format.
@@ -19,10 +21,12 @@ Packaging as product experience is the CPG pattern where the container, format, 
 - Packaging connects to [[ProductLedWillingnessToPay]] when it makes freshness, premium positioning, convenience, or ritual visible.
 - Giftable products need packaging that converts the recipient into a buyer by explaining the use case after the giver is gone.
 - In intimate or stigmatized categories, packaging can protect dignity by managing sound, visibility, smell, disposal, and emergency portability.
+- In familiar functional categories, packaging can create the first emotional difference by making a commodity-like item feel like it belongs to a scene, person, or ritual.
 
 ## Connections
 - [[CatalinaCrunch]] and [[KrishnaKaliannan]] - stand-up pouch case.
 - [[JustinsNutButter]], [[JustinGold]], and [[TrialSizeProduct]] - squeeze-pack and shelf-context case.
 - [[VashonIslandCoffeeDust]] and [[GiftToLoyalBuyerLoop]] - packaging-to-repeat-use case.
 - [[AnneSanitaryNapkin|安妮卫生巾]], [[MenstrualStigma]], and [[CommercialMenstrualEducation]] - sanitary-product case where packaging reduces embarrassment and teaches use.
+- [[SunBum]], [[TomRinks]], [[ReneKennedy]], [[SunnySunBumMascot|Sunny]], and [[VisualBrandSystem]] - sunscreen case where package design carried brand identity.
 - [[CPGManufacturingScaleUp]], [[CPGDistribution]], [[RetailShelfPlacement]], [[SalesVelocity]], and [[ProductLedWillingnessToPay]] - adjacent mechanics.

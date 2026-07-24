@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)](sources/sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21.md) — How I Built This episode on Tom Rinks, Sun Bum, Psycho Chihuahua, Taco Bell, DeLeon Tequila, mascot-led brand recognition, visual brand systems, retail displays, founder role transition, and the SC Johnson sale.
 - [商业小样45 | 厄尔尼诺越大，鱼越贵](sources/shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352.md) — 商业就是这样 episode on Peru's anchoveta fishery, El Nino, fishmeal and fish-oil supply, aquaculture feed dependency, Peruvian catch bans, and how salmon, shrimp, sushi, and restaurant seafood prices can move through a hidden feed input.
 - [187.豌豆公主：高敏和混沌是你真名](sources/187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166.md) — 蜜獾吃书 episode rereading Andersen's 《豌豆公主》 through true-princess ambiguity, class satire, gendered fairy-tale punishment, high sensitivity, sensory hypersensitivity, hardship worship, and literary complexity.
 - [EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？](sources/ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw.md) — Talk三联 episode on Homeric, Gilgamesh, and Edda epics, oral repetition, honor communities, mortality, Ragnarok, Marvel/Tolkien/game afterlives, and why old heroic stories keep being remade.
@@ -574,6 +575,21 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Sun Bum](entities/SunBum.md) — Sunscreen and beach-care brand built through woodgrain packaging, Sunny the ape mascot, surf-shop and hotel credibility, retail displays, and later SC Johnson acquisition.
+- [Tom Rinks](entities/TomRinks.md) — Brand builder behind Surf Michigan, Psycho Chihuahua, Rinks Canetti, DeLeon Tequila, Sun Bum, and later Made by Dentists work.
+- [Rene Kennedy](entities/ReneKennedy.md) — Copenhagen designer and Rinks Canetti partner whose typography, layout, and logo work shaped Sun Bum's visual system.
+- [Rinks Canetti](entities/RinksCanetti.md) — Branding agency formed by Tom Rinks and Rene Kennedy, combining fees with equity in consumer-brand projects such as DeLeon and Sun Bum.
+- [DeLeon Tequila](entities/DeLeonTequila.md) — High-end tequila brand used by the episode to show emotional luxury branding before Sun Bum.
+- [Brent Hocking](entities/BrentHocking.md) — Spirits founder whose DeLeon Tequila project gave Rinks Canetti a luxury identity-brand case.
+- [Psycho Chihuahua](entities/PsychoChihuahua.md) — Apparel and character property created by Tom Rinks and Joe Shields before the Taco Bell Chihuahua dispute.
+- [Joe Shields](entities/JoeShields.md) — Cartoonist and Psycho Chihuahua collaborator involved with Tom Rinks in the Taco Bell campaign dispute.
+- [Taco Bell](entities/TacoBell.md) — Fast-food company in the episode's Chihuahua advertising dispute with Tom Rinks and Joe Shields.
+- [SC Johnson](entities/SCJohnson.md) — Consumer-products acquirer of Sun Bum, framed as the partner needed for global manufacturing and sunscreen regulatory scale.
+- [Adam Francis](entities/AdamFrancis.md) — Sun Bum CEO brought in to handle margins, scalability, production, and financial management beyond Tom Rinks's brand-building strengths.
+- [Michael LaSara](entities/MichaelLaSara.md) — Independent sales rep credited by Tom Rinks as crucial to Sun Bum's early field sales and sticker/display rollout.
+- [Made by Dentists](entities/MadeByDentists.md) — Oral-care brand Tom Rinks later redesigned for the U.S. with memorable kids' toothpaste positioning.
+- [Sunny / Sun Bum Mascot](entities/SunnySunBumMascot.md) — Sun Bum's ape mascot, used across packaging, stickers, displays, merchandise, and ads as a wordless recognition asset.
+- [Cocoa Beach](entities/CocoaBeach.md) — Florida beach town used as Sun Bum's early place signal before and after the company created a real local office.
 - [Peru](entities/Peru.md) — Country case for anchoveta fisheries, fishmeal supply, El Nino exposure, and fisheries resource management.
 - [Ecuador](entities/Ecuador.md) — South American fishmeal supply node named with Peru and Chile in the aquaculture-feed chain.
 - [Peruvian Anchoveta / 鳀鱼](entities/PeruvianAnchoveta.md) — Small fish whose population, catch limits, and processing into fishmeal connect El Nino to aquaculture feed costs.
@@ -3840,6 +3856,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Visual Brand System](concepts/VisualBrandSystem.md) — Coordinated packaging, color, typography, mascot, objects, and display rules that make a consumer product recognizable before explanation.
+- [Mascot Led Brand Recognition](concepts/MascotLedBrandRecognition.md) — Pattern where a brand-owned character becomes a durable memory device across packaging, advertising, retail, and merchandise.
+- [Retail Display As Brand Surface](concepts/RetailDisplayAsBrandSurface.md) — Merchandising pattern where the store fixture itself teaches the brand and makes a young CPG company look coherent.
+- [Place Based Brand Perception](concepts/PlaceBasedBrandPerception.md) — Using geography, address, origin, or local scene as a credibility and lifestyle signal for a consumer brand.
 - [Fishmeal Supply Chain](concepts/FishmealSupplyChain.md) — Hidden commodity route from anchoveta catches and processing into aquaculture feed, seafood output, restaurants, and consumer prices.
 - [Aquaculture Feed Dependency](concepts/AquacultureFeedDependency.md) — Modern seafood-supply exposure created when farmed salmon, shrimp, and other high-value species still need marine-origin feed inputs.
 - [Climate Food Price Transmission](concepts/ClimateFoodPriceTransmission.md) — Mechanism by which climate shocks move through ecology, commodity inputs, production systems, and final food prices.
