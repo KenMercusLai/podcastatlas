@@ -6467,6 +6467,10 @@
     "title": "Donald Gates",
     "url": "/wiki/entities/donaldgates/"
   },
+  "DonaldKeene": {
+    "title": "Donald Keene / 唐纳德·基恩",
+    "url": "/wiki/entities/donaldkeene/"
+  },
   "DonaldTrump": {
     "title": "Donald Trump",
     "url": "/wiki/entities/donaldtrump/"
@@ -9043,6 +9047,10 @@
     "title": "Great Northern Expedition / 大北方探险",
     "url": "/wiki/entities/greatnorthernexpedition/"
   },
+  "GreatTreasonIncident": {
+    "title": "Great Treason Incident / 大逆事件",
+    "url": "/wiki/entities/greattreasonincident/"
+  },
   "GreekMythology": {
     "title": "Greek Mythology",
     "url": "/wiki/concepts/greekmythology/"
@@ -9388,7 +9396,7 @@
     "url": "/wiki/entities/hanyang/"
   },
   "HanZhao": {
-    "title": "Han Zhao / 韩昭",
+    "title": "Han Zhao / 韩钊",
     "url": "/wiki/entities/hanzhao/"
   },
   "HanZheng": {
@@ -11839,6 +11847,10 @@
     "title": "Kimi CLI",
     "url": "/wiki/entities/kimicli/"
   },
+  "KindaichiKyosuke": {
+    "title": "Kindaichi Kyosuke / 金田一京助",
+    "url": "/wiki/entities/kindaichikyosuke/"
+  },
   "KingsCollegeChapel": {
     "title": "King's College Chapel / 国王学院礼拜堂",
     "url": "/wiki/entities/kingscollegechapel/"
@@ -11918,6 +11930,10 @@
   "Kotex": {
     "title": "Kotex / 高洁丝",
     "url": "/wiki/entities/kotex/"
+  },
+  "KotokuShusui": {
+    "title": "Kotoku Shusui / 幸德秋水",
+    "url": "/wiki/entities/kotokushusui/"
   },
   "KrishnaKaliannan": {
     "title": "Krishna Kaliannan",
@@ -13675,6 +13691,10 @@
     "title": "Megvii",
     "url": "/wiki/entities/megvii/"
   },
+  "MeijiIntellectualPrecarity": {
+    "title": "Meiji Intellectual Precarity",
+    "url": "/wiki/concepts/meijiintellectualprecarity/"
+  },
   "Meilishuo": {
     "title": "美丽说 / Meilishuo",
     "url": "/wiki/entities/meilishuo/"
@@ -14143,6 +14163,14 @@
     "title": "Modern Express Travel",
     "url": "/wiki/entities/modernexpresstravel/"
   },
+  "ModernJapaneseInteriorDiscovery": {
+    "title": "Modern Japanese Interior Discovery",
+    "url": "/wiki/concepts/modernjapaneseinteriordiscovery/"
+  },
+  "ModernJapaneseLiteratureOrigin": {
+    "title": "《日本现代文学的起源》",
+    "url": "/wiki/entities/modernjapaneseliteratureorigin/"
+  },
   "ModernPoetryForChildren": {
     "title": "Modern Poetry For Children",
     "url": "/wiki/concepts/modernpoetryforchildren/"
@@ -14246,6 +14274,10 @@
   "MoriBuichi": {
     "title": "森布一",
     "url": "/wiki/entities/moribuichi/"
+  },
+  "MoriOgai": {
+    "title": "Mori Ogai / 森鸥外",
+    "url": "/wiki/entities/moriogai/"
   },
   "MortgageApproval": {
     "title": "Mortgage Approval",
@@ -14574,6 +14606,10 @@
   "NationalistGovernment": {
     "title": "Nationalist Government / 国民政府",
     "url": "/wiki/entities/nationalistgovernment/"
+  },
+  "NatsumeSoseki": {
+    "title": "Natsume Soseki / 夏目漱石",
+    "url": "/wiki/entities/natsumesoseki/"
   },
   "NaturalHazardSocialDisaster": {
     "title": "Natural Hazard As Social Disaster",
@@ -16142,6 +16178,10 @@
   "PoliticalBrandLicensing": {
     "title": "Political Brand Licensing",
     "url": "/wiki/concepts/politicalbrandlicensing/"
+  },
+  "PoliticalClosureAsLiteraryPressure": {
+    "title": "Political Closure As Literary Pressure",
+    "url": "/wiki/concepts/politicalclosureasliterarypressure/"
   },
   "PoliticalDeliveryGap": {
     "title": "Political Delivery Gap",
@@ -18375,6 +18415,10 @@
     "title": "Sexual Assault Evidence Kit",
     "url": "/wiki/entities/sexualassaultevidencekit/"
   },
+  "ShaQingqing": {
+    "title": "Sha Qingqing / 沙青青",
+    "url": "/wiki/entities/shaqingqing/"
+  },
   "ShaWujing": {
     "title": "沙和尚",
     "url": "/wiki/entities/shawujing/"
@@ -18567,6 +18611,10 @@
     "title": "鹿野靖明",
     "url": "/wiki/entities/shikanoyasuaki/"
   },
+  "ShimazakiToson": {
+    "title": "Shimazaki Toson / 岛崎藤村",
+    "url": "/wiki/entities/shimazakitoson/"
+  },
   "ShiraAviono": {
     "title": "Shira Aviono",
     "url": "/wiki/entities/shiraaviono/"
@@ -18598,6 +18646,10 @@
   "ShortDramaPaidTrafficDistribution": {
     "title": "Short Drama Paid-Traffic Distribution",
     "url": "/wiki/concepts/shortdramapaidtrafficdistribution/"
+  },
+  "ShortFormEmotionalSnapshot": {
+    "title": "Short-Form Emotional Snapshot",
+    "url": "/wiki/concepts/shortformemotionalsnapshot/"
   },
   "ShortTermNewsBias": {
     "title": "Short-Term News Bias",
@@ -19886,6 +19938,10 @@
   "TakaichiSanae": {
     "title": "Takaichi Sanae",
     "url": "/wiki/entities/takaichisanae/"
+  },
+  "TakubokuBiography": {
+    "title": "《石川啄木》 / Takuboku Biography",
+    "url": "/wiki/entities/takubokubiography/"
   },
   "TalkSanlian": {
     "title": "Talk三联",
@@ -22579,6 +22635,10 @@
     "title": "Yoruba Twin Cosmology",
     "url": "/wiki/concepts/yorubatwincosmology/"
   },
+  "YosanoAkiko": {
+    "title": "Yosano Akiko / 与谢野晶子",
+    "url": "/wiki/entities/yosanoakiko/"
+  },
   "YouShengDianYing": {
     "title": "《有声电影》",
     "url": "/wiki/entities/youshengdianying/"
@@ -23770,6 +23830,10 @@
   "shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud": {
     "title": "少有的深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康",
     "url": "/wiki/sources/shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud/"
+  },
+  "shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314": {
+    "title": "【沙青青x韩钊】石川啄木：我抱持的思想，都是因为缺钱",
+    "url": "/wiki/sources/shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314/"
   },
   "shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306": {
     "title": "Shopify: Tobias Lütke. How a snowboarder built a $150 billion business (2019)",

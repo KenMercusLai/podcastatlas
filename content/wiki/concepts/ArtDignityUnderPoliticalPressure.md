@@ -2,8 +2,8 @@
 title: "Art Dignity Under Political Pressure"
 type: concept
 tags: [art, politics, film, survival]
-sources: [64-bawangbieji-fengmo-yu-chenghuo-656094350, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
-last_updated: 2026-07-14
+sources: [64-bawangbieji-fengmo-yu-chenghuo-656094350, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818, shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314]
+last_updated: 2026-07-24
 ---
 
 # Art Dignity Under Political Pressure
@@ -14,12 +14,15 @@ The episode does not present Dieyi as politically prudent. He sings for a Japane
 
 [[107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]] adds a darker cinema-history counterpart through [[LeniRiefenstahl|Leni Riefenstahl / 莱妮·里芬斯塔尔]] and [[PropagandaAesthetics]]. Here the issue is not art preserving dignity against pressure, but aesthetic power serving a violent regime. Together, the two sources keep art's autonomy, political use, and moral accountability in tension.
 
+[[shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314]] adds a compact literary case through [[IshikawaTakuboku|石川啄木]] after the [[GreatTreasonIncident|大逆事件]]. Here political pressure does not appear as a staged denunciation or propaganda image, but as [[PoliticalClosureAsLiteraryPressure|era closure]] entering short songs, essays, and late socialist attention.
+
 ## Key Claims
 - Art can create obligations that conflict with political self-protection.
 - Respect for craft can become morally ambiguous when the appreciative audience is politically condemned.
 - Under ideological pressure, aesthetic judgment itself can become suspect.
 - Survival compromise and artistic dignity are not distributed neatly across good and bad characters.
 - Aesthetic power can resist political reduction in one context and serve political domination in another.
+- Political pressure can also enter art as atmosphere and fragment, especially when public speech feels closed.
 
 ## Connections
 - [[FarewellMyConcubine|《霸王别姬》]] - source case.
@@ -28,3 +31,4 @@ The episode does not present Dieyi as politically prudent. He sings for a Japane
 - [[CoercedDenunciation]] - political mechanism that turns art and relationships into confession material.
 - [[NonInstrumentalLiteraryReading]] - adjacent idea that art's value cannot be reduced to immediate utility.
 - [[PropagandaAesthetics]] and [[ArtisticAchievementMoralAccountability]] - cinema branch where artistic technique cannot be separated from political service.
+- [[IshikawaTakuboku|石川啄木]], [[GreatTreasonIncident|大逆事件]], and [[PoliticalClosureAsLiteraryPressure]] - compact poetic extension from the Takuboku episode.

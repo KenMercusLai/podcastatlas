@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [【沙青青x韩钊】石川啄木：我抱持的思想，都是因为缺钱](sources/shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314.md) — 蜜獾吃书 episode with 韩钊 and 沙青青 on 石川啄木, 《短歌是我悲伤的玩具》, Donald Keene's biography, tanka as emotional snapshot, Meiji intellectual precarity, and the Great Treason political context.
 - [148. 王氏之死：断井颓垣上的历史妆镜](sources/148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934.md) — 蜜獾吃书 episode on 史景迁《王氏之死》, 郯城 disaster society, 王氏's murder, 黄六鸿, 《福惠全书》, 蒲松龄, 《聊斋志异》, Qing gender law, and fiction as historical evidence.
 - [141. 制造弗兰肯斯坦：科幻之母和她的神奇时代](sources/141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931.md) — 蜜獾吃书 episode on Mary Shelley, Frankenstein, Romantic science, galvanism, vitalism, anatomy, corpse trade, electric therapy, the Villa Diodati circle, and creator responsibility.
 - [140. 还可以的金女士：“所以人为什么要努力啊？！”](sources/140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655.md) — 蜜獾吃书 episode with 金子 on 《还可以的金女士》, small-town exam-taker discipline, hardship culture, female beauty self-surveillance, creator rating pressure, fashion respectability tax, and asking why effort became mandatory.
@@ -1494,7 +1495,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zhao Lusi / 赵露思](entities/ZhaoLusi.md) — Actor/public-figure case used by the episode to discuss 活人感, celebrity vulnerability, and online judgment under incomplete information.
 - [Ishikawa Takuboku / 石川啄木](entities/IshikawaTakuboku.md) — Japanese poet read through short songs that capture fatigue, resentment, tenderness, politics, and ordinary life moments.
 - [《短歌是我悲伤的玩具》](entities/DuanGeShiWoBeishangDeWanju.md) — New Takuboku collection promoted in the episode as emotional language for sensitive, exhausted, and publicly judged readers.
-- [Han Zhao / 韩昭](entities/HanZhao.md) — Translator of 《短歌是我悲伤的玩具》 and independent-bookstore operator named by the source.
+- [Han Zhao / 韩钊](entities/HanZhao.md) — Translator of 《短歌是我悲伤的玩具》 and independent-bookstore operator named by the source.
+- [Sha Qingqing / 沙青青](entities/ShaQingqing.md) — Translator of Donald Keene's Takuboku biography, grounding the episode in diary evidence, Meiji context, and literary networks.
+- [Donald Keene / 唐纳德·基恩](entities/DonaldKeene.md) — Japanese-literature scholar whose Takuboku biography frames the poet as unusually modern through diary-based interiority.
+- [《石川啄木》 / Takuboku Biography](entities/TakubokuBiography.md) — Donald Keene biography translated by 沙青青 and paired with 《短歌是我悲伤的玩具》 as life-context grounding for the poems.
+- [Kindaichi Kyosuke / 金田一京助](entities/KindaichiKyosuke.md) — Takuboku friend and supporter used by the episode to show the material network behind literary survival.
+- [Natsume Soseki / 夏目漱石](entities/NatsumeSoseki.md) — Meiji literary benchmark contrasted with Takuboku's lower credentials, income, and unstable work.
+- [Mori Ogai / 森鸥外](entities/MoriOgai.md) — Established Meiji writer whose circle helps mark both Takuboku's poetic recognition and his class/credential distance.
+- [Shimazaki Toson / 岛崎藤村](entities/ShimazakiToson.md) — Fiction benchmark used to show why Takuboku's short songs outlasted his novel ambitions.
+- [Yosano Akiko / 与谢野晶子](entities/YosanoAkiko.md) — Poet appearing in a source-scoped borrowing anecdote that shows Takuboku's support network and irresponsibility.
+- [Kotoku Shusui / 幸德秋水](entities/KotokuShusui.md) — Political figure tied to Great Treason materials that sharpen Takuboku's late socialist attention.
+- [Great Treason Incident / 大逆事件](entities/GreatTreasonIncident.md) — Late-Meiji repression context linking Takuboku's private distress to political closure.
+- [《日本现代文学的起源》](entities/ModernJapaneseLiteratureOrigin.md) — Critical reference used to connect Takuboku to landscape, interiority, confession, illness, and childhood in modern Japanese literature.
 - [超哥](entities/ChaoGe.md) — Reading-media voice whose wiki role spans the Zhao Lusi/Takuboku crossover and the sp.06 discussion of 《文化有限》, output-forced input, literary evaluation anxiety, and reading as cognitive restoration.
 - [有问题呀](entities/YouWenTiYa.md) — Crossover podcast context for the episode with 蜜獾吃书.
 - [Qixi / 七夕](entities/QixiFestival.md) — Lunar seventh-day festival read by episode 152 as a layered system of star lore, 乞巧, book airing, urban markets, local worship, romance, and cross-cultural exchange.
@@ -4372,6 +4384,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [放学后记忆生态 / School-Area Memory Ecology](concepts/SchoolAreaMemoryEcology.md) — School-side environment of snacks, bookstores, arcades, transit cards, bikes, secret reading, and adolescent freedom.
 - [国产推理出版生态 / Chinese Mystery Publishing Ecology](concepts/ChineseMysteryPublishingEcology.md) — Publishing, awards, pay, adaptation, and readership context that shapes whether Chinese mystery breaks past small-circle genre audiences.
 - [Tanka As Everyday Expression](concepts/TankaEverydayExpression.md) — Episode frame for short songs as a compact way to write ordinary fatigue, resentment, embarrassment, tenderness, and daily moments.
+- [Short-Form Emotional Snapshot](concepts/ShortFormEmotionalSnapshot.md) — Takuboku-source concept that short songs preserve one unstable instant of feeling without forcing full explanation or consistency.
+- [Modern Japanese Interior Discovery](concepts/ModernJapaneseInteriorDiscovery.md) — Frame for Takuboku's modernity as literature built from confession, shame, illness, desire, and inner contradiction.
+- [Meiji Intellectual Precarity](concepts/MeijiIntellectualPrecarity.md) — Source frame for small intellectuals caught between modern aspiration, thin credentials, poverty, and unstable work.
+- [Political Closure As Literary Pressure](concepts/PoliticalClosureAsLiteraryPressure.md) — Concept linking the Great Treason Incident and late socialist attention to Takuboku's era-closure writing.
 - [活人感 / Live Human Feeling](concepts/LiveHumanFeeling.md) — Public-expression concept where rough, imperfect, bounded realness resists fully managed persona without requiring absolute authenticity.
 - [Internet Moral Trial / 互联网审判](concepts/InternetMoralTrial.md) — Pattern where partial online information becomes whole-person condemnation, especially around public figures and creators.
 - [Recognition As Humiliation](concepts/RecognitionAsHumiliation.md) — Cultural pattern where admitting error feels like degradation, making apology and proportional correction harder.

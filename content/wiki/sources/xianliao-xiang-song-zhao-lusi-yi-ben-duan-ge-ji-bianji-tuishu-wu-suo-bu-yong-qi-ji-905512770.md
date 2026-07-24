@@ -43,7 +43,7 @@ This [[MihuanChishu|蜜獾吃书]] and [[YouWenTiYa|有问题呀]] crossover sta
 - [[ZhaoLusi|赵露思]] - public-figure case for celebrity vulnerability, audience projection, and online violence.
 - [[DuanGeShiWoBeishangDeWanju|《短歌是我悲伤的玩具》]] - book at the center of the episode's publishing and emotional-expression argument.
 - [[IshikawaTakuboku|石川啄木]] - poet whose short songs supply the literary bridge between book promotion and contemporary internet emotion.
-- [[HanZhao|韩昭]] - translator of the new collection, described as making Takuboku more legible to contemporary Chinese readers.
+- [[HanZhao|韩钊]] - translator of the new collection, described as making Takuboku more legible to contemporary Chinese readers.
 - [[TankaEverydayExpression]] - core literary concept added by the episode.
 - [[LiveHumanFeeling]] - public-expression concept linking Zhao Lusi, Takuboku, and the hosts' own internet presence.
 - [[InternetMoralTrial]] and [[RecognitionAsHumiliation]] - online-judgment concepts added by the second half of the discussion.

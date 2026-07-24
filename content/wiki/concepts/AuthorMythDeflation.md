@@ -2,7 +2,7 @@
 title: "Author Myth Deflation"
 type: concept
 tags: [literature, biography, canon, interpretation]
-sources: [135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818]
+sources: [135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818, shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314]
 last_updated: 2026-07-24
 ---
 
@@ -28,6 +28,8 @@ The episode's value is partly emotional. By showing canonical writers as embodie
 
 [[01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422]] adds a Salinger variant through [[JDSalinger|J. D. Salinger / 塞林格]]. The source resists two simplifying myths at once: [[TheCatcherInTheRye|《麦田里的守望者》]] is not only adolescent whining, and Salinger is not only a mysterious recluse. War, adult craft, publishing control, romantic disappointment, and spiritual withdrawal all matter, but none of them replaces the text.
 
+[[shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314]] adds [[IshikawaTakuboku|石川啄木]] as a "young genius" deflation case. The source keeps his poetic gift visible while also showing low credentials, debt, drinking, evasive marriage behavior, dependence on friends such as [[KindaichiKyosuke|金田一京助]], and late political anxiety. The result is neither saint-making nor dismissal, but a more usable account of how [[ShortFormEmotionalSnapshot]] emerges from a damaged life.
+
 ## Key Claims
 - Great literary talent does not imply good politics, stable judgment, domestic kindness, or personal elegance.
 - Deflating an author myth should widen interpretation, not replace one simple image with another.
@@ -42,6 +44,7 @@ The episode's value is partly emotional. By showing canonical writers as embodie
 - A recluse myth can be as flattening as a scandal myth when it makes adult craft, war memory, publishing decisions, and textual tenderness disappear behind one personality image.
 - An inspirational author myth may need deflation when it turns hard-won resilience into simple cheerfulness and hides political risk, fear, and public labor.
 - A philosophical author myth may need deflation when followers turn the writer into a doctrine symbol and ignore contradictions between ideas, conduct, and later political use.
+- An early-death poet myth may need deflation when youth and sensitivity hide money, credentials, family burden, friendship damage, and political pressure.
 
 ## Connections
 - [[LiteraryGossipAsContext]] - method for handling biographical anecdotes with uncertainty.
@@ -57,3 +60,4 @@ The episode's value is partly emotional. By showing canonical writers as embodie
 - [[DirectorMythDeflation]], [[FilmGossipAsContext]], and [[ArtisticAchievementMoralAccountability]] - film extension added by the director-gossip source.
 - [[LiShangyin|李商隐]], [[LateTangPoliticalPoetics]], and [[LovePoetryModernity]] - episode 183's reputation-defense variant.
 - [[SuShi|苏轼 / 苏东坡]], [[EarnedOptimism]], [[ConscienceOverFaction]], and [[ScholarOfficialPublicDuty]] - episode 105's positive-myth deflation case.
+- [[IshikawaTakuboku|石川啄木]], [[KindaichiKyosuke|金田一京助]], [[MeijiIntellectualPrecarity]], and [[ShortFormEmotionalSnapshot]] - Takuboku deflation case.
