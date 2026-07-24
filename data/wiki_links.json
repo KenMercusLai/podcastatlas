@@ -287,6 +287,10 @@
     "title": "147. 非洲神话：腋毛创世, 土狼下蛋及哪吒的另一版本",
     "url": "/wiki/sources/147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004/"
   },
+  "148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934": {
+    "title": "148. 王氏之死：断井颓垣上的历史妆镜",
+    "url": "/wiki/sources/148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934/"
+  },
   "150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165": {
     "title": "150.吃菌！和阿错聊云南的鸡枞、松茸、见手青",
     "url": "/wiki/sources/150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165/"
@@ -7707,6 +7711,10 @@
     "title": "Festival Food Material History",
     "url": "/wiki/concepts/festivalfoodmaterialhistory/"
   },
+  "FictionAsHistoricalEvidence": {
+    "title": "Fiction As Historical Evidence",
+    "url": "/wiki/concepts/fictionashistoricalevidence/"
+  },
   "FidelCastro": {
     "title": "Fidel Castro",
     "url": "/wiki/entities/fidelcastro/"
@@ -8398,6 +8406,10 @@
   "FugitiveTemporality": {
     "title": "Fugitive Temporality",
     "url": "/wiki/concepts/fugitivetemporality/"
+  },
+  "FuhuiQuanshu": {
+    "title": "《福惠全书》",
+    "url": "/wiki/entities/fuhuiquanshu/"
   },
   "FullFunnelCivicTechnology": {
     "title": "Full-Funnel Civic Technology",
@@ -10054,6 +10066,10 @@
   "HuangBote": {
     "title": "Huang Bote",
     "url": "/wiki/entities/huangbote/"
+  },
+  "HuangLiuhong": {
+    "title": "黄六鸿 / Huang Liuhong",
+    "url": "/wiki/entities/huangliuhong/"
   },
   "HuangTingjian": {
     "title": "黄庭坚 / Huang Tingjian",
@@ -13867,6 +13883,10 @@
     "title": "Micro-Happiness",
     "url": "/wiki/concepts/microhappiness/"
   },
+  "MicrohistoryFromHostileArchives": {
+    "title": "Microhistory From Hostile Archives",
+    "url": "/wiki/concepts/microhistoryfromhostilearchives/"
+  },
   "MicronTechnology": {
     "title": "Micron Technology",
     "url": "/wiki/entities/microntechnology/"
@@ -16594,6 +16614,10 @@
   "PuShougeng": {
     "title": "Pu Shougeng / 蒲寿庚",
     "url": "/wiki/entities/pushougeng/"
+  },
+  "PuSongling": {
+    "title": "蒲松龄 / Pu Songling",
+    "url": "/wiki/entities/pusongling/"
   },
   "PubMed": {
     "title": "PubMed",
@@ -19879,6 +19903,14 @@
     "title": "田中光",
     "url": "/wiki/entities/tanakahikari/"
   },
+  "Tancheng": {
+    "title": "郯城 / Tancheng",
+    "url": "/wiki/entities/tancheng/"
+  },
+  "TanchengCountyGazetteer": {
+    "title": "《郯城县志》 / Tancheng County Gazetteer",
+    "url": "/wiki/entities/tanchengcountygazetteer/"
+  },
   "TangChuanqi": {
     "title": "唐传奇 / Tang Chuanqi",
     "url": "/wiki/concepts/tangchuanqi/"
@@ -20154,6 +20186,10 @@
   "TheDaughterOfTime": {
     "title": "《时间的女儿》 / The Daughter of Time",
     "url": "/wiki/entities/thedaughteroftime/"
+  },
+  "TheDeathOfWomanWang": {
+    "title": "《王氏之死》 / The Death of Woman Wang",
+    "url": "/wiki/entities/thedeathofwomanwang/"
   },
   "TheDemonHauntedWorld": {
     "title": "《魔鬼出没的世界》 / The Demon-Haunted World",
@@ -21546,6 +21582,10 @@
   "WangShengli": {
     "title": "Wang Shengli",
     "url": "/wiki/entities/wangshengli/"
+  },
+  "WangShiTancheng": {
+    "title": "王氏 / Woman Wang",
+    "url": "/wiki/entities/wangshitancheng/"
   },
   "WangTao": {
     "title": "Wang Tao / 汪滔",

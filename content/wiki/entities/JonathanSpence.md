@@ -2,7 +2,7 @@
 title: "史景迁 / Jonathan Spence"
 type: entity
 tags: [historian, qing-history, author]
-sources: [101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876]
+sources: [101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876, 148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934]
 last_updated: 2026-07-24
 ---
 
@@ -12,8 +12,12 @@ last_updated: 2026-07-24
 
 For the source, Spence is useful because his subject is both institutional and literary. By tracing the actual [[CaoFamilyQing|清代曹家]], he gives [[HongLouMeng|《红楼梦》]] readers a way to think about imperial favor, debt, southern-tour reception, and confiscation without claiming that the novel is only a coded family record.
 
+[[148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934]] adds a second Spence case through [[TheDeathOfWomanWang|《王氏之死》]]. Here his method moves from elite family and imperial service to [[MicrohistoryFromHostileArchives]]: [[Tancheng|郯城]]'s disasters, [[HuangLiuhong|黄六鸿]]'s case practice, and [[LiaozhaiZhiyi|《聊斋志异》]] all become ways to reconstruct the constrained life of [[WangShiTancheng|王氏]].
+
 ## Connections
 - [[CaoYinAndKangxi|《曹寅与康熙》]] - book discussed in the episode.
+- [[TheDeathOfWomanWang|《王氏之死》]] - microhistory discussed in episode 148.
 - [[CaoYin|曹寅]], [[KangxiEmperor|康熙]], and [[CaoFamilyQing|清代曹家]] - historical subject cluster.
 - [[HongLouMeng|《红楼梦》]], [[CaoXueqin|曹雪芹]], and [[RedChamberFamilyHistoryEcho]] - literary-history relevance.
+- [[FictionAsHistoricalEvidence]] and [[MicrohistoryFromHostileArchives]] - method frames added by the Wang case.
 - [[MihuanChishu|蜜獾吃书]] - podcast source.

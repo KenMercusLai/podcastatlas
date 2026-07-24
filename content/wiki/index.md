@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [148. 王氏之死：断井颓垣上的历史妆镜](sources/148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934.md) — 蜜獾吃书 episode on 史景迁《王氏之死》, 郯城 disaster society, 王氏's murder, 黄六鸿, 《福惠全书》, 蒲松龄, 《聊斋志异》, Qing gender law, and fiction as historical evidence.
 - [141. 制造弗兰肯斯坦：科幻之母和她的神奇时代](sources/141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931.md) — 蜜獾吃书 episode on Mary Shelley, Frankenstein, Romantic science, galvanism, vitalism, anatomy, corpse trade, electric therapy, the Villa Diodati circle, and creator responsibility.
 - [140. 还可以的金女士：“所以人为什么要努力啊？！”](sources/140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655.md) — 蜜獾吃书 episode with 金子 on 《还可以的金女士》, small-town exam-taker discipline, hardship culture, female beauty self-surveillance, creator rating pressure, fashion respectability tax, and asking why effort became mandatory.
 - [139. 为什么伟大不能被计划：有志者事竟成，吗？](sources/139-weishenme-weida-buneng-bei-jihua-youzhizhe-shijingsheng-ma-849965735.md) — 蜜獾吃书 episode on 《为什么伟大不能被计划》, objective deception, novelty search, stepping-stone exploration, reading as possibility-space expansion, career uncertainty, basic research, and Campbell's Law.
@@ -559,6 +560,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《王氏之死》 / The Death of Woman Wang](entities/TheDeathOfWomanWang.md) — Jonathan Spence microhistory of 王氏's murder in early Qing 郯城.
+- [王氏 / Woman Wang](entities/WangShiTancheng.md) — Unnamed Tancheng woman whose murder anchors episode 148's archive, gender-law, and ghost-story reading.
+- [黄六鸿 / Huang Liuhong](entities/HuangLiuhong.md) — Qing magistrate and author whose case practice informs 《王氏之死》.
+- [蒲松龄 / Pu Songling](entities/PuSongling.md) — Author of 《聊斋志异》, used here as evidence of Qing local social imagination.
+- [郯城 / Tancheng](entities/Tancheng.md) — Shandong county setting where disaster, tax pressure, law, and household violence converge in 《王氏之死》.
+- [《福惠全书》](entities/FuhuiQuanshu.md) — Huang Liuhong's administrative text and one of Spence's core sources for the Wang case.
+- [《郯城县志》 / Tancheng County Gazetteer](entities/TanchengCountyGazetteer.md) — Local gazetteer source for Tancheng disaster, tax, and social context.
 - [《制造弗兰肯斯坦：玛丽·雪莱背后的科学》](entities/MakingFrankensteinBook.md) — Book used by episode 141 to map Mary Shelley's Frankenstein onto galvanism, vitalism, anatomy, corpse supply, and science anxiety.
 - [Mary Wollstonecraft / 玛丽·沃斯通克拉夫特](entities/MaryWollstonecraft.md) — Feminist and radical writer whose motherhood, death, and intellectual legacy shape episode 141's Shelley background.
 - [William Godwin / 威廉·戈德温](entities/WilliamGodwin.md) — Radical writer and Mary Shelley's father, used by episode 141 to explain the Godwin-Shelley intellectual household.
@@ -3740,6 +3748,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Microhistory From Hostile Archives](concepts/MicrohistoryFromHostileArchives.md) — Method for reconstructing marginal lives from records that preserve them mainly as legal or administrative problems.
+- [Fiction As Historical Evidence](concepts/FictionAsHistoricalEvidence.md) — Guarded method for using fiction as evidence of social imagination, fear, and norms rather than direct event proof.
 - [Science Fiction As Contemporary Science Integration / 科幻作为当代科学整合](concepts/ScienceFictionContemporaryScienceIntegration.md) — Episode 141 frame for judging early science fiction by how it absorbs its own era's live science and anxiety.
 - [Scientific Anxiety As Literary Material / 科学焦虑作为文学材料](concepts/ScientificAnxietyLiteraryMaterial.md) — Pattern where unsettled science becomes story pressure without requiring simple anti-science rejection.
 - [Romantic Science Culture / 浪漫主义科学文化](concepts/RomanticScienceCulture.md) — Period frame where poetry, radical politics, natural philosophy, electricity, medicine, and life speculation overlap.
