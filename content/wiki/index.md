@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [146. 不爱侏罗纪世界？快来《恐龙庇护所》当饲养员！](sources/146-bu-ai-zhuluoji-shijie-kuailai-konglong-bihusuo-dang-siyangyuan-886472126.md) — 蜜獾吃书 episode on 《恐龙庇护所》, 《侏罗纪世界：重生》 dissatisfaction, bird-dinosaur continuity, evidence-bound dinosaur reconstruction, captive animal care labor, and dinosaurs as living animals.
 - [145.嫉妒与鄙视：我该如何躲避这双向的毒箭？](sources/145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647.md) — 蜜獾吃书 episode on Susan Fiske's 《嫉妒与鄙视》, social comparison, envy, contempt, low-status syndrome, stereotypes, schadenfreude, online attack, and empathy as the repair path.
 - [144. 被诅咒的木乃伊：福尔摩斯会和老舍联手探案吗？](sources/144-bei-zuzhou-de-munaiyi-fuermosi-hui-he-laoshe-lianshou-tanan-ma-878168738.md) — 蜜獾吃书 episode on 岛田庄司《被诅咒的木乃伊》, 福尔摩斯同人, 夏目漱石 in London, dual Watson/Soseki manuscripts, a fake Eastern curse, a mummy locked-room fraud, and the fantasy of Holmes meeting 老舍.
 - [How to get what Greenland has, with permission](sources/how-to-get-what-greenland-has-with-permission.md) — Planet Money episode on Greenland, rare earth processing, U.S. Arctic defense access, Trump territorial-control rhetoric, and why mineral/security goals can be pursued through cooperation instead of annexation.
@@ -570,6 +571,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《恐龙庇护所》 / Dino Sanctuary](entities/DinoSanctuary.md) — Manga used by episode 146 to treat dinosaurs as living animals inside zoo labor, welfare constraints, and evidence-bounded paleontological imagination.
+- [《侏罗纪世界：重生》 / Jurassic World: Rebirth](entities/JurassicWorldRebirth.md) — Dinosaur blockbuster used by episode 146 as a foil for why 《恐龙庇护所》 feels richer to the hosts.
 - [Susan Fiske / 苏珊·菲斯克](entities/SusanFiske.md) — Social psychologist whose 《嫉妒与鄙视》 frames envy, contempt, status comparison, stereotypes, group identity, and empathy in episode 145.
 - [《嫉妒与鄙视》](entities/JiDuYuBiShi.md) — Susan Fiske book used by episode 145 to connect envy, contempt, comparison, stereotype, dehumanization, and empathy.
 - [岛田庄司 / Shimada Soji](entities/ShimadaSoji.md) — Japanese mystery writer whose 《被诅咒的木乃伊》 is read as a playful Holmes-Soseki pastiche rather than only a locked-room mechanism.
@@ -3816,6 +3819,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Dinosaur As Living Animal / 恐龙作为活着的动物](concepts/DinosaurAsLivingAnimal.md) — Frame for treating dinosaurs as animals with fear, illness, attachment, aging, and individual differences rather than only monster spectacle.
+- [Evidence-Bound Paleontological Reconstruction / 证据约束的古生物复原](concepts/EvidenceBoundPaleontologicalReconstruction.md) — Method for imagining extinct animals through fossils, biomechanics, living relatives, and explicit uncertainty rather than arbitrary design.
+- [Captive Animal Care Labor / 圈养动物照护劳动](concepts/CaptiveAnimalCareLabor.md) — Zoo/sanctuary care work where affection must become cleaning, feeding, observation, veterinary response, enclosure maintenance, and welfare tradeoffs.
+- [Bird-Dinosaur Continuity / 鸟类-恐龙连续性](concepts/BirdDinosaurContinuity.md) — Evolutionary frame that living birds belong to the dinosaur lineage and can help popular audiences understand dinosaurs as animals.
 - [Envy-Contempt Comparison / 嫉妒-鄙视比较](concepts/EnvyContemptComparison.md) — Paired emotional dynamic where upward comparison produces envy and downward comparison produces contempt, with adaptive signal value and dehumanization risk.
 - [Social Comparison Pressure / 社会比较压力](concepts/SocialComparisonPressure.md) — Status-sorting condition across school, work, class, aesthetics, consumption, and online life that makes envy and contempt frequent.
 - [Low-Status Syndrome / 低地位综合症](concepts/LowStatusSyndrome.md) — Chronic vigilance, anxiety, resentment, and health burden produced by felt lower social position.

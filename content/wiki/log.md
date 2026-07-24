@@ -4248,6 +4248,10 @@ Added source page for a 蜜獾吃书 episode on 罗翔《法律的悖论》, cov
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-24] ingest | 146. 不爱侏罗纪世界？快来《恐龙庇护所》当饲养员！
+
+Added source page for the 蜜獾吃书 episode on 《恐龙庇护所》, 《侏罗纪世界：重生》 dissatisfaction, dinosaur childhood memory, bird-dinosaur continuity, evidence-bound paleontological reconstruction, captive animal care labor, and dinosaurs as living animals. Created pages for 《恐龙庇护所》 / Dino Sanctuary, 《侏罗纪世界：重生》 / Jurassic World: Rebirth, Dinosaur As Living Animal, Evidence-Bound Paleontological Reconstruction, Captive Animal Care Labor, and Bird-Dinosaur Continuity; updated overview, index, 蜜獾吃书, 秦总, 北明 / 北民, Animal Welfare As Public Health, Empathy Circle Expansion, and Observation Before Inference. No direct contradiction found; the source extends animal-welfare and scientific-evidence branches into fictional dinosaur care without treating spectacle or speculation as automatically invalid.
+
 ## [2026-07-24] ingest | 134.查令十字街84号：再次原谅世界的理由
 
 Added source page for a 蜜獾吃书 episode on 《查令十字街84号》, Helene Hanff, Frank Doel, Marks & Co., old-book searching, postwar British rationing, food parcels, stockings, letter friendship, and the loss of physical bookstores. Created pages for 《查令十字街84号》, Helene Hanff, Frank Doel, Marks & Co., Nora Doel, Cecily Farr, Epistolary Friendship, Old Book Materiality, Bookstore Serendipity, and Dignity Through Small Gifts; updated overview, index, 蜜獾吃书, 秦总, Reading As Life Experience, Non-Instrumental Literary Reading, Classic Reading Complexity, Story-Based Empathy, Material History Narrative, and Book As Grave Memory Work. No direct contradiction found; the source extends the wiki's meta-reading branch by showing how old books, letters, gifts, and a missed meeting can preserve ordinary kindness without reducing the relationship to romance.
@@ -4567,6 +4571,10 @@ Added source page for the 蜜獾吃书 episode on 岛田庄司《被诅咒的木
 ## [2026-07-24] ingest | 145.嫉妒与鄙视：我该如何躲避这双向的毒箭？
 
 Added source page for the 蜜獾吃书 episode on Susan Fiske's 《嫉妒与鄙视》, social comparison, envy, contempt, low-status syndrome, warmth/competence stereotypes, schadenfreude, online comparison attack, and empathy as the repair path. Created pages for Susan Fiske / 苏珊·菲斯克, 《嫉妒与鄙视》, Envy-Contempt Comparison, Social Comparison Pressure, Low-Status Syndrome, Warmth-Competence Stereotype, Schadenfreude As Comparison Emotion, Dehumanization By Comparison, and Empathy Against Comparison; updated overview, index, 蜜獾吃书, Social Psychology, Internet Moral Trial, Deindividuation, Emotional Contagion, Community Feeling, Inferiority-Superiority Dynamic, and Achievement Pressure Mental Health. No direct contradiction found; the source extends existing social-psychology and Adlerian self-worth pages by treating envy and contempt as comparison signals that require empathy and better social design rather than denial or indulgence.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-24] lint | Wiki health check
 

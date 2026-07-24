@@ -2,7 +2,7 @@
 title: "Observation Before Inference"
 type: concept
 tags: [science, reasoning, evidence, fieldwork]
-sources: [120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, 115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309, 99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469, 91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]
+sources: [146-bu-ai-zhuluoji-shijie-kuailai-konglong-bihusuo-dang-siyangyuan-886472126, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, 115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309, 99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 168-fangxuehou-de-xiaoxiang-zhi-qingchun-zhi-nanian-de-youyi-richang-tuili-qiangshi-huigui-953669535, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 177-xiaoshihou-de-shu-zenme-jiu-name-haokan-971996036, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469, 91-liewu-sailemu-1692-cong-yizheng-kaishi-714732018]
 last_updated: 2026-07-24
 ---
 
@@ -42,6 +42,8 @@ The concept is adjacent to [[BirdwatchingAsAttention]], but it is more explicitl
 
 [[97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059]] adds a pollen and allergy version. The episode distinguishes plausible ancient hay-fever clues from well-grounded claims, treats the Neanderthal flower-burial story as interpretation rather than proof, and uses [[CharlesHarrisonBlackley]] to show how repeated exposure tests and airborne pollen measurement moved "summer catarrh" from seasonal story to [[HayFeverEnvironmentalHistory|disease history]].
 
+[[146-bu-ai-zhuluoji-shijie-kuailai-konglong-bihusuo-dang-siyangyuan-886472126]] adds a paleontological reconstruction version through [[EvidenceBoundPaleontologicalReconstruction]]. The source accepts that dinosaur behavior, color, and expression require imagination, but insists that good popular science and fiction still begin from fossils, nests, trackways, feathers, biomechanics, and living-relative comparison before turning a dinosaur into a story.
+
 ## Key Claims
 - A plausible story is not evidence.
 - Morphology can suggest habits, but external appearance alone can mislead.
@@ -62,6 +64,7 @@ The concept is adjacent to [[BirdwatchingAsAttention]], but it is more explicitl
 - Public accusation needs the same separation: fear, suffering, or moral urgency can make a claim socially powerful without making it evidentially grounded.
 - Environmental medicine needs the same separation: seasonal coincidence, plant presence, and bodily discomfort become evidence only when exposure, timing, alternative triggers, and measurement are compared.
 - Expedition navigation and field medicine need the same discipline: inherited maps, officer confidence, and crowd agreement can be wrong when weather, coastlines, diet, and bodies supply contrary evidence.
+- Paleontological reconstruction needs imagination, but imagination should remain bounded by material traces, comparative anatomy, and explicit uncertainty.
 
 ## Connections
 - [[BirdwatchingAsAttention]] - attention as the entry point.
@@ -78,6 +81,7 @@ The concept is adjacent to [[BirdwatchingAsAttention]], but it is more explicitl
 - [[SettingBasedMystery|设定系推理]], [[IssunBoshi|一寸法师]], and [[SaruKaniGassen|猿蟹合战]] - episode 99's supernatural-rule mystery extension.
 - [[YokaiMystery|妖怪推理]], [[AnganKozo|《暗眼小僧》]], and [[YokaiImageExegesis|妖怪图像阐释]] - episode 115's demystifying yokai extension.
 - [[ExperimentalScienceEthics]], [[ExperimentalFailureAsKnowledge]], [[CircadianRhythmExperimentation]], and [[DopplerEffect]] - source-68 experiment-design extensions.
+- [[EvidenceBoundPaleontologicalReconstruction]], [[BirdDinosaurContinuity]], and [[DinosaurAsLivingAnimal]] - episode 146's extinct-animal reconstruction extension.
 - [[HistoricalDetectiveReasoning]], [[EvidenceBoundHistoricalRevision]], [[TheDaughterOfTime|《时间的女儿》]], and [[CaoCaoTomb|曹操墓]] - source-69 extension into history, archaeology, and public memory.
 - [[SalemWitchTrials]], [[WitchHuntMechanism]], [[SpectralEvidence]], and [[RationalistMethod]] - source-91 extension into resisting accusation before evidence.
 - [[PollenAsHistoricalObject]], [[PalynologyAsEvidence]], [[CharlesHarrisonBlackley]], and [[HayFeverEnvironmentalHistory]] - source-97 extension into pollen, trace evidence, and hay-fever causation.
