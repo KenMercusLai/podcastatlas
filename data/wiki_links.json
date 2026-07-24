@@ -275,6 +275,10 @@
     "title": "143. 对何小鹏的第二次访谈：更大赌注、人形机器人Iron诞生、那场意外、技术剧变下CEO、GX和缝合怪",
     "url": "/wiki/sources/143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc/"
   },
+  "143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634": {
+    "title": "143.遗忘的脑力：记性不好可咋整啊？",
+    "url": "/wiki/sources/143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634/"
+  },
   "144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b": {
     "title": "144. 对杨萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式",
     "url": "/wiki/sources/144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b/"
@@ -8003,6 +8007,10 @@
     "title": "FocusFly / 专注飞机",
     "url": "/wiki/entities/focusfly/"
   },
+  "FocusedDiffuseThinkingBalance": {
+    "title": "Focused-Diffuse Thinking Balance / 专注与发散思维均衡",
+    "url": "/wiki/concepts/focuseddiffusethinkingbalance/"
+  },
   "FoldablePhoneProductivity": {
     "title": "Foldable Phone Productivity",
     "url": "/wiki/concepts/foldablephoneproductivity/"
@@ -8114,6 +8122,10 @@
   "ForensicToxicology": {
     "title": "Forensic Toxicology",
     "url": "/wiki/concepts/forensictoxicology/"
+  },
+  "ForgettingAsCognitiveFunction": {
+    "title": "Forgetting As Cognitive Function / 遗忘作为认知功能",
+    "url": "/wiki/concepts/forgettingascognitivefunction/"
   },
   "FormalSpecification": {
     "title": "Formal Specification",
@@ -13927,6 +13939,10 @@
     "title": "Memory Chip Shortage",
     "url": "/wiki/concepts/memorychipshortage/"
   },
+  "MemoryConsolidationWindows": {
+    "title": "Memory Consolidation Windows / 记忆巩固窗口",
+    "url": "/wiki/concepts/memoryconsolidationwindows/"
+  },
   "MemoryContaminationRisk": {
     "title": "Memory Contamination Risk",
     "url": "/wiki/concepts/memorycontaminationrisk/"
@@ -15722,6 +15738,10 @@
   "PainAndMoralResponsibility": {
     "title": "Pain And Moral Responsibility",
     "url": "/wiki/concepts/painandmoralresponsibility/"
+  },
+  "PainfulMemoryRehearsalRisk": {
+    "title": "Painful Memory Rehearsal Risk / 痛苦记忆反复咀嚼风险",
+    "url": "/wiki/concepts/painfulmemoryrehearsalrisk/"
   },
   "Pakistan": {
     "title": "Pakistan",
@@ -22894,6 +22914,10 @@
   "YishengNiZaiXiangShenme": {
     "title": "《医生，你在想什么》",
     "url": "/wiki/entities/yishengnizaixiangshenme/"
+  },
+  "YiwangDeNaoli": {
+    "title": "《遗忘的脑力》",
+    "url": "/wiki/entities/yiwangdenaoli/"
   },
   "Yobi": {
     "title": "Yobi",

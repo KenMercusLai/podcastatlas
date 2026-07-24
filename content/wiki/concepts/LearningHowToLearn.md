@@ -2,8 +2,8 @@
 title: "Learning How To Learn"
 type: concept
 tags: [learning, education, ai]
-sources: [tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
-last_updated: 2026-07-12
+sources: [143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, tech-20260323-0323-mp-tech-pod-128-tech-20260323-0323-mp-tech-pod-128, vol-169-gaokao-zhishi-ge-kaishi-dont-waste-your-life-1-6668-1, dushu-jiushi-zai-du-yige-ren-de-f-li4qt9zs2bss4tklnj3yg9y-quo1, ba-shenti-shuju-cunqilai-keneng-shi-putongren-zui-huasuan-de-ai-touzi-1, e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask, 167-yangcong-xueyuan-yang-lingfeng-yong-ai-zhizao-jiejing-shi-zai-shasi-zhenxuexi-1-167-1, ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
+last_updated: 2026-07-24
 ---
 
 # Learning How To Learn
@@ -24,6 +24,8 @@ Learning how to learn is the source's core durable skill across majors, professi
 
 [[61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]] adds an ordinary-reader economics version through [[TheEconomicWayOfThinking|《经济学的思维方式》 / The Economic Way of Thinking]]. The episode argues that learning economics does not have to begin with formulas; it can begin with a transferable frame for noticing [[OpportunityCost]], [[MarginalAnalysis]], [[MarketCoordination]], and [[SubjectiveValue]] in everyday choices.
 
+[[143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634]] adds the memory-science version. Learning how to learn includes deciding what should be remembered, using [[MemoryConsolidationWindows]] for important material, and accepting [[ForgettingAsCognitiveFunction]] for material that can safely fade. The source also adds [[FocusedDiffuseThinkingBalance]]: study needs focused review, but consolidation and integration also depend on rest and looser attention.
+
 ## Key Claims
 
 - The important skill is not only repeating actions, but learning how to improve the way one trains, studies, asks, builds, and reflects.
@@ -39,6 +41,7 @@ Learning how to learn is the source's core durable skill across majors, professi
 - AI-era learning includes knowing when not to ask AI yet, especially before the first draft, first solution, or first explanation attempt.
 - Learning how to learn also includes adult relocation, language, care, hospitality, and practical coordination after the original major or job no longer defines the path.
 - Learning how to learn can mean acquiring a discipline's way of seeing before mastering its formal apparatus.
+- Learning how to learn also means working with forgetting: review important material early, then let less important details compress or disappear.
 
 ## Connections
 
@@ -54,3 +57,4 @@ Learning how to learn is the source's core durable skill across majors, professi
 - [[FirstDraftThinking]], [[HeatherSchwartz]], and [[RAND]] - Marketplace Tech's first-attempt learning extension.
 - [[YinJie|殷姐]], [[FemaleSelfPossession]], and [[LifeRestartThoughtExperiment]] - adult-life and relocation case.
 - [[TheEconomicWayOfThinking|《经济学的思维方式》 / The Economic Way of Thinking]], [[EconomicWayOfThinking]], and [[OpportunityCost]] - ordinary-reader economics extension.
+- [[ForgettingAsCognitiveFunction]], [[MemoryConsolidationWindows]], and [[FocusedDiffuseThinkingBalance]] - episode 143's memory, review-timing, and rest-balance extension.

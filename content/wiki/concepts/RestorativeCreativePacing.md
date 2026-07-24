@@ -2,8 +2,8 @@
 title: "Restorative Creative Pacing"
 type: concept
 tags: [creative-work, rest, podcast, reading]
-sources: [zhongqiu-kuaile-669967741, jiaqi-moyu-geng-jiankang-574391976]
-last_updated: 2026-07-18
+sources: [143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, zhongqiu-kuaile-669967741, jiaqi-moyu-geng-jiankang-574391976]
+last_updated: 2026-07-24
 ---
 
 # Restorative Creative Pacing
@@ -14,6 +14,8 @@ The concept is adjacent to [[WorkplacePacing]] but differs in setting. Workplace
 
 [[zhongqiu-kuaile-669967741]] adds a book-list version. The show again lowers the stakes for a holiday episode, but the lighter format still does real work: it keeps contact with listeners, matches reading to travel or staying home, and turns a seasonal table into [[FestivalFoodMaterialHistory]] through [[ZhonghuaXieshi|《中华蟹史》]].
 
+[[143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634]] adds a cognitive reason for pacing. Through [[FocusedDiffuseThinkingBalance]], the source argues that walking, looking outside, showering, sunlight, and simple physical activity can support memory integration after focused work, so rest is part of the thinking cycle rather than a pause outside it.
+
 ## Key Claims
 - A lighter episode can preserve the relationship with listeners while giving the creators recovery and preparation space.
 - Creative work often includes invisible maintenance: reading, sorting materials, arranging the physical environment, and letting future topics take shape.
@@ -21,6 +23,7 @@ The concept is adjacent to [[WorkplacePacing]] but differs in setting. Workplace
 - Better living rhythm and physical environment can change the quality of intellectual work.
 - For podcasts, pacing includes both production rhythm and the listener relationship created by informal updates.
 - A holiday book-list episode can still build the wiki when the recommendations name durable reading methods or material-history frames.
+- Rest can be cognitive work when it lets focused input settle into association, memory sorting, and later usable synthesis.
 
 ## Connections
 - [[jiaqi-moyu-geng-jiankang-574391976]] - source episode that frames holiday "moyu" as recovery and preparation.
@@ -31,3 +34,4 @@ The concept is adjacent to [[WorkplacePacing]] but differs in setting. Workplace
 - [[WorkplacePacing]] - related but more formal workplace concept around sustainable output and recovery.
 - [[ReadingAsLifeExperience]] - reading work is tied to place, body, time, and ordinary life.
 - [[TravelReadingAsPlaceInquiry]] and [[FestivalFoodMaterialHistory]] - concepts created by the later holiday episode.
+- [[FocusedDiffuseThinkingBalance]] and [[ForgettingAsCognitiveFunction]] - episode 143's attention and memory support for pacing.
