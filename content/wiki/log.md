@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-24] ingest | Don't hate the replicator, hate the game
+
+Added source page for a Planet Money episode on Abel Brodeur, the Institute for Replication, Replication Games, p-hacking, publication bias, replication packages, preregistration, robustness checks, and research-integrity incentives. Created pages for Abel Brodeur, Institute for Replication, Replication Games, University of Ottawa, Replication Crisis, P-Hacking, Publication Bias, Statistical Significance Threshold, Replication Package, Preregistration, Robustness Checks, Crowdsourced Academic Auditing, and Research Integrity Incentives; updated overview, index, NPR, Planet Money, Scientific Self-Correction, Scientific Skepticism, Observation Before Inference, Asymmetric Information, Economist Trust Crisis, Expert Trust Repair, and Economic Way Of Thinking. No direct contradiction found; the source complements the existing economist-trust branch by showing that professional credibility also depends on reproducible code, inspectable data, and credible odds of replication.
+
 ## [2026-07-24] ingest | Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines
 
 Added source page for a Planet Money Valentine's Day collection on public-domain Betty Boop, competitive Excel, Uniqlo RFID checkout, penny retirement, and 404 Media's ICE technology reporting. Created pages for Betty Boop, Jennifer Jenkins, Jess Jang, Jesse Doherty, Erica Barris, Nick Fountain, Uniqlo, U.S. Mint, Microsoft Excel, Public Domain Reuse, Competitive Spreadsheeting, RFID Checkout, Coin Retirement Economics, and Procurement Records Journalism; updated overview, index, NPR, Planet Money, Kenny Malone, Alexi Horowitz-Ghazi, 404 Media, Palantir, U.S. Immigration and Customs Enforcement, U.S. Treasury, Microsoft, Washington Post, The Walt Disney Company, and IP Ownership. No direct contradiction found; the source extends existing IP and surveillance branches by adding lawful post-expiration reuse and procurement-records accountability as distinct mechanisms.
@@ -4763,3 +4767,7 @@ Added source page for a Planet Money episode on ICE hiring, disputed federal law
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 6,581 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` is configured in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.

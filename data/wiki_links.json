@@ -1419,6 +1419,10 @@
     "title": "阿布谨也 / Abe Kinya",
     "url": "/wiki/entities/abekinya/"
   },
+  "AbelBrodeur": {
+    "title": "Abel Brodeur",
+    "url": "/wiki/entities/abelbrodeur/"
+  },
   "AbelardoDeLaEspriella": {
     "title": "Abelardo de la Espriella",
     "url": "/wiki/entities/abelardodelaespriella/"
@@ -5786,6 +5790,10 @@
   "CrosstalkLiteraryRhythm": {
     "title": "Crosstalk Literary Rhythm",
     "url": "/wiki/concepts/crosstalkliteraryrhythm/"
+  },
+  "CrowdsourcedAcademicAuditing": {
+    "title": "Crowdsourced Academic Auditing",
+    "url": "/wiki/concepts/crowdsourcedacademicauditing/"
   },
   "CrueltyUsedWell": {
     "title": "Cruelty Used Well",
@@ -11195,6 +11203,10 @@
     "title": "Institute for Advanced Study / 普林斯顿高等研究院",
     "url": "/wiki/entities/instituteforadvancedstudy/"
   },
+  "InstituteForReplication": {
+    "title": "Institute For Replication",
+    "url": "/wiki/entities/instituteforreplication/"
+  },
   "InstituteForScienceAndInternationalSecurity": {
     "title": "Institute for Science and International Security",
     "url": "/wiki/entities/instituteforscienceandinternationalsecurity/"
@@ -16543,6 +16555,10 @@
     "title": "PHS Xiaolingtong",
     "url": "/wiki/concepts/phsxiaolingtong/"
   },
+  "PHacking": {
+    "title": "P-Hacking",
+    "url": "/wiki/concepts/phacking/"
+  },
   "PPG": {
     "title": "PPG",
     "url": "/wiki/entities/ppg/"
@@ -17519,6 +17535,10 @@
     "title": "Premium-Everyday Brand Tension",
     "url": "/wiki/concepts/premiumeverydaybrandtension/"
   },
+  "Preregistration": {
+    "title": "Preregistration",
+    "url": "/wiki/concepts/preregistration/"
+  },
   "PresentMomentAgainstDeath": {
     "title": "Present Moment Against Death",
     "url": "/wiki/concepts/presentmomentagainstdeath/"
@@ -17878,6 +17898,10 @@
   "PublicUtilityCommissions": {
     "title": "Public Utility Commissions",
     "url": "/wiki/concepts/publicutilitycommissions/"
+  },
+  "PublicationBias": {
+    "title": "Publication Bias",
+    "url": "/wiki/concepts/publicationbias/"
   },
   "PublisherRelationshipMoat": {
     "title": "Publisher Relationship Moat",
@@ -18491,6 +18515,18 @@
     "title": "Repeatable Customer Language",
     "url": "/wiki/concepts/repeatablecustomerlanguage/"
   },
+  "ReplicationCrisis": {
+    "title": "Replication Crisis",
+    "url": "/wiki/concepts/replicationcrisis/"
+  },
+  "ReplicationGames": {
+    "title": "Replication Games",
+    "url": "/wiki/entities/replicationgames/"
+  },
+  "ReplicationPackage": {
+    "title": "Replication Package",
+    "url": "/wiki/concepts/replicationpackage/"
+  },
   "Replit": {
     "title": "Replit",
     "url": "/wiki/entities/replit/"
@@ -18526,6 +18562,10 @@
   "ResearchChemicalLoophole": {
     "title": "Research Chemical Loophole",
     "url": "/wiki/concepts/researchchemicalloophole/"
+  },
+  "ResearchIntegrityIncentives": {
+    "title": "Research Integrity Incentives",
+    "url": "/wiki/concepts/researchintegrityincentives/"
   },
   "ResearchTaste": {
     "title": "Research Taste",
@@ -18882,6 +18922,10 @@
   "RoboticsSimulationEvaluation": {
     "title": "Robotics Simulation Evaluation",
     "url": "/wiki/concepts/roboticssimulationevaluation/"
+  },
+  "RobustnessChecks": {
+    "title": "Robustness Checks",
+    "url": "/wiki/concepts/robustnesschecks/"
   },
   "RockbridgeNetwork": {
     "title": "Rockbridge Network",
@@ -20706,6 +20750,10 @@
   "StatisticalBubbleIndicators": {
     "title": "Statistical Bubble Indicators",
     "url": "/wiki/concepts/statisticalbubbleindicators/"
+  },
+  "StatisticalSignificanceThreshold": {
+    "title": "Statistical Significance Threshold",
+    "url": "/wiki/concepts/statisticalsignificancethreshold/"
   },
   "StatusQuoRationalization": {
     "title": "Status-Quo Rationalization / 现状合理化",
@@ -22678,6 +22726,10 @@
   "UniversityOfMichigan": {
     "title": "University of Michigan",
     "url": "/wiki/entities/universityofmichigan/"
+  },
+  "UniversityOfOttawa": {
+    "title": "University Of Ottawa",
+    "url": "/wiki/entities/universityofottawa/"
   },
   "UniversityOfSouthernCalifornia": {
     "title": "University of Southern California",
@@ -24822,6 +24874,10 @@
   "diary-of-a-wnba-negotiator": {
     "title": "Diary of a WNBA negotiator",
     "url": "/wiki/sources/diary-of-a-wnba-negotiator/"
+  },
+  "dont-hate-the-replicator-hate-the-game": {
+    "title": "Don't hate the replicator, hate the game",
+    "url": "/wiki/sources/dont-hate-the-replicator-hate-the-game/"
   },
   "duihua-minimax-yan-junjie-m3-10x-jihua-10t-moxing-he-zhineng-de-zhongju-lqtilt8flvmv99v0gshhyfyraibe": {
     "title": "对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局",

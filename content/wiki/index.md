@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Don't hate the replicator, hate the game](sources/dont-hate-the-replicator-hate-the-game.md) — Planet Money episode on Abel Brodeur, the Replication Games, p-hacking, publication bias, replication packages, robustness checks, and research integrity incentives.
 - [The ICE hiring boom](sources/the-ice-hiring-boom.md) — Planet Money episode on ICE hiring, disputed training, field culture, detention expansion, private detention contracts, and Folkston, Georgia's detention-linked local economy.
 - [The Supreme Court struck down a bunch of Trump's tariffs. Now what?](sources/the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what.md) — Planet Money episode on the Supreme Court's IEPA tariff ruling, importer refunds, tariff-refund claim trading, Section 122, and small-business planning risk.
 - [Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines](sources/betty-boop-excel-olympics-penny-isms-our-2026-valentines.md) — Planet Money Valentine collection connecting public-domain Betty Boop, competitive Excel, Uniqlo RFID checkout, penny retirement, and 404 Media's ICE procurement-records reporting.
@@ -593,6 +594,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Abel Brodeur](entities/AbelBrodeur.md) — University of Ottawa economist organizing replication work through the Institute for Replication and the Replication Games.
+- [Institute For Replication](entities/InstituteForReplication.md) — Organization Brodeur created to coordinate replication outreach, author responses, and academic auditing.
+- [Replication Games](entities/ReplicationGames.md) — Hackathon-style research-auditing events where teams reproduce papers and test robustness.
+- [University Of Ottawa](entities/UniversityOfOttawa.md) — Brodeur's academic affiliation in the Planet Money replication-crisis episode.
 - [Mark Brown](entities/MarkBrown.md) — Former Federal Law Enforcement Training Centers instructor whose crowd-control examples show the gap between formal training and field conduct.
 - [Federal Law Enforcement Training Centers](entities/FederalLawEnforcementTrainingCenters.md) — Federal training infrastructure for ICE, Border Patrol, and CBP recruits, funded and scrutinized in the ICE hiring episode.
 - [U.S. Border Patrol](entities/USBorderPatrol.md) — DHS-linked immigration enforcement agency named in the federal training and hiring discussion.
@@ -3997,6 +4002,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Replication Crisis](concepts/ReplicationCrisis.md) — Research credibility problem where published findings fail under rerun code, data inspection, or reasonable alternative analyses.
+- [P-Hacking](concepts/PHacking.md) — Tuning analysis choices until a result clears statistical significance, often under publication and career pressure.
+- [Publication Bias](concepts/PublicationBias.md) — Selection pressure that favors novel significant findings over null, ambiguous, or failed results.
+- [Statistical Significance Threshold](concepts/StatisticalSignificanceThreshold.md) — Conventional cutoff, especially the 5 percent line, that can become an incentive target in research.
+- [Replication Package](concepts/ReplicationPackage.md) — Data-and-code bundle that lets others rerun and inspect a published paper's analysis.
+- [Preregistration](concepts/Preregistration.md) — Recording hypotheses and analysis plans before seeing results to reduce after-the-fact tuning.
+- [Robustness Checks](concepts/RobustnessChecks.md) — Alternative analyses that test whether a result survives reasonable specification changes.
+- [Crowdsourced Academic Auditing](concepts/CrowdsourcedAcademicAuditing.md) — Shared replication model that checks many papers while lowering individual conflict and cost.
+- [Research Integrity Incentives](concepts/ResearchIntegrityIncentives.md) — Incentive frame where credible inspection odds shape reproducible behavior before publication.
 - [ICE Workforce Expansion](concepts/ICEWorkforceExpansion.md) — Rapid scaling of ICE personnel as an organizational, training, and accountability problem.
 - [Federal Law Enforcement Training](concepts/FederalLawEnforcementTraining.md) — Formal preparation of federal officers, including disputed ICE training hours and scenario-based restraint instruction.
 - [Field Training Officer Effects](concepts/FieldTrainingOfficerEffects.md) — Durable behavioral influence of field mentors on later officer conduct and use-of-force risk.
