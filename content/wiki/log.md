@@ -4268,6 +4268,10 @@ Added source page for a 蜜獾吃书 episode on 罗翔《法律的悖论》, cov
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-24] ingest | Inside a BOOK auction
+
+Added source page for a Planet Money episode on the hidden economics of nonfiction book deals, literary agents, proposal packaging, publisher meetings, two-round auction design, advance risk, author-platform evidence, publisher portfolio logic, and Norton's educational distribution pitch. Created pages for Alex Goldmark, Laura Nolan, Jane von Mehren, Alex Maiassi, Tom Mayer, W. W. Norton & Company, Book Publishing Economics, Literary Agent Market Making, Book Proposal As Sales Document, Publishing Auction Design, Advance Against Royalties, Publishing Portfolio Risk, Author Platform Risk Reduction, Winner's Curse, and Educational Distribution Strategy; updated overview, index, NPR, Planet Money, Literary Agent Judgment, Book Creator Work, Literary Publishing As Material Support, and Economic Way Of Thinking. No direct contradiction found; the source extends the wiki's book and media-business branches by showing that a creative nonfiction project becomes a book through platform proof, proposal work, agent access, auction format, and distribution fit as much as through editorial enthusiasm.
+
 ## [2026-07-24] ingest | A hawk who flew on political winds: Lindsey Graham
 
 Added source page for a The Intelligence episode on Lindsey Graham's death and career, Republican foreign-policy adaptation under Trump, AI model value surveys and censorship, language-dependent AI bias, moral outsourcing through AI advice, and the renewed Old Masters market. Created pages for Lindsey Graham, Henry McMaster, Sondre Solstad, World Values Survey, Taki AI, Christie's, Sotheby's, Adam Williams Gallery, Patrick Williams, Republican Foreign Policy Adaptation, AI Model Value Surveying, AI Model Censorship, Language-Dependent AI Bias, AI Advice Moral Outsourcing, and Old Masters Market Revival; updated overview, index, The Intelligence, Economist Podcasts, Donald Trump, Republican Party, Ukraine, Iran, Israel, Benjamin Netanyahu, Human Judgment Under AI, AI Backlash Politics, and AI Content Provenance. No direct contradiction found; the source qualifies existing Trump-era Republican pages by showing how older hawkish foreign-policy influence could persist through adaptation to Trump-centered party power, and extends AI governance pages from safety/control toward survey-measured values and advice risk.
@@ -4807,6 +4811,10 @@ Ran lint after health passed. Deterministic checks scanned 6,644 pages and found
 ## [2026-07-24] ingest | The little pet fish that saved a town in the Amazon
 
 Added source page for a Planet Money episode on Barcelos, Brazil's wild Cardinal Tetra economy, the piabero livelihood system, sustainable wild harvesting, farmed competition from outside the Amazon, Project Piaba's traceability and handling strategy, and the town's pivot toward Peacock Bass sport-fishing tourism. Created pages for Barcelos, Rio Negro, Cardinal Tetra, Project Piaba, Aramara Castro, Deco, Vanda Ilson Siqueira, Peacock Bass, Piabero Economy, Sustainable Wild Harvesting, Local Product Advantage Erosion, Origin Traceability Moat, and Heritage Tourism Pivot; updated overview, index, NPR, Planet Money, Brazil, Localized Innovation Advantage, Conservation Intervention, Environmental Tradeoff Accounting, and Tourism-Dependent Small Economy. No direct contradiction found; the source qualifies localized-innovation optimism by showing that a local ecological advantage can be copied elsewhere, and it complicates conservation-versus-commerce framing by presenting bounded wild harvest as a possible habitat-protection strategy.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-24] lint | Wiki health check
 

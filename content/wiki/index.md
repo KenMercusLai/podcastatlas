@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Inside a BOOK auction](sources/inside-a-book-auction.md) — Planet Money episode on the hidden economics of nonfiction book deals, literary agents, proposal packaging, publisher meetings, auction design, advances, platform risk, and Norton's educational-distribution win.
 - [The little pet fish that saved a town in the Amazon](sources/the-little-pet-fish-that-saved-a-town-in-the-amazon.md) — Planet Money episode on Barcelos, Brazil's wild Cardinal Tetra economy, sustainable ornamental-fish harvesting, farmed competition, Project Piaba, traceability, and the town's sport-fishing tourism pivot.
 - [Chef vs. Robot](sources/chef-vs-robot.md) — Planet Money episode on a robot wok versus a human chef, restaurant automation economics, wok hei, staffing pressure, and automation's displacement/reinstatement effects.
 - [The laws of the office revisited](sources/the-laws-of-the-office-revisited.md) — Planet Money episode on Goodhart's Law, Parkinson's Law, the Peter Principle, truthful social proof, recognition incentives, and workplace incentive design.
@@ -599,6 +600,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Alex Goldmark](entities/AlexGoldmark.md) — Planet Money executive producer whose choice of Norton over a higher-money offer grounds the episode's mission-fit publishing decision.
+- [Laura Nolan](entities/LauraNolan.md) — Literary agent helping Planet Money shape, seed, and auction the book proposal.
+- [Jane von Mehren](entities/JaneVonMehren.md) — Literary agent co-leading the Planet Money book proposal, publisher meetings, bid comparison, and auction process.
+- [Alex Maiassi](entities/AlexMaiassi.md) — Writer who helped convert the Planet Money book idea into sample writing, chapter structure, and a sellable proposal.
+- [Tom Mayer](entities/TomMayer.md) — W. W. Norton editor modeling sales, advance risk, and publisher fit for the Planet Money book auction.
+- [W. W. Norton & Company](entities/WWNorton.md) — Employee-owned publisher that won the Planet Money book through editorial fit, full-color plans, and educational distribution.
 - [Barcelos](entities/Barcelos.md) — Remote Brazilian Rio Negro town whose ornamental-fish economy and Cardinal Tetra civic identity are giving way to sport-fishing tourism.
 - [Rio Negro](entities/RioNegro.md) — Amazon river setting whose dark acidic water created the Cardinal Tetra niche around Barcelos.
 - [Cardinal Tetra](entities/CardinalTetra.md) — Tiny Amazon aquarium fish that became Barcelos's export product, civic emblem, conservation case, and copied farmed competitor.
@@ -4049,6 +4056,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Book Publishing Economics](concepts/BookPublishingEconomics.md) — Market machinery that turns a book idea into an acquired financial bet through agents, proposals, rights, advances, risk models, and distribution.
+- [Literary Agent Market Making](concepts/LiteraryAgentMarketMaking.md) — Agent work that packages a book project, creates publisher access, seeds demand, and runs a competitive sale.
+- [Book Proposal As Sales Document](concepts/BookProposalAsSalesDocument.md) — Nonfiction proposal as both creative blueprint and business case before a book exists.
+- [Publishing Auction Design](concepts/PublishingAuctionDesign.md) — Choice of bidding format, information flow, rounds, and qualitative fit criteria in a multi-publisher book sale.
+- [Advance Against Royalties](concepts/AdvanceAgainstRoyalties.md) — Upfront publishing payment that also sets the sales hurdle and acquisition risk for the publisher.
+- [Publishing Portfolio Risk](concepts/PublishingPortfolioRisk.md) — Publisher-list risk pattern where editors balance taste, comps, advances, and power-law sales outcomes.
+- [Author Platform Risk Reduction](concepts/AuthorPlatformRiskReduction.md) — Publishing logic where a known audience and prior purchase behavior reduce acquisition uncertainty.
+- [Winner's Curse](concepts/WinnerCurse.md) — Auction risk that the winning bidder overpaid because valuation was uncertain and competitive pressure was high.
+- [Educational Distribution Strategy](concepts/EducationalDistributionStrategy.md) — Publisher plan to route a book through courseware, syllabi, and classroom use as part of its commercial fit.
 - [Piabero Economy](concepts/PiaberoEconomy.md) — Barcelos wild ornamental-fish livelihood system linking local fishers, brokers, exporters, civic identity, and global aquarium demand.
 - [Sustainable Wild Harvesting](concepts/SustainableWildHarvesting.md) — Conservation-economics frame where bounded wild harvest can protect habitat when local livelihood depends on intact ecosystems.
 - [Local Product Advantage Erosion](concepts/LocalProductAdvantageErosion.md) — Pattern where a place loses market control once outsiders reproduce a formerly local product elsewhere.

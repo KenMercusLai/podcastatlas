@@ -1651,6 +1651,10 @@
     "title": "Adult Summer Camps",
     "url": "/wiki/concepts/adultsummercamps/"
   },
+  "AdvanceAgainstRoyalties": {
+    "title": "Advance Against Royalties",
+    "url": "/wiki/concepts/advanceagainstroyalties/"
+  },
   "AdvanceFeeFraud": {
     "title": "Advance-Fee Fraud",
     "url": "/wiki/concepts/advancefeefraud/"
@@ -1939,9 +1943,17 @@
     "title": "Alex Goldman",
     "url": "/wiki/entities/alexgoldman/"
   },
+  "AlexGoldmark": {
+    "title": "Alex Goldmark",
+    "url": "/wiki/entities/alexgoldmark/"
+  },
   "AlexKarp": {
     "title": "Alex Karp",
     "url": "/wiki/entities/alexkarp/"
+  },
+  "AlexMaiassi": {
+    "title": "Alex Maiassi",
+    "url": "/wiki/entities/alexmaiassi/"
   },
   "AlexPreti": {
     "title": "Alex Preti",
@@ -2823,6 +2835,10 @@
     "title": "Author Myth Deflation",
     "url": "/wiki/concepts/authormythdeflation/"
   },
+  "AuthorPlatformRiskReduction": {
+    "title": "Author Platform Risk Reduction",
+    "url": "/wiki/concepts/authorplatformriskreduction/"
+  },
   "AuthoritarianWarExitDilemma": {
     "title": "Authoritarian War Exit Dilemma",
     "url": "/wiki/concepts/authoritarianwarexitdilemma/"
@@ -3610,6 +3626,14 @@
   "BookOfRevelation": {
     "title": "《启示录》 / Book of Revelation",
     "url": "/wiki/entities/bookofrevelation/"
+  },
+  "BookProposalAsSalesDocument": {
+    "title": "Book Proposal As Sales Document",
+    "url": "/wiki/concepts/bookproposalassalesdocument/"
+  },
+  "BookPublishingEconomics": {
+    "title": "Book Publishing Economics",
+    "url": "/wiki/concepts/bookpublishingeconomics/"
   },
   "Bookface": {
     "title": "Bookface",
@@ -7382,6 +7406,10 @@
   "EducationTechnologyFairness": {
     "title": "Education Technology Fairness",
     "url": "/wiki/concepts/educationtechnologyfairness/"
+  },
+  "EducationalDistributionStrategy": {
+    "title": "Educational Distribution Strategy",
+    "url": "/wiki/concepts/educationaldistributionstrategy/"
   },
   "Edward": {
     "title": "Edward",
@@ -11783,6 +11811,10 @@
     "title": "Jane Black",
     "url": "/wiki/entities/janeblack/"
   },
+  "JaneVonMehren": {
+    "title": "Jane von Mehren",
+    "url": "/wiki/entities/janevonmehren/"
+  },
   "JanetYellen": {
     "title": "Janet Yellen",
     "url": "/wiki/entities/janetyellen/"
@@ -13103,6 +13135,10 @@
     "title": "Laughter Against Authority",
     "url": "/wiki/concepts/laughteragainstauthority/"
   },
+  "LauraNolan": {
+    "title": "Laura Nolan",
+    "url": "/wiki/entities/lauranolan/"
+  },
   "LaurenLoricchio": {
     "title": "Lauren Loricchio",
     "url": "/wiki/entities/laurenloricchio/"
@@ -13538,6 +13574,10 @@
   "LiteraryAgentJudgment": {
     "title": "Literary Agent Judgment",
     "url": "/wiki/concepts/literaryagentjudgment/"
+  },
+  "LiteraryAgentMarketMaking": {
+    "title": "Literary Agent Market Making",
+    "url": "/wiki/concepts/literaryagentmarketmaking/"
   },
   "LiteraryAmbiguityAsComplexity": {
     "title": "Literary Ambiguity As Complexity / 文学混沌性",
@@ -18099,6 +18139,14 @@
     "title": "Publisher Relationship Moat",
     "url": "/wiki/concepts/publisherrelationshipmoat/"
   },
+  "PublishingAuctionDesign": {
+    "title": "Publishing Auction Design",
+    "url": "/wiki/concepts/publishingauctiondesign/"
+  },
+  "PublishingPortfolioRisk": {
+    "title": "Publishing Portfolio Risk",
+    "url": "/wiki/concepts/publishingportfoliorisk/"
+  },
   "Pulley": {
     "title": "Pulley",
     "url": "/wiki/entities/pulley/"
@@ -22331,6 +22379,10 @@
     "title": "Tom Cruise",
     "url": "/wiki/entities/tomcruise/"
   },
+  "TomMayer": {
+    "title": "Tom Mayer",
+    "url": "/wiki/entities/tommayer/"
+  },
   "TomMichell": {
     "title": "Tom Michell / 汤姆·米切尔",
     "url": "/wiki/entities/tommichell/"
@@ -23319,6 +23371,10 @@
     "title": "WNBA Players Association",
     "url": "/wiki/entities/wnbaplayersassociation/"
   },
+  "WWNorton": {
+    "title": "W. W. Norton & Company",
+    "url": "/wiki/entities/wwnorton/"
+  },
   "WaitlistInvitationGrowth": {
     "title": "Waitlist Invitation Growth",
     "url": "/wiki/concepts/waitlistinvitationgrowth/"
@@ -23830,6 +23886,10 @@
   "Wink": {
     "title": "Wink",
     "url": "/wiki/entities/wink/"
+  },
+  "WinnerCurse": {
+    "title": "Winner's Curse",
+    "url": "/wiki/concepts/winnercurse/"
   },
   "WinthropKellogg": {
     "title": "Winthrop Kellogg / 凯洛格",
@@ -25566,6 +25626,10 @@
   "indy-johar-civilizational-optioneering-tyeyt7r-zfu": {
     "title": "Indy Johar: Civilizational Optioneering",
     "url": "/wiki/sources/indy-johar-civilizational-optioneering-tyeyt7r-zfu/"
+  },
+  "inside-a-book-auction": {
+    "title": "Inside a BOOK auction",
+    "url": "/wiki/sources/inside-a-book-auction/"
   },
   "iran-protests-and-sanctions": {
     "title": "Iran, protests, and sanctions",
