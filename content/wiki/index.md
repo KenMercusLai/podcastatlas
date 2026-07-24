@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [141. 制造弗兰肯斯坦：科幻之母和她的神奇时代](sources/141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931.md) — 蜜獾吃书 episode on Mary Shelley, Frankenstein, Romantic science, galvanism, vitalism, anatomy, corpse trade, electric therapy, the Villa Diodati circle, and creator responsibility.
 - [140. 还可以的金女士：“所以人为什么要努力啊？！”](sources/140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655.md) — 蜜獾吃书 episode with 金子 on 《还可以的金女士》, small-town exam-taker discipline, hardship culture, female beauty self-surveillance, creator rating pressure, fashion respectability tax, and asking why effort became mandatory.
 - [139. 为什么伟大不能被计划：有志者事竟成，吗？](sources/139-weishenme-weida-buneng-bei-jihua-youzhizhe-shijingsheng-ma-849965735.md) — 蜜獾吃书 episode on 《为什么伟大不能被计划》, objective deception, novelty search, stepping-stone exploration, reading as possibility-space expansion, career uncertainty, basic research, and Campbell's Law.
 - [138.企鹅课：我在海滩上捡到一位Q老师](sources/138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726.md) — 蜜獾吃书 episode on 《企鹅课》, Tom Michell, an oil-soaked Magellanic penguin named Juan Salvador, St. George's School, 1970s Argentina, wild-animal rescue responsibility, and oil-pollution wildlife harm.
@@ -558,6 +559,26 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《制造弗兰肯斯坦：玛丽·雪莱背后的科学》](entities/MakingFrankensteinBook.md) — Book used by episode 141 to map Mary Shelley's Frankenstein onto galvanism, vitalism, anatomy, corpse supply, and science anxiety.
+- [Mary Wollstonecraft / 玛丽·沃斯通克拉夫特](entities/MaryWollstonecraft.md) — Feminist and radical writer whose motherhood, death, and intellectual legacy shape episode 141's Shelley background.
+- [William Godwin / 威廉·戈德温](entities/WilliamGodwin.md) — Radical writer and Mary Shelley's father, used by episode 141 to explain the Godwin-Shelley intellectual household.
+- [Percy Shelley / 珀西·雪莱](entities/PercyShelley.md) — Romantic poet whose science passion, elopement with Mary Shelley, and Villa Diodati presence shape episode 141.
+- [Claire Clairmont / 克莱尔·克莱尔蒙特](entities/ClaireClairmont.md) — Mary Shelley's stepsister and Byron link who helps connect the Shelley circle to Geneva in episode 141.
+- [Erasmus Darwin / 伊拉斯默·达尔文](entities/ErasmusDarwin.md) — Scientific-literary figure used by episode 141 as part of Mary Shelley's life, matter, and generation background.
+- [Frankenstein Castle / 弗兰肯斯坦城堡](entities/FrankensteinCastle.md) — Rhine-region castle and Dippel legend site treated by episode 141 as one possible atmospheric source for the novel.
+- [Johann Conrad Dippel / 约翰·康拉德·迪佩尔](entities/JohannConradDippel.md) — Alchemist associated with Frankenstein Castle and body-experiment legends in episode 141.
+- [Luigi Galvani / 路易吉·伽伐尼](entities/LuigiGalvani.md) — Frog-leg experimenter whose animal-electricity work anchors episode 141's galvanic reanimation branch.
+- [Alessandro Volta / 亚历山德罗·伏打](entities/AlessandroVolta.md) — Galvani's rival in episode 141's animal-electricity debate and inventor of the voltaic pile.
+- [Andrew Crosse / 安德鲁·克罗斯](entities/AndrewCrosse.md) — Electricity experimenter whose "electric mite" claim lets episode 141 discuss spontaneous generation and contamination.
+- [William Lawrence / 威廉·劳伦斯](entities/WilliamLawrence.md) — Doctor and vitalism-debate figure connected to Percy Shelley and Frankenstein's life-principle context.
+- [Villa Diodati / 迪奥达蒂别墅](entities/VillaDiodati.md) — Geneva setting where episode 141 situates the ghost-story game that produced Frankenstein and Polidori's vampire branch.
+- [Year Without a Summer / 无夏之夏](entities/YearWithoutASummer.md) — 1816 climate anomaly that episode 141 uses as the weather and disaster backdrop for the Villa Diodati gathering.
+- [Prometheus / 普罗米修斯](entities/Prometheus.md) — Mythic creation figure used by episode 141 to interpret Frankenstein's "Modern Prometheus" subtitle.
+- [Andreas Vesalius / 安德烈亚斯·维萨里](entities/AndreasVesalius.md) — Anatomy-history figure used by episode 141 to connect direct dissection with Frankenstein's body-making premise.
+- [John Hunter / 约翰·亨特](entities/JohnHunter.md) — Anatomist and collector whose experiments and Charles Byrne connection ground episode 141's anatomy branch.
+- [Charles Byrne / 查尔斯·伯恩](entities/CharlesByrne.md) — "Irish giant" body-collection case used by episode 141 to connect anatomical display and Frankenstein's creature.
+- [Burke and Hare / 伯克与黑尔](entities/BurkeAndHare.md) — Murder-for-cadavers case used by episode 141 to make anatomy demand and public fear concrete.
+- [James Graham / 詹姆斯·格雷厄姆](entities/JamesGraham.md) — Electrical-therapy showman whose Temple of Health illustrates episode 141's electricity-as-medical-spectacle branch.
 - [《还可以的金女士》](entities/HaikeyiDeJinNvshi.md) — Jinzi autobiographical essay collection used by episode 140 to examine small-town schooling, beauty, work, effort, and self-trust.
 - [金子 / Jinzi](entities/Jinzi.md) — Author and fashion-media worker whose memoir grounds episode 140's branches on small-town exam-taker discipline, creator evaluation pressure, and effort interrogation.
 - [中国传媒大学 / Communication University of China](entities/ChinaCommunicationUniversity.md) — Jinzi's chosen journalism path, used by episode 140 to show a specialized route that local prestige systems did not fully recognize.
@@ -3719,6 +3740,21 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Science Fiction As Contemporary Science Integration / 科幻作为当代科学整合](concepts/ScienceFictionContemporaryScienceIntegration.md) — Episode 141 frame for judging early science fiction by how it absorbs its own era's live science and anxiety.
+- [Scientific Anxiety As Literary Material / 科学焦虑作为文学材料](concepts/ScientificAnxietyLiteraryMaterial.md) — Pattern where unsettled science becomes story pressure without requiring simple anti-science rejection.
+- [Romantic Science Culture / 浪漫主义科学文化](concepts/RomanticScienceCulture.md) — Period frame where poetry, radical politics, natural philosophy, electricity, medicine, and life speculation overlap.
+- [Vitalism And Life-Principle Debate / 活力论与生命本质争论](concepts/VitalismLifePrincipleDebate.md) — Early life-science controversy over whether life is organized matter, a vital fluid, or another special principle.
+- [Animal Electricity Debate / 动物电争论](concepts/AnimalElectricityDebate.md) — Galvani-Volta controversy around whether living bodies contain their own electricity.
+- [Galvanic Reanimation Imaginary / 伽伐尼式复活想象](concepts/GalvanicReanimationImaginary.md) — Cultural pattern where electrical movement in tissue suggests possible return of life.
+- [Spontaneous Generation As Life-Origin Frame / 自然发生论作为生命起源框架](concepts/SpontaneousGenerationLifeOrigin.md) — Old belief that life can arise from matter, used by episode 141 as historical context rather than endorsed science.
+- [Alchemy-Chemistry Continuity / 炼金术与化学连续性](concepts/AlchemyChemistryContinuity.md) — Frame for why alchemy, chemistry, medicine, and life-making remained entangled in Frankenstein's background.
+- [Cadaver Trade And Anatomy Fear / 尸体贸易与解剖恐惧](concepts/CadaverTradeAnatomyFear.md) — Anatomy-school body demand, body-snatching, and public horror as Frankenstein context.
+- [Early Transplantation Imaginary / 早期移植想象](concepts/EarlyTransplantationImaginary.md) — Early graft, artificial-respiration, revival, and body-part-transfer ideas behind Frankenstein's assembled body.
+- [Electric Therapy Speculation / 电疗法想象](concepts/ElectricTherapySpeculation.md) — Eighteenth-century hopes and showmanship around electricity as medicine and life force.
+- [Creator Responsibility Ethics / 创造者责任伦理](concepts/CreatorResponsibilityEthics.md) — Frankenstein-derived frame for obligations that follow from making something alive or agentic.
+- [Creature Social Exclusion / 被排斥者如何被制造成怪物](concepts/CreatureSocialExclusion.md) — Reading of Frankenstein where abandonment and rejection help produce the danger they fear.
+- [Physiognomy Moral Appearance Fallacy / 以貌定德谬误](concepts/PhysiognomyMoralAppearanceFallacy.md) — Fallacy of inferring moral character from face, skull, or ugliness, challenged by Frankenstein's creature.
+- [Modern Prometheus Reading / 现代普罗米修斯读法](concepts/ModernPrometheusReading.md) — Episode 141 frame connecting Prometheus, scientific creation, and maker responsibility.
 - [小镇做题家规训 / Small-Town Exam-Taker Discipline](concepts/SmallTownExamTakerDiscipline.md) — Contemporary education-and-class formation where study is both exit and constraint, especially when local worlds offer few visible alternatives.
 - [吃苦文化作为教育 / Hardship Culture As Education](concepts/HardshipCultureAsEducation.md) — Pattern where suffering is treated as proof of good training before its bodily cost, effectiveness, or fairness is examined.
 - [努力叙事追问 / Effort Narrative Interrogation](concepts/EffortNarrativeInterrogation.md) — Asking why effort became morally mandatory without replacing effort with slackness as a new unquestioned template.

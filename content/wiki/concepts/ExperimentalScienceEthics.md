@@ -2,8 +2,8 @@
 title: "Experimental Science Ethics"
 type: concept
 tags: [science, ethics, experiments, evidence]
-sources: [123-renxing-shiyan-dangxin-ni-ziji-779479569, 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549]
-last_updated: 2026-07-18
+sources: [141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931, 123-renxing-shiyan-dangxin-ni-ziji-779479569, 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549]
+last_updated: 2026-07-24
 ---
 
 # Experimental Science Ethics
@@ -14,6 +14,8 @@ The concept does not reject experiment. It argues that experiment needs ethical 
 
 [[123-renxing-shiyan-dangxin-ni-ziji-779479569]] adds the social-psychology deception version. The hosts note that many classic studies used cover stories or concealed purposes, and they mark [[SolomonAsch]], [[StanleyMilgram]], and [[PhilipZimbardo]] as famous cases where experimental insight and ethical discomfort have to be considered together.
 
+[[141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931]] adds a Frankenstein-origin version. The episode widens the ethics branch from odd experiments to the social systems around experiment: [[CadaverTradeAnatomyFear]], [[ElectricTherapySpeculation]], [[GalvanicReanimationImaginary]], and [[CreatorResponsibilityEthics]] show that bodies, patients, corpses, and created beings become ethical subjects before scientific interpretation is settled.
+
 ## Key Claims
 - Curiosity is not self-justifying; the experimental subject matters.
 - Self-risk differs ethically from imposing risk on corpses, animals, children, patients, or assistants.
@@ -21,6 +23,7 @@ The concept does not reject experiment. It argues that experiment needs ethical 
 - Failed, lucky, or inconclusive experiments still have value when they mark limits rather than pretending to prove too much.
 - Scientific credit is part of ethics when collaborators bear material risk.
 - Social-psychology experiments add deception, distress, anonymity, and post-experiment debriefing as recurring ethical concerns.
+- In the Frankenstein branch, the ethical problem includes not only how an experiment is performed but what obligations follow if the experiment succeeds.
 
 ## Connections
 - [[68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549]] - source episode.
@@ -30,3 +33,4 @@ The concept does not reject experiment. It argues that experiment needs ethical 
 - [[ScientificSkepticism]], [[ScientificSelfCorrection]], and [[ObservationBeforeInference]] - methodological guardrails.
 - [[SacrificingOthersEthics]] - adjacent moral problem when someone else is made to bear the cost.
 - [[SocialPsychology]], [[Deindividuation]], [[SolomonAsch]], [[StanleyMilgram]], and [[PhilipZimbardo]] - source-123 extension into human-subject social experiments.
+- [[141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931]], [[CadaverTradeAnatomyFear]], [[ElectricTherapySpeculation]], [[GalvanicReanimationImaginary]], and [[CreatorResponsibilityEthics]] - source-141 extension into Frankenstein's scientific and moral context.

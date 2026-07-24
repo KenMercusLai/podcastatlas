@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-24] ingest | 141. 制造弗兰肯斯坦：科幻之母和她的神奇时代
+
+Added source page for the 蜜獾吃书 episode on Mary Shelley, Frankenstein, Romantic science culture, galvanism, vitalism, spontaneous generation, anatomy, corpse trade, transplantation, electric therapy, the Villa Diodati circle, and creator responsibility. Created pages for the source book, Mary Wollstonecraft, William Godwin, Percy Shelley, Claire Clairmont, Erasmus Darwin, Frankenstein Castle, Dippel, Galvani, Volta, Crosse, Lawrence, Villa Diodati, the Year Without a Summer, Prometheus, Vesalius, Hunter, Byrne, Burke and Hare, Graham, and the main science-history and ethics concepts; updated overview, index, Mary Shelley, Frankenstein, Giovanni Aldini, Byron, Polidori, 蜜獾吃书, Science Fiction Realism, Experimental Science Ethics, and Scientific Public Spectacle. No direct contradiction found; the source extends the prior Frankenstein-galvanism branch by arguing that the novel was scientifically saturated for Mary Shelley's age while keeping later scientific correctness, public spectacle, and creator responsibility distinct.
+
 ## [2026-07-24] ingest | 139. 为什么伟大不能被计划：有志者事竟成，吗？
 
 Added source page for the 蜜獾吃书 episode on 《为什么伟大不能被计划》, objective deception, novelty search, stepping-stone exploration, reading as possibility-space expansion, career uncertainty, basic research, and Campbell's Law. Created pages for 《为什么伟大不能被计划》 / Why Greatness Cannot Be Planned, Kenneth Stanley, Joel Lehman, Objective Deception, Novelty Search, Stepping-Stone Exploration, and Campbell's Law; updated overview, index, 蜜獾吃书, OpenAI, Non-Instrumental Literary Reading, Reading As Life Experience, Luck As Information Bandwidth, Low-Cost Experimentation, and Richard Wiseman. No direct contradiction found; the source qualifies existing goal, metric, and action-oriented pages by preserving measurement for bounded tasks while warning that complex systems can be misled by false objectives and high-stakes proxy metrics.
@@ -4483,3 +4487,7 @@ Added source page for the 蜜獾吃书 episode with 金子 on 《还可以的金
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 6,133 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 5,641 nodes while lint scanned 6,133 pages, so graph findings may miss newer pages; they found no hub stubs, five fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to `claude-3-5-sonnet-latest` without a provider prefix and no provider API-key variables are present in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.

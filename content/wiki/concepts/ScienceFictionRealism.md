@@ -2,7 +2,7 @@
 title: "Science Fiction Realism"
 type: concept
 tags: [literature, science-fiction, realism, satire]
-sources: [135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 130-tuokaerqiuke-guaidan-gushiji-xunzhao-he-gaobie-803543569, 45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680, sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]
+sources: [141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931, 135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 130-tuokaerqiuke-guaidan-gushiji-xunzhao-he-gaobie-803543569, 45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680, sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]
 last_updated: 2026-07-24
 ---
 
@@ -20,6 +20,8 @@ In the episode, [[TheCyberiad|《机器人大师》 / The Cyberiad]] becomes rea
 
 [[130-tuokaerqiuke-guaidan-gushiji-xunzhao-he-gaobie-803543569]] adds a domestic Tokarczuk version through [[BizarreStories|《怪诞故事集》]]. 〈拜访〉 and 〈变形中心〉 are speculative, but their realism lies in household labor, AI dependency, family witnessing, grief, body design, and the difficulty of respecting a chosen departure.
 
+[[141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931]] adds an origin-era version through [[MaryShelley|Mary Shelley / 玛丽·雪莱]]'s [[Frankenstein|《弗兰肯斯坦》]]. The episode's realism is historical rather than predictive: [[GalvanicReanimationImaginary]], [[VitalismLifePrincipleDebate]], anatomy fear, and [[ModernPrometheusReading]] make a fantastic creation story reveal real scientific excitement, public dread, abandonment, and responsibility in Shelley's age.
+
 ## Key Claims
 - Speculative absurdity can be realist when it reveals durable social mechanisms.
 - Realism here is structural rather than surface-level: the events are impossible, but the human patterns are recognizable.
@@ -29,6 +31,7 @@ In the episode, [[TheCyberiad|《机器人大师》 / The Cyberiad]] becomes rea
 - Mythic science fiction can be realist when grand speculative forms make ordinary human attachments, control, and vulnerability clearer.
 - Domestic and body-transformation science fiction can be realist when invented technology reveals care arrangements and family grief.
 - Prediction-rich science fiction can be realist without making the author politically or morally reliable.
+- Origin-era science fiction can be realist when it integrates contemporary science, public anxiety, and responsibility problems, even if later science rejects the mechanism.
 
 ## Connections
 - [[TheCyberiad|《机器人大师》 / The Cyberiad]] and [[StanislawLem|斯坦尼斯拉夫·莱姆]] - source book and author.
@@ -39,3 +42,4 @@ In the episode, [[TheCyberiad|《机器人大师》 / The Cyberiad]] becomes rea
 - [[RogerZelazny|Roger Zelazny / 罗杰·泽拉兹尼]], [[ForABreathITarry|《趁生命气息逗留》]], [[RobotHumanBoundary]], and [[EmbodiedPersonhood]] - mythic and embodied extension added by the Zelazny episode.
 - [[HGWells]], [[TimeMachine]], [[WarOfTheWorlds]], and [[InvisibleManHGWells]] - episode-135 extension into prediction, social theory, and author contradiction.
 - [[BizarreStories|《怪诞故事集》]], [[DomesticAIRelations]], and [[TransformationAsExit]] - Tokarczuk extension added by episode 130.
+- [[Frankenstein|《弗兰肯斯坦》]], [[ScienceFictionContemporaryScienceIntegration]], [[GalvanicReanimationImaginary]], and [[CreatorResponsibilityEthics]] - episode-141 extension into the scientific and ethical roots of modern science fiction.

@@ -255,6 +255,10 @@
     "title": "141. 咖啡战争2026：机构化与本土化",
     "url": "/wiki/sources/141-kafei-zhanzheng-2026-jigouhua-yu-bentuhua-feng-tou-quan-1-141-1/"
   },
+  "141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931": {
+    "title": "141. 制造弗兰肯斯坦：科幻之母和她的神奇时代",
+    "url": "/wiki/sources/141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931/"
+  },
   "142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1": {
     "title": "142. 产品体验学日本、全球营销学韩国",
     "url": "/wiki/sources/142-chanpin-tiyan-xue-riben-quanqiu-yingxiao-xue-hanguo-feng-tou-quan-1-142-1/"
@@ -1795,6 +1799,10 @@
     "title": "Albert Einstein / 阿尔伯特·爱因斯坦",
     "url": "/wiki/entities/alberteinstein/"
   },
+  "AlchemyChemistryContinuity": {
+    "title": "Alchemy-Chemistry Continuity / 炼金术与化学连续性",
+    "url": "/wiki/concepts/alchemychemistrycontinuity/"
+  },
   "Aldhani": {
     "title": "Aldhani",
     "url": "/wiki/entities/aldhani/"
@@ -1810,6 +1818,10 @@
   "Alerta": {
     "title": "Alerta",
     "url": "/wiki/entities/alerta/"
+  },
+  "AlessandroVolta": {
+    "title": "Alessandro Volta / 亚历山德罗·伏打",
+    "url": "/wiki/entities/alessandrovolta/"
   },
   "AletaStone": {
     "title": "Aleta Stone",
@@ -2107,9 +2119,17 @@
     "title": "《安多》 / Andor",
     "url": "/wiki/entities/andor/"
   },
+  "AndreasVesalius": {
+    "title": "Andreas Vesalius / 安德烈亚斯·维萨里",
+    "url": "/wiki/entities/andreasvesalius/"
+  },
   "AndreessenHorowitz": {
     "title": "Andreessen Horowitz",
     "url": "/wiki/entities/andreessenhorowitz/"
+  },
+  "AndrewCrosse": {
+    "title": "Andrew Crosse / 安德鲁·克罗斯",
+    "url": "/wiki/entities/andrewcrosse/"
   },
   "AndrewGradman": {
     "title": "Andrew Gradman",
@@ -2182,6 +2202,10 @@
   "AnimalAssistedTherapy": {
     "title": "Animal-Assisted Therapy",
     "url": "/wiki/concepts/animalassistedtherapy/"
+  },
+  "AnimalElectricityDebate": {
+    "title": "Animal Electricity Debate / 动物电争论",
+    "url": "/wiki/concepts/animalelectricitydebate/"
   },
   "AnimalExperimentEthics": {
     "title": "Animal Experiment Ethics",
@@ -3619,6 +3643,10 @@
     "title": "Bureaucratic Workload Control",
     "url": "/wiki/concepts/bureaucraticworkloadcontrol/"
   },
+  "BurkeAndHare": {
+    "title": "Burke and Hare / 伯克与黑尔",
+    "url": "/wiki/entities/burkeandhare/"
+  },
   "BurtonAbrams": {
     "title": "Burton Abrams",
     "url": "/wiki/entities/burtonabrams/"
@@ -3742,6 +3770,10 @@
   "CactusFlowerStory": {
     "title": "《仙人掌之花》",
     "url": "/wiki/entities/cactusflowerstory/"
+  },
+  "CadaverTradeAnatomyFear": {
+    "title": "Cadaver Trade And Anatomy Fear / 尸体贸易与解剖恐惧",
+    "url": "/wiki/concepts/cadavertradeanatomyfear/"
   },
   "CadenceDesignSystems": {
     "title": "Cadence Design Systems / 楷登",
@@ -4158,6 +4190,10 @@
   "CharacterRelationshipStoryLogic": {
     "title": "Character Relationship Story Logic",
     "url": "/wiki/concepts/characterrelationshipstorylogic/"
+  },
+  "CharlesByrne": {
+    "title": "Charles Byrne / 查尔斯·伯恩",
+    "url": "/wiki/entities/charlesbyrne/"
   },
   "CharlesDarwin": {
     "title": "Charles Darwin / 查尔斯·达尔文",
@@ -4634,6 +4670,10 @@
   "Clacton": {
     "title": "Clacton",
     "url": "/wiki/entities/clacton/"
+  },
+  "ClaireClairmont": {
+    "title": "Claire Clairmont / 克莱尔·克莱尔蒙特",
+    "url": "/wiki/entities/claireclairmont/"
   },
   "ClaireIsabelWebb": {
     "title": "Claire Isabel Webb",
@@ -5318,6 +5358,14 @@
   "CreatorOwnedAudience": {
     "title": "Creator-Owned Audience",
     "url": "/wiki/concepts/creatorownedaudience/"
+  },
+  "CreatorResponsibilityEthics": {
+    "title": "Creator Responsibility Ethics / 创造者责任伦理",
+    "url": "/wiki/concepts/creatorresponsibilityethics/"
+  },
+  "CreatureSocialExclusion": {
+    "title": "Creature Social Exclusion / 被排斥者如何被制造成怪物",
+    "url": "/wiki/concepts/creaturesocialexclusion/"
   },
   "CredibilityCascade": {
     "title": "Credibility Cascade",
@@ -6691,6 +6739,10 @@
     "title": "Early Fintech Fraud Controls",
     "url": "/wiki/concepts/earlyfintechfraudcontrols/"
   },
+  "EarlyTransplantationImaginary": {
+    "title": "Early Transplantation Imaginary / 早期移植想象",
+    "url": "/wiki/concepts/earlytransplantationimaginary/"
+  },
   "EarlyWomenFilmPioneers": {
     "title": "Early Women Film Pioneers",
     "url": "/wiki/concepts/earlywomenfilmpioneers/"
@@ -6898,6 +6950,10 @@
   "ElectricAir": {
     "title": "Electric Air",
     "url": "/wiki/entities/electricair/"
+  },
+  "ElectricTherapySpeculation": {
+    "title": "Electric Therapy Speculation / 电疗法想象",
+    "url": "/wiki/concepts/electrictherapyspeculation/"
   },
   "ElectroHydrostaticRocketServo": {
     "title": "Electro-Hydrostatic Rocket Servo",
@@ -7130,6 +7186,10 @@
   "EquityCompensationUpside": {
     "title": "Equity Compensation Upside",
     "url": "/wiki/concepts/equitycompensationupside/"
+  },
+  "ErasmusDarwin": {
+    "title": "Erasmus Darwin / 伊拉斯默·达尔文",
+    "url": "/wiki/entities/erasmusdarwin/"
   },
   "EricGoldman": {
     "title": "Eric Goldman",
@@ -8219,6 +8279,10 @@
     "title": "Frankenstein / 《弗兰肯斯坦》",
     "url": "/wiki/entities/frankenstein/"
   },
+  "FrankensteinCastle": {
+    "title": "Frankenstein Castle / 弗兰肯斯坦城堡",
+    "url": "/wiki/entities/frankensteincastle/"
+  },
   "FrankishPortraiturePressure": {
     "title": "Frankish Portraiture Pressure",
     "url": "/wiki/concepts/frankishportraiturepressure/"
@@ -8482,6 +8546,10 @@
   "GalileoGalilei": {
     "title": "Galileo Galilei / 伽利略",
     "url": "/wiki/entities/galileogalilei/"
+  },
+  "GalvanicReanimationImaginary": {
+    "title": "Galvanic Reanimation Imaginary / 伽伐尼式复活想象",
+    "url": "/wiki/concepts/galvanicreanimationimaginary/"
   },
   "GamePreservation": {
     "title": "Game Preservation",
@@ -10843,6 +10911,10 @@
     "title": "James Damore",
     "url": "/wiki/entities/jamesdamore/"
   },
+  "JamesGraham": {
+    "title": "James Graham / 詹姆斯·格雷厄姆",
+    "url": "/wiki/entities/jamesgraham/"
+  },
   "JamesHacker": {
     "title": "James Hacker / Jim Hacker / 詹姆斯·哈克",
     "url": "/wiki/entities/jameshacker/"
@@ -11223,6 +11295,10 @@
     "title": "Joey Shamah",
     "url": "/wiki/entities/joeyshamah/"
   },
+  "JohannConradDippel": {
+    "title": "Johann Conrad Dippel / 约翰·康拉德·迪佩尔",
+    "url": "/wiki/entities/johannconraddippel/"
+  },
   "JohannJakobBachofen": {
     "title": "Johann Jakob Bachofen",
     "url": "/wiki/entities/johannjakobbachofen/"
@@ -11270,6 +11346,10 @@
   "JohnHopeSimpson": {
     "title": "John Hope Simpson",
     "url": "/wiki/entities/johnhopesimpson/"
+  },
+  "JohnHunter": {
+    "title": "John Hunter / 约翰·亨特",
+    "url": "/wiki/entities/johnhunter/"
   },
   "JohnIcabone": {
     "title": "John Icabone",
@@ -12867,6 +12947,10 @@
     "title": "Luigi Case Suspect",
     "url": "/wiki/entities/luigicasesuspect/"
   },
+  "LuigiGalvani": {
+    "title": "Luigi Galvani / 路易吉·伽伐尼",
+    "url": "/wiki/entities/luigigalvani/"
+  },
   "LulinRebellion": {
     "title": "Lulin / 绿林",
     "url": "/wiki/entities/lulinrebellion/"
@@ -13074,6 +13158,10 @@
   "MakeMyTrip": {
     "title": "MakeMyTrip",
     "url": "/wiki/entities/makemytrip/"
+  },
+  "MakingFrankensteinBook": {
+    "title": "《制造弗兰肯斯坦：玛丽·雪莱背后的科学》",
+    "url": "/wiki/entities/makingfrankensteinbook/"
   },
   "Malaysia": {
     "title": "Malaysia",
@@ -13354,6 +13442,10 @@
   "MaryShelley": {
     "title": "Mary Shelley / 玛丽·雪莱",
     "url": "/wiki/entities/maryshelley/"
+  },
+  "MaryWollstonecraft": {
+    "title": "Mary Wollstonecraft / 玛丽·沃斯通克拉夫特",
+    "url": "/wiki/entities/marywollstonecraft/"
   },
   "MarylandTransportationAuthority": {
     "title": "Maryland Transportation Authority",
@@ -14034,6 +14126,10 @@
   "ModernPoetryForChildren": {
     "title": "Modern Poetry For Children",
     "url": "/wiki/concepts/modernpoetryforchildren/"
+  },
+  "ModernPrometheusReading": {
+    "title": "Modern Prometheus Reading / 现代普罗米修斯读法",
+    "url": "/wiki/concepts/modernprometheusreading/"
   },
   "ModernTimeDiscipline": {
     "title": "Modern Time Discipline",
@@ -15599,6 +15695,10 @@
     "title": "People's Bank of China",
     "url": "/wiki/entities/peoplesbankofchina/"
   },
+  "PercyShelley": {
+    "title": "Percy Shelley / 珀西·雪莱",
+    "url": "/wiki/entities/percyshelley/"
+  },
   "PerfectDays": {
     "title": "《完美的日子》 / Perfect Days",
     "url": "/wiki/entities/perfectdays/"
@@ -15818,6 +15918,10 @@
   "PhysicianLedMedicalDeviceDesign": {
     "title": "Physician-Led Medical Device Design",
     "url": "/wiki/concepts/physicianledmedicaldevicedesign/"
+  },
+  "PhysiognomyMoralAppearanceFallacy": {
+    "title": "Physiognomy Moral Appearance Fallacy / 以貌定德谬误",
+    "url": "/wiki/concepts/physiognomymoralappearancefallacy/"
   },
   "Pickwing": {
     "title": "Pickwing",
@@ -16422,6 +16526,10 @@
   "ProjectGlassfin": {
     "title": "Project Glassfin",
     "url": "/wiki/entities/projectglassfin/"
+  },
+  "Prometheus": {
+    "title": "Prometheus / 普罗米修斯",
+    "url": "/wiki/entities/prometheus/"
   },
   "PromotionExpectationManagement": {
     "title": "Promotion Expectation Management",
@@ -17527,6 +17635,10 @@
     "title": "Romantic Projection Trap",
     "url": "/wiki/concepts/romanticprojectiontrap/"
   },
+  "RomanticScienceCulture": {
+    "title": "Romantic Science Culture / 浪漫主义科学文化",
+    "url": "/wiki/concepts/romanticscienceculture/"
+  },
   "RonConway": {
     "title": "Ron Conway",
     "url": "/wiki/entities/ronconway/"
@@ -17907,6 +18019,10 @@
     "title": "Science Communication Disadvantage",
     "url": "/wiki/concepts/sciencecommunicationdisadvantage/"
   },
+  "ScienceFictionContemporaryScienceIntegration": {
+    "title": "Science Fiction As Contemporary Science Integration / 科幻作为当代科学整合",
+    "url": "/wiki/concepts/sciencefictioncontemporaryscienceintegration/"
+  },
   "ScienceFictionNewWave": {
     "title": "New Wave Science Fiction / 科幻新浪潮",
     "url": "/wiki/concepts/sciencefictionnewwave/"
@@ -17926,6 +18042,10 @@
   "ScienceUnderRevolutionarySuspicion": {
     "title": "Science Under Revolutionary Suspicion / 革命怀疑下的科学",
     "url": "/wiki/concepts/scienceunderrevolutionarysuspicion/"
+  },
+  "ScientificAnxietyLiteraryMaterial": {
+    "title": "Scientific Anxiety As Literary Material / 科学焦虑作为文学材料",
+    "url": "/wiki/concepts/scientificanxietyliterarymaterial/"
   },
   "ScientificPublicSpectacle": {
     "title": "Scientific Public Spectacle",
@@ -18930,6 +19050,10 @@
   "SpiritedAway": {
     "title": "《千与千寻》 / Spirited Away",
     "url": "/wiki/entities/spiritedaway/"
+  },
+  "SpontaneousGenerationLifeOrigin": {
+    "title": "Spontaneous Generation As Life-Origin Frame / 自然发生论作为生命起源框架",
+    "url": "/wiki/concepts/spontaneousgenerationlifeorigin/"
   },
   "SportsAsHistoricalReadingFrame": {
     "title": "Sports As Historical Reading Frame",
@@ -21207,6 +21331,10 @@
     "title": "Vikrant Lal",
     "url": "/wiki/entities/vikrantlal/"
   },
+  "VillaDiodati": {
+    "title": "Villa Diodati / 迪奥达蒂别墅",
+    "url": "/wiki/entities/villadiodati/"
+  },
   "Vipshop": {
     "title": "唯品会 / Vipshop",
     "url": "/wiki/entities/vipshop/"
@@ -21238,6 +21366,10 @@
   "Visme": {
     "title": "Visme",
     "url": "/wiki/entities/visme/"
+  },
+  "VitalismLifePrincipleDebate": {
+    "title": "Vitalism And Life-Principle Debate / 活力论与生命本质争论",
+    "url": "/wiki/concepts/vitalismlifeprincipledebate/"
   },
   "VitalyKamluk": {
     "title": "Vitaly Kamluk",
@@ -21738,6 +21870,14 @@
   "WilliamDeresiewicz": {
     "title": "William Deresiewicz",
     "url": "/wiki/entities/williamderesiewicz/"
+  },
+  "WilliamGodwin": {
+    "title": "William Godwin / 威廉·戈德温",
+    "url": "/wiki/entities/williamgodwin/"
+  },
+  "WilliamLawrence": {
+    "title": "William Lawrence / 威廉·劳伦斯",
+    "url": "/wiki/entities/williamlawrence/"
   },
   "WilliamMcChesneyMartin": {
     "title": "William McChesney Martin",
@@ -22290,6 +22430,10 @@
   "YeXian": {
     "title": "《叶限》 / Ye Xian",
     "url": "/wiki/entities/yexian/"
+  },
+  "YearWithoutASummer": {
+    "title": "Year Without a Summer / 无夏之夏",
+    "url": "/wiki/entities/yearwithoutasummer/"
   },
   "YearlyCo": {
     "title": "Yearly Co.",
