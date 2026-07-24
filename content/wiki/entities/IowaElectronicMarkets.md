@@ -2,8 +2,8 @@
 title: "Iowa Electronic Markets"
 type: entity
 tags: [project, prediction-market, economics, university]
-sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets]
-last_updated: 2026-07-16
+sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, do-prediction-market-bettors-make-anything-better]
+last_updated: 2026-07-24
 ---
 
 # Iowa Electronic Markets
@@ -14,11 +14,14 @@ The market let students and faculty buy and sell candidate shares, with prices i
 
 The project's legitimacy came through an [[AcademicPredictionMarketSandbox]] rather than full commercial freedom. The [[CommodityFuturesTradingCommission|CFTC]] issued a no-action letter allowing small-stakes, noncommercial, research-oriented presidential-election markets while excluding sports betting, paid advertising, and large deposits.
 
+[[do-prediction-market-bettors-make-anything-better]] adds the modern legal-use case. [[TarekMansour]] and [[Kalshi]] cite Iowa-style evidence when arguing that election markets can produce useful public information, but the episode also shows how that evidence becomes contested once it is attached to a commercial, sports-heavy app.
+
 ## Key Claims
 - The Iowa project was an academic experiment before it was a public prediction-market reference point.
 - Its value was not only accuracy; it showed economists that market prices could aggregate dispersed beliefs about political outcomes.
 - Its CFTC limits made the market possible while also preventing the large commercial scale later associated with [[Kalshi]] and [[Polymarket]].
 - The episode presents modern platforms as commercial descendants of the Iowa contract and trading-rule design.
+- The later Kalshi source turns Iowa from history into legal ammunition inside [[PredictionMarketLegalBoundary]].
 
 ## Connections
 - [[RobertForsythe]] - Iowa economist associated with creating the project.

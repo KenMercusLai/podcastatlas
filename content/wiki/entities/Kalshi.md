@@ -2,11 +2,15 @@
 title: "Kalshi"
 type: entity
 tags: [company, prediction-market, finance]
-sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]
-last_updated: 2026-07-16
+sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, do-prediction-market-bettors-make-anything-better, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]
+last_updated: 2026-07-24
 ---
 
 # Kalshi
+
+[[do-prediction-market-bettors-make-anything-better]] adds Kalshi's boom-era platform story through [[BobbyAllen]]'s reporting and [[TarekMansour]]'s defense. The episode says Kalshi's central claim is that yes-or-no event contracts are financial-market instruments rather than gambling, making the company a concrete case for [[PredictionMarketLegalBoundary]].
+
+The episode also adds the product and growth side. Sports reportedly account for about 80% of activity on Kalshi; after Kalshi won its election-market fight, Tarek says the victory "opened the floodgates" for sports, awards, and pop-culture markets. The source links this expansion to state legal challenges, [[DonaldTrumpJr]] joining as an adviser, and a [[CommodityFuturesTradingCommission|CFTC]] posture that became more favorable to market approval.
 
 [[before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets]] reframes Kalshi as a commercial successor to the [[IowaElectronicMarkets]] rather than only a current regulatory controversy. [[RobertForsythe]] says Kalshi and [[Polymarket]] run essentially the same kind of prediction markets, using similar basic trading and contract rules at much larger scale.
 
@@ -25,8 +29,13 @@ The source uses Kalshi to make [[PredictionMarketEthics]] concrete. Event market
 - Some states still treat prediction-market products as gambling or want tighter restrictions.
 - Kalshi is also described as banning several people for insider trading, making market integrity part of the platform's legitimacy case.
 - The Planet Money history source makes Kalshi part of a longer lineage from older [[ElectionBettingMarkets]] through academic small-stakes experiments to commercial-scale event markets.
+- The April 2026 Planet Money source presents Kalshi as both an information market and a gambling-like app experience, depending on whether the viewer emphasizes prices, trader skill, dopamine loops, or legal classification.
+- [[TarekMansour]] argues that Kalshi does not act like a casino because it charges trade fees rather than directly profiting from user losses.
+- [[AmandaFisher]] argues that Kalshi's strategy resembles legal-risk taking through a regulatory gap more than a clean financial innovation.
 
 ## Connections
+- [[TarekMansour]], [[BobbyAllen]], [[MaryChilds]], [[AmandaFisher]], [[LoganSuddeth]], [[KaidenBooth]], and [[EvanSemet]] - new source actors around the company.
+- [[PredictionMarketLegalBoundary]], [[PredictionMarketPublicGoodClaim]], and [[PredictionMarketTraderAlpha]] - concepts added by the April 2026 Planet Money source.
 - [[PredictionMarketSelfRegulation]] - platform-led guardrails added by the March 27 source.
 - [[PredictionMarketIntegrityOversight]] and [[EventContractManipulationRisk]] - integrity branch extended by the guardrails.
 - [[PredictionMarketEthics]] - main concept grounded by the source.

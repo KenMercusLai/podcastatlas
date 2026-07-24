@@ -8,6 +8,8 @@ last_updated: 2026-07-24
 
 # NPR
 
+[[do-prediction-market-bettors-make-anything-better]] adds another reported [[PlanetMoney]] episode, this time on [[Kalshi]] and prediction-market legitimacy. It extends NPR's economics-reporting branch into [[PredictionMarketLegalBoundary]], [[PredictionMarketPublicGoodClaim]], [[PredictionMarketTraderAlpha]], [[PredictionMarketIntegrityOversight]], and [[EventContractManipulationRisk]], while linking media trust to [[CNN]]'s use of prediction-market odds.
+
 [[how-to-get-through-the-strait-of-hormuz]] adds another reported [[PlanetMoney]] political-economy case, this time on the [[StraitOfHormuz]] as a shipping chokepoint. It extends NPR's economics-reporting branch into [[MaritimeChokepointTolling]], [[SanctionsEvasionCryptoPayments]], [[GeneralAverage]], [[ChokepointShippingConfidence]], and [[FreedomOfNavigationTradeOrder]] through a [[FantagraphicsBooks]] shipment scare and [[RyanPetersen]]'s logistics interpretation.
 
 [[bookstore-economics]] continues NPR's internal [[PlanetMoney]] book branch from publisher acquisition into retail execution. The source follows [[AlexiHorowitzGhazi]], [[FisherNash]], [[CarmichaelsBookstore|Carmichael's Bookstore]], [[StephenPace]], and [[WWNorton|W. W. Norton]] to connect the [[PlanetMoneyBook]] to [[BookstoreBuying]], [[RetailShelfPlacement]], [[BookReturnability]], and [[BookPrintRunStrategy]].
@@ -101,6 +103,7 @@ The appeal links [[NPR]]'s mission to [[LocalJournalism]], [[PublicMediaEmergenc
 [[how-black-hair-care-grew-black-power]] adds a reported [[PlanetMoney]] consumer-market and Black business history case. It extends NPR's economics-reporting branch into [[JohnsonProducts]], [[BlackHairCareMarketOwnership]], [[CommunityEmbeddedBusiness]], [[PublicListingControlTradeoff]], and the way hair-care products can become business infrastructure, civil-rights support, and cultural distribution.
 
 ## Connections
+- [[BobbyAllen]], [[MaryChilds]], [[TarekMansour]], [[AmandaFisher]], [[Kalshi]], [[CNN]], [[PredictionMarketLegalBoundary]], [[PredictionMarketPublicGoodClaim]], and [[EventContractManipulationRisk]] - prediction-market boom branch added through Planet Money.
 - [[FisherNash]], [[CarmichaelsBookstore|Carmichael's Bookstore]], [[StephenPace]], [[PlanetMoneyBook]], [[BookstoreBuying]], [[BookReturnability]], and [[BookPrintRunStrategy]] - bookstore and print-run branch added through Planet Money.
 - [[ChristianStClair]], [[FantagraphicsBooks]], [[OneMajesty]], [[HamidHosseini]], [[SepahNavy]], [[MaritimeChokepointTolling]], [[SanctionsEvasionCryptoPayments]], [[GeneralAverage]], and [[FreedomOfNavigationTradeOrder]] - Hormuz shipping-risk branch added through Planet Money.
 - [[AlexGoldmark]], [[AlexMaiassi]], [[LauraNolan]], [[JaneVonMehren]], [[TomMayer]], [[WWNorton]], [[BookPublishingEconomics]], [[PublishingAuctionDesign]], and [[AdvanceAgainstRoyalties]] - Planet Money book-auction branch added through NPR.

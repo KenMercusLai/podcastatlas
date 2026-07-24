@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Do prediction market bettors make anything better?](sources/do-prediction-market-bettors-make-anything-better.md) — Planet Money episode on Kalshi, prediction-market trader alpha, derivatives-versus-gambling law, public-good claims, CFTC oversight, and event-contract manipulation risk.
 - [How to get through the Strait of Hormuz](sources/how-to-get-through-the-strait-of-hormuz.md) — Planet Money episode on alleged Strait of Hormuz passage permission, crypto-paid oil-shipping tolls, general average, and freedom-of-navigation risk.
 - [BOOKstore Economics](sources/bookstore-economics.md) — Planet Money episode on how the show's book wins or loses shelf space through bookstore buying, display quantity, returnability, print-run strategy, and launch-day retail placement.
 - [Inside a BOOK auction](sources/inside-a-book-auction.md) — Planet Money episode on the hidden economics of nonfiction book deals, literary agents, proposal packaging, publisher meetings, auction design, advances, platform risk, and Norton's educational-distribution win.
@@ -602,6 +603,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Bobby Allen](entities/BobbyAllen.md) — NPR reporter investigating Kalshi trader culture, app incentives, and the prediction-market legal boundary for Planet Money.
+- [Mary Childs](entities/MaryChilds.md) — Planet Money host whose Kalshi word-betting test grounds the episode's gambling-like user-experience critique.
+- [Tarek Mansour](entities/TarekMansour.md) — Kalshi co-founder and CEO defending event contracts as markets rather than gambling.
+- [Amanda Fisher](entities/AmandaFisher.md) — Better Markets policy critic framing Kalshi's growth as legal-risk taking through a regulatory gap.
+- [Logan Suddeth](entities/LoganSuddeth.md) — Kalshi trader whose research-driven profits ground prediction-market trader alpha.
+- [Kaiden Booth](entities/KaidenBooth.md) — Kalshi trader whose Super Bowl rehearsal trip illustrates costly information gathering in prediction markets.
+- [Evan Semet](entities/EvanSemet.md) — Successful Kalshi trader who questions whether profitable event markets create broad public value.
 - [Christian St. Clair](entities/ChristianStClair.md) — Fantagraphics Books production manager whose delayed India-printed books make the Hormuz shipping crisis concrete.
 - [Fantagraphics Books](entities/FantagraphicsBooks.md) — Comics publisher whose shipment shows how geopolitical chokepoints can affect small cargo owners.
 - [One Majesty](entities/OneMajesty.md) — Bright pink container ship initially believed to hold Fantagraphics cargo after a Strait of Hormuz attack.
@@ -4069,6 +4077,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Prediction Market Legal Boundary](concepts/PredictionMarketLegalBoundary.md) — Whether yes-or-no event contracts are federally regulated derivatives or state-regulated gambling products.
+- [Prediction Market Public-Good Claim](concepts/PredictionMarketPublicGoodClaim.md) — Argument that event markets improve public knowledge by turning dispersed beliefs into money-backed prices.
+- [Prediction Market Trader Alpha](concepts/PredictionMarketTraderAlpha.md) — Private edge traders seek in event markets through research, speed, niche expertise, physical observation, or settlement-rule interpretation.
 - [Maritime Chokepoint Tolling](concepts/MaritimeChokepointTolling.md) — Use of narrow passage control to screen, charge, or condition vessel movement during conflict.
 - [General Average](concepts/GeneralAverage.md) — Maritime-law risk-sharing principle that can make cargo owners liable for ship or voyage-saving costs.
 - [Freedom of Navigation Trade Order](concepts/FreedomOfNavigationTradeOrder.md) — Trade-order assumption that commercial vessels can use key sea lanes without coercive ad hoc permission.

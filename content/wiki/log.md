@@ -4835,3 +4835,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | Do prediction market bettors make anything better?
+
+Added source page for a Planet Money episode on Kalshi, prediction-market trader culture, the derivatives-versus-gambling legal boundary, CFTC approval and oversight limits, sports-heavy market expansion, public-good claims, and event-contract manipulation risk. Created pages for Bobby Allen, Mary Childs, Tarek Mansour, Amanda Fisher, Logan Suddeth, Kaiden Booth, Evan Semet, Prediction Market Legal Boundary, Prediction Market Public-Good Claim, and Prediction Market Trader Alpha; updated overview, index, NPR, Planet Money, Kalshi, CFTC, Prediction Market Ethics, Prediction Market Integrity Oversight, Prediction Market Self-Regulation, Event Contract Manipulation Risk, Prediction Market History, Academic Prediction Market Sandbox, Iowa Electronic Markets, Better Markets, CNN, Donald Trump Jr., and Federal Reserve. No direct contradiction found; the source extends the Iowa prediction-market history branch by showing how commercial scale turns historical accuracy evidence into legal, gambling, media, and incentive-design disputes.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 6,705 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not configured with a provider-qualified model. Report returned in-session; `wiki/lint-report.md` was not saved.

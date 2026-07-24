@@ -2,8 +2,8 @@
 title: "Prediction Market Integrity Oversight"
 type: concept
 tags: [prediction-markets, regulation, integrity, gambling]
-sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128]
-last_updated: 2026-07-16
+sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, do-prediction-market-bettors-make-anything-better, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128]
+last_updated: 2026-07-24
 ---
 
 # Prediction Market Integrity Oversight
@@ -16,6 +16,8 @@ The source argues that prediction markets cannot rely only on being regulated as
 
 [[before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets]] adds a historical regulatory precursor. The [[IowaElectronicMarkets]] operated under a [[CommodityFuturesTradingCommission|CFTC]] no-action letter with small-stakes, noncommercial, presidential-election limits, showing an early attempt to separate research prediction markets from commercial gambling-like scale.
 
+[[do-prediction-market-bettors-make-anything-better]] adds the commercial-scale stress case. The episode says sports are about 80% of [[Kalshi]] activity, state gambling challenges are ongoing, and [[AmandaFisher]] worries that a smaller CFTC relying on self-regulation is poorly matched to suspiciously timed bets, policy announcements, war events, and markets where traders may try to influence outcomes.
+
 ## Key Claims
 - Integrity oversight is separate from the moral question of which events should be tradable, although it overlaps with [[PredictionMarketEthics]].
 - A prediction market can be informative and still be vulnerable to manipulation by one participant, insider knowledge, or government information asymmetry.
@@ -23,8 +25,11 @@ The source argues that prediction markets cannot rely only on being regulated as
 - Sportsbook-like oversight can detect suspicious behavior, but adopting too much of the sportsbook model may undermine prediction markets' legal distinction from gambling.
 - Platform self-regulation can improve trust, but it still depends on trader identification, market classification, and enforcement capacity.
 - Academic sandboxes can make prediction-market research possible while leaving larger commercial-platform oversight unresolved.
+- Oversight capacity matters as much as legal category when event markets scale into sports, politics, culture, and war.
+- A platform's claim that it avoids perverse-incentive markets is hard to evaluate when the platform largely decides the limits itself.
 
 ## Connections
+- [[PredictionMarketLegalBoundary]], [[PredictionMarketPublicGoodClaim]], and [[PredictionMarketTraderAlpha]] - April 2026 Planet Money concepts that add legal, public-value, and trader-culture pressure.
 - [[PredictionMarketSelfRegulation]] - platform-led guardrail branch added by the March 27 episode.
 - [[PredictionMarketEthics]] - related boundary problem around harmful or socially corrosive event contracts.
 - [[SportsbookIntegrityMonitoring]] - oversight model used as the episode's comparison.

@@ -2135,6 +2135,10 @@
     "title": "Amanda Cantrell",
     "url": "/wiki/entities/amandacantrell/"
   },
+  "AmandaFisher": {
+    "title": "Amanda Fisher",
+    "url": "/wiki/entities/amandafisher/"
+  },
   "Amazon": {
     "title": "Amazon",
     "url": "/wiki/entities/amazon/"
@@ -3602,6 +3606,10 @@
   "BobSwan": {
     "title": "Bob Swan",
     "url": "/wiki/entities/bobswan/"
+  },
+  "BobbyAllen": {
+    "title": "Bobby Allen",
+    "url": "/wiki/entities/bobbyallen/"
   },
   "BobosOatBars": {
     "title": "Bobo's Oat Bars",
@@ -7914,6 +7922,10 @@
   "EvanMoore": {
     "title": "Evan Moore",
     "url": "/wiki/entities/evanmoore/"
+  },
+  "EvanSemet": {
+    "title": "Evan Semet",
+    "url": "/wiki/entities/evansemet/"
   },
   "EventContractManipulationRisk": {
     "title": "Event Contract Manipulation Risk",
@@ -12595,6 +12607,10 @@
     "title": "《开市大吉》",
     "url": "/wiki/entities/kaishidaji/"
   },
+  "KaidenBooth": {
+    "title": "Kaiden Booth",
+    "url": "/wiki/entities/kaidenbooth/"
+  },
   "KaimingHe": {
     "title": "Kaiming He",
     "url": "/wiki/entities/kaiminghe/"
@@ -13783,6 +13799,10 @@
     "title": "Locard's Exchange Principle",
     "url": "/wiki/concepts/locardsexchangeprinciple/"
   },
+  "LoganSuddeth": {
+    "title": "Logan Suddeth",
+    "url": "/wiki/entities/logansuddeth/"
+  },
   "LogisticsCrisisResponse": {
     "title": "Logistics Crisis Response",
     "url": "/wiki/concepts/logisticscrisisresponse/"
@@ -14590,6 +14610,10 @@
   "MaryAnnNichols": {
     "title": "Mary Ann Nichols",
     "url": "/wiki/entities/maryannnichols/"
+  },
+  "MaryChilds": {
+    "title": "Mary Childs",
+    "url": "/wiki/entities/marychilds/"
   },
   "MaryShelley": {
     "title": "Mary Shelley / 玛丽·雪莱",
@@ -17795,9 +17819,21 @@
     "title": "Prediction Market Integrity Oversight",
     "url": "/wiki/concepts/predictionmarketintegrityoversight/"
   },
+  "PredictionMarketLegalBoundary": {
+    "title": "Prediction Market Legal Boundary",
+    "url": "/wiki/concepts/predictionmarketlegalboundary/"
+  },
+  "PredictionMarketPublicGoodClaim": {
+    "title": "Prediction Market Public-Good Claim",
+    "url": "/wiki/concepts/predictionmarketpublicgoodclaim/"
+  },
   "PredictionMarketSelfRegulation": {
     "title": "Prediction Market Self-Regulation",
     "url": "/wiki/concepts/predictionmarketselfregulation/"
+  },
+  "PredictionMarketTraderAlpha": {
+    "title": "Prediction Market Trader Alpha",
+    "url": "/wiki/concepts/predictionmarkettraderalpha/"
   },
   "PremarketFoodSafetyReview": {
     "title": "Premarket Food Safety Review",
@@ -21791,6 +21827,10 @@
     "title": "Tarang Amin",
     "url": "/wiki/entities/tarangamin/"
   },
+  "TarekMansour": {
+    "title": "Tarek Mansour",
+    "url": "/wiki/entities/tarekmansour/"
+  },
   "Target": {
     "title": "Target",
     "url": "/wiki/entities/target/"
@@ -25302,6 +25342,10 @@
   "diary-of-a-wnba-negotiator": {
     "title": "Diary of a WNBA negotiator",
     "url": "/wiki/sources/diary-of-a-wnba-negotiator/"
+  },
+  "do-prediction-market-bettors-make-anything-better": {
+    "title": "Do prediction market bettors make anything better?",
+    "url": "/wiki/sources/do-prediction-market-bettors-make-anything-better/"
   },
   "dont-hate-the-replicator-hate-the-game": {
     "title": "Don't hate the replicator, hate the game",

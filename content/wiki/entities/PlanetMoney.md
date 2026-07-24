@@ -8,6 +8,8 @@ last_updated: 2026-07-24
 
 # Planet Money
 
+[[do-prediction-market-bettors-make-anything-better]] adds a current prediction-market regulation and gambling-boundary case. The episode follows [[BobbyAllen]] through [[Kalshi]] trader culture, [[MaryChilds]]'s word-betting experiment, [[TarekMansour]]'s defense of event contracts, and [[AmandaFisher]]'s critique, connecting [[PredictionMarketLegalBoundary]], [[PredictionMarketPublicGoodClaim]], [[PredictionMarketTraderAlpha]], and [[EventContractManipulationRisk]] to the show's earlier [[IowaElectronicMarkets]] history branch.
+
 [[how-to-get-through-the-strait-of-hormuz]] adds a maritime chokepoint and logistics case. The episode follows [[ChristianStClair]] and [[FantagraphicsBooks]] through an apparent [[OneMajesty]] shipment scare, then uses [[HamidHosseini]]'s source-attributed account of [[SepahNavy]] permission and an alleged crypto-paid oil toll to connect the [[StraitOfHormuz]] to [[MaritimeChokepointTolling]], [[SanctionsEvasionCryptoPayments]], [[GeneralAverage]], and [[FreedomOfNavigationTradeOrder]].
 
 [[bookstore-economics]] continues the show's own publishing branch after [[inside-a-book-auction]]. [[AlexiHorowitzGhazi]] follows [[FisherNash]] at [[CarmichaelsBookstore|Carmichael's Bookstore]] and [[StephenPace]] at [[WWNorton|W. W. Norton]] to show how the [[PlanetMoneyBook]] moves through [[BookstoreBuying]], [[RetailShelfPlacement]], [[BookReturnability]], and [[BookPrintRunStrategy]] before readers can decide its fate.
@@ -105,6 +107,7 @@ The placement matters because it shows [[PublicMediaFunding]] and [[ListenerSupp
 [[so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]] adds an AI-market and macro-policy case. The episode uses [[RobinGreenwood]], [[EugeneFama]], [[GadiBarlevy|Gadi Barlevy]], and [[Nvidia]] to explain [[StatisticalBubbleIndicators]], [[MarketEfficiency]], [[LeanVersusCleanBubblePolicy]], and [[ProductiveBubbleSpillovers]].
 
 ## Connections
+- [[BobbyAllen]], [[MaryChilds]], [[TarekMansour]], [[AmandaFisher]], [[Kalshi]], [[PredictionMarketLegalBoundary]], [[PredictionMarketPublicGoodClaim]], [[PredictionMarketTraderAlpha]], and [[EventContractManipulationRisk]] - prediction-market boom branch added by the new episode.
 - [[FisherNash]], [[CarmichaelsBookstore|Carmichael's Bookstore]], [[StephenPace]], [[PlanetMoneyBook]], [[BookstoreBuying]], [[BookReturnability]], and [[BookPrintRunStrategy]] - downstream bookstore, sales, and print-run branch added by the new episode.
 - [[ChristianStClair]], [[FantagraphicsBooks]], [[OneMajesty]], [[HamidHosseini]], [[SepahNavy]], [[MaritimeChokepointTolling]], [[GeneralAverage]], and [[FreedomOfNavigationTradeOrder]] - Hormuz shipping-risk branch added by the new episode.
 - [[AlexGoldmark]], [[AlexMaiassi]], [[LauraNolan]], [[JaneVonMehren]], [[TomMayer]], [[WWNorton]], [[BookPublishingEconomics]], [[PublishingAuctionDesign]], and [[EducationalDistributionStrategy]] - book-deal and publishing-auction branch added by the new episode.

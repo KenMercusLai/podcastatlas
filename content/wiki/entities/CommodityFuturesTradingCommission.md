@@ -2,11 +2,15 @@
 title: "Commodity Futures Trading Commission"
 type: entity
 tags: [government, regulator, markets]
-sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]
-last_updated: 2026-07-16
+sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, do-prediction-market-bettors-make-anything-better, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]
+last_updated: 2026-07-24
 ---
 
 # Commodity Futures Trading Commission
+
+[[do-prediction-market-bettors-make-anything-better]] adds Kalshi's regulatory arc. The episode says the CFTC approved [[Kalshi]] as a marketplace in November 2020 with safeguards against manipulation and insider trading, but that individual markets still faced approval limits before Kalshi sued over an election market in 2023.
+
+The source also adds an oversight-capacity critique through [[AmandaFisher]] of [[BetterMarkets]]. She argues that the CFTC is much smaller than the SEC and relies heavily on exchange self-policing, making it a strained venue for sports-like, political, and war-adjacent event markets that raise [[PredictionMarketIntegrityOversight]] and [[EventContractManipulationRisk]] concerns.
 
 [[before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets]] adds the CFTC at the origin of the modern academic prediction-market branch. The episode says the [[IowaElectronicMarkets]] asked the CFTC for permission to operate nationally, and the agency issued a no-action letter under limits on stakes, deposits, advertising, profit motive, event category, and sports betting.
 
@@ -21,6 +25,7 @@ The source uses the CFTC to separate prediction markets from ordinary opinion po
 ## Connections
 - [[Kalshi]] and [[Polymarket]] - prediction-market platforms discussed in the episode.
 - [[PredictionMarketEthics]] - concept tied to prohibited harmful-event contracts.
+- [[PredictionMarketLegalBoundary]] and [[PredictionMarketPublicGoodClaim]] - legal classification and public-value concepts added by the April 2026 Planet Money source.
 - [[NoPredictionTrading]] - adjacent probability-and-market frame qualified by regulatory limits.
 - [[PredictionMarketIntegrityOversight]], [[SportsbookIntegrityMonitoring]], [[PredictionMarketSelfRegulation]], and [[EventContractManipulationRisk]] - integrity, self-regulation, and manipulation concepts added by later episodes.
 - [[BenSchifrin]], [[BetterMarkets]], [[JohnHolden]], and [[IndianaUniversity]] - expert and institutional context for the rulemaking pressure.

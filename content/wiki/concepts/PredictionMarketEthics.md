@@ -2,8 +2,8 @@
 title: "Prediction Market Ethics"
 type: concept
 tags: [markets, regulation, ethics, risk]
-sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]
-last_updated: 2026-07-16
+sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, do-prediction-market-bettors-make-anything-better, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]
+last_updated: 2026-07-24
 ---
 
 # Prediction Market Ethics
@@ -18,6 +18,8 @@ The episode's tension is that prediction prices can reveal distributed expectati
 
 [[before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets]] adds the historical layer. It shows that prediction markets have long sat between useful forecasting, gambling, political theater, and regulatory discomfort: older [[ElectionBettingMarkets]] could be informative, while the [[IowaElectronicMarkets]] needed an [[AcademicPredictionMarketSandbox]] to remain acceptable as teaching and research rather than ordinary wagering.
 
+[[do-prediction-market-bettors-make-anything-better]] adds the app-behavior and public-value layer. [[TarekMansour]] defends [[Kalshi]] as a money-backed "truth machine," but [[BobbyAllen]] and [[MaryChilds]]'s speech-betting experiment shows how the same product can feel like gambling, narrow civic attention to settlement words, and encourage loss-chasing. The source therefore separates [[PredictionMarketPublicGoodClaim]] from the ethics of particular market designs.
+
 ## Key Claims
 - Useful probability aggregation does not automatically make an event morally or legally appropriate to trade.
 - Death, war, terrorism, assassination, and nuclear-weapons contracts are especially risky because they can turn public harm into a speculative payoff.
@@ -28,9 +30,14 @@ The episode's tension is that prediction prices can reveal distributed expectati
 - The line between prediction market and sportsbook is strategically important: stronger sportsbook-like controls may improve trust while also strengthening gambling-law claims.
 - Self-regulation is ethically relevant only if it can reliably identify prohibited traders and sensitive markets before harm or unfair trading occurs.
 - The ethical boundary has a history: even accurate election markets can be treated as gambling, political signaling, or unacceptable media material depending on context.
+- A market can be informative for traders and profitable for platforms without making the public better informed.
+- Speech-word bets, sports markets, and pop-culture markets test the gap between probability aggregation and civic usefulness.
+- The legal claim that an event contract is a derivative does not resolve whether the user experience functions like gambling.
 
 ## Connections
 - [[Kalshi]], [[Polymarket]], and [[CommodityFuturesTradingCommission|CFTC]] - source platforms and regulator.
+- [[BobbyAllen]], [[MaryChilds]], [[TarekMansour]], [[AmandaFisher]], and [[BetterMarkets]] - April 2026 Planet Money reporting and critique branch.
+- [[PredictionMarketLegalBoundary]], [[PredictionMarketPublicGoodClaim]], and [[PredictionMarketTraderAlpha]] - new concepts connected to the ethics layer.
 - [[AliKhamenei]] and [[Iran]] - disputed event-market context.
 - [[NoPredictionTrading]] - adjacent probability frame qualified by ethics and regulation.
 - [[PolicyAnnouncementTradingRisk]] - related risk where event-linked trading depends on policy timing, information, and interpretation.
