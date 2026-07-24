@@ -2,8 +2,8 @@
 title: "Cuba"
 type: entity
 tags: [country, economy, sanctions, tourism, energy]
-sources: [dark-times-for-cubas-economic-experiment]
-last_updated: 2026-07-23
+sources: [how-to-get-what-greenland-has-with-permission, dark-times-for-cubas-economic-experiment]
+last_updated: 2026-07-24
 ---
 
 # Cuba
@@ -13,6 +13,8 @@ Cuba is the country at the center of [[dark-times-for-cubas-economic-experiment]
 The source's core interpretation is [[CubanDualEconomicStrategy]]: Cuba has survived by combining [[ExternalPatronDependence]] with selective [[ConstrainedMarketReform]]. The [[SovietUnion]] and later [[Venezuela]] supplied favorable oil or trade support, while tourism, self-employment, restaurants, lodging, and services created pockets of market activity without displacing the state sector.
 
 In the current crisis, that hybrid model looks fragile. The episode says oil disruption, blackouts, unreliable communications, collapsing tourism, visible inequality, protest, and post-2020 migration make the old bargain harder to sustain. [[YaserGonzalezCabrera]]'s failed [[CityCleta]] tourism demand in [[Havana]] becomes the personal case through which the macro story becomes daily life.
+
+[[how-to-get-what-greenland-has-with-permission]] adds a separate U.S. base-sovereignty example through [[GuantanamoBay]]. [[DanielImmerwahr]] uses the base to explain [[MilitaryBaseSovereignty]]: the base is in Cuba, Cuba has asked the [[UnitedStates]] to leave, and the U.S. has not left.
 
 ## Key Claims
 - Cuba's revolutionary economy covered some basic needs while depending heavily on external support.
@@ -26,3 +28,4 @@ In the current crisis, that hybrid model looks fragile. The episode says oil dis
 - [[RicardoTorres]] - economist interpreting the long arc.
 - [[FidelCastro]], [[RaulCastro]], [[SovietUnion]], [[Venezuela]], and [[UnitedStates]] - state and leader context.
 - [[CubanDualEconomicStrategy]], [[ExternalPatronDependence]], [[ConstrainedMarketReform]], [[TourismDependentSmallEconomy]], and [[OilDependencyBlackoutRisk]] - main concepts added by the source.
+- [[GuantanamoBay]], [[DanielImmerwahr]], and [[MilitaryBaseSovereignty]] - base-access branch added by the Greenland episode.

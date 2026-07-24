@@ -2,8 +2,8 @@
 title: "India"
 type: entity
 tags: [country, law, social-policy, asia]
-sources: [peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
-last_updated: 2026-07-17
+sources: [how-to-get-what-greenland-has-with-permission, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
+last_updated: 2026-07-24
 ---
 
 # India
@@ -14,9 +14,12 @@ In the wiki, India becomes one of the source's examples for [[FilialPietyLaws]] 
 
 [[strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]] adds India as a public-service software case. [[LeoMirani]] uses the online visa website and other government sites to show how weak [[GovernmentWebsiteUsability]] can persist despite private-sector technology strength, while [[Aadhaar]] and [[UPI]] show that state-linked digital systems can work when expertise and authority align.
 
+[[how-to-get-what-greenland-has-with-permission]] adds India as a possible rare-earth processing-technology partner. The source uses India in [[GracelandBaskaran]]'s broader point that the [[UnitedStates]] should build mineral-security partnerships instead of treating [[Greenland]] ownership as a supply-chain solution.
+
 ## Connections
 - [[Telangana]] - state-level case in the episode.
 - [[FilialPietyLaws]] - family-duty legal framework.
 - [[ElderCareStateCapacity]] - care-system problem beneath the legal response.
 - [[FarahChia]] and [[TheIntelligence]] - contributor and source context.
 - [[LeoMirani]], [[NationalInformaticsCentre]], [[Aadhaar]], [[UPI]], [[GovernmentWebsiteUsability]], [[BureaucraticRiskAvoidance]], and [[PublicServiceDigitalization]] - public-service software branch added by the later episode.
+- [[Greenland]], [[GracelandBaskaran]], and [[RareEarthProcessingBottleneck]] - critical-minerals processing branch added by Planet Money.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to get what Greenland has, with permission](sources/how-to-get-what-greenland-has-with-permission.md) — Planet Money episode on Greenland, rare earth processing, U.S. Arctic defense access, Trump territorial-control rhetoric, and why mineral/security goals can be pursued through cooperation instead of annexation.
 - [Can transforming neighborhoods help kids escape poverty?](sources/can-transforming-neighborhoods-help-kids-escape-poverty.md) — Planet Money episode on HOPE VI, Richard Allen Homes, Raj Chetty's neighborhood-opportunity research, mixed-income redesign, cross-class social capital, and displacement limits.
 - [Why are we so obsessed with manufacturing?](sources/why-are-we-so-obsessed-with-manufacturing.md) — Planet Money episode on U.S. manufacturing jobs, pay premiums, workforce pipelines, strategic reshoring, regional multipliers, and why the broader goal is good jobs for non-college workers.
 - [Vol.112 一次非共识的2024反思和2025展望 | 对话蓝小康X牟一凌](sources/vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv.md) — 起朱楼宴宾客 episode with 蓝小康 and 牟一凌 on 2024 market reflection, Trump 2.0, China supply clearing, labor-share consumption repair, SOE valuation, Belt and Road demand, and active management.
@@ -565,6 +566,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Greenland](entities/Greenland.md) — Self-governing Arctic territory whose rare earths, geography, defense access, and political agency anchor the Planet Money episode's Greenland case.
+- [Denmark](entities/Denmark.md) — Kingdom-state context for Greenland, showing why Greenland cannot simply be sold and why alliance access matters more than acquisition.
+- [Graceland Baskaran](entities/GracelandBaskaran.md) — Mining economist and rare-earth expert explaining why processing capacity and partners matter more than controlling Greenland's deposits.
+- [Saha Ullsvig](entities/SahaUllsvig.md) — Greenlandic voice emphasizing trade history, local agency, and refusal to be treated as a new colonial acquisition.
+- [Daniel Immerwahr](entities/DanielImmerwahr.md) — Historian and How to Hide an Empire author used by the episode to explain purchase, bases, and sovereignty-like control.
+- [How to Hide an Empire](entities/HowToHideAnEmpire.md) — Daniel Immerwahr book framing U.S. power through territories, bases, and strategic control beyond formal state borders.
+- [Guantanamo Bay](entities/GuantanamoBay.md) — U.S. base in Cuba used as the episode's example of military base sovereignty.
+- [Inuit](entities/Inuit.md) — Indigenous Arctic people whose Greenland land norms and political presence make the island impossible to treat as empty salable land.
 - [Raj Chetty](entities/RajChetty.md) — Economist whose HOPE VI evidence links neighborhood context, public-housing revitalization, and children's adult mobility outcomes.
 - [Matt Steger](entities/MattSteger.md) — Economist explaining the HOPE VI study's selection-bias, exposure, dosage, and sibling-comparison logic.
 - [Carol Naughton](entities/CarolNaughton.md) — Housing-policy voice whose observation about successful HOPE VI sites near affluent areas helps identify the social-integration mechanism.
@@ -3790,6 +3799,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Rare Earth Processing Bottleneck](concepts/RareEarthProcessingBottleneck.md) — Supply-chain constraint where deposits do not become mineral security without separation, refining, infrastructure, and partner capacity.
+- [Greenland Strategic Access](concepts/GreenlandStrategicAccess.md) — Arctic defense and geography problem linking Greenland to missile warning, space surveillance, Russia, China, Denmark, NATO, and U.S. access rights.
+- [Strategic Access Without Annexation](concepts/StrategicAccessWithoutAnnexation.md) — Diplomacy and security pattern where resources, routes, and bases are secured through permission-based arrangements rather than ownership.
+- [Military Base Sovereignty](concepts/MilitaryBaseSovereignty.md) — Pattern where bases and access agreements can create sovereignty-like control without formal annexation.
 - [Neighborhood Opportunity Revitalization](concepts/NeighborhoodOpportunityRevitalization.md) — Place-based anti-poverty idea that revitalizing or reconnecting a neighborhood can improve children's outcomes when it creates real opportunity access.
 - [Mixed-Income Housing](concepts/MixedIncomeHousing.md) — Housing strategy that mixes income levels, useful only when design and occupancy create real cross-class interaction.
 - [Cross-Class Social Capital](concepts/CrossClassSocialCapital.md) — Opportunity value created when low-income children build ties with higher-income peers, families, and institutions.

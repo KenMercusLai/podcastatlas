@@ -2,8 +2,8 @@
 title: "Saudi Arabia"
 type: entity
 tags: [country, energy, geopolitics, economy]
-sources: [the-secret-meeting-that-launched-opec]
-last_updated: 2026-07-18
+sources: [how-to-get-what-greenland-has-with-permission, the-secret-meeting-that-launched-opec]
+last_updated: 2026-07-24
 ---
 
 # Saudi Arabia
@@ -14,9 +14,12 @@ The source gives Saudi Arabia two recurring roles. First, it is part of the prod
 
 The episode also treats Saudi Arabia as an enforcer of last resort. When members cheated on quotas, Saudi Arabia flooded the market in 1985, crashing prices and showing that [[ProductionQuotaDiscipline]] can fail when a large stabilizer refuses to absorb the burden alone. In the 2021 dispute described by [[KateDurian]], Saudi Arabia and the [[UnitedArabEmirates|UAE]] clashed over quota baselines tied to older production capacity.
 
+[[how-to-get-what-greenland-has-with-permission]] adds Saudi Arabia as both a resource-security analogy and a possible processing partner. The [[PlanetMoney]] episode cites U.S. protection for Saudi oil as an example of getting strategic supply through arrangements short of ownership, and names Saudi Arabia among countries that could help the [[UnitedStates]] with rare-earth processing technology.
+
 ## Connections
 - [[OPEC]] - organization where Saudi Arabia is presented as founder, stabilizer, and enforcer.
 - [[SevenSistersOilMajors]] - company power structure that helped provoke producer coordination.
 - [[OilProducerSupplyCoordination]], [[ProductionQuotaDiscipline]], and [[SwingProducerRole]] - mechanisms attached to Saudi Arabia in the episode.
 - [[UnitedArabEmirates|United Arab Emirates]] and [[GreenParadox]] - later quota-dispute and pumping-incentive branch.
 - [[StraitOfHormuz]] and [[GulfStabilityRisk]] - regional setting where oil supply and security risk overlap.
+- [[RareEarthProcessingBottleneck]] and [[StrategicAccessWithoutAnnexation]] - mineral-security and access-arrangement branch added by the Greenland episode.

@@ -2,8 +2,8 @@
 title: "NATO"
 type: entity
 tags: [organization, security, geopolitics]
-sources: [keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e]
-last_updated: 2026-07-09
+sources: [how-to-get-what-greenland-has-with-permission, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e]
+last_updated: 2026-07-24
 ---
 
 # NATO
@@ -14,6 +14,8 @@ The episode uses that controlled summit to examine [[NATOAllianceCredibility]]. 
 
 [[keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b]] adds NATO as the security context for [[PostBrexitStrategicIdentity]]. The episode argues that defence is one area where the [[UnitedKingdom]] may still matter after [[Brexit]], because Russia's assertiveness, the war in [[Ukraine]], and America's China focus raise the value of credible European capability.
 
+[[how-to-get-what-greenland-has-with-permission]] adds NATO as part of [[GreenlandStrategicAccess]]. The [[PlanetMoney]] episode says [[Greenland]] is not undefended or geopolitically empty because it is tied to [[Denmark]] and NATO, while the [[UnitedStates]] already has extensive defense access there.
+
 ## Connections
 - [[AntonLaGuardia]] - correspondent explaining the summit and alliance-risk segment.
 - [[NATOAllianceCredibility]] - central concept from the source.
@@ -21,3 +23,4 @@ The episode uses that controlled summit to examine [[NATOAllianceCredibility]]. 
 - [[RussianHybridPressure]] - grey-zone threat environment.
 - [[DonaldTrump]], [[Russia]], [[Ukraine]], [[Germany]], and [[Lithuania]] - main political and security actors in the source.
 - [[UnitedKingdom]] and [[PostBrexitStrategicIdentity]] - British defence-role context added by the Brexit retrospective.
+- [[Greenland]], [[Denmark]], [[UnitedStates]], [[GreenlandStrategicAccess]], and [[StrategicAccessWithoutAnnexation]] - Arctic defense-access branch added by Planet Money.

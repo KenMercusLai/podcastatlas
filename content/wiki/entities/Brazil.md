@@ -2,8 +2,8 @@
 title: "Brazil"
 type: entity
 tags: [country, latin-america, mining, industry, coffee, development]
-sources: [latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, the-giant-factory-town-that-might-be-a-giant-mistake]
-last_updated: 2026-07-18
+sources: [how-to-get-what-greenland-has-with-permission, latin-lessons-the-donroe-doctrine-boost-6a4233e26b6690f46aae4e3d, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763, the-giant-factory-town-that-might-be-a-giant-mistake]
+last_updated: 2026-07-24
 ---
 
 # Brazil
@@ -16,6 +16,8 @@ The source uses Brazil to show why the regional boom is not only about headline 
 
 [[the-giant-factory-town-that-might-be-a-giant-mistake]] adds Brazil as a [[MiddleIncomeTrap]] case. The episode uses [[Manaus]] and the [[ZonaFrancaDeManaus|Zona Franca de Manaus]] to show how factory jobs, tax incentives, and domestic-market production can create real growth while still leaving a country exposed to [[IndustrialSubsidyDependence]], [[SubsidizedAssemblyIndustrialization]], and [[PrematureDeindustrialization]]. It also adds possible positive paths through [[AdvancedAgricultureInnovation]] and [[LocalizedInnovationAdvantage]].
 
+[[how-to-get-what-greenland-has-with-permission]] adds Brazil as a more plausible near-term rare-earth source than [[Greenland]]. [[GracelandBaskaran]] uses Brazil to show that [[RareEarthProcessingBottleneck]] may be addressed through partner geography and processing networks rather than U.S. control of Arctic deposits.
+
 ## Connections
 - [[LatinAmerica]] and [[LatinAmericaInvestmentBoom]] - regional investment context.
 - [[CriticalMineralsGeopolitics]] - rare-earth and mining frame.
@@ -24,3 +26,4 @@ The source uses Brazil to show why the regional boom is not only about headline 
 - [[Coffee]], [[CoffeeCommodityPolitics]], and [[CommodityPriceExposure]] - coffee production and producer-protection branch.
 - [[Manaus]], [[ZonaFrancaDeManaus]], [[MiddleIncomeTrap]], and [[PrematureDeindustrialization]] - development-economics branch added by Planet Money.
 - [[AdvancedAgricultureInnovation]], [[Tutiplast]], and [[BiodegradableAmazonPlastics]] - local innovation and productivity branch.
+- [[Greenland]], [[GracelandBaskaran]], and [[RareEarthProcessingBottleneck]] - rare-earth partner branch added by the Greenland episode.

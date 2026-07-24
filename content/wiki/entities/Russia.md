@@ -2,8 +2,8 @@
 title: "Russia"
 type: entity
 tags: [country, geopolitics, security, space, crypto]
-sources: [120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]
-last_updated: 2026-07-17
+sources: [how-to-get-what-greenland-has-with-permission, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128, tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128, tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128, keep-qualms-and-carry-on-a-decade-after-brexit-6a3a53028a3c8822ab345d4b, continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210]
+last_updated: 2026-07-24
 ---
 
 # Russia
@@ -26,6 +26,8 @@ The source frames Russia's pressure as intentionally ambiguous. Drone incursions
 
 [[tech-20260212-0212-mp-tech-pod-128-tech-20260212-0212-mp-tech-pod-128]] adds Russia to the crypto sanctions branch through [[A7A5]]. [[AriRedbord]] describes A7A5 as a Russia-related stablecoin and as a major driver of sanctions-related illicit crypto activity in 2025, connecting Russia to [[StablecoinSanctionsEvasion]] as well as conventional geopolitics.
 
+[[how-to-get-what-greenland-has-with-permission]] adds Russia as part of [[GreenlandStrategicAccess]]. The episode says [[Greenland]] sits between the [[UnitedStates]], Russia, and [[China]], and that the shortest hypothetical missile paths toward the U.S. would pass over Greenland.
+
 ## Connections
 - [[RussianEmpire]], [[PeterTheGreat]], [[VitusBering]], [[FirstKamchatkaExpedition]], [[GreatNorthernExpedition]], [[Kamchatka]], [[Okhotsk]], [[Alaska]], [[RussianNorthPacificExpansion]], and [[ExplorationToExtractionPipeline]] - eighteenth-century imperial exploration and North Pacific expansion branch added by 蜜獾吃书.
 - [[Shahed136]], [[LowCostDroneWarfare]], [[DroneDecoyEconomics]], [[DroneDefenseEconomics]], and [[CounterDroneLayeredDefense]] - drone and decoy branch added by Marketplace Tech.
@@ -39,3 +41,4 @@ The source frames Russia's pressure as intentionally ambiguous. Drone incursions
 - [[UnitedKingdom]] and [[PostBrexitStrategicIdentity]] - British strategic-role context added by the Brexit source.
 - [[China]], [[ArtemisAccords]], [[Moon]], and [[LunarResourceGovernance]] - lunar diplomacy branch added by Marketplace Tech.
 - [[A7A5]], [[Stablecoins]], and [[StablecoinSanctionsEvasion]] - crypto sanctions branch added by the 2026-02-12 Marketplace Tech episode.
+- [[Greenland]], [[UnitedStates]], [[China]], and [[GreenlandStrategicAccess]] - Arctic missile-warning and location branch added by Planet Money.

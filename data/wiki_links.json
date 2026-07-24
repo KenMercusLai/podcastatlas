@@ -5755,6 +5755,10 @@
     "title": "Daniel Hamermesh",
     "url": "/wiki/entities/danielhamermesh/"
   },
+  "DanielImmerwahr": {
+    "title": "Daniel Immerwahr",
+    "url": "/wiki/entities/danielimmerwahr/"
+  },
   "DanielKan": {
     "title": "Daniel Kan",
     "url": "/wiki/entities/danielkan/"
@@ -6130,6 +6134,10 @@
   "DemocraticTransitionElection": {
     "title": "Democratic Transition Election",
     "url": "/wiki/concepts/democratictransitionelection/"
+  },
+  "Denmark": {
+    "title": "Denmark",
+    "url": "/wiki/entities/denmark/"
   },
   "DepartmentOfEducation": {
     "title": "Department of Education",
@@ -9059,6 +9067,10 @@
     "title": "Government Website Usability",
     "url": "/wiki/concepts/governmentwebsiteusability/"
   },
+  "GracelandBaskaran": {
+    "title": "Graceland Baskaran",
+    "url": "/wiki/entities/gracelandbaskaran/"
+  },
   "GradPLUSLoans": {
     "title": "Grad PLUS Loans",
     "url": "/wiki/concepts/gradplusloans/"
@@ -9122,6 +9134,14 @@
   "GreenParadox": {
     "title": "Green Paradox",
     "url": "/wiki/concepts/greenparadox/"
+  },
+  "Greenland": {
+    "title": "Greenland",
+    "url": "/wiki/entities/greenland/"
+  },
+  "GreenlandStrategicAccess": {
+    "title": "Greenland Strategic Access",
+    "url": "/wiki/concepts/greenlandstrategicaccess/"
   },
   "GreenlightAnalytics": {
     "title": "Greenlight Analytics",
@@ -9226,6 +9246,10 @@
   "Guangzhou": {
     "title": "Guangzhou / 广州",
     "url": "/wiki/entities/guangzhou/"
+  },
+  "GuantanamoBay": {
+    "title": "Guantanamo Bay",
+    "url": "/wiki/entities/guantanamobay/"
   },
   "Guanyin": {
     "title": "Guanyin / 观音",
@@ -10119,6 +10143,10 @@
     "title": "《如何成为不完美主义者》 / How to Be an Imperfectionist",
     "url": "/wiki/entities/howtobeanimperfectionist/"
   },
+  "HowToHideAnEmpire": {
+    "title": "How to Hide an Empire",
+    "url": "/wiki/entities/howtohideanempire/"
+  },
   "HowardLutnick": {
     "title": "Howard Lutnick",
     "url": "/wiki/entities/howardlutnick/"
@@ -10730,6 +10758,10 @@
   "InterstateBypassEconomics": {
     "title": "Interstate Bypass Economics",
     "url": "/wiki/concepts/interstatebypasseconomics/"
+  },
+  "Inuit": {
+    "title": "Inuit",
+    "url": "/wiki/entities/inuit/"
   },
   "InvasiveSpeciesManagement": {
     "title": "Invasive Species Management",
@@ -14075,6 +14107,10 @@
     "title": "Milieu-Specific Analysis",
     "url": "/wiki/concepts/milieuspecificanalysis/"
   },
+  "MilitaryBaseSovereignty": {
+    "title": "Military Base Sovereignty",
+    "url": "/wiki/concepts/militarybasesovereignty/"
+  },
   "MilitaryPersonalization": {
     "title": "Military Personalization / 军队私人化",
     "url": "/wiki/concepts/militarypersonalization/"
@@ -17147,6 +17183,10 @@
     "title": "Ransomware Business Continuity",
     "url": "/wiki/concepts/ransomwarebusinesscontinuity/"
   },
+  "RareEarthProcessingBottleneck": {
+    "title": "Rare Earth Processing Bottleneck",
+    "url": "/wiki/concepts/rareearthprocessingbottleneck/"
+  },
   "RatingsCom": {
     "title": "Ratings.com",
     "url": "/wiki/entities/ratingscom/"
@@ -18078,6 +18118,10 @@
   "SadiaPekkanen": {
     "title": "Sadia Pekkanen",
     "url": "/wiki/entities/sadiapekkanen/"
+  },
+  "SahaUllsvig": {
+    "title": "Saha Ullsvig",
+    "url": "/wiki/entities/sahaullsvig/"
   },
   "SahilLavingia": {
     "title": "Sahil Lavingia",
@@ -19698,6 +19742,10 @@
   "StrategicAIInfrastructureDependence": {
     "title": "Strategic AI Infrastructure Dependence",
     "url": "/wiki/concepts/strategicaiinfrastructuredependence/"
+  },
+  "StrategicAccessWithoutAnnexation": {
+    "title": "Strategic Access Without Annexation",
+    "url": "/wiki/concepts/strategicaccesswithoutannexation/"
   },
   "StrategicFocusUnderIncumbentPressure": {
     "title": "Strategic Focus Under Incumbent Pressure",
@@ -23822,6 +23870,10 @@
   "how-much-money-president-trump-and-his-family-have-made": {
     "title": "How much money President Trump and his family have made",
     "url": "/wiki/sources/how-much-money-president-trump-and-his-family-have-made/"
+  },
+  "how-to-get-what-greenland-has-with-permission": {
+    "title": "How to get what Greenland has, with permission",
+    "url": "/wiki/sources/how-to-get-what-greenland-has-with-permission/"
   },
   "how-to-win-a-penalty-shootout-with-game-theory": {
     "title": "How to win a penalty shootout (with game theory)",
