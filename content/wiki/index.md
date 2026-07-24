@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI4S 需要狂人与野心家｜对话英灵殿 Odin："如果神存在，我怎能容忍自己不是神？"【公路播客】](sources/ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz.md) — Shizilukou Crossing road-podcast episode on Yinglingdian AI, Haotian Odin, all-modal molecular world models, AI drug-discovery platforms, protein design, scientific discovery automation, and founder discipline under fundraising pressure.
 - [Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)](sources/sun-bum-tom-rinks-the-secrets-of-a-master-brand-builder-2023-77ab41eb-99a8-4dd2-ae39-d066818afc21.md) — How I Built This episode on Tom Rinks, Sun Bum, Psycho Chihuahua, Taco Bell, DeLeon Tequila, mascot-led brand recognition, visual brand systems, retail displays, founder role transition, and the SC Johnson sale.
 - [商业小样45 | 厄尔尼诺越大，鱼越贵](sources/shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352.md) — 商业就是这样 episode on Peru's anchoveta fishery, El Nino, fishmeal and fish-oil supply, aquaculture feed dependency, Peruvian catch bans, and how salmon, shrimp, sushi, and restaurant seafood prices can move through a hidden feed input.
 - [187.豌豆公主：高敏和混沌是你真名](sources/187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166.md) — 蜜獾吃书 episode rereading Andersen's 《豌豆公主》 through true-princess ambiguity, class satire, gendered fairy-tale punishment, high sensitivity, sensory hypersensitivity, hardship worship, and literary complexity.
@@ -575,6 +576,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Haotian Odin / 浩天](entities/HaotianOdin.md) — Yinglingdian AI founder discussing all-modal molecular modeling, AI drug discovery, Baker Lab, O-Design/L-Design, and founder discipline.
+- [Yinglingdian AI / 英灵殿](entities/YinglingdianAI.md) — AI-for-science company aiming first at an AI drug-discovery platform and longer term at scientific discovery automation.
+- [O-Design / Odyssey](entities/ODesign.md) — Early all-modal molecular-design exploration tied to small molecules, RNA, DNA, and protein design.
+- [L-Design](entities/LDesign.md) — Yinglingdian AI's next model milestone toward an all-modal molecular world model.
+- [Baker Lab](entities/BakerLab.md) — Protein-design research environment that shaped Haotian Odin's technical formation and management ideals.
+- [David Baker](entities/DavidBaker.md) — Baker Lab scientist used in the Yinglingdian episode as a protein-design and founder-proximity reference.
+- [AlphaFold](entities/AlphaFold.md) — AI protein-structure precedent used to frame the AI-for-biology breakthrough path.
 - [Sun Bum](entities/SunBum.md) — Sunscreen and beach-care brand built through woodgrain packaging, Sunny the ape mascot, surf-shop and hotel credibility, retail displays, and later SC Johnson acquisition.
 - [Tom Rinks](entities/TomRinks.md) — Brand builder behind Surf Michigan, Psycho Chihuahua, Rinks Canetti, DeLeon Tequila, Sun Bum, and later Made by Dentists work.
 - [Rene Kennedy](entities/ReneKennedy.md) — Copenhagen designer and Rinks Canetti partner whose typography, layout, and logo work shaped Sun Bum's visual system.
@@ -3856,6 +3864,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [All-Modal Molecular World Model](concepts/AllModalMolecularWorldModel.md) — Molecular world-model thesis unifying small molecules, proteins, RNA, and DNA for AI-for-biology work.
+- [AI Drug Discovery Platform](concepts/AIDrugDiscoveryPlatform.md) — Platform route for using AI to design and validate molecular interventions without immediately owning drug pipelines.
+- [AI Protein Design](concepts/AIProteinDesign.md) — Protein-design branch connecting Baker Lab, AlphaFold, diffusion-style design, and cross-modal molecular modeling.
+- [Scientific Discovery Automation](concepts/ScientificDiscoveryAutomation.md) — AI-for-science ambition to automate data analysis, hypothesis generation, path search, and validation loops.
+- [Platform-Pipeline Biotech Strategy](concepts/PlatformPipelineBiotechStrategy.md) — Biotech tradeoff between remaining a neutral discovery platform and owning downstream drug pipelines.
+- [Founder Signal Discipline](concepts/FounderSignalDiscipline.md) — Founder practice of filtering financing, ego, status, and buzzword noise so the company remains tied to its real problem.
+- [Personalized Molecular Medicine](concepts/PersonalizedMolecularMedicine.md) — Future medical route where genotype and protein-expression state shape customized molecular intervention.
+- [Life Reprogramming Vision](concepts/LifeReprogrammingVision.md) — Long-horizon AI-for-biology ambition to intervene in DNA, RNA, protein, and small-molecule interactions.
 - [Visual Brand System](concepts/VisualBrandSystem.md) — Coordinated packaging, color, typography, mascot, objects, and display rules that make a consumer product recognizable before explanation.
 - [Mascot Led Brand Recognition](concepts/MascotLedBrandRecognition.md) — Pattern where a brand-owned character becomes a durable memory device across packaging, advertising, retail, and merchandise.
 - [Retail Display As Brand Surface](concepts/RetailDisplayAsBrandSurface.md) — Merchandising pattern where the store fixture itself teaches the brand and makes a young CPG company look coherent.

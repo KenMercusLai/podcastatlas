@@ -3,6 +3,7 @@ title: "AI Commercialization Pressure"
 type: concept
 tags: [ai, commercialization, strategy]
 sources:
+  - ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz
   - tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128
   - 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6
   - ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1
@@ -28,7 +29,7 @@ sources:
   - fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd
   - 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1
   - tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128
-last_updated: 2026-07-12
+last_updated: 2026-07-24
 ---
 
 # AI Commercialization Pressure
@@ -52,6 +53,8 @@ AI commercialization pressure is the tension between technical influence, user a
 [[weishenme-gongsi-yong-buhao-ai-cong-jiaolv-dao-xingdong-de-3-ge-guanjian-dongzuo-duitan-bairong-zhineng-zhang-shaofeng-lgarngnaqran2c9p4jssurvt6ces]] adds an enterprise-services version through [[BairongIntelligence]]. [[ZhangShaofeng]] argues that AI companies should avoid repeating traditional custom software economics and instead use [[OutcomeBasedAIPricing]] where customers pay for work output, usage, or transaction value.
 
 [[ni-you-yi-ba-nenggou-wa-chu-jinzi-de-chanzi-kending-buhui-xian-gei-bieren-yong-duitan-kaiwuji-lu-ziheng-yong-ai-faming-xin-cailiao-lvhl1-hy1gwtainujjgf8xbs4fyh]] adds a hard-tech version through [[Kaiwuji]]. The company has early financing but no revenue yet, spends heavily on compute and AI talent, and must prove that [[AIMaterialsDiscovery]] can become valuable material IP rather than a research demo or model service.
+
+[[ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz]] adds the AI-drug-discovery platform version through [[YinglingdianAI]]. [[HaotianOdin]] says the company is avoiding its own drug pipelines in the short term so it can focus on [[AIDrugDiscoveryPlatform]] capability and avoid competing with pharmaceutical customers. The same source adds [[FounderSignalDiscipline]] as a commercialization boundary: financing narratives can pull founders toward fashionable keyword bundles unless the business story stays tied to the scientific problem.
 
 [[dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun]] adds a legacy-incumbent version through [[Baidu]]. The hosts argue that Baidu was early to AI but failed to turn [[Wenxin]] into a strong user-facing product while its search-ad cash cow weakened, so AI spending, capital expenditure, closed/open model choices, and product mindshare all become part of one commercial pressure.
 
@@ -99,6 +102,7 @@ AI commercialization pressure is the tension between technical influence, user a
 - Enterprise AI commercialization may work better when the product is framed as completed work or service output rather than access to process software.
 - Hard-tech AI startups can face a long gap between model progress and revenue because candidate discovery still needs experiment, validation, scale-up, and customer adoption.
 - Owning [[MaterialsPipelineCompany]] assets may be a commercialization response when selling a tool too early would leak the core value.
+- AI drug-discovery platforms face a different pressure: staying neutral can preserve customer trust, but the platform still has to prove value without letting pipeline work consume the company.
 - Legacy AI incumbents can face the reverse problem: they may have revenue and technical history, but still need a new AI product loop before the old cash cow declines too far.
 - AI application startups need [[AIStartupUnitEconomics]] discipline because visible demand can still fail when memory, inference, and maintenance cost exceed acceptable pricing.
 - Home-robotics startups need commercialization discipline because real homes add hardware cost, maintenance, safety, data collection, and service-value pricing on top of model progress.
@@ -132,6 +136,7 @@ AI commercialization pressure is the tension between technical influence, user a
 - [[LongChainAICompetition]] — broader competition frame where business closure is part of the model race.
 - [[BairongIntelligence]], [[OutcomeBasedAIPricing]], and [[AIBPORollUp]] — enterprise-service commercialization route.
 - [[Kaiwuji]], [[AIMaterialsDiscovery]], and [[MaterialsPipelineCompany]] — hard-tech materials commercialization route.
+- [[YinglingdianAI]], [[AIDrugDiscoveryPlatform]], [[PlatformPipelineBiotechStrategy]], and [[FounderSignalDiscipline]] — AI-drug-discovery platform route added by the Shizilukou Crossing source.
 - [[Baidu]], [[Wenxin]], [[SearchAdvertisingDecline]], and [[CashCowStrategicInertia]] — legacy search-incumbent route added by the Baidu source.
 - [[MicoAILab]], [[Simon]], [[AIStartupUnitEconomics]], and [[CharacterAI]] — AI game/social route added by EP101.
 - [[WeilaiBuyuan]], [[F2HomeRobot]], [[HomeServiceRobots]], [[HouseholdRobotDataFlywheel]], and [[ConsumerRoboticsFullStack]] — home-robotics commercialization route added by the Weilai Buyuan source.

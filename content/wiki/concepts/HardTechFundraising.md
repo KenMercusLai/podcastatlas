@@ -2,8 +2,8 @@
 title: "Hard Tech Fundraising"
 type: concept
 tags: [startup, hard-tech, fundraising, venture-capital]
-sources: [tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final]
-last_updated: 2026-07-23
+sources: [ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final]
+last_updated: 2026-07-24
 ---
 
 # Hard Tech Fundraising
@@ -22,6 +22,8 @@ The source links this directly to [[InvestorRiskNarrative]]. Vogt had to explain
 
 [[tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio]] adds the commercial-fusion version through [[DavidKirtley]] and [[Helion]]. Kirtley says Helion did not immediately close a round after Demo Day interest; it spent months making sure investors understood the physics, engineering path, timeline, capital needs, and uncertainty. [[MithrilCapital]] led the first post-Demo Day round, and [[CapricornInvestmentGroup]] led the Series B.
 
+[[ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz]] adds an AI-for-biology version through [[YinglingdianAI]]. [[HaotianOdin]] describes financing decisions around how much money to take and what story to tell, while warning that investors may over-index on big-company background, obvious commercial closure, or fashionable keyword bundles. This makes [[FounderSignalDiscipline]] part of hard-tech fundraising: the founder still needs capital, legal advice, and a legible risk story, but the pitch should not replace the underlying scientific problem.
+
 ## Key Claims
 - Hard-tech founders often need a credible de-risking sequence before they can show familiar software metrics.
 - Repeated rejections can improve the pitch when each objection sharpens the explanation of market size, technical wedge, capital plan, and competitive path.
@@ -33,6 +35,7 @@ The source links this directly to [[InvestorRiskNarrative]]. Vogt had to explain
 - Market timing matters more when the company needs growth capital before ordinary revenue can prove demand.
 - In commercial aviation, customer intent and prototype flight can make a de-risking path legible before certification or airline operation can prove the business.
 - In commercial fusion, investor fit can be as important as valuation because the company needs patience to reject side markets and keep building toward power-plant deployment.
+- In AI-for-biology, fundraising can pressure founders to add pipelines or buzzword adjacency before the platform and validation loop are ready.
 
 ## Connections
 - [[Cruise]], [[KyleVogt]], and [[YCombinator]] - source case and Demo Day context.
@@ -43,3 +46,4 @@ The source links this directly to [[InvestorRiskNarrative]]. Vogt had to explain
 - [[AndyLapsa]], [[Stoke]], [[ReusableRocketEconomics]], and [[SecondStageReuseConstraint]] - reusable-launch case where technical proof and capital timing shape fundraising.
 - [[BlakeScholl]], [[BoomSupersonic]], [[AllBusinessClassSupersonicModel]], [[HardTechCustomerIntentProof]], [[XB1SupersonicDemonstrator]], and [[CrisisForcedVerticalIntegration]] - commercial-aviation case added by The Social Radars.
 - [[DavidKirtley]], [[Helion]], [[MithrilCapital]], [[CapricornInvestmentGroup]], [[CommercialFusionPower]], and [[DeepTechProductFocus]] - commercial-fusion case added by The Social Radars.
+- [[YinglingdianAI]], [[HaotianOdin]], [[AIDrugDiscoveryPlatform]], and [[FounderSignalDiscipline]] - AI-for-biology fundraising case added by Shizilukou Crossing.

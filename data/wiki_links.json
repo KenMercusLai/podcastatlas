@@ -927,6 +927,10 @@
     "title": "AI Discovery SEO",
     "url": "/wiki/concepts/aidiscoveryseo/"
   },
+  "AIDrugDiscoveryPlatform": {
+    "title": "AI Drug Discovery Platform",
+    "url": "/wiki/concepts/aidrugdiscoveryplatform/"
+  },
   "AIDubbing": {
     "title": "AI Dubbing",
     "url": "/wiki/concepts/aidubbing/"
@@ -1166,6 +1170,10 @@
   "AIPromptedPlaylistCuration": {
     "title": "AI Prompted Playlist Curation",
     "url": "/wiki/concepts/aipromptedplaylistcuration/"
+  },
+  "AIProteinDesign": {
+    "title": "AI Protein Design",
+    "url": "/wiki/concepts/aiproteindesign/"
   },
   "AIPublicLikenessGeneration": {
     "title": "AI Public Likeness Generation",
@@ -1991,6 +1999,10 @@
     "title": "All-Business-Class Supersonic Model",
     "url": "/wiki/concepts/allbusinessclasssupersonicmodel/"
   },
+  "AllModalMolecularWorldModel": {
+    "title": "All-Modal Molecular World Model",
+    "url": "/wiki/concepts/allmodalmolecularworldmodel/"
+  },
   "AllergyAsImmuneResponse": {
     "title": "Allergy As Immune Response",
     "url": "/wiki/concepts/allergyasimmuneresponse/"
@@ -2014,6 +2026,10 @@
   "AlphaEast": {
     "title": "AlphaEast",
     "url": "/wiki/entities/alphaeast/"
+  },
+  "AlphaFold": {
+    "title": "AlphaFold",
+    "url": "/wiki/entities/alphafold/"
   },
   "AlphaGeometry": {
     "title": "AlphaGeometry",
@@ -2930,6 +2946,10 @@
   "BairongIntelligence": {
     "title": "Bairong Intelligence",
     "url": "/wiki/entities/bairongintelligence/"
+  },
+  "BakerLab": {
+    "title": "Baker Lab",
+    "url": "/wiki/entities/bakerlab/"
   },
   "BalanceSheetMacroAnalysis": {
     "title": "Balance-Sheet Macro Analysis",
@@ -5983,6 +6003,10 @@
     "title": "Dave Reibstein",
     "url": "/wiki/entities/davereibstein/"
   },
+  "DavidBaker": {
+    "title": "David Baker",
+    "url": "/wiki/entities/davidbaker/"
+  },
   "DavidBlumen": {
     "title": "David Blumen",
     "url": "/wiki/entities/davidblumen/"
@@ -8411,6 +8435,10 @@
     "title": "Founder Role Transition",
     "url": "/wiki/concepts/founderroletransition/"
   },
+  "FounderSignalDiscipline": {
+    "title": "Founder Signal Discipline",
+    "url": "/wiki/concepts/foundersignaldiscipline/"
+  },
   "FounderSuccession": {
     "title": "Founder Succession",
     "url": "/wiki/concepts/foundersuccession/"
@@ -9690,6 +9718,10 @@
   "Haoge": {
     "title": "浩哥 / Haoge",
     "url": "/wiki/entities/haoge/"
+  },
+  "HaotianOdin": {
+    "title": "Haotian Odin / 浩天",
+    "url": "/wiki/entities/haotianodin/"
   },
   "HappyFamilyOrganics": {
     "title": "Happy Family Organics",
@@ -12267,6 +12299,10 @@
     "title": "Kyoto / 京都",
     "url": "/wiki/entities/kyoto/"
   },
+  "LDesign": {
+    "title": "L-Design",
+    "url": "/wiki/entities/ldesign/"
+  },
   "LLMWorldModelGap": {
     "title": "LLM World Model Gap",
     "url": "/wiki/concepts/llmworldmodelgap/"
@@ -12762,6 +12798,10 @@
   "LifeCircle": {
     "title": "Life Circle",
     "url": "/wiki/entities/lifecircle/"
+  },
+  "LifeReprogrammingVision": {
+    "title": "Life Reprogramming Vision",
+    "url": "/wiki/concepts/lifereprogrammingvision/"
   },
   "LifeRestartThoughtExperiment": {
     "title": "Life Restart Thought Experiment",
@@ -15367,6 +15407,10 @@
     "title": "Nvidia Vera Rubin Platform",
     "url": "/wiki/entities/nvidiaverarubinplatform/"
   },
+  "ODesign": {
+    "title": "O-Design / Odyssey",
+    "url": "/wiki/entities/odesign/"
+  },
   "OPEC": {
     "title": "OPEC",
     "url": "/wiki/entities/opec/"
@@ -16263,6 +16307,10 @@
     "title": "Personalization As Social Identity",
     "url": "/wiki/concepts/personalizationassocialidentity/"
   },
+  "PersonalizedMolecularMedicine": {
+    "title": "Personalized Molecular Medicine",
+    "url": "/wiki/concepts/personalizedmolecularmedicine/"
+  },
   "Peru": {
     "title": "Peru",
     "url": "/wiki/entities/peru/"
@@ -16538,6 +16586,10 @@
   "PlatformOwnershipTransition": {
     "title": "Platform Ownership Transition",
     "url": "/wiki/concepts/platformownershiptransition/"
+  },
+  "PlatformPipelineBiotechStrategy": {
+    "title": "Platform-Pipeline Biotech Strategy",
+    "url": "/wiki/concepts/platformpipelinebiotechstrategy/"
   },
   "Platformer": {
     "title": "Platformer",
@@ -18610,6 +18662,10 @@
   "ScientificAnxietyLiteraryMaterial": {
     "title": "Scientific Anxiety As Literary Material / 科学焦虑作为文学材料",
     "url": "/wiki/concepts/scientificanxietyliterarymaterial/"
+  },
+  "ScientificDiscoveryAutomation": {
+    "title": "Scientific Discovery Automation",
+    "url": "/wiki/concepts/scientificdiscoveryautomation/"
   },
   "ScientificPublicSpectacle": {
     "title": "Scientific Public Spectacle",
@@ -23223,6 +23279,10 @@
     "title": "英利绿色能源 / Yingli Green Energy",
     "url": "/wiki/entities/yingligreenenergy/"
   },
+  "YinglingdianAI": {
+    "title": "Yinglingdian AI / 英灵殿",
+    "url": "/wiki/entities/yinglingdianai/"
+  },
   "YishanWang": {
     "title": "Yishan Wang",
     "url": "/wiki/entities/yishanwang/"
@@ -23758,6 +23818,10 @@
   "ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing": {
     "title": "AI Startup Hits $8.6M ARR With V0 MVP and EUR85 Pricing",
     "url": "/wiki/sources/ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing/"
+  },
+  "ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz": {
+    "title": "AI4S 需要狂人与野心家｜对话英灵殿 Odin：\\\"如果神存在，我怎能容忍自己不是神？\\\"【公路播客】",
+    "url": "/wiki/sources/ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz/"
   },
   "ali-qianwen-lizhi-yuzhen-zai-jiwanren-de-tieqiu-li-ruhe-timian-shengcun-keji-luandun": {
     "title": "阿里千问离职余震，在几万人的铁球里如何体面生存",

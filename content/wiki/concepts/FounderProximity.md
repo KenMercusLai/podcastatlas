@@ -2,8 +2,8 @@
 title: "Founder Proximity"
 type: concept
 tags: [startup, leadership, operations]
-sources: [tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-tonyxu-final, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
-last_updated: 2026-07-23
+sources: [ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, socialradarspod-tonyxu-final, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
+last_updated: 2026-07-24
 ---
 
 # Founder Proximity
@@ -24,6 +24,8 @@ The source connects founder proximity to DoorDash's earliest learning loop. The 
 
 [[tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio]] adds the aerospace-growth version through [[AndyLapsa]] and [[Stoke|Stoke Space]]. Andy does not present proximity as the founder owning every task; he says direct intervention often means the organization has an unfilled hole. In this case proximity is diagnostic: the founder has to notice technical, hiring, coordination, or adjacent-opportunity gaps closely enough to decide whether to fill them, staff them, or deliberately avoid them as distractions.
 
+[[ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz]] adds the AI-for-science lab-company version through [[HaotianOdin]] and [[YinglingdianAI]]. Odin says he has no private office and sits with the team, while citing [[DavidBaker]] as a model for knowing each researcher's technical work. Here proximity is both scientific and cultural: staying close to experiments, model work, and team judgment helps the founder resist abstraction into fundraising story alone.
+
 ## Key Claims
 - Direct exposure helps leaders notice problems that dashboards or management summaries may compress away.
 - Proximity does not mean the founder personally runs every process; it means the founder keeps enough contact to interpret secondhand information better.
@@ -36,6 +38,7 @@ The source connects founder proximity to DoorDash's earliest learning loop. The 
 - A CEO can make proximity a leadership standard by repeatedly sharing customer learnings and expecting executives to do the same.
 - In science-heavy startups, founder proximity can mean staying close to experimental execution and team accountability, not only customers.
 - In hard-tech growth companies, proximity can expose unfilled organizational gaps and adjacent opportunities before they become hidden execution drift.
+- In AI-for-science companies, founder proximity can also protect the connection between model work, wet-lab constraints, commercial interfaces, and founder intent.
 
 ## Connections
 - [[TonyXu]] and [[DoorDash]] - source case.
@@ -48,3 +51,4 @@ The source connects founder proximity to DoorDash's earliest learning loop. The 
 - [[SajithWickramasekara]], [[Benchling]], [[LifeSciencesWorkflowSoftware]], and [[StageAppropriateHiring]] - customer-proximity-at-scale case added by the Benchling source.
 - [[JenHerbach]], [[AdventrisPharmaceuticals]], [[CancerVaccinePlatform]], and [[BiotechFounderControl]] - lab-proximity and accountability case added by the Jen Herbach source.
 - [[AndyLapsa]], [[Stoke]], [[ReusableRocketEconomics]], and [[SecondStageReuseConstraint]] - aerospace founder proximity and organizational-gap case added by the Andy Lapsa source.
+- [[HaotianOdin]], [[YinglingdianAI]], [[BakerLab]], [[AIDrugDiscoveryPlatform]], and [[FounderSignalDiscipline]] - AI-for-science founder proximity case added by Shizilukou Crossing.

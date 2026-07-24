@@ -2,8 +2,8 @@
 title: "Founder Mode"
 type: concept
 tags: [startups, leadership, organization-design, ai]
-sources: [tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio, tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly, tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly, tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
-last_updated: 2026-07-23
+sources: [ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tsr-s3-ryanpetersen-v6-tsr-s3-ryanpetersen-v6, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio, tsr-ycoffsite-jenherbach-v1-audio-tsr-ycoffsite-jenherbach-v1-audio, tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly, tsr-ycoffsite-christinacacioppo-v1-audioonly-tsr-ycoffsite-christinacacioppo-v1-audioonly, tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly, tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov, tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final, tsr-ycoffsite-brianchesky-audioonly-final-tsr-ycoffsite-brianchesky-audioonly-final, tsr-ycoffsite-gt-audioonly-final-tsr-ycoffsite-gt-audioonly-final, tsr-ycoffsite-pg-audioonly-final-tsr-ycoffsite-pg-audioonly-final]
+last_updated: 2026-07-24
 ---
 
 # Founder Mode
@@ -40,6 +40,8 @@ The source presents the COVID crisis as the forcing function that let [[Airbnb]]
 
 [[tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio]] adds [[DavidKirtley]]'s commercial-fusion version through [[Helion]]. Kirtley says the company grew from fewer than 10 people during [[YCombinator]] to well over 500, and he regretted periods when it drifted toward bureaucracy and slower traditional management. His pattern is front-line bottleneck work: get close to hiring or execution problems, train teams, give them resources, and then move to the next constraint.
 
+[[ai4s-xuyao-kuangren-yu-yexinjia-duihua-yinglingdian-odin-ruguo-shen-cunzai-wo-zenneng-rongren-ziji-bushi-shen-gonglu-boke-lhceyip6dqomrwk38uvqjwoomxyz]] adds [[HaotianOdin]]'s young AI-for-science version through [[YinglingdianAI]]. He says he has no separate office, sits with the team, and was influenced by [[DavidBaker]]'s close knowledge of every student's technical work at [[BakerLab]]. In this case founder mode is not only crisis or scale management; it is the attempt to keep a frontier research company close enough to technical details, commercial choices, and founder intention that it does not drift into status, title, or financing noise.
+
 [[tsr-s5-catchup2-v1-tsr-s5-catchup2-v1]] adds the format context around the concept. [[JessicaLivingston]] and [[CarolynLevy]] describe Founder Mode as a shorter-form [[TheSocialRadars]] interview series about moments when founders had to go into founder mode or define what the phrase means to them. The source does not change the doctrine, but it explains why a cluster of YC offsite founder-mode sources arrived as a side series before the main Season Five launch.
 
 ## Key Claims
@@ -74,6 +76,7 @@ The source presents the COVID crisis as the forcing function that let [[Airbnb]]
 - Adjacent opportunities require founder judgment about whether to protect focus or go all in.
 - Founder mode can reappear after a CEO handoff when operating and budget discipline need founder authority, as in Petersen's source-scoped account of Flexport.
 - In Kirtley's version, founder mode in hard tech means staying close to physical execution, hiring, manufacturing, and bottlenecks without becoming the only person who can solve each problem.
+- In Haotian Odin's version, founder mode in AI for Science means staying close to research detail, team trust, platform strategy, and original intention under financing pressure.
 - The Founder Mode series is a shorter-form interview format, not only a single essay or doctrine, and its value is partly comparative: different founders define the same term through different operating moments.
 
 ## Connections
@@ -95,4 +98,5 @@ The source presents the COVID crisis as the forcing function that let [[Airbnb]]
 - [[AndyLapsa]], [[Stoke]], [[ReusableRocketEconomics]], and [[SecondStageReuseConstraint]] - aerospace hard-tech founder-mode case added by the Andy Lapsa episode.
 - [[RyanPetersen]], [[Flexport]], [[DaveClark]], [[FounderOperationalReset]], and [[FounderReturnCrisis]] - founder-return boundary added by the Ryan Petersen episode.
 - [[DavidKirtley]], [[Helion]], [[CommercialFusionPower]], [[DeepTechProductFocus]], and [[PrecisionManufacturingAsStrategy]] - commercial-fusion founder-mode case added by The Social Radars.
+- [[HaotianOdin]], [[YinglingdianAI]], [[BakerLab]], [[FounderSignalDiscipline]], and [[PlatformPipelineBiotechStrategy]] - AI-for-science founder-mode case added by Shizilukou Crossing.
 - [[tsr-s5-catchup2-v1-tsr-s5-catchup2-v1]] - show-level context for why the founder-mode interviews appeared as a side series before Season Five.

@@ -4248,6 +4248,10 @@ Added source page for a 蜜獾吃书 episode on 罗翔《法律的悖论》, cov
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-24] ingest | AI4S 需要狂人与野心家｜对话英灵殿 Odin："如果神存在，我怎能容忍自己不是神？"【公路播客】
+
+Added source page for a Shizilukou Crossing road-podcast episode with Haotian Odin on Yinglingdian AI, all-modal molecular world models, AI drug-discovery platforms, O-Design/L-Design, Baker Lab, protein design, scientific discovery automation, platform-vs-pipeline strategy, personalized molecular medicine, life reprogramming, and founder discipline under fundraising pressure. Created pages for Haotian Odin, Yinglingdian AI, O-Design, L-Design, Baker Lab, David Baker, AlphaFold, All-Modal Molecular World Model, AI Drug Discovery Platform, AI Protein Design, Scientific Discovery Automation, Platform-Pipeline Biotech Strategy, Founder Signal Discipline, Personalized Molecular Medicine, and Life Reprogramming Vision; updated overview, index, Shizilukou Crossing, Google DeepMind, AI For Science, World Models, Discovery Model, Research Taste, Problem Definition In Research, Domain Expert Alignment, AI Commercialization Pressure, Hard Tech Fundraising, Founder Mode, and Founder Proximity. No direct contradiction found; the source extends the wiki's AI-for-science branch into AI-for-biology, where molecular modality unification, wet-lab verification, pharma customer neutrality, and founder signal discipline matter alongside model capability.
+
 ## [2026-07-24] ingest | 146. 不爱侏罗纪世界？快来《恐龙庇护所》当饲养员！
 
 Added source page for the 蜜獾吃书 episode on 《恐龙庇护所》, 《侏罗纪世界：重生》 dissatisfaction, dinosaur childhood memory, bird-dinosaur continuity, evidence-bound paleontological reconstruction, captive animal care labor, and dinosaurs as living animals. Created pages for 《恐龙庇护所》 / Dino Sanctuary, 《侏罗纪世界：重生》 / Jurassic World: Rebirth, Dinosaur As Living Animal, Evidence-Bound Paleontological Reconstruction, Captive Animal Care Labor, and Bird-Dinosaur Continuity; updated overview, index, 蜜獾吃书, 秦总, 北明 / 北民, Animal Welfare As Public Health, Empathy Circle Expansion, and Observation Before Inference. No direct contradiction found; the source extends animal-welfare and scientific-evidence branches into fictional dinosaur care without treating spectacle or speculation as automatically invalid.
@@ -4603,6 +4607,10 @@ Added source page for the 商业就是这样 episode on Peru's anchoveta fishery
 ## [2026-07-24] ingest | Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)
 
 Added source page for a How I Built This episode on Tom Rinks, Sun Bum, Psycho Chihuahua, the Taco Bell dispute, Rinks Canetti, DeLeon Tequila, visual brand systems, mascot-led recognition, place-based brand perception, retail displays, field sales, founder role transition, and the SC Johnson acquisition. Created pages for Sun Bum, Tom Rinks, Rene Kennedy, Rinks Canetti, DeLeon Tequila, Brent Hocking, Psycho Chihuahua, Joe Shields, Taco Bell, SC Johnson, Adam Francis, Michael LaSara, Made by Dentists, Sunny / Sun Bum Mascot, Cocoa Beach, Visual Brand System, Mascot Led Brand Recognition, Retail Display As Brand Surface, and Place Based Brand Perception; updated overview, index, How I Built This, Guy Raz, Consumer Brand Moat, Story Led Consumer Branding, Design Led Growth, CPG Distribution, Retail Shelf Placement, Packaging As Product Experience, Emotional Brand Relationship, Founder Role Transition, Post-Acquisition Founder Identity, Subculture Led Marketing, and Richard Branson. No direct contradiction found; first-person legal, product-quality, and deal-size claims remain source-scoped.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-24] lint | Wiki health check
 
