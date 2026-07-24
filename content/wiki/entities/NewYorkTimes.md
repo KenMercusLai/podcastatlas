@@ -2,8 +2,8 @@
 title: "New York Times"
 type: entity
 tags: [media, journalism]
-sources: [tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [would-you-trust-an-economist-with-your-economy, tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128]
+last_updated: 2026-07-24
 ---
 
 # New York Times
@@ -14,7 +14,11 @@ last_updated: 2026-07-23
 
 The New York Times enters the wiki through [[MikeIsaac]]'s affiliation in [[tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128]]. In this source, it functions as the reporting context behind Isaac's commentary on [[Meta]]'s AI spending, [[MetaAI|Meta AI]], [[AIAdvertisingTargeting]], [[RayBanSmartGlasses|Ray-Ban smart glasses]], and [[RealityLabs]].
 
+[[would-you-trust-an-economist-with-your-economy]] adds the New York Times through [[BenCastleman]]'s economics reporting. Castleman helps frame the [[AmericanEconomicAssociation]] panel as evidence that economists' public authority is under pressure from policy mistakes, political distrust, and the need for [[ExpertTrustRepair]].
+
 ## Connections
+- [[BenCastleman]] - economics reporter discussing trust in economists.
+- [[AmericanEconomicAssociation]], [[EconomistTrustCrisis]], and [[ExpertTrustRepair]] - economics-politics branch added by Planet Money.
 - [[ErinGriffith]] - reporter affiliated with the organization in the Marketplace Tech AEO episode.
 - [[JasmineSun]] - reporter whose peptide reporting grounds the Marketplace Tech biohacking episode.
 - [[GrayMarketPeptides]], [[ResearchChemicalLoophole]], and [[TechCultureBiohacking]] - health and technology-culture branch added through Sun's reporting.

@@ -2,7 +2,7 @@
 title: "Trust As Business Asset"
 type: concept
 tags: [governance, trust, business-model]
-sources: [tsr-s4-gusto-v3-tsr-s4-gusto-v3, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, eric-ries-incorruptible-by-design-wrgromn5peq, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7, seven-allegedly-fake-chanel-bags-vs-the-realreal]
+sources: [would-you-trust-an-economist-with-your-economy, tsr-s4-gusto-v3-tsr-s4-gusto-v3, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, 1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6, eric-ries-incorruptible-by-design-wrgromn5peq, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2, yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7, seven-allegedly-fake-chanel-bags-vs-the-realreal]
 last_updated: 2026-07-24
 ---
 
@@ -34,6 +34,8 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 
 [[seven-allegedly-fake-chanel-bags-vs-the-realreal]] adds the luxury-resale version through [[Chanel]] and [[TheRealReal]]. Chanel treats authentication, trademark control, and counterfeit policing as part of the trust asset behind its goods, while The RealReal treats its independent authentication process as the trust asset that lets a secondary marketplace function.
 
+[[would-you-trust-an-economist-with-your-economy]] adds a professional-expertise analogue through [[ExpertTrustRepair]]. In that source, trust is not a business model but it behaves like an asset: economists and statistical institutions accumulate it through reliable work, spend it through mistakes or overconfidence, and repair it only through costly signals, transparency, and accountable changes.
+
 ## Key Claims
 - Trust is not only reputational decoration; it can affect pricing, supplier cooperation, employee commitment, customer loyalty, and regulatory credibility.
 - A trustworthy company can become more tempting to redirect because others want access to the trust it accumulated.
@@ -52,6 +54,7 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 - Sensitive SaaS trust depends on whether customers believe the vendor will protect information, act within expected boundaries, and make switching possible when trust breaks.
 - Newsroom trust can be spent by opaque or generic AI writing even when the facts are useful, because readers judge whether the institution still stands behind the work.
 - Resale trust can be split between original-brand authority and marketplace operations, forcing buyers, courts, and platforms to decide whose authentication promise carries weight.
+- Expert trust behaves like an institutional asset when public confidence in data, forecasts, and professional advice affects whether people act on evidence.
 
 ## Connections
 - [[FinancialGravity]] - pressure that can redirect trust.
@@ -70,3 +73,4 @@ Trust as business asset is the idea in [[eric-ries-incorruptible-by-design-wrgro
 - [[Pulley]], [[Carta]], [[YinWu]], [[CapTableLiteracy]], and [[TrustSensitiveSaaSSwitching]] - cap-table SaaS trust branch added by the Yin Wu episode.
 - [[ThePlainDealer]], [[AIJournalismTrust]], [[AIWrittenJournalism]], [[NewsroomAIAdoption]], and [[AIContentProvenance]] - newsroom trust branch added by Marketplace Tech.
 - [[Chanel]], [[TheRealReal]], [[LuxuryResaleAuthentication]], [[BrandControlledAuthentication]], and [[TrademarkResaleBoundary]] - luxury-resale trust branch added by Planet Money.
+- [[BenHo]], [[EconomistTrustCrisis]], [[OfficialStatisticsCredibility]], and [[ExpertTrustRepair]] - professional trust-repair branch added by Planet Money.

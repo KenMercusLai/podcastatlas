@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Would you trust an economist with your economy?](sources/would-you-trust-an-economist-with-your-economy.md) — Planet Money episode on economists' trust crisis, BLS data credibility, forecasting limits, work-from-home evidence, aggregate indicators versus lived experience, and expert trust repair.
 - [Seven allegedly fake Chanel bags vs The RealReal](sources/seven-allegedly-fake-chanel-bags-vs-the-realreal.md) — Planet Money episode on Chanel, The RealReal, luxury resale authentication, trademark boundaries, first-sale doctrine, and anti-competitive resale-control claims.
 - [EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬](sources/ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u.md) — 硬地骇客 episode demystifying FDE through Palantir, OpenAI, Anthropic, CSE, Chinese 2B custom delivery, enterprise AI PMF, and model-as-control-layer software futures.
 - [A hawk who flew on political winds: Lindsey Graham](sources/a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55.md) — The Intelligence episode on Lindsey Graham's death, Republican foreign-policy adaptation, AI model value surveys and censorship, and renewed interest in Old Masters.
@@ -583,6 +584,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Ben Castleman](entities/BenCastleman.md) — New York Times economics reporter framing economists' declining authority and the AEA economics-politics panel.
+- [Jason Furman](entities/JasonFurman.md) — Policy-facing economist named on the AEA panel about economics and politics.
+- [Diane (KPMG Chief Economist)](entities/DianeKPMGChiefEconomist.md) — Source-identified KPMG chief economist discussing forecasting limits, the financial-crisis miss, BLS trust, and lived-experience data gaps.
+- [KPMG](entities/KPMG.md) — Professional-services context for the source's chief-economist forecasting and interpretation role.
+- [Bureau of Labor Statistics](entities/BureauOfLaborStatistics.md) — U.S. statistical agency used by the episode as the central official-data credibility case.
+- [Aaron Sojourner](entities/AaronSojourner.md) — Labor economist defending BLS neutrality while warning that political attacks can damage trust in official statistics.
+- [Nick Bloom](entities/NickBloom.md) — Stanford economist whose work-from-home research illustrates evidence-resistant management debate and listening-based persuasion.
+- [Ben Ho](entities/BenHo.md) — Economist and trust scholar arguing that experts need accountable, costly signals after mistakes.
+- [American Economic Association](entities/AmericanEconomicAssociation.md) — Professional association setting for the episode's economics-and-politics panel.
+- [YouGov](entities/YouGov.md) — Polling organization whose trust survey helps quantify public distrust of economists.
 - [David Autor](entities/DavidAutor.md) — MIT economist interviewed by Planet Money about the China shock, worker scarring, trade adjustment, tariffs, and industrial policy.
 - [David Dorn](entities/DavidDorn.md) — Economist named as David Autor's coauthor in the China shock research branch.
 - [Greg Rosalsky](entities/GregRosalsky.md) — Planet Money host who frames the free-trade and China shock interview with David Autor.
@@ -3906,6 +3917,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Economist Trust Crisis](concepts/EconomistTrustCrisis.md) — Professional credibility problem caused by missed forecasts, policy overconfidence, political attacks, and mismatch between economic data and lived experience.
+- [Economic Forecasting Limits](concepts/EconomicForecastingLimits.md) — Constraint that economists often cannot reliably answer short-term market or crisis predictions despite public demand for certainty.
+- [Official Statistics Credibility](concepts/OfficialStatisticsCredibility.md) — Public trust that government economic data is collected and revised through reliable, nonpartisan procedure.
+- [Aggregate Indicators Lived Experience Gap](concepts/AggregateIndicatorsLivedExperienceGap.md) — Mismatch between broad statistics such as GDP, unemployment, and inflation rates and what households actually feel.
+- [Work From Home Evidence](concepts/WorkFromHomeEvidence.md) — Job-specific evidence frame for remote, hybrid, and in-person work policy.
+- [Expert Trust Repair](concepts/ExpertTrustRepair.md) — Rebuilding expert credibility through acknowledgment, transparency, listening, and costly accountable commitments.
 - [China Shock](concepts/ChinaShock.md) — Trade shock where Chinese import growth after roughly 2001 produced concentrated and persistent U.S. manufacturing labor-market damage.
 - [Free Trade Distributional Cost](concepts/FreeTradeDistributionalCost.md) — Gap between aggregate free-trade gains and concentrated worker, firm, and regional losses.
 - [Regional Labor Market Scarring](concepts/RegionalLaborMarketScarring.md) — Long-lived local employment damage after import competition or industry loss hits a specific labor market.

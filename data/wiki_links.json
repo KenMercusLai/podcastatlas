@@ -1403,6 +1403,10 @@
     "title": "Aaron Cheung",
     "url": "/wiki/entities/aaroncheung/"
   },
+  "AaronSojourner": {
+    "title": "Aaron Sojourner",
+    "url": "/wiki/entities/aaronsojourner/"
+  },
   "AaronSwartz": {
     "title": "Aaron Swartz",
     "url": "/wiki/entities/aaronswartz/"
@@ -1803,6 +1807,10 @@
     "title": "Agentic Workflow",
     "url": "/wiki/concepts/agenticworkflow/"
   },
+  "AggregateIndicatorsLivedExperienceGap": {
+    "title": "Aggregate Indicators Lived Experience Gap",
+    "url": "/wiki/concepts/aggregateindicatorslivedexperiencegap/"
+  },
   "AgingRealityEstrangement": {
     "title": "Aging Reality Estrangement",
     "url": "/wiki/concepts/agingrealityestrangement/"
@@ -2122,6 +2130,10 @@
   "AmericanDemocraticResilience": {
     "title": "American Democratic Resilience",
     "url": "/wiki/concepts/americandemocraticresilience/"
+  },
+  "AmericanEconomicAssociation": {
+    "title": "American Economic Association",
+    "url": "/wiki/entities/americaneconomicassociation/"
   },
   "AmericanEnterpriseInstitute": {
     "title": "American Enterprise Institute",
@@ -3211,9 +3223,17 @@
     "title": "Belt and Road External Demand",
     "url": "/wiki/concepts/beltandroadexternaldemand/"
   },
+  "BenCastleman": {
+    "title": "Ben Castleman",
+    "url": "/wiki/entities/bencastleman/"
+  },
   "BenGoldhersh": {
     "title": "Ben Goldhersh",
     "url": "/wiki/entities/bengoldhersh/"
+  },
+  "BenHo": {
+    "title": "Ben Ho",
+    "url": "/wiki/entities/benho/"
   },
   "BenJordan": {
     "title": "Ben Jordan",
@@ -3762,6 +3782,10 @@
   "Bump": {
     "title": "Bump",
     "url": "/wiki/entities/bump/"
+  },
+  "BureauOfLaborStatistics": {
+    "title": "Bureau of Labor Statistics",
+    "url": "/wiki/entities/bureauoflaborstatistics/"
   },
   "BureaucraticRiskAvoidance": {
     "title": "Bureaucratic Risk Avoidance",
@@ -6407,6 +6431,10 @@
     "title": "Dexterous Manipulation",
     "url": "/wiki/concepts/dexterousmanipulation/"
   },
+  "DianeKPMGChiefEconomist": {
+    "title": "Diane (KPMG Chief Economist)",
+    "url": "/wiki/entities/dianekpmgchiefeconomist/"
+  },
   "DiasporaCapitalManufacturingClusters": {
     "title": "Diaspora Capital Manufacturing Clusters",
     "url": "/wiki/concepts/diasporacapitalmanufacturingclusters/"
@@ -7087,6 +7115,10 @@
     "title": "Economic Climate Tech Adoption",
     "url": "/wiki/concepts/economicclimatetechadoption/"
   },
+  "EconomicForecastingLimits": {
+    "title": "Economic Forecasting Limits",
+    "url": "/wiki/concepts/economicforecastinglimits/"
+  },
   "EconomicHardshipProtestTrigger": {
     "title": "Economic Hardship Protest Trigger",
     "url": "/wiki/concepts/economichardshipprotesttrigger/"
@@ -7106,6 +7138,10 @@
   "EconomistPodcasts": {
     "title": "Economist Podcasts",
     "url": "/wiki/entities/economistpodcasts/"
+  },
+  "EconomistTrustCrisis": {
+    "title": "Economist Trust Crisis",
+    "url": "/wiki/concepts/economisttrustcrisis/"
   },
   "Ecuador": {
     "title": "Ecuador",
@@ -7718,6 +7754,10 @@
   "ExperimentalScienceEthics": {
     "title": "Experimental Science Ethics",
     "url": "/wiki/concepts/experimentalscienceethics/"
+  },
+  "ExpertTrustRepair": {
+    "title": "Expert Trust Repair",
+    "url": "/wiki/concepts/experttrustrepair/"
   },
   "ExpertiseAmplifiedAIUse": {
     "title": "Expertise-Amplified AI Use",
@@ -11471,6 +11511,10 @@
     "title": "Jason / 伊阿宋",
     "url": "/wiki/entities/jason/"
   },
+  "JasonFurman": {
+    "title": "Jason Furman",
+    "url": "/wiki/entities/jasonfurman/"
+  },
   "JeanJacquesRousseau": {
     "title": "Jean-Jacques Rousseau / 卢梭",
     "url": "/wiki/entities/jeanjacquesrousseau/"
@@ -12094,6 +12138,10 @@
   "KLH": {
     "title": "KLH",
     "url": "/wiki/entities/klh/"
+  },
+  "KPMG": {
+    "title": "KPMG",
+    "url": "/wiki/entities/kpmg/"
   },
   "KPhysicalIntelligence": {
     "title": "K (Physical Intelligence)",
@@ -15427,6 +15475,10 @@
     "title": "Nicholas Pelham",
     "url": "/wiki/entities/nicholaspelham/"
   },
+  "NickBloom": {
+    "title": "Nick Bloom",
+    "url": "/wiki/entities/nickbloom/"
+  },
   "NickSwisher": {
     "title": "Nick Swisher",
     "url": "/wiki/entities/nickswisher/"
@@ -15722,6 +15774,10 @@
   "OfficeSurveillancePrivacy": {
     "title": "Office Surveillance And Privacy",
     "url": "/wiki/concepts/officesurveillanceprivacy/"
+  },
+  "OfficialStatisticsCredibility": {
+    "title": "Official Statistics Credibility",
+    "url": "/wiki/concepts/officialstatisticscredibility/"
   },
   "OfflineAIImplementation": {
     "title": "Offline AI Implementation",
@@ -23023,6 +23079,10 @@
     "title": "Wonderland Language Games",
     "url": "/wiki/concepts/wonderlandlanguagegames/"
   },
+  "WorkFromHomeEvidence": {
+    "title": "Work From Home Evidence",
+    "url": "/wiki/concepts/workfromhomeevidence/"
+  },
   "WorkFromHomeScam": {
     "title": "Work-From-Home Scam",
     "url": "/wiki/concepts/workfromhomescam/"
@@ -23626,6 +23686,10 @@
   "YosanoAkiko": {
     "title": "Yosano Akiko / 与谢野晶子",
     "url": "/wiki/entities/yosanoakiko/"
+  },
+  "YouGov": {
+    "title": "YouGov",
+    "url": "/wiki/entities/yougov/"
   },
   "YouShengDianYing": {
     "title": "《有声电影》",
@@ -25634,6 +25698,10 @@
   "women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1": {
     "title": "我们把 AI 塞进花店后，才知道AI落地有多脏",
     "url": "/wiki/sources/women-ba-ai-sai-jin-huadian-hou-cai-zhidao-ai-luodi-you-duo-zang-1/"
+  },
+  "would-you-trust-an-economist-with-your-economy": {
+    "title": "Would you trust an economist with your economy?",
+    "url": "/wiki/sources/would-you-trust-an-economist-with-your-economy/"
   },
   "wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d": {
     "title": "WWDC 26 补上了 AI，但离真正的 AI 助手还差什么？｜ S10E15",

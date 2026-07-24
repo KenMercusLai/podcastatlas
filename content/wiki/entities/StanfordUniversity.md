@@ -2,8 +2,8 @@
 title: "Stanford University"
 type: entity
 tags: [university, research, ai, startups]
-sources: [tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, tsr-s4-tylershultzpart1-final-tsr-s4-tylershultzpart1-final, e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-garrytan-final, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, socialradarspod-tonyxu-final, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]
-last_updated: 2026-07-23
+sources: [would-you-trust-an-economist-with-your-economy, tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3, tsr-s4-tylershultzpart1-final-tsr-s4-tylershultzpart1-final, e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tsr-s5-christinac-v2audio-tsr-s5-christinac-v2audio, tsr-s4-ronconway-part3-v2-tsr-s4-ronconway-part3-v2, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-garrytan-final, using-ai-chatbots-for-mental-health-support-poses-serious-risks-for-teens-report-finds, socialradarspod-tonyxu-final, 160-youxiu-de-mianyang-qing-ba-shuo-bu-de-quanli-huan-gei-wo-933088014, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611]
+last_updated: 2026-07-24
 ---
 
 # Stanford University
@@ -34,6 +34,8 @@ In this wiki branch, Stanford's first role was institutional rather than biograp
 
 [[tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3]] extends the Stanford branch from baseline to recovery. Tyler says he worked heavily in a Stanford lab during the legal-pressure period, and that the technology he later worked on was spun out into a startup. In this source, Stanford is one of the few stable work contexts available while [[WhistleblowerLegalIntimidation]] narrowed his social life.
 
+[[would-you-trust-an-economist-with-your-economy]] adds Stanford through [[NickBloom]]'s work-from-home research. The episode uses Bloom's job-specific evidence to show that economists can face distrust from executives as well as politicians, especially when data challenges career-formed intuitions about offices and productivity.
+
 ## Connections
 - [[CommonSenseMedia]] - co-cited report source in the episode.
 - [[DariaGeorgievich]] - expert interviewed about chatbot testing.
@@ -49,3 +51,4 @@ In this wiki branch, Stanford's first role was institutional rather than biograp
 - [[Google]], [[LarryPage]], [[SergeyBrin]], [[DavidCheriton]], [[RajivMotwani]], and [[StanfordStartupSourcing]] - search and investor-sourcing branch added by the Conway Part 3 episode.
 - [[PeterThiel]], [[StanfordReview]], [[CampusConservativeMediaNetwork]], and [[OlinFoundation]] - campus conservative-media branch added by Silicon Valley 101.
 - [[TylerShultz]], [[Theranos]], [[ElizabethHolmes]], [[MedicalTestingValidationIntegrity]], and [[WhistleblowerLegalIntimidation]] - Theranos whistleblowing branch added by The Social Radars.
+- [[NickBloom]], [[WorkFromHomeEvidence]], [[Amazon]], and [[ExpertTrustRepair]] - workplace-policy evidence branch added by Planet Money.

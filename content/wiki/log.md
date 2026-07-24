@@ -4671,3 +4671,11 @@ Added source page for a Planet Money episode with Greg Rosalsky and David Autor 
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | Would you trust an economist with your economy?
+
+Added source page for a Planet Money episode on economists' trust crisis, BLS data credibility, forecasting limits, work-from-home evidence, aggregate indicators versus lived experience, and expert trust repair. Created pages for Ben Castleman, Jason Furman, Diane (KPMG Chief Economist), KPMG, Bureau of Labor Statistics, Aaron Sojourner, Nick Bloom, Ben Ho, American Economic Association, YouGov, Economist Trust Crisis, Economic Forecasting Limits, Official Statistics Credibility, Aggregate Indicators Lived Experience Gap, Work From Home Evidence, and Expert Trust Repair; updated overview, index, NPR, Planet Money, Oren Cass, Donald Trump, New York Times, Stanford University, Amazon, Civil Service Continuity, China Shock, Free Trade Distributional Cost, Economic Way Of Thinking, Trust As Business Asset, and Game Theory. No direct contradiction found; the source extends the China-shock correction into a broader trust-repair frame where expert authority depends on humility, protected data institutions, lived-experience measurement, and costly accountable signals.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

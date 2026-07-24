@@ -2,7 +2,7 @@
 title: "China Shock"
 type: concept
 tags: [trade, labor, manufacturing, china, united-states]
-sources: [why-economists-got-free-trade-with-china-so-wrong]
+sources: [would-you-trust-an-economist-with-your-economy, why-economists-got-free-trade-with-china-so-wrong]
 last_updated: 2026-07-24
 ---
 
@@ -12,15 +12,19 @@ China shock is the source's term for the surge of Chinese imports into the [[Uni
 
 The concept matters because it turns free trade from an aggregate welfare claim into a distributional and geographic problem. Consumers and the economy can gain overall while particular workers, industries, and regions absorb losses that do not self-repair quickly.
 
+[[would-you-trust-an-economist-with-your-economy]] reframes the same China-shock mistake as part of [[EconomistTrustCrisis]]. In that source, [[OrenCass]] treats economists' past confidence around free trade with [[China]] as one reason politicians and voters no longer grant the profession automatic policy authority.
+
 ## Key Claims
 - Chinese goods were sold nationally, but the U.S. industries that would have made those goods were geographically concentrated.
 - Lower-tech, labor-intensive manufacturing such as textiles, toys, and commodity furniture was especially exposed.
 - Regional labor markets with greater prior exposure to goods where China gained global market share saw larger manufacturing decline.
 - The shock produced unemployment, non-participation, transfer-benefit use, and weaker labor-force participation among less-educated prime-age men.
 - The concept supports [[FreeTradeDistributionalCost]] without proving that all free trade is bad or that tariffs are an effective repair.
+- The later trust-crisis source shows that professional underestimation can become a legitimacy problem, not only an academic correction.
 
 ## Connections
 - [[China]] and [[UnitedStates]] - trade-counterparty and labor-market setting.
 - [[DavidAutor]], [[DavidDorn]], and [[GordonHansen|Gordon Hanson]] - research actors named in the source.
 - [[RegionalLaborMarketScarring]] and [[PeopleVersusPlacesRecovery]] - main consequences.
 - [[BlanketTariffLimit]], [[StrategicIndustrialPolicy]], and [[TradeAdjustmentAssistance]] - policy-response branch.
+- [[OrenCass]], [[AmericanEconomicAssociation]], and [[EconomistTrustCrisis]] - trust-crisis extension added by Planet Money.

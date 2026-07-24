@@ -2,7 +2,7 @@
 title: "Economic Way Of Thinking"
 type: concept
 tags: [economics, reasoning, decision-making, education]
-sources: [155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
+sources: [would-you-trust-an-economist-with-your-economy, 155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
 last_updated: 2026-07-24
 ---
 
@@ -14,6 +14,8 @@ The concept matters because the source refuses two weak versions of economics: f
 
 [[155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210]] adds an applied behavioral version through [[ChangdehaokanNengDangFanChiMa|《长得好看能当饭吃吗》]]. The episode keeps the same ordinary-life economics posture but shifts attention to [[EverydayBehavioralEconomics]], showing how [[LossAversion]], [[MentalAccounting]], [[PriceElasticity]], [[FreeServiceHiddenCost]], and [[BeautyEconomics]] can help people interpret purchases, subsidies, earning models, and appearance pressure without reducing everything to moral blame.
 
+[[would-you-trust-an-economist-with-your-economy]] adds a humility boundary. Economics remains useful as a way to reason about data, incentives, and tradeoffs, but the episode warns that economists lose trust when the reasoning posture turns into overconfident authority, ignores [[AggregateIndicatorsLivedExperienceGap]], or fails to acknowledge [[EconomicForecastingLimits]].
+
 ## Key Claims
 - Economics can be taught from everyday coordination before formal models.
 - The useful question is often not "what is important in general" but "what is the relevant tradeoff in this situation?"
@@ -21,6 +23,7 @@ The concept matters because the source refuses two weak versions of economics: f
 - Seeing costs, incentives, and constraints does not cancel moral concern; it makes policy and personal choices more discussable.
 - Economic thinking helps ordinary readers understand work, study, consumption, cooperation, and social order without handing decisions to an authority.
 - Episode 155 adds that economics also helps separate visible cash price from hidden time, attention, quality, social, or appearance costs.
+- The economist-trust source adds that economics needs transparent uncertainty and lived-experience checks if it wants public authority.
 
 ## Connections
 - [[TheEconomicWayOfThinking|《经济学的思维方式》 / The Economic Way of Thinking]], [[PaulHeyne|Paul Heyne / 保罗·海恩]], and [[LiangJie|梁杰]] - source, author, and interpreter.
@@ -28,3 +31,4 @@ The concept matters because the source refuses two weak versions of economics: f
 - [[MarketCoordination]], [[DispersedInformationProblem]], [[ComparativeAdvantage]], and [[SubjectiveValue]] - social-order and exchange tools.
 - [[EverydayBehavioralEconomics]], [[LossAversion]], [[MentalAccounting]], and [[BeautyEconomics]] - episode-155 applied behavior and appearance extension.
 - [[LearningHowToLearn]], [[CollegeMajorChoice]], and [[RationalHumility]] - existing wiki concepts extended by this source.
+- [[EconomistTrustCrisis]], [[EconomicForecastingLimits]], [[OfficialStatisticsCredibility]], and [[AggregateIndicatorsLivedExperienceGap]] - trust and measurement branch added by Planet Money.
