@@ -2,8 +2,8 @@
 title: "League Stakeholder Alignment"
 type: concept
 tags: [sports, governance, strategy, incentives]
-sources: [can-world-cup-mania-grow-mls-in-the-us, diary-of-a-wnba-negotiator, formula-1-1, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan]
-last_updated: 2026-07-18
+sources: [planet-money-vs-the-nbas-tanking-problem, can-world-cup-mania-grow-mls-in-the-us, diary-of-a-wnba-negotiator, formula-1-1, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan]
+last_updated: 2026-07-24
 ---
 
 # League Stakeholder Alignment
@@ -22,6 +22,8 @@ The source argues that [[FormulaOne]] became more valuable when [[LibertyMedia]]
 
 [[can-world-cup-mania-grow-mls-in-the-us]] adds the domestic-league marketing version through [[MajorLeagueSoccer]]. Alignment here means league headquarters, host-city clubs, non-host-city clubs, facilities, fans, sponsors, and elite players all need different bridges from the same [[FIFAWorldCup]] attention spike into durable MLS value.
 
+[[planet-money-vs-the-nbas-tanking-problem]] adds the rule-design version through [[NationalBasketballAssociation|NBA]] tanking. Alignment here means weak teams need hope, fans need real late-season competition, owners need a credible rebuild path, and incoming players may need [[SportsPlayerAutonomy]] rather than only assignment through draft order.
+
 ## Key Claims
 - Teams need enough economics to keep investing and showing up.
 - Promoters need events that can work locally, not just fees extracted by the league.
@@ -32,7 +34,8 @@ The source argues that [[FormulaOne]] became more valuable when [[LibertyMedia]]
 - Elite football can also misalign when owners, banks, rights intermediaries, and global sponsors benefit from valuation growth while local fans face higher prices, debt anxiety, and weaker access.
 - Player labor can become an alignment problem when athlete attention and performance drive media-rights growth but compensation does not move with revenue.
 - Domestic leagues can also misalign around major events if host-city clubs, non-host cities, headquarters, players, and casual fans cannot convert a shared attention spike into repeat local demand.
+- Draft rules can misalign stakeholders when losing becomes a rational path to future talent even though the league, fans, and many players need teams to keep competing.
 
 ## Connections
-- [[FormulaOne]], [[FormulaOneGroup]], [[FIA]], [[BernieEcclestone]], [[LibertyMedia]], [[FIFA]], [[UEFA]], [[GianniInfantino]], [[MajorLeagueSoccer]], [[SeattleSounders]], [[NewEnglandRevolution]], [[ChicagoFire]], [[JumillaCF]], [[PremierLeague]], [[RelevantSports]], [[WNBA]], and [[WNBAPlayersAssociation]] - source cases.
-- [[RacePromotionFees]], [[CostCapEconomics]], [[WorldCupExpansion]], [[GlobalSportsGovernance]], [[SportsMediaRights]], [[MajorEventAttentionConversion]], [[SportsFandomNetworkEffects]], [[FootballClubAsCommunityAsset]], [[FootballClubControlRisk]], [[SportsEntertainmentFlywheel]], [[AmericanSportsCapitalInEuropeanFootball]], [[DeFactoSuperLeagueLogic]], [[FootballCommercializationFanConflict]], [[SportsLaborRevenueSharing]], and [[SportsCollectiveBargaining]] - mechanisms of alignment.
+- [[FormulaOne]], [[FormulaOneGroup]], [[FIA]], [[BernieEcclestone]], [[LibertyMedia]], [[FIFA]], [[UEFA]], [[GianniInfantino]], [[MajorLeagueSoccer]], [[SeattleSounders]], [[NewEnglandRevolution]], [[ChicagoFire]], [[JumillaCF]], [[PremierLeague]], [[RelevantSports]], [[WNBA]], [[WNBAPlayersAssociation]], and [[NationalBasketballAssociation]] - source cases.
+- [[RacePromotionFees]], [[CostCapEconomics]], [[WorldCupExpansion]], [[GlobalSportsGovernance]], [[SportsMediaRights]], [[MajorEventAttentionConversion]], [[SportsFandomNetworkEffects]], [[FootballClubAsCommunityAsset]], [[FootballClubControlRisk]], [[SportsEntertainmentFlywheel]], [[AmericanSportsCapitalInEuropeanFootball]], [[DeFactoSuperLeagueLogic]], [[FootballCommercializationFanConflict]], [[SportsLaborRevenueSharing]], [[SportsCollectiveBargaining]], [[SportsDraftIncentiveDesign]], [[SportsTanking]], [[SportsCompetitiveBalance]], and [[SportsPlayerAutonomy]] - mechanisms of alignment.

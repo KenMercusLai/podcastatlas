@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Planet Money vs. the NBA's tanking problem](sources/planet-money-vs-the-nbas-tanking-problem.md) — Planet Money episode on NBA tanking, draft lottery incentives, the draft wheel, the Gold Plan, the PWHL, the NWSL no-draft model, and player autonomy.
 - [The Business of Heated Rivalry](sources/the-business-of-heated-rivalry.md) — Planet Money episode on Heated Rivalry, Canadian television financing, producer-owned IP, low-budget production discipline, international distribution, attentive streaming storytelling, and AI as a production tool rather than creative engine.
 - [Don't hate the replicator, hate the game](sources/dont-hate-the-replicator-hate-the-game.md) — Planet Money episode on Abel Brodeur, the Replication Games, p-hacking, publication bias, replication packages, robustness checks, and research integrity incentives.
 - [The ICE hiring boom](sources/the-ice-hiring-boom.md) — Planet Money episode on ICE hiring, disputed training, field culture, detention expansion, private detention contracts, and Folkston, Georgia's detention-linked local economy.
@@ -2297,6 +2298,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [American Archive of Public Broadcasting](entities/AmericanArchiveOfPublicBroadcasting.md) — Public archive where recovered WIPR recordings became accessible after Digital Bedrock restored old LTO backups.
 - [Jontay Porter](entities/JontayPorter.md) — NBA player whose 2024 betting scandal grounds the episode's comparison between sportsbook monitoring and prediction-market integrity.
 - [National Basketball Association](entities/NationalBasketballAssociation.md) — League context for the Porter betting scandal and the source's sports-integrity comparison.
+- [Adam Silver](entities/AdamSilver.md) — NBA commissioner whose comments frame tanking as a league incentive-design problem.
+- [Zach Lowe](entities/ZachLowe.md) — NBA expert in the Planet Money tanking episode explaining draft incentives and reform proposals.
+- [Houston Rockets](entities/HoustonRockets.md) — NBA team used as the historical example of how tanking can pay off through a top draft pick.
+- [Professional Women's Hockey League](entities/ProfessionalWomensHockeyLeague.md) — Women's hockey league used as the Gold Plan implementation case in the NBA tanking episode.
+- [Jaina Hefford](entities/JainaHefford.md) — PWHL executive explaining the Gold Plan and its post-elimination win incentives.
+- [Adam Gold](entities/AdamGold.md) — Designer associated with the Gold Plan draft-order mechanism.
+- [National Women's Soccer League](entities/NationalWomensSoccerLeague.md) — U.S. women's soccer league used as the no-draft player-market comparison.
+- [Sam Uys](entities/SamUys.md) — Women's soccer commentator framing no-draft reform through player autonomy.
 - [DraftKings](entities/DraftKings.md) — Sportsbook named in the Porter case as part of the trackable wager-data environment.
 - [Matthew Holt](entities/MatthewHolt.md) — Sports-betting integrity expert explaining suspicious wager patterns and licensed sportsbook monitoring.
 - [Ben Schifrin](entities/BenSchifrin.md) — Better Markets expert framing prediction markets as a regulatory mismatch for the CFTC when event contracts create corruption risk.
@@ -4577,6 +4586,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Domestic AI Chip Catch-Up](concepts/DomesticAIChipCatchUp.md) — China-focused AI-chip substitution challenge across design talent, EDA, fabrication, yield, packaging, software ecosystems, and cost-effective scale.
 - [Major-Event Attention Conversion](concepts/MajorEventAttentionConversion.md) — Strategy of converting a temporary major-event attention spike into durable customers, local loyalty, repeat attendance, or revenue.
 - [Sports Fandom Network Effects](concepts/SportsFandomNetworkEffects.md) — Feedback loop where a team, league, or event becomes more valuable to each fan when visible local communities also care.
+- [Sports Draft Incentive Design](concepts/SportsDraftIncentiveDesign.md) — Draft-order design problem of helping weak teams without making losing rational.
+- [Sports Tanking](concepts/SportsTanking.md) — Deliberate weakening of competitive effort because losing can improve future draft position.
+- [Draft Lottery Tradeoff](concepts/DraftLotteryTradeoff.md) — Tension between discouraging tanking and giving genuinely weak teams a recovery path.
+- [Draft Wheel](concepts/DraftWheel.md) — Predetermined draft-order proposal that removes the link between season record and pick position.
+- [Gold Plan](concepts/GoldPlan.md) — Draft mechanism where eliminated teams improve draft position by winning after elimination.
+- [No-Draft Player Market](concepts/NoDraftPlayerMarket.md) — Player-allocation model where incoming players negotiate directly with teams instead of entering a draft.
+- [Sports Player Autonomy](concepts/SportsPlayerAutonomy.md) — Player-rights frame for judging draft systems by athlete choice, location, and development environment.
+- [Sports Competitive Balance](concepts/SportsCompetitiveBalance.md) — League-design goal of preserving weak-team hope and credible competition without rewarding deliberate losing.
 - [Israeli Election 2026](concepts/IsraeliElection2026.md) — Election frame for post-October-7 judgment on Netanyahu, war leadership, opposition coalition viability, conscription, education, and strategic avoidance.
 - [Haredi Conscription](concepts/HarediConscription.md) — Israeli burden-sharing dispute over ultra-Orthodox military-service exemptions and their campaign role.
 - [Palestinian Question in Israeli Politics](concepts/PalestinianQuestionInIsraeliPolitics.md) — Source frame for the central Palestinian issue being avoided in Israeli election campaigning despite West Bank risk.

@@ -1527,6 +1527,10 @@
     "title": "Adam Francis",
     "url": "/wiki/entities/adamfrancis/"
   },
+  "AdamGold": {
+    "title": "Adam Gold",
+    "url": "/wiki/entities/adamgold/"
+  },
   "AdamGoldstein": {
     "title": "Adam Goldstein",
     "url": "/wiki/entities/adamgoldstein/"
@@ -1534,6 +1538,10 @@
   "AdamRosendorff": {
     "title": "Adam Rosendorff",
     "url": "/wiki/entities/adamrosendorff/"
+  },
+  "AdamSilver": {
+    "title": "Adam Silver",
+    "url": "/wiki/entities/adamsilver/"
   },
   "AdamSmith": {
     "title": "Adam Smith / 亚当·斯密",
@@ -7023,6 +7031,14 @@
     "title": "DraftKings",
     "url": "/wiki/entities/draftkings/"
   },
+  "DraftLotteryTradeoff": {
+    "title": "Draft Lottery Tradeoff",
+    "url": "/wiki/concepts/draftlotterytradeoff/"
+  },
+  "DraftWheel": {
+    "title": "Draft Wheel",
+    "url": "/wiki/concepts/draftwheel/"
+  },
   "DragonNationalSymbolInvention": {
     "title": "Dragon National Symbol Invention / 龙的民族象征发明",
     "url": "/wiki/concepts/dragonnationalsymbolinvention/"
@@ -9519,6 +9535,10 @@
     "title": "Gold Monetary Anchor",
     "url": "/wiki/concepts/goldmonetaryanchor/"
   },
+  "GoldPlan": {
+    "title": "Gold Plan",
+    "url": "/wiki/concepts/goldplan/"
+  },
   "GoldenDawn": {
     "title": "Golden Dawn / 金色黎明",
     "url": "/wiki/entities/goldendawn/"
@@ -10727,6 +10747,10 @@
     "title": "Housing Restriction Backfire",
     "url": "/wiki/concepts/housingrestrictionbackfire/"
   },
+  "HoustonRockets": {
+    "title": "Houston Rockets",
+    "url": "/wiki/entities/houstonrockets/"
+  },
   "Houyhnhnms": {
     "title": "慧骃 / Houyhnhnms",
     "url": "/wiki/entities/houyhnhnms/"
@@ -11638,6 +11662,10 @@
   "JacquesLouisDavid": {
     "title": "Jacques-Louis David / 雅克-路易·大卫",
     "url": "/wiki/entities/jacqueslouisdavid/"
+  },
+  "JainaHefford": {
+    "title": "Jaina Hefford",
+    "url": "/wiki/entities/jainahefford/"
   },
   "JajuPierogi": {
     "title": "Jaju Pierogi",
@@ -15615,6 +15643,10 @@
     "title": "National Student Clearinghouse Research Center",
     "url": "/wiki/entities/nationalstudentclearinghouseresearchcenter/"
   },
+  "NationalWomensSoccerLeague": {
+    "title": "National Women's Soccer League",
+    "url": "/wiki/entities/nationalwomenssoccerleague/"
+  },
   "NationalistGovernment": {
     "title": "Nationalist Government / 国民政府",
     "url": "/wiki/entities/nationalistgovernment/"
@@ -15874,6 +15906,10 @@
   "NoBetterLife": {
     "title": "No Better Life",
     "url": "/wiki/concepts/nobetterlife/"
+  },
+  "NoDraftPlayerMarket": {
+    "title": "No-Draft Player Market",
+    "url": "/wiki/concepts/nodraftplayermarket/"
   },
   "NoExit": {
     "title": "No Exit / 《禁闭》",
@@ -17779,6 +17815,10 @@
     "title": "Professional Dignity Beyond Patient Identity",
     "url": "/wiki/concepts/professionaldignitybeyondpatientidentity/"
   },
+  "ProfessionalWomensHockeyLeague": {
+    "title": "Professional Women's Hockey League",
+    "url": "/wiki/entities/professionalwomenshockeyleague/"
+  },
   "ProfitAndCashFlowQuality": {
     "title": "Profit And Cash Flow Quality",
     "url": "/wiki/concepts/profitandcashflowquality/"
@@ -19291,6 +19331,10 @@
     "title": "Sam Bankman-Fried",
     "url": "/wiki/entities/sambankmanfried/"
   },
+  "SamUys": {
+    "title": "Sam Uys",
+    "url": "/wiki/entities/samuys/"
+  },
   "SameDev": {
     "title": "Same.Dev",
     "url": "/wiki/entities/samedev/"
@@ -20527,6 +20571,14 @@
     "title": "Sports Collective Bargaining",
     "url": "/wiki/concepts/sportscollectivebargaining/"
   },
+  "SportsCompetitiveBalance": {
+    "title": "Sports Competitive Balance",
+    "url": "/wiki/concepts/sportscompetitivebalance/"
+  },
+  "SportsDraftIncentiveDesign": {
+    "title": "Sports Draft Incentive Design",
+    "url": "/wiki/concepts/sportsdraftincentivedesign/"
+  },
   "SportsEntertainmentFlywheel": {
     "title": "Sports Entertainment Flywheel",
     "url": "/wiki/concepts/sportsentertainmentflywheel/"
@@ -20551,6 +20603,10 @@
     "title": "Sports Media Rights",
     "url": "/wiki/concepts/sportsmediarights/"
   },
+  "SportsPlayerAutonomy": {
+    "title": "Sports Player Autonomy",
+    "url": "/wiki/concepts/sportsplayerautonomy/"
+  },
   "SportsPoliticalInterference": {
     "title": "Sports Political Interference",
     "url": "/wiki/concepts/sportspoliticalinterference/"
@@ -20558,6 +20614,10 @@
   "SportsRightsGrowthEngine": {
     "title": "Sports Rights Growth Engine",
     "url": "/wiki/concepts/sportsrightsgrowthengine/"
+  },
+  "SportsTanking": {
+    "title": "Sports Tanking",
+    "url": "/wiki/concepts/sportstanking/"
   },
   "SportsbookIntegrityMonitoring": {
     "title": "Sportsbook Integrity Monitoring",
@@ -24415,6 +24475,10 @@
     "title": "Zach Edwards",
     "url": "/wiki/entities/zachedwards/"
   },
+  "ZachLowe": {
+    "title": "Zach Lowe",
+    "url": "/wiki/entities/zachlowe/"
+  },
   "Zed": {
     "title": "Zed",
     "url": "/wiki/entities/zed/"
@@ -25486,6 +25550,10 @@
   "peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf": {
     "title": "Peace fire: further US-Iran strikes",
     "url": "/wiki/sources/peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf/"
+  },
+  "planet-money-vs-the-nbas-tanking-problem": {
+    "title": "Planet Money vs. the NBA's tanking problem",
+    "url": "/wiki/sources/planet-money-vs-the-nbas-tanking-problem/"
   },
   "putins-options-an-oligarch-speaks-out-6a50c5ebbafe2fa6a7f38210": {
     "title": "Putin's options: an oligarch speaks out",

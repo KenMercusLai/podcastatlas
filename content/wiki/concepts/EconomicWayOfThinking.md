@@ -2,7 +2,7 @@
 title: "Economic Way Of Thinking"
 type: concept
 tags: [economics, reasoning, decision-making, education]
-sources: [dont-hate-the-replicator-hate-the-game, would-you-trust-an-economist-with-your-economy, 155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
+sources: [planet-money-vs-the-nbas-tanking-problem, dont-hate-the-replicator-hate-the-game, would-you-trust-an-economist-with-your-economy, 155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
 last_updated: 2026-07-24
 ---
 
@@ -18,6 +18,8 @@ The concept matters because the source refuses two weak versions of economics: f
 
 [[dont-hate-the-replicator-hate-the-game]] adds a reflexive version: economists can use incentive analysis on their own profession. [[PublicationBias]], [[StatisticalSignificanceThreshold|significance thresholds]], journal rules, and the expected chance of replication all shape what researchers choose to test, submit, document, and defend.
 
+[[planet-money-vs-the-nbas-tanking-problem]] adds a sports-design version: rules create incentives whether or not the resulting behavior feels fair. The episode uses [[SportsTanking]] to show that economic thinking can diagnose why a league gets behavior it dislikes when its [[SportsDraftIncentiveDesign|draft design]] rewards losing.
+
 ## Key Claims
 - Economics can be taught from everyday coordination before formal models.
 - The useful question is often not "what is important in general" but "what is the relevant tradeoff in this situation?"
@@ -27,6 +29,7 @@ The concept matters because the source refuses two weak versions of economics: f
 - Episode 155 adds that economics also helps separate visible cash price from hidden time, attention, quality, social, or appearance costs.
 - The economist-trust source adds that economics needs transparent uncertainty and lived-experience checks if it wants public authority.
 - The replication-games source adds that economics should examine the incentives and information asymmetries inside its own knowledge-production system.
+- The NBA tanking source adds that institutional rules should be judged by the behavior they make rational, not only by the intention behind the rule.
 
 ## Connections
 - [[TheEconomicWayOfThinking|《经济学的思维方式》 / The Economic Way of Thinking]], [[PaulHeyne|Paul Heyne / 保罗·海恩]], and [[LiangJie|梁杰]] - source, author, and interpreter.
@@ -36,3 +39,4 @@ The concept matters because the source refuses two weak versions of economics: f
 - [[LearningHowToLearn]], [[CollegeMajorChoice]], and [[RationalHumility]] - existing wiki concepts extended by this source.
 - [[EconomistTrustCrisis]], [[EconomicForecastingLimits]], [[OfficialStatisticsCredibility]], and [[AggregateIndicatorsLivedExperienceGap]] - trust and measurement branch added by Planet Money.
 - [[ReplicationCrisis]], [[PHacking]], [[PublicationBias]], [[ReplicationGames]], and [[ResearchIntegrityIncentives]] - reflexive incentive-analysis branch added by Planet Money.
+- [[SportsTanking]], [[SportsDraftIncentiveDesign]], [[DraftLotteryTradeoff]], [[DraftWheel]], and [[GoldPlan]] - sports mechanism-design branch added by Planet Money.

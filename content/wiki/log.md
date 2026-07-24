@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-24] ingest | Planet Money vs. the NBA's tanking problem
+
+Added source page for a Planet Money episode on NBA tanking, draft lottery incentives, the draft wheel, the Gold Plan, the PWHL, the NWSL no-draft model, and player autonomy. Created pages for Adam Silver, Zach Lowe, Houston Rockets, Professional Women's Hockey League, Jaina Hefford, Adam Gold, National Women's Soccer League, Sam Uys, Sports Draft Incentive Design, Sports Tanking, Draft Lottery Tradeoff, Draft Wheel, Gold Plan, No-Draft Player Market, Sports Player Autonomy, and Sports Competitive Balance; updated overview, index, NPR, Planet Money, National Basketball Association, League Stakeholder Alignment, Sports Entertainment Flywheel, and Economic Way Of Thinking. No direct contradiction found; the source extends the sports-business branch by showing that league rules can make losing rational and that every anti-tanking fix shifts costs among weak teams, fans, owners, small markets, and incoming players.
+
 ## [2026-07-24] ingest | Don't hate the replicator, hate the game
 
 Added source page for a Planet Money episode on Abel Brodeur, the Institute for Replication, Replication Games, p-hacking, publication bias, replication packages, preregistration, robustness checks, and research-integrity incentives. Created pages for Abel Brodeur, Institute for Replication, Replication Games, University of Ottawa, Replication Crisis, P-Hacking, Publication Bias, Statistical Significance Threshold, Replication Package, Preregistration, Robustness Checks, Crowdsourced Academic Auditing, and Research Integrity Incentives; updated overview, index, NPR, Planet Money, Scientific Self-Correction, Scientific Skepticism, Observation Before Inference, Asymmetric Information, Economist Trust Crisis, Expert Trust Repair, and Economic Way Of Thinking. No direct contradiction found; the source complements the existing economist-trust branch by showing that professional credibility also depends on reproducible code, inspectable data, and credible odds of replication.
@@ -4779,3 +4783,7 @@ Added source page for a Planet Money episode on Heated Rivalry, Canadian televis
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 6,614 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not configured with a provider-qualified model. Report returned in-session; `wiki/lint-report.md` was not saved.
