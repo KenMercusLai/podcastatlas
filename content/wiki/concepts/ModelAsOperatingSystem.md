@@ -2,8 +2,8 @@
 title: "Model As Operating System"
 type: concept
 tags: [ai, platforms, agents, strategy]
-sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz]
-last_updated: 2026-07-08
+sources: [136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u]
+last_updated: 2026-07-24
 ---
 
 # Model As Operating System
@@ -11,6 +11,8 @@ last_updated: 2026-07-08
 Model as operating system is the thesis in [[136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v]] that leading AI models may become the next platform layer for work, life, research, and software ecosystems. The source compares this role to Windows, iOS, Android, WeChat, and Google-scale infrastructure, but argues that models may be broader because they can support applications, agents, scientific work, and everyday task automation.
 
 [[142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz]] provides a related but distinct layer: [[DaiYusen]] compares [[AgentHarness]] to an operating system around a model-as-processor. Together the two sources imply that the future platform may be a stack: frontier models provide general capability, while harnesses, memory, permissions, tools, context, and workflow history decide how that capability becomes a usable operating environment.
+
+[[ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u]] qualifies the operating-system thesis from an enterprise software angle. The episode argues that large models are unlikely to simply eat all software because applications remain more efficient, controllable, and cost-effective when wrapped around concrete workflows. A model or agent can still become OS-like by connecting software, coordinating cross-system tasks, and discovering enterprise product-market fit through [[ForwardDeployedEngineer]] work.
 
 ## Key Claims
 - A leading model can become platform infrastructure if it is where users route work, search, planning, coding, research, service fulfillment, and agent delegation.
@@ -20,6 +22,7 @@ Model as operating system is the thesis in [[136-quanqiu-da-moxing-jibao-di-9-ji
 - [[ModelProviderToolCompetition]] intensifies under this thesis because model companies have reason to move up from APIs into tools, browsers, terminals, and operating-system-like surfaces.
 - [[AIInvestmentMetrics]] under this thesis should include high-value task usage, token demand, retention through context, workflow lock-in, and downstream customer outcomes.
 - The platform thesis also raises [[AICommercializationPressure]]: only a few organizations may be able to fund continuous SOTA model work, compute supply, product distribution, and ecosystem development.
+- In enterprise software, the OS analogy may mean controlling and coordinating existing applications rather than replacing every workflow application outright.
 
 ## Connections
 - [[Anthropic]], [[OpenAI]], [[Google]], [[Meta]], and [[XAI]] — frontier model companies discussed as possible platform-level competitors.
@@ -28,3 +31,4 @@ Model as operating system is the thesis in [[136-quanqiu-da-moxing-jibao-di-9-ji
 - [[AGIThreeActs]] — route from chatbot to coding agent to AI researcher that makes the platform role plausible.
 - [[SmartphoneOperatingSystemEcosystems]], [[ChineseDomesticOperatingSystems]], and [[XinchuangOperatingSystems]] — older OS and platform branches useful for comparison.
 - [[AICommercializationPressure]], [[AIInvestmentMetrics]], and [[AIEconomicDiffusion]] — business and adoption tests for the platform thesis.
+- [[ForwardDeployedEngineer]], [[AgenticWorkflow]], and [[CodingAgentAsUniversalActionLayer]] — enterprise deployment and control-layer qualification added by the 硬地骇客 source.

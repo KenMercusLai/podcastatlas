@@ -2,8 +2,8 @@
 title: "Palantir"
 type: entity
 tags: [company, software, enterprise]
-sources: [e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, socialradarspod-garrytan-final, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde]
-last_updated: 2026-07-23
+sources: [e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d, tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, socialradarspod-garrytan-final, openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u]
+last_updated: 2026-07-24
 ---
 
 # Palantir
@@ -11,6 +11,8 @@ last_updated: 2026-07-23
 [[e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d]] adds Palantir to the [[PeterThiel]] ideology and politics branch. The [[SiliconValley101]] episode links Palantir's founding logic to [[CarlSchmitt]], 9/11, and [[ExceptionStateSurveillanceTechnology]]: in this interpretation, data search and surveillance tools become a way for government to act under exceptional conditions when liberal procedure is judged too slow or naive.
 
 Palantir is referenced in [[openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai-de-xin-gangwei-chuxian-jiu-fengong-songdong-duitan-rolling-ai-ljlatrjimrlnbe-luqmat0c74xo6]] as the origin context for the [[ForwardDeployedEngineer]] role. In the episode's framing, Palantir-style deployment means sending engineers into customer organizations to understand local workflows, build tailored systems, and make software operational in practice. [[e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde]] reinforces this lineage through [[Jove]]'s account of complex government and enterprise customers, temporary APIs, and the need to understand data and requirements on site.
+
+[[ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u]] adds more detail to the Palantir lineage. The [[YingdiHaike|硬地骇客]] episode describes Palantir's Echo/Delta split as a sign that forward deployment combines business interpretation and engineering delivery, then uses Chinese [[EnterpriseCustomDelivery]] to argue that Palantir's customer-specific implementation problem is not mystical. What matters is whether field learning returns to reusable product rather than remaining one-off project work.
 
 [[socialradarspod-garrytan-final]] adds [[GarryTan]]'s early Palantir experience. Tan says he initially resisted work framed around surveillance and government agencies, later joined when the work was presented as markets and hedge-fund software, and became roughly employee number 10. The source uses Palantir less as an enterprise-deployment methodology and more as a [[BuilderCenteredInstitutions|builder-value]] lesson: software, design, recruiting pages, photography, and early credibility all mattered before the company looked inevitable.
 
@@ -22,6 +24,7 @@ Palantir is referenced in [[openai-he-anthropic-gongtong-kanhao-de-fde-ai-shidai
 
 ## Connections
 - [[ForwardDeployedEngineer]] — role associated with Palantir's enterprise implementation model.
+- [[EnterpriseCustomDelivery]] and [[CustomerSuccessEngineer]] — delivery comparison and role boundary added by the 硬地骇客 FDE episode.
 - [[PeterThiel]], [[CarlSchmitt]], and [[ExceptionStateSurveillanceTechnology]] - ideological and crisis-politics branch added by Silicon Valley 101.
 - [[JoeLonsdale]] and [[StephenCohen]] - co-founder network nodes highlighted in the same source.
 - [[GarryTan]] and [[BuilderCenteredInstitutions]] — early employee and builder-value context added by The Social Radars.

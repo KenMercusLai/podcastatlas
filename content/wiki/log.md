@@ -4647,3 +4647,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬
+
+Added source page for the 硬地骇客 episode on FDE, Palantir, OpenAI, Anthropic, the CSE/FDE boundary, Chinese 2B custom delivery, enterprise AI product-market-fit exploration, model-company deployment loops, and the future relationship between models, agents, SaaS, and enterprise applications. Created pages for Customer Success Engineer and Enterprise Custom Delivery; updated overview, index, Forward Deployed Engineer, Business-Led AI Transformation, AI Workflow Triage, Agentic Workflow, Coding Agent As Universal Action Layer, Model As Operating System, Palantir, OpenAI, Anthropic, and 硬地骇客. No direct contradiction found; the source reinforces prior FDE pages while qualifying role hype by tying FDE to older custom-delivery constraints and product-feedback discipline.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

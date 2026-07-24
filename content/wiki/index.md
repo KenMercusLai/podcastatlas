@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬](sources/ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u.md) — 硬地骇客 episode demystifying FDE through Palantir, OpenAI, Anthropic, CSE, Chinese 2B custom delivery, enterprise AI PMF, and model-as-control-layer software futures.
 - [A hawk who flew on political winds: Lindsey Graham](sources/a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55.md) — The Intelligence episode on Lindsey Graham's death, Republican foreign-policy adaptation, AI model value surveys and censorship, and renewed interest in Old Masters.
 - [中年三账户：现金流、肌肉、睡眠](sources/zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae.md) — 面基 episode framing midlife through cash flow, muscle, and sleep accounts, with household fixed costs, strength training, sleep inputs, and environment-over-willpower routines.
 - [The high cost of vacuuming carbon from the sky](sources/tech-20260713-tech-pod-128-tech-20260713-tech-pod-128.md) — Marketplace Tech episode on Heirloom Carbon Technologies, direct air capture, limestone-loop carbon removal, carbon-removal costs, protected Louisiana/Texas hubs, and fossil-fuel moral-hazard concerns.
@@ -3894,6 +3895,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Customer Success Engineer](concepts/CustomerSuccessEngineer.md) — Mature-product adoption role contrasted with FDE in enterprise AI deployment.
+- [Enterprise Custom Delivery](concepts/EnterpriseCustomDelivery.md) — 2B software implementation pattern used to de-mystify FDE and its product-feedback requirements.
 - [Republican Foreign Policy Adaptation](concepts/RepublicanForeignPolicyAdaptation.md) — Pattern where older hawkish Republican foreign policy survives by adapting to Trump-centered party power.
 - [AI Model Value Surveying](concepts/AIModelValueSurveying.md) — Method of asking AI models human survey questions to map their cultural and political defaults.
 - [AI Model Censorship](concepts/AIModelCensorship.md) — Refusal or party-line model behavior on sensitive topics, illustrated through the "three T's test."

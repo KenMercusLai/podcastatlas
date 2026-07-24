@@ -5771,6 +5771,10 @@
     "title": "Customer Pull",
     "url": "/wiki/concepts/customerpull/"
   },
+  "CustomerSuccessEngineer": {
+    "title": "Customer Success Engineer",
+    "url": "/wiki/concepts/customersuccessengineer/"
+  },
   "CustomerSupportAutomation": {
     "title": "Customer Support Automation",
     "url": "/wiki/concepts/customersupportautomation/"
@@ -7398,6 +7402,10 @@
   "EnterpriseAgentStore": {
     "title": "Enterprise Agent Store",
     "url": "/wiki/concepts/enterpriseagentstore/"
+  },
+  "EnterpriseCustomDelivery": {
+    "title": "Enterprise Custom Delivery",
+    "url": "/wiki/concepts/enterprisecustomdelivery/"
   },
   "EnterpriseDataActivation": {
     "title": "Enterprise Data Activation",
@@ -24342,6 +24350,10 @@
   "ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz": {
     "title": "EP127 从 Skills 到自动化工作流，论 Agent 如何接管真实生产力 ⚙️",
     "url": "/wiki/sources/ep127-cong-skills-dao-zidonghua-gongzuoliu-lun-agent-ruhe-jieguan-zhenshi-shengchanli-lntwhoxpi433ptke-nhohb-5lbpz/"
+  },
+  "ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u": {
+    "title": "EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬",
+    "url": "/wiki/sources/ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u/"
   },
   "ep18-dou-shi-huang-quan-yu-yue-ke-baoxian-mai-dui-xin-an-le-lly-wx9zecfmov5cbmufmynlosw": {
     "title": "EP18 都是黄泉预约客，保险买对心安乐",
