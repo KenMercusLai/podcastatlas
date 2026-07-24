@@ -331,6 +331,10 @@
     "title": "154.我的名字叫红：用一千零一夜的心跳完成这场谋杀(下）",
     "url": "/wiki/sources/154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400/"
   },
+  "155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210": {
+    "title": "155.美貌能当饭吃吗?想赚钱该做点啥?拮据时应避免什么行为?经济学思维有什么用？",
+    "url": "/wiki/sources/155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210/"
+  },
   "156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198": {
     "title": "156.一个阿富汗女人的来信: 纸上的光，和出版背后的故事",
     "url": "/wiki/sources/156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198/"
@@ -2719,6 +2723,10 @@
     "title": "Attention Industrialization",
     "url": "/wiki/concepts/attentionindustrialization/"
   },
+  "AttractivenessLaborMarketPremium": {
+    "title": "Attractiveness Labor-Market Premium / 外貌劳动力市场溢价",
+    "url": "/wiki/concepts/attractivenesslabormarketpremium/"
+  },
   "AuditOpinionRisk": {
     "title": "Audit Opinion Risk",
     "url": "/wiki/concepts/auditopinionrisk/"
@@ -3134,6 +3142,10 @@
   "BeautyCam": {
     "title": "BeautyCam / 美颜相机",
     "url": "/wiki/entities/beautycam/"
+  },
+  "BeautyEconomics": {
+    "title": "Beauty Economics / 美貌经济学",
+    "url": "/wiki/concepts/beautyeconomics/"
   },
   "BeautyInCommunication": {
     "title": "Beauty in Communication",
@@ -4318,6 +4330,10 @@
   "ChangXinMemory": {
     "title": "ChangXin Memory / 长鑫存储",
     "url": "/wiki/entities/changxinmemory/"
+  },
+  "ChangdehaokanNengDangFanChiMa": {
+    "title": "《长得好看能当饭吃吗》",
+    "url": "/wiki/entities/changdehaokannengdangfanchima/"
   },
   "Changzhou": {
     "title": "Changzhou / 常州",
@@ -5902,6 +5918,10 @@
   "DanielImmerwahr": {
     "title": "Daniel Immerwahr",
     "url": "/wiki/entities/danielimmerwahr/"
+  },
+  "DanielKahneman": {
+    "title": "Daniel Kahneman",
+    "url": "/wiki/entities/danielkahneman/"
   },
   "DanielKan": {
     "title": "Daniel Kan",
@@ -7571,6 +7591,10 @@
     "title": "Everyday Autobiographical Comics",
     "url": "/wiki/concepts/everydayautobiographicalcomics/"
   },
+  "EverydayBehavioralEconomics": {
+    "title": "Everyday Behavioral Economics / 日常行为经济学",
+    "url": "/wiki/concepts/everydaybehavioraleconomics/"
+  },
   "EverydayFoodCultureHistory": {
     "title": "Everyday Food Culture History",
     "url": "/wiki/concepts/everydayfoodculturehistory/"
@@ -8614,6 +8638,10 @@
   "FreeLovePracticeGap": {
     "title": "Free Love Practice Gap / 自由恋爱实践落差",
     "url": "/wiki/concepts/freelovepracticegap/"
+  },
+  "FreeServiceHiddenCost": {
+    "title": "Free Service Hidden Cost / 免费服务隐性成本",
+    "url": "/wiki/concepts/freeservicehiddencost/"
   },
   "FreitBarefoot": {
     "title": "Freit Barefoot",
@@ -13283,6 +13311,10 @@
     "title": "Lori Goodman",
     "url": "/wiki/entities/lorigoodman/"
   },
+  "LossAversion": {
+    "title": "Loss Aversion / 损失厌恶",
+    "url": "/wiki/concepts/lossaversion/"
+  },
   "LotteryGamblingPlatformFraud": {
     "title": "Lottery Gambling Platform Fraud",
     "url": "/wiki/concepts/lotterygamblingplatformfraud/"
@@ -13787,6 +13819,10 @@
     "title": "Marginal Analysis",
     "url": "/wiki/concepts/marginalanalysis/"
   },
+  "MarginalIncomeScaling": {
+    "title": "Marginal Income Scaling / 边际收入放大",
+    "url": "/wiki/concepts/marginalincomescaling/"
+  },
   "MariaCorinaMachado": {
     "title": "Maria Corina Machado",
     "url": "/wiki/entities/mariacorinamachado/"
@@ -14063,6 +14099,10 @@
     "title": "Mayara Felix",
     "url": "/wiki/entities/mayarafelix/"
   },
+  "McDonalds": {
+    "title": "McDonald's",
+    "url": "/wiki/entities/mcdonalds/"
+  },
   "McDonaldsNetherlands": {
     "title": "McDonald's Netherlands",
     "url": "/wiki/entities/mcdonaldsnetherlands/"
@@ -14282,6 +14322,10 @@
   "MenstrualStigma": {
     "title": "Menstrual Stigma",
     "url": "/wiki/concepts/menstrualstigma/"
+  },
+  "MentalAccounting": {
+    "title": "Mental Accounting / 心理账户",
+    "url": "/wiki/concepts/mentalaccounting/"
   },
   "MercedesF1": {
     "title": "Mercedes F1",
@@ -16715,6 +16759,10 @@
     "title": "Platform-Pipeline Biotech Strategy",
     "url": "/wiki/concepts/platformpipelinebiotechstrategy/"
   },
+  "PlatformSubsidyScaleEconomics": {
+    "title": "Platform Subsidy Scale Economics / 平台补贴规模经济",
+    "url": "/wiki/concepts/platformsubsidyscaleeconomics/"
+  },
   "Platformer": {
     "title": "Platformer",
     "url": "/wiki/entities/platformer/"
@@ -17062,6 +17110,10 @@
   "Priam": {
     "title": "Priam",
     "url": "/wiki/entities/priam/"
+  },
+  "PriceElasticity": {
+    "title": "Price Elasticity / 价格弹性",
+    "url": "/wiki/concepts/priceelasticity/"
   },
   "PriceWarGrowth": {
     "title": "Price War Growth",
@@ -18158,6 +18210,10 @@
   "RichardNixon": {
     "title": "Richard Nixon",
     "url": "/wiki/entities/richardnixon/"
+  },
+  "RichardThaler": {
+    "title": "Richard Thaler",
+    "url": "/wiki/entities/richardthaler/"
   },
   "RichardWiseman": {
     "title": "Richard Wiseman",

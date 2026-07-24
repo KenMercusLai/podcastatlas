@@ -4560,6 +4560,10 @@ Ran lint after health passed. Health scanned 6,210 wiki pages with no empty/stub
 
 Added source page for a Planet Money episode on Greenland, rare earths, Arctic strategic access, U.S. defense arrangements, Trump territorial-control rhetoric, and the difference between owning land and securing supply chains. Created pages for Greenland, Denmark, Graceland Baskaran, Saha Ullsvig, Daniel Immerwahr, How to Hide an Empire, Guantanamo Bay, Inuit, Rare Earth Processing Bottleneck, Greenland Strategic Access, Strategic Access Without Annexation, and Military Base Sovereignty; updated overview, index, Planet Money, United States, China, Donald Trump, NATO, Russia, Cuba, Saudi Arabia, Brazil, Australia, India, and Critical Minerals Geopolitics. No direct contradiction found; the source qualifies existing Trump, NATO, and critical-minerals pages by arguing that Greenland matters, but processing capacity, partner networks, and permission-based access solve more than territorial control would.
 
+## [2026-07-24] ingest | 155.美貌能当饭吃吗?想赚钱该做点啥?拮据时应避免什么行为?经济学思维有什么用？
+
+Added source page for the 蜜獾吃书 episode using 《长得好看能当饭吃吗》 to connect behavior economics, loss aversion, price elasticity, mental accounting, free-service hidden costs, platform subsidy economics, marginal income scaling, and beauty economics. Created pages for 《长得好看能当饭吃吗》, Daniel Kahneman, Richard Thaler, McDonald's, Everyday Behavioral Economics, Loss Aversion, Price Elasticity, Mental Accounting, Free Service Hidden Cost, Platform Subsidy Scale Economics, Marginal Income Scaling, Beauty Economics, and Attractiveness Labor-Market Premium; updated overview, index, 蜜獾吃书, 秦总, Economic Way Of Thinking, Marginal Analysis, Cost-Benefit Thinking, Opportunity Cost, Subjective Value, Behavioral Investing Biases, Female Beauty Self-Surveillance, Daniel Hamermesh, and Coca-Cola. No direct contradiction found; the source qualifies the wiki's existing economic thinking and beauty-pressure branches by treating economics as a tool for naming hidden costs and discrimination without endorsing them.
+
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint after health passed. Health scanned 6,223 wiki pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 5,641 nodes and 56,841 edges while the current wiki scan found 6,223 pages, so graph findings are advisory until `build graph` refreshes it. The graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to `claude-3-5-sonnet-latest` without a provider prefix. Report returned in-session; `wiki/lint-report.md` was not saved.
@@ -4619,6 +4623,10 @@ Added source page for the 商业就是这样 episode on Peru's anchoveta fishery
 ## [2026-07-24] ingest | Sun Bum: Tom Rinks. The Secrets of a Master Brand Builder (2023)
 
 Added source page for a How I Built This episode on Tom Rinks, Sun Bum, Psycho Chihuahua, the Taco Bell dispute, Rinks Canetti, DeLeon Tequila, visual brand systems, mascot-led recognition, place-based brand perception, retail displays, field sales, founder role transition, and the SC Johnson acquisition. Created pages for Sun Bum, Tom Rinks, Rene Kennedy, Rinks Canetti, DeLeon Tequila, Brent Hocking, Psycho Chihuahua, Joe Shields, Taco Bell, SC Johnson, Adam Francis, Michael LaSara, Made by Dentists, Sunny / Sun Bum Mascot, Cocoa Beach, Visual Brand System, Mascot Led Brand Recognition, Retail Display As Brand Surface, and Place Based Brand Perception; updated overview, index, How I Built This, Guy Raz, Consumer Brand Moat, Story Led Consumer Branding, Design Led Growth, CPG Distribution, Retail Shelf Placement, Packaging As Product Experience, Emotional Brand Relationship, Founder Role Transition, Post-Acquisition Founder Identity, Subculture Led Marketing, and Richard Branson. No direct contradiction found; first-person legal, product-quality, and deal-size claims remain source-scoped.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-24] lint | Wiki health check
 

@@ -2,7 +2,7 @@
 title: "Opportunity Cost"
 type: concept
 tags: [economics, decision-making, tradeoffs, life-design]
-sources: [106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
+sources: [155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210, 106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
 last_updated: 2026-07-24
 ---
 
@@ -14,6 +14,8 @@ The episode applies this to life choices. Students may want to keep a PhD, finan
 
 [[106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645]] adds the negotiation version through [[BATNA]]. A no-deal alternative is an opportunity-cost anchor: accepting an offer means giving up the best alternative, while walking away means giving up the possible agreement and any relationship value attached to it.
 
+[[155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210]] adds the hidden-cost consumer version. Free movies, coupons, refills, and platform subsidies can look cheap in cash terms while consuming time, attention, quality, or future bargaining position.
+
 ## Key Claims
 - Every meaningful choice has a cost because choosing one path closes or delays others.
 - "Both/and" desires can hide tradeoffs until time, energy, or money runs out.
@@ -21,6 +23,7 @@ The episode applies this to life choices. Students may want to keep a PhD, finan
 - More options are not always better; too many choices can create system cost, confusion, and avoidance.
 - A decision can be rational without being globally perfect if it fits the person's limited information and constraints.
 - A negotiated offer should be compared against the best real alternative, not against an imagined fair price or already-sunk investment.
+- Episode 155 adds that a zero cash price still has opportunity cost when the person spends scarce attention, time, or dignity.
 
 ## Connections
 - [[CostBenefitThinking]] - decision method that must include opportunity costs.
@@ -28,3 +31,4 @@ The episode applies this to life choices. Students may want to keep a PhD, finan
 - [[CollegeMajorChoice]] and [[CareerSelfRescue]] - education and career domains where alternatives cannot all be preserved.
 - [[SubjectiveValue]] - what is given up or gained depends partly on the chooser's own situation and preference.
 - [[BATNA]], [[ReservationValue]], and [[ZoneOfPossibleAgreement]] - negotiation concepts that operationalize opportunity cost.
+- [[FreeServiceHiddenCost]] and [[MentalAccounting]] - consumer-budget extensions from episode 155.

@@ -234,6 +234,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [【脱口秀的小佳】蜉蝣直上：可能会飞，迎着天光](sources/tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655.md) — 蜜獾吃书 episode with stand-up comedian 小佳 on 《蜉蝣直上》, mayfly life imagery, Minnan family writing, father-son resentment, women in ordinary life, stage versus prose, review pressure, sales anxiety, and stepping back toward theater.
 - [157.吹牛大王历险记：叔本华、扒马褂和超级英雄](sources/157-chuiniu-dawang-lixianji-shubenhua-bamagua-he-chaoji-yingxiong-924722703.md) — 蜜獾吃书 episode on 《吹牛大王历险记》 as tall-tale tradition, absurd rationality, political satire, Munchausen self-bootstrapping, and a bridge to superhero fantasy.
 - [156.一个阿富汗女人的来信: 纸上的光，和出版背后的故事](sources/156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198.md) — 蜜獾吃书 episode with 有光 editor 安琪 on 哈迪亚·海达里's 《一个阿富汗女人的来信》, Afghan women's first-person writing, protection as control, war's gendered civilian harm, Persian-Chinese translation, royalties, cover ethics, and editing as cultural project management.
+- [155.美貌能当饭吃吗?想赚钱该做点啥?拮据时应避免什么行为?经济学思维有什么用？](sources/155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210.md) — 蜜獾吃书 episode using 《长得好看能当饭吃吗》 to connect behavior economics, loss aversion, price elasticity, free-service hidden costs, platform subsidies, marginal income scaling, and beauty economics.
 - [154.我的名字叫红：用一千零一夜的心跳完成这场谋杀(下）](sources/154-wode-mingzi-jiao-hong-yong-yiqian-lingyi-ye-de-xintiao-wancheng-zhechang-mousha-xia-919262400.md) — 蜜獾吃书 episode on Orhan Pamuk's 《我的名字叫红》, Ottoman miniature painting, Frankish portrait pressure, style/signature, blindness, multi-perspective narration, and the murder clue of the cracked-nostril horse.
 - [The Social Radars Season Five Update](sources/tsr-s5-catchup2-v1-tsr-s5-catchup2-v1.md) — Short Social Radars update where Jessica Livingston and Carolyn Levy preview Season Five, announce Substack and full-episode YouTube distribution, highlight Tyler Shultz and Ron Conway archive entry points, and explain the Founder Mode side series.
 - [Founder Mode: Sajith Wickramasekara, Founder & CEO, Benchling](sources/tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio.md) — The Social Radars YC offsite episode with Sajith Wickramasekara on Benchling, life-sciences workflow software, YC Summer 2012, founder mode as ownership, customer proximity, executive fit, and senior-leader customer contact.
@@ -1274,6 +1275,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adewale Maie](entities/AdewaleMaie.md) — Labor researcher whose Spain vacation observation opens Planet Money's U.S. paid-vacation comparison.
 - [Gary Cross](entities/GaryCross.md) — Historian explaining European paid-leisure politics, festivals, and American work-ethic context in the vacation episode.
 - [Daniel Hamermesh](entities/DanielHamermesh.md) — Labor economist who rejects simple culture, tax, and consumerism explanations for the U.S. vacation gap.
+- [Daniel Kahneman](entities/DanielKahneman.md) — Behavioral-economics figure used by episode 155 to introduce prospect-theory-style loss aversion in everyday economic choice.
+- [Richard Thaler](entities/RichardThaler.md) — Behavioral economist used by episode 155 to explain mental accounting and asymmetric valuation of risk, compensation, and loss.
 - [Tom Cohen](entities/TomCohen.md) — MIT source who frames U.S. paid vacation as a missed political window and employer-bargained benefit.
 - [American Federation of Labor](entities/AmericanFederationOfLabor.md) — Union federation invoked as part of the U.S. private-bargaining path for vacation and other benefits.
 - [OPEC](entities/OPEC.md) — Oil-producing-state organization used by Planet Money to explain producer supply coordination, quotas, Saudi swing production, and UAE exit pressure.
@@ -2139,6 +2142,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [梁杰](entities/LiangJie.md) — Economics teacher and guest explaining Paul Heyne's 《经济学的思维方式》 as a practical framework for ordinary readers.
 - [Paul Heyne / 保罗·海恩](entities/PaulHeyne.md) — Economist and original author of The Economic Way of Thinking, used by episode 61 as a model of general-reader economics pedagogy.
 - [《经济学的思维方式》 / The Economic Way of Thinking](entities/TheEconomicWayOfThinking.md) — Paul Heyne economics book discussed by 蜜獾吃书 as a formula-light route into costs, value, coordination, and life decisions.
+- [《长得好看能当饭吃吗》](entities/ChangdehaokanNengDangFanChiMa.md) — Economics book used by episode 155 to connect everyday behavioral economics, pricing, earning strategy, and beauty economics.
 - [Adam Smith / 亚当·斯密](entities/AdamSmith.md) — Economist and philosopher used by episode 61 to introduce invisible-hand style market coordination and moral concern in economics.
 - [Friedrich Hayek / 哈耶克](entities/FriedrichHayek.md) — Economist used by episode 61 to frame dispersed information, planning limits, and market coordination.
 - [蜜獾吃书](entities/MihuanChishu.md) — Podcast/show context for book, travel, language, natural-history, life-design, and literary-biography discussions across reading, satire, fairy tales, writer gossip, and release-cadence housekeeping.
@@ -2614,6 +2618,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jony Ive](entities/JonyIve.md) — Former Apple designer linked to OpenAI's possible AI device work and the unresolved next-interface question.
 - [Warner Bros. Discovery](entities/WarnerBrosDiscovery.md) — Media company whose studio and streaming assets anchor the episode's Netflix-versus-Paramount consolidation discussion.
 - [Paramount](entities/Paramount.md) — David Ellison-led bidder in the Warner Bros. Discovery streaming-consolidation segment.
+- [McDonald's](entities/McDonalds.md) — Fast-food company used by episode 155 to explain Coca-Cola refill economics, marginal consumption, and targeted restaurant marketing.
 - [McDonald's Netherlands](entities/McDonaldsNetherlands.md) — Brand unit that pulled an AI-generated Christmas ad after backlash, grounding the episode's AI advertising discussion.
 - [Scott Brennan](entities/ScottBrennan.md) — NYU Center on Technology Policy researcher explaining why Public Utility Commissions matter to AI data-center growth and ratepayer protection.
 - [NYU Center on Technology Policy](entities/NYUCenterOnTechnologyPolicy.md) — Institutional source for the Marketplace Tech discussion of public utility commissions as AI infrastructure gatekeepers.
@@ -4005,6 +4010,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [努力叙事追问 / Effort Narrative Interrogation](concepts/EffortNarrativeInterrogation.md) — Asking why effort became morally mandatory without replacing effort with slackness as a new unquestioned template.
 - [相信自己的感受 / Self-Feeling Trust](concepts/SelfFeelingTrust.md) — Agency practice of treating felt response as valid evidence instead of always seeking a standard answer key.
 - [女性美貌自我监控 / Female Beauty Self-Surveillance](concepts/FemaleBeautySelfSurveillance.md) — Gendered beauty pressure where social gaze becomes an internal camera around charm, display, shame, and visibility.
+- [Beauty Economics / 美貌经济学](concepts/BeautyEconomics.md) — Episode 155 frame for discussing beauty as a labor-market and social-opportunity variable without endorsing appearance discrimination.
+- [Attractiveness Labor-Market Premium / 外貌劳动力市场溢价](concepts/AttractivenessLaborMarketPremium.md) — Source-scoped claim that perceived attractiveness can affect wages, confidence, and workplace perception.
 - [体面税 / Respectability Tax](concepts/RespectabilityTax.md) — Money, taste, bodily work, and social reading required to appear naturally proper inside a high-status field.
 - [Objective Deception](concepts/ObjectiveDeception.md) — Complex-search failure mode where an objective or proxy metric creates a false gradient and hides useful stepping stones.
 - [Novelty Search](concepts/NoveltySearch.md) — Search strategy from episode 139 that rewards unusual behavior or forms instead of direct movement toward a fixed target.
@@ -4874,6 +4881,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cost-Benefit Thinking](concepts/CostBenefitThinking.md) — Decision discipline for evaluating expected gains against money, time, energy, alternatives, and side effects.
 - [Opportunity Cost](concepts/OpportunityCost.md) — Value of the best alternative given up by choosing one path over another.
 - [Marginal Analysis](concepts/MarginalAnalysis.md) — Habit of evaluating what one more unit of time, work, attention, or action is worth in context.
+- [Everyday Behavioral Economics / 日常行为经济学](concepts/EverydayBehavioralEconomics.md) — Episode 155 frame for applying behavior economics to consumption, investing, pricing, subsidies, and appearance-related choices.
+- [Loss Aversion / 损失厌恶](concepts/LossAversion.md) — Behavioral mechanism where losses feel more painful than equivalent gains, affecting spending, investing, and bargain-seeking.
+- [Price Elasticity / 价格弹性](concepts/PriceElasticity.md) — Pricing concept for how demand responds to price changes depending on substitutes, necessity, scarcity, status, and market structure.
+- [Mental Accounting / 心理账户](concepts/MentalAccounting.md) — Behavioral budgeting pattern where money is separated into subjective categories rather than treated as perfectly interchangeable.
+- [Free Service Hidden Cost / 免费服务隐性成本](concepts/FreeServiceHiddenCost.md) — Consumer frame for zero-price offers that shift cost into attention, time, quality, frustration, privacy, or later purchases.
+- [Platform Subsidy Scale Economics / 平台补贴规模经济](concepts/PlatformSubsidyScaleEconomics.md) — Platform growth logic where low marginal user cost and scale goals can make temporary subsidies real consumer surplus.
+- [Marginal Income Scaling / 边际收入放大](concepts/MarginalIncomeScaling.md) — Work-and-income frame for putting effort where the next unit can reach more people, create reusable output, or raise pricing power.
 - [Market Coordination](concepts/MarketCoordination.md) — How decentralized exchange can coordinate many people with different goals, skills, information, and preferences.
 - [Dispersed Information Problem](concepts/DispersedInformationProblem.md) — Planning and decision problem created when relevant knowledge is local, tacit, changing, and unevenly distributed.
 - [Comparative Advantage](concepts/ComparativeAdvantage.md) — Cooperation logic where exchange can benefit both sides because opportunity costs differ.
