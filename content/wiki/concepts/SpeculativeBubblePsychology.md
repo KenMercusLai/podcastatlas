@@ -2,8 +2,8 @@
 title: "Speculative Bubble Psychology"
 type: concept
 tags: [investing, markets, psychology]
-sources: [ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]
-last_updated: 2026-07-08
+sources: [ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2, ep77-si-shi-wan-nian-xin-fu-ye-zhuan-le-san-shi-si-yi-te-lang-pu-jiao-ni-ruhe-gao-qian-lnrx8vkdjedxbmmcwxlnwow-pcab, jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]
+last_updated: 2026-07-24
 ---
 
 # Speculative Bubble Psychology
@@ -17,6 +17,8 @@ Speculative bubble psychology is the pattern in [[ep76-chuanyue-1940-wo-yu-gupia
 [[stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5]] adds the historical-technology version. [[JoshRoberts]] compares AI with railways, canals, electricity, and the internet: the technology can be transformative while investors still overpay, choose the wrong winners, or suffer through crashes before the productivity story matures.
 
 [[paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]] adds [[ZhuNing]]'s explicit [[BubbleNecessaryConditions]] frame. The source argues that bubble conditions are warning signs rather than sufficient proof: new technology, liquidity, policy support, and inexperienced investors can coexist with a real future. It also emphasizes why tops are hard to call: price slopes require continuing capital, skeptics may capitulate too early, and public prediction itself can change market behavior.
+
+[[so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]] adds the narrative-uncertainty mechanism through [[Nvidia]] and AI. The episode says new technologies make bubbles hard to identify because no one yet knows the eventual value, so optimistic and skeptical stories can coexist in the same market. That uncertainty is what lets high valuation feel plausible without making the price automatically correct.
 
 ## Key Claims
 - A technology can genuinely change the world while its current market price still embeds excessive assumptions.
@@ -33,6 +35,7 @@ Speculative bubble psychology is the pattern in [[ep76-chuanyue-1940-wo-yu-gupia
 - No one can reliably determine in advance that an asset is definitely a bubble; the label often arrives after the break.
 - A full bubble checklist should trigger [[InvestmentRiskManagement]] rather than a prediction that the market must immediately crash.
 - Information arriving through broad social circles can be a late-cycle signal because core investors may have already positioned before the public narrative becomes obvious.
+- New technologies are especially bubble-prone because genuine uncertainty makes extreme upside stories hard to falsify in real time.
 
 ## Connections
 - [[JesseLivermore]] — historical persona used to connect 1907, 1929, and modern AI markets.
@@ -45,3 +48,4 @@ Speculative bubble psychology is the pattern in [[ep76-chuanyue-1940-wo-yu-gupia
 - [[GameStop]], [[KeithGill]], and [[GammaSqueeze]] — EP90's social-proof and options-flow version.
 - [[AIBubbleHedging]], [[AIEquityValuationRisk]], [[Alphabet]], [[Amazon]], [[Meta]], and [[Microsoft]] — The Intelligence episode's AI-capex and bubble-hedging version.
 - [[ZhuNing]], [[BubbleNecessaryConditions]], [[BehavioralInvestingBiases]], and [[PositionSizing]] — 42章经 interview extension around necessary-but-insufficient bubble signals.
+- [[RobinGreenwood]], [[StatisticalBubbleIndicators]], [[Nvidia]], and [[MarketEfficiency]] — Planet Money extension around uncertainty, indicators, and predictability limits.

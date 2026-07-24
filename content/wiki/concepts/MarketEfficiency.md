@@ -2,8 +2,8 @@
 title: "Market Efficiency"
 type: concept
 tags: [investing, markets]
-sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, jiufan-zhongting-mifeng-jingjixue-956460448, vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl]
-last_updated: 2026-07-16
+sources: [before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, jiufan-zhongting-mifeng-jingjixue-956460448, vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]
+last_updated: 2026-07-24
 ---
 
 # Market Efficiency
@@ -20,6 +20,8 @@ Market efficiency is the episode's frame for why profitable edges are hard, temp
 
 [[vol-103-wenyi-fuxing-keji-ximengsi-de-fengshen-zhilu-shi-lianghua-zhiwang-gengshi-dongcha-renxing-de-dashi-lulzvnaxdb4klqag-p2yyqlmiikl]] adds [[AlphaDecay]] as the competitive version of efficiency. A tiny market inefficiency can exist and still be temporary because discovery, capital, copied rules, and changed behavior erode it.
 
+[[so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]] adds the bubble-prediction version through [[EugeneFama]]. The source uses Fama's challenge to test [[RobinGreenwood]]'s [[StatisticalBubbleIndicators]]: if markets are mostly efficient, one should be skeptical of claims that researchers can identify bubbles before the crash. The episode's result is not pure efficiency or pure predictability, but a truce where indicators help only weakly.
+
 ## Key Claims
 - Efficient markets do not mean no one can profit; they mean durable profit is difficult and competition erodes obvious strategies.
 - A-shares are described as historically having stronger signals than U.S. equities because of retail participation, short-selling limits, and slower information flow.
@@ -31,6 +33,7 @@ Market efficiency is the episode's frame for why profitable edges are hard, temp
 - Election prediction markets can aggregate dispersed political expectations, but market accuracy does not by itself settle legality, ethics, or media legitimacy.
 - Price aggregation does not make later stories causal; [[RandomMarketNarratives]] can still emerge after the fact.
 - Agricultural contracts can internalize some spillover benefits, but efficient pricing of pollination is not the same as eliminating hive-health, pesticide, or disease risk.
+- Bubble indicators can be informative without defeating market efficiency if their predictive power remains weak, noisy, and hard to trade.
 
 ## Connections
 - [[QuantitativeInvesting]] — method used to exploit small inefficiencies.
@@ -42,3 +45,4 @@ Market efficiency is the episode's frame for why profitable edges are hard, temp
 - [[IowaElectronicMarkets]], [[PredictionMarketHistory]], and [[ElectionBettingMarkets]] - election-forecasting market branch added by Planet Money.
 - [[jiufan-zhongting-mifeng-jingjixue-956460448]], [[ExternalityInternalization]], and [[PollinationServiceMarket]] — bee-contract extension outside financial markets.
 - [[AlphaDecay]], [[QuantitativeDataMoat]], and [[ShortTermStatisticalArbitrage]] — vol.103's signal-decay and quant-market extension.
+- [[EugeneFama]], [[RobinGreenwood]], [[StatisticalBubbleIndicators]], and [[AIEquityValuationRisk]] — bubble-prediction challenge added by Planet Money.

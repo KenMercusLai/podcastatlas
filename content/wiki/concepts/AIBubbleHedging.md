@@ -2,8 +2,8 @@
 title: "AI Bubble Hedging"
 type: concept
 tags: [ai, investing, allocation, risk]
-sources: [stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]
-last_updated: 2026-07-08
+sources: [stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]
+last_updated: 2026-07-24
 ---
 
 # AI Bubble Hedging
@@ -14,6 +14,8 @@ The episode's answer is not a perfect hedge. It weighs classic bonds, gold, defe
 
 [[paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78]] adds [[ZhuNing]]'s behavioral-finance version. Instead of asking whether AI will rise or fall tomorrow, the source asks how much exposure an investor can hold if the thesis is right or wrong. The hedge is therefore partly psychological and structural: avoid binary decisions, use [[PositionSizing]], and separate technology adoption from valuation.
 
+[[so-are-we-in-an-ai-bubble-here-are-clues-to-look-for]] adds a diagnosis limit before the hedge question. [[RobinGreenwood]]'s [[StatisticalBubbleIndicators]] make the AI boom look risky but incomplete, while [[GadiBarlevy|Gadi Barlevy]] shifts attention to the damage channels if it bursts: debt, bank exposure, jobs, spending, and whether some infrastructure remains useful. The hedge problem is therefore not only market price, but the investor's exposure to a broader AI-infrastructure and employment cycle.
+
 ## Key Claims
 - [[AIEquityValuationRisk]] is not the same as disbelief in AI; a real technology can still produce a bubble.
 - Market timing is hard because bubble prices can rise dramatically before they break.
@@ -22,6 +24,7 @@ The episode's answer is not a perfect hedge. It weighs classic bonds, gold, defe
 - Reliable dividend payers and low-volatility stocks can keep investors inside equities while reducing exposure to the most speculative growth assumptions.
 - Long-term buy-and-hold remains a central discipline because panic-selling in a crash converts temporary drawdown into realized loss.
 - Zhu Ning's version of AI-bubble hedging begins with [[BubbleNecessaryConditions]] but rejects deterministic top-calling; warning signs should change exposure, leverage, and expectations rather than produce false certainty.
+- Greenwood's version reinforces hedging humility: if the signal is only weakly predictive, hedges should be sized for uncertainty rather than built around a confident crash date.
 
 ## Connections
 - [[AIEquityValuationRisk]] and [[SpeculativeBubblePsychology]] — reason the hedge question arises.
@@ -30,3 +33,4 @@ The episode's answer is not a perfect hedge. It weighs classic bonds, gold, defe
 - [[GoldmanSachs]] — cited for historical bubble-hedge research.
 - [[JoshRoberts]] — correspondent explaining the hedge tradeoffs.
 - [[ZhuNing]], [[BubbleNecessaryConditions]], and [[PositionSizing]] — behavioral-finance extension from the 42章经 interview.
+- [[RobinGreenwood]], [[GadiBarlevy|Gadi Barlevy]], [[StatisticalBubbleIndicators]], [[LeanVersusCleanBubblePolicy]], and [[ProductiveBubbleSpillovers]] — Planet Money extension around diagnosis limits and macro spillovers.

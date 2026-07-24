@@ -4715,3 +4715,11 @@ Added source page for a Planet Money episode on Johnson Products, George and Joa
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | So are we in an AI bubble? Here are clues to look for.
+
+Added source page for a Planet Money episode on AI bubble detection, Nvidia valuation, Robin Greenwood's statistical bubble indicators, Eugene Fama's market-efficiency challenge, Gadi Barlevy's lean-versus-clean policy frame, and possible productive bubble spillovers from data centers and R&D. Created pages for Robin Greenwood, Eugene Fama, Gadi Barlevy, Statistical Bubble Indicators, Lean Versus Clean Bubble Policy, and Productive Bubble Spillovers; updated overview, index, Planet Money, Nvidia, S&P 500, Nasdaq Composite, AI Equity Valuation Risk, Bubble Necessary Conditions, Speculative Bubble Psychology, Market Efficiency, and AI Bubble Hedging. No direct contradiction found; the source qualifies existing AI-bubble material by treating the boom as bubble-like but not fully diagnosed.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint after health passed. Deterministic checks scanned 6,484 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes and 65,220 edges while lint scanned 6,484 pages; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` or provider API key is configured in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
