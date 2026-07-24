@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The little pet fish that saved a town in the Amazon](sources/the-little-pet-fish-that-saved-a-town-in-the-amazon.md) — Planet Money episode on Barcelos, Brazil's wild Cardinal Tetra economy, sustainable ornamental-fish harvesting, farmed competition, Project Piaba, traceability, and the town's sport-fishing tourism pivot.
 - [Chef vs. Robot](sources/chef-vs-robot.md) — Planet Money episode on a robot wok versus a human chef, restaurant automation economics, wok hei, staffing pressure, and automation's displacement/reinstatement effects.
 - [The laws of the office revisited](sources/the-laws-of-the-office-revisited.md) — Planet Money episode on Goodhart's Law, Parkinson's Law, the Peter Principle, truthful social proof, recognition incentives, and workplace incentive design.
 - [Planet Money vs. the NBA's tanking problem](sources/planet-money-vs-the-nbas-tanking-problem.md) — Planet Money episode on NBA tanking, draft lottery incentives, the draft wheel, the Gold Plan, the PWHL, the NWSL no-draft model, and player autonomy.
@@ -598,6 +599,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Barcelos](entities/Barcelos.md) — Remote Brazilian Rio Negro town whose ornamental-fish economy and Cardinal Tetra civic identity are giving way to sport-fishing tourism.
+- [Rio Negro](entities/RioNegro.md) — Amazon river setting whose dark acidic water created the Cardinal Tetra niche around Barcelos.
+- [Cardinal Tetra](entities/CardinalTetra.md) — Tiny Amazon aquarium fish that became Barcelos's export product, civic emblem, conservation case, and copied farmed competitor.
+- [Project Piaba](entities/ProjectPiaba.md) — Nonprofit trying to preserve Barcelos's wild Cardinal Tetra trade through fish acclimation, export reliability, traceability, and conservation-linked market differentiation.
+- [Aramara Castro](entities/AramaraCastro.md) — Barcelos fish broker and piabera voice who contrasts independent ornamental-fish work with the town's tourism pivot.
+- [Deco (Barcelos piabero)](entities/DecoBarcelos.md) — Source-scoped piabero whose family livelihood, falling orders, and guide work make Barcelos's economic transition concrete.
+- [Vanda Ilson Siqueira](entities/VandaIlsonSiqueira.md) — Deco's son and hotel manager representing the next-generation shift from piabero work to tourism services.
+- [Peacock Bass](entities/PeacockBass.md) — Sport-fishing tourism species that now helps reposition Barcelos after the Cardinal Tetra trade decline.
 - [Kenny Poon](entities/KennyPoon.md) — Philadelphia restaurant operator using Robby Wokbot to reduce wok-skill hiring and training constraints.
 - [Instafoods](entities/Instafoods.md) — Philadelphia Chinatown restaurant where Robby Wokbot grounds the Planet Money restaurant automation case.
 - [Robby Wokbot](entities/RobbyWokbot.md) — Automated wok machine whose cost, speed, consistency, and taste limits anchor the Chef vs. Robot episode.
@@ -4040,6 +4049,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Piabero Economy](concepts/PiaberoEconomy.md) — Barcelos wild ornamental-fish livelihood system linking local fishers, brokers, exporters, civic identity, and global aquarium demand.
+- [Sustainable Wild Harvesting](concepts/SustainableWildHarvesting.md) — Conservation-economics frame where bounded wild harvest can protect habitat when local livelihood depends on intact ecosystems.
+- [Local Product Advantage Erosion](concepts/LocalProductAdvantageErosion.md) — Pattern where a place loses market control once outsiders reproduce a formerly local product elsewhere.
+- [Origin Traceability Moat](concepts/OriginTraceabilityMoat.md) — Strategy of defending a product by making provenance, handler, ethics, and local impact visible to buyers.
+- [Heritage Tourism Pivot](concepts/HeritageTourismPivot.md) — Shift from a fading local industry into visitor-facing work that sells the place, memory, and symbols of that industry.
 - [Restaurant Automation](concepts/RestaurantAutomation.md) — Use of machines or software to take over, standardize, or assist restaurant tasks such as cooking, timing, cleaning, and staffing.
 - [Robot Chef Cost-Quality Tradeoff](concepts/RobotChefCostQualityTradeoff.md) — Restaurant decision problem where robots can be cheaper, faster, and easier to staff while losing some craft quality.
 - [Wok Hei](concepts/WokHei.md) — High-heat wok flavor used as the human-chef benchmark in the Chef vs. Robot taste test.

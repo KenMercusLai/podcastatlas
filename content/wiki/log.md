@@ -4803,3 +4803,11 @@ Added source page for a Planet Money episode on a robot wok versus a human Canto
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 6,644 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` or provider API key is configured in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-24] ingest | The little pet fish that saved a town in the Amazon
+
+Added source page for a Planet Money episode on Barcelos, Brazil's wild Cardinal Tetra economy, the piabero livelihood system, sustainable wild harvesting, farmed competition from outside the Amazon, Project Piaba's traceability and handling strategy, and the town's pivot toward Peacock Bass sport-fishing tourism. Created pages for Barcelos, Rio Negro, Cardinal Tetra, Project Piaba, Aramara Castro, Deco, Vanda Ilson Siqueira, Peacock Bass, Piabero Economy, Sustainable Wild Harvesting, Local Product Advantage Erosion, Origin Traceability Moat, and Heritage Tourism Pivot; updated overview, index, NPR, Planet Money, Brazil, Localized Innovation Advantage, Conservation Intervention, Environmental Tradeoff Accounting, and Tourism-Dependent Small Economy. No direct contradiction found; the source qualifies localized-innovation optimism by showing that a local ecological advantage can be copied elsewhere, and it complicates conservation-versus-commerce framing by presenting bounded wild harvest as a possible habitat-protection strategy.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

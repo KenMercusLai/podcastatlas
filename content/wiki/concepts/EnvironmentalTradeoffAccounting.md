@@ -2,7 +2,7 @@
 title: "Environmental Tradeoff Accounting"
 type: concept
 tags: [ecology, agriculture, policy, externalities]
-sources: [138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260, its-my-tree-why-cant-i-cut-it-down]
+sources: [the-little-pet-fish-that-saved-a-town-in-the-amazon, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260, its-my-tree-why-cant-i-cut-it-down]
 last_updated: 2026-07-24
 ---
 
@@ -22,6 +22,8 @@ The concept does not reject environmental protection. It asks for a wider bounda
 
 [[138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726]] adds an oil-pollution version through [[OilPollutionWildlifeHarm]]. The episode's beach scene asks where the cost of oil transport and modern comfort lands when it reaches [[MagellanicPenguin|Magellanic penguins / 麦哲伦企鹅]] as sticky weight, destroyed waterproofing, starvation risk, and death. [[JuanSalvadorPenguin|Juan Salvador / 胡安·萨尔瓦多]] makes the externality visible as one animal's rescue problem rather than only an industry or policy category.
 
+[[the-little-pet-fish-that-saved-a-town-in-the-amazon]] adds a wild-harvest version through [[CardinalTetra]] collection near [[Barcelos]]. The accounting problem is not simply "catch fish" versus "do not catch fish": if bounded harvest is biologically sustainable and funds local attachment to intact [[RioNegro]] habitat, then losing the market to farms can shift hidden pressure toward other land uses or tourism dependence.
+
 ## Key Claims
 - Environmental choices should be evaluated across the whole system, including farmers, imports, substitute products, other species, and long-run maintenance.
 - A local "green" decision can export damage to another country, habitat, or supply chain.
@@ -34,6 +36,7 @@ The concept does not reject environmental protection. It asks for a wider bounda
 - Allergen source control needs the same tradeoff accounting: removal, planting, herbicides, indoor filtration, and land disturbance can shift exposure rather than simply eliminate it.
 - Exploration should be evaluated through its downstream extraction effects when route knowledge turns animals, islands, or coasts into commercial opportunities.
 - Pollution accounting should include bodily harm to wildlife, especially when the harmed beings cannot negotiate, complain, or shift the cost back.
+- Wild-harvest accounting should ask whether stopping or losing a trade removes the local income that made habitat protection practical.
 
 ## Connections
 - [[AgriculturalSystemsReality]] - farm-level operating context.
@@ -47,3 +50,4 @@ The concept does not reject environmental protection. It asks for a wider bounda
 - [[HayFeverEnvironmentalHistory]], [[AllergySourceControl]], and [[RagweedEcologicalFeedback]] - pollen-allergy extension from episode 97.
 - [[ExplorationToExtractionPipeline]], [[SeaOtter]], [[StellersSeaCow]], [[BeringIsland]], and [[Alaska]] - North Pacific exploration-to-extraction extension from episode 120.
 - [[OilPollutionWildlifeHarm]], [[MagellanicPenguin|Magellanic penguin / 麦哲伦企鹅]], [[JuanSalvadorPenguin|Juan Salvador / 胡安·萨尔瓦多]], and [[WildAnimalRescueResponsibility]] - oil-pollution externality extension from episode 138.
+- [[Barcelos]], [[CardinalTetra]], [[SustainableWildHarvesting]], [[PiaberoEconomy]], and [[LocalProductAdvantageErosion]] - wild-harvest and farmed-competition extension from Planet Money.

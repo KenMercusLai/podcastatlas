@@ -2567,6 +2567,10 @@
     "title": "% Arabica",
     "url": "/wiki/entities/arabica/"
   },
+  "AramaraCastro": {
+    "title": "Aramara Castro",
+    "url": "/wiki/entities/aramaracastro/"
+  },
   "ArashFerdowsi": {
     "title": "Arash Ferdowsi",
     "url": "/wiki/entities/arashferdowsi/"
@@ -3146,6 +3150,10 @@
   "BarbellStrategy": {
     "title": "Barbell Strategy",
     "url": "/wiki/concepts/barbellstrategy/"
+  },
+  "Barcelos": {
+    "title": "Barcelos",
+    "url": "/wiki/entities/barcelos/"
   },
   "BarcodeHero": {
     "title": "Barcode Hero",
@@ -4218,6 +4226,10 @@
   "CarceralLaborGovernance": {
     "title": "Carceral Labor Governance",
     "url": "/wiki/concepts/carcerallaborgovernance/"
+  },
+  "CardinalTetra": {
+    "title": "Cardinal Tetra",
+    "url": "/wiki/entities/cardinaltetra/"
   },
   "CareCompanionProgram": {
     "title": "Care Companion Program",
@@ -6410,6 +6422,10 @@
   "Deckers": {
     "title": "Deckers",
     "url": "/wiki/entities/deckers/"
+  },
+  "DecoBarcelos": {
+    "title": "Deco (Barcelos piabero)",
+    "url": "/wiki/entities/decobarcelos/"
   },
   "DeepCanvassing": {
     "title": "Deep Canvassing / 深度说服",
@@ -10419,6 +10435,10 @@
     "title": "Heritage Tourism Commercialization",
     "url": "/wiki/concepts/heritagetourismcommercialization/"
   },
+  "HeritageTourismPivot": {
+    "title": "Heritage Tourism Pivot",
+    "url": "/wiki/concepts/heritagetourismpivot/"
+  },
   "HermanHollerith": {
     "title": "Herman Hollerith / 赫尔曼·霍尔瑞斯",
     "url": "/wiki/entities/hermanhollerith/"
@@ -13671,6 +13691,10 @@
     "title": "Local News Automation Tradeoff",
     "url": "/wiki/concepts/localnewsautomationtradeoff/"
   },
+  "LocalProductAdvantageErosion": {
+    "title": "Local Product Advantage Erosion",
+    "url": "/wiki/concepts/localproductadvantageerosion/"
+  },
   "LocalizedInnovationAdvantage": {
     "title": "Localized Innovation Advantage",
     "url": "/wiki/concepts/localizedinnovationadvantage/"
@@ -16551,6 +16575,10 @@
     "title": "东方主义谜题误导 / Orientalist Mystery Misdirection",
     "url": "/wiki/concepts/orientalistmysterymisdirection/"
   },
+  "OriginTraceabilityMoat": {
+    "title": "Origin Traceability Moat",
+    "url": "/wiki/concepts/origintraceabilitymoat/"
+  },
   "OrlandBishop": {
     "title": "Orland Bishop",
     "url": "/wiki/entities/orlandbishop/"
@@ -16919,6 +16947,10 @@
     "title": "《桃花源记》 / Peach Blossom Spring",
     "url": "/wiki/entities/peachblossomspring/"
   },
+  "PeacockBass": {
+    "title": "Peacock Bass",
+    "url": "/wiki/entities/peacockbass/"
+  },
   "PeakAI": {
     "title": "Peak AI",
     "url": "/wiki/entities/peakai/"
@@ -17234,6 +17266,10 @@
   "PhysiognomyMoralAppearanceFallacy": {
     "title": "Physiognomy Moral Appearance Fallacy / 以貌定德谬误",
     "url": "/wiki/concepts/physiognomymoralappearancefallacy/"
+  },
+  "PiaberoEconomy": {
+    "title": "Piabero Economy",
+    "url": "/wiki/concepts/piaberoeconomy/"
   },
   "Pickwing": {
     "title": "Pickwing",
@@ -17906,6 +17942,10 @@
   "ProjectGlassfin": {
     "title": "Project Glassfin",
     "url": "/wiki/entities/projectglassfin/"
+  },
+  "ProjectPiaba": {
+    "title": "Project Piaba",
+    "url": "/wiki/entities/projectpiaba/"
   },
   "Prometheus": {
     "title": "Prometheus / 普罗米修斯",
@@ -18954,6 +18994,10 @@
   "RinksCanetti": {
     "title": "Rinks Canetti",
     "url": "/wiki/entities/rinkscanetti/"
+  },
+  "RioNegro": {
+    "title": "Rio Negro",
+    "url": "/wiki/entities/rionegro/"
   },
   "Rippling": {
     "title": "Rippling",
@@ -21419,6 +21463,10 @@
     "title": "Sustainable Growth Pace",
     "url": "/wiki/concepts/sustainablegrowthpace/"
   },
+  "SustainableWildHarvesting": {
+    "title": "Sustainable Wild Harvesting",
+    "url": "/wiki/concepts/sustainablewildharvesting/"
+  },
   "SwanMaidenMotif": {
     "title": "Swan Maiden Motif",
     "url": "/wiki/concepts/swanmaidenmotif/"
@@ -23038,6 +23086,10 @@
   "Vancl": {
     "title": "凡客 / Vancl",
     "url": "/wiki/entities/vancl/"
+  },
+  "VandaIlsonSiqueira": {
+    "title": "Vanda Ilson Siqueira",
+    "url": "/wiki/entities/vandailsonsiqueira/"
   },
   "Vanessa": {
     "title": "Vanessa",
@@ -26138,6 +26190,10 @@
   "the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers": {
     "title": "The little-known regulatory bodies that can make or break AI data centers",
     "url": "/wiki/sources/the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers/"
+  },
+  "the-little-pet-fish-that-saved-a-town-in-the-amazon": {
+    "title": "The little pet fish that saved a town in the Amazon",
+    "url": "/wiki/sources/the-little-pet-fish-that-saved-a-town-in-the-amazon/"
   },
   "the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7": {
     "title": "The Mourning Show: The Politics of Khamenei's Funeral",

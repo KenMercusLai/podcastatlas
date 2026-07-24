@@ -2,7 +2,7 @@
 title: "Conservation Intervention"
 type: concept
 tags: [conservation, ecology, wildlife]
-sources: [138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210, ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260]
+sources: [the-little-pet-fish-that-saved-a-town-in-the-amazon, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 186-rang-ni-xiao-dao-tou-diao-reng-bu-wang-sikao-weida-de-xiaoshi-shijie-manyou-zhinan-998655210, ganguan-fangda-shijie-he-renning-liao-guanniao-ziran-yu-ziyou-e583dac2-bad8-4208-8d35-0c3de8594779, 47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260]
 last_updated: 2026-07-24
 ---
 
@@ -22,6 +22,8 @@ The concept carries a built-in tension. The episode contrasts the worry that hum
 
 [[138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726]] adds a one-animal rescue version through [[ThePenguinLessons|《企鹅课》 / The Penguin Lessons]]. Unlike planned species programs, [[TomMichell|Tom Michell / 汤姆·米切尔]] improvises after finding [[JuanSalvadorPenguin|Juan Salvador / 胡安·萨尔瓦多]] amid [[OilPollutionWildlifeHarm]]. The source keeps the intervention uncertain: cleaning and feeding help, but release, captivity, swimming access, and same-species companionship remain unresolved until later knowledge clarifies why a single penguin may not choose the sea alone.
 
+[[the-little-pet-fish-that-saved-a-town-in-the-amazon]] adds a market-based version through [[Barcelos]], [[CardinalTetra]], and [[ProjectPiaba]]. Here the intervention is not primarily a sanctuary or rescue program; it is an effort to keep a bounded wild harvest commercially viable so local income remains tied to intact [[RioNegro]] habitat.
+
 ## Key Claims
 - Active protection can be justified when human disturbance or species decline has already changed the baseline.
 - Good intervention begins with learning what the species needs rather than projecting human ideas of scenery or convenience.
@@ -34,6 +36,7 @@ The concept carries a built-in tension. The episode contrasts the worry that hum
 - On farms and managed woodland, habitat protection can require active cutting, planting, grazing, drainage, or other visible disturbance when the ecological function supports it.
 - Last-chance attention helps only when it becomes money, habitat control, monitoring, predator management, or other accountable work rather than symbolic concern alone.
 - Emergency rescue can be an intervention too, but it should remain answerable to species-specific needs rather than to the rescuer's affection alone.
+- Market design can function as conservation intervention when traceability, handling quality, and buyer demand keep sustainable wild harvest economically viable.
 
 ## Connections
 - [[ChineseCrestedTern]] - source species case.
@@ -46,3 +49,4 @@ The concept carries a built-in tension. The episode contrasts the worry that hum
 - [[EnvironmentalTradeoffAccounting]] and [[AgriculturalSystemsReality]] - working-land extension from the Clarkson farm source.
 - [[LastChanceToSee|《消逝世界漫游指南》]], [[AyeAye]], [[MountainGorilla]], [[Baiji]], [[Kakapo]], [[LastChanceEcologicalWitnessing]], and [[ConservationPublicityGap]] - endangered-species travel extension from episode 186.
 - [[ThePenguinLessons|《企鹅课》 / The Penguin Lessons]], [[TomMichell|Tom Michell / 汤姆·米切尔]], [[JuanSalvadorPenguin|Juan Salvador / 胡安·萨尔瓦多]], [[WildAnimalRescueResponsibility]], and [[OilPollutionWildlifeHarm]] - improvised rescue extension from episode 138.
+- [[Barcelos]], [[CardinalTetra]], [[ProjectPiaba]], [[SustainableWildHarvesting]], and [[OriginTraceabilityMoat]] - market-based conservation extension from Planet Money.
