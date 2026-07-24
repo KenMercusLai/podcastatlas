@@ -2,8 +2,8 @@
 title: "Peer-to-Peer Marketplace Trust"
 type: concept
 tags: [marketplace, trust, product-design]
-sources: [tsr-s3-eddylu-v2-tsr-s3-eddylu-v2, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final]
-last_updated: 2026-07-11
+sources: [tsr-s3-eddylu-v2-tsr-s3-eddylu-v2, socialradarspod-brianchesky-final, socialradarspod-brianchesky2-final, seven-allegedly-fake-chanel-bags-vs-the-realreal]
+last_updated: 2026-07-24
 ---
 
 # Peer-to-Peer Marketplace Trust
@@ -16,6 +16,8 @@ The source identifies several product mechanisms: profiles on both sides, recipr
 
 [[tsr-s3-eddylu-v2-tsr-s3-eddylu-v2]] adds a product-authentication contrast through [[GOAT]]. The source is less about trusting a person in an offline interaction and more about trusting a marketplace to verify the object. It connects peer-to-peer trust to [[AuthenticationLedMarketplaceTrust]] and [[MarketplaceFrictionReduction]]: the seller can be abstract if the platform makes authenticity, condition, and quality control reliable enough.
 
+[[seven-allegedly-fake-chanel-bags-vs-the-realreal]] extends the product-authentication branch through [[TheRealReal]]. The case shows that platform trust can conflict with upstream brand authority: buyers may trust the marketplace, but [[Chanel]] argues that its own trademark knowledge and brand reputation make third-party authentication legally insufficient.
+
 ## Key Claims
 - Marketplace trust can be the core product, not only a risk-control feature.
 - Profiles help strangers interpret identity and intent before meeting.
@@ -24,6 +26,7 @@ The source identifies several product mechanisms: profiles on both sides, recipr
 - Trust design is strongest when it resolves the specific awkward moment users already experience.
 - Marketplace expansion can depend on trust design because buyers need to understand why unusual supply is safe enough to try.
 - Some marketplaces reduce stranger risk by making the counterparty less important and moving trust into platform authentication and quality control.
+- Product-authentication marketplaces also need to manage the original brand's legal and reputational claims, not only buyer-seller distrust.
 
 ## Connections
 - [[Airbnb]], [[BrianChesky]], [[JoeGebbia]], and [[NateBlecharczyk]] - source case and founding team.
@@ -32,3 +35,4 @@ The source identifies several product mechanisms: profiles on both sides, recipr
 - [[DoorDash]] and [[FounderProximity]] - adjacent marketplace cases where operational trust depends on direct participant realities.
 - [[UnscalableFounderWork]] and [[DesignLedGrowth]] - host-fieldwork and photography practices that made trust visible in the second Chesky source.
 - [[GOAT]], [[EddyLu]], [[Daishen]], [[AuthenticationLedMarketplaceTrust]], and [[MarketplaceFrictionReduction]] - sneaker-resale authentication contrast added by the Eddy Lu episode.
+- [[TheRealReal]], [[Chanel]], [[LuxuryResaleAuthentication]], and [[TrademarkResaleBoundary]] - luxury-resale authentication and brand-control extension added by Planet Money.

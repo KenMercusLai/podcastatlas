@@ -4655,3 +4655,11 @@ Added source page for the 硬地骇客 episode on FDE, Palantir, OpenAI, Anthrop
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | Seven allegedly fake Chanel bags vs The RealReal
+
+Added source page for a Planet Money episode on Chanel, The RealReal, luxury resale authentication, asymmetric information, trademark resale boundaries, first-sale doctrine, and The RealReal's anti-competitive counterargument. Created pages for Chanel, The RealReal, Julie Wainwright, Graham Wetzbarger, Julie Zerbo, Jeannie Rhee, Asymmetric Information, Luxury Resale Authentication, Brand-Controlled Authentication, Trademark Resale Boundary, and First Sale Doctrine; updated overview, index, NPR, Planet Money, Authentication-Led Marketplace Trust, Peer-to-Peer Marketplace Trust, Marketplace Friction Reduction, Consumer Brand Moat, Trust As Business Asset, and Platform Antitrust. No direct contradiction found; the source extends marketplace-trust material by showing that authentication is both buyer infrastructure and a contested form of brand power.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

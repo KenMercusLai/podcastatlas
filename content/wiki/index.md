@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Seven allegedly fake Chanel bags vs The RealReal](sources/seven-allegedly-fake-chanel-bags-vs-the-realreal.md) — Planet Money episode on Chanel, The RealReal, luxury resale authentication, trademark boundaries, first-sale doctrine, and anti-competitive resale-control claims.
 - [EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬](sources/ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u.md) — 硬地骇客 episode demystifying FDE through Palantir, OpenAI, Anthropic, CSE, Chinese 2B custom delivery, enterprise AI PMF, and model-as-control-layer software futures.
 - [A hawk who flew on political winds: Lindsey Graham](sources/a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55.md) — The Intelligence episode on Lindsey Graham's death, Republican foreign-policy adaptation, AI model value surveys and censorship, and renewed interest in Old Masters.
 - [中年三账户：现金流、肌肉、睡眠](sources/zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae.md) — 面基 episode framing midlife through cash flow, muscle, and sleep accounts, with household fixed costs, strength training, sleep inputs, and environment-over-willpower routines.
@@ -581,6 +582,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Chanel](entities/Chanel.md) — Luxury fashion brand whose dispute with The RealReal tests trademark protection, authentication authority, and secondary-market control.
+- [The RealReal](entities/TheRealReal.md) — Luxury resale marketplace built around independent authentication and first-sale resale rights.
+- [Julie Wainwright](entities/JulieWainwright.md) — Founder of The RealReal, using authentication to unlock unused luxury inventory as marketplace supply.
+- [Graham Wetzbarger](entities/GrahamWetzbarger.md) — Early The RealReal authenticator explaining material, construction, hardware, and identifier checks for luxury goods.
+- [Julie Zerbo](entities/JulieZerbo.md) — Fashion law expert explaining Chanel's counterfeiting, trademark, and false-advertising claims.
+- [Jeannie Rhee](entities/JeannieRhee.md) — Lawyer for The RealReal arguing that independent authentication and first-sale resale do not require Chanel's exclusive approval.
 - [Lindsey Graham](entities/LindseyGraham.md) — South Carolina senator whose career is used by The Intelligence to track Republican foreign-policy adaptation under Trump.
 - [Henry McMaster](entities/HenryMcMaster.md) — South Carolina governor expected in the episode to appoint a temporary senator after Graham's death.
 - [Sondre Solstad](entities/SondreSolstad.md) — Economist participant explaining the survey-based test of AI model values.
@@ -3895,6 +3902,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Asymmetric Information](concepts/AsymmetricInformation.md) — Market condition where one transaction side knows more than the other, making authentication and trust design economically valuable.
+- [Luxury Resale Authentication](concepts/LuxuryResaleAuthentication.md) — Expert and operational process that lets buyers trust used high-end goods in online resale marketplaces.
+- [Brand-Controlled Authentication](concepts/BrandControlledAuthentication.md) — Claim that only the original brand has enough internal knowledge to decide product authenticity.
+- [Trademark Resale Boundary](concepts/TrademarkResaleBoundary.md) — Boundary between lawful descriptive use of a brand mark in resale and confusing, counterfeit, or unauthorized use.
+- [First Sale Doctrine](concepts/FirstSaleDoctrine.md) — Resale principle protecting transfer of lawfully purchased physical goods while excluding counterfeits and false claims.
 - [Customer Success Engineer](concepts/CustomerSuccessEngineer.md) — Mature-product adoption role contrasted with FDE in enterprise AI deployment.
 - [Enterprise Custom Delivery](concepts/EnterpriseCustomDelivery.md) — 2B software implementation pattern used to de-mystify FDE and its product-feedback requirements.
 - [Republican Foreign Policy Adaptation](concepts/RepublicanForeignPolicyAdaptation.md) — Pattern where older hawkish Republican foreign policy survives by adapting to Trump-centered party power.

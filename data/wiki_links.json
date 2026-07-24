@@ -2683,6 +2683,10 @@
     "title": "Assistive Device Classification",
     "url": "/wiki/concepts/assistivedeviceclassification/"
   },
+  "AsymmetricInformation": {
+    "title": "Asymmetric Information",
+    "url": "/wiki/concepts/asymmetricinformation/"
+  },
   "AsymmetricInfrastructureAttack": {
     "title": "Asymmetric Infrastructure Attack",
     "url": "/wiki/concepts/asymmetricinfrastructureattack/"
@@ -3583,6 +3587,10 @@
     "title": "Brad Smith",
     "url": "/wiki/entities/bradsmith/"
   },
+  "BrandControlledAuthentication": {
+    "title": "Brand-Controlled Authentication",
+    "url": "/wiki/concepts/brandcontrolledauthentication/"
+  },
   "BrandImpersonationMonitoring": {
     "title": "Brand Impersonation Monitoring",
     "url": "/wiki/concepts/brandimpersonationmonitoring/"
@@ -4326,6 +4334,10 @@
   "ChanceWeldon": {
     "title": "Chance Weldon",
     "url": "/wiki/entities/chanceweldon/"
+  },
+  "Chanel": {
+    "title": "Chanel",
+    "url": "/wiki/entities/chanel/"
   },
   "ChangXinMemory": {
     "title": "ChangXin Memory / 长鑫存储",
@@ -8151,6 +8163,10 @@
     "title": "First Principles Manufacturing",
     "url": "/wiki/concepts/firstprinciplesmanufacturing/"
   },
+  "FirstSaleDoctrine": {
+    "title": "First Sale Doctrine",
+    "url": "/wiki/concepts/firstsaledoctrine/"
+  },
   "FisheriesResourceManagement": {
     "title": "Fisheries Resource Management",
     "url": "/wiki/concepts/fisheriesresourcemanagement/"
@@ -9366,6 +9382,10 @@
   "GraduationAnxiety": {
     "title": "Graduation Anxiety",
     "url": "/wiki/concepts/graduationanxiety/"
+  },
+  "GrahamWetzbarger": {
+    "title": "Graham Wetzbarger",
+    "url": "/wiki/entities/grahamwetzbarger/"
   },
   "GrassrootsPrivateEntrepreneurship": {
     "title": "Grassroots Private Entrepreneurship",
@@ -11447,6 +11467,10 @@
     "title": "Jean-Paul Sartre / 萨特",
     "url": "/wiki/entities/jeanpaulsartre/"
   },
+  "JeannieRhee": {
+    "title": "Jeannie Rhee",
+    "url": "/wiki/entities/jeannierhee/"
+  },
   "JedKronfeld": {
     "title": "Jed Kronfeld",
     "url": "/wiki/entities/jedkronfeld/"
@@ -11962,6 +11986,14 @@
   "JulianWeber": {
     "title": "Julian Weber",
     "url": "/wiki/entities/julianweber/"
+  },
+  "JulieWainwright": {
+    "title": "Julie Wainwright",
+    "url": "/wiki/entities/juliewainwright/"
+  },
+  "JulieZerbo": {
+    "title": "Julie Zerbo",
+    "url": "/wiki/entities/juliezerbo/"
   },
   "JuliusCaesar": {
     "title": "Julius Caesar / 尤利乌斯·恺撒",
@@ -13518,6 +13550,10 @@
   "LuxsharePrecision": {
     "title": "Luxshare Precision",
     "url": "/wiki/entities/luxshareprecision/"
+  },
+  "LuxuryResaleAuthentication": {
+    "title": "Luxury Resale Authentication",
+    "url": "/wiki/concepts/luxuryresaleauthentication/"
   },
   "LyndonBJohnson": {
     "title": "Lyndon B. Johnson",
@@ -21187,6 +21223,10 @@
     "title": "《豌豆公主》 / The Princess and the Pea",
     "url": "/wiki/entities/theprincessandthepea/"
   },
+  "TheRealReal": {
+    "title": "The RealReal",
+    "url": "/wiki/entities/therealreal/"
+  },
   "TheSaaSPodcast": {
     "title": "The SaaS Podcast",
     "url": "/wiki/entities/thesaaspodcast/"
@@ -21586,6 +21626,10 @@
   "TradeReciprocityProtectionism": {
     "title": "Trade Reciprocity Protectionism",
     "url": "/wiki/concepts/tradereciprocityprotectionism/"
+  },
+  "TrademarkResaleBoundary": {
+    "title": "Trademark Resale Boundary",
+    "url": "/wiki/concepts/trademarkresaleboundary/"
   },
   "TradingCompanyInvestmentModel": {
     "title": "Trading Company Investment Model",
@@ -24754,6 +24798,10 @@
   "ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0": {
     "title": "如何「兜住」一颗火箭？｜ S10E21",
     "url": "/wiki/sources/ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0/"
+  },
+  "seven-allegedly-fake-chanel-bags-vs-the-realreal": {
+    "title": "Seven allegedly fake Chanel bags vs The RealReal",
+    "url": "/wiki/sources/seven-allegedly-fake-chanel-bags-vs-the-realreal/"
   },
   "shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076": {
     "title": "商业小样43 | AI时代，谁在给服务器“降温”",
