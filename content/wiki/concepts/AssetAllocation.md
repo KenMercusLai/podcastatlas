@@ -2,8 +2,8 @@
 title: "Asset Allocation"
 type: concept
 tags: [investing, portfolio, allocation]
-sources: [e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x]
-last_updated: 2026-07-15
+sources: [e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, e144-jiaoyi-de-yishu-bu-yuce-tongji-youshi-fensan-hongli-suiji-bodong-llbhc5wemintlslfwrtx4qdxts-0, e145-shangzhongle-4000-dian-zhishang-de-xinli-anmo-lrk6eqfqkjnihzf5pimbek4kqm9e, 137-cong-shunde-zhuroupo-dao-hanguo-shengshuidong-naxie-ai-wufa-qudai-de-tiyan-xiaofei-feng-tou-quan-1-137-1, vol-101-ji-anquan-shouyi-you-gao-liudongxing-hai-hao-de-touzi-daodi-cunzai-ma-lr7xt-2cgoru2gfdbatvbiv78ixg, vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]
+last_updated: 2026-07-24
 ---
 
 # Asset Allocation
@@ -28,6 +28,8 @@ The episode's practical structure is strategic first, tactical second. [[YunLei]
 
 [[vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x]] adds the retirement-account version. In a [[PersonalPensionAccount|个人养老金账户]], allocation has to account for tax preference, withdrawal constraints, repeated contributions, retirement date, and long-term purchasing power, so the index-versus-FOF question becomes a match between direct beta exposure and product-embedded allocation discipline.
 
+[[ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]] adds the household-gold version. The [[TalkSanlian|Talk三联]] episode treats gold as a possible 10%-style sleeve, children's long-duration savings, and a consumption-savings hybrid, but it keeps the allocation question tied to purpose, liquidity, entry price, and whether the buyer can hold through [[DrawdownPsychology|drawdowns]].
+
 ## Key Claims
 - Asset allocation should be judged by the whole portfolio's risk-return path, not by whether each individual asset looks attractive in isolation.
 - Expected return, volatility, and [[AssetCorrelation]] are all required inputs because diversification only helps when assets behave differently at the portfolio level.
@@ -42,6 +44,7 @@ The episode's practical structure is strategic first, tactical second. [[YunLei]
 - Vol.101 adds that a portfolio can combine assets with different return, safety, and liquidity profiles so the household's overall balance is better than any single asset.
 - Vol.105 adds that the best allocation is one the investor can understand, need, and hold; the largest weights should be in assets that match both purpose and personal risk capacity.
 - Vol.109 adds that pension-account allocation should link contribution rhythm, retirement horizon, and holdability before choosing between direct index exposure, FOF, or target-date products.
+- EP268 adds that gold allocation should be role-defined before sizing: reserve asset, child's savings, gift, jewelry, ETF-like exposure, and monthly reward are different portfolio jobs.
 
 ## Connections
 - [[EfficientFrontier]] — framework for judging whether allocation actually improved.
@@ -57,3 +60,4 @@ The episode's practical structure is strategic first, tactical second. [[YunLei]
 - [[InvestmentImpossibleTriangle]], [[InvestmentLiquidityTradeoff]], [[AssetScarcityPremium]], and [[YueBao]] — vol.101's household asset-test extension.
 - [[PortfolioSuitability]], [[AdaptivePortfolioDesign]], and [[InvestmentCooldownDiscipline]] — vol.105's portfolio-fit and behavior-control extension.
 - [[PersonalPensionAccount|个人养老金账户]], [[TargetDateFund|目标日期基金]], [[FOFProductDesign]], and [[PassiveInvesting]] — vol.109's retirement-account product-choice extension.
+- [[HouseholdGoldSavings]], [[OnlineGoldAccumulation]], [[GoldMonetaryAnchor]], and [[DrawdownPsychology]] — EP268's gold allocation and household-finance extension.

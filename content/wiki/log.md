@@ -4503,3 +4503,11 @@ Added source page for a 蜜獾吃书 episode with 韩钊 and 沙青青 on 石川
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint after health passed. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages across 6,159 pages. Graph-aware checks used stale `graph/graph.json` data with 5,641 nodes, found no hub stubs, five fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to `claude-3-5-sonnet-latest` without a provider prefix. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-24] ingest | EP268 毛冬x唐唐：大黄，你到底咋了！上蹿下跳的黄金和那些绝不下车的人
+
+Added source page for a Talk三联 episode with 毛冬, 唐涛/唐唐, 吴淑冰, 莫晨, and 蚂蚁财富 on gold drawdowns, household gold savings, online gold accumulation, physical gold versus ETF-like routes, jewelry premiums, gifts, children's long-duration money, central-bank buying, dollar confidence, and no-leverage position discipline. Created pages for 毛冬, 唐涛/唐唐, 吴淑冰, 莫晨, 蚂蚁财富, Household Gold Savings, and Online Gold Accumulation; updated overview, index, Talk三联, Gold Monetary Anchor, Asset Allocation, Investment Risk Management, and Drawdown Psychology. No direct contradiction found; the source complements the existing gold-as-monetary-anchor branch by adding a household and platform-mediated accumulation layer.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

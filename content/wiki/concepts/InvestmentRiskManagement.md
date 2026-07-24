@@ -36,7 +36,8 @@ sources:
   - vol-104-putongren-ganggu-wanquan-shengcun-zhinan-chuantai-sandian-xiaban-lmzivgi6d3guv7wajyjw9cv9zz90
   - vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe
   - vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x
-last_updated: 2026-07-15
+  - ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv
+last_updated: 2026-07-24
 ---
 
 # Investment Risk Management
@@ -52,6 +53,8 @@ Investment risk management is the practical bridge from market uncertainty to or
 [[vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe]] adds the portfolio-suitability version: risk management means matching the portfolio to both the market environment and the investor's own goals, [[CircleOfCompetence]], liquidity needs, and sleep-at-night boundary. It also adds [[InvestmentCooldownDiscipline]] as a concrete process for slowing large decisions and limiting turnover before short-term news becomes a portfolio rebuild.
 
 [[vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x]] adds the pension-account version: risk management inside a [[PersonalPensionAccount|个人养老金账户]] means matching tax benefit, contribution rhythm, retirement date, product type, and drawdown holdability. The source treats low-fee index funds, FOF, and [[TargetDateFund|target-date funds]] as different risk paths rather than as universally ranked products.
+
+[[ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]] adds the retail-gold version: even an asset associated with safety can create stress when the buyer enters after a fast run-up, allocates too much, or uses borrowed money. The source treats gold's form factor - jewelry, physical gold, accumulated grams, or ETF-like exposure - as part of risk management because each route changes liquidity, premium, and behavior.
 
 [[e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc]] adds the multi-asset product version: risk management includes the client's maximum drawdown, path volatility, product comprehension, [[AssetCorrelation]], and whether tactical macro views stay inside a defined allocation sleeve.
 
@@ -154,6 +157,7 @@ Investment risk management is the practical bridge from market uncertainty to or
 - Large allocation changes should require friction through [[InvestmentCooldownDiscipline]], especially when the trigger is a social-media headline or a sudden macro narrative.
 - [[AdaptivePortfolioDesign]] favors diverse and liquid enough structures over repeated all-in or all-out regime calls by ordinary investors.
 - Pension-account risk management should evaluate whether the investor can hold direct [[PassiveInvesting|index beta]] or needs FOF and [[TargetDateFund|target-date]] discipline to stay aligned with retirement goals.
+- EP268 adds that gold risk management begins with purpose, size, and funding source: the same gold purchase can be a long-term reserve, a gift, a monthly reward, or a stressful speculation depending on those inputs.
 
 ## Connections
 - [[JimSimons]] — source's voice for the principle.
@@ -194,3 +198,4 @@ Investment risk management is the practical bridge from market uncertainty to or
 - [[HongKongRetailInvestorSurvival]], [[HongKongPennyStockRisk]], [[HongKongLiquidityExitRisk]], [[ManagementShareholderAlignmentRisk]], [[SellSideResearchIncentives]], [[AHShareDiscountRepricing]], [[HongKongIPOLiquidityPath]], and [[HongKongTripleRerating]] — vol.104's Hong Kong retail-stock-picking survival cluster.
 - [[PortfolioSuitability]], [[AdaptivePortfolioDesign]], [[InvestmentCooldownDiscipline]], and [[CircleOfCompetence]] — vol.105's portfolio-fit, liquidity, and behavioral-process cluster.
 - [[PersonalPensionAccount|个人养老金账户]], [[TargetDateFund|目标日期基金]], [[FOFProductDesign]], and [[PassiveInvesting]] — vol.109's pension-account risk and product-choice cluster.
+- [[HouseholdGoldSavings]], [[OnlineGoldAccumulation]], [[AntFortune]], and [[GoldMonetaryAnchor]] — EP268's retail-gold, platform, and household-reserve extension.

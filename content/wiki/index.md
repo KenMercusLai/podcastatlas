@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP268 毛冬x唐唐：大黄，你到底咋了！上蹿下跳的黄金和那些绝不下车的人](sources/ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv.md) — Talk三联 episode with 毛冬, 唐涛/唐唐, 吴淑冰, and 莫晨 on gold drawdowns, household gold savings, online gold accumulation, gifts, liquidity, allocation, and no-leverage risk discipline.
 - [【沙青青x韩钊】石川啄木：我抱持的思想，都是因为缺钱](sources/shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314.md) — 蜜獾吃书 episode with 韩钊 and 沙青青 on 石川啄木, 《短歌是我悲伤的玩具》, Donald Keene's biography, tanka as emotional snapshot, Meiji intellectual precarity, and the Great Treason political context.
 - [148. 王氏之死：断井颓垣上的历史妆镜](sources/148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934.md) — 蜜獾吃书 episode on 史景迁《王氏之死》, 郯城 disaster society, 王氏's murder, 黄六鸿, 《福惠全书》, 蒲松龄, 《聊斋志异》, Qing gender law, and fiction as historical evidence.
 - [141. 制造弗兰肯斯坦：科幻之母和她的神奇时代](sources/141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931.md) — 蜜獾吃书 episode on Mary Shelley, Frankenstein, Romantic science, galvanism, vitalism, anatomy, corpse trade, electric therapy, the Villa Diodati circle, and creator responsibility.
@@ -561,6 +562,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [毛冬 / Mao Dong](entities/MaoDong.md) — Podcast host and stand-up comedian whose high-entry gold holding example grounds EP268's gold drawdown psychology.
+- [唐涛 / 唐唐 / Tang Tao](entities/TangTao.md) — Ant Fortune community creator explaining gold position size, recurring buyers, family savers, and monthly reward buyers in EP268.
+- [吴淑冰 / Wu Shubing](entities/WuShubing.md) — Talk三联 host framing EP268's gold discussion through price swings, child savings, and household time horizons.
+- [莫晨 / Mo Chen](entities/MoChen.md) — EP268 participant adding family-memory and long-term-practice examples to the household gold discussion.
+- [蚂蚁财富 / Ant Fortune](entities/AntFortune.md) — Wealth-management platform context for EP268's online gold accumulation, recurring purchases, virtual grams, and redemption loop.
 - [《王氏之死》 / The Death of Woman Wang](entities/TheDeathOfWomanWang.md) — Jonathan Spence microhistory of 王氏's murder in early Qing 郯城.
 - [王氏 / Woman Wang](entities/WangShiTancheng.md) — Unnamed Tancheng woman whose murder anchors episode 148's archive, gender-law, and ghost-story reading.
 - [黄六鸿 / Huang Liuhong](entities/HuangLiuhong.md) — Qing magistrate and author whose case practice informs 《王氏之死》.
@@ -3760,6 +3766,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Household Gold Savings](concepts/HouseholdGoldSavings.md) — EP268 frame for gold as family-scale store of value, gift, children's money, jewelry, gold beans, and safety reserve.
+- [Online Gold Accumulation](concepts/OnlineGoldAccumulation.md) — App-mediated gold-buying pattern where small recurring purchases, virtual gram balances, and redemption turn gold into a low-friction habit.
 - [Microhistory From Hostile Archives](concepts/MicrohistoryFromHostileArchives.md) — Method for reconstructing marginal lives from records that preserve them mainly as legal or administrative problems.
 - [Fiction As Historical Evidence](concepts/FictionAsHistoricalEvidence.md) — Guarded method for using fiction as evidence of social imagination, fear, and norms rather than direct event proof.
 - [Science Fiction As Contemporary Science Integration / 科幻作为当代科学整合](concepts/ScienceFictionContemporaryScienceIntegration.md) — Episode 141 frame for judging early science fiction by how it absorbs its own era's live science and anxiety.
