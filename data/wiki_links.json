@@ -1871,9 +1871,25 @@
     "title": "Airbnb",
     "url": "/wiki/entities/airbnb/"
   },
+  "AirlineBailoutPolitics": {
+    "title": "Airline Bailout Politics",
+    "url": "/wiki/concepts/airlinebailoutpolitics/"
+  },
+  "AirlineLoyaltyProgramMoat": {
+    "title": "Airline Loyalty Program Moat",
+    "url": "/wiki/concepts/airlineloyaltyprogrammoat/"
+  },
+  "AirlineMarketPriceDiscipline": {
+    "title": "Airline Market Price Discipline",
+    "url": "/wiki/concepts/airlinemarketpricediscipline/"
+  },
   "AirlineServiceDifferentiation": {
     "title": "Airline Service Differentiation",
     "url": "/wiki/concepts/airlineservicedifferentiation/"
+  },
+  "AirlineUnbundling": {
+    "title": "Airline Unbundling",
+    "url": "/wiki/concepts/airlineunbundling/"
   },
   "Ajiao": {
     "title": "阿娇 / 柱子哥",
@@ -2170,6 +2186,10 @@
   "AmericaFirstPolicyInstitute": {
     "title": "America First Policy Institute",
     "url": "/wiki/entities/americafirstpolicyinstitute/"
+  },
+  "AmericanAirlines": {
+    "title": "American Airlines",
+    "url": "/wiki/entities/americanairlines/"
   },
   "AmericanArchiveOfPublicBroadcasting": {
     "title": "American Archive of Public Broadcasting",
@@ -2638,6 +2658,10 @@
   "ArnoldRobinson": {
     "title": "Arnold Robinson / 阿诺德",
     "url": "/wiki/entities/arnoldrobinson/"
+  },
+  "AronDarling": {
+    "title": "Aron Darling",
+    "url": "/wiki/entities/arondarling/"
   },
   "ArrivalFilm": {
     "title": "Arrival",
@@ -3175,6 +3199,10 @@
     "title": "Barack Obama",
     "url": "/wiki/entities/barackobama/"
   },
+  "BarbaraDingus": {
+    "title": "Barbara Dingus",
+    "url": "/wiki/entities/barbaradingus/"
+  },
   "BarbellStrategy": {
     "title": "Barbell Strategy",
     "url": "/wiki/concepts/barbellstrategy/"
@@ -3206,6 +3234,10 @@
   "BasicBrownBearFactory": {
     "title": "Basic Brown Bear Factory",
     "url": "/wiki/entities/basicbrownbearfactory/"
+  },
+  "BasicEconomyCopycatStrategy": {
+    "title": "Basic Economy Copycat Strategy",
+    "url": "/wiki/concepts/basiceconomycopycatstrategy/"
   },
   "BatteryConsistencySafety": {
     "title": "Battery Consistency And Safety",
@@ -3306,6 +3338,10 @@
   "BeltAndRoadExternalDemand": {
     "title": "Belt and Road External Demand",
     "url": "/wiki/concepts/beltandroadexternaldemand/"
+  },
+  "BenBaldanza": {
+    "title": "Ben Baldanza",
+    "url": "/wiki/entities/benbaldanza/"
   },
   "BenCastleman": {
     "title": "Ben Castleman",
@@ -3862,6 +3898,10 @@
   "Bucephalus": {
     "title": "Bucephalus / 布西法拉斯",
     "url": "/wiki/entities/bucephalus/"
+  },
+  "BudgetAirlineCostSqueeze": {
+    "title": "Budget Airline Cost Squeeze",
+    "url": "/wiki/concepts/budgetairlinecostsqueeze/"
   },
   "Budokan": {
     "title": "Budokan",
@@ -6582,6 +6622,10 @@
   "DellTechnologies": {
     "title": "Dell Technologies",
     "url": "/wiki/entities/delltechnologies/"
+  },
+  "DeltaAirLines": {
+    "title": "Delta Air Lines",
+    "url": "/wiki/entities/deltaairlines/"
   },
   "DemandHarvesting": {
     "title": "Demand Harvesting",
@@ -10503,6 +10547,10 @@
     "title": "Henry David Thoreau / 梭罗",
     "url": "/wiki/entities/henrydavidthoreau/"
   },
+  "HenryHarteveldt": {
+    "title": "Henry Harteveldt",
+    "url": "/wiki/entities/henryharteveldt/"
+  },
   "HenryLaufer": {
     "title": "Henry Laufer",
     "url": "/wiki/entities/henrylaufer/"
@@ -11811,6 +11859,10 @@
     "title": "Jacob Cram",
     "url": "/wiki/entities/jacobcram/"
   },
+  "JacobGoldstein": {
+    "title": "Jacob Goldstein",
+    "url": "/wiki/entities/jacobgoldstein/"
+  },
   "JacobTierney": {
     "title": "Jacob Tierney",
     "url": "/wiki/entities/jacobtierney/"
@@ -12094,6 +12146,10 @@
   "JessicaLivingston": {
     "title": "Jessica Livingston",
     "url": "/wiki/entities/jessicalivingston/"
+  },
+  "JetBlue": {
+    "title": "JetBlue",
+    "url": "/wiki/entities/jetblue/"
   },
   "JetBrains": {
     "title": "JetBrains",
@@ -20163,6 +20219,10 @@
     "title": "Seventh Generation",
     "url": "/wiki/entities/seventhgeneration/"
   },
+  "SeverinBorenstein": {
+    "title": "Severin Borenstein",
+    "url": "/wiki/entities/severinborenstein/"
+  },
   "SexualAssaultEvidenceKit": {
     "title": "Sexual Assault Evidence Kit",
     "url": "/wiki/entities/sexualassaultevidencekit/"
@@ -20907,6 +20967,10 @@
     "title": "Spin Master",
     "url": "/wiki/entities/spinmaster/"
   },
+  "SpiritAirlines": {
+    "title": "Spirit Airlines",
+    "url": "/wiki/entities/spiritairlines/"
+  },
   "SpiritedAway": {
     "title": "《千与千寻》 / Spirited Away",
     "url": "/wiki/entities/spiritedaway/"
@@ -21206,6 +21270,10 @@
   "StateStreet": {
     "title": "State Street",
     "url": "/wiki/entities/statestreet/"
+  },
+  "StatedRevealedPreferenceGap": {
+    "title": "Stated-Revealed Preference Gap",
+    "url": "/wiki/concepts/statedrevealedpreferencegap/"
   },
   "StatelessExile": {
     "title": "Stateless Exile / 无国籍流亡",
@@ -23106,6 +23174,10 @@
   "UltraFastDeliveryEconomics": {
     "title": "Ultra-Fast Delivery Economics",
     "url": "/wiki/concepts/ultrafastdeliveryeconomics/"
+  },
+  "UltraLowCostCarrierModel": {
+    "title": "Ultra-Low-Cost Carrier Model",
+    "url": "/wiki/concepts/ultralowcostcarriermodel/"
   },
   "UltraWave": {
     "title": "Ultra Wave",
@@ -25167,6 +25239,10 @@
     "title": "自立",
     "url": "/wiki/entities/zili/"
   },
+  "ZoeChase": {
+    "title": "Zoe Chase",
+    "url": "/wiki/entities/zoechase/"
+  },
   "ZonaFrancaDeManaus": {
     "title": "Zona Franca de Manaus",
     "url": "/wiki/entities/zonafrancademanaus/"
@@ -26142,6 +26218,10 @@
   "sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708": {
     "title": "sp.06 串台｜和李乌鸦＆超哥 high 聊：做读书博主的“守墓心得”",
     "url": "/wiki/sources/sp-06-chuantai-he-liwuya-chao-ge-highliao-zuo-dushu-bozhu-de-shoumu-xinde-819825708/"
+  },
+  "spirit-airlines-and-the-future-of-cheap-flights": {
+    "title": "Spirit Airlines and the future of cheap flights",
+    "url": "/wiki/sources/spirit-airlines-and-the-future-of-cheap-flights/"
   },
   "starmergeddon-british-pm-resigns-6a390b674a8189f2c3b4e6f1": {
     "title": "Starmergeddon: British PM resigns",

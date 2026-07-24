@@ -2,7 +2,7 @@
 title: "Greg Rosalsky"
 type: entity
 tags: [person, journalist, economics, podcast]
-sources: [indicators-of-2025-and-what-to-watch-in-2026, why-economists-got-free-trade-with-china-so-wrong]
+sources: [spirit-airlines-and-the-future-of-cheap-flights, indicators-of-2025-and-what-to-watch-in-2026, why-economists-got-free-trade-with-china-so-wrong]
 last_updated: 2026-07-24
 ---
 
@@ -14,9 +14,12 @@ Rosalsky's role is to translate a technical labor-economics debate into a public
 
 [[indicators-of-2025-and-what-to-watch-in-2026]] adds Rosalsky as the participant pitching tariffs as the 2025 indicator. The source uses his segment to move tariff coverage from the China-shock repair debate into [[EffectiveTariffRateShock]], where consumer tariff rates, market turmoil, [[Costco]] litigation, and [[SupremeCourt]] review make tariffs a current macro and legal-authority issue.
 
+[[spirit-airlines-and-the-future-of-cheap-flights]] adds Rosalsky as the analyst explaining the decline side of [[SpiritAirlines|Spirit Airlines]]. His "revenge of the legacy carriers" frame connects [[BasicEconomyCopycatStrategy]], [[AirlineLoyaltyProgramMoat]], and [[BudgetAirlineCostSqueeze]] into one account of why a once-disruptive low-fare model became fragile.
+
 ## Connections
 - [[PlanetMoney]] and [[NPR]] - show and network context.
 - [[DavidAutor]] - interview subject.
 - [[ChinaShock]] and [[FreeTradeDistributionalCost]] - core topics of the episode.
 - [[BlanketTariffLimit]] and [[StrategicIndustrialPolicy]] - later policy questions raised in the interview.
 - [[EffectiveTariffRateShock]], [[DonaldTrump]], [[Costco]], and [[SupremeCourt]] - year-end tariff indicator branch added by the crossover source.
+- [[SpiritAirlines|Spirit Airlines]], [[BasicEconomyCopycatStrategy]], [[AirlineLoyaltyProgramMoat]], and [[BudgetAirlineCostSqueeze]] - airline-competition branch added by the Spirit episode.

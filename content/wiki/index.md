@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Spirit Airlines and the future of cheap flights](sources/spirit-airlines-and-the-future-of-cheap-flights.md) — Planet Money episode on Spirit Airlines' ultra-low-cost model, unbundled fares, stated versus revealed preferences, legacy-carrier basic economy, loyalty-program moats, cost pressure, and bailout politics.
 - [Battlefield rare earths: How the U.S. lost to China](sources/battlefield-rare-earths-how-the-us-lost-to-china.md) — Planet Money episode on Mountain Pass, Molycorp, China's rare-earth processing dominance, the 2010 Japan shock, Project Phoenix, MP Materials, NioCorp, and U.S. state-backed rare-earth rebuilding.
 - [Live: Anthropic co-founder on AI and jobs](sources/live-anthropic-co-founder-on-ai-and-jobs.md) — Planet Money live book-tour episode with Jack Clark and Daryl Fairweather on AI work capacity, robot-tax redistribution, cyber-defense AI as utility, dynamic-pricing fairness, and housing supply politics.
 - [Do prediction market bettors make anything better?](sources/do-prediction-market-bettors-make-anything-better.md) — Planet Money episode on Kalshi, prediction-market trader alpha, derivatives-versus-gambling law, public-good claims, CFTC oversight, and event-contract manipulation risk.
@@ -605,6 +606,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Spirit Airlines](entities/SpiritAirlines.md) — U.S. budget airline whose unbundled low-fare model disciplined the market before bankruptcy, incumbent imitation, and possible rescue pressure.
+- [Ben Baldanza](entities/BenBaldanza.md) — Spirit Airlines executive associated with the ultra-low-cost, Dollar General-style airline strategy.
+- [Aron Darling](entities/AronDarling.md) — Spirit passenger whose flight-status anxiety frames the airline's bankruptcy and liquidation risk.
+- [Zoe Chase](entities/ZoeChase.md) — Planet Money reporter whose 2014 Spirit flight segment made the unbundled passenger experience concrete.
+- [Jacob Goldstein](entities/JacobGoldstein.md) — Planet Money reporter whose 2014 Spirit segment documented cheap fares, add-on fees, and passenger irritation.
+- [Barbara Dingus](entities/BarbaraDingus.md) — Spirit flight attendant whose observation of complaining repeat customers illustrates stated versus revealed preferences.
+- [Severin Borenstein](entities/SeverinBorenstein.md) — Economist explaining how legacy airline loyalty programs can use network scale against budget carriers.
+- [Henry Harteveldt](entities/HenryHarteveldt.md) — Airline industry analyst explaining budget carriers' cost and demand squeeze.
+- [Delta Air Lines](entities/DeltaAirLines.md) — Legacy carrier used in the Spirit episode as an incumbent basic-economy and loyalty-program competitor.
+- [American Airlines](entities/AmericanAirlines.md) — Legacy carrier used in the Spirit episode as an incumbent competitor to budget-airline pricing.
+- [JetBlue](entities/JetBlue.md) — Airline whose blocked attempted merger with Spirit supplies the episode's antitrust context.
 - [Mark Smith](entities/MarkSmith.md) — Rare-earth executive whose Molycorp, Project Phoenix, and NioCorp roles anchor the episode's U.S. rare-earth comeback story.
 - [Molycorp](entities/Molycorp.md) — Mountain Pass rare-earth company that rose with U.S. processing capacity, declined under Chinese competition, and failed in its Project Phoenix comeback.
 - [Mountain Pass Rare Earth Mine](entities/MountainPassRareEarthMine.md) — California rare-earth mine discovered in 1949, central to Molycorp's rise, Project Phoenix, and MP Materials' current U.S. refining push.
@@ -4090,6 +4102,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Ultra-Low-Cost Carrier Model](concepts/UltraLowCostCarrierModel.md) — Airline model that strips the ticket down to transportation and sells many amenities separately to lower the base fare.
+- [Airline Unbundling](concepts/AirlineUnbundling.md) — Pricing strategy that separates bags, seats, food, drinks, and service interactions from the base airfare.
+- [Stated-Revealed Preference Gap](concepts/StatedRevealedPreferenceGap.md) — Difference between what customers say they want and what purchase behavior shows they prioritize.
+- [Basic Economy Copycat Strategy](concepts/BasicEconomyCopycatStrategy.md) — Legacy-airline response that copies low upfront fares while retaining network and loyalty advantages.
+- [Airline Loyalty Program Moat](concepts/AirlineLoyaltyProgramMoat.md) — Competitive advantage created by frequent-flyer programs, credit cards, corporate relationships, and route-network scale.
+- [Budget Airline Cost Squeeze](concepts/BudgetAirlineCostSqueeze.md) — Pressure on low-fare airlines when input costs rise and price-sensitive travelers cut discretionary flying.
+- [Airline Market Price Discipline](concepts/AirlineMarketPriceDiscipline.md) — Fare pressure created when a low-cost carrier forces incumbents to offer cheaper options.
+- [Airline Bailout Politics](concepts/AirlineBailoutPolitics.md) — Policy question of whether public rescue can preserve airline competition rather than reward customer satisfaction.
 - [Rare Earth Export Leverage](concepts/RareEarthExportLeverage.md) — Strategic power created when rare-earth processing dependence lets export restrictions disrupt industrial and defense users.
 - [State-Backed Rare Earth Rebuilding](concepts/StateBackedRareEarthRebuilding.md) — Policy turn toward grants, loans, equity stakes, and price floors to rebuild non-Chinese rare-earth capacity.
 - [Dominant Producer Price Discipline](concepts/DominantProducerPriceDiscipline.md) — Market-structure risk that a dominant supplier can use price or output moves to make rival rare-earth capacity uneconomic.

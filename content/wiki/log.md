@@ -4855,3 +4855,11 @@ Added source page for a Planet Money live book-tour episode with Jack Clark and 
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | Spirit Airlines and the future of cheap flights
+
+Added source page for a Planet Money episode on Spirit Airlines' ultra-low-cost carrier model, airline unbundling, stated versus revealed preferences, basic-economy imitation by legacy carriers, loyalty-program scale advantages, budget-airline cost pressure, and possible federal bailout politics. Created pages for Spirit Airlines, Ben Baldanza, Aron Darling, Zoe Chase, Jacob Goldstein, Barbara Dingus, Severin Borenstein, Henry Harteveldt, Delta Air Lines, American Airlines, JetBlue, Ultra-Low-Cost Carrier Model, Airline Unbundling, Stated-Revealed Preference Gap, Basic Economy Copycat Strategy, Airline Loyalty Program Moat, Budget Airline Cost Squeeze, Airline Market Price Discipline, and Airline Bailout Politics; updated overview, index, NPR, Planet Money, Greg Rosalsky, United Airlines, Consumer Reports, U.S. Department of Justice, Donald Trump, United States, Airline Service Differentiation, Private Airline Failure Modes, Price Elasticity, and Low Price Brand Perception. No direct contradiction found; the source qualifies existing aviation-failure and low-price-brand branches by showing that a disliked low-cost carrier can still discipline market prices until incumbent imitation, loyalty networks, and rising costs erode its room to maneuver.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
