@@ -2,8 +2,8 @@
 title: "Portfolio Suitability"
 type: concept
 tags: [investing, portfolio, personal-finance, behavior]
-sources: [vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x]
-last_updated: 2026-07-15
+sources: [vol-105-ruhe-panduan-yige-touzi-zuhe-shifou-shihe-ziji-lmaowq8820pa0jyjw6z93b6hstpe, vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
+last_updated: 2026-07-24
 ---
 
 # Portfolio Suitability
@@ -14,6 +14,8 @@ The personal side is a two-axis map. One axis asks what the investor needs: liqu
 
 [[vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x]] adds the [[PersonalPensionAccount|个人养老金账户]] version. Pension-account suitability asks whether the investor's age, retirement date, tax situation, contribution rhythm, and drawdown tolerance make direct [[PassiveInvesting|index exposure]] holdable, or whether [[FOFProductDesign|FOF]] and [[TargetDateFund|target-date]] structures better match the account's retirement job.
 
+[[vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]] adds the active-manager version through [[ActiveManagementStyleEvolution]]. [[LanXiaokang|蓝小康]] says fundholders should understand a manager's worldview, values, style weaknesses, and reasonable return interval; suitability therefore applies not only to asset classes but also to whether the investor can share risk with a specific manager's evolving process.
+
 ## Key Claims
 - Suitability is not a universal model portfolio; it is the match between portfolio job, investor understanding, and tolerable risk path.
 - Near-term money should not be placed in the same assets as long-term FIRE, passive-income, or intergenerational goals.
@@ -23,6 +25,7 @@ The personal side is a two-axis map. One axis asks what the investor needs: liqu
 - Personal suitability turns [[DrawdownPsychology]] from an after-the-fact emotional problem into an allocation input.
 - [[InvestorSuitabilityFriction]] is the product-design cousin of this concept; portfolio suitability is the investor-side self-check.
 - Vol.109 adds that pension-account suitability should connect retirement horizon and contribution discipline to product type before comparing recent fund performance.
+- Vol.112 adds that manager suitability is part of fund suitability: a fund's label is less important than whether the holder understands the manager's process, values, weaknesses, and risk-sharing terms.
 
 ## Connections
 - [[AssetAllocation]] — broader portfolio construction discipline.
@@ -32,3 +35,4 @@ The personal side is a two-axis map. One axis asks what the investor needs: liqu
 - [[InvestmentLiquidityTradeoff]] — cash timing and lockup boundary inside suitability.
 - [[InvestmentForBetterLife]] and [[InvestorSuitabilityFriction]] — adjacent user-life and product-design frames.
 - [[PersonalPensionAccount|个人养老金账户]], [[TargetDateFund|目标日期基金]], [[PassiveInvesting]], and [[FOFProductDesign]] — vol.109's retirement-account product-choice extension.
+- [[ActiveManagementStyleEvolution]], [[LanXiaokang]], and [[ZhongouFund]] — vol.112's active-manager suitability extension.

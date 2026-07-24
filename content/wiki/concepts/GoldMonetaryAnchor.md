@@ -2,7 +2,7 @@
 title: "Gold Monetary Anchor"
 type: concept
 tags: [macro, gold, monetary-system, investing]
-sources: [tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]
+sources: [tech-20260312-0312-mp-tech-pod-128-tech-20260312-0312-mp-tech-pod-128, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv, vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]
 last_updated: 2026-07-24
 ---
 
@@ -20,6 +20,8 @@ The source also connects gold to [[RiskParity]] and multi-asset strategy. If a s
 
 [[vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu]] adds a policy-history angle. In its discussion of [[Project2025]] and [[WilliamMcKinley]], gold-standard or gold-adjacent monetary discipline appears as an imagined check on money creation, even though the episode treats full return to that system or abolition of the [[FederalReserve]] as unlikely and risky.
 
+[[vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]] adds a year-review version. The episode uses "金" to summarize 2024 as gold's strong performance, a "golden pit" of equity and convertible opportunities, and the shadow of [[DonaldTrump]]'s return, turning gold into one sign that markets were already pricing order and currency uncertainty before the 2025 debate.
+
 ## Key Claims
 - Gold should be analyzed through monetary-system credibility, debt, central-bank balance sheets, and geopolitical order, not only through CPI.
 - Its role in a portfolio depends on [[AssetCorrelation]] and the specific macro regime.
@@ -29,6 +31,7 @@ The source also connects gold to [[RiskParity]] and multi-asset strategy. If a s
 - Gold-standard nostalgia can function as a political argument for monetary discipline even when the practical institutional path is unclear.
 - EP268 adds that gold's trust-anchor role also works at household scale, where grams, gifts, and family time horizons can matter as much as macro theory.
 - Household gold still needs [[InvestmentRiskManagement]] because the safety narrative can be overwhelmed by large position size, high entry price, leverage, or poor liquidity.
+- Vol.112 adds that gold's 2024 strength can be read as part of a broader [[NewOrderAssetPricing]] debate, not only as a single-asset performance story.
 
 ## Connections
 - [[Bitcoin]], [[DigitalGold]], and [[BitcoinSafeHavenBehavior]] - March 12 Marketplace Tech comparison between gold and Bitcoin under Iran-crisis stress.
@@ -40,3 +43,4 @@ The source also connects gold to [[RiskParity]] and multi-asset strategy. If a s
 - [[AIBubbleHedging]] — tactical context where gold's safe-haven role is weighed against recent volatility.
 - [[Project2025]], [[FederalReserve]], [[CentralBankIndependence]], and [[WilliamMcKinley]] — policy-history branch added by Qizhulou Yan Binke.
 - [[HouseholdGoldSavings]], [[OnlineGoldAccumulation]], [[AntFortune]], and [[TalkSanlian]] — household and platform branch added by EP268.
+- [[DonaldTrump]], [[MarketRegimeShift]], and [[NewOrderAssetPricing]] — vol.112's year-review and order-uncertainty branch.

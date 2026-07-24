@@ -1439,6 +1439,10 @@
     "title": "Action Defines Identity",
     "url": "/wiki/concepts/actiondefinesidentity/"
   },
+  "ActiveManagementStyleEvolution": {
+    "title": "Active Management Style Evolution",
+    "url": "/wiki/concepts/activemanagementstyleevolution/"
+  },
   "ActorObserverBias": {
     "title": "Actor-Observer Bias / 行动者-观察者偏差",
     "url": "/wiki/concepts/actorobserverbias/"
@@ -3107,6 +3111,10 @@
     "title": "Belgium",
     "url": "/wiki/entities/belgium/"
   },
+  "BeltAndRoadExternalDemand": {
+    "title": "Belt and Road External Demand",
+    "url": "/wiki/concepts/beltandroadexternaldemand/"
+  },
   "BenGoldhersh": {
     "title": "Ben Goldhersh",
     "url": "/wiki/entities/bengoldhersh/"
@@ -4446,6 +4454,10 @@
   "ChinaSouthernAirlines": {
     "title": "China Southern Airlines / 南方航空",
     "url": "/wiki/entities/chinasouthernairlines/"
+  },
+  "ChinaSupplySideClearing": {
+    "title": "China Supply-Side Clearing",
+    "url": "/wiki/concepts/chinasupplysideclearing/"
   },
   "ChinaUnicom": {
     "title": "China Unicom",
@@ -12023,6 +12035,10 @@
     "title": "Labor Moral Ambivalence",
     "url": "/wiki/concepts/labormoralambivalence/"
   },
+  "LaborShareConsumptionRebalancing": {
+    "title": "Labor-Share Consumption Rebalancing",
+    "url": "/wiki/concepts/laborshareconsumptionrebalancing/"
+  },
   "LabourLeadershipCrisis": {
     "title": "Labour Leadership Crisis",
     "url": "/wiki/concepts/labourleadershipcrisis/"
@@ -12046,6 +12062,10 @@
   "LanShili": {
     "title": "Lan Shili / 兰世立",
     "url": "/wiki/entities/lanshili/"
+  },
+  "LanXiaokang": {
+    "title": "蓝小康 / Lan Xiaokang",
+    "url": "/wiki/entities/lanxiaokang/"
   },
   "LanaSwartz": {
     "title": "Lana Swartz",
@@ -14063,6 +14083,10 @@
     "title": "Minoxidil / 米诺地尔",
     "url": "/wiki/entities/minoxidil/"
   },
+  "MinshengSecurities": {
+    "title": "民生证券 / Minsheng Securities",
+    "url": "/wiki/entities/minshengsecurities/"
+  },
   "Missfresh": {
     "title": "每日优鲜 / Missfresh",
     "url": "/wiki/entities/missfresh/"
@@ -14338,6 +14362,10 @@
   "Motorola": {
     "title": "Motorola",
     "url": "/wiki/entities/motorola/"
+  },
+  "MouYiling": {
+    "title": "牟一凌 / Mou Yiling",
+    "url": "/wiki/entities/mouyiling/"
   },
   "MountainGorilla": {
     "title": "Mountain Gorilla / 山地大猩猩",
@@ -14746,6 +14774,10 @@
   "NewEnglandRevolution": {
     "title": "New England Revolution",
     "url": "/wiki/entities/newenglandrevolution/"
+  },
+  "NewOrderAssetPricing": {
+    "title": "New Order Asset Pricing",
+    "url": "/wiki/concepts/neworderassetpricing/"
   },
   "NewRightPolicyNetwork": {
     "title": "New Right Policy Network",
@@ -19415,6 +19447,10 @@
     "title": "State Administration of Foreign Exchange",
     "url": "/wiki/entities/stateadministrationofforeignexchange/"
   },
+  "StateOwnedEnterpriseSocialValue": {
+    "title": "State-Owned Enterprise Social Value",
+    "url": "/wiki/concepts/stateownedenterprisesocialvalue/"
+  },
   "StateStreet": {
     "title": "State Street",
     "url": "/wiki/entities/statestreet/"
@@ -22999,6 +23035,10 @@
     "title": "《中华蟹史》",
     "url": "/wiki/entities/zhonghuaxieshi/"
   },
+  "ZhongouFund": {
+    "title": "中欧基金 / Zhongou Fund",
+    "url": "/wiki/entities/zhongoufund/"
+  },
   "ZhongyaXingji": {
     "title": "《中亚行迹》 / Sovietistan",
     "url": "/wiki/entities/zhongyaxingji/"
@@ -24530,6 +24570,10 @@
   "vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x": {
     "title": "vol.109. FOF派VS指数派，关于个人养老金账户该配什么的一场辩论",
     "url": "/wiki/sources/vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x/"
+  },
+  "vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv": {
+    "title": "Vol.112 一次非共识的2024反思和2025展望 | 对话蓝小康X牟一凌",
+    "url": "/wiki/sources/vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv/"
   },
   "vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu": {
     "title": "Vol.113 从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络",

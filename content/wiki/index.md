@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.112 一次非共识的2024反思和2025展望 | 对话蓝小康X牟一凌](sources/vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv.md) — 起朱楼宴宾客 episode with 蓝小康 and 牟一凌 on 2024 market reflection, Trump 2.0, China supply clearing, labor-share consumption repair, SOE valuation, Belt and Road demand, and active management.
 - [EP268 毛冬x唐唐：大黄，你到底咋了！上蹿下跳的黄金和那些绝不下车的人](sources/ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv.md) — Talk三联 episode with 毛冬, 唐涛/唐唐, 吴淑冰, and 莫晨 on gold drawdowns, household gold savings, online gold accumulation, gifts, liquidity, allocation, and no-leverage risk discipline.
 - [【沙青青x韩钊】石川啄木：我抱持的思想，都是因为缺钱](sources/shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314.md) — 蜜獾吃书 episode with 韩钊 and 沙青青 on 石川啄木, 《短歌是我悲伤的玩具》, Donald Keene's biography, tanka as emotional snapshot, Meiji intellectual precarity, and the Great Treason political context.
 - [148. 王氏之死：断井颓垣上的历史妆镜](sources/148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934.md) — 蜜獾吃书 episode on 史景迁《王氏之死》, 郯城 disaster society, 王氏's murder, 黄六鸿, 《福惠全书》, 蒲松龄, 《聊斋志异》, Qing gender law, and fiction as historical evidence.
@@ -562,6 +563,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [蓝小康 / Lan Xiaokang](entities/LanXiaokang.md) — 中欧基金 fund manager in vol.112, arguing for cash-flow duration, labor-share rebalancing, SOE social value, and evolving active-management algorithms.
+- [牟一凌 / Mou Yiling](entities/MouYiling.md) — 民生证券 strategy chief in vol.112, framing 2024 style instability, production-price divergence, consumer policy, and Belt and Road demand.
+- [中欧基金 / Zhongou Fund](entities/ZhongouFund.md) — Asset-management institution associated with 蓝小康 in vol.112's active-management and valuation discussion.
+- [民生证券 / Minsheng Securities](entities/MinshengSecurities.md) — Securities research institution associated with 牟一凌 in vol.112's China strategy discussion.
 - [毛冬 / Mao Dong](entities/MaoDong.md) — Podcast host and stand-up comedian whose high-entry gold holding example grounds EP268's gold drawdown psychology.
 - [唐涛 / 唐唐 / Tang Tao](entities/TangTao.md) — Ant Fortune community creator explaining gold position size, recurring buyers, family savers, and monthly reward buyers in EP268.
 - [吴淑冰 / Wu Shubing](entities/WuShubing.md) — Talk三联 host framing EP268's gold discussion through price swings, child savings, and household time horizons.
@@ -3766,6 +3771,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [China Supply-Side Clearing](concepts/ChinaSupplySideClearing.md) — Frame from vol.112 for production growth, PPI weakness, industry involution, tail-firm exit, and profit repair.
+- [Labor-Share Consumption Rebalancing](concepts/LaborShareConsumptionRebalancing.md) — Vol.112 concept that durable Chinese consumption repair needs income and distribution changes, not only subsidies or lower prices.
+- [State-Owned Enterprise Social Value](concepts/StateOwnedEnterpriseSocialValue.md) — Vol.112 valuation frame for central and state-owned firms whose public-service role, duration, and cash flows may deserve lower discount rates.
+- [Belt and Road External Demand](concepts/BeltAndRoadExternalDemand.md) — Vol.112 watch item for offensive overseas market opening as a potential demand sink for Chinese capacity.
+- [New Order Asset Pricing](concepts/NewOrderAssetPricing.md) — Vol.112 hypothesis that old consensus may misprice assets when global order, domestic distribution, supply ecology, and policy goals change.
+- [Active Management Style Evolution](concepts/ActiveManagementStyleEvolution.md) — Vol.112 fund-management frame that active managers need evolving methods, explicit worldview, and company-level cash-flow judgment beyond style labels.
 - [Household Gold Savings](concepts/HouseholdGoldSavings.md) — EP268 frame for gold as family-scale store of value, gift, children's money, jewelry, gold beans, and safety reserve.
 - [Online Gold Accumulation](concepts/OnlineGoldAccumulation.md) — App-mediated gold-buying pattern where small recurring purchases, virtual gram balances, and redemption turn gold into a low-friction habit.
 - [Microhistory From Hostile Archives](concepts/MicrohistoryFromHostileArchives.md) — Method for reconstructing marginal lives from records that preserve them mainly as legal or administrative problems.

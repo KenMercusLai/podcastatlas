@@ -4511,3 +4511,11 @@ Added source page for a Talk三联 episode with 毛冬, 唐涛/唐唐, 吴淑冰
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | Vol.112 一次非共识的2024反思和2025展望 | 对话蓝小康X牟一凌
+
+Added source page for a 起朱楼宴宾客 episode with 蓝小康 and 牟一凌 on 2024 market reflection and 2025 non-consensus positioning. Created pages for 蓝小康, 牟一凌, 中欧基金, 民生证券, China Supply-Side Clearing, Labor-Share Consumption Rebalancing, State-Owned Enterprise Social Value, Belt and Road External Demand, New Order Asset Pricing, and Active Management Style Evolution; updated overview, index, 起朱楼宴宾客, Donald Trump, China, RMB Exchange Rate Policy, Gold Monetary Anchor, Market Regime Shift, Defensive Dividend Assets, Portfolio Suitability, and Investment Risk Management. No direct contradiction found; the source adds a long-horizon non-consensus framework where old global-order assumptions, China supply ecology, labor distribution, SOE public value, external demand, and fund-manager process may become new valuation inputs.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

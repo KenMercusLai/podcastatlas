@@ -3,6 +3,7 @@ title: "Investment Risk Management"
 type: concept
 tags: [investing, risk]
 sources:
+  - vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv
   - ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p
   - e43-zhang-xiaoyu-mengyan-duihua-xuzhe-meiyou-genghaode-shenghuo-lrsfby01kuournly5mlkkzi-ayls
   - e160-yige-jiazhi-touzizhe-de-20-nian-huigu-qiu-jifen-qiu-shenglv-qiu-shijian-lixen828sknlujulev9evt37mbuf
@@ -55,6 +56,8 @@ Investment risk management is the practical bridge from market uncertainty to or
 [[vol-109-fofpai-vs-zhishupai-guanyu-geren-yanglaojin-zhanghu-gai-pei-shenme-de-yichang-bianlun-lmwscl4ppaxveccgtvp5oi-ypv2x]] adds the pension-account version: risk management inside a [[PersonalPensionAccount|个人养老金账户]] means matching tax benefit, contribution rhythm, retirement date, product type, and drawdown holdability. The source treats low-fee index funds, FOF, and [[TargetDateFund|target-date funds]] as different risk paths rather than as universally ranked products.
 
 [[ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv]] adds the retail-gold version: even an asset associated with safety can create stress when the buyer enters after a fast run-up, allocates too much, or uses borrowed money. The source treats gold's form factor - jewelry, physical gold, accumulated grams, or ETF-like exposure - as part of risk management because each route changes liquidity, premium, and behavior.
+
+[[vol-112-yici-feigongshi-de-2024-fansi-he-2025-zhanwang-duihua-lanxiaokang-x-mouyiling-lkasjtodqgmnbpyambqoxl-fcsyv]] adds the non-consensus active-management version: when a market thesis depends on [[NewOrderAssetPricing]], [[ChinaSupplySideClearing]], [[StateOwnedEnterpriseSocialValue]], and [[BeltAndRoadExternalDemand]], risk management requires separating long-horizon framework from near-term tradability. It also treats fund-manager fit through [[ActiveManagementStyleEvolution]] and [[PortfolioSuitability]] as a risk-control issue for fundholders.
 
 [[e158-zichan-peizhi-yu-youxiao-qianyan-qu-zhao-genghaode-geng-buyiyangde-geng-tiejin-shidaide-luzri-gwmqhb02k9xmf6mcdsaqkc]] adds the multi-asset product version: risk management includes the client's maximum drawdown, path volatility, product comprehension, [[AssetCorrelation]], and whether tactical macro views stay inside a defined allocation sleeve.
 
@@ -158,6 +161,7 @@ Investment risk management is the practical bridge from market uncertainty to or
 - [[AdaptivePortfolioDesign]] favors diverse and liquid enough structures over repeated all-in or all-out regime calls by ordinary investors.
 - Pension-account risk management should evaluate whether the investor can hold direct [[PassiveInvesting|index beta]] or needs FOF and [[TargetDateFund|target-date]] discipline to stay aligned with retirement goals.
 - EP268 adds that gold risk management begins with purpose, size, and funding source: the same gold purchase can be a long-term reserve, a gift, a monthly reward, or a stressful speculation depending on those inputs.
+- Vol.112 adds that non-consensus macro frameworks need a risk boundary: investors must distinguish structural possibility from company earnings, cash flow, valuation repair, and a fund manager's holdable process.
 
 ## Connections
 - [[JimSimons]] — source's voice for the principle.
@@ -177,6 +181,7 @@ Investment risk management is the practical bridge from market uncertainty to or
 - [[ValueInvesting]], [[MarginOfSafety]], [[FundLiabilityMatching]], [[DividendDiscountModel]], and [[ValueTrap]] — E160's permanent-loss, cash-flow, holder-fit, and cheap-stock-risk cluster.
 - [[InsuranceRiskTransfer]], [[FamilyProtectionInsurancePlanning]], and [[SavingsStyleInsurance]] — EP18's household-risk boundary around insurance and investing.
 - [[AShareBullMarketHistory]], [[PolicyDrivenMarketRally]], [[LeverageDrivenBullMarket]], and [[RetailBullMarketPsychology]] — EP46's A-share extension around policy, crowd behavior, and leverage.
+- [[NewOrderAssetPricing]], [[ChinaSupplySideClearing]], [[StateOwnedEnterpriseSocialValue]], [[BeltAndRoadExternalDemand]], and [[ActiveManagementStyleEvolution]] — vol.112's non-consensus framework and fund-manager-fit branch.
 - [[CrossBorderBrokerageRegulation]], [[CapitalAccountInvestmentRestrictions]], [[HongKongStockConnect]], and [[CrossBorderWealthManagementConnect]] — EP89's access-route and compliance-risk extension.
 - [[FinancialStatementAnalysis]], [[AccountingRedFlags]], [[ReceivablesRisk]], [[InventoryWriteDownRisk]], and [[AuditOpinionRisk]] — EP86's company-level report-risk extension.
 - [[CharlieMunger]], [[ConsumerBrandMoat]], [[SeesCandies]], [[AmericanExpress]], [[CocaCola]], and [[TechnicalAnalysisLimits]] — EP80's irreversible-error, durable-business, and chart-limit extension.
