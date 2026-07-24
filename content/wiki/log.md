@@ -4871,3 +4871,11 @@ Added source page for a Planet Money episode on the Planet Money book launch, th
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | How we got free agents in baseball
+
+Added source page for a Planet Money episode adapted from Business History on Curt Flood, Major League Baseball's reserve clause, labor monopsony, baseball's antitrust exemption, public-opinion litigation, arbitration, and the rise of free agency. Created pages for Curt Flood, Major League Baseball, Major League Baseball Players Association, St. Louis Cardinals, Philadelphia Phillies, Arthur Goldberg, Bowie Kuhn, Jackie Robinson, Flood v. Kuhn, Business History, National Football League, Los Angeles Dodgers, Baseball Reserve Clause, Labor Monopsony, No-Poaching Agreements, Baseball Antitrust Exemption, Public Opinion Litigation Strategy, and Baseball Free Agency; updated overview, index, NPR, Planet Money, Jacob Goldstein, Robert Smith, Alex Goldmark, Supreme Court, National Basketball Association, Sports Collective Bargaining, Sports Labor Revenue Sharing, Sports Player Autonomy, Sports Competitive Balance, and League Stakeholder Alignment. No direct contradiction found; the source qualifies competitive-balance arguments by showing how league stability claims can coexist with labor-market power and restricted player autonomy.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

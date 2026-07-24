@@ -2,11 +2,13 @@
 title: "National Basketball Association"
 type: entity
 tags: [sports, basketball, league]
-sources: [planet-money-vs-the-nbas-tanking-problem, diary-of-a-wnba-negotiator, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128]
+sources: [how-we-got-free-agents-in-baseball, planet-money-vs-the-nbas-tanking-problem, diary-of-a-wnba-negotiator, tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128]
 last_updated: 2026-07-24
 ---
 
 # National Basketball Association
+
+[[how-we-got-free-agents-in-baseball]] adds the NBA as a comparison league in the spread of professional-sports free agency. The source says basketball also saw challenges that made it easier for players to become free agents in 1976, and it contrasts NBA salary caps with [[MajorLeagueBaseball|MLB]] payroll freedom in the [[SportsCompetitiveBalance|competitive-balance]] debate.
 
 The National Basketball Association appears in [[tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128]] through the [[JontayPorter]] betting scandal. The source uses the NBA case to show how regulated sports-betting data can expose manipulation when unusual wagers, player conduct, sportsbooks, integrity monitors, leagues, and regulators are connected.
 
@@ -17,6 +19,7 @@ The NBA page's wiki role is not league history; it is sports-integrity context. 
 [[planet-money-vs-the-nbas-tanking-problem]] adds the NBA's draft-design branch. The episode treats [[SportsTanking|tanking]] as an incentive problem created by draft rewards and lottery odds, then compares the NBA's current system with the [[DraftWheel]], [[GoldPlan]], and [[NoDraftPlayerMarket|no-draft player market]].
 
 ## Connections
+- [[MajorLeagueBaseball]], [[NationalFootballLeague|NFL]], [[BaseballFreeAgency]], [[SportsCollectiveBargaining]], [[SportsLaborRevenueSharing]], and [[SportsCompetitiveBalance]] - free-agency and salary-cap comparison branch added by Planet Money.
 - [[JontayPorter]] - player whose underperformance case grounds the episode.
 - [[DraftKings]] - sportsbook named in the betting-winner detail.
 - [[SportsbookIntegrityMonitoring]] - monitoring layer used in the episode's comparison.

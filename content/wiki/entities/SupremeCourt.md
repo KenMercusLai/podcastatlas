@@ -2,11 +2,13 @@
 title: "Supreme Court"
 type: entity
 tags: [institution, law, politics]
-sources: [the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, indicators-of-2025-and-what-to-watch-in-2026, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, jerome-powell-and-the-test-of-fed-independence]
+sources: [how-we-got-free-agents-in-baseball, the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what, indicators-of-2025-and-what-to-watch-in-2026, sp-05-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-xia-fenlie-de-meiguo-hui-you-xianzheng-weiji-ma-790241978, 173-tanhe-ruhe-bamian-yiwei-zongtong-963141809, the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad, jerome-powell-and-the-test-of-fed-independence]
 last_updated: 2026-07-24
 ---
 
 # Supreme Court
+
+[[how-we-got-free-agents-in-baseball]] adds the Court through [[FloodVKuhn|Flood v. Kuhn]], where [[CurtFlood]] challenged [[MajorLeagueBaseball|MLB]]'s [[BaseballReserveClause|reserve clause]]. The source says the Court ruled against Flood and left the [[BaseballAntitrustExemption|baseball antitrust exemption]] in place, but that the case still helped shift public opinion and labor leverage toward [[BaseballFreeAgency|free agency]].
 
 [[the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what]] resolves the tariff-authority watchpoint from [[indicators-of-2025-and-what-to-watch-in-2026]] inside the source set. The Court struck down [[DonaldTrump]]'s sweeping IEPA-based tariffs, making [[IEPATariffAuthorityLimit]] a concrete limit on one emergency-power route while leaving [[Section122TariffAuthority]] and other tariff statutes available.
 
@@ -23,6 +25,7 @@ The source's main contribution is not a doctrinal account of specific cases, but
 [[indicators-of-2025-and-what-to-watch-in-2026]] adds two source-dated Supreme Court watchpoints for 2026. The episode says the Court was expected to hear arguments in [[LisaCook]]'s removal case and to rule on whether [[DonaldTrump]] could impose the 2025 tariff shock without congressional approval, connecting the Court to both [[FederalFundsRateAsPolicySignal]] and [[EffectiveTariffRateShock]].
 
 ## Connections
+- [[CurtFlood]], [[BowieKuhn]], [[ArthurGoldberg]], [[MajorLeagueBaseball]], [[FloodVKuhn]], [[BaseballReserveClause]], [[BaseballAntitrustExemption]], and [[PublicOpinionLitigationStrategy]] - baseball labor and antitrust branch added by Planet Money.
 - [[IEPATariffAuthorityLimit]], [[TariffRefundUncertainty]], [[Section122TariffAuthority]], and [[KathleenClaussen]] - tariff-ruling aftermath branch added by Planet Money.
 - [[UnitedStates]] - country and constitutional system in the source.
 - [[AmericanDemocraticResilience]] - optimistic reading of institutional guardrails.

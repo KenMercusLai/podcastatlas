@@ -2,11 +2,13 @@
 title: "Sports Collective Bargaining"
 type: concept
 tags: [sports, labor, unions, negotiation]
-sources: [106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645, diary-of-a-wnba-negotiator]
+sources: [how-we-got-free-agents-in-baseball, 106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645, diary-of-a-wnba-negotiator]
 last_updated: 2026-07-24
 ---
 
 # Sports Collective Bargaining
+
+[[how-we-got-free-agents-in-baseball]] adds the MLB version of sports collective bargaining. [[CurtFlood]] lost his antitrust case, but the source says the [[MajorLeagueBaseballPlayersAssociation|players union]] later used arbitration and stronger bargaining position to help dismantle the [[BaseballReserveClause|reserve clause]] and create [[BaseballFreeAgency|free agency]].
 
 Sports collective bargaining is the league-labor negotiation process shown in [[diary-of-a-wnba-negotiator]]. In the source, the [[WNBAPlayersAssociation]] is not only negotiating salaries; it is rewriting the employment architecture around travel, housing, parental leave, retirement payments, salary caps, 401(k) matching, and [[SportsLaborRevenueSharing]].
 
@@ -20,8 +22,10 @@ The episode makes the collective part concrete. [[AliciaClark]]'s diary supplies
 - Housing, travel, and parental leave matter because sports labor is mobile, seasonal, injury-prone, and exposed to roster churn.
 - [[StrikeThreatAsBATNA]] becomes more credible when the union has prepared members financially and politically.
 - Sports bargaining can destroy shared value when the dispute is framed as pure loss and no exit mechanism prevents escalation.
+- Court losses can still improve bargaining conditions when they change public opinion, clarify contract language, or make existing restrictions harder to defend.
 
 ## Connections
+- [[CurtFlood]], [[MajorLeagueBaseball]], [[MajorLeagueBaseballPlayersAssociation]], [[BaseballReserveClause]], [[BaseballFreeAgency]], and [[PublicOpinionLitigationStrategy]] - baseball bargaining branch added by Planet Money.
 - [[WNBA]], [[WNBAPlayersAssociation]], [[AliciaClark]], [[BriannaTurner]], and [[ClaudiaGoldin]] - source case.
 - [[SportsLaborRevenueSharing]], [[DataBackedLaborBargaining]], [[StrikeThreatAsBATNA]], and [[PlayerHousingAsLaborBenefit]] - bargaining mechanisms.
 - [[LeagueStakeholderAlignment]] and [[SportsEntertainmentFlywheel]] - sports-business context affected by the CBA.

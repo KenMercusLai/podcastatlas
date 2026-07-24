@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How we got free agents in baseball](sources/how-we-got-free-agents-in-baseball.md) — Planet Money episode on Curt Flood, MLB's reserve clause, baseball's antitrust exemption, labor monopsony, public-opinion litigation, arbitration, and the rise of free agency.
 - [How to make a BOOK into a bestseller](sources/how-to-make-a-book-into-a-bestseller.md) — Planet Money episode on its book launch, New York Times bestseller-list opacity, pre-order concentration, bulk-sales gaming, and bestseller status as a demand engine.
 - [Spirit Airlines and the future of cheap flights](sources/spirit-airlines-and-the-future-of-cheap-flights.md) — Planet Money episode on Spirit Airlines' ultra-low-cost model, unbundled fares, stated versus revealed preferences, legacy-carrier basic economy, loyalty-program moats, cost pressure, and bailout politics.
 - [Battlefield rare earths: How the U.S. lost to China](sources/battlefield-rare-earths-how-the-us-lost-to-china.md) — Planet Money episode on Mountain Pass, Molycorp, China's rare-earth processing dominance, the 2010 Japan shock, Project Phoenix, MP Materials, NioCorp, and U.S. state-backed rare-earth rebuilding.
@@ -607,6 +608,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Curt Flood](entities/CurtFlood.md) — Baseball player whose challenge to MLB's reserve clause made player autonomy, labor monopsony, and free agency politically visible.
+- [Major League Baseball](entities/MajorLeagueBaseball.md) — Baseball league whose reserve-clause system, antitrust status, and free-agency transition anchor the episode's sports-labor history.
+- [Major League Baseball Players Association](entities/MajorLeagueBaseballPlayersAssociation.md) — Player-side union supporting Flood's case and later bargaining path toward baseball free agency.
+- [St. Louis Cardinals](entities/StLouisCardinals.md) — Team controlling Curt Flood's rights before trading him to Philadelphia under the reserve system.
+- [Philadelphia Phillies](entities/PhiladelphiaPhillies.md) — Team to which Curt Flood was traded, making the reserve clause's limits on player choice concrete.
+- [Arthur Goldberg](entities/ArthurGoldberg.md) — Former Supreme Court justice representing Curt Flood in the reserve-clause challenge.
+- [Bowie Kuhn](entities/BowieKuhn.md) — MLB commissioner who rejected Flood's request and became the named defendant in Flood v. Kuhn.
+- [Jackie Robinson](entities/JackieRobinson.md) — Retired baseball player whose testimony supported Flood's challenge to the reserve clause.
+- [Flood v. Kuhn](entities/FloodVKuhn.md) — Supreme Court case preserving baseball's antitrust exception while helping shift public opinion toward players.
+- [Business History](entities/BusinessHistoryPodcast.md) — Jacob Goldstein and Robert Smith podcast whose Curt Flood story was carried by Planet Money.
+- [National Football League](entities/NationalFootballLeague.md) — Comparison league for free agency limits, salary caps, and sports-labor revenue sharing.
+- [Los Angeles Dodgers](entities/LosAngelesDodgers.md) — High-payroll MLB team used in the episode's competitive-balance and salary-cap debate.
 - [Laura McGrath](entities/LauraMcGrath.md) — Temple University professor explaining bestseller history, New York Times list opacity, and ranking-game incentives.
 - [Temple University](entities/TempleUniversity.md) — Laura McGrath's academic affiliation in the Planet Money bestseller-list episode.
 - [Patrick Healy](entities/PatrickHealy.md) — New York Times voice defending the bestseller-list methodology as data-based and anti-gaming oriented.
@@ -4113,6 +4126,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Baseball Reserve Clause](concepts/BaseballReserveClause.md) — MLB contract mechanism that kept player rights under team control and created the Curt Flood labor dispute.
+- [Labor Monopsony](concepts/LaborMonopsony.md) — Buyer-side labor-market power where workers lack credible alternative employers or bids.
+- [No-Poaching Agreements](concepts/NoPoachingAgreements.md) — Employer coordination comparison used to explain how restricted hiring can suppress labor-market competition.
+- [Baseball Antitrust Exemption](concepts/BaseballAntitrustExemption.md) — Legal backdrop that made Flood's Supreme Court challenge difficult and pushed change toward bargaining and arbitration.
+- [Public Opinion Litigation Strategy](concepts/PublicOpinionLitigationStrategy.md) — Strategy of using litigation to shift legitimacy and bargaining conditions even when the legal case fails.
+- [Baseball Free Agency](concepts/BaseballFreeAgency.md) — Post-reserve-clause player market that let eligible MLB players negotiate with willing teams.
 - [New York Times Bestseller List](concepts/NewYorkTimesBestsellerList.md) — Ranking institution that acts as both a signal of book demand and a mechanism for creating more demand.
 - [Bestseller Status Feedback Loop](concepts/BestsellerStatusFeedbackLoop.md) — Pattern where list placement creates additional visibility, sales, advertising value, and professional status.
 - [Bestseller List Opacity](concepts/BestsellerListOpacity.md) — Secrecy around reporting stores, weighting, and detection that deters gaming while inviting optimization guesses.

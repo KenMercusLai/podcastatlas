@@ -2699,6 +2699,10 @@
     "title": "Arthur Conan Doyle / 柯南道尔",
     "url": "/wiki/entities/arthurconandoyle/"
   },
+  "ArthurGoldberg": {
+    "title": "Arthur Goldberg",
+    "url": "/wiki/entities/arthurgoldberg/"
+  },
   "ArthurGrimes": {
     "title": "Arthur Grimes",
     "url": "/wiki/entities/arthurgrimes/"
@@ -3230,6 +3234,18 @@
   "BaruchSpinoza": {
     "title": "Baruch Spinoza / 斯宾诺莎",
     "url": "/wiki/entities/baruchspinoza/"
+  },
+  "BaseballAntitrustExemption": {
+    "title": "Baseball Antitrust Exemption",
+    "url": "/wiki/concepts/baseballantitrustexemption/"
+  },
+  "BaseballFreeAgency": {
+    "title": "Baseball Free Agency",
+    "url": "/wiki/concepts/baseballfreeagency/"
+  },
+  "BaseballReserveClause": {
+    "title": "Baseball Reserve Clause",
+    "url": "/wiki/concepts/baseballreserveclause/"
   },
   "BasicBrownBearFactory": {
     "title": "Basic Brown Bear Factory",
@@ -3771,6 +3787,10 @@
     "title": "Bottom-Up Enterprise Distribution",
     "url": "/wiki/concepts/bottomupenterprisedistribution/"
   },
+  "BowieKuhn": {
+    "title": "Bowie Kuhn",
+    "url": "/wiki/entities/bowiekuhn/"
+  },
   "BoyuCapital": {
     "title": "Boyu Capital / 博裕资本",
     "url": "/wiki/entities/boyucapital/"
@@ -3986,6 +4006,10 @@
   "BusinessFluentDesign": {
     "title": "Business Fluent Design",
     "url": "/wiki/concepts/businessfluentdesign/"
+  },
+  "BusinessHistoryPodcast": {
+    "title": "Business History",
+    "url": "/wiki/entities/businesshistorypodcast/"
   },
   "BusinessLedAITransformation": {
     "title": "Business-Led AI Transformation",
@@ -6070,6 +6094,10 @@
   "Cursor": {
     "title": "Cursor",
     "url": "/wiki/entities/cursor/"
+  },
+  "CurtFlood": {
+    "title": "Curt Flood",
+    "url": "/wiki/entities/curtflood/"
   },
   "CurtisLiu": {
     "title": "Curtis Liu",
@@ -8666,6 +8694,10 @@
   "FloodControlRiskTransfer": {
     "title": "Flood Control Risk Transfer",
     "url": "/wiki/concepts/floodcontrolrisktransfer/"
+  },
+  "FloodVKuhn": {
+    "title": "Flood v. Kuhn",
+    "url": "/wiki/entities/floodvkuhn/"
   },
   "Flora": {
     "title": "Flora",
@@ -11883,6 +11915,10 @@
     "title": "《开膛手杰克结案报告》",
     "url": "/wiki/entities/jacktherippercaseclosed/"
   },
+  "JackieRobinson": {
+    "title": "Jackie Robinson",
+    "url": "/wiki/entities/jackierobinson/"
+  },
   "JacobCram": {
     "title": "Jacob Cram",
     "url": "/wiki/entities/jacobcram/"
@@ -13131,6 +13167,10 @@
     "title": "LTV-Based Growth Budgeting",
     "url": "/wiki/concepts/ltvbasedgrowthbudgeting/"
   },
+  "LaborMonopsony": {
+    "title": "Labor Monopsony",
+    "url": "/wiki/concepts/labormonopsony/"
+  },
   "LaborMoralAmbivalence": {
     "title": "Labor Moral Ambivalence",
     "url": "/wiki/concepts/labormoralambivalence/"
@@ -14051,6 +14091,10 @@
     "title": "Lori Goodman",
     "url": "/wiki/entities/lorigoodman/"
   },
+  "LosAngelesDodgers": {
+    "title": "Los Angeles Dodgers",
+    "url": "/wiki/entities/losangelesdodgers/"
+  },
   "LossAversion": {
     "title": "Loss Aversion / 损失厌恶",
     "url": "/wiki/concepts/lossaversion/"
@@ -14406,6 +14450,14 @@
   "MajorEventAttentionConversion": {
     "title": "Major-Event Attention Conversion",
     "url": "/wiki/concepts/majoreventattentionconversion/"
+  },
+  "MajorLeagueBaseball": {
+    "title": "Major League Baseball",
+    "url": "/wiki/entities/majorleaguebaseball/"
+  },
+  "MajorLeagueBaseballPlayersAssociation": {
+    "title": "Major League Baseball Players Association",
+    "url": "/wiki/entities/majorleaguebaseballplayersassociation/"
   },
   "MajorLeagueSoccer": {
     "title": "Major League Soccer",
@@ -15939,6 +15991,10 @@
     "title": "National Financial Capability Study",
     "url": "/wiki/entities/nationalfinancialcapabilitystudy/"
   },
+  "NationalFootballLeague": {
+    "title": "National Football League",
+    "url": "/wiki/entities/nationalfootballleague/"
+  },
   "NationalGoodsBranding": {
     "title": "National Goods Branding",
     "url": "/wiki/concepts/nationalgoodsbranding/"
@@ -16258,6 +16314,10 @@
   "NoExit": {
     "title": "No Exit / 《禁闭》",
     "url": "/wiki/entities/noexit/"
+  },
+  "NoPoachingAgreements": {
+    "title": "No-Poaching Agreements",
+    "url": "/wiki/concepts/nopoachingagreements/"
   },
   "NoPredictionTrading": {
     "title": "No-Prediction Trading",
@@ -17483,6 +17543,10 @@
     "title": "Phil Holstead",
     "url": "/wiki/entities/philholstead/"
   },
+  "PhiladelphiaPhillies": {
+    "title": "Philadelphia Phillies",
+    "url": "/wiki/entities/philadelphiaphillies/"
+  },
   "PhilipZimbardo": {
     "title": "Philip Zimbardo / 菲利普·津巴多",
     "url": "/wiki/entities/philipzimbardo/"
@@ -18374,6 +18438,10 @@
   "PublicMediaFunding": {
     "title": "Public Media Funding",
     "url": "/wiki/concepts/publicmediafunding/"
+  },
+  "PublicOpinionLitigationStrategy": {
+    "title": "Public Opinion Litigation Strategy",
+    "url": "/wiki/concepts/publicopinionlitigationstrategy/"
   },
   "PublicServiceDigitalization": {
     "title": "Public Service Digitalization",
@@ -21146,6 +21214,10 @@
   "StGeorgesSchool": {
     "title": "St. George's School / 圣乔治学校",
     "url": "/wiki/entities/stgeorgesschool/"
+  },
+  "StLouisCardinals": {
+    "title": "St. Louis Cardinals",
+    "url": "/wiki/entities/stlouiscardinals/"
   },
   "StablecoinSanctionsEvasion": {
     "title": "Stablecoin Sanctions Evasion",
@@ -25962,6 +26034,10 @@
   "how-to-win-a-penalty-shootout-with-game-theory": {
     "title": "How to win a penalty shootout (with game theory)",
     "url": "/wiki/sources/how-to-win-a-penalty-shootout-with-game-theory/"
+  },
+  "how-we-got-free-agents-in-baseball": {
+    "title": "How we got free agents in baseball",
+    "url": "/wiki/sources/how-we-got-free-agents-in-baseball/"
   },
   "in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e": {
     "title": "In it to bin it: Nigel Farage v Count Binface",
