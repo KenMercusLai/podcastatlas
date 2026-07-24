@@ -2,8 +2,8 @@
 title: "Restaurant Supply Chain Localization"
 type: concept
 tags: [restaurants, supply-chain, food, china, operations]
-sources: [vol-263-lang-de-youhuo-998128018]
-last_updated: 2026-07-08
+sources: [vol-263-lang-de-youhuo-998128018, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352]
+last_updated: 2026-07-24
 ---
 
 # Restaurant Supply Chain Localization
@@ -12,12 +12,15 @@ Restaurant supply chain localization is the process by which a chain restaurant 
 
 The concept extends the wiki's food-operations branch beyond packaged-goods logistics. [[ColdChainCPGConstraint]] describes how frozen CPG brands can be trapped by parcel-level temperature control and order-value pressure; Sushiro's case shows a restaurant-chain route where upstream aquaculture, processing, delivery, and store operations are coordinated around immediate restaurant consumption.
 
+[[shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352]] adds a deeper upstream constraint. Even when a restaurant chain localizes seafood sourcing and cold-chain routines, farmed seafood can still depend on [[FishmealSupplyChain|fishmeal]] and fish oil produced from [[PeruvianAnchoveta|anchoveta]], so [[ElNino]] and [[FisheriesResourceManagement]] can enter restaurant costs through feed rather than direct procurement.
+
 ## Key Claims
 - Localized supply chains can turn regulatory shocks or import restrictions into a test of substitution capacity rather than a direct category collapse.
 - Restaurant chains can become process teachers for upstream suppliers by specifying feed, handling, water, deodorizing, preparation, and cooking requirements.
 - Local sourcing is not only cost reduction; it can improve freshness, reliability, store expansion speed, and customer trust when paired with operating standards.
 - Supply localization works best when it is connected to [[ChainRestaurantStandardization]] inside stores; sourcing discipline alone cannot guarantee the customer experience.
 - The more a food format depends on freshness and safety perception, the more supplier process, cold chain, waste handling, and visible hygiene become part of the brand.
+- Local seafood supply can still be exposed to global feed inputs; localization reduces some procurement risks but cannot fully remove [[AquacultureFeedDependency]].
 
 ## Connections
 - [[Sushiro]] - central source case.
@@ -26,3 +29,4 @@ The concept extends the wiki's food-operations branch beyond packaged-goods logi
 - [[ColdChainCPGConstraint]] and [[FreshMadeIceCreamRetail]] - adjacent food-chain concepts that show different ways temperature-sensitive products handle logistics.
 - [[CPGDistribution]] - broader physical-product distribution contrast.
 - [[ConsumerBrandMoat]] and [[ProductLedWillingnessToPay]] - trust and value perception created through reliable food supply.
+- [[FishmealSupplyChain]], [[AquacultureFeedDependency]], and [[ClimateFoodPriceTransmission]] - upstream feed and climate-price branch added by 商业小样45.

@@ -2,8 +2,8 @@
 title: "Climate Adaptation"
 type: concept
 tags: [climate, resilience, governance]
-sources: [65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, socialradarss2-billclerico-final, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, indy-johar-civilizational-optioneering-tyeyt7r-zfu, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1, socialradarss2-billclerico-final, missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3, indy-johar-civilizational-optioneering-tyeyt7r-zfu, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410, tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352]
+last_updated: 2026-07-24
 ---
 
 # Climate Adaptation
@@ -24,6 +24,8 @@ The source's contribution is to connect climate adaptation to [[CivilizationalOp
 
 [[tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128]] adds a post-disaster rebuilding case through [[DavidBrancaccio]] and [[FireResilientConstruction]]. The source turns adaptation into a house-level material and design problem: [[CrossLaminatedTimber]], [[FireResistantBuildingEnvelope]] layers, [[ConcreteFilledWallSystems]], [[ThreeDPrintedHousing]], [[SustainableConstructionCarbonTradeoff]], and [[BiophilicDesign]] all shape whether a rebuilt neighborhood is safer, faster to restore, lower carbon, and still livable.
 
+[[shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352]] adds fisheries management as a food-system adaptation case. The episode is not a general climate-policy guide, but its [[Peru]] anchoveta example shows why quota cuts and fishing bans can be an adaptation response when [[ElNino]] stresses a stock that feeds the global [[FishmealSupplyChain]].
+
 [[tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]] adds the customer-economics side through [[LeapForward]] and [[EconomicClimateTechAdoption]]. [[DavidRusenko]] argues that solar, batteries, EVs, heat pumps, and related technologies are becoming attractive because they can save money or solve practical customer problems, while [[BlueDot]] and [[ElectricAir]] show how charging reimbursement and lower-cost heat-pump installation can make climate adoption easier to buy.
 
 ## Key Claims
@@ -37,6 +39,7 @@ The source's contribution is to connect climate adaptation to [[CivilizationalOp
 - Climate adoption accelerates when the buyer's practical economics align with the climate benefit.
 - Water adaptation can include preserving wetland buffers and mobility, not only building stronger defenses.
 - Hard infrastructure can become maladaptive when it increases settlement density without maintaining ecological overflow capacity.
+- Fishery closures can be adaptation when they protect future stock, even though they intensify near-term supply and price pressure.
 
 ## Connections
 - [[SystemicDegenerativeVolatility]] — climate risk as part of a wider cascade.
@@ -50,3 +53,4 @@ The source's contribution is to connect climate adaptation to [[CivilizationalOp
 - [[FireResilientConstruction]], [[CrossLaminatedTimber]], [[FireResistantBuildingEnvelope]], [[ConcreteFilledWallSystems]], [[ThreeDPrintedHousing]], and [[SustainableConstructionCarbonTradeoff]] - house-level wildfire rebuilding branch added by Marketplace Tech.
 - [[LeapForward]], [[EconomicClimateTechAdoption]], [[BlueDot]], and [[ElectricAir]] - climate-tech adoption branch added by The Social Radars.
 - [[WetlandAdaptation]], [[FloodControlRiskTransfer]], [[NaturalHazardSocialDisaster]], and [[YangtzeRiver]] - historical flood-adaptation branch added by episode 65.
+- [[FisheriesResourceManagement]], [[FishmealSupplyChain]], and [[ClimateFoodPriceTransmission]] - fishery and aquaculture-feed branch added by 商业小样45.

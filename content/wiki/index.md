@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [商业小样45 | 厄尔尼诺越大，鱼越贵](sources/shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352.md) — 商业就是这样 episode on Peru's anchoveta fishery, El Nino, fishmeal and fish-oil supply, aquaculture feed dependency, Peruvian catch bans, and how salmon, shrimp, sushi, and restaurant seafood prices can move through a hidden feed input.
 - [187.豌豆公主：高敏和混沌是你真名](sources/187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166.md) — 蜜獾吃书 episode rereading Andersen's 《豌豆公主》 through true-princess ambiguity, class satire, gendered fairy-tale punishment, high sensitivity, sensory hypersensitivity, hardship worship, and literary complexity.
 - [EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？](sources/ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw.md) — Talk三联 episode on Homeric, Gilgamesh, and Edda epics, oral repetition, honor communities, mortality, Ragnarok, Marvel/Tolkien/game afterlives, and why old heroic stories keep being remade.
 - [146. 不爱侏罗纪世界？快来《恐龙庇护所》当饲养员！](sources/146-bu-ai-zhuluoji-shijie-kuailai-konglong-bihusuo-dang-siyangyuan-886472126.md) — 蜜獾吃书 episode on 《恐龙庇护所》, 《侏罗纪世界：重生》 dissatisfaction, bird-dinosaur continuity, evidence-bound dinosaur reconstruction, captive animal care labor, and dinosaurs as living animals.
@@ -573,6 +574,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Peru](entities/Peru.md) — Country case for anchoveta fisheries, fishmeal supply, El Nino exposure, and fisheries resource management.
+- [Ecuador](entities/Ecuador.md) — South American fishmeal supply node named with Peru and Chile in the aquaculture-feed chain.
+- [Peruvian Anchoveta / 鳀鱼](entities/PeruvianAnchoveta.md) — Small fish whose population, catch limits, and processing into fishmeal connect El Nino to aquaculture feed costs.
 - [萧楚舟 / Xiao Chuzhou](entities/XiaoChuzhou.md) — Talk三联 speaker introducing Poetic Edda, Norse mythology, Ragnarok, Marvel/Tolkien afterlives, and northern courage in EP269.
 - [孙若曦 / Sun Ruoxi](entities/SunRuoxi.md) — Talk三联 speaker reading The Epic of Gilgamesh through clay tablets, repetition, Enkidu's death, and human limits in EP269.
 - [刘畅 / Liu Chang](entities/LiuChang.md) — Talk三联 speaker explaining Homeric oral technique, Iliad honor conflict, Odyssey homecoming, and ancient Greek recognition rules in EP269.
@@ -2822,7 +2826,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Latin America](entities/LatinAmerica.md) — Regional frame connecting Trump-era investment, U.S.-China strategic competition, critical minerals, and earlier security-driven rightward politics.
 - [China](entities/China.md) — Country context spanning strategic investment, family law, lunar governance, batteries, and advanced AI model-access restrictions.
 - [Brazil](entities/Brazil.md) — Latin America investment case for a U.S.-backed rare-earth mine and BYD's China-linked factory presence.
-- [Chile](entities/Chile.md) — Copper and undersea-cable case in the source's Latin America strategic-minerals and infrastructure competition.
+- [Chile](entities/Chile.md) — Latin America country node now covering both copper/undersea-cable strategy and the South American fishmeal supply cluster with Peru and Ecuador.
 - [Paraguay](entities/Paraguay.md) — Possible mineral-project destination in the Latin America investment boom.
 - [Nigeria](entities/Nigeria.md) — Jollof-price shock case where food inflation, diesel, roads, weather, and wages make a staple dish unaffordable.
 - [Ghana](entities/Ghana.md) — Jollof Index contrast case where lower inflation and a stronger currency cushion food prices more than in Nigeria.
@@ -3182,7 +3186,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dairy Queen](entities/DairyQueen.md) — Mid-price ice-cream chain used as the steadier small-store comparison to Haagen-Dazs and Yeren Xiansheng.
 - [Mixue Bingcheng](entities/MixueBingcheng.md) — Tea-drink chain whose low-price soft serve makes it a large ice-cream-volume comparison point.
 - [General Mills](entities/GeneralMills.md) — Food company mentioned as the Haagen-Dazs parent-company context in the ice-cream episode.
-- [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for city commerce observations, bee economics, FIFA governance, Sushiro's restaurant-chain operations, and AI data-center cooling.
+- [商业就是这样](entities/ShangyeJiushiZheyang.md) — Podcast/show context for city commerce observations, bee economics, FIFA governance, Sushiro operations, AI data-center cooling, and fishmeal-driven aquaculture price risk.
 - [Grundfos / 格兰富](entities/Grundfos.md) — Pump, water, and cooling-infrastructure company case used to explain AI data-center thermal management.
 - [河南智能超算中心 / Henan Smart Supercomputing Center](entities/HenanSmartSupercomputingCenter.md) — Supercomputing-center case for prefabricated, container-style integrated cooling deployment.
 - [Polymarket](entities/Polymarket.md) — Prediction-market example used by E144 to explain price-as-probability thinking and residual risk.
@@ -3836,6 +3840,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Fishmeal Supply Chain](concepts/FishmealSupplyChain.md) — Hidden commodity route from anchoveta catches and processing into aquaculture feed, seafood output, restaurants, and consumer prices.
+- [Aquaculture Feed Dependency](concepts/AquacultureFeedDependency.md) — Modern seafood-supply exposure created when farmed salmon, shrimp, and other high-value species still need marine-origin feed inputs.
+- [Climate Food Price Transmission](concepts/ClimateFoodPriceTransmission.md) — Mechanism by which climate shocks move through ecology, commodity inputs, production systems, and final food prices.
+- [Fisheries Resource Management](concepts/FisheriesResourceManagement.md) — Governance tradeoff between restricting catches now and preserving fish stocks for future supply.
 - [True Princess Ambiguity / 真公主暧昧](concepts/TruePrincessAmbiguity.md) — Episode 187 frame for how 《豌豆公主》 keeps truth, class distinction, bodily proof, and sympathy unstable at once.
 - [High Sensitivity As Difference / 高敏感作为差异](concepts/HighSensitivityAsDifference.md) — Reclaiming the "pea princess" insult as a possible sign of real perceptual variation rather than automatic weakness or affectation.
 - [Sensory Hypersensitivity Accommodation / 感官超敏适配](concepts/SensoryHypersensitivityAccommodation.md) — Practical frame for changing environments around intense sensory experience instead of treating overload as bad attitude.
@@ -5505,7 +5513,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Robot Delivery Economics](concepts/RobotDeliveryEconomics.md) — Last-mile robot-delivery cost structure shaped by hardware, supervision, maintenance, routing, and human courier substitution.
 - [Streaming Author Brand](concepts/StreamingAuthorBrand.md) — Media pattern where an author's name becomes a platform-facing genre promise across streaming adaptations.
 - [Conveyor Belt Sushi](concepts/ConveyorBeltSushi.md) — Restaurant format where belt or screen-order delivery, freshness trust, menu cadence, local taste, and operating systems define the value.
-- [Restaurant Supply Chain Localization](concepts/RestaurantSupplyChainLocalization.md) — Chain-restaurant process of adapting sourcing, logistics, suppliers, and food handling to a local market while preserving consistency.
+- [Restaurant Supply Chain Localization](concepts/RestaurantSupplyChainLocalization.md) — Chain-restaurant process of adapting sourcing, logistics, suppliers, food handling, and upstream feed exposure to a local market while preserving consistency.
 - [Chain Restaurant Standardization](concepts/ChainRestaurantStandardization.md) — Operating discipline for reproducing a restaurant format through measurement, hygiene, training, waste handling, and localized labor design.
 - [Tactile Sensing](concepts/TactileSensing.md) — Robot ability to perceive force, contact, texture, friction, slip, softness, and hardness for embodied manipulation.
 - [Optical Tactile Sensing](concepts/OpticalTactileSensing.md) — Visual-tactile route that infers touch from contact-driven skin deformation and light changes.
@@ -5571,8 +5579,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Character Relationship Story Logic](concepts/CharacterRelationshipStoryLogic.md) — Story method where character relationships determine motivation, motivation determines events, and events determine whether short-drama audiences stay immersed.
 - [U.S.-Iran Nuclear Diplomacy](concepts/USIranNuclearDiplomacy.md) — Negotiation and covert-pressure frame around sanctions, uranium-stockpile talks, cyber sabotage, the Strait of Hormuz, and Lebanon-related fragility.
 - [Proxy Conflict Spoiler Risk](concepts/ProxyConflictSpoilerRisk.md) — Risk that an unresolved local or allied armed conflict undermines a broader diplomatic agreement.
-- [El Nino](concepts/ElNino.md) — Pacific climate pattern whose strength is measured through sea-surface temperature anomalies and global weather disruption.
-- [El Nino Climate Risk](concepts/ElNinoClimateRisk.md) — Risk frame for a strong El Nino layered onto global warming, food insecurity, disease, drought, floods, and aid constraints.
+- [El Nino](concepts/ElNino.md) — Pacific climate pattern whose sea-temperature shifts can disrupt global weather and marine food webs such as Peru's anchoveta fishery.
+- [El Nino Climate Risk](concepts/ElNinoClimateRisk.md) — Risk frame for a strong El Nino layered onto global warming, food insecurity, fisheries, commodity supply, disease, drought, floods, and aid constraints.
 - [Japanese Imperial Succession](concepts/JapaneseImperialSuccession.md) — Japan monarchy continuity problem around male-line inheritance, Princess Aiko's exclusion, public opinion, and limited reform.
 - [Data-Driven Product Culture](concepts/DataDrivenProductCulture.md) — ByteDance-style product operating system based on metrics, A/B tests, guardrails, review cycles, and LTV-style contribution comparison.
 - [A/B Testing For Marketers](concepts/ABTestingForMarketers.md) — Making experimentation accessible to marketers and campaigns so landing pages, creative, incentives, and names can be tested without bespoke engineering work.
@@ -5711,7 +5719,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Outcome Accelerators](concepts/OutcomeAccelerators.md) — Coordination mechanisms that align finance, policy, civic action, infrastructure, and technology around measurable shared outcomes.
 - [Bioregional Resilience](concepts/BioregionalResilience.md) — Regenerative place-based resilience stack combining agroforestry, water, soil, biointegrity, governance, and technology.
 - [Doubt as Intelligence](concepts/DoubtAsIntelligence.md) — Epistemic frame where partial knowing makes curiosity, conversation, tentativeness, and care part of intelligence.
-- [Climate Adaptation](concepts/ClimateAdaptation.md) — Practical adjustment to climate-driven instability through governance, infrastructure, heat, water, food, bioregional resilience, and El Nino preparation.
+- [Climate Adaptation](concepts/ClimateAdaptation.md) — Practical adjustment to climate-driven instability through governance, infrastructure, heat, water, food, fisheries management, bioregional resilience, and El Nino preparation.
 - [Public Media Funding](concepts/PublicMediaFunding.md) — Funding and operating-risk question connecting federal support, listener donations, local journalism, and public-media access.
 - [Local Journalism](concepts/LocalJournalism.md) — Community reporting on local institutions, accountability, events, and identity that the appeal says could shrink with funding loss.
 - [Public Media Emergency Access](concepts/PublicMediaEmergencyAccess.md) — Public-media role in trusted local news, emergency alerts, and rural access during disruption.

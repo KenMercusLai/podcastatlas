@@ -2467,6 +2467,10 @@
     "title": "Applied Compute",
     "url": "/wiki/entities/appliedcompute/"
   },
+  "AquacultureFeedDependency": {
+    "title": "Aquaculture Feed Dependency",
+    "url": "/wiki/concepts/aquaculturefeeddependency/"
+  },
   "Arabica": {
     "title": "% Arabica",
     "url": "/wiki/entities/arabica/"
@@ -4827,6 +4831,10 @@
     "title": "Climate Adaptation",
     "url": "/wiki/concepts/climateadaptation/"
   },
+  "ClimateFoodPriceTransmission": {
+    "title": "Climate Food Price Transmission",
+    "url": "/wiki/concepts/climatefoodpricetransmission/"
+  },
   "ClimateStartupCommercializationGap": {
     "title": "Climate Startup Commercialization Gap",
     "url": "/wiki/concepts/climatestartupcommercializationgap/"
@@ -6947,6 +6955,10 @@
     "title": "Economist Podcasts",
     "url": "/wiki/entities/economistpodcasts/"
   },
+  "Ecuador": {
+    "title": "Ecuador",
+    "url": "/wiki/entities/ecuador/"
+  },
   "EdMiliband": {
     "title": "Ed Miliband",
     "url": "/wiki/entities/edmiliband/"
@@ -7998,6 +8010,14 @@
   "FirstPrinciplesManufacturing": {
     "title": "First Principles Manufacturing",
     "url": "/wiki/concepts/firstprinciplesmanufacturing/"
+  },
+  "FisheriesResourceManagement": {
+    "title": "Fisheries Resource Management",
+    "url": "/wiki/concepts/fisheriesresourcemanagement/"
+  },
+  "FishmealSupplyChain": {
+    "title": "Fishmeal Supply Chain",
+    "url": "/wiki/concepts/fishmealsupplychain/"
   },
   "FissionGrowth": {
     "title": "Fission Growth",
@@ -16211,6 +16231,14 @@
     "title": "Personalization As Social Identity",
     "url": "/wiki/concepts/personalizationassocialidentity/"
   },
+  "Peru": {
+    "title": "Peru",
+    "url": "/wiki/entities/peru/"
+  },
+  "PeruvianAnchoveta": {
+    "title": "Peruvian Anchoveta / 鳀鱼",
+    "url": "/wiki/entities/peruviananchoveta/"
+  },
   "PetGriefAndCare": {
     "title": "Pet Grief And Care",
     "url": "/wiki/concepts/petgriefandcare/"
@@ -24362,6 +24390,10 @@
   "shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969": {
     "title": "商业小样44 | 世界杯扩军与FIFA的权力斗争",
     "url": "/wiki/sources/shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969/"
+  },
+  "shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352": {
+    "title": "商业小样45 | 厄尔尼诺越大，鱼越贵",
+    "url": "/wiki/sources/shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352/"
   },
   "shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud": {
     "title": "少有的深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康",
