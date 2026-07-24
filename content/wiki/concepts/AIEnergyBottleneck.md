@@ -2,8 +2,8 @@
 title: "AI Energy Bottleneck"
 type: concept
 tags: [ai, energy, infrastructure, data-centers]
-sources: [tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [indicators-of-2025-and-what-to-watch-in-2026, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-07-24
 ---
 
 # AI Energy Bottleneck
@@ -20,6 +20,8 @@ The concept extends [[MaaSInfrastructure]] and [[AIComputeContinuity]]. Compute 
 
 [[tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio]] adds a future clean-baseload route through [[Helion]] and [[CommercialFusionPower]]. [[DavidKirtley]] says power demand has changed because electric vehicles and large-scale data centers increased the scale of the problem, and [[Microsoft]] appears as the first named customer for a planned Helion plant. This does not remove near-term grid and onsite-generation constraints, but it adds fusion as a possible long-term response if it can be manufactured, permitted, and deployed at scale.
 
+[[indicators-of-2025-and-what-to-watch-in-2026]] adds the household affordability version through [[ElectricityAffordabilityIndicator]]. The source says AI data centers are one contributor to rising electricity rates, but it also names aging grid infrastructure, wildfires, line repairs, and winter heating exposure.
+
 ## Key Claims
 - AI developers can treat both compute capacity and energy capacity as bottlenecks for model progress and product deployment.
 - Energy bottlenecks turn state utility regulators into AI policy actors.
@@ -29,6 +31,7 @@ The concept extends [[MaaSInfrastructure]] and [[AIComputeContinuity]]. Compute 
 - The bottleneck is political as well as technical because ratepayer protection and local consent can slow or redirect buildout.
 - Electricity exemptions and energy requirements can turn tax-incentive design into an AI energy-policy tool.
 - Clean baseload procurement only helps the bottleneck if the generation technology clears hard-tech deployment gates: reliability, permitting, cost, grid delivery, and manufacturing rate.
+- AI electricity demand becomes more politically salient when it appears inside household power bills rather than only inside data-center operating costs.
 
 ## Connections
 - [[PublicUtilityCommissions]] - regulatory layer that manages utility rates and infrastructure approvals.
@@ -39,3 +42,4 @@ The concept extends [[MaaSInfrastructure]] and [[AIComputeContinuity]]. Compute 
 - [[DataCenterThermalManagement]] - adjacent physical constraint after electricity enters the facility.
 - [[DataCenterBacklash]] and [[AIMetabolicInfrastructure]] - local and material-cost frames connected to power demand.
 - [[Helion]], [[CommercialFusionPower]], [[Microsoft]], and [[FusionEnergyRecovery]] - future fusion power route added by The Social Radars.
+- [[ElectricityAffordabilityIndicator]] and [[StephenPassaha]] - household-bill indicator branch added by the Planet Money crossover.

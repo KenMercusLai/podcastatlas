@@ -4679,3 +4679,23 @@ Added source page for a Planet Money episode on economists' trust crisis, BLS da
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | Indicators of 2025 and What to Watch in 2026
+
+Added source page for a Planet Money and The Indicator crossover on 2025 indicators and 2026 watchpoints: consumer sentiment, effective tariff rates, the CAPE ratio, the federal funds rate, electricity rates, and consumer spending. Created pages for The Indicator, Darian Woods, Waylon Wong, Stephen Passaha, Cooper Katz-McKim, RBC, University of Michigan, Consumer Sentiment Indicator, Effective Tariff Rate Shock, CAPE Ratio Valuation Signal, Federal Funds Rate As Policy Signal, Electricity Affordability Indicator, and K-Shaped Consumer Spending; updated overview, index, NPR, Planet Money, Kenny Malone, Greg Rosalsky, Federal Reserve, Jerome Powell, Lisa Cook, Donald Trump, Costco, Supreme Court, Aggregate Indicators Lived Experience Gap, Blanket Tariff Limit, AI Equity Valuation Risk, Central Bank Independence, Monetary Policy Lag, AI Energy Bottleneck, Data Center Power Bottleneck, and Data Center Cost Shifting. No direct contradiction found; the source extends prior Fed-independence, tariff, AI-valuation, and data-center electricity branches by turning them into a compact macro indicator framework.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-07-24] graph | Knowledge graph rebuilt
+
+6453 nodes, 65220 edges (65220 extracted, 0 inferred).
+
+## [2026-07-24] report | Graph health report generated
+
+6453 nodes analyzed.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

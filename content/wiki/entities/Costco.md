@@ -2,7 +2,7 @@
 title: "Costco"
 type: entity
 tags: [company, retail, governance]
-sources: [eric-ries-incorruptible-by-design-wrgromn5peq, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, vanguard-1]
+sources: [indicators-of-2025-and-what-to-watch-in-2026, eric-ries-incorruptible-by-design-wrgromn5peq, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, advice-line-with-jeni-britton-of-jenis-splendid-ice-creams-2025-6dadc048-8cec-44ec-a3cf-ec314a00e41e, vanguard-1]
 last_updated: 2026-07-23
 ---
 
@@ -16,6 +16,8 @@ In [[catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfa
 
 [[vanguard-1]] adds Costco as the comparison point for [[ScaleEconomiesShared]]. The hosts compare Costco's low-markup, member-trust model with [[Vanguard]], while arguing that Vanguard is more structurally extreme because [[FundholderMutualOwnership]] routes asset-management scale economies directly back to fund investors.
 
+[[indicators-of-2025-and-what-to-watch-in-2026]] adds Costco as a tariff-litigation actor. The [[PlanetMoney]] / [[TheIndicator]] source says Costco sued the Trump administration, making the company part of [[EffectiveTariffRateShock]] and the question of whether [[DonaldTrump]] could impose broad tariffs without congressional approval.
+
 ## Key Claims
 - Costco is presented as evidence that companies can operate under [[FinancialGravity]] without simply converging on the same short-term, extractive behavior.
 - Its standards and audits make the company a case for private rule-setting with public consequences.
@@ -23,6 +25,7 @@ In [[catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfa
 - For Catalina Crunch, Costco functions as a scale marker inside [[CPGDistribution]] rather than as a governance example.
 - For Jaju Pierogi and Jesse and Ben's, Costco functions as a scale marker that increases the need for production funding, retail proof, and disciplined growth.
 - In the Vanguard episode, Costco helps explain why shared scale can be a durable trust mechanism when customers repeatedly see the economic benefit.
+- In the indicator source, Costco functions as a retailer exposed to tariff policy enough to contest executive tariff authority in court.
 
 ## Connections
 - [[FinancialGravity]] - pressure Costco is presented as resisting.
@@ -31,3 +34,4 @@ In [[catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfa
 - [[CatalinaCrunch]], [[CPGDistribution]], and [[SalesVelocity]] - retail-scale context from the Catalina Crunch source.
 - [[JajuPierogi]], [[JesseAndBens]], [[StartupGovernance]], and [[SustainableGrowthPace]] - CPG growth context from the Jeni Britton Advice Line source.
 - [[Vanguard]], [[FundholderMutualOwnership]], and [[ScaleEconomiesShared]] - Acquired comparison case.
+- [[EffectiveTariffRateShock]], [[DonaldTrump]], [[SupremeCourt]], and [[BlanketTariffLimit]] - tariff-litigation branch added by Planet Money.

@@ -2,8 +2,8 @@
 title: "AI Equity Valuation Risk"
 type: concept
 tags: [ai, investing, valuation, risk]
-sources: [tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]
-last_updated: 2026-07-12
+sources: [indicators-of-2025-and-what-to-watch-in-2026, tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, e155-sihu-meishenme-ren-zai-ti-ai-paomolun-le-lkon87vgpkdkq9ll-fg0eabnuubf, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m, paomo-de-si-ge-biyao-bu-chongfen-tiaojian-duitan-jingjixuezhe-zhu-ning-jiaoshou-lo4xhk5fnw1dcorwacttcsfjjr78, roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]
+last_updated: 2026-07-24
 ---
 
 # AI Equity Valuation Risk
@@ -28,6 +28,8 @@ AI equity valuation risk is the frame for public-market AI leaders whose busines
 
 [[roaring-trades-oil-majors-secret-success-story-6a4636f160cad2674e6d9674]] adds a release-policy version. The episode argues that if [[FrontierModelReleaseGovernance]] delays frontier launches or makes criteria opaque, model companies can face revenue delays, valuation pressure, and weaker customer confidence even while demand for AI remains high.
 
+[[indicators-of-2025-and-what-to-watch-in-2026]] adds a broad-market valuation signal through [[CAPERatioValuationSignal]]. [[DarianWoods]] uses the CAPE ratio to argue that equities looked expensive relative to smoothed earnings, with the AI boom and data-center construction helping explain why valuation anxiety had become part of the 2025 economic mood.
+
 ## Key Claims
 - "AI will change the world" and "this stock is attractive at this price" are separate claims.
 - [[Nvidia]]'s demand path depends partly on large customers such as [[Microsoft]], [[Google]], and [[Amazon]] continuing AI capex at high levels.
@@ -50,6 +52,7 @@ AI equity valuation risk is the frame for public-market AI leaders whose busines
 - AI can satisfy several bubble-warning conditions while still being a real technology with real revenue, so valuation work must separate adoption, monetization, and current price.
 - Model-company revenue and downstream AI-user profitability are distinct, which keeps [[AICommercializationPressure]] and capex ROI inside the valuation question.
 - Government review and unclear launch criteria can turn model capability into a timing and revenue-risk question for investors.
+- CAPE can show broad valuation risk even when the underlying AI infrastructure and earnings narratives are partly real.
 
 ## Connections
 - [[Nvidia]], [[JensenHuang]], [[Microsoft]], [[Google]], and [[Amazon]] — concrete entity cluster from the source.
@@ -67,3 +70,4 @@ AI equity valuation risk is the frame for public-market AI leaders whose busines
 - [[DaiYusen]], [[StanleyDruckenmiller]], [[Anthropic]], and [[ClaudeCode]] — episode 142's trading-oriented update and return-risk boundary.
 - [[ZhuNing]], [[BubbleNecessaryConditions]], [[AIBubbleHedging]], and [[PositionSizing]] — behavioral-finance extension that treats AI as both technological progress and potential overpricing.
 - [[FrontierModelReleaseGovernance]], [[AIExportControls]], and [[OpenSourceAIModels]] — policy and substitution pressure added by The Intelligence.
+- [[CAPERatioValuationSignal]], [[DarianWoods]], [[KShapedConsumerSpending]], and [[SP500]] - broad-market valuation branch added by the Planet Money crossover.

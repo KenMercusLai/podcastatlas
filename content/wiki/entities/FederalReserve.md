@@ -2,8 +2,8 @@
 title: "Federal Reserve"
 type: entity
 tags: [institution, central-bank, macro]
-sources: [ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, jerome-powell-and-the-test-of-fed-independence, our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour]
-last_updated: 2026-07-23
+sources: [indicators-of-2025-and-what-to-watch-in-2026, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu, jerome-powell-and-the-test-of-fed-independence, our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour]
+last_updated: 2026-07-24
 ---
 
 # Federal Reserve
@@ -22,6 +22,8 @@ The Federal Reserve appears in [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-d
 
 [[our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour]] adds an origin-story link for the Fed's explicit 2% inflation goal. The episode says the [[FederalReserve]] announced that goal on January 25, 2012, after [[InflationTargeting]] had spread from [[NewZealand]]'s earlier experiment with [[ArthurGrimes]], [[DonBrash]], and the [[ReserveBankOfNewZealand]].
 
+[[indicators-of-2025-and-what-to-watch-in-2026]] adds the federal funds rate as a 2026 indicator. The source, dated 2025-12-31, says the target range was 3.5% to 3.75% after three consecutive cuts, while unemployment, GDP growth, inflation above the 2% target, shutdown-disrupted data, dissent inside the Fed, [[JeromePowell]]'s May 2026 chair transition, and [[DonaldTrump]] pressure all made the rate path hard to read.
+
 ## Source Position
 - Market expectations for Fed cuts are treated as unstable, moving from modest cuts toward larger or even emergency-cut speculation during stress.
 - The speakers argue that a cut can be interpreted as a negative signal if investors believe the Fed has seen a deeper problem.
@@ -34,6 +36,7 @@ The Federal Reserve appears in [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-d
 - The Qizhulou Yan Binke source adds that anti-Fed arguments can become part of [[AdministrativeStateDismantling]], even though the episode doubts that abolishing the Fed is a likely near-term outcome.
 - The Powell episode adds that the Fed's independence problem can move from tweets and speeches into subpoenas, chair succession, Senate confirmation leverage, dissent, and litigation over [[ForCauseRemovalStandard]].
 - The New Zealand inflation-targeting episode adds that Fed credibility also depends on anchoring expectations around a public target, not only on resisting short-term political pressure.
+- The indicator source treats the federal funds rate as a compact public signal for growth, inflation, unemployment, dissent, chair succession, and presidential pressure.
 
 ## Connections
 - [[BankOfJapan]] — policy divergence with Japan is central to the episode's chain of events.
@@ -46,3 +49,4 @@ The Federal Reserve appears in [[ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-d
 - [[Project2025]], [[AdministrativeStateDismantling]], and [[GoldMonetaryAnchor]] — conservative critique and monetary-system branch added by Qizhulou Yan Binke.
 - [[LaelBrainard]], [[WilliamMcChesneyMartin]], [[ArthurBurns]], [[BurtonAbrams]], [[KevinWarsh]], [[LisaCook]], [[StephenMoran]], [[UnitedStatesCongress]], [[InflationBias]], and [[ForCauseRemovalStandard]] - Powell-era independence branch added by Planet Money.
 - [[InflationTargeting]], [[ArthurGrimes]], [[DonBrash]], [[ReserveBankOfNewZealand]], and [[MultipleEquilibria]] - New Zealand origin branch for explicit inflation targets.
+- [[WaylonWong]], [[FederalFundsRateAsPolicySignal]], [[CentralBankIndependence]], and [[MonetaryPolicyLag]] - 2026 rate-watch branch added by the indicator source.

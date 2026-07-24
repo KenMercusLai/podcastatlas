@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Indicators of 2025 and What to Watch in 2026](sources/indicators-of-2025-and-what-to-watch-in-2026.md) — Planet Money and The Indicator crossover using consumer sentiment, tariff rates, CAPE, the federal funds rate, electricity rates, and consumer spending as 2025 recap and 2026 watchlist indicators.
 - [Would you trust an economist with your economy?](sources/would-you-trust-an-economist-with-your-economy.md) — Planet Money episode on economists' trust crisis, BLS data credibility, forecasting limits, work-from-home evidence, aggregate indicators versus lived experience, and expert trust repair.
 - [Seven allegedly fake Chanel bags vs The RealReal](sources/seven-allegedly-fake-chanel-bags-vs-the-realreal.md) — Planet Money episode on Chanel, The RealReal, luxury resale authentication, trademark boundaries, first-sale doctrine, and anti-competitive resale-control claims.
 - [EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬](sources/ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u.md) — 硬地骇客 episode demystifying FDE through Palantir, OpenAI, Anthropic, CSE, Chinese 2B custom delivery, enterprise AI PMF, and model-as-control-layer software futures.
@@ -584,6 +585,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [The Indicator](entities/TheIndicator.md) — NPR/Planet Money-related economics show context for the crossover indicator contest and 2026 watchlist.
+- [Darian Woods](entities/DarianWoods.md) — Source participant pitching the CAPE ratio as a 2025 indicator for elevated valuation, AI boom risk, and K-shaped economy anxieties.
+- [Waylon Wong](entities/WaylonWong.md) — Host and participant who frames the crossover episode and selects the federal funds rate as a 2026 indicator.
+- [Stephen Passaha](entities/StephenPassaha.md) — Source participant choosing electricity rates as a 2026 household-affordability indicator.
+- [Cooper Katz-McKim](entities/CooperKatzMcKim.md) — Source participant choosing consumer spending and top-10% household resilience as a 2026 indicator.
+- [RBC](entities/RBC.md) — Financial institution cited for the claim that the top 10% of consumers account for a near majority of spending.
+- [University of Michigan](entities/UniversityOfMichigan.md) — Institution tied to the consumer sentiment index used as a 2025 mood indicator.
 - [Ben Castleman](entities/BenCastleman.md) — New York Times economics reporter framing economists' declining authority and the AEA economics-politics panel.
 - [Jason Furman](entities/JasonFurman.md) — Policy-facing economist named on the AEA panel about economics and politics.
 - [Diane (KPMG Chief Economist)](entities/DianeKPMGChiefEconomist.md) — Source-identified KPMG chief economist discussing forecasting limits, the financial-crisis miss, BLS trust, and lived-experience data gaps.
@@ -3917,6 +3925,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Consumer Sentiment Indicator](concepts/ConsumerSentimentIndicator.md) — Survey-based household mood signal used to explain 2025 anxiety despite other hard economic data.
+- [Effective Tariff Rate Shock](concepts/EffectiveTariffRateShock.md) — 2025 tariff-rate jump framed as a consumer-price, market-volatility, and legal-authority event.
+- [CAPE Ratio Valuation Signal](concepts/CAPERatioValuationSignal.md) — Cyclically adjusted price-to-earnings indicator used to connect expensive equities, AI boom risk, and future return fragility.
+- [Federal Funds Rate As Policy Signal](concepts/FederalFundsRateAsPolicySignal.md) — Fed benchmark-rate watchpoint linking inflation, unemployment, dissent, chair succession, and central-bank independence.
+- [Electricity Affordability Indicator](concepts/ElectricityAffordabilityIndicator.md) — Household power-bill signal tying AI data-center demand, grid costs, and winter heating exposure to affordability.
+- [K-Shaped Consumer Spending](concepts/KShapedConsumerSpending.md) — Consumption pattern where aggregate spending resilience depends heavily on high-income households and asset-market strength.
 - [Economist Trust Crisis](concepts/EconomistTrustCrisis.md) — Professional credibility problem caused by missed forecasts, policy overconfidence, political attacks, and mismatch between economic data and lived experience.
 - [Economic Forecasting Limits](concepts/EconomicForecastingLimits.md) — Constraint that economists often cannot reliably answer short-term market or crisis predictions despite public demand for certainty.
 - [Official Statistics Credibility](concepts/OfficialStatisticsCredibility.md) — Public trust that government economic data is collected and revised through reliable, nonpartisan procedure.

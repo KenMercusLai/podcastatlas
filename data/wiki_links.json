@@ -3847,6 +3847,10 @@
     "title": "CAA",
     "url": "/wiki/entities/caa/"
   },
+  "CAPERatioValuationSignal": {
+    "title": "CAPE Ratio Valuation Signal",
+    "url": "/wiki/concepts/caperatiovaluationsignal/"
+  },
   "CAPEXOPEXSubstitution": {
     "title": "CAPEX OPEX Substitution",
     "url": "/wiki/concepts/capexopexsubstitution/"
@@ -5383,6 +5387,10 @@
     "title": "Consumer Robotics Full Stack",
     "url": "/wiki/concepts/consumerroboticsfullstack/"
   },
+  "ConsumerSentimentIndicator": {
+    "title": "Consumer Sentiment Indicator",
+    "url": "/wiki/concepts/consumersentimentindicator/"
+  },
   "ContactCenterAI": {
     "title": "Contact Center AI",
     "url": "/wiki/concepts/contactcenterai/"
@@ -5462,6 +5470,10 @@
   "Coolpad": {
     "title": "Coolpad",
     "url": "/wiki/entities/coolpad/"
+  },
+  "CooperKatzMcKim": {
+    "title": "Cooper Katz-McKim",
+    "url": "/wiki/entities/cooperkatzmckim/"
   },
   "CopyrightPlatformConflict": {
     "title": "Copyright Platform Conflict",
@@ -6002,6 +6014,10 @@
   "DariaGeorgievich": {
     "title": "Daria Georgievich",
     "url": "/wiki/entities/dariageorgievich/"
+  },
+  "DarianWoods": {
+    "title": "Darian Woods",
+    "url": "/wiki/entities/darianwoods/"
   },
   "DarioAmodei": {
     "title": "Dario Amodei",
@@ -7211,6 +7227,10 @@
     "title": "Edwin van der Sar",
     "url": "/wiki/entities/edwinvandersar/"
   },
+  "EffectiveTariffRateShock": {
+    "title": "Effective Tariff Rate Shock",
+    "url": "/wiki/concepts/effectivetariffrateshock/"
+  },
   "EfficientFrontier": {
     "title": "Efficient Frontier",
     "url": "/wiki/concepts/efficientfrontier/"
@@ -7282,6 +7302,10 @@
   "ElectricTherapySpeculation": {
     "title": "Electric Therapy Speculation / 电疗法想象",
     "url": "/wiki/concepts/electrictherapyspeculation/"
+  },
+  "ElectricityAffordabilityIndicator": {
+    "title": "Electricity Affordability Indicator",
+    "url": "/wiki/concepts/electricityaffordabilityindicator/"
   },
   "ElectroHydrostaticRocketServo": {
     "title": "Electro-Hydrostatic Rocket Servo",
@@ -7974,6 +7998,10 @@
   "FederalCommunicationsCommission": {
     "title": "Federal Communications Commission",
     "url": "/wiki/entities/federalcommunicationscommission/"
+  },
+  "FederalFundsRateAsPolicySignal": {
+    "title": "Federal Funds Rate As Policy Signal",
+    "url": "/wiki/concepts/federalfundsrateaspolicysignal/"
   },
   "FederalGovernmentWeaponizationNarrative": {
     "title": "Federal Government Weaponization Narrative",
@@ -12150,6 +12178,10 @@
   "KRASOncologyTarget": {
     "title": "KRAS Oncology Target",
     "url": "/wiki/concepts/krasoncologytarget/"
+  },
+  "KShapedConsumerSpending": {
+    "title": "K-Shaped Consumer Spending",
+    "url": "/wiki/concepts/kshapedconsumerspending/"
   },
   "KafunshoToJinrui": {
     "title": "《花粉症与人类》 / 花粉症と人類",
@@ -17747,6 +17779,10 @@
     "title": "RAND",
     "url": "/wiki/entities/rand/"
   },
+  "RBC": {
+    "title": "RBC",
+    "url": "/wiki/entities/rbc/"
+  },
   "RC": {
     "title": "RC",
     "url": "/wiki/entities/rc/"
@@ -20351,6 +20387,10 @@
     "title": "Stephen Moran",
     "url": "/wiki/entities/stephenmoran/"
   },
+  "StephenPassaha": {
+    "title": "Stephen Passaha",
+    "url": "/wiki/entities/stephenpassaha/"
+  },
   "StephenStarr": {
     "title": "Stephen Starr",
     "url": "/wiki/entities/stephenstarr/"
@@ -21238,6 +21278,10 @@
   "TheIliad": {
     "title": "The Iliad",
     "url": "/wiki/entities/theiliad/"
+  },
+  "TheIndicator": {
+    "title": "The Indicator",
+    "url": "/wiki/entities/theindicator/"
   },
   "TheInformation": {
     "title": "The Information",
@@ -22215,6 +22259,10 @@
     "title": "University of Cambridge",
     "url": "/wiki/entities/universityofcambridge/"
   },
+  "UniversityOfMichigan": {
+    "title": "University of Michigan",
+    "url": "/wiki/entities/universityofmichigan/"
+  },
   "UniversityOfSouthernCalifornia": {
     "title": "University of Southern California",
     "url": "/wiki/entities/universityofsoutherncalifornia/"
@@ -22766,6 +22814,10 @@
   "WayfinderVentures": {
     "title": "Wayfinder Ventures",
     "url": "/wiki/entities/wayfinderventures/"
+  },
+  "WaylonWong": {
+    "title": "Waylon Wong",
+    "url": "/wiki/entities/waylonwong/"
   },
   "Waymo": {
     "title": "Waymo",
@@ -24718,6 +24770,10 @@
   "in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e": {
     "title": "In it to bin it: Nigel Farage v Count Binface",
     "url": "/wiki/sources/in-it-to-bin-it-nigel-farage-v-count-binface-6a58abcdc152a357db17c20e/"
+  },
+  "indicators-of-2025-and-what-to-watch-in-2026": {
+    "title": "Indicators of 2025 and What to Watch in 2026",
+    "url": "/wiki/sources/indicators-of-2025-and-what-to-watch-in-2026/"
   },
   "indy-johar-civilizational-optioneering-tyeyt7r-zfu": {
     "title": "Indy Johar: Civilizational Optioneering",
