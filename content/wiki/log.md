@@ -4579,3 +4579,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-24] ingest | EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？
+
+Added source page for a Talk三联 summer-reading episode with 高一丁, 萧楚舟, 孙若曦, and 刘畅 on Homeric epic, 《吉尔伽美什史诗》, 《诗体埃达》, oral repetition, ancient honor communities, heroic mortality, Ragnarok, Tolkien, Marvel, games, and why heroic epics keep being remade. Created pages for 萧楚舟, 孙若曦, 刘畅, The Epic of Gilgamesh, Gilgamesh, Enkidu, The Poetic Edda, The Prose Edda, Odin, Thor, Loki, Valhalla, Marvel Cinematic Universe, Norse Mythology, Ragnarok, Epic Modern Afterlife, Oral Epic Repetition, Epic Hero Human Limits, Ancient Greek Honor Community, Northern Courage, and Mythic Environmental Imagination; updated overview, index, Talk三联, 高一丁, Homer, The Iliad, The Odyssey, Odysseus, Achilles, Agamemnon, J.R.R. Tolkien, Homer Question, Oral-Formulaic Epic, Homeric Adaptation Modernization, Greek Mythology, Mythic Source Layering, Myth As Historical Evidence, Story Motif Transmission, and Classic Reading Complexity. No direct contradiction found; the source extends the existing Homeric adaptation/mortality branch into a broader cross-epic framework where oral performance, source layering, human limits, fate, and modern media reuse all shape epic afterlives.
+
+## [2026-07-24] lint | Wiki health check
+
+Ran lint after health passed. Health scanned 6,287 wiki pages with no empty/stub files, index drift, or source-log coverage gaps. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 5,641 nodes and 56,841 edges while the current wiki scan found 6,287 pages, so graph findings are advisory until `build graph` refreshes it. The graph checks found no hub stubs, five fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because no provider-qualified `LLM_MODEL` or API key is configured in the environment. Report returned in-session; `wiki/lint-report.md` was not saved.

@@ -2143,6 +2143,10 @@
     "title": "Anchoring Effect / 锚定效应",
     "url": "/wiki/concepts/anchoringeffect/"
   },
+  "AncientGreekHonorCommunity": {
+    "title": "Ancient Greek Honor Community",
+    "url": "/wiki/concepts/ancientgreekhonorcommunity/"
+  },
   "Andor": {
     "title": "《安多》 / Andor",
     "url": "/wiki/entities/andor/"
@@ -7239,6 +7243,10 @@
     "title": "England National Football Team",
     "url": "/wiki/entities/englandnationalfootballteam/"
   },
+  "Enkidu": {
+    "title": "Enkidu / 恩启都",
+    "url": "/wiki/entities/enkidu/"
+  },
   "EnricoMoretti": {
     "title": "Enrico Moretti",
     "url": "/wiki/entities/enricomoretti/"
@@ -7298,6 +7306,14 @@
   "EnvyContemptComparison": {
     "title": "Envy-Contempt Comparison / 嫉妒-鄙视比较",
     "url": "/wiki/concepts/envycontemptcomparison/"
+  },
+  "EpicHeroHumanLimits": {
+    "title": "Epic Hero Human Limits",
+    "url": "/wiki/concepts/epicherohumanlimits/"
+  },
+  "EpicModernAfterlife": {
+    "title": "Epic Modern Afterlife",
+    "url": "/wiki/concepts/epicmodernafterlife/"
   },
   "Epicurus": {
     "title": "Epicurus / 伊壁鸠鲁",
@@ -8958,6 +8974,10 @@
   "GilbertSpinozaHypothesis": {
     "title": "Gilbert-Spinoza Hypothesis / 吉尔伯特-斯宾诺莎假设",
     "url": "/wiki/concepts/gilbertspinozahypothesis/"
+  },
+  "Gilgamesh": {
+    "title": "Gilgamesh / 吉尔伽美什",
+    "url": "/wiki/entities/gilgamesh/"
   },
   "GinnySpicer": {
     "title": "Ginny Spicer",
@@ -12827,6 +12847,10 @@
     "title": "Liu Bang / 刘邦",
     "url": "/wiki/entities/liubang/"
   },
+  "LiuChang": {
+    "title": "刘畅 / Liu Chang",
+    "url": "/wiki/entities/liuchang/"
+  },
   "LiuCheng": {
     "title": "刘诚",
     "url": "/wiki/entities/liucheng/"
@@ -12962,6 +12986,10 @@
   "LoisWeber": {
     "title": "Lois Weber / 洛伊斯·韦伯",
     "url": "/wiki/entities/loisweber/"
+  },
+  "Loki": {
+    "title": "Loki / 洛基",
+    "url": "/wiki/entities/loki/"
   },
   "LondonCollegeOfCommunication": {
     "title": "London College of Communication",
@@ -13710,6 +13738,10 @@
   "Marubeni": {
     "title": "Marubeni / 丸红",
     "url": "/wiki/entities/marubeni/"
+  },
+  "MarvelCinematicUniverse": {
+    "title": "Marvel Cinematic Universe / 漫威宇宙",
+    "url": "/wiki/entities/marvelcinematicuniverse/"
   },
   "MaryAnnNichols": {
     "title": "Mary Ann Nichols",
@@ -14723,6 +14755,10 @@
     "title": "Myth As Historical Evidence",
     "url": "/wiki/concepts/mythashistoricalevidence/"
   },
+  "MythicEnvironmentalImagination": {
+    "title": "Mythic Environmental Imagination",
+    "url": "/wiki/concepts/mythicenvironmentalimagination/"
+  },
   "MythicScienceFictionStyle": {
     "title": "Mythic Science Fiction Style",
     "url": "/wiki/concepts/mythicsciencefictionstyle/"
@@ -15195,9 +15231,17 @@
     "title": "Nora Doel / 诺拉·多尔",
     "url": "/wiki/entities/noradoel/"
   },
+  "NorseMythology": {
+    "title": "Norse Mythology / 北欧神话",
+    "url": "/wiki/concepts/norsemythology/"
+  },
   "NorthKorea": {
     "title": "North Korea",
     "url": "/wiki/entities/northkorea/"
+  },
+  "NorthernCourage": {
+    "title": "Northern Courage / 北方的勇气",
+    "url": "/wiki/concepts/northerncourage/"
   },
   "NorthernSong": {
     "title": "北宋 / Northern Song",
@@ -15326,6 +15370,10 @@
   "OctavianAugustus": {
     "title": "Octavian / Augustus / 屋大维",
     "url": "/wiki/entities/octavianaugustus/"
+  },
+  "Odin": {
+    "title": "Odin / 奥丁",
+    "url": "/wiki/entities/odin/"
   },
   "Odysseus": {
     "title": "Odysseus",
@@ -15618,6 +15666,10 @@
   "Oracle": {
     "title": "Oracle",
     "url": "/wiki/entities/oracle/"
+  },
+  "OralEpicRepetition": {
+    "title": "Oral Epic Repetition",
+    "url": "/wiki/concepts/oralepicrepetition/"
   },
   "OralFormulaicEpic": {
     "title": "Oral-Formulaic Epic",
@@ -16451,6 +16503,10 @@
     "title": "Podwise",
     "url": "/wiki/entities/podwise/"
   },
+  "PoeticEdda": {
+    "title": "The Poetic Edda / 诗体埃达",
+    "url": "/wiki/entities/poeticedda/"
+  },
   "PoetryAsEmotionalRelease": {
     "title": "Poetry As Emotional Release",
     "url": "/wiki/concepts/poetryasemotionalrelease/"
@@ -16919,6 +16975,10 @@
     "title": "Property Rights And Community Obligations",
     "url": "/wiki/concepts/propertyrightscommunityobligations/"
   },
+  "ProseEdda": {
+    "title": "The Prose Edda / 散文埃达",
+    "url": "/wiki/entities/proseedda/"
+  },
   "ProstheticFittingConstraint": {
     "title": "Prosthetic Fitting Constraint",
     "url": "/wiki/concepts/prostheticfittingconstraint/"
@@ -17274,6 +17334,10 @@
   "RafePilling": {
     "title": "Rafe Pilling",
     "url": "/wiki/entities/rafepilling/"
+  },
+  "Ragnarok": {
+    "title": "Ragnarok / 诸神的黄昏",
+    "url": "/wiki/concepts/ragnarok/"
   },
   "RagweedEcologicalFeedback": {
     "title": "Ragweed Ecological Feedback",
@@ -20067,6 +20131,10 @@
     "title": "Sun Jian",
     "url": "/wiki/entities/sunjian/"
   },
+  "SunRuoxi": {
+    "title": "孙若曦 / Sun Ruoxi",
+    "url": "/wiki/entities/sunruoxi/"
+  },
   "SunWukong": {
     "title": "孙悟空",
     "url": "/wiki/entities/sunwukong/"
@@ -20635,6 +20703,10 @@
     "title": "《经济学的思维方式》 / The Economic Way of Thinking",
     "url": "/wiki/entities/theeconomicwayofthinking/"
   },
+  "TheEpicOfGilgamesh": {
+    "title": "The Epic of Gilgamesh / 吉尔伽美什史诗",
+    "url": "/wiki/entities/theepicofgilgamesh/"
+  },
   "TheGenerator": {
     "title": "The Generator",
     "url": "/wiki/entities/thegenerator/"
@@ -20838,6 +20910,10 @@
   "ThomsonReuters": {
     "title": "Thomson Reuters",
     "url": "/wiki/entities/thomsonreuters/"
+  },
+  "Thor": {
+    "title": "Thor / 托尔",
+    "url": "/wiki/entities/thor/"
   },
   "ThreatLocker": {
     "title": "ThreatLocker",
@@ -21658,6 +21734,10 @@
   "VMG": {
     "title": "VMG",
     "url": "/wiki/entities/vmg/"
+  },
+  "Valhalla": {
+    "title": "Valhalla / 瓦尔哈拉",
+    "url": "/wiki/entities/valhalla/"
   },
   "ValidatedLearning": {
     "title": "Validated Learning",
@@ -22618,6 +22698,10 @@
   "XiaoAoJiangHu": {
     "title": "《笑傲江湖》",
     "url": "/wiki/entities/xiaoaojianghu/"
+  },
+  "XiaoChuzhou": {
+    "title": "萧楚舟 / Xiao Chuzhou",
+    "url": "/wiki/entities/xiaochuzhou/"
   },
   "XiaoE": {
     "title": "Xiao'e",
@@ -23870,6 +23954,10 @@
   "ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv": {
     "title": "EP268 毛冬x唐唐：大黄，你到底咋了！上蹿下跳的黄金和那些绝不下车的人",
     "url": "/wiki/sources/ep268-mao-dong-x-tang-tang-da-huang-ni-daodi-za-le-shangcuan-xiatiao-de-huangjin-he-naxie-juebu-xiache-de-ren-lgujs-q24fzqcuutibty8k0bowbv/"
+  },
+  "ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw": {
+    "title": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？",
+    "url": "/wiki/sources/ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw/"
   },
   "ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci": {
     "title": "EP270 一枚芯片的漫长征途：我们离“算力自由”还有多远？",

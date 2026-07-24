@@ -2,7 +2,7 @@
 title: "J.R.R. Tolkien / 托尔金"
 type: entity
 tags: [writer, fantasy, philology, biography]
-sources: [60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403]
+sources: [ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403]
 last_updated: 2026-07-24
 ---
 
@@ -18,10 +18,13 @@ Tolkien also extends [[AuthorMythDeflation]] gently. The episode keeps his anti-
 
 [[142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403]] adds a [[CelticMythology]] comparison. The episode names Tolkien among modern cultural afterlives shaped by Celtic atmosphere, philology, fairy material, and the desire to restore or invent national myth, while keeping the relationship broad rather than claiming direct one-to-one borrowing.
 
+[[ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw]] adds a [[NorseMythology]] and [[PoeticEdda|Edda]] layer. The source connects Tolkien's fantasy world to [[Ragnarok|Ragnarok]], dwarves, elves, northern fate, and [[NorthernCourage|northern courage]], where action matters even when the end is known.
+
 ## Connections
 - [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]] - source episode.
 - [[CSLewis|C. S. Lewis / C.S. 刘易斯]] - friend and fellow Inklings figure discussed in the episode.
-- [[CelticMythology]] - later mythology episode's comparison field for fantasy afterlives.
+- [[CelticMythology]] and [[NorseMythology]] - later mythology episodes' comparison fields for fantasy afterlives.
+- [[PoeticEdda]], [[Ragnarok]], [[NorthernCourage]], and [[EpicModernAfterlife]] - EP269's Norse and epic-afterlife extension.
 - [[AuthorMythDeflation]] - great fantasy author made human through quirks and prejudices.
 - [[LiteraryGossipAsContext]] - biography and habit used as context for myth-making.
 - [[ClassicReadingComplexity]] - adjacent frame for reading fantasy and author image without simple labels.

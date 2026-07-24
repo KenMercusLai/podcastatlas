@@ -2,8 +2,8 @@
 title: "Greek Mythology"
 type: concept
 tags: [mythology, literature, Greece, interpretation]
-sources: [96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514, 67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]
-last_updated: 2026-07-18
+sources: [ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514, 67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 59-kelitedao-yangguang-haigui-shenhua-he-erzhan-zhanchang-646904469]
+last_updated: 2026-07-24
 ---
 
 # Greek Mythology
@@ -20,6 +20,8 @@ The episode treats myth as cultural logic rather than literal evidence. Bull wor
 
 [[96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514]] adds the Homeric epic layer through [[TheIliad|《伊利亚特》]]. This source shifts the mythology page from myths as place memory, evidence, or tragedy into epic war narrative: [[Achilles|阿基里斯]], [[Hector|赫克托]], [[Patroclus|帕特罗克洛斯]], [[Priam|普里阿摩斯]], [[Agamemnon|阿加门农]], and [[HelenOfTroy|海伦]] become figures through which glory, insult, duty, grief, corpse treatment, and mortality are made concrete.
 
+[[ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw]] adds the [[TheOdyssey|Odyssey]] and honor-community layer. [[LiuChang|刘畅]] presents [[Odysseus|奥德修斯]]' return as a movement back toward a community that can recognize his identity, rituals, and household order, while [[AncientGreekHonorCommunity]] explains why [[TheIliad|Iliad]] war spoils operate as public status signs.
+
 ## Key Claims
 - Myths can preserve place associations and recurring motifs without being reliable event records.
 - The Crete stories link desire, oath-breaking, labyrinths, sacrifice, escape, betrayal, and navigation into one local narrative cluster.
@@ -27,12 +29,13 @@ The episode treats myth as cultural logic rather than literal evidence. Bull wor
 - The same mythic pattern can reappear across characters and regions, so variants matter more than a single canonical plot.
 - Tragic adaptation can change the meaning of a mythic figure by shifting responsibility, psychology, and ending structure.
 - Homeric epic makes mythic war ethically concrete by attaching glory and fate to named bodies, families, and acts of mourning.
+- The Odyssey adds a boundary and recognition layer: adventure is not aimlessness when the hero's goal is return to a social order that can name him.
 
 ## Connections
 - [[Crete]] - main mythic setting in the source.
 - [[MinoanCivilization]] and [[KnossosPalace]] - archaeological layer that makes bull and labyrinth imagery resonate.
 - [[MedeaPlay|《美狄亚》 / Medea]], [[MedeaCharacter]], [[Jason]], and [[GoldenFleece|Golden Fleece / 金羊毛]] - Argonautic-tragic branch added by episode 67.
 - [[GreekTragedy]] and [[TragicModernity]] - dramatic branch where myth becomes civic and psychological crisis.
-- [[TheIliad]], [[Homer]], [[Achilles]], [[Hector]], and [[HomericMortalityReading]] - Homeric epic branch added by episode 96.
+- [[TheIliad]], [[TheOdyssey]], [[Homer]], [[Achilles]], [[Hector]], [[Odysseus]], [[HomericMortalityReading]], and [[AncientGreekHonorCommunity]] - Homeric epic branch.
 - [[InterpretationAndOverinterpretation]] - adjacent warning about forcing elegant patterns into certainty.
 - [[AdultFairyTaleReading]] - adjacent concept for rereading old stories beyond childhood simplification.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？](sources/ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw.md) — Talk三联 episode on Homeric, Gilgamesh, and Edda epics, oral repetition, honor communities, mortality, Ragnarok, Marvel/Tolkien/game afterlives, and why old heroic stories keep being remade.
 - [146. 不爱侏罗纪世界？快来《恐龙庇护所》当饲养员！](sources/146-bu-ai-zhuluoji-shijie-kuailai-konglong-bihusuo-dang-siyangyuan-886472126.md) — 蜜獾吃书 episode on 《恐龙庇护所》, 《侏罗纪世界：重生》 dissatisfaction, bird-dinosaur continuity, evidence-bound dinosaur reconstruction, captive animal care labor, and dinosaurs as living animals.
 - [145.嫉妒与鄙视：我该如何躲避这双向的毒箭？](sources/145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647.md) — 蜜獾吃书 episode on Susan Fiske's 《嫉妒与鄙视》, social comparison, envy, contempt, low-status syndrome, stereotypes, schadenfreude, online attack, and empathy as the repair path.
 - [144. 被诅咒的木乃伊：福尔摩斯会和老舍联手探案吗？](sources/144-bei-zuzhou-de-munaiyi-fuermosi-hui-he-laoshe-lianshou-tanan-ma-878168738.md) — 蜜獾吃书 episode on 岛田庄司《被诅咒的木乃伊》, 福尔摩斯同人, 夏目漱石 in London, dual Watson/Soseki manuscripts, a fake Eastern curse, a mummy locked-room fraud, and the fantasy of Holmes meeting 老舍.
@@ -571,6 +572,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [萧楚舟 / Xiao Chuzhou](entities/XiaoChuzhou.md) — Talk三联 speaker introducing Poetic Edda, Norse mythology, Ragnarok, Marvel/Tolkien afterlives, and northern courage in EP269.
+- [孙若曦 / Sun Ruoxi](entities/SunRuoxi.md) — Talk三联 speaker reading The Epic of Gilgamesh through clay tablets, repetition, Enkidu's death, and human limits in EP269.
+- [刘畅 / Liu Chang](entities/LiuChang.md) — Talk三联 speaker explaining Homeric oral technique, Iliad honor conflict, Odyssey homecoming, and ancient Greek recognition rules in EP269.
+- [The Epic of Gilgamesh / 吉尔伽美什史诗](entities/TheEpicOfGilgamesh.md) — Mesopotamian epic read in EP269 through fragmentary tablets, friendship, grief, failed immortality, and human limits.
+- [Gilgamesh / 吉尔伽美什](entities/Gilgamesh.md) — Epic king whose grief for Enkidu makes strength, mortality, failed immortality, and finite kingship visible in EP269.
+- [Enkidu / 恩启都](entities/Enkidu.md) — Gilgamesh's counterpart and friend whose death turns heroic adventure into mortality knowledge in EP269.
+- [The Poetic Edda / 诗体埃达](entities/PoeticEdda.md) — Old Norse poetic collection used in EP269 to introduce gods, heroic material, Ragnarok, and oral/manuscript layering.
+- [The Prose Edda / 散文埃达](entities/ProseEdda.md) — Medieval explanatory Norse text used in EP269 as a companion and organizing guide to Edda material.
+- [Odin / 奥丁](entities/Odin.md) — Norse god read in EP269 as a knowledge-seeker preparing for Ragnarok, with Marvel kinship changes marked as adaptation.
+- [Thor / 托尔](entities/Thor.md) — Norse god and Marvel superhero reference used in EP269 to contrast Edda trickery and modern heroic simplification.
+- [Loki / 洛基](entities/Loki.md) — Norse figure whose Edda relations and Marvel rewriting make him a compact adaptation case in EP269.
+- [Valhalla / 瓦尔哈拉](entities/Valhalla.md) — Norse heroic afterlife hall in EP269, tied to Odin's warrior gathering, Ragnarok, and game/fantasy reuse.
+- [Marvel Cinematic Universe / 漫威宇宙](entities/MarvelCinematicUniverse.md) — Superhero-franchise entry point in EP269 for how Norse gods and apocalypse imagery are modernized.
 - [《恐龙庇护所》 / Dino Sanctuary](entities/DinoSanctuary.md) — Manga used by episode 146 to treat dinosaurs as living animals inside zoo labor, welfare constraints, and evidence-bounded paleontological imagination.
 - [《侏罗纪世界：重生》 / Jurassic World: Rebirth](entities/JurassicWorldRebirth.md) — Dinosaur blockbuster used by episode 146 as a foil for why 《恐龙庇护所》 feels richer to the hosts.
 - [Susan Fiske / 苏珊·菲斯克](entities/SusanFiske.md) — Social psychologist whose 《嫉妒与鄙视》 frames envy, contempt, status comparison, stereotypes, group identity, and empathy in episode 145.
@@ -3819,6 +3833,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Norse Mythology / 北欧神话](concepts/NorseMythology.md) — Mythology field opened by EP269 through the Eddas, Odin, Thor, Loki, Valhalla, Ragnarok, Tolkien, Marvel, and fate-facing action.
+- [Ragnarok / 诸神的黄昏](concepts/Ragnarok.md) — Norse end-time and renewal pattern in EP269 where known doom sharpens courage and modern ecological/fantasy reinterpretation.
+- [Epic Modern Afterlife](concepts/EpicModernAfterlife.md) — EP269 pattern where ancient epics return through films, games, fantasy, superhero franchises, phrases, and reading culture.
+- [Oral Epic Repetition](concepts/OralEpicRepetition.md) — Cross-epic poetics frame from EP269 for repetition as memory, breath, chorus, and emotional accumulation.
+- [Epic Hero Human Limits](concepts/EpicHeroHumanLimits.md) — EP269 frame for reading heroic greatness through mortality, grief, sleep, failed immortality, homecoming, and finite responsibility.
+- [Ancient Greek Honor Community](concepts/AncientGreekHonorCommunity.md) — Homeric social frame from EP269 where gifts, spoils, hospitality, household order, and recognition define heroic status.
+- [Northern Courage / 北方的勇气](concepts/NorthernCourage.md) — Tolkien-linked EP269 concept for acting fully even when fate or defeat is already known.
+- [Mythic Environmental Imagination](concepts/MythicEnvironmentalImagination.md) — EP269 frame for reading myth through natural force, scarcity, ecology, human limits, and renewal after collapse.
 - [Dinosaur As Living Animal / 恐龙作为活着的动物](concepts/DinosaurAsLivingAnimal.md) — Frame for treating dinosaurs as animals with fear, illness, attachment, aging, and individual differences rather than only monster spectacle.
 - [Evidence-Bound Paleontological Reconstruction / 证据约束的古生物复原](concepts/EvidenceBoundPaleontologicalReconstruction.md) — Method for imagining extinct animals through fossils, biomechanics, living relatives, and explicit uncertainty rather than arbitrary design.
 - [Captive Animal Care Labor / 圈养动物照护劳动](concepts/CaptiveAnimalCareLabor.md) — Zoo/sanctuary care work where affection must become cleaning, feeding, observation, veterinary response, enclosure maintenance, and welfare tradeoffs.
