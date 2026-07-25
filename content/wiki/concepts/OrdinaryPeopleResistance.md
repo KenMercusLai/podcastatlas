@@ -2,8 +2,8 @@
 title: "Ordinary People Resistance"
 type: concept
 tags: [resistance, politics, community, everyday-life]
-sources: [133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789, 42-anduo-fengqi-yu-qingping-zhi-mo-616391638]
-last_updated: 2026-07-24
+sources: [06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044, 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789, 42-anduo-fengqi-yu-qingping-zhi-mo-616391638]
+last_updated: 2026-07-25
 ---
 
 # Ordinary People Resistance
@@ -18,6 +18,8 @@ The strongest source cases are [[KinoLoy]] leading a revolt after learning the t
 
 [[133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110]] adds [[ReneCarmille|Rene Carmille]] as a technical resistance case. Carmille's sabotage of classification data, false-document work, silence under torture, and death after deportation show ordinary people resistance inside a professional administrative role rather than only in streets, lawsuits, or open rebellion.
 
+[[06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044]] adds a classical strange-tale version through [[LiJiSlaysSnake|李寄斩蛇]]. Li Ji is not a modern political organizer, but the episode reads her action against the snake as resistance to a community's normalized sacrifice: the monster is dangerous, yet the deeper failure is that village and official systems have stopped imagining refusal.
+
 ## Key Claims
 - Resistance can come from accumulated ordinary pressure rather than ideological conversion alone.
 - Community memory, grief, and local trust can turn private loss into public action.
@@ -26,6 +28,7 @@ The strongest source cases are [[KinoLoy]] leading a revolt after learning the t
 - Resistance can begin as practical refusal, information work, flight, warning others, or preserving future action.
 - A single concrete refusal can become public change when it exposes an ordinary institution's unfair rule.
 - Technical resistance can be ordinary resistance when expertise is used to disrupt a harmful system rather than optimize it.
+- Classical tales can encode ordinary resistance when a non-elite actor treats routinized harm as actionable rather than inevitable.
 
 ## Connections
 - [[Ferrix]], [[MaarvaAndor]], and [[KinoLoy]] - main source cases.
@@ -35,3 +38,4 @@ The strongest source cases are [[KinoLoy]] leading a revolt after learning the t
 - [[HannahArendt|Hannah Arendt / 汉娜·阿伦特]], [[StatelessExile]], and [[PoliticalTruthTelling]] - biographical extension added by episode 103.
 - [[ElizabethJenningsGraham]] and [[PrincipledDisobedience]] - public-transit civil-rights extension added by episode 116.
 - [[ReneCarmille|Rene Carmille / 勒内·卡米耶]], [[TechnicalResistanceFromWithin]], and [[DataEnabledPersecution]] - technical sabotage extension added by episode 133.
+- [[LiJiSlaysSnake|李寄斩蛇]], [[SouShenJi|《搜神记》]], and [[StrangeTaleMoralPluralism]] - classical strange-tale extension added by episode 06.

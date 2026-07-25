@@ -2,13 +2,15 @@
 title: "Story Motif Transmission"
 type: concept
 tags: [folklore, mythology, narrative, transmission]
-sources: [ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
-last_updated: 2026-07-24
+sources: [06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117, 99-henjiu-henjiu-yiqian-yaoguai-ye-tuili-a-730851220, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
+last_updated: 2026-07-25
 ---
 
 # Story Motif Transmission
 
 Story motif transmission is the source's frame for how story patterns travel, recur, or get reinvented across cultures. In [[171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962]], [[MihuanChishu|蜜獾吃书]] uses horse material to show this: centaurs may reflect outsiders encountering skilled riders, Native American post-contact legends can retroactively place horses at creation, and Saiweng loses his horse can be compared with older fortune-reversal motifs.
+
+[[06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044]] adds the [[SouShenJi|《搜神记》]] case. The episode treats the collection as a motif reservoir for later stories: Dong Yong, Cowherd and Weaver Girl, Han Wudi's spirit-summoning, the East Sea filial woman as a Dou E precursor, [[LiJiSlaysSnake|李寄斩蛇]], and [[JiangZiwen|蒋子文]] all show how brief zhiguai entries can later become folk narrative, drama, literary echo, or local cult story.
 
 [[127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]] adds a zodiac-origin and dragon-story version. The episode treats cross-regional zodiac resemblance, dragon-king stories, "fallen dragon" reports, and folk tales of helping or killing dragons as material for comparison, while keeping [[ChineseZodiac|十二生肖]] origins and [[ChineseDragon|龙]] meanings open rather than forcing a single transmission route.
 
@@ -50,6 +52,7 @@ The concept is adjacent to [[MythicSourceLayering]] and [[AccretiveTextFormation
 - Celtic animal-transformation stories show that the same animal body can carry rebirth, kinship, witness memory, curse, or spouse-loss depending on narrative context.
 - Serpent stories show the same caution around powerful motifs: snake wives, forbidden knowledge, hidden bathing, hero-slaying, and renewal can recur without proving one direct genealogy.
 - Gilgamesh and Norse examples show that motifs travel both through old comparative mythology and through modern media franchises; neither route should be collapsed into direct source proof.
+- Zhiguai entries can become later motifs without carrying their whole original archive context into the new moral, dramatic, or religious setting.
 
 ## Connections
 - [[YeXian|《叶限》]], [[YouyangZazu|《酉阳杂俎》]], and [[TangMiscellanyArchiveValue]] - episode 90's Cinderella-like tale extension.
@@ -67,3 +70,4 @@ The concept is adjacent to [[MythicSourceLayering]] and [[AccretiveTextFormation
 - [[Crab|螃蟹]], [[CrabCulturalSymbolism]], and [[AnimalMoralProjection]] - episode 114's crab and Buddhist-story extension.
 - [[ChineseZodiac|十二生肖]], [[ChineseDragon|龙]], and [[ChineseDragonMythicLayering]] - dragon and zodiac-origin extension added by episode 127.
 - [[Snake|蛇]], [[WhiteSnakeLegend|白蛇传]], [[ZhaoLinger|赵灵儿]], and [[SnakeFemalePowerMotif]] - serpent and snake-woman motif extension added by episode 128.
+- [[SouShenJi|《搜神记》]], [[LiJiSlaysSnake|李寄斩蛇]], [[JiangZiwen|蒋子文]], and [[FilialPietyStoryAfterlife]] - zhiguai motif-reservoir extension added by episode 06.

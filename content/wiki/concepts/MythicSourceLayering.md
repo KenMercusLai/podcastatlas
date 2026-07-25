@@ -2,13 +2,15 @@
 title: "Mythic Source Layering"
 type: concept
 tags: [mythology, folklore, literature, religion]
-sources: [ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 136-chunri-mingmei-liaoliao-guishen-827911486, 147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
-last_updated: 2026-07-24
+sources: [06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 171-xianliao-shier-shengxiao-zhi-ma-guanyin-dashi-de-xingqu-aihao-ji-laotouhuan-juese-de-linggan-959614962, 178-muquanlun-weida-de-cuowu-or-shenke-de-dongjian-muquan-shehui-cunzai-guo-ma-974657368, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182, 136-chunri-mingmei-liaoliao-guishen-827911486, 147-feizhou-shenhua-yemao-chuangshi-tulang-xiadan-ji-nezha-de-lingyi-banben-889573004, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
+last_updated: 2026-07-25
 ---
 
 # Mythic Source Layering
 
 Mythic source layering is the way a literary figure gathers multiple religious, folkloric, regional, and textual origins rather than descending from one clean prototype. In [[43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]], [[MihuanChishu|蜜獾吃书]] applies this to [[JourneyToTheWest|《西游记》]] by reading monsters and companions through Buddhist iconography, Daoist terms, Indian epic material, Chinese water-monster lore, zaju, oral stories, and folk belief.
+
+[[06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044]] adds an early zhiguai source-reservoir case through [[SouShenJi|《搜神记》]]. The episode treats Dong Yong, Cowherd and Weaver Girl, Han Wudi's spirit-summoning, East Sea filial woman material, [[LiJiSlaysSnake|李寄斩蛇]], and [[JiangZiwen|蒋子文]] as stories or figures whose later literary and folk afterlives should be read as layered development rather than one stable origin.
 
 [[127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]] adds the [[ChineseDragon|龙]] case at symbol scale. The episode separates shape words, animal analogies, weather and water imagery, rain rituals, Buddhist dragon-king material, imperial decoration, and folk stories into [[ChineseDragonMythicLayering]] rather than forcing them into one original dragon.
 
@@ -57,6 +59,7 @@ The clearest case is [[SunWukong|孙悟空]]. The episode compares him with [[Ha
 - Tang strange tales show layering at the scale of whole story worlds: animal spirits, foreign merchants, Daoist ritual, dragon kinship, and object animation can coexist without a single genealogy.
 - A miscellany can store layered motifs side by side, making source comparison possible while leaving direct descent unresolved.
 - Modern wuxia can turn older legendary, religious, and local-survival layers into a felt origin horizon for martial fiction.
+- Early zhiguai collections can become source reservoirs for later drama, festival stories, filial exempla, ghost literature, and local deity traditions without those later forms exhausting the original archive.
 
 ## Connections
 - [[YouyangZazu|《酉阳杂俎》]], [[YeXian|《叶限》]], [[TangMiscellanyArchiveValue]], and [[StoryMotifTransmission]] - episode 90's miscellany-scale extension.
@@ -77,3 +80,4 @@ The clearest case is [[SunWukong|孙悟空]]. The episode compares him with [[Ha
 - [[HorseReligiousMythology]], [[StoryMotifTransmission]], [[Bucephalus|布西法拉斯]], and [[EldenRing|《艾尔登法环》]] - horse and game-design extension added by episode 171.
 - [[ChineseDragon|龙]], [[ChineseDragonMythicLayering]], and [[DragonNationalSymbolInvention]] - dragon-symbol extension added by episode 127.
 - [[Snake|蛇]], [[SnakeReligiousMythology]], and [[SnakeFemalePowerMotif]] - serpent-symbol extension added by episode 128.
+- [[SouShenJi|《搜神记》]], [[ZhiguaiArchiveValue]], [[StrangeTaleMoralPluralism]], and [[FilialPietyStoryAfterlife]] - early zhiguai source-reservoir extension added by episode 06.

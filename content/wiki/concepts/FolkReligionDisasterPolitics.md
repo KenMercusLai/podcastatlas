@@ -2,8 +2,8 @@
 title: "Folk Religion Disaster Politics"
 type: concept
 tags: [religion, disaster-history, politics, china]
-sources: [65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, 136-chunri-mingmei-liaoliao-guishen-827911486, 148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934]
-last_updated: 2026-07-24
+sources: [06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, 136-chunri-mingmei-liaoliao-guishen-827911486, 148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934]
+last_updated: 2026-07-25
 ---
 
 # Folk Religion Disaster Politics
@@ -16,6 +16,8 @@ The episode does not reduce these practices to "ignorance." Dragon King belief, 
 
 [[148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934]] adds an early-Qing county case from [[Tancheng|郯城]]. After earthquake, famine, and social breakdown, [[HuangLiuhong|黄六鸿]] can still use fear of the [[Chenghuang|城隍]] temple in the [[WangShiTancheng|王氏]] murder investigation. The source shows folk religion not only as disaster explanation, but as a practical language of guilt, surveillance, and unresolved grievance.
 
+[[06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044]] adds a zhiguai cult-formation case through [[JiangZiwen|蒋子文]]. The episode says Jiang Ziwen's posthumous demand for recognition uses threatened disaster to compel worship, making disaster pressure one route by which a local ghost or dead official can become a public religious authority.
+
 ## Key Claims
 - Disaster belief can be a language for grief, responsibility, protest, and mutual aid.
 - Anti-superstition campaigns can remove institutions that also provided shelter, charity, community memory, and psychological repair.
@@ -23,6 +25,7 @@ The episode does not reduce these practices to "ignorance." Dragon King belief, 
 - Modern secularization can have legitimate anti-fraud goals while still misunderstanding survivor needs.
 - Divine bureaucracy and local deity offices make religious accountability feel politically legible.
 - In episode 148, city-god fear becomes part of practical investigation after ordinary evidence and household testimony are inadequate.
+- In the Jiang Ziwen case, threatened disaster can legitimate a new cult while also exposing the coercive side of local deity formation.
 
 ## Connections
 - [[Hankou]], [[Gaoyou]], and [[NationalistGovernment]] - source settings for temples, campaigns, and flood explanation.
@@ -31,3 +34,4 @@ The episode does not reduce these practices to "ignorance." Dragon King belief, 
 - [[NaturalHazardSocialDisaster]] - belief and politics as part of how disaster is interpreted.
 - [[DisasterReliefMismatch]] - elite response can miss the social functions of local religious practice.
 - [[ChineseFolkReligionLayering]], [[UnderworldBureaucracy]], and [[LocalDeityGovernance]] - episode 136's broader frame for divine offices and local gods.
+- [[SouShenJi|《搜神记》]], [[GanBao|干宝]], and [[JiangZiwen|蒋子文]] - episode 06's zhiguai cult-formation extension.

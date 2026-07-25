@@ -2,13 +2,15 @@
 title: "Chinese Folk Religion Layering"
 type: concept
 tags: [religion, folklore, china, mythology]
-sources: [128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 136-chunri-mingmei-liaoliao-guishen-827911486, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
-last_updated: 2026-07-24
+sources: [06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044, 128-xianliao-shier-shengxiao-zhi-she-cong-yemengjiade-dao-zhaolinger-797116305, 112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 152-yese-rushui-hua-qixi-niulang-yuanben-shi-baoan-minsuxue-xilie-tiankeng-la-902820062, 136-chunri-mingmei-liaoliao-guishen-827911486, 127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]
+last_updated: 2026-07-25
 ---
 
 # Chinese Folk Religion Layering
 
 Chinese folk religion layering is the way ritual practice, local cults, Daoist god registers, Buddhist afterlife ideas, Confucian restraint, literature, and oral variants coexist without becoming one fully standardized doctrine. [[136-chunri-mingmei-liaoliao-guishen-827911486]] develops the concept by refusing to make Chinese ghost-and-deity belief answer to a single "correct version."
+
+[[06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044]] adds an early zhiguai archive version through [[SouShenJi|《搜神记》]]. Buddhist and Indian echoes, Daoist techniques, omens, divination, disasters, local cults such as [[JiangZiwen|蒋子文]], and stories about divine punishment appear beside jokes, strange animals, political fear, and literary prototypes. The source therefore shows layering before it becomes a later systematic folk-religion overview: the archive preserves coexistence without reconciling it.
 
 [[127-xianliao-shier-shengxiao-zhi-long-shenqi-dongwu-zai-nali-788239655]] adds a dragon and rain version through [[ChineseDragon|龙]]. The episode moves from earth-dragon rain ritual and dragon kings to folk stories where dragons are rain workers, helpers, transport animals, or dangerous beings, showing how ritual function, Buddhist translation, local story, and imperial imagery can coexist without one stable theology.
 
@@ -35,6 +37,7 @@ The episode's death-ruler examples show the pattern clearly. [[FengduDadi|丰都
 - Tang strange tales can layer Daoist ritual, dragon bureaucracy, foreign religious figures, object spirits, and animal spirits in one narrative field.
 - A miscellany can preserve religious layering without reconciling it; juxtaposed entries become evidence of coexistence rather than a single theology.
 - A foreign or heterodox tradition can survive locally as temple practice, deity naming, or visual memory even after doctrinal continuity has become uncertain.
+- A zhiguai archive can preserve layered belief by storing omens, local cults, divine punishment, Buddhist/Daoist elements, and odd natural observations side by side.
 
 ## Connections
 - [[YouyangZazu|《酉阳杂俎》]], [[DuanChengshi|段成式]], and [[TangMiscellanyArchiveValue]] - episode 90's archival miscellany extension.
@@ -49,3 +52,4 @@ The episode's death-ruler examples show the pattern clearly. [[FengduDadi|丰都
 - [[FolkReligionDisasterPolitics]] - adjacent concept where religious practice and public accountability overlap.
 - [[ChineseDragon|龙]] and [[ChineseDragonMythicLayering]] - dragon and rain-ritual extension added by episode 127.
 - [[Snake|蛇]], [[SnakeReligiousMythology]], [[WhiteSnakeLegend|白蛇传]], and [[SnakeFemalePowerMotif]] - snake and naga extension added by episode 128.
+- [[SouShenJi|《搜神记》]], [[GanBao|干宝]], [[JiangZiwen|蒋子文]], and [[ZhiguaiArchiveValue]] - early zhiguai archive extension added by episode 06.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [06.搜神记： 二十四孝这口锅，干宝不背](sources/06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044.md) — 蜜獾吃书 episode rereading 《搜神记》 as a mixed zhiguai archive, separating 干宝's source collection from later 《二十四孝》 moralization while tracking Li Ji, Jiang Ziwen, omens, spirits, and story motifs.
 - [The year in AI wearables](sources/tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128.md) — Marketplace Tech episode with Will Gottsagen on AI wearables as a 2025 trend, Meta smart glasses, gesture controls, live translation, accessibility possibilities, cloud limits, and always-on privacy concerns.
 - [Mushrooms could help curb plastic waste](sources/tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128.md) — Marketplace Tech episode on Alaska mycelium insulation boards as biodegradable polystyrene alternatives for seafood cold-chain packaging, with University of Alaska researchers and Wild Source testing.
 - [Ron Conway on the Weekend Silicon Valley Bank Collapsed](sources/tsr-s5-ronconway-v5-tsr-s5-ronconway-v5.md) — The Social Radars episode with Ron Conway on the March 2023 Silicon Valley Bank run, deposit guarantees, Treasury/FDIC/Congress coordination, moral hazard versus contagion, YC payroll data, and civic relationships as crisis infrastructure.
@@ -632,6 +633,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《搜神记》](entities/SouShenJi.md) — Early Chinese zhiguai collection read by 蜜獾吃书 as a mixed archive of ghosts, omens, folk religion, story prototypes, moral plurality, and later filial-piety reception.
+- [干宝 / Gan Bao](entities/GanBao.md) — Authorial figure attached to 《搜神记》, treated by the source as a sincere collector of marvels whose book should not be reduced to later filial-piety didacticism.
+- [李寄斩蛇 / Li Ji Slays the Snake](entities/LiJiSlaysSnake.md) — 《搜神记》 tale used by episode 06 as a girl-centered resistance story against normalized sacrifice.
+- [《二十四孝》 / Twenty-Four Filial Exemplars](entities/TwentyFourFilialExemplars.md) — Later filial-piety tradition that the source separates from the full moral range of 《搜神记》.
+- [蒋子文 / Jiang Ziwen](entities/JiangZiwen.md) — Nanjing-area local religious figure in the 《搜神记》 episode, connecting deity governance, underworld office, coercive worship, and unexpected restraint.
 - [Will Gottsagen](entities/WillGottsagen.md) — Atlantic writer interviewed by Marketplace Tech about AI wearables, Meta glasses, cloud limits, public awkwardness, and privacy.
 - [The Atlantic](entities/TheAtlantic.md) — Publication affiliation for Will Gottsagen in the Marketplace Tech AI-wearables episode.
 - [Apple AirPods](entities/AppleAirPods.md) — Familiar Apple wearable used by the source as a live-translation and AI-audio example.
@@ -4257,6 +4263,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Zhiguai Archive Value](concepts/ZhiguaiArchiveValue.md) — Reading frame for old strange-tale collections as archives of belief, social imagination, natural observation, and motifs rather than verified encyclopedia or disposable superstition.
+- [Strange Tale Moral Pluralism](concepts/StrangeTaleMoralPluralism.md) — Concept from the 《搜神记》 episode for preserving incompatible filial, resistant, supernatural, anti-authority, and monster-sympathetic values inside one collection.
+- [Filial Piety Story Afterlife](concepts/FilialPietyStoryAfterlife.md) — Reception frame distinguishing selected filial tales' later didactic use from their broader source context in 《搜神记》.
 - [Mycelium Insulation](concepts/MyceliumInsulation.md) — Fungus-bound board material presented as a possible lightweight, biodegradable alternative to polystyrene insulation and packaging foam.
 - [Biodegradable Foam Packaging](concepts/BiodegradableFoamPackaging.md) — Replacement-packaging problem where a lower-waste material still has to match foam's lightness, insulation, durability, and cost.
 - [Seafood Cold-Chain Packaging](concepts/SeafoodColdChainPackaging.md) — Fish-shipping packaging constraint where temperature control, durability, weight, and waste all affect material adoption.

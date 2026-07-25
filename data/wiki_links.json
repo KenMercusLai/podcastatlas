@@ -11,6 +11,10 @@
     "title": "03.莱博维茨的赞歌：要有光，哪怕废土之上",
     "url": "/wiki/sources/03-laiboweici-de-zange-yao-you-guang-napa-feitu-zhishang-528163687/"
   },
+  "06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044": {
+    "title": "06.搜神记： 二十四孝这口锅，干宝不背",
+    "url": "/wiki/sources/06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044/"
+  },
   "1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6": {
     "title": "1 人公司，扛 5 个人的活，还要管 50 个 Agents？｜S10E18",
     "url": "/wiki/sources/1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6/"
@@ -8807,6 +8811,10 @@
     "title": "Filial Piety Laws",
     "url": "/wiki/concepts/filialpietylaws/"
   },
+  "FilialPietyStoryAfterlife": {
+    "title": "Filial Piety Story Afterlife",
+    "url": "/wiki/concepts/filialpietystoryafterlife/"
+  },
   "FilialRevengePublicSympathy": {
     "title": "Filial Revenge Public Sympathy",
     "url": "/wiki/concepts/filialrevengepublicsympathy/"
@@ -9730,6 +9738,10 @@
   "GammaSqueeze": {
     "title": "Gamma Squeeze",
     "url": "/wiki/concepts/gammasqueeze/"
+  },
+  "GanBao": {
+    "title": "干宝 / Gan Bao",
+    "url": "/wiki/entities/ganbao/"
   },
   "GanbaMushroom": {
     "title": "干巴菌 / Ganba Mushroom",
@@ -12639,6 +12651,10 @@
     "title": "Jiang Yang",
     "url": "/wiki/entities/jiangyang/"
   },
+  "JiangZiwen": {
+    "title": "蒋子文 / Jiang Ziwen",
+    "url": "/wiki/entities/jiangziwen/"
+  },
   "JianghuScamCraft": {
     "title": "Jianghu Scam Craft",
     "url": "/wiki/concepts/jianghuscamcraft/"
@@ -13930,6 +13946,10 @@
   "LiDeyu": {
     "title": "李德裕",
     "url": "/wiki/entities/lideyu/"
+  },
+  "LiJiSlaysSnake": {
+    "title": "李寄斩蛇 / Li Ji Slays the Snake",
+    "url": "/wiki/entities/lijislayssnake/"
   },
   "LiJiajia": {
     "title": "李嘉佳 / Li Jiajia",
@@ -21611,6 +21631,10 @@
     "title": "Sotheby's",
     "url": "/wiki/entities/sothebys/"
   },
+  "SouShenJi": {
+    "title": "《搜神记》",
+    "url": "/wiki/entities/soushenji/"
+  },
   "SoulTrain": {
     "title": "Soul Train",
     "url": "/wiki/entities/soultrain/"
@@ -22182,6 +22206,10 @@
   "StraitOfHormuz": {
     "title": "Strait of Hormuz",
     "url": "/wiki/entities/straitofhormuz/"
+  },
+  "StrangeTaleMoralPluralism": {
+    "title": "Strange Tale Moral Pluralism",
+    "url": "/wiki/concepts/strangetalemoralpluralism/"
   },
   "StrategicAIInfrastructureDependence": {
     "title": "Strategic AI Infrastructure Dependence",
@@ -23778,6 +23806,10 @@
   "TwentyFifthAmendment": {
     "title": "Twenty-Fifth Amendment",
     "url": "/wiki/concepts/twentyfifthamendment/"
+  },
+  "TwentyFourFilialExemplars": {
+    "title": "《二十四孝》 / Twenty-Four Filial Exemplars",
+    "url": "/wiki/entities/twentyfourfilialexemplars/"
   },
   "TwentyFourViewsOfMountFujiByHokusai": {
     "title": "《富岳二十四景》 / 24 Views of Mt. Fuji, by Hokusai",
@@ -25962,6 +25994,10 @@
   "ZhengmianLianjie": {
     "title": "正面连接",
     "url": "/wiki/entities/zhengmianlianjie/"
+  },
+  "ZhiguaiArchiveValue": {
+    "title": "Zhiguai Archive Value",
+    "url": "/wiki/concepts/zhiguaiarchivevalue/"
   },
   "ZhipuAI": {
     "title": "Zhipu AI",
