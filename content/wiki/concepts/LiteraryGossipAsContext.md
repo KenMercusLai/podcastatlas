@@ -2,13 +2,15 @@
 title: "Literary Gossip As Context"
 type: concept
 tags: [literature, biography, interpretation, uncertainty]
-sources: [10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195, 08-laojichao-laoji-busi-shenzhi-buzeng-diaoling-541092994, 135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818, shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314]
+sources: [21-hong-yu-hei-ta-si-yu-zhencheng-569042001, 10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195, 08-laojichao-laoji-busi-shenzhi-buzeng-diaoling-541092994, 135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 01-maitian-shouwangzhe-20shiji-de-meiguo-jiabaoyu-523554422, 179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589, 107-xianliao-weida-daoyanmen-de-bagua-di-yi-dan-744150818, shaqingqing-x-hanzhao-shichuan-zhuomu-wo-baochi-de-sixiang-doushi-yinwei-queqian-894931314]
 last_updated: 2026-07-25
 ---
 
 # Literary Gossip As Context
 
 Literary gossip as context is the use of author anecdotes, scandals, habits, relationships, and odd beliefs as a doorway into literary history without treating them as settled truth or sufficient interpretation. [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]] makes this explicit: the hosts present "great writer gossip" as interesting and sometimes illuminating, but warn that many stories come through biography, research judgment, prejudice, and retelling.
+
+[[21-hong-yu-hei-ta-si-yu-zhencheng-569042001]] adds a [[Stendhal|Stendhal]] case. The episode uses his [[NapoleonBonaparte|Napoleonic]] experience, difficult reception, romantic pursuit anecdotes, and [[WilliamSomersetMaugham|Maugham]]'s comments as context for [[RedAndBlackNovel|《红与黑》]], but the value of the material is that it returns readers to ladders, attack metaphors, style, and [[PsychologicalRealism]] inside the novel.
 
 [[10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195]] returns to [[OscarWilde|Oscar Wilde / 王尔德]] with more textual ballast. The source still uses [[AlfredDouglas|Lord Alfred Douglas / 波西]], [[DeProfundis|《自深深处》]], imprisonment, exile, and [[AndreGide|Gide]]'s memory of Wilde's talk as context, but it then tests that context against [[WildeStrangeStories|《王尔德奇异故事集》]] rather than letting the life replace the fiction.
 

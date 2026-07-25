@@ -4928,6 +4928,10 @@ Added source page for a Marketplace Tech episode with Paul Vixie on dot-com fibe
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-25] ingest | 21.红与黑：他死于真诚
+
+Added source page for a 蜜獾吃书 episode rereading 斯汤达《红与黑》 through 于连的阶级上升、伪装、真诚、爱情、审判和死亡. Created pages for Stendhal, 《红与黑》, Julien Sorel, Madame de Renal, Mathilde de La Mole, French Restoration, Napoleon Bonaparte, William Somerset Maugham, Psychological Realism, Class Mobility Performance, Sincerity Against Social Hypocrisy, Passion Against Self-Control, and Female Subjectivity In Classic Reading; updated overview, index, 蜜獾吃书, 秦总, 北明 / 北民, France, Tolstoy, Sainte-Beuve, Classic Reading Complexity, Non-Instrumental Literary Reading, Reading As Life Experience, Literary Gossip As Context, Female Self-Possession, and Moral Suspension In Art Reading. No direct contradiction found; the source deepens an earlier wiki claim that reducing Julien to a ladder-climbing bad man misses class constraint, emotional ambiguity, and original literary texture.
+
 
 ## [2026-07-25] ingest | 13.悲伤的力量：谈谈丧亲之痛
 
@@ -5128,6 +5132,10 @@ Added source page for a 蜜獾吃书 episode using 史景迁《雍正王朝之�
 ## [2026-07-25] ingest | 12.慢：当米兰·昆德拉一句正经没有
 
 Added source page for a 蜜獾吃书 episode on 米兰·昆德拉《慢》 as a farcical French-language novel about speed, public moral performance, sexual and intellectual self-staging, Czech memory, anti-kitsch body comedy, privacy, and exile. Created pages for Milan Kundera, 《慢》, 《玩笑》, 《不可承受的生命之轻》, Czech Republic, Prague, Prague Spring, Velvet Revolution, Vera Kundera, Slowness As Modernity Critique, Public Moral Performance, Kitsch As Waste Denial, Anti-Lyricism, Memory Self-Mythologizing, Privacy Under Public Gaze, Author As Political Symbol, and Political Condition As Human Experiment; updated overview, index, 蜜獾吃书, Classic Reading Complexity, Author Myth Deflation, and Artistic Achievement Moral Accountability. No direct contradiction found; the source keeps the informing controversy explicitly contested while extending the wiki's reading branch from political-literary labels into human performance, body, media, memory, and privacy.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-25] lint | Wiki health check
 

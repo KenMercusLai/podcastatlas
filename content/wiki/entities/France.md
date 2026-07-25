@@ -2,11 +2,13 @@
 title: "France"
 type: entity
 tags: [country, politics, europe, coffee, film, culture, resistance]
-sources: [133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]
-last_updated: 2026-07-24
+sources: [21-hong-yu-hei-ta-si-yu-zhencheng-569042001, 133-ibm-yu-nacui-weishenme-putongren-bu-ying-zanmei-jizeizhuyi-815684110, 108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905, marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c, 74-quanqiu-shangyin-a-kafei-wo-heise-de-apoluo-678615763]
+last_updated: 2026-07-25
 ---
 
 # France
+
+[[21-hong-yu-hei-ta-si-yu-zhencheng-569042001]] adds a 19th-century literary branch through [[Stendhal|Stendhal]]'s [[RedAndBlackNovel|《红与黑》]]. The source uses [[FrenchRestoration|Restoration France]], [[NapoleonBonaparte|Napoleonic]] memory, aristocratic gatekeeping, and clerical ambition to explain why [[JulienSorel|Julien Sorel]]'s upward mobility has to pass through performance, resentment, and emotional rupture.
 
 France appears in [[marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c]] as the national setting for the April 2027 presidential election and for [[MarineLePen]]'s renewed candidacy after her appeal ruling. The episode uses the French race to connect party normalization, legal eligibility, working-class economic appeals, and the uncertainty of a [[TwoRoundPresidentialElection]].
 

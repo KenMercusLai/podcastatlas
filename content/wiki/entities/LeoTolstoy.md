@@ -2,11 +2,13 @@
 title: "Leo Tolstoy / 托尔斯泰"
 type: entity
 tags: [writer, literature, religion, biography]
-sources: [60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]
-last_updated: 2026-07-14
+sources: [21-hong-yu-hei-ta-si-yu-zhencheng-569042001, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]
+last_updated: 2026-07-25
 ---
 
 # Leo Tolstoy / 托尔斯泰
+
+[[21-hong-yu-hei-ta-si-yu-zhencheng-569042001]] adds a reception-history mention: the episode says Tolstoy treated [[Stendhal|Stendhal]] as an important teacher. The reference is not developed into a full Tolstoy reading, but it positions [[RedAndBlackNovel|《红与黑》]] as a psychologically consequential novel for later realism rather than only a scandalous social plot.
 
 Leo Tolstoy is discussed in [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]] as a writer whose later saintly, moral, and religious image is inseparable from earlier violence, sexual guilt, gambling, war, aristocratic privilege, and family conflict. The episode reads his moral turn as a lived crisis rather than a clean upgrade from sinner to sage.
 

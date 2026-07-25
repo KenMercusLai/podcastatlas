@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [21.红与黑：他死于真诚](sources/21-hong-yu-hei-ta-si-yu-zhencheng-569042001.md) — 蜜獾吃书 episode on Stendhal's 《红与黑》, Julien Sorel, class ascent under Restoration France, sincerity, psychological realism, and the two central love relationships.
 - [20.德米安：该隐的额头上，那神秘的印记](sources/20-demian-gaiyin-de-etou-shang-na-shenmi-de-yinji-567302734.md) — 蜜獾吃书 episode on Hermann Hesse's 《德米安》, Cain's mark, Abraxas, Jungian symbolism, Gnosticism, wartime self-discovery, and later youth-culture reception.
 - [19.荒野上的大师：“我辈于乱世求研究，本为逆流之妄举”](sources/19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437.md) — 蜜獾吃书 live conversation with 张泉 on 《荒野上的大师》, modern Chinese academic institutions, fieldwork, wartime scholarship, Liang Sicheng, Ding Wenjiang, Zhao Yuanren, and Fu Sinian.
 - [18.如何识别、逃离并避免成为《精神吸血鬼》](sources/18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000.md) — 蜜獾吃书 episode using 《精神吸血鬼》 to discuss attention and emotional-energy extraction, self-blame, guilt control, relational isolation, workplace/family manipulation, and rebuilding one's own emotional capacity.
@@ -645,6 +646,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Stendhal / 斯汤达](entities/Stendhal.md) — French writer read by 蜜獾吃书 through 《红与黑》, psychological realism, Napoleonic memory, and delayed literary recognition.
+- [《红与黑》 / The Red and the Black](entities/RedAndBlackNovel.md) — Stendhal novel read through Julien Sorel's class performance, sincerity, passion, and two psychologically active love relationships.
+- [Julien Sorel / 于连·索雷尔](entities/JulienSorel.md) — 《红与黑》 protagonist whose ambition, class humiliation, love, and final passionate break organize the episode's reading.
+- [Madame de Renal / 雷奈尔夫人](entities/MadameDeRenal.md) — 《红与黑》 character read as sincere, conflicted, and psychologically active rather than only saint or victim.
+- [Mathilde de La Mole / 马蒂尔德·德·拉莫尔](entities/MathildeDeLaMole.md) — 《红与黑》 aristocratic character read through pride, romantic theatricality, agency, and constraint.
+- [French Restoration / 法国王政复辟](entities/FrenchRestoration.md) — Historical setting used by the episode to explain Julien's blocked military dream, clerical strategy, and class performance.
+- [Napoleon Bonaparte / 拿破仑](entities/NapoleonBonaparte.md) — Symbolic career ideal for Julien and historical memory behind Stendhal's Restoration-era class diagnosis.
+- [William Somerset Maugham / 毛姆](entities/WilliamSomersetMaugham.md) — Critic used as a foil for the episode's argument about self-control, passion, and the second half of 《红与黑》.
 - [Hermann Hesse / 赫尔曼·黑塞](entities/HermannHesse.md) — German-Swiss writer read by 蜜獾吃书 through spiritual crisis, antiwar self-seeking, Jungian analysis, and the reception gap around his countercultural fame.
 - [《德米安》 / Demian](entities/DemianNovel.md) — Hesse novel read as Emil Sinclair's symbolic coming-of-age through Cain's mark, Abraxas, mentors, projection, and war.
 - [《悉达多》 / Siddhartha](entities/SiddharthaHesse.md) — Hesse spiritual-search novel used by the episode as a river-image contrast to 《德米安》's mirror structure.
@@ -4360,6 +4369,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Psychological Realism / 心理现实主义](concepts/PsychologicalRealism.md) — Literary method where inner movement, motive, shame, desire, and contradiction drive plot rather than merely decorating it.
+- [Class Mobility Performance / 阶级上升表演](concepts/ClassMobilityPerformance.md) — Pattern where upward movement requires performing the codes, beliefs, humility, or manners expected by a higher-status world.
+- [Sincerity Against Social Hypocrisy / 以真诚抵抗社会虚伪](concepts/SincerityAgainstSocialHypocrisy.md) — Tension where a false social order makes masks rational but a character's need for real recognition breaks through them.
+- [Passion Against Self-Control / 激情与自我控制](concepts/PassionAgainstSelfControl.md) — Conflict between strategic restraint and emotional force, added through the episode's reading of Julien and Maugham's criticism.
+- [Female Subjectivity In Classic Reading / 经典阅读中的女性主体性](concepts/FemaleSubjectivityInClassicReading.md) — Reading practice that restores women characters' motives, choices, constraints, and contradictions inside canonical works.
 - [Cain Mark Reinterpretation / 该隐印记重释](concepts/CainMarkReinterpretation.md) — Demian's alternative reading of Cain's mark as feared strength and individuality rather than only guilt or punishment.
 - [Light And Dark World Duality / 光明与黑暗世界二分](concepts/LightAndDarkWorldDuality.md) — Sinclair's childhood split between pious family order and the dangerous, attractive outside world.
 - [Abraxas Whole-God Symbolism / 阿布拉克萨斯完整神象征](concepts/AbraxasWholeGodSymbolism.md) — Hesse symbol for a god-image broad enough to contain divine, demonic, taboo, and shadowed reality.
