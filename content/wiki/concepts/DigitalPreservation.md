@@ -2,8 +2,8 @@
 title: "Digital Preservation"
 type: concept
 tags: [archives, preservation, storage, media]
-sources: [tech-20260325-0325-mp-tech-pod-128-tech-20260325-0325-mp-tech-pod-128, tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128, tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources: [tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128, tech-20260325-0325-mp-tech-pod-128-tech-20260325-0325-mp-tech-pod-128, tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128, tech-20260303-0303-mp-tech-pod-128-tech-20260303-0303-mp-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # Digital Preservation
@@ -16,6 +16,8 @@ The episode makes preservation an infrastructure question as well as an archival
 
 [[tech-20260318-0318-mp-tech-pod-128-tech-20260318-0318-mp-tech-pod-128]] adds the interactive memorialization boundary. [[TomasHoloneck]]'s discussion of [[AIGriefBots]] shows that preserving messages, emails, videos, and family memories is different from turning them into an AI representation of a dead person. Preservation can therefore require consent, deletion planning, and restraint, not only more storage.
 
+[[tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128]] adds the public web version through the [[WaybackMachine|Wayback Machine]]. Here the preservation barrier is not only storage, media, or file readability; it is whether publishers allow crawlers when [[AIProxyScrapingRisk]] makes archived pages look commercially dangerous. [[PublicWebArchiving]] therefore depends on permission and trust as much as technical stewardship.
+
 ## Key Claims
 - Preservation requires redundancy, maintenance, migration, and integrity checks rather than a one-time copy.
 - Storage scarcity can affect cultural memory because institutions need physical media and servers to preserve archives.
@@ -26,6 +28,8 @@ The episode makes preservation an infrastructure question as well as an archival
 - Old data may require the original or compatible [[PreservationTechnicalEnvironment]] before it can be recovered.
 - Interactive memorial systems raise a separate question of whether preserved personal data should be used to simulate a person after death.
 - Respecting digital remains can include deletion or inactivity planning through tools such as [[GoogleInactiveAccountManager]].
+- Public web preservation can fail when important sites block archive crawlers, leaving gaps in the record even if archive technology itself works.
+- AI training-data economics can indirectly reshape what gets preserved by making public archive access feel risky to rights holders.
 
 ## Connections
 - [[LindaTodich]] and [[DigitalBedrock]] - source expert and institutional case.
@@ -35,3 +39,4 @@ The episode makes preservation an infrastructure question as well as an archival
 - [[WIPR]] and [[AmericanArchiveOfPublicBroadcasting]] - recovered public-broadcasting archive case.
 - [[AnalogMediaPreservation]], [[PhysicalVideoMediaRevival]], and [[GamePreservation]] - adjacent preservation branches where format, rights, custody, and ongoing stewardship matter.
 - [[AIGriefBots]], [[DigitalMemorialization]], [[PostMortemAIConsent]], and [[GoogleInactiveAccountManager]] - post-mortem AI and memorialization branch added by Marketplace Tech.
+- [[InternetArchive]], [[WaybackMachine|Wayback Machine]], [[PublicWebArchiving]], [[ArchiveAccessTradeoff]], and [[InternetHistoryFragility]] - public web archive branch added by Marketplace Tech.

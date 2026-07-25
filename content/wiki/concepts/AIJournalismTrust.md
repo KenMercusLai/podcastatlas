@@ -2,8 +2,8 @@
 title: "AI Journalism Trust"
 type: concept
 tags: [ai, journalism, trust]
-sources: [tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
-last_updated: 2026-07-23
+sources: [tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128, tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tech-20260121-0121-mp-tech-pod-128-tech-20260121-0121-mp-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # AI Journalism Trust
@@ -16,6 +16,8 @@ The concept connects [[AIContentProvenance]] to a deeper [[TrustAsBusinessAsset]
 
 [[tech-20260122-0122-mp-tech-pod-128-tech-20260122-0122-mp-tech-pod-128]] adds a source-authentication case through [[CaseyNewton]] of [[Platformer]]. The source shows a reporter having to test a badge and document that seemed to corroborate a viral [[Reddit]] allegation; trust depended on refusing a too-complete story until [[Gemini]] and [[SynthID]] made the provenance problem visible.
 
+[[tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128]] adds the archival-evidence layer. The [[WaybackMachine|Wayback Machine]] can help journalists verify deleted or stealth-edited pages, but publisher blocking motivated by [[AIProxyScrapingRisk]] can remove a verification tool from the reporting workflow.
+
 ## Key Claims
 - Trust risk rises when AI moves from support tasks into visible published prose.
 - Disclosure is necessary but incomplete because readers also infer effort, care, and editorial responsibility.
@@ -23,6 +25,7 @@ The concept connects [[AIContentProvenance]] to a deeper [[TrustAsBusinessAsset]
 - Authenticity pressure may push audiences toward individual reporters, podcasters, or newsletter writers whose authorship feels clearer.
 - Journalistic trust also depends on verification capacity when sources, images, videos, and social posts may be synthetic or miscontextualized.
 - A source package that looks unusually complete can be a trust warning when the reporter has not independently authenticated the evidence.
+- Trust also depends on durable public records; without archived pages, claims about what changed online can become harder to verify.
 
 ## Connections
 - [[AIWrittenJournalism]], [[AIRewriteDesk]], and [[NewsroomAIAdoption]] - production-side causes.
@@ -31,3 +34,4 @@ The concept connects [[AIContentProvenance]] to a deeper [[TrustAsBusinessAsset]
 - [[PublicServiceJournalism]], [[LocalJournalism]], and [[HumanJudgmentUnderAI]] - civic and professional-responsibility stakes.
 - [[InformationApocalypse]], [[AIRealityVerificationTax]], and [[ContentCredentials]] - external-media verification branch added by Marketplace Tech.
 - [[CaseyNewton]], [[Platformer]], [[AIGeneratedHoaxEvidence]], [[SynthID]], and [[OutrageTriggeredSkepticism]] - source-authentication and audience-checking branch added by Marketplace Tech.
+- [[InternetArchive]], [[WaybackMachine|Wayback Machine]], [[PublicWebArchiving]], and [[InternetHistoryFragility]] - web-archive verification branch added by Marketplace Tech.

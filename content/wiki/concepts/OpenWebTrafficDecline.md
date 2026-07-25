@@ -2,8 +2,8 @@
 title: "Open Web Traffic Decline"
 type: concept
 tags: [internet, search, platforms, china]
-sources: [tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1]
-last_updated: 2026-07-12
+sources: [tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128, dang-yinchaoji-baidu-kaishi-shixue-shi-tianzai-haishi-renhuo-keji-luandun, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1]
+last_updated: 2026-07-25
 ---
 
 # Open Web Traffic Decline
@@ -18,6 +18,8 @@ The concept matters because search engines do not only need algorithms; they nee
 
 [[tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]] adds the licensing response. [[PareshDave]] says media companies face a choice between suing AI companies or signing deals, while [[Meta]]'s reported [[NewsCorp]] agreement turns traffic loss into [[AIContentLicensing]] revenue and possible future promotion or advertising inside AI answers.
 
+[[tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128]] adds an archival access version. Even when news pages remain part of the open web, publishers may block the [[WaybackMachine|Wayback Machine]] because archived copies can feel like a secondary route for AI training-data extraction. That turns [[OpenWebSocialContractErosion]] into a preservation problem as well as a search-traffic problem.
+
 ## Key Claims
 - Open-web search depends on accessible content, visible links, and users who start with a search box.
 - Mobile super apps and community platforms can capture both the content and the commercial transaction before search sees it.
@@ -26,6 +28,7 @@ The concept matters because search engines do not only need algorithms; they nee
 - Habit shift is as important as content access: if users begin in social or video apps, general search loses demand before ranking quality is even tested.
 - AI answer boxes can reduce open-web traffic even while displaying sources, because the answer layer may satisfy the user's intent before a click happens.
 - Publisher licensing can monetize some AI use of content without restoring the older click-through model.
+- AI scraping fears can reduce archive access even when the immediate user-facing issue is not search traffic but control over archived copies.
 
 ## Connections
 - [[Baidu]] — company case shaped by the open-web-to-mobile-app shift.
@@ -36,3 +39,4 @@ The concept matters because search engines do not only need algorithms; they nee
 - [[Google]] — comparison case because it found additional platform positions such as Android.
 - [[AIProductFragmentation]] — adjacent platform problem where technical ability still needs a coherent user entry point.
 - [[PodcastAsAsynchronousMedia]] — adjacent media-history theme from the same episode, where distribution entry points shape behavior.
+- [[WaybackMachine|Wayback Machine]], [[PublicWebArchiving]], [[AIProxyScrapingRisk]], and [[OpenWebSocialContractErosion]] - archive-access branch added by Marketplace Tech.

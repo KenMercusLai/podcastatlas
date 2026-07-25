@@ -1215,6 +1215,10 @@
     "title": "AI Protein Design",
     "url": "/wiki/concepts/aiproteindesign/"
   },
+  "AIProxyScrapingRisk": {
+    "title": "AI Proxy Scraping Risk",
+    "url": "/wiki/concepts/aiproxyscrapingrisk/"
+  },
   "AIPublicLikenessGeneration": {
     "title": "AI Public Likeness Generation",
     "url": "/wiki/concepts/aipubliclikenessgeneration/"
@@ -2335,6 +2339,10 @@
     "title": "Andrew Crosse / 安德鲁·克罗斯",
     "url": "/wiki/entities/andrewcrosse/"
   },
+  "AndrewDeck": {
+    "title": "Andrew Deck",
+    "url": "/wiki/entities/andrewdeck/"
+  },
   "AndrewGradman": {
     "title": "Andrew Gradman",
     "url": "/wiki/entities/andrewgradman/"
@@ -2662,6 +2670,10 @@
   "ArcLanguage": {
     "title": "Arc",
     "url": "/wiki/entities/arclanguage/"
+  },
+  "ArchiveAccessTradeoff": {
+    "title": "Archive Access Tradeoff",
+    "url": "/wiki/concepts/archiveaccesstradeoff/"
   },
   "Area51": {
     "title": "Area 51 / 51区",
@@ -11851,6 +11863,10 @@
     "title": "International Hotel",
     "url": "/wiki/entities/internationalhotel/"
   },
+  "InternetArchive": {
+    "title": "Internet Archive",
+    "url": "/wiki/entities/internetarchive/"
+  },
   "InternetBlackoutPublicSafetyRisk": {
     "title": "Internet Blackout Public-Safety Risk",
     "url": "/wiki/concepts/internetblackoutpublicsafetyrisk/"
@@ -11858,6 +11874,10 @@
   "InternetHealthcare": {
     "title": "Internet Healthcare",
     "url": "/wiki/concepts/internethealthcare/"
+  },
+  "InternetHistoryFragility": {
+    "title": "Internet History Fragility",
+    "url": "/wiki/concepts/internethistoryfragility/"
   },
   "InternetHospital": {
     "title": "Internet Hospital",
@@ -13887,6 +13907,10 @@
     "title": "Liberty Media",
     "url": "/wiki/entities/libertymedia/"
   },
+  "LibraryOfCongress": {
+    "title": "Library of Congress",
+    "url": "/wiki/entities/libraryofcongress/"
+  },
   "LifeAntifragility": {
     "title": "Life Antifragility",
     "url": "/wiki/concepts/lifeantifragility/"
@@ -14914,6 +14938,10 @@
   "MarkCuban": {
     "title": "Mark Cuban",
     "url": "/wiki/entities/markcuban/"
+  },
+  "MarkGraham": {
+    "title": "Mark Graham",
+    "url": "/wiki/entities/markgraham/"
   },
   "MarkJohnson": {
     "title": "Mark Johnson",
@@ -16515,6 +16543,10 @@
     "title": "Nicole Turner-Lee",
     "url": "/wiki/entities/nicoleturnerlee/"
   },
+  "NiemanLab": {
+    "title": "Nieman Lab",
+    "url": "/wiki/entities/niemanlab/"
+  },
   "NigelFarage": {
     "title": "Nigel Farage",
     "url": "/wiki/entities/nigelfarage/"
@@ -17074,6 +17106,10 @@
   "OpenSourceStartupCostCollapse": {
     "title": "Open Source Startup Cost Collapse",
     "url": "/wiki/concepts/opensourcestartupcostcollapse/"
+  },
+  "OpenWebSocialContractErosion": {
+    "title": "Open Web Social Contract Erosion",
+    "url": "/wiki/concepts/openwebsocialcontracterosion/"
   },
   "OpenWebTrafficDecline": {
     "title": "Open Web Traffic Decline",
@@ -18766,6 +18802,10 @@
   "PublicUtilityCommissions": {
     "title": "Public Utility Commissions",
     "url": "/wiki/concepts/publicutilitycommissions/"
+  },
+  "PublicWebArchiving": {
+    "title": "Public Web Archiving",
+    "url": "/wiki/concepts/publicwebarchiving/"
   },
   "PublicationBias": {
     "title": "Publication Bias",
@@ -24359,6 +24399,10 @@
     "title": "华生力 / Watson Power",
     "url": "/wiki/concepts/watsonpower/"
   },
+  "WaybackMachine": {
+    "title": "Wayback Machine",
+    "url": "/wiki/entities/waybackmachine/"
+  },
   "WayfinderVentures": {
     "title": "Wayfinder Ventures",
     "url": "/wiki/entities/wayfinderventures/"
@@ -27058,6 +27102,10 @@
   "tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128": {
     "title": "California buildings must limit \\\"embodied carbon.\\\" Here's what that means",
     "url": "/wiki/sources/tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128/"
+  },
+  "tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128": {
+    "title": "News sites are blocking access to Internet Archive's Wayback Machine",
+    "url": "/wiki/sources/tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128/"
   },
   "tech-20260710-tech-pod-128-tech-20260710-tech-pod-128": {
     "title": "OpenAI's GPT-5.6 release raises questions about White House control over new models",

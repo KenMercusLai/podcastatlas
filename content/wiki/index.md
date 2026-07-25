@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [News sites are blocking access to Internet Archive's Wayback Machine](sources/tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128.md) — Marketplace Tech episode on news publishers blocking the Wayback Machine over AI proxy-scraping fears, public web archiving, copyright risk, and the fragility of internet history.
 - [California buildings must limit "embodied carbon." Here's what that means](sources/tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128.md) — Marketplace Tech episode on California's embodied-carbon building-code requirements, Malibu High School's lower-carbon material review, compliance routes, and how mandates can create demand for sustainable construction materials.
 - [Bytes: Week in Review - AI companies divided over proposed state law, Amazon buys Globalstar, and Spotify to sell physical books](sources/tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128.md) — Marketplace Tech Bytes episode on Illinois AI liability shields, OpenAI/Anthropic policy divergence, Amazon's Globalstar acquisition, direct-to-device satellite connectivity, and Spotify's physical-book partnership with Bookshop.org.
 - [One way to avoid AI altogether? Retire early](sources/tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128.md) — Marketplace Tech episode with Lauren Weber on older workers retiring amid workplace AI adoption, institutional knowledge loss, training, trust, and late-career autonomy.
@@ -623,6 +624,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Internet Archive](entities/InternetArchive.md) — Nonprofit behind the Wayback Machine, framed by Marketplace Tech as caught between public web preservation and AI-era publisher blocking.
+- [Wayback Machine](entities/WaybackMachine.md) — Internet Archive web snapshot project that some news publishers are blocking over AI training-data fears.
+- [Andrew Deck](entities/AndrewDeck.md) — Nieman Lab journalist explaining publishers' preemptive Wayback Machine blocking and the lack of direct proxy-scraping evidence in the source.
+- [Nieman Lab](entities/NiemanLab.md) — Journalism publication context for Andrew Deck's reporting on AI scraping fears and public web archives.
+- [Mark Graham](entities/MarkGraham.md) — Wayback Machine director whose warning frames publisher archive blocking as potentially harmful to journalists.
+- [Library of Congress](entities/LibraryOfCongress.md) — Government archive institution raised as a possible but governance-sensitive alternative web-archiving model.
 - [Malibu High School](entities/MalibuHighSchool.md) — California school project used by Marketplace Tech to make embodied-carbon material review concrete.
 - [Vertical Group](entities/VerticalGroup.md) — Sustainability consulting firm helping translate embodied-carbon requirements into construction-material review.
 - [BN Builders](entities/BNBuilders.md) — Contractor represented by Emily English in the Marketplace Tech episode on California embodied-carbon compliance.
@@ -4192,6 +4199,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Public Web Archiving](concepts/PublicWebArchiving.md) — Public-interest preservation of web-page snapshots for accountability, memory, research, and journalism.
+- [AI Proxy Scraping Risk](concepts/AIProxyScrapingRisk.md) — Fear that AI companies can use intermediary archives or cached copies to access publisher content indirectly.
+- [Archive Access Tradeoff](concepts/ArchiveAccessTradeoff.md) — Conflict between public archive access and rights-holder concerns about paywalls, copyright, and AI training-data reuse.
+- [Open Web Social Contract Erosion](concepts/OpenWebSocialContractErosion.md) — Breakdown of informal crawler and archive norms as AI makes open web text newly valuable.
+- [Internet History Fragility](concepts/InternetHistoryFragility.md) — Risk that web history becomes incomplete or unreliable when archives depend on blocked crawlers, vulnerable institutions, or government-controlled preservation.
 - [Embodied Carbon Building Code](concepts/EmbodiedCarbonBuildingCode.md) — Building-code approach that requires construction projects to account for emissions embodied in materials and construction.
 - [Operational Carbon](concepts/OperationalCarbon.md) — Building-emissions category from energy use during operation, contrasted with embodied construction emissions.
 - [Construction Carbon Compliance](concepts/ConstructionCarbonCompliance.md) — Practical documentation and review process for meeting embodied-carbon construction requirements.

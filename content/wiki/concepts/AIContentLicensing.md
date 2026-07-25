@@ -2,8 +2,8 @@
 title: "AI Content Licensing"
 type: concept
 tags: [ai, media, publishing, licensing]
-sources: [tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources: [tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # AI Content Licensing
@@ -12,12 +12,16 @@ AI content licensing is the practice of AI companies paying publishers or conten
 
 The source frames licensing as both data supply and publisher survival strategy. Meta gets access to real-time news and archives that can improve freshness and factual grounding, while News Corp gets revenue at a moment when AI answers may reduce the traffic that historically helped fund news sites.
 
+[[tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128]] adds the archive-blocking side of the same problem. News publishers worry that the [[WaybackMachine|Wayback Machine]] could let AI companies reach archived copyrighted journalism without a direct license, turning [[PublicWebArchiving]] into a perceived [[AIProxyScrapingRisk]] even when the source reports no direct evidence of that route being used.
+
 ## Key Claims
 - AI licensing deals can cover both current information and archives, making them useful for freshness, grounding, and model training.
 - Publishers face a strategic fork: litigate over unlicensed use, negotiate licensing revenue, or pursue both paths across different AI firms.
 - Licensing money can cushion traffic decline, but it does not fully solve subscriber acquisition, brand visibility, attribution, or long-term business-model pressure.
 - Future deals may extend beyond training data into answer placement, promotion, advertising, attribution, or sponsored visibility inside AI answers.
 - AI companies that previously relied on broad web data may need publisher relationships when answer products require trusted, current, rights-cleared information.
+- Publisher concern can extend beyond direct crawlers to archived or cached copies that might preserve content outside current access controls.
+- Archive blocking can be a defensive move when publishers do not trust that informal crawler norms or public-interest archives will prevent commercial AI reuse.
 
 ## Connections
 - [[Meta]] and [[NewsCorp]] - source deal counterparties.
@@ -26,3 +30,4 @@ The source frames licensing as both data supply and publisher survival strategy.
 - [[AIAnswerSourceAttribution]] - adjacent visibility and trust problem.
 - [[PublisherRelationshipMoat]] - related publisher-supply and negotiation pattern.
 - [[GenerativeEngineOptimization]] and [[AIDiscoverySEO]] - adjacent AI answer visibility concepts.
+- [[WaybackMachine|Wayback Machine]], [[PublicWebArchiving]], [[AIProxyScrapingRisk]], and [[ArchiveAccessTradeoff]] - archive-blocking branch added by Marketplace Tech.
