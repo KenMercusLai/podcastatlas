@@ -4907,3 +4907,11 @@ Added source page for a Marketplace Tech episode with Nicole Nguyen on AI fitnes
 ## [2026-07-25] lint | Wiki health check
 
 Ran lint after health passed. Deterministic checks scanned 6,807 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes while lint scanned 6,807 pages, so graph findings are advisory until `build graph` refreshes it; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` is not provider-qualified and no provider/API-key environment variables are exposed in the process. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-25] ingest | MLB brings automated ball-strike tech to the Big Leagues
+
+Added source page for a Marketplace Tech episode with Nola Agha on Major League Baseball's Automated Ball Strike Challenge System, Hawkeye tracking, strike-zone calibration, challenge rules, fan expectations, and why human umpires remain in the workflow when tracking fails. Created pages for Nola Agha, University of San Francisco, Hawkeye, Automated Ball Strike Challenge System, Baseball Strike-Zone Automation, and Sports Officiating Automation; updated overview, index, Marketplace Tech, Stephanie Hughes, Major League Baseball, and League Stakeholder Alignment. No direct contradiction found; the source qualifies simple officiating-automation optimism by showing that measured fairness still depends on rule translation, calibration, stakeholder acceptance, and human fallback.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

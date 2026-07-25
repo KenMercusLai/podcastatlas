@@ -2947,6 +2947,10 @@
     "title": "Autodesk",
     "url": "/wiki/entities/autodesk/"
   },
+  "AutomatedBallStrikeChallengeSystem": {
+    "title": "Automated Ball Strike Challenge System",
+    "url": "/wiki/entities/automatedballstrikechallengesystem/"
+  },
   "AutomatedPerformanceMarketing": {
     "title": "Automated Performance Marketing",
     "url": "/wiki/concepts/automatedperformancemarketing/"
@@ -3266,6 +3270,10 @@
   "BaseballReserveClause": {
     "title": "Baseball Reserve Clause",
     "url": "/wiki/concepts/baseballreserveclause/"
+  },
+  "BaseballStrikeZoneAutomation": {
+    "title": "Baseball Strike-Zone Automation",
+    "url": "/wiki/concepts/baseballstrikezoneautomation/"
   },
   "BasicBrownBearFactory": {
     "title": "Basic Brown Bear Factory",
@@ -10523,6 +10531,10 @@
     "title": "Havana",
     "url": "/wiki/entities/havana/"
   },
+  "Hawkeye": {
+    "title": "Hawkeye",
+    "url": "/wiki/entities/hawkeye/"
+  },
   "HayFeverEnvironmentalHistory": {
     "title": "Hay Fever Environmental History",
     "url": "/wiki/concepts/hayfeverenvironmentalhistory/"
@@ -16399,6 +16411,10 @@
     "title": "Nokia",
     "url": "/wiki/entities/nokia/"
   },
+  "NolaAgha": {
+    "title": "Nola Agha",
+    "url": "/wiki/entities/nolaagha/"
+  },
   "NonConsensusInnovation": {
     "title": "Non-Consensus Innovation",
     "url": "/wiki/concepts/nonconsensusinnovation/"
@@ -21227,6 +21243,10 @@
     "title": "Sports Media Rights",
     "url": "/wiki/concepts/sportsmediarights/"
   },
+  "SportsOfficiatingAutomation": {
+    "title": "Sports Officiating Automation",
+    "url": "/wiki/concepts/sportsofficiatingautomation/"
+  },
   "SportsPlayerAutonomy": {
     "title": "Sports Player Autonomy",
     "url": "/wiki/concepts/sportsplayerautonomy/"
@@ -23522,6 +23542,10 @@
   "UniversityOfOttawa": {
     "title": "University Of Ottawa",
     "url": "/wiki/entities/universityofottawa/"
+  },
+  "UniversityOfSanFrancisco": {
+    "title": "University of San Francisco",
+    "url": "/wiki/entities/universityofsanfrancisco/"
   },
   "UniversityOfSouthernCalifornia": {
     "title": "University of Southern California",
@@ -26734,6 +26758,10 @@
   "tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128": {
     "title": "Bytes: Week in Review - Meta, YouTube's social media addiction case, a new AI literacy course, and Kalshi's prediction market self-regulation",
     "url": "/wiki/sources/tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128/"
+  },
+  "tech-20260330-0330-mp-tech-pod-128-tech-20260330-0330-mp-tech-pod-128": {
+    "title": "MLB brings automated ball-strike tech to the Big Leagues",
+    "url": "/wiki/sources/tech-20260330-0330-mp-tech-pod-128-tech-20260330-0330-mp-tech-pod-128/"
   },
   "tech-20260710-tech-pod-128-tech-20260710-tech-pod-128": {
     "title": "OpenAI's GPT-5.6 release raises questions about White House control over new models",

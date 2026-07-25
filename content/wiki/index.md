@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [MLB brings automated ball-strike tech to the Big Leagues](sources/tech-20260330-0330-mp-tech-pod-128-tech-20260330-0330-mp-tech-pod-128.md) — Marketplace Tech episode on MLB's Automated Ball Strike Challenge System, Hawkeye tracking, strike-zone calibration, umpire fallback, fan trust, and sports officiating automation.
 - [What AI fitness apps can and can't do - for now](sources/tech-20260204-0204-mp-tech-pod-128-tech-20260204-0204-mp-tech-pod-128.md) — Marketplace Tech episode with Nicole Nguyen on Apple Workout Buddy, Fitbit's AI health coach, Peloton's camera-based form correction, AI fitness cost, hallucinations, accountability, and nutrition-tracking next steps.
 - [How we got free agents in baseball](sources/how-we-got-free-agents-in-baseball.md) — Planet Money episode on Curt Flood, MLB's reserve clause, baseball's antitrust exemption, labor monopsony, public-opinion litigation, arbitration, and the rise of free agency.
 - [How to make a BOOK into a bestseller](sources/how-to-make-a-book-into-a-bestseller.md) — Planet Money episode on its book launch, New York Times bestseller-list opacity, pre-order concentration, bulk-sales gaming, and bestseller status as a demand engine.
@@ -612,6 +613,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Nola Agha](entities/NolaAgha.md) — University of San Francisco sports management professor explaining MLB's ABS challenge system and baseball strike-zone automation.
+- [University of San Francisco](entities/UniversityOfSanFrancisco.md) — Academic affiliation for Nola Agha in the Marketplace Tech episode on MLB ball-strike automation.
+- [Hawkeye](entities/Hawkeye.md) — Sports tracking company used by MLB in the ABS ball-tracking and strike-zone calibration branch.
+- [Automated Ball Strike Challenge System](entities/AutomatedBallStrikeChallengeSystem.md) — MLB challenge system that reviews human ball-strike calls through camera tracking and calibrated strike-zone measurement.
 - [Nicole Nguyen](entities/NicoleNguyen.md) — Wall Street Journal personal technology columnist whose AI fitness testing anchors the Marketplace Tech episode.
 - [Peloton](entities/Peloton.md) — Connected-fitness company used as the premium camera-based form-correction case in the AI fitness episode.
 - [Apple Workout Buddy](entities/AppleWorkoutBuddy.md) — Apple's no-extra-fee but basic AI fitness feature compared with Fitbit and Peloton.
@@ -4143,6 +4148,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Baseball Strike-Zone Automation](concepts/BaseballStrikeZoneAutomation.md) — Translation of baseball's strike zone into camera tracking, player-specific calibration, and review procedure.
+- [Sports Officiating Automation](concepts/SportsOfficiatingAutomation.md) — Use of tracking, replay, and review systems to improve sports officiating credibility while preserving or redefining human authority.
 - [AI Fitness Coaching](concepts/AIFitnessCoaching.md) — Consumer wellness pattern where AI plans, adapts, motivates, and sometimes observes workouts without fully replacing human coaching.
 - [Computer Vision Form Correction](concepts/ComputerVisionFormCorrection.md) — Camera-based AI feedback for exercise movement, shown through Peloton's strength-training form correction.
 - [AI Nutrition Tracking](concepts/AINutritionTracking.md) — AI-assisted meal, calorie, and macro logging that uses photos and inference to reduce manual entry.
