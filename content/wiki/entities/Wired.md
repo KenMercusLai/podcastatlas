@@ -2,11 +2,13 @@
 title: "Wired"
 type: entity
 tags: [media, journalism, technology]
-sources: [tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
+sources: [tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, tech-20260306-0306-mp-tech-pod-128-tech-20260306-0306-mp-tech-pod-128, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128]
 last_updated: 2026-07-25
 ---
 
 # Wired
+
+[[tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128]] adds Wired through reporting that [[Anthropic]] wanted major changes to the [[IllinoisAILiabilityBill|Illinois AI liability bill]] or wanted it killed. In this source, Wired anchors the company-position split between Anthropic and [[OpenAI]] over [[StateAILiabilityShield|state AI liability shields]].
 
 [[tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128]] adds Wired through [[PareshDave]]'s Marketplace Tech Bytes analysis of [[SpaceX]]'s reported IPO filing, [[Iran]]-linked threats against U.S. tech infrastructure, and [[California]]'s AI procurement order. In this source, Wired anchors fast interpretation of capital-market timing, dual-use infrastructure exposure, and state-level AI governance.
 
@@ -17,6 +19,7 @@ Wired is the technology-publication affiliation for [[PareshDave]] in [[tech-202
 The page mainly anchors source context. It connects the wiki's Marketplace Tech coverage to a technology-journalism source that is used for fast analysis of platform companies, AI infrastructure, defense AI, and media economics.
 
 ## Connections
+- [[IllinoisAILiabilityBill]], [[Anthropic]], [[OpenAI]], and [[StateAILiabilityShield]] - April 17 state AI liability-bill reporting context.
 - [[PareshDave]] - Wired journalist interviewed in the Marketplace Tech Bytes episodes.
 - [[MarketplaceTech]] and [[StephanieHughes]] - show and host context.
 - [[AIHardwareTradeSecretDispute]], [[HyperscaleDataCenterMoratorium]], and [[RobotaxiHybridDeployment]] - July 17, 2026 topic clusters.

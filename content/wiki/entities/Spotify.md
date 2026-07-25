@@ -2,11 +2,13 @@
 title: "Spotify"
 type: entity
 tags: [company, music, streaming, consumer-platform]
-sources: [tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]
-last_updated: 2026-07-12
+sources: [tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly, tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # Spotify
+
+[[tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128]] adds Spotify's physical-book strategy. The episode says Spotify is allowing [[Android]] users in the [[UnitedStates|U.S.]] and [[UnitedKingdom|U.K.]] to buy physical books through its app via [[BookshopOrg|Bookshop.org]], and that [[PageMatch]] can match a reader's place between an audiobook and a physical book. This turns Spotify from a streaming and personalization case into a [[PhysicalBookPlatformBridge]] case.
 
 Spotify is the audio-streaming company discussed in [[tech-20260213-tech-pod-128-tech-20260213-tech-pod-128]]. The [[MarketplaceTech]] Bytes segment says Spotify added 38 million monthly active users in the fourth quarter, with revenue and premium subscribers also growing.
 
@@ -17,6 +19,7 @@ The episode uses Spotify as a consumer-platform case where growth comes partly f
 [[tsr-s5-catchup2-v1-tsr-s5-catchup2-v1]] adds Spotify as a podcast review surface for [[TheSocialRadars]]. The Season Five update asks listeners to rate and review the show there, making Spotify part of the show's audience-feedback loop rather than a new music-streaming product case.
 
 ## Connections
+- [[BookshopOrg|Bookshop.org]], [[PageMatch]], [[Android]], [[PhysicalBookPlatformBridge]], [[BookstoreBuying]], and [[ReadingAsLifeExperience]] - physical-book and audiobook bridge added by Marketplace Tech.
 - [[MarketplaceTech]], [[StephanieHughes]], and [[JewelBurkeSolomon]] - episode context.
 - [[SpotifyWrapped]] - year-end listening recap feature credited with driving engagement.
 - [[PersonalizationAsSocialIdentity]] - concept explaining why users share their listening history and taste.

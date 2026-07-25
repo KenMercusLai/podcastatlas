@@ -2,11 +2,13 @@
 title: "Maria Curi"
 type: entity
 tags: [person, journalism, technology]
-sources: [tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]
-last_updated: 2026-07-17
+sources: [tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128, tech-20260710-tech-pod-128-tech-20260710-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # Maria Curi
+
+In [[tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128]], the source spells her name as Maria Currie while using the same weekly technology-policy analyst role. Her comments connect the [[IllinoisAILiabilityBill|Illinois AI liability bill]] to stalled federal AI legislation, [[OpenAI]] and [[Anthropic]]'s split over developer liability, [[Amazon]]'s planned [[Globalstar]] purchase, and [[Spotify]]'s [[BookshopOrg|Bookshop.org]] partnership.
 
 Maria Curi appears in [[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]] as the [[Axios]] analyst interviewed by [[StephanieHughes]] about social media liability, AI worker literacy, and prediction-market self-regulation. Her comments connect a negligence verdict against [[Meta]] and [[YouTube]] to [[SocialMediaProductLiability]], a [[USDepartmentOfLabor|U.S. Department of Labor]] text-message course to [[AIWorkerLiteracy]], and [[Kalshi]] guardrails to [[PredictionMarketSelfRegulation]].
 
@@ -15,6 +17,7 @@ Maria Curi also appears in [[tech-20260227-0227-mp-tech-pod-128-tech-20260227-02
 In [[tech-20260710-tech-pod-128-tech-20260710-tech-pod-128]], Curi explains frontier-model release review, possible Chinese model-access restrictions, and [[Meta]]'s [[MuseImage|Muse Image]] privacy defaults. Her comments connect [[OpenAI]]'s [[GPT56|GPT-5.6]] launch to [[FrontierModelReleaseGovernance]], then connect public-profile image prompts to [[AIPublicLikenessGeneration]].
 
 ## Connections
+- [[IllinoisAILiabilityBill]], [[StateAILiabilityShield]], [[CatastrophicAILiability]], [[Globalstar]], [[DirectToDeviceSatelliteConnectivity]], [[Spotify]], [[BookshopOrg|Bookshop.org]], and [[PhysicalBookPlatformBridge]] - April 17 Bytes topics.
 - [[Axios]] - news organization affiliation in the March 27 episode.
 - [[MarketplaceTech]] - show context.
 - [[SocialMediaProductLiability]], [[AIWorkerLiteracy]], and [[PredictionMarketSelfRegulation]] - policy branches she explains in the March 27 episode.

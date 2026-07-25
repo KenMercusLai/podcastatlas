@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-25] ingest | Bytes: Week in Review - AI companies divided over proposed state law, Amazon buys Globalstar, and Spotify to sell physical books
+
+Added source page for a Marketplace Tech Bytes episode on an Illinois AI liability bill, OpenAI and Anthropic's split over state-level liability shields, Amazon's planned Globalstar acquisition, direct-to-device satellite connectivity, and Spotify's Bookshop.org physical-book partnership. Created pages for Illinois, Bill Cunningham, Globalstar, Bookshop.org, PageMatch, Illinois AI Liability Bill, State AI Liability Shield, Catastrophic AI Liability, Direct-To-Device Satellite Connectivity, Satellite Connectivity Competition, and Physical Book Platform Bridge; updated overview, index, Marketplace Tech, Maria Curi, OpenAI, Anthropic, Wired, AI Governance And Compliance, Internet Liability Spillover, Amazon, SpaceX, Apple, Spotify, Bookstore Buying, Bookstore Serendipity, and Reading As Life Experience. No direct contradiction found; the source qualifies social-media liability analogies by treating catastrophic AI harms as a separate accountability problem.
+
 ## [2026-07-24] ingest | Battlefield rare earths: How the U.S. lost to China
 
 Added source page for a Planet Money episode on Mountain Pass, Molycorp, China's rare-earth processing dominance, the 2010 Japan export shock, Project Phoenix, MP Materials, NioCorp, and the U.S. turn toward state-backed rare-earth rebuilding. Created pages for Mark Smith, Molycorp, Mountain Pass Rare Earth Mine, MP Materials, NioCorp, Rod Eggert, Emily Fang, Project Phoenix, Rare Earth Export Leverage, State-Backed Rare Earth Rebuilding, and Dominant Producer Price Discipline; updated overview, index, NPR, Planet Money, United States, China, Japan, Donald Trump, U.S. Department of Defense, White House, Rare Earth Processing Bottleneck, Critical Minerals Geopolitics, Supply Chain Sovereignty, Strategic Industrial Policy, Tech Manufacturing Reshoring, and Effective Tariff Rate Shock. No direct contradiction found; the source reinforces existing Greenland rare-earth coverage while moving the wiki from mineral access into processing, export, price, and state-capacity mechanics.
@@ -4971,3 +4975,7 @@ Added source page for a Marketplace Tech episode using Lauren Weber's Wall Stree
 ## [2026-07-25] lint | Wiki health check
 
 Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 6,864 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` and provider API-key environment variables are not configured in this process. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

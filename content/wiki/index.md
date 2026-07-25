@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bytes: Week in Review - AI companies divided over proposed state law, Amazon buys Globalstar, and Spotify to sell physical books](sources/tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128.md) — Marketplace Tech Bytes episode on Illinois AI liability shields, OpenAI/Anthropic policy divergence, Amazon's Globalstar acquisition, direct-to-device satellite connectivity, and Spotify's physical-book partnership with Bookshop.org.
 - [One way to avoid AI altogether? Retire early](sources/tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128.md) — Marketplace Tech episode with Lauren Weber on older workers retiring amid workplace AI adoption, institutional knowledge loss, training, trust, and late-career autonomy.
 - [Bytes: Week in Review - Anthropic's new AI model, a referendum on data centers, and NASA livestreams journey to space](sources/tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Joanna Stern on Anthropic's restricted Claude-Methos Preview rollout, Project Glasswing, Port Washington's data-center incentive referendum, and NASA's Artemis 2 livestreaming.
 - [By 2030, EVs could cost the same as their gas guzzling siblings](sources/tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128.md) — Marketplace Tech episode on EV sticker-price barriers, battery costs, China's LFP-led price parity, and forecasts for U.S. EV and hybrid sales once the premium falls.
@@ -621,6 +622,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Illinois](entities/Illinois.md) — State-level AI policy setting for the Illinois AI liability bill and an earlier data-center incentive example.
+- [Bill Cunningham](entities/BillCunningham.md) — Illinois state senator quoted as saying final AI law is unlikely to include sweeping liability relief for AI developers.
+- [Globalstar](entities/Globalstar.md) — Satellite operator Amazon is described as buying to expand low-earth-orbit and direct-to-device connectivity capacity.
+- [Bookshop.org](entities/BookshopOrg.md) — Online bookselling partner Spotify uses to route app-based physical-book purchases toward independent bookstores.
+- [PageMatch](entities/PageMatch.md) — Spotify feature matching a reader's place between an audiobook and a physical book.
 - [Lauren Weber](entities/LaurenWeber.md) — Wall Street Journal reporter grounding Marketplace Tech's episode on older workers, AI adoption, retirement, and institutional knowledge loss.
 - [Claude-Methos Preview](entities/ClaudeMethosPreview.md) — Anthropic cyber-capable model described by Marketplace Tech as strong at vulnerability discovery and restricted to trusted organizations.
 - [Project Glasswing](entities/ProjectGlasswing.md) — Anthropic restricted-access collaboration around Claude-Methos Preview for defensive vulnerability discovery.
@@ -4178,6 +4184,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Illinois AI Liability Bill](concepts/IllinoisAILiabilityBill.md) — Proposed Illinois bill limiting some large-model developer liability under conditions such as no intentional or reckless conduct and safety-protocol publication.
+- [State AI Liability Shield](concepts/StateAILiabilityShield.md) — State-level legal mechanism that narrows AI developer liability while raising accountability tradeoffs.
+- [Catastrophic AI Liability](concepts/CatastrophicAILiability.md) — Accountability problem for severe model-enabled harms such as critical-infrastructure cyberattacks or bioweapon creation.
+- [Direct-To-Device Satellite Connectivity](concepts/DirectToDeviceSatelliteConnectivity.md) — Satellite capability that connects directly to consumer devices for emergency or hard-to-reach coverage.
+- [Satellite Connectivity Competition](concepts/SatelliteConnectivityCompetition.md) — Market and public-access dynamic around Amazon, Globalstar, SpaceX, and satellite internet availability.
+- [Physical Book Platform Bridge](concepts/PhysicalBookPlatformBridge.md) — Strategy linking app-based audiobooks and commerce to physical-book buying and offline reading.
 - [Older Worker AI Retirement](concepts/OlderWorkerAIRetirement.md) — Late-career labor-force exit pattern where some workers choose retirement rather than another employer-led AI transition.
 - [Institutional Knowledge Transfer](concepts/InstitutionalKnowledgeTransfer.md) — Organizational handoff of tacit knowledge, relationships, communication norms, and context that AI cannot capture from online documents alone.
 - [Data Center Incentive Referendum](concepts/DataCenterIncentiveReferendum.md) — Local voting mechanism requiring approval before certain large data-center or developer tax incentives can proceed.

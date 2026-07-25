@@ -2,11 +2,13 @@
 title: "SpaceX"
 type: entity
 tags: [company, technology, space, hard-tech]
-sources: [tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio]
+sources: [tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128, tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128, 129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, far-crimea-war-comes-to-russias-door-6a3e560c26d5a6687a90c658, ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio]
 last_updated: 2026-07-25
 ---
 
 # SpaceX
+
+[[tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128]] adds SpaceX as the incumbent benchmark in [[SatelliteConnectivityCompetition]]. [[MariaCurie|Maria Currie]] says SpaceX currently dominates the direct-to-device connectivity market, while [[Amazon]]'s planned [[Globalstar]] acquisition could help it close the gap over time.
 
 SpaceX appears in [[ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1]] as one of the highly valued private technology companies discussed in the episode's [[AIIPOValuation]] section. It is grouped with [[OpenAI]] and [[Anthropic]] as a company whose potential public-market pricing could transfer risk from private holders to public investors.
 
@@ -29,6 +31,7 @@ The source also frames SpaceX as an organization and manufacturing model. [[Elon
 [[129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151]] uses SpaceX as a source-scoped analogy for [[ImperfectActionPractice]]. [[Beimin|北明]] contrasts repeated launch attempts and learning from explosions with a more perfection-oriented preparation image of [[NASA]], using the example to argue that some hard problems require visible failure before the system can improve.
 
 ## Connections
+- [[Globalstar]], [[Amazon]], [[DirectToDeviceSatelliteConnectivity]], and [[SatelliteConnectivityCompetition]] - April 17 Marketplace Tech satellite-competition branch.
 - [[OpenAI]] and [[Anthropic]] — other private technology companies discussed in the IPO valuation frame.
 - [[AIIPOValuation]] — concept that separates real technological importance from attractive public-market entry price.
 - [[IndexFundAutomaticExposure]] — risk that benchmark inclusion forces passive and pension portfolios to hold the post-IPO company.

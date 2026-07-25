@@ -3567,6 +3567,10 @@
     "title": "Bill Clinton",
     "url": "/wiki/entities/billclinton/"
   },
+  "BillCunningham": {
+    "title": "Bill Cunningham",
+    "url": "/wiki/entities/billcunningham/"
+  },
   "BillMarler": {
     "title": "Bill Marler",
     "url": "/wiki/entities/billmarler/"
@@ -3782,6 +3786,10 @@
   "BookingHoldings": {
     "title": "Booking Holdings",
     "url": "/wiki/entities/bookingholdings/"
+  },
+  "BookshopOrg": {
+    "title": "Bookshop.org",
+    "url": "/wiki/entities/bookshoporg/"
   },
   "BookstoreBuying": {
     "title": "Bookstore Buying",
@@ -4546,6 +4554,10 @@
   "CatastropheInsuranceClaims": {
     "title": "Catastrophe Insurance Claims",
     "url": "/wiki/concepts/catastropheinsuranceclaims/"
+  },
+  "CatastrophicAILiability": {
+    "title": "Catastrophic AI Liability",
+    "url": "/wiki/concepts/catastrophicailiability/"
   },
   "CategoryCreation": {
     "title": "Category Creation",
@@ -7038,6 +7050,10 @@
   "DirectToConsumerCashFlow": {
     "title": "Direct To Consumer Cash Flow",
     "url": "/wiki/concepts/directtoconsumercashflow/"
+  },
+  "DirectToDeviceSatelliteConnectivity": {
+    "title": "Direct-To-Device Satellite Connectivity",
+    "url": "/wiki/concepts/directtodevicesatelliteconnectivity/"
   },
   "DirectorMythDeflation": {
     "title": "Director Myth Deflation",
@@ -9891,6 +9907,10 @@
     "title": "Global Sports Sponsorship",
     "url": "/wiki/concepts/globalsportssponsorship/"
   },
+  "Globalstar": {
+    "title": "Globalstar",
+    "url": "/wiki/entities/globalstar/"
+  },
   "Gmail": {
     "title": "Gmail",
     "url": "/wiki/entities/gmail/"
@@ -11414,6 +11434,14 @@
   "IgnazSemmelweis": {
     "title": "Ignaz Semmelweis",
     "url": "/wiki/entities/ignazsemmelweis/"
+  },
+  "Illinois": {
+    "title": "Illinois",
+    "url": "/wiki/entities/illinois/"
+  },
+  "IllinoisAILiabilityBill": {
+    "title": "Illinois AI Liability Bill",
+    "url": "/wiki/concepts/illinoisailiabilitybill/"
   },
   "IlyaSutskever": {
     "title": "Ilya Sutskever",
@@ -17279,6 +17307,10 @@
     "title": "Packaging As Product Experience",
     "url": "/wiki/concepts/packagingasproductexperience/"
   },
+  "PageMatch": {
+    "title": "PageMatch",
+    "url": "/wiki/entities/pagematch/"
+  },
   "PageRankSearchRelevance": {
     "title": "PageRank Search Relevance",
     "url": "/wiki/concepts/pageranksearchrelevance/"
@@ -17802,6 +17834,10 @@
   "PhysicalAI": {
     "title": "Physical AI",
     "url": "/wiki/concepts/physicalai/"
+  },
+  "PhysicalBookPlatformBridge": {
+    "title": "Physical Book Platform Bridge",
+    "url": "/wiki/concepts/physicalbookplatformbridge/"
   },
   "PhysicalGameEraDecline": {
     "title": "Physical Game Era Decline",
@@ -20167,6 +20203,10 @@
     "title": "Sasha Nauta",
     "url": "/wiki/entities/sashanauta/"
   },
+  "SatelliteConnectivityCompetition": {
+    "title": "Satellite Connectivity Competition",
+    "url": "/wiki/concepts/satelliteconnectivitycompetition/"
+  },
   "SatiricalGroupPortrait": {
     "title": "Satirical Group Portrait",
     "url": "/wiki/concepts/satiricalgroupportrait/"
@@ -21638,6 +21678,10 @@
   "StateAGPlatformLitigation": {
     "title": "State AG Platform Litigation",
     "url": "/wiki/concepts/stateagplatformlitigation/"
+  },
+  "StateAILiabilityShield": {
+    "title": "State AI Liability Shield",
+    "url": "/wiki/concepts/stateailiabilityshield/"
   },
   "StateAIProcurementGuardrails": {
     "title": "State AI Procurement Guardrails",
@@ -26962,6 +27006,10 @@
   "tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128": {
     "title": "One way to avoid AI altogether? Retire early",
     "url": "/wiki/sources/tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128/"
+  },
+  "tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128": {
+    "title": "Bytes: Week in Review - AI companies divided over proposed state law, Amazon buys Globalstar, and Spotify to sell physical books",
+    "url": "/wiki/sources/tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128/"
   },
   "tech-20260710-tech-pod-128-tech-20260710-tech-pod-128": {
     "title": "OpenAI's GPT-5.6 release raises questions about White House control over new models",
