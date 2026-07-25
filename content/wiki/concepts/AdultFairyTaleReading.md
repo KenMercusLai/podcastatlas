@@ -2,8 +2,8 @@
 title: "Adult Fairy-Tale Reading"
 type: concept
 tags: [literature, fairy-tales, childhood, rereading]
-sources: [187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166, 122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
-last_updated: 2026-07-24
+sources: [07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165, 187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166, 122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306]
+last_updated: 2026-07-25
 ---
 
 # Adult Fairy-Tale Reading
@@ -18,6 +18,8 @@ The concept overlaps with [[AdultSatiricalChildrensClassics]] but is broader. An
 
 [[122-pinuocao-chengzhang-de-cantong-jiqi-suo-chuangzuo-de-777464172]] adds [[AdventuresOfPinocchio|《木偶奇遇记》]] as the darker growth-tale version. The episode argues that the famous lying nose and [[TheWaltDisneyCompany|Disney]] memory are too small for [[CarloCollodi|Collodi]]'s original, where hunger, punishment, dream logic, parental loss, animal helpers, symbolic death, and [[GrowthAsProtectorRole]] make becoming human painful rather than cute.
 
+[[07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165]] adds [[TheLittlePrince|《小王子》]] as a philosophical tale whose adult rereading has to include [[RomanticDeathEscape|death escape]] and [[ResponsibilityAgainstRomanticEscape|responsibility]], not only tenderness. The source's point is that childlike purity can be moving while still carrying avoidance, projection, and harm to those left waiting.
+
 ## Key Claims
 - A fairy tale can be accessible to children while still carrying adult emotional, social, and spiritual structures.
 - Rereading can reveal why childhood sadness, fear, or fascination felt disproportionate at the time.
@@ -27,8 +29,10 @@ The concept overlaps with [[AdultSatiricalChildrensClassics]] but is broader. An
 - A familiar fairy-tale surface can hide an older legend, local record, or social-history problem.
 - A fairy tale about becoming good can still resist shallow obedience: goodness may mean discovering a self capable of care and responsibility.
 - A very short fairy tale can stay alive because it preserves unsettled class, gender, body, and truth pressures instead of giving one stable lesson.
+- A tender philosophical tale can become adult reading when its comfort is held beside death, avoidance, and relational cost.
 
 ## Connections
+- [[TheLittlePrince|《小王子》 / The Little Prince]], [[PuerAeternus]], [[RomanticDeathEscape]], and [[ResponsibilityAgainstRomanticEscape]] - episode 07's extension into philosophical children's literature.
 - [[HansChristianAndersen|安徒生 / Hans Christian Andersen]] - central author case.
 - [[TheLittleMermaid|《海的女儿》 / The Little Mermaid]] - central tale case.
 - [[ThePrincessAndThePea|《豌豆公主》 / The Princess and the Pea]], [[TruePrincessAmbiguity]], and [[LiteraryAmbiguityAsComplexity]] - episode 187's close Andersen extension.

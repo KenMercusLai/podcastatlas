@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [07.用荣格理论分析《小王子》 永恒少年及其他](sources/07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165.md) — 蜜獾吃书 episode rereading 《小王子》 through Jungian psychology, eternal-youth psychology, Saint-Exupery biography, the rose/fox/snake symbols, death escape, relational responsibility, and statistics versus concrete life.
 - [06.搜神记： 二十四孝这口锅，干宝不背](sources/06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044.md) — 蜜獾吃书 episode rereading 《搜神记》 as a mixed zhiguai archive, separating 干宝's source collection from later 《二十四孝》 moralization while tracking Li Ji, Jiang Ziwen, omens, spirits, and story motifs.
 - [The year in AI wearables](sources/tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128.md) — Marketplace Tech episode with Will Gottsagen on AI wearables as a 2025 trend, Meta smart glasses, gesture controls, live translation, accessibility possibilities, cloud limits, and always-on privacy concerns.
 - [Mushrooms could help curb plastic waste](sources/tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128.md) — Marketplace Tech episode on Alaska mycelium insulation boards as biodegradable polystyrene alternatives for seafood cold-chain packaging, with University of Alaska researchers and Wild Source testing.
@@ -633,6 +634,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Carl Jung / 荣格](entities/CarlJung.md) — Analytical psychologist whose collective-unconscious and archetype language grounds episode 07's reading of 《小王子》.
+- [Marie-Louise von Franz / 玛丽-路易丝·冯·弗兰兹](entities/MarieLouiseVonFranz.md) — Jungian analyst whose 《永恒少年：我们为何拒绝长大》 provides episode 07's eternal-youth framework.
+- [《永恒少年：我们为何拒绝长大》 / The Eternal Youth](entities/TheEternalYouth.md) — Von Franz book used by episode 07 to define the puer aeternus pattern and its repair through grounded responsibility.
+- [Antoine de Saint-Exupery / 圣埃克苏佩里](entities/AntoineDeSaintExupery.md) — Writer-pilot whose biography, marriage, desert crash, wartime flying, and death-shadow are used to reread 《小王子》.
+- [Consuelo de Saint-Exupery / 康苏爱萝](entities/ConsueloDeSaintExupery.md) — Saint-Exupery's wife, linked by episode 07 to the rose, waiting, conflicted intimacy, and responsibility.
 - [《搜神记》](entities/SouShenJi.md) — Early Chinese zhiguai collection read by 蜜獾吃书 as a mixed archive of ghosts, omens, folk religion, story prototypes, moral plurality, and later filial-piety reception.
 - [干宝 / Gan Bao](entities/GanBao.md) — Authorial figure attached to 《搜神记》, treated by the source as a sincere collector of marvels whose book should not be reduced to later filial-piety didacticism.
 - [李寄斩蛇 / Li Ji Slays the Snake](entities/LiJiSlaysSnake.md) — 《搜神记》 tale used by episode 06 as a girl-centered resistance story against normalized sacrifice.
@@ -4263,6 +4269,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Puer Aeternus / 永恒少年](concepts/PuerAeternus.md) — Jungian eternal-youth pattern that holds creativity, sensitivity, avoidance, commitment fear, and refusal of ordinary adult responsibility together.
+- [Jungian Archetypal Reading / 荣格式原型阅读](concepts/JungianArchetypalReading.md) — Literary method that reads recurring images as archetypal signals while keeping symbol, biography, myth, and speculation at different confidence levels.
+- [Mother Complex / 母亲情结](concepts/MotherComplex.md) — Episode 07 frame connecting maternal attachment, idealized love, and the eternal-youth difficulty with adult reciprocity.
+- [Romantic Death Escape / 浪漫化死亡逃避](concepts/RomanticDeathEscape.md) — Pattern where beautiful or tragic death becomes an exit from the harder work of living and taking responsibility.
+- [Statistical Poisoning Of The Soul / 统计学对灵魂的毒害](concepts/StatisticalPoisoningOfTheSoul.md) — Modern abstraction problem where counting and comparison erase concrete relation, particular lives, and felt experience.
+- [Responsibility Against Romantic Escape / 以责任抵抗浪漫逃避](concepts/ResponsibilityAgainstRomanticEscape.md) — Maturity path that preserves imagination by binding it to work, suffering, commitment, and relation.
 - [Zhiguai Archive Value](concepts/ZhiguaiArchiveValue.md) — Reading frame for old strange-tale collections as archives of belief, social imagination, natural observation, and motifs rather than verified encyclopedia or disposable superstition.
 - [Strange Tale Moral Pluralism](concepts/StrangeTaleMoralPluralism.md) — Concept from the 《搜神记》 episode for preserving incompatible filial, resistant, supernatural, anti-authority, and monster-sympathetic values inside one collection.
 - [Filial Piety Story Afterlife](concepts/FilialPietyStoryAfterlife.md) — Reception frame distinguishing selected filial tales' later didactic use from their broader source context in 《搜神记》.

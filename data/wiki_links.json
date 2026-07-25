@@ -15,6 +15,10 @@
     "title": "06.搜神记： 二十四孝这口锅，干宝不背",
     "url": "/wiki/sources/06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044/"
   },
+  "07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165": {
+    "title": "07.用荣格理论分析《小王子》 永恒少年及其他",
+    "url": "/wiki/sources/07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165/"
+  },
   "1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6": {
     "title": "1 人公司，扛 5 个人的活，还要管 50 个 Agents？｜S10E18",
     "url": "/wiki/sources/1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6/"
@@ -2571,6 +2575,10 @@
     "title": "Antler",
     "url": "/wiki/entities/antler/"
   },
+  "AntoineDeSaintExupery": {
+    "title": "Antoine de Saint-Exupery / 圣埃克苏佩里",
+    "url": "/wiki/entities/antoinedesaintexupery/"
+  },
   "AntoineHersen": {
     "title": "Antoine Hersen",
     "url": "/wiki/entities/antoinehersen/"
@@ -4527,6 +4535,10 @@
     "title": "Career Shore Myth",
     "url": "/wiki/concepts/careershoremyth/"
   },
+  "CarlJung": {
+    "title": "Carl Jung / 荣格",
+    "url": "/wiki/entities/carljung/"
+  },
   "CarlSagan": {
     "title": "Carl Sagan",
     "url": "/wiki/entities/carlsagan/"
@@ -5810,6 +5822,10 @@
   "ConstructiveDissent": {
     "title": "Constructive Dissent / 建设性异议",
     "url": "/wiki/concepts/constructivedissent/"
+  },
+  "ConsueloDeSaintExupery": {
+    "title": "Consuelo de Saint-Exupery / 康苏爱萝",
+    "url": "/wiki/entities/consuelodesaintexupery/"
   },
   "ConsumerAMLExposure": {
     "title": "Consumer AML Exposure",
@@ -13055,6 +13071,10 @@
     "title": "胡米利亚足球俱乐部 / Jumilla CF",
     "url": "/wiki/entities/jumillacf/"
   },
+  "JungianArchetypalReading": {
+    "title": "Jungian Archetypal Reading / 荣格式原型阅读",
+    "url": "/wiki/concepts/jungianarchetypalreading/"
+  },
   "JurassicWorldRebirth": {
     "title": "《侏罗纪世界：重生》 / Jurassic World: Rebirth",
     "url": "/wiki/entities/jurassicworldrebirth/"
@@ -15055,6 +15075,10 @@
     "title": "Maria / 玛利亚（圣乔治学校）",
     "url": "/wiki/entities/mariastgeorges/"
   },
+  "MarieLouiseVonFranz": {
+    "title": "Marie-Louise von Franz / 玛丽-路易丝·冯·弗兰兹",
+    "url": "/wiki/entities/marielouisevonfranz/"
+  },
   "MarineLePen": {
     "title": "Marine Le Pen",
     "url": "/wiki/entities/marinelepen/"
@@ -16150,6 +16174,10 @@
   "MoteBook": {
     "title": "MoteBook",
     "url": "/wiki/entities/motebook/"
+  },
+  "MotherComplex": {
+    "title": "Mother Complex / 母亲情结",
+    "url": "/wiki/concepts/mothercomplex/"
   },
   "MotherDaughterReconciliation": {
     "title": "Mother-Daughter Reconciliation",
@@ -19039,6 +19067,10 @@
     "title": "Publishing Portfolio Risk",
     "url": "/wiki/concepts/publishingportfoliorisk/"
   },
+  "PuerAeternus": {
+    "title": "Puer Aeternus / 永恒少年",
+    "url": "/wiki/concepts/pueraeternus/"
+  },
   "Pulley": {
     "title": "Pulley",
     "url": "/wiki/entities/pulley/"
@@ -19751,6 +19783,10 @@
     "title": "Responna",
     "url": "/wiki/entities/responna/"
   },
+  "ResponsibilityAgainstRomanticEscape": {
+    "title": "Responsibility Against Romantic Escape / 以责任抵抗浪漫逃避",
+    "url": "/wiki/concepts/responsibilityagainstromanticescape/"
+  },
   "ResponsibilityVsGuilt": {
     "title": "Responsibility Versus Guilt / 责任与罪行区分",
     "url": "/wiki/concepts/responsibilityvsguilt/"
@@ -20150,6 +20186,10 @@
   "RomanRepublic": {
     "title": "Roman Republic / 罗马共和国",
     "url": "/wiki/entities/romanrepublic/"
+  },
+  "RomanticDeathEscape": {
+    "title": "Romantic Death Escape / 浪漫化死亡逃避",
+    "url": "/wiki/concepts/romanticdeathescape/"
   },
   "RomanticProjectionTrap": {
     "title": "Romantic Projection Trap",
@@ -22047,6 +22087,10 @@
     "title": "Statistical Bubble Indicators",
     "url": "/wiki/concepts/statisticalbubbleindicators/"
   },
+  "StatisticalPoisoningOfTheSoul": {
+    "title": "Statistical Poisoning Of The Soul / 统计学对灵魂的毒害",
+    "url": "/wiki/concepts/statisticalpoisoningofthesoul/"
+  },
   "StatisticalSignificanceThreshold": {
     "title": "Statistical Significance Threshold",
     "url": "/wiki/concepts/statisticalsignificancethreshold/"
@@ -23042,6 +23086,10 @@
   "TheEpicOfGilgamesh": {
     "title": "The Epic of Gilgamesh / 吉尔伽美什史诗",
     "url": "/wiki/entities/theepicofgilgamesh/"
+  },
+  "TheEternalYouth": {
+    "title": "《永恒少年：我们为何拒绝长大》 / The Eternal Youth",
+    "url": "/wiki/entities/theeternalyouth/"
   },
   "TheGenerator": {
     "title": "The Generator",

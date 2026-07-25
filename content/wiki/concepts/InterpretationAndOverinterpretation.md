@@ -2,8 +2,8 @@
 title: "Interpretation And Overinterpretation"
 type: concept
 tags: [interpretation, literature, reasoning, semiotics]
-sources: [115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
-last_updated: 2026-07-24
+sources: [07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165, 115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309, 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933, 76-xuanguailu-wantang-dangzheng-meidanwu-zaixiang-xie-damahou-de-gushi-683323220, 75-gushi-xinbian-kulou-bei-fuhuo-hou-hui-ganji-zhuangzi-ma-681010087, 111-huayi-modishou-kuailai-he-lishixuejia-yiqi-tuili-tonghua-zhenxiang-751190766, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465, 167-ming-ruo-zhao-shuang-weishenme-hongloumeng-bu-xuyao-daoming-949917324, 183-li-shangyin-he-hongloumeng-pianpi-xing-guaizhang-na-guan-shiren-feibang-981580260, 101-caoyin-yu-kangxi-hongloumeng-xing-zhong-you-shi-735044876, 53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184, 54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699, 57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319, 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]
+last_updated: 2026-07-25
 ---
 
 # Interpretation And Overinterpretation
@@ -36,6 +36,8 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 
 [[115-jingji-xiayan-jinxi-xu-baigui-bu-yanjiu-yaoguai-zenme-haohao-zuoren-760601309]] adds a yokai-image version through [[ToriyamaSekien|鸟山石燕]]'s [[AnganKozo|《暗眼小僧》]] image. The source values homophones, boat details, fish imagery, and classical allusion, but it also makes [[TataraKatsugoro|多多良胜五郎]]'s wrong theories comic evidence of the risk: an attractive yokai pattern can reveal cultural meaning without solving the case.
 
+[[07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165]] adds a Jungian-symbolic version through [[TheLittlePrince|《小王子》]]. The source openly enjoys connecting snake, fox, rose, baobab tree, sheep, volcano, desert, and well to [[JungianArchetypalReading]], [[MotherComplex]], and [[PuerAeternus]], but it also notes that psychoanalytic readings can overreach. The evidence discipline is therefore to keep textual recurrence, biography, mythic analogy, and speculation at different strengths.
+
 ## Key Claims
 - Interpretation is necessary because signs do not explain themselves.
 - Overinterpretation begins when a reader treats an attractive pattern as proof before checking evidence, context, and alternative explanations.
@@ -53,8 +55,10 @@ The concept extends [[ObservationBeforeInference]] from natural-science evidence
 - In miscellany reading, overinterpretation can begin when a preserved resemblance is promoted from useful clue to proven genealogy before route, date, and variant evidence are tested.
 - In family-history reading, overinterpretation can begin when a real background becomes a total solution instead of an institutional echo with limits.
 - In yokai-image reading, overinterpretation can begin when visual resemblance, homophone, or allusion is treated as proof instead of as an evidence prompt.
+- In psychoanalytic literary reading, overinterpretation can begin when a resonant symbol or biography match is promoted from useful hypothesis to settled cause.
 
 ## Connections
+- [[TheLittlePrince|《小王子》 / The Little Prince]], [[JungianArchetypalReading]], [[PuerAeternus]], and [[MotherComplex]] - episode 07's Jungian-symbolic extension.
 - [[SemioticDetectiveFiction]] - mystery form where the boundary becomes part of the plot.
 - [[TheNameOfTheRose|《玫瑰的名字》 / The Name of the Rose]] and [[UmbertoEco|翁贝托·艾柯 / Umberto Eco]] - source text and author.
 - [[WilliamOfBaskerville|巴斯克维尔的威廉 / William of Baskerville]] - character who models and questions inference.

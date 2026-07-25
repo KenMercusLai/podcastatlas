@@ -5063,3 +5063,11 @@ Added source page for a 蜜獾吃书 episode rereading 《搜神记》 as a mixe
 ## [2026-07-25] lint | Wiki health check
 
 Ran lint after health passed. Scanned 6,989 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` and provider API-key environment variables are unset. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-07-25] ingest | 07.用荣格理论分析《小王子》 永恒少年及其他
+
+Added source page for a 蜜獾吃书 episode rereading 《小王子》 through Jungian psychology, Marie-Louise von Franz's eternal-youth frame, Saint-Exupery biography, the rose/fox/snake symbols, death escape, relational responsibility, and statistics versus concrete life. Created pages for Carl Jung, Marie-Louise von Franz, 《永恒少年：我们为何拒绝长大》, Antoine de Saint-Exupery, Consuelo de Saint-Exupery, Puer Aeternus, Jungian Archetypal Reading, Mother Complex, Romantic Death Escape, Statistical Poisoning Of The Soul, and Responsibility Against Romantic Escape; updated overview, index, The Little Prince, 蜜獾吃书, 秦总, 北明 / 北民, Children's Literature Complexity, Classic Reading Complexity, Adult Fairy-Tale Reading, Interpretation And Overinterpretation, and Adolescent Alienation Recognition. No direct contradiction found; the source deepens the existing Little Prince death-shadow branch while keeping its Jungian and biographical claims source-scoped.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
