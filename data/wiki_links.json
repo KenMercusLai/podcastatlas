@@ -447,6 +447,10 @@
     "title": "179.爱丽丝梦游仙境：世界多荒诞，我也是自己的主宰（上）",
     "url": "/wiki/sources/179-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-shang-975483805/"
   },
+  "18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000": {
+    "title": "18.如何识别、逃离并避免成为《精神吸血鬼》",
+    "url": "/wiki/sources/18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000/"
+  },
   "180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611": {
     "title": "180.爱丽丝梦游仙境：世界多荒诞，我也是自己的主宰（下）",
     "url": "/wiki/sources/180-ailisi-mengyou-xianjing-shijie-duo-huangdan-wo-yeshi-ziji-de-zhuzai-xia-975539611/"
@@ -8151,6 +8155,10 @@
     "title": "Emotional Contagion / 情绪感染",
     "url": "/wiki/concepts/emotionalcontagion/"
   },
+  "EmotionalEnergyExtraction": {
+    "title": "Emotional Energy Extraction / 情绪能量掠夺",
+    "url": "/wiki/concepts/emotionalenergyextraction/"
+  },
   "EmotionalInteractionModels": {
     "title": "Emotional Interaction Models",
     "url": "/wiki/concepts/emotionalinteractionmodels/"
@@ -10563,6 +10571,10 @@
     "title": "Guillaume Cabane",
     "url": "/wiki/entities/guillaumecabane/"
   },
+  "GuiltBasedRelationalControl": {
+    "title": "Guilt-Based Relational Control / 内疚式关系控制",
+    "url": "/wiki/concepts/guiltbasedrelationalcontrol/"
+  },
   "Guizhou": {
     "title": "Guizhou",
     "url": "/wiki/entities/guizhou/"
@@ -12878,6 +12890,10 @@
   "JinYongPoliticalReading": {
     "title": "Jin Yong Political Reading",
     "url": "/wiki/concepts/jinyongpoliticalreading/"
+  },
+  "JingshenXixueguiBook": {
+    "title": "《精神吸血鬼》",
+    "url": "/wiki/entities/jingshenxixueguibook/"
   },
   "Jinjiang": {
     "title": "Jinjiang / 晋江",
@@ -19183,6 +19199,10 @@
     "title": "Pseudoscience Fraud Vulnerability",
     "url": "/wiki/concepts/pseudosciencefraudvulnerability/"
   },
+  "PsychicVampirePersonality": {
+    "title": "Psychic Vampire Personality / 精神吸血鬼人格",
+    "url": "/wiki/concepts/psychicvampirepersonality/"
+  },
   "PsychoChihuahua": {
     "title": "Psycho Chihuahua",
     "url": "/wiki/entities/psychochihuahua/"
@@ -19883,6 +19903,10 @@
     "title": "Reid Hoffman",
     "url": "/wiki/entities/reidhoffman/"
   },
+  "RelationalIsolationControl": {
+    "title": "Relational Isolation Control / 关系孤立控制",
+    "url": "/wiki/concepts/relationalisolationcontrol/"
+  },
   "RelationshipLedGrowth": {
     "title": "Relationship-Led Growth",
     "url": "/wiki/concepts/relationshipledgrowth/"
@@ -19934,6 +19958,10 @@
   "ReneKennedy": {
     "title": "Rene Kennedy",
     "url": "/wiki/entities/renekennedy/"
+  },
+  "ReneSpitz": {
+    "title": "Rene Spitz / 史匹茨",
+    "url": "/wiki/entities/renespitz/"
   },
   "RenqingOrder": {
     "title": "Renqing Order",
@@ -21094,6 +21122,10 @@
   "SelfFeelingTrust": {
     "title": "相信自己的感受 / Self-Feeling Trust",
     "url": "/wiki/concepts/selffeelingtrust/"
+  },
+  "SelfGeneratedEmotionalCapacity": {
+    "title": "Self-Generated Emotional Capacity / 造血能力",
+    "url": "/wiki/concepts/selfgeneratedemotionalcapacity/"
   },
   "SelfRecognitionHorror": {
     "title": "Self-Recognition Horror",

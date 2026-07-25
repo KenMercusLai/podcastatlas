@@ -2,7 +2,7 @@
 title: "Communication Boundary Setting"
 type: concept
 tags: [communication, workplace, social, boundaries, trauma]
-sources: [132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645, 137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu]
+sources: [18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318, 116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021, 106-bie-zai-haipa-chongtu-kuai-lai-xuexi-tanpan-shu-742539645, 137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951, xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu]
 last_updated: 2026-07-24
 ---
 
@@ -13,6 +13,8 @@ last_updated: 2026-07-24
 Communication boundary setting is the practice of choosing what to say, decline, defer, or leave unsaid based on relationship, setting, and likely interpretation. In [[ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu]], [[Maidisen]] connects the idea to several failures: comforting someone with the wrong frame, accepting a coworker's daily carpool because refusal felt awkward, and making a public pregnancy-related offer that colleagues could misread.
 
 [[181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261]] adds a trauma boundary case. When [[FawnResponse|fawning]] is active, boundary trouble is not just etiquette or timing; the person may experience refusal as danger, abandonment, or proof of selfishness. This is why the episode frames boundary recovery as [[UnfawningBoundaryPractice]] rather than a simple script.
+
+[[18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000]] adds an extractive-relationship boundary case. When immediate exit is impossible, the source recommends low-explanation repeated refusals, written clarification of work tasks, deadlines, and standards, and calm exposure of facts to outside witnesses rather than emotionally feeding the conflict.
 
 [[xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770]] adds a public-expression boundary. [[QinZong|秦总]], [[LiWuya|李乌鸦]], and [[ChaoGe|超哥]] distinguish having bottom lines from being forced to speak on every event, and they frame some online invitations to "聊一聊" as position-demanding rather than conversation-seeking.
 
@@ -32,6 +34,7 @@ Communication boundary setting is the practice of choosing what to say, decline,
 - Care relationships need boundaries too; recognizing the cared-for person's subjectivity does not require helpers to suppress their own limits.
 - Negotiation turns a boundary into a structured exchange when the person can name interests, alternatives, and acceptable terms without escalating the conflict.
 - Dissent turns a boundary into a social act: the speaker must decide how much to challenge, when to speak, and how to keep the other person human without hiding the issue.
+- In extractive relationships, a short repeated boundary can work better than extended persuasion because long emotional debate may become more [[EmotionalEnergyExtraction|fuel]] for the pattern.
 
 ## Connections
 - [[SocialSignalInterpretation]] — boundaries depend partly on understanding what situation one is in.
@@ -39,6 +42,7 @@ Communication boundary setting is the practice of choosing what to say, decline,
 - [[WorkplaceHiddenRules]] — office etiquette often encodes implicit boundaries around messages, social media, favors, and hierarchy.
 - [[UpwardManagement]] — a more formal workplace version where communication boundaries preserve decision authority and clarity.
 - [[UnfawningBoundaryPractice]], [[FawnResponse]], and [[TraumaticAttachment]] — trauma-boundary extension from episode 181.
+- [[PsychicVampirePersonality]], [[EmotionalEnergyExtraction]], and [[RelationalIsolationControl]] - episode 18's extractive-relationship boundary extension.
 - [[InternetMoralTrial]], [[RecognitionAsHumiliation]], and [[LiveHumanFeeling]] - public-expression extension from the Zhao Lusi/Takuboku source.
 - [[SubjectLedCare]], [[VolunteerCareReciprocity]], and [[DisabilityIndependentLiving]] - care-request boundary extension from the disability independent-living episode.
 - [[NegotiationAsBargaining]], [[BATNA]], [[InterestBasedNegotiation]], and [[ConcessionSignaling]] - negotiation boundary extension from episode 106.

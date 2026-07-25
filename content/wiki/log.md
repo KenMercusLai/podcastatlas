@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-25] ingest | 18.如何识别、逃离并避免成为《精神吸血鬼》
+
+Added source page for a 蜜獾吃书 episode using 《精神吸血鬼》 to discuss psychic-vampire relationships, attention and emotional-energy extraction, self-blame, guilt-based control, relational isolation, workplace/family manipulation, refusal/documentation tactics, and self-generated emotional capacity. Created pages for 《精神吸血鬼》, Rene Spitz, Psychic Vampire Personality, Emotional Energy Extraction, Guilt-Based Relational Control, Relational Isolation Control, and Self-Generated Emotional Capacity; updated overview, index, 蜜獾吃书, Fawn Response, Traumatic Attachment, Complex Trauma Recognition, Communication Boundary Setting, Protection As Control, and Action Against Anxiety. No direct contradiction found; the source complements fawning and traumatic-attachment pages while warning against turning "psychic vampire" into a universal insult.
+
 ## [2026-07-25] ingest | 开天窗：摸鱼+感谢+吹大理
 
 Added source page for a 蜜獾吃书 short update on cross-province moving, listener thanks, pronunciation feedback, responses to the previous grief episode, Dali air/stars/Erhai moonrise, and source-scoped future leads around Angela Carter, 《荒野上的大师》, 《武士威廉》, 《仁王》, 《土里不吐气》, and 新移民文学. Created pages for Angela Carter, 张全, 《荒野上的大师》, 《武士威廉》, 《仁王》, 《土里不吐气》, and New Migrant Literature; updated overview, index, 蜜獾吃书, 秦总, 北明/北民, Dali, Restorative Creative Pacing, Reading List Pointer Episode, Podcast Release Cadence, Nature Contact And Self-Perception, and Reading As Life Experience. No direct contradiction found; all previewed books and authors are kept as program leads rather than full source claims.
@@ -5115,6 +5119,10 @@ Added source page for a 蜜獾吃书 episode using 史景迁《雍正王朝之�
 ## [2026-07-25] ingest | 12.慢：当米兰·昆德拉一句正经没有
 
 Added source page for a 蜜獾吃书 episode on 米兰·昆德拉《慢》 as a farcical French-language novel about speed, public moral performance, sexual and intellectual self-staging, Czech memory, anti-kitsch body comedy, privacy, and exile. Created pages for Milan Kundera, 《慢》, 《玩笑》, 《不可承受的生命之轻》, Czech Republic, Prague, Prague Spring, Velvet Revolution, Vera Kundera, Slowness As Modernity Critique, Public Moral Performance, Kitsch As Waste Denial, Anti-Lyricism, Memory Self-Mythologizing, Privacy Under Public Gaze, Author As Political Symbol, and Political Condition As Human Experiment; updated overview, index, 蜜獾吃书, Classic Reading Complexity, Author Myth Deflation, and Artistic Achievement Moral Accountability. No direct contradiction found; the source keeps the informing controversy explicitly contested while extending the wiki's reading branch from political-literary labels into human performance, body, media, memory, and privacy.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-25] lint | Wiki health check
 

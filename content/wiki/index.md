@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [18.如何识别、逃离并避免成为《精神吸血鬼》](sources/18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000.md) — 蜜獾吃书 episode using 《精神吸血鬼》 to discuss attention and emotional-energy extraction, self-blame, guilt control, relational isolation, workplace/family manipulation, and rebuilding one's own emotional capacity.
 - [开天窗：摸鱼+感谢+吹大理](sources/kaitianchuang-moyu-ganxie-chui-dali-553650149.md) — 蜜獾吃书 short update on cross-province moving, listener thanks, Dali air/stars/moonrise, and future leads around Angela Carter, 《荒野上的大师》, 《武士威廉》, 《土里不吐气》, and 新移民文学.
 - [13.悲伤的力量：谈谈丧亲之痛](sources/13-beishang-de-liliang-tantan-sangqin-zhitong-551507792.md) — 蜜獾吃书 episode using Julia Samuel's 《悲伤的力量》 to discuss bereavement, childhood death communication, grief companionship, professional counseling, trauma narrative integration, and QinZong's childhood mother-loss experience.
 - [12.慢：当米兰·昆德拉一句正经没有](sources/12-man-dang-milan-kundela-yi-ju-zhengjing-meiyou-549335675.md) — 蜜獾吃书 episode using 米兰·昆德拉《慢》 to read speed, public moral performance, anti-kitsch body comedy, Czech exile, privacy, memory self-mythologizing, and the risk of reducing Kundera to a political writer.
@@ -642,6 +643,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《精神吸血鬼》](entities/JingshenXixueguiBook.md) — French-psychiatry book frame used by 蜜獾吃书 to discuss psychic-vampire relationships and exit strategies.
+- [Rene Spitz / 史匹茨](entities/ReneSpitz.md) — child-development reference cited by episode 18 on the importance of emotional nourishment and bodily contact.
 - [Angela Carter / 安吉拉·卡特](entities/AngelaCarter.md) — author stored as a source-scoped future topic preview from a 蜜獾吃书 moving-status episode.
 - [张全](entities/ZhangQuan.md) — author linked to the previewed book 《荒野上的大师》 and a possible future 蜜獾吃书 guest/live branch.
 - [《荒野上的大师》](entities/HuangyeShangDeDashi.md) — source-scoped reading preview associated with 张全.
@@ -4326,6 +4329,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Psychic Vampire Personality / 精神吸血鬼人格](concepts/PsychicVampirePersonality.md) — Relationship pattern where one person repeatedly drains attention, reassurance, labor, guilt, and self-trust from others.
+- [Emotional Energy Extraction / 情绪能量掠夺](concepts/EmotionalEnergyExtraction.md) — Nonliteral attention-and-emotion resource drain described by the 精神吸血鬼 episode.
+- [Guilt-Based Relational Control / 内疚式关系控制](concepts/GuiltBasedRelationalControl.md) — Use of gratitude, family duty, sacrifice, or weakness to override another person's boundaries.
+- [Relational Isolation Control / 关系孤立控制](concepts/RelationalIsolationControl.md) — Manipulative weakening of a victim's outside witnesses, social links, and reality checks.
+- [Self-Generated Emotional Capacity / 造血能力](concepts/SelfGeneratedEmotionalCapacity.md) — Practice of building non-extractive emotional nourishment through appreciation, responsibility, and contribution.
 - [New Migrant Literature / 新移民文学](concepts/NewMigrantLiterature.md) — provisional reading direction around city-to-rural movement, farming practice, and new life rhythms after the hosts' Dali move.
 - [Bereavement Grief Work / 丧亲悲伤工作](concepts/BereavementGriefWork.md) — Process of carrying a loved one's death through truth, language, ritual, support, and professional care rather than denial or forced recovery.
 - [Child Death Education / 儿童死亡教育](concepts/ChildDeathEducation.md) — Episode 13 stance that children should receive clear, age-appropriate truth about death and be supported through mourning rituals.

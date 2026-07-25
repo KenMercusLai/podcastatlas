@@ -2,8 +2,8 @@
 title: "Protection As Control"
 type: concept
 tags: [gender, power, freedom, social-control]
-sources: [40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
-last_updated: 2026-07-15
+sources: [18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000, 40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 156-yige-afuhan-nvren-de-laixin-zhishang-de-guang-he-chuban-beihou-de-gushi-922362198, 175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]
+last_updated: 2026-07-25
 ---
 
 # Protection As Control
@@ -16,6 +16,8 @@ The source's central image is "笼子里的金丝雀": food and water can be off
 
 [[175-nvxing-weisheng-yongpin-de-shehuishi-bi-xiangxiang-zhong-geng-jingcai-969467044]] adds a bodily-taboo version through [[MenstrualStigma]] and [[GenderedMedicalization]]. Menstrual huts, pollution myths, family concealment, and excessive "经期调养" restrictions show how care, purity, and health language can limit movement, work, bathing, travel, reading, and public speech.
 
+[[18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000]] adds an intimate-relationship version. In the Xiaomei case, a husband frames restriction and monitoring as concern or protection, turning care language into soft confinement and making the victim doubt whether resistance is unreasonable.
+
 ## Key Claims
 - Protection language can hide the fact that the protected person loses decision-making power.
 - Control becomes stronger when it is attached to family honor, religious authority, public danger, or social reputation.
@@ -23,6 +25,7 @@ The source's central image is "笼子里的金丝雀": food and water can be off
 - Naming the pattern helps avoid mistaking survival accommodations for consent.
 - Satire can expose the pattern by making protective regulation look absurdly technical and geometric.
 - Bodily protection language becomes controlling when it blocks ordinary participation instead of expanding safe choices.
+- In intimate relationships, "I am protecting you" can hide possession when it narrows outside contact, information, work, or ordinary movement.
 
 ## Connections
 - [[Afghanistan]] - source setting.
@@ -32,3 +35,4 @@ The source's central image is "笼子里的金丝雀": food and water can be off
 - [[FemaleSelfPossession]] - agency concept that the source qualifies under coercive conditions.
 - [[Flatland|《平面国》 / Flatland]], [[GeometricSocialHierarchy]], and [[AuthorCharacterSeparation]] - episode 40's literary extension.
 - [[MenstrualStigma]], [[GenderedMedicalization]], and [[MenstrualPublicInfrastructure]] - episode 175's bodily and public-access extension.
+- [[PsychicVampirePersonality]], [[RelationalIsolationControl]], and [[CommunicationBoundarySetting]] - episode 18's intimate-control extension.

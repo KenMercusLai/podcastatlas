@@ -2,8 +2,8 @@
 title: "Traumatic Attachment"
 type: concept
 tags: [relationships, trauma, psychology, abuse]
-sources: [181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286]
-last_updated: 2026-07-15
+sources: [18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286]
+last_updated: 2026-07-25
 ---
 
 # Traumatic Attachment
@@ -14,6 +14,8 @@ The episode explicitly connects this pattern to [[IntermittentReinforcement]]. L
 
 [[151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286]] extends this into family-origin cases from [[GoodMorningMonster|《早安，怪物》 / Good Morning, Monster]]. Laura keeps rescuing men who resemble her father, Danny has to untangle gentleness from abuse by a priest, and Madeline keeps hoping a destructive mother or weak father might finally become safe.
 
+[[18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000]] adds the [[PsychicVampirePersonality|psychic-vampire]] side of the pattern. The source describes charming beginnings, emotional volatility, isolation from friends, and dependent partners who may threaten self-harm when the victim tries to leave. Its strongest warning is that the harmed person cannot rescue the extractor by staying available.
+
 ## Key Claims
 - Traumatic attachment is not evidence that the relationship is nourishing; it can be a nervous-system bond formed by fear and occasional relief.
 - Abusers or controlling partners may weaponize therapy language, crisis, and accusation to pull the other person back into caretaking.
@@ -22,6 +24,7 @@ The episode explicitly connects this pattern to [[IntermittentReinforcement]]. L
 - The source distinguishes love from fawning: love can involve effort, but it should not keep a person in chronic fear and self-erasure.
 - A harmful caregiver can become harder to see clearly when they are also the only available attachment figure.
 - Therapy may need to separate love hunger, shame, obligation, and realistic care before the person can choose differently.
+- Leaving an extractive bond can feel like cruelty when the other person performs collapse, but the source treats that guilt as part of the control risk rather than proof of responsibility.
 
 ## Connections
 - [[FawnResponse]] - the appeasement response active in the relationship.
@@ -29,3 +32,4 @@ The episode explicitly connects this pattern to [[IntermittentReinforcement]]. L
 - [[ComplexTraumaRecognition]] - family background that makes the later bond intelligible.
 - [[Parentification]], [[ShameBasedSelfConcept]], and [[TraumaNumbing]] - episode 151's family-origin mechanisms.
 - [[CommunicationBoundarySetting]] and [[UnfawningBoundaryPractice]] - boundary concepts extended by the Xiaoxi case.
+- [[PsychicVampirePersonality]], [[RelationalIsolationControl]], and [[GuiltBasedRelationalControl]] - episode 18's extraction, isolation, and guilt-control extension.
