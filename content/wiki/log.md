@@ -4912,6 +4912,10 @@ Added source page for a Marketplace Tech episode with Paul Vixie on dot-com fibe
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-25] ingest | 13.悲伤的力量：谈谈丧亲之痛
+
+Added source page for a 蜜獾吃书 episode using Julia Samuel's 《悲伤的力量》 to discuss bereavement, childhood death communication, grief companionship, professional counseling, and trauma narrative integration. Created pages for 《悲伤的力量》 / Grief Works, Julia Samuel, Bereavement Grief Work, Child Death Education, Grief Companion Support, and Trauma Narrative Integration; updated overview, index, 蜜獾吃书, 秦总, 北明 / 北民, Complex Trauma Recognition, and Therapy Relationship And Boundaries. No direct contradiction found; the source extends the wiki's death-facing and trauma branches by showing how truth, ritual, steady presence, and professional containment help mourners carry loss without hiding it or forcing quick recovery.
+
 ## [2026-07-25] ingest | 09.阿特拉斯耸耸肩：安兰德只是爽文作家吗？
 
 Added source page for a 蜜獾吃书 episode on Ayn Rand, 《源泉》, and 《阿特拉斯耸耸肩》 as mythic rather than realist fiction. Created pages for The Fountainhead, Atlas Shrugged, Creator-Parasite Moral Frame, Entrepreneur Strike Myth, and Anti-Altruism as Moral-Coercion Critique; updated overview, index, 蜜獾吃书, Ayn Rand, Objectivism, Ideological Totalization Risk, Pure Rationality Trap, Classic Reading Complexity, Non-Instrumental Literary Reading, and Author-Character Separation. No direct contradiction found; the source extends the existing Rand branch by explaining why Rand's fiction can feel liberating while still warning that creator/parasite clarity, anti-altruist ethics, and entrepreneur-strike imagery become dangerous when turned into total social diagnostics.
@@ -5107,6 +5111,10 @@ Added source page for a 蜜獾吃书 episode using 史景迁《雍正王朝之�
 ## [2026-07-25] ingest | 12.慢：当米兰·昆德拉一句正经没有
 
 Added source page for a 蜜獾吃书 episode on 米兰·昆德拉《慢》 as a farcical French-language novel about speed, public moral performance, sexual and intellectual self-staging, Czech memory, anti-kitsch body comedy, privacy, and exile. Created pages for Milan Kundera, 《慢》, 《玩笑》, 《不可承受的生命之轻》, Czech Republic, Prague, Prague Spring, Velvet Revolution, Vera Kundera, Slowness As Modernity Critique, Public Moral Performance, Kitsch As Waste Denial, Anti-Lyricism, Memory Self-Mythologizing, Privacy Under Public Gaze, Author As Political Symbol, and Political Condition As Human Experiment; updated overview, index, 蜜獾吃书, Classic Reading Complexity, Author Myth Deflation, and Artistic Achievement Moral Accountability. No direct contradiction found; the source keeps the informing controversy explicitly contested while extending the wiki's reading branch from political-literary labels into human performance, body, media, memory, and privacy.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-25] lint | Wiki health check
 

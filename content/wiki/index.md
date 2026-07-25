@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [13.悲伤的力量：谈谈丧亲之痛](sources/13-beishang-de-liliang-tantan-sangqin-zhitong-551507792.md) — 蜜獾吃书 episode using Julia Samuel's 《悲伤的力量》 to discuss bereavement, childhood death communication, grief companionship, professional counseling, trauma narrative integration, and QinZong's childhood mother-loss experience.
 - [12.慢：当米兰·昆德拉一句正经没有](sources/12-man-dang-milan-kundela-yi-ju-zhengjing-meiyou-549335675.md) — 蜜獾吃书 episode using 米兰·昆德拉《慢》 to read speed, public moral performance, anti-kitsch body comedy, Czech exile, privacy, memory self-mythologizing, and the risk of reducing Kundera to a political writer.
 - [11.雍正王朝之大义觉迷：史景迁笔下的千古奇案](sources/11-yongzheng-wangchao-zhi-dayi-juemi-shijingqian-bi-xia-de-qiangu-qi-an-547265513.md) — 蜜獾吃书 episode using 史景迁《雍正王朝之大义觉迷》 to narrate the 曾静案, 张熙投书, 岳钟琪密折, 吕留良文字狱, 《大义觉迷录》, 雍正公开辩驳, and乾隆 suppression.
 - [10.王尔德奇异故事集：用最会撒谎的嘴唇亲吻天使](sources/10-wang-erde-qiyi-gushiji-yong-zui-hui-sahuang-de-zuichun-qinwen-tianshi-545332195.md) — 蜜獾吃书 episode with translator 菲比 on Oscar Wilde, 《王尔德奇异故事集》, 《自深深处》, Lord Alfred Douglas, life imitating art, art against moral instruction, black comedy, forged evidence, and stories including 《阿瑟·萨维尔勋爵的罪行》, 《W.H.先生的画像》, and 《坎特维尔的幽灵》.
@@ -640,6 +641,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [《悲伤的力量》 / Grief Works](entities/BeishangDeLiliang.md) — Julia Samuel bereavement-counseling book used by episode 13 to discuss grief work, child death education, companionship, rituals, and traumatic grief.
+- [Julia Samuel / 朱利亚·萨米尔](entities/JuliaSamuel.md) — Psychotherapist-author whose bereavement cases ground the episode's grief counseling, child truth-telling, and trauma narrative integration frames.
 - [Milan Kundera / 米兰·昆德拉](entities/MilanKundera.md) — Writer read through 《慢》 as comic, anti-kitsch, privacy-obsessed, politically marked, and resistant to being reduced to a political symbol.
 - [《慢》 / Slowness](entities/SlowKundera.md) — Kundera's French-language novel read by 蜜獾吃书 as a castle-hotel farce about speed, public morality, desire, body, and performance.
 - [《玩笑》 / The Joke](entities/TheJokeKundera.md) — Earlier Kundera work used by the source as part of the more visibly political Czech-language frame that 《慢》 complicates.
@@ -4316,6 +4319,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Bereavement Grief Work / 丧亲悲伤工作](concepts/BereavementGriefWork.md) — Process of carrying a loved one's death through truth, language, ritual, support, and professional care rather than denial or forced recovery.
+- [Child Death Education / 儿童死亡教育](concepts/ChildDeathEducation.md) — Episode 13 stance that children should receive clear, age-appropriate truth about death and be supported through mourning rituals.
+- [Grief Companion Support / 丧亲陪伴支持](concepts/GriefCompanionSupport.md) — Practical support stance centered on steady presence, listening, ordinary continuity, and handoff to professional help when grief becomes dangerous.
+- [Trauma Narrative Integration / 创伤叙事整合](concepts/TraumaNarrativeIntegration.md) — Clinical grief process of slowly joining facts, feelings, bodily alarm, and memory fragments into a tolerable story.
 - [Slowness As Modernity Critique / 作为现代性批判的慢](concepts/SlownessAsModernityCritique.md) — Kundera reading frame where slowness restores body, fatigue, memory, touch, and experience against machine speed and image.
 - [Public Moral Performance / 公共道德表演](concepts/PublicMoralPerformance.md) — Pattern where public goodness becomes a media stage mixing compassion, reputation, rivalry, attention, and concrete ignorance.
 - [Kitsch As Waste Denial / 媚俗作为排泄否认](concepts/KitschAsWasteDenial.md) — Kundera aesthetic frame where kitsch denies dirt, excrement, shame, and bodily awkwardness in favor of clean sentiment.

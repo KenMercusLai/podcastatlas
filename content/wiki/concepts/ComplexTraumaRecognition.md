@@ -2,8 +2,8 @@
 title: "Complex Trauma Recognition"
 type: concept
 tags: [psychology, trauma, family, mental-health]
-sources: [143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286]
-last_updated: 2026-07-24
+sources: [13-beishang-de-liliang-tantan-sangqin-zhitong-551507792, 143-yiwang-de-naoli-jixing-buhao-ke-zha-zheng-a-869667634, 181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261, 151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286]
+last_updated: 2026-07-25
 ---
 
 # Complex Trauma Recognition
@@ -11,6 +11,8 @@ last_updated: 2026-07-24
 Complex trauma recognition is the practice of seeing long-term, repeated, relational harm as real trauma even when it lacks a single spectacular event. [[181-taohao-bingfei-nide-xingge-jianchi-zheme-jiu-xinku-le-979027261]] builds this concept through [[IngridClayton]]'s childhood, Anthony's apparently loving family, and [[QinZong|秦总]]'s own memories of performing maturity and strength inside family insecurity.
 
 The episode is careful about shame. People who fawn may reject the word "trauma" because their family looked respectable, because others had it worse, or because admitting injury would threaten the story that they were always strong, correct, and responsible. The source argues that this denial can itself be part of the wound.
+
+[[13-beishang-de-liliang-tantan-sangqin-zhitong-551507792]] adds a bereavement-and-secrecy version through [[QinZong|秦总]]'s childhood loss of her mother. The source does not treat death itself as avoidable harm, but it does treat family concealment, forced pretending, and a child's blocked mourning as injuries that can later shape anxiety, insecurity, pleasing habits, and anger around fairness.
 
 [[151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286]] broadens the concept through [[GoodMorningMonster|《早安，怪物》 / Good Morning, Monster]]. Laura's [[Parentification|parentification]], Danny's [[IndigenousResidentialSchoolTrauma|residential-school trauma]], and Madeline's [[ShameBasedSelfConcept|shame-based self-concept]] all show that trauma can hide behind high work capacity, politeness, numbness, wealth, or competence.
 
@@ -25,6 +27,7 @@ The episode is careful about shame. People who fawn may reject the word "trauma"
 - Institutional and cultural violence can become part of complex trauma when family separation, language punishment, sexual abuse, or identity shame are repeated over time.
 - Clinical recognition needs pacing: insight that arrives faster than the person's defenses can integrate may destabilize rather than heal.
 - Ordinary painful-memory rehearsal can reinforce distress, but complex trauma still needs paced recognition rather than simple distraction.
+- Childhood bereavement can become complex relational injury when adults hide the death, demand pretending, or block the child's right to mourn.
 
 ## Connections
 - [[FawnResponse]] and [[FourFTraumaResponse]] - trauma responses made understandable by this recognition.
@@ -35,3 +38,4 @@ The episode is careful about shame. People who fawn may reject the word "trauma"
 - [[AchievementPressureMentalHealth]] and [[RedPenLogic]] - high-performing distress and internalized scoring branches.
 - [[UnfawningBoundaryPractice]] - recovery frame that begins with seeing the wound.
 - [[PainfulMemoryRehearsalRisk]] and [[ForgettingAsCognitiveFunction]] - episode 143's memory-hygiene extension.
+- [[ChildDeathEducation]], [[BereavementGriefWork]], and [[TraumaNarrativeIntegration]] - bereavement branch added by episode 13.
