@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [What AI fitness apps can and can't do - for now](sources/tech-20260204-0204-mp-tech-pod-128-tech-20260204-0204-mp-tech-pod-128.md) — Marketplace Tech episode with Nicole Nguyen on Apple Workout Buddy, Fitbit's AI health coach, Peloton's camera-based form correction, AI fitness cost, hallucinations, accountability, and nutrition-tracking next steps.
 - [How we got free agents in baseball](sources/how-we-got-free-agents-in-baseball.md) — Planet Money episode on Curt Flood, MLB's reserve clause, baseball's antitrust exemption, labor monopsony, public-opinion litigation, arbitration, and the rise of free agency.
 - [How to make a BOOK into a bestseller](sources/how-to-make-a-book-into-a-bestseller.md) — Planet Money episode on its book launch, New York Times bestseller-list opacity, pre-order concentration, bulk-sales gaming, and bestseller status as a demand engine.
 - [Spirit Airlines and the future of cheap flights](sources/spirit-airlines-and-the-future-of-cheap-flights.md) — Planet Money episode on Spirit Airlines' ultra-low-cost model, unbundled fares, stated versus revealed preferences, legacy-carrier basic economy, loyalty-program moats, cost pressure, and bailout politics.
@@ -611,6 +612,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Nicole Nguyen](entities/NicoleNguyen.md) — Wall Street Journal personal technology columnist whose AI fitness testing anchors the Marketplace Tech episode.
+- [Peloton](entities/Peloton.md) — Connected-fitness company used as the premium camera-based form-correction case in the AI fitness episode.
+- [Apple Workout Buddy](entities/AppleWorkoutBuddy.md) — Apple's no-extra-fee but basic AI fitness feature compared with Fitbit and Peloton.
+- [Fitbit AI Health Coach](entities/FitbitAIHealthCoach.md) — Fitbit premium AI coach that personalizes workouts from health data while exposing hallucination risk.
 - [Curt Flood](entities/CurtFlood.md) — Baseball player whose challenge to MLB's reserve clause made player autonomy, labor monopsony, and free agency politically visible.
 - [Major League Baseball](entities/MajorLeagueBaseball.md) — Baseball league whose reserve-clause system, antitrust status, and free-agency transition anchor the episode's sports-labor history.
 - [Major League Baseball Players Association](entities/MajorLeagueBaseballPlayersAssociation.md) — Player-side union supporting Flood's case and later bargaining path toward baseball free agency.
@@ -4138,6 +4143,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Fitness Coaching](concepts/AIFitnessCoaching.md) — Consumer wellness pattern where AI plans, adapts, motivates, and sometimes observes workouts without fully replacing human coaching.
+- [Computer Vision Form Correction](concepts/ComputerVisionFormCorrection.md) — Camera-based AI feedback for exercise movement, shown through Peloton's strength-training form correction.
+- [AI Nutrition Tracking](concepts/AINutritionTracking.md) — AI-assisted meal, calorie, and macro logging that uses photos and inference to reduce manual entry.
+- [AI Fitness Accountability Gap](concepts/AIFitnessAccountabilityGap.md) — Limitation where flexible AI coaching improves planning and motivation but does not reliably enforce follow-through.
 - [Baseball Reserve Clause](concepts/BaseballReserveClause.md) — MLB contract mechanism that kept player rights under team control and created the Curt Flood labor dispute.
 - [Labor Monopsony](concepts/LaborMonopsony.md) — Buyer-side labor-market power where workers lack credible alternative employers or bids.
 - [No-Poaching Agreements](concepts/NoPoachingAgreements.md) — Employer coordination comparison used to explain how restricted hiring can suppress labor-market competition.

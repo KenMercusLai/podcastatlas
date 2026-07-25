@@ -3,7 +3,7 @@ title: "Apple"
 type: entity
 tags: [company, platform, ai, investing, mobile, app-store, media, governance]
 sources: [tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, tsr-s5-catchup2-v1-tsr-s5-catchup2-v1, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-ericm-v2-tsr-s4-ericm-v2, socialradarspod-davidlieb-final, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1, vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1, ep38-feng-man-lou-quanqiu-ziben-shichang-jufu-dongdang-xingfeng-xueyu-shike-jin-zai-zhichi-lszskb0h-qqxsct4yaebegd-1ph9, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, ep102-duihua-una-quanqiu-toubu-siwei-daotu-app-store-yunying-fuzeren-qinshou-aso-shizhan-jingyan-lscdlnogyhiohre091lwi-ayshug, formula-1-1, opc-de-zhenzheng-nanti-shi-ai-hai-mei-xuehui-ti-ni-ba-dongxi-mai-chuqu-1, ba-ai-chuicheng-hewuqi-de-ren-qinshou-laxiale-xinlengzhan-tiemu-1, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, zhe-bannian-women-you-maile-naxie-keji-haowu-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0, wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-07-23
+last_updated: 2026-07-25
 ---
 
 # Apple
@@ -21,6 +21,8 @@ last_updated: 2026-07-23
 Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650-1]] through the hosts' expectations for WWDC, iOS, [[Siri]], and possible [[Gemini]] integration. The episode frames Apple less as a model company and more as a platform company whose operating-system entry point could make agentic AI immediately consequential for small tools and productivity apps.
 
 [[tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]] adds a Marketplace Tech version of that partnership story. [[AnitaRamaswamy]] says Apple announced it would use [[Google]] [[Gemini]] for advanced AI features including the long-awaited new [[Siri]], making Apple a distribution layer for another company's model capability while [[AppleIntelligence]] continues to arrive gradually.
+
+[[tech-20260204-0204-mp-tech-pod-128-tech-20260204-0204-mp-tech-pod-128]] adds Apple through [[AppleWorkoutBuddy]], an AI fitness feature compared by [[NicoleNguyen]] with [[FitbitAIHealthCoach]] and [[Peloton]]. The [[MarketplaceTech]] source presents Workout Buddy as easy to access because it does not require an extra fee, but also as more basic than Fitbit's data-aware coaching or Peloton's camera-based form feedback.
 
 [[vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1]] adds an earlier and broader Apple platform frame. Recorded before WWDC 2026, the hosts use Apple news, [[Siri]] expectations, Apple Watch health features, hardware cadence, and [[AppStore]] review rules to ask whether Apple's traditional product and review tempo can absorb [[AgenticSoftware]] and dynamically generated apps.
 
@@ -71,6 +73,7 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 - The Formula One source treats Apple as a possible premium [[SportsMediaRights]] buyer whose interface and media capabilities could improve how live sports explain themselves.
 - The OPC source treats Apple as part of the platform layer that can benefit when AI increases app supply even if many individual apps do not find strong [[CustomerPull]].
 - The export-control source treats Apple as a region-fragmentation example: the same AI feature set may not be globally available because of policy, partner, or market constraints.
+- The Marketplace Tech AI fitness source treats Apple as the no-extra-fee, platform-bundled version of [[AIFitnessCoaching]], useful for reach but less differentiated than more data-aware or camera-aware products.
 - Vol. 167 treats Apple as a distribution and trust layer: health alerts, device form factor, subscription mechanics, and assistant integration can change behavior even when the model or service comes from another provider.
 - Vol. 162 treats Apple as an integration layer for [[Xcode]], [[Siri]], and possible voice/input devices, reinforcing that model capability matters only when it reaches daily workflows.
 - The tech-purchase episode treats Apple hardware as reusable local infrastructure for agent workflows, travel connectivity, and accessory continuity.
@@ -102,6 +105,7 @@ Apple appears in [[vol-166-xianliao-cong-gemini-dao-ai-de-jiasu-yu-hundun-1-6650
 - [[FormulaOne]], [[SportsMediaRights]], and [[SportsEntertainmentFlywheel]] — sports-media themes added by the Formula One source.
 - [[AppStore]], [[OnePersonCompany]], and [[SoftwarePaymentCulture]] — OPC source where platform economics remain stronger than many solo-builder monetization stories.
 - [[EuropeanUnion]], [[FrontierModelAccessRestrictions]], and [[SaaSReliabilityUnderPolicyRisk]] — regional AI availability frame added by the Keji Luandun export-control episode.
+- [[AppleWorkoutBuddy]], [[AIFitnessCoaching]], [[FitbitAIHealthCoach]], and [[Peloton]] - Marketplace Tech AI fitness comparison.
 - [[Gemini]], [[AppStore]], [[AISubscriptionEconomics]], and [[AIProductFragmentation]] — health, subscription, and platform-AI themes added by Vol. 167.
 - [[AgenticSoftware]], [[AppStore]], and [[OnDemandApps]] — Vol. 164 platform-review and generated-app themes.
 - [[Xcode]], [[ModelWorkflowFit]], [[Gemini]], and [[VoiceInteraction]] — IDE, assistant, and input-device themes added by Vol. 162.

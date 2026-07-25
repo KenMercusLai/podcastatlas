@@ -991,6 +991,14 @@
     "title": "AI-First Organization",
     "url": "/wiki/concepts/aifirstorganization/"
   },
+  "AIFitnessAccountabilityGap": {
+    "title": "AI Fitness Accountability Gap",
+    "url": "/wiki/concepts/aifitnessaccountabilitygap/"
+  },
+  "AIFitnessCoaching": {
+    "title": "AI Fitness Coaching",
+    "url": "/wiki/concepts/aifitnesscoaching/"
+  },
   "AIForMath": {
     "title": "AI For Math",
     "url": "/wiki/concepts/aiformath/"
@@ -1154,6 +1162,10 @@
   "AINativeWorkspace": {
     "title": "AI-Native Workspace",
     "url": "/wiki/concepts/ainativeworkspace/"
+  },
+  "AINutritionTracking": {
+    "title": "AI Nutrition Tracking",
+    "url": "/wiki/concepts/ainutritiontracking/"
   },
   "AIOperationsRole": {
     "title": "AI Operations Role",
@@ -2598,6 +2610,10 @@
   "AppleSupplyChainResponsibility": {
     "title": "Apple Supply Chain Responsibility",
     "url": "/wiki/concepts/applesupplychainresponsibility/"
+  },
+  "AppleWorkoutBuddy": {
+    "title": "Apple Workout Buddy",
+    "url": "/wiki/entities/appleworkoutbuddy/"
   },
   "AppliedAstrobiology": {
     "title": "Applied Astrobiology",
@@ -5494,6 +5510,10 @@
   "ComputerUseAgent": {
     "title": "Computer Use Agent",
     "url": "/wiki/concepts/computeruseagent/"
+  },
+  "ComputerVisionFormCorrection": {
+    "title": "Computer Vision Form Correction",
+    "url": "/wiki/concepts/computervisionformcorrection/"
   },
   "ComputingEnrollmentDecline": {
     "title": "Computing Enrollment Decline",
@@ -8686,6 +8706,10 @@
   "Fitbit": {
     "title": "Fitbit",
     "url": "/wiki/entities/fitbit/"
+  },
+  "FitbitAIHealthCoach": {
+    "title": "Fitbit AI Health Coach",
+    "url": "/wiki/entities/fitbitaihealthcoach/"
   },
   "FiveGRobotics": {
     "title": "5G Robotics",
@@ -16291,6 +16315,10 @@
     "title": "Nicolas Maduro",
     "url": "/wiki/entities/nicolasmaduro/"
   },
+  "NicoleNguyen": {
+    "title": "Nicole Nguyen",
+    "url": "/wiki/entities/nicolenguyen/"
+  },
   "NicoleTurnerLee": {
     "title": "Nicole Turner-Lee",
     "url": "/wiki/entities/nicoleturnerlee/"
@@ -17370,6 +17398,10 @@
   "PekingUniversity": {
     "title": "Peking University / 北京大学",
     "url": "/wiki/entities/pekinguniversity/"
+  },
+  "Peloton": {
+    "title": "Peloton",
+    "url": "/wiki/entities/peloton/"
   },
   "PenaltyShootoutPressure": {
     "title": "Penalty Shootout Pressure",
@@ -26550,6 +26582,10 @@
   "tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128": {
     "title": "Making AI work - for work",
     "url": "/wiki/sources/tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128/"
+  },
+  "tech-20260204-0204-mp-tech-pod-128-tech-20260204-0204-mp-tech-pod-128": {
+    "title": "What AI fitness apps can and can't do - for now",
+    "url": "/wiki/sources/tech-20260204-0204-mp-tech-pod-128-tech-20260204-0204-mp-tech-pod-128/"
   },
   "tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128": {
     "title": "Is social media addictive? And are social media companies liable?",
