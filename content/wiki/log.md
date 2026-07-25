@@ -4900,6 +4900,10 @@ Added source page for a Marketplace Tech episode with Paul Vixie on dot-com fibe
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-25] ingest | California buildings must limit "embodied carbon." Here's what that means
+
+Added source page for a Marketplace Tech episode on California's embodied-carbon building-code requirements for large non-residential construction, using Malibu High School as the material-review case. Created pages for Malibu High School, Vertical Group, BN Builders, Emily English, U.S. Green Building Council of California, Ben Stapleton, American Public Media, Embodied Carbon Building Code, Operational Carbon, Construction Carbon Compliance, and Low-Carbon Construction Materials; updated overview, index, Marketplace Tech, Stephanie Hughes, California, How We Survive, Amy Scott, Sustainable Construction Carbon Tradeoff, Economic Climate Tech Adoption, and Environmental Tradeoff Accounting. No direct contradiction found; the source qualifies existing construction-carbon material by shifting embodied carbon from post-wildfire tradeoff analysis into mandatory code compliance and market-demand signaling for sustainable materials.
+
 ## [2026-07-25] ingest | Bytes: Week in Review - Anthropic's new AI model, a referendum on data centers, and NASA livestreams journey to space
 
 Added source page for a Marketplace Tech Bytes episode with Joanna Stern on Anthropic's restricted Claude-Methos Preview rollout, Project Glasswing access for trusted organizations, Port Washington's data-center incentive referendum, and NASA's Artemis 2 livestreaming. Created pages for Claude-Methos Preview, Project Glasswing, Cisco, Port Washington, Data Center Incentive Referendum, Cybersecurity AI Supervision, and Space Mission Livestreaming; updated overview, index, Marketplace Tech, Stephanie Hughes, Joanna Stern, Anthropic, Claude, Project Glassfin, Frontier Model Release Governance, Frontier Model Access Restrictions, AI Cyber-Defense Utility, Data Center Backlash, Data Center Tax Incentives, Data Center Cost Shifting, AI Metabolic Infrastructure, NASA, and Artemis 2. No direct contradiction found; flagged a source-scoped naming tension between Project Glasswing and the existing Project Glassfin page, and treated Artemis 2 as a chronological update from planned mission to underway public-media event.
@@ -4979,3 +4983,7 @@ Ran lint after health passed. Health found no empty/stub files, index drift, or 
 ## [2026-07-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 6,888 wiki pages. Deterministic lint found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes while lint scanned 6,888 pages, so graph findings are advisory until `build graph` refreshes it; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` and provider API-key environment variables are not configured in this process. A bounded in-session semantic review of orphan pages, fragile-bridge endpoints, and affirmative contradiction markers found no direct contradictions or stale-summary defects. Report returned in-session; `wiki/lint-report.md` was not saved.

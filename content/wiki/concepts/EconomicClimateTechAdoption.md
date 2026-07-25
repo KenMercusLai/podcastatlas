@@ -2,7 +2,7 @@
 title: "Economic Climate Tech Adoption"
 type: concept
 tags: [climate, startup, market-adoption]
-sources: [tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]
+sources: [tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]
 last_updated: 2026-07-25
 ---
 
@@ -18,6 +18,8 @@ The source's portfolio examples make the point concrete. [[BlueDot]] connects EV
 
 [[tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128]] adds the ordinary-consumer vehicle version through [[ElectricVehiclePriceParity]]. The episode argues that U.S. EV adoption depends on lowering the upfront premium over gasoline vehicles, with [[LithiumIronPhosphateBatteries|LFP batteries]] and [[China]]'s integrated supply chain showing how battery-cost improvements can become mass-market affordability.
 
+[[tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128]] adds a regulation-driven construction version. [[California]]'s [[EmbodiedCarbonBuildingCode]] can make demand for [[LowCarbonConstructionMaterials]] visible enough for manufacturers to invest, even if individual builders mainly experience the rule as [[ConstructionCarbonCompliance]] documentation and review.
+
 ## Key Claims
 - Climate startups can grow faster when the buyer's self-interest and the climate benefit point in the same direction.
 - Adoption is not only a technology-cost curve; installation, reimbursement, financing, labor, and service trust can decide whether savings reach customers.
@@ -26,6 +28,7 @@ The source's portfolio examples make the point concrete. [[BlueDot]] connects EV
 - In mobile carbon capture, a saleable output can help adoption, but technical reliability and freight integration decide whether buyer demand can actually convert.
 - In direct air capture, corporate carbon-removal procurement can support early projects before costs are low enough for broad deployment.
 - In consumer vehicles, EV adoption can remain limited despite interest until the sticker-price gap narrows enough for ordinary car buyers.
+- In construction, code requirements can create adoption pressure by making supplier demand predictable before voluntary customer demand is mature.
 
 ## Connections
 - [[LeapForward]], [[DavidRusenko]], [[BlueDot]], and [[ElectricAir]] - source fund and portfolio cases.
@@ -34,3 +37,4 @@ The source's portfolio examples make the point concrete. [[BlueDot]] connects EV
 - [[HeirloomCarbonTechnologies|Heirloom Carbon Technologies]], [[DirectAirCapture]], [[CarbonRemoval]], [[CarbonRemovalCostCurve]], [[Microsoft]], [[Meta]], [[Shopify]], and [[UnitedAirlines|United Airlines]] - direct-air-capture procurement case added by Marketplace Tech.
 - [[ClimateAdaptation]], [[FireTechClimateResilience]], and [[ProductLedWillingnessToPay]] - adjacent climate and market-value concepts.
 - [[ElectricVehiclePriceParity]], [[LithiumIronPhosphateBatteries]], [[CoxAutomotive]], [[BloombergNEF]], and [[PwC]] - EV affordability branch added by Marketplace Tech.
+- [[EmbodiedCarbonBuildingCode]], [[LowCarbonConstructionMaterials]], [[ConstructionCarbonCompliance]], and [[USGreenBuildingCouncilOfCalifornia|U.S. Green Building Council of California]] - regulation-driven construction-materials adoption branch.

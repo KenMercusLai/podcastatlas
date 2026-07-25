@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [California buildings must limit "embodied carbon." Here's what that means](sources/tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128.md) — Marketplace Tech episode on California's embodied-carbon building-code requirements, Malibu High School's lower-carbon material review, compliance routes, and how mandates can create demand for sustainable construction materials.
 - [Bytes: Week in Review - AI companies divided over proposed state law, Amazon buys Globalstar, and Spotify to sell physical books](sources/tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128.md) — Marketplace Tech Bytes episode on Illinois AI liability shields, OpenAI/Anthropic policy divergence, Amazon's Globalstar acquisition, direct-to-device satellite connectivity, and Spotify's physical-book partnership with Bookshop.org.
 - [One way to avoid AI altogether? Retire early](sources/tech-20260416-0416-mp-tech-pod-128-tech-20260416-0416-mp-tech-pod-128.md) — Marketplace Tech episode with Lauren Weber on older workers retiring amid workplace AI adoption, institutional knowledge loss, training, trust, and late-career autonomy.
 - [Bytes: Week in Review - Anthropic's new AI model, a referendum on data centers, and NASA livestreams journey to space](sources/tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128.md) — Marketplace Tech Bytes episode with Joanna Stern on Anthropic's restricted Claude-Methos Preview rollout, Project Glasswing, Port Washington's data-center incentive referendum, and NASA's Artemis 2 livestreaming.
@@ -622,6 +623,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Malibu High School](entities/MalibuHighSchool.md) — California school project used by Marketplace Tech to make embodied-carbon material review concrete.
+- [Vertical Group](entities/VerticalGroup.md) — Sustainability consulting firm helping translate embodied-carbon requirements into construction-material review.
+- [BN Builders](entities/BNBuilders.md) — Contractor represented by Emily English in the Marketplace Tech episode on California embodied-carbon compliance.
+- [Emily English](entities/EmilyEnglish.md) — BN Builders voice arguing that clear embodied-carbon goals can be manageable for contractors.
+- [U.S. Green Building Council of California](entities/USGreenBuildingCouncilOfCalifornia.md) — Organization represented by Ben Stapleton in the episode's market-demand explanation for sustainable materials.
+- [Ben Stapleton](entities/BenStapleton.md) — CEO of the U.S. Green Building Council of California explaining how mandates can signal demand for lower-carbon materials.
+- [American Public Media](entities/AmericanPublicMedia.md) — Public-radio organization context for Marketplace Tech and the How We Survive climate-solutions promo.
 - [Illinois](entities/Illinois.md) — State-level AI policy setting for the Illinois AI liability bill and an earlier data-center incentive example.
 - [Bill Cunningham](entities/BillCunningham.md) — Illinois state senator quoted as saying final AI law is unlikely to include sweeping liability relief for AI developers.
 - [Globalstar](entities/Globalstar.md) — Satellite operator Amazon is described as buying to expand low-earth-orbit and direct-to-device connectivity capacity.
@@ -4184,6 +4192,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Embodied Carbon Building Code](concepts/EmbodiedCarbonBuildingCode.md) — Building-code approach that requires construction projects to account for emissions embodied in materials and construction.
+- [Operational Carbon](concepts/OperationalCarbon.md) — Building-emissions category from energy use during operation, contrasted with embodied construction emissions.
+- [Construction Carbon Compliance](concepts/ConstructionCarbonCompliance.md) — Practical documentation and review process for meeting embodied-carbon construction requirements.
+- [Low-Carbon Construction Materials](concepts/LowCarbonConstructionMaterials.md) — Materials and supply-chain options whose adoption can be accelerated by code-driven demand.
 - [Illinois AI Liability Bill](concepts/IllinoisAILiabilityBill.md) — Proposed Illinois bill limiting some large-model developer liability under conditions such as no intentional or reckless conduct and safety-protocol publication.
 - [State AI Liability Shield](concepts/StateAILiabilityShield.md) — State-level legal mechanism that narrows AI developer liability while raising accountability tradeoffs.
 - [Catastrophic AI Liability](concepts/CatastrophicAILiability.md) — Accountability problem for severe model-enabled harms such as critical-infrastructure cyberattacks or bioweapon creation.

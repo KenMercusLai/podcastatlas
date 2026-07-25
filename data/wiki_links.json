@@ -2267,6 +2267,10 @@
     "title": "American Protectionist Tradition",
     "url": "/wiki/concepts/americanprotectionisttradition/"
   },
+  "AmericanPublicMedia": {
+    "title": "American Public Media",
+    "url": "/wiki/entities/americanpublicmedia/"
+  },
   "AmericanSportsCapitalInEuropeanFootball": {
     "title": "American Sports Capital In European Football",
     "url": "/wiki/concepts/americansportscapitalineuropeanfootball/"
@@ -3083,6 +3087,10 @@
     "title": "BLACKPINK",
     "url": "/wiki/entities/blackpink/"
   },
+  "BNBuilders": {
+    "title": "BN Builders",
+    "url": "/wiki/entities/bnbuilders/"
+  },
   "BP": {
     "title": "BP",
     "url": "/wiki/entities/bp/"
@@ -3430,6 +3438,10 @@
   "BenSchifrin": {
     "title": "Ben Schifrin",
     "url": "/wiki/entities/benschifrin/"
+  },
+  "BenStapleton": {
+    "title": "Ben Stapleton",
+    "url": "/wiki/entities/benstapleton/"
   },
   "Benchling": {
     "title": "Benchling",
@@ -5699,6 +5711,10 @@
     "title": "Construction Blueprint Version Control",
     "url": "/wiki/concepts/constructionblueprintversioncontrol/"
   },
+  "ConstructionCarbonCompliance": {
+    "title": "Construction Carbon Compliance",
+    "url": "/wiki/concepts/constructioncarboncompliance/"
+  },
   "ConstructiveDissent": {
     "title": "Constructive Dissent / 建设性异议",
     "url": "/wiki/concepts/constructivedissent/"
@@ -7855,6 +7871,10 @@
     "title": "Embodied Aging",
     "url": "/wiki/concepts/embodiedaging/"
   },
+  "EmbodiedCarbonBuildingCode": {
+    "title": "Embodied Carbon Building Code",
+    "url": "/wiki/concepts/embodiedcarbonbuildingcode/"
+  },
   "EmbodiedDataPyramid": {
     "title": "Embodied Data Pyramid",
     "url": "/wiki/concepts/embodieddatapyramid/"
@@ -7874,6 +7894,10 @@
   "EmilyBordner": {
     "title": "Emily Bordner",
     "url": "/wiki/entities/emilybordner/"
+  },
+  "EmilyEnglish": {
+    "title": "Emily English",
+    "url": "/wiki/entities/emilyenglish/"
   },
   "EmilyFang": {
     "title": "Emily Fang",
@@ -14327,6 +14351,10 @@
     "title": "Low-Altitude Regulatory Risk",
     "url": "/wiki/concepts/lowaltituderegulatoryrisk/"
   },
+  "LowCarbonConstructionMaterials": {
+    "title": "Low-Carbon Construction Materials",
+    "url": "/wiki/concepts/lowcarbonconstructionmaterials/"
+  },
   "LowCostDroneWarfare": {
     "title": "Low-Cost Drone Warfare",
     "url": "/wiki/concepts/lowcostdronewarfare/"
@@ -14678,6 +14706,10 @@
   "MaleSurplusSecurityRisk": {
     "title": "Male Surplus Security Risk",
     "url": "/wiki/concepts/malesurplussecurityrisk/"
+  },
+  "MalibuHighSchool": {
+    "title": "Malibu High School",
+    "url": "/wiki/entities/malibuhighschool/"
   },
   "MallBasedRetailExpansion": {
     "title": "Mall Based Retail Expansion",
@@ -17050,6 +17082,10 @@
   "OpenWorldRobotManipulation": {
     "title": "Open-World Robot Manipulation",
     "url": "/wiki/concepts/openworldrobotmanipulation/"
+  },
+  "OperationalCarbon": {
+    "title": "Operational Carbon",
+    "url": "/wiki/concepts/operationalcarbon/"
   },
   "OperationalDataCapture": {
     "title": "Operational Data Capture",
@@ -23555,6 +23591,10 @@
     "title": "U.S. Federalism Veto Points",
     "url": "/wiki/concepts/usfederalismvetopoints/"
   },
+  "USGreenBuildingCouncilOfCalifornia": {
+    "title": "U.S. Green Building Council of California",
+    "url": "/wiki/entities/usgreenbuildingcouncilofcalifornia/"
+  },
   "USHealthInsuranceDenialPolitics": {
     "title": "U.S. Health Insurance Denial Politics",
     "url": "/wiki/concepts/ushealthinsurancedenialpolitics/"
@@ -23906,6 +23946,10 @@
   "VerticalEcommerceFailureModes": {
     "title": "Vertical Ecommerce Failure Modes",
     "url": "/wiki/concepts/verticalecommercefailuremodes/"
+  },
+  "VerticalGroup": {
+    "title": "Vertical Group",
+    "url": "/wiki/entities/verticalgroup/"
   },
   "VerticalMediaDistribution": {
     "title": "Vertical Media Distribution",
@@ -27010,6 +27054,10 @@
   "tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128": {
     "title": "Bytes: Week in Review - AI companies divided over proposed state law, Amazon buys Globalstar, and Spotify to sell physical books",
     "url": "/wiki/sources/tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128/"
+  },
+  "tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128": {
+    "title": "California buildings must limit \\\"embodied carbon.\\\" Here's what that means",
+    "url": "/wiki/sources/tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128/"
   },
   "tech-20260710-tech-pod-128-tech-20260710-tech-pod-128": {
     "title": "OpenAI's GPT-5.6 release raises questions about White House control over new models",
