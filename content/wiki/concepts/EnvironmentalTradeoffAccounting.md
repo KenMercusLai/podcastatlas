@@ -2,7 +2,7 @@
 title: "Environmental Tradeoff Accounting"
 type: concept
 tags: [ecology, agriculture, policy, externalities]
-sources: [tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, the-little-pet-fish-that-saved-a-town-in-the-amazon, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260, its-my-tree-why-cant-i-cut-it-down]
+sources: [tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, the-little-pet-fish-that-saved-a-town-in-the-amazon, 138-qie-ke-wo-zai-haitan-shang-jiandao-yiwei-q-laoshi-842331726, 120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218, 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059, 65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922, 62-kelakesen-de-nongchang-xiangbudao-ni-shi-zheyang-de-xiaoyang-xiaoen-652404260, its-my-tree-why-cant-i-cut-it-down]
 last_updated: 2026-07-24
 ---
 
@@ -26,6 +26,8 @@ The concept does not reject environmental protection. It asks for a wider bounda
 
 [[tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128]] adds a building-materials version through [[EmbodiedCarbonBuildingCode]]. The episode's accounting problem is whether construction review sees the emissions embedded in steel, concrete alternatives, paint, insulation, and other materials, rather than only the building's later [[OperationalCarbon]] from lighting or air conditioning.
 
+[[tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128]] adds a packaging-material version through [[BiodegradableFoamPackaging]]. The tradeoff is not "plastic bad, fungus good" in isolation: a mycelium cooler must reduce persistent polystyrene waste while still meeting [[SeafoodColdChainPackaging]] requirements for insulation, weight, durability, and cost.
+
 ## Key Claims
 - Environmental choices should be evaluated across the whole system, including farmers, imports, substitute products, other species, and long-run maintenance.
 - A local "green" decision can export damage to another country, habitat, or supply chain.
@@ -40,6 +42,7 @@ The concept does not reject environmental protection. It asks for a wider bounda
 - Pollution accounting should include bodily harm to wildlife, especially when the harmed beings cannot negotiate, complain, or shift the cost back.
 - Wild-harvest accounting should ask whether stopping or losing a trade removes the local income that made habitat protection practical.
 - Building-material accounting should include emissions embedded before occupancy, not only the operating energy used after a building opens.
+- Packaging-material accounting should compare waste reduction against the operating constraints that made the incumbent material useful.
 
 ## Connections
 - [[AgriculturalSystemsReality]] - farm-level operating context.
@@ -55,3 +58,4 @@ The concept does not reject environmental protection. It asks for a wider bounda
 - [[OilPollutionWildlifeHarm]], [[MagellanicPenguin|Magellanic penguin / 麦哲伦企鹅]], [[JuanSalvadorPenguin|Juan Salvador / 胡安·萨尔瓦多]], and [[WildAnimalRescueResponsibility]] - oil-pollution externality extension from episode 138.
 - [[Barcelos]], [[CardinalTetra]], [[SustainableWildHarvesting]], [[PiaberoEconomy]], and [[LocalProductAdvantageErosion]] - wild-harvest and farmed-competition extension from Planet Money.
 - [[EmbodiedCarbonBuildingCode]], [[OperationalCarbon]], [[ConstructionCarbonCompliance]], and [[LowCarbonConstructionMaterials]] - building-material carbon accounting branch from Marketplace Tech.
+- [[MyceliumInsulation]], [[BiodegradableFoamPackaging]], [[SeafoodColdChainPackaging]], and [[ColdChainCPGConstraint]] - polystyrene-substitution branch from Marketplace Tech.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Mushrooms could help curb plastic waste](sources/tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128.md) — Marketplace Tech episode on Alaska mycelium insulation boards as biodegradable polystyrene alternatives for seafood cold-chain packaging, with University of Alaska researchers and Wild Source testing.
 - [Ron Conway on the Weekend Silicon Valley Bank Collapsed](sources/tsr-s5-ronconway-v5-tsr-s5-ronconway-v5.md) — The Social Radars episode with Ron Conway on the March 2023 Silicon Valley Bank run, deposit guarantees, Treasury/FDIC/Congress coordination, moral hazard versus contagion, YC payroll data, and civic relationships as crisis infrastructure.
 - [Peter Reinhardt on Segment's Pivots and Charm Industrial's Carbon Removal](sources/peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted.md) — The Social Radars episode with Peter Reinhardt on ClassMetric, Segment's analytics.js pivot, sales and pricing lessons, Twilio acquisition logic, and Charm Industrial's bio-oil carbon removal and permitting bottleneck.
 - [Bytes: Week in Review - Apple's new CEO, Meta's latest AI play, and Roblox's safety updates](sources/tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128.md) — Marketplace Tech Bytes episode on Apple succession, Meta employee activity tracking for AI training, AI data scarcity, and Roblox child-safety settlements.
@@ -630,6 +631,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Anna Holligan](entities/AnnaHolligan.md) — BBC reporter whose field segment grounds the Marketplace Tech episode on mycelium insulation and biodegradable foam packaging.
+- [University of Alaska](entities/UniversityOfAlaska.md) — Research setting for mushroom-mycelium boards made from wood fiber, cardboard, or pulp as polystyrene alternatives.
+- [Filip Amtislavski](entities/FilipAmtislavski.md) — University of Alaska professor linking Fomes fomentarius and Arctic mushroom use to mycelium insulation research.
+- [Alexandra Ravello](entities/AlexandraRavello.md) — Researcher explaining the foaming, inoculation, and incubation process for mycelium insulation boards.
+- [Fomes fomentarius](entities/FomesFomentarius.md) — Arctic and subarctic fungus used in the Marketplace Tech source as a foam-like clue for mycelium insulation.
+- [Wild Source](entities/WildSource.md) — Seafood business testing a mycelium cooler in Alaska's fishing industry.
+- [Chris Sanito](entities/ChrisSanito.md) — Wild Source speaker making shipping-box weight and cost constraints visible for seafood cold-chain packaging.
+- [Kodiak Harbour](entities/KodiakHarbour.md) — Alaska fishing-industry test site for the mycelium cooler.
 - [Peter Reinhardt](entities/PeterReinhardt.md) — Segment and Charm Industrial founder whose episode links failed ClassMetric, analytics.js, enterprise sales learning, Twilio acquisition logic, and bio-oil carbon removal.
 - [Suyash Pasi](entities/SuyashPasi.md) — Human Rights Research Center analyst explaining tech leaders' Trump-era accommodation through AI deregulation, immigration tension, crypto, and defense technology.
 - [Human Rights Research Center](entities/HumanRightsResearchCenter.md) — Nonprofit affiliation for Suyash Pasi in the Marketplace Tech episode on technology leaders and White House politics.
@@ -4242,6 +4251,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Mycelium Insulation](concepts/MyceliumInsulation.md) — Fungus-bound board material presented as a possible lightweight, biodegradable alternative to polystyrene insulation and packaging foam.
+- [Biodegradable Foam Packaging](concepts/BiodegradableFoamPackaging.md) — Replacement-packaging problem where a lower-waste material still has to match foam's lightness, insulation, durability, and cost.
+- [Seafood Cold-Chain Packaging](concepts/SeafoodColdChainPackaging.md) — Fish-shipping packaging constraint where temperature control, durability, weight, and waste all affect material adoption.
 - [Open Source Wedge](concepts/OpenSourceWedge.md) — Startup pattern where a small open-source component reveals a larger hosted product opportunity.
 - [Federal AI Preemption](concepts/FederalAIPreemption.md) — Federal effort to limit state-level AI regulation, framed as a deregulatory benefit for AI companies and a state-federal governance conflict.
 - [Tech-Government Accommodation](concepts/TechGovernmentAccommodation.md) — Pattern where technology leaders align with or placate an administration to preserve access around regulation, visas, crypto, infrastructure, or procurement.

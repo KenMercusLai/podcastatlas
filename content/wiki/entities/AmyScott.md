@@ -2,11 +2,13 @@
 title: "Amy Scott"
 type: entity
 tags: [journalist, podcast, climate]
-sources: [tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
+sources: [tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
 last_updated: 2026-07-25
 ---
 
 # Amy Scott
+
+[[tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128]] adds Scott through another closing [[HowWeSurvive]] promo. The main [[MarketplaceTech]] segment covers [[MyceliumInsulation]] and [[BiodegradableFoamPackaging]], while the promo points toward Scott's broader climate-solutions reporting.
 
 [[tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128]] adds Scott through the closing [[HowWeSurvive]] promo attached to the [[MarketplaceTech]] segment on [[EmbodiedCarbonBuildingCode]]. The promo frames her climate-solutions show as exploring responses beyond lower-carbon building materials, including larger-scale and more speculative interventions.
 
@@ -22,6 +24,7 @@ Scott's reporting also links the technical demonstration to public funding and l
 
 ## Connections
 - [[MarketplaceTech]] and [[HowWeSurvive]] - Marketplace reporting context around climate technology.
+- [[MyceliumInsulation]] and [[BiodegradableFoamPackaging]] - December 24 climate-material segment attached to the promo.
 - [[DataCenterBacklash]] and [[DataCenterCommunityConsent]] - main episode context attached to the promo.
 - [[Apple]], [[Meta]], and [[Roblox]] - April 24 Marketplace Tech context attached to the promo.
 - [[EmbodiedCarbonBuildingCode]] and [[LowCarbonConstructionMaterials]] - climate-solutions promo context from the California building-materials episode.

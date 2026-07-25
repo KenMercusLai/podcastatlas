@@ -2,7 +2,7 @@
 title: "Economic Climate Tech Adoption"
 type: concept
 tags: [climate, startup, market-adoption]
-sources: [peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]
+sources: [tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]
 last_updated: 2026-07-25
 ---
 
@@ -22,6 +22,8 @@ The source's portfolio examples make the point concrete. [[BlueDot]] connects EV
 
 [[tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128]] adds a regulation-driven construction version. [[California]]'s [[EmbodiedCarbonBuildingCode]] can make demand for [[LowCarbonConstructionMaterials]] visible enough for manufacturers to invest, even if individual builders mainly experience the rule as [[ConstructionCarbonCompliance]] documentation and review.
 
+[[tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128]] adds a packaging-material version through [[MyceliumInsulation]]. The climate benefit is lower polystyrene waste, but adoption depends on whether [[BiodegradableFoamPackaging]] can match the incumbent material's low weight, insulation, durability, and cost in [[SeafoodColdChainPackaging]].
+
 ## Key Claims
 - Climate startups can grow faster when the buyer's self-interest and the climate benefit point in the same direction.
 - Adoption is not only a technology-cost curve; installation, reimbursement, financing, labor, and service trust can decide whether savings reach customers.
@@ -32,6 +34,7 @@ The source's portfolio examples make the point concrete. [[BlueDot]] connects EV
 - In bio-oil carbon removal, corporate procurement can create a market before ordinary buyers exist, but only if physical storage, permits, cost reduction, and verification keep improving.
 - In consumer vehicles, EV adoption can remain limited despite interest until the sticker-price gap narrows enough for ordinary car buyers.
 - In construction, code requirements can create adoption pressure by making supplier demand predictable before voluntary customer demand is mature.
+- In packaging, biological materials can win only if sustainability is paired with the logistics performance buyers already pay for.
 
 ## Connections
 - [[LeapForward]], [[DavidRusenko]], [[BlueDot]], and [[ElectricAir]] - source fund and portfolio cases.
@@ -42,3 +45,4 @@ The source's portfolio examples make the point concrete. [[BlueDot]] connects EV
 - [[ClimateAdaptation]], [[FireTechClimateResilience]], and [[ProductLedWillingnessToPay]] - adjacent climate and market-value concepts.
 - [[ElectricVehiclePriceParity]], [[LithiumIronPhosphateBatteries]], [[CoxAutomotive]], [[BloombergNEF]], and [[PwC]] - EV affordability branch added by Marketplace Tech.
 - [[EmbodiedCarbonBuildingCode]], [[LowCarbonConstructionMaterials]], [[ConstructionCarbonCompliance]], and [[USGreenBuildingCouncilOfCalifornia|U.S. Green Building Council of California]] - regulation-driven construction-materials adoption branch.
+- [[MyceliumInsulation]], [[BiodegradableFoamPackaging]], [[SeafoodColdChainPackaging]], [[WildSource]], and [[ColdChainCPGConstraint]] - packaging-material adoption branch added by Marketplace Tech.

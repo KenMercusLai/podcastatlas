@@ -2,7 +2,7 @@
 title: "Climate Startup Commercialization Gap"
 type: concept
 tags: [climate, startup, hard-tech]
-sources: [peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]
+sources: [tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128, peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]
 last_updated: 2026-07-25
 ---
 
@@ -18,6 +18,8 @@ The gap is partly financial and partly operational. Rusenko says more funding is
 
 [[peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted]] adds [[CharmIndustrial|Charm Industrial]] as a [[BioOilCarbonRemoval]] case. [[PeterReinhardt]] says demand arrived through [[Stripe]], [[FrontierCarbonRemoval|Frontier]], and other corporate buyers before the company had fully cleared its physical operating path. The gap therefore runs through [[CarbonRemovalPermitting]], feedstock procurement, transport, injection access, throughput machines, cost reduction, and transparent delivery records.
 
+[[tech-20251224-1224-mp-tech-pod-128-tech-20251224-1224-mp-tech-pod-128]] adds a materials-testing version through [[MyceliumInsulation]]. The source shows a lab process and [[WildSource]]'s early [[SeafoodColdChainPackaging]] test, but it does not answer cost, production scale, certification, or long-term performance, so the commercialization gap remains open.
+
 ## Key Claims
 - Climate companies can have strong technical promise and still fail if they cannot reach a credible first commercial deployment.
 - Capital needs should be sequenced around proof points that unlock the next layer of financing rather than around vague category excitement.
@@ -26,6 +28,7 @@ The gap is partly financial and partly operational. Rusenko says more funding is
 - A climate hardware company can have customer interest and still remain constrained by reliability, manufacturability, safety, and supply-chain execution.
 - Direct-air-capture projects add another commercialization burden: the capture process, clean energy inputs, storage permanence, public funding, and corporate procurement all have to hold together.
 - Carbon-removal purchase commitments can help bridge early demand, but they do not remove the physical bottlenecks around permits, injection sites, machine throughput, and verification.
+- Early material tests can prove practical interest before proving manufacturable cost, certification, durability, or supply reliability.
 
 ## Connections
 - [[LeapForward]], [[DavidRusenko]], [[ElectricAir]], and [[BlueDot]] - source fund and examples.
@@ -33,4 +36,5 @@ The gap is partly financial and partly operational. Rusenko says more funding is
 - [[RemoraCarbon]], [[PaulGross]], and [[FounderRiskDeepDive]] - source case where commercialization risk drives founder attention.
 - [[HeirloomCarbonTechnologies|Heirloom Carbon Technologies]], [[DirectAirCapture]], [[CarbonRemovalCostCurve]], and [[CarbonStoragePermanence]] - direct-air-capture scale challenge added by Marketplace Tech.
 - [[CharmIndustrial|Charm Industrial]], [[BioOilCarbonRemoval]], [[CarbonRemovalPermitting]], [[AdvancedMarketCommitment]], and [[FrontierCarbonRemoval|Frontier Carbon Removal]] - bio-oil carbon-removal scale challenge added by The Social Radars.
+- [[MyceliumInsulation]], [[BiodegradableFoamPackaging]], [[SeafoodColdChainPackaging]], and [[WildSource]] - materials-testing case added by Marketplace Tech.
 - [[HardTechFundraising]], [[CapitalEfficientStartupBuilding]], and [[ProductLedWillingnessToPay]] - startup-finance and customer-value context.
