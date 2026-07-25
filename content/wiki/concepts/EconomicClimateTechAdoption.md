@@ -2,7 +2,7 @@
 title: "Economic Climate Tech Adoption"
 type: concept
 tags: [climate, startup, market-adoption]
-sources: [tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]
+sources: [peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tsr-ycoffsite-paulgross-v1-audioonly-tsr-ycoffsite-paulgross-v1-audioonly, tsr-s3-davidrusenko-v1-tsr-s3-davidrusenko-v1]
 last_updated: 2026-07-25
 ---
 
@@ -16,6 +16,8 @@ The source's portfolio examples make the point concrete. [[BlueDot]] connects EV
 
 [[tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]] adds a direct-air-capture limit case through [[HeirloomCarbonTechnologies|Heirloom Carbon Technologies]]. Corporate customers including [[Microsoft]], [[Meta]], [[Shopify]], and [[UnitedAirlines|United Airlines]] signal willingness to buy [[CarbonRemoval]], but the source says current capture costs remain in the high hundreds of dollars per ton, so [[CarbonRemovalCostCurve]] still constrains adoption.
 
+[[peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted]] adds a [[BioOilCarbonRemoval]] version through [[CharmIndustrial|Charm Industrial]]. Corporate buyers and [[FrontierCarbonRemoval|Frontier]] help prove willingness to pay before mass-market costs exist, but adoption still depends on [[CarbonRemovalPermitting]], feedstock logistics, transport distance, machine throughput, and trusted delivery data.
+
 [[tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128]] adds the ordinary-consumer vehicle version through [[ElectricVehiclePriceParity]]. The episode argues that U.S. EV adoption depends on lowering the upfront premium over gasoline vehicles, with [[LithiumIronPhosphateBatteries|LFP batteries]] and [[China]]'s integrated supply chain showing how battery-cost improvements can become mass-market affordability.
 
 [[tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128]] adds a regulation-driven construction version. [[California]]'s [[EmbodiedCarbonBuildingCode]] can make demand for [[LowCarbonConstructionMaterials]] visible enough for manufacturers to invest, even if individual builders mainly experience the rule as [[ConstructionCarbonCompliance]] documentation and review.
@@ -27,6 +29,7 @@ The source's portfolio examples make the point concrete. [[BlueDot]] connects EV
 - Economic adoption complements [[ClimateAdaptation]] by making practical climate action easier to buy and repeat.
 - In mobile carbon capture, a saleable output can help adoption, but technical reliability and freight integration decide whether buyer demand can actually convert.
 - In direct air capture, corporate carbon-removal procurement can support early projects before costs are low enough for broad deployment.
+- In bio-oil carbon removal, corporate procurement can create a market before ordinary buyers exist, but only if physical storage, permits, cost reduction, and verification keep improving.
 - In consumer vehicles, EV adoption can remain limited despite interest until the sticker-price gap narrows enough for ordinary car buyers.
 - In construction, code requirements can create adoption pressure by making supplier demand predictable before voluntary customer demand is mature.
 
@@ -35,6 +38,7 @@ The source's portfolio examples make the point concrete. [[BlueDot]] connects EV
 - [[ClimateStartupCommercializationGap]] and [[MobileCarbonCapture]] - commercialization bottleneck for harder climate companies.
 - [[RemoraCarbon]] and [[PaulGross]] - industrial climate hardware case added by the Paul Gross source.
 - [[HeirloomCarbonTechnologies|Heirloom Carbon Technologies]], [[DirectAirCapture]], [[CarbonRemoval]], [[CarbonRemovalCostCurve]], [[Microsoft]], [[Meta]], [[Shopify]], and [[UnitedAirlines|United Airlines]] - direct-air-capture procurement case added by Marketplace Tech.
+- [[CharmIndustrial|Charm Industrial]], [[BioOilCarbonRemoval]], [[CarbonRemovalPermitting]], [[AdvancedMarketCommitment]], and [[FrontierCarbonRemoval|Frontier Carbon Removal]] - bio-oil carbon-removal procurement case added by The Social Radars.
 - [[ClimateAdaptation]], [[FireTechClimateResilience]], and [[ProductLedWillingnessToPay]] - adjacent climate and market-value concepts.
 - [[ElectricVehiclePriceParity]], [[LithiumIronPhosphateBatteries]], [[CoxAutomotive]], [[BloombergNEF]], and [[PwC]] - EV affordability branch added by Marketplace Tech.
 - [[EmbodiedCarbonBuildingCode]], [[LowCarbonConstructionMaterials]], [[ConstructionCarbonCompliance]], and [[USGreenBuildingCouncilOfCalifornia|U.S. Green Building Council of California]] - regulation-driven construction-materials adoption branch.

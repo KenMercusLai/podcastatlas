@@ -2,8 +2,8 @@
 title: "Hard-Tech Regulatory Pathfinding"
 type: concept
 tags: [hard-tech, regulation, safety, startups]
-sources: [tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio]
-last_updated: 2026-07-23
+sources: [peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio]
+last_updated: 2026-07-25
 ---
 
 # Hard-Tech Regulatory Pathfinding
@@ -14,12 +14,16 @@ Hard-tech regulatory pathfinding is the work of identifying, shaping, and satisf
 
 The concept is adjacent to [[PoliticalRegulatoryLeverage]], but more operational. The goal is not merely to lobby for favorable rules; it is to make the regulator understand what the machine is, what hazards exist, and which controls are credible.
 
+[[peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted]] adds [[CharmIndustrial|Charm Industrial]] as a carbon-removal version. [[PeterReinhardt]] says the company spent about four years getting federal and state agencies to agree on the proper pathway for [[BioOilCarbonRemoval|bio-oil]] injection, followed by about 14 months for the first Louisiana permit. The source turns [[CarbonRemovalPermitting]] into pathfinding work around a new storage category rather than ordinary paperwork after the product is ready.
+
 ## Key Claims
 - Novel hard-tech categories can fail if regulators map them onto the wrong older category.
 - Early regulator engagement can reduce deployment risk when the company can explain concrete hazards and controls.
 - Safety arguments are stronger when they separate actual operating risks from public associations attached to adjacent technologies.
+- In climate hard tech, regulatory ambiguity can be as binding as technical uncertainty when the system needs physical sites and public environmental approval.
 
 ## Connections
 - [[Helion]], [[DavidKirtley]], [[HelionPolaris]], and [[HelionOrion]] - source company, founder, machine, and plant.
 - [[CommercialFusionPower]] - commercialization target dependent on permitting and safety.
 - [[PrecisionManufacturingAsStrategy]] and [[PoliticalRegulatoryLeverage]] - adjacent execution and regulatory concepts.
+- [[CharmIndustrial|Charm Industrial]], [[BioOilCarbonRemoval]], [[CarbonRemovalPermitting]], and [[ClimateStartupCommercializationGap]] - carbon-removal pathfinding case added by The Social Radars.

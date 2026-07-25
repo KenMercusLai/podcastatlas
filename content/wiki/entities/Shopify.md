@@ -2,8 +2,8 @@
 title: "Shopify"
 type: entity
 tags: [company, saas, ecommerce, platform]
-sources: [tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]
-last_updated: 2026-07-24
+sources: [peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # Shopify
@@ -18,6 +18,8 @@ The source presents Shopify as [[EntrepreneurshipInfrastructure]]: a platform th
 
 [[tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]] adds Shopify as one of [[HeirloomCarbonTechnologies|Heirloom Carbon Technologies]]' named [[CarbonRemoval]] customers. The episode uses Shopify with [[Microsoft]], [[Meta]], and [[UnitedAirlines|United Airlines]] to show that corporate procurement can support early [[DirectAirCapture]] even while costs remain high.
 
+[[peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted]] adds Shopify as one of [[CharmIndustrial|Charm Industrial]]'s named carbon-removal customers. The source extends Shopify's carbon-removal procurement role from [[DirectAirCapture]] into [[BioOilCarbonRemoval]], with [[CarbonRemovalPermitting]] and cost reduction as the practical adoption constraints.
+
 ## Key Points
 - Originated from the Snowdevil snowboard store and the lack of adequate storefront, checkout, search, payment, and fulfillment tooling.
 - Launched after a prelaunch landing page collected roughly 4,000 to 5,000 email addresses.
@@ -29,6 +31,7 @@ The source presents Shopify as [[EntrepreneurshipInfrastructure]]: a platform th
 - In EP117, cited as an early commerce integration partner for [[OpenAI]]'s assistant-commerce path.
 - In the Marketplace Tech AI-search ads episode, cited as a commerce-data partner that could help AI platforms prove ad relevance and conversion.
 - In the Marketplace Tech direct-air-capture episode, cited as a corporate customer for Heirloom's carbon-removal offering.
+- In the Peter Reinhardt episode, cited as a corporate customer for Charm Industrial's bio-oil carbon-removal offering.
 
 ## Connections
 - [[TobiasLutke]] - co-founder and CEO interviewed in the episode.
@@ -40,3 +43,4 @@ The source presents Shopify as [[EntrepreneurshipInfrastructure]]: a platform th
 - [[OpenAI]], [[ChatGPT]], and [[AgenticCommerce]] - AI-assistant commerce comparison added by EP117.
 - [[Walmart]], [[AISearchAdvertising]], and [[GenerativeEngineOptimization]] - AI-search advertising context added by Marketplace Tech.
 - [[HeirloomCarbonTechnologies|Heirloom Carbon Technologies]], [[DirectAirCapture]], [[CarbonRemoval]], and [[CarbonRemovalCostCurve]] - carbon-removal procurement context added by Marketplace Tech.
+- [[CharmIndustrial|Charm Industrial]], [[BioOilCarbonRemoval]], and [[CarbonRemovalPermitting]] - bio-oil carbon-removal procurement context added by The Social Radars.

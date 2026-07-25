@@ -2,8 +2,8 @@
 title: "Carbon Removal Cost Curve"
 type: concept
 tags: [climate, carbon-removal, economics, hard-tech]
-sources: [tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
-last_updated: 2026-07-24
+sources: [peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # Carbon Removal Cost Curve
@@ -12,14 +12,18 @@ Carbon removal cost curve is the economic problem of moving technologies such as
 
 The source does not treat cost reduction as automatic. Heirloom's first Tracy, [[California]] plant removes about 1,000 tons per year, while its planned [[Louisiana]] project would be much larger. That gap turns cost into a [[ClimateStartupCommercializationGap]] issue: proof-of-operation, energy use, storage, procurement demand, and project finance all have to improve before direct air capture can move beyond demonstration scale.
 
+[[peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted]] adds a [[BioOilCarbonRemoval]] version through [[CharmIndustrial|Charm Industrial]]. [[PeterReinhardt]] says that after the first Louisiana permit, Charm's work shifted toward shorter transportation distances, larger throughput machines, more machines, and execution discipline. That makes cost reduction a logistics, hardware, and permitting problem, not only a capture-chemistry problem.
+
 ## Key Claims
 - A working capture process can still be economically fragile if cost per ton remains too high.
 - Cost targets matter because carbon removal must compete for climate budgets, corporate procurement, public funding, and energy.
 - Scaling from 1,000 tons to hundreds of thousands of tons changes engineering, permitting, financing, and operations risk.
 - Corporate customers can subsidize early learning, but they do not by themselves prove mass-market economics.
+- In bio-oil removal, transport distance, machine throughput, injection access, and feedstock logistics can move the cost curve as much as the conversion process itself.
 
 ## Connections
 - [[DirectAirCapture]], [[CarbonRemoval]], and [[LimestoneLoopCarbonCapture]] - technology branch.
+- [[CharmIndustrial|Charm Industrial]], [[BioOilCarbonRemoval]], [[CarbonRemovalPermitting]], and [[AdvancedMarketCommitment]] - bio-oil cost and demand-formation branch added by The Social Radars.
 - [[HeirloomCarbonTechnologies|Heirloom Carbon Technologies]], [[ChristianToya]], [[California]], and [[Louisiana]] - source case and scale comparison.
 - [[ClimateStartupCommercializationGap]], [[EconomicClimateTechAdoption]], and [[ProductLedWillingnessToPay]] - adoption and business-model context.
 - [[CarbonStoragePermanence]] and [[CarbonRemovalMoralHazard]] - quality and legitimacy constraints that cost alone cannot resolve.

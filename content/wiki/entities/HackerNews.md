@@ -3,10 +3,12 @@ title: "Hacker News"
 type: entity
 tags: [product, online-community, startups, y-combinator]
 sources: [tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s3-replit-v2-tsr-s3-replit-v2, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, socialradarspod-brianarmstrong-final]
-last_updated: 2026-07-23
+last_updated: 2026-07-25
 ---
 
 # Hacker News
+
+[[peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted]] adds Hacker News as the launch surface where [[AnalyticsJS|analytics.js]] became legible as the real [[Segment]] opportunity. [[PeterReinhardt]] says the post reached the top of Hacker News and produced GitHub stars and email signups, giving the team stronger demand evidence than [[ClassMetric]] or the planned analytics product had produced.
 
 Hacker News appears in [[socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll]] as the online forum [[PaulGraham]] started around [[YCombinator]]. Graham says it was good for YC, but also says it created much of the pain and stress of doing YC.
 
@@ -23,6 +25,7 @@ The source makes Hacker News a compact case for [[StartupCommunityForumBurden]].
 [[tsr-s5-jared-v3final-tsr-s5-jared-v3final]] adds Hacker News as an early launch-attention surface for [[Scribd]] and as part of [[YCombinator]]'s software lineage. [[JaredFriedman]] says Scribd quickly hit Hacker News after launch, and later names Hacker News alongside [[Bookface]] and legal-document tooling as evidence that YC has long been software-driven.
 
 ## Connections
+- [[AnalyticsJS|analytics.js]], [[Segment]], [[PeterReinhardt]], [[ClassMetric]], and [[OpenSourceWedge]] - launch validation case added by the Peter Reinhardt episode.
 - [[Scribd]], [[JaredFriedman]], [[YCombinator]], [[Bookface]], and [[YCInternalSoftware]] - launch distribution and internal-software lineage added by the Jared Friedman episode.
 - [[SpenserSkates]], [[CurtisLiu]], [[Sonalight]], [[Amplitude]], and [[YCombinator]] - startup self-education path added by the Spenser Skates episode.
 - [[PaulGraham]] and [[YCombinator]] - founder and institutional context.

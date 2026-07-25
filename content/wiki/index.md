@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Peter Reinhardt on Segment's Pivots and Charm Industrial's Carbon Removal](sources/peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted.md) — The Social Radars episode with Peter Reinhardt on ClassMetric, Segment's analytics.js pivot, sales and pricing lessons, Twilio acquisition logic, and Charm Industrial's bio-oil carbon removal and permitting bottleneck.
 - [Bytes: Week in Review - Apple's new CEO, Meta's latest AI play, and Roblox's safety updates](sources/tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128.md) — Marketplace Tech Bytes episode on Apple succession, Meta employee activity tracking for AI training, AI data scarcity, and Roblox child-safety settlements.
 - [Anti-AI data center sentiment is becoming a political issue](sources/tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128.md) — Marketplace Tech episode on data-center bans, Maine's statewide construction pause, local community consent, energy and water concerns, and AI infrastructure becoming an election issue.
 - [When do tech companies need to be consistently profitable?](sources/tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128.md) — Marketplace Tech episode on Snap layoffs, path-to-profitability pressure, activist investor campaigns, and how Amazon/AWS and Meta shape investor patience for losses.
@@ -627,6 +628,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Peter Reinhardt](entities/PeterReinhardt.md) — Segment and Charm Industrial founder whose episode links failed ClassMetric, analytics.js, enterprise sales learning, Twilio acquisition logic, and bio-oil carbon removal.
+- [Charm Industrial](entities/CharmIndustrial.md) — Peter Reinhardt's carbon-removal company converting biomass into bio-oil for underground injection.
+- [ClassMetric](entities/ClassMetric.md) — Failed YC classroom-feedback startup that preceded Segment and exposed the analytics-routing need behind analytics.js.
+- [analytics.js](entities/AnalyticsJS.md) — Small open-source routing library whose Hacker News response became the wedge for Segment.
+- [Twilio](entities/Twilio.md) — Communications API company that acquired Segment after customer demand made data and messaging integration credible.
+- [Jeff Lawson](entities/JeffLawson.md) — Twilio leader whose communications-layer plus data-layer argument frames the Segment acquisition logic.
+- [Rafael Parker](entities/RafaelParker.md) — Segment's first sales hire who pushed Peter Reinhardt to hire Chris Surdean.
+- [Chris Surdean](entities/ChrisSurdean.md) — Segment sales representative whose discovery style taught Peter Reinhardt sales and product-discovery lessons.
+- [Nat Friedman](entities/NatFriedman.md) — Xamarin leader in Segment's early enterprise pricing negotiation.
+- [Xamarin](entities/Xamarin.md) — Developer-tools company whose Segment negotiation helped reset Peter Reinhardt's pricing expectations.
+- [Frontier Carbon Removal](entities/FrontierCarbonRemoval.md) — Stripe-organized carbon-removal advanced market commitment that gave Charm an early large purchase agreement.
 - [Reuters](entities/Reuters.md) — Reporting source for Meta's employee computer-tracking plan discussed by Marketplace Tech.
 - [Matt Kaufman](entities/MattKaufman.md) — Roblox chief safety officer explaining the platform's face-based age estimation tool.
 - [Alabama](entities/Alabama.md) — State attorney-general settlement context in Roblox child-safety litigation.
@@ -2470,7 +2482,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fred Wilson](entities/FredWilson.md) — USV partner whose online hiring post and "fake it till you make it" advice shaped Christina Cacioppo's pre-Vanta path.
 - [Hackpad](entities/Hackpad.md) — Collaborative-document team Christina Cacioppo joined at Dropbox before it became Dropbox Paper and exposed compliance-launch constraints.
 - [Dropbox Paper](entities/DropboxPaper.md) — Dropbox collaborative-document product whose customer-contract security and compliance obligations helped reveal the Vanta opportunity.
-- [Segment](entities/Segment.md) — Early Vanta customer-discovery case for the first SOC 2 gap-assessment spreadsheet.
+- [Segment](entities/Segment.md) — Customer-data infrastructure company whose origin now links ClassMetric, analytics.js, product analytics, enterprise pricing, Vanta/Hightouch context, and Twilio acquisition logic.
 - [Front](entities/Front.md) — Early Vanta customer-discovery case showing the SOC 2 spreadsheet could generalize beyond Segment.
 - [Axios](entities/Axios.md) — News organization represented by Maria Curi in the Marketplace Tech Bytes episode on social media liability, AI worker literacy, and prediction-market guardrails.
 - [U.S. Department of Labor](entities/USDepartmentOfLabor.md) — Agency introducing the text-message AI literacy course used by the episode to frame worker AI readiness and displacement anxiety.
@@ -4215,6 +4227,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Open Source Wedge](concepts/OpenSourceWedge.md) — Startup pattern where a small open-source component reveals a larger hosted product opportunity.
+- [Bio-Oil Carbon Removal](concepts/BioOilCarbonRemoval.md) — Carbon-removal pathway that converts biomass into bio-oil and stores it underground.
+- [Carbon Removal Permitting](concepts/CarbonRemovalPermitting.md) — Regulatory-pathfinding work needed before physical carbon-removal systems can operate at scale.
+- [Advanced Market Commitment](concepts/AdvancedMarketCommitment.md) — Demand-creation mechanism where buyers commit early purchasing power to pull immature supply into existence.
 - [AI Training Data Scarcity](concepts/AITrainingDataScarcity.md) — Constraint pushing model companies from public web text toward higher-value workflow, expert, and process data.
 - [Workplace Behavior Training Data](concepts/WorkplaceBehaviorTrainingData.md) — Employee mouse, click, and keystroke traces captured as model-training material for computer-use agents.
 - [Platform Age Estimation](concepts/PlatformAgeEstimation.md) — Face-based or signal-based inference of user age for child-safety and communication rules.

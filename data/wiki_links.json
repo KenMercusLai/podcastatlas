@@ -1707,6 +1707,10 @@
     "title": "Advanced Local Express Desk",
     "url": "/wiki/entities/advancedlocalexpressdesk/"
   },
+  "AdvancedMarketCommitment": {
+    "title": "Advanced Market Commitment",
+    "url": "/wiki/concepts/advancedmarketcommitment/"
+  },
   "AdvancedPackaging": {
     "title": "Advanced Packaging",
     "url": "/wiki/concepts/advancedpackaging/"
@@ -2314,6 +2318,10 @@
   "AnalogMediaPreservation": {
     "title": "Analog Media Preservation",
     "url": "/wiki/concepts/analogmediapreservation/"
+  },
+  "AnalyticsJS": {
+    "title": "analytics.js",
+    "url": "/wiki/entities/analyticsjs/"
   },
   "Anansi": {
     "title": "Anansi",
@@ -3627,6 +3635,10 @@
     "title": "《病人家属，请来一下》",
     "url": "/wiki/entities/bingrenjiashuqinglaiyixia/"
   },
+  "BioOilCarbonRemoval": {
+    "title": "Bio-Oil Carbon Removal",
+    "url": "/wiki/concepts/biooilcarbonremoval/"
+  },
   "BiodegradableAmazonPlastics": {
     "title": "Biodegradable Amazon Plastics",
     "url": "/wiki/concepts/biodegradableamazonplastics/"
@@ -4451,6 +4463,10 @@
     "title": "Carbon Removal Moral Hazard",
     "url": "/wiki/concepts/carbonremovalmoralhazard/"
   },
+  "CarbonRemovalPermitting": {
+    "title": "Carbon Removal Permitting",
+    "url": "/wiki/concepts/carbonremovalpermitting/"
+  },
   "CarbonRemovalPoliticalDurability": {
     "title": "Carbon Removal Political Durability",
     "url": "/wiki/concepts/carbonremovalpoliticaldurability/"
@@ -4799,6 +4815,10 @@
     "title": "Charlton County",
     "url": "/wiki/entities/charltoncounty/"
   },
+  "CharmIndustrial": {
+    "title": "Charm Industrial",
+    "url": "/wiki/entities/charmindustrial/"
+  },
   "ChatGPT": {
     "title": "ChatGPT",
     "url": "/wiki/entities/chatgpt/"
@@ -5115,6 +5135,10 @@
     "title": "Chris Quinn",
     "url": "/wiki/entities/chrisquinn/"
   },
+  "ChrisSurdean": {
+    "title": "Chris Surdean",
+    "url": "/wiki/entities/chrissurdean/"
+  },
   "ChristianStClair": {
     "title": "Christian St. Clair",
     "url": "/wiki/entities/christianstclair/"
@@ -5282,6 +5306,10 @@
   "ClarksonsFarm": {
     "title": "《克拉克森的农场》 / Clarkson's Farm",
     "url": "/wiki/entities/clarksonsfarm/"
+  },
+  "ClassMetric": {
+    "title": "ClassMetric",
+    "url": "/wiki/entities/classmetric/"
   },
   "ClassicReadingComplexity": {
     "title": "Classic Reading Complexity",
@@ -9415,6 +9443,10 @@
     "title": "Front",
     "url": "/wiki/entities/front/"
   },
+  "FrontierCarbonRemoval": {
+    "title": "Frontier Carbon Removal",
+    "url": "/wiki/entities/frontiercarbonremoval/"
+  },
   "FrontierModelAccessRestrictions": {
     "title": "Frontier Model Access Restrictions",
     "url": "/wiki/concepts/frontiermodelaccessrestrictions/"
@@ -12374,6 +12406,10 @@
   "JeffDenning": {
     "title": "Jeff Denning",
     "url": "/wiki/entities/jeffdenning/"
+  },
+  "JeffLawson": {
+    "title": "Jeff Lawson",
+    "url": "/wiki/entities/jefflawson/"
   },
   "JeffUllman": {
     "title": "Jeff Ullman",
@@ -16275,6 +16311,10 @@
     "title": "Nassim Taleb",
     "url": "/wiki/entities/nassimtaleb/"
   },
+  "NatFriedman": {
+    "title": "Nat Friedman",
+    "url": "/wiki/entities/natfriedman/"
+  },
   "NateBlecharczyk": {
     "title": "Nate Blecharczyk",
     "url": "/wiki/entities/nateblecharczyk/"
@@ -17147,6 +17187,10 @@
     "title": "Open Source Startup Cost Collapse",
     "url": "/wiki/concepts/opensourcestartupcostcollapse/"
   },
+  "OpenSourceWedge": {
+    "title": "Open Source Wedge",
+    "url": "/wiki/concepts/opensourcewedge/"
+  },
   "OpenWebSocialContractErosion": {
     "title": "Open Web Social Contract Erosion",
     "url": "/wiki/concepts/openwebsocialcontracterosion/"
@@ -17882,6 +17926,10 @@
   "PeterPrinciple": {
     "title": "Peter Principle",
     "url": "/wiki/concepts/peterprinciple/"
+  },
+  "PeterReinhardt": {
+    "title": "Peter Reinhardt",
+    "url": "/wiki/entities/peterreinhardt/"
   },
   "PeterTheGreat": {
     "title": "Peter the Great / 彼得大帝",
@@ -19130,6 +19178,10 @@
   "RachelSalzman": {
     "title": "Rachel Salzman",
     "url": "/wiki/entities/rachelsalzman/"
+  },
+  "RafaelParker": {
+    "title": "Rafael Parker",
+    "url": "/wiki/entities/rafaelparker/"
   },
   "RafePilling": {
     "title": "Rafe Pilling",
@@ -23595,6 +23647,10 @@
     "title": "《富岳二十四景》 / 24 Views of Mt. Fuji, by Hokusai",
     "url": "/wiki/entities/twentyfourviewsofmountfujibyhokusai/"
   },
+  "Twilio": {
+    "title": "Twilio",
+    "url": "/wiki/entities/twilio/"
+  },
   "Twitch": {
     "title": "Twitch",
     "url": "/wiki/entities/twitch/"
@@ -24978,6 +25034,10 @@
   "XPengIron": {
     "title": "XPeng Iron",
     "url": "/wiki/entities/xpengiron/"
+  },
+  "Xamarin": {
+    "title": "Xamarin",
+    "url": "/wiki/entities/xamarin/"
   },
   "Xbox": {
     "title": "Xbox",
@@ -26694,6 +26754,10 @@
   "peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf": {
     "title": "Peace fire: further US-Iran strikes",
     "url": "/wiki/sources/peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf/"
+  },
+  "peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted": {
+    "title": "Peter Reinhardt on Segment's Pivots and Charm Industrial's Carbon Removal",
+    "url": "/wiki/sources/peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted/"
   },
   "planet-money-vs-the-nbas-tanking-problem": {
     "title": "Planet Money vs. the NBA's tanking problem",

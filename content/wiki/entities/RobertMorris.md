@@ -2,11 +2,13 @@
 title: "Robert Morris"
 type: entity
 tags: [person, startups, computer-science]
-sources: [socialradarss2-stripe-v2, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, tsr-s2-trevorblackwell-v2]
-last_updated: 2026-07-11
+sources: [peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted, socialradarss2-stripe-v2, socialradarsseason1-pg-v4-updated-finallll-socialradarsseason1-pg-v4-updated-finallll, tsr-s2-trevorblackwell-v2]
+last_updated: 2026-07-25
 ---
 
 # Robert Morris
+
+[[peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted]] adds Morris through [[PeterReinhardt]]'s [[YCombinator]] interview. The source says Morris told [[PaulGraham]] during the interview that he would not use [[ClassMetric]], even after sounding more positive in an earlier customer-discovery conversation. That makes Morris part of the source's lesson about separating polite interest from real customer demand.
 
 Robert Morris appears in [[tsr-s2-trevorblackwell-v2]] as [[TrevorBlackwell]]'s Harvard peer and a bridge between Blackwell and [[PaulGraham]]. Blackwell says he and Morris had the same advisor and nearby offices; when Graham asked who the best programmer in the program was, Morris pointed to Blackwell.
 
@@ -17,6 +19,7 @@ The source also places Morris inside the early [[Viaweb]] and [[YCombinator]] ci
 [[socialradarss2-stripe-v2]] adds Morris as an early advisor in [[PatrickCollison]]'s teenage startup and academic path. [[PaulGraham]] invited Morris to dinner to advise Patrick about applying to MIT, extending Morris's wiki role from Viaweb and early YC technical judgment into the broader network that surrounded future [[Stripe]] founders.
 
 ## Connections
+- [[PeterReinhardt]], [[ClassMetric]], [[Segment]], and [[CustomerEvidenceStrategy]] - YC interview and demand-evidence lesson added by the Peter Reinhardt episode.
 - [[TrevorBlackwell]] and [[PaulGraham]] - Harvard and Viaweb connection.
 - [[Viaweb]] - shared startup context.
 - [[ArcLanguage|Arc]] and [[WebBasedSoftware]] - later and earlier Graham technical contexts.

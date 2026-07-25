@@ -2,8 +2,8 @@
 title: "Sales As Learnable Skill"
 type: concept
 tags: [startups, sales, founder-learning, b2b]
-sources: [tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio]
-last_updated: 2026-07-23
+sources: [peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted, tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio]
+last_updated: 2026-07-25
 ---
 
 # Sales As Learnable Skill
@@ -12,13 +12,17 @@ Sales as learnable skill is the idea that sales improves through direct practice
 
 The source contrasts feature demoing with business diagnosis. Mitch taught Spenser to ask why a customer wanted dashboards, who cared about the problem, what happened if it stayed unsolved, and how Amplitude fit into the customer's story. Spenser says expert coaching accelerated learning and helped him stop spending time on prospects without real pain.
 
+[[peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted]] adds [[PeterReinhardt]] and [[Segment]] as another technical-founder version. Peter says watching [[ChrisSurdean]] sell taught him that effective sales often means pushing through awkward discovery to understand the customer's real pain before pitching, and that this learning also changed how he thought about product discovery.
+
 ## Key Claims
 - Technical founders can learn sales faster when they treat it as deliberate practice rather than as a fixed trait.
 - Early sales conversations should diagnose business pain before demonstrating product capabilities.
 - Coaching can shorten the loop between a failed conversation and better qualification, pricing, and messaging.
 - Sales skill is valuable because it feeds product judgment, not only revenue.
+- Sales learning can come from watching a skilled early sales hire as well as from formal coaching.
 
 ## Connections
 - [[SpenserSkates]], [[MitchMorando]], and [[Amplitude]] - source case.
+- [[PeterReinhardt]], [[Segment]], [[RafaelParker]], and [[ChrisSurdean]] - sales-discovery case added by the Peter Reinhardt episode.
 - [[FounderLedSales]], [[ProductLedWillingnessToPay]], and [[CustomerEvidenceStrategy]] - adjacent validation and sales concepts.
 - [[TwelveGigs|12gigs]] - pricing-validation moment from the source.

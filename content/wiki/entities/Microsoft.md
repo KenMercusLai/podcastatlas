@@ -3,7 +3,7 @@ title: "Microsoft"
 type: entity
 tags: [company, ai, cloud, investing, mobile]
 sources: [betty-boop-excel-olympics-penny-isms-our-2026-valentines, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128, tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-samaltman-v4-tsr-s4-samaltman-v4, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final, socialradarspod-garrytan-final, ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1, e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl, stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5, e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-07-24
+last_updated: 2026-07-25
 ---
 
 # Microsoft
@@ -32,6 +32,8 @@ Microsoft appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yan
 
 [[tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]] adds Microsoft as one of [[HeirloomCarbonTechnologies|Heirloom Carbon Technologies]]' named [[CarbonRemoval]] customers. The source keeps the claim narrow: Microsoft appears as a corporate buyer helping support early [[DirectAirCapture]] demand while the [[CarbonRemovalCostCurve]] remains high.
 
+[[peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted]] adds Microsoft as one of [[CharmIndustrial|Charm Industrial]]'s named carbon-removal customers. The source extends Microsoft's climate-procurement role from [[DirectAirCapture]] into [[BioOilCarbonRemoval]], while preserving the same adoption caveat: corporate demand helps early suppliers but does not by itself solve permanence, permitting, or cost.
+
 [[socialradarspod-garrytan-final]] adds [[GarryTan]]'s early-career Microsoft account. Tan worked on Windows Mobile after college and describes the environment as demoralizing despite the salary, because stack ranking, internal fiefdoms, and thin resources made important consumer scenarios hard to move. The source extends [[LargeCompanyOrganizationalInertia]] from strategy and AI adoption into the career-level trap where comfort, spending habits, and bureaucracy can slow a builder who wants to start a company.
 
 [[tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final]] adds Microsoft through [[AltosComputer]]'s Zenix relationship. [[RonConway]] says Altos sold applications around Microsoft's Unix shell and once took a floppy disk to Microsoft for an urgent bug fix, making Microsoft part of the early microcomputer software ecosystem that preceded the PC wave Altos failed to meet.
@@ -51,6 +53,7 @@ Microsoft appears in [[ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yan
 - [[WeiQing]], [[SilentProtagonist]], and [[AIOrganizationDesign]] — organization-transformation and AI-adoption context added by the Wuren Zhixiao episode.
 - [[Helion]], [[HelionOrion]], [[CommercialFusionPower]], [[AIEnergyBottleneck]], and [[DataCenterPowerBottleneck]] - fusion power-purchase context added by The Social Radars.
 - [[HeirloomCarbonTechnologies|Heirloom Carbon Technologies]], [[DirectAirCapture]], [[CarbonRemoval]], and [[CarbonRemovalCostCurve]] - carbon-removal customer context added by Marketplace Tech.
+- [[CharmIndustrial|Charm Industrial]], [[BioOilCarbonRemoval]], and [[CarbonRemovalPermitting]] - bio-oil carbon-removal customer context added by The Social Radars.
 - [[GarryTan]], [[YCombinator]], and [[LargeCompanyOrganizationalInertia]] — early-career builder contrast added by The Social Radars.
 - [[AltosComputer]], [[RonConway]], and [[SelfDisruptionDiscipline]] — early microcomputer software context added by the Conway episode.
 - [[YinWu]], [[EchoLocker]], [[Prim]], [[Pulley]], and [[SecondTimeFounderOperatingJudgment]] — mobile acquisition and repeat-founder context added by the Yin Wu episode.

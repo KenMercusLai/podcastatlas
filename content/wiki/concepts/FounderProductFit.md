@@ -3,7 +3,7 @@ title: "Founder Product Fit"
 type: concept
 tags: [startup, validation, founder-fit]
 sources: [tsr-s5-jared-v3final-tsr-s5-jared-v3final, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-s4-gusto-v3-tsr-s4-gusto-v3, tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3, tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3, tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5, tsr-s4-ericm-v2-tsr-s4-ericm-v2, tsr-s4-harj-v3-tsr-s4-harj-v3, tsr-s3-eddylu-v2-tsr-s3-eddylu-v2, tsr-s3-yinwu-v2-tsr-s3-yinwu-v2, tsr-s3-kylevogt-v3final-tsr-s3-kylevogt-v3final, tsr-s3-yurisagalov-v4final-tsr-s3-yurisagalov-v4final, tsr-s2-adoracheung-v5, socialradarspod-emmettshear-v2, socialradarss2-stripe-v2, socialradarss2-billclerico-final, socialradarsseason2-dimitri-final, socialradars-edithelliot-v3, socialradarspod-brianchesky-final, socialradarspod-stevehuffman-final, socialradarspod-garrytan-final, socialradarspod-davidlieb-final, socialradarspod-paulb-final, finding-product-market-fit-after-3-years-of-failed-ideas, justins-nut-butter-justin-gold-he-was-waiting-tables-then-he-reinvented-peanut-butter-b456c4b4-0243-4e46-9460-d0de7cf5d98b, ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2, shopify-tobias-lutke-how-a-snowboarder-built-a-150-billion-business-2019-d0b07b6a-125e-4896-babd-678d19957306, catalina-crunch-krishna-kaliannan-from-homemade-keto-cocoa-puffs-to-breakfast-aisle-breakthrough-5aa86015-e7c2-448e-a84e-d1b34d2fcac2, socialradarsseason1-tracyyoung-final-1, socialradarspod-tonyxu-final, socialradarspod-brianarmstrong-final, socialradarsseason2-parkerconrad-v8-socialradarsseason2-parkerconrad-v8]
-last_updated: 2026-07-23
+last_updated: 2026-07-25
 ---
 
 # Founder Product Fit
@@ -13,6 +13,8 @@ Founder product fit is the match between a founding team's strengths, credibilit
 [[tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3]] adds [[DanSiroker]] and [[PeteKoomen]] as a contrast case. [[CarrotSticks]] lacked founder-market fit because the founders were not the users, buyers, or domain experts for a children's math game; [[Spreadly]] came closer because it started from their own distribution pain but still lacked a working incentive model. [[Optimizely]] fit better because Dan had lived the [[ABTestingForMarketers]] problem directly on the [[BarackObama]] campaign.
 
 [[tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio]] adds [[SpenserSkates]] and [[Amplitude]] as another internal-pain-to-product-fit case. [[Sonalight]] itself was not the durable fit, but the founders' own struggle to understand retention made [[ProductAnalytics]] legible enough that they could keep serving product teams after the pivot.
+
+[[peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted]] adds [[PeterReinhardt]] as a split-fit case. [[ClassMetric]] and the planned analytics product did not fit the market strongly enough, but the team's own routing pain made [[AnalyticsJS|analytics.js]] and [[Segment]] legible. Later, [[CharmIndustrial|Charm Industrial]] fit Peter's harder-tech interests more directly, while still requiring him to carry over software-founder skills around customers, pricing, transparency, and [[CarbonRemovalPermitting]].
 
 [[ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2]] adds a more fragile early-founder version. [[Minghao]]'s podcast-production experience fit [[CreateWise]]'s starting problem, and [[XiaoSun]] had strong building energy when he recognized the work, but fit still had to survive communication, commercial learning, and [[FounderCashFlowConstraint]].
 
@@ -88,6 +90,7 @@ Founder product fit is the match between a founding team's strengths, credibilit
 - Investors can misuse product desire as a proxy for founder-product fit; the team still has to show the ability and motivation to make the market work.
 - Founder-product fit can evolve when user discovery, acquisition experience, health events, and changed motivation reveal a different form of useful work.
 - Founder-product fit can also evolve from product founder to institution builder when the founder's strongest leverage becomes helping other builders.
+- Founder-product fit can split across phases: a founder may be dragged into a software infrastructure fit by evidence, then later choose a harder physical domain that better matches long-running technical interests.
 - Founder-product fit can be hidden behind a rejected first idea; advisors may need to redirect founders toward a product that better matches their actual habits and strengths.
 - Founder-product fit can start from the emotional center of a product rather than the market category outsiders assign to it; Airbnb looked like travel, but Chesky frames it as hosting and connection.
 - Founder-product fit can begin with technical and personal insight, then require rapid learning in adjacent regulated domains before the product can operate.

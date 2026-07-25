@@ -2,8 +2,8 @@
 title: "Customer Evidence Strategy"
 type: concept
 tags: [startups, customer-discovery, strategy, enterprise-saas]
-sources: [tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly]
-last_updated: 2026-07-23
+sources: [peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted, tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio, tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio, tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly]
+last_updated: 2026-07-25
 ---
 
 # Customer Evidence Strategy
@@ -16,6 +16,8 @@ The source does not make customer input a vote. Gupta still describes founder ju
 
 [[tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio]] adds [[Amplitude]] as a product-analytics validation case. [[SpenserSkates]] and [[CurtisLiu]] talked to roughly 30 companies after the [[Sonalight]] pivot, but the strongest evidence came when [[TwelveGigs|12gigs]] asked for a price and treated $1,000 per month as cheap. The source separates polite interview interest from paid urgency.
 
+[[peter-tsr-v3-audio-converted-peter-tsr-v3-audio-converted]] adds [[Segment]] as an even sharper contrast between polite interest and useful evidence. [[PeterReinhardt]] says [[RobertMorris]] had sounded positive about [[ClassMetric]] in customer discovery but then told [[PaulGraham]] in the YC interview that he would not use it. Later, [[AnalyticsJS|analytics.js]] produced stronger evidence through [[HackerNews]] response, signups, and requests for a hosted product, while [[ChrisSurdean]]'s sales discovery helped convert customer pain into product direction.
+
 [[tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio]] adds a hard-tech customer-intent variant through [[BoomSupersonic]]. [[BlakeScholl]] could not show normal revenue traction for a future airliner, so a [[VirginGroup|Virgin]] statement and later airline orders functioned as [[HardTechCustomerIntentProof]]: evidence that potential buyers could imagine the product before it existed, but not proof that delivery, certification, or operations were solved.
 
 ## Key Claims
@@ -25,6 +27,7 @@ The source does not make customer input a vote. Gupta still describes founder ju
 - The method pairs with [[FounderRiskTaking]] because customer evidence may appear before historical metrics prove the decision.
 - In hard tech, customer intent can be useful evidence before delivery, but it has to be separated from binding revenue and paired with technical proof.
 - Pricing reactions can reveal whether customer evidence is real: a buyer who treats the product as cheap is stronger validation than a prospect who merely says the idea sounds useful.
+- Customer evidence can contradict earlier interview politeness; actual launch response, purchase negotiation, and repeated workflow requests carry more weight than agreeable discovery calls.
 
 ## Connections
 - [[Hightouch]] and [[KashishGupta]] - source case.
@@ -33,3 +36,4 @@ The source does not make customer input a vote. Gupta still describes founder ju
 - [[FounderMode]] - founder intervention becomes more defensible when grounded in direct market context.
 - [[BoomSupersonic]], [[BlakeScholl]], [[VirginGroup]], and [[HardTechCustomerIntentProof]] - hard-tech customer-intent branch added by The Social Radars.
 - [[Amplitude]], [[SpenserSkates]], [[CurtisLiu]], [[Sonalight]], [[ProductAnalytics]], and [[TwelveGigs|12gigs]] - product-analytics validation case added by The Social Radars.
+- [[Segment]], [[PeterReinhardt]], [[ClassMetric]], [[AnalyticsJS|analytics.js]], [[RobertMorris]], and [[ChrisSurdean]] - polite-interest, launch-response, and sales-discovery case added by The Social Radars.
