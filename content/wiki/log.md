@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-25] ingest | 串台.「你吃香菜吗」女生版：你愿意和性转之后的自己在一起吗？
+
+Added source page for a 蜜獾吃书 crossover with 你吃香菜吗 on whether a person would date a gender-swapped self. Created pages for 你吃香菜吗, 日光派对播客联盟, 小时, 纸造/老爷, 柯子, Gender-Swap Self Thought Experiment, Self-Similarity In Intimacy, Complementary Relationship Support, Emotional Co-Regulation Fit, Relationship Need Diversification, and Sincerity As Relationship Trust; updated overview, index, 蜜獾吃书, 秦总, Female Self-Possession, Information Cocoon, Relationship Optionality, Empathy Boundaries, Social Signal Interpretation, and Self-Feeling Trust. No direct contradiction found; the source extends relationship and self-knowledge branches by treating similarity as lower friction but not automatically healthier than complementary support.
+
 ## [2026-07-25] ingest | 20.德米安：该隐的额头上，那神秘的印记
 
 Added source page for a 蜜獾吃书 episode on 赫尔曼·黑塞《德米安》, 辛克莱尔's coming-of-age, 该隐印记, 阿布拉克萨斯, Jungian projection, Gnosticism, wartime self-discovery, and later countercultural reception. Created pages for Hermann Hesse, 《德米安》, 《悉达多》, 《荒原狼》, Emil Sinclair, Max Demian, Frau Eva, Franz Kromer, Pistorius, Abraxas, Cain Mark Reinterpretation, Light And Dark World Duality, Abraxas Whole-God Symbolism, Spiritual Mentor As Self Projection, Self Discovery Against Mass Conformity, Hesse Youth Culture Misreading, and Gnosticism; updated overview, index, 蜜獾吃书, 秦总, 北明/北民, Carl Jung, Friedrich Nietzsche, Jungian Archetypal Reading, Classic Reading Complexity, Non-Instrumental Literary Reading, Reading As Life Experience, Interpretation And Overinterpretation, and Existentialism. No direct contradiction found; the source extends the wiki's Jungian-reading branch while distinguishing Hesse's wartime self-seeking from simple psychedelic or social-escape readings.
@@ -5168,6 +5172,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-25] ingest | 22.足球经济学：读者不必是球迷
 
 Added source page for a 蜜獾吃书 episode on 《足球经济学》 / Soccernomics as an economics book for non-fans as well as football readers. Created pages for 邓老板, Arsene Wenger, 刘洋洋, Football As Economic Laboratory, Football Analytics Modernization, Football Labor-Market Discrimination, Football Manager Myth Deflation, Open Football Talent Markets, Soft-Budget Football Clubs, and Sports Mega-Event Welfare Accounting; updated overview, index, Soccernomics, Stefan Szymanski, Simon Kuper, Game Theory, Data-Driven Penalty Preparation, Penalty Shootout Strategy, Football Club As Community Asset, Fat League Economics, Economic Way Of Thinking, FIFA World Cup, Premier League, Arsenal FC, Cristiano Ronaldo, Lionel Messi, and Sports Entertainment Flywheel. No direct contradiction found; the source complements the existing penalty-shootout page by distinguishing ordinary match-penalty overattribution from shootout strategy, while broadening the football branch into discrimination, soft budgets, open markets, manager mythmaking, and event welfare.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-25] lint | Wiki health check
 

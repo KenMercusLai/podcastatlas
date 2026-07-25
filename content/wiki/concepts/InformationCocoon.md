@@ -2,13 +2,15 @@
 title: "Information Cocoon / 信息茧房"
 type: concept
 tags: [media, psychology, internet-culture, polarization]
-sources: [132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]
-last_updated: 2026-07-24
+sources: [chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723, 132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]
+last_updated: 2026-07-25
 ---
 
 # Information Cocoon / 信息茧房
 
 Information cocoon is the media environment where people mostly encounter signals that confirm the group's existing view. In [[132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318]], the cocoon works with [[GroupPolarization]]: repeated same-side messages make a position feel more obvious, more morally charged, and more socially necessary.
+
+[[chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723]] adds an intimate-relationship analogy. [[ZhiZaoLaoYe|纸造/老爷]] worries that dating someone too similar can form a private cocoon where partners mutually confirm shared views and miss correction, making [[SelfSimilarityInIntimacy]] less safe than it first appears.
 
 The episode links information cocoons to online groups, politicized vaccine information, fandom identity, and public controversy. The cocoon does not need perfect censorship; it only needs enough selective exposure and social reward to make correction feel like outside hostility.
 

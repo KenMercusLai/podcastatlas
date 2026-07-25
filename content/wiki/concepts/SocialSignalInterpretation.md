@@ -2,13 +2,15 @@
 title: "Social Signal Interpretation"
 type: concept
 tags: [communication, social, relationships]
-sources: [ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu]
-last_updated: 2026-07-07
+sources: [chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723, ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu]
+last_updated: 2026-07-25
 ---
 
 # Social Signal Interpretation
 
 Social signal interpretation is the ability to read indirect meaning from context, timing, relationship status, emotional state, and nonliteral prompts. In [[ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu]], [[Maidisen]] illustrates the concept by repeatedly answering relationship signals literally: treating a classmate's hotel invitation, "forgot something" prompt, and fear-at-night call as logistical problems rather than possible emotional or romantic cues.
+
+[[chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723]] adds a partner-support case. A calm "it will be fine" can be well-intentioned and still miss the signal if the distressed person needs shared anger, acknowledgment, or concrete companionship. The source therefore connects social-signal reading to [[EmotionalCoRegulationFit]] rather than only to flirtation or workplace etiquette.
 
 ## Key Claims
 - Social meaning often lives outside the literal sentence; timing, setting, and prior context can change what the same words are doing.

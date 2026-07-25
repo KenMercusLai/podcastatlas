@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [串台.「你吃香菜吗」女生版：你愿意和性转之后的自己在一起吗？](sources/chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723.md) — 蜜獾吃书 crossover with 你吃香菜吗 using a gender-swapped-self dating prompt to discuss similarity, complementarity, emotional support, sincerity, and distributing relationship needs across partners and friends.
 - [22.足球经济学：读者不必是球迷](sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427.md) — 蜜獾吃书 episode on 《足球经济学》 / Soccernomics, football as an economics laboratory, analytics, discrimination, manager myths, open talent markets, club finance, event welfare, and publication delay.
 - [21.红与黑：他死于真诚](sources/21-hong-yu-hei-ta-si-yu-zhencheng-569042001.md) — 蜜獾吃书 episode on Stendhal's 《红与黑》, Julien Sorel, class ascent under Restoration France, sincerity, psychological realism, and the two central love relationships.
 - [20.德米安：该隐的额头上，那神秘的印记](sources/20-demian-gaiyin-de-etou-shang-na-shenmi-de-yinji-567302734.md) — 蜜獾吃书 episode on Hermann Hesse's 《德米安》, Cain's mark, Abraxas, Jungian symbolism, Gnosticism, wartime self-discovery, and later youth-culture reception.
@@ -648,6 +649,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [你吃香菜吗](entities/NiChiXiangcaiMa.md) — Podcast/crossover context for the gender-swapped-self relationship debate with 蜜獾吃书.
+- [日光派对播客联盟](entities/RiguangPaidui.md) — Podcast-alliance context named at the start of the 你吃香菜吗 crossover source.
+- [小时](entities/XiaoShiHost.md) — Speaker in the crossover who initially favors a highly similar partner and anchors the sincerity-as-trust branch.
+- [纸造 / 老爷](entities/ZhiZaoLaoYe.md) — Speaker in the crossover who argues for mystery, complementarity, and emotional short-board support before reversing sides.
+- [柯子](entities/KeZiHost.md) — Host/speaker in the crossover whose risk-control argument and position shifts structure the debate.
 - [邓老板](entities/DengLaoban.md) — 蜜獾吃书 football-economics discussion voice bringing former fan and finance-industry perspective to the Soccernomics episode.
 - [Arsene Wenger / 温格](entities/ArseneWenger.md) — Arsenal manager used by the episode as an early case of football analytics, diet, scouting, and management modernization.
 - [刘洋洋 / Liu Yangyang](entities/LiuYangyang.md) — Translator of 《足球经济学》 praised by the episode for combining football literacy with economic and cultural translation.
@@ -4383,6 +4389,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Gender-Swap Self Thought Experiment / 性转自我思想实验](concepts/GenderSwapSelfThoughtExperiment.md) — Relationship prompt that tests whether one wants similarity, complementarity, self-acceptance, or gendered re-evaluation in a partner.
+- [Self-Similarity In Intimacy / 亲密关系中的自我相似](concepts/SelfSimilarityInIntimacy.md) — Argument that a highly similar partner can reduce risk, friction, and explanation burden while also amplifying blind spots.
+- [Complementary Relationship Support / 互补式关系支持](concepts/ComplementaryRelationshipSupport.md) — Relationship frame where difference adds mystery, growth, steadiness, and short-board support without requiring total incompatibility.
+- [Emotional Co-Regulation Fit / 情绪共调匹配](concepts/EmotionalCoRegulationFit.md) — Fit between one person's distress and the kind of calming, shared anger, recognition, or practical response a partner can offer.
+- [Relationship Need Diversification / 关系需求分散](concepts/RelationshipNeedDiversification.md) — Practice of distributing companionship, interests, and support across partners, friends, and communities instead of overloading one romantic tie.
+- [Sincerity As Relationship Trust / 真诚作为亲密关系信任](concepts/SincerityAsRelationshipTrust.md) — Everyday intimate trust built through truthful speech, received honesty, and low avoidable uncertainty.
 - [Football As Economic Laboratory](concepts/FootballAsEconomicLaboratory.md) — Method frame treating football as a concrete, data-rich setting for testing economic intuition about fans, wages, clubs, coaches, and tournaments.
 - [Football Analytics Modernization](concepts/FootballAnalyticsModernization.md) — Shift from tradition-led football toward data, nutrition, scouting, player support, sports science, and specialized management.
 - [Football Labor-Market Discrimination](concepts/FootballLaborMarketDiscrimination.md) — Economic method for identifying racial, gender, and coaching-market prejudice through pay, performance, and opportunity gaps.

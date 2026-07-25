@@ -2,13 +2,15 @@
 title: "Relationship Optionality"
 type: concept
 tags: [relationships, youth, gender, life-design]
-sources: [vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
-last_updated: 2026-07-15
+sources: [chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723, vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]
+last_updated: 2026-07-25
 ---
 
 # Relationship Optionality
 
 Relationship optionality is [[vol-107-85hou-tiwen-95hou-ruguo-shiqing-bu-xuyao-zuo-xuanze-na-wo-jiu-zhuang-shiti-pangguan-llvntaqucnilovj19zoywrfdwzsa]]'s account of what happens when romance, marriage, and childbirth stop functioning as default life requirements. [[SiriQizhulou|Siri]] says she remains open to intimacy, but first applies a negative list around basic morality and then weighs whether the good in a relationship clearly exceeds the cost.
+
+[[chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723]] adds a playful dating-standard version. The speakers do not treat romance as mandatory; they ask what kind of partner would be worth choosing, then end with the practical advice to try relationships and friendships while protecting oneself. This links optionality to [[RelationshipNeedDiversification]] and to testing imagined standards against real social experience.
 
 The source's key distinction is reversibility. Dating and even marriage can be tried and exited more easily than childbirth, so the latter receives more caution. [[DavidWeng|大卫翁]] adds that once intimacy becomes optional rather than mandatory, its inconvenience, transaction cost, and downside become more visible.
 

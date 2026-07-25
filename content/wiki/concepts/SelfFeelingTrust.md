@@ -2,13 +2,15 @@
 title: "相信自己的感受 / Self-Feeling Trust"
 type: concept
 tags: [self-knowledge, reading, education, agency]
-sources: [187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166, 140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655]
-last_updated: 2026-07-24
+sources: [chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723, 187-wandou-gongzhu-gaomin-he-hundun-shi-ni-zhenming-999958166, 140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655]
+last_updated: 2026-07-25
 ---
 
 # 相信自己的感受 / Self-Feeling Trust
 
 Self-feeling trust is the source's countermeasure to always looking for the standard answer. In [[140-haikeyi-de-jin-nvshi-suoyi-ren-weishenme-yao-nuli-a-854173655]], [[Jinzi|金子]] describes reading the Neapolitan novels and wanting to confirm whether her feeling about a scene was "right"; a writer friend replies that the feeling a literary work gives the reader is already an answer.
+
+[[chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723]] adds a romantic self-knowledge version through [[XiaoShiHost|小时]]. Her discomfort with a partner's pointless concealment and her desire for someone who can receive direct truth show that felt unease in intimacy can be valid data, especially when it points toward [[SincerityAsRelationshipTrust]] rather than a demand for perfect sameness.
 
 The concept extends beyond literary interpretation. The episode uses the same habit to explain why people distrust their own response to hardship, rest, exercise, fashion, effort, and life choices. If education has trained a person to wait for the teacher's answer key, then adult self-direction requires learning to treat feeling as evidence without treating it as infallible.
 

@@ -2,13 +2,15 @@
 title: "Empathy Boundaries"
 type: concept
 tags: [empathy, boundaries, relationships, life-design]
-sources: [vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
-last_updated: 2026-07-15
+sources: [chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723, vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]
+last_updated: 2026-07-25
 ---
 
 # Empathy Boundaries
 
 Empathy boundaries is [[vol-102-aoguo-jiuye-bingheqi-de-riben-nianqingren-qu-nali-xunzhao-xingfugan-chuantai-qingdao-kuaima-lmpluij7rcfq49cxcyb65x3f7zfn]]'s way of separating understanding from unlimited acceptance. [[Dalaoshi|大老师]] argues that empathy means trying to understand why another person says something and what logic sits behind it, not becoming naive, self-erasing, or morally obligated to accept everything.
+
+[[chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723]] adds an intimate-support version. The speakers distinguish being stable from actually meeting the other person's emotional need: sometimes the needed response is shared anger or recognition rather than rational reassurance. That makes [[EmotionalCoRegulationFit]] a relationship-scale case of bounded empathy.
 
 The source uses gender conflict and online labeling as examples. If a person immediately tags the other side as extreme, the chance to understand the world and build relationships shrinks; if there is a deep values conflict, blocking, deleting, or leaving remains legitimate.
 
