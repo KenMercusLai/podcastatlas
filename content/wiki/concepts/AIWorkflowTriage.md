@@ -2,13 +2,15 @@
 title: "AI Workflow Triage"
 type: concept
 tags: [ai, workflow, enterprise-ai, operations]
-sources: [tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u]
-last_updated: 2026-07-24
+sources: [tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128, tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u]
+last_updated: 2026-07-25
 ---
 
 # AI Workflow Triage
 
 AI workflow triage is the implementation discipline of decomposing a business process before deciding where AI belongs. In [[e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde]], [[Oliver]] describes [[InvisibleTechnologies]] breaking workflows into steps and deciding which should be deterministic, which can use AI, and which require human review. The concept keeps [[AgenticWorkflow]] grounded in operating reality: not every step benefits from probabilistic generation or agent judgment.
+
+[[tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128]] adds a compact public-radio version through [[ChristopherMims]]. His "assembly-line robot" analogy says AI should be assigned basic, repeatable work it can do reliably. The source's examples include sales-call evaluation, [[Clorox]]'s [[HiddenValleyRanch]] ad variants, and AI-supported brainstorming with [[MicrosoftCopilot|Microsoft Copilot]].
 
 [[ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u]] adds the demand-clarification stage before triage. The episode says enterprise customers may only know that they have data and want AI, so [[ForwardDeployedEngineer]] work has to translate that impulse into concrete goals such as lower refund rates, lower complaint rates, or redesigned customer-service flows before any model or agent choice is meaningful.
 
@@ -20,6 +22,7 @@ AI workflow triage is the implementation discipline of decomposing a business pr
 
 ## Key Claims
 - Good AI deployment starts with a workflow map rather than a model demo.
+- Mims' assembly-line analogy adds a practical test: if the task cannot be made repeatable, inspectable, and attached to a real workflow, AI may not produce reliable productivity.
 - In early enterprise AI adoption, triage may begin by converting vague executive interest into an explicit operating metric or workflow target.
 - Deterministic steps such as account reconciliation or arithmetic should use hard-coded systems, math, or system-of-record data when exactness is required.
 - AI-suitable steps often involve language, search, synthesis, recommendation, customer context, or unstructured document handling.
@@ -38,3 +41,4 @@ AI workflow triage is the implementation discipline of decomposing a business pr
 - [[Casetext]], [[CoCounsel|Co-Counsel]], [[VerticalWorkflowAI]], and [[FrontierModelInflectionPivot]] - legal AI product-strategy case.
 - [[NewsroomAIAdoption]], [[AIRewriteDesk]], [[AIWrittenJournalism]], [[ThePlainDealer]], and [[AIJournalismTrust]] - newsroom workflow-boundary case.
 - [[CBHHomes]], [[RhondaConger]], [[HomebuildingAIOperations]], and [[CustomerSupportAutomation]] - homebuilding workflow-boundary case.
+- [[ChristopherMims]], [[Clorox]], [[HiddenValleyRanch]], [[MicrosoftCopilot|Microsoft Copilot]], and [[AIGeneratedAdvertising]] - bounded workplace and CPG-marketing examples.

@@ -4895,3 +4895,7 @@ Added source page for a Marketplace Tech episode with Paul Vixie on dot-com fibe
 ## [2026-07-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-25] ingest | Making AI work - for work
+
+Added source page for a Marketplace Tech episode with Christopher Mims on making AI work inside organizations, workflow redesign, sales-call coaching, Clorox's Hidden Valley Ranch ad variants, Microsoft Copilot brainstorming, invisible classical AI, and labor-market disruption risk. Created pages for Clorox, Hidden Valley Ranch, Microsoft Copilot, and Invisible Classical AI; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Christopher Mims, How to AI, Business-Led AI Transformation, AI Workflow Triage, AI Economic Diffusion, and AI-Generated Advertising. No direct contradiction found; the source extends the previous How to AI assistant frame into organization-wide change management and qualifies productivity optimism by warning that AI gains may be used to justify layoffs or flat headcount.

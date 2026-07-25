@@ -2,13 +2,15 @@
 title: "AI Economic Diffusion"
 type: concept
 tags: [ai, productivity, organizations, economics]
-sources: [live-anthropic-co-founder-on-ai-and-jobs, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
-last_updated: 2026-07-24
+sources: [live-anthropic-co-founder-on-ai-and-jobs, tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 136-quanqiu-da-moxing-jibao-di-9-ji-he-guang-miliao-coding-shi-agi-di-er-mu-guigu-yusanjia-zhenxiang-moxing-zheng-chengwei-xin-yidai-os-lh-cqyoss-dztmyb5kmbjapa6w9v, 142-yusen-de-chuangtou-guancha-di-2-ji-harness-xia-yige-zijie-2026-da-jihui-he-stanley-druckenmiller-lg4sphlaunrjuulqraxs-1gc5ufz, 141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]
+last_updated: 2026-07-25
 ---
 
 # AI Economic Diffusion
 
 [[live-anthropic-co-founder-on-ai-and-jobs]] adds [[JackClark]]'s sharper labor-capacity forecast. Clark predicts that by April 2027, AI systems may be able to complete tasks that would take a person roughly 150 hours, including research, circuit design, source synthesis, and software building. The source therefore pushes the diffusion question beyond firm workflow redesign into [[AIAutomationRedistribution]]: who captures the gains if long knowledge tasks become machine-executable?
+
+[[tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128]] adds a workplace measurement warning through [[ChristopherMims]]. Bosses may believe AI saves more worker time than employees experience, so the diffusion gap is not only technical; it is also managerial, perceptual, and tied to whether workflows actually change.
 
 AI economic diffusion is the gap between model capability reaching the market and businesses reorganizing enough to convert that capability into productivity, revenue, or lower cost. In [[141-freda-de-touzi-zhaji-di-2-ji-tokenmaxxing-ba-dianji-sai-jin-zhengqiji-jielisai-bian-lanqiusai-gudu-ren-de-lianjie-lmeczs2jtkze79rkpvm-rc5yw22m]], [[Freda]] borrows a distinction between technology diffusion and economic diffusion: models may improve quickly, but firms still need to redesign workflows, data capture, software architecture, roles, and incentives.
 
@@ -22,6 +24,7 @@ The episode's electric-motor metaphor connects this to [[TechnologyInstallationC
 
 ## Key Claims
 - Technical diffusion happens when model capability becomes available; economic diffusion happens when organizations absorb it into operating systems.
+- Executive belief that AI should save time is not the same as measured worker experience or business value.
 - AI can initially be bolted onto existing CRM, ERP, sales, coding, or support workflows without changing the underlying process.
 - The productivity payoff requires redesigning handoffs, review loops, data records, permissions, and accountability.
 - [[AgentNativeSoftware]] is one route to economic diffusion because agents need systems designed for persistent, real-time, callable work.
@@ -42,3 +45,4 @@ The episode's electric-motor metaphor connects this to [[TechnologyInstallationC
 - [[AGIThreeActs]], [[ModelAsOperatingSystem]], [[IntelligenceDevaluation]], and [[HumanResourceDeflationComputeInfrastructureInflation]] — episode 136's faster-diffusion and labor-repricing scenario.
 - [[ClaudeTag]], [[RecordAndReplay]], [[EnterpriseOwnedModels]], and [[VoiceInteraction]] — Q2 2026 diffusion channels added by LateTalk.
 - [[JackClark]], [[Anthropic]], [[Claude]], and [[AIAutomationRedistribution]] - long-task forecast and redistribution branch added by Planet Money.
+- [[ChristopherMims]], [[BusinessLedAITransformation]], and [[AIWorkflowTriage]] - workplace adoption and productivity-perception branch added by Marketplace Tech.

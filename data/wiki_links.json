@@ -5243,6 +5243,10 @@
     "title": "Clipto AI",
     "url": "/wiki/entities/cliptoai/"
   },
+  "Clorox": {
+    "title": "Clorox",
+    "url": "/wiki/entities/clorox/"
+  },
   "ClosedCircleMystery": {
     "title": "暴风雪山庄 / Closed-Circle Mystery",
     "url": "/wiki/concepts/closedcirclemystery/"
@@ -10695,6 +10699,10 @@
     "title": "HiSilicon",
     "url": "/wiki/entities/hisilicon/"
   },
+  "HiddenValleyRanch": {
+    "title": "Hidden Valley Ranch",
+    "url": "/wiki/entities/hiddenvalleyranch/"
+  },
   "HighBandwidthFlash": {
     "title": "High Bandwidth Flash",
     "url": "/wiki/concepts/highbandwidthflash/"
@@ -11770,6 +11778,10 @@
   "InvestorSuitabilityFriction": {
     "title": "Investor Suitability Friction",
     "url": "/wiki/concepts/investorsuitabilityfriction/"
+  },
+  "InvisibleClassicalAI": {
+    "title": "Invisible Classical AI",
+    "url": "/wiki/concepts/invisibleclassicalai/"
   },
   "InvisibleManHGWells": {
     "title": "The Invisible Man / 《隐身人》",
@@ -15306,6 +15318,10 @@
   "Microsoft": {
     "title": "Microsoft",
     "url": "/wiki/entities/microsoft/"
+  },
+  "MicrosoftCopilot": {
+    "title": "Microsoft Copilot",
+    "url": "/wiki/entities/microsoftcopilot/"
   },
   "MicrosoftExcel": {
     "title": "Microsoft Excel",
@@ -26530,6 +26546,10 @@
   "tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128": {
     "title": "Making the most of AI, without the hype",
     "url": "/wiki/sources/tech-20260202-0202-mp-tech-pod-128-tech-20260202-0202-mp-tech-pod-128/"
+  },
+  "tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128": {
+    "title": "Making AI work - for work",
+    "url": "/wiki/sources/tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128/"
   },
   "tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128": {
     "title": "Is social media addictive? And are social media companies liable?",
