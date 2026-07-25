@@ -4896,6 +4896,10 @@ Added source page for a Marketplace Tech episode with Paul Vixie on dot-com fibe
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-25] ingest | Too much AI in the office is causing "brain fry"
+
+Added source page for a Marketplace Tech episode with Matt Krop of BCG on AI brain fry, cognitive exhaustion from supervising AI tools, morale and retention risks, automating repetitive toil, redesigning work end-to-end, and recovery strategies for AI-heavy workflows. Created pages for Matt Krop and AI Brain Fry; updated overview, index, Marketplace Tech, Stephanie Hughes, BCG, AI Managing AI, Agentic Workflow, AI Use Pacing, AI Workflow Triage, Business-Led AI Transformation, and Human Judgment Under AI. No direct contradiction found; the source qualifies agentic-workflow and AI-management optimism by showing that faster parallel AI output can increase human cognitive load unless work is redesigned around task fit, review capacity, and recovery time.
+
 ## [2026-07-25] ingest | Making AI work - for work
 
 Added source page for a Marketplace Tech episode with Christopher Mims on making AI work inside organizations, workflow redesign, sales-call coaching, Clorox's Hidden Valley Ranch ad variants, Microsoft Copilot brainstorming, invisible classical AI, and labor-market disruption risk. Created pages for Clorox, Hidden Valley Ranch, Microsoft Copilot, and Invisible Classical AI; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Christopher Mims, How to AI, Business-Led AI Transformation, AI Workflow Triage, AI Economic Diffusion, and AI-Generated Advertising. No direct contradiction found; the source extends the previous How to AI assistant frame into organization-wide change management and qualifies productivity optimism by warning that AI gains may be used to justify layoffs or flat headcount.
@@ -4914,4 +4918,4 @@ Added source page for a Marketplace Tech episode with Nola Agha on Major League 
 
 ## [2026-07-25] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran lint after health passed. Health found no empty/stub files, index drift, or source-log coverage gaps across 6,817 wiki pages. Deterministic lint scanned 6,817 pages and found two orphan pages (`wiki/concepts/DoubtAsIntelligence.md` and `wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-07-24 with 6,453 nodes while lint scanned 6,817 pages, so graph findings are advisory until `build graph` refreshes it; they found no hub stubs, three fragile bridges, and no isolated communities. Semantic lint via LiteLLM failed because `LLM_MODEL` resolves to `claude-3-5-sonnet-latest` without a provider prefix; a bounded in-session semantic review of recent sources, orphan pages, and fragile-bridge endpoints found no direct contradictions or stale summaries. Report returned in-session; `wiki/lint-report.md` was not saved.

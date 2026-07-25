@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Too much AI in the office is causing "brain fry"](sources/tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128.md) — Marketplace Tech episode with Matt Krop of BCG on AI brain fry, cognitive exhaustion from supervising AI tools, morale risk, AI use pacing, and work redesign around repetitive toil rather than high-cognitive oversight.
 - [MLB brings automated ball-strike tech to the Big Leagues](sources/tech-20260330-0330-mp-tech-pod-128-tech-20260330-0330-mp-tech-pod-128.md) — Marketplace Tech episode on MLB's Automated Ball Strike Challenge System, Hawkeye tracking, strike-zone calibration, umpire fallback, fan trust, and sports officiating automation.
 - [What AI fitness apps can and can't do - for now](sources/tech-20260204-0204-mp-tech-pod-128-tech-20260204-0204-mp-tech-pod-128.md) — Marketplace Tech episode with Nicole Nguyen on Apple Workout Buddy, Fitbit's AI health coach, Peloton's camera-based form correction, AI fitness cost, hallucinations, accountability, and nutrition-tracking next steps.
 - [How we got free agents in baseball](sources/how-we-got-free-agents-in-baseball.md) — Planet Money episode on Curt Flood, MLB's reserve clause, baseball's antitrust exemption, labor monopsony, public-opinion litigation, arbitration, and the rise of free agency.
@@ -613,6 +614,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Matt Krop](entities/MattKrop.md) — BCG managing director and senior partner explaining AI brain fry, workplace AI supervision fatigue, and work redesign around toil versus high-cognitive oversight.
 - [Nola Agha](entities/NolaAgha.md) — University of San Francisco sports management professor explaining MLB's ABS challenge system and baseball strike-zone automation.
 - [University of San Francisco](entities/UniversityOfSanFrancisco.md) — Academic affiliation for Nola Agha in the Marketplace Tech episode on MLB ball-strike automation.
 - [Hawkeye](entities/Hawkeye.md) — Sports tracking company used by MLB in the ABS ball-tracking and strike-zone calibration branch.
@@ -3871,7 +3873,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Antler](entities/Antler.md) — Startup program where Peak AI's founding team formed and secured early funding.
 - [AirJelly](entities/AirJelly.md) — Proactive context-aware personal-agent startup using intent-triggered screen context, memory, and execution ability.
 - [Atoom](entities/Atoom.md) — Attention-aware interface prototype from the Xiaohongshu hackathon that dynamically reorganizes web pages around what the user should focus on.
-- [BCG](entities/BCG.md) — Consulting company referenced through Rolling AI partners' background and as contrast for AI-era agent delivery.
+- [BCG](entities/BCG.md) — Consulting company referenced through Rolling AI partners' background and through Matt Krop's Marketplace Tech discussion of AI brain fry and work redesign.
 - [Baijian](entities/Baijian.md) — Bairong Intelligence professional-service platform that gives experts digital employees, office systems, AI drafts, and human sign-off workflows.
 - [Baidu](entities/Baidu.md) — Chinese search and AI company discussed through search-ad decline, open-web traffic loss, Wenxin, Qunar, and the Wei Zexi medical-search trust crisis.
 - [Bairong Intelligence](entities/BairongIntelligence.md) — Enterprise AI company using and selling digital employees through AI staffing, AI BPO, professional-service platforms, and silicon-carbon governance.
@@ -4148,6 +4150,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Brain Fry](concepts/AIBrainFry.md) — Cognitive exhaustion from supervising AI tools, especially when fast parallel agents turn workers into constant high-cognitive reviewers.
 - [Baseball Strike-Zone Automation](concepts/BaseballStrikeZoneAutomation.md) — Translation of baseball's strike zone into camera tracking, player-specific calibration, and review procedure.
 - [Sports Officiating Automation](concepts/SportsOfficiatingAutomation.md) — Use of tracking, replay, and review systems to improve sports officiating credibility while preserving or redefining human authority.
 - [AI Fitness Coaching](concepts/AIFitnessCoaching.md) — Consumer wellness pattern where AI plans, adapts, motivates, and sometimes observes workouts without fully replacing human coaching.

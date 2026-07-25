@@ -835,6 +835,10 @@
     "title": "AI Backlash Politics",
     "url": "/wiki/concepts/aibacklashpolitics/"
   },
+  "AIBrainFry": {
+    "title": "AI Brain Fry",
+    "url": "/wiki/concepts/aibrainfry/"
+  },
   "AIBubbleHedging": {
     "title": "AI Bubble Hedging",
     "url": "/wiki/concepts/aibubblehedging/"
@@ -14931,6 +14935,10 @@
     "title": "Matt Jacobs",
     "url": "/wiki/entities/mattjacobs/"
   },
+  "MattKrop": {
+    "title": "Matt Krop",
+    "url": "/wiki/entities/mattkrop/"
+  },
   "MattLeeds": {
     "title": "Matt Leeds",
     "url": "/wiki/entities/mattleeds/"
@@ -26762,6 +26770,10 @@
   "tech-20260330-0330-mp-tech-pod-128-tech-20260330-0330-mp-tech-pod-128": {
     "title": "MLB brings automated ball-strike tech to the Big Leagues",
     "url": "/wiki/sources/tech-20260330-0330-mp-tech-pod-128-tech-20260330-0330-mp-tech-pod-128/"
+  },
+  "tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128": {
+    "title": "Too much AI in the office is causing \\\"brain fry\\\"",
+    "url": "/wiki/sources/tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128/"
   },
   "tech-20260710-tech-pod-128-tech-20260710-tech-pod-128": {
     "title": "OpenAI's GPT-5.6 release raises questions about White House control over new models",

@@ -2,7 +2,7 @@
 title: "AI Workflow Triage"
 type: concept
 tags: [ai, workflow, enterprise-ai, operations]
-sources: [tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128, tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u]
+sources: [tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128, tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128, tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128, tech-20260311-0311-mp-tech-pod-128-tech-20260311-0311-mp-tech-pod-128, tsr-ycoffsite-jakeheller-audioonly-v1final-tsr-ycoffsite-jakeheller-audioonly-v1final, e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde, ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u]
 last_updated: 2026-07-25
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-25
 AI workflow triage is the implementation discipline of decomposing a business process before deciding where AI belongs. In [[e240-openai-lianshou-pe-zaxia-40-yi-meiyuan-liaoliao-guigu-zuihuo-xin-zhiwei-fde]], [[Oliver]] describes [[InvisibleTechnologies]] breaking workflows into steps and deciding which should be deterministic, which can use AI, and which require human review. The concept keeps [[AgenticWorkflow]] grounded in operating reality: not every step benefits from probabilistic generation or agent judgment.
 
 [[tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128]] adds a compact public-radio version through [[ChristopherMims]]. His "assembly-line robot" analogy says AI should be assigned basic, repeatable work it can do reliably. The source's examples include sales-call evaluation, [[Clorox]]'s [[HiddenValleyRanch]] ad variants, and AI-supported brainstorming with [[MicrosoftCopilot|Microsoft Copilot]].
+
+[[tech-20260331-0331-mp-tech-pod-128-tech-20260331-0331-mp-tech-pod-128]] adds a cognitive-load criterion through [[MattKrop]] of [[BCG]]. The source says AI improves morale when it handles mundane, repetitive toil, but can cause [[AIBrainFry]] when applied heavily to high-cognitive tasks that require constant human monitoring.
 
 [[ep128-cong-palantir-dao-openai-fde-hui-chengwei-ai-shidai-zui-zhongyao-de-xin-gangwei-ltozkutz-gvff4xu-feyzflhvz2u]] adds the demand-clarification stage before triage. The episode says enterprise customers may only know that they have data and want AI, so [[ForwardDeployedEngineer]] work has to translate that impulse into concrete goals such as lower refund rates, lower complaint rates, or redesigned customer-service flows before any model or agent choice is meaningful.
 
@@ -31,6 +33,7 @@ AI workflow triage is the implementation discipline of decomposing a business pr
 - In a [[FrontierModelInflectionPivot]], workflow triage can be a founder-level decision tool rather than only an implementation method.
 - Newsroom triage should distinguish evidence-gathering and signal-finding from published writing, because the latter carries authorship, trust, and public accountability.
 - Homebuilding triage separates routine sales and warranty communication from high-trust buyer conversations, urgent customer issues, and escalation ownership.
+- Triage should include cognitive load: a task may be technically automatable but still unsuitable if AI turns the worker into a constant high-stakes reviewer.
 
 ## Connections
 - [[InvisibleTechnologies]] and [[Oliver]] — source company and speaker.
@@ -42,3 +45,4 @@ AI workflow triage is the implementation discipline of decomposing a business pr
 - [[NewsroomAIAdoption]], [[AIRewriteDesk]], [[AIWrittenJournalism]], [[ThePlainDealer]], and [[AIJournalismTrust]] - newsroom workflow-boundary case.
 - [[CBHHomes]], [[RhondaConger]], [[HomebuildingAIOperations]], and [[CustomerSupportAutomation]] - homebuilding workflow-boundary case.
 - [[ChristopherMims]], [[Clorox]], [[HiddenValleyRanch]], [[MicrosoftCopilot|Microsoft Copilot]], and [[AIGeneratedAdvertising]] - bounded workplace and CPG-marketing examples.
+- [[MattKrop]], [[BCG]], and [[AIBrainFry]] - cognitive-exhaustion criterion added by Marketplace Tech.
