@@ -39,7 +39,7 @@ This short [[MihuanChishu|蜜獾吃书]] interval is a status update rather than
 - [[PodcastAsAsynchronousMedia]] - broader media frame for how informal updates and listener feedback maintain show continuity.
 - [[BereavementGriefWork]] and [[GriefCompanionSupport]] - prior episode branch that explains why listener responses to grief are foregrounded here.
 - [[NatureContactSelfPerception]] and [[ReadingAsLifeExperience]] - adjacent concepts for how Dali's environment becomes part of the hosts' intellectual and emotional working conditions.
-- [[AngelaCarter|Angela Carter]], [[HuangyeShangDeDashi|《荒野上的大师》]], [[ZhangQuan|张全]], [[SamuraiWilliam|《武士威廉》]], [[Nioh|《仁王》]], [[TuLiBuTuQi|《土里不吐气》]], and [[NewMigrantLiterature|新移民文学]] - previewed future reading or discussion leads.
+- [[AngelaCarter|Angela Carter]], [[HuangyeShangDeDashi|《荒野上的大师》]], [[ZhangQuan|张泉]], [[SamuraiWilliam|《武士威廉》]], [[Nioh|《仁王》]], [[TuLiBuTuQi|《土里不吐气》]], and [[NewMigrantLiterature|新移民文学]] - previewed future reading or discussion leads.
 
 ## Contradictions
 - No direct contradiction found. The source extends existing Dali, pacing, and reading-list pages; all previewed books and authors are stored as program leads rather than as full source claims.

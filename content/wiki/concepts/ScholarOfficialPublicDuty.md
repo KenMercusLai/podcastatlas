@@ -2,7 +2,7 @@
 title: "Scholar-Official Public Duty / 士大夫公共责任"
 type: concept
 tags: [governance, literature, china, song-dynasty, ethics]
-sources: [105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]
+sources: [105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]
 last_updated: 2026-07-24
 ---
 
@@ -12,14 +12,19 @@ Scholar-official public duty is the episode's frame for holding [[SuShi|苏轼]]
 
 The source gives this duty several forms: early memorials about Sichuan people's tax burdens, criticism of damaging reform implementation, flood response in [[Xuzhou|徐州]], water work and public health in [[Hangzhou|杭州]], bridge and burial work in [[Huizhou|惠州]], and education or presence in [[Danzhou|儋州]]. The concept therefore links classical literary reading to local statecraft.
 
+[[19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]] adds a modern academic version. [[HuShi|胡适]], [[DingWenjiang|丁文江]], [[FuSinian|傅斯年]], and 翁文灏 show the dilemma of scholars who want to preserve research but are pulled toward diplomacy, administration, public criticism, or government service under national crisis.
+
 ## Key Claims
 - Literary talent in a scholar-official setting can become public action, not only private expression.
 - Good government appears in mundane work: water, food, medicine, records, bridges, and relief.
 - A public intellectual's courage is tested by whether writing remains answerable to vulnerable people.
 - Local service can preserve moral agency even after central political defeat.
+- In modern crisis, public duty can protect institutions while also consuming the scholar's own research life.
 
 ## Connections
 - [[SuShi|苏轼 / 苏东坡]], [[Hangzhou|杭州]], [[Xuzhou|徐州]], [[Huizhou|惠州]], and [[Danzhou|儋州]] - source examples.
 - [[LocalGovernanceAsCare]] - practical-governance companion concept.
 - [[ConscienceOverFaction]] and [[EarnedOptimism]] - ethical and resilience frames.
 - [[ClassicReadingComplexity]] and [[NonInstrumentalLiteraryReading]] - literary-reading context.
+- [[HuShi|胡适]], [[DingWenjiang|丁文江]], and [[FuSinian|傅斯年]] - episode 19's modern scholar-public-duty cases.
+- [[ScholarshipInWartime]] and [[ModernChineseAcademicInstitutionBuilding]] - institutional crisis context.

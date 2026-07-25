@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [19.荒野上的大师：“我辈于乱世求研究，本为逆流之妄举”](sources/19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437.md) — 蜜獾吃书 live conversation with 张泉 on 《荒野上的大师》, modern Chinese academic institutions, fieldwork, wartime scholarship, Liang Sicheng, Ding Wenjiang, Zhao Yuanren, and Fu Sinian.
 - [18.如何识别、逃离并避免成为《精神吸血鬼》](sources/18-ruhe-shibie-taoli-bing-bimian-chengwei-jingshen-xixuegui-563629000.md) — 蜜獾吃书 episode using 《精神吸血鬼》 to discuss attention and emotional-energy extraction, self-blame, guilt control, relational isolation, workplace/family manipulation, and rebuilding one's own emotional capacity.
 - [开天窗：摸鱼+感谢+吹大理](sources/kaitianchuang-moyu-ganxie-chui-dali-553650149.md) — 蜜獾吃书 short update on cross-province moving, listener thanks, Dali air/stars/moonrise, and future leads around Angela Carter, 《荒野上的大师》, 《武士威廉》, 《土里不吐气》, and 新移民文学.
 - [13.悲伤的力量：谈谈丧亲之痛](sources/13-beishang-de-liliang-tantan-sangqin-zhitong-551507792.md) — 蜜獾吃书 episode using Julia Samuel's 《悲伤的力量》 to discuss bereavement, childhood death communication, grief companionship, professional counseling, trauma narrative integration, and QinZong's childhood mother-loss experience.
@@ -646,8 +647,27 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《精神吸血鬼》](entities/JingshenXixueguiBook.md) — French-psychiatry book frame used by 蜜獾吃书 to discuss psychic-vampire relationships and exit strategies.
 - [Rene Spitz / 史匹茨](entities/ReneSpitz.md) — child-development reference cited by episode 18 on the importance of emotional nourishment and bodily contact.
 - [Angela Carter / 安吉拉·卡特](entities/AngelaCarter.md) — author stored as a source-scoped future topic preview from a 蜜獾吃书 moving-status episode.
-- [张全](entities/ZhangQuan.md) — author linked to the previewed book 《荒野上的大师》 and a possible future 蜜獾吃书 guest/live branch.
-- [《荒野上的大师》](entities/HuangyeShangDeDashi.md) — source-scoped reading preview associated with 张全.
+- [张泉](entities/ZhangQuan.md) — author of 《荒野上的大师》 and 蜜獾吃书 guest discussing modern Chinese academic institutions, fieldwork, and wartime scholarship.
+- [《荒野上的大师》](entities/HuangyeShangDeDashi.md) — nonfiction book about modern Chinese scholarly founders and the institutions, methods, and wartime conditions behind their work.
+- [梁思成](entities/LiangSicheng.md) — architect-scholar presented through Chinese architectural-history fieldwork, 中国营造学社, wartime funding, and the late 鉴真纪念堂 design.
+- [林徽因](entities/LinHuiyin.md) — architect and writer connected to Liang Sicheng, 中国营造学社, field surveys, and the correction of gossip-centered reception.
+- [丁文江](entities/DingWenjiang.md) — geologist and institution builder tied to 地质研究所, field survey, 徐霞客's recovery, and modern Chinese geology.
+- [徐霞客](entities/XuXiake.md) — earlier traveler-scholar reread by Ding Wenjiang as a knowledge seeker and fieldwork ancestor.
+- [赵元任](entities/ZhaoYuanren.md) — linguist and polymath whose dialect recording work makes language research a field practice.
+- [傅斯年](entities/FuSinian.md) — historian and institution builder associated with 史语所, 殷墟, public criticism, and Taiwan University administration.
+- [梁启超](entities/LiangQichao.md) — intellectual whose letters and late scholarship frame breadth, family education, and modern scholarly formation.
+- [王国维](entities/WangGuowei.md) — Qinghua scholar whose death and memorialization anchor the episode's academic-independence branch.
+- [陈寅恪](entities/ChenYinke.md) — historian connected to defending 清华国学研究院 and the source's free-thought language.
+- [胡适](entities/HuShi.md) — modern intellectual used by the episode to show practical study, diplomacy, and the scholarship-public-duty dilemma.
+- [裴文中](entities/PeiWenzhong.md) — Zhoukoudian fieldworker associated with the first Peking Man skull discovery.
+- [钱理群](entities/QianLiqun.md) — scholar used in the episode's closing frame on constrained circumstances and spiritual freedom.
+- [地质研究所 / 地质调查所](entities/GeologicalResearchInstitute.md) — modern Chinese geology institutions linked to Ding Wenjiang, field survey, training, and Zhoukoudian.
+- [清华国学研究院](entities/TsinghuaGuoxueInstitute.md) — Qinghua institution joining classical learning, modern method, and academic independence.
+- [历史语言研究所 / 史语所](entities/InstituteOfHistoryAndPhilology.md) — institution connected to Fu Sinian, Yinxu archaeology, language research, and modern humanities infrastructure.
+- [中国营造学社](entities/SocietyForResearchInChineseArchitecture.md) — architectural-history institution tied to Liang Sicheng, Lin Huiyin, building surveys, and wartime survival.
+- [周口店](entities/Zhoukoudian.md) — Peking Man site used by the episode to connect geology, paleontology, field persistence, and wartime evidence loss.
+- [殷墟](entities/Yinxu.md) — Anyang archaeological site tied to 史语所 and modern evidence for early Chinese civilization.
+- [西南联大](entities/SouthwestAssociatedUniversity.md) — wartime university and memory site illustrating improvised teaching, architectural constraint, and historical forgetting.
 - [《武士威廉》](entities/SamuraiWilliam.md) — source-scoped history-book preview connected to the historical prototype behind 《仁王》.
 - [《仁王》 / Nioh](entities/Nioh.md) — game reference used as a cross-media hook for the previewed 《武士威廉》 discussion.
 - [《土里不吐气》](entities/TuLiBuTuQi.md) — source-scoped book preview about a city-to-countryside couple farming with biology/ecology backgrounds.
@@ -4329,6 +4349,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Fieldwork As Knowledge Method / 田野作为知识方法](concepts/FieldworkAsKnowledgeMethod.md) — Modern scholarship method where walking, measuring, excavating, recording, and comparing field evidence correct desk-bound inference.
+- [Scholarship In Wartime / 乱世求研究](concepts/ScholarshipInWartime.md) — Research that continues under war, displacement, poverty, damaged infrastructure, and political pressure.
+- [Modern Chinese Academic Institution Building / 中国现代学术制度建设](concepts/ModernChineseAcademicInstitutionBuilding.md) — Training, funding, laboratories, surveys, publications, and organizations as scholarly achievement.
+- [Cosmopolitan Chinese Scholarship / 世界主义的中国学术](concepts/CosmopolitanChineseScholarship.md) — Modern Chinese scholarship that uses international methods and collaborators to study Chinese land, language, buildings, and antiquity.
+- [Spiritual Freedom Under Constraint / 受限处境中的精神自由](concepts/SpiritualFreedomUnderConstraint.md) — Practice of sustaining thought, reading, conversation, and future imagination when external conditions are narrow.
 - [Psychic Vampire Personality / 精神吸血鬼人格](concepts/PsychicVampirePersonality.md) — Relationship pattern where one person repeatedly drains attention, reassurance, labor, guilt, and self-trust from others.
 - [Emotional Energy Extraction / 情绪能量掠夺](concepts/EmotionalEnergyExtraction.md) — Nonliteral attention-and-emotion resource drain described by the 精神吸血鬼 episode.
 - [Guilt-Based Relational Control / 内疚式关系控制](concepts/GuiltBasedRelationalControl.md) — Use of gratitude, family duty, sacrifice, or weakness to override another person's boundaries.

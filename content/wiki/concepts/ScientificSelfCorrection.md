@@ -2,7 +2,7 @@
 title: "Scientific Self-Correction"
 type: concept
 tags: [science, evidence, correction, authority]
-sources: [dont-hate-the-replicator-hate-the-game, 123-renxing-shiyan-dangxin-ni-ziji-779479569, 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368]
+sources: [dont-hate-the-replicator-hate-the-game, 123-renxing-shiyan-dangxin-ni-ziji-779479569, 68-fengkuang-shiyan-shi-ai-zhe-gaisi-de-qiuzhiyu-664384549, 185-mogui-chumo-de-shijie-guanyu-yinmoulun-ufo-waixingren-bangjia-an-maitianquan-x-dangan-jiemi-ri-996181368, 19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]
 last_updated: 2026-07-24
 ---
 
@@ -18,6 +18,8 @@ The concept does not mean scientists are always virtuous. [[TrofimLysenko|Trofim
 
 [[dont-hate-the-replicator-hate-the-game]] adds the reproducibility-institution version. The episode treats [[ReplicationPackage|replication packages]], [[Preregistration]], [[RobustnessChecks]], and [[CrowdsourcedAcademicAuditing]] as ways to make correction more likely, while warning that self-correction is weak if no one actually checks the code, data, or analytical choices.
 
+[[19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437]] adds a historical-institution version through modern Chinese geology, archaeology, architecture, and linguistics. The source's emphasis on field survey, excavation, measurement, and recording shows self-correction before formal replication: scholars build methods that let buildings, stones, fossils, inscriptions, and speech samples correct inherited impressions.
+
 ## Key Claims
 - A scientific claim must be abandonable when evidence turns against it.
 - Great scientists do not own truth; later evidence can correct Newton, Einstein, or any other authority.
@@ -25,6 +27,7 @@ The concept does not mean scientists are always virtuous. [[TrofimLysenko|Trofim
 - The episode uses [[CTA102]] and pulsar discovery to show how restraint can convert a premature alien story into stronger natural knowledge.
 - [[ExperimentalFailureAsKnowledge]] names the source-68 pattern where failure or negative evidence becomes useful only through correction.
 - The replication-games source adds that self-correction also needs credible inspection odds, not only stated openness to correction.
+- Modern field disciplines can make correction possible by replacing reputation and inherited description with inspectable traces, instruments, and trained comparison.
 
 ## Connections
 - [[ScientificSkepticism]] - broader posture that makes correction possible.
@@ -35,3 +38,4 @@ The concept does not mean scientists are always virtuous. [[TrofimLysenko|Trofim
 - [[ExperimentalScienceEthics]], [[SelfExperimentation]], and [[ExperimentalFailureAsKnowledge]] - source-68 experiment extensions.
 - [[SocialPsychology]], [[HindsightBias]], and [[ExperimentalScienceEthics]] - source-123 social-experiment extension.
 - [[ReplicationCrisis]], [[InstituteForReplication]], [[ReplicationGames]], [[ReplicationPackage]], and [[ResearchIntegrityIncentives]] - reproducibility extension added by Planet Money.
+- [[FieldworkAsKnowledgeMethod]], [[GeologicalResearchInstitute|地质研究所/地质调查所]], [[Yinxu|殷墟]], and [[Zhoukoudian|周口店]] - historical field-institution extension added by episode 19.
