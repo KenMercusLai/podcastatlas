@@ -2,8 +2,8 @@
 title: "Pure Rationality Trap"
 type: concept
 tags: [philosophy, literature, politics, rationality]
-sources: [135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680]
-last_updated: 2026-07-24
+sources: [135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350, 104-ni-yisheng-de-gushi-zhongdian-yijing-zhuding-haiyao-chufa-ma-739384680, 09-atelasi-songsongjian-anlande-zhishi-shuangwen-zuojia-ma-543277898]
+last_updated: 2026-07-25
 ---
 
 # Pure Rationality Trap
@@ -18,6 +18,8 @@ The trap becomes visible through [[LemuelGulliver]]. After admiring the Houyhnhn
 
 [[135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670]] adds an [[AynRand|Ayn Rand / 安·兰德]] version through [[Objectivism|Objectivism / 客观主义]]. The source treats rational self-interest as potentially energizing, but warns that purified doctrine can become cruel or controlling when it cuts away ordinary love, jealousy, dependency, and responsibility.
 
+[[09-atelasi-songsongjian-anlande-zhishi-shuangwen-zuojia-ma-543277898]] deepens that Rand branch through [[TheFountainhead|The Fountainhead / 《源泉》]] and [[AtlasShrugged|Atlas Shrugged / 《阿特拉斯耸耸肩》]]. Here the trap is not that rational self-interest has no value; it is that allegorical heroes and [[CreatorParasiteMoralFrame]] can tempt readers to turn everyone around them into simplified creators, parasites, or moral blackmailers.
+
 ## Key Claims
 - Reason without human warmth can become another form of cruelty.
 - A society can be truthful, calm, and orderly while still lacking mercy and ordinary attachment.
@@ -26,6 +28,7 @@ The trap becomes visible through [[LemuelGulliver]]. After admiring the Houyhnhn
 - Corporate reason can become an idol when it turns people into managed roles while calling the system rational.
 - Rational breakthrough can also isolate the thinker when the discovered truth cannot be shared, lived with, or translated back into ordinary attachment.
 - Rational self-interest can become a trap when followers treat it as a complete life doctrine rather than one limited tool.
+- Rand's fiction can clarify moral courage while also tempting readers to mistake mythic certainty for ordinary social judgment.
 
 ## Connections
 - [[Houyhnhnms|慧骃]] - main fictional society.
@@ -36,4 +39,4 @@ The trap becomes visible through [[LemuelGulliver]]. After admiring the Houyhnhn
 - [[NonInstrumentalLiteraryReading]] - the concept depends on experiencing the fourth voyage's discomfort rather than extracting a simple moral.
 - [[PhilosophyWorkplaceSatire]] and [[CorporateTheologyCapitalControl]] - source-92 workplace extensions.
 - [[DivisionByZero|《除以零》]], [[UnderstandTedChiang|《领悟》]], and [[RationalWorldviewCollapse]] - source-104 extension into mathematical and consciousness crises.
-- [[AynRand]], [[Objectivism]], and [[IdeologicalTotalizationRisk]] - source-135 extension into rational self-interest as doctrine.
+- [[AynRand]], [[Objectivism]], [[TheFountainhead]], [[AtlasShrugged]], [[CreatorParasiteMoralFrame]], and [[IdeologicalTotalizationRisk]] - source-135 and source-09 extensions into rational self-interest as doctrine and literary myth.

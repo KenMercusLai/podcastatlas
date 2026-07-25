@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [09.阿特拉斯耸耸肩：安兰德只是爽文作家吗？](sources/09-atelasi-songsongjian-anlande-zhishi-shuangwen-zuojia-ma-543277898.md) — 蜜獾吃书 episode on Ayn Rand, 《源泉》, 《阿特拉斯耸耸肩》, creator/parasite moral drama, entrepreneur strike myth, anti-altruist moral coercion, and cautious reading of Objectivism.
 - [08.老妓抄：老妓不死，甚至不曾凋零](sources/08-laojichao-laoji-busi-shenzhi-buzeng-diaoling-541092994.md) — 蜜獾吃书 episode on 冈本加乃子's 《老妓抄》, her biography, Buddhist-inflected life force, subtle plot, gendered patronage inversion, and stories including 《鲤鱼》, 《蝙蝠》, 《仲夏夜之梦》, 《老妓抄》, 《五妓》, 《寿司》, and 《东海道》.
 - [07.用荣格理论分析《小王子》 永恒少年及其他](sources/07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165.md) — 蜜獾吃书 episode rereading 《小王子》 through Jungian psychology, eternal-youth psychology, Saint-Exupery biography, the rose/fox/snake symbols, death escape, relational responsibility, and statistics versus concrete life.
 - [06.搜神记： 二十四孝这口锅，干宝不背](sources/06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044.md) — 蜜獾吃书 episode rereading 《搜神记》 as a mixed zhiguai archive, separating 干宝's source collection from later 《二十四孝》 moralization while tracking Li Ji, Jiang Ziwen, omens, spirits, and story motifs.
@@ -1099,6 +1100,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Being and Nothingness / 《存在与虚无》](entities/BeingAndNothingness.md) — Sartre work named by episode 135 in the occupation-era existentialism branch.
 - [No Exit / 《禁闭》](entities/NoExit.md) — Sartre play named by episode 135 in the occupation-era cultural-success branch.
 - [Ayn Rand / 安·兰德](entities/AynRand.md) — Writer and Objectivism figure discussed by episode 135 through rational self-interest, capitalism, political symbolism, and doctrine-practice contradiction.
+- [The Fountainhead / 《源泉》](entities/TheFountainhead.md) — Ayn Rand novel read by episode 09 as a mythic conflict between independent creation, social imitation, and moralized power over creators.
+- [Atlas Shrugged / 《阿特拉斯耸耸肩》](entities/AtlasShrugged.md) — Ayn Rand novel read by episode 09 as a capitalist-strike fable about creators withdrawing from a society that consumes and punishes them.
 - [Nathaniel Branden / 纳撒尼尔·布兰登](entities/NathanielBranden.md) — Ayn Rand disciple and lover used by episode 135 to show a free-love and movement-orthodoxy contradiction.
 - [《查令十字街84号》 / 84 Charing Cross Road](entities/EightyFourCharingCrossRoad.md) — Real-letter book used by episode 134 to examine old-book love, cross-Atlantic trust, epistolary friendship, and the limits of calling the relationship romance.
 - [Helene Hanff / 海莲·汉芙](entities/HeleneHanff.md) — American writer and central letter-writer whose old-book requests, wit, parcels, and deferred London visit anchor episode 134.
@@ -4617,6 +4620,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wild-Animal Rescue Responsibility](concepts/WildAnimalRescueResponsibility.md) — Ethical problem that begins after intervening in a wild animal's crisis, including cleaning, feeding, release, captivity, and species-specific needs.
 - [Oil-Pollution Wildlife Harm](concepts/OilPollutionWildlifeHarm.md) — Ecological externality frame where crude oil reaches vulnerable wildlife bodies, illustrated by episode 138's Magellanic penguin beach scene.
 - [Objectivism / 客观主义](concepts/Objectivism.md) — Ayn Rand doctrine of rational self-interest and radical individualism treated by episode 135 as motivating but dangerous when totalized.
+- [Creator-Parasite Moral Frame / 创造者-寄生者框架](concepts/CreatorParasiteMoralFrame.md) — Rand fiction frame from episode 09 separating value creators from imitators, moral blackmailers, and institutional parasites while warning against real-life overuse.
+- [Entrepreneur Strike Myth / 企业家罢工神话](concepts/EntrepreneurStrikeMyth.md) — Episode-09 reading of 《阿特拉斯耸耸肩》 as a fable about creators and entrepreneurs withdrawing from hostile institutions.
+- [Anti-Altruism as Moral-Coercion Critique / 反利他主义的道德胁迫批判](concepts/AntiAltruismMoralCoercion.md) — Episode-09 Rand concept separating voluntary care from coerced sacrifice and warning that anti-altruism can itself become totalizing.
 - [Existentialism / 存在主义](concepts/Existentialism.md) — Sartre-associated philosophy used by episode 135 to explain postwar meaning-making while deflating the philosopher's public myth.
 - [Free Love Practice Gap / 自由恋爱实践落差](concepts/FreeLovePracticeGap.md) — Gap between romantic-freedom doctrine and real care, jealousy, secrecy, reputation, and power in relationships.
 - [Ideological Totalization Risk / 主义万能钥匙风险](concepts/IdeologicalTotalizationRisk.md) — Risk that an ism becomes a master key that simplifies real people, evidence, feeling, and responsibility.

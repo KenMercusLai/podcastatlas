@@ -2,8 +2,8 @@
 title: "Author-Character Separation"
 type: concept
 tags: [literature, interpretation, criticism]
-sources: [40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320]
-last_updated: 2026-07-14
+sources: [40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366, 51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320, 09-atelasi-songsongjian-anlande-zhishi-shuangwen-zuojia-ma-543277898]
+last_updated: 2026-07-25
 ---
 
 # Author-Character Separation
@@ -14,12 +14,15 @@ The concept helps the episode answer the "anti-human" question. Swift can make a
 
 [[40-pingmianguo-jinzhi-ranse-nvren-weixian-xiangshang-bushi-xiangbei-612835366]] extends the concept through [[Flatland|《平面国》 / Flatland]]. The square narrator describes women and lower classes through Flatland's prejudiced system, but the episode argues that this voice is part of [[EdwinAbbott|Edwin A. Abbott / 爱德温·爱伯特]]'s satire rather than a direct statement of the author's beliefs.
 
+[[09-atelasi-songsongjian-anlande-zhishi-shuangwen-zuojia-ma-543277898]] adds a different problem through [[TheFountainhead|The Fountainhead / 《源泉》]]. The source does not separate Rand from her heroes in the same satirical way, but it still warns against treating Howard Roark's superhuman integrity, conflict style, or controversial actions as real-life advice. A character can carry an author's ideal and still require genre and allegory discipline before imitation.
+
 ## Key Claims
 - A narrator can be central without being reliable.
 - A character's extremity may expose a danger rather than express the author's recommendation.
 - Literary interpretation needs to separate author, narrator, character, genre mask, and reader effect.
 - This separation is especially important for satire because satire often speaks through exaggeration, parody, false seriousness, and distorted voices.
 - Biographical context can help test a reading, but it should support close attention to voice and structure rather than replace it.
+- Even when a character is idealized rather than satirical, readers still need to separate allegorical function from practical imitation.
 
 ## Connections
 - [[LemuelGulliver]] - source character whose final view triggers the concept.
@@ -29,3 +32,4 @@ The concept helps the episode answer the "anti-human" question. Swift can make a
 - [[ClassicReadingComplexity]] - broader discipline for preserving literary ambiguity.
 - [[AntiheroMisreading]] - adjacent pattern where audiences detach a character from the work's warning structure.
 - [[Flatland|《平面国》 / Flatland]], [[EdwinAbbott|Edwin A. Abbott / 爱德温·爱伯特]], and [[GeometricSocialHierarchy]] - episode 40's extension into satirical misogyny and class hierarchy.
+- [[TheFountainhead]], [[AynRand]], [[CreatorParasiteMoralFrame]], and [[ClassicReadingComplexity]] - episode 09's extension into idealized allegorical heroes.

@@ -4916,6 +4916,10 @@ Added source page for a Marketplace Tech episode with Paul Vixie on dot-com fibe
 
 Ran lint. See lint-report.md for details.
 
+## [2026-07-25] ingest | 09.阿特拉斯耸耸肩：安兰德只是爽文作家吗？
+
+Added source page for a 蜜獾吃书 episode on Ayn Rand, 《源泉》, and 《阿特拉斯耸耸肩》 as mythic rather than realist fiction. Created pages for The Fountainhead, Atlas Shrugged, Creator-Parasite Moral Frame, Entrepreneur Strike Myth, and Anti-Altruism as Moral-Coercion Critique; updated overview, index, 蜜獾吃书, Ayn Rand, Objectivism, Ideological Totalization Risk, Pure Rationality Trap, Classic Reading Complexity, Non-Instrumental Literary Reading, and Author-Character Separation. No direct contradiction found; the source extends the existing Rand branch by explaining why Rand's fiction can feel liberating while still warning that creator/parasite clarity, anti-altruist ethics, and entrepreneur-strike imagery become dangerous when turned into total social diagnostics.
+
 ## [2026-07-25] ingest | California buildings must limit "embodied carbon." Here's what that means
 
 Added source page for a Marketplace Tech episode on California's embodied-carbon building-code requirements for large non-residential construction, using Malibu High School as the material-review case. Created pages for Malibu High School, Vertical Group, BN Builders, Emily English, U.S. Green Building Council of California, Ben Stapleton, American Public Media, Embodied Carbon Building Code, Operational Carbon, Construction Carbon Compliance, and Low-Carbon Construction Materials; updated overview, index, Marketplace Tech, Stephanie Hughes, California, How We Survive, Amy Scott, Sustainable Construction Carbon Tradeoff, Economic Climate Tech Adoption, and Environmental Tradeoff Accounting. No direct contradiction found; the source qualifies existing construction-carbon material by shifting embodied carbon from post-wildfire tradeoff analysis into mandatory code compliance and market-demand signaling for sustainable materials.
@@ -5071,6 +5075,10 @@ Ran lint after health passed. Scanned 6,989 wiki pages. Deterministic lint found
 ## [2026-07-25] ingest | 07.用荣格理论分析《小王子》 永恒少年及其他
 
 Added source page for a 蜜獾吃书 episode rereading 《小王子》 through Jungian psychology, Marie-Louise von Franz's eternal-youth frame, Saint-Exupery biography, the rose/fox/snake symbols, death escape, relational responsibility, and statistics versus concrete life. Created pages for Carl Jung, Marie-Louise von Franz, 《永恒少年：我们为何拒绝长大》, Antoine de Saint-Exupery, Consuelo de Saint-Exupery, Puer Aeternus, Jungian Archetypal Reading, Mother Complex, Romantic Death Escape, Statistical Poisoning Of The Soul, and Responsibility Against Romantic Escape; updated overview, index, The Little Prince, 蜜獾吃书, 秦总, 北明 / 北民, Children's Literature Complexity, Classic Reading Complexity, Adult Fairy-Tale Reading, Interpretation And Overinterpretation, and Adolescent Alienation Recognition. No direct contradiction found; the source deepens the existing Little Prince death-shadow branch while keeping its Jungian and biographical claims source-scoped.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-25] lint | Wiki health check
 

@@ -2,8 +2,8 @@
 title: "Ideological Totalization Risk / 主义万能钥匙风险"
 type: concept
 tags: [ideology, philosophy, judgment, life-design]
-sources: [135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670]
-last_updated: 2026-07-24
+sources: [135-xianliao-weida-zuojiamen-de-bagua-di-san-dan-823746670, 09-atelasi-songsongjian-anlande-zhishi-shuangwen-zuojia-ma-543277898]
+last_updated: 2026-07-25
 ---
 
 # Ideological Totalization Risk / 主义万能钥匙风险
@@ -14,14 +14,18 @@ The source builds the concept from four author cases. [[HGWells|H. G. Wells / H.
 
 The concept is related to [[RationalHumility]] and [[PureRationalityTrap]]. It does not reject thinking in abstractions; it asks abstractions to remain answerable to evidence, relationships, and ordinary life. The episode's final value is close to [[SecularHappinessAgainstIdeology]]: real life and real affection matter more than performing total theoretical consistency.
 
+[[09-atelasi-songsongjian-anlande-zhishi-shuangwen-zuojia-ma-543277898]] adds a more sympathetic version of the same warning. The source argues that Rand's clarity can genuinely help young readers escape moral confusion and authority pressure, but the help becomes risky when [[TheFountainhead|《源泉》]] and [[AtlasShrugged|《阿特拉斯耸耸肩》]] are read as literal social diagnostics rather than allegorical provocations.
+
 ## Key Claims
 - Doctrine is useful as a tool but dangerous as a total worldview.
 - Smart people may be especially tempted to compress messy reality into elegant concepts.
 - Political, literary, or philosophical systems should be judged by how they behave under practical pressure.
 - A doctrine can be distorted after the author by followers who extract only the most useful toxin.
+- Allegorical fiction becomes risky when readers convert its mythic categories into direct labels for real people.
 
 ## Connections
 - [[AynRand]], [[Objectivism]], and [[NathanielBranden]] - strongest source case.
+- [[TheFountainhead]], [[AtlasShrugged]], [[CreatorParasiteMoralFrame]], and [[EntrepreneurStrikeMyth]] - source-09 extension into Rand's fiction.
 - [[JeanPaulSartre]] and [[Existentialism]] - philosophy and politics case.
 - [[HGWells]] and [[FreeLovePracticeGap]] - contradiction and doctrine-practice case.
 - [[SecularHappinessAgainstIdeology]], [[PureRationalityTrap]], [[RationalHumility]], and [[IdeologicalOvercontrol]] - neighboring wiki concepts.
