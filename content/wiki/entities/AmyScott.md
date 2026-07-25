@@ -2,7 +2,7 @@
 title: "Amy Scott"
 type: entity
 tags: [journalist, podcast, climate]
-sources: [tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
+sources: [tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
 last_updated: 2026-07-25
 ---
 
@@ -16,8 +16,11 @@ Scott's reporting also links the technical demonstration to public funding and l
 
 [[tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128]] adds Scott through the closing [[HowWeSurvive]] promo. The episode frames her climate-solutions podcast as covering messy climate responses, including geoengineering and space-based sunshades, after the main segment on EV affordability.
 
+[[tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128]] adds another closing-promo mention of Scott and [[HowWeSurvive]]. The main episode is about [[DataCenterBacklash]] and [[DataCenterCommunityConsent]], while the promo points listeners toward climate-solutions reporting on geoengineering ideas.
+
 ## Connections
 - [[MarketplaceTech]] and [[HowWeSurvive]] - Marketplace reporting context around climate technology.
+- [[DataCenterBacklash]] and [[DataCenterCommunityConsent]] - main episode context attached to the promo.
 - [[EmbodiedCarbonBuildingCode]] and [[LowCarbonConstructionMaterials]] - climate-solutions promo context from the California building-materials episode.
 - [[HeirloomCarbonTechnologies|Heirloom Carbon Technologies]], [[ChristianToya]], and [[LimestoneLoopCarbonCapture]] - interview and site-visit branch.
 - [[CarbonRemoval]], [[DirectAirCapture]], [[CarbonRemovalCostCurve]], and [[CarbonRemovalPoliticalDurability]] - concepts her reporting connects.

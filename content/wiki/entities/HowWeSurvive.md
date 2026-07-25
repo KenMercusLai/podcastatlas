@@ -2,7 +2,7 @@
 title: "How We Survive"
 type: entity
 tags: [podcast, climate, marketplace]
-sources: [tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
+sources: [tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
 last_updated: 2026-07-25
 ---
 
@@ -16,8 +16,11 @@ In this source, How We Survive functions as a bridge from a concise technology s
 
 [[tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128]] adds another promo context. The EV price-parity episode closes by describing How We Survive as [[AmyScott]]'s podcast about the messy business of climate solutions, including geoengineering and space-based sunshades.
 
+[[tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128]] adds another closing promo context after the main [[DataCenterBacklash]] interview. The promo again points to [[AmyScott]]'s climate-solutions reporting and speculative geoengineering ideas, while the main episode remains focused on data-center politics.
+
 ## Connections
 - [[MarketplaceTech]] and [[AmyScott]] - Marketplace reporting context.
+- [[DataCenterBacklash]] and [[DataCenterCommunityConsent]] - main episode context adjacent to the promo.
 - [[EmbodiedCarbonBuildingCode]] and [[LowCarbonConstructionMaterials]] - construction-carbon climate-solution branch promoted beside the show.
 - [[HeirloomCarbonTechnologies|Heirloom Carbon Technologies]], [[DirectAirCapture]], and [[CarbonRemoval]] - main topic promoted from the episode.
 - [[ClimateStartupCommercializationGap]] and [[CarbonRemovalMoralHazard]] - deeper questions the source points toward.

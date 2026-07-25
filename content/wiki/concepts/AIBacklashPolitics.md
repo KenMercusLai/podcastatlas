@@ -2,8 +2,8 @@
 title: "AI Backlash Politics"
 type: concept
 tags: [ai, politics, public-opinion]
-sources: [live-anthropic-co-founder-on-ai-and-jobs, a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-07-24
+sources: [tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, live-anthropic-co-founder-on-ai-and-jobs, a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55, tech-20260105-0105-mp-tech-pod-128-tech-20260105-0105-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128, fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # AI Backlash Politics
@@ -20,6 +20,8 @@ The concept matters because it adds a legitimacy constraint to the wiki's AI syn
 
 [[tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]] adds the data-center affordability version. [[AnitaRamaswamy]] says consumers are pressuring utilities and politicians not to absorb AI data-center costs, while [[DonaldTrump]] and [[RonDeSantis]] are cited as signs that power bills, local buildout, and AI regulation can become campaign-facing issues.
 
+[[tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128]] adds the community-consent version. [[TonyPippa]] says data centers are part of artificial intelligence and that AI as a technology issue will also be a political issue; the episode connects state bans, local deals, and the Virginia governor's race to the same infrastructure-politics pattern.
+
 [[tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]] adds a Marketplace Tech policy-news version. [[MariaCurie|Maria Curi]] identifies children, social media, AI chatbots, jobs, elections, and data-center impacts on electricity bills, land, and communities as the technology issues to watch, while the [[USDepartmentOfLabor|U.S. Department of Labor]] AI course shows an official "skill up" response to anxiety.
 
 ## Key Claims
@@ -30,8 +32,10 @@ The concept matters because it adds a legitimacy constraint to the wiki's AI syn
 - The Planet Money live source adds that redistribution may need explicit tax design if AI companies and machine systems capture a large share of production gains.
 - Government AI literacy programs can reduce fear while still leaving displacement, safeguards, and infrastructure-cost politics unresolved.
 - Survey-measured model values can intensify public concern when AI tools are used for advice, education, or morally sensitive questions.
+- Data-center buildout can turn AI politics into local and statewide election politics when communities connect AI infrastructure to power, water, jobs, and control over development.
 
 ## Connections
+- [[TonyPippa]], [[DataCenterCommunityConsent]], and [[Maine]] - state-ban and local-consent branch added by Marketplace Tech.
 - [[AIWorkerLiteracy]], [[USDepartmentOfLabor|U.S. Department of Labor]], and [[SocialMediaProductLiability]] - Marketplace Tech policy-news branch around workers, children, and platform accountability.
 - [[JackClark]], [[AIAutomationRedistribution]], [[Anthropic]], and [[Claude]] - redistribution branch added by Planet Money.
 - [[UnitedStates]] - country case for the episode's AI politics segment.

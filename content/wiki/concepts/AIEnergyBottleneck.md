@@ -2,13 +2,15 @@
 title: "AI Energy Bottleneck"
 type: concept
 tags: [ai, energy, infrastructure, data-centers]
-sources: [indicators-of-2025-and-what-to-watch-in-2026, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
-last_updated: 2026-07-24
+sources: [tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, indicators-of-2025-and-what-to-watch-in-2026, tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio, tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # AI Energy Bottleneck
 
 AI energy bottleneck is the constraint created when AI development and deployment require more electricity, grid connection capacity, and utility infrastructure than can be supplied quickly, cheaply, or politically. [[the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]] makes this bottleneck concrete through state utility regulation and data-center connection costs.
+
+[[tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128]] adds the community-consent version. [[TonyPippa]] says data-center companies are responding to local resistance by paying more attention to energy costs, water resources, and cooling technology, showing that the energy bottleneck is negotiated through town politics as well as utility engineering.
 
 [[tech-20260216-0216-mp-tech-pod-128-tech-20260216-0216-mp-tech-pod-128]] adds the interconnection-queue workaround. When grid connection approvals take years, some data-center developers use [[DataCenterOnsitePower]] instead, including natural gas generators from [[Caterpillar]]. This can shorten deployment time, but it shifts the bottleneck toward generator manufacturing, fuel supply, emissions exposure, and onsite operating reliability.
 
@@ -32,8 +34,10 @@ The concept extends [[MaaSInfrastructure]] and [[AIComputeContinuity]]. Compute 
 - Electricity exemptions and energy requirements can turn tax-incentive design into an AI energy-policy tool.
 - Clean baseload procurement only helps the bottleneck if the generation technology clears hard-tech deployment gates: reliability, permitting, cost, grid delivery, and manufacturing rate.
 - AI electricity demand becomes more politically salient when it appears inside household power bills rather than only inside data-center operating costs.
+- Energy access can become a local election and community-consent issue when communities believe data-center buildout is arriving faster than their planning capacity.
 
 ## Connections
+- [[TonyPippa]] and [[DataCenterCommunityConsent]] - community-negotiation layer added by the April 23 Marketplace Tech episode.
 - [[PublicUtilityCommissions]] - regulatory layer that manages utility rates and infrastructure approvals.
 - [[DataCenterOnsitePower]], [[Caterpillar]], and [[DavidVictor]] - onsite-generation and speed-to-deployment layer added by the 2026 Marketplace Tech source.
 - [[DataCenterCostShifting]] - ratepayer-risk side of the bottleneck.

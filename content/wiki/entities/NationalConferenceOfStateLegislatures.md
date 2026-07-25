@@ -2,8 +2,8 @@
 title: "National Conference of State Legislatures"
 type: entity
 tags: [policy, state-legislatures, research]
-sources: [tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128]
-last_updated: 2026-07-10
+sources: [tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # National Conference of State Legislatures
@@ -12,8 +12,11 @@ The National Conference of State Legislatures is the institutional source for [[
 
 The organization matters to the wiki because it adds a state-legislative view to the AI infrastructure branch. Earlier data-center pages emphasized [[PublicUtilityCommissions]] and utility-rate design; this source adds the legislative and tax-policy layer that can make data-center construction more financially attractive before utility costs and local impacts are fully resolved.
 
+[[tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128]] adds a ban-and-moratorium branch. The episode cites NCSL as saying 13 other states were considering bans on data-center development, placing [[HyperscaleDataCenterMoratorium]] and [[DataCenterCommunityConsent]] alongside the earlier tax-incentive discussion.
+
 ## Connections
 - [[NicholasMiller]] - NCSL expert quoted in the episode.
 - [[MarketplaceTech]] - show context.
 - [[DataCenterTaxIncentives]] - main state-policy issue summarized through NCSL data.
+- [[Maine]], [[DataCenterBacklash]], [[DataCenterCommunityConsent]], and [[HyperscaleDataCenterMoratorium]] - later ban and state-pause branch.
 - [[UnitedStates]], [[AIEnergyBottleneck]], and [[AIComputeContinuity]] - broader country and infrastructure context.

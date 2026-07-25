@@ -2,7 +2,7 @@
 title: "Data Center Cost Shifting"
 type: concept
 tags: [ai, data-centers, energy, regulation]
-sources: [tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, indicators-of-2025-and-what-to-watch-in-2026, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
+sources: [tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128, indicators-of-2025-and-what-to-watch-in-2026, tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128, tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128, the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers, tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128, tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]
 last_updated: 2026-07-25
 ---
 
@@ -11,6 +11,8 @@ last_updated: 2026-07-25
 Data center cost shifting is the risk that utilities build grid infrastructure for large data centers while residential customers or other ordinary ratepayers absorb some of the cost through higher bills. [[the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers]] adds this as the rate-design version of the wiki's AI infrastructure branch.
 
 [[tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128]] adds a public-facing version of the same concern. [[JoannaStern]] says data-center pushback includes power-grid pressure, rising power costs, water use, taxes, and other local burdens, connecting [[DataCenterCostShifting]] to [[DataCenterIncentiveReferendum]] politics.
+
+[[tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128]] adds the local-deal version through [[TonyPippa]]. The source says industry responses to pushback include attention to energy costs, water resources, and cooling technology, making rate, resource, and mitigation terms part of [[DataCenterCommunityConsent]] rather than only technical planning.
 
 The concept connects AI buildout to public finance. Data centers may create demand for new transmission, substations, generation, or grid upgrades, but the utility system spreads costs through regulated rates unless [[PublicUtilityCommissions]] require different terms. The source highlights upfront payments and long contracts as tools for assigning more of the burden to the data-center customer.
 
@@ -35,8 +37,10 @@ The concept connects AI buildout to public finance. Data centers may create dema
 - Ratepayer and utility-bill concerns can become a reason for state-level moratoriums on the largest data centers.
 - Electricity-rate increases can make cost shifting visible to households before the technical details of utility rate design are widely understood.
 - Local tax and voter-approval fights can surface the same fairness question even before a formal utility rate case.
+- Energy-cost and water-resource terms can become part of the community bargain when residents do not feel they are at the table for long-lived data-center projects.
 
 ## Connections
+- [[TonyPippa]] and [[DataCenterCommunityConsent]] - local-deal frame added by the April 23 Marketplace Tech episode.
 - [[PublicUtilityCommissions]] - regulators that can shape cost allocation.
 - [[ScottBrennan]] - source expert describing the mechanisms.
 - [[AIEnergyBottleneck]] - energy demand pressure behind the cost-allocation problem.

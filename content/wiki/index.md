@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Anti-AI data center sentiment is becoming a political issue](sources/tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128.md) — Marketplace Tech episode on data-center bans, Maine's statewide construction pause, local community consent, energy and water concerns, and AI infrastructure becoming an election issue.
 - [When do tech companies need to be consistently profitable?](sources/tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128.md) — Marketplace Tech episode on Snap layoffs, path-to-profitability pressure, activist investor campaigns, and how Amazon/AWS and Meta shape investor patience for losses.
 - [News sites are blocking access to Internet Archive's Wayback Machine](sources/tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128.md) — Marketplace Tech episode on news publishers blocking the Wayback Machine over AI proxy-scraping fears, public web archiving, copyright risk, and the fragility of internet history.
 - [California buildings must limit "embodied carbon." Here's what that means](sources/tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128.md) — Marketplace Tech episode on California's embodied-carbon building-code requirements, Malibu High School's lower-carbon material review, compliance routes, and how mandates can create demand for sustainable construction materials.
@@ -625,6 +626,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Tony Pippa](entities/TonyPippa.md) — Brookings Institution expert framing data-center backlash as a local-capacity and community-consent problem.
+- [Maine](entities/Maine.md) — State used by Marketplace Tech as the example of a statewide data-center construction pause through late 2027.
 - [Snap](entities/Snap.md) — Public company behind Snapchat, added as a profitability and activist-investor case separate from the product litigation branch.
 - [Sarah Kunst](entities/SarahKunst.md) — Clio Capital investor explaining how investors evaluate unprofitable tech companies and their path to profitability.
 - [Clio Capital](entities/ClioCapital.md) — Sarah Kunst's investment-firm affiliation in the Marketplace Tech episode on Snap profitability.
@@ -4205,6 +4208,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Data Center Community Consent](concepts/DataCenterCommunityConsent.md) — Governance problem of whether communities have enough time, information, and leverage to negotiate acceptable data-center development.
 - [Path To Profitability](concepts/PathToProfitability.md) — Investor-facing claim that current losses can become durable profits through credible cost structure, spending discipline, and business-model payoff.
 - [Activist Investor Pressure](concepts/ActivistInvestorPressure.md) — Public shareholder campaign pattern using letters, websites, and media attention to force company strategy and cost questions into the open.
 - [Public Web Archiving](concepts/PublicWebArchiving.md) — Public-interest preservation of web-page snapshots for accountability, memory, research, and journalism.

@@ -6507,6 +6507,10 @@
     "title": "Data Center Backlash",
     "url": "/wiki/concepts/datacenterbacklash/"
   },
+  "DataCenterCommunityConsent": {
+    "title": "Data Center Community Consent",
+    "url": "/wiki/concepts/datacentercommunityconsent/"
+  },
   "DataCenterCostShifting": {
     "title": "Data Center Cost Shifting",
     "url": "/wiki/concepts/datacentercostshifting/"
@@ -14702,6 +14706,10 @@
   "Mailbox": {
     "title": "Mailbox",
     "url": "/wiki/entities/mailbox/"
+  },
+  "Maine": {
+    "title": "Maine",
+    "url": "/wiki/entities/maine/"
   },
   "MaiquerGroup": {
     "title": "Maiquer Group / 麦趣尔",
@@ -23223,6 +23231,10 @@
     "title": "Tony Gilroy",
     "url": "/wiki/entities/tonygilroy/"
   },
+  "TonyPippa": {
+    "title": "Tony Pippa",
+    "url": "/wiki/entities/tonypippa/"
+  },
   "TonyXu": {
     "title": "Tony Xu",
     "url": "/wiki/entities/tonyxu/"
@@ -27138,6 +27150,10 @@
   "tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128": {
     "title": "When do tech companies need to be consistently profitable?",
     "url": "/wiki/sources/tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128/"
+  },
+  "tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128": {
+    "title": "Anti-AI data center sentiment is becoming a political issue",
+    "url": "/wiki/sources/tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128/"
   },
   "tech-20260710-tech-pod-128-tech-20260710-tech-pod-128": {
     "title": "OpenAI's GPT-5.6 release raises questions about White House control over new models",
