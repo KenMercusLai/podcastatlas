@@ -19,6 +19,10 @@
     "title": "07.用荣格理论分析《小王子》 永恒少年及其他",
     "url": "/wiki/sources/07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165/"
   },
+  "08-laojichao-laoji-busi-shenzhi-buzeng-diaoling-541092994": {
+    "title": "08.老妓抄：老妓不死，甚至不曾凋零",
+    "url": "/wiki/sources/08-laojichao-laoji-busi-shenzhi-buzeng-diaoling-541092994/"
+  },
   "1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6": {
     "title": "1 人公司，扛 5 个人的活，还要管 50 个 Agents？｜S10E18",
     "url": "/wiki/sources/1-ren-gongsi-kang-5-ge-ren-de-huo-hai-yao-guan-50-ge-agents-s10e18-e3a21dde-0bba-4ec2-bf12-5043500ae5c6/"
@@ -4074,6 +4078,10 @@
   "Bucephalus": {
     "title": "Bucephalus / 布西法拉斯",
     "url": "/wiki/entities/bucephalus/"
+  },
+  "BuddhistLifeAffirmingLiterature": {
+    "title": "Buddhist Life-Affirming Literature",
+    "url": "/wiki/concepts/buddhistlifeaffirmingliterature/"
   },
   "BudgetAirlineCostSqueeze": {
     "title": "Budget Airline Cost Squeeze",
@@ -9839,6 +9847,10 @@
     "title": "Gecko Robotics",
     "url": "/wiki/entities/geckorobotics/"
   },
+  "GeishaLifeCycleWriting": {
+    "title": "Geisha Life-Cycle Writing",
+    "url": "/wiki/concepts/geishalifecyclewriting/"
+  },
   "Gemini": {
     "title": "Gemini",
     "url": "/wiki/entities/gemini/"
@@ -9886,6 +9898,10 @@
   "GenderedNationalistHeroism": {
     "title": "Gendered Nationalist Heroism",
     "url": "/wiki/concepts/genderednationalistheroism/"
+  },
+  "GenderedPatronageInversion": {
+    "title": "Gendered Patronage Inversion",
+    "url": "/wiki/concepts/genderedpatronageinversion/"
   },
   "GeneShepard": {
     "title": "Gene Shepard",
@@ -13267,6 +13283,10 @@
     "title": "Katsushika Hokusai / 葛饰北斋",
     "url": "/wiki/entities/katsushikahokusai/"
   },
+  "KawabataYasunari": {
+    "title": "川端康成 / Kawabata Yasunari",
+    "url": "/wiki/entities/kawabatayasunari/"
+  },
   "KawakamiKazuto": {
     "title": "川上和人 / Kawakami Kazuto",
     "url": "/wiki/entities/kawakamikazuto/"
@@ -13662,6 +13682,10 @@
   "LaoGao": {
     "title": "Lao Gao",
     "url": "/wiki/entities/laogao/"
+  },
+  "LaoJiChao": {
+    "title": "《老妓抄》 / Rogisho",
+    "url": "/wiki/entities/laojichao/"
   },
   "LaoLiLihun": {
     "title": "老李（《离婚》） / Lao Li",
@@ -17130,6 +17154,14 @@
   "OilRevenueDependence": {
     "title": "Oil Revenue Dependence",
     "url": "/wiki/concepts/oilrevenuedependence/"
+  },
+  "OkamotoIppei": {
+    "title": "冈本一平 / Okamoto Ippei",
+    "url": "/wiki/entities/okamotoippei/"
+  },
+  "OkamotoKanoko": {
+    "title": "冈本加乃子 / Okamoto Kanoko",
+    "url": "/wiki/entities/okamotokanoko/"
   },
   "Okhotsk": {
     "title": "Okhotsk / 鄂霍次克",
@@ -22419,6 +22451,10 @@
     "title": "Substance And Extension",
     "url": "/wiki/concepts/substanceandextension/"
   },
+  "SubtlePlotPsychologicalAftertaste": {
+    "title": "Subtle Plot Psychological Aftertaste",
+    "url": "/wiki/concepts/subtleplotpsychologicalaftertaste/"
+  },
   "SuburbanDeliveryStrategy": {
     "title": "Suburban Delivery Strategy",
     "url": "/wiki/concepts/suburbandeliverystrategy/"
@@ -22762,6 +22798,10 @@
   "TangTao": {
     "title": "唐涛 / 唐唐 / Tang Tao",
     "url": "/wiki/entities/tangtao/"
+  },
+  "TanizakiJunichiro": {
+    "title": "谷崎润一郎 / Tanizaki Junichiro",
+    "url": "/wiki/entities/tanizakijunichiro/"
   },
   "TankaEverydayExpression": {
     "title": "Tanka As Everyday Expression",
@@ -25906,6 +25946,10 @@
   "Zeying": {
     "title": "Zeying",
     "url": "/wiki/entities/zeying/"
+  },
+  "ZhangAiling": {
+    "title": "张爱玲 / Eileen Chang",
+    "url": "/wiki/entities/zhangailing/"
   },
   "ZhangCongzhi": {
     "title": "张从志 / Zhang Congzhi",

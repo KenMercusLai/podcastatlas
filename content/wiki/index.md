@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [08.老妓抄：老妓不死，甚至不曾凋零](sources/08-laojichao-laoji-busi-shenzhi-buzeng-diaoling-541092994.md) — 蜜獾吃书 episode on 冈本加乃子's 《老妓抄》, her biography, Buddhist-inflected life force, subtle plot, gendered patronage inversion, and stories including 《鲤鱼》, 《蝙蝠》, 《仲夏夜之梦》, 《老妓抄》, 《五妓》, 《寿司》, and 《东海道》.
 - [07.用荣格理论分析《小王子》 永恒少年及其他](sources/07-yong-rongge-lilun-fenxi-xiaowangzi-yongheng-shaonian-ji-qita-539091165.md) — 蜜獾吃书 episode rereading 《小王子》 through Jungian psychology, eternal-youth psychology, Saint-Exupery biography, the rose/fox/snake symbols, death escape, relational responsibility, and statistics versus concrete life.
 - [06.搜神记： 二十四孝这口锅，干宝不背](sources/06-soushenji-ershisi-xiao-zhe-kou-guo-ganbao-bu-bei-536821044.md) — 蜜獾吃书 episode rereading 《搜神记》 as a mixed zhiguai archive, separating 干宝's source collection from later 《二十四孝》 moralization while tracking Li Ji, Jiang Ziwen, omens, spirits, and story motifs.
 - [The year in AI wearables](sources/tech-20251225-1225-mp-tech-pod-128-tech-20251225-1225-mp-tech-pod-128.md) — Marketplace Tech episode with Will Gottsagen on AI wearables as a 2025 trend, Meta smart glasses, gesture controls, live translation, accessibility possibilities, cloud limits, and always-on privacy concerns.
@@ -634,6 +635,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [冈本加乃子 / Okamoto Kanoko](entities/OkamotoKanoko.md) — Japanese writer whose 《老妓抄》 is read through women, Buddhist-inflected life force, late fiction, biography, and subtle psychological aftertaste.
+- [《老妓抄》 / Rogisho](entities/LaoJiChao.md) — Okamoto Kanoko short-story collection discussed by 蜜獾吃书 as quiet, plot-light, emotionally durable Japanese literature.
+- [冈本一平 / Okamoto Ippei](entities/OkamotoIppei.md) — Okamoto Kanoko's husband in the source's biography branch, tied to marriage crisis, care, and unconventional household arrangements.
+- [川端康成 / Kawabata Yasunari](entities/KawabataYasunari.md) — Literary supporter and evaluator used by the source to place Okamoto Kanoko inside modern Japanese literary recognition.
+- [谷崎润一郎 / Tanizaki Junichiro](entities/TanizakiJunichiro.md) — Early literary-circle figure in the Okamoto episode, marking status, dismissal, and later recognition.
+- [张爱玲 / Eileen Chang](entities/ZhangAiling.md) — Comparison figure for Okamoto Kanoko around female literary genius, family background, and tonal difference.
 - [Carl Jung / 荣格](entities/CarlJung.md) — Analytical psychologist whose collective-unconscious and archetype language grounds episode 07's reading of 《小王子》.
 - [Marie-Louise von Franz / 玛丽-路易丝·冯·弗兰兹](entities/MarieLouiseVonFranz.md) — Jungian analyst whose 《永恒少年：我们为何拒绝长大》 provides episode 07's eternal-youth framework.
 - [《永恒少年：我们为何拒绝长大》 / The Eternal Youth](entities/TheEternalYouth.md) — Von Franz book used by episode 07 to define the puer aeternus pattern and its repair through grounded responsibility.
@@ -4269,6 +4276,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Buddhist Life-Affirming Literature](concepts/BuddhistLifeAffirmingLiterature.md) — Episode 08 frame for fiction that accepts impermanence, loneliness, and restraint without collapsing into despair.
+- [Subtle Plot Psychological Aftertaste](concepts/SubtlePlotPsychologicalAftertaste.md) — Reading frame for low-plot fiction whose value appears through mixed motives, withheld explanation, and delayed emotional recognition.
+- [Gendered Patronage Inversion](concepts/GenderedPatronageInversion.md) — Literary power reversal where an older woman financially supports a younger man's dream, exposing gender, money, dependence, and failed ambition.
+- [Geisha Life-Cycle Writing](concepts/GeishaLifeCycleWriting.md) — Source concept for reading old and young geisha figures across age, profession, innocence, experience, and social constraint.
 - [Puer Aeternus / 永恒少年](concepts/PuerAeternus.md) — Jungian eternal-youth pattern that holds creativity, sensitivity, avoidance, commitment fear, and refusal of ordinary adult responsibility together.
 - [Jungian Archetypal Reading / 荣格式原型阅读](concepts/JungianArchetypalReading.md) — Literary method that reads recurring images as archetypal signals while keeping symbol, biography, myth, and speculation at different confidence levels.
 - [Mother Complex / 母亲情结](concepts/MotherComplex.md) — Episode 07 frame connecting maternal attachment, idealized love, and the eternal-youth difficulty with adult reciprocity.

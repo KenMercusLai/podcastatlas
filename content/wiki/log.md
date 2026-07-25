@@ -8,6 +8,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ---
 
+## [2026-07-25] ingest | 08.老妓抄：老妓不死，甚至不曾凋零
+
+Added source page for the 蜜獾吃书 episode on 冈本加乃子's 《老妓抄》, her biography, Buddhist-inflected life force, subtle plot, and stories including 《鲤鱼》, 《蝙蝠》, 《仲夏夜之梦》, 《老妓抄》, 《五妓》, 《寿司》, and 《东海道》. Created pages for Okamoto Kanoko, 《老妓抄》, Okamoto Ippei, Kawabata Yasunari, Tanizaki Junichiro, Zhang Ailing, Buddhist Life-Affirming Literature, Subtle Plot Psychological Aftertaste, Gendered Patronage Inversion, and Geisha Life-Cycle Writing; updated overview, index, 蜜獾吃书, 秦总, 北明/北民, Reading As Life Experience, Non-Instrumental Literary Reading, Female Self-Possession, Classic Reading Complexity, Modern Japanese Interior Discovery, and Literary Gossip As Context. No direct contradiction found; the source extends the wiki's Japanese literature and women's-agency branches by showing how quiet fiction, author biography, Buddhist restraint, economic dependence, and geisha life stages can produce literary force without strong plot.
+
 ## [2026-07-25] ingest | Why Big Tech leaders aligned themselves with White House politics this year
 
 Added source page for a Marketplace Tech episode with Suyash Pasi on major technology leaders' 2025 alignment with the Trump White House. Created pages for Suyash Pasi, Human Rights Research Center, Steve Bannon, Federal AI Preemption, Tech-Government Accommodation, H-1B Visa Coalition Fault Line, and Dual-Use Defense Technology; updated overview, index, Marketplace Tech, Megan McCarty-Corino, Donald Trump, White House, Elon Musk, Palantir, MAGA, MAGA Coalition Fracture, Immigration Backlash Cycle, Merit-Based Immigration Filter, AI Governance And Compliance, State AI Procurement Guardrails, Defense AI Procurement, and Defense Tech Startup Procurement. No direct contradiction found; the source reinforces the existing H-1B MAGA coalition-fracture branch and adds federal AI preemption as the deregulatory counterpoint to state procurement guardrails.
@@ -5067,6 +5071,10 @@ Ran lint after health passed. Scanned 6,989 wiki pages. Deterministic lint found
 ## [2026-07-25] ingest | 07.用荣格理论分析《小王子》 永恒少年及其他
 
 Added source page for a 蜜獾吃书 episode rereading 《小王子》 through Jungian psychology, Marie-Louise von Franz's eternal-youth frame, Saint-Exupery biography, the rose/fox/snake symbols, death escape, relational responsibility, and statistics versus concrete life. Created pages for Carl Jung, Marie-Louise von Franz, 《永恒少年：我们为何拒绝长大》, Antoine de Saint-Exupery, Consuelo de Saint-Exupery, Puer Aeternus, Jungian Archetypal Reading, Mother Complex, Romantic Death Escape, Statistical Poisoning Of The Soul, and Responsibility Against Romantic Escape; updated overview, index, The Little Prince, 蜜獾吃书, 秦总, 北明 / 北民, Children's Literature Complexity, Classic Reading Complexity, Adult Fairy-Tale Reading, Interpretation And Overinterpretation, and Adolescent Alienation Recognition. No direct contradiction found; the source deepens the existing Little Prince death-shadow branch while keeping its Jungian and biographical claims source-scoped.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-07-25] lint | Wiki health check
 
