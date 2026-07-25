@@ -2,11 +2,13 @@
 title: "Tim Cook"
 type: entity
 tags: [person, ceo, apple, governance]
-sources: [tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
-last_updated: 2026-07-10
+sources: [tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20251212-1212-mp-tech-pod-128-tech-20251212-1212-mp-tech-pod-128, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
+last_updated: 2026-07-25
 ---
 
 # Tim Cook
+
+[[tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128]] updates the succession branch from expectation to source-attributed announcement: Cook is described as stepping down as [[Apple]] CEO after about 15 years and moving into an executive chairman role. The episode says Apple revenue nearly quadrupled under Cook, while [[AnitaRamaswamy]] frames his successor [[JohnTernus]] as inheriting a harder growth environment around stagnant [[IPhone|iPhone]] sales, [[AppleIntelligence]], and the next device form factor.
 
 Tim Cook is presented in [[264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]] as the [[Apple]] CEO whose legacy is less a single new iPhone-scale product than the institutionalization of values. The episode argues that Cook turned a personal moral compass into operational practice across [[AppleAccessibility]], [[ApplePrivacy]], environmental commitments, education, diversity, [[AppleSupplyChainResponsibility]], racial justice, and geopolitical relationship management.
 
@@ -29,4 +31,4 @@ Cook's political and governance role is also central. The episode says his 2014 
 - [[ValuesAsOperationalAsset]], [[PurposeDrivenBusiness]], [[TrustAsBusinessAsset]], and [[HumanFlourishingProfit]] — adjacent business-ethics concepts.
 - [[AppleAccessibility]], [[ApplePrivacy]], and [[AppleSupplyChainResponsibility]] — main operational domains from the source.
 - [[DonaldTrump]] and [[EuropeanUnion]] — political and regulatory contexts in the episode.
-- [[JohnTernus]], [[JoannaStern]], and [[AITalentCompetition]] — succession and AI-leadership pressure added by the Marketplace Tech Bytes source.
+- [[JohnTernus]], [[JoannaStern]], [[AppleIntelligence]], and [[AIPlusTerminals]] — succession, AI-leadership, and next-device pressure added by Marketplace Tech Bytes sources.

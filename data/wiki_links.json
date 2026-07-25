@@ -1311,6 +1311,10 @@
     "title": "AI Talent Competition",
     "url": "/wiki/concepts/aitalentcompetition/"
   },
+  "AITrainingDataScarcity": {
+    "title": "AI Training Data Scarcity",
+    "url": "/wiki/concepts/aitrainingdatascarcity/"
+  },
   "AITranslation": {
     "title": "AI Translation",
     "url": "/wiki/concepts/aitranslation/"
@@ -1926,6 +1930,10 @@
   "AkutagawaRyunosuke": {
     "title": "芥川龙之介 / Ryunosuke Akutagawa",
     "url": "/wiki/entities/akutagawaryunosuke/"
+  },
+  "Alabama": {
+    "title": "Alabama",
+    "url": "/wiki/entities/alabama/"
   },
   "AlanGreenspan": {
     "title": "Alan Greenspan",
@@ -15143,6 +15151,10 @@
     "title": "Matt Jacobs",
     "url": "/wiki/entities/mattjacobs/"
   },
+  "MattKaufman": {
+    "title": "Matt Kaufman",
+    "url": "/wiki/entities/mattkaufman/"
+  },
   "MattKrop": {
     "title": "Matt Krop",
     "url": "/wiki/entities/mattkrop/"
@@ -16462,6 +16474,10 @@
   "NeutralInternetExchange": {
     "title": "Neutral Internet Exchange",
     "url": "/wiki/concepts/neutralinternetexchange/"
+  },
+  "Nevada": {
+    "title": "Nevada",
+    "url": "/wiki/entities/nevada/"
   },
   "NewBalance": {
     "title": "New Balance",
@@ -18063,6 +18079,10 @@
     "title": "Plasma TV Preference",
     "url": "/wiki/concepts/plasmatvpreference/"
   },
+  "PlatformAgeEstimation": {
+    "title": "Platform Age Estimation",
+    "url": "/wiki/concepts/platformageestimation/"
+  },
   "PlatformAntitrust": {
     "title": "Platform Antitrust",
     "url": "/wiki/concepts/platformantitrust/"
@@ -19642,6 +19662,10 @@
   "ReusableRocketTurnaround": {
     "title": "Reusable Rocket Turnaround",
     "url": "/wiki/concepts/reusablerocketturnaround/"
+  },
+  "Reuters": {
+    "title": "Reuters",
+    "url": "/wiki/entities/reuters/"
   },
   "Revid": {
     "title": "Revid",
@@ -24131,6 +24155,10 @@
     "title": "Vision Language Action Models",
     "url": "/wiki/concepts/visionlanguageactionmodels/"
   },
+  "VisionPro": {
+    "title": "Vision Pro",
+    "url": "/wiki/entities/visionpro/"
+  },
   "VisionToRealityExecution": {
     "title": "Vision-to-Reality Execution",
     "url": "/wiki/concepts/visiontorealityexecution/"
@@ -24555,6 +24583,10 @@
     "title": "Wes Streeting",
     "url": "/wiki/entities/wesstreeting/"
   },
+  "WestVirginia": {
+    "title": "West Virginia",
+    "url": "/wiki/entities/westvirginia/"
+  },
   "WesternDigital": {
     "title": "Western Digital",
     "url": "/wiki/entities/westerndigital/"
@@ -24790,6 +24822,10 @@
   "WorkplaceAITransparency": {
     "title": "Workplace AI Transparency",
     "url": "/wiki/concepts/workplaceaitransparency/"
+  },
+  "WorkplaceBehaviorTrainingData": {
+    "title": "Workplace Behavior Training Data",
+    "url": "/wiki/concepts/workplacebehaviortrainingdata/"
   },
   "WorkplaceCommunicationRisk": {
     "title": "Workplace Communication Risk",
@@ -27154,6 +27190,10 @@
   "tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128": {
     "title": "Anti-AI data center sentiment is becoming a political issue",
     "url": "/wiki/sources/tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128/"
+  },
+  "tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128": {
+    "title": "Bytes: Week in Review - Apple's new CEO, Meta's latest AI play, and Roblox's safety updates",
+    "url": "/wiki/sources/tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128/"
   },
   "tech-20260710-tech-pod-128-tech-20260710-tech-pod-128": {
     "title": "OpenAI's GPT-5.6 release raises questions about White House control over new models",

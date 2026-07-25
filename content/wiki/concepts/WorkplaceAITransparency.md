@@ -2,8 +2,8 @@
 title: "Workplace AI Transparency"
 type: concept
 tags: [ai, workplace, governance, privacy, ethics]
-sources: [tech-20260317-0317-mp-tech-pod-128-tech-20260317-0317-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources: [tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260317-0317-mp-tech-pod-128-tech-20260317-0317-mp-tech-pod-128]
+last_updated: 2026-07-25
 ---
 
 # Workplace AI Transparency
@@ -12,12 +12,15 @@ Workplace AI transparency is the deployment norm that employees should know when
 
 The concept is narrower than general [[AIGovernanceAndCompliance]]. It focuses on the employee-facing boundary for tools such as [[RecordedMeetingAnalysis]], [[WorkplaceDigitalTwins]], AI note-takers, and email analysis: the same captured data that helps people find information can also be used to judge them.
 
+[[tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128]] adds a second boundary: disclosure must cover reuse for model training, not only managerial evaluation. [[Meta]] says reported mouse, click, and keystroke capture will not be used for performance reviews, but employees may still reasonably care whether their daily workflows become [[WorkplaceBehaviorTrainingData]] for future agents.
+
 ## Key Claims
 - Workers need to know when workplace AI systems are recording, summarizing, or analyzing their activity.
 - Transparency matters more as tools move from productivity support into evaluation or skill inference.
 - Hidden surveillance can damage trust even if the underlying tool has real productivity value.
 - Employers should separate useful context capture from punitive or secret employee assessment.
 - Disclosure alone is not enough if workers reasonably believe AI records will be used against them.
+- Transparency should distinguish performance monitoring, productivity support, and model-training reuse because each creates different worker expectations and risks.
 
 ## Connections
 - [[AIWorkforceMonitoring]] - transparency boundary for workplace monitoring.
@@ -25,3 +28,4 @@ The concept is narrower than general [[AIGovernanceAndCompliance]]. It focuses o
 - [[AIGovernanceAndCompliance]] - broader governance frame.
 - [[HumanJudgmentUnderAI]] - human accountability remains necessary when AI records inform workplace decisions.
 - [[CivilLibertiesSurveillanceRisk]] - adjacent non-workplace surveillance concern where searchable data changes power relationships.
+- [[Meta]], [[AITrainingDataScarcity]], and [[WorkplaceBehaviorTrainingData]] - training-data reuse boundary added by Marketplace Tech Bytes.

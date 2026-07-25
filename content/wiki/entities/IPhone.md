@@ -2,13 +2,15 @@
 title: "iPhone"
 type: entity
 tags: [product, smartphone, platform]
-sources: [no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
-last_updated: 2026-07-08
+sources: [tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376, zhongwen-boke-huohuashi-yu-zhen-og-neihe-konghuang-72-1-72-1, 264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]
+last_updated: 2026-07-25
 ---
 
 # iPhone
 
 [[264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0]] adds iPhone as a surface where [[Apple]] values become user-facing. The episode uses LiDAR door detection, AssistiveTouch, the FBI unlock dispute, ATT-related privacy controls, and the iPhone 12 charging-brick removal to show how [[AppleAccessibility]], [[ApplePrivacy]], and environmental claims enter product and platform decisions.
+
+[[tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128]] adds the mature-product pressure case. [[AnitaRamaswamy]] says iPhone sales have stagnated in recent years, so [[Apple]]'s leadership transition from [[TimCook]] to [[JohnTernus]] is partly judged by whether the company can improve current devices or find a post-iPhone form factor that users want.
 
 iPhone appears in [[no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376]] as the product that clarified the post-keyboard smartphone era. The episode emphasizes the 2007 shift from keypad-centered design toward large capacitive touchscreens where the screen became both display and input surface.
 
@@ -28,3 +30,4 @@ iPhone appears in [[no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-a
 - [[Android]] — open ecosystem that organized non-Apple smartphone makers after iPhone.
 - [[MobileInternetPrehistory]] — iPhone marks the transition from handset prehistory toward mainstream mobile internet.
 - [[Apple]] and [[PodcastAsAsynchronousMedia]] — media-device and podcast-history layer added by episode 72.
+- [[SmartphoneAIHub]], [[AIPlusTerminals]], and [[VisionPro]] - post-iPhone interface pressure added by Marketplace Tech Bytes.

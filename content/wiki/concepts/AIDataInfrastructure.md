@@ -2,8 +2,8 @@
 title: "AI Data Infrastructure"
 type: concept
 tags: [ai, data, infrastructure]
-sources: [tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]
-last_updated: 2026-07-11
+sources: [tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]
+last_updated: 2026-07-25
 ---
 
 # AI Data Infrastructure
@@ -14,12 +14,15 @@ The Scale story shows the infrastructure layer changing over time. It starts wit
 
 [[134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]] adds a complementary data-industry map through [[XieChen]]. In that source, [[ScaleAI]] represents Data Factory logic, while [[DataEngineLearningLoop]] and [[DataAsEducation]] describe a later stage where feedback, evaluation, environments, and recipes become more important than static labels alone.
 
+[[tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128]] adds [[AITrainingDataScarcity]] as a market pressure on the infrastructure layer. [[AnitaRamaswamy]] links [[Meta]]'s reported employee computer-tracking plan and stake in [[ScaleAI]] to the problem of finding new high-value data after public web material becomes less sufficient for model improvement.
+
 ## Key Claims
 - AI data infrastructure can look unglamorous early because labeling, cleaning, and evaluation are operationally heavy.
 - The value of the infrastructure rises when model capability makes better data more valuable.
 - The same data company can move across domains as model demand changes: images, text, sensors, defense imagery, generative AI feedback, and [[AgentData]].
 - Data infrastructure includes human work, tools, expert judgment, quality control, and customer-specific recipes, not just files.
 - Agent-era data shifts attention from outputs to process: how people reason, gather information, decide, and act.
+- When public data becomes less useful at the margin, the infrastructure layer may move toward private workflow traces, employee activity, expert data, and governed collection.
 
 ## Connections
 - [[ScaleAI]] and [[AlexandrWang]] - central company and founder case.
@@ -27,3 +30,4 @@ The Scale story shows the infrastructure layer changing over time. It starts wit
 - [[AgentData]] - next data frontier in Wang's account.
 - [[UnscalableFounderWork]] - early manual labeling as infrastructure discovery.
 - [[FrontierModelScaling]] and [[HumanAgentCollaboration]] - model and workflow contexts that raise data demand.
+- [[AITrainingDataScarcity]], [[WorkplaceBehaviorTrainingData]], and [[Meta]] - April 2026 Marketplace Tech data-scarcity branch.

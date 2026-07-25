@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Bytes: Week in Review - Apple's new CEO, Meta's latest AI play, and Roblox's safety updates](sources/tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128.md) — Marketplace Tech Bytes episode on Apple succession, Meta employee activity tracking for AI training, AI data scarcity, and Roblox child-safety settlements.
 - [Anti-AI data center sentiment is becoming a political issue](sources/tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128.md) — Marketplace Tech episode on data-center bans, Maine's statewide construction pause, local community consent, energy and water concerns, and AI infrastructure becoming an election issue.
 - [When do tech companies need to be consistently profitable?](sources/tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128.md) — Marketplace Tech episode on Snap layoffs, path-to-profitability pressure, activist investor campaigns, and how Amazon/AWS and Meta shape investor patience for losses.
 - [News sites are blocking access to Internet Archive's Wayback Machine](sources/tech-20260421-0421-mp-tech-pod-128-tech-20260421-0421-mp-tech-pod-128.md) — Marketplace Tech episode on news publishers blocking the Wayback Machine over AI proxy-scraping fears, public web archiving, copyright risk, and the fragility of internet history.
@@ -626,6 +627,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [Reuters](entities/Reuters.md) — Reporting source for Meta's employee computer-tracking plan discussed by Marketplace Tech.
+- [Matt Kaufman](entities/MattKaufman.md) — Roblox chief safety officer explaining the platform's face-based age estimation tool.
+- [Alabama](entities/Alabama.md) — State attorney-general settlement context in Roblox child-safety litigation.
+- [Nevada](entities/Nevada.md) — State attorney-general settlement context in Roblox child-safety litigation.
+- [West Virginia](entities/WestVirginia.md) — State attorney-general settlement context in Roblox child-safety litigation.
+- [Vision Pro](entities/VisionPro.md) — Apple mixed-reality product used as a cautionary post-iPhone form-factor case.
 - [Tony Pippa](entities/TonyPippa.md) — Brookings Institution expert framing data-center backlash as a local-capacity and community-consent problem.
 - [Maine](entities/Maine.md) — State used by Marketplace Tech as the example of a statewide data-center construction pause through late 2027.
 - [Snap](entities/Snap.md) — Public company behind Snapchat, added as a profitability and activist-investor case separate from the product litigation branch.
@@ -2928,7 +2935,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Indeed](entities/Indeed.md) — Job-search and hiring platform whose posting data grounds the episode's tech job-posting index and narrow AI labor-demand signal.
 - [Gary Marcus](entities/GaryMarcus.md) — Cognitive scientist and NYU professor emeritus arguing in Marketplace Tech that robust AI needs world models, entity/state tracking, and causation rather than only statistical sequence prediction.
 - [Joanna Stern](entities/JoannaStern.md) — Technology columnist connecting Apple AI leadership pressure, AI hardware form factors, streaming consolidation, and AI-generated advertising backlash in the Marketplace Tech Bytes episode.
-- [John Ternus](entities/JohnTernus.md) — Apple lead engineer mentioned as a possible future CEO in the episode's Tim Cook succession and AI-era leadership discussion.
+- [John Ternus](entities/JohnTernus.md) — Apple engineering leader named in the Marketplace Tech source as the company's next CEO after Tim Cook.
 - [Jony Ive](entities/JonyIve.md) — Former Apple designer linked to OpenAI's possible AI device work and the unresolved next-interface question.
 - [Warner Bros. Discovery](entities/WarnerBrosDiscovery.md) — Media company whose studio and streaming assets anchor the episode's Netflix-versus-Paramount consolidation discussion.
 - [Paramount](entities/Paramount.md) — David Ellison-led bidder in the Warner Bros. Discovery streaming-consolidation segment.
@@ -4112,7 +4119,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Red Truck Orchards](entities/RedTruckOrchards.md) — Michigan cherry vinegar company using regional story, sampling, and simple use cases to create trial.
 - [Renaissance Technologies](entities/RenaissanceTechnologies.md) — Quantitative investment firm founded by Jim Simons and associated with the Medallion Fund.
 - [Revid](entities/Revid.md) — AI video creation and editing product associated with Tea Maker.
-- [Roblox](entities/Roblox.md) — Creator-platform comparison point for AI interactive content platforms and editor-backed game creation.
+- [Roblox](entities/Roblox.md) — Creator platform now tied to child-safety settlements, age estimation, and communication controls.
 - [Rolling AI](entities/RollingAI.md) — Enterprise AI consulting and implementation company discussed through FDE, digital employees, and service as software.
 - [Rudi's Organic Bakery](entities/RudisOrganicBakery.md) — Food company Justin Gold worked with after leaving Justin's Nut Butter under Hormel ownership.
 - [Ryo](entities/Ryo.md) — Neihe Konghuang host discussing Immersive Translate, NAS deduplication, tool discovery, app/UI displacement, live radio, and display setup.
@@ -4208,6 +4215,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [AI Training Data Scarcity](concepts/AITrainingDataScarcity.md) — Constraint pushing model companies from public web text toward higher-value workflow, expert, and process data.
+- [Workplace Behavior Training Data](concepts/WorkplaceBehaviorTrainingData.md) — Employee mouse, click, and keystroke traces captured as model-training material for computer-use agents.
+- [Platform Age Estimation](concepts/PlatformAgeEstimation.md) — Face-based or signal-based inference of user age for child-safety and communication rules.
 - [Data Center Community Consent](concepts/DataCenterCommunityConsent.md) — Governance problem of whether communities have enough time, information, and leverage to negotiate acceptable data-center development.
 - [Path To Profitability](concepts/PathToProfitability.md) — Investor-facing claim that current losses can become durable profits through credible cost structure, spending discipline, and business-model payoff.
 - [Activist Investor Pressure](concepts/ActivistInvestorPressure.md) — Public shareholder campaign pattern using letters, websites, and media attention to force company strategy and cost questions into the open.

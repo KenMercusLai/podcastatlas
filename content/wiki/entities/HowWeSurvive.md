@@ -2,7 +2,7 @@
 title: "How We Survive"
 type: entity
 tags: [podcast, climate, marketplace]
-sources: [tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
+sources: [tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128, tech-20260420-0420-mp-tech-pod-128-tech-20260420-0420-mp-tech-pod-128, tech-20260407-0407-mp-tech-pod-128-tech-20260407-0407-mp-tech-pod-128, tech-20260713-tech-pod-128-tech-20260713-tech-pod-128]
 last_updated: 2026-07-25
 ---
 
@@ -18,9 +18,12 @@ In this source, How We Survive functions as a bridge from a concise technology s
 
 [[tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128]] adds another closing promo context after the main [[DataCenterBacklash]] interview. The promo again points to [[AmyScott]]'s climate-solutions reporting and speculative geoengineering ideas, while the main episode remains focused on data-center politics.
 
+[[tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128]] adds another closing promo context after a Bytes episode on [[Apple]], [[Meta]], and [[Roblox]]. The promo repeats the climate-solutions frame around geoengineering ideas, while the main episode remains focused on platform strategy, AI training data, and child-safety controls.
+
 ## Connections
 - [[MarketplaceTech]] and [[AmyScott]] - Marketplace reporting context.
 - [[DataCenterBacklash]] and [[DataCenterCommunityConsent]] - main episode context adjacent to the promo.
+- [[Apple]], [[Meta]], and [[Roblox]] - main episode topics attached to the April 24 promo context.
 - [[EmbodiedCarbonBuildingCode]] and [[LowCarbonConstructionMaterials]] - construction-carbon climate-solution branch promoted beside the show.
 - [[HeirloomCarbonTechnologies|Heirloom Carbon Technologies]], [[DirectAirCapture]], and [[CarbonRemoval]] - main topic promoted from the episode.
 - [[ClimateStartupCommercializationGap]] and [[CarbonRemovalMoralHazard]] - deeper questions the source points toward.

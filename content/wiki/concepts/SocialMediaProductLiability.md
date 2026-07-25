@@ -2,7 +2,7 @@
 title: "Social Media Product Liability"
 type: concept
 tags: [social-media, law, child-safety, platforms]
-sources: [tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]
+sources: [tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tech-20260406-0406-mp-tech-pod-128-tech-20260406-0406-mp-tech-pod-128, tech-20260401-0401-mp-tech-pod-128-tech-20260401-0401-mp-tech-pod-128, tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128, tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128, tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128]
 last_updated: 2026-07-25
 ---
 
@@ -22,6 +22,8 @@ The episode's important shift is not the $6 million damages figure by itself. [[
 
 [[tech-20260716-0716-mp-tech-pod-128-tech-20260716-0716-mp-tech-pod-128]] extends the concept from a negligence verdict into [[StateAGPlatformLitigation]]. [[GaiaBernstein]] explains a $1.4 trillion attorneys general case against [[Meta]] over [[Facebook]] and [[Instagram]], adding [[COPPA]], [[PlatformDamagesAndDisgorgement]], [[BigTobaccoPlatformAnalogy]], and [[SocialMediaCausationScienceWars]] to the legal frame.
 
+[[tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128]] extends the child-safety design branch beyond Meta and YouTube into [[Roblox]]. The episode says Roblox reached $36 million in settlements with [[Alabama]], [[Nevada]], and [[WestVirginia|West Virginia]] after cases accused it of failing to protect minors from predatory behavior; the discussed product response is [[PlatformAgeEstimation]] and communication gating.
+
 ## Key Claims
 - Treating social media as product design changes the legal and regulatory surface from content moderation toward feature safety.
 - Parental controls may not be enough if core engagement mechanics are alleged to be harmful by design.
@@ -32,6 +34,7 @@ The episode's important shift is not the $6 million damages figure by itself. [[
 - Pre-verdict litigation turns on [[PlatformLegalCausation]] and may leave [[Section230]] for appeal rather than the jury phase.
 - Post-verdict litigation remains unstable if appellate courts reject the design-versus-content workaround or accept platform speech defenses.
 - Civil-liberties advocates may prefer privacy legislation to liability-by-verdict when product changes could restrict ordinary online speech access.
+- Game and creator platforms can face similar child-safety product pressure when user communication, age estimation, and predatory-contact prevention become part of the design case.
 
 ## Connections
 - [[BellwetherPlatformTrials]], [[Section230DesignWorkaround]], [[PlatformFirstAmendmentDefense]], [[NewMexico]], [[SantaClaraUniversity]], and [[HighTechLawInstitute|High Tech Law Institute]] - post-verdict appellate branch added by the April 2026 episode.
@@ -39,6 +42,7 @@ The episode's important shift is not the $6 million damages figure by itself. [[
 - [[EricGoldman]], [[PlatformLegalCausation]], [[Section230]], and [[InternetLiabilitySpillover]] - pre-verdict Los Angeles trial framing added by the February 2026 episode.
 - [[AaronMackey]], [[ElectronicFrontierFoundation|Electronic Frontier Foundation]], [[ComprehensiveConsumerDataPrivacy]], and [[YouthOnlineSpeechRights]] - privacy-legislation and speech-access caution added by the April 6, 2026 episode.
 - [[Meta]] and [[YouTube]] - platforms found negligent in the episode's Los Angeles verdict discussion.
+- [[Roblox]], [[MattKaufman]], [[Alabama]], [[Nevada]], [[WestVirginia|West Virginia]], and [[PlatformAgeEstimation]] - settlement and age-verification branch added by Marketplace Tech Bytes.
 - [[TikTok]] and [[Snapchat]] - platforms named as possible later litigation targets.
 - [[AttentionIndustrialization]] - broader platform-risk frame around attention capture.
 - [[AIBacklashPolitics]] - public accountability politics around children, mental health, jobs, and technology power.

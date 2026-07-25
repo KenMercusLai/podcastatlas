@@ -2,8 +2,8 @@
 title: "Computer Use Agent"
 type: concept
 tags: [agents, computer-use, interfaces]
-sources: [ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no]
-last_updated: 2026-07-23
+sources: [tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1, 139-agent-de-zongshu-he-su-yu-liao-agent-jishushi-openclaw-moment-bianjie-de-xiaomi-he-shehui-de-fushe-luffrgudeiighqxam49tfqci63no]
+last_updated: 2026-07-25
 ---
 
 # Computer Use Agent
@@ -16,6 +16,8 @@ The episode argues that current labels such as Web Agent, Desktop Agent, Mobile 
 
 [[e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70]] adds a business-operations version through [[Axio]] and coding-agent practice. [[ZhangKuo]] connects browser use, computer use, and long-context agents to Axio Work, and separately says engineering teams need master agents, code-writing subagents, documentation readers, code review, check-in rules, guardrails, and sandboxes.
 
+[[tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128]] adds a training-data demand case through [[Meta]]. The episode says Meta wants real examples of how people use computers so AI systems can perform everyday computer tasks, connecting computer-use agents to [[WorkplaceBehaviorTrainingData]] and [[AITrainingDataScarcity]].
+
 ## Key Claims
 - Computer-use work needs both [[AgentFacingInterfaces]] and GUI operation because much digital-world knowledge remains encoded in graphical workflows.
 - Coding is unusually powerful because code can cross and reshape boundaries among GUI, CLI, API, and other software surfaces.
@@ -23,6 +25,7 @@ The episode argues that current labels such as Web Agent, Desktop Agent, Mobile 
 - The category becomes more valuable when it learns the [[WorldModels]] of specific workplaces, tools, and organizations.
 - Record-and-replay workflows can make computer use more repeatable, but they still need [[AgentPermissionBoundaries]] and verification when acting on accounts, files, or business processes.
 - Business computer-use agents need rollback and human review when acting across storefronts, suppliers, inventory, customer support, code repositories, or internal systems.
+- Computer-use agents create demand for detailed human workflow traces, but collecting those traces inside workplaces requires explicit privacy and reuse boundaries.
 
 ## Connections
 - [[LanguageAgent]] — underlying paradigm for using language to reason and act.
@@ -31,3 +34,4 @@ The episode argues that current labels such as Web Agent, Desktop Agent, Mobile 
 - [[OpenClawMoment]] and [[OpenClaw]] — product shock that made computer-use and personal agents more visible.
 - [[RecordAndReplay]], [[OpenAI]], and [[AgentHarness]] — Q2 2026 workflow-capture branch added by LateTalk.
 - [[Axio]], [[AgenticB2BSourcing]], [[ClaudeCode]], [[AICodingVerification]], and [[EnterpriseAgentGovernance]] — business-operations and engineering-agent branch added by E231.
+- [[Meta]], [[WorkplaceBehaviorTrainingData]], [[AITrainingDataScarcity]], and [[AIWorkforceMonitoring]] - employee computer-use data branch added by Marketplace Tech Bytes.

@@ -2,8 +2,8 @@
 title: "Scale AI"
 type: entity
 tags: [company, ai, data, infrastructure]
-sources: [tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]
-last_updated: 2026-07-11
+sources: [tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128, tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]
+last_updated: 2026-07-25
 ---
 
 # Scale AI
@@ -19,6 +19,8 @@ After [[ChatGPT]], Scale shifted a large amount of internal capacity toward gene
 Wang's forward-looking Scale thesis is [[AgentData]]. If AI moves from chatbots to agents, Scale wants to capture how humans think, gather information, check constraints, and act while completing tasks, so agent systems can learn from expert process rather than only final answers.
 
 Scale AI also appears in [[134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]] as the episode's shorthand for industrialized AI data production. [[XieChen]] treats it as the stage after [[ImageNet]]: not only a dataset or benchmark, but a factory-like system for controlling annotation quality, efficiency, and delivery.
+
+[[tech-20260424-0424-mp-tech-pod-128-tech-20260424-0424-mp-tech-pod-128]] adds Scale AI as a data-scarcity signal in [[Meta]]'s AI strategy. [[AnitaRamaswamy]] says Meta took a big stake in Scale AI while large AI companies were running short of easy public web data, making Scale part of the shift toward higher-value data gathering, labeling, and process traces for agent training.
 
 ## Source Position
 - Scale AI represents Data Factory logic: repeatable production, annotation operations, quality control, and large human labeling capacity.
@@ -36,3 +38,4 @@ Scale AI also appears in [[134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shi
 - [[ImageNet]] — earlier dataset and benchmark stage in the source's data-industry history.
 - [[DataAsEducation]], [[DataRecipeCoCreation]], and [[DataPricingInAI]] — concepts where Scale AI is a baseline comparator.
 - [[GuanglunIntelligence]] — company contrasted with a pure Data Factory.
+- [[Meta]], [[AITrainingDataScarcity]], and [[WorkplaceBehaviorTrainingData]] - Marketplace Tech Bytes context where agent-era data becomes strategically valuable.
