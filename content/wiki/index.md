@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [22.足球经济学：读者不必是球迷](sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427.md) — 蜜獾吃书 episode on 《足球经济学》 / Soccernomics, football as an economics laboratory, analytics, discrimination, manager myths, open talent markets, club finance, event welfare, and publication delay.
 - [21.红与黑：他死于真诚](sources/21-hong-yu-hei-ta-si-yu-zhencheng-569042001.md) — 蜜獾吃书 episode on Stendhal's 《红与黑》, Julien Sorel, class ascent under Restoration France, sincerity, psychological realism, and the two central love relationships.
 - [20.德米安：该隐的额头上，那神秘的印记](sources/20-demian-gaiyin-de-etou-shang-na-shenmi-de-yinji-567302734.md) — 蜜獾吃书 episode on Hermann Hesse's 《德米安》, Cain's mark, Abraxas, Jungian symbolism, Gnosticism, wartime self-discovery, and later youth-culture reception.
 - [19.荒野上的大师：“我辈于乱世求研究，本为逆流之妄举”](sources/19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437.md) — 蜜獾吃书 live conversation with 张泉 on 《荒野上的大师》, modern Chinese academic institutions, fieldwork, wartime scholarship, Liang Sicheng, Ding Wenjiang, Zhao Yuanren, and Fu Sinian.
@@ -646,6 +647,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？](sources/agent-yuannian-di-500-tian-shenme-zai-xiaoshi-shenme-zai-dansheng-weishenme-women-bugai-zai-touzi-gui-siwei-de-ruanjian-lhwdxfpke3bmamjk4e6knk-5sn-b.md) — Podcast episode on headless software, agent-facing interfaces, GUI thinking, skills, token costs, and agentic economy infrastructure.
 
 ## Entities
+- [邓老板](entities/DengLaoban.md) — 蜜獾吃书 football-economics discussion voice bringing former fan and finance-industry perspective to the Soccernomics episode.
+- [Arsene Wenger / 温格](entities/ArseneWenger.md) — Arsenal manager used by the episode as an early case of football analytics, diet, scouting, and management modernization.
+- [刘洋洋 / Liu Yangyang](entities/LiuYangyang.md) — Translator of 《足球经济学》 praised by the episode for combining football literacy with economic and cultural translation.
 - [Stendhal / 斯汤达](entities/Stendhal.md) — French writer read by 蜜獾吃书 through 《红与黑》, psychological realism, Napoleonic memory, and delayed literary recognition.
 - [《红与黑》 / The Red and the Black](entities/RedAndBlackNovel.md) — Stendhal novel read through Julien Sorel's class performance, sincerity, passion, and two psychologically active love relationships.
 - [Julien Sorel / 于连·索雷尔](entities/JulienSorel.md) — 《红与黑》 protagonist whose ambition, class humiliation, love, and final passionate break organize the episode's reading.
@@ -1462,7 +1466,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [John Terry](entities/JohnTerry.md) — Chelsea player whose slip extended the 2008 Champions League final shootout.
 - [Athletic Bilbao](entities/AthleticBilbao.md) — Club mentioned as a later context for Ignacio Palacio Huerta's penalty work.
 - [England National Football Team](entities/EnglandNationalFootballTeam.md) — National-team context for later data-driven penalty preparation.
-- [Soccernomics](entities/Soccernomics.md) — Football-economics work connected to Stefan Szymanski and Simon Kuper in the episode.
+- [Soccernomics / 《足球经济学》](entities/Soccernomics.md) — Football-economics book now linked to penalty game theory, football as an economic laboratory, discrimination, open talent markets, club finance, and event welfare.
 - [Beautiful Game Theory](entities/BeautifulGameTheory.md) — Ignacio Palacio Huerta's related book linking football to game theory.
 - [Corey Turner](entities/CoreyTurner.md) — NPR education correspondent explaining graduate loan caps, Grad PLUS history, and the evidence around the Bennett hypothesis.
 - [Linda McMahon](entities/LindaMcMahon.md) — Trump education secretary presented as the public policy actor arguing that loan caps can reduce college costs.
@@ -4369,6 +4373,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张小珺Jùn｜商业访谈录](entities/ZhangXiaojunCommercialInterviews.md) — Business interview podcast/show context for Zhang Yueguang, Yin Qi, Gao Jiyang, Xie Saining, Xie Chen, Louis Hong, Yang Meng, and other long-form business/AI episodes.
 
 ## Concepts
+- [Football As Economic Laboratory](concepts/FootballAsEconomicLaboratory.md) — Method frame treating football as a concrete, data-rich setting for testing economic intuition about fans, wages, clubs, coaches, and tournaments.
+- [Football Analytics Modernization](concepts/FootballAnalyticsModernization.md) — Shift from tradition-led football toward data, nutrition, scouting, player support, sports science, and specialized management.
+- [Football Labor-Market Discrimination](concepts/FootballLaborMarketDiscrimination.md) — Economic method for identifying racial, gender, and coaching-market prejudice through pay, performance, and opportunity gaps.
+- [Football Manager Myth Deflation](concepts/FootballManagerMythDeflation.md) — Challenge to treating most coaches as decisive geniuses or scapegoats when outcomes also reflect squads, finance, data, and regression.
+- [Open Football Talent Markets](concepts/OpenFootballTalentMarkets.md) — Argument that open player, coach, capital, and knowledge flows can raise domestic football quality rather than simply displace locals.
+- [Soft-Budget Football Clubs](concepts/SoftBudgetFootballClubs.md) — Club-finance pattern where community identity, owner status, political access, and rescue expectations soften ordinary budget discipline.
+- [Sports Mega-Event Welfare Accounting](concepts/SportsMegaEventWelfareAccounting.md) — Distinction between weak GDP-stimulus claims and broader welfare effects such as happiness, public rhythm, image, and uneven household risks.
 - [Psychological Realism / 心理现实主义](concepts/PsychologicalRealism.md) — Literary method where inner movement, motive, shame, desire, and contradiction drive plot rather than merely decorating it.
 - [Class Mobility Performance / 阶级上升表演](concepts/ClassMobilityPerformance.md) — Pattern where upward movement requires performing the codes, beliefs, humility, or manners expected by a higher-status world.
 - [Sincerity Against Social Hypocrisy / 以真诚抵抗社会虚伪](concepts/SincerityAgainstSocialHypocrisy.md) — Tension where a false social order makes masks rational but a character's need for real recognition breaks through them.

@@ -2,8 +2,8 @@
 title: "Economic Way Of Thinking"
 type: concept
 tags: [economics, reasoning, decision-making, education]
-sources: [live-anthropic-co-founder-on-ai-and-jobs, the-laws-of-the-office-revisited, planet-money-vs-the-nbas-tanking-problem, dont-hate-the-replicator-hate-the-game, would-you-trust-an-economist-with-your-economy, inside-a-book-auction, 155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353]
-last_updated: 2026-07-24
+sources: [live-anthropic-co-founder-on-ai-and-jobs, the-laws-of-the-office-revisited, planet-money-vs-the-nbas-tanking-problem, dont-hate-the-replicator-hate-the-game, would-you-trust-an-economist-with-your-economy, inside-a-book-auction, 155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210, 61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353, 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427]
+last_updated: 2026-07-25
 ---
 
 # Economic Way Of Thinking
@@ -13,6 +13,8 @@ Economic way of thinking is the reasoning style added by [[61-zicong-yongyou-jin
 The concept matters because the source refuses two weak versions of economics: formula intimidation for beginners and slogan certainty for public problems. [[LiangJie|梁杰]] presents economics as a way to stay clear about costs, incentives, constraints, and consequences while still admitting that real social life rarely has one simple answer.
 
 [[155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210]] adds an applied behavioral version through [[ChangdehaokanNengDangFanChiMa|《长得好看能当饭吃吗》]]. The episode keeps the same ordinary-life economics posture but shifts attention to [[EverydayBehavioralEconomics]], showing how [[LossAversion]], [[MentalAccounting]], [[PriceElasticity]], [[FreeServiceHiddenCost]], and [[BeautyEconomics]] can help people interpret purchases, subsidies, earning models, and appearance pressure without reducing everything to moral blame.
+
+[[22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427]] adds a sports-laboratory version through [[Soccernomics|《足球经济学》 / Soccernomics]]. The episode treats football as [[FootballAsEconomicLaboratory]]: a familiar, emotional, data-rich sport where fan loyalty, wages, discrimination, coaching, open labor markets, club losses, and mega-event happiness can all be tested against intuition.
 
 [[would-you-trust-an-economist-with-your-economy]] adds a humility boundary. Economics remains useful as a way to reason about data, incentives, and tradeoffs, but the episode warns that economists lose trust when the reasoning posture turns into overconfident authority, ignores [[AggregateIndicatorsLivedExperienceGap]], or fails to acknowledge [[EconomicForecastingLimits]].
 
@@ -33,6 +35,7 @@ The concept matters because the source refuses two weak versions of economics: f
 - Seeing costs, incentives, and constraints does not cancel moral concern; it makes policy and personal choices more discussable.
 - Economic thinking helps ordinary readers understand work, study, consumption, cooperation, and social order without handing decisions to an authority.
 - Episode 155 adds that economics also helps separate visible cash price from hidden time, attention, quality, social, or appearance costs.
+- Episode 22 adds that sports examples can teach economics when they preserve both measurable outcomes and non-financial value such as identity, happiness, and public rhythm.
 - The economist-trust source adds that economics needs transparent uncertainty and lived-experience checks if it wants public authority.
 - The replication-games source adds that economics should examine the incentives and information asymmetries inside its own knowledge-production system.
 - The NBA tanking source adds that institutional rules should be judged by the behavior they make rational, not only by the intention behind the rule.
@@ -45,6 +48,7 @@ The concept matters because the source refuses two weak versions of economics: f
 - [[CostBenefitThinking]], [[OpportunityCost]], and [[MarginalAnalysis]] - personal-decision tools.
 - [[MarketCoordination]], [[DispersedInformationProblem]], [[ComparativeAdvantage]], and [[SubjectiveValue]] - social-order and exchange tools.
 - [[EverydayBehavioralEconomics]], [[LossAversion]], [[MentalAccounting]], and [[BeautyEconomics]] - episode-155 applied behavior and appearance extension.
+- [[Soccernomics]], [[FootballAsEconomicLaboratory]], [[FootballLaborMarketDiscrimination]], [[OpenFootballTalentMarkets]], [[SoftBudgetFootballClubs]], and [[SportsMegaEventWelfareAccounting]] - episode-22 football-economics extension.
 - [[LearningHowToLearn]], [[CollegeMajorChoice]], and [[RationalHumility]] - existing wiki concepts extended by this source.
 - [[EconomistTrustCrisis]], [[EconomicForecastingLimits]], [[OfficialStatisticsCredibility]], and [[AggregateIndicatorsLivedExperienceGap]] - trust and measurement branch added by Planet Money.
 - [[ReplicationCrisis]], [[PHacking]], [[PublicationBias]], [[ReplicationGames]], and [[ResearchIntegrityIncentives]] - reflexive incentive-analysis branch added by Planet Money.

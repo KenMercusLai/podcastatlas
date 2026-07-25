@@ -2,8 +2,8 @@
 title: "FIFA World Cup"
 type: entity
 tags: [sports, football, event]
-sources: [how-to-win-a-penalty-shootout-with-game-theory, can-world-cup-mania-grow-mls-in-the-us, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-264-ba-shijiebei-zuowei-fangfa-999416048, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
-last_updated: 2026-07-23
+sources: [how-to-win-a-penalty-shootout-with-game-theory, can-world-cup-mania-grow-mls-in-the-us, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-264-ba-shijiebei-zuowei-fangfa-999416048, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410, 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427]
+last_updated: 2026-07-25
 ---
 
 # FIFA World Cup
@@ -20,6 +20,8 @@ The source frames the 2026 tournament as a case where host-market infrastructure
 
 [[how-to-win-a-penalty-shootout-with-game-theory]] adds the knockout-stage micro-strategy layer. The episode says a 32-team knockout round can create more penalty shootouts, making [[GameTheory]], [[MixedStrategy]], [[DataDrivenPenaltyPreparation]], and [[PenaltyShootoutPressure]] more visible at the tournament's highest stakes.
 
+[[22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427]] adds the welfare-accounting layer through [[Soccernomics]]. The episode argues that World Cups and other mega-events usually do not justify themselves through conventional GDP stimulus, but may still create happiness, public rhythm, image, and shared attention. [[SportsMegaEventWelfareAccounting]] records that distinction while also preserving the source's warning that event happiness is distributed unequally and can coincide with household-safety risks.
+
 ## Key Claims
 - The 2026 tournament uses 12 four-team groups, with the top two teams and eight best third-place teams entering a 32-team knockout round.
 - The [[UnitedStates]] hosts most of the matches, making U.S. stadium and ticketing infrastructure central to the business story.
@@ -29,6 +31,7 @@ The source frames the 2026 tournament as a case where host-market infrastructure
 - The Intelligence source treats the expanded field as successful in fan atmosphere and underdog participation, while warning that political interference can still define how the tournament is remembered.
 - Planet Money adds that World Cup attention does not automatically benefit the domestic league; [[MajorEventAttentionConversion]] requires concrete bridges from tournament emotion to repeat MLS behavior.
 - The penalty-shootout source adds that expanded knockout play increases the importance of [[PenaltyShootoutStrategy]], especially when teams now expect data reports and psychological preparation.
+- The Soccernomics source adds that major-event value should be counted through welfare and distribution, not only through revenue or GDP claims.
 
 ## Connections
 - [[FIFA]], [[GianniInfantino]], [[UEFA]], [[SeppBlatter]], and [[JoaoHavelange]] - governing and historical context.
@@ -38,3 +41,4 @@ The source frames the 2026 tournament as a case where host-market infrastructure
 - [[JohnFasman]], [[DonaldTrump]], [[SportsPoliticalInterference]], [[Argentina]], [[Spain]], [[LionelMessi]], and [[CristianoRonaldo]] - tournament-memory and legitimacy branch added by The Intelligence.
 - [[MajorLeagueSoccer]], [[SeattleSounders]], [[NewEnglandRevolution]], [[ChicagoFire]], [[MajorEventAttentionConversion]], and [[SportsFandomNetworkEffects]] - domestic-league conversion branch added by Planet Money.
 - [[GameTheory]], [[MixedStrategy]], [[DataDrivenPenaltyPreparation]], [[PenaltyShootoutStrategy]], and [[PenaltyShootoutPressure]] - knockout-stage strategy branch added by Planet Money.
+- [[Soccernomics]], [[SportsMegaEventWelfareAccounting]], [[FootballAsEconomicLaboratory]], and [[SportsFandomNetworkEffects]] - welfare and social-rhythm branch added by 蜜獾吃书.

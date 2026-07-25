@@ -5160,3 +5160,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-07-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-07-25] ingest | 22.足球经济学：读者不必是球迷
+
+Added source page for a 蜜獾吃书 episode on 《足球经济学》 / Soccernomics as an economics book for non-fans as well as football readers. Created pages for 邓老板, Arsene Wenger, 刘洋洋, Football As Economic Laboratory, Football Analytics Modernization, Football Labor-Market Discrimination, Football Manager Myth Deflation, Open Football Talent Markets, Soft-Budget Football Clubs, and Sports Mega-Event Welfare Accounting; updated overview, index, Soccernomics, Stefan Szymanski, Simon Kuper, Game Theory, Data-Driven Penalty Preparation, Penalty Shootout Strategy, Football Club As Community Asset, Fat League Economics, Economic Way Of Thinking, FIFA World Cup, Premier League, Arsenal FC, Cristiano Ronaldo, Lionel Messi, and Sports Entertainment Flywheel. No direct contradiction found; the source complements the existing penalty-shootout page by distinguishing ordinary match-penalty overattribution from shootout strategy, while broadening the football branch into discrimination, soft budgets, open markets, manager mythmaking, and event welfare.
+
+## [2026-07-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

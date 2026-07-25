@@ -507,6 +507,10 @@
     "title": "21.红与黑：他死于真诚",
     "url": "/wiki/sources/21-hong-yu-hei-ta-si-yu-zhencheng-569042001/"
   },
+  "22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427": {
+    "title": "22.足球经济学：读者不必是球迷",
+    "url": "/wiki/sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427/"
+  },
   "25AndPine": {
     "title": "25 & Pine",
     "url": "/wiki/entities/25andpine/"
@@ -2838,6 +2842,10 @@
   "ArsenalFC": {
     "title": "Arsenal FC",
     "url": "/wiki/entities/arsenalfc/"
+  },
+  "ArseneWenger": {
+    "title": "Arsene Wenger / 温格",
+    "url": "/wiki/entities/arsenewenger/"
   },
   "ArtAgainstMoralInstruction": {
     "title": "Art Against Moral Instruction / 反道德说教的艺术",
@@ -7087,6 +7095,10 @@
     "title": "Democratic Transition Election",
     "url": "/wiki/concepts/democratictransitionelection/"
   },
+  "DengLaoban": {
+    "title": "邓老板",
+    "url": "/wiki/entities/denglaoban/"
+  },
   "Denmark": {
     "title": "Denmark",
     "url": "/wiki/entities/denmark/"
@@ -9279,6 +9291,14 @@
     "title": "Food Texture Aesthetics",
     "url": "/wiki/concepts/foodtextureaesthetics/"
   },
+  "FootballAnalyticsModernization": {
+    "title": "Football Analytics Modernization",
+    "url": "/wiki/concepts/footballanalyticsmodernization/"
+  },
+  "FootballAsEconomicLaboratory": {
+    "title": "Football As Economic Laboratory",
+    "url": "/wiki/concepts/footballaseconomiclaboratory/"
+  },
   "FootballClubAsCommunityAsset": {
     "title": "Football Club As Community Asset",
     "url": "/wiki/concepts/footballclubascommunityasset/"
@@ -9298,6 +9318,14 @@
   "FootballContractEnforcementRisk": {
     "title": "Football Contract Enforcement Risk",
     "url": "/wiki/concepts/footballcontractenforcementrisk/"
+  },
+  "FootballLaborMarketDiscrimination": {
+    "title": "Football Labor-Market Discrimination",
+    "url": "/wiki/concepts/footballlabormarketdiscrimination/"
+  },
+  "FootballManagerMythDeflation": {
+    "title": "Football Manager Myth Deflation",
+    "url": "/wiki/concepts/footballmanagermythdeflation/"
   },
   "FootballTransferReceivablesFinance": {
     "title": "Football Transfer Receivables Finance",
@@ -14575,6 +14603,10 @@
     "title": "Liu Xiu / 刘秀",
     "url": "/wiki/entities/liuxiu/"
   },
+  "LiuYangyang": {
+    "title": "刘洋洋 / Liu Yangyang",
+    "url": "/wiki/entities/liuyangyang/"
+  },
   "LiuZongdi": {
     "title": "Liu Zongdi / 刘宗迪",
     "url": "/wiki/entities/liuzongdi/"
@@ -17662,6 +17694,10 @@
   "OpenExtraterrestrialCivilizationImagination": {
     "title": "Open Extraterrestrial Civilization Imagination",
     "url": "/wiki/concepts/openextraterrestrialcivilizationimagination/"
+  },
+  "OpenFootballTalentMarkets": {
+    "title": "Open Football Talent Markets",
+    "url": "/wiki/concepts/openfootballtalentmarkets/"
   },
   "OpenManus": {
     "title": "OpenManus",
@@ -21992,7 +22028,7 @@
     "url": "/wiki/concepts/soapoperaeffect/"
   },
   "Soccernomics": {
-    "title": "Soccernomics",
+    "title": "Soccernomics / 《足球经济学》",
     "url": "/wiki/entities/soccernomics/"
   },
   "SocialComparisonPressure": {
@@ -22046,6 +22082,10 @@
   "SodiumIonBatteryStorage": {
     "title": "Sodium-Ion Battery Storage",
     "url": "/wiki/concepts/sodiumionbatterystorage/"
+  },
+  "SoftBudgetFootballClubs": {
+    "title": "Soft-Budget Football Clubs",
+    "url": "/wiki/concepts/softbudgetfootballclubs/"
   },
   "Softmax": {
     "title": "Softmax",
@@ -22286,6 +22326,10 @@
   "SportsMediaRights": {
     "title": "Sports Media Rights",
     "url": "/wiki/concepts/sportsmediarights/"
+  },
+  "SportsMegaEventWelfareAccounting": {
+    "title": "Sports Mega-Event Welfare Accounting",
+    "url": "/wiki/concepts/sportsmegaeventwelfareaccounting/"
   },
   "SportsOfficiatingAutomation": {
     "title": "Sports Officiating Automation",

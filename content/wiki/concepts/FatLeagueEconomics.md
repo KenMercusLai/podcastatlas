@@ -2,8 +2,8 @@
 title: "Fat League Economics"
 type: concept
 tags: [sports, finance, media, strategy]
-sources: [diary-of-a-wnba-negotiator, formula-1-1, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan]
-last_updated: 2026-07-18
+sources: [diary-of-a-wnba-negotiator, formula-1-1, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427]
+last_updated: 2026-07-25
 ---
 
 # Fat League Economics
@@ -20,6 +20,8 @@ The source contrasts F1 with many U.S. leagues that mostly distribute revenue to
 
 [[diary-of-a-wnba-negotiator]] adds the player-share question. The [[WNBA]] case shows that once league-level economics get fatter through media rights and audience growth, players may contest whether the central league and owners retain too much upside. [[SportsLaborRevenueSharing]] becomes a way to make league growth visible in player contracts.
 
+[[22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427]] adds the older [[Soccernomics]] warning that individual football clubs often remain thin or loss-making even when the surrounding sport becomes commercially huge. That source links club losses to [[SoftBudgetFootballClubs]], owner status, community identity, and off-balance-sheet value, sharpening the distinction between a fat league or tournament institution and a club that survives through social capital rather than profit.
+
 ## Key Claims
 - A league can retain value if it performs real commercial work rather than acting only as a revenue clearinghouse.
 - Teams may tolerate the structure when distributions, valuations, and cost caps make participation attractive.
@@ -28,7 +30,8 @@ The source contrasts F1 with many U.S. leagues that mostly distribute revenue to
 - A lower-tier club can be strategically useful to players or larger clubs while still being a thin, cash-consuming asset for outside investors.
 - Elite football can be investable through valuation, scarcity, rights, and minority-stake transactions even when ordinary club profit margins remain weak.
 - Fatter league economics can strengthen a league and still trigger labor conflict if player compensation is fixed while central revenue grows.
+- Episode 22 adds that a sport can have rich aggregate attention while many clubs still behave like prestige assets with soft budgets rather than cash-generating firms.
 
 ## Connections
 - [[FormulaOneGroup]], [[FormulaOne]], [[LibertyMedia]], [[FIA]], [[FIFA]], [[FIFAWorldCup]], [[JumillaCF]], [[PremierLeague]], [[UEFA]], [[RelevantSports]], [[WNBA]], and [[WNBAPlayersAssociation]] - source cases.
-- [[SportsMediaRights]], [[RacePromotionFees]], [[CostCapEconomics]], [[WorldCupExpansion]], [[GlobalSportsGovernance]], [[LeagueStakeholderAlignment]], [[FootballClubAsCommunityAsset]], [[AmericanSportsCapitalInEuropeanFootball]], [[FootballClubFinancialEngineering]], [[DeFactoSuperLeagueLogic]], and [[SportsLaborRevenueSharing]] - economics that support or limit the concept.
+- [[SportsMediaRights]], [[RacePromotionFees]], [[CostCapEconomics]], [[WorldCupExpansion]], [[GlobalSportsGovernance]], [[LeagueStakeholderAlignment]], [[FootballClubAsCommunityAsset]], [[SoftBudgetFootballClubs]], [[AmericanSportsCapitalInEuropeanFootball]], [[FootballClubFinancialEngineering]], [[DeFactoSuperLeagueLogic]], and [[SportsLaborRevenueSharing]] - economics that support or limit the concept.

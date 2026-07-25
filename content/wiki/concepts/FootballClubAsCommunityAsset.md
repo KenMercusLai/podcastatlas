@@ -2,8 +2,8 @@
 title: "Football Club As Community Asset"
 type: concept
 tags: [football, sports-business, community, governance]
-sources: [vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan]
-last_updated: 2026-07-10
+sources: [vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427]
+last_updated: 2026-07-25
 ---
 
 # Football Club As Community Asset
@@ -14,16 +14,19 @@ The concept is a lower-tier contrast to the wiki's existing sports-business page
 
 [[e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan]] adds the elite-club version of the same tension. [[ManchesterUnited]], [[ArsenalFC]], [[LiverpoolFC]], and [[ChelseaFC]] can be highly valuable global assets, but their value still depends on supporter identity, city connection, and matchday culture that owners can weaken through debt, pricing, hospitality, or financial experimentation.
 
+[[22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427]] adds the [[Soccernomics]] version through [[SoftBudgetFootballClubs]]. The episode argues that clubs often survive despite weak financial discipline because they carry happiness, local identity, owner status, political access, and financing relationships that do not appear cleanly on a club's income statement.
+
 ## Key Claims
 - A club can have social value without having a durable investment return model.
 - Local legitimacy, members, players, captains, city officials, and old operators may matter as much as formal documents.
 - Emotional value can keep a club alive, but it can also pull outside investors into spending that does not have a rational exit path.
 - [[SportsEntertainmentFlywheel]] works differently at the lower-tier level because fan identity and local continuity can matter more than scalable media economics.
 - At the elite level, community identity can become the asset being monetized, which makes [[FootballCommercializationFanConflict]] a structural rather than accidental problem.
+- Episode 22 adds that community and prestige value can create soft-budget behavior: clubs may overspend because disappearance is socially and politically hard.
 
 ## Connections
 - [[JumillaCF]] - source case.
 - [[ManchesterUnited]], [[ArsenalFC]], [[LiverpoolFC]], and [[ChelseaFC]] - elite-club cases added by E243.
 - [[FootballClubControlRisk]] - practical risk created by community-asset structure.
-- [[LeagueStakeholderAlignment]], [[SportsEntertainmentFlywheel]], [[FatLeagueEconomics]], [[AmericanSportsCapitalInEuropeanFootball]], and [[FootballCommercializationFanConflict]] - existing sports-business concepts qualified by the cases.
+- [[LeagueStakeholderAlignment]], [[SportsEntertainmentFlywheel]], [[FatLeagueEconomics]], [[AmericanSportsCapitalInEuropeanFootball]], [[SoftBudgetFootballClubs]], and [[FootballCommercializationFanConflict]] - existing sports-business concepts qualified by the cases.
 - [[GlobalSportsGovernance]] - adjacent football-institution frame from the FIFA source.

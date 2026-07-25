@@ -2,8 +2,8 @@
 title: "Lionel Messi"
 type: entity
 tags: [football, sports, attention]
-sources: [how-to-win-a-penalty-shootout-with-game-theory, can-world-cup-mania-grow-mls-in-the-us, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410]
-last_updated: 2026-07-23
+sources: [how-to-win-a-penalty-shootout-with-game-theory, can-world-cup-mania-grow-mls-in-the-us, 172-haoyun-shi-shenme-weisha-shuo-zong-bilei-hui-bai-haoyun-961254860, youve-come-a-long-way-bibi-israels-crucial-election-6a59f9ae461a6a41901ae410, 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427]
+last_updated: 2026-07-25
 ---
 
 # Lionel Messi
@@ -18,6 +18,8 @@ The point is not a sports biography. Messi functions as the source's analogy for
 
 [[how-to-win-a-penalty-shootout-with-game-theory]] adds Messi as the hook for a [[PlanetMoney]] explanation of [[PenaltyShootoutStrategy]]. The source says he is an extraordinary scorer but slightly below average at penalties, making him a useful example of why penalties depend on [[GameTheory]] and [[MixedStrategy]] as well as talent.
 
+[[22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427]] adds Messi as part of the modern athlete-management contrast with [[CristianoRonaldo]]. The source says longer elite careers now depend on sports science, injury prevention, training control, and support teams, making star longevity part of [[FootballAnalyticsModernization]] rather than only innate talent.
+
 ## Connections
 - [[ObservationBeforeInference]] - broader wiki method of seeing before over-explaining.
 - [[LuckAsInformationBandwidth]] - episode's claim that good outcomes depend on noticing useful information.
@@ -25,3 +27,4 @@ The point is not a sports biography. Messi functions as the source's analogy for
 - [[FIFAWorldCup]], [[Argentina]], [[Spain]], and [[CristianoRonaldo]] - World Cup memory branch added by The Intelligence.
 - [[MajorLeagueSoccer]], [[CamiloDurana]], [[MajorEventAttentionConversion]], and [[SportsEntertainmentFlywheel]] - MLS legitimacy and marketing branch added by Planet Money.
 - [[GameTheory]], [[MixedStrategy]], [[PenaltyShootoutStrategy]], and [[PlanetMoney]] - penalty-kick branch added by the new source.
+- [[CristianoRonaldo]], [[FootballAnalyticsModernization]], and [[Soccernomics]] - modern football management branch added by 蜜獾吃书.

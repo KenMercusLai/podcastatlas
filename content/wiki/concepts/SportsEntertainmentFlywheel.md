@@ -2,8 +2,8 @@
 title: "Sports Entertainment Flywheel"
 type: concept
 tags: [sports, media, entertainment, strategy]
-sources: [planet-money-vs-the-nbas-tanking-problem, can-world-cup-mania-grow-mls-in-the-us, diary-of-a-wnba-negotiator, formula-1-1, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, vol-264-ba-shijiebei-zuowei-fangfa-999416048, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan]
-last_updated: 2026-07-24
+sources: [planet-money-vs-the-nbas-tanking-problem, can-world-cup-mania-grow-mls-in-the-us, diary-of-a-wnba-negotiator, formula-1-1, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, vol-264-ba-shijiebei-zuowei-fangfa-999416048, e243-te-lang-pu-huanxing-hongpai-zhiwai-meiguo-ziben-ruhe-yingkong-quanqiu-zutan, 22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427]
+last_updated: 2026-07-25
 ---
 
 # Sports Entertainment Flywheel
@@ -26,6 +26,8 @@ The 2026 [[FIFAWorldCup]] source adds a tournament version of the flywheel. [[FI
 
 [[planet-money-vs-the-nbas-tanking-problem]] adds the competitive-integrity constraint. The [[NationalBasketballAssociation|NBA]] may have valuable media rights, teams, stars, and fan identity, but [[SportsTanking]] can still weaken the flywheel if late-season games become visibly misaligned with winning.
 
+[[22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427]] adds the welfare and rhythm layer through football. The episode argues that clubs and mega-events can create happiness, identity, weekly structure, and shared attention even when ordinary financial accounts look weak, but [[SportsMegaEventWelfareAccounting]] also asks who receives that happiness and who bears hidden risks.
+
 ## Key Claims
 - The flywheel needs reliable participation from teams and official legitimacy from governance.
 - Media products can educate fans and make invisible competition more legible.
@@ -38,8 +40,9 @@ The 2026 [[FIFAWorldCup]] source adds a tournament version of the flywheel. [[FI
 - At the elite-club level, ownership, venue, finance, and rights intermediaries can strengthen the flywheel while increasing the risk that fan identity is monetized faster than it is replenished.
 - A growing flywheel can still become unstable if player compensation stays fixed while league media revenue and audience attention expand.
 - A league's entertainment flywheel also depends on [[SportsDraftIncentiveDesign]] because fans need to believe teams are trying to win now, not only optimizing for future draft position.
+- The Soccernomics source adds that the flywheel's value can be social and psychological as well as commercial, especially when fandom creates durable rhythm and belonging.
 
 ## Connections
 - [[FormulaOne]], [[FormulaOneGroup]], [[LibertyMedia]], [[DriveToSurvive]], [[Netflix]], [[FIFA]], [[FIFAWorldCup]], [[MajorLeagueSoccer]], [[SeattleSounders]], [[NewEnglandRevolution]], [[ChicagoFire]], [[JumillaCF]], [[Adidas]], [[Hisense]], [[Lenovo]], [[PremierLeague]], [[ManchesterUnited]], [[ArsenalFC]], [[LiverpoolFC]], [[ChelseaFC]], and [[NationalBasketballAssociation]] - source cases.
-- [[SportsMediaRights]], [[LeagueStakeholderAlignment]], [[WorldCupExpansion]], [[MajorEventAttentionConversion]], [[SportsFandomNetworkEffects]], [[SportsRightsGrowthEngine]], [[GlobalSportsSponsorship]], [[OfflineBrandActivation]], [[SportsLifestyleConsumption]], [[CostCapEconomics]], [[CorporateHospitalityPlatform]], [[FootballClubAsCommunityAsset]], [[AmericanSportsCapitalInEuropeanFootball]], [[FootballCommercializationFanConflict]], [[SportsDraftIncentiveDesign]], [[SportsTanking]], [[SportsCompetitiveBalance]], and [[EntertainmentIPFlywheel]] - related concepts.
+- [[SportsMediaRights]], [[LeagueStakeholderAlignment]], [[WorldCupExpansion]], [[MajorEventAttentionConversion]], [[SportsFandomNetworkEffects]], [[SportsMegaEventWelfareAccounting]], [[SportsRightsGrowthEngine]], [[GlobalSportsSponsorship]], [[OfflineBrandActivation]], [[SportsLifestyleConsumption]], [[CostCapEconomics]], [[CorporateHospitalityPlatform]], [[FootballClubAsCommunityAsset]], [[AmericanSportsCapitalInEuropeanFootball]], [[FootballCommercializationFanConflict]], [[SportsDraftIncentiveDesign]], [[SportsTanking]], [[SportsCompetitiveBalance]], and [[EntertainmentIPFlywheel]] - related concepts.
 - [[WNBA]], [[WNBAPlayersAssociation]], [[WomensSportsBusinessGrowth]], and [[SportsLaborRevenueSharing]] - women's basketball labor branch added by the WNBA negotiation source.
